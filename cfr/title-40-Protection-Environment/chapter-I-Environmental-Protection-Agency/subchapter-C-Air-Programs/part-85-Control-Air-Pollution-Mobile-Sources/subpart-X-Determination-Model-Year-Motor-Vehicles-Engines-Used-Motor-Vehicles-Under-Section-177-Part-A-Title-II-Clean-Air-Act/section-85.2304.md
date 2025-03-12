@@ -1,0 +1,5 @@
+##### § 85.2304 Definition of production period. #####
+
+(a) The “annual production period” for all models within an engine family of light-duty motor vehicles, heavy-duty motor vehicles and engines, and on-highway motorcycles begins either: when any vehicle or engine within the engine family is first produced; or on January 2 of the calendar year preceding the year for which the model year is designated, whichever date is later. The annual production period ends either: When the last such vehicle or engine is produced; or on December 31 of the calendar year for which the model year is named, whichever date is sooner.
+
+(b) The date when a vehicle or engine is first produced is the “Job 1 date,” which is defined as that calendar date on which a manufacturer completes all manufacturing and assembling processes necessary to produce the first saleable unit of the designated model which is in all material respects the same as the vehicle or engine described in the manufacturer's application for certification. The “Job 1 date” may be a date earlier in time than the date on which the certificate of conformity is issued.

@@ -1,0 +1,7 @@
+##### § 144.16 Waiver of requirement by Director. #####
+
+(a) *When injection does not occur into, through or above an underground source of drinking water,* the Director may authorize a well or project with less stringent requirements for area of review, construction, mechanical integrity, operation, monitoring, and reporting than required in 40 CFR part 146 or § 144.52 to the extent that the reduction in requirements will not result in an increased risk of movement of fluids into an underground source of drinking water.
+
+(b) When injection occurs through or above an underground source of drinking water, but the radius of endangering influence when computed under § 146.06(a) is smaller or equal to the radius of the well, the Director may authorize a well or project with less stringent requirements for operation, monitoring, and reporting than required in 40 CFR part 146 or § 144.52 to the extent that the reduction in requirements will not result in an increased risk of movement of fluids into an underground source of drinking water.
+
+(c) When reducing requirements under paragraph (a) or (b) of this section, the Director shall prepare a fact sheet under § 124.8 explaining the reasons for the action.

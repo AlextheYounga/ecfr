@@ -1,0 +1,13 @@
+##### § 142.17 Review of State programs and procedures for withdrawal of approved primacy programs. #####
+
+(a)(1) At least annually the Administrator shall review, with respect to each State determined to have primary enforcement responsibility, the compliance of the State with the requirements set forth in 40 CFR part 142, subpart B, and the approved State primacy program. At the time of this review, the State shall notify the Administrator of any State-initiated program changes (*i.e.*, changes other than those to adopt new or revised EPA regulations), and of any transfer of all or part of its program from the approved State agency to any other State agency.
+
+(2) When, on the basis of the Administrator's review or other available information, the Administrator determines that a State no longer meets the requirements set forth in 40 CFR part 142, subpart B, the Administrator shall initiate proceedings to withdraw primacy approval. Among the factors the Administrator intends to consider as relevant to this determination are the following, where appropriate: whether the State has requested and has been granted, or is awaiting EPA's decision on, an extension under § 142.12(b)(2) of the deadlines for meeting those requirements; and whether the State is taking corrective actions that may have been required by the Administrator. The Administrator shall notify the State in writing that EPA is initiating primacy withdrawal proceedings and shall summarize in the notice the information available that indicates that the State no longer meets such requirements.
+
+(3) The State notified pursuant to paragraph (a)(2) of this section may, within 30 days of receiving the Administrator's notice, submit to the Administrator evidence demonstrating that the State continues to meet the requirements for primary enforcement responsibility.
+
+(4) After reviewing the submission of the State, if any, made pursuant to paragraph (a)(3) of this section, the Administrator shall make a final determination either that the State no longer meets the requirements of 40 CFR part 142, subpart B, or that the State continues to meet those requirements, and shall notify the State of his or her determination. Any final determination that the State no longer meets the requirements of 40 CFR part 142, subpart B, shall not become effective except as provided in § 142.13.
+
+(b) If a State which has primary enforcement responsibility decides to relinquish that authority, it may do so by notifying the Administrator in writing of the State's decision at least 90 days before the effective date of the decision.
+
+[54 FR 52140, Dec. 20, 1989, as amended at 60 FR 33661, June 28, 1995]

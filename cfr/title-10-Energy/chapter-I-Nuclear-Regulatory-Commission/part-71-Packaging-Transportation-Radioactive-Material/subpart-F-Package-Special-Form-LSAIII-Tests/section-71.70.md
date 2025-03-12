@@ -1,0 +1,11 @@
+##### § 71.70 Incorporations by reference. #####
+
+(a) The materials listed in this section are incorporated by reference in the corresponding sections noted and made a part of the regulations in part 71. These incorporations by reference were approved by the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval. A notice of any changes made to the material incorporated by reference will be published in the Federal Register, and the material must be available to the public. The materials can be examined, by appointment, at the NRC's Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov.* The materials are also available from the sources listed below. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 1-202-741-6030 or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+
+(b) International Organization for Standardization, ISO Central Secretariat, Chemin de Blandonnet 8 CP 401, 1214 Vernier, Geneva, Switzerland; email: *central@iso.org;* phone: + 41 22 749 01 11; Web site: *http://www.iso.org.*
+
+(1) ISO 9978:1992(E), “Radiation protection—Sealed radioactive sources—Leakage test methods,” First Edition (February 15, 1992), incorporation by reference approved for § 71.75(a), is available for purchase from the American National Standards Institute, 25 West 43rd Street, 4th Floor, New York, NY 10036, 212-642-4900, *http://www.ansi.org,* or *info@ansi.org.*
+
+(2) ISO 2919:1999(E), “Radiation protection—Sealed radioactive sources—General requirements and classification,” Second Edition (February 15, 1999), incorporation by reference approved for § 71.75(d), is available on *http://www.amazon.com.*
+
+[80 FR 34013, June 12, 2015, as amended at 80 FR 48684, Aug. 14, 2015]

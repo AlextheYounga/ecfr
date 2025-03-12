@@ -1,0 +1,3 @@
+##### § 39.17 What must I do if a change in a product affects my ability to accomplish the actions required in an airworthiness directive? #####
+
+If a change in a product affects your ability to accomplish the actions required by the airworthiness directive in any way, you must request FAA approval of an alternative method of compliance. Unless you can show the change eliminated the unsafe condition, your request should include the specific actions that you propose to address the unsafe condition. Submit your request in the manner described in § 39.19.

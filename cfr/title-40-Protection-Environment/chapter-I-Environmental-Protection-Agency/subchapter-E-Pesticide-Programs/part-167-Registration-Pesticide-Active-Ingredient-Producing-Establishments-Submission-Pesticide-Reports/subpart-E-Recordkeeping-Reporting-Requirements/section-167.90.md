@@ -1,0 +1,7 @@
+##### § 167.90 Where to obtain and submit forms. #####
+
+(a) *Where to obtain forms.* Any person may obtain blank forms for the applications and reports required by this part from any EPA Regional Office, or from the address listed in paragraph (b) of this section.
+
+(b) *Where to submit applications and reports.* Each producer operating an establishment, with the exception of those establishments not found at the same location as their company headquarters, must submit applications and reports required by this part to the EPA Regional Office which serves the area where the establishment is located. The list of Regional Office addresses is found in 40 CFR 1.7. Applications and reports for those establishments not found at the same location as their company headquarters to be submitted by the company headquarters to the Regional Office having jurisdiction over the State in which the company headquarters is located. A foreign producer who exports any pesticide product, device, or active ingredient to the United States must submit all applications and reports to:
+
+U.S. Environmental Protection Agency, Office of Enforcement and Compliance Assurance, Office of Compliance, Agriculture and Ecosystems Division (2225A), Ariel Rios Building, 1200 Pennsylvania Avenue, N.W., Washington, DC 20460, ATTN: FIFRA Foreign Establishment Registration Contact.[53 FR 35058, Sept. 8, 1988; 54 FR 32638, Aug. 9, 1989, as amended at 62 FR 49620, Sept. 23, 1997; 65 FR 4577, Jan. 31, 2000]

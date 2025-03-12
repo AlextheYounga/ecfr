@@ -1,0 +1,3 @@
+##### 47.403-2 Air transport agreements between the United States and foreign governments. #####
+
+Nothing in the guidelines of the Comptroller General (see 47.403) shall preclude, and no penalty shall attend, the use of a foreign-flag air carrier that provides transportation under an air transport agreement between the United States and a foreign government, the terms of which are consistent with the international aviation policy goals at 49 U.S.C. 1502(b) and provide reciprocal rights and benefits.

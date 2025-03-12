@@ -1,0 +1,3 @@
+##### § 1274.107 Publication of requirements. #####
+
+Cooperative agreements may result from recipient proposals submitted in response to the publication of a NASA Research Announcement (NRA), a Cooperative Agreement Notice (CAN), or other Broad Agency Announcement (BAA). BAAs, NRAs and CANs are normally promulgated through publicly accessible Government-wide announcements such as those published under the Federal Business Opportunities (FedBizOpps), and/or the NASA Acquisition Internet Service (NAIS). Prior to publicizing the CAN, see § 1274.105.

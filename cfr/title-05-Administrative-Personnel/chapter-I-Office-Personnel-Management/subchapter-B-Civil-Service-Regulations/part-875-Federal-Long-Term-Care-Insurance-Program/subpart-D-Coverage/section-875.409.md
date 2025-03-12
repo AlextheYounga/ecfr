@@ -1,0 +1,3 @@
+##### § 875.409 Must I provide an authorization to release medical information? #####
+
+You must provide the Carrier with an authorization to release medical information when requested. The Carrier may deny a claim for benefits or void your coverage if the Carrier does not receive an authorization to release medical information within 3 weeks after its request (4 weeks for those outside the United States).

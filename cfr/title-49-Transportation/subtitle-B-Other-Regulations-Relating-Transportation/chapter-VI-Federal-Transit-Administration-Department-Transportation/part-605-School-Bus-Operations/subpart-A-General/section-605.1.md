@@ -1,0 +1,5 @@
+##### § 605.1 Purpose. #####
+
+(a) The purpose of this part is to prescribe policies and procedures to implement section 109(a) of the National Mass Transportation Assistance Act of 1974 (Pub. L. 93-503; November 26, 1974; 88 Stat. 1565). Section 109(a) adds a new section 3(g) to the Federal Mass Transit Act of 1964, as amended (49 U.S.C. 1602(g)) and differs from section 164(b) of the Federal-Aid Highway Act of 1973 (49 U.S.C. 1602a(b)) in that section 3(g) applies to all grants for the construction or operation of mass transportation facilities and equipment under the Federal Mass Transit Act, and is not limited to grants for the purchase of buses as is section 164(b).
+
+(b) By the terms of section 3(g) no Federal financial assistance may be provided for the construction or operation of facilities and equipment for use in providing public mass transportation service to an applicant unless the applicant and the Administrator enter into an agreement that the applicant will not engage in school bus operations exclusively for the transportation of students and school personnel, in competition with private school bus operators.

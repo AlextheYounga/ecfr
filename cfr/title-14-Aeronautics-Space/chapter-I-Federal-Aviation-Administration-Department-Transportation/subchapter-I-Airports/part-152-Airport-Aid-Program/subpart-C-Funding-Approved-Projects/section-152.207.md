@@ -1,0 +1,3 @@
+##### § 152.207 Proceeds from disposition of land. #####
+
+Unless otherwise authorized by the Administrator, when a release has been granted authorizing the sponsor to dispose of land acquired with assistance under part 151 of this chapter or this part, or through conveyances under the Surplus Property Act, the proceeds realized from the disposal may not be used as matching funds for any airport development project or airport planning grant, but may be used for any other airport purpose.

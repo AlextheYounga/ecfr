@@ -1,0 +1,5 @@
+##### § 19.1 Purpose. #####
+
+The regulations in this part establish requirements for notices, instructions, and reports by licensees and regulated entities to individuals participating in NRC-licensed and regulated activities and options available to these individuals in connection with Commission inspections of licensees and regulated entities, and to ascertain compliance with the provisions of the Atomic Energy Act of 1954, as amended, titles II and IV of the Energy Reorganization Act of 1974, and regulations, orders, and licenses thereunder. The regulations in this part also establish the rights and responsibilities of the Commission and individuals during interviews compelled by subpoena as part of agency inspections or investigations under Section 161c of the Atomic Energy Act of 1954, as amended, on any matter within the Commission's jurisdiction.
+
+[72 FR 49483, Aug. 28, 2007]

@@ -1,0 +1,3 @@
+##### § 961.5 Federal agencies. #####
+
+Federal agencies or departments requiring DOE's disposal services for SNF and/or HLW will be accommodated by a suitable interagency agreement reflecting, as appropriate, the terms and conditions set forth in the contract in § 961.11; *Provided, however,* that the fees to be paid by Federal agencies will be equivalent to the fees that would be paid under the contract.

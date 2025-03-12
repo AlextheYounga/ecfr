@@ -1,0 +1,11 @@
+##### § 60.111 Performance of the geologic repository operations area through permanent closure. #####
+
+(a) *Protection against radiation exposures and releases of radioactive material.* The geologic repository operations area shall be designed so that until permanent closure has been completed, radiation exposures and radiation levels, and releases of radioactive materials to unrestricted areas, will be maintained within the limits specified in part 20 of this chapter and such generally applicable environmental standards for radioactivity as may have been established by the Environmental Protection Agency.
+
+(b) *Retrievability of waste.* (1) The geologic repository operations area shall be designed to preserve the option of waste retrieval throughout the period during which wastes are being emplaced and, thereafter, until the completion of a preformance confirmation program and Commission review of the information obtained from such a program. To satisfy this objective, the geologic repository operations area shall be designed so that any or all of the emplaced waste could be retrieved on a reasonable schedule starting at any time up to 50 years after waste emplacement operations are initiated, unless a different time period is approved or specified by the Commission. This different time period may be established on a case-by-case basis consistent with the emplacement schedule and the planned performance confirmation program.
+
+(2) This requirement shall not preclude decisions by the Commission to allow backfilling part or all of, or permanent closure of, the geologic repository operations area prior to the end of the period of design for retrievability.
+
+(3) For purposes of this paragraph, a reasonable schedule for retrieval is one that would permit retrieval in about the same time as that devoted to construction of the geologic repository operations area and the emplacement of wastes.
+
+[48 FR 28222, June 21, 1983, as amended at 61 FR 64268, Dec. 4, 1996; 62 FR 59276, Nov. 3, 1997]

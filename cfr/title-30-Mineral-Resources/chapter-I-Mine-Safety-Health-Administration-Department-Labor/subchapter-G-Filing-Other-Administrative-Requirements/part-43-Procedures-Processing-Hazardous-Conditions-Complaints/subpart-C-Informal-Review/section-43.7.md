@@ -1,0 +1,9 @@
+##### § 43.7 Informal review upon written notice given to an inspector on the mine premises. #####
+
+(a) A representative of miners or, where there is no such representative, a miner, who has reason to believe that a violation of the Act or a mandatory health or safety standard exists, or an imminent danger exists, may notify an authorized representative of the Secretary in writing prior to or during an inspection conducted by such representative of any violation of the Act or mandatory health or safety standard or of any imminent danger which he or she has reason to believe exists in the mine being inspected. Where the authorized representative or the Secretary refuses to issue a citation or order with respect to such alleged violation or imminent danger, the representative of miners or miner may obtain review of such refusal in accordance with paragraphs (b) through (d) of this section.
+
+(b) A request for informal review shall be sent in writing to the appropriate district manager within 10 days of the date of the refusal to issue a citation or order and shall be accompanied by any supporting information the person requesting review wishes to submit.
+
+(c) After receipt of the request for informal review, the district manager or his agent may hold, at his or her discretion, an informal conference where the person requesting review can present his views.
+
+(d) After review of all written and oral statements submitted, the district manager may either affirm the refusal to issue a citation or order or may direct that a new inspection be conducted with respect to the alleged violation or imminent danger. The district manager shall furnish the person requesting review with a written statement of the reasons for his or her final disposition of the request as soon thereafter as possible. A copy of such statement shall be furnished the operator. The district manager's determination in the matter shall be final.

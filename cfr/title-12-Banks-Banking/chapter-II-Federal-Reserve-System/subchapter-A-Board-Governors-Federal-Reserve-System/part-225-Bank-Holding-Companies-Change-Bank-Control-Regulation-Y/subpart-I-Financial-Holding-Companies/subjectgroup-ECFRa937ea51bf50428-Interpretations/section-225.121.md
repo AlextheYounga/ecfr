@@ -1,0 +1,9 @@
+##### § 225.121 Acquisition of Edge corporation affiliate by State member banks of registered bank holding company. #####
+
+(a) The Board has been asked whether it is permissible for the commercial banking affiliates of a bank holding company registered under the Bank Holding Company Act of 1956, as amended, to acquire and hold the shares of the holding company's Edge corporation subsidiary organized under section 25(a) of the Federal Reserve Act.
+
+(b) Section 9 of the Bank Holding Company Act amendments of 1966 (Pub. L. 89-485, approved July 1, 1966) repealed section 6 of the Bank Holding Company Act of 1956. That rendered obsolete the Board's interpretation of section 6 that was published in the March 1966 Federal Reserve Bulletin, page 339 (§ 225.120). Thus, so far as Federal Banking law applicable to State member banks is concerned, the answer to the foregoing question depends on the provisions of section 23A of the Federal Reserve Act, as amended by the 1966 amendments to the Bank Holding Company Act. By its specific terms, the provisions of section 23A do not apply to an affiliate organized under section 25(a) of the Federal Reserve Act.
+
+(c) Accordingly, the Board concludes that, except for such restrictions as may exist under applicable State law, it would be legally permissible by virtue of paragraph 20 of section 9 of the Federal Reserve Act for any or all of the State member banks that are affiliates of a registered bank holding company to acquire and hold shares of the Edge corporation subsidiary of the bank holding company within the amount limitation in the last sentence of paragraph 12 of section 25(a) of the Federal Reserve Act.
+
+(12 U.S.C. 24, 248, 335, 371c, 611, 618)[31 FR 10263, July 29, 1966. Redesignated at 36 FR 21666, Nov. 12, 1971]

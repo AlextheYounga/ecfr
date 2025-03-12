@@ -1,0 +1,11 @@
+##### § 124.59 Conditions requested by the Corps of Engineers and other government agencies. #####
+
+(*Applicable to State programs, see § 123.25* (*NPDES*).)
+
+(a) If during the comment period for an NPDES draft permit, the District Engineer advises the Director in writing that anchorage and navigation of any of the waters of the United States would be substantially impaired by the granting of a permit, the permit shall be denied and the applicant so notified. If the District Engineer advised the Director that imposing specified conditions upon the permit is necessary to avoid any substantial impairment of anchorage or navigation, then the Director shall include the specified conditions in the permit. Review or appeal of denial of a permit or of conditions specified by the District Engineer shall be made through the applicable procedures of the Corps of Engineers, and may not be made through the procedures provided in this part. If the conditions are stayed by a court of competent jurisdiction or by applicable procedures of the Corps of Engineers, those conditions shall be considered stayed in the NPDES permit for the duration of that stay.
+
+(b) If during the comment period the U.S. Fish and Wildlife Service, the National Marine Fisheries Service, or any other State or Federal agency with jurisdiction over fish, wildlife, or public health advises the Director in writing that the imposition of specified conditions upon the permit is necessary to avoid substantial impairment of fish, shellfish, or wildlife resources, the Director may include the specified conditions in the permit to the extent they are determined necessary to carry out the provisions of § 122.49 and of the CWA.
+
+(c) In appropriate cases the Director may consult with one or more of the agencies referred to in this section before issuing a draft permit and may reflect their views in the statement of basis, the fact sheet, or the draft permit.
+
+[48 FR 14264, Apr. 1, 1983, as amended at 54 FR 258, Jan. 4, 1989]

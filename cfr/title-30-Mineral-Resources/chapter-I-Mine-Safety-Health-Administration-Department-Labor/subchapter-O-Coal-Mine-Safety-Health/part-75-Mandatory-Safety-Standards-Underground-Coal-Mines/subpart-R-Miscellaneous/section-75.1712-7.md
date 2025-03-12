@@ -1,0 +1,3 @@
+##### § 75.1712-7 Underground sanitary facilities; waiver of requirements. #####
+
+If it has been determined by the Coal Mine Safety District Manager for the district in which the mine is located that sanitary toilets cannot be provided and maintained within 500 feet of a working place because of the thickness of the coal seam or because of any other physical restriction in the underground workings, he may, upon written application by the operator, waive the location requirements for underground sanitary facilities with respect to such working place.

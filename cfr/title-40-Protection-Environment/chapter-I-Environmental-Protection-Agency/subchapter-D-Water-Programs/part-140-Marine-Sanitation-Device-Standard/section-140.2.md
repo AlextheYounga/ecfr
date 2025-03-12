@@ -1,0 +1,3 @@
+##### § 140.2 Scope of standard. #####
+
+The standard adopted herein applies only to vessels on which a marine sanitation device has been installed. The standard does not require the installation of a marine sanitation device on any vessel that is not so equipped. The standard applies to vessels owned and operated by the United States unless the Secretary of Defense finds that compliance would not be in the interest of national security.

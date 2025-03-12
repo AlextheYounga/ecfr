@@ -1,0 +1,3 @@
+##### § 622.17 Decision of the Board. #####
+
+Any person who has not engaged in the performance of investigative or prosecuting functions in the case, or in a factually related case, may advise and assist the Board in the consideration of the case. Copies of the decision and order of the Board shall be served upon the parties. A copy of the order will also be sent to the supervisory bank if the order relates to a System association, director, officer, or other person participating in the conduct of the affairs of the association.

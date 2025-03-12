@@ -1,0 +1,7 @@
+##### § 156.204 Modification and waiver of requirements. #####
+
+(a) *Modification on Special Review.* If the Agency concludes in accordance with § 154.25(c) of this chapter that a pesticide should be placed in Special Review because the pesticide meets or exceeds the criteria for human health effects of § 154.7(a)(1)(2) or (6) of this chapter, the Agency may modify the personal protective equipment required for handlers or early-entry workers or both, the restricted-entry intervals, or the notification to workers requirements.
+
+(b) *Other modifications.* The Agency, pursuant to this subpart and authorities granted in FIFRA sections 3, 6, and 12, may, on its initiative or based on data submitted by any person, modify or waive the requirements of this subpart, or permit or require alternative labeling statements. Supporting data may be either data conducted according to Subdivisions U or K of the Pesticide Assessments guidelines or data from medical, epidemiological, or health effects studies. A registrant who wishes to modify any of the statements required in § 156.206, § 156.208, § 156.210, or § 156.212 must submit an application for amended registration unless specifically directed otherwise by the Agency.
+
+[57 FR 38146, Aug. 21, 1992, as amended at 73 FR 75596, Dec. 12, 2008]

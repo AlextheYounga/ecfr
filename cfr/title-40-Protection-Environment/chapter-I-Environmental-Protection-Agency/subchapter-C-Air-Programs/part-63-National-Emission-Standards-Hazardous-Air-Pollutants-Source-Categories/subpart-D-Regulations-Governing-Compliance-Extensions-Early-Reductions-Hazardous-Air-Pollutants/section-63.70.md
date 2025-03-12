@@ -1,0 +1,3 @@
+##### § 63.70 Applicability. #####
+
+The provisions of this subpart apply to an owner or operator of an existing source who wishes to obtain a compliance extension from a standard issued under section 112(d) of the Act. The provisions of this subpart also apply to a State or local agency acting pursuant to a permit program approved under title V of the Act. The Administrator will carry out the provisions of this subpart for any State that does not have an approved permit program.

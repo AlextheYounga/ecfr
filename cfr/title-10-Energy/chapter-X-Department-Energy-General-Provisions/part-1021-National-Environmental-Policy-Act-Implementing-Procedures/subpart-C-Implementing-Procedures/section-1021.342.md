@@ -1,0 +1,3 @@
+##### § 1021.342 Interagency cooperation. #####
+
+For DOE programs that involve another Federal agency or agencies in related decisions subject to NEPA, DOE will comply with the requirements of 40 CFR 1501.5 and 1501.6. As part of this process, DOE shall cooperate with the other agencies in developing environmental information and in determining whether a proposal requires preparation of an EIS or EA, or can be categorically excluded from preparation of either. Further, where appropriate and acceptable to the other agencies, DOE shall develop or cooperate in the development of interagency agreements to facilitate coordination and to reduce delay and duplication.

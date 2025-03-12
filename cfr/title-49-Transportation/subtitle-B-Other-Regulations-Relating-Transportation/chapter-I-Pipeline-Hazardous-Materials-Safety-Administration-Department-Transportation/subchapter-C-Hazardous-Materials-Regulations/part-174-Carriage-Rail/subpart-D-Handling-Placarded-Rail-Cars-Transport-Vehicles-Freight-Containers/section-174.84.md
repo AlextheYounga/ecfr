@@ -1,0 +1,5 @@
+##### § 174.84 Position in train of loaded placarded rail cars, transport vehicles, freight containers or bulk packagings when accompanied by guards or technical escorts. #####
+
+A rail car placarded in Division 1.1 or 1.2 (explosive); Division 2.3 (Hazard Zone A; poisonous gas); or Division 6.1 (PG I, Hazard Zone A; poisonous liquid) in a moving or standing train must be next to and ahead of any car occupied by the guards or technical escorts accompanying the placarded rail car. However, if a rail car occupied by the guards or technical escorts has temperature control equipment in operation, it must be the fourth car behind any car requiring Division 1.1 or 1.2 (explosive) placards.
+
+[Amdt. 174-68, 55 FR 52680, Dec. 21, 1990, as amended at 56 FR 66281, Dec. 20, 1991; 66 FR 45383, Aug. 28, 2001]

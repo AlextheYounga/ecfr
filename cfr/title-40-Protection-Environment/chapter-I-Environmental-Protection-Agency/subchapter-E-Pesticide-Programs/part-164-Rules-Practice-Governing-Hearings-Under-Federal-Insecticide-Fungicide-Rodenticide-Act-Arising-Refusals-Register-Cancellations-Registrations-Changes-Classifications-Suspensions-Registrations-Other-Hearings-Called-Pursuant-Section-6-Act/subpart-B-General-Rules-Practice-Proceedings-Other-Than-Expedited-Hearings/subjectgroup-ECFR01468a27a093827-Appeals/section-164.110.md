@@ -1,0 +1,9 @@
+##### § 164.110 Motion for reopening hearings; for rehearing; for reargument of any proceeding; or for reconsideration of order. #####
+
+(a) *Filing; service.* A motion for reopening the hearing to take further evidence, or for rehearing or reargument of any proceeding or for reconsideration of the order, must be made by motion to the Environmental Appeals Board filed with the hearing clerk. Every such motion must state specifically the grounds relied upon.
+
+(b) *Motion to reopen hearings.* A motion to reopen a hearing to take further evidence may be filed at any time prior to the issuance of the Administrator's final order. Every such motion shall state briefly the nature and purpose of the evidence to be adduced, shall show that such evidence is not merely cumulative, and shall set forth good reason why such evidence was not adduced at a hearing.
+
+(c) *Motions to rehear or reargue proceedings, or to reconsider final orders.* A motion to rehear or reargue the proceeding or to reconsider the final order shall be filed within 10 days after the date of service of the final order. Every such motion must state specifically the matters claimed to have been erroneously decided, and alleged errors must be briefly stated. Motions to rehear or reargue proceedings or to reconsider final orders shall be directed to, and heard by, the Environmental Appeals Board. Motions under this section directed to the Administrator will not be considered, except in cases that the Environmental Appeals Board has referred to the Administrator pursuant to § 164.2(g) and in which the Administrator has issued the final order. A motion for reconsideration shall not stay the effective date of the final order unless specifically so ordered by the Environmental Appeals Board.
+
+[38 FR 19371, July 20, 1973, as amended at 57 FR 5343, Feb. 13, 1992]

@@ -1,0 +1,3 @@
+##### § 302.717 Waiver of participant conditions. #####
+
+After the termination of a mail rate conference hereunder, the air carrier whose rates were in issue may petition the DOT decisionmaker for a release from the obligations imposed upon it and all other persons by § 302.711. The DOT decisionmaker will grant such petition only after a detailed and convincing showing is made in the petition and supporting exhibits and documents that there is no reasonable possibility that any of the abuses sought to be prevented will occur or that the Department's processes will in any way be prejudiced. There will be no hearing or oral argument on the petition and the DOT decisionmaker will grant or deny the request without being required to assign reasons therefor.

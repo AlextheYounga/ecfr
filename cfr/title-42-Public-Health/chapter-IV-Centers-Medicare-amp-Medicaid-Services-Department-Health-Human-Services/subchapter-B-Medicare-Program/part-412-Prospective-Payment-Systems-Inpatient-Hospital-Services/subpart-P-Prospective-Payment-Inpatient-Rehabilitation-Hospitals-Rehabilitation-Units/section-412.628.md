@@ -1,0 +1,3 @@
+##### § 412.628 Publication of the Federal prospective payment rates. #####
+
+We publish information pertaining to the inpatient rehabilitation facility prospective payment system effective for each fiscal year in the Federal Register. This information includes the unadjusted Federal payment rates, the patient classification system and associated weighting factors, and a description of the methodology and data used to calculate the payment rates. This information is published on or before August 1 prior to the beginning of each fiscal year.

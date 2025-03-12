@@ -1,0 +1,3 @@
+##### § 303.80 Scope. #####
+
+This subpart implements the provisions of the Change in Bank Control Act of 1978, section 7(j) of the FDI Act (12 U.S.C. 1817(j)) (CBCA), and sets forth the filing requirements and processing procedures for a notice of change in control with respect to the acquisition of control of a State nonmember bank, a State savings association, or certain parent companies of either a State nonmember bank or a State savings association.

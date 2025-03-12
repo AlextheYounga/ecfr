@@ -1,0 +1,7 @@
+##### § 125.70 Purpose and scope. #####
+
+Section 316(a) of the Act provides that:
+
+“With respect to any point source otherwise subject to the provisions of section 301 or section 306 of this Act, whenever the owner or operator of any such source, after opportunity for public hearing, can demonstrate to the satisfaction of the Administrator (or, if appropriate, the State) that any effluent limitation proposed for the control of the thermal component of any discharge from such source will require effluent limitations more stringent than necessary to assure the projection [sic] and propagation of a balanced, indigenous population of shellfish, fish and wildlife in and on the body of water into which the discharge is to be made, the Administrator (or, if appropriate, the State) may impose an effluent limitation under such sections on such plant, with respect to the thermal component of such discharge (taking into account the interaction of such thermal component with other pollutants), that will assure the protection and propagation of a balanced indigenous population of shellfish, fish and wildlife in and on that body of water.”
+
+This subpart describes the factors, criteria and standards for the establishment of alternative thermal effluent limitations under section 316(a) of the Act in permits issued under section 402(a) of the Act.

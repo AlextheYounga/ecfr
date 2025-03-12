@@ -1,0 +1,5 @@
+##### § 81.67 Lake Michigan Intrastate Air Quality Control Region. #####
+
+The Menominee-Escanaba (Michigan)-Marinette (Wisconsin) Interstate Air Quality Control Region has been renamed the Lake Michigan Intrastate Air Quality Control Region (Wisconsin) and revised to consist of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Wisconsin: Brown County, Calumet County, Door County, Fond du Lac County, Green Lake County, Kewaunee County, Manitowoc County, Marinette County, Marquette County, Menominee County, Oconto County, Outagamie County, Shawano County, Sheboygan County, Waupaca County, Waushara County, Winnebago County.

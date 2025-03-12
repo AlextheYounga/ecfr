@@ -1,0 +1,3 @@
+##### 1413.305-2 Agency responsibilities. #####
+
+Policy governing the use and administration of imprest funds within the Department are contained in 330 DM, in addition to the policies and regulations outlined in FAR 13.305-1. HCAs shall establish written procedures for designation, by name, of personnel authorized to approve requisitions and make purchases using imprest funds. The procedures shall include a periodic review of imprest fund transactions by acquisition personnel.

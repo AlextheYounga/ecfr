@@ -1,0 +1,3 @@
+##### § 18.4 Establishment of Environmental Protection Research Fellowships. #####
+
+All Environmental Protection Research fellowships shall be established by the Administrator or designee. In establishing an Environmental Protection Research fellowship, or a series of Environmental Protection Research fellowships, the Administrator shall prescribe in writing the conditions (in addition to those provided in the regulations in this part) under which Environmental Protection Research fellows will be appointed and will hold their fellowships.

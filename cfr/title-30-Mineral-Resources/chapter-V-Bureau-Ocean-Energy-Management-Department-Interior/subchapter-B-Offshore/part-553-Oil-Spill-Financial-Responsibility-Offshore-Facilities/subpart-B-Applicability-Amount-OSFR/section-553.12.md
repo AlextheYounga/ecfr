@@ -1,0 +1,3 @@
+##### § 553.12 May I ask BOEM for a determination of whether I must demonstrate OSFR? #####
+
+You may submit to BOEM a request for a determination of OSFR applicability. Address the request to the office identified in § 553.45. You must include in your request any information that will assist BOEM in making the determination. BOEM may require you to submit other information before making a determination of OSFR applicability.

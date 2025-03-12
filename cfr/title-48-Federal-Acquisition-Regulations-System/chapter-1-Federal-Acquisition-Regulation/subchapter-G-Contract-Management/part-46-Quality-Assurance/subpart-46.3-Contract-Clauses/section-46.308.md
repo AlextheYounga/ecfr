@@ -1,0 +1,3 @@
+##### 46.308 Cost-reimbursement research and development contracts. #####
+
+The contracting officer shall insert the clause at 52.246-8, Inspection of Research and Development—Cost-Reimbursement, in solicitations and contracts for research and development when (a) the primary objective of the contract is the delivery of end items other than designs, drawings, or reports, and (b) a cost-reimbursement contract is contemplated; unless use of the clause is impractical and the clause prescribed in 46.309 is considered to be more appropriate. If it is contemplated that the contract will be on a no-fee basis, the contracting officer shall use the clause with its *Alternate I.*

@@ -1,0 +1,3 @@
+##### § 76.65 Inalienability of certificates. #####
+
+The certificate granted under the regulations in this part may not be transferred, assigned, or in any manner disposed of, either voluntarily or involuntarily, directly or indirectly, through transfer of control of any certificate to any person unless the Commission, after securing full information, finds that the transfer is in accordance with the provisions of the Act, and consents in writing.

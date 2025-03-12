@@ -1,0 +1,3 @@
+##### § 747.206 Consent to termination of insured status. #####
+
+Unless the credit union appears at the hearing designated in the notice of hearing by a duly authorized representative, it will be deemed to have consented to the termination of its status as an insured credit union. In the event the credit union fails to so appear at such hearing, the administrative law judge shall forthwith report the matter to the NCUA Board and the NCUA Board may thereupon issue an order terminating the credit union's insured status.

@@ -1,0 +1,3 @@
+##### § 1305.2 Production prohibited unless approved. #####
+
+No employee or former employee of OMB shall, in response to a demand of a court or other authority, produce any material contained in the files of OMB, disclose any information relating to materials contained in the files of OMB, or disclose any information or produce any material acquired as part of the performance of the person's official duties, or because of the person's official status, without the prior approval of the General Counsel.

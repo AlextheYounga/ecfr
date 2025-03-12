@@ -1,0 +1,5 @@
+##### § 555.200 How may I use or participate with others to use electronic means and facilities? #####
+
+(a) *General.* A Federal savings association (“you”) may use, or participate with others to use, electronic means or facilities to perform any function, or provide any product or service, as part of an authorized activity. Electronic means or facilities include, but are not limited to, automated teller machines, automated loan machines, personal computers, the Internet, the World Wide Web, telephones, and other similar electronic devices.
+
+(b) *Other.* To optimize the use of your resources, you may market and sell, or participate with others to market and sell, electronic capacities and by-products to third-parties, if you acquired or developed these capacities and by-products in good faith as part of providing financial services.

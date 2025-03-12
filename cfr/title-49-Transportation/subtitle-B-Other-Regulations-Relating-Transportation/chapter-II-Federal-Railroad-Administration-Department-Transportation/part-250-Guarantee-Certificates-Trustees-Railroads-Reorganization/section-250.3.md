@@ -1,0 +1,3 @@
+##### § 250.3 Fees. #####
+
+On date of final payment of the loan guaranteed by the Secretary pursuant to application filed under this part, the applicant carrier or the trustee, if still in existence, shall pay, or cause to be paid, to the Administrator as a guarantee fee such amount as the Administrator hereafter may determine and prescribe as necessary to cover the administrative costs of carrying out the provisions of the Emergency Rail Services Act of 1970.

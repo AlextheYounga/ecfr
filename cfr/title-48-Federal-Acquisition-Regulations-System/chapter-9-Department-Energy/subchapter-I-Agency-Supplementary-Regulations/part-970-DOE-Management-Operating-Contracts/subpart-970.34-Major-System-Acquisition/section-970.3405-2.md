@@ -1,0 +1,5 @@
+##### 970.3405-2 Mission-oriented solicitation. #####
+
+Contractors shall be required to promptly advise the Department of Energy (DOE) contracting officer of any advance notices of, or solicitations for, requirements which would logically involve DOE facilities or resources operated or managed by the contractor, which are received from another agency pursuant to 48 CFR 34.005. Management and operating contracts shall provide that the contractor shall not respond or otherwise propose to participate in response to the requirements of such solicitations unless the contractor has obtained the prior written approval of the DOE manager of the field activity having cognizance over the contract. Such approval shall not be given except in compliance with applicable DOE directives, and with the concurrence of the cognizant Senior Program Official.
+
+[65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36373, July 22, 2009. Redesignated at 75 FR 68220, Nov. 5, 2010]

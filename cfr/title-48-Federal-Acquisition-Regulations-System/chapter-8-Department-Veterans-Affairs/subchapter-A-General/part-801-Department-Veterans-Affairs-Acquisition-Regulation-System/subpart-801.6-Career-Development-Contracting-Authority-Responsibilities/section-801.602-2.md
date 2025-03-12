@@ -1,0 +1,3 @@
+##### 801.602-2 Responsibilities. #####
+
+In the administration of a contract, many problems can and do arise that make the advice and assistance of the Office of General Counsel (OGC) either desirable or necessary. The final decision as to the action to be taken, however, must be made by the contracting officer in each instance. To reduce to the absolute minimum the possibility of litigation resulting from his/her decision, the contracting officer shall submit the problem through channels in sufficient detail to the General Counsel for advice or assistance.

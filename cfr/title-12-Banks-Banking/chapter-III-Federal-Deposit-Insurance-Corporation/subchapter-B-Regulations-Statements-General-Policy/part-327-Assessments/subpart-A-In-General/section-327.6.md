@@ -1,0 +1,27 @@
+##### § 327.6 Mergers and consolidations; other terminations of insurance. #####
+
+(a) *Final quarterly certified invoice for acquired institution.* An institution that is not the resulting or surviving institution in a merger or consolidation must file a report of condition for every assessment period prior to the assessment period in which the merger or consolidation occurs. The surviving or resulting institution shall be responsible for ensuring that these reports of condition are filed and shall be liable for any unpaid assessments on the part of the institution that is not the resulting or surviving institution.
+
+(b) *Assessment for quarter in which the merger or consolidation occurs.* For an assessment period in which a merger or consolidation occurs, consolidated total assets for the surviving or resulting institution shall include the consolidated total assets of all insured depository institutions that are parties to the merger or consolidation as if the merger or consolidation occurred on the first day of the assessment period. Tier 1 capital shall be reported in the same manner.
+
+(c) *Other termination.* When the insured status of an institution is terminated, and the deposit liabilities of such institution are not assumed by another insured depository institution—
+
+(1) *Payment of assessments; quarterly certified statement invoices.* The depository institution whose insured status is terminating shall continue to file and certify its quarterly certified statement invoice and pay assessments for the assessment period its deposits are insured. Such institution shall not be required to certify its quarterly certified statement invoice and pay further assessments after it has paid in full its deposit liabilities and the assessment to the Corporation required to be paid for the assessment period in which its deposit liabilities are paid in full, and after it, under applicable law, goes out of business or transfers all or substantially all of its assets and liabilities to other institutions or otherwise ceases to be obliged to pay subsequent assessments.
+
+(2) *Payment of deposits; certification to Corporation.* When the deposit liabilities of the depository institution have been paid in full, the depository institution shall certify to the Corporation that the deposit liabilities have been paid in full and give the date of the final payment. When the depository institution has unclaimed deposits, the certification shall further state the amount of the unclaimed deposits and the disposition made of the funds to be held to meet the claims. For assessment purposes, the following will be considered as payment of the unclaimed deposits:
+
+(i) The transfer of cash funds in an amount sufficient to pay the unclaimed and unpaid deposits to the public official authorized by law to receive the same; or
+
+(ii) If no law provides for the transfer of funds to a public official, the transfer of cash funds or compensatory assets to an insured depository institution in an amount sufficient to pay the unclaimed and unpaid deposits in consideration for the assumption of the deposit obligations by the insured depository institution.
+
+(3) *Notice to depositors.* (i) The depository institution whose insured status is terminating shall give sufficient advance notice of the intended transfer to the owners of the unclaimed deposits to enable the depositors to obtain their deposits prior to the transfer. The notice shall be mailed to each depositor and shall be published in a local newspaper of general circulation. The notice shall advise the depositors of the liquidation of the depository institution, request them to call for and accept payment of their deposits, and state the disposition to be made of their deposits if they fail to promptly claim the deposits.
+
+(ii) If the unclaimed and unpaid deposits are disposed of as provided in paragraph (c)(2)(i) of this section, a certified copy of the public official's receipt issued for the funds shall be furnished to the Corporation.
+
+(iii) If the unclaimed and unpaid deposits are disposed of as provided in paragraph (c)(2)(ii) of this section, an affidavit of the publication and of the mailing of the notice to the depositors, together with a copy of the notice and a certified copy of the contract of assumption, shall be furnished to the Corporation.
+
+(4) *Notice to Corporation.* The depository institution whose insured status is terminating shall advise the Corporation of the date on which it goes out of business or transfers all or substantially all of its assets and liabilities to other institutions or otherwise ceases to be obligated to pay subsequent assessments and the method whereby the termination has been effected.
+
+(d) *Resumption of insured status before insurance of deposits ceases.* If a depository institution whose insured status has been terminated is permitted by the Corporation to continue or resume its status as an insured depository institution before the insurance of its deposits has ceased, the institution will be deemed, for assessment purposes, to continue as an insured depository institution and must thereafter file and certify its quarterly certified statement invoices and pay assessments as though its insured status had not been terminated. The procedure for applying for the continuance or resumption of insured status is set forth in § 303.248 of this chapter.
+
+[76 FR 10706, Feb. 25, 2011]

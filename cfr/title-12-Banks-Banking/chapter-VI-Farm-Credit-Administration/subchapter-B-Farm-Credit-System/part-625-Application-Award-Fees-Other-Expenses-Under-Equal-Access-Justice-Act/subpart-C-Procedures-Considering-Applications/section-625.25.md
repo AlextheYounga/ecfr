@@ -1,0 +1,7 @@
+##### § 625.25 Further proceedings. #####
+
+(a) The determination of an award shall be made on the basis of the written record unless the presiding officer finds that further proceedings are necessary for full and fair resolution of the issues arising from the application. Such further proceedings may be at the request of either the applicant or the FCA counsel, or on the presiding officer's own initiative, and shall be conducted as promptly as possible. Further proceedings may include an informal conference, oral argument, additional written submissions, or other actions required by the presiding officer, but may not include discovery or an evidentiary hearing with respect to the issue of whether the agency's position was substantially justified.
+
+(b) Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
+
+(c) A request that the presiding officer order further proceedings under this section shall specifically identify the information sought or the disputed issues and shall explain why the additional proceedings are necessary to resolve the issues.

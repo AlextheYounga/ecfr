@@ -1,0 +1,67 @@
+##### § 98.303 Calculating GHG emissions. #####
+
+(a) *Calculating GHG emissions.* Calculate the annual emissions of each fluorinated GHG that is a component of any reportable insulating gas using the mass-balance approach in equation DD-4 to this section:
+
+![](/graphics/er25ap24.052.gif)Where:User Emissionsi = Emissions of fluorinated GHG i from the facility (pounds).GHGi,w = The weight fraction of fluorinated GHG i in reportable insulating gas j if reportable insulating gas j is a gas mixture, expressed as a decimal fraction. If fluorinated GHG i is not part of a gas mixture, use a value of 1.0.Decrease in Inventory of Reportable Insulating Gas j = (Pounds of reportable insulating gas j stored in containers, but not in energized equipment, at the beginning of the year)−(Pounds of reportable insulating gas j stored in containers, but not in energized equipment, at the end of the year). Reportable insulating gas inside equipment that is not energized is considered to be “stored in containers.”Acquisitions of Reportable Insulating gas j = (Pounds of reportable insulating gas j purchased or otherwise acquired from chemical producers, chemical distributors, or other entities in bulk) + (Pounds of reportable insulating gas j purchased or otherwise acquired from equipment manufacturers, equipment distributors, or other entities with or inside equipment, including hermetically sealed-pressure switchgear, while the equipment was not in use) + (Pounds of each SF6 insulating gas j returned to facility after off-site recycling) + (Pounds of reportable insulating gas j acquired inside equipment, except hermetically sealed-pressure switchgear, that was transferred while the equipment was in use, *e.g.,* through acquisition of all or part of another electric power system).Disbursements of Reportable Insulating gas j = (Pounds of reportable insulating gas j returned to suppliers) + (Pounds of reportable insulating gas j sent off site for recycling) + (Pounds of reportable insulating gas j sent off-site for destruction) + (Pounds of reportable insulating gas j that was sold or transferred to other entities in bulk) + (Pounds of reportable insulating gas j contained in equipment, including hermetically sealed-pressure switchgear, that was sold or transferred to other entities while the equipment was not in use) + (Pounds of reportable insulating gas j inside equipment, except hermetically sealed-pressure switchgear, that was transferred while the equipment was in use, *e.g.,* through sale of all or part of the electric power system to another electric power system).Net Increase in Total Nameplate Capacity of Equipment Operated containing reportable insulating gas j = (The Nameplate Capacity of new equipment, as defined at § 98.308, containing reportable insulating gas j in pounds)−(Nameplate Capacity of retiring equipment, as defined at § 98.308, containing reportable insulating gas j in pounds). (Note that Nameplate Capacity refers to the full and proper charge of equipment rather than to the actual charge, which may reflect leakage).
+
+(b) *Nameplate capacity adjustments.* Users of closed-pressure electrical equipment with a voltage capacity greater than 38 kV may measure and adjust the nameplate capacity value specified by the equipment manufacturer on the nameplate attached to that equipment, or within the equipment manufacturer's official product specifications, by following the requirements in paragraphs (b)(1) through (10) of this section. Users of other electrical equipment are not permitted to adjust the nameplate capacity value of the other equipment.
+
+(1) If you elect to measure the nameplate capacity value(s) of one or more pieces of electrical equipment with a voltage capacity greater than 38 kV, you must measure the nameplate capacity values of all the electrical equipment in your facility that has a voltage capacity greater than 38 kV and that is installed or retired in that reporting year and in subsequent reporting years.
+
+(2) You must adopt the measured nameplate capacity value for any piece of equipment for which the absolute value of the difference between the measured nameplate capacity value and the nameplate capacity value most recently specified by the manufacturer equals or exceeds two percent of the nameplate capacity value most recently specified by the manufacturer.
+
+(3) You may adopt the measured nameplate capacity value for equipment for which the absolute value of the difference between the measured nameplate capacity value and the nameplate capacity value most recently specified by the manufacturer is less than two percent of the nameplate capacity value most recently specified by the manufacturer, but if you elect to adopt the measured nameplate capacity for that equipment, then you must adopt the measured nameplate capacity value for all of the equipment for which the difference between the measured nameplate capacity value and the nameplate capacity value most recently specified by the manufacturer is less than two percent of the nameplate capacity value most recently specified by the manufacturer. This applies in the reporting year in which you first adopt the measured nameplate capacity for the equipment and in subsequent reporting years.
+
+(4) Users of electrical equipment measuring the nameplate capacity of any new electrical equipment must:
+
+(i) Record the amount of insulating gas in the equipment at the time the equipment was acquired (pounds), either per information provided by the manufacturer, or by transferring insulating gas from the equipment to a gas container and measuring the amount of insulating gas transferred. The equipment user is responsible for ensuring the gas is accounted for consistent with the methodologies specified in paragraphs (b)(4)(ii) through (iii) and (b)(5) of this section. If no insulating gas was in the device when it was acquired, record this value as zero.
+
+(ii) If insulating gas is added to the equipment subsequent to the acquisition of the equipment to energize it the first time, transfer the insulating gas to the equipment to reach the temperature-compensated design operating pressure per manufacturer specifications. Follow the manufacturer-specified procedure to ensure that the measured temperature accurately reflects the temperature of the insulating gas, *e.g.,* by measuring the insulating gas pressure and vessel temperature after allowing appropriate time for the temperature of the transferred gas to equilibrate with the vessel temperature. Measure and calculate the total amount of reportable insulating gas added to the device using one of the methods specified in paragraphs (b)(4)(ii)(A) and (B) of this section.
+
+(A) To determine the amount of reportable insulating gas transferred to the electrical equipment, weigh the gas container being used to fill the device prior to, and after, the addition of the reportable insulating gas to the electrical equipment, and subtract the second value (after-transfer gas container weight) from the first value (prior-to-transfer gas container weight). Account for any gas contained in hoses before and after the transfer.
+
+(B) Connect a mass flow meter between the electrical equipment and a gas cart. Transfer gas to the equipment to reach the temperature-compensated design operating pressure per manufacturer specifications. During gas transfer, you must keep the mass flow rate within the range specified by the mass flow meter manufacturer to assure an accurate and precise mass flow meter reading. Close the connection to the GIE from the mass flow meter hose and ensure that the gas trapped in the filling hose returns through the mass flow meter. Calculate the amount of gas transferred from the mass reading on the mass flow meter.
+
+(iii) Sum the results of paragraphs (b)(4)(i) and (ii) to obtain the measured nameplate capacity for the new equipment.
+
+(5) Electrical equipment users measuring the nameplate capacity of any retiring electrical equipment must:
+
+(i) Measure and record the initial system pressure and vessel temperature prior to removing any insulating gas.
+
+(ii) Compare the initial system pressure and temperature to the equipment manufacturer's temperature/pressure curve for that equipment and insulating gas.
+
+(iii) If the temperature-compensated initial system pressure of the electrical equipment does not match the temperature-compensated design operating pressure specified by the equipment manufacturer, you may either:
+
+(A) Add or remove insulating gas to/from the electrical equipment until the manufacturer-specified value is reached, or
+
+(B) If the temperature-compensated initial system pressure of the electrical equipment is no higher than the temperature-compensated design operating pressure specified by the manufacturer and no lower than five pounds per square inch (5 psi) less than the temperature-compensated design operating pressure specified by the manufacturer, use equation DD-5 to this section to calculate the nameplate capacity based on the mass recorded under paragraph (b)(5)(vi) of this section.
+
+(iv) Weigh the gas container being used to receive the gas and record this value.
+
+(v) Recover insulating gas from the electrical equipment until five minutes after the pressure in the electrical equipment reaches a pressure of at most five pounds per square inch absolute (5 psia).
+
+(vi) Record the amount of insulating gas recovered (pounds) by weighing the gas container that received the gas and subtracting the weight recorded pursuant to paragraph (b)(5)(iv)(B) of this section from this value. Account for any gas contained in hoses before and after the transfer. The amount of gas recovered shall be the measured nameplate capacity for the electrical equipment unless the final temperature-compensated pressure of the electrical equipment exceeds 0.068 psia (3.5 Torr) or the electrical equipment user is calculating the nameplate capacity pursuant to paragraph (b)(5)(iii)(B) of this section, in which cases the measured nameplate capacity shall be the result of equation DD-5 to this section.
+
+(vii) If you are calculating the nameplate capacity pursuant to paragraph (b)(5)(iii)(B) of this section, use equation DD-5 to this section to do so.
+
+![](/graphics/er25ap24.053.gif)Where:NCC = Nameplate capacity of the equipment measured and calculated by the equipment user (pounds).Pi = Initial temperature-compensated pressure of the equipment, based on the temperature-pressure curve for the insulating gas (psia).Pf = Final temperature-compensated pressure of the equipment, based on the temperature-pressure curve for the insulating gas (psia). This may be equated to zero if the final temperature-compensated pressure of the equipment is equal to or lower than 0.068 psia (3.5 Torr).PNC = Temperature-compensated pressure of the equipment at the manufacturer-specified filling density of the equipment (*i.e.,* at the full and proper charge, psia).MR = Mass of insulating gas recovered from the equipment, measured in paragraph (b)(5)(vi) of this section (pounds).
+
+(viii) Record the final system pressure and vessel temperature.
+
+(6) Instead of measuring the nameplate capacity of electrical equipment when it is retired, users may measure the nameplate capacity of electrical equipment during maintenance activities that require opening the gas compartment, but they must follow the procedures set forth in paragraph (b)(5) of this section.
+
+(7) If the electrical equipment will remain energized, and the electrical equipment user is adopting the user-measured nameplate capacity, the electrical equipment user must affix a revised nameplate capacity label, showing the revised nameplate value and the year the nameplate capacity adjustment process was performed, to the device by the end of the calendar year in which the process was completed. The manufacturer's previous nameplate capacity label must remain visible after the revised nameplate capacity label is affixed to the device.
+
+(8) For each piece of electrical equipment whose nameplate capacity was adjusted during the reporting year, the revised nameplate capacity value must be used in all provisions wherein the nameplate capacity is required to be recorded, reported, or used in a calculation in this subpart unless otherwise specified herein.
+
+(9) The nameplate capacity of a piece of electrical equipment may only be adjusted more than once if the physical capacity of the device has changed (*e.g.,* replacement of bushings) after the initial adjustment was performed, in which case the equipment user must adjust the nameplate capacity pursuant to the provisions of this paragraph (b).
+
+(10) Measuring devices used to measure the nameplate capacity of electrical equipment under this paragraph (b) must meet the following accuracy and precision requirements:
+
+(i) Flow meters must be certified by the manufacturer to be accurate and precise to within one percent of the largest value that the flow meter can, according to the manufacturer's specifications, accurately record.
+
+(ii) Pressure gauges must be certified by the manufacturer to be accurate and precise to within 0.5% of the largest value that the gauge can, according to the manufacturer's specifications, accurately record.
+
+(iii) Temperature gauges must be certified by the manufacturer to be accurate and precise to within ±1.0 °F.
+
+(iv) Scales must be certified by the manufacturer to be accurate and precise to within one percent of the true weight.

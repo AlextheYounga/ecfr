@@ -1,0 +1,3 @@
+##### § 35.9060 Maximum Federal share. #####
+
+The Regional Administrator may provide up to 100 percent of the approved work program costs for a particular application provided that non-Federal sources provide at least 25 percent of the aggregate costs of research, surveys, studies, modeling, and other technical work necessary for the development of a comprehensive conservation and management plan for the estuary as specified in the estuary Annual Work Plan for each fiscal year.

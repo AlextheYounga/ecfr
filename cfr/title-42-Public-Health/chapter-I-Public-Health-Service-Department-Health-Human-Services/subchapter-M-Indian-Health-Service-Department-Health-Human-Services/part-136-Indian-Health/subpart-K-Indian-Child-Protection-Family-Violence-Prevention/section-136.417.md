@@ -1,0 +1,3 @@
+##### § 136.417 May the IHS hire individuals pending completion of a background investigation? #####
+
+Pursuant to section 231 of the Crime Control Act of 1990, Pub. L. 101-647, 42 U.S.C. 13041, as amended by Pub. L. 102-190, the IHS may hire provisionally individuals as defined in these regulations, prior to the completion of a background investigation if, at all times prior to receipt of the background investigation during which children are in the care of the individual, the individual is within the sight and under the supervision of a staff person and a satisfactory background investigation has been completed on that staff person.

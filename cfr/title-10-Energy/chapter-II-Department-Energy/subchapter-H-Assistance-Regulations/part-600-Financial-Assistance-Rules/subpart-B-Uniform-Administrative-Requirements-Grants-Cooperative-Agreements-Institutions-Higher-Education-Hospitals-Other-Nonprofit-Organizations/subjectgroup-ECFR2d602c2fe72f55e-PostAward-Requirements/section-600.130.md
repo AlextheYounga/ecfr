@@ -1,0 +1,3 @@
+##### § 600.130 Purpose of property standards. #####
+
+Sections 600.131 through 600.137 set forth uniform standards governing management and disposition of property furnished by the Federal Government or whose cost was charged to a project supported by a Federal award. Recipients shall observe these standards under awards and shall not impose additional requirements, unless specifically required by Federal statute or program regulations. The recipient may use its own property management standards and procedures provided it observes the provisions of §§ 600.131 through 600.137.

@@ -1,0 +1,3 @@
+##### § 14.3 Incident to service. #####
+
+In order for a claim to be allowed under this part, the EPA Claims Officer must determine that the item of personal property, at the time of damage or loss, was used by the employee as an incident to government service. An item is incident to service when possession of the item by the employee had substantial relationship to the employee's performance of duty. Whether an item is incident to service is determined by the facts of each claim. The employee has the burden of showing that the item was incident to his/her governmental service.

@@ -1,0 +1,9 @@
+##### § 27.20 Digital television transition education reports. #####
+
+(a) The requirements of this section shall apply only with regard to WCS license authorizations in Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block E in the 722-728 MHz band, and Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands.
+
+(b) By the tenth day of the first calendar quarter after the initial grant of a WCS license authorization subject to the requirements of this section - and on a quarterly basis thereafter as specified in paragraph (c) of this section - the licensee holding such authorization must file a report with the Commission indicating whether, in the previous quarter, it has taken any outreach efforts to educate consumers about the transition from analog broadcast television service to digital broadcast television service (DTV) and, if so, what specific efforts were undertaken. Thus, for example, if the license authorization is granted during the April-June quarter of 2008, the licensee must file its first report by July 10, 2008. Each quarterly report, either paper or electronic, must be filed with the Commission in Docket Number 07-148. If the quarterly report is a paper filing, the cover sheet must clearly state “Report,” whereas if the report is filed electronically using the Commission's Electronic Comment File System (ECFS), the “Document Type” on the cover sheet should indicate “REPORT.”
+
+(c) The reporting requirements under this section cover the remaining period of the DTV transition. Accordingly, once the licensee files its quarterly report covering the second quarter of 2009, the requirements of this section terminate.
+
+[73 FR 15448, Mar. 24, 2008, as amended at 74 FR 8878, Feb. 27, 2009; 79 FR 597, Jan. 6, 2014]

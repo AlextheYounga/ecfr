@@ -1,0 +1,3 @@
+##### 9905.502-20 Purpose. #####
+
+The purpose of this Standard is to require that each type of cost is allocated only once and on only one basis to any contract or other cost objective. The criteria for determining the allocation of costs to a contract or other cost objective should be the same for all similar objectives. Adherence to these cost accounting concepts is necessary to guard against the overcharging of some cost objectives and to prevent double counting. Double counting occurs most commonly when cost items are allocated directly to a cost objective without eliminating like cost items from indirect cost pools which are allocated to that cost objective.

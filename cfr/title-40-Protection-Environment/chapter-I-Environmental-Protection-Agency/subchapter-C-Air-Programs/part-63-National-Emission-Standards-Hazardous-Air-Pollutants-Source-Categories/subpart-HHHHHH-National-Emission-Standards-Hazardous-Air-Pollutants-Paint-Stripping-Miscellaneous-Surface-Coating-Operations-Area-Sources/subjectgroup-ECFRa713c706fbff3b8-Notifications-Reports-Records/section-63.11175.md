@@ -1,0 +1,37 @@
+##### § 63.11175 What notifications must I submit? #####
+
+(a) *Initial notification.* If you are the owner or operator of a paint stripping operation using paint strippers containing MeCl and/or a surface coating operation subject to this subpart, you must submit the initial notification required by § 63.9(b). For a new affected source, you must submit the Initial Notification no later than 180 days after initial startup, or no later than 120 days after the source becomes subject to this subpart, or July 7, 2008, whichever is later. For an existing affected source, you must submit the initial notification no later than January 11, 2010, or no later than 120 days after the source becomes subject to this subpart. The initial notification must provide the information specified in paragraphs (a)(1) through (8) of this section.
+
+(1) The company name, if applicable.
+
+(2) The name, title, street address, telephone number, e-mail address (if available), and signature of the owner and operator, or other certifying company official;
+
+(3) The street address (physical location) of the affected source and the street address where compliance records are maintained, if different. If the source is a motor vehicle or mobile equipment surface coating operation that repairs vehicles at the customer's location, rather than at a fixed location, such as a collision repair shop, the notification should state this and indicate the physical location where records are kept to demonstrate compliance;
+
+(4) An identification of the relevant standard (i.e., this subpart, 40 CFR part 63, subpart HHHHHH);
+
+(5) A brief description of the type of operation as specified in paragraph (a)(5)(i) or (ii) of this section.
+
+(i) For all surface coating operations, indicate whether the source is a motor vehicle and mobile equipment surface coating operation or a miscellaneous surface coating operation, and include the number of spray booths and preparation stations, and the number of painters usually employed at the operation.
+
+(ii) For paint stripping operations, identify the method(s) of paint stripping employed (e.g., chemical, mechanical) and the substrates stripped (e.g., wood, plastic, metal).
+
+(6) Each paint stripping operation must indicate whether they plan to annually use more than one ton of MeCl after the compliance date.
+
+(7) A statement of whether the source is already in compliance with each of the relevant requirements of this subpart, or whether the source will be brought into compliance by the compliance date. For paint stripping operations, the relevant requirements that you must evaluate in making this determination are specified in § 63.11173(a) through (d) of this subpart. For surface coating operations, the relevant requirements are specified in § 63.11173(e) through (g) of this subpart.
+
+(8) If your source is a new source, you must certify in the initial notification whether the source is in compliance with each of the requirements of this subpart. If your source is an existing source, you may certify in the initial notification that the source is already in compliance. If you are certifying in the initial notification that the source is in compliance with the relevant requirements of this subpart, then include also a statement by a responsible official with that official's name, title, phone number, e-mail address (if available) and signature, certifying the truth, accuracy, and completeness of the notification, a statement that the source has complied with all the relevant standards of this subpart, and that this initial notification also serves as the notification of compliance status.
+
+(b) *Notification of compliance status.* If you are the owner or operator of a new source, you are not required to submit a separate notification of compliance status in addition to the initial notification specified in paragraph (a) of this subpart provided you were able to certify compliance on the date of the initial notification, as part of the initial notification, and your compliance status has not since changed. If you are the owner or operator of any existing source and did not certify in the initial notification that your source is already in compliance as specified in paragraph (a) of this section, then you must submit a notification of compliance status. You must submit a Notification of Compliance Status on or before March 11, 2011. You are required to submit the information specified in paragraphs (b)(1) through (4) of this section with your Notification of Compliance Status:
+
+(1) Your company's name and the street address (physical location) of the affected source and the street address where compliance records are maintained, if different.
+
+(2) The name, title, address, telephone, e-mail address (if available) and signature of the owner and operator, or other certifying company official, certifying the truth, accuracy, and completeness of the notification and a statement of whether the source has complied with all the relevant standards and other requirements of this subpart or an explanation of any noncompliance and a description of corrective actions being taken to achieve compliance. For paint stripping operations, the relevant requirements that you must evaluate in making this determination are specified in § 63.11173(a) through (d). For surface coating operations, the relevant requirements are specified in § 63.11173(e) through (g).
+
+(3) The date of the Notification of Compliance Status.
+
+(4) If you are the owner or operator of an existing affected paint stripping source that annually uses more than one ton of MeCl, you must submit a statement certifying that you have developed and are implementing a written MeCl minimization plan in accordance with § 63.11173(b).
+
+(c) On and after May 9, 2023, the owner or operator shall submit the initial notifications required in § 63.9(b) and paragraph (a) of this section and the notification of compliance status required in § 63.9(h) and paragraph (b) of this section to the EPA via the Compliance and Emissions Data Reporting Interface (CEDRI) (CEDRI can be accessed through the EPA's Central Data Exchange (CDX) (*https://cdx.epa.gov*)). The owner or operator must upload to CEDRI an electronic copy of each applicable notification in portable document format (PDF). The applicable notification must be submitted by the deadline specified in this subpart, regardless of the method in which the reports are submitted. Owners or operators who claim that some of the information required to be submitted via CEDRI is confidential business information (CBI) shall submit a complete notification, including information claimed to be CBI, on a compact disc, flash drive, or other commonly used electronic storage medium to the EPA. The electronic medium shall be clearly marked as CBI and mailed to U.S. EPA/OAQPS/CORE CBI Office, Attention: Paint Stripping and Miscellaneous Surface Coating Operations Sector Lead, MD C404-02, 4930 Old Page Rd., Durham, NC 27703. The same file with the CBI omitted shall be submitted to the EPA via the EPA's CDX as described earlier in this paragraph.
+
+[73 FR 1759, Jan. 9, 2008, as amended at 85 FR 73920, Nov. 19, 2020; 87 FR 67805, Nov. 10, 2022]

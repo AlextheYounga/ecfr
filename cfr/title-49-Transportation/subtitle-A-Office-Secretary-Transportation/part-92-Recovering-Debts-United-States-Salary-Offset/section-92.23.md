@@ -1,0 +1,5 @@
+##### § 92.23 Collection. #####
+
+(a) A debt shall be collected in a lump sum or by installment deductions at officially established pay intervals from an employee's current pay account, unless the employee and the DOT operating element agree to alternative arrangements for payment (see § 92.11(b)(9) describing such voluntary repayment arrangements). The alternative arrangement shall be in writing, signed by both the employee and the chief of the appropriate accounting or finance office, and shall be documented in the DOT operating element's files.
+
+(b) Under 31 U.S.C. 3716 and 4 CFR 102.3(b)(3), agencies may not initiate offset to collect a debt more than 10 years after the Government's right to collect the debt accrued, unless facts material to the Government's rights to collect the debt were not known by the DOT operating element's official or officials charged with the responsibility to discover and collect the debt.

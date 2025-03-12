@@ -1,0 +1,3 @@
+##### § 610.40 General. #####
+
+Two chassis dynamometer test procedures, the Federal Test Procedure and the Highway Fuel Economy Test will generally be used to evaluate the effectiveness of the devices supplemented by steady state or engine dynamometer tests where warranted. Under unusual circumstances, other test procedures, durability test procedures or special test procedures such as track versions of the City and Highway fuel economy tests may be used. These procedures are described in subparts E and F.

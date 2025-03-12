@@ -1,0 +1,5 @@
+##### § 399.111 All operations of federally authorized carriers to be regulated by the Board. #####
+
+(a) All operations of Federally authorized carriers are subject to the requirements of Title IV of the Act, including certification and tariff-filing requirements, unless otherwise exempted from one or more of those requirements by Board order or regulation.
+
+(b) When any intrastate air carrier that in August 1, 1977, was operating primarily in intrastate air transportation regulated by a State receives the authority to provide interstate air transportation, any authority received from such State shall be considered to be part of its authority to provide air transportation received from the Board under Title IV of the Act, until suspended, amended, or terminated as provided under such title.

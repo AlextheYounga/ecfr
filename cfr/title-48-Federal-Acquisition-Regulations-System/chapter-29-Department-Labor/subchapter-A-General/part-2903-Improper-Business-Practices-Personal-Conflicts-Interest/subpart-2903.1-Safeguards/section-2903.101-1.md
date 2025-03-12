@@ -1,0 +1,3 @@
+##### 2903.101-1 General. #####
+
+The statutory prohibitions and their application to DOL personnel are discussed in the Standards of Ethical Conduct for Employees of the Executive Branch, 5 CFR part 2635 and the supplemental DOL standards of conduct, 5 CFR part 5201. All DOL personnel involved in acquisitions must become familiar with these statutory prohibitions. Any questions concerning them must be referred to an Agency Ethics Official in the Office of the Solicitor. In addition to criminal penalties, the statutes provide that transactions entered into in violation of these prohibitions are voidable (18 U.S.C. 218). Any suspected violations must be reported promptly to the Office of the Inspector General.

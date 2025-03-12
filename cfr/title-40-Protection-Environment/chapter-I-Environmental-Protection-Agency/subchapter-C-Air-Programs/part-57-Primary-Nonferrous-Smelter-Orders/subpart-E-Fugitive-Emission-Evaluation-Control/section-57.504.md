@@ -1,0 +1,3 @@
+##### § 57.504 Continuing evaluation of fugitive emission control measures. #####
+
+Each NSO shall require the smelter owner to conduct an active program to continuously review the effectiveness of the fugitive emission control measures implemented pursuant to § 57.503 in maintaining the NAAQS and, if such measures are not sufficiently effective, to evaluate what additional measures should be taken to assure that the NAAQS will be maintained with a reasonably degree of reliability. The NSO shall also require submission of a semi-annual report to the issuing Agency detailing the results of this review and evaluation. Such a report may be submitted as part of the report required under § 57.402(f).

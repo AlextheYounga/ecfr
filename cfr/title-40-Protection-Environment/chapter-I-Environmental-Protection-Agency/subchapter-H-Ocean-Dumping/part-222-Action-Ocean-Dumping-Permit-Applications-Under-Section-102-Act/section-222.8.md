@@ -1,0 +1,5 @@
+##### § 222.8 Recommendations of Presiding Officer. #####
+
+Within 30 days following the adjournment of a public hearing convened pursuant to § 222.5, or within such additional period as the Administrator or the Regional Administrator, as the case may be, may grant to the Presiding Officer for good cause shown, and after full consideration of the comments received at the hearing, the Presiding Officer will prepare and forward to the Administrator or to the Regional Administrator, as the case may be, written recommendations relating to the issuance or denial of, or conditions to be imposed upon, the proposed permit and the record of the hearing, if any. Such recommendations shall contain a brief statement of the basis for the recommendations including a description of evidence relied upon. Copies of the Presiding Officer's recommendations shall be provided to any interested person on request, without charge. Copies of the record will be provided in accordance with 40 CFR Part 2.
+
+[42 FR 2471, Jan. 11, 1977; 42 FR 6583, Feb. 3, 1977]

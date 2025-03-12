@@ -1,0 +1,9 @@
+##### § 1003.5 Computation of time. #####
+
+(a) *Days.* (1) Except as provided in paragraph (b) of this section, in computing any period of time prescribed or allowed by these regulations or by an order of the OHA, the day of the act, event, or default from which the designated period of time begins to run is not to be included. The last day of the period so computed is to be included unless it is a Saturday, Sunday, or federal legal holiday, in which event the period runs until the end of the next day that is not a Saturday, Sunday, or a federal legal holiday.
+
+(2) Saturdays, Sundays and federal legal holidays shall be excluded from the computation of time when the period of time allowed or prescribed is 7 days or less.
+
+(b) *Hours.* If the period of time prescribed in an order issued by the OHA is stated in hours rather than days, the period of time shall begin to run upon actual notice of such order, whether by verbal or written communication, to the person directly affected, and shall run without interruption, unless otherwise provided in the order, or unless the order is stayed, modified, suspended or rescinded. When a written order is transmitted by verbal communication, the written order shall be served as soon thereafter as is feasible.
+
+(c) *Additional time after service by mail.* Whenever a person is required to perform an act, to cease and desist therefrom, or to initiate a proceeding under this part within a prescribed period of time after issuance to such person of an order, notice or other document and the order, notice or other document is served solely by mail, 3 days shall be added to the prescribed period.

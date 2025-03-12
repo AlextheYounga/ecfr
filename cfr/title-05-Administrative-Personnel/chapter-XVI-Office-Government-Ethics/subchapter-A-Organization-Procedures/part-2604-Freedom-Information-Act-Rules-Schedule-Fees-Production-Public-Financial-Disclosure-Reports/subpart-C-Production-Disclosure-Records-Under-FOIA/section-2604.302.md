@@ -1,0 +1,11 @@
+##### § 2604.302 Response to requests. #####
+
+(a) *Acknowledgement of requests.* If the FOIA Officer determines that a request will take longer than 10 working days to process, OGE will send a written acknowledgment that includes the request's individualized tracking number.
+
+(b) *Response to initial request.* The FOIA Officer is authorized to grant or deny any request for a record and to determine appropriate fees.
+
+(c) *Referral to, or consultation with, another agency.* When a requester seeks access to records that originated in another Government agency subject to the FOIA, OGE will normally refer the request to the other agency for response; alternatively, OGE may consult with the other agency in the course of deciding itself whether to grant or deny a request for access to such records. If OGE refers the request to another agency, it will notify the requester of the referral and provide a point of contact within the receiving agency. If release of certain records may adversely affect United States relations with foreign governments, OGE will usually consult with the Department of State. A request for any records classified by some other agency will be referred to that agency for response.
+
+(d) *Honoring form or format requests.* In making any record available to a requester, OGE will provide the record in the form or format requested, if the record already exists or is readily reproducible by OGE in that form or format. If a form or format request cannot be honored, OGE will so inform the requester and provide a copy of a nonexempt record in its existing form or format or another convenient form or format which is readily reproducible. OGE will not, however, generally develop a completely new record (as opposed to providing a copy of an existing record in a readily reproducible new form or format, as requested) of information in order to satisfy a request.
+
+(e) *Record cannot be located.* If a requested record cannot be located from the information supplied, the FOIA Officer will so notify the requester in writing.

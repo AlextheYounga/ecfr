@@ -1,0 +1,5 @@
+##### § 76.938 Proprietary information. #####
+
+A franchising authority may require the production of proprietary information to make a rate determination in those cases where cable operators have submitted initial rates, or have proposed rate increases, pursuant to an FCC Form 393 (and/or FCC Forms 1200/1205) filing or a cost-of-service showing. The franchising authority shall state a justification for each item of information requested and, where related to an FCC Form 393 (and/or FCC Forms 1200/1205) filing, indicate the question or section of the form to which the request specifically relates. Upon request to the franchising authority, the parties to a rate proceeding shall have access to such information, subject to the franchising authority's procedures governing non-disclosure by the parties. Public access to such proprietary information shall be governed by applicable state or local law.
+
+[59 FR 17973, Apr. 15, 1994]

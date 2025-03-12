@@ -1,0 +1,5 @@
+##### § 54.203 Designation of eligible telecommunications carriers for unserved areas. #####
+
+(a) If no common carrier will provide the services that are supported by federal universal service support mechanisms under section 254(c) of the Act and subpart B of this part to an unserved community or any portion thereof that requests such service, the Commission, with respect to interstate services, or a state commission, with respect to intrastate services, shall determine which common carrier or carriers are best able to provide such service to the requesting unserved community or portion thereof and shall order such carrier or carriers to provide such service for that unserved community or portion thereof.
+
+(b) Any carrier or carriers ordered to provide such service under this section shall meet the requirements of section 54.201(d) and shall be designated as an eligible telecommunications carrier for that community or portion thereof.

@@ -1,0 +1,5 @@
+##### § 792.42 How do I request nonpublic records or testimony? #####
+
+(a) To request nonpublic records or the testimony of an NCUA employee, you must submit a written request to the General Counsel of the NCUA. If you serve a subpoena on the NCUA or an NCUA employee before submitting a written request and receiving a final determination, the NCUA will oppose the subpoena on the grounds that you failed to follow the requirements of this subpart. You may serve a subpoena as long as it is accompanied by a written request that complies with this subpart.
+
+(b) To request nonpublic records that are part of the records of the Office of the Inspector General or the testimony of an NCUA employee on matters within the knowledge of the NCUA employee as a result of his or her employment with the Office of the Inspector General, you must submit a written request to the Office of the Inspector General. Your request will be handled in accordance with the provisions of this subpart except that the Inspector General will be responsible for those determinations that would otherwise be made by the General Counsel.

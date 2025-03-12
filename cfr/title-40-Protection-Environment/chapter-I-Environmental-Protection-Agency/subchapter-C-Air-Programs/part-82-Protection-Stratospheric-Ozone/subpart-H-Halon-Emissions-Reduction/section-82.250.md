@@ -1,0 +1,5 @@
+##### § 82.250 Purpose and scope. #####
+
+(a) The purpose of this subpart is to reduce the emissions of halon in accordance with section 608 of the Clean Air Act by banning the manufacture of halon blends; banning the intentional release of halons during repair, testing, and disposal of equipment containing halons and during technician training; requiring organizations that employ technicians to provide emissions reduction training; and requiring proper disposal of halons and equipment containing halons.
+
+(b) This subpart applies to any person testing, servicing, maintaining, repairing or disposing of equipment that contains halons or using such equipment during technician training. This subpart also applies to any person disposing of halons; to manufacturers of halon blends; and to organizations that employ technicians who service halon-containing equipment.

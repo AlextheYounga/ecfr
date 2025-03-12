@@ -1,0 +1,3 @@
+##### § 537.101 Purpose. #####
+
+This part implements 5 U.S.C. 5379, which authorizes agencies to establish a student loan repayment program for the purpose of recruiting or retaining highly qualified personnel. Under such a program, an agency may agree to repay (by direct payment to the loan holder on behalf of the employee) all or part of any outstanding qualifying student loan or loans previously taken out by a job candidate to whom an offer of employment has been made, or by a current employee of the agency.

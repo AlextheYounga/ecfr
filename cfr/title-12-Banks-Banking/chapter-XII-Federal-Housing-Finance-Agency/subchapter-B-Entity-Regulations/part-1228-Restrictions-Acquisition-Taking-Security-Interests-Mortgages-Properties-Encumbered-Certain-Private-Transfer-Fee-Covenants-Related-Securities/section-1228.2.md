@@ -1,0 +1,3 @@
+##### § 1228.2 Restrictions. #####
+
+The regulated entities shall not purchase, invest or otherwise deal in any mortgages on properties encumbered by private transfer fee covenants, securities backed by such mortgages, or securities backed by the income stream from such covenants, unless such covenants are excepted transfer fee covenants. The Federal Home Loan Banks shall not accept such mortgages or securities as collateral, unless such covenants are excepted transfer fee covenants.

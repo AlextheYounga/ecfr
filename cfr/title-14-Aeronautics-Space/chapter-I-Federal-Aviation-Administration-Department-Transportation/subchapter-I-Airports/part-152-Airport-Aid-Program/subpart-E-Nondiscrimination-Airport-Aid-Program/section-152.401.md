@@ -1,0 +1,7 @@
+##### § 152.401 Applicability. #####
+
+(a) This subpart is applicable to all grantees and other covered organizations under this part, and implements the requirements of section 30 of the Airport and Airway Development Act of 1970, which provides:
+
+The Secretary shall take affirmative action to assure that no person shall, on the grounds of race, creed, color, national origin, or sex, be excluded from participating in any activity conducted with funds received from any grant made under this title. The Secretary shall promulgate such rules as he deems necessary to carry out the purposes of this section and may enforce this section, and any rules promulgated under this section, through agency and department provisions and rules which shall be similar to those established and in effect under Title VI of the Civil Rights Act of 1964. The provisions of this section shall be considered to be in addition to and not in lieu of the provisions of Title VI of the Civil Rights Act of 1964.
+
+(b) Each grantee, covered organization, or covered suborganization under this part shall negotiate reformation of any contract, subcontract, lease, sublease, or other agreement to include any appropriate provision necessary to effect compliance with this subpart by July 17, 1980.

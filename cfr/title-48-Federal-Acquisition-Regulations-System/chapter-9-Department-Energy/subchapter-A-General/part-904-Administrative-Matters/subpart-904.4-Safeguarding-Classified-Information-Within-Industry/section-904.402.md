@@ -1,0 +1,17 @@
+##### 904.402 General. #####
+
+(a) The basis of Department of Energy's (DOE) industrial security requirements is the Atomic Energy Act of 1954, as amended, and Executive Orders 12958 and 12829.
+
+(b) DOE security regulations concerning restricted data are codified at 10 CFR part 1045.
+
+(c)(1) Section 234B of the Atomic Energy Act (42 U.S.C. 2282b) requires that DOE contracts include a clause that provides for an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or any contractor employee of any rule, regulation, or order relating to the safeguarding or security of Restricted Data or other classified information. The clause is required for all DOE prime contracts that involve any possibility of contractor access to Restricted Data or other classified information. The clause is required to specify various degrees of violations and the amount of the reduction attributable to each degree of violation. The clause prescribed at 904.404(d)(6) (952.204-76, Conditional Payment of Fee or Profit—Safeguarding Restricted Data and Other Classified Information) or the clause prescribed at 923.7003(f) (952.223-76, Conditional Payment of Fee or Profit—Safeguarding Restricted Data and Other Classified Information and Protection of Worker Safety and Health) shall be used for this purpose unless the clause prescribed at 970.1504-5(b)(1) (970.5215-3, Conditional Payment of Fee, Profit, and Other Incentives—Facility Management Contracts) is used.
+
+(2) The 952.204-76 clause entitled “Conditional Payment of Fee or Profit—Safeguarding Restricted Data and Other Classified Information” and the 952.223-76 clause entitled “Conditional Payment of Fee or Profit—Safeguarding Restricted Data and Other Classified Information and Protection of Worker Safety and Health” provide for reductions of fee or profit that is earned by the contractor depending upon the severity of the contractor's failure to comply with contract terms or conditions relating to the safeguarding of Restricted Data or other classified information. When reviewing performance failures that would otherwise warrant a reduction of earned fee, the contracting officer must consider mitigating factors that may warrant a reduction below the applicable range specified in the clause. Some of the mitigating factors that must be considered are specified in the clause.
+
+(3) The contracting officer must obtain the concurrence of the Head of the Contracting Activity—
+
+(i) Prior to effecting any reduction of fee or amounts otherwise payable to the contractor in accordance with the terms and conditions of the 952.204-76 clause entitled “Conditional Payment of Fee or Profit—Safeguarding Restricted Data and Other Classified Information” or of the 952.223-76 clause entitled “Conditional Payment of Fee or Profit—Safeguarding Restricted Data and Other Classified Information and Protection of Worker Safety and Health;” and
+
+(ii) For determinations that no reduction of fee is warranted for a particular performance failure(s) that would otherwise warrant a reduction.
+
+[67 FR 14876, Mar. 28, 2002, as amended at 68 FR 68776, Dec. 10, 2003; 74 FR 36361, July 22, 2009]

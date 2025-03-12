@@ -1,0 +1,7 @@
+##### 326.601 Policy. #####
+
+(a) IHS shall utilize the negotiation authority of the Buy Indian Act to give preference to Indians whenever authorized and practicable. The Buy Indian Act, 25 U.S.C. 47, prescribes the application of the advertising requirements of 41 U.S.C. 6101 to the acquisition of Indian supplies. As specified in 25 U.S.C. 47, the Buy Indian Act provides that, so far as practicable, the Government shall employ Indian labor and, at the discretion of the Secretary of the Interior, purchase products of Indian industry (including, but not limited to printing, notwithstanding any other law) from the open market.
+
+(b) Due to the transfer of authority from the Department of the Interior to HHS, the Secretary of HHS may use the Buy Indian Act to acquire products of Indian industry in connection with the maintenance and operation of Indian hospital and health facilities, and for the overall conservation of Indian health. This authority is exclusively delegated to IHS and is not available for use by any other HHS component (unless that component makes an acquisition on behalf of IHS). However, the Buy Indian Act itself does not exempt IHS from meeting the statutorily mandated small business goals.
+
+(c) Subsequent legislation, particularly Public Law 94-437 and Public Law 96-537, emphasize using the Buy Indian Act negotiation authority.

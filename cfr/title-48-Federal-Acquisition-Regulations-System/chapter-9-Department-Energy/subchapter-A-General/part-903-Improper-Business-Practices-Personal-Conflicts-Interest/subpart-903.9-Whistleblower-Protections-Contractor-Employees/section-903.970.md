@@ -1,0 +1,5 @@
+##### 903.970 Remedies. #####
+
+(a) Contractors found to have retaliated against an employee in reprisal for such disclosure, participation or refusal are required to provide relief in accordance with decisions issued under 10 CFR part 708.
+
+(b) 10 CFR part 708 provides that for the purposes of the Contract Disputes Act (41 U.S.C. 605 and 606), a final decision issued pursuant to 10 CFR part 708 shall not be considered to be a claim by the Government against a contractor or a decision by the contracting officer subject to appeal. However, a contractor's disagreement and refusal to comply with a final decision could result in a contracting officer's decision to disallow certain costs or to terminate the contract for default. In such case, the contractor could file a claim under the Disputes clause of the contract regarding the disallowance of cost or the termination of the contract.

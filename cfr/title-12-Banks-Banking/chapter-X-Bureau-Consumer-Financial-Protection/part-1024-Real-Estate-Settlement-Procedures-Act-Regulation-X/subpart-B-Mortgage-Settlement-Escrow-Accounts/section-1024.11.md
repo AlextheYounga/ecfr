@@ -1,0 +1,3 @@
+##### § 1024.11 Mailing. #####
+
+The provisions of this part requiring or permitting mailing of documents shall be deemed to be satisfied by placing the document in the mail (whether or not received by the addressee) addressed to the addresses stated in the loan application or in other information submitted to or obtained by the lender at the time of loan application or submitted or obtained by the lender or settlement agent, except that a revised address shall be used where the lender or settlement agent has been expressly informed in writing of a change in address.

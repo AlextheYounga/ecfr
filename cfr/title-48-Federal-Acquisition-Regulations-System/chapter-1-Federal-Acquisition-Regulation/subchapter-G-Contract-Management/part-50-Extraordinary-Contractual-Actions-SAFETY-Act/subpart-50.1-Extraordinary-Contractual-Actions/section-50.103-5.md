@@ -1,0 +1,9 @@
+##### 50.103-5 Processing cases. #####
+
+(a) In response to a contractor request made in accordance with 50.103-3(a), the contracting officer or an authorized representative shall make a thorough investigation to establish the facts necessary to decide a given case. Facts and evidence, including signed statements of material facts within the knowledge of individuals when documentary evidence is lacking, and audits if considered necessary to establish financial or cost facts, shall be obtained from contractor and Government personnel.
+
+(b) When a case involves matters of interest to more than one Government agency, the interested agencies should maintain liaison with each other to determine whether joint action should be taken.
+
+(c) When additional funds are required from another agency, the contracting agency may not approve adjustment requests before receiving advice that the funds will be available. The request for this advice shall give the contractor's name, the contract number, the amount of proposed relief, a brief description of the contract, and the accounting classification or fund citation. If the other agency makes additional funds available, the agency considering the adjustment request shall be solely responsible for any action taken on the request.
+
+(d) When essentiality to the national defense is an issue (50.103-2(a)(1)), agencies considering requests for amendment without consideration involving another agency shall obtain advice on the issue from the other agency before making the final decision. When this advice is received, the agency considering the request for amendment without consideration shall be responsible for taking whatever action is appropriate.

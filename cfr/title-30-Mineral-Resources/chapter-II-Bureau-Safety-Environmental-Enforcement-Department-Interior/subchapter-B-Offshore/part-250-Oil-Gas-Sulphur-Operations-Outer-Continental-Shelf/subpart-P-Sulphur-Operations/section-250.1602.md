@@ -1,0 +1,7 @@
+##### § 250.1602 Applicability. #####
+
+(a) The requirements of this subpart P are applicable to all exploration, development, and production operations under an OCS sulphur lease. Sulphur operations include all activities conducted under a lease for the purpose of discovery or delineation of a sulphur deposit and for the development and production of elemental sulphur. Sulphur operations also include activities conducted for related purposes. Activities conducted for related purposes include, but are not limited to, production of other minerals, such as salt, for use in the exploration for or the development and production of sulphur. The lessee must have obtained the right to produce and/or use these other minerals.
+
+(b) Lessees conducting sulphur operations in the OCS shall comply with the requirements of the applicable provisions of subparts A, B, C, I, J, M, N, O, and Q of this part and the applicable provisions of 30 CFR 550 subparts A, B, C, J and N.
+
+(c) Lessees conducting sulphur operations in the OCS are also required to comply with the requirements in the applicable provisions of subparts D, E, F, H, K, and L of this part and the applicable provisions of 30 CFR 550, subpart K, where such provisions specifically are referenced in this subpart.

@@ -1,0 +1,3 @@
+##### § 821.43 Effect of law judge's initial decision or appealable order and appeal therefrom. #####
+
+If no appeal from the law judge's initial decision or appealable order is timely filed, the initial decision or order shall become final with respect to the parties, but shall not be binding precedent for the Board. The filing of a timely notice of appeal with the Board shall stay the effectiveness of the law judge's initial decision or order, unless the basis for the decision or order is that the Board lacks jurisdiction.

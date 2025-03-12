@@ -1,0 +1,3 @@
+##### § 719.14 Will the Department notify the contractor concerning the adequacy or inadequacy of the submitted Legal Management Plan? #####
+
+The Contracting Officer or Department Counsel will notify the contractor of any non-compliance or inadequate information relating to requirements in § 719.12 within 30 days of the contractor's submission of the plan. The contractor must either correct matters identified within 30 days of notification or file a letter with the General Counsel disputing the determination of a deficiency.

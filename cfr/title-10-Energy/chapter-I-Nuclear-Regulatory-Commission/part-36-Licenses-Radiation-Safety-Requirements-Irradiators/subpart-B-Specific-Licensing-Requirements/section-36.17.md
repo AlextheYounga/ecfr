@@ -1,0 +1,5 @@
+##### § 36.17 Applications for exemptions. #####
+
+(a) The Commission may, upon application of any interested person or upon its own initiative, grant any exemptions from the requirements in this part that it determines are authorized by law and will not endanger life or property or the common defense and security and are otherwise in the public interest.
+
+(b) Any application for a license or for amendment of a license authorizing use of a teletherapy-type unit for irradiation of materials or objects may include proposed alternatives for the requirements of this part. The Commission will approve the proposed alternatives if the applicant provides adequate rationale for the proposed alternatives and demonstrates that they are likely to provide an adequate level of safety for workers and the public.

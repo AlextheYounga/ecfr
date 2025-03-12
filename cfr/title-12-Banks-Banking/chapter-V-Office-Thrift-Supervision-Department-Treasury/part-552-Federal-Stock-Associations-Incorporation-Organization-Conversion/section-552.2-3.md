@@ -1,0 +1,3 @@
+##### § 552.2-3 Federal stock association created in connection with an association in default or in danger of default. #####
+
+Sections 552.2-1 and 552.2-2 of this part do not apply to a Federal stock association which is proposed by the Federal Deposit Insurance Corporation, or the Resolution Trust Corporation under section 5(p) of the Home Owner's Loan Act of 1933, section 11(c) of the Federal Deposit Insurance Act, or section 21A of the Federal Home Loan Bank Act, or is otherwise chartered by the Office in connection with an association in default or in danger of default. Incorporation and organization of such associations are complete when and under such conditions as the Director or his or her designee so determines.

@@ -1,0 +1,9 @@
+##### § 180.32 Procedure for modifying and revoking tolerances or exemptions from tolerances. #####
+
+(a) The Administrator on his/her own initiative may propose the issuance of a regulation modifying or revoking a tolerance for a pesticide chemical residue on raw agricultural commodities or processed foods or modifying or revoking an exemption from tolerance for such residue.
+
+(b) Any person may file with the Administrator a petition proposing the issuance of a regulation modifying or revoking a tolerance or exemption from a tolerance for a pesticide chemical residue. The petition shall furnish reasonable grounds for the action sought. Reasonable grounds shall include an explanation showing wherein the person has a substantial interest in such tolerance or exemption from tolerance and an assertion of facts (supported by data if available) showing that new uses for the pesticide chemical have been developed or old uses abandoned, that new data are available as to toxicity of the chemical, or that experience with the application of the tolerance or exemption from tolerance may justify its modification or revocation. Evidence that a person has registered or has submitted an application for the registration of a pesticide under the Federal Insecticide, Fungicide, and Rodenticide Act will be regarded as evidence that the person has a substantial interest in a tolerance or exemption from the requirement of a tolerance for a pesticide chemical that consists in whole or in part of the pesticide. New data should be furnished in the form specified in § 180.7(b) for submitting petitions, as applicable.
+
+(c) The procedures for completing action on an Administrator initiated proposal or a petition shall be those specified in §§ 180.29 and 180.7, as applicable.
+
+[70 FR 33362, June 8, 2005]

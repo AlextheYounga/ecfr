@@ -1,0 +1,5 @@
+##### § 217.502 Application of the Board's Regulatory Capital Framework to Employee Stock Ownership Plans that are Depository Institution Holding Companies and Certain Trusts that are Savings and Loan Holding Companies. #####
+
+(a) *Employee Stock Ownership Plans.* Notwithstanding § 217.1(c), a bank holding company or covered savings and loan holding company that is an employee stock ownership plan is exempt from this part until the Board adopts regulations that directly relate to the application of capital regulations to employee stock ownership plans.
+
+(b) *Personal or Family Trusts.* Notwithstanding § 217.1(c), a covered savings and loan holding company is exempt from this part if it is a personal or family trust and not a business trust until the Board adopts regulations that apply capital regulations to such a covered savings and loan holding company.

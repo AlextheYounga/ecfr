@@ -1,0 +1,3 @@
+##### § 137.201 What are the purposes of the Tribal reporting requirements? #####
+
+Tribal reports enable the Secretary to prepare reports required under Title V and to develop the budget request. The reporting requirements are not intended as a quality assessment or monitoring tool, although such provision may be included at the option of the Self-Governance Tribe. Under no circumstances will the reporting requirement include any confidential, proprietary or commercial information. For example, while staffing levels may be a part of a report, pay levels for the staff are considered confidential between the Self-Governance Tribe and the employee.

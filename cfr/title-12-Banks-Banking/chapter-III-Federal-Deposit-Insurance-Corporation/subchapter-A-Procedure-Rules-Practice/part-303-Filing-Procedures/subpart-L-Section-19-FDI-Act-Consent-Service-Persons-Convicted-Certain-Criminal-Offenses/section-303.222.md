@@ -1,0 +1,3 @@
+##### § 303.222 Service at another insured depository institution. #####
+
+In the case of a person who has already been approved by the FDIC under this subpart or section 19 of the FDI Act in connection with a particular insured depository institution, such person may not become an institution affiliated party, or own or control directly or indirectly another insured depository institution, or participate in the conduct of the affairs of another insured depository institution, without the prior written consent of the FDIC.

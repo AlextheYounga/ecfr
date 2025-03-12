@@ -1,0 +1,3 @@
+##### § 585.541 What is a qualified project for revenue sharing purposes? #####
+
+A qualified project for the purpose of revenue sharing with eligible coastal States is one authorized under subsection 8(p) of the OCS Lands Act, which includes acreage within the area extending 3 nautical miles seaward of State submerged lands. A qualified project is subject to revenue sharing with those States that are eligible for revenue sharing under § 585.542. The entire area within a lease or grant for the qualified project, excluding project easements, is considered the qualified project area.

@@ -1,0 +1,3 @@
+##### § 379.13 Disposition and retention of records. #####
+
+The schedule in appendix A to this part shows periods that designated records shall be preserved. The descriptions specified under the various general headings are for convenient reference and identification, and are intended to apply to the items named regardless of what the records are called in individual companies and regardless of the record media. The retention periods represent the prescribed number of years from the date of the document and not calendar years. Records not listed in appendix A to this part shall be retained as determined by the management of each company.

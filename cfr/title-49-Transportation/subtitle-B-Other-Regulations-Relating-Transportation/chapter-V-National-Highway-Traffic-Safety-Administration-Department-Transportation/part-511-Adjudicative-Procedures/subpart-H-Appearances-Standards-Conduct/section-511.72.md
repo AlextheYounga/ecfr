@@ -1,0 +1,3 @@
+##### § 511.72 Authority for representation. #####
+
+Any individual acting in a representative capacity in any adjudicative proceeding may be required by the Presiding Officer or the Administrator to show his or her authority to act in such capacity. A regular employee of a party who appears on behalf of the party shall be required by the Presiding Officer or the Administrator to show his or her authority to so appear.

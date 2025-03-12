@@ -1,0 +1,3 @@
+##### § 414.1 Collection of conference and other fees. #####
+
+Ex-Im Bank may impose and collect reasonable fees to cover the costs of conferences and seminars sponsored by, and publications provided by Ex-Im Bank. Amounts received under the preceding sentence shall be credited to the fund which initially paid for such activities and shall be offset against the expenses of Ex-Im Bank for such activities.

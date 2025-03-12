@@ -1,0 +1,3 @@
+##### § 305.6 Appearance of witnesses. #####
+
+Witnesses may be required to appear before any administrative law judge for the purpose of receiving their testimony or receiving from them documents or other data relating to any subject under investigation. Such testimony shall be mechanically or stenographically recorded, and a transcript thereof shall be made and incorporated in the record of the investigation.

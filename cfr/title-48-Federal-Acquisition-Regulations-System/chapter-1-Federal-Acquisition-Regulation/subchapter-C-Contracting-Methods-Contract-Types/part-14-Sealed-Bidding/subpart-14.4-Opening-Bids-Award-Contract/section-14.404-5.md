@@ -1,0 +1,3 @@
+##### 14.404-5 All or none qualifications. #####
+
+Unless the solicitation provides otherwise, a bid may be responsive notwithstanding that the bidder specifies that award will be accepted only on all, or a specified group, of the items. Bidders shall not be permitted to withdraw or modify *all or none* qualifications after bid opening since such qualifications are substantive and affect the rights of other bidders.

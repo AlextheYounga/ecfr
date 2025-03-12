@@ -1,0 +1,11 @@
+##### § 10.33 Action by theDeputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs . #####
+
+(a) TheDeputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs , on the basis of the record accompanied by all findings and recommendations, shall make a final determination whether access authorization and/or employment clearance shall be granted, denied, or revoked, except when the provisions of § 10.28 (i), (j), or (l) have been used and the Deputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs determination is adverse, the Commission shall make the final agency determination.
+
+(b) In making the determination as to whether an access authorization and/or an employment clearance shall be granted, denied, or revoked, the Deputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs or the Commission shall give due recognition to the favorable as well as the unfavorable information concerning the individual and shall take into account the value of the individual's services to the NRC's program and the consequences of denying or revoking access authorization and/or employment clearance.
+
+(c) In the event of an adverse determination, the Deputy Executive Director for Corporate Management and Chief Information Officer shall promptly notify the individual through the Director, Office of Administration, of his or her decision that an access authorization and/or an employment clearance is being denied or revoked and of his or her findings with respect to each allegation contained in the notification letter for transmittal to the individual.
+
+(d) In the event of a favorable determination, the Deputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs shall promptly notify the individual through the Director, Office of Administration.
+
+[64 FR 15644, Apr. 1, 1999]

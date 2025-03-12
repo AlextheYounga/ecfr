@@ -1,0 +1,3 @@
+##### § 234.9 Reporting of on-time performance codes. #####
+
+No later than the 15th day of each month, each reporting carrier shall deliver, or arrange to have delivered, to each system vendor, as defined in 14 CFR part 255, the on-time performance codes required to be determined above. Carriers may report the codes by insuring that they are included in basic schedule tapes provided to CRS vendors or by providing a separate tape that will permit the CRS vendors to match the performance codes with basic schedule tapes.

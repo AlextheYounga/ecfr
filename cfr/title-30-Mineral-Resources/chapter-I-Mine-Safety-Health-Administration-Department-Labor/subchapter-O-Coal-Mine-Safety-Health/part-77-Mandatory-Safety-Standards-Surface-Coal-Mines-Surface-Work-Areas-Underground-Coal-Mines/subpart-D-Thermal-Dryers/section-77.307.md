@@ -1,0 +1,5 @@
+##### § 77.307 Thermal dryers; location and installation; general. #####
+
+(a) Thermal dryer systems erected or installed at any coal mine after June 30, 1971 shall be located at least 100 feet from any underground coal mine opening, and 100 feet from any surface installation where the heat, sparks, flames, or coal dust from the system might cause a fire or explosion.
+
+(b) Thermal dryer systems erected or installed after June 30, 1971 may be covered by roofs, however, such systems shall not be otherwise enclosed unless necessary to protect the health and safety of persons employed at the mine. Where such systems are enclosed, they shall be located in separate fireproof structures of heavy construction with explosion pressure release devices (such as hinged wall panels, window sashes, or louvers); which provide at least 1 square foot of area for each 80 cubic feet of space volume and which are distributed as uniformly as possible throughout the structure.

@@ -1,0 +1,3 @@
+##### § 137.342 What happens to funds remaining at the conclusion of a cost reimbursement construction project? #####
+
+All funds, including contingency funds, remaining at the conclusion of the project are considered savings and may be used by the Self-Governance Tribe to provide additional services for the purpose for which the funds were originally appropriated. No further approval or justifying documentation is required before the expenditure of the remaining funds.

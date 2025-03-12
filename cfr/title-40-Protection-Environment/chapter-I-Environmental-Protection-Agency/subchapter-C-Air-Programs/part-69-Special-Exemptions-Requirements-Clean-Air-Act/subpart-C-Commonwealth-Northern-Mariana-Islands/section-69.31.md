@@ -1,0 +1,7 @@
+##### § 69.31 New exemptions. #####
+
+(a) *Change to Major Source Baseline Date and Trigger Date.* Pursuant to section 325(a) of the Clean Air Act and a petition submitted by the Governor of the Commonwealth of the Northern Mariana Islands, EPA grants an exemption to the major source baseline dates and trigger dates for sulfur dioxide, PM10, and nitrogen dioxide under 40 CFR 52.21, and establishes January 13, 1997 as the major source baseline date and trigger date for these pollutants in the Commonwealth of the Northern Mariana Islands. This exemption applies solely to the PSD major source baseline date and trigger date in the Commonwealth of the Northern Mariana Islands. Owners and operators of air pollutant sources are required to comply with all other applicable requirements of the Clean Air Act. For purposes of complying with any applicable requirement that is triggered by, implemented or calculated from the PSD major source baseline date, such requirement, increment, or calculation shall, for sources located within the Commonwealth of the Northern Mariana Islands, use January 13, 1997 as the PSD major source baseline date and trigger date for sulfur dioxide, PM10, and nitrogen dioxide.
+
+(b) [Reserved]
+
+[79 FR 22035, Apr. 22, 2014]

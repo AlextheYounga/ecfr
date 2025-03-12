@@ -1,0 +1,9 @@
+##### § 1.19 Other committees, boards, and panels. #####
+
+Under section 161a. of the Atomic Energy Act of 1954, as amended, the Commission may establish advisory bodies to make recommendations to it. Currently, four committees are in existence.
+
+(a) The Advisory Committee on Medical Uses of Isotopes (ACMUI) was established by the Atomic Energy Commission in July 1958. The ACMUI, composed of physicians and scientists, considers medical questions referred to it by the NRC staff and renders expert opinions regarding medical uses of radioisotopes. The ACMUI also advises the NRC staff, as requested, on matters of policy regarding licensing of medical uses of radioisotopes.
+
+(b) The Licensing Support Network Advisory Review Panel (LSNARP) was established by the Commission on October 3, 1989, pursuant to 10 CFR 2.1011(e) of the Commission's regulations. The LSNARP provides advice to the Commission on the design, development, and operation of the Licensing Support Network (LSN) an electronic information management system for use in the Commission's high-level radioactive waste (HLW) licensing proceeding. Membership consists of those interests that will be affected by the use of the LSN, and selected Federal agencies with expertise in large-scale electronic information systems. The individual representatives of these interests and agencies possess expertise in management information science and in managing records of the Commission's licensing process for the HLW repository.
+
+[52 FR 31602, Aug. 21, 1987, as amended at 54 FR 53314, Dec. 28, 1989; 68 FR 75389, Dec. 31, 2003; 79 FR 75737, Dec. 19, 2014]

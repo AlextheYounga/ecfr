@@ -1,0 +1,3 @@
+##### § 456.400 Scope. #####
+
+Sections 456.401 through 456.438 of this subpart prescribe requirements for a written utilization review (UR) plan for each ICF providing Medicaid services. Sections 456.405 through 456.407 prescribe administrative requirements; §§ 456.411 through 456.413 prescribe informational requirements; and §§ 456.431 through 456.438 prescribe requirements for continued stay review.

@@ -1,0 +1,5 @@
+##### § 256.62 Requirements for public participation in State regulatory development. #####
+
+(a) The State shall conduct public hearings (and public meetings where the State determines there is sufficient interest) on State legislation and regulations, in accord with the State administrative procedures act, to solicit reactions and recommendations. Following the public hearings, a responsiveness summary shall be prepared and made available to the public in accord with 40 CFR 25.8.
+
+(b) In advance of the hearings and meetings required by paragraph (a) of this section, the State shall prepare a fact sheet on proposed regulations or legislation, mail the fact sheet to agencies, organizations and individuals on the list maintained under § 256.60(a)(1) and place the fact sheet in the State information depositories maintained under § 256.60(a)(2).

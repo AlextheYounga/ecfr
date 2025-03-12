@@ -1,0 +1,3 @@
+##### § 250.909 What is the Platform Verification Program? #####
+
+The Platform Verification Program is the BSEE approval process for ensuring that floating platforms; platforms of a new or unique design; platforms in seismic areas; or platforms located in deepwater or frontier areas meet stringent requirements for design and construction. The program is applied during construction of new platforms and major modifications of, or repairs to, existing platforms. These requirements are in addition to the requirements of the Platform Approval Program described in §§ 250.904 through 250.908 of this subpart.

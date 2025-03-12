@@ -1,0 +1,3 @@
+##### § 609.14 Full faith and credit and incontestability. #####
+
+The full faith and credit of the United States is pledged to the payment of all Guaranteed Obligations issued in accordance with this part with respect to principal and interest. Such guarantee shall be conclusive evidence that it has been properly obtained; that the underlying loan qualified for such guarantee; and that, but for fraud or material misrepresentation by the Holder, such guarantee will be presumed to be valid, legal, and enforceable.

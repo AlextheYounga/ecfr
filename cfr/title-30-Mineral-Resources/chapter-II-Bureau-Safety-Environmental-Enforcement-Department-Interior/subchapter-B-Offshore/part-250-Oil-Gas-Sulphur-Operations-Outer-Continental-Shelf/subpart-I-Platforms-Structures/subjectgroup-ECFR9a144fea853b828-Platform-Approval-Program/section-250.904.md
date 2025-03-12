@@ -1,0 +1,5 @@
+##### § 250.904 What is the Platform Approval Program? #####
+
+(a) The Platform Approval Program is the BSEE basic approval process for platforms on the OCS. The requirements of the Platform Approval Program are described in §§ 250.904 through 250.908 of this subpart. Completing these requirements will satisfy BSEE criteria for approval of fixed platforms of a proven design that will be placed in the shallow water areas (≤400 ft.) of the Gulf of Mexico OCS.
+
+(b) The requirements of the Platform Approval Program must be met by all platforms on the OCS. Additionally, if you want approval for a floating platform; a platform of unique design; or a platform being installed in deepwater (\> 400 ft.) or a frontier area, you must also meet the requirements of the Platform Verification Program. The requirements of the Platform Verification Program are described in §§ 250.909 through 250.918 of this subpart.

@@ -1,0 +1,3 @@
+##### § 421.1 Applicability. #####
+
+This part applies to facilities producing primary metals from ore concentrates and recovering secondary metals from recycle wastes which discharge or may discharge pollutants to waters of the United States or which introduce or may introduce pollutants into a publicly owned treatment works. The applicability of this part to alloying or casting of nonferrous metals is limited to alloying or casting of hot metal directly from the nonferrous metals manufacturing process without cooling. Remelting followed by alloying or cooling is included in the aluminum forming, nonferrous metals forming, or metal molding and casting point source categories.

@@ -1,0 +1,3 @@
+##### § 2.401 Distress messages. #####
+
+Each station licensee shall give absolute priority to radiocommunications or signals relating to ships or aircraft in distress; shall cease all sending on frequencies which will interfere with hearing a radiocommunication or signal of distress and except when engaged in answering or aiding the ship or aircraft in distress, shall refrain from sending any radiocommunications or signals until there is assurance that no interference will be caused with the radiocommunications or signals relating thereto; and shall assist the ship or aircraft in distress, so far as possible, by complying with its instructions.

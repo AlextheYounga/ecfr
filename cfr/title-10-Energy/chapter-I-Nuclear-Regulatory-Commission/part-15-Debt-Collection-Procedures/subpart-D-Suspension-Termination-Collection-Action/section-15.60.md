@@ -1,0 +1,11 @@
+##### § 15.60 Discharge of indebtedness; reporting requirements. #####
+
+(a) Before discharging a delinquent debt (also referred to as a close out of the debt), the NRC shall take all appropriate steps to collect the debt in accordance with 31 U.S.C. 3711(g), including, as applicable, administrative offset; tax refund offset; Federal salary offset; referral to Treasury, Treasury-designated debt collection centers, or private collection contractors; credit bureau reporting; wage garnishment; litigation; and foreclosure. Discharge of indebtedness is distinct from termination or suspension of collection activity under 10 CFR 15.55 and 15.57 and is governed by the Internal Revenue Code. When collection action on a debt is suspended or terminated, the debt remains delinquent, and further collection action may be pursued at a later date. When the NRC discharges a debt in full or in part, further collection action is prohibited. Therefore, the NRC will make the determination that collection action is no longer warranted before discharging a debt. Before discharging a debt, the NRC must terminate debt collection action.
+
+(b) Section 3711(i), title 31, United States Code, requires agencies to sell a delinquent nontax debt upon termination of collection action if Treasury determines such a sale is in the best interests of the United States. Since the discharge of a debt precludes any further collection action (including the sale of a delinquent debt), the NRC may not discharge a debt until the requirements of 31 U.S.C. 3711(i) have been met.
+
+(c) Upon discharge of an indebtedness, the NRC shall report the discharge to the IRS in accordance with the requirements of 26 U.S.C. 6050P and 26 CFR 1.6050P-1. The NRC may request Treasury or a Treasury-designated debt collection center to file a discharge report to the IRS on the NRC's behalf.
+
+(d) When discharging a debt, the NRC shall request that litigation counsel release any liens of record securing the debt.
+
+[67 FR 30323, May 6, 2002]

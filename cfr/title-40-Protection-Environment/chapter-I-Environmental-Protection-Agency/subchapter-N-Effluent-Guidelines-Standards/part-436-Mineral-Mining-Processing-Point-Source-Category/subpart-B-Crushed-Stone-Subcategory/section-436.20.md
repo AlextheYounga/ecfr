@@ -1,0 +1,3 @@
+##### § 436.20 Applicability; description of the crushed stone subcategory. #####
+
+The provisions of this subpart are applicable to the mining or quarrying and the processing of crushed and broken stone and riprap. This subpart includes all types of rock and stone. Rock and stone that is crushed or broken prior to the extraction of a mineral are elsewhere covered. The processing of calcite, however, in conjunction with the processing of crushed and broken limestone or dolomite is included in this subpart.

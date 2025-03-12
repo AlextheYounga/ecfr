@@ -1,0 +1,3 @@
+##### § 101.1007 Geographic service areas and number of licenses. #####
+
+LMDS service areas are Basic Trading Areas (BTAs) as defined in the Rand McNally 1992 Commercial Atlas & Marketing Guide, 123rd Edition, at pages 38-39, that identifies 487 BTAs based on the 50 States and as defined to include the BTA-like areas of the United States Virgin Islands, American Samoa, Guam, Mayaguez/Aguadilla-Ponce, Puerto Rico, San Juan, Puerto Rico, and the Commonwealth of Northern Marinas, for a total of 493 BTAs.

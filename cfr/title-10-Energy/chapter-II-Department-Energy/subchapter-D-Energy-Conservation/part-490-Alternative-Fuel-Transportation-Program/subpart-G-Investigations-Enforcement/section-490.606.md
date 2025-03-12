@@ -1,0 +1,3 @@
+##### § 490.606 Proposed assessments and orders. #####
+
+DOE may issue a proposed assessment of, and order to pay, a civil penalty in a written statement setting forth supporting findings of violation of the Act or a relevant regulation of this part. The proposed assessment and order shall be served on the person named therein by certified mail, return-receipt requested, and shall become final for DOE if not timely appealed pursuant to section 490.607 of this part.

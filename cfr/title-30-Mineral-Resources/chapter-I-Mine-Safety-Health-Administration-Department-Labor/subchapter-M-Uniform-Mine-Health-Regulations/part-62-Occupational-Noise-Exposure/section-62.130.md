@@ -1,0 +1,7 @@
+##### § 62.130 Permissible exposure level. #####
+
+(a) The mine operator must assure that no miner is exposed during any work shift to noise that exceeds the permissible exposure level. If during any work shift a miner's noise exposure exceeds the permissible exposure level, the mine operator must use all feasible engineering and administrative controls to reduce the miner's noise exposure to the permissible exposure level, and enroll the miner in a hearing conservation program that complies with § 62.150 of this part. When a mine operator uses administrative controls to reduce a miner's exposure, the mine operator must post the procedures for such controls on the mine bulletin board and provide a copy to the affected miner.
+
+(b) If a miner's noise exposure continues to exceed the permissible exposure level despite the use of all feasible engineering and administrative controls, the mine operator must continue to use the engineering and administrative controls to reduce the miner's noise exposure to as low a level as is feasible.
+
+(c) The mine operator must assure that no miner is exposed at any time to sound levels exceeding 115 dBA, as determined without adjustment for the use of any hearing protector.

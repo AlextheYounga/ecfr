@@ -1,0 +1,9 @@
+##### § 4.75 Post termination proceedings. #####
+
+(a) An applicant or recipient adversely affected by an order issued under § 4.74 shall be restored to full eligibility to receive Federal financial assistance if it satisfies the terms and conditions of that order for such eligibility or if it brings itself into compliance with this subpart and provides reasonable assurance that it will fully comply with this subpart.
+
+(b) Any applicant or recipient adversely affected by an order entered pursuant to § 4.74 may at any time request the responsible NRC official to restore fully its eligibility to receive Federal financial assistance. Any such request shall be supported by information showing that the applicant or recipient has met the requirements of paragraph (a) of this section. If the responsible NRC official determines that those requirements have been satisfied, he shall restore such eligibility.
+
+(c) If the responsible NRC official denies any such request, the applicant or recipient may submit a request for a hearing in writing, specifying why it believes such official to have been in error. It shall thereupon be given an expeditious hearing, with the decision on the record, in accordance with rules of procedure issued by the responsible NRC official. The applicant or recipient will be restored to such eligibility if it proves at such a hearing that it satisfied the requirements of paragraph (a) of this section. While proceedings under this section are pending, the sanctions imposed by the order issued under § 4.74 shall remain in effect.
+
+[38 FR 17928, July 5, 1973, as amended at 40 FR 8778, Mar. 3, 1975]

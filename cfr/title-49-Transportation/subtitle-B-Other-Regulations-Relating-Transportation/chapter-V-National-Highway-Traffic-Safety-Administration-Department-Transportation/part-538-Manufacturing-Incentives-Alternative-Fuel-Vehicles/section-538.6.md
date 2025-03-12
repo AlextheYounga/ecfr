@@ -1,0 +1,5 @@
+##### § 538.6 Measurement of driving range. #####
+
+The driving range of a passenger automobile model type not using electricity as an alternative fuel is determined by multiplying the combined EPA urban/highway fuel economy rating when operating on the alternative fuel, by the nominal usable fuel tank capacity (in gallons), of the fuel tank containing the alternative fuel. The combined EPA urban/highway fuel economy rating is the value determined by the procedures established by the Administrator of the EPA under 49 U.S.C. 32904 and set forth in 40 CFR part 600. The driving range of a passenger automobile model type using electricity as an alternative fuel is determined by operating the vehicle in the electric-only mode of operation through the EPA urban cycle on its nominal storage capacity of electricity and the EPA highway cycle on its nominal storage capacity of electricity. Passenger automobile types using electricity as an alternative fuel that have completed the EPA urban cycle after recharging and the EPA highway cycle after recharging shall be deemed to have met the minimum range requirement.
+
+[63 FR 66069, Dec. 1, 1998]

@@ -1,0 +1,3 @@
+##### § 60.312 Standard for volatile organic compounds (VOC). #####
+
+(a) On and after the date on which the initial performance test required to be conducted by § 60.8(a) is completed, no owner or operator subject to the provisions of this subpart shall cause the discharge into the atmosphere of VOC emissions from any metal furniture surface coating operation in excess of 0.90 kilogram of VOC per liter of coating solids applied.

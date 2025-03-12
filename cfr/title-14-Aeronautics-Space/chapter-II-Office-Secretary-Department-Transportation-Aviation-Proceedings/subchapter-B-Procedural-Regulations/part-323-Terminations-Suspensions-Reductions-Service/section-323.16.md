@@ -1,0 +1,3 @@
+##### § 323.16 Listings in schedule publications. #####
+
+Each air carrier filing a notice under § 323.3 (a)(2), (a)(4), (a)(5), or (c) shall continue to list the affected flights in all generally-distributed schedule publications in which the flight was listed before the notice. The listings shall continue until DOT permits the flights to be discontinued. The listings may include a notice stating that the flights are “to be discontinued as of (date) subject to government approval.”

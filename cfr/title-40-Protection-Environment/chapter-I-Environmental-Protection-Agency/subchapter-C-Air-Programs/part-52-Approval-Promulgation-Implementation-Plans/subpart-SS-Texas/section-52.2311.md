@@ -1,0 +1,5 @@
+##### § 52.2311 Motor vehicle antitampering. #####
+
+The State of Texas submitted revisions to the State Implementation Plan for 30 TAC Chapter 114, sections 114.1 “Maintenance and Operation of Air Pollution Control Systems or Devices Used to Control Emissions from Motor Vehicles” and 114.5 “Exclusions and Exceptions” on February 24, 1989, and September 6, 1990, and July 13, 1993. The EPA disapproved these revisions that relate to Statewide antitampering provisions and exemptions to antitampering provisions for motor vehicles or motor vehicle engine emission control systems because the State's antitampering rules are not consistent with the Act, section 203(a)(3) and EPA's tampering prohibitions as outlined in EPA's antitampering enforcement policy, Mobile Source Enforcement Memorandum No. 1A.
+
+[63 FR 6653, Feb. 10, 1998]

@@ -1,0 +1,7 @@
+##### § 401.4 Information collection. #####
+
+(a) The information collection requirements contained in sections 401.11 and 401.19 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1028-0044. The information will be used to support water related research and provide performance reports on accomplishments achieved under Pub. L. 98-242, 98 Stat. 97 (42 U.S.C. 10303). This information allows the agency to determine compliance with the objectives and criteria of the grant programs. Response is mandatory in accordance with 30 CFR 401.11 and 401.19.
+
+(b) Public reporting burden for the collection of information is estimated to average 84 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate, or any other suggestions for reducing the burden, to Paperwork Management Officer, U.S. Geological Survey, Paperwork Management Section MS 208, Reston, Virginia 22092 and the Office of Management and Budget, Paperwork Reduction Project (1028-0044), Washington, DC 20503.
+
+[58 FR 27204, May 7, 1993]

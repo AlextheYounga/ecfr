@@ -1,0 +1,3 @@
+##### § 93.112 Criteria and procedures: Consultation. #####
+
+Conformity must be determined according to the consultation procedures in this subpart and in the applicable implementation plan, and according to the public involvement procedures established in compliance with 23 CFR part 450. Until the implementation plan revision required by § 51.390 of this chapter is fully approved by EPA, the conformity determination must be made according to § 93.105 (a)(2) and (e) and the requirements of 23 CFR part 450.

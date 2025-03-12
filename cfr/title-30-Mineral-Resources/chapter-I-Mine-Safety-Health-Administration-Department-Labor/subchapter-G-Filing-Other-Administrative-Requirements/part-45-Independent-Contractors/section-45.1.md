@@ -1,0 +1,3 @@
+##### § 45.1 Scope and purpose. #####
+
+This part sets forth information requirements and procedures for independent contractors to obtain an MSHA identification number and procedures for service of documents upon independent contractors. Production-operators are required to maintain certain information for each independent contractor at the mine. The purpose of this rule is to facilitate implementation of MSHA's enforcement policy of holding independent contractors responsible for violations committed by them and their employees.

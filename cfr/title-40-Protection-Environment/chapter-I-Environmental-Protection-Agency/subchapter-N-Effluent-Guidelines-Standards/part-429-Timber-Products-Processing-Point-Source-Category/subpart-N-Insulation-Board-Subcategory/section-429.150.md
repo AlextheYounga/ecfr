@@ -1,0 +1,3 @@
+##### § 429.150 Applicability; description of the insulation board subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from plants which produce insulation board using wood as the primary raw material. Specifically excluded from this subpart is the manufacture of insulation board from the primary raw material bagasse.

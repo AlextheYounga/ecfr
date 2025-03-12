@@ -1,0 +1,9 @@
+##### 47.301-3 Using the Defense Transportation System (DTS). #####
+
+(a) All military and civilian agencies shipping, or arranging for the acquisition and shipment by Government contractors, through the use of military-controlled transport or through military transshipment facilities shall follow Department of Defense (DoD) Regulation DoD 4500.9-R, Defense Transportation Regulation Part II. This establishes uniform procedures and documents for the generation, documentation, communication, and use of transportation information, thus providing the capability for control of shipments moving in the DTS. DoD 4500.9-R, Defense Transportation Regulation Part II has been implemented on a world-wide basis.
+
+(b) Contracting activities are responsible for (1) ensuring that the requirements of the DoD 4500.9-R, Defense Transportation Regulation Part II regulation are included in appropriate contracts for all applicable shipments and (2) enforcing these requirements with regard to shipments under their control. This includes requirements relating to documentation, marking, advance notification of shipment dates, and terminal clearances.
+
+(c) Contractual documents shall designate a contract administration office (see 42.202(a)) as the contact point to which the contractor will provide necessary information to (1) effect DoD 4500.9-R, Defense Transportation Regulation Part II documentation and movement control, including air or water terminal shipment clearances; and (2) obtain data necessary for shipment marking and freight routing. Contractual documents shall specify that the contractor shall not ship directly to a military air or water port terminal without authorization from the designated contract administration office (see 47.305-6(f)).
+
+[48 FR 42424, Sept. 19, 1983, as amended at 51 FR 2666, Jan. 17, 1986; 55 FR 38517, Sept. 18, 1990; 63 FR 9065, Feb. 23, 1998; 71 FR 205, Jan. 3, 2006]

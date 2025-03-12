@@ -1,0 +1,5 @@
+##### § 172.2 General. #####
+
+(a) Pursuant to section 5 of the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (86 Stat. 983), and except as herein provided by § 172.3, any person wishing to accumulate information necessary to register under section 3 of the Act and the regulations thereunder (1) a pesticide not registered with this Agency or (2) a registered pesticide for a use not previously approved in the registration of the pesticide may apply to the Administrator at any time for an experimental use permit.
+
+(b) Pesticides under experimental use permits may not be sold or distributed other than through participants and, if sold or distributed through participants, may be used only at an application site of a cooperator and in accordance with the terms and conditions of the experimental use permit.

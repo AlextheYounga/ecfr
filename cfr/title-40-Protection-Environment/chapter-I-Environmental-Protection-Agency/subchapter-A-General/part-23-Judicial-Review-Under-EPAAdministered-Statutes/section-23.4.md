@@ -1,0 +1,3 @@
+##### § 23.4 Timing of Administrator's action under Resource Conservation and Recovery Act. #####
+
+Unless the Administrator otherwise explicitly provides in taking a particular action, for purposes of section 7006(b), the time and date of the Administrator's action in issuing, denying, modifying, or revoking any permit under section 3005, or in granting, denying, or withdrawing authorization or interim authorization under section 3006, shall be at 1:00 p.m. eastern time (standard or daylight, as appropriate) on the date that is (a) for a Federal Register document, two weeks after the date when the document is published in the Federal Register, or (b) for any other document, two weeks after it is signed.

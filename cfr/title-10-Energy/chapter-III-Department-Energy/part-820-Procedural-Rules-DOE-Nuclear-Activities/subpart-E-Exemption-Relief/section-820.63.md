@@ -1,0 +1,3 @@
+##### § 820.63 Procedures. #####
+
+The Secretarial Officer shall utilize any procedures deemed necessary and appropriate to comply with his responsibilities under this subpart. All exemption decisions must set forth in writing the reasons for granting or denying the exemption, and if granted, the basis for the determination that the criteria in § 820.62 have been met and the terms of the exemption. All exemption decisions must be filed with the Office of the Docketing Clerk which shall maintain a docket for exemption decisions issued pursuant to this subpart.

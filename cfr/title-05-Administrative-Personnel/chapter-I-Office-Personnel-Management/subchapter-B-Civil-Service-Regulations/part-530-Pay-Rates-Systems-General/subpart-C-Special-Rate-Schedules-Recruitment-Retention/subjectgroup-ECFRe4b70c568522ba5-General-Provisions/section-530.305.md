@@ -1,0 +1,7 @@
+##### § 530.305 Agency requests for new or increased special rates. #####
+
+(a) An agency may request that a special rate schedule be established or increased or that its employees be covered by an existing special rate schedule at any time. An authorized agency official in the agency headquarters office must submit to OPM any request to establish or increase special rates for a category of agency employees. The request must include a certification by the authorized agency official that the requested special rates are necessary to ensure adequate staffing levels to accomplish the agency's mission.
+
+(b) The authorized agency official is responsible for submitting complete supporting data for any request for new or higher special rates. OPM may require that the supporting data include a survey of prevailing non-Federal pay rates in the relevant labor market.
+
+(c) OPM may coordinate an agency special rate request with other agencies that have similar categories of employees. OPM may designate a lead agency to assist in coordinating the collection of relevant data. Each affected agency is responsible for submitting complete supporting data upon request to OPM or the lead agency, as appropriate, unless the agency determines that a category of its employees will not be covered by the proposed special rate schedule, as provided in § 530.303(c).

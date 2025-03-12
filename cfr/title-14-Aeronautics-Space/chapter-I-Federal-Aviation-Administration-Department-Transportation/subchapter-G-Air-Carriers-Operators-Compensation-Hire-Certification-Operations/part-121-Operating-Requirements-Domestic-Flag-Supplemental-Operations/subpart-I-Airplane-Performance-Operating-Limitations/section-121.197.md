@@ -1,0 +1,5 @@
+##### § 121.197 Airplanes: Turbine engine powered: Landing limitations: Alternate airports. #####
+
+No person may list an airport as an alternate airport in a dispatch or flight release for a turbine engine powered airplane unless (based on the assumptions in § 121.195 (b)) that airplane at the weight anticipated at the time of arrival can be brought to a full stop landing within 70 percent of the effective length of the runway for turbopropeller powered airplanes and 60 percent of the effective length of the runway for turbojet powered airplanes, from a point 50 feet above the intersection of the obstruction clearance plane and the runway. In the case of an alternate airport for departure, as provided in § 121.617, allowance may be made for fuel jettisoning in addition to normal consumption of fuel and oil when determining the weight anticipated at the time of arrival.
+
+[Doc. No. 6258, 29 FR 19198, Dec. 31, 1964, as amended by Amdt. 121-9, 30 FR 8572, July 7, 1965; Amdt. 121-179, 47 FR 33390, Aug. 2, 1982]

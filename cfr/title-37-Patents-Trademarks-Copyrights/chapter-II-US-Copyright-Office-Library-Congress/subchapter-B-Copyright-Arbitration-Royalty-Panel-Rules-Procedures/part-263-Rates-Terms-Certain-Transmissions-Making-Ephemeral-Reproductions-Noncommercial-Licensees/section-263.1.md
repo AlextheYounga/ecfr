@@ -1,0 +1,3 @@
+##### § 263.1 General. #####
+
+This part 263 establishes rates and terms of royalty payments for the public performance of sound recordings in certain digital transmissions by certain Noncommercial Licensees in accordance with the provisions of 17 U.S.C. 114, and the making of ephemeral recordings by certain Noncommercial Licensees in accordance with the provisions of 17 U.S.C. 112(e), during the period 2003-2004.

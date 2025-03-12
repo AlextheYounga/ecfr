@@ -1,0 +1,3 @@
+##### 436.571 Prohibition against the use of lead-based paint. #####
+
+The contracting officer shall insert the clause at 452.236-71, Prohibition Against the Use of Lead-Based Paint, in solicitations and contracts, if the work involves construction or rehabilitation (including dismantling, demolition, or removal) of residential structures. This clause may be used in contracts for other than residential structures.

@@ -1,0 +1,3 @@
+##### § 365.511 Requirement for CVSA inspection of vehicles during first three consecutive years of permanent operating authority. #####
+
+A Mexico-domiciled motor carrier granted permanent operating authority must have its vehicles inspected by Commercial Vehicle Safety Alliance (CVSA)-certified inspectors every three months and display a current inspection decal attesting to the successful completion of such an inspection for at least three consecutive years after receiving permanent operating authority from the FMCSA.

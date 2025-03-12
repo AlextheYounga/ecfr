@@ -1,0 +1,3 @@
+##### § 32.5040 Private line revenue. #####
+
+This account shall include revenue derived from local services that involve dedicated circuits, private switching arrangements, and/or predefined transmission paths, whether virtual or physical, which provide communications between specific locations (e.g., point-to-point communications. It includes revenue from subvoice grade, voice grade, audio and video program grade, digital transmission and local private network switching as well as the revenue from administrative and operational support services associated with private network services and facilities, e.g., charges for company-directed testing, expedited installation, and service restoration priority.

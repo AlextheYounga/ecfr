@@ -1,0 +1,3 @@
+##### § 8.645 What are the responsibilities of practitioners who do not submit a renewal Request for Patient Limit Increase, or whose renewal request is denied? #####
+
+Practitioners who are approved to treat up to 275 patients in accordance with § 8.625, but who do not renew their Request for Patient Limit Increase, or whose renewal request is denied, shall notify, under § 8.620(b)(7) in a time period specified by SAMHSA, all patients affected above the 100 patient limit, that the practitioner will no longer be able to provide MAT services using covered medications and make every effort to transfer patients to other addiction treatment.

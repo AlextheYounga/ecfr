@@ -1,0 +1,9 @@
+##### § 93.503 Grounds for granting a hearing request. #####
+
+(a) The ALJ must grant a respondent's hearing request if the ALJ determines there is a genuine dispute over facts material to the findings of research misconduct or proposed administrative actions, including any debarment or suspension action. The respondent's general denial or assertion of error for each finding of research misconduct, and any basis for the finding, or for the proposed HHS administrative actions in the charge letter, is not sufficient to establish a genuine dispute.
+
+(b) The hearing request must specifically deny each finding of research misconduct in the charge letter, each basis for the finding and each HHS administrative action in the charge letter, or it is considered an admission by the respondent. If the hearing request does not specifically dispute the HHS administrative actions, including any debarment or suspension actions, they are considered accepted by the respondent.
+
+(c) If the respondent does not request a hearing within the 30-day time period prescribed in § 93.501(a), the finding(s) and any administrative action(s), other than debarment or suspension actions, become final agency actions at the expiration of the 30-day period. Where there is a proposal for debarment or suspension, after the expiration of the 30-day time period the official record is closed and forwarded to the debarring official for a final decision.
+
+(d) If the ALJ grants the hearing request, the respondent may waive the opportunity for any in-person proceeding, and the ALJ may review and decide the case on the basis of the administrative record. The ALJ may grant a respondent's request that waiver of the in-person proceeding be conditioned upon the opportunity for respondent to file additional pleadings and documentation. ORI may also supplement the administrative record through pleadings, documents, in-person or telephonic testimony, and oral presentations.

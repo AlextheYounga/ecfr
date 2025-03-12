@@ -1,0 +1,5 @@
+##### § 27.5 Letter of certification. #####
+
+(a) Upon completion of investigation of a methane-monitoring system, or component or subassembly thereof, MSHA will issue to the applicant either a letter of certification or a written notice of disapproval, as the case may require If a letter of certification is issued, no test data or detailed results of tests will accompany it. If a notice of disapproval is issued, it will be accompanied by details of the defects, with a view to possible correction. MSHA will not disclose except to the applicant or his authorized representative, any information because of which a notice of disapproval has been issued.
+
+(b) A letter of certification will be accompanied by an appropriate cautionary statement specifying the conditions to be observed for operating and maintaining the device(s) and to preserve its certified status.

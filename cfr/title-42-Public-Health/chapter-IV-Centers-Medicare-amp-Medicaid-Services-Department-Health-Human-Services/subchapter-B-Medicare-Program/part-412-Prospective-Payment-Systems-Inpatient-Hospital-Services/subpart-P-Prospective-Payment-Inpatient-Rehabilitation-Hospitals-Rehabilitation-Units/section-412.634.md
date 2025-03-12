@@ -1,0 +1,71 @@
+##### § 412.634 Requirements under the Inpatient Rehabilitation Facility (IRF) Quality Reporting Program (QRP). #####
+
+(a) *Participation.* (1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the Certification and Survey Provider Enhanced Reports (CASPER) system.
+
+(2) [Reserved]
+
+(b) *Submission Requirements and Payment Impact.* (1) IRFs must submit to CMS data on measures specified under section 1886(j)(7)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, as applicable. Sections 1886(j)(7)(C) and (j)(7)(F)(iii) of the Act require each IRF to submit data on the specified measures in the form and manner, and at a time, specified by the Secretary.
+
+(2) As required by section 1886(j)(7)(A)(i) of the Act, any IRF that does not submit data in accordance with section 1886(j)(7)(C) and (F) of the Act for a given fiscal year will have its annual update to the standard Federal rate for discharges for the IRF during the fiscal year reduced by two percentage points.
+
+(c) *Exception and Extension Requirements.* (1) An IRF may request and CMS may grant exceptions or extensions to the quality data reporting requirements, for one or more quarters, when there are certain extraordinary circumstances beyond the control of the IRF.
+
+(2) An IRF must request an exception or extension within 90 days of the date that the extraordinary circumstances occurred.
+
+(3) Exception and extension requests must be submitted to CMS from the IRF by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information:
+
+(i) IRF CMS Certification Number (CCN).
+
+(ii) IRF Business Name.
+
+(iii) IRF Business Address.
+
+(iv) CEO or CEO-designated personnel contact information including name, telephone number, title, email address, and mailing address. (The address must be a physical address, not a post office box.)
+
+(v) IRF's reason for requesting the exception or extension.
+
+(vi) Evidence of the impact of extraordinary circumstances, including, but not limited to, photographs, newspaper, and other media articles.
+
+(vii) Date when the IRF believes it will be able to again submit IRF QRP data and a justification for the proposed date.
+
+(4) CMS may grant exceptions or extensions to IRFs without a request if it is determined that one or more of the following has occurred:
+
+(i) An extraordinary circumstance affects an entire region or locale.
+
+(ii) A systemic problem with one of CMS's data collection systems directly affected the ability of an IRF to submit data.
+
+(5) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
+
+(d) *Reconsideration.* (1) IRFs found to be non-compliant with the quality reporting requirements for a particular fiscal year will receive a letter of non-compliance through the Quality Improvement and Evaluation System Assessment Submission and Processing (QIES-ASAP) system, as well as through the United States Postal Service. IRFs must submit reconsideration requests no later than 30 calendar days after the date identified on the letter of non-compliance.
+
+(2) Reconsideration requests must be submitted to CMS by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information:
+
+(i) IRF CCN.
+
+(ii) IRF Business Name.
+
+(iii) IRF Business Address.
+
+(iv) CEO or CEO-designated personnel contact information including name, telephone number, title, email address, and mailing address. (The address must be a physical address, not a post office box.)
+
+(v) CMS identified reason(s) for non-compliance from the non-compliance letter.
+
+(vi) Reason(s) for requesting reconsideration.
+
+(3) The request for reconsideration must be accompanied by supporting documentation demonstrating compliance. This documentation must be submitted electronically as an attachment to the reconsideration request email. Any request for reconsideration that does not contain sufficient evidence of compliance with the IRF QRP requirements will be denied.
+
+(4) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
+
+(5) The QIES-ASAP system and the United States Postal Service will be the two mechanisms used to distribute each IRF's compliance letter, as well as our final decision regarding any reconsideration request received from the IRF.
+
+(e) *Appeals.* (1) An IRF may appeal the decision made by CMS on its reconsideration request by filing with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
+
+(2) [Reserved]
+
+(f) *Data Completion Thresholds.* (1) IRFs must meet or exceed two separate data completeness thresholds: One threshold set at 95 percent for completion of quality measures data collected using the IRF-PAI submitted through the QIES and a second threshold set at 100 percent for quality measures data collected and submitted using the CDC NHSN.
+
+(2) These thresholds will apply to all measures adopted into IRF QRP.
+
+(3) An IRF must meet or exceed both thresholds to avoid receiving a 2 percentage point reduction to their annual payment update for a given fiscal year, beginning with FY 2016 and for all subsequent payment updates.
+
+[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016]

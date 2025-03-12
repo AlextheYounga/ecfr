@@ -1,0 +1,7 @@
+##### § 202.20 Standards for highway operations. #####
+
+(a) No motor carrier subject to these regulations shall operate any motor vehicle of a type to which this regulation is applicable which at any time or under any condition of highway grade, load, acceleration or deceleration generates a sound level in excess of 86dB(A) measured on an open site with fast meter response at 50 feet from the centerline of lane of travel on highways with speed limits of 35 MPH or less; or 90 dB(A) measured on an open site with fast meter response at 50 feet from the centerline of lane of travel on highways with speed limits of more than 35 MPH.
+
+(b) No motor carrier subject to these regulations shall operate any motor vehicle of a type to which this regulation is applicable which at any time or under any condition of highway grade, load, acceleration or deceleration generates a sound level in excess of 83 dB(A) measured on an open site with fast meter response at 50 feet from the centerline of lane of travel on highways with speed limits of 35 MPH or less; or 87 dB(A) measured on an open site with fast meter response at 50 feet from the centerline of lane of travel on highways with speed limits of more than 35 MPH.
+
+[39 FR 38215, Oct. 29, 1974, as amended at 51 FR 852, Jan. 8, 1986]

@@ -1,0 +1,7 @@
+##### 1403.101-3 Agency regulations. #####
+
+(a) Policy. DOI regulations governing the conduct and responsibilities of regular and special employees are contained in 43 CFR part 20. Additional guidance is contained in the DOI publication “Ethics Guide for Department of the Interior Employees.” Copies of the Guide can be obtained from the Bureau/Office Ethics Office or on the Internet at *http://www.doi.gov/ethics/.* With regard to the provisions of 43 CFR part 20, officials who participate personally and substantially in DOI procurements (as defined in FAR 3.104-3), may not solicit or accept any gift, gratuity, favor, entertainment, loan or anything of monetary value from a competing contractor during the conduct of a procurement.
+
+(b)(1) Officials may not accept or solicit from any competing contractor any services that involve the development of specifications, statements of work, evaluation criteria, or formal cost estimates to be used in a procurement unless such services are formally contracted for pursuant to the FAR and DIAR, and until the organizational COI provisions in FAR Subpart 9.5 have been fully addressed. This does not preclude COs from issuing formal Requests for Comment (RFC) or draft RFPs.
+
+(2) IT resources shall not be accepted, installed or utilized by the Department on a no cost, free of charge basis (this includes donated equipment but not public domain software), except as permitted by law.

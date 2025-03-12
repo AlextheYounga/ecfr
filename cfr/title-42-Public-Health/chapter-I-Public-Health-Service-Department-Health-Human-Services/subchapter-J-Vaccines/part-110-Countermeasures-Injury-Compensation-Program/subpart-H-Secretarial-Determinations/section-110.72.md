@@ -1,0 +1,7 @@
+##### § 110.72 Sufficient documentation for eligibility and benefits determinations. #####
+
+(a) *Eligibility determinations.* When the Secretary determines that there is sufficient documentation in the Request Package to evaluate a requester's eligibility, she will begin the review to determine whether the requester is eligible for Program benefits. If the Secretary determines that the requester is not eligible, the Secretary will inform the requester (or his or her representative) in writing of the disapproval, and the right to reconsideration of the determination, as described in subpart J.
+
+(b) *Benefits determinations.* If the Secretary determines that the requester is eligible for benefits, she will, after receiving adequate documentation from the requester for a benefits determination, either calculate the amount and types of benefits, as described in subpart I of this part, or request additional documentation in order to calculate the benefits that can be paid (*e.g.,* an Explanation of Benefits from the requester's health insurance company, if none was submitted). As provided in subpart J, requesters have the right to reconsideration of the Secretary's determination of the category and amount of benefits payable under the Program.
+
+(c) *Additional documentation required.* At any time after a Request Form has been filed, the Secretary may ask a requester to supplement or amend the Request Package by providing additional information or documentation.

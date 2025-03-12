@@ -1,0 +1,5 @@
+##### § 1252.100 What is the purpose of NASA's age discrimination regulations? #####
+
+The purpose of these regulations is to set out NASA's policies and to implement agencywide or agency procedures under the Age Discrimination Act of 1975 according to the government-wide age discrimination regulations at 45 CFR part 90. (Published at 44 FR 33768, June 12, 1979.) The Act and the government-wide regulations prohibit discrimination on the basis of age in programs or activities receiving Federal financial assistance. The Act and the governmentwide regulations permit federally assisted programs or activities and recipients of Federal funds, to continue to use age distinctions and factors other than age which meet the requirements of the Act and the governmentwide regulations.
+
+[50 FR 13311, Apr. 4, 1985, as amended at 68 FR 51352, Aug. 26, 2003]

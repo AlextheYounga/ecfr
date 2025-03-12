@@ -1,0 +1,3 @@
+##### § 1.801 Biological material. #####
+
+For the purposes of these regulations pertaining to the deposit of biological material for purposes of patents for inventions under 35 U.S.C. 101, the term biological material shall include material that is capable of self-replication either directly or indirectly. Representative examples include bacteria, fungi including yeast, algae, protozoa, eukaryotic cells, cell lines, hybridomas, plasmids, viruses, plant tissue cells, lichens and seeds. Viruses, vectors, cell organelles and other non-living material existing in and reproducible from a living cell may be deposited by deposit of the host cell capable of reproducing the non-living material.

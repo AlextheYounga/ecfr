@@ -1,0 +1,7 @@
+##### § 1204.401 Policy. #####
+
+(a) It is NASA's policy to enable small businesses (including small disadvantaged businesses, small women-owned businesses, HUBZone small businesses, veteran-owned small businesses and service disabled veteran-owned small businesses), historically black colleges and universities, and other minority educational institutions the opportunity to participate equitably and proportionately in its total purchases and contracts that are consistent with the Agency's needs to execute its mission.
+
+(b) In carrying out the NASA procurement program, the primary consideration shall be that of securing contract performance, including obtaining deliveries of required items or services at the time, in the quantity and of the quality prescribed. In the area of research and development (R&D) contracts, the general policy of NASA is to award such contracts to those organizations determined by responsible personnel to have a high degree of competence in the specific branch of science or technology required for the successful conduct of the work. It is in the interest of the civilian space program that the number of firms engaged inR&D, work for NASA be expanded and that there be an increase in the extent of participation in such work by competent small business firms.
+
+[58 FR 43554, Aug. 17, 1993, as amended at 78 FR 77353, Dec. 23, 2013]

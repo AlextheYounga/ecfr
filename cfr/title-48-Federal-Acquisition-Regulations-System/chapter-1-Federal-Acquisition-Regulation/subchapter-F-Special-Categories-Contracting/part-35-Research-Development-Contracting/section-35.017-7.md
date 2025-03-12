@@ -1,0 +1,5 @@
+##### 35.017-7 Limitation on the creation of new FFRDC's. #####
+
+Pursuant to 10 U.S.C. 2367, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration may not obligate or expend amounts appropriated to the Department of Defense for purposes of operating an FFRDC that was not in existence before June 2, 1986, until (a) the head of the agency submits to Congress a report with respect to such center that describes the purpose, mission, and general scope of effort of the center; and (b) a period of 60 days, beginning on the date such report is received by Congress, has elapsed.
+
+[55 FR 3886, Feb. 5, 1990, as amended at 80 FR 53439, Sept. 3, 2015]

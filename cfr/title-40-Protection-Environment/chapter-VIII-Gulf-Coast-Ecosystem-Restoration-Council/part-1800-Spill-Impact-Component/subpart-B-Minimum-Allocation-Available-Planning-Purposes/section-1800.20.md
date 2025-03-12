@@ -1,0 +1,3 @@
+##### § 1800.20 Minimum allocation available for planning purposes. #####
+
+A Gulf Coast State or its administrative agent, or the Gulf Consortium, may apply to the Council for a grant to use the minimum allocation available under the Spill Impact Component of the RESTORE Act for planning purposes. These planning purposes are limited to development of a State Expenditure Plan, and includes conceptual design and feasibility studies related to specific projects. It does not include engineering and environmental studies related to specific projects. It also does not include any pre-award costs incurred prior to August 22, 2014.

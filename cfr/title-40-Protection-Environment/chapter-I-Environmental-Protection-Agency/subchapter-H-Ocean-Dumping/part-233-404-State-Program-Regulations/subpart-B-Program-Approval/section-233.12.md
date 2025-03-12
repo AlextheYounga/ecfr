@@ -1,0 +1,9 @@
+##### § 233.12 Attorney General's statement. #####
+
+(a) Any State that seeks to administer a program under this part shall submit a statement from the State Attorney General (or the attorney for those State or interstate agencies which have independence legal counsel), that the laws and regulations of the State, or an interstate compact, provide adequate authority to carry out the program and meet the applicable requirements of this part. This statement shall cite specific statutes and administrative regulations which are lawfully adopted at the time the statement is signed and which shall be fully effective by the time the program is approved, and, where appropriate, judicial decisions which demonstrate adequate authority. The attorney signing the statement required by this section must have authority to represent the State agency in court on all matters pertaining to the State program.
+
+(b) If a State seeks approval of a program covering activities on Indian lands, the statement shall contain an analysis of the State's authority over such activities.
+
+(c) The State Attorney General's statement shall contain a legal analysis of the effect of State law regarding the prohibition on taking private property without just compensation on the successful implementation of the State's program.
+
+(d) In those States where more than one agency has responsibility for administering the State program, the statement must include certification that each agency has full authority to administer the program within its category of jurisdiction and that the State, as a whole, has full authority to administer a complete State section 404 program.

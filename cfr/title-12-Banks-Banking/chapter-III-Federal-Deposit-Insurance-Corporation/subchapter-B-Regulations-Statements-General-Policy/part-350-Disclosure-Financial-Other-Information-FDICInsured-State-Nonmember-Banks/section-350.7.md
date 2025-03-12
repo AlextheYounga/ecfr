@@ -1,0 +1,5 @@
+##### § 350.7 Notice and availability. #####
+
+(a) *Shareholders.* If the bank provides written notice of the annual meeting of shareholders, the bank shall include with, or as part of, that notice an announcement that the bank's annual disclosure statement will be sent to the shareholder either automatically or upon request. For disclosure statements available on request, the announcement shall indicate at a minimum an address and telephone number to which requests may be directed. The first copy of the annual disclosure statement shall be provided to a shareholder without charge.
+
+(b) *Customers and the general public.* In the lobby of its main office and each branch, the bank shall at all times display a notice that the annual disclosure statement may be obtained from the bank. The notice shall include at a minimum an address and telephone number of which requests should be directed. The first copy of the annual disclosure statement shall be provided to a requester free of charge.

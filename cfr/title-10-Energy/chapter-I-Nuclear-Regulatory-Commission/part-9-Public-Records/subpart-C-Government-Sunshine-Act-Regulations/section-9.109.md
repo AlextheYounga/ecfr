@@ -1,0 +1,3 @@
+##### § 9.109 Report to Congress. #####
+
+The Secretary shall annually report to the Congress regarding the Commission's compliance with the Government in the Sunshine Act, including a tabulation of the total number of open meetings, the total number of closed meetings, the reasons for closing such meetings and a description of any litigation brought against the Commission pursuant to the Government in the Sunshine Act, including any cost assessed against the Commission in such litigation (whether or not paid by the Commission).

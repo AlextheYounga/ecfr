@@ -1,0 +1,3 @@
+##### § 509.30 Partial summary disposition. #####
+
+If the administrative law judge determines that a party is entitled to summary disposition as to certain claims only, he or she shall defer submitting a recommended decision as to those claims. A hearing on the remaining issues must be ordered. Those claims for which the administrative law judge has determined that summary disposition is warranted will be addressed in the recommended decision filed at the conclusion of the hearing.

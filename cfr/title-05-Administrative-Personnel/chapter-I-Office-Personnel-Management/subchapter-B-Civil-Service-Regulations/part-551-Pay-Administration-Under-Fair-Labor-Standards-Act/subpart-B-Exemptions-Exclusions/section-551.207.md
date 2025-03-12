@@ -1,0 +1,3 @@
+##### § 551.207 Professional exemption criteria. #####
+
+To qualify for the professional exemption, an employee's primary duty must be the performance of work requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction or requiring invention, imagination, originality or talent in a recognized field of artistic or creative endeavor. Learned professionals, creative professionals, and computer employees are described in §§ 551.208, 551.209, and 551.210, respectively.

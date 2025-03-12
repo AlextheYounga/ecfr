@@ -1,0 +1,3 @@
+##### § 9401.113 Waivers. #####
+
+The DAEO may grant a written waiver from any provision of this part where the DAEO finds good cause to do so; provided, however, that the DAEO will not do so unless the DAEO finds that the waiver is not inconsistent with the OGE Standards or otherwise prohibited by law and that, under the particular circumstances, application of the provision being waived is not necessary in order to avoid a violation of an ethics rule. Each waiver must be in writing and supported by a statement of facts and findings and may impose appropriate conditions, such as requiring the employee to execute a written disqualification statement.

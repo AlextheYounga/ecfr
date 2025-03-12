@@ -1,0 +1,3 @@
+##### § 1017.13 Report concerning determinations. #####
+
+The Office of Classification or successor office shall issue a report by the end of each quarter that identifies any new information that has been determined for the first time to be UCNI during the previous quarter, explains how each such determination meets the criteria in § 1017.7, and explains why each such determination protects from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security. A copy of the report may be obtained by writing to the Office of Classification, Office of Health, Safety and Security, U.S. Department of Energy, 1000 Independence Ave., SW., Washington, DC 20585-1290.

@@ -1,0 +1,7 @@
+##### § 211.15 Notice and participation. #####
+
+(a) Except as provided in paragraph (c) of this section, or when the Administrator finds for good cause that notice is impractical, unnecessary, or contrary to the public interest (and incorporates the findings and a brief statement of the reasons therefore in the rules issued), an advance notice or notice of proposed rulemaking is published in the Federal Register and interested persons are invited to participate in the rulemaking proceedings with respect to each substantive rule.
+
+(b) Unless the Administrator determines that notice and public rulemaking proceedings are necessary or desirable, interpretive rules, general statements of policy, and rules relating to organization, procedure, or practice, including those relating to agency management or personnel, are prescribed as final without notice or other public rulemaking proceedings.
+
+(c) An advance notice or notice of proposed rulemaking is issued and interested persons are invited to participate in rulemaking proceedings with respect only to those procedural and substantive rules of general applicability relating to public property, loans, grants, benefits, or contracts which the Administrator has determined to be of substantial public interest.

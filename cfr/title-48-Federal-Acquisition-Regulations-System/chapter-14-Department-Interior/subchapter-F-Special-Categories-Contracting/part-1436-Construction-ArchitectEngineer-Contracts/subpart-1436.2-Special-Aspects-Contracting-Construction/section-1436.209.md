@@ -1,0 +1,3 @@
+##### 1436.209 Construction contracts with architect-engineer firms. #####
+
+Approval to award a contract for construction to a firm or its subsidiaries that designed the project shall be made by the HCA only after discussion with Director, PAM, and with legal concurrence. The request for approval prepared by the CO shall include the reason(s) why award to the design firm is required; an analysis of the facts involving potential or actual organizational conflicts of interest, including benefits and detriments to the Government and the prospective contractor; and the measures which are to be taken to avoid, neutralize or mitigate conflicts of interest. A copy of the documentation shall be forwarded to PAM at the time of consultation.

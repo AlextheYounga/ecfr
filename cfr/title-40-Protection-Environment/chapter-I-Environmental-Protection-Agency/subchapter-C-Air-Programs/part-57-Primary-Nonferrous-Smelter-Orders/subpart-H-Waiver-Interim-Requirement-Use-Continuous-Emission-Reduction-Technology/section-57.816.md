@@ -1,0 +1,3 @@
+##### § 57.816 Effect of negative recommendation. #####
+
+No waiver of the interim requirement for the use of constant controls shall be granted by the Administrator or a State unless the Administrator or a State first takes into account the Administrator's report, findings, and recommendations as to whether the use of constant controls would be so costly as to necessitate permanent or prolonged temporary cessations of operation of the smelter.

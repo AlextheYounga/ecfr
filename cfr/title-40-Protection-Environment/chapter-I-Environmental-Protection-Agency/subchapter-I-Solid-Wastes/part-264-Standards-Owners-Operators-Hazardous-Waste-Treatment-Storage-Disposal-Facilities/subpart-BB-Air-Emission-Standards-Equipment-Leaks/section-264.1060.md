@@ -1,0 +1,13 @@
+##### § 264.1060 Standards: Closed-vent systems and control devices. #####
+
+(a) Owners and operators of closed-vent systems and control devices subject to this subpart shall comply with the provisions of § 264.1033 of this part.
+
+(b)(1) The owner or operator of an existing facility who cannot install a closed-vent system and control device to comply with the provisions of this subpart on the effective date that the facility becomes subject to the provisions of this subpart must prepare an implementation schedule that includes dates by which the closed-vent system and control device will be installed and in operation. The controls must be installed as soon as possible, but the implementation schedule may allow up to 30 months after the effective date that the facility becomes subject to this subpart for installation and startup.
+
+(2) Any unit that begins operation after December 21, 1990, and is subject to the provisions of this subpart when operation begins, must comply with the rules immediately (i.e., must have control devices installed and operating on startup of the affected unit); the 30-month implementation schedule does not apply.
+
+(3) The owner or operator of any facility in existence on the effective date of a statutory or EPA regulatory amendment that renders the facility subject to this subpart shall comply with all requirements of this subpart as soon as practicable but no later than 30 months after the amendment's effective date. When control equipment required by this subpart can not be installed and begin operation by the effective date of the amendment, the facility owner or operator shall prepare an implementation schedule that includes the following information: Specific calendar dates for award or contracts or issuance of purchase orders for the control equipment, initiation of on-site installation of the control equipment, completion of the control equipment installation, and performance of any testing to demonstrate that the installed equipment meets the applicable standards of this subpart. The owner or operator shall enter the implementation schedule in the operating record or in a permanent, readily available file located at the facility.
+
+(4) Owners and operators of facilities and units that become newly subject to the requirements of this subpart after December 8, 1997, due to an action other than those described in paragraph (b)(3) of this section must comply with all applicable requirements immediately (i.e., must have control devices installed and operating on the date the facility or unit becomes subject to this subpart; the 30-month implementation schedule does not apply).
+
+[62 FR 64657, Dec. 8, 1997]

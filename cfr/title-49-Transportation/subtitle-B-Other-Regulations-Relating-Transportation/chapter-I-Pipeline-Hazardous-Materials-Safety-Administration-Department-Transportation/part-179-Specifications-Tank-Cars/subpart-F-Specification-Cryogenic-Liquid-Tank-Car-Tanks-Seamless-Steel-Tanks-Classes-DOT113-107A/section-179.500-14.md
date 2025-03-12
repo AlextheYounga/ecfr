@@ -1,0 +1,5 @@
+##### § 179.500-14 Test of tanks. #####
+
+(a) After heat-treatment, tanks shall be subjected to hydrostatic tests in a water jacket, or by other accurate method, operated so as to obtain reliable data. No tank shall have been subjected previously to internal pressure greater than 90 percent of the marked test pressure. Each tank shall be tested to a pressure at least equal to the marked test pressure of the tank. Pressure shall be maintained for 30 seconds, and sufficiently longer to insure complete expansion of tank. Pressure gauge shall permit reading to accuracy of one percent. Expansion gauge shall permit reading of total expansion to accuracy of one percent. Expansion shall be recorded in cubic cm.
+
+(b) No leaks shall appear and permanent volumetric expansion shall not exceed 10 percent of the total volumetric expansion at test pressure.

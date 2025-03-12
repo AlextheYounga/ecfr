@@ -1,0 +1,7 @@
+##### § 52.1341 Control strategy: Particulate. #####
+
+(a) *Determination of attainment.* EPA has determined, as of May 23, 2011, that the St. Louis (MO-IL) metropolitan 1997 PM2.5 nonattainment area has attained the 1997 PM2.5 NAAQS. This determination, in accordance with 40 CFR 51.1004(c), suspends the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, reasonable further progress, contingency measures, and other plan elements related to attainment of the standards for as long as the area continues to meet the 1997 PM2.5 NAAQS. In addition, based upon EPA's review of the air quality data for the three-year period 2007 to 2009, the St. Louis (MO-IL) PM2.5 nonattainment area has attained the 1997 PM2.5 NAAQS by the applicable attainment date of April 5, 2010.
+
+(b) *Redesignation to attainment.* On September 1, 2011, and on March 31, 2014 and on September 17, 2014, Missouri submitted requests to redesignate the Missouri portion of the St. Louis MO-IL area to attainment of the 1997 Annual PM2.5 standard. The Missouri portion of the St. Louis MO-IL area includes Jefferson, Franklin, St. Charles, and St. Louis Counties along with the City of St. Louis. As part of the redesignation request, the State submitted a plan for maintaining the 1997 Annual PM2.5 standard through 2025 in the area as required by section 175A of the Clean Air Act.
+
+[83 FR 38035, Aug. 3, 2018]

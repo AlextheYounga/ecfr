@@ -1,0 +1,11 @@
+##### § 710.32 Terminations. #####
+
+(a) If the individual is no longer an applicant for access authorization or no longer requires access authorization, the procedures of this part shall be terminated without a final decision as to the individual's access authorization eligibility, unless a final decision has been rendered prior to the DOE being notified of the change in the individual's pending access authorization status. Where the procedures of this part have been terminated pursuant to this paragraph after an unfavorable initial agency decision as to the individual's access authorization eligibility has been rendered, any subsequent request for access authorization for the individual will be processed as a request for a review of the initial agency decision by the Appeal Panel and a final agency decision will be rendered pursuant to § 710.29, unless a minimum of one year has elapsed since the date of the initial agency decision.
+
+(b) With regard to applicants (individuals for whom DOE has not yet approved access authorization), DOE may administratively terminate processing an application for access authorization under the following circumstances:
+
+(1) If the applicant is currently the subject of criminal proceedings for a felony offense or an offense that is punishable by a term of imprisonment of one year or longer, or is awaiting or serving a form of probation, suspended or deferred sentencing, or parole. Once all judicial proceedings on the criminal charges have been finally resolved, and the term (if any) of imprisonment, probation, or parole has been completed, DOE processing of a request for access authorization shall resume upon receipt by DOE of a written request therefor, provided that the individual has a bona fide offer of employment requiring access authorization.
+
+(2) If sufficient information about the individual's background cannot be obtained to meet the investigative scope and extent requirements for the access authorization requested.
+
+(c) If an individual believes that the provisions of paragraph (b) of this section have been inappropriately applied, a written appeal may be filed with the Director within 30 calendar days of the date the individual was notified of the action. The Director shall act on the written appeal as described in § 710.6(c).

@@ -1,0 +1,15 @@
+##### § 1050.302 Use or disposal of gifts and decorations accepted on behalf of the United States. #####
+
+(a) The Directorate of Administration shall accept and maintain custody of all tangible gifts and decorations accepted by employees on behalf of the United States pending their final disposition.
+
+(b) Whenever possible, the gift or decoration shall be returned to the original donor. The Directorate of Administration shall examine the circumstances surrounding its donation, and, in consultation with the Assistant Secretary for International Affairs, assess whether any adverse effect upon the United States foreign relations might result from return of the gift or decoration to the donor. The appropriate officials of the Department of State shall be consulted if the question of an adverse effect arises.
+
+(c) The Directorate of Administration may determine that the gift or decoration may be retained for the official use of the Department, if it can be properly displayed in an area at Headquarters or at a field facility accessible to employees or members of the public or if it is otherwise usable in carrying out the mission of the Department. The Assistant Secretary for International Affairs shall be consulted to determine whether failure to accept the gift or decoration for the official use of the Department will have an adverse effect on the foreign relations of the United States. In no case shall a gift or decoration be accepted for the official use of the Department when the enjoyment and beneficial use of the gift will accrue primarily to the benefit of the donee or any other individual employee. Gifts or decorations that are retained for the official use of the Department shall be handled in accordance with the provisions of paragraph (d) of this section when their official use is ended.
+
+(d) If a gift or decoration is not retained for official use of the Department, or if its official use has ended, the Directorate of Administration shall, within 30 days after its deposit or after its official use has ended—
+
+(1) Report the gift or decoration to the General Services Administration (GSA) for transfer, donation, or other disposal in accordance with the provisions of the Federal Property and Administrative Services Act of 1949 and the Federal Property Management Regulations at 41 CFR part 101-49, or
+
+(2) If the gift or decoration is in cash, currency, or monies (except those with possible historic or numismatic value), or is a noncash monetary gift such as a check, money order, bonds, shares of stock, or other negotiable instrument, forward it to the Finance and Accounting Office for deposit with the Department of the Treasury.
+
+(e) The Directorate of Administration shall retain custody of gifts and decorations not returned to the donor or retained for the official use of the Department until GSA directs it concerning their disposition. At the request of GSA, the Directorate of Administration shall arrange for appraisal of specific gifts and decorations.

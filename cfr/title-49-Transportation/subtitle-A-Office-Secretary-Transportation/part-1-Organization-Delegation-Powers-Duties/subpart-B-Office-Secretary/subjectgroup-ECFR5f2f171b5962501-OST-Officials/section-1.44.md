@@ -1,0 +1,3 @@
+##### § 1.44 Office of Intelligence, Security and Emergency Response. #####
+
+The Director of the Office of Intelligence, Security and Emergency Response is responsible for the development, coordination, and execution of plans and procedures for the Department to balance transportation security requirements with the safety, mobility and economic needs of the Nation through effective intelligence, security, preparedness and emergency response programs. The Director is the Department's principal Emergency Coordinator for the implementation of these programs.

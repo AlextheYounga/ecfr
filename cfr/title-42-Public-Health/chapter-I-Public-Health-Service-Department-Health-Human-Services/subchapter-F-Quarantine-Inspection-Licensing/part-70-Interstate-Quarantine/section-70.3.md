@@ -1,0 +1,3 @@
+##### § 70.3 All communicable diseases. #####
+
+A person who has a communicable disease in the communicable period shall not travel from one State or possession to another without a permit from the health officer of the State, possession, or locality of destination, if such permit is required under the law applicable to the place of destination. Stop-overs other than those necessary for transportation connections shall be considered as places of destination.

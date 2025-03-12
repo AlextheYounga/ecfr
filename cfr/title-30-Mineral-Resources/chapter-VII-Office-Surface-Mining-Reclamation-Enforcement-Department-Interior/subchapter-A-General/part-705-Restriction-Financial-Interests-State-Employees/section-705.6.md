@@ -1,0 +1,5 @@
+##### § 705.6 Penalties. #####
+
+(a) Criminal penalties are imposed by section 517(g) of the Surface Mining Control and Reclamation Act of 1977, Pub. L. 95-87. Section 517(g) prohibits each employee of the State Regulatory Authority who performs any function or duty under the Act from having a direct or indirect financial interest in any underground or surface coal mining operation. The Act provides that whoever knowingly violates the provisions of section 517(g) shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment of not more than one year, or by both.
+
+(b) Regulatory penalties are imposed by this part. The provisions in section 517(g) of the Act make compliance with the financial interest requirements a condition of employment for employees of the State Regulatory Authority who perform any functions or duties under the Act. Accordingly, an employee who fails to file the required statement will be considered in violation of the intended employment provisions of section 517(g) and will be subject to removal from his or her position.

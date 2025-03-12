@@ -1,0 +1,11 @@
+##### § 169.3 Inspection. #####
+
+(a) *Producers.* Any producer of any pesticide, device, or active ingredient used in producing a pesticide which is subject to this Act shall, upon request of any officer or employee of the Agency or of any State or political subdivision, duly designated by the Administrator, furnish or permit such person at all reasonable times to have access to and to copy all records required to be maintained by this part, including records in the possession of an independent testing facility or laboratory which performed tests on behalf of the producer. Such inspection will be conducted in accordance with procedures detailed in section 8(b) of the Act.
+
+(b) Distributors, carriers, dealers, etc. Any distributor, carrier, dealer, or any other person who sells or offers for sale, delivers or offers for delivery any pesticide, device, or active ingredient used in producing a pesticide which is subject to this Act, shall, upon request of any officer or employee of the Agency or of any State or political subdivision, duly designated by the Administrator, furnish or permit such person at all reasonable times to have access to and copy all records showing the delivery or holding of such pesticide, device, or active ingredient used in producing a pesticide, including the quantity, the date of shipment and receipt, and the name and address of the consignor and consignee, and any guarantee received pursuant to section 12(b)(1) of the Act.
+
+(c) *Confidentiality.* Any record which is subject to the regulations under this part, and which may be confidential, shall be treated in accordance with the provisions of section 10 of the Act. The availability to the public of information provided to, or otherwise obtained by, the Administrator under this part shall be governed by part 2 of this chapter.
+
+(d) *Inability.* (1) In the event of the inability of any person to produce records containing the information required to be maintained, furnished for inspection, or given access to, all other records and information regarding the same shall be provided.
+
+(2) Where no such inability exists and any such person fails to give access to and permit copying of such records as required, such failure shall be deemed a refusal to keep records required or a refusal to allow the inspection of any such records or both.

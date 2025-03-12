@@ -1,0 +1,9 @@
+##### § 837.803 Cancellation of retirement by judicial or administrative authority. #####
+
+(a) *Cancellation of retirement action.* A separation from employment on which an application for retirement is based may only be canceled by the former employing agency in response to a direct and final order of a judicial or administrative body charged with the responsibility of reviewing the legality of the separation, and authorized to make such order, or by agreement between the annuitant and the former employing agency in resolution of a grievance, complaint, dispute, appeal or other action, involving an allegedly erroneous separation, before such authority.
+
+(b) *Agency notification to OPM.* Upon receiving a final order requiring cancellation of the annuitant's separation or after the annuitant and the agency agree to cancel the separation, the employing agency must notify OPM and request the amount of the erroneous payment to be recovered under § 550.805(e) of this chapter from any back pay adjustment to which the employee may be entitled.
+
+(c) *Collection of erroneously paid retirement benefits.* (1) If OPM determines that an overpayment of annuity or lump-sum credit has occurred and the employee is entitled to receive back pay because of the canceled separation, the overpaid retirement benefits must be deducted to the extent they can be recovered from the back pay adjustment as required by § 550,805(e) of this chapter.
+
+(2) Amounts recovered from back pay will not be subject to waiver consideration under the provisions of 5 U.S.C. 8346(b) or 8470(b). If there is no back pay or the back pay is insufficient to recover the entire payment, the employee may request that OPM waive the uncollected portion of the overpayment. If waiver is not granted, the employee must repay the erroneous payment.

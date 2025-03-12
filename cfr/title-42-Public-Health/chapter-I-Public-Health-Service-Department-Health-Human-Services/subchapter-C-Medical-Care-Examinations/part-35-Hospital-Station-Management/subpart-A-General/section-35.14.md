@@ -1,0 +1,3 @@
+##### § 35.14 Solicitation of legal business; negotiation of release or settlement; assistance prohibited. #####
+
+All employees of the Service and all persons attached in any capacity to a station or hospital, including patients, are forbidden to communicate, directly or indirectly, with any person for the purpose of aiding in the solicitation of legal business or in the negotiation of a settlement or the obtaining of a general or special release or statement from any patient with reference to any illness or personal injury for which the patient is receiving care or treatment therein. No patient is prohibited by this section from communicating on his own behalf with an attorney of his choice or with other persons.

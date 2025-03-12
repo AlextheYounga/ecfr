@@ -1,0 +1,15 @@
+##### § 493.638 Certificate fees. #####
+
+(a) *Basic rule.* Laboratories must pay a fee for the issuance of a registration certificate, certificate for PPM procedures, certificate of waiver, certificate of accreditation, or a certificate of compliance, as applicable. Laboratories must also pay a fee to reapply for a certificate for PPM procedures, certificate of waiver, certificate of accreditation, or a certificate of compliance. The total of fees collected by HHS under the laboratory program must be sufficient to cover the general costs of administering the laboratory certification program under section 353 of the PHS Act.
+
+(1) For registration certificates and certificates of compliance, the costs include issuing the certificates, collecting the fees, evaluating and monitoring proficiency testing programs, evaluating which procedures, tests or examinations meet the criteria for inclusion in the appropriate complexity category, and implementing section 353 of the PHS Act.
+
+(2) For a certificate of waiver, the costs include issuing the certificate, collecting the fees, determining if a certificate of waiver should be issued, evaluating which tests qualify for inclusion in the waived category, and other direct administrative costs.
+
+(3) For a certificate for PPM procedures, the costs include issuing the certificate, collecting the fees, determining if a certificate for PPM procedures should be issued, evaluating which procedures meet the criteria for inclusion in the subcategory of PPM procedures, and other direct administrative costs.
+
+(4) For a certificate of accreditation, the costs include issuing the certificate, collecting the fees, evaluating the programs of accrediting bodies, and other direct administrative costs.
+
+(b) *Fee amount.* The fee amount is set annually by HHS on a calendar year basis and is based on the category of test complexity, or on the category of test complexity and schedules or ranges of annual laboratory test volume (excluding waived tests and tests performed for quality control, quality assurance, and proficiency testing purposes) and specialties tested, with the amounts of the fees in each schedule being a function of the costs for all aspects of general administration of CLIA as set forth in § 493.649 (b) and (c). This fee is assessed and payable at least biennially. The methodology used to determine the amount of the fee is found in § 493.649. The amount of the fee applicable to the issuance of the registration certificate or the issuance or renewal of the certificate for PPM procedures, certificate of waiver, certificate of accreditation, or certificate of compliance is the amount in effect at the time the application is received. Upon receipt of an application for a certificate, HHS or its designee notifies the laboratory of the amount of the required fee for the requested certificate.
+
+[60 FR 20047, Apr. 24, 1995]

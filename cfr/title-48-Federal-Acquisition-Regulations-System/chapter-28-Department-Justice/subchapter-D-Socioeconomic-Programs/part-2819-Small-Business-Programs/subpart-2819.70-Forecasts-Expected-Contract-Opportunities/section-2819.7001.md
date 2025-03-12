@@ -1,0 +1,3 @@
+##### 2819.7001 General. #####
+
+Section 501 of Public Law 100-656, the Business Opportunity Development Reform Act of 1988, requires executive agencies having contract actions in excess of $50 million in Fiscal Year 1988 or later to prepare an annual forecast of expected contract opportunities, or classes of contract opportunities that small business concerns, including those owned and controlled by socially and economically disadvantaged individuals, are capable of performing.

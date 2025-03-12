@@ -1,0 +1,9 @@
+##### § 1102.36 Oral presentations. #####
+
+(a) *In general.* A party does not have a right to an oral presentation. Under this section, a party's request to make an oral presentation may be denied if such a denial is appropriate and reasonable under the circumstances. An oral presentation shall be considered as an opportunity to offer, emphasize and clarify the facts, policies and laws concerning the proceeding.
+
+(b) *Method and time of request.* Between the commencement of the proceeding and ten days before the end of the information-gathering phase, any party to the proceeding may file with the Secretary a letter requesting that the Secretary schedule an opportunity for the party to give an oral presentation to the ASC. That letter shall include the reasons why an oral presentation is necessary.
+
+(c) *ASC processing.* The Secretary must promptly forward the letter request to the Chairman of the ASC. The Chairman, after informally contacting other ASC members and the ASC's senior staff for their views, will instruct the Secretary to forward a letter to the party either: Scheduling a date and time for the oral presentation and specifying the allowable duration of the presentation; or declining the request and providing the reasons therefor. The party's letter request and the ASC's response will be included in the proceeding's public file.
+
+(d) *Procedure on presentation day.* On the appropriate date and time, the party or his or her attorney (if any) will make the oral presentation before the ASC. Any ASC member may ask the party or the attorney, as the case may be, pertinent questions relating to the content of the oral presentation. Oral presentations will not be recorded or otherwise transcribed. The Secretary must enter promptly into the proceeding's public file a memorandum summarizing the subjects discussed during the oral presentation.

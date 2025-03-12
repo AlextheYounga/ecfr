@@ -1,0 +1,3 @@
+##### § 14.25 Amending a claim. #####
+
+The claimant may amend a claim presented in compliance with 10 CFR 14.13 at any time prior to final agency action or prior to the exercise of the claimant's option under 28 U.S.C. 2675(a). The claimant or his or her duly authorized agent or legal representative shall sign each amendment and submit it in writing. Upon the timely filing of an amendment to a pending claim, the agency shall have six months in which to make a final disposition of the claim as amended and the claimant's option under 28 U.S.C. 2675(a) does not accrue until six months after the filing of an amendment.

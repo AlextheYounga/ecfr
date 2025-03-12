@@ -1,0 +1,5 @@
+##### § 372.1 Applicability. #####
+
+This part establishes the terms and conditions governing the furnishing of overseas military personnel charters in air transportation by direct air carriers or foreign air carriers and by overseas military charter operators. This part also relieves charter operators from the provisions of section 41102 of Title 49 of the United States Code (“the Statute”), for the purpose of enabling them to provide overseas military personnel charters utilizing aircraft chartered from such direct air carriers or foreign air carriers. Nothing contained in this part shall be construed as repealing or amending any provisions of any of the Department's regulations, unless the context so requires.
+
+[SPR-60, 37 FR 19122, Sept. 19, 1972, as amended at 60 FR 43529, Aug. 22, 1995]

@@ -1,0 +1,3 @@
+##### § 551.37 Language of communications. #####
+
+Communications and attachments thereto shall be in English. Any matter written in a foreign language will be considered only if accompanied by a translation into English. A translation shall bear a certificate by the translator certifying that he is qualified to make the translation; that the translation is complete except as otherwise clearly indicated; and that it is accurate to the best of the translator's knowledge and belief. The translator shall sign the certificate in ink and state his full legal name, occupation, and address.

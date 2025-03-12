@@ -1,0 +1,3 @@
+##### § 1206.363 When is an ONRR audit, review, reconciliation, monitoring, or other like process considered final? #####
+
+Notwithstanding any provision in these regulations to the contrary, no audit, review, reconciliation, monitoring, or other like process that results in a redetermination by ONRR of royalty or fees due under this subpart is considered final or binding as against the Federal Government or its beneficiaries until ONRR formally closes the audit period in writing.

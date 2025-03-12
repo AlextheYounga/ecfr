@@ -1,0 +1,3 @@
+##### § 617.7515 How does the FCA decide whether to issue a directive? #####
+
+After the closing date of the qualified lender's response period, or following receipt of the qualified lender's response, FCA must decide if there is sufficient information to support the issuance of a directive or if additional information is necessary. Once FCA has received sufficient information, it must decide whether to issue a directive as originally proposed or as modified.

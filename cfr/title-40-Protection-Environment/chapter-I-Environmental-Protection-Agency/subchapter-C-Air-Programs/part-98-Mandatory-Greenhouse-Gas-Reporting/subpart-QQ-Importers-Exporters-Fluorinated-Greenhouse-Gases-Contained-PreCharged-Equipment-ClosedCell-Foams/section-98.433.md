@@ -1,0 +1,9 @@
+##### § 98.433 Calculating GHG contained in pre-charged equipment or closed-cell foams. #####
+
+(a) The total mass of each fluorinated GHG imported and exported inside equipment or foams must be estimated using Equation QQ-1 of this section:
+
+![](/graphics/er01de10.054.gif)where:I = Total mass of the fluorinated GHG imported or exported annually (metric tons).t = Equipment/foam type containing the fluorinated GHG.St = Mass of fluorinated GHG per unit of equipment type t or foam type t (charge per piece of equipment, kg) or density of fluorinated GHG in foam (charge per cubic foot of foam, kg per cubic foot).Nt = Number of units of equipment type t or foam type t imported or exported annually (pieces of equipment or cubic feet of foam).0.001 = Factor converting kg to metric tons.
+
+(b) When the identity and mass of fluorinated GHGs in a closed-cell foam is unknown to the importer or exporter, the total mass in CO2e for the fluorinated GHGs imported and exported inside closed-cell foams must be estimated using Equation QQ-2 of this section:
+
+![](/graphics/er01de10.055.gif)where:I = Total mass in CO2e of the fluorinated GHGs imported or exported in close-cell foams annually (metric tons).t = Equipment/foam type containing the fluorinated GHG.St = Mass in CO2e of the fluorinated GHGs per unit of equipment type t or foam type t (charge per piece of equipment, kg) or density of fluorinated GHG in foam (CO2e per cubic foot of foam, kg CO2e per cubic foot).Nt = Number of units of equipment type t or foam type t imported or exported annually (pieces of equipment or cubic feet of foam).0.001 = Factor converting kg to metric tons.[74 FR 56374, Oct. 30, 2009, as amended at 78 FR 71978, Nov. 29, 2013]

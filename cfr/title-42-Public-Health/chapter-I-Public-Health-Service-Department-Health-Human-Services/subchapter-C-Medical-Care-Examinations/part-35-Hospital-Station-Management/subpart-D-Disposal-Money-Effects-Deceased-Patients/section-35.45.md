@@ -1,0 +1,3 @@
+##### § 35.45 Disposition of effects; exceptions. #####
+
+Irrespective of the provisions of this subpart, the officer in charge may (a) release from among the effects of the deceased patient so much of the patient's clothing as may be necessary for use in preparation of his body for burial and (b) cause to be destroyed, or otherwise disposed of, such used toilet articles of the patient as appear to have no commercial or other value.

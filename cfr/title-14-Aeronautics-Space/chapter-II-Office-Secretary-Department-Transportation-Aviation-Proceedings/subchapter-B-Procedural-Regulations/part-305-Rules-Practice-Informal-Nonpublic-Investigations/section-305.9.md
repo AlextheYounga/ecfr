@@ -1,0 +1,3 @@
+##### § 305.9 Rights of witnesses. #####
+
+Any person required to testify or to submit documentary evidence shall be entitled to procure, on payment of lawfully prescribed costs, a copy of any document produced by such person and of his or her own testimony as stenographically reported. Any person compelled to testify or to produce documentary evidence may be accompanied, represented, and advised by counsel.

@@ -1,0 +1,3 @@
+##### § 35.31 Retention by patients. #####
+
+Subject to the rules of the station or hospital, patients may be accorded the privilege of retaining articles produced by them in the course of their curative treatment with the aid of materials furnished by the Service. Articles not retained by patients shall be disposed of as provided in this subpart. The provisions of this subpart do not apply to the products of industrial activities established for narcotic addicts.

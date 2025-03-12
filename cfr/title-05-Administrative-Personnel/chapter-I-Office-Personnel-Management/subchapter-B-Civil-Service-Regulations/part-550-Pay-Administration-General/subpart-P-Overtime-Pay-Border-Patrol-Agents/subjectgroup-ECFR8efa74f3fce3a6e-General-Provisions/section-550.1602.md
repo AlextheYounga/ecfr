@@ -1,0 +1,3 @@
+##### § 550.1602 Coverage. #####
+
+This subpart applies to an employee of the U.S. Customs and Border Protection component of the Department of Homeland Security (or any successor organization) who holds a position assigned to the Border Patrol Enforcement classification series 1896 or any successor series, consistent with classification standards established by OPM. Such an employee is referred to as a “Border Patrol agent” or “agent” in this subpart.

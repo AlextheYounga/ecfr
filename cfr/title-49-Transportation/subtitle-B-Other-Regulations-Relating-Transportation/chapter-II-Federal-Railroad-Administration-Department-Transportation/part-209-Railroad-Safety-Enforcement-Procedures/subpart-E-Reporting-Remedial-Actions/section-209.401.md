@@ -1,0 +1,9 @@
+##### § 209.401 Purpose and scope. #####
+
+(a) The purpose of this subpart is to prevent accidents and casualties arising from the operation of a railroad that result from a railroad's failure to remedy certain violations of the Federal railroad safety laws for which assessment of a civil penalty has been recommended.
+
+(b) To achieve this purpose, this subpart requires that if an FRA Safety Inspector notifies a railroad both that assessment of a civil penalty will be recommended for its failure to comply with a provision of the Federal railroad safety laws and that a remedial actions report must be submitted, the railroad shall report to the FRA Safety Inspector, within 30 days after the end of the calendar month in which such notification is received, actions taken to remedy that failure.
+
+(c) This subpart does not relieve the railroad of the underlying responsibility to comply with a provision of the Federal railroad safety laws. The 30-day period after the end of the calendar month in which notification is received is intended merely to provide the railroad with an opportunity to prepare its report to FRA, and does not excuse continued noncompliance.
+
+(d) This subpart requires the submission of remedial actions reports for the general categories of physical defects, recordkeeping and reporting violations, and filing violations, where the railroad can literally and specifically correct a failure to comply with a provision of the Federal railroad safety laws, as reasonably determined by the FRA Safety Inspector. No railroad is required to submit a report for a failure involving either a completed or past transaction or a transaction that it can no longer remedy.

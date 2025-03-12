@@ -1,0 +1,15 @@
+##### § 263.73 Order for informal hearing. #####
+
+(a) *Issuance of hearing order.* Upon receipt of a timely request for an informal hearing, the Secretary shall promptly issue an order directing an informal hearing to commence within 30 days of the receipt of the request. At the request of the institution-affiliated party, the Secretary may order the hearing to commence at a time more than 30 days after the receipt of the request for hearing. The hearing shall be held in Washington, DC, or at such other place as may be designated by the Secretary, before presiding officers designated by the Secretary to conduct the hearing. The presiding officers normally will include representatives from the Board's Legal Division and the Division of Banking Supervision and Regulation and from the appropriate Federal Reserve Bank.
+
+(b) *Waiver of oral hearing.* A institution-affiliated party may waive in writing his or her right to an oral hearing and instead elect to have the matter determined by the Board solely on the basis of written submissions.
+
+(c) *Hearing procedures.* (1) The institution-affiliated party may appear at the hearing personally, through counsel, or personally with counsel. The institution-affiliated party shall have the right to introduce relevant written materials and to present an oral argument. The institution-affiliated party may introduce oral testimony and present witnesses only if expressly authorized by the Board or the Secretary. Except as provided in § 263.11, the adjudicative procedures of the Administrative Procedure Act (5 U.S.C. 554-557) and of subpart A of this part shall not apply to the informal hearing ordered under this subpart unless the Board orders that subpart A of this part applies.
+
+(2) The informal hearing shall be recorded and a transcript shall be furnished to the institution-affiliated party upon request and after the payment of the cost thereof. Witnesses need not be sworn, unless specifically requested by a party or the presiding officers. The presiding officers may ask questions of any witness.
+
+(3) The presiding officers may order the record to be kept open for a reasonable period following the hearing (normally five business days), during which time additional submissions to the record may be made. Thereafter, the record shall be closed.
+
+(d) *Authority of presiding officers.* In the course of or in connection with any proceeding under this subpart, the Board or the presiding officers are authorized to administer oaths and affirmations, to take or cause to be taken depositions, to issue, quash or modify subpoenas and subpoenas duces tecum, and, for the enforcement thereof, to apply to an appropriate United States district court. All action relating to depositions and subpoenas shall be in accordance with the rules provided in §§ 263.34 and 263.53.
+
+(e) *Recommendation of presiding officers.* The presiding officers shall make a recommendation to the Board concerning the notice or order of suspension, removal, or prohibition within 20 calendar days following the close of the record on the hearing.

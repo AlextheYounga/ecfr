@@ -1,0 +1,7 @@
+##### § 40.303 What happens if the SAP believes the employee needs additional treatment, aftercare, or support group services even after the employee returns to safety-sensitive duties? #####
+
+(a) As a SAP, if you believe that ongoing services (in addition to follow-up tests) are needed to assist an employee to maintain sobriety or abstinence from drug use after the employee resumes the performance of safety-sensitive duties, you must provide recommendations for these services in your follow-up evaluation report (see § 40.311(d)(10)).
+
+(b) As an employer receiving a recommendation for these services from a SAP, you may, as part of a return-to-duty agreement with the employee, require the employee to participate in the recommended services. You may monitor and document the employee's participation in the recommended services. You may also make use of SAP and employee assistance program (EAP) services in assisting and monitoring employees' compliance with SAP recommendations. Nothing in this section permits an employer to fail to carry out its obligations with respect to follow-up testing (see § 40.309).
+
+(c) As an employee, you are obligated to comply with the SAP's recommendations for these services. If you fail or refuse to do so, you may be subject to disciplinary action by your employer.

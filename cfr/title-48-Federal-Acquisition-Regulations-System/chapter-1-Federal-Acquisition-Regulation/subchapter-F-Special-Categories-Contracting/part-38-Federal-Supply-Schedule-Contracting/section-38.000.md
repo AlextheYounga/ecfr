@@ -1,0 +1,5 @@
+##### 38.000 Scope of part. #####
+
+This part prescribes policies and procedures for contracting for supplies and services under the Federal Supply Schedule program, which is directed and managed by the General Services Administration (see Subpart 8.4, Federal Supply Schedules, for additional information). GSA may delegate certain responsibilities to other agencies (*e.g.*, GSA has delegated authority to the Department of Veterans Affairs (VA) to procure medical supplies under the VA Federal Supply Schedules Program). The VA Federal Supply Schedules Program is covered by this subpart. Additionally, the Department of Defense manages a similar system of schedule contracting for military items; however, the Department of Defense systems are not a part of the Federal Supply Schedule program.
+
+[69 FR 34239, June 18, 2004]

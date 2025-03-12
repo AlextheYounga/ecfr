@@ -1,0 +1,3 @@
+##### 846.472 Inspection of repairs for properties under the Loan Guaranty and Direct Loan Programs. #####
+
+As provided in 846.472-1 and 846.472-2, management brokers or qualified fee or staff inspectors must conduct a final inspection of all repair programs upon completion. In addition, the broker or inspector must conduct intermediate or progress inspections on extensive or technical jobs as specified in the contract.

@@ -1,0 +1,3 @@
+##### § 9.5 General prohibition of production or disclosure in legal proceedings. #####
+
+No employee of the Department may provide testimony or produce any material contained in the files of the Department, or disclose any information relating to, or based upon, material contained in the files of the Department, or disclose any information or produce any material acquired as part of the performance of that employee's official duties or because of that employee's official status unless authorized in accordance with this part, or by other applicable law.

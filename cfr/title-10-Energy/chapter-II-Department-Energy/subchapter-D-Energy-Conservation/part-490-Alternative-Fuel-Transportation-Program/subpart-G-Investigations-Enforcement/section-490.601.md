@@ -1,0 +1,3 @@
+##### § 490.601 Powers of the Secretary. #####
+
+For the purpose of carrying out titles III, IV, V, and VI of the Act, DOE may hold such hearings, take such testimony, sit and act at such times and places, administer such oaths, and require by subpoena the attendance and testimony of such witnesses and the production of such books, papers, correspondence, memoranda, contracts, agreements, or other records as the Secretary of Transportation is authorized to do under section 505(b)(1) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2005(b)(1)).

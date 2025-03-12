@@ -1,0 +1,3 @@
+##### 1825.003-70 NASA definitions. #####
+
+“Canadian end product”, for an item with an estimated value of $25,000 or less, means an unmanufactured end product mined or produced in Canada or an end product manufactured in Canada, if the cost of its components mined, produced, or manufactured in Canada or the United States exceeds 50 percent of the cost of all its components. The cost of components includes transportation costs to the place of incorporation into the end product. For an end product with an estimated value in excess of $25,000, the definition at FAR 25.003 applies.

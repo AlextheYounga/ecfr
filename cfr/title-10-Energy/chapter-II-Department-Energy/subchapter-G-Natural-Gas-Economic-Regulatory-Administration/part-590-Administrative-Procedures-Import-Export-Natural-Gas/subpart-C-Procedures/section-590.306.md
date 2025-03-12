@@ -1,0 +1,7 @@
+##### § 590.306 Subpoenas. #####
+
+(a) Subpoenas for the attendance of witnesses at a trial-type hearing or for the production of documentary evidence may be issued upon the initiative of the Assistant Secretary or presiding official, or upon written motion of a party or oral motion of a party during a conference, oral presentation, or trial-type hearing, if the Assistant Secretary or presiding official determines that the evidence sought is relevant and material.
+
+(b) Motions for the issuance of a subpoena shall specify the relevance, materiality, and scope of the testimony or documentary evidence sought, including, as to documentary evidence, specification to the extent possible of the documents sought and the facts to be proven by them, the issues to which they relate, and why the information or evidence was not obtainable through discovery procedures agreed upon by the parties.
+
+(c) If service of a subpoena is made by a United States Marshal or a Deputy United States Marshal, service shall be evidenced by their return. If made by another person, that person shall affirm that service has occurred and file an affidavit to that effect with the original subpoena. A witness who is subpoenaed shall be entitled to witness fees as provided in § 590.315(c).

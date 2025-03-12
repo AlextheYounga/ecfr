@@ -1,0 +1,21 @@
+##### § 300.810 Contents of the administrative record file. #####
+
+(a) *Contents.* The administrative record file for selection of a response action typically, but not in all cases, will contain the following types of documents:
+
+(1) Documents containing factual information, data and analysis of the factual information, and data that may form a basis for the selection of a response action. Such documents may include verified sampling data, quality control and quality assurance documentation, chain of custody forms, site inspection reports, preliminary assessment and site evaluation reports, ATSDR health assessments, documents supporting the lead agency's determination of imminent and substantial endangerment, public health evaluations, and technical and engineering evaluations. In addition, for remedial actions, such documents may include approved workplans for the remedial investigation/feasibility study, state documentation of applicable or relevant and appropriate requirements, and the RI/FS;
+
+(2) Guidance documents, technical literature, and site-specific policy memoranda that may form a basis for the selection of the response action. Such documents may include guidance on conducting remedial investigations and feasibility studies, guidance on determining applicable or relevant and appropriate requirements, guidance on risk/exposure assessments, engineering handbooks, articles from technical journals, memoranda on the application of a specific regulation to a site, and memoranda on off-site disposal capacity;
+
+(3) Documents received, published, or made available to the public under § 300.815 for remedial actions, or § 300.820 for removal actions. Such documents may include notice of availability of the administrative record file, community relations plan, proposed plan for remedial action, notices of public comment periods, public comments and information received by the lead agency, and responses to significant comments;
+
+(4) Decision documents. Such documents may include action memoranda and records of decision;
+
+(5) Enforcement orders. Such documents may include administrative orders and consent decrees; and
+
+(6) An index of the documents included in the administrative record file. If documents are customarily grouped together, as with sampling data chain of custody documents, they may be listed as a group in the index to the administrative record file.
+
+(b) *Documents not included in the administrative record file.* The lead agency is not required to include documents in the administrative record file which do not form a basis for the selection of the response action. Such documents include but are not limited to draft documents, internal memoranda, and day-to-day notes of staff unless such documents contain information that forms the basis of selection of the response action and the information is not included in any other document in the administrative record file.
+
+(c) *Privileged documents.* Privileged documents shall not be included in the record file except as provided in paragraph (d) of this section or where such privilege is waived. Privileged documents include but are not limited to documents subject to the attorney-client, attorney work product, deliberative process, or other applicable privilege.
+
+(d) *Confidential file.* If information which forms the basis for the selection of a response action is included only in a document containing confidential or privileged information and is not otherwise available to the public, the information, to the extent feasible, shall be summarized in such a way as to make it disclosable and the summary shall be placed in the publicly available portion of the administrative record file. The confidential or privileged document itself shall be placed in the confidential portion of the administrative record file. If information, such as confidential business information, cannot be summarized in a disclosable manner, the information shall be placed only in the confidential portion of the administrative record file. All documents contained in the confidential portion of the administrative record file shall be listed in the index to the file.

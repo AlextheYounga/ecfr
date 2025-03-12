@@ -1,0 +1,3 @@
+##### § 733.4 Research misconduct requirements. #####
+
+DOE intends to apply the research misconduct policy set forth in 65 FR 76260-76264 by including appropriate research misconduct requirements in contracts and financial assistance awards that make contractors and financial recipients primarily responsible for implementing the policy in dealing with allegations of research misconduct in connection with the proposal, performance or review of research for DOE .

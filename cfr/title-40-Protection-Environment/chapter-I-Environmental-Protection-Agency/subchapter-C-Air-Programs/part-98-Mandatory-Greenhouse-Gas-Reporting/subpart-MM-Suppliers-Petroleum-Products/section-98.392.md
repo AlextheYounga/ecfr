@@ -1,0 +1,3 @@
+##### § 98.392 GHGs To report. #####
+
+Suppliers of petroleum products must report the CO2 emissions that would result from the complete combustion or oxidation of each petroleum product and natural gas liquid produced, used as feedstock, imported, or exported during the calendar year. Additionally, refiners must report CO2 emissions that would result from the complete combustion or oxidation of any biomass co-processed with petroleum feedstocks.

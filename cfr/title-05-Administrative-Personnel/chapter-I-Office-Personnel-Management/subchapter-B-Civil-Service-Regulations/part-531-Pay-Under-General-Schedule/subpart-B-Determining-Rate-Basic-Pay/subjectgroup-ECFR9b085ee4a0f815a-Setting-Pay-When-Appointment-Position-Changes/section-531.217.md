@@ -1,0 +1,3 @@
+##### § 531.217 Special conversion rules for certain non-GS employees. #####
+
+When an employee moves (without a break in service) to a GS position from a non-GS system under an authority in 5 U.S.C. chapters 47, 95, or similar provision of law, and that authority provides that an employee will be converted to GS-equivalent rates immediately before leaving the non-GS system, the employee is considered a GS employee in applying the provisions of this subpart.

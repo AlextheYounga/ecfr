@@ -1,0 +1,3 @@
+##### § 63.7480 What is the purpose of this subpart? #####
+
+This subpart establishes national emission limitations and work practice standards for hazardous air pollutants (HAP) emitted from industrial, commercial, and institutional boilers and process heaters located at major sources of HAP. This subpart also establishes requirements to demonstrate initial and continuous compliance with the emission limitations and work practice standards.

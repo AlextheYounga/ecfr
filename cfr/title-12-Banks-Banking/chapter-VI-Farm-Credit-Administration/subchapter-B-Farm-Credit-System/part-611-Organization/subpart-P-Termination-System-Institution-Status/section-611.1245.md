@@ -1,0 +1,7 @@
+##### § 611.1245 Stockholder reconsideration. #####
+
+(a) *Right to reconsider termination.* Voting stockholders have the right to reconsider their approval of the termination if a petition signed by at least 15 percent of the voting stockholders is filed with us within 35 days after you mail notices to stockholders that the termination was approved. If we determine that the petition complies with the requirements of section 7.9 of the Act, you must call a special stockholders' meeting to reconsider the vote. The meeting must occur within 60 days after the date on which you mailed to stockholders the results of the termination vote.
+
+(b) *Quorum requirement for termination reconsideration vote.* At least 30 percent, unless your bylaws provide for a higher quorum, of the voting stockholders of the institution must be present at the stockholders' meeting either in person or by proxy in order to hold the reconsideration vote. If a majority of the voting stockholders voting in person or by proxy vote against the termination, the termination may not take place.
+
+(c) *Stockholder list and expenses.* You must, at your expense, timely give stockholders who request it a list of the names and addresses of stockholders eligible to vote in the reconsideration vote. The petitioners must pay all other expenses for the petition. You must pay expenses that you incur for the reconsideration vote.

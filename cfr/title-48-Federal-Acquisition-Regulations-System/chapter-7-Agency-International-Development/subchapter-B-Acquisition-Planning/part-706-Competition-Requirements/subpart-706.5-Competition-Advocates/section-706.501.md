@@ -1,0 +1,5 @@
+##### 706.501 Requirement. #####
+
+The USAID Administrator delegated the authority to designate the Agency Competition Advocate and a competition advocate for each agency procuring activity (see 702.170 of this chapter) to the M/OAA Director. The M/OAA Director, under the Administrator's delegation, has designated the M/OAA Deputy Director for Accountability, Compliance, Transparency, and Support as the Agency Competition Advocate and the deputy head of each contracting activity as the competition advocate for each activity. The competition advocate for USAID/W is the Deputy Director for M/OAA Operations. If there is no deputy, the head of the contracting activity is designated the competition advocate for that activity. The competition advocate's duties may not be redelegated, but can be exercised by persons serving as acting deputy (or acting head) of the contracting activity. For definitions of contracting activity and head of the contracting activity, see 702.170 of this chapter.
+
+[79 FR 74992, Dec. 16, 2014]

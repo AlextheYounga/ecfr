@@ -1,0 +1,5 @@
+##### § 222.31 Limits on redisclosure of information. #####
+
+(a) *Scope.* This section applies to banks that are members of the Federal Reserve System (other than national banks) and their respective operating subsidiaries, branches and agencies of foreign banks (other than Federal branches, Federal Agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, organizations operating under section 25 or 25A of the Federal Reserve Act (12 U.S.C. 601 *et seq.,* and 611 *et seq.*), and bank holding companies and affiliates of such holding companies (other than depository institutions and consumer reporting agencies).
+
+(b) *Limits on redisclosure.* If a person described in paragraph (a) of this section receives medical information about a consumer from a consumer reporting agency or its affiliate, the person must not disclose that information to any other person, except as necessary to carry out the purpose for which the information was initially disclosed, or as otherwise permitted by statute, regulation, or order.

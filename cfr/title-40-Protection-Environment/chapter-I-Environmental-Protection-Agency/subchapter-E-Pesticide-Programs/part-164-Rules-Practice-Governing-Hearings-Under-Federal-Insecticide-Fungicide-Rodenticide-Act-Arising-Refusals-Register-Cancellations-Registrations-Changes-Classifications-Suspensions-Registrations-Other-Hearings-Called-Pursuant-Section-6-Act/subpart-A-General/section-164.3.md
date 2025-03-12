@@ -1,0 +1,3 @@
+##### § 164.3 Scope and applicability of this part. #####
+
+The provisions of subpart B of this part shall govern proceedings, conducted pursuant to the provisions of the Act, concerning refusals to register, cancellations of registration, changes of classifications or hearings called by the Administrator; the provisions of subpart C of this part shall govern suspension proceedings conducted pursuant to the provisions of the Act.

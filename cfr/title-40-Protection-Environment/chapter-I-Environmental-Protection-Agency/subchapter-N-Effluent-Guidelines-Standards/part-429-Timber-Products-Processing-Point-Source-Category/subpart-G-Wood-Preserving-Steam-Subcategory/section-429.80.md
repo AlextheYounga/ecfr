@@ -1,0 +1,3 @@
+##### § 429.80 Applicability; description of the wood preserving—steam subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from wood preserving processes that use direct steam impingment on wood as the predominant conditioning method; processes that use the vapor drying process as the predominant conditioning method; direct steam conditioning processes which use the same retort to treat with both salt and oil type preservatives; and steam conditioning processes which apply both salt type and oil type preservatives to the same stock.

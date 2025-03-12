@@ -1,0 +1,3 @@
+##### § 960.4-1 System guideline. #####
+
+(a) *Qualifying Condition.* The geologic setting at the site shall allow for the physical separation of radioactive waste from the accessible environment after closure in accordance with the requirements of 40 CFR part 191, subpart B, as implemented by the provisions of 10 CFR part 60. The geologic setting at the site will allow for the use of engineered barriers to ensure compliance with the requirements of 40 CFR part 191 and 10 CFR part 60 (see appendix I of this part).

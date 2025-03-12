@@ -1,0 +1,3 @@
+##### § 22.703 Separate rural subscriber station authorization not required. #####
+
+A separate authorization is not required for rural subscriber stations for which the effective radiated power does not exceed 60 Watts and for which FAA notification of construction or alteration of the antenna structure is not required (see criteria in § 17.7 of this chapter). Authority to operate such rural subscriber stations is conferred by the authorization of the central office or base station from which they receive service.

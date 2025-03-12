@@ -1,0 +1,3 @@
+##### § 837.404 Reinstatement of annuity during a period of employment not subject to CSRS or FERS. #####
+
+When OPM reinstates the disability annuity of an individual employed in a position not subject to CSRS or FERS, the employing agency shall withhold retirement deductions and offset pay subject to the provisions of subpart C of this part, as of the date of OPM's administrative determination of reinstatement. OPM shall offset from any retroactive payment of annuity for a period that is also a period of employment an amount equal to the amount of annuity, or the pay for the period of employment, whichever is the lesser.

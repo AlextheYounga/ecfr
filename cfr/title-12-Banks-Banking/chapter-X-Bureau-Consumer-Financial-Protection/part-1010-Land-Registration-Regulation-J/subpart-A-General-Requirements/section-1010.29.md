@@ -1,0 +1,3 @@
+##### § 1010.29 Use of property report—misstatements, omissions, or representation of Bureau approval prohibited. #####
+
+Nothing in these regulations shall be construed to authorize or approve the use of a property report containing any untrue statement of a material fact or omitting to state a material fact required to be stated therein. Nor shall anything in these regulations be construed to authorize or permit any representation that the Property Report is prepared or approved by the Director, ILSRP or the Bureau of Consumer Financial Protection.

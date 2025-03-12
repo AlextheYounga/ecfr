@@ -1,0 +1,3 @@
+##### § 35.117 Unused funds. #####
+
+If funds for an environmental program grant remain in a State's allotment either after an initial environmental program grant has been made or because no grant was made, and the Regional Administrator does not use the funds under § 35.116 of this subpart, the Regional Administrator may award the funds to any eligible recipient in the region, including the same State or an Indian Tribe or Tribal consortium, for the same environmental program or for a Performance Partnership Grant, subject to any limitations in appropriation acts.

@@ -1,0 +1,3 @@
+##### § 22.959 Rules governing processing of applications for initial systems. #####
+
+Pending applications for authority to operate the first cellular system on a channel block in an MSA or RSA market continue to be processed under the rules governing the processing of such applications that were in effect when those applications were filed, unless the Commission determines otherwise in a particular case.

@@ -1,0 +1,11 @@
+##### § 52.07 Control strategies. #####
+
+(a) Each subpart specifies in what respects the control strategies are approved or disapproved. Where emission limitations with a future effective date are employed to carry out a control strategy, approval of the control strategy and the implementing regulations does not supersede the requirements of subpart N of this chapter relating to compliance schedules for individual sources or categories of sources. Compliance schedules for individual sources or categories of sources must require such sources to comply with applicable requirements of the plan as expeditiously as practicable, where the requirement is part of a control strategy designed to attain a primary standard, or within a reasonable time, where the requirement is part of a control strategy designed to attain a secondary standard. All sources must be required to comply with applicable requirements of the plan no later than the date specified in this part for attainment of the national standard which the requirement is intended to implement.
+
+(b) A control strategy may be disapproved as inadequate because it is not sufficiently comprehensive, although all regulations provided to carry out the strategy may themselves be approved. In this case, regulations for carrying out necessary additional measures are promulgated in the subpart.
+
+(c) Where a control strategy is adequate to attain and maintain a national standard but one or more of the regulations to carry it out is not adopted or not enforceable by the State, the control strategy is approved and the necessary regulations are promulgated by the Administrator.
+
+(d) Where a control strategy is adequate to attain and maintain air quality better than that provided for by a national standard but one or more of the regulations to carry it out is not adopted or not enforceable by the State, the control strategy is approved and substitute regulations necessary to attain and maintain the national standard are promulgated.
+
+[37 FR 10846, May 31, 1972, as amended at 37 FR 19807, Sept. 22, 1972; 51 FR 40676, Nov. 7, 1986]

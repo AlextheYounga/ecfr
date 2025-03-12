@@ -1,0 +1,1 @@
+##### 952.250 Clauses related to indemnification of contractors. #####

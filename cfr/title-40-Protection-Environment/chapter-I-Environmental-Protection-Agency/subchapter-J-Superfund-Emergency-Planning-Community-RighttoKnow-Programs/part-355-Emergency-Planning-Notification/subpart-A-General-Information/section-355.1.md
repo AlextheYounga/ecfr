@@ -1,0 +1,5 @@
+##### § 355.1 What is the purpose of this part? #####
+
+(a) This part (40 CFR part 355) establishes requirements for a facility to provide information necessary for developing and implementing State and local chemical emergency response plans, and requirements for emergency notification of chemical releases. This part also lists Extremely Hazardous Substances (EHSs) and Threshold Planning Quantities (TPQs) in Appendices A and B, which are used in determining if you are subject to these requirements.
+
+(b) This part is written in a special format to make it easier to understand the regulatory requirements. Like other Environmental Protection Agency (EPA) regulations, this part establishes enforceable legal requirements. Information considered non-binding guidance under EPCRA is indicated in this regulation by the word “note” and a smaller typeface. Such notes are provided for information purposes only and are not considered legally binding under this part.

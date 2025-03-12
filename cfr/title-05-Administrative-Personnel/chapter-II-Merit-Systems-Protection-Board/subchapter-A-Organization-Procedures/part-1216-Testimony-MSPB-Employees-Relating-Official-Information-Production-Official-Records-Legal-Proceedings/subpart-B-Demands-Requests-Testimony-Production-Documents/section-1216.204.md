@@ -1,0 +1,3 @@
+##### § 1216.204 Service of requests or demands. #####
+
+Requests or demands for official records or information or testimony under this subpart must be served on the Clerk of the Board, U.S. Merit Systems Protection Board, 1615 M Street, NW., Washington, DC 20419-0002 by mail, fax, or e-mail and clearly marked “Part 1216 Request for Testimony or Official Records in Legal Proceedings.” The request or demand will be immediately forwarded to the General Counsel for processing.

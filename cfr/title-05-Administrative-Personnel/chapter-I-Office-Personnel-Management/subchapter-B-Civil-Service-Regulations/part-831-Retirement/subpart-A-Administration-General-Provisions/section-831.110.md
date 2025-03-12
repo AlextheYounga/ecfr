@@ -1,0 +1,5 @@
+##### § 831.110 Appeals. #####
+
+*Appeals to MSPB.* Except as noted in this paragraph, an individual or agency whose rights or interests under the Civil Service Retirement System (Subchapter III of chapter 83, title 5, United States Code) are affected by a final decision of the representative of the Associate Director for Compensation, Office of Personnel Management, may request the Merit Systems Protection Board to review such decision in accord with procedures prescribed by the Board. Decisions of OPM and the Associate Director for Compensation made in accord with the procedures referenced in § 831.109(b)(1) are made under subchapter II of chapter 83, title 5, United States Code. Such decisions are not appealable to the Merit Systems Protection Board under 5 U.S.C. 8347(d).
+
+[44 FR 37890, June 29, 1979, as amended at 45 FR 23633, Apr. 8, 1980; 48 FR 38784, Aug. 26, 1983]

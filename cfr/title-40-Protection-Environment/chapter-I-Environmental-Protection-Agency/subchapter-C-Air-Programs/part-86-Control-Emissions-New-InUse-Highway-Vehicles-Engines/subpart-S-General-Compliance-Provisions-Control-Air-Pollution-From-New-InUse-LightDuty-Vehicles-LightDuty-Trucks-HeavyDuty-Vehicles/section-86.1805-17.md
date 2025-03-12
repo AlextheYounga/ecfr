@@ -1,0 +1,13 @@
+##### § 86.1805-17 Useful life. #####
+
+(a) *General provisions.* The useful life values specified in this section apply for all exhaust, evaporative, refueling, and OBD emission requirements described in this subpart, except for standards that are specified to apply only at certification. These useful life requirements also apply to all air conditioning leakage credits, air conditioning efficiency credits, and other credit programs used by the manufacturer to comply with the fleet-average CO2 emission standards in § 86.1818. Useful life values are specified as a given number of calendar years or miles of driving, whichever comes first.
+
+(b) *Greenhouse gas pollutants.* The emission standards in § 86.1818 apply for a useful life of 10 years or 120,000 miles for LDV and LLDT and 11 years or 120,000 miles for HLDT and MDPV. For non-MDPV heavy-duty vehicles, the emission standards in § 86.1819 apply for a useful life of 11 years or 120,000 miles through model year 2020, and for a useful life of 15 years or 150,000 miles in model year 2021 and later. Manufacturers may certify based on the useful life as specified in paragraph (d) of this section if it is different than the useful life specified in this paragraph (b).
+
+(c) *Cold temperature emission standards.* The cold temperature NMHC emission standards in § 86.1811-17 apply for a useful life of 10 years or 120,000 miles for LDV and LLDT, and 11 years or 120,000 miles for HLDT and HDV. The cold temperature CO emission standards in § 86.1811-17 apply for a useful life of 5 years or 50,000 miles.
+
+(d) *Criteria pollutants.* The useful life provisions of this paragraph (d) apply for all emission standards not covered by paragraph (b) or (c) of this section. This paragraph (d) applies for the cold temperature emission standards in § 86.1811-27(c). Except as specified in paragraph (f) of this section and in §§ 86.1811, 86.1813, and 86.1816, the useful life for LDT2, HLDT, MDPV, and HDV is 15 years or 150,000 miles. The useful life for LDV and LDT1 is 10 years or 120,000 miles. Manufacturers may optionally certify LDV and LDT1 to a useful life of 15 years or 150,000 miles, in which case the longer useful life would apply for all the standards and requirements covered by this paragraph (d).
+
+(e) *Intermediate useful life.* Where exhaust emission standards are specified for an intermediate useful life, these standards apply for five years or 50,000 miles.
+
+[79 FR 23708, Apr. 28, 2014, as amended at 80 FR 9104, Feb. 19, 2015; 81 FR 73983, Oct. 25, 2016; 89 FR 28160, Apr. 18, 2024]

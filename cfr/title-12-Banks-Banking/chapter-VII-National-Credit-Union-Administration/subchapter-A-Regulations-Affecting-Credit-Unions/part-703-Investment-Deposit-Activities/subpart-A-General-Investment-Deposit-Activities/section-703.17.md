@@ -1,0 +1,5 @@
+##### § 703.17 Conflicts of interest. #####
+
+(a) A Federal credit union's officials and senior management employees, and their immediate family members, may not receive anything of value in connection with its investment transactions. This prohibition also applies to any other employee, such as an investment officer, if the employee is directly involved in investments, unless the Federal credit union's board of directors determines that the employee's involvement does not present a conflict of interest. This prohibition does not include compensation for employees.
+
+(b) A Federal credit union's officials and employees must conduct all transactions with business associates or family members that are not specifically prohibited by paragraph (a) of this section at arm's length and in the Federal credit union's best interest.

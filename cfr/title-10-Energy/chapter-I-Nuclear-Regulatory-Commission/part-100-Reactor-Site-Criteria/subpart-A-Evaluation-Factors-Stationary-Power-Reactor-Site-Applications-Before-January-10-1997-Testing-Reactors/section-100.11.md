@@ -1,0 +1,27 @@
+##### § 100.11 Determination of exclusion area, low population zone, and population center distance. #####
+
+(a) As an aid in evaluating a proposed site, an applicant should assume a fission produce release1 from the core, the expected demonstrable leak rate from the containment and the meteorological conditions pertinent to his site to derive an exclusion area, a low population zone and population center distance. For the purpose of this analysis, which shall set forth the basis for the numerical values used, the applicant should determine the following:
+
+1 The fission product release assumed for these calculations should be based upon a major accident, hypothesized for purposes of site analysis or postulated from considerations of possible accidental events, that would result in potential hazards not exceeded by those from any accident considered credible. Such accidents have generally been assumed to result in substantial meltdown of the core with subsequent release of appreciable quantities of fission products.
+
+(1) An exclusion area of such size that an individual located at any point on its boundary for two hours immediately following onset of the postulated fission product release would not receive a total radiation dose to the whole body in excess of 25 rem2 or a total radiation dose in excess of 300 rem2 to the thyroid from iodine exposure.
+
+2 The whole body dose of 25 rem referred to above corresponds numerically to the once in a lifetime accidental or emergency dose for radiation workers which, according to NCRP recommendations may be disregarded in the determination of their radiation exposure status (see NBS Handbook 69 dated June 5, 1959). However, neither its use nor that of the 300 rem value for thyroid exposure as set forth in these site criteria guides are intended to imply that these numbers constitute acceptable limits for emergency doses to the public under accident conditions. Rather, this 25 rem whole body value and the 300 rem thyroid value have been set forth in these guides as reference values, which can be used in the evaluation of reactor sites with respect to potential reactor accidents of exceedingly low probability of occurrence, and low risk of public exposure to radiation.
+
+(2) A low population zone of such size that an individual located at any point on its outer boundary who is exposed to the radioactive cloud resulting from the postulated fission product release (during the entire period of its passage) would not receive a total radiation dose to the whole body in excess of 25 rem or a total radiation dose in excess of 300 rem to the thyroid from iodine exposure.
+
+(3) A population center distance of at least one and one-third times the distance from the reactor to the outer boundary of the low population zone. In applying this guide, the boundary of the population center shall be determined upon consideration of population distribution. Political boundaries are not controlling in the application of this guide. Where very large cities are involved, a greater distance may be necessary because of total integrated population dose consideration.
+
+(b) For sites for multiple reactor facilities consideration should be given to the following:
+
+(1) If the reactors are independent to the extent that an accident in one reactor would not initiate an accident in another, the size of the exclusion area, low population zone and population center distance shall be fulfilled with respect to each reactor individually. The envelopes of the plan overlay of the areas so calculated shall then be taken as their respective boundaries.
+
+(2) If the reactors are interconnected to the extent that an accident in one reactor could affect the safety of operation of any other, the size of the exclusion area, low population zone and population center distance shall be based upon the assumption that all interconnected reactors emit their postulated fission product releases simultaneously. This requirement may be reduced in relation to the degree of coupling between reactors, the probability of concomitant accidents and the probability that an individual would not be exposed to the radiation effects from simultaneous releases. The applicant would be expected to justify to the satisfaction of the Commission the basis for such a reduction in the source term.
+
+(3) The applicant is expected to show that the simultaneous operation of multiple reactors at a site will not result in total radioactive effluent releases beyond the allowable limits of applicable regulations.
+
+Note:
+
+For further guidance in developing the exclusion area, the low population zone, and the population center distance, reference is made to Technical Information Document 14844, dated March 23, 1962, which contains a procedural method and a sample calculation that result in distances roughly reflecting current siting practices of the Commission. The calculations described in Technical Information Document 14844 may be used as a point of departure for consideration of particular site requirements which may result from evaluation of the characteristics of a particular reactor, its purpose and method of operation.
+
+[27 FR 3509, Apr. 12, 1962, as amended at 31 FR 4670, Mar. 19, 1966; 38 FR 1273, Jan. 11, 1973; 40 FR 8793, Mar. 3, 1975; 40 FR 26527, June 24, 1975; 53 FR 43422, Oct. 27, 1988; 64 FR 48955, Sept. 9, 1999; 67 FR 67101, Nov. 4, 2002]

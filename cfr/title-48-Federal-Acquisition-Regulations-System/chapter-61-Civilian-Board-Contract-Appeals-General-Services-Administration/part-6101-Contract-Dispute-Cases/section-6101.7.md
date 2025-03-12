@@ -1,0 +1,9 @@
+##### 6101.7 Service of papers other than subpoenas [Rule 7]. #####
+
+(a) *On whom and when service must be made.* Except for subpoenas (6101.16 [Rule 16]) and documents filed *in camera* (6101.9(c) [Rule 9(c)]), when a party sends a document to the Board it must at the same time send a copy to the other party by an equally or more expeditious means of transmittal. The parties will confer and agree upon the method they will use to serve one another. They may agree to use electronic mail, facsimile, overnight courier, hand delivery, or any other mutually acceptable method for accomplishing service promptly and efficiently.
+
+(b) *Proof of service.* A party sending a document to the Board must represent to the Board that a copy has also been sent to the other party. This may be done by certificate of service, by the notation of a photostatic copy (cc:), or by any other means that can reasonably be expected to show the Board that the other party has been provided a copy.
+
+(c) *Failure to make service.* If a document sent to the Board by a party does not show that a copy has been served on the other party, the Board may return the document to the party that submitted it with such directions as it considers appropriate, or the Board may inquire whether a party has received a copy and note on the record the fact of inquiry and the response, and may also direct the party that submitted the document to serve a copy on the other party. In the absence of proof of service a document may be treated by the Board as not properly filed.
+
+[72 FR 36795, July 5, 2007, as amended at 73 FR 26950, May 12, 2008]

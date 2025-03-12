@@ -1,0 +1,3 @@
+##### § 885.19 What happens to unused funds from my grant? #####
+
+All program grant funds are available until expended. If there are any unexpended funds after your grant is completed, we deobligate the funds when we close your grant. We make these unused funds available for re-award to the same certified State or Indian tribe to which they were originally distributed. You may apply for unused funds whenever you choose to request them either in a new grant award or as an amendment to an existing open grant.

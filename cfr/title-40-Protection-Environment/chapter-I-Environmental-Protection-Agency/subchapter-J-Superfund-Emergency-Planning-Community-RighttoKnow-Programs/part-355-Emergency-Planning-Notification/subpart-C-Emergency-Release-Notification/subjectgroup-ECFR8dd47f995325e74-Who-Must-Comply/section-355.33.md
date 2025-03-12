@@ -1,0 +1,3 @@
+##### § 355.33 What release quantities of EHSs and CERCLA hazardous substances trigger the emergency release notification requirements of this subpart? #####
+
+The release of a reportable quantity (RQ) of an EHS or CERCLA hazardous substance within any 24-hour period triggers the emergency release notification requirements. RQs for EHSs are listed in Appendices A and B of this part in the column labeled “reportable quantity.” RQs for CERCLA hazardous substances are listed in Table 302.4 of 40 CFR 302.4 in the column labeled “final RQ.”

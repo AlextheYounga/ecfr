@@ -1,0 +1,11 @@
+##### § 790.65 Failure to comply with a consent agreement. #####
+
+(a) Manufacturers and/or processors who have signed a consent agreement and who fail to comply with the test requirements, test standards, GLP regulations, schedules, or other provisions contained in the consent agreement, or in modifications to the agreement adopted pursuant to § 790.68, will be in violation of the consent agreement.
+
+(b) The Agency considers failure to comply with any aspect of a consent agreement, including the failure to pay requisite fees as specified in § 700.45 of this chapter, to be a “prohibited act” under section 15 of TSCA, subject to all the provisions of the Act applicable to violations of section 15. Section 15(1) of TSCA makes it unlawful for any person to fail or refuse to comply with any rule or order issued under section 4. Consent agreements adopted pursuant to this part are “orders issued under section 4” for purposes of section 15(1) of TSCA.
+
+(c) Manufacturers and/or processors who violate consent agreements are subject to criminal and/or civil liability. Under the penalty provisions of section 16 of TSCA, such firms could be subject to a civil penalty of up to $25,000 per violation with each day in violation constituting a separate violation of section 15. Intentional violations could lead to the imposition of criminal penalties of up to $25,000 for each day of violation and imprisonment for up to one year. In addition, EPA could invoke the remedies available under section 17 of TSCA, including seeking an injunction to compel adherence to the requirements of the consent agreement. The civil monetary penalty amount listed in this section may not reflect recent inflation adjustments EPA is required to make. The current maximum and minimum statutory civil penalty amounts are located in § 19.4.
+
+(d) Noncompliance with a consent agreement will constitute conduct “in violation of this Act” under section 20(a)(1) of TSCA. Thus, failure to comply with the requirements of a consent agreement could result in a citizens' civil action under section 20(a)(1) of TSCA.
+
+[51 FR 23715, June 30, 1986, as amended at 83 FR 52724, Oct. 17, 2018; 89 FR 88656, Nov. 8, 2024]

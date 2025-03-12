@@ -1,0 +1,5 @@
+##### § 44.35 Decision of the Assistant Secretary. #####
+
+Appeals from a decision rendered pursuant to § 44.32 of this part shall be decided by the Assistant Secretary within 120 days after the time for filing responding statements under § 44.33 of this part. The Assistant Secretary's decision shall be based upon consideration of the entire record of the proceedings transmitted, together with the statements submitted by the parties. The decision may affirm, modify, or set aside, in whole or part, the findings, conclusions, and rule or order contained in the decision of the presiding administrative law judge and shall include a statement of reasons for the action taken. The Assistant Secretary may also remand the petition to the administrative law judge for additional legal or factual determinations. Any party may request that the time for the Assistant Secretary's decision be expedited. Such requests shall be granted in the discretion of the Assistant Secretary.
+
+[55 FR 53442, Dec. 28, 1990]

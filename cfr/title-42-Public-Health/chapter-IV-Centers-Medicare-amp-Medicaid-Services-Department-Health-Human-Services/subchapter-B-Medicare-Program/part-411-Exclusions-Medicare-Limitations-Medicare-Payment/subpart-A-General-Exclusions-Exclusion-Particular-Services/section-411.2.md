@@ -1,0 +1,3 @@
+##### § 411.2 Conclusive effect of QIO determinations on payment of claims. #####
+
+If a utilization and quality control quality improvement organization (QIO) has assumed review responsibility, in accordance with part 466 of this chapter, for services furnished to Medicare beneficiaries, Medicare payment is not made for those services unless the conditions of subpart C of part 466 of this chapter are met.

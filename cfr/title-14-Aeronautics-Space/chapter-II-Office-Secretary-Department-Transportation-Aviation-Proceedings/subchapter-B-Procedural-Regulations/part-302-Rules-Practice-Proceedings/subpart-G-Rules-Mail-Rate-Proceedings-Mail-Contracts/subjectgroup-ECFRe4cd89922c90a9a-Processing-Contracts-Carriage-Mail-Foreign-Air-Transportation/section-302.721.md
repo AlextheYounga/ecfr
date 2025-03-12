@@ -1,0 +1,3 @@
+##### § 302.721 Complaints. #####
+
+Within fifteen (15) days of the filing of a contract, any interested person may file with the Office of Aviation Analysis, X-50, Department of Transportation, Washington, DC 20590, a complaint with respect to the contract setting forth the basis for such complaint and all pertinent information in support of same. A copy of the complaint shall be served upon the air carrier filing the contract and upon each of the persons served with such contract pursuant to § 302.720.

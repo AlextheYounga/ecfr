@@ -1,0 +1,3 @@
+##### 2001.603 Selection, appointment, and termination of appointment. #####
+
+The Director, Division of Contracts and Property Management, is authorized by the Director, Office of Administration, to select and appoint contracting officers and to terminate their appointment as prescribed in FAR 1.603. Delegations of contracting officer authority are issued by memorandum which includes a clear statement of the delegated authority, including responsibilities and limitations in addition to the “Certificate of Appointment”, SF 1402. The Director, Division of Contracts and Property Management, may delegate micro-purchase authority in accordance with agency procedures. This delegation may be accomplished by written memorandum. (ref. FAR 1.603-3(b))

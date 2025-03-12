@@ -1,0 +1,5 @@
+##### § 225.3 Procedure for invoking economic impact. #####
+
+(a) When a District Engineer's determination to issue a Dredged Material Permit for the dumping of dredged material into ocean waters has been rejected by a Regional Administrator upon application of the Criteria, the District Engineer may determine whether, under section 103(d) of the Act, there is an economically feasible alternative method or site available other than the proposed dumping in ocean waters. If the District Engineer makes any such preliminary determination that there is no economically feasible alternative method or site available, he shall so advise the Regional Administrator setting forth his reasons for such determination and shall submit a report of such determination to the Chief of Engineers in accordance with 33 CFR 209.120 and 209.145.
+
+(b) If the decision of the Chief of Engineers is that ocean dumping at the designated site is required because of the unavailability of feasible alternatives, he shall so certify and request that the Secretary of the Army seek a waiver from the Administrator of the Criteria or of the critical site designation in accordance with § 225.4.

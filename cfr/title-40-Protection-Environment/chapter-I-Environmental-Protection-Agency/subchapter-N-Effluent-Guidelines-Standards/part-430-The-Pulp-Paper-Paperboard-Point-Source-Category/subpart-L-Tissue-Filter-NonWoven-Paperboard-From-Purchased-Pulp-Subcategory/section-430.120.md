@@ -1,0 +1,3 @@
+##### § 430.120 Applicability; description of the tissue, filter, non-woven, and paperboard from purchased pulp subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the production of tissue papers at non-integrated mills, filter and non-woven papers at non-integrated mills, and paperboard at non-integrated mills. The production of electrical grades of board and matrix board is not included in this subpart.

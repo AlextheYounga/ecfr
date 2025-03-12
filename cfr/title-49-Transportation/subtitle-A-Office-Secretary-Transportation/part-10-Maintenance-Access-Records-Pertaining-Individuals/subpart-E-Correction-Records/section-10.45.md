@@ -1,0 +1,3 @@
+##### § 10.45 Statement of disagreement. #####
+
+If a determination is made not to amend a record, the requester is informed of the right to file a concise statement setting forth the reasons for disagreement with the refusal to amend. In any disclosure containing information about which an individual has filed such a statement of disagreement, the portions of the record which are disputed are noted clearly and copies of the statement of disagreement provided. If the Administrator concerned or his or her delegee, or in the case of the Office of the Secretary, the General Counsel or his or her delegee, deems it appropriate, copies of a concise statement of the reasons for not making the amendments requested may be provided along with the statement of disagreement.

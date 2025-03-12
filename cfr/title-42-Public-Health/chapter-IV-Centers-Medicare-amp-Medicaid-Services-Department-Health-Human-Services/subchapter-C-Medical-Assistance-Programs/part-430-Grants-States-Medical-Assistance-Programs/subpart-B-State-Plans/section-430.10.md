@@ -1,0 +1,3 @@
+##### § 430.10 The State plan. #####
+
+The State plan is a comprehensive written statement submitted by the agency describing the nature and scope of its Medicaid program and giving assurance that it will be administered in conformity with the specific requirements of title XIX, the regulations in this Chapter IV, and other applicable official issuances of the Department. The State plan contains all information necessary for CMS to determine whether the plan can be approved to serve as a basis for Federal financial participation (FFP) in the State program.

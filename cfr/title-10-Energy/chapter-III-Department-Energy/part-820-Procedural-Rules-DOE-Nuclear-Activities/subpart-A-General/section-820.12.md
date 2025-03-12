@@ -1,0 +1,5 @@
+##### § 820.12 Classified, confidential, and controlled information #####
+
+(a) *General rule.* The DOE Official in charge of a proceeding under this part may utilize any procedures deemed appropriate to safeguard and prevent disclosure of classified, confidential, and controlled information, including Restricted Data and National Security Information, to unauthorized persons, with minimum impairment of rights and obligations under this part.
+
+(b) *Obligation to protect restricted information.* Nothing in this part shall relieve any person from safeguarding classified, confidential, and controlled information, including Restricted Data or National Security Information, in accordance with the applicable provisions of federal statutes and the rules, regulations, and orders of any federal agency.

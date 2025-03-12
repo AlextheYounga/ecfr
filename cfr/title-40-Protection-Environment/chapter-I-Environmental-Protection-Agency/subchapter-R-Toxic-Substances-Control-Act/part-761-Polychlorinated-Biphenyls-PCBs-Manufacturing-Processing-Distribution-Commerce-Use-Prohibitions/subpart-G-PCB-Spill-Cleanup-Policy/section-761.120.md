@@ -1,0 +1,51 @@
+##### § 761.120 Scope. #####
+
+(a) *General.* This policy establishes criteria EPA will use to determine the adequacy of the cleanup of spills resulting from the release of materials containing PCBs at concentrations of 50 ppm or greater. The policy applies to spills which occur after May 4, 1987.
+
+(1) Existing spills (spills which occurred prior to May 4, 1987, are excluded from the scope of this policy for two reasons:
+
+(i) For old spills which have already been discovered, this policy is not intended to require additional cleanup where a party has already cleaned a spill in accordance with requirements imposed by EPA through its regional offices, nor is this policy intended to interfere with ongoing litigation of enforcement actions which bring into issue PCB spills cleanup.
+
+(ii) EPA recognizes that old spills which are discovered after the effective date of this policy will require site-by-site evaluation because of the likelihood that the site involves more pervasive PCB contamination than fresh spills and because old spills are generally more difficult to clean up than fresh spills (particularly on porous surfaces such as concrete). Therefore, spills which occurred before the effective date of this policy are to be decontaminated to requirements established at the discretion of EPA, usually through its regional offices.
+
+(2) EPA expects most PCB spills subject to the TSCA PCB regulations to conform to the typical spill situations considered in developing this policy. This policy does, however, exclude from application of the final numerical cleanup standards certain spill situations from its scope: Spills directly into surface waters, drinking water, sewers, grazing lands, and vegetable gardens. These types of spills are subject to final cleanup standards to be established at the discretion of the regional office. These spills are, however, subject to the immediate notification requirements and measures to minimize further environmental contamination.
+
+(3) For all other spills, EPA generally expects the decontamination standards of this policy to apply. Occasionally, some small percentage of spills covered by this policy may warrant more stringent cleanup requirements because of additional routes of exposure or significantly greater exposures than those assumed in developing the final cleanup standards of this policy. While the EPA regional offices have the authority to require additional cleanup in these circumstances, the Regional Administrator must first make a finding based on the specific facts of a spill that additional cleanup must occur to prevent unreasonable risk. In addition, before a final decision is made to require additional cleanup, the Regional Administrator must notify the Director, Office of Resource Conservation and Recovery of his/her finding and the basis for the finding.
+
+(4) There may also be exceptional spill situations that requires less stringent cleanup or a different approach to cleanup because of factors associated with the particular spill. These factors may mitigate expected exposures and risks or make cleanup to these requirements impracticable.
+
+(b) *Spills that may require more stringent cleanup levels.* For spills within the scope of this policy, EPA generally retains, under § 761.135, the authority to require additional cleanup upon finding that, despite good faith efforts by the responsible party, the numerical decontamination levels in the policy have not been met. In addition, EPA foresees the possibility of exceptional spill situations in which site-specific risk factors may warrant additional cleanup to more stringent numerical decontamination levels than are required by the policy. In these situations, the Regional Administrator has the authority to require cleanup to levels lower than those included in this policy upon finding that further cleanup must occur to prevent unreasonable risk. The Regional Administrator will consult with the Director, Office of Resource Conservation and Recovery, prior to making such a finding.
+
+(1) For example, site-specific characteristics, such as short depth to ground water, type of soil, or the presence of a shallow well, may pose exceptionally high potential for ground water contamination by PCBs remaining after cleanup to the standards specified in this policy. Spills that pose such a high degree of potential for ground water contamination have not been excluded from the policy under paragraph (d) of this section because the presence of such potential may not be readily apparent. EPA feels that automatically excluding such spills from the scope of the policy could result in the delay of cleanup—a particularly undesirable outcome if potential ground water contamination is, in fact, a significant concern.
+
+(2) In those situations, the Regional Administrator may require cleanup in addition to that required under § 761.125(b) and (c). However, the Regional Administrator must first make a finding, based on the specific facts of a spill, that additional cleanup is necessary to prevent unreasonable risk. In addition, before making a final decision on additional cleanup, the Regional Administrator must notify the Director, Office of Resource Conservation and Recovery of their finding and the basis for the finding.
+
+(c) *Flexibility to allow less stringent or alternative requirements.* (1) EPA retains the flexibility to allow less stringent or alternative decontamination measures based upon site-specific considerations. EPA will exercise this flexibility if the responsible party demonstrates that cleanup to the numerical decontamination levels is clearly unwarranted because of risk-mitigating factors, that compliance with the procedural requirements or numerical standards in the policy is impracticable at a particular site, or that site-specific characteristics make the costs of cleanup prohibitive. The Regional Administrator will notify the Director, Office of Resource Conservation and Recovery of any decision and the basis for the decision to allow less stringent cleanup. The purpose of this notification is to enable the Director, Office of Resource Conservation and Recovery to ensure consistency of spill cleanup standards under special circumstances across the regions.
+
+(2) In emergency situations, as defined in § 761.123, the following provisions of this Policy are hereby modified as follows:
+
+(i) For actions taken directly in response to spills caused by emergency situations, responsible parties may use the as-found concentrations in the spill materials when determining whether to manage the spill under §§ 761.125(b) or (c) of this Policy when it is not possible to readily determine the spill source concentration at a site.
+
+(ii) For spills caused by emergency situations, the applicable notifications in § 761.125(a)(1) must be submitted as soon as possible, but no later than 48 hours after the adverse conditions that prevented communication have ended.
+
+(d) *Excluded spills.* (1) Although the spill situations in paragraphs (d)(2) (i) through (vi) of this section are excluded from the automatic application of final decontamination standards under § 761.125 (b) and (c), the general requirements under § 761.125(a) do apply to these spills. In addition, all of these excluded situations require practicable, immediate actions to contain the area of contamination. While these situations may not always require more stringent cleanup measures, the Agency is excluding these scenarios because they will always involve significant factors that may not be adequately addressed by cleanup standards based upon typical spill characteristics.
+
+(2) For the spill situations in paragraphs (d)(2)(i) through (vi) of this section, the responsible party shall decontaminate the spill in accordance with site-specific requirements established by the EPA regional offices.
+
+(i) Spills that result in the direct contamination of surface waters (surface waters include, but are not limited to, “waters of the United States” as defined in part 122 of this chapter, ponds, lagoons, wetlands, and storage reservoirs).
+
+(ii) Spills that result in the direct contamination of sewers or sewage treatment systems.
+
+(iii) Spills that result in the direct contamination of any private or public drinking water sources or distribution systems.
+
+(iv) Spills which migrate to and contaminate surface waters, sewers, or drinking water supplies before cleanup has been completed in accordance with this policy.
+
+(v) Spills that contaminate animal grazing lands.
+
+(vi) Spills that contaminate vegetable gradens.
+
+(e) *Relationship of policy to other statutes.* (1) This policy does not affect cleanup standards or requirements for the reporting of spills imposed, or to be imposed, under other Federal statutory authorities, including but not limited to, the Clean Water Act (CWA), the Resource Conservation and Recovery Act (RCRA), and the Comprehensive Environmental Response Compensation and Liability Act of 1980 (CERCLA) as amended by the Superfund Amendments and Reauthorization Act (SARA). Where more than one requirement applies, the stricter standard must be met.
+
+(2) The Agency recognizes that the existence of this policy will inevitably result in attempts to apply the standards to situations within the scope of other statutory authorities. However, other statutes require the Agency to consider different or alternative factors in determining appropriate corrective actions. In addition, the types and magnitudes of exposures associated with sites requiring corrective action under other statutes often involve important differences from those expected of the typical, electrical equipment-type spills considered in developing this policy. Thus, cleanups under other statutes, such as RCRA corrective actions or remedial and response actions under SARA may result in different outcomes.
+
+[52 FR 10705, Apr. 2, 1987, as amended at 72 FR 57241, Oct. 9, 2007; 74 FR 30234, June 25, 2009; 88 FR 59692, Aug. 29, 2023]

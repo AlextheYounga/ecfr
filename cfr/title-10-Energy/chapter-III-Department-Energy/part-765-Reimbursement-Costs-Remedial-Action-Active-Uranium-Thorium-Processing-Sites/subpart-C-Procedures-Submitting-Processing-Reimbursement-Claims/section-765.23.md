@@ -1,0 +1,5 @@
+##### § 765.23 Annual report. #####
+
+The Department shall prepare annually a report summarizing pertinent information concerning claims submitted in the previous calendar year, the status of the Department's review of the claims, determinations made regarding the claims, amounts paid for claims approved, and other relevant information concerning this reimbursement program. The report will be available to all interested parties upon written request to the Department's National Nuclear Security Administration Service Center, Office of Technical Services, Environmental Programs Department, P.O. Box 5400, Albuquerque, NM 87185-5400 and will also be available in the Department's Freedom of Information Reading room, 1000 Independence Avenue SW., Washington, DC.
+
+[59 FR 26726, May 23, 1994, as amended at 68 FR 32957, June 3, 2003]

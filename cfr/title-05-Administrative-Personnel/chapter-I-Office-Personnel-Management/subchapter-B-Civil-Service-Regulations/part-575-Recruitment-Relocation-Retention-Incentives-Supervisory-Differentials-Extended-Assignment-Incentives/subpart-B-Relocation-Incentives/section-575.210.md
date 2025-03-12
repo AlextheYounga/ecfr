@@ -1,0 +1,19 @@
+##### § 575.210 Service agreement requirements. #####
+
+(a) Before paying a relocation incentive, an agency must require the employee to sign a written service agreement to complete a specified period of employment with the agency (or successor agency in the event of a transfer of function) at the new duty station. An authorized agency official must establish the criteria for determining the length of a service period. The service period may not exceed 4 years.
+
+(b)(1) The service agreement must include the commencement and termination dates of the required service period. Except as provided under paragraphs (b)(2) and (b)(3) of this section, the required service period must begin upon the commencement of service at the new duty station. The service period must terminate on the last day of a pay period.
+
+(2) If service at the new duty station does not begin on the first day of a pay period, the agency must delay the service period commencement date so that a required service period begins on the first day of the first pay period beginning on or after the commencement of service at the new duty station.
+
+(3) An agency may delay a service agreement commencement date until after the employee completes an initial period of formal training when continued employment in the position is contingent on successful completion of the formal training. The agency must make the determination to pay a relocation incentive before the employee enters on duty in the position, as required by § 575.208(a)(3). However, the service agreement must specify that if an employee does not successfully complete the training before the service period commences, the agency is not obligated to pay any portion of the relocation incentive to the employee.
+
+(c) The service agreement must specify the total amount of the incentive, the method of paying the incentive, and the timing and amount of each incentive payment, as established under § 575.209.
+
+(d) The service agreement must include the conditions under which the agency must terminate the service agreement (*i.e.,* if an employee is demoted or separated for cause, receives a rating of record of less than “Fully Successful” or equivalent, fails to maintain residency in the new geographic area for the duration of the service agreement, or otherwise fails to fulfill the terms of the service agreement) and the conditions under which the employee must repay a relocation incentive under § 575.211. An agency must define the limits of the new geographic area in the service agreement for the purpose of determining whether an employee maintains residency in that geographic area for the duration of the service agreement.
+
+(e) The service agreement must include the conditions under which the agency may terminate the service agreement before the employee completes the agreed-upon service period. The service agreement must specify the effect of the termination under § 575.211, including the conditions under which the agency will pay an additional relocation incentive payment for partially completed service under § 575.211(e) and (f).
+
+(f) The service agreement may include any other terms or conditions that, if violated, will result in termination of the service agreement. For example, the service agreement may specify the employee's work schedule, type of position, and the duties he or she is expected to perform. In addition, the service agreement may address the extent to which periods of time on detail, in a nonpay status, or in a paid leave status are creditable towards the completion of the service period.
+
+[70 FR 25743, May 13, 2005, as amended at 72 FR 67839, Dec. 3, 2007; 78 FR 49364, Aug. 14, 2013]

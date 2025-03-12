@@ -1,0 +1,3 @@
+##### § 80.1009 Principal operator and operating position. #####
+
+The principal operating position of the bridge-to-bridge station must be the vessel's navigational bridge or, in the case of dredges, its main control station. If the radiotelephone installation can be operated from any location other than the principal operating position, the principal operating position must be able to take full control of the installation.

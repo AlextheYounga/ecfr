@@ -1,0 +1,3 @@
+##### § 1208.65 Failure to timely request a hearing. #####
+
+If FHFA receives a debtor's written request for a hearing after 15 business days of the date FHFA mailed its notice of intent to seek garnishment, FHFA shall provide a hearing to the debtor. However, FHFA will not delay issuance of a withholding order unless it determines that the untimely filing of the request was caused by factors over which the debtor had no control, or FHFA receives information that FHFA believes justifies a delay or cancellation of the withholding order.

@@ -1,0 +1,5 @@
+##### § 211.31 Authority, purpose, and scope. #####
+
+(a) *Authority.* This subpart is issued by the Board of Governors of the Federal Reserve System (Board) under the authority of the Bank Holding Company Act of 1956 (BHC Act) (12 U.S.C. 1841 *et seq.*), the Bank Export Services Act (title II, Pub. L. 97-290, 96 Stat. 1235 (1982)) (BESA), and the Export Trading Company Act Amendments of 1988 (title III, Pub. L. 100-418, 102 Stat. 1384 (1988)) (ETC Act Amendments).
+
+(b) *Purpose and scope.* This subpart is in furtherance of the purposes of the BHC Act, the BESA, and the ETC Act Amendments, the latter two statutes being designed to increase U.S. exports by encouraging investments and participation in export trading companies by bank holding companies and the specified investors. The provisions of this subpart apply to eligible investors as defined in this subpart.

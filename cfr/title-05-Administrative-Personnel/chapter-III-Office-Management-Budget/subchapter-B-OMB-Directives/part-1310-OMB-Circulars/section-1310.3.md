@@ -1,0 +1,3 @@
+##### § 1310.3 Availability of circulars. #####
+
+Copies of individual circulars are available at OMB's Internet home page; you may access them at *http://www.whitehouse.gov/WH/EOP/omb.* Copies are also available from the EOP Publications Office, 725 17th Street NW., Room 2200, Washington, DC 20503; (202) 395-7332. Selected circulars are also available through fax-on-demand, by calling (202) 395-9068.

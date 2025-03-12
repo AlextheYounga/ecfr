@@ -1,0 +1,3 @@
+##### § 382.1 What is the purpose of this part? #####
+
+The purpose of this part is to carry out the Air Carrier Access Act of 1986, as amended. This rule prohibits both U.S. and foreign carriers from discriminating against passengers on the basis of disability; requires carriers to make aircraft, other facilities, and services accessible; and requires carriers to take steps to accommodate passengers with a disability.

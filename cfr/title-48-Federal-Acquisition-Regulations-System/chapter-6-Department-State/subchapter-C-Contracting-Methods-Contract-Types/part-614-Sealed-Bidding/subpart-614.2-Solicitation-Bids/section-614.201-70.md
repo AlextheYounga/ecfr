@@ -1,0 +1,3 @@
+##### 614.201-70 Use of English language. #####
+
+Use of English language solicitations and contracts is mandatory unless a deviation has been approved by the Procurement Executive in accordance with 601.470. If any part of a contract is not written in the English language, the contracting officer shall attach an accurate English language translation of such part to the original and each copy of the contract, unless the contracting officer determines such action is infeasible.

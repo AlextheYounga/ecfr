@@ -1,0 +1,3 @@
+##### 3401.601 General. #####
+
+(a) Contracting authority is vested in the Secretary. The Secretary has delegated this authority to the CAO. The Secretary has also delegated contracting authority to the SPE, giving the SPE broad authority to perform functions dealing with the management direction of the entire Department's procurement system, including implementation of its unique procurement policies, regulations, and standards. Limitations to the extent of this authority and successive delegations are set forth in the respective memorandums of delegations.

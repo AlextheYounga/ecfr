@@ -1,0 +1,5 @@
+##### § 1207.5 Contract and sales agreement retention. #####
+
+Copies of all sales contracts, posted price bulletins, etc., and copies of all agreements, other contracts, or other documents which are relevant to the valuation of production are to be maintained by the lessee and made available upon request during normal working hours to authorized Office of Natural Resources Revenue (ONRR), State or Indian representatives, BOEM, Bureau of Safety and Environmental Enforcement (BSEE) or BLM officials, auditors of the General Accounting Office, or other persons authorized to receive such documents, or shall be submitted to ONRR within a reasonable period of time, as determined by ONRR. Any oral sales arrangement negotiated by the lessee must be placed in written form and retained by the lessee. Records shall be retained in accordance with 30 CFR part 1212.
+
+[53 FR 1225, Jan. 15, 1988, as amended at 78 FR 30204, May 22, 2013]

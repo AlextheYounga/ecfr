@@ -1,0 +1,3 @@
+##### 970.0371-4 Gratuities. #####
+
+Employees of a management and operating contractor shall not, under circumstances which might reasonably be interpreted as an attempt to influence the recipients in the conduct of their duties, accept any gratuity or special favor from individuals or organizations with whom the contractor is doing business, or proposing to do business, in accomplishing the work under the contract. Reference is made to the requirements prescribed in 48 CFR 3.502.

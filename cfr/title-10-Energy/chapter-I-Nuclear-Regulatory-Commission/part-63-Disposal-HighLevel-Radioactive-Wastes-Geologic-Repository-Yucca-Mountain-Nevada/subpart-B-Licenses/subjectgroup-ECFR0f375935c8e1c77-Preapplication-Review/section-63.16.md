@@ -1,0 +1,19 @@
+##### § 63.16 Review of site characterization activities.2 #####
+
+2 In addition to the review of site characterization activities specified in this section, the Commission contemplates an ongoing review of other information on site investigation and site characterization, to allow early identification of potential licensing issues for timely resolution at the staff level.
+
+(a) If DOE's planned site characterization activities include onsite testing with radioactive material, including radioactive tracers, the Commission shall determine whether the proposed use of such radioactive material is necessary to provide data for the preparation of the environmental reports required by law and for an application to be submitted under § 63.22.
+
+(b) During the conduct of site characterization activities at the Yucca Mountain site, DOE shall report the nature and extent of the activities, the information that has been developed, and the progress of waste form and waste package research and development to the Commission not less than once every 6 months. The semiannual reports must include the results of site characterization studies, the identification of new issues, plans for additional studies to resolve new issues, elimination of planned studies no longer necessary, identification of decision points reached, and modifications to schedules, where appropriate. DOE shall also report its progress in developing the design of a geologic repository operations area appropriate for the area being characterized, noting when key design parameters or features that depend on the results of site characterization will be established. Other topics related to site characterization must also be covered if requested by the Director.
+
+(c) During the conduct of site characterization activities at the Yucca Mountain site, NRC staff shall be permitted to visit and inspect the locations at which such activities are carried out and to observe excavations, borings, and in situ tests, as they are done.
+
+(d) The Director may comment at any time in writing to DOE, expressing current views on any aspect of site characterization or performance assessment at the Yucca Mountain site. In particular, the Director shall comment whenever he or she determines that there are substantial grounds for making recommendations or stating objections to DOE's site characterization program. The Director shall invite public comment on any comments that the Director makes to DOE on review of the DOE semiannual reports or on any other comments that the Director makes to DOE on site characterization and performance assessment by placing the comments in a public forum to allow the public to comment on them after the Director's comments are sent to DOE.
+
+(e) The Director shall transmit copies of all comments to DOE made by the Director under this section to the Governor and legislature of the State of Nevada and to the governing body of any affected Indian Tribe.
+
+(f) The NRC shall place all correspondence between DOE and NRC resulting from the requirements of this section, including the reports described in paragraph (b) of this section, in the Publicly Available Records System (PARS) Library.
+
+(g) The activities described in paragraphs (a) through (f) of this section constitute informal conference between a prospective applicant and the NRC staff, as described in § 2.101(a)(1) of this chapter, and are not part of a proceeding under the Atomic Energy Act of 1954, as amended. Accordingly, the issuance of the Director's comments made under this section does not constitute a commitment to issue any authorization or license, or in any way affect the authority of the Commission, Atomic Safety and Licensing Board, other presiding officers, or the Director, in any such proceeding.
+
+[66 FR 55792, Nov. 2, 2001, as amended at 68 FR 58815, Oct. 10, 2003]

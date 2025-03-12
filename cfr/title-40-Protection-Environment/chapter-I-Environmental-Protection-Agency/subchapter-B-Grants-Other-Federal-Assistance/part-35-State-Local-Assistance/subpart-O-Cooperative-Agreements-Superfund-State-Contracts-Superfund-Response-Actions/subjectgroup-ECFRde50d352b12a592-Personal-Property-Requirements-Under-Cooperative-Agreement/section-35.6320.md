@@ -1,0 +1,5 @@
+##### § 35.6320 Usage rate. #####
+
+(a) *Usage rate approval.* To charge EPA a fee for use of equipment purchased with recipient funds or to allocate the cost of equipment by site, activity, and operable unit, as applicable, the recipient must apply a usage rate. The recipient must submit documentation of the usage rate computation to EPA. The EPA-approved usage rate must be included in the Cooperative Agreement before the recipient incurs these equipment costs.
+
+(b) *Usage rate application.* The recipient must record the use of the equipment by site, activity, and operable unit, as applicable, and must apply the usage rate to calculate equipment charges by site, activity, and operable unit, as applicable. For Core Program and pre-remedial activities, the recipient is not required to apply a usage rate.

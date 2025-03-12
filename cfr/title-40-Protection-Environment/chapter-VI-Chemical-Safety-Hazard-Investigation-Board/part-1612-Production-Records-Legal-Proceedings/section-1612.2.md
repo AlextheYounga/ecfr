@@ -1,0 +1,3 @@
+##### § 1612.2 Applicability. #####
+
+This part applies to requests to produce material concerning information acquired in the course of performing official duties or because of the employee's official status. Specifically, this part applies to requests for: material contained in CSB files; and any information or material acquired by an employee of the CSB in the performance of official duties or as a result of the employee's status. Two sets of procedures are here established, dependent on the type of material sought. Rules governing requests for employee testimony, as opposed to material production, can be found at part 1611 of this chapter. Document production shall not accompany employee testimony, absent compliance with this part and General Counsel approval.

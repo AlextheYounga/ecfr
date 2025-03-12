@@ -1,0 +1,3 @@
+##### § 1750.1 General. #####
+
+The regulation contained in this subpart A sets forth the methodology for computing the minimum capital requirement for each Enterprise. The board of directors of each Enterprise is responsible for ensuring that the Enterprise maintains capital at a level that is sufficient to ensure the continued financial viability of the Enterprise and that equals or exceeds the minimum capital requirement contained in this subpart A.

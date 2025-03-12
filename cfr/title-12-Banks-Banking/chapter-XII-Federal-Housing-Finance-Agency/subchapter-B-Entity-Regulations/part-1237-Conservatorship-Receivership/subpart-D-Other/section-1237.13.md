@@ -1,0 +1,5 @@
+##### § 1237.13 Payment of Securities Litigation Claims while in conservatorship. #####
+
+(a) *Payment of Securities Litigation Claims while in conservatorship.* The Agency, as conservator, will not pay a Securities Litigation Claim against a regulated entity, except to the extent the Director determines is in the interest of the conservatorship.
+
+(b) *Claims against limited-life regulated entities.* A limited-life regulated entity shall not assume, acquire, or succeed to any obligation that a regulated entity for which a receiver has been appointed may have to any shareholder of the regulated entity that arises as a result of the status of that person as a shareholder of the regulated entity, including any Securities Litigation Claim. No creditor of the regulated entity shall have a claim against a limited-life regulated entity unless the receiver has transferred that liability to the limited-life regulated entity. The charter of the regulated entity, or of the limited-life regulated entity, is not an asset against which any claim can be made by any creditor or shareholder of the regulated entity.

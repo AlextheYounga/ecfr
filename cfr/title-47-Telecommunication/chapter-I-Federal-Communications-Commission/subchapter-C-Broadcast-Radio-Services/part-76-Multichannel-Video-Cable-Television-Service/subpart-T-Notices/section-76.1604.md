@@ -1,0 +1,3 @@
+##### § 76.1604 Charges for customer service changes. #####
+
+If a cable operator establishes a higher charge for changes effected solely by coded entry on a computer terminal or by other similarly simple methods, as provided in § 76.980(d), the cable system must notify all subscribers in writing that they may be subject to such a charge for changing service tiers more than the specified number of times in any 12 month period.

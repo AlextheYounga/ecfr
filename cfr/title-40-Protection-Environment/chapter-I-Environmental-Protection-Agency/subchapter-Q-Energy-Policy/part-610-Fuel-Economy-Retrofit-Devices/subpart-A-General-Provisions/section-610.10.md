@@ -1,0 +1,7 @@
+##### § 610.10 Program purpose. #####
+
+(a) The purpose of an evaluation program initiated under these rules is to determine, in accordance with standardized procedures, the performance of various retrofit devices applicable to automobiles for which fuel economy improvement claims are made, and to compile and disseminate the results of the evaluation. It should be stressed that the role of this program will be the generation, analysis and dissemination of technical data, and not the approval or certification of retrofit devices.
+
+(1) Through engineering or statistical analysis of data from vehicle tests, the evaluation program will determine the effects on fuel economy, exhaust emissions, durability and driveability of the applicable vehicles due to the installation or use of the devices. The evaluation program will also include additional procedures, whenever determined by the Administrator as necessary, to evaluate the durability of the devices themselves, their effects on vehicle durability or other effects only evident over the course of extended mileage accumulation.
+
+(b) Data generated in an evaluation program by the Administrator of the Environmental Protection Agency (EPA) are public information and will be published in the Federal Register and elsewhere for use by the Federal Trade Commission and the public. The results of any evaluation conducted by the Administrator may be used in any subsequent investigation or enforcement action in the event that a device is marketed in violation of Federal or state law.

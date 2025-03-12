@@ -1,0 +1,3 @@
+##### § 347.110 Affiliate holdings. #####
+
+References in §§ 347.107, 347.108, and 347.109 to equity interests of foreign organizations held by an affiliate of a bank include equity interests held in connection with an underwriting or for distribution or dealing by an affiliate permitted to do so by §§ 362.8 or 362.18 of this chapter or section 4(c)(8) of the Bank Holding Company Act (12 U.S.C. 1843(c)(8)).

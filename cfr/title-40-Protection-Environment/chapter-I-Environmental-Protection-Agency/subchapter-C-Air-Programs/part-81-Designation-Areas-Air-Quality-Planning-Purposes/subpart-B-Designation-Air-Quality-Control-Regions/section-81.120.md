@@ -1,0 +1,5 @@
+##### § 81.120 Middle Tennessee Intrastate Air Quality Control Region. #####
+
+The Middle Tennessee Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Tennessee: Bedford County, Cannon County, Cheatham County, Clay County, Davidson County, DeKalb County, Dickson County, Giles County, Hickman County, Houston County, Humphreys County, Jackson County, Lawrence County, Lewis County, Lincoln County, Macon County, Marshall County, Maury County, Montgomery County, Moore County, Perry County, Robertson County, Rutherford County, Smith County, Stewart County, Sumner County, Trousdale County, Wayne County, Williamson County, Wilson County.

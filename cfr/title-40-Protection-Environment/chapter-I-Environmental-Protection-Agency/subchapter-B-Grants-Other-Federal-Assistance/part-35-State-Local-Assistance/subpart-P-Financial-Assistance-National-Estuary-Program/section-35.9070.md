@@ -1,0 +1,3 @@
+##### § 35.9070 National program assistance agreements. #####
+
+The Assistant Administrator for Water may approve the award of NEP funds for work that has broad applicability to estuaries of national significance. These awards shall be deemed to be consistent with Annual Work Plans and Five-Year State/EPA Conference Agreements approved by individual management conferences. The amount of a national program award shall not exceed 75 percent of the approved work program costs provided the non-Federal share of such costs is provided from non-Federal sources.

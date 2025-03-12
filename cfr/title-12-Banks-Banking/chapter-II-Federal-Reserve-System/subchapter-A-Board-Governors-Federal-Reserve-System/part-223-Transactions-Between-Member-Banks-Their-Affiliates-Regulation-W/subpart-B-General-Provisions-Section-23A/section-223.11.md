@@ -1,0 +1,3 @@
+##### § 223.11 What is the maximum amount of covered transactions that a member bank may enter into with any single affiliate? #####
+
+A member bank may not engage in a covered transaction with an affiliate (other than a financial subsidiary of the member bank) if the aggregate amount of the member bank's covered transactions with such affiliate would exceed 10 percent of the capital stock and surplus of the member bank.

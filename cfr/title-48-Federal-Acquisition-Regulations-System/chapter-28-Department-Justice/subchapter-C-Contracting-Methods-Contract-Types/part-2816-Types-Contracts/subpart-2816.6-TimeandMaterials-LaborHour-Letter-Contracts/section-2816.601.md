@@ -1,0 +1,3 @@
+##### 2816.601 Time-and-material contracts. #####
+
+In addition to the limitations listed in FAR 16.601(c), a time-and-materials contract may be used only after the contracting officer receives written approval from the chief of the contracting office. When the contracting officer is also the chief of the contracting office, the approval to use a time-and-materials type contract will be made at a level above the contracting officer.

@@ -1,0 +1,3 @@
+##### § 75.1716-1 Operations under water; notification by operator. #####
+
+An operator planning to mine coal from coal mines opened after March 30, 1970, or from working sections in mines opened prior to such date, and in such manner that mining operations will be conducted, or tunnels constructed, under any river, stream, lake, or other body of water, shall give notice to the Coal Mine Safety District Manager in the district in which the mine is located prior to the commencement of such mining operations.

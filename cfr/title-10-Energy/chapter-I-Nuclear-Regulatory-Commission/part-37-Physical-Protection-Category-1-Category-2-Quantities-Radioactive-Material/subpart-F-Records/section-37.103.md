@@ -1,0 +1,3 @@
+##### § 37.103 Record retention. #####
+
+Licensees shall maintain the records that are required by the regulations in this part for the period specified by the appropriate regulation. If a retention period is not otherwise specified, these records must be retained until the Commission terminates the facility's license. All records related to this part may be destroyed upon Commission termination of the facility license.

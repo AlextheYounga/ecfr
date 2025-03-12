@@ -1,0 +1,3 @@
+##### § 185.3 Acceptance of service on behalf of the Secretary of Transportation or the Administrator. #####
+
+Legal process or pleadings in any legal proceeding concerning the FAA may be served, at the option of the server, on the Chief Counsel, Deputy Chief Counsel, Assistant Chief Counsel, Litigation Division, of the FAA, or any other FAA official designated by the Chief Counsel, with the same effect as if served upon the Secretary of Transportation or the Administrator. The official accepting the service under this section acknowledges the service and takes further action as appropriate.

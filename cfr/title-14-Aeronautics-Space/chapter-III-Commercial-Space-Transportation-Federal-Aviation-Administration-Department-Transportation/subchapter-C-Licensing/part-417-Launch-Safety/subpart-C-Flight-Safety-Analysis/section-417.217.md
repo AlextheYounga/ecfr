@@ -1,0 +1,3 @@
+##### § 417.217 Overflight gate analysis. #####
+
+For a launch that involves flight over a populated or other protected area, the flight safety analysis must include an overflight gate analysis. The analysis must establish the portion of a flight safety limit, a gate, through which a normally performing launch vehicle's tracking icon will be allowed to proceed. A tracking icon must enable the flight safety crew to determine whether the launch vehicle's flight is in compliance with the flight safety rules established under § 417.113. When establishing that portion of a flight safety limit, the analysis must demonstrate that the launch vehicle flight satisfies the flight safety requirements of § 417.107.

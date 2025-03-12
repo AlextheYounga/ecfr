@@ -1,0 +1,3 @@
+##### § 9301.2 Authority and functions. #####
+
+Section 1229 of the National Defense Authorization Act for Fiscal Year 2008, Public Law 110-181, established the Special Inspector General for Afghanistan Reconstruction (SIGAR). SIGAR's mission under Sections 1229 and 842 of Public Law 110-181, is to provide independent oversight of the treatment, handling, and expenditure of funds appropriated or otherwise made available for the reconstruction of Afghanistan; detect and deter fraud, waste, and abuse of U.S. funds; and promote actions to increase program economy, efficiency, and effectiveness.

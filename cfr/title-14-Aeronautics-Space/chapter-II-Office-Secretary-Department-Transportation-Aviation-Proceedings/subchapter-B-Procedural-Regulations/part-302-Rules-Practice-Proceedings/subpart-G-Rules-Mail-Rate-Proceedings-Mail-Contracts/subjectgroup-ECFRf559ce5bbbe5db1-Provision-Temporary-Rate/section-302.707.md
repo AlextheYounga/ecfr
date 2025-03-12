@@ -1,0 +1,3 @@
+##### § 302.707 Procedure for fixing temporary mail rates. #####
+
+At any time during the pendency of a proceeding for the determination of final mail rates, the DOT decisionmaker, upon his or her own initiative, or on petition by the air carrier whose rates are in issue or by the U.S. Postal Service, may fix temporary rates of compensation for the transportation of mail subject to downward or upward adjustment upon the determination of final mail rates.

@@ -1,0 +1,5 @@
+##### § 1033.905 Symbols, acronyms, and abbreviations. #####
+
+The following symbols, acronyms, and abbreviations apply to this part:
+
+ABT averaging, banking, and trading.AECD auxiliary emission control device.AESS automatic engine stop/startAF adjustment factor (*see* § 1033.530).CFR Code of Federal Regulations.CH4 methane.CO carbon monoxide.CO2 carbon dioxide.EPA Environmental Protection Agency.FEL Family Emission Limit.g/bhp-hr grams per brake horsepower-hour.HC hydrocarbon.hp horsepower.LPG liquefied petroleum gas.LSD low sulfur diesel.MW megawatt.N2O nitrous oxide.NIST National Institute of Standards and Technology.NMHC nonmethane hydrocarbons.NOX oxides of nitrogen.PM particulate matter.rpm revolutions per minute.SAE Society of Automotive Engineers.SCR selective catalytic reduction.SEA Selective Enforcement Audit.THC total hydrocarbon.THCE total hydrocarbon equivalent.UL useful life.ULSD ultra low sulfur diesel.U.S. United States.U.S.C. United States Code.[73 FR 37197, June 30, 2008, as amended at 74 FR 56508, Oct. 30, 2008; 75 FR 22987, Apr. 30, 2010]

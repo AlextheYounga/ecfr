@@ -1,0 +1,5 @@
+##### 970.1707-1 Scope. #####
+
+Pursuant to Section 33 of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2053), DOE is authorized to make its facilities available to other Federal and non-Federal entities (sponsors) for the conduct of certain research and development and training activities. Pursuant to the Economy Act of 1932, as amended (31 U.S.C. 1535), or other applicable authority, other Federal entities may request DOE to conduct work. DOE has implemented these and other statutory authorities and requirements in its Strategic Partnership Projects Program. DOE's internal procedures governing the Strategic Partnership Projects Program are described in DOE Order 481.1C, DOE Order 481.1C, Strategic Partnership Projects (Formerly Known as Work for Others (Non-Department of Energy Funded Work)), or successor version.
+
+[69 FR 75003, Dec. 15, 2004, as amended at 80 FR 15519, Mar. 24, 2015]

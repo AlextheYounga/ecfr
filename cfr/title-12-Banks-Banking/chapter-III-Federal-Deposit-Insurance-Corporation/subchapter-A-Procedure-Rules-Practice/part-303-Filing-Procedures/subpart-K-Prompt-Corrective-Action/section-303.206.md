@@ -1,0 +1,5 @@
+##### § 303.206 Application for payment of principal or interest on subordinated debt. #####
+
+(a) *Scope.* Any critically undercapitalized insured depository institution shall submit an application to pay principal or interest on subordinated debt.
+
+(b) *Content of filing.* Applications shall describe the proposed payment and provide an explanation of action taken under section 38(h)(3)(A)(ii) of the FDI Act (action other than receivership or conservatorship). The application also shall explain how such payments would further the purposes of section 38 of the FDI Act (12 U.S.C. 1831*o*). Existing approvals pursuant to requests filed under section 18(i)(1) of the FDI Act (12 U.S.C. 1828(i)(1)) (capital stock reductions or retirements) shall not be deemed to be the permission needed pursuant to section 38.

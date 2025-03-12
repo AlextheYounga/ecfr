@@ -1,0 +1,3 @@
+##### § 246.200-4 Recommended procedures: Levels of separation. #####
+
+A two-level separation is recommended for most facilities. This separation should consist of (a) high-grade wastepaper and (b) all other waste. Facilities that produce large enough quantities of waste computer paper and cards to make their separation into a separate category cost effective may choose to implement three levels of separation: (1) Computer papers, (2) other high-grade papers, (3) all other wastes.

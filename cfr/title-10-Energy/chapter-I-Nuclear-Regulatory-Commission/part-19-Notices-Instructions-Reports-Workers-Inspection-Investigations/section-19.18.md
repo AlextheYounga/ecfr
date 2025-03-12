@@ -1,0 +1,13 @@
+##### § 19.18 Sequestration of witnesses and exclusion of counsel in interviews conducted under subpoena. #####
+
+(a) All witnesses compelled by subpoena to submit to agency interviews shall be sequestered unless the official conducting the interviews permits otherwise.
+
+(b) Any witness compelled by subpoena to appear at an interview during an agency inquiry may be accompanied, represented, and advised by counsel of his or her choice. However, when the agency official conducting the inquiry determines, after consultation with the Office of the General Counsel, that the agency has concrete evidence that the presence of an attorney representing multiple interests would obstruct and impede the investigation or inspection, the agency official may prohibit that counsel from being present during the interview.
+
+(c) The interviewing official is to provide a witness whose counsel has been excluded under paragraph (b) of this section and the witness's counsel a written statement of the reasons supporting the decision to exclude. This statement, which must be provided no later than five working days after exclusion, must explain the basis for the counsel's exclusion. This statement must also advise the witness of the witness' right to appeal the exclusion decision and obtain an automatic stay of the effectiveness of the subpoena by filing a motion to quash the subpoena with the Commission within five days of receipt of this written statement.
+
+(d) Within five days after receipt of the written notification required in paragraph (c) of this section, a witness whose counsel has been excluded may appeal the exclusion decision by filing a motion to quash the subpoena with the Commission. The filing of the motion to quash will stay the effectiveness of the subpoena pending the Commission's decision on the motion.
+
+(e) If a witness' counsel is excluded under paragraph (b) of this section, the interview may, at the witness' request, either proceed without counsel or be delayed for a reasonable period of time to permit the retention of new counsel. The interview may also be rescheduled to a subsequent date established by the NRC, although the interview shall not be rescheduled by the NRC to a date that precedes the expiration of the time provided under § 19.18(d) for appeal of the exclusion of counsel, unless the witness consents to an earlier date.
+
+[55 FR 247, Jan. 4, 1990, as amended at 56 FR 65948, Dec. 19, 1991; 57 FR 61785, Dec. 29, 1992]

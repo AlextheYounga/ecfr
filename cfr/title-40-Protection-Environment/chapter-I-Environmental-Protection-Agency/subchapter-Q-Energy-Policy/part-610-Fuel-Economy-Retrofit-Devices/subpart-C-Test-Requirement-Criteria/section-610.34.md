@@ -1,0 +1,7 @@
+##### § 610.34 Special test conditions. #####
+
+If the Administrator determines that a device may have potentially detrimental effects on the operation of a vehicle when operated in ambient conditions outside the range specified in 40 CFR part 86, or if the device manufacturer claims a fuel economy improvement in such conditions, additional tests may be performed. These tests will determine whether the device will significantly limit the operational usefulness of the vehicle and will assess the claimed fuel economy benefit.
+
+(a) *Extreme temperatures.* As required by the Administrator, tests will be conducted at extreme ambient temperature conditions to determine the effect due to devices (e.g. engine heaters) for which fuel economy improvements at extreme temperatures are made. For other devices it may be necessary to determine whether the cold starting and driving capability of device-equipped vehicles is affected sufficiently to make them dangerous, or whether fuel economy characteristics at extreme temperatures are significantly worse than before the device was installed.
+
+(b) *High altitude.* Devices for which specific claims of improved fuel economy at high altitude are made may be tested using the procedures in subpart D, at altitudes above 4000 feet. For other devices, testing at high altitude may be necessary for determining whether a device will make the vehicle less useful or efficient when operated at various altitudes. The Administrator will determine when such testing is required.

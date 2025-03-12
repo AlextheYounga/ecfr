@@ -1,0 +1,5 @@
+##### § 98.170 Definition of the source category. #####
+
+The iron and steel production source category includes facilities with any of the following processes: taconite iron ore processing, integrated iron and steel manufacturing, cokemaking not collocated with an integrated iron and steel manufacturing process, direct reduction furnaces not collocated with an integrated iron and steel manufacturing process, and electric arc furnace (EAF) steelmaking not collocated with an integrated iron and steel manufacturing process. Integrated iron and steel manufacturing means the production of steel from iron ore or iron ore pellets. At a minimum, an integrated iron and steel manufacturing process has a basic oxygen furnace for refining molten iron into steel. Each cokemaking process and EAF process located at a facility with an integrated iron and steel manufacturing process is part of the integrated iron and steel manufacturing facility.
+
+[74 FR 56374, Oct. 30, 2009, as amended at 78 FR 71955, Nov. 29, 2013]

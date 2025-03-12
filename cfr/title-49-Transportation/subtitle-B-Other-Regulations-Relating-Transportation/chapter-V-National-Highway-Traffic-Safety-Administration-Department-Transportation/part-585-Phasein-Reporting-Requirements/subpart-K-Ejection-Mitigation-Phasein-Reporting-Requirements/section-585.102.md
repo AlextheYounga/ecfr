@@ -1,0 +1,3 @@
+##### § 585.102 Applicability. #####
+
+This part applies to manufacturers of passenger cars, and of trucks, buses and multipurpose passenger vehicles with a GVWR of 4,536 kg (10,000 lb) or less. However, this subpart does not apply to vehicles excluded by Standard No. 226 (49 CFR 571.226) from the requirements of that standard. This subpart does not apply to manufacturers whose production consists exclusively of vehicles manufactured in two or more stages, to manufacturers whose production of motor vehicles for the United States market is less than 5,000 vehicles in a production year, and to limited line manufacturers.

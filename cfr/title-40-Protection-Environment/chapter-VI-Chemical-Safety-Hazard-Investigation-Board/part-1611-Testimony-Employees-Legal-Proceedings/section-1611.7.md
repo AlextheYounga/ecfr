@@ -1,0 +1,3 @@
+##### § 1611.7 Testimony by current CSB employees regarding prior activity. #####
+
+Any testimony regarding any incident within the CSB's jurisdiction, or any expert testimony arising from employment prior to CSB service is prohibited absent approval by the General Counsel. Approval shall only be given if testimony will not violate § 1611.1 and § 1611.3, and is subject to whatever conditions the General Counsel finds necessary to promote the purposes of this part as set forth in § 1611.1 and § 1611.3.

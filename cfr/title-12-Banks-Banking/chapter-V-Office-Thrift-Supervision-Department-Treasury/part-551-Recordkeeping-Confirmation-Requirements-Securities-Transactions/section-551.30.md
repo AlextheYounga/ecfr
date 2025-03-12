@@ -1,0 +1,3 @@
+##### § 551.30 What requirements apply to all transactions? #####
+
+You must effect all transactions, including transactions excepted under § 551.20, in a safe and sound manner. You must maintain effective systems of records and controls regarding your customers' securities transactions. These systems must clearly and accurately reflect all appropriate information and provide an adequate basis for an audit.

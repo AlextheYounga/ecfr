@@ -1,0 +1,3 @@
+##### § 741.213 Administrative actions, adjudicative hearings, rules of practice and procedure. #####
+
+Any credit union which is insured pursuant to title II of the Act shall adhere to the applicable rules of practice and procedures for administrative actions and adjudicative hearings prescribed by part 747 of this chapter. Subpart E of part 747 of this chapter applies only to federal credit unions.

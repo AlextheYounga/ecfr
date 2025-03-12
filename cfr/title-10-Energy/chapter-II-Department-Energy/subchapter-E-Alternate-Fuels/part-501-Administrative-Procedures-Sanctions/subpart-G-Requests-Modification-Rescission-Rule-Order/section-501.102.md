@@ -1,0 +1,11 @@
+##### § 501.102 OFE evaluation of the record, decision and order for modification or rescission of a rule or order. #####
+
+(a) OFE will consider the entire administrative record in its evaluation of the decision and order for modification or rescission of a rule or order. OFE may investigate and corroborate any statement in the petition or related documents and may utilize in its evaluation any relevant facts obtained by its investigations. OFE may solicit or accept submissions from third persons relevant to any request under this subpart and all interested persons will be afforded an opportunity to respond to these submissions. OFE may, in its discretion and on its own initiative, convene a conference, if it considers that a conference will advance its evaluation of the request.
+
+(b) *Criteria.* Except where modification or rescission of a rule or order is initiated by OFE, OFE's decision to rescind or modify a rule or order will be based on a determination that there are significantly changed circumstances with respect to the applicability of a particular prohibition or exemption to the requester. OFE believes that there may be “significantly changed circumstances”, if:
+
+(1) Significant material facts are subsequently discovered which were not known and could not have been known to the petitioner or to OFE at the time of the original proceeding;
+
+(2) A law, regulation, interpretation, ruling, order or decision on appeal that was in effect at the time of the proceeding upon which the rule or order is based and which, if it had been made known to OFE, would have been relevant to the proceeding and would have substantially altered the outcome is subsequently discovered; or
+
+(3) There has been a substantial change in the facts or circumstances upon which an outstanding and continuing order was based, which change occurred during the interval between issuance of the order and the date of filing of the request under this subpart, and was caused by force or circumstances beyond the requester's control.

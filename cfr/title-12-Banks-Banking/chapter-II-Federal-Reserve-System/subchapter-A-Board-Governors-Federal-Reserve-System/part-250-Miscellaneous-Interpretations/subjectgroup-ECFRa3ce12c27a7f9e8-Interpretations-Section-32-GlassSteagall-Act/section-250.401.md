@@ -1,0 +1,7 @@
+##### § 250.401 Director serving member bank and closed-end investment company being organized. #####
+
+(a) The Board has previously expressed the opinion (§ 218.101) that section 32 of the Banking Act of 1933 (12 U.S.C. 78) is applicable to a director of a member bank serving as a director of an open-end investment company, because the more or less continued process of redemption of the stock issued by such company makes the issuance and sale of its stock essential to the maintenance of the company's size and to the continuance of operations, with the result that the issuance and sale of its stock constitutes one of the primary activities of such a company. The Board also stated that if the company had ceased to issue or offer any of its stock for sale, the company would not be engaged in the issuance or distribution of its stock and therefore the prohibitions of section 32 would not be applicable. Subsequently, the Board expressed the opinion that section 32 would not be applicable in the case of a closed-end investment company.
+
+(b) The Board has recently stated that it believed that a closed-end company which was in process of organization and was actively engaged in issuing and selling its shares was in the same position relative to section 32 as an open-end company, and that the section would be applicable while this activity continued.
+
+[25 FR 3464, Apr. 21, 1960. Redesignated at 61 FR 57289, Nov. 6, 1996]

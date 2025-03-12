@@ -1,0 +1,3 @@
+##### § 1.1925 Purpose. #####
+
+Sections 1.1925 through 1.1939 apply to individuals who are employees of the Commission and provides the standards to be followed by the Commission in implementing 5 U.S.C. 5514; sec. 8(1) of E.O. 11609 (3 CFR, 1971-1975 Comp., p.586); redesignated in sec. 2-1 of E.O. 12107 (3 CFR, 1978 Comp., p.264) to recover a debt from the pay account of a Commission employee. It also establishes procedural guidelines to recover debts when the employee's creditor and paying agencies are not the same.

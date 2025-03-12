@@ -1,0 +1,3 @@
+##### § 55.27 Documentation. #####
+
+The facility licensee shall document and maintain the results of medical qualifications data, test results, and each operator's or senior operator's medical history for the current license period and provide the documentation to the Commission upon request. The facility licensee shall retain this documentation while an individual performs the functions of an operator or senior operator.

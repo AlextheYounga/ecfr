@@ -1,0 +1,3 @@
+##### § 173.182 Barium azide—50 percent or more water wet. #####
+
+Barium azide—50 percent or more water wet, must be packed in wooden boxes (4C1, 4C2, 4D, or 4F) or fiber drums (1G) with inner glass packagings not over 0.5 kg (1.1 pounds) capacity each. Packagings must have rubber stoppers wire tied for securement. If transportation is to take place when and where freezing weather is possible, a suitable antifreeze solution must be used to prevent freezing. Each packaging must conform to the requirements of part 178 of this subchapter at the Packing Group I performance level.

@@ -1,0 +1,3 @@
+##### § 351.603 Actions subsequent to release from competitive level. #####
+
+An employee reached for release from a competitive level shall be offered assignment to another position in accordance with subpart G of this part. If the employee accepts, the employee shall be assigned to the position offered. If the employee has no assignment right or does not accept an offer under subpart G, the employee shall be furloughed or separated.

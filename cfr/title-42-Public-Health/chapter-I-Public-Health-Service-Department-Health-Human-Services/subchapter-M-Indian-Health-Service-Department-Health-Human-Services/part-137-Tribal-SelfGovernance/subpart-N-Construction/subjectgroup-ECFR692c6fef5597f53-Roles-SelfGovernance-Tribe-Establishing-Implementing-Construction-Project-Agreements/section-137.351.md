@@ -1,0 +1,3 @@
+##### § 137.351 Is a Self-Governance Tribe required to submit construction project progress and financial reports for construction project agreements? #####
+
+Yes, a Self-Governance Tribe must provide the Secretary with construction project progress and financial reports semiannually or, at the option of the Self-Governance Tribe, on a more frequent basis. Self-Governance Tribes are only required to submit the reports, as negotiated in the Construction Project Agreement, after funds have been transferred to the Self-Governance Tribe for a construction project. Construction project progress reports and financial reports are only required for active construction projects.

@@ -1,0 +1,13 @@
+##### § 890.1109 Premium payments. #####
+
+(a) Except as provided in paragraph (b) of this section, the enrollee must pay the full enrollment charge as determined under § 890.503(a), including both the Government contributions and employee withholdings, plus the administrative charge described under § 890.1113, for every pay period during which the enrollment continues, exclusive of the 31-day temporary extension of coverage for conversion provided under § 890.401 of this part.
+
+(b) If the enrollee is not covered under this subpart for the full pay period, he or she pays the premium charge for only the days actually covered. The daily premium rate is an amount equal to the monthly rate (including the administrative charge) multiplied by 12 and divided by 365.
+
+(c) The enrollee must make the payment after the pay period during which he or she is covered in accordance with a schedule established by the employing office. If the employing office does not receive the payment by the date due, the employing office must notify the enrollee in writing that continuation of coverage depends upon payment being made within 15 days (45 days for enrollees residing overseas) after receipt of the notice. If no subsequent payments are made, the employing office terminates the enrollment 60 days (90 days for enrollees residing overseas) after the date of the notice. An enrollee whose coverage terminates because of nonpayment may not reenroll or reinstate coverage except as provided under paragraph (d) of this section.
+
+(d)(1) If the enrollee was prevented by circumstances beyond his or her control from making payment within the timeframe specified in paragraph (c) of this section, he or she may request reinstatement of coverage by writing to the employing office. The request must be filed within 30 calendar days from the date of termination and must be accompanied by verification that the enrollee was prevented by circumstances beyond his or her control from paying within the time limit.
+
+(2) The employing office determines whether the individual is eligible for reinstatement of coverage. If the determination is affirmative, coverage is reinstated retroactively to the date of termination. If the determination is negative, the individual may request a review of the decision from the employing agency as provided under § 890.104.
+
+[54 FR 52339, Dec. 21, 1989, as amended at 59 FR 67607, Dec. 30, 1994; 61 FR 37810, July 22, 1996]

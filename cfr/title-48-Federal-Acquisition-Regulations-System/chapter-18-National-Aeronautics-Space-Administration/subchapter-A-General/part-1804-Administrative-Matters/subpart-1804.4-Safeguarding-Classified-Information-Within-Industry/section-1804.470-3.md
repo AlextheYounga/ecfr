@@ -1,0 +1,7 @@
+##### 1804.470-3 IT security requirements. #####
+
+(a) These IT security requirements cover all NASA awards in which IT plays a role in the provisioning of services or products (*e.g.,* research and development, engineering, manufacturing, IT outsourcing, human resources, and finance) that support NASA in meeting its institutional and mission objectives. These requirements are applicable when a contractor or subcontractor must obtain physical or electronic access beyond that granted the general public to NASA's computer systems, networks, or IT infrastructure. These requirements are applicable when NASA information is generated, stored, processed, or exchanged with NASA or on behalf of NASA by a contractor or subcontractor, regardless of whether the information resides on a NASA or a contractor/subcontractor's information system.
+
+(b) The Applicable Documents List (ADL) should consist of all NASA Agency-level IT Security and Center IT Security Policies applicable to the contract. Documents listed in the ADL as well as applicable Federal IT Security Policies are available at the NASA IT Security Policy Web site at: *http://www.nasa.gov/offices/ocio/itsecurity/index.html.*
+
+[76 FR 4080, Jan. 24, 2011]

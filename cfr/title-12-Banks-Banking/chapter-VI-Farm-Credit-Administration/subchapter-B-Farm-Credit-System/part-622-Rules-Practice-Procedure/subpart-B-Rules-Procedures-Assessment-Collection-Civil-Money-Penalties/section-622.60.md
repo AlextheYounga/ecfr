@@ -1,0 +1,7 @@
+##### § 622.60 Payment of civil money penalty. #####
+
+(a) *Payment date.* Generally, the date designated in the notice of assessment for payment of the civil money penalty will be 60 days from the issuance of the notice. If, however, the Board finds, in a specific case, that the purposes of the relevant statutes would be better served if the 60-day period were changed, the Board may shorten or lengthen the period or make the civil money penalty payable immediately upon receipt of the notice of assessment. If a timely request for a formal hearing to challenge an assessment of a civil money penalty is filed, payment of the penalty will not be required unless and until the Board issues a final order of assessment following the hearing. If an assessment order is issued, it will specify the date by which the civil money penalty is to be paid or collected.
+
+(b) *Method of payment.* Checks in payment of civil money penalties must be made payable to the “Farm Credit Administration.” Upon collection, the FCA will forward payment for penalties described in § 622.52(a) and (b) to the United States Department of Treasury. The FCA will forward payment for penalties described in § 622.52(c) to the National Flood Mitigation Fund as required by 42 U.S.C. 4012a(f)(8).
+
+[70 FR 12585, Mar. 15, 2005]

@@ -1,0 +1,3 @@
+##### § 922.827 Special performance standards—coal processing plants and support facilities not located at or near the minesite or not within the permit area for a mine. #####
+
+Part 827 of this chapter, *Special Permanent Program Performance Standards—Coal Processing Plants and Support Facilities not Located at or near the Minesite or not within the Permit Area for a Mine,* shall apply to any person who conducts surface coal mining and reclamation operations which include the operation of coal processing plants and support facilities not located at or near the minesite and not within the permit area for a mine.

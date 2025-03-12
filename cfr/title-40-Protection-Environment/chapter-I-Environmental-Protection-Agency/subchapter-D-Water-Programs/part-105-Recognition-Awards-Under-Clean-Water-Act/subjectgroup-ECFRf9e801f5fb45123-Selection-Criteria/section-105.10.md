@@ -1,0 +1,3 @@
+##### § 105.10 What do I need to be considered for an award? #####
+
+Your facility or pollution abatement program must be in total compliance with all applicable water quality requirements, and otherwise have a satisfactory record with respect to environmental quality. Additionally, your facility or pollution abatement program must provide written documentation as evidence of an outstanding technological achievement or an innovative process, method or device demonstrated in the preceding year, which resulted in environmental benefits, cost savings and/or public acceptance.

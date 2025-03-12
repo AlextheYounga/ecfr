@@ -1,0 +1,3 @@
+##### § 4.1 Complaints regarding invention promoters. #####
+
+These regulations govern the Patent and Trademark Office's (Office) responsibilities under the Inventors' Rights Act of 1999, which can be found in the U.S. Code at 35 U.S.C. 297. The Act requires the Office to provide a forum for the publication of complaints concerning invention promoters. The Office will not conduct any independent investigation of the invention promoter. Although the Act provides additional civil remedies for persons injured by invention promoters, those remedies must be pursued by the injured party without the involvement of the Office.

@@ -1,0 +1,7 @@
+##### § 57.1511 Opinion of legal counsel. #####
+
+At appropriate stages in the application and approval procedure for a loan guarantee or interest subsidy, the applicant shall furnish to the Secretary a memorandum or opinion of legal counsel with respect to the legality of any proposed note issue, the legal authority of the applicant to issue the note and secure it by the proposed collateral, and the legality of the issue upon delivery. “Legal counsel” means either a law firm or individual lawyer, thoroughly experienced in the long-term financing of construction projects, and whose approving opinions have previously been accepted by lenders or lending institutions. The legal memorandum or opinion to be provided by legal counsel in each case shall be as follows:
+
+(a) A memorandum, submitted with the application for a loan guarantee or interest subsidy, stating that the applicant is or will be lawfully authorized to finance, construct, and maintain the project, and to issue the proposed obligations and to pledge or mortgage the assets and/or revenues offered to secure the loan, citing the basis for such authority; and
+
+(b) A final approving opinion, delivered to the Secretary at the time of delivery of the evidence of indebtedness to the lender, stating that the credit and security instruments executed by the applicant are duly authorized and delivered and that the indebtedness of the applicant is valid, binding, and payable in accordance with the terms on which the loan guarantee was approved by the Secretary.

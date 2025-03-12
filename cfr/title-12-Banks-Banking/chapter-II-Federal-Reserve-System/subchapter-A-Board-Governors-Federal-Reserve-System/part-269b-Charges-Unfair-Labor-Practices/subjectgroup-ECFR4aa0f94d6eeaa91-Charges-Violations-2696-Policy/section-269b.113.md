@@ -1,0 +1,3 @@
+##### § 269b.113 Withdrawal or settlement. #####
+
+A charge may be withdrawn or settlement of the matter may be reached without consent of the panel at any time. In connection with any such settlement the parties in interest shall prepare and sign a settlement agreement which shall record that the settlement is mutually satisfactory, shall stipulate any occurrences which constituted unfair labor practices and shall set forth the terms of the settlement.

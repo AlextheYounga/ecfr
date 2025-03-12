@@ -1,0 +1,5 @@
+##### § 2.937 Equipment defect and/or design change. #####
+
+When a complaint is filed with the Commission concerning the failure of equipment subject to this chapter to comply with pertinent requirements of the Commission's rules, and the Commission determines that the complaint is justified and arises out of an equipment fault attributable to the responsible party, the Commission may require the responsible party to investigate such complaint and report the results of such investigation to the Commission. The report shall also indicate what action if any has been taken or is proposed to be taken by the responsible party to correct the defect, both in terms of future production and with reference to articles in the possession of users, sellers and distributors.
+
+[61 FR 31046, June 19, 1996]

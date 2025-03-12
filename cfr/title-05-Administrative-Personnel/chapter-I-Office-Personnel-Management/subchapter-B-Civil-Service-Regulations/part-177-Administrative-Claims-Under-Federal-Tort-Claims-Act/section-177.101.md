@@ -1,0 +1,3 @@
+##### § 177.101 Scope of regulations. #####
+
+The regulations in this part apply only to claims presented or filed with the Office of Personnel Management (OPM) under the Federal Tort Claims Act, as amended, for money damages against the United States for injury to or loss of property or personal injury or death caused by the negligent or wrongful act or omission of an officer or employee of OPM while acting within the scope of his or her office or employment.

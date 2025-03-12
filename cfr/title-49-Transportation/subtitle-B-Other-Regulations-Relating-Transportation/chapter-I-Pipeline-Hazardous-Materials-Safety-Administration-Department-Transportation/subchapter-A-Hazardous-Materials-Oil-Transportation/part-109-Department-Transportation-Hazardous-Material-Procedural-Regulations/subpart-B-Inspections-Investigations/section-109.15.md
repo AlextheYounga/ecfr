@@ -1,0 +1,3 @@
+##### § 109.15 Termination. #####
+
+When the facts disclosed by an investigation indicate that further action is not warranted under this part at the time, the Administrator will close the investigation without prejudice to further investigation and notify the person being investigated of the decision. Nothing herein precludes civil enforcement action at a later time related to the findings of the investigation.

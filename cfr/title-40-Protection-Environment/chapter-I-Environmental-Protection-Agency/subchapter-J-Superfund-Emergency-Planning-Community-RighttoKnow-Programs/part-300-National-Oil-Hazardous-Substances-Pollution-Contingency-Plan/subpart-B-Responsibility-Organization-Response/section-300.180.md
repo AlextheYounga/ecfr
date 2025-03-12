@@ -1,0 +1,13 @@
+##### § 300.180 State and local participation in response. #####
+
+(a) Each state governor is requested to designate one state office/representative to represent the state on the appropriate RRT. The state's office/representative may participate fully in all activities of the appropriate RRT. Each state governor is also requested to designate a lead state agency that will direct state-lead response operations. This agency is responsible for designating the lead state response official for federal and/or state-lead response actions, and coordinating/communicating with any other state agencies, as appropriate. Local governments are invited to participate in activities on the appropriate RRT as may be provided by state law or arranged by the state's representative. Indian tribes wishing to participate should assign one person or office to represent the tribal government on the appropriate RRT.
+
+(b) Appropriate local and state officials (including Indian tribes) will participate as part of the response structure as provided in the ACP.
+
+(c) In addition to meeting the requirements for local emergency plans under SARA section 303, state and local government agencies are encouraged to include contingency planning for responses, consistent with the NCP, RCP, and ACP in all emergency and disaster planning.
+
+(d) For facilities not addressed under CERCLA or the CWA, states are encouraged to undertake response actions themselves or to use their authorities to compel potentially responsible parties to undertake response actions.
+
+(e) States are encouraged to enter into cooperative agreements pursuant to sections 104 (c)(3) and (d) of CERCLA to enable them to undertake actions authorized under subpart E of the NCP. Requirements for entering into these agreements are included in subpart F of the NCP. A state agency that acts pursuant to such agreements is referred to as the lead agency. In the event there is no cooperative agreement, the lead agency can be designated in a SMOA or other agreement.
+
+(f) Because state and local public safety organizations would normally be the first government representatives at the scene of a discharge or release, they are expected to initiate public safety measures that are necessary to protect public health and welfare and that are consistent with containment and cleanup requirements in the NCP, and are responsible for directing evacuations pursuant to existing state or local procedures.

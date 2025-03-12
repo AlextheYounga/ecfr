@@ -1,0 +1,5 @@
+##### § 1081.401 Transmission of documents to Director; record index; certification. #####
+
+(a) *Filing of index.* At the same time the Office of Administrative Adjudication transmits the recommended decision to the Director, the hearing officer shall furnish to the Director a certified index of the entire record of the proceedings. The certified index shall include, at a minimum, an entry for each paper, document or motion filed in the proceeding, the date of the filing, and the identity of the filer. The certified index shall also include an exhibit index containing, at a minimum, an entry consisting of exhibit number and title or description for each exhibit introduced and admitted into evidence and each exhibit introduced but not admitted into evidence.
+
+(b) *Retention of record items by the Office of Administrative Adjudication.* After the close of the hearing, the Office of Administrative Adjudication shall retain originals of any motions, exhibits or any other documents filed with, or accepted into evidence by, the hearing officer, or any other portions of the record that have not already been filed with the Office of Administrative Adjudication.

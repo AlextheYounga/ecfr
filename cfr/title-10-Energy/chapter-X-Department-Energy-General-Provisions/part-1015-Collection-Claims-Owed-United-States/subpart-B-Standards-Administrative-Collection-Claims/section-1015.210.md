@@ -1,0 +1,5 @@
+##### § 1015.210 Liquidation of collateral. #####
+
+(a) DOE may liquidate security or collateral through the exercise of a power of sale in the security instrument or a nonjudicial foreclosure, and apply the proceeds to the applicable debt(s), if the debtor fails to pay the debt(s) within a reasonable time after demand and if such action is in the best interest of the United States. Collection from other sources, including liquidation of security or collateral, is not a prerequisite to requiring payment by a surety, insurer, or guarantor unless such action is expressly required by statute or contract.
+
+(b) When DOE learns that a bankruptcy petition has been filed with respect to a debtor, DOE will seek legal advice from counsel concerning the impact of the Bankruptcy Code, including, but not limited to, 11 U.S.C. 362, to determine the applicability of the automatic stay and the procedures for obtaining relief from such stay prior to proceeding under paragraph (a) of this section.

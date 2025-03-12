@@ -1,0 +1,9 @@
+##### § 54.414 Reimbursement for Tribal Link Up. #####
+
+(a) Eligible telecommunications carriers that are receiving high-cost support, pursuant to subpart D of this part, may receive universal service support reimbursement for the reduction in their customary charge for commencing telecommunications service and for providing a deferred schedule for payment of the customary charge for commencing telecommunications services for which the subscriber does not pay interest, in conformity with § 54.413.
+
+(b) In order to receive universal support reimbursement for providing Tribal Link Up, eligible telecommunications carriers must follow the procedures set forth in § 54.410 to determine an eligible resident of Tribal lands' initial eligibility for Tribal Link Up. Eligible telecommunications carriers must obtain a certification form from each eligible resident of Tribal lands that complies with § 54.410 prior to enrolling him or her in Tribal Link Up.
+
+(c) In order to receive universal service support reimbursement for providing Tribal Link Up, eligible telecommunications carriers must keep accurate records of the reductions in their customary charge for commencing telecommunications service and for providing a deferred schedule for payment of the charges assessed for commencing service for which the subscriber does not pay interest, in conformity with § 54.413. Such records shall be kept in the form directed by the Administrator and provided to the Administrator at intervals as directed by the Administrator or as provided in this subpart. The reductions in the customary charge for which the eligible telecommunications carrier may receive reimbursement shall include only the difference between the carrier's customary connection or interest charges and the charges actually assessed to the subscriber receiving Lifeline services.
+
+[77 FR 12973, Mar. 2, 2012]

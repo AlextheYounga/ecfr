@@ -1,0 +1,9 @@
+##### 611.603 Procedures. #####
+
+(f) Department of State contracting officers are authorized to sign DO-H8 rated contracts or orders. It is the responsibility of the requirements office to determine which contracts or orders should be rated. All contracts with U.S. firms under the DOSESPP will not necessarily need to be assigned a priority rating.
+
+(g) The contracting officer should place a DO-H8 rating on any contract or order if there is any doubt as to whether a contractor doing work for Embassy security protection will be able to deliver on time. If an unrated contract or order is not completed on time, the contracting officer may modify the contract or order to add the rating; however, the rating shall only be effective for the newly established delivery date, not the original delivery date.
+
+(1) DOC can provide special assistance to implement the DPAS program in specific cases. For example, the Department may request a higher priority rating, or request that DOC issue a written directive to a contractor that is not complying with the DPAS regulations. In addition, although the DPAS program normally applies only to U.S. firms, if the Department has a prime contract with a foreign firm that will be awarding subcontracts with U.S. firms, the Department may request from DOC authorization to place a rating on the prime contract.
+
+(2) Contracting officers or requirements offices who wish to request special assistance from DOC must complete DOC Form BXA-999, *Request for Special Priorities Assistance,* and submit it to A/OPE, which will arrange for submission of the request to DOC.

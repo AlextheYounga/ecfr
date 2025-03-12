@@ -1,0 +1,3 @@
+##### § 57.207 Maximum amount of health professions student loans. #####
+
+The total of the health professions student loans made from the fund to any student for a school year may not exceed $2,500 and the cost of tuition. The maximum amount loaned during a 12-month period to any student enrolled in a school which provides a course of study longer than the 9-month school year may be proportionately increased.

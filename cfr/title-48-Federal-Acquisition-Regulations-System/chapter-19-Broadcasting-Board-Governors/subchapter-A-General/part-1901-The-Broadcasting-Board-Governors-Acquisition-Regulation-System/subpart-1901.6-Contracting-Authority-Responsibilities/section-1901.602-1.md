@@ -1,0 +1,3 @@
+##### 1901.602-1 Authority. #####
+
+The Broadcasting Board of Governors Contracting Officers designated by name on Certificates of Appointment by the Board Procurement Executive are authorized to enter into, administer, and terminate contracts and make related determinations and findings, subject to all requirements and limitations set forth in the Certificate of Appointment. A list of the Broadcasting Board of Governors employees who have been appointed as Contracting Officers and the limits of their authority is available from the Policy and Procedures Staff, Office of Contracts.

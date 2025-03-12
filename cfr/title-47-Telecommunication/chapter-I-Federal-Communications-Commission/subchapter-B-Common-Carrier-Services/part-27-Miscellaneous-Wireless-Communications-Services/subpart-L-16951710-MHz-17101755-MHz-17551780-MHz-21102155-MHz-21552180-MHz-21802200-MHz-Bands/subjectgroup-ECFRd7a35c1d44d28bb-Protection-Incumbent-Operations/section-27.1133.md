@@ -1,0 +1,3 @@
+##### § 27.1133 Protection of part 74 and part 78 operations. #####
+
+AWS operators must protect previously licensed Broadcast Auxiliary Service (BAS) or Cable Television Radio Service (CARS) operations in the adjacent 2025-2110 MHz band. In satisfying this requirement AWS licensees must, before constructing and operating any base or fixed station, determine the location and licensee of all BAS or CARS stations authorized in their area of operation, and coordinate their planned stations with those licensees. In the event that mutually satisfactory coordination agreements cannot be reached, licensees may seek the assistance of the Commission, and the Commission may, at its discretion, impose requirements on one or both parties.

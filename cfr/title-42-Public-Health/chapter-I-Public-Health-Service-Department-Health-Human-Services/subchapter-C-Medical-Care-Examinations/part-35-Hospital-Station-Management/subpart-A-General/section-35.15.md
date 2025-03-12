@@ -1,0 +1,3 @@
+##### § 35.15 Consent to operative procedures. #####
+
+Except in emergencies when the patient is physically or mentally incapable of consenting and the delay required to obtain the consent of his natural or legal guardian would seriously endanger the patient's health, no operative procedure shall be undertaken unless the patient or, in the case of a minor or incompetent, his natural or legal guardian gives his consent, nor shall any major operative procedure or the administration of a general anaesthetic be undertaken unless such consent has been obtained in writing. The consent or refusal of consent shall be made a part of the clinical record.

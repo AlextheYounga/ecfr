@@ -1,0 +1,3 @@
+##### § 1270.17 Liability of Banks, FHFA, Office of Finance and Federal Reserve Banks. #####
+
+The Banks, FHFA, the Director, the Office of Finance and the Federal Reserve Banks may rely on the information provided in a tender, transaction request form, other transaction documentation, or Transfer Message, and are not required to verify the information. Neither the Banks, FHFA, the Director, the Office of Finance, the United States, nor the Federal Reserve Banks shall be liable for any action taken in accordance with the information set out in a tender, transaction request form, other transaction documentation, or Transfer Message, or evidence submitted in support thereof.

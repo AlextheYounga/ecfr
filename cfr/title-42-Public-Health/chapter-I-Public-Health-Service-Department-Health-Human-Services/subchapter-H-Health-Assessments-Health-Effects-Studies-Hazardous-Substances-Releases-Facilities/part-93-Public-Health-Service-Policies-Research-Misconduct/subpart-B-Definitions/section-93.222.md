@@ -1,0 +1,3 @@
+##### § 93.222 Research. #####
+
+*Research* means a systematic experiment, study, evaluation, demonstration or survey designed to develop or contribute to general knowledge (basic research) or specific knowledge (applied research) relating broadly to public health by establishing, discovering, developing, elucidating or confirming information about, or the underlying mechanism relating to, biological causes, functions or effects, diseases, treatments, or related matters to be studied.

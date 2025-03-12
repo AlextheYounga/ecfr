@@ -1,0 +1,35 @@
+##### § 63.10 Regulatory classification of U.S. international carriers. #####
+
+(a) Unless otherwise determined by the Commission, any party authorized to provide an international communications service under this part shall be classified as either dominant or non-dominant for the provision of particular international communications services on particular routes as set forth in this section. The rules set forth in this section shall also apply to determinations of regulatory status pursuant to §§ 63.11 and 63.13. For purposes of paragraphs (a)(2) and (a)(3) of this section, the relevant markets on the foreign end of a U.S. international route include: international transport facilities or services, including cable landing station access and backhaul facilities; inter-city facilities or services; and local access facilities or services on the foreign end of a particular route.
+
+(1) A U.S. carrier that has no affiliation with, and that itself is not, a foreign carrier in a particular country to which it provides service (i.e., a destination country) shall presumptively be considered non-dominant for the provision of international communications services on that route;
+
+(2) Except as provided in paragraph (a)(4) of this section, a U.S. carrier that is, or that has or acquires an affiliation with a foreign carrier that is a monopoly provider of communications services in a relevant market in a destination country shall presumptively be classified as dominant for the provision of international communications services on that route; and
+
+(3) A U.S. carrier that is, or that has or acquires an affiliation with a foreign carrier that is not a monopoly provider of communications services in a relevant market in a destination country and that seeks to be regulated as non-dominant on that route bears the burden of submitting information to the Commission sufficient to demonstrate that its foreign affiliate lacks sufficient market power on the foreign end of the route to affect competition adversely in the U.S. market. If the U.S. carrier demonstrates that the foreign affiliate lacks 50 percent market share in the international transport and the local access markets on the foreign end of the route, the U.S. carrier shall presumptively be classified as non-dominant.
+
+(4) A carrier that is authorized under this part to provide to a particular destination an international switched service, and that provides such service solely through the resale of an unaffiliated U.S. facilities-based carrier's international switched services (either directly or indirectly through the resale of another U.S. resale carrier's international switched services), shall presumptively be classified as non-dominant for the provision of the authorized service. A carrier regulated as non-dominant pursuant to this subparagraph shall notify the Commission at any time that it begins to provide such service through the resale of an affiliated U.S. facilities-based carrier's international switched services. The carrier will be deemed a dominant carrier on the route absent a Commission finding that the carrier otherwise qualifies for non-dominant regulation pursuant to this section.
+
+(b) Any party that seeks to defeat the presumptions in paragraph (a) of this section shall bear the burden of proof upon any issue it raises as to the proper classification of the U.S. carrier.
+
+(c) Any carrier classified as dominant for the provision of particular services on particular routes under this section shall comply with the following requirements in its provision of such services on each such route:
+
+(1) Provide services as an entity that is separate from its foreign carrier affiliate, in compliance with the following requirements:
+
+(i) The authorized carrier shall maintain separate books of account from its affiliated foreign carrier. These separate books of account do not need to comply with part 32 of this chapter; and
+
+(ii) The authorized carrier shall not jointly own transmission or switching facilities with its affiliated foreign carrier. Nothing in this section prohibits the U.S. carrier from sharing personnel or other resources or assets with its foreign affiliate;
+
+(2) File quarterly reports on traffic and revenue within 90 days from the end of each calendar quarter consistent with the format set out by the § 43.62 filing manual.
+
+(3) File quarterly reports summarizing the provisioning and maintenance of all basic network facilities and services procured from its foreign carrier affiliate or from an allied foreign carrier, including, but not limited to, those it procures on behalf of customers of any joint venture for the provision of U.S. basic or enhanced services in which the authorized carrier and the foreign carrier participate, within 90 days from the end of each calendar quarter. These reports should contain the following: the types of circuits and services provided; the average time intervals between order and delivery; the number of outages and intervals between fault report and service restoration; and for circuits used to provide international switched service, the percentage of “peak hour” calls that failed to complete;
+
+(4) In the case of an authorized facilities-based carrier, file quarterly, within 90 days from the end of each calendar quarter, a report of its active and idle 64 kbps or equivalent circuits by facility (terrestrial, satellite and submarine cable).
+
+(5) If authorized to provide facilities-based service, comply with paragraph (e) of this section.
+
+(d) A carrier classified as dominant under this section shall file an original and two copies of each report required by paragraphs (c)(3), (c)(4), and (c)(5) of this section with the Chief, International Bureau. The carrier shall also file one copy of these reports with the Commission's copy contractor. The transmittal letter accompanying each report shall clearly identify the report as responsive to the appropriate paragraph of § 63.10(c).
+
+(e) Except as otherwise ordered by the Commission, a carrier that is classified as dominant under this section for the provision of facilities-based services on a particular route and that is affiliated with a carrier that collects settlement payments for terminating U.S. international switched traffic at the foreign end of that route may not provide switched facilities-based service on that route unless the current rates the affiliate charges U.S. international carriers to terminate traffic are at or below the Commission's relevant benchmark adopted in IB Docket No. 96-261. See FCC 97-280 (rel. Aug. 18, 1997) (available at the FCC's Reference Operations Division, Washington, D.C. 20554, and on the FCC's World Wide Web Site at *http://www.fcc.gov*).
+
+[62 FR 64752, Dec. 9, 1997, as amended at 64 FR 19062, Apr. 19, 1999; 64 FR 46593, Aug. 26, 1999; 64 FR 47702, Sept. 1, 1999; 66 FR 16881, Mar. 28, 2001; 67 FR 45390, July 9, 2002; 78 FR 15623, Mar. 12, 2013]

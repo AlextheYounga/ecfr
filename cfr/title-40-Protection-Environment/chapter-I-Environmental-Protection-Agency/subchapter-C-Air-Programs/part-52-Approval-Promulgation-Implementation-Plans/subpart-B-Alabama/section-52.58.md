@@ -1,0 +1,5 @@
+##### § 52.58 Control strategy: Lead. #####
+
+The lead plan submitted by the State on March 24, 1982, is disapproved because it fails to provide for the attainment of the lead standard throughout Alabama. The lead plan submitted by the State on October 7, 1985, and November 13, 1986, for Jefferson County is conditionally approved on the condition that the State by October 1, 1987, determine what additional control measures may be necessary, if any, to assure attainment and maintenance as expeditiously as practicable but no later than the applicable attainment deadline and submit those measures to EPA for approval, together with an appropriate demonstration of attainment. The provisions in the regulation submitted on October 7, 1985, that give the Jefferson County Health Officer discretion to vary the requirements of the regulation are approved as limits on that discretion, but any variances that may result from those provisions are not approved in advance and hence change the applicable implementation plan only when approved by EPA on a case-by-case basis.
+
+[49 FR 18738, May 2, 1984, as amended at 52 FR 4291, Feb. 11, 1987]

@@ -1,0 +1,3 @@
+##### § 10.3 Policy. #####
+
+It is the policy of the Department of Transportation to comply with the letter and the spirit of the Privacy Act (the Act). Therefore, personal data contained in each system of records is afforded adequate protection against unauthorized access, is as accurate as is feasible, and is limited to that necessary to accomplish the stated use or uses of the system. Further, no system of records is exempted from the requirements of the Act unless it is determined that to do so is in the best interest of the government with due concern for individual rights.

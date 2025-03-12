@@ -1,0 +1,21 @@
+##### § 261.5 Confidential information. #####
+
+(a) For purposes of this part, “Confidential Information” shall include the statements of account, any information contained therein, including the amount of royalty payments, and any information pertaining to the statements of account reasonably designated as confidential by the Licensee submitting the statement.
+
+(b) Confidential Information shall not include documents or information that at the time of delivery to the Receiving Agent or a Designated Agent are public knowledge. The Receiving Agent or a Designated Agent that claims the benefit of this provision shall have the burden of proving that the disclosed information was public knowledge.
+
+(c) In no event shall the Receiving Agent or Designated Agent(s) use any Confidential Information for any purpose other than royalty collection and distribution and activities directly related thereto; Provided, however, that the Designated Agent may report Confidential Information provided on statements of account under this part in aggregated form, so long as Confidential Information pertaining to any Licensee or group of Licensees cannot directly or indirectly be ascertained or reasonably approximated. All reported aggregated Confidential Information from Licensees within a class of Licensees shall concurrently be made available to all Licensees then in such class. As used in this paragraph, the phrase “class of Licensees” means all Licensees paying fees pursuant to § 261.4(a).
+
+(d) Except as provided in paragraph (c) of this section and as required by law, access to Confidential Information shall be limited to, and in the case of paragraphs (d)(3) and (d)(4) of this section shall be provided upon request, subject to resolution of any relevance or burdensomeness concerns and reimbursement of reasonable costs directly incurred in responding to such request, to:
+
+(1) Those employees, agents, consultants and independent contractors of the Receiving Agent or a Designated Agent, subject to an appropriate confidentiality agreement, who are engaged in the collection and distribution of royalty payments hereunder and activities directly related thereto, who are not also employees or officers of a Copyright Owner or Performer, and who, for the purpose of performing such duties during the ordinary course of employment, require access to the records;
+
+(2) An independent and qualified auditor, subject to an appropriate confidentiality agreement, who is authorized to act on behalf of the Receiving Agent or a Designated Agent with respect to the verification of a Licensee's statement of account pursuant to § 261.6 or on behalf of a Copyright Owner or Performer with respect to the verification of royalty payments pursuant to § 261.7;
+
+(3) In connection with future Copyright Arbitration Royalty Panel proceedings under 17 U.S.C. 114(f)(2) and 112(e), under an appropriate protective order, attorneys, consultants and other authorized agents of the parties to the proceedings, Copyright Arbitration Royalty Panels, the Copyright Office or the courts; and
+
+(4) In connection with *bona fide* royalty disputes or claims by or among Licensees, the Receiving Agent, Copyright Owners, Performers or the Designated Agent(s), under an appropriate confidentiality agreement or protective order, attorneys, consultants and other authorized agents of the parties to the dispute, arbitration panels or the courts.
+
+(e) The Receiving Agent or Designated Agent(s) and any person identified in paragraph (d) of this section shall implement procedures to safeguard all Confidential Information using a reasonable standard of care, but no less than the same degree of security used to protect Confidential Information or similarly sensitive information belonging to such Receiving Agent or Designated Agent(s) or person.
+
+(f) Books and records of a Licensee, the Receiving Agent and of a Designated Agent relating to the payment, collection, and distribution of royalty payments shall be kept for a period of not less than three (3) years.

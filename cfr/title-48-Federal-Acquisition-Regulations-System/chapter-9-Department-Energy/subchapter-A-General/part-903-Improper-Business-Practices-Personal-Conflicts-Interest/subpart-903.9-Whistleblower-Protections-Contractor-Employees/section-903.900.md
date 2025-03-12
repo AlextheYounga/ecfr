@@ -1,0 +1,5 @@
+##### 903.900 Scope of subpart. #####
+
+This subpart implements the DOE Contractor Employee Protection Program as set forth at 10 CFR part 708. Part 708 establishes criteria and procedures for the investigation, hearing, and review of allegations from DOE contractor employees of employer reprisal resulting from employee disclosure of information to DOE, to Members of Congress, or to the contractor; employee participation in proceedings before Congress or pursuant to this subpart; or employee refusal to engage in illegal or dangerous activities, when such disclosure, participation, or refusal pertains to employer practices which the employee believes to be unsafe; to violate laws, rules, or regulations; or to involve fraud, mismanagement, waste, or abuse.
+
+[65 FR 81005, Dec. 22, 2000. Redesignated at 74 FR 36361, July 22, 2009]

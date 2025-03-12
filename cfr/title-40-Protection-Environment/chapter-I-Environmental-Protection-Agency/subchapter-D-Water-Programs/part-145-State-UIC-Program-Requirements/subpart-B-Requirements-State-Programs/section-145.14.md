@@ -1,0 +1,5 @@
+##### § 145.14 Sharing of information. #####
+
+(a) Any information obtained or used in the administration of a State program shall be available to EPA upon request without restriction. If the information has been submitted to the State under a claim of confidentiality, the State must submit that claim to EPA when providing information under this section. Any information obtained from a State and subject to a claim of confidentiality will be treated in accordance with the regulations in 40 CFR part 2. If EPA obtains from a State information that is not claimed to be confidential, EPA may make that information available to the public without further notice.
+
+(b) EPA shall furnish to States with approved programs the information in its files not submitted under a claim of confidentiality which the State needs to implement its approved program. EPA shall furnish to States with approved programs information submitted to EPA under a claim of confidentiality, which the State needs to implement its approved program, subject to the conditions in 40 CFR part 2.

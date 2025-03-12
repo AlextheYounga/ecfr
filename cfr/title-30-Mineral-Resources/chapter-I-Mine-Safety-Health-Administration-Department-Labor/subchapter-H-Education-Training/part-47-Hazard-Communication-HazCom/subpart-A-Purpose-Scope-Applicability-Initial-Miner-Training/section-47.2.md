@@ -1,0 +1,5 @@
+##### § 47.2 Operators and chemicals covered; initial miner training. #####
+
+(a) This part applies to any operator producing or using a hazardous chemical to which a miner can be exposed under normal conditions of use or in a foreseeable emergency. (Subpart J of this part lists exemptions from coverage.)
+
+(b) Operators of mines which employ six or more miners must instruct each miner with information about the physical and health hazards of chemicals in the miner's work area, the protective measures a miner can take against these hazards, and the contents of the mine's HazCom program by September 23, 2002. Operators of mines that employ five or fewer miners must instruct each miner with information about the physical and health hazards of chemicals in the miner's work area, the protective measures a miner can take against these hazards, and the contents of the mine's HazCom program by March 21, 2003.

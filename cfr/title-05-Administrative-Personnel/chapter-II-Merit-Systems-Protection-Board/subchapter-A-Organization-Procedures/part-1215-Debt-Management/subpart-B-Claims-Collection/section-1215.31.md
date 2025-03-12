@@ -1,0 +1,3 @@
+##### § 1215.31 Referral to the Department of Justice or the General Accounting Office. #####
+
+Debts over $600 but less than $100,000 which the MSPB determines can neither be collected nor otherwise disposed of will be referred for litigation to the United States Attorney in whose judicial district the debtor is located. Claims for amounts exceeding $100,000 shall be referred for litigation to the Commercial Litigation Branch, Civil Division of the Department of Justice.

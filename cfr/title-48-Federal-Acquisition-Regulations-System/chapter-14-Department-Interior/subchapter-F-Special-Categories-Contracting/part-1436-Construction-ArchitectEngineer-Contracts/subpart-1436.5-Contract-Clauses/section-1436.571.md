@@ -1,0 +1,3 @@
+##### 1436.571 Additive and deductive items. #####
+
+If it appears that funds available for a construction project may be insufficient for all the desired features, the CO may provide in the solicitation for a base bid item covering the work as specified and for one or more additive or deductive bid items which add or omit specified features of the work in a stated order of priority. Such solicitations shall include a provision substantially as set forth in 1452.236-71, and the low bidder and the bid items to be awarded shall be determined as provided in the provision.

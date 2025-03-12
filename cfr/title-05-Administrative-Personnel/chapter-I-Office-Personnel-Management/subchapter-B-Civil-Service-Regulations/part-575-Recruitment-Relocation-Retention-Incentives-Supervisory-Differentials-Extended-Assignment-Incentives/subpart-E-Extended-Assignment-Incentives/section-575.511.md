@@ -1,0 +1,5 @@
+##### § 575.511 What happens when an employee is involuntarily separated or involuntarily reassigned prior to completion of the service period? #####
+
+An employee who is involuntarily separated or is involuntarily reassigned to a position outside the particular territory, possession, or commonwealth involved is not indebted to the Federal Government for any extended assignment incentive payments he or she has received. The employee is entitled to keep all incentive payments received and, if applicable, is entitled to receive any additional amount representing the difference between the amount received and the prorated share of the total incentive attributable to completed service. The employee may receive a portion or all of the incentive payment attributable to uncompleted service only to the extent provided in the service agreement.
+
+[68 FR 53669, Sept. 12, 2003; 68 FR 56665, Oct. 1, 2003]

@@ -1,0 +1,3 @@
+##### § 9601.105 DAEO's responsibilities. #####
+
+The NCUA DAEO may issue Instructions governing the submission of requests for approval of outside employment. The Instructions may exempt categories of employment from prior approval requirement of this section based on a determination that employment within those categories of employment would generally be approved and is not likely to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635. The DAEO may include in these Instructions examples of outside employment that are permissible or impermissible consistent with this part and 5 CFR part 2635, including examples of other credit union-related entities.

@@ -1,0 +1,5 @@
+##### § 76.89 Criticality accident requirements. #####
+
+(a) The Corporation must maintain and operate a criticality monitoring and audible alarm system meeting the requirements of paragraph (b) of this section in all areas of the facility. The Corporation may describe for the approval of the Commission defined areas to be excluded from the monitoring requirement. This submittal must describe the measures that will be used to ensure against criticality, including kinds and quantities of material that will be permitted and measures that will be used to control those kinds and quantities of material.
+
+(b) The system must detect and annunciate a criticality that produces an absorbed dose in soft tissue of 20 rads of combined neutron and gamma radiation at an unshielded distance of 2 meters from the reacting material within 1 minute. Coverage of all monitored areas must be provided by two detectors.

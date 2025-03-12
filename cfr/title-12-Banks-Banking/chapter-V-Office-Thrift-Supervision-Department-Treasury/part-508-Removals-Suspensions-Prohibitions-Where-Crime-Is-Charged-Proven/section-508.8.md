@@ -1,0 +1,3 @@
+##### § 508.8 Default. #####
+
+If the subject individual fails to file a petition for a hearing, or fails to appear at a hearing, either in person or by attorney, or fails to submit a written argument where oral argument has been waived pursuant to § 508.7(d) or (f) of this part, the Notice shall remain in effect until the information, indictment, or complaint is finally disposed of and the Order shall remain in effect until terminated by the Office.

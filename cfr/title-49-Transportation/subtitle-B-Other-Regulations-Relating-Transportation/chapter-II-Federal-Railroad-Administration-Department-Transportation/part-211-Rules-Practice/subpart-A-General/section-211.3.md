@@ -1,0 +1,3 @@
+##### § 211.3 Participation by interested persons. #####
+
+Any person may participate in proceedings and inquiries subject to this part by submitting written information or views. The Administrator may also permit any person to participate in additional proceedings, such as informal appearances, conferences, or hearings at which a transcript or minutes are kept, to assure informed administrative action and protect the public interest.

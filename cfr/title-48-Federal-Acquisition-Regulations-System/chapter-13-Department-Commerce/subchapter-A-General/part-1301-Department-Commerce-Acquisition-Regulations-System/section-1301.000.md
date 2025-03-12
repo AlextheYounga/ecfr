@@ -1,0 +1,3 @@
+##### 1301.000 Scope of part. #####
+
+This part sets out general Department of Commerce Acquisition Regulation (CAR) policies, including information regarding the maintenance and administration of the CAR, acquisition policies and practices, and procedures for deviation from the CAR and the Federal Acquisition Regulation (FAR). This part describes the Commerce Acquisition Regulation in terms of establishment, relationship to the Federal Acquisition Regulation, arrangement, applicability, and deviation procedures.

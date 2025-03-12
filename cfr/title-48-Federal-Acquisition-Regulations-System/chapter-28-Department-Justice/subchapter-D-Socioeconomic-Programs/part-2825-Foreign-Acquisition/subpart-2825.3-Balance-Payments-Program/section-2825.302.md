@@ -1,0 +1,3 @@
+##### 2825.302 Policy. #####
+
+The HCA, or designee at a level not lower than the BPC, is the agency official authorized to make determinations under FAR 25.302(b)(3), as well as authorize the use of a differential greater than 50 percent, as specified in FAR 25.302(c), for the evaluation of domestic and foreign offers under the Balance of Payments Program. All determinations made under this section shall be in writing and shall set forth the facts and circumstances supporting the determination. Determinations shall be reviewed and concurred in by the contracting activity's legal counsel.

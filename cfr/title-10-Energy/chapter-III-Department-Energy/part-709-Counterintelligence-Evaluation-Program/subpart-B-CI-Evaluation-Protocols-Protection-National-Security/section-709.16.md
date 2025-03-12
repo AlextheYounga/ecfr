@@ -1,0 +1,7 @@
+##### § 709.16 Application of Counterintelligence Evaluation Review Boards in reaching conclusions regarding CI evaluations. #####
+
+(a) *General.* If the results of a counterintelligence evaluation are not dispositive, the Director of the Office of Intelligence and Counterintelligence may convene a Counterintelligence Evaluation Review Board to obtain the individual views of each member as assistance in resolving counterintelligence issues identified during a counterintelligence evaluation.
+
+(b) *Composition.* A Counterintelligence Evaluation Review Board is chaired by the Director of the Office of Intelligence and Counterintelligence (or his/her designee) and includes representation from the appropriate line Program Managers, lab/site/facility management (if a contractor employee is involved), NNSA, if the unresolved issues involve an NNSA covered person, the DOE Office of Health, Safety and Security and security directors for the DOE or NNSA site or operations office.
+
+(c) *Process.* When making a final recommendation under § 709.17 of this part, to a Program Manager, the Director of Intelligence and Counterintelligence shall report on the Counterintelligence Evaluation Review Board's views, including any consensus recommendation, or if the members are divided, a summary of majority and dissenting views.

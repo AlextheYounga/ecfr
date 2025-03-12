@@ -1,0 +1,7 @@
+##### § 52.990 Stack height regulations. #####
+
+The State of Louisiana has committed to submit to EPA a SIP revision whenever a new or revised emission limitation for a specific source exceeds the height allowed by Section 921(A) “Good Engineering Practice (GEP) Stack Height 1 or 2” of the State regulations. A letter from the Secretary of Louisiana Department of Environmental Quality, dated September 23, 1986, stated that:
+
+In specific, the State regulation, Section 17.14.2 [now LAC 33: Part III, Section 921(B)], provides that the degree of emission limitation required of any source for control of any air pollutant must not be affected by so much of any source's stack height that exceeds good engineering practice or by any other dispersion technique. In reference to this requirement, the Louisiana Department of Environmental Quality or the Administrative Authority will submit to EPA a SIP revision whenever the Louisiana Department of Environmental Quality adopts a new or revised emission limitation for a specific source that is based on a stack height that exceeds the height allowed by Section 17.14.1(e)(1) [now LAC 33: Part III, Section 921(A) “Good Engineering Practice (GEP) Stack Height 1”] or Section 17.14.1(e)(2) [now LAC 33: Part III, Section 921(A) “Good Engineering Practice (GEP) Stack Height 2”].
+
+[53 FR 36010, Sept. 16, 1988]

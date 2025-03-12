@@ -1,0 +1,7 @@
+##### § 250.181 Reports of change in control of bank management incident to a merger. #####
+
+(a) A State member bank has inquired whether Pub. L. 88-593 (78 Stat. 940) requires reports of change in control of bank management in situations where the change occurs as an incident in a merger.
+
+(b) Under the Bank Merger Act of 1960 (12 U.S.C. 1828(c)), no bank with Federal deposit insurance may merge or consolidate with, or acquire the assets of, or assume the liability to pay deposits in, any other insured bank without prior approval of the appropriate Federal bank supervisory agency. Where the bank resulting from any such transaction is a State member bank, the Board of Governors is the agency that must pass on the transaction. In the course of consideration of such an application, the Board would, of necessity, acquire knowledge of any change in control of management that might result. Information concerning any such change in control of management is supplied with each merger application and, in the circumstances, it is the view of the Board that the receipt of such information in connection with a merger application constitutes compliance with Pub. L. 88-593. However, once a merger has been approved and completely effectuated, the resulting bank would thereafter be subject to the reporting requirements of Pub. L. 88-593.
+
+(12 U.S.C. 1817)

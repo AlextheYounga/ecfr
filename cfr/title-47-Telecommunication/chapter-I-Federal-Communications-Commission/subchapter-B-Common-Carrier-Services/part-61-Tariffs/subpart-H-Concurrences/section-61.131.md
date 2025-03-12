@@ -1,0 +1,3 @@
+##### § 61.131 Scope. #####
+
+Sections 61.132 through 61.136 apply to a carrier which must file concurrences reflecting rates and regulations for through service provided in conjunction with other carriers and to a carrier which has chosen, as an alternative to publishing its own tariff, to arrange concurrence in an effective tariff of another carrier. Limited or partial concurrences will not be permitted.

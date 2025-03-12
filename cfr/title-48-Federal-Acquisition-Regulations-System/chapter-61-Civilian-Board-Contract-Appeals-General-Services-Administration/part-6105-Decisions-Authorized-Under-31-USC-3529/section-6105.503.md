@@ -1,0 +1,3 @@
+##### 6105.503 Additional submissions [Rule 503]. #####
+
+If the affected employee wishes to submit any additional information to the Board, he or she must submit such information within 30 calendar days after receiving the copy of the request for decision and supporting material (or within 60 calendar days after receiving the copy, if the affected employee is located outside the 50 states and the District of Columbia). To expedite proceedings, if the employee does not wish to make an additional submission, the employee should so notify the Board and the agency.

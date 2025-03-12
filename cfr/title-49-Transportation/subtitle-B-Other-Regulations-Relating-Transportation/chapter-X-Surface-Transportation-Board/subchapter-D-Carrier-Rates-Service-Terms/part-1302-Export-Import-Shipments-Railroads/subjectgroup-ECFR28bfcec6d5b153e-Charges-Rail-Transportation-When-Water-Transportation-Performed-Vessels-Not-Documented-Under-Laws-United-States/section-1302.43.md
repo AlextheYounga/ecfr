@@ -1,0 +1,7 @@
+##### § 1302.43 Applicable rates on shipments in transit when statute becomes effective. #####
+
+The following conditions are hereby prescribed as supplemental to the orders aforesaid suspending the provisions of section 28 of the Merchant Marine Act, that is to say, that notwithstanding the provisions of the aforesaid section 28 may become effective during the time when export or import shipments are in transit to or from the ports of export or import the following conditions shall be observed.
+
+(a) With respect to all export shipments delivered to and receipted for by common carriers subject to the provisions of section 6 of the Interstate Commerce Act (section 6, 24 Stat. 380, as amended; 49 U.S.C. 6(13)) the rates to the ports in force and applicable upon said shipments via the lines of said carriers upon the date of delivery to and receipt by such carriers shall be applied to said shipments; and,
+
+(b) With respect to all import shipments delivered to and receipted for by common carriers subject to the provisions of section 6 of the Interstate Commerce Act (49 U.S.C. 6 (13)) the rates from the ports in force and applicable to said shipments over the lines of said carriers upon the date of delivery to and receipt by such carriers shall be applied to said shipments.

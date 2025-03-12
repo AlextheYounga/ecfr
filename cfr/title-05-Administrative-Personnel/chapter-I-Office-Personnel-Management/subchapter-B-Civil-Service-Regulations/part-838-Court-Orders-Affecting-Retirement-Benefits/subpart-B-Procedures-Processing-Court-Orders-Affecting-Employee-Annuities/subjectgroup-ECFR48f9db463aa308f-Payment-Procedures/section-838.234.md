@@ -1,0 +1,3 @@
+##### § 838.234 Collection of arrearages. #####
+
+Specific instructions are required before OPM may pay any arrearage. Except as provided in § 838.225(b), OPM will not increase a former spouse's share of employee annuity to satisfy an arrearage due the former spouse. However, under § 838.225, OPM will prospectively honor the terms of an amended court order that either increases or decreases the court order's entitlement.

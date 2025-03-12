@@ -1,0 +1,5 @@
+##### § 68.5 Waivers. #####
+
+The Commission may, upon the application of any interested person, initiate a proceeding to waive the requirements of § 68.4(a)(1) with respect to new telephones, or telephones associated with a new technology or service. The Commission shall not grant such a waiver unless it determines, on the basis of evidence in the record of such proceeding, that such telephones, or such technology or service, are in the public interest, and that (a) compliance with the requirements of § 68.4(a)(1) is technologically infeasible, or (b) compliance with such requirements would increase the costs of the telephones, or of the technology or service, to such an extent that such telephones, technology, or service could not be successfully marketed. In any proceeding under this section to grant a waiver from the requirements of § 68.4(a)(1), the Commission shall consider the effect on hearing-impaired individuals of granting the waiver. The Commission shall periodically review and determine the continuing need for any waiver granted pursuant to this section.
+
+[54 FR 21430, May 18, 1989]

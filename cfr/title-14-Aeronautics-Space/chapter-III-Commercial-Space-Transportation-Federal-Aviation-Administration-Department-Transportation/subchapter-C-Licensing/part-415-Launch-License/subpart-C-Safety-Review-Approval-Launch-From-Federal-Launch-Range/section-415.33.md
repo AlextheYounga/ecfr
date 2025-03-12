@@ -1,0 +1,5 @@
+##### § 415.33 Safety organization. #####
+
+(a) An applicant shall maintain a safety organization and document it by identifying lines of communication and approval authority for all launch safety decisions. Lines of communication, both within the applicant's organization and between the applicant and any federal launch range providing launch services, shall be employed to ensure that personnel perform launch safety operations in accordance with range safety requirements and with plans and procedures required by this subpart. Approval authority shall be employed to ensure compliance with range safety requirements and with plans and procedures required by this subpart.
+
+(b) *Safety official.* An applicant shall identify by name, title, and qualifications, a qualified safety official authorized to examine all aspects of the applicant's launch safety operations and to monitor independently personnel compliance with the applicant's safety policies and procedures. The safety official shall report directly to the person responsible for an applicant's licensed launches, who shall ensure that all of the safety official's concerns are addressed prior to launch.

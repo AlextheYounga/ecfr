@@ -1,0 +1,9 @@
+##### 552.215-70 Examination of Records by GSA. #####
+
+As prescribed in 515.209-70(a), insert the following clause:
+
+Examination of Records by GSA (JUN 2016)
+
+The Contractor agrees that the Administrator of General Services or any duly authorized representatives shall, until the expiration of 3 years after final payment under this contract, or of the time periods for the particular records specified in Subpart 4.7 of the Federal Acquisition Regulation (48 CFR 4.7), whichever expires earlier, have access to and the right to examine any books, documents, papers, and records of the Contractor involving transactions related to this contract or compliance with any clauses thereunder. The Contractor further agrees to include in all its subcontracts hereunder a provision to the effect that the subcontractor agrees that the Administrator of General Services or any authorized representatives shall, until the expiration of 3 years after final payment under the subcontract, or of the time periods for the particular records specified in Subpart 4.7 of the Federal Acquisition Regulation (48 CFR 4.7), whichever expires earlier, have access to and the right to examine any books, documents, papers, and records of such subcontractor involving transactions related to the subcontract or compliance with any clauses thereunder. The term “subcontract” as used in this clause excludes (a) purchase orders not exceeding the simplified adquisition threshold and (b) subcontracts or purchase orders for public utility services at rates established for uniform applicability to the general public.
+
+(End of clause)[64 FR 37229, July 9, 1999, as amended at 81 FR 1533, Jan. 13, 2016; 81 FR 36425, June 6, 2016]

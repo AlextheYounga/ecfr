@@ -1,0 +1,25 @@
+##### § 223.32 What rules apply to financial subsidiaries of a member bank? #####
+
+(a) *Exemption from the 10 percent limit for covered transactions between a member bank and a single financial subsidiary.* The 10 percent quantitative limit contained in § 223.11 does not apply with respect to covered transactions between a member bank and a financial subsidiary of the member bank. The 20 percent quantitative limit contained in § 223.12 does apply to such transactions.
+
+(b) *Valuation of purchases of or investments in the securities of a financial subsidiary*—(1) *General rule.* A member bank's purchase of or investment in a security issued by a financial subsidiary of the member bank must be valued at the greater of:
+
+(i) The total amount of consideration given (including liabilities assumed) by the member bank in exchange for the security, reduced to reflect amortization of the security to the extent consistent with GAAP; and
+
+(ii) The carrying value of the security (adjusted so as not to reflect the member bank's pro rata portion of any earnings retained or losses incurred by the financial subsidiary after the member bank's acquisition of the security).
+
+(2) *Carrying value of an investment in a consolidated financial subsidiary.* If a financial subsidiary is consolidated with its parent member bank under GAAP, the carrying value of the member bank's investment in securities issued by the financial subsidiary shall be equal to the carrying value of the securities on parent-only financial statements of the member bank, determined in accordance with GAAP (adjusted so as not to reflect the member bank's pro rata portion of any earnings retained or losses incurred by the financial subsidiary after the member bank's acquisition of the securities).
+
+(3) *Examples of the valuation of purchases of and investments in the securities of a financial subsidiary.* The following are examples of how a member bank must value its purchase of or investment in securities issued by a financial subsidiary of the member bank. Each example involves a securities underwriter that becomes a financial subsidiary of the member bank after the transactions described below.
+
+(i) *Initial valuation.* (A) *Direct acquisition by a member bank.* A member bank pays $500 to acquire 100 percent of the shares of a securities underwriter. The initial carrying value of the shares on the member bank's parent-only GAAP financial statements is $500. The member bank initially must value the investment at $500.
+
+(B) *Contribution of a financial subsidiary to a member bank.* The parent holding company of a member bank acquires 100 percent of the shares of a securities underwriter in a transaction valued at $500, and immediately contributes the shares to the member bank. The member bank gives no consideration in exchange for the shares. The member bank initially must value the investment at the carrying value of the shares on the member bank's parent-only GAAP financial statements. Under GAAP, the member bank's initial carrying value of the shares would be $500.
+
+(ii) *Carrying value not adjusted for earnings and losses of the financial subsidiary.* A member bank and its parent holding company engage in the transaction described in paragraph (b)(3)(i)(B) of this section, and the member bank initially values the investment at $500. In the following year, the securities underwriter earns $25 in profit, which is added to its retained earnings. The member bank's carrying value of the shares of the underwriter is not adjusted for purposes of this part, and the member bank must continue to value the investment at $500. If, however, the member bank contributes $100 of additional capital to the securities underwriter, the member bank must value the aggregate investment at $600.
+
+(c) *Treatment of an affiliate's investments in, and extensions of credit to, a financial subsidiary of a member bank*—(1) *Investments.* Any purchase of, or investment in, the securities of a financial subsidiary of a member bank by an affiliate of the member bank is treated as a purchase of or investment in such securities by the member bank.
+
+(2) *Extensions of credit that are treated as regulatory capital of the financial subsidiary.* Any extension of credit to a financial subsidiary of a member bank by an affiliate of the member bank is treated as an extension of credit by the member bank to the financial subsidiary if the extension of credit is treated as capital of the financial subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
+
+(3) *Other extensions of credit.* Any other extension of credit to a financial subsidiary of a member bank by an affiliate of the member bank will be treated as an extension of credit by the member bank to the financial subsidiary, if the Board determines, by regulation or order, that such treatment is necessary or appropriate to prevent evasions of the Federal Reserve Act or the Gramm-Leach-Bliley Act.

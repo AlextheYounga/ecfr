@@ -1,0 +1,3 @@
+##### § 36.5 Limitation of part. #####
+
+Pursuant to 49 U.S.C. 1431(b)(4), the noise levels in this part have been determined to be as low as is economically reasonable, technologically practicable, and appropriate to the type of aircraft to which they apply. No determination is made, under this part, that these noise levels are or should be acceptable or unacceptable for operation at, into, or out of, any airport.

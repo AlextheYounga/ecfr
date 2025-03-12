@@ -1,0 +1,9 @@
+##### § 53.112 Nondiscrimination. #####
+
+(a) Before an application is recommended by a State agency to the Secretary for approval, the State agency shall obtain an assurance from the applicant that all portions and services of the entire facility for the construction or modernization of which, or in connection with which, aid under the Act is sought will be made available without discrimination on account of creed and no professionally qualified person will be discriminated against on account of creed with respect to the privilege of professional practice in the facility.
+
+(b) Each construction contract is subject to the condition that the applicant shall comply with the requirements of Executive Order 11246, September 24, 1965 (30 FR 12319), relating to nondiscrimination in construction contract employment, and the applicable rules, regulations, and procedures prescribed pursuant thereto.
+
+(c) Attention is called to the requirement of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d; 78 Stat. 252) which provides that no person in the United States shall, on the ground of race, color, or national origin be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance. A regulation implementing such title VI, applicable to assistance under this part for construction and modernization of hospitals and medical facilities, has been issued by the Secretary of Health and Human Services with the approval of the President (45 CFR part 80).
+
+[37 FR 182, Jan. 6, 1972, as amended at 39 FR 31767, Aug. 30, 1974]

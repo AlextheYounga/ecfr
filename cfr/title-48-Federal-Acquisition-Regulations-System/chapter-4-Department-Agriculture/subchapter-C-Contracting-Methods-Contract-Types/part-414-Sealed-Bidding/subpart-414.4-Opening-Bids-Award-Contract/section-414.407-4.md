@@ -1,0 +1,3 @@
+##### 414.407-4 Mistakes after award. #####
+
+If a mistake in bid is disclosed after award, the contracting officer shall make a final determination in accordance with the provisions of FAR 14.407-4 (b) and (c) and shall coordinate each proposed determination with OGC. Such coordination shall, at a minimum, consist of the contracting officer providing the proposed determination and the case file to OGC for comment.

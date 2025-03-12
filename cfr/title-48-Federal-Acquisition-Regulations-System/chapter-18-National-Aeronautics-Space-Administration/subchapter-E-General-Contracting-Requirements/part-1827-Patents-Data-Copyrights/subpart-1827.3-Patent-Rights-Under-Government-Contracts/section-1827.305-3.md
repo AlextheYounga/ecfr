@@ -1,0 +1,3 @@
+##### 1827.305-3 Securing invention rights acquired by the Government. #####
+
+When the Government acquires the entire right to, title to, and interest in an invention under the clause at 1852.227-70, New Technology—Other than a Small Business Firm or Nonprofit Organization, a determination of title is to be made in accordance with section 20135(b) of the Act (51 U.S.C. 20135(b)), and reflected in appropriate instruments executed by NASA Administrator and forwarded to the contractor by the contracting officer.

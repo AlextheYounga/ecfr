@@ -1,0 +1,3 @@
+##### § 35.538 Project period. #####
+
+If the projected completion date for a work plan commitment funded under an environmental program grant that is added to a Performance Partnership Grant extends beyond the end of the project period for the Performance Partnership Grant, the Regional Administrator and the recipient will agree in writing as to how and when the work plan commitment will be completed.

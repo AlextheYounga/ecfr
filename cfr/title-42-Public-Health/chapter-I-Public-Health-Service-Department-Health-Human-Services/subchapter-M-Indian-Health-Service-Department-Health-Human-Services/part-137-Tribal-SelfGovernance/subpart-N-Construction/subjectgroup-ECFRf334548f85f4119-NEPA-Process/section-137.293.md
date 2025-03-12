@@ -1,0 +1,3 @@
+##### § 137.293 Are Self-Governance Tribes required to adopt a separate resolution or take equivalent Tribal action to assume environmental responsibilities for each construction project agreement? #####
+
+No, the Self-Governance Tribe may adopt a single resolution or take equivalent Tribal action to assume environmental responsibilities for a single project, multiple projects, a class of projects, or all projects performed under section 509 of the Act [25 U.S.C. 458aaa-8].

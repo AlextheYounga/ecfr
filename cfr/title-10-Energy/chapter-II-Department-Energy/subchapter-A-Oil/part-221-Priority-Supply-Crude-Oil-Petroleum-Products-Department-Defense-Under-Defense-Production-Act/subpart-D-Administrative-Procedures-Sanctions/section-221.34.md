@@ -1,0 +1,3 @@
+##### § 221.34 Effect of order. #####
+
+*Defense against claims for damages.* No person shall be liable for damages or penalties for any act or failure to act resulting directly or indirectly from compliance with any ERA authorized priority-rated supply order or ERA directive issued pursuant to this part, notwithstanding that such priority-rated supply order or directive thereafter be declared by judicial or other competent authority to be invalid.

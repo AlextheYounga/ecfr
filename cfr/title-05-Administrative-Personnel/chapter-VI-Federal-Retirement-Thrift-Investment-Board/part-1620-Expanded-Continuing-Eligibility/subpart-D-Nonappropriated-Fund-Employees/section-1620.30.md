@@ -1,0 +1,3 @@
+##### § 1620.30 Scope. #####
+
+This subpart applies to any employee of a Nonappropriated Fund (NAF) instrumentality of the Department of Defense (DOD) or the U.S. Coast Guard who elects to be covered by CSRS or FERS and to any employee in a CSRS- or FERS-covered position who elects to be covered by a retirement plan established for employees of a NAF instrumentality pursuant to the Portability of Benefits for Nonappropriated Fund Employees Act of 1990, Public Law 101-508, 104 Stat. 1388, 1388-335 to 1388-341, as amended (codified largely at 5 U.S.C. 8347(q) and 8461(n)).

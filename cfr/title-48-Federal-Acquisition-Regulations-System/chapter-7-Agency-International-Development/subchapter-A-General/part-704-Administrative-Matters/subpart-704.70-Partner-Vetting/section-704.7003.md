@@ -1,0 +1,3 @@
+##### 704.7003 Policy. #####
+
+In the interest of national security, USAID may determine that a particular acquisition is subject to vetting. In that case, USAID will require vetting of all key individuals of offerors, first tier subcontractors, and any other class of subcontracts if identified in the solicitation and resulting contract. When USAID conducts partner vetting, it will not award a contract to any offeror who does not pass vetting.

@@ -1,0 +1,3 @@
+##### § 602.1 Purpose and scope. #####
+
+This part contains FCA's rules for disclosing our records or information; processing requests for records under the Freedom of Information Act (5 U.S.C. 552, as amended)(FOIA); FOIA fees; disclosing otherwise exempt information in litigation when FCA is not a party; and getting documents in public rulemaking files. Part 603 of this chapter tells you how to get records about yourself under the Privacy Act of 1974, 5 U.S.C. 552a.

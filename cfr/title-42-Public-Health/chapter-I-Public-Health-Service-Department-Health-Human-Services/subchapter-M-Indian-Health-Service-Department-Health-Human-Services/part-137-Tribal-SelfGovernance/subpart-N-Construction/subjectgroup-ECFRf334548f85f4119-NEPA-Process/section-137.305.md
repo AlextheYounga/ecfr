@@ -1,0 +1,3 @@
+##### § 137.305 May Self-Governance Tribes act as lead, cooperating, or joint lead agencies for environmental review purposes? #####
+
+Yes, Self-Governance Tribes assuming Federal environmental responsibilities for construction projects under section 509 of the Act [25 U.S.C. 458aaa-8] are entitled to receive equal consideration, on the same basis as any Federal agency, for lead, cooperating, and joint lead agency status. For informational purposes, the terms “lead,” “cooperating,” and “joint lead agency” are defined in the CEQ regulations at 40 CFR 1508.16, 1508.5, and 1501.5 respectively.

@@ -1,0 +1,3 @@
+##### § 205.174 Remedial orders. #####
+
+The Administrator may issue appropriate remedial orders to a manufacturer if products are distributed into commerce not in compliance with the regulations of this subpart. Potential orders are stop sale orders, orders to cease distribution, relabel, replace or recall, or any other orders appropriate in the specific circumstances. A remedial order will be issued only after notice and opportunity for a hearing in accordance with 5 U.S.C. 554.

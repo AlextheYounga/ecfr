@@ -1,0 +1,3 @@
+##### § 1203.23 Comments by other parties. #####
+
+Any party to the underlying adversary adjudication other than the applicant and agency counsel may file comments on an application for award within 30 calendar days after it is served, or on a response within 15 calendar days after it is served. A commenting party may not participate further in proceedings on the application unless the adjudicative officer determines that the public interest requires such participation in order to permit full exploration of matters raised in the comments.

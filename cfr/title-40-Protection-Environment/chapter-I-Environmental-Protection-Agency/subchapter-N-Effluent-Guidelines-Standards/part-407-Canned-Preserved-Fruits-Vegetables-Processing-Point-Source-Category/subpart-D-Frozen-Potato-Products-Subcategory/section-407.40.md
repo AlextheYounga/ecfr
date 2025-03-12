@@ -1,0 +1,3 @@
+##### § 407.40 Applicability; description of the frozen potato products subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the processing of white potatoes into frozen potato products. When a plant is subject to effluent limitations covering more than one subcategory, the plant discharge limitation shall be set by proration limitations for each subcategory based on the total raw material covered by each subcategory.

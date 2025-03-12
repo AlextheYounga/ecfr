@@ -1,0 +1,3 @@
+##### § 745.11 Accounts evidenced by negotiable instruments. #####
+
+If any insured account obligation of a credit union is evidenced by a negotiable certificate account, negotiable draft, negotiable cashier's or officer's check, negotiable certified check, or negotiable traveler's check or letter of credit, the owner of such account obligation will be recognized for all purposes of a claim for insured accounts to the same extent as if his name and interest were disclosed on the records of the credit union provided the instrument was in fact negotiated to such owner prior to the date of the closing of the credit union. Affirmative proof of such negotiation must be offered in all cases to substantiate the claim.

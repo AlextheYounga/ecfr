@@ -1,0 +1,5 @@
+##### 915.603 General. #####
+
+(f) Unsolicited proposals for the performance of support services are, except as discussed in this paragraph, unacceptable as the performance of such services is unlikely to necessitate innovative and unique concepts. There may be rare instances in which an unsolicited proposal offers an innovative and unique approach to the accomplishment of a support service. If such a proposal offers a previously unknown or an alternative approach to generally recognized techniques for the accomplishment of a specific service(s) and such approach will provide significantly greater economy or enhanced quality, it may be considered for acceptance. Such acceptance shall, however, require approval of the acquisition of support services in accordance with applicable DOE Directives and be processed as a deviation to the prohibition in this paragraph.
+
+[63 FR 56851, Oct. 23, 1998, as amended at 74 FR 36364, July 22, 2009]

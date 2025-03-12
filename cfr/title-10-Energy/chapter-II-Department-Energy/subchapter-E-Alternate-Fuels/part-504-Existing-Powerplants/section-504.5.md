@@ -1,0 +1,15 @@
+##### § 504.5 Prohibitions by order (certifying powerplants under section 301 of FUA, as amended). #####
+
+(a) In the case of existing powerplants, OFP may prohibit, in accordance with section 301 of the Act, as amended, the use of petroleum or natural gas as a primary energy source where the owner or operator of the powerplant presents a complete certification concurred in by OFP. The certification, which may be presented at any time, pertains to the unit's technical capability and financial feasibility to use coal or another alternate fuel as a primary energy source in the unit. The informational requirements necessary to support a certification are contained in § 504.6 of these regulations. A prohibition compliance schedule which meets the requirements of § 504.5(d) shall also be submitted.
+
+(b) If OFP concurs with the certification, a prohibition order on the powerplant's use of petroleum or natural gas will be issued following the procedure outlined in § 501.52 of these regulations.
+
+(c) The petitioner may amend its certification at any time prior to the effective date of the prohibitions contained in the final prohibition order in order to take into account changes in relevant facts and circumstances by following the procedure contained in § 501.52(d).
+
+(d) *Prohibition order compliance schedule.* The certification described above, which forms the basis for the issuance of a prohibition order to a powerplant, shall include a prohibition order compliance schedule. The compliance schedule should contain the following:
+
+(1) A schedule of progressive events involved in the conversion project, including construction of any facilities for the production of fuel or fuel handling equipment, and contracts for the purchase of alternate fuels, and estimated date of compliance with the applicable prohibitions of the Act; and
+
+(2) A schedule indicating estimated dates for obtaining necessary federal, state, and local permits and approvals. Any prohibition order issued under the certification provisions of §§ 504.5, 504.6, and 504.8 will be subject to appropriate conditions subsequent so as to delay the effectiveness of the prohibitions contained in the final prohibition order until the above events or permits have occurred or been obtained.
+
+(Approved by the Office of Management and Budget under control number 1903-0077)(Department of Energy Organization Act, Pub. L. 95-91 (42 U.S.C. 7101 *et seq.*); Energy Supply and Environmental Coordination Act of 1974, Pub. L. 93-319, as amended by Pub. L. 94-163, Pub. L. 95-70, and Pub. L. 95-620 (15 U.S.C. 719 *et seq.*); Powerplant and Industrial Fuel Use Act of 1978, Pub. L. 95-620, as amended by Pub. L. 97-35 (42 U.S.C. 8301 *et seq.*); Omnibus Budget Reconciliation Act of 1981, Pub. L. 97-35)[47 FR 17044, Apr. 21, 1982]

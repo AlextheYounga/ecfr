@@ -1,0 +1,3 @@
+##### § 1103.19 Advising upon the merits of a client's cause. #####
+
+A practitioner shall try to obtain full knowledge of his client's cause before advising thereon. The practitioner shall give a candid opinion of the merits and probable result of bringing the case or of any related pending or contemplated litigation. The practitioner shall beware of bold and confident assurances to clients, especially where employment may depend upon such assurances. Whenever a fair settlement can be reached, the client shall be advised to avoid or to end litigation.

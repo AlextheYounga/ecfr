@@ -1,0 +1,3 @@
+##### § 456.200 Scope. #####
+
+Sections 456.201 through 456.245 of this subpart prescribe requirements for a written utilization review (UR) plan for each mental hospital providing Medicaid services. Sections 456.205 and 456.206 prescribe administrative requirements; §§ 456.211 through 456.213 prescribe informational requirements; §§ 456.231 through 456.238 prescribe requirements for continued stay review; and §§ 456.241 through 456.245 prescribe requirements for medical care evaluation studies.

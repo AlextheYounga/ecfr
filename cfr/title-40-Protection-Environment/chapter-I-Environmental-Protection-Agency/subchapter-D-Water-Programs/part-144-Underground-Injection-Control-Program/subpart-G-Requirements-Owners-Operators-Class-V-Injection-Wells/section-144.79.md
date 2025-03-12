@@ -1,0 +1,3 @@
+##### § 144.79 General. #####
+
+This subpart tells you what requirements apply if you own or operate a Class V injection well. You may also be required to follow additional requirements listed in the rest of this part. Where they may apply, these other requirements are referenced rather than repeated. The requirements described in this subpart and elsewhere in this part are to protect underground sources of drinking water and are part of the Underground Injection Control (UIC) Program established under the Safe Drinking Water Act. This subpart is written in a special format to make it easier to understand the regulatory requirements. Like other EPA regulations, it establishes enforceable legal requirements.

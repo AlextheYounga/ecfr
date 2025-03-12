@@ -1,0 +1,5 @@
+##### § 25.278 Additional coordination obligation for non-geostationary and geostationary satellite systems in frequencies allocated to the fixed-satellite service. #####
+
+Licensees of non-geostationary satellite systems that use frequency bands allocated to the Fixed-Satellite Service for their feeder link operations shall coordinate their operations with licensees of geostationary Fixed-Satellite Service systems licensed by the Commission for operation in the same frequency bands. Licensees of geostationary Fixed-Satellite Service systems in the frequency bands that are licensed to non-geostationary satellite systems for feeder link operations shall coordinate their operations with the licensees of such non-geostationary satellite systems.
+
+[59 FR 53330, Oct. 21, 1994, as amended at 78 FR 8431, Feb. 6, 2013]

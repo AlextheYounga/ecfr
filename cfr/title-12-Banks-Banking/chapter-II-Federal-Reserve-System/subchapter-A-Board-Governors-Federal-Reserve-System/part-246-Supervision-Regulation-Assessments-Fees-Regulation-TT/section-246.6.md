@@ -1,0 +1,7 @@
+##### § 246.6 Collection of assessments; payment of interest. #####
+
+(a) *Collection date.* Each assessed company shall remit to the Federal Reserve the amount of its assessment using the Fedwire Funds Service by September 15 of the calendar year following the assessment period, or, for the 2012 assessment period, by a date specified in the notice of assessment for that assessment period.
+
+(b) *Payment of interest.* (1) If the Board does not receive the total amount of an assessed company's assessment by the collection date for any reason not attributable to the Board, the assessment will be delinquent and the assessed company shall pay to the Board interest on any sum owed to the Board according to this rule (delinquent payments).
+
+(2) Interest on delinquent payments will be assessed beginning on the first calendar day after the collection date, and on each calendar day thereafter up to and including the day payment is received. Interest will be simple interest, calculated for each day payment is delinquent by multiplying the daily equivalent of the applicable interest rate by the amount delinquent. The rate of interest will be the United States Treasury Department's current value of funds rate (the “CVFR percentage”); issued under the Treasury Fiscal Requirements Manual and published quarterly in the Federal Register. Each delinquent payment will be charged interest based on the CVFR percentage applicable to the quarter in which all or part of the assessment goes unpaid.

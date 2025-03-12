@@ -1,0 +1,5 @@
+##### § 7.18 Procedure; designation of agents for service. #####
+
+(a) The Commission shall promptly forward any informal complaint meeting the requirements of § 7.17 to each manufacturer and provider named in or determined by the staff to be implicated by the complaint. Such manufacturer(s) or provider(s) shall be called on to satisfy or answer the complaint within the time specified by the Commission.
+
+(b) To ensure prompt and effective service of informal and formal complaints filed under this subpart, every manufacturer and provider subject to the requirements of section 255 of the Act and this subpart, shall designate an agent, and may designate additional agents if it so chooses, upon whom service may be made of all notices, inquiries, orders, decisions, and other pronouncements of the Commission in any matter before the Commission. Such designation shall include, for both the manufacturer or the provider, a name or department designation, business address, telephone number, and, if available TTY number, facsimile number, and Internet e-mail address.

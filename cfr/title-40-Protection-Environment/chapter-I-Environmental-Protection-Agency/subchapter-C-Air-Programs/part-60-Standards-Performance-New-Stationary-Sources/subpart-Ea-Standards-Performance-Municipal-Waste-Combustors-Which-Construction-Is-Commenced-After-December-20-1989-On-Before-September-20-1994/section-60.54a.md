@@ -1,0 +1,7 @@
+##### § 60.54a Standard for municipal waste combustor acid gases. #####
+
+(a)-(b) [Reserved]
+
+(c) On and after the date on which the initial compliance test is completed or is required to be completed under § 60.8, no owner or operator of an affected facility located within a large MWC plant shall cause to be discharged into the atmosphere from that affected facility any gases that contain sulfur dioxide in excess of 20 percent of the potential sulfur dioxide emission rate (80 percent reduction by weight or volume) or 30 parts per million by volume, corrected to 7 percent oxygen (dry basis), whichever is less stringent. The averaging time is specified in § 60.58a(e).
+
+(d) On and after the date on which the initial compliance test is completed or is required to be completed under § 60.8, no owner or operator of an affected facility located within a large MWC plant shall cause to be discharged into the atmosphere from that affected facility any gases that contain hydrogen chloride in excess of 5 percent of the potential hydrogen chloride emission rate (95 percent reduction by weight or volume) or 25 parts per million by volume, corrected to 7 percent oxygen (dry basis), whichever is less stringent.

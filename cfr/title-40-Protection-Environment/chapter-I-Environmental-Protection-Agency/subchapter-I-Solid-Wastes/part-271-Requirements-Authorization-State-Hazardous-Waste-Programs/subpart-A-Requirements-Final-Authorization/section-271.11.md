@@ -1,0 +1,19 @@
+##### § 271.11 Requirements for transporters of hazardous wastes. #####
+
+(a) The State program must cover all transporters covered by 40 CFR part 263. New transporters must be required to contact the State and obtain an EPA identification number from the State before they accept hazardous waste for transport.
+
+(b) The State shall have authority to require and shall require all transporters to comply with reporting and recordkeeping requirements equivalent to those under 40 CFR 263.22. States must require that transporters keep these records at least 3 years. States that choose to receive electronic documents must include the requirements of 40 CFR Part 3—(Electronic reporting) in their Program (except that states that choose to receive electronic manifests and/or permit the use of electronic manifests must comply with any applicable requirements for e-manifest in this section of this section).
+
+(c)(1) The state must require the transporter to carry the manifest forms (EPA Forms 8700-22 and 8700-22A) during transport, or, where the electronic manifest is used and the U. S. Department of Transportation's Hazardous Materials Regulations, 49 CFR parts 171-180, require a paper shipping document on the transport vehicle, to carry one printed copy of the electronic manifest during transport, except in the case of shipments by rail or water, for which transporters may carry a shipping paper as specified in 40 CFR 263.20(e) and (f).
+
+(2) The State must require the transporter to deliver waste only to the facility designated on the manifest, which in the case of return shipments of rejected wastes or regulated container residues, may also include the original generator of the waste shipment.
+
+(3) The State program must provide requirements for shipments by rail or water equivalent to those under 40 CFR 263.20(e) and (f).
+
+(4) For exports of hazardous waste, the state must require the transporter to refuse to accept hazardous waste for export if the exporter has not provided: A manifest listing the consent numbers for the hazardous waste shipment; a movement document for shipments occurring under consents issued by EPA on or after December 31, 2016; and on or after the AES filing compliance date, the ITN number for the hazardous waste shipment. The state must further require the transporter to carry a movement document and manifest with the shipment, as required; to sign and date the International Shipments Block of the manifest to indicate the date the shipment leaves the U.S.; to carry paper documentation of consent (*i.e.,* Acknowledgement of Consent, movement document) with the shipment and to give a copy of the manifest to the U.S. customs official at the point of departure if instructed by mail, email or fax by the exporter to do so; and to send a copy of the manifest, if in paper form, to the e-Manifest system using the allowable methods listed in 40 CFR 264.71(a)(2)(v).
+
+(d) For hazardous wastes that are discharged in transit, the State program must require that transporters notify appropriate State, local, and Federal agencies of such discharges, and clean up such wastes, or take action so that such wastes do not present a hazard to human health or the environment. These requirements shall be equivalent to those found at 40 CFR 263.30 and 263.31.
+
+(e) Unless otherwise provided in part 271, the State program shall have standards for transporters which are at least as stringent as any amendment to 40 CFR Part 263 which is promulgated after July 1, 1984.
+
+[48 FR 14248, Apr. 1, 1983, as amended at 51 FR 28686, Aug. 8, 1986; 51 FR 33722, Sept. 22, 1986; 70 FR 10825, Mar. 4, 2005; 70 FR 59888, Oct. 13, 2005; 79 FR 7563, Feb. 7, 2014; 81 FR 85729, Nov. 28, 2016]

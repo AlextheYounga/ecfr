@@ -1,0 +1,3 @@
+##### § 1.2 Extent of the competitive service. #####
+
+The competitive service shall include: (a) All civilian positions in the executive branch of the Government unless specifically excepted therefrom by or pursuant to statute or by the Office of Personnel Management (hereafter referred to in this subchapter as OPM) under § 6.1 of this subchapter; and (b) all positions in the legislative and judicial branches of the Federal Government and in the Government of the District of Columbia which are specifically made subject to the civil service laws by statute. OPM is authorized and directed to determine finally whether a position is in the competitive service.

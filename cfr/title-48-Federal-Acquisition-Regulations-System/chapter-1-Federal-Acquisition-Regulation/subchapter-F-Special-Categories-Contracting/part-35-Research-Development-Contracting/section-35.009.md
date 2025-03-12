@@ -1,0 +1,5 @@
+##### 35.009 Subcontracting research and development effort. #####
+
+Since the selection of R&D contractors is substantially based on the best scientific and technological sources, it is important that the contractor not subcontract technical or scientific work without the contracting officer's advance knowledge. During the negotiation of a cost-reimbursement R&D contract, the contracting officer shall obtain complete information concerning the contractor's plans for subcontracting any portion of the experimental, research, or development effort (see also 35.007(c)). Also when negotiating a fixed-price contract, the contracting officer should evaluate this information and may obtain an agreement that protects the Government's interests. The clause at 52.244-2, Subcontracts, prescribed for certain types of contracts at 44.204(a), requires the contracting officer's prior approval for the placement of certain subcontracts.
+
+[48 FR 42352, Sept. 19, 1983, as amended at 63 FR 34060, June 22, 1998]

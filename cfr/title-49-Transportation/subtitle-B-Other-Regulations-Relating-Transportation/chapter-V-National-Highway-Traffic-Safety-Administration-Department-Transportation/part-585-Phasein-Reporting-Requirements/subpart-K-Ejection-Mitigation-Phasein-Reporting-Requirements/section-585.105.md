@@ -1,0 +1,13 @@
+##### § 585.105 Reporting requirements. #####
+
+(a) *Advanced credit phase-in reporting requirements.* (1) Within 60 days after the end of the production years ending August 31, 2011, through August 31, 2017, each manufacturer certifying vehicles manufactured during any of those production years as complying with the ejection mitigation requirements of Standard No. 226 (49 CFR 571.226) shall submit a report to the National Highway Traffic Safety Administration providing the information specified in paragraph (c) of this section and in § 585.2 of this part.
+
+(b) *Phase-in reporting requirements.* Within 60 days after the end of each of the production years ending August 31, 2014, through August 31, 2017, each manufacturer shall submit a report to the National Highway Traffic Safety Administration concerning its compliance with the ejection mitigation requirements of Standard No. 226 (49 CFR 571.226) for its vehicles produced in that year. Each report shall provide the information specified in paragraph (d) of this section and in § 585.2 of this part.
+
+(c) *Advanced credit phase-in report content*—(1) *Production of complying vehicles.* With respect to the reports identified in § 585.105(a), each manufacturer shall report for the production year for which the report is filed the number of vehicles, by make and model year, that are certified as meeting the ejection mitigation requirements of Standard No. 226 (49 CFR 571.226).
+
+(d) *Phase-in report content*—
+
+(1) *Basis for phase-in production goals.* Each manufacturer shall provide the number of passenger cars, multipurpose passenger vehicles, trucks, and buses, with a gross vehicle weight rating of 4,536 kilograms (10,000 pounds) or less, manufactured in the current production year, or, at the manufacturer's option, in each of the three previous production years. A new manufacturer that is, for the first time, manufacturing these vehicles for sale in the United States must report the number of these vehicles manufactured during the current production year.
+
+(2) *Production of complying vehicles.* Each manufacturer shall report for the production year being reported on information on the number of passenger cars, multipurpose passenger vehicles, trucks, and buses, with a gross vehicle weight rating of 4,536 kilograms (10,000 pounds) or less that meet the ejection mitigation requirements of Standard No. 226 (49 CFR 571.226). The manufacturer shall report the vehicles produced during the preceding years for which the manufacturer is claiming credits as having been produced during the production year being reported on.

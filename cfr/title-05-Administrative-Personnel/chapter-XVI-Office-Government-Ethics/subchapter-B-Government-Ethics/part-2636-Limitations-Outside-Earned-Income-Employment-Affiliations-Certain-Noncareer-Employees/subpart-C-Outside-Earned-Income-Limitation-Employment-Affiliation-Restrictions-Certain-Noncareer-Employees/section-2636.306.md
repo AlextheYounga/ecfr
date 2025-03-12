@@ -1,0 +1,7 @@
+##### § 2636.306 Compensation restriction applicable to service as an officer or member of a board. #####
+
+(a) *Applicable restriction.* A covered noncareer employee shall not receive compensation for serving as an officer or member of the board of any association, corporation or other entity. Nothing in this section prohibits uncompensated service with any entity.
+
+(b) *Definition.* For purposes of this section, the phrase “association, corporation or other entity” is not limited to for-profit entities, but includes nonprofit entities, such as charitable organizations and professional associations, as well as any unit of state or local government.
+
+Example 1.A covered noncareer employee of the Environmental Protection Agency may not serve with compensation on the board of directors of his sister's closely-held computer software corporation.Example 2.A covered noncareer employee of the Department of the Navy may serve without compensation as an officer of a charitable organization that operates a hospice.Example 3.A covered noncareer employee of the Coast Guard appointed to serve as a member of the board of education of the county in which she is a resident may not receive compensation for that service.

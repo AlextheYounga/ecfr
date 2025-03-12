@@ -1,0 +1,3 @@
+##### § 221.71 Requirement of clarity and specificity. #####
+
+Amendments to tariffs shall identify with specificity and clarity the material being amended and the changes being made. Amendments to paper tariffs shall be accomplished by reissuing each page upon which a change occurs with the change made and identified by uniform amendment symbols. Each revised page shall identify and cancel the previously effective page, show the effective date of the previous page, and show the intended effective date of the revised page. Amendments in electronic format shall conform to the requirements of § 221.202 and other applicable provisions of subpart R.

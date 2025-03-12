@@ -1,0 +1,3 @@
+##### § 633.13 Initiation of PMO services. #####
+
+PMO services will be initiated as soon as it is practicable, once the agency determines this part applies. In most cases, this means that PMO will begin during the preliminary engineering phase of the project. However, consistent with other provisions in this part, the Administrator may determine that a project is a “major capital project” at any point during its implementation. Should this occur, PMO will begin as soon as practicable after this agency determination.

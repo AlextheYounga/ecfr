@@ -1,0 +1,37 @@
+##### § 13.26 Filing and service of papers. #####
+
+(a) *Filing.* (1) Unless otherwise provided by order, all filings must be made as electronic submissions in a manner that enables the NRC to receive, read, authenticate, distribute, and archive the submission, and process and retrieve it a single page at a time. Detailed guidance on making electronic submissions may be found in the E-Filing Guidance and on the NRC Web site at *http://www.nrc.gov/site-help/e-submittals.html.* If a filing contains sections of information or electronic formats that may not be transmitted electronically for security or other reasons, portions not containing those sections will be transmitted electronically to the E-Filing system. In addition, optical storage media (OSM) containing the entire filing must be physically delivered or mailed. In such cases, the submitter does not need to apply to the Commission for an exemption to deviate from the requirements in paragraph (a) of this section.
+
+(2) Electronic transmission exemption. The ALJ may relieve a participant who is filing electronic documents of the transmission requirements in paragraph (a) of this section. Such a participant will file electronic documents by physically delivering or mailing an OSM containing the documents. The electronic formatting requirement in paragraph (a) of this section must be met.
+
+(3) Electronic document exemption. The ALJ may relieve a participant of both the electronic (computer file) formatting and transmission requirements in paragraph (a)(1) of this section. Such a participant will file paper documents physically or by mail to the Secretary, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, Attention: Rulemakings and Adjudications Staff. Filing by mail is complete upon deposit in the mail.
+
+(4) Requesting an exemption. A participant seeking an exemption under paragraphs (a)(2) or (a)(3) of this section must submit the exemption request with its first filing in the proceeding. In the request, the requestor must show good cause as to why it cannot file electronically. The filer may not change its formats and delivery methods for filing until a ruling on the exemption request is issued. Exemption requests submitted after the first filing in the proceeding will be granted only if the requestor shows that the interests of fairness so require.
+
+(5) Every pleading and document filed in the proceeding shall contain a caption setting forth the title of the action, the case number assigned by the presiding officer, and a designation of the document (e.g., motion to quash subpoena).
+
+(6) Filing is complete when the filer performs the last act that it must perform to submit a document, such as hitting the send/submit/transmit button for an electronic transmission or depositing the document, in its entirety, in a mailbox.
+
+(b) *Signatures.* The original of each document must be signed by the participant or its authorized representative, or by an attorney having authority with respect to it. The document must state the capacity of the person signing; his or her address, phone number, and e-mail address; and the date of signature. The signature of a person signing a pleading or other similar document submitted by a participant is a representation that the document has been subscribed in the capacity specified with full authority, that he or she has read it and knows the contents, that to the best of his or her knowledge, information, and belief the statements made in it are true, and that it is not interposed for delay. The signature of a person signing an affidavit or similar document, which should be submitted in accord with the form outlined in 28 U.S.C. 1746, is a representation that, under penalty of perjury, the document is true and correct to the best of that individual's knowledge and belief. If a document is not signed, or is signed with intent to defeat the purpose of this section, it may be struck.
+
+(1) An electronic document must be signed using a participant's or a participant representative's digital ID certificate. Additional signatures can be added to the electronic document, including to any affidavits that accompany the document, by a typed-in designation that indicates the signer understands and acknowledges that he or she is assenting to the representations in paragraph (d) of this section.
+
+(i) When signing an electronic document using a digital ID certificate, the signature page for the electronic document should contain a typed signature block that includes the phrase “Signed (electronically) by” typed onto the signature line; the name and the capacity of the person signing; the person's address, phone number, and e-mail address; and the date of signature.
+
+(ii) If additional individuals need to sign an electronic document, including any affidavits that accompany the document, these individuals must sign by inserting a typed signature block in the electronic document that includes the phrase “Executed in Accord with 10 CFR 2.304(d)” or its equivalent typed on the signature line as well as the name and the capacity of the person signing; the person's address, phone number, and e-mail address; and the date of signature to the extent any of these items are different from the information provided for the digital ID certificate signer.
+
+(2) Paper documents must be signed in ink.
+
+(c) *Service.* A participant filing a document with the ALJ shall at the time of filing, serve a copy of such document on every other participant. Service upon any participant of any document other than those required to be served as prescribed in § 13.8 shall be made electronically to the E-Filing system. When a participant is represented by a representative, service shall be made upon such representative in lieu of the actual participant. Upon an order from the ALJ permitting alternative filing methods under paragraphs (a)(2) or (a)(3) of this section, service may be made by physical delivery or mail. As to each participant that cannot serve electronically, the ALJ shall require service by the most expeditious means permitted under this paragraph that are available to the participant, unless the ALJ finds that this requirement would impose undue burden or expense on the participant.
+
+(1) Unless otherwise provided in this paragraph, a participant will serve documents on the other participants by the same method that those participants filed.
+
+(2) A participant granted an exemption under paragraph (a)(2) of this section will serve the participants in the proceeding that filed electronically by physically delivering or mailing an OSM containing the electronic document.
+
+(3) A participant granted an exemption under paragraph (a)(3) will serve the other participants in the proceeding by physically delivering or mailing a paper copy.
+
+(4) A certificate of service stating the names and addresses of the persons served as well as the method and date of service must accompany any paper served upon participants to the proceeding.
+
+(5) Proof of service, which states the name and address of the person served as well as the method and date of service, may be made as required by law, by rule, or by order of the Commission.
+
+[72 FR 49152, Aug. 28, 2007]

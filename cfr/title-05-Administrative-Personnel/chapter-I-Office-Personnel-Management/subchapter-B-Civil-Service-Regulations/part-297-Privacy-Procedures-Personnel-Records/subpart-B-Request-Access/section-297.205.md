@@ -1,0 +1,3 @@
+##### § 297.205 Access to medical records. #####
+
+When a request for access involves medical or psychological records that the system manager believes requires special handling, the requester should be advised that the material will be provided only to a physician designated by the data subject. Upon receipt of the designation and upon verification of the physician's identity, the records will be made available to the physician, who will have full authority to disclose those records to the data subject when appropriate.

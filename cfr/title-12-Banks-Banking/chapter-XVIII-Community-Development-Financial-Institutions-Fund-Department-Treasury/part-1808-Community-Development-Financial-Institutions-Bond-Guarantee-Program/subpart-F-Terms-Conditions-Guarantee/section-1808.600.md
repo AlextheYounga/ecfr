@@ -1,0 +1,3 @@
+##### § 1808.600 Full faith and credit and incontestability of Guarantee. #####
+
+The full faith and credit of the Federal Government is pledged to the payment of all Bonds issued as part of a Bond Issue with respect to Verifiable Losses of Principal, Interest, and Call Premium. An executed Guarantee shall be conclusive evidence that: the Guarantee has been properly authorized; the underlying Bond qualified for such Guarantee; and, but for fraud or material misrepresentation, such Guarantee will be presumed to be legally valid, binding, and enforceable.

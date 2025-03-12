@@ -1,0 +1,3 @@
+##### § 35.116 Direct implementation. #####
+
+If funds remain in a State's allotment for an environmental program grant either after grants for that environmental program have been made or because no grant was made, the Regional Administrator may, subject to any limitations contained in appropriation acts, use all or part of the funds to support a federal program required by law in the State in the absence of an acceptable State program.

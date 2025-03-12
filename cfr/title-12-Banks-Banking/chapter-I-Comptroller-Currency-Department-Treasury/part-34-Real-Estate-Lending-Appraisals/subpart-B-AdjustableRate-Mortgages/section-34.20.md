@@ -1,0 +1,3 @@
+##### § 34.20 Definitions. #####
+
+*Adjustable-rate mortgage (ARM) loan* means an extension of credit made to finance or refinance the purchase of, and secured by a lien on, a one-to-four family dwelling, including a condominium unit, cooperative housing unit, or residential manufactured home, where the lender, pursuant to an agreement with the borrower, may adjust the rate of interest from time to time. An ARM loan does not include fixed-rate extensions of credit that are payable at the end of a term that, when added to any terms for which the bank has promised to renew the loan, is shorter than the term of the amortization schedule.

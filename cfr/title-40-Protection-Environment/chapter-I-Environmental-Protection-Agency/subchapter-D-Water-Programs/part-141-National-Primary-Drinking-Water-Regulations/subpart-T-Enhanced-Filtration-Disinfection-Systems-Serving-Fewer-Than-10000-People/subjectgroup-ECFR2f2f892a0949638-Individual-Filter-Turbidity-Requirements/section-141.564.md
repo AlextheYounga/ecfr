@@ -1,0 +1,3 @@
+##### § 141.564 My system practices lime softening—is there any special provision regarding my individual filter turbidity monitoring? #####
+
+If your system utilizes lime softening, you may apply to the State for alternative turbidity exceedance levels for the levels specified in the table in § 141.563. You must be able to demonstrate to the State that higher turbidity levels are due to lime carryover only, and not due to degraded filter performance.

@@ -1,0 +1,19 @@
+##### 1352.228-70 Insurance coverage. #####
+
+As prescribed in 48 CFR 1328.310-70(a), insert the following clause:
+
+Insurance Coverage (APR 2010)
+
+(a) *Workers Compensation and Employer's Liability.* The contractor is required to comply with applicable Federal and State workers' compensation and occupational disease statutes. If occupational diseases are not compensable under those statutes, they shall be covered under the employer's liability section of the insurance policy, except when contract operations are so commingled with a contractor's commercial operations that it would not be practical to require this coverage. Employer's liability coverage of at least $100,000 shall be required, except in states with exclusive or monopolistic funds that do not permit workers' compensation to be written by private carriers.
+
+(b) *General liability.* (1) The contractor shall have bodily injury liability insurance coverage written on the comprehensive form of policy of at least $500,000 per occurrence.
+
+(2) When special circumstances apply in accordance with FAR 28.307-2(b), Property Damage Liability Insurance shall be required in the amount of $\_\_\_\_\_\_\_\_ [insert zero unless special circumstances apply, if applicable, insert dollar amount.].
+
+(c) *Automobile liability.* The contractor shall have automobile liability insurance written on the comprehensive form of policy. The policy shall provide for bodily injury and property damage liability covering the operation of all automobiles used in connection with performing the contract. Policies covering automobiles operated in the United States shall provide coverage of at least $200,000 per person and $500,000 per occurrence for bodily injury and $20,000 per occurrence for property damage.
+
+(d) *Aircraft public and passenger liability.* When aircraft are used in connection with performing the contract, the contractor shall have aircraft public and passenger liability insurance. Coverage shall be at least $200,000 per person and $500,000 per occurrence for bodily injury, other than passenger liability, and $200,000 per occurrence for property damage. Coverage for passenger liability bodily injury shall be at least $200,000 multiplied by the number of seats or passengers, whichever is greater.
+
+(e) *Vessel liability.* When contract performance involves use of vessels, the Contractor shall provide, vessel collision liability and protection and indemnity liability insurance as determined by the Government.
+
+(End of clause)[75 FR 10570, Mar. 8, 2010; 75 FR 14496, Mar. 26, 2010]

@@ -1,0 +1,9 @@
+##### § 62.22 Notice of issuance of a determination. #####
+
+(a) Upon the issuance of a Commission determination the Secretary of the Commission will notify in writing the following persons of the final determination: The person making the request, the Governor of the State in which the low-level radioactive waste requiring emergency access was generated, the Governor of the State in which the designated disposal facility is located, and if pertinent, the appropriate Compact Commission for such approval as is specified as necessary in section 6(g) of the Act. For the Governor of the State in which the designated disposal facility is located and for the appropriate Compact Commission, the notification must set forth the reasons that emergency access was granted and specifically describe the low-level radioactive waste as to source, physical and radiological characteristics, and the minimum volume and duration (not to exceed 180 days) necessary to alleviate the immediate and serious threat to public health and safety or the common defense and security. For the Governor of the State in which the low-level waste was generated, the notification must indicate that no extension of emergency access will be granted under § 62.24 of this part absent diligent State and generator action during the period of the initial grant.
+
+(b) The Secretary of the Commission will cause to be published in the Federal Register a notice of the issuance of the determination.
+
+(c) The Secretary of the Commission shall make a copy of the final determination available for inspection at the NRC Web site, *http://www.nrc.gov.*
+
+[54 FR 5420, Feb. 3, 1989, as amended at 64 FR 48954, Sept. 9, 1999]

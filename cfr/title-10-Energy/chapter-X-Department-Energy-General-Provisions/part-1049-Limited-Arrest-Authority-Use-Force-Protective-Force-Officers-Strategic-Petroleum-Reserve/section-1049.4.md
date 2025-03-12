@@ -1,0 +1,7 @@
+##### § 1049.4 Arrest authority. #####
+
+(a) Under the Act, the authority of a DOE Protective Force Officer to arrest without warrant is to be exercised only in the performance of official duties of protecting the SPR and persons within or upon the SPR.
+
+(b) A Protective Force Officer is authorized to make an arrest for a felony committed in violation of laws of the United States, or for a misdemeanor committed in violation of laws of the United States if the offense is committed in the officer's presence.
+
+(c) A Protective Force Officer also is authorized to make an arrest for a felony committed in violation of laws of the United States if the Officer has reasonably grounds to believe that the felony has been committed, or that the suspect is committing the felony, and is in the immediate area of the felony or is fleeing the immediate area of the felony. “Reasonable grounds to believe” means that the facts and circumstances within the knowledge of the Protective Force Officer at the moment of arrest, and of which the Protective Force Officer has reasonably trustworthy information, would be sufficient to cause a prudent person to believe that the suspect had committed or was committing a felony.

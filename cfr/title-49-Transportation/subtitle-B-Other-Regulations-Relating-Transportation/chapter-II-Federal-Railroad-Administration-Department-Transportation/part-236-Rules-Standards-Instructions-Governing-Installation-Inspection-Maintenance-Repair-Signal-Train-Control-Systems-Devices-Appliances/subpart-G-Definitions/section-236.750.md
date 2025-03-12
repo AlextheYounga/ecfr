@@ -1,0 +1,3 @@
+##### § 236.750 Interlocking, automatic. #####
+
+An arrangement of signals, with or without other signal appliances, which functions through the exercise of inherent powers as distinguished from those whose functions are controlled manually, and which are so interconnected by means of electric circuits that their movements must succeed each other in proper sequence, train movements over all routes being governed by signal indication.

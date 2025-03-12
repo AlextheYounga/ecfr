@@ -1,0 +1,3 @@
+##### § 1103.28 Negotiations with opposing party. #####
+
+A practitioner shall not in any way communicate upon the subject of controversy with a party represented by another practitioner except upon express agreement with the practitioner representing such party. He shall not negotiate or make compromises with the other party, but shall deal only with the opposing practitioner. The practitioner shall avoid everything that may tend to mislead a party not represented by a practitioner and should not advise that party as to the law.

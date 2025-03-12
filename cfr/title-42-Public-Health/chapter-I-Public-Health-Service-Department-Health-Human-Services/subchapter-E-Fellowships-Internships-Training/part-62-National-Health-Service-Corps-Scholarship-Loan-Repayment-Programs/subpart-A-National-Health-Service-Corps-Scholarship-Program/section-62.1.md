@@ -1,0 +1,3 @@
+##### § 62.1 What is the scope and purpose of the National Health Service Corps scholarship program? #####
+
+These regulations apply to the award of scholarships under the National Health Service Corps Scholarship Program authorized by section 751 of the Public Health Service Act (42 U.S.C. 294t) to students receiving academic training in medicine, osteopathy, dentistry, and other health professions. The purpose of this program is to assure an adequate supply of trained health professionals for the National Health Service Corps which is used by the Secretary to improve the delivery of health services in health manpower shortage areas.

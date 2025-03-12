@@ -1,0 +1,7 @@
+##### § 614.4340 General. #####
+
+(a) Upon the approval of the board of directors of the respective Farm Credit System institutions, any System bank, association, or service corporation or service association may enter into an agreement to share loan and other losses with any other institution(s) of the System. As appropriate, a loss-sharing agreement may contain provisions relating to definitions of terms, terms and conditions for activation, determinations of assessment formulas, limitations on assessments, reimbursements, administration, arbitration, and provisions for amendment and termination.
+
+(b) System institutions may agree among themselves to share losses for the purpose of protecting against the impairment of capital stock or participation certificates, or for any other purpose. Agreements may provide for sharing losses that arise in the future or that were recognized by one or more of the signatory institutions before the date of the agreement. Agreements may contain provisions that are not entirely reciprocal among the signatories to the agreement. Loss-sharing agreements can provide for the sharing of loan losses, operating losses, casualty losses, losses on high risk assets, or any other losses.
+
+[49 FR 48910, Dec. 17, 1984, as amended at 54 FR 1151, Jan. 12, 1989; 54 FR 50736, Dec. 11, 1989]

@@ -1,0 +1,9 @@
+##### § 831.1606 Requests from individuals. #####
+
+(a) An employee who requests credit for service under 5 U.S.C. 8336(c) bears the burden of proof with respect to that service, and must provide the employing agency with all pertinent information regarding duties performed.
+
+(b) An employee who is currently serving in a position that has not been approved as a primary or secondary position, but who believes that his or her service is creditable as service in a primary or secondary position may request the agency head to determine whether or not the employee's current service should be credited and, if it qualifies, whether it should be credited as service in a primary or secondary position. A written request for current service must be made within 6 months after entering the position or after any significant change in the position.
+
+(c) A current or former employee (or the survivor of a former employee) who believes that a period of past service in an unapproved position qualifies as service in a primary or secondary position and meets the conditions for credit may request the agency head to determine whether or not the employee's past service should be credited and, if it qualifies, whether it should be credited as service in a primary or secondary position. A written request for past service must be made no later than June 30, 2012.
+
+(d) The agency head may extend the time limit for filing under paragraph (b) or (c) of this section when, in the judgment of such agency head, the individual shows that he or she was prevented by circumstances beyond his or her control from making the request within the time limit.

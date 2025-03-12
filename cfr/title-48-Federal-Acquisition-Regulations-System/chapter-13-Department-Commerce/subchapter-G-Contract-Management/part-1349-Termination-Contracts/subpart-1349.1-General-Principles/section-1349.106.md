@@ -1,0 +1,3 @@
+##### 1349.106 Fraud or other criminal conduct. #####
+
+If the terminating contracting officer (TCO) suspects fraud or other criminal conduct related to the settlement of a terminated contract, the TCO shall immediately discontinue negotiations and prepare a written report concerning the matter. The report shall be submitted to the Bureau Procurement Official, the Office of Inspector General, and the DOC suspension and debarring official. An informational copy shall be provided to Procurement Counsel.

@@ -1,0 +1,3 @@
+##### § 236.334 Point detector. #####
+
+Point detector shall be maintained so that when switch mechanism is locked in normal or reverse position, contacts cannot be opened by manually applying force at the closed switch point. Point detector circuit controller shall be maintained so that the contacts will not assume the position corresponding to switch point closure if the switch point is prevented by an obstruction, from closing to within one-fourth inch where latch-out device is not used, and to within three-eighths inch where latch-out device is used.

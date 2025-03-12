@@ -1,0 +1,3 @@
+##### § 302.15 Non-hearing procedures. #####
+
+In cases where oral evidentiary hearing procedures will not be used, § 302.17 through § 302.37, relating to hearing procedures, shall not be applicable except to the extent that the DOT decisionmaker shall determine that the application of some or all of such rules in the particular case will be conducive to the proper dispatch of its business and to the public interest. References in these and other sections of this part to powers or actions by administrative law judges shall not apply.

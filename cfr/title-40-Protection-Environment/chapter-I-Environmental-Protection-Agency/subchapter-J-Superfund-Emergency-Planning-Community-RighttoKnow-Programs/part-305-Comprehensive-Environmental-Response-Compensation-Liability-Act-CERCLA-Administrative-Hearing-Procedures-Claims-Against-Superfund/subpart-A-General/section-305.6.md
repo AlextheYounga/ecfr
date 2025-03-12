@@ -1,0 +1,7 @@
+##### § 305.6 Computation and extension of time. #####
+
+(a) *Computation.* In computing any period of time described or allowed in this part, except as otherwise provided, the day of the event from which the designated period begins to run shall not be included. Saturdays, Sundays, and Federal legal holidays shall be included. When a stated time expires on a Saturday, Sunday, or Federal legal holiday, the stated time period shall be extended to include the next business day.
+
+(b) *Extension of time.* The Presiding Officer, or Review Officer as appropriate, may grant an extension of time for the filing of any pleading, document or motion upon timely motion of a party to the proceeding, for good cause shown, and after consideration of prejudice to other parties, or upon his own motion. Such a motion by a party may only be made after notice to all other parties, unless the movant can show good cause why serving notice is impracticable. The motion shall be filed in advance of the date on which the pleading, document or motion is due to be filed, unless the failure of a party to make timely motion for extension of time was the result of excusable neglect.
+
+(c) *Service by mail.* Service of the Request for a Hearing is complete when the return receipt is signed by the Review Officer. Service of all other pleadings and documents is complete upon mailing. Where a pleading or document is served by mail, 5 days shall be added to the time allowed by this part for the filing of a responsive pleading or document.

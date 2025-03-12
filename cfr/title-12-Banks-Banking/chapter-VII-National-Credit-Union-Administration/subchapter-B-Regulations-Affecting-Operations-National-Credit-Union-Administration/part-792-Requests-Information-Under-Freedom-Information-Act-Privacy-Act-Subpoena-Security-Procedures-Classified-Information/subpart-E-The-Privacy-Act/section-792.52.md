@@ -1,0 +1,3 @@
+##### § 792.52 Scope. #####
+
+This subpart governs requests made of NCUA under the Privacy Act (5 U.S.C. 552a). The regulation applies to all records maintained by NCUA which contain personal information about an individual and some means of identifying the individual, and which are contained in a system of records from which information may be retrieved by use of an identifying particular; sets forth procedures whereby individuals may seek and gain access to records concerning themselves and request amendments of those records; and sets forth requirements applicable to NCUA employees' maintaining, collecting, using, or disseminating such records.

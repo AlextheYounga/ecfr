@@ -1,0 +1,3 @@
+##### § 582.204 Electronic disbursement. #####
+
+The party designated to receive the garnished funds may forward a written request to the garnishing agency to have the funds remitted by electronic funds transfer, rather than by paper check. The request shall include the designated party's name, address, and deposit account number, and the name, address, and 9-digit routing transit number of the designated party's financial institution. Written requests accompanying service of process will be honored beginning with the first remission of garnished funds. Written requests received by the agency subsequent to service of process will be honored in as timely a manner as the agency deems feasible.

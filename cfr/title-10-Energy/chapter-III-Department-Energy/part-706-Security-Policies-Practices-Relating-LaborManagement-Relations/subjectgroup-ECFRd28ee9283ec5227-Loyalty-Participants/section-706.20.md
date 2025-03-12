@@ -1,0 +1,3 @@
+##### § 706.20 Policy. #####
+
+Loyalty to the United States is a paramount factor applicable to all participants in DOE program including those whose participation (although not requiring access to restricted data) involves the exercise of administrative, negotiating and disciplinary authority over bargaining units composed of employees engaged on classified work. Individuals involved in questions of loyalty will be given full opportunity to explore the questions with DOE. DOE will take such further steps as may be appropriate in the circumstances.

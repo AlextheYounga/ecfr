@@ -1,0 +1,3 @@
+##### § 429.110 Applicability; description of the log washing subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from the log washing process in which water under pressure is applied to logs for the purpose of removing foreign material from the surface of the log before further processing.

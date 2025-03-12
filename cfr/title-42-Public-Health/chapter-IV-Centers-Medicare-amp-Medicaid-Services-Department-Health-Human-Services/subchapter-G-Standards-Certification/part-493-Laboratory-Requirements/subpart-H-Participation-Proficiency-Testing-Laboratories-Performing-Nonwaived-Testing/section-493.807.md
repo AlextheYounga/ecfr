@@ -1,0 +1,7 @@
+##### § 493.807 Condition: Reinstatement of laboratories performing nonwaived testing. #####
+
+(a) If a laboratory's certificate is suspended or limited or its Medicare or Medicaid approval is cancelled or its Medicare or Medicaid payments are suspended because it fails to participate successfully in proficiency testing for one or more specialties, subspecialties, analyte or test, or voluntarily withdraws its certification under CLIA for the failed specialty, subspecialty, or analyte, the laboratory must then demonstrate sustained satisfactory performance on two consecutive proficiency testing events, one of which may be on site, before CMS will consider it for reinstatement for certification and Medicare or Medicaid approval in that specialty, subspecialty, analyte or test.
+
+(b) The cancellation period for Medicare and Medicaid approval or period for suspension of Medicare or Medicaid payments or suspension or limitation of certification under CLIA for the failed specialty, subspecialty, or analyte or test is for a period of not less than six months from the date of cancellation, limitation or suspension of the CLIA certificate.
+
+[58 FR 5228, Jan. 19, 1993, as amended at 60 FR 20048, Apr. 24, 1995]

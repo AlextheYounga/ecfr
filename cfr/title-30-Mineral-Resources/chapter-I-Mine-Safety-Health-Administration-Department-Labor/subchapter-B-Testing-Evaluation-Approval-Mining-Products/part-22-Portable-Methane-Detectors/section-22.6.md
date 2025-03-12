@@ -1,0 +1,3 @@
+##### § 22.6 General requirements. #####
+
+Methane detectors approved under this part shall be portable. They shall be durable in construction, practical in operation, and suitable for service conditions underground. They shall offer no probable explosion hazard if used in gaseous mine atmospheres nor any bodily hazard, such as spilling of battery electrolyte. They shall exhibit under laboratory test conditions various requirements of minimum performance that are specified in this part.

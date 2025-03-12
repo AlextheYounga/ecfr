@@ -1,0 +1,5 @@
+##### § 412.600 Basis and scope of subpart. #####
+
+(a) *Basis.* This subpart implements section 1886(j) of the Act, which provides for the implementation of a prospective payment system for inpatient rehabilitation hospitals and rehabilitation units (in this subpart referred to as “inpatient rehabilitation facilities”).
+
+(b) *Scope.* This subpart sets forth the framework for the prospective payment system for inpatient rehabilitation facilities, including the methodology used for the development of payment rates and associated adjustments, the application of a transition phase, and related rules. Under this system, for cost reporting periods beginning on or after January 1, 2002, payment for the operating and capital costs of inpatient hospital services furnished by inpatient rehabilitation facilities to Medicare Part A fee-for-service beneficiaries is made on the basis of prospectively determined rates and applied on a per discharge basis.

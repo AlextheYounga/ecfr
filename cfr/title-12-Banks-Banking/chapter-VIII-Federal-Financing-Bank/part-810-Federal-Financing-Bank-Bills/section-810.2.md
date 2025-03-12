@@ -1,0 +1,3 @@
+##### § 810.2 Public notice of offering. #####
+
+On the occasion of an offering of FFB bills, tenders therefor will be invited through public notices issued by the Federal Financing Bank. Each notice will set forth the amount offered, the issue date, the date they will be due and payable, the place and the date of the closing hour for the receipt of tenders and the date on which payment for accepted tenders must be made or completed.

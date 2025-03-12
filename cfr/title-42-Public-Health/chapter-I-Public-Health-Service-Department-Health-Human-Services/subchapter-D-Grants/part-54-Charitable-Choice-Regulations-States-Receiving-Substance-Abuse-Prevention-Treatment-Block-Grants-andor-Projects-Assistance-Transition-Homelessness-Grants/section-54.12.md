@@ -1,0 +1,3 @@
+##### § 54.12 Treatment of intermediate organizations. #####
+
+If a nongovernmental organization (referred to here as an “intermediate organization”), acting under a contract or other agreement with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide services under any applicable program, the intermediate organization shall have the same duties under this part as the government. The intermediate organization retains all other rights of a nongovernmental organization under this part and the SAMHSA Charitable Choice provisions.

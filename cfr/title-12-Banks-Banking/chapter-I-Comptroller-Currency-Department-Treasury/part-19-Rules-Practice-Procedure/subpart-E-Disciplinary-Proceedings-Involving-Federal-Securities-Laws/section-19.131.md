@@ -1,0 +1,5 @@
+##### § 19.131 Notice of charges and answer. #####
+
+(a) Proceedings are commenced when the Comptroller serves a notice of charges on a bank or associated person. The notice must indicate the type of disciplinary action being contemplated and the grounds therefor, and fix a date, time and place for hearing. The hearing must be set for a date at least 30 days after service of the notice. A party served with a notice of charges may file an answer as prescribed in § 19.19. Any party who fails to appear at a hearing personally or by a duly authorized representative shall be deemed to have consented to the issuance of a disciplinary order.
+
+(b) All proceedings under this subpart must be commenced, and the notice of charges must be filed, on a public basis, unless otherwise ordered by the Comptroller. Pursuant to § 19.33(a), a request for a private hearing may be filed within 20 days of service of the notice.

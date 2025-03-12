@@ -1,0 +1,5 @@
+##### § 401.116 Availability of records upon request. #####
+
+(a) *General.* In addition to the records made available pursuant to §§ 401.106, 401.108, 401.110 and 401.112, CMS will, upon request made in accordance with this subpart, make identified records available to any person, unless they are exempt from disclosure under the provisions of section 552(b) of title 5, United States Code (see § 401.126), or any other provision of law.
+
+(b) *Misappropriation, alteration, or destruction of records.* No person may remove any record made available to him for inspection or copying under this part, from the place where it is made available. In addition, no person may steal, alter, mutilate, obliterate, or destroy in whole or in part, such a record. See sections 641 and 2071 of title 18 of the United States Code.

@@ -1,0 +1,3 @@
+##### § 1017.19 Access limitations. #####
+
+A person may only have access to UCNI if he or she has been granted routine access by an Authorized Individual (see § 1017.20) or limited access by the DOE Program Secretarial Officer or NNSA Deputy or Associate Administrator with cognizance over the UCNI (see § 1017.21). The Secretary, or his or her designee, may impose additional administrative controls concerning the granting of routine or limited access to UCNI to a person who is not a U.S. citizen.

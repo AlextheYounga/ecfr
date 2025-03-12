@@ -1,0 +1,11 @@
+##### § 1.94 The National Highway Traffic Safety Administration. #####
+
+Is responsible for:
+
+(a) *In highway safety,* setting uniform guidelines for a coordinated national highway safety formula grant program carried out by the States and local communities; conducting research and development activities, including demonstration projects and the collection and analysis of highway and motor vehicle safety data and related information; administering highway safety grant programs to encourage State efforts in such areas as occupant protection, impaired and distracted driving, traffic safety data information system improvements, motorcyclist safety, child safety restraints, and graduated driver's licensing; determining State compliance with highway traffic safety law requirements; administering a nationwide high visibility enforcement program; administering the National Driver Register; and leading and coordinating efforts to establish, expand, and improve State, local, tribal, and regional emergency medical services and 9-1-1 systems.
+
+(b) *In motor vehicle safety,* establishing and enforcing safety standards and regulations for the manufacture and importation of motor vehicles and motor vehicle equipment; conducting research, development, and testing concerning motor vehicle safety, including vehicle-to-vehicle and vehicle-to-infrastructure technologies and other new or advanced vehicle technologies; and investigating safety-related defects and non-compliance in motor vehicles and motor vehicle equipment and administering related recalls.
+
+(c) *In automobile fuel economy,* establishing automobile fuel economy standards for passenger and non-passenger automobiles and fuel efficiency standards for medium and heavy vehicles.
+
+(d) *In consumer protection and information,* establishing requirements and carrying out programs for passenger motor vehicle information, such as the New Car Assessment Program; bumper standards for passenger motor vehicles; odometer requirements; and passenger motor vehicle theft prevention standards.

@@ -1,0 +1,9 @@
+##### § 511.44 Expert witnesses. #####
+
+(a) *Definition.* An expert witness is one who, by reason of education, training, experience, or profession, has peculiar knowlege concerning the matter of science or skill to which his or her testimony relates and from which he or she may draw inferences based upon hypothetically stated facts or from facts involving scientific or technical knowledge.
+
+(b) *Method of presenting testimony of expert witness.* Except as may be otherwise ordered by the Presiding Officer, a detailed written statement of the elements of the direct testimony of an expert witness shall be filed on the record and exchanged between the parties no later than 10 days preceding the commencement of the hearing. The statement must contain a full explanation of the methodology underlying any analysis, and a full disclosure of the basis of any opinion. The direct testimony of an expert witness shall not include points not contained in the written statement. A party may waive direct examination of an expert witness by indicating that the written statement be considered the testimony of the witness. In such a case, the written testimony shall be incorporated into the record and shall constitute the testimony of the witness.
+
+(c) *Cross-examination and redirect examination of expert witness.* Cross-examination, redirect examination, and re-cross-examination of an expert witness will proceed in due course based upon the written testimony and any amplifying oral testimony.
+
+(d) *Failure to file and/or to exchange written statement.* Failure to file and/or to exchange the written statement of an expert witness as provided in this section shall deprive the sponsoring party of the use of the expert witness and of the conclusions which that witness would have presented.

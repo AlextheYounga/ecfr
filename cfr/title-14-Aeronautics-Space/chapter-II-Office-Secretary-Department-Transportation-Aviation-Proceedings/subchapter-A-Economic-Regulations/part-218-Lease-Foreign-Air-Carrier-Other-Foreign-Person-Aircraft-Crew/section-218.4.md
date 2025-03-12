@@ -1,0 +1,3 @@
+##### § 218.4 Condition upon authority of lessee. #####
+
+In any case where a foreign air carrier leases from another foreign air carrier or other person not a citizen of the United States an aircraft with crew for use in performing foreign air transportation, it shall be a condition upon the authority of the lessee to perform such foreign air transportation that compliance be achieved with the requirements of this part.

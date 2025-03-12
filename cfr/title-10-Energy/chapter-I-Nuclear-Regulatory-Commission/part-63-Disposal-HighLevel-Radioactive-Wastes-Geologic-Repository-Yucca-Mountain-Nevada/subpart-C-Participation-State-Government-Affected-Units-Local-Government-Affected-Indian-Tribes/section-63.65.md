@@ -1,0 +1,3 @@
+##### § 63.65 Representation. #####
+
+Any person who acts under this subpart as a representative for the State of Nevada (or for the Governor or legislature of Nevada), for an affected unit of local government, or for an affected Indian Tribe shall include in the request or other submission, or at the request of the Commission, a statement of the basis of his or her authority to act in this capacity.

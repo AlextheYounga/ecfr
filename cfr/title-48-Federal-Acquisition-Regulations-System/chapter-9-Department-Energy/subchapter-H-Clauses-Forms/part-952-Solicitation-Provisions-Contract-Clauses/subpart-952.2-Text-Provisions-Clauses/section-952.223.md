@@ -1,0 +1,1 @@
+##### 952.223 Clauses related to environment, energy and water efficiency, renewable energy technologies, occupational safety, and drug-free workplace. #####

@@ -1,0 +1,3 @@
+##### 819.202-1 Encouraging small business participation in acquisitions. #####
+
+Contracting officers may negotiate payment terms of less than 30 calendar days to encourage small business participation. A period of less than 7 days may not be prescribed (see FAR 32.908(c)(2)). The contracting officer and the local fiscal officer must be in agreement on the negotiated payment terms before awarding the contract.

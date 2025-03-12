@@ -1,0 +1,13 @@
+##### § 280.114 Bankruptcy or other incapacity of owner or operator or provider of financial assurance. #####
+
+(a) Within 10 days after commencement of a voluntary or involuntary proceeding under Title 11 (Bankruptcy), U.S. Code, naming an owner or operator as debtor, the owner or operator must notify the Director of the implementing agency by certified mail of such commencement and submit the appropriate forms listed in § 280.111(b) documenting current financial responsibility.
+
+(b) Within 10 days after commencement of a voluntary or involuntary proceeding under Title 11 (Bankruptcy), U.S. Code, naming a guarantor providing financial assurance as debtor, such guarantor must notify the owner or operator by certified mail of such commencement as required under the terms of the guarantee specified in § 280.96.
+
+(c) Within 10 days after commencement of a voluntary or involuntary proceeding under Title 11 (Bankruptcy), U.S. Code, naming a local government owner or operator as debtor, the local government owner or operator must notify the Director of the implementing agency by certified mail of such commencement and submit the appropriate forms listed in § 280.111(b) documenting current financial responsibility.
+
+(d) Within 10 days after commencement of a voluntary or involuntary proceeding under Title 11 (Bankruptcy), U.S. Code, naming a guarantor providing a local government financial assurance as debtor, such guarantor must notify the local government owner or operator by certified mail of such commencement as required under the terms of the guarantee specified in § 280.106.
+
+(e) An owner or operator who obtains financial assurance by a mechanism other than the financial test of self-insurance will be deemed to be without the required financial assurance in the event of a bankruptcy or incapacity of its provider of financial assurance, or a suspension or revocation of the authority of the provider of financial assurance to issue a guarantee, insurance policy, risk retention group coverage policy, surety bond, letter of credit, or state-required mechanism. The owner or operator must obtain alternate financial assurance as specified in this subpart within 30 days after receiving notice of such an event. If the owner or operator does not obtain alternate coverage within 30 days after such notification, he must notify the Director of the implementing agency.
+
+(f) Within 30 days after receipt of notification that a state fund or other state assurance has become incapable of paying for assured corrective action or third-party compensation costs, the owner or operator must obtain alternate financial assurance.

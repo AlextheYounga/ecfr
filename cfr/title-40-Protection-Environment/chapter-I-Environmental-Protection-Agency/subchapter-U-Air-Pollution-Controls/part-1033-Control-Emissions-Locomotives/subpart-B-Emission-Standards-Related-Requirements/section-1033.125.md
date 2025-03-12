@@ -1,0 +1,3 @@
+##### § 1033.125 Maintenance instructions. #####
+
+Give the owner of each new locomotive written instructions for properly maintaining and using the locomotive, including the emission-control system. Include in the instructions a notification that owners and operators must comply with the requirements of subpart I of this part 1033. The emission-related maintenance instructions also apply to any service accumulation on your emission-data locomotives, as described in § 1033.245 and in 40 CFR part 1065. If you equip your locomotives with a diagnostic system that will detect significant malfunctions in their emission-control systems, specify the extent to which your emission-related maintenance instructions include such diagnostics.

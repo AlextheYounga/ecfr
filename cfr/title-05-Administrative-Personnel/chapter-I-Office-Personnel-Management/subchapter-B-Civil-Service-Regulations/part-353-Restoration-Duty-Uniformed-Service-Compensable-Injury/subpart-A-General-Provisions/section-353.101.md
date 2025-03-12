@@ -1,0 +1,3 @@
+##### § 353.101 Scope. #####
+
+The rights and obligations of employees and agencies in connection with leaves of absence or restoration to duty following uniformed service under 38 U.S.C. 4301 et. seq., and restoration under 5 U.S.C. 8151 for employees who sustain compensable injuries, are subject to the provisions of this part. Subpart A covers those provisions that are common to both of the above groups of employees. Subpart B deals with provisions that apply just to uniformed service and subpart C covers provisions that pertain just to injured employees.

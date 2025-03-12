@@ -1,0 +1,5 @@
+##### § 64.301 Furnishing of facilities to foreign governments for international communications. #####
+
+Common carriers by wire and radio shall, in accordance with section 201 of the Communications Act, furnish services and facilities for communications to any foreign government upon reasonable demand therefor: *Provided, however,* That, if a foreign government fails or refuses, upon reasonable demand, to furnish particular services and facilities to the United States Government for communications between the territory of that government and the United States or any other point, such carriers shall, to the extent specifically ordered by the Commission, deny equivalent services or facilities in the United States to such foreign government for communications between the United States and the territory of that foreign government or any other point.
+
+(Secs. 201, 214, 303, 308, 48 Stat. 1075, 1082, 1085; 47 U.S.C. 201, 214, 303, 308)[28 FR 13242, Dec. 5, 1963]

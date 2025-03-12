@@ -1,0 +1,5 @@
+##### § 221.170 Applicability of the subpart. #####
+
+(a) Every air carrier and foreign air carrier shall file its international passenger fares tariffs consistent with the provisions of this subpart, and part 221 generally. Additionally, any air carrier and any foreign air carrier may file its international passenger rules tariffs electronically in machine-readable form as an alternative to the filing of printed paper tariffs as provided for elsewhere in part 221. This subpart applies to all carriers and tariff publishing agents and may be used by either if the carrier or agent complies with the provisions of subpart R. Any carrier or agent that files electronically under this subpart must transmit to the Department the remainder of the tariff in a form consistent with part 221, Subparts A through Q, on the same day that the electronic tariff would be deemed received under § 221.190(b).
+
+(b) To the extent that subpart R is inconsistent with the remainder of part 221, subpart R shall govern the filing of electronic tariffs. In all other respects, part 221 remains in full force and effect.

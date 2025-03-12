@@ -1,0 +1,3 @@
+##### § 1003.41 What to file. #####
+
+A person filing under this subpart shall file an “Application for Stay” which should be clearly labeled as such both on the application and on the outside of the envelope in which the application is transmitted. The application shall be in writing. The general filing requirements stated in § 1003.9 shall be complied with in addition to the requirements stated in this subpart.

@@ -1,0 +1,3 @@
+##### § 90.1 Purpose and applicability. #####
+
+The provisions of this part set forth the policies and procedures of the Agency for Toxic Substances and Disease Registry (ATSDR) with respect to its conduct of health assessments and health effects studies under section 104(i) of Comprehensive Environmental Response, Compensation, and Liability Act, as amended by the Superfund Amendments and Reauthorization Act of 1986, and section 3019 of the Resource Conservation and Recovery Act. These provisions apply to ATSDR, as well as its contractors, agents, and those carrying out health assessments and health effects studies pursuant to agreements with ATSDR, such as other Federal agencies and States.

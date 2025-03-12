@@ -1,0 +1,9 @@
+##### § 230.16 Annual inspection. #####
+
+(a) *General.* (1) An individual competent to conduct the inspection shall perform the annual inspection after 368 calendar days have elapsed from the time of the previous annual inspection. This inspection shall include all daily, all 31 service day, all 92 service day, and all annual inspection items. (See appendix B of this part.)
+
+(2) *Fifth annual inspection.* An individual competent to do so shall perform a flexible staybolt and cap inspection in accordance with § 230.41 at each fifth annual inspection.
+
+(b) *FRA notification.* FRA Regional Administrators shall be provided written notice at least one month prior to an annual inspection and shall be afforded an opportunity to be present. If the Regional Administrator or their delegate indicates a desire to be present, the steam locomotive owner and/or operator will provide a scheduled date and location for the inspection. Once scheduled, the inspection must be performed at the time and place specified, unless the Regional Administrator and the steam locomotive owner and/or operator mutually agree to reschedule. If the Regional Administrator requests the inspection be performed on another date but the steam locomotive owner and/or operator and the Regional Administrator are unable to agree on a date for rescheduling, the inspection may be performed as scheduled.
+
+(c) *Filing inspection reports.* Within 10 days of completing the annual inspection, the steam locomotive owner and/or operator shall file, for each steam locomotive inspected, a report of inspection (FRA Form No. 3), in the place where the steam locomotive is maintained and with the FRA Regional Administrator for that region. (See appendix A of this part)

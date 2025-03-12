@@ -1,0 +1,3 @@
+##### § 60.2530 Is there an approval process for a negative declaration letter? #####
+
+No. The EPA has no formal review process for negative declaration letters. Once your negative declaration letter has been received, EPA will place a copy in the public docket and publish a document in the Federal Register. If, at a later date, an existing CISWI is found in your state, the federal plan implementing the emission guidelines contained in this subpart would automatically apply to that CISWI until your state plan is approved.

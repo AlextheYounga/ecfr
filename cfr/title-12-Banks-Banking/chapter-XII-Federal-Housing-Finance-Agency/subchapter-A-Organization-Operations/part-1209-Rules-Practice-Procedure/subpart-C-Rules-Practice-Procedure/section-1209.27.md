@@ -1,0 +1,5 @@
+##### § 1209.27 Consolidation and severance of actions. #####
+
+(a) *Consolidation.* On the motion of any party, or on the presiding officer's own motion, the presiding officer may consolidate, for some or all purposes, any two or more proceedings, if each such proceeding involves or arises out of the same transaction, occurrence or series of transactions or occurrences, or involves at least one common respondent or a material common question of law or fact, unless such consolidation would cause unreasonable delay or injustice. In the event of consolidation under this section, appropriate adjustment to the pre-hearing schedule must be made to avoid unnecessary expense, inconvenience, or delay.
+
+(b) *Severance.* The presiding officer may, upon the motion of any party, sever the proceeding for separate resolution of the matter as to any respondent only if the presiding officer finds that undue prejudice or injustice to the moving party would result from not severing the proceeding and such undue prejudice or injustice would outweigh the interests of judicial economy and expedition in the complete and final resolution of the proceeding.

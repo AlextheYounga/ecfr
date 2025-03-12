@@ -1,0 +1,9 @@
+##### § 325.25 Calibration of measurement systems. #####
+
+(a)(1) The sound level measurement system must be calibrated and appropriately adjusted at one or more frequencies in the range from 250 to 1,000 Hz at the beginning of each series of measurements and at intervals of 5-15 minutes thereafter, until it has been determined that the sound level measurement system has not significantly drifted from its calibrated level. Once this fact has been established, calibrations may be made at intervals once every hour. A significant drift shall be considered to have occurred if a 0.3 dB or more excursion is noted from the system's predetermined reference calibration level. In the case of systems using displays with whole decibel increments, the operator may visually judge when the 0.3 dB drift has been met or exceeded.
+
+(2) The sound level measurement system must be checked periodically by its manufacturer, a representative of its manufacturer, or a person of equivalent special competence to verify that its accuracy meets the manufacturer's design criteria.
+
+(b) An acoustical calibrator of the microphone coupler type designed for the sound level measurement system in use shall be used to calibrate the sound level measurement system in accordance with paragraph (a) of this section. The calibration must meet or exceed the accuracy requirements specified in section 5.4.1 of the American National Standard Institute Standard *Methods for Measurements of Sound Pressure Levels* (ANSI S1.13-1971) for field method measurements.
+
+[40 FR 42437, Sept. 12, 1975, as amended at 41 FR 10227, Mar. 10, 1976]

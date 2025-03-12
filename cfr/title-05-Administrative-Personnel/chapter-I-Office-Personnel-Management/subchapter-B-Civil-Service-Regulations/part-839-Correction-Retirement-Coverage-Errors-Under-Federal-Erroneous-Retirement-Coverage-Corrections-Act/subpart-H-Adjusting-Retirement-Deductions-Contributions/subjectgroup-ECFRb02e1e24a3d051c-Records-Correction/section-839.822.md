@@ -1,0 +1,3 @@
+##### § 839.822 Which employer is responsible for submitting the employee and employer retirement deductions and contributions and correcting my records if I had different employers? #####
+
+Your current or most recent employer will be responsible for this purpose. Even if that employer was not involved in the retirement coverage error, it must issue corrected records for the entire period of the retirement coverage error.

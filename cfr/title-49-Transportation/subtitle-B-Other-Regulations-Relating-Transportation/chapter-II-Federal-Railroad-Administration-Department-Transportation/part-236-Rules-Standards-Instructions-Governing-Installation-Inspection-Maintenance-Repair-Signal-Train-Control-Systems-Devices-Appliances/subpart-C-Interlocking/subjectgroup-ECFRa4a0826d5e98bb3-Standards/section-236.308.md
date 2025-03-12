@@ -1,0 +1,7 @@
+##### § 236.308 Mechanical or electric locking or electric circuits; requisites. #####
+
+Mechanical or electric locking or electric circuits shall be installed to prevent signals from displaying aspects which permit conflicting movements except that opposing signals may display an aspect indicating proceed at restricted speed at the same time on a track used for switching movements only, by one train at a time. Manual interlocking in service as of the date of this part at which opposing signals on the same track are permitted simultaneously to display aspects authorizing conflicting movements when interlocking is unattended, may be continued, provided that simultaneous train movements in opposite directions on the same track between stations on either side of the interlocking are not permitted.
+
+Note:
+
+Relief from the requirement of this section will be granted upon an adequate showing by an individual carrier to allow opposing signals on the same track simultaneously to display aspects to proceed through an interlocking which is unattended, provided that train movements in opposite directions on the same track between stations on either site of the interlocking are not permitted at the same time.

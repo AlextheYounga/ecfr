@@ -1,0 +1,11 @@
+##### § 73.312 Topographic data. #####
+
+(a) In the preparation of the profile graphs previously described, and in determining the location and height above mean sea level of the antenna site, the elevation or contour intervals shall be taken from United States Geological Survey Topographic Quadrangle Maps, United States Army Corps of Engineers Maps or Tennessee Valley Authority maps, whichever is the latest, for all areas for which such maps are available. If such maps are not published for the area in question, the next best topographic information should be used. Topographic data may sometimes be obtained from state and municipal agencies. The data from the Sectional Aeronautical Charts (including bench marks) or railroad depot elevations and highway elevations from road maps may be used where no better information is available. In cases where limited topographic data can be obtained, use may be made of an altimeter in a car driven along roads extending generally radially from the transmitter site.
+
+(b) The Commission will not ordinarily require the submission of topographical maps for areas beyond 24 km (15 miles) from the antenna site, but the maps must include the principal city or cities to be served. If it appears necessary, additional data may be requested.
+
+(c) The U.S. Geological Survey Topography Quadrangle Sheets may be obtained from the U.S. Geological Survey Department of the Interior, Washington, DC 20240. The Sectional Aeronautical Charts are available from the U.S. Coast and Geodetic Survey, Department of Commerce, Washington, DC 20235. These maps may also be secured from branch offices and from authorized agents or dealers in most principal cities.
+
+(d) In lieu of maps, the average terrain elevation may be computer generated except in cases of dispute, using elevations from a 30 second, point or better topographic data file. The file must be identified and the data processed for intermediate points along each radial using linear interpolation techniques. The height above mean sea level of the antenna site must be obtained manually using appropriate topographic maps.
+
+[28 FR 13623, Dec. 14, 1963, as amended at 31 FR 10126, July 27, 1966; 49 FR 48937, Dec. 17, 1984; 58 FR 44950, Aug. 25, 1993; 63 FR 33877, June 22, 1998]

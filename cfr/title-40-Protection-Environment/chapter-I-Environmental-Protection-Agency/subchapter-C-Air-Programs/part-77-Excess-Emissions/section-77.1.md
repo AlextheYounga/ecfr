@@ -1,0 +1,5 @@
+##### § 77.1 Purpose and scope. #####
+
+(a) This part sets forth the excess emissions offset planning and offset penalty requirements under section 411 of the Clean Air Act, 42 U.S.C. 7401, *et seq.,* as amended by Public Law 101-549 (November 15, 1990). These requirements shall apply to the owners and operators and, to the extent applicable, the designated representative of each affected unit and affected source under the Acid Rain Program.
+
+(b) Nothing in this part shall limit or otherwise affect the application of sections 112(r)(9), 113, 114, 120, 303, 304, or 306 of the Act, as amended. Any allowance deduction, excess emission penalty, or interest required under this part shall not affect the liability of the affected unit's and affected source's owners and operators for any additional fine, penalty, or assessment, or their obligation to comply with any other remedy, for the same violation, as ordered under the Act.

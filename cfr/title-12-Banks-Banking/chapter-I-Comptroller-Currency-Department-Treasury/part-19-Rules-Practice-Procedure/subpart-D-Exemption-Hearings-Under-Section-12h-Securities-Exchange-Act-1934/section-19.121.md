@@ -1,0 +1,3 @@
+##### § 19.121 Application for exemption. #####
+
+An issuer or an individual (officer, director or shareholder) may submit a written application for an exemption order to the Securities and Corporate Practices Division, Office of the Comptroller of the Currency, Washington, DC 20219. The application must specify the type of exemption sought and the reasons therefor, including an explanation of why an exemption would not be inconsistent with the public interest or the protection of investors. The Securities and Corporate Practices Division shall inform the applicant in writing whether a hearing will be held to consider the matter.

@@ -1,0 +1,3 @@
+##### § 1.2208 Public notice of auction completion and auction results. #####
+
+Public notice shall be provided when the reverse auction is complete and when the forward auction is complete. With respect to the broadcast television spectrum incentive auction conducted under section 6403 of the Spectrum Act, public notice shall be provided of the results of the reverse auction, forward auction, and repacking, and shall indicate that the reassignments of television channels and reallocations of broadcast television spectrum are effective.

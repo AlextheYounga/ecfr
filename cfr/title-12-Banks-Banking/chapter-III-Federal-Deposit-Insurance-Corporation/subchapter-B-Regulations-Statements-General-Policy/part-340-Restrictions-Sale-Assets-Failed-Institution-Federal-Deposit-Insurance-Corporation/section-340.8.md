@@ -1,0 +1,3 @@
+##### § 340.8 Does this part apply in the case of a workout, resolution, or settlement of obligations? #####
+
+The restrictions of §§ 340.3 and 340.4 do not apply if the sale or transfer of an asset resolves or settles, or is part of the resolution or settlement of, one or more obligations or claims that have been, or could have been, asserted by the FDIC against the person with whom the FDIC is settling regardless of the amount of such obligations or claims.

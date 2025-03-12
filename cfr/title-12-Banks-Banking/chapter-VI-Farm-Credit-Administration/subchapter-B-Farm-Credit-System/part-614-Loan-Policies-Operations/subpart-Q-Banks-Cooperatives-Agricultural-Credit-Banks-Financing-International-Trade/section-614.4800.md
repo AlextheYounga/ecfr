@@ -1,0 +1,5 @@
+##### § 614.4800 Guarantees and contracts of suretyship. #####
+
+A bank for cooperatives or an agricultural credit bank, under a policy approved by the bank's board of directors, may lend its credit, be itself a surety to indemnify another, or otherwise become a guarantor if an eligible cooperative substantially benefits from the performance of the transaction involved. A bank may guarantee the debt of eligible cooperatives and foreign parties or otherwise agree to make payments on the occurrence of readily ascertainable events if the guarantee or agreement specifies a maximum monetary liability. Guarantees may be secured or unsecured, and can include, but are not limited to, such events as nonpayment of taxes, rentals, customs duties, costs of transport, and loss of or nonconformance of shipping documents. The bank's customer shall have an unqualified obligation to reimburse the bank for payments made under a guarantee or surety.
+
+[55 FR 24887, June 19, 1990, as amended at 62 FR 4445, Jan. 30, 1997]

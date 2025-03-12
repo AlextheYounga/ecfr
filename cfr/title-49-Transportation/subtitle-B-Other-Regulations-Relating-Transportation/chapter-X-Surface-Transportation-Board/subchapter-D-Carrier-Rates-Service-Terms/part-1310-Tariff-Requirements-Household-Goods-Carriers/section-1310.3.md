@@ -1,0 +1,5 @@
+##### § 1310.3 Contents of tariffs. #####
+
+(a) Tariffs prepared under this part must include an accurate description of the services offered to the public; must provide the specific applicable rates, charges and service terms; and must be arranged in a way that allows for the determination of the exact rate, charges and service terms applicable to any given shipment. Increases, reductions and other changes must be symbolized or highlighted in some way to facilitate ready identification of the changes and their effective dates.
+
+(b) All information necessary to determine applicable rates, charges and service terms for a given shipment need not be contained in a single tariff, but if multiple tariffs are used to convey that information, the tariff containing the rates must make specific reference to all other tariffs required to determine applicable rates, charges and service terms. The carrier(s) party to the rate(s) must participate in all of the tariffs so linked and all such tariffs must be made available to shippers upon reasonable request.

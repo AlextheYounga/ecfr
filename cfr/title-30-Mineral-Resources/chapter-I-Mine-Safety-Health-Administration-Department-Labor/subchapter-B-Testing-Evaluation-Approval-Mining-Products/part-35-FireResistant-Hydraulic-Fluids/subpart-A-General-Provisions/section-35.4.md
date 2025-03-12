@@ -1,0 +1,3 @@
+##### § 35.4 Types of hydraulic fluid for which certificates of approval may be granted. #####
+
+Certificates of approval will be granted for completely compounded or mixed fluids and not for individual ingredients; except that when a concentrate is submitted for testing, complete instructions for mixing with water or other vehicle shall be furnished to MSHA, together with the vehicle other than water, and the approval will cover only the specific mixture that constitutes the hydraulic fluid for use in coal mines.

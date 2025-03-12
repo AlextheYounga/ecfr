@@ -1,0 +1,3 @@
+##### § 1206.366 What is the nominal fee that a State, tribal, or local government lessee must pay for the use of geothermal resources? #####
+
+If a State, tribal, or local government lessee uses a geothermal resource without sale and for public purposes—other than commercial production or generation of electricity—the State, tribal, or local government lessee must pay a nominal fee. A nominal fee means a slight or *de minimis* fee. ONRR will determine the fee on a case-by-case basis.

@@ -1,0 +1,3 @@
+##### § 173.229 Chloric acid solution or chlorine dioxide hydrate, frozen. #####
+
+When the § 172.101 table specifies that a hazardous material be packaged in accordance with this section, only 4G fiberboard boxes, with inner packagings of polyethylene or other suitable material, are authorized. Fiberboard boxes must be reinforced and insulated and sufficient dry ice must be used to maintain the hydrate or acid in a frozen state during transportation. Each packaging must conform to the general packaging requirements of subpart B of part 173, and to the requirements of part 178 of this subchapter at the Packing Group I performance level. Transportation is authorized only by private or contract carrier by motor vehicle.

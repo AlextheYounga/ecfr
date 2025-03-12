@@ -1,0 +1,9 @@
+##### Sec. 1-5 Records. #####
+
+(a) The general books of account and all books, records, and memoranda which support in any way the entries therein shall be kept in such manner as to provide at any time full information relating to any account. The entries in each account shall be supported by such detailed information as will render certain the identification of all facts essential to a verification of the nature and character of each entry and its proper classification under the prescribed Uniform System of Accounts. Registers, or other appropriate records, shall be maintained of the history and nature of each note receivable and each note payable.
+
+(b) The books and records referred to herein include not only accounting records in a limited technical sense, but all other records such as organization tables and charts, internal accounting manuals and revisions thereto, minute books, stock books, reports, cost distributions and other accounting work sheets, correspondence, memoranda, etc., which may constitute necessary links in developing the history of, or facts regarding, any accounting or financial transaction.
+
+(c) All books, records and memoranda shall be preserved and filed in such manner as to readily permit the audit and examination thereof by representatives of the DOT. All books, records, and memoranda shall be housed or stored in such manner as to afford protection from loss, theft, or damage by fire, flood or otherwise and no such books and records shall be destroyed or otherwise disposed of, except in conformance with 14 CFR part 249 for the preservation of records.
+
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995]

@@ -1,0 +1,5 @@
+##### § 609.920 Interpretations. #####
+
+(a) E-SIGN preempts most statutes and regulations, including the Act and its implementing regulations that require paper copies and handwritten signatures in business, consumer, or commercial transactions. E-SIGN requires that statutes and regulations be interpreted to allow E-commerce as long as the safeguards of E-SIGN are met and its exceptions recognized. Generally, an electronic record or signature satisfies any provision of the Act or its implementing regulations that require such records and signatures to be written, signed, or in paper form.
+
+(b) System institutions may interpret the Act and its implementing regulations broadly to allow electronic transmissions, communications, records, and submissions, as provided by E-SIGN. This means that the terms address, copy, distribute, document, file, mail, notice, notify, record, provide, send, signature, sent, written, writing, and similar words generally should be interpreted to permit electronic transmissions, communications, records, and submissions in business, consumer, or commercial transactions.

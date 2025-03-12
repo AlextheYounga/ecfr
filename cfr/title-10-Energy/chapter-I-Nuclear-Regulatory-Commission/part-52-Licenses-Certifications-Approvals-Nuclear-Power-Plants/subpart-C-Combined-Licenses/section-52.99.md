@@ -1,0 +1,25 @@
+##### § 52.99 Inspection during construction; ITAAC schedules and notifications; NRC notices. #####
+
+(a) *Licensee schedule for completing inspections, tests, or analyses.* The licensee shall submit to the NRC, no later than 1 year after issuance of the combined license or at the start of construction as defined at 10 CFR 50.10(a), whichever is later, its schedule for completing the inspections, tests, or analyses in the ITAAC. The licensee shall submit updates to the ITAAC schedules every 6 months thereafter and, within 1 year of its scheduled date for initial loading of fuel, the licensee shall submit updates to the ITAAC schedule every 30 days until the final notification is provided to the NRC under paragraph (c)(1) of this section.
+
+(b) *Licensee and applicant conduct of activities subject to ITAAC.* With respect to activities subject to an ITAAC, an applicant for a combined license may proceed at its own risk with design and procurement activities, and a licensee may proceed at its own risk with design, procurement, construction, and preoperational activities, even though the NRC may not have found that any one of the prescribed acceptance criteria are met.
+
+(c) *Licensee notifications*—(1) *ITAAC closure notification.* The licensee shall notify the NRC that prescribed inspections, tests, and analyses have been performed and that the prescribed acceptance criteria are met. The notification must contain sufficient information to demonstrate that the prescribed inspections, tests, and analyses have been performed and that the prescribed acceptance criteria are met.
+
+(2) *ITAAC post-closure notifications.* Following the licensee's ITAAC closure notifications under paragraph (c)(1) of this section until the Commission makes the finding under 10 CFR 52.103(g), the licensee shall notify the NRC, in a timely manner, of new information that materially alters the basis for determining that either inspections, tests, or analyses were performed as required, or that acceptance criteria are met. The notification must contain sufficient information to demonstrate that, notwithstanding the new information, the prescribed inspections, tests, or analyses have been performed as required, and the prescribed acceptance criteria are met.
+
+(3) *Uncompleted ITAAC notification.* If the licensee has not provided, by the date 225 days before the scheduled date for initial loading of fuel, the notification required by paragraph (c)(1) of this section for all ITAAC, then the licensee shall notify the NRC that the prescribed inspections, tests, or analyses for all uncompleted ITAAC will be performed and that the prescribed acceptance criteria will be met prior to operation. The notification must be provided no later than the date 225 days before the scheduled date for initial loading of fuel, and must provide sufficient information to demonstrate that the prescribed inspections, tests, or analyses will be performed and the prescribed acceptance criteria for the uncompleted ITAAC will be met, including, but not limited to, a description of the specific procedures and analytical methods to be used for performing the prescribed inspections, tests, and analyses and determining that the prescribed acceptance criteria are met.
+
+(4) *All ITAAC complete notification.* The licensee shall notify the NRC that all ITAAC are complete.
+
+(d) *Licensee determination of non-compliance with ITAAC.* (1) In the event that an activity is subject to an ITAAC derived from a referenced standard design certification and the licensee has not demonstrated that the prescribed acceptance criteria are met, the licensee may take corrective actions to successfully complete that ITAAC or request an exemption from the standard design certification ITAAC, as applicable. A request for an exemption must also be accompanied by a request for a license amendment under 10 CFR 52.98(f).
+
+(2) In the event that an activity is subject to an ITAAC not derived from a referenced standard design certification and the licensee has not demonstrated that the prescribed acceptance criteria are met, the licensee may take corrective actions to successfully complete that ITAAC or request a license amendment under 10 CFR 52.98(f).
+
+(e) *NRC inspection, publication of notices, and availability of licensee notifications.* The NRC shall ensure that the prescribed inspections, tests, and analyses in the ITAAC are performed.
+
+(1) At appropriate intervals until the last date for submission of requests for hearing under 10 CFR 52.103(a), the NRC shall publish notices in the Federal Register of the NRC staff's determination of the successful completion of inspections, tests, and analyses.
+
+(2) The NRC shall make publicly available the licensee notifications under paragraph (c) of this section. The NRC shall, no later than the date of publication of the notice of intended operation required by 10 CFR 52.103(a), make publicly available those licensee notifications under paragraph (c) of this section that have been submitted to the NRC at least seven (7) days before that notice.
+
+[77 FR 51892, Aug. 28, 2012]

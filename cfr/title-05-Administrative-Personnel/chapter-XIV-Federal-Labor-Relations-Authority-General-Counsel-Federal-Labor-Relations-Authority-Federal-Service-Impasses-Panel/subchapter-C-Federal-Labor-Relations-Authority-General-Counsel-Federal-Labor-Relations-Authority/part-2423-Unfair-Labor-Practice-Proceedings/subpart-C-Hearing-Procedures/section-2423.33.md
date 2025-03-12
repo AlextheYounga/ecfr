@@ -1,0 +1,3 @@
+##### § 2423.33 Posthearing briefs. #####
+
+Except when bench decisions are issued pursuant to § 2423.31(d), posthearing briefs may be filed with the Administrative Law Judge within a time period set by the Judge, not to exceed 30 days from the close of the hearing, unless otherwise directed by the judge, and shall satisfy the filing and service requirements of part 2429 of this subchapter. Reply briefs shall not be filed absent permission of the Judge. Motions to extend the filing deadline or for permission to file a reply brief shall be filed in accordance with § 2423.21.

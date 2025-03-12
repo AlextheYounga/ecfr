@@ -1,0 +1,3 @@
+##### § 71.400 Bathing facilities; change rooms; sanitary flush toilet facilities. #####
+
+Each operator of a surface coal mine shall provide bathing facilities, clothing change rooms, and sanitary flush toilet facilities, as hereinafter prescribed, for the use of miners employed in the surface installations and at the surface worksites of such mine. (Note: Sanitary facilities at surface work areas of underground mines are subject to the provisions of § 75.1712 of this chapter *et seq.*)

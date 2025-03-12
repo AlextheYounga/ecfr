@@ -1,0 +1,15 @@
+##### § 251.101 Introduction. #####
+
+(a) The regulations in this part apply to all Federal executive branch departments and agencies and their officers and employees.
+
+(b) This part provides a framework for consulting and communicating with non-labor organizations representing Federal employees and with other organizations on matters related to agency operations and personnel management.
+
+(c) The purposes of consultation and communication are: the improvement of agency operations, personnel management, and employee effectiveness; the exchange of information (e.g., ideas, opinions, and proposals); and the establishment of policies that best serve the public interest in accomplishing the mission of the agency.
+
+(d) An agency's consultation and communication with organizations representing Federal employees and with other organizations under this part may not take on the character of negotiations or consultations regarding conditions of employment of bargaining unit employees, which is reserved exclusively to labor organizations as provided for in Chapter 71 of title 5 of the U.S. Code or comparable provisions of other laws. The regulations in this part do not authorize any actions inconsistent with Chapter 71 of the U.S. Code or comparable provisions of other laws.
+
+(e) The head of a Federal agency may determine that it is in the interest of the agency to consult, from time to time, with organizations other than labor organizations and associations of management officials and/or supervisors to the extent permitted by law. Under section 7(d)(2) and (3) of Executive Order 11491, as amended, recognition of a labor organization does not preclude an agency from consulting or dealing with a veterans organization, or with a religious, social, fraternal, professional, or other lawful association, not qualified as a labor organization, with respect to matters or policies which involve individual members of the organization or association or are of particular applicability to it or its members.
+
+(f) Federal employees, including management officials and supervisors, may communicate with any Federal agency, officer, or other Federal entity on the employee's own behalf. However, Federal employees should be aware that 18 U.S.C. 205, in pertinent part, restricts Federal employees from acting, other than in the proper discharge of their official duties, as agents or attorneys for any person or organization other than a labor organization, before any Federal agency or other Federal entity in connection with any matter in which the United States is a party or has a direct and substantial interest. An exception to the prohibition found in 18 U.S.C. 205 permits Federal employees to represent certain nonprofit organizations before the Government except in connection with specified matters. Agency officials and employees are therefore advised to consult with their designated agency ethics officials for guidance regarding any conflicts of interest that may arise.
+
+[61 FR 32915, June 26, 1996, as amended at 63 FR 2306, Jan. 15, 1998]

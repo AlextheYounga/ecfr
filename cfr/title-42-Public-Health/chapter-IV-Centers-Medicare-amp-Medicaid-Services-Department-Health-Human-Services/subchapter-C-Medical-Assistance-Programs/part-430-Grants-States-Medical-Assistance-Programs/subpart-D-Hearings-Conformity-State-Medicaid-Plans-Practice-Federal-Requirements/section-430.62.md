@@ -1,0 +1,3 @@
+##### § 430.62 Records to be public. #####
+
+All pleadings, correspondence, exhibits, transcripts of testimony, exceptions, briefs, decisions, and other documents filed in the docket in any proceeding may be inspected and copied in the office of the CMS Docket Clerk. Inquiries may be made to the Docket Clerk, Hearing Staff, Bureau of Eligibility, Reimbursment and Coverage, 300 East High Rise, 6325 Security Boulevard, Baltimore, Maryland, 21207. Telephone: (301) 594-8261.

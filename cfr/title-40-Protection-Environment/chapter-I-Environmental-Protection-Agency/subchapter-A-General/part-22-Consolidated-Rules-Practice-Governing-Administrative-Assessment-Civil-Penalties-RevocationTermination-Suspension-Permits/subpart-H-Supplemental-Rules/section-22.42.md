@@ -1,0 +1,5 @@
+##### § 22.42 Supplemental rules governing the administrative assessment of civil penalties for violations of compliance orders issued to owners or operators of public water systems under part B of the Safe Drinking Water Act. #####
+
+(a) *Scope.* This section shall apply, in conjunction with §§ 22.1 through 22.32, in administrative proceedings to assess a civil penalty under section 1414(g)(3)(B) of the Safe Drinking Water Act, 42 U.S.C. 300g-3(g)(3)(B). Where inconsistencies exist between this section and §§ 22.1 through 22.32, this section shall apply.
+
+(b) *Choice of forum.* A complaint which specifies that subpart I of this part applies shall also state that respondent has a right to elect a hearing on the record in accordance with 5 U.S.C. 554, and that respondent waives this right unless it requests in its answer a hearing on the record in accordance with 5 U.S.C. 554. Upon such request, the Regional Hearing Clerk shall recaption the documents in the record as necessary, and notify the parties of the changes.

@@ -1,0 +1,3 @@
+##### § 227.14 Criteria for evaluating the need for ocean dumping and alternatives to ocean dumping. #####
+
+This subpart C states the basis on which an evaluation will be made of the need for ocean dumping, and alternatives to ocean dumping. The nature of these factors does not permit the promulgation of specific quantitative criteria of each permit application. These factors will therefore be evaluated if applicable for each proposed dumping on an individual basis using the guidelines specified in this subpart C.

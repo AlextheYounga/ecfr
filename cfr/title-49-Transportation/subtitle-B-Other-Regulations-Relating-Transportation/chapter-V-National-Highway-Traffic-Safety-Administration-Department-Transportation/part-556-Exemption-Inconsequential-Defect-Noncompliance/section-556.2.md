@@ -1,0 +1,3 @@
+##### § 556.2 Purpose. #####
+
+The purpose of this part is to enable manufacturers of motor vehicles and replacement equipment to petition the NHTSA for exemption from the notification and remedy requirements of the Act due to the inconsequentiality of the defect or noncompliance as it relates to motor vehicle safety, and to give all interested persons an opportunity for presentation of data, views, and arguments on the issues of inconsequentiality.

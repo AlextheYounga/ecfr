@@ -1,0 +1,3 @@
+##### § 747.603 Prevailing party. #####
+
+An eligible applicant may be a “prevailing party” if the applicant wins an action after a full hearing or trial on the merits, if a settlement of the proceeding was effected on terms favorable to it, or if the proceeding against it has been dismissed. In appropriate situations an applicant may also have prevailed if the outcome of the proceeding has substantially vindicated the applicant's position on the significant substantive matters at issue, even though the applicant has not totally avoided adverse final action.

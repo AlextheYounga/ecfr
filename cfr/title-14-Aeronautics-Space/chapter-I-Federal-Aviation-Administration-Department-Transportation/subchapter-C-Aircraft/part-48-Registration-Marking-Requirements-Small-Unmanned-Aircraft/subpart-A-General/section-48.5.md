@@ -1,0 +1,5 @@
+##### § 48.5 Compliance dates. #####
+
+(a)  *Small unmanned aircraft used exclusively as model aircraft.* For small unmanned aircraft operated by the current owner prior to December 21, 2015, compliance with the requirements of this part or part 47 is required no later than February 19, 2016. For all other small unmanned aircraft, compliance with this part is required prior to operation of the small unmanned aircraft.
+
+(b) *Small unmanned aircraft used as other than model aircraft.* Small unmanned aircraft owners authorized to conduct operations other than model aircraft operations must register the small unmanned aircraft in accordance with part 47 of this chapter. Beginning March 31, 2016, small unmanned aircraft operated as other than model aircraft may complete aircraft registration in accordance with this part.

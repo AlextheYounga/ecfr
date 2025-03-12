@@ -1,0 +1,3 @@
+##### § 269.10 Time for internal labor organization business, consultations and negotiations. #####
+
+Solicitation of memberships, dues or other internal labor organization business shall be conducted during the nonduty hours of the employees concerned. Officially requested or approved consultation between management executives and representatives of a labor organization shall, whenever practicable, be conducted on official time, but the President or a duly authorized officer of a Bank may require that negotiations with a labor organization be conducted during the nonduty hours of the Bank.

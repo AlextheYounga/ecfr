@@ -1,0 +1,3 @@
+##### § 234.243 Wire on pole line and aerial cable. #####
+
+Wire on a pole line shall be securely attached to an insulator that is properly fastened to a cross arm or bracket supported by a pole or other support. Wire shall not interfere with, or be interfered with by, other wires on the pole line. Aerial cable shall be supported by messenger wire. An open-wire transmission line operating at voltage of 750 volts or more shall be placed not less than 4 feet above the nearest cross arm carrying active warning system circuits.

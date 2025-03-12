@@ -1,0 +1,3 @@
+##### § 576.105 Existing Voluntary Separation Incentive Payment authorities. #####
+
+As provided in section 1313(a)(3) of Public Law 107-296, any agency exercising Voluntary Separation Incentive authority in effect on January 24, 2003, may continue to offer Voluntary Separation Incentives consistent with that authority until that authority expires. An agency that is eligible to offer Voluntary Separation Incentive Payments under this authority and under any other statutory authority may choose which authority it wishes to use, or offer incentives under both.

@@ -1,0 +1,3 @@
+##### § 14.43 Acceptance of payment constitutes release. #####
+
+Acceptance by the claimant, his agent, or legal representative, of any award, compromise, or settlement made under the provisions of 28 U.S.C. 2672 or 2677, is final and conclusive on the claimant, his or her agent or legal representative and any other person on whose behalf or for whose benefit the claim has been presented. Acceptance constitutes a complete release of any claim against the United States and against any employee of the Government whose act or omission gave rise to the claim.

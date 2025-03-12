@@ -1,0 +1,3 @@
+##### § 1011.2 Revocation regardless of registration. #####
+
+All purchasers have the option to revoke a contract or lease with regard to a lot not exempt under §§ 1010.5 through 1010.11 and 1010.14 until midnight of the seventh day after the day that the purchaser signs a contract or lease. If a purchaser is entitled to a longer revocation period under state law, that period is deemed the Federal revocation period rather than the 7 days, and all contracts and agreements (including promissory notes) shall so state.

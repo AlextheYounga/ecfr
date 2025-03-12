@@ -1,0 +1,3 @@
+##### § 417.401 Scope. #####
+
+This subpart contains public safety requirements that apply to launch processing and post-launch operations at a launch site in the United States. Ground safety requirements in this subpart apply to activities performed by, or on behalf of, a launch operator at a launch site in the United States. A licensed launch site operator must satisfy the requirements of part 420 of this chapter.

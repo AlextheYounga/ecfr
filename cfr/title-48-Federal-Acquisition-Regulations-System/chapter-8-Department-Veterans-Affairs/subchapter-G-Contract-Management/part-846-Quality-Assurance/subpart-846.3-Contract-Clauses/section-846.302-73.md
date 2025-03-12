@@ -1,0 +1,3 @@
+##### 846.302-73 Noncompliance with packaging, packing and/or marking requirements. #####
+
+The contracting officer shall insert the clause at 852.246-73, Noncompliance with packaging, packing, and/or marking requirements, in non-commercial item solicitations and contracts for supplies or equipment where there are special packaging, packing and/or marking requirements. The clause may be used in commercial item acquisitions if a waiver is approved in accordance with FAR 12.302(c) and 812.302.

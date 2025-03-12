@@ -1,0 +1,3 @@
+##### 1419.705-3 Preparing the solicitation. #####
+
+In solicitations containing subcontract plan requirements, COs should consider evaluating offered subcontract plans and the offerors' past subcontracting compliance and accomplishments in the evaluation and selection of proposals. This would be particularly appropriate for acquisitions known to offer significant subcontracting opportunities for small, small disadvantaged, and women-owned businesses or which include work previously performed by a small business. When used, this factor must be evaluated in such a way that the relative ranking or scoring of small business offerors is not adversely affected by the lack of a subcontract plan.

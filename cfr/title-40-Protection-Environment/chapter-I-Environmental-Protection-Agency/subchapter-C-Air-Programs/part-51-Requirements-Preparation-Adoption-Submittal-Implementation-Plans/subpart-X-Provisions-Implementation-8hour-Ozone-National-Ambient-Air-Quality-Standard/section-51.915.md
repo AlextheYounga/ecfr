@@ -1,0 +1,5 @@
+##### § 51.915 What emissions inventory requirements apply under the 8-hour NAAQS? #####
+
+For each nonattainment area subject to subpart 2 in accordance with § 51.903, the emissions inventory requirements in sections 182(a)(1) and 182(a)(3) of the Act shall apply, and such SIP shall be due no later 2 years after designation. For each nonattainment area subject only to title I, part D, subpart 1 of the Act in accordance with § 51.902(b), the emissions inventory requirement in section 172(c)(3) of the Act shall apply, and an emission inventory SIP shall be due no later 3 years after designation. The state must report to the EPA summer day emissions of NOX and VOC from all point sources, nonpoint sources, onroad mobile sources, and nonroad mobile sources. The state shall report emissions as point sources according to the point source emissions thresholds of the Air Emissions Reporting Rule (AERR), 40 CFR part 51, subpart A. The detail of the emissions inventory shall be consistent with the data elements required by 40 CFR part 51, subpart A.
+
+[80 FR 8799, Feb. 19, 2015]

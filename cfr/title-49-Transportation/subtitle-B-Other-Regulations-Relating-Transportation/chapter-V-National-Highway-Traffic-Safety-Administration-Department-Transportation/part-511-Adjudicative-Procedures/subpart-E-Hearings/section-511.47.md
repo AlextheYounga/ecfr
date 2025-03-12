@@ -1,0 +1,5 @@
+##### § 511.47 Record. #####
+
+(a) *Reporting and transcription.* Hearings shall be recorded and transcribed under the supervision of the Presiding Officer by a reporter appointed by the Administrator. The original transcript shall be a part of the record and the official transcript. Copies of transcripts are available from the reporter at a cost not to exceed the maximum rates fixed by contract between the NHTSA and the reporter.
+
+(b) *Corrections.* Corrections of the official transcript may be made only when they involve errors affecting substance and then only in the manner herein provided. The Presiding Officer may order corrections, either on his or her own motion or on motion of any party. The Presiding Officer shall determine the corrections to be made and so order. Corrections shall be interlineated or otherwise inserted in the official transcript so as not to obliterate the original text.

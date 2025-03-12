@@ -1,0 +1,5 @@
+##### § 2640.204 Prohibited financial interests. #####
+
+None of the exemptions set forth in §§ 2640.201, 2640.202, or 2640.203 apply to any financial interest held or acquired by an employee, his spouse, or minor child in violation of a statute or agency supplemental regulation issued in accordance with 5 CFR 2635.105, or that is otherwise prohibited under 5 CFR 2635.403(b).
+
+Example 1 to § 2640.204:The Office of the Comptroller of the Currency (OCC), in a regulation that supplements part 2635 of this chapter, prohibits certain employees from owning stock in commercial banks. If an OCC employee purchases stock valued at $2,000 in contravention of the regulation, the exemption at § 2640.202(a) for interests arising from the ownership of no more than $15,000 worth of publicly traded stock will not apply to the employee's participation in matters affecting the bank.[61 FR 66841, Dec. 18, 1996, as amended at 67 FR 12446, Mar. 19, 2002]

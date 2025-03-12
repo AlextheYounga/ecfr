@@ -1,0 +1,3 @@
+##### 9903.202-2 Impracticality of submission. #####
+
+The agency head may determine that it is impractical to secure the Disclosure Statement, although submission is required, and authorize contract award without obtaining the Statement. He shall, within 30 days of having done so, submit a report to the Cost Accounting Standards Board setting forth all material facts. This authority may not be delegated.

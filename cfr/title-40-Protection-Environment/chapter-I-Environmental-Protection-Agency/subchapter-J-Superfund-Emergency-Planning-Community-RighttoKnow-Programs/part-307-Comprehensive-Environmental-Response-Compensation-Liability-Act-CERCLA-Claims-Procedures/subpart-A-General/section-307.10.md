@@ -1,0 +1,3 @@
+##### § 307.10 Purpose. #####
+
+This part prescribes the appropriate forms and procedures for presenting claims for necessary response costs as authorized by section 112(b)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended by the Superfund Amendments and Reauthorization Act of 1986 (SARA) (herein referred to as CERCLA, or the Act) (42 U.S.C. 9601 *et seq.*). Such claims may be presented to the Hazardous Substance Superfund (the Fund) established by section 9507 of the Internal Revenue Code of 1986. See section 101(11) of CERCLA.

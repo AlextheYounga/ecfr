@@ -1,0 +1,41 @@
+##### § 1274.905 Rights in data. #####
+
+As noted in § 1274.208(l)(1), the following provision assumes a substantially equal cost sharing relationship where collaborative research, experimental, developmental, engineering, demonstration, or design activities are to be carried out, such that it is likely that “proprietary” information will be developed and/or exchanged under the agreement. If cost sharing is unequal or no extensive research, experimental, developmental, engineering, demonstration, or design activities are likely, a different set of provisions may be appropriate. The Agreement Officer is expected to complete and/or select the appropriate bracketed language under the provision for those paragraphs dealing with data first produced under the cooperative agreement. In addition, the Agreement Officer may, in consultation with the Center's Patent or Intellectual Property Counsel, tailor the provision to fit the particular circumstances of the program and/or the recipient's need to protect specific proprietary information.
+
+Rights in DataJuly 2002
+
+(a) Definitions.
+
+“Data,” means recorded information, regardless of form, the media on which it may be recorded, or the method of recording. The term includes, but is not limited to, data of a scientific or technical nature, computer software and documentation thereof, and data comprising commercial and financial information.
+
+(b) Data categories.
+
+(1) *General.* Data exchanged between NASA and Recipient under this cooperative agreement will be exchanged without restriction as to its disclosure, use or duplication except as otherwise provided below in this provision.
+
+(2) *Background Data.* In the event it is necessary for Recipient to furnish NASA with Data which existed prior to, or produced outside of, this cooperative agreement, and such Data embodies trade secrets or comprises commercial or financial information which is privileged or confidential, and such Data is so identified with a suitable notice or legend, the Data will be maintained in confidence and disclosed and used by NASA and its contractors (under suitable protective conditions) only for the purpose of carrying out NASA's responsibilities under this cooperative agreement. Upon completion of activities under this agreement, such Data will be disposed of as requested by Recipient.
+
+(3) *Data first produced by Recipient.* In the event Data first produced by Recipient in carrying out Recipient's responsibilities under this cooperative agreement is furnished to NASA, and Recipient considers such Data to embody trade secrets or to comprise commercial or financial information which is privileged or confidential, and such Data is so identified with a suitable notice or legend, the Data will be maintained in confidence for a period of [insert “two” to “five”] years after development of the data and be disclosed and used by [“NASA” or “the Government,” as appropriate] and its contractors (under suitable protective conditions) only for [insert appropriate purpose; for example: experimental; evaluation; research; development, etc.] by or on behalf of [“NASA” or “the Government” as appropriate] during that period. In order that [“NASA” or the “Government”, as appropriate] and its contractors may exercise the right to use such Data for the purposes designated above, NASA, upon request to the Recipient, shall have the right to review and request delivery of Data first produced by Recipient. Delivery shall be made within a time period specified by NASA.
+
+(4) *Data first produced by NASA.* As to data first produced by NASA in carrying out NASA's responsibilities under this cooperative agreement and which Data would embody trade secrets or would comprise commercial or financial information that is privileged or confidential if it had been obtained from the Recipient, will be marked with an appropriate legend and maintained in confidence for an agreed to period of up to ( ) years [INSERT A PERIOD UP TO 5 YEARS] after development of the information, with the express understanding that during the aforesaid period such Data may be disclosed and used (under suitable protective conditions) by or on behalf of the Government for Government purposes only, and thereafter for any purpose whatsoever without restriction on disclosure and use. Recipient agrees not to disclose such Data to any third party without NASA's written approval until the aforementioned restricted period expires. Use of this data under a separate cooperative agreement or contract issued to a party other than the Recipient for the purpose of continuing the project in the event this cooperative agreement is terminated by either party shall constitute a government purpose.
+
+(5) *Copyright.* (i) In the event Data is exchanged with a notice indicating the Data is protected under copyright as a published copyrighted work, or are deposited for registration as a published work in the U.S. Copyright Office, the following paid-up licenses shall apply:
+
+(A) If it is indicated on the Data that the Data existed prior to, or was produced outside of, this agreement, the receiving party and others acting on its behalf, may reproduce, distribute, and prepare derivative works for the purpose of carrying out the receiving party's responsibilities under this cooperative agreement; and
+
+(B) If the furnished Data does not contain the indication of paragraph (b)(5)(i)(A) of this section, it will be assumed that the Data was first produced under this agreement, and the receiving party and others acting on its behalf, shall be granted a paid up, nonexclusive, irrevocable, world-wide license for all such Data to reproduce, distribute copies to the public, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, by or on behalf of the receiving party. For Data that is computer software, the right to distribute shall be limited to potential users in the United States.
+
+(ii) When claim is made to copyright, the Recipient shall affix the applicable copyright notice of 17 U.S.C. 401 or 402 and acknowledgment of Government sponsorship to the data when and if the data are delivered to the Government.
+
+(6) *Oral and visual information.* If information which the Recipient considers to embody trade secrets or to comprise commercial or financial information which is privileged or confidential is disclosed orally or visually to NASA, such information must be reduced to tangible, recorded form (i.e., converted into Data as defined herein), identified and marked with a suitable notice or legend, and furnished to NASA within 10 days after such oral or visual disclosure, or NASA shall have no duty to limit or restrict, and shall not incur any liability for, any disclosure and use of such information.
+
+(7) *Disclaimer of liability.* Notwithstanding the above, NASA shall not be restricted in, nor incur any liability for, the disclosure and use of:
+
+(i) Data not identified with a suitable notice or legend as set in paragraph (b)(2) of this section; nor
+
+(ii) Information contained in any Data for which disclosure and use is restricted under paragraphs (b)(2) or (3) of this section, if such information is or becomes generally known without breach of the above, is known to or is generated by NASA independently of carrying out responsibilities under this agreement, is rightfully received from a third party without restriction, or is included in data which Participant has, or is required to furnish to the U.S. Government without restriction on disclosure and use.
+
+(c) *Marking of data.* Any Data delivered under this cooperative agreement, by NASA or the Recipient, shall be marked with a suitable notice or legend indicating the data was generated under this cooperative agreement.
+
+(d) *Lower tier agreements.* The Recipient shall include this provision, suitably modified to identify the parties, in all subcontracts or lower tier agreements, regardless of tier, for experimental, developmental, or research work.
+
+[End of provision]

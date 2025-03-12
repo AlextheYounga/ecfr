@@ -1,0 +1,3 @@
+##### § 414.90 Applicability; description of the subcategory of direct discharge point sources that use end-of-pipe biological treatment. #####
+
+The provisions of this subpart are applicable to the process wastewater discharges resulting from the manufacture of the OCPSF products and product groups defined by § 414.11 from any point source that uses end-of-pipe biological treatment or installs end-of-pipe biological treatment to comply with BPT effluent limitations.

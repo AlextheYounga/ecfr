@@ -1,0 +1,7 @@
+##### § 3201.107 Outside employment and other activities. #####
+
+(a) *Prohibition on employment with FDIC-insured depository institutions.* An employee shall not provide service for compensation, in any capacity, to an FDIC-insured depository institution or an employee or person employed by or connected with such institution.
+
+(b) *Use of professional licenses.* A covered employee who holds a license related to real estate, appraisals, securities, or insurance and whose official duties with the Corporation require personal and substantial involvement in matters related to, respectively, real estate, appraisal, securities, or insurance is prohibited from using such license, other than in the performance of his or her official duties, for the production of income. The appropriate director, in consultation with an agency designee, may grant exceptions to this prohibition based on a finding that the specific transactions which require use of the license will not create an appearance of loss of impartiality or use of public office for private gain.
+
+(c) *Responsibility to consult with agency designee.* An employee who engages in, or intends to engage in, any outside employment or other activity that may require disqualification from the employee's official duties shall consult with an agency designee prior to engaging in or continuing to engage in the activity.

@@ -1,0 +1,7 @@
+##### § 262.11 Application process. #####
+
+(a) All grant applications for opportunities funded under this subsection must be submitted to FRA through *www.grants.gov.* Opportunities to apply will be posted by FRA on *www.grants.gov* only after funds have been appropriated for Capital Grants for Rail Line Relocation Projects. The electronic posting will contain all of the information needed to apply for the grant, including required supporting documentation.
+
+(b) In addition to the information required with an individual application, a State must submit a description of the anticipated public and private benefits associated with each rail line relocation or improvement project described in § 262.7(a)(1) and (2) and the State's assessment of how those benefits outweigh the costs of the proposed project. The determination of such benefits shall be developed in consultation with the owner and user of the rail line being relocated or improved or other private entity involved in the project. The State should also identify any financial contributions or commitments it has secured from private entities that are expected to benefit from the proposed project.
+
+(c) Potential applicants may request a meeting with the FRA Associate Administrator for Railroad Development or his designee to discuss the nature of the project being considered.

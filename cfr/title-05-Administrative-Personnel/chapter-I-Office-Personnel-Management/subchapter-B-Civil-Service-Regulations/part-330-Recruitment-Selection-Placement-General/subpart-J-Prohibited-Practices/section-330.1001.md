@@ -1,0 +1,3 @@
+##### § 330.1001 Withdrawal from competition. #####
+
+An applicant for competitive examination, an eligible on a register, and an officer or employee in the executive branch of the Government may not persuade, induce, or coerce, or attempt to persuade, induce, or coerce, directly or indirectly, a prospective applicant to withhold filing application, or an applicant or eligible to withdraw from competition or eligibility, for a position in the competitive service, for the purpose of improving or injuring the prospects of an applicant or eligible for appointment. OPM will cancel the application or eligibility of an applicant or eligible who violates this section, and will impose such other penalty as it considers appropriate.

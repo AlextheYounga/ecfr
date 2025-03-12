@@ -1,0 +1,11 @@
+##### § 387.403 General requirements. #####
+
+Link to an amendment published at 78 FR 52652, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63710, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
+
+(a) *Cargo.* A household goods freight forwarder may not operate until it has filed with FMCSA an appropriate surety bond, certificate of insurance, qualifications as a self-insurer, or other securities or agreements, in the amounts prescribed in § 387.405, for loss of or damage to household goods.
+
+(b) *Public liability.* A HHGFF may not perform transfer, collection, and delivery service until it has filed with the FMCSA an appropriate surety bond, certificate of insurance, qualifications as a self-insurer, or other securities or agreements, in the amounts prescribed at § 387.405, conditioned to pay any final judgment recovered against such HHGFF for bodily injury to or the death of any person, or loss of or damage to property (except cargo) of others, or, in the case of freight vehicles described at 49 CFR 387.303(b)(2), for environmental restoration, resulting from the negligent operation, maintenance, or use of motor vehicles operated by or under its control in performing such service.
+
+(c) *Surety bond or trust fund.* A freight forwarder must have a surety bond or trust fund in effect. The FMCSA will not issue a freight forwarder license until a surety bond or trust fund for the full limit of liability prescribed in § 387.405 is in effect. The freight forwarder license shall remain valid or effective only as long as a surety bond or trust fund remains in effect and shall ensure the financial responsibility of the freight forwarder. The requirements applicable to property broker surety bonds and trust funds in § 387.307 shall apply to the surety bond or trust fund required by this paragraph.
+
+[55 FR 11201, Mar. 27, 1990. Redesignated at 61 FR 54710, Oct. 21, 1996, as amended at 62 FR 49942, Sept. 24, 1997; 75 FR 35328, June 22, 2010; 78 FR 60233, Oct. 1, 2013]

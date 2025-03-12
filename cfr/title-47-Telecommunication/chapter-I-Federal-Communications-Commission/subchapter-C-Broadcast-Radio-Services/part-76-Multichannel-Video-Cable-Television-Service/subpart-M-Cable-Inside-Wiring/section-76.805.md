@@ -1,0 +1,9 @@
+##### § 76.805 Access to molding. #####
+
+(a) An MVPD shall be permitted to install one or more home run wires within the existing molding of an MDU where the MDU owner finds that there is sufficient space to permit the installation of the additional wiring without interfering with the ability of an existing MVPD to provide service, and gives its affirmative consent to such installation. This paragraph shall not apply where the incumbent provider has an exclusive contractual right to occupy the molding.
+
+(b) If an MDU owner finds that there is insufficient space in existing molding to permit the installation of the new wiring without interfering with the ability of an existing MVPD to provide service, but gives its affirmative consent to the installation of larger molding and additional wiring, the MDU owner (with or without the assistance of the incumbent and/or the alternative provider) shall be permitted to remove the existing molding, return such molding to the incumbent, if appropriate, and install additional wiring and larger molding in order to contain the additional wiring. This paragraph shall not apply where the incumbent provider possesses a contractual right to maintain its molding on the premises without alteration by the MDU owner.
+
+(c) The alternative provider shall be required to pay any and all installation costs associated with the implementation of paragraphs (a) or (b) of this section, including the costs of restoring the MDU owner's property to its original condition, and the costs of repairing any damage to the incumbent provider's wiring or other property.
+
+[62 FR 61033, Nov. 14, 1997]

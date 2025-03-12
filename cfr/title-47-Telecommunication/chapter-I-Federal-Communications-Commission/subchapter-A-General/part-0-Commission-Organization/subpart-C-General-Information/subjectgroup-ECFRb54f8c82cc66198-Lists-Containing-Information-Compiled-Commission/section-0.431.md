@@ -1,0 +1,5 @@
+##### § 0.431 The FCC service frequency lists. #####
+
+Lists of frequency assignments to radio stations authorized by the Commission are recapitulated periodically by means of an automated record system. All stations licensed by the Commission are included, except the following: Aircraft, amateur, personal (except General Mobile Radio Service), Civil Air Patrol, and disaster. The resulting documents, the FCC service frequency lists, consist of several volumes arranged by nature of service, in frequency order, including station locations, call signs and other technical particulars of each assignment. These documents are available for public inspection in Washington, D.C., in the Office of Engineering and Technology. Copies may be purchased from the Commission's duplicating contractor. See § 0.465(a).
+
+[64 FR 60722, Nov. 8, 1999]

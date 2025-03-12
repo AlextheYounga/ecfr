@@ -1,0 +1,5 @@
+##### § 90.7 Decision to conduct health effects study. #####
+
+(a) ATSDR may decide, in its discretion, based upon the results of a health assessment or other available information, to conduct a health effects study for a particular site or sites. Such a decision may, in appropriate circumstances, be made prior to the completion of a health assessment for a site or sites. When deciding whether to conduct a health effects study, ATSDR will consider such factors as the results and recommendations of a health assessment for the site or sites and the need for additional information to determine whether individuals have been exposed to hazardous substances, the degree to which such exposure has occurred, and any possible health effects resulting from such exposure.
+
+(b) Should ATSDR decide, in its discretion, to conduct a health effect study, it will notify the parties as specified in § 90.6.

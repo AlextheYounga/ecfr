@@ -1,0 +1,7 @@
+##### § 253.8 Qualifications to notice requirements. #####
+
+(a) If notice is not provided in accordance with § 253.5 at a ticket sales location outside of the United States that is not a U.S. air carrier ticket office, the price paid for the portion of such ticket that is for interstate and overseas air transportation shall be refundable without penalty if the passenger refuses transportation by the carrier. Each air carrier shall ensure that passengers who have bought tickets at those locations without the notice required in § 253.5 are given that notice not later than check-in for the travel in interstate or overseas air transportation, and that conspicuous notice is included on or with the ticket stating that the price for that travel is refundable without penalty.
+
+(b) An air taxi operator (including a commuter air carrier) not operating under subpart I of part 298 of this chapter shall not be considered to have incorporated terms by reference into its contract of carriage merely because a passenger has purchased a flight segment on that carrier that appears on ticket stock that contains a statement that terms have been incorporated by reference. However, such an air taxi operator may not claim the benefit as against the passenger of, and the passenger shall not be bound by, any contract term incorporated by reference if notice of the term has not been provided to the passenger in accordance with this part.
+
+[ER-1370, 48 FR 54591, Dec. 6, 1983]

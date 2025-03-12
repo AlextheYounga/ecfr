@@ -1,0 +1,7 @@
+##### § 820.37 Participation in an adjudication. #####
+
+(a) *Parties.* In an enforcement adjudication, the Director and the respondent shall be the only parties; provided that the Presiding Officer may permit a person to intervene as a party if the person demonstrates it could be liable in the event a civil penalty is assessed.
+
+(b) *Appearances.* Any party to an enforcement adjudication may appear in person or by counsel or other representative. A partner may appear on behalf of a partnership and an officer may appear on behalf of a corporation. Persons who appear as counsel or other representative must conform to the standards of conduct and ethics required of practitioners before the courts of the United States.
+
+(c) *Amicus Curiae.* Persons not parties to an enforcement adjudication who wish to file briefs may so move. The motion shall identify the interest of the person and shall state the reasons why the proposed amicus brief is desirable. If the motion is granted, the Presiding Officer shall issue an order setting the time for filing such brief. An *amicus curiae* is eligible to participate in any briefing after his motion is granted, and shall be served with all briefs, reply briefs, motions, and orders relating to issues to be briefed.

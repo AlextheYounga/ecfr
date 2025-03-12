@@ -1,0 +1,3 @@
+##### § 1310.2 Composition of the Board. #####
+
+The Board consists of the Chairman of the Board of Governors of the Federal Reserve System or the designee of the Chairman, who acts as Chairman of the Board, the Secretary of the Treasury or the designee of the Secretary, the Secretary of Transportation or the designee of the Secretary, and the Comptroller General of the United States or the designee of the Comptroller General, who serves as a nonvoting member. The Comptroller General of the United States or the designee of the Comptroller General, who serves as a nonvoting member, shall not be involved in any of the Board's discussions or deliberations in connection with individual loan guarantee applications.

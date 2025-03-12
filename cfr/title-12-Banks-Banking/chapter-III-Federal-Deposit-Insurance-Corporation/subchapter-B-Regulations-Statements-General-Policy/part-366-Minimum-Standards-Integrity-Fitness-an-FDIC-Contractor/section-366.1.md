@@ -1,0 +1,3 @@
+##### § 366.1 What is the purpose of this part? #####
+
+This part establishes the minimum standards of integrity and fitness that contractors, subcontractors, and employees of contractors and subcontractors must meet if they perform any service or function on our behalf. This part includes regulations governing conflicts of interest, ethical responsibility, and use of confidential information in accordance with section 12(f)(3) of the FDI Act, 12 U.S.C. 1822(f)(3), and the prohibitions and the requirements for submission of information in accordance with section 12(f)(4) of the FDI Act, 12 U.S.C. 1822(f)(4).

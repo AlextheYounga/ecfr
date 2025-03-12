@@ -1,0 +1,24 @@
+##### § 131.21 EPA review and approval of water quality standards. #####
+
+(a) After the State submits its officially adopted revisions, the Regional Administrator shall either:
+
+(1) Notify the State within 60 days that the revisions are approved, or
+
+(2) Notify the State within 90 days that the revisions are disapproved. Such notification of disapproval shall specify the changes needed to assure compliance with the requirements of the Act and this regulation, and shall explain why the State standard is not in compliance with such requirements. Any new or revised State standard must be accompanied by some type of supporting analysis.
+
+(b) The Regional Administrator's approval or disapproval of a State water quality standard shall be based on the requirements of the Act as described in §§ 131.5 and 131.6, and, with respect to Great Lakes States or Tribes (as defined in 40 CFR 132.2), 40 CFR part 132.
+
+(c) *How do I determine which water quality standards are applicable for purposes of the Act?* You may determine which water quality standards are applicable water quality standards for purposes of the Act from the following table:
+
+|                                                                                 If—                                                                                  |                                                              Then—                                                              |                                               Unless or until—                                                |                                                                             In which case—                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(1) A State or authorized Tribe has adopted a water quality standard that is effective under State or Tribal law and has been submitted to EPA before May 30, 2000 . .|     . . . the State or Tribe's water quality standard is the applicable water quality standard for purposes of the Act . .      |. . . EPA has promulgated a more stringent water quality standard for the State or Tribe that is in effect . . |. . . the EPA-promulgated water quality standard is the applicable water quality standard for purposes of the Act until EPA withdraws the Federal water quality standard.|
+|             (2) A State or authorized Tribe adopts a water quality standard that goes into effect under State or Tribal law on or after May 30, 2000 . .             |. . . once EPA approves that water quality standard, it becomes the applicable water quality standard for purposes of the Act . .| . . . EPA has promulgated a more stringent water quality standard for the State or Tribe that is in effect . .|. . . the EPA promulgated water quality standard is the applicable water quality standard for purposes of the Act until EPA withdraws the Federal water quality standard.|
+
+(d) *When do I use the applicable water quality standards identified in paragraph (c) above?* Applicable water quality standards for purposes of the Act are the minimum standards which must be used when the CWA and regulations implementing the CWA refer to water quality standards, for example, in identifying impaired waters and calculating TMDLs under section 303(d), developing NPDES permit limitations under section 301(b)(1)(C), evaluating proposed discharges of dredged or fill material under section 404, and in issuing certifications under section 401 of the Act.
+
+(e) *For how long does an applicable water quality standard for purposes of the Act remain the applicable water quality standard for purposes of the Act?* A State or authorized Tribe's applicable water quality standard for purposes of the Act remains the applicable standard until EPA approves a change, deletion, or addition to that water quality standard, or until EPA promulgates a more stringent water quality standard.
+
+(f) *How can I find out what the applicable standards are for purposes of the Act?* In each Regional office, EPA maintains a docket system for the States and authorized Tribes in that Region, available to the public, identifying the applicable water quality standards for purposes of the Act.
+
+[48 FR 51405, Nov. 8, 1983, as amended at 60 FR 15387, Mar. 23, 1995; 65 FR 24653, Apr. 27, 2000]

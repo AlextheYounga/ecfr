@@ -1,0 +1,3 @@
+##### § 32.86 Admissions to Service facilities. #####
+
+Any person with Hansen's disease who presents himself for care or treatment or who is referred to the Service by the proper health authority of any State, Territory, or the District of Columbia shall be received into the Service hospital at Carville, Louisiana, or into any other hospital of the Service which has been designated by the Secretary as being suitable for the accommodation of persons with Hansen's disease.

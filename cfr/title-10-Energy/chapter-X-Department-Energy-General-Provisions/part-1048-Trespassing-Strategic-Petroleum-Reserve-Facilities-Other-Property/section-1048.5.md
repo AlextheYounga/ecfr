@@ -1,0 +1,3 @@
+##### § 1048.5 Violations. #####
+
+Willful unauthorized entry, or willful unauthorized introduction of weapons or dangerous materials into or upon real property subject to this part, constitutes a violation of these regulations. Violation of these regulations is a misdemeanor, and a person convicted of violating these regulations is subject to the maximum fine permitted by law, imprisonment for not more than one year, or both.

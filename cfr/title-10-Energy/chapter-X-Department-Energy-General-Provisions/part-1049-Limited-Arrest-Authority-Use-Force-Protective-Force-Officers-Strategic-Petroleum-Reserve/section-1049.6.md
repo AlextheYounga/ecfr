@@ -1,0 +1,5 @@
+##### § 1049.6 Exercise of arrest authority—Use of non-deadly force. #####
+
+(a) When a Protective Force Officer is authorized to make an arrest as provided in the Act, the Protective Force Officer may use only that degree of non-deadly force that is reasonable and necessary to apprehend and arrest the suspect in order to prevent escape or to defend the Protective Force Officer or other persons from what the Officer reasonably believes to be the use or threat of imminent use of non-deadly force by the suspect. Verbal abuse by the suspect, in itself, is not a basis for the use of non-deadly force by a Protective Force Officer under any circumstances.
+
+(b) Protective Force Officers should consult the local DOE Office of Chief Counsel and contractor legal counsel for additional guidance on the use of non-deadly force in the exercise of arrest authority, as appropriate.

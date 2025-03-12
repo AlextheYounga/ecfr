@@ -1,0 +1,3 @@
+##### § 6.35 Agency review. #####
+
+Where Department review of the underlying decision is permitted, either the applicant or agency counsel, may seek review of the initial decision on the fee application, or the Department may decide to review the decision on its own initiative. If neither the applicant nor the agency counsel seeks review within 30 days after the decision is issued, it shall become final.

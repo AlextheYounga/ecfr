@@ -1,0 +1,3 @@
+##### § 250.891 Safety device training. #####
+
+You must ensure that personnel installing, repairing, testing, maintaining, and operating surface and subsurface safety devices, and personnel operating production platforms (including, but not limited to, separation, dehydration, compression, sweetening, and metering operations), are trained in accordance with the procedures in subpart O and subpart S of this part.

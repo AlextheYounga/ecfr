@@ -1,0 +1,3 @@
+##### § 243.204-1 Requirement. #####
+
+The collection of solid wastes (or materials which have been separated for the purpose of recycling) shall be conducted in a safe, efficient manner, strictly obeying all applicable traffic and other laws. The collection vehicle operator shall be responsible for immediately cleaning up all spillage caused by his operations, for protecting private and public property from damage resulting from his operations, and for creating no undue disturbance of the peace and quiet in residential areas in and through which he operates.

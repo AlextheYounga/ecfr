@@ -1,0 +1,9 @@
+##### 519.7011 Application review. #####
+
+(a) The Mentor-Protégé Program Manager will review the information specified in section 519.7009(b) and 519.7010 to establish the Mentor's and Protégé's eligibility and to ensure all necessary information is included. If the application relates to a specific contract, then the Mentor-Protégé Program Manager will consult with the applicable contracting officer regarding the adequacy of the proposed Agreement, as appropriate. The Mentor-Protégé Program Manager will complete its review no later than 30 days after receipt of the application. The contracting officer must provide feedback to the Program Manager no later than 10 days after receipt of the application.
+
+(b) After the Mentor-Protégé Program Manager completes its review and provides written approval, the Mentor may execute the Agreement and implement the developmental assistance as provided under the Agreement. The Mentor-Protégé Program Manager will provide a copy of the Mentor-Protégé Agreement to the GSA contracting officer for any GSA contracts affected by the Agreement.
+
+(c) The Agreement defines the relationship between the Mentor and the Protégé firms only. The Agreement itself does not create any privity of contract or contractual relationship between the Mentor and GSA nor the Protégé and GSA.
+
+(d) If the Agreement is disapproved, the Mentor may provide additional information for reconsideration. The Mentor-Protégé Program Manager will complete the review of any supplemental information no later than 30 days after its receipt. Upon finding deficiencies that GSA considers correctable, the Mentor-Protégé Program Manager will notify the Mentor and Protégé and request correction of the deficiencies to be provided within 15 days.

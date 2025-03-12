@@ -1,0 +1,11 @@
+##### § 603.680 Purchase of real property and equipment by for-profit firms. #####
+
+(a) With the two exceptions described in paragraph (b) of this section, the contracting officer must require a for-profit firm to purchase real property or equipment with its own funds that are separate from the RD&D project. The contracting officer should allow the firm to charge to an expenditure-based TIA only depreciation or use charges for real property or equipment (and the cost estimate for a fixed-support TIA only would include those costs). Note that the firm must charge depreciation consistently with its usual accounting practice. Many firms treat depreciation as an indirect cost. Any firm that usually charges depreciation indirectly for a particular type of property must not charge depreciation for that property as a direct cost to the TIA.
+
+(b) In two situations, the contracting officer may grant an exception and allow a for-profit firm to use project funds, which includes both the Federal Government and recipient shares, to purchase real property or equipment (i.e., to charge to the project the full acquisition cost of the property). The two circumstances, which should be infrequent for equipment and extremely rare for real property, are those in which either:
+
+(1) The real property or equipment will be dedicated to the project and has a current fair market value that is less than $5,000 by the time the project ends; or
+
+(2) The contracting officer gives prior approval for the firm to include the full acquisition cost of the real property or equipment as part of the cost of the project (see § 603.535).
+
+(c) If the contracting officer grants an exception in either of the circumstances described in paragraphs (b)(1) and (2) of this section, the real property or equipment must be subject to the property management standards in 10 CFR 600.321(b) through (e). As provided in those standards, the title to the real property or equipment will vest conditionally in the for-profit firm upon acquisition. A TIA, whether it is a fixed-support or expenditure-based award, must specify that any item of equipment that has a fair market value of $5,000 or more at the conclusion of the project also will be subject to the disposition process in 10 CFR 600.321(f), whereby the Federal Government will recover its interest in the property at that time.

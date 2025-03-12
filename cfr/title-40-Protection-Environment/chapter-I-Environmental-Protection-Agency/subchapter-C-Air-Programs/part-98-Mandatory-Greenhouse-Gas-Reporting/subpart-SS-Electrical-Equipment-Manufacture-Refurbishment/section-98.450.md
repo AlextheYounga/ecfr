@@ -1,0 +1,3 @@
+##### § 98.450 Definition of the source category. #####
+
+The electrical equipment manufacturing or refurbishment category consists of processes that manufacture or refurbish gas-insulated substations, circuit breakers, other switchgear, gas-insulated lines, or power transformers (including gas-containing components of such equipment) containing fluorinated GHGs, including but not limited to sulfur-hexafluoride (SF6) and perfluorocarbons (PFCs). The processes include equipment testing, installation, manufacturing, decommissioning and disposal, refurbishing, and storage in gas cylinders and other containers.

@@ -1,0 +1,9 @@
+##### § 19.40 Review by the Comptroller. #####
+
+(a) *Notice of submission to the Comptroller.* When the Comptroller determines that the record in the proceeding is complete, the Comptroller shall serve notice upon the parties that the proceeding has been submitted to the Comptroller for final decision.
+
+(b) *Oral argument before the Comptroller.* Upon the initiative of the Comptroller or on the written request of any party filed with the Comptroller within the time for filing exceptions, the Comptroller may order and hear oral argument on the recommended findings, conclusions, decision, and order of the administrative law judge. A written request by a party must show good cause for oral argument and state reasons why arguments cannot be presented adequately in writing. A denial of a request for oral argument may be set forth in the Comptroller's final decision. Oral argument before the Comptroller must be on the record.
+
+(c) *Comptroller's final decision.* (1) Decisional employees may advise and assist the Comptroller in the consideration and disposition of the case. The final decision of the Comptroller will be based upon review of the entire record of the proceeding, except that the Comptroller may limit the issues to be reviewed to those findings and conclusions to which opposing arguments or exceptions have been filed by the parties.
+
+(2) The Comptroller shall render a final decision within 90 days after notification of the parties that the case has been submitted for final decision, or 90 days after oral argument, whichever is later, unless the Comptroller orders that the action or any aspect thereof be remanded to the administrative law judge for further proceedings. Copies of the final decision and order of the Comptroller shall be served upon each party to the proceeding, upon other persons required by statute, and, if directed by the Comptroller or required by statute, upon any appropriate state or Federal supervisory authority.

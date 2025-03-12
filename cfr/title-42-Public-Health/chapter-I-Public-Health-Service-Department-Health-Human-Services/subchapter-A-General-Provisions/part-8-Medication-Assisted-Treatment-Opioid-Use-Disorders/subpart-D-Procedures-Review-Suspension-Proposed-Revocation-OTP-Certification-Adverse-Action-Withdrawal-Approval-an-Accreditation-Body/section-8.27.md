@@ -1,0 +1,23 @@
+##### § 8.27 Opportunity for oral presentation. #####
+
+(a) *Electing oral presentation.* If an opportunity for an oral presentation is desired, the appellant shall request it at the time it submits its written request for review to the reviewing official. The reviewing official will grant the request if the official determines that the decisionmaking process will be substantially aided by oral presentations and arguments. The reviewing official may also provide for an oral presentation at the official's own initiative or at the request of the respondent.
+
+(b) *Presiding official.* The reviewing official or designee will be the presiding official responsible for conducting the oral presentation.
+
+(c) *Preliminary conference.* The presiding official may hold a prehearing conference (usually a telephone conference call) to consider any of the following: Simplifying and clarifying issues; stipulations and admissions; limitations on evidence and witnesses that will be presented at the hearing; time allotted for each witness and the hearing altogether; scheduling the hearing; and any other matter that will assist in the review process. Normally, this conference will be conducted informally and off the record; however, the presiding official may, at the presiding official's discretion, produce a written document summarizing the conference or transcribe the conference, either of which will be made a part of the record.
+
+(d) *Time and place of oral presentation.* The presiding official will attempt to schedule the oral presentation within 45 days of the date appellant's request for review is received or within 15 days of submission of the last reply brief, whichever is later. The oral presentation will be held at a time and place determined by the presiding official following consultation with the parties.
+
+(e) *Conduct of the oral presentation*—(1) *General.* The presiding official is responsible for conducting the oral presentation. The presiding official may be assisted by one or more HHS officers or employees or consultants in conducting the oral presentation and reviewing the evidence. While the oral presentation will be kept as informal as possible, the presiding official may take all necessary steps to ensure an orderly proceeding.
+
+(2) *Burden of proof/standard of proof.* In all cases, the respondent bears the burden of proving by a preponderance of the evidence that its decision to suspend, propose revocation, or take adverse action is appropriate. The appellant, however, has a responsibility to respond to the respondent's allegations with evidence and argument to show that the respondent is incorrect.
+
+(3) *Admission of evidence.* The rules of evidence do not apply and the presiding official will generally admit all testimonial evidence unless it is clearly irrelevant, immaterial, or unduly repetitious. Each party may make an opening and closing statement, may present witnesses as agreed upon in the pre-hearing conference or otherwise, and may question the opposing party's witnesses. Since the parties have ample opportunity to prepare the review file, a party may introduce additional documentation during the oral presentation only with the permission of the presiding official. The presiding official may question witnesses directly and take such other steps necessary to ensure an effective and efficient consideration of the evidence, including setting time limitations on direct and cross-examinations.
+
+(4) *Motions.* The presiding official may rule on motions including, for example, motions to exclude or strike redundant or immaterial evidence, motions to dismiss the case for insufficient evidence, or motions for summary judgment. Except for those made during the hearing, all motions and opposition to motions, including argument, must be in writing and be no more than 10 double-spaced pages in length. The presiding official will set a reasonable time for the party opposing the motion to reply.
+
+(5) *Transcripts.* The presiding official shall have the oral presentation transcribed and the transcript shall be made a part of the record. Either party may request a copy of the transcript and the requesting party shall be responsible for paying for its copy of the transcript.
+
+(f) *Obstruction of justice or making of false statements.* Obstruction of justice or the making of false statements by a witness or any other person may be the basis for a criminal prosecution under 18 U.S.C. 1001 or 1505.
+
+(g) *Post-hearing procedures.* At the presiding official's discretion, the presiding official may require or permit the parties to submit post-hearing briefs or proposed findings and conclusions. Each party may submit comments on any major prejudicial errors in the transcript.

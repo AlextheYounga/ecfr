@@ -1,0 +1,5 @@
+##### § 11.10 Maintenance of records. #####
+
+Each record required by this part must be legible throughout the retention period specified by each Commission regulation. The record may be the original or a reproduced copy or a microform provided that the copy or microform is authenticated by authorized personnel and that the microform is capable of producing a clear copy throughout the required retention period. The record may also be stored in electronic media with the capability for producing legible, accurate, and complete records during the required retention period. Records such as letters, drawing, specification, must include all pertinent information such as stamps, initials, and signatures etc. The licensee shall maintain adequate safeguards against tampering with and loss of records.
+
+[53 FR 19245, May 27, 1988]

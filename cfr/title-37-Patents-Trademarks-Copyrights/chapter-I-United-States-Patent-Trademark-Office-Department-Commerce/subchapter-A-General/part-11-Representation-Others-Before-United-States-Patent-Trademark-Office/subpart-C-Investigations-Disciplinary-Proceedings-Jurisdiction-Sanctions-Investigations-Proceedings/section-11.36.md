@@ -1,0 +1,11 @@
+##### § 11.36 Answer to complaint. #####
+
+(a) *Time for answer.* An answer to a complaint shall be filed within the time set in the complaint but in no event shall that time be less than thirty days from the date the complaint is filed.
+
+(b) *With whom filed.* The answer shall be filed in writing with the hearing officer at the address specified in the complaint. The hearing officer may extend the time for filing an answer once for a period of no more than thirty days upon a showing of good cause, provided a motion requesting an extension of time is filed within thirty days after the date the complaint is served on respondent. A copy of the answer, and any exhibits or attachments thereto, shall be served on the OED Director.
+
+(c) *Content.* The respondent shall include in the answer a statement of the facts that constitute the grounds of defense and shall specifically admit or deny each allegation set forth in the complaint. The respondent shall not deny a material allegation in the complaint that the respondent knows to be true or state that respondent is without sufficient information to form a belief as to the truth of an allegation, when in fact the respondent possesses that information. The respondent shall also state affirmatively in the answer special matters of defense and any intent to raise a disability as a mitigating factor. If respondent intends to raise a special matter of defense or disability, the answer shall specify the defense or disability, its nexus to the misconduct, and the reason it provides a defense or mitigation. A respondent who fails to do so cannot rely on a special matter of defense or disability. The hearing officer may, for good cause, allow the respondent to file the statement late, grant additional hearing preparation time, or make other appropriate orders.
+
+(d) *Failure to deny allegations in complaint.* Every allegation in the complaint that is not denied by a respondent in the answer shall be deemed to be admitted and may be considered proven. The hearing officer at any hearing need receive no further evidence with respect to that allegation.
+
+(e) *Default judgment.* Failure to timely file an answer will constitute an admission of the allegations in the complaint and may result in entry of default judgment.

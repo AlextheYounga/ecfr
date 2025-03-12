@@ -1,0 +1,13 @@
+##### § 110.61 Documentation a requester who is determined to be eligible must submit for the Secretary to make a determination of lost employment income benefits. #####
+
+(a) A requester determined by the Secretary to be eligible for Program benefits and who seeks benefits for lost employment income must provide, in addition to the documentation submitted under subpart F of this part, documentation describing:
+
+(1) The number of days (including partial days) of work missed by the injured countermeasure recipient as a result of the covered injury or its health complications for which employment income was lost (*e.g.,* time sheet from the relevant pay period(s) showing work days missed). As stated in § 110.32(c), days for which an individual used paid leave will be considered days of work for which employment income was received and, therefore, would not qualify for lost employment income benefits. However, if the injured countermeasure recipient reimburses the employer for the paid leave taken and the employer restores the leave that was used, the individual may be eligible for lost employment income benefits for those days; and
+
+(2) The injured countermeasure recipient's gross employment income at the time the covered injury was sustained (*e.g.,* the individual's Federal tax return or pay stub(s) from all employers at the time of the covered injury); and
+
+(3) Whether the injured countermeasure recipient had one or more dependents at the time the covered injury was sustained (*e.g.,* the individual's Federal tax return at the time of the covered injury); and
+
+(4) A list of all third-party payers that have paid, or that may be obligated to pay, benefits to the injured countermeasure recipient for loss of employment income or provide disability and/or retirement benefits for which payment or reimbursement is being sought under this Program (e.g., State workers' compensation programs, disability insurance programs, Uniform Services Retirement Board determinations, Department of Veterans Affairs determinations, etc.). A requester must submit documentation, if available, concerning the amount of such payments or benefits paid or payable to, or on behalf of, the injured countermeasure recipient by third-party payers. If the requester knows of no such third-party payer, he or she must so certify in writing. If, at any time, the requester becomes aware that a third-party payer may have such an obligation, the requester must inform the Secretary within ten business days of becoming aware of this information, even after benefits have been paid by the Program.
+
+(b) [Reserved]

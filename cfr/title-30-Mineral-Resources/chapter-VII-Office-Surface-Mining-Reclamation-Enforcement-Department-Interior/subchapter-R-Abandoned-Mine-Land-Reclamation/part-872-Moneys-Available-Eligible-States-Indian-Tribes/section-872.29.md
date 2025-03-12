@@ -1,0 +1,3 @@
+##### § 872.29 What are prior balance replacement funds? #####
+
+“Prior balance replacement funds” are moneys we must distribute to you instead of the moneys we allocated to your State or Tribal share of the Fund before October 1, 2007, but did not distribute to you because Congress did not appropriate them. They come from general funds of the United States Treasury that are otherwise unappropriated. Under section 411(h)(1) of SMCRA, we distribute prior balance replacement funds to you, the State or Indian tribe, for seven years starting in the Federal fiscal year beginning October 1, 2008.

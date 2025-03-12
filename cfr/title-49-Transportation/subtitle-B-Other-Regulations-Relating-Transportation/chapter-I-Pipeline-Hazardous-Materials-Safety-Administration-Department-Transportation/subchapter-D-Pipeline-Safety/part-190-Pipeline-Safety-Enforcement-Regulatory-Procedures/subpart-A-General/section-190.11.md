@@ -1,0 +1,7 @@
+##### § 190.11 Availability of informal guidance and interpretive assistance. #####
+
+(a) *Availability of telephonic and Internet assistance.* PHMSA has established a Web site and a telephone line to OPS headquarters where information on and advice about compliance with the pipeline safety regulations specified in 49 CFR parts 190-199 is available. The Web site and telephone line are staffed by personnel from PHMSA's OPS from 9:00 a.m. through 5:00 p.m., Eastern Time, Monday through Friday, with the exception of Federal holidays. When the lines are not staffed, individuals may leave a recorded voicemail message or post a message on the OPS Web site. The telephone number for the OPS information line is (202) 366-4595 and the OPS Web site can be accessed via the Internet at *http://phmsa.dot.gov/pipeline.*
+
+(b) *Availability of written interpretations.* A written regulatory interpretation, response to a question, or an opinion concerning a pipeline safety issue may be obtained by submitting a written request to the Office of Pipeline Safety (PHP-30), PHMSA, U.S. Department of Transportation, 1200 New Jersey Avenue SE., Washington, DC 20590-0001. The requestor must include his or her return address and should also include a daytime telephone number. Written requests should be submitted at least 120 days before the time the requestor needs a response.
+
+[Amdt. 190-16, 78 FR 58909, Sept. 25, 2013]

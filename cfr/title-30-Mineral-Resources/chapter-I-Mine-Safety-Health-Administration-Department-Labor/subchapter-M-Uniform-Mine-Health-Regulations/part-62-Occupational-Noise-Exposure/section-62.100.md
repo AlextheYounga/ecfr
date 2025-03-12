@@ -1,0 +1,3 @@
+##### § 62.100 Purpose and scope; effective date. #####
+
+The purpose of these standards is to prevent the occurrence and reduce the progression of occupational noise-induced hearing loss among miners. This part sets forth mandatory health standards for each surface and underground metal, nonmetal, and coal mine subject to the Federal Mine Safety and Health Act of 1977. The provisions of this part become effective September 13, 2000.

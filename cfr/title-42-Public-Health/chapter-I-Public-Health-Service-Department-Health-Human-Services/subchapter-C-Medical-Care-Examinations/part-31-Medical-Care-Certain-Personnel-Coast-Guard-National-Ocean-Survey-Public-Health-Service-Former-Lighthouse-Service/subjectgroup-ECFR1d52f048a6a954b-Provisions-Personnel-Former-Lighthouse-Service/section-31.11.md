@@ -1,0 +1,5 @@
+##### § 31.11 Persons entitled to treatment. #####
+
+To the extent and under the circumstances prescribed in this part, the following persons shall be entitled to medical, surgical, and dental treatment and hospitalization by the Service: Lightkeepers, assistant lightkeepers, and officers and crews of vessels of the former Lighthouse Service, including any such persons who subsequent to June 30, 1939, have involuntarily been assigned to other civilian duty in the Coast Guard, who were entitled to medical relief at hospitals and other stations of the Service prior to July 1, 1944, and who are now or hereafter on active duty or who have been or may hereafter be retired under the provisions of section 6 of the act of June 20, 1918, as amended (33 U.S.C. 763).
+
+(Sec. 610(b), 58 Stat. 714, as amended; 33 U.S.C. 763c)

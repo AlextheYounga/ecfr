@@ -1,0 +1,3 @@
+##### 607.503 Policy. #####
+
+(e) Requirements offices shall provide to the contracting officer a written determination that none of the functions to be performed are inherently governmental. This determination shall be included with the procurement request package, which is transmitted to the contracting officer to initiate an action. The Form DS-4208 may be used to meet this requirement. The contracting officer shall obtain review from the Assistant Legal Adviser for Buildings and Acquisitions (L/BA) of any request package that the contracting officer determines raises substantial questions as to the performance of inherently governmental functions. Disagreements regarding the determination shall be resolved by the head of the contracting activity.

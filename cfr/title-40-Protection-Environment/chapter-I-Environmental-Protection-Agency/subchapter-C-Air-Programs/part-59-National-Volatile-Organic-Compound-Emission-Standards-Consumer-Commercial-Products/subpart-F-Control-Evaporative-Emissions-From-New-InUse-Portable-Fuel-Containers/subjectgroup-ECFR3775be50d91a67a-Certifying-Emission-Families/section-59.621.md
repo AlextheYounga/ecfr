@@ -1,0 +1,3 @@
+##### § 59.621 Who may apply for a certificate of conformity? #####
+
+A certificate of conformity may be issued only to the manufacturer that completes the construction of the portable fuel container. In unusual circumstances, upon a petition by a manufacturer, we may allow another manufacturer of the container to hold the certificate of conformity. However, in order to hold the certificate, the manufacturer must demonstrate day-to-day ability to ensure that containers produced under the certificate will comply with the requirements of this subpart.

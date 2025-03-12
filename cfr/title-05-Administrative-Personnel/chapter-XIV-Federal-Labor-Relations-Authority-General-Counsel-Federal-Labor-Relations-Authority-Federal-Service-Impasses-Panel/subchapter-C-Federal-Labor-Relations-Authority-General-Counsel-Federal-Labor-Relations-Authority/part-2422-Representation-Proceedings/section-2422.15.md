@@ -1,0 +1,7 @@
+##### § 2422.15 Do parties have a duty to provide information and cooperate after a petition is filed? #####
+
+(a) *Relevant information.* After you file a petition, all parties must, upon request of the Regional Director, provide the Regional Director and serve all parties affected by issues raised in the petition with information concerning parties, issues, and agreements raised in or affected by the petition.
+
+(b) *Inclusions and exclusions.* After you file a petition seeking an election, the Regional Director may direct the agency or activity to provide the Regional Director and all parties affected by issues raised in the petition with a current alphabetized list of employees and job classifications included in and/or excluded from the existing or claimed unit affected by issues raised in the petition.
+
+(c) *Cooperation.* All parties are required to cooperate in every aspect of the representation process. This obligation includes cooperating fully with the Regional Director, submitting all required and requested information, and participating in prehearing conferences and hearings. The Regional Director may take appropriate action, including dismissal of the petition or denial of intervention, if parties fail to cooperate in the representation process.

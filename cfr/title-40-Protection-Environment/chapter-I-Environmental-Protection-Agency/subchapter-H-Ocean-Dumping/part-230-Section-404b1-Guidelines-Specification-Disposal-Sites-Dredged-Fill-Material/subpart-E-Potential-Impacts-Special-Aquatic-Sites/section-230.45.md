@@ -1,0 +1,9 @@
+##### § 230.45 Riffle and pool complexes. #####
+
+(a) Steep gradient sections of streams are sometimes characterized by riffle and pool complexes. Such stream sections are recognizable by their hydraulic characteristics. The rapid movement of water over a coarse substrate in riffles results in a rough flow, a turbulent surface, and high dissolved oxygen levels in the water. Pools are deeper areas associated with riffles. Pools are characterized by a slower stream velocity, a steaming flow, a smooth surface, and a finer substrate. Riffle and pool complexes are particularly valuable habitat for fish and wildlife.
+
+(b) Possible loss of values: Discharge of dredged or fill material can eliminate riffle and pool areas by displacement, hydrologic modification, or sedimentation. Activities which affect riffle and pool areas and especially riffle/pool ratios, may reduce the aeration and filtration capabilities at the discharge site and downstream, may reduce stream habitat diversity, and may retard repopulation of the disposal site and downstream waters through sedimentation and the creation of unsuitable habitat. The discharge of dredged or fill material which alters stream hydrology may cause scouring or sedimentation of riffles and pools. Sedimentation induced through hydrological modification or as a direct result of the deposition of unconsolidated dredged or fill material may clog riffle and pool areas, destroy habitats, and create anaerobic conditions. Eliminating pools and meanders by the discharge of dredged or fill material can reduce water holding capacity of streams and cause rapid runoff from a watershed. Rapid runoff can deliver large quantities of flood water in a short time to downstream areas resulting in the destruction of natural habitat, high property loss, and the need for further hydraulic modification.
+
+Note:
+
+Possible actions to minimize adverse impacts on site or material characteristics can be found in subpart H.

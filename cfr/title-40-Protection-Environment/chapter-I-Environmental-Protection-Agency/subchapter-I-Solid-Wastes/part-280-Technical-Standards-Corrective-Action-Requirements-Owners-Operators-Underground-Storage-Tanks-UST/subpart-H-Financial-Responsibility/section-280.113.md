@@ -1,0 +1,3 @@
+##### § 280.113 Release from the requirements. #####
+
+An owner or operator is no longer required to maintain financial responsibility under this subpart for an underground storage tank after the tank has been permanently closed or undergoes a change-in-service or, if corrective action is required, after corrective action has been completed and the tank has been permanently closed or undergoes a change-in-service as required by subpart G of this part.

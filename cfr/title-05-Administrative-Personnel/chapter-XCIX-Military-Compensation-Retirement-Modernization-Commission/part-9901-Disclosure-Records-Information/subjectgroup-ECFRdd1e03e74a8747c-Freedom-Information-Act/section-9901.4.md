@@ -1,0 +1,17 @@
+##### § 9901.4 Timing. #####
+
+(a) *Acknowledgment of request.* MCRMC will provide an acknowledgment notice with an individualized tracking number and a summary of the records requested to each requester within 10 working days after receiving a request.
+
+(b) *Response time.* Every effort will be made to respond to the request within 20 days (excluding Saturdays, Sundays, and legal public holidays) of receiving the request.
+
+(c) *Appeal.* MCRMC will make a decision with respect to an appeal of a denial of a request for records within 20 days (excluding Saturdays, Sundays, and legal public holidays) after receipt of the appeal.
+
+(d) *Clarification/Additional information.* If a request for records does not reasonably describe the records sought, MCRMC will contact the requester to seek additional information. Requesters may discuss their request with the MCRMC FOIA Public Liaison and modify the request. The MCRMC FOIA Public Liaison may be reached via telephone at (703) 692-2080 or by U.S. Mail at FOIA Public Liaison, Military Compensation and Retirement Modernization Commission, Post Office Box 13170, Arlington, VA 22209. As there may be delays in mail delivery, it is advisable to send the request via facsimile to (703) 697-8330 or email to *foia@mcrmc.gov.* MCRMC may make one request for clarification/additional information to the requester for information and suspend the 20-day period while awaiting such information. When a requester fails to clarify by providing additional information, MCRMC will notify the requester that the request has not been properly made and that no further action will be taken on the request. The requester may appeal such a decision under the procedures set forth in subpart 9901.7.
+
+(e) *Expedited processing.* A request for expedited processing must accompany the initial request for records. It must be a written statement of compelling need for expedited processing, stating that the facts are true and correct to the best of the requester's knowledge and belief. In determining whether processing should be expedited, the FOIA Officer may consider whether:
+
+(1) Failure to obtain the requested records on an expedited basis could reasonably be expected to pose an imminent threat to a person's life or physical safety; or
+
+(2) With respect to a request made by a person primarily engaged in disseminating information, there is an urgency to inform the public about actual or alleged Federal government activity.
+
+(f) *Extension for unusual circumstances.* If MCRMC determines that unusual circumstances exist, the time limits described in paragraphs (b) and (c) of this subpart may be extended by no more than 10 days (excluding Saturdays, Sunday, and legal public holidays) by providing written notice of the extension to the requester. The time limit may be extended if the request cannot be processed within the time limits of this subpart due to the need to search, collect, and examine a voluminous amount of records, coordinate, or consult with another agency. The requester will be given an opportunity to limit the scope of the request or to arrange with MCRMC an alternative time frame for processing the request. The FOIA Officer shall include with the notice of extension a brief statement of the reason for the extension and the date the FOIA Officer expects to make a determination.

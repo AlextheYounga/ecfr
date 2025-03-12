@@ -1,0 +1,3 @@
+##### § 93.213 Institution. #####
+
+*Institution* means any individual or person that applies for or receives PHS support for any activity or program that involves the conduct of biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or training. This includes, but is not limited to colleges and universities, PHS intramural biomedical or behavioral research laboratories, research and development centers, national user facilities, industrial laboratories or other research institutes, small research institutions, and independent researchers.

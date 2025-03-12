@@ -1,0 +1,7 @@
+##### § 611.103 Applicability. #####
+
+(a) This part applies to all proposals for Federal major capital investment funds under 49 U.S.C. 5309 for new fixed guideways, extensions to fixed guideways, and corridor-based bus rapid transit systems.
+
+(b) This part does not apply to projects for which an FFGA or PCGA has already been executed, or to projects that have been approved into final design or project development unless the project sponsor requests to be covered by this part. The regulations in existence prior to the effective date of this rule will continue to apply to projects for which an FFGA or PCGA has already been executed and to projects approved into final design or project development unless a project sponsor requests to be covered by this part. New Starts projects approved for entry into final design shall be considered to be in the engineering phase of the New Starts process.
+
+(c) A New Starts project which has been approved for entry into preliminary engineering under the regulations in existence prior to the effective date of this rule shall be considered to be in the engineering phase of the New Starts process. For the purpose of completing engineering, the regulations in existence prior to the effective date of this rule will continue to apply to a New Starts project approved into preliminary engineering until such time as the sponsor requests an FFGA unless the project sponsor requests to be covered by this part prior to an FFGA.

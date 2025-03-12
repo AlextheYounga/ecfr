@@ -1,0 +1,5 @@
+##### § 29.339 Resultant limit maneuvering loads. #####
+
+The loads resulting from the application of limit maneuvering load factors are assumed to act at the center of each rotor hub and at each auxiliary lifting surface, and to act in directions and with distributions of load among the rotors and auxiliary lifting surfaces, so as to represent each critical maneuvering condition, including power-on and power-off flight with the maximum design rotor tip speed ratio. The rotor tip speed ratio is the ratio of the rotorcraft flight velocity component in the plane of the rotor disc to the rotational tip speed of the rotor blades, and is expressed as follows:
+
+![](/graphics/ec28se91.087.gif)where—*V* = The airspeed along the flight path (f.p.s.);*a* = The angle between the projection, in the plane of symmetry, of the axis of no feathering and a line perpendicular to the flight path (radians, positive when axis is pointing aft);Ω = The angular velocity of rotor (radians per second); and*R* = The rotor radius (ft.).

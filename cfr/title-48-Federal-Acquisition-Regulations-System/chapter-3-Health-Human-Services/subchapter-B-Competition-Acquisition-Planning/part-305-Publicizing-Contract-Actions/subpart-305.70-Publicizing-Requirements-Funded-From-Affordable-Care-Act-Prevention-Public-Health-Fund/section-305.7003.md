@@ -1,0 +1,3 @@
+##### 305.7003 Publicizing preaward. #####
+
+Notices of all proposed contract actions, funded in whole or in part by the PPHF, shall be identified on HHS' Prevention and Public Health Fund Web site at *http://www.hhs.gov/open/prevention/index.html* no later than 1-day after issuance of the solicitation or other request for proposal or quotation document. When applicable, the notice shall provide a link to the full text; for example, a link to the FedBizOpps notice required by FAR 5.201.

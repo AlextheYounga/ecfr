@@ -1,0 +1,5 @@
+##### § 147.3106 Area of review. #####
+
+(a) When determining the area of review under § 146.6(b) of this chapter, the fixed radius shall be no less than one mile for Class I wells and one-half mile for Class II and III wells. In the case of an application for an area permit, determination of the area of review under § 146.6(b) shall be a fixed width of not less than one mile for the circumscribing area of Class I projects and one-half mile for the circumscribing area of Class II and III projects.
+
+(b) However, in lieu of § 146.6(c) of this chapter, if the area of review is determined by a mathematical model pursuant to paragraph § 146.6(a) of this chapter, the permissible radius is the result of such calculation even if it is less than one mile for Class I wells and one-half for Class II and III wells.

@@ -1,0 +1,12 @@
+##### § 1219.512 How will ONRR divide the qualified OCS revenues (Phase II)? #####
+
+(a) For fiscal year 2017 and each fiscal year thereafter, the Secretary of the Treasury will deposit 50 percent of the qualified OCS revenues (Phase II—uncapped) into a special U.S. Treasury account, from which ONRR will disburse 75 percent to the Gulf producing States and 25 percent to the LWCF. Of the revenues disbursed to a Gulf producing State, we will disburse 20 percent directly to the CPSs within that State. Each Gulf producing State will receive at least 10 percent of the qualified OCS revenues (Phase II—uncapped) available for allocation to the Gulf producing States each fiscal year. The following table summarizes the resulting revenue shares (adding to 100 percent):
+
+|        Recipient of qualified OCS revenues        |Percentage   <br/>of qualified   <br/>OCS revenues|
+|---------------------------------------------------|--------------------------------------------------|
+|           U.S. Treasury (General Fund)            |                        50                        |
+|         Land and Water Conservation Fund          |                       12.5                       |
+|               Gulf Producing States               |                        30                        |
+|Gulf Producing State Coastal Political Subdivisions|                       7.5                        |
+
+(b) For fiscal year 2017 and each fiscal year thereafter, the Secretary of the Treasury will deposit 50 percent of the qualified OCS revenues (Phase II—capped) into a special U.S. Treasury account. The total amount of qualified OCS revenues (Phase II—capped) deposited in the special U.S. Treasury account and available for allocation to the Gulf producing States, the CPSs and the LWCF, under this subpart, cannot exceed $500,000,000 for each of the fiscal years 2017 through 2055. After applying the cap, if applicable, ONRR will disburse 75 percent to the Gulf producing States and 25 percent to the LWCF. Of the revenues disbursed to a Gulf producing State, we will disburse 20 percent directly to the CPSs within that State. Each Gulf producing State will receive at least 10 percent of the qualified OCS revenues (Phase II—capped) available for allocation to the Gulf producing States each fiscal year.

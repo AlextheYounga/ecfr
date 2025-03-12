@@ -1,0 +1,9 @@
+##### § 216.17 Appeals. #####
+
+(a) Upon receipt of a Special Notice prescribed in §§ 216.11, 216.13, 216.14, or 216.15, a railroad may appeal the decision of the Inspector to the FRA Regional Administrator for the region in which the notice was given. The appeal shall be made by letter or telegram. The FRA Regional Administrator assigns an inspector, other than the inspector from whose decision the appeal is being taken, to reinspect the railroad freight car, locomotive, railroad passenger equipment, or track. The reinspection will be made immediately. If upon reinspection, the railroad freight car, locomotive, or passenger equipment is found to be in serviceable condition, or the track is found to comply with the requirements for the class at which it was previously operated by the railroad, the FRA Regional Administrator or his or her agent will immediately notify the railroad, whereupon the restrictions of the Special Notice cease to be effective. If on reinspection the decision of the original inspector is sustained, the FRA Regional Administrator notifies the railroad that the appeal has been denied.
+
+(b) A railroad whose appeal to the FRA Regional Administrator has been denied may, within thirty (30) days from the denial, appeal to the Administrator. After affording an opportunity for informal oral hearing, the Administrator may affirm, set aside, or modify, in whole or in part, the action of the FRA Regional Administrator.
+
+(c) The requirements of a Special Notice issued under this subpart shall remain in effect and be observed by a railroad pending appeal to the FRA Regional Administrator or to the Administrator.
+
+[67 FR 19989, Apr. 23, 2002]

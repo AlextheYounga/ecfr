@@ -1,0 +1,7 @@
+##### § 1113.6 Appearances; withdrawal or absence from hearing. #####
+
+(a) *Who may appear.* Any individual may appear for himself. Any member of a partnership which is a party to any proceeding may appear for such partnerships upon adequate identification. A bona fide officer or a full-time employee of a corporation, association, or of an individual may appear for such corporation, association, or individual by permission of the officer presiding at the hearing. A party also may be represented by a practitioner.
+
+(b) *Withdrawal or absence from hearing.* A practitioner who has entered his appearance at the hearing shall not be permitted to withdraw from the hearing, or willfully be absent therefrom, except for good cause and, wherever practicable, only with the permission of the presiding officer. If a person who has entered an appearance withdraws from the hearing in a manner other than that specified, the Board or the Officer may take such action as, in the interest of justice and the protection of the lawful rights of all parties to the proceeding, the circumstances of the case may warrant, including the striking out of all or any part of any pleading of the offending party, and including the possible dismissal of the action or proceeding, or any part thereof, the entry of an order of default against that party, or if the withdrawal is without the permission of the presiding officer, disciplining of the practitioner concerned.
+
+[47 FR 49559, Nov. 1, 1982, as amended at 61 FR 52712, Oct. 8, 1996]

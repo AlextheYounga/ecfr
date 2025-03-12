@@ -1,0 +1,11 @@
+##### § 57.703 Compliance with the supplementary control system requirements. #####
+
+This section applies to all nonferrous smelters applying for an NSO.
+
+(a) Schedules for smelters with existing SCS. Each NSO shall require immediately upon issuance of the NSO operation of any existing supplementary control system and immediately upon the effective date of the NSO the assumption of liability for all violations of the NAAQS detected by any monitor in the SCS system. Each NSO shall require that within six months of the effective date of the NSO the smelter complete any measures specified in the smelter's approved SCS development plan not implemented at the time the NSO is issued, and assume liability for all violations of the NAAQS detected anywhere in the DLA (except as provided in subpart D of these regulations). Other requirements of subpart D such as the requirements for submission of reports records, and for ongoing evaluation of the SCS shall be complied with at the times specified in subpart D and § 57.701.
+
+(b) Compliance schedule for smelters with no existing SCS system. Where a smelter has no SCS at the time of issuance of the NSO, the NSO shall require compliance with the requirements of subpart D according to the following schedule:
+
+(1) Within six months after the effective date of the NSO the smelter shall install all operating elements of the SCS system, begin operating the system, complete all other measures specified in its approved SCS development plan, begin compliance with the requirements of § 57.404, and assume liability for any violations of the NAAQS within its designated liability area (except as provided by subpart D), detected by the SCS monitors in place.
+
+(2) Within nine months thereafter the smelter shall submit the SCS Report, assume liability for all violations of the NAAQS detected anywhere within its designated liability area, and comply with all other requirements of subpart D, except for those which subpart D specifies are to be satisfied at or after the close of such nine-month period, including requirements for submission of studies, reports, and records, and the requirements for continued review and evaluation of the SCS.

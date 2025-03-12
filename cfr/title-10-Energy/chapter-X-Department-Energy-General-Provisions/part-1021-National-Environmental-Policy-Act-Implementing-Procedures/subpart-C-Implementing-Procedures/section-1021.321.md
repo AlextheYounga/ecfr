@@ -1,0 +1,7 @@
+##### § 1021.321 Requirements for environmental assessments. #####
+
+(a) *When to prepare an EA.* As required by 40 CFR 1501.4(b), DOE shall prepare an EA for a proposed DOE action that is described in the classes of actions listed in appendix C to subpart D of this part, and for a proposed DOE action that is not described in any of the classes of actions listed in appendices A, B, or D to subpart D, except that an EA is not required if DOE has decided to prepare an EIS. DOE may prepare an EA on any action at any time in order to assist agency planning and decisionmaking.
+
+(b) *Purposes.* A DOE EA shall serve the purposes identified in 40 CFR 1508.9(a), which include providing sufficient evidence and analysis for determining whether to prepare an EIS or to issue a FONSI. If appropriate, a DOE EA shall also include any floodplain/wetlands assessment prepared under 10 CFR part 1022 and may include analyses needed for other environmental determinations.
+
+(c) *Content.* A DOE EA shall comply with the requirements found at 40 CFR 1508.9. In addition to any other alternatives, DOE shall assess the no action alternative in an EA, even when the proposed action is specifically required by legislation or a court order.

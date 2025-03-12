@@ -1,0 +1,3 @@
+##### § 1600.1 Purpose. #####
+
+This part describes the organization, functions, and operation of the Chemical Safety and Hazard Investigation Board (CSB). The CSB is an independent agency of the United States created by the Clean Air Act Amendments of 1990 [Pub. L. 101-549, 104 Stat. 2399, codified at 42 U.S.C. 7412(r)(6) *et seq.*]. Information about the CSB is available from its Web site, *http://www.csb.gov.*

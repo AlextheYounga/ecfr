@@ -1,0 +1,3 @@
+##### § 49.9981 Identification of plan. #####
+
+This section and §§ 49.9982 through 49.10010 contain the implementation plan for the Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians. This plan consists of a combination of Tribal rules and measures and Federal regulations and measures which apply within the Reservation of the Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians.

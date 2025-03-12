@@ -1,0 +1,13 @@
+##### § 124.33 Information repository. #####
+
+(a) *Applicability.* The requirements of this section apply to all applications seeking RCRA permits for hazardous waste management units over which EPA has permit issuance authority. For the purposes of this section only, “hazardous waste management units over which EPA has permit issuance authority” refers to hazardous waste management units for which the State where the units are located has not been authorized to issue RCRA permits pursuant to 40 CFR part 271.
+
+(b) The Director may assess the need, on a case-by-case basis, for an information repository. When assessing the need for an information repository, the Director shall consider a variety of factors, including: the level of public interest; the type of facility; the presence of an existing repository; and the proximity to the nearest copy of the administrative record. If the Director determines, at any time after submittal of a permit application, that there is a need for a repository, then the Director shall notify the facility that it must establish and maintain an information repository. (See 40 CFR 270.30(m) for similar provisions relating to the information repository during the life of a permit).
+
+(c) The information repository shall contain all documents, reports, data, and information deemed necessary by the Director to fulfill the purposes for which the repository is established. The Director shall have the discretion to limit the contents of the repository.
+
+(d) The information repository shall be located and maintained at a site chosen by the facility. If the Director finds the site unsuitable for the purposes and persons for which it was established, due to problems with the location, hours of availability, access, or other relevant considerations, then the Director shall specify a more appropriate site.
+
+(e) The Director shall specify requirements for informing the public about the information repository. At a minimum, the Director shall require the facility to provide a written notice about the information repository to all individuals on the facility mailing list.
+
+(f) The facility owner/operator shall be responsible for maintaining and updating the repository with appropriate information throughout a time period specified by the Director. The Director may close the repository at his or her discretion, based on the factors in paragraph (b) of this section.

@@ -1,0 +1,7 @@
+##### § 250.10 Report of passengers denied confirmed space. #####
+
+(a) Each reporting carrier as defined in § 234.2 of this chapter and any carrier that voluntarily submits data pursuant to § 234.7 of this chapter shall file, on a quarterly basis, the information specified in BTS Form 251. The reporting basis shall be flight segments originating in the United States operated by the reporting carrier. The reports must be submitted within 30 days after the end of the quarter covered by the report. The calendar quarters end March 31, June 30, September 30 and December 31. “Total Boardings” on Line 7 of Form 251 shall include only passengers on flights for which confirmed reservations are offered. Data shall not be included for inbound international flights.
+
+(b) For air transportation taking place on or after January 1, 2018, each reporting carrier and voluntary reporting carrier shall file a separate BTS Form 251 for all flight segments originating in the United States marketed under only the reporting carrier's code, and operated by a code-share partner that is a certificated air carrier or commuter air carrier using aircraft that have a designed passenger capacity of 30 or more seats.
+
+[Docket No. DOT-OST-2014-0056, 81 FR 76827, Nov. 3, 2016]

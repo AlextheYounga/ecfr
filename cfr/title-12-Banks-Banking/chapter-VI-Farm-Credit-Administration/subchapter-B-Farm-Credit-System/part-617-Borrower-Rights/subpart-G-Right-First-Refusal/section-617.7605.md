@@ -1,0 +1,3 @@
+##### § 617.7605 How should System institutions document whether the borrower had the financial resources to avoid foreclosure? #####
+
+The right of first refusal applies only to borrowers who did not have the financial resources to avoid foreclosure or voluntary conveyance. A System institution must clearly document in its files whether the borrower had the resources to avoid foreclosure or voluntary conveyance.

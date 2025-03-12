@@ -1,0 +1,7 @@
+##### § 63.9802 How do I develop an emissions profile? #####
+
+If you decide to develop an emissions profile for an affected batch process source; as indicated in item 8(a)(i)(4) or 17(b)(i)(4) of Table 4 to this subpart, you must measure and record mass emissions of the applicable pollutant throughout a complete batch cycle of the affected batch process source according to the procedures described in paragraph (a) or (b) of this section.
+
+(a) If your affected batch process source is subject to the THC concentration limit specified in item 6(a), 7(a), 8, or 9 of Table 1 to this subpart or the THC percentage reduction limit specified in item 6(b) or 7(b) of Table 1 to this subpart, you must measure and record the THC mass emissions rate at the inlet to the control device using the test methods, averaging periods, and procedures specified in items 10(a) and (b) of Table 4 to this subpart for each complete hour of the batch process cycle.
+
+(b) If your affected batch process source is subject to the HF and HCl percentage reduction emission limits in item 11 of Table 1 to this subpart, you must measure and record the HF mass emissions rate at the inlet to the control device through a series of 1-hour test runs according to the test method specified in item 14(a) of Table 4 to this subpart for each complete hour of the batch process cycle.

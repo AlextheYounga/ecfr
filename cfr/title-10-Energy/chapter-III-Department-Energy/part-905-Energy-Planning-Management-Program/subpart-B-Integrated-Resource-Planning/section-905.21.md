@@ -1,0 +1,9 @@
+##### § 905.21 What is the administrative appeal process? #####
+
+(a) *Filing written appeals with Western.* If a customer disagrees with Western's decision on the acceptability of its IRP, small customer plan, minimum investment report or EE/RE report submittal, its compliance with an approved plan or report, or any other compliance issue, the customer may request reconsideration by filing a written appeal with the appropriate Regional Manager. Customers may submit appeals any time such disagreements occur and should be specific as to the nature of the issue, the reasons for the disagreement, and any other pertinent facts the customer believes should be brought to Western's attention. The Regional Manager will respond within 45 days of receiving the appeal. If resolution is not achieved at the Regional Office level, the customer may appeal to the Administrator, who will respond within 30 days of receiving the appeal.
+
+(b) *Alternative dispute resolution.* Upon request, Western will agree to use mutually agreeable alternative dispute resolution procedures, to the extent allowed by law, to resolve issues or disputes relating to compliance with the regulations in this subpart.
+
+(c) *Penalties during appeal.* Western will not impose a penalty while an appeal process is pending. However, if the appeal is unsuccessful for the customer, Western will impose the penalty retroactively from the date the penalty would have been assessed if an appeal had not been filed.
+
+(d) *Meeting other requirements during appeal process.* A written appeal or use of alternative dispute resolution procedures does not suspend other reporting and compliance requirements.

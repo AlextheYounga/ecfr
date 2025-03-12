@@ -1,0 +1,7 @@
+##### § 82.118 Compliance by wholesalers, distributors and retailers. #####
+
+(a) *Requirement of compliance by wholesalers, distributors and retailers.* All wholesalers, distributors and retailers of products or containers to which this subpart applies are required to pass through the labeling information that accompanies the product, except those purchasing from other manufacturers or suppliers spare parts manufactured with controlled substances and selling those parts for the demonstrable sole purpose of repair.
+
+(b) *Reliance on reasonable belief.* The wholesaler, distributor or retailer of a product may rely on the labeling information that it receives with the product or container, and is not required to independently investigate whether the requirements of this subpart are applicable to the product or container, as long as the wholesaler, distributor or retailer reasonably believes that the supplier of the product or container is reliably and accurately complying with the requirements of this subpart.
+
+(c) *Contractual obligations.* A wholesaler, distributor or retailer's contractual relationship with its supplier under which the supplier is required to accurately label, consistent with the requirements of this subpart, any products manufactured with a controlled substance that are supplied to the wholesaler, distributor or retailer is evidence of reasonable belief.

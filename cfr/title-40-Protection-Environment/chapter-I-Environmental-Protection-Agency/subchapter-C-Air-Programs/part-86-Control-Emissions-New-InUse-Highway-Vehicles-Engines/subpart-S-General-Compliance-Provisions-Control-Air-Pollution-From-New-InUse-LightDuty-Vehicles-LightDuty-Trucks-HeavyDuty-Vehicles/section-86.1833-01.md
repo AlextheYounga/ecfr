@@ -1,0 +1,49 @@
+##### § 86.1833-01 Adjustable parameters. #####
+
+(a) At the time that emission data vehicles are selected for the test fleet, a determination shall be made of those vehicle or engine parameters which will be subject to adjustment for certification, Selective Enforcement Audit and Production Compliance Audit testing, the adequacy of the limits, stops, seals, or other means used to inhibit adjustment, and the resulting physically adjustable ranges for each such parameter. The manufacturer shall use good engineering judgment in making such determinations and shall notify the Administrator of its determinations prior to emission data vehicle testing for the affected test groups (preferably at an annual preview meeting scheduled before the manufacturer begins certification activities for the model year).
+
+(1) *Determining parameters subject to adjustment.* (i) The following parameters may be subject to adjustment: the idle fuel-air mixture parameter on Otto-cycle vehicles; the choke valve action parameter(s) on carbureted, Otto-cycle vehicles (or engines); or any parameter on any vehicle (Otto-cycle or diesel) which is physically capable of being adjusted, may significantly affect emissions, and was not present on the manufacturer's vehicles (or engines) in the previous model year in the same form and function.
+
+(ii) Any other parameters on any vehicle or engine which are physically capable of being adjusted and which may significantly affect emissions may be determined to be subject to adjustment. However, the Administrator may do so only if he/she has previously notified the manufacturer that he/she might do so and has found, at the time he/she gave this notice, that the intervening period would be adequate to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period. In no event will this notification be given later than September 1 of the calendar year two years prior to the model year.
+
+(iii) In determining the parameters subject to adjustment, the following shall be taken into consideration: the likelihood that, for each of the parameters listed in paragraphs (e)(1) (i) and (ii) of this section, settings other than the manufacturer's recommended setting will occur on in-use vehicles (or engines). In determining likelihood, such factors may be considered as information contained in the preliminary application, surveillance information from similar in-use vehicles, the difficulty and cost of gaining access to an adjustment, damage to the vehicle if an attempt is made to gain such access and the need to replace parts following such attempt, and the effect of settings other than the manufacturer's recommended setting on vehicle performance characteristics including emission characteristics.
+
+(2)(i) A parameter may be determined to be adequately inaccessible or sealed if:
+
+(A) In the case of an idle mixture screw, the screw is recessed within the carburetor casting and sealed with lead, thermosetting plastic, or an inverted elliptical spacer or sheared off after adjustment at the factory, and the inaccessibility is such that the screw cannot be accessed and/or adjusted with simple tools in one-half hour or for $20 (1978 dollars) or less;
+
+(B) In the case of a choke bimetal spring, the plate covering the bimetal spring is riveted or welded in place, or held in place with nonreversible screws;
+
+(C) In the case of a parameter which may be adjusted by elongating or bending adjustable members (e.g., the choke vacuum break), the elongation of the adjustable member is limited by design or, in the case of a bendable member, the member is constructed of a material which when bent would return to its original shape after the force is removed (plastic or spring steel materials);
+
+(D) In the case of any parameter, the manufacturer demonstrates that adjusting the parameter to settings other than the manufacturer's recommended setting takes more than one-half hour or costs more than $20 (1978 dollars).
+
+(ii) A physical limit or stop shall be determined to be an adequate restraint on adjustability if:
+
+(A) In the case of a threaded adjustment, the threads are terminated, pinned, or crimped so as to prevent additional travel without breakage or need for repairs which take more than one-half hour or cost more than $20 (1978 dollars);
+
+(B) The adjustment is ineffective at the end of the limits of travel regardless of additional forces or torques applied to the adjustment;
+
+(C) The manufacturer demonstrates that travel or rotation limits cannot be exceeded with the use of simple and inexpensive tools (screwdriver, pliers, open-end or box wrenches, etc.) without incurring significant and costly damage to the vehicle or control system or without taking more than one-half hour or costing more than $20 (1978 dollars).
+
+(iii) If manufacturer service manuals or bulletins describe routine procedures for gaining access to a parameter or for removing or exceeding a physical limit, stop, seal or other means used to inhibit adjustment, or if surveillance data indicate that gaining access, removing, or exceeding is likely, paragraphs (a)(2)(i) and (ii) of this section shall not apply for that parameter.
+
+(iv) In determining the adequacy of a physical limit, stop, seal, or other means used to inhibit adjustment of a parameter not covered by paragraph (a)(2)(i) or (ii) of this section, the following shall be considered: the likelihood that it will be circumvented, removed, or exceeded on in-use vehicles. In determining likelihood, such factors may be considered as, but not limited to, information contained in the preliminary application; surveillance information from similar in-use vehicles; the difficulty and cost of circumventing, removing, or exceeding the limit, stop, seal, or other means; damage to the vehicle if an attempt is made to circumvent, remove, or exceed it and the need to replace parts following such attempt; and the effect of settings beyond the limit, stop, seal, or other means on vehicle performance characteristics other than emission characteristics.
+
+(v) In the case of electronic components on circuit boards (such as onboard computers) the board is covered with an epoxy resin which inhibits the access to components on the board (commonly referred to as potting).
+
+(3) Two physically adjustable ranges shall be determined for each parameter subject to adjustment:
+
+(i)(A) In the case of a parameter determined to be adequately inaccessible or sealed, the following may be included within the physically adjustable range applicable to testing under this subpart: all settings within the production tolerance associated with the nominal setting for that parameter, as specified by the manufacturer in the application for certification or other information; or
+
+(B) In the case of other parameters, all settings within physical limits or stops determined to be adequate restraints on adjustability shall be included within this range. The production tolerances on the location of these limits or stops may be included when determining the physically adjustable range.
+
+(ii)(A) In the case of a parameter determined to be adequately inaccessible or sealed, only the actual settings to which the parameter is adjusted during production shall be included within the physically adjustable range applicable to testing under subparts G or K (Selective Enforcement Audit and Production Compliance Audit) of this part; or
+
+(B) In the case of other parameters, all settings within physical limits or stops determined to be adequate restraints on adjustability, as they are actually located on the test vehicle, shall be included within the range.
+
+(b) In lieu of making the determinations required in paragraph (a) of this section, the manufacturer may request a determination be made by the Administrator prior to emission testing. In that case, all the information discussed in paragraph (a) of this section shall be provided to the Administrator. The Administrator will respond within 90 days (excluding the elapsed time during which additional information requested by the Administrator is being gathered by the manufacturer) following the receipt of the request for determination.
+
+(c) If the Administrator determines that the decisions made by the manufacturer under the provisions of paragraph (a) of this section were not made using good engineering judgment, the Administrator will overrule the manufacturers' decisions and conduct testing for Certification, Selective Enforcement Audit and/or Production Compliance Audit purposes by adjusting parameters according to his/her determination of those vehicle or engine parameters subject to adjustment, the adequacy of the limits, stops, seals, or other means used to inhibit adjustment, and the resulting physically adjustable ranges for each such parameter. Furthermore, the Administrator may reject testing performed by the manufacturer which failed to follow his/her determinations.
+
+(d) Within 30 days following receipt of notification of the Administrator's determinations made under paragraph (b) or (c) of this section, the manufacturer may request a hearing on the Administrator's determinations. The request shall be in writing, signed by an authorized representative of the manufacturer, and shall include a statement specifying the manufacturer's objections to the Administrator's determinations, and data in support of such objections. If, after review of the request and supporting data, the Administrator finds that the request raises a substantial factual issue, he shall provide the manufacturer a hearing in accordance with § 86.1853-01 with respect to such issue.

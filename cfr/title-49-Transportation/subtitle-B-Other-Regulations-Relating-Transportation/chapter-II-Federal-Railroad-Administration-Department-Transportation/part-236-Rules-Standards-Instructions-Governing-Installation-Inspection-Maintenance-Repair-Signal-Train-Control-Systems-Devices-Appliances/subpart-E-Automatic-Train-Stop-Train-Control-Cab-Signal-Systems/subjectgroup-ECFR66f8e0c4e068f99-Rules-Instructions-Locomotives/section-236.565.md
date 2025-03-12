@@ -1,0 +1,3 @@
+##### § 236.565 Provision made for preventing operation of pneumatic brake-applying apparatus by double-heading cock; requirement. #####
+
+Where provision is made for preventing the operation of the pneumatic brake-applying apparatus of an automatic train stop or train control device when the double-heading cock is placed in double-heading position, the automatic train stop or train control device shall not be cut out before communication is closed between the engineman's automatic brake valve and the brake pipe, when operating double-heading cock toward double-heading position.

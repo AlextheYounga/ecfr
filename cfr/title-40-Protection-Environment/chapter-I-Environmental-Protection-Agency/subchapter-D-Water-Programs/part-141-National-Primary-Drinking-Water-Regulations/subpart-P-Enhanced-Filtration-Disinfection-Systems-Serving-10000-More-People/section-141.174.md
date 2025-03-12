@@ -1,0 +1,5 @@
+##### § 141.174 Filtration sampling requirements. #####
+
+(a) Monitoring requirements for systems using filtration treatment. In addition to monitoring required by § 141.74, a public water system subject to the requirements of this subpart that provides conventional filtration treatment or direct filtration must conduct continuous monitoring of turbidity for each individual filter using an approved method in § 141.74(a) and must calibrate turbidimeters using the procedure specified by the manufacturer. Systems must record the results of individual filter monitoring every 15 minutes.
+
+(b) If there is a failure in the continuous turbidity monitoring equipment, the system must conduct grab sampling every four hours in lieu of continuous monitoring, but for no more than five working days following the failure of the equipment.

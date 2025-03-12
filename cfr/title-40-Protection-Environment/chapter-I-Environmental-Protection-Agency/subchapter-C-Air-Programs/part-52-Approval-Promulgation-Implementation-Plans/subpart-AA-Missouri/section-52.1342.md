@@ -1,0 +1,13 @@
+##### § 52.1342 Control strategy: Ozone. #####
+
+(a) Determination of attainment. EPA has determined, as of June 9, 2011, that the St. Louis (MO-IL) metropolitan 1997 8-hour ozone nonattainment area has attained the 1997 8-hour ozone NAAQS. This determination, in accordance with 40 CFR 51.918, suspends the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, reasonable further progress, contingency measures, and other plan elements related to attainment of the standards for as long as the area continues to meet the 1997 Ozone NAAQS. In addition, based upon EPA's review of the air quality data for the 3-year period 2007 to 2009, the St. Louis (MO-IL) ozone nonattainment area has attained the 1997 8-hour ozone NAAQS by the applicable attainment date of June 15, 2010.
+
+(b) *Approval.* EPA is approving an April 20, 2011, request from the State of Missouri for a waiver from the Clean Air Act requirement for Oxides of Nitrogen (NOX) Reasonably Available Control Technology (RACT) in the Missouri portion of the St. Louis (MO-IL) metropolitan 8-hour ozone nonattainment area for purposes of attaining the 1997 8-hour ozone National Ambient Air Quality Standard.
+
+(c) On November 3, 2011 and April 29, 2014, Missouri submitted requests to redesignate the Missouri portion of the St. Louis MO-IL area to attainment of the 1997 8-hour ozone standard. The Missouri portion of the St. Louis MO-IL area includes Jefferson, Franklin, St. Charles, and St. Louis Counties along with the City of St. Louis. As part of the redesignation request, the State submitted a plan for maintaining the 1997 8-hour ozone standard through 2025 in the area as required by Section 175A of the Clean Air Act.
+
+(d) *Determination of attainment.* As required by section 181(b)(2)(A) of the Clean Air Act, EPA has determined that the St. Louis, MO-IL marginal 2008 ozone nonattainment area has attained the NAAQS by the applicable attainment date of July 20, 2016.
+
+(e) *Redesignation to attainment.* On September 12, 2016, and February 16, 2018, Missouri submitted requests to redesignate its portion of the St. Louis MO-IL area to attainment of the 2008 ozone standard. The Missouri portion of the St. Louis MO-IL area includes Jefferson, Franklin, St. Charles, and St. Louis Counties along with the City of St. Louis. As part of the redesignation request, the State submitted a plan for maintaining the 2008 ozone standard through 2030 in the area as required by section 175A of the Clean Air Act.
+
+[76 FR 43601, July 21, 2011, as amended at 77 FR 25366, Apr. 30, 2012; 80 FR 9209, Feb. 20, 2015; 81 FR 41446, June 27, 2016; 83 FR 47574, Sept. 20, 2018]

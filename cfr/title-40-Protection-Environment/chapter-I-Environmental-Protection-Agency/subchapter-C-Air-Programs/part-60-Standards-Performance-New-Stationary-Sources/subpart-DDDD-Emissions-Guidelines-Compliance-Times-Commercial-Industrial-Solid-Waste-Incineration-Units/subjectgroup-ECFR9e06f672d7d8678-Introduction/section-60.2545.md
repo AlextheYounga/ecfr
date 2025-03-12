@@ -1,0 +1,7 @@
+##### § 60.2545 Does this subpart directly affect CISWI owners and operators in my state? #####
+
+(a) No. This subpart does not directly affect CISWI owners and operators in your state. However, CISWI owners and operators must comply with the state plan you develop to implement the emission guidelines contained in this subpart. States may choose to incorporate the model rule text directly in their state plan.
+
+(b) If you do not submit an approvable plan to implement and enforce the guidelines contained in this subpart for CISWIs that commenced construction before November 30, 1999 by December 2, 2002, EPA will implement and enforce a federal plan, as provided in § 60.2525, to ensure that each unit within your state reaches compliance with all the provisions of this subpart by December 1, 2005.
+
+(c) If you do not submit an approvable plan to implement and enforce the guidelines contained in this subpart by February 7, 2014, for CISWIs that commenced construction on or before June 4, 2010, EPA will implement and enforce a federal plan, as provided in § 60.2525, to ensure that each unit within your state that commenced construction on or before June 4, 2010, reaches compliance with all the provisions of this subpart by February 7, 2018.

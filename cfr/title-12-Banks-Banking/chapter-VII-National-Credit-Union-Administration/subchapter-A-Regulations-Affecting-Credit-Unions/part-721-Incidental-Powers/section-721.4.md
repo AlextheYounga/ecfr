@@ -1,0 +1,13 @@
+##### § 721.4 How may a credit union apply to engage in an activity that is not preapproved as within a credit union's incidental powers? #####
+
+(a) *Application contents.* To engage in an activity that may be within an FCU's incidental powers but that does not fall within a preapproved category listed in § 721.3, you may submit an application by certified mail, return receipt requested, to the NCUA Board. Your application must describe the activity, your explanation, consistent with the test provided in paragraph (c) of this section, of why this activity is within your incidental powers, your plan for implementing the proposed activity, any state licenses you must obtain to conduct the activity, and any other information necessary to describe the proposed activity adequately. Before you engage in the petition process you should seek an advisory opinion from NCUA's Office of General Counsel, as to whether a proposed activity fits into one of the authorized categories or is otherwise within your incidental powers without filing a petition to amend the regulation.
+
+(b) *Processing of application.* Your application must be filed with the Secretary of the NCUA Board. NCUA will review your application for completeness and will notify you whether additional information is required or whether the activity requested is permissible under one of the categories listed in § 721.3. If the activity falls within a category provided in § 721.3, NCUA will notify you that the activity is permissible and treat the application as withdrawn. If the activity does not fall within a category provided in § 721.3, NCUA staff will consider whether the proposed activity is legally permissible. Upon a recommendation by NCUA staff that the activity is within a credit union's incidental powers, the NCUA Board may amend § 721.3 and will request public comment on the establishment of a new category of activities within § 721.3. If the activity proposed in your application fails to meet the criteria established in paragraph (c) of this section, NCUA will notify you within a reasonable period of time.
+
+(c) *Decision on application.* In determining whether an activity is authorized as an appropriate exercise of a federal credit union's incidental powers, the Board will consider:
+
+(1) Whether the activity is convenient or useful in carrying out the mission or business of credit unions consistent with the Act;
+
+(2) Whether the activity is the functional equivalent or logical outgrowth of activities that are part of the mission or business of credit unions; and
+
+(3) Whether the activity involves risks similar in nature to those already assumed as part of the business of credit unions.

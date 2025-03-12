@@ -1,0 +1,5 @@
+##### § 520.1 Purpose and scope. #####
+
+(a) Section 102(2)(C) of the National Environmental Policy Act of 1969 (83 Stat. 853; 42 U.S.C. 4332(2)(C)), as implemented by Executive Order 11514 (3 CFR, 1966-1970 Comp., p. 902) and the Council on Environmental Quality's Guidelines of April 23, 1971 (36 FR 7724), requires that all agencies of the Federal Government prepare detailed environmental statements on proposals for legislation and other major Federal actions significantly affecting the quality of the human environment. The purpose of the Act is to build into the agency decision-making process careful consideration of all environmental aspects of proposed actions.
+
+(b) This part specifies National Highway Traffic Safety Administration (NHTSA) procedures for conducting environmental assessments and reviews, and for the preparation of environmental impact statements on proposals for legislation and other major agency actions significantly affecting the quality of the human environment.

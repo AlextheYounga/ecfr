@@ -1,0 +1,5 @@
+##### § 1204.1104 Violations. #####
+
+As authorized by and consistent with 18 U.S.C. 799, local policies and procedural requirements issued under section 1204.1103 may provide for punishments for offenses, which shall be classified in accordance with 18 U.S.C. 3559(a)(6)-(9). A person found in violation, in or on a NASA installation, of any vehicular or pedestrian traffic law, or local installation vehicular or pedestrian traffic rule or regulation made applicable to the installation under the provisions of this subpart, is subject to punishment as provided for by the applicable local policies and procedural requirements that a Center Director or the Executive Director for Headquarters Operations has issued under section 1204.1102 and in accordance with section 1204.1103.
+
+[80 FR 70152, Nov. 13, 2015]

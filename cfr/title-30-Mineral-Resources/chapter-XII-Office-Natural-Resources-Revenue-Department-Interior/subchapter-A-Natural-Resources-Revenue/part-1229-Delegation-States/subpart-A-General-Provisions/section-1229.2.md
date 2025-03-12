@@ -1,0 +1,3 @@
+##### § 1229.2 Policy. #####
+
+It shall be the policy of the Department of the Interior (DOI) to honor any properly made petition from the Chief Executive or other appropriate official of a State seeking delegation of authority under the provisions of 30 U.S.C. 1735 and to make a delegation to conduct audits and related investigations when the Secretary finds that the provisions of 30 U.S.C. 1735 have been complied with or can be complied with by a State seeking the delegation.

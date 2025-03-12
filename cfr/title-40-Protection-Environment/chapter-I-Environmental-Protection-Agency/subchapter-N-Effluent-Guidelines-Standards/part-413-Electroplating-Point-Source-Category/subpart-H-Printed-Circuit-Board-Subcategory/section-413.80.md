@@ -1,0 +1,3 @@
+##### § 413.80 Applicability: Description of the printed circuit board subcategory. #####
+
+The provisions of this subpart apply to the manufacture of printed circuit boards, including all manufacturing operations required or used to convert an insulating substrate to a finished printed circuit board. The provisions set forth in other subparts of this category are not applicable to the manufacture of printed circuit boards.

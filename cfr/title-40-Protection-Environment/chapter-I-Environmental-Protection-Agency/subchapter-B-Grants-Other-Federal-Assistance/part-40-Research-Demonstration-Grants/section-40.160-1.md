@@ -1,0 +1,3 @@
+##### § 40.160-1 Progress reports. #####
+
+The grant agreement will normally require the submission of a brief progress report after the end of each quarter of the budget period. A monthly progress report may be required for some demonstration projects, if set forth in the grant agreement. Progress reports should fully describe in chart or narrative format the progress achieved in relation to the approved schedule and project milestones. Special problems or delays encountered must be explained. A summary progress report covering all work on the project to date is required to be included with applications for continuation grants (see § 40.165b). This report may be submitted one quarter prior to the end of the budget period.

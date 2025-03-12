@@ -1,0 +1,9 @@
+##### § 22.33 Termination of participation in the STLP. #####
+
+(a) *DOT OSDBU Termination for Convenience.* DOT OSDBU may terminate a cooperative agreement for the convenience of the government, and without cause, upon prior written notice of thirty (30) days of its intent to terminate. Upon termination, DOT OSDBU shall remain liable on the pro-rata share of the loan guarantee(s) received by the PL which received the Director's final approval, prior to the effective date of termination.
+
+(b) *Participating Lender's Termination.* The Participating Lender may terminate a cooperative agreement with written notice of sixty (60) days to DOT OSDBU of its intent to terminate. Upon termination, DOT OSDBU shall remain liable on the pro-rata share of the loan guarantee(s) received by the Participating Lender which received the Director's final approval, prior to the effective date of termination of the cooperative agreement.
+
+(c) *DOT OSDBU Termination for Cause.* DOT OSDBU may terminate a cooperative agreement, in whole or in part, at any time before the expiration of the term of the cooperative agreement or the expiration of any renewal term of the cooperative agreement, and without allowing any cure period as described in this section, if it determines that the Participating Lender failed to comply with any terms and conditions of its cooperative agreement and such failure cannot be reasonably addressed. DOT OSDBU shall promptly notify the Participating Lender in writing of this determination and the reasons for the termination, together with the effective date of termination.
+
+(d) DOT OSDBU may also terminate for cause any cooperative agreement with a Participating Lender that fails to comply with the corrective actions requested in a written notice of suspension of revocation within the specified cure period, in accordance with the terms and conditions further described in the cooperative agreement.

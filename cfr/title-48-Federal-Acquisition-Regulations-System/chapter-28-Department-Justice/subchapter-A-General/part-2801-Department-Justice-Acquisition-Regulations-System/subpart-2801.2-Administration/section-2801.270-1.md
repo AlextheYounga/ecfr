@@ -1,0 +1,3 @@
+##### 2801.270-1 Revisions. #####
+
+In addition to changes published in the Federal Register, the JAR will be amended by issuance of Justice Acquisition Circulars (JACs) containing loose-leaf replacement pages which revise parts, subparts, sections, subsections, paragraphs or subparagraphs. A vertical bar (edit bar) at the beginning or end of a line indicates that a change has been made within that line.

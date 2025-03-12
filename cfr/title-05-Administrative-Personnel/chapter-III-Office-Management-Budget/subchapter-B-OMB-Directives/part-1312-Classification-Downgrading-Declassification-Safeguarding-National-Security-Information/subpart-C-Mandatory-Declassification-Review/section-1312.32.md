@@ -1,0 +1,3 @@
+##### § 1312.32 Purpose and authority. #####
+
+Other government agencies, and individual members of the public, frequently request that classified information in OMB files be reviewed for possible declassification and release. This subpart prescribes the procedures for such review and subsequent release or denial. It is issued under the authority of Executive Order 12958 (60 FR 19825, 3 CFR, 1995 Comp., p. 333), as implemented by Information Security Oversight Office Directive No. 1 (32 CFR part 2001).

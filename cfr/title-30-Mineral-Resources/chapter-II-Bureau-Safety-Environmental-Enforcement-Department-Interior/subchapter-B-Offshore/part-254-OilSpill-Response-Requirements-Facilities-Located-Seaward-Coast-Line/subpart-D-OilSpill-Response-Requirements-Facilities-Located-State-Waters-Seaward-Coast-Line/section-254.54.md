@@ -1,0 +1,5 @@
+##### § 254.54 Spill prevention for facilities located in State waters seaward of the coast line. #####
+
+In addition to your OSRP, you must submit to the Regional Supervisor a description of the steps you are taking to prevent spills of oil or mitigate a substantial threat of such a discharge. You must identify all State or Federal safety or pollution prevention requirements that apply to the prevention of oil spills from your facility, and demonstrate your compliance with these requirements. You also should include a description of industry safety and pollution prevention standards your facility meets. The Chief, OSPD may prescribe additional equipment or procedures for spill prevention if it is determined that your efforts to prevent spills do not reflect good industry practices.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 36153, June 6, 2016]

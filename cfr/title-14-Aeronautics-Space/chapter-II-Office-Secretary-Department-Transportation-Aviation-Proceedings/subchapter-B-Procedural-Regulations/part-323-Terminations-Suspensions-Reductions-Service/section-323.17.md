@@ -1,0 +1,3 @@
+##### § 323.17 Delays in discontinuing service. #####
+
+If transportation that is the subject of a notice under this part is not discontinued within 90 days of the intended date stated in the notice, a new notice must be filed before the service may be discontinued. However, if DOT requires the carrier to provide service beyond the stated date, the carrier need not file a new notice if it discontinues the service within 90 days after DOT permits it to do so.

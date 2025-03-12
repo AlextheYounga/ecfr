@@ -1,0 +1,42 @@
+##### § 1036.108 Greenhouse gas emission standards—CO2, CH4, and N2O. #####
+
+This section contains standards and other regulations applicable to the emission of the air pollutant defined as the aggregate group of six greenhouse gases: carbon dioxide, nitrous oxide, methane, hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride. This section describes the applicable CO2, N2O, and CH4 standards for engines.
+
+(a) *Emission standards.* Emission standards apply for engines and optionally powertrains measured using the test procedures specified in subpart F of this part as follows:
+
+(1) CO2 emission standards in this paragraph (a)(1) apply based on testing as specified in subpart F of this part. The applicable test cycle for measuring CO2 emissions differs depending on the engine family's primary intended service class and the extent to which the engines will be (or were designed to be) used in tractors. For Medium HDE and Heavy HDE certified as tractor engines, measure CO2 emissions using the SET steady-state duty cycle specified in § 1036.510. This testing with the SET duty cycle is intended for engines designed to be used primarily in tractors and other line-haul applications. Note that the use of some SET-certified tractor engines in vocational applications does not affect your certification obligation under this paragraph (a)(1); see other provisions of this part and 40 CFR part 1037 for limits on using engines certified to only one cycle. For Medium HDE and Heavy HDE certified as both tractor and vocational engines, measure CO2 emissions using the SET duty cycle specified in § 1036.510 and the FTP transient duty cycle specified in § 1036.512. Testing with both SET and FTP duty cycles is intended for engines that are designed for use in both tractor and vocational applications. For all other engines (including Spark-ignition HDE), measure CO2 emissions using the FTP transient duty cycle specified in § 1036.512.
+
+(i) *Spark-ignition standards.* The CO2 standard for all spark-ignition engines is 627 g/hp·hr for model years 2016 through 2020.This standard continues to apply in later model years for all spark-ignition engines that are not Heavy HDE. Spark-ignition engines that qualify as Heavy HDE under § 1036.140(b)(2) for model years 2021 and later are subject to the compression-ignition engine standards for Heavy HDE-Vocational or Heavy HDE-Tractor, as applicable. You may certify spark-ignition engines to the compression-ignition standards for the appropriate model year under this paragraph (a). If you do this, those engines are treated as compression-ignition engines for all provisions of this part.
+
+(ii) *Compression-ignition standards.* The following CO2 standards apply for compression-ignition engines and model year 2021 and later spark-ignition engines that qualify as Heavy HDE:
+
+|Phase| Model years  |Light HDE|Medium HDE-  <br/>vocational|Heavy HDE-  <br/>vocational|Medium HDE-  <br/>tractor|Heavy HDE-  <br/>tractor|
+|-----|--------------|---------|----------------------------|---------------------------|-------------------------|------------------------|
+|  1  |  2014-2016   |   600   |            600             |            567            |           502           |          475           |
+|     |  2017-2020   |   576   |            576             |            555            |           487           |          460           |
+|  2  |  2021-2023   |   563   |            545             |            513            |           473           |          447           |
+|     |  2024-2026   |   555   |            538             |            506            |           461           |          436           |
+|     |2027 and later|   552   |            535             |            503            |           457           |          432           |
+
+(2) The CH4 emission standard is 0.10 g/hp·hr when measured over the applicable FTP transient duty cycle specified in § 1036.512. This standard begins in model year 2014 for compression-ignition engines and in model year 2016 for spark-ignition engines. Note that this standard applies for all fuel types just like the other standards of this section.
+
+(3) The N2O emission standard is 0.10 g/hp·hr when measured over the applicable FTP transient duty cycle specified in § 1036.512. This standard begins in model year 2014 for compression-ignition engines and in model year 2016 for spark-ignition engines.
+
+(b) *Family Certification Levels.* You must specify a CO2 Family Certification Level (FCL) for each engine family expressed to the same number of decimal places as the emission standard. The FCL may not be less than the certified emission level for the engine family. The CO2 family emission limit (FEL) for the engine family is equal to the FCL multiplied by 1.03.
+
+(c) *Averaging, banking, and trading.* You may generate or use emission credits under the averaging, banking, and trading (ABT) program described in subpart H of this part for demonstrating compliance with CO2 emission standards. Credits (positive and negative) are calculated from the difference between the FCL and the applicable emission standard. As described in § 1036.705, you may use CO2 credits to certify your engine families to FELs for N2O and/or CH4, instead of the N2O/CH4 standards of this section that otherwise apply. Except as specified in §§ 1036.150 and 1036.705, you may not generate or use credits for N2O or CH4 emissions.
+
+(d) *Useful life.* The exhaust emission standards of this section apply for the useful life, expressed as vehicle miles, or hours of engine operation, or years in service, whichever comes first, as follows:
+
+|                                                                                                  Primary intended service class                                                                                                  | Miles |Years|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-----|
+|                                                                                                 Spark-ignition HDE <sup>a</sup>                                                                                                  |150,000| 15  |
+|                                                                                                      Light HDE <sup>a</sup>                                                                                                      |150,000| 15  |
+|                                                                                                            Medium HDE                                                                                                            |185,000| 10  |
+|                                                                                                      Heavy HDE <sup>b</sup>                                                                                                      |435,000| 10  |
+|                                            <sup>a</sup> Useful life for Spark-ignition HDE and Light HDE before model year 2021 is 110,000 miles or 10 years, whichever occurs first.                                            |       |     |
+|<sup>b</sup> Useful life for Heavy HDE is also expressed as 22,000 operating hours. For an individual engine, the useful life is no shorter than 10 years or 100,000 miles, whichever occurs first, regardless of operating hours.|       |     |
+
+(e) *Applicability for testing.* The emission standards in this subpart apply as specified in this paragraph (e) to all duty-cycle testing (according to the applicable test cycles) of testable configurations, including certification, selective enforcement audits, and in-use testing. The CO2 FCLs serve as the CO2 emission standards for the engine family with respect to certification and confirmatory testing instead of the standards specified in paragraph (a)(1) of this section. The FELs serve as the emission standards for the engine family with respect to all other duty-cycle testing. See §§ 1036.235 and 1036.241 to determine which engine configurations within the engine family are subject to testing. Note that engine fuel maps and powertrain test results also serve as standards as described in §§ 1036.535, 1036.540, 1036.545, and 1036.630.
+
+[88 FR 4487, Jan. 24, 2023, as amended at 89 FR 29738, Apr. 22, 2024]

@@ -1,0 +1,15 @@
+##### § 250.1604 General requirements. #####
+
+Sulphur lessees shall comply with requirements of this section when conducting well-drilling, well-completion, well-workover, or production operations.
+
+(a) *Equipment movement.* The movement of well-drilling, well-completion, or well-workover rigs and related equipment on and off an offshore platform, or from one well to another well on the same offshore platform, including rigging up and rigging down, shall be conducted in a safe manner.
+
+(b) *Hydrogen sulfide (H*2*S).* When a drilling, well-completion, well-workover, or production operation is being conducted on a well in zones known to contain H2S or in zones where the presence of H2S is unknown (as defined in § 250.490 of this part), the lessee shall take appropriate precautions to protect life and property, especially during operations such as dismantling wellhead equipment and flow lines and circulating the well. The lessee shall also take appropriate precautions when H2S is generated as a result of sulphur production operations. The lessee shall comply with the requirements in § 250.490 of this part as well as the requirements of this subpart.
+
+(c) *Welding and burning practices and procedures.* All welding, burning, and hot-tapping activities involved in drilling, well-completion, well-workover or production operations shall be conducted with properly maintained equipment, trained personnel, and appropriate procedures in order to minimize the danger to life and property according to the specific requirements in §§ 250.109 through 250.113 of this part.
+
+(d) *Electrical requirements.* All electrical equipment and systems involved in drilling, well-completion, well-workover, and production operations shall be designed, installed, equipped, protected, operated, and maintained so as to minimize the danger to life and property in accordance with the requirements of § 250.114 of this part.
+
+(e) *Structures on fixed OCS platforms.* Derricks, cranes, masts, substructures, and related equipment shall be selected, designed, installed, used, and maintained so as to be adequate for the potential loads and conditions of loading that may be encountered during the operations. Prior to moving equipment such as a well-drilling, well-completion, or well-workover rig or associated equipment or production equipment onto a platform, the lessee shall determine the structural capability of the platform to safely support the equipment and operations, taking into consideration corrosion protection, platform age, and previous stresses.
+
+(f) *Traveling-block safety device.* All drilling units being used for drilling, well-completion, or well-workover operations that have both a traveling block and a crown block must be equipped with a safety device that is designed to prevent the traveling block from striking the crown block. The device must be checked for proper operation weekly and after each drill-line slipping operation. The results of the operational check must be entered in the operations log.

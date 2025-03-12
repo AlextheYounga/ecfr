@@ -1,0 +1,3 @@
+##### § 501.162 Contents of a complaint. #####
+
+A complaint must contain a complete statement of all relevant facts pertaining to the act or transaction that is the subject of the complaint. It must also include the names and addresses of all persons involved (if reasonably ascertainable), a description of the events that led to the complaint, and a statement describing the statutory provision, regulation, ruling, order, rule, or interpretation that allegedly has been violated.

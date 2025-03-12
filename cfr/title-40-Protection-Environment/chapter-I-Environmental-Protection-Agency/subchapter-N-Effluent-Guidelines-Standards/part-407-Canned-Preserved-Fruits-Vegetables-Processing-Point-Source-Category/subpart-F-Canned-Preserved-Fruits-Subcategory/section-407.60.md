@@ -1,0 +1,3 @@
+##### § 407.60 Applicability; description of the canned and preserved fruits subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the processing of the following fruit products: Apricots; caneberries; sweet, sour and brined cherries; cranberries; dried fruit; grape juice canning and pressing; olives; peaches; pears; fresh and processed pickles, and pickle salting stations; pineapples; plums; raisins; strawberries; and tomatoes. When a plant is subject to effluent limitations covering more than one commodity or subcategory, the plant discharge limitation shall be set by proration of limitations for each subcategory or commodity based on the total production covered by each commodity or subcategory.

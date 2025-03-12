@@ -1,0 +1,5 @@
+##### § 1042.905 Symbols, acronyms, and abbreviations. #####
+
+The following symbols, acronyms, and abbreviations apply to this part:
+
+ABT Averaging, banking, and trading.AECD auxiliary emission control device.CFR Code of Federal Regulations.CH4 methane.CO carbon monoxide.CO2 carbon dioxide.cyl cylinder.disp. displacement.ECA Emission Control Area.EEZ Exclusive Economic Zone.EPA Environmental Protection Agency.FEL Family Emission Limit.g grams.HC hydrocarbon.hr hours.IMO International Maritime Organization.kPa kilopascals.kW kilowatts.L liters.LTR Limited Testing Region.N2O nitrous oxide.NARA National Archives and Records Administration.NMHC nonmethane hydrocarbon.NOX oxides of nitrogen (NO and NO2).NTE not-to-exceed.PM particulate matter.RPM revolutions per minute.SAE Society of Automotive Engineers.SCR selective catalytic reduction.THC total hydrocarbon.THCE total hydrocarbon equivalent.ULSD ultra low-sulfur diesel fuel.U.S.C. United States Code.[81 FR 74154, Oct. 25, 2016]

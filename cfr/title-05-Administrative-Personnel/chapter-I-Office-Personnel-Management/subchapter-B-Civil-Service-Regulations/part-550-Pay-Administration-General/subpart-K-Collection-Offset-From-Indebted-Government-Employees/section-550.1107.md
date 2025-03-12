@@ -1,0 +1,9 @@
+##### § 550.1107 Obtaining the services of a hearing official. #####
+
+(a) When the debtor does not work for the creditor agency and the creditor agency cannot provide a prompt and appropriate hearing before an administrative law judge or before a hearing official furnished pursuant to another lawful arrangement, the creditor agency may contact an agent of the paying agency designated in appendix A of part 581 of this chapter to arrange for a hearing official, and the paying agency must then cooperate as provided by the FCCS as defined in § 550.1103 and provide a hearing official.
+
+(b) When the debtor works for the creditor agency, the creditor agency may contact any agent (of another agency) designated in appendix A of part 581 of this chapter to arrange for a hearing official. Agencies must then cooperate as required by the FCCS and provide a hearing official.
+
+(c) The determination of a hearing official designated under this section is considered to be an official certification regarding the existence and amount of the debt for purposes of executing salary offset under 5 U.S.C. 5514. A creditor agency may make a certification to the Secretary of the Treasury under § 550.1108 or a paying agency under § 550.1109 regarding the existence and amount of the debt based on the certification of a hearing official. If a hearing official determines that a debt may not be collected via salary offset, but the creditor agency finds that the debt is still valid, the creditor agency may still seek collection of the debt through other means, such as offset of other Federal payments, litigation, etc.
+
+[51 FR 16670, May 6, 1986, as amended at 63 FR 72100, Dec. 31, 1998]

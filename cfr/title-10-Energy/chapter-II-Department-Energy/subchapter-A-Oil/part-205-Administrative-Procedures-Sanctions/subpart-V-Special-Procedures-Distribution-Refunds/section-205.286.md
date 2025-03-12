@@ -1,0 +1,5 @@
+##### § 205.286 Limitations on amount of refunds. #####
+
+(a) The aggregate amount of all refunds approved by the Office of Hearings and Appeals or its designee in a given case shall not exceed the amount to be remitted pursuant to the relevant DOE enforcement order, plus any accumulated interest, reduced by the amount of any administrative costs approved by the Office of Hearings and Appeals. In the event that the aggregate amount of approved claims exceeds the aggregate amount of funds specified above, the Office of Hearings and Appeals may make refunds on a pro rata basis. The Office of Hearings and Appeals may delay payment of any refunds until all Applications have been processed.
+
+(b) The Office of Hearings and Appeals may decline to consider Applications for refund amounts that, in view of the direct administrative costs involved, are too small to warrant individual consideration.

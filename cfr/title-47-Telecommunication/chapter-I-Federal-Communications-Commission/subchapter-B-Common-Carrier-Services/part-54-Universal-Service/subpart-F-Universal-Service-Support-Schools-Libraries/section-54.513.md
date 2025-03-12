@@ -1,0 +1,11 @@
+##### § 54.513 Resale and transfer of services. #####
+
+(a) *Prohibition on resale.* Eligible supported services provided at a discount under this subpart shall not be sold, resold, or transferred in consideration of money or any other thing of value, except as provided in paragraph (b) of this section.
+
+(b) *Disposal of obsolete equipment components of eligible services.* Eligible equipment components of eligible services purchased at a discount under this subpart shall be considered obsolete if the equipment components have has been installed for at least five years. Obsolete equipment components of eligible services may be resold or transferred in consideration of money or any other thing of value, disposed of, donated, or traded.
+
+(c) *Permissible fees.* This prohibition on resale shall not bar schools, school districts, libraries, and library consortia from charging either computer lab fees or fees for classes in how to navigate over the Internet. There is no prohibition on the resale of services that are not purchased pursuant to the discounts provided in this subpart.
+
+(d) Eligible services and equipment components of eligible services purchased at a discount under this subpart shall not be transferred, with or without consideration of money or any other thing of value, for a period of three years after purchase, except that eligible services and equipment components of eligible services may be transferred to another eligible school or library in the event that the particular location where the service originally was received is permanently or temporarily closed. If an eligible service or equipment component of a service is transferred due to the permanent or temporary closure of a school or library, the transferor must notify the Administrator of the transfer, and both the transferor and recipient must maintain detailed records documenting the transfer and the reason for the transfer for a period of five years.
+
+[62 FR 32948, June 17, 1997, as amended at 69 FR 6191, Feb. 10, 2004; 75 FR 75415, Dec. 3, 2010]

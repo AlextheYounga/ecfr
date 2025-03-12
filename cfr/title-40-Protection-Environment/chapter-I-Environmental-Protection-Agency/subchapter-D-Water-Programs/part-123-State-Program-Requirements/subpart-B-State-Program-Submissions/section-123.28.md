@@ -1,0 +1,7 @@
+##### § 123.28 Control of disposal of pollutants into wells. #####
+
+State law must provide authority to issue permits to control the disposal of pollutants into wells. Such authority shall enable the State to protect the public health and welfare and to prevent the pollution of ground and surface waters by prohibiting well discharges or by issuing permits for such discharges with appropriate permit terms and conditions. A program approved under section 1422 of SDWA satisfies the requirements of this section.
+
+Note:
+
+States which are authorized to administer the NPDES permit program under section 402 of CWA are encouraged to rely on existing statutory authority, to the extent possible, in developing a State UIC program under section 1422 of SDWA. Section 402(b)(1)(D) of CWA requires that NPDES States have the authority “to issue permits which \* \* \* control the disposal of pollutants into wells.” In many instances, therefore, NPDES States will have existing statutory authority to regulate well disposal which satisfies the requirements of the UIC program. Note, however, that CWA excludes certain types of well injections from the definition of “pollutant.” If the State's statutory authority contains a similar exclusion it may need to be modified to qualify for UIC program approval.

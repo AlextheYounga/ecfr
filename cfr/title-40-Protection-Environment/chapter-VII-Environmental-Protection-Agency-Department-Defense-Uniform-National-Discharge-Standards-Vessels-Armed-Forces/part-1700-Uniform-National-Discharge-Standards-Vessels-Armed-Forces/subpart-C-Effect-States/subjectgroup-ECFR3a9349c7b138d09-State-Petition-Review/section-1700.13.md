@@ -1,0 +1,3 @@
+##### § 1700.13 Petition decisions. #####
+
+The Administrator and the Secretary will evaluate the petition and grant or deny the petition no later than two years after the date of receipt of the petition. If the Administrator and Secretary grant the petition, they will undertake rulemaking to amend this part. If the Administrator and Secretary deny the petition, they will provide the State with a written explanation of why they denied it.

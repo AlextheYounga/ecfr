@@ -1,0 +1,3 @@
+##### § 1515.3 Are there any CEQ records that CEQ proactively discloses and for which I do not have to make a request? #####
+
+Yes. The FOIA requires CEQ to proactively disclose—that is, to make certain records available for public inspection online—records that have been or are likely to become the subject of repeated requests. You can find those records, together with an index, at *https://www.whitehouse.gov/ceq/foia/.*

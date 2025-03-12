@@ -1,0 +1,3 @@
+##### § 155.1 Applicability. #####
+
+This part applies to releases from terms, conditions, reservations, or restrictions in any deed, surrender of leasehold, or other instrument of transfer or conveyance (in this part called “instrument of disposal”) by which some right, title, or interest of the United States in real or personal property was conveyed to a non-Federal public agency under section 13 of the Surplus Property Act of 1944 (58 Stat. 765; 61 Stat. 678) to be used by that agency in developing, improving, operating, or maintaining a public airport or to provide a source of revenue from non-aviation business at a public airport.

@@ -1,0 +1,3 @@
+##### § 1503.405 Injunctions. #####
+
+Whenever it is determined that a person has engaged, or is about to engage, in any act or practice constituting a violation of a TSA requirement, the Chief Counsel or the Deputy Chief Counsel for Enforcement may request the Attorney General of the United States, or the delegate of the Attorney General, to bring an action in the appropriate United States district court for such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, and punitive damages, as provided by 49 U.S.C. 114 and 46107.

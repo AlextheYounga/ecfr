@@ -1,0 +1,3 @@
+##### § 17.47 Reconsideration. #####
+
+The ODRA will not entertain requests for reconsideration as a routine matter, or where such requests evidence mere disagreement with a decision or restatements of previous arguments. A party seeking reconsideration must demonstrate either clear errors of fact or law in the underlying decision or previously unavailable evidence that warrants reversal or modification of the decision. In order to be considered, requests for reconsideration must be filed within ten (10) business days of the date of issuance of the public version of the subject decision or order.

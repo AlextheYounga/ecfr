@@ -1,0 +1,3 @@
+##### § 1.1530 Payment of award. #####
+
+An applicant seeking payment of an award from the Commission shall submit to the General Counsel a copy of the Commission's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts, or a copy of the court's order directing payment. The Commission will pay the amount awarded to the applicant unless judicial review of the award or the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.

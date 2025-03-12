@@ -1,0 +1,3 @@
+##### § 615.5090 Reduction in carrying value of collateral. #####
+
+When the bank or Farm Credit Administration determines that a loan did not conform to the requirements of the law or regulations at the time the loan was closed, such loan shall be withdrawn from collateral until the cause of ineligibility is remedied. When a loan has been classified as a loss loan, the bank shall adjust the collateral value of the loan accordingly.

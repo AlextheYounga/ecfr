@@ -1,0 +1,3 @@
+##### § 92.31 Liquidation from final payment. #####
+
+If the employee retires, resigns his or her employment, is terminated, or the employment or period of active duty ends before collection of the debt is completed, there shall be an offset from subsequent payments of any nature (e.g., final salary, lump sum leave, etc.) due the employee from the DOT operating element on the date of separation to the extent necessary to liquidate the debt.

@@ -1,0 +1,3 @@
+##### § 421.66 Pretreatment standards for new sources. #####
+
+Except as provided in 40 CFR 403.7 any new source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources. The mass of wastewater pollutants in secondary copper process wastewater introduced into a POTW shall not exceed the following values: There shall be no discharge of process wastewater pollutants into a publicly owned treatment works.

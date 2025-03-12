@@ -1,0 +1,11 @@
+##### § 63.11896 What am I required to do if I make a process change at my affected source? #####
+
+If you make a process change to an existing affected source that does not meet the criteria to become a new affected source in § 63.11870(d), you must comply with the requirements in paragraph (a) of this section and the testing and reporting requirements in paragraphs (c) and (d) of this section. If you make a process change to a new affected source, you must comply with the requirements in paragraph (b) of this section and the testing and reporting requirements in paragraphs (c) and (d) of this section. Refer to § 63.12005 for the definition of process changes.
+
+(a) You must demonstrate that the changed process unit or component of the affected facility is in compliance with the applicable requirements for an existing affected source. You must demonstrate initial compliance with the emission limits and establish any applicable operating limits in § 63.11880 within 180 days of the date of start-up of the changed process unit or component of the affected facility. You must demonstrate compliance with any applicable work practice standards upon startup of the changed process unit or component of the affected facility.
+
+(b) You must demonstrate that all changed emission points are in compliance with the applicable requirements for a new affected source. You must demonstrate initial compliance with the emission limits and establish any applicable operating limits in § 63.11880 within 180 days of the date of startup of the changed process unit or component of the affected facility. You must demonstrate compliance with any applicable work practice standards upon startup of the changed process unit or component of the affected facility.
+
+(c) For process changes, you must demonstrate continuous compliance with your emission limits and standards, operating limits, and work practice standards according to the procedures and frequency in §§ 63.11910 through 63.11980.
+
+(d) For process changes, you must submit the report specified in § 63.11985(b)(4)(iii).

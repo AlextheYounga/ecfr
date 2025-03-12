@@ -1,0 +1,5 @@
+##### § 399.21 Charter exemptions (except military). #####
+
+In deciding applications for exemptions from section 41102 of Title 49 of the United States Code by air carriers seeking to perform charter service in air transportation, we will give primary weight to the chartering public's own assessment of the air carrier services that best meet its transportation needs. Therefore, we will not, as a general rule, consider as relevant to our decision on such applications, objections based upon (1) offers by the objectors to perform the charter service, and/or (2) estimates of revenue or traffic diversion, unless in the latter case the objectors demonstrate that the diversion resulting from grant of the exemption would threaten their ability to fulfill their certificate obligations.
+
+[PS-78, 43 FR 31886, July 24, 1978, as amended at 60 FR 43531, Aug. 22, 1995]

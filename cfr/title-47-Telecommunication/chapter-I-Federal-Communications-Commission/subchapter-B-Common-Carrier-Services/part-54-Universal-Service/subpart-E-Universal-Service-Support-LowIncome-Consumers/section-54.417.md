@@ -1,0 +1,9 @@
+##### § 54.417 Recordkeeping requirements. #####
+
+(a) Eligible telecommunications carriers must maintain records to document compliance with all Commission and state requirements governing the Lifeline and Tribal Link Up program for the three full preceding calendar years and provide that documentation to the Commission or Administrator upon request. Eligible telecommunications carriers must maintain the documentation required in §§ 54.404 (b)(11), 54.410(b), 54.410 (c), 54.410(d), and 54.410(f) for as long as the subscriber receives Lifeline service from that eligible telecommunications carrier, but for no less than the three full preceding calendar years.
+
+(b) Prior to the effective date of the rules, if an eligible telecommunications carrier provides Lifeline discounted wholesale services to a reseller, it must obtain a certification from that reseller that it is complying with all Commission requirements governing the Lifeline and Tribal Link Up program. Beginning on the effective date of the rules, the eligible telecommunications carrier must retain the reseller certification for the three full preceding calendar years and provide that documentation to the Commission or Administrator upon request.
+
+(c) Non-eligible telecommunications carrier resellers that purchased Lifeline discounted wholesale services to offer discounted services to low-income consumers prior to the effective date of the rules, must maintain records to document compliance with all Commission requirements governing the Lifeline and Tribal Link Up program for the three full preceding calendar years and provide that documentation to the Commission or Administrator upon request.
+
+[80 FR 40935, July 14, 2015]

@@ -1,0 +1,3 @@
+##### 36.208 Concurrent performance of firm-fixed-price and other types of construction contracts. #####
+
+In view of potential labor and administrative problems, cost-plus-fixed-fee, price-incentive, or other types of contracts with cost variation or cost adjustment features shall not be permitted concurrently, at the same work site, with firm-fixed-price, lump sum, or unit price contracts except with the prior approval of the head of the contracting activity.

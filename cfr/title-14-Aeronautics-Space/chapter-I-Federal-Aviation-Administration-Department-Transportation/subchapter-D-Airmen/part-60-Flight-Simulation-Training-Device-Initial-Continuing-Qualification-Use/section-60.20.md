@@ -1,0 +1,3 @@
+##### § 60.20 Logging FSTD discrepancies. #####
+
+Each instructor, check airman, or representative of the Administrator conducting training, evaluation, or flight experience, and each person conducting the preflight inspection who discovers a discrepancy, including any missing, malfunctioning, or inoperative components in the FSTD, must write or cause to be written a description of that discrepancy into the discrepancy log at the end of the FSTD preflight or FSTD use session.

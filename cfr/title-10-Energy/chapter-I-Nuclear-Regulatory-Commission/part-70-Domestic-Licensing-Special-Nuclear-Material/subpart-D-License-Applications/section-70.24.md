@@ -1,0 +1,23 @@
+##### § 70.24 Criticality accident requirements. #####
+
+(a) Each licensee authorized to possess special nuclear material in a quantity exceeding 700 grams of contained uranium-235, 520 grams of uranium-233, 450 grams of plutonium, 1,500 grams of contained uranium-235 if no uranium enriched to more than 4 percent by weight of uranium-235 is present, 450 grams of any combination thereof, or one-half such quantities if massive moderators or reflectors made of graphite, heavy water or beryllium may be present, shall maintain in each area in which such licensed special nuclear material is handled, used, or stored, a monitoring system meeting the requirements of either paragraph (a)(1) or (a)(2), as appropriate, and using gamma- or neutron-sensitive radiation detectors which will energize clearly audible alarm signals if accidental criticality occurs. This section is not intended to require underwater monitoring when special nuclear material is handled or stored beneath water shielding or to require monitoring systems when special nuclear material is being transported when packaged in accordance with the requirements of part 71 of this chapter.
+
+(1) The monitoring system shall be capable of detecting a criticality that produces an absorbed dose in soft tissue of 20 rads of combined neutron and gamma radiation at an unshielded distance of 2 meters from the reacting material within one minute. Coverage of all areas shall be provided by two detectors.
+
+(2) Persons licensed prior to December 6, 1974, to possess special nuclear material subject to this section may maintain a monitoring system capable of detecting a criticality which generates radiation levels of 300 rems per hour one foot from the source of the radiation. The monitoring devices in the system shall have a preset alarm point of not less than 5 millirems per hour (in order to avoid false alarms) nor more than 20 millirems per hour. In no event may any such device be farther than 120 feet from the special nuclear material being handled, used, or stored; lesser distances may be necessary to meet the requirements of this paragraph (a)(2) on account of intervening shielding or other pertinent factors.
+
+(3) The licensee shall maintain emergency procedures for each area in which this licensed special nuclear material is handled, used, or stored to ensure that all personnel withdraw to an area of safety upon the sounding of the alarm. These procedures must include the conduct of drills to familiarize personnel with the evacuation plan, and designation of responsible individuals for determining the cause of the alarm, and placement of radiation survey instruments in accessible locations for use in such an emergency. The licensee shall retain a copy of current procedures for each area as a record for as long as licensed special nuclear material is handled, used, or stored in the area. The licensee shall retain any superseded portion of the procedures for three years after the portion is superseded.
+
+(b) Each licensee authorized to possess special nuclear material in quantities in excess of those specified in paragraph (a) shall:
+
+(1) Provide the means for identifying quickly which individuals have received doses of 10 rads or more.
+
+(2) Maintain facilities and supplies at the site for decontamination of personnel, arrangements for the services of a physician and other medical personnel qualified to handle radiation emergencies, arrangements for transportation of injured or contaminated individuals to treatment facilities, and arrangements for treatment of individuals at treatment facilities outside the site boundary.
+
+(c) Holders of licenses for construction or operation of a nuclear reactor issued pursuant to part 50 of this chapter, except critical assembly reactors, are exempt for the requirements of paragraph (b) of this section with respect to special nuclear material used or to be used in the reactor.
+
+(d)(1) The requirements in paragraphs (a) through (c) of this section do not apply to a holder of a construction permit or operating license for a nuclear power reactor issued under part 50 of this chapter or a combined license issued under part 52 of this chapter, if the holder complies with the requirements of paragraph (b) of 10 CFR 50.68.
+
+(2) An exemption from § 70.24 held by a licensee who thereafter elects to comply with requirements of paragraph (b) of 10 CFR 50.68 does not exempt that licensee from complying with any of the requirements in § 50.68, but shall be ineffective so long as the licensee elects to comply with § 50.68.
+
+[39 FR 39021, Nov. 5, 1974, as amended at 41 FR 31522, July 29, 1976; 53 FR 19252, May 27, 1988; 62 FR 63828, Dec. 3, 1997; 63 FR 9403, Feb. 25, 1998; 63 FR 63130, Nov. 12, 1998]

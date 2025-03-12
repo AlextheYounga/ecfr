@@ -1,0 +1,5 @@
+##### § 177.110 Action on approved claim. #####
+
+(a) Payment of a claim approved under this part is contingent on claimant's execution of a Standard Form 95 (Claim for Damage, Injury or Death); a claims settlement agreement; and a Standard Form 1145 (Voucher for Payment), as appropriate. When a claimant is represented by an attorney, the Voucher for Payment will designate both the claimant and his or her attorney as payees, and the check will be delivered to the attorney, whose address is to appear on the Voucher for Payment.
+
+(b) Acceptance by the claimant, his or her agent, or legal representative, of an award, compromise, or settlement made under 28 U.S.C. 2672 or 28 U.S.C. 2677 is final and conclusive on the claimant, his or her agent or legal representative, and any other person on whose behalf or for whose benefit the claim has been presented, and constitutes a complete release of any claim against the United States and against any employee of the Federal Government whose act or omission gave rise to the claim, by reason of the same subject matter.

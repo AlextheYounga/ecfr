@@ -1,0 +1,3 @@
+##### § 33.412 Must an Insular Area or Indian Tribal Government recipient negotiate fair share objectives? #####
+
+The requirements in this subpart regarding the negotiation of fair share objectives will not apply to an Insular Area or Indian Tribal Government recipient until three calendar years after the effective date of this part. Furthermore, in accordance with § 33.411(c), tribal and intertribal consortia recipients of program grants which can be included in Performance Partnership Grants (PPGs) under 40 CFR part 35, subpart B are not required to apply the fair share objective requirements of this subpart to such grants.

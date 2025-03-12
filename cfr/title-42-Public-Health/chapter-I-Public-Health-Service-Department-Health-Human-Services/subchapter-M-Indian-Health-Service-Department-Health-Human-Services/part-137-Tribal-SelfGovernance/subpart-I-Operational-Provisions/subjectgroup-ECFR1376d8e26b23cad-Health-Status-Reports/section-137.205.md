@@ -1,0 +1,3 @@
+##### § 137.205 Will this voluntary uniform data set reporting activity be required of all Self-Governance Tribes entering into a compact with the IHS under Title V? #####
+
+No, to the extent that specific resources are available or have not otherwise been provided to Self-Governance Tribes for this purpose, and if the Self-Governance Tribes choose to participate, the IHS will provide resources, hardware, software, and technical assistance to the Self-Governance Tribes to facilitate data gathering to ensure data consistency and integrity under this voluntary effort.

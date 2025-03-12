@@ -1,0 +1,7 @@
+##### § 250.472 What are the relief rig requirements for the Arctic OCS? #####
+
+(a) In the event of a loss of well control, the Regional Supervisor may direct you to drill a relief well using the relief rig able to kill and permanently plug an out-of-control well as described in your APD. Your relief rig must comply with all other requirements of this part pertaining to drill rig characteristics and capabilities, and it must be able to drill a relief well under anticipated Arctic OCS conditions.
+
+(b) When you are drilling below or working below the surface casing during Arctic OCS exploratory drilling operations, you must have access to a relief rig, different from your primary drilling rig, staged in a location such that it can arrive on site, drill a relief well, kill and abandon the original well, and abandon the relief well prior to expected seasonal ice encroachment at the drill site, but no later than 45 days after the loss of well control.
+
+(c) Operators may request approval of alternative compliance measures to the relief rig requirement in accordance with § 250.141. The operator must show and document that the alternate compliance measure will meet or exceed the level of safety and environmental protection required by BSEE regulations, including demonstrating that the alternate compliance measure will be able to kill and permanently plug an out-of-control well.

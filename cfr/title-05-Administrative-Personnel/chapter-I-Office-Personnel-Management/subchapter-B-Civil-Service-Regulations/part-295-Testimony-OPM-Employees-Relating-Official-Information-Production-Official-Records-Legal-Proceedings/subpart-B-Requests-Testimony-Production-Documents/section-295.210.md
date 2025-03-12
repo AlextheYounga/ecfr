@@ -1,0 +1,3 @@
+##### § 295.210 Procedure in the event of an adverse ruling. #####
+
+If the court or other competent authority fails to stay the demand, the employee upon whom the demand or request is made, unless otherwise advised by the General Counsel, will appear at the stated time and place, produce a copy of this part, state that the employee has been advised by counsel not to provide the requested testimony or produce documents, and respectfully decline to comply with the demand, citing *United States ex rel. Touhy* v. *Ragen*, 340 U.S. 462 (1951). A written response may be offered to a request, or to a demand, if permitted by the court or other competent authority.

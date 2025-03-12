@@ -1,0 +1,3 @@
+##### § 603.800 Scope. #####
+
+This subpart addresses administrative matters that do not impose organization-wide requirements on a participant's financial management, property management, or purchasing system. Because an organization does not have to redesign its systems to accommodate award-to-award variations in these requirements, TIAs may differ in the requirements that they specify for a given participant, based on the circumstances of the particular RD&D project. To eliminate needless administrative complexity, the contracting officer should handle some requirements, such as the payment method, in a uniform way for the agreement as a whole.

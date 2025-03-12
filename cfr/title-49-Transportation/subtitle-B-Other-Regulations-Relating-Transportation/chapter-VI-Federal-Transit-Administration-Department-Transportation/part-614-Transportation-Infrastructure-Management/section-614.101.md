@@ -1,0 +1,3 @@
+##### § 614.101 Cross-reference to management systems. #####
+
+The regulations in 23 CFR Part 500, subparts A and B shall be followed in complying with the requirements of this part. Part 500, subparts A and B implement 23 U.S.C. 303 for State development, establishment, and implementation of systems for managing traffic congestion (CMS), public transportation facilities and equipment (PTMS), intermodal transportation facilities and systems (IMS), and traffic monitoring for highways and public transportation facilities and equipment.

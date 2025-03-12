@@ -1,0 +1,3 @@
+##### § 161.11 Identification of land uses in airport noise study area. #####
+
+For the purposes of this part, uses of land that are normally compatible or noncompatible with various noise-exposure levels to individuals around airports must be identified in accordance with the criteria prescribed under appendix A of 14 CFR part 150. Determination of land use must be based on professional planning, zoning, and building and site design information and expertise.

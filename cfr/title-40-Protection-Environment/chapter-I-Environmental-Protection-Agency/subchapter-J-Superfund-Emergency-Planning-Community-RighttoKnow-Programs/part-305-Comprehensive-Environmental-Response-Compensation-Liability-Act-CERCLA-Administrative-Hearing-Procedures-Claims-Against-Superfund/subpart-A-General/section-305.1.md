@@ -1,0 +1,7 @@
+##### § 305.1 Scope. #####
+
+(a)(1) This part governs all administrative proceedings for the total or partial denial of response claims asserted against the Hazardous Substance Superfund (the Fund) pursuant to sections 111(a)(2) and 122(b)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA), as amended by the Superfund Amendments and Reauthorization Act of 1986 (SARA), 42 U.S.C. 9601 *et seq.*
+
+(2) Sections 111(a)(2) and 122(b)(1) of CERCLA authorize EPA, among other things, to use the Fund to reimburse certain persons who file claims for eligible response costs incurred in carrying out the National Oil and Hazardous Substances Pollution Contingency Plan (NCP), 40 CFR part 300. In the event that the Claims Official declines to pay all or part of a claim, a claimant may request an administrative hearing pursuant to § 305.4(a) within 30 days after receiving notice of the Claims Official's decision. The procedures governing such a proceeding are set forth in this part.
+
+(b) Procedural questions arising at any stage of the proceeding which are not addressed in this part shall be resolved at the discretion of the Claims Official, the Review Officer, or the Presiding Officer, as appropriate.

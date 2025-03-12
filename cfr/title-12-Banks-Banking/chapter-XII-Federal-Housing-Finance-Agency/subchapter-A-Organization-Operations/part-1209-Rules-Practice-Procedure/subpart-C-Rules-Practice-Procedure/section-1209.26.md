@@ -1,0 +1,3 @@
+##### § 1209.26 Failure to appear. #####
+
+Failure of a respondent to appear in person at the hearing or by a duly authorized representative of record constitutes a waiver of respondent's right to a hearing and is deemed an admission of the facts as alleged and consent to the relief sought in the notice. Without further proceedings or notice to the respondent, the presiding officer shall file with the Director a recommended decision containing the Agency's findings and the relief sought in the notice.

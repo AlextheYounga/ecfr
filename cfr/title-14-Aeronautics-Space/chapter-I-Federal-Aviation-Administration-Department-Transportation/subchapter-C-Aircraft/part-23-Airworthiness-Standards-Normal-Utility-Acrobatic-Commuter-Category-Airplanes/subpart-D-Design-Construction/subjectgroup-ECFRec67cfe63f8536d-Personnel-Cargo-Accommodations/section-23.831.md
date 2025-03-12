@@ -1,0 +1,11 @@
+##### § 23.831 Ventilation. #####
+
+(a) Each passenger and crew compartment must be suitably ventilated. Carbon monoxide concentration may not exceed one part in 20,000 parts of air.
+
+(b) For pressurized airplanes, the ventilating air in the flightcrew and passenger compartments must be free of harmful or hazardous concentrations of gases and vapors in normal operations and in the event of reasonably probable failures or malfunctioning of the ventilating, heating, pressurization, or other systems and equipment. If accumulation of hazardous quantities of smoke in the cockpit area is reasonably probable, smoke evacuation must be readily accomplished starting with full pressurization and without depressurizing beyond safe limits.
+
+(c) For jet pressurized airplanes that operate at altitudes above 41,000 feet, under normal operating conditions and in the event of any probable failure conditions of any system which would adversely affect the ventilating air, the ventilation system must provide reasonable passenger comfort. The ventilation system must also provide a sufficient amount of uncontaminated air to enable the flight crew members to perform their duties without undue discomfort or fatigue. For normal operating conditions, the ventilation system must be designed to provide each occupant with at least 0.55 pounds of fresh air per minute. In the event of the loss of one source of fresh air, the supply of fresh airflow may not be less than 0.4 pounds per minute for any period exceeding five minutes.
+
+(d) For jet pressurized airplanes that operate at altitudes above 41,000 feet, other probable and improbable Environmental Control System failure conditions that adversely affect the passenger and flight crew compartment environmental conditions may not affect flight crew performance so as to result in a hazardous condition, and no occupant shall sustain permanent physiological harm.
+
+[Doc. No. 4080, 29 FR 17955, Dec. 18, 1964; 30 FR 258, Jan. 9, 1965, as amended by Amdt. 23-34, 52 FR 1831, Jan. 15, 1987; Amdt. 23-42, 56 FR 354, Jan. 3, 1991; Amdt. 23-62, 76 FR 75757, Dec. 2, 2011]

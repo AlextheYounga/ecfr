@@ -1,0 +1,19 @@
+##### § 50.406 What are the steps in the process? #####
+
+(a) A grantee with respect to whom an adverse determination described in § 50.404(a) above has been made and who desires a review of that determination must submit a request for such review to the head of the appropriate agency or his or her designee no later than 30 days after the written notification of the determination is received, except that if the grantee shows good cause why an extension of time should be granted, the head of the appropriate agency or his or her designee may grant an extension of time.
+
+(b) The request for review must include a copy of the adverse determination, must identify the issue(s) in dispute, and must contain a full statement of the grantee's position with respect to such issue(s) and the pertinent facts and reasons in support of the grantee's position. In addition to the required written statement, the grantee shall provide copies of any documents supporting its claim.
+
+(c) When a request for review has been filed under this subpart with respect to an adverse determination, no action may be taken by the awarding agency pursuant to such determination until the request has been disposed of, except that the filing of the request shall not affect any authority which the agency may have to suspend assistance or otherwise to withhold or defer payments under the grant during proceedings under this subpart. This paragraph does not require the awarding agency to provide continuation funding during the appeal process to a grantee whose noncompeting continuation award has been denied.
+
+(d) Upon receipt of a request for review, the head of the agency or his or her designee will make a decision as to whether the dispute is reviewable under this subpart and will promptly notify the grantee and the office responsible for the adverse determination of this decision. If the head of the agency or his or her designee determines that the dispute is reviewable, he or she will forward the matter to the review committee appointed under § 50.405.
+
+(e) The agency involved will provide the review committee appointed under § 50.405 with copies of all relevant background materials (including applications(s), award(s), summary statement(s), and correspondence) and any additional pertinent information available. These materials must be tabbed and organized chronologically and accompanied by an indexed list identifying each document.
+
+(f) The grantee shall be given an opportunity to provide the review committee with additional statements and documentation not provided in the request for review described in paragraph (b) of this section. This additional submission, which must be organized and indexed as indicated under paragraph (e) of this section, should provide only material that is relevant to the review committee's deliberation of the issues in the case.
+
+(g) The review committee may, at its discretion, invite the grantee and/or the agency staff to discuss the pertinent issues with the committee and to submit such additional information as the committee deems appropriate.
+
+(h) Based on its review, the review committee will prepare a written decision to be signed by the chairperson and each of the other committee members. The review committee shall send the written decision with a transmittal letter to the grantee and shall send a copy of both to the official responsible for the adverse determination. If the decision is adverse to the grantee's position, the transmittal letter must state the grantee's right to appeal to the Departmental Appeals Board under 45 CFR part 16.
+
+[54 FR 34770, Aug. 22, 1989, as amended at 63 FR 66063, Dec. 1, 1998]

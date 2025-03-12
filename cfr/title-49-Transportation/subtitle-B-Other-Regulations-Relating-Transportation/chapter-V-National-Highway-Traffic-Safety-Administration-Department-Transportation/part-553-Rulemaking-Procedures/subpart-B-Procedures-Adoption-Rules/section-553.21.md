@@ -1,0 +1,3 @@
+##### § 553.21 Contents of written comments. #####
+
+All written comments shall be in English. Unless otherwise specified in a notice requesting comments, comments may not exceed 15 pages in length, but necessary attachments may be appended to the submission without regard to the 15-page limit. Any interested person shall submit as a part of his written comments all material that he considers relevant to any statement of fact made by him. Incorporation by reference should be avoided. However, if incorporation by reference is necessary, the incorporated material shall be identified with respect to document and page. It is requested, but not required, that 10 copies and attachments, if any, be submitted.

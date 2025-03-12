@@ -1,0 +1,5 @@
+##### § 1262.309 Judicial review. #####
+
+Judicial review of final Agency decisions on awards may be sought under 5 U.S.C. 504(c)(2), which provides: If a party other than the United States is dissatisfied with a determination of fees and other expenses made under [this part], that party may, within 30 days after the [final administrative] determination is made, appeal the determination to the court of the United States having jurisdiction to review the merits of the underlying decision of the agency adversary adjudication. The court's determination of any appeal heard under this [authority] shall be based solely on the factual record made before the agency. The court may modify the determination of fees and other expenses only if the court finds that the failure to make an award of fees and other expenses, or the calculation of the amount of the award, was unsupported by the substantial evidence.
+
+[51 FR 15311, Apr. 23, 1986, as amended at 60 FR 12669, Mar. 8, 1995]

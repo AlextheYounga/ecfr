@@ -1,0 +1,3 @@
+##### § 516.190 Will a meeting affect application processing time frames? #####
+
+If OTS decides to conduct a meeting, it may suspend applicable application processing time frames, including the time frames for deeming an application complete and the applicable approval time frames in subpart E of this part. If OTS suspends applicable application processing time frames, the time period will resume when OTS determines that a record has been developed that sufficiently supports a determination on the issues considered at the meeting.

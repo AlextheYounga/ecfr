@@ -1,0 +1,1 @@
+##### 47.304 Determination of delivery terms. #####

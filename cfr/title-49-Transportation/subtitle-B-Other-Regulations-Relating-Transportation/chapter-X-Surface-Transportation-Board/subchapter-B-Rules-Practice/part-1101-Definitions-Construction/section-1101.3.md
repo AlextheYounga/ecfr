@@ -1,0 +1,3 @@
+##### § 1101.3 Construction. #####
+
+The rules of construction contained in chapter 1 of title 1 of the United States Code (1 U.S.C. 1 *et seq.*) apply in this chapter. Among other things, they provide that the singular includes the plural, and vice versa; that the masculine includes the feminine; that the word “person” includes corporations, associations, and the like; that “county” includes parish and similar subdivisions; and that “company” includes successors and assigns.

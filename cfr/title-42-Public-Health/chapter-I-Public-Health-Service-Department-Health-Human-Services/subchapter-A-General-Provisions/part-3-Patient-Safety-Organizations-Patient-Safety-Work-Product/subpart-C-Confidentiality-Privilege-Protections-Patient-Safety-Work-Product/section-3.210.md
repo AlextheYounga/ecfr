@@ -1,0 +1,3 @@
+##### § 3.210 Required disclosure of patient safety work product to the Secretary. #####
+
+Notwithstanding any other provision in this part, providers, PSOs, and responsible persons must disclose patient safety work product upon request by the Secretary when the Secretary determines such patient safety work product is needed to investigate or determine compliance or to seek or impose civil money penalties, with respect to this part or the HIPAA Privacy Rule, or to make or support decisions with respect to listing of a PSO.

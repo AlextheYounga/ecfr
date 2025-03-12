@@ -1,0 +1,3 @@
+##### § 372.1 Scope and purpose. #####
+
+This part sets forth requirements for the submission of information relating to the release of toxic chemicals under section 313 of Title III of the Superfund Amendments and Reauthorization Act of 1986. The information collected under this part is intended to inform the general public and the communities surrounding covered facilities about releases of toxic chemicals, to assist research, to aid in the development of regulations, guidelines, and standards, and for other purposes. This part also sets forth requirements for suppliers to notify persons to whom they distribute mixtures or trade name products containing toxic chemicals that they contain such chemicals.

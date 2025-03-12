@@ -1,0 +1,3 @@
+##### § 220.23 Publication of radio information. #####
+
+Each railroad shall designate where radio base stations are installed, where wayside stations may be contacted, and the appropriate radio channels used by these stations in connection with railroad operations by publishing them in a timetable or special instruction. The publication shall indicate the periods during which base and wayside radio stations are operational.

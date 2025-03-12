@@ -1,0 +1,15 @@
+##### § 52.1237 Control strategy: Carbon monoxide. #####
+
+(a) The base year carbon monoxide emission inventory requirement of section 187(a)(1) of the Clean Air Act, as amended in 1990, has been satisfied for the following areas: Duluth Metropolitan Area and Minneapolis-St. Paul Metropolitan Area.
+
+(b) Approval—The 1993 carbon monoxide periodic emission inventory requirement of section 187(a)(5) of the Clean Air Act, as amended in 1990, has been satisfied for the following areas: the counties of the Twin cities seven county Metropolitan area (Anoka, Carver, Dakota, Hennepin, Ramsey, Scott, and Washington), and Wright.
+
+(c) Approval—On March 23, 1998, the Minnesota Pollution Control Agency submitted a request to redesignate the Minneapolis/St. Paul CO nonattainment area (consisting of portions of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott, Washington, and Wright) to attainment for CO. As part of the redesignation request, the State submitted a maintenance plan as required by 175A of the Clean Air Act, as amended in 1990. Elements of the section 175A maintenance plan include a base year (1996 attainment year) emission inventory for CO, a demonstration of maintenance of the ozone NAAQS with projected emission inventories to the year 2009, a plan to verify continued attainment, a contingency plan, and an obligation to submit a subsequent maintenance plan revision in 8 years as required by the Clean Air Act. If the area records a violation of the CO NAAQS (which must be confirmed by the State), Minnesota will implement one or more appropriate contingency measure(s) which are contained in the contingency plan. The menu of contingency measures includes oxygenated fuel, transportation control measures, or a vehicle inspection and maintenance program. The redesignation request and maintenance plan meet the redesignation requirements in section 107(d)(3)(E) and 175A of the Act as amended in 1990, respectively.
+
+(d) Approval—On November 10, 2004, Minnesota submitted a revision to the Carbon Monoxide (CO) maintenance plan for the Minneapolis-St. Paul area. These plans revised 1996 and 2009 motor vehicle emission inventories and 2009 Motor Vehicle Emissions Budgets (MVEB) recalculated using the emissions factor model MOBILE6. The MVEB for transportation conformity purposes for the Minneapolis-St. Paul maintenance area is 1961 tons per winter day of CO.
+
+(e) Approval—On June 16, 2010, Minnesota submitted a carbon monoxide (CO) limited maintenance plan for the Minneapolis-St. Paul area under section 175A of the CAA for the continued attainment of the one hour and eight hour CO NAAQS.
+
+(f) Approval—On July 16, 2015, the State of Minnesota submitted a revision to their Particulate Matter State Implementation Plan. The submittal establishes transportation conformity criteria and procedures related to interagency consultation, and the enforceability of certain transportation related control and mitigation measures.
+
+[59 FR 47807, Sept. 19, 1994, as amended at 62 FR 55172, Oct. 23, 1997; 64 FR 58354, Oct. 29, 1999; 69 FR 71380, Dec. 9, 2004; 75 FR 54778, Sept. 9, 2010; 80 FR 76865, Dec. 11, 2015]

@@ -1,0 +1,29 @@
+##### § 171.17 Proration. #####
+
+Annual fees will be prorated for NRC licensees as follows:
+
+(a) Reactors, 10 CFR part 72 licensees who do not hold 10 CFR part 50 licenses, and materials licenses with annual fees of $100,000 or greater for a single fee category.
+
+(1) *New licenses.* The annual fees for new licenses for power reactors, non-power reactors, 10 CFR part 72 licensees who do not hold a 10 CFR part 50 license, and materials licenses with annual fees of $100,000 or greater for a single fee category for the current FY, that are subject to fees under this part and are granted a license to operate on or after October 1 of a FY, are prorated on the basis of the number of days remaining in the FY. Thereafter, the full annual fee is due and payable each subsequent FY.
+
+(2) *Terminations.* The base operating power reactor annual fee for operating reactor licensees who have requested amendment to withdraw operating authority permanently during the FY will be prorated based on the number of days during the FY the license was in effect before docketing of the certifications for permanent cessation of operations and permanent removal of fuel from the reactor vessel or when a final legally effective order to permanently cease operations has come into effect. The spent fuel storage/reactor decommissioning annual fee for reactor licensees who permanently cease operations and have permanently removed fuel from the site during the FY will be prorated on the basis of the number of days remaining in the FY after docketing of both the certifications of permanent cessation of operations and permanent removal of fuel from the site. The spent fuel storage/reactor decommissioning annual fee will be prorated for those 10 CFR part 72 licensees who do not hold a 10 CFR part 50 license who request termination of the 10 CFR part 72 license and permanently cease activities authorized by the license during the FY based on the number of days the license was in effect before receipt of the termination request. The annual fee for materials licenses with annual fees of $100,000 or greater for a single fee category for the current FY will be prorated based on the number of days remaining in the FY when a termination request or a request for a possession-only license is received by the NRC, provided the licensee permanently ceased licensed activities during the specified period.
+
+(3) *Downgraded licenses.* The annual fee for a materials license with an annual fee of $100,000 or greater for a single fee category for the current FY, that is subject to fees under this part and downgraded on or after October 1 of a FY, is automatically prorated by the agency on the basis of the number of days remaining in the FY when the application for downgrade is received and approved by the NRC, provided the licensee permanently ceased the stated activities during the specified period.
+
+(b) Materials licenses (excluding 10 CFR part 72 licenses and materials license with annual fees of $100,000 or greater for a single fee category, included in § 171.17(a)).
+
+(1) *New licenses.* The annual fee for a materials license that is subject to fees under this part and issued on or after October 1 of the FY is prorated on the basis of when the NRC issues the new license. New licenses issued during the period October 1 through March 31 of the FY will be assessed one-half the annual fee for that FY. New licenses issued on or after April 1 of the FY will not be assessed an annual fee for that FY. Thereafter, the full fee is due and payable each subsequent FY.
+
+(2) *Terminations.* The annual fee will be prorated for licenses for which a termination request or a request for a POL has been received on or after October 1 of a FY on the basis of when the application for termination or POL is received by the NRC provided the licensee permanently ceased licensed activities during the specified period. Licenses for which applications for termination or POL are filed during the period October 1 through March 31 of the FY are assessed one-half the annual fee for the applicable category(ies) for that FY. Licenses for which applications for termination or POL are filed on or after April 1 of the FY are assessed the full annual fee for that FY. Materials licenses transferred to a new Agreement State during the FY are considered terminated by the NRC, for annual fee purposes, on the date that the Agreement with the State becomes effective; therefore, the same proration provisions will apply as if the licenses were terminated.
+
+(3) *Downgraded licenses.* (i) The annual fee for a materials license that is subject to fees under this part and downgraded on or after October 1 of a FY is automatically prorated on the basis of the date when the application for downgrade is received and approved by the NRC, provided the licensee permanently ceased the stated activities during the specified period.
+
+(ii) Annual fees for licenses for which applications to downgrade are filed during the period October 1 through March 31 of the FY will be prorated as follows:
+
+(A) Licenses for which applications have been filed to reduce the scope of the license from a higher fee category(ies) to a lower fee category(ies) will be assessed one-half the annual fee for the higher fee category and one-half the annual fee for the lower fee category(ies), and, if applicable, the full annual fee for fee categories not affected by the downgrade; and
+
+(B) Licenses with multiple fee categories for which applications have been filed to downgrade by deleting a fee category will be assessed one-half the annual fee for the fee category being deleted and the full annual fee for the remaining categories.
+
+(iii) Licenses for which applications to downgrade are filed on or after April 1 of the FY are assessed the full fee for that FY.
+
+[72 FR 31431, June 6, 2007, as amended at 77 FR 35835, June 15, 2012]

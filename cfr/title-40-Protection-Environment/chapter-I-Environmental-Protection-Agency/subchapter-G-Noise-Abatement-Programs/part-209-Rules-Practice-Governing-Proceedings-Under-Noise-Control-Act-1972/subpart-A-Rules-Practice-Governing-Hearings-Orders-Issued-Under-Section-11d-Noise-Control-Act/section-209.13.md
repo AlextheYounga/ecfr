@@ -1,0 +1,3 @@
+##### § 209.13 Consolidation. #####
+
+The Administrator or the administrative law judge may consolidate two or more proceedings to be held under this section for resolving one or more issues whenever it appears that such consolidation will expedite or simplify consideration of such issues. Consolidation shall not affect the right of any party to raise any issues that could otherwise have been raised.

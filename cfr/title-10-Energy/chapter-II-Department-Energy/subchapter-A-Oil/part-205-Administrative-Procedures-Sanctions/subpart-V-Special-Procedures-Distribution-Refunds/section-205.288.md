@@ -1,0 +1,3 @@
+##### § 205.288 Interim and ancillary orders. #####
+
+The Director of the Office of Hearings and Appeals or his designee may issue any interim or ancillary orders, or make any rulings or determinations to ensure that refund proceedings, including the actions of the administrator and the custodian of the funds involved in a refund proceeding, are conducted in an appropriate manner and are not unduly delayed.

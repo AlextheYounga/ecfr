@@ -1,0 +1,3 @@
+##### § 1015.104 Compromise, waiver, or disposition under other statutes not precluded. #####
+
+Nothing in this part precludes DOE from disposing of any claim under statutes and implementing regulations other than subchapter II of chapter 37 of Title 31 of the United States Code (Claims of the United States Government) and the standards in this part. In such cases, the specifically applicable laws and regulations will generally take precedence over this part.

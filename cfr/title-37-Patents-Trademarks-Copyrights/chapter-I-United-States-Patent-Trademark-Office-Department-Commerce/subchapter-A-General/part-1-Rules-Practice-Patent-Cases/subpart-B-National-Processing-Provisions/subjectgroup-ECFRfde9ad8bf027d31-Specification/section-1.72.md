@@ -1,0 +1,7 @@
+##### § 1.72 Title and abstract. #####
+
+(a) The title of the invention may not exceed 500 characters in length and must be as short and specific as possible. Characters that cannot be captured and recorded in the Office's automated information systems may not be reflected in the Office's records in such systems or in documents created by the Office. Unless the title is supplied in an application data sheet (§ 1.76), the title of the invention should appear as a heading on the first page of the specification.
+
+(b) A brief abstract of the technical disclosure in the specification must commence on a separate sheet, preferably following the claims, under the heading “Abstract” or “Abstract of the Disclosure.” The sheet or sheets presenting the abstract may not include other parts of the application or other material. The abstract must be as concise as the disclosure permits, preferably not exceeding 150 words in length. The purpose of the abstract is to enable the Office and the public generally to determine quickly from a cursory inspection the nature and gist of the technical disclosure.
+
+[65 FR 54667, Sept. 8, 2000, as amended at 65 FR 57054, Sept. 20, 2000; 68 FR 38628, June 30, 2003; 78 FR 62402, Oct. 21, 2013]

@@ -1,0 +1,7 @@
+##### § 723.9 Transitional provisions. #####
+
+This section governs circumstances in which, as of January 1, 2017, a federally insured credit union is operating in accordance with an approved waiver from NCUA or is subject to any enforcement constraint relative to its commercial lending activities.
+
+(a) *Waivers.* As of January 1, 2017, any waiver approved by NCUA concerning a federally insured credit union's commercial lending activity is rendered moot except for waivers granted for borrowing relationship limits. Borrowing relationships granted a waiver will be grandfathered however the debt associated with those relationships may not be increased.
+
+(b) *Enforcement constraints.* Limitations or other conditions imposed on a federally insured credit union in any written directive from NCUA, including but not limited to items specified in any Document of Resolution, any published or unpublished Letter of Understanding and Agreement, Regional Director Letter, Preliminary Warning Letter, or formal enforcement action, are unaffected by the adoption of this part. Included within this paragraph are any constraints or conditions embedded within any waiver issued by NCUA. As of January 1, 2017, all such limitations or other conditions remain in place until such time as they are modified by NCUA.

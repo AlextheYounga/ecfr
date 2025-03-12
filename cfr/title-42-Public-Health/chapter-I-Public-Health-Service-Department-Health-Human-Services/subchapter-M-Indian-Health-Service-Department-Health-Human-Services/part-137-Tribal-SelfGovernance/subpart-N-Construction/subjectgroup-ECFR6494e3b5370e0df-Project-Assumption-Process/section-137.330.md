@@ -1,0 +1,3 @@
+##### § 137.330 What happens if the Self-Governance Tribe and the Secretary cannot develop a mutually agreeable construction project agreement? #####
+
+The Self-Governance Tribe may submit a final construction project proposal to the Secretary. No later than 30 days after the Secretary receives the final construction project proposal, or within a longer time agreed to by the Self-Governance Tribe in writing, the Secretary shall review and make a determination to approve or reject the construction project proposal in whole or in part.

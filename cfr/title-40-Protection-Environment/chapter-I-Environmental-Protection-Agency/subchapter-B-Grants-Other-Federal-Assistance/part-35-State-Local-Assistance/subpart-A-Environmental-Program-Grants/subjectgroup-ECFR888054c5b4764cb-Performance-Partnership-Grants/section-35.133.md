@@ -1,0 +1,7 @@
+##### § 35.133 Programs eligible for inclusion. #####
+
+(a) *Eligible programs.* Except as provided in paragraph (b) of this section, the environmental programs eligible, in accordance with appropriation acts, for inclusion in a Performance Partnership Grant are listed in § 35.101(a)(2) through (17) and (20). (Funds available from the section 205(g) State Administration Grants program (§ 35.101(a)(18)) and the Water Quality Management Planning Grant program (§ 35.101(a)(19)) and funds awarded to States under State Response Program Grants (§ 35.101(a)(20)) to capitalize a revolving loan fund for Brownfield remediation or purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions may not be included in Performance Partnership Grants.)
+
+(b) *Changes in eligible programs.* The Administrator may, in guidance or regulation, describe subsequent additions, deletions, or changes to the list of environmental programs eligible for inclusion in Performance Partnership Grants. A current list of environmental programs eligible for inclusion in Performance Partnership Grants is available at *www.epa.gov/nepps.*
+
+[66 FR 1734, Jan. 9, 2001, as amended at 74 FR 28444, June 16, 2009; 74 FR 46020, Sept. 8, 2009; 87 FR 30398, May 19, 2022]

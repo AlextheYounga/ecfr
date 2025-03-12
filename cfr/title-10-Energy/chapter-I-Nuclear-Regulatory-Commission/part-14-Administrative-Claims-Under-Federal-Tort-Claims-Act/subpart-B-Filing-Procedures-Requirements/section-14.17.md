@@ -1,0 +1,3 @@
+##### § 14.17 A claim must be presented to the appropriate agency. #####
+
+A claimant shall present the claim to the Federal agency whose activities gave rise to the claim. If a claim is erroneously presented to the NRC, the NRC shall transfer it to the appropriate agency, if the proper agency can be identified from the claim, and shall advise the claimant of the transfer. If transfer is not feasible, the NRC shall return the claim to the claimant. The fact of transfer does not, in itself, preclude further transfer, return of the claim to the claimant, or other appropriate disposition of the claim. A claim shall be presented, as required by 28 U.S.C. 2401(b), as of the date it is received by the appropriate agency.

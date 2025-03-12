@@ -1,0 +1,3 @@
+##### § 63.6100 What emission and operating limitations must I meet? #####
+
+For each new or reconstructed stationary combustion turbine which is a lean premix gas-fired stationary combustion turbine, a lean premix oil-fired stationary combustion turbine, a diffusion flame gas-fired stationary combustion turbine, or a diffusion flame oil-fired stationary combustion turbine as defined by this subpart, you must comply with the emission limitations and operating limitations in Table 1 and Table 2 of this subpart.

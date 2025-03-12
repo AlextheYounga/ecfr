@@ -1,0 +1,5 @@
+##### § 40.140-3 Federal Water Pollution Control Act. #####
+
+(a) All applications for grants under section 105(c) must provide evidence that the proposed project will contribute to the development or demonstration of a new or improved method of treating industrial wastes or otherwise preventing pollution by industry, which method shall have industrywide application;
+
+(b) All applications for grants under section 113 must include provisions for community safe water supply systems, toilets, bathing and laundry facilities, sewage disposal facilities and programs relating to health and hygiene. Such projects must also be for the further purpose of developing preliminary plans for providing such safe water and such elimination or control of water pollution for all native villages in the State of Alaska.

@@ -1,0 +1,23 @@
+##### § 551.514 Nondiscretionary bonuses. #####
+
+(a) When an employee earns a nondiscretionary cash award or bonus (as opposed to discretionary cash awards or bonuses as described in § 551.511(b)(3)), the bonus must be taken into account in determining overtime pay for the period of time during which the bonus was earned. An agency may meet the overtime pay requirements for the bonus period by using one of the procedures described in paragraphs (b) and (c) of this section. The procedures in paragraphs (b)(1) and (b)(2) of this section calculate the additional overtime pay the employee is due. The procedures in paragraphs (b)(3), (c)(2), and (c)(3) of this section describe methods where the overtime pay requirements are met in the calculation or distribution of the bonus itself.
+
+(b) *Individual computation methods*—(1) *Week-by-week recomputation method.* The agency may compute the additional overtime pay owed an employee by allocating the nondiscretionary bonus payable under the agency bonus plan to the weeks or hours during which it was earned and recomputing the employee's total remuneration, hourly regular rate, and overtime pay for each applicable workweek in the bonus period.
+
+(2) *Bonus hourly rate method.* The agency may assume that an equal amount of the nondiscretionary bonus applies to each hour worked during the bonus period and derive a bonus hourly rate by dividing the employee's total bonus by the total number of hours worked by the employee during the bonus period. Then the agency may compute the employee's additional overtime pay by multiplying one-half of that bonus hourly rate by the total number of overtime hours worked by the employee during the bonus period.
+
+(3) *Percentage bonus method.* An agency may establish a nondiscretionary bonus as a fixed percentage of total pay (*i.e.,* pre-bonus total remuneration, including straight time pay for any overtime hours, plus any half-rate overtime pay under § 551.512(a)(2)) to be earned by the employee during a future period of service. This method may not be used to circumvent any bonus limitations that might otherwise apply. At the agency's discretion, the portion of the bonus attributable to the employee's half-rate overtime pay under § 551.512(a)(2) may be excluded in applying bonus limitations, since it can be viewed as constituting additional FLSA overtime pay. (This method does not apply to nondiscretionary bonuses established as a percentage of a segment of pay, such as ratings-based cash awards under § 451.104(g) of this chapter that are expressed as a percentage of basic pay, excluding locality adjustments. To meet overtime pay requirements for these types of bonuses, use one of the methods described in paragraphs (b)(1) or (b)(2) of this section.)
+
+(c) *Group-based bonus distribution methods.* (1) For employees who have earned nondiscretionary group cash awards or bonuses, payment of a bonus under one of the methods of distribution described in paragraphs (c)(2) and (c)(3) of this section is considered to be in full compliance with the overtime pay requirements of this subpart. These methods may not be used to circumvent any bonus limitations that might otherwise apply.
+
+(2) *Percentage method.* (i) Identify the amount of the group bonus under the agency's bonus plan and the period of time during which it was earned;
+
+(ii) Establish the group bonus as a percentage of the total pay (*i.e.,* total remuneration before considering the group bonus, including straight time pay for any overtime hours, plus any half-rate overtime pay under § 551.512(a)(2)) earned by employees in the group during the bonus period; and (iii) Multiply the percentage in paragraph (c)(2)(ii) of this section times each individual employee's total pay earned during the bonus period to determine each employee's share of the group bonus.
+
+(3) *Boosted hour method.* (i) Identify the amount of the group bonus under the agency's bonus plan and the period of time during which it was earned;
+
+(ii) Determine the total number of boosted hours for all employees under the group bonus plan by adding up the total number of hours of work by those employees (nonovertime and overtime hours) and increasing that sum by one-half of the total number of overtime hours;
+
+(iii) Divide the amount of the group bonus by the total number of boosted hours for all employees under the group bonus plan to determine the amount of the bonus allocable to each hour; and (iv) Multiply this hourly bonus amount by the number of boosted hours credited to each individual employee in the bonus period to determine each employee's share of the group bonus.
+
+[64 FR 69181, Dec. 10, 1999]

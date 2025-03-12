@@ -1,0 +1,3 @@
+##### § 330.33 Must carriers certify the truth and accuracy of data they submit? #####
+
+Yes, with respect to all information submitted or retained under §§ 330.27-330.31 and 330.35, your Chief Executive Officer (CEO), Chief Financial Officer (CFO), or Chief Operating Officer (COO) or, if those titles are not used, the equivalent officer, must certify that the submitted information was prepared under his or her supervision and is true and accurate, under penalty of law.

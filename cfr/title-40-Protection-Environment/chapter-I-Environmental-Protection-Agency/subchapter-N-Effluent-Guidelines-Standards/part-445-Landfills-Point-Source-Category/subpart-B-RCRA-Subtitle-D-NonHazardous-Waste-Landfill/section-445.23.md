@@ -1,0 +1,3 @@
+##### § 445.23 Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT). #####
+
+Except as provided in 40 CFR 125.30-125.32, any existing point source subject to this subpart must achieve the following effluent limitations which represent the application of BAT: Limitations for ammonia (as N), a-terpineol, benzoic acid, p-cresol, phenol and zinc are the same as the corresponding limitations specified in § 445.21.

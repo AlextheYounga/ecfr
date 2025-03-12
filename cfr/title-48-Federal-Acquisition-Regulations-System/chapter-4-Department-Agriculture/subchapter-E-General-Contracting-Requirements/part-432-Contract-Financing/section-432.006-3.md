@@ -1,0 +1,3 @@
+##### 432.006-3 Responsibilities. #####
+
+When a contracting officer suspects that a request for advance, partial, or progress payment is based on fraud, the request shall be referred directly to the Office of Inspector General (OIG) in accordance with their instructions. A copy of the referral shall be submitted through the head of the contracting activity (HCA) to the Senior Procurement Executive (SPE).

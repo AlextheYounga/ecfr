@@ -1,0 +1,5 @@
+##### § 176.715 Contamination control. #####
+
+Each hold, compartment, or deck area used for the transportation of low specific activity or surface contaminated object Class 7 (radioactive) materials under exclusive use conditions in accordance with § 173.427(b)(4), or § 173.427(c) must be surveyed with appropriate radiation detection instruments after each use. Such holds, compartments, and deck areas may not be used again for Class 7 (radioactive) materials exclusive use transport service, and then only for a subsequent exclusive use shipment utilizing the provisions of § 173.427(b)(4), or § 173.427(c) until the radiation dose rate at every accessible surface is less than 0.005 mSv/h (0.5 mrem/h), and the non-fixed contamination is not greater than the limits prescribed in § 173.443(a) of this subchapter.
+
+[79 FR 40618, July 11, 2014]

@@ -1,0 +1,3 @@
+##### § 60.4325 What emission limits must I meet for NOX if my turbine burns both natural gas and distillate oil (or some other combination of fuels)? #####
+
+You must meet the emission limits specified in Table 1 to this subpart. If your total heat input is greater than or equal to 50 percent natural gas, you must meet the corresponding limit for a natural gas-fired turbine when you are burning that fuel. Similarly, when your total heat input is greater than 50 percent distillate oil and fuels other than natural gas, you must meet the corresponding limit for distillate oil and fuels other than natural gas for the duration of the time that you burn that particular fuel.

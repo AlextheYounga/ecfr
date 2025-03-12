@@ -1,0 +1,3 @@
+##### 250.102-2 Contract adjustment boards. #####
+
+The Departments of the Army, Navy, and Air Force each have a contract adjustment board. The board consists of a Chair and not less than two nor more than six other members, one of whom may be designated the Vice-Chair. A majority constitutes a quorum for any purpose and the concurring vote of a majority of the total board membership constitutes an action of the board. Alternates may be appointed to act in the absence of any member.

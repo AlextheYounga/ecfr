@@ -1,0 +1,3 @@
+##### § 60.263 Standard for carbon monoxide. #####
+
+(a) On and after the date on which the performance test required to be conducted by § 60.8 is completed, no owner or operator subject to the provisions of this subpart shall cause to be discharged in to the atmosphere from any electric submerged arc furnace any gases which contain, on a dry basis, 20 or greater volume percent of carbon monoxide. Combustion of such gases under conditions acceptable to the Administrator constitutes compliance with this section. Acceptable conditions include, but are not limited to, flaring of gases or use of gases as fuel for other processes.

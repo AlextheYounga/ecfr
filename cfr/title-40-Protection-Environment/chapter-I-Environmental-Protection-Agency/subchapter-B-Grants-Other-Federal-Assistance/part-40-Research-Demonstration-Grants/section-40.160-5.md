@@ -1,0 +1,5 @@
+##### § 40.160-5 Final report. #####
+
+The grantee shall submit a draft of the final report for review no later than 90 days prior to the end of the approved project period. The report shall document project activities over the entire period of grant support and shall describe the grantee's achievements with respect to stated project purposes and objectives. The report shall set forth in complete detail all technical aspects of the projects, both negative and positive, grantee's findings, conclusions, and results, including, as applicable, an evaluation of the technical effectiveness and economic feasibility of the methods or techniques investigated or demonstrated. The final report shall include EPA comment when required by the grants officer. Within 120 days of the end of the project period, one reproducible copy suitable for printing and such other copies as may be stipulated in the grant agreement shall be transmitted to the grants officer as required by 2 CFR 200.344.
+
+[87 FR 30402, May 19, 2022]

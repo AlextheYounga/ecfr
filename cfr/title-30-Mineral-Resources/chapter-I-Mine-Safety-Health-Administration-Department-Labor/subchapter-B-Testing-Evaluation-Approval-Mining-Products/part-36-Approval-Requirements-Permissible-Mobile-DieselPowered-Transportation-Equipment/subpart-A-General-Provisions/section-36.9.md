@@ -1,0 +1,7 @@
+##### § 36.9 Conduct of investigations, tests, and demonstrations. #####
+
+(a) Prior to the issuance of a certificate of approval or a letter of certification, as the case may require, necessary Government personnel, representatives of the applicant, and such other persons as may be mutually agreed upon may observe the investigations or tests. MSHA shall hold as confidential and shall not disclose principles or patentable features prior to certification, nor shall it disclose any details of drawings, specifications, descriptions, or related materials. After the issuance of a certificate of approval, MSHA may conduct such public demonstrations and tests of the approved mobile diesel-powered transportation equipment as it deems appropriate. The conduct of all investigations, tests, and demonstrations shall be under the direction and control of MSHA, and any other persons shall be present only as observers, except as noted in paragraph (b) of this section.
+
+(b) When requested by MSHA, the applicant shall provide assistance in disassembling parts for inspection, preparing parts for testing, and operating equipment during the tests.
+
+[Sched. 31, 26 FR 645, Jan. 24, 1961, as amended at 39 FR 24006, June 28, 1974; 61 FR 55526, Oct. 25, 1996]

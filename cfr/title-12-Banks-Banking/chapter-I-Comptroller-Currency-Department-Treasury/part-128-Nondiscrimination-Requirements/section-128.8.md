@@ -1,0 +1,3 @@
+##### § 128.8 Complaints. #####
+
+Complaints alleging violations of the Fair Housing Act by a savings association shall be referred to the Assistant Secretary for Fair Housing and Equal Opportunity, U.S. Department of Housing and Urban Development, Washington, DC 20410 for processing under the Fair Housing Act, and to the appropriate Federal regulator for processing under applicable regulations. Complaints regarding discrimination in employment by a savings association should be referred to the Equal Employment Opportunity Commission, Washington, DC 20506 and a copy, for information only, sent to the appropriate Federal regulator.

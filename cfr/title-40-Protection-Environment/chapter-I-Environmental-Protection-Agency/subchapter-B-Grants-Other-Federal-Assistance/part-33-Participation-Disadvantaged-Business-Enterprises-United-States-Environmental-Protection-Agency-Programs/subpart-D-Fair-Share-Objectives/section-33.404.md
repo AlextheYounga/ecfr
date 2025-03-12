@@ -1,0 +1,3 @@
+##### § 33.404 When must a recipient negotiate fair share objectives with EPA? #####
+
+A recipient must submit its proposed MBE and WBE fair share objectives and supporting documentation to EPA within 120 days after its acceptance of its financial assistance award. EPA must respond in writing to the recipient's submission within 30 days of receipt, either agreeing with the submission or providing initial comments for further negotiation. Failure to respond within this time frame may be considered as agreement by EPA with the fair share objectives submitted by the recipient. MBE and WBE fair share objectives must be agreed upon by the recipient and EPA before funds may be expended for procurement under the recipient's financial assistance agreement.

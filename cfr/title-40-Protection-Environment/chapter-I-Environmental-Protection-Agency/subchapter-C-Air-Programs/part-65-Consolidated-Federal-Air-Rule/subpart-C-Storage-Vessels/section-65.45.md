@@ -1,0 +1,3 @@
+##### § 65.45 External floating roof converted into an internal floating roof. #####
+
+The owner or operator who elects to control storage vessel regulated material emissions by using an external floating roof converted into an internal floating roof shall comply with the internal floating roof requirements of § 65.43 except § 65.43(a)(3), (b)(2), and (b)(3) and the external floating roof deck fitting requirements of § 65.44 except § 65.44(a)(1), (a)(2), (b)(1), (b)(8), (b)(9), (c), and (d), including the recordkeeping and reporting provisions referenced therein.

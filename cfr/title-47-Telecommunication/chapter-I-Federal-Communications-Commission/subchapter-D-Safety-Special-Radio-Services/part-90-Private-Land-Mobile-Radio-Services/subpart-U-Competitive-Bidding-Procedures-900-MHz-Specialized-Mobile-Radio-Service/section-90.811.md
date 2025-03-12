@@ -1,0 +1,3 @@
+##### § 90.811 Reduced down payment for licenses won by small businesses. #####
+
+Each winning bidder that qualifies as a small business shall make a down payment equal to ten percent of its winning bid (less applicable bidding credits); a winning bidder shall bring its total amount on deposit with the Commission (including upfront payment) to five percent of its net winning bid within five (5) business days after the auction closes, and the remainder of the down payment (five percent) shall be paid within five (5) business days following Public Notice that the Commission is prepared to award the license. The Commission generally will grant the license within ten (10) business days after receipt of the remainder of the down payment.

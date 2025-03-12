@@ -1,0 +1,17 @@
+##### § 220.124 Installment sale of tax-shelter programs as “arranging” for credit. #####
+
+(a) The Board has been asked whether the sale by brokers and dealers of tax-shelter programs containing a provision that payment for the program may be made in installments would constitute “arranging” for credit in violation of this part 220. For the purposes of this interpretation, the term “tax-shelter program” means a program which is required to be registered pursuant to section 5 of the Securities Act of 1933 (15 U.S.C. section 77e), in which tax benefits, such as the ability to deduct substantial amounts of depreciation or oil exploration expenses, are made available to a person investing in the program. The programs may take various legal forms and can relate to a variety of industries including, but not limited to, oil and gas exploration programs, real estate syndications (except real estate investment trusts), citrus grove developments and cattle programs.
+
+(b) The most common type of tax-shelter program takes the form of a limited partnership. In the case of the programs under consideration, the investor would commit himself to purchase and the partnership would commit itself to sell the interests. The investor would be entitled to the benefits, and become subject to the risks of ownership at the time the contract is made, although the full purchase price is not then required to be paid. The balance of the purchase price after the downpayment usually is payable in installments which range from 1 to 10 years depending on the program. Thus, the partnership would be extending credit to the purchaser until the time when the latter's contractual obligation has been fulfilled and the final payment made.
+
+(c) With an exception not applicable here, § 220.7(a) of Regulation T provides that:
+
+A creditor [broker or dealer] may arrange for the extension or maintenance of credit to or for any customer of such creditor by any person upon the same terms and conditions as those upon which the creditor, under the provisions of this part, may himself extend or maintain such credit to such customer, but only such terms and conditions \* \* \*
+
+(d) In the case of credit for the purpose of purchasing or carrying securities (purpose credit), § 220.8 of the regulation (the Supplement to Regulation T) does not permit any loan value to be given securities that are not registered on a national securities exchange, included on the Board's OTC Margin List, or exempted by statute from the regulation.
+
+(e) The courts have consistently held investment programs such as those described above to be “securities” for purpose of both the Securities Act of 1933 and the Securities Exchange Act of 1934. The courts have also held that the two statutes are to be construed together. Tax-shelter programs, accordingly, are securities for purposes of Regulation T. They also are not registered on a national securities exchange, included on the Board's OTC Margin List, or exempted by statute from the regulation.
+
+(f) Accordingly, the Board concludes that the sale by a broker/dealer of tax-shelter programs containing a provision that payment for the program may be made in installments would constitute “arranging” for the extension of credit to purchase or carry securities in violation of the prohibitions of §§ 220.7(a) and 220.8 of Regulation T.
+
+[37 FR 6568, Mar. 31, 1972]

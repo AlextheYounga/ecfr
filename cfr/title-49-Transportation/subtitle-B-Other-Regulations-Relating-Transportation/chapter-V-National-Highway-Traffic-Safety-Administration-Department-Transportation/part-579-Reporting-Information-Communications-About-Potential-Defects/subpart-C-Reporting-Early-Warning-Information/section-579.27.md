@@ -1,0 +1,21 @@
+##### § 579.27 Reporting requirements for manufacturers of fewer than 100 buses annually, for manufacturers of fewer than 500 emergency vehicles annually, for manufacturers of fewer than 5,000 light vehicles, medium-heavy vehicles (other than buses and emergency vehicles), motorcycles or trailers annually, for manufacturers of original equipment, and for manufacturers of replacement equipment other than child restraint systems and tires. #####
+
+(a) *Applicability.* This section applies to all manufacturers of vehicles with respect to vehicles that are not covered by reports on light vehicles, medium-heavy vehicles and buses, motorcycles, or trailers submitted pursuant to §§ 579.21 through 579.24 of this part, to all manufacturers of original equipment, to all manufacturers of replacement equipment other than manufacturers of tires and child restraint systems, and to registered importers registered under 49 U.S.C. 30141(c).
+
+(b) *Information on incidents involving deaths.* For each reporting period, a manufacturer to which this section applies shall submit a report, pertaining to vehicles and/or equipment manufactured or sold during the calendar year of the reporting period and the nine calendar years prior to the reporting period (four calendar years for equipment), including models no longer in production, on each incident involving one or more deaths occurring in the United States that is identified in a claim against and received by the manufacturer or in a notice received by the manufacturer which notice alleges or proves that the death was caused by a possible defect in the manufacturer's vehicle or equipment, together with each incident involving one or more deaths occurring in a foreign country that is identified in a claim against and received by the manufacturer involving the manufacturer's vehicle or equipment, if it is identical or substantially similar to a vehicle or item of equipment that the manufacturer has offered for sale in the United States. The report shall be organized such that incidents are reported alphabetically by make, within each make alphabetically by model, and within each model chronologically by model year. If a manufacturer has not received such a claim or notice during a reporting period, the manufacturer need not submit a report to NHTSA for that reporting period.
+
+(c) For each incident described in paragraph (b) of this section, the manufacturer shall separately report the make, model, and model year of the vehicle or equipment, the VIN (for vehicles only), the incident date, the number of deaths, the number of injuries for incidents occurring in the United States, the State or foreign country where the incident occurred, each system or component of the vehicle or equipment that allegedly contributed to the incident, and whether the incident involved a fire or rollover, as follows:
+
+(1) For light vehicles, the system or component involved, and the existence of a fire or rollover, shall be identified and coded as specified in § 579.21(b)(2) of this part.
+
+(2) For medium-heavy vehicles and buses, the system or component involved, and the existence of a fire or rollover, shall be identified and coded as specified in § 579.22(b)(2) of this part.
+
+(3) For motorcycles, the system or component involved, and the existence of a fire, shall be identified and coded as specified in § 579.23(b)(2) of this part.
+
+(4) For trailers, the system or component involved, and the existence of a fire, shall be identified and coded as specified in § 579.24(b)(2) of this part.
+
+(5) For original and replacement equipment, a written identification of each component of the equipment that was allegedly involved, and whether there was a fire, in the manufacturer's own words.
+
+(6) For original and replacement equipment, if the production year of the equipment is unknown, the manufacturer shall specify the number “9999” in the field for model or production year.
+
+[67 FR 45873, July 10, 2002, as amended at 68 FR 18143, Apr. 15, 2003; 68 FR 35144, June 11, 2003; 74 FR 47758, Sept. 17, 2009]

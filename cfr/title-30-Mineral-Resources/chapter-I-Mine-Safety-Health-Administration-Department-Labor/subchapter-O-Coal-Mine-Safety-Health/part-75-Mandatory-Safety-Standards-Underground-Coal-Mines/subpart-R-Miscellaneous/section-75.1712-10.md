@@ -1,0 +1,3 @@
+##### § 75.1712-10 Underground sanitary facilities; maintenance. #####
+
+Sanitary toilets shall be regularly maintained in a clean and sanitary condition. Holding tanks shall be serviced and cleaned when full and in no case less than once each week by draining or pumping or by removing them to the surface for cleaning or recharging. Transfer tanks and transfer equipment used underground shall be equipped with suitable fittings to permit complete drainage of holding tanks without spillage and allow for the sanitary transportation of wastes to the surface. Waste shall be disposed of on the surface in accordance with State and local laws and regulations.

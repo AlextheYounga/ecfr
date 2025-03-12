@@ -1,0 +1,15 @@
+##### § 19.113 Recommended and final decisions. #####
+
+(a) The presiding officer must issue a recommended decision to the Comptroller within 20 days of the conclusion of the hearing or, when the petitioner has waived an oral hearing, within 20 days of the date fixed for the hearing. The presiding officer must serve promptly a copy of the recommended decision on the parties to the proceeding. The decision must include a summary of the facts and arguments of the parties.
+
+(b) Each party may, within ten days of being served with the presiding officer's recommended decision, submit to the Comptroller comments on the recommended decision.
+
+(c) Within 60 days of the conclusion of the hearing or, when the petitioner has waived an oral hearing, within 60 days from the date fixed for the hearing, the Comptroller must notify the petitioner by registered mail whether the suspension or removal from office, and prohibition from participation in any manner in the affairs of any depository institution, will be affirmed, terminated, or modified. The Comptroller's decision must include a statement of reasons supporting the decision. The Comptroller's decision is a final and unappealable order.
+
+(d) A finding of not guilty or other disposition of the charge on which a notice of suspension was based does not preclude the Comptroller from thereafter instituting removal proceedings pursuant to section 8(e) of the FDIA (12 U.S.C. 1818(e)) and subpart: A of this part.
+
+(e) A removal or prohibition by order remains in effect until terminated by the Comptroller. A suspension or prohibition by notice remains in effect until the criminal charge is disposed of or until terminated by the Comptroller.
+
+(f) A suspended or removed individual may petition the Comptroller to reconsider the decision any time after the expiration of a 12-month period from the date of the decision, but no petition for reconsideration may be made within 12 months of a previous petition. The petition must state specifically the relief sought and the grounds therefor, and may be accompanied by a supporting memorandum and any other documentation the petitioner wishes to have considered. No hearing need be granted on the petition for reconsideration.
+
+[56 FR 38028, Aug. 9, 1991, as amended at 61 FR 20337, May 6, 1996; 73 FR 22244, Apr. 24, 2008]

@@ -1,0 +1,5 @@
+##### § 352.1 Purpose. #####
+
+(a) One purpose of this part is to implement the spirit of section 504 of the Rehabilitation Act of 1973 (the Rehabilitation Act) as amended by section 119 of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978 and the Workforce Investment Act of 1998. Section 504 prohibits discrimination on the basis of disability in programs and activities conducted by a federal executive agency. Although the FDIC does not believe that Congress contemplated coverage of non-appropriated, independent regulatory agencies such as the FDIC, the FDIC has chosen to promulgate this final regulation to ensure that, to the extent practicable, persons with disabilities are provided with equal access to FDIC programs and activities.
+
+(b) This part is also intended to implement section 508 of the Rehabilitation Act as amended. Section 508 requires each federal agency or department to ensure that the electronic and information technology they procure allows individuals with disabilities access to that technology comparable to the access of those who are not disabled, unless the agency would incur an undue burden.

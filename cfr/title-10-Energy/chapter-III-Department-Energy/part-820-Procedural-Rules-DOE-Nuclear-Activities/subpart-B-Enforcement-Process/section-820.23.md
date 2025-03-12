@@ -1,0 +1,9 @@
+##### § 820.23 Consent order. #####
+
+(a) *Settlement policy.* DOE encourages settlement of an enforcement proceeding at any time if the settlement is consistent with the objectives of the Act and the DOE Nuclear Safety Requirements. The Director and a person may confer at any time concerning settlement. These settlement conferences shall not be open to the public and there shall be no transcript.
+
+(b) *Consent order.* Notwithstanding any other provision of this part, DOE may at any time resolve any or all issues in an outstanding enforcement proceeding with a Consent Order. A Consent Order must be signed by the Director and the person who is its subject, or a duly authorized representative, must indicate agreement to the terms contained therein and must be filed. A Consent Order need not constitute an admission by any person that the Act or a DOE Nuclear Safety Requirement has been violated, nor need it constitute a finding by the DOE that such person has violated the Act or a DOE Nuclear Safety Requirement. A Consent Order shall, however, set forth the relevant facts which form the basis for the Order and what remedy, if any, is imposed.
+
+(c) *Effect on enforcement adjudication.* If a Consent Order is signed after the commencement of an enforcement adjudication, the adjudication of the issues subject to the Consent Order shall be stayed until the completion of the Secretarial Review Process. If the Consent Order becomes a Final Order, the adjudication shall be terminated or modified as specified in the Order.
+
+(d) *Secretarial review.* A Consent Order shall become a Final Order 30 days after it is filed unless the Secretary files a rejection of the Consent Order or a Modified Consent Order. A Modified Consent Order shall become a Final Order if the Director and the person who is its subject sign it within 15 days of its filing.

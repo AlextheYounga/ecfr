@@ -1,0 +1,5 @@
+##### 209.105-2-70 Inclusion of determination of contractor fault in Federal Awardee Performance and Integrity Information System (FAPIIS). #####
+
+If the contractor or a subcontractor at any tier is not subject to the jurisdiction of the U.S. courts and the DoD appointing official that requested a DoD investigation makes a final determination that a contractor's or subcontractor's gross negligence or reckless disregard for the safety of civilian or military personnel of the Government caused serious bodily injury or death of such personnel, the contracting officer shall enter in FAPIIS the appropriate information regarding such determination within three days of receiving notice of the determination, pursuant to section 834 of the National Defense Authorization Act for Fiscal Year 2011 (Pub. L. 111-383). Information posted in FAPIIS regarding such determinations will be publicly available.
+
+[76 FR 57677, Sept. 16, 2011]

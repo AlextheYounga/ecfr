@@ -1,0 +1,3 @@
+##### 212.7102-2 Reporting requirements. #####
+
+Departments and agencies shall prepare a consolidated annual report to provide information about contracts awarded under this pilot authority. The report shall be submitted to the Office of the Deputy Director, Defense Procurement and Acquisition Policy (Contract Policy and International Contracting), by October 31 each year in accordance with the procedures at PGI 212.7102. See PGI 212.7102 for annual reporting format.

@@ -1,0 +1,3 @@
+##### § 205.309 Filing procedures and fees. #####
+
+Applications shall be addressed to the Office of Utility Systems of the Economic Regulatory Administration. Every application shall be accompanied by a fee of $500.00. Fee payment shall be by check, draft, or money order payable to the Treasurer of the United States. Copies of applications and notifications of rate changes shall be furnished to the Federal Energy Regulatory Commission and all affected State public utility regulatory agencies.

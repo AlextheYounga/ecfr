@@ -1,0 +1,3 @@
+##### § 4.3 Purpose of the Library. #####
+
+The purpose of the Library is to assist the advancement of medical and related sciences and aid the dissemination and exchange of scientific and other information important to the progress of medicine and the public health. The Library acquires and maintains library materials pertinent to medicine, including audiovisual materials; compiles, publishes, and disseminates catalogs, indices, and bibliographies of these materials, as appropriate; makes available materials, through loan or otherwise; provides reference and other assistance to research; and engages in other activities in furtherance of this purpose.

@@ -1,0 +1,3 @@
+##### § 137.288 What is the National Historic Preservation Act (NHPA)? #####
+
+The NHPA requires Federal agencies to take into account the effects of their undertakings, such as construction projects, on properties covered by the NHPA, such as historic properties, properties eligible for listing on the National Register of Historic Places, or properties that an Indian Tribe regards as having religious and/or cultural importance. Section 106 of the NHPA [16 U.S.C. 470f] requires Federal agencies to afford the Advisory Council on Historic Preservation, acting through the SHPO or the THPO, a reasonable opportunity to comment on such undertakings.

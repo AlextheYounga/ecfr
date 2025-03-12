@@ -1,0 +1,9 @@
+##### § 1040.6 Notice. #####
+
+(a) A recipient shall take appropriate, initial and continuing steps to notify participants, beneficiaries, applicants and employees, including those with impaired vision or hearing, and unions or professional organizations holding collective bargaining or professional agreements with the recipient that it does not discriminate on the basis of race, color, national origin, sex (where sec. 16 or sec. 401 apply), handicap, or age. The notification is to state, where appropriate, that the recipient does not discriminate in admission or access to, and treatment of, or employment in its programs or activities and inform employees of their rights under this part. The notification is to include an identification of the responsible employee designated under § 1040.5. A recipient shall make the initial notification required by this paragraph within 90 days of the effective date of this part. Methods of initial and continuing notification may include the posting of notices, publication in newspapers and magazines, placement of notices in recipients' publications, and distribution of memoranda or other written communications.
+
+(b) If a recipient publishes or uses recruitment materials or publications containing general information that it makes available to participants, beneficiaries, applicants, or employees, it shall include in those materials or publications a statement of the policy described in paragraph (a) of this section. A recipient may meet the requirement of this paragraph either by including appropriate inserts in existing materials and publications or by revising and reprinting the materials and publications.
+
+(c) The provisions of § 1040.5(c) to provide information in appropriate languages (including braille), apply to this section.
+
+[45 FR 40515, June 13, 1980, as amended at 68 FR 51346, Aug. 26, 2003]

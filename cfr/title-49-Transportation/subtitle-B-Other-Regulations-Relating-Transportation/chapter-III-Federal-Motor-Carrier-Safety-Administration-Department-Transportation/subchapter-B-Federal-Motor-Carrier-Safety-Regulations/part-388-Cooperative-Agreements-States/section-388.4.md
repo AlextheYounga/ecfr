@@ -1,0 +1,7 @@
+##### § 388.4 Exchange of information. #####
+
+(a) *Federal Motor Carrier Safety Administration furnishing information to State.* Information that comes to the attention of an employee of the Federal Motor Carrier Safety Administration in the course of his/her official duties of investigation, inspection, or examination of the property, equipment, and records of a motor carrier or others, pursuant to 49 U.S.C. 504(c), and that is believed to be a violation of any law or regulation of the State pertaining to unsafe motor carrier operations and practices, shall be communicated to the appropriate State authority by an official of the Federal Motor Carrier Safety Administration.
+
+(b) *State furnishing information to Federal Motor Carrier Safety Administration.* Information that comes to the attention of a duly authorized agent of the State in the course of his/her official duties of investigation, inspection, or examination of the property, equipment, and records of a motor carrier or others, and that is believed to be a violation of any provision of the safety or hazardous materials laws of the United States concerning highway transportation or the regulations of the Federal Motor Carrier Safety Administration thereunder, shall be communicated to the Field Administrator.
+
+[51 FR 12621, Apr. 14, 1986, as amended at 67 FR 61824, Oct. 2, 2002]

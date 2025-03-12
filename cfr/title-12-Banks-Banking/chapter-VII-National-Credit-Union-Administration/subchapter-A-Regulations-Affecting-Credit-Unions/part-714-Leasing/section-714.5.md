@@ -1,0 +1,3 @@
+##### § 714.5 What is required if you rely on an estimated residual value greater than 25% of the original cost of the leased property? #####
+
+If the amount of the estimated residual value you rely upon to satisfy the full payout lease requirement of § 714.4(b) exceeds 25% of the original cost of the leased property, a financially capable party must guarantee the excess. The guarantor may be the manufacturer. The guarantor may also be an insurance company with an A.M. Best rating of at least a B + , or with at least the equivalent of an A.M. Best B + rating from another major rating company. You must obtain or have on file financial documentation demonstrating that the guarantor has the resources to meet the guarantee.

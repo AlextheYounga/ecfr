@@ -1,0 +1,7 @@
+##### § 52.2306 Particulate Matter (PM10) Group II SIP commitments. #####
+
+On July 18, 1988, the Governor of Texas submitted a revision to the State Implementation Plan (SIP) that contained commitments for implementing all of the required activities including monitoring, reporting, emission inventory, and other tasks that may be necessary to satisfy the requirements of the PM10 Group II SIPs. The Texas Air Control Board adopted these revisions on May 13, 1988. The State of Texas has committed to comply with the PM10 Group II SIP requirements, as articulated in the Federal Register notice of July 1, 1987 (52 FR 24670), for the defined areas of Dallas, Harris, Lubbock, and Nueces counties as provided in the Texas PM10 Group II SIPs. In addition to the SIP, a letter from the Governor of Texas, dated July 18, 1988, stated that:
+
+\* \* \* In the July 1, 1987 issue of the Federal Register, the U.S. Environmental Protection Agency announced the requirement that each state submit a committal SIP for PM10 Group II areas instead of full control strategies. States were also required to submit demonstrations of attainment and maintenance of the PM10 National Ambient Air Quality Standards. The TACB is committed to carrying out the activities contained in the enclosed proposed SIP to satisfy those requirements \* \* \*.
+
+[54 FR 25586, June 16, 1989]

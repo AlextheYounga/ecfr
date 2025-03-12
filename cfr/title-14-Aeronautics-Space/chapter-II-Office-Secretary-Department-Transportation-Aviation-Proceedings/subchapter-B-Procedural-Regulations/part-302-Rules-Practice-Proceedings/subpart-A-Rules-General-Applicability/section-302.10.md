@@ -1,0 +1,7 @@
+##### § 302.10 Parties. #####
+
+(a) In addition to the persons set forth in § 302.2, in hearing cases, parties shall include Department staff designated to participate in the proceeding and any persons authorized to intervene or granted permission to participate in accordance with §§ 302.19 and 302.20. In any proceeding directly involving air transportation to the Federated States of Micronesia, the Marshall Islands or Palau, these governments or their designated authorities shall be a party.
+
+(b) Upon motion and for good cause shown, the Department may order a substitution of parties, except that in case of the death of a party, substitution may be ordered without the filing of a motion.
+
+(c) An association composed entirely or in part of air carriers may participate in any proceedings of the Department to which the Department's procedural regulations apply if the association represents members that are identified in any documents filed with the Department, and that have specifically authorized the positions taken by the association in that proceeding. The specific authorizations may be informal and evidence of them shall be provided only upon request of the Department. Upon motion of any interested person or upon its own initiative, the Department may issue an order requiring an association to withdraw from a case on the grounds of significant divergence of interest or position within the association.

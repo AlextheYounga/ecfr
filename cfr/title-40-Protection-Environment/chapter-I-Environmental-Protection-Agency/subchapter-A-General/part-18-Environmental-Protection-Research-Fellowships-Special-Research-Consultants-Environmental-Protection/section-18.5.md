@@ -1,0 +1,3 @@
+##### § 18.5 Qualifications for Environmental Protection Research Fellowships. #####
+
+Scholastic and other qualifications shall be prescribed by the Administrator or designee for each Environmental Protection Research fellowship, or series of Environmental Protection Research fellowships. Each individual appointed to an Environmental Protection Research fellowship shall: have presented satisfactory evidence of general suitability, including professional and personal fitness; possess any other qualifications as reasonably may be prescribed; and meet all requirements and standards for documentation and disclosure of conflicts of interest and ethical professional conduct.

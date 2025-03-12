@@ -1,0 +1,5 @@
+##### § 1177.1 Definitions and classifications of documents. #####
+
+(a) A “primary document” is a mortgage (excluding those under the Ship Mortgage Act of 1920, as amended—46 U.S.C. *et seq.*), lease, equipment trust agreement, conditional sales agreement, assignment of a lease or leases which have not previously been filed, or other instrument evidencing the mortgage, lease, conditional sale, or bailment of one or more vessels operated subject to Surface Transportation Board jurisdiction, railroad cars, locomotives, or other rolling stock for a use related to interstate commerce.
+
+(b) A “secondary document” is any assignment of rights or interest, supplement, or amendment to any primary or other secondary document. These include releases, discharges, or satisfactions, either total or partial.

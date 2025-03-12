@@ -1,0 +1,3 @@
+##### § 900.710 Procedure for effecting compliance. #####
+
+When the Office of Personnel Management determines that a recipient has failed or threatens to fail to comply with this subpart and the noncompliance or threatened noncompliance cannot be corrected by informal means, OPM may suspend or terminate or refuse to grant or continue financial assistance as provided in § 900.408 of title 5 of the Code of Federal Regulations.

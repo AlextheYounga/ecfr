@@ -1,0 +1,3 @@
+##### § 353.206 Documentation upon return. #####
+
+Upon request, a returning employee who was absent for more than 30 days, or was hospitalized or convalescing from an injury or illness incurred in or aggravated during the performance of service in the uniformed services, must provide the agency with documentation that establishes the timeliness of the application for reemployment, and length and character of service. If documentation is unavailable, the agency must restore the employee until documentation becomes available.

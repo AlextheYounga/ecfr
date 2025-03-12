@@ -1,0 +1,3 @@
+##### § 135.433 Maintenance and preventive maintenance training program. #####
+
+Each certificate holder or a person performing maintenance or preventive maintenance functions for it shall have a training program to ensure that each person (including inspection personnel) who determines the adequacy of work done is fully informed about procedures and techniques and new equipment in use and is competent to perform that person's duties.

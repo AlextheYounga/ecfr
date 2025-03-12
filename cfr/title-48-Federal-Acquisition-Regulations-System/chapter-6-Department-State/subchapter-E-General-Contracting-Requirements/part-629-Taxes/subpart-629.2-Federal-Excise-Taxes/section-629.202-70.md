@@ -1,0 +1,3 @@
+##### 629.202-70 Exemptions from other Federal taxes. #####
+
+Taxable articles purchased for presentation abroad as gifts to foreign dignitaries and taxable articles purchased for presentation as gifts to foreign dignitaries visiting in the United States but which are to be taken out of the United States may be exempt from retail taxes or manufacturers excise taxes, in accordance with the letter of October 18, 1963, from the Chief, Excise Tax Branch, Internal Revenue Service.

@@ -1,0 +1,3 @@
+##### § 236.528 Restrictive condition resulting from open hand-operated switch; requirement. #####
+
+When a facing point hand-operated switch is open one-fourth inch or more, a trailing point hand-operated switch three-eighths inch or more, or hand-operated switch is not locked where facing point lock with circuit controller is used, the resultant restrictive condition of an automatic train stop or train control device of the continuous type or the resultant restrictive cab signal indication of an automatic cab signal device on an approaching locomotive shall be maintained to within 300 feet of the points of the switch.

@@ -1,0 +1,5 @@
+##### § 35.8 Conduct of investigations, tests, and demonstrations. #####
+
+Prior to the issuance of a certificate of approval, necessary Government personnel, representatives of the applicant, and such other persons as may be mutually agreed upon, may observe the investigations or tests. MSHA shall hold as confidential and shall not disclose features of this hydraulic fluid such as the chemical analysis, specifications, descriptions, and related material. After issuing a certificate of approval MSHA may conduct such public demonstrations and tests of the approved hydraulic fluid as it deems appropriate. The conduct of all investigations, tests, and demonstrations shall be under the direction and control of MSHA, and any other persons shall be present only as observers.
+
+[Sched. 30, 24 FR 10201, Dec. 17, 1959, as amended at 39 FR 24005, June 28, 1974]

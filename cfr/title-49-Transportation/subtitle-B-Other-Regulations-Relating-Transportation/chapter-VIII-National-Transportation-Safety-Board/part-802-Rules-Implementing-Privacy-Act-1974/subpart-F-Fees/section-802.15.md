@@ -1,0 +1,3 @@
+##### § 802.15 Fees. #####
+
+No fees shall be charged for providing the first copy of a record, or any portion thereof, to individuals to whom the record pertains. The fee schedule for other records is the same as that appearing in the appendix to part 801 of this chapter, implementing the FOIA, as amended from time to time, except that the cost of any search for and review of the record shall not be included in any fee under this Act, pursuant to subsection (f)(5) of the Act.

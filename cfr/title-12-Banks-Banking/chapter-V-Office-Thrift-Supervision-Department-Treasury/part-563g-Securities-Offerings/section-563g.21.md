@@ -1,0 +1,3 @@
+##### § 563g.21 Filing of copies of offering circulars in certain exempt offerings. #####
+
+A copy of the offering circular, or similar document, if any, used in connection with an offering exempt from the offering circular requirement of § 563g.2 by reason of § 563g.3(e) or § 563g.4 of this part shall be mailed to the Office within 30 days after the first sale of such securities. Such copy of the offering circular, or similar document, is solely for the information of the Office and shall not be deemed to be “filed” with the Office pursuant to § 563g.2 of this part. The mailing to the Office of such offering circular, or similar document, shall not be a pre-condition of the applicable exemption from the offering circular requirements of § 563g.2 of this part.

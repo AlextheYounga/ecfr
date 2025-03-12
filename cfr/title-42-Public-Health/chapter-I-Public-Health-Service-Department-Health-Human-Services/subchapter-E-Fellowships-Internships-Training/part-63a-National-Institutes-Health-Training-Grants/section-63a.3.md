@@ -1,0 +1,3 @@
+##### § 63a.3 What is the purpose of training grants? #####
+
+The purpose of a training grant is to provide financial assistance to an eligible agency or institution to enable it to provide research training to individuals in the diagnosis, prevention, treatment, or control of human diseases or disorders, or other aspects of human health or biomedical research, or in environmental health, in order to increase the number of facilities which provide qualified training and the number of persons having special competence in these fields.

@@ -1,0 +1,5 @@
+##### § 563.3 Application. #####
+
+This part applies to the following vehicles manufactured on or after September 1, 2012, if they are equipped with an event data recorder: passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of 3,855 kg (8,500 pounds) or less and an unloaded vehicle weight of 2,495 kg (5,500 pounds) or less, except for walk-in van-type trucks or vehicles designed to be sold exclusively to the U.S. Postal Service. This part also applies to manufacturers of those vehicles. However, vehicles manufactured before September 1, 2013 that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having been previously certified to the Federal motor vehicle safety standards in accordance with part 567 of this chapter need not meet the requirements of this part.
+
+[73 FR 2179, Jan. 14, 2008]

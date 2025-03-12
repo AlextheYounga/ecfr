@@ -1,0 +1,11 @@
+##### § 36.57 Radiation surveys. #####
+
+(a) A radiation survey of the area outside the shielding of the radiation room of a panoramic irradiator must be conducted with the sources in the exposed position before the facility starts to operate. A radiation survey of the area above the pool of pool irradiators must be conducted after the sources are loaded but before the facility starts to operate. Additional radiation surveys of the shielding must be performed at intervals not to exceed 3 years and before resuming operation after addition of new sources or any modification to the radiation room shielding or structure that might increase dose rates.
+
+(b) If the radiation levels specified in § 36.25 are exceeded, the facility must be modified to comply with the requirements in § 36.25.
+
+(c) Portable radiation survey meters must be calibrated at least annually to an accuracy of ±20 percent for the gamma energy of the sources in use. The calibration must be done at two points on each scale or, for digital instruments, at one point per decade over the range that will be used. Portable radiation survey meters must be of a type that does not saturate and read zero at high radiation dose rates.
+
+(d) Water from the irradiator pool, other potentially contaminated liquids, and sediments from pool vacuuming must be monitored for radioactive contamination before release to unrestricted areas. Radioactive concentrations must not exceed those specified in 10 CFR part 20, table 2, column 2 or table 3 of appendix B, “Annual Limits on Intake (ALIs) and Derived Air Concentrations (DACs) of Radionuclides for Occupational Exposure; Effluent Concentrations; Concentrations for Release to Sewerage.”
+
+(e) Before releasing resins for unrestricted use, they must be monitored before release in an area with a background level less than 0.5 microsievert (0.05 millirem) per hour. The resins may be released only if the survey does not detect radiation levels above background radiation levels. The survey meter used must be capable of detecting radiation levels of 0.5 microsievert (0.05 millirem) per hour.

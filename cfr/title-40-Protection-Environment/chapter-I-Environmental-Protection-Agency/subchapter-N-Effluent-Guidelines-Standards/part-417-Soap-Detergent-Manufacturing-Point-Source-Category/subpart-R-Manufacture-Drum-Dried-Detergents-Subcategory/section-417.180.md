@@ -1,0 +1,3 @@
+##### § 417.180 Applicability; description of the manufacture of drum dried detergents subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the operations associated with the manufacture of detergents by drum drying, including, but not limited to, drying of formulations on heated drums or rollers, conversion of dried detergents to powders or flakes, and packaging of finished products.

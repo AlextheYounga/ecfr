@@ -1,0 +1,7 @@
+##### § 1.3 Exercise of authority. #####
+
+(a) In exercising powers and performing duties delegated by this part or redelegated pursuant thereto, officials of the Department of Transportation are governed by applicable laws, Executive Orders and regulations and by policies, objectives, plans, standards, procedures, and limitations as may be issued from time to time by or on behalf of the Secretary, or, with respect to matters under their jurisdictions, by or on behalf of the Deputy Secretary, the Under Secretary, the General Counsel, an Assistant Secretary, the Inspector General, or an Administrator. This includes, wherever specified, the requirement for advance notice to, prior coordination with, or prior approval by an authority other than that of the official proposing to act.
+
+(b) Subject to the reservations of authority to the Secretary of Transportation in § 1.21, the Deputy Secretary, the Under Secretary, the General Counsel, the Assistant Secretaries, the Inspector General, and the Administrators exercise the powers and perform the duties delegated to them under this part.
+
+(c) For delegations of authority vested in the Secretary by Executive Order 13526 (see also Executive Orders 12958 and 12065) originally to classify documents as secret and confidential, see § 8.11 of this subtitle. Previous delegations of authority to Department of Transportation officials to originally classify information as secret and confidential are hereby rescinded.

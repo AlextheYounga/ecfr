@@ -1,0 +1,3 @@
+##### § 35.6245 Allowable activities. #####
+
+Support agency activities are those activities conducted by the recipient to ensure its meaningful and substantial involvement. The activities described in section 121(f)(1) of CERCLA, as amended, and in subpart F of the NCP (40 CFR part 300), are eligible for funding under a support agency Cooperative Agreement. Participation in five-year reviews of the continuing protectiveness of a remedial action is also an eligible support agency activity.

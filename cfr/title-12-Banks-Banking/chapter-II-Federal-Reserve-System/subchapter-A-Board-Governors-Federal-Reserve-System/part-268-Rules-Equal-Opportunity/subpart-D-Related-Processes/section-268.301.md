@@ -1,0 +1,3 @@
+##### § 268.301 Negotiated grievance procedure. #####
+
+When an employee of the Board, which is not an agency subject to 5 U.S.C. 7121(d), is covered by a negotiated grievance procedure, allegations of discrimination shall be processed as complaints under this part, except that the time limits for processing the complaint contained in § 268.105 and for appeal to the Commission contained in § 268.402 may be held in abeyance during processing of a grievance covering the same matter as the complaint if the Board notifies the complainant in writing that the complaint will be held in abeyance pursuant to this section.

@@ -1,0 +1,7 @@
+##### § 63.10400 How do I demonstrate initial compliance? #####
+
+(a) Except as provided in paragraphs (b) and (c) of this section, you must demonstrate initial compliance with the management practice standard in § 63.10390 by submitting an Initial Notification of Compliance Status certifying that you are sterilizing full loads of items having a common aeration time except under medically necessary circumstances.
+
+(b) If you operate your sterilization unit(s) with an air pollution control device pursuant to a State or local regulation, you may demonstrate initial compliance with § 63.10390 by submitting an Initial Notification of Compliance Status certifying that you are operating the sterilization unit in accordance with your State or local regulation and following control device manufacturer's recommended procedures.
+
+(c) If you operate your sterilization unit(s) with an air pollution control device but are not subject to any State or local regulation, you may demonstrate initial compliance with § 63.10390 by submitting an Initial Notification of Compliance Status certifying that you are venting the ethylene oxide emissions from each sterilization unit to an add-on air pollution control device. You must certify that you are operating the control device during all sterilization processes and in accordance with manufacturer's recommended procedures.

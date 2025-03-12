@@ -1,0 +1,7 @@
+##### § 73.21 Civil money penalties. #####
+
+(a) The Inspector General of the Department of Health and Human Services is delegated authority to conduct investigations and to impose civil money penalties against any individual or entity in accordance with regulations in 42 CFR part 1003 for violations of the regulations in this part, as authorized by the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (Pub. L. 107-188). The delegation of authority includes all powers contained in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+
+(b) The administrative law judges in, assigned to, or detailed to the Departmental Appeals Board have been delegated authority to conduct hearings and to render decisions in accordance with 42 CFR part 1005 with respect to the imposition of civil money penalties, as authorized by the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (Pub. L. 107-188). This delegation includes, but is not limited to, the authority to administer oaths and affirmations, to subpoena witnesses and documents, to examine witnesses, to exclude or receive and give appropriate weight to materials and testimony offered as evidence, to make findings of fact and conclusions of law, and to determine the civil money penalties to be imposed.
+
+(c) The Departmental Appeals Board of the Department of Health and Human Services is delegated authority to make final determinations with respect to the imposition of civil money penalties for violations of the regulations of this part.

@@ -1,0 +1,9 @@
+##### § 35.3170 Corrective action. #####
+
+(a) *Causes.* If the RA determines that the State has not complied with requirements under title VI, the RA will notify the State of such noncompliance and prescribe the necessary corrective action. Failure to satisfy the terms of the capitalization grant agreement, including unmet conditions or assurances or invalid certifications, is grounds for a finding of noncompliance. In addition, if the State does not manage the SRF in a financially sound manner (e.g. allows consistent and substantial failures of loan repayments), the RA may take corrective action as provided under this section.
+
+(b) *RA's course of action.* In making a determination of noncompliance with the capitalization grant agreement and devising the corrective action, the RA will identify the nature and cause of the problems. The State's corrective action must remedy the specific instance of noncompliance and adjust program management to avoid noncompliance in the future.
+
+(c) *Consequences for failure to take corrective action.* If within 60 days of receipt of the noncompliance notice, a State fails to take the necessary actions to obtain the results required by the RA, or to provide an acceptable plan to achieve the results required, the RA shall withhold payments to the SRF until the State has taken acceptable actions. If the State fails to take the necessary corrective action deemed adequate by the RA within twelve months of receipt of the original notice, any withheld payments shall be deobligated and reallotted to other States.
+
+(d) *Releasing payments.* Once the State has taken the corrective action deemed necessary and adequate by the RA, the withheld payments will be released and scheduled payments will recommence.

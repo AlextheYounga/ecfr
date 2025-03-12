@@ -1,0 +1,7 @@
+##### § 18.209 Identification of authorized equipment. #####
+
+(a) Each device for which a grant of equipment authorization is issued under this part shall be identified pursuant to the applicable provisions of subpart J of part 2 of this chapter. Changes in the identification of authorized equipment may be made pursuant to § 2.933 of part 2 of this chapter. FCC Identifiers as described in §§ 2.925 and 2.926 of this chapter shall not be used on equipment subject to verification or Declaration of Conformity.
+
+(b) Devices authorized under the Declaration of Conformity procedure shall be labelled with the logo shown below. The label shall not be a stick-on, paper label. It shall be permanently affixed to the product and shall be readily visible to the purchaser at the time of purchase, as described in § 2.925(d) of this chapter. *Permanently affixed* means that the label is etched, engraved, stamped, silkscreened, indelibly printed, or otherwise permanently marked on a permanently attached part of the equipment or on a nameplate of metal, plastic, or other material fastened to the equipment by welding, riveting, or a permanent adhesive. The label must be designed to last the expected lifetime of the equipment in the environment in which the equipment may be operated and must not be readily detachable. The logo follows:
+
+![](/graphics/er07jy98.027.gif)[63 FR 36603, July 7, 1998]

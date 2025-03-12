@@ -1,0 +1,39 @@
+##### § 63.3890 What emission limits must I meet? #####
+
+(a) For a new or reconstructed affected source, you must limit organic HAP emissions to the atmosphere from the affected source to the applicable limit specified in paragraphs (a)(1) through (5) of this section, except as specified in paragraph (c) of this section, determined according to the requirements in § 63.3941, § 63.3951, or § 63.3961.
+
+(1) For each new general use coating affected source, limit organic HAP emissions to no more than 0.23 kilograms (kg) (1.9 pound (lb)) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(2) For each new high performance coating affected source, limit organic HAP emissions to no more than 3.3 kg (27.5 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(3) For each new magnet wire coating affected source, limit organic HAP emissions to no more than 0.050 kg (0.44 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(4) For each new rubber-to-metal coating affected source, limit organic HAP emissions to no more than 0.81 kg (6.8 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(5) For each new extreme performance fluoropolymer coating affected source, limit organic HAP emissions to no more than 1.5 kg (12.4 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(b) For an existing affected source, you must limit organic HAP emissions to the atmosphere from the affected source to the applicable limit specified in paragraphs (b)(1) through (5) of this section, except as specified in paragraph (c) of this section, determined according to the requirements in § 63.3941, § 63.3951, or § 63.3961.
+
+(1) For each existing general use coating affected source, limit organic HAP emissions to no more than 0.31 kg (2.6 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(2) For each existing high performance coating affected source, limit organic HAP emissions to no more than 3.3 kg (27.5 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(3) For each existing magnet wire coating affected source, limit organic HAP emissions to no more than 0.12 kg (1.0 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(4) For each existing rubber-to-metal coating affected source, limit organic HAP emissions to no more than 4.5 kg (37.7 lb) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(5) For each existing extreme performance fluoropolymer coating affected source, limit organic HAP emissions to no more than 1.5 kg (12.4 lbs) organic HAP per liter (gal) coating solids used during each 12-month compliance period.
+
+(c) If your facility's surface coating operations meet the applicability criteria of more than one of the subcategory emission limits specified in paragraphs (a) or (b) of this section, you may comply separately with each subcategory emission limit or comply using one of the alternatives in paragraph (c)(1) or (2) of this section.
+
+(1) If the general use or magnet wire surface coating operations subject to only one of the emission limits specified in paragraphs (a)(1), (3), (b)(1), or (3) of this section account for 90 percent or more of the surface coating activity at your facility (*i.e.,* it is the predominant activity at your facility), then compliance with that one emission limitations in this subpart for all surface coating operations constitutes compliance with the other applicable emission limits. You must use liters (gal) of solids used as a measure of relative surface coating activity over a representative period of operation. You may estimate the relative volume of coating solids used from parameters other than coating consumption and volume solids content (*e.g.,* design specifications for the parts or products coated and the number of items produced). The determination of predominant activity must accurately reflect current and projected coating operations and must be verifiable through appropriate documentation. The use of parameters other than coating consumption and volume solids content must be approved by the Administrator. You may use data for any reasonable time period of at least 1 year in determining the relative amount of coating activity, as long as they represent the way the source will continue to operate in the future and are approved by the Administrator. You must determine the predominant activity at your facility and submit the results of that determination with the initial notification required by § 63.3910(b). Additionally, you must determine the facility's predominant activity annually and include the determination in the next semi-annual compliance report required by § 63.3920(a).
+
+(2) You may calculate and comply with a facility-specific emission limit as described in paragraphs (c)(2)(i) through (iii) of this section. If you elect to comply using the facility-specific emission limit alternative, then compliance with the facility-specific emission limit and the emission limitations in this subpart for all surface coating operations constitutes compliance with this and other applicable surface coating NESHAP. In calculating a facility-specific emission limit, you must include coating activities that meet the applicability criteria of the other subcategories and constitute more than 1 percent of total coating activities. Coating activities that meet the applicability criteria of other surface coating NESHAP but comprise less than 1 percent of coating activities need not be included in the determination of predominant activity but must be included in the compliance calculation.
+
+(i) You are required to calculate the facility-specific emission limit for your facility when you submit the notification of compliance status required in § 63.3910(c), and on a monthly basis afterward using the coating data for the relevant 12-month compliance period.
+
+(ii) Use Equation 1 of this section to calculate the facility-specific emission limit for your surface coating operations for each 12-month compliance period.
+
+![](/graphics/er02ja04.002.gif)Where:Facility-specific emission limit = Facility-specific emission limit for each 12-month compliance period, kg (lb) organic HAP per kg (lb) coating solids used. Limiti = The new source or existing source emission limit applicable to coating operation, i, included in the facility-specific emission limit, converted to kg (lb) organic HAP per kg (lb) coating solids used, if the emission limit is not already in those units. All emission limits included in the facility-specific emission limit must be in the same units. Solidsi = The liters (gal) of solids used in coating operation, i, in the 12-month compliance period that is subject to emission limit, i. You may estimate the volume of coating solids used from parameters other than coating consumption and volume solids content (*e.g.,* design specifications for the parts or products coated and the number of items produced). The use of parameters other than coating consumption and volume solids content must be approved by the Administrator. n = The number of different coating operations included in the facility-specific emission limit.
+
+(iii) If you need to convert an emission limit in another surface coating NESHAP from kg (lb) organic HAP per kg (lb) coating solids used to kg (lb) organic HAP per liter (gal) coating solids used, you must use the default solids density of 1.26 kg solids per liter coating solids (10.5 lb solids per gal solids).

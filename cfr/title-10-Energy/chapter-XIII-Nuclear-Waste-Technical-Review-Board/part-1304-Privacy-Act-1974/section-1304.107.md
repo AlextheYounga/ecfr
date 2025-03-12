@@ -1,0 +1,3 @@
+##### § 1304.107 Fees. #####
+
+A fee will not be charged for searching, reviewing, or making corrections to records. A fee for copying will be assessed at the same rate established for Freedom of Information Act requests. Duplication fees for paper copies of a record will be 10 cents per page for black and white and 20 cents per page for color. For all other forms of duplication, the Board will charge the direct costs of producing the copy. However, the first 100 pages of black-and-white copying or its equivalent will be free of charge.

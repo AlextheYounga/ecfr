@@ -1,0 +1,3 @@
+##### § 422.200 Basis and scope. #####
+
+This subpart is based on sections 1852(a)(1), (a)(2), (b)(2), (c)(2)(D), (j), and (k) of the Act; section 1859(b)(2)(A) of the Act; and the general authority under 1856(b) of the Act requiring the establishment of standards. It sets forth the requirements and standards for the MA organization's relationships with providers including physicians, other health care professionals, institutional providers and suppliers, under contracts or arrangements or deemed contracts under MA private fee-for-service plans. This subpart also contains some requirements that apply to noncontracting providers.

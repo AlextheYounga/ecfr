@@ -1,0 +1,3 @@
+##### § 860.4 Unauthorized introduction of weapons or dangerous materials. #####
+
+Unauthorized carrying, transporting, or otherwise introducing or causing to be introduced any dangerous weapon, explosive, or other dangerous instrument or material likely to produce substantial injury or damage to persons or property, into or upon any facility, installation or real property subject to this part, is prohibited.

@@ -1,0 +1,5 @@
+##### § 1270.18 Additional requirements; notice of attachment for Book-entry consolidated obligations. #####
+
+(a) *Additional requirements.* In any case or any class of cases arising under the regulations in this part 1270, the Office of Finance may require such additional evidence and a bond of indemnity, with or without surety, as may in its judgment, or in the judgment of the Banks or FHFA, be necessary for the protection of the interests of the Banks, FHFA, the Office of Finance or the United States.
+
+(b) *Notice of attachment.* The interest of a debtor in a Security Entitlement may be reached by a creditor only by legal process upon the Securities Intermediary with whom the debtor's securities account is maintained, except where a Security Entitlement is maintained in the name of a secured party, in which case the debtor's interest may be reached by legal process upon the secured party. The regulations in this part 1270 do not purport to establish whether a Federal Reserve Bank is required to honor an order or other notice of attachment in any particular case or class of cases.

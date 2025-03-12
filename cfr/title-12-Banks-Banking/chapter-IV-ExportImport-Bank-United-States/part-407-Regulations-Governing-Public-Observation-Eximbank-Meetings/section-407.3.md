@@ -1,0 +1,7 @@
+##### § 407.3 Procedures applicable to regularly scheduled meetings. #####
+
+(a) *Announcements.* Regularly scheduled meetings of the Board of Directors will be held at 9:30 a.m. every Thursday in the Board Room (Room 1141) of the Bank's headquarters. In the event that a regularly scheduled meeting is rescheduled, public announcement of the time, date and place of such meeting will be made at the earliest practicable time in the form of a notice posted in the Office of the Secretary. An agenda setting forth the subject matter of each regularly scheduled meeting will be made available in the Office of the Secretary (Room 935), telephone number (202) (566-8871) at the earliest practicable time, *Provided,* That individual items may be added to or deleted from any agenda at any time. Inquiries from the public regarding any regularly scheduled meeting shall be directed to the Office of the Secretary.
+
+(b) *Voting.* At the beginning of each regularly scheduled meeting, the Board of Directors will vote by recorded vote on whether to close such meeting. No proxy vote will be permitted. A record of such vote indicating the vote of each Director will be posted in the Office of the Secretary immediately following the conclusion of such meeting.
+
+[42 FR 12417, Mar. 4, 1977, as amended at 47 FR 12136, Mar. 22, 1982; 49 FR 9560, Mar. 14, 1984; 49 FR 41237, Oct. 22, 1984; 50 FR 8606, Mar. 4, 1985; 72 FR 66043, Nov. 27, 2007]

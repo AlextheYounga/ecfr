@@ -1,0 +1,3 @@
+##### § 34.25 Transition rule. #####
+
+If, on October 1, 1988, a national bank had made a loan or binding commitment to lend under an ARM loan program that complied with the requirements of 12 CFR part 29 in effect prior to October 1, 1988 (see 12 CFR Parts 1 to 199, revised as of January 1, 1988) but would have violated any of the provisions of this subpart, the national bank may continue to administer the loan or binding commitment to lend in accordance with that loan program. All ARM loans or binding commitments to make ARM loans that a national bank entered into after October 1, 1988, must comply with all provisions of this subpart.

@@ -1,0 +1,7 @@
+##### § 302.408 Answers and replies. #####
+
+(a) Within fifteen (15) days after the date of service of a notice issued pursuant to § 302.407, the respondent shall file an answer to the complaint attached thereto or incorporated therein unless an answer has already been filed in accordance with § 302.405. Any requests for extension of time for filing of an answer to such complaint shall be filed in accordance with § 302.11.
+
+(b) All answers shall be served in accordance with § 302.7 and shall fully and completely advise the parties and the Department as to the nature of the defense and shall admit or deny specifically and in detail each allegation of the complaint unless the respondent is without knowledge, in which case, his or her answer shall so state and the statement shall operate as a denial. Allegations of fact not denied or controverted shall be deemed admitted. Matters alleged as affirmative defenses shall be separately stated and numbered and shall, in the absence of a reply, be deemed to be controverted. Any answer to a complaint, or response to a notice, proposing the assessment of civil penalties shall specifically present any matters that the respondent intends to rely upon in opposition to, or in mitigation of, such civil penalties.
+
+(c) The DOT decisionmaker or the administrative law judge may, in his or her discretion, require or permit the filing of a reply in appropriate cases; otherwise, no reply may be filed.

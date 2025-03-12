@@ -1,0 +1,7 @@
+##### § 281.31 Upgrading existing UST systems. #####
+
+In order to be considered no less stringent than the corresponding federal upgrading requirements, the state must have requirements that ensure existing UST systems meet the requirements of § 281.30; are upgraded to prevent releases for their operating life due to corrosion, spills, or overfills; or are permanently closed with the following exceptions:
+
+(a) Upgrade requirements for previously deferred UST systems. Previously deferred airport hydrant fuel distribution systems and UST systems with field-constructed tanks must within three years of the effective date of its state requirements meet the requirements of § 281.30 or be permanently closed. This provision would not apply, however, to states that did not defer these UST systems and already had, prior to the effective date of this provision, existing requirements with specified compliance periods for these types of UST systems.
+
+(b) Upgrade requirements for other UST systems. States may allow UST systems to be upgraded if the state determines that the upgrade is appropriate to prevent releases for the operating life of the UST system due to corrosion and spills or overfills.

@@ -1,0 +1,3 @@
+##### § 25.937 Turbopropeller-drag limiting systems. #####
+
+Turbopropeller power airplane propeller-drag limiting systems must be designed so that no single failure or malfunction of any of the systems during normal or emergency operation results in propeller drag in excess of that for which the airplane was designed under § 25.367. Failure of structural elements of the drag limiting systems need not be considered if the probability of this kind of failure is extremely remote.

@@ -1,0 +1,63 @@
+##### § 2638.504 Violations of noncriminal provisions related to government ethics. #####
+
+In the rare case that consultations made pursuant to § 2638.503 have not resolved the matter, the Director may use the procedures in this section if the Director has reason to believe that an employee is violating, or has violated, any noncriminal government ethics law or regulation. Any proceedings pursuant to this section will be conducted in accordance with applicable national security requirements.
+
+(a) *Agency investigation.* The Director may recommend that the agency head or the Inspector General conduct an investigation. If the Director determines thereafter that an agency head has not conducted an investigation within a reasonable time, the Director will notify the President.
+
+(b) *Initiating further proceedings.* Following an investigation pursuant to paragraph (a) of this section or a determination by the Director that an investigation has not been conducted within a reasonable time, the Director may either initiate further proceedings under this section or close the involvement of the Office of Government Ethics in the matter.
+
+(1) If the Director initiates further proceedings, the Director will notify the employee in writing of the suspected violation, the right to respond orally and in writing, and the right to be represented. The notice will include instructions for submitting a written response and requesting an opportunity to present an oral response, copies of this section and sections 401-403 of the Act, and copies of the material relied upon by the Office of Government Ethics.
+
+(2) If the Director is considering issuing an order directing the employee to take specific action to terminate an ongoing violation, the Director will also provide notice of the potential issuance of an order and the right to request a hearing, pursuant to paragraph (f) of this section.
+
+(c) *Employee's response.* The employee will be provided with a reasonable opportunity to present an oral response to the General Counsel of the Office of Government Ethics within 30 calendar days of the date of the employee's receipt of the notice described in paragraph (b) of this section. If the employee fails to timely request an opportunity to present an oral response or fails to cooperate with reasonable efforts to schedule the oral response, only a timely submitted written response will be considered.
+
+(d) *General Counsel's recommendation.* After affording the employee 30 calendar days to respond, the General Counsel will provide the Director with a written recommendation as to the action warranted by the circumstances. However, if the employee has timely exercised an applicable right to request a hearing pursuant to paragraph (g) of this section, the provisions of paragraph (g) will apply instead of the provisions of this paragraph.
+
+(1) If the employee has not had an opportunity to comment on any newly obtained material relied upon for the recommendation, the General Counsel will provide the employee with an opportunity to comment on that material before submitting the recommendation to the Director.
+
+(2) The recommendation will include findings of fact and a conclusion as to whether it is more likely than not that a violation has occurred. The General Counsel will provide the Director with copies of the material relied upon for the recommendation, including any timely written response and a transcript of any oral response of the employee.
+
+(3) In the case of an ongoing violation, the General Counsel may recommend an order directing the employee to take specific action to terminate the violation, provided that the employee has been afforded the notice required under paragraph (f) of this section and an opportunity for a hearing.
+
+(e) *Decisions and orders of the Director.* After reviewing the recommendation of the General Counsel pursuant to paragraph (d) of this section or, in the event of a hearing, the recommendation of the administrative law judge pursuant to paragraph (g)(7) of this section, the Director may issue a decision and, if applicable, an order. The authority of the Director to issue decisions and orders under this paragraph may not be delegated to any other official. The Director's decision will include written findings and conclusions with respect to all material issues and will be supported by substantial evidence of record.
+
+(1) A copy of the decision and order will be furnished to the employee and, if applicable, the employee's representative. Copies will also be provided to the DAEO and the head of the agency or, where the employee is the head of an agency, to the President. The Director's decision and any order will be posted on the official Web site of the Office of Government Ethics, except to the extent prohibited by law.
+
+(2) The Director's decision may include a nonbinding recommendation that appropriate disciplinary or corrective action be taken against the employee. If the agency head does not take the action recommended within a reasonable period of time, the Director may notify the President.
+
+(3) In the case of an ongoing violation, the Director may issue an order directing the employee to take specific action to terminate the violation, provided that the employee has been afforded the notice required under paragraph (f) of this section and an opportunity for a hearing.
+
+(f) *Notice of the right to request a hearing regarding an order to terminate a violation.* Before an order to terminate an ongoing violation may be recommended or issued under this section, the employee must be provided with written notice of the potential issuance of an order, the right to request a hearing, and instructions for requesting a hearing.
+
+(1) If the employee submits a written request for a hearing within 30 calendar days of the date of the employee's receipt of the notice, the hearing will be conducted pursuant to paragraph (g) of this section;
+
+(2) If the employee does not submit a written request for a hearing within 30 days of receipt of the notice, the General Counsel may issue a recommendation, pursuant to paragraph (d) of this section, in lieu of a hearing after first considering any timely response of the employee, pursuant to paragraph (c) of this section; and
+
+(3) If the employee timely submits written requests for both a hearing, pursuant to paragraph (f) of this section, and an oral response, pursuant to paragraph (c) of this section, only a hearing will be conducted, pursuant to paragraph (g) of this section.
+
+(g) *Hearings.* If, after receiving a notice required pursuant to paragraph (f) of this section, the employee submits a timely request for a hearing, an administrative law judge who has been appointed under 5 U.S.C. 3105 will serve as the hearing officer, and the following procedures will apply to the hearing. An employee of the Office of Government Ethics will be assigned to provide the administrative law judge with logistical support in connection with the hearing.
+
+(1) The General Counsel of the Office of Government Ethics will designate attorneys to present evidence and argument at the hearing in support of a possible finding that the employee is engaging in an ongoing violation. The General Counsel will serve as Advisor to the Director and will not, in connection with the presentation of evidence and argument against the employee, direct or supervise these attorneys. Any attorney who presents evidence, argument, or testimony against the employee at the hearing will be recused from assisting the Director or the General Counsel in connection with the contemplated order.
+
+(2) The administrative law judge will issue written instructions for the conduct of the hearing, including deadlines for submitting lists of proposed witnesses and exchanging copies of documentary evidence. The hearing will be conducted informally, and the administrative law judge may make such rulings as are necessary to ensure that the hearing is conducted equitably and expeditiously.
+
+(3) The parties to the hearing will be the employee and the attorneys of the Office of Government Ethics designated to present evidence and arguments supporting a finding that a violation is ongoing, respectively. The parties will not engage in *ex parte* communications with the administrative law judge, unless the administrative law judge authorizes limited *ex parte* communications regarding scheduling and logistical matters.
+
+(4) If either party requests assistance in securing the appearance of an approved witness who is an employee, the administrative law judge may, at his or her discretion, notify the General Counsel, who will assist the Director in requesting that the head of the employing agency produce the witness, pursuant to section 403(a)(1) of the Act. The Director will notify the President if an agency head fails to produce the approved witness.
+
+(5) The hearing will be conducted on the record and witnesses will be placed under oath and subject to cross-examination. Following the hearing, the administrative law judge will provide each party with a copy of the hearing transcript.
+
+(6) Hearings will generally be open to the public, but the administrative law judge may issue a written order closing, in whole or in part, the hearing in the best interests of national security, the employee, a witness, or an affected person. The order will set forth the reasons for closing the hearing and, along with any objection to the order by a party, will be made a part of the record. Unless specifically excluded by the administrative law judge, the DAEO of the employee's agency will be permitted to attend a closed hearing. If the administrative law judge denies a request by a party or an affected person to close the hearing, in whole or in part, that denial will be immediately appealable by the requester. The requester must file a notice of appeal with the Director within 3 working days. In the event that such a notice is filed, the hearing will be held in abeyance pending resolution of the appeal. The notice of appeal, exclusive of attachments, may not exceed 10 pages of double-spaced type. The Director will afford the parties and, if not a party, the requester the opportunity to make an oral presentation in person or via telecommunications technology within 3 working days of the filing of the appeal. The oral presentation will be conducted on the record. If the appellant or either party is unavailable to participate in the oral presentation within the 3-working-day period, the Director will convene the oral presentation without that party or affected person. The Director will issue a decision on the appeal within 3 working days of the oral presentation. If the Director is unavailable during this time period, the Director may designate a senior executive of the Office of Government Ethics to hear the oral presentation and decide the appeal. The notice of appeal, the record of the oral presentation, the decision on the appeal, and any other document considered by the Director or the Director's designee in connection with the appeal will be made a part of the record of the hearing.
+
+(7) After closing the record, the administrative law judge will certify the entire record to the Director for decision. When so certifying the record, the administrative law judge will make a recommended decision, which will include his or her written findings of fact and conclusions of law with respect to material issues. After considering the certified record, the Director may issue a decision and an order, pursuant to paragraph (e) of this section.
+
+(h) *Dismissal.* The Director may dismiss a proceeding under this section at any time, without a finding as to the alleged violation, upon a finding that:
+
+(1) The employee or the agency has taken appropriate action to address the Director's concerns;
+
+(2) The employee has undertaken, or agreed in writing to undertake, measures the Director deems satisfactory; or
+
+(3) A question has arisen involving the potential application of a criminal law.
+
+(i) *Notice procedure.* The notices required by paragraphs (b)(1) and (f) of this section may be delivered by U.S. mail, electronic mail, or personal delivery. There will be a rebuttable presumption that notice sent by U.S. mail is received within 5 working days. If the agency does not promptly provide the Office of Government Ethics with an employee's contact information upon request, the notice may be sent to the agency's DAEO, who will bear responsibility for promptly delivering that notice to the employee and promptly notifying the Director after its delivery.

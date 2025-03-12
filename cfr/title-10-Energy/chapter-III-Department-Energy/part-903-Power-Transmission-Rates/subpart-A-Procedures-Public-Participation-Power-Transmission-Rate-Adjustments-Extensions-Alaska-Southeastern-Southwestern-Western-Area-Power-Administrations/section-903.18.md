@@ -1,0 +1,3 @@
+##### § 903.18 Revision of proposed rates. #####
+
+During or after the consultation and comment period and review of the oral and written comments on the Proposed Rates, the Administrator may revise the Proposed Rates. If the Administrator determines that further public comment should be invited, the Administrator shall afford interested persons an appropriate period to submit further written comments to the PMA regarding the revised Proposed Rates. The Administrator may convene one or more additional public information and/or public comment forums. The Administrator shall give Notice of any such additional forums.

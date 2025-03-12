@@ -1,0 +1,5 @@
+##### § 9.103 General provisions. #####
+
+The Secretary shall ensure that all open Commission meetings are held in a location such that there is reasonable space and adequate visibility and acoustics, for public observation. No additional right to participate in Commission meetings is granted to any person by this subpart. An open meeting is not part of the formal or informal record of decision of the matters discussed therein except as otherwise required by law. Statements of views or expressions of opinion made by Commissioners or NRC employees at open meetings are not intended to represent final determinations or beliefs. Such statements may not be pleaded, cited, or relied upon before the Commission or in any proceeding under part 2 of these regulations (10 CFR part 2) except as the Commission may direct. Members of the public attending open Commission meetings may use small electronic sound recorders to record the meeting, but the use of other electronic recording equipment and cameras requires the advance written approval of the Secretary.
+
+[42 FR 12877, Mar. 7, 1977, as amended at 43 FR 13055, Mar. 29, 1978; 43 FR 37421, Aug. 23, 1978]

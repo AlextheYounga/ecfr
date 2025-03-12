@@ -1,0 +1,11 @@
+##### § 302.212 Procedures in certificate cases involving international routes. #####
+
+(a) *Applicability.* This section applies to cases involving certificates under section 41102 of the Statute that involve international routes, including applications to obtain, renew, amend, transfer, or remove restrictions in such certificates.
+
+(b) *Answers to applications.* Answers shall be filed within twenty one (21) days after the filing of the original application.
+
+(c) *Conforming applications or motions to modify scope.* Any person may file an application for the same authority as sought in an application to obtain, renew, or amend a certificate filed under paragraph (a) of this section. Requests to modify the issues to be decided and to consolidate applications filed in other dockets shall be filed as a “motion to modify scope.” Motions and applications under this section shall include economic data, other facts, and any argument in support of the person's position and must be filed within twenty one (21) days after the original application is filed. Later-filed competing applications shall conform to the base and forecast years used by the original applicant and need not contain traffic and financial data for markets for which data have already been submitted by another person.
+
+(d) *Answers to conforming applications or motions to modify scope.* Answers to conforming applications and motions to modify scope filed in accordance with paragraph (b) of this section shall be filed within fourteen (14) days after the filing of the conforming application or motion. Answers may argue that an application should be dismissed. Answers may also seek to consolidate an application filed in another docket if that application conforms to the scope of the proceeding proposed in the motion to modify scope and includes the information prescribed in § 302.202. Answers and applications shall not, however, propose the consideration of additional markets.
+
+(e) *Order establishing further procedures.* Within 90 days after a complete application is filed, the DOT decisionmaker will issue an order as provided in § 302.210.

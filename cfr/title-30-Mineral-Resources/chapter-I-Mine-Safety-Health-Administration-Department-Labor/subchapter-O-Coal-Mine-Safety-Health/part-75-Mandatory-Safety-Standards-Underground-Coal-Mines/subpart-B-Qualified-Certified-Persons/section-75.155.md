@@ -1,0 +1,13 @@
+##### § 75.155 Qualified hoisting engineer; qualifications. #####
+
+(a)(1) A person is a qualified hoisting engineer within the provisions of subpart O of this part, for the purpose of operating a steam-driven hoist in a coal mine, if he has at least 1 year experience as an engineer in a steam-driven hoisting plant and is qualified by the State in which the mine is located as a steam-hoisting engineer; or
+
+(2) If a State has no program for qualifying persons as steam-hoisting engineers, the Secretary may qualify persons for this purpose if the operator of the coal mine in which such persons are employed, or the independent contractor, makes an application and a satisfactory showing that each such person has had 1 year experience in operating steam-driven hoists and has held the position of hoisting engineer for a period of 6 months immediately preceding the application. A person's qualification is valid for as long as this person continues to satisfy the requirements necessary for qualification and is employed at the same coal mine or by the same independent contractor.
+
+(b)(1) A person is a qualified hoisting engineer within the provisions of subpart O of this part, for the purpose of operating an electrically driven hoist in a coal mine, if he has at least 1 year experience operating a hoist plant in a mine or maintaining electric-hoist equipment in a mine and is qualified by the State in which the mine is located as an electric-hoisting engineer; or
+
+(2) If a State has no program for qualifying persons as electric-hoisting engineers, the Secretary may qualify persons for this purpose if the operator of the coal mine in which such persons are employed, or the independent contractor, makes an application and a satisfactory showing that each such person has had 1 year experience in operating electric-driven hoists and has held the position of hoisting engineer for a period of 6 months immediately preceding the application. A person's qualification is valid for as long as this person continues to satisfy the requirements for qualification and is employed at the same coal mine or by the same independent contractor.
+
+(c) Applications for Secretarial qualification should be submitted to the Health and Safety Activity, Mine Safety and Health Administration, Certification and Qualification Center, P.O. Box 25367, Denver Federal Center, Denver, Colo. 80225.
+
+[35 FR 17894, Nov. 20, 1970, as amended at 43 FR 12320, Mar. 24, 1978; 54 FR 30515, July 20, 1989]

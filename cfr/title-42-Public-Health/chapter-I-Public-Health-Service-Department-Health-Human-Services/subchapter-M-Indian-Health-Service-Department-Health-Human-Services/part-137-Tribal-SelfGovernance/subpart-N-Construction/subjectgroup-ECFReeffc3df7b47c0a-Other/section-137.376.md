@@ -1,0 +1,3 @@
+##### § 137.376 Are design and construction projects performed by Self-Governance Tribes under section 509 of the Act [25 U.S.C. 458aaa-8] subject to Federal metric requirements? #####
+
+No, however, the Self-Governance Tribe and the Secretary may negotiate the use of Federal metric requirements in the construction project agreement when the Self-Governance Tribe will design and/or construct an IHS facility that the Secretary will own and operate.

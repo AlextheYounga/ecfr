@@ -1,0 +1,15 @@
+##### § 1042.302 Applicability of this subpart for Category 3 engines. #####
+
+If you produce Tier 3 or later Category 3 engines that are subject to the requirements of this part, you must test them as described in this subpart, except as specified in this section.
+
+(a) You must test each Category 3 engine at the sea trial of the vessel in which it is installed or within the first 300 hours of operation, whichever occurs first. This may involve testing a fully assembled production engine before it is installed in the vessel. For engines with on-off controls, you may omit testing to demonstrate compliance with Tier 2 standards if the engine does not rely on aftertreatment when Tier 3 emission controls are disabled. Since you must test each engine, the provisions of §§ 1042.310 and 1042.315(b) do not apply for Category 3 engines. If we determine that an engine failure under this subpart is caused by defective components or design deficiencies, we may revoke or suspend your certificate for the engine family as described in § 1042.340. If we determine that an engine failure under this subpart is caused only by incorrect assembly, we may suspend your certificate for the engine family as described in § 1042.325. If the engine fails, you may continue operating only to complete the sea trial and return to port. It is a violation of 40 CFR 1068.101(b)(1) to operate the vessel further until you remedy the cause of failure. Each two-hour period of such operation constitutes a separate offense. A violation lasting less than two hours constitutes a single offense.
+
+(b) You are only required to measure NOX emissions. You do not need to measure HC, CO or PM emissions under this subpart.
+
+(c) If you are unable to operate the engine at the test points for the specified duty cycle, you may approximate these points consistent with the specifications of section 6 of Appendix 8 to the NOX Technical Code (incorporated by reference in § 1042.910) and show compliance with the alternate installed-engine standard of § 1042.104(g). You must obtain EPA approval of your test procedure prior to testing the engine. Include in your request a description of your basis for concluding that the engine cannot be tested at the actual test points of the specified duty cycle.
+
+(d) You may measure NOX emissions at additional test points for the purposes of the continuous NOX monitoring requirements of § 1042.110(d). If you do, you must report these values along with your other test results. Describe in your application for certification how you plan to use these values for continuous NOX monitoring.
+
+(e) You may ask to measure emissions according to the Direct Measurement and Monitoring method specified in section 6.4 of the NOX Technical Code (incorporated by reference in § 1042.910).
+
+[75 FR 23003, Apr. 30, 2010, as amended at 81 FR 74149, Oct. 25, 2016; 86 FR 34510, June 29, 2021; 88 FR 4662, Jan. 24, 2023]

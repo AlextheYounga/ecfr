@@ -1,0 +1,3 @@
+##### § 91.193 Certificate of authorization for certain Category II operations. #####
+
+The Administrator may issue a certificate of authorization authorizing deviations from the requirements of §§ 91.189, 91.191, and 91.205(f) for the operation of small aircraft identified as Category A aircraft in § 97.3 of this chapter in Category II operations if the Administrator finds that the proposed operation can be safely conducted under the terms of the certificate. Such authorization does not permit operation of the aircraft carrying persons or property for compensation or hire.

@@ -1,0 +1,5 @@
+##### § 412.400 Basis and scope of subpart. #####
+
+(a) *Basis.* This subpart implements section 124 of Public Law 106-113, which provides for the implementation of a per diem-based prospective payment system for inpatient hospital services of inpatient psychiatric facilities.
+
+(b) *Scope.* This subpart sets forth the framework for the prospective payment system for the inpatient hospital services of inpatient psychiatric facilities, including the methodology used for the development of the Federal per diem rate, payment adjustments, implementation issues, and related rules. Under this system, for cost reporting periods beginning on or after January 1, 2005, payment for the operating and capital-related costs of inpatient hospital services furnished by inpatient psychiatric facilities to Medicare Part A fee-for-service beneficiaries is made on the basis of prospectively determined payment amount applied on a per diem basis.

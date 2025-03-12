@@ -1,0 +1,3 @@
+##### § 617.7115 How should a qualified lender disclose loan origination charges? #####
+
+Any one-time charge paid by a borrower to a qualified lender in consideration for making a loan must be included in the effective interest rate as a loan origination charge. These include, but are not limited to, loan origination fees, application fees, and conversion fees. Loan origination charges also include any payments made by a borrower to a qualified lender to reduce the interest rate that would otherwise be charged, including any charges designated as “points.”

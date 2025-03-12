@@ -1,0 +1,5 @@
+##### § 22.23 Objections and offers of proof. #####
+
+(a) *Objection.* Any objection concerning the conduct of the hearing may be stated orally or in writing during the hearing. The party raising the objection must supply a short statement of its grounds. The ruling by the Presiding Officer on any objection and the reasons given for it shall be part of the record. An exception to each objection overruled shall be automatic and is not waived by further participation in the hearing.
+
+(b) *Offers of proof.* Whenever the Presiding Officer denies a motion for admission into evidence, the party offering the information may make an offer of proof, which shall be included in the record. The offer of proof for excluded oral testimony shall consist of a brief statement describing the nature of the information excluded. The offer of proof for excluded documents or exhibits shall consist of the documents or exhibits excluded. Where the Environmental Appeals Board decides that the ruling of the Presiding Officer in excluding the information from evidence was both erroneous and prejudicial, the hearing may be reopened to permit the taking of such evidence.

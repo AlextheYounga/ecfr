@@ -1,0 +1,3 @@
+##### § 64.2321 Nondiscriminatory rates, terms, and conditions. #####
+
+For purposes of § 64.2309, a telecommunications carrier provides subscriber list information under nondiscriminatory rates, terms, and conditions only if the carrier provides subscriber list information gathered in its capacity as a provider of telephone exchange service to a requesting directory publisher at the same rates, terms, and conditions that the carrier provides the information to its own directory publishing operation, its directory publishing affiliate, or other directory publishers.

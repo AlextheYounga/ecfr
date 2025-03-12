@@ -1,0 +1,29 @@
+##### § 57.304 Payment of Federal capital contributions and reallocation of funds remitted to the Secretary. #####
+
+(a) *Annual payment.* The Secretary will make payments at a time determined by him or her, to each school with which he or she has entered into an agreement under the Act.
+
+(1) For any fiscal year for which “set-aside” funds are available, the Secretary will first make payments in the manner described in (a)(2) of this section of not less than $1,000,000 of the amount of Federal funds determined by the Secretary at the time of payment to be available for making loans under this subpart. These funds will be paid to schools submitting an application for “set-aside” funds to be used only for the purpose of making loans to individuals qualified to receive loans under this subpart who, on the date they receive the loan, have not been employed on a full-time basis or been enrolled in any educational institution on a full-time basis for at least 7 years. An individual may not receive a loan under this subparagraph that exceeds $500 for any academic year.
+
+(2) If the total of the amounts requested for any fiscal year by all schools for Federal capital contributions minus the amount received under paragraph (a)(1) of this section exceeds the amount of Federal funds determined by the Secretary at the time of payment to be available for this purpose, the payment to each school will be reduced to whichever is smaller: (i) The amount requested in the application, or (ii) an amount which bears the same ratio to the total amount of Federal funds determined by the Secretary at the time of payment to be available for that fiscal year for the Nursing Student Loan program as the number of full-time students estimated by the Secretary to be enrolled in that school bears to the estimated total number of full-time students in all participating schools during that year.
+
+(3) Amounts remaining after these payments are made will be distributed in accordance with this paragraph among schools whose applications requested more than the amount paid to them, but with whatever adjustments that may be necessary to prevent the total paid to any school from exceeding the total requested by it.
+
+(b) *Method of payment.* The payment of Federal capital contributions to a school will be paid in a manner that avoids unnecessary accumulations of money in any nursing student loan fund.
+
+(c) *Reallocation of funds remitted to the Secretary.* (1) All funds from a student loan fund established under this subpart which are remitted to the Secretary in any fiscal year shall be available for allotment under this subpart, in the same fiscal year and the succeeding fiscal year, to eligible nursing schools. In making these allotments, the Secretary shall give priority to nursing schools which established a student loan fund under this subpart after September 30, 1975. The Secretary will make payments to eligible schools at a time determined by him or her, according to the procedures indicated in paragraphs (c)(2) and (c)(3) of this section.
+
+(2) *Eligible schools which established a nursing student loan fund after September 30, 1975.* The Secretary will make awards first to those eligible schools that established a nursing student loan fund after September 30, 1975. If the total of the amounts requested for any fiscal year by these schools exceeds the amount of funds determined by the Secretary at the time of payment to be available for this purpose, the payment to each school will be reduced to whichever is smaller:
+
+(i) The amount requested in the application, or
+
+(ii) An amount which bears the same ratio to the total amount of returned funds determined by the Secretary at the time of payment to be available for that fiscal year for the Nursing Student Loan program as the number of full-time students estimated by the Secretary to be enrolled in that school bears to the estimated total number of full-time students in these eligible schools during that year.
+
+Amounts remaining after these payments are made will be distributed in accordance with this paragraph among schools whose applications requested more than the amount paid to them, with whatever adjustments may be necessary to prevent the total paid to any school from exceeding the total requested by it.
+
+(3) *Eligible schools which established a nursing student loan fund prior to October 1, 1975.* If there are funds remaining after making awards as specified by paragraph (c)(2) of this section, the Secretary will make awards to eligible schools which established a nursing student loan fund prior to October 1, 1975. If the total of the amounts requested for any fiscal year by these schools exceeds the amount of funds determined by the Secretary at the time of payment to be available for this purpose, the payment to each school will be reduced to whichever is smaller:
+
+(i) The amount requested in the application, or
+
+(ii) An amount which bears the same ratio to the total amount of returned funds determined by the Secretary at the time of payment to be available for that fiscal year for the Nursing Student Loan program as the number of full-time students estimated by the Secretary to be enrolled in that school bears to the estimated total number of full-time students in these eligible schools during that year.
+
+Amounts remaining after these payments are made will be distributed in accordance with this paragraph among schools whose applications requested more than the amount paid to them, with whatever adjustments may be necessary to prevent the total paid to any school from exceeding the total requested by it.[50 FR 34434, Aug. 13, 1985, as amended at 53 FR 46554, Nov. 17, 1988]

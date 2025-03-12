@@ -1,0 +1,3 @@
+##### § 60.32f Compliance times. #####
+
+Planning, awarding of contracts, installing, and starting up MSW landfill air emission collection and control equipment that is capable of meeting the Emission Guidelines under § 60.33f must be completed within 30 months after the date an NMOC emission rate report shows NMOC emissions equal or exceed 34 megagrams per year (50 megagrams per year for the closed landfill subcategory); or within 30 months after the date of the most recent NMOC emission rate report that shows NMOC emissions equal or exceed 34 megagrams per year (50 megagrams per year for the closed landfill subcategory), if Tier 4 surface emissions monitoring shows a surface emission concentration of 500 parts per million methane or greater.

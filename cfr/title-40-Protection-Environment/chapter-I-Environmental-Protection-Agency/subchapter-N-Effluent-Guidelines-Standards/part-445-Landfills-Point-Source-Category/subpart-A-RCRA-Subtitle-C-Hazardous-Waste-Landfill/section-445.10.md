@@ -1,0 +1,3 @@
+##### § 445.10 Applicability. #####
+
+Except as provided in § 445.1, this subpart applies to discharges of wastewater from landfills subject to the provisions of 40 CFR part 264, *Standards for Owners and Operators of Hazardous Waste Treatment, Storage, and Disposal Facilities, Subpart N-(Landfills);* and 40 CFR part 265, *Interim Status Standards for Owners and Operators of Hazardous Waste Treatment, Storage, and Disposal Facilities, Subpart N-(Landfills).*

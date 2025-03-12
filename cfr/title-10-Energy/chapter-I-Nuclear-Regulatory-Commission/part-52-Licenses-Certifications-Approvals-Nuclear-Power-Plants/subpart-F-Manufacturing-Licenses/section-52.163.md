@@ -1,0 +1,5 @@
+##### § 52.163 Administrative review of applications; hearings. #####
+
+A proceeding on a manufacturing license is subject to all applicable procedural requirements contained in 10 CFR part 2, including the requirements for docketing in § 2.101(a)(1) through (4) of this chapter, and the requirements for issuance of a notice of proposed action in § 2.105 of this chapter, *provided, however,* that the designated sections may not be construed to require that the environmental report or draft or final environmental impact statement include an assessment of the benefits of constructing and/or operating the manufactured reactor or an evaluation of alternative energy sources. All hearings on manufacturing licenses are governed by the hearing procedures contained in 10 CFR part 2, subparts C, E, G, L, and N.
+
+[72 FR 49517, Aug. 28, 2007, as amended at 78 FR 34249, June 7, 2013]

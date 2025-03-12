@@ -1,0 +1,3 @@
+##### § 221.5 Unauthorized air transportation. #####
+
+Tariff publications shall not contain fares or charges, or their governing provisions, applicable to foreign air transportation which the issuing or participating carriers are not authorized by the Department to perform, except where the Department expressly requests or authorizes tariff publications to be filed prior to the Department's granting authority to perform the foreign air transportation covered by such tariff publications. Any tariff publication filed pursuant to such express request or authorization which is not consistent with chapter 415 and this part may be rejected; any tariff publication so rejected shall be void.

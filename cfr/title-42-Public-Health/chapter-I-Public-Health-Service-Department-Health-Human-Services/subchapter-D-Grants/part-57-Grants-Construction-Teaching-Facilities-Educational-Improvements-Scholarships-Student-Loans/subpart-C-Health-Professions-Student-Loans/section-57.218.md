@@ -1,0 +1,3 @@
+##### § 57.218 Noncompliance. #####
+
+Wherever the Secretary finds that a participating school has failed to comply with the applicable provisions of the Act or the regulations of this subpart, he or she may, on reasonable notice to the school, withhold further payment of Federal capital contributions, and take such other action, including the termination of any agreement, as he or she finds necessary to enforce the Act and regulations. In this case no further expenditures shall be made from the health professions student loan fund or funds involved until the Secretary determines that there is no longer any failure of compliance.

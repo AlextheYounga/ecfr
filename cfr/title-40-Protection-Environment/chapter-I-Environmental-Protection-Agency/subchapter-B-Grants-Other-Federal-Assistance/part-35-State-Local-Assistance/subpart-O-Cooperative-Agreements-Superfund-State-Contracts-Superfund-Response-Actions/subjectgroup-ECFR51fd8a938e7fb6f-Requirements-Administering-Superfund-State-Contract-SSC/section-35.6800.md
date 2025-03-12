@@ -1,0 +1,3 @@
+##### § 35.6800 Superfund State Contract. #####
+
+A Superfund State Contract (SSC) with a State is required before EPA can obligate or expend funds for a remedial action at a site within the State and before EPA or a political subdivision can conduct the remedial action. An SSC also ensures State or Indian Tribe involvement consistent with CERCLA sections 121(f) and 126, respectively, and obtains the required section 104 assurances (*See* § 35.6105(b)). An SSC may also be used to document the roles and responsibilities of a State, Indian Tribe, and political subdivision during any response action at a site. A political subdivision may be a signatory to the SSC.

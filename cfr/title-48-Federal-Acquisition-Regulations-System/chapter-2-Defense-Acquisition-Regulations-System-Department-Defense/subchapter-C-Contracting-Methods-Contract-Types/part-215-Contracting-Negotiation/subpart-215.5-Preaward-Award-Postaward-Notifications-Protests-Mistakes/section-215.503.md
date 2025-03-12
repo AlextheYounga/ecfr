@@ -1,0 +1,3 @@
+##### 215.503 Notifications to unsuccessful offerors. #####
+
+If the Government exercises the authority provided in 239.7305(d), the notifications to unsuccessful offerors, either preaward or postaward, shall not reveal any information that is determined to be withheld from disclosure in accordance with section 806 of the National Defense Authorization Act for Fiscal Year 2011, as amended by section 806 of the National Defense Authorization Act for Fiscal Year 2013 (see subpart 239.73).

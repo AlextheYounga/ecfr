@@ -1,0 +1,3 @@
+##### § 136.411 Are the requirements for IHS adjudication different from the requirements for Indian Tribes and Tribal organizations? #####
+
+Yes, in conducting background investigations and adjudicating eligibility for employment in Tribal positions that allow regular contact with or control over Indian children, Indian Tribes or Tribal organizations may, but are not required to, adopt portions of the rules in this subpart that are specifically applicable to employment with the IHS.

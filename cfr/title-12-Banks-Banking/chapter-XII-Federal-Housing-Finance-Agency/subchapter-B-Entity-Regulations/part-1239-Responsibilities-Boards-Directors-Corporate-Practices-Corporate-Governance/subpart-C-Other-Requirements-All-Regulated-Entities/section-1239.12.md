@@ -1,0 +1,3 @@
+##### § 1239.12 Compliance program. #####
+
+A regulated entity shall establish and maintain a compliance program that is reasonably designed to assure that the regulated entity complies with applicable laws, rules, regulations, and internal controls. The compliance program shall be headed by a compliance officer, however styled, who reports directly to the chief executive officer. The compliance officer also shall report regularly to the board of directors, or an appropriate committee thereof, on the adequacy of the entity's compliance policies and procedures, including the entity's compliance with them, and shall recommend any revisions to such policies and procedures that he or she considers necessary or appropriate.

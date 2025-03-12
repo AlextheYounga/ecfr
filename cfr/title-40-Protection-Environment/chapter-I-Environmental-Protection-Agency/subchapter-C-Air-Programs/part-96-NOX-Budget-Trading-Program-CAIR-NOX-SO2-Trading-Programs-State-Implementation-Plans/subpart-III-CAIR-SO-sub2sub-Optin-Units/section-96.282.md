@@ -1,0 +1,3 @@
+##### § 96.282 CAIR designated representative. #####
+
+Any CAIR SO2 opt-in unit, and any unit for which a CAIR opt-in permit application is submitted and not withdrawn and a CAIR opt-in permit is not yet issued or denied under this subpart, located at the same source as one or more CAIR SO2 units shall have the same CAIR designated representative and alternate CAIR designated representative as such CAIR SO2 units.

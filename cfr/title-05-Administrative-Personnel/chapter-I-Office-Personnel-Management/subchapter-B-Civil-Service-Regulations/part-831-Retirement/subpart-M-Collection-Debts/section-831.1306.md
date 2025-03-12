@@ -1,0 +1,9 @@
+##### § 831.1306 Collection by administrative offset. #####
+
+(a) *Offset from retirement payments.* A debt may be collected in whole or in part from lump-sum retirement payment or recurring annuity payments.
+
+(b) *Offset from other payments*—(1) *Administrative offset.* (i) A debt may be offset from other payments due the debtor from other agencies in accordance with 4 CFR 102.3, except that offset from back pay awarded under the provisions of 5 U.S.C. 5596 (and 5 CFR 550.801 *et seq.*) will be made in accordance with § 550.805(e)(2) of this chapter.
+
+(ii) In determining whether to collect claims by means of administrative offset after the expiration of the six year limitation provided in 5 U.S.C. 2415, the Director or his designee will determine the cost effectiveness of leaving a claim unresolved for more than 6 years. This decision will be based on such factors as the amount of the debt; the cost of collection; and the likelihood of recovering the debt.
+
+(2) *Salary offset.* When the debtor is an employee, or a member of the Armed Forces or a reserve component of the Armed Forces, OPM may effect collection action by offset of the debtor's pay in accordance with 5 U.S.C. 5514 and 5 CFR 550.1101 *et seq.* Due process described in § 831.1304 will apply. The questions of fact and liability, and entitlements to waiver or compromise determined through that process are deemed correct and will not be amended under salary offset procedures. When the debtor did not receive a hearing on the amount of the offset under § 831.1304 and requests such hearing, one will be conducted in accordance with subpart K of part 550 of this chapter.

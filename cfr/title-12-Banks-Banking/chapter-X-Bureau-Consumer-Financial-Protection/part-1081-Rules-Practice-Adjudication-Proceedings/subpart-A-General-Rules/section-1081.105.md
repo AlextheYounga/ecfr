@@ -1,0 +1,11 @@
+##### § 1081.105 Assignment, substitution, performance, disqualification of hearing officer. #####
+
+(a) *How assigned.* In the event that more than one hearing officer is available to the Bureau for the conduct of proceedings under this part, the presiding hearing officer shall be designated by the chief hearing officer, who shall notify the parties of the hearing officer designated.
+
+(b) *Interference.* Hearing officers shall not be subject to the supervision or direction of, or responsible to, any officer, employee, or agent engaged in the performance of investigative or prosecuting functions for the Bureau, and all direction by the Bureau to the hearing officer concerning any adjudication proceedings shall appear in and be made part of the record.
+
+(c) *Disqualification of hearing officers.* (1) When a hearing officer deems himself or herself disqualified to preside in a particular proceeding, he or she shall issue a notice stating that he or she is withdrawing from the matter and setting forth the reasons therefore.
+
+(2) Any party who has a reasonable, good faith basis to believe that a hearing officer has a personal bias, or is otherwise disqualified from hearing a case, may make a motion to the hearing officer that the hearing officer withdraw. The motion shall be accompanied by an affidavit setting forth the facts alleged to constitute grounds for disqualification. Such motion shall be filed at the earliest practicable time after the party learns, or could reasonably have learned, of the alleged grounds for disqualification. If the hearing officer does not disqualify himself or herself within ten days, he or she shall certify the motion to the Director pursuant to § 1081.211, together with any statement he or she may wish to have considered by the Director. The Director shall promptly determine the validity of the grounds alleged, either directly or on the report of another hearing officer appointed to conduct a hearing for that purpose, and shall either direct the reassignment of the matter or confirm the hearing officer's continued role in the matter.
+
+(d) *Unavailability of hearing officer.* In the event that the hearing officer withdraws or is otherwise unable to perform the duties of the hearing officer, the chief hearing officer or the Director shall designate another hearing officer to serve.

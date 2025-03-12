@@ -1,0 +1,7 @@
+##### § 1201.146 Requests for protective orders by the Special Counsel. #####
+
+(a) Under 5 U.S.C. 1204(e)(1)(B), the Board may issue any order that may be necessary to protect a witness or other individual from harassment during an investigation by the Special Counsel or during the pendency of any proceeding before the Board, except that an agency, other than the Office of the Special Counsel, may not request a protective order with respect to an investigation by the Special Counsel during such investigation.
+
+(b) Any motion by the Special Counsel requesting a protective order must include a concise statement of reasons justifying the motion, together with any relevant documentary evidence. Where the request is made in connection with a pending Special Counsel proceeding, the motion must be filed as early in the proceeding as practicable.
+
+(c) Where there is a pending Special Counsel proceeding, a Special Counsel motion requesting a protective order must be filed with the judge conducting the proceeding, and the judge will rule on the motion. Where there is no pending Special Counsel proceeding, a Special Counsel motion requesting a protective order must be filed with the Clerk of the Board, and the Board will designate a judge, as defined at § 1201.4(a) of this part, to rule on the motion.

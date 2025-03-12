@@ -1,0 +1,5 @@
+##### 42.505 Postaward subcontractor conferences. #####
+
+(a) The prime contractor is generally responsible for conducting postaward conferences with subcontractors. However, the prime contractor may invite Government representatives to a conference with subcontractors, or the Government may request that the prime contractor initiate a conference with subcontractors. The prime contractor should ensure that representatives from involved contract administration offices are invited.
+
+(b) Government representatives (1) must recognize the lack of privity of contract between the Government and subcontractors, (2) shall not take action that is inconsistent with or alters subcontracts, and (3) shall ensure that any changes in direction or commitment affecting the prime contract or contractor resulting from a subcontractor conference are made by written direction of the contracting officer to the prime contractor in the same manner as described in 42.503-2.

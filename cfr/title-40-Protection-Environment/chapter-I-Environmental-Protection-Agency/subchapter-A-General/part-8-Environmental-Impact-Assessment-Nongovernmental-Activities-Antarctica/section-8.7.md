@@ -1,0 +1,13 @@
+##### § 8.7 Initial environmental evaluation. #####
+
+(a) *Submission of IEE to the EPA.* Unless a PERM has been submitted pursuant to § 8.6 which meets the environmental documentation requirements under Article 8 and Annex I to the Protocol and the provisions of this part or a CEE is being prepared, an IEE shall be submitted by the operator to the EPA no fewer than ninety (90) days before the proposed departure of the expedition.
+
+(b) *Contents.* An IEE shall contain sufficient detail to assess whether a proposed activity may have more than a minor or transitory impact on the Antarctic environment and shall include the following information:
+
+(1) A description of the proposed activity, including its purpose, location, duration, and intensity; and
+
+(2) Consideration of alternatives to the proposed activity and any impacts that the proposed activity may have on the Antarctic environment, including consideration of cumulative impacts in light of existing and known proposed activities.
+
+(c) *Further environmental review.* (1) The EPA, in consultation with other interested federal agencies, will review an IEE to determine whether the IEE meets the requirements under Annex I to the Protocol and the provisions of this part. The EPA will provide its comments to the operator within thirty (30) days of receipt of the IEE, and the operator will have forty-five (45) days to prepare a revised IEE, if necessary. Following the final response from the operator, EPA may make a finding that the documentation submitted does not meet the requirements of Article 8 and Annex I of the Protocol and the provisions of this part. This finding will be made with the concurrence of the National Science Foundation. If such a notice is required, EPA will provide it within fifteen (15) days of receiving the final IEE from the operator or, if the operator does not provide a final IEE, within sixty (60) days following EPA's comments on the original IEE. If EPA does not provide notice within these time limits, the operator will be deemed to have met the requirements of this part provided that any required procedures, which may include appropriate monitoring, are put in place to assess and verify the impact of the activity.
+
+(2) If a CEE is required, the operator must adhere to the time limits applicable to such documentation. (See: § 8.8.) In this event EPA, at the operator's request, will consult with the operator regarding possible changes in the proposed activity which would allow preparation of an IEE.

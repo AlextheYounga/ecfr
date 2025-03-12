@@ -1,0 +1,3 @@
+##### 604.7001 Policy. #####
+
+The contracting officer shall review each proposed contractual document and its supporting file for completeness and accuracy. Each contract file shall contain all pertinent information applicable to the proposed action. Each contract file should be in sufficient detail to permit reconstruction of all significant events by any subsequent reviewer without referral to the individual responsible for the contractual action.

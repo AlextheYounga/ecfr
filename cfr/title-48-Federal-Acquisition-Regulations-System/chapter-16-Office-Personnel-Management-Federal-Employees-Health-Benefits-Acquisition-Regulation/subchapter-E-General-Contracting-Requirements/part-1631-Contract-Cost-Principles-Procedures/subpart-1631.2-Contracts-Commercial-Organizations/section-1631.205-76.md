@@ -1,0 +1,5 @@
+##### 1631.205-76 Trade, business, technical, and professional activity costs. #####
+
+(a) FEHBP participating plans, carriers, and underwriters shall seek the advance written approval of the contracting officer for allowability of all or part of the costs associated with trade, business, technical, and professional activities (FAR 31.205-43) when the allocable costs of such participation to the FEHBP will exceed $1,000 annually and when the carrier or underwriter allocates more than 50% of the membership cost of a trade, business, technical, or professional organization to the FEHBP.
+
+(b) When approval of costs for membership in an organization is required, the carrier or underwriter must demonstrate conclusively that membership in such an organization and participation in its activities extend beyond the contractual relationship with OPM, have a reasonable relationship to providing care and services to FEHBP enrollees, and that the organization is not engaged in activities such as those cited in FAR 31.205-22 (lobbying costs) for which costs are not allowable.

@@ -1,0 +1,3 @@
+##### § 585.115 Response to inquiries. #####
+
+At any time prior to August 31, 2018, each manufacturer must, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model, and vehicle identification number) that have been certified as complying with Standard No. 216a (49 CFR 571.216a). The manufacturer's designation of a vehicle as a certified vehicle is irrevocable. Upon request, the manufacturer also must specify whether it intends to utilize carry-forward credits, and the vehicles to which those credits relate.

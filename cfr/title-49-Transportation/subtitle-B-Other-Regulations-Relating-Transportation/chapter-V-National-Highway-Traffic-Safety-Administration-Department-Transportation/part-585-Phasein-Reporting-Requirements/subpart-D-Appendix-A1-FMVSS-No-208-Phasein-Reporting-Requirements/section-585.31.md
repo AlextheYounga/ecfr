@@ -1,0 +1,3 @@
+##### § 585.31 Scope. #####
+
+This part establishes requirements for manufacturers of passenger cars, and of trucks, buses and multipurpose passenger vehicles with a gross vehicle weight rating (GVWR) of 3,856 kilograms (kg) (8,500 pounds (lb)) or less, to submit a report, and maintain records related to the report, concerning the number of such vehicles that are certified as complying with S19, S21, and S23 of FMVSS No. 208 (49 CFR 571.208) when using the child restraint systems specified in Appendix A-1 of this standard.

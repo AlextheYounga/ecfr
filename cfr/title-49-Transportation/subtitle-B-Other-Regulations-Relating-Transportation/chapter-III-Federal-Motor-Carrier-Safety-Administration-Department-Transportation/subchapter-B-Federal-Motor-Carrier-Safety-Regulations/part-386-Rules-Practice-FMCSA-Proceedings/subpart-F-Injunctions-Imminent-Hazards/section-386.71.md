@@ -1,0 +1,5 @@
+##### § 386.71 Injunctions. #####
+
+Whenever it is determined that a person has engaged, or is about to engage, in any act or practice constituting a violation of section 31502 of title 49, United States Code; of the Motor Carrier Safety Act of 1984; the Hazardous Materials Transportation Act; or any regulation or order issued under that section or those Acts for which the Federal Motor Carrier Safety Administrator exercises enforcement responsibility, the Chief Counsel may request the United States Attorney General to bring an action in the appropriate United States District Court for such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, and punitive damages, as provided by section 213(c) of the Motor Carrier Safety Act of 1984 and section 111(a) of the Hazardous Materials Transportation Act (49 U.S.C. 507(c) 5122).
+
+[70 FR 28485, May 18, 2005]

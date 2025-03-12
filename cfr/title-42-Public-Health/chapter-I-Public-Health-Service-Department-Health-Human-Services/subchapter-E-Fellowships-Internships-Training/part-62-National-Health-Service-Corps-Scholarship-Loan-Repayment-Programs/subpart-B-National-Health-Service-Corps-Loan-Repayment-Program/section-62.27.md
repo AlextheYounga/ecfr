@@ -1,0 +1,3 @@
+##### § 62.27 What will happen if an individual does not comply with the terms and conditions of participation in the Loan Repayment Program? #####
+
+Program participants who default on their Loan Repayment Program Contracts will be subject to the applicable monetary payment provisions set forth at section 338E of the Act. Payment of any amount owed under section 338E of the Act shall be made within one year of the date the participant breached his or her Loan Repayment Contract, as determined by the Secretary.

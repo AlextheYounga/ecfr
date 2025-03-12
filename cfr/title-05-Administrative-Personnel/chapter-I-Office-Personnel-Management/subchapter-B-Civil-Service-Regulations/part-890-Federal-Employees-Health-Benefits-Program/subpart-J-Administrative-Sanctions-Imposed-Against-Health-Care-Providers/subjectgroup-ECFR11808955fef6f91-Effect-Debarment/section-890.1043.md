@@ -1,0 +1,7 @@
+##### § 890.1043 Effect of debarment on a provider. #####
+
+(a) *FEHBP payments prohibited.* A debarred provider is not eligible to receive payment, directly or indirectly, from FEHBP funds for items or services furnished to a covered individual on or after the effective date of the debarment. Also, a provider shall not accept an assignment of a claim for items or services furnished to a covered individual during the period of debarment. These restrictions shall remain in effect until the provider is reinstated by OPM.
+
+(b) *Governmentwide effect.* Debarment precludes a provider from participating in all other Federal agencies' procurement and nonprocurement programs and activities, as required by section 2455 of the Federal Acquisition Streamlining Act of 1994 (Pub. L. 103-355). Other agencies may grant a waiver or exception under their own regulations, to permit a provider to participate in their programs, notwithstanding the OPM debarment.
+
+(c) *Civil or criminal liability.* A provider may be subject to civil monetary penalties under this subpart or criminal liability under other Federal statutes for knowingly filing claims, causing claims to be filed, or accepting payment from FEHBP carriers for items or services furnished to a covered individual during a period of debarment .

@@ -1,0 +1,5 @@
+##### § 63.8222 What are my operation and maintenance requirements? #####
+
+At all times you must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require you to make any further efforts to reduce emissions if levels required by the applicable standards have been achieved. Determination of whether a source is operating in compliance with operation and maintenance requirements will be based on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, reports and inspection of the source.
+
+[87 FR 27020, May 6, 2022] General Compliance Requirements

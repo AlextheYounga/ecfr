@@ -1,0 +1,5 @@
+##### § 217.73 Notification of failure to comply. #####
+
+(a) At the conclusion of an audit, investigation, or other inquiry, or at any other time, the Department of Energy may inform the person in writing where compliance with the requirements of the Defense Production Act and other applicable statutes, this part, or an official action were not met.
+
+(b) In cases where the Department of Energy determines that failure to comply with the provisions of the Defense Production Act and other applicable statutes, this part, or an official action was inadvertent, the person may be informed in writing of the particulars involved and the corrective action to be taken. Failure to take corrective action may then be construed as a willful violation of the Defense Production Act and other applicable statutes, this part, or an official action.

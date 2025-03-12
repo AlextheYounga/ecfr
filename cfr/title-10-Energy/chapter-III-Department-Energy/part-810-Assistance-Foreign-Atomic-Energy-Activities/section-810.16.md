@@ -1,0 +1,5 @@
+##### § 810.16 Effective date and savings clause. #####
+
+(a) The regulations in this part are effective March 25, 2015.
+
+(b) Except for actions that may be taken by DOE pursuant to § 810.10, the regulations in this part do not affect the validity or terms of any specific authorizations granted under regulations in effect before March 25, 2015 or generally authorized activities under those regulations for which the contracts, purchase orders, or licensing arrangements were already in effect. Persons engaging in activities that were generally authorized under regulations in effect before March 25, 2015, but that require specific authorization under the regulations in this part, must request specific authorization by August 24, 2015 and may continue their activities until DOE acts on the request.

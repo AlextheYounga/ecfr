@@ -1,0 +1,3 @@
+##### 2922.802 General. #####
+
+Executive Order 11246, as amended, sets forth the Equal Opportunity clause and requires that the Secretary of Labor promote full realization of equal opportunity for all persons regardless of race, color, religion, sex, or national origin. No DOL contracting officer may contract for supplies or services in a manner to avoid applicability of the requirements of E.O. 11246.

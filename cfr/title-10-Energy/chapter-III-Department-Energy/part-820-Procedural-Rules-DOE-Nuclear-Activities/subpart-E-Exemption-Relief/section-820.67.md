@@ -1,0 +1,3 @@
+##### § 820.67 Final order. #####
+
+If no filing is made under § 820.66, an exemption decision becomes a Final Order fifteen (15) days after it is filed by a Secretarial Officer. If filing is made under § 820.66, an exemption decision becomes a Final Order 45 days after it is filed by a Secretarial Officer, unless the Secretary stays the effective date or issues a Final Order that modifies the decision.

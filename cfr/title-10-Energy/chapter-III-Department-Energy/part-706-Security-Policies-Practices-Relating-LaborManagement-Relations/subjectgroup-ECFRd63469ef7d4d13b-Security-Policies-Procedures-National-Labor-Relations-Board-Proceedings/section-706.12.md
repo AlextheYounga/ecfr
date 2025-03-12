@@ -1,0 +1,3 @@
+##### § 706.12 Administrative Law Judges. #####
+
+By agreement with the National Labor Relations Board, a panel of cleared NLRB administrative law judges is maintained to facilitate resolution of questions as to the materiality of classified information in NLRB hearings and to facilitate preparation of an unclassified record. The assignment of individual administrative law judges to DOE cases remains a matter within the discretion of the National Labor Relations Board.

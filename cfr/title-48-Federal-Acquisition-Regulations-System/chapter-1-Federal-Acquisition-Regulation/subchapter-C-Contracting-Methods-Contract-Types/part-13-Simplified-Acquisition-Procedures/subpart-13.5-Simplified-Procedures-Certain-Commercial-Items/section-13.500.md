@@ -1,0 +1,13 @@
+##### 13.500 General. #####
+
+(a) This subpart authorizes the use of simplified procedures for the acquisition of supplies and services in amounts greater than the simplified acquisition threshold but not exceeding $7 million ($13 million for acquisitions as described in 13.500(c)), including options, if the contracting officer reasonably expects, based on the nature of the supplies or services sought, and on market research, that offers will include only commercial items. Contracting officers may use any simplified acquisition procedure in this part, subject to any specific dollar limitation applicable to the particular procedure. The purpose of these simplified procedures is to vest contracting officers with additional procedural discretion and flexibility, so that commercial item acquisitions in this dollar range may be solicited, offered, evaluated, and awarded in a simplified manner that maximizes efficiency and economy and minimizes burden and administrative costs for both the Government and industry (10 U.S.C. 2304(g) and 2305 and 41 U.S.C. 3305, 3306, and chapter 37, Awarding of Contracts.
+
+(b) When acquiring commercial items using the procedures in this part, the requirements of part 12 apply subject to the order of precedence provided at 12.102(c). This includes use of the provisions and clauses in subpart 12.3.
+
+(c) Under 41 U.S.C. 1903, the simplified acquisition procedures authorized in this subpart may be used for acquisitions that do not exceed $13 million when -
+
+(1) The acquisition is for commercial items that, as determined by the head of the agency, are to be used in support of a contingency operation or to facilitate the defense against or recovery from nuclear, biological, chemical, or radiological attack; or
+
+(2) The acquisition will be treated as an acquisition of commercial items in accordance with 12.102(f)(1).
+
+[80 FR 38311, July 2, 2015; 80 FR 38297, July 2, 2015]

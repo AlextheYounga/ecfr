@@ -1,0 +1,3 @@
+##### § 1070.59 Restrictions on disclosure. #####
+
+The CFPB will not disclose any record about an individual contained in a system of records to any person or agency without the prior written consent of that individual unless the disclosure is authorized by 5 U.S.C. 552a(b). Disclosures authorized by 5 U.S.C. 552a(b) include disclosures that are compatible with one or more routine uses that are contained within the CFPB's Systems of Records Notices, which are available on the CFPB's Web site, at *http://www.consumerfinance.gov.*

@@ -1,0 +1,3 @@
+##### § 532.601 General. #####
+
+The Office of Personnel Management shall establish a job grading system in accordance with section 5346 of title 5, United States Code. Appropriate instructions to agencies on the application of the job grading system shall be published by the Office of Personnel Management. Agencies are required to grade all jobs subject to this part in accordance with such instructions.

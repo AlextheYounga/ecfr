@@ -1,0 +1,3 @@
+##### § 706.13 Clearance of counsel. #####
+
+It is recognized that clearance of counsel for the parties is sometimes desirable for proper preparation of a case even though the record is to be unclassified. Clearance of counsel makes possible their participation in any closed discussions needed preparatory to making an unclassified record. Each party is responsible for requesting clearance of its counsel well in advance so that clearance requirements will not delay the proceeding. The clearance of temporary special counsel will be terminated on completion of the proceeding.

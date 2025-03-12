@@ -1,0 +1,7 @@
+##### § 851.13 Compliance. #####
+
+(a) Contractors must achieve compliance with all the requirements of Subpart C of this part, and their approved worker safety and health program no later than May 25, 2007. Contractors may be required to comply contractually with the requirements of this rule before February 9, 2007.
+
+(b) In the event a contractor has established a written safety and health program, an Integrated Safety Management System (ISMS) description pursuant to the DEAR Clause, or an approved Work Smart Standards (WSS) process before the date of issuance of the final rule, the Contractor may use that program, description, or process as the worker safety and health program required by this part if the appropriate Head of the DOE Field Element approves such use on the basis of written documentation provided by the contractor that identifies the specific portions of the program, description, or process, including any additional requirements or implementation methods to be added to the existing program, description, or process, that satisfy the requirements of this part and that provide a workplace as safe and healthful as would be provided by the requirements of this part.
+
+(c) Nothing in this part shall be construed to limit or otherwise affect contractual obligations of a contractor to comply with contractual requirements that are not inconsistent with the requirements of this part.

@@ -1,0 +1,3 @@
+##### § 340.5 Can the FDIC deny a loan to a buyer who is not disqualified from purchasing assets using seller-financing under this regulation? #####
+
+The FDIC still has the right to make an independent determination, based upon all relevant facts of a person's financial condition and history, of that person's eligibility to receive any loan or extension of credit from the FDIC, even if the person is not in any way disqualified from purchasing assets from the FDIC under the restrictions set forth in this part.

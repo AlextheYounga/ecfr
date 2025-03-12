@@ -1,0 +1,9 @@
+##### § 1.23 Methods of payment. #####
+
+(a) All payments of money required for United States Patent and Trademark Office fees, including fees for the processing of international applications (§ 1.445), shall be made in U.S. dollars and in the form of a cashier's or certified check, Treasury note, national bank notes, or United States Postal Service money order. If sent in any other form, the Office may delay or cancel the credit until collection is made. Checks and money orders must be made payable to the Director of the United States Patent and Trademark Office. (Checks made payable to the Commissioner of Patents and Trademarks will continue to be accepted.) Payments from foreign countries must be payable and immediately negotiable in the United States for the full amount of the fee required. Money sent to the Office by mail will be at the risk of the sender, and letters containing money should be registered with the United States Postal Service.
+
+(b) Payments of money required for United States Patent and Trademark Office fees may also be made by credit card, except for replenishing a deposit account. Payment of a fee by credit card must specify the amount to be charged to the credit card and such other information as is necessary to process the charge, and is subject to collection of the fee. The Office will not accept a general authorization to charge fees to a credit card. If credit card information is provided on a form or document other than a form provided by the Office for the payment of fees by credit card, the Office will not be liable if the credit card number becomes public knowledge.
+
+(c) A fee transmittal letter may be signed by a juristic applicant or patent owner.
+
+[65 FR 33455, May 24, 2000, as amended at 69 FR 43752, July 22, 2004; 78 FR 62395, Oct. 21, 2013]

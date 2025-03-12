@@ -1,0 +1,3 @@
+##### § 179.115 Motion to reconsider a final order. #####
+
+A party may file a motion requesting the Administrator to reconsider a final decision under this part. Any such motion must be filed within 10 days after service of the final decision, and must set forth the matters claimed to have been erroneously decided and the nature of the alleged errors. Such a motion shall not stay the effective date of the final decision unless specifically so ordered by the Administrator.

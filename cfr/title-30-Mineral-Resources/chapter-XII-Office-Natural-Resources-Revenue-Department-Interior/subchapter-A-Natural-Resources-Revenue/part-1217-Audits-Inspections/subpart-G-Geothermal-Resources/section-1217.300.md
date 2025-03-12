@@ -1,0 +1,3 @@
+##### § 1217.300 Audit or review of records. #####
+
+The Secretary, or his/her authorized representative, will initiate and conduct audits or reviews relating to the scope, nature, and extent of compliance by lessees, operators, revenue payors, and other persons with rental, royalty, fees, and other payment requirements on a Federal geothermal lease. Audits or reviews will also relate to compliance with applicable regulations and orders. All audits or reviews will be conducted in accordance with this part.

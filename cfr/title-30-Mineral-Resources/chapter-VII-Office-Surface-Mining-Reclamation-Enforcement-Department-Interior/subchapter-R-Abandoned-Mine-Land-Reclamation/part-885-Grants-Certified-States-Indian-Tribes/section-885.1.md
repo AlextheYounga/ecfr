@@ -1,0 +1,3 @@
+##### § 885.1 What does this part do? #####
+
+This part sets forth procedures for grants to you, a State or Indian tribe that has certified under § 875.13 of this chapter that all known coal reclamation problems in your State or on Indian lands within your jurisdiction have been addressed. OSM's “Final Guidelines for Reclamation Programs and Projects” (66 FR 31250, June 11, 2001) may be used if applicable.

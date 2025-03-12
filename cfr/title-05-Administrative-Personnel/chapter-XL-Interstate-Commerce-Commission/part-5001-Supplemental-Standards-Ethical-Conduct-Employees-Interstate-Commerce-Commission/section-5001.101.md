@@ -1,0 +1,3 @@
+##### § 5001.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to members and other employees of the Interstate Commerce Commission and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the standards in 5 CFR part 2635 and this part, members and other employee are subject to the executive branch financial disclosure regulations contained in 5 CFR part 2635 and to additional regulations regarding their conduct contained in 49 CFR part 1019.

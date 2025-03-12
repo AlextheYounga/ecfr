@@ -1,0 +1,9 @@
+##### § 52.2350 Emission inventories. #####
+
+(a) The Governor of the State of Utah submitted the 1990 base year emission inventory of ozone precursors, which are volatile organic compounds, nitrogen oxides, and carbon monoxide, for the Salt Lake and Davis Counties ozone nonattainment area on January 13, 1995, as a revision to the State Implementation Plan (SIP). This inventory addresses emissions from point, area, non-road, on-road mobile, and biogenic sources. This Governor's submittal was followed by the submittal of corrections to the inventory, on April 20, 1995, from Russell Roberts, Director, Division of Air Quality, Utah Department of Environmental Quality. The ozone maintenance plan for Salt Lake and Davis Counties that the Governor submitted on February 19, 1997, incorporates by reference the corrected 1990 base year ozone emission inventory as background material. The 1990 ozone base year emission inventory requirement of section 182(a)(1) of the Clean Air Act, as amended in 1990, has been satisfied for the Salt Lake and Davis Counties area.
+
+(b) On November 12, 1997, the Governor of Utah submitted the 1993 Carbon Monoxide Periodic Emission Inventories for Ogden City and Utah County as revisions to the Utah State Implementation Plan. These inventories address carbon monoxide emissions from stationary point, area, non-road, and on-road mobile sources.
+
+(c) On June 14, 1999, the Governor of Utah submitted the 1996 Carbon Monoxide Periodic Emission Inventory for Utah County as a revision to the Utah State Implementation Plan. The inventory addresses carbon monoxide emissions from stationary point, area, non-road mobile, and on-road mobile sources.
+
+[62 FR 38217, July 17, 1997, as amended at 63 FR 18124, Apr. 14, 1998; 65 FR 63548, Oct. 24, 2000]

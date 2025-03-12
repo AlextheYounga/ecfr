@@ -1,0 +1,29 @@
+##### Section 21 Introduction to System of Reports #####
+
+(a) Each large certificated air carrier subject to the Federal Aviation Act of 1958, as amended, shall file with the BTS, monthly, quarterly, semiannually, and annually BTS Form 41 Reports of financial and operating statistics as prescribed herein unless waiver has been made by the Civil Aeronautics Board.
+
+(b) The system prescribed provides for the submission by each air carrier of four classes of financial and operating statistics, on individual schedules of the BTS Form 41 Report, grouped as follows:
+
+A. Certification.B. Balance Sheet Elements.P. Profit and Loss Elements.T. Traffic and Capacity Elements.
+
+(c) The prescribed system of reports provides that the frequency of reporting shall be monthly for some schedules, quarterly for some, semiannually for some and annually for others. It also provides in some areas for the classification of large certificated air carriers into Group I, Group II, and Group III with the form and content differentiated as between groups.
+
+(d) Each schedule of the prescribed BTS Form 41 Report has been assigned a specific code. The prefix alphabetical codes A, B, P and T, respectively, have been employed to denote certification, balance sheet, profit and loss, and traffic and capacity. The digits immediately following the alphabetical prefix designate the particular schedule.
+
+(e) [Reserved]
+
+(f) [Reserved]
+
+(g) Four separate air carrier entities shall be established for large certificated air carriers conducting scheduled service for the purpose of submitting the prescribed reports. They are as follows: (1) Domestic operations; (2) operations via the Atlantic Ocean; (3) operations via the Pacific Ocean; and (4) operations in Latin American areas. With respect to the first classification, the domestic entity shall embrace all operations within and between the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico and the U.S. Virgin Islands, and shall also include Canadian transborder operations. The reports to be submitted by each entity shall be comparable to those required of a distinct legal entity whether the reporting entity constitutes such an entity, a semiautonomous physically separated operating division of the carrier, or an entity established for reporting purposes only.
+
+(h) Two separate entities shall be established for large certificated air carriers predominantly engaged in conducting charter activities for the purpose of submitting the prescribed reports: (1) Domestic operations; and (2) international operations. The domestic entity includes all operations within and between the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands. All other operations will be in the international entity.
+
+(i) The entities for which separate reports shall be made by the different route and charter air carriers will be set semiannually by the Office of Airline Information.
+
+(j) As a general rule separate reports shall be filed for the air carrier and for each associated company air carriers as defined in section 03 which is an air carrier. However, transactions of associated companies in which 100 percent equity control resides in the reporting air carrier shall be consolidated with transactions of the reporting air carrier when such associated companies perform services related to the transport operations of the reporting air carrier almost exclusively and are not engaged in air transportation for their own account.
+
+(k) Generally, route air carriers' nonscheduled services shall be treated as an integral part of the reporting entity to which most closely related without regard to the geographic area in which such nonscheduled services may actually be performed. However, supplemental reports shall be made of nonscheduled services (including service for the Department of Defense) in areas not encompassed by the prescribed reporting entity in any month in which the available ton-miles of such nonscheduled services exceed 5 percent of the available ton-miles of the reporting entity. Such supplemental reports shall continue until waived by the BTS upon a showing that such nonscheduled operations will not in the subsequent 12-month period exceed the 5-percent limit. The supplemental reports to be filed each month or calendar quarter, as applicable, shall be comprised of report Schedules P-5, T-1, and T-2. Transport and nontransport revenues pertaining to such separately reported nonscheduled services shall be reported on Schedule P-2 each quarter.
+
+(l) When and as required in the national interest, any air carrier which performs nonscheduled transport services for the Department of Defense shall, when directed by the Department, make separate reports for such services as if they were conducted by a physically separate transport entity, such reports shall consist of Schedules P-1 through P-7, T-1, and T-2. The letter “D” shall be inserted on such reports, following the schedule number of each P and T schedule. When a carrier has more than one reporting entity, nonscheduled transport and nonscheduled Defense services shall be assigned to the reporting entity to which more closely related.
+
+[ER-1027, 42 FR 60128, Nov. 25, 1977, as amended by ER-1073, 43 FR 40453, Sept. 12, 1978; ER-1073, 44 FR 1970, Jan. 9, 1979; ER-1188, 45 FR 48871, July 22, 1980; ER-1297, 47 FR 32919, July 30, 1982; ER-1400, 50 FR 12, Jan. 2, 1985; ER-1401, 50 FR 247, Jan. 3, 1985; Amdt. 241-56, 52 FR 9130, Mar. 23, 1987; Amdt. 241-60, 56 FR 12658, Mar. 27, 1991; 60 FR 66724, Dec. 26, 1995; 75 FR 41584, July 16, 2010]

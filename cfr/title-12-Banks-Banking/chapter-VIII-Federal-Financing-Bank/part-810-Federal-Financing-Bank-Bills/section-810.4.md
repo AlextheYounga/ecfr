@@ -1,0 +1,3 @@
+##### § 810.4 Acceptance of FFB bills for various purposes. #####
+
+Federal Financing Bank bills are lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States, the District of Columbia, the Commonwealth of Puerto Rico or any territory or possession of the United States. They are eligible for purchase by national banks, and will be accepted at maturity value to secure public moneys.

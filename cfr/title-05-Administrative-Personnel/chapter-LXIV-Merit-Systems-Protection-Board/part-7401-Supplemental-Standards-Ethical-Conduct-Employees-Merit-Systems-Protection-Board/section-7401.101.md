@@ -1,0 +1,5 @@
+##### § 7401.101 General. #####
+
+(a) *Purpose.* In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the Merit Systems Protection Board (MSPB) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635.
+
+(b) *Cross-references.* In addition to 5 CFR part 2635 and this part, MSPB employees are required to comply with implementing guidance and procedures issued by the MSPB in accordance with 5 CFR 2635.105(c). MSPB employees are also subject to the regulations concerning executive branch financial disclosure contained in 5 CFR part 2634, the regulations concerning executive branch financial interests contained in 5 CFR part 2640, and the regulations concerning executive branch employee responsibilities and conduct contained in 5 CFR part 735.

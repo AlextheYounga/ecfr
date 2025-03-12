@@ -1,0 +1,3 @@
+##### § 381.600 Do waivers, exemptions, and pilot programs preempt State laws and regulations? #####
+
+Yes. During the time period that a waiver, exemption, or pilot program authorized by this part is in effect, no State shall enforce any law or regulation that conflicts with or is inconsistent with the waiver, exemption, or pilot program with respect to a person operating under the waiver or exemption or participating in the pilot program.

@@ -1,0 +1,3 @@
+##### 1422.1403 Waivers. #####
+
+The Director, PAM is authorized to waive any or all of the terms of the clause at FAR 52.222-36, Affirmative Action for Workers with Disabilities, under the conditions prescribed in FAR 22.1403(a), and waive any requirement in FAR Subpart 22.14 as prescribed in FAR 22.1403(b). Requests for waivers shall be made in writing by the CO through the HCA to the Director, PAM.

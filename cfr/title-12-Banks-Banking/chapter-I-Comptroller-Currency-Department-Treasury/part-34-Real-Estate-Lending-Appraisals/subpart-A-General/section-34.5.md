@@ -1,0 +1,3 @@
+##### § 34.5 Due-on-sale clauses. #####
+
+A national bank may make or acquire a loan or interest therein, secured by a lien on real property, that includes a due-on-sale clause. Except as set forth in 12 U.S.C. 1701j-3(d) (which contains a list of transactions in which due-on-sale clauses may not be enforced), due-on-sale clauses in loans, whenever originated, will be valid and enforceable, notwithstanding any State law limitations to the contrary. For the purposes of this section, the term real property includes residential dwellings such as condominium units, cooperative housing units, and residential manufactured homes.

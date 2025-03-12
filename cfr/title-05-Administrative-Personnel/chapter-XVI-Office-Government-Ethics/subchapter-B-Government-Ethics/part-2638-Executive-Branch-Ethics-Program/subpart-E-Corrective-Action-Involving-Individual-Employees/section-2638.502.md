@@ -1,0 +1,3 @@
+##### § 2638.502 Violations of criminal provisions related to government ethics. #####
+
+Consistent with section 402(f) of the Act, nothing in this subpart authorizes the Director or any agency official to make a finding as to whether a provision of title 18, United States Code, or any other criminal law of the United States outside of such title, has been or is being violated. If the Director has information regarding the violation of a criminal law by an individual employee, the Director will notify an Inspector General or the Department of Justice.

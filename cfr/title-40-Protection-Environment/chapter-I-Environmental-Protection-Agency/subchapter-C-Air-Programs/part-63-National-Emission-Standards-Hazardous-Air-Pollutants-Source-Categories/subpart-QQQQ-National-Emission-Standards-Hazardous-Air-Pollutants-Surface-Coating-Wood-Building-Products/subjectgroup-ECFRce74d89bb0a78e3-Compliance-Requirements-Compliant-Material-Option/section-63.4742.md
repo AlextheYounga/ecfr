@@ -1,0 +1,9 @@
+##### § 63.4742 How do I demonstrate continuous compliance with the emission limitations? #####
+
+(a) For each compliance period to demonstrate continuous compliance, you must use no coating for which the organic HAP content determined using Equation 2 of § 63.4741 exceeds the applicable emission limit in § 63.4690; and use no thinner or cleaning material that contains organic HAP, determined according to § 63.4741(a). A compliance period consists of 12 months. Each month after the end of the initial compliance period described in § 63.4740 is the end of a compliance period consisting of that month and the preceding 11 months.
+
+(b) If you choose to comply with the emission limitations by using the compliant material option, the use of any coating, thinner, or cleaning material that does not meet the criteria specified in paragraph (a) of this section is a deviation from the emission limitations that must be reported as specified in §§ 63.4710(c)(6) and 63.4720(a)(5).
+
+(c) As part of each semiannual compliance report required by § 63.4720, you must identify the coating operation(s) for which you used the compliant material option. If there were no deviations from the emission limitations in § 63.4690, submit a statement that the coating operation(s) was (were) in compliance with the emission limitations during the reporting period because you used no coating for which the organic HAP content exceeded the applicable emission limit in § 63.4690, and you used no thinner or cleaning material that contained organic HAP, determined according to § 63.4741(a).
+
+(d) You must maintain records as specified in §§ 63.4730 and 63.4731.

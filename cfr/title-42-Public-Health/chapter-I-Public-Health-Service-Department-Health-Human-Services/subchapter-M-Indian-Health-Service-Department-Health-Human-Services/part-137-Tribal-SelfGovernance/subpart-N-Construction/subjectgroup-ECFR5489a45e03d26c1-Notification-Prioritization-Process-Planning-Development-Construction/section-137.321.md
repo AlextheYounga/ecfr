@@ -1,0 +1,3 @@
+##### § 137.321 How do Indian Tribes and the Secretary identify and request funds for needed construction projects? #####
+
+In addition to the requirements contained in section 513 of the Act [25 U.S.C. 458aaa-12], Indian Tribes and the Secretary are encouraged to jointly identify health facility and sanitation needs at the earliest possible date for IHS budget formulation. In developing budget justifications for specific projects to be proposed to Congress, the Secretary shall follow the preferences of the affected Indian Tribe(s) to the greatest extent feasible concerning the size, location, type, and other characteristics of the project.

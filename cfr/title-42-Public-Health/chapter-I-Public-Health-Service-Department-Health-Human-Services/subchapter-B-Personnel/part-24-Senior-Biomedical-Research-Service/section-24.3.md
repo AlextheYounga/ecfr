@@ -1,0 +1,3 @@
+##### § 24.3 Policy Board. #####
+
+The Secretary or his/her designee shall establish an SBRS Policy Board to serve in an advisory capacity, recommending SBRS allocations among the participating Operating Divisions, reviewing the operations of the SBRS and ensuring consistent application of regulations, policies, and procedural guidelines, and recommending changes to the Secretary as necessary. Membership, to the extent possible, will include SBRS eligibles nominated by their respective Operating Divisions, will be weighted in proportion to Operating Divisions' SBRS allocations, and will include representation from the Office of the Secretary. The Secretary or his/her designee will select the board membership and the Chair.

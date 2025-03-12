@@ -1,0 +1,9 @@
+##### § 41.205 Settlement agreements. #####
+
+(a) *Constructive notice; time for filing.* Pursuant to 35 U.S.C. 135(c), an agreement or understanding, including collateral agreements referred to therein, made in connection with or in contemplation of the termination of an interference must be filed prior to the termination of the interference between the parties to the agreement. After a final decision is entered by the Board, an interference is considered terminated when no appeal (35 U.S.C. 141) or other review (35 U.S.C. 146) has been or can be taken or had. If an appeal to the U.S. Court of Appeals for the Federal Circuit (under 35 U.S.C. 141) or a civil action (under 35 U.S.C. 146) has been filed the interference is considered terminated when the appeal or civil action is terminated. A civil action is terminated when the time to appeal the judgment expires. An appeal to the U.S. Court of Appeals for the Federal Circuit, whether from a decision of the Board or a judgment in a civil action, is terminated when the mandate is issued by the Court.
+
+(b) *Untimely filing.* The Chief Administrative Patent Judge may permit the filing of an agreement under paragraph (a) of this section up to six months after termination upon petition and a showing of good cause for the failure to file prior to termination.
+
+(c) *Request to keep separate.* Any party to an agreement under paragraph (a) of this section may request that the agreement be kept separate from the interference file. The request must be filed with or promptly after the agreement is filed.
+
+(d) *Access to agreement.* Any person, other than a representative of a Government agency, may have access to an agreement kept separate under paragraph (c) of this section only upon petition and on a showing of good cause. The agreement will be available to Government agencies on written request.

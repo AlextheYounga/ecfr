@@ -1,0 +1,3 @@
+##### § 625.20 Settlement. #####
+
+A prevailing party and the FCA through its counsel may agree on a proposed settlement of an award at any time, either in connection with a settlement of the underlying adversary adjudication or after the underlying adversary adjudication has been concluded. If a prevailing party and the FCA counsel agree on a proposed settlement of an award, the proposed settlement must be submitted to the presiding officer for a recommended decision pursuant to § 625.26 of this part. If it has not been previously filed, the application must be submitted to the presiding officer along with the proposed settlement.

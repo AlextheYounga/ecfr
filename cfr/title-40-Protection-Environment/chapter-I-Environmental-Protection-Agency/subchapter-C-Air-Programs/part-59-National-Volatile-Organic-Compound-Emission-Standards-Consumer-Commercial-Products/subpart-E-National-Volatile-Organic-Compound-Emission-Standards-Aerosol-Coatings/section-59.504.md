@@ -1,0 +1,7 @@
+##### § 59.504 What limits must I meet? #####
+
+(a) Except as provided in § 59.509, each aerosol coating product you manufacture, distribute or import for sale or use in the United States must meet the PWR limits presented in Table 1 of this subpart. These limits apply to the final aerosol coating, including the propellant. The PWR limits specified in Table 1 of this subpart are also applicable to any aerosol coating product that is assembled by adding bulk coating to aerosol containers of propellant.
+
+(b) If a product can be included in both a general coating category and a specialty coating category and the product meets all of the criteria of the specialty coating category, then the specialty coating limit will apply instead of the general coating limit, unless the product is a high temperature coating. High-temperature coatings that contain at least 0.5 percent by weight of an elemental metallic pigment in the formulation, including propellant, are subject to the limit specified for metallic coatings.
+
+(c) Except as provided in paragraph (b) of this section, if anywhere on the container of any aerosol coating product subject to the limits in Table 1 of this subpart, or on any sticker or label affixed to such product, or in any sales or advertising literature, the manufacturer, importer or distributor of the product makes any representation that the product may be used as, or is suitable for use as a product for which a lower limit is specified, then the lowest applicable limit will apply.

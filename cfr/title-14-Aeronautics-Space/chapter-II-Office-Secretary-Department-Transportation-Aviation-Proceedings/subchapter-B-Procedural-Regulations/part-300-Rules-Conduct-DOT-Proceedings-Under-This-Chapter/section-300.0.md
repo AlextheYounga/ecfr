@@ -1,0 +1,5 @@
+##### § 300.0 Applicability. #####
+
+The rules of conduct set forth in this part except as otherwise provided in this or any other DOT regulation shall govern the conduct of the parties and their representatives, and the relationships between the Office of the Secretary of Transportation, the Office of the Assistant Secretary for Aviation and International Affairs, and the Office of the General Counsel, including regular personnel, and officials, special Government employees, consultants, or experts under contract to the Department of Transportation (DOT) and administrative law judges (hereinafter referred to as “DOT employee(s)”) and all other persons in all DOT matters involving aviation economic and enforcement proceedings.
+
+[Doc. No. 82, 50 FR 2380, Jan. 16, 1985, as amended by Amdt. 1-261, 59 FR 10061, Mar. 3, 1994; 60 FR 43528, Aug. 22, 1995]

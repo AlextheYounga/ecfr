@@ -1,0 +1,5 @@
+##### § 250.422 When may I resume drilling after cementing? #####
+
+(a) After cementing surface, intermediate, or production casing (or liners), you may resume drilling after the cement has been held under pressure for 12 hours. For conductor casing, you may resume drilling after the cement has been held under pressure for 8 hours. One acceptable method of holding cement under pressure is to use float valves to hold the cement in place.
+
+(b) If you plan to nipple down your diverter or BOP stack during the 8- or 12-hour waiting time, you must determine, before nippling down, when it will be safe to do so. You must base your determination on a knowledge of formation conditions, cement composition, effects of nippling down, presence of potential drilling hazards, well conditions during drilling, cementing, and post cementing, as well as past experience.

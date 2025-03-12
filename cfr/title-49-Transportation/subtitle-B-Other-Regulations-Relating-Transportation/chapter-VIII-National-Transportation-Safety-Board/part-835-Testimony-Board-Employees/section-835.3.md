@@ -1,0 +1,15 @@
+##### § 835.3 Scope of permissible testimony. #####
+
+(a) Section 701(e) of the FA Act and section 304(c) of the Safety Act preclude the use or admission into evidence of Board accident reports in any suit or action for damages arising from accidents. These sections reflect Congress' “strong \* \* \* desire to keep the Board free of the entanglement of such suits.” Rep. No. 93-1192, 93d Cong., 2d Sess., 44 (1974), and serve to ensure that the Board does not exert an undue influence on litigation. The purposes of these sections would be defeated if expert opinion testimony of Board employees, which may be reflected in the views of the Board expressed in its reports, were admitted in evidence or used in litigation arising out of an accident. The Board relies heavily upon its investigators' opinions in its deliberations. Furthermore, the use of Board employees as experts to give opinion testimony would impose a significant administrative burden on the Board's investigative staff. Litigants must obtain their expert witnesses from other sources.
+
+(b) For the reasons stated in paragraph (a) of this section and § 835.1, Board employees may only testify as to the factual information they obtained during the course of an investigation, including factual evaluations embodied in their factual accident reports. However, they shall decline to testify regarding matters beyond the scope of their investigation, and they shall not give any expert or opinion testimony.
+
+(c) Board employees may testify about the firsthand information they obtained during an investigation that is not reasonably available elsewhere, including observations recorded in their own factual accident reports. Consistent with the principles cited in § 835.1 and this section, current Board employees are not authorized to testify regarding other employee's reports, or other types of Board documents, including but not limited to safety recommendations, safety studies, safety proposals, safety accomplishments, reports labeled studies, and analysis reports, as they contain staff analysis and/or Board conclusions.
+
+(d) Briefs of accidents may be released in conjunction with factual accident reports. Nevertheless, they are not part of those reports and are not to be admitted in evidence or used in a deposition approved under this part.
+
+(e) Not all material in a factual accident report may be the subject of testimony. The purpose of the factual accident report, in great part, is to inform the public at large, and as a result the factual accident report may contain information and conclusions for which testimony is prohibited by this part.
+
+(f) No employee may testify in any matter absent advance approval by the General Counsel as provided in this part.
+
+[55 FR 41541, Oct. 12, 1990, as amended at 63 FR 71607, Dec. 29, 1998; 64 FR 5622, Feb. 4, 1999]

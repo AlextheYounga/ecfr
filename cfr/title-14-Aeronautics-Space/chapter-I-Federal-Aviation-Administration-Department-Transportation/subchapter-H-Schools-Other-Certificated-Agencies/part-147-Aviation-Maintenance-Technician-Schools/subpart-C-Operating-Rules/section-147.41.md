@@ -1,0 +1,3 @@
+##### § 147.41 Change of location. #####
+
+The holder of an aviation maintenance technician school certificate may not make any change in the school's location unless the change is approved in advance. If the holder desires to change the location he shall notify the Administrator, in writing, at least 30 days before the date the change is contemplated. If he changes its location without approval, the certificate is revoked.

@@ -1,0 +1,3 @@
+##### § 1106.1 Purpose. #####
+
+This part is designed to ensure adequate and coordinated consideration of safety integration issues, by both the Board and the Federal Railroad Administration, the agency within the Department of Transportation responsible for the enforcement of railroad safety, in the implementation of rail transactions subject to the Board's jurisdiction. It establishes the procedures by which the Board will consider safety integration plans in connection with its approval and authorization of transactions for which the Board has concluded such consideration is required.

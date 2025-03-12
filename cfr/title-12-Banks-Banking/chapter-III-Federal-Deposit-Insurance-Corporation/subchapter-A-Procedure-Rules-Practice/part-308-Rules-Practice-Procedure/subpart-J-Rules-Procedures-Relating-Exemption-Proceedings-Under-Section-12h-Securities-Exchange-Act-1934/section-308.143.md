@@ -1,0 +1,3 @@
+##### § 308.143 Decision of Board of Directors. #####
+
+Following submission of the hearing transcript to the Board of Directors, the Board of Directors may grant the exemption where it determines, by reason of the number of public investors, the amount of trading interest in the securities, the nature and extent of the issuer's activities, the issuer's income or assets, or otherwise, that the exemption is consistent with the public interest or the protection of investors. Any exemption shall be set forth in an order specifying the terms of the exemption, the person to whom it is granted, and the period for which it is granted. A copy of the order shall be served upon each party to the proceeding.

@@ -1,0 +1,3 @@
+##### 23.903 Contract clause. #####
+
+The contracting officer shall insert the clause at 52.223-19, Compliance With Environmental Management Systems, in all solicitations and contracts for contractor operation of Government-owned or -leased facilities or vehicles, located in the United States. For facilities located outside the United States, the agency head may determine that use of the clause is in the best interest of the Government.

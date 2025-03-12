@@ -1,0 +1,5 @@
+##### § 225.66 Professional association membership; competency. #####
+
+(a) *Membership in appraisal organizations.* A State certified appraiser or a State licensed appraiser may not be excluded from consideration for an assignment for a federally related transaction solely by virtue of membership or lack of membership in any particular appraisal organization.
+
+(b) *Competency.* All staff and fee appraisers performing appraisals in connection with federally related transactions must be State certified or licensed, as appropriate. However, a State certified or licensed appraiser may not be considered competent solely by virtue of being certified or licensed. Any determination of competency shall be based upon the individual's experience and educational background as they relate to the particular appraisal assignment for which he or she is being considered.

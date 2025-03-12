@@ -1,0 +1,5 @@
+##### § 27.48 Delegated functions. #####
+
+The Administrator delegates authority to the Environmental Appeals Board to issue final decisions in appeals filed under this part. An appeal directed to the Administrator, rather than the Environmental Appeals Board, will not be considered. This delegation of authority to the Environmental Appeals Board does not preclude the Environmental Appeals Board from referring an appeal or motion filed under this part to the Administrator for decision when the Environmental Appeals Board, in its descretion, deems it appropriate to do so. When an appeal or motion is referred to the Administrator, all parties shall be so notified and the rules in this part referring to the Environmental Appeals Board shall be interpreted as referring to the Administrator. If a case or motion is referred to the Administrator by the Environmental Appeals Board, the Administrator may consult with any EPA employee concerning the matter, provided such consultation does not violate the *ex parte* contacts restrictions set forth in §§ 27.14 and 27.15 of this part.
+
+[57 FR 5328, Feb. 13, 1992]

@@ -1,0 +1,5 @@
+##### § 44.10 Filing of petition; service. #####
+
+A petition for modification of the application of a mandatory safety standard under section 101(c) of the Act may be filed only by the operator of the affected mine or any representative of the miners at such mine. All petitions must be in writing and must be filed with the Director, Office of Standards, Regulations, and Variances, Mine Safety and Health Administration, 201 12th Street South, Arlington, VA 22202-5452. If the petition is filed by a mine operator, a copy of the petition shall be served by the mine operator upon a representative of miners at the affected mine. If the petition is filed by a representative of the miners, a copy of the petition shall be served by the representative of miners upon the mine operator. Service shall be accomplished personally or by registered or certified mail, return receipt requested.
+
+[55 FR 53440, Dec. 28, 1990, as amended at 67 FR 38384, June 4, 2002; 80 FR 52985, Sept. 2, 2015]

@@ -1,0 +1,5 @@
+##### § 21.42 Examinations; junior assistant, assistant, or senior assistant grade. #####
+
+The examination for appointment to the junior assistant, assistant, or senior assistant grade in the Regular Corps shall consist of (a) a written professional examination relating to the fundamentals of the candidate's profession or specialty within his profession and their relationship to the activities of the Service, and (b) an examination as to the candidate's general fitness, which shall include an oral interview, and a review and evaluation of the candidate's academic and professional education and professional training and experience, and may include other written tests to determine the candidate's fitness for appointment as an officer. If an applicant for appointment to any of these grades is an officer of the Reserve Corps who has been on active duty for not less than one year immediately preceding his application, the Surgeon General may direct that the officer be examined as provided in § 21.43.
+
+[21 FR 9806, Dec. 12, 1956, as amended at 24 FR 1790, Mar. 12, 1959; 25 FR 11099, Nov. 23, 1960]

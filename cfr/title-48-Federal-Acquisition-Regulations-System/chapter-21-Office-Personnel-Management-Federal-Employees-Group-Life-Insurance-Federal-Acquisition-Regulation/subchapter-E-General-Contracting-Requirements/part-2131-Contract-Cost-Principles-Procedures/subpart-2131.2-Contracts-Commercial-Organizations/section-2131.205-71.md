@@ -1,0 +1,3 @@
+##### 2131.205-71 Reinsurer administrative expense costs. #####
+
+A charge of $500 per policy year per reinsurer of the FEGLI Program as set forth in the contract is an allowable cost when documented through an internal accounting entry of the contractor and actually paid. This amount is deemed to be sufficient to reimburse reinsurers for the minor administrative expenses incurred in reinsuring the FEGLI Program.

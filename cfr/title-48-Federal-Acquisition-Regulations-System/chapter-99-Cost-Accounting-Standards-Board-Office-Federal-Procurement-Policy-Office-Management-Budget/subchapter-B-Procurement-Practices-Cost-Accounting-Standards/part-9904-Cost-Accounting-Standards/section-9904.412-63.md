@@ -1,0 +1,11 @@
+##### 9904.412-63 Effective Date. #####
+
+(a) This Standard is effective as of February 27, 2012, hereafter known as the “Effective Date”, and is applicable for cost accounting periods after June 30, 2012, hereafter known as the “Implementation Date.”
+
+(b) Following the award of a contract or subcontract subject to this Standard on or after the Effective Date, contractors shall follow this Standard, as amended, beginning with its next cost accounting period beginning after the later of the Implementation Date or the award date of a contract or subcontract to which this Standard is applicable. The first day of the cost accounting period that this Standard, as amended, is first applicable to a contractor or subcontractor is the “Applicability Date of the CAS Pension Harmonization Rule” for purposes of this Standard. Prior to the Applicability Date of the CAS Pension Harmonization Rule, contractors or subcontractors shall follow the Standard in 9904.412 in effect prior to the Effective Date.
+
+(1) Following the award of a contract or subcontract subject to this Standard received on or after the Effective Date, contractors with contracts or subcontracts subject to this Standard that were received prior to the Effective Date shall continue to follow the Standard in 9904.412 in effect prior to the Effective Date. Beginning with the Applicability Date of the CAS Pension Harmonization Rule, such contractors shall follow this Standard, as amended, for all contracts or subcontracts subject to this Standard.
+
+(2) Following the award of a contract or subcontract subject to this Standard received during the period beginning on or after the date published in the Federal Register and ending before the Effective Date, contractors shall follow the Standard in 9904.412 in effect prior to the Effective Date. If another contract or subcontract, subject to this Standard, is received on or after the Effective Date, the provisions of 9904.412-63(b)(1) shall apply.
+
+[76 FR 81319, Dec. 27, 2011, as amended at 77 FR 43543, July 25, 2012]

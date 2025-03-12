@@ -1,0 +1,3 @@
+##### § 72.172 Corrective action. #####
+
+The licensee, applicant for a license, certificate holder, and applicant for a CoC shall establish measures to ensure that conditions adverse to quality, such as failures, malfunctions, deficiencies, deviations, defective material and equipment, and nonconformances, are promptly identified and corrected. In the case of a significant condition identified as adverse to quality, the measures must ensure that the cause of the condition is determined and corrective action is taken to preclude repetition. The identification of the significant condition adverse to quality, the cause of the condition, and the corrective action taken must be documented and reported to appropriate levels of management.

@@ -1,0 +1,3 @@
+##### § 60.162 Physical requirements. #####
+
+The physical condition and the general health of personnel certified for operations that are important to safety shall not be such as might cause operational errors that could endanger the public health and safety. Any condition which might cause impaired judgment or motor coordination must be considered in the selection of personnel for activities that are important to safety. These conditions need not categorically disqualify a person, so long as appropriate provisions are made to accommodate such conditions.

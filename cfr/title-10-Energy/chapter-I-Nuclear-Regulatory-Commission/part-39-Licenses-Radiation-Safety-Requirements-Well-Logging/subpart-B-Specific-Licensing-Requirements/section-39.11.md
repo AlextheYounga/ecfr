@@ -1,0 +1,3 @@
+##### § 39.11 Application for a specific license. #####
+
+A person, as defined in § 30.4 of this chapter, shall file an application for a specific license authorizing the use of licensed material in well logging on Form NRC 313, “Application for Material License.” Each application for a license, other than a license exempted from part 170 of this chapter, must be accompanied by the fee prescribed in § 170.31 of this chapter. The application must be sent to the appropriate NRC Regional Office listed in appendix D of part 20 of this chapter.

@@ -1,0 +1,3 @@
+##### § 608.827 Offset against amounts payable from Civil Service Retirement and Disability Fund. #####
+
+The FCA may request that monies payable to a debtor from the Civil Service Retirement and Disability Fund be administratively offset to collect debts owed to the FCA by the debtor. The FCA must certify that the debtor owes the debt, the amount of the debt, and that the FCA has complied with the requirements set forth in this part, 4 CFR 102.3, and the Office of Personnel Management regulations. The request shall be submitted to the official designated in the Office of Personnel Management regulations to receive the request.

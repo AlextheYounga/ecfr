@@ -1,0 +1,7 @@
+##### § 205.199F Ex parte communications. #####
+
+(a) No person who is not employed or otherwise supervised by the Office of Hearings and Appeals shall submit ex parte communications to the Director or any person employed or otherwise supervised by the Office with respect to any matter involved in Remedial Order or Order of Disallowance proceedings.
+
+(1) Ex parte communications include any ex parte oral or written communications relative to the merits of a Proposed Remedial Order, Interim Remedial Order for Immediate Compliance, or Proposed Order of Disallowance proceeding pending before the Office of Hearings and Appeals. The term shall not, however, include requests for status reports, inquiries as to procedures, or the submission of proprietary or confidential information. Notice that proprietary or confidential submissions have been made shall be given to all persons on the official service list.
+
+(b) If any communication occurs that violates the provisions of this section, the Office of Hearings and Appeals shall promptly make the substance of the communication available to the public and serve a copy of a written communication or a memorandum summarizing an oral communication to all participants in the affected proceeding. The Office of Hearings and Appeals may also take any other appropriate action to mitigate the adverse impact to any person whose interest may be affected by the ex parte contact.

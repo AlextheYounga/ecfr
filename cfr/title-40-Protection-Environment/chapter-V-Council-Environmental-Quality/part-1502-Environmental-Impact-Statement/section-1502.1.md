@@ -1,0 +1,7 @@
+##### § 1502.1 Purpose of environmental impact statement. #####
+
+(a) The primary purpose of an environmental impact statement prepared pursuant to section 102(2)(C) of NEPA is to serve as an action-forcing device by ensuring agencies consider the environmental effects of their action in decision making, so that the policies and goals defined in the Act are infused into the ongoing programs and actions of the Federal Government.
+
+(b) Environmental impact statements shall provide full and fair discussion of significant effects and shall inform decision makers and the public of reasonable alternatives that would avoid or minimize adverse effects or enhance the quality of the human environment. Agencies shall focus on important environmental issues and reasonable alternatives and shall reduce paperwork and the accumulation of extraneous background data.
+
+(c) Environmental impact statements shall be concise, clear, and to the point, and shall be supported by evidence that the agency has made the necessary environmental analyses. An environmental impact statement is more than a disclosure document. Federal agencies shall use environmental impact statements in conjunction with other relevant material to plan actions, involve the public, and make decisions.

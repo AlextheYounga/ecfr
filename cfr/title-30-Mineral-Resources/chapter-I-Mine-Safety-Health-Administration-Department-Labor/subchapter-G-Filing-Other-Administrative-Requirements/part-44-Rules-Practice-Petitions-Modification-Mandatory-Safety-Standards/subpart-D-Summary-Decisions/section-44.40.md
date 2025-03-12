@@ -1,0 +1,11 @@
+##### § 44.40 Motion for summary decision. #####
+
+(a) Any party may, at least 20 days before the date fixed for any hearing under Subpart C of this part, move with or without supporting affidavits for a summary decision on all or any part of the proceeding. Any other party may, within 10 days after service of the motion, serve opposing affidavits or countermove for summary decision. The administrative law judge may set the matter for argument and call for submission of briefs.
+
+(b) Filing of any documents under paragraph (a) of this section shall be with the administrative law judge, and copies of such documents shall be served in accordance with § 44.6 of this part.
+
+(c) Any affidavits submitted with the motion shall set forth such facts as would be admissible in evidence in a proceeding subject to 5 U.S.C. 556 and 557 and shall show affirmatively that the affiant is competent to testify to the matters stated therein. When a motion for summary decision is made and supported as provided in this section, a party opposing the motion may not rest upon the mere allegations or denials of such pleading. Such response must set forth specific facts showing that there is a genuine issue of fact for the hearing.
+
+(d) The administrative law judge may grant the motion if the pleadings, affidavits, material obtained by discovery or otherwise, or matters officially noticed show that there is no genuine issue as to any material fact and a party is entitled to summary decision. The administrative law judge may deny the motion whenever the moving party denies access to information by means of discovery to a party opposing the motion.
+
+(e) The denial of all or part of a motion for summary decision by the administrative law judge shall not be subject to interlocutory appeal to the Assistant Secretary unless the administrative law judge certifies in writing that (1) the ruling involves an important question of law or policy as to which there are substantial grounds for difference of opinion, and (2) an immediate appeal from the ruling may materially advance termination of the proceeding. The allowance of an interlocutory appeal shall not stay the proceedings before the administrative law judge unless ordered by the Assistant Secretary.

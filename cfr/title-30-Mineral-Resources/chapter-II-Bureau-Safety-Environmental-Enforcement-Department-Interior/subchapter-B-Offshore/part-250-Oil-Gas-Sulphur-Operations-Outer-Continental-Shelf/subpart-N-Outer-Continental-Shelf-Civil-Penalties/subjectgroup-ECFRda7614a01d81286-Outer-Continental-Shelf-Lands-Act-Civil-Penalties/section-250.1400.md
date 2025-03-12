@@ -1,0 +1,3 @@
+##### § 250.1400 How does BSEE begin the civil penalty process? #####
+
+This subpart explains BSEEs civil penalty procedures whenever a lessee, operator or other person engaged in oil, gas, sulphur or other minerals operations in the OCS has a violation. Whenever BSEE determines, on the basis of available evidence, that a violation occurred and a civil penalty review is appropriate, it will prepare a case file. BSEE will appoint a Reviewing Officer.

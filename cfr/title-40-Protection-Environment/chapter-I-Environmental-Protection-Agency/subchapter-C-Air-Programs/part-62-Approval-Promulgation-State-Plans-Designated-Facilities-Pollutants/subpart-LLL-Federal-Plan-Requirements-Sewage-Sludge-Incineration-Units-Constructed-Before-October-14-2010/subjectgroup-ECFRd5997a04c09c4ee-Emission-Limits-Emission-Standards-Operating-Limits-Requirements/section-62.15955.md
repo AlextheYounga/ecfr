@@ -1,0 +1,3 @@
+##### § 62.15955 What emission limits and standards must I meet and by when? #####
+
+You must meet the emission limits and standards specified in Table 2 or 3 to this subpart by the final compliance date specified in § 62.15875. The emission limits and standards apply at all times the unit is operating and during periods of malfunction. The emission limits and standards apply to emissions from a bypass stack or vent while sewage sludge is in the combustion chamber (*i.e.,* until the sewage sludge feed to the combustor has been cut off for a period of time not less than the sewage sludge incineration residence time).

@@ -1,0 +1,5 @@
+##### 2515.215-70 NSF negotiation authorities. #####
+
+(a) *Authorities.* Citation: 42 U.S.C. 1870(c).
+
+(b) *Application.* When an NSF contract is for scientific activities which are determined by the NSF contracting officer to be “necessary to carry out the purposes of the NSF Act,” then 41 U.S.C. 252(c)(15) is applicable and the contract may be entered into through negotiation rather than formal advertising. The Foundation's contracting officer may, in lieu of reliance on 42 U.S.C. 1870(c) and 41 U.S.C. 252(c)(15), utilize other applicable negotiating authorities at his or her discretion. 42 U.S.C. 1870(c) and 41 U.S.C. 252(c)(15) may also be used to authorize negotiation if the Foundation is carrying out, “at the request of the Secretary of State or Secretary of Defense, specific scientific activities in connection with matters relating to international cooperation or national security.” Contracts or their modifications entered into under this authority may be done so without legal consideration and without performance or other bonds.

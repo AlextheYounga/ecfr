@@ -1,0 +1,3 @@
+##### 2801.404 Class deviations. #####
+
+Requests for class deviations from the FAR or the JAR shall be submitted to the PE. The PE will consult with the chairperson of the Civilian Agency Acquisition Council, as appropriate, and send his/her recommendations to the Assistant Attorney General for Administration (AAG/A). The AAG/A will grant or deny requests for such deviations. For the purposes of this chapter, requests for deviations involving basic ordering agreements, master type contracts, or situations where multiple awards are made from one solicitation, are considered to involve more than one contract and therefore considered to be class deviation requests.

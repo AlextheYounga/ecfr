@@ -1,0 +1,3 @@
+##### § 455.19 Provider's statement on check. #####
+
+As an alternative to the statements required in § 455.18, the agency may print the following wording above the claimant's endorsement on the reverse of checks or warrants payable to each provider: “I understand in endorsing or depositing this check that payment will be from Federal and State funds and that any falsification, or concealment of a material fact, may be prosecuted under Federal and State laws.”

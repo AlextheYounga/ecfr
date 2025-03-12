@@ -1,0 +1,5 @@
+##### § 840.12 Right of entry. #####
+
+(a) Within its jurisdiction, the State regulatory authority shall have authority that grants its representatives a right of entry to, upon, and through any coal exploration or surface coal mining and reclamation operation without advance notice upon presentation of appropriate credentials. No search warrant shall be required, except that a State may provide for its use with respect to entry into a building.
+
+(b) The State regulatory authority shall have authority that authorizes its representatives to inspect any monitoring equipment or method of exploration or operation and to have access to and copy any records required under the approved State program. This authority shall provide that the representatives may exercise such rights at reasonable times, without advance notice, upon presentation of appropriate credentials. No search warrant shall be required, except that a State may provide for its use with respect to entry into a building.

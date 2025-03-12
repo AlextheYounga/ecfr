@@ -1,0 +1,9 @@
+##### § 579.6 Address for submitting reports and other information. #####
+
+(a) Except as provided by paragraph (b) of this section, information, reports, and documents required to be submitted to NHTSA pursuant to this part may be submitted by mail, by facsimile, or by e-mail. If submitted by mail, they must be addressed to the Associate Administrator for Enforcement, National Highway Traffic Safety Administration, Attention: Early Warning Division (NVS-217), 1200 New Jersey Avenue, SE., Washington, DC 20590. If submitted by facsimile, they must be addressed to the Associate Administrator for Enforcement and transmitted to (202) 366-7882. If submitted by e-mail, submissions under subpart B of this part must be submitted to *frecalls@dot.gov* and submissions under § 579.5 must be submitted to *tsb@dot.gov.*
+
+(b)(1) Information, documents and reports that are submitted to NHTSA's early warning data repository must be submitted in accordance with § 579.29 of this part. Submissions must be made by a means that permits the sender to verify that the report was in fact received by NHTSA and the day it was received by NHTSA.
+
+(2) The annual list of substantially similar vehicles submitted pursuant to § 579.11(e) of this part shall be submitted to NHTSA's early warning data repository identified on NHTSA's Web page *http://www-odi.nhtsa.dot.gov/ewr/ewr.cfm.* A manufacturer shall use the template provided at the early warning Web site, also identified on NHTSA's Web page *http://www-odi.nhtsa.dot.gov/ewr/xls.cfm,* for submitting the list.
+
+[68 FR 4113, Jan. 28, 2003, as amended at 72 FR 32017, June 11, 2007; 78 FR 51424, Aug. 20, 2013]

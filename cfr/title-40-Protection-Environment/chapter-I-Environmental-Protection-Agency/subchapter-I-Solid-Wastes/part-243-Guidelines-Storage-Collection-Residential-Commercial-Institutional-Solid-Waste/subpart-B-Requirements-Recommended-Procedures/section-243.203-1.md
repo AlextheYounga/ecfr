@@ -1,0 +1,3 @@
+##### § 243.203-1 Requirement. #####
+
+Solid wastes (or materials which have been separated for the purpose of recycling) shall be collected with frequency sufficient to inhibit the propagation or attraction of vectors and the creation of nuisances. Solid wastes which contain food wastes shall be collected at a minimum of once during each week. Bulky wastes shall be collected at a minimum of once every 3 months.

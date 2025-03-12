@@ -1,0 +1,3 @@
+##### § 622.104 Order to conduct formal investigation. #####
+
+A formal investigation begins with the issuance of an order by the Board. The order shall designate the person or persons who will conduct the investigation, issue, revoke, quash or modify subpoenas and subpoenas duces tecum, take or cause to be taken depositions, administer oaths, and receive affirmations as to any matter under investigation by the FCA. Upon application and for good cause shown, the Board may limit, modify, or withdraw the order at any stage of the proceeding.

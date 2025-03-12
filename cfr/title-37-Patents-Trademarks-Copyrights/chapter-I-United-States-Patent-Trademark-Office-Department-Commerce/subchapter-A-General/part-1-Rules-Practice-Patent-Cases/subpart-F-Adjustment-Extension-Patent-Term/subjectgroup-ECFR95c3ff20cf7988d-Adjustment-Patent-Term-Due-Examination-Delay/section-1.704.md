@@ -1,0 +1,65 @@
+##### § 1.704 Reduction of period of adjustment of patent term. #####
+
+(a) The period of adjustment of the term of a patent under §§ 1.703(a) through (e) shall be reduced by a period equal to the period of time during which the applicant failed to engage in reasonable efforts to conclude prosecution (processing or examination) of the application.
+
+(b) With respect to the grounds for adjustment set forth in §§ 1.702(a) through (e), and in particular the ground of adjustment set forth in § 1.702(b), an applicant shall be deemed to have failed to engage in reasonable efforts to conclude processing or examination of an application for the cumulative total of any periods of time in excess of three months that are taken to reply to any notice or action by the Office making any rejection, objection, argument, or other request, measuring such three-month period from the date the notice or action was mailed or given to the applicant, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date that is three months after the date of mailing or transmission of the Office communication notifying the applicant of the rejection, objection, argument, or other request and ending on the date the reply was filed. The period, or shortened statutory period, for reply that is set in the Office action or notice has no effect on the three-month period set forth in this paragraph.
+
+(c) Circumstances that constitute a failure of the applicant to engage in reasonable efforts to conclude processing or examination of an application also include the following circumstances, which will result in the following reduction of the period of adjustment set forth in § 1.703 to the extent that the periods are not overlapping:
+
+(1) Suspension of action under § 1.103 at the applicant's request, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the date a request for suspension of action under § 1.103 was filed and ending on the date of the termination of the suspension;
+
+(2) Deferral of issuance of a patent under § 1.314, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the date a request for deferral of issuance of a patent under § 1.314 was filed and ending on the date the patent was issued;
+
+(3) Abandonment of the application or late payment of the issue fee, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the date of abandonment or the date after the date the issue fee was due and ending on the earlier of:
+
+(i) The date of mailing of the decision reviving the application or accepting late payment of the issue fee; or
+
+(ii) The date that is four months after the date the grantable petition to revive the application or accept late payment of the issue fee was filed;
+
+(4) Failure to file a petition to withdraw the holding of abandonment or to revive an application within two months from the mailing date of a notice of abandonment, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date two months from the mailing date of a notice of abandonment and ending on the date a petition to withdraw the holding of abandonment or to revive the application was filed;
+
+(5) Conversion of a provisional application under 35 U.S.C. 111(b) to a nonprovisional application under 35 U.S.C. 111(a) pursuant to 35 U.S.C. 111(b)(5), in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the date the application was filed under 35 U.S.C. 111(b) and ending on the date a request in compliance with § 1.53(c)(3) to convert the provisional application into a nonprovisional application was filed;
+
+(6) Submission of a preliminary amendment or other preliminary paper less than one month before the mailing of an Office action under 35 U.S.C. 132 or notice of allowance under 35 U.S.C. 151 that requires the mailing of a supplemental Office action or notice of allowance, in which case the period of adjustment set forth in § 1.703 shall be reduced by the lesser of:
+
+(i) The number of days, if any, beginning on the day after the mailing date of the original Office action or notice of allowance and ending on the date of mailing of the supplemental Office action or notice of allowance; or
+
+(ii) Four months;
+
+(7) Submission of a reply having an omission (§ 1.135(c)), in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date the reply having an omission was filed and ending on the date that the reply or other paper correcting the omission was filed;
+
+(8) Submission of a supplemental reply or other paper, other than a supplemental reply or other paper expressly requested by the examiner, after a reply has been filed, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date the initial reply was filed and ending on the date that the supplemental reply or other such paper was filed;
+
+(9) Submission of an amendment or other paper after a decision by the Patent Trial and Appeal Board, other than a decision designated as containing a new ground of rejection under § 41.50 (b) of this title or statement under § 41.50(c) of this title, or a decision by a Federal court, less than one month before the mailing of an Office action under 35 U.S.C. 132 or notice of allowance under 35 U.S.C. 151 that requires the mailing of a supplemental Office action or supplemental notice of allowance, in which case the period of adjustment set forth in § 1.703 shall be reduced by the lesser of:
+
+(i) The number of days, if any, beginning on the day after the mailing date of the original Office action or notice of allowance and ending on the mailing date of the supplemental Office action or notice of allowance; or
+
+(ii) Four months;
+
+(10) Submission of an amendment under § 1.312 or other paper, other than a request for continued examination in compliance with § 1.114, after a notice of allowance has been given or mailed, in which case the period of adjustment set forth in § 1.703 shall be reduced by the lesser of:
+
+(i) The number of days, if any, beginning on the date the amendment under § 1.312 or other paper was filed and ending on the mailing date of the Office action or notice in response to the amendment under § 1.312 or such other paper; or
+
+(ii) Four months;
+
+(11) Failure to file an appeal brief in compliance with § 41.37 of this chapter within three months from the date on which a notice of appeal to the Patent Trial and Appeal Board was filed under 35 U.S.C. 134 and § 41.31 of this chapter, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date three months from the date on which a notice of appeal to the Patent Trial and Appeal Board was filed under 35 U.S.C. 134 and § 41.31 of this chapter, and ending on the date an appeal brief in compliance with § 41.37 of this chapter or a request for continued examination in compliance with § 1.114 was filed;
+
+(12) Submission of a request for continued examination under 35 U.S.C. 132(b) after any notice of allowance under 35 U.S.C. 151 has been mailed, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date of mailing of the notice of allowance under 35 U.S.C. 151 and ending on the date the request for continued examination under 35 U.S.C. 132(b) was filed;
+
+(13) Failure to provide an application in condition for examination as defined in paragraph (f) of this section within eight months from either the date on which the application was filed under 35 U.S.C. 111(a) or the date of commencement of the national stage under 35 U.S.C. 371(b) or (f) in an international application, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date that is eight months from either the date on which the application was filed under 35 U.S.C. 111(a) or the date of commencement of the national stage under 35 U.S.C. 371(b) or (f) in an international application and ending on the date the application is in condition for examination as defined in paragraph (f) of this section; and
+
+(14) Further prosecution via a continuing application, in which case the period of adjustment set forth in § 1.703 shall not include any period that is prior to the actual filing date of the application that resulted in the patent.
+
+(d)(1) A paper containing only an information disclosure statement in compliance with §§ 1.97 and 1.98 will not be considered a failure to engage in reasonable efforts to conclude prosecution (processing or examination) of the application under paragraphs (c)(6), (c)(8), (c)(9), or (c)(10) of this section, and a request for continued examination in compliance with § 1.114 with no submission other than an information disclosure statement in compliance with §§ 1.97 and 1.98 will not be considered a failure to engage in reasonable efforts to conclude prosecution (processing or examination) of the application under paragraph (c)(12) of this section, if the paper or request for continued examination is accompanied by a statement that each item of information contained in the information disclosure statement:
+
+(i) Was first cited in any communication from a patent office in a counterpart foreign or international application or from the Office, and this communication was not received by any individual designated in § 1.56(c) more than thirty days prior to the filing of the information disclosure statement; or
+
+(ii) Is a communication that was issued by a patent office in a counterpart foreign or international application or by the Office, and this communication was not received by any individual designated in § 1.56(c) more than thirty days prior to the filing of the information disclosure statement.
+
+(2) The thirty-day period set forth in paragraph (d)(1) of this section is not extendable.
+
+(e) The submission of a request under § 1.705(c) for reinstatement of reduced patent term adjustment will not be considered a failure to engage in reasonable efforts to conclude prosecution (processing or examination) of the application under paragraph (c)(10) of this section.
+
+(f) An application filed under 35 U.S.C. 111(a) is in condition for examination when the application includes a specification, including at least one claim and an abstract (§ 1.72(b)), and has papers in compliance with § 1.52, drawings (if any) in compliance with § 1.84, any English translation required by § 1.52(d) or § 1.57(a), a sequence listing in compliance with § 1.821 through § 1.825 (if applicable), the inventor's oath or declaration or an application data sheet containing the information specified in § 1.63(b), the basic filing fee (§ 1.16(a) or § 1.16(c)), the search fee (§ 1.16(k) or § 1.16(m)), the examination fee (§ 1.16(o) or § 1.16(q)), any certified copy of the previously filed application required by § 1.57(a), and any application size fee required by the Office under § 1.16(s). An international application is in condition for examination when the application has entered the national stage as defined in § 1.491(b), and includes a specification, including at least one claim and an abstract (§ 1.72(b)), and has papers in compliance with § 1.52, drawings (if any) in compliance with § 1.84, a sequence listing in compliance with § 1.821 through § 1.825 (if applicable), the inventor's oath or declaration or an application data sheet containing the information specified in § 1.63(b), the search fee (§ 1.492(b)), the examination fee (§ 1.492(c)), and any application size fee required by the Office under § 1.492(j). An application shall be considered as having papers in compliance with § 1.52, drawings (if any) in compliance with § 1.84, and a sequence listing in compliance with § 1.821 through § 1.825 (if applicable) for purposes of this paragraph on the filing date of the latest reply (if any) correcting the papers, drawings, or sequence listing that is prior to the date of mailing of either an action under 35 U.S.C. 132 or a notice of allowance under 35 U.S.C. 151, whichever occurs first.
+
+[65 FR 56393, Sept. 18, 2000, as amended at 69 FR 21711, Apr. 22, 2004; 69 FR 50002, Aug. 12, 2004; 72 FR 46843, Aug. 21, 2007; 74 FR 52691, Oct. 14, 2009; 76 FR 74702, Dec. 1, 2011; 77 FR 46628, Aug. 6, 2012; 77 FR 49360, Aug. 16, 2012; 78 FR 19420, Apr. 1, 2013; 78 FR 62408, Oct. 21, 2013; 80 FR 1356, Jan. 9, 2015]

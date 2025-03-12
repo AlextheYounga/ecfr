@@ -1,0 +1,3 @@
+##### § 266.325 Are you subject to the manifest and transportation condition in § 266.315(b)? #####
+
+If you are not already subject to NRC, or NRC Agreement State equivalent manifest and transportation regulations for the shipment of your waste, you must meet the manifest requirements under 10 CFR 20.2006 (or NRC Agreement State equivalent regulations), and the transportation requirements under 10 CFR 1.5 (or NRC Agreement State equivalent regulations) to ship the exempted waste.

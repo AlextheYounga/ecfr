@@ -1,0 +1,3 @@
+##### § 1263.106 Final decision of the General Counsel as to production, disclosure, or appearance. #####
+
+After consideration of the factors enumerated in § 1263.105 (a) through (f), the General Counsel or designate may authorize the testimony, disclosure, or production as demanded; limit the subject matter or extent of any testimony, disclosure, or production through written instruction to the employee; or deny permission for any testimony, disclosure, or production. Where appropriate, the General Counsel or designate may seek withdrawal of the demand by the authorizing party. Any decision of the General Counsel or designate shall be final and shall be communicated to the employee and the party causing the demand to be issued.

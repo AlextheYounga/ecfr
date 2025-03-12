@@ -1,0 +1,3 @@
+##### § 302.409 Default. #####
+
+Failure of a respondent to file and serve an answer within the time and in the manner prescribed by § 302.408 shall be deemed to authorize the DOT decisionmaker or administrative law judge, as a matter of discretion, to find the facts alleged in the complaint incorporated in or accompanying the notice instituting a formal enforcement proceeding to be true and to enter such orders as may be appropriate without notice or hearing, or, as a matter of discretion, to proceed to take proof, without notice, of the allegations or charges set forth in the complaint or order; *Provided,* that the DOT decisionmaker or administrative law judge may permit late filing of an answer for good cause shown.

@@ -1,0 +1,3 @@
+##### § 581.30 Minimum royalty. #####
+
+Unless otherwise specified in the leasing notice, each lease issued pursuant to the regulations in this part shall require the payment of a specified minimum annual royalty beginning with the year in which OCS minerals are produced (sold, transferred, used, or otherwise disposed of) from the leasehold except that the annual rentals shall apply during any year that royalty free production is in effect pursuant to § 581.28(b). Minimum royalty payments shall be offset by royalty paid on production during the lease year. Minimum royalty payments are due at the beginning of the lease year and payable by the end of the month following the end of the lease year for which they are due.

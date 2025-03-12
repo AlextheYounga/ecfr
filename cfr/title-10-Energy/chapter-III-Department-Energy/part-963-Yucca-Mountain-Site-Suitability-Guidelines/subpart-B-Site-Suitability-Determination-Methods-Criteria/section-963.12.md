@@ -1,0 +1,3 @@
+##### § 963.12 Preclosure suitability determination. #####
+
+DOE will apply the method and criteria described in §§ 963.13 and 963.14 to evaluate the suitability of the Yucca Mountain site for the preclosure period. If DOE finds that the results of the preclosure safety evaluation conducted under § 963.13 show that the Yucca Mountain site is likely to meet the applicable radiation protection standard, DOE may determine the site suitable for the preclosure period.

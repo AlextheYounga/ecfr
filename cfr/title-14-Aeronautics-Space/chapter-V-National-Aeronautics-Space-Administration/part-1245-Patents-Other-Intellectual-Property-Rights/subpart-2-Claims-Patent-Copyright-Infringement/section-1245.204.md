@@ -1,0 +1,3 @@
+##### § 1245.204 Indirect notice of infringement. #####
+
+A communication by a patent or copyright owner to addressees other than those specified in § 1245.202(a), such as NASA contractors, including contractors operating Government-owned facilities, alleging that acts of infringement have occurred in the performance of a Government contract, grant, or other arrangement, shall not be considered a claim within the meaning of § 1245.202(a) until such communication meets the requirements specified therein.

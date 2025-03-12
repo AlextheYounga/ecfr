@@ -1,0 +1,20 @@
+##### § 250.858 Gas compressors. #####
+
+(a) You must equip compressor installations with the following protective equipment as required in API RP 14C, sections A.4 and A.8 (incorporated by reference as specified in § 250.198).
+
+(1) A pressure safety high (PSH) sensor, a pressure safety low (PSL) sensor, a pressure safety valve (PSV), a level safety high (LSH) sensor, and a level safety low (LSL) sensor to protect each interstage and suction scrubber.
+
+(2) A temperature safety high (TSH) sensor in the discharge piping of each compressor cylinder or case discharge.
+
+(3) You must design the PSH and PSL sensors and LSH controls protecting compressor suction and interstage scrubbers to actuate automatic SDVs located in each compressor suction and fuel gas line so that the compressor unit and the associated vessels can be isolated from all input sources. All automatic SDVs installed in compressor suction and fuel gas piping must also be actuated by the shutdown of the prime mover. Unless otherwise approved by the District Manager, gas-well gas affected by the closure of the automatic SDV on the suction side of a compressor must be diverted to the pipeline, diverted to a flare or vent in accordance with §§ 250.1160 or 250.1161, or shut-in at the wellhead.
+
+(4) You must install a blowdown valve on the discharge line of all compressor installations that are 1,000 horsepower (746 kilowatts) or greater.
+
+(b) Once system pressure has stabilized, you must use pressure recording devices to establish the new operating pressure ranges for compressor discharge sensors whenever the normalized system pressure changes by 50 psig or 5 percent, whichever is higher. The pressure recording devices must document the pressure range over time intervals that are no less than 4 hours and no more than 30 days long. You must maintain the most recent pressure recording information that you used to determine operating pressure ranges at your field office nearest the OCS facility or at another location conveniently available to the District Manager.
+
+(c) Pressure shut-in sensors must be set according to the following table (initial set points for pressure sensors must be set utilizing gauge readings and engineering design):
+
+|Type of sensor |                                                                                                          Settings                                                                                                           |                                                                             Additional requirements                                                                              |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(1) PSH sensor,|Must be set no higher than 15 percent or 5 psi (whichever is greater) above the highest operating pressure of the discharge line and sufficiently below the maximum discharge pressure to ensure actuation of the suction SDV|Must also be set sufficiently below (5 percent or 5 psi, whichever is greater) the set pressure of the PSV to assure that the pressure source is shut-in before the PSV activates.|
+|(2) PSL sensor,|                                   Must be set no lower than 15 percent or 5 psi (whichever is greater) below the lowest operating pressure of the discharge line in which it is installed                                   |                                                                                                                                                                                  |

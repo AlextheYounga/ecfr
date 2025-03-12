@@ -1,0 +1,9 @@
+##### § 97.20 General. #####
+
+(a) This subpart prescribes standard instrument approach procedures and takeoff minimums and obstacle departure procedures (ODPs) based on the criteria contained in FAA Order 8260.3, U.S. Standard for Terminal Instrument Procedures (TERPs), and other related Orders in the 8260 series that also address instrument procedure design criteria.
+
+(b) Standard instrument approach procedures and associated supporting data adopted by the FAA are documented on FAA Forms 8260-3, 8260-4, 8260-5. Takeoff minimums and obstacle departure procedures (ODPs) are documented on FAA Form 8260-15A. These forms are incorporated by reference. The Director of the Federal Register approved this incorporation by reference pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standard instrument approach procedures and takeoff minimums and obstacle departure procedures (ODPs) are available for examination at the FAA's Rules Docket (AGC-200) and at the National Flight Data Center, 800 Independence Avenue, SW., Washington, DC 20590, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) Standard instrument approach procedures and takeoff minimums and obstacle departure procedures (ODPs) are depicted on aeronautical charts published by the FAA National Aeronautical Charting Office. These charts are available for purchase from the FAA's National Aeronautical Charting Office, Distribution Division, 6303 Ivy Lane, Suite 400, Greenbelt, MD 20770.
+
+[Doc. No. FAA-2002-14002, 72 FR 31680, June 7, 2007]

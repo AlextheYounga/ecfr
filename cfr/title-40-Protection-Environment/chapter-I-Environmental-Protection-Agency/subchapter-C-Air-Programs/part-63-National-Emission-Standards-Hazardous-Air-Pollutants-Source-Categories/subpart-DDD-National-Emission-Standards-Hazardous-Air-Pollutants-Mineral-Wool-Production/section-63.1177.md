@@ -1,0 +1,3 @@
+##### § 63.1177 Am I subject to this subpart? #####
+
+You are subject to this subpart if you own or operate an existing, new, or reconstructed mineral wool production facility that is located at a plant site that is a major source of hazardous air pollutant (HAP) emissions, meaning the plant emits or has the potential to emit any single HAP at a rate of 9.07 megagrams (10 tons) or more per year or any combination of HAPs at a rate of 22.68 megagrams (25 tons) or more per year.

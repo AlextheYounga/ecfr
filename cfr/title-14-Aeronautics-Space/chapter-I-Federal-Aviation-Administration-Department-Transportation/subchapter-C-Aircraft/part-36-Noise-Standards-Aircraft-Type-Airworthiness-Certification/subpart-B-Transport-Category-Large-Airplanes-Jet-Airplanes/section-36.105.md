@@ -1,0 +1,5 @@
+##### § 36.105 Flight Manual Statement of Chapter 4 equivalency. #####
+
+For each airplane that meets the requirements for Stage 4 certification, the Airplane Flight Manual or operations manual must include the following statement: “The following noise levels comply with part 36, Appendix B, Stage 4 maximum noise level requirements and were obtained by analysis of approved data from noise tests conducted under the provisions of part 36, Amendment 36 (insert part 36 amendment to which the airplane was certificated). The noise measurement and evaluation procedures used to obtain these noise levels are considered by the FAA to be equivalent to the Chapter 4 noise level required by the International Civil Aviation Organization (ICAO) in Annex 16, Volume I, Appendix 2, Amendment 7, effective March 21, 2002.” [Incorporated by reference, see § 36.6].
+
+[Amdt. 36-26, 70 FR 38749, July 5, 2005; 70 FR 41610, July 20, 2005]

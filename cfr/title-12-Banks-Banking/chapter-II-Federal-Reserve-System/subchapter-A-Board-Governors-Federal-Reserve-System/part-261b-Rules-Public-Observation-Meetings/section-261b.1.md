@@ -1,0 +1,3 @@
+##### § 261b.1 Basis and scope. #####
+
+This part is issued by the Board of Governors of the Federal Reserve System (“the Board”) under section 552b of title 5 of the United States Code, the Government in the Sunshine Act (“the Act”), to carry out the policy of the Act that the public is entitled to the fullest practicable information regarding the decision making processes of the Board while at the same time preserving the rights of individuals and the ability of the Board to carry out its responsibilities. These regulations fulfill the requirement of subsection (g) of the Act that each agency subject to the provisions of the Act shall promulgate regulations to implement the open meeting requirements of subsections (b) through (f) of the Act.

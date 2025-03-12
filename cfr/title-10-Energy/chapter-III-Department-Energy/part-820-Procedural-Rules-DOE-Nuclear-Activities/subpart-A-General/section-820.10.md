@@ -1,0 +1,7 @@
+##### § 820.10 Office of the docketing clerk. #####
+
+(a) *Docket.* The Docketing Clerk shall maintain a docket for enforcement actions commencing with the issuance of a Preliminary Notice of Violation, interpretations issued pursuant to subpart D of this part, exemptions issued pursuant to subpart E of this part, and any other matters designated by the Secretary. A docket for an enforcement action shall contain all documents required to be filed in the proceeding.
+
+(b) *Public inspection.* Subject to the provisions of law restricting the public disclosure of certain information, any person may, during Department business hours, inspect and copy any document filed with the Docketing Clerk. The cost of duplicating documents shall be borne by the person seeking copies of such documents. The DOE Official may waive this cost in appropriate cases.
+
+(c) *Transcript.* Except as otherwise provided in this part, after the filing of a Preliminary Notice of Violation, all hearings, conferences, and other meetings in the enforcement process shall be transcribed verbatim. A copy of the transcript shall be filed with the Docketing Clerk promptly. The Docketing Clerk shall serve all participants with notice of the availability of the transcript and shall furnish the participants with a copy of the transcript upon payment of the cost of reproduction, unless a participant can show that the cost is unduly burdensome.

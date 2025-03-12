@@ -1,0 +1,3 @@
+##### § 250.102 Delegated authorities. #####
+
+OPM may delegate its authority, including authority for competitive examinations, to agencies, under 5 U.S.C. 1104(a)(2), through a delegation agreement. The delegation agreement developed with the agency must specify the conditions for applying the delegated authorities. The agreement must also set minimum standards of performance and describe the system of oversight by which the agency and OPM will monitor the use of each delegated authority.

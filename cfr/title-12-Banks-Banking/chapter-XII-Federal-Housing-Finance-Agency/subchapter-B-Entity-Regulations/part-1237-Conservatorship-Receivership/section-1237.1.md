@@ -1,0 +1,3 @@
+##### § 1237.1 Purpose and applicability. #####
+
+The provisions of this part shall apply to the appointment and operations of the Federal Housing Finance Agency (“Agency”) as conservator or receiver of a regulated entity. These provisions implement and supplement the procedures and process set forth in the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended, by the Housing and Economic Recovery Act of 2008 (HERA), Public Law 110-289 for conduct of a conservatorship or receivership of such entity.

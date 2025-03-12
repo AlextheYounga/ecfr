@@ -1,0 +1,9 @@
+##### § 122.27 Silvicultural activities (applicable to State NPDES programs, see § 123.25). #####
+
+(a) *Permit requirement.* Silvicultural point sources, as defined in this section, as point sources subject to the NPDES permit program.
+
+(b) *Definitions.* (1) *Silvicultural point source* means any discernible, confined and discrete conveyance related to rock crushing, gravel washing, log sorting, or log storage facilities which are operated in connection with silvicultural activities and from which pollutants are discharged into waters of the United States. The term does not include non-point source silvicultural activities such as nursery operations, site preparation, reforestation and subsequent cultural treatment, thinning, prescribed burning, pest and fire control, harvesting operations, surface drainage, or road construction and maintenance from which there is natural runoff. However, some of these activities (such as stream crossing for roads) may involve point source discharges of dredged or fill material which may require a CWA section 404 permit (See 33 CFR 209.120 and part 233).
+
+(2) *Rock crushing and gravel washing facilities* means facilities which process crushed and broken stone, gravel, and riprap (See 40 CFR part 436, subpart B, including the effluent limitations guidelines).
+
+(3) *Log sorting and log storage facilities* means facilities whose discharges result from the holding of unprocessed wood, for example, logs or roundwood with bark or after removal of bark held in self-contained bodies of water (mill ponds or log ponds) or stored on land where water is applied intentionally on the logs (wet decking). (See 40 CFR part 429, subpart I, including the effluent limitations guidelines).

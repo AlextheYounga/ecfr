@@ -1,0 +1,3 @@
+##### § 250.701 May I use alternate procedures or equipment during operations? #####
+
+You may use alternate procedures or equipment during operations after receiving approval as described in § 250.141. You must identify and discuss your proposed alternate procedures or equipment in your Application for Permit to Drill (APD) (Form BSEE-0123) (see § 250.414(h)) or your Application for Permit to Modify (APM) (Form BSEE-0124). Procedures for obtaining approval of alternate procedures or equipment are described in § 250.141.

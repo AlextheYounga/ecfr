@@ -1,0 +1,3 @@
+##### § 60.1115 What is a siting analysis? #####
+
+The siting analysis addresses how your municipal waste combustion unit affects ambient air quality, visibility, soils, vegetation, and other relevant factors. The analysis can be used to determine whether the benefits of your proposed facility significantly outweigh the environmental and social costs resulting from its location and construction. The analysis must also consider other major industrial facilities near the proposed site.

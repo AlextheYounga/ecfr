@@ -1,0 +1,3 @@
+##### § 579.1 Scope. #####
+
+This part sets forth requirements for reporting information and submitting documents that may help identify defects related to motor vehicle safety and noncompliances with Federal motor vehicle safety standards, including reports of foreign safety recalls and other safety-related campaigns conducted outside the United States under 49 U.S.C. 30166(l), early warning information under 49 U.S.C. 30166(m), and copies of communications about defects and noncompliances under 49 U.S.C. 30166(f).

@@ -1,0 +1,23 @@
+##### § 587.15 Verification of aluminum honeycomb crush strength. #####
+
+The following procedure is used to ascertain the crush strength of the main honeycomb block and the bumper element honeycomb, as specified in §§ 587.14(a)(2) and 587.14(b)(2).
+
+(a) *Sample locations.* To ensure uniformity of crush strength across the whole of the deformable face, 8 samples are taken from 4 locations evenly spaced across the honeycomb material. Seven of these 8 samples must meet the crush strength requirements when tested in accordance with the following sections. The location of the samples depends on the size of the honeycomb material being tested. Four samples, each measuring 300 mm (11.8 in) × 300 mm (11.8 in) × 25 mm (1 in) thick are cut from the honeycomb material. (See Figure 2 for how to locate these samples on two different sizes of honeycomb material.) Each of these larger samples is cut into samples of the size specified in § 587.15(b). Verification is based on the testing of two samples from each of the four locations. The other two samples are retained for future verification, if necessary.
+
+(b) *Sample size.* Samples of the following size are used for testing. The length is 150 mm (5.9 in) ±6 mm (0.24 in), the width is 150 mm (5.9 in) ±6 mm (0.24 in), and the thickness is 25 mm (1 in) ±2 mm (0.08 in). The walls of incomplete cells around the edge of the sample are trimmed as follows (See Figure 3). In the width (“W”) direction, the fringes (“f”) are no greater than 1.8 mm (0.07 in); in the length (“L”) direction, the fringes (“e”) are at least half the length of one bonded cell wall (“d”) (in the ribbon direction).
+
+(c) *Area measurement.* The length of the sample is measured in three locations, 12.7 mm (0.5 in) from each end and in the middle, and recorded as L1, L2, and L3 (Figure 3). In the same manner, the width is measured and recorded as W1, W2, and W3 (Figure 3). These measurements are taken on the centerline of the thickness. The crush area is then calculated as:
+
+![](/graphics/er31mr00.013.gif)
+
+(d) *Crush rate and distance.* The sample is crushed at a rate of not less than 5.1 mm/min (0.2 in/ min) and not more than 7.6 mm/min (0.29 in/min). The minimum crush distance is 16.5 mm (0.65 in). Force versus deflection data are collected in either analog or digital form for each sample tested. If analog data are collected, a means of converting the data to digital data must be made available. All digital data are collected at a rate consistent with SAE Recommended Practice J211/1 Rev. MAR 95 (see § 587.12).
+
+(e) *Crush strength determination.* Ignore all data prior to 6.4 mm (0.25 in) of crush and after 16.5 mm (0.65 in) of crush. Divide the remaining data into three sections or displacement intervals (n = 1, 2, 3) (see Figure 4) as follows. Interval one is from 6.4-9.7 mm (0.25-0.38 in) deflection, inclusive. Interval two is from 9.7-13.2 mm (0.38-0.52 in) deflection, exclusive. Interval three is from 13.2-16.5 mm (0.52-0.65 in) deflection, inclusive. Find the average for each section as follows:
+
+![](/graphics/er31mr00.014.gif)where m represents the number of data points measured in each of the three intervals. Calculate the crush strength of each section as follows:![](/graphics/er31mr00.015.gif)
+
+(f) *Sample crush strength specification.* For a honeycomb sample to meet crush strength requirements, the following condition must be met. For the 0.342 MPa (49.6 psi) material, the strength must be equal to or greater than 0.308 MPa (45 psi) but less than or equal to 0.342 MPa (49.6 psi) for all three compression intervals. For the 1.711 MPa (248 psi) material the strength must be equal to or greater than 1.540 MPa (223 psi) but less than or equal to 1.711 MPa (248 psi) for all three compression intervals.
+
+(g) *Testing hardware.* (1) The hardware used to verify crush strength is capable of applying a load of 13.3 kN (3,000 lb), over at least a 16.5 mm (0.65 in) stroke. The crush rate is constant and known. To ensure that the load is applied to the entire sample, the top and bottom crush plates are no smaller than 165 mm by 165 mm (6.5 in × 6.5 in). The engaging surfaces of the crush plates have a roughness approximately equivalent to 60 grit sandpaper. The bottom crush plate is marked to ensure that the applied load is centered on the sample.
+
+(2) The crush plate assemblies have an average angular rigidity (about axes normal to the direction of crush) of at least 1017 Nm/deg (750 ft-lb/deg), over the range of 0 to 203 Nm (0 to 150 ft-lb) applied torque.

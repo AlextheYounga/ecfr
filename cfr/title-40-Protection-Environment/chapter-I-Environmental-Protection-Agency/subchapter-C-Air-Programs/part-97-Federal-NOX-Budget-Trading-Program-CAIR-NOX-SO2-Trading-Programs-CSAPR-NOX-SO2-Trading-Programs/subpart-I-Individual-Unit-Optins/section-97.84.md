@@ -1,0 +1,17 @@
+##### § 97.84 Opt-in process. #####
+
+The permitting authority will issue or deny an initial NOX Budget opt-in permit for a unit for which an application for a NOX Budget opt-in permit under § 97.83 is submitted, in accordance with § 97.20 and the following:
+
+(a) *Interim review of monitoring plan.* The Administrator will determine, on an interim basis, the sufficiency of the monitoring plan accompanying the initial application for a NOX Budget opt-in permit under § 97.83. A monitoring plan is sufficient, for purposes of interim review, if the plan appears to contain information demonstrating that the NOX emissions rate and heat input rate of the unit are monitored and reported in accordance with subpart H of this part. A determination of sufficiency shall not be construed as acceptance or approval of the unit's monitoring plan.
+
+(b) If the Administrator determines that the unit's monitoring plan is sufficient under paragraph (a) of this section and after completion of monitoring system certification under subpart H of this part, the NOX emissions rate and the heat input of the unit shall be monitored and reported in accordance with subpart H of this part for one full control period during which percent monitor data availability is not less than 90 percent and during which the unit is in full compliance with any applicable State or Federal emissions or emissions-related requirements. Solely for purposes of applying the requirements in the prior sentence, the unit shall be treated as a “NOX Budget unit” prior to issuance of a NOX Budget opt-in permit covering the unit.
+
+(c) Based on the information monitored and reported under paragraph (b) of this section, the Administrator will calculate the unit's baseline heat input, which will equal the unit's total heat input (in mmBtu) for the control period, and the unit's baseline NOX emissions rate, which will equal the unit's total NOX mass emissions (in lb) for the control period divided by the unit's baseline heat input.
+
+(d) *Issuance of draft NO*X*Budget opt-in permit for public comment.* The permitting authority will issue a draft NOX Budget opt-in permit for public comment in accordance with § 97.20.
+
+(e) Not withstanding paragraphs (a) through (d) of this section, if at any time before issuance of a draft NOX Budget opt-in permit for public comment for the unit, the Administrator or the permitting authority determines that the unit does not qualify as a NOX Budget opt-in unit under § 97.80, the permitting authority will issue a draft denial of a NOX Budget opt-in permit for public comment for the unit in accordance with § 97.20.
+
+(f) *Withdrawal of application for NO*X*Budget opt-in permit.* A NOX authorized account representative of a unit may withdraw its application for an initial NOX Budget opt-in permit under § 97.83 at any time prior to the issuance of the initial NOX Budget opt-in permit. Once the application for a NOX Budget opt-in permit is withdrawn, a NOX authorized account representative wanting to reapply must submit a new application for an initial NOX Budget permit under § 97.83.
+
+(g) The unit shall be a NOX Budget opt-in unit and a NOX Budget unit starting May 1 of the first control period starting after the issuance of the initial NOX Budget opt-in permit by the permitting authority.

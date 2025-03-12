@@ -1,0 +1,3 @@
+##### § 18.49 Connection boxes on machines. #####
+
+Connection boxes used to facilitate replacement of cables or machine components shall be explosion-proof. Portable-cable terminals on cable reels need not be in explosion-proof enclosures provided that connections are well made, adequately insulated, protected from damage by location, and securely clamped to prevent mechanical strain on the connections.

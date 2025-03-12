@@ -1,0 +1,37 @@
+##### § 51.350 Applicability. #####
+
+Inspection/maintenance (I/M) programs are required in both ozone and carbon monoxide (CO) nonattainment areas, depending upon population and nonattainment classification or design value.
+
+(a) *Nonattainment area classification and population criteria.* (1) States or areas within an ozone transport region shall implement enhanced I/M programs in any metropolitan statistical area (MSA), or portion of an MSA, within the State or area with a 1990 population of 100,000 or more as defined by the Office of Management and Budget (OMB) regardless of the area's attainment classification. In the case of a multi-state MSA, enhanced I/M shall be implemented in all ozone transport region portions if the sum of these portions has a population of 100,000 or more, irrespective of the population of the portion in the individual ozone transport region State or area.
+
+(2) Apart from those areas described in paragraph (a)(1) of this section, any area classified as serious or worse ozone nonattainment, or as moderate or serious CO nonattainment with a design value greater than 12.7 ppm, and having a 1980 Bureau of Census-defined (Census-defined) urbanized area population of 200,000 or more, shall implement enhanced I/M in the 1990 Census-defined urbanized area.
+
+(3) Any area classified, as of November 5, 1992, as marginal ozone nonattainment or moderate CO nonattainment with a design value of 12.7 ppm or less shall continue operating I/M programs that were part of an approved State Implementation Plan (SIP) as of November 15, 1990, and shall update those programs as necessary to meet the basic I/M program requirements of this subpart. Any such area required by the Clean Air Act, as in effect prior to November 15, 1990, as interpreted in EPA guidance, to have an I/M program shall also implement a basic I/M program. Serious, severe and extreme ozone areas and CO areas over 12.7 ppm shall also continue operating existing I/M programs and shall upgrade such programs, as appropriate, pursuant to this subpart.
+
+(4) Any area classified as moderate ozone nonattainment, and not required to implement enhanced I/M under paragraph (a)(1) of this section, shall implement basic I/M in any 1990 Census-defined urbanized area with a population of 200,000 or more.
+
+(5) [Reserved]
+
+(6) If the boundaries of a moderate ozone nonattainment area are changed pursuant to section 107(d)(4)(A)(i)-(ii) of the Clean Air Act, such that the area includes additional urbanized areas with a population of 200,000 or more, then a basic I/M program shall be implemented in these additional urbanized areas.
+
+(7) If the boundaries of a serious or worse ozone nonattainment area or of a moderate or serious CO nonattainment area with a design value greater than 12.7 ppm are changed any time after enactment pursuant to section 107(d)(4)(A) such that the area includes additional urbanized areas, then an enhanced I/M program shall be implemented in the newly included 1990 Census-defined urbanized areas, if the 1980 Census-defined urban area population is 200,000 or more.
+
+(8) If a marginal ozone nonattainment area, not required to implement enhanced I/M under paragraph (a)(1) of this section, is reclassified to moderate, a basic I/M program shall be implemented in the 1990 Census-defined urbanized area(s) with a population of 200,000 or more. If the area is reclassified to serious or worse, an enhanced I/M program shall be implemented in the 1990 Census-defined urbanized area, if the 1980 Census-defined urban area population is 200,000 or more.
+
+(9) If a moderate ozone or CO nonattainment area is reclassified to serious or worse, an enhanced I/M program shall be implemented in the 1990 Census-defined urbanized area, if the 1980 Census-defined population is 200,000 or more.
+
+(b) *Extent of area coverage.* (1) In an ozone transport region, the program shall cover all counties within subject MSAs or subject portions of MSAs, as defined by OMB in 1990, except largely rural counties having a population density of less than 200 persons per square mile based on the 1990 Census and counties with less than 1% of the population in the MSA may be excluded provided that at least 50% of the MSA population is included in the program. This provision does not preclude the voluntary inclusion of portions of an excluded county. Non-urbanized islands not connected to the mainland by roads, bridges, or tunnels may be excluded without regard to population.
+
+(2) Outside of ozone transport regions, programs shall nominally cover at least the entire urbanized area, based on the 1990 census. Exclusion of some urban population is allowed as long as an equal number of non-urban residents of the MSA containing the subject urbanized area are included to compensate for the exclusion.
+
+(3) Emission reduction benefits from expanding coverage beyond the minimum required urban area boundaries can be applied toward the reasonable further progress requirements or can be used for offsets, provided the covered vehicles are operated in the nonattainment area, but not toward the enhanced I/M performance standard requirement.
+
+(4) In a multi-state urbanized area with a population of 200,000 or more that is required under paragraph (a) of this section to implement I/M, any State with a portion of the area having a 1990 Census-defined population of 50,000 or more shall implement an I/M program. The other coverage requirements in paragraph (b) of this section shall apply in multi-state areas as well.
+
+(5) Notwithstanding the limitation in paragraph (b)(3) of this section, in an ozone transport region, States which opt for a program which meets the performance standard described in § 51.351(h) and claim in their SIP less emission reduction credit than the basic performance standard for one or more pollutants, may apply a geographic bubble covering areas in the State not otherwise subject to an I/M requirement to achieve emission reductions from other measures equal to or greater than what would have been achieved if the low enhanced performance standard were met in the subject I/M areas. Emissions reductions from non-I/M measures shall not be counted towards the OTR low enhanced performance standard.
+
+(c) *Requirements after attainment.* All I/M programs shall provide that the program will remain effective, even if the area is redesignated to attainment status or the standard is otherwise rendered no longer applicable, until the State submits and EPA approves a SIP revision which convincingly demonstrates that the area can maintain the relevant standard(s) without benefit of the emission reductions attributable to the I/M program. The State shall commit to fully implement and enforce the program until such a demonstration can be made and approved by EPA. At a minimum, for the purposes of SIP approval, legislation authorizing the program shall not sunset prior to the attainment deadline for the applicable National Ambient Air Quality Standards (NAAQS).
+
+(d) *SIP requirements.* The SIP shall describe the applicable areas in detail and, consistent with § 51.372 of this subpart, shall include the legal authority or rules necessary to establish program boundaries.
+
+[57 FR 52987, Nov. 5, 1992, as amended at 60 FR 48034, Sept. 18, 1995; 61 FR 39036, July 25, 1996; 65 FR 45532, July 24, 2000]

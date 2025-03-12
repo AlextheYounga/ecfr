@@ -1,0 +1,3 @@
+##### § 741.1 Examination. #####
+
+As provided in Sections 201 and 204 of the Act (12 U.S.C. 1781 and 1784), the NCUA Board is authorized to examine any insured credit union or any credit union making application for insurance of its accounts. Such examination may require access to all records, reports, contracts to which the credit union is a party, and information concerning the affairs of the credit union. Upon request, such documentation must be provided to the NCUA Board or its representative. Any credit union which makes application for insurance will be required to pay the cost of such examination and processing. To the maximum extent feasible, the NCUA Board will utilize examinations conducted by state regulatory agencies.

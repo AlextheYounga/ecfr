@@ -1,0 +1,3 @@
+##### § 35.723 Competitive process. #####
+
+EPA will award Tribal hazardous waste program grants to Tribes or Intertribal Consortia on a competitive basis in accordance with national program guidance. After the competitive process is complete, the recipient can, at its discretion, accept the award as a Tribal hazardous waste program grant or add the funds to a Performance Partnership Grant. If the recipient chooses to add the funds to a Performance Partnership Grant, the Tribal hazardous waste program work plan commitments must be included in the Performance Partnership Grant work plan.

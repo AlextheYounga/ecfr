@@ -1,0 +1,7 @@
+##### § 11.114 Client with diminished capacity. #####
+
+(a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the practitioner shall, as far as reasonably possible, maintain a normal client-practitioner relationship with the client.
+
+(b) When the practitioner reasonably believes that the client has diminished capacity, is at risk of substantial physical, financial or other harm unless action is taken and cannot adequately act in the client's own interest, the practitioner may take reasonably necessary protective action, including consulting with individuals or entities that have the ability to take action to protect the client and, in appropriate cases, seeking the appointment of a guardian ad litem, conservator or guardian.
+
+(c) Information relating to the representation of a client with diminished capacity is protected under § 11.106. When taking protective action pursuant to paragraph (b) of this section, the practitioner is impliedly authorized under § 11.106(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.

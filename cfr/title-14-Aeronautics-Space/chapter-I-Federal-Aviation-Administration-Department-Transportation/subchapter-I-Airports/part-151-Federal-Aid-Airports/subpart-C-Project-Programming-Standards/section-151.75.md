@@ -1,0 +1,7 @@
+##### § 151.75 Preparation of site. #####
+
+(a) Grading, drainage, and associated items of site preparation are eligible for inclusion in a project, but only with respect to one landing strip at any airport, unless the airport qualifies for more than one runway, based on traffic volume or wind conditions (as outlined in § 151.77) and the overall site preparation required for development in accordance with the airport layout plan. The complete clearance of runway clear zone areas is desirable, but, as a minimum, all obstructions as determined by § 77.23 as applied to § 77.27 (b) and (c) of this chapter must be removed. Grading in runway clear zones is eligible only to remove terrain that is an obstruction. The clear zone is not a graded overrun area. Specific site preparation for an airport terminal building is eligible on the same basis as the building itself. The site preparation cost is prorated based on eligible and ineligible building space. Appendix B of this part sets forth typical eligible and ineligible items of site preparation as covered by this section.
+
+(b) For the purposes of this section, eligible drainage work off the airport site includes drainage outfalls, drainage disposal, and interception ditches. If there is damage to adjacent property, its correction is an eligible item for inclusion in the project.
+
+[Doc. No. 1329, 27 FR 12357, Dec. 13, 1962, as amended by Amdt. 151-7, 30 FR 7484, June 8, 1965; Amdt. 151-8, 30 FR 8040, June 23, 1965]

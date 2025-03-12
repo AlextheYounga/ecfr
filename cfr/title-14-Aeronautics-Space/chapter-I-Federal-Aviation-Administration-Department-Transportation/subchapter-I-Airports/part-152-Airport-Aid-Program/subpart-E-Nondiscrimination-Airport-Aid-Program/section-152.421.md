@@ -1,0 +1,3 @@
+##### § 152.421 Public accommodations, services, and benefits. #####
+
+Requirements relating to the provision of public accommodations, services, and other benefits to beneficiaries under Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d *et seq.*) and part 21 of the regulations of the Office of the Secretary of Transportation (49 CFR part 21) implementing Title VI are made applicable, where appropriate, to nondiscrimination and affirmative action on the basis of sex or creed, and shall be complied with by each applicant for assistance and each grantee.

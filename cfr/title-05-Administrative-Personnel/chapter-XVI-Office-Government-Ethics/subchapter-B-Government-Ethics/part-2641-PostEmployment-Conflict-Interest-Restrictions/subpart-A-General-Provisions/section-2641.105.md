@@ -1,0 +1,11 @@
+##### § 2641.105 Advice. #####
+
+(a) *Agency ethics officials.* Current or former employees or others who have questions about 18 U.S.C. 207 or about this part 2641 should seek advice from a designated agency ethics official or another agency ethics official. The agency in which an individual formerly served has the primary responsibility to provide oral or written advice concerning a former employee's post-employment activities. An agency ethics official, in turn, may consult with other agencies, such as those before whom a post-employment communication or appearance is contemplated, and with the Office of Government Ethics.
+
+(b) *Office of Government Ethics.* The Office of Government Ethics (OGE) will provide advice to agency ethics officials and others concerning 18 U.S.C. 207 and this part 2641. OGE may provide advice orally or through issuance of a written advisory opinion and shall, as appropriate, consult with the agency or agencies concerned and with the Department of Justice.
+
+(c) *Effect of advice.* Reliance on the oral or written advice of an agency ethics official or the OGE cannot ensure that a former employee will not be prosecuted for a violation of 18 U.S.C. 207. However, good faith reliance on such advice is a factor that may be taken into account by the Department of Justice (DOJ) in the selection of cases for prosecution. In the case in which OGE issues a formal advisory opinion in accordance with subpart C of 5 CFR part 2638, the DOJ will not prosecute an individual who acted in good faith in accordance with that opinion. *See* 5 CFR 2638.309.
+
+(d) *Contacts to seek advice.* A former employee will not be deemed to act on behalf of any other person in violation of 18 U.S.C. 207 when he contacts an agency ethics official or other employee of the United States for the purpose of seeking guidance concerning the applicability or meaning of section 207 as applied to his own activities.
+
+(e) *No personal attorney-client privilege.* A current or former employee who discloses information to an agency ethics official, to a Government attorney, or to an employee of the Office of Government Ethics does not personally enjoy an attorney-client privilege with respect to such communications.

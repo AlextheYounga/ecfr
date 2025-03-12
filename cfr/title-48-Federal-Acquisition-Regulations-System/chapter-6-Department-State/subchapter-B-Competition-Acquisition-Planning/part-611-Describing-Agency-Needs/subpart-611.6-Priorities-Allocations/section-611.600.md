@@ -1,0 +1,3 @@
+##### 611.600 Scope of subpart. #####
+
+On September 18, 2001, the Department of Commerce (DOC) authorized the Department of State to use the Defense Priorities and Allocations System (DPAS). This authority expires on October 1, 2006. The Department of Defense has approved the Department's Embassy Security Protection Program (DOSESPP) as a national defense program eligible for the priorities support under the DPAS.

@@ -1,0 +1,3 @@
+##### § 410.60 Applicability; description of the carpet finishing subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from the following types of textile mills: carpet mills, which may include any or all of the following unit operations: Bleaching, scouring, carbonizing, fulling, dyeing, printing, resin treatment, waterproofing, flameproofing, soil repellency, looping, and backing with foamed and unfoamed latex and jute. Carpet backing without other carpet manufacturing operations is included in subpart C.

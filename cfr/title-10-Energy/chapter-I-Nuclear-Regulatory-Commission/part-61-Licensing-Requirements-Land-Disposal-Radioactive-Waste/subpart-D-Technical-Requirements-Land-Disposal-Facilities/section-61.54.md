@@ -1,0 +1,3 @@
+##### § 61.54 Alternative requirements for design and operations. #####
+
+The Commission may, upon request or on its own initiative, authorize provisions other than those set forth in §§ 61.51 through 61.53 for the segregation and disposal of waste and for the design and operation of a land disposal facility on a specific basis, if it finds reasonable assurance of compliance with the performance objectives of subpart C of this part.

@@ -1,0 +1,3 @@
+##### § 62.15180 How are the data from the continuous emission monitoring systems used? #####
+
+You must use data from the continuous emission monitoring systems for sulfur dioxide, nitrogen oxides, and carbon monoxide to demonstrate continuous compliance with the applicable emission limits specified in tables 2, 3, 4, and 5 of this subpart. To demonstrate compliance for dioxins/furans, cadmium, lead, mercury, particulate matter, opacity, hydrogen chloride, and fugitive ash, see § 62.15235.

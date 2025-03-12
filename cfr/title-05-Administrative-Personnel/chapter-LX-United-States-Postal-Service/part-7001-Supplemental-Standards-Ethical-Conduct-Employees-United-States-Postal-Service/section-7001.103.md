@@ -1,0 +1,3 @@
+##### § 7001.103 Statutory prohibition against interests in contracts to carry mail and acting as agent for contractors. #####
+
+Section 440 of title 18, United States Code, makes it unlawful for any Postal Service employee to become interested in any contract for carrying the mail, or to act as agent, with or without compensation, for any contractor or person offering to become a contractor in any business before the Postal Service.

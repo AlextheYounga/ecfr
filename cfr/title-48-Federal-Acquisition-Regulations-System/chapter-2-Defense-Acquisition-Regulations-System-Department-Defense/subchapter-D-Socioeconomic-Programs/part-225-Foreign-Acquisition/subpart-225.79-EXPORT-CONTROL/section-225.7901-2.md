@@ -1,0 +1,3 @@
+##### 225.7901-2 General. #####
+
+Certain types of items are subject to export controls in accordance with the Arms Export Control Act (22 U.S.C. 2751, *et seq.*), the International Traffic in Arms Regulations (22 CFR parts 120-130), the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 *et seq.*), and the Export Administration Regulations (15 CFR parts 730-774). See PGI 225.7901-2 for additional information.

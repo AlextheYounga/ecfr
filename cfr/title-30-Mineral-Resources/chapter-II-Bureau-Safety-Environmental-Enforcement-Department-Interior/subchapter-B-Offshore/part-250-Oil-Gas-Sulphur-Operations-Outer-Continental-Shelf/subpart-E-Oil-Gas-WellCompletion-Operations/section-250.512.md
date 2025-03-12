@@ -1,0 +1,3 @@
+##### § 250.512 Field well-completion rules. #####
+
+When geological and engineering information available in a field enables the District Manager to determine specific operating requirements, field well-completion rules may be established on the District Manager's initiative or in response to a request from a lessee. Such rules may modify the specific requirements of this subpart. After field well-completion rules have been established, well-completion operations in the field shall be conducted in accordance with such rules and other requirements of this subpart. Field well-completion rules may be amended or canceled for cause at any time upon the initiative of the District Manager or upon the request of a lessee.

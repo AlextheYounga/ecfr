@@ -1,0 +1,5 @@
+##### § 140.13b Amount of liability insurance required for uranium enrichment facilities. #####
+
+Each holder of a license issued under Parts 40 or 70 of this chapter for a uranium enrichment facility that involves the use of source material or special nuclear material is required to have and maintain liability insurance. The liability insurance must be the type and in the amounts the Commission considers appropriate to cover liability claims arising out of any occurrence within the United States that causes, within or outside the United States, bodily injury, sickness, disease, death, loss of or damage to property, or loss of use of property arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of chemical compounds containing source material or special nuclear material. Proof of liability insurance must be filed with the Commission as required by § 140.15 before issuance of a license for a uranium enrichment facility under parts 40 and 70 of this chapter.
+
+[57 FR 18394, Apr. 30, 1992]

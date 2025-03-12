@@ -1,0 +1,3 @@
+##### § 1216.308 Supplemental EAs and EISs. #####
+
+As detailed in CEQ regulations, supplemental documentation may be required for previous EAs or EISs (see 40 CFR 1502.9). If changed circumstances require preparation of a supplemental EA or EIS, such document will be prepared following the same general process as the original EA or EIS. No new scoping is required for a supplemental EIS; however, NASA may choose to conduct scoping.

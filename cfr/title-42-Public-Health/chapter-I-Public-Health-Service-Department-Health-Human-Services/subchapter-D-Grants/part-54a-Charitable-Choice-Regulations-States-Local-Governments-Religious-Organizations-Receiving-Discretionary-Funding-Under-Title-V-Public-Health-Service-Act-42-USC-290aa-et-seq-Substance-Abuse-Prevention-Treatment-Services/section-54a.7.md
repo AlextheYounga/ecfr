@@ -1,0 +1,3 @@
+##### § 54a.7 Nondiscrimination requirement. #####
+
+A religious organization that is a program participant shall not, in providing program services or engaging in outreach activities under applicable programs, discriminate against a program beneficiary or prospective program on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to actively participate in a religious practice.

@@ -1,0 +1,15 @@
+##### § 33.501 What are the recordkeeping requirements of this part? #####
+
+(a) A recipient, including those recipients exempted under § 33.411 from the requirement to apply the fair share objectives, must maintain all records documenting its compliance with the requirements of this part, including documentation of its, and its prime contractors', good faith efforts and data relied upon in formulating its fair share objectives. Such records must be retained in accordance with applicable record retention requirements for the recipient's financial assistance agreement.
+
+(b) A recipient of a Continuing Environmental Program Grant or other annual grant must create and maintain a bidders list. In addition, a recipient of an EPA financial assistance agreement to capitalize a revolving loan fund also must require entities receiving identified loans to create and maintain a bidders list if the recipient of the loan is subject to, or chooses to follow, competitive bidding requirements. (See e.g., § 33.303). The purpose of a bidders list is to provide the recipient and entities receiving identified loans who conduct competitive bidding with as accurate a database as possible about the universe of MBE/WBE and non-MBE/WBE prime and subcontractors. The list must include all firms that bid or quote on prime contracts, or bid or quote subcontracts on EPA assisted projects, including both MBE/WBEs and non-MBE/WBEs. The bidders list must only be kept until the grant project period has expired and the recipient is no longer receiving EPA funding under the grant. For entities receiving identified loans, the bidders list must only be kept until the project period for the identified loan has ended. The following information must be obtained from all prime and subcontractors:
+
+(1) Entity's name with point of contact;
+
+(2) Entity's mailing address, telephone number, and e-mail address;
+
+(3) The procurement on which the entity bid or quoted, and when; and
+
+(4) Entity's status as an MBE/WBE or non-MBE/WBE.
+
+(c) *Exemptions.* A recipient of an EPA financial assistance agreement in the amount of $250,000 or less for any single assistance agreement, or of more than one financial assistance agreement with a combined total of $250,000 or less in any one fiscal year, is exempt from the paragraph (b) of this section requirement to create and maintain a bidders list. Also, a recipient under the CWSRF, DWSRF, or BCRLF Program is not required to apply the paragraph (b) of this section bidders list requirement of this subpart to an entity receiving an identified loan in an amount of $250,000 or less, or to an entity receiving more than one identified loan with a combined total of $250,000 or less in any one fiscal year. This exemption is limited to the paragraph (b) of this section bidders list requirements of this subpart.

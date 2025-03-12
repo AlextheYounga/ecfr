@@ -1,0 +1,3 @@
+##### 1426.7103-1 Statutory basis. #####
+
+Paragraph 105 of CERCLA requires the President of the United States to consider the availability of qualified minority business enterprises in awarding contracts under the Act and report annually to Congress on the extent of such awards, including the efforts made to encourage the participation of such firms in programs carried out under the act. The Environmental Protection Agency has delegated responsibility for preparing the report, which includes contracts for Superfund hazardous waste clean-up awarded by other agencies.

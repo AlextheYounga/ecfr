@@ -1,0 +1,3 @@
+##### § 137.426 May an Indian Tribe get an extension of time to file a notice of appeal? #####
+
+Yes, if the Indian Tribe needs additional time, the Indian Tribe may request an extension of time to file its Notice of Appeal with the IBIA within 60 days of receiving either the initial decision or the recommended decision resulting from the informal conference. The request of the Indian Tribe must be in writing, and must give a reason for not filing its notice of appeal within the 30-day time period. If the Indian Tribe has a valid reason for not filing its notice of appeal on time, it may receive an extension.

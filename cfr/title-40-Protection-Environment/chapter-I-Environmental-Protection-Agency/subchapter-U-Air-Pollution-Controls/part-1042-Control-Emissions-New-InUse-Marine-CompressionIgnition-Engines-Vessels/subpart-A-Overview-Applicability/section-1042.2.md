@@ -1,0 +1,5 @@
+##### § 1042.2 Who is responsible for compliance? #####
+
+The regulations in this part 1042 contain provisions that affect both engine manufacturers and others. However, the requirements of this part, other than those of subpart I of this part, are generally addressed to the engine manufacturer for freshly manufactured marine engines or other certificate holders. The term “you” generally means the engine manufacturer, as defined in § 1042.901, especially for issues related to certification (including production-line testing, reporting, etc.). Note that for engines that become new after being placed into service (such as engines converted from highway or stationary use, or engines installed on vessels that are reflagged to become U.S. vessels), the requirements that normally apply for manufacturers of freshly manufactured engines apply to the importer or any other entity we allow to obtain a certificate of conformity.
+
+[81 FR 74142, Oct. 25, 2016]

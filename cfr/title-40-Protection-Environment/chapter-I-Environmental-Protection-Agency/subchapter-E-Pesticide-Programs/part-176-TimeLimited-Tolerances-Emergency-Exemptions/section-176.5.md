@@ -1,0 +1,3 @@
+##### § 176.5 Establishment of a time-limited tolerance or exemption. #####
+
+EPA will establish a time-limited tolerance for pesticide chemical residues in or on raw or processed food or feed resulting from the use of a pesticide chemical, if EPA authorizes an emergency exemption or a crisis exemption. EPA will consider establishing such a tolerance only if an applicant acting under authority of FIFRA section 18 either has requested an emergency exemption, has stated its intention to issue a crisis exemption, or has issued a crisis exemption for a use that may result, directly or indirectly, in pesticide chemical residues in food or feed.

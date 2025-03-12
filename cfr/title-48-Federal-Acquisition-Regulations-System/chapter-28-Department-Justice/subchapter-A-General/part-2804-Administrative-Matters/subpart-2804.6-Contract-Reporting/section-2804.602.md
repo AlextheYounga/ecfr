@@ -1,0 +1,7 @@
+##### 2804.602 Federal Procurement Data System. #####
+
+(a) Federal Procurement Data System (FPDS) reports shall be submitted to the Procurement Policy and Review Group (PPRG) within 20 days of the close of each of the first three quarters of the fiscal year and within 30 days after the close of the fourth quarter. Specific preparation procedures are contained in the FPDS Reporting Manual and the Product and Service Code Manual.
+
+(b) Bureaus shall submit periodic reports of their subcontract activities, together with copies of their Standard Forms 295 and 294 to the Director, Office of Small and Disadvantaged Business Utilization (OSDBU) as required by that office.
+
+(c) BPCs shall provide to the PE, the name, office, mailing address, and telephone number of the individual who will provide day-to-day operational contact within the bureau for the implementation of the FPDS. Changes and updates shall be forwarded to PPRG within 10 days after they occur. It is the responsibility of the bureau contacts to ensure that all actions are reported and submitted to PPRG in a timely manner and that all statistics and reports are accurate, current, and complete. BPCs shall be responsible for validating the data.

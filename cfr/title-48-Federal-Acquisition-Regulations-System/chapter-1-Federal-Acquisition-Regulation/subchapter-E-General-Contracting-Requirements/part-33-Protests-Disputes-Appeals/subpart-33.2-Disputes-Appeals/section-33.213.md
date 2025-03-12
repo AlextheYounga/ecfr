@@ -1,0 +1,7 @@
+##### 33.213 Obligation to continue performance. #####
+
+(a) In general, before passage of the Disputes statute, the obligation to continue performance applied only to claims arising under a contract. However, the Disputes statute, at 41 U.S.C. 7103(g), authorizes agencies to require a contractor to continue contract performance in accordance with the contracting officer's decision pending a final resolution of any claim arising under, or relating to, the contract. (A claim arising under a contract is a claim that can be resolved under a contract clause, other than the clause at 52.233-1, Disputes, that provides for the relief sought by the claimant; however, relief for such claim can also be sought under the clause at 52.233-1. A claim relating to a contract is a claim that cannot be resolved under a contract clause other than the clause at 52.233-1.) This distinction is recognized by the clause with its *Alternate I* (see 33.215).
+
+(b) In all contracts that include the clause at 52.233-1, Disputes, with its *Alternate I,* in the event of a dispute not arising under, but relating to, the contract, the contracting officer shall consider providing, through appropriate agency procedures, financing of the continued performance; *provided,* that the Government's interest is properly secured.
+
+[48 FR 42349, Sept. 19, 1983. Redesignated at 50 FR 2270, Jan. 15, 1985, as amended at 64 FR 72451, Dec. 27, 1999; 67 FR 43514, June 27, 2002; 79 FR 24212, Apr. 29, 2014]

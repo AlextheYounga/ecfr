@@ -1,0 +1,3 @@
+##### 1301.602-1 Authority. #####
+
+In accordance with CAM 1301.70, only individuals who have been certified as contracting officers through issuance of a Certificate of Appointment by the Senior Bureau Procurement Official may exercise the authority of DOC contracting officers. In addition to the authority to enter into, administer, and terminate contracts, contracting officers have been delegated certain functions as set out in appendix A to CAM 1301.70.

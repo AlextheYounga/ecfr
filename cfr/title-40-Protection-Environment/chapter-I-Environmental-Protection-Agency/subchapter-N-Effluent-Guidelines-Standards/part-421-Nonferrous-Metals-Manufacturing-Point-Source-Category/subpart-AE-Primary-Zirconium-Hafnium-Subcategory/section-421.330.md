@@ -1,0 +1,3 @@
+##### § 421.330 Applicability: Description of the primary zirconium and hafnium subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the production of zirconium or hafnium at primary zirconium and hafnium facilities. There are two levels of BPT, BAT, NSPS, PSES and PSNS provisions for this subpart. Facilities which only produce zirconium or zirconium/nickel alloys by magnesium reduction of zirconium dioxide are exempt from regulations. All other facilities are subject to these regulations.

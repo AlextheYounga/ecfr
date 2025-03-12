@@ -1,0 +1,5 @@
+##### § 308.122 Notice of intent to terminate. #####
+
+(a) If, after serving the notification under § 308.121, the Board of Directors determines that any unsafe or unsound practices, condition, or violation, specified in the notification, requires the termination of the insured status of the insured depository institution, the Board of Directors or its designee, if it determines to proceed further, shall cause to be served upon the insured depository institution a notice of its intention to terminate insured status not less than 30 days after service of the notification, unless a shorter time period has been agreed upon by the appropriate Federal banking agency.
+
+(b) The Board of Directors or its designee shall cause a copy of the notice to be sent to the appropriate Federal banking agency and to the appropriate state banking supervisor, if any.

@@ -1,0 +1,3 @@
+##### § 332.403 Selective certification. #####
+
+When there is no register appropriate as a whole for the certification of eligibles for a particular position, OPM may prepare a certificate from the most nearly appropriate existing register by the selective certification of eligibles qualified for the particular position in the order of their ranking on the register. Special overseas selection factors may also be used as a basis for selective certification from a register used for filling overseas positions. When appropriate, OPM may rerate the eligibles on the register on the basis of the particular requirements of the position.

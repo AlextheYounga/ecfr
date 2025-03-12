@@ -1,0 +1,5 @@
+##### § 57.1506 Priority. #####
+
+(a) Priority in approving applications for loan guarantee and/or interest subsidies shall be determined in accordance with the factors specified in section 721(d) of the Act, and the following: (1) The relative need for increased enrollment and the availability of students; (2) the relative effectiveness of the project relative to the cost to the Federal Government; and (3) the relative ability of the applicant to make efficient and productive use of the facility constructed.
+
+(b) In the case of applications to aid in the construction of new schools of medicine, osteopathy, or dentistry, the Secretary shall give special consideration to those applications which contain or are reasonably supported by assurances that, because of the use that will be made by such school of already existing facilities (including Federal medical or dental facilities), the school will be able to accelerate the date on which it will begin its teaching program.

@@ -1,0 +1,7 @@
+##### § 174.61 Transport vehicles and freight containers on flat cars. #####
+
+(a) A transport vehicle, freight container, or package containing a hazardous material must be designed and loaded so that it will not become damaged to an extent that would affect its integrity under conditions normally incident to transportation. Each unit must be secured on a flatcar so that it cannot permanently change position during transit. Packages of hazardous materials contained therein must be loaded and braced as provided by §§ 174.101, 174.112, 174.115 and 174.55. Placards must be applied when prescribed by part 172 of this subchapter and part 174.
+
+(b) Except as specified in § 173.21, a truck body, trailer, or freight container equipped with heating or refrigerating equipment which has fuel or any article classed as a hazardous material may be loaded and transported on a flat car as part of a joint rail highway movement. The heating or refrigerating equipment is considered to be a part of the truck body or trailer and is not subject to any other requirements of this subchapter. The truck body, trailer, or freight container must be secured on the flatcar so that it cannot change position during transit.
+
+[Amdt. 174-26, 41 FR 16092, Apr. 15, 1976, as amended by Amdt. 174-26A, 41 FR 40685, Sept. 20, 1976; Amdt. 174-38, 45 FR 32698, May 19, 1980; Amdt. 174-39, 45 FR 81572, Dec. 11, 1980; Amdt. 174-59, 51 FR 5974, Feb. 18, 1986; Amdt. 174-68, 57 FR 45464, Oct. 1, 1992; Amdt. 174-79, 59 FR 64744, Dec. 15, 1994]

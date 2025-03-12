@@ -1,0 +1,9 @@
+##### § 881.5 Cooperative agreements. #####
+
+(a) Each project shall be covered by a cooperative agreement between the Government, as represented by the Director, and the State. The agreement shall establish the total estimated cost of the project and, if the project is to be accomplished in phases, the estimated cost of each phase. The maximum obligations of the parties to share the cost of the project shall be stated in terms of the total estimated cost of the project and, if project is to be accomplished in phases, in terms of the estimated cost of each phase. Other responsibilities of the parties shall also be described in the agreement, as may be agreed upon and as may be in conformity with these regulations, to meet the needs and requirements of a particular project.
+
+(b) The Government's obligation to contribute funds may be less than but shall not exceed 75 percent of the total estimated cost of the project. The obligation of the State (and, if appropriate, the local authorities) to contribute funds may be more but shall not be less than 25 percent of the total estimated cost of the project.
+
+(c) None of the funds contributed by the Government or by the State shall be used for operating or maintaining the project or for the purchase of culm, rock, spoil, or other filling or flushing material.
+
+(d) The Director may, without approval by the Secretary execute amendments to a cooperative agreement which will cover (1) acceptance of a bid on a proposed project contract that does not exceed by more than 20 percent the estimated cost, initially established in the cooperative agreement, of the work covered by the proposed project contract, and (2) the estimated costs of additional work under a project contract, if the estimated cost, initially established in the cooperative agreement, of the work covered by the project contract will not be increased by more than 20 percent.

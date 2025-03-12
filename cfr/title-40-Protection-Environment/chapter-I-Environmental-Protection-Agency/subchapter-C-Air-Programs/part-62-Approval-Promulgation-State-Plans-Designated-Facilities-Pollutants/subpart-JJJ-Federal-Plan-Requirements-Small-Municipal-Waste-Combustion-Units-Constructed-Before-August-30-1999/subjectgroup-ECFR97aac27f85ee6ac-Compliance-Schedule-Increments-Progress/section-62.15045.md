@@ -1,0 +1,5 @@
+##### § 62.15045 When must I complete each increment of progress? #####
+
+(a) You must complete each increment of progress according to the compliance schedule in table 1 of this subpart for Class I and II units. If your Class I or Class II unit is listed in table 9 of this subpart, then you must complete each increment of progress according to the schedule in table 9 of this subpart. (*See* § 62.15410 for definitions of classes.)
+
+(b) For Class I units (*see* definition in § 62.15410) that must meet the five increments of progress, you must submit dioxins/furans stack test results for at least one test conducted during or after 1990. The stack tests must have been conducted according to the procedures specified under § 62.15245 and you must submit the stack test results when the final control plan is due for your Class I MWC unit according to the schedule in table 1 or table 9 of this subpart.

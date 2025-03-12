@@ -1,0 +1,3 @@
+##### § 792.31 Can exempt records be disclosed to credit unions, financial institutions and state or federal agencies? #####
+
+The NCUA Board, in its sole discretion, or any person designated by it in writing, may make available to certain governmental agencies and insured financial institutions copies of reports of examination and other documents, papers or information for their use, when necessary, in the performance of their official duties or functions. All reports, documents and papers made available pursuant to this paragraph shall remain the property of NCUA. No person, agency or employee shall disclose the reports or exempt records without NCUA's express written authorization.

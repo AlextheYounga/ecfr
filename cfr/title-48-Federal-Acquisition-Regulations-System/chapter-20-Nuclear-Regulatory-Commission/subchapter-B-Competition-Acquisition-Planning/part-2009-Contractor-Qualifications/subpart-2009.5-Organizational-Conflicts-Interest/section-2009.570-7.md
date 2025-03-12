@@ -1,0 +1,3 @@
+##### 2009.570-7 Conflicts identified after award. #####
+
+If potential organizational conflicts of interest are identified after award with respect to a particular contractor and the contracting officer determines that conflicts do exist and that it would not be in the best interest of the Government to terminate the contract, as provided in the clauses required by 2009.570-5, the contracting officer shall take every reasonable action to avoid, eliminate, or, after obtaining a waiver in accordance with 2009.570-9, neutralize the effects of the identified conflict.

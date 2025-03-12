@@ -1,0 +1,5 @@
+##### § 1005.5 Disposition of claims. #####
+
+Each carrier subject to the Interstate Commerce Act which receives a written or electronically transmitted claim for loss or damage to baggage or for loss, damage, injury, or delay to property transported shall pay, decline, or make a firm compromise settlement offer in writing or electronically to the claimant within 120 days after receipt of the claim by the carrier; *provided, however,* that, if the claim cannot be processed and disposed of within 120 days after the receipt thereof, the carrier shall at that time and at the expiration of each succeeding 60-day period while the claim remains pending, advise the claimant in writing or electronically of the status of the claim and the reason for the delay in making the final disposition thereof, and it shall retain a copy of such advice to the claimant in its claim file thereon.
+
+[81 FR 8850, Feb. 23, 2016]

@@ -1,0 +1,7 @@
+##### § 9.1 Applicability and purpose. #####
+
+(a) *General.* The standards of care set forth in this part apply to the chimpanzee sanctuaries that are contracted (or subcontracted) to the Federal Government to operate the federally supported chimpanzee sanctuary system authorized by section 481C of the Public Health Service (PHS) Act, as amended (42 U.S.C. 287a-3a).
+
+(b) *What is the purpose of the federally supported chimpanzee sanctuary system and the authority for establishing these standards of care regulation?* The Chimpanzee Health Improvement, Maintenance, and Protection Act (Pub. L. 106-551, referred to as the “CHIMP Act” or “Chimpanzee Retirement Act”) was enacted by Congress to provide for the establishment and operation of a sanctuary system to provide lifetime care for chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the agencies of the Federal Government, and that are determined to be no longer needed for such research. The CHIMP Act also mandates that standards of care for chimpanzees in the sanctuary shall be developed to ensure the well-being of chimpanzees and the health and safety of the chimpanzees.
+
+(c) *To what chimpanzee sanctuaries do the standards of care in this part apply?* The standards of care set forth in this part apply to only those sanctuaries that are contracted or subcontracted to the Federal Government to operate the federally supported chimpanzee sanctuary system.

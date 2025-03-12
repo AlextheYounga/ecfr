@@ -1,0 +1,3 @@
+##### 2911.103 Market acceptance. #####
+
+The authority of the Head of an Agency under FAR 11.103(a), to require offerors to demonstrate that the items offered have either achieved commercial market acceptance or been satisfactorily supplied to an agency under current or recent contracts for the same or similar requirements, and otherwise meet the item description, specifications, or other criteria prescribed in the public notice and solicitation, is delegated to the HCA.

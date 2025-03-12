@@ -1,0 +1,3 @@
+##### § 2430.8 Filing and service of documents. #####
+
+All pleadings or documents after the time the case is referred by the Authority to an Administative Law Judge, until the issuance of the Judge's decision, shall be filed in an original and four copies with the Administrative Law Judge and served on all parties to the proceeding. Service of such documents shall be in the same manner as prescribed in §§ 2429.22 and 2429.27.

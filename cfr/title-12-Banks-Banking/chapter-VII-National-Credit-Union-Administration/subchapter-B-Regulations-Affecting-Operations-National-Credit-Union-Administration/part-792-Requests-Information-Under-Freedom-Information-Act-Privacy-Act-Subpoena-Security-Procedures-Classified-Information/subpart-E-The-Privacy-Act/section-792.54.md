@@ -1,0 +1,7 @@
+##### § 792.54 Procedures for requests pertaining to individual records in a system of records. #####
+
+(a) Individuals desiring to know if a system of records contains records pertaining to them, and individuals requesting access to records in a system of records pertaining to them should submit a written request to the appropriate system manager as identified in the Notice of Systems of Records. An individual who does not have access to the Federal Register and who is unable to determine the appropriate system manager to whom to submit a request may submit a request to the Privacy Officer, Office of General Counsel, National Credit Union Administration, 1775 Duke Street, Alexandria, VA 22314-3428, in which case the request will be referred to the appropriate system manager.
+
+(b) Individuals requesting notification of, or access to, records should include the words “PRIVACY ACT REQUEST” on both the letter and, as appropriate, the envelope, cover document or subject line; describe the record sought; the approximate dates covered by the record; and, the systems of record in which records are thought to be included. Individuals must also meet the identification requirements in § 792.55.
+
+[73 FR 56938, Oct. 1, 2008]

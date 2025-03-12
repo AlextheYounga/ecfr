@@ -1,0 +1,3 @@
+##### § 9701.333 Special rate supplements. #####
+
+DHS will, after coordination with OPM, establish special rate supplements that provide higher pay levels for subcategories of employees within an occupational cluster if DHS determines that such supplements are warranted by current or anticipated recruitment and/or retention needs. In exercising this authority, DHS will issue necessary implementing directives. Any special rate supplement must be treated as basic pay for the same purposes as locality rate supplements, as described in § 9701.332(c), and for the purpose of computing cost-of-living allowances and post differentials in nonforeign areas under 5 U.S.C. 5941.

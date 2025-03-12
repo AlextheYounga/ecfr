@@ -1,0 +1,3 @@
+##### § 152.102 Publication. #####
+
+The Agency will issue in the Federal Register a notice of receipt of each application for registration of a product that contains a new active ingredient or that proposes a new use. After registration of the product, the Agency will issue in the Federal Register a notice of issuance. The notice of issuance will describe the new chemical or new use, summarize the Agency's regulatory conclusions, list missing data and the conditions for their submission, and respond to comments received on the notice of application.

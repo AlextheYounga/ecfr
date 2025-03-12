@@ -1,0 +1,7 @@
+##### § 3101.101 General. #####
+
+(a) *Purpose.* In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the Department of the Treasury and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. Employees are required to comply with 5 CFR part 2635, this part, and bureau guidance and procedures established pursuant to this section. Department employees are also subject to any additional rules of conduct that the Department or their employing bureaus are authorized to issue. *See* 31 CFR part 0, Department of the Treasury Employee Rules of Conduct.
+
+(b) *Bureau instructions.* With the concurrence of the Designated Agency Ethics Official (DAEO), bureaus of the Department of the Treasury are authorized to issue instructions or manual issuances providing explanatory guidance and establishing procedures necessary to implement this part and part 2635 of this title. *See* 5 CFR 2635.105(c).
+
+(c) *Definition of “agency designee”.* As used in this part and in part 2635 of this title, the term “agency designee” refers to any employee who has been delegated authority by an instruction or manual issuance issued by a bureau under paragraph (b) of this section to make a determination, give an approval, or take other action required or permitted by this part or part 2635 of this title with respect to another employee. *See* 5 CFR 2635.102(b).

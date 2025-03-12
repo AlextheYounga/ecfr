@@ -1,0 +1,13 @@
+##### § 86.1839-01 Carryover of certification and battery monitoring data. #####
+
+(a) In lieu of testing an emission-data or durability vehicle selected under § 86.1822, § 86.1828, or § 86.1829, and submitting data therefrom, a manufacturer may submit exhaust emission data, evaporative emission data and/or refueling emission data, as applicable, on a similar vehicle for which certification has been obtained or for which all applicable data required under § 86.1845 has previously been submitted. To be eligible for this provision, the manufacturer must use good engineering judgment and meet the following criteria:
+
+(1) In the case of durability data, the manufacturer must determine that the previously generated durability data represent a worst case or equivalent rate of deterioration for all applicable emission constituents compared to the configuration selected for durability demonstration. Prior to certification, the Administrator may require the manufacturer to provide data showing that the distribution of catalyst temperatures of the selected durability configuration is effectively equivalent or lower than the distribution of catalyst temperatures of the vehicle configuration which is the source of the previously generated data.
+
+(2) In the case of emission data, the manufacturer must determine that the previously generated emissions data represent a worst case or equivalent level of emissions for all applicable emission constituents compared to the configuration selected for emission compliance demonstration.
+
+(b) In lieu of using newly aged hardware on an EDV as allowed under the provisions of § 86.1823-08(f)(2), a manufacturer may use similar hardware aged for an EDV previously submitted, provided that the manufacturer determines that the previously aged hardware represents a worst case or equivalent rate of deterioration for all applicable emission constituents for durability demonstration.
+
+(c) In lieu of testing battery electric vehicles or plug-in hybrid electric vehicles for monitor accuracy under § 86.1822-01(a) and submitting the test data, a manufacturer may rely on previously conducted testing on a similar vehicle for which such test data have previously been submitted to demonstrate compliance with monitor accuracy requirements. For vehicles to be eligible for this provision, they must have designs for battery monitoring that are identical in all material respects to the vehicles tested under § 86.1845-04(g). If a monitor family fails to meet accuracy requirements, repeat the testing under § 86.1845-04(g) as soon as practicable.
+
+[89 FR 28180, Apr. 18, 2024]

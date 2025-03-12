@@ -1,0 +1,5 @@
+##### § 560.1 General. #####
+
+(a) *Authority and scope.* This part is being issued by OTS under its general rulemaking and supervisory authority under the Home Owners' Loan Act (HOLA), 12 U.S.C. 1462 *et seq.* Subpart A of this part sets forth the lending and investment powers of Federal savings associations. Subpart B of this part contains safety-and-soundness based lending and investment provisions applicable to all savings associations. Subpart C of this part addresses alternative mortgages and applies to all savings associations.
+
+(b) *General lending standards.* Each savings association is expected to conduct its lending and investment activities prudently. Each association should use lending and investment standards that are consistent with safety and soundness, ensure adequate portfolio diversification and are appropriate for the size and condition of the institution, the nature and scope of its operations, and conditions in its lending market. Each association should adequately monitor the condition of its portfolio and the adequacy of any collateral securing its loans.

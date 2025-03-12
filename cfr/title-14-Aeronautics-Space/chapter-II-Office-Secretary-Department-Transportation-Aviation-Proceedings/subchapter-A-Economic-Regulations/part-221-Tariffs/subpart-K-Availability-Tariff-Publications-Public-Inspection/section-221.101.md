@@ -1,0 +1,7 @@
+##### § 221.101 Inspection at stations, offices, or locations other than principal or general office. #####
+
+(a) Each carrier shall make available for public inspection at each of its stations, offices, or other locations at which tickets for passenger transportation are sold and which is in charge of a person employed exclusively by the carrier, or by it jointly with another person, all tariffs applicable to passenger traffic from or to the point where such station, office, or location is situated, including tariffs covering any terminal services, charges, or practices whatsoever, which apply to passenger traffic from or to such point.
+
+(b) A carrier will be deemed to have complied with the requirement that it “post” tariffs, if it maintains at each station, office, or location a file in complete form of all tariffs required to be posted; and in the case of tariffs involving passenger fares, rules, charges or practices, notice to the passenger as required in § 221.105.
+
+(c) Tariffs shall be posted by each carrier party thereto no later than the filed date designated thereon except that in the case of carrier stations, offices or locations situated outside the United States, its territories and possessions, the time shall be not later than five days after the filed date, and except that a tariff which the Department has authorized to be filed on shorter notice shall be posted by the carrier on like notice as authorized for filing.

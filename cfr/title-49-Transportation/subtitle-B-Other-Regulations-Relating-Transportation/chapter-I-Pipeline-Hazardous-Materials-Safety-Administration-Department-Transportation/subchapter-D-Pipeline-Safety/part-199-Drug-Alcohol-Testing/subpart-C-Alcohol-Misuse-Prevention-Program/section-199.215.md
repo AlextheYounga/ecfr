@@ -1,0 +1,3 @@
+##### § 199.215 Alcohol concentration. #####
+
+Each operator shall prohibit a covered employee from reporting for duty or remaining on duty requiring the performance of covered functions while having an alcohol concentration of 0.04 or greater. No operator having actual knowledge that a covered employee has an alcohol concentration of 0.04 or greater shall permit the employee to perform or continue to perform covered functions.

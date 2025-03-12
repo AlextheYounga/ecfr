@@ -1,0 +1,11 @@
+##### § 265.441 Assessment of existing drip pad integrity. #####
+
+(a) For each existing drip pad as defined in § 265.440, the owner or operator must evaluate the drip pad and determine that it meets all of the requirements of this subpart, except the requirements for liners and leak detection systems of § 265.443(b). No later than the effective date of this rule, the owner or operator must obtain and keep on file at the facility a written assessment of the drip pad, reviewed and certified by a qualified Professional Engineer that attests to the results of the evaluation. The assessment must be reviewed, updated, and re-certified annually until all upgrades, repairs, or modifications necessary to achieve compliance with all the standards of § 265.443 are complete. The evaluation must document the extent to which the drip pad meets each of the design and operating standards of § 265.443, except the standards for liners and leak detection systems, specified in § 265.443(b).
+
+(b) The owner or operator must develop a written plan for upgrading, repairing, and modifying the drip pad to meet the requirements of § 265.443(b), and submit the plan to the Regional Administrator no later than 2 years before the date that all repairs, upgrades, and modifications are complete. This written plan must describe all changes to be made to the drip pad in sufficient detail to document compliance with all the requirements of § 265.443. The plan must be reviewed and certified by a qualified Professional Engineer.
+
+(c) Upon completion of all repairs and modifications, the owner or operator must submit to the Regional Administrator or State Director, the as-built drawings for the drip pad together with a certification by a qualified Professional Engineer attesting that the drip pad conforms to the drawings.
+
+(d) If the drip pad is found to be leaking or unfit for use, the owner or operator must comply with the provisions of § 265.443(m) of this subpart or close the drip pad in accordance with § 265.445 of this subpart.
+
+[55 FR 50486, Dec. 6, 1990, as amended at 57 FR 61504, Dec. 24, 1992; 71 FR 16912, Apr. 4, 2006; 71 FR 40276, July 14, 2006]

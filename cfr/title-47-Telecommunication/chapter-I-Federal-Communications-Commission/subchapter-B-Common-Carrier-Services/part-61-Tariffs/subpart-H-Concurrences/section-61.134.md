@@ -1,0 +1,5 @@
+##### § 61.134 Concurrences for through services. #####
+
+An issuing carrier filing rates or regulations for through services between points on its own system and points on another carrier's system (or systems), or between points on another carrier's system (or systems), must list all concurring, connecting or other participating carriers as provided in § 61.54 (f), (g) and (h). A concurring carrier must tender a properly executed instrument of concurrence to the issuing carrier. If rates and regulations of the other carriers engaging in the through service(s) are not specified in the issuing carrier's tariff, that tariff must state where the other carrier's rates and regulations can be found. Such reference(s) must contain the FCC number(s) of the referenced tariff publication(s), the exact name(s) of the carrier(s) issuing such tariff publication(s), and must clearly state how the rates and regulations in the separate publications apply.
+
+[76 FR 43216, July 20, 2011]

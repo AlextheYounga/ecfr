@@ -1,0 +1,5 @@
+##### § 574.1 Scope. #####
+
+This part sets forth the method by which new tire manufacturers and new tire brand name owners shall identify tires for use on motor vehicles and maintain records of tire purchasers, and the methods by which retreaders and retreaded tire brand name owners shall identify tires for use on motor vehicles. This part also sets forth the methods by which independent tire dealers and distributors shall record, on registration forms, their names and addresses and the identification number of the tires sold to tire purchasers and provide the forms to the purchasers, so that the purchasers may report their names to the new tire manufacturers and new tire brand name owners, and by which other tire dealers and distributors shall record and report the names of tire purchasers to the new tire manufacturers and new tire brand name owners.
+
+(Authority: Secs. 108, 119, and 201, Pub. L. 89-563, 80 Stat. 718 (15 U.S.C. 1392, 1407, and 1421); sec. 4, Pub. L. 97-311, 96 Stat. 1619 (15 U.S.C. 1418); and delegation of authority at 49 CFR 1.50)[49 FR 4760, Feb. 8, 1984]

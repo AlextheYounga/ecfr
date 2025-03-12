@@ -1,0 +1,5 @@
+##### § 39.81 What assistance must PVOs provide to passengers with a disability in getting to and from a passenger vessel? #####
+
+(a) As a PVO, if you provide, contract for, or otherwise arrange for transportation to and from a passenger vessel in the U.S. (*e.g.,* a bus transfer from an airport to a vessel terminal), you must ensure that the transfer service is accessible to and usable by individuals with disabilities, as required by this Part.
+
+(b) You must also provide assistance requested by or on behalf of a passenger with a disability in moving between the terminal entrance (or a vehicle drop-off point adjacent to the entrance) of a terminal in the U.S. and the place where people get on or off the passenger vessel. This requirement includes assistance in accessing key functional areas of the terminal, such as ticket counters and baggage checking/claim. It also includes a brief stop upon request at an accessible toilet room.

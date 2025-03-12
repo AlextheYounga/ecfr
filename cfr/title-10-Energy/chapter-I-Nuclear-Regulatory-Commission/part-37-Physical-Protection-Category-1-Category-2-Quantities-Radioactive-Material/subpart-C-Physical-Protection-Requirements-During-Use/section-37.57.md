@@ -1,0 +1,7 @@
+##### § 37.57 Reporting of events. #####
+
+(a) The licensee shall immediately notify the LLEA after determining that an unauthorized entry resulted in an actual or attempted theft, sabotage, or diversion of a category 1 or category 2 quantity of radioactive material. As soon as possible after initiating a response, but not at the expense of causing delay or interfering with the LLEA response to the event, the licensee shall notify the NRC's Operations Center (301-816-5100). In no case shall the notification to the NRC be later than 4 hours after the discovery of any attempted or actual theft, sabotage, or diversion.
+
+(b) The licensee shall assess any suspicious activity related to possible theft, sabotage, or diversion of category 1 or category 2 quantities of radioactive material and notify the LLEA as appropriate. As soon as possible but not later than 4 hours after notifying the LLEA, the licensee shall notify the NRC's Operations Center (301-816-5100).
+
+(c) The initial telephonic notification required by paragraph (a) of this section must be followed within a period of 30 days by a written report submitted to the NRC by an appropriate method listed in § 37.7. The report must include sufficient information for NRC analysis and evaluation, including identification of any necessary corrective actions to prevent future instances.

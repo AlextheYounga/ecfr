@@ -1,0 +1,3 @@
+##### § 302.410 Consolidation of proceedings. #####
+
+The DOT decisionmaker or Chief Administrative Law Judge may, upon his or her own initiative, or upon motion of any party, consolidate for hearing or for other purposes, or may contemporaneously consider, two or more enforcement proceedings that involve substantially the same parties or issues that are the same or closely related, if he or she finds that such consolidation or contemporaneous hearing will be conducive to the dispatch of business and to the ends of justice and will not unduly delay the proceedings.

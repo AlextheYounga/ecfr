@@ -1,0 +1,45 @@
+##### § 403.320 CMS review and monitoring of State systems. #####
+
+(a) *General rule.* The State must submit an assurance and detailed and quantitative studies of provider cost and financial data and projections to support the effectiveness of its system, as required by paragraphs (b) and (c) of this section.
+
+(b) *Required information.* (1) Under § 403.304(c)(3) an assurance is required that the system will not result in greater payments over a 36-month period than would have otherwise been made under Medicare not using such system. If a State that has an existing demonstration project in effect on April 20, 1983 elects under § 403.304(c)(3) to have the effectiveness of its system judged on the basis of a rate of increase factor, the State must submit an assurance that its rate of increase or inflation in inpatient hospital payments does not exceed, for that portion of the 36-month period that is subject to this test, the national rate of increase or inflation in Medicare inpatient hospital payments. The election of the rate of increase test applies only to the three cost reporting periods beginning on or after October 1, 1983. At the end of these cost reporting periods, the State must assure, beginning with the first month after the expiration of the third cost reporting period beginning after October 1, 1983, that payments under its system will not exceed over the remainder of the 36-month period what Medicare payments would have been.
+
+(2) Estimates and data are required to support the State's assurance, required under § 403.304(c)(3), that expenditures under the State system will not exceed what Medicare would have paid over a 36-month period. The estimates and projections of what Medicare would have otherwise paid must take into account all the Medicare reimbursement principles in effect at the time and, for any period in which payments either exceed or are less than Medicare levels, the values of interest the Medicare Trust Fund earned, or would have earned, on these amounts. Upon application for approval, the State must submit projections for each hospital for the first 12-month period covered by the assurance, in both the aggregate and on a per discharge basis, of Medicare inpatient expenditures under Medicare principles of reimbursement and parallel projections of Medicare inpatient expenditures under the State's system and the resulting cost or savings to Medicare. The State must also submit separate statewide projections for each year of the 36-month period, in both the aggregate and on a weighted average discharge basis, of inpatient expenditures under the State system and under the Medicare principles of reimbursement.
+
+(3) The projection submitted under paragraph (b)(2) of this section must include a detailed description of the methodology and assumptions used to derive the expenditure amounts under both systems. In instances where the assumptions are different under the projections cited in paragraph (b)(2) of this section, the State must provide a detailed explanation of the reasons for the differences. At a minimum, the following separate data and assumptions are to be included in the projections for the Medicare principles and for the State's system.
+
+(i) The State system base year and the Medicare allowable and reimbursable cost of each hospital that the State used to develop the projections, including the amount of estimated pass through costs.
+
+(ii) The categories of costs that are included in the State system and are reimbursed differently under the State system than under the Medicare system.
+
+(iii) The number of Medicare and total base year discharges and admissions for each hospital.
+
+(iv) The rate of change factor (and the method of application of this factor) used to project the base year costs over the 36-month period to which the assurance would apply.
+
+(v) Any allowance for anticipated growth in the amount of services from the base year (if applicable, the allowance must be presented in separate estimates for population increases or for increases in rates of admissions or both).
+
+(vi) Any adjustment in which the State is permitted by CMS to take into account previous reductions in the Medicare payment amounts that were the result of the effectiveness of the State's system even though Medicare was not a part of that system.
+
+(vii) Appropriate recognition and projection of the time value of trust fund expenditures for the period the State system expenditures were either less than or exceeded the Medicare system payments.
+
+(viii) States applying under a rate of increase effectiveness test under § 403.304(c)(3) must also submit data projecting the parallel rates of increase during the requisite period.
+
+(4) The projections must include both the aggregate payments and the payments per discharge for the individual hospitals and for the State as a whole.
+
+(5) On a case-by-case basis. CMS may require additional data and documentation as needed to complete its review and monitoring.
+
+(6) For existing Medicare demonstration projects in effect on April 20, 1983, the assurance and data as required by paragraphs (a) and (b) of this section, if appropriate, may be based on aggregate payments or payments per inpatient admission or discharge. CMS will judge the effectiveness of these systems on the basis of the rate of increase or inflation in Medicare inpatient hospital payments compared to the national rate of increase or inflation for such payments during the State's hospitals' three cost reporting periods beginning on or after October 1, 1983. The data submitted by the State for the period subject to the rate of increase test must include the rate of increase projection for that particular period of time. For the subsequent period of time, the State must assure that payments under its system will not exceed what Medicare payments would have been, as described in § 403.304(c)(3).
+
+(7) If the amount of Medicare payments under the State system exceeds what would have been paid under the Medicare reimbursement principles in any given year, the State must also submit quantitative evidence that the system will result in expenditures that do not exceed what Medicare expenditures would have been over the 36 month period beginning with the first month that the State system is operating. For a State that has an existing demonstration project in effect on April 20, 1983, and that elects under § 403.304(c)(3) to have a rate of increase test apply, if the State's rate of increase or inflation exceeds the national rate of increase or inflation in a given year, the State must submit quantitative evidence that, over 36 months, its payments will not exceed the national rate of increase or inflation. Furthermore, if payments under the State's system must be compared to actual Medicare expenditures, at the end of the third cost reporting period, as described in paragraph (b)(1) of this section, and payments under the State's system exceed what Medicare would have paid in a given year, the State must submit quantitative evidence that, over 36 months, payments under its system will not exceed what Medicare would have paid.
+
+(c) *Review of assurances regarding expenditures.* CMS will review the State's assurances and data submitted under this section, as a prerequisite to the approval of the State's system. CMS will compare the State's projections of payment amounts to CMS data in order to determine if the State's assurance is reasonable and fully supportable. If the CMS data indicate that the State's system would result in payment amounts that would be more then that which would have been paid under the Medicare principles, the State's assurances would not be acceptable. For States applying in accordance with § 403.308, if CMS data indicate that the State's system would result in a rate of increase or inflation that would be more than the national rate of increase or inflation, the State's assurances would not be acceptable.
+
+(d) *Medicaid upper limit.* In accordance with § 447.253 of this chapter, the State system may not result in aggregate payments for Medicaid inpatient hospital services that would exceed the amount that would have otherwise have been paid under the Medicare principles as applied through the State system.
+
+(e) *Monitoring of Medicare expenditures.* CMS will monitor on a quarterly basis expenditures under the State's system as compared to what Medicare expenditures would have been if the system had not been in effect. If CMS determines at any time that the payments made under the State's system exceed the States' projections, as established by the satisfactory assurances required under § 403.304(c) and, if appropriate, the predetermined percentage relationship of the payments as required under § 403.304(d). CMS will—
+
+(1) Conclude that payments under the State system over a 36-month period will exceed what Medicare would have paid:
+
+(2) Terminate the waiver; and
+
+(3) Recoup overpayments to the affected hospitals in accordance with the procedures described in § 403.310.

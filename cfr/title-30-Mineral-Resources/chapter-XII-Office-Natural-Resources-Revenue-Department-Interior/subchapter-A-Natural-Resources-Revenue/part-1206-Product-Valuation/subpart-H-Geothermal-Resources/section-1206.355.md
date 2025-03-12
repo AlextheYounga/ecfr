@@ -1,0 +1,3 @@
+##### § 1206.355 How do I calculate royalty due on geothermal resources I sell at arm's length to a purchaser for direct use? #####
+
+If you sell geothermal resources produced from Class I, II, or III leases at arm's length to a purchaser for direct use, then the royalty on the geothermal resource is the gross proceeds accruing to you from the sale of the geothermal resource to the arm's-length purchaser multiplied by the royalty rate in your lease or that BLM prescribes under 43 CFR 3211.18. See § 1206.361 for additional provisions applicable to determining gross proceeds under arm's-length sales.

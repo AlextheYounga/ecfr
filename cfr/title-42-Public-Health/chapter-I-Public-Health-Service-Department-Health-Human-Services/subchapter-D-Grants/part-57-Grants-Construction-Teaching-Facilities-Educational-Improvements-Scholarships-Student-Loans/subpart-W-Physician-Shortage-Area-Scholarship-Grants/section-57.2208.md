@@ -1,0 +1,3 @@
+##### § 57.2208 Payment of scholarship grant. #####
+
+The portion of a scholarship grant awarded for the costs of tuition and fees as indicated on the notice of grant award document will be paid directly to the school upon receipt of an invoice from the school. The portion of the scholarship grant awarded for the costs of equipment, supplies, books, and living expenses will be paid to the individual in equal monthly installments.

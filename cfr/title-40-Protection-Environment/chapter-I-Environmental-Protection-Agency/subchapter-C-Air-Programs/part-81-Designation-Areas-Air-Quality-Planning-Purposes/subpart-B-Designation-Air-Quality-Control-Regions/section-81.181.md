@@ -1,0 +1,9 @@
+##### § 81.181 Down East Intrastate Air Quality Control Region. #####
+
+The Down East Intrastate Air Quality Control Region (Maine) consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Maine: Hancock County, Washington County.
+
+Penobscot County—That portion of Penobscot County which lies south of a line described as follows: Beginning at the point where the Penobscot-Aroostook County boundary is intersected by a line common to the boundaries of Patten and Stacyville Townships and running due west to the intersection of said line with Penobscot-Piscataquis County boundary.
+
+Piscataquis County—That portion of Piscataquis County which lies south and east of a line described as follows: Beginning at the point where the Somerset-Piscataquis County boundary is intersected by a line common to the northern boundary of Blanchard Plantation and running northeast along the northern boundary of Blanchard Plantation to the northeast corner of Blanchard Plantation; then northwest along the western boundary of Monson Township to the northwest corner of Monson Township; then northeast along the northern boundaries of Monson, Willimantic, and Bowerbank Townships, the northern boundary of Barnard Plantation, the northern boundaries of Williamsburg and Brownville Townships, and the northern boundary of Lake View Plantation to the intersection of said line with Piscataquis-Penobscot County boundary, which is also common to the northeast corner of Lake View Plantation.

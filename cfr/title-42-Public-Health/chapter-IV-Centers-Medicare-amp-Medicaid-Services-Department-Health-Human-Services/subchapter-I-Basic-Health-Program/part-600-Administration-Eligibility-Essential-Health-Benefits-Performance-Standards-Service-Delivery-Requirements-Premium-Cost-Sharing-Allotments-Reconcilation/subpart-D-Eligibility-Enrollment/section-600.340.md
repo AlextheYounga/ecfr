@@ -1,0 +1,13 @@
+##### § 600.340 Periodic redetermination and renewal of BHP eligibility. #####
+
+(a) *Periodic review of eligibility.* An individual is subject to periodic review of eligibility every 12 months unless the eligibility is redetermined sooner based on new information received and verified from enrollee reports or data sources. The State must require enrollees to report changes in circumstances, at least to the extent that they would be required to report such changes if enrolled in coverage through the Exchange, consistent with 45 CFR 155.330(b).
+
+(b) *Renewal of coverage.* If an enrollee remains eligible for coverage in the BHP, the enrollee will be afforded notice of a reasonable opportunity at least annually to change plans to the extent the BHP offers a choice of plans, and shall remain in the plan selected for the previous year unless such enrollee terminates coverage from the plan by selecting a new plan or withdrawing from a plan, or the plan is no longer available as a standard health plan in BHP. Enrollees in plans that are no longer available will be given a reasonable opportunity to select a new plan, and if they do not select a new plan will be enrolled in another plan pursuant to a methodology set forth in the State's Blueprint.
+
+(c) *Procedures.* The State shall choose to apply equally all the redetermination procedures described in either 45 CFR 155.335 or 42 CFR 435.916(a) in administering a BHP.
+
+(d) *Verification.* The State must verify information needed to redetermine and renew eligibility in accordance with § 600.345 and comply with the requirements set forth in § 600.330 relating to screening individuals for other insurance affordability programs and transmitting such individuals' electronic accounts and other relevant information to the other program, as appropriate.
+
+(e) *Notice to enrollee.* The State must provide an enrollee with an annual notice of redetermination of eligibility. The annual notice should include all current information used for the most recent eligibility determination. The enrollee is required to report any changes with respect to information listed within the notice within 30 days of the date of the notice. The State must verify information in accordance with § 600.345.
+
+(f) *Continuous eligibility.* The state is not required to redetermine eligibility of BHP enrollees more frequently than every 12 months, regardless of changes of circumstances, as long as the enrollees are under age 65, are not otherwise enrolled in minimum essential coverage and remain residents of the State.

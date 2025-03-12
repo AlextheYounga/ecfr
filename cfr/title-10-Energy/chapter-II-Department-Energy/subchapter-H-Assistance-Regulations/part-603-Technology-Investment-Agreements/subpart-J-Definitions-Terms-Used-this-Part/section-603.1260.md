@@ -1,0 +1,3 @@
+##### § 603.1260 Expenditure-based award. #####
+
+A Federal Government assistance award for which the amounts of interim payments or the total amount ultimately paid (*i.e.*, the sum of interim payments and final payment) are subject to redetermination or adjustment, based on the amounts expended by the recipient in carrying out the purposes for which the award was made, as long as the redetermination or adjustment does not exceed the total Government funds obligated to the award. Most Federal Government grants and cooperative agreements are expenditure-based awards.

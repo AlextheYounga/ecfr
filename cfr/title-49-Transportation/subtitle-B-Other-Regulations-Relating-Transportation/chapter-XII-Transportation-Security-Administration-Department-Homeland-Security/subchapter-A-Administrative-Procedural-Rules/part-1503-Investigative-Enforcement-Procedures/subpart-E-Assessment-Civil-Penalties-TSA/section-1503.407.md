@@ -1,0 +1,3 @@
+##### § 1503.407 Military personnel. #####
+
+If a report made under this part indicates that, while performing official duties, a member of the Armed Forces, or a civilian employee of the Department of Defense who is subject to the Uniform Code of Military Justice (10 U.S.C. chapter 47), has violated a TSA requirement, an agency official will send a copy of the report to the appropriate military authority for such disciplinary action as that authority considers appropriate and a report to the Administrator thereon.

@@ -1,0 +1,23 @@
+##### § 97.86 Withdrawal from NOX Budget Trading Program. #####
+
+(a) *Requesting withdrawal.* To withdraw from the NOX Budget Trading Program, the NOX authorized account representative of a NOX Budget opt-in unit shall submit to the Administrator and the permitting authority a request to withdraw effective as of a specified date prior to May 1 or after September 30. The submission shall be made no later than 90 days prior to the requested effective date of withdrawal.
+
+(b) *Conditions for withdrawal.* Before a NOX Budget opt-in unit covered by a request under paragraph (a) of this section may withdraw from the NOX Budget Trading Program and the NOX Budget opt-in permit may be terminated under paragraph (e) of this section, the following conditions must be met:
+
+(1) For the control period immediately before the withdrawal is to be effective, the NOX authorized account representative must submit or must have submitted to the Administrator and the permitting authority an annual compliance certification report in accordance with § 97.30.
+
+(2) If the NOX Budget opt-in unit has excess emissions for the control period immediately before the withdrawal is to be effective, the Administrator will deduct or has deducted from the NOX Budget opt-in unit's compliance account, or the overdraft account of the NOX Budget source where the NOX Budget opt-in unit is located, the full amount required under § 97.54(d) for the control period.
+
+(3) After the requirements for withdrawal under paragraphs (b)(1) and (2) of this section are met, the Administrator will deduct from the NOX Budget opt-in unit's compliance account, or the overdraft account of the NOX Budget source where the NOX Budget opt-in unit is located, NOX allowances equal in number to and allocated for the same or a prior control period as any NOX allowances allocated to that source under § 97.88 for any control period for which the withdrawal is to be effective. The Administrator will close the NOX Budget opt-in unit's compliance account and transfer any remaining allowances to a general account specified by the owners and operators of the NOX Budget opt-in unit.
+
+(c) A NOX Budget opt-in unit that withdraws from the NOX Budget Trading Program shall comply with all requirements under the NOX Budget Trading Program concerning all years for which such NOX Budget opt-in unit was a NOX Budget opt-in unit, even if such requirements arise or must be complied with after the withdrawal takes effect.
+
+(d) *Notification.* (1) After the requirements for withdrawal under paragraphs (a) and (b) of this section are met (including deduction of the full amount of NOX allowances required), the Administrator will issue a notification to the permitting authority and the NOX authorized account representative of the NOX Budget opt-in unit of the acceptance of the withdrawal of the NOX Budget opt-in unit as of a specified effective date that is after such requirements have been met and that is prior to May 1 or after September 30.
+
+(2) If the requirements for withdrawal under paragraphs (a) and (b) of this section are not met, the Administrator will issue a notification to the permitting authority and the NOX authorized account representative of the NOX Budget opt-in unit that the request to withdraw is denied. If the NOX Budget opt-in unit's request to withdraw is denied, the NOX Budget opt-in unit shall remain subject to the requirements for a NOX Budget opt-in unit.
+
+(e) *Permit revision.* After the Administrator issues a notification under paragraph (d)(1) of this section that the requirements for withdrawal have been met, the permitting authority will revise the NOX Budget permit covering the NOX Budget opt-in unit to terminate the NOX Budget opt-in permit as of the effective date specified under paragraph (d)(1) of this section. A NOX Budget opt-in unit shall continue to be a NOX Budget opt-in unit until the effective date of the termination.
+
+(f) *Reapplication upon failure to meet conditions of withdrawal.* If the Administrator denies the request to withdraw the NOX Budget opt-in unit, the NOX authorized account representative may submit another request to withdraw in accordance with paragraphs (a) and (b) of this section.
+
+(g) *Ability to return to the NO*X*Budget Trading Program.* Once a NOX Budget opt-in unit withdraws from the NOX Budget Trading Program and its NOX Budget opt-in permit is terminated under paragraph (e) of this section, the NOX authorized account representative may not submit another application for a NOX Budget opt-in permit under § 97.83 for the unit prior to the date that is 4 years after the date on which the terminated NOX Budget opt-in permit became effective.

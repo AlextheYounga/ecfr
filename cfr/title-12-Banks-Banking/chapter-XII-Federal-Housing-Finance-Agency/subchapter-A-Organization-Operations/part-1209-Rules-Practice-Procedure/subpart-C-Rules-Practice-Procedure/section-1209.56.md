@@ -1,0 +1,3 @@
+##### § 1209.56 Exhaustion of administrative remedies. #####
+
+To exhaust administrative remedies as to any issue on which a party disagrees with the presiding officer's recommendations, a party must file exceptions with the Director under § 1209.54 of this part. A party must exhaust administrative remedies as a precondition to seeking judicial review of any final decision and order issued under this part.

@@ -1,0 +1,3 @@
+##### § 63.43 Flight engineer courses. #####
+
+An applicant for approval of a flight engineer course must submit a letter to the Administrator requesting approval, and must also submit three copies of each course outline, a description of the facilities and equipment, and a list of the instructors and their qualifications. An air carrier or commercial operator with an approved flight engineer training course under part 121 of this chapter may apply for approval of a training course under this part by letter without submitting the additional information required by this paragraph. Minimum requirements for obtaining approval of a flight engineer course are set forth in appendix C of this part.

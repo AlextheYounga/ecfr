@@ -1,0 +1,5 @@
+##### § 390.145 Nondiscriminatory advertising. #####
+
+No State savings association may directly or indirectly engage in any form of advertising that implies or suggests a policy of discrimination or exclusion in violation of title VIII of the Civil Rights Acts of 1968, the Equal Credit Opportunity Act, or this subpart. Advertisements for any loan for the purpose of purchasing, constructing, improving, repairing, or maintaining a dwelling or any loan secured by a dwelling shall include a facsimile of the following logotype and legend:
+
+![](/graphics/er05au11.000.gif)

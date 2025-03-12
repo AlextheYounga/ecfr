@@ -1,0 +1,3 @@
+##### § 390.253 What notices are required to establish or acquire a new subsidiary or engage in new activities through an existing subsidiary? #####
+
+When required by section 18(m) of the Federal Deposit Insurance Act, a State savings association (“you”) must file a notice (“Notice”) with the FDIC before establishing or acquiring a subsidiary or engaging in new activities in a subsidiary. The Notice must contain all of the information the required under 12 CFR 362.15. If the FDIC notifies you within 30 days that the Notice presents supervisory concerns, or raises significant issues of law or policy, you must apply for and receive the FDIC's prior written approval before establishing or acquiring the subsidiary or engaging in new activities in the subsidiary.

@@ -1,0 +1,9 @@
+##### § 452.7 Continuous examination program. #####
+
+(a) In lieu of a periodic examination under § 452.1, each owner of an approved container meeting § 450.5 may examine the container or have it examined using an approved continuous examination program. An owner must submit the continuous examination program for approval to the Commandant (CG-OES), Attn: Office of Operating and Environmental Standards, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. When submitting a continuous examination program for approval the owner must show the continuous examination complies with § 452.9.
+
+(b) The owner must mark the container with the letters “ACEP/USA/(year continuous examination program is approved)” to indicate the container is being periodically examined under an approved continuous examination program. This marking must be as close as practicable to the safety approval plate. This marking must be on all containers covered by a continuous examination program by January 1, 1987.
+
+(c) The owner of containers subject to this section shall have those containers examined in accordance with the program prescribed in this section regardless of whether the examinations are performed within or outside the United States.
+
+(The information collection requirements contained in paragraphs (a) and (b) have been approved by the Office of Management and Budget under OMB control number 1625-0024)[49 FR 15562, Apr. 19, 1984, as amended at 69 FR 58353, Sept. 30, 2004; 74 FR 49241, Sept. 25, 2009; 74 FR 49241, Sept. 25, 2009; 77 FR 59790, Oct. 1, 2012; 78 FR 60166, Sept. 30, 2013]

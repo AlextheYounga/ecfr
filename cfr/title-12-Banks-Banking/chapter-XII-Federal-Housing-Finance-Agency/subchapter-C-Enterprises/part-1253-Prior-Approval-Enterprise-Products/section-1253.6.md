@@ -1,0 +1,5 @@
+##### § 1253.6 Certifying and nullifying an approval. #####
+
+(a) An Enterprise shall certify, through an executive officer, as that term is defined by § 1770.3(g) of this title, that any filing or supporting material submitted to FHFA pursuant to regulations in this part contains no material misrepresentations or omissions. FHFA may review and verify any information filed in connection with a Notice. If FHFA discovers a material misrepresentation or omission after the Director has rendered a decision on the filing, FHFA may nullify any approval or modify the terms, conditions, and limitations to such approval. For purposes of this paragraph, an Enterprise's authority to offer a new product or engage in a new activity by reason of the Director's not having made an explicit determination within the statutory time period constitutes an approval.
+
+(b) Any person responsible for any material misrepresentation or omission in a submission or supporting materials may be subject to enforcement action and other penalties, including criminal penalties provided in 18 U.S.C. 1001.

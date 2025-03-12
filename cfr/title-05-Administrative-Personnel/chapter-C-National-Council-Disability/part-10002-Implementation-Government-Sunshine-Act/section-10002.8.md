@@ -1,0 +1,3 @@
+##### § 10002.8 Transcripts, recordings, or minutes of closed meetings. #####
+
+Along with the General Counsel's certification and presiding officer's statement referred to in § 10002.6(d), the Council shall maintain a complete transcript or electronic recording adequate to record fully the proceedings of each meeting, or a portion thereof, closed to the public. Alternatively, for any meeting closed pursuant to § 10002.5(h) or (j), the Council may maintain a set of minutes adequate to record fully the proceedings, including a description of each of the views expressed on any item and the record of any roll call vote.

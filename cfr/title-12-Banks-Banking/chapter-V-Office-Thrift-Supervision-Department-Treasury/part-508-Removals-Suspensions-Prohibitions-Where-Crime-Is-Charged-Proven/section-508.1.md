@@ -1,0 +1,3 @@
+##### § 508.1 Scope. #####
+
+The rules in this part apply to hearings, which are exempt from the adjudicative provisions of the Administrative Procedure Act, afforded to any officer, director, or other person participating in the conduct of the affairs of a savings association, affiliate service corporation, savings and loan holding company, or subsidiary of such a holding company, where such person has been suspended or removed from office or prohibited from further participation in the conduct of the affairs of one of the aforementioned entities by a Notice or Order served by the Office upon the grounds set forth in section 8(g) of the Federal Deposit Insurance Act, (12 U.S.C. 1818(g)).

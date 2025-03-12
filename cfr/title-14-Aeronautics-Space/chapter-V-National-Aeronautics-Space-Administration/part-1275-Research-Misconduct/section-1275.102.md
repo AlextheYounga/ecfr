@@ -1,0 +1,29 @@
+##### § 1275.102 OIG handling of research misconduct matters. #####
+
+(a) When an allegation is made to the OIG, rather than to the awardee institution, the OIG shall determine whether the allegation concerns NASA research and whether the allegation, if true, falls within the definition of research misconduct in § 1275.101(a). Investigation of allegations which, if true, would constitute criminal offenses, are not covered by this part. If these criteria are met and the research in question is being conducted by NASA researchers, the OIG shall proceed in accordance with § 1275.104. If the research in question is being conducted at an awardee institution, another Federal agency, or is a collaboration between NASA researchers and co-investigators at either academia or industry, the OIG must refer the allegation that meets the definition of research misconduct to the entities involved and determine whether to—
+
+(1) Defer its inquiry or investigation pending review of the results of an inquiry or investigation conducted at the awardee institution or at the Federal agency (referred to for purposes of this part as *external investigations*) determined to be the lead investigative organization for the case; or
+
+(2) Commence its own inquiry or investigation.
+
+(b) The OIG must inform the NASA Office of the Chief Scientist of all allegations that meet the definition of research misconduct received by the OIG and of the determinations of the OIG required by § 1275.101. The NASA Office of the Chief Scientist shall notify the NASA Office of the Chief Engineer or the NASA Office of the Chief Technologist when the research is either engineering or technology research.
+
+(c) The OIG should defer its inquiry or investigation pending review of the results of an external investigation whenever possible. Nevertheless, the OIG retains the right to proceed at any time with a NASA inquiry or investigation. Circumstances in which the OIG may elect not to defer its inquiry or investigation include, but are not limited to, the following:
+
+(1) When the OIG determines that the awardee institution is not prepared to handle the allegation in a manner consistent with this part;
+
+(2) When the OIG determines that NASA involvement is needed to protect the public interest, including public health and safety;
+
+(3) When the OIG determines that the allegation involves an awardee institution of sufficiently small size that it cannot reasonably conduct the investigation itself;
+
+(4) When the OIG determines that a NASA program or project could be jeopardized by the occurrence of research misconduct; or
+
+(5) When the OIG determines that any of the notifications or information required to be given to the OIG by the awardee institution pursuant to § 1275.103(b) requires NASA to cease its deferral to the awardee institution's procedures and to conduct its own inquiry or investigation.
+
+(d) A copy of the investigation report, evidentiary record, and final determination resulting from an external investigation must be transmitted to the OIG for review. The OIG shall determine whether to recommend to the NASA Adjudication Official, or to the lead investigative organization in cases that involve multiple institutions, acceptance of the investigation report and final determination in whole or in part. The OIG's decision must be made within 45 days of receipt of the investigation report and evidentiary record. This period of time may be extended by the OIG for good cause. The OIG shall make this decision based on the OIG's assessment of the completeness of the investigation report, and the OIG's assessment of whether the investigating entity followed reasonable procedures, including whether the Respondent had an adequate opportunity to comment on the investigation report and whether these comments were given due consideration. If the OIG decides to recommend acceptance of the results of the external investigation, in whole or in part, the OIG shall transmit a copy of the final determination, the investigation report, and the evidentiary record to the NASA Adjudication Official, and to the NASA Office of the Chief Scientist. When the OIG decides not to recommend acceptance, the OIG must initiate its own investigation.
+
+(e) In the case of an investigation conducted by the OIG, the OIG shall transmit copies of the investigation report, including the Respondent's written comments (if any), the evidentiary record and its recommendations, to the institution, to the NASA Adjudication Official and to the NASA Office of the Chief Scientist.
+
+(f) Upon learning of alleged research misconduct, the OIG shall identify potentially implicated awards or proposals and, when appropriate, shall ensure that program, grant, or contracting officers handling them are informed. Neither a suspicion nor allegation of research misconduct, nor a pending inquiry or investigation, shall normally delay review of proposals. Subject to paragraph (g) of this section, reviewers or panelists shall not be informed of allegations or of ongoing inquiries or investigations in order to avoid influencing reviews. In the event that an application receives a fundable rating or ranking by a review panel, funding can be deferred by the program until the completion of the inquiry or investigation.
+
+(g) If, during the course of an OIG conducted inquiry or investigation, it appears that immediate administrative action, as described in § 1275.106, is necessary to protect public health or safety, Federal resources or interests, or the interests of those involved in the inquiry or investigation, the OIG shall inform the NASA sponsor for the research and the NASA Office of the Chief Scientist.

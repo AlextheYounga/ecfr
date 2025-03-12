@@ -1,0 +1,3 @@
+##### 1301.601 General. #####
+
+The agency head for procurement matters is the Chief Financial Officer/Assistant Secretary for Administration (CFO/ASA), unless prohibited by statute. The authority for agency head for procurement matters is delegated to the Procurement Executive as the authority to establish lines of contracting authority within DOC and to implement policies and procedures related to the acquisition process. Specific contracting authorities are set forth in CAM 1301.70.

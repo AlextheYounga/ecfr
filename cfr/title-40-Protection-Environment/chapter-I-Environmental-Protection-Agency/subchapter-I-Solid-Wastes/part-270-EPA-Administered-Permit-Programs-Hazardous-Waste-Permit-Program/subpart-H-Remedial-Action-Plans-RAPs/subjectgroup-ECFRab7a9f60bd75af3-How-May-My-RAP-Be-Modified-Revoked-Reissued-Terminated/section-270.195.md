@@ -1,0 +1,3 @@
+##### § 270.195 When will my RAP expire? #####
+
+RAPs must be issued for a fixed term, not to exceed 10 years, although they may be renewed upon approval by the Director in fixed increments of no more than ten years. In addition, the Director must review any RAP for hazardous waste land disposal five years after the date of issuance or reissuance and you or the Director must follow the requirements for modifying your RAP as necessary to assure that you continue to comply with currently applicable requirements in RCRA sections 3004 and 3005.

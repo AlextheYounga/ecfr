@@ -1,0 +1,3 @@
+##### § 415.7 Payload determination. #####
+
+A payload determination is required for a launch license unless the proposed payload is exempt from payload review under § 415.53 of this part. The FAA conducts a payload review, as described in subpart D of this part, to make the determination. Either a launch license applicant or a payload owner or operator may request a review of its proposed payload using the application procedures contained in part 413 of this subchapter. Upon receipt of an application, the FAA may conduct a payload review independently of a launch license application.

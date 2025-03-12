@@ -1,0 +1,3 @@
+##### § 137.177 Is the Self-Governance Tribe required to make its records available to the Secretary? #####
+
+Yes, after 30 days advance written notice from the Secretary, the Self-Governance Tribe must provide the Secretary with reasonable access to such records to enable the Department to meet its minimum legal recordkeeping system requirements under sections 3101 through 3106 of title 44 United States Code.

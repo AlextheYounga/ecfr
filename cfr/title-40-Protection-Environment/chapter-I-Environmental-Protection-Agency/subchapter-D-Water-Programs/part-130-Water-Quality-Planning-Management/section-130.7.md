@@ -1,0 +1,57 @@
+##### § 130.7 Total maximum daily loads (TMDL) and individual water quality-based effluent limitations. #####
+
+(a) *General.* The process for identifying water quality limited segments still requiring wasteload allocations, load allocations and total maximum daily loads (WLAs/LAs and TMDLs), setting priorities for developing these loads; establishing these loads for segments identified, including water quality monitoring, modeling, data analysis, calculation methods, and list of pollutants to be regulated; submitting the State's list of segments identified, priority ranking, and loads established (WLAs/LAs/TMDLs) to EPA for approval; incorporating the approved loads into the State's WQM plans and NPDES permits; and involving the public, affected dischargers, designated areawide agencies, and local governments in this process shall be clearly described in the State Continuing Planning Process (CPP).
+
+(b) Identification and priority setting for water quality-limited segments still requiring TMDLs.
+
+(1) Each State shall identify those water quality-limited segments still requiring TMDLs within its boundaries for which:
+
+(i) Technology-based effluent limitations required by sections 301(b), 306, 307, or other sections of the Act;
+
+(ii) More stringent effluent limitations (including prohibitions) required by either State or local authority preserved by section 510 of the Act, or Federal authority (law, regulation, or treaty); and
+
+(iii) Other pollution control requirements (e.g., best management practices) required by local, State, or Federal authority are not stringent enough to implement any water quality standards (WQS) applicable to such waters.
+
+(2) Each State shall also identify on the same list developed under paragraph (b)(1) of this section those water quality-limited segments still requiring TMDLs or parts thereof within its boundaries for which controls on thermal discharges under section 301 or State or local requirements are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish and wildlife.
+
+(3) For the purposes of listing waters under § 130.7(b), the term “water quality standard applicable to such waters” and “applicable water quality standards” refer to those water quality standards established under section 303 of the Act, including numeric criteria, narrative criteria, waterbody uses, and antidegradation requirements.
+
+(4) The list required under §§ 130.7(b)(1) and 130.7(b)(2) of this section shall include a priority ranking for all listed water quality-limited segments still requiring TMDLs, taking into account the severity of the pollution and the uses to be made of such waters and shall identify the pollutants causing or expected to cause violations of the applicable water quality standards. The priority ranking shall specifically include the identification of waters targeted for TMDL development in the next two years.
+
+(5) Each State shall assemble and evaluate all existing and readily available water quality-related data and information to develop the list required by §§ 130.7(b)(1) and 130.7(b)(2). At a minimum “all existing and readily available water quality-related data and information” includes but is not limited to all of the existing and readily available data and information about the following categories of waters:
+
+(i) Waters identified by the State in its most recent section 305(b) report as “partially meeting” or “not meeting” designated uses or as “threatened”;
+
+(ii) Waters for which dilution calculations or predictive models indicate nonattainment of applicable water quality standards;
+
+(iii) Waters for which water quality problems have been reported by local, state, or federal agencies; members of the public; or academic institutions. These organizations and groups should be actively solicited for research they may be conducting or reporting. For example, university researchers, the United States Department of Agriculture, the National Oceanic and Atmospheric Administration, the United States Geological Survey, and the United States Fish and Wildlife Service are good sources of field data; and
+
+(iv) Waters identified by the State as impaired or threatened in a nonpoint assessment submitted to EPA under section 319 of the CWA or in any updates of the assessment.
+
+(6) Each State shall provide documentation to the Regional Administrator to support the State's determination to list or not to list its waters as required by §§ 130.7(b)(1) and 130.7(b)(2). This documentation shall be submitted to the Regional Administrator together with the list required by §§ 130.7(b)(1) and 130.7(b)(2) and shall include at a minimum:
+
+(i) A description of the methodology used to develop the list; and
+
+(ii) A description of the data and information used to identify waters, including a description of the data and information used by the State as required by § 130.7(b)(5); and
+
+(iii) A rationale for any decision to not use any existing and readily available data and information for any one of the categories of waters as described in § 130.7(b)(5); and
+
+(iv) Any other reasonable information requested by the Regional Administrator. Upon request by the Regional Administrator, each State must demonstrate good cause for not including a water or waters on the list. Good cause includes, but is not limited to, more recent or accurate data; more sophisticated water quality modeling; flaws in the original analysis that led to the water being listed in the categories in § 130.7(b)(5); or changes in conditions, e.g., new control equipment, or elimination of discharges.
+
+(c) Development of TMDLs and individual water quality based effluent limitations.
+
+(1) Each State shall establish TMDLs for the water quality limited segments identified in paragraph (b)(1) of this section, and in accordance with the priority ranking. For pollutants other than heat, TMDLs shall be established at levels necessary to attain and maintain the applicable narrative and numerical WQS with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality. Determinations of TMDLs shall take into account critical conditions for stream flow, loading, and water quality parameters.
+
+(i) TMDLs may be established using a pollutant-by-pollutant or biomonitoring approach. In many cases both techniques may be needed. Site-specific information should be used wherever possible.
+
+(ii) TMDLs shall be established for all pollutants preventing or expected to prevent attainment of water quality standards as identified pursuant to paragraph (b)(1) of this section. Calculations to establish TMDLs shall be subject to public review as defined in the State CPP.
+
+(2) Each State shall estimate for the water quality limited segments still requiring TMDLs identified in paragraph (b)(2) of this section, the total maximum daily thermal load which cannot be exceeded in order to assure protection and propagation of a balanced, indigenous population of shellfish, fish and wildlife. Such estimates shall take into account the normal water temperatures, flow rates, seasonal variations, existing sources of heat input, and the dissipative capacity of the identified waters or parts thereof. Such estimates shall include a calculation of the maximum heat input that can be made into each such part and shall include a margin of safety which takes into account any lack of knowledge concerning the development of thermal water quality criteria for protection and propagation of a balanced, indigenous population of shellfish, fish and wildlife in the identified waters or parts thereof.
+
+(d) *Submission and EPA approval.* (1) Each State shall submit biennially to the Regional Administrator beginning in 1992 the list of waters, pollutants causing impairment, and the priority ranking including waters targeted for TMDL development within the next two years as required under paragraph (b) of this section. For the 1992 biennial submission, these lists are due no later than October 22, 1992. Thereafter, each State shall submit to EPA lists required under paragraph (b) of this section on April 1 of every even-numbered year. For the year 2000 submission, a State must submit a list required under paragraph (b) of this section only if a court order or consent decree, or commitment in a settlement agreement dated prior to January 1, 2000, expressly requires EPA to take action related to that State's year 2000 list. For the year 2002 submission, a State must submit a list required under paragraph (b) of this section by October 1, 2002, unless a court order, consent decree or commitment in a settlement agreement expressly requires EPA to take an action related to that State's 2002 list prior to October 1, 2002, in which case, the State must submit a list by April 1, 2002. The list of waters may be submitted as part of the State's biennial water quality report required by § 130.8 of this part and section 305(b) of the CWA or submitted under separate cover. All WLAs/LAs and TMDLs established under paragraph (c) for water quality limited segments shall continue to be submitted to EPA for review and approval. Schedules for submission of TMDLs shall be determined by the Regional Administrator and the State.
+
+(2) The Regional Administrator shall either approve or disapprove such listing and loadings not later than 30 days after the date of submission. The Regional Administrator shall approve a list developed under § 130.7(b) that is submitted after the effective date of this rule only if it meets the requirements of § 130.7(b). If the Regional Administrator approves such listing and loadings, the State shall incorporate them into its current WQM plan. If the Regional Administrator disapproves such listing and loadings, he shall, not later than 30 days after the date of such disapproval, identify such waters in such State and establish such loads for such waters as determined necessary to implement applicable WQS. The Regional Administrator shall promptly issue a public notice seeking comment on such listing and loadings. After considering public comment and making any revisions he deems appropriate, the Regional Administrator shall transmit the listing and loads to the State, which shall incorporate them into its current WQM plan.
+
+(e) For the specific purpose of developing information and as resources allow, each State shall identify all segments within its boundaries which it has not identified under paragraph (b) of this section and estimate for such waters the TMDLs with seasonal variations and margins of safety, for those pollutants which the Regional Administrator identifies under section 304(a)(2) as suitable for such calculation and for thermal discharges, at a level that would assure protection and propagation of a balanced indigenous population of fish, shellfish and wildlife. However, there is no requirement for such loads to be submitted to EPA for approval, and establishing TMDLs for those waters identified in paragraph (b) of this section shall be given higher priority.
+
+[50 FR 1779, Jan. 11, 1985, as amended at 57 FR 33049, July 24, 1992; 65 FR 17170, Mar. 31, 2000; 66 FR 53048, Oct. 18, 2001]

@@ -1,0 +1,7 @@
+##### 1301.602-3 Ratification of unauthorized commitments. #####
+
+(a) Insert clause 1352.201-71, *Ratification Release,* in a contract document under which payment is made for unauthorized commitments after a ratification has been processed.
+
+(b)(1) Unauthorized commitments occur when the Department accepts goods or services in the absence of an enforceable contract entered into by an authorized official. It is the policy of DOC that all acquisitions are to be made only by Government officials having authority to make such acquisitions. Acquisitions made by other than authorized personnel are contrary to Departmental policy and the Department is not bound by any formal or informal type of agreement or contractual commitment which is made by persons who are not delegated contracting authority. Payment for goods or services accepted in the absence of an authorized commitment may be made only through the ratification process. Unauthorized commitments may be considered matters of serious misconduct and may subject the responsible employees to appropriate disciplinary actions.
+
+(2) The delegation of the ratification authority is set forth in CAM 1301.70. All requests for ratification must fully explain the circumstances that gave rise to the unauthorized commitment and detail, if appropriate, any disciplinary action taken with respect to any responsible employee. Ratifications may be approved only if all criteria in FAR 1.602-3 have been met.

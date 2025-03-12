@@ -1,0 +1,3 @@
+##### § 298.12 Duration of exemption. #####
+
+The exemption from any provision of the Statute provided by this part shall continue in effect only until such time as the Department shall find that enforcement of that provision would be in the public interest, at which time the exemption shall terminate or be conditioned with respect to the person, class of persons, or service (e.g., limited-entry foreign air transportation market) subject to the finding.

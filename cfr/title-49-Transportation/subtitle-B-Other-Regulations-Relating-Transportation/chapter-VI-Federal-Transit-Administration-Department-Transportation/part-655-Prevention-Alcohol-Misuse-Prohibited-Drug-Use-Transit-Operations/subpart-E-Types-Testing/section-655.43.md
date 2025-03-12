@@ -1,0 +1,9 @@
+##### § 655.43 Reasonable suspicion testing. #####
+
+(a) An employer shall conduct a drug and/or alcohol test when the employer has reasonable suspicion to believe that the covered employee has used a prohibited drug and/or engaged in alcohol misuse.
+
+(b) An employer's determination that reasonable suspicion exists shall be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech, or body odors of the covered employee. A supervisor(s), or other company official(s) who is trained in detecting the signs and symptoms of drug use and alcohol misuse must make the required observations.
+
+(c) Alcohol testing is authorized under this section only if the observations required by paragraph (b) of this section are made during, just preceding, or just after the period of the workday that the covered employee is required to be in compliance with this part. An employer may direct a covered employee to undergo reasonable suspicion testing for alcohol only while the employee is performing safety-sensitive functions; just before the employee is to perform safety-sensitive functions; or just after the employee has ceased performing such functions.
+
+(d) If an alcohol test required by this section is not administered within two hours following the determination under paragraph (b) of this section, the employer shall prepare and maintain on file a record stating the reasons the alcohol test was not promptly administered. If an alcohol test required by this section is not administered within eight hours following the determination under paragraph (b) of this section, the employer shall cease attempts to administer an alcohol test and shall state in the record the reasons for not administering the test.

@@ -1,0 +1,9 @@
+##### § 52.17 Costs of number administration. #####
+
+All telecommunications carriers in the United States shall contribute on a competitively neutral basis to meet the costs of establishing numbering administration.
+
+(a) Contributions to support numbering administration shall be the product of the contributors' end-user telecommunications revenues for the prior calendar year and a contribution factor determined annually by the Chief of the Common Carrier Bureau; such contributions to be no less than twenty-five dollars ($25). The contribution factor shall be based on the ratio of expected number administration expenses to end-user telecommunications revenues. Carriers that have no end-user telecommunications revenues shall contribute twenty-five dollars ($25). In the event that contributions exceed or are inadequate to cover administrative costs, the contribution factor for the following year shall be adjusted by an appropriate amount.
+
+(b) All telecommunications carriers in the United States shall complete and submit a “Telecommunications Reporting Worksheet” (as published by the Commission in the Federal Register), which sets forth the information needed to calculate contributions referred to in paragraph (a) of this section. The worksheet shall be certified to by an officer of the contributor, and subject to verification by the Commission or the B & C Agent at the discretion of the Commission. The Chief of the Common Carrier Bureau may waive, reduce, modify, or eliminate contributor reporting requirements that prove unnecessary and require additional reporting requirements that the Bureau deems necessary to the sound and efficient administration of the number administration cost recovery.
+
+[64 FR 41331, July 30, 1999, as amended at 73 FR 9481, Feb. 21, 2008; 80 FR 66479, Oct. 29, 2015]

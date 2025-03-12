@@ -1,0 +1,11 @@
+##### § 234.11 Disclosure to consumers. #####
+
+(a) During the course of reservations or ticketing discussions or transactions, or inquiries about flights, between a carrier's employees or contractors and the public, the carrier shall disclose upon reasonable request the on-time performance code for any flight that has been assigned a code pursuant to this part.
+
+(b) For each domestic flight for which schedule information is available on its Web site, including domestic code-share flights, a reporting carrier shall display the following information regarding the flight's performance during the most recent calendar month for which the carrier has reported on-time performance data to the Department: the percentage of arrivals that were on time—*i.e.*, within 15 minutes of scheduled arrival time, the percentage of arrivals that were more than 30 minutes late (including special highlighting if the flight was late more than 30 minutes of scheduled arrival time more than 50 percent of the time), and the percentage of flight cancellations if 5 percent or more of the flight's operations were canceled in the month covered. The information must be provided by showing all of the required information on the initial listing of flights or by showing all of the required information via a prominent hyperlink in close proximity to each flight on the page with the initial listing of flights.
+
+(c) The first time each carrier must load the information whose disclosure is required under paragraphs (a) and (b) of this section onto its Web site is on Saturday, July 24, 2010, for June data. Carriers must load all subsequent flight performance information on the fourth Saturday of the month following the month that is being reported.
+
+(d) A reporting carrier must meet the requirements of paragraphs (b) and (c) of this section by June 29, 2010.
+
+[Doc. No. DOT-OST-2007-0022, 74 FR 69002, Dec. 30, 2009, as amended by Doc. No. DOT-OST-2010-0039, 75 FR 17052, Apr. 5, 2010; Doc. No. DOT-OST-2007-0022, 75 FR 34927, June 21, 2010]

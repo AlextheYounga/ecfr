@@ -1,0 +1,15 @@
+##### § 1017.14 Designated officials. #####
+
+(a) *Reviewing Official*—(1) *Authority.* A Reviewing Official with cognizance over the information contained in a document or material is authorized to determine whether the document or material contains UCNI based on applicable guidance. A Reviewing Official marks or authorizes the marking of the document or material as specified in § 1017.16.
+
+(2) *Request for designation.* Procedures for requesting that a DOE Federal or contractor employee be designated as a Reviewing Official are contained in Departmental directives issued by the Secretary. DOE may also designate other Government agency employees, contractors, or other individuals granted routine access under § 1017.20 as Reviewing Officials.
+
+(3) *Designation.* Prior to being designated as a Reviewing Official, each employee must receive training approved by DOE that covers the requirements in these regulations and be tested on his or her proficiency in using applicable UCNI guidance. Upon successful completion of the training and test, he or she is designated as a Reviewing Official only while serving in his or her current position for a maximum of 3 years. The employee does not automatically retain the authority when he or she leaves his or her current position. The employee cannot delegate this authority to anyone else, and the authority may not be assumed by another employee acting in the employee's position. At the end of 3 years, if the position still requires the authority, the employee must be retested and redesignated by DOE as a Reviewing Official.
+
+(b) *Individuals approved to use DOE or joint DOE classification guidance*—(1) *Authority.* Other Government agency employees who are approved by DOE or another Government agency to use classification guidance developed by DOE or jointly by DOE and another Government agency may also be approved to review documents for UCNI and to make UCNI determinations. This authority is limited to the UCNI subject areas contained in the specific classification guidance that the individual has been approved to use.
+
+(2) *Designation.* Individuals must be designated this authority in writing by the appropriate DOE or other Government agency official with cognizance over the specific DOE or joint DOE classification guidance.
+
+(c) *Denying Official*—(1) *Authority.* A DOE Denying Official for unclassified information with cognizance over the information contained in a document is authorized to deny a request made under statute (e.g., the FOIA, the Privacy Act) or the mandatory review provisions of Executive Order 12958, as amended, “Classified National Security Information,” and its successor orders, for all or any portion of the document that contains UCNI. The Denying Official bases his or her denial on applicable guidance, ensuring that the Reviewing Official who determined that the document contains UCNI correctly interpreted and applied the guidance.
+
+(2) *Designation.* Information on the designation of DOE Denying Officials is contained in 10 CFR Part 1004, *Freedom of Information* (see definition of the term “Authorizing or Denying Official” in § 1004.2).

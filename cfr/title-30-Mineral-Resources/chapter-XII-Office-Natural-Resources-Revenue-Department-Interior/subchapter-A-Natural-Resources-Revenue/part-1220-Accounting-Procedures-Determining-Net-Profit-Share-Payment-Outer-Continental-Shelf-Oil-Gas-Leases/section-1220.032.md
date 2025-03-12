@@ -1,0 +1,11 @@
+##### § 1220.032 Inventories. #####
+
+(a) The lessee is responsible for NPSL materiel and shall make proper and timely cost and credit notations for all materiel movements affecting NPSL property. The lessee shall provide only such materiel as may be required for immediate use or is consistent with practical, efficient, and economical operations. The accumulation of surplus stocks shall be avoided by proper materiel control, inventory and purchasing. The lessee shall make timely disposition of idle and surplus materiel through sale.
+
+(b) At reasonable intervals, but at least once every three years, inventories of controllable materiel shall be taken by the lessee. Written notice of intention to take inventory shall be given by the lessee at least 30 days before any inventory is to be taken so that the BOEM Director may be represented at the taking of inventory. Failure of the BOEM Director to be represented at an inventory shall bind the BOEM Director to accept the inventory taken by the lessee, except in the case of willful misrepresentation or fraud.
+
+(c) Inventory shall be valued with any generally accepted accounting method used by the lessee to value the same materiel for financial or income tax reporting purposes, provided that the method is consistently applied throughout the life of the materiel.
+
+(d) Reconciliation shall be made of a physical inventory with the NPSL capital account by the lessee, and a list of overages and shortages shall be available to the BOEM Director for audit as provided in § 1220.033. Inventory adjustments of controllable materiel shall be made by the lessee to the NPSL capital account for overages and shortages. Controllable materiel removed from physical inventory that has not been credited to NPSL operations under § 1220.015(a)(2) shall be credited to NPSL operations at its original value, except that when the cost of the materiel originally qualified for the allowance for capital recovery in § 1220.020, the credit shall be calculated pursuant to § 1220.021(a)(3).
+
+[45 FR 36800, May 30, 1980, as amended at 75 FR 61087, Oct. 4, 2010]

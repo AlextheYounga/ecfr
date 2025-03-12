@@ -1,0 +1,9 @@
+##### § 1310.2 Requirement to maintain tariffs. #####
+
+(a) Except when providing transportation for charitable purposes without charge, carriers subject to the Board's jurisdiction under Chapter 135 of Title 49 of the United States Code may provide transportation or service for movements of household goods only if the rates, and related rules and practices, for such transportation or service are contained in a published tariff that is in effect under this section. The carrier may not charge or receive a different compensation for the transportation or service than the rate specified in the tariff, whether by returning a part of that rate to a person, by giving a person a privilege, by allowing the use of a facility that affects the value of that transportation or service, or through another device. Tariffs shall be published in the English language and rates shall be stated in money of the United States.
+
+(b) Tariffs maintained pursuant to this part must be available for inspection by the Board, and must be provided to the Board promptly and free of charge, upon request, by mail or other delivery service.
+
+(c) A carrier that maintains a tariff pursuant to this part may not enforce the provisions of the tariff unless the carrier has given notice that the tariff is available for inspection in its bill of lading or by other actual notice to individuals whose shipments are subject to the tariff, as provided in § 1310.4 of this part.
+
+(d) The Board may invalidate a tariff prepared by or on behalf of a carrier under this part if that tariff violates 49 U.S.C. 13702 or the regulations contained in this part.

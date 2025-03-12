@@ -1,0 +1,3 @@
+##### § 550.1605 Interpretation instruction. #####
+
+As required by section 2(f) of the Border Patrol Agent Pay Reform Act of 2014 (Public Law 113-277), nothing in section 2 of the Act or this subpart may be construed to require compensation of an agent other than for hours during which the agent is actually performing work or using approved paid leave or other paid time off. This section does not prevent CBP from granting paid excused absence from an agent's basic workweek under other authority.

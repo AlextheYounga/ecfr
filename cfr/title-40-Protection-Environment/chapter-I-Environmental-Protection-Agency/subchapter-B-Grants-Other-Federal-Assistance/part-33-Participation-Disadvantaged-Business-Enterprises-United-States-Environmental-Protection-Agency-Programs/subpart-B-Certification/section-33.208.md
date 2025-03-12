@@ -1,0 +1,3 @@
+##### § 33.208 How long does an MBE or WBE certification from EPA last? #####
+
+Once EPA OSDBU certifies an entity to be an MBE or WBE by placing it on the EPA OSDBU list of certified MBEs and WBEs specified in § 33.206, the entity will generally remain on the list for a period of three years from the date of its certification. To remain on the list after three years, an entity must submit a new application and receive a new certification.

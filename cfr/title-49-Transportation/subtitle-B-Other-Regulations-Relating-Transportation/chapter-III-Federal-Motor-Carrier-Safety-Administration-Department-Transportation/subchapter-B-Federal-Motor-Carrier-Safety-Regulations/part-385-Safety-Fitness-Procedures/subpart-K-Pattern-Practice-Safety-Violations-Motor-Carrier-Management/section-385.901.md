@@ -1,0 +1,3 @@
+##### § 385.901 Applicability. #####
+
+The requirements in this subpart apply to for-hire motor carriers, employers, officers and persons registered or required to be registered under 49 U.S.C. 13902, 49 CFR part 365, and 49 CFR part 368. When used in this subpart, the term “motor carrier” includes all for-hire motor carriers, employers, officers and other persons, however designated, that are registered or required to be registered under 49 U.S.C. 13902, 49 CFR part 365, and 49 CFR part 368.

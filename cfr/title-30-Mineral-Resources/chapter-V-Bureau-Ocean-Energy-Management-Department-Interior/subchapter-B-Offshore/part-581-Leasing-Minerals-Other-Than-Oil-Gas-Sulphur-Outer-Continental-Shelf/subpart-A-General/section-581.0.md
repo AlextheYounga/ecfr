@@ -1,0 +1,3 @@
+##### § 581.0 Authority for information collection. #####
+
+The information collection requirements contained in part 581 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1010-0082. The information is being collected to determine if the applicant for a lease on the Outer Continental Shelf (OCS) is qualified to hold such a lease or to determine if a requested action is warranted. The information will be used to make those determinations. An applicant must respond to obtain or retain a benefit.

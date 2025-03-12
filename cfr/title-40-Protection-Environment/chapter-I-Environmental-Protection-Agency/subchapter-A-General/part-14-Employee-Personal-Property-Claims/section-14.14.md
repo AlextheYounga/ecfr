@@ -1,0 +1,5 @@
+##### § 14.14 Computation of award. #####
+
+(a) The amount awarded on any item may not exceed its adjusted cost. Adjusted cost is either the purchase price of the item or its value at the time of acquisition, less appropriate depreciation. The amount normally payable for property damaged beyond economical repair is its depreciated value immediately before the loss or damage, less any salvage value. If the cost of repair is less than the depreciated value, it will be considered to be economically repairable and only the cost of repair will be allowable.
+
+(b) Notwithstanding a contract to the contrary, the representative of an employee is limited by 31 U.S.C. 3721(i) to receipt of not more than 10 percent of the amount of an award under this part for services related to the claim. A person violating this paragraph is subject to a fine of not more than $1,000. 31 U.S.C. 3721(i).

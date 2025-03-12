@@ -1,0 +1,3 @@
+##### § 137.16 What if more than 50 Indian Tribes apply to participate in self-governance? #####
+
+The first Indian Tribes who apply and are determined to be eligible shall have the option to participate in self-governance. Any Indian Tribe denied participation due to the limitation in number of Indian Tribes that may take part is entitled to participate in the next fiscal year, provided the Indian Tribe continues to meet the financial stability and financial management capacity requirements.

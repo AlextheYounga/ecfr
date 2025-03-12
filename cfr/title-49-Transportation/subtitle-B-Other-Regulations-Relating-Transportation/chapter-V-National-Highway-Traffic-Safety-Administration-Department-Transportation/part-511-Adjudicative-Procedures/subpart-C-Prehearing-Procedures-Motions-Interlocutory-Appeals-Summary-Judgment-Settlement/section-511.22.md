@@ -1,0 +1,3 @@
+##### § 511.22 Prehearing briefs. #####
+
+Not later ten (10) days prior to the hearing, the parties shall, except when ordered otherwise by the Presiding Officer in unusual circumstances, simultaneously serve and file prehearing briefs, which shall set forth (a) a statement of the facts expected to be proved, and of the anticipated order of proof; (b) a statement of the issues and the legal argument in support of the party's contentions with respect to each issue; and (c) a table of authorities with a designation by asterisk of the principal authorities relied upon.

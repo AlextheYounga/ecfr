@@ -1,0 +1,3 @@
+##### § 263.301 Purpose. #####
+
+Section 39 of the FDI Act requires the Board to establish safety and soundness standards. Pursuant to section 39, a bank may be required to submit a compliance plan if it is not in compliance with a safety and soundness standard established by guideline under section 39(a) or (b). An enforceable order under section 8 may be issued if, after being notified that it is in violation of a safety and soundness standard established under section 39, the bank fails to submit an acceptable compliance plan or fails in any material respect to implement an accepted plan. This subpart establishes procedures for requiring submission of a compliance plan and issuing an enforceable order pursuant to section 39.

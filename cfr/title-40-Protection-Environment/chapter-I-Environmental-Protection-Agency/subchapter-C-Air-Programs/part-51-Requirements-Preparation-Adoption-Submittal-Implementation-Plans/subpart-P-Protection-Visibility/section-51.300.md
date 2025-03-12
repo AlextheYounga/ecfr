@@ -1,0 +1,7 @@
+##### § 51.300 Purpose and applicability. #####
+
+(a) *Purpose.* The primary purposes of this subpart are to require States to develop programs to assure reasonable progress toward meeting the national goal of preventing any future, and remedying any existing, impairment of visibility in mandatory Class I Federal areas which impairment results from manmade air pollution; and to establish necessary additional procedures for new source permit applicants, States and Federal Land Managers to use in conducting the visibility impact analysis required for new sources under § 51.166. This subpart sets forth requirements addressing visibility impairment in its two principal forms: “reasonably attributable” impairment (*i.e.*, impairment attributable to a single source/small group of sources) and regional haze (*i.e.*, widespread haze from a multitude of sources which impairs visibility in every direction over a large area).
+
+(b) *Applicability* The provisions of this subpart are applicable to all States as defined in section 302(d) of the Clean Air Act (CAA) except Guam, Puerto Rico, American Samoa, and the Northern Mariana Islands.
+
+[45 FR 80089, Dec. 2, 1980, as amended at 64 FR 35763, July 1, 1999; 82 FR 3122, Jan. 10, 2017]

@@ -1,0 +1,9 @@
+##### § 63a.8 How long does grant support last? #####
+
+(a) The notice of the grant award specifies how long the Secretary intends to support the project without requiring the grantee to recompete for funds. This period, called the “project period,” will usually be for one to five years.
+
+(b) Generally, the grant will be initially for one year and subsequent continuation awards will be for one year at a time. A grantee must submit a separate application at the time and in the form and manner that the Secretary may require to have the support continued for each subsequent year. Decisions regarding continuation awards and the funding level of these awards will be made after consideration of such factors as the grantee's progress and management practices, and the availability of funds. In all cases, continuation awards require determination by the Secretary that continued funding is in the best interest of the Federal Government.
+
+(c) Neither the approval of any application nor the award of any grant commits or obligates the Federal Government in any way to make any additional, supplemental, continuation, or other award with respect to any approved application or portion of an approved application.
+
+(d) Any balance of federally obligated grant funds remaining unobligated by the grantee at the end of a budget period may be carried forward to the next budget period, for use as prescribed by the Secretary, provided that a continuation award is made. If at any time during a budget period it becomes apparent to the Secretary that the amount of Federal funds awarded and available to the grantee for that period, including any unobligated balance carried forward from prior periods, exceeds the grantee's needs for that period, the Secretary may adjust the amounts awarded by withdrawing the excess.

@@ -1,0 +1,7 @@
+##### § 150.32 Funds for reclamation or maintenance of byproduct material. #####
+
+(a) The total amount of funds an Agreement State collects, pursuant to a license for byproduct material as defined in § 150.3(c)(2) of this part or for any activity that results in the production of such material, for reclamation or long term maintenance and monitoring of such material, shall after November 8, 1981, be transferred to the United States if title and custody of such material and its disposal site is transferred to the United States upon termination of such license. Such funds include, but are not limited to, sums collected for long term surveillance (*i.e.*, continued site observation, monitoring and, where necessary, maintenance). Such funds do not however, include monies held as surety where no default has occurred and the reclamation or other bonded activity has been performed.
+
+(b) If an Agreement State requires such payments for reclamation or long term surveillance (*i.e.*, continued site observation, monitoring and, where necessary, maintenance), the payments must, after November 8, 1981, be sufficient to ensure compliance with those standards established by the Commission pertaining to bonds, sureties, and financial arrangements to ensure adequate reclamation and long term management of such byproduct material and its disposal site.
+
+[45 FR 65537, Oct. 3, 1980; 48 FR 40882, Sept. 12, 1983]

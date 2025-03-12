@@ -1,0 +1,3 @@
+##### § 176.903 Stowage of cotton or vegetable fibers with coal. #####
+
+Cotton or vegetable fibers being transported on a vessel may not be stowed in the same hold with coal. They may be stowed in adjacent holds if the holds are separated by a tight steel bulkhead and the cotton or vegetable fibers are dunnaged at least 5 cm (2 inches) off the bulkhead. Cotton or vegetable fibers may be stowed in a hold above or below one in which coal is stowed if there is a tight steel intervening deck and all hatch covers are in place and covered with tarpaulins.

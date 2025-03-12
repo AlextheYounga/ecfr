@@ -1,0 +1,3 @@
+##### § 236.24 Spacing of roadway signals. #####
+
+Each roadway signal shall be located with respect to the next signal or signals in advance which govern train movements in the same direction so that the indication of a signal displaying a restrictive aspect can be complied with by means of a brake application, other than an emergency application, initiated at such signal, either by stopping at the signal where a stop is required, or by a reduction in speed to the rate prescribed by the next signal in advance where reduced speed is required.

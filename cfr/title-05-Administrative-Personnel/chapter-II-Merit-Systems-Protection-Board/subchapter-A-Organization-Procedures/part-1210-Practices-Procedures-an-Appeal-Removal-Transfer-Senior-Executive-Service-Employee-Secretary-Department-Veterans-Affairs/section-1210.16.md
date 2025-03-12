@@ -1,0 +1,3 @@
+##### § 1210.16 Intervenors and amici curiae. #####
+
+Intervenors and amici curiae are permitted to participate in proceedings under this part as allowed in § 1201.34 of this chapter. Motions to intervene and requests to participate as an amicus curiae must be filed at the earliest possible time, generally before the initial status conference. All intervenors and amici curiae must comply with the expedited procedures set forth in this part and all orders issued by the administrative judge. The deadlines applicable to the timely adjudication of cases under this part will not be extended to accommodate intervenors or amici curiae.

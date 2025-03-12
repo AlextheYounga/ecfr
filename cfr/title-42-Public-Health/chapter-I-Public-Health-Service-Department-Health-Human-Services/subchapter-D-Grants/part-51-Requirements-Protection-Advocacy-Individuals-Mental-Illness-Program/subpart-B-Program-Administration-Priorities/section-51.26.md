@@ -1,0 +1,3 @@
+##### § 51.26 Conflicts of interest. #####
+
+The P&A system must develop appropriate policies and procedures to avoid actual or apparent conflict of interest involving clients, employees, contractors and subcontractors, and members of the governing authority and advisory council, particularly with respect to matters affecting client services, particular contracts and subcontracts, grievance review procedures, reimbursements and expenses, and the employment or termination of staff.

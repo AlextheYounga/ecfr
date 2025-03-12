@@ -1,0 +1,7 @@
+##### § 844.105 Relationship to workers' compensation. #####
+
+(a) Except as provided in paragraph (b) of this section, an individual who is eligible for both an annuity under part 842 or 844 of this chapter and compensation for injury or disability under subchapter I of chapter 81 of title 5, United States Code (other than a scheduled award under 5 U.S.C. 8107(c)), covering the same period of time must elect to receive either the annuity or compensation.
+
+(b) Notwithstanding the provisions of paragraph (a) of this section, an individual may concurrently receive an annuity based on the individual's service under part 842 or 844 of this chapter and a benefit under subchapter I of chapter 81 of title 5, United States Code, on account of the death of another individual. An individual may also receive an annuity under part 843 of this chapter and compensation for injury or disability to himself or herself under such subchapter I covering the same period of time.
+
+(c) An individual who elects to receive compensation payments under paragraph (a) of this section and who has not received a refund of contributions under § 843.202 retains the right to elect to receive an annuity under part 842 or 844, as the case may be, in the event that the individual's compensation payments cease or are reduced.

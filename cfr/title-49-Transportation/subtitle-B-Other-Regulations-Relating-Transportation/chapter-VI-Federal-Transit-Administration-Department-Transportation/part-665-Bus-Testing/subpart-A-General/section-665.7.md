@@ -1,0 +1,5 @@
+##### § 665.7 Certification of compliance. #####
+
+(a) In each application to FTA for the purchase or lease of any new bus model, or any bus model with a major change in configuration or components to be acquired or leased with funds obligated by the FTA, the recipient shall certify that the bus was tested at the Bus Testing Facility and that the bus received a passing test score as required in this part. The recipient shall receive the appropriate full Bus Testing Report and any applicable partial testing report(s) before final acceptance of the first vehicle.
+
+(b) In dealing with a bus manufacturer or dealer, the recipient shall be responsible for determining whether a vehicle to be acquired requires full testing or partial testing or has already satisfied the requirements of this part. A bus manufacturer or recipient may request guidance from FTA.

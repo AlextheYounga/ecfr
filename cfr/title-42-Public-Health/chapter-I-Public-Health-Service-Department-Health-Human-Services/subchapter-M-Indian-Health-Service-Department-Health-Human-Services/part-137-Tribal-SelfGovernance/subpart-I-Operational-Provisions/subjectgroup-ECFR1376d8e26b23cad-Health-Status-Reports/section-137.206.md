@@ -1,0 +1,3 @@
+##### § 137.206 Why does the IHS need this information? #####
+
+This information will be used to comply with sections 513 [25 U.S.C. 458aaa-12] and 514 [25 U.S.C. 458aaa-13] of the Act as well as to assist IHS in advocating for the Indian health system, budget formulation, and other reporting required by statute, development of partnerships with other organizations that benefit the health status of Indian Tribes, and sharing of best practices.

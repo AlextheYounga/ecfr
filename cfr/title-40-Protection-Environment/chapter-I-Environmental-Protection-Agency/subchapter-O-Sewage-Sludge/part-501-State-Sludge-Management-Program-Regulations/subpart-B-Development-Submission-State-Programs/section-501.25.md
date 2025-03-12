@@ -1,0 +1,5 @@
+##### § 501.25 Provisions for Tribal criminal enforcement authority. #####
+
+To the extent that an Indian Tribe is precluded from asserting criminal enforcement authority as required under §§ 501.1(c)(5) and 501.17, the Federal Government will exercise primary criminal enforcement responsibility. The Tribe, with the EPA Region, shall develop a procedure by which the Tribal agency will refer potential criminal violations to the Regional Administrator, as agreed to by the parties, in an appropriate and timely manner. This procedure shall encompass all circumstances in which the Tribe is incapable of exercising the enforcement requirements of §§ 501.1(c)(5) and 501.17. This agreement shall be incorporated into a joint or separate Memorandum of Agreement with the EPA Region, as appropriate.
+
+[58 FR 67985, Dec. 22, 1993]

@@ -1,0 +1,11 @@
+##### § 121.903 General requirements for Advanced Qualification Programs. #####
+
+(a) A curriculum approved under an AQP may include elements of existing training programs under part 121 and part 135 of this chapter. Each curriculum must specify the make, model, series or variant of aircraft and each crewmember position or other positions to be covered by that curriculum. Positions to be covered by the AQP must include all flight crewmember positions, flight instructors, and evaluators and may include other positions, such as flight attendants, aircraft dispatchers, and other operations personnel.
+
+(b) Each certificate holder that obtains approval of an AQP under this subpart must comply with all the requirements of the AQP and this subpart instead of the corresponding provisions of parts 61, 63, 65, 121, or 135 of this chapter. However, each applicable requirement of parts 61, 63, 65, 121, or 135 of this chapter, including but not limited to practical test requirements, that is not specifically addressed in the AQP continues to apply to the certificate holder and to the individuals being trained and qualified by the certificate holder. No person may be trained under an AQP unless that AQP has been approved by the FAA and the person complies with all the requirements of the AQP and this subpart.
+
+(c) No certificate holder that conducts its training program under this subpart may use any person nor may any person serve in any duty position as a required crewmember, an aircraft dispatcher, an instructor, or an evaluator, unless that person has satisfactorily accomplished, in a training program approved under this subpart for the certificate holder, the training and evaluation of proficiency required by the AQP for that type airplane and duty position.
+
+(d) All documentation and data required under this subpart must be submitted in a form and manner acceptable to the FAA.
+
+(e) Any training or evaluation required under an AQP that is satisfactorily completed in the calendar month before or the calendar month after the calendar month in which it is due is considered to have been completed in the calendar month it was due.

@@ -1,0 +1,3 @@
+##### § 7.1011 National bank acting as payroll issuer. #####
+
+A national bank may disburse to an employee of a customer payroll funds deposited with the bank by that customer. The bank may disburse those funds by direct payment to the employee, by crediting an account in the employee's name at the disbursing bank, or by forwarding funds to another institution in which an employee maintains an account.

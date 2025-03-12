@@ -1,0 +1,3 @@
+##### § 136.109 Availability of appropriations. #####
+
+The Secretary will from time to time publish a notice in the Federal Register indicating by areas the allotment of funds and categories of activities for which awards may be made under this subpart. The Secretary may revise such allotments and categories from time to time and will promptly publish a notice of such revisions in the Federal Register.

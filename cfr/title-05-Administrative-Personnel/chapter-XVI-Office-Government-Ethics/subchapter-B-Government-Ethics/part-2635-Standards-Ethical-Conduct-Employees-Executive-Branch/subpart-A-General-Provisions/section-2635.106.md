@@ -1,0 +1,7 @@
+##### § 2635.106 Disciplinary and corrective action. #####
+
+(a) Except as provided in § 2635.107, a violation of this part or of supplemental agency regulations may be cause for appropriate corrective or disciplinary action to be taken under applicable Governmentwide regulations or agency procedures. Such action may be in addition to any action or penalty prescribed by law.
+
+(b) It is the responsibility of the employing agency to initiate appropriate disciplinary or corrective action in individual cases. However, corrective action may be ordered or disciplinary action recommended by the Director of the Office of Government Ethics under the procedures at part 2638 of this chapter.
+
+(c) A violation of this part or of supplemental agency regulations, as such, does not create any right or benefit, substantive or procedural, enforceable at law by any person against the United States, its agencies, its officers or employees, or any other person. Thus, for example, an individual who alleges that an employee has failed to adhere to laws and regulations that provide equal opportunity regardless of race, color, religion, sex, national origin, age, or handicap is required to follow applicable statutory and regulatory procedures, including those of the Equal Employment Opportunity Commission.

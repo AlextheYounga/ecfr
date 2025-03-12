@@ -1,0 +1,3 @@
+##### § 831.1405 Ordinary and necessary living expenses. #####
+
+An individual's ordinary and necessary living expenses include rent, mortgage payments, utilities, maintenance, food, clothing, insurance (life, health and accident), taxes, installment payments, medical expenses, support expenses when the annuitant is legally responsible, and other miscellaneous expenses which the individual can establish as being ordinary and necessary.

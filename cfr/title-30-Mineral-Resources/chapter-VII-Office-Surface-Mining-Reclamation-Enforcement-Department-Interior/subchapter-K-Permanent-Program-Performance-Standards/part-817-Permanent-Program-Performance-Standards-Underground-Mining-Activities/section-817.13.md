@@ -1,0 +1,5 @@
+##### § 817.13 Casing and sealing of exposed underground openings: General requirements. #####
+
+Each exploration hole, other drillhole or borehole, shaft, well, or other exposed underground opening shall be cased, lined, or otherwise managed as approved by the regulatory authority to prevent acid or other toxic drainage from entering ground and surface waters, to minimize disturbance to the prevailing hydrologic balance and to ensure the safety of people, livestock, fish and wildlife, and machinery in the permit area and adjacent area. Each exploration hole, drill hole or borehole or well that is uncovered or exposed by mining activities within the permit area shall be permanently closed, unless approved for water monitoring or otherwise managed in a manner approved by the regulatory authority. Use of a drilled hole or monitoring well as a water well must meet the provisions of § 817.41 of this part. This section does not apply to holes drilled and used for blasting, in the area affected by surface operations.
+
+[44 FR 15422, Mar. 13, 1979, as amended at 48 FR 14822, Apr. 5, 1983; 48 FR 43992, Sept. 26, 1983]

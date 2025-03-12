@@ -1,0 +1,31 @@
+##### § 2634.903 General requirements, filing dates, and extensions. #####
+
+(a) *Incumbents.* A confidential filer who holds a position or office described in § 2634.904(a) of this subpart and who performs the duties of that position or office for a period in excess of 60 days during the calendar year (including more than 60 days in an acting capacity) shall file a confidential report as an incumbent, containing the information prescribed in §§ 2634.907 and 2634.908 of this subpart on or before February 15 of the following year. This requirement does not apply if the employee has left Government service prior to the due date for the report. No incumbent reports are required of special Government employees described in § 2634.904(a)(2) of this subpart, but they must file new entrant reports under § 2634.903(b) of this subpart upon each appointment or reappointment. For confidential filers under § 2634.904(a)(3) of this subpart, consult agency supplemental regulations.
+
+(b) *New entrants.* (1) Not later than 30 days after assuming a new position or office described in § 2634.904(a) of this subpart (which also encompasses the reappointment or redesignation of a special Government employee, including one who is serving on an advisory committee), a confidential filer shall file a confidential report containing the information prescribed in §§ 2634.907 and 2634.908 of this subpart. For confidential filers under § 2634.904(a)(3) of this subpart, consult agency supplemental regulations.
+
+(2) However, no report shall be required if the individual:
+
+(i) Has, within 30 days prior to assuming his position, left another position or office referred to in § 2634.904(a) of this subpart or in § 2634.202, and has previously satisfied the reporting requirements applicable to that former position, but a copy of the report filed by the individual while in that position should be made available to the appointing agency, and the individual must comply with any agency requirement for a supplementary report for the new position;
+
+(ii) Has already filed such a report in connection with consideration for appointment to the position. The agency may request that the individual update such a report if more than six months has expired since it was filed; or
+
+(iii) Is not reasonably expected to perform the duties of an office or position referred to in § 2634.904(a) of this subpart for more than 60 days in the following twelve-month period, as determined by the designated agency ethics official or delegate. That may occur most commonly in the case of an employee who temporarily serves in an acting capacity in a position described by § 2634.904(a)(1) of this subpart. If the individual actually performs the duties of such position for more than 60 days in the twelve-month period, then a confidential financial disclosure report must be filed within 15 calendar days after the sixtieth day of such service in the position. Paragraph (b)(2)(iii) of § 2634.903 does not apply to new entrants filing as special Government employees under § 2634.904(a)(2) of this subpart.
+
+(3) Notwithstanding the filing deadline prescribed in paragraph (b)(1) of this section, agencies may at their discretion, require that prospective entrants into positions described in § 2634.904(a) of this subpart file their new entrant confidential financial disclosure reports prior to serving in such positions, to insure that there are no insurmountable ethics concerns. Additionally, a special Government employee who has been appointed to serve on an advisory committee shall file the required report before any advice is rendered by the employee to the agency, or in no event, later than the first committee meeting.
+
+(c) *Advisory committee definition.* For purposes of this subpart, the term *advisory committee* shall have the meaning given to that term under section 3 of the Federal Advisory Committee Act (5 U.S.C. app). Specifically, it means any committee, board, commission, council, conference, panel, task force, or other similar group which is established by statute or reorganization plan, or established or utilized by the President or one or more agencies, in the interest of obtaining advice or recommendations for the President or one or more agencies or officers of the Federal Government. Such term includes any subcommittee or other subgroup of any advisory committee, but does not include the Advisory Commission on Intergovernmental Relations, the Commission on Government Procurement, or any committee composed wholly of full-time officers or employees of the Federal Government.
+
+(d) *Extensions* - (1) *Agency extensions.* The agency reviewing official may, for good cause shown, grant to any employee or class of employees a filing extension or several extensions totaling not more than 90 days.
+
+(2) *Certain service during period of national emergency.* In the case of an active duty military officer or enlisted member of the Armed Forces, a Reserve or National Guard member on active duty under orders issued pursuant to title 10 or title 32 of the United States Code, a commissioned officer of the Uniformed Services (as defined in 10 U.S.C. 101), or any other employee, who is deployed or sent to a combat zone or required to perform services away from his permanent duty station in support of the Armed Forces or other governmental entities following a declaration by the President of a national emergency, the agency reviewing official may grant such individual a filing extension to last no longer than 90 days after the last day of:
+
+(i) The individual's service in the combat zone or away from his permanent duty station; or
+
+(ii) The individual's hospitalization as a result of injury received or disease contracted while serving during the national emergency.
+
+(3) *Agency procedures.* Each agency may prescribe procedures to provide for the implementation of the extensions provided for by this paragraph.
+
+(e) *Termination reports not required.* An employee who is required to file a confidential financial disclosure report is not required to file a termination report upon leaving the filing position.
+
+[57 FR 11826, Apr. 7, 1992, as amended at 58 FR 38912, July 21, 1993; 63 FR 69992, Dec. 18, 1998; 66 FR 55872, Nov. 5, 2001; 71 FR 28234, May 16, 2006]

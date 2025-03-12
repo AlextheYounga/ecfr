@@ -1,0 +1,3 @@
+##### § 18.90 Purpose. #####
+
+The regulations of this subpart E set forth the procedures and requirements for permissibility which must be met to obtain MSHA field approval of electrically operated machinery used or intended for use in by the last open crosscut of a coal mine which has not been otherwise approved, certified or accepted under the provisions of this part 18, chapter I, title 30, Code of Federal Regulations (Bureau of Mines Schedule 2G).

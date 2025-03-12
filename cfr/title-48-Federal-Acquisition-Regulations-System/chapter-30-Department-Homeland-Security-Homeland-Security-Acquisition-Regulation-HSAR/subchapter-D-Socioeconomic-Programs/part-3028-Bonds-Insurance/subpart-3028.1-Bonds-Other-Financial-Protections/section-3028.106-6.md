@@ -1,0 +1,11 @@
+##### 3028.106-6 Furnishing information. #####
+
+(b) The contracting officer shall, upon request, furnish the name and address of the prime contractor's surety or sureties to employees, suppliers, and subcontractors having a contractual or employment relationship with prime contractors, subcontractors or suppliers. When furnishing surety information, the inquirer may also be informed that:
+
+(1) Persons believing that they have legal remedies under the Miller Act are cautioned to consult their own legal advisor regarding the proper steps to take to obtain remedies.
+
+(2) On construction contracts exceeding $2,000, if the contracting officer is informed (through routine compliance checking, a complaint, or a request for information) that a laborer, mechanic, apprentice, trainee, watchman, or guard employed by the contractor or subcontractor at any tier may have been paid wages less than those required by the applicable labor standards provisions of the contract, the contracting officer shall promptly initiate an investigation in accordance with (FAR) 48 CFR subpart 22.4, irrespective of the employee's rights under the Miller Act. When an employee's request for information is involved, the contracting officer shall inform the inquirer that such investigation will be made. Such investigation is required pursuant to the provisions of the Davis-Bacon Act, Contract Work Hours and Safety Standards Act, and Copeland (Anti-Kickback) Act for assuring proper payment to such employees.
+
+(c) When furnishing a copy of a payment bond and contract in accordance with (FAR) 48 CFR 28.106-6(c), the requirement for a copy of the contract may be satisfied by furnishing a machine-duplicate copy of the contract's cover page, showing the contract number and date, the contractor's name and signature, the contracting officer's signature, and the description of the contract work. The contracting officer furnishing the copies shall place the statement “Certified to be a true and correct copy” followed by a signature, title and name of the Component. The fee for furnishing the requested certified copies shall be determined according to the DHS Freedom of Information Act regulation, 6 CFR part 5, subpart B.
+
+[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25771, May 2, 2006; 71 FR 48801, Aug. 22, 2006]

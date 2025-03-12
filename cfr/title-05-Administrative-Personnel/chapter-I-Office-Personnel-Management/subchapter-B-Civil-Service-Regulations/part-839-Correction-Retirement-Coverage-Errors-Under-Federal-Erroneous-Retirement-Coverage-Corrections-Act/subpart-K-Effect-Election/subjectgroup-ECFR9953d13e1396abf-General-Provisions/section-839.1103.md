@@ -1,0 +1,3 @@
+##### § 839.1103 If my qualifying retirement coverage error started when I should have been placed under FERS automatically, but my agency put me in CSRS because I had some past service, will I get a CSRS component in my FERS annuity for the service before the error if I elect FERS? #####
+
+No, employees who should have been automatically placed in FERS (generally because they did not have 5 years of past service under CSRS rules) do not have a CSRS component in their future FERS benefit. All service must be treated as FERS service in this circumstance.

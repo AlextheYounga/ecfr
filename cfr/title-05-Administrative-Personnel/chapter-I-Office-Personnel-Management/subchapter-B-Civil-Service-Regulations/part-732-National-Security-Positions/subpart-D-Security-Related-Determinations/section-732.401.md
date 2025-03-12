@@ -1,0 +1,7 @@
+##### § 732.401 Reemployment eligibility of certain former Federal employees. #####
+
+(a) *Request.* A former employee who was terminated, or who resigned while charges were pending, from a department or agency of the Government under a statute or executive order authorizing termination in the interest of national security or on grounds relating to loyalty, and authorizing OPM to determine the eligibility for employment in another department or agency of the Government, may request OPM in writing to determine whether the individual is eligible for employment in another department or agency of the Government.
+
+(b) *Action by OPM.* (1) OPM shall determine, and will notify the former employee, after appropriate consideration of the case, including such investigation as it considers necessary, whether the individual may be employed in another department or agency of the Government.
+
+(2) If a former Federal employee found ineligible under this section has had an opportunity to comment on the reasons for the action, or has furnished them to OPM or to the former employing agency, OPM may cancel the reinstatement eligibility if the eligibility resulted from the last Federal employment and was obtained through fraud, and OPM may prescribe a period of debarment not to exceed 3 years.

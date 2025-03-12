@@ -1,0 +1,3 @@
+##### § 236.502 Automatic brake application, initiation by restrictive block conditions stopping distance in advance. #####
+
+An automatic train-stop or train-control system shall operate to initiate an automatic brake application at least stopping distance from the entrance to a block, wherein any condition described in § 236.205 obtains, and at each main track signal requiring a reduction in speed.

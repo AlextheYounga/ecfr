@@ -1,0 +1,7 @@
+##### § 51.801 Commission action upon a state commission's failure to act to carry out its responsibility under section 252 of the Act. #####
+
+(a) If a state commission fails to act to carry out its responsibility under section 252 of the Act in any proceeding or other matter under section 252 of the Act, the Commission shall issue an order preempting the state commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the state commission under section 252 of the Act with respect to the proceeding or matter and shall act for the state commission.
+
+(b) For purposes of this part, a state commission fails to act if the state commission fails to respond, within a reasonable time, to a request for mediation, as provided for in section 252(a)(2) of the Act, or for a request for arbitration, as provided for in section 252(b) of the Act, or fails to complete an arbitration within the time limits established in section 252(b)(4)(C) of the Act.
+
+(c) A state shall not be deemed to have failed to act for purposes of section 252(e)(5) of the Act if an agreement is deemed approved under section 252(e)(4) of the Act.

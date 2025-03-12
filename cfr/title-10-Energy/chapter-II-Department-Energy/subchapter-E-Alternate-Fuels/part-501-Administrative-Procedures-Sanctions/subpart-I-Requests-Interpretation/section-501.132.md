@@ -1,0 +1,7 @@
+##### § 501.132 Contents of a request for interpretation. #####
+
+(a) A request for an interpretation must contain a complete statement of all the facts believed to be relevant to the circumstances, acts or transactions that are the subject of the request. The facts must include the names and addresses of all potentially affected persons (if reasonably ascertainable) and a full discussion of the pertinent provisions and relevant facts contained in any documents submitted with the request. Copies of relevant contracts, agreements, leases, instruments, and other documents relating to the request must be submitted if DOE believes they are necessary for determination of any issue pending in the proceeding under this subpart. When the request pertains to only one step in a larger integrated transaction, the requesting party must also submit the facts, circumstances, and other relevant information pertaining to the entire transaction.
+
+(b) The requesting party must include in the request a discussion of all relevant legal authorities, rulings, regulations, interpretations and decisions on appeal relied upon to support the particular interpretation sought.
+
+(c) DOE may refuse to issue an interpretation if it determines that there is insufficient information upon which to base an interpretation.

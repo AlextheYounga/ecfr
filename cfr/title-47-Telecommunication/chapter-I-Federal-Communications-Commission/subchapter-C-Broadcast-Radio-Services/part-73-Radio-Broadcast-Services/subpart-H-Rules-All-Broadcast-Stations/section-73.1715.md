@@ -1,0 +1,15 @@
+##### § 73.1715 Share time. #####
+
+Operation is permitted by two or more broadcast stations using the same channel in accordance with a division of hours mutually agreed upon and considered part of their licenses.
+
+(a) If the licenses of stations authorized to share time do not specify hours of operation, the licensees shall endeavor to reach an agreement for a definite schedule of periods of time to be used by each. Such agreement shall be in writing and each licensee shall file it in duplicate original with each application to the FCC in Washington, DC for renewal of license. If and when such written agreements are properly filed in conformity with this Section, the file mark of the FCC will be affixed thereto, one copy will be retained by the FCC, and one copy returned to the licensee to be posted with the station license and considered as a part thereof. If the license specifies a proportionate time division, the agreement shall maintain this proportion. If no proportionate time division is specified in the license, the licensees shall agree upon a division of time. Such division of time shall not include simultaneous operation of the stations unless specifically authorized by the terms of the license.
+
+(b) If the licensees of stations authorized to share time are unable to agree on a division of time, the FCC in Washington, DC shall be so notified by a statement filed with the applications for renewal of licenses. Upon receipt of such statement, the FCC will designate the applications for a hearing and, pending such hearing, the operating schedule previously adhered to shall remain in full force and effect.
+
+(c) A departure from the regular schedule in a time-sharing agreement will be permitted only in cases where an agreement to that effect is put in writing, is signed by the licensees of the stations affected thereby and filed in triplicate by each licensee with the FCC in Washington, DC prior to the time of the time of the proposed change. If time is of the essence, the actual departure in operating schedule may precede the actual filing of written agreement, provided appropriate notice is sent to the FCC.
+
+(d) If the license of an AM station authorized to share time does not specify the hours of operation, the station may be operated for the transmission of regular programs during the experimental period provided an agreement thereto is reached with the other stations with which the broadcast day is shared: *And further provided,* Such operation is not in conflict with § 73.72 (Operating during the experimental period). Time-sharing agreements for operation during the experimental period need not be submitted to the FCC.
+
+(e) Noncommercial educational FM stations are authorized for share time operation according to the provisions of § 73.561.
+
+[43 FR 45849, Oct. 4, 1978, as amended at 47 FR 40174, Sept. 13, 1982]

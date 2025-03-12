@@ -1,0 +1,3 @@
+##### § 1408.1 Authority. #####
+
+The regulations of this part are issued under the Federal Claims Collection Act of 1966, as amended by the Debt Collection Act of 1982, 31 U.S.C. 3701-3719 and 5 U.S.C. 5514, and in conformity with the joint regulations issued under that Act by the General Accounting Office and the Department of Justice (joint regulations) prescribing standards for administrative collection, compromise, suspension, and termination of agency collection actions, and referral to the General Accounting Office and to the Department of Justice for litigation of civil claims for money or property owed to the United States (4 CFR parts 101-105).

@@ -1,0 +1,9 @@
+##### § 2.102 Procedures for making requests. #####
+
+(a) EPA employees may attempt in good faith to comply with oral requests for inspection or disclosure of EPA records that are publicly available under § 2.201(a) and (b), but such requests are not subject to the FOIA or this Part.
+
+(b)(1) Requesters must reasonably describe the records sought in sufficient detail to enable a professional employee of the Agency who is familiar with the subject area of the request to locate the records with a reasonable amount of effort.
+
+(2) If EPA determines that a request does not reasonably describe the requested records as provided in § 2.102(b)(1), EPA will tell the requester either what additional information the requester needs to provide or why the request is otherwise insufficient. EPA will also give the requester an opportunity to discuss and modify the request to meet the requirements of § 2.102(b)(1). If the requester fails to modify the request to meet the requirements of § 2.102(b)(1) within 20 calendar days, EPA will not process the submission and close the request. If the requester does modify the request to meet the requirements of § 2.102(b)(1), EPA will consider the request received as of the date the modification is received by EPA.
+
+(3) Whenever possible, a request should include specific information about each record sought, such as the date, title or name, author, recipient, and subject matter. If known, the requester should include any file designations or descriptions for the records that the requester wants. The more specific the requester is about the records or type of records that the requester wants, the more likely EPA will be able to identify and locate records responsive to the request.

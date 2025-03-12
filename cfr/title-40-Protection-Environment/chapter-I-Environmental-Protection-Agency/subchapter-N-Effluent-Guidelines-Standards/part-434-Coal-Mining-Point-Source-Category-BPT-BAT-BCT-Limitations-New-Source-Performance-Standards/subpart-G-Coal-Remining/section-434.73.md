@@ -1,0 +1,3 @@
+##### § 434.73 Effluent limitations attainable by application of the best available technology economically achievable (BAT). #####
+
+Except as provided in 40 CFR 125.30 through 125.32 and 434.72(b)(2), a pre-existing discharge must comply with the effluent limitations listed in § 434.72(b) for net acidity, iron and manganese. The operator must also submit and implement a Pollution Abatement Plan as required in § 434.72(a) .

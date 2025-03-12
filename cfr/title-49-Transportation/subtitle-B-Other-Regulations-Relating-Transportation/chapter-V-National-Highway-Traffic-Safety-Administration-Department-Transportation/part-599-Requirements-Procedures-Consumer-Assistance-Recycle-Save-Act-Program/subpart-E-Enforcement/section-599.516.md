@@ -1,0 +1,7 @@
+##### § 599.516 Collection of assessed or compromised civil penalties. #####
+
+(a) Payment of a civil penalty, whether assessed or compromised, shall be made by check, postal money order, or electronic transfer of funds, as provided in instructions by the agency. A payment of civil penalties shall not be considered a request for a hearing.
+
+(b) The party must remit payment of any assessed civil penalty to NHTSA within 30 days after receipt of the Hearing Officer's order assessing civil penalties or, in the case of an appeal to the Administrator, within 30 days after receipt of the Administrator's decision on the appeal. Failure to make timely payment may result in the institution of appropriate action under the Federal Claims Collection Act, as amended, the regulations issued thereunder, and other applicable law.
+
+(c) The party must remit payment of any compromised civil penalty to NHTSA on the date and under such terms and conditions as agreed to by the party and NHTSA. Failure to pay a compromised civil penalty to NHTSA on the date and under such terms and conditions as agreed to by the party and NHTSA may either result in the institution of appropriate action under the Federal Claims Collection Act, as amended, the regulations issued thereunder, and other applicable law, or NHTSA entering a finding of violation by default and assessing a civil penalty in the amount proposed in the Notice of Violation without processing the violation under the hearing procedures set forth in this part.

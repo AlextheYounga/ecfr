@@ -1,0 +1,5 @@
+##### § 891.501 Standards for uniform plan. #####
+
+The uniform plan shall be open to all eligible retired employees and members of their families, without regard to race, sex, health status, or age. It shall not deny or limit benefits because of any preexisting condition. It shall offer basic plus major medical coverage. It shall provide a 31-day extension of coverage on termination of subscription other than by change of election or termination of the contract. A person confined in hospital for care or treatment on the 31st day of the extension of coverage shall be entitled to continuation of the benefits of the contract during the continuance of the confinement, but not beyond the 60th day following the end of the extension of coverage. The uniform plan shall be experience-rated.
+
+[33 FR 12516, Sept. 4, 1968, as amended at 43 FR 35018, Aug. 8, 1978]

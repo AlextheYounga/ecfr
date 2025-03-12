@@ -1,0 +1,3 @@
+##### § 603.230 Fee or profit. #####
+
+The contracting officer may not use a TIA if any participant is to receive fee or profit. Note that this policy extends to all performers of the project, including any subawards for substantive program performance, but it does not preclude participants' or subrecipients' payment of reasonable fee or profit when making purchases from suppliers of goods (e.g., supplies and equipment) or services needed to carry out the RD&D.

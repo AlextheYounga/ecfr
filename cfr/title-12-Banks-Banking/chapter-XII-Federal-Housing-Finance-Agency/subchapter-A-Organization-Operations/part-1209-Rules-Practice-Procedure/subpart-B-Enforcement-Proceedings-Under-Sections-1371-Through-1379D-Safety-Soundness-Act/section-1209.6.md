@@ -1,0 +1,23 @@
+##### § 1209.6 Temporary cease and desist orders. #####
+
+(a) *Temporary cease and desist orders*—(1) *Grounds for issuance.* The grounds for issuance of a temporary cease and desist order are set forth in section 1372(a) of the Safety and Soundness Act (12 U.S.C. 4632(a)). In accordance with section 1372(a) of the Safety and Soundness Act (12 U.S.C. 4632(a)), the Director may:
+
+(i) Issue a temporary order requiring that regulated entity or entity-affiliated party to cease and desist from any violation or practice specified in the notice of charges; and
+
+(ii) Require that regulated entity or entity-affiliated party to take affirmative action to prevent or remedy any insolvency, dissipation, condition, or prejudice, pending completion of the proceedings.
+
+(2) *Additional requirements.* As provided by section 1372(a)(2) of the Safety and Soundness Act (12 U.S.C. 4632(a)(2)), an order issued under section 1372(a)(1) of the Safety and Soundness Act (12 U.S.C. 4632(a)(1)) may include any requirement authorized under section 1371(d) of the Safety and Soundness Act (12 U.S.C. 4631(d)).
+
+(b) *Effective date of temporary order.* The effective date of a temporary order is as provided by section 1372(b) of the Safety and Soundness Act (12 U.S.C. 4632(b)). And, unless set aside, limited, or suspended by a court in proceedings pursuant to the judicial review provisions of section 1372(d) of the Safety and Soundness Act (12 U.S.C. 4632(d)), shall remain in effect and enforceable pending the completion of the proceedings pursuant to such notice of charges, and shall remain effective until the Director dismisses the charges specified in the notice or until superseded by a cease-and-desist order issued pursuant to section 1371 of the Safety and Soundness Act (12 U.S.C. 4631).
+
+(c) *Incomplete or inaccurate records*—(1) *Temporary order.* As provided by section 1372(c) of the Safety and Soundness Act (12 U.S.C. 4632(c)), if a notice of charges served under section 1371(a) or (b) of the Safety and Soundness Act (12 U.S.C. 4631(a), (b)), specifies on the basis of particular facts and circumstances that the books and records of the regulated entity served are so incomplete or inaccurate that the Director is unable, through the normal supervisory process, to determine the financial condition of the regulated entity or the details or the purpose of any transaction or transactions that may have a material effect on the financial condition of that regulated entity, the Director may issue a temporary order requiring:
+
+(i) The cessation of any activity or practice that gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
+
+(ii) Affirmative action to restore the books or records to a complete and accurate state.
+
+(2) *Effective period.* Any temporary order issued under section 1372(c)(1) of the Safety and Soundness Act (12 U.S.C. 4632(c)(1)) shall become effective upon service, and remain in effect and enforceable unless set aside, limited, or suspended in accordance with section 1372(d) of the Safety and Soundness Act (12 U.S.C. 4632(d)), as provided by section 1372(c)(2) of the Safety and Soundness Act (12 U.S.C. 4632(c)(2)).
+
+(d) *Judicial review.* Section 1372(d) of the Safety and Soundness Act (12 U.S.C. 4632(d)), authorizes a regulated entity, executive officer, director, or entity-affiliated party that has been served with a temporary order pursuant to section 1372(a) or (b) of the Safety and Soundness Act (12 U.S.C. 4632(a), (b)) to apply to the United States District Court for the District of Columbia within 10 days after service of the temporary order for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of the temporary order, pending the completion of the administrative enforcement proceeding. The district court has jurisdiction to issue such injunction.
+
+(e) *Enforcement of temporary order.* As provided by section 1372(e) of the Safety and Soundness Act (12 U.S.C. 4632(e)), in the case of any violation, threatened violation, or failure to obey a temporary order issued pursuant to this section, the Director may bring an action in the United States District Court for the District of Columbia for an injunction to enforce a temporary order, and the district court is to issue such injunction upon a finding made in accordance with section 1372(e) of the Safety and Soundness Act (12 U.S.C. 4632(e)).

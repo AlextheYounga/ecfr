@@ -1,0 +1,3 @@
+##### § 604.29 Incomplete complaints. #####
+
+If a complaint is not dismissed under § 604.28, but is deficient as to one or more of the requirements set forth in § 604.27, the Office of the Chief Counsel may dismiss the complaint within 20 days after receiving it. Dismissal shall be without prejudice and the complainant may re-file after amendment to correct the deficiency. The Chief Counsel's dismissal shall include the reasons for the dismissal without prejudice.

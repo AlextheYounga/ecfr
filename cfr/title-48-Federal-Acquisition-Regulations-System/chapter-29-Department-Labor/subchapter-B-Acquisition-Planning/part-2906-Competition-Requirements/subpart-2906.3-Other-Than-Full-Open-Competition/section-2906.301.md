@@ -1,0 +1,5 @@
+##### 2906.301 Policy. #####
+
+(a) Department of Labor acquisitions must comply with the Department of Labor Manual Series (DLMS) 2, Chapter 830 (available by mail from the Director, Division of Acquisition Management Services, 200 Constitution Ave., NW., Washington, DC 20210-0001), or electronically from *http://www.dol.gov/oasam/programs/boc/prb.htm.* Any proposed noncompetitive acquisition in excess of the simplified acquisition threshold must be fully justified and, if required by the DLMS, submitted to the DOL Procurement Review Board and approved by the Assistant Secretary for Administration and Management and, in the case of research and development contracts, also by the Assistant Secretary for Policy.
+
+(b) With the exception of contracts for advisory and assistance services or for research and development, the contracting officer has the authority below the simplified acquisition threshold to approve sole source contracts. The contracting officer is responsible for assuring that proposed acquisitions below the simplified acquisition threshold are in compliance with FAR and DOLAR requirements regarding competition.

@@ -1,0 +1,3 @@
+##### § 1274.510 Subcontracts. #####
+
+Recipients (individual firms or consortia) are not authorized to issue grants or cooperative agreements to subrecipients. All entities that are involved in performing the research and development effort that is the purpose of the cooperative agreement shall be part of the recipient's consortium and not subcontractors. All contracts, including small purchases, awarded by recipients and their contractors shall contain the procurement provisions of Exhibit A to this part, as applicable and may be subject to approval requirements cited in § 1274.925.

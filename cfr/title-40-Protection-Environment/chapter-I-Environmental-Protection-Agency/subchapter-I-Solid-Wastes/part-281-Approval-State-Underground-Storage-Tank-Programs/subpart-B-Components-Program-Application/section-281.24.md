@@ -1,0 +1,5 @@
+##### § 281.24 Attorney General's statement. #####
+
+(a) A state must submit a written demonstration from the Attorney General that the laws and regulations of the state provide adequate authority to carry out the program described under § 281.21 and to meet other requirements of this part. This statement may be signed by independent legal counsel for the state rather than the Attorney General, provided that such counsel has full authority to independently represent the state Agency in court on all matters pertaining to the state program. This statement must include citations to the specific statutes, administrative regulations, and where appropriate, judicial decisions that demonstrate adequate authority to regulate and enforce requirements for UST systems. State statutes and regulations cited by the state Attorney General must be fully effective when the program is approved.
+
+(b) If a state currently has authority over underground storage tank activities in Indian country, the statement must contain an appropriate analysis of the state's authority.

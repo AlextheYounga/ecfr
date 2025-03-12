@@ -1,0 +1,5 @@
+##### § 1706.10 Remedies. #####
+
+The refusal to provide the certificate, or upon request of the contracting officer the additional written statement, required by §§ 1706.6 and 1706.7 in connection with an award shall result in disqualification of the offeror for that award. The nondisclosure or misrepresentation of any relevant information may also result in the disqualification of the offeror for that award. If such nondisclosure or misrepresentation by an offeror or contractor is discovered or occurs after award, or in the event of breach of any of the restrictions contained in this part, the Board may terminate the contract for convenience or default, and the offeror or contractor may also be disqualified by the Board from consideration for subsequent Board contracts and be subject to such other remedial actions as provided by law or the contract.
+
+[57 FR 44652, Sept. 29, 1992; 58 FR 13684, Mar. 12, 1993]

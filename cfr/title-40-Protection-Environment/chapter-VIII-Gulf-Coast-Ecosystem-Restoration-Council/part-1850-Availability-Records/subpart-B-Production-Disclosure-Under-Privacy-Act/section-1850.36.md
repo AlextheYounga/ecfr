@@ -1,0 +1,3 @@
+##### § 1850.36 Special procedures: Medical records. #####
+
+In the event the Council receives a request pursuant to § 1850.33 for access to medical records (including psychological records) and the appropriate Council official determines disclosure could be harmful to the individual to whom they relate, he or she may refuse to disclose the records directly to the requester but shall transmit them to a physician designated by that individual.

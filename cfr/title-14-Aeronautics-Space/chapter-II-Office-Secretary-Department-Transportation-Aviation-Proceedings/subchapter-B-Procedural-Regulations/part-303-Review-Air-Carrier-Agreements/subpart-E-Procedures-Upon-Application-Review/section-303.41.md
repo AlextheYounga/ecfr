@@ -1,0 +1,5 @@
+##### § 303.41 Notice. #####
+
+(a) The Documentary Service Division shall compile a weekly list of all applications filed under §§ 303.04 and 303.05. The list shall include a description of the application, the docket number, date of filing, state that it may be reviewed in the Documentary Services Division, and indicate that interested parties may comment on the application or request a hearing within 21 days of the date of filling or other period as specified. The weekly list will normally be prepared on the following Monday, or as soon as possible, and will be posted on a public bulletin board in the Documentary Services Division. The list also shall be submitted for publication in the Federal Register.
+
+(b) In appropriate case, particularly when an application concerns a matter of broad public significance, the Assistant Secretary may cause a notice of an application and request for public comment to be published separately in the Federal Register.

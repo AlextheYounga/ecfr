@@ -1,0 +1,33 @@
+##### 1615.402 Pricing policy. #####
+
+Pricing of FEHB contracts is governed by 5 U.S.C. 8902(i), 5 U.S.C. 8906, and other applicable law. FAR subpart 15.4 will be implemented by applying its policies and procedures—to the extent practicable—as follows:
+
+(a) For both experience-rated and community-rated contracts for which the FEHB Program premiums for the contract term will be less than the threshold at FAR 15.403-4(a)(1), OPM will not require the carrier to provide cost or pricing data in the rate proposal for the following contract term.
+
+(b) Cost analysis will be used for contracts where premiums and subscription income are determined on the basis of experience rating.
+
+(c)(1) A combination of cost and price analysis will be used for contracts where premiums and subscription income are based on community-rates. For contracts for which the FEHB Program premiums for the contract term will be less than the threshold at FAR 15.403-4(a)(1), OPM will not require the carrier to provide cost or pricing data. The carrier is required to submit only a rate proposal and abbreviated utilization data for the applicable contract year. OPM will evaluate the proposed rates by performing a basic reasonableness test on the information submitted. Rates failing this test will be subject to further review.
+
+(2) For contracts with fewer than 1,500 enrollee contracts for which the FEHB Program premiums for the contract term will be at or above the threshold at FAR 15.403-4(a)(1), OPM will require the carrier to submit its rate proposal, utilization data, and a certificate of accurate cost or pricing data required in 1615.406-2. In addition, OPM will require the carrier to complete the proposed rates form containing cost and pricing data, and the Community-Rate Questionnaire, but will not require the carrier to send these documents to OPM. The carrier will keep the documents on file for periodic auditor and actuarial review in accordance with 1652.204-70. OPM will perform a basic reasonableness test on the data submitted. Rates that do not pass this test will be subject to further OPM review.
+
+(3) For plan year 2012, plans will have the option of continuing to use the similarly sized subscriber group (SSSG) rating methodology described in paragraph (c)(3)(i) of this section or using the MLR rating methodology described in paragraph (c)(3)(ii) of this section. All non-traditional community rated (TCR) plans will be required to submit FEHB-specific MLR information for every year beginning with plan year 2011.
+
+(i) *Similarly sized subscriber group (SSSG) methodology.* (A) For contracts with 1,500 or more enrollee contracts for which the FEHB Program premiums for the contract term will be at or above the threshold at FAR 15.403-4(a)(1), OPM will require the carrier to provide the data and methodology used to determine the FEHB Program rates. OPM will also require the data and methodology used to determine the rates for the carrier's SSSG. The carrier will provide cost or pricing data required by OPM in its rate instructions for the applicable contract period. OPM will evaluate the data to ensure that the rate is reasonable and consistent with the requirements in this chapter. If necessary, OPM may require the carrier to provide additional documentation.
+
+(B) Contracts will be subject to a downward price adjustment if OPM determines that the Federal group was charged more than it would have been charged using a methodology consistent with that used for the SSSG. Such adjustments will be based on the rate determined by using the methodology (including discounts) the carrier used for the SSSG.
+
+(C) FEHB Program community-rated carriers will comply with SSSG criteria provided by OPM in the rate instructions for the applicable contract period.
+
+(ii) *FEHB-specific medical loss ratio (MLR) threshold methodology.* (A) For contracts with 1,500 or more enrollee contracts for which the FEHB Program premiums for the contract term will be at or above the threshold at FAR 15.403-4(a)(1), OPM will require the carrier to provide the data and methodology used to determine the FEHB Program rates. OPM will also require the data and methodology used to determine the medical loss ratio (MLR) as defined in the ACA (Pub. L. 111-148) and as defined by HHS in 45 CFR part 158 for all FEHB community rated plans other than those required by state law to use Traditional Community Rating. The carrier will provide cost or pricing data, as well as the FEHB-specific MLR threshold data required by OPM in its rate instructions for the applicable contract period. OPM will evaluate the data to ensure that the rate is reasonable and consistent with the requirements in this chapter. If necessary, OPM may require the carrier to provide additional documentation.
+
+(B) Contracts will be subject to a subsidization penalty if OPM determines that the FEHB group did not meet the FEHB-specific MLR threshold specified in the annual rate instruction to carriers. Such a subsidization penalty will be deposited into a Subsidization Penalty Account held at the U.S. Treasury. This Subsidization Penalty Account will be held in common with all community rated carriers and will be annually distributed to the contingency reserve accounts of all non-TCR community rated plans on a pro-rata basis.
+
+(C) FEHB Program community-rated carriers will comply with the MLR criteria, including the FEHB-specific MLR threshold provided by OPM in the rate instructions for the applicable contract period. FEHB plans that are required by state law to use TCR are exempt from this requirement and will use the SSSG methodology outlined in paragraph (c)(3)(i) of this section.
+
+(4) Contracts will be subject to a downward price adjustment if OPM determines that the Federal group was charged more than it would have been charged using a methodology consistent with that used for the similarly-sized subscriber group (SSSG). Such adjustments will be based on the rate determined by using the methodology (including discounts) the carrier used for the SSSG.
+
+(5) FEHB Program community-rated carriers will comply with SSSG criteria provided by OPM in the rate instructions for the applicable contract period.
+
+(d) The application of FAR 15.402(b)(2) should not be construed to prohibit the consideration of preceding year surpluses or deficits in carrier-held reserves in the rate adjustments for subsequent year renewals of contracts based, in whole or in part, on cost analysis.
+
+[70 FR 31380, June 1, 2005, as amended at 76 FR 38285, June 29, 2011; 77 FR 19524, Apr. 2, 2012; 80 FR 32860, June 10, 2015]

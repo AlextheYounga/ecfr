@@ -1,0 +1,3 @@
+##### § 605.30 Filing a complaint. #####
+
+Any interested party may file a complaint with the Administrator alleging a violation or violations of terms of an agreement entered into pursuant to § 605.14. A complaint must be in writing, must specify in detail the action claimed to violate the agreement, and must be accompanied by evidence sufficient to enable the Administrator to make a preliminary determination as to whether probable cause exists to believe that a violation of the agreement has taken place.

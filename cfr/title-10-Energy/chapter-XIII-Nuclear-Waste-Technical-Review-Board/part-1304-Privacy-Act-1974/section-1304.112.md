@@ -1,0 +1,5 @@
+##### § 1304.112 Notification of systems of Privacy Act records. #####
+
+(a) *Public notice.* On November 22, 1996, the Board published a notice of its systems of records in the Federal Register (Vol. 61, Number 227, pages 59472-69473). It is updating and republishing the notice in this issue of the Federal Register. The Board periodically reviews its systems of records and will publish information about any significant additions or changes to those systems. Information about systems of records maintained by other agencies that are in the temporary custody of the Board will not be published. In addition, the Office of the Federal Register biennially compiles and publishes all systems of records maintained by all federal agencies, including the Board.
+
+(b) At least 30 days before publishing additions or changes to the Board's systems of records, the Board will publish a notice of intent to amend, providing the public with an opportunity to comment on the proposed amendments to its systems of records.

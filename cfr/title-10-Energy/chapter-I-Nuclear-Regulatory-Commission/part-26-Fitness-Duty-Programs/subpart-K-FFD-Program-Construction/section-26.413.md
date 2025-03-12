@@ -1,0 +1,3 @@
+##### § 26.413 Review process. #####
+
+Licensees and other entities who implement an FFD program under this subpart shall establish and implement procedures for the review of a determination that an individual in § 26.4(f) has violated the FFD policy. The procedure must provide for an objective and impartial review of the facts related to the determination that the individual has violated the FFD policy.

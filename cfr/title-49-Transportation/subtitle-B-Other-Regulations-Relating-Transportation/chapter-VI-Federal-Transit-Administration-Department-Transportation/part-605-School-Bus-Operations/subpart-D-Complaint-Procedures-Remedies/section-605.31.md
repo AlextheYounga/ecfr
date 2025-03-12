@@ -1,0 +1,3 @@
+##### § 605.31 Notification to the respondent. #####
+
+On receipt of any complaint under § 605.30, or on his own motion if at any time he shall have reason to believe that a violation may have occurred, the Administrator will provide written notification to the grantee concerned (hereinafter called “the respondent”) that a violation has probably occurred. The Administrator will inform the respondent of the conduct which constitutes a probable violation of the agreement.

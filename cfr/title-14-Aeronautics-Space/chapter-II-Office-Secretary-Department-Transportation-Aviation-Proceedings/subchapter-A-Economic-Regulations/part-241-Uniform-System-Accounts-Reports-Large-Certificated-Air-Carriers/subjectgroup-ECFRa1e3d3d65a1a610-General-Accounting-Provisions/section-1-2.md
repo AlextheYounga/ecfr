@@ -1,0 +1,5 @@
+##### Sec. 1-2 Waivers from this system of accounts and reports. #####
+
+A waiver from any provision of this system of accounts or reports may be made by the BTS upon its own initiative or upon the submission of written request therefor from any air carrier, or group of air carriers, provided that such a waiver is in the public interest and each request for waiver expressly demonstrates that: existing peculiarities or unusual circumstances warrant a departure from a prescribed procedure or technique; a specifically defined alternative procedure or technique will result in a substantially equivalent or more accurate portrayal of operating results or financial condition, consistent with the principles embodied in the provisions of this system of accounts and reports; and the application of such alternative procedure will maintain or improve uniformity in substantive results as between air carriers.
+
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995]

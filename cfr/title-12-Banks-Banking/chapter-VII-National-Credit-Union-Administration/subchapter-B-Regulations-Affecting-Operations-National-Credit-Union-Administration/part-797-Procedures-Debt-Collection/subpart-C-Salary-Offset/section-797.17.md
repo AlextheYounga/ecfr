@@ -1,0 +1,9 @@
+##### § 797.17 Authority and scope. #####
+
+(a) NCUA may collect debts owed by employees to the federal government by means of salary offset under the authority of 5 U.S.C. 5514, 5 CFR part 550, subpart K, and this subpart. The procedures set forth in this subpart apply to situations where NCUA is attempting to collect a debt by salary offset that is owed to it by an individual employed by NCUA or by another agency; or where NCUA employs an individual who owes a debt to another agency. Since salary offset is a type of administrative offset, this subpart supplements subpart B.
+
+(b) The procedures set forth in this subpart do not apply to:
+
+(1) Any routine intra-agency adjustment of pay that is attributable to clerical or administrative error or delay in processing pay documents that have occurred within the four pay periods preceding the adjustment, or any adjustment to collect a debt amounting to $50 or less. However, at the time of any such adjustment, or as soon thereafter as possible, NCUA or its designated payroll agent shall provide the employee with a written notice of the nature and the amount of the adjustment and a point of contact for contesting such adjustment.
+
+(2) Any negative adjustment to pay that arises from an employee's election of coverage or a change in coverage under a federal benefits program that requires periodic deductions from pay, if the amount to be recovered was accumulated over four pay periods or less. However, at the time that such adjustment is made, NCUA shall provide the employee a statement that informs the employee of the previous overpayment.

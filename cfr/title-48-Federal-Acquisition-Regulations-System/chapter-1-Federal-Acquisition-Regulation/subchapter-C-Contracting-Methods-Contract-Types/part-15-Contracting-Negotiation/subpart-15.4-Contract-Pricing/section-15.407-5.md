@@ -1,0 +1,5 @@
+##### 15.407-5 Estimating systems. #####
+
+(a) Using an acceptable estimating system for proposal preparation benefits both the Government and the contractor by increasing the accuracy and reliability of individual proposals. Cognizant audit activities, when it is appropriate to do so, shall establish and manage regular programs for reviewing selected contractors' estimating systems or methods, in order to reduce the scope of reviews to be performed on individual proposals, expedite the negotiation process, and increase the reliability of proposals. The results of estimating system reviews shall be documented in survey reports.
+
+(b) The auditor shall send a copy of the estimating system survey report and a copy of the official notice of corrective action required to each contracting office and contract administration office having substantial business with that contractor. Significant deficiencies not corrected by the contractor shall be a consideration in subsequent proposal analyses and negotiations.

@@ -1,0 +1,3 @@
+##### § 56.19083 Overtravel backout device. #####
+
+A manually operated device shall be installed on each electric hoist that will allow the conveyance or counterbalance to be removed from an over-travel position. Such device shall not release the brake, or brakes, holding the overtravelled conveyance or counterbalance until sufficient drive motor torque has been developed to assure movement of the conveyance or counterbalance in the correct direction only.

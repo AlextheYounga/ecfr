@@ -1,0 +1,9 @@
+##### § 413.03 Monitoring requirements. #####
+
+(a) In lieu of monitoring for TTO, the control authority may allow industrial users of POTWs to make the following certification as a comment to the periodic reports required by § 403.12(e): “Based on my inquiry of the person or persons directly responsible for managing compliance with the pretreatment standard for total toxic organics (TTO), I certify that, to the best of my knowledge and belief, no dumping of concentrated toxic organics into the wastewaters has occurred since filing the last discharge monitoring report. I further certify that this facility is implementing the toxic organic management plan submitted to the control authority.”
+
+(b) In requesting that no monitoring be required industrial users of POTWs shall submit a toxic organic management plan that specifies to the control authority's satisfaction the toxic organic compounds used; the method of disposal used instead of dumping, such as reclamation, contract hauling, or incineration; and procedures for assuring that toxic organics do not routinely spill or leak into the wastewater.
+
+(c) If monitoring is necessary to measure compliance with the TTO standard the industrial user need analyze only for those pollutants which would reasonably be expected to be present.
+
+(Approved by the Office of Management and Budget under control number 2040-0074)(Secs. 301, 304, 306, 307, 308, and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 *et. seq.,* as amended by the Clean Water Act of 1977, Pub. L. 95-217))[48 FR 32483, July 15, 1983; 48 FR 43681, Sept. 26, 1983, as amended at 49 FR 34823, Sept. 4, 1984]

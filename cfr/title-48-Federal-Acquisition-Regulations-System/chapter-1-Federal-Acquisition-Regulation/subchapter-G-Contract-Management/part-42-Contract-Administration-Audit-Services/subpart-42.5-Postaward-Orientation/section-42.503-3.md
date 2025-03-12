@@ -1,0 +1,3 @@
+##### 42.503-3 Postaward conference report. #####
+
+The chairperson shall prepare and sign a report of the postaward conference. The report shall cover all items discussed, including areas requiring resolution, controversial matters, the names of the participants assigned responsibility for further actions, and the due dates for the actions. The chairperson shall furnish copies of the report to the contracting office, the contract administration office, the contractor, and others who require the information.

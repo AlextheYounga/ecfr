@@ -1,0 +1,5 @@
+##### § 302.708 Invocation of procedure. #####
+
+(a) Conferences between DOT employees, representatives of air carriers, the U.S. Postal Service and other interested persons may be called by DOT employees for the purpose of considering and clarifying issues and factual material in pending proceedings for the establishment of rates for the transportation of mail.
+
+(b) At the commencement of an informal mail rate conference pursuant to this section, the authorized DOT employees conducting such conference shall issue to each person present at such conference a written statement to the effect that such conference is being conducted pursuant to this section and stating the time of commencement of such conference; and at the termination of such conference the DOT employees conducting such conference shall note in writing on such statement the time of termination of such conference.

@@ -1,0 +1,5 @@
+##### § 6.404 Lead or cooperating agency. #####
+
+(a) *Lead Agency.* Section 3-3 of Executive Order 12114 requires the creation of a lead agency whenever an action involves more than one Federal agency. In implementing section 3-3, EPA shall, to the fullest extent possible, follow the guidance for the selection of a lead agency contained in 40 CFR 1501.5 of the CEQ regulations.
+
+(b) *Cooperating Agency.* Under Section 2-4(d) of the Executive Order, Federal agencies with special expertise are encouraged to provide appropriate resources to the agency preparing environmental documents in order to avoid duplication of resources. In working with a lead agency, EPA shall to the fullest extent possible serve as a cooperating agency in accordance with 40 CFR 1501.6. When other program commitments preclude the degree of involvement requested by the lead agency, the responsible EPA official shall so inform the lead agency in writing.

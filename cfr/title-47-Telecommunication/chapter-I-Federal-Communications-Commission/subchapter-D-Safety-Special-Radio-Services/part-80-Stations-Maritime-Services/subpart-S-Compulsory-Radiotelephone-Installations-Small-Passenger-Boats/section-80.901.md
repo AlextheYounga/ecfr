@@ -1,0 +1,3 @@
+##### § 80.901 Applicability. #####
+
+The provisions of Part III of Title III of the Communication Act require United States vessels which transport more than six passengers for hire while such vessels are being navigated on any tidewater within the jurisdiction of the United States adjacent or contiguous to the open sea, or in the open sea to carry a radiotelephone installation complying with this subpart. The provisions of Part III do not apply to vessels which are equipped with a radio installation for compliance with Part II of Title III of the Act, or for compliance with the Safety Convention, or to vessels navigating on the Great Lakes.

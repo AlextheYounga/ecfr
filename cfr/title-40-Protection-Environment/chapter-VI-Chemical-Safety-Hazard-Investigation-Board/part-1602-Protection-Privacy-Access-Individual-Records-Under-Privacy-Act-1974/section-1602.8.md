@@ -1,0 +1,3 @@
+##### § 1602.8 Preservation of records. #####
+
+The CSB will preserve all correspondence pertaining to the requests that it receives under this part, as well as copies of all requested records, until disposition or destruction is authorized by Title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 14. Records will not be disposed of while they are the subject of a pending request, appeal, or lawsuit under the Privacy Act.

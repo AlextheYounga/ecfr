@@ -1,0 +1,11 @@
+##### 801.602-82 Documents to submit for legal or technical review - general. #####
+
+Table 801.602-82 specifies the documents that must be submitted when a legal or technical review is required.
+
+Table 801.602-82
+
+|                                Action or document subject to review                                 |                                                                                                                       Documents to submit                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                 (a) Proposed construction contract                                  |                                           One copy of each solicitation document, excluding drawings. Submit not later than the date on which the contracting officer furnishes the documents to prospective bidders.                                           |
+|(b) Proposed solicitation or contract for scarce medical specialist services or health-care resources|                                                                        One copy of the solicitation or proposed contract and documents required under VA Manual M-1, Part 1, Chapter 34.                                                                        |
+|                   (c) All other proposed solicitations, contracts, and agreements                   |One copy of each document to be used in the contract solicitation or award, and any other document that supports the proposed procurement action. Submit not later than the date on which the contracting officer furnishes the documents to prospective bidders.|

@@ -1,0 +1,3 @@
+##### § 792.68 Use and collection of Social Security numbers. #####
+
+The head of each NCUA Office shall take such measures as are necessary to ensure that employees authorized to collect information from individuals are advised that individuals may not be required without statutory or regulatory authorization to furnish Social Security numbers, and that individuals who are requested to provide Social Security numbers voluntarily must be advised that furnishing the number is not required and that no penalty or denial of benefits will flow from the refusal to provide it.

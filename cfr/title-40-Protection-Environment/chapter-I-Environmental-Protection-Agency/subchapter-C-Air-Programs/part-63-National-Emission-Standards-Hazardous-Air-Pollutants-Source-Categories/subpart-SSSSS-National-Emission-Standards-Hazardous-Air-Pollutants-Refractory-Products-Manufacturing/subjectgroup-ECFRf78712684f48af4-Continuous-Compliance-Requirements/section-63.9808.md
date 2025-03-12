@@ -1,0 +1,9 @@
+##### § 63.9808 How do I monitor and collect data to demonstrate continuous compliance? #####
+
+(a) You must monitor and collect data according to this section.
+
+(b) At all times, you must maintain your monitoring systems in accordance with § 63.9792(b), including, but not limited to, keeping the necessary parts readily available for routine repairs of the monitoring equipment.
+
+(c) Except for, as applicable, monitoring system malfunctions, associated repairs, and required quality assurance or quality control activities, you must monitor continuously whenever your affected process unit is operating. For purposes of calculating data averages, you must not use data recorded during monitoring system malfunctions, associated repairs, and required quality assurance or quality control activities. You must use all the data collected during all other periods in assessing compliance. A monitoring system malfunction is any sudden, infrequent, not reasonably preventable failure of the monitoring system to provide valid data. Monitoring system malfunctions include out of control continuous monitoring systems (CMS), such as a CPMS. Any averaging period for which you do not have valid monitoring data as a result of a monitoring system malfunction and for which such data are required constitutes a deviation, and you must notify the Administrator in accordance with § 63.9814(e). Monitoring system failures are different from monitoring system malfunctions in that they are caused in part by poor maintenance or careless operation. Any period for which there is a monitoring system failure and data are not available for required calculations constitutes a deviation and you must notify the Administrator in accordance with § 63.9814(e).
+
+[68 FR 18747, Apr. 16, 2003, as amended at 86 FR 66065, Nov. 19, 2021]

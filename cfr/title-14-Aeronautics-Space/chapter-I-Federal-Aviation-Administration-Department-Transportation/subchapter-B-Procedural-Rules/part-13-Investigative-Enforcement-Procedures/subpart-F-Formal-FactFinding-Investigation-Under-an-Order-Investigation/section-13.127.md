@@ -1,0 +1,3 @@
+##### § 13.127 Reports, decisions and orders. #####
+
+The Presiding Officer shall issue a written report based on the record developed during the formal investigation, including a summary of principal conclusions. A summary of principal conclusions shall be prepared by the official who issued the order of investigation in every case which results in no action, or no action as to a particular party to the investigation. All such reports shall be furnished to the parties to the investigation and filed in the public docket. Insertion of the report in the Public Docket shall constitute “entering of record” and publication as prescribed by section 313(b) of the Federal Aviation Act.

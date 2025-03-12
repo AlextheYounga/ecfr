@@ -1,0 +1,13 @@
+##### § 121.99 Communications facilities - domestic and flag operations. #####
+
+(a) Each certificate holder conducting domestic or flag operations must show that a two-way communication system, or other means of communication approved by the FAA certificate holding district office, is available over the entire route. The communications may be direct links or via an approved communication link that will provide reliable and rapid communications under normal operating conditions between each airplane and the appropriate dispatch office, and between each airplane and the appropriate air traffic control unit.
+
+(b) Except in an emergency, for all flag and domestic kinds of operations, the communications systems between each airplane and the dispatch office must be independent of any system operated by the United States.
+
+(c) Each certificate holder conducting flag operations must provide voice communications for ETOPS where voice communication facilities are available. In determining whether facilities are available, the certificate holder must consider potential routes and altitudes needed for diversion to ETOPS Alternate Airports. Where facilities are not available or are of such poor quality that voice communication is not possible, another communication system must be substituted.
+
+(d) Except as provided in paragraph (e) of this section, after February 15, 2008 for ETOPS beyond 180 minutes, each certificate holder conducting flag operations must have a second communication system in addition to that required by paragraph (c) of this section. That system must be able to provide immediate satellite-based voice communications of landline-telephone fidelity. The system must be able to communicate between the flight crew and air traffic services, and the flight crew and the certificate holder. In determining whether such communications are available, the certificate holder must consider potential routes and altitudes needed for diversion to ETOPS Alternate Airports. Where immediate, satellite-based voice communications are not available, or are of such poor quality that voice communication is not possible, another communication system must be substituted.
+
+(e) Operators of two-engine turbine-powered airplanes with 207 minute ETOPS approval in the North Pacific Area of Operation must comply with the requirements of paragraph (d) of this section as of February 15, 2007.
+
+[Doc. No. 28154, 62 FR 13256, Mar. 19, 1997, as amended by Amdt. 121-329, 72 FR 1878, Jan. 16, 2007; Amdt. 121-333, 72 FR 31680, June 7, 2007]

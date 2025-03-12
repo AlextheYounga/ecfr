@@ -1,0 +1,3 @@
+##### § 23.20 General rule. #####
+
+Pursuant to 12 U.S.C. 24(Seventh) a national bank may invest in tangible or intangible personal property, including vehicles, manufactured homes, machinery, equipment, furniture, patents, copyrights, and other intellectual property, for the purpose of, or in connection with leasing that property, if the related lease is a conforming lease representing a noncancelable obligation of the lessee (notwithstanding the possible early termination of that lease).

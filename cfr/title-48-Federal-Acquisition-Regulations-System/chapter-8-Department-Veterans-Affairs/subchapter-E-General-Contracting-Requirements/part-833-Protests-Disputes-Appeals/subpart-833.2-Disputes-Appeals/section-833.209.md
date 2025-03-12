@@ -1,0 +1,3 @@
+##### 833.209 Suspected fraudulent claims. #####
+
+The contracting officer must refer matters relating to suspected fraudulent claims to the Office of Inspector General for investigation and referral to the Department of Justice. The contracting officer may not initiate any collection, recovery, or other settlement action while the matter is in the hands of the Department of Justice without first obtaining the concurrence of the U.S. Attorney concerned, through the Office of the Inspector General.

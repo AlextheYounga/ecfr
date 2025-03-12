@@ -1,0 +1,5 @@
+##### § 35.138 Competitive grants. #####
+
+(a) Some environmental program grants are awarded through a competitive process. An applicant and the Regional Administrator may agree to add funds available for a competitive grant to a Performance Partnership Grant. If this is done, the work plan commitments that would have been included in the competitive grant must be included in the Performance Partnership Grant work plan. After the funds have been added to the Performance Partnership Grant, the recipient does not need to account for these funds in accordance with the funds' original environmental program source.
+
+(b) If the projected completion date for competitive grant work plan commitments added to a Performance Partnership Grant is after the end of the Performance Partnership Grant funding period, the Regional Administrator and the applicant will agree in writing as to how the work plan commitments will be carried over into future work plans.

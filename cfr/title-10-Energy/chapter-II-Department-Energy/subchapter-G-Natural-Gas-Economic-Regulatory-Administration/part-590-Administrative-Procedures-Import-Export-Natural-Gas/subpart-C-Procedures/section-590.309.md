@@ -1,0 +1,3 @@
+##### § 590.309 Settlements. #####
+
+The parties may conduct settlement negotiations. If settlement negotiations are conducted during a conference, at the request of one of the parties, the Assistant Secretary or presiding official may order that the discussions be off-the-record with no transcript of such settlement negotiations being prepared for inclusion in the official record of the proceeding. No offer of settlement, comment or discussion by the parties with respect to an offer of settlement shall be subject to discovery or admissible into evidence against any parties who object to its admission.

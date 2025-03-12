@@ -1,0 +1,7 @@
+##### § 224.1 Purpose and scope. #####
+
+(a) The purpose of this part is to reduce highway-rail grade crossing accidents and deaths, injuries, and property damage resulting from those accidents, by enhancing the conspicuity of rail freight rolling stock so as to increase its detectability by motor vehicle operators at night and under conditions of poor visibility.
+
+(b) In order to achieve cost-effective mitigation of collision risk at highway-rail grade crossings, this part establishes the duties of freight rolling stock owners (including those who manage maintenance of freight rolling stock, supply freight rolling stock for transportation, or offer freight rolling stock in transportation) and railroads to progressively apply retroreflective material to freight rolling stock, and to periodically inspect and maintain that material. Freight rolling stock owners, however, are under no duty to install, clean or otherwise maintain, or repair reflective material except as specified in this part.
+
+(c) This part establishes a schedule for the application of retroreflective material to rail freight rolling stock and prescribes standards for the application, inspection, and maintenance of retroreflective material to rail freight rolling stock for the purpose of enhancing its detectability at highway-rail grade crossings. This part does not restrict a freight rolling stock owner or railroad from applying retroreflective material to freight rolling stock for other purposes if not inconsistent with the recognizable pattern required by this part.

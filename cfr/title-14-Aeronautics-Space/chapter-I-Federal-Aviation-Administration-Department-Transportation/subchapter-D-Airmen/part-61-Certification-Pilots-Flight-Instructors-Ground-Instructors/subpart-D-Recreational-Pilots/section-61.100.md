@@ -1,0 +1,7 @@
+##### § 61.100 Pilots based on small islands. #####
+
+(a) An applicant located on an island from which the flight training required in § 61.99(a)(1) of this part cannot be accomplished without flying over water for more than 10 nautical miles from the nearest shoreline need not comply with the requirements of that section. However, if other airports that permit civil operations are available to which a flight may be made without flying over water for more than 10 nautical miles from the nearest shoreline, the applicant must show completion of a dual flight between two airports, which must include three landings at the other airport.
+
+(b) An applicant who complies with paragraph (a) of this section and meets all requirements for the issuance of a recreational pilot certificate, except the requirements of § 61.99(a)(1) of this part, will be issued a pilot certificate with an endorsement containing the following limitation, “Passenger carrying prohibited on flights more than 10 nautical miles from (the appropriate island).” The limitation may be subsequently amended to include another island if the applicant complies with the requirements of paragraph (a) of this section for another island.
+
+(c) Upon meeting the requirements of § 61.99(a)(1) of this part, the applicant may have the limitation(s) in paragraph (b) of this section removed.

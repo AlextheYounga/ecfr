@@ -1,0 +1,3 @@
+##### § 605.12 Use of project equipment. #####
+
+No grantee or operator of project equipment shall engage in school bus operations using buses, facilities or equipment funded under the Acts. A grantee or operator may, however, use such buses, facilities and equipment for the transportation of school students, personnel and equipment in incidental charter bus operations. Such use of project equipment is subject to part 604 of Federal Mass Transit Regulations.

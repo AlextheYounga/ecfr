@@ -1,0 +1,7 @@
+##### § 230.29 Inspection and repair. #####
+
+(a) *Responsibility.* The steam locomotive owner and/or operator shall inspect and repair all steam locomotive boilers and appurtenances under their control. They shall immediately remove from service any boiler that has developed cracks in the barrel. The steam locomotive owner and/or operator shall also remove the boiler from service whenever either of them, or the FRA inspector, considers it necessary due to other defects.
+
+(b) *Repair standards.* (1) All defects disclosed by inspection shall be repaired in accordance with accepted industry standards—which may include established railroad practices, or NBIC or API established standards—before the steam locomotive is returned to service. The steam locomotive owner and/or operator shall not return the steam locomotive boiler or appurtenances to service unless they are in good condition and safe and suitable for service.
+
+(2) Any welding to unstayed portions of the boiler made pursuant to § 230.33 shall be made in accordance with an accepted national standard for boiler repairs. The steam locomotive owner and/or operator shall not return the steam locomotive boiler or appurtenances to service unless they are in good condition and safe and suitable for service.

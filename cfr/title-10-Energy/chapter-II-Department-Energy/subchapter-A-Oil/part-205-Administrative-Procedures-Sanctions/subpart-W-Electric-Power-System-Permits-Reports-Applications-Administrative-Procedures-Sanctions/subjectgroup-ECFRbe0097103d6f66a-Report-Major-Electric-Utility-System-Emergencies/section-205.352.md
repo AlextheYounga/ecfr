@@ -1,0 +1,5 @@
+##### § 205.352 Information to be reported. #####
+
+The emergency situation data shall be supplied to the DOE Emergency Operations Center in accordance with the current DOE pamphlet on reporting procedures. The initial report shall include the utility name; the area affected; the time of occurrence of the initiating event; the duration or an estimate of the likely duration; an estimate of the number of customers and amount of load involved; and whether any known critical services such as hospitals, military installations, pumping stations or air traffic control systems, were or are interrupted. To the extent known or reasonably suspected, the report shall include a description of the events initiating the disturbance. The DOE may require further clarification during or after restoration of service.
+
+(Approved by the Office of Management and Budget under control number 1901-0288)

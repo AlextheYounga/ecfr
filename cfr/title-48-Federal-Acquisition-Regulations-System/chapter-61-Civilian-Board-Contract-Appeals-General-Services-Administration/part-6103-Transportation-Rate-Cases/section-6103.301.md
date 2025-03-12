@@ -1,0 +1,5 @@
+##### 6103.301 Scope [Rule 301]. #####
+
+(a) *Authority.* 31 U.S.C. 3726(i)(1) provides that a carrier or freight forwarder may request the Administrator of General Services to review an action taken by the Audit Division of the General Services Administration's Office of Transportation and Property Management (the Audit Division). The Administrator has redelegated those functions to the Civilian Board of Contract Appeals.
+
+(b) *Type of claim; review of claim.* These procedures are applicable to the review of claims made by a carrier or freight forwarder pursuant to 31 U.S.C. 3726(i)(1). The Board will issue the final agency decision on a claim based on the information submitted by the claimant, the Audit Division, and the department or agency (the agency) for which the services were provided. The burden is on the claimant to establish the timeliness of its claim, the liability of the agency, and the claimant's right to payment.

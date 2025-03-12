@@ -1,0 +1,3 @@
+##### § 224.101 General requirements. #####
+
+All rail freight rolling stock subject to this part shall be equipped with retroreflective sheeting that conforms to the requirements of this part. Notwithstanding any other provision of this chapter, the application, inspection, and maintenance of that sheeting shall be conducted in accordance with this subpart or in accordance with an alternative standard providing at least an equivalent level of safety after special approval of FRA under § 224.15.

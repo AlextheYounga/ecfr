@@ -1,0 +1,9 @@
+##### § 242.401 Denial of certification. #####
+
+(a) A railroad shall notify a candidate for certification or recertification of information known to the railroad that forms the basis for denying the person certification and provide the person a reasonable opportunity to explain or rebut that adverse information in writing prior to denying certification. A railroad shall provide the conductor candidate with any written documents or records, including written statements, related to failure to meet a requirement of this part which support its pending denial decision.
+
+(b) This section does not require further opportunity to comment if the railroad's denial is based solely on factors addressed by §§ 242.111, 242.115, or 242.403 and the opportunity to comment afforded by § 242.109 has been provided.
+
+(c) If a railroad denies a person certification or recertification, it shall notify the person of the adverse decision and explain, in writing, the basis for its denial decision. The basis for a railroad's denial decision shall address any explanation or rebuttal information that the conductor candidate may have provided in writing pursuant to paragraph (a) of this section. The document explaining the basis for the denial shall be served on the person within 10 days after the railroad's decision and shall give the date of the decision.
+
+(d) A railroad shall not deny the person's certification for failing to comply with a railroad operating rule or practice which constitutes a violation under § 242.403(e)(1) through (11) of this part if sufficient evidence exists to establish that an intervening cause prevented or materially impaired the conductor's ability to comply with that railroad operating rule or practice.

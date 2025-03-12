@@ -1,0 +1,11 @@
+##### § 622.82 Decision of the Board. #####
+
+(a) *Recommended decision.* Within 30 days of the hearing, the designated FCA representative shall make a recommendation with findings and conclusions to the Board concerning the notice or order of suspension, removal, or prohibition.
+
+(b) *Final decision.* Within 60 days of the hearing, the Board shall notify the subject individual and the FCA's Office of General Counsel whether the suspension or removal from office, or prohibition from participation in any manner in the affairs of the institution, will be continued, terminated, or otherwise modified. The Board's final decision, if adverse to the individual, shall contain a statement of the basis thereof. The Board may satisfy this requirement where it adopts the recommended decision of the designated FCA representative.
+
+(c) *Guilt not an issue.* In deciding upon any suspension of prohibition by notice, the ultimate question of the guilt or innocence of the individual with respect to the criminal charge that is outstanding will not be considered. A finding of not guilty or other disposition of the charge shall not preclude the Board from thereafter instituting removal proceedings pursuant to section 5.28 of the Act.
+
+(d) *Effective period.* A removal or prohibition by order remains in effect until terminated by the Board. A suspension or prohibition by notice remains in effect until the criminal charge is finally disposed of or until terminated by the Board.
+
+(e) *Reconsideration.* A suspended or removed individual may petition the Board to reconsider the decision any time after the expiration of a 12-month period from the date of the decision, but no petition for reconsideration may be made within 12 months of a previous petition. A petition shall state with particularity the relief sought and the grounds therefor and may be accompanied by a supporting memorandum and any other documentation the petitioner wishes to have considered. No hearing need be granted on the petition for reconsideration.

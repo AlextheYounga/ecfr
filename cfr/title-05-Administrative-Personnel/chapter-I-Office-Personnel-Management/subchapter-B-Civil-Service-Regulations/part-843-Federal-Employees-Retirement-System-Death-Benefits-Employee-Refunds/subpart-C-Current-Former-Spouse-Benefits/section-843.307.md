@@ -1,0 +1,9 @@
+##### § 843.307 Basic benefits on death of a disability retiree. #####
+
+(a) Except as provided in § 843.312, the widow or widower of a retiree who retired based on disability under part 844 of this chapter is entitled to a current spouse annuity based on the service of the disability annuitant computed under paragraph (b) of this section.
+
+(b)(1) In the case of a current spouse entitled to an annuity based on the service of a disability annuitant who died after attaining age 62, the amount of the current spouse annuity is one-half of the amount of the annuity to which such disability annuitant was entitled as computed under part 844 of this chapter (including any appropriate reduction under § 844.302(b)(2) or (c)(2) of this chapter, and any adjustments under section 8462 of title 5, United States Code) as of the day before the date of the disability annuitant's death.
+
+(2) In the case of a current spouse entitled to an annuity based on the service of a disability annuitant who dies before age 62, the amount of the current spouse annuity equals 50 percent of the amount to which the disability annuitant would have been entitled under § 844.303 of this chapter, if the disability annuitant had attained age 62 on the day before his or her death. However, in determining the amount under § 844.303(a) of this chapter, creditable service includes the period of time between the date of death and the date of the 62nd anniversary of the birth of the annuitant, but average pay is adjusted (under section 8462 of title 5, United States Code) only through date of death.
+
+[52 FR 2074, Jan. 16, 1987, as amended at 52 FR 23014, June 17, 1987]

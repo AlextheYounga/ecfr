@@ -1,0 +1,9 @@
+##### § 73.7004 Petitions to deny tentative selectee(s). #####
+
+(a) For mutually exclusive applicants subject to the selection procedures in subpart K of this part, Petitions to Deny will be accepted only against the tentative selectee(s).
+
+(b) Within thirty (30) days following the issuance of a public notice announcing the tentative selection of an applicant through fair distribution (§ 73.7002) or point system (§ 73.7003) procedures, petitions to deny that application may be filed. Any such petitions must contain allegations of fact supported by affidavit of a person or persons with personal knowledge thereof.
+
+(c) An applicant may file an opposition to any petition to deny, and the petitioner a reply to such opposition. Allegations of fact or denials thereof must be supported by affidavit of a person or persons with personal knowledge thereof. The time for filing such oppositions shall be 10 days from the filing date for petitions to deny, and the time for filing replies shall be 5 days from the filing date for oppositions.
+
+(d) If the Commission denies or dismisses all petitions to deny, if any are filed, and is otherwise satisfied that an applicant is qualified, the application will be granted. If the Commission determines that the points originally claimed were higher than permitted, but that there is no substantial and material question of fact of applicant qualifications, it will compare the revised point tally of the tentative selectee to the other mutually exclusive applicants and, either grant the original application or announce a new tentative selectee, as appropriate. If an applicant is found unqualified, the application shall be denied, and the applicant(s) with the next highest point tally named as the new tentative selectee.

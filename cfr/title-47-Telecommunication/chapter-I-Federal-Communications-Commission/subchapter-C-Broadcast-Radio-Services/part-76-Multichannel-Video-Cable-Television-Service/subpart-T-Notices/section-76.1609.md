@@ -1,0 +1,3 @@
+##### § 76.1609 Non-duplication and syndicated exclusivity. #####
+
+Within 60 days following the provision of service to 1,000 subscribers, the operator of each such system shall file a notice to that effect with the Commission, and serve a copy of that notice on every television station that would be entitled to exercise network non-duplication protection or syndicated exclusivity protection against it.

@@ -1,0 +1,3 @@
+##### § 9.2 Reporting workforce information. #####
+
+The Director of the Office of Personnel Management may require all Executive agencies to report information relating to civilian employees, including positions and employees in the competitive, excepted, and Senior Executive services, in a manner and at times prescribed by the Director. The Director shall establish standards for workforce information submissions under this section, and agencies shall ensure that their submissions meet these standards consistent with the Privacy Act. The Director may exempt from this section a specific agency or group of employees when the Director determines that an exemption is appropriate because of special circumstances.

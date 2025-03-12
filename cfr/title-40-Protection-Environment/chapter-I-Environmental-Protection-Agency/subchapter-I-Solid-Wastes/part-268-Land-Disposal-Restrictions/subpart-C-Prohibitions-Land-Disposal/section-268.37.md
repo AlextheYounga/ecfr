@@ -1,0 +1,7 @@
+##### § 268.37 Waste specific prohibitions—ignitable and corrosive characteristic wastes whose treatment standards were vacated. #####
+
+(a) Effective August 9, 1993, the wastes specified in 40 CFR 261.21 as D001 (and is not in the High TOC Ignitable Liquids Subcategory), and specified in § 261.22 as D002, that are managed in systems other than those whose discharge is regulated under the Clean Water Act (CWA), or that inject in Class I deep wells regulated under the Safe Drinking Water Act (SDWA), or that are zero dischargers that engage in CWA-equivalent treatment before ultimate land disposal, are prohibited from land disposal. CWA-equivalent treatment means biological treatment for organics, alkaline chlorination or ferrous sulfate precipitation for cyanide, precipitation/sedimentation for metals, reduction of hexavalent chromium, or other treatment technology that can be demonstrated to perform equally or greater than these technologies.
+
+(b) Effective February 10, 1994, the wastes specified in 40 CFR 261.21 as D001 (and is not in the High TOC Ignitable Liquids Subcategory), and specified in § 261.22 as D002, that are managed in systems defined in 40 CFR 144.6(e) and 146.6(e) as Class V injection wells, that do not engage in CWA-equivalent treatment before injection, are prohibited from land disposal.
+
+[58 FR 29885, May 24, 1993]

@@ -1,0 +1,3 @@
+##### § 455.152 Transmittal of record on review. #####
+
+On or before 15 days from receipt of a notice requesting administrative review which is timely filed, the Support Office Director shall forward to the Deputy Assistant Secretary the notice requesting administrative review, the decision to disapprove as to which administrative review is sought, a draft recommended final decision for concurrence, and any other relevant material.

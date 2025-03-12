@@ -1,0 +1,21 @@
+##### § 73.1226 Availability to FCC of station logs and records. #####
+
+The following shall be made available to any authorized representative of the FCC upon request:
+
+(a) Station records and logs shall be made available for inspection or duplication at the request of the FCC or its representative. Such logs or records may be removed from the licensee's possession by an FCC representative or, upon request, shall be mailed by the licensee to the FCC by either registered mail, return receipt requested, or certified mail, return receipt requested. The return receipt shall be retained by the licensee as part of the station records until such records or logs are returned to the licensee. A receipt shall be furnished when the logs or records are removed from the licensee's possession by an FCC representative and this receipt shall be retained by the licensee as part of the station records until such records or logs are returned to the licensee. When the FCC has no further need for such records or logs, they shall be returned to the licensee. The provisions of this rule shall apply solely to those station logs and records which are required to be maintained by the provisions of this chapter.
+
+(1) Logs and records stored on microfilm, microfiche or other data-storage systems are subject to the requirements pertaining thereto found in § 73.1840(b).
+
+(b) Where records or logs are maintained as the official records of a recognized law enforcement agency and the removal of the records from the possession of the law enforcement agency will hinder its law enforcement activities, such records will not be removed pursuant to this section if the chief of the law enforcement agency promptly certifies in writing to the FCC that removal of the logs or records will hinder law enforcement activities of the agency, stating insofar as feasible the basis for his decision and the date when it can reasonably be expected that such records will be released to the FCC.
+
+(c) The following contracts, agreements, or understandings, which need not be filed with the FCC (per § 73.3613, Filing of contracts), must be kept at the station and made available for inspection by any authorized representative of the FCC upon request:
+
+(1) Contracts relating to the sale of broadcast time to “time brokers” for resale.
+
+(2) FM subchannel leasing agreements for subsidiary communications.
+
+(3) Time sales contracts with the same sponsor for 4 or more hours per day, except where the length of the events (such as athletic contests, musical programs, and special events) broadcast pursuant to the contract is not under control of the station.
+
+(4) Contracts with chief operators or other engineering personnel.
+
+[43 FR 45847, Oct. 4, 1978; 43 FR 50683, Oct. 31, 1978, as amended at 45 FR 41151, June 18, 1980; 48 FR 28457, June 22, 1983]

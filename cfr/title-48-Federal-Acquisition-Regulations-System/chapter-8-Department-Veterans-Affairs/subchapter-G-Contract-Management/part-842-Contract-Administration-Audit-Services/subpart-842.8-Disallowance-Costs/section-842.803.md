@@ -1,0 +1,3 @@
+##### 842.803 Disallowing costs after incurrence. #####
+
+Contracting officers may approve or disapprove contractors' vouchers for payment and process them to the servicing fiscal office. Such approval or disapproval must be within the limitations of the contracting officer's warrant and the contract for which the voucher is submitted must be within the contracting officer's delegation of contracting authority.

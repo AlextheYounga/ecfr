@@ -1,0 +1,5 @@
+##### 919.201 General policy. #####
+
+(c) The Director, Office of Small and Disadvantaged Business Utilization, Headquarters, is responsible for the administration of the Department of Energy (DOE) small, small disadvantaged, and women-owned small business programs. The Executive Director, Federal Energy Regulatory Commission, is responsible for the administration of the Commission's small, small disadvantaged, and women-owned small business programs. This includes responsibility for developing, implementing, executing, and managing these programs, providing advice on these programs, and representing DOE before other Government agencies on matters primarily affecting small, small disadvantaged, and women-owned small businesses. The Heads of Contracting Activities (HCAs) shall appoint a small business specialist.
+
+[50 FR 12185, Mar. 27, 1985, as amended at 59 FR 9106, Feb. 25, 1994; 61 FR 21976, May 13, 1996; 75 FR 69012, Nov. 10, 2010]

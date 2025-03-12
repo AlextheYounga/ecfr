@@ -1,0 +1,11 @@
+##### 47.302 Place of delivery—f.o.b. point. #####
+
+(a) The policies and procedures in 47.304-1, -2, and -3 govern the transportation of supplies from sources in the Contiguous United States (CONUS), except when identifiable costs, nature of the supplies (security, safety, or value), delivery requirements (premium modes of transport, escorts, transit arrangements, and tentative conditions), or other advantages, limitations, or requirements dictate otherwise. The policies and procedures in 47.304-4 govern the transportation of supplies from sources outside CONUS.
+
+(b) Generally, the contracting officer shall solicit offers, and award contracts, with delivery terms on the basis prescribed in 47.304. The contracting officer shall document the contract file (see 4.801) with justifications for solicitations that do not specify delivery on the basis prescribed in 47.304.
+
+(c)(1) The place of performance of Government acquisition quality assurance actions and the place of acceptance shall not control the delivery term, except that if acceptance is at destination, transportation shall be f.o.b. destination (see 47.304-1(f)).
+
+(2) The fact that transportation is f.o.b. destination does not alone necessitate changing the place of acceptance from origin to destination; and the fact that acceptance is at origin does not necessitate an f.o.b. origin delivery term. Providing for inspection and acceptance at origin (if appropriate under 46.402), in conjunction with an f.o.b. destination term, may be advantageous to both the Government and the contractor. Acceptance of title at origin by the Government permits payment of the contractor, provided the invoice is supported either by a copy of the signed commercial bill of lading (indicating the carrier's receipt of the supplies covered by the invoice for transportation to the particular destination specified in the contract) or by other appropriate evidence of shipment to the particular destination for the contractor's account.
+
+[48 FR 42424, Sept. 19, 1983, as amended at 68 FR 28084, May 22, 2003]

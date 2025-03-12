@@ -1,0 +1,3 @@
+##### § 590.101 Purpose and scope. #####
+
+The purpose of this part is to establish the rules and procedures required to be followed by persons to obtain authorizations from DOE to import or export natural gas under the Natural Gas Act and by all other persons interested in participating in a natural gas import or export proceeding before the agency. This part establishes the procedural rules necessary to implement the authorities vested in the Secretary of Energy by sections 301(b) and 402(f) of the DOE Act, which have been delegated to the Assistant Secretary.

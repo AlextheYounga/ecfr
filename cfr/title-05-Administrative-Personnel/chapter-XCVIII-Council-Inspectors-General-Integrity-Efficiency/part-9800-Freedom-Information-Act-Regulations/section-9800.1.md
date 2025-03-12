@@ -1,0 +1,3 @@
+##### § 9800.1 Purpose. #####
+
+This part implements the provisions of The Freedom of Information Act (FOIA) (5 U.S.C. 552), as amended, for CIGIE records. These regulations should be read in conjunction with the FOIA, which explains in more detail requesters' rights and the records CIGIE may release. This regulation should also be read with CIGIE's FOIA Reference Guide, available on CIGIE's Web site, *http://www.ignet.gov,* and the FOIA fee guidance provided by the Office of Management and Budget (OMB), Uniform Freedom of Information Act Fee Schedule and Guidelines.

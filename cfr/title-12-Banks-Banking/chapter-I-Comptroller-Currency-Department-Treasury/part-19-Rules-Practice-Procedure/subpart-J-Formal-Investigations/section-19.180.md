@@ -1,0 +1,3 @@
+##### § 19.180 Scope. #####
+
+This subpart and § 19.8 apply to formal investigations initiated by order of the Comptroller or the Comptroller's delegate and pertain to the exercise of powers specified in 12 U.S.C. 481, 1818(n) and 1820(c), and section 21 of the Exchange Act (15 U.S.C. 78u). This subpart does not restrict or in any way affect the authority of the Comptroller to conduct examinations into the affairs or ownership of banks and their affiliates.

@@ -1,0 +1,3 @@
+##### § 772.101 Basic authority. #####
+
+This part establishes a mechanism for agencies to provide interim relief to employees and applicants for employment who prevail in an initial decision issued by the Merit Systems Protection Board (MSPB) as required by the *Whistleblower Protection Act of 1989,* Pub. L. 101-12 (codified at 5 U.S.C. 7701(b)(2)(A)). The interim relief provisions of the law are applicable whether or not alleged reprisal for whistleblowing is at issue in an appeal to MSPB.

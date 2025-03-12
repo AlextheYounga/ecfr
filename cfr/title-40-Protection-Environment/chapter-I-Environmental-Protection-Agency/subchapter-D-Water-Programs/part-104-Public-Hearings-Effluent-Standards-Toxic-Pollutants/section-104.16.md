@@ -1,0 +1,9 @@
+##### § 104.16 Filing and time. #####
+
+(a) All documents or papers required or authorized by the foregoing provisions of this part including, but not limited to, motions, applications for review, and briefs, shall be filed in duplicate with the hearing clerk, except as otherwise expressly provided in these rules. Any document or paper so required or authorized to be filed with the hearing clerk, if it is filed during the course of the hearing, shall be also filed with the Presiding Officer. A copy of each document or paper filed by any party with the Presiding Officer, with the hearing clerk, or with the Administrator shall be served upon all other parties, except to the extent that the list of parties to be so served may be modified by order of the Presiding Officer, and each such document or paper shall be accompanied by a certificate of such service.
+
+(b) A party may be represented in any proceeding under this part by an attorney or other authorized representative. When any document or paper is required under these rules to be served upon a party such service shall be made upon such attorney or other representative.
+
+(c) Except where these rules or an order of the Presiding Officer require receipt of a document by a certain date, any document or paper required or authorized to be filed by this part shall be deemed to be filed when postmarked, or in the case of papers delivered other than by mail, when received by the hearing clerk.
+
+(d) Sundays and legal holidays shall be included in computing the time allowed for the filing of any document or paper, provided, that when such time expires on a Sunday or legal holiday, such period shall be extended to include the next following business day.

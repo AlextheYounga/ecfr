@@ -1,0 +1,3 @@
+##### § 179.110 Determination by Administrator to review initial decision. #####
+
+Within 10 days following the expiration of the time for filing exceptions (including any extensions), the Administrator may file with the hearing clerk, and serve on the parties, a notice of the Administrator's determination to review the initial decision. The Administrator may invite the parties to file briefs or present oral argument on the matter. The time for filing briefs or presenting oral argument will be specified in that or a later notice.

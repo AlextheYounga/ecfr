@@ -1,0 +1,3 @@
+##### § 62.4 To whom will scholarship program awards be available in addition to those individuals pursuing courses of study leading to degrees in medicine, osteopathy, or dentistry? #####
+
+The Secretary will, from time-to-time, publish in the Federal Register a list of those health professions in addition to medicine, osteopathy, and dentistry for which the National Health Service Corps has need and for which support is available. The Secretary will also publish any other eligibility criteria, in addition to those in § 62.3, that may be required to assure that participants can be utilized during their periods of obligated service in a manner that will best meet the needs of the National Health Service Corps.

@@ -1,0 +1,17 @@
+##### § 109.104 Additional procedures. #####
+
+(a) *Replies to exceptions.* Replies to written exceptions to the administrative law judge's recommended decision, findings, conclusions or proposed order pursuant to § 109.39 of this part shall be filed within 10-days of the date such written exceptions were required to be filed.
+
+(b) *Motions.* All motions shall be filed with the administrative law judge and an additional copy shall be filed with the OCC Hearing Clerk who receives adjudicatory filings; provided, however, that once the administrative law judge has certified the record to the Comptroller pursuant to § 109.38 of this part, all motions must be filed with the Comptroller to the attention of the Hearing Clerk within the 10-day period following the filing of exceptions allowed for the filing of replies to exceptions. Responses to such motions filed in a timely manner with the Comptroller, other than motions for oral argument before the Comptroller, shall be allowed pursuant to the procedures at § 109.23(d) of this part. No response is required for the Comptroller to make a determination on a motion for oral argument.
+
+(c) *Authority of administrative law judge.* In addition to the powers listed in § 109.5 of this part, the administrative law judge shall have the authority to deny any dispositive motion and shall follow the procedures set forth for motions for summary disposition at § 109.29 of this part and partial summary disposition at § 109.30 of this part in making determinations on such motions.
+
+(d) *Notification of submission of proceeding to the Comptroller.* Upon the expiration of the time for filing any exceptions, any replies to such exceptions or any motions and any ruling thereon, and after receipt of certified record, the OCC shall notify the parties within ten days of the submission of the proceeding to the Comptroller for final determination.
+
+(e) *Extensions of time for final determination.* The Comptroller may, *sua sponte,* extend the time for final determination by signing an order of extension of time within the 90-day time period and notifying the parties of such extension thereafter.
+
+(f) *Service upon the OCC.* Service of any document upon the OCC shall be made by filing with the Hearing Clerk, in addition to the individuals and/or offices designated by the OCC in its Notice issued pursuant to § 109.18 of this part, or such other means reasonably suited to provide notice of the person and/or offices designated to receive filings.
+
+(g) *Filings with the Comptroller.* An additional copy of all materials required or permitted to be filed with or referred to the administrative law judge pursuant to subpart A and B of this part shall be filed with the Hearing Clerk. This rule shall not apply to the transcript of testimony and exhibits adduced at the hearing or to proposed exhibits submitted in advance of the hearing pursuant to an order of the administrative law judge under § 109.32 of this part. Materials required or permitted to be filed with or referred to the Comptroller pursuant to subparts A and B of this part shall be filed with the Comptroller, to the attention of the Hearing Clerk.
+
+(h) *Presence of cameras and other recording devices.* The use of cameras and other recording devices, other than those used by the court reporter, shall be prohibited and excluded from the proceedings.

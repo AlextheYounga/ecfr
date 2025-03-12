@@ -1,0 +1,5 @@
+##### § 300.13 Incorporation by reference. #####
+
+The Technical Guidelines for the Voluntary Reporting of Greenhouse Gases (1605(b)) Program (January 2007), referred to throughout this part as the “Technical Guidelines,” have been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of the Technical Guidelines from the Office of Policy and International Affairs, U.S. Department of Energy, 1000 Independence Ave., SW., Washington, DC 20585, or by visiting the following Web site: *http://www.policy.energy.gov/enhancingGHGregistry/technicalguidelines/.* The Technical Guidelines also are available for inspection at the National Archives and Record Administration (NARA). For more information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+[71 FR 20805, Apr. 21, 2006, as amended at 72 FR 4413, Jan. 31, 2007]

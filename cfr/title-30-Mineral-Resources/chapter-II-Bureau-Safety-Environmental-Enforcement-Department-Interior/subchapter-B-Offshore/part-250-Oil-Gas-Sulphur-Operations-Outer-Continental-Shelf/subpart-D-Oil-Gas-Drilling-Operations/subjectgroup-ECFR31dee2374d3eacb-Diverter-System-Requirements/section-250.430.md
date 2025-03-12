@@ -1,0 +1,3 @@
+##### § 250.430 When must I install a diverter system? #####
+
+You must install a diverter system before you drill a conductor or surface hole. The diverter system consists of a diverter sealing element, diverter lines, and control systems. You must design, install, use, maintain, and test the diverter system to ensure proper diversion of gases, water, drilling fluid, and other materials away from facilities and personnel.

@@ -1,0 +1,11 @@
+##### § 1214.402 International Space Station crewmember responsibilities. #####
+
+(a) All NASA-provided International Space Station crewmembers are subject to specified standards of conduct, including those prescribed in the Code of Conduct for the International Space Station Crew, set forth as § 1214.403. NASA-provided International Space Station crew members may be subject to additional standards and requirements, as determined by NASA, which will be made available to those NASA-provided crewmembers, as appropriate.
+
+(1) NASA-provided International Space Station crewmembers who are not citizens of the United States will be required to enter into an agreement with NASA in which they agree to comply with specified standards of conduct, including those prescribed in the Code of Conduct for the International Space Station Crew (§ 1214.403). Any such agreement will be signed on behalf of NASA by the NASA General Counsel or designee.
+
+(2) NASA-provided International Space Station crewmembers who are citizens of the United States but are not employees of the U.S. Government will be required to enter into an agreement with NASA in which they agree to comply with specified standards of conduct, including those prescribed in the Code of Conduct for the International Space Station Crew (§ 1214.403). Any such agreement will be signed on behalf of NASA by the NASA General Counsel or designee.
+
+(3) NASA-provided International Space Station crewmembers who are employed by a branch, department, or agency of the U.S. Government may, as determined by the NASA General Counsel, be required to enter into an agreement with NASA to comply with specified standards of conduct, including those prescribed in the Code of Conduct for the International Space Station Crew (§ 1214.403). Any such agreement will be signed on behalf of NASA by the NASA General Counsel or designee.
+
+(b) All NASA-provided personnel on board the International Space Station are additionally subject to the authority of the International Space Station Commander and shall comply with Commander's orders and directions.

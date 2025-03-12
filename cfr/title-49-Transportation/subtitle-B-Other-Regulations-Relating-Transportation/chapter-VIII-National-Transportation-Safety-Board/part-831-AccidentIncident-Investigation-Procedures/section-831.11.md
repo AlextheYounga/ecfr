@@ -1,0 +1,13 @@
+##### § 831.11 Parties to the investigation. #####
+
+(a) *All Investigations, regardless of mode.* (1) The investigator-in-charge designates parties to participate in the investigation. Parties shall be limited to those persons, government agencies, companies, and associations whose employees, functions, activities, or products were involved in the accident or incident and who can provide suitable qualified technical personnel actively to assist in the investigation. Other than the FAA in aviation cases, no other entity is afforded the right to participate in Board investigations.
+
+(2) Participants in the investigation (*i.e.,* party representatives, party coordinators, and/or the larger party organization) shall be responsive to the direction of Board representatives and may lose party status if they do not comply with their assigned duties and activity proscriptions or instructions, or if they conduct themselves in a manner prejudicial to the investigation.
+
+(3) No party to the investigation shall be represented in any aspect of the NTSB investigation by any person who also represents claimants or insurers. No party representative may occupy a legal position (see § 845.13 of this chapter). Failure to comply with these provisions may result in sanctions, including loss of status as a party.
+
+(4) Title 49, United States Code § 1132 provides for the appropriate participation of the FAA in Board investigations, and § 1131(a)(2) provides for such participation by other departments, agencies, or instrumentalities. The FAA and those other entities that meet the requirements of paragraph (a)(1) of this section will be parties to the investigation with the same rights and privileges and subject to the same limitations as other parties, provided however that representatives of the FAA need not sign the “Statement of Party Representatives to NTSB Investigation” (see paragraph (b) of this section).
+
+(b) *Aviation investigations.* In addition to compliance with the provisions of paragraph (a) of this section, and to assist in ensuring complete understanding of the requirements and limitations of party status, all party representatives in aviation investigations shall sign “Statement of Party Representatives to NTSB Investigation” immediately upon attaining party representative status. Failure timely to sign that statement may result in sanctions, including loss of status as a party.
+
+[62 FR 3808, Jan. 27, 1997, as amended at 63 FR 71606, Dec. 29, 1998]

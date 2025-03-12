@@ -1,0 +1,3 @@
+##### § 1402.11 Current index. #####
+
+The Farm Credit System Insurance Corporation will make available for public inspection and copying a current index to provide identifying information as to any matter required by 5 U.S.C. 552(a)(2)(C) to be made available or published in the Federal Register. Because of the anticipated infrequency of requests for material required to be indexed, it is determined that the publication of the index in the Federal Register is unnecessary and impracticable. However, the Farm Credit System Insurance Corporation will provide a copy of such index to a member of the public upon request therefor at a cost not in excess of the direct cost of duplication.

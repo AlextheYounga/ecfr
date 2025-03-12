@@ -1,0 +1,3 @@
+##### § 263.55 Board as Presiding Officer. #####
+
+The Board may, in its discretion, designate itself, one or more of its members, or an authorized officer, to act as presiding officer in a formal hearing. In such a proceeding, proposed findings and conclusions, briefs, and other submissions by the parties permitted in subpart A shall be filed with the Secretary for consideration by the Board. Sections 263.38 and 263.39 of subpart A will not apply to proceedings conducted under this section.

@@ -1,0 +1,3 @@
+##### § 457.1 Program description. #####
+
+Title XXI of the Social Security Act, enacted in 1997 by the Balanced Budget Act, authorizes Federal grants to States for provision of child health assistance to uninsured, low-income children. The program is jointly financed by the Federal and State governments and administered by the States. Within broad Federal rules, each State decides eligible groups, types and ranges of services, payment levels for benefit coverage, and administrative and operating procedures.

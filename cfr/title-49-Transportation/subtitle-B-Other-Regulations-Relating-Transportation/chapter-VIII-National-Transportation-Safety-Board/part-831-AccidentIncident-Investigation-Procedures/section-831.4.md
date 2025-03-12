@@ -1,0 +1,5 @@
+##### § 831.4 Nature of investigation. #####
+
+Accident and incident investigations are conducted by the Board to determine the facts, conditions, and circumstances relating to an accident or incident and the probable cause(s) thereof. These results are then used to ascertain measures that would best tend to prevent similar accidents or incidents in the future. The investigation includes the field investigation (on-scene at the accident, testing, teardown, etc.), report preparation, and, where ordered, a public hearing. The investigation results in Board conclusions issued in the form of a report or “brief” of the incident or accident. Accident/incident investigations are fact-finding proceedings with no formal issues and no adverse parties. They are not subject to the provisions of the Administrative Procedure Act (5 U.S.C. 504 *et seq.*), and are not conducted for the purpose of determining the rights or liabilities of any person.
+
+[62 FR 3806, Jan. 27, 1997]

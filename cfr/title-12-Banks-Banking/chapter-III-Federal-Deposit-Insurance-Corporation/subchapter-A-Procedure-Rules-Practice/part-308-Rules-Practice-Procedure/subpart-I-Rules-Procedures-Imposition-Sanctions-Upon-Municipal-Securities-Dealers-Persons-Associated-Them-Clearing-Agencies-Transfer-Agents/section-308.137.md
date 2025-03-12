@@ -1,0 +1,3 @@
+##### § 308.137 Effective date of order imposing sanctions. #####
+
+An order issued by the Board of Directors after a hearing or an order issued upon default shall become effective at the expiration of 30 days after the service of the order, except that an order of censure, denial, or revocation of registration is effective when served. An order issued upon consent shall become effective at the time specified therein. All orders shall remain effective and enforceable except to the extent they are stayed, modified, terminated, or set aside by the Board of Directors, its designee, or a reviewing court, provided that orders of suspension shall continue in effect no longer than 12 months.

@@ -1,0 +1,3 @@
+##### § 62.14521 If my CISWI unit is not listed in the Federal plan inventory, am I exempt from this subpart? #####
+
+If a CISWI unit is not listed in the Federal plan inventory, it is not necessarily exempt from this subpart. Sources subject to this subpart are not limited to the inventory of sources listed in Docket A-2000-52 for the Federal plan. If your CISWI units meets the applicability criteria in § 62.14510, this subpart applies to you whether or not your unit is listed in the Federal plan inventory in the docket.

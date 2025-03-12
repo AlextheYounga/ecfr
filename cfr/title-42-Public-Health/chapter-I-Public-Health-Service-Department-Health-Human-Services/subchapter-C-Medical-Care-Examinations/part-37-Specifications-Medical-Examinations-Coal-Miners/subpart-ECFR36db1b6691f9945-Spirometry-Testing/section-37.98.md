@@ -1,0 +1,21 @@
+##### § 37.98 Standards incorporated by reference. #####
+
+(a) Certain material is incorporated by reference into this subpart, Subpart—Spirometry Testing, with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, NIOSH must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at NIOSH, Respiratory Health Division, 1095 Willowdale Road, Morgantown, WV 26505. To arrange for an inspection at NIOSH, call 304-285-5749. Copies are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibv\_locations.html.*
+
+(b) American Journal of Respiratory and Critical Care Medicine, American Thoracic Society (ATS), 25 Broadway, 18th Floor, New York, NY 10004. Phone: (800) 635-7181, extension 8065. Email: *Hope.Robinson@sheridan.com. http://www.atsjournals.org/action/showHome:*
+
+(1) Standardization of Spirometry; 1994 Update. Official Statement of the ATS, adopted November 11, 1994. American Journal of Respiratory and Critical Care Medicine 152(3):1107-1136, September 1995, into § 37.95(b). This ATS Official Statement is also available at *http://www.atsjournals.org/doi/pdf/10.1164/ajrccm.152.3.7663792.*
+
+(2) Official American Thoracic Society Technical Standards: Spirometry in the Occupational Setting (“ATS Technical Standards: Spirometry in the Occupational Setting”). Redlich CA, Tarlo SM, Hankinson JL, Townsend MC, Eschenbacher WL, Von Essen SG, Sigsgaard T, and Weissman DN. American Journal of Respiratory and Critical Care Medicine 189(8):983-994, April 15, 2014, into §§ 37.92(b) and 37.96(a).
+
+(3) Spirometric Reference Values from a Sample of the General U.S. Population. Hankinson JL, Odencrantz JR, Fedan KB. American Journal of Respiratory and Critical Care Medicine, 159(1):179-187, January 1999, into § 37.92(b).
+
+(c) European Respiratory Journal, 442 Glossop Road, Sheffield, S10 2PX, UK. Phone: 44 114 267 28 60; Fax: 44 114 266 50 64. Email: *info@ersj.org.uk. http://erj.ersjournals.com/.*
+
+(1) Standardisation of Spirometry (“2005 ATS/ERS Standardisation of Spirometry”). ATS/ERS Task Force: Standardization of Lung Function Testing. Miller MR, Hankinson J, Brusasco V, Burgos F, Casaburi R, Coates A, Crapo R, Enright P, van der Grinten CPM, Gustafsson P, Jensen R, Johnson DC, MacIntyre N, McKay R, Navajas D, Pedersen OF, Pellegrino R, Viegi G, and Wanger J. European Respiratory Journal 26(2):319-338, August 2005, into §§ 37.93(b); 37.95(b) and (c); and 37.96(c). The ATS/ERS Standardisation of Spirometry is also available on the ATS Web site at *https://www.thoracic.org/statements/resources/pfet/PFT2.pdf.*
+
+(2) Interpretative Strategies for Lung Function Tests (“ATS/ERS Interpretative Strategies for Lung Function Tests”). ATS/ERS Task Force: Standardisation of Lung Function Testing. Pellegrino R, Viegi G, Brusasco V, Crapo RO, Burgos F, Casaburi R, Coates A, van der Grinten CPM, Gustafsson P, Hankinson J, Jensen R, Johnson DC, MacIntyre N, McKay R, Miller MR, Navajas D, Pedersen OF, and Wanger J. European Respiratory Journal 26(5):948-968, November 2005, into § 37.96(a). The ATS/ERS Standardisation of Lung Function Testing is also available on the ATS Web site at *http://www.thoracic.org/statements/resources/pft/pft5.pdf.*
+
+(3) Standardisation of Lung Function Testing, the Authors' Replies to Readers' Comments (“Standardisation of Lung Function Testing, Replies to Readers”). Miller MR, Hankinson J, Brusasco V, Burgos F, Casaburi R, Coates A, Enright P, van der Grinten C, Gustafsson P, Jensen R, MacIntyre N, McKay RT, Pedersen OF, Pellegrino R, Viegi G, and Wanger J. European Respiratory Journal 36(6):1496-1498, December 2010, into § 37.95(c). The Standardisation of Lung Function Testing, Replies to Readers is also available on the ATS Web site at *http://www.thoracic.org/statements/resources/pft/clarification-12-2010.pdf.*
+
+[81 FR 73289, Oct. 24, 2016]

@@ -1,0 +1,7 @@
+##### § 625.22 Answer to application. #####
+
+(a) Within 30 days after service, counsel for the FCA may file an answer to the application. Unless the FCA counsel requests an extension of time for filing or a statement of intent to negotiate under paragraph (c) of this section is filed, the presiding officer, upon a satisfactory showing of entitlement by the applicant, may make an award for the applicant's fees and other expenses under the EAJA.
+
+(b) The answer shall set forth any objections to the requested award and identify the facts relied on in support of the FCA's position. If the answer is based on any alleged facts not already in the record of the adversary adjudication, the FCA counsel shall include with the answer either supporting affidavits or a request for further proceedings under § 625.25 of this part.
+
+(c) If the FCA counsel and the applicant believe that the issues in the fee application can be settled, they may jointly file a statement of their intent to negotiate a settlement. The filing of this statement shall extend the time for filing an answer for an additional 30 days, and further extensions may be granted by the presiding officer upon request by the FCA counsel and the applicant.

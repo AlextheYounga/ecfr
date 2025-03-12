@@ -1,0 +1,3 @@
+##### § 585.121 Scope. #####
+
+This part establishes requirements for manufacturers of passenger cars, of trucks, buses, multipurpose passenger vehicles and low-speed vehicles with a gross vehicle weight rating (GVWR) of 4,536 kilograms (kg) (10,000 pounds (lb)) or less, to submit a report, and maintain records related to the report, concerning the number of such vehicles that meet the rear visibility requirements in paragraphs S5.5 and S6.2 of Standard No. 111, Rear visibility (49 CFR 571.111).

@@ -1,0 +1,5 @@
+##### § 630.6 Late and incomplete reports. #####
+
+(a) *Late reports.* Each reporting entity shall ensure that FTA receives its report by the due dates prescribed in the reference documents. A reporting entity may request a 30 day extension to submit its report. FTA will treat a failure to submit the required report by the due date or the extension date as failure to report data under § 630.5.
+
+(b) *Incomplete reports.* FTA will treat an NTD submission that does not contain all of the required data; or does not contain the required certifications, where applicable; or that is not in substantial conformance with the definitions, procedures, and format requirements set out in the reference documents as a failure to report data under § 630.5, unless the reporting entity has exhausted all possibilities for obtaining this information.

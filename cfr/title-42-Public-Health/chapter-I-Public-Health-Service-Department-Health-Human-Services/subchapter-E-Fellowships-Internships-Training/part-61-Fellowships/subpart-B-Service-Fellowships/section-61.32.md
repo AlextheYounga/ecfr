@@ -1,0 +1,3 @@
+##### § 61.32 Purpose of service fellowships. #####
+
+Service fellowships in the Public Health Service are for the purpose of encouraging and promoting research, studies, and investigations related to health. Such fellowships may be provided to secure the services of talented scientists for a period of limited duration for health-related research, studies, and investigations where the nature of the work or the character of the individual's services render customary employing methods impracticable or less effective.

@@ -1,0 +1,9 @@
+##### § 60.4385 How are excess emissions and monitoring downtime defined for SO2? #####
+
+If you choose the option to monitor the sulfur content of the fuel, excess emissions and monitoring downtime are defined as follows:
+
+(a) For samples of gaseous fuel and for oil samples obtained using daily sampling, flow proportional sampling, or sampling from the unit's storage tank, an excess emission occurs each unit operating hour included in the period beginning on the date and hour of any sample for which the sulfur content of the fuel being fired in the combustion turbine exceeds the applicable limit and ending on the date and hour that a subsequent sample is taken that demonstrates compliance with the sulfur limit.
+
+(b) If the option to sample each delivery of fuel oil has been selected, you must immediately switch to one of the other oil sampling options (i.e., daily sampling, flow proportional sampling, or sampling from the unit's storage tank) if the sulfur content of a delivery exceeds 0.05 weight percent. You must continue to use one of the other sampling options until all of the oil from the delivery has been combusted, and you must evaluate excess emissions according to paragraph (a) of this section. When all of the fuel from the delivery has been burned, you may resume using the as-delivered sampling option.
+
+(c) A period of monitor downtime begins when a required sample is not taken by its due date. A period of monitor downtime also begins on the date and hour of a required sample, if invalid results are obtained. The period of monitor downtime ends on the date and hour of the next valid sample.

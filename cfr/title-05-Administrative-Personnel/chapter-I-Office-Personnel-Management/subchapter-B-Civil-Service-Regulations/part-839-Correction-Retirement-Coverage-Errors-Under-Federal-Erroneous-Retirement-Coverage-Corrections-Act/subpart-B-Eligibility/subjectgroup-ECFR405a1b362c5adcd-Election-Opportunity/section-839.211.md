@@ -1,0 +1,3 @@
+##### § 839.211 If these rules apply to me because I had a qualifying retirement coverage error, can I choose which retirement plan I want to be in? #####
+
+The FERCCA does not provide an election opportunity in all situations where there was a qualifying retirement coverage error. Even if your error is one that provides an election opportunity under the FERCCA, certain events may disqualify you from making an election under the FERCCA. If you had a qualifying retirement coverage error, your eligibility to choose your retirement plan may be affected by the situations described in the next seven questions.

@@ -1,0 +1,3 @@
+##### § 196.209 May other civil enforcement actions be taken? #####
+
+Whenever the Associate Administrator has reason to believe that a person has engaged, is engaged, or is about to engage in any act or practice constituting a violation of any provision of 49 U.S.C. 60101 *et seq.,* or any regulations issued thereunder, PHMSA, or the person to whom the authority has been delegated, may request the Attorney General to bring an action in the appropriate U.S. District Court for such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, civil penalties, and punitive damages as provided under 49 U.S.C. 60120.

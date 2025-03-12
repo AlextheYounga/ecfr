@@ -1,0 +1,3 @@
+##### § 556.603 How may I maintain my sulfur lease beyond the primary term? #####
+
+You may maintain your sulfur lease after the primary term as long as you are producing sulfur in paying quantities, conducting drilling, well reworking or plant construction, or other operations for the production of sulfur or you are granted a suspension by BSEE; or your lease is subject to a suspension directed by BSEE for reasons other than gross negligence or a willful violation of a provision of your lease or governing regulations.

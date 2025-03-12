@@ -1,0 +1,9 @@
+##### § 58.15 Annual air monitoring data certification. #####
+
+(a) The State, or where appropriate local, agency shall submit to the EPA Regional Administrator an annual air monitoring data certification letter to certify data collected by FRM and FEM monitors at SLAMS and SPM sites that meet criteria in appendix A to this part from January 1 to December 31 of the previous year. The head official in each monitoring agency, or his or her designee, shall certify that the previous year of ambient concentration and quality assurance data are completely submitted to AQS and that the ambient concentration data are accurate to the best of her or his knowledge, taking into consideration the quality assurance findings. The annual data certification letter is due by May 1 of each year.
+
+(b) Along with each certification letter, the State shall submit to the Regional Administrator an annual summary report of all the ambient air quality data collected by FRM and FEM monitors at SLAMS and SPM sites. The annual report(s) shall be submitted for data collected from January 1 to December 31 of the previous year. The annual summary serves as the record of the specific data that is the object of the certification letter.
+
+(c) Along with each certification letter, the State shall submit to the Regional Administrator a summary of the precision and accuracy data for all ambient air quality data collected by FRM and FEM monitors at SLAMS and SPM sites. The summary of precision and accuracy shall be submitted for data collected from January 1 to December 31 of the previous year.
+
+[89 FR 16389, Mar. 6, 2024]

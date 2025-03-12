@@ -1,0 +1,3 @@
+##### § 839.1118 Will my annuity be actuarially reduced because I had Government contributions in my TSP account? #####
+
+Retirees and survivors of deceased employees who received a Government contribution to their TSP account after being corrected to FERS and who later elect CSRS Offset under the FERCCA are allowed to keep the Government contributions, and earnings on the Government contributions in the TSP account. Instead of adjusting the TSP account, the FERCCA requires that the CSRS-Offset annuity be reduced actuarially.

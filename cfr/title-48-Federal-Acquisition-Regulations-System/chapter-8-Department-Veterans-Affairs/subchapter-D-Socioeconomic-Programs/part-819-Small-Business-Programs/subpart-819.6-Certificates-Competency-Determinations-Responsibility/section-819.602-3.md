@@ -1,0 +1,3 @@
+##### 819.602-3 Resolving differences between VA and the Small Business Administration. #####
+
+The Director, OSDBU, is the VA liaison with the SBA. Information copies of correspondence sent to the SBA seeking a certificate of competency determination must be concurrently provided to the Director, OSDBU. Before appealing a certificate of competency, the HCA must seek concurrence from the Director, OSDBU.

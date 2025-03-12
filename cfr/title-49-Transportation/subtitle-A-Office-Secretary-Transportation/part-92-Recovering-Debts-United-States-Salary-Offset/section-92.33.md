@@ -1,0 +1,3 @@
+##### § 92.33 Recovery from other payments due a separated employee. #####
+
+If the debt cannot be liquidated by offset from any final payment due the employee as of the date of separation, the DOT operating element shall liquidate the debt by administrative offset pursuant to 31 U.S.C. 3716 from later payments of any kind due the former employee from the United States, where appropriate (see § 92.41(b)(2)(ii)).

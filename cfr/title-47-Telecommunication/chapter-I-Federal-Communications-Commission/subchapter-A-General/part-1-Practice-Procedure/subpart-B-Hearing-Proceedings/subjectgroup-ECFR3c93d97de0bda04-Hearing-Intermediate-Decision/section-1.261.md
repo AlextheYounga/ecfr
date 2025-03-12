@@ -1,0 +1,5 @@
+##### § 1.261 Corrections to transcript. #####
+
+At any time during the course of the proceeding, or as directed by the presiding officer, but not later than 10 days after the date of notice of certification of the transcript, any party to the proceeding may file with the presiding officer a motion requesting the correction of the transcript, which motion shall be accompanied by proof of service thereof upon all other parties to the proceeding. Within 5 days after the filing of such a motion, other parties may file a pleading in support of or in opposition to such motion. Thereafter, the presiding officer shall, by order, specify the corrections to be made in the transcript, and a copy of the order shall be served upon all parties and made a part of the record. The presiding officer, on his own initiative, may specify corrections to be made in the transcript on 5 days' notice.
+
+[40 FR 51441, Nov. 5, 1975]

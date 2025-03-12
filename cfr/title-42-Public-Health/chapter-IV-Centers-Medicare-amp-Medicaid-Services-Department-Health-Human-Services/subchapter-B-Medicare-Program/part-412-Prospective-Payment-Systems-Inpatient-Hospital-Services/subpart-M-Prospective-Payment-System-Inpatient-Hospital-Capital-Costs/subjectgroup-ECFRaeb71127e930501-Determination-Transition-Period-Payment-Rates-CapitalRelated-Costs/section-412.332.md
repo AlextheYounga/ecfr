@@ -1,0 +1,3 @@
+##### § 412.332 Payment based on the hospital-specific rate. #####
+
+The payment amount for each discharge (as defined in § 412.4(a)) based on the hospital-specific rate determined under § 412.328 (e) or (f) is determined by multiplying the applicable hospital-specific rate by the DRG weighting factor applicable to the discharge under § 412.60 and the applicable hospital-specific rate percentage for the pertinent cost reporting period under § 412.340.

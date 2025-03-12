@@ -1,0 +1,9 @@
+##### § 100.6 Procedures for review of citations and orders; procedures for assessment of civil penalties and conferences. #####
+
+(a) All parties shall be afforded the opportunity to review with MSHA each citation and order issued during an inspection. It is within the sole discretion of MSHA to grant a request for a conference and to determine the nature of the conference.
+
+(b) Upon notice by MSHA, all parties will have 10 days within which to submit additional information or request a safety and health conference with the District Manager or designee. A conference request may include a request to be notified of, and to participate in, a conference initiated by another party. A conference request must be in writing and must include a brief statement of the reason why each citation or order should be conferenced.
+
+(c) When a conference is conducted, the parties may submit any additional relevant information relating to the violation, either prior to or at the conference. To expedite the conference, the official assigned to the case may contact the parties to discuss the issues involved prior to the conference.
+
+(d) MSHA will consider all relevant information submitted in a timely manner by the parties with respect to the violation. When the facts warrant a finding that no violation occurred, the citation or order will be vacated. Upon conclusion of the conference, or expiration of the conference request period, all citations that are abated and all orders will be promptly referred to MSHA's Office of Assessments. The Office of Assessments will use the citations, orders, and inspector's evaluation as the basis for determining the appropriate amount of a proposed penalty.

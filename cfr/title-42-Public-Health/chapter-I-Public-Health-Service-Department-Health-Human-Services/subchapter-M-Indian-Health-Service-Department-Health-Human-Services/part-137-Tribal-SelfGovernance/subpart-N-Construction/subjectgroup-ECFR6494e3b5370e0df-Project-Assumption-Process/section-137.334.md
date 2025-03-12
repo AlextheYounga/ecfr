@@ -1,0 +1,3 @@
+##### § 137.334 What happens if the Secretary fails to notify the Self-Governance Tribe of a decision to approve or reject a final construction project proposal within the time period allowed? #####
+
+If the Secretary fails to notify the Self-Governance Tribe of the decision to approve or reject within 30 days (or a longer period if agreed to by the Self-Governance Tribe in writing), then the proposal will be deemed approved by the Secretary.

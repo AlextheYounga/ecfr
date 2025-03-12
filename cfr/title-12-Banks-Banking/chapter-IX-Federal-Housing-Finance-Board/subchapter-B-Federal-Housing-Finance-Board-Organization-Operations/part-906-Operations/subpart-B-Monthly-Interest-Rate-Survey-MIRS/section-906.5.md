@@ -1,0 +1,7 @@
+##### § 906.5 Monthly interest rate survey. #####
+
+The Finance Board conducts its Monthly Survey of Rates and Terms on Conventional One-Family Non-farm Mortgage Loans in the following manner:
+
+(a) *Initial survey.* Each month, the Finance Board samples savings institutions, commercial banks, and mortgage loan companies, and asks them to report the terms and conditions on all conventional mortgages (*i.e.*, those not federally insured or guaranteed) used to purchase single-family homes that each such lender closes during the last five working days of the month. In most cases, the information is reported electronically in a format similar to Finance Board Form FHFB 10-91. The initial weights are based on lender type and lender size. The data also is weighted so that the pattern of weighted responses matches the actual pattern of mortgage originations by lender type and by region. The Finance Board tabulates the data and publishes standard data tables late in the following month.
+
+(b) *Adjustable-rate mortgage index.* The weighted data, tabulated and published pursuant to paragraph (a) of this section, is used to compile the Finance Board's adjustable-rate mortgage index, entitled the “National Average Contract Mortgage Rate for the Purchase of Previously Occupied Homes by Combined Lenders.” This index is the successor to the index maintained by the former Federal Home Loan Bank Board and is used for determining the movement of the interest rate on renegotiable-rate mortgages and on some other adjustable-rate mortgages.

@@ -1,0 +1,3 @@
+##### § 414.31 Monitoring compliance with the terms and conditions of a safety approval. #####
+
+Each holder of a safety approval must allow access by, and cooperate with, Federal officers or employees or other individuals authorized by the Associate Administrator to inspect manufacturing, production, testing, or assembly performed by a holder of a safety approval or its contractor. The FAA may also inspect a safety approval process or service, including training programs and personnel qualifications.

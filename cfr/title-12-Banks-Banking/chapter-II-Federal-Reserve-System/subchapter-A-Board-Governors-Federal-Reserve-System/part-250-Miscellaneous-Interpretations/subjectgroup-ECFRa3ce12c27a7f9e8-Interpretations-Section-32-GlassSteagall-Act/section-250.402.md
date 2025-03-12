@@ -1,0 +1,7 @@
+##### § 250.402 Service as officer, director, or employee of licensee corporation under the Small Business Investment Act of 1958. #####
+
+(a) The Board of Governors has been requested to express an opinion whether § 218.1 would prohibit an officer, director, or employee of a member bank from serving at the same time as an officer, director, or employee of a Licensee corporation under the Small Business Investment Act of 1958 (15 U.S.C. 661 *et seq.*). It is understood that a Licensee would be authorized to engage only in the activities set forth in the statute, namely, to provide capital and long-term loan funds to small business concerns.
+
+(b) In the opinion of the Board, a corporation engaged exclusively in the enumerated activities would not be “primarily engaged in the issue, flotation, underwriting, public sale, or distribution, at wholesale or retail, or through syndicate participation, of stocks, bonds, or other similar securities.” Accordingly, the prohibition of § 218.1 would not apply to serving as an officer, director, or employee of either a small business investment company organized under the Small Business Investment Act of 1958, or an investment company chartered under the laws of a State solely for the purpose of operating under the Small Business Investment Act of 1958.
+
+[25 FR 4427, May 19, 1960. Redesignated at 61 FR 57289, Nov. 6, 1996]

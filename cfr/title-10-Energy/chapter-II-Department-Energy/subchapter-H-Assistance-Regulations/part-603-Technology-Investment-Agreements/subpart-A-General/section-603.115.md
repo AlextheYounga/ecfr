@@ -1,0 +1,3 @@
+##### § 603.115 Approval requirements. #####
+
+An officer of the Department who has been appointed by the President by and with the advice and consent of the Senate and who has been delegated the authority from the Secretary must approve the award of a TIA and may perform other functions of the Secretary as set forth in 42 U.S.C. 7256(g). This authority may not be re-delegated. The DOE or National Nuclear Security Administration (NNSA) Senior Procurement Executive also must concur in the award of a TIA.

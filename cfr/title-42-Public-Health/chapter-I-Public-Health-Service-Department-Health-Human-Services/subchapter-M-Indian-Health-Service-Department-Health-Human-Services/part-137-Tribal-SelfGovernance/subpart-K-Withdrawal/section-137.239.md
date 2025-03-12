@@ -1,0 +1,3 @@
+##### § 137.239 If the withdrawing Indian Tribe elects to operate PSFAs carried out under a compact or funding agreement under Title V through a contract under Title I, is the resulting contract considered a mature contract under section 4(h) of the Act [25 U.S.C. 450b(h)]? #####
+
+Yes, if the withdrawing Indian Tribe elects to operate PSFAs carried out under a compact or funding agreement under Title V through a contract under Title I, the resulting contract is considered a mature contract under section 4(h) of the Act [25 U.S.C. 450b(h)] at the option of the Indian Tribe.

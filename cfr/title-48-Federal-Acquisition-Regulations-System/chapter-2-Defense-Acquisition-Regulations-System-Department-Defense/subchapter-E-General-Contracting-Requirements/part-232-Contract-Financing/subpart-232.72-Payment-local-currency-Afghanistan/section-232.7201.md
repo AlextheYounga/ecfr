@@ -1,0 +1,3 @@
+##### 232.7201 Policy and procedures. #####
+
+Payment currency used for contracts performed in Afghanistan shall be dependent on the nationality of the vendor pursuant to the authority of USCENTCOM Fragmentary Orders (FRAGOs) 09-1567 and 10-143. If the contract is awarded to a host nation vendor (Afghan), the contractor will be paid in Afghani (local currency) via electronic funds transfer to a local (Afghan) banking institution. Contracts shall not be awarded to host nation vendors who do not bank locally. If awarded to other than a host nation vendor, the contract will be awarded in U.S. dollars.

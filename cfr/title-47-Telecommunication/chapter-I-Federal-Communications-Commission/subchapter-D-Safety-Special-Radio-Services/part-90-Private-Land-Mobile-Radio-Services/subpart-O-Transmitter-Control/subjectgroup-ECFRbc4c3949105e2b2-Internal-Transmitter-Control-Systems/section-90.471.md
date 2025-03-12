@@ -1,0 +1,5 @@
+##### § 90.471 Points of operation in internal transmitter control systems. #####
+
+The transmitting facilities of the licensee may be operated from fixed positions located on premises controlled by the licensee. The fixed position may be part of a private telephone exchange or it may be any position in a closed or limited access communications facility intended to be used by employees of the licensee for internal communications and transmitter control purposes. Operating positions in internal transmitter control systems are not synonymous with dispatch points (See § 90.467) nor with telephone positions which are part of the public, switched telephone network; and the scheme of regulation is to be considered and treated as being different. See §§ 90.485 through 90.489.
+
+[44 FR 67125, Nov. 23, 1979]

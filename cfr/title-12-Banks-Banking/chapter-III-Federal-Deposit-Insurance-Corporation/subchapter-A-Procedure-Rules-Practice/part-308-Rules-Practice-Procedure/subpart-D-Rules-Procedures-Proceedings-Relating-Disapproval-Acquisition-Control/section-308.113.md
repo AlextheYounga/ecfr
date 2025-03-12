@@ -1,0 +1,7 @@
+##### § 308.113 Answer to notice of disapproval. #####
+
+(a) *Contents.* (1) An answer to the notice of disapproval of a proposed acquisition of control shall be filed within 20 days after service of the notice of disapproval and shall specifically deny those portions of the notice of disapproval which are disputed. Those portions of the notice of disapproval which are not specifically denied are deemed admitted by the applicant.
+
+(2) Any hearing under this subpart shall be limited to those parts of the notice of disapproval that are specifically denied.
+
+(b) *Failure to answer.* Failure of a respondent to file an answer required by this section within the time provided constitutes a waiver of his or her right to appear and contest the allegations in the notice of disapproval. If no timely answer is filed, Enforcement Counsel may file a motion for entry of an order of default. Upon a finding that no good cause has been shown for the failure to file a timely answer, the administrative law judge shall file a recommended decision containing the findings and relief sought in the notice. A final order issued by the Board of Directors based upon a respondent's failure to answer is deemed to be an order issued upon consent.

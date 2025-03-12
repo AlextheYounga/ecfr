@@ -1,0 +1,3 @@
+##### § 1502.8 Writing. #####
+
+Agencies shall write environmental impact statements in plain language and should use, as relevant, appropriate visual aids or charts so that decision makers and the public can readily understand such statements. Agencies should employ writers of clear prose or editors to write, review, or edit statements, which shall be based upon the analysis and supporting data from the natural and social sciences and the environmental design arts.

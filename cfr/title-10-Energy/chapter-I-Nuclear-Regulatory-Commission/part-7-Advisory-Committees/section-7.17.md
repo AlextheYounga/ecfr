@@ -1,0 +1,9 @@
+##### § 7.17 Reports required for advisory committees. #####
+
+(a) The Commission shall furnish a report on the activities of NRC advisory committees annually to the Committee Management Secretariat on a fiscal year basis. The report must contain information regarding NRC advisory committees consistent with instructions provided by the Committee Management Secretariat. A copy of the report shall be made available at the NRC Web site, *http://www.nrc.gov,* at the NRC Public Document Room, or both. The information provided by the Commission regarding its advisory committees is contained in the Committee Management Secretariat's report which is available on its Web site, *http://www.gsa.gov/committeemanagement.*
+
+(b) Any NRC advisory committee holding closed or partially closed meetings shall issue a report, at least annually, setting forth a summary of its activities consistent with the policy of the Government in the Sunshine Act (5 U.S.C. 552b), as implemented by 10 CFR 9.104. A copy of the report shall be made available at the NRC Web site, *http://www.nrc.gov,* at the NRC Public Document Room, or both.
+
+(c) Subject to the Freedom of Information Act (5 U.S.C. 552) and implementing NRC regulations (10 CFR part 9, subpart A), eight copies of each report made by an advisory committee, including any report on closed meetings pursuant to paragraph (b) of this section, and, where appropriate, background papers prepared by consultants, shall be filed for public inspection and use with the Library of Congress, Anglo-American Acquisitions Division, Government Documents Section, Federal Advisory Committee Desk, 101 Independence Avenue, SE., Washington, DC 20540-4172.
+
+[67 FR 79842, Dec. 31, 2002]

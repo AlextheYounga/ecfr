@@ -1,0 +1,5 @@
+##### § 22.12 Consolidation and severance. #####
+
+(a) *Consolidation.* The Presiding Officer or the Environmental Appeals Board may consolidate any or all matters at issue in two or more proceedings subject to these Consolidated Rules of Practice where: there exist common parties or common questions of fact or law; consolidation would expedite and simplify consideration of the issues; and consolidation would not adversely affect the rights of parties engaged in otherwise separate proceedings. Proceedings subject to subpart I of this part may be consolidated only upon the approval of all parties. Where a proceeding subject to the provisions of subpart I of this part is consolidated with a proceeding to which subpart I of this part does not apply, the procedures of subpart I of this part shall not apply to the consolidated proceeding.
+
+(b) *Severance.* The Presiding Officer or the Environmental Appeals Board may, for good cause, order any proceedings severed with respect to any or all parties or issues.

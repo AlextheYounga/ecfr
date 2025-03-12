@@ -1,0 +1,5 @@
+##### § 585.95 Response to inquiries. #####
+
+(a) *Production year ending August 31, 2010.* At any time during the production year, each manufacturer must, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been certified as complying with § 571.202a without regard to any option to comply with the standard in § 571.202 or with the European regulations referenced in S4.3(a) of § 571.202.
+
+(b) *Production year ending August 31, 2011.* At any time during the production year, each manufacturer must, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been certified as complying with the requirements specified in § 571.202a for rear head restraints.

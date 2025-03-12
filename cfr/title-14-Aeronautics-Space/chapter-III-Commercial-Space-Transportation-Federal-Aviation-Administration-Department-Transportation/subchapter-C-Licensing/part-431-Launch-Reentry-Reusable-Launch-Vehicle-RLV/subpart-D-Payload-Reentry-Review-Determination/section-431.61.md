@@ -1,0 +1,3 @@
+##### § 431.61 Incorporation of payload reentry determination in license application. #####
+
+A favorable payload reentry determination issued for a payload or class of payload may be included by an RLV mission license applicant as part of its application. Before the conduct of an RLV mission involving a payload approved for reentry, any change in information provided under § 431.57 must be reported by the licensee in accordance with § 413.17 of this chapter. The FAA determines whether a favorable payload reentry determination remains valid and may conduct an additional payload reentry review.

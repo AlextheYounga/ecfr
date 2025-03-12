@@ -1,0 +1,5 @@
+##### § 308.119 Scope. #####
+
+(a) *Involuntary termination of insurance pursuant to section 8(a) of the FDIA.* The rules and procedures in this subpart, subpart B of the Local Rules and the Uniform Rules shall apply to proceedings in connection with the involuntary termination of the insured status of an insured bank depository institution or an insured branch of a foreign bank pursuant to section 8(a) of the FDIA (12 U.S.C. 1818(a)), except that the Uniform Rules and subpart B of the Local Rules shall not apply to the temporary suspension of insurance pursuant to section 8(a)(8) of the FDIA (12 U.S.C. 1818(a)(8)).
+
+(b) *Involuntary termination of insurance pursuant to section 8(p) of the Act.* The rules and procedures in § 308.124 of this subpart F shall apply to proceedings in connection with the involuntary termination of the insured status of an insured depository institution or an insured branch of a foreign bank pursuant to section 8(p) of the FDIA (12 U.S.C. 1818(p)). The Uniform Rules shall not apply to proceedings under section 8(p) of the FDIA.

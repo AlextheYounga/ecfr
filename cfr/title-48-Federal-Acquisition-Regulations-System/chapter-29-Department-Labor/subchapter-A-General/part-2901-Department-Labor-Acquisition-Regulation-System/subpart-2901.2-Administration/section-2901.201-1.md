@@ -1,0 +1,3 @@
+##### 2901.201-1 Maintenance of the FAR. #####
+
+A member of the Division of Acquisition Management Services (DAMS), an organization within the Office of Acquisition and Management Support Services, the Business Operations Center, Office of the Assistant Secretary for Administration and Management (OASAM), represents the Department of Labor on the Civilian Agency Acquisition Council (CAAC). DAMS will be responsible for coordination with all interested DOL elements regarding proposed FAR revisions and advocating revisions sought by DOL.

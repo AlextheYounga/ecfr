@@ -1,0 +1,3 @@
+##### § 585.13 Applicability. #####
+
+This subpart applies to manufacturers of passenger cars and trucks, buses, and multipurpose passenger vehicles with a GVWR of 3,855 kg or less and an unloaded vehicle weight of 2,495 kg or less. However, this subpart does not apply to any manufacturers whose production consists exclusively of walk-in vans, vehicles designed to be sold exclusively to the U.S. Postal Service, vehicles manufactured in two or more stages, and vehicles that are altered after previously having been certified in accordance with part 567 of this chapter. In addition, this subpart does not apply to manufacturers whose production of motor vehicles for the United States market is less than 5,000 vehicles in a production year.

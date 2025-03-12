@@ -1,0 +1,9 @@
+##### § 250.1742 What other methods can I use to verify that a site is clear? #####
+
+If you do not trawl a site, you can verify that the site is clear of obstructions by using any of the methods shown in the following table:
+
+|           If you use . . .            |                                                  You must . . .                                                   |                                                  And you must . . .                                                  |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+|              (a) Sonar,               |                      cover 100 percent of the appropriate grid area listed in § 250.1741(a),                      |                               Use a sonar signal with a frequency of at least 500 kHz.                               |
+|             (b) A diver,              |     ensure that the diver visually inspects 100 percent of the appropriate grid area listed in § 250.1741(a),     |Ensure that the diver uses a search pattern of concentric circles or parallel lines spaced no more than 10 feet apart.|
+|(c) An ROV (remotely operated vehicle),|ensure that the ROV camera records videotape over 100 percent of the appropriate grid area listed in § 250.1741(a),|    Ensure that the ROV uses a pattern of concentric circles or parallel lines spaced no more than 10 feet apart.     |

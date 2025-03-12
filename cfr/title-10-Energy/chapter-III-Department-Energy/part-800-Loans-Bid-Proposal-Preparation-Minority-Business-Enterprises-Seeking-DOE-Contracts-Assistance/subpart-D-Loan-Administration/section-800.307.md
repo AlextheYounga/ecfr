@@ -1,0 +1,3 @@
+##### § 800.307 Appeals. #####
+
+Any dispute concerning questions of fact arising under the loan agreement shall be decided in writing by the contracting officer. The borrower may request the contracting officer to reconsider any such decision, which reconsideration shall be promptly undertaken. If not satisfied with the contracting officer's final decision, the borrower, upon receipt of such written decision, may appeal the decision within 60 days in writing to the Chairman, Financial Assistance Appeals Board (FAAB), Department of Energy, Washington, DC 20585. The Board shall proceed in accordance with the Department of Energy's rules and regulations for such purpose. The decision of the Board with respect to such appeals shall be the final decision of the Secretary.

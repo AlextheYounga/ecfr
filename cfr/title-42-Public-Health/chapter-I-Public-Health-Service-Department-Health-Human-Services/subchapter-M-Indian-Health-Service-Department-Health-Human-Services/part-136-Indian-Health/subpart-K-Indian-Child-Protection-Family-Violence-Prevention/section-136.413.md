@@ -1,0 +1,5 @@
+##### § 136.413 What protections must the IHS and Tribes or Tribal organizations provide to individuals undergoing a background investigation? #####
+
+(a) The IHS must comply with all policies, procedures, criteria, and guidance contained in other appropriate guidelines, such as the OPM policies, procedures, criteria, and guidance. Questions asked in § 136.412 will be added as an addendum to item #16 of the OPM Optional Form 306, “Declaration for Federal Employment.” The information is collected as part of the OPM Optional Form 306 and is safeguarded in accordance with Privacy Act provisions.
+
+(b) Indian Tribes and Tribal organizations must comply with the privacy requirements of the Federal, State, or other Tribal agency providing the background investigations. Indian Tribes and Tribal organizations may establish their own procedures that safeguard information derived from background investigations.

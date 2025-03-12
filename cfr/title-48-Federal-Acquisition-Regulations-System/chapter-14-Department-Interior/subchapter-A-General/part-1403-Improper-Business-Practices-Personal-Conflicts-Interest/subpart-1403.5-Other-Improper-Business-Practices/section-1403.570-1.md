@@ -1,0 +1,3 @@
+##### 1403.570-1 Policy. #####
+
+Award of a contract does not signify endorsement of the supplies or services purchased, nor does it signify agreement with any views espoused by officials of the awardee. It is vital to the integrity of the procurement system to avoid even the appearance of an improper preference toward a particular vendor. Therefore, contractors shall not be permitted to publicize, or otherwise circulate, promotional materials that state or imply Governmental endorsement of a product, service or position which the contractor represents.

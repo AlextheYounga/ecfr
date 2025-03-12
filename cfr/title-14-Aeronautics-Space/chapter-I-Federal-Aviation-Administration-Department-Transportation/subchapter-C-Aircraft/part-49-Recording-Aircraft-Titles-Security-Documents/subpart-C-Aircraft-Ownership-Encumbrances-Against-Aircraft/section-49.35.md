@@ -1,0 +1,3 @@
+##### § 49.35 Eligibility for recording: ownership requirements. #####
+
+If the seller of an aircraft is not shown on the records of the FAA as the owner of the aircraft, a conveyance, including a contract of conditional sale, submitted for recording under this subpart must be accompanied by bills of sale or similar documents showing consecutive transfers from the last registered owner, through each intervening owner, to the seller.

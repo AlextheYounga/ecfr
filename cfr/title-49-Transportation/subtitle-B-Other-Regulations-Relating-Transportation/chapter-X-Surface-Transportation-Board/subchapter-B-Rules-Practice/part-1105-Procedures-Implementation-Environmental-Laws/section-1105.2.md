@@ -1,0 +1,5 @@
+##### § 1105.2 Responsibility for administration of these rules. #####
+
+The Director of the Office of Environmental Analysis is delegated the authority to sign, on behalf of the Board, memoranda of agreement entered into pursuant to 36 CFR 800.5(e)(4) regarding historic preservation matters. The Director of the Office of Environmental Analysis is responsible for the preparation of documents under these rules and is delegated the authority to provide interpretations of the Board's National Environmental Policy Act (NEPA) process, to render initial decisions on requests for waiver or modification of any of these rules for individual proceedings, and to recommend rejection of environmental reports not in compliance with these rules. This delegated authority shall be used only in a manner consistent with Board policy. Appeals to the Board will be available as a matter of right.
+
+[81 FR 8853, Feb. 23, 2016]

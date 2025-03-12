@@ -1,0 +1,7 @@
+##### § 761.316 Interpreting PCB concentration measurements resulting from this sampling scheme. #####
+
+(a) For an individual sample taken from an approximately 1 meter square portion of the entire surface area and not composited with other samples, the status of the portion is based on the surface concentration measured in that sample. If the sample surface concentration is not equal to or lower than the cleanup level, by inference the entire 1 meter area, and not just the immediate area where the sample was taken, is not equal to or lower than the cleanup level.
+
+(b) For areas represented by the measurement results from compositing more than one 10 centimeter by 10 centimeter sample, the measurement for the composite is the measurement for the entire area. For example, when there is a composite of 10 standard wipe test samples representing 9.5 square meters of surface area and the result of the analysis of the composite is 20 µg/100 cm2, then the entire 9.5 square meters has a PCB surface concentration of 20 µg/100 cm2, not just the area in the 10 cm by 10 cm sampled areas.
+
+(c) For small surfaces having irregular contours, where the entire surface was sampled, measure the surface area. Divide 100 cm2 by the surface area and multiply this quotient by the total number of micrograms of PCBs on the surface to obtain the equivalent measurement of micrograms per 100 cm2.

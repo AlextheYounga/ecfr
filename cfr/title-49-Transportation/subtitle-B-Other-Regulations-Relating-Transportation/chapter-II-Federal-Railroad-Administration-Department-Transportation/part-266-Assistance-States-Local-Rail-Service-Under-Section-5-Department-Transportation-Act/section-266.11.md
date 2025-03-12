@@ -1,0 +1,3 @@
+##### § 266.11 Allowable costs. #####
+
+Allowable costs include only the following costs which are properly allocable to the work performed: Planning and program operation costs which are allowed under Federal Management Circular 74-4; and costs of projects eligible under § 266.7 of this part. All allowable costs shall be authorized by a fully executed grant agreement. A State may incur costs prior to the execution of a grant agreement only if the Administrator, based on the State's demonstration of a compelling need to incur costs prior to the execution of a grant agreement, has authorized the costs in writing prior to their incurrence by the State.

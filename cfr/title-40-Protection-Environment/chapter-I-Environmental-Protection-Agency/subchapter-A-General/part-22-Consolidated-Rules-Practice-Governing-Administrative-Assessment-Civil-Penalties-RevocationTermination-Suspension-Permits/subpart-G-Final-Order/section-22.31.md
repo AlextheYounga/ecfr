@@ -1,0 +1,13 @@
+##### § 22.31 Final order. #####
+
+(a) *Effect of final order.* A final order constitutes the final Agency action in a proceeding. The final order shall not in any case affect the right of the Agency or the United States to pursue appropriate injunctive or other equitable relief or criminal sanctions for any violations of law. The final order shall resolve only those causes of action alleged in the complaint, or for proceedings commenced pursuant to § 22.13(b), alleged in the consent agreement. The final order does not waive, extinguish or otherwise affect respondent's obligation to comply with all applicable provisions of the Act and regulations promulgated thereunder.
+
+(b) *Effective date.* A final order is effective upon filing. Where an initial decision becomes a final order pursuant to § 22.27(c), the final order is effective 45 days after the initial decision is served on the parties.
+
+(c) *Payment of a civil penalty.* The respondent shall pay the full amount of any civil penalty assessed in the final order within 30 days after the effective date of the final order unless otherwise ordered. Payment shall be made by sending a cashier's check or certified check to the payee specified in the complaint, unless otherwise instructed by the complainant. The check shall note the case title and docket number. Respondent shall serve copies of the check or other instrument of payment on the Regional Hearing Clerk and on complainant. Collection of interest on overdue payments shall be in accordance with the Debt Collection Act, 31 U.S.C. 3717.
+
+(d) *Other relief.* Any final order requiring compliance or corrective action, or a Permit Action, shall become effective and enforceable without further proceedings on the effective date of the final order unless otherwise ordered.
+
+(e) *Final orders to Federal agencies on appeal.* (1) A final order of the Environmental Appeals Board issued pursuant to § 22.30 to a department, agency, or instrumentality of the United States shall become effective 30 days after its service upon the parties unless the head of the affected department, agency, or instrumentality requests a conference with the Administrator in writing and serves a copy of the request on the parties of record within 30 days of service of the final order. If a timely request is made, a decision by the Administrator shall become the final order.
+
+(2) A motion for reconsideration pursuant to § 22.32 shall not toll the 30-day period described in paragraph (e)(1) of this section unless specifically so ordered by the Environmental Appeals Board.

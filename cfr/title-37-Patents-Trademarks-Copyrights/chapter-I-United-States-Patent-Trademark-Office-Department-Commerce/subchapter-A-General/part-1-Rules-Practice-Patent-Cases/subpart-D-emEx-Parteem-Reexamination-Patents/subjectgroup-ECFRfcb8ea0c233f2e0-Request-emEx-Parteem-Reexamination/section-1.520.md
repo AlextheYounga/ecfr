@@ -1,0 +1,5 @@
+##### § 1.520 Ex parte reexamination at the initiative of the Director. #####
+
+The Director, at any time during the period of enforceability of a patent, may determine whether or not a substantial new question of patentability is raised by patents or printed publications which have been discovered by the Director or which have been brought to the Director's attention, even though no request for reexamination has been filed in accordance with § 1.510 or § 1.913. The Director may initiate *ex parte* reexamination without a request for reexamination pursuant to § 1.510 or § 1.913. Normally requests from outside the Office that the Director undertake reexamination on his own initiative will not be considered. Any determination to initiate *ex parte* reexamination under this section will become a part of the official file of the patent and will be mailed to the patent owner at the address as provided for in § 1.33(c).
+
+[65 FR 76775, Dec. 7, 2000]

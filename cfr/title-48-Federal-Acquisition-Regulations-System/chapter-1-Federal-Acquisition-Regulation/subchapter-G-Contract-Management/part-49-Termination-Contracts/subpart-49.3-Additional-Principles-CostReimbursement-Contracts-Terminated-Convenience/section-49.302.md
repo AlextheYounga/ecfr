@@ -1,0 +1,5 @@
+##### 49.302 Discontinuance of vouchers. #####
+
+(a) When the contract has been completely terminated, the contractor shall not use Standard Form 1034 (Public Voucher for Purchases and Services Other than Personal) after the last day of the sixth month following the month in which the termination is effective. The contractor may elect to stop using vouchers at any time during the 6-month period. When the contractor has vouchered out all costs within the 6-month period, a proposal for fee, if any, may be submitted on SF 1437 (see 49.602-1) or by letter appropriately certified. The contractor must submit a substantiated proposal for fee to the TCO within 1 year from the effective date of termination, unless the period is extended by the TCO. When the use of vouchers is discontinued, the contractor shall submit all unvouchered costs and the proposed fee, if any, as specified in 49.303.
+
+(b) When the contract is partially terminated, 49.304 shall apply.

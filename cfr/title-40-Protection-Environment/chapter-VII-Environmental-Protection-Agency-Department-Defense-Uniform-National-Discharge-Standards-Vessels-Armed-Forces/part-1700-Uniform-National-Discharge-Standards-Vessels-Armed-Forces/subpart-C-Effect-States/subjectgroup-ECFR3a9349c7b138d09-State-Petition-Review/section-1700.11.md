@@ -1,0 +1,3 @@
+##### § 1700.11 State petition for review of determinations or standards. #####
+
+The Governor of any State may submit a petition requesting that the Administrator and Secretary review a determination of whether a Marine Pollution Control Device is required for any discharge listed in § 1700.4 or § 1700.5, or review a Federal standard of performance for a Marine Pollution Control Device. A State may submit a petition only where there is new, significant information not considered previously by the Administrator and Secretary.

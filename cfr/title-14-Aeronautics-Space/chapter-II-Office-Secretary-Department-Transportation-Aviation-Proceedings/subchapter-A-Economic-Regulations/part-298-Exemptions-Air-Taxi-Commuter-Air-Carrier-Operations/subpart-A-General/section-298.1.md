@@ -1,0 +1,3 @@
+##### § 298.1 Applicability of part. #####
+
+This part establishes classifications of air carriers known as “air taxi operators” and “commuter air carriers,” provides certain exemptions to them from some of the economic regulatory provisions of Subtitle VII of Title 49 of the United States Code (Transportation), specifies procedures by which such air carriers may obtain authority to conduct operations, and establishes rules applicable to their operations in interstate and/or foreign air transportation in all States, Territories and possessions of the United States. This part also establishes reporting requirements for commuter air carriers and small certificated air carriers.

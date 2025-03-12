@@ -1,0 +1,5 @@
+##### § 76.95 Exceptions. #####
+
+(a) The provisions of §§ 76.92 through 76.94 shall not apply to a cable system serving fewer than 1,000 subscribers. Within 60 days following the provision of service to 1,000 subscribers, the operator of each such system shall file a notice to that effect with the Commission, and serve a copy of that notice on every television station that would be entitled to exercise network non-duplication protection against it.
+
+(b) Network non-duplication protection need not be extended to a higher priority station for one hour following the scheduled time of completion of the broadcast of a live sports event by that station or by a lower priority station against which a cable community unit would otherwise be required to provide non-duplication protection following the scheduled time of completion.

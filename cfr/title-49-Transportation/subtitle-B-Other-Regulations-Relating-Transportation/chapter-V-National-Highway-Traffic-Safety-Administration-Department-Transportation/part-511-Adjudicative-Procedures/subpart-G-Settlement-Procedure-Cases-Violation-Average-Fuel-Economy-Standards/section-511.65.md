@@ -1,0 +1,3 @@
+##### § 511.65 Public comment. #####
+
+Notice and opportunity for comment are provided to the public in regard to settlements under this part. Subject to § 511.66, notice of receipt of a petition for settlement is published in the Federal Register, and a copy of such petitions and any supporting information is placed in a public docket. Any settlement agreed to by the Administrator shall be placed in the public docket for 30 days so that interested persons may comment thereon. No settlement is binding until the completion of that thirty day period.

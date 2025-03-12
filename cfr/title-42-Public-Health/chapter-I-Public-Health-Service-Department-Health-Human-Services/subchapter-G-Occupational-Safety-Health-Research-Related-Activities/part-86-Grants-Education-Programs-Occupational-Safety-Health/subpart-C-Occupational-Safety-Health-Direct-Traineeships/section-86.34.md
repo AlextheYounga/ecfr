@@ -1,0 +1,3 @@
+##### § 86.34 Evaluation and award of direct traineeships. #####
+
+Within the limits of funds available for such purpose and subject to the regulations of this part, the Secretary may award direct traineeships to those qualified applicants who are in his judgment best able to carry out the purpose of the traineeships taking into consideration the need for training in the area of study specified in the application.

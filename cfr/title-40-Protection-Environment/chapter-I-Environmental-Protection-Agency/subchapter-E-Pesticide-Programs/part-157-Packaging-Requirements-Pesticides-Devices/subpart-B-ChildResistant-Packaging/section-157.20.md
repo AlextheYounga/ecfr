@@ -1,0 +1,3 @@
+##### § 157.20 General. #####
+
+This subpart prescribes requirements for child-resistant packaging of pesticide products and devices. The requirements are established under the authority of FIFRA section 25(a)(1), which authorizes the Administrator to issue regulations to carry out the purposes of the Act, and FIFRA section 25(c)(3), which authorizes the Administrator to establish standards with respect to the package, container or wrapping in which a pesticide or device is enclosed in order to protect children and adults from serious injury or illness resulting from accidental ingestion or contact with pesticides or devices regulated under the Act.

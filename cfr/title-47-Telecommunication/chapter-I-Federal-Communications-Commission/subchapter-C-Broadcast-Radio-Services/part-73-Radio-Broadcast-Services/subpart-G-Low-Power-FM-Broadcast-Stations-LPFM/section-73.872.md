@@ -1,0 +1,45 @@
+##### § 73.872 Selection procedure for mutually exclusive LPFM applications. #####
+
+(a) Following the close of each window for new LPFM stations and for modifications in the facilities of authorized LPFM stations, the Commission will issue a public notice identifying all groups of mutually exclusive applications. Such applications will be awarded points to determine the tentative selectee. Unless resolved by settlement pursuant to paragraph (e) of this section, the tentative selectee will be the applicant within each group with the highest point total under the procedure set forth in this section, except as provided in paragraphs (c) and (d) of this section .
+
+(b) Each mutually exclusive application will be awarded one point for each of the following criteria, based on certifications that the qualifying conditions are met and submission of any required documentation:
+
+(1) *Established community presence.* An applicant must, for a period of at least two years prior to application and at all times thereafter, have qualified as local pursuant to § 73.853(b). Applicants claiming a point for this criterion must submit any documentation specified in FCC Form 318 at the time of filing their applications.
+
+(2) *Local program origination.* The applicant must pledge to originate locally at least eight hours of programming per day. For purposes of this criterion, local origination is the production of programming by the licensee, within ten miles of the coordinates of the proposed transmitting antenna. Local origination includes licensee produced call-in shows, music selected and played by a disc jockey present on site, broadcasts of events at local schools, and broadcasts of musical performances at a local studio or festival, whether recorded or live. Local origination does not include the broadcast of repetitive or automated programs or time-shifted recordings of non-local programming whatever its source. In addition, local origination does not include a local program that has been broadcast twice, even if the licensee broadcasts the program on a different day or makes small variations in the program thereafter.
+
+(3) *Main studio.* The applicant must pledge to maintain a publicly accessible main studio that has local program origination capability, is reachable by telephone, is staffed at least 20 hours per week between 7 a.m. and 10 p.m., and is located within 16.1 km (10 miles) of the proposed site for the transmitting antenna for applicants in the top 50 urban markets and 32.1 km (20 miles) for applicants outside the top 50 urban markets. Applicants claiming a point under this criterion must specify the proposed address and telephone number for the proposed main studio in FCC Form 318 at the time of filing their applications.
+
+(4) *Local program origination and main studio.* The applicant must make both the local program origination and main studio pledges set forth in paragraphs (b)(2) and (3) of this section.
+
+(5) *Diversity of ownership.* An applicant must hold no attributable interests in any other broadcast station.
+
+(6) *Tribal Applicants serving Tribal Lands.* The applicant must be a Tribal Applicant, as defined in § 73.853(c), and the proposed site for the transmitting antenna must be located on that Tribal Applicant's “Tribal Lands,” as defined in § 73.7000. Applicants claiming a point for this criterion must submit the documentation set forth in FCC Form 318 at the time of filing their applications.
+
+(c) *Voluntary time-sharing.* If mutually exclusive applications have the same point total, any two or more of the tied applicants may propose to share use of the frequency by electronically submitting, within 90 days of the release of a public notice announcing the tie, a time-share proposal. Such proposals shall be treated as minor amendments to the time-share proponents' applications, and shall become part of the terms of the station authorization. Where such proposals include all of the tied applications, all of the tied applications will be treated as tentative selectees; otherwise, time-share proponents' points will be aggregated.
+
+(1) Time-share proposals shall be in writing and signed by each time-share proponent, and shall satisfy the following requirements:
+
+(i) The proposal must specify the proposed hours of operation of each time-share proponent;
+
+(ii) The proposal must not include simultaneous operation of the time-share proponents; and
+
+(iii) Each time-share proponent must propose to operate for at least 10 hours per week.
+
+(2) Where a station is authorized pursuant to a time-sharing proposal, a change of the regular schedule set forth therein will be permitted only where a written agreement signed by each time-sharing permittee or licensee and complying with requirements in paragraphs (c)(1)(i) through (iii) of this section is filed with the Commission, Attention: Audio Division, Media Bureau, prior to the date of the change.
+
+(3) Where a station is authorized pursuant to a voluntary time-sharing proposal, the parties to the time-sharing agreement may apportion among themselves any air time that, for any reason, becomes vacant.
+
+(4) Concurrent license terms granted under paragraph (d) of this section may be converted into voluntary time-sharing arrangements renewable pursuant to § 73.3539 by submitting a universal time-sharing proposal.
+
+(d) *Involuntary time-sharing.* (1) If a tie among mutually exclusive applications is not resolved through voluntary time-sharing in accordance with paragraph (c) of this section, the tied applications will be reviewed for acceptability. Applicants with tied, grantable applications will be eligible for equal, concurrent, non-renewable license terms.
+
+(2) If a mutually exclusive group has three or fewer tied, grantable applications, the Commission will simultaneously grant these applications, assigning an equal number of hours per week to each applicant. The Commission will determine the hours assigned to each applicant by first assigning hours to the applicant that has been local, as defined in § 73.853(b), for the longest uninterrupted period of time, then assigning hours to the applicant that has been local for the next longest uninterrupted period of time, and finally assigning hours to any remaining applicant. The Commission will offer applicants an opportunity to voluntarily reach a time-sharing agreement. In the event that applicants cannot reach such agreement, the Commission will require each applicant subject to involuntary time-sharing to simultaneously and confidentially submit their preferred time slots to the Commission. If there are only two tied, grantable applications, the applicants must select between the following 12-hour time slots 3 a.m.-2:59 p.m., or 3 p.m.-2:59 a.m. If there are three tied, grantable applications, each applicant must rank their preference for the following 8-hour time slots: 2 a.m.-9:59 a.m., 10 a.m.-5:59 p.m., and 6 p.m.-1:59 a.m. The Commission will require the applicants to certify that they did not collude with any other applicants in the selection of time slots. The Commission will give preference to the applicant that has been local for the longest uninterrupted period of time. The Commission will award time in units as small as four hours per day. In the event an applicant neglects to designate its preferred time slots, staff will select a time slot for that applicant.
+
+(3) Groups of more than three tied, grantable applications will not be eligible for licensing under this section. Where such groups exist, the Commission will dismiss all but the applications of the three applicants that have been local, as defined in § 73.853(b), for the longest uninterrupted periods of time. The Commission then will process the remaining applications as set forth in paragraph (d)(2) of this section.
+
+(4) If concurrent license terms granted under this section are converted into universal voluntary time-sharing arrangements pursuant to paragraph (c)(4) of this section, the permit or license is renewable pursuant to §§ 73.801 and 73.3539.
+
+(e) *Settlements.* Mutually exclusive applicants may propose a settlement at any time during the selection process after the release of a public notice announcing the mutually exclusive groups. Settlement proposals must comply with the Commission's rules and policies regarding settlements, including the requirements of §§ 73.3525, 73.3588 and 73.3589. Settlement proposals may include time-share agreements that comply with the requirements of paragraph (c) of this section, provided that such agreements may not be filed for the purpose of point aggregation outside of the 90 day period set forth in paragraph (c) of this section.
+
+[65 FR 7640, Feb. 15, 2000, as amended at 65 FR 67304, Nov. 9, 2000; 67 FR 13232, Mar. 21, 2002; 73 FR 3217, Jan. 17, 2008; 78 FR 2108, Jan. 9, 2013]

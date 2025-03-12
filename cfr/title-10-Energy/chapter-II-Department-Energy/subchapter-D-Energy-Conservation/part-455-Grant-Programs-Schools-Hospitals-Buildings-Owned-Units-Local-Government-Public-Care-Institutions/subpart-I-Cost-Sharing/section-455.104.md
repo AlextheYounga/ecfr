@@ -1,0 +1,7 @@
+##### § 455.104 Rebates from utilities and other entities. #####
+
+(a) Grantees which receive rebates or other monetary considerations from utilities or other entities for installing the energy conservation measures funded by a grant under this part may use such funds to meet their cost- sharing obligations pursuant to § 455.100.
+
+(b) Where the rebate or monetary consideration does not exceed the non-Federal share of the cost of the measures applied for in a grant application, grantees are not required to deduct the amount of the rebate or monetary consideration from the cost of the measures, and DOE does not consider such rebates or monetary considerations to be program income which would have to be remitted to DOE upon receipt by the grantee.
+
+(c) Where the rebate or monetary consideration does exceed the non-Federal share of the cost of the measures applied for in a grant application, grantees may use the excess to fund additional measures if such measures have been recommended in the technical assistance report. If it is not possible to use the excess funding in this way, the grantee must reduce the cost—and DOE will reduce the Federal share—by the amount of the excess above the non-Federal share.

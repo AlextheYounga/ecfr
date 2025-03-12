@@ -1,0 +1,5 @@
+##### § 1101.2 Authority and functions. #####
+
+(a) The Council was established by the Federal Financial Institutions Examination Council Act of 1978 (Act), 12 U.S.C. 3301-3308. It is composed of the Comptroller of the Currency; the Chairman of the Federal Deposit Insurance Corporation; a Governor of the Board of Governors of the Federal Reserve System; the Chairman of the Federal Home Loan Bank Board; and the Chairman of the National Credit Union Administration Board.
+
+(b) The statutory functions of the Council are set out at 12 U.S.C. 3305. In summary, the mission of the Council is to promote consistency and progress in federal examination and supervision of financial institutions and their affiliates. The Council is empowered to prescribe uniform principles, standards, and reporting forms and systems; make recommendations in the interest of uniformity; and conduct examiner schools open to personnel of the agencies represented on the Council and employees of state financial institutions supervisory agencies.

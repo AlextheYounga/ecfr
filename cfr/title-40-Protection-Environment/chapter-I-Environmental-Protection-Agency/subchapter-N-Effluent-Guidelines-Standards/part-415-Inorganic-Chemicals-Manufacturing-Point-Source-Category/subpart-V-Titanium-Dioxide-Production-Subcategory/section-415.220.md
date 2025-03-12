@@ -1,0 +1,3 @@
+##### § 415.220 Applicability; description of the titanium dioxide production subcategory. #####
+
+This subpart applies to discharges to waters of the United States and introduction of pollutants into publicly owned treatment works resulting from the production of titanium dioxide by the sulfate process, the chloride process, and the simultaneous beneficiation-chlorination (chloride-ilmenite) process.

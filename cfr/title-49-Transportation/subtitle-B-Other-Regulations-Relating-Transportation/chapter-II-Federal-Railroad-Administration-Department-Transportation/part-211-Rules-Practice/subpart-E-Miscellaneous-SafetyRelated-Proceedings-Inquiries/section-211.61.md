@@ -1,0 +1,3 @@
+##### § 211.61 Informal safety inquiries. #####
+
+The Administrator may conduct informal safety inquiries to collect information on selected topics relating to railroad safety. A notice of each such inquiry will be published in the Federal Register outlining the area of inquiry and inviting interested persons to assist by submitting written material or participating in informal public conferences and discussions. Upon completion of the inquiry, the Administrator will review the information obtained and may, on his own motion, initiate a rulemaking proceeding under § 211.13 or take whatever other action he deems appropriate.

@@ -1,0 +1,3 @@
+##### § 1271.17 Request for confidential regulatory information. #####
+
+A Bank shall make all requests for confidential regulatory information to a financial regulatory agency, or to a regional office of such agency if mutually agreeable, in accordance with the procedures contained in this subpart as well as any procedures of general applicability for requesting information promulgated by such financial regulatory agency. This subpart and its procedures may be supplemented by a confidentiality agreement between a Bank and a financial regulatory agency.

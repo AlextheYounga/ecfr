@@ -1,0 +1,3 @@
+##### § 1215.15 Conflicting court order. #####
+
+Notwithstanding FHFA's rejection of a demand for records, information, or testimony, if a court or other competent authority orders an FHFA employee to comply with the demand, the employee must promptly notify FHFA's General Counsel of the order, and the employee must respectfully decline to comply, citing *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951). An employee's failure to notify the General Counsel of a court or other authority's order is grounds for discipline or other adverse action.

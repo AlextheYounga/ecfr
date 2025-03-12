@@ -1,0 +1,21 @@
+##### § 52.1374 Control strategy: Particulate matter. #####
+
+(a) On July 8, 1997, the Governor of Montana submitted minor revisions to the Columbia Falls, Butte and Missoula PM-10 SIPS.
+
+(b) *Determination*—EPA has determined that the Whitefish PM10 “moderate” nonattainment area attained the PM10 national ambient air quality standard by December 31, 1999. This determination is based on air quality monitoring data from 1997, 1998, and 1999. EPA has determined that the Thompson Falls PM10 “moderate” nonattainment area attained the PM10 national ambient air quality standard by December 31, 2000. This determination is based on air quality monitoring data from 1998, 1999, and 2000.
+
+(c) *Determination of Attainment.* EPA has determined, July 14, 2015, based on quality-assured air monitoring data for 2007-2009 and 2012-2014 ambient air quality data, that the Libby, MT fine particulate matter (PM2.5) nonattainment area attained the 1997 annual PM2.5 national ambient air quality standards (NAAQS). Therefore, EPA has met the requirement of CAA section 188(b)(2) to determine, based on the area's air quality as of the attainment date or as expeditiously as practicable, whether the area attained the 1997 annual PM2.5 NAAQS. Additionally, this determination suspends the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as this area continues to meet the 1997 annual PM2.5 NAAQS. If EPA determines, after notice-and-comment rulemaking, that this area no longer meets the 1997 annual PM2.5 NAAQS, the corresponding determination of attainment for that area shall be withdrawn.
+
+(d) On August 3, 2016, the State of Montana submitted a maintenance plan for the Missoula PM10 nonattainment area and requested that this area be redesignated to attainment for the PM10 National Ambient Air Quality Standards. The redesignation request and maintenance plan satisfy all applicable requirements of the Clean Air Act.
+
+(e) On July 23, 2019, the State of Montana submitted limited maintenance plans for the Columbia Falls, Kalispell and Libby PM10 nonattainment areas and requested that these areas be redesignated to attainment for the PM10 National Ambient Air Quality Standards. The redesignation request and limited maintenance plans satisfy all applicable requirements of the Clean Air Act.
+
+(f) On March 23, 2020, the State of Montana submitted limited maintenance plans for the Butte PM10 nonattainment areas and requested that this area be redesignated to attainment for the PM10 National Ambient Air Quality Standards. The redesignation request and limited maintenance plans satisfy all applicable requirements of the Clean Air Act.
+
+(g) On August 6, 2021, the State of Montana submitted limited maintenance plans for the Whitefish PM10 nonattainment areas and requested that this area be redesignated to attainment for the PM10 National Ambient Air Quality Standards. The redesignation request and limited maintenance plans satisfy all applicable requirements of the Clean Air Act.
+
+(h) On November 4, 2021, the State of Montana submitted limited maintenance plans for the Thompson Falls PM10 nonattainment areas and requested that this area be redesignated to attainment for the PM10 National Ambient Air Quality Standards. The redesignation request and limited maintenance plans satisfy all applicable requirements of the Clean Air Act.
+
+(i) On June 24, 2020, the State of Montana submitted limited maintenance plans for the Libby PM2.5 nonattaiment areas and requested that this area be redesignated to attainment for the PM2.5 National Ambient Air Quality Standards. The redesignation request and limited maintenance plans satisfy all applicable requirements of the Clean Air Act.
+
+[64 FR 68038, Dec. 6, 1999, as amended at 66 FR 55105, Nov. 1, 2001; 80 FR 40912, July 14, 2015; 84 FR 24041, May 24, 2019; 85 FR 38330, June 26, 2020; 86 FR 33549, June 25, 2021; 87 FR 34796, 34799, June 8, 2022; 88 FR 47383, July 24, 2023]

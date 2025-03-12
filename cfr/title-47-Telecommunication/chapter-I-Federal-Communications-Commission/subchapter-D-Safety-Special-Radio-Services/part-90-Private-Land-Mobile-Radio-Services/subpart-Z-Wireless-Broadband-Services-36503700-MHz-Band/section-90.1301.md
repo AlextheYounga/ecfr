@@ -1,0 +1,3 @@
+##### § 90.1301 Scope. #####
+
+This subpart sets out the regulations governing wireless operations in the 3650-3700 MHz band. It includes licensing requirements, and specific operational and technical standards for wireless operations in this band. The rules in this subpart are to be read in conjunction with the applicable requirements contained elsewhere in the Commission's rules; however, in case of conflict, the provisions of this subpart shall govern with respect to licensing and operation in this band.

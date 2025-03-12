@@ -1,0 +1,3 @@
+##### § 763.121 Does this subpart apply to me? #####
+
+If you are a State or local government employer and you are not subject to a State asbestos standard that OSHA has approved under section 18 of the Occupational Safety and Health Act or a State asbestos plan that EPA has exempted from the requirements of this subpart under § 763.123, you must follow the requirements of this subpart to protect your employees from occupational exposure to asbestos.

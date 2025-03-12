@@ -1,0 +1,3 @@
+##### § 150.290 What must I do with fiduciary funds awaiting investment or distribution? #####
+
+If you have investment discretion or discretion over distributions for a fiduciary account which contains funds awaiting investment or distribution, you must ensure that those funds do not remain uninvested and undistributed any longer than is reasonable for the proper management of the account and consistent with applicable law. You also must obtain a rate of return for those funds that is consistent with applicable law.

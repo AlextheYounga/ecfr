@@ -1,0 +1,5 @@
+##### § 39.13 Are airworthiness directives part of the Code of Federal Regulations? #####
+
+Yes, airworthiness directives are part of the Code of Federal Regulations, but they are not codified in the annual edition. FAA publishes airworthiness directives in full in the Federal Register as amendments to § 39.13.
+
+Editorial Note:For a complete list of citations to airworthiness directives published in the Federal Register, consult the following publications: For airworthiness directives published in the Federal Register since 2001, see the entries for 14 CFR 39.13 in the List of CFR Sections Affected, which appears in the “Finding Aids” section of the printed volume and at *www.govinfo.gov.* For citations to prior amendments, see the entries for 14 CFR 39.13 in the separate publications List of CFR Sections Affected, 1973-1985, List of CFR Sections Affected, 1964-1972, and List of CFR Sections Affected, 1986-2000, and the entries for 14 CFR 507.10 in the List of Sections Affected, 1949-1963. See also the annual editions of the Federal Register Index for subject matter references and citations to FAA airworthiness directives.

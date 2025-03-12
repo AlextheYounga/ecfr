@@ -1,0 +1,5 @@
+##### § 61.132 Method of filing concurrences. #####
+
+A carrier proposing to concur in another carrier's effective tariff must deliver one copy of the concurrence to the issuing carrier in whose favor the concurrence is issued. The concurrence must be signed by an officer or agent of the carrier executing the concurrence, and must be numbered consecutively in a separate series from its FCC tariff numbers. At the same time the issuing carrier revises its tariff to reflect such a concurrence, it must file one copy of the concurrence electronically with the Commission in accordance with the requirements set forth in § 61.13 through § 61.17. The concurrence must bear the same effective date as the date of the tariff filing reflecting the concurrence. Carriers shall file revisions reflecting concurrences in their tariffs on the notice period specified in § 61.58.
+
+[76 FR 43216, July 20, 2011]

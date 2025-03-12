@@ -1,0 +1,5 @@
+##### § 1.3 Use of letters and acronym MSHA. #####
+
+The letters and acronym MSHA may be used and substituted for the words “Mine Safety and Health Administration” in correspondence, rules, regulations, and in certificates of approval, approval plates, labels, and markings prescribed by the Mine Safety and Health Administration to designate and denote equipment, devices, and apparatus approved as “permissible” and suitable for use in mines under the applicable parts of Chapter I of this title, and in such other documents, publications, and pamphlets, and on signs, clothing and uniforms, and offices of the Administration and at such times and locations as may be deemed appropriate by the Assistant Secretary of Labor for Mine Safety and Health.
+
+[39 FR 23997, June 28, 1974, as amended at 43 FR 12312, Mar. 24, 1978]

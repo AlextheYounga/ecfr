@@ -1,0 +1,3 @@
+##### § 303.3 General filing procedures. #####
+
+Unless stated otherwise, filings should be submitted to the appropriate FDIC office. Forms and instructions for submitting filings may be obtained from any FDIC regional director. If no form is prescribed, the filing should be in writing; be signed by the applicant or a duly authorized agent; and contain a concise statement of the action requested. For specific filing and content requirements, consult the appropriate subparts of this part. The FDIC may require the applicant to submit additional information.

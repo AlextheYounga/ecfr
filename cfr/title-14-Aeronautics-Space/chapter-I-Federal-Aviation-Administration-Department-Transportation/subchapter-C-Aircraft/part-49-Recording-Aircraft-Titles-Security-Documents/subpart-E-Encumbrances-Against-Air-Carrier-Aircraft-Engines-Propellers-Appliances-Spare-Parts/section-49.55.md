@@ -1,0 +1,7 @@
+##### § 49.55 Recording of releases, cancellations, discharges, and satisfactions: special requirements. #####
+
+(a) A release, cancellation, discharge, or satisfaction of an encumbrance on all of the collateral listed in an instrument recorded under this subpart, or on all of the collateral at a particular location, must be in a form equivalent to AC Form 8050-41, signed by the holder of all of the collateral at the particular location, and contain a description of the encumbrance, the recording information furnished to the holder at the time of recording, and the location of the released collateral.
+
+(b) If the encumbrance on collateral at all of the locations listed in an instrument recorded under this subpart is released, canceled, discharged, or satisfied, the locations need not be listed. However, the document must state that all of the collateral at all of the locations listed in the encumbrance has been so released, canceled, discharged, or satisfied. The original recorded document must be clearly identified by the names of the parties, the date of recording by the FAA, and the document number.
+
+[Doc. No. 1996, 29 FR 6486, May 19, 1964, as amended by Amdt. 49-1, 31 FR 4499, Mar. 17, 1966; Amdt. 49-7, 37 FR 25487, Dec. 1, 1972]

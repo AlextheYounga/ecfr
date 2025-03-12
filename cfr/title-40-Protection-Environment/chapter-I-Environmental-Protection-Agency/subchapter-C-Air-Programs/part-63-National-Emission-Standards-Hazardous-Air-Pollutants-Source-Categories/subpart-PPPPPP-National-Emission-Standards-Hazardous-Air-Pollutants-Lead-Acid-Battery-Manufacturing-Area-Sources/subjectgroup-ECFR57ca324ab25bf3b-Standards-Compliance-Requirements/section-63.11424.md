@@ -1,0 +1,43 @@
+##### § 63.11424 What are the recordkeeping and reporting requirements for this subpart? #####
+
+(a) You must keep the records specified in this section according to the applicable compliance date in § 63.11422(f) and (g) or (i) and maintain them in a format readily available for review onsite for a period of 5 years.
+
+(1) Records of pressure drop values and the liquid flow rate from the monitoring required in § 63.11423(e)(1) for scrubbing systems.
+
+(2) Records of fabric filter inspections and maintenance activities required in § 63.11423(e)(2)(i) or (e)(3)(i).
+
+(3) Records required under § 63.11423(e)(2)(iii) or (e)(3)(iii) of fabric filter pressure drop, pressure drop observed outside of normal operating ranges as specified by the manufacturer, and corrective actions taken.
+
+(4) Records of the required visible emissions observations in § 63.11423(e)(2)(iv) or (e)(3)(iv).
+
+(5) You must keep the records of failures to meet an applicable standard in this part as specified in paragraphs (a)(5)(i) through (iii) of this section.
+
+(i) In the event that an affected unit fails to meet an applicable standard in this part, record the number of failures. For each failure record the date, time, cause, and duration of each failure.
+
+(ii) For each failure to meet an applicable standard in this part, record and retain a list of the affected sources or equipment, an estimate of the quantity of each regulated pollutant emitted over any emission limit and a description of the method used to estimate the emissions.
+
+(iii) Record actions taken to minimize emissions and any corrective actions taken to return the affected unit to its normal or usual manner of operation.
+
+(6) If a bag leak detection system is used under § 63.11423(e)(4), for a period of 5 years keep the records, specified in paragraphs (a)(6)(i) through (iii) of this section.
+
+(i) Electronic records of the bag leak detection system output.
+
+(ii) An identification of the date and time of all bag leak detection system alarms, the time that procedures to determine the cause of the alarm were initiated, the cause of the alarm, an explanation of the corrective actions taken, and the date and time the cause of the alarm was corrected.
+
+(iii) All records of inspections and maintenance activities required under § 63.11423(e)(4).
+
+(7) Records of all cleaning required as part of the practices described in the fugitive dust mitigation plan required under § 63.11423(d)(2)(iii) for the control of fugitive dust emissions.
+
+(b) Beginning on April 24, 2023, within 60 days after the date of completing each performance test or demonstration of compliance required by this subpart, you must submit the results of the performance test following the procedures specified in § 63.9(k) and paragraphs (b)(1) through (3) of this section.
+
+(1) *Data collected using test methods supported by the EPA's Electronic Reporting Tool (ERT) as listed on the EPA's ERT website (https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert) at the time of the test.* Submit the results of the performance test to the EPA via the Compliance and Emissions Data Reporting Interface (CEDRI), which can be accessed through the EPA's Central Data Exchange (CDX) (*https://cdx.epa.gov/*). The data must be submitted in a file format generated using the EPA's ERT. Alternatively, you may submit an electronic file consistent with the extensible markup language (XML) schema listed on the EPA's ERT website.
+
+(2) *Data collected using test methods that are not supported by the EPA's ERT as listed on the EPA's ERT website at the time of the test.* The results of the performance test must be included as an attachment in the ERT or an alternate electronic file consistent with the XML schema listed on the EPA's ERT website. Submit the ERT generated package or alternative file to the EPA via CEDRI. If a performance test consists only of opacity measurements, reporting using the ERT and CEDRI is not required.
+
+(3) *Data collected containing confidential business information (CBI).* All CBI claims must be asserted at the time of submission. Do not use CEDRI to submit information you claim as CBI. Anything submitted using CEDRI cannot later be claimed CBI. Although we do not expect persons to assert a claim of CBI, if you wish to assert a CBI claim for some of the information submitted under paragraph (b)(1) or (2) of this section, you must submit a complete file, including information claimed to be CBI, to the EPA. The file must be generated using the EPA's ERT or an alternate electronic file consistent with the XML schema listed on the EPA's ERT website. The preferred method to submit CBI is for it to be transmitted electronically using email attachments, File Transfer Protocol (FTP), or other online file sharing services (e.g., Dropbox, OneDrive, Google Drive). Electronic submissions must be transmitted directly to the OAQPS CBI Office at the email address *oaqpscbi@epa.gov,* and as described in this paragraph (b)(3), should include clear CBI markings and note the docket ID. If assistance is needed with submitting large electronic files that exceed the file size limit for email attachments, and if you do not have your own file sharing service, please email *oaqpscbi@epa.gov* to request a file transfer link. If sending CBI information through the postal service, submit the file on a compact disc, flash drive, or other commonly used electronic storage medium and clearly mark the medium as CBI. Mail the electronic medium to U.S. EPA/OAQPS/CORE CBI Office, Attention: Lead Acid Battery Manufacturing Sector Lead, MD C404-02, 4930 Old Page Rd., Durham, NC 27703. The same file with the CBI omitted must be submitted to the EPA via the EPA's CDX as described in paragraphs (b)(1) and (2) of this section. Under CAA section 114(c), emissions data is not entitled to confidential treatment, and the EPA is required to make emissions data available to the public. Thus, emissions data will not be protected as CBI and will be made publicly available.
+
+(c) Beginning on February 23, 2024, or once the report template for this subpart has been available on the CEDRI website for one year, whichever date is later, you must submit a report of excess emissions and monitoring systems performance report and summary report according to §§ 63.9(k) and 63.10(e)(3) to the Administrator semiannually. Report the number of failures to meet an applicable standard in this part. For each instance, report the date, time, cause, and duration of each failure. For each failure, the report must include a list of the affected sources or equipment, an estimate of the quantity of each regulated pollutant emitted over any emission limit, and a description of the method used to estimate the emissions. You must use the appropriate electronic report template on the CEDRI website (*https://www.epa.gov/electronic-reporting-air-emissions/cedri*) or an alternate electronic file consistent with the XML schema listed on the CEDRI website for this subpart. The date report templates become available will be listed on the CEDRI website. Unless the Administrator or delegated state agency or other authority has approved a different schedule for submission of reports, the report must be submitted by the deadline specified in this subpart, regardless of the method in which the report is submitted. Submit all reports to the EPA via CEDRI, which can be accessed through the EPA's CDX (*https://cdx.epa.gov/*). The EPA will make all the information submitted through CEDRI available to the public without further notice to you. Do not use CEDRI to submit information you claim as CBI. Anything submitted using CEDRI cannot later be claimed CBI. The report must be submitted by the deadline specified in this subpart, regardless of the method in which the report is submitted. Although we do not expect persons to assert a claim of CBI, if you wish to assert a CBI claim, follow the requirements specified in paragraph (b)(3) of this section. The same file with the CBI omitted must be submitted to the EPA via the EPA's CDX as described earlier in this paragraph (c).
+
+(d) Any records required to be maintained by this subpart that are submitted electronically via the EPA's CEDRI may be maintained in electronic format. This ability to maintain electronic copies does not affect the requirement for facilities to make records, data, and reports available upon request to a delegated air agency or the EPA as part of an on-site compliance evaluation.
+
+[88 FR 11594, Feb. 23, 2023]

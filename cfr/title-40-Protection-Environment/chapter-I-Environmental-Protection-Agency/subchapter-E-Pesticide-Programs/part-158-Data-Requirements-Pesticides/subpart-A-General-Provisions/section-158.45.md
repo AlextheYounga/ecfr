@@ -1,0 +1,9 @@
+##### § 158.45 Waivers. #####
+
+(a) The data requirements specified in this part as applicable to a category of products will not always be appropriate for every product in that category. Some products may have unusual physical, chemical, or biological properties or atypical use patterns which would make particular data requirements inappropriate, either because it would not be possible to generate the required data or because the data would not be useful in the Agency's evaluation of the risks or benefits of the product. The Agency will waive data requirements it finds are inappropriate, but will ensure that sufficient data are available to make the determinations required by the applicable statutory standards.
+
+(b)(1) Applicants are encouraged to discuss a data waiver request with the Agency before developing and submitting supporting data, information, or other materials.
+
+(2) All waiver requests must be submitted to the Agency in writing. The request must clearly identify the data requirement(s) for which a waiver is sought along with an explanation and supporting rationale why the applicant believes the data requirement should be waived. In addition, the applicant must describe any unsuccessful attempts to generate the required data, furnish any other information which the applicant(s) believe(s) would support the request, and when appropriate, suggest alternative means of obtaining data to address the concern which underlies the data requirement.
+
+(c) The Agency will review each waiver request and subsequently inform the applicant in writing of its decision. If the decision could apply to more than the requested product, the Agency, in its discretion, may choose to send a notice to all registrants or publish a notice in the Federal Register announcing the decision. An Agency decision denying a written request to waive a data requirement is a final Agency action.

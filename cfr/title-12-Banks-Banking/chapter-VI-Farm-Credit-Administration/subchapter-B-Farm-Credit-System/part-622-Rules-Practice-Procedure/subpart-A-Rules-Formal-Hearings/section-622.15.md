@@ -1,0 +1,3 @@
+##### § 622.15 Oral argument before the Board. #####
+
+Upon its own initiative or upon written request by any party, the Board, in its discretion, may order the matter to be set down for oral argument before the Board or one or more members thereof. Any request for oral argument by a party filing exceptions shall be made within the time prescribed for filing such exceptions, or by any other party, within the time prescribed for the filing of a reply brief. Oral argument before the Board shall be recorded unless otherwise ordered by the Board.

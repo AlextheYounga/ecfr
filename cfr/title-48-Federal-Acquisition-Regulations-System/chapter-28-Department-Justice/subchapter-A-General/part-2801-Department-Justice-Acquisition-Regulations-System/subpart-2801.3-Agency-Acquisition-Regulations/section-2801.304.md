@@ -1,0 +1,3 @@
+##### 2801.304 Agency control and compliance procedures. #####
+
+Pursuant to FAR 1.304, the Procurement Executive (PE) is responsible for ensuring that bureau acquisition regulations and directives do not restrain the flexibilities found in the FAR. For this reason, bureau acquisition regulations shall be forwarded to the PE upon issuance. The PE reserves the right to revoke the regulations and directives in this chapter if they are determined to be restrictive.

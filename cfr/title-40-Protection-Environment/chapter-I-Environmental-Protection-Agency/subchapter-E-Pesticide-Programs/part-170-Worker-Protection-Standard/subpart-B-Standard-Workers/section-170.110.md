@@ -1,0 +1,59 @@
+##### § 170.110 Restrictions associated with pesticide applications. #####
+
+(a) *Farms and forests.* During the application of any pesticide on a farm or in a forest, the agricultural employer shall not allow or direct any person, other than an appropriately trained and equipped handler, to enter or to remain in the treated area.
+
+(b) *Nurseries.* In a nursery, during any pesticide application described in column A of Table 1 of this paragraph, the agricultural employer shall not allow or direct any person, other than an appropriately trained and equipped handler, to enter or to remain in the area specified in column B of Table 1 of this paragraph. After the application is completed, until the end of any restricted-entry interval, the entry-restricted area is the treated area.
+
+|                                             A. During Application of a Pesticide:                                              |               B. Workers are Prohibited in:               |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+|                                                        (1)(a) Applied:                                                         |Treated area plus 100 feet in all directions on the nursery|
+|                                                        (i) Aerially, or                                                        |                                                           |
+|                                                (ii) In an upward direction, or                                                 |                                                           |
+|                                     (iii) Using a spray pressure greater than 150 psi, or                                      |                                                           |
+|                                                       (b) Applied as a:                                                        |                                                           |
+|                                                        (i) Fumigant, or                                                        |                                                           |
+|                                                         (ii) Smoke, or                                                         |                                                           |
+|                                                         (iii) Mist, or                                                         |                                                           |
+|                                                          (iv) Fog, or                                                          |                                                           |
+|                                                          (v) Aerosol.                                                          |                                                           |
+|                                                 (2)(a) Applied downward using:                                                 | Treated are plus 25 feet in all directions on the nursery |
+|                              (i) A height of greater than 12 inches from the planting medium, or                               |                                                           |
+|                                                     (ii) A fine spray, or                                                      |                                                           |
+|                               (iii) A spray pressure greater than 40 psi and less than 150 psi.                                |                                                           |
+|(b) Not as in 1 or 2(a) above but for which a respiratory protection device is required for application by the product labeling.|                                                           |
+|                                                     (3) Applied otherwise.                                                     |                       Treated area                        |
+
+(c) *Greenhouses.* (1) When a pesticide application described in column A of Table 2 under paragraph (c)(4) of this section takes place in a greenhouse, the agricultural employer shall not allow or direct any person, other than an appropriately trained and equipped handler, to enter or to remain in the area specified in column B of Table 2 until the time specified in column C of Table 2 has expired.
+
+(2) After the time specified in column C of Table 2 under paragraph (c)(4) of this section has expired, until the expiration of any restricted-entry interval, the agricultural employer shall not allow or direct any worker to enter or to remain in the treated area as specified in column D of Table 2 under paragraph (c)(4) of this section, except as provided in § 170.112.
+
+(3) When column C of Table 2 under paragraph (c)(4) of this section specifies that ventilation criteria must be met, ventilation shall continue until the air concentration is measured to be equal to or less than the inhalation exposure level the labeling requires to be achieved. If no inhalation exposure level is listed on the labeling, ventilation shall continue until after:
+
+(i) Ten air exchanges are completed; or
+
+(ii) Two hours of ventilation using fans or other mechanical ventilating systems; or
+
+(iii) Four hours of ventilation using vents, windows or other passive ventilation; or
+
+(iv) Eleven hours with no ventilation followed by 1 hour of mechanical ventilation; or
+
+(v) Eleven hours with no ventilation followed by 2 hours of passive ventilation; or
+
+(vi) Twenty-four hours with no ventilation.
+
+(4) The following Table 2 applies to paragraphs (c) (1), (2), and (3) of this section.
+
+|                                             A. When a Pesticide is Applied:                                              |                                B. Workers are Prohibited in:                                |                             C. Until:                              |D. After the Expiration of Time in Column C Until the Restricted-Entry Interval Expires, the Entry-Restricted Area is:|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+|                                                    (1) As a fumigant                                                     |Entire greenhouse plus any adjacent structure that cannot be sealed off from the treated area|The ventilation criteria of paragraph (c)(3) of this section are met|                               No entry restrictions after criteria in column C are met                               |
+|                                                         (2) As a                                                         |                                    Entire enclosed area                                     |The ventilation criteria of paragraph (c)(3) of this section are met|                                       Entire enclosed area is the treated area                                       |
+|                                                      (i) Smoke, or                                                       |                                                                                             |                                                                    |                                                                                                                      |
+|                                                      (ii) Mist, or                                                       |                                                                                             |                                                                    |                                                                                                                      |
+|                                                      (iii) Fog, or                                                       |                                                                                             |                                                                    |                                                                                                                      |
+|                                                       (iv) Aerosol                                                       |                                                                                             |                                                                    |                                                                                                                      |
+|(3) Not in 1 or 2 above, and for which a respiratory protection device is required for application by the product labeling|                                    Entire enclosed area                                     |The ventilation criteria of paragraph (c)(3) of this section are met|                                                     Treated area                                                     |
+|                                            (4) Not in 1, 2, or 3 above, and:                                             |              Treated area plus 25 feet in all directions in the enclosed area               |                      Application is complete                       |                                                     Treated area                                                     |
+|                          (i) From a height of greater than 12 in. from the planting medium, or                           |                                                                                             |                                                                    |                                                                                                                      |
+|                                                 (ii) As a fine spray, or                                                 |                                                                                             |                                                                    |                                                                                                                      |
+|                                     (iii) Using a spray pressure greater than 40 psi                                     |                                                                                             |                                                                    |                                                                                                                      |
+|                                                      (5) Otherwise                                                       |                                        Treated area                                         |                      Application is complete                       |                                                     Treated area                                                     |

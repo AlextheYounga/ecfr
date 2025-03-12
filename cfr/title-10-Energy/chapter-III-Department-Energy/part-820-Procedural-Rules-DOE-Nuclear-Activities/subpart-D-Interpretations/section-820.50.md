@@ -1,0 +1,3 @@
+##### § 820.50 Purpose and scope. #####
+
+This subpart provides for interpretations of the Act, Nuclear Statutes, and DOE Nuclear Safety Requirements. Any written or oral response to any written or oral question which is not provided pursuant to this subpart does not constitute an interpretation and does not provide any basis for action inconsistent with the Act, a Nuclear Statute, or a DOE Nuclear Safety Requirement.

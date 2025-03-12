@@ -1,0 +1,3 @@
+##### § 137.405 Is the Secretary required to report to Congress on administration of Title V and the funding requirements presently funded or unfunded? #####
+
+Yes, no later than January 1 of each year after the date of enactment of the Tribal Self-Governance Amendments of 2000, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Resources of the House of Representatives a written report regarding the administration of Title V. The report shall include a detailed analysis of the funding requirements presently funded or unfunded for each Indian Tribe or Tribal organization, either directly by the Secretary, under self-determination contracts under Title I, or under compacts and funding agreements authorized under Title V.

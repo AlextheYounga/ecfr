@@ -1,0 +1,23 @@
+##### § 603.225 Benefits of using a TIA. #####
+
+Before deciding that a TIA is appropriate, the contracting officer also must judge that using a TIA could benefit the RD&D objectives in ways that likely would not happen if another type of assistance instrument were used (e.g., a cooperative agreement subject to all of the requirements of 10 CFR part 600). The contracting officer, in conjunction with Government program officials, must consider the questions in paragraphs (a) through (d) of this section, to help identify the benefits that may justify using a TIA and reducing some of the usual requirements. The contracting officer must report the answers to these questions to help the DOE measure the benefits of using a TIA. Note full concise answers are required only to questions that relate to the benefits perceived for using the TIA, rather than another type of funding instrument, for the particular project. A simple “no” or “not applicable” is a sufficient response for other questions. The questions are:
+
+(a) Will the use of a TIA permit the involvement of any commercial firms or business units of firms that would not otherwise participate in the project? If so:
+
+(1) What are the expected benefits of those firms' or divisions' participation (e.g., is there a specific technology that could be better, more readily available, or less expensive)?
+
+(2) Why would they not participate if an instrument other than a TIA were used? The contracting officer should identify specific provisions of the TIA or features of the TIA award process that enable their participation. For example, if the RD&D effort is based substantially on a for-profit firm's privately developed technology and the Government may be a major user of any commercial product developed as a result of the award, a for-profit firm may not participate unless the Government's intellectual property rights in the technology are modified.
+
+(b) Will the use of a TIA allow the creation of new relationships among participants in a consortium, at the prime or subtier levels, among business units of the same firm, or between non-Federal participants and the Federal Government that will foster better technology? If so:
+
+(1) Why do these new relationships have the potential for fostering technology that is better, more affordable, or more readily available?
+
+(2) Are there provisions of the TIA or features of the TIA award process that enable these relationships to form? If so, the contracting officer should be able to identify specifically what they are. If not, the contracting officer should be able to explain specifically why the relationships could not be created if another type of assistance instrument were used. For example, a large business firm may not be willing to participate in a consortium or teaming arrangement with small business firms and nonprofit firms under a standard cooperative agreement because those entities have invention rights under the Bayh-Dole statute that are not available to large businesses. A large business firm may be willing to participate in a consortium or teaming arrangement only if all partners are substantially equal with regard to the allocation of intellectual property rights.
+
+(c) Will the use of a TIA allow firms or business units of firms that traditionally accept Government awards to use new business practices in the execution of the RD&D project that will foster better technology, new technology more quickly or less expensively, or facilitate partnering with commercial firms? If so:
+
+(1) What specific benefits result from the use of these new practices? The contracting officer should be able to explain specifically the potential for those benefits.
+
+(2) Are there provisions of the TIA or features of the TIA award process that enable the use of the new practices? If so, the contracting officer should be able to identify those provisions or features and explain why the practices could not be used if the award were made using another type of assistance instrument.
+
+(d) Are there any other benefits of the use of a TIA that could help DOE meet its objectives in carrying out the project? If so, the contracting officer should be able to identify specifically what they are, how they can help meet the objectives, what features of the TIA or award process enable DOE to realize them, and why the benefits likely would not be realized if an assistance instrument other than a TIA were used.

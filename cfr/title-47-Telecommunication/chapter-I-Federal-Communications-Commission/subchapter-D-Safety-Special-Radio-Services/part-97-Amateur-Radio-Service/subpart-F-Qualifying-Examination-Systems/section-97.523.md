@@ -1,0 +1,3 @@
+##### § 97.523 Question pools. #####
+
+All VECs must cooperate in maintaining one question pool for each written examination element. Each question pool must contain at least 10 times the number of questions required for a single examination. Each question pool must be published and made available to the public prior to its use for making a question set. Each question on each VEC question pool must be prepared by a VE holding the required FCC-issued operator license. See § 97.507(a) of this part.

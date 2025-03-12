@@ -1,0 +1,13 @@
+##### § 178.338-16 Inspection and testing. #####
+
+(a) *General.* The material of construction of a tank and its appurtenances must be inspected for conformance to Section VIII of the ASME Code (IBR, see § 171.7 of this subchapter). The tank must be subjected to either a hydrostatic or pneumatic test. The test pressure must be one and one-half times the sum of the design pressure, plus static head of lading, plus 101.3 kPa (14.7 psi) if subjected to external vacuum, except that for tanks constructed in accordance with Part UHT in Section VIII of the ASME Code the test pressure must be twice the design pressure.
+
+(b) *Additional requirements for pneumatic test.* A pneumatic test may be used in place of the hydrostatic test. Due regard for protection of all personnel should be taken because of the potential hazard involved in a pneumatic test. The pneumatic test pressure in the tank must be reached by gradually increasing the pressure to one-half of the test pressure. Thereafter, the test pressure must be increased in steps of approximately one-tenth of the test pressure until the required test pressure has been reached. Then the pressure must be reduced to a value equal to four-fifths of the test pressure and held for a sufficient time to permit inspection of the cargo tank for leaks.
+
+(c) *Weld inspection.* All tank shell or head welds subject to pressure shall be radiographed in accordance with Section VIII of the ASME Code. A tank which has been subjected to inspection by the magnetic particle method, the liquid penetrant method, or any method involving a material deposit on the interior tank surface, must be cleaned to remove any such residue by scrubbing or equally effective means, and all such residue and cleaning solution must be removed from the tank prior to final closure of the tank.
+
+(d) *Defect repair.* All cracks and other defects must be repaired as prescribed in Section VIII of the ASME Code. The welder and the welding procedure must be qualified in accordance with Section IX of the ASME Code (IBR, see § 171.7 of this subchapter). After repair, the tank must again be postweld heat-treated, if such heat treatment was previously performed, and the repaired areas must be retested.
+
+(e) Verification must be made of the interior cleanliness of a tank constructed for oxygen service by means that assure that all contaminants that are likely to react with the lading have been removed as required by § 178.338-15.
+
+[Amdt. 178-77, 48 FR 27706, June 16, 1983, as amended at 49 FR 24317, June 12, 1984; 49 FR 42736, Oct. 24, 1984; 68 FR 75755, Dec. 31, 2003]

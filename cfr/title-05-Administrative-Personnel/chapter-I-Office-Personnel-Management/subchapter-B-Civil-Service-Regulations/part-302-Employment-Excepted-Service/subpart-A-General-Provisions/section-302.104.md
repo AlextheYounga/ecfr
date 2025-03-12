@@ -1,0 +1,3 @@
+##### § 302.104 Applicability of regulations to applicants and employees. #####
+
+Each agency shall follow the provisions of this part relating to examination, rating, and selection for appointment of an applicant when a qualified preference eligible or person entitled to priority consideration applies for appointment to a position covered by this part. Each agency, in its discretion, may follow these provisions when no preference eligible or person entitled to priority consideration applies.

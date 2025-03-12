@@ -1,0 +1,19 @@
+##### § 430.36 Pretreatment standards for existing sources (PSES). #####
+
+Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart that introduces pollutants into a publicly owned treatment works must: comply with 40 CFR part 403; and achieve the following pretreatment standards for existing sources (PSES) if it uses chlorophenolic-containing biocides. Permittees not using chlorophenolic-containing biocides must certify to the permit-issuing authority that they are not using those biocides. PSES must be attained on or before July 1, 1984:
+
+|                                                              Pollutant or pollutant property                                                              |                 Maximum for any 1 day                 |       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------|
+|                                                                     Milligrams/liter                                                                      |Kg/kkg (or pounds per 1,000 lb) of product <sup>a</sup>|       |
+|                                                                     Pentachlorophenol                                                                     |                    (0.011)(12.6)/y                    |0.00058|
+|                                                                      Trichlorophenol                                                                      |                    (0.010)(12.6)/y                    |0.00053|
+|                                                   y = wastewater discharged in kgal per ton of product.                                                   |                                                       |       |
+|<sup>a</sup> The following equivalent mass limitations are provided as guidance in cases where POTWs find it necessary to impose mass effluent limitations.|                                                       |       |
+
+|                                                              Pollutant or pollutant property                                                              |                 Maximum for any 1 day                 |       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------|
+|                                                                     Milligrams/liter                                                                      |Kg/kkg (or pounds per 1,000 lb) of product <sup>a</sup>|       |
+|                                                                     Pentachlorophenol                                                                     |                    (0.011)(14.0)/y                    |0.00064|
+|                                                                      Trichlorophenol                                                                      |                    (0.010)(14.0)/y                    |0.00059|
+|                                                   y = wastewater discharged in kgal per ton of product.                                                   |                                                       |       |
+|<sup>a</sup> The following equivalent mass limitations are provided as guidance in cases where POTWs find it necessary to impose mass effluent limitations.|                                                       |       |

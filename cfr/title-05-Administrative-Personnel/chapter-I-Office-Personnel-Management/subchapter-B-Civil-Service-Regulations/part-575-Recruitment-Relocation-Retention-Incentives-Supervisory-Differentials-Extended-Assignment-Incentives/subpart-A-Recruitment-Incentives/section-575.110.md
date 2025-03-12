@@ -1,0 +1,17 @@
+##### § 575.110 Service agreement requirements. #####
+
+(a) Before paying a recruitment incentive, an agency must require the employee to sign a written service agreement to complete a specified period of employment with the agency (or successor agency in the event of a transfer of function). An authorized agency official must establish the criteria for determining the length of a service period. The service period may not be less than 6 months and may not exceed 4 years.
+
+(b)(1) The service agreement must include the commencement and termination dates of the required service period. Except as provided in paragraphs (b)(2) and (b)(3) of this section, the required service period must begin upon the commencement of service with the agency. The service period must terminate on the last day of a pay period.
+
+(2) If service with the agency does not begin on the first day of a pay period, the agency must delay the service period commencement date so that a required service period begins on the first day of the first pay period beginning on or after the commencement of service in the agency.
+
+(3) An agency may delay a service agreement commencement date until after the employee completes an initial period of formal training or required probationary period when continued employment in the position is contingent on successful completion of the formal training or probationary period. The agency must make the determination to pay a recruitment incentive before the employee enters on duty in the position. However, the service agreement must specify that if an employee does not successfully complete the training or probationary period before the service period commences, the agency is not obligated to pay any portion of the recruitment incentive to the employee.
+
+(c) The service agreement must specify the total amount of the incentive, the method of paying the incentive, and the timing and amounts of each incentive payment, as established under § 575.109.
+
+(d) The service agreement must include the conditions under which the agency must terminate the service agreement (*i.e.*, if an employee is demoted or separated for cause, receives a rating of record of less than “Fully Successful” or equivalent, or otherwise fails to fulfill the terms of the service agreement) and the conditions under which the employee must repay a recruitment incentive under § 575.111.
+
+(e) The service agreement must include the conditions under which the agency may terminate the service agreement before the employee completes the agreed-upon service period. The service agreement must specify the effect of a termination under § 575.111, including the conditions under which the agency will pay an additional recruitment incentive payment for partially completed service under § 575.111(e) and (f).
+
+(f) The service agreement may include any other terms or conditions that, if violated, will result in termination of the service agreement under § 575.111(b). For example, the service agreement may specify the employee's work schedule, type of position, and the duties he or she is expected to perform. In addition, the service agreement may address the extent to which periods of time on detail, in a nonpay status, or in a paid leave status are creditable towards the completion of the service period.

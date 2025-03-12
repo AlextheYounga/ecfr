@@ -1,0 +1,5 @@
+##### § 69.303 Information origination/termination equipment (IOT). #####
+
+Investment in all other IOT shall be apportioned between the Special Access and Common Line elements on the basis of the relative number of equivalent lines in use, as provided herein. Each interstate or foreign Special Access Line, excluding lines designated in § 69.115(e), shall be counted as one or more equivalent lines where channels are of higher than voice bandwidth, and the number of equivalent lines shall equal the number of voice capacity analog or digital channels to which the higher capacity is equivalent. Local exchange subscriber lines shall be multiplied by the interstate Subscriber Plant Factor to determine the number of equivalent local exchange subscriber lines.
+
+[52 FR 37312, Oct. 6, 1987, as amended at 62 FR 31938, June 11, 1997]

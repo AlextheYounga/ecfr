@@ -1,0 +1,23 @@
+##### § 63.1658 Notification requirements. #####
+
+(a) As required by § 63.9(b) of subpart A, unless otherwise specified in this subpart, the owner or operator must submit the following written notifications to the Administrator:
+
+(1) The owner or operator of an area source that subsequently becomes subject to the requirements of the standard must provide notification to the applicable permitting authority as required by § 63.9(b)(1).
+
+(2) As required by § 63.9(b)(2), the owner or operator of an affected source that has an initial startup before the effective date of the standard must notify the Administrator that the source is subject to the requirements of the standard. The notification must be submitted no later than 120 calendar days after May 20, 1999 (or within 120 calendar days after the source becomes subject to this standard) and must contain the information specified in § 63.9(b)(2)(i) through (b)(2)(v).
+
+(3) As required by § 63.9(b)(3), the owner or operator of a new or reconstructed affected source, or a source that has been reconstructed such that it is an affected source, that has an initial startup after the effective date and for which an application for approval of construction or reconstruction is not required under § 63.5(d), must notify the Administrator in writing that the source is subject to the standards no later than 120 days after initial startup. The notification must contain the information specified in § 63.9(b)(2)(i) through (b)(2)(v), delivered or postmarked with the notification required in § 63.9(b)(5).
+
+(4) As required by § 63.9(b)(4), the owner or operator of a new or reconstructed major affected source that has an initial startup after the effective date of this standard and for which an application for approval of construction or reconstruction is required under § 63.5(d) must provide the information specified in § 63.9(b)(4)(i) through (b)(4)(v).
+
+(5) As required by § 63.9(b)(5), the owner or operator who, after the effective date of this standard, intends to construct a new affected source or reconstruct an affected source subject to this standard, or reconstruct a source such that it becomes an affected source subject to this standard, must notify the Administrator, in writing, of the intended construction or reconstruction.
+
+(b) *Request for extension of compliance.* As required by § 63.9(c), if the owner or operator of an affected source cannot comply with this standard by the applicable compliance date for that source, or if the owner or operator has installed BACT or technology to meet LAER consistent with § 63.6(i)(5), he or she may submit to the Administrator (or the State with an approved permit program) a request for an extension of compliance as specified in § 63.6(i)(4) through (i)(6).
+
+(c) *Notification that source is subject to special compliance requirements.* As required by § 63.9(d), an owner or operator of a new source that is subject to special compliance requirements as specified in § 63.6(b)(3) and (b)(4) must notify the Administrator of his or her compliance obligations no later than the notification dates established in § 63.9(b) for new sources that are not subject to the special provisions.
+
+(d) *Notification of performance test.* As required by § 63.9(e), the owner or operator of an affected source must notify the Administrator in writing of his or her intention to conduct a performance test at least 30 calendar days before the performance test is scheduled to begin to allow the Administrator to review and approve the site-specific test plan required under § 63.7(c) and to have an observer present during the test.
+
+(e) *Notification of opacity and visible emission observations.* As required by § 63.9(f), the owner or operator of an affected source must notify the Administrator in writing of the anticipated date for conducting the opacity or visible emission observations specified in § 63.6(h)(5). The notification must be submitted with the notification of the performance test date, as specified in paragraph (d) of this section, or if visibility or other conditions prevent the opacity or visible emission observations from being conducted concurrently with the initial performance test required under § 63.7, the owner or operator must deliver or postmark the notification not less than 30 days before the opacity or visible emission observations are scheduled to take place.
+
+(f) *Notification of compliance status.* The owner or operator of an affected source must submit a notification of compliance status as required by § 63.9(h). The notification must be sent before the close of business on the 60th day following completion of the relevant compliance demonstration.

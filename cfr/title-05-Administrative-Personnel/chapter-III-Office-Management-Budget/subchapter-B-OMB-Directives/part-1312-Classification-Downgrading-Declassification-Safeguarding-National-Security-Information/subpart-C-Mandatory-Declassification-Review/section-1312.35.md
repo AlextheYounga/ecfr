@@ -1,0 +1,3 @@
+##### § 1312.35 Information classified by another agency. #####
+
+When a request is received for information that was classified by another agency, the Associate Director (or Assistant Director) for Administration will forward the request, along with any other related materials, to the appropriate agency for review and determination as to release. Recommendations as to release or denial may be made if appropriate. The requester will be notified of the referral, unless the receiving agency objects on the grounds that its association with the information requires protection.

@@ -1,0 +1,3 @@
+##### § 15.609 Marketing of Access BPL equipment. #####
+
+The marketing of Access BPL equipment must be directed solely to parties eligible to operate the equipment. Eligible parties consist of AC power line public utilities, Access BPL service providers and associates of Access BPL service providers. The responsible party, as defined in § 2.909 of this chapter, is responsible for ensuring that the equipment is marketed only to eligible parties. Marketing of the equipment in any other manner may be considered grounds for revocation of the grant of certification issued for the equipment.

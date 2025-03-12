@@ -1,0 +1,9 @@
+##### 539.7001 Policy. #####
+
+(a) GSA must provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source. Section 3544(a)(1)(A)(ii) of the Federal Information Security Management Act (FISMA) describes Federal agency security responsibilities as including “information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.”
+
+(b) Employees responsible for or procuring information technology supplies, services and systems shall possess the appropriate security clearance associated with the level of security classification related to the acquisition. They include, but are not limited to contracting officers, contract specialists, project/program managers, and contracting officer representatives.
+
+(c) Contracting activities shall coordinate with requiring activities and program officials to ensure that the solicitation documents include the appropriate information security requirements. The information security requirements must be sufficiently detailed to enable service providers to fully understand the information security regulations, mandates, and requirements that they will be subject to under the contract or task order.
+
+(d) GSA's Office of the Senior Agency Information Security Officer issued CIO IT Security Procedural Guide 09-48, “Security Language for Information Technology Acquisitions Efforts,” to provide IT security standards, policies and reporting requirements that shall be inserted in all solicitations and contracts or task orders where an information system is contractor owned and operated on behalf of the Federal Government. The guide can be accessed at *http://www.gsa.gov/portal/category/25690.*

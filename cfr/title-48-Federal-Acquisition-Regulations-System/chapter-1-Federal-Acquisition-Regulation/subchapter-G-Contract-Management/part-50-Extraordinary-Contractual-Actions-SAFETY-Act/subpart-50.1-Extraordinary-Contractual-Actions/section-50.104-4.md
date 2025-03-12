@@ -1,0 +1,3 @@
+##### 50.104-4 Contract clause. #####
+
+The contracting officer shall insert the clause at 52.250-1, Indemnification Under Public Law 85-804, in contracts whenever the approving official determines that the contractor shall be indemnified against unusually hazardous or nuclear risks (also see 50.104-3(b)(3)). In cost-reimbursement contracts, the contracting officer shall use the clause with its Alternate I.

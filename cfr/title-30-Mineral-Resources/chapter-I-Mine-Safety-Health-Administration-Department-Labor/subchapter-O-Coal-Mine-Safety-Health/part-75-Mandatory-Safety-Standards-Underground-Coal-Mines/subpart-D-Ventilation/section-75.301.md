@@ -1,0 +1,33 @@
+##### § 75.301 Definitions. #####
+
+In addition to the applicable definitions in § 75.2, the following definitions apply in this subpart.
+
+*Air course.* An entry or a set of entries separated from other entries by stoppings, overcasts, other ventilation control devices, or by solid blocks of coal or rock so that any mixing of air currents between each is limited to leakage.
+
+*AMS operator.* The person(s), designated by the mine operator, who is located on the surface of the mine and monitors the malfunction, alert, and alarm signals of the AMS and notifies appropriate personnel of these signals.
+
+*Appropriate personnel.* The person or persons designated by the operator to perform specific tasks in response to AMS signals. Appropriate personnel include the responsible person(s) required by § 75.1501 when an emergency evacuation is necessary.
+
+*Atmospheric Monitoring System (AMS).* A network consisting of hardware and software meeting the requirements of §§ 75.351 and 75.1103-2 and capable of: measuring atmospheric parameters; transmitting the measurements to a designated surface location; providing alert and alarm signals; processing and cataloging atmospheric data; and, providing reports. Early-warning fire detection systems using newer technology that provides equal or greater protection, as determined by the Secretary, will be considered atmospheric monitoring systems for the purposes of this subpart.
+
+*Belt air course.* The entry in which a belt is located and any adjacent entry(ies) not separated from the belt entry by permanent ventilation controls, including any entries in series with the belt entry, terminating at a return regulator, a section loading point, or the surface.
+
+*Carbon monoxide ambient level.* The average concentration in parts per million (ppm) of carbon monoxide detected in an air course containing carbon monoxide sensors. This average concentration is representative of the composition of the mine atmosphere over a period of mining activity during non-fire conditions. Separate ambient levels may be established for different areas of the mine.
+
+*Incombustible.* Incapable of being burned.
+
+*Intake air.* Air that has not yet ventilated the last working place on any split of any working section, or any worked-out area, whether pillared or nonpillared.
+
+*Intrinsically safe.* Incapable of releasing enough electrical or thermal energy under normal or abnormal conditions to cause ignition of a flammable mixture of methane or natural gas and air of the most easily ignitable composition.
+
+*Noncombustible structure or area.* Describes a structure or area that will continue to provide protection against flame spread for at least 1 hour when subjected to a fire test incorporating an ASTM E119-88 time/temperature heat input, or equivalent. The publication ASTM E119-88 “Standard Test Methods for Fire Tests of Building Construction and Materials” is incorporated by reference and may be inspected at any MSHA Coal Mine Safety and Health District Office, or at MSHA's Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.* In addition, copies of the document can be purchased from the American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; 610-832-9500; *http://www.astm.org.* This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+
+*Noncombustible material.* Describes a material that, when used to construct a ventilation control, results in a control that will continue to serve its intended function for 1 hour when subjected to a fire test incorporating an ASTM E119-88 time/temperature heat input, or equivalent. The publication ASTM E119-88 “Standard Test Methods for Fire Tests of Building Construction and Materials” is incorporated by reference and may be inspected at any Coal Mine Safety and Health District Office, or at MSHA's Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.* In addition, copies of the document can be purchased from the American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; 610-832-9500; *http://www.astm.org.* This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+
+*Point feeding.* The process of providing additional intake air to the belt air course from another intake air course through a regulator.
+
+*Return air.* Air that has ventilated the last working place on any split of any working section or any worked-out area whether pillared or nonpillared. If air mixes with air that has ventilated the last working place on any split of any working section or any worked-out area, whether pillared or nonpillared, it is considered return air. For the purposes of § 75.507-1, air that has been used to ventilate any working place in a coal producing section or pillared area, or air that has been used to ventilate any working face if such air is directed away from the immediate return is return air. Notwithstanding the definition of intake air, for the purpose of ventilation of structures, areas or installations that are required by this subpart D to be ventilated to return air courses, and for ventilation of seals, other air courses may be designated as return air courses by the operator only when the air in these air courses will not be used to ventilate working places or other locations, structures, installations or areas required to be ventilated with intake air.
+
+*Worked-out area.* An area where mining has been completed, whether pillared or nonpillared, excluding developing entries, return air courses, and intake air courses.
+
+[61 FR 9829, Mar. 11, 1996; 61 FR 29288, June 10, 1996, as amended at 67 FR 38386, June 4, 2002; 69 FR 17526, Apr. 2, 2004; 71 FR 16668, Apr. 3, 2006; 80 FR 52990, Sept. 2, 2015]

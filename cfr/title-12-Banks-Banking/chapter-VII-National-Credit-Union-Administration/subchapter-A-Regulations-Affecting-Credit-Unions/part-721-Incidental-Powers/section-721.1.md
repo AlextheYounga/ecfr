@@ -1,0 +1,3 @@
+##### § 721.1 What does this part cover? #####
+
+This part authorizes a federal credit union (you) to engage in activities incidental to your business as set out in this part. This part also describes how interested parties may request a legal opinion on whether an activity is within a federal credit union's incidental powers or apply to add new activities or categories to the regulation. An activity approved in a legal opinion to an interested party or as a result of an application by an interested party to add new activities or categories is recognized as an incidental powers activity for all federal credit unions. This part does not apply to the activities of corporate credit unions.

@@ -1,0 +1,3 @@
+##### § 1805.805 Compliance with government requirements. #####
+
+In carrying out its responsibilities pursuant to an Assistance Agreement, the Recipient shall comply with all applicable Federal, State, and local laws, regulations, and ordinances, OMB Circulars, and Executive Orders. Furthermore, Recipients must comply with the CDFI Fund's Environmental Quality Regulations (12 CFR part 1815) as well as all other federal environmental requirements applicable to federal awards.

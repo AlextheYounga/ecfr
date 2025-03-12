@@ -1,0 +1,5 @@
+##### § 21.47 Examination; anticipation of meeting qualifications. #####
+
+A potential candidate for appointment in any grade in the Regular Corps may be examined within a period of nine months prior to the date upon which it is anticipated that he will qualify for appointment under this subpart. Upon successful completion of the examination, his name will be entered on a merit roll. In the event that his name, in order of relative standing among all candidates, precedes that of fully qualified candidates, his name, for purpose of appointment, shall be passed over in favor of fully qualified candidates until such time as he becomes fully qualified, but in no event shall he otherwise lose his relative standing on the merit roll, except as provided in § 21.46. If the candidate fails to qualify for appointment at the time that it was anticipated that he would qualify, his name shall be removed from the merit roll.
+
+Provisions Applicable Only to Reserve Corps

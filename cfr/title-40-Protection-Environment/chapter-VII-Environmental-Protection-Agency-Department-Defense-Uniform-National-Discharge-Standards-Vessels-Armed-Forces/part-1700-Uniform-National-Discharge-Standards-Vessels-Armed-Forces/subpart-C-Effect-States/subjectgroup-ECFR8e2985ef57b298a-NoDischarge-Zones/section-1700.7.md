@@ -1,0 +1,3 @@
+##### § 1700.7 No-discharge zones. #####
+
+For this part, a no-discharge zone is a waterbody, or portion thereof, where one or more discharges incidental to the normal operation of Armed Forces vessels, whether treated or not, are prohibited. A no-discharge zone is established either by State prohibition using the procedures in § 1700.9, or by EPA prohibition, upon application of a State, using the procedures in § 1700.10.

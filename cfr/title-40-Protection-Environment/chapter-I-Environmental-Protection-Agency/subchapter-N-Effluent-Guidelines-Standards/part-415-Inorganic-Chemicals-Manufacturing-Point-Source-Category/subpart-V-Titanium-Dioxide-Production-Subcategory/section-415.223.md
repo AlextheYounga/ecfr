@@ -1,0 +1,7 @@
+##### § 415.223 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT). #####
+
+(a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart and producing titanium dioxide by the sulfate process must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations are the same for Chromium(T) and Nickel(T) as specified in § 415.222(a).
+
+(b) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart and producing titanium dioxide by the chloride process must achieve the following effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for Chromium(T) are the same as specified in § 415.222(b).
+
+(c) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart and producing titanium dioxide by the simultaneous beneficiation-chlorination (chloride-ilmenite) process must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for Chromium(T) and Nickel(T) are the same as specified in § 415.222(c).

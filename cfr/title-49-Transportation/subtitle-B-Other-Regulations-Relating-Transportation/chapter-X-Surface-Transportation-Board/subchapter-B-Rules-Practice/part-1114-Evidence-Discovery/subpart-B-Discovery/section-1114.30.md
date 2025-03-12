@@ -1,0 +1,15 @@
+##### § 1114.30 Production of documents and records and entry upon land for inspection and other purposes. #####
+
+(a) *Scope.* Any party may serve on any other party a request:
+
+(1) To produce and permit the party making the request to inspect any designated documents (including writings, drawings, graphs, charts, photographs, phonograph records, tapes, and other data compilations from which information can be obtained, translated, if necessary, with or without the use of detection devices into reasonably usable form), or to inspect and copy, test, or sample any tangible things which are in the possession, custody, or control of the party upon whom the request is served, but if the writings or data compilations include privileged or proprietary information or information the disclosure of which is proscribed by the Act, such writings or data compilations need not be produced under this rule but may be provided pursuant to § 1114.26(b) of this part; or
+
+(2) To permit, subject to appropriate liability releases and safety and operating considerations, entry upon designated land or other property in the possession or control of the party upon whom the request is served for the purpose of inspecting and measuring, surveying, photographing, testing, or sampling the property or any designated object or operation thereon.
+
+(b) *Procedure.* Any request filed pursuant to this rule should set forth the items to be inspected either by individual item or by category and describe each item and category with reasonable particularity. The request should specify a reasonable time, place, and manner of making the inspection and performing the related acts.
+
+(c) *Limitation under simplified standards.* In a case using the Three-Benchmark methodology, each party is limited to ten document requests (including subparts) absent advance authorization from the Board.
+
+(d) *Agreements containing interchange commitments.* In any proceeding involving the reasonableness of provisions related to an existing rail carrier sale or lease agreement that serve to induce a party to the agreement to interchange traffic with another party to the agreement, rather than with a third-party connecting carrier, whether by outright prohibition, per-car penalty, adjustment in the purchase price or rental, positive economic inducement, or other means, a party to the proceeding with a need for the information may obtain a confidential, complete version of the agreement, with the prior approval of the Board. The party seeking such approval must file an appropriate motion containing an explanation of the party's need for the information and a draft protective order and undertaking(s) that will ensure the agreement is kept confidential. The motion seeking approval may be filed at any time after the initial complaint or petition, including before the answer to the complaint or petition is due. A reply to such a motion must be filed within 5 days thereafter. The motion will be considered by the Board in an expedited manner.
+
+[61 FR 52713, Oct. 8, 1996, as amended at 72 FR 51377, Sept. 7, 2007; 73 FR 31034, May 30, 2008]

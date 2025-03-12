@@ -1,0 +1,17 @@
+##### § 98.204 Monitoring and QA/QC requirements. #####
+
+(a) For calendar year 2011 monitoring, the facility may submit a request to the Administrator to use one or more best available monitoring methods as listed in § 98.3(d)(1)(i) through (iv). The request must be submitted no later than October 12, 2010 and must contain the information in § 98.3(d)(2)(ii). To obtain approval, the request must demonstrate to the Administrator's satisfaction that it is not reasonably feasible to acquire, install, and operate a required piece of monitoring equipment by January 1, 2011. The use of best available monitoring methods will not be approved beyond December 31, 2011.
+
+(b) Emissions (consumption) of cover gases and carrier gases may be estimated by monitoring the changes in container weights and inventories using Equation T-1 of this subpart, by monitoring the changes in individual container weights as the contents of each container are used using Equations T-2 and T-3 of this subpart, or by monitoring the mass flow of the pure cover gas or carrier gas into the gas distribution system. Emissions must be estimated at least annually.
+
+(c) When estimating emissions by monitoring the mass flow of the pure cover gas or carrier gas into the gas distribution system, you must use gas flow meters, or mass flow controllers, with an accuracy of 1 percent of full scale or better.
+
+(d) When estimating emissions using Equation T-1 of this subpart, you must ensure that all the quantities required by Equation T-1 of this subpart have been measured using scales or load cells with an accuracy of 1 percent of full scale or better, accounting for the tare weights of the containers. You may accept gas masses or weights provided by the gas supplier *e.g.,* for the contents of containers containing new gas or for the heels remaining in containers returned to the gas supplier) if the supplier provides documentation verifying that accuracy standards are met; however you remain responsible for the accuracy of these masses or weights under this subpart.
+
+(e) When estimating emissions using Equations T-2 and T-3 of this subpart, you must monitor and record container identities and masses as follows:
+
+(1) Track the identities and masses of containers leaving and entering storage with check-out and check-in sheets and procedures. The masses of cylinders returning to storage shall be measured immediately before the cylinders are put back into storage.
+
+(2) Ensure that all the quantities required by Equations T-2 and T-3 of this subpart have been measured using scales or load cells with an accuracy of 1 percent of full scale or better, accounting for the tare weights of the containers. You may accept gas masses or weights provided by the gas supplier *e.g.,* for the contents of cylinders containing new gas or for the heels remaining in cylinders returned to the gas supplier) if the supplier provides documentation verifying that accuracy standards are met; however, you remain responsible for the accuracy of these masses or weights under this subpart.
+
+(f) All flowmeters, scales, and load cells used to measure quantities that are to be reported under this subpart shall be calibrated using calibration procedures specified by the flowmeter, scale, or load cell manufacturer. Calibration shall be performed prior to the first reporting year. After the initial calibration, recalibration shall be performed at the minimum frequency specified by the manufacturer.

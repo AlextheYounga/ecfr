@@ -1,0 +1,3 @@
+##### 1430.202-2 Impracticality of submission. #####
+
+The CO shall prepare any request to award a contract without the required contractor submission of the Form No. CASB-DS-1, Disclosure Statement, and submit it through the HCA, to the Director, PAM, and to the Secretary for approval. The Secretary, without the power of redelegation, must file a report to CASB within 30 days in accordance with 48 CFR 9903.202-2 (FAR Appendix).

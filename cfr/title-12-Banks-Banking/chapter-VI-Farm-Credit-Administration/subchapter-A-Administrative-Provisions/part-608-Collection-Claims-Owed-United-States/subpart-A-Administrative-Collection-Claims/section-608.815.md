@@ -1,0 +1,3 @@
+##### § 608.815 Credit report. #####
+
+In order to aid the FCA in making appropriate determinations regarding the collection and compromise of claims; the collection of charges for interest, administrative costs, and penalties; the use of administrative offset; the use of other collection methods; and the likelihood of collecting the claim, the FCA may institute, consistent with the provisions of the Fair Credit Reporting Act (15 U.S.C. 1681, *et seq.*), a credit investigation of the debtor immediately following a determination that the claim exists.

@@ -1,0 +1,3 @@
+##### § 77.102 Tests for methane; oxygen deficiency; qualified person, additional requirement. #####
+
+Notwithstanding the provisions of § 77.101, on and after December 30, 1971, no person shall be a qualified person for testing for methane and oxygen deficiency unless he has demonstrated to the satisfaction of an authorized representative of the Secretary that he is able and competent to make such tests and the Mine Safety and Health Administration has issued him a current card which qualifies him to make such tests.

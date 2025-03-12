@@ -1,0 +1,3 @@
+##### § 585.125 Response to inquiries. #####
+
+At anytime during the production years ending April 30, 2017, and April 30, 2018, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been certified as complying with the rear visibility requirements in paragraphs S5.5 and S6.2 of Standard No. 111, Rear visibility (49 CFR 571.111). The manufacturer's designation of a vehicle as a certified vehicle is irrevocable.

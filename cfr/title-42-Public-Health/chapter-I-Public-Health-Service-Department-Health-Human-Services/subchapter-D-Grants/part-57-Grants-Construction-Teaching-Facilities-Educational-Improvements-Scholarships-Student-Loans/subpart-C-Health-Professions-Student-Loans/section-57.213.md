@@ -1,0 +1,5 @@
+##### § 57.213 Continuation of provisions for cancellation of loans made prior to November 18, 1971. #####
+
+Individuals who received health professions student loans as students of medicine, osteopathic medicine, dentistry or optometry prior to November 18, 1971, may still receive cancellation of these loans for practicing in a shortage area or for practicing in a rural shortage area characterized by low family income. The regulations set forth in 42 CFR 57.215(b) (1976), as adopted on February 7, 1974 remain applicable to cancellation on this basis. The provisions can be found at 39 FR 4774 (February 7, 1974) and a copy can be obtained by writing to the Division of Student Assistance, Bureau of Health Professions, Room 8-34, Parklawn Building, 5600 Fishers Lane, Rockville, MD 20857.
+
+[49 FR 38112, Sept. 27, 1984, as amended at 56 FR 19294, Apr. 26, 1991]

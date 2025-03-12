@@ -1,0 +1,3 @@
+##### § 780.35 Communication of decision to General Counsel. #####
+
+Following a determination to issue a patent license under section 153b(2) of the Act, the Board shall send the decision to the General Counsel and instruct the General Counsel to issue the license on terms deemed equitable by the Department and generally not less fair than those granted by the patentee or by the Department to similar licensees for comparable use.

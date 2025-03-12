@@ -1,0 +1,7 @@
+##### § 84.1154 Canister and cartridge requirements. #####
+
+(a) Where two or more canisters or cartridges are used in parallel, their resistance to airflow shall be essentially equal.
+
+(b) The color and markings of all canisters and cartridges or labels shall conform with the requirements of the American National Standards Institute, American National Standard for Identification of Air-Purifying Respirator Canisters and Cartridges, ANSI K13.1-1973. ANSI K13.1 is incorporated by reference and has been approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from American National Standards Institute, Inc., 1430 Broadway, New York, NY 10018. Copies may be inspected at the NIOSH, National Personal Protective Technology Laboratory, P.O. Box 18070, 626 Cochrans Mill Road, Pittsburgh, PA 15236, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+[60 FR 30355, June 8, 1995, as amended at 80 FR 3908, Jan. 26, 2015]

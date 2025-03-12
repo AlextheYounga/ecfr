@@ -1,0 +1,3 @@
+##### § 35.65 Acceptable personal property. #####
+
+Contributions of personal property which may be accepted pursuant to § 35.62 include, but are not limited to, recreational equipment, furniture, radios and television sets. After its useful life, any cash proceeds realized upon disposition of such property shall be deposited to the credit of the patient fund and shall be available for expenditure pursuant to § 35.66(c).

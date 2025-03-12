@@ -1,0 +1,11 @@
+##### § 725.12 Identification of microorganisms for Inventory and other listing purposes. #####
+
+To identify and list microorganisms on the Inventory, both taxonomic designations and supplemental information will be used. The supplemental information required in paragraph (b) of this section will be used to specifically describe an individual microorganism on the Inventory. Submitters must provide the supplemental information required by paragraph (b) of this section to the extent necessary to enable a microorganism to be accurately and unambiguously identified on the Inventory.
+
+(a) *Taxonomic designation.* The taxonomic designation of a microorganism must be provided for the donor organism and the recipient microorganism to the level of strain, as appropriate. These designations must be substantiated by a letter from a culture collection, literature references, or the results of tests conducted for the purpose of taxonomic classification. Upon EPA's request to the submitter, data supporting the taxonomic designation must be provided to EPA. The genetic history of the recipient microorganism should be documented back to the isolate from which it was derived.
+
+(b) *Supplemental information.* The supplemental information described in paragraphs (b)(1) and (b)(2) of this section is required to the extent that it enables a microorganism to be accurately and unambiguously identified.
+
+(1) *Phenotypic information.* Phenotypic information means pertinent traits that result from the interaction of a microorganism's genotype and the environment in which it is intended to be used and may include intentionally added biochemical and physiological traits.
+
+(2) *Genotypic information.* Genotypic information means the pertinent and distinguishing genotypic characteristics of a microorganism, such as the identity of the introduced genetic material and the methods used to construct the reported microorganism. This also may include information on the vector construct, the cellular location, and the number of copies of the introduced genetic material.

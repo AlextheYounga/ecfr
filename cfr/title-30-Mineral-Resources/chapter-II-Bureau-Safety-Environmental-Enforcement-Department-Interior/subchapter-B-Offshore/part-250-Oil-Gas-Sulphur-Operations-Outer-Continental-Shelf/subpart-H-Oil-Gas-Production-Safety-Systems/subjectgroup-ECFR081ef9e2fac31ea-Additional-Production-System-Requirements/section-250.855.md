@@ -1,0 +1,7 @@
+##### § 250.855 Emergency shutdown (ESD) system. #####
+
+The ESD system must conform to the requirements of Appendix C, section C1, of API RP 14C (incorporated by reference as specified in § 250.198), and the following:
+
+(a) The manually operated ESD valve(s) must be quick-opening and non-restricted to enable the rapid actuation of the shutdown system. Electronic ESD stations must be wired as de-energize to trip circuits or as supervised circuits. Because of the key role of the ESD system in the platform safety system, all ESD components must be of high quality and corrosion resistant and stations must be uniquely identified. Only ESD stations at the boat landing may utilize a loop of breakable synthetic tubing in lieu of a valve or electric switch. This breakable loop is not required to be physically located on the boat landing, but must be accessible from a vessel adjacent to or attached to the facility.
+
+(b) You must maintain a schematic of the ESD that indicates the control functions of all safety devices for the platforms on the platform, at your field office nearest the OCS facility, or at another location conveniently available to the District Manager, for the life of the facility.

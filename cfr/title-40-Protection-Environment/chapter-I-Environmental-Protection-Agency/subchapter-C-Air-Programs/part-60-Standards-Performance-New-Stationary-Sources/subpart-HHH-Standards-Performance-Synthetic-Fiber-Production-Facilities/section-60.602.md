@@ -1,0 +1,5 @@
+##### § 60.602 Standard for volatile organic compounds. #####
+
+On and after the date on which the initial performance test required to be conducted by § 60.8 is completed, no owner or operator subject to the provisions of this subpart shall cause the discharge into the atmosphere from any affected facility that produces acrylic fibers, VOC emissions that exceed 10 kg/Mg (20 lb/ton) solvent feed to the spinning solution preparation system or precipitation bath. VOC emissions from affected facilities that produce both acrylic and nonacrylic fiber types shall not exceed 10 kg/Mg (20 lb/ton) solvent feed. VOC emissions from affected facilities that produce only nonacrylic fiber types shall not exceed 17 kg/Mg (34 lb/ton) solvent feed. Compliance with the emission limitations is determined on a 6-month rolling average basis as described in § 60.603.
+
+[49 FR 22606, May 30, 1984, as amended at 65 FR 61768, Oct. 17, 2000]

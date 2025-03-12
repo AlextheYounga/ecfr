@@ -1,0 +1,3 @@
+##### § 622.77 Purpose and scope. #####
+
+The rules and procedures set forth in this subpart apply to informal hearings afforded to any officer, director, or other person participating in the conduct of the affairs of a System institution who has been suspended or removed from office or prohibited from further participation in any manner in the conduct of the institution's affairs by a notice or order issued by the Board upon the grounds set forth in section 5.29 of the Act.

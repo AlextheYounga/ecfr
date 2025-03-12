@@ -1,0 +1,5 @@
+##### § 121.659 Initial approach altitude: Domestic and supplemental operations. #####
+
+(a) Except as provided in paragraph (b) of this section, when making an initial approach to a radio navigation facility under IFR, no person may descend an aircraft below the pertinent minimum altitude for initial approach (as specified in the instrument approach procedure for that facility) until his arrival over that facility has been definitely established.
+
+(b) When making an initial approach on a flight being conducted under § 121.657(d), no pilot may commence an instrument approach until his arrival over the radio facility has definitely been established. In making an instrument approach under these circumstances no person may descend an aircraft lower than 1,000 feet above the top of the lower cloud or the minimum altitude determined by the Administrator for that part of the IFR approach, whichever is lower.

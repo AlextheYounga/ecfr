@@ -1,0 +1,3 @@
+##### § 13.1 Purpose and scope. #####
+
+This regulation prescribes standards and procedures for the Environmental Protection Agency's (EPA's) collection and disposal of debts. These standards and procedures are applicable to all debts for which a statute, regulation or contract does not prescribe different standards or procedures. This regulation covers EPA's collection, compromise, suspension, termination, and referral of debts.

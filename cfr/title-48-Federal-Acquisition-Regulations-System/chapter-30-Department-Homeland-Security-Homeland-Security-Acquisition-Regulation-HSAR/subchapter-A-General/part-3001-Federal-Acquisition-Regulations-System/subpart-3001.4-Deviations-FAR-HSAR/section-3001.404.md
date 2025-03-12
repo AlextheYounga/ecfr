@@ -1,0 +1,5 @@
+##### 3001.404 Class deviations. #####
+
+(a) Unless precluded by law, executive order, or other regulation, the CPO is authorized to approve FAR class deviations, except (FAR) 48 CFR 30.201-3, and 30.201-4 (the requirements of the Cost Accounting Standards Board); 48 CFR chapter 99 (FAR appendix); and part 50. Prior to authorizing a FAR class deviation, the CPO shall consult with the chairperson of the Civilian Agency Acquisition Council (CAA Council), unless the CPO determines that urgency precludes such consultation. FAR class deviation requests shall be submitted to the CPO per (HSAR) 48 CFR subpart 3001.70 including complete documentation of the justification for the deviation, and the estimated number and type of contract actions affected. The CPO will transmit a copy of each approved FAR deviation to the FAR Secretariat.
+
+[71 FR 25767, May 2, 2006]

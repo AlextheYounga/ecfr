@@ -1,0 +1,3 @@
+##### § 585.210 How does BOEM initiate the competitive leasing process? #####
+
+BOEM may publish in the Federal Register a public notice of Request for Interest to assess interest in leasing all or part of the OCS for activities authorized in this part. BOEM will consider information received in response to a Request for Interest to determine whether there is competitive interest for scheduling sales and issuing leases. We may prepare and issue a national, regional, or more specific schedule of lease sales pertaining to one or more types of renewable energy.

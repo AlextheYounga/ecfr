@@ -1,0 +1,9 @@
+##### § 7601.102 Prior approval of outside employment. #####
+
+(a) *Prior approval requirement.* An employee, other than a special Government employee, must obtain written approval before engaging in any outside employment, whether or not for compensation. Requests for approval shall be submitted in accordance with procedures set forth in the NARA Administrative Procedures Manual, ADMIN. 201, copies of which can be obtained from the NARA designated agency ethics official.
+
+(b) *Standard of approval.* Approval shall be granted only upon a determination that the outside employment is not expected to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635.
+
+(c) *Scope of approval.* Approval will be for a period not to exceed three years, after which renewed approval must be sought in accordance with this section. Upon a significant change in the nature or scope of the outside employment or in the employee's NARA position, the employee shall submit a revised request for approval.
+
+(d) *Definition of employment.* For purposes of this section, employment means any form of non-Federal employment or business relationship involving the provision of personal services by the employee. It includes, but is not limited to, personal services as an officer, director, employee, agent, attorney, consultant, contractor, general partner, trustee, teacher, or speaker. It includes writing when done under an arrangement with another person for production or publication of the written product. It does not, however, include participation in the activities of a nonprofit charitable, religious, professional, social, fraternal, educational, recreational, public service, or civic organization, unless the participation involves the provision of professional services or advice for compensation other than reimbursement for actual expenses.

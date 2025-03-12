@@ -1,0 +1,3 @@
+##### § 360.11 Time of filing. #####
+
+During the month of July each year, any party claiming to be entitled to compulsory license royalty fees for secondary transmissions by satellite carriers during the previous calendar year of television broadcast signals to the public shall file a claim to such fees with the Copyright Royalty Board. No royalty fees shall be distributed to any party during the specified period unless such party has timely filed a claim to such fees. Claimants may file claims jointly or as a single claim.

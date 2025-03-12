@@ -1,0 +1,3 @@
+##### § 1206.362 What are my responsibilities to place production into marketable condition and to market production? #####
+
+You must place geothermal resources and byproducts in marketable condition and market the geothermal resources or byproducts for the mutual benefit of the lessee and the lessor at no cost to the Federal Government. If you use gross proceeds under an arm's-length contract in determining royalty, you must increase those gross proceeds to the extent that the purchaser, or any other person, provides certain services that the seller normally would be responsible to perform to place the geothermal resources or byproducts in marketable condition or to market the geothermal resources or byproducts.

@@ -1,0 +1,3 @@
+##### § 56.111 Confidentiality. #####
+
+All information as to personal facts and circumstances obtained by the project staff about recipients of services shall be held confidential and shall not be divulged without the individual's consent except as may be required by law or as may be necessary to provide service to the individual or to provide for medical audits by the Secretary or his designee with appropriate safeguards for confidentiality of patient records. Otherwise, information may be disclosed only in summary, statistical, or other form which does not identify particular individuals.

@@ -1,0 +1,21 @@
+##### 752.7033 Physical fitness. #####
+
+For use in all USAID contracts involving performance overseas.
+
+Physical Fitness (JUL 1997)
+
+(The requirements of this provision do not apply to employees hired in the Cooperating Country or to authorized dependents who were already in the Cooperating Country when their sponsoring employee was hired.)
+
+(a) *Assignments of less than 60 days in the Cooperating Country.* The contractor shall require employees being assigned to the Cooperating Country for less than 60 days to be examined by a licensed doctor of medicine. The contractor shall require the doctor to provide to the contractor a written statement that in his/her medical opinion the employee is physically qualified to engage in the type of activity for which he/she is employed and the employee is physically able to reside in the country to which he/she is assigned. Under a cost reimbursement contract, if the contractor has no written statement of medical opinion on file prior to the departure for the Cooperating Country of any employee and such employee is unable to perform the type of activity for which he/she is employed or cannot complete his/her tour of duty because of any physical disability (other than physical disability arising from an accident while employed under this contract), the contractor shall be responsible for returning the disabled employee to his/her point of hire and providing a replacement at no additional cost to the Government. In addition, in the case of a cost reimbursement contract, the contractor shall not be entitled to reimbursement for any additional costs attributable to delays or other circumstances caused by the employee's inability to complete his/her tour of duty.
+
+(b) *Assignments of 60 days or more in the Cooperating Country.* (1) The contracting officer shall provide the contractor with a reproducible copy of the “USAID Contractor Employee Physical Examination Form”. Information required by the Paperwork Reduction Act for reporting the burden estimate, the points of contact regarding burden estimate, and the OMB approval expiration date, are printed on the form. The contractor shall reproduce the form as required, and provide a copy to each employee and authorized dependent proposed for assignments of 60 days or more in the Cooperating Country. The contractor shall have the employee and all authorized dependents obtain a physical examination from a licensed physician, who will complete the form for each individual. The employee will deliver the physical examination form(s) to the embassy health unit in the Cooperating Country.
+
+(2) (The following information is provided for two purposes: To assist fixed price offerors to develop their price proposal, and to provide cost reimbursement contractors with guidance in determining reasonable and allowable costs.) As a contribution to the cost of medical examinations, USAID shall reimburse the contractor for the physical examination authorized in paragraph (a) of this section in an amount not to exceed $100 for the physical examination, plus reimbursement of charges for immunizations to the extent not covered by the contractor's health insurance policy. For physical examinations authorized in paragraph (b)(1) above, the USAID contribution to the cost of the examination shall be as follows:
+
+(i) For the employee and authorized dependents 12 years of age and over, one half of the cost of each examination up to a maximum USAID share of $300 per individual, plus reimbursement of charges for immunizations to the extent not covered by the contractor's health insurance policy.
+
+(ii) For authorized dependents under 12 years of age, one half of the cost of each examination up to a maximum USAID share of $120 per individual, plus reimbursement of charges for immunizations to the extent not covered by the contractor's health insurance policy.
+
+(iii) The contractor must obtain the prior written approval of the contracting officer to receive any USAID contributions higher than these limits.
+
+(End of clause)[56 FR 7588, Feb. 25, 1991, as amended at 58 FR 58596, Nov. 2, 1993; 62 FR 40471, July 29, 1997; 62 FR 45334, Aug. 27, 1997; 79 FR 74988, 75003, Dec. 16, 2014]

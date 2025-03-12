@@ -1,0 +1,11 @@
+##### § 164.31 Intervention. #####
+
+(a) *Motion.* Any person may file a motion for leave to intervene in a hearing conducted under this subpart. A motion must set forth the grounds for the proposed intervention, the position and interest of the movant in the proceeding and the documents proposed to be filed pursuant to either § 164.22 or § 164.24.
+
+(b) *When filed.* A motion for leave to intervene in a hearing must ordinarily be filed prior to the commencement of the first prehearing conference. Any motion filed after that time must contain, in addition to the information set forth in paragraph (a) of this section, a statement of good cause for the failure to file the motion prior to the commencement of the first prehearing conference, and shall be granted only upon a finding (1) that extraordinary circumstances justify the granting of the motion, or (2) that the intervenor shall be bound by agreements, arrangements, and other matters previously made in the proceeding.
+
+(c) *Disposition.* Leave to intervene will be freely granted but only insofar as such leave raises matters which are pertinent to and do not unreasonably broaden the issues already presented. If leave is granted, the movant shall thereby become a party with the full status of the original parties to the proceedings. If leave is denied, the movant may request that the ruling be certified to the Environmental Appeals Board, pursuant to § 164.100 for a speedy appeal.
+
+(d) *Amicus curiae.* Persons not parties to the proceedings wishing to file briefs may do so by leave of the Administrative Law Judge granted on motion. A motion for leave shall identify the interest of the applicant and shall state the reasons why the proposed amicus brief is desirable. Unless all parties otherwise consent, an amicus curiae shall file its brief within the time allowed the party whose position the brief will support. Upon a showing of good cause, the Administrator or Administrative Law Judge may grant permission for later filing.
+
+[38 FR 19371, July 20, 1973, as amended at 57 FR 5342, Feb. 13, 1992]

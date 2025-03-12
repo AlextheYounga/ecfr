@@ -1,0 +1,5 @@
+##### § 211.59 Proceedings on petitions for reconsideration. #####
+
+(a) The Administrator may invite public comment or seek a response from the party at whose request the final action was taken before deciding a petition for reconsideration submitted under § 211.57.
+
+(b) The Administrator may reaffirm, modify, or revoke the final action without further proceedings and shall issue notification of his decision to the petitioner and other interested parties or publish a notice in the Federal Register. Each petition for reconsideration shall be decided not later than 4 months after receipt. Petitions for reconsideration relating to the same rule may be consolidated for decision. In the event the Administrator determines to reconsider a final action, and appropriate notice is published in the Federal Register.

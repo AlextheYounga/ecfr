@@ -1,0 +1,7 @@
+##### § 1208.24 Election to terminate MSPB proceeding. #####
+
+(a) *Election to terminate.* At any time beginning on the 121st day after an appellant files a VEOA appeal with the Board, if a judicially reviewable Board decision on the appeal has not been issued, the appellant may elect to terminate the Board proceeding as provided under 5 U.S.C. 3330b and file a civil action with an appropriate United States district court. Such election must be in writing, signed, filed with the Board office where the appeal is being processed, and served on the parties. The election is effective immediately on the date of receipt by the Board office where the appeal is being processed. The election may be filed by electronic filing, provided the requirements of § 1201.14 of this chapter are satisfied.
+
+(b) *Termination order.* Following receipt by the Board of an appellant's written election to terminate the Board proceeding, a termination order will be issued to document the termination of the proceeding. The termination order will state that the proceeding was terminated as of the date of receipt of the appellant's written election. Such an order is neither an initial decision under 5 CFR 1201.111 nor a final Board decision and is not subject to a petition for review in accordance with subpart C of part 1201, a petition for enforcement in accordance with subpart F of part 1201, or a petition for judicial review.
+
+[65 FR 5412, Feb. 4, 2000, as amended at 68 FR 59865, Oct. 20, 2003; 69 FR 57631, Sept. 27, 2004]

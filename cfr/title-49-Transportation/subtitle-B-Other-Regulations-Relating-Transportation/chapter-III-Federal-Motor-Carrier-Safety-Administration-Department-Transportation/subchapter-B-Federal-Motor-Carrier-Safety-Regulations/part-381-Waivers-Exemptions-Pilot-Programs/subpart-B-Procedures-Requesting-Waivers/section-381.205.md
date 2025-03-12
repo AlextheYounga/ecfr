@@ -1,0 +1,5 @@
+##### § 381.205 How do I determine when I may request a waiver? #####
+
+(a) You may request a waiver if one or more FMCSR would prevent you from using or operating CMVs, or make it unreasonably difficult to do so, during a unique, non-emergency event that will take no more than three months to complete.
+
+(b) Before you decide to request a waiver, you should carefully review the regulation to determine whether there are any practical alternatives already available that would allow your use or operation of CMVs during the event. You should also determine whether you need a waiver from all of the requirements in one or more parts of the regulations, or whether a more limited waiver of certain sections within one or more of the parts of the regulations would provide an acceptable level of regulatory relief. For example, if you need relief from one of the recordkeeping requirements concerning driver qualifications, you should not request relief from all of the requirements of part 391.

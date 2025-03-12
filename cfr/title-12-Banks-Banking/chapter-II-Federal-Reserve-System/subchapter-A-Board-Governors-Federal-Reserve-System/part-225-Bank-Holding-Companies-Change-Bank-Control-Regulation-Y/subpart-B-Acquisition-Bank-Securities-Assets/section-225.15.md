@@ -1,0 +1,11 @@
+##### § 225.15 Procedures for other bank acquisition proposals. #####
+
+(a) *Filing application.* Except as provided in § 225.14, an application for the Board's prior approval under this subpart shall be governed by the provisions of this section and shall be filed with the appropriate Reserve Bank on the designated form.
+
+(b) *Notice to primary banking supervisor.* Upon receipt of an application under this subpart, the Reserve Bank shall promptly furnish notice and a copy of the application to the primary banking supervisor of each bank to be acquired. The primary supervisor shall have 30 calendar days from the date of the letter giving notice in which to submit its views and recommendations to the Board.
+
+(c) *Accepting application for processing.* Within 7 calendar days after the Reserve Bank receives an application under this section, the Reserve Bank shall accept it for processing as of the date the application was filed or return the application if it is substantially incomplete. Upon accepting an application, the Reserve Bank shall immediately send copies to the Board. The Reserve Bank or the Board may request additional information necessary to complete the record of an application at any time after accepting the application for processing.
+
+(d) *Action on applications*—(1) *Action under delegated authority.* The Reserve Bank shall approve an application under this section within 30 calendar days after the acceptance date for the application, unless the Reserve Bank, upon notice to the applicant, refers the application to the Board for decision because action under delegated authority is not appropriate.
+
+(2) *Board action.* The Board shall act on an application under this subpart that is referred to it for decision within 60 calendar days after the acceptance date for the application, unless the Board notifies the applicant that the 60-day period is being extended for a specified period and states the reasons for the extension. In no event may the extension exceed the 91-day period provided in § 225.16(f). The Board may, at any time, request additional information that it believes is necessary for its decision.

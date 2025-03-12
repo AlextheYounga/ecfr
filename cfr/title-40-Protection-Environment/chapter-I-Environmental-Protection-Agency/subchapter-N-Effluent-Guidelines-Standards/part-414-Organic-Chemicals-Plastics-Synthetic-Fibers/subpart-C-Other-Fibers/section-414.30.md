@@ -1,0 +1,5 @@
+##### § 414.30 Applicability; description of the other fibers subcategory. #####
+
+The provisions of this subpart are applicable to the process wastewater discharges resulting from the manufacture of products classified under SIC 2823 cellulosic man-made fibers, except Rayon, and SIC 2824 synthetic organic fibers including those fibers and fiber groups listed below. Product groups are indicated with an asterisk (\*).
+
+\*Acrylic Fibers (85% Polyacrylonitrile)\*Cellulose Acetate Fibers\*Fluorocarbon (Teflon) Fibers\*Modacrylic Fibers\*Nylon 6 FibersNylon 6 Monofilament\*Nylon 66 FibersNylon 66 Monofilament\*Polyamide Fibers (Quiana)\*Polyaramid (Kevlar) Resin-Fibers\*Polyaramid (Nomex) Resin-Fibers\*Polyester Fibers\*Polyethylene Fibers\*Polypropylene Fibers\*Polyurethane Fibers (Spandex)[52 FR 42568, Nov. 5, 1987, as amended at 57 FR 41844, Sept. 11, 1992]

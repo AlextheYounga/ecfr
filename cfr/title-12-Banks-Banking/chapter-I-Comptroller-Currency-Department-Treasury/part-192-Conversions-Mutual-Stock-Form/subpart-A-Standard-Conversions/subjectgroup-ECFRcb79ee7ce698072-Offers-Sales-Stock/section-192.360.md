@@ -1,0 +1,3 @@
+##### § 192.360 Are my officers, directors, and their associates eligible account holders? #####
+
+Your officers, directors, and their associates may be eligible account holders. However, if an officer, director, or his or her associate receives subscription rights based on increased deposits in the year before the eligibility record date, you must subordinate subscription rights for these deposits to subscription rights exercised by other eligible account holders.

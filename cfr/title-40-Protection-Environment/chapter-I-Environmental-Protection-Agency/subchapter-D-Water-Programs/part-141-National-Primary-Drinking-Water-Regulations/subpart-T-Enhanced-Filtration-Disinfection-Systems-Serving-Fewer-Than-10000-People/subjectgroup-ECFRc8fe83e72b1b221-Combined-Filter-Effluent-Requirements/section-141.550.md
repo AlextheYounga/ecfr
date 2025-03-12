@@ -1,0 +1,3 @@
+##### § 141.550 Is my system required to meet subpart T combined filter effluent turbidity limits? #####
+
+All subpart H systems which serve populations fewer than 10,000, are required to filter, and utilize filtration other than slow sand filtration or diatomaceous earth filtration must meet the combined filter effluent turbidity requirements of §§ 141.551-141.553 . If your system uses slow sand or diatomaceous earth filtration you are not required to meet the combined filter effluent turbidity limits of subpart T, but you must continue to meet the combined filter effluent turbidity limits in § 141.73.

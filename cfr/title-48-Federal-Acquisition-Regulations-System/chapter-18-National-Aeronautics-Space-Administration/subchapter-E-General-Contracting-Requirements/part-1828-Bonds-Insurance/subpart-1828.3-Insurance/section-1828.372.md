@@ -1,0 +1,3 @@
+##### 1828.372 Clause for minimum insurance coverage. #####
+
+In accordance with FAR 28.306(b) and 28.307, the contracting officer may insert a clause substantially as stated at 1852.228-75, Minimum Insurance Coverage, in fixed-price solicitations and in cost-reimbursement contracts. The contracting officer may modify the clause to require additional coverage, such as vessel liability, and higher limits if appropriate for a particular acquisition.

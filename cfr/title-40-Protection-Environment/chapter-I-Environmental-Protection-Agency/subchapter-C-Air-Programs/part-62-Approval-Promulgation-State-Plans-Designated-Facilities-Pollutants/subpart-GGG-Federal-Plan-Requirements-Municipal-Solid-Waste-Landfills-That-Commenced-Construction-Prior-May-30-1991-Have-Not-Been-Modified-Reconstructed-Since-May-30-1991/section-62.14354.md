@@ -1,0 +1,5 @@
+##### § 62.14354 Procedures, test methods, and monitoring. #####
+
+(a) The owner or operator of a designated facility having a design capacity equal to or greater than 2.5 million megagrams and 2.5 million cubic meters must calculate the landfill nonmethane organic compounds emission rate using the procedures listed in 40 CFR 60.754, as applicable, to determine whether the landfill nonmethane organic compounds emission rate equals or exceeds 50 megagrams per year.
+
+(b) The owner or operator of a designated facility with a gas collection and control system used to comply with § 62.14353(b) must comply with the operational standards in 40 CFR 60.753; the test procedures in 40 CFR 60.754(b) and (d); the compliance provisions in 40 CFR 60.755; and the monitoring provisions in 40 CFR 60.756, unless alternative procedures have been approved.

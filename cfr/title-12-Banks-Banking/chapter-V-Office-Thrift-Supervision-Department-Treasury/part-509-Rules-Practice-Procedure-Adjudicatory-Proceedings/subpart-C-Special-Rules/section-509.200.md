@@ -1,0 +1,3 @@
+##### § 509.200 Scope. #####
+
+The rules and procedures in subpart C of this part and those rules and procedures in subparts A and B of this part that are identified in subpart C of this part shall apply to any proceedings under section 10(a)(2)(D) of the HOLA (12 U.S.C. 1467a(a)(2)(D)) to determine for purposes of section 10 of the HOLA, other than subsections (c), (d), (f), (h)(2), (m), (n), (q) and (s), whether any company that owns at least one percent but no more than 10 percent of the outstanding shares of a savings association or savings and loan holding company directly or indirectly exercises a controlling influence over the management or policies of such savings association or savings and loan holding company.

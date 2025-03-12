@@ -1,0 +1,3 @@
+##### § 446.10 Applicability; description of the oil-base solvent wash paint subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the production of oil-base paint where the tank cleaning is performed using solvents. When a plant is subject to effluent limitations covering more than one subcategory the discharge limitation shall be the aggregate of the limitations applicable to the total production covered in each subcategory.

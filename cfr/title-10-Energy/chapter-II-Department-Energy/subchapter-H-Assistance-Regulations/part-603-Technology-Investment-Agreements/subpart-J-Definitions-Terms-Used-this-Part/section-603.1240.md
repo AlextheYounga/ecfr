@@ -1,0 +1,3 @@
+##### § 603.1240 Cooperative agreement. #####
+
+A legal instrument which, consistent with 31 U.S.C. 6305, is used to enter into the same kind of relationship as a grant (see definition of “grant,” in § 603.1270), except that substantial involvement is expected between the DOE and the recipient when carrying out the activity contemplated by the cooperative agreement. The term does not include “cooperative research and development agreements” as defined in 15 U.S.C. 3710a.

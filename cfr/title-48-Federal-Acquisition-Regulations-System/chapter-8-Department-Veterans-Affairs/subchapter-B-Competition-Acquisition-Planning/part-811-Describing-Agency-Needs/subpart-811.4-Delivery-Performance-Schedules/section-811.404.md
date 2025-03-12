@@ -1,0 +1,3 @@
+##### 811.404 Contract clause. #####
+
+When delivery is required by or on a particular date for f.o.b. destination contracts, the contracting officer must add a statement following the Time of Delivery clause in FAR 52.211-8 that the delivery date specified is the date by which the shipment is to be delivered, not the shipping date. In f.o.b. origin contracts, the contracting officer must add a statement following this clause that the date specified is the date shipment is to be accepted by the carrier.

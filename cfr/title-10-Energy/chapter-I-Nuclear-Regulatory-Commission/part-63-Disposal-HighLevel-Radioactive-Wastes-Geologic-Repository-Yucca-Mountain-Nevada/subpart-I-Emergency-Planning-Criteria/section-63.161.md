@@ -1,0 +1,3 @@
+##### § 63.161 Emergency plan for the geologic repository operations area through permanent closure. #####
+
+DOE shall develop and be prepared to implement a plan to cope with radiological accidents that may occur at the geologic repository operations area, at any time before permanent closure and decontamination or decontamination and dismantlement of surface facilities. The emergency plan must be based on the criteria of § 72.32(b) of this chapter.

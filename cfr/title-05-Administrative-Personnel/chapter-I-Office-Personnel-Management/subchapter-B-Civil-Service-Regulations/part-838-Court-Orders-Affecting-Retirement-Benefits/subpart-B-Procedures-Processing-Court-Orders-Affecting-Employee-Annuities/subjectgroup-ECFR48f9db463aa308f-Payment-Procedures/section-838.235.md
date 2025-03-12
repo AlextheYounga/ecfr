@@ -1,0 +1,3 @@
+##### § 838.235 Payment of lump-sum awards. #####
+
+If a court order acceptable for processing awards a former spouse a lump-sum amount from the employee annuity and does not state the monthly rate at which OPM should pay the lump-sum, OPM will pay the former spouse equal monthly installments at 50 percent of the gross annuity (subject to the limitations under § 838.211) at the time of retirement or the date of the order, whichever comes later, until the lump-sum amount is paid.

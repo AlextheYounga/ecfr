@@ -1,0 +1,3 @@
+##### § 824.14 Special procedures. #####
+
+A person receiving a final notice of violation under § 824.7 may elect in writing, within 30 days of receipt of such notice, the application of special procedures regarding payment of the penalty set forth in section 234A.c.(3) of the Act, 42 U.S.C. 2282a(c)(3). The Director shall promptly assess a civil penalty, by order, after the date of such election. If the civil penalty has not been paid within sixty calendar days after the assessment has been issued, the DOE shall institute an action in the appropriate District Court of the United States for an order affirming the assessment of the civil penalty.

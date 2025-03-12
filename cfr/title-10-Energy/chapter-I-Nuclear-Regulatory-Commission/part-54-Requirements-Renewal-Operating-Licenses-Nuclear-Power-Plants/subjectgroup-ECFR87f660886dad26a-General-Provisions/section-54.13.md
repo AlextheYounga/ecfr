@@ -1,0 +1,5 @@
+##### § 54.13 Completeness and accuracy of information. #####
+
+(a) Information provided to the Commission by an applicant for a renewed license or information required by statute or by the Commission's regulations, orders, or license conditions to be maintained by the applicant must be complete and accurate in all material respects.
+
+(b) Each applicant shall notify the Commission of information identified by the applicant as having, for the regulated activity, a significant implication for public health and safety or common defense and security. An applicant violates this paragraph only if the applicant fails to notify the Commission of information that the applicant has identified as having a significant implication for public health and safety or common defense and security. Notification must be provided to the Administrator of the appropriate regional office within 2 working days of identifying the information. This requirement is not applicable to information that is already required to be provided to the Commission by other reporting or updating requirements.

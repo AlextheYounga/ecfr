@@ -1,0 +1,3 @@
+##### § 40.17 Is an employer responsible for obtaining information from its service agents? #####
+
+Yes, as an employer, you are responsible for obtaining information required by this part from your service agents. This is true whether or not you choose to use a C/TPA as an intermediary in transmitting information to you. For example, suppose an applicant for a safety-sensitive job takes a pre-employment drug test, but there is a significant delay in your receipt of the test result from an MRO or C/TPA. You must not assume that “no news is good news” and permit the applicant to perform safety-sensitive duties before receiving the result. This is a violation of the Department's regulations.

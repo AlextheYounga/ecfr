@@ -1,0 +1,3 @@
+##### § 1808.105 Relationship to other CDFI Fund programs. #####
+
+Award funds received under any other CDFI Fund program cannot be used by any participant, including Qualified Issuers, Eligible CDFIs and Secondary Borrowers, to pay principal, interest, fees, administrative costs, or issuance costs (including Bond Issuance Fees) related to the CDFI Bond Guarantee Program, or to fund the Risk-Share Pool.

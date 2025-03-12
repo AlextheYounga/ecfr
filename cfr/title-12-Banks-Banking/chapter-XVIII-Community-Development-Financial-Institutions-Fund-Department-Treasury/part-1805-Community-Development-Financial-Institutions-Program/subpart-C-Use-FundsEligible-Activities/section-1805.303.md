@@ -1,0 +1,9 @@
+##### § 1805.303 Technical assistance. #####
+
+(a) *General.* The CDFI Fund may provide technical assistance to build the capacity of a CDFI or an entity that proposes to become a CDFI. Such technical assistance may include: training for management and other personnel; development of programs, products and services; improving financial management and internal operations; enhancing a CDFI's community impact; or other activities deemed appropriate by the CDFI Fund. The CDFI Fund, in its sole discretion, may provide technical assistance in amounts or under terms and conditions that are different from those requested by an Applicant or Recipient. The CDFI Fund may not provide any technical assistance funding to an Applicant for the purpose of assisting in the preparation of an application for federal assistance. The CDFI Fund may provide technical assistance to a CDFI directly, through grants, or by contracting with organizations that possess the appropriate expertise.
+
+(b) The CDFI Fund may provide technical assistance regardless of whether the Recipient also receives financial assistance under this part. Technical assistance provided pursuant to this part is subject to the assistance limits described in § 1805.402.
+
+(c) An Applicant seeking technical assistance must meet the eligibility requirements described in § 1805.200 and submit an application as described in § 1805.600.
+
+(d) Applicants for technical assistance pursuant to this part will be evaluated pursuant to the merit-based qualitative review criteria in subpart G of this part, except as otherwise may be provided in the applicable Notice of Funds Availability. In addition, the requirements for matching funds are not applicable to technical assistance requests.

@@ -1,0 +1,3 @@
+##### § 1003.72 What to file. #####
+
+The person seeking relief under this subpart shall file a “Petition for Special Redress or Other Relief,” which shall be clearly labeled as such both on the petition and on the outside of the envelope in which it is transmitted, and shall be in writing. The general filing requirements stated in § 1003.9 shall be complied with in addition to the requirements stated in this subpart.

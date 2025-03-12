@@ -1,0 +1,5 @@
+##### § 5501.107 Teaching, speaking and writing by special Government employees in the Public Health Service. #####
+
+(a) *Applicability.* This section applies to special Government employees in the Public Health Service who otherwise are prohibited from accepting compensation for teaching, speaking or writing that is related to their official duties, within the meaning of 5 CFR 2635.807(a)(2)(i)(C), because the invitation or the offer of compensation for the activity was extended at a time when the special Government employee was assigned to perform official duties that may substantially affect the interests of the inviter or offeror.
+
+(b) *Permissible compensation.* A special Government employee may accept compensation for teaching, speaking or writing in circumstances described in paragraph (a) of this section only where the special Government employee recuses from the official assignment that may substantially affect the interests of the person who extended the invitation to engage in the activity or the offer of compensation.

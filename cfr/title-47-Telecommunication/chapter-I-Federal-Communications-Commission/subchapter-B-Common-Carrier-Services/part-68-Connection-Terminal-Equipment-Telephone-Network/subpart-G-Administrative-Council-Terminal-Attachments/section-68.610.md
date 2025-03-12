@@ -1,0 +1,9 @@
+##### § 68.610 Database of terminal equipment. #####
+
+(a) The Administrative Council for Terminal Attachments shall operate and maintain a database of all approved terminal equipment. The database shall meet the requirements of the Federal Communications Commission and the U.S. Customs Service for enforcement purposes. The database shall be accessible by government agencies free of charge. Information in the database shall be readily available and accessible to the public, including individuals with disabilities, at nominal or no costs.
+
+(b) Responsible parties, whether they obtain their approval from a Telecommunications Certification Body or utilize the Supplier's Declaration of Conformity process, shall submit to the database administrator all information required by the Administrative Council for Terminal Attachments.
+
+(c) The Administrative Council for Terminal Attachments shall ensure that the database is created and maintained in an equitable and nondiscriminatory manner. The manner in which the database is created and maintained shall not permit any entity or segment of the industry to gain a competitive advantage.
+
+(d) The Administrative Council for Terminal Attachments shall file with the Commission, within 180 days of publication of these rules in the Federal Register, a detailed report of the structure of the database, including details of how the Administrative Council for Terminal Attachments will administer the database, the pertinent information to be included in the database, procedures for including compliance information in the database, and details regarding how the government and the public will access the information.

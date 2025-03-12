@@ -1,0 +1,3 @@
+##### § 405.948 Conduct of a redetermination. #####
+
+A redetermination consists of an independent review of an initial determination. In conducting a redetermination, the contractor reviews the evidence and findings upon which the initial determination was based, and any additional evidence the parties submit or the contractor obtains on its own. An individual who was not involved in making the initial determination must make a redetermination. The contractor may raise and develop new issues that are relevant to the claims in the particular case.

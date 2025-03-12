@@ -1,0 +1,13 @@
+##### § 1015.103 Antitrust, fraud, tax, interagency, transportation account audit, acquisition contract, and financial assistance instrument claims excluded. #####
+
+(a) The standards in this part relating to compromise, suspension, and termination of collection activity do not apply to any debt based in whole or in part on conduct in violation of the antitrust laws or to any debt involving fraud, the presentation of a false claim, or misrepresentation on the part of the debtor or any party having an interest in the claim. Only the DOJ has the authority to compromise, suspend, or terminate collection activity on such claims. The standards in this part relating to the administrative collection of claims do apply, but only to the extent authorized by the DOJ in a particular case. Upon identification of a claim based in whole or in part on conduct in violation of the antitrust laws or any claim involving fraud, the presentation of a false claim, or misrepresentation on the part of the debtor or any party having an interest in the claim, DOE will promptly refer the case to the DOJ for action. At its discretion, the DOJ may return the claim to DOE for further handling in accordance with the standards in this part.
+
+(b) Part 1015 does not apply to tax debts.
+
+(c) Part 1015 does not apply to claims between Federal agencies. Federal agencies should attempt to resolve interagency claims by negotiation in accordance with Executive Order 12146 (3 CFR, 1980 Comp., pp. 409-412).
+
+(d) Part 1015 does not apply to claims arising from the audit of transportation accounts pursuant to 31 U.S.C. 3726 which shall be determined, collected, compromised, terminated, or settled in accordance with regulations published under the authority of 31 U.S.C. 3726 (*see* 41 CFR parts 101-141, administered by the Director, Office of Transportation Audits, General Services Administration) and are otherwise excepted from these regulations.
+
+(e)(1) Part 1015 does not apply to claims arising out of acquisition contracts, subcontracts, and purchase orders which are subject to the Federal Acquisition Regulations System, including the Federal Acquisition Regulation, 48 CFR subpart 32.6, and the Department of Energy Acquisition Regulation, 48 CFR subpart 932.6, and which shall be determined or settled in accordance with those regulations; and
+
+(2) Part 1015 does not apply to claims arising out of financial assistance instruments (*e.g.,* grants, cooperative agreements, and contracts under cooperative agreements) and loans and loan guarantees, which shall be determined or settled in accordance with 10 CFR 600.26 and 10 CFR 600.112(f).

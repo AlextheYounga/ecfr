@@ -1,0 +1,3 @@
+##### § 300.7 Computation of time. #####
+
+In computing any period of time prescribed or allowed in these rules of practice, except as otherwise provided, the day of the event from which the designated period begins to run shall not be included. Saturdays, Sundays, and federal legal holidays shall be included. When a stated time expires on a Saturday, Sunday, or legal holiday, the stated time period shall be extended to include the next business day.

@@ -1,0 +1,25 @@
+##### § 60.5479 What records must I keep and what reports must I submit? #####
+
+(a)(1) Each manufacturer who holds a certificate of compliance pursuant to § 60.5475(a)(2) for a model line must maintain records containing the information required by paragraphs (a)(2) through (4) of this section with respect to that model line for at least 5 years.
+
+(2) All documentation pertaining to the certification test used to obtain certification, including the full test report and raw data sheets, laboratory technician notes, calculations, and the test results for all test runs, and discussions of the appropriateness and validity of all test runs, including runs attempted but not completed. The retained certification test documentation must include, as applicable, detailed discussions of all anomalies, whether all burn rate categories were properly achieved, any data not used in the calculations and, for any test runs not completed, the data that were collected and the reason that the test run was not completed. The retained certification test also must include documentation that the burn rate for the low burn category was no greater than the rate that an operator can achieve in home use and no greater than is advertised by the manufacturer or retailer.
+
+(3) Results of the quality assurance program inspections required pursuant to § 60.5475(m).
+
+(4) For emissions tests conducted pursuant to the quality assurance program required by § 60.5475(m), all test reports, data sheets, laboratory technician notes, calculations, and test results for all test runs, the corrective actions taken, if any, and any follow-up actions such as additional testing.
+
+(b) Each approved test laboratory and third-party certifier must maintain records consisting of all documentation pertaining to each certification test, quality assurance program inspection and audit test, including the full test report and raw data sheets, technician notes, calculations, the test results for all test runs. Each approved test laboratory must submit accreditation credentials and all proficiency test results to the Administrator. Each third-party certifier must submit each certification test, quality assurance program inspection report and ISO-IEC accreditation credentials to the Administrator.
+
+(c) Each manufacturer must retain each central heater upon which certification tests were performed and certification granted under § 60.5475(a)(2) at the manufacturer's facility for 5 years after the certification test. Each central heater must remain sealed and unaltered. Any such central heater must be made available upon request to the Administrator for inspection and testing.
+
+(d) Each manufacturer of an affected central heater model line certified pursuant to § 60.5475(a)(2) must submit a report to the Administrator every 2 years following issuance of a certificate of compliance for each model line. This report must include the sales for each model by state and certify that no changes in the design or manufacture of the model line have been made that require recertification pursuant to § 60.5475(k).
+
+(e)(1) Unless otherwise specified, all records required under this section must be maintained by the manufacturer, commercial owner of the affected central heater, approved test laboratory or third-party certifier for a period of no less than 5 years.
+
+(2) Unless otherwise specified, all reports to the Administrator required under this subpart must be made to: *WoodHeaterReports@epa.gov.*
+
+(f) Within 60 days after the date of completing each performance test (*e.g.,* initial certification test, tests conducted for quality assurance and tests for renewal or recertification), each manufacturer must submit performance test data electronically to *WoodHeaterReports@epa.gov.* Owners or operators who claim that some of the information being submitted for performance tests is CBI (*e.g.,* design drawings) must submit a complete file, including information claimed to be CBI on a compact disk or other commonly used electronic storage media (including, but not limited to, flash drives), by mail, and the same file with the CBI omitted, electronically. The compact disk must be clearly marked as CBI and mailed to U.S. EPA, OECA CBI Office, Attention: Residential Wood Heater Compliance Program, Washington, DC 20004. Emission data and all information necessary to determine compliance, except sensitive engineering drawings and sensitive detailed material specifications, cannot be claimed as CBI.
+
+(g) Within 30 days of receiving a certification of compliance for a model line, the manufacturer must make the full non-CBI test report and the summary of the test report available on the manufacturer's Web site.
+
+(h) Each manufacturer who uses the exemption for R&D heaters under § 60.5472(b)(2) must maintain records for at least 5 years documenting where the heaters were located, that the heaters were never offered for sale or sold and that the heaters were not used for the purpose of heating.

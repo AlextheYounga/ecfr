@@ -1,0 +1,11 @@
+##### § 272.1800 State authorization. #####
+
+(a) The State of Ohio is authorized to administer and enforce a hazardous waste management program in lieu of the Federal program under subtitle C of the Resource Conservation and Recovery Act of 1976 (RCRA), 42 U.S.C. 6291 *et seq.*, subject to the Hazardous and Solid Waste Amendments of 1984 (HSWA) (Pub. L. 98-616, November 8, 1984), 42 U.S.C. 6926 (c) and (g). The Federal program for which a State may receive authorization is defined in 40 CFR part 271. The State's program, as administered by the Ohio Environmental Protection Agency, was approved by EPA pursuant to 42 U.S.C. 6926(b) and part 271 of this chapter. EPA's approval of Ohio's base RCRA program was effective on June 30, 1989 (see 54 FR 27173). EPA's approval of revisions to Ohio's base program was effective on June 7, 1991 (see 56 FR 14203) and August 19, 1991 (see 56 FR 28088).
+
+(b) Ohio is authorized to implement certain HSWA requirements in lieu of EPA. EPA has explicitly indicated its intent to allow much action in a Federal Register notice granting Ohio authorization on June 7, 1991 (see 56 FR 14203) and August 19, 1991 (see 56 FR 28088).
+
+(c) Ohio has primary responsibility for enforcing its hazardous waste program. However, EPA retains the authority to exercise its enforcement authorities under Section 3007, 3008, 3013, and 7003 of RCRA, 42 U.S.C. 6927, 6928, 6934, and 6973, as well as under other Federal laws and regulations.
+
+(d) Ohio must revise its approved program to adopt new changes to the Federal Subtitle C program, in accordance with section 3006(b) of RCRA and 40 CFR part 271, subpart A. Ohio must seek final authorization for all program revisions pursuant to section 3006(b) of RCRA but, on a temporary basis, may seek interim authorization for revisions required by HSWA pursuant to section 3006(b) of RCRA, 42 U.S.C. 6926(g). If Ohio obtains final authorization for the revised requirements pursuant to section 3006(b), the newly authorized provisions will be listed in 272.1801 of this subpart. If Ohio in the future obtains interim authorization for the revised requirements pursuant to section 3006(g), the newly authorized provisions will be listed in § 272.1802.
+
+[54 FR 27173, June 28, 1989, as amended at 57 FR 4162, Feb. 4, 1992]

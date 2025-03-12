@@ -1,0 +1,3 @@
+##### § 630.207 Travel time. #####
+
+The travel time granted an employee under section 6303(d) of title 5, United States Code, is inclusive of the time necessarily occupied in traveling to and from his post of duty and (a) the United States, or (b) his place of residence, which is outside the area of employment, in the Commonwealth of Puerto Rico or the territories or possessions of the United States. The employee shall designate his place of residence in his request for leave under section 6303(d) of title 5, United States Code.

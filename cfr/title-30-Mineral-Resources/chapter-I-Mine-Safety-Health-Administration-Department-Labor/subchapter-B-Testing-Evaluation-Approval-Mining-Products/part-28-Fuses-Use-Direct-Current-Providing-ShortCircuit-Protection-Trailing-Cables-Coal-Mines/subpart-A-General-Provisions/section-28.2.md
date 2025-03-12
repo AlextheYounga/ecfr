@@ -1,0 +1,3 @@
+##### § 28.2 Approved fuses. #####
+
+(a) On and after the effective date of this part, fuses shall be considered to be approved for use with direct current in providing short-circuit protection for trailing cables in coal mines only where such fuses are: (1) The same in all respects as those fuses which have been approved after meeting the minimum requirements for performance and short-circuit protection prescribed in this Part 28; and (2) maintained in an approved condition.

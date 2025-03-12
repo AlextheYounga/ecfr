@@ -1,0 +1,7 @@
+##### § 305.23 Motions. #####
+
+(a) *General.* All motions, except those made orally on the record during a hearing, shall: be in writing; state the grounds therefor with particularity; set forth the relief sought and a proposed order; and be accompanied by an affidavit, certificate, other evidence, or legal memorandum relied upon. Such motions shall be served as provided by § 305.5(b)(2)(i).
+
+(b) *Response to motions.* A party's response to any written motion must be filed within 10 days after service of such motion, unless additional time is allowed for such response. The response shall be accompanied by any affidavit, certificate, other evidence or legal memorandum relied upon. If no response is filed within the designated period, the parties may be deemed to have waived any objection to the granting of the motion. The Presiding Officer may set a shorter time for response, or make such other orders concerning the disposition of motions as he deems appropriate.
+
+(c) *Decision.* The Presiding Officer, or Chief Administrative Law Judge, in the absence of a Presiding Officer, shall rule on all motions. Oral argument on motions will be permitted in the discretion of the Presiding Officer. See § 305.4(a) concerning motions to extend the time limit for final orders.

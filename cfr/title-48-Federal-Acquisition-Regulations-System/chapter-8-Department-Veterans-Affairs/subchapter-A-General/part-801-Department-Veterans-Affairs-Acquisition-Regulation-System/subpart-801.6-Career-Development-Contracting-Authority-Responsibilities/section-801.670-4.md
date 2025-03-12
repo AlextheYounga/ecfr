@@ -1,0 +1,3 @@
+##### 801.670-4 National Cemetery Administration. #####
+
+The Director of Logistics Management Service, the Centralized Contracting Division, and the Construction Support Division are authorized to procure supplies, equipment and non-personal services (including construction) for National Cemetery Administration (NCA) field facilities and other NCA offices when there is an emergency during which the servicing supply organization cannot be used.

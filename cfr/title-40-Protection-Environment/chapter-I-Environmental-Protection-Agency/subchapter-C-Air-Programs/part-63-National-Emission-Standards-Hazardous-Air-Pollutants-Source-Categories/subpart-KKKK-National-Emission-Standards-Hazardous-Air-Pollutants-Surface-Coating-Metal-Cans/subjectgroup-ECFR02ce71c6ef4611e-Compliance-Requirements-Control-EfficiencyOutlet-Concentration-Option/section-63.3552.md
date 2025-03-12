@@ -1,0 +1,19 @@
+##### § 63.3552 How do I demonstrate continuous compliance with the emission limitations? #####
+
+(a) To demonstrate continuous compliance with the emission limitations using the control efficiency/outlet concentration option, the organic HAP emission rate for each compliance period must be equal to or less than 20 ppmvd or must be reduced by the amounts specified in § 63.3490. A compliance period consists of 12 months. Each month after the end of the initial compliance period described in § 63.3550 is the end of a compliance period consisting of that month and the preceding 11 months.
+
+(b) You must demonstrate continuous compliance with each operating limit required by § 63.3492 that applies to you, as specified in Table 4 to this subpart. If an operating parameter is out of the allowed range specified in Table 4 to this subpart, this is a deviation from the operating limit that must be reported as specified in §§ 63.3510(b)(6) and 63.3511(a)(7).
+
+(c) You must meet the requirements for bypass lines in § 63.3557(b). If any bypass line is opened and emissions are diverted to the atmosphere when the coating operation is running, this is a deviation that must be reported as specified in §§ 63.3510(b)(6) and 63.3511(a)(7). For purposes of demonstrating compliance, you must treat the materials used during a deviation on a controlled coating operation as if they were used on an uncontrolled coating operation for the time period of the deviation.
+
+(d) You must demonstrate continuous compliance with the work practice standards in § 63.3493. If you did not develop a work practice plan or you did not implement the plan or you did not keep the records required by § 63.3512(j)(8), this is a deviation from the work practice standards that must be reported as specified in §§ 63.3510(b)(6) and 63.3511(a)(7).
+
+(e) As part of each semiannual compliance report required in § 63.3511, you must identify the coating operation(s) for which you used the control efficiency/outlet concentration option. If there were no deviations from the operating limits or work practice standards, submit a statement that you were in compliance with the emission limitations during the reporting period because the organic HAP emission rate for each compliance period was less than 20 ppmvd or was reduced by the amount specified in § 63.3490, and you achieved the operating limits required by § 63.3492 and the work practice standards required by § 63.3493 during each compliance period.
+
+(f) [Reserved]
+
+(g) Before August 24, 2020, consistent with §§ 63.6(e) and 63.7(e)(1), deviations that occur during a period of startup, shutdown, or malfunction of the emission capture system, add-on control device, or coating operation that may affect emission capture or control device efficiency are not violations if you demonstrate to the Administrator's satisfaction that you were operating in accordance with § 63.6(e)(1). The Administrator will determine whether deviations that occur during a period you identify as a startup, shutdown, or malfunction are violations, according to the provisions in § 63.6(e). On and after August 24, 2020 deviations that occur due to malfunction of the emission capture system, add-on control device, or coating operation that may affect emission capture or control device efficiency are required to operate in accordance with § 63.3500(b). The Administrator will determine whether the deviations are violations according to the provisions in § 63.3500(b).
+
+(h) You must maintain records applicable to the control efficiency/outlet concentration option as specified in §§ 63.3512 and 63.3513.
+
+[68 FR 64446, Nov. 13, 2003, as amended at 71 FR 20464, Apr. 20, 2006; 85 FR 10855, Feb. 25, 2020]

@@ -1,0 +1,5 @@
+##### § 22.15 Delinquency on Federal, State, or Municipality Debt. #####
+
+(a) The borrower must not be delinquent on any Federal, State, or municipality debt, including tax debts. Further, none of the principals and/or owners of the borrower can be delinquent on any Federal, State, or municipality debt, including personal tax debt. The borrower must acknowledge its status in writing as part of any STLP loan guarantee application. Participating Lenders and the DOT OSDBU must verify the borrower's status through the use of business and personal credit reports, as well as other appropriate Federal and State databases.
+
+(b) If any delinquencies are determined during the application process, consideration of the request must be suspended until the delinquency is satisfactorily resolved, as determined and approved by the Director. If the delinquency cannot be resolved within a reasonable amount of time, the loan request must be declined.

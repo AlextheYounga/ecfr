@@ -1,0 +1,3 @@
+##### § 56.12069 Lightning protection for telephone wires and ungrounded conductors. #####
+
+Each ungrounded power conductor or telephone wire that leads underground and is directly exposed to lightning shall be equipped with suitable lightning arrestors of approved type within 100 feet of the point where the circuit enters the mine. Lightning arrestors shall be connected to a low resistance grounding medium on the surface and shall be separated from neutral grounds by a distance of not less than 25 feet.

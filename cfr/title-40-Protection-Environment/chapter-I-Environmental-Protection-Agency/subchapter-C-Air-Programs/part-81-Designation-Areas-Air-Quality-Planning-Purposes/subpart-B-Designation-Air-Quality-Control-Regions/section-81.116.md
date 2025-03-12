@@ -1,0 +1,5 @@
+##### § 81.116 Northern Missouri Intrastate Air Quality Control Region. #####
+
+The Northern Missouri Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Missouri: Adair County, Andrew County, Atchison County, Audrain County, Boone County, Caldwell County, Callaway County, Carroll County, Chariton County, Clark County, Clinton County, Cole County, Cooper County, Daviess County, De Kalb County, Gentry County, Grundy County, Harrison County, Holt County, Howard County, Knox County, Lewis County, Lincoln County, Linn County, Livingston County, Macon County, Marion County, Mercer County, Moniteau County, Monroe County, Montgomery County, Nodaway County, Osage County, Pike County, Putnam County, Ralls County, Randolph County, Saline County, Schuyler County, Scotland County, Shelby County, Sullivan County, Warren County, Worth County.

@@ -1,0 +1,5 @@
+##### § 1215.100 General. #####
+
+TDRSS represents a major investment by the U.S. Government with the primary goal of providing improved tracking and data acquisition services to spacecraft in low-Earth orbit or to mobile terrestrial users such as aircraft or balloons. It is the objective of NASA to operate as efficiently as possible with TDRSS, is to the mutual benefit of all users. Such user consideration will permit NASA and non-NASA service to be delivered without compromising the mission objectives of any individual user. The reimbursement policy is designed to comply with the Office of Management and Budget Circular A-25 on User Charges, dated September 23, 1959, as updated, which requires that a reasonable charge should be made to each identifiable recipient for a measurable unit or amount of Government service or property from which a special benefit is derived.
+
+[77 FR 6952, Feb. 10, 2012]

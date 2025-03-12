@@ -1,0 +1,3 @@
+##### § 872.14 What are State share funds? #####
+
+“State share funds” are moneys we distribute to you from your State share of the Fund each Federal fiscal year under section 402(g)(1)(A) of SMCRA. Your State share of the Fund is 50 percent of the reclamation fees we collected from within your State (excluding fees collected on Indian lands) and allocated to you, the State, in the Fund for coal produced in the previous fiscal year.

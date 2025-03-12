@@ -1,0 +1,7 @@
+##### § 130.4 Water quality monitoring. #####
+
+(a) In accordance with section 106(e)(1), States must establish appropriate monitoring methods and procedures (including biological monitoring) necessary to compile and analyze data on the quality of waters of the United States and, to the extent practicable, ground-waters. This requirement need not be met by Indian Tribes. However, any monitoring and/or analysis activities undertaken by a Tribe must be performed in accordance with EPA's quality assurance/quality control guidance.
+
+(b) The State's water monitoring program shall include collection and analysis of physical, chemical and biological data and quality assurance and control programs to assure scientifically valid data. The uses of these data include determining abatement and control priorities; developing and reviewing water quality standards, total maximum daily loads, wasteload allocations and load allocations; assessing compliance with National Pollutant Discharge Elimination System (NPDES) permits by dischargers; reporting information to the public through the section 305(b) report and reviewing site-specific monitoring efforts.
+
+[50 FR 1779, Jan. 11, 1985, as amended at 54 FR 14359, Apr. 11, 1989]

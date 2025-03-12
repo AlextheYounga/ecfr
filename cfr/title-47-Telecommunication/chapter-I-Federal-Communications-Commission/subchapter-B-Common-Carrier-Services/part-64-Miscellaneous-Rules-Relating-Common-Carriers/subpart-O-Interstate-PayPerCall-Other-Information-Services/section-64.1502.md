@@ -1,0 +1,3 @@
+##### § 64.1502 Limitations on the provision of pay-per-call services. #####
+
+Any common carrier assigning a telephone number to a provider of interstate pay-per-call service shall require, by contract or tariff, that such provider comply with the provisions of this subpart and of titles II and III of the Telephone Disclosure and Dispute Resolution Act (Pub. L. No. 102-556) (TDDRA) and the regulations prescribed by the Federal Trade Commission pursuant to those titles.

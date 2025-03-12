@@ -1,0 +1,9 @@
+##### § 222.15 How does one obtain a waiver of a provision of this regulation? #####
+
+(a) Except as provided in paragraph (b) of this section, two parties must jointly file a petition (request) for a waiver. They are the railroad owning or controlling operations over the railroad tracks crossing the public highway-rail grade crossing and the public authority which has jurisdiction over the roadway crossing the railroad tracks.
+
+(b) If the railroad and the public authority cannot reach agreement to file a joint petition, either party may file a request for a waiver; however, the filing party must specify in its petition the steps it has taken in an attempt to reach agreement with the other party, and explain why applying the requirement that a joint submission be made in that instance would not be likely to contribute significantly to public safety. If the Associate Administrator determines that applying the requirement for a jointly filed submission to that particular petition would not be likely to significantly contribute to public safety, the Associate Administrator shall waive the requirement for joint submission and accept the petition for consideration. The filing party must also provide the other party with a copy of the petition filed with FRA.
+
+(c) Each petition for waiver must be filed in accordance with 49 CFR part 211.
+
+(d) If the Administrator finds that a waiver of compliance with a provision of this part is in the public interest and consistent with the safety of highway and railroad users, the Administrator may grant the waiver subject to any conditions the Administrator deems necessary.

@@ -1,0 +1,3 @@
+##### § 1070.36 Procedure in the event of an adverse ruling. #####
+
+If a stay or, or other relief from, the effect of a demand made pursuant to sections 1070.34 and 1070.35 of this subpart is declined or not obtained, or if the court or other judicial or quasi-judicial authority declines to stay the effect of the demand made pursuant to sections 1070.34 and 1070.35 of this subpart, or if the court or other authority rules that the demand must be complied with irrespective of the General Counsel's instructions not to produce the material or disclose the information sought, the employee upon whom the demand has been made shall respectfully decline to comply with the demand citing this subpart and *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

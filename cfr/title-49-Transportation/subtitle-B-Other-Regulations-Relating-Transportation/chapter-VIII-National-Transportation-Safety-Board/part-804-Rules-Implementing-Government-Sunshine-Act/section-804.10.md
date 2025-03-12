@@ -1,0 +1,5 @@
+##### § 804.10 Availability and retention of transcripts, recordings, and minutes, and applicable fees. #####
+
+The NTSB shall make promptly available to the public the transcript, electronic recording, or minutes of the discussion of any item on the agenda or of any testimony received at the meeting, except for such item, or items, of discussion or testimony as determined by the NTSB to contain matters which may be withheld under the exemptive provisions of § 804.5. Copies of the nonexempt portions of the transcript or minutes, or transcription of such recordings disclosing the identity of each speaker, shall be furnished to any person at the actual cost of transcription or duplication. The NTSB shall maintain a complete verbatim copy of the transcript, a complete copy of the minutes, or a complete electronic recording of each meeting, or a portion thereof, closed to the public for at least two years after such meeting, or until one year after the conclusion of any NTSB proceeding with respect to which the meeting, or a portion thereof, was held, whichever occurs later.
+
+[42 FR 13284, Mar. 10, 1977, as amended at 81 FR 75731, Nov. 1, 2016]

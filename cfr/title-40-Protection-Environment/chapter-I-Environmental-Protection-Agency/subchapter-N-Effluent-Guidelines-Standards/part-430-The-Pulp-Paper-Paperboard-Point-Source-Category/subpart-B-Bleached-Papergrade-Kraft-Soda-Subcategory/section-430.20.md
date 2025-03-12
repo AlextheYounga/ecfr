@@ -1,0 +1,3 @@
+##### § 430.20 Applicability; description of the bleached papergrade kraft and soda subcategory. #####
+
+The provisions of this subpart apply to discharges resulting from: The production of market pulp at bleached kraft mills; the integrated production of paperboard, coarse paper, and tissue paper at bleached kraft mills; the integrated production of pulp and fine papers at bleached kraft mills; and the integrated production of pulp and paper at soda mills.

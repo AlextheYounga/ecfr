@@ -1,0 +1,3 @@
+##### § 511.52 Adoption of initial decision. #####
+
+The Initial Decision and Order shall become the Final Decision and Order of the Administrator forty (40) days after issuance unless an appeal is noted and perfected or unless review is ordered by the Administrator. Upon the expiration of the fortieth day, the Executive Secretary shall prepare, sign and enter an order adopting the Initial Decision and Order.

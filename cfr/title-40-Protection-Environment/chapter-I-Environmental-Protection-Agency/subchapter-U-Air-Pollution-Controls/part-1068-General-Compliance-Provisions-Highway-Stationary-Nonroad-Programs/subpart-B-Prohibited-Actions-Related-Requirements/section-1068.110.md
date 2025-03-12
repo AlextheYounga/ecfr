@@ -1,0 +1,13 @@
+##### § 1068.110 Other provisions for engines/equipment in service. #####
+
+(a) *Aftermarket parts and service.* As the certifying manufacturer, you may not require anyone to use your parts or service to maintain or repair an engine or piece of equipment, unless we approve this in your application for certification. It is a violation of the Clean Air Act for anyone to manufacture any part if one of its main effects is to reduce the effectiveness of the emission controls. See § 1068.101(b)(2).
+
+(b) *Certifying aftermarket parts.* As the manufacturer or rebuilder of an aftermarket engine or equipment part, you may—but are not required to—certify according to 40 CFR part 85, subpart V, that using the part will not cause engines/equipment to fail to meet emission standards. Whether you certify or not, you must keep any information showing how your parts or service affect emissions.
+
+(c) *Compliance with standards.* We may test engines and equipment to investigate compliance with emission standards and other requirements. We may also require the manufacturer to do this testing.
+
+(d) *Defeat devices.* We may test components, engines, and equipment to investigate potential defeat devices. We may also require the manufacturer to do this testing. If we choose to investigate one of your designs, we may require you to show us that a component is not a defeat device, and that an engine/equipment does not have a defeat device. To do this, you may have to share with us information regarding test programs, engineering evaluations, design specifications, calibrations, on-board computer algorithms, and design strategies. It is a violation of the Clean Air Act for anyone to make, install or use defeat devices as described in § 1068.101(b)(2) and the standard-setting part.
+
+(e) *Warranty and maintenance.* Owners are responsible for properly maintaining their engines/equipment; however, owners may make warranty claims against the manufacturer for all expenses related to diagnosing and repairing or replacing emission-related parts, as described in § 1068.115. Manufacturers may ask to limit diagnosis and repair to authorized service facilities, provided this does not limit their ability to meet their warranty obligations under § 1068.115. The warranty period begins when the equipment is first placed into service. See the standard-setting part for specific requirements. It is a violation of the Clean Air Act for anyone to disable emission controls; see § 1068.101(b)(1) and the standard-setting part.
+
+[73 FR 59344, Oct. 8, 2008, as amended at 81 FR 74225, Oct. 25, 2016]

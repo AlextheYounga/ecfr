@@ -1,0 +1,3 @@
+##### § 303.3 Application of this part. #####
+
+The provisions of this part are applicable to all elements of the FMCSA and to any program or activity for which Federal financial assistance is authorized under a law administered by the FMCSA. This part provides Title VI guidelines for State Departments of Transportation and local State agencies, including their sub-recipients, to implement Title VI. It also applies to money paid, property transferred, or other Federal financial assistance extended under any program of the FMCSA after the date of this part.

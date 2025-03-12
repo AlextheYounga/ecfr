@@ -1,0 +1,7 @@
+##### § 785.10 Information collection. #####
+
+Link to an amendment published at 81 FR 93379, Dec. 20, 2016.
+
+In accordance with 44 U.S.C. 3501 *et seq.,* the Office of Management and Budget (OMB) has approved the information collection requirements of part 785 and assigned it control number 1029-0040. The information is being collected to meet the requirements of sections 507, 508, 510, 515, 701 and 711 of Public Law 95-87, which requires applicants for special types of mining activities to provide descriptions, maps, plans and data of the proposed activity. This information will be used by the regulatory authority in determining if the applicant can meet the applicable performance standards for the special type of mining activity. Persons must respond to obtain a benefit. A Federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+
+[73 FR 67630, Nov. 14, 2008]

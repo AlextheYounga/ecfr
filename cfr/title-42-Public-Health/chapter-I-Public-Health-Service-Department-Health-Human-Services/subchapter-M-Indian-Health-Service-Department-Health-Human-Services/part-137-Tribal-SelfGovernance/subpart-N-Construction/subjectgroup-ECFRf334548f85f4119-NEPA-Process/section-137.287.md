@@ -1,0 +1,3 @@
+##### § 137.287 What is the National Environmental Policy Act (NEPA)? #####
+
+The NEPA is a procedural law that requires Federal agencies to follow established environmental review procedures, which include reviewing and documenting the environmental impact of their actions. NEPA establishes a comprehensive policy for protection and enhancement of the environment by the Federal Government; creates the Council on Environmental Quality in the Office of the President; and directs Federal agencies to carry out the policies and procedures of the Act. CEQ regulations (40 CFR 1500-1508) establish three levels of environmental review: categorical exclusions, environmental assessments, and environmental impact statements.

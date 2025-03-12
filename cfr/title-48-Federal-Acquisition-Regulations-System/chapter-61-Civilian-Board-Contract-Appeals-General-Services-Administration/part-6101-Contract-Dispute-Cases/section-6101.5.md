@@ -1,0 +1,13 @@
+##### 6101.5 Appearances; notice of appearance [Rule 5]. #####
+
+(a) *Appearances before the Board* - (1) *Appellant; petitioner; applicant.* Any appellant, petitioner, or applicant may appear before the Board by an attorney-at-law licensed to practice in a state, commonwealth, or territory of the United States, or in the District of Columbia. An individual appellant, petitioner, or applicant may appear in his or her own behalf; a corporation, trust, or association may appear by one of its officers; and a partnership may appear by one of its members.
+
+(2) *Respondent.* The respondent may appear before the Board by an attorney-at-law licensed to practice in a state, commonwealth, or territory of the United States, or in the District of Columbia. Alternatively, if not prohibited by agency regulation or otherwise, the respondent may appear by the contracting officer or by the contracting officer's authorized representative.
+
+(3) *Others.* The Board may, on motion, in its discretion, permit a special or limited appearance, such as by an amicus curiae. Permission to appear, if granted, will be for such purposes and in such manner as allowed by the presiding judge.
+
+(b) *Notice of appearance.* Unless a notice of appearance is filed by some other person, the person signing the notice of appeal, petition, or application shall be deemed to have appeared on behalf of the appellant, petitioner, or applicant, and the head of the respondent agency's litigation office shall be deemed to have appeared on behalf of the respondent. Other attorneys actively participating in the proceedings before the Board must file notices of appearance. A notice of appearance in the form specified in the appendix to the rules of this chapter is sufficient. Attorneys representing parties before the Board are required to list the state bars to which they are admitted and their state bar numbers or other bar identifiers.
+
+(c) *Withdrawal of appearance.* Any person who has filed a notice of appearance and who wishes to withdraw from a case must file a motion which includes the name, address, telephone number, facsimile machine number, and e-mail address, if available, of the person who will assume responsibility for representation of the party in question. The motion shall state the grounds for withdrawal unless it is accompanied by a representation from the successor representative or existing co-counsel that the established case schedule will be met.
+
+[72 FR 36795, July 5, 2007, as amended at 73 FR 26950, May 12, 2008; 76 FR 50928, Aug. 17, 2011]

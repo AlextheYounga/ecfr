@@ -1,0 +1,3 @@
+##### § 9.56 Accompanying persons. #####
+
+An individual requesting access to records about himself may be accompanied by another individual of his own choosing. Both the individual requesting access and the individual accompanying him shall sign the required form indicating that the Nuclear Regulatory Commission is authorized to discuss the contents of the subject record in the presence of both individuals.

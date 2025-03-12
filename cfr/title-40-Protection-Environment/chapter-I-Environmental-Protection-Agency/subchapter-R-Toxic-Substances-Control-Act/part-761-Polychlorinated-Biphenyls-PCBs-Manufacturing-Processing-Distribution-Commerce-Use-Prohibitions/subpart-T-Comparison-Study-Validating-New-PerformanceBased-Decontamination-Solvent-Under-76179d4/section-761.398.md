@@ -1,0 +1,9 @@
+##### § 761.398 Reporting and recordkeeping. #####
+
+(a) Submit validation study results to the Director, Office of Resource Conservation and Recovery (5301P), Environmental Protection Agency, 1200 Pennsylvania Ave., NW., Washington, DC 20460-0001, prior to the first use of a new solvent for alternate decontamination under § 761.79(d)(4). The use of a new solvent is not TSCA Confidential Business Information (CBI). From time to time, EPA will confirm the use of validated new decontamination solvents and publish the new solvents and validated decontamination procedures in the Federal Register.
+
+(b) Any person may begin to use solvent validated in accordance with this subpart at the time results are submitted to EPA.
+
+(c) Record all testing parameters and experimental conditions from the successful validation study into a standard operating procedure (SOP) for reference whenever the decontamination procedure is used. Include in the SOP the identity of the soaking solvent, the length of time of the soak, and the ratio of the soak solvent to contaminated surface area during the soaking process. Also include in the SOP the maximum concentration of PCBs in the spilled material and the identity of the spilled material, and/or the measured maximum surface concentration of the contaminated surface used in the validation study. Record and keep the results of the validation study as an appendix to the SOP. Include in this appendix, the solvent used to make the spiking solution, the PCB concentration of the spiking solution used to contaminate the surfaces in the validation study, and all of the validation study testing parameters and experimental conditions.
+
+[63 FR 35473, June 29, 1998, as amended at 72 FR 57241, Oct. 9, 2007; 74 FR 30235, June 25, 2009]

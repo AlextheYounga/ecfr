@@ -1,0 +1,3 @@
+##### § 232.501 Scope. #####
+
+This subpart contains general requirements for introducing new brake system technologies. This subpart is intended to facilitate the introduction of new complete brake system technologies or major upgrades to existing systems which the current regulations do not adequately address (*i.e.,* electronic brake systems). This subpart is not intended for use in the introduction of a new brake component or material.

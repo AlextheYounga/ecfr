@@ -1,0 +1,3 @@
+##### § 220.43 Radio communications consistent with federal regulations and railroad operating rules. #####
+
+Radio communication shall not be used in connection with a railroad operation in a manner which conflicts with the requirements of this part, Federal Communication Commission regulations, or the railroad's operating rules. The use of citizen band radios for railroad operating purposes is prohibited.

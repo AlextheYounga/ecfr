@@ -1,0 +1,5 @@
+##### § 150.10 Persons exempt. #####
+
+Except as provided in §§ 150.15, 150.16, 150.17, 150.17a, and 150.19, any person in an Agreement State who manufactures, produces, receives, possesses, uses, or transfers byproduct material, source material, or special nuclear material in quantities not sufficient to form a critical mass is exempt from the requirements for a license contained in Chapters 6, 7, and 8 of the Act, regulations of the Commission imposing licensing requirements upon persons who manufacture, produce, receive, possess, use, or transfer such materials, and from regulations of the Commission applicable to licensees. The exemptions in this section do not apply to agencies of the Federal government as defined in § 150.3.
+
+[37 FR 9208, May 6, 1972, as amended at 45 FR 50718, July 31, 1980; 75 FR 73946, Nov. 30, 2010]

@@ -1,0 +1,3 @@
+##### § 263.101 Standards for awards. #####
+
+A respondent in a covered proceeding that prevails on the merits of that proceeding against the Board, and that is eligible under this subpart as defined in § 263.103, may receive an award for fees and expenses incurred in the proceeding unless the position of the Board during the proceeding was substantially justified or special circumstances make an award unjust. The position of the Board includes, in addition to the position taken by the Board in the adversary proceeding, the action or failure to act by the Board upon which the adversary proceeding was based. An award will be reduced or denied if the applicant has unduly or unreasonably protracted the proceedings.

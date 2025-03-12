@@ -1,0 +1,5 @@
+##### § 431.406 Subpoena—Electric Motors. #####
+
+Pursuant to sections 329(a) and 345 of the Act, for purposes of carrying out this part, the Secretary or the Secretary's designee, may sign and issue subpoenas for the attendance and testimony of witnesses and the production of relevant books, records, papers, and other documents, and administer the oaths. Witnesses summoned under the provisions of this section shall be paid the same fees and mileage as are paid to witnesses in the courts of the United States. In case of contumacy by, or refusal to obey a subpoena served upon any persons subject to this part, the Secretary may seek an order from the District Court of the United States for any District in which such person is found or resides or transacts business requiring such person to appear and give testimony, or to appear and produce documents. Failure to obey such order is punishable by such court as a contempt thereof.
+
+[76 FR 12505, Mar. 7, 2011]

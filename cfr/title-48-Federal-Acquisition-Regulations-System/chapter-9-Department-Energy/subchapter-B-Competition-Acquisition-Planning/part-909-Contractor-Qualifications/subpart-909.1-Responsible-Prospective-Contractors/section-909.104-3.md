@@ -1,0 +1,5 @@
+##### 909.104-3 Application of standards. #####
+
+(e) *Guaranteeing corporate entities.* The Department of Energy (DOE) may select an entity which was newly created to perform the prospective contract, including, but not limited to, a joint venture or other similarly binding corporate partnership. In such instances when making the determination of responsibility pursuant to 48 CFR 9.103, the contracting officer may evaluate the financial resources of other entities only to the extent that those entities are legally bound, jointly and severally if more than one, by means of a performance guarantee or other equivalent enforceable commitment to supply the necessary resources to the prospective contractor and to assume all contractual obligations of the prospective contractor. The guaranteeing corporate entity(ies) must be found to have sufficient resources in order to satisfy its guarantee.
+
+[64 FR 16651, Apr. 6, 1999, as amended at 74 FR 36362, July 22, 2009]

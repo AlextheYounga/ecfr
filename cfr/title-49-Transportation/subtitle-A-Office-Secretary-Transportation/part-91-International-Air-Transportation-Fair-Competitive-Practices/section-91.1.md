@@ -1,0 +1,3 @@
+##### § 91.1 Purpose. #####
+
+The purpose of this part is to prescribe the Secretary's role in executing his responsibilities under sections 2 and 3 of the International Air Transportation Fair Competitive Practices Act of 1974 to the end that U.S. flag air carriers operating in foreign air transportation are protected from all forms of discrimination or unfair competitive practices and are compensated for excessive or otherwise discriminatory charges levied by foreign governments or other foreign entities for the use of airport or airway property.

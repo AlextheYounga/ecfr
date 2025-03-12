@@ -1,0 +1,3 @@
+##### 49.108-1 Subcontractor's rights. #####
+
+A subcontractor has no contractual rights against the Government upon the termination of a prime contract. A subcontractor may have rights against the prime contractor or intermediate subcontractor with whom it has contracted. Upon termination of a prime contract, the prime contractor and each subcontractor are responsible for the prompt settlement of the settlement proposals of their immediate subcontractors.

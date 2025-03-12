@@ -1,0 +1,3 @@
+##### § 330.102 Methods of filling vacancies. #####
+
+An agency may fill a vacancy in the competitive service by any method authorized in this chapter, including competitive appointment from a list of eligibles, noncompetitive appointment under special authority, reinstatement, transfer, reassignment, change to lower grade, or promotion. The agency must exercise its discretion in each personnel action solely on the basis of merit and fitness, without regard to political or religious affiliation, marital status, or race, and veterans' preference entitlements.

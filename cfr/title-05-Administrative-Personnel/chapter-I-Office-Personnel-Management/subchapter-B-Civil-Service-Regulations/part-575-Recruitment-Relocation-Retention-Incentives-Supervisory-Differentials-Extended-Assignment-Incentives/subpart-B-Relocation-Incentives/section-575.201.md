@@ -1,0 +1,3 @@
+##### § 575.201 Purpose. #####
+
+This subpart contains regulations implementing 5 U.S.C. 5753, which authorizes payment of relocation incentives. An agency may pay a relocation incentive to a current employee who must relocate to accept a position in a different geographic area under the conditions specified in this subpart provided the agency determines that the position is likely to be difficult to fill in the absence of an incentive.

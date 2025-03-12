@@ -1,0 +1,5 @@
+##### § 33.10 Certificates of approval or performance. #####
+
+(a) Upon completion of an investigation, MSHA will issue to the applicant either a certificate or a written notice of disapproval, as they case may require. No informal notification of approval will be issued. If a certificate is issued, no test data or detailed results of tests will accompany it. If a notice of disapproval is issued, it will be accompanied by details of the defects, with a view to possible correction. MSHA will not disclose, except to the applicant, any information on a unit or system upon which a notice of disapproval has been issued.
+
+(b) A certificate will be accompanied by a list of the drawings and specifications covering the details of design and construction of the unit or system, including the electrical parts, if applicable, upon which the certificate is based. Applicants shall keep exact duplicates of the drawings and specifications submitted and the list of drawing numbers referred to in § 33.6(d)(1) that relate to the certified unit or system, and these are to be adhered to exactly in production.

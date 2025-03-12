@@ -1,0 +1,29 @@
+##### § 1229.11 Capital restoration plans. #####
+
+(a) *Contents.* Each capital restoration plan submitted by a Bank shall set forth a plan to restore its permanent and total capital to levels sufficient to fulfill its risk-based and minimum capital requirements within a reasonable period of time. Such plan must be feasible given general market conditions and the conditions of the Bank and, at a minimum, shall:
+
+(1) Describe the actions the Bank will take, including any changes that the Bank will make to member stock purchase requirements, to assure that it will become adequately capitalized within the meaning of § 1229.3(a) of this subpart and, if appropriate, to resolve any structural or long term causes for the capital deficiency;
+
+(2) Specify the level of permanent and total capital the Bank will achieve and maintain and provide quarterly projections indicating how each component of total and permanent capital and the major components of income, assets and liabilities are expected to change over the term of the plan;
+
+(3) Specify the types and levels of activities in which the Bank will engage during the term of the plan, including any new business activities that it intends to begin during such term;
+
+(4) Describe any other actions the Bank intends to take to comply with any other requirements imposed on it under this subpart A of part 1229;
+
+(5) Provide a schedule which sets forth dates for meeting specific goals and benchmarks and taking other actions described in the proposed capital restoration plan, including setting forth a schedule for it to restore its permanent and total capital to levels necessary for meeting its risk-based and minimum capital requirements; and
+
+(6) Address such other items that the Director shall provide in writing in advance of such submission.
+
+(b) *Deadline for submission.* A Bank must submit a proposed capital restoration plan no later than 15 business-days after it receives written notification that such a plan is required either because the notice specifically states that the Director has required the submission of a plan or the notice indicates that the Bank's capital classification or reclassification is to a category for which a capital restoration plan is a mandatory action required of the Bank. The Director may extend this deadline if the Director determines that such extension is necessary. Any such extension shall be in writing and provide a specific date by which the Bank must submit its proposed capital restoration plan.
+
+(c) *Review of the plan by the Director.* The Director shall have 30 calendar days from the date the Bank submits a proposed capital restoration plan to approve or disapprove the plan. The Director may extend the period for consideration of a capital restoration plan for a single 30 calendar day period by providing the Bank with written notification that the decision deadline has been extended. The Director shall provide the Bank with written notification of the decision to approve or not approve a proposed capital restoration plan. If the Director does not approve the capital restoration plan, the written notification of such decision shall provide the reasons for the disapproval.
+
+(d) *Resubmission.* If the Director does not approve the Bank's proposed capital restoration plan, the Bank shall submit a new capital restoration plan acceptable to the Director within 30 calendar days of the date that the Bank was notified of the disapproval. The Director may extend the period for the Bank's submission of a new acceptable capital restoration plan upon a determination that such extension is in the public interest. The Director shall provide the Bank written notice of the extension and include in such notice the date by which the Bank must submit an acceptable plan.
+
+(e) *Amendments.* The Director, in his or her sole discretion, may approve amendments to an approved capital restoration plan if, after consideration of changes in conditions of the Bank, changes in market conditions and other relevant factors, the Director determines that such amendments are consistent with the restoration of the Bank's capital to levels necessary to meet its risk-based and minimum capital requirements in a reasonable period of time and with the safe and sound operations of the Bank.
+
+(f) *Effectiveness of provisions.* A Bank is obligated to implement and fulfill all provisions of an approved capital restoration plan. Unless expressly addressed by the terms of the capital restoration plan, a Bank remains bound by each and every obligation and requirement set forth in the approved capital restoration plan until such requirement or obligation is amended under paragraph (e) of this section or terminated in writing by the Director.
+
+(g) *Appointment of conservator or receiver.* Notwithstanding any other provision of federal or state law, the Director may appoint the FHFA as conservator or receiver of any Bank that is classified as undercapitalized or significantly undercapitalized if the Bank fails to submit a capital restoration plan acceptable to the Director within the time frames established by this section or if the Bank materially fails to implement any capital restoration plan that has been approved by the Director. A Bank may within 30 days of such appointment bring an action in the United States district court for the judicial district in which the Bank is established pursuant to section 3 of the Bank Act (12 U.S.C. 1423) or in the United States District Court for the District of Columbia, for an order requiring the FHFA to remove itself as conservator or receiver.
+
+[74 FR 5604, Jan. 30, 2009, as amended at 74 FR 38513, Aug. 4, 2009]

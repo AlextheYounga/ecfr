@@ -1,0 +1,9 @@
+##### § 63.4552 How do I demonstrate continuous compliance with the emission limitations? #####
+
+(a) To demonstrate continuous compliance, the organic HAP emission rate for each compliance period, determined according to § 63.4551(a) through (g), must be less than or equal to the applicable emission limit in § 63.4490. A compliance period consists of 12 months. Each month after the end of the initial compliance period described in § 63.4550 is the end of a compliance period consisting of that month and the preceding 11 months. You must perform the calculations in § 63.4551(a) through (g) on a monthly basis using data from the previous 12 months of operation. If you are complying with a facility-specific emission limit under § 63.4490(c), you must also perform the calculation using Equation 1 in § 63.4490(c)(2) on a monthly basis using the data from the previous 12 months of operation.
+
+(b) If the organic HAP emission rate for any 12-month compliance period exceeded the applicable emission limit in § 63.4490, this is a deviation from the emission limitation for that compliance period and must be reported as specified in §§ 63.4510(c)(6) and 63.4520(a)(6).
+
+(c) As part of each semiannual compliance report required by § 63.4520, you must identify the coating operation(s) for which you used the emission rate without add-on controls option. If there were no deviations from the emission limitations, you must submit a statement that the coating operation(s) was (were) in compliance with the emission limitations during the reporting period because the organic HAP emission rate for each compliance period was less than or equal to the applicable emission limit in § 63.4490, determined according to § 63.4551(a) through (g).
+
+(d) You must maintain records as specified in §§ 63.4530 and 63.4531.

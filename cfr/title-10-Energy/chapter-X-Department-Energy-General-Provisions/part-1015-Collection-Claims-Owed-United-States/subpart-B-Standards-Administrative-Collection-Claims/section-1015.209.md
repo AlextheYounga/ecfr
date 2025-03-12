@@ -1,0 +1,5 @@
+##### § 1015.209 Tax refund offset. #####
+
+(a) DOE may authorize the Internal Revenue Service (IRS) to offset a tax refund to satisfy delinquent debt in accordance with 31 U.S.C. 3720A, Reduction of Tax Refund by Amount of Debt. Treasury has issued regulations implementing the tax refund offset as part of Treasury's mandatory centralized offset at 31 CFR 285.2, Offset of Tax Refund to Collect Past-Due, Legally Enforceable Non-tax Debt. DOE has adopted 31 U.S.C. 3720A and 31 CFR 285.2 in their entirety. The due process requirements of 31 U.S.C. 3720A are contained in §§ 1015.203(b)(4), and 1015.203(e) of this part.
+
+(b) As described in § 1015.201(e) of this part, under the DCIA (31 U.S.C. 3711(g)), DOE is required to transfer all debts over 180 days delinquent to Treasury for purposes of debt collection (*i.e.,* cross-servicing). As part of its regular debt collection procedures, Treasury may use tax refund offset on behalf of DOE.

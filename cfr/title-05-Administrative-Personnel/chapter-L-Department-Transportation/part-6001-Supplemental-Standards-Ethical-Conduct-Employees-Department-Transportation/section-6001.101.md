@@ -1,0 +1,3 @@
+##### § 6001.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the Department of Transportation and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the standards in 5 CFR part 2635, employees are subject to the executive branch financial disclosure regulations contained in 5 CFR part 2634.

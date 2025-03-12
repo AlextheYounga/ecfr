@@ -1,0 +1,5 @@
+##### § 3401.103 Procedures for accomplishing disqualification. #####
+
+(a) An employee, other than a member of the Commission, who is required, in accordance with 5 CFR 2635.402(c), 2635.502(e), or 2635.604(a), to disqualify himself from participation in a particular matter before the Commission shall provide written notice of disqualification to his supervisor and to the DAEO when he becomes aware of the need to disqualify himself from participation in the matter. This procedure is required notwithstanding the guidance in 5 CFR 2635.402(c)(2), 2635.502(e)(2), and 2635.604(c).
+
+(b) An employee may withdraw written notice under paragraph (a) of this section upon determining that disqualification from participation in the matter is no longer required. A withdrawal of disqualification shall be in writing and shall be provided to the employee's supervisor and to the DAEO.

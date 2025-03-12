@@ -1,0 +1,11 @@
+##### § 29.519 Hull type rotorcraft: Water-based and amphibian. #####
+
+(a) *General.* For hull type rotorcraft, the structure must be designed to withstand the water loading set forth in paragraphs (b), (c), and (d) of this section considering the most severe wave heights and profiles for which approval is desired. The loads for the landing conditions of paragraphs (b) and (c) of this section must be developed and distributed along and among the hull and auxiliary floats, if used, in a rational and conservative manner, assuming a rotor lift not exceeding two-thirds of the rotorcraft weight to act throughout the landing impact.
+
+(b) *Vertical landing conditions.* The rotorcraft must initially contact the most critical wave surface at zero forward speed in likely pitch and roll attitudes which result in critical design loadings. The vertical descent velocity may not be less than 6.5 feet per second relative to the mean water surface.
+
+(c) *Forward speed landing conditions.* The rotorcraft must contact the most critical wave at forward velocities from zero up to 30 knots in likely pitch, roll, and yaw attitudes and with a vertical descent velocity of not less than 6.5 feet per second relative to the mean water surface. A maximum forward velocity of less than 30 knots may be used in design if it can be demonstrated that the forward velocity selected would not be exceeded in a normal one-engine-out landing.
+
+(d) *Auxiliary float immersion condition.* In addition to the loads from the landing conditions, the auxiliary float, and its support and attaching structure in the hull, must be designed for the load developed by a fully immersed float unless it can be shown that full immersion of the float is unlikely, in which case the highest likely float buoyancy load must be applied that considers loading of the float immersed to create restoring moments compensating for upsetting moments caused by side wind, asymmetrical rotorcraft loading, water wave action, and rotorcraft inertia.
+
+[Amdt. 29-3, 33 FR 966, Jan. 26, 196, as amended by Amdt. 27-26, 55 FR 8002, Mar. 6, 1990]

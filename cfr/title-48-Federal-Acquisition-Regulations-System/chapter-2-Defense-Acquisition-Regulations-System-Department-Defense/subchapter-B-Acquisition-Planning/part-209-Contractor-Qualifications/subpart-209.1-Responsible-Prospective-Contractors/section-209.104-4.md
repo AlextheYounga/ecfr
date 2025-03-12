@@ -1,0 +1,3 @@
+##### 209.104-4 Subcontractor responsibility. #####
+
+Generally, the Canadian Commercial Corporation's (CCC) proposal of a firm as its subcontractor is sufficient basis for an affirmative determination of responsibility. However, when the CCC determination of responsibility is not consistent with other information available to the contracting officer, the contracting officer shall request from CCC and any other sources whatever additional information is necessary to make the responsibility determination.

@@ -1,0 +1,3 @@
+##### § 42.14 Public availability. #####
+
+The record of a proceeding, including documents and things, shall be made available to the public, except as otherwise ordered. A party intending a document or thing to be sealed shall file a motion to seal concurrent with the filing of the document or thing to be sealed. The document or thing shall be provisionally sealed on receipt of the motion and remain so pending the outcome of the decision on the motion.

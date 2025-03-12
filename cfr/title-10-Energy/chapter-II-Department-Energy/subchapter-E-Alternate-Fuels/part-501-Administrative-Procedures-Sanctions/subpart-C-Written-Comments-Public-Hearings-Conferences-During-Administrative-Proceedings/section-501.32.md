@@ -1,0 +1,7 @@
+##### § 501.32 Conferences (other than prepetition conferences). #####
+
+(a) At any time following commencement of a proceeding before OFE, an interested person may request a conference with the staff of OFE to discuss a petition, permit or any other issue pending before OFE. The request for a conference should generally be in writing and should indicate the subjects to be covered and should describe the requester's interest in the proceeding. Conferences held after the commencement of an administrative proceeding before OFE shall be convened at the discretion of OFE or the Presiding Officer.
+
+(b) When OFE convenes a conference in accordance with this section, any person invited may present views as to the issue or issues involved. Documentary evidence may be submitted at the conference and such evidence, to the extent that it is not deemed to be confidential, will be included in the administrative record. OFE will not normally have a transcript of the conference prepared but may do so at its discretion.
+
+(c) Because a conference is solely for the exchange of views incident to a proceeding, there will be no formal report or findings by OFE unless OFE in its discretion determines that the preparation of a report or findings would be advisable. OFE will, however, place in the public file a record of any conference.

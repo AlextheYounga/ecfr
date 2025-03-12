@@ -1,0 +1,3 @@
+##### § 3.110 Assessment of PSO compliance. #####
+
+The Secretary may request information or conduct announced or unannounced reviews of, or site visits to, PSOs, to assess or verify PSO compliance with the requirements of this subpart and for these purposes will be allowed to inspect the physical or virtual sites maintained or controlled by the PSO. The Secretary will be allowed to inspect and/or be given or sent copies of any PSO records deemed necessary and requested by the Secretary to implement the provisions of this subpart. Such PSO records may include patient safety work product in accordance with § 3.206(d) of this part.

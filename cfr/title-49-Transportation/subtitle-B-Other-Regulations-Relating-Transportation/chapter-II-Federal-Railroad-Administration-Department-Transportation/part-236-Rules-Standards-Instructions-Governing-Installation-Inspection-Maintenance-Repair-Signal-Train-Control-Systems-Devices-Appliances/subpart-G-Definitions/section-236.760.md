@@ -1,0 +1,3 @@
+##### § 236.760 Locking, approach. #####
+
+Electric locking effective while a train is approaching, within a specified distance, a signal displaying an aspect to proceed, and which prevents, until after the expiration of a predetermined time interval after such signal has been caused to display its most restrictive aspect, the movement of any interlocked or electrically locked switch, movable-point frog, or derail in the route governed by the signal, and which prevents an aspect to proceed from being displayed for any conflicting route.

@@ -1,0 +1,7 @@
+##### § 52.241 Inspection and maintenance program. #####
+
+(a) [Reserved]
+
+(b) *Approval.* On June 5, 2009, the California Air Resources Board submitted a revision to the California Motor Vehicle Inspection and Maintenance Program (2009 I/M Revision) to satisfy the requirements for basic and enhanced motor vehicle inspection and maintenance (I/M) in applicable ozone nonattainment areas. On October 28, 2009, the California Air Resources Board amended the 2009 I/M Revision to include revised enhanced performance program evaluations for six nonattainment areas. Approved elements of the 2009 I/M Revision, as amended on October 28, 2009, include a discussion of each of the required design elements of the I/M program; description of the current geographic coverage of the program; I/M-related statutes and regulations; enhanced I/M performance standard evaluations for the urbanized areas within six California ozone nonattainment areas (South Coast Air Basin, San Joaquin Valley, Sacramento Metro, Coachella Valley, Ventura County, and Western Mojave Desert); basic I/M performance standard evaluation for the urbanized area within the San Francisco Bay Area ozone nonattainment area; and emission analyzer specifications and test procedures, including BAR-97 specifications. The 2009 I/M Revision, as amended on October 28, 2009, meets the requirements of sections 182(a)(2)(B) and 182(c)(3) of the Clean Air Act, as amended in 1990, and 40 CFR part 51, subpart S and is approved as a revision to the California State Implementation Plan.
+
+[75 FR 38026, July 1, 2010]

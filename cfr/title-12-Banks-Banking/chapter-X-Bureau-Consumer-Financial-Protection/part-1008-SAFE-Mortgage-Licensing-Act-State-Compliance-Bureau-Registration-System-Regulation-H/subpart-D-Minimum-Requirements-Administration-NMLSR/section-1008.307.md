@@ -1,0 +1,3 @@
+##### § 1008.307 Fees. #####
+
+CSBS, AARMR, or the Bureau, as applicable, may charge reasonable fees to cover the costs of maintaining and providing access to information from the Nationwide Mortgage Licensing System and Registry. Fees shall not be charged to consumers for access to such system and registry. If the Bureau determines to charge fees, the fees to be charged shall be issued by notice with the opportunity for comment prior to any fees being charged.

@@ -1,0 +1,3 @@
+##### § 23.3 Timing of Administrator's action under Clean Air Act. #####
+
+Unless the Administrator otherwise explicitly provides in a particular promulgation, approval, or action, the time and date of such promulgation, approval or action for purposes of the second sentence of section 307(b)(1) shall be at 1:00 p.m. eastern time (standard or daylight, as appropriate) on (a) for a Federal Register document, the date when the document is published in the Federal Register, or (b) for any other document, two weeks after it is signed.

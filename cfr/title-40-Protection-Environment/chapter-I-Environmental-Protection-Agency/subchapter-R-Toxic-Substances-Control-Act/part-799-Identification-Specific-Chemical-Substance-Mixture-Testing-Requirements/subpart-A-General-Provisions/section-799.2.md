@@ -1,0 +1,3 @@
+##### § 799.2 Applicability. #####
+
+This part is applicable to each person who manufactures or intends to manufacture (including import) and/or to each person who processes or intends to process a chemical substance or mixture identified in subpart B for testing during the period commencing with the effective date of the specific chemical test rule until the end of the reimbursement period. Each set of testing requirements in subpart B specifies whether those requirements apply to manufacturers only, to processors only, or to both manufacturers and processors.

@@ -1,0 +1,3 @@
+##### § 330.401 Restricted positions. #####
+
+Under 5 U.S.C. 3310, competitive examinations for the positions of custodian, elevator operator, guard, and messenger (referred to in this subpart as *restricted positions*) are restricted to preference eligibles as long as a preference eligible is available. For more information on these restricted positions, refer to the OPM Delegated Examining Operations Handbook.

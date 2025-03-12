@@ -1,0 +1,3 @@
+##### § 602.6 FOIA exemptions. #####
+
+The FOIA allows agencies to withhold documents in certain categories. For instance, we do not have to give you documents that relate to our examination of institutions or that would violate the personal privacy of an individual. If we do not give you a document because the FOIA does not require us to, we will tell you which FOIA exemption applies to our decision.

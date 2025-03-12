@@ -1,0 +1,3 @@
+##### § 51.326 Reportable revisions. #####
+
+The State shall identify and describe all substantive plan revisions during the reporting period of the applicable plan other than revisions to rules and regulations or compliance schedules submitted in accordance with § 51.6(d). Substantive revisions shall include but are not limited to changes in stack-test procedures for determining compliance with applicable regulations, modifications in the projected total manpower needs to carry out the approved plan, and all changes in responsibilities given to local agencies to carry out various portions of the plan.

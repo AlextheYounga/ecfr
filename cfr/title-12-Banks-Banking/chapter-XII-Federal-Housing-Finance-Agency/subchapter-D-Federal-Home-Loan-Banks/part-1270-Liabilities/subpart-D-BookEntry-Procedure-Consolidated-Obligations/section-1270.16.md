@@ -1,0 +1,5 @@
+##### § 1270.16 Authority of Federal Reserve Banks. #####
+
+(a) Each Federal Reserve Bank is hereby authorized as fiscal agent of the Office of Finance: To perform functions with respect to the issuance of Book-entry consolidated obligations, in accordance with the terms of the applicable offering notice and with procedures established by the Office of Finance; to service and maintain Book-entry consolidated obligations in accounts established for such purposes; to make payments of principal, interest and redemption premium (if any), as directed by the Office of Finance; to effect transfer of Book-entry consolidated obligations between Participants' Securities Accounts as directed by the Participants; and to perform such other duties as fiscal agent as may be requested by the Office of Finance.
+
+(b) Each Federal Reserve Bank may issue Operating Circulars not inconsistent with this part 1270, governing the details of its handling of Book-entry consolidated obligations, Security Entitlements, and the operation of the Book-entry system under this part 1270.

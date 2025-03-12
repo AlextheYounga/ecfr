@@ -1,0 +1,5 @@
+##### § 51.355 Test frequency and convenience. #####
+
+(a) The performance standards for I/M programs assume an annual test frequency; other schedules may be approved if the required emission targets are achieved. The SIP shall describe the test schedule in detail, including the test year selection scheme if testing is other than annual. The SIP shall include the legal authority necessary to implement and enforce the test frequency requirement and explain how the test frequency will be integrated with the enforcement process.
+
+(b) In enhanced I/M programs, test systems shall be designed in such a way as to provide convenient service to motorists required to get their vehicles tested. The SIP shall demonstrate that the network of stations providing test services is sufficient to insure short waiting times to get a test and short driving distances. Stations shall be required to adhere to regular testing hours and to test any subject vehicle presented for a test during its test period.

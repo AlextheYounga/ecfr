@@ -1,0 +1,5 @@
+##### § 382.145 What records concerning training must carriers retain? #####
+
+(a) As a carrier that operates aircraft with 19 or more passenger seats, you must incorporate procedures implementing the requirements of this part in the manuals or other guidance or instructional materials provided for the carrier and contract personnel who provide services to passengers, including, but not limited to, pilots, flight attendants, reservation and ticket counter personnel, gate agents, ramp and baggage handling personnel, and passenger service office personnel. You must retain these records for review by the Department on the Department's request. If, upon such review, the Department determines that any portion of these materials must be changed in order to comply with this part, DOT will direct you to make appropriate changes. You must incorporate and implement these changes.
+
+(b) You must retain for three years individual employee training records demonstrating that all persons required to receive initial and refresher training have done so.

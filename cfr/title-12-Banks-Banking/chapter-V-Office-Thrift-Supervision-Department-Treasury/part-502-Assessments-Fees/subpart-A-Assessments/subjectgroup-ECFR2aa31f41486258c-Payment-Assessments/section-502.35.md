@@ -1,0 +1,7 @@
+##### § 502.35 How do I pay my assessment? #####
+
+(a) *Savings associations.* (1) If you are a member of a Federal Home Loan Bank that offers demand deposit accounts which permit direct debits, you must maintain a demand deposit account at your Federal Home Loan Bank with sufficient funds to pay your assessment when due. OTS will notify your Federal Home Loan Bank of the amount of your assessment. OTS will debit your account for your assessments.
+
+(2) If paragraph (a)(1) of this section does not apply to you, OTS will directly debit an account you must maintain at your association.
+
+(b) *Savings and loan holding companies.* You may establish an account at an insured depository institution and authorize OTS to debit the account for your semi-annual assessment. If you do not establish an account and maintain funds in the account sufficient to pay the semi-annual assessment when due, OTS may charge you a fee to cover its administrative costs of collecting and billing your assessment. This fee is in addition to interest on delinquent assessments charged under § 502.45 of this part. OTS will establish the amount of the administrative fee and publish the amount of the fee in a Thrift Bulletin.

@@ -1,0 +1,5 @@
+##### § 136.404 What does the Indian Child Protection and Family Violence Prevention Act require of the IHS and Indian Tribes or Tribal organizations receiving funds under the ISDEA? #####
+
+(a) The IHS must compile a list of all authorized positions with duties and responsibilities that involve regular contact with or control over Indian children; investigate the character of each individual who is employed or is being considered for employment in such a position; and prescribe minimum standards of character that each individual must meet to be appointed or employed in such positions.
+
+(b) All Indian Tribes or Tribal organizations receiving funds under the authority of the ISDEA must identify those positions that permit regular contact with or control over Indian children; conduct an investigation of the character of each individual who is employed or is being considered for employment in a position that involves regular contact with or control over Indian children; and employ only individuals who meet standards of character that are no less stringent than those prescribed by regulations in this subpart.

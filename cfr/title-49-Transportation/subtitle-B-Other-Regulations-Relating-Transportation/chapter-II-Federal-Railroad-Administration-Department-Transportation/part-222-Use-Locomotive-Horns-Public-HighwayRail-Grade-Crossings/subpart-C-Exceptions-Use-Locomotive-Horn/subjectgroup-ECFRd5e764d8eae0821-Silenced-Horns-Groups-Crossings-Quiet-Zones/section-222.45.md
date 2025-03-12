@@ -1,0 +1,3 @@
+##### § 222.45 When is a railroad required to cease routine sounding of locomotive horns at crossings? #####
+
+On the date specified in a Notice of Quiet Zone Continuation or Notice of Quiet Zone Establishment that complies with the requirements set forth in § 222.43 of this part, a railroad shall refrain from, or cease, routine sounding of the locomotive horn at all public, private and pedestrian grade crossings identified in the Notice.

@@ -1,0 +1,3 @@
+##### § 302.714 Availability of data to the U.S. Postal Service. #####
+
+The representatives of the U.S. Postal Service shall have access to all conference data and, insofar as practicable, shall be furnished copies of all pertinent data prepared by the DOT employees and the air carrier, and a reasonable time shall be allowed to review the facts and issues and to make any presentation deemed necessary; *Provided,* That in cases other than those involving an issue as to the service mail rates payable by the U.S. Postal Service pursuant to section 41901 of the Statute, representatives of the U.S. Postal Service shall be furnished with copies of data under this provision only upon their written request.

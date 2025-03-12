@@ -1,0 +1,3 @@
+##### § 839.812 Will my employer get a refund if I had a qualifying retirement coverage error and the employer retirement contributions for my new retirement plan are less than what was already paid? #####
+
+No, if you were erroneously in CSRS, CSRS Offset, or Social Security-Only, then a correction of a retirement coverage error will not reduce the employer retirement contribution owed. Also, the FERCCA states that an employer may not remove from the Fund FERS employer contributions when correcting a qualifying retirement coverage error under this part.

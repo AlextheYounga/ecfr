@@ -1,0 +1,5 @@
+##### § 20.1904 Labeling containers. #####
+
+(a) The licensee shall ensure that each container of licensed material bears a durable, clearly visible label bearing the radiation symbol and the words “CAUTION, RADIOACTIVE MATERIAL” or “DANGER, RADIOACTIVE MATERIAL.” The label must also provide sufficient information (such as the radionuclide(s) present, an estimate of the quantity of radioactivity, the date for which the activity is estimated, radiation levels, kinds of materials, and mass enrichment) to permit individuals handling or using the containers, or working in the vicinity of the containers, to take precautions to avoid or minimize exposures.
+
+(b) Each licensee shall, prior to removal or disposal of empty uncontaminated containers to unrestricted areas, remove or deface the radioactive material label or otherwise clearly indicate that the container no longer contains radioactive materials.

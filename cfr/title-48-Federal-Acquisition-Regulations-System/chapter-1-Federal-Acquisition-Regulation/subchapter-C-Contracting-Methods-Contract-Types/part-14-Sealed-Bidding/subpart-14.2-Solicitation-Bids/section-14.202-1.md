@@ -1,0 +1,7 @@
+##### 14.202-1 Bidding time. #####
+
+(a) *Policy.* A reasonable time for prospective bidders to prepare and submit bids shall be allowed in all invitations, consistent with the needs of the Government. (For construction contracts, see 36.213-3(a).) A bidding time (i.e., the time between issuance of the solicitation and opening of bids) of at least 30 calendar days shall be provided when synopsis is required by subpart 5.2.
+
+(b) *Factors to be considered.* Because of unduly limited bidding time, some potential sources may be precluded from bidding and others may be forced to include amounts for contingencies that, with additional time, could be eliminated. To avoid unduly restricting competition or paying higher-than-necessary prices, consideration shall be given to such factors as the following in establishing a reasonable bidding time: (1) degree of urgency; (2) complexity of requirement; (3) anticipated extent of subcontracting; (4) whether use was made of presolicitation notices; (5) geographic distribution of bidders; and (6) normal transmittal time for both invitations and bids.
+
+[48 FR 42171, Sept. 19, 1983, as amended at 50 FR 1738, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 60 FR 34737, July 3, 1995; 62 FR 272, Jan. 2, 1997]

@@ -1,0 +1,5 @@
+##### § 61.59 Institutional requirements. #####
+
+(a) *Land ownership.* Disposal of radioactive waste received from other persons may be permitted only on land owned in fee by the Federal or a State government.
+
+(b) *Institutional control.* The land owner or custodial agency shall carry out an institutional control program to physically control access to the disposal site following transfer of control of the disposal site from the disposal site operator. The institutional control program must also include, but not be limited to, carrying out an environmental monitoring program at the disposal site, periodic surveillance, minor custodial care, and other requirements as determined by the Commission; and administration of funds to cover the costs for these activities. The period of institutional controls will be determined by the Commission, but institutional controls may not be relied upon for more than 100 years following transfer of control of the disposal site to the owner.

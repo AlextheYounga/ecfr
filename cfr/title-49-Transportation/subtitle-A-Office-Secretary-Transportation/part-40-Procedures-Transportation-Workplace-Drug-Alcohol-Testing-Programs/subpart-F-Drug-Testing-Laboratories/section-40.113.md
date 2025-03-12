@@ -1,0 +1,5 @@
+##### § 40.113 Where is other information concerning laboratories found in this regulation? #####
+
+You can find more information concerning laboratories in several sections of this part:
+
+§ 40.3—Definition.§ 40.13—Prohibition on making specimens available for other purposes.§ 40.31—Conflicts of interest concerning collectors.§ 40.47—Laboratory rejections of test for improper form.§ 40.125—Conflicts of interest concerning MROs.§ 40.175—Role of first laboratory in split specimen tests.§ 40.177—Role of second laboratory in split specimen tests (drugs).§ 40.179—Role of second laboratory in split specimen tests (adulterants).§ 40.181—Role of second laboratory in split specimen tests (substitution).§§ 40.183-40.185—Transmission of split specimen test results to MRO.§§ 40.201-40.205—Role in correcting errors.§ 40.329—Release of information to employees.§ 40.331—Limits on release of information.§ 40.355—Role with respect to other service agents.

@@ -1,0 +1,3 @@
+##### § 136.57 Confidentiality. #####
+
+Information which is acquired in connection with the requirements of this subpart may not be disclosed in a form which permits the identification of an individual without the individual's consent, except as may be necessary for the health of the individual or as may be necessary for the Secretary to monitor Indian Health Service program activities. In any event, any disclosure shall be subject to appropriate safeguards which will minimize the likelihood of disclosures of personal information in identifiable form.

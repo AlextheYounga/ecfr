@@ -1,0 +1,5 @@
+##### 811.104-75 Procedure for negotiated procurements. #####
+
+(a) The specification writer and contracting officer must use the policies and procedures prescribed in 811.104-70 through 811.104-74 as a guide in developing adequate purchase descriptions for negotiated procurements.
+
+(b) The contracting officer may adapt the clause at 852.211-73, Brand name or equal, for use in negotiated procurements. When use of the clause is not practical (as may be the case in unusual and compelling urgency purchases), the contracting officer must inform suppliers that proposals offering products different from the products referenced by brand name will be considered if the contracting officer determines that the offered products are equal in all material respects to the products referenced. The contracting officer must place decisions under this paragraph in writing for the contract file, as appropriate.

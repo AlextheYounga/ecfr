@@ -1,0 +1,5 @@
+##### 23.403 Policy. #####
+
+Government policy on the use of products containing recovered materials and biobased products considers cost, availability of competition, and performance. Agencies shall purchase these products or require in the acquisition of services, the delivery, use, or furnishing (see 23.103(b)) of such products. Agency contracts should specify that these products are composed of the highest percent of recovered material or biobased content practicable, or at least meet, but may exceed, the minimum recovered materials or biobased content of an EPA- or USDA-designated product. Agencies shall purchase these products to the maximum extent practicable without jeopardizing the intended use of the product while maintaining a satisfactory level of competition at a reasonable price. Such products shall meet the reasonable performance standards of the agency and be acquired competitively, in a cost-effective manner. Except as provided at 23.404(b), virgin material shall not be required by the solicitation (see 11.302).
+
+[76 FR 31400, May 31, 2011]

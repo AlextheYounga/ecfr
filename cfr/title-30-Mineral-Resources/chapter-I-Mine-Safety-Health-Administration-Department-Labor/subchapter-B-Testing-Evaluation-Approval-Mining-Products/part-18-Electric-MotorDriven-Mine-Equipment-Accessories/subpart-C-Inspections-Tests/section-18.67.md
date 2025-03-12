@@ -1,0 +1,3 @@
+##### § 18.67 Static-pressure tests. #####
+
+Static-pressure tests shall be conducted by the applicant on each enclosure of a specific design when MSHA determines that visual inspection will not reveal defects in castings or in single-seam welds. Such test procedure shall be submitted to MSHA for approval and the specifications on file with MSHA shall include a statement assuring that such tests will be conducted. The static pressure to be applied shall be 150 pounds per square inch (gage) or one and one-half times the maximum pressure recorded in MSHA's explosion tests, whichever is greater.

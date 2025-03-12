@@ -1,0 +1,3 @@
+##### § 1402.26 Charges for unsuccessful searches or reviews. #####
+
+The Farm Credit System Insurance Corporation may assess charges for time spent searching for records on behalf of requesters in the categories provided for in § 1402.21 (c) and (d), even if there are no records that are responsive to the request or there is ultimately no disclosure of records. The Farm Credit System Insurance Corporation may assess charges for time spent reviewing records for requesters in the category provided for in § 1402.21(c) even if the records located are determined to be exempt from disclosure.

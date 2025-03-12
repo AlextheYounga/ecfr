@@ -1,0 +1,7 @@
+##### § 160.43 Foreign assistance investments. #####
+
+Pursuant to HOLA section 5(c)(4)(C), a Federal savings association may make foreign assistance investments in an aggregate amount not to exceed one percent of its assets, subject to the following conditions:
+
+(a) For any investment made under the Foreign Assistance Act, the loan agreement shall specify what constitutes an event of default, and provide that upon default in payment of principal or interest under such agreement, the entire amount of outstanding indebtedness thereunder shall become immediately due and payable, at the lender's option. Additionally, the contract of guarantee shall cover 100% of any loss of investment thereunder, except for any portion of the loan arising out of fraud or misrepresentation for which the party seeking payment is responsible, and provide that the guarantor shall pay for any such loss in U.S. dollars within a specified reasonable time after the date of application for payment.
+
+(b) To make any investments in the share capital and capital reserve of the Inter-American Savings and Loan Bank, a Federal savings association must be adequately capitalized and have adequate allowances for loan and lease losses. The Federal savings association's aggregate investment in such capital or capital reserve, including the amount of any obligations undertaken to provide said Bank with reserve capital in the future (call-able capital), must not, as a result of such investment, exceed the lesser of one-quarter of 1% of its assets or $100,000.

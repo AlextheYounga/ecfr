@@ -1,0 +1,5 @@
+##### 37.000 Scope of part. #####
+
+This part prescribes policy and procedures that are specific to the acquisition and management of services by contract. This part applies to all contracts and orders for services regardless of the contract type or kind of service being acquired. This part requires the use of performance-based acquisitions for services to the maximum extent practicable and prescribes policies and procedures for use of performance-based acquisition methods (see Subpart 37.6). Additional guidance for research and development services is in part 35; architect-engineering services is in part 36; information technology is in part 39; and transportation services is in part 47. Parts 35, 36, 39, and 47 take precedence over this part in the event of inconsistencies. This part includes, but is not limited to, contracts for services to which 41 U.S.C. chapter 67, Service Contract Labor Standards, applies (see subpart 22.10).
+
+[62 FR 12694, Mar. 17, 1997, as amended at 62 FR 44815, Aug. 22, 1997; 71 FR 218, Jan. 3, 2006; 79 FR 24212, Apr. 29, 2014]

@@ -1,0 +1,3 @@
+##### § 62.15025 How do I determine if my small municipal waste combustion unit is covered by an approved and effective State or Tribal Plan? #####
+
+This part (40 CFR part 62) contains a list of all States and tribal areas with approved Clean Air Act section 111(d) and section 129 plans in effect. However, this part is only updated once per year. Thus, if this part does not indicate that your State or tribal area has an approved and effective plan, you should contact your State environmental agency's air director or your EPA Regional Office to determine if approval has occurred since publication of the most recent version of this part.

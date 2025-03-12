@@ -1,0 +1,3 @@
+##### § 381.9 Unknown copyright owners. #####
+
+If PBS and its stations, NPR and its stations, or other public broadcasting entity is not aware of the identity of, or unable to locate, a copyright owner who is entitled to receive a royalty payment under this part, they shall retain the required fee in a segregated trust account for a period of three years from the date of the required payment. No claim to such royalty fees shall be valid after the expiration of the three-year period. Public broadcasting entities may establish a joint trust fund for the purposes of this section. Public broadcasting entities shall make available to the Copyright Royalty Judges, upon request, information concerning fees deposited in trust funds.

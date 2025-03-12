@@ -1,0 +1,12 @@
+##### § 585.236 If I have a limited lease, how long will my lease remain in effect? #####
+
+(a) For limited leases, the lease terms are as shown in the following table:
+
+|                                                                                             Lease term                                                                                             |                                                                                                                Extension or suspension                                                                                                                 |                          Requirements                           |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+|                             (1) Each limited lease has a preliminary term of 12 months to submit a GAP. The preliminary term begins on the effective date of the lease                             |If we receive a GAP that satisfies the requirements of §§ 585.640 through 585.648 of this part, the preliminary term will be automatically extended for the period of time necessary for us to conduct a technical and environmental review of the plans|The GAP must meet the requirements of §§ 585.640 through 585.648.|
+|(2) Each limited lease has an operations term of five years for conducting site assessment, technology testing, or other activities. The operations term begins on the date that we approve your GAP|                                                                          We may order or grant a suspension of the operations term as provided in §§ 585.415 through 585.421                                                                           |                                                                 |
+
+(b) If you do not timely submit a GAP, you may request additional time to extend the preliminary term of your limited lease that includes a revised schedule for submission of a GAP.
+
+[76 FR 64623, Oct. 18, 2011, as amended at 79 FR 21622, Apr. 17, 2014]

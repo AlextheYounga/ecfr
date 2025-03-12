@@ -1,0 +1,3 @@
+##### § 63.631 Exemption from new source performance standards. #####
+
+Any affected source subject to the provisions of this subpart is exempted from any otherwise applicable new source performance standard contained in 40 CFR part 60, subpart V, subpart W, or subpart X. To be exempt, a source must have a current operating permit pursuant to title V of the Clean Air Act and the source must be in compliance with all requirements of this subpart. For each affected source, this exemption is upon the date that you demonstrate to the Administrator that the requirements of §§ 63.625 and 63.626 have been met.

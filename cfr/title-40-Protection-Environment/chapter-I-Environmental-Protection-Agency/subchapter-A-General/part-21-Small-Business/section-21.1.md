@@ -1,0 +1,3 @@
+##### § 21.1 Scope. #####
+
+This part establishes procedures for the issuance by EPA of the statements, referred to in section 7(g) of the Small Business Act and section 8 of the Federal Water Pollution Control Act Amendments of 1972, to the effect that additions to or alterations in the equipment, facilities (including the construction of pretreatment facilities and interceptor sewers), or methods of operations of small business concerns are necessary and adequate to comply with requirements established under the Federal Water Pollution Control Act, 33 U.S.C. 1151, *et seq.*

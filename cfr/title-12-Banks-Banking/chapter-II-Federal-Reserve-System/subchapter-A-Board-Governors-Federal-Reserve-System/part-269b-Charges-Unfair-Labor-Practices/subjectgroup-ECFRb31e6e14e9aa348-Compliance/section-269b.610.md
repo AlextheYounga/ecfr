@@ -1,0 +1,3 @@
+##### § 269b.610 Procedures. #####
+
+Where remedial action is ordered or provided for in a settlement agreement, a report to the panel that such action has been taken and that compliance with the decision and orders of the panel has been effected shall be submitted within the period of time specified in the panel's decision. The panel is empowered to utilize whatever administrative procedures it deems necessary to ascertain compliance.

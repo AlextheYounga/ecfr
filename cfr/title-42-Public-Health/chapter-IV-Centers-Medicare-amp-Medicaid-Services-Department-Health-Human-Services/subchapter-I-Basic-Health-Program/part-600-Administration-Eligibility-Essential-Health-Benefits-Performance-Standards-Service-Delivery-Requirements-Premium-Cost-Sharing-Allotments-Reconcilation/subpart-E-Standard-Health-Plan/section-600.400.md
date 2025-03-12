@@ -1,0 +1,5 @@
+##### § 600.400 Basis, scope, and applicability. #####
+
+(a) *Statutory basis.* This subpart implements sections 1331(b), (c), and (g) of the Affordable Care Act, which set forth provisions regarding the minimum coverage standards under BHP, as well as the delivery of such coverage, including the contracting process for standard health plan offerors participating in the BHP.
+
+(b) *Scope and applicability.* This subpart consists of provisions relating to all BHPs for the delivery of, at a minimum, the ten essential health benefits as described in section 1302(b) of the Affordable Care Act, the contracting process by which States must contract for the provision of standard health plans, the minimum requirements States must include in their standard health plan contracts, the minimum coverage standards provided by the standard health plan offeror, and other applicable requirements to enhance the coordination of the provision of standard health plan coverage.

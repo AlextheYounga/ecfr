@@ -1,0 +1,3 @@
+##### § 517.7 Contract award guidelines. #####
+
+Contracts for goods or services shall be awarded in accordance with OTS procurement rules and policies (48 CFR chapter 1 and FIRMR, 41 CFR chapter 201). The OTS Outreach Program Advocate shall work to facilitate the maximum participation of minority-, women-owned (small and large) businesses and entities owned by individuals with disabilities in the OTS procurement of goods or services.

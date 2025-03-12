@@ -1,0 +1,7 @@
+##### § 135.3 Contents of notice. #####
+
+(a) *Violation of standard, limitation or order.* Notice regarding an alleged violation of an effluent standard or limitation or of an order with respect thereto, shall include sufficient information to permit the recipient to identify the specific standard, limitation, or order alleged to have been violated, the activity alleged to constitute a violation, the person or persons responsible for the alleged violation, the location of the alleged violation, the date or dates of such violation, and the full name, address, and telephone number of the person giving notice.
+
+(b) *Failure to act.* Notice regarding an alleged failure of the Administrator to perform any act or duty under the Act which is not discretionary with the Administrator shall identify the provision of the Act which requires such act or creates such duty, shall describe with reasonable specificity the action taken or not taken by the Administrator which is alleged to constitute a failure to perform such act or duty, and shall state the full name, address and telephone number of the person giving the notice.
+
+(c) *Identification of counsel.* The notice shall state the name, address, and telephone number of the legal counsel, if any, representing the person giving the notice.

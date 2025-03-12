@@ -1,0 +1,5 @@
+##### § 209.117 Presiding officer's decision. #####
+
+(a) After consideration of the evidence of record, the presiding officer may dismiss the notice of probable violation in whole or in part. If the presiding officer does not dismiss it in whole, he or she will issue and serve on the respondent an order assessing a civil penalty. The decision of the presiding officer will include a statement of findings and conclusions as well as the reasons therefor on all material issues of fact, law, and discretion.
+
+(b) If, within twenty (20) days after service of an order assessing a civil penalty, the respondent does not pay the civil penalty or file an appeal as provided in § 209.121, the case may be referred to the Attorney General with a request that an action to collect the penalty be brought in the appropriate United States District Court.

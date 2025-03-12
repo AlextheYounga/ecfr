@@ -1,0 +1,3 @@
+##### § 556.708 What if I want to transfer my record title interests in more than one lease to the same party? #####
+
+You may not transfer your record title interests in more than one lease to the same party using the same instrument. If you want to transfer record title interests in more than one lease at the same time, you must submit separate, originally executed forms for each transfer. The forms used for each transfer must be accompanied by a cover letter executed by one of the parties to the transfer (or an authorized agent thereof), and evidence of payment via *pay.gov.* A separate fee applies to each individual transfer of interest.

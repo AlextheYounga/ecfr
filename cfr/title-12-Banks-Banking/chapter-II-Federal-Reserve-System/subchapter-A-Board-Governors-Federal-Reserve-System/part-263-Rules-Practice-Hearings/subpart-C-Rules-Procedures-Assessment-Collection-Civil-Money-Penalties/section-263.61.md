@@ -1,0 +1,3 @@
+##### § 263.61 Opportunity for informal proceeding. #####
+
+In the sole discretion of the Board's General Counsel, the General Counsel may, prior to the issuance by the Board of a notice of assessment of civil penalty, advise the affected person that the issuance of a notice of assessment of civil penalty is being considered and the reasons and authority for the proposed assessment. The General Counsel may provide the person an opportunity to present written materials or request a conference with members of the Board's staff to show that the penalty should not be assessed or, if assessed, should be reduced in amount.

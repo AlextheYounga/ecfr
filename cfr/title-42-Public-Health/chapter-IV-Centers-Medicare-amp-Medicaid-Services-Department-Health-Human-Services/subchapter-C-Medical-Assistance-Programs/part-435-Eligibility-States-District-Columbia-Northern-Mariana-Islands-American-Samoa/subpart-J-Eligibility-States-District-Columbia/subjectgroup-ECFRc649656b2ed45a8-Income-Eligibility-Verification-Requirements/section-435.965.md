@@ -1,0 +1,5 @@
+##### § 435.965 Delay of effective date. #####
+
+(a) If the agency submits, by May 29, 1986, a plan describing a good faith effort to come into compliance with the requirements of section 1137 of the Act and of §§ 435.910 and 435.940 through 435.960 of this subpart, the Secretary may, after consultation with the Secretary of Agriculture and the Secretary of Labor, grant a delay in the effective date of §§ 435.910 and 435.940 through 435.960, but not beyond September 30, 1986.
+
+(b) The Secretary may not grant a delay of the effective date of section 1137(c) of the Act, which is implemented by § 435.955 (a) and (c). (The provisions of these statutory and regulation sections require the agency to follow certain procedures before taking any adverse actions based on information from the Internal Revenue Service concerning unearned income.)

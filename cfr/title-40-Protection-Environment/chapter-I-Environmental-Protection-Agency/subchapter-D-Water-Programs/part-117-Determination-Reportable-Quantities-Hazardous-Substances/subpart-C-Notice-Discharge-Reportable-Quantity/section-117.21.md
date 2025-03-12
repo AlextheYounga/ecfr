@@ -1,0 +1,3 @@
+##### § 117.21 Notice. #####
+
+Any person in charge of a vessel or an onshore or an offshore facility shall, as soon as he has knowledge of any discharge of a designated hazardous substance from such vessel or facility in quantities equal to or exceeding in any 24-hour period the reportable quantity determined by this part, immediately notify the appropriate agency of the United States Government of such discharge. Notice shall be given in accordance with such procedures as the Secretary of Transportation has set forth in 33 CFR 153.203. This provision applies to all discharges not specifically excluded or reserved by another section of these regulations.

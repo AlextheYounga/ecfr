@@ -1,0 +1,13 @@
+##### § 9.54 Verification of identity of individuals making requests. #####
+
+(a) Identification requirements in paragraphs (a) (1) and (2) of this section are applicable to any individual who makes requests respecting records about himself, except that no verification of identity shall be required if the records requested are available to the public under the provisions of the Freedom of Information Act. With respect to certain sensitive records, additional requirements for verification of identity stated in the appropriate published “Notice of System of Records” may be imposed.
+
+(1) *Written requests.* An individual making a written request respecting a record about himself may establish his identity by a signature, address, date of birth, employee identification number, if any, and one other item of identification such as a copy of a driver's license or other document.
+
+(2) *Requests in person.* An individual making a request in person respecting a record about himself may establish his identity by the presentation of a single document bearing a photograph (such as a passport or identification badge) or by the presentation of two items of identification which do not bear a photograph but do bear a name, address and signature (such, as a driver's license or credit card).
+
+(b) *Inability to provide requisite documentation of identity.* An individual making a request in person or in writing respecting a record about himself who cannot provide the necessary documentation of identity may provide a notarized statement, swearing or affirming to his identity and to the fact that he understands that penalties for false statements may be imposed pursuant to 18 U.S.C. 1001, and that penalties for obtaining a record concerning an individual under false pretenses may be imposed pursuant to 5 U.S.C. 552a(i)(3). Forms for such notarized statements may be obtained on request from the Freedom of Information Act and Privacy Act Officer, and sent by an appropriate method listed in § 9.6.
+
+(c) *Verification of parentage or guardianship.* In addition to establishing the identity of the minor, or other individual he represents as required in paragraph (a) of this section, the parent or legal guardian of a minor or of an individual judicially determined to be incompetent shall establish his status as parent or guardian by furnishing a copy of a birth certificate of the minor showing parentage or a copy of a court order establishing guardianship.
+
+[40 FR 44484, Sept. 26, 1975, as amended at 52 FR 31609, Aug. 21, 1987; 54 FR 53316, Dec. 28, 1989; 63 FR 15743, Apr. 1, 1998; 68 FR 58800, Oct. 10, 2003; 70 FR 34309, June 14, 2005]

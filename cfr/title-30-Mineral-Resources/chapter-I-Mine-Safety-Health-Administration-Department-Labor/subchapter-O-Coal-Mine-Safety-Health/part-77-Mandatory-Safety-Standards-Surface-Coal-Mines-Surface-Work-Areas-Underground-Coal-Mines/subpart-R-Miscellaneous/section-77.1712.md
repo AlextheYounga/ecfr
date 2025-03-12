@@ -1,0 +1,3 @@
+##### § 77.1712 Reopening mines; notification; inspection prior to mining. #####
+
+Prior to reopening any surface coal mine after it has been abandoned or declared inactive by the operator, the operator shall notify the Coal Mine Health and Safety District Manager for the district in which the mine is located, and an inspection of the entire mine shall be completed by an authorized representative of the Secretary before any mining operations in such mine are instituted.

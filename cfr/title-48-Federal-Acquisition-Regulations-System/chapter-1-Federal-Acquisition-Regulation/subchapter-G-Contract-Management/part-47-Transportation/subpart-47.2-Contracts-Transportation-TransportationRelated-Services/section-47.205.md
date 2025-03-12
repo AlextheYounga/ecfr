@@ -1,0 +1,7 @@
+##### 47.205 Availability of term contracts and basic ordering agreements for transportation or for transportation-related services. #####
+
+(a) All Government agencies may contract for transportation or for transportation-related services and execute basic ordering agreements (BOA's) (see subpart 16.7) unless agency regulations prescribe otherwise. However, it is generally more economical and efficient for most agencies to make use of term contracts and basic ordering agreements that have been executed by agencies that employ personnel experienced in contracting for transportation or for transportation-related services. The Department of Defense (DOD) and the General Services Administration (GSA) contract for transportation or for transportation-related services on behalf of other activities and agencies. For instance, GSA awards term contracts for services such as local drayage, office moves, and ocean-freight forwarding (see 47.105 for assistance).
+
+(b) Agencies may obtain transportation or transportation-related services for which the cost does not exceed the simplified acquisition threshold, if term contracts or basic ordering agreements are not available.
+
+[48 FR 42424, Sept. 19, 1983, as amended at 60 FR 34760, July 3, 1995; 61 FR 39198, July 26, 1996]

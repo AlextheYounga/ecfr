@@ -1,0 +1,3 @@
+##### § 18.3 Purpose of Environmental Protection Research Fellowships. #####
+
+Environmental Protection Research Fellowships in the Agency are for the purpose of encouraging and promoting research, studies, and investigations related to the protection of human health and the environment. Such fellowships may be provided to secure the services of talented scientists and engineers for a period of limited duration for research that furthers the EPA's mission where the nature of the work or the character of the individual's services render customary employing methods impracticable or less effective.

@@ -1,0 +1,7 @@
+##### § 60.730 Applicability and designation of affected facility. #####
+
+(a) The affected facility to which the provisions of this subpart apply is each calciner and dryer at a mineral processing plant. Feed and product conveyors are not considered part of the affected facility. For the brick and related clay products industry, only the calcining and drying of raw materials prior to firing of the brick are covered.
+
+(b) An affected facility that is subject to the provisions of subpart LL, Metallic Mineral Processing Plants, is not subject to the provisions of this subpart. Also, the following processes and process units used at mineral processing plants are not subject to the provisions of this subpart: vertical shaft kilns in the magnesium compounds industry; the chlorination-oxidation process in the titanium dioxide industry; coating kilns, mixers, and aerators in the roofing granules industry; and tunnel kilns, tunnel dryers, apron dryers, and grinding equipment that also dries the process material used in any of the 17 mineral industries (as defined in § 60.731, “Mineral processing plant”).
+
+(c) The owner or operator of any facility under paragraph (a) of this section that commences construction, modification, or reconstruction after April 23, 1986, is subject to the requirements of this subpart.

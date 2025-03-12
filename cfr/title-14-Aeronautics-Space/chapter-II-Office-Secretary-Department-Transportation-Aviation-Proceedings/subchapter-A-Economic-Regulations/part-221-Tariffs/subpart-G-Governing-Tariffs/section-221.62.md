@@ -1,0 +1,3 @@
+##### § 221.62 Explosives and other dangerous or restricted articles. #####
+
+Carriers may publish rules and regulations governing the transportation of explosives and other dangerous or restricted articles in separate governing tariffs, conforming to this subpart, instead of being included in the fares tariffs or in the governing rules tariff authorized by § 221.61. This separate governing tariff shall contain no other rules or governing provisions.

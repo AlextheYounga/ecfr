@@ -1,0 +1,5 @@
+##### § 51.40 In what form and format should my state report the data to EPA? #####
+
+You must report your emission inventory data to us in electronic form. We support specific electronic data reporting formats, and you are required to report your data in a format consistent with these. The term “format” encompasses the definition of one or more specific data fields for each of the data elements listed in Tables 2a and 2b in Appendix A of this subpart; allowed code values for certain data fields; transmittal information; and data table relational structure. Because electronic reporting technology may change, contact the EPA Emission Inventory and Analysis Group (EIAG) for the latest specific formats. You can find information on the current formats at the following Internet address: *http://www.epa.gov/ttn/chief/eis/2011nei/xml\_data\_eis.pdf.* You may also call the air emissions contact in your EPA Regional Office or our Info CHIEF help desk at (919) 541-1000 or send email to *info.chief@epa.gov.*
+
+[80 FR 8796, Feb. 19, 2015]

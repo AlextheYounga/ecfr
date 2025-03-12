@@ -1,0 +1,3 @@
+##### § 59.212 Circumvention. #####
+
+No regulated entity subject to these standards shall alter, destroy, or falsify any record or report to conceal what would otherwise be noncompliance with these standards. Such concealment includes, but is not limited to refusing to provide the Administrator access to all required records and date-coding information, altering the percent VOC content of a product batch, or altering the results of any required performance tests.

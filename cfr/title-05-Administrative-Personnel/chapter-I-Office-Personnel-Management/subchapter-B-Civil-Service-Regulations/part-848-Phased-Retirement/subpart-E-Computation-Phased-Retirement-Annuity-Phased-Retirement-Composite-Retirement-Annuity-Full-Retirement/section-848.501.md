@@ -1,0 +1,3 @@
+##### § 848.501 Computation of phased retirement annuity. #####
+
+A phased retiree's phased retirement annuity equals the product obtained by multiplying (1) the amount of annuity computed under 5 U.S.C. 8415, excluding reduction for survivor annuity, that would have been payable to the phased retiree if, on the date on which the phased retiree enters phased retirement, the phased retiree had separated from service and retired under 5 U.S.C. 8412(a) or (b), by (2) the phased retirement percentage for the phased retiree.

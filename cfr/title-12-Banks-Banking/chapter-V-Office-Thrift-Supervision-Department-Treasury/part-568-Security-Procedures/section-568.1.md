@@ -1,0 +1,7 @@
+##### § 568.1 Authority, purpose, and scope. #####
+
+(a) This part is issued by the Office of Thrift Supervision (OTS) under section 3 of the Bank Protection Act of 1968 (12 U.S.C 1882), sections 501 and 505(b)(1) of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 and 6805(b)(1)), and sections 621 and 628 of the Fair Credit Reporting Act (15 U.S.C. 1681s and 1681w). This part is applicable to savings associations. It requires each savings association to adopt appropriate security procedures to discourage robberies, burglaries, and larcenies and to assist in the identification and prosecution of persons who commit such acts. Section 568.5 of this part is applicable to savings associations and their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers). Section 568.5 of this part requires covered institutions to establish and implement appropriate administrative, technical, and physical safeguards to protect the security, confidentiality, and integrity of customer information.
+
+(b) It is the responsibility of an association's board of directors to comply with this regulation and ensure that a written security program for the association's main office and branches is developed and implemented.
+
+[56 FR 29566, June 28, 1991, as amended at 66 FR 8639, Feb. 1, 2001; 69 FR 77620, Dec. 28, 2004]

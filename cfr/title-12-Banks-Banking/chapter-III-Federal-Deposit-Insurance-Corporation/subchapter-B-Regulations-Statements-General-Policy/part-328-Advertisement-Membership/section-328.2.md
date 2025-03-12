@@ -1,0 +1,15 @@
+##### § 328.2 Display and procurement of official sign. #####
+
+(a) *Display of official sign.* Each insured depository institution shall continuously display the official sign at each station or window where insured deposits are usually and normally received in the depository institution's principal place of business and in all its branches.
+
+(1) *Other locations*—(i) *Within the institution.* In addition to locations where display of the official sign is required under this § 328.2(a), an insured depository institution may display the official sign in other locations at the institution.
+
+(ii) *Other facilities.* An insured depository institution may display the official sign on or at Remote Service Facilities. If an insured depository institution displays the official sign at a Remote Service Facility, and if there are any noninsured institutions that share in the Remote Service Facility, any insured depository institution that displays the official sign must clearly show that the sign refers only to a designated insured depository institution(s). As used in this part, the term “Remote Service Facility” includes any automated teller machine, cash dispensing machine, point-of-sale terminal, or other remote electronic facility where deposits are received.
+
+(2) *Varied signs.* Instead of displaying the official sign, an insured depository institution may display signs that vary from the official sign in size, color, or material at any location where display of the official sign is required or permitted under this § 328.2(a). However, any such varied sign that is displayed in locations where display of the official sign is required under this § 328.2(a) must not be smaller in size than the official sign and must have the same color for the text and symbols.
+
+(3) *Newly insured institutions.* A depository institution shall display the official sign no later than its twenty-first day of operation as an insured depository institution, unless the institution promptly requested the official sign from the Corporation, but did not receive it before that date.
+
+(b) *Procuring official sign.* An insured depository institution may procure the official sign from the Corporation for official use at no charge. Information on obtaining the official sign is posted on the FDIC's internet Web site, *http://www.fdic.gov.* Alternatively, insured depository institutions may, at their expense, procure from commercial suppliers signs that vary from the official sign in size, color, or material. Any insured depository institution which has promptly submitted a written request for an official sign to the Corporation shall not be deemed to have violated this § 328.2 by failing to display the official sign, unless the insured depository institution fails to display the official sign after receipt thereof.
+
+(c) *Required changes in sign.* The Corporation may require any insured depository institution, upon at least thirty (30) days' written notice, to change the wording of the official sign in a manner deemed necessary for the protection of depositors or others.

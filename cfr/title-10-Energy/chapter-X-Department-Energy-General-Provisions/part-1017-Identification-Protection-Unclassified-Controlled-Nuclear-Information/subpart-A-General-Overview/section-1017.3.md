@@ -1,0 +1,3 @@
+##### § 1017.3 Policy. #####
+
+The Department of Energy (DOE) strives to make information publicly available to the fullest extent possible. Therefore, this part must be interpreted and implemented to apply the minimum restrictions needed to protect the health and safety of the public or the common defense and security consistent with the requirement in section 148 of the Atomic Energy Act to prohibit the unauthorized dissemination of UCNI.

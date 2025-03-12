@@ -1,0 +1,5 @@
+##### § 1113.8 Witness examination; order of procedure. #####
+
+Witnesses will be orally examined under oath before the officer unless the facts are presented to the Board in the manner provided under modified procedure. In formal complaint, application, and investigation proceedings, complainant, applicant, and respondent, respectively, shall open and close at the hearing. In the event of further hearings granted on petition, the petitioners requesting further hearing shall open and close the proceeding. Instances exist in which parties other than the respondent may open and close in investigations where the burden of proof is not upon the respondent. Interveners shall follow the party on whose behalf the intervention is made. The foregoing order of presentation may be varied by the officer.
+
+[47 FR 49559, Nov. 1, 1982, as amended at 61 FR 52712, Oct. 8, 1996; 81 FR 8854, Feb. 23, 2016]

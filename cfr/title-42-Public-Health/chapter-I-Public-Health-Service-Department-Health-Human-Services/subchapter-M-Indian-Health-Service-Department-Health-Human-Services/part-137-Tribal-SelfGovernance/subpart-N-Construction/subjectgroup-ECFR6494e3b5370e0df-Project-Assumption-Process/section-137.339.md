@@ -1,0 +1,3 @@
+##### § 137.339 May a Self-Governance Tribe use project funds for matching or cost participation requirements under other Federal and non-Federal programs? #####
+
+Yes, notwithstanding any other provision of law, all funds provided under a construction project agreement may be treated as non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program.

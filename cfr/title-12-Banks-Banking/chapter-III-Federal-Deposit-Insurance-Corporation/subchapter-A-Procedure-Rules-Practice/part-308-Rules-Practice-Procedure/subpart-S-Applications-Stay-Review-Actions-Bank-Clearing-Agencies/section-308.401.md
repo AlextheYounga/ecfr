@@ -1,0 +1,3 @@
+##### § 308.401 Applications for stays of disciplinary sanctions or summary suspensions by a bank clearing agency. #####
+
+Applications to the Corporation for a stay of disciplinary action imposed by registered clearing agencies pursuant to section 17(b)(3)(G) of the Exchange Act, or summary suspension or limitation or prohibition of access under section 17(b)(5)(C) of the Exchange Act shall be made according to the rules adopted by the Commission (17 CFR 240.19d-2). References to the “Commission” in 17 CFR 240.19d-2 are deemed to refer to the “Corporation.”

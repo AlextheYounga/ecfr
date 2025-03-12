@@ -1,0 +1,13 @@
+##### § 77.100 Certified person. #####
+
+(a)(1) The provisions of this Part 77 require that certain examinations and tests be made by a certified person. A certified person within the meaning of these provisions is a person who has been certified in accordance with the provisions of paragraph (b) of this § 77.100 to perform the duties, and make the examinations and tests which are required by this Part 77 to be performed by a certified person.
+
+(2) A person who has been so certified shall also be considered to be a qualified person within the meaning of those provisions of this Part 77 which require that certain examinations, tests and duties be performed by a qualified person, except those provisions in Subparts F, G, H, I, and J of this part relating to performance of electrical work.
+
+(b) Pending issuance of Federal standards, a person will be considered, to the extent of the certification, a certified person to make examinations, tests and perform duties which are required by this Part 77 to be performed by a certified person:
+
+(1) If he has been certified for such purpose by the State in which the coal mine is located; or
+
+(2) If this person has been certified for such purpose by the Secretary. A person's initial certification is valid for as long as the person continues to satisfy the requirements necessary to obtain the certification and is employed at the same coal mine or by the same independent contractor. The mine operator or independent contractor shall make an application which satisfactorily shows that each such person has had at least 2 years experience at a coal mine or equivalent experience, and that each such person demonstrates to the satisfaction of an authorized representative of the Secretary that such person is able and competent to test for oxygen deficiency with a permissible flame safety lamp, or any other device approved by the Secretary and to test for methane with a portable methane detector approved by the Bureau of Mines, MESA, or MSHA, under Part 22 of this Chapter (Bureau of Mines Schedule 8C), and to perform such other duties for which application for certification is made. Applications for certification by the Secretary should be submitted in writing to the Mine Safety and Health Administration, Certification and Qualification Center, P.O. Box 25367, Denver Federal Center, Denver, Colorado 80225.
+
+[36 FR 9364, May 22, 1971, as amended at 43 FR 12320, Mar. 24, 1978; 54 FR 30515, July 20, 1989]

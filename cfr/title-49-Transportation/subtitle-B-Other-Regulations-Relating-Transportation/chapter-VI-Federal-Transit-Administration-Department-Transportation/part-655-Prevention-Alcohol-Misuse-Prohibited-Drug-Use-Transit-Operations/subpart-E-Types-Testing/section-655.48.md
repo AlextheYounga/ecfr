@@ -1,0 +1,3 @@
+##### § 655.48 Retesting of covered employees with an alcohol concentration of 0.02 or greater but less than 0.04. #####
+
+If an employer chooses to permit a covered employee to perform a safety-sensitive function within 8 hours of an alcohol test indicating an alcohol concentration of 0.02 or greater but less than 0.04, the employer shall retest the covered employee to ensure compliance with the provisions of § 655.35. The covered employee may not perform safety-sensitive functions unless the confirmation alcohol test result is less than 0.02.

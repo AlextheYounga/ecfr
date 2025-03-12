@@ -1,0 +1,3 @@
+##### § 434.20 Applicability. #####
+
+The provisions of this subpart are applicable to discharges from coal preparation plants and coal preparation plant association areas, as indicated, including discharges which are pumped, siphoned, or drained from the coal preparation plant water circuit and coal storage, refuse storage, and ancillary areas related to the cleaning or beneficiation of coal of any rank including, but not limited to, bituminous, lignite, and anthracite.

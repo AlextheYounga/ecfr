@@ -1,0 +1,3 @@
+##### § 10000.3 Availability of records. #####
+
+Records that are required by the FOIA to be made available for public inspection and copying may be accessed through the Agency's Web site at *www.ncd.gov.* The Council is responsible for determining which of its records are required to be made publicly available, as well as identifying additional records of interest to the public that are appropriate for public disclosure, and for posting and indexing such records. The Council shall ensure that its Web site of posted records and indices is reviewed and updated on an ongoing basis. The Council's FOIA Public Liaison can assist individuals in locating records particular to a component.

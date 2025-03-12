@@ -1,0 +1,5 @@
+##### § 1204.1100 Scope of subpart. #####
+
+This subpart establishes policies pursuant to the requirements of National and Commercial Space Programs (51 U.S.C.) authorizing the NASA Administrator to establish such security requirements, restrictions, and safeguards as he deems necessary in the interest of national security, under 5 U.S.C. 301, and 18 U.S.C. 799, providing for the imposition of fines and imprisonment for violating NASA regulations for the protection and security of NASA assets or assets that are in NASA's custody. The provisions of this subpart apply to all NASA installations, including NASA Headquarters, NASA Centers, and component facilities. NASA installations refers to all NASA-owned, controlled, or leased property, with exclusive or concurrent Federal jurisdiction, including non-contiguous or unfenced areas and including areas otherwise open to the public at large. These provisions are also applicable to all persons who are in or on a NASA installation over which the United States exercises exclusive or concurrent legislative jurisdiction.
+
+[80 FR 70152, Nov .13, 2015]

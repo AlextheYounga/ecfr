@@ -1,0 +1,3 @@
+##### § 741.7 Conversion to a state-chartered credit union. #####
+
+Any federal credit union that petitions to convert to a state-chartered federally insured credit union is required to apply to the Regional Director for continued insurance of its accounts and meet the requirements as stated in the Act and this part. If the application for continued insurance is not approved, such insurance will terminate subject to the conditions set forth in section 206(d) of the Act.

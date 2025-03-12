@@ -1,0 +1,3 @@
+##### § 725.17 Consultation with EPA. #####
+
+Persons may consult with EPA, either in writing or by telephone, about their obligations under this part. Written consultation is preferred. Written inquiries should be sent to the following address: Environmental Assistance Division (7408), Office of Pollution Prevention and Toxics, U.S. Environmental Protection Agency, 1200 Pennsylvania Ave., NW., Washington, DC 20460, ATTN: Biotechnology Notice Consultation. Persons wishing to consult with EPA by telephone should call (202) 554-1404; hearing impaired TDD (202) 554-0551 or e-mail: *TSCA-Hotline@epamail.epa.gov.*

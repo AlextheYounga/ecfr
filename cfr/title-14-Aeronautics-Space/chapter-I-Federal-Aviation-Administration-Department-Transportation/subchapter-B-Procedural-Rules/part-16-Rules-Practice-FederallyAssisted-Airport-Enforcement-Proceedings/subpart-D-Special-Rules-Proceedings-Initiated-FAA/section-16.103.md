@@ -1,0 +1,3 @@
+##### § 16.103 Notice of investigation. #####
+
+Following the initiation of an investigation under § 16.101, the FAA sends a notice to the person(s) subject to investigation. The notice will set forth the areas of the agency's concern and the reasons therefor; request a response to the notice within 30 days of the date of service; and inform the respondent that the FAA will, in its discretion, invite good faith efforts to resolve the matter.

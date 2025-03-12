@@ -1,0 +1,5 @@
+##### § 590.310 Opportunity for additional procedures. #####
+
+Any party may file a motion requesting additional procedures, including the opportunity to file written comments, request written interrogatories or other discovery procedures, or request that a conference, oral presentation or trial-type hearing be held. The motion shall describe what type of procedure is requested and include the information required by §§ 590.311, 590.312 and 590.313, as appropriate. Failure to request additional procedures within the time specified in the notice of application or in the notice of procedure, if applicable, shall constitute a waiver of that right unless the Assistant Secretary for good cause shown grants additional time for requesting additional procedures. If no time limit is specified in the notice or order, additional procedures may be requested at any time prior to the issuance of a final opinion and order. At any time during a proceeding, the Assistant Secretary or presiding official may on his or her own initiative determine to provide additional procedures.
+
+[54 FR 53531, Dec. 29, 1989; 55 FR 14916, Apr. 19, 1990]

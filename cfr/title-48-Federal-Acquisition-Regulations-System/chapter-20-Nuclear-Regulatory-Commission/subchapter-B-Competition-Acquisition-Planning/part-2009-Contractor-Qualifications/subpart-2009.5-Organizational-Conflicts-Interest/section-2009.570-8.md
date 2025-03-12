@@ -1,0 +1,3 @@
+##### 2009.570-8 Subcontracts. #####
+
+The contracting officer shall require offerors and contractors to submit a representation statement from all subcontractors (other than a supply subcontractor) and consultants performing services in excess of $10,000 in accordance with 2009.570-4(b). The contracting officer shall require the contractor to include contract clauses in accordance with 2009.570-5 in consultant agreements or subcontracts involving performance of work under a prime contract.

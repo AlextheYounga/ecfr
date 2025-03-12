@@ -1,0 +1,7 @@
+##### § 1320.12 Advance notice of proposed determination. #####
+
+(a) *Notice of proposed determination and opportunity for hearing.* Before making any final determination on designation or rescission under § 1320.13, the Council shall propose a determination and provide the financial market utility with advance notice of the proposed determination, and proposed findings of fact supporting that determination. A proposed determination shall be made by a vote of the Council in the manner described in § 1320.13(c).
+
+(b) *Request for hearing.* Within 30 calendar days from the date of any provision of notice of the proposed determination of the Council, the financial market utility may request, in writing, an opportunity for a written or oral hearing before the Council to demonstrate that the proposed designation or rescission of designation is not supported by substantial evidence.
+
+(c) *Written submissions.* Upon receipt of a timely request, the Council shall fix a time, not more than 30 calendar days after receipt of the request, unless extended by the Council at the request of the financial market utility, and place at which the financial market utility may appear, personally or through counsel, to submit written materials, or, at the sole discretion of the Council, oral testimony and oral argument.

@@ -1,0 +1,3 @@
+##### § 221.204 Adoption of provisions of one carrier by another carrier. #####
+
+When one carrier adopts the tariffs of another carrier, the effective and prospective fares of the adopted carrier shall be changed to reflect the name of the adopting carrier and the effective date of the adoption. Further, each adopted fare shall bear a notation which shall reflect the name of the adopted carrier and the effective date of the adoption, provided that any subsequent revision of an adopted fare may omit the notation.

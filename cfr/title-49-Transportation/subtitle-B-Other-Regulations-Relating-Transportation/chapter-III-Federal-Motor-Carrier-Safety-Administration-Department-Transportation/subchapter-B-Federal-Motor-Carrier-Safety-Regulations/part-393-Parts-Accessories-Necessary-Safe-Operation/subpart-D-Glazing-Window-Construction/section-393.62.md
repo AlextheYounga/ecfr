@@ -1,0 +1,21 @@
+##### § 393.62 Emergency exits for buses. #####
+
+(a) *Buses manufactured on or after September 1, 1994.* Each bus with a GVWR of 4,536 kg (10,000 pounds) or less must meet the emergency exit requirements of FMVSS No. 217 (S5.2.2.3) in effect on the date of manufacture. Each bus with a GVWR of more than 4,536 kg (10,000 pounds) must have emergency exits which meet the applicable emergency exit requirements of FMVSS No. 217 (S5.2.2 or S5.2.3) in effect on the date of manufacture.
+
+(b) *Buses manufactured on or after September 1, 1973, but before September 1, 1994.* (1) Each bus (including a school bus used in interstate commerce for non-school bus operations) with a GVWR of more than 4,536 kg (10,000 lbs) must meet the requirements of FMVSS No. 217, S5.2.2 in effect on the date of manufacture.
+
+(2) Each bus (including a school bus used in interstate commerce for non-school bus operations) with a GVWR of 4,536 kg (10,000 lbs) or less must meet the requirements of FMVSS No. 217, S5.2.2.3 in effect on the date of manufacture.
+
+(c) *Buses manufactured before September 1, 1973.* For each seated passenger space provided, inclusive of the driver there shall be at least 432 cm2 (67 square inches) of glazing if such glazing is not contained in a push-out window; or, at least 432 cm2 (67 square inches) of free opening resulting from opening of a push-out type window. No area shall be included in this minimum prescribed area unless it will provide an unobstructed opening of at least 1,290 cm2 (200 in2) formed by a rectangle 33 cm by 45 cm (13 inches by 173/4 inches). The maximum radius of the corner arcs shall not exceed 152 mm (6 inches). The long axis of the rectangle shall not make an angle of more than 45 degrees with the surface on which the unladen vehicle stands. The area shall be measured either by removal of the glazing if not of the push-out type, or of the movable sash if of the push-out type. The exit must comply with paragraph (d) of this section. Each side of the bus must have at least 40 percent of emergency exit space required by this paragraph.
+
+(d) *Laminated safety glass/push-out window requirements for buses manufactured before September 1, 1973.* Emergency exit space used to satisfy the requirements of paragraph (c) of this section must have laminated safety glass or push-out windows designed and maintained to yield outward to provide a free opening.
+
+(1) *Safety glass.* Laminated safety glass must meet Test No. 25, Egress, of American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways—Safety Standards ANSI/SAE Z26.1/96, August 1997. (See § 393.7 (b) for information on incorporation by reference and availability of this document.)
+
+(2) *Push-out windows.* Each push-out window shall be releasable by operating no more than two mechanisms and allow manual release of the exit by a single occupant. For mechanisms which require rotary or straight (parallel to the undisturbed exit surface) motions to operate the exit, no more than 89 Newtons (20 pounds) of force shall be required to release the exit. For exits which require a straight motion perpendicular to the undisturbed exit surface, no more than 267 Newtons (60 pounds) shall be required to release the exit.
+
+(e) *Emergency exit identification.* Each bus and each school bus used in interstate commerce for non-school bus operations, manufactured on or after September 1, 1973, shall meet the applicable emergency exit identification or marking requirements of FMVSS No. 217, S5.5, in effect on the date of manufacture. The emergency exits and doors on all buses (including school buses used in interstate commerce for non-school bus operations) must be marked “Emergency Exit” or “Emergency Door” followed by concise operating instructions describing each motion necessary to unlatch or open the exit located within 152 mm (6 inches) of the release mechanism.
+
+(f) *Exception for the transportation of prisoners.* The requirements of this section do not apply to buses used exclusively for the transportation of prisoners.
+
+[70 FR 48052, Aug. 15, 2005]

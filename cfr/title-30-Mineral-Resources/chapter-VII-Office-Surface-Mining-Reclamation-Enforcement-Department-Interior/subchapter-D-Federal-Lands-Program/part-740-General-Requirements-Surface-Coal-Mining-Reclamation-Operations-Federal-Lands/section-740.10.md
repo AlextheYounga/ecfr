@@ -1,0 +1,7 @@
+##### § 740.10 Information collection. #####
+
+(a) In accordance with 44 U.S.C. 3501 *et seq.,* the Office of Management and Budget (OMB) has approved the information collection requirements of this part. The OMB clearance number is 1029-0027. This information is needed to implement section 523 of the Act, which governs surface coal mining operations on Federal lands. Persons intending to conduct such operations must respond to obtain a benefit.
+
+(b) OSM estimates that the public reporting burden for this part will average 26 hours per respondent, including time spent reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of these information collection requirements, including suggestions for reducing the burden, to the Office of Surface Mining Reclamation and Enforcement, Information Collection Clearance Officer, 1951 Constitution Avenue, NW, Washington, DC 20240; and the Office of Management and Budget, Office of Information and Regulatory Affairs, Attention: Interior Desk Officer, 725 17th Street, N.W, Washington, DC 20503. Please refer to OMB Control Number 1029-0027 in any correspondence.
+
+[64 FR 70831, Dec. 17, 1999]

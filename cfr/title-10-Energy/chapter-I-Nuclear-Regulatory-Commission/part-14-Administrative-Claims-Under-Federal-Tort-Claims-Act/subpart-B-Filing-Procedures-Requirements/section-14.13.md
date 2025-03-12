@@ -1,0 +1,3 @@
+##### § 14.13 When is a claim presented to NRC. #####
+
+For purposes of the provisions of 28 U.S.C. 2672, a claim is presented when NRC receives from a claimant, or the claimant's duly authorized agent or legal representative, an executed Standard Form 95 or other written notification of an incident. An executed Standard Form 95 or written notification must be accompanied by a claim for money damages in a sum certain for damage to or loss of property, personal injury, or death alleged to have occurred by reason of the incident.

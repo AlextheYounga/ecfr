@@ -1,0 +1,3 @@
+##### § 894.505 Are retroactive premiums paid with pre-tax dollars (premium conversion)? #####
+
+Retroactive premiums are not paid under premium conversion, except when you are changing your enrollment retroactively as a result of birth or adoption of a *child.* Any additional withholdings for retroactive premiums that are due must be made with after-tax dollars. The *Administrator* will bill you directly for any retroactive premiums that must be paid with after-tax dollars.

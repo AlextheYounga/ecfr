@@ -1,0 +1,9 @@
+##### § 84.30 Certificates of approval; scope of approval. #####
+
+(a) The Institute shall issue certificates of approval pursuant to the provisions of this subpart only for individual, completely assembled respirators which have been examined, inspected, and tested, and which meet the minimum requirements set forth in subparts H through L of this part, as applicable.
+
+(b) The Institute will not issue certificates of approval for any respirator component or for any respirator subassembly.
+
+(c) The Institute shall not issue an informal notification of approval. However, if the application for approval, submitted in accordance with § 84.11, states that the submitted respirator and component parts are only prototypes, the Institute will examine, inspect, and test such respirator and component parts in accordance with the provisions of this part. If, upon completion of such examinations, inspections and tests, it is found that the prototype meets the minimum requirements set forth in this part, the Institute may inform the applicant, in writing, of the results of the examinations, inspections, and tests, and may require him to resubmit respirators and component parts made on regular production tooling, with no operations included which will not be incorporated in regular production processing, for further examination, inspection, and testing, prior to issuance of the certificate of approval.
+
+(d) Applicants required to resubmit respirators and component parts made on regular production tooling, with no operation included which will not be incorporated in regular production processing, shall be charged fees in accordance with subpart C of this part.

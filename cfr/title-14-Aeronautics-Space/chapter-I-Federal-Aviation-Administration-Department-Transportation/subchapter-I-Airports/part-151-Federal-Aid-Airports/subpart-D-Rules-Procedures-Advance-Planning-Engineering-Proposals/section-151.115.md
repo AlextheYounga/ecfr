@@ -1,0 +1,3 @@
+##### § 151.115 Advance planning proposals: Cosponsorship and agency. #####
+
+Any two or more public agencies desiring to jointly participate in an advance planning proposal may cosponsor it. The cosponsorship and agency requirements and procedures set forth in § 151.33, except § 151.33(a)(1), also apply to advance planning proposals. In addition, the sponsor eligibility requirements set forth in § 151.113 must be met by each participating public agency.

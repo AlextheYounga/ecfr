@@ -1,0 +1,11 @@
+##### § 797.9 Review procedures. #####
+
+(a) Unless an oral hearing is required by § 797.7(d), NCUA's review shall be a review of the written record of the claim.
+
+(b) If an oral hearing is required, NCUA shall provide the debtor with a reasonable opportunity for such a hearing. The oral hearing, however, shall not be an adversarial adjudication and need not take the form of a formal evidentiary hearing. All significant matters discussed at the hearing, however, will be carefully documented.
+
+(c) Any review required by this part, whether a review of the written record or an oral hearing, shall be conducted by a hearing official. When NCUA is the creditor agency and the debtor is an NCUA employee, NCUA shall contact any agency designated in appendix A to 5 CFR part 581 to arrange for a hearing official. When NCUA is the creditor agency and the debtor is not an NCUA employee (i.e., the debtor is employed by another federal agency, also known as the paying agency), and NCUA cannot provide a prompt and appropriate hearing, NCUA may contact an agent of the paying agency designated in appendix A to 5 CFR part 581 to arrange for a hearing official. The paying agency must cooperate with NCUA to provide a hearing official, as required by the FCCS.
+
+(d) The hearing official shall issue a final written decision based on documentary evidence and, if applicable, information developed at an oral hearing. The written decision shall be issued as soon as practicable after the review but not later than 60 days after the date on which the request for review was received by NCUA, unless the debtor requests a delay in the proceedings. A delay in the proceedings shall be granted if the hearing official determines that there is good cause to grant the delay. If a delay is granted, the 60-day decision period shall be extended by the number of days by which the review was postponed.
+
+(e) Upon issuance of the written opinion, NCUA shall promptly notify the debtor of the hearing official's decision. The notification shall include a copy of the written decision issued by the hearing official.

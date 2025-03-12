@@ -1,0 +1,3 @@
+##### § 581.14 OCS mining area identification. #####
+
+The Secretary, after considering the available OCS mineral resources and environmental data and information, the recommendation of any joint State/Federal task force established pursuant to § 581.13 of this part, and the comments received from interested parties, shall select the tracts to be considered for offering for lease. The selected tracts will be considered in the environmental analysis conducted for the proposed lease offering.

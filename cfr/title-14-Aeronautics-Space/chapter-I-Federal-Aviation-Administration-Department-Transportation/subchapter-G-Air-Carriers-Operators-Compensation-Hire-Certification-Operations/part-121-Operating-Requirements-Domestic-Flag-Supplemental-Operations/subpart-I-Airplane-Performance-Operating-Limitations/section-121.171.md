@@ -1,0 +1,9 @@
+##### § 121.171 Applicability. #####
+
+(a) This subpart prescribes airplane performance operating limitations for all certificate holders.
+
+(b) For purposes of this part, *effective length of the runway* for landing means the distance from the point at which the obstruction clearance plane associated with the approach end of the runway intersects the centerline of the runway to the far end thereof.
+
+(c) For the purposes of this subpart, *obstruction clearance plane* means a plane sloping upward from the runway at a slope of 1:20 to the horizontal, and tangent to or clearing all obstructions within a specified area surrounding the runway as shown in a profile view of that area. In the plan view, the centerline of the specified area coincides with the centerline of the runway, beginning at the point where the obstruction clearance plane intersects the centerline of the runway and proceeding to a point at least 1,500 feet from the beginning point. Thereafter the centerline coincides with the takeoff path over the ground for the runway (in the case of takeoffs) or with the instrument approach counterpart (for landings), or, where the applicable one of these paths has not been established, it proceeds consistent with turns of at least 4,000 foot radius until a point is reached beyond which the obstruction clearance plane clears all obstructions. This area extends laterally 200 feet on each side of the centerline at the point where the obstruction clearance plane intersects the runway and continues at this width to the end of the runway; then it increases uniformly to 500 feet on each side of the centerline at a point 1,500 feet from the intersection of the obstruction clearance plane with the runway; thereafter it extends laterally 500 feet on each side of the centerline.
+
+[Doc. No. 6258, 29 FR 19198, Dec. 31, 1964, as amended by Amdt. 121-132, 41 FR 55475, Dec. 20, 1976]

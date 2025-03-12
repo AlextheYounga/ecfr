@@ -1,0 +1,3 @@
+##### § 408.220 Applicability; description of the non-Alaskan mechanized bottom fish processing subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the processing of bottom fish outside of Alaska in which the unit operations (particularly the butchering and/or filleting operations) are carried out predominately through mechanized methods. The provisions of this subpart apply to the processing of bottom fish such as whiting and croaker.

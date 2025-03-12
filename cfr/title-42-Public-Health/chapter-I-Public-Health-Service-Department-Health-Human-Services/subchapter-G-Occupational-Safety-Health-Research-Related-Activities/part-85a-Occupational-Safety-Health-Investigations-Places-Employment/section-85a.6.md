@@ -1,0 +1,5 @@
+##### § 85a.6 Provision of suitable space for employee interviews and examinations. #####
+
+An employer, owner, operator or agent in charge at the place of employment shall, on request of the NIOSH authorized representatives, provide suitable space at the place of employment, if such space is reasonably available, to NIOSH to conduct private interviews with, and medical examinations, anthropometric measurements and functional tests of employees. NIOSH authorized representatives will consult with the employer, owner, operator or agent as to the time and place of the private interviews, medical examination, anthropometric measurements and functional tests and will schedule same so as to avoid undue disruption of work at the place of employment. NIOSH will conduct the medical interviews, measurements, examinations and tests specified under this part at its own expense.
+
+[41 FR 45002, Oct. 14, 1976]

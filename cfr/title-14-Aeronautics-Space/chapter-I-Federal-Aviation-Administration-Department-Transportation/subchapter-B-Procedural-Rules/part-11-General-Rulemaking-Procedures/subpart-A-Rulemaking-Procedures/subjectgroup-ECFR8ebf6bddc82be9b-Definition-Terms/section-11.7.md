@@ -1,0 +1,3 @@
+##### § 11.7 What is a supplemental notice of proposed rulemaking? #####
+
+On occasion, FAA may decide that it needs more information on an issue, or that we should take a different approach than we proposed. Also, we may want to follow a commenter's suggestion that goes beyond the scope of the original proposed rule. In these cases, FAA may issue a supplemental notice of proposed rulemaking (SNPRM) to give the public an opportunity to comment further or to give us more information.

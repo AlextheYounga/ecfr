@@ -1,0 +1,9 @@
+##### § 61.1 Purpose and application. #####
+
+(a) The purpose of this part is to prescribe the framework for the initial establishment of and subsequent revisions to tariff publications.
+
+(b) Tariff publications filed with the Commission must conform to the rules in this part and with Commission rules regarding the payment of statutory charges (see subpart G of part 1 of this title) and the use of FCC Registration Numbers (FRNs) (see subpart W of part 1 of this title). Failure to comply with any provisions of these rules may be grounds for rejection of the non-complying publication, a determination that it is unlawful or other action. Where an FRN has been omitted from a cover letter or transmittal accompanying a tariff publication filed under this part or the FRN included in that letter is invalid, the submitting carrier or carrier representative shall have ten (10) business days from the date of filing to amend the cover letter or transmittal to include a valid FRN. If within that ten (10) business day period, the carrier or carrier representative amends the cover letter or transmittal to include a valid FRN, that FRN shall be deemed to have been included in the letter as of its original filing date. If, after the expiration of the ten (10) business day period, the cover letter or transmittal has not been amended to include a valid FRN, the related tariff publication may be rejected if it has not yet become effective, declared unlawful if it has become effective, or subject to other action.
+
+(c) No carrier required to file tariffs may provide any interstate or foreign communication service until every tariff publication for such communication service is on file with the Commission and in effect.
+
+[49 FR 40869, Oct. 18, 1984, as amended at 66 FR 47896, Sept. 14, 2001]

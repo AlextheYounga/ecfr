@@ -1,0 +1,3 @@
+##### § 353.201 Introduction. #####
+
+The Uniformed Services Employment and Reemployment Rights Act of 1994 revised and strengthened the existing Veterans' Reemployment Rights law, made the Department of Labor responsible for investigating employee complaints, required OPM to place certain returning employees in other agencies, established a separate restoration rights program for employees of the intelligence agencies, and altered the appeals rights process. The new law applies to persons exercising restoration rights on or after December 12, 1994.

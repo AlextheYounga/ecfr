@@ -1,0 +1,3 @@
+##### § 108.3 Request for investigation. #####
+
+Any employee who is discharged or laid-off, threatened with discharge or lay-off, or otherwise discriminated against by any person because of the alleged results of any effluent limitation or order issued under the Act, or any representative of such employee, may submit a request for an investigation under this part to the Regional Administrator of the region in which such discrimination is alleged to have occurred.

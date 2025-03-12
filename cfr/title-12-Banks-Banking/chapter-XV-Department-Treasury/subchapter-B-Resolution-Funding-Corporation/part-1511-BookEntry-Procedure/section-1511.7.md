@@ -1,0 +1,3 @@
+##### § 1511.7 Liability of the Funding Corporation and Federal Reserve Banks. #####
+
+The Funding Corporation and the Federal Reserve Banks may rely on the information provided in a Transfer Message, or other documentation, and are not required to verify the information. The Funding Corporation and the Federal Reserve Banks shall not be liable for any action taken in accordance with the information set out in a Transfer Message, other documentation, or evidence submitted in support thereof.

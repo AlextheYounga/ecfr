@@ -1,0 +1,3 @@
+##### § 490.605 Statement of enforcement policy. #####
+
+DOE may agree not to commence an enforcement proceeding, or may agree to settle an enforcement proceeding, if the person agrees to come into compliance in a manner satisfactory to DOE. DOE normally will not commence an enforcement action against a person subject to the acquisition requirements of this part without giving that person notice of its intent to enforce 90 days before the beginning of an enforcement proceeding.

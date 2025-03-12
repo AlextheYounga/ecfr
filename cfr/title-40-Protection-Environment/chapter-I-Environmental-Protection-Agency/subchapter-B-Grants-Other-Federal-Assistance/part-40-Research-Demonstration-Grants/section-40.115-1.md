@@ -1,0 +1,3 @@
+##### § 40.115-1 Construction. #####
+
+May include the preliminary planning to determine the economic and engineering feasibility of a facility, the engineering, architectural, legal, fiscal, and economic investigations and studies, surveys, designs, plans, working drawings, specifications, procedures, and other action necessary to the construction of a facility, the erection, acquisition, alteration, remodeling, improvement, or extension of a facility, and the inspection and supervision of the construction of a facility.

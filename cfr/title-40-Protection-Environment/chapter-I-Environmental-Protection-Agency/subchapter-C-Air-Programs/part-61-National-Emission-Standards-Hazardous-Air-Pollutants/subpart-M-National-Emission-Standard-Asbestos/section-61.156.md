@@ -1,0 +1,16 @@
+##### § 61.156 Cross-reference to other asbestos regulations. #####
+
+In addition to this subpart, the regulations referenced in Table 1 also apply to asbestos and may be applicable to those sources specified in §§ 61.142 through 61.151, 61.154, and 61.155 of this subpart. These cross-references are presented for the reader's information and to promote compliance with the cited regulations.
+
+|Agency|       CFR citation       |                                                                                                      Comment                                                                                                       |
+|------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EPA  |40 CFR part 763, subpart E|Requires schools to inspect for asbestos and implement response actions and submit asbestos management plans to States. Specifies use of accredited inspectors, air sampling methods, and waste disposal procedures.|
+|      |     40 CFR part 427      |                                                                          Effluent standards for asbestos manufacturing source categories.                                                                          |
+|      |40 CFR part 763, subpart G|                                                   Protects public employees performing asbestos abatement work in States not covered by OSHA asbestos standard.                                                    |
+| OSHA |     29 CFR 1910.1001     |                                 Worker protection measures-engineering controls, worker training, labeling, respiratory protection, bagging of waste, permissible exposure level.                                  |
+|      |     29 CFR 1926.1101     |            Worker protection measures for all construction work involving asbestos, including demolition and renovation-work practices, worker training, bagging of waste, permissible exposure level.             |
+| MSHA |30 CFR part 56, subpart D |                                                 Specifies exposure limits, engineering controls, and respiratory protection measures for workers in surface mines.                                                 |
+|      |30 CFR part 57, subpart D |                                               Specifies exposure limits, engineering controls, and respiratory protection measures for workers in underground mines.                                               |
+| DOT  | 49 CFR parts 171 and 172 |                                                Regulates the transportation of asbestos-containing waste material. Requires waste containment and shipping papers.                                                 |
+
+[55 FR 48432, Nov. 20, 1990, as amended at 60 FR 31920, June 19, 1995; 68 FR 54793, Sept. 18, 2003; 69 FR 43324, July 20, 2004]

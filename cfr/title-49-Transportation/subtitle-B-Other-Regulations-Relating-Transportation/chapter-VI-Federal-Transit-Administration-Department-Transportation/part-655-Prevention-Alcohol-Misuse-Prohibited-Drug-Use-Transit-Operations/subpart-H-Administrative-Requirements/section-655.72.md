@@ -1,0 +1,17 @@
+##### § 655.72 Reporting of results in a management information system. #####
+
+(a) Each recipient shall annually prepare and maintain a summary of the results of its anti-drug and alcohol misuse testing programs performed under this part during the previous calendar year.
+
+(b) When requested by FTA, each recipient shall submit to FTA's Office of Safety and Security, or its designated agent, by March 15, a report covering the previous calendar year (January 1 through December 31) summarizing the results of its anti-drug and alcohol misuse programs.
+
+(c) Each recipient shall be responsible for ensuring the accuracy and timeliness of each report submitted by an employer, contractor, consortium or joint enterprise or by a third party service provider acting on the recipient's or employer's behalf.
+
+(d) As an employer, you must use the Management Information System (MIS) form and instructions as required by 49 CFR part 40, § 40.25 and appendix H. You may also use the electronic version of the MIS form provided by the DOT. The Administrator may designate means (e.g., electronic program transmitted via the Internet), other than hard-copy, for MIS form submission. For information on where to submit MIS forms and for the electronic version of the form, see: *http://transit-safety.volpe.dot.gov/DAMIS.*
+
+(e) To calculate the total number of covered employees eligible for random testing throughout the year, as an employer, you must add the total number of covered employees eligible for testing during each random testing period for the year and divide that total by the number of random testing periods. Covered employees, and only covered employees, are to be in an employer's random testing pool, and all covered employees must be in the random pool. If you are an employer conducting random testing more often than once per month (e.g., you select daily, weekly, bi-weekly), you do not need to compute this total number of covered employees rate more than on a once per month basis. As an employer, you may use a service agent (e.g., C/TPA) to perform random selections for you; and your covered employees may be part of a larger random testing pool of covered employees. However, you must ensure that the service agent you use is testing at the appropriate percentage established for your industry and that only covered employees are in the random testing pool.
+
+(f) If you have a covered employee who performs multi-DOT agency functions (e.g., an employee drives a paratransit vehicle and performs pipeline maintenance duties for you), count the employee only on the MIS report for the DOT agency under which he or she is random tested. Normally, this will be the DOT agency under which the employee performs more than 50% of his or her duties. Employers may have to explain the testing data for these employees in the event of a DOT agency inspection or audit.
+
+(g) A service agent (e.g., Consortia/Third Party Administrator as defined in 49 CFR part 40) may prepare the MIS report on behalf of an employer. However, a company official (e.g., Designated Employer Representative as defined in 49 CFR part 40) must certify the accuracy and completeness of the MIS report, no matter who prepares it.
+
+[66 FR 42002, Aug. 9, 2001, as amended at 68 FR 75462, Dec. 31, 2003]

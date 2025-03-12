@@ -1,0 +1,3 @@
+##### § 147.3005 Radioactive waste injection wells. #####
+
+Notwithstanding §§ 144.24 and 146.51(b) of this chapter, owners and operators of wells used to dispose of radioactive waste (as defined in 10 CFR part 20, appendix B, table II, but not including high level and transuranic waste and spent nuclear fuel covered by 40 CFR part 191) shall comply with the permitting requirements pertaining to Class I wells in parts 124, 144 and 146 of this chapter, as modified and supplemented by this subpart.

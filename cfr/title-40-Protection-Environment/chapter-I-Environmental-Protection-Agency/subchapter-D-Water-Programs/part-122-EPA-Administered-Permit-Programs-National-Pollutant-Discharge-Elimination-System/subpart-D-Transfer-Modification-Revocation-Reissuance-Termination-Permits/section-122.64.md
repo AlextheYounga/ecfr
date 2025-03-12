@@ -1,0 +1,17 @@
+##### § 122.64 Termination of permits (applicable to State programs, see § 123.25). #####
+
+(a) The following are causes for terminating a permit during its term, or for denying a permit renewal application:
+
+(1) Noncompliance by the permittee with any condition of the permit;
+
+(2) The permittee's failure in the application or during the permit issuance process to disclose fully all relevant facts, or the permittee's misrepresentation of any relevant facts at any time;
+
+(3) A determination that the permitted activity endangers human health or the environment and can only be regulated to acceptable levels by permit modification or termination; or
+
+(4) A change in any condition that requires either a temporary or permanent reduction or elimination of any discharge or sludge use or disposal practice controlled by the permit (for example, plant closure or termination of discharge by connection to a POTW).
+
+(b) The Director shall follow the applicable procedures in part 124 or part 22 of this chapter, as appropriate (or State procedures equivalent to part 124) in terminating any NPDES permit under this section, except that if the entire discharge is permanently terminated by elimination of the flow or by connection to a POTW (but not by land application or disposal into a well), the Director may terminate the permit by notice to the permittee. Termination by notice shall be effective 30 days after notice is sent, unless the permittee objects within that time. If the permittee objects during that period, the Director shall follow part 124 of this chapter or applicable State procedures for termination. Expedited permit termination procedures are not available to permittees that are subject to pending State and/or Federal enforcement actions including citizen suits brought under State or Federal law. If requesting expedited permit termination procedures, a permittee must certify that it is not subject to any pending State or Federal enforcement actions including citizen suits brought under State or Federal law. State-authorized NPDES programs are not required to use part 22 of this chapter procedures for NPDES permit terminations.
+
+(c) Permittees that wish to terminate their permit must submit a Notice of Termination (NOT) to their permitting authority. If requesting expedited permit termination procedures, a permittee must certify in the NOT that it is not subject to any pending State or Federal enforcement actions including citizen suits brought under State or Federal law. As of December 21, 2025 or an EPA-approved alternative date (*see* 40 CFR 127.24(e) or (f)), all NOTs submitted by general permit covered facilities in compliance with this section must be submitted electronically by the permittee to the Director or initial recipient, as defined in 40 CFR 127.2(b), in compliance with this section and 40 CFR part 3 (including, in all cases, subpart D), § 122.22, and 40 CFR part 127. 40 CFR part 127 is not intended to undo existing requirements for electronic reporting. Prior to this date, and independent of 40 CFR part 127, the permittee may be required to report electronically if specified by a particular permit or if required to do so by State law.
+
+[48 FR 14153, Apr. 1, 1983; 50 FR 6940, Feb. 19, 1985, as amended at 54 FR 18784, May 2, 1989; 65 FR 30909, May 15, 2000; 80 FR 64099, Oct. 22, 2015; 85 FR 69198, Nov. 2, 2020]

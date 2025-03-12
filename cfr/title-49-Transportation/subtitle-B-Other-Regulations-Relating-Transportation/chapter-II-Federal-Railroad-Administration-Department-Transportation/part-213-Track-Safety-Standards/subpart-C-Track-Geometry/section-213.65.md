@@ -1,0 +1,5 @@
+##### § 213.65 Combined track alinement and surface deviations. #####
+
+On any curved track where operations are conducted at a qualified cant deficiency, Eu, greater than 5 inches, the combination of alinement and surface deviations for the same chord length on the outside rail in the curve, as measured by a TGMS, shall comply with the following formula:
+
+![](/graphics/er13mr13.008.gif)Where—Am = measured alinement deviation from uniformity (outward is positive, inward is negative).AL = allowable alinement limit as per § 213.55(b) (always positive) for the class of track.Sm = measured profile deviation from uniformity (down is positive, up is negative).SL = allowable profile limit as per § 213.63(b) (always positive) for the class of track.![](/graphics/er13mr13.009.gif)[78 FR 16102, Mar. 13, 2013]

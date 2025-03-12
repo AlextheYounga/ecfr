@@ -1,0 +1,19 @@
+##### § 63.11222 How do I demonstrate continuous compliance with the emission limits? #####
+
+(a) You must demonstrate continuous compliance with each emission limit and operating limit in Tables 1 and 3 to this subpart that applies to you according to the methods specified in Table 7 to this subpart and to paragraphs (a)(1) through (4) of this section.
+
+(1) Following the date on which the initial compliance demonstration is completed or is required to be completed under §§ 63.7 and 63.11196, whichever date comes first, you must continuously monitor the operating parameters. Operation above the established maximum, below the established minimum, or outside the allowable range of the operating limits specified in paragraph (a) of this section constitutes a deviation from your operating limits established under this subpart, except during performance tests conducted to determine compliance with the emission and operating limits or to establish new operating limits. Operating limits are confirmed or reestablished during performance tests.
+
+(2) If you have an applicable mercury or PM emission limit, you must keep records of the type and amount of all fuels burned in each boiler during the reporting period. If you have an applicable mercury emission limit, you must demonstrate that all fuel types and mixtures of fuels burned would result in lower emissions of mercury than the applicable emission limit (if you demonstrate compliance through fuel analysis), or result in lower fuel input of mercury than the maximum values calculated during the last performance stack test (if you demonstrate compliance through performance stack testing).
+
+(3) If you have an applicable mercury emission limit and you plan to burn a new type of fuel, you must determine the mercury concentration for any new fuel type in units of pounds per million Btu, using the procedures in Equation 1 of § 63.11211 based on supplier data or your own fuel analysis, and meet the requirements in paragraphs (a)(3)(i) or (ii) of this section.
+
+(i) The recalculated mercury emission rate must be less than the applicable emission limit.
+
+(ii) If the mercury concentration is higher than mercury fuel input during the previous performance test, then you must conduct a new performance test within 60 days of burning the new fuel type or fuel mixture according to the procedures in § 63.11212 to demonstrate that the mercury emissions do not exceed the emission limit.
+
+(4) If your unit is controlled with a fabric filter, and you demonstrate continuous compliance using a bag leak detection system, you must initiate corrective action within 1 hour of a bag leak detection system alarm and operate and maintain the fabric filter system such that the alarm does not sound more than 5 percent of the operating time during a 6-month period. You must also keep records of the date, time, and duration of each alarm, the time corrective action was initiated and completed, and a brief description of the cause of the alarm and the corrective action taken. You must also record the percent of the operating time during each 6-month period that the alarm sounds. In calculating this operating time percentage, if inspection of the fabric filter demonstrates that no corrective action is required, no alarm time is counted. If corrective action is required, each alarm is counted as a minimum of 1 hour. If you take longer than 1 hour to initiate corrective action, the alarm time is counted as the actual amount of time taken to initiate corrective action.
+
+(b) You must report each instance in which you did not meet each emission limit and operating limit in Tables 1 and 3 to this subpart that apply to you. These instances are deviations from the emission limits in this subpart. These deviations must be reported according to the requirements in § 63.11225.
+
+[76 FR 15591, Mar. 21, 2011, as amended at 81 FR 63127, Sept. 14, 2016]

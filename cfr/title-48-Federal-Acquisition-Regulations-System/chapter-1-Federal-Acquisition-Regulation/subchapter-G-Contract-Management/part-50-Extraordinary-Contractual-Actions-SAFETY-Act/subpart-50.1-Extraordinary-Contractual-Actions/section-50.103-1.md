@@ -1,0 +1,3 @@
+##### 50.103-1 General. #####
+
+The fact that losses occur under a contract is not sufficient basis for exercising the authority conferred by Pub. L. 85-804. Whether appropriate action will facilitate the national defense is a judgment to be made on the basis of all of the facts of the case. Although it is impossible to predict or enumerate all the types of cases in which action may be appropriate, examples are included in 50.103-2. Even if all of the factors in any of the examples are present, other considerations may warrant denying a contractor's request for contract adjustment. The examples are not intended to exclude other cases in which the approving authority determines that the circumstances warrant action.

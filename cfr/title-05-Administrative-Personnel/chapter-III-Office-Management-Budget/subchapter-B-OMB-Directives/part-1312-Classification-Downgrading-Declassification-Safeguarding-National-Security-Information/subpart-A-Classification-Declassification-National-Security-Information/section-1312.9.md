@@ -1,0 +1,7 @@
+##### § 1312.9 Downgrading and declassification. #####
+
+Classified information originated by OMB offices will be downgraded or declassified as soon as it no longer qualifies for continued protection under the provisions of the classification guides. Authority to downgrade or declassify OMB-originated information is granted to those authorized to classify (See § 1312.5). Additionally, the Associate Director (or Assistant Director) for Administration is authorized to exercise downgrading and declassification actions up to and including the Top Secret level.
+
+(a) *Transferred material.* Information which was originated by an agency that no longer exists, or that was received by OMB in conjunction with a transfer of functions, is deemed to be OMB-originated material. Information which has been transferred to another agency for storage purposes remains the responsibility of OMB.
+
+(b) *Periodic review of classified material.* Each office possessing classified material will review that material on an annual basis or in conjunction with the transfer of files to non-current record storage and take action to downgrade or declassify all material no longer qualifying for continued protection at that level. All material transferred to non-current record storage must be properly marked with correct downgrade and declassification instructions.

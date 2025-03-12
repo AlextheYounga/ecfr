@@ -1,0 +1,9 @@
+##### § 36.1 Purpose and scope. #####
+
+(a) This part contains requirements for the issuance of a license authorizing the use of sealed sources containing radioactive materials in irradiators used to irradiate objects or materials using gamma radiation. This part also contains radiation safety requirements for operating irradiators. The requirements of this part are in addition to other requirements of this chapter. In particular, the provisions of parts 19, 20, 21, 30, 37, 71, 170, and 171 of this chapter apply to applications and licenses subject to this part. Nothing in this part relieves the licensee from complying with other applicable Federal, State and local regulations governing the siting, zoning, land use, and building code requirements for industrial facilities.
+
+(b) The regulations in this part apply to panoramic irradiators that have either dry or wet storage of the radioactive sealed sources and to underwater irradiators in which both the source and the product being irradiated are under water. Irradiators whose dose rates exceed 5 grays (500 rads) per hour at 1 meter from the radioactive sealed sources in air or in water, as applicable for the irradiator type, are covered by this part.
+
+(c) The regulations in this part do not apply to self-contained dry-source-storage irradiators (those in which both the source and the area subject to irradiation are contained within a device and are not accessible by personnel), medical radiology or teletherapy, radiography (the irradiation of materials for nondestructive testing purposes), gauging, or open-field (agricultural) irradiations.
+
+[58 FR 7728, Feb. 9, 1993, as amended at 78 FR 17007, Mar. 19, 2013]

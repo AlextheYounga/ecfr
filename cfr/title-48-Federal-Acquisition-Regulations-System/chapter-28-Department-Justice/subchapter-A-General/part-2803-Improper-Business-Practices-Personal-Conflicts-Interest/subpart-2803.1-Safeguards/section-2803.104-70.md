@@ -1,0 +1,3 @@
+##### 2803.104-70 Ethics program training requirements. #####
+
+It is the responsibility of the bureaus to provide training for “procurement officials” concerning the requirements of FAR 3.104. The bureau procurement training efforts should be coordinated with the Department's Ethics Official, who is responsible for developing agency ethics training plans, to include briefings on ethics and standards of conduct for employees who are contracting officers and procurement officials. The Ethics Official should be contacted directly to schedule training.

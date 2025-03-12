@@ -1,0 +1,3 @@
+##### § 192.560 How much may I contribute to a charitable organization? #####
+
+You may contribute a reasonable amount of conversion shares or proceeds to a charitable organization, if your contribution will not exceed limits for charitable deductions under the Internal Revenue Code and the appropriate Federal banking agency does not object on supervisory grounds. If you are a well-capitalized savings association, the appropriate Federal banking agency generally will not object if you contribute an aggregate amount of eight percent or less of the conversion shares or proceeds.

@@ -1,0 +1,5 @@
+##### 15.608 Prohibitions. #####
+
+(a) Government personnel shall not use any data, concept, idea, or other part of an unsolicited proposal as the basis, or part of the basis, for a solicitation or in negotiations with any other firm unless the offeror is notified of and agrees to the intended use. However, this prohibition does not preclude using any data, concept, or idea in the proposal that also is available from another source without restriction.
+
+(b) Government personnel shall not disclose restrictively marked information (see 3.104 and 15.609) included in an unsolicited proposal. The disclosure of such information concerning trade secrets, processes, operations, style of work, apparatus, and other matters, except as authorized by law, may result in criminal penalties under 18 U.S.C. 1905.

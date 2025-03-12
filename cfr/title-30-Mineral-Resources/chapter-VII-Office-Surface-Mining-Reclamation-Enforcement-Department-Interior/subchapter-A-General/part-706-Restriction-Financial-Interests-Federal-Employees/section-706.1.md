@@ -1,0 +1,3 @@
+##### § 706.1 Purpose. #####
+
+This part sets forth the minimum policies and procedures to be followed by Federal employees to satisfy the requirements of section 201(f) of the Act. The requirements of this part are in addition to Executive Order 11222 of May 8, 1965, and other applicable regulations related to conflict of interest. Section 201(f) prohibits certain Federal employees from having any direct or indirect financial interest in underground or surface coal mining operations. The regulations of this part are applicable to Federal employees as defined in § 706.3.

@@ -1,0 +1,13 @@
+##### § 72.60 General. #####
+
+(a) *Scope.* This subpart and parts 74, 76, and 78 of this chapter contain the procedures for federal issuance of Acid Rain permits for Phase I of the Acid Rain Program and Phase II for sources for which the Administrator is the permitting authority under § 72.74.
+
+(1) Notwithstanding the provisions of part 71 of this chapter, the provisions of subparts C, D, E, F, and H of this part and of parts 74, 76, and 78 of this chapter shall govern the following requirements for Acid Rain permit applications and permits: submission, content, and effect of permit applications; content and requirements of compliance plans and compliance options; content of permits and permit shield; procedures for determining completeness of permit applications; issuance of draft permits; administrative record; public notice and comment and public hearings on draft permits; response to comments on draft permits; issuance and effectiveness of permits; permit revisions; and administrative appeal procedures. The provisions of part 71 of this chapter concerning Indian tribes, delegation of a part 71 program, affected State review of draft permits, and public petitions to reopen a permit for cause shall apply to Acid Rain permit applications and permits.
+
+(2) The procedures in this subpart do not apply to the issuance of Acid Rain permits by State permitting authorities with operating permit programs approved under part 70 of this chapter, except as expressly provided in subpart G of this part.
+
+(b) *Permit Decision Deadlines.* Except as provided in § 72.74(c)(1)(i), the Administrator will issue or deny an Acid Rain permit under § 72.69(a) within 6 months of receipt of a complete Acid Rain permit application submitted for a unit, in accordance with § 72.21, at the U.S. EPA Regional Office for the Region in which the source is located.
+
+(c) *Use of Direct Final Procedures.* The Administrator may, in his or her discretion, issue, as single document, a draft Acid Rain permit in accordance with § 72.62 and an Acid Rain permit in final form and may provide public notice of the opportunity for public comment on the draft Acid Rain permit in accordance with § 72.65. The Administrator may provide that, if no significant, adverse comment on the draft Acid Rain permit is timely submitted, the Acid Rain permit will be deemed to be issued on a specified date without further notice and, if such significant, adverse comment is timely submitted, an Acid Rain permit or denial of an Acid Rain permit will be issued in accordance with § 72.69. Any notice provided under this paragraph (c) will include a description of the procedure in the prior sentence.
+
+[62 FR 55481, Oct. 24, 1997]

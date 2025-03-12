@@ -1,0 +1,7 @@
+##### § 72.11 Completeness and accuracy of information. #####
+
+(a) Information provided to the Commission by a licensee, certificate holder, or an applicant for a license or CoC; or information required by statute or by the Commission's regulations, orders, license or CoC conditions, to be maintained by the licensee or certificate holder, must be complete and accurate in all material respects.
+
+(b) Each licensee, certificate holder, or applicant for a license or CoC must notify the Commission of information identified by the licensee, certificate holder, or applicant for a license or CoC as having, for the regulated activity, a significant implication for public health and safety or common defense and security. A licensee, certificate holder, or an applicant for a license or CoC violates this paragraph only if the licensee, certificate holder, or applicant for a license or CoC fails to notify the Commission of information that the licensee, certificate holder, or applicant for a license or CoC has identified as having a significant implication for public health and safety or common defense and security. Notification must be provided to the Administrator of the appropriate Regional Office within two working days of identifying the information. This requirement is not applicable to information which is already required to be provided to the Commission by other reporting or updating requirements.
+
+[64 FR 56122, Oct. 15, 1999]

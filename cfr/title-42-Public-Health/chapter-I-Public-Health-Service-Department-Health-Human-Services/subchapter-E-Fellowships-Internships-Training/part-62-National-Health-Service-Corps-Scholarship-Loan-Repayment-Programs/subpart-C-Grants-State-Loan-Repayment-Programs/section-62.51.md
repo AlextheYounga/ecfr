@@ -1,0 +1,3 @@
+##### § 62.51 What is the scope and purpose of the State Loan Repayment Program? #####
+
+The regulations of this subpart apply to the award of grants authorized by section 338H of the Public Health Service Act (42 U.S.C. 254q-1) to support the establishment of State programs similar to the National Health Service Corps Loan Repayment Program authorized by section 338B of the Public Health Service Act (42 U.S.C. 2541-1). The purpose of this program is to improve the delivery of health services in medically underserved areas.

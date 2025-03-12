@@ -1,0 +1,3 @@
+##### § 415.50 Scope. #####
+
+This subpart sets forth rules for payment by fiscal intermediaries to providers for services furnished by physicians. Payment for covered services is made either under the prospective payment system (PPS) to PPS-participating providers in accordance with part 412 of this chapter or under the reasonable cost method to non-PPS participating providers in accordance with part 413 of this chapter.

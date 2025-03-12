@@ -1,0 +1,3 @@
+##### § 61.19 Copyright and reproduction. #####
+
+Where the work accomplished under a fellowship award results in a book or other copyrightable material, the author is free to copyright the work, but the Public Health Service reserves a royalty-free, nonexclusive, and irrevocable license to reproduce, publish, or otherwise use, and to authorize others to use, all copyrightable or copyrighted material resulting from the fellowship award.

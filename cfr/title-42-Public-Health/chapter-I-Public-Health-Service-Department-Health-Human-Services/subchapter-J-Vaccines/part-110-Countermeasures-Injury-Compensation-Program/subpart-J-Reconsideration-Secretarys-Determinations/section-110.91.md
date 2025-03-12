@@ -1,0 +1,3 @@
+##### § 110.91 Secretary's review authority. #####
+
+Under section 319F-4(b)(4) of the Public Health Service Act (42 U.S.C. 247d-6e(b)(4)) (referencing section 262 of the PHS Act (42 U.S.C. 239a)), the Secretary may, at any time, on her own motion or on application, review any determination made under this part (including, but not limited to, determinations concerning eligibility, entitlement to benefits, and the calculation of amount of benefits under the Program). Upon review, the Secretary may affirm, vacate, or modify the determination in any manner the Secretary deems appropriate.

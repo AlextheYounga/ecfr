@@ -1,0 +1,3 @@
+##### § 761.357 Reporting the results of the procedure used to simulate leachate generation. #####
+
+Report the results of the procedure used to simulate leachate generation as micrograms PCBs per liter of extract from a 100 gram sample of dry bulk product waste. Divide 100 grams by the grams in the sample and multiply this quotient by the number of micrograms PCBs per liter of extract to obtain the equivalent measurement from a 100 gram sample.

@@ -1,0 +1,3 @@
+##### § 405.812 Effective date for DMEPOS supplier's billing privileges. #####
+
+If a CMS contractor, contractor hearing officer, or ALJ determines that a DMEPOS supplier's denied enrollment application meets the standards in § 424.57 of this chapter and any other requirements that may apply, the determination establishes the effective date of the billing privileges as not earlier than the date the carrier made the determination to deny the DMEPOS supplier's enrollment application. Claims are rejected for services furnished before that effective date.

@@ -1,0 +1,5 @@
+##### § 84.255 Requirements for end-of-service-life indicator. #####
+
+(a) Each canister or cartridge submitted for testing and approval in accordance with §§ 84.252, 84.253, and 84.254 shall be equipped with a canister or cartridge end-of-service-life indicator which shows a satisfactory indicator change or other obvious warning before 1 ppm vinyl chloride penetration occurs. The indicator shall show such change or afford such warning at 80 ±10 percent of the total service life to 1 ppm leakage, as determined by continuing each test described in §§ 84.252(b), 84.253(b), and 84.254(b) until a 1 ppm leakage of vinyl chloride occurs.
+
+(b) The applicant shall provide sufficient pretest data to verify the performance of the end-of-service-life indicator required in paragraph (a) of this section.

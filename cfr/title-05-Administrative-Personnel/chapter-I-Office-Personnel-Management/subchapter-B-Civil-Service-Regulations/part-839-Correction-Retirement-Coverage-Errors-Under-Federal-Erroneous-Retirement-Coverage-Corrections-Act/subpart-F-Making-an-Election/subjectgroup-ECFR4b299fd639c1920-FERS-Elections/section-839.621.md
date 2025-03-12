@@ -1,0 +1,3 @@
+##### § 839.621 Can I cancel my FERS election if I was in the wrong retirement plan at the time I elected FERS coverage and I have an election opportunity under the FERCCA? #####
+
+If you were erroneously in CSRS, CSRS Offset, or Social Security-Only at the time you elected FERS and you have an election opportunity under the FERCCA, you can choose whether you want the FERS election to remain in effect. However, you may not choose whether you want your FERS election to remain in effect if you chose FERS after your employer notified you that you were put in FERS by mistake (see § 839.221).

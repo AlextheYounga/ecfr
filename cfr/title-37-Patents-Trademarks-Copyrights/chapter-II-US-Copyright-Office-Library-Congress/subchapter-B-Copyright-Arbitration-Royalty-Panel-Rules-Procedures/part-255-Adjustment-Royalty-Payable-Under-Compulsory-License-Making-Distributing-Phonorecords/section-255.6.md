@@ -1,0 +1,5 @@
+##### § 255.6 Royalty rate for incidental digital phonorecord deliveries. #####
+
+The royalty rate for digital phonorecord deliveries where the reproduction or distribution of a phonorecord is incidental to the transmission which constitutes a digital phonorecord delivery, as specified in 17 U.S.C. 115(c)(3)(C) and (D), is deferred for consideration until the next digital phonorecord delivery rate adjustment proceeding pursuant to the schedule set forth in § 255.7; provided, however, that any owner or user of a copyrighted work with a significant interest in such royalty rate, as provided in 17 U.S.C. 803(a)(1), may petition the Librarian of Congress to establish a rate prior to the commencement of the next digital phonorecord delivery rate adjustment proceeding. In the event such a petition is filed, the Librarian of Congress shall proceed in accordance with 17 U.S.C. 115(c)(3)(D), and all applicable regulations, as though the petition had been filed in accordance with 17 U.S.C. 803(a)(1).
+
+[64 FR 6223, Feb. 9, 1999]

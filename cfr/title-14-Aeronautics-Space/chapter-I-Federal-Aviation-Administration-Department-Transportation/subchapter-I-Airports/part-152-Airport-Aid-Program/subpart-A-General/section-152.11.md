@@ -1,0 +1,9 @@
+##### § 152.11 Incorporation by reference. #####
+
+(a) *Mandatory standards.* The advisory circulars listed in appendix B to this part are incorporated into this part by reference. The Director, Office of Airport Standards, determines the scope and content of the technical standards to be included in each advisory circular in appendix B, and may add to, or delete from, appendix B any advisory circular or part thereof. Except as provided in paragraph (c) of this section, these guidelines are mandatory standards.
+
+(b) *Modification of standards.* When necessary to meet local conditions, any technical standard set forth in appendix B may be modified for individual projects, if it is determined that the modifications will provide an acceptable level of safety, economy, durability, and workmanship. The determination and modification may be made by the Director, Office of Airport Standards, or the appropriate Regional Director, in instances where the authority has not been specifically reserved by the Director, Office of Airport Standards.
+
+(c) *State standards.* Standards established by a state for airport development at general aviation airports in the state may be the standards applicable to those airports when they have been approved by the Director, Office of Airport Standards, or the appropriate Regional Director, in instances where approval authority has not been specifically reserved by the Director, Office of Airport Standards.
+
+(d) *Availability of advisory circulars.* The advisory circulars listed in appendix B may be inspected and copied at any FAA Regional Office or Airports District Office. Copies of the circulars that are available free of charge may be obtained from any of those offices or from the FAA Distribution Unit, M-443.1, Washington, DC 20590. Copies of the circulars that are for sale may be bought from the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402.

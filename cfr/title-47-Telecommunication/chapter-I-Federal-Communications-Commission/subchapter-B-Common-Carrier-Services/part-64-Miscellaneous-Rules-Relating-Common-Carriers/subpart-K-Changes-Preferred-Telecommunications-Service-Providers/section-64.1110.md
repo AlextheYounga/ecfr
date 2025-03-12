@@ -1,0 +1,7 @@
+##### § 64.1110 State notification of election to administer FCC rules. #####
+
+(a) *Initial Notification.* State notification of an intention to administer the Federal Communications Commission's unauthorized carrier change rules and remedies, as enumerated in §§ 64.1100 through 64.1190, shall be filed with the Commission Secretary in CC Docket No. 94-129 with a copy of such notification provided to the Consumer & Governmental Affairs Bureau Chief. Such notification shall contain, at a minimum, information on where consumers should file complaints, the type of documentation, if any, that must accompany a complaint, and the procedures the state will use to adjudicate complaints.
+
+(b) *Withdrawal of Notification.* State notification of an intention to discontinue administering the Federal Communications Commission's unauthorized carrier change rules and remedies, as enumerated in §§ 64.1100 through 64.1190, shall be filed with the Commission Secretary in CC Docket No. 94-129 with a copy of such amended notification provided to the Consumer & Governmental Affairs Bureau Chief. Such discontinuance shall become effective 60 days after the Commission's receipt of the state's letter.
+
+[65 FR 47691, Aug. 3, 2000, as amended at 73 FR 13149, Mar. 12, 2008]

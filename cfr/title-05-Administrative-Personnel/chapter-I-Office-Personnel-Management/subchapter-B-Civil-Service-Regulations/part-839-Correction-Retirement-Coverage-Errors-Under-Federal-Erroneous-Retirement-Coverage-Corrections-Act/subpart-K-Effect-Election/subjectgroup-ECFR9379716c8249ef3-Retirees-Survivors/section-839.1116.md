@@ -1,0 +1,3 @@
+##### § 839.1116 If, because of the change in my retirement coverage, I will owe larger deposits for military and civilian service credit, will I have to pay the additional deposit due or will OPM actuarially reduce my annuity? #####
+
+You can choose to pay the additional deposit amount. If you choose not to pay the deposit, OPM will actuarially reduce your annuity, as explained in 831.303(d) of this chapter.

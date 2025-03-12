@@ -1,0 +1,3 @@
+##### § 194.52 Consideration of exposure pathways. #####
+
+In compliance assessments that analyze compliance with § 191.15 of this chapter, all potential exposure pathways from the disposal system to individuals shall be considered. Compliance assessments with part 191, subpart C and § 191.15 of this chapter shall assume that individuals consume 2 liters per day of drinking water from any underground source of drinking water in the accessible environment.

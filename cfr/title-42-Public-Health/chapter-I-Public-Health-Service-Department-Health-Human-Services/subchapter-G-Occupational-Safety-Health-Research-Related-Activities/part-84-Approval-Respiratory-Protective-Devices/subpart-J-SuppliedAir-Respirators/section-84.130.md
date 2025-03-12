@@ -1,0 +1,15 @@
+##### § 84.130 Supplied-air respirators; description. #####
+
+Supplied-air respirators, including all completely assembled respirators designed for use as respiratory protection during entry into and escape from atmospheres not immediately dangerous to life or health are described as follows:
+
+(a) *Type “A” supplied-air respirators.* A hose mask respirator, for entry into and escape from atmospheres not immediately dangerous to life or health, which consists of a motor-driven or hand-operated blower that permits the free entrance of air when the blower is not operating, a strong large-diameter hose having a low resistance to airflow, a harness to which the hose and the life-line are attached and a tight-fitting facepiece.
+
+(b) *Type “AE” supplied-air respirators.* A Type “A” supplied-air respirator equipped with additional devices designed to protect the wearer's head and neck against impact and abrasion from rebounding abrasive material, and with shielding material such as plastic, glass, woven wire, sheet metal, or other suitable material to protect the window(s) of facepieces, hoods, and helmets which do not unduly interfere with the wearer's vision and permit easy access to the external surface of such window(s) for cleaning.
+
+(c) *Type “B” supplied-air respirators.* A hose mask respirator, for entry into and escape from atmospheres not immediately dangerous to life or health, which consists of a strong large-diameter hose with low resistance to airflow through which the user draws inspired air by means of his lungs alone, a harness to which the hose is attached, and a tight-fitting facepiece.
+
+(d) *Type “BE” supplied-air respirators.* A type “B” supplied-air respirator equipped with additional devices designed to protect the wearer's head and neck against impact and abrasion from rebounding abrasive material, and with shielding material such as plastic, glass, woven wire, sheet metal, or other suitable material to protect the window(s) of facepieces, hoods, and helmets which do not unduly interfere with the wearer's vision and permit easy access to the external surface of such window(s) for cleaning.
+
+(e) *Type “C” supplied-air respirators.* An airline respirator, for entry into and escape from atmospheres not immediately dangerous to life or health, which consists of a source of respirable breathing air, a hose, a detachable coupling, a control valve, orifice, a demand valve or pressure demand valve, an arrangement for attaching the hose to the wearer, and a facepiece, hood, or helmet.
+
+(f) *Type “CE” supplied-air respirators.* A type “C” supplied-air respirator equipped with additional devices designed to protect the wearer's head and neck against impact and abrasion from rebounding abrasive material, and with shielding material such as plastic, glass, woven wire, sheet metal, or other suitable material to protect the window(s) of facepieces, hoods, and helmets which do not unduly interfere with the wearer's vision and permit easy access to the external surface of such window(s) for cleaning.

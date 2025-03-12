@@ -1,0 +1,3 @@
+##### § 2422.4 What service requirements must you meet when filing a petition? #####
+
+You must serve every petition, motion, brief, request, challenge, written objection, or application for review on all parties affected by issues raised in the filing. The service must include all supporting documentation, with the exceptions of a showing of interest, evidence supporting challenges to the validity of a showing of interest, and evidence supporting objections to an election. You must submit a statement of service to the Regional Director.

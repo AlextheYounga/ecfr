@@ -1,0 +1,11 @@
+##### § 63.8685 What are my general requirements for complying with this subpart? #####
+
+(a) Before September 9, 2020, you must be in compliance with the emission limitations (including operating limits) in this subpart at all times, except during periods of startup, shutdown, and malfunction. On and after September 9, 2020, you must be in compliance with the emission limitations (including operating limits) in this subpart at all times, except during periods of nonoperation of the affected source (or specific portion thereof) resulting in cessation of the emissions to which this subpart applies.
+
+(b) Before September 9, 2020, you must always operate and maintain your affected source, including air pollution control and monitoring equipment, according to the provisions in § 63.6(e)(1)(i). On and after September 9, 2020, at all times, you must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require you to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether a source is operating in compliance with operation and maintenance requirements will be based on information available to the Administrator that may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the affected source.
+
+(c) Before September 9, 2020, you must develop a written startup, shutdown, and malfunction plan (SSMP) according to the provisions in § 63.6(e)(3). On and after September 9, 2020, a startup, shutdown, and malfunction plan is not required.
+
+(d) You must develop and implement a written site-specific monitoring plan according to the provisions in § 63.8688(g) and (h).
+
+[68 FR 24577, May 7, 2003, as amended at 71 FR 20469, Apr. 20, 2006; 85 FR 14549, Mar. 12, 2020]

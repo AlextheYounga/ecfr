@@ -1,0 +1,3 @@
+##### 1304.201-70 Accountable personal property. #####
+
+Provide one copy of all contracts and purchase orders for accountable personal property to the appropriate Departmental property management office(s) for inclusion in the Department's personal property system in accordance with the DOC Personal Property Management Manual. Accountable personal property purchased with a Governmentwide commercial purchase card is also to be reported to the property management office.

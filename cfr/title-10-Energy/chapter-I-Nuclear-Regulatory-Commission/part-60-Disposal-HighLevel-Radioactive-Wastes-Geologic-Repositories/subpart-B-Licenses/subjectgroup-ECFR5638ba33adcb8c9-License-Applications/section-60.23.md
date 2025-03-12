@@ -1,0 +1,3 @@
+##### § 60.23 Elimination of repetition. #####
+
+In its application, environmental report, or Site Characterization Report, the DOE may incorporate by reference information contained in previous applications, statements, or reports filed with the Commission: *Provided,* That such references are clear and specific and that copies of the information so incorporated are available in the public document room located near the site of the proposed geologic repository.

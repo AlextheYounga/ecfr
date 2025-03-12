@@ -1,0 +1,13 @@
+##### 52.232-40 Providing Accelerated Payments to Small Business Subcontractors. #####
+
+As prescribed in 32.009-2, insert the following clause:
+
+Providing Accelerated Payments to Small Business Subcontractors (DEC 2013)
+
+(a) Upon receipt of accelerated payments from the Government, the Contractor shall make accelerated payments to its small business subcontractors under this contract, to the maximum extent practicable and prior to when such payment is otherwise required under the applicable contract or subcontract, after receipt of a proper invoice and all other required documentation from the small business subcontractor.
+
+(b) The acceleration of payments under this clause does not provide any new rights under the Prompt Payment Act.
+
+(c) Include the substance of this clause, including this paragraph (c), in all subcontracts with small business concerns, including subcontracts with small business concerns for the acquisition of commercial items.
+
+(End of clause)[78 FR 70479, Nov. 25, 2013]

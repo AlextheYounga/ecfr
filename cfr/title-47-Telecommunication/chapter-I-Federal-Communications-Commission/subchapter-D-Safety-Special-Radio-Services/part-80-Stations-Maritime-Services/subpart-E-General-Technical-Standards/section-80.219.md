@@ -1,0 +1,5 @@
+##### § 80.219 Special requirements for narrow-band direct-printing (NB-DP) equipment. #####
+
+NB-DP and data transmission equipment installed in ship and coast stations before October 1, 1990, that operates on the frequencies in the 4,000-27,500 kHz bands must be capable of operation in accordance with the technical requirements of either ITU-R M.476-5 or ITU-R M.625-3 (both incorporated by reference, *see* § 80.7), and may be used indefinitely. Equipment installed on or after October 1, 1990, must be capable of operation in accordance with the technical requirements of ITU-R M.625-3, 1995 (incorporated by reference, see § 80.7). NB-DP and data transmission equipment are additionally permitted to utilize any modulation, so long as emissions are within the limits set forth in § 80.211(f) and the equipment is also capable of operation in accordance with ITU-R M.625-3 (incorporated by reference, see § 80.7).
+
+[76 FR 67611, Nov. 2, 2011]

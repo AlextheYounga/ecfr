@@ -1,0 +1,23 @@
+##### § 34.4 Medical notifications. #####
+
+(a) Medical examiners shall issue medical notifications of their findings of the presence or absence of Class A or Class B medical conditions. The presence of such condition must have been clearly established.
+
+(b) *Class A medical notifications.* (1) The medical examiner shall report his/her findings to the consular officer or DHS by Class A medical notification which lists the specific condition for which the alien may be inadmissible, if an alien is found to have:
+
+(i) A communicable disease of public health significance;
+
+(ii) A lack of documentation, or no waiver, for an alien who seeks admission as an immigrant, or who seeks adjustment of status to one lawfully admitted for permanent residence, of having received vaccination against vaccine-preventable diseases which shall include at least the following diseases: Mumps, measles, rubella, polio, tetanus and diphtheria toxoids, pertussis, *Haemophilus influenza* type B and hepatitis B, and any other vaccinations recommended by the Advisory Committee for Immunization Practices (ACIP) for which HHS/CDC determines, by applying criteria published in the Federal Register, there is a public health need at the time of immigration or adjustment of status. *Provided however,* that a Class A medical notification shall in no case be issued for an adopted child who is 10 years of age or younger if, prior to the admission of the child, an adoptive parent or prospective adoptive parent of the child, who has sponsored the child for admission as an immediate relative, has executed an affidavit stating that the parent is aware of the vaccination requirement and will ensure that, within 30 days of the child's admission, or at the earliest time that is medically appropriate, the child will receive the vaccinations identified in the requirement;
+
+(iii)(A) A current physical or mental disorder, and behavior associated with the disorder that may pose, or has posed, a threat to the property, safety, or welfare of the alien or others; or
+
+(B) A history of a physical or mental disorder and behavior associated with the disorder, which behavior has posed a threat to the property, safety, or welfare of the alien or others and which behavior is likely to recur or lead to other harmful behavior;
+
+(iv) Drug abuse or drug addiction. *Provided,* *however,* that a Class A medical notification of a physical or mental disorder, and behavior associated with that disorder that may pose, or has posed, a threat to the property, safety, or welfare of the alien or others, shall in no case be issued with respect to an alien having only mental shortcomings due to ignorance, or suffering only from a condition attributable to remediable physical causes or of a temporary nature, caused by a toxin, medically prescribed drug, or disease.
+
+(2) The medical notification shall state the nature and extent of the abnormality; the degree to which the alien is incapable of normal physical activity; and the extent to which the condition is remediable. The medical examiner shall indicate the likelihood, that because of the condition, the applicant will require extensive medical care or institutionalization.
+
+(c) *Class B medical notifications.* (1) If an alien is found to have a physical or mental abnormality, disease, or disability serious in degree or permanent in nature amounting to a substantial departure from normal well-being, the medical examiner shall report his/her findings to the consular or DHS officer by Class B medical notification which lists the specific conditions found by the medical examiner. Provided, however, that a Class B medical notification shall in no case be issued with respect to an alien having only mental shortcomings due to ignorance, or suffering only from a condition attributable to remediable physical causes or of a temporary nature, caused by a toxin, medically prescribed drug, or disease.
+
+(2) The medical notification shall state the nature and extent of the abnormality, the degree to which the alien is incapable of normal physical activity, and the extent to which the condition is remediable. The medical examiner shall indicate the likelihood, that because of the condition, the applicant will require extensive medical care or institutionalization.
+
+(d) *Other medical notifications.* If as a result of the medical examination, the medical examiner does not find a Class A or Class B condition in an alien, the medical examiner shall so indicate on the medical notification form and shall report his findings to the consular or DHS officer.

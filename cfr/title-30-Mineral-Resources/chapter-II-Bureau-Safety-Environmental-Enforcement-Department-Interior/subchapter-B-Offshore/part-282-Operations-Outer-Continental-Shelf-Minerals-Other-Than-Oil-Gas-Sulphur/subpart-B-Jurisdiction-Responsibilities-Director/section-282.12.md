@@ -1,0 +1,15 @@
+##### § 282.12 Director's responsibilities. #####
+
+(a) The Director is responsible for the regulation of activities to assure that all operations conducted under a lease or right of use and easement are conducted in a manner that protects the environment and promotes orderly development of OCS mineral resources. Those activities are to be designed to prevent serious harm or damage to, or waste of, any natural resource (including OCS mineral deposits and oil, gas, and sulphur resources in areas leased or not leased), any life (including fish and other aquatic life), property, or the marine, coastal, or human environment.
+
+(b)-(d) [Reserved]
+
+(e) The Director shall assure that a scheduled onsite compliance inspection of each facility which is subject to regulations in this part is conducted at least once a year. The inspection shall be to determine that the lessee is in compliance with the requirements of the law; provisions of the lease; the approved Delineation, Testing, or Mining Plan; and the regulations in this part. Additional unscheduled onsite inspections shall be conducted without advance notice to the lessee to assure compliance with the provisions of applicable law; the lease; the approved Delineation, Testing, or Mining Plan; and the regulations in this part.
+
+(f)(1) The Director shall, after completion of the technical and environmental evaluations, approve, disapprove, or require modification of the lessee's requests, applications, plans, and notices submitted pursuant to the provisions of this part; issue orders to govern lease operations; and require compliance with applicable provisions of the law, the regulations, the lease, and the approved Delineation, Testing, or Mining Plans. The Director may give oral orders or approvals whenever prior approval is required before the commencement of an operation or activity. Oral orders or approvals given in response to a written request shall be confirmed in writing within 3 working days after issuance of the order or granting of the oral approval.
+
+(2) The Director shall, after completion of the technical and environmental evaluations, approve, disapprove, or require modification, as appropriate, of the design plan, fabrication plan, and installation plan for platforms, artificial islands, and other installations and devices permanently or temporarily attached to the seabed. The approval, disapproval, or requirement to modify such plans may take the form of a condition of granting a right of use and easement under paragraph (a) of this section or as authorized under any lease issued or maintained under the Act.
+
+(g) [Reserved]
+
+(h) The Director may prescribe or approve, in writing or orally, departures from the operating requirements of the regulations of this part when such departures are necessary to facilitate the proper development of a lease; to conserve natural resources; or to protect life (including fish and other aquatic life), property, or the marine, coastal, or human environment.

@@ -1,0 +1,3 @@
+##### § 63.7781 Am I subject to this subpart? #####
+
+You are subject to this subpart if you own or operate an integrated iron and steel manufacturing facility that is (or is part of) a major source of hazardous air pollutants (HAP) emissions. Your integrated iron and steel manufacturing facility is a major source of HAP if it emits or has the potential to emit any single HAP at a rate of 10 tons or more per year or any combination of HAP at a rate of 25 tons or more per year.

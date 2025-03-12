@@ -1,0 +1,3 @@
+##### 2944.302 Requirements. #####
+
+The authority of the Assistant Secretary for Administration and Management under FAR 44.302(a), to raise or lower the $25 million review level for a contractor's purchasing system, may not be delegated. When a contractor's purchasing system review is required by the contracting officer, the effort must be coordinated with the OASAM Business Operations Center's Division of Acquisition Management Services and the Division of Cost Determination.

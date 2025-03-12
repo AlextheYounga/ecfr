@@ -1,0 +1,5 @@
+##### § 255.7 Future proceedings. #####
+
+The procedures specified in 17 U.S.C. 115(c)(3)(C) shall be repeated in 1999, 2001, 2003, and 2006 so as to determine the applicable rates and terms for the making of digital phonorecord deliveries during the periods beginning January 1, 2001, 2003, 2005, and 2008. The procedures specified in 17 U.S.C. 115(c)(3)(D) shall be repeated, in the absence of license agreements negotiated under 17 U.S.C. 115(c)(3)(B) and (C), upon the filing of a petition in accordance with 17 U.S.C. 803(a)(1), in 2000, 2002, 2004, and 2007 so as to determine new rates and terms for the making of digital phonorecord deliveries during the periods beginning January 1, 2001, 2003, 2005, and 2008. Thereafter, the procedures specified in 17 U.S.C. 115(c)(3)(C) and (D) shall be repeated in each fifth calendar year. Notwithstanding the foregoing, different years for the repeating of such proceedings may be determined in accordance with 17 U.S.C. 115(c)(3)(C) and (D).
+
+[64 FR 6223, Feb. 9, 1999]

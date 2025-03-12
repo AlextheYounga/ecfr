@@ -1,0 +1,3 @@
+##### § 393.88 Television receivers. #####
+
+Any motor vehicle equipped with a television viewer, screen or other means of visually receiving a television broadcast shall have the viewer or screen located in the motor vehicle at a point to the rear of the back of the driver's seat if such viewer or screen is in the same compartment as the driver and the viewer or screen shall be so located as not to be visible to the driver, while he/she is driving the motor vehicle. The operating controls for the television receiver shall be so located that the driver cannot operate them without leaving the driver's seat.

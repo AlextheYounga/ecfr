@@ -1,0 +1,3 @@
+##### § 64a.102 To whom do these regulations apply? #####
+
+This part applies to any institution which receives a training grant under section 303 of the Public Health Service Act and to any individual who receives a stipend or other trainee allowances under such a grant for any period beginning on or after July 1, 1981, for clincial training in the field of psychology, psychiatry, nursing, or social work, except for training that is of a limited duration or experimental nature.

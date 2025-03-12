@@ -1,0 +1,5 @@
+##### § 745.7 Shares accepted in a foreign currency. #####
+
+An insured credit union may accept shares denominated in a foreign currency. Shares denominated in a foreign currency will be insured in accordance with this part to the same extent as shares denominated in U.S. dollars. Insurance for shares denominated in foreign currency will be determined and paid in the amount of United States dollars that is equivalent in value to the amount of the shares denominated in the foreign currency as of close of business on the date of default of the insured credit union. The exchange rates to be used for such conversions are the 12 p.m. rates (the “noon buying rates for cable transfers”) quoted for major currencies by the Federal Reserve Bank of New York on the date of default of the insured credit union, unless the share agreement provides that some other widely recognized exchange rates are to be used for all purposes under that agreement.
+
+[71 FR 14635, Mar. 23, 2006]

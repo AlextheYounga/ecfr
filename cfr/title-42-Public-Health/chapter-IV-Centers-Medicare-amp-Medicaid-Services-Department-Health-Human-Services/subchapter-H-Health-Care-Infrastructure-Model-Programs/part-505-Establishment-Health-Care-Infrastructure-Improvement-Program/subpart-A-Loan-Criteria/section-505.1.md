@@ -1,0 +1,3 @@
+##### § 505.1 Basis and scope. #####
+
+This part implements section 1016 of the Medicare Prescription Drug, Improvement and Modernization Act of 2003 (MMA) which amends section 1897 of the Act. Section 1897 of the Act as amended by section 6045 of the Tsunami Relief Act of 2005 authorizes the Secretary to establish a loan program by which qualifying hospitals may apply for a loan for the capital costs of the health care infrastructure improvement projects. Section 1897 of the Act appropriates $142,000,000 for the loan program including program administration. The funds are available beginning July 1, 2004 through September 30, 2008. This part sets forth the criteria that CMS uses to select among qualifying hospitals.

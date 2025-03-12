@@ -1,0 +1,9 @@
+##### § 98.165 Procedures for estimating missing data. #####
+
+A complete record of all measured parameters used in the GHG emissions calculations is required. Therefore, whenever a quality-assured value of a required parameter is unavailable (e.g., if a meter malfunctions during unit operation), a substitute data value for the missing parameter must be used in the calculations as specified in paragraphs (a), (b), and (c) of this section:
+
+(a) For each missing value of the monthly fuel and feedstock consumption, the substitute data value must be the best available estimate of the fuel and feedstock consumption, based on all available process data (e.g., hydrogen production, electrical load, and operating hours). You must document and keep records of the procedures used for all such estimates.
+
+(b) For each missing value of the carbon content or molecular weight of the fuel and feedstock, the substitute data value must be the arithmetic average of the quality-assured values of carbon contents or molecular weight of the fuel and feedstock immediately preceding and immediately following the missing data incident. If no quality-assured data on carbon contents or molecular weight of the fuel and feedstock are available prior to the missing data incident, the substitute data value must be the first quality-assured value for carbon contents or molecular weight of the fuel and feedstock obtained after the missing data period. You must document and keep records of the procedures used for all such estimates.
+
+(c) For missing CEMS data, you must use the missing data procedures in § 98.35.

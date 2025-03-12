@@ -1,0 +1,3 @@
+##### § 797.15 Administrative offset against amounts payable from Civil Service Retirement and Disability Fund. #####
+
+NCUA may request that monies payable to a debtor from the Civil Service Retirement and Disability Fund be administratively offset to collect debts owed to NCUA by the debtor. NCUA shall provide OPM with a written certification that states the debtor owes the debt, the amount of the debt, and that NCUA has complied with the agency's offset regulations, as well as, the requirements set forth in 31 CFR parts 900 through 904 and OPM's regulations.

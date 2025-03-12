@@ -1,0 +1,3 @@
+##### § 403.1100 Purpose and scope. #####
+
+The regulations in this subpart implement section 1115A of the Act. The intent of that section is to enable CMS to test innovative payment and service delivery models to reduce program expenditures while preserving and/or enhancing the quality of care furnished to individuals under titles XVIII, XIX, and XXI of the Act. The Secretary is also required to conduct an evaluation of each model tested.

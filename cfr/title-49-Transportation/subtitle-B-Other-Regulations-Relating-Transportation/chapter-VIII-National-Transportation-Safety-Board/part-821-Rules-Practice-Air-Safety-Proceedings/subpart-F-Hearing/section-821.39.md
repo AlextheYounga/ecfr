@@ -1,0 +1,3 @@
+##### § 821.39 Argument and submissions. #####
+
+At the hearing, the law judge shall give the parties adequate opportunity for the presentation of arguments in support of, or in opposition to, motions, objections and proposed rulings. Prior to the issuance of the initial decision, the parties shall be afforded a reasonable opportunity to submit for consideration proposed findings and conclusions, and supporting reasons therefor.

@@ -1,0 +1,3 @@
+##### § 483.126 Appropriate placement. #####
+
+Placement of an individual with MI or IID in a NF may be considered appropriate only when the individual's needs are such that he or she meets the minimum standards for admission and the individual's needs for treatment do not exceed the level of services which can be delivered in the NF to which the individual is admitted either through NF services alone or, where necessary, through NF services supplemented by specialized services provided by or arranged for by the State.

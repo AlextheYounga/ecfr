@@ -1,0 +1,5 @@
+##### § 1277.23 Dividends. #####
+
+(a) *In general.* A Bank may pay dividends on Class A or Class B stock, including any subclasses of such stock, only out of previously retained earnings or current net earnings, and shall declare and pay dividends only as provided by its capital plan. The capital plan may establish different dividend rates or preferences for each class or subclass of stock, which may include a dividend that tracks the economic performance of certain Bank assets, such as Acquired Member Assets. A member, including a member that has provided the Bank with a notice of intent to withdraw from membership, or a former member shall be entitled to receive any dividends that a Bank declares on its capital stock while such institution owns the stock.
+
+(b) *Limitation on payment of dividends.* In no event shall a Bank declare or pay any dividend on its capital stock if after doing so the Bank would fail to meet any of its regulatory capital requirements, nor shall a Bank that is not in compliance with any of its regulatory capital requirements declare or pay any dividend on its capital stock.

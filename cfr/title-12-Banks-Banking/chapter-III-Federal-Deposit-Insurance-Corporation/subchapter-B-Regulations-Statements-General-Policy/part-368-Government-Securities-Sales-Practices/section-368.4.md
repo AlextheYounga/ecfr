@@ -1,0 +1,3 @@
+##### § 368.4 Recommendations to customers. #####
+
+In recommending to a customer the purchase, sale or exchange of a government security, a bank that is a government securities broker or dealer shall have reasonable grounds for believing that the recommendation is suitable for the customer upon the basis of the facts, if any, disclosed by the customer as to the customer's other security holdings and as to the customer's financial situation and needs.

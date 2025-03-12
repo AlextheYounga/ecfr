@@ -1,0 +1,3 @@
+##### § 11.45 Amendment of pleadings. #####
+
+The OED Director may, without Committee on Discipline authorization, but with the authorization of the hearing officer, amend the complaint to include additional charges based upon conduct committed before or after the complaint was filed. If amendment of the complaint is authorized, the hearing officer shall authorize amendment of the answer. Any party who would otherwise be prejudiced by the amendment will be given reasonable opportunity to meet the allegations in the complaint or answer as amended, and the hearing officer shall make findings on any issue presented by the complaint or answer as amended.

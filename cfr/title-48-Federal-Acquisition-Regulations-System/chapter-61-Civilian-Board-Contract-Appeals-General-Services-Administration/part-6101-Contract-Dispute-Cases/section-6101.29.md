@@ -1,0 +1,5 @@
+##### 6101.29 Clerical mistakes; harmless error [Rule 29]. #####
+
+(a) *Clerical mistakes.* Clerical mistakes in decisions, orders, or other parts of the record, and errors arising therein through oversight or inadvertence, may be corrected by the Board at any time on its own initiative or upon motion of a party on such terms, if any, as the Board may prescribe. During the pendency of an appeal to another tribunal, such mistakes may be corrected only with leave of the appellate tribunal.
+
+(b) *Harmless error.* No error in the admission or exclusion of evidence, and no error or defect in any ruling, order, or decision of the Board, and no other error in anything done or not done by the Board will be a ground for granting a new hearing or for vacating, reconsidering, modifying, or otherwise disturbing a decision or order of the Board unless refusal to act upon such error will prejudice a party or work a substantial injustice. At every stage of the proceedings the Board will disregard any error or defect that does not affect the substantial rights of the parties.

@@ -1,0 +1,5 @@
+##### § 5.313 Innovation zones. #####
+
+(a) An innovation zone is a specified geographic location with pre-authorized boundary conditions (such as frequency band, maximum power, etc.) created by the Commission on its own motion or in response to a request from the public. Innovation zones will be announced via public notice and posted on the Commission's program experimental registration Web site.
+
+(b) A program experimental licensee may conduct experiments in an innovation zone consistent with the specified boundary conditions without specific authorization from the Commission. All licensees operating under this authority must comply with the requirements and limitations set forth for program licensees in this part, including providing notification of its intended operations on the program experimental registration Web site prior to operation.

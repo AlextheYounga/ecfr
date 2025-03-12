@@ -1,0 +1,17 @@
+##### § 567.11 Reservation of authority. #####
+
+(a) *Transactions for purposes of evasion.* The Director or the Regional Director for the region in which a savings association is located may disregard any transaction entered into primarily for the purpose of reducing the minimum required amount of regulatory capital or otherwise evading the requirements of this part.
+
+(b) *Average versus period-end figures.* The Office reserves the right to require a savings association to compute its capital ratios on the basis of average, rather than period-end, assets when the Office determines appropriate to carry out the purposes of this part.
+
+(c)(1) *Reservation of authority.* Notwithstanding the definitions of core and supplementary capital in § 567.5 of this part, OTS may find that a particular type of purchased intangible asset or capital instrument constitutes or may constitute core or supplementary capital, and may permit one or more savings associations to include all or a portion of such intangible asset or funds obtained through such capital instrument as core or supplementary capital, permanently or on a temporary basis, for the purposes of compliance with this part or for any other purposes. Similarly, the Office may find that a particular asset or core or supplementary capital component has characteristics or terms that diminish its contribution to a savings association's ability to absorb losses, and the Office may require the discounting or deduction of such asset or component from the computation of core, supplementary, or total capital.
+
+(2) Notwithstanding § 567.6 of this part, OTS will look to the substance of a transaction and may find that the assigned risk weight for any asset, or credit equivalent amount or credit conversion factor for any off-balance sheet item does not appropriately reflect the risks imposed on the savings association. OTS may require the savings association to apply another risk-weight, credit equivalent amount, or credit conversion factor that OTS deems appropriate.
+
+(3) OTS may find that the capital treatment for an exposure to a transaction not subject to consolidation on the savings association's balance sheet does not appropriately reflect the risks imposed on the savings association. Accordingly, OTS may require the savings association to treat the transaction as if it were consolidated on the savings association's balance sheet. OTS will look to the substance of and risk associated with the transaction as well as other relevant factors in determining whether to require such treatment and in calculating risk based capital as OTS deems appropriate.
+
+(4) If this part does not specifically assign a risk weight, credit equivalent amount, or credit conversion factor, OTS may assign any risk weight, credit equivalent amount, or credit conversion factor that it deems appropriate. In making this determination, OTS will consider the risks associated with the asset or off-balance sheet item as well as other relevant factors.
+
+(d) In making a determination under this paragraph (c) of this section, the OTS will notify the savings association of the determination and solicit a response from the savings association. After review of the response by the savings association, the OTS shall issue a final supervisory decision regarding the determination made under paragraph (c) of this section.
+
+[54 FR 49649, Nov. 30, 1989, as amended at 57 FR 33441, July 29, 1992; 66 FR 59666, Nov. 29, 2001; 75 FR 4652, Jan. 28, 2010]

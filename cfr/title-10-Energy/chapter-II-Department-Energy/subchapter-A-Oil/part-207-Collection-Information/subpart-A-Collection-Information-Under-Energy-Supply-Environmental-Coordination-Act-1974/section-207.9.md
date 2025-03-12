@@ -1,0 +1,3 @@
+##### § 207.9 Exceptions, exemptions, interpretations, rulings and rulemaking. #####
+
+Applications for exceptions, exemptions or requests for interpretations relating to this subpart shall be filed in accordance with the procedures provided in subparts D, E and F, respectively, of part 205 of this chapter. Rulings shall be issued in accordance with the procedures of subpart K of part 205 of this chapter. Rulemakings shall be undertaken in accordance with the procedures provided in subpart L of part 205 of this chapter.

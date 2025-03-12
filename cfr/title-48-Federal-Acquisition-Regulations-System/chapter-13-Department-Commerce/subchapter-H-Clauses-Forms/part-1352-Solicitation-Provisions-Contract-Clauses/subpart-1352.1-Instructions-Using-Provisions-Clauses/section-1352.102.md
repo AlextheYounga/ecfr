@@ -1,0 +1,3 @@
+##### 1352.102 Incorporating provisions and clauses. #####
+
+As stated in the FAR, provisions and clauses should be incorporated by reference in solicitations and contracts to the maximum practical extent, rather than being incorporated in full text. Incorporation by reference is the listing only by title, regulatory citation, and date of the provision or clause. The full text of the referenced solicitation provision or contract clause is contained in the Code of Federal Regulations (CFR). FAR provisions and clauses are located at 48 CFR chapter 1 and CAM provisions and clauses are located at 48 CFR chapter 13.

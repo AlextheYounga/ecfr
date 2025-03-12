@@ -1,0 +1,3 @@
+##### § 61.58 Alternative requirements for waste classification and characteristics. #####
+
+The Commission may, upon request or on its own initiative, authorize other provisions for the classification and characteristics of waste on a specific basis, if, after evaluation, of the specific characteristics of the waste, disposal site, and method of disposal, it finds reasonable assurance of compliance with the performance objectives in subpart C of this part.

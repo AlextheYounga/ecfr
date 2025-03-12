@@ -1,0 +1,5 @@
+##### § 268.402 Time for appeals to the Equal Employment Opportunity Commission. #####
+
+(a) Appeals described in § 268.401(a) and (c) must be filed within 30 days of receipt of the dismissal, final action or decision. Appeals described in § 268.401(b) must be filed within 40 days of receipt of the hearing file and decision. Where a complainant has notified the Board's EEO Programs Director of alleged noncompliance with a settlement agreement in accordance with § 268.504, the complainant may file an appeal 35 days after service of the allegations of noncompliance, but no later than 30 days after receipt of the Board's determination.
+
+(b) If the complainant is represented by an attorney of record, then the 30-day time period provided in paragraph (a) of this section within which to appeal shall be calculated from the receipt of the required document by the attorney. In all other instances, the time within which to appeal shall be calculated from the receipt of the required document by the complainant.

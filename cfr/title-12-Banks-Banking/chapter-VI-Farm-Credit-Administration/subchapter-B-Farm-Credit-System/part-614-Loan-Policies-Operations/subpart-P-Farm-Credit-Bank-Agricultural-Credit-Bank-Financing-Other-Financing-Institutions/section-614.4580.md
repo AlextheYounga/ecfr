@@ -1,0 +1,5 @@
+##### § 614.4580 Limitation on the extension of funding, discount and other similar financial assistance to an OFI. #####
+
+(a) No obligation shall be purchased from or discounted for and no loan shall be made or other similar financial assistance extended by a Farm Credit Bank or agricultural credit bank to an OFI if the amount of such obligation added to the aggregate liabilities of such OFI, whether direct or contingent (other than *bona fide* deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such OFI or the amount of such liabilities permitted under the laws of the jurisdiction creating such OFI, whichever is less.
+
+(b) It shall be unlawful for any national bank that is indebted to any Farm Credit Bank or agricultural credit bank, on paper discounted or purchased, to incur any additional indebtedness, if by virtue of such additional indebtedness its aggregate liabilities, direct or contingent, will exceed the limitation described in paragraph (a) of this section.

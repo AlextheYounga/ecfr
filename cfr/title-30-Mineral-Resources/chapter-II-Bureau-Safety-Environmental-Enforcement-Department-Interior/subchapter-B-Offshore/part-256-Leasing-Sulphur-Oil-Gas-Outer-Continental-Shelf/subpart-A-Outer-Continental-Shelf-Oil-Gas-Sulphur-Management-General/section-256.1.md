@@ -1,0 +1,3 @@
+##### § 256.1 Purpose. #####
+
+The purpose of the regulations in 30 CFR part 256 is to establish the procedures under which the Secretary of the Interior (Secretary) will exercise the authority to administer a leasing program for oil, gas and sulphur. The procedures under which the Secretary will exercise the authority to administer a program to grant rights-of-way, are addressed in part 250, subpart J.

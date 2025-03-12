@@ -1,0 +1,3 @@
+##### § 821.40 Record. #####
+
+The transcript of testimony and exhibits, together with all papers, requests and rulings filed in the proceeding before the law judge, shall constitute the exclusive record of the proceeding. Copies of the transcript may be obtained by any party upon payment of the reasonable cost thereof. A copy of the transcript may be examined at the National Transportation Safety Board, Office of Administrative Law Judges, Public Docket Section.

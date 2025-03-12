@@ -1,0 +1,3 @@
+##### § 630.1111 Limitation on the amount of donated annual leave received by an emergency leave recipient. #####
+
+An emergency leave recipient may receive a maximum of 240 hours of donated annual leave at any one time from an emergency leave transfer program for each disaster or emergency. After taking into consideration the amount of donated annual leave available to all approved emergency leave recipients and the needs of individual emergency leave recipients, an employing agency may allow an employee to receive additional disbursements of donated annual leave based on the employee's continuing need. Each disbursement of transferred annual leave may not exceed 240 hours.

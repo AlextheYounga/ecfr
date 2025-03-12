@@ -1,0 +1,7 @@
+##### § 52.2089 Control strategy: carbon monoxide. #####
+
+(a) Approval—On September 22, 2008, the Rhode Island Department of Environmental Management submitted a request to establish a limited maintenance plan for the Providence Rhode Island carbon monoxide attainment area for the remainder of the second ten-year maintenance plan. The State of Rhode Island has committed to year round carbon monoxide monitoring at the East Providence Photochemical Assessment Monitoring Station (PAMS) site; re-establishing downtown Providence CO monitoring if criteria specified in the Limited Maintenance Plan are triggered; and, ensuring that project-level carbon monoxide evaluations of transportation projects in the maintenance area are conducted. The limited maintenance plan satisfies all applicable requirements of section 175A of the Clean Air Act. Approval of a limited maintenance plan is conditioned on maintaining levels of ambient carbon monoxide levels below the required limited maintenance plan 8-hour carbon monoxide design value criterion of 7.65 parts per million. If the Limited Maintenance Plan criterion is no longer satisfied, Rhode Island must develop a full maintenance plan to meet Clean Air Act requirements.
+
+(b) [Reserved]
+
+[74 FR 12559, Mar. 25, 2009]

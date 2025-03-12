@@ -1,0 +1,9 @@
+##### § 164.51 Other discovery. #####
+
+(a) *General.* Except as so provided by § 164.50(b) *supra,* further discovery, under this subpart, shall be permitted only upon determination by the Administrative Law Judge (1) that such discovery shall not in any way unreasonably delay the proceeding, (2) that the information to be obtained is not otherwise obtainable and (3) that such information has significant probative value. The Administrative Law Judge shall be guided by the procedures set forth in the Federal Rules of Civil Procedure, where practicable, and the precedents thereunder, except that no discovery shall be undertaken except upon order of the Administrative Law Judge or upon agreement of the parties.
+
+(b) *Depositions upon oral questions.* The Administrative Law Judge shall order depositions upon oral questions only upon a showing of good cause and upon a finding that (1) the information sought cannot be obtained by alternative methods, or (2) there is a substantial reason to believe that relevant and probative evidence may otherwise not be preserved for presentation by a witness at the hearing.
+
+(c) *Procedure.* (1) Any party to the proceeding desiring discovery shall make a motion or motions therefor. Such a motion shall set forth (i) the circumstances warranting the taking of the discovery, (ii) the nature of the information expected to be discovered and (iii) the proposed time and place where it will be taken.
+
+(2) If the Administrative Law Judge determines the motion should be granted, he shall issue an order and appropriate subpoenas, if necessary, for the taking of such discovery together with the conditions and terms thereof.

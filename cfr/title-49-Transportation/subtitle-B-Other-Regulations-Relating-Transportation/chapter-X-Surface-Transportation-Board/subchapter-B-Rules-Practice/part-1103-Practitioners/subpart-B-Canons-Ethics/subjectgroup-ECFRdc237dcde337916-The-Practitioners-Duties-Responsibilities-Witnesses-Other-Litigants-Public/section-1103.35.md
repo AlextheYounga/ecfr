@@ -1,0 +1,3 @@
+##### § 1103.35 Partnership or professional corporation names and titles. #####
+
+In the formation of a partnership or professional corporation among practitioners care should be taken to avoid any misleading name or representation which would create a false impression as to the position or privileges of a member not duly authorized to practice. No person should be held as a practitioner who is not duly qualified under § 1103.2 or § 1103.3 of these rules. No person who is not duly admitted to practice should be held out in a way which will give the impression that he is so admitted. No false or assumed or trade name should be used to disguise the practitioner or his partnership or professional corporation.

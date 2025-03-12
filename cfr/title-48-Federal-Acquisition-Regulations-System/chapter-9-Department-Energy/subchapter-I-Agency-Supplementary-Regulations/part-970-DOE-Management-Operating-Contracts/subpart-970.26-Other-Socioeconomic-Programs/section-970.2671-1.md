@@ -1,0 +1,3 @@
+##### 970.2671-1 Policy. #####
+
+Department of Energy policy recognizes that full utilization of the talents and capabilities of a diverse work force is critical to the achievement of its mission. The principal goals of this policy are to foster and enhance partnerships with small, small disadvantaged, women-owned small businesses, and educational institutions; to match capabilities with existing opportunities; to track small, small disadvantaged, women-owned small business, and educational activity; and to develop innovative strategies to increase opportunities.

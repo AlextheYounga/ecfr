@@ -1,0 +1,41 @@
+##### § 63.1333 Additional requirements for performance testing. #####
+
+(a) Performance tests shall be conducted under such conditions as the Administrator specifies to the owner or operator based on representative performance of the affected source for the period being tested and in accordance with § 63.7(a)(1), (a)(3), (d), (e)(2), (e)(4), (g), and (h), with the exceptions specified in paragraphs (a)(1) through (5) of this section and the additions specified in paragraphs (b) through (d) of this section. Representative conditions exclude periods of startup and shutdown unless specified by the Administrator or an applicable subpart. The owner or operator may not conduct performance tests during periods of malfunction. The owner or operator must record the process information that is necessary to document operating conditions during the test and include in such record an explanation to support that such conditions represent normal operation. Upon request, the owner or operator shall make available to the Administrator such records as may be necessary to determine the conditions of performance tests. Sections 63.1314 through 63.1330 also contain specific testing requirements.
+
+(1) Performance tests shall be conducted according to the provisions of § 63.7(e)(2), except that performance tests shall be conducted at maximum representative operating conditions achievable during one of the time periods described in paragraph (a)(1)(i) of this section, without causing any of the situations described in paragraph (a)(1)(ii) of this section to occur.
+
+(i) The 6-month period that ends 2 months before the Notification of Compliance Status is due, according to § 63.1335(e)(5); or the 6-month period that begins 3 months before the performance test and ends 3 months after the performance test.
+
+(ii) Causing damage to equipment; necessitating that the owner or operator make product that does not meet an existing specification for sale to a customer; or necessitating that the owner or operator make product in excess of demand.
+
+(2) The requirements in § 63.1335(e)(5) shall apply instead of the references in § 63.7(g) to the Notification of Compliance Status requirements in § 63.9(h).
+
+(3) Because the site-specific test plans in § 63.7(c)(3) are not required, § 63.7(h)(4)(ii) is not applicable.
+
+(4) The owner or operator shall notify the Administrator of the intention to conduct a performance test at least 30 days before the performance test is scheduled to allow the Administrator the opportunity to have an observer present during the test. If after 30 days notice for an initially scheduled performance test, there is a delay (due to operational problems, etc.) in conducting the scheduled performance test, the owner or operator of an affected facility shall notify the Administrator as soon as possible of any delay in the original test date, either by providing at least 7 days prior notice of the rescheduled date of the performance test, or by arranging a rescheduled date with the Administrator by mutual agreement.
+
+(5) Performance tests shall be performed no later than 150 days after the compliance dates specified in this subpart (i.e., in time for the results to be included in the Notification of Compliance Status), rather than according to the time periods in § 63.7(a)(2) of subpart A of this part.
+
+(b) Each owner or operator of an existing affected source producing MBS complying with § 63.1315(b)(2) shall determine compliance with the mass emission per mass product standard by using Equation 49 of this subpart. When determining Ei, when the provisions of § 63.116(c)(4) specify that Method 18, 40 CFR part 60, appendix A, shall be used, Method 18 or Method 25A, 40 CFR part 60, appendix A, may be used for the purposes of this subpart. The use of Method 25A, 40 CFR part 60, appendix A, shall conform with the requirements in paragraphs (b)(1) and (b)(2) of this section. During periods of startup or shutdown, as an alternative to using Equation 49 of this subpart, the owner or operator may divide the emission rate of total organic HAP or TOC during startup or shutdown by the rate of polymer produced from the most recent performance test associated with a production rate greater than zero to comply with the emission limit.
+
+![](/graphics/er19jn00.041.gif)Where:ERMBS = Emission rate of organic HAP or TOC from continuous process vents, kg/Mg product. Ei = Emission rate of organic HAP or TOC from continuous process vent i as calculated using the procedures specified in § 63.116(c)(4), kg/month. PPM = Amount of polymer produced in one month as determined by the procedures specified in § 63.1318(b)(1)(ii), Mg/month. n = Number of continuous process vents.
+
+(1) The organic HAP used as the calibration gas for Method 25A, 40 CFR part 60, appendix A, shall be the single organic HAP representing the largest percent by volume.
+
+(2) The use of Method 25A, 40 CFR part 60, appendix A, is acceptable if the response from the high-level calibration gas is at least 20 times the standard deviation of the response from the zero calibration gas when the instrument is zeroed on the most sensitive scale.
+
+(c) The owner or operator of an affected source, complying with § 63.1322(a)(3) shall determine compliance with the percent reduction requirement using Equation 50 of this subpart.
+
+![](/graphics/er12se96.049.gif)Where: PR = Percent reduction Hj = Number of operating hours in a year for control device j. Ei = Mass rate of TOC or total organic HAP at the inlet of control device j, calculated as specified in § 63.1325(f), kg/hr. This value includes all continuous process vents, batch process vents, and aggregate batch vent streams routed to control device j. Eo = Mass rate of TOC or total organic HAP at the outlet of control device j, calculated as specified in § 63.1325(f), kg/hr. Hk = Number of hours of operation during which positive flow is present in uncontrolled continuous process vent or aggregate batch vent stream k, hr/yr. Eku = Mass rate of TOC or total organic HAP of uncontrolled continuous process vent or aggregate batch vent stream k, calculated as specified in § 63.1325(f)(4), kg/hr. AEunc = Mass rate of TOC or total organic HAP of uncontrolled batch process vent l, calculated as specified in § 63.1325(f)(4), kg/yr. n = Number of control devices, uncontrolled continuous process vents and aggregate batch vent streams, and uncontrolled batch process vents. The value of n is not necessarily the same for these three items.
+
+(d) Data shall be reduced in accordance with the EPA approved methods specified in the applicable subpart or, if other test methods are used, the data and methods shall be validated according to the protocol in Method 301 of appendix A of this part.
+
+(e) Notwithstanding any other provision of this subpart, if an owner or operator of an affected source uses a flare to comply with any of the requirements of this subpart, the owner or operator shall comply with paragraphs (e)(1) through (e)(3) of this section. The owner or operator is not required to conduct a performance test to determine percent emission reduction or outlet organic HAP or TOC concentration. If a compliance demonstration has been conducted previously for a flare, using the techniques specified in paragraphs (e)(1) through (e)(3) of this section, that compliance demonstration may be used to satisfy the requirements of this paragraph if either no deliberate process changes have been made since the compliance demonstration, or the results of the compliance demonstration reliably demonstrate compliance despite process changes.
+
+(1) Conduct a visible emission test using the techniques specified in § 63.11(b)(4);
+
+(2) Determine the net heating value of the gas being combusted, using the techniques specified in § 63.11(b)(6); and
+
+(3) Determine the exit velocity using the techniques specified in either § 63.11(b)(7)(i) (and § 63.11(b)(7)(iii), where applicable) or § 63.11(b)(8), as appropriate.
+
+[61 FR 48229, Sept. 12, 1996, as amended at 65 FR 38128, June 19, 2000; 79 FR 17637, Mar. 27, 2014]

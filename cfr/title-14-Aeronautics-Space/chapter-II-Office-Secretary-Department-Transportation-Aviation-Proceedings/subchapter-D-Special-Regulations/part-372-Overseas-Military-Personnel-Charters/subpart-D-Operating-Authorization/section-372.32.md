@@ -1,0 +1,3 @@
+##### § 372.32 Effective period. #####
+
+Each operating authorization shall be effective upon the date specified therein, and shall continue in effect, unless sooner suspended or revoked, during such period as the authority provided by this part shall remain in effect, or if issued for a limited period of time, shall continue in effect until the expiration thereof unless sooner suspended or revoked.

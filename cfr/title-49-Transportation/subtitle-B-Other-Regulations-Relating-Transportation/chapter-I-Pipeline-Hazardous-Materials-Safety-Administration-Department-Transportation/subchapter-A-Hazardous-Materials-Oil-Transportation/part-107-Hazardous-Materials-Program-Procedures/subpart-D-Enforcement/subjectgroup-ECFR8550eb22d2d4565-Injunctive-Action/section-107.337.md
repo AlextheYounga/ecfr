@@ -1,0 +1,5 @@
+##### § 107.337 Injunctions generally. #####
+
+Whenever it appears to the Office of Chief Counsel that a person has engaged, or is engaged, or is about to engage in any act or practice constituting a violation of any provision of the Federal hazardous material transportation law, this subchapter, subchapter C of this chapter, or any special permit, or order issued thereunder, for which the Office of Chief Counsel exercises enforcement responsibility, the Administrator, PHMSA, or his delegate, may request the Attorney General to bring an action in the appropriate United States District Court for such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, and punitive damages as provided by 49 U.S.C. 5122(a).
+
+[Amdt. 107-11, 48 FR 2651, Jan. 20, 1983, as amended by Amdt. 107-32, 59 FR 49131, Sept. 26, 1994]

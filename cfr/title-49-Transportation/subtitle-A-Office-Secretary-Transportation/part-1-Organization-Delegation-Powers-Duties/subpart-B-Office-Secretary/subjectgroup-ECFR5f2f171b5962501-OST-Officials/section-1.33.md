@@ -1,0 +1,11 @@
+##### § 1.33 Chief Financial Officer and Assistant Secretary for Budget and Programs. #####
+
+(a) The Chief Financial Officer (CFO) is the principal budget and financial advisor to the Secretary and serves as Assistant Secretary for Budget and Programs. The CFO and Assistant Secretary for Budget and Programs provides oversight and policy guidance for all budget, financial management, program performance, and internal control activities of the Department and its Operating Administrations.
+
+(b) The CFO and Assistant Secretary for Budget and Programs concurs in the appointment and promotion of Chief Financial Officers, Budget Officers, and Directors of Finance of the Department and its Operating Administrations, and participates with each Administrator in the performance reviews of Chief Financial Officers, Budget Officers, and Directors of Finance in each of the Operating Administrations.
+
+(c) The CFO and Assistant Secretary for Budget and Programs, in consultation with the Chief Information Officer, may designate any information technology system as a financial management system under the CFO's policy and oversight area of responsibility.
+
+(d) The CFO and Assistant Secretary for Budget and Programs serves as the Vice Chair of the Department's Credit Council. The Office of the Assistant Secretary supports the Department's Credit Council by analyzing applications for the Department's various credit programs. The CFO also oversees the TIFIA program and the TIFIA Joint Program Office on behalf of the Secretary, including the evaluation of individual projects, and provides overall policy direction and program decisions for the TIFIA program.
+
+(e) The CFO and Assistant Secretary for Budget and Programs is responsible for preparation, review, and presentation of Department budget estimates; liaison with the Office of Management and Budget and Congressional Budget and Appropriations Committees; preparation of the Department's annual financial statements; departmental financial plans, apportionments, reapportionments, reprogrammings, and allotments; program and systems evaluation and analysis; program evaluation criteria; program resource plans; analysis and review of legislative proposals and one-time reports and studies required by Congress; and budget and financial management relating to the Office of the Secretary.

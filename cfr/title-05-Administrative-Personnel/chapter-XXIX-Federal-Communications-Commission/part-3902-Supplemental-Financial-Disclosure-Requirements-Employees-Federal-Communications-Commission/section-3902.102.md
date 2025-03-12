@@ -1,0 +1,3 @@
+##### § 3902.102 Employees required to submit FCC Form A54A, “Confidential Supplemental Statement of Employment and Financial Interests.” #####
+
+All employees, including special Government employees, who are required to file a Standard Form (SF) 278, “Public Financial Disclosure Report,” or a SF/OGE Form 450, “Confidential Financial Disclosure Report,” are also required to file FCC Form A54A, “Confidential Supplemental Statement of Employment and Financial Interests.” The purpose of FCC Form A54A is to require disclosure of income and interest in property and assets valued below the minimum reporting limits for the SF 278 and SF/OGE Form 450 in order to meet the separate requirements of section 4(b) of the Communications Act of 1934, at 47 U.S.C. 154(b).

@@ -1,0 +1,3 @@
+##### § 850.22 Permissible exposure limit. #####
+
+The responsible employer must assure that no worker is exposed to an airborne concentration of beryllium greater than the permissible exposure limit established in 29 CFR 1910.1000, as measured in the worker's breathing zone by personal monitoring, or a more stringent TWA PEL that may be promulgated by the Occupational Safety and Health Administration as a health standard.

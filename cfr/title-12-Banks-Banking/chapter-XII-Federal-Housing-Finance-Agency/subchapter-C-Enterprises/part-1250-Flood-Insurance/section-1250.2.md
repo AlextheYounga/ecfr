@@ -1,0 +1,7 @@
+##### § 1250.2 Procedural requirements. #####
+
+(a) *Procedures.* An Enterprise shall implement procedures reasonably designed to ensure for any loan that is secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during the term of the loan, by the Director of the Federal Emergency Management Agency as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 *et seq.*), as amended and purchased by the Enterprise, the building or mobile home and any personal property securing the loan is covered for the term of the loan by flood insurance in an amount at least equal to the lesser of the outstanding principal balance of the loan or the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, as amended.
+
+(b) *Applicability.* (1) Paragraph (a) of this section shall apply only with respect to any loan made, increased, extended, or renewed after September 22, 1995.
+
+(2) Paragraph (a) of this section shall not apply to any loan having an original outstanding balance of $5,000 or less and a repayment term of one year or less.

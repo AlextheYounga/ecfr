@@ -1,0 +1,11 @@
+##### § 1250.105 Compliance information. #####
+
+(a) *Cooperation and assistance.* Each responsible NASA official shall to the fullest extent practicable seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Compliance reports.* Each recipient shall keep such records and submit to the Principal Compliance Officer or his designee timely, complete and accurate compliance reports at such times, and in such form and containing such information, as the Principal Compliance Officer or his designee may determine to be necessary to enable him to ascertain whether the recipient has complied or is complying with this part. In the case in which a primary recipient extends Federal financial assistance to any other recipient, such other recipient shall also submit such compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this part.
+
+(c) *Access to sources of information.* Each recipient shall permit access by the Principal Compliance Officer or his designee during normal business hours to such of its books, records, accounts and other sources of information, and its facilities as may be pertinent to ascertain compliance with this part. Where any information required of a recipient is in the exclusive possession of any other agency, institution or person and that agency, institution or person shall fail or refuse to furnish this information, the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information.
+
+(d) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the Principal Compliance Officer finds necessary to apprise such persons of the protection against discrimination assured them by the Act and this part.
+
+[30 FR 301, Jan. 9, 1965, as amended at 68 FR 51350, Aug. 26, 2003]

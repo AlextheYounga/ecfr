@@ -1,0 +1,3 @@
+##### § 71.131 Nonconforming materials, parts, or components. #####
+
+The licensee, certificate holder, and applicant for a CoC shall establish measures to control materials, parts, or components that do not conform to the licensee's requirements to prevent their inadvertent use or installation. These measures must include, as appropriate, procedures for identification, documentation, segregation, disposition, and notification to affected organizations. Nonconforming items must be reviewed and accepted, rejected, repaired, or reworked in accordance with documented procedures.

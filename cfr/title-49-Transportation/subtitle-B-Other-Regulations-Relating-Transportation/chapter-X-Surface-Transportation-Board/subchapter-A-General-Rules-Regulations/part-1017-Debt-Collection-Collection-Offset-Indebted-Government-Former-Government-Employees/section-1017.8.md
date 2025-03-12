@@ -1,0 +1,3 @@
+##### § 1017.8 Exception to entitlement to notice, hearing, written responses and final decisions. #####
+
+The Board shall except from the provisions of §§ 1017.4 through 1017.7 any adjustment to pay arising out of an employee's election of coverage or a change in coverage under a Federal benefits program, requiring periodic deductions from pay, if the amount to be recovered was accumulated over four pay periods or less.

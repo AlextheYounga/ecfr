@@ -1,0 +1,3 @@
+##### § 7.105 Approval marking. #####
+
+Each approved diesel power package shall be identified by a legible and permanent approval plate inscribed with the assigned MSHA approval number and securely attached to the diesel power package in a manner that does not impair any explosion-proof characteristics. The grade limitation of a wet exhaust conditioner used as an exhaust flame arrester shall be included on the approval marking.

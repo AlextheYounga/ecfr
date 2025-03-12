@@ -1,0 +1,278 @@
+##### § 74.602 Frequency assignment. #####
+
+(a) The following frequencies are available for assignment to television pickup, television STL, television relay and television translator relay stations. The band segments 17,700-18,580 and 19,260-19,700 MHz are available for broadcast auxiliary stations as described in paragraph (g) of this section. The band segment 6425-6525 MHz is available for broadcast auxiliary stations as described in paragraph (i) of this section. The bands 6875-7125 MHz and 12700-13200 MHz are co-equally shared with stations licensed pursuant to Parts 78 and 101 of the Commission's Rules. Broadcast network-entities may also use the 1990-2110, 6425-6525 and 6875-7125 MHz bands for mobile television pickup only.
+
+|   Band A MHz   |    Band B MHz    |Band D<sup>1</sup> GHz|                  |               |               |
+|----------------|------------------|----------------------|------------------|---------------|---------------|
+|Group A channels| Group B channels |                      |                  |               |               |
+|  Designation   |Channel boundaries|     Designation      |Channel boundaries|               |               |
+|   1990-2008    |                  |         A01          |  12.700-12.725   |      B01      |12.7125-12.7375|
+|   2008-2025    |                  |         A02          |  12.725-12.750   |      B02      |12.7375-12.7625|
+|   2025-2042    |                  |         A03          |  12.750-12.775   |      B03      |12.7625-12.7875|
+|   2042-2059    |                  |         A04          |  12.775-12.800   |      B04      |12.7875-12.8125|
+|   2059-2076    |    6875-6900     |         A05          |  12.800-12.825   |      B05      |12.8125-12.8375|
+|   2076-2093    |    6900-6925     |         A06          |  12.825-12.850   |      B06      |12.8375-12.8625|
+|   2093-2110    |    6925-6950     |         A07          |  12.850-12.875   |      B07      |12.8625-12.8875|
+|   2450-2467    |    6950-6975     |         A08          |  12.875-12.900   |      B08      |12.8875-12.9125|
+|  2467-2483.5   |    6975-7000     |         A09          |  12.900-12.925   |      B09      |12.9125-12.9375|
+|                |    7000-7025     |         A10          |  12.925-12.950   |      B10      |12.9375-12.9625|
+|                |    7025-7050     |         A11          |  12.950-12.975   |      B11      |12.9625-12.9875|
+|                |    7050-7075     |         A12          |  12.975-13.000   |      B12      |12.9875-12.0125|
+|                |    7075-7100     |         A13          |  13.000-13.025   |      B13      |13.0125-13.0375|
+|                |    7100-7125     |         A14          |  13.025-13.050   |      B14      |13.0375-13.0625|
+|                |                  |         A15          |  13.050-13.075   |      B15      |13.0625-13.0875|
+|                |                  |         A16          |  13.075-13.100   |      B16      |13.0875-13.1125|
+|                |                  |         A17          |  13.100-13.125   |      B17      |13.1125-13.1375|
+|                |                  |         A18          |  13.125-13.150   |B18<sup>2</sup>|13.1375-13.1625|
+|                |                  |   A19<sup>2</sup>    |  13.150-13.175   |B19<sup>2</sup>|13.1625-13.1875|
+|                |                  |   A20<sup>2</sup>    |  13.175-13.200   |B20<sup>2</sup>|13.1875-13.2125|
+|                |                  |         A21          |  13.200-13.225   |      B21      |13.2125-13.2375|
+|                |                  |         A22          |  13.225-13.250   |               |               |
+
+<sup>1</sup> For fixed stations using Band D Channels, applicants are encouraged to use alternate A and B channels such that adjacent R.F. carriers are spaced 12.5 MHz. As example, a fixed station, relaying several channels, would use A01, B01, A02, B02, A03, etc.
+
+<sup>2</sup> The band 13.15-13.20 GHz is reserved for television pickup and CARS pickup stations inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter, television pickup stations, CARS stations and NGSO FSS gateway earth stations shall operate on a primary co-equal basis. The band 13.20-13.2125 GHz is reserved for television pickup stations on a primary basis and CARS pickup stations on a secondary basis inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 markets delineated in § 76.51 of this chapter, television pickup stations and NGSO FSS gateway earth stations shall operate on a co-primary basis, CARS stations shall operate on a secondary basis. Fixed television auxiliary stations licensed pursuant to applications accepted for filing before September 1, 1979, may continue operation on channels in the 13.15-13.25 GHz band, subject to periodic license renewals. NGSO FSS gateway uplink transmissions in the 13.15-13.2125 GHz segment shall be limited to a maximum EIRP of 3.2 dBW towards 0 degrees on the radio horizon. These provisions shall not apply to GSO FSS operations in the 12.75-13.25 GHz band.
+
+(1) Frequencies shown above between 2450 and 2500 MHz in Band A are allocated to accommodate the incidental radiations of industrial, scientific, and medical (ISM) equipment, and stations operating therein must accept any interference that may be caused by the operation of such equipment. Frequencies between 2450 and 2500 MHz are also shared with other communication services and exclusive channel assignments will not be made, nor is the channeling shown above necessarily that which will be employed by such other services.
+
+(2) In the band 2483.5-2500 MHz, no applications for new stations or modification to existing stations to increase the number of transmitters will be accepted. Existing licensees as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered and their operations are on a co-primary basis with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations.
+
+(3)(i) After January 7, 2004, stations may adhere to the channel plan specified in paragraph (a) of this section, or the following channel plan in Band A:
+
+Channel A1r - 2025.5-2037.5 MHzChannel A2r - 2037.5-2049.5 MHzChannel A3r - 2049.5-2061.5 MHzChannel A4 - 2061.5-2073.5 MHzChannel A5r - 2073.5-2085.5 MHzChannel A6r - 2085.5-2097.5 MHzChannel A7r - 2097.5-2109.5 MHz
+
+(ii) Stations adhering to the channel plan specified in paragraph (a)(3)(i) of this section may also use the following 40 data return link (DRL) channels to facilitate their operations in the 2025.5-2109.5 MHz band:
+
+Lower band DRL channels2025.000-2025.025 MHz2025.025-2025.050 MHz2025.050-2025.075 MHz2025.075-2025.100 MHz2025.100-2025.125 MHz2025.125-2025.150 MHz2025.150-2025.175 MHz2025.175-2025.200 MHz2025.200-2025.225 MHz2025.225-2025.250 MHz2025.250-2025.275 MHz2025.275-2025.300 MHz2025.300-2025.325 MHz2025.325-2025.350 MHz2025.350-2025.375 MHz2025.375-2025.400 MHz2025.400-2025.425 MHz2025.425-2025.450 MHz2025.450-2025.475 MHz2025.475-2025.500 MHzUpper band DRL channels2109.500-2109.525 MHz2109.525-2109.550 MHz2109.550-2109.575 MHz2109.575-2109.600 MHz2109.600-2109.625 MHz2109.625-2109.650 MHz2109.650-2109.675 MHz2109.675-2109.700 MHz2109.700-2109.725 MHz2109.725-2109.750 MHz2109.750-2109.775 MHz2109.775-2109.800 MHz2109.800-2109.825 MHz2109.825-2109.850 MHz2109.850-2109.875 MHz2109.875-2109.900 MHz2109.900-2109.925 MHz2109.925-2109.950 MHz2109.950-2109.975 MHz2109.975-2110.000 MHz
+
+(iii) Broadcast Auxiliary Service, Cable Television Remote Pickup Service, and Local Television Transmission Service licensees will be required to use the Band A channel plan in paragraph (a)(3)(i) of this section after completion of relocation by an Emerging Technologies licensee in accordance with § 74.690 or § 78.40. Licensees declining relocation may continue to use their existing channel plan but must discontinue use of the 1990-2025 MHz band when they indicate to an Emerging Technologies licensee, acting pursuant to § 74.690 or § 78.40 of this chapter, that they decline to be relocated.
+
+(4) [Reserved]
+
+(b) Subject to the conditions of paragraph (a) of this section, frequency assignments will normally be made as requested, provided that the frequency selection provisions of § 74.604 have been followed and that the frequency requested will cause no interference to existing users in the area. The Commission reserves the right to assign frequencies other than those requested if, in its opinion, such action is warranted.
+
+(c) Fixed link stations will be authorized to operate on one channel only.
+
+(d) Cable Television Relay Service stations may be assigned channels in Band D between 12,700 and 13,200 MHz subject to the condition that no harmful interference is caused to TV STL and TV relay stations authorized at the time of such grants. Similarly, new TV STL and TV relay stations must not cause harmful interference to cable television relay stations authorized at the time of such grants. The use of channels between 12,700 and 13,200 MHz by TV pickup stations is subject to the condition that no harmful interference is caused to Cable Television Relay Service stations, TV STL and TV relay stations, except as provided for in § 74.602(a) Note 2. Band D channels are also shared with certain Private Operational Fixed Stations, see § 74.638.
+
+(e) Communication common carriers in the Local Television Transmission Service (Part 101) may be assigned frequencies available to television broadcast station licensees and broadcast network entities for the purpose of providing service to television broadcast stations and broadcast network entities, respectively.
+
+(f) TV auxiliary stations licensed to low power TV stations and translator relay stations will be assigned on a secondary basis, *i.e.,* subject to the condition that no harmful interference is caused to other TV auxiliary stations assigned to TV broadcast stations, or to cable television relay service stations (CARS) operating between 12,700 and 13,200 MHz. Auxiliary stations licensed to low power TV stations and translator relay stations must accept any interference caused by stations having primary use of TV auxiliary frequencies.
+
+(g) The following frequencies are available for assignment to television STL, television relay stations and television translator relay stations. Stations operating on frequencies in the sub-bands 18.3-18.58 GHz and 19.26-19.3 GHz that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations on a shared co-primary basis with other services under parts 21, 25, 78, and 101 of this chapter. Such stations, however, are subject to relocation by licensees in the fixed-satellite service. Such relocation is subject to the provisions of §§ 101.85 through 101.97 of this chapter. No new applications for new licenses will be accepted in the 19.26-19.3 GHz band after June 8, 2000, and no new applications for new licenses will be accepted in the 18.3-18.58 GHz band after November 19, 2002. The provisions of § 74.604 do not apply to the use of these frequencies. Licensees may use either a two-way link or one or both frequencies of a frequency pair for a one-way link and shall coordinate proposed operations pursuant to procedures required in § 101.103(d) of this chapter.
+
+(1) 2 MHz maximum authorized bandwidth channel:
+
+|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
+|------------------------|------------------------|
+|        18141.0         |          n/a           |
+
+(2) 6 MHz maximum authorized bandwidth channels:
+
+|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
+|------------------------|------------------------|
+|   216 MHz Separation   |                        |
+|        18145.0         |          n/a           |
+|        18151.0         |        18367.0         |
+|        18157.0         |        18373.0         |
+|        18163.0         |        18379.0         |
+|        18169.0         |        18385.0         |
+|        18175.0         |        18391.0         |
+|        18181.0         |        18397.0         |
+|        18187.0         |        18403.0         |
+|        18193.0         |        18409.0         |
+|        18199.0         |        18415.0         |
+|        18205.0         |        18421.0         |
+|        18211.0         |        18427.0         |
+|        18217.0         |        18433.0         |
+|        18223.0         |        18439.0         |
+|        18229.0         |        18445.0         |
+|        18235.0         |        18451.0         |
+|        18241.0         |        18457.0         |
+|        18247.0         |        18463.0         |
+|        18253.0         |        18469.0         |
+|        18259.0         |        18475.0         |
+|        18265.0         |        18481.0         |
+|        18271.0         |        18487.0         |
+|        18277.0         |        18493.0         |
+|        18283.0         |        18499.0         |
+|        18289.0         |        18505.0         |
+|        18295.0         |        18511.0         |
+|        18301.0         |        18517.0         |
+|        18307.0         |        18523.0         |
+|        18313.0         |        18529.0         |
+|        18319.0         |        18535.0         |
+|        18325.0         |        18541.0         |
+|        18331.0         |        18547.0         |
+|        18337.0         |        18553.0         |
+|        18343.0         |        18559.0         |
+|        18349.0         |        18565.0         |
+|        18355.0         |        18571.0         |
+|        18361.0         |        18577.0         |
+
+(3) 10 MHz maximum authorized bandwidth channels:
+
+|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
+|------------------------|------------------------|
+|  1560 MHz Separation   |                        |
+|        17705.0         |        19265.0         |
+|        17715.0         |        19275.0         |
+|        17725.0         |        19285.0         |
+|        17735.0         |        19295.0         |
+|        17745.0         |        19305.0         |
+|        17755.0         |        19315.0         |
+|        17765.0         |        19325.0         |
+|        17775.0         |        19335.0         |
+|        17785.0         |        19345.0         |
+|        17795.0         |        19355.0         |
+|        17805.0         |        19365.0         |
+|        17815.0         |        19375.0         |
+|        17825.0         |        19385.0         |
+|        17835.0         |        19395.0         |
+|        17845.0         |        19405.0         |
+|        17855.0         |        19415.0         |
+|        17865.0         |        19425.0         |
+|        17875.0         |        19435.0         |
+|        17885.0         |        19445.0         |
+|        17895.0         |        19455.0         |
+|        17905.0         |        19465.0         |
+|        17915.0         |        19475.0         |
+|        17925.0         |        19485.0         |
+|        17935.0         |        19495.0         |
+|        17945.0         |        19505.0         |
+|        17955.0         |        19515.0         |
+|        17965.0         |        19525.0         |
+|        17975.0         |        19535.0         |
+|        17985.0         |        19545.0         |
+|        17995.0         |        19555.0         |
+|        18005.0         |        19565.0         |
+|        18015.0         |        19575.0         |
+|        18025.0         |        19585.0         |
+|        18035.0         |        19595.0         |
+|        18045.0         |        19605.0         |
+|        18055.0         |        19615.0         |
+|        18065.0         |        19625.0         |
+|        18075.0         |        19635.0         |
+|        18085.0         |        19645.0         |
+|        18095.0         |        19655.0         |
+|        18105.0         |        19665.0         |
+|        18115.0         |        19675.0         |
+|        18125.0         |        19685.0         |
+|        18135.0         |        19695.0         |
+
+(4) 20 MHz maximum authorized bandwidth channels:
+
+|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
+|------------------------|------------------------|
+|  1560 MHz Separation   |                        |
+|        17710.0         |        19270.0         |
+|        17730.0         |        19290.0         |
+|        17750.0         |        19310.0         |
+|        17770.0         |        19330.0         |
+|        17790.0         |        19350.0         |
+|        17810.0         |        19370.0         |
+|        17830.0         |        19390.0         |
+|        17850.0         |        19410.0         |
+|        17870.0         |        19430.0         |
+|        17890.0         |        19450.0         |
+|        17910.0         |        19470.0         |
+|        17930.0         |        19490.0         |
+|        17950.0         |        19510.0         |
+|        17970.0         |        19530.0         |
+|        17990.0         |        19550.0         |
+|        18010.0         |        19570.0         |
+|        18030.0         |        19590.0         |
+|        18050.0         |        19610.0         |
+|        18070.0         |        19630.0         |
+|        18090.0         |        19650.0         |
+|        18110.0         |        19670.0         |
+|        18130.0         |        19690.0         |
+
+(5) 40 MHz maximum authorized bandwidth channels:
+
+|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
+|------------------------|------------------------|
+|  1560 MHz Separation   |                        |
+|        17720.0         |        19280.0         |
+|        17760.0         |        19320.0         |
+|        17800.0         |        19360.0         |
+|        17840.0         |        19400.0         |
+|        17880.0         |        19440.0         |
+|        17920.0         |        19480.0         |
+|        17960.0         |        19520.0         |
+|        18000.0         |        19560.0         |
+|        18040.0         |        19600.0         |
+|        18080.0         |        19640.0         |
+|        18120.0         |        19680.0         |
+
+(6) 80 MHz maximum authorized bandwidth channels:
+
+|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
+|------------------------|------------------------|
+|  1560 MHz Separation   |                        |
+|        17740.0         |        19300.0         |
+|        17820.0         |        19380.0         |
+|        17900.0         |        19460.0         |
+|        17980.0         |        19540.0         |
+|        18060.0         |        19620.0         |
+
+(h) TV STL, TV relay stations, and TV translator relay stations may be authorized to operate fixed point-to-point service on the UHF TV channels 14-69 on a secondary basis and subject to the provisions of subpart G of this part:
+
+(1) Applications for authorization in accordance with this paragraph must comply with the following technical limits or be accompanied by an engineering analysis demonstrating why these limits must be exceeded:
+
+(i) Maximum EIRP is limited to 35 dBW;
+
+(ii) Transmitting antenna beamwidth is limited to 25 degrees (measured at the 3 dB points); and
+
+(iii) Vertical polarization is used.
+
+(2) These stations must not interfere with and must accept interference from current and future full-power UHF-TV stations, LPTV stations, and translator stations. They will also be secondary to land mobile stations in areas where land mobile sharing is currently permitted.
+
+(3) TV STL and TV relay stations licensed for operation on UHF TV channels 52-69 based on applications filed before April 16, 2003, may continue to operate under the terms of their current authorizations until the end of transition to digital television in their market (DTV Transition), as set forth in §§ 73.622 through 73.625 of this chapter. Applications for TV STL and TV relay stations operating on UHF TV channels 52-69 will not be accepted for filing on or after April 16, 2003.
+
+(4) TV translator relay stations licensed for operation on UHF TV channels 52-59 based on applications filed before the end of DTV transition may continue to operate under the terms of their current authorizations indefinitely. TV translator relay stations licensed for operation on UHF TV channels 60-69 based on applications filed before the end of DTV transition may continue to operate under the terms of their current authorizations until the end of DTV Transition. Applications for TV translator relay stations operating on UHF TV channels 52-69 will not be accepted for filing on or after the end of DTV Transition.
+
+(5)(i) The licensee of a TV STL, TV relay station, or TV translator relay station that operates on frequencies in the 600 MHz band assigned to wireless licensees under part 27 of this chapter must cease operations on those frequencies no later than the end of the post-auction transition period as defined in § 27.4 of this chapter. The licensee of a TV STL, TV relay station, or TV translator relay station may be required to cease operations on a date earlier than the end of the post-auction transition period if it receives a notification pursuant to paragraph (h)(5)(ii) of this section.
+
+(ii) A wireless licensee assigned to frequencies in the 600 MHz band under part 27 of this chapter must notify the licensee of a TV STL, TV relay station, or TV translator relay station of its intent to commence operations, as defined in § 27.4 of this chapter, and the likelihood of harmful interference from the TV STL, TV relay station, or TV translator relay station to those operations within the wireless licensee's licensed geographic service area.
+
+(A) The wireless licensee must:
+
+(*1*) Notify the licensee of the TV STL, TV relay station, or TV translator relay station in the form of a letter, via certified mail, return receipt requested; and
+
+(*2*) Send such notification not less than 30 days in advance of the approximate date of commencement of such operations.
+
+(B) The licensee of the TV STL, TV relay station, or TV translator relay station must cease the subject operation within 30 days of receiving the notification pursuant to this section.
+
+(iii) By the end of the post-auction transition period, all TV STL, TV relay station and TV translator relay station licensees must modify or cancel their authorizations and vacate the 600 MHz band. Applications for TV STL, TV relay and TV translator relay stations in the 600 MHz band will not be accepted for filing on or after the end date for the post-auction transition period.
+
+(6) The licensee of a TV STL, TV relay station, or TV translator relay station that operates on the UHF spectrum that is reserved for guard band channels as a result of the broadcast television incentive auction conducted under section 6403 of the Middle Class Tax Relief and Job Creation Act of 2012 (Pub. L. 112-96) must cease operations on those frequencies no later than the end of the post-auction transition period as defined in § 27.4 of this chapter. The licensee of a TV STL, TV relay station, or TV translator relay station may be required to cease operations on a date earlier than the end of the post-auction transition period if it receives a notification pursuant to paragraph (h)(5)(ii) of this section.
+
+(i) *6425 to 6525 MHz - Mobile Only.* Paired and un-paired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to parts 78 and 101 of this chapter. The following channel plans apply.
+
+(1) 1 MHz maximum authorized bandwidth channels.
+
+|Transmit (or receive MHz)|Receive (or transmit) (MHz)|
+|-------------------------|---------------------------|
+|         6425.5          |          6475.5           |
+|         6450.5          |          6500.5           |
+
+(2) 8 MHz maximum authorized bandwidth channels.
+
+|Transmit (or receive MHz)|Receive (or transmit) (MHz)|
+|-------------------------|---------------------------|
+|         6430.0          |          6480.0           |
+|         6438.0          |          6488.0           |
+|         6446.0          |          6596.0           |
+|         6455.0          |          6505.0           |
+|         6463.0          |          6513.0           |
+|         6471.0          |          6521.0           |
+
+(3) 25 MHz maximum authorized bandwidth channels.
+
+|Transmit (or receive MHz)|Receive (or transmit (MHz)|
+|-------------------------|--------------------------|
+|         6437.5          |          6487.5          |
+|         6462.5          |          6512.5          |
+
+(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082; 47 U.S.C. 154, 155, 303)[28 FR 13718, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 74.602, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

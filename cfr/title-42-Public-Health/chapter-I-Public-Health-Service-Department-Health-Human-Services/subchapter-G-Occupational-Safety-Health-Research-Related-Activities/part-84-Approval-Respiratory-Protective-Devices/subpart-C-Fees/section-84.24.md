@@ -1,0 +1,3 @@
+##### § 84.24 Authorization for additional examinations, inspections, tests, and fees. #####
+
+NIOSH will conduct or cause to be conducted any additional examinations, inspections, or tests it deems necessary to determine the quality and effectiveness of any respirator submitted to NIOSH for the purposes of seeking a certificate of approval. The costs of such examinations, inspections, or tests will be paid by the applicant prior to issuance of a certificate of approval for the subject respirator.

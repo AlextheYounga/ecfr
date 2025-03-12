@@ -1,0 +1,3 @@
+##### § 9701.352 Use of highest previous rate. #####
+
+DHS will issue implementing directives regarding the discretionary use of an individual's highest previous rate of basic pay received as a Federal employee or as an employee of a Coast Guard nonappropriated fund instrumentality (NAFI) in setting pay upon reemployment, transfer, reassignment, promotion, demotion, placement in a different occupational cluster, or change in type of appointment. For this purpose, basic pay may include a locality-based payment or supplement under circumstances approved by DHS. If an employee in a Coast Guard NAFI position is converted to an appropriated fund position under the pay system established under this subpart, DHS must use the existing NAFI rate to set pay upon conversion.

@@ -1,0 +1,5 @@
+##### 315.303-70 Policy. #####
+
+(a) If an operating division (OPDIV) is required by statute to use peer review for technical review of proposals, the requirements of those statutes, any implementing regulatory requirements, the Federal Advisory Committee Act, and as applicable, any approved Department of Health and Human Services Acquisition Regulation (HHSAR) deviation(s) from this subpart take precedence over the otherwise applicable requirements of this subpart.
+
+(b) The statutes that require such review and implementing regulations are as follows: National Institutes of Health—42 U.S.C. 289a, Peer Review Requirements and 42 CFR part 52h, Scientific Peer Review of Research Grant Applications and Research and Development Contract Projects; Substance Abuse and Mental Health Services Administration—42 U.S.C. 290aa-3, Peer Review and Agency for Healthcare Research and Quality—42 U.S.C. 299c-1, Peer review with respect to grants and contracts.

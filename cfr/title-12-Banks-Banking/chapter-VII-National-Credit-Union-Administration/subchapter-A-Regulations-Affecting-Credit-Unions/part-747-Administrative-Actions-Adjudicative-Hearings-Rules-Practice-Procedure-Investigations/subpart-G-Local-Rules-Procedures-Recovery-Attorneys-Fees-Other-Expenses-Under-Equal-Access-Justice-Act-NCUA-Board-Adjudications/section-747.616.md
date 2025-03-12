@@ -1,0 +1,5 @@
+##### § 747.616 Payment of award. #####
+
+An applicant seeking payment of an award granted by the NCUA Board shall submit to the NCUA's Office of Chief Financial Officer a copy of the NCUA Board's Final Decision and Order granting the award, accompanied by a statement that it will not seek review of the decision and order in the United States court. All submissions shall be addressed to the Office of Chief Financial Officer, National Credit Union Administration, 1775 Duke Street, Alexandria, VA 22314-3428. The NCUA will pay the amount awarded within 60 days after receiving the applicant's statement, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.
+
+[56 FR 37767, Aug. 8, 1991, as amended at 59 FR 36041, July 15, 1994; 75 FR 34622, June 18, 2010]

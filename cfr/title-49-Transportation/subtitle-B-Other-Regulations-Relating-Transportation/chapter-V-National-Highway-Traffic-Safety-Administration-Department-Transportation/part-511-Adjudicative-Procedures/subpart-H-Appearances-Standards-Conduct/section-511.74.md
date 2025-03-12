@@ -1,0 +1,3 @@
+##### § 511.74 Attorneys. #####
+
+An attorney at law who is admitted to practice before the Federal courts or before the highest court of any State, the District of Columbia, or any territory or Commonwealth of the United States, may practice before the NHTSA. An attorney's own representation that he or she is in good standing before any of such courts shall be sufficient proof thereof, unless otherwise ordered by the Presiding Officer or the Administrator.

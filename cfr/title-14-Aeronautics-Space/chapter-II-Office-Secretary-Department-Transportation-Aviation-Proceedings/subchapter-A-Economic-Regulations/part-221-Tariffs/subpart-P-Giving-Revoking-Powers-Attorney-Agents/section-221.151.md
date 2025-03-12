@@ -1,0 +1,9 @@
+##### § 221.151 Method of revoking power of attorney. #####
+
+(a) A power of attorney may be revoked only by filing with the Department in the manner specified in this section a Notice of Revocation of Power of Attorney in a form acceptable to the Office of International Aviation.
+
+(b) *Sixty days' notice required.* Such Notice of Revocation of Power of Attorney shall be filed on not less than sixty days' notice to the Department. A Notice of Revocation of Power of Attorney will be deemed to be filed only upon its actual receipt by the Department, and the period of notice shall commence to run only from such actual receipt.
+
+(c) *Number of copies.* Each Notice of Revocation of Power of Attorney shall be prepared in triplicate. The original thereof shall be filed with the Department and, at the same time that the original is transmitted to the Department, the duplicate thereof shall be sent to the agent in whose favor the power of attorney was issued (except, if the alternate agent has taken over the tariffs, the duplicate of the Notice of Revocation of Power of Attorney shall be sent to the alternate agent). The third copy of the notice shall be retained by the carrier.
+
+(d) *Amendment of tariffs when power of attorney is revoked.* When a power of attorney is revoked, a corresponding amendment of the tariff or tariffs affected shall be made by the issuing agent of such tariffs, on not less than statutory notice, to become effective not later than the effective date stated in the Notice of Revocation of Power of Attorney. In the event of failure to so amend the tariff or tariffs, the provisions therein shall remain applicable until lawfully canceled.

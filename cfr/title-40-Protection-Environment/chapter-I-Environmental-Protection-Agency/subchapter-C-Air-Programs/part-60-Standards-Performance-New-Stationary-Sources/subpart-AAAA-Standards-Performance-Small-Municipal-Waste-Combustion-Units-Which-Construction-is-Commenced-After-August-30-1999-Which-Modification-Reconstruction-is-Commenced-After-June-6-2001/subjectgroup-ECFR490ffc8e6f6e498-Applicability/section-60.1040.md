@@ -1,0 +1,3 @@
+##### § 60.1040 Do all five components of these new source performance standards apply at the same time? #####
+
+No, you must meet the preconstruction requirements before you commence construction of the municipal waste combustion unit. After the municipal waste combustion unit begins operation, you must meet all of the good combustion practices, emission limits, monitoring, stack testing, and most recordkeeping and reporting requirements.

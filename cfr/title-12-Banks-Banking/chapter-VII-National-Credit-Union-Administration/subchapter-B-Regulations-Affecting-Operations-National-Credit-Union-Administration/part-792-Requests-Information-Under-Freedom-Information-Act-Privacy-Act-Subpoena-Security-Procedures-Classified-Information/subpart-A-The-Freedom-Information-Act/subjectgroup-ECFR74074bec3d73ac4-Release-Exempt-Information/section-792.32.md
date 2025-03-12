@@ -1,0 +1,3 @@
+##### § 792.32 Can exempt records be disclosed to investigatory agencies? #####
+
+The NCUA Board, or any person designated by it in writing, in its discretion and in appropriate circumstances, may disclose to proper federal or state authorities copies of exempt records pertaining to irregularities discovered in credit unions which may constitute either unsafe or unsound practices or violations of federal or state, civil or criminal law.

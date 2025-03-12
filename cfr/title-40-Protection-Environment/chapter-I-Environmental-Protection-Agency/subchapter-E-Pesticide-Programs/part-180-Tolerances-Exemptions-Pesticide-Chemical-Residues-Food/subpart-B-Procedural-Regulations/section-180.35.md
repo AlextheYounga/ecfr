@@ -1,0 +1,3 @@
+##### § 180.35 Tests for potentiation. #####
+
+Experiments have shown that certain cholinesterase-inhibiting pesticides when fed together to test animals are more toxic than the sum of their individual toxicities when fed separately. One substance potentiates the toxicity of the other. Important toxicological interactions also have been observed between pesticides and other substances. Wherever there is reason to believe that a pesticide chemical for which a tolerance is proposed may interact with other pesticide chemicals or other substances to which man is exposed, it may be necessary to require special experimental data regarding potentiation capacities to evaluate the safety of the proposed tolerance. This necessarily will be determined on a case-by-case basis.

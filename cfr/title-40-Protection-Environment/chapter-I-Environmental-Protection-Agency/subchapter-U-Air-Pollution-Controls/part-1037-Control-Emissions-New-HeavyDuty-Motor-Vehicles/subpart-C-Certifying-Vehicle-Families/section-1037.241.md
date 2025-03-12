@@ -1,0 +1,11 @@
+##### § 1037.241 Demonstrating compliance with exhaust emission standards for greenhouse gas pollutants. #####
+
+(a) Compliance determinations for purposes of certification depend on whether or not you participate in the ABT program in subpart H of this part.
+
+(1) If none of your vehicle families generate or use emission credits in a given model year, each of your vehicle families is considered in compliance with the CO2 emission standards in §§ 1037.105 and 1037.106 if all vehicle configurations in the family have modeled CO2 emission rates from § 1037.520 that are at or below the applicable standards. A vehicle family is deemed not to comply if any vehicle configuration in the family has a modeled CO2 emission rate that is above the applicable standard.
+
+(2) If you generate or use emission credits with one or more vehicle families in a given model year, your vehicle families within an averaging set are considered in compliance with the CO2 emission standards in §§ 1037.105 and 1037.106 if the sum of positive and negative credits for all vehicle configurations in those vehicle families lead to a zero balance or a positive balance of credits, except as allowed by § 1037.745. Note that the FEL is considered to be the applicable emission standard for an individual configuration.
+
+(b) We may require you to provide an engineering analysis showing that the performance of your emission controls will not deteriorate during the useful life with proper maintenance. If we determine that your emission controls are likely to deteriorate during the useful life, we may require you to develop and apply deterioration factors consistent with good engineering judgment. For example, you may need to apply a deterioration factor to address deterioration of battery performance for a hybrid vehicle. Where the highest useful life emissions occur between the end of useful life and at the low-hour test point, base deterioration factors for the vehicles on the difference between (or ratio of) the point at which the highest emissions occur and the low-hour test point.
+
+[89 FR 29777, Apr. 22, 2024]

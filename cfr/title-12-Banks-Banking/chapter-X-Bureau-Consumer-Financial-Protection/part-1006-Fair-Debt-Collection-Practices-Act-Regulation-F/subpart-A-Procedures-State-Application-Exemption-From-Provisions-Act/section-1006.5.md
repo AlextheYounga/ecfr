@@ -1,0 +1,3 @@
+##### § 1006.5 Public notice of filing. #####
+
+In connection with any application that has been filed in accordance with the requirements of §§ 1006.2 and 1006.3 of this part and following initial review of the application, a notice of such filing shall be published by the Bureau in the Federal Register, and a copy of such application shall be made available for examination by interested persons during business hours at the Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006. A period of time shall be allowed from the date of such publication for interested parties to submit written comments to the Bureau regarding that application.

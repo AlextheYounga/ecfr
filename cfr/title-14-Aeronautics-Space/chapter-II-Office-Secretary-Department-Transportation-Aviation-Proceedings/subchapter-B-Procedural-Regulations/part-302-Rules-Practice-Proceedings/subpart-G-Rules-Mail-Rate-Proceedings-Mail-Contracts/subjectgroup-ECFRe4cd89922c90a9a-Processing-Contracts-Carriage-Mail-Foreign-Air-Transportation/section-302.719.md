@@ -1,0 +1,3 @@
+##### § 302.719 Explanation and data supporting the contract. #####
+
+Each contract filed pursuant to this subpart shall be accompanied by economic data and such other information in support of the contract upon which the filing air carrier intends that the Department rely, including, in cases where pertinent, estimates of the annual volume of contract mail (weight and ton-miles) under the proposed contract, the nature of such mail (letter mail, parcel post, third class, etc.), together with a statement as to the extent to which this traffic is new or diverted from existing classes of air and surface mail services and the priority assigned to this class of mail.

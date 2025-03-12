@@ -1,0 +1,37 @@
+##### § 26.53 General provisions. #####
+
+(a) In order to grant authorization to an individual, a licensee or other entity shall ensure that the requirements in this subpart have been met for either initial authorization, authorization update, authorization reinstatement, or authorization with potentially disqualifying FFD information, as applicable.
+
+(b) For individuals who have previously held authorization under this part but whose authorization has since been favorably terminated, the licensee or other entity shall implement the requirements for either initial authorization, authorization update, or authorization reinstatement, based on the total number of days that the individual's authorization is interrupted, to include the day after the individual's last period of authorization was terminated and the intervening days until the day on which the licensee or other entity grants authorization to the individual. If potentially disqualifying FFD information is disclosed or discovered about an individual, licensees and other entities shall implement the applicable requirements in § 26.69 in order to grant or maintain an individual's authorization.
+
+(c) The licensee or other entity shall ensure that an individual has met the applicable FFD training requirements in §§ 26.29 and 26.203(c) before granting authorization to the individual.
+
+(d) Licensees and other entities who are seeking to grant authorization to an individual who is maintaining authorization under another FFD program that is implemented by a licensee or entity who is subject to this subpart may rely on the transferring FFD program to satisfy the requirements of this subpart. The individual may maintain his or her authorization if he or she continues to be subject to either the receiving FFD program or the transferring FFD program, or a combination of elements from both programs that collectively satisfy the applicable requirements of this part. The receiving FFD program shall ensure that the program elements to which the individual is subject under the transferring FFD program remain current.
+
+(e) Licensees and other entities in § 26.3(a) through (c) may also rely on a C/V's FFD program or program elements when granting or maintaining the authorization of an individual who is or has been subject to the C/V's FFD program, if the C/V's program or program elements meet the applicable requirements of this part.
+
+(1) A C/V's FFD program may grant and maintain an individual's authorization, as defined in § 26.5, under the C/V's FFD program. However, only a licensee or other entity in § 26.3(a) through (c) may grant or maintain an individual's authorization to have the types of access or perform the duties specified in § 26.4(a) through (e) and (g), and, at the licensee's or other entity's discretion, § 26.4(f).
+
+(2) If a C/V's FFD program denies or unfavorably terminates an individual's authorization, and the individual is performing any duties for a licensee or other entity that are specified in § 26.4(a) through (e) and (g), or, at the licensee's or other entity's discretion, § 26.4(f), then the C/V shall inform the affected licensee or other entity of the denial or unfavorable termination. The licensee or other entity shall deny or unfavorably terminate the individual's authorization to perform those duties on the day that the licensee or other entity receives the information from the C/V, or implement the applicable process in § 26.69 to maintain the individual's authorization.
+
+(3) If an individual is maintaining authorization under a C/V's FFD program, a licensee or other entity in § 26.3(a) through (c) may grant authorization to the individual to have the types of access and perform the duties specified in § 26.4(a) through (e) and (g), and, at the licensee's or other entity's discretion, § 26.4(f), and maintain his or her authorization, if the individual continues to be subject to either the receiving FFD program or a combination of elements from the receiving FFD program and the C/V's program that collectively satisfy the applicable requirements of this part. The receiving licensee's or other entity's FFD program shall ensure that the program elements to which the individual is subject under the C/V's FFD program remain current.
+
+(f) Licensees and other entities who are seeking to grant authorization to an individual who has been subject to an FFD program under subpart K may not rely on that program or its program elements to meet the requirements of this subpart, except if the program or program element(s) of the FFD program for construction satisfy the applicable requirements of this part.
+
+(g) The licensees and other entities specified in § 26.3(a) and, as applicable, (c) and (d), shall identify any violation of any requirement of this part to any licensee who has relied on or intends to rely on the FFD program element that is determined to be in violation of this part.
+
+(h) The licensees and other entities specified in § 26.3(a) and, as applicable, (c) and (d), may not initiate any actions under this subpart without the knowledge and written consent of the subject individual. The individual may withdraw his or her consent at any time. If an individual withdraws his or her consent, the licensee or other entity may not initiate any elements of the authorization process specified in this subpart that were not in progress at the time the individual withdrew his or her consent, but shall complete and document any elements that are in progress at the time consent is withdrawn. The licensee or other entity shall record the individual's application for authorization; his or her withdrawal of consent; the reason given by the individual for the withdrawal, if any; and any pertinent information gathered from the elements that were completed (e.g., the results of pre-access drug tests, information obtained from the suitable inquiry). The licensee or other entity to whom the individual has applied for authorization shall inform the individual that—
+
+(1) Withdrawal of his or her consent will withdraw the individual's current application for authorization under the licensee's or other entity's FFD program; and
+
+(2) Other licensees and entities will have access to information documenting the withdrawal as a result of the information sharing that is required under this part.
+
+(i) The licensees and other entities specified in § 26.3(a) and, as applicable, (c) and(d), shall inform, in writing, any individual who is applying for authorization that the following actions related to providing and sharing the personal information required under this subpart are sufficient cause for denial or unfavorable termination of authorization:
+
+(1) Refusal to provide written consent for the suitable inquiry;
+
+(2) Refusal to provide or the falsification of any personal information required under this part, including, but not limited to, the failure to report any previous denial or unfavorable termination of authorization;
+
+(3) Refusal to provide written consent for the sharing of personal information with other licensees or other entities required under this part; and
+
+(4) Failure to report any legal actions, as defined in § 26.5.

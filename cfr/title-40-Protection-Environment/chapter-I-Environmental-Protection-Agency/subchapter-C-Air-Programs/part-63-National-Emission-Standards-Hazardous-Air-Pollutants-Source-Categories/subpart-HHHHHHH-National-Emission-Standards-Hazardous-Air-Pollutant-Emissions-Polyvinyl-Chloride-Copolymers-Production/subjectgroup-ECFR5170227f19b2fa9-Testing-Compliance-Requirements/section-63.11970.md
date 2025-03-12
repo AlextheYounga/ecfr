@@ -1,0 +1,5 @@
+##### § 63.11970 What are my initial compliance requirements for process wastewater? #####
+
+(a) *Demonstration of initial compliance for process wastewater streams that must be treated.* For each process wastewater stream that must be treated as specified in § 63.11965(b) and (c), you must conduct an initial performance test for the wastewater treatment process, measuring the concentration of vinyl chloride and total non-vinyl chloride organic HAP in the wastewater stream at the outlet of the wastewater treatment process before the wastewater is exposed to the atmosphere, mixed with any other process stream, and before being discharged from the affected facility, using the test method(s) and procedures specified in § 63.11980(a).
+
+(b) *Demonstration of initial compliance for process wastewater streams that are not required to be treated.* For each process wastewater stream that has a vinyl chloride or total non-vinyl chloride organic HAP concentration less than the limits specified in Tables 1 or 2 to this subpart, you must use the measurement specified in § 63.11965(b)(1)(ii) to demonstrate initial compliance.

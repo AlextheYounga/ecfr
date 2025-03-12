@@ -1,0 +1,3 @@
+##### § 269a.1 Party. #####
+
+The term *Party* means any person, employee, group of employees, labor organization, or bank as defined in § 269.2 of this chapter (a) filing a charge, petition, application, or rquest pursuant to these rules and regulations, (b) named as a party in a charge, complaint, petition, application, or request, or (c) whose intervention has been permitted or directed by the investigator, the hearing officer, or the panel, as the case may be, but nothing shall be construed to prevent the panel, or any officer designated by it, from limiting any party's participation in the proceedings to the extent of his interest as determined by the investigator, hearing officer, or panel.

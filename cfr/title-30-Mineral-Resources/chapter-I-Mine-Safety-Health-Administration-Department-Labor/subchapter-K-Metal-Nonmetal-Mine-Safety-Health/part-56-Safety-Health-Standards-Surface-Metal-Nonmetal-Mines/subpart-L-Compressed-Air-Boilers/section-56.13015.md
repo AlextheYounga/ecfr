@@ -1,0 +1,5 @@
+##### § 56.13015 Inspection of compressed-air receivers and other unfired pressure vessels. #####
+
+(a) Compressed-air receivers and other unfired pressure vessels shall be inspected by inspectors holding a valid National Board Commission and in accordance with the applicable chapters of the National Board Inspection Code, a Manual for Boiler and Pressure Vessel Inspectors, 1979. This code is incorporated by reference and made a part of this standard. It may be examined at any Metal and Nonmetal Mine Safety and Health District Office of the Mine Safety and Health Administration, and may be obtained from the publisher, the National Board of Boiler and Pressure Vessel Inspector, 1055 Crupper Avenue, Columbus, Ohio 43229.
+
+(b) Records of inspections shall be kept in accordance with requirements of the National Board Inspection Code, and the records shall be made available to the Secretary or his authorized representative.

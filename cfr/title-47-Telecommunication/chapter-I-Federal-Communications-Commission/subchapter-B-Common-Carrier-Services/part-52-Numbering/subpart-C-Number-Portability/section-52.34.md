@@ -1,0 +1,9 @@
+##### § 52.34 Obligations regarding local number porting to and from interconnected VoIP or Internet-based TRS providers. #####
+
+(a) An interconnected VoIP or VRS or IP Relay provider must facilitate an end-user customer's or a Registered Internet-based TRS User's valid number portability request, as it is defined in this subpart, either to or from a telecommunications carrier or an interconnected VoIP or VRS or IP Relay provider. “Facilitate” is defined as the interconnected VoIP or VRS or IP Relay provider's affirmative legal obligation to take all steps necessary to initiate or allow a port-in or port-out itself or through the telecommunications carriers, if any, that it relies on to obtain numbering resources, subject to a valid port request, without unreasonable delay or unreasonable procedures that have the effect of delaying or denying porting of the NANP-based telephone number.
+
+(b) An interconnected VoIP or VRS or IP Relay provider may not enter into any agreement that would prohibit an end-user customer or a Registered Internet-based TRS User from porting between interconnected VoIP or VRS or IP Relay providers, or to or from a telecommunications carrier.
+
+(c) Telecommunications carriers must facilitate an end-user customer's valid number portability request either to or from an interconnected VoIP or VRS or IP Relay provider. “Facilitate” is defined as the telecommunication carrier's affirmative legal obligation to take all steps necessary to initiate or allow a port-in or port-out itself, subject to a valid port request, without unreasonable delay or unreasonable procedures that have the effect of delaying or denying porting of the NANP-based telephone number.
+
+[73 FR 9481, Feb. 21, 2008, as amended at 73 FR 41294, July 18, 2008; 80 FR 66479, Oct. 29, 2015]

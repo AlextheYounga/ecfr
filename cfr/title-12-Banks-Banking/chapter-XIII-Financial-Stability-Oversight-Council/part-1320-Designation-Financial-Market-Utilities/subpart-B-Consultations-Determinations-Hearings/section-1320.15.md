@@ -1,0 +1,5 @@
+##### § 1320.15 Notification of final determination regarding systemic importance. #####
+
+(a) *Notification of final determination after a hearing.* Within 60 calendar days of the hearing date, the Council shall provide to the financial market utility written notification of the final determination of the Council under § 1320.13, which shall include findings of fact upon which the determination of the Council is based.
+
+(b) *Notification of final determination if no hearing.* If the Council does not receive a timely request for a hearing under § 1320.12, the Council shall provide the financial market utility written notification of the final determination of the Council under § 1320.13 not later than 30 calendar days after the expiration of the date by which a financial market utility could have requested a hearing.

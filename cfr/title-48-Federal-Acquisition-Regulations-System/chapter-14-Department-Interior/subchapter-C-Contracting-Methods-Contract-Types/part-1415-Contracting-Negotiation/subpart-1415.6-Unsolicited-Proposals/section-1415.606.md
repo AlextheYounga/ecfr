@@ -1,0 +1,3 @@
+##### 1415.606 Agency procedures. #####
+
+The contact point for the receipt and coordination of unsolicited proposals is the contracting office, which will acknowledge and review the proposal contents and determine the proper activity within the bureau/office to evaluate and process the proposal. The policy or contracting office shall acknowledge unsolicited proposals and forward each one to the processing activity in an expeditious manner. Each bureau/office shall establish procedures for receipt, reproduction and disposition of unsolicited proposals consistent with the requirements of FAR 15.6.

@@ -1,0 +1,3 @@
+##### § 845.301 Conditions for waiver. #####
+
+Recovery of an overpayment from the Fund may be waived pursuant to section 8470(b), of title 5, United States Code, when (a) the annuitant is without fault and (b) recovery would be against equity and good conscience. When it has been determined that the recipient of an overpayment is ineligible for waiver, the individual is nevertheless entitled to an adjustment in the recovery schedule if he or she shows that it would cause him or her financial hardship to make payment at the rate scheduled.

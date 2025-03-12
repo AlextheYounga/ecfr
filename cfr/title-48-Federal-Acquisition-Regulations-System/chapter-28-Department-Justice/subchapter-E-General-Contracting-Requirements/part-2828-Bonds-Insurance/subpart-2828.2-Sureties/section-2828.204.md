@@ -1,0 +1,3 @@
+##### 2828.204 Alternatives in lieu of corporate or individual sureties. #####
+
+When contractors submit any of the types of security described in FAR 28.204-1 through 28.204-3 in lieu of furnishing sureties, the contracting officer shall enter into an agreement with the contractor covering a bank account, and suitable covenants protecting the Government's interest, in which the securities will be deposited to protect against their loss during the period of the bond obligation.

@@ -1,0 +1,3 @@
+##### 1401.7001-2 Legal review by the Office of the Solicitor. #####
+
+The Office of the Solicitor (SOL) will review for legal sufficiency selected types and portions of contract actions from Bureaus and offices as required by the FAR, DIAR, and Department-wide policy. COs may request SOL advice or guidance on acquisition-related matters at any time. Matters related to legal sufficiency reviews that cannot be resolved between the respective CO and SOL Attorney-Advisor must be submitted for resolution to the HCA and the Assistant Solicitor for Acquisitions and Intellectual Property, Washington, DC.

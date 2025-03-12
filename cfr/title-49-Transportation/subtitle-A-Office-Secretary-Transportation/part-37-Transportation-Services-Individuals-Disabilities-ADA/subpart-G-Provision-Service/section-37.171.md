@@ -1,0 +1,3 @@
+##### § 37.171 Equivalency requirement for demand responsive service operated by private entities not primarily engaged in the business of transporting people. #####
+
+A private entity not primarily engaged in the business of transporting people which operates a demand responsive system shall ensure that its system, when viewed in its entirety, provides equivalent service to individuals with disabilities, including individuals who use wheelchairs, as it does to individuals without disabilities. The standards of § 37.105 shall be used to determine if the entity is providing equivalent service.

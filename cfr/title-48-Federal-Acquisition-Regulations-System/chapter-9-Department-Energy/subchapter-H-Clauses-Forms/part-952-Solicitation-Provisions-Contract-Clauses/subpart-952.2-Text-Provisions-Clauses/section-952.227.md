@@ -1,0 +1,1 @@
+##### 952.227 Provisions and clauses related to patents, technical data and copyrights. #####

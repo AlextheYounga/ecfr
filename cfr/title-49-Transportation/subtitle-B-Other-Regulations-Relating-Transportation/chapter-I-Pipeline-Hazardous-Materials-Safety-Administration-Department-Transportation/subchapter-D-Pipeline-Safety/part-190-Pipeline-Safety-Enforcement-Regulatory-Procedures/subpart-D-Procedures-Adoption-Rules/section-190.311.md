@@ -1,0 +1,3 @@
+##### § 190.311 General. #####
+
+Unless the Administrator, for good cause, finds that notice is impracticable, unnecessary, or contrary to the public interest, and incorporates that finding and a brief statement of the reasons for it in the rule, a notice of proposed rulemaking is issued and interested persons are invited to participate in the rulemaking proceedings with respect to each substantive rule.

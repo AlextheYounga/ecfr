@@ -1,0 +1,3 @@
+##### § 61.43 Protection of individuals during operations. #####
+
+Operations at the land disposal facility must be conducted in compliance with the standards for radiation protection set out in part 20 of this chapter, except for releases of radioactivity in effluents from the land disposal facility, which shall be governed by § 61.41 of this part. Every reasonable effort shall be made to maintain radiation exposures as low as is reasonably achievable.

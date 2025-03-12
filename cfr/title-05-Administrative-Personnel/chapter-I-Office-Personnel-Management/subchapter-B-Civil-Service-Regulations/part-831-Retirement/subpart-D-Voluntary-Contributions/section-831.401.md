@@ -1,0 +1,3 @@
+##### § 831.401 Purpose and scope. #####
+
+This subpart describes the procedures that employees and Members must follow in making voluntary contributions under the Civil Service Retirement System (CSRS). This subpart also describes the procedures that the Office of Personnel Management (OPM) will follow in accepting voluntary contributions, crediting interest on voluntary contribution accounts, and paying benefits based on voluntary contributions.

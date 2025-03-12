@@ -1,0 +1,3 @@
+##### § 412.260 Time and place of the oral hearing. #####
+
+If the MGCRB decides that an oral hearing is necessary, it sets the time and place for the hearing and notifies the parties in writing, with a copy to CMS, not less than 10 days before the time scheduled for the hearing. The MGCRB may reschedule, adjourn, postpone, or reconvene the hearing provided that reasonable written notice is given to the parties, with a copy to CMS.

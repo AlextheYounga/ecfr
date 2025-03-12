@@ -1,0 +1,7 @@
+##### 1339.107-70 Information security. #####
+
+(a) For all service acquisitions over the micro-purchase threshold, contracting professionals shall coordinate with the designated Contracting Officer Representative (COR) to complete the *Information Security in Acquisition Checklist.*
+
+(b) When the *Information Security in Acquisition Checklist* indicates that Clause 1352.239-73, *Security Requirements for Information Technology Resources,* is needed, contracting officers shall insert the clause in the solicitation and contracts. If the checklist indicates that the Certification and Accreditation requirement in Clause 1352.239-73 is not required, the contracting officer shall include the statement “*The Certification and Accreditation (C&A) requirements of Clause 1352.239-73 do not apply, and a Security Accreditation Package is not required”* in the statement of work.
+
+(c) Contracting professionals shall insert the appropriate risk designation clause from CAM 1337.70 into DOC solicitations and contracts for services depending upon the level of contractor access privileges to DOC IT systems. In addition, contracting professionals shall document the official contract file to include the rationale for the designated risk level.

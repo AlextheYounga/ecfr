@@ -1,0 +1,13 @@
+##### § 1033.310 Sample selection for testing. #####
+
+(a) At the start of each model year, begin randomly selecting locomotives from each engine family for production line testing at a rate of one percent. Make the selection of the test locomotive after it has been assembled. Perform the testing throughout the entire model year to the extent possible, unless we specify a different schedule for your tests. For example, we may require you to disproportionately select locomotives from the early part of a model year for a new locomotive model that has not been subject to PLT previously.
+
+(1) The required sample size for an engine family (provided that no locomotive tested fails to meet applicable emission standards) is the lesser of five tests per model year or one percent of projected annual production, with a minimum sample size for an engine family of one test per model year. See paragraph (d) of this section to determine the required number of test locomotives if any locomotives fail to comply with any standards.
+
+(2) You may elect to test additional locomotives. All additional locomotives must be tested in accordance with the applicable test procedures of this part.
+
+(b) You must assemble the test locomotives using the same production process that will be used for locomotives to be introduced into commerce. You may ask us to allow special assembly procedures for catalyst-equipped locomotives.
+
+(c) Unless we approve it, you may not use any quality control, testing, or assembly procedures that you do not use during the production and assembly of all other locomotives of that family. This applies for any test locomotive or any portion of a locomotive, including engines, parts, and subassemblies.
+
+(d) If one or more locomotives fail a production line test, then you must test two additional locomotives from the next fifteen produced in that engine family for each locomotive that fails. These two additional locomotives do not count towards your minimum number of locomotives. For example, if you are required to test a minimum of four locomotives under paragraph (a) of this section and the second locomotive fails to comply with one or more standards, then you must test two additional locomotives from the next fifteen produced in that engine family. If both of those locomotives pass all standards, you are required to test two additional locomotives to complete the original minimum number of four. If they both pass, you are done with testing for that family for the year since you tested six locomotives (the four originally required plus the two additional locomotives).

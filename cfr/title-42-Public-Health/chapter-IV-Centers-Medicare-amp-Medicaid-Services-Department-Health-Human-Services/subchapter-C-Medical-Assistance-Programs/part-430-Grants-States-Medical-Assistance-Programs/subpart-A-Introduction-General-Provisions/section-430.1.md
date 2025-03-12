@@ -1,0 +1,3 @@
+##### § 430.1 Scope of subchapter C. #####
+
+The regulations in subchapter C set forth State plan requirements, standards, procedures, and conditions for obtaining Federal financial participation (FFP). Each part (or subpart of section) in the subchapter describes the specific statutory basis for the regulation. However, where the basis is the Secretary's general authority to issue regulations for any program under the Act (section 1102 of the Act), or his general authority to prescribe State plan requirements needed for proper and efficient administration of the plan (section 1902(a)(4)), those statutory provisions are simply cited without further description.

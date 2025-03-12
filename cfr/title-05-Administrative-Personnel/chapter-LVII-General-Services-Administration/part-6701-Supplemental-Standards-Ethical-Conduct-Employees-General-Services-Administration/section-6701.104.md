@@ -1,0 +1,7 @@
+##### § 6701.104 Prohibited purchases of real estate by certain GSA employees involved in the acquisition or disposal of real estate. #####
+
+(a) *General prohibition.* Except as provided in paragraphs (b) and (c) of this section, employees who personally and substantially participate in or have official responsibility for the acquisition or disposal of real estate or interests therein, shall not directly or indirectly purchase or participate as an agent or otherwise in the purchase of any real estate or interest therein.
+
+(b) *Exception.* The prohibition in paragraph (a) of this section does not apply to an employee's purchase of real estate for use as his personal or other residential property, such as a vacation home.
+
+(c) *Waiver.* An employee may make a purchase otherwise prohibited by this section where a written waiver of the prohibition has been given to the employee by the employee's immediate supervisor, with the advice of a Deputy Standards of Conduct Counsellor or the Designated Agency Ethics Official. Such a waiver may be granted only if a determination is made that the waiver is not otherwise prohibited by law or regulation, and that in the mind of a reasonable person with knowledge of the particular circumstances, the purchase of such real estate or interest therein will not raise a question as to whether the employee will use his official position or nonpublic information to obtain an advantageous purchase or create an appearance of loss of impartiality in the performance of the employee's duties.

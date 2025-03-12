@@ -1,0 +1,3 @@
+##### § 36.49 Tests of exhaust-gas dilution system. #####
+
+The performance and adequacy of the exhaust-gas dilution system shall be determined in tests of the complete equipment. The engine, at temperature equilibrium, shall be operated in normal air as prescribed by MSHA. Samples of the undiluted exhaust gas and of the diluted exhaust gas, at location(s) prescribed by MSHA, shall be considered with the data obtained from the engine test (see § 36.43) to determine that the concentrations of carbon dioxide, carbon monoxide, oxides of nitrogen, and aldehydes in the diluted exhaust shall be below the required concentrations specified in § 36.25(f)(1).

@@ -1,0 +1,3 @@
+##### § 563.12 Data retrieval tools. #####
+
+Each manufacturer of a motor vehicle equipped with an EDR shall ensure by licensing agreement or other means that a tool(s) is commercially available that is capable of accessing and retrieving the data stored in the EDR that are required by this part. The tool(s) shall be commercially available not later than 90 days after the first sale of the motor vehicle for purposes other than resale.

@@ -1,0 +1,3 @@
+##### § 838.723 OPM action on receipt of a court order not acceptable for processing. #####
+
+If OPM receives an application from a former spouse not based on a court order acceptable for processing, OPM will inform the former spouse that OPM cannot approve the application and provide the specific reason(s) for disapproving the application. Examples of reasons for disapproving an application include that the order does not meet the definition of court order in § 838.103 or does not meet one or more of the requirements of subpart H of this part.

@@ -1,0 +1,3 @@
+##### § 35.412 Allotment. #####
+
+States must reserve, each fiscal year, not less than $100,000 nor more than one percent of the State's construction grant allotment as determined by Congress for Water Quality Management Planning Grants under section 205(j)(2). However, Guam, the Virgin Islands, American Samoa and the Commonwealth of the Northern Mariana Islands must reserve a reasonable amount for this purpose. (See 40 CFR 35.3110(g)(4) regarding reserves from State allotments under Title VI of the Clean Water Act for section 205(j) grants.)

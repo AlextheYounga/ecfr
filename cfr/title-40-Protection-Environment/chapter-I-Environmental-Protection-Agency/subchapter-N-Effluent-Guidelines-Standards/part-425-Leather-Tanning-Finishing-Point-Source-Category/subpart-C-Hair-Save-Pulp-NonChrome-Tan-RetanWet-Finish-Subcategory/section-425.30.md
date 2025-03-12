@@ -1,0 +1,3 @@
+##### § 425.30 Applicability; description of the hair save or pulp, non-chrome tan, retan-wet finish subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from any tannery which processes raw or cured cattle or cattle-like hides into finished leather by hair save or pulp unhairing, vegetable tanning or alum, syntans, oils and other agents for tanning, and retan-wet finishing.

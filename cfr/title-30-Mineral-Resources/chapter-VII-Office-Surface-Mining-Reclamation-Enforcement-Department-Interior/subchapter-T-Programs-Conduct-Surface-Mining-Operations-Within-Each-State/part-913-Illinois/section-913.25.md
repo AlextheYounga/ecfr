@@ -1,0 +1,15 @@
+##### § 913.25 Approval of Illinois abandoned mine land reclamation plan amendments. #####
+
+The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
+
+|Original amendment submission date|Date of final publication|                                                                                                      Citation/description                                                                                                      |
+|----------------------------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|         January 19, 1984         |      June 11, 1984      |                                                                                                 Emergency reclamation program.                                                                                                 |
+|        September 6, 1989         |    February 14, 1990    |                                                                                                     Non-coal reclamation.                                                                                                      |
+|          June 29, 1990           |    November 2, 1990     |                                                         Procedures for public participation, ranking and selection of reclamation projects, liens, bids and contracts.                                                         |
+|         August 13, 1992          |    January 14, 1993     |                                                                                               Ch. 961/2, par. 8001.03; 8002.13.                                                                                                |
+|           July 2, 1993           |   September 21, 1993    |                                                                                           20 ILCS 1920 §§ 2.11, .13; 62 IAC 2501.37.                                                                                           |
+|          April 10, 1995          |      July 11, 1995      |                                                                       Executive Order No. 2 (1995), part I(C); part II(D); part III(A), (C); part IV(F).                                                                       |
+|         October 22, 1998         |    January 22, 1999     |Illinois Plan Narrative; 62 IAC 2501.1, .4, .7, .8, .10, .11, .13, .16, .19, .22, .25, .28, .31, and .40; 44 IAC 1150.10, 20, .30, .100, .200, .300, .400, .500, .700, .800, .900, .1000, .1100, .1200, .1300, .1325, and .1350.|
+
+[62 FR 9938, Mar. 5, 1997, as amended at 64 FR 3419, Jan. 22, 1999; 69 FR 42870, July 19, 2004]

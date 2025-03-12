@@ -1,0 +1,3 @@
+##### § 63.151 General requirements. #####
+
+Operations of systems and components that have been identified as important to safety in the Safety Analysis Report and in the license must be performed only by trained and certified personnel or by personnel under the direct visual supervision of an individual with training and certification in such operation. Supervisory personnel who direct operations that are important to safety must also be certified in such operations.

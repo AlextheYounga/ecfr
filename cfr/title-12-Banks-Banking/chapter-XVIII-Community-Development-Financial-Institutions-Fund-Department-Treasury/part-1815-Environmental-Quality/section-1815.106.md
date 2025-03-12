@@ -1,0 +1,7 @@
+##### § 1815.106 Supplemental environmental review. #####
+
+(a) The designated Fund official shall determine whether the proposed actions in the Application are sufficiently definite to perform a meaningful environmental review during the preliminary approval stage.
+
+(b) If the designated Fund official determines that the Application is sufficiently definite to perform a meaningful environmental review during the preliminary approval stage, no conditions for supplemental environmental review shall be imposed.
+
+(c) If the designated Fund official determines that the Application, or any part of the Application, is not sufficiently definite to complete a meaningful environmental review during the preliminary approval stage, the Fund shall require a supplemental environmental review prior to the taking of any action directly using Fund financial assistance that is not categorically excluded from environmental review or for which an environmental assessment or EIS has not been approved by the Fund. The applicant shall notify the designated Fund official when proposing any action requiring a supplemental environmental review and shall supply to the Fund all information necessary for the Fund to perform the supplemental environmental review. The Fund shall perform or have performed such a supplemental environmental review. The applicant shall not use any Fund financial assistance to perform any of the proposed actions requiring a supplemental environmental review that affect the physical environment until Fund approval for such action is received.

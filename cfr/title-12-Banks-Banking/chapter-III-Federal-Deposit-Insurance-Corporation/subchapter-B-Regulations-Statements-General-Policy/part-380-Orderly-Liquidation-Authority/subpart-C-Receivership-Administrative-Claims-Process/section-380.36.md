@@ -1,0 +1,5 @@
+##### § 380.36 Decision period. #####
+
+(a) *In general.* Prior to the 180th day after the date on which a claim against a covered financial company or the Corporation as receiver is filed with the receiver, the receiver shall notify the claimant whether it allows or disallows the claim.
+
+(b) *Extension of time.* The 180-day period described in paragraph (a) of this section may be extended by a written agreement between the claimant and the Corporation as receiver executed not later than 180 days after the date on which the claim against the covered financial company or the receiver is filed with the receiver. If an extension is agreed to, the Corporation as receiver shall notify the claimant whether it allows or disallows the claim prior to the end of the extended claims determination period.

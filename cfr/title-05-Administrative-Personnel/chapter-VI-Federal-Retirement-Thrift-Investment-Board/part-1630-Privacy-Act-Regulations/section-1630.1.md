@@ -1,0 +1,3 @@
+##### § 1630.1 Purpose and scope. #####
+
+These regulations implement the Privacy Act of 1974, 5 U.S.C. 552a. The regulations apply to all records maintained by the Federal Retirement Thrift Investment Board that are contained in a system of records and that contain information about an individual. The regulations establish procedures that (a) authorize an individual's access to records maintained about him or her; (b) limit the access of other persons to those records; and (c) permit an individual to request the amendment or correction of records about him or her.

@@ -1,0 +1,11 @@
+##### § 9.202 Procedure in the event of a demand for production or disclosure. #####
+
+(a) Prior to or simultaneous with a demand upon an employee of the NRC for the production of material or the disclosure of information described in § 9.200, the party seeking production or disclosure shall serve the General Counsel of the NRC with an affidavit or statement as described in paragraphs (b) (1) and (2) of this section. Except for employees in the Office of Inspector General, whenever a demand is made upon an employee of the NRC for the production of material or the disclosure of information described in § 9.200, that employee shall immediately notify the General Counsel. If the demand is made upon a regional NRC employee, that employee shall immediately notify the Regional Counsel who, in turn, shall immediately request instructions from the General Counsel. If the demand is made upon an employee in the Office of Inspector General, that employee shall immediately notify the Inspector General. The Inspector General shall immediately provide a copy of the demand to the General Counsel, and as deemed necessary, consult with the General Counsel.
+
+(b)(1) If oral testimony is sought by the demand, a summary of the testimony desired must be furnished to the General Counsel by a detailed affidavit or, if that is not feasible, a detailed statement by the party seeking the testimony or the party's attorney. This requirement may be waived by the General Counsel in appropriate circumstances.
+
+(2) The General Counsel may request a plan from the party seeking discovery of all demands then reasonably foreseeable, including but not limited to, names of all NRC personnel from whom discovery is or will be sought, areas of inquiry, length of time away from duty involved, and identification of documents to be used in each deposition, where appropriate.
+
+(c) The Inspector General or the General Counsel will notify the employee and such other persons, as circumstances may warrant, of the decision on the matter.
+
+[50 FR 37645, Sept. 17, 1985, as amended at 55 FR 33648, Aug. 17, 1990]

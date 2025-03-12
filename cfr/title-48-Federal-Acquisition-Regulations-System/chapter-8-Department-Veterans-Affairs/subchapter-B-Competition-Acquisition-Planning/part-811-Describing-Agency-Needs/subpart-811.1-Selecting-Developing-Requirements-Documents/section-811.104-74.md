@@ -1,0 +1,5 @@
+##### 811.104-74 Bid evaluation and award. #####
+
+(a) A bid offering products that differ from brand name products referenced in a “brand name or equal” purchase description must be considered for award if the contracting officer determines in accordance with the terms of the clause at 852.211-73, Brand name or equal, that the offered products are clearly identified in the bid and are equal in all material respects to the products specified.
+
+(b) In award documents, the contracting officer must include, or incorporate by reference, an identification of the specific products that the contractor is to furnish. The identification must include any brand name and make or model number, descriptive material, and any modifications of brand name products specified in the bid. This requirement also applies when the descriptions of the end items contain “brand name or equal” purchase descriptions of component parts or of accessories related to the end item, and the clause at 852.211-73, Brand name or equal, was applied to the component parts or accessories (see 811.104-72).

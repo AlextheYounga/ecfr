@@ -1,0 +1,3 @@
+##### § 674.31 Triennial audits: general requirements. #####
+
+At least once every three years, an SSOA must conduct a complete audit of an RTA's compliance with its Public Transportation Agency Safety Plan. Alternatively, an SSOA may conduct the audit on an on-going basis over the three-year timeframe. At the conclusion of the three-year audit cycle, the SSOA shall issue a report with findings and recommendations arising from the audit, which must include, at minimum, an analysis of the effectiveness of the Public Transportation Agency Safety Plan, recommendations for improvements, and a corrective action plan, if necessary or appropriate. The RTA must be given an opportunity to comment on the findings and recommendations.

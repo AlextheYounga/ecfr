@@ -1,0 +1,5 @@
+##### § 9.203 Procedure where response to demand is required prior to receiving instructions. #####
+
+If a response to the demand is required before the instructions from the Inspector General or the General Counsel are received, a U.S. attorney or NRC attorney designated for the purpose shall appear with the employee of the NRC upon whom the demand has been made, and shall furnish the court or other authority with a copy of the regulations contained in this subpart and inform the court or other authority that the demand has been, or is being, as the case may be, referred for the prompt consideration of the appropriate NRC official and shall respectfully request the court or authority to stay the demand pending receipt of the requested instructions. In the event that an immediate demand for production or disclosure is made in circumstances which would preclude the proper designation or appearance of a U.S. or NRC attorney on the employee's behalf, the employee shall respectfully request the demanding authority for sufficient time to obtain advice of counsel.
+
+[55 FR 33649, Aug. 17, 1990]

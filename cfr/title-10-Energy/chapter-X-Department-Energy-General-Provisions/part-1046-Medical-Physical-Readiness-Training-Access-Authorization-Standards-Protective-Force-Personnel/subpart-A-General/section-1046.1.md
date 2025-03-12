@@ -1,0 +1,3 @@
+##### § 1046.1 Purpose. #####
+
+This part establishes the medical, physical readiness, training and performance standards for contractor protective force (PF) personnel who provide security services at Department of Energy (DOE or Department) facilities including the National Nuclear Security Administration (NNSA). DOE and NNSA may choose to incorporate elements of these standards into Federal protective force programs.

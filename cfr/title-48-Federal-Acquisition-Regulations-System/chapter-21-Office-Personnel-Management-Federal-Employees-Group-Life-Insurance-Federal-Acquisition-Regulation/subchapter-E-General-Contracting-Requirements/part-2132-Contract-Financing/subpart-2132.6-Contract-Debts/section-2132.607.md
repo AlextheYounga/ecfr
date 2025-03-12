@@ -1,0 +1,3 @@
+##### 2132.607 Tax credit. #####
+
+FAR 32.607 has no practical application to FEGLI Program contracts. The statutory provisions at 5 U.S.C. 8707 and 8708 authorize joint enrollee and Government contributions to the Employees' Life Insurance Fund. Because the Fund is comprised of contributions by enrollees as well as the Government, contractors may not offset debts to the Fund by a tax credit that is solely a Government obligation.

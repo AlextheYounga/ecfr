@@ -1,0 +1,7 @@
+##### § 831.1105 Answer; request for hearing. #####
+
+(a) The annuitant has 30 calendar days from the day he receives the notice within which to submit an answer and to request a hearing. The Associate Director may extend this time limit for good cause shown. If the annuitant answers, he shall specifically admit, deny, or explain each fact alleged in the notice, unless he states that he is without knowledge. If a hearing is desired, the annuitant must file a specific request therefor with or as a part of his answer.
+
+(b) An annuitant who fails to answer or to request a hearing within the time permitted under paragraph (a) of this section is considered to have waived his right to answer or to a hearing. If an annuitant neither answers nor requests a hearing within the time permitted, or answers but fails to request a hearing, the Associate Director shall decide the case on the basis of the administrative record, including the notice and any documents, affidavits, or other relevant evidence. The decision of the Associate Director shall (1) be served on the annuitant or his counsel by certified or registered mail; (2) include a statement of findings and conclusions with the reasons therefor; and (3) become the final decision of OPM unless the case is appealed or reviewed pursuant to § 831.1111.
+
+[34 FR 17618, Oct. 31, 1969]

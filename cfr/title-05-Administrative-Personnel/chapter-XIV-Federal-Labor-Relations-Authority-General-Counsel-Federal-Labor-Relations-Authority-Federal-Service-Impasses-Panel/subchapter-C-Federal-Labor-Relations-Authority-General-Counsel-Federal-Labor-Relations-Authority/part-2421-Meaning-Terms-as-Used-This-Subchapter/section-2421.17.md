@@ -1,0 +1,3 @@
+##### § 2421.17 Regular and substantially equivalent employment. #####
+
+*Regular and substantially equivalent employment* means employment that entails substantially the same amount of work, rate of pay, hours, working conditions, location of work, kind of work, and seniority rights, if any, of an employee prior to the cessation of employment in an agency because of any unfair labor practice under 5 U.S.C. 7116.

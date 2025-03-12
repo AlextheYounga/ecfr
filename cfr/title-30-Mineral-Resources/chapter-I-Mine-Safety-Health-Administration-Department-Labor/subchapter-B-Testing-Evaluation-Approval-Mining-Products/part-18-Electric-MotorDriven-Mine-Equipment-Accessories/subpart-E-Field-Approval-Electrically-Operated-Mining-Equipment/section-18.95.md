@@ -1,0 +1,3 @@
+##### § 18.95 Approval of machines constructed of components approved, accepted or certified under Bureau of Mines Schedule 2D, 2E, 2F, or 2G. #####
+
+Machines for which field approval is sought which are constructed entirely from properly identified components that have been investigated and accepted or certified for applications on approved machines under the Bureau of Mines Schedule 2D, 2E, 2F, or 2G, shall be approved following a determination by the electrical representative that the construction of the entire machine is permissible and conforms to the data submitted in accordance with § 18.94.

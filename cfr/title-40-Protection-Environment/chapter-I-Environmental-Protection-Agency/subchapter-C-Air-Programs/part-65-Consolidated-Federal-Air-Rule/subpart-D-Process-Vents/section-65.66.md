@@ -1,0 +1,19 @@
+##### § 65.66 Recordkeeping provisions. #####
+
+(a) *TRE index value records.* The owner or operator shall maintain records of measurements, engineering assessments, and calculations performed to determine the TRE index value of the process vent according to the procedures of § 65.64(h), including those records associated with halogen vent stream determination. Documentation of engineering assessments shall include all data, assumptions, and procedures used for the engineering assessments, as specified in § 65.64(i). As specified in § 65.67(a), the owner or operator shall include this information in the Initial Compliance Status Report.
+
+(b) *Flow rate records.* Each owner or operator who elects to demonstrate that a process vent is Group 2B based on a flow rate less than 0.011 standard cubic meter per minute (0.40 standard cubic foot per minute) shall record the flow rate as measured using the sampling site and flow rate determination procedures specified in § 65.64(b) and (d) or determined through engineering assessment as specified in § 65.64(i). As specified in § 65.67(a), the owner or operator shall include this information in the Initial Compliance Status Report.
+
+(c) *Concentration records.* Each owner or operator who elects to demonstrate that a process vent is Group 2B based on a concentration less than the applicable criteria in table 1 to this subpart shall record the organic HAP or TOC concentration as measurement using the sampling site and HAP or TOC concentration determination procedures specified in § 65.64(b) and (c) or determined through engineering assessment as specified in § 65.64(i). As specified in § 65.67(a), the owner or operator shall include this information in the Initial Compliance Status Report.
+
+(d) *Process change records.* The owner or operator shall keep up-to-date, readily accessible records as specified in the following and shall report this information as specified in § 65.67(b):
+
+(1) If the process vent is Group 2B on the basis of flow rate being less than 0.011 scmm (0.40 standard cubic foot), then the owner or operator shall keep records of any process changes as defined in § 65.63(f) that increase the process vent flow rate and any recalculation or measurement of the flow rate pursuant to § 65.63(f).
+
+(2) If the process vent is Group 2B on the basis of organic HAP or TOC concentration being less than the applicable value in table 1 to this subpart, then the owner or operator shall keep records of any process changes as defined in § 65.63(f) that increase the organic HAP or TOC concentration of the process vent and any recalculation or measurement of the concentration pursuant to § 65.63(f).
+
+(3) If the process vent is Group 2A or Group 2B on the basis of the TRE index value being greater than 1.0, then the owner or operator shall keep records of any process changes as defined in § 65.63(f) and any recalculation of the TRE index value pursuant to § 65.63(f).
+
+(4) As a result of a process change, if a process vent that was Group 2B on any basis becomes a Group 2B process vent only on the basis of having a TRE greater than 4.0, then the owner or operator shall keep records of the TRE index value determination performed according to the sample site and TRE index value determination procedures of § 65.64(b)(1) and (h) or determined through engineering assessment as specified in § 65.64(i).
+
+(e) *Other Group 2A records.* An owner or operator of a Group 2A process vent maintaining a TRE index value greater than 1.0 without a recovery device shall record the parameters monitored based on the approved plan as specified in § 65.63(d).

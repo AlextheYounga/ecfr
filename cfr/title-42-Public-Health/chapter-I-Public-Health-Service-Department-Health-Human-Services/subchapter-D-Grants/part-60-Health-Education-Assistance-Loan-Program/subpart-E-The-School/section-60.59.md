@@ -1,0 +1,3 @@
+##### § 60.59 Records and Federal access after a school is no longer a HEAL school. #####
+
+In the event a school ceases to participate in the HEAL program, the school (or its successor, in the case of a school which undergoes a change in ownership) must retain all required HEAL records and provide the Secretary of Health and Human Services, the Comptroller General of the United States, and any of their authorized representatives access to them.

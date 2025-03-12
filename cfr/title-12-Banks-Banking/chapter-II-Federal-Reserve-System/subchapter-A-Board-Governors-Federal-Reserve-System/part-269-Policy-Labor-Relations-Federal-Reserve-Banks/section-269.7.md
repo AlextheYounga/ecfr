@@ -1,0 +1,3 @@
+##### § 269.7 Approval of agreement and required contents. #####
+
+Any agreement entered into with a labor organization as the exclusive representative of employees in a unit must be approved by the President of the Bank or a designated officer representative. All agreements with labor organizations shall also be subject to the requirement that the administration of all matters covered by the agreement shall be governed by the provisions of applicable laws and Federal Reserve System rules and regulations, and the agreement shall at all times be applied subject to such laws and regulations.

@@ -1,0 +1,5 @@
+##### § 779.10 Information collection. #####
+
+The information collection requirements contained in 30 CFR 779.11, 779.12, 779.13, 779.14, 779.15, 779.16, 779.17, 779.18, 779.19, 779.21, 779.22, 779.24, 779.25 and 779.27 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0035. The information is being collected to meet the requirements of sections 507 and 508 of Pub. L. 95-87, which require the applicant to present an adequate description of the existing pre-mining environmental resources within and around the proposed mine plan area. This information will be used by the regulatory authority to determine whether the applicant can comply with the performance standards of the regulations for surface coal mining and whether reclamation of these areas is feasible. The obligation to respond is mandatory.
+
+[47 FR 33686, Aug. 4, 1982, as amended at 52 FR 47359, Dec. 11, 1987]

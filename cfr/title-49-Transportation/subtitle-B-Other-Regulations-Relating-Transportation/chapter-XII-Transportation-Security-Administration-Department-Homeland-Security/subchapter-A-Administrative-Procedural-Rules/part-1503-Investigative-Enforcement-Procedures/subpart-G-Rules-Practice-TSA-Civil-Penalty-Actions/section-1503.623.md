@@ -1,0 +1,3 @@
+##### § 1503.623 Withdrawal of complaint or request for hearing. #####
+
+At any time before or during a hearing, an agency attorney may withdraw a complaint or a respondent may withdraw a request for a hearing without the consent of the ALJ. If an agency attorney withdraws the complaint or a party withdraws the request for a hearing and the answer, the ALJ must dismiss the proceedings under this subpart with prejudice, unless the withdrawing party shows good cause for dismissal without prejudice, except that a party may withdraw a request for hearing without prejudice at any time before a complaint has been filed.

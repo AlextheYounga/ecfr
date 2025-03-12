@@ -1,0 +1,1 @@
+##### 847.303 Standard delivery terms and contract clauses. #####

@@ -1,0 +1,13 @@
+##### § 51.354 Adequate tools and resources. #####
+
+(a) *Administrative resources.* The program shall maintain the administrative resources necessary to perform all of the program functions including quality assurance, data analysis and reporting, and the holding of hearings and adjudication of cases. A portion of the test fee or a separately assessed per vehicle fee shall be collected, placed in a dedicated fund and retained, to be used to finance program oversight, management, and capital expenditures. Alternatives to this approach shall be acceptable if the State can demonstrate that adequate funding of the program can be maintained in some other fashion (e.g., through contractual obligation along with demonstrated past performance). Reliance on future uncommitted annual or biennial appropriations from the State or local General Fund is not acceptable, unless doing otherwise would be a violation of the State's constitution. This section shall in no way require the establishment of a test fee if the State chooses to fund the program in some other manner.
+
+(b) *Personnel.* The program shall employ sufficient personnel to effectively carry out the duties related to the program, including but not limited to administrative audits, inspector audits, data analysis, program oversight, program evaluation, public education and assistance, and enforcement against stations and inspectors as well as against motorists who are out of compliance with program regulations and requirements.
+
+(c) *Equipment.* The program shall possess equipment necessary to achieve the objectives of the program and meet program requirements, including but not limited to a steady supply of vehicles for covert auditing, test equipment and facilities for program evaluation, and computers capable of data processing, analysis, and reporting. Equipment or equivalent services may be contractor supplied or owned by the State or local authority.
+
+(d) *SIP requirements.* The SIP shall include a description of the resources that will be used for program operation, and discuss how the performance standard will be met.
+
+(1) The SIP shall include a detailed budget plan which describes the source of funds for personnel, program administration, program enforcement, purchase of necessary equipment (such as vehicles for undercover audits), and any other requirements discussed throughout, for the period prior to the next biennial self-evaluation required in § 51.366 of this subpart.
+
+(2) The SIP shall include a description of personnel resources. The plan shall include the number of personnel dedicated to overt and covert auditing, data analysis, program administration, enforcement, and other necessary functions and the training attendant to each function.

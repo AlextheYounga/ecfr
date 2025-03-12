@@ -1,0 +1,9 @@
+##### § 30.61 Modification and revocation of licenses and registration certificates. #####
+
+(a) The terms and conditions of each license and registration certificate issued under the regulations in this part and parts 31 through 36 and 39 of this chapter shall be subject to amendment, revision, or modification by reason of amendments to the Act, or by reason of rules, regulations, and orders issued in accordance with the terms of the Act.
+
+(b) Any license or registration certificate may be revoked, suspended, or modified, in whole or in part, for any material false statement in the application or in any statement of fact required under section 182 of the Act, or because of conditions revealed by such application or statement of fact or any report, record, or inspection or other means that would warrant the Commission to refuse to grant a license or registration certificate on an original application, or for violation of, or failure to observe any of the terms and provisions of the Act or of any rule, regulation, or order of the Commission.
+
+(c) Except in cases of willfulness or those in which the public health, interest, or safety requires otherwise, no license or registration certificate shall be modified, suspended, or revoked unless, before the institution of proceedings therefor, facts or conduct that may warrant such action shall have been called to the attention of the licensee or certificate holder in writing and the licensee or certificate holder shall have been given an opportunity to demonstrate or achieve compliance with all lawful requirements.
+
+[77 FR 43690, July 25, 2012]

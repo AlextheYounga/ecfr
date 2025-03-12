@@ -1,0 +1,3 @@
+##### § 136a.54 Life of the mother would be endangered. #####
+
+Federal funds are available for an abortion when a physician has found and so certified in writing to the appropriate tribal or other contracting organization, or service unit or area director, that “on the basis of my professional judgement the life of the mother would be endangered if the fetus were carried to term.” The certification must contain the name and address of the patient.

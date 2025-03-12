@@ -1,0 +1,3 @@
+##### § 137.5 Effect of these regulations on Federal program guidelines, manual, or policy directives. #####
+
+Unless expressly agreed to by the Self-Governance Tribe in the compact or funding agreement, the Self-Governance Tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the IHS, except for the eligibility provisions of section 105(g) of the Act [25 U.S.C. 450j(g)] and regulations promulgated under section 517 of the Act [25 U.S.C. 458aaa-16(e)].

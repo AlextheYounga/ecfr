@@ -1,0 +1,3 @@
+##### § 605.21 Amendment of applications for assistance. #####
+
+Pending applications for assistance upon which public hearings have been held pursuant to section 3(d) of the Federal Mass Transit Act of 1964, as amended (49 U.S.C. 1602(d)), and applications which have been approved by the Administrator but for which no grant contract has been executed, shall be amended by the applicant to conform to this part by following the procedures of § 605.20(b) through (d).

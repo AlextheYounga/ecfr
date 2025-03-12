@@ -1,0 +1,9 @@
+##### 2903.602 Exceptions. #####
+
+(a) In accordance with FAR 3.602, only when there is a most compelling reason to do so, is the Assistant Secretary for Administration and Management authorized to except a contract from the policy in FAR 3.601, after the Procurement Review Board and the agency ethics official have reviewed and recommended approval of the exception. However, when time does not permit, the Assistant Secretary for Administration and Management may unilaterally approve an exception. The exception and information supporting the exception must be provided to the contracting officer for their official records.
+
+(b) When an exception under this subpart is requested, it is submitted through the director of the cognizant program office to the HCA. In the procurement request, the director must describe the basis for the exception from the restrictions of FAR 3.601.
+
+(c) Except as allowed in paragraph (a) of this section, the Department of Labor may enter into a negotiated contract or an amendment to an existing contract with former employees of DOL within one year of separation (or with firms in which former employees are known to have a substantial interest) only after review and recommendation for approval by the agency ethics official, the Procurement Review Board, and written approval by the Assistant Secretary for Administration and Management.
+
+(d) Approval of a decision to grant an exception as provided in this section must be documented by a written findings and determination prepared by the requesting official for signature by the Assistant Secretary for Administration and Management. The determination and findings must document compliance with FAR 3.603, FAR 9.5 and DOLAR 2909.5; specify the compelling reason(s) for award; and be placed in the contract files and the files of the Policy Review Board.

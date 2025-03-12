@@ -1,0 +1,17 @@
+##### § 85.535 Liability, recordkeeping, and end of year reporting. #####
+
+(a) Clean alternative fuel conversion manufacturers are liable for in-use performance of their conversion systems as outlined in this part.
+
+(b) We may conduct or require testing on any vehicles/engines as allowed under the Clean Air Act. This may involve confirmatory testing, in-use testing, and/or selective enforcement audits for clean alternative fuel conversion systems. Dual-fuel vehicles/engines may be tested when operating on any of the fuels. Mixed-fuel vehicles/engines may be tested on any fuel blend ratio that is expected to occur during normal operation.
+
+(c) Except for an application for certification, your actions to document compliance and notify us under this subpart are not a request for our approval. We generally do not give any formal approval short of issuing a certificate of conformity. However, if we learn that your actions fall short of full compliance with applicable requirements we may notify you that you have not met applicable requirements or that we need more information to make that determination. The exemption from the tampering prohibition may be void ab initio if the conversion manufacturer has not satisfied all of the applicable provisions of this subpart even if a submission to EPA has been made and the conversion system appears on EPA's publicly available list of compliant systems.
+
+(d) Clean alternative fuel conversion manufacturers must accept in-use liability for warranty, are subject to defect reporting requirements, and may be required to recall any parts or systems for which the failure can be traced to the conversion, regardless of whether installation was proper or improper. The OEM shall remain liable for the performance of any parts or systems which retain their original function following conversion and are unaffected by the conversion.
+
+(e) Clean alternative fuel conversion manufacturers must keep sufficient records for five years from the date of notification or certification, or the date of the last conversion installation, whichever is later, to show that they meet applicable requirements.
+
+(f) Clean alternative fuel conversion manufacturers must submit an end of the year sales report to EPA describing the number of clean alternative fuel conversions by fuel type(s) and vehicle test group/engine family by January 31 of the following year. The number of conversions is the sum of the calendar year intermediate age conversions, outside useful life conversions, and the same conversion model year certified clean alternative fuel conversions. The number of conversions will be added to any other vehicle and engine sales accounted for using 40 CFR 86.1838-01 or 1036.150(d), as appropriate to determine small volume manufacturer or qualified small volume test group/engine family status.
+
+(g) Conversion manufacturers who market conversion systems for use on vehicles/engines other than the test group/engine families and evaporative/refueling families covered by the compliance demonstration and notification may be liable for a tampering violation for each vehicle/engine to which conversion system is misapplied.
+
+[76 FR 19866, Apr. 8, 2011, as amended at 89 FR 28149, Apr. 18, 2024]

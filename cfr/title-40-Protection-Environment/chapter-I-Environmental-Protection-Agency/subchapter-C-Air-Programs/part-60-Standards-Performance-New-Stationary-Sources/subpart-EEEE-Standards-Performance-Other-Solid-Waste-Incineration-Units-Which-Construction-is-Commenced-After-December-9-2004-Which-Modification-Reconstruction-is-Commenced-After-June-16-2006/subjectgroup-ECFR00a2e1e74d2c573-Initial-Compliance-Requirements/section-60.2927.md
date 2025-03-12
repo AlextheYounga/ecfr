@@ -1,0 +1,3 @@
+##### § 60.2927 How do I demonstrate initial compliance with the emission limitations and establish the operating limits? #####
+
+You must conduct an initial performance test, as required under § 60.8, to determine compliance with the emission limitations in table 1 of this subpart and to establish operating limits using the procedure in § 60.2916 or § 60.2917. The initial performance test must be conducted using the test methods listed in table 1 of this subpart and the procedures in § 60.2922.

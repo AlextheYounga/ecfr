@@ -1,0 +1,5 @@
+##### § 821.18 Motion for a more definite statement. #####
+
+(a) A party may, in lieu of an answer, file a motion requesting that the petitioner's statement of reasons and supporting facts in a petition for review or the Administrator's allegations of fact in a complaint be made more definite and certain. The motion shall cite the defects complained of and the details sought. If the motion is granted and the law judge's order is not complied with within 15 days after service thereof, the law judge shall strike the portion or portions of the petition for review or complaint to which the motion is directed. If the motion is denied, the moving party shall file an answer within 10 days after service of the law judge's order on the motion.
+
+(b) A party may file a motion to clarify an answer in the event that the answer fails to respond clearly to the petition for review or the complaint.

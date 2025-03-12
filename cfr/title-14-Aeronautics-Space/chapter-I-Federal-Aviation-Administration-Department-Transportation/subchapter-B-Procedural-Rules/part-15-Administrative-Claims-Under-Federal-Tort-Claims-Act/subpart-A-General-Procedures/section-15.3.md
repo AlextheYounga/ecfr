@@ -1,0 +1,11 @@
+##### § 15.3 Administrative claim, when presented; appropriate office. #####
+
+(a) A claim is deemed to have been presented when the FAA receives, at a place designated in paragraph (b) of this section, an executed Standard Form 95 or other written notification of an incident, accompanied by a claim for money damages in a sum certain for injury to, or loss of, property or for personal injury or death, alleged to have occurred by reason of the incident. A claim which should have been presented to the FAA but which was mistakenly filed with another Federal agency, is deemed presented to the FAA on the date the claim is received by the FAA at a place designated in paragraph (b) of this section. A claim addressed to, or filed with, the FAA by mistake will be transferred to the appropriate Federal agency, if that agency can be determined, or returned to the claimant.
+
+(b) Claims shall be delivered or mailed to the Assistant Chief Counsel, Litigation Division, AGC-400, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591, or alternatively, may be mailed or delivered to the Regional Counsel in any of the FAA Regional Offices or the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office.
+
+(c) Claim forms are available at each location listed in paragraph (b) of this section.
+
+(d) A claim presented in accordance with this section may be amended by the claimant at any time prior to final FAA action or prior to the exercise of the claimant's option, under 28 U.S.C. 2675(a), to deem the agency's failure to make a final disposition of his or her claim within 6 months after it was filed as a final denial. Each amendment to a claim shall be submitted in writing and signed by the claimant or the claimant's duly authorized agent or legal representative. Upon the timely filing of an amendment to a pending claim, the FAA has 6 months thereafter in which to make a final disposition of the claim as amended, and the claimant's option under 28 U.S.C. 2675(a) does not accrue until 6 months after the filing of the amendment.
+
+[Doc. No. 18884, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 15-1, 54 FR 39290, Sept. 25, 1989; Amdt. 15-4, 62 FR 46866, Sept. 4, 1997]

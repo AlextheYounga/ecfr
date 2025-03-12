@@ -1,0 +1,3 @@
+##### § 302.403 Informal complaints. #####
+
+Any person may submit in writing to the Assistant General Counsel an informal complaint with respect to anything done or omitted to be done by any person in contravention of any provision of the Statute or any requirement established thereunder. Such informal complaints need not otherwise comply with the provisions of this part. Matters so presented may, if their nature warrants, be handled by correspondence or conference with the appropriate persons. Any matter not disposed of informally may be made the subject of an enforcement proceeding pursuant to this subpart. The filing of an informal complaint shall not bar the subsequent filing of a formal complaint.

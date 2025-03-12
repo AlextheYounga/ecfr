@@ -1,0 +1,5 @@
+##### § 531.205 Converting pay upon change in location of employee's official worksite. #####
+
+When an employee's official worksite is changed to a new location where different pay schedules apply, the agency must convert the employee's rate(s) of basic pay to the applicable pay schedule(s) in the new location before processing any simultaneous pay action (other than a general pay adjustment, as provided in § 531.206). The agency must first set the employee's rate(s) of basic pay in the applicable pay schedule(s) in the new location based on his or her position of record (including grade) and step (or a GM employee's GS rate) immediately before the change in the employee's official worksite. The resulting rate must be used as the existing rate in processing the next simultaneous pay action in the order of precedence, using the applicable pay schedules in the new location. In conjunction with any simultaneous pay actions, the employee's rate(s) of basic pay will then be set based on the employee's new position of record and new official worksite.
+
+[70 FR 31291, May 31, 2005, as amended at 73 FR 66152, Nov. 7, 2008]

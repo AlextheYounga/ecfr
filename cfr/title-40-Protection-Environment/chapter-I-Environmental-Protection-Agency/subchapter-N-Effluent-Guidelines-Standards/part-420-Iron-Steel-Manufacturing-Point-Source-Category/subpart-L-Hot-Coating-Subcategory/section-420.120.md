@@ -1,0 +1,7 @@
+##### § 420.120 Applicability; description of the hot coating subcategory. #####
+
+(a) The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from the operations in which steel is coated with zinc, terne metal, or other metals by the hot dip process, and those rinsing operations associated with that process.
+
+(b) The BPT and BAT limitations for zinc set out below are not applicable to hot coating operations with wastewater treatment facilities achieving, during periods of normal production, zinc discharge levels more stringent than those BPT and BAT limitations. For such operations, the BPT and BAT limitations for zinc shall be determined on a case-by-case basis based upon the existing performance of the wastewater treatment facility. The permitting authority shall evaluate representative effluent data from the wastewater treatment facility during periods of normal production in establishing the case-by-case BPT and BAT limitations. The BPT and BAT limitations specified in 40 CFR 420.122 and 420.123 may be used as the basis for calculating total mass limitations for zinc pursuant to 40 CFR 420.03.
+
+[47 FR 23284, May 27, 1982, as amended at 49 FR 21036, May 17, 1984]

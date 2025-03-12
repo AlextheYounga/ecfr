@@ -1,0 +1,3 @@
+##### § 372.22 Discrimination. #####
+
+No charter operator shall make, give, or cause any undue or unreasonable preference or advantage to any particular person, port, locality, or description of traffic in air transportation in any respect whatsoever or subject any particular person, port, locality, or description of traffic in air transportation to any unjust discrimination or any undue or unreasonable prejudice or disadvantage in any respect whatsoever.

@@ -1,0 +1,7 @@
+##### § 63.8385 Am I subject to this subpart? #####
+
+You are subject to this subpart if you own or operate a BSCP manufacturing facility that is, is located at, or is part of, a major source of HAP emissions according to the criteria in paragraphs (a) and (b) of this section.
+
+(a) A BSCP manufacturing facility is a plant site that manufactures brick (including, but not limited to, face brick, structural brick, and brick pavers); clay pipe; roof tile; extruded floor and wall tile; and/or other extruded, dimensional clay products. Brick and structural clay products manufacturing facilities typically process raw clay and shale, form the processed materials into bricks or shapes, and dry and fire the bricks or shapes. A plant site that manufactures refractory products, as defined in § 63.9824, or clay ceramics, as defined in § 63.8665, is not a BSCP manufacturing facility.
+
+(b) A major source of HAP emissions is any stationary source or group of stationary sources within a contiguous area under common control that emits or has the potential to emit any single HAP at a rate of 9.07 megagrams (10 tons) or more per year or any combination of HAP at a rate of 22.68 megagrams (25 tons) or more per year.

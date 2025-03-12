@@ -1,0 +1,3 @@
+##### § 32.7910 Income effect of jurisdictional ratemaking differences—net. #####
+
+This account shall include the impact on revenues and expenses of the jurisdictional ratemaking practices which vary from those of this Commission. All entries recorded in this account shall be recorded net of the applicable income tax effects and shall be supported by appropriate subsidiary records, where necessary, as provided for in § 32.13(e) of subpart B.

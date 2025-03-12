@@ -1,0 +1,3 @@
+##### § 537.11 Public inspection of information. #####
+
+Except as provided in § 537.12, any person may inspect the information and data submitted by a manufacturer under this part in the docket section of the National Highway Traffic Safety Administration. Any person may obtain copies of the information available for inspection under this section in accordance with the regulations of the Secretary of Transportation in part 7 of this title.

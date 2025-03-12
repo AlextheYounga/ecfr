@@ -1,0 +1,23 @@
+##### § 65.154 Halogen scrubbers and other halogen reduction devices. #####
+
+(a) *Halogen scrubber and other halogen reduction device equipment and operating requirements.* (1) An owner or operator of halogen scrubbers and other halogen reduction devices subject to this subpart shall reduce the overall emissions of hydrogen halides and halogens by 99 percent, or reduce the outlet mass of total hydrogen halides and halogens to less than 0.45 kilograms per hour (0.99 pound per hour) as specified in § 65.63(b) for process vents, or § 65.83(b) for transfer racks, as applicable, and shall meet the requirements of this section.
+
+(2) Halogen scrubbers and other halogen reduction devices used to comply with the provisions of this subpart shall be operated at all times when emissions are vented to them.
+
+(b) *Halogen scrubber and other halogen reduction device performance test requirements.* Unless an initial performance test was previously conducted and submitted under the referencing subpart, an owner or operator of a combustion device followed by a halogen scrubber or other halogen reduction device to control halogenated vent streams in accordance with § 65.63(b)(1) for process vents, or § 65.83(b)(1) for transfer racks shall conduct an initial performance test to determine compliance with the control efficiency or emission limits for hydrogen halides and halogens according to the procedures in §§ 65.157 and 65.158. Performance test records shall be kept as specified in § 65.160(a) and (b), and a performance test report shall be submitted as specified in § 65.164.
+
+(c) *Halogen scrubber and other halogen reduction device monitoring requirements.* (1) Where a halogen scrubber is used, the monitoring equipment specified in paragraphs (c)(1)(i) and (ii) of this section is required for the scrubber. Monitoring results shall be recorded as specified in § 65.161. General requirements for monitoring and continuous parameter monitoring systems are contained in § 65.156.
+
+(i) A pH monitoring device capable of providing a continuous record shall be installed to monitor the pH of the scrubber effluent.
+
+(ii) A flow meter capable of providing a continuous record shall be located at the scrubber influent for liquid flow. Gas stream flow shall be determined using one of the following procedures:
+
+(A) The owner or operator may determine gas stream flow using the design blower capacity, with appropriate adjustments for pressure drop.
+
+(B) If the scrubber is subject to regulations in 40 CFR parts 264 through 266 that have required a determination of the liquid to gas (L/G) ratio prior to the applicable compliance date for the chemical manufacturing process unit of which it is part, as specified in 40 CFR 63.100(k) (if the referencing subpart is 40 CFR part 63, subpart F), or prior to the implementation date as specified in § 65.1(f) (for all other referencing subparts), the owner or operator may determine gas stream flow by the method that had been utilized to comply with those regulations. A determination that was conducted prior to that compliance date may be utilized to comply with this subpart if it is still representative.
+
+(C) The owner or operator may prepare and implement a gas stream flow determination plan that documents an appropriate method that will be used to determine the gas stream flow. The plan shall require determination of gas stream flow by a method that will at least provide a value for either a representative or the highest gas stream flow anticipated in the scrubber during representative operating conditions other than startups, shutdowns, or malfunctions. The plan shall include a description of the methodology to be followed and an explanation of how the selected methodology will reliably determine the gas stream flow and a description of the records that will be maintained to document the determination of gas stream flow. The owner or operator shall maintain the plan as specified in § 65.5.
+
+(2) Where a halogen reduction device other than a scrubber is used, the procedures in § 65.162(e) shall be followed to establish monitoring parameters.
+
+(3) The owner or operator shall establish a range for monitored parameters that indicates proper operation of the scrubber or other halogen reduction device. In order to establish the range, the information required in § 65.165(c) shall be submitted in the Initial Compliance Status Report or the operating permit application or amendment. The range may be based upon a prior performance test meeting the specifications in § 65.157(b)(1), or upon existing ranges or limits established under a referencing subpart.

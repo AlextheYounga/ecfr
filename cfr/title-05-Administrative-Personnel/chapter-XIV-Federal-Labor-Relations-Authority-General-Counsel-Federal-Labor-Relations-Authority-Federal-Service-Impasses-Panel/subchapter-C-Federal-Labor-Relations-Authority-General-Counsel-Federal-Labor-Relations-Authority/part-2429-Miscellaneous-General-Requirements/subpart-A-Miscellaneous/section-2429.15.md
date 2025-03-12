@@ -1,0 +1,5 @@
+##### § 2429.15 Authority requests for advisory opinions. #####
+
+(a) Whenever the Authority, pursuant to 5 U.S.C. 7105(i) requests an advisory opinion from the Director of the Office of Personnel Management concerning the proper interpretation of rules, regulations, or policy directives issued by that Office in connection with any matter before the Authority, a copy of such request, and any response thereto, shall be served upon the parties in the matter.
+
+(b) The parties shall have fifteen (15) days from the date of service of a copy of the response of the Office of Personnel Management to file with the Authority comments on that response which the parties wish the Authority to consider before reaching a decision in the matter. Such comments shall be in writing and copies shall be served upon the other parties in the matter and upon the Office of Personnel Management.

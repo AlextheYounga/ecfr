@@ -1,0 +1,11 @@
+##### § 35.9045 EPA action on application. #####
+
+The Regional Administrator will review each completed application and should approve, conditionally approve, or disapprove the application within 60 days of receipt. When funds are available, the Regional Administrator will award assistance based on an approved or conditionally approved application. For a continuation award made after the beginning of the approved budget period, EPA will reimburse the applicant for allowable costs incurred from the beginning of the budget period, provided that such costs are contained in the approved application and that the application was submitted before the expiration of the prior budget period.
+
+(a) *Approval.*The Regional Administrator will approve the application only if it satisfies the requirements of CWA section 320; the terms, conditions, and limitations of this subpart; and the applicable provisions of 2 CFR parts 200 and 1500, and other EPA assistance regulations. The Regional Administrator must also determine that the proposed outputs are consistent with EPA guidance or otherwise demonstrated to be necessary and appropriate; and that achievement of the proposed outputs is feasible, considering the applicant's past performance, program authority, organization, resources, and procedures.
+
+(b) *Conditional approval.* The Regional Administrator may conditionally approve the application after consulting with the applicant if only minor changes are required. The award will include the conditions the applicant must meet to secure final approval and the date by which those conditions must be met.
+
+(c) *Disapproval.* If the application cannot be approved or conditionally approved, the Regional Administrator will negotiate with the applicant to change the output commitments, reduce the assistance amount, or make any other changes necessary for approval. If negotiation fails, the Regional Administrator will disapprove the application in writing.
+
+[54 FR 40804, Oct. 3, 1989, as amended at 79 FR 76061, Dec. 19, 2014]

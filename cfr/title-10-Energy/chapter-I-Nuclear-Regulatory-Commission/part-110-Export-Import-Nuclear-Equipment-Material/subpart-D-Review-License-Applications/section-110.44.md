@@ -1,0 +1,11 @@
+##### § 110.44 Physical security standards. #####
+
+(a) Physical security measures in recipient countries must provide protection at least comparable to the recommendations in the current version of IAEA publication, “Nuclear Security Recommendations on Physical Protection of Nuclear Material and Nuclear Facilities” (INFCIRC/225/Revision 5), January 2011, which is incorporated by reference in this part. This incorporation by reference was approved by the Director of the Office of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Notice of any changes made to the material incorporated by reference will be published in the Federal Register. Copies of INFCIRC/225/Revision 5 may be obtained from the Marketing and Sales Unit, Publishing Section, IAEA, Vienna International Centre, P.O. Box 100, 1400 Vienna Austria; Fax: 43 1 2600 29302; telephone: 43 1 2600 22417; email: *sales.publications@iaea.org*; Web site: *http://www.iaea.org/books.* You may inspect a copy at the NRC Library, 11545 Rockville Pike, Rockville, Maryland 20852-2738, telephone: 301-415-4737 or 1-800-397-4209, between 8:30 a.m. and 4:15 p.m.; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+
+(b) Commission determinations on the adequacy of physical security measures are based on:
+
+(1) Receipt by the appropriate U.S. Executive Branch Agency of written assurances from the relevant recipient country government that physical security measures providing protection at least comparable to the recommendations set forth in INFCIRC/225/Revision 5.
+
+(2) Information obtained through country visits, information exchanges, or other sources. Determinations are made on a country-wide basis and are subject to continuing review. Appendix M to this part describes the different categories of nuclear material to which physical security measures are applied.
+
+[75 FR 44090, July 28, 2010, as amended at 79 FR 39291, July 10, 2014]

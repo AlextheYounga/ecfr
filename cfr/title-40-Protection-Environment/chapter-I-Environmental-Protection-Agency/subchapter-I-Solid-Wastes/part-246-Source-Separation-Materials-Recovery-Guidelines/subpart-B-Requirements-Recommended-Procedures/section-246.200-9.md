@@ -1,0 +1,3 @@
+##### § 246.200-9 Recommended procedures: Contracts. #####
+
+Formal bids should be requested for purchase of the recovered materials, such bids being solicited in conformance with bidding procedures established for the responsible agency. Contracts should include the buyer's quality specifications, quantity and transportation agreements, a guarantee that the material will be accepted for one year or more, and a guaranteed minimum purchase price.

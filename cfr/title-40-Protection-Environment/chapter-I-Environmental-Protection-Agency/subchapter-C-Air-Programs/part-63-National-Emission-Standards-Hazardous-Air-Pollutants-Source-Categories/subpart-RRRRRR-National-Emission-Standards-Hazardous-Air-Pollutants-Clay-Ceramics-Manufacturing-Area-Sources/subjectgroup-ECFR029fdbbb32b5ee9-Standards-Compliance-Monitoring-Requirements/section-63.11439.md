@@ -1,0 +1,5 @@
+##### § 63.11439 What are the initial compliance demonstration requirements for new and existing sources? #####
+
+(a) You must demonstrate initial compliance with the applicable management practices and equipment standards in § 63.11438 by submitting a Notification of Compliance Status. For any wet spray glaze operation controlled with an APCD, you must conduct an initial inspection of the control equipment as described in § 63.11440(b)(1) within 60 days of the compliance date and include the results of the inspection in the Notification of Compliance Status.
+
+(b) You must demonstrate initial compliance with the applicable management practices or equipment standards in § 63.11438 by submitting the Notification of Compliance Status within 120 days after the applicable compliance date specified in § 63.11437.

@@ -1,0 +1,7 @@
+##### § 890.305 Reinstatement of enrollment after military service. #####
+
+(a) The enrollment of an employee or annuitant whose enrollment was terminated under § 890.304(a)(1)(vi), (vii), or (viii) or § 890.304(b)(4)(iii) is automatically reinstated on the day the employee is restored to a civilian position under the provisions of part 353 of this chapter, or similar authority, or on the day the annuitant is separated from the uniformed services, as the case may be.
+
+(b) An employee whose employing office terminates his or her enrollment because his or her order to enter on duty in a uniformed service is for a period longer than 30 days, and who retires on an immediate annuity from his or her Federal civilian position while on such duty, may reinstate his or her enrollment by asking to do so within 60 days after retirement. In the absence of such a request, the retirement system automatically reinstates the enrollment on the day the person separates from the uniformed service. For the retirement system to reinstate the enrollment, the individual must have been covered under this part since his or her first opportunity or for the 5 years of civilian service (excluding the period of uniformed service) immediately preceding the civilian retirement, whichever is shorter.
+
+[43 FR 52460, Nov. 13, 1978, as amended at 59 FR 60296, Nov. 23, 1994; 60 FR 45658, Sept. 1, 1995; 64 FR 31488, June 11, 1999]

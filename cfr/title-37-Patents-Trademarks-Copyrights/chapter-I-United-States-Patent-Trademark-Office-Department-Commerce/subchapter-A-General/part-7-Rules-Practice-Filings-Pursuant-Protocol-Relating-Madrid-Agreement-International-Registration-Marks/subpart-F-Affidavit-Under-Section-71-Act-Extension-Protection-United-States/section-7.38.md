@@ -1,0 +1,3 @@
+##### § 7.38 Notice to holder of extension of protection. #####
+
+The registration certificate for an extension of protection to the United States includes a notice of the requirement for filing the affidavit or declaration of use or excusable nonuse under section 71 of the Act. However, the affidavit or declaration must be filed within the time period required by section 71 of the Act regardless of whether this notice is received.

@@ -1,0 +1,3 @@
+##### § 747.615 Decision of the NCUA Board. #####
+
+Within 15 days after service of the recommended decision, findings, conclusions, and proposed order, the applicant or counsel for NCUA may file with the NCUA Board written exceptions thereto. A supporting brief may also be filed. The NCUA Board shall render its decision within 60 days after the matter is submitted to it. The NCUA Board shall furnish copies of its decision and order to the parties. Judicial review of the NCUA Board's final decision and order may be obtained as provided in 5 U.S.C. 504(c)(2).

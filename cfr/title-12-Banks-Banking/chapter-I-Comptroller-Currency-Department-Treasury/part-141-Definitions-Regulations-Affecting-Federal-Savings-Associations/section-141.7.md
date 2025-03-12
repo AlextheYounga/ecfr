@@ -1,0 +1,3 @@
+##### § 141.7 Corporate debt security. #####
+
+The term *corporate debt security* means a marketable obligation, evidencing the indebtedness of any corporation in the form of a bond, note and/or debenture which is commonly regarded as a debt security and is not predominantly speculative in nature. A security is marketable if it may be sold with reasonable promptness at a price which corresponds reasonably to its fair value.

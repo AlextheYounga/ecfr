@@ -1,0 +1,13 @@
+##### § 266.13 Distribution of funds. #####
+
+(a) *Formula.* Funds appropriated for or reallocated in any fiscal year (in this section referred to jointly as “funds”) are to be distributed to each State as follows:
+
+(1) Two-thirds of the funds will be allocated in the ratio which a State's rail mileage that, in accordance with 49 U.S.C. 10904(d), is either potentially subject to abandonment or is to become the subject of an application for a certificate of abandonment or discontinuance which a carrier plans to submit, but has not yet submitted, bears to the total such rail mileage in all the States;
+
+(2) One-third of the funds will be allocated in the ratio which a State's rail mileage for which the Commission has found within three years prior to the first day of the fiscal year for which the funds are being allocated that the public convenience and necessity permits the abandonment, or the discontinuance, of rail service on such rail mileage, bears to the total such rail mileage in all the States. Until September 30, 1981, such rail mileage includes the rail mileage which was eligible under the Rail Service Assistance Program pursuant to section 402 of the Rail Act, and all rail mileage which, prior to October 1, 1978, had been included for formula allocation purposes. The Administrator will calculate rail mileage under this paragraph as of October 1 of each year; and
+
+(3) The above calculations will be adjusted if necessary so that no State receives less than 1 percent of the funds appropriated for a fiscal year.
+
+(b) *Reallocation.* The Administrator will reallocate among the States funds which have not been granted under an executed grant agreement by the end of the fiscal year for which the funds were appropriated and funds determined by a Federal audit to be in excess of allowable costs when they have not been granted under an executed grant agreement by the end of the fiscal year in which the Federal audit is made. Reallocated funds are distributed in accordance with the allocation formula described in paragraph (a) of this section.
+
+(c) *Interstate sharing of allocated funds.* Where not in violation of State law, two or more States, which are eligible to receive assistance under the Rail Service Assistance Program pursuant to § 266.5 of this part may combine any portion of their entitlements for purposes of conducting any eligible project of mutual benefit provided that they enter into an agreement for this purpose.

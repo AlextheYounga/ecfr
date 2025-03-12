@@ -1,0 +1,5 @@
+##### § 611.525 Stockholder reconsideration. #####
+
+(a) Stockholders have the right to reconsider the approval of the transfer provided that a petition signed by 15 percent of the stockholders of either institution involved in the transfer is filed with the Farm Credit Administration within 35 days after the date of mailing of the notification of the final results of the stockholder vote required under § 611.505(d) and such petition is approved by the Farm Credit Administration.
+
+(b) A special stockholders meeting shall be called by the institution to vote on the reconsideration following the Farm Credit Administration's approval of a stockholder petition to reconsider the transfer. If a majority of stockholders of any institution involved in the transfer votes against the transfer, the transfer is not approved.

@@ -1,0 +1,3 @@
+##### § 18.40 Cable clamps and grips. #####
+
+Insulated clamps shall be provided for all portable (trailing) cables to prevent strain on the cable terminals of a machine. Also insulated clamps shall be provided to prevent strain on both ends of each cable or cord leading from a machine to a detached or separately mounted component. Cable grips anchored to the cable may be used in lieu of insulated strain clamps. Supporting clamps for cables used for wiring around machines shall be provided in a manner acceptable to MSHA.

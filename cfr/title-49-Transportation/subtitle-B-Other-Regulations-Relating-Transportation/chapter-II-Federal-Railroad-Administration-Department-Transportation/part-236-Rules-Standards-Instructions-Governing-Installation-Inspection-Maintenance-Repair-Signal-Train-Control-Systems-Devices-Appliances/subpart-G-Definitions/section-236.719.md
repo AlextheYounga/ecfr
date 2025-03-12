@@ -1,0 +1,3 @@
+##### § 236.719 Circuit, acknowledgment. #####
+
+A circuit consisting of wire or other conducting material installed between the track rails at each signal in territory where an automatic train stop system or cab signal system of the continuous inductive type with 2-indication cab signals is in service, to enforce acknowledgement by the engineman at each signal displaying an aspect requiring a stop.

@@ -1,0 +1,3 @@
+##### § 347.205 Record maintenance. #####
+
+The records of each insured branch shall be kept as though it were a separate entity, with its assets and liabilities separate from the other operations of the head office, other branches or agencies of the foreign bank and its subsidiaries or affiliates. Each insured branch must keep a set of accounts and records in the words and figures of the English language that accurately reflects the business transactions of the insured branch on a daily basis. A foreign bank that has more than one insured branch in a state may treat such insured branches as one entity for record-keeping purposes and may designate one branch to maintain records for all the branches in the state.

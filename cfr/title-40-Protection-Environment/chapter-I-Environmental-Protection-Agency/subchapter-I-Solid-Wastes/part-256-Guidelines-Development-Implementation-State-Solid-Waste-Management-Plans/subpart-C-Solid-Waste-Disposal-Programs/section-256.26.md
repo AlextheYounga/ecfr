@@ -1,0 +1,3 @@
+##### § 256.26 Requirement for schedules leading to compliance with the prohibition of open dumping. #####
+
+In implementing the section 4005(c) prohibition on open dumping, the State plan shall provide that any entity which demonstrates that it has considered other public or private alternatives to comply with the prohibition on open dumping and is unable to utilize such alternatives to so comply, may obtain a timetable or schedule for compliance which specifies a schedule of remedial measures, and an enforceable sequence of actions, leading to compliance within a reasonable time (not to exceed 5 years from the date of publication of the inventory).

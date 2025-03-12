@@ -1,0 +1,3 @@
+##### § 1808.626 Limitation on liability. #####
+
+The liability of the Federal Government arising out of any fees or funds obtained by a CDFI Bond Guarantee Program participant in accordance with this interim rule shall be limited to the amount of the fees or funds obtained by the CDFI Bond Guarantee Program participant. The Federal Government shall be exempt from any assessments and other liabilities that may be imposed on controlling or principal shareholders by any Federal law or the law of any State. Nothing in this section shall affect the application of any Federal tax law.

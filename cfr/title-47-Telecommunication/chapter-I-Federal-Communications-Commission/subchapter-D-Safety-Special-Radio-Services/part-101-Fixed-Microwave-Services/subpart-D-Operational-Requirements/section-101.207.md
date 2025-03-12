@@ -1,0 +1,3 @@
+##### § 101.207 Suspension of transmission. #####
+
+Transmission must be suspended immediately upon detection by the station or operator licensee or upon notification by the Commission of a deviation from the technical requirements of the station authorization and must remain suspended until such deviation is corrected, except for transmission concerning the immediate safety of life or property, in which case transmission must be suspended immediately after the emergency is terminated.

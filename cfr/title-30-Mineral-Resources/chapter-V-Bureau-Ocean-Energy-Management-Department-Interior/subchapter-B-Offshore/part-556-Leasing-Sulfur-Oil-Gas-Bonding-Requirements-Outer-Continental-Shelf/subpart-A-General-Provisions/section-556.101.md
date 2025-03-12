@@ -1,0 +1,3 @@
+##### § 556.101 Purpose. #####
+
+The purpose of the regulations in this part is to establish the procedures under which the Secretary will exercise the authority to administer a leasing program for oil and gas, and sulfur. The regulations pertaining to the procedures under which the Secretary will exercise the authority to administer a program to grant rights-of-use and easements are found in part 550 of this chapter.

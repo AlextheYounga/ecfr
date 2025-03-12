@@ -1,0 +1,7 @@
+##### § 18.10 Notice of approval or disapproval. #####
+
+(a) Upon completing investigation of a complete assembly of an electrical machine or accessory, MSHA will issue to the applicant either a written notice of approval or a written notice of disapproval, as the case may require. No informal notification of approval will be issued. If a notice of disapproval is issued, it will be accompanied by details of the defects, with recommendations for possible correction. MSHA will not disclose, except to the applicant, any information upon which a notice of disapproval has been issued.
+
+(b) A formal notice of approval will be accompanied by a list of drawings, specifications, and related material, covering the details of design and construction of the equipment upon which the approval is based. Applicants shall keep exact duplicates of the drawings, specifications, and descriptions that relate to equipment for which an approval has been issued, and the drawings and specifications shall be adhered to exactly in production of the approved equipment.
+
+(c) An applicant shall not advertise or otherwise represent his equipment as approved (permissible) until he has received MSHA's formal notice of approval.

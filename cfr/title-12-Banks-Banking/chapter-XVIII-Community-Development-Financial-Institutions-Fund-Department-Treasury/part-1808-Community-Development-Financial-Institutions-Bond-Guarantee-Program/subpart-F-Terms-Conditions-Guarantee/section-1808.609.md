@@ -1,0 +1,3 @@
+##### § 1808.609 Representations and warranties of Secondary Borrower. #####
+
+Each Secondary Borrower shall make identical representations and warranties as the Eligible CDFI and shall make specific representations and warranties with respect to the collateral and the project that is proposed to be financed by the Secondary Loan, upon which the Eligible CDFI, the Qualified Issuer, the Bondholder, the Guarantor, and the CDFI Fund may rely. These representation and warranties shall be to the satisfaction of the Guarantor and the CDFI Fund.

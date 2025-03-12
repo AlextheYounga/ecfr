@@ -1,0 +1,5 @@
+##### 2943.301 Use of forms. #####
+
+(a) FAR 43.301(a)(1)(vi) requires the use of Standard Form 30 (SF-30) to execute any obligation or deobligation of contract funds after award. FAR 13.307(c)(3) allows, and the Department of Labor prefers, the use of the SF-30 for simplified acquisitions. The SF-30 also must be used to deobligate funds when effecting contract closeout when obligated funds exceed the final contract costs. In such an instance, the SF-30 may be issued as an administrative modification on a unilateral basis if the contractor's financial release has been separately obtained.
+
+(b) The contracting officer must include, in any unilateral contract modification issued for contract closeout, a statement that the contractor has signed a release of claims and indicate the date the release of claims was signed by the contractor.

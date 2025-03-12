@@ -1,0 +1,5 @@
+##### § 230.50 Municipal and private water supplies. #####
+
+(a) Municipal and private water supplies consist of surface water or ground water which is directed to the intake of a municipal or private water supply system.
+
+(b) Possible loss of values: Discharges can affect the quality of water supplies with respect to color, taste, odor, chemical content and suspended particulate concentration, in such a way as to reduce the fitness of the water for consumption. Water can be rendered unpalatable or unhealthy by the addition of suspended particulates, viruses and pathogenic organisms, and dissolved materials. The expense of removing such substances before the water is delivered for consumption can be high. Discharges may also affect the quantity of water available for municipal and private water supplies. In addition, certain commonly used water treatment chemicals have the potential for combining with some suspended or dissolved substances from dredged or fill material to form other products that can have a toxic effect on consumers.

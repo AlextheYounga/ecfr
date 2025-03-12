@@ -1,0 +1,3 @@
+##### § 238.113 Confidentiality of proceedings. #####
+
+All formal examination proceedings shall be private and, unless otherwise ordered by the Board, all investigative proceedings shall also be private. Unless otherwise ordered or permitted by the Board, or required by law, and except as provided in §§ 238.114 and 238.115, the entire record of any investigative proceeding or formal examination proceeding, including the resolution of the Board or its delegate(s) authorizing the proceeding, the transcript of such proceeding, and all documents and information obtained by the designated representative(s) during the course of said proceedings shall be confidential.

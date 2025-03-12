@@ -1,0 +1,3 @@
+##### 49.103 Methods of settlement. #####
+
+Settlement of terminated cost-reimbursement contracts and fixed-price contracts terminated for convenience may be effected by (a) negotiated agreement, (b) determination by the TCO, (c) costing-out under vouchers using SF 1034, Public Voucher for Purchases and Services Other Than Personal, for cost-reimbursement contracts (as prescribed in subpart 49.3), or (d) a combination of these methods. When possible, the TCO should negotiate a fair and prompt settlement with the contractor. The TCO shall settle a settlement proposal by determination only when it cannot be settled by agreement.

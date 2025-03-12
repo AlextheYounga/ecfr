@@ -1,0 +1,3 @@
+##### § 568.1 Purpose and scope. #####
+
+The purpose of this part is to prescribe the method by which manufacturers of vehicles manufactured in two or more stages shall ensure conformity of those vehicles with the Federal motor vehicle safety standards (“standards”) and other regulations issued under the National Traffic and Motor Vehicle Safety Act, as amended (49 U.S.C. § 30115) and the Motor Vehicle Information and Cost Savings Act, as amended (49 U.S.C. 32504 and 33108(c)).

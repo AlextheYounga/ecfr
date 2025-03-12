@@ -1,0 +1,3 @@
+##### § 7.44 How can I pay a processing fee for records requested under subpart B or subpart C of this part? #####
+
+Fees typically should be paid online, using a credit card, debit card, or electronic check. The DOT FOIA page (*http://www.dot.gov/foia*) has direct links to the electronic payment site. Any fees paid with a paper check, draft, or money order must be made payable to the U.S. Treasury and delivered as directed by the applicable FOIA Requester Service Center identified in § 7.27 (if the fees are for records made available under subpart C) or the DOT Dockets Office identified in § 7.12(b)(1) (if the fees are for records made available under subpart B).

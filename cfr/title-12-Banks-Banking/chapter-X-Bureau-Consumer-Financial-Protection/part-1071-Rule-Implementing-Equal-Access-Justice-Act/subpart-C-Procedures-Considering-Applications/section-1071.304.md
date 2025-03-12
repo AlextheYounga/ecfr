@@ -1,0 +1,3 @@
+##### § 1071.304 Settlement. #####
+
+The applicant and Bureau counsel may agree on a proposed settlement of the award before final action on the application, either in connection with a settlement of the underlying proceeding or after the underlying proceeding has been concluded, in accordance with the Bureau's standard settlement procedures. If a prevailing party and Bureau counsel agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement. If a proposed settlement of an underlying proceeding provides that each side shall bear its own expenses and the settlement is accepted, no application may be filed.

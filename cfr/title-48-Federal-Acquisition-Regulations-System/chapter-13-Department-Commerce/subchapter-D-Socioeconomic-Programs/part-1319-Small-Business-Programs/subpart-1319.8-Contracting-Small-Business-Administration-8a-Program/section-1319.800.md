@@ -1,0 +1,7 @@
+##### 1319.800 General. #####
+
+(a) By Partnership Agreement between the Small Business Administration (SBA) and the Department of Commerce, the SBA delegated authority to the Senior Procurement Executive to enter into 8(a) prime contracts and purchase orders. To implement this authority, the Senior Procurement Executive has authorized a class FAR deviation to applicable portions of FAR Subpart 19.8 and FAR Part 52. Under the class deviation, the authority to enter into 8(a) prime contracts and purchase orders is re-delegated to contracting officers.
+
+(b) When awarding 8(a) contracts and purchase orders, contracting officers shall operate in accordance with the terms of the Partnership Agreement and take full advantage of the streamlined procedures in the agreement. Contracting officers shall review the responsibilities and procedures for 8(a) awards as outlined in the Partnership Agreement and work closely with their respective Small Business Specialists and the OSDBU.
+
+(c) The Partnership Agreement contains the procedures for submitting an offer letter to the appropriate SBA office. Contracting officers shall provide a copy of all offering letters to the OSDBU when they are transmitted to SBA.

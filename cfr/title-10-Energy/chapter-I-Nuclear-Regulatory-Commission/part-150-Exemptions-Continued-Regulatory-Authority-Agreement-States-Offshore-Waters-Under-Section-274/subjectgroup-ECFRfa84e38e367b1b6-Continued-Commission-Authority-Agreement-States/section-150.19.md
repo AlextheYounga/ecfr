@@ -1,0 +1,9 @@
+##### § 150.19 Submission to Commission of tritium reports. #####
+
+(a)-(b) [Reserved]
+
+(c) Except as specified in paragraph (d) of this section, each person who, pursuant to an Agreement State license, is authorized to possess tritium shall report promptly to the appropriate NRC Regional Office as shown in appendix D of part 20 of this chapter by telephone and telegraph, mailgram, or facsimile any incident in which an attempt has been made or is believed to have been made to commit a theft or unlawful diversion of more than 10 curies of such material at any one time or 100 curies of such material in any one calendar year. The initial report must be followed within a period of fifteen days by a written report that sets forth the details of the incident and its consequences. The report must be submitted to the Director, Office of Nuclear material Safety and Safeguards, using an appropriate method listed in § 150.4, with a copy to the appropriate NRC Regional Office as shown in appendix A to part 73 of this chapter. Subsequent to the submission of the written report required by this paragraph, each person subject to the provisions of this paragraph shall promptly inform the appropriate NRC Regional Office by means of a written report of any substantive additional information, which becomes available to such person, concerning an attempted or apparent theft or unlawful diversion of tritium.
+
+(d) The reports described in this section are not required for tritium possessed pursuant to a general license issued pursuant to regulations of an Agreement State equivalent to part 31 of this chapter or for tritium in spent fuel.
+
+[37 FR 9208, May 6, 1972, as amended at 41 FR 16448, Apr. 19, 1976; 46 FR 55085, Nov. 6, 1981; 49 FR 24708, June 15, 1984; 52 FR 31613, Aug. 21, 1987; 68 FR 58825, Oct. 10, 2003; 73 FR 5727, Jan. 31, 2008; 79 FR 75742, Dec. 19, 2014]

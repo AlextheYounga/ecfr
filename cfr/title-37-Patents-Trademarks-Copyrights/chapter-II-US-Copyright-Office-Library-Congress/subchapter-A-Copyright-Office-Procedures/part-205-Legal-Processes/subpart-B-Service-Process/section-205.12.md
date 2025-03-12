@@ -1,0 +1,11 @@
+##### § 205.12 Process served on the Register of Copyrights or an employee in his or her official capacity. #####
+
+(a) Summonses, complaints and all other process directed to the Copyright Office, the Register of Copyrights or any other Copyright Office employee in his or her official capacity should be served on the General Counsel of the Copyright Office or his or her designee as indicated in § 205.2 of this part. To effect proper service, the requirements of Rule 4(i) of the Federal Rules of Civil Procedure must also be satisfied by effecting service on both the United States Attorney for the district in which the action is brought and the Attorney General, Attn: Director of Intellectual Property Staff, Commercial Litigation Branch, Civil Division, Department of Justice, Washington, DC 20530.
+
+(b) If, notwithstanding paragraph (a) of this section, any employee of the Office is served with a summons or complaint in connection with the conduct of official business, that employee shall immediately notify and deliver the summons or complaint to the Office of the General Counsel of the Copyright Office.
+
+(c) Any employee receiving a summons or complaint shall note on the summons or complaint the date, hour, and place of service and mode of service.
+
+(d) The Office will accept service of process for an employee only when the legal proceeding is brought in connection with the conduct of official business carried out in the employee's official capacity.
+
+(e) When a legal proceeding is brought to hold an employee personally liable in connection with an action taken in the conduct of official business, rather than liable in an official capacity, the employee is to be served in accordance with any applicable statute, court rule, or rule of procedure. Service of process in this case is inadequate when made only on the General Counsel. An employee sued personally for an action taken in the conduct of official business shall immediately notify and deliver a copy of the summons or complaint to the General Counsel of the Copyright Office.

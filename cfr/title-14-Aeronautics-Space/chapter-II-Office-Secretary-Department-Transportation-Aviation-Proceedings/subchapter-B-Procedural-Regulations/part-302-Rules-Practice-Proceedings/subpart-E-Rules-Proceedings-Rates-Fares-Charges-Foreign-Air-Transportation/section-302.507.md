@@ -1,0 +1,3 @@
+##### § 302.507 Computing time for filing complaints. #####
+
+In computing the time for filing formal complaints pursuant to § 302.506, with respect to tariffs that do not contain a posting date, the first day preceding the effective date of the tariff shall be the first day counted, and the last day so counted shall be the last day for filing unless such day is a Saturday, Sunday, or legal holiday for the Department, in which event the period for filing shall be extended to the next successive day that is not a Saturday, Sunday, or holiday. The computation of the time for filing complaints as to tariffs containing a posting date shall be governed by § 302.8.

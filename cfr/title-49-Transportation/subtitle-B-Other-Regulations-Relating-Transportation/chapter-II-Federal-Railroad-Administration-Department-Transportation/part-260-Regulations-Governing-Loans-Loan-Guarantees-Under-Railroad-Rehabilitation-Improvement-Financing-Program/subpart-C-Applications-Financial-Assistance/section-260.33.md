@@ -1,0 +1,3 @@
+##### § 260.33 Information requests. #####
+
+If an Applicant desires that any information submitted in its application or any supplement thereto not be released by the Administrator upon request from a member of the public, the Applicant must so state and must set forth any reasons why such information should not be released, including particulars as to any competitive harm which would probably result from release of such information. The Administrator will keep such information confidential to the extent permitted by law.

@@ -1,0 +1,5 @@
+##### § 415.643 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT). #####
+
+(a) Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart and producing cadmium pigments must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for Cadmium (T), Selenium (T), and Zinc (T) are the same as specified in § 415.642(a).
+
+(b) Except as provided in 40 CFR 125.30 through 125.32 any existing point source subject to this subpart and producing cadmium salts must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for cadmium (T), selenium (T), and zinc (T) are the same as specified in § 414.642(b).

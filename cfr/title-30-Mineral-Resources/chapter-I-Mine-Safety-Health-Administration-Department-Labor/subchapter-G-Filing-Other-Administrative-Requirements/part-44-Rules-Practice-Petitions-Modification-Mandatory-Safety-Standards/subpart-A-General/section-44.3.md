@@ -1,0 +1,3 @@
+##### § 44.3 Parties. #####
+
+Parties to proceedings under this part shall include the Mine Safety and Health Administration, the operator of the mine, and any representative of the miners in the affected mine. Any other person claiming a right of participation as an interested party in a proceeding may become a party upon application to the Assistant Secretary and the granting of such application. After referral of a petition to the Chief Administrative Law Judge, all applications for status as a party shall be made to the Chief Administrative Law Judge for his disposition.

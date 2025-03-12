@@ -1,0 +1,3 @@
+##### 2532.403 Applicability. #####
+
+Advance payments may be made in any amount not exceeding the contract price, provided (a) the amount of the advance payment is based upon an analysis of the financing required by the contractor for the contract and does not exceed reasonable financial requirements between payments, and (b) such advance payment is appropriate in order to contract for the required work.

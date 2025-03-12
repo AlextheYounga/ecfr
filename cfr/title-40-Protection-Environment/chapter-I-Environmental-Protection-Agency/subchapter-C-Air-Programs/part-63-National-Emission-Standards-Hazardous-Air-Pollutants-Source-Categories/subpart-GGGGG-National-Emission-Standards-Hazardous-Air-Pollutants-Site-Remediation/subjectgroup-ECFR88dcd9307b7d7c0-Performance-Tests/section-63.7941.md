@@ -1,0 +1,51 @@
+##### § 63.7941 How do I conduct a performance test, design evaluation, or other type of initial compliance demonstration? #####
+
+(a) You must conduct a performance test or design evaluation to demonstrate initial compliance for each new or existing affected source that is subject to an emission limit in this subpart. You must report the results of the performance test or design evaluation according to the requirements in § 63.7950(e)(1).
+
+(b) If you choose to conduct a performance test to demonstrate initial compliance, you must conduct the test according to the requirements in § 63.7(e)(1) and paragraphs (b) (1) through (5) of this section.
+
+(1) You must conduct three separate test runs for each performance test required in this section, as specified in § 63.7(e)(3). Each test run must last at least 1 hour.
+
+(2) If your initial startup date was on or before September 3, 2019, then until January 6, 2021, you must conduct each performance test under representative conditions according to the requirements in § 63.7(e)(1). If your initial startup date is after September 3, 2019, then as of July 10, 2020, and for all sources after January 6, 2021, you must conduct each performance test under conditions representative of normal operations. You may not conduct performance tests during periods of startup, shutdown, or malfunction. The owner or operator must record the process information that is necessary to document operating conditions during the test and include in such record an explanation to support that such conditions represent normal operation. Upon request, the owner or operator shall make available to the Administrator such records as may be necessary to determine the conditions of performance tests.
+
+(3) You must conduct each performance test using the test methods and procedures in § 63.694(l).
+
+(4) Follow the procedures in paragraphs (b)(4)(i) through (iii) of this section to determine compliance with the facility-wide total organic mass emissions rate in § 63.7890(b).
+
+(i) Determine compliance with the total organic mass flow rate using Equation 1 of this section as follows:
+
+![](/graphics/er08oc03.000.gif)Where: Eh = Total organic mass flow rate, kg/h; Qsd = Volumetric flow rate of gases entering or exiting control device (or exiting the process vent if no control device is used), as determined by Method 2 of 40 CFR part 60, appendix A, dscm/h; n = Number of organic compounds in the vent gas; Ci = Organic concentration in ppm, dry basis, of compound i in the vent gas, as determined by Method 18 of 40 CFR part 60, appendix A; MWi = Molecular weight of organic compound i in the vent gas,kg/kg-mol;
+
+(ii) Determine compliance with the annual total organic emissions rate using Equation 2 of this section as follows:
+
+![](/graphics/er08oc03.001.gif)Where: EA = Total organic mass emissions rate, kilograms per year; Eh = Total organic mass flow rate for the process vent, kg/h; H = Total annual hours of operation for the affected unit, h.
+
+(iii) Determine compliance with the total organic emissions limit from all affected process vents at the facility by summing the total hourly organic mass emissions rates (Eh as determined in Equation 1 of this section) and summing the total annual organic mass emissions rates (EA, as determined in Equation 2 of this section) for all affected process vents at the facility.
+
+(5) Determine compliance with the 95 percent reduction limit in § 63.7890(a)(2)(i) for the combination of all affected process vents at the facility using Equations 3 and 4 of this section to calculate control device inlet and outlet concentrations and Equation 5 of this section to calculate control device emission reductions for process vents as follows:
+
+![](/graphics/er08oc03.002.gif)![](/graphics/er08oc03.003.gif)Where: Cij, Coj = Concentration of sample component j of the gas stream at the inlet and outlet of the control device, dry basis, parts per million by volume. For uncontrolled vents, Cij = Coj and equal the concentration exiting the vent; Ei, Eo = Mass rate of total organic compounds (TOC) (minus methane and ethane) or total HAP, from Table 1 of this subpart, at the inlet and outlet of the control device, respectively, dry basis, kilogram per hour. For uncontrolled vents, Ei = Eo and equal the concentration exiting the vent; Mij, Moj = Molecular weight of sample component j of the gas stream at the inlet and outlet of the control device, respectively, gram/gram-mole. For uncontrolled vents, Mij = Moj and equal the gas stream molecular weight exiting the vent; Qi, Qo = Flowrate of gas stream at the inlet and outlet of the control device, respectively, dry standard cubic meters per minute (dscm/min). For uncontrolled vents, Qi = Qo and equals the flowrate exiting the vent; K2 = Constant, 2.494 × 10−6 (parts per million) −1 (gram-mole per standard cubic meter) (kilogram/gram)(minute/hour, where standard temperature (gram-mole per standard cubic meter) is 20 °C); n = the number of components in the sample.![](/graphics/er08oc03.004.gif)Where: Rv = Overall emissions reduction for all affected process vents, percent Ei = Mass rate of TOC (minus methane and ethane) or total HAP, from Table 1 of this subpart, at the inlet to the control device, or exiting the vent for uncontrolled vents, as calculated in this section, kilograms TOC per hour or kilograms HAP per hour; Eo = Mass rate of TOC (minus methane and ethane) or total HAP, from Table 1 of this subpart, at the outlet to the control device, or exiting the vent for uncontrolled vents, as calculated in this section, kilograms TOC per hour or kilograms HAP per hour. For vents without a control device, Eo = Ei; n = number of affected source process vents.
+
+(c) If you use a carbon adsorption system, condenser, vapor incinerator, boiler, or process heater to meet an emission limit in this subpart, you may choose to perform a design evaluation to demonstrate initial compliance instead of a performance test. You must perform a design evaluation according to the general requirements in § 63.693(b)(8) and the specific requirements in § 63.693(d)(2)(ii) for a carbon adsorption system (including establishing carbon replacement schedules and associated requirements), § 63.693(e)(2)(ii) for a condenser, § 63.693(f)(2)(ii) for a vapor incinerator, or § 63.693(g)(2)(i)(B) for a boiler or process heater.
+
+(d) During the performance test or design evaluation, you must collect the appropriate operating parameter monitoring system data, average the operating parameter data over each test run, and set operating limits, whether a minimum or maximum value, based on the average of values for each of the three test runs. If you use a control device design analysis to demonstrate control device performance, then the minimum or maximum operating parameter value must be established based on the control device design analysis and supplemented, as necessary, by the control device manufacturer recommendations or other applicable information.
+
+(e) If you control air emissions from an affected source by introducing the vent stream into the flame zone of a boiler or process heater according to the requirements in § 63.693(g)(1)(iii), you must conduct a performance test or design evaluation to demonstrate that the boiler or process heater meets the applicable emission limit while operating at a residence time of 0.5 seconds or greater and at a combustion zone temperature of 760 °C or higher.
+
+(f) You must conduct a performance evaluation for each continuous monitoring system according to the requirements in § 63.8(e).
+
+(g) If you are required to conduct a visual inspection of an affected source, you must conduct the inspection according to the procedures in § 63.906(a)(1) for Tank Level 1 controls, § 63.1063(d) for Tank Level 2 controls, § 63.926(a) for Container Level 1 controls, § 63.946(a) for a surface impoundment equipped with a floating membrane cover, § 63.946(b) for a surface impoundment equipped with a cover and vented to a control device, § 63.1047(a) for a separator with a fixed roof, § 63.1047(c) for a separator equipped with a fixed roof and vented to a control device, § 63.695(c)(1)(i) or (c)(2)(i) for a closed vent system, and § 63.964(a) for individual drain systems.
+
+(h) [Reserved]
+
+(i) If you use Container Level 2 controls, you must conduct a test to demonstrate that the container operates with no detectable organic emissions or that the container is vapor-tight. You must conduct the test using Method 21 (40 CFR part 60, appendix A) and the procedures in § 63.925(a) to demonstrate that the container operates with no detectable organic emissions or Method 27 (40 CFR part 60, appendix A) and the procedures in § 63.925(b) to demonstrate that the container is vapor-tight.
+
+(j) If you locate an affected source inside a permanent total enclosure that is vented to a control device, you must demonstrate that the enclosure meets the verification criteria in section 5 of Procedure T in 40 CFR 52.741, appendix B.
+
+(k) If you use a fixed roof or a floating roof to control air emissions from a separator, you must conduct a test to demonstrate that the roof operates with no detectable organic emissions using Method 21 (40 CFR part 60, appendix A) and the procedures in § 63.1046(a). If you use a floating roof, you also must measure the seal gaps according to the procedures in § 63.1046(b).
+
+(l) If you use a flare to control air emissions, you must conduct a visible emissions test using Method 22 in 40 CFR part 60, appendix A, and the procedures in § 63.11(b)(4).
+
+(m) For each initial compliance demonstration that requires a performance test or design evaluation, you must report the results in your notification of compliance status according to the requirements in § 63.7950(e)(1). For each initial compliance demonstration that does not require a performance test or design evaluation, you must submit a notification of compliance status according to the requirements in § 63.7950(e)(2).
+
+[68 FR 58190, Oct. 8, 2003, as amended at 71 FR 69019, Nov. 29, 2006; 85 FR 41708, July 10, 2020]

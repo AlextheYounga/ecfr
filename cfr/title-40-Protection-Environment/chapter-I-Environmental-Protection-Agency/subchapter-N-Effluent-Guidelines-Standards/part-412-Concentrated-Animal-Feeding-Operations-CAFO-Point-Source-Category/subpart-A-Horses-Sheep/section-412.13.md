@@ -1,0 +1,5 @@
+##### § 412.13 Effluent limitations attainable by the application of the best available technology economically achievable (BAT). #####
+
+(a) Except as provided in 40 CFR 125.30 through 125.32 and when the provisions of paragraph (b) of this section apply, any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BAT: There shall be no discharge of process waste water pollutants into U.S. waters.
+
+(b) Whenever rainfall events cause an overflow of process wastewater from a facility designed, constructed, operated, and maintained to contain all process-generated wastewaters plus the runoff from a 25-year, 24-hour rainfall event at the location of the point source, any process wastewater pollutants in the overflow may be discharged into U.S. waters.

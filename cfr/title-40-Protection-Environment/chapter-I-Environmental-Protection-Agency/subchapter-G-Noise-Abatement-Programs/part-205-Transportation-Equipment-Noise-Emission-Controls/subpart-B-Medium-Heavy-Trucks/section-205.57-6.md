@@ -1,0 +1,5 @@
+##### § 205.57-6 Acceptance and rejection of batches. #####
+
+(a) The batch from which a batch sample is selected will be accepted or rejected based upon the number of failing vehicles in the batch sample. A sufficient number of test samples will be drawn from the batch sample until the cumulative number of failing vehicles is less than or equal to the acceptance number or greater than or equal to the rejection number appropriate for the cumulative number of vehicles tested. The acceptance and rejection numbers listed in Appendix I, Table II at the appropriate code letter obtained according to § 205.57-2 will be used in determining whether the acceptance or rejection of a batch has occurred.
+
+(b) Acceptance or rejection of a batch takes place when the decision that a vehicle is a failing vehicle is made on the last vehicle required to make a decision under paragraph (a) of this section.

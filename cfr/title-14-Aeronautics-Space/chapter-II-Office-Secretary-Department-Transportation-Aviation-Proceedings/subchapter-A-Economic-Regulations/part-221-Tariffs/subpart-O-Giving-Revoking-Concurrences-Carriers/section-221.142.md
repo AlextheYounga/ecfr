@@ -1,0 +1,3 @@
+##### § 221.142 Method of withdrawing portion of authority conferred by concurrence. #####
+
+If a carrier desires to issue a concurrence conferring less authority than a previous concurrence given to the same carrier, the new concurrence shall not direct the cancellation of such previous concurrence. In such circumstances, such previous concurrence shall be revoked by issuing and filing a Notice of Revocation of Concurrence in a form acceptable to the Office of International Aviation. Such revocation notice shall include reference to the new concurrence.

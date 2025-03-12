@@ -1,0 +1,3 @@
+##### § 440.365 Coverage of rural health clinic and federally qualified health center (FQHC) services. #####
+
+If a State provides benchmark or benchmark-equivalent coverage to individuals, it must assure that the individual has access, through that coverage or otherwise, to rural health clinic services and FQHC services as defined in subparagraphs (B) and (C) of section 1905(a)(2) of the Act. Payment for these services must be made in accordance with the payment provisions of section 1902(bb) of the Act.

@@ -1,0 +1,3 @@
+##### § 509.13 Change of time limits. #####
+
+Except as otherwise provided by law, the administrative law judge may, for good cause shown, extend the time limits prescribed by the Uniform Rules or any notice or order issued in the proceedings. After the referral of the case to the Director pursuant to § 509.38 of this subpart, the Director may grant extensions of the time limits for good cause shown. Extensions may be granted at the motion of a party or on the Director's or the administrative law judge's own motion after notice and opportunity to respond is afforded all non-moving parties.

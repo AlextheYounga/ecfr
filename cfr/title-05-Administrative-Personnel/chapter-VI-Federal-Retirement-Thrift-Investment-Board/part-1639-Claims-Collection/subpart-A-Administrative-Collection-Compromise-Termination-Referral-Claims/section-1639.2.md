@@ -1,0 +1,3 @@
+##### § 1639.2 Application of other regulations; scope. #####
+
+All provisions of the Federal Claims Collection Standards, 4 CFR chapter II, apply to the regulations of this part. This part supplements 4 CFR chapter II by the prescription of procedures and directives necessary and appropriate for operations of the Federal Retirement Thrift Investment Board. The Federal Claims Collection Standards and this part do not apply to any claim as to which there is an indication of fraud or misrepresentation, as described in 4 CFR 101.3, unless returned by the Department of Justice to the Board for handling.

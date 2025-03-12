@@ -1,0 +1,3 @@
+##### § 761.280 Application and scope. #####
+
+Follow the procedures in this subpart when sampling to verify completion of the cleanup for self-implementing, on-site disposal of bulk PCB remediation waste and porous surfaces consistent with the levels of § 761.61(a)(4)(i) and (iii). The objective of this subpart is not to search for new contamination. Confirmation of compliance with the cleanup levels in § 761.61(a)(4) is only verifiable for the area sampled in accordance with this subpart. Do not make conclusions or extrapolations about PCB concentrations outside of the area which has been cleaned up and verified based on the results of this verification sampling.

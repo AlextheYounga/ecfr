@@ -1,0 +1,3 @@
+##### § 352.11 Notice. #####
+
+The FDIC shall make available to employees, applicants, participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the programs or activities conducted by the FDIC, and make such information available to them in such manner as the Chairman or designee finds necessary to apprise such persons of the protections against discrimination under section 504 or technology access provided under section 508 and this regulation.

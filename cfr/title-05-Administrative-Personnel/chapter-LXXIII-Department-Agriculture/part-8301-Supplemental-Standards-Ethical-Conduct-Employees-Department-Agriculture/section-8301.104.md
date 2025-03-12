@@ -1,0 +1,3 @@
+##### § 8301.104 Additional rules for employees of the Food Safety and Inspection Service. #####
+
+Any employee of the Food Safety and Inspection Service not otherwise required to obtain approval for outside employment under § 8301.102, shall, before engaging in any form of outside employment, obtain written approval in accordance with the procedures and standards set forth in paragraphs (c) and (d) of § 8301.102

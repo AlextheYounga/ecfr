@@ -1,0 +1,3 @@
+##### 409.404 List of parties excluded from Federal procurement and nonprocurement programs. #####
+
+The Department Debarring Officer is USDA's single point of contact with GSA for debarment and suspension actions taken under this subpart. The debarring official for AMS shall notify the Department Debarring Officer of each debarment and suspension action by promptly submitting a copy of the debarment or suspension notice and any later changes to the debarment or suspension status. The Department Debarring Officer will forward a copy of each notice to GSA for inclusion in the Government-wide list.

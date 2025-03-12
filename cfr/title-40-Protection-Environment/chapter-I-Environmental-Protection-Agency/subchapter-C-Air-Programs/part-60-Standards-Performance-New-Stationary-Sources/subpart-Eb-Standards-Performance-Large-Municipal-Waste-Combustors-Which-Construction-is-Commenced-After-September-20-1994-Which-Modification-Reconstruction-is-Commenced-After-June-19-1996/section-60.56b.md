@@ -1,0 +1,5 @@
+##### § 60.56b Standards for air curtain incinerators. #####
+
+On and after the date on which the initial performance test is completed or is required to be completed under § 60.8 of subpart A of this part, the owner or operator of an air curtain incinerator with the capacity to combust greater than 250 tons per day of municipal solid waste and that combusts a fuel feed stream composed of 100 percent yard waste and no other municipal solid waste materials shall at no time cause to be discharged into the atmosphere from that incinerator any gases that exhibit greater than 10-percent opacity (6-minute average), except that an opacity level of up to 35 percent (6-minute average) is permitted during startup periods during the first 30 minutes of operation of the unit.
+
+[60 FR 65419, Dec. 19, 1995, as amended at 62 FR 45126, Aug. 25, 1997]

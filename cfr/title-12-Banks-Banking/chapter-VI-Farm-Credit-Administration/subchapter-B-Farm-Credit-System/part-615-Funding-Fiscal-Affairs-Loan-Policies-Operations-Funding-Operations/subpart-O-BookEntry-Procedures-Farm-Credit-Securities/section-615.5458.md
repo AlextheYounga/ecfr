@@ -1,0 +1,3 @@
+##### § 615.5458 Waiver of regulations. #####
+
+The Farm Credit Administration reserves the right, in the Farm Credit Administration's discretion, to waive any provision(s) of the regulations in this subpart in any case or class of cases for the convenience of the Farm Credit banks and the Funding Corporation or in order to relieve any person(s) of unnecessary hardship, if such action is not inconsistent with law, does not adversely affect any substantial existing rights, and the Farm Credit Administration is satisfied that such action will not subject the Farm Credit banks and the Funding Corporation to any substantial expense or liability.

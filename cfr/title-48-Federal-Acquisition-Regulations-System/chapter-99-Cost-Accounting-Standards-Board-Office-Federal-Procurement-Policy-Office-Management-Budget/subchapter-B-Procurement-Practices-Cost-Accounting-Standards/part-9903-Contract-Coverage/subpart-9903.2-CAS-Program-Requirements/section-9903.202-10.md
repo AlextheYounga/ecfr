@@ -1,0 +1,5 @@
+##### 9903.202-10 Illustration of Disclosure Statement Form, CASB DS-2. #####
+
+The data which are required to be disclosed by educational institutions are set forth in detail in the Disclosure Statement Form, CASB DS-2, which is illustrated below:
+
+![](/graphics/ec02fe91.045.gif)![](/graphics/ec02fe91.046.gif)![](/graphics/ec02fe91.047.gif)![](/graphics/ec02fe91.048.gif)![](/graphics/ec02fe91.049.gif)![](/graphics/ec02fe91.050.gif)![](/graphics/ec02fe91.051.gif)![](/graphics/ec02fe91.052.gif)![](/graphics/ec02fe91.053.gif)![](/graphics/ec02fe91.054.gif)![](/graphics/ec02fe91.055.gif)![](/graphics/ec02fe91.056.gif)![](/graphics/ec02fe91.057.gif)![](/graphics/ec02fe91.058.gif)![](/graphics/ec02fe91.059.gif)![](/graphics/ec02fe91.060.gif)![](/graphics/ec02fe91.061.gif)![](/graphics/ec02fe91.062.gif)![](/graphics/ec02fe91.063.gif)![](/graphics/ec02fe91.064.gif)![](/graphics/ec02fe91.065.gif)![](/graphics/ec02fe91.066.gif)![](/graphics/ec02fe91.067.gif)![](/graphics/ec02fe91.068.gif)[59 FR 55757, Nov. 8, 1994]

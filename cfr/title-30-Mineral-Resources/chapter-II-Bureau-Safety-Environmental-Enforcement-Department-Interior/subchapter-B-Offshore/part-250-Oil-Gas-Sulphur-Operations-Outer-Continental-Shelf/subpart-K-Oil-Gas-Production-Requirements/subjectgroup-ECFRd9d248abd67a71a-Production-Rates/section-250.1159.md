@@ -1,0 +1,5 @@
+##### § 250.1159 May the Regional Supervisor limit my well or reservoir production rates? #####
+
+(a) The Regional Supervisor may set a Maximum Production Rate (MPR) for a producing well completion, or set a Maximum Efficient Rate (MER) for a reservoir, or both, if the Regional Supervisor determines that an excessive production rate could harm ultimate recovery. An MPR or MER will be based on well tests and any limitations imposed by well and surface equipment, sand production, reservoir sensitivity, gas-oil and water-oil ratios, location of perforated intervals, and prudent operating practices.
+
+(b) If the Regional Supervisor sets an MPR for a producing well completion and/or an MER for a reservoir, you may not exceed those rates except due to normal variations and fluctuations in production rates as set by the Regional Supervisor.

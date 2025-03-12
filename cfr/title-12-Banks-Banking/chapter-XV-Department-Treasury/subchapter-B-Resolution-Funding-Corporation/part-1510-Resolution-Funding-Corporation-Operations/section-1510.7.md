@@ -1,0 +1,3 @@
+##### § 1510.7 What are the Funding Corporation's reporting requirements? #####
+
+In addition to the budget submission required by § 1510.3 and the funding projection reports required by § 1510.5, the Funding Corporation must prepare such reports as the Secretary may require, including reports necessary to assist the Secretary in making the annual report to Congress and the President on the Funding Corporation under section 21B(i) of the Act.

@@ -1,0 +1,3 @@
+##### 2015.305 Proposal evaluation. #####
+
+The contracting officer may provide offerors' cost proposals and supporting financial information to members of the Source Evaluation Panel at the same time technical proposals are distributed for evaluation. The Source Evaluation Panel shall use this information to perform an accurate integrated assessment of each offeror's proposal based on all the facts presented to them.

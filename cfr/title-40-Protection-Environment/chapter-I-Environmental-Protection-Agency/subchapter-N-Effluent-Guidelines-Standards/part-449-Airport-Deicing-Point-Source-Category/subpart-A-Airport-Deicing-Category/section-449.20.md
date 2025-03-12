@@ -1,0 +1,33 @@
+##### § 449.20 Monitoring, reporting and recordkeeping requirements. #####
+
+(a) *Demonstrating compliance with the ADF collection requirement for dischargers subject to NSPS collection requirements in § 449.11.* Except as provided in 40 CFR 125.30 through 125.32, an individual permittee shall select a procedure under either paragraphs (a)(1), (2), or (3) of this section in its permit application as the procedure for the permittee to demonstrate compliance with the applicable collection, reporting and recordkeeping requirements of this Part. A procedure selected by the permittee under paragraph (a)(2) of this section may be included in the permit only with the Director's approval, as described in paragraph (a)(2) of this section. For general permits, use of alternative methods for determining compliance with the ADF collection requirement for dischargers subject to NSPS collection requirements in this part will be at the discretion of the Director.
+
+(1) The permittee shall maintain records to demonstrate, and certify annually, that it is operating and maintaining one or more centralized deicing pads. This technology shall be operated and maintained according to the technical specifications set forth in paragraphs (a)(1)(i) through (iv) of this section. For both individual and general permits, these technical specifications shall be expressly set forth as requirements in the permit. The permittee's demonstration and valid certification are sufficient to meet the applicable NSPS collection requirement without the permittee having to determine the numeric percentage of available ADF collected.
+
+(i) Each centralized deicing pad shall be sized and sited in accordance with all applicable FAA advisory circulars.
+
+(ii) Drainage valves associated with the centralized deicing pad shall be activated before deicing activities commence, to collect available ADF.
+
+(iii) The centralized deicing pad and associated collection equipment shall be installed and maintained per any applicable manufacturers' instructions, and shall be inspected, at a minimum, at the beginning of each deicing season to ensure that the pad and associated equipment are in working condition.
+
+(iv) All aircraft deicing shall take place on a centralized deicing pad, with the exception of defrosting and deicing for safe taxiing.
+
+(2) *Alternative technology or specifications.* (i) An individual permit (or a general permit at the discretion of the Director) may allow one of the following alternative procedures for demonstrating compliance with its collection requirement, instead of the procedure in paragraph (a)(1) of this section. The permittee must submit all information and documentation necessary to support this request. An individual permittee may request this alternative procedure in its initial permit application or permit renewal application. During the term of an individual permit, the permittee may also request this alternative procedure as a permit modification, subject to the requirements and procedures at 40 CFR 122.62 and 40 CFR part 124. If the Director determines, in his or her discretion, that the requested alternative procedure will achieve the collection requirement in the permit, the Director shall approve the request:
+
+(A) The use of a different ADF collection technology from the centralized deicing pad technology specified in paragraph (a)(1) of this section; or
+
+(B) The use of the same ADF collection technology, but with different specifications for operation and/or maintenance.
+
+(ii) *Pollution prevention credit.* A permittee may apply for, and obtain, full or partial credit towards compliance with the available ADF collection requirement. To obtain credit the permittee must demonstrate to the Director's satisfaction that it employs a pollution prevention technique that reduces the volume of, or quantity of, pollutants in, available ADF. The credit shall be equivalent to the demonstrated reduction, as determined by the Director.
+
+(iii) The Director shall set forth technical specifications for proper operation and maintenance of the chosen collection technology, as appropriate, and compliance with these technical specifications must be required by the permit. The permit shall also require the permittee to maintain records sufficient to demonstrate compliance with these requirements. This demonstration constitutes compliance by the permittee with the percent capture requirement without the permittee having to determine the numeric percentage of ADF that it has collected. Before the Director may approve an alternate technology under this subsection, the permittee must demonstrate to the Director's satisfaction that the alternate technology will achieve the applicable percent capture requirement.
+
+(3) The permittee shall maintain records, by means deemed acceptable by the Director, and report at a frequency determined by the Director, on the volume of ADF sprayed and the amount of available ADF collected in order to determine the compliance with the collection requirement.
+
+(b) *Monitoring requirements*—(1) *COD limitation.* Permittees subject to the ADF collection and discharge requirements specified in § 449.11 must conduct effluent monitoring to demonstrate compliance with the COD limitation for all ADF that is collected. Compliance must be demonstrated at the location where the effluent leaves the on-site treatment system utilized for meeting these requirements and before commingling with any non-deicing discharge. Effluent samples must be collected following the protocol in Appendix A to this part.
+
+(2) *Ammonia limitation.* If a permittee chooses to comply with the compliance alternative specified in § 449.10(a) or § 449.11(b), the permittee must conduct effluent monitoring at all locations where pavement deicing with a product that contains urea is occurring, prior to any dilution or commingling with any non-deicing discharge.
+
+(c) *Recordkeeping.* (1) The permit shall provide that the permittee must maintain on site, during the term of the permit, up to five years, records documenting compliance with paragraphs (a) through (b) of this section. These records include, but are not limited to, documentation of wastewater samples collected and analyzed, certifications, and equipment maintenance schedules and agreements.
+
+(2) At the Director's discretion, a requirement may be included in the permit for the permittee to collect, and maintain on site during the term of the permit, up to five (5) years of data on the annual volume of ADF used.

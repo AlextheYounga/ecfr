@@ -1,0 +1,11 @@
+##### § 405.501 Determination of reasonable charges. #####
+
+(a) Except as specified in paragraphs (b), (c), and (d) of this section, Medicare pays no more for Part B medical and other health services than the “reasonable charge” for such service. The reasonable charge is determined by the carriers (subject to any deductible and coinsurance amounts as specified in §§ 410.152 and 410.160 of this chapter).
+
+(b) Part B of Medicare pays on the basis of “reasonable cost” (see part 413 of this chapter) for certain institutional services, certain services furnished under arrangements with institutions, and services furnished by entities that elect to be paid on a cost basis (including health maintenance organizations, rural health clinics, FQHCs that are authorized to bill under a reasonable cost system, and end-stage renal disease facilities).
+
+(c) Carriers will determine the reasonable charge on the basis of the criteria specified in § 405.502, and the customary and prevailing charge screens in effect when the service was furnished. (Also see §§ 415.55 through 415.70 and §§ 415.100 through 415.130 of this chapter, which pertain to the determination of reimbursement for services performed by hospital-based physicians.) However, when services are furnished more than 12 months before the beginning of the fee screen year (January 1 through December 30) in which a request for payment is made, payment is based on the customary and prevailing charge screens in effect for the fee screen year that ends immediately preceding the fee screen year in which the claim or request for payment is made.
+
+(d) Payment under Medicare Part B for durable medical equipment and prosthetic and orthotic devices is determined in accordance with the provisions of subpart D of part 414 of this chapter.
+
+[47 FR 63274, Dec. 31, 1981, as amended at 51 FR 34978, Oct. 1, 1986; 51 FR 37911, Oct. 27, 1986; 54 FR 9003, Mar. 2, 1989; 57 FR 24975, June 12, 1992; 57 FR 33896, July 31, 1992; 57 FR 57688, Dec. 7, 1992; 60 FR 63176, Dec. 8, 1995; 79 FR 25473, May 2, 2014]

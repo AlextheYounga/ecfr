@@ -1,0 +1,7 @@
+##### § 229.217 Fuel tank. #####
+
+(a) *External fuel tanks.* Locomotives equipped with external fuel tanks shall, at a minimum, comply with the requirements of AAR S-5506, “Performance Requirements for Diesel Electric Locomotive Fuel Tanks” (October 1, 2001), except for section 4.4. This paragraph does not apply to locomotives subject to the fuel tank safety requirements of § 238.223 or § 238.423 of this chapter. The Director of the Federal Register approves incorporation by reference of the AAR S-5506, “Performance Requirements for Diesel Electric Locomotive Fuel Tanks” (October 1, 2001) in this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of the incorporated standard from the Association of American Railroads, 50 F Street NW., Washington, DC 20001. You may inspect a copy of the incorporated standard at the Federal Railroad Administration, Docket Clerk, 1200 New Jersey Avenue, SE., Washington, DC 20590 or at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) *Internal fuel tanks.* Locomotives equipped with internal fuel tanks shall, at a minimum, comply with the requirements of § 238.223(b) of this chapter.
+
+[71 FR 36914, June 28, 2006, as amended at 74 FR 25173, May 27, 2009]

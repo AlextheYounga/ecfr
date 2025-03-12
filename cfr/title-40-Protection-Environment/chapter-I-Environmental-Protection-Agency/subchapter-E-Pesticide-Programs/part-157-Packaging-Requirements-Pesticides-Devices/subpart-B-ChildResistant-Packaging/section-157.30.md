@@ -1,0 +1,3 @@
+##### § 157.30 Voluntary use of child-resistant packaging. #####
+
+A registrant whose product is not required to be in child-resistant packaging may distribute or sell his pesticide product in child-resistant packaging. If he does so, that packaging must meet the standards for child-resistant packaging stated in § 157.32. The registrant must certify to this effect in accordance with § 157.34, and must retain the records required by § 157.36.

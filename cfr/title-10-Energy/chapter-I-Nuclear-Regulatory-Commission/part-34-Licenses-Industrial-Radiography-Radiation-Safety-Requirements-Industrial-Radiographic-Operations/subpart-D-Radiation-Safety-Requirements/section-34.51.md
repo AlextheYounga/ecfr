@@ -1,0 +1,3 @@
+##### § 34.51 Surveillance. #####
+
+During each radiographic operation the radiographer, or the other individual present, as required by § 34.41, shall maintain continuous direct visual surveillance of the operation to protect against unauthorized entry into a high radiation area, as defined in 10 CFR part 20 of this chapter, except at permanent radiographic installations where all entryways are locked and the requirements of § 34.33 are met.

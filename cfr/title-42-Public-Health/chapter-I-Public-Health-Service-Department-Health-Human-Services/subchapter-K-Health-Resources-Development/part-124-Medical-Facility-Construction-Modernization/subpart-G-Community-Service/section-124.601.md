@@ -1,0 +1,3 @@
+##### § 124.601 Applicability. #####
+
+The provisions of this subpart apply to any recipient of Federal assistance under title VI or XVI of the Public Health Service Act that has given an assurance that it would make the facility or portion thereof assisted available to all persons residing (and, in the case of title XVI assisted applicants, employed), in the territorial area it serves. This assurance is referred to in this subpart as the “community service assurance.”

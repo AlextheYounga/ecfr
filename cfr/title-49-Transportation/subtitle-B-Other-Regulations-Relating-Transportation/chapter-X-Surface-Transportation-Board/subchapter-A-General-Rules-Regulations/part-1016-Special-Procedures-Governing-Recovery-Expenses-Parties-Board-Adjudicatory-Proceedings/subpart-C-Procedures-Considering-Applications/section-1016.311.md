@@ -1,0 +1,5 @@
+##### § 1016.311 General provisions. #####
+
+An applicant seeking payment of an award shall submit to the appropriate official of the paying agency a copy of the Board's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. Where the award is granted against the Surface Transportation Board the applicant shall make its submission to the Chief, Section of Financial Services, Surface Transportation Board, Washington, DC 20423-0001. The Board will pay the amount awarded to the applicant within 60 days of the applicant's submission unless the judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.
+
+[74 FR 52905, Oct. 15, 2009]

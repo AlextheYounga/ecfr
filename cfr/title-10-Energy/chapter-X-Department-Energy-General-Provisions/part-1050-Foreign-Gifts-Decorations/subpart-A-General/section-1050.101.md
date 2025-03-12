@@ -1,0 +1,3 @@
+##### § 1050.101 Purpose and scope. #####
+
+These regulations implement the provisions of the Foreign Gifts and Decorations Act (5 U.S.C. 7342), which establishes policies and procedures pertaining to the acceptance, use, and disposition of gifts or decorations from foreign governments. If an employee of Department of Energy (DOE) meets the requirements of these regulations, he or she is deemed to be in compliance with the DOE Conduct of Employees regulations, 10 CFR part 1010.

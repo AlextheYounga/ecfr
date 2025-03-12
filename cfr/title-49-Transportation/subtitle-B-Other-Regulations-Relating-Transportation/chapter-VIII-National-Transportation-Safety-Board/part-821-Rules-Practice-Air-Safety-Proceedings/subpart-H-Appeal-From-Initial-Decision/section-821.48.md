@@ -1,0 +1,15 @@
+##### § 821.48 Briefs and oral argument. #####
+
+(a) *Appeal brief.* Except as provided in § 821.57(b) with respect to emergency proceedings, each appeal must be perfected, within 50 days after the date on which the oral initial decision was rendered, or 30 days after the date on which the written initial decision or appealable order was served, by the filing, and simultaneous service on the other parties, of a brief in support of the appeal. An appeal may be dismissed by the Board, either on its own initiative or on motion of another party, where a party who has filed a notice of appeal fails to perfect the appeal by filing a timely appeal brief.
+
+(b) *Form and content of appeal brief.* (1) In addition to the general form requirements for documents set forth in § 821.7(c)(2), the appeal brief must be typewritten, double-spaced, on 81/2-by-11 inch paper. The appeal brief shall set forth the name, address and telephone number of the party, or the attorney or other representative filing the brief on the party's behalf. No appeal brief may contain more than 35 pages of text without prior leave of the General Counsel, upon a showing of good cause.
+
+(2) The appeal brief shall enumerate the appealing party's objections to the law judge's initial decision or appealable order, and shall state the reasons for such objections, including any legal precedent relied upon in support thereof.
+
+(3) Any error contained in the initial decision which is not objected to in the appeal brief may be deemed waived.
+
+(c) *Reply brief.* Any other party to the proceeding may file a brief in reply to the appeal brief within 30 days after the date on which the appeal brief was served on that party (except as provided in § 821.57(b) with respect to emergency proceedings). A copy of the reply brief shall simultaneously be served on the appealing party and any other parties to the proceeding. The form requirements governing the appeal brief set forth in paragraph (b)(1) also apply to the reply brief.
+
+(d) *Other filings.* Subsequent to the filing of the appeal and reply briefs, the parties may file citations to supplemental authorities. This procedure may be used only for identifying new and relevant legal authority, and not to correct omissions in briefing or to respond to a reply brief. No argument may be included with such a filing. Such filing shall include a reference to the page of the brief to which the cited legal authority pertains. Any response shall be filed within 10 days of the date of service of the supplemental filing, and shall be similarly limited in scope. With these exceptions, the parties may make no other submissions, except by leave of the Board, upon on a showing of good cause.
+
+(e) *Oral argument.* Oral argument before the Board will not be held in proceedings under this part unless the Board, on motion of a party or on its own initiative, determines that oral argument is needed.

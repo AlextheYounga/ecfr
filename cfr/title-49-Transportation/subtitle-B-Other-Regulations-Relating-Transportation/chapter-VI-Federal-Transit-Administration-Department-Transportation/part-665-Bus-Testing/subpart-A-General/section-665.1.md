@@ -1,0 +1,3 @@
+##### § 665.1 Purpose. #####
+
+An applicant for Federal financial assistance for the purchase or lease of buses with funds obligated by the FTA shall certify to the FTA that any new bus model acquired with such assistance has been tested and has received a passing test score in accordance with this part. This part contains the information necessary for a recipient to ensure compliance with this provision.

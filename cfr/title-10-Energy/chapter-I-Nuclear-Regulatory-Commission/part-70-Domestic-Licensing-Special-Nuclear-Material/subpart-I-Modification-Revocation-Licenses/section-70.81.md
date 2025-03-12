@@ -1,0 +1,11 @@
+##### § 70.81 Modification and revocation of licenses. #####
+
+(a) The terms and conditions of all licenses shall be subject to amendment, revision, or modification by reason of amendments to the Atomic Energy Act of 1954, or by reason of rules, regulations or orders issued in accordance with the Act or any amendments thereto;
+
+(b) Any license may be revoked, suspended or modified for any material false statements in the application or any statement of fact required under section 182 of the Act or because of conditions revealed by such application or statement of fact or any report, record, or inspection or other means which would warrant the Commission to refuse to grant a license on an original application, or for failure to construct or operate a facility in accordance with the terms of the construction permit or license, the technical specifications in the application, or for violation of, or failure to observe any of the terms and conditions of the Act, or of any regulation of the Commission.
+
+(c) Upon revocation, suspension or modification of a license, the Commission may immediately retake possession of all special nuclear material held by the licensee. In cases found by the Commission to be of extreme importance to the national defense or security, or to the health and safety of the public, the Commission may recapture any special nuclear material held by the licensee prior to any of the procedures provided under section 551-558 of title 5 of the United States Code.
+
+(d) Except in cases of willfulness or those in which the public health, interest or safety requires otherwise, no license shall be modified, suspended or revoked unless, prior to the institution of proceedings therefor, facts or conduct which may warrant such action shall have been called to the attention of the licensee in writing and the licensee shall have been accorded opportunity to demonstrate or achieve compliance with all lawful requirements.
+
+[21 FR 764, Feb. 3, 1956, as amended at 35 FR 11461, July 17, 1970. Redesignated at 65 FR 56226, Sept. 18, 2000]

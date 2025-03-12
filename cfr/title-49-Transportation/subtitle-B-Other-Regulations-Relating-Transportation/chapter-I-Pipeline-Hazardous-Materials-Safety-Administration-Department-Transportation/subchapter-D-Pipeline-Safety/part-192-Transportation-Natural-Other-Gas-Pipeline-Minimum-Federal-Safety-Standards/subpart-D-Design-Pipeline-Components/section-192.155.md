@@ -1,0 +1,3 @@
+##### § 192.155 Welded branch connections. #####
+
+Each welded branch connection made to pipe in the form of a single connection, or in a header or manifold as a series of connections, must be designed to ensure that the strength of the pipeline system is not reduced, taking into account the stresses in the remaining pipe wall due to the opening in the pipe or header, the shear stresses produced by the pressure acting on the area of the branch opening, and any external loadings due to thermal movement, weight, and vibration.

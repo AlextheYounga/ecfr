@@ -1,0 +1,3 @@
+##### § 225.1 General. #####
+
+Applications and authorizations for Dredged Material Permits under section 103 of the Act for the transportation of dredged material for the purpose of dumping it in ocean waters will be evaluated by the U.S. Army Corps of Engineers in accordance with the criteria set forth in part 227 and processed in accordance with 33 CFR 209.120 with special attention to § 209.120(g)(17) and 33 CFR 209.145.

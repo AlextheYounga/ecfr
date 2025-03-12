@@ -1,0 +1,3 @@
+##### § 298.4 Requests for statement of authority. #####
+
+In any instance where an air taxi operator or commuter air carrier is required by a foreign government to produce evidence of its authority to engage in foreign air transportation under the laws of the United States, the Director, Office of Aviation Analysis (X-50), Office of the Secretary, 1200 New Jersey Avenue, SE., Washington, DC 20590, will, upon request, furnish the carrier with a written statement, outlining its general operating privileges under this part for presentation to the proper authorities of the foreign government.

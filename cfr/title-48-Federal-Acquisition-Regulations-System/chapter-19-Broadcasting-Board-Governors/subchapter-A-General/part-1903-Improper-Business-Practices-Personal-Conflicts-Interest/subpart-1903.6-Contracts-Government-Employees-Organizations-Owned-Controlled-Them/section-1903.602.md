@@ -1,0 +1,3 @@
+##### 1903.602 Exceptions. #####
+
+To avoid potential conflicts of interest or the appearance of preferential treatment, it is the Broadcasting Board of Governors policy not to award contracts, purchase orders, grants or cooperative agreements to Government employees or their family members or business concerns owned or controlled by Government employees or their family members. Exceptions to this policy must be approved by the Board Director or Board Procurement Executive and supported by written Findings and Determination. A contract with an employee for services may result in violation of the dual salary compensation statutes (5 U.S.C. 5533). Nothing in this paragraph is intended to render inapplicable the conflict of interest prohibition set out in 18 U.S.C. 208.

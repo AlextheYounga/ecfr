@@ -1,0 +1,11 @@
+##### 925.7101 Policy. #####
+
+(a) DOE and its contractors must comply with all applicable U.S. export control laws and regulations.
+
+(b) Export control laws and regulations include, but are not limited to, the Atomic Energy Act of 1954 (42 U.S.C. 2011 *et seq.*), as amended; the Arms Export Control Act (22 U.S.C. 2751 *et seq.*); the Export Administration Act of 1979 (50 U.S.C. app. 2401 *et seq.*), as continued under the International Emergency Economic Powers Act (Title II of Pub. L. 95-223, 91 Stat. 1626, October 28, 1977; 50 U.S.C. 1701 *et seq.*); Trading with the Enemy Act (50 U.S.C. App. 5(b), as amended by the Foreign Assistance Act of 1961); Assistance to Foreign Atomic Energy Activities (Title 10 of the Code of Federal Regulations (CFR) Part 810); Export Administration Regulations (15 CFR parts 730 through 774); International Traffic in Arms Regulations (22 CFR parts 120 through 130); Export and Import of Nuclear Equipment and Material (10 CFR part 110); and regulations administered by the Office of Foreign Assets Control of the Department of the Treasury (31 CFR parts 500 through 598).
+
+(c) Contractors seeking guidance on how to comply with export control laws and regulations should review the illustrative list of laws and regulations set forth in Clause 952.225-71. Contractors also may contact the agencies responsible for administration of export laws or regulations applicable to a particular export (*e.g.,* Departments of State, Commerce, Treasury and Energy, or the Nuclear Regulatory Commission).
+
+(d) DOE Contracting Officers will not answer contractor questions regarding how to comply with U.S. export laws and regulations. Contracting Officers should direct contractors to the export laws, regulations, and agencies cited in the Export Clause at section 952.225-71 of this subpart.
+
+(e) It is the contractor's responsibility to comply with all applicable export control laws and regulations. This responsibility exists independent of, and is not established or limited by, this subpart.

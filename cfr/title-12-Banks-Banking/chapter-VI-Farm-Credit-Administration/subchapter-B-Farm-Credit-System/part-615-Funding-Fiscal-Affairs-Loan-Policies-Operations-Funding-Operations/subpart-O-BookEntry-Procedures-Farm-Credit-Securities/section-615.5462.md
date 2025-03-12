@@ -1,0 +1,3 @@
+##### § 615.5462 Restrictive endorsement of bearer securities. #####
+
+When consolidated and Systemwide bearer securities of the Farm Credit banks are being presented to Federal Reserve Banks, for redemption, exchange, or conversion to book entry, such securities may be restrictively endorsed. The restrictive endorsement shall be placed thereon in substantially the same manner and with the same effects as prescribed in United States Treasury Department regulations, now or hereafter in force, governing like transactions in United States bonds; and consolidated or Systemwide securities of the Farm Credit banks so endorsed shall be prepared for shipment and shipped in the manner prescribed in such regulations for United States bearer securities. (See 31 CFR part 328.)

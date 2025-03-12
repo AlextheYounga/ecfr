@@ -1,0 +1,3 @@
+##### § 13.105 Notification. #####
+
+Any person under investigation and any person required to testify and produce documentary or physical evidence during the investigation will be advised of the purpose of the investigation, and of the place where the investigative proceeding or deposition will be convened. This may be accomplished by a notice of investigation or by a subpoena. A copy of the order of investigation may be sent to such persons, when appropriate.

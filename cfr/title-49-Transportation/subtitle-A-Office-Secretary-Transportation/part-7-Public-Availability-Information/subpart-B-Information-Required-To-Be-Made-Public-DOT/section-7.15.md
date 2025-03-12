@@ -1,0 +1,3 @@
+##### § 7.15 Protection of records. #####
+
+Records made available to the public under this subpart may not be removed, altered, destroyed, or mutilated (this excludes duplicate copies that are provided to a member of the public to take and keep). 18 U.S.C. 641 provides for criminal penalties for embezzlement or theft of Government records. 18 U.S.C. 2071 provides for criminal penalties for the willful and unlawful concealment, mutilation or destruction of, or the attempt to conceal, mutilate, or destroy, Government records.

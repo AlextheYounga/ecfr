@@ -1,0 +1,29 @@
+##### 27.404-3 Copyrighted works. #####
+
+(a) *Data first produced in the performance of a contract.* (1) Generally, the contractor must obtain permission of the contracting officer prior to asserting rights in any copyrighted work containing data first produced in the performance of a contract. However, contractors are normally authorized, without prior approval of the contracting officer, to assert copyright in technical or scientific articles based on or containing such data that is published in academic, technical or professional journals, symposia proceedings and similar works.
+
+(2) The contractor must make a written request for permission to assert its copyright in works containing data first produced under the contract. In its request, the contractor should identify the data involved or furnish copies of the data for which permission is requested, as well as a statement as to the intended publication or dissemination media or other purpose for which the permission is requested. Generally, a contracting officer should grant the contractor's request when copyright protection will enhance the appropriate dissemination or use of the data unless the—
+
+(i) Data consist of a report that represents the official views of the agency or that the agency is required by statute to prepare;
+
+(ii) Data are intended primarily for internal use by the Government;
+
+(iii) Data are of the type that the agency itself distributes to the public under an agency program;
+
+(iv) Government determines that limitation on distribution of the data is in the national interest; or
+
+(v) Government determines that the data should be disseminated without restriction.
+
+(3) Alternate IV of the clause at 52.227-14 provides a substitute paragraph (c)(1) granting permission for contractors to assert copyright in any data first produced in the performance of the contract without the need for any further requests. Except for contracts for management or operation of Government facilities and contracts and subcontracts in support of programs being conducted at those facilities or where international agreements require otherwise, Alternate IV shall be used in all contracts for basic or applied research to be performed solely by colleges and universities. Alternate IV shall not be used in contracts with colleges and universities if a purpose of the contract is for development of computer software for distribution to the public (including use in solicitations) by or on behalf of the Government. In addition, Alternate IV may be used in other contracts if an agency determines that it is not necessary for a contractor to request further permission to assert copyright in data first produced in performance of the contract. The contracting officer may exclude any data, or items or categories of data, from the provisions of Alternate IV by expressly so providing in the contract or by adding a paragraph (d)(4) to the clause, consistent with 27.404-4(b).
+
+(4) Pursuant to paragraph (c)(1) of the clause at 52.227-14, the contractor grants the Government a paid-up nonexclusive, irrevocable, worldwide license to reproduce, prepare derivative works, distribute to the public, perform publicly and display publicly by or on behalf of the Government, for all data (other than computer software) first produced in the performance of a contract. For computer software, the scope of the Government's license includes all of the above rights except the right to distribute to the public. Agencies may also obtain a license of different scope if the contracting officer determines, after consulting with legal counsel, such a license will substantially enhance the dissemination of any data first produced under the contract or if such a license is required to comply with international agreements. If an agency obtains a different license, the contractor shall clearly state the scope of that license in a conspicuous place on the medium on which the data is recorded. For example, if the data is delivered as a report, the terms of the license shall be stated on the cover, or first page, of the report.
+
+(5) The clause requires the contractor to affix the applicable copyright notices of 17 U.S.C. 401 or 402, and acknowledgment of Government sponsorship, (including the contract number) to data when it asserts copyright in data. Failure to do so could result in such data being treated as unlimited rights data (see 27.404-5(b)).
+
+(b) *Data not first produced in the performance of a contract.* (1) Contractors shall not deliver any data that is not first produced under the contract without either—
+
+(i) Acquiring for or granting to the Government a copyright license for the data; or
+
+(ii) Obtaining permission from the contracting officer to do otherwise.
+
+(2) The copyright license the Government acquires for such data will normally be of the same scope as discussed in paragraph (a)(4) of this subsection, and is set forth in paragraph (c)(2) of the clause at 52.227-14. However, agencies may obtain a license of different scope if the agency determines, after consultation with its legal counsel, that such different license will not be inconsistent with the purpose of acquiring the data. If a license of a different scope is acquired, it must be so stated in the contract and clearly set forth in a conspicuous place on the data when delivered to the Government. If the contractor delivers computer software not first produced under the contract, the contractor shall grant the Government the license set forth in paragraph (g)(4) of Alternate III if included in the clause at 52.227-14, or a license agreed to in a collateral agreement made part of the contract.

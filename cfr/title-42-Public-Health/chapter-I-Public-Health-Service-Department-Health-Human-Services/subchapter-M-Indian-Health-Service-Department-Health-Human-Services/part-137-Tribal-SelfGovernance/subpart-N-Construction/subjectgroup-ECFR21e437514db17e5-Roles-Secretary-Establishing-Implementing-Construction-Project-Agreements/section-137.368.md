@@ -1,0 +1,3 @@
+##### § 137.368 Is the Secretary responsible for oversight and compliance of health and safety codes during construction projects being performed by a Self-Governance Tribe under section 509 of the Act [25 U.S.C. 488aaa-8]? #####
+
+No, the Secretary is not responsible for oversight and compliance of health and safety codes during construction projects being performed by a Self-Governance Tribe under section 509 of the Act [25 U.S.C. 488aaa-8].

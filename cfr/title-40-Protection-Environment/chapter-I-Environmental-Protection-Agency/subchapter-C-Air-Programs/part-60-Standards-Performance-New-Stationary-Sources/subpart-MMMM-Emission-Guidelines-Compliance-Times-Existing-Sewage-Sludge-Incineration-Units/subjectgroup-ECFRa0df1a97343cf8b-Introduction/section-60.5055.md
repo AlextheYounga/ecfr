@@ -1,0 +1,5 @@
+##### § 60.5055 Does this subpart directly affect SSI unit owners and operators in my state? #####
+
+(a) No. This subpart does not directly affect SSI unit owners and operators in your state. However, SSI unit owners and operators must comply with the state plan you develop to implement the emission guidelines contained in this subpart. States may choose to incorporate the model rule text directly in their state plan.
+
+(b) If you do not submit an approvable plan to implement and enforce the guidelines contained in this subpart by March 21, 2012, EPA will implement and enforce a Federal plan, as provided in § 60.5025, to ensure that each unit within your state that commenced construction on or before October 14, 2010 reaches compliance with all the provisions of this subpart by the dates specified in § 60.5035.

@@ -1,0 +1,3 @@
+##### § 703.7 Notice of non-compliant investments. #####
+
+A Federal credit union's board of directors must receive notice as soon as possible, but no later than the next regularly scheduled board meeting, of any investment that either is outside of board policy after purchase or has failed a requirement of this part. The board of directors must document its action regarding the investment in the minutes of the board meeting, including a detailed explanation of any decision not to sell it. The Federal credit union must notify in writing the appropriate regional director of an investment that has failed a requirement of this part within 5 days after the board meeting.

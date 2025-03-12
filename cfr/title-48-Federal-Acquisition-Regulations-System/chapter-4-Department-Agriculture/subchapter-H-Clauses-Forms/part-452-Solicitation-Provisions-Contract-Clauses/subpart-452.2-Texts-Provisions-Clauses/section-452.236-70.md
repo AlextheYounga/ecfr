@@ -1,0 +1,9 @@
+##### 452.236-70 Additive or Deductive Items. #####
+
+As prescribed in 436.205, insert the following provision:
+
+Additive or Deductive Items (FEB 1988)
+
+The low bidder for purposes of award shall be the conforming responsible bidder offering the low aggregate amount for the first or base bid item, plus or minus (in the order of priority listed in the schedule) those additive or deductive bid items providing the most features of the work within the funds determined by the government to be available before bids are opened. If addition of another bid item in the listed order of priority would make the award exceed such funds for all bidders, it shall be skipped and the next subsequent additive bid item in a lower amount shall be added if award therein can be made within such funds. For example, when the amount available is $100,000 and a bidder's base bid and four successive additives are $85,000, $10,000, $8,000, $6,000, and $4,000, the aggregate amount of the bid for purposes of award would be $99,000 for the base bid plus the first and fourth additives, the second and third additives being skipped because of each of them would cause the aggregate bid to exceed $100,000. In any case all bids shall be evaluated on the basis of the same additive or deductive bid items, determined as above provided. The listed order of priority need be followed only for determining the low bidder. After determination of the low bidder as stated, award in the best interests of the Government may be made on the selected first or base bid item and any combination of additive or deductive items for which funds are determined to be available at the time of the award, provided that award on such combination of bid items does not exceed the amount offered by any other conforming responsible bidder for the same combination of bid items.
+
+(End of clause)

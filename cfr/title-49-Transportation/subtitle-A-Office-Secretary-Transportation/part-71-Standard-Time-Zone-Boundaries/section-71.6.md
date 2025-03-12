@@ -1,0 +1,7 @@
+##### § 71.6 Central zone. #####
+
+(a) *Central zone in general.* The third zone, the central standard time zone, includes that part of the United States that is west of the boundary line between the eastern and central standard time zones described in § 71.5 and east of the boundary line between the central and mountain standard time zones described in § 71.7.
+
+(b) *Specified rail carrier exemptions.* The boundary line described in § 71.7 will not apply to the list of rail carriers in this subsection. These carriers will have the following changing points between the central and mountain time zones. The Chicago, Rock Island and Gulf Railway Company and the Chicago, Rock Island and Pacific Railway Company may use Tucumcari, New Mexico, as the point at which they change from central to mountain time and vice versa; the Colorado Southern and Fort Worth and Denver City Railway Companies may use Sixela, New Mexico, as such changing point; the Atchison, Topeka and Santa Fe Railway Company and other branches of the Santa Fe system may use Clovis, New Mexico, as such changing point, and those railways running into or through El Paso, Texas, may use El Paso as such point.
+
+[78 FR 15885, Mar. 13, 2013]

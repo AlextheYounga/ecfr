@@ -1,0 +1,3 @@
+##### § 843.1 Scope. #####
+
+This part sets forth general rules regarding enforcement by the Office of the Act, this chapter, any Federal program, the Federal lands program, State programs being enforced by the Office in whole or in part under section 504(b) or 521(b) of the Act and part 733 of this chapter and (in limited circumstances) under § 842.11 or § 842.12 of this chapter, and all conditions of permits and coal exploration approvals or permits imposed under any of these programs, the Act, or this chapter.

@@ -1,0 +1,3 @@
+##### § 719.1 What is the purpose of this part? #####
+
+This part facilitates management of retained legal counsel and contractor legal costs, including litigation and legal matter costs. It requires the contractor to develop a Legal Management Plan, to document the analysis used to decide when to utilize outside counsel, and to document what law firm or individual attorney will be engaged as outside counsel. This part also requires the contractor to document the terms of the engagement with retained legal counsel. Payment of Department-retained law firm invoices and reimbursement of contractor legal costs under covered contracts are subject to compliance with this part.

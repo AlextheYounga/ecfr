@@ -1,0 +1,3 @@
+##### § 432.23 Effluent limitations attainable by the application of the best available technology economically achievable (BAT). #####
+
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart that slaughters more than 50 million pounds per year (in units of LWK) must achieve the following effluent limitations representing the application of BAT: Limitations for ammonia (as N) and total nitrogen are the same as specified in § 432.13.

@@ -1,0 +1,5 @@
+##### § 93.333 Failure to comply with this subpart. #####
+
+(a) *Any violation.* The FAA may take civil enforcement action against a pilot for violations, whether inadvertent or intentional, including imposition of civil penalties and suspension or revocation of airmen's certificates.
+
+(b) *Knowing or willful violations.* The DC FRZ and DC SFRA were established for reasons of national security under the provisions of 49 U.S.C. 40103(b)(3). Areas established by the FAA under that authority constitute “national defense airspace” as that term is used in 49 U.S.C. 46307. In addition to being subject to the provisions of paragraph (a) of this section, persons who knowingly or willfully violate national defense airspace established pursuant to 49 U.S.C. 40103(b)(3) may be subject to criminal prosecution.

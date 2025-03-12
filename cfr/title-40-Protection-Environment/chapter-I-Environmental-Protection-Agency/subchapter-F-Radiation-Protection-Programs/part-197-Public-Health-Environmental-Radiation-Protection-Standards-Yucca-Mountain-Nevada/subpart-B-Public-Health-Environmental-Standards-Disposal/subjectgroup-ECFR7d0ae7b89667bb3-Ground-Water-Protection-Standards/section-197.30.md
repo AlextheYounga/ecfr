@@ -1,0 +1,9 @@
+##### § 197.30 What standards must DOE meet? #####
+
+The DOE must demonstrate that there is a reasonable expectation that, for 10,000 years of undisturbed performance after disposal, releases of radionuclides from waste in the Yucca Mountain disposal system into the accessible environment will not cause the level of radioactivity in the representative volume of ground water to exceed the limits in the following Table 1:
+
+|                 Radionuclide or type of radiation emitted                 |                                                                      Limit                                                                      |Is natural background included?|   |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---|
+|                    Combined radium-226 and radium-228                     |                                                             5 picocuries per liter                                                              |             Yes.              |   |
+|Gross alpha activity (including radium-226 but excluding radon and uranium)|                                                             15 picocuries per liter                                                             |             Yes.              |   |
+|              Combined beta and photon emitting radionuclides              |40 microsieverts (4 millirem) per year to the whole body or any organ, based on drinking 2 liters of water per day from the representative volume|              No.              |   |

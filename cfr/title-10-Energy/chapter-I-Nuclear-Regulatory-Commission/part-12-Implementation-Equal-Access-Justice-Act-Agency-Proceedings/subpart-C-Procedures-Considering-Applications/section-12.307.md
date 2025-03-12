@@ -1,0 +1,5 @@
+##### § 12.307 Decision. #####
+
+(a) The adjudicative officer shall issue an initial decision on the application within 90 days after completion of proceedings on the application. If the adjudicative officer fails to issue an initial decision within 90 days, he or she shall notify the parties of the reason for the delay and shall set a new deadline.
+
+(b) The initial decision shall include written findings and conclusions on the applicant's eligibility and status as a prevailing party, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the NRC's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust. If the applicant has sought an award against more than one agency, the decision shall allocate responsibility for payment of any award made among the agencies, and shall explain the reasons for the allocation made.

@@ -1,0 +1,3 @@
+##### § 45.31 Marking of export aircraft. #####
+
+A person who manufactures an aircraft in the United States for delivery outside thereof may display on that aircraft any marks required by the State of registry of the aircraft. However, no person may operate an aircraft so marked within the United States, except for test and demonstration flights for a limited period of time, or while in necessary transit to the purchaser.

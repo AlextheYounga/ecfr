@@ -1,0 +1,3 @@
+##### § 414.806 Penalties associated with the failure to submit timely and accurate ASP data. #####
+
+Section 1847A(d)(4) specifies the penalties associated with misrepresentations associated with ASP data. If the Secretary determines that a manufacturer has made a misrepresentation in the reporting of ASP data, a civil money penalty in an amount of up to $10,000 may be applied for each price misrepresentation and for each day in which the price misrepresentation was applied. Section 1927(b)(3)(C) of the Act, as amended by section 303(i)(4) of the MMA, specifies the penalties associated with a manufacturer's failure to submit timely information or the submission of false information.

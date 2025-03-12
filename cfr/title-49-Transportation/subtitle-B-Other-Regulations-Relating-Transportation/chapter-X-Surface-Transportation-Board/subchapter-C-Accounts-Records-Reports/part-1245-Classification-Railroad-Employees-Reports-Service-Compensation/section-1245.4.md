@@ -1,0 +1,13 @@
+##### § 1245.4 Forms required to be used. #####
+
+(a) The report of information to the Surface Transportation Board on railroad employees, service and compensation includes two forms. Form A relates to employees other than train and engine service employees. Form B relates to train and engine service employees.
+
+(b) With general reference to the statement of the compensation of employees in Forms A and B, it should be understood that the total compensation received by the employees in each Reporting Division, as well as the amount of work they perform, should be shown properly distributed under the prescribed column heads as indicated by the forms. It should be noted that if the work of an employee varies during a report period, his time and compensation should be apportioned accordingly. Amounts reported should be gross compensation paid.
+
+*Illustrations.* (a) In the course of a month, an employee works as a Machinist, and as such earns $200 and he works also as a Gang Foreman and earns $130. The pay received by him in the occupation of Machinist with corresponding time should be included in returns for Division 61, “Machinists”, and his other pay and time as indicated should be included in returns for Division 53, “Gang Foremen and Gang Leaders”. (b) When an employee works at two or more of the occupations of engineer, fireman, conductor, and brakeman, his time and compensation should be assigned in accordance with the facts. For example, in a certain month an employee earns as a Through Freight Engineer $110, as a Local or Way Freight Engineer $140, as a Yard Engineer $100, and as a Local or Way Freight Fireman $75. The time and the compensation of this employee should be correspondingly distributed among Reporting Divisions 122, 123, 124, and 127 as they are respectively applicable, without regard to the predominance of the time worked or the amount earned by him in one occupation.
+
+(c) As elsewhere indicated, the statement of the number of employees in the service of a company with respect to Reporting Divisions depends upon the allocation of the individual employees as of the day of count.
+
+(d) The Reporting Divisions shown in Forms A and B following will also be used in connection with the employees' schedule in the annual reports of railroads of classes I and II to the Board. Railroads of class III and lessor companies shall report only the information required in the annual report forms prescribed for such companies.
+
+[32 FR 20462, Dec. 20, 1967, as amended at 47 FR 53867, Nov. 30, 1982]

@@ -1,0 +1,43 @@
+##### § 35.162 Basis for allotment. #####
+
+(a) *Allotments.* Each fiscal year funds appropriated for Water Pollution Control grants to State and interstate agencies will be allotted to States and interstate agencies on the basis of the extent of the pollution problems in the respective States. A portion of the funds appropriated for States under the Water Pollution Control grant program will be set aside for allotment to eligible interstate agencies. The interstate allotment will be 2.6 percent of the funds available under this paragraph.
+
+(b) *State allotment formula.* The Water Pollution Control State grant allotment formula establishes an allotment ratio for each State based on six components selected to reflect the extent of the water pollution problem in the respective States. The formula provides a funding floor for each State with provisions for periodic adjustments for inflation and a maximum funding level (150 percent of its previous fiscal year allotment).
+
+(1) *Components and component weights*—(i) *Components.* The six components used in the Water Pollution Control State grant allotment formula are: Surface Water Area; Ground Water Use; Water Quality Impairment; Point Sources; Nonpoint Sources; and Population of Urbanized Area. The components for the formula are presented in Table 1 of this section, with their associated elements, sub-elements, and supporting data sources.
+
+![](/graphics/er09ja01.019.gif)
+
+(ii) *Component weights.* To account for the fact that not all of the selected formula components contribute equally to the extent of the pollution problem within the States, each formula component is weighted individually. Final component weights will be phased-in by Fiscal Year (FY) 2004, according to the schedule presented in Table 2 of this section:
+
+|         Component          |FY 2000  <br/>(percent)|FY2001-FY2003  <br/>(percent)|FY2004 +   <br/>(percent)|
+|----------------------------|-----------------------|-----------------------------|-------------------------|
+|     Surface Water Area     |          13           |             13              |           12            |
+|      Ground Water Use      |          11           |             12              |           12            |
+|  Water Quality Impairment  |          13           |             25              |           35            |
+|       Point Sources        |          25           |             17              |           13            |
+|      Nonpoint Sources      |          18           |             15              |           13            |
+|Population of Urbanized Area|          20           |             18              |           15            |
+|           Total            |          100          |             100             |           100           |
+
+(2) *Funding floor.* A funding floor is established for each State. Each State's funding floor will be at least equal to its FY 2000 allotment in all future years unless the funds appropriated for States under the Water Pollution Control grant program decrease from the FY 2000 amount.
+
+(3) *Funding decrease.* If the appropriation for Water Pollution Control State grants decreases in future years, the funding floor will be disregarded and all State allotments will be reduced by an equal percentage.
+
+(4) *Inflation adjustment.* Funding floors for each State will be adjusted for inflation when the funds appropriated for Water Pollution Control State grants increase from the preceding fiscal year. These adjustments will be made on the basis of the cumulative change in the Consumer Price Index (CPI), published by the U.S. Department of Labor, since the most recent year in which Water Pollution Control State grant funding last increased. Inflation adjustments to State funding floors will be capped at the lesser of the percentage change in appropriated funds or the cumulative percentage change in the inflation rate.
+
+(5) *Cap on annual funding increases.* The maximum allotment to any State will be 150 percent of that State's allotment for the previous fiscal year.
+
+(6) *Cap on component ratio.* A component ratio is equal to each State's share of the national total of a single component. The cap on each of the six State formula components ratios is 10 percent. If a State's calculated component ratio for a particular component exceeds the 10 percent cap, the State will instead be assigned 10 percent for that component. The component ratios for all other States will be adjusted accordingly.
+
+(7) *Update cycle.* The data used in the State formula will be periodically updated. The first update will impact allotments for FY 2001, and will consist of updating the data used to support the Water Quality Impairment component of the formula. These data will be updated using the currently available Clean Water Act section 305(b) reports. After this initial update, the data used to support all six components of the Water Pollution Control State grant allotment formula will be updated in FY 2003 (for use in the determination of FY 2004 allotments). Thereafter, all data will be updated every five years (e.g., in FY 2008 for FY 2009 allotments and in FY 2013 for FY 2014 allotments.) There will be an annual adjustment to the funding floor for all States, based on the appropriation for Water Pollution Control State grants and changes in the CPI.
+
+(c) *Interstate allotment formula.* EPA will set-aside 2.6 percent of the funds appropriated for the Water Pollution Control State grant program for interstate agencies. The interstate agency Water Pollution Control grant allotment formula consists of two parts: a funding floor with provisions for periodic adjustments for inflation, and a variable allotment.
+
+(1) *Funding Floor.* A funding floor is established for each interstate agency. Each interstate's funding floor for FY 2005 will be at least equal to its FY 2003 allotment. Beginning in FY 2006, the interstate funding floor will ensure that unless there is a decrease in the CWA section 106 state appropriation, each interstate will receive at a minimum, the same level of funding received in the previous fiscal year. The funding floor for each interstate agency will be adjusted for inflation when the funds appropriated for states under the Water Pollution Control State grant program increase from the preceding fiscal year. These adjustments will be made on the basis of the cumulative change in the Consumer Price Index (CPI), published by the U.S. Department of Labor, since the most recent year in which Water Pollution Control State grant funding increased. Inflation adjustments to the interstate agency funding floor will be capped at the lesser of the percentage of change in appropriated funds or the cumulative percentage change in the inflation rate. If the appropriation for states under the Water Pollution Control State grant program decreases in future years, the funding floor will be disregarded and all interstate agency allotments will be reduced by an equal percentage.
+
+(2) *Variable allotment.* The variable allotment provides for funds to be distributed to interstate agencies on the basis of the extent of the pollution problems in the respective States. Funds not allotted under the base allotment will be allotted to eligible interstate agencies based on each interstate agency's share of their member States' Water Pollution Control grant formula allotment ratios. Updates of the data for the six components of the Water Pollution Control State grant allocation formula will automatically result in corresponding updates to the variable allotment portion of the interstate allotments. The allotment ratios for those States involved in compacts with more than one interstate agency will be allocated among such interstate agencies based on the percentage of each State's territory that is situated within the drainage basin or watershed area covered by each compact.
+
+(d) *Alternative allotment formula.* Notwithstanding paragraphs (b) and (c) of this section, if the Administrator determines that a portion of the funds appropriated under the Water Pollution Control grant program should be allotted for specific water pollution control elements, the Administrator may allot those funds to States and interstate agencies in accordance with a formula determined by him after consultation with the respective States and interstate agencies. The Administrator will make this determination under this paragraph only if EPA's appropriation process indicates that these funds should be used for this purpose.
+
+[66 FR 1734, Jan. 9, 2001, as amended at 69 FR 59812, Oct. 6, 2004; 71 FR 18, Jan. 3, 2006; 73 FR 52590, Sept. 10, 2008; 74 FR 17405, Apr. 15, 2009]

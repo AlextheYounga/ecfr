@@ -1,0 +1,13 @@
+##### § 1610.3 Sequestration of witnesses and exclusion of Counsel. #####
+
+(a) All witnesses compelled by subpoena to submit to CSB depositions shall be sequestered unless the official conducting the depositions permits otherwise.
+
+(b) Any witness compelled by subpoena to appear at a deposition during a CSB investigation may be accompanied, represented, and advised by an attorney in good standing of his or her choice, pursuant to § 1610.1. However, when the CSB official conducting the investigation determines, after consultation with the Office of General Counsel, that the CSB has concrete evidence that the presence of an attorney representing multiple interests would obstruct and impede the investigation or inspection, the CSB official may prohibit that counsel from being present during the deposition.
+
+(c) The deposing official is to provide a witness whose counsel has been excluded under paragraph (b) of this section, and the witness' counsel, a written statement of the reasons supporting the decision to exclude. This statement, which must be provided no later than five working days after exclusion, must explain the basis for the counsel's exclusion. This statement must also advise the witness of the witness' right to appeal the exclusion decision and obtain an automatic stay of the effectiveness of the subpoena by filing a motion to quash the subpoena with the Board within five days of receipt of this written statement.
+
+(d) Within five days after receipt of the written notification required in paragraph (c) of this section, a witness whose counsel has been excluded may appeal the exclusion decision by filing a motion to quash the subpoena with the Board. The filing of the motion to quash will stay the effectiveness of the subpoena pending the Board's decision on the motion.
+
+(e) If a witness' counsel is excluded under paragraph (b) of this section, the deposition may, at the witness' request, either proceed without counsel or be delayed for a reasonable period of time to permit the retention of new counsel. The deposition may also be rescheduled to a subsequent date established by the CSB, although the deposition shall not be rescheduled by the CSB to a date that precedes the expiration of the time provided in paragraph (d) of this section for appeal of the exclusion of counsel, unless the witness consents to an earlier date.
+
+[66 FR 17363, Mar. 30, 2001]

@@ -1,0 +1,13 @@
+##### § 63.7744 How do I demonstrate continuous compliance with the work practice standards that apply to me? #####
+
+(a) You must maintain records that document continuous compliance with the certification requirements in § 63.7700(b) or with the procedures in your scrap selection and inspection plan required in § 63.7700(c). Your records documenting compliance with the scrap selection and inspection plan must include a copy (kept onsite) of the procedures used by the scrap supplier for either removing accessible mercury switches or for purchasing automobile bodies that have had mercury switches removed, as applicable.
+
+(b) You must keep records of the chemical composition of all catalyst binder formulations applied in each furan warm box mold or core making line at a new or existing iron and steel foundry to demonstrate continuous compliance with the requirements in § 63.7700(d).
+
+(c) For a scrap preheater at an existing iron and steel foundry, you must operate and maintain each gas-fired preheater such that the flame directly contacts the scrap charged to demonstrate continuous compliance with the requirement § 63.7700(e)(1). If you choose to meet the work practice standard in § 63.7700(e)(2), you must keep records to document that the scrap preheater charges only material that is subject to and in compliance with the scrap certification requirements in § 63.7700(b).
+
+(d) For a scrap preheater at a new iron and steel foundry, you must keep records to document that each scrap preheater charges only material that is subject to and in compliance with the scrap certification requirements in § 63.7700(b) to demonstrate continuous compliance with the requirement in § 63.7700(f).
+
+(e) For each cupola furnace at a new or existing iron and steel foundry in off blast, you must keep daily records to document the relevant times of off blast, in conjunction with the requirements to monitor and record the combustion zone temperature for the cupola's thermal combustion control device as required in §§ 63.7740(e) and 63.7741(d), to demonstrate continuous compliance with the requirements in § 63.7700(g). The relevant times of off blast include: The time blast air is started to begin the coke bed burn-in, the time the cupola afterburner or other thermal combustion device is lit, and the time metal production starts during cupola startup; the time when metal production ends, the time slag removal is completed, and the time the afterburner or other thermal combustion device is turned off during cupola shutdown; and the times idling starts and stops.
+
+[69 FR 21923, Apr. 22, 2004, as amended at 85 FR 56096, Sept. 10, 2020]

@@ -1,0 +1,5 @@
+##### § 10.220 Withdrawal of election to participate in WEA. #####
+
+A CMS provider that elects to transmit WEA Alert Messages, in part or in whole, may withdraw its election without regulatory penalty or forfeiture if it notifies all affected subscribers as well as the Federal Communications Commission at least sixty (60) days prior to the withdrawal of its election. In the event that a carrier withdraws from its election to transmit WEA Alert Messages, the carrier must notify each affected subscriber individually in clear and conspicuous language citing the statute. Such notice must promptly inform the customer that he or she no longer could expect to receive alerts and of his or her right to terminate service as a result, without penalty or early termination fee. Such notice must facilitate the ability of a customer to automatically respond and immediately discontinue service.
+
+[78 FR 16807, Mar. 19, 2013]

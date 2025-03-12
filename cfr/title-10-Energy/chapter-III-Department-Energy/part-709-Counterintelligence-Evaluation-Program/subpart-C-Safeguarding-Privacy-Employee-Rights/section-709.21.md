@@ -1,0 +1,3 @@
+##### § 709.21 Requirements for notification of a polygraph examination. #####
+
+When a polygraph examination is scheduled, the DOE must notify the covered person, in writing, of the date, time, and place of the polygraph examination, the provisions for a medical waiver, and the covered person's right to obtain and consult with legal counsel or to secure another representative prior to the examination. DOE must provide a copy of this part to the covered person. The covered person must receive the notification at least ten days, excluding weekend days and holidays, before the time of the examination except when good cause is shown or when the covered person waives the advance notice provision.

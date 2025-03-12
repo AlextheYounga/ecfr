@@ -1,0 +1,21 @@
+##### § 382.307 Reasonable suspicion testing. #####
+
+(a) An employer shall require a driver to submit to an alcohol test when the employer has reasonable suspicion to believe that the driver has violated the prohibitions of subpart B of this part concerning alcohol. The employer's determination that reasonable suspicion exists to require the driver to undergo an alcohol test must be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech or body odors of the driver.
+
+(b) An employer shall require a driver to submit to a controlled substances test when the employer has reasonable suspicion to believe that the driver has violated the prohibitions of subpart B of this part concerning controlled substances. The employer's determination that reasonable suspicion exists to require the driver to undergo a controlled substances test must be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech or body odors of the driver. The observations may include indications of the chronic and withdrawal effects of controlled substances.
+
+(c) The required observations for alcohol and/or controlled substances reasonable suspicion testing shall be made by a supervisor or company official who is trained in accordance with § 382.603. The person who makes the determination that reasonable suspicion exists to conduct an alcohol test shall not conduct the alcohol test of the driver.
+
+(d) Alcohol testing is authorized by this section only if the observations required by paragraph (a) of this section are made during, just preceding, or just after the period of the work day that the driver is required to be in compliance with this part. A driver may be directed by the employer to only undergo reasonable suspicion testing while the driver is performing safety-sensitive functions, just before the driver is to perform safety-sensitive functions, or just after the driver has ceased performing such functions.
+
+(e)(1) If an alcohol test required by this section is not administered within two hours following the determination under paragraph (a) of this section, the employer shall prepare and maintain on file a record stating the reasons the alcohol test was not promptly administered. If an alcohol test required by this section is not administered within eight hours following the determination under paragraph (a) of this section, the employer shall cease attempts to administer an alcohol test and shall state in the record the reasons for not administering the test.
+
+(2) Notwithstanding the absence of a reasonable suspicion alcohol test under this section, no driver shall report for duty or remain on duty requiring the performance of safety-sensitive functions while the driver is under the influence of or impaired by alcohol, as shown by the behavioral, speech, and performance indicators of alcohol misuse, nor shall an employer permit the driver to perform or continue to perform safety-sensitive functions, until:
+
+(i) An alcohol test is administered and the driver's alcohol concentration measures less than 0.02; or
+
+(ii) Twenty four hours have elapsed following the determination under paragraph (a) of this section that there is reasonable suspicion to believe that the driver has violated the prohibitions in this part concerning the use of alcohol.
+
+(3) Except as provided in paragraph (e)(2) of this section, no employer shall take any action under this part against a driver based solely on the driver's behavior and appearance, with respect to alcohol use, in the absence of an alcohol test. This does not prohibit an employer with independent authority of this part from taking any action otherwise consistent with law.
+
+(f) A written record shall be made of the observations leading to an alcohol or controlled substances reasonable suspicion test, and signed by the supervisor or company official who made the observations, within 24 hours of the observed behavior or before the results of the alcohol or controlled substances tests are released, whichever is earlier.

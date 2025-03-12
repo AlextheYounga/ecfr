@@ -1,0 +1,3 @@
+##### § 7.1014 Sale of money orders at nonbanking outlets by a national bank. #####
+
+A national bank may designate bonded agents to sell the bank's money orders at nonbanking outlets. The responsibility of both the bank and its agent should be defined in a written agreement setting forth the duties of both parties and providing for remuneration of the agent. The bank's agents need not report on sales and transmit funds from the nonbanking outlets more frequently than at the end of the third business day following receipt of the funds.

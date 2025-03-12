@@ -1,0 +1,3 @@
+##### § 1004.1 Gifts, donations, and hospitality by carriers. #####
+
+It is unlawful for any common carrier engaged in interstate or foreign commerce to offer, make, or cause any undue or unreasonable preference or advantage to any person. Gifts or services or anything of substantial value to particular shippers or their representatives are considered violations of the law. Expenditures for such gifts may not support requests to increase carrier rates. The Board shall take appropriate enforcement action to redress such unlawful expenditures.

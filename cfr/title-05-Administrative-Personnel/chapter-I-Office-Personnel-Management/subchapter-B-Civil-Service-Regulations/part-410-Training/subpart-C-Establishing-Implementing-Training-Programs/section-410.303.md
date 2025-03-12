@@ -1,0 +1,3 @@
+##### § 410.303 Employee responsibilities. #####
+
+Employees are responsible for self-development, for successfully completing and applying authorized training, and for fulfilling continued service agreements. In addition, they share with their agencies the responsibility to identify training needed to improve individual and organizational performance and identify methods to meet those needs, effectively and efficiently.

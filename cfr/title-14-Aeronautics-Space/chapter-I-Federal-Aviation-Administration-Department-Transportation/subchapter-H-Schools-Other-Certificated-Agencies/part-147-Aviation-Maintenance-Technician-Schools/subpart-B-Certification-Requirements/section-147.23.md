@@ -1,0 +1,5 @@
+##### § 147.23 Instructor requirements. #####
+
+An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must provide the number of instructors holding appropriate mechanic certificates and ratings that the Administrator determines necessary to provide adequate instruction and supervision of the students, including at least one such instructor for each 25 students in each shop class. However, the applicant may provide specialized instructors, who are not certificated mechanics, to teach mathematics, physics, basic electricity, basic hydraulics, drawing, and similar subjects. The applicant is required to maintain a list of the names and qualifications of specialized instructors, and upon request, provide a copy of the list to the FAA.
+
+[Amdt. 147-5, 57 FR 28959, June 29, 1992]

@@ -1,0 +1,5 @@
+##### § 440.360 State plan requirements for providing additional services. #####
+
+In addition to the requirements of § 440.345, the State may elect to provide additional coverage to individuals enrolled in Alternative Benefit Plans, except that the coverage for individuals eligible only through section 1902(a)(10)(A)(i)(VIII) of the Act is limited to benchmark or benchmark-equivalent coverage. The State must describe the populations covered and the payment methodology for these benefits. Additional benefits must be benefits of the type, which are covered in 1 or more of the standard benchmark coverage packages described in § 440.330(a) through (c) or State plan benefits including those described in sections 1905(a), 1915(i), 1915(j), 1915(k) and 1945 of the Act and any other Medicaid State plan benefits enacted under title XIX, or benefits available under base benchmark plans described in 45 CFR 156.100.
+
+[78 FR 42307, July 15, 2013]

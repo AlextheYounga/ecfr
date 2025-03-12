@@ -1,0 +1,33 @@
+##### § 51.1013 Quantitative milestone requirements. #####
+
+(a) Consistent with CAA section 189(c)(1), the state must submit in each attainment plan for a PM2.5 nonattainment area specific quantitative milestones that demonstrate reasonable further progress toward attainment of the applicable PM2.5 NAAQS in the area and that meet the following requirements:
+
+(1) *Nonattainment areas initially classified as Moderate.* (i) Except as provided in paragraph (a)(4) of this section, each attainment plan submittal for a Moderate PM2.5 nonattainment area shall contain quantitative milestones to be achieved no later than a milestone date of 4.5 years and 7.5 years from the date of designation of the area.
+
+(ii) The plan shall contain quantitative milestones to be achieved by the milestone dates specified in paragraph (a)(1)(i) of this section, as applicable, and that provide for objective evaluation of reasonable further progress toward timely attainment of the applicable PM2.5 NAAQS in the area. At a minimum, each quantitative milestone plan must include a milestone for tracking progress achieved in implementing the SIP control measures, including RACM and RACT, by each milestone date.
+
+(2) *Nonattainment areas reclassified as Serious.* (i) Except as provided in paragraph (a)(4) of this section, each attainment plan submission that demonstrates that a Serious PM2.5 nonattainment area can attain a particular PM2.5 NAAQS by the end of the tenth calendar year following the effective date of designation of the area with the implementation of control measures as required under § 51.1010(a) shall contain quantitative milestones to be achieved no later than milestone dates of 7.5 years and 10.5 years, respectively, from the date of designation of the area.
+
+(ii) Except as provided in paragraph (a)(4) of this section, each attainment plan submission that demonstrates that a Serious PM2.5 nonattainment area cannot practicably attain a particular PM2.5 NAAQS by the end of the tenth calendar year following the date of designation of the area with the implementation of control measures required under § 51.1010(a) shall contain quantitative milestones to be achieved no later than milestone dates of 7.5 years, 10.5 years, and 13.5 years from the date of designation of the area. If the attainment date is beyond 13.5 years from the date of designation of the area, such attainment plan shall also contain a quantitative milestones to be achieved no later than milestone dates of 16.5 years, respectively, from the date of designation of the area.
+
+(iii) The plan shall contain quantitative milestones to be achieved by the milestone dates specified in paragraphs (a)(2)(i) and (ii) of this section, as applicable, and that provide for objective evaluation of reasonable further progress toward timely attainment of the applicable PM2.5 NAAQS in the area. At a minimum, each quantitative milestone plan must include a milestone for tracking progress achieved in implementing SIP control measures, including BACM and BACT, by each milestone date.
+
+(3) *Serious areas that fail to attain by the applicable Serious area attainment date.* (i) Except as provided in paragraph (a)(4) of this section, each attainment plan submission for a Serious area that failed to attain a particular PM2.5 NAAQS by the applicable Serious area attainment date and is therefore subject to the requirements of CAA section 189(d) and § 51.1003(c) shall contain quantitative milestones.
+
+(A) If the attainment plan is due prior to a date 13.5 years from designation of the area, then the plan shall contain milestones to be achieved by no later than a milestone date of 13.5 years from the date of designation of the area, and every 3 years thereafter, until the milestone date that falls within 3 years after the applicable attainment date.
+
+(B) If the attainment plan is due later than a date 13.5 years from designation of the area, then the plan shall contain milestones to be achieved by no later than a milestone date of 16.5 years from the date of designation of the area, and every 3 years thereafter, until the milestone date that falls within 3 years after the applicable attainment date.
+
+(ii) The plan shall contain quantitative milestones to be achieved by the milestone dates for the area, and that provide for objective evaluation of reasonable further progress toward timely attainment of the applicable PM2.5 NAAQS in the area. At a minimum, each quantitative milestone plan must include a milestone for tracking progress achieved in implementing the SIP control measures by each milestone date.
+
+(4) Each attainment plan submission for an area designated nonattainment for the 1997 and/or 2006 PM2.5 NAAQS before January 15, 2015, shall contain quantitative milestones to be achieved no later than 3 years after December 31, 2014, and every 3 years thereafter until the milestone date that falls within 3 years after the applicable attainment date.
+
+(b) Not later than 90 days after the date on which a milestone applicable to a PM2.5 nonattainment area occurs, each state in which all or part of such area is located shall submit to the Administrator a milestone report that contains all of the following:
+
+(1) A certification by the Governor or Governor's designee that the SIP control strategy is being implemented consistent with the RFP plan, as described in the applicable attainment plan;
+
+(2) Technical support, including calculations, sufficient to document completion statistics for appropriate milestones and to demonstrate that the quantitative milestones have been satisfied and how the emissions reductions achieved to date compare to those required or scheduled to meet RFP; and,
+
+(3) A discussion of whether the area will attain the applicable PM2.5 NAAQS by the projected attainment date for the area.
+
+(c) If a state fails to submit a milestone report by the date specified in paragraph (b) of this section, the Administrator shall require the state to submit, within 9 months after such failure, a plan revision that assures that the area will achieve the next milestone or attain the applicable NAAQS by the applicable date, whichever is earlier. If the Administrator determines that an area has not met any applicable milestone by the milestone date, the state shall submit, within 9 months after such determination, a plan revision that assures that the area will achieve the next milestone or attain the applicable NAAQS by the applicable date, whichever is earlier.

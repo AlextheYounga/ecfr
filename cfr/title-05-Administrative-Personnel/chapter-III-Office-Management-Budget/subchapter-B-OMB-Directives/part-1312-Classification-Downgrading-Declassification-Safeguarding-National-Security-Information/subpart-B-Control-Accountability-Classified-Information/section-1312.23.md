@@ -1,0 +1,3 @@
+##### § 1312.23 Access to classified information. #####
+
+Classified information may be made available to a person only when the possessor of the information establishes that the person has a valid “need to know” and the access is essential to the accomplishment of official government duties. The proposed recipient is eligible to receive classified information only after he/she has been granted a security clearance by the EOP Security Officer. Cover sheets will be used to protect classified documents from inadvertent disclosure while in use. An SF-703 will be used for Top Secret material; an SF-704 for Secret material, and an SF-705 for Confidential material. The cover sheet should be removed prior to placing the document in the files.

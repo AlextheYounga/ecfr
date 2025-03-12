@@ -1,0 +1,9 @@
+##### § 52.2055 Control strategy: Lead. #####
+
+(a) *Determination of attainment.* EPA has determined, as of December 29, 2014, based on quality-assured ambient air quality data for 2011 to 2013, that the Lyons, PA nonattainment area has attained the 2008 Pb NAAQS. This determination suspends the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as this area continues to meet the 2008 Pb NAAQS. If EPA determines, after notice-and-comment rulemaking, that this area no longer meets the 2008 Pb NAAQS, the corresponding determination of attainment for that area shall be withdrawn.
+
+(b) EPA approves the state implementation plan for the North Reading, Pennsylvania nonattainment area for the 2008 lead NAAQS. This SIP revision including reasonably available control measures, reasonably available control technology, contingency measures, and attainment demonstration was submitted by the Secretary of the Pennsylvania Department of Environmental Protection on August 10, 2015.
+
+(c) EPA approves the state implementation plan for the Lower Beaver Valley, Pennsylvania nonattainment area for the 2008 lead NAAQS. This SIP revision includes reasonably available control measures, reasonably available control technology, contingency measures, and an attainment demonstration submitted by the Pennsylvania Department of Environmental Protection on January 15, 2015.
+
+[79 FR 77915, Dec. 29, 2014, as amended at 81 FR 20542, Apr. 8, 2016; 81 FR 24029, Apr. 25, 2016]

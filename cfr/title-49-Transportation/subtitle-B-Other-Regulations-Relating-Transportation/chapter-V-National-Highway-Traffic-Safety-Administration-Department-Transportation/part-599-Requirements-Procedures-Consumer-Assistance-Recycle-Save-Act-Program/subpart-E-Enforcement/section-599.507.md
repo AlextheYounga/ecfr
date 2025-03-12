@@ -1,0 +1,3 @@
+##### § 599.507 Disclosure of evidence. #####
+
+The alleged violator may, upon request, receive a free copy of all the written evidence in the case file, except material that would disclose or could lead to the disclosure of the identity of a confidential source. Following a timely request for a hearing, other evidence or material, if any, of whatever source or nature, may be examined at the Hearing Officer's offices or such other places and locations that the Hearing Officer may, in writing, direct, if there are adequate safeguards to prevent loss or tampering.

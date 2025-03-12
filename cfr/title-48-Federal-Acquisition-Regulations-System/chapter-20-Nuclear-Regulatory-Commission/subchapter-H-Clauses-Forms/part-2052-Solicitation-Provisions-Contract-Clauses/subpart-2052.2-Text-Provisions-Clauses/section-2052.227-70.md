@@ -1,0 +1,9 @@
+##### 2052.227-70 Drawings, designs, specifications, and other data. #####
+
+As prescribed at 2027.305-70, the contracting officer shall insert the following clause in all solicitations and contracts in which drawings, designs, specifications, and other data will be developed and the NRC must retain full rights to them (except for the contractor's right to retain a copy for its own use). When any of the clauses prescribed at FAR 27.409 are included in the solicitation and contract, this clause will not be used.
+
+Drawings, Designs, Specifications, and Other Data (JAN 1993)
+
+All drawings, sketches, designs, design data, specifications, notebooks, technical and scientific data, and all photographs, negatives, reports, findings, recommendations, other data and memoranda of every description relating thereto, as well as all copies of the foregoing relating to the work or any part thereto, are subject to inspection by the Commission at all reasonable times. Inspection of the proper facilities must be afforded the Commission by the contractor and its subcontractors. These data are the property of the Government and may be used by the Government for any purpose whatsoever without any claim on the part of the contractor and its subcontractors and vendors for additional compensation and must, subject to the right of the contractor to retain a copy of the material for its own use, be delivered to the Government, or otherwise disposed of by the contractor as the contracting officer may direct during the progress of the work or upon completion or termination of this contract. The contractor's right of retention and use is subject to the security, patent, and use of information provisions, if any, of this contract.
+
+(End of clause)

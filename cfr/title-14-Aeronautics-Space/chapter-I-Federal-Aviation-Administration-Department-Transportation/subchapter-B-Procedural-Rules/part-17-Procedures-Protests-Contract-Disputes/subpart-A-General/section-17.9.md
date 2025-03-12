@@ -1,0 +1,9 @@
+##### § 17.9 Protective orders. #####
+
+(a) The ODRA may issue protective orders addressing the treatment of protected information, including protected information in electronic form, either at the request of a party or upon its own initiative. Such information may include proprietary, confidential, or source-selection-sensitive material, or other information the release of which could result in a competitive advantage to one or more firms.
+
+(b) The terms of the ODRA's standard protective order may be altered to suit particular circumstances, by negotiation of the parties, subject to the approval of the ODRA. The protective order establishes procedures for application for access to protected information, identification and safeguarding of that information, and submission of redacted copies of documents omitting protected information.
+
+(c) After a protective order has been issued, counsel or consultants retained by counsel appearing on behalf of a party may apply for access to the material under the order by submitting an application to the ODRA, with copies furnished simultaneously to all parties. The application shall establish that the applicant is not involved in competitive decision-making for any firm that could gain a competitive advantage from access to the protected information and that the applicant will diligently protect any protected information received from inadvertent disclosure. Objections to an applicant's admission shall be raised within two (2) days of the application, although the ODRA may consider objections raised after that time for good cause.
+
+(d) Any violation of the terms of a protective order may result in the imposition of sanctions, including but not limited to removal of the violator from the protective order and reporting of the violator to his or her bar association(s), and the taking of other actions as the ODRA deems appropriate. Additional civil or criminal penalties may apply.

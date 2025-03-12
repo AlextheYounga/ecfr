@@ -1,0 +1,3 @@
+##### 49.108-6 Delay in settling subcontractor settlement proposals. #####
+
+When a prime contractor's inability to settle with a subcontractor delays the settlement of the prime contract, the TCO may settle with the prime contractor. The TCO shall except the subcontractor settlement proposal from the settlement in whole or part and reserve the rights of the Government and the prime contractor with respect to the subcontractor proposal.

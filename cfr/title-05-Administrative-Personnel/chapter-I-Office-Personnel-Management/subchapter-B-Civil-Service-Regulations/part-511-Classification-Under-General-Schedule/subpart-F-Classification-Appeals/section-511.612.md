@@ -1,0 +1,3 @@
+##### § 511.612 Finality of decision. #####
+
+An appellate decision made by the Office is final unless reconsidered by the Office. There is no further right of appeal. The Office may reconsider a decision at its discretion. The decision shall constitute a certificate which is mandatory and binding on all administrative, certifying, payroll, disbursing, and accounting officials of the Government. Agencies shall review their own classification decisions for identical, similar or related positions to insure consistency with the Office's certificate.

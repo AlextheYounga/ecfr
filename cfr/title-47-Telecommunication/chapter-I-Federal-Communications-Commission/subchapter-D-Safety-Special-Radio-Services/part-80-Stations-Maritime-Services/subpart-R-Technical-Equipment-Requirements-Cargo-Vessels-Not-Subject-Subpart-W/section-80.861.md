@@ -1,0 +1,3 @@
+##### § 80.861 Required capacity. #####
+
+If the main power supply or the reserve power supply provided for the purpose of complying with §§ 80.859 and 80.860 consists of batteries, the batteries must have sufficient reserve capacity available at all times while the vessel is leaving or attempting to leave a harbor or port for a voyage in the open sea, and while being navigated in the open sea outside of a harbor or port, to permit operation of the radiotelephone transmitter and the required receivers for at least 6 hours continuously under normal working conditions.

@@ -1,0 +1,3 @@
+##### § 905.51 Transmission planning principles. #####
+
+Western's transmission planning is conducted to assess the capability of the Federal transmission system to provide adequate and reliable electric service to its customers and the interconnected power grid. These planning efforts occur as part of its participation in regional and sub-regional planning entities as well as Western's Open Access Transmission Tariff.

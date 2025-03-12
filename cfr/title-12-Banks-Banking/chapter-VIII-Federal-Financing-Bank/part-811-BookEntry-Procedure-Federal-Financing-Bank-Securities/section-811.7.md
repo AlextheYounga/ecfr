@@ -1,0 +1,3 @@
+##### § 811.7 Servicing book-entry Federal Financing Bank securities; payment of interest; payment at maturity or upon call. #####
+
+Interest becoming due on book-entry Federal Financing Bank securities shall be charged against the special agent account maintained by the Department of the Treasury for the Federal Financing Bank on the interest due date and remitted or credited in accordance with the depositor's instructions. Such securities shall be redeemed and charged against the above said account on the date of maturity or call, and the redemption proceeds, principal and interest, shall be disposed of in accordance with the depositor's instructions.

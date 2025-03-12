@@ -1,0 +1,3 @@
+##### § 178.206 Return of unnegotiated Government checks. #####
+
+All unnegotiated United States Government checks drawn to the order of a decedent representing money due as defined in § 178.202, and in the possession of the claimant, should be returned to the employing agency concerned. Claimants should be instructed to return any other United States Government checks drawn to the order of a decedent, such as veterans benefits, social security benefits, or Federal tax refunds, to the agency from which the checks were received, with a request for further instructions from that agency.

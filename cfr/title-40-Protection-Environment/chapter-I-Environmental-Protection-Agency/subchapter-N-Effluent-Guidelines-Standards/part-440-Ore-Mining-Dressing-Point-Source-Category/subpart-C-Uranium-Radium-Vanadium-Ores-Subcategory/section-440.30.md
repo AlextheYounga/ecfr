@@ -1,0 +1,3 @@
+##### § 440.30 Applicability; description of the uranium, radium and vanadium ores subcategory. #####
+
+The provisions of this subpart C are applicable to discharges from (a) mines either open-pit or underground, from which uranium, radium and vanadium ores are produced; and (b) mills using the acid leach, alkaline leach, or combined acid and alkaline leach process for the extraction of uranium, radium and vanadium. Only vanadium byproduct production from uranium ores is covered under this subpart.

@@ -1,0 +1,3 @@
+##### 37.109 Services of quasi-military armed forces. #####
+
+Contracts with *Pinkerton Detective Agencies or similar organizations* are prohibited by 5 U.S.C. 3108. This prohibition applies only to contracts with organizations that offer quasi-military armed forces for hire, or with their employees, regardless of the contract's character. An organization providing guard or protective services does not thereby become a *quasi-military armed force,* even though the guards are armed or the organization provides general investigative or detective services. (See 57 Comp. Gen. 524).

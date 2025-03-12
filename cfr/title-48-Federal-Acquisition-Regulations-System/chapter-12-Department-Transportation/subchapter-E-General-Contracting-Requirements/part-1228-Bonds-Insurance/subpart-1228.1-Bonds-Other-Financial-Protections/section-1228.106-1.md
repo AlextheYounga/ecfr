@@ -1,0 +1,3 @@
+##### 1228.106-1 Bonds and bond-related forms. #####
+
+(b) Standard Form (SF) 25, Performance Bond, prescribed at (FAR) 48 CFR 28.106-1(b), shall provide coverage for taxes imposed by the United States which are collected, deducted, or withheld from wages paid by the contractor. Forms other than the SF 25 (e.g., a commercial form) shall not be used by contractors when a performance bond is required.

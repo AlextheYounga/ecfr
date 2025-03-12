@@ -1,0 +1,5 @@
+##### § 719.50 What authority does Department Counsel have? #####
+
+(a) Department Counsel will receive written delegated authority from the contracting officer to serve as the contracting officer's representative for legal matters.
+
+(b) Actions by Department Counsel may not exceed the responsibilities and limitations as delegated by the contracting officer. Delegated contracting officer representative authority shall not be construed to include the authority to execute or modify the contract or resolve any contract dispute arising under the contract. Additional discussion of the authority and limitation of contracting officers can be found at 48 CFR 1.602-1, and contracting officer's representatives at 48 CFR (DEAR) 942.270-1. The clause, Technical Direction, 48 CFR (DEAR) 952.242-70, also discusses the responsibilities and authority of a contracting officer's representative.

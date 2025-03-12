@@ -1,0 +1,5 @@
+##### § 611.1152 Authority over equity investments in UBEs for business activity. #####
+
+(a) *Regulation, supervisory, oversight, examination and enforcement authority.* FCA has regulatory, supervisory, oversight, examination and enforcement authority over each System institution's equity investment in or control of a UBE and the services and functions that a UBE performs for the System institution. This includes FCA's authority to require a System institution's dissolution of, disassociation from, or divestiture of an equity investment in a UBE, or to otherwise condition the approval of equity investments in UBEs.
+
+(b) *Assessing UBE investments and business activity.* In accordance with section 5.15 of the Act, the cost of regulating and examining System institutions' activities involving UBEs will be taken into account when assessing a System institution for the cost of administering the Act.

@@ -1,0 +1,5 @@
+##### § 8001.101 General. #####
+
+(a) *Purpose.* In accordance with 5 CFR 2635.105, the regulations in this part apply to the employees of the Court Services and Offender Supervision Agency (CSOSA or Agency), and the employees of the Pretrial Services Agency (PSA or Agency), an independent entity within CSOSA. The regulations in this part supplement the Standards of Conduct for Employees of the Executive Branch contained in 5 CFR part 2635.
+
+(b) *Cross-references.* In addition to 5 CFR part 2635 and this part, CSOSA and PSA employees are subject to the executive branch financial disclosure regulations at 5 CFR part 2634, the regulations concerning executive branch financial interest contained in 5 CFR part 2640, and the regulations concerning executive branch employee responsibilities and conduct contained in 5 CFR part 735.

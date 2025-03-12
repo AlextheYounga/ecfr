@@ -1,0 +1,3 @@
+##### § 214.2 Scope. #####
+
+This part covers procedures for the use of radio frequencies upon proclamation by the President that there exists war, or a threat of war or a state of public peril or other wartime emergency or in order to preserve the neutrality of the United States. These procedures will be applied in the coordination, application for, and assignment of radio frequencies upon order of the Director, OSTP. These procedures are intended to be consistent with the provisions and procedures contained in emergency plans for use of the radio spectrum.

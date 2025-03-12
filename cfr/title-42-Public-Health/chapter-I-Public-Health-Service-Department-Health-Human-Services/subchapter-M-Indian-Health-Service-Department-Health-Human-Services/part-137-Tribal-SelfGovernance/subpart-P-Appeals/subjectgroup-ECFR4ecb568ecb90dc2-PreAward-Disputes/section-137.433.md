@@ -1,0 +1,3 @@
+##### § 137.433 Is the recommended decision always final? #####
+
+No, any party to the appeal may file precise and specific written objections to the recommended decision, or any other comments, within 30 days of receiving the recommended decision. Objections must be served on all other parties. The recommended decision shall become final for the Secretary 30 days after the Indian Tribe receives the ALJs recommended decision, unless a written statement of objections is filed with the Secretary during the 30-day period. If no party files a written statement of objections within 30 days, the recommended decision shall become final for the Secretary.

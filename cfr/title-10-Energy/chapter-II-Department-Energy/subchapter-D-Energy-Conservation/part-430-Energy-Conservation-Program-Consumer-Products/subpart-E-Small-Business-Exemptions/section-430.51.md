@@ -1,0 +1,3 @@
+##### § 430.51 Eligibility. #####
+
+Any manufacturer of a covered product with annual gross revenues that do not exceed $8,000,000 from all its operations (including the manufacture and sale of covered products) for the 12-month period preceding the date of application may apply for an exemption. In determining the annual gross revenues of any manufacturer under this subpart, the annual gross revenue of any other person who controls, is controlled, by, or is under common control with, such manufacturer shall be taken into account.

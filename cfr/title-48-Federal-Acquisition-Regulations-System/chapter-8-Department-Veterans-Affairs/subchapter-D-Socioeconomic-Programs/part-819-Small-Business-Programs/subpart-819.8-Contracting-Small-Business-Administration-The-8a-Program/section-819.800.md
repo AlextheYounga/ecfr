@@ -1,0 +1,7 @@
+##### 819.800 General. #####
+
+(a) No contract will be entered into with SBA under section 8(a) of the Small Business Act (15 U.S.C. 637(a)) unless a certification is made by the Administrator of that agency, or designee, that SBA is competent to perform the contract.
+
+(b) When it is determined that the requirements of VA are appropriate for inclusion in this program, the contracting officer will make this fact known to proper officials of the SBA regional office servicing his/her area. However, when projects funded from minor construction appropriation (between $400,000 and $2 million) are proposed for 8(a) acquisition, the Director, OSDBU (00SB), shall be contacted by telephone or notified in writing in order to afford the OSDBU an opportunity to identify possible 8(a) sources prior to apprising SBA officials. If the certification required by paragraph (a) of this section is received, the VA contracting officer will secure from SBA the name(s) and location(s) of their subcontractor(s) and the unit price(s) to be paid. Should these prices be within a range acceptable to VA, the contracting officer will notify SBA of acceptance.
+
+(c) The contract will be made between VA and SBA and will be administered by VA.

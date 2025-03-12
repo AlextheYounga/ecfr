@@ -1,0 +1,3 @@
+##### § 60.5000 What is the purpose of this subpart? #####
+
+This subpart establishes emission guidelines and compliance schedules for the control of emissions from sewage sludge incineration (SSI) units. The pollutants addressed by these emission guidelines are listed in Tables 2 and 3 to this subpart. These emission guidelines are developed in accordance with sections 111(d) and 129 of the Clean Air Act and subpart B of this part. To the extent any requirement of this subpart is inconsistent with the requirements of subpart A of this part, the requirements of this subpart will apply.

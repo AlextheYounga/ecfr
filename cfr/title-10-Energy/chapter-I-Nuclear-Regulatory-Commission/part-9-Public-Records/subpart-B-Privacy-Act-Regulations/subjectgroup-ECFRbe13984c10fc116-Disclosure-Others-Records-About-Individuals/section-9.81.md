@@ -1,0 +1,3 @@
+##### § 9.81 Notices of subpoenas. #####
+
+When records concerning an individual are subpoenaed or otherwise disclosed pursuant to court order, the NRC officer or employee served with the subpoena shall be responsible for assuring that the individual is notified of the disclosure within five days after such subpoena or other order becomes a matter of public record. The notice shall be mailed to the last known address of the individual and shall contain the following information: (a) The date the subpoena is returnable; (b) the court in which it is returnable; (c) the name and number of the case or proceeding; and (d) the nature of the information sought.

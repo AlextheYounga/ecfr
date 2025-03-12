@@ -1,0 +1,5 @@
+##### § 63.66 Closure of or reduction of hours of service at telephone exchanges at military establishments. #####
+
+Where a carrier desires to close or reduce hours of service at a telephone exchange located at a military establishment because of the deactivation of such establishment, it may, in lieu of filing formal application, file in quintuplicate an informal request. Such request shall make reference to this section and shall set forth the class of office, address, date of proposed closure or reduction, description of service to remain or be substituted, statement as to any difference in charges to the public, and the reasons for the proposed closure or reduction. Authority for such closure or reduction shall be deemed to have been granted by the Commission, effective as of the 15th day following the date of filing of such request, unless, on or before the 15th day, the Commission shall notify the carrier to the contrary.
+
+[45 FR 6585, Jan. 29, 1980]

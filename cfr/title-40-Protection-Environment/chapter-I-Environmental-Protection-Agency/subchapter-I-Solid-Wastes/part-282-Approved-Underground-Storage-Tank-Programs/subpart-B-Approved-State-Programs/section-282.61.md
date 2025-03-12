@@ -1,0 +1,57 @@
+##### § 282.61 Hawaii State-Administered Program. #####
+
+(a) The State of Hawaii's underground storage tank program is approved in lieu of the Federal program in accordance with Subtitle I of the Resource Conservation and Recovery Act of 1976 (RCRA), as amended, 42 U.S.C. 6991 *et seq.* The State's program, as administered by the Hawaii Department of Health, was approved by EPA pursuant to 42 U.S.C. 6991c and part 281 of this chapter. EPA approved the Hawaii underground storage tank program on September 25, 2002, and approval was effective on September 30, 2002.
+
+(b) Hawaii has primary responsibility for enforcing its underground storage tank program. However, EPA retains the authority to exercise its inspection and enforcement authorities in accordance with sections 9005 and 9006 of Subtitle I of RCRA, 42 U.S.C. 6991d and 6991e, regardless of whether the State has taken its own actions, as well as in accordance with other statutory and regulatory provisions.
+
+(c) To retain program approval, Hawaii must revise its approved program to adopt new changes to the Federal Subtitle I program that make it more stringent, in accordance with section 9004 of RCRA, 42 U.S.C. 6991c, and 40 CFR part 281, subpart E. If Hawaii obtains approval for the revised requirements pursuant to section 9004 of RCRA, 42 U.S.C. 6991c, the newly approved statutory and regulatory provisions will be added to this subpart and notice of any change will be published in the Federal Register.
+
+(d) Hawaii has final approval for the following elements submitted to EPA in the State's program application for final approval. On September 25, 2002, EPA published a rule approving the State's program in the Federal Register, 67 FR 60161. That approval became effective on September 30, 2002. Copies of Hawaii's program application may be obtained from the Hawaii Department of Health, Solid and Hazardous Waste Branch, 919 Ala Moana Boulevard, Suite 212, Honolulu, HI 96814.
+
+(1) *State statutes and regulations.* (i) The provisions cited in paragraph (d)(1)(i) of this section are incorporated by reference as part of the approved underground storage tank program in accordance with Subtitle I of RCRA, 42 U.S.C. 6991 *et seq.*
+
+(A) Hawaii Statutory Requirements Applicable to the Underground Storage Tank Program, 2001.
+
+(B) Hawaii Regulatory Requirements Applicable to the Underground Storage Tank Program, 2001.
+
+(ii) EPA considered the following statutes and regulations in evaluating the State program, but did not incorporate them by reference.
+
+(A) The statutory provisions include of the Hawaii Revised Statutes:
+
+(*1*) Hawaii Revised Statutes, Chapter 342L, Underground Storage Tanks.
+
+ Section 342L-1 Definitions (insofar as “complaint” sets forth enforcement authorities) Section 342L-2 Administration Section 342L-3 Powers; rulemaking; appointment of hearings officers Section 342L-7 Authority to obtain information and data, inspect, and require and conduct activities; penalties for disclosure Section 342L-8 Enforcement Section 342L-9 Emergency powers; procedures Section 342L-10 Penalties Section 342L-11 Administrative penalties Section 342L-12 Injunctive relief Section 342L-12.5 Intervention Section 342L-13 Appeal Section 342L-15 Public records; confidential information Section 342L-17 Other action not barred Section 342L-18 Enforcement by state and county authorities Section 342L-19 Other powers of department not affected Section 342L-20 Effect of laws, ordinances, and rules Section 342L-21 Priority in courts Section 342L-30 Notification requirements (insofar as paragraph (i) of this section grants the Department authority to assess penalties for noncompliance) Section 342L-51 Leaking underground storage tank fund Section 342L-52 Response to suspected or confirmed releases (insofar as it sets forth enforcement authorities) Section 342L-53 Cost recovery
+
+(*2*) Hawaii Revised Statutes, Chapter 342D, Water Pollution.
+
+ Section 342D-8 Inspection of premises Section 342D-9 Enforcement Section 342D-10 Emergency powers; procedures Section 342D-11 Injunctive relief Section 342D-12 Appeal Section 342D-14 Public records; confidential information; penalties Section 342D-30 Civil penalties Section 342D-31 Administrative penalties Section 342D-32 Negligent violations Section 342D-33 Knowing violations Section 342D-34 Knowing endangerment Section 342D-35 False statements Section 342D-36 Treatment of single operational upset Section 342D-37 Responsible corporate officer as “person” Section 342D-39 Disposition of collected fines and penalties Section 342D-52 Testing of water and aquatic and other life
+
+(*3*) Hawaii Revised Statutes, Chapter 128D, Environmental Response Law.
+
+ Section 128D-4 State response authorities; uses of fund (insofar as it sets forth enforcement authorities for certain corrective actions)
+
+(B) The regulatory provisions include; Hawaii Administrative Rules, Chapter 11-281, Underground Storage Tanks:
+
+ Section 11-281-03 Definitions (insofar as “complaint” sets forth enforcement authorities; and insofar as “field citation” and “force majeure” relate to the Department's enforcement authorities) Section 11-281-80 Public participation for corrective action plans (insofar as paragraph (j) of this section sets forth enforcement authorities) Section 11-281-121 Purpose Section 11-281-122 Applicability Section 11-281-123 Issuance and contents of a field citation Section 11-281-124 Notice of citation Section 11-281-125 Field citation order and settlement agreement Section 11-281-126 Correcting violations; paying the settlement amount; and signing the settlement agreement Section 11-281-127 Method of payment Section 11-281-128 Field citation penalty amounts for settlement Section 11-281-131 Appendices VII and VIII (insofar as they relate to the Department's field citation program)
+
+(iii) The following statutory and regulatory provisions are broader in scope than the Federal program, are not part of the approved program, and are not incorporated by reference. These provisions are not federally enforceable.
+
+(A) The statutory provisions include; Hawaii Revised Statutes, Chapter 342L, Underground Storage Tanks:
+
+ Section 342L-1 Definitions (“owner” insofar as it includes persons who hold indicia of ownership to protect an interest in a tank system; “permit” insofar as it sets forth a permitting program; and “regulated substance” insofar as it includes other substances as designated by the Department) Section 342L-4 Permits; procedures for (insofar as it establishes a permitting program) Section 342L-5 Variances allowed (insofar as variances exceed the scope of the federal program) Section 342L-6 Variances; procedures for (insofar as variances exceed the scope of the federal program) Section 342L-14 Fees (insofar as it grants the director authority to establish fees for registering underground storage tanks) Section 342L-16 Non-liability of department personnel (insofar as it was specifically not authorized in the Federal Register notice of program approval) Section 342L-23 Directory of underground storage tank service providers (insofar as it was specifically not authorized in the Federal Register notice of program approval) Section 342L-31 Permit requirements and transfer of permit (insofar as it requires owners and operators to obtain permits to install or operate UST systems) Section 342L-50 Definitions (insofar as the definition of “owner” defines lenders as operators and subjects such lenders to requirements other than the corrective action requirements)
+
+(B) The regulatory provisions include the following sections of Hawaii Administrative Rules, Chapter 11-281, Underground Storage Tanks:
+
+ Section 11-281-03 Definitions (“farm tank” insofar as it regulates tanks on farms that are not used for farm or commercial purposes; “regulated substance” insofar as the Department can designate other substances; “reportable quantity” insofar as it sets forth a reporting threshold of 10 lbs. for trichloropropane; and “underground storage tank” insofar as its designation of farm tanks exceeds the scope of the federal regulations) Section 11-281-23 Permit required (insofar as it relates to the permitting program) Section 11-281-24 Application for a permit (insofar as paragraphs (a), (b), (c)(3), and (c)(4) of this section relate to the permitting program) Section 11-281-25 Permit (insofar as paragraphs (a) and (b) of this section relate to the permitting program) Section 11-281-26 Permit renewals (insofar as it relates to the permitting program) Section 11-281-27 Action on and timely approval of an application for a permit (insofar as it relates to the permitting program) Section 11-281-28 Permit conditions (insofar as it relates to the permitting program) Section 11-281-29 Modification of permit and notice of change (insofar as it relates to the permitting program) Section 11-281-30 Revocation or suspension of permit (insofar as it relates to the permitting program) Section 11-281-31 Change in owner or operator for a permit (insofar as it relates to the permitting program) Section 11-281-32 Variances allowed (insofar as variances exceed the scope of the federal program) Section 11-281-33 Variance applications (insofar as variances exceed the scope of the federal program) Section 11-281-34 Maintenance of permit or variance (insofar as it relates to the permitting program) Section 11-281-35 Fees (insofar as it establishes registration fees) Section 11-281-45 Reporting and recordkeeping (insofar as paragraph (b)(3)of this section addresses posting of signs; and paragraph (c)(6) of this section requires maintenance of permit records) Section 11-281-73 Posting of signs (insofar as there is no analogous provision in the federal regulations) Section 11-281-131 Appendices II, IV, V, and VI of this section (insofar as they address permit application and transfer procedures and variances)
+
+(2) *Statement of legal authority.* (i) “Attorney General's Statement,” signed by the State Attorney General on October 12, 2000, though not incorporated by reference, is referenced as part of the approved underground storage tank program in accordance with Subtitle I of RCRA, 42 U.S.C. 6991 *et seq.*
+
+(ii) Letter from the Attorney General of Hawaii to EPA, October 12, 2000, though not incorporated by reference, is referenced as part of the approved underground storage tank program in accordance with Subtitle I of RCRA, 42 U.S.C. 6991 *et seq.*
+
+(3) *Demonstration of procedures for adequate enforcement.* The “Demonstration of Procedures for Adequate Enforcement” submitted as part of the original application on May 23, 2001, though not incorporated by reference, is referenced as part of the approved underground storage tank program in accordance with Subtitle I of RCRA, 42 U.S.C. 6991 *et seq.*
+
+(4) *Program Description.* The program description and any other material submitted as part of the original application on May 23, 2001, though not incorporated by reference, are referenced as part of the approved underground storage tank program in accordance with Subtitle I of RCRA, 42 U.S.C. 6991 *et seq.*
+
+(5) *Memorandum of Agreement.* The Memorandum of Agreement between EPA Region 9 and the Hawaii Department of Health, signed by the EPA Regional Administrator on September 13, 2002, though not incorporated by reference, is referenced as part of the approved underground storage tank program in accordance with Subtitle I of RCRA, 42 U.S.C. 6991 *et seq.*
+
+[73 FR 53744, Sept. 17, 2008]

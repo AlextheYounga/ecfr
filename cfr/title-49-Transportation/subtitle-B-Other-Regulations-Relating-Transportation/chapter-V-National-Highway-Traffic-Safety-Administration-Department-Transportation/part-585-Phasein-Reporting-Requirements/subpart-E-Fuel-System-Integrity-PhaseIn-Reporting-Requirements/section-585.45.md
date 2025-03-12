@@ -1,0 +1,7 @@
+##### § 585.45 Reporting requirements. #####
+
+(a) *General reporting requirements.* Within 60 days after the end of the production years ending August 31, 2007, August 31, 2008 and August 31, 2009, each manufacturer shall submit a report to the National Highway Traffic Safety Administration concerning its compliance with S6.2(b) of Standard No. 301 for its passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of less than 4,536 kg produced in that year. Each report shall provide the information specified in paragraph (b) of this section and in section 585.2 of this part.
+
+(b) *Report content.* (1) Basis for statement of compliance. Each manufacturer shall provide the number of passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of 4,536 kg or less manufactured for sale in the United States for each of the three previous production years, or, at the manufacturer's option, for the previous production year. A new manufacturer that has not previously manufactured these vehicles for sale in the United States must report the number of such vehicles manufactured during the current production year.
+
+(2) Production. Each manufacturer shall report for the production year for which the report is filed the number of passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of 4,536 kg or less that meet S6.2(b) or S6.3(b) of Standard No. 301.

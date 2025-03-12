@@ -1,0 +1,5 @@
+##### § 37.15 Interpretations and guidance. #####
+
+The Secretary of Transportation, Office of the Secretary of Transportation, and Operating Administrations may issue written interpretations of or written guidance concerning this part. Written interpretations and guidance shall be developed through the Department's coordinating mechanism for disability matters, the Disability Law Coordinating Council. Written interpretations and guidance constitute the official position of the Department of Transportation, or any of its operating administrations, only if they are issued over the signature of the Secretary of Transportation or if they contain the following statement: “The General Counsel of the Department of Transportation has reviewed this document and approved it as consistent with the language and intent of 49 CFR parts 27, 37, 38, and/or 39, as applicable.”
+
+[76 FR 57935, Sept. 19, 2011]

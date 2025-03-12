@@ -1,0 +1,3 @@
+##### 15.308 Source selection decision. #####
+
+The source selection authority's (SSA) decision shall be based on a comparative assessment of proposals against all source selection criteria in the solicitation. While the SSA may use reports and analyses prepared by others, the source selection decision shall represent the SSA's independent judgment. The source selection decision shall be documented, and the documentation shall include the rationale for any business judgments and tradeoffs made or relied on by the SSA, including benefits associated with additional costs. Although the rationale for the selection decision must be documented, that documentation need not quantify the tradeoffs that led to the decision.

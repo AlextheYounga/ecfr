@@ -1,0 +1,3 @@
+##### § 95.1105 Eligibility. #####
+
+Authorized health care providers are authorized by rule to operate transmitters in the Wireless Medical Telemetry Service without an individual license issued by the Commission provided the coordination requirements in § 95.1111 have been met. Manufacturers of wireless medical telemetry devices and their representatives are authorized to operated wireless medical telemetry transmitters in this service solely for the purpose of demonstrating such equipment to, or installing and maintaining such equipment for, duly authorized health care providers. No entity that is a foreign government or which is active in the capacity as a representative of a foreign government is eligible to operate a WMTS transmitter.

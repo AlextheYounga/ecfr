@@ -1,0 +1,3 @@
+##### § 509.300 Scope. #####
+
+The procedures in this subpart D govern hearings on denials of applications for case-by-case exemptions under 12 CFR part 585. Part 585 implements section 19(e) of the FDIA, which prohibits persons who have been convicted of certain criminal offenses or who have agreed to enter into a pre-trial diversion or similar program in connection with a prosecution for such criminal offenses from occupying various positions with a savings and loan holding company.

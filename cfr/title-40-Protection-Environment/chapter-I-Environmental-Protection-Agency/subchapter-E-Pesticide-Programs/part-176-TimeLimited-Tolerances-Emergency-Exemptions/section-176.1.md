@@ -1,0 +1,3 @@
+##### § 176.1 Scope and applicability. #####
+
+This part describes the procedures and criteria under which EPA will establish time-limited tolerances and exemptions from the requirement of a tolerance for pesticide chemical residues associated with use of pesticides under emergency or crisis exemptions under FIFRA section 18. This part applies only to tolerances issued on the initiative of EPA as the result of the issuance of an emergency exemption or the declaration of a crisis exemption. This part does not cover time-limited tolerances in any other circumstances.

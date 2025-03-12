@@ -1,0 +1,7 @@
+##### § 179.102 Delegation of authority. #####
+
+(a) The Chief Financial Officer and his or her delegates are designated by the Director and authorized to perform all the duties for which the Director is responsible under the Debt Collection Act of 1982 and Office of Personnel Management regulations with the exception of debts arising from the Civil Service Retirement and Disability Fund, the Employees' Life Insurance Fund, the Retired Federal Employees Health Benefits Act (74 Stat. 849), and the Employees Health Benefits Fund. However, the Chief Financial Officer and his or her delegates will request a review by the General Counsel or his or her designee for all claims processed (in amounts of $2500 or more) for compromise, suspension, and termination of collection action.
+
+(b) The Associate Director for Retirement and Insurance and his or her delegates are designated by the Director and authorized to perform all the duties for which the Director is responsible under the Debt Collection Act of 1982 and Office of Personnel Management regulations on debts caused by payments from the Civil Service Retirement and Disability Fund (subchapter III of chapter 83 or chapter 84), claims under the provisions of the Federal Employees' Life Insurance Fund (chapter 87), the Retired Federal Employees Health Benefits Act (74 Stat. 849), the Employees Health Benefits Fund (chapter 89), the Panama Canal Construction Annuity Act (58 Stat. 257), and, the Lighthouse Service Widows' Annuity Act (64 Stat. 465).
+
+[59 FR 35216, July 11, 1994]

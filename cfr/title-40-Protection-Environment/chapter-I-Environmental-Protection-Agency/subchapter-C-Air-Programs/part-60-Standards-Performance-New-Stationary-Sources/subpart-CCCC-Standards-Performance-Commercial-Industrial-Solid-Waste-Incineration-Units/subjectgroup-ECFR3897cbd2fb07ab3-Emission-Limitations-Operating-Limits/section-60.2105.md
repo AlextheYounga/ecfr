@@ -1,0 +1,5 @@
+##### § 60.2105 What emission limitations must I meet and by when? #####
+
+(a) You must meet the emission limitations for each CISWI, including bypass stack or vent, specified in table 1 of this subpart or tables 5 through 8 of this subpart by the applicable date in § 60.2140. You must be in compliance with the emission limitations of this subpart that apply to you at all times.
+
+(b) A CISWI or ACI that commenced construction after November 30, 1999, but no later than June 4, 2010, or that commenced reconstruction or modification on or after June 1, 2001 but no later than August 7, 2013, must continue to meet the emission limits in table 1 of this subpart for units in the incinerator subcategory and § 60.2250 for ACIs until the units become subject to the requirements of an approved state plan or federal plan that implements subpart DDDD of this part (Emission Guidelines and Compliance Times for Commercial and Industrial Solid Waste Incineration Units).

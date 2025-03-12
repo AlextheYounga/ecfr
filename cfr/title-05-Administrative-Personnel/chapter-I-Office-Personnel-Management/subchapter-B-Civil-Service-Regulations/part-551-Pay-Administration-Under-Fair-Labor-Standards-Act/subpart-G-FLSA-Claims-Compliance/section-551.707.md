@@ -1,0 +1,5 @@
+##### § 551.707 Withdrawal or cancellation of an FLSA claim. #####
+
+(a) *Withdrawal.* OPM may grant a request from the claimant or claimant's representative to withdraw an FLSA claim at any time before OPM issues its decision. The claimant or the claimant's representative must submit the request in writing to OPM.
+
+(b) *Cancellation.* OPM may, at its discretion, cancel an FLSA claim if the claimant or the claimant's representative fails to provide requested information within 15 workdays after the date of the request, unless the claimant or the claimant's representative requests additional time and OPM grants a longer period of time in which to provide the requested information. OPM may, at its discretion, reconsider a cancelled claim on a showing that circumstances beyond the claimant's control prevented pursuit of the claim.

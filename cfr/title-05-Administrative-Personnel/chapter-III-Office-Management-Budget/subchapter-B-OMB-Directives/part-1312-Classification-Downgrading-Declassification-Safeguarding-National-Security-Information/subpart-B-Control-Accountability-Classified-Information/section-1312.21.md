@@ -1,0 +1,3 @@
+##### § 1312.21 Purpose and authority. #####
+
+This subpart sets forth procedures for the receipt, storage, accountability, and transmission of classified information at the Office of Management and Budget. It is issued under the authority of Executive Order 12958, (60 FR 19825, 3 CFR, 1995 Comp., P.333), as implemented by Information Security Oversight Office Directive No 1 (32 CFR part 2001), and is applicable to all OMB employees.

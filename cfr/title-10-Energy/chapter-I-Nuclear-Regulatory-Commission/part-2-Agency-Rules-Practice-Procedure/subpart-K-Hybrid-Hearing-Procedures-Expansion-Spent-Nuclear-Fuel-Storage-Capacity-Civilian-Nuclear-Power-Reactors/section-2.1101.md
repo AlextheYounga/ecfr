@@ -1,0 +1,3 @@
+##### § 2.1101 Purpose. #####
+
+The regulations in this subpart establish hybrid hearing procedures, as authorized by section 134 of the Nuclear Waste Policy Act of 1982 (96 Stat. 2230), to be used at the request of any party in certain contested proceedings on applications for a license or license amendment to expand the spent nuclear fuel storage capacity at the site of a civilian nuclear power plant. These procedures are intended to encourage and expedite onsite expansion of spent nuclear fuel storage capacity.

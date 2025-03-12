@@ -1,0 +1,17 @@
+##### § 25.274 Procedures to be followed in the event of harmful interference. #####
+
+(a) The earth station operator whose transmission is suffering harmful interference shall first check the earth station equipment to ensure that the equipment is functioning properly.
+
+(b) The earth station operator shall then check all other earth stations in the licensee's network that could be causing the harmful interference to ensure that none of them is the source of the interference and to verify that the interference is not from a local terrestrial source.
+
+(c) After the earth station operator has determined that the source of the interference is not another earth station operating in the same network or from a terrestrial source, the earth station operator shall contact the satellite system control center and advise the satellite operator of the problem. The control center operator shall observe the interference incident and make reasonable efforts to determine the source of the problem. A record shall be maintained by the control center operator and the earth station operator of all harmful interference incidents and their resolution. These records shall be made available to an FCC representative on request.
+
+(d) Where the suspected source of the interference incident is the operation of an earth station licensed to operate on one or more of the satellites in the satellite operator's system, the control center operator shall advise the offending earth station of the harmful interference incident and assist in the resolution of the problem where reasonably possible.
+
+(e) The earth station licensee whose operations are suspected of causing harmful interference to the operations of another earth station shall take reasonable measures to determine whether its operations are the source of the harmful interference problem. Where the operations of the suspect earth station are the source of the interference, the licensee of that earth station shall take all measures necessary to resolve the interference.
+
+(f) Where the earth station suspected of causing harmful interference to the operations of another earth station cannot be identified or is identified as an earth station operating on a satellite system other than the one on which the earth station suffering harmful interference is operating, it is the responsibility of a representative of the earth station suffering harmful interference to contact the control center of other satellite systems. The operator of the earth station suffering harmful interference is free to choose any representative to make this contact, including but not limited to the operator of the satellite system on which the earth station is operating. The operator of the earth station suffering harmful interference is also free to contact the control center of the other satellite systems directly.
+
+(g) At any point, the system control center operator may contact the Commission's Columbia Operations Center in Columbia, Maryland, to assist in resolving the matter. This office specializes in the resolution of satellite interference problems. All licensees are required to cooperate fully with the Commission in any investigation of interference problems.
+
+[58 FR 13421, Mar. 11, 1993, as amended at 62 FR 5931, Feb. 10, 1997; 70 FR 32257, June 2, 2005; 78 FR 8431, Feb. 6, 2013]

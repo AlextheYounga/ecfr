@@ -1,0 +1,3 @@
+##### § 267.2 What is the relationship to interim status standards? #####
+
+If you are a facility owner or operator who has fully complied with the requirements for interim status—as defined in section 3005(e) of RCRA and regulations under 40 CFR 270.70—you must comply with the regulations specified in 40 CFR part 265 instead of the regulations in this part, until final administrative disposition of the standardized permit application is made, except as provided under 40 CFR part 264, subpart S.

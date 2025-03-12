@@ -1,0 +1,3 @@
+##### § 1503.661 Judicial review of a final order. #####
+
+For violations of a TSA requirement, a party may petition for review of a final order of the Administrator only to the courts of appeals of the United States or the United States Court of Appeals for the District of Columbia pursuant to 49 U.S.C. 46110. A party seeking judicial review of a final order must file a petition for review not later than 60 days after the final order has been served on the party.

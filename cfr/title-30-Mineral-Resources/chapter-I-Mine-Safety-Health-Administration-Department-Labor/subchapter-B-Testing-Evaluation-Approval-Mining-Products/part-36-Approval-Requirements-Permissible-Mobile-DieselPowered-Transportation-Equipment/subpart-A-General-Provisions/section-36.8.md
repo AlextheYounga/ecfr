@@ -1,0 +1,3 @@
+##### § 36.8 Date for conducting tests. #####
+
+The date for acceptance of an application will determine the order of precedence for testing when more than one application is pending, and the applicant will be notified of the date on which tests will begin. If a complete assembly, or component, or subassembly fails to meet any of the requirements, it shall lose its order of precedence. However, if the cause of failure is corrected, testing will be resumed after completing such test work as may be in progress.

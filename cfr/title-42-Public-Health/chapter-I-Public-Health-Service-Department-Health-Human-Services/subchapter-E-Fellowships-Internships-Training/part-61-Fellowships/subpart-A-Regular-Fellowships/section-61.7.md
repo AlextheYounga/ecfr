@@ -1,0 +1,3 @@
+##### § 61.7 Review of applications; committees; awards. #####
+
+The Surgeon General shall appoint one or more fellowship committees to examine the qualifications of applicants for fellowships and the merits of their proposals for research, training, or special scientific projects. A fellowship committee shall submit to the Surgeon General its recommendations concerning appointments. Awards of regular fellowships shall be made in writing by the Surgeon General.

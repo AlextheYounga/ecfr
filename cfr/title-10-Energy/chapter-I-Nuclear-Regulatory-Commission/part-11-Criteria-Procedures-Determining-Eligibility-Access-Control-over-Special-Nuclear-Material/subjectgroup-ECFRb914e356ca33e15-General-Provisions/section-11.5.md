@@ -1,0 +1,3 @@
+##### § 11.5 Policy. #####
+
+It is the policy of the Nuclear Regulatory Commission to carry out its authority to establish and administer, in a manner consistent with traditional American concepts of justice, a personnel security program in the interests of the common defense and security for the purpose of safeguarding special nuclear material and preventing sabotage which would endanger the public by exposure to radiation. To this end, the Commission has established criteria for determining eligibility for special nuclear material access authorization and will afford affected individuals the opportunity for administrative review of questions concerning their eligibility for special nuclear material access authorization.

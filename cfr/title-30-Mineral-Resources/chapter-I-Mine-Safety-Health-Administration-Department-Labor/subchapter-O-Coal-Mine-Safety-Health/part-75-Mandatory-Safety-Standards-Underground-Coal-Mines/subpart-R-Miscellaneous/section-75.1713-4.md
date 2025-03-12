@@ -1,0 +1,3 @@
+##### § 75.1713-4 First-aid training program; availability of instruction to all miners. #####
+
+On or before June 30, 1971, each operator of an underground coal mine shall make available to all miners employed in the mine a course of instruction in first-aid conducted by the operator or under the auspices of the operator, and such a course of instruction shall be made available to newly employed miners within 6 months after the date of employment.

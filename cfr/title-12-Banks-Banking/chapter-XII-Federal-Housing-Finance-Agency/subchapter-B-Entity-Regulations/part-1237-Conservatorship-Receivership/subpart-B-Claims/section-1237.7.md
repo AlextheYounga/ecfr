@@ -1,0 +1,3 @@
+##### § 1237.7 Period for determination of claims. #####
+
+Before the end of the 180-day period beginning on the date on which any claim against a regulated entity is filed with the Agency as receiver, the Agency shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim. This period may be extended by a written agreement between the claimant and the Agency as receiver, which may include an agreement to toll any applicable statute of limitations.

@@ -1,0 +1,5 @@
+##### § 796.3 What special post-employment restrictions apply to senior examiners? #####
+
+(a) *Senior examiners of federally insured credit unions.* An officer or employee of the NCUA who performs work (onsite or offsite) as the senior examiner of a federally insured credit union for a total of two or more months during the last 12 months of individual's employment with NCUA may not, within one year after leaving NCUA employment, knowingly accept compensation as an employee, officer, director, or consultant from that credit union.
+
+(b) *Example.* An NCUA resident corporate credit union examiner assigned to work at a federally insured, corporate credit union for two or more months during the last 12 months of that individual's employment with NCUA will be subject to the one-year prohibition of this section.

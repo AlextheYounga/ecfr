@@ -1,0 +1,11 @@
+##### § 227.16 Basis for determination of need for ocean dumping. #####
+
+(a) A need for ocean dumping will be considered to have been demonstrated when a thorough evaluation of the factors listed in § 227.15 has been made, and the Administrator, Regional Administrator or District Engineer, as the case may be, has determined that the following conditions exist where applicable:
+
+(1) There are no practicable improvements which can be made in process technology or in overall waste treatment to reduce the adverse impacts of the waste on the total environment;
+
+(2) There are no practicable alternative locations and methods of disposal or recycling available, including without limitation, storage until treatment facilities are completed, which have less adverse environmental impact or potential risk to other parts of the environment than ocean dumping.
+
+(b) For purposes of paragraph (a) of this section, waste treatment or improvements in processes and alternative methods of disposal are practicable when they are available at reasonable incremental cost and energy expenditures, which need not be competitive with the costs of ocean dumping, taking into account the environmental benefits derived from such activity, including the relative adverse environmental impacts associated with the use of alternatives to ocean dumping.
+
+(c) The duration of permits issued under subchapter H and other terms and conditions imposed in those permits shall be determined after taking into account the factors set forth in this section. Notwithstanding compliance with subparts B, D, and E of this part 227 permittees may, on the basis of the need for and alternatives to ocean dumping, be required to terminate all ocean dumping by a specified date, to phase out all ocean dumping over a specified period or periods, to continue research and development of alternative methods of disposal and make periodic reports of such research and development in order to provide additional information for periodic review of the need for and alternatives to ocean dumping, or to take such other action as the Administrator, the Regional Administrator, or District Engineer, as the case may be, determines to be necessary or appropriate.

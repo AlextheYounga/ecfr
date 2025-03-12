@@ -1,0 +1,7 @@
+##### § 72.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of this part is to establish certain general provisions and the operating permit program requirements for affected sources and affected units under the Acid Rain Program, pursuant to title IV of the Clean Air Act, 42 U.S.C. 7401, *et seq.,* as amended by Public Law 101-549 (November 15, 1990).
+
+(b) *Scope.* The regulations under this part set forth certain generally applicable provisions under the Acid Rain Program. The regulations also set forth requirements for obtaining three types of Acid Rain permits, during Phases I and II, for which an affected source may apply: Acid Rain permits issued by the United States Environmental Protection Agency during Phase I; the Acid Rain portion of an operating permit issued by a State permitting authority during Phase II; and the Acid Rain portion of an operating permit issued by EPA when it is the permitting authority during Phase II. The requirements under this part supplement, and in some cases modify, the requirements under parts 70 and 71 of this chapter and other regulations implementing title V for approving and implementing State operating permit programs and for Federal issuance of operating permits under title V, as such requirements apply to affected sources under the Acid Rain Program.
+
+[58 FR 3650, Jan. 11, 1993, as amended at 62 FR 55475, Oct. 24, 1997]

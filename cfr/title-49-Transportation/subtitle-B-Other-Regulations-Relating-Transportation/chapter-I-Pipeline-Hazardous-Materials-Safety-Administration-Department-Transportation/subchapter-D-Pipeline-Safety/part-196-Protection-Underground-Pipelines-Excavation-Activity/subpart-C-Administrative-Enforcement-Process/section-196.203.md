@@ -1,0 +1,3 @@
+##### § 196.203 What is the administrative process PHMSA will use to conduct enforcement proceedings for alleged violations of excavation damage prevention requirements? #####
+
+PHMSA will use the existing administrative adjudication process for alleged pipeline safety violations set forth in 49 CFR part 190, subpart B. This process provides for notification that a probable violation has been committed, a 30-day period to respond including the opportunity to request an administrative hearing, the issuance of a final order, and the opportunity to petition for reconsideration.

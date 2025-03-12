@@ -1,0 +1,5 @@
+##### § 51.617 Assessment of end user common line charge on resellers. #####
+
+(a) Notwithstanding the provision in § 69.104(a) of this chapter that the end user common line charge be assessed upon end users, an incumbent LEC shall assess this charge, and the charge for changing the designated primary interexchange carrier, upon requesting carriers that purchase telephone exchange service for resale. The specific end user common line charge to be assessed will depend upon the identity of the end user served by the requesting carrier.
+
+(b) When an incumbent LEC provides telephone exchange service to a requesting carrier at wholesale rates for resale, the incumbent LEC shall continue to assess the interstate access charges provided in part 69 of this chapter, other than the end user common line charge, upon interexchange carriers that use the incumbent LEC's facilities to provide interstate or international telecommunications services to the interexchange carriers' subscribers.

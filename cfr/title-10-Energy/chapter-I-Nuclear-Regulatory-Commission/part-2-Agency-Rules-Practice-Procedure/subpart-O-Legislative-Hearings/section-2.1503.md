@@ -1,0 +1,3 @@
+##### § 2.1503 Authority of presiding officer. #####
+
+If the Commission appoints a presiding officer to conduct the legislative hearing, the presiding officer shall be responsible for expeditious development of a sufficient record on the Commission-identified issues, consistent with the direction provided by the Commission under § 2.1502(c). The presiding officer has the authority otherwise accorded to it under §§ 2.319(a), (c), (e), (g), (h), and (i), 2.324, and 2.333 to control the course of the proceeding, and may exercise any other authority granted to it by the Commission in accordance with § 2.1502(c)(6).

@@ -1,0 +1,3 @@
+##### § 104.24 Demands or requests in legal proceedings for records protected by confidentiality statutes. #####
+
+Demands in legal proceedings for the production of records, or for the testimony of employees regarding information protected by the confidentiality provisions of the Patent Act (35 U.S.C. 122), the Privacy Act (5 U.S.C. 552a), the Trade Secrets Act (18 U.S.C. 1905), or any other confidentiality statute, must satisfy the requirements for disclosure set forth in those statutes and associated rules before the records may be provided or testimony given.

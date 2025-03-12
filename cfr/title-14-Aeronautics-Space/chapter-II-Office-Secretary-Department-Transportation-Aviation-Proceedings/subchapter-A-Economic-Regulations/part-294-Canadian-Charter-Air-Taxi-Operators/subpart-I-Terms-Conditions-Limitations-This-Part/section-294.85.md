@@ -1,0 +1,5 @@
+##### § 294.85 Charterworthiness standards. #####
+
+(a) Registrants may perform U.S.-originating charters authorized under Annex B (III)(A) of the Agreement as follows: Commercial air transportation of passengers and their accompanied baggage, and of property, on a time, mileage, or trip basis, where the entire planeload capacity of one or more aircraft has been engaged by a person for his own use or by a person for the transportation of a group of persons and/or their property, as agent or representative of such group, or other small aircraft operations as may be authorized under any amendments, supplements, reservations, or supersessions of the Agreement.
+
+(b) Registrants may perform Canadian-originating charters authorized by Annex B (III)(B) of the Agreement and any amendments, supplements, reservations or supersessions of it. Such charters may be performed only to the extent authorized by the Air Carrier Regulations of the Canadian Transport Commission applicable to operations by small aircraft.

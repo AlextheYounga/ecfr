@@ -1,0 +1,3 @@
+##### § 23.79 Does this part permit recipients to use local geographic preferences? #####
+
+No. As a recipient you must not use a local geographic preference. For purposes of this section, a local geographic preference is any requirement that gives an ACDBE located in one place (*e.g.,* your local area) an advantage over ACDBEs from other places in obtaining business as, or with, a concession at your airport.

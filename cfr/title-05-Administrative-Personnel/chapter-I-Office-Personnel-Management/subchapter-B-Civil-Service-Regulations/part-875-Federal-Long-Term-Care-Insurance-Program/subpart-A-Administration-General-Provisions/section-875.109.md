@@ -1,0 +1,3 @@
+##### § 875.109 Is there a delegation of authority for resolving contract disputes between OPM and the Carrier? #####
+
+For the purpose of making findings of fact and to the extent that conclusions of law may be required under any proceeding conducted in accordance with the provisions of the disputes clause included in the FLTCIP master contract, OPM delegates this function to the Armed Services Board of Contract Appeals.

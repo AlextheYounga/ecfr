@@ -1,0 +1,5 @@
+##### 49.109-6 Joint settlement of two or more settlement proposals. #####
+
+(a) With the consent of the contractor, the TCO or TCO's concerned may negotiate jointly two or more termination settlement proposals of the same contractor under different contracts, even though the contracts are with different contracting offices or agencies. In such cases, accounting work shall be consolidated to the greatest extent practical. The resulting settlement may be evidenced by one settlement agreement covering all contracts involved or by a separate agreement for each contract involved.
+
+(b) When the settlement agreement covers more than one contract, it shall (1) clearly identify the contracts involved, (2) assign an amendment modification number to each contract, (3) apportion the total amount of the settlement among the several contracts on some reasonable basis, (4) have attached or incorporated a schedule showing the apportionment, and (5) be distributed and attached to each contract involved in the same manner as other contract modifications.

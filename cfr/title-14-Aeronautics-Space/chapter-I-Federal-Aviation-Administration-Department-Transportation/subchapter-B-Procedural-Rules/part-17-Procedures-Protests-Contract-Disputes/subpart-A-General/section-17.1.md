@@ -1,0 +1,3 @@
+##### § 17.1 Applicability. #####
+
+This part applies to all Acquisition Management System (AMS) bid protests and contract disputes involving the FAA that are filed at the Office of Dispute Resolution for Acquisition (ODRA) on or after October 7, 2011, with the exception of those contract disputes arising under or related to FAA contracts entered into prior to April 1, 1996, where such contracts have not been modified to be made subject to the FAA AMS. This part also applies to pre-disputes as described in subpart G of this part.

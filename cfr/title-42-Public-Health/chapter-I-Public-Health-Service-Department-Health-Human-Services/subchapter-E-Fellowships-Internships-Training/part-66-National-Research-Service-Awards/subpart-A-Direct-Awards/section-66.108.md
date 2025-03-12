@@ -1,0 +1,3 @@
+##### § 66.108 Payments to institutions. #####
+
+The institution shall be entitled to an allowance to help defray the cost of support services (including the cost of faculty salaries, supplies, equipment, general research support, and related items) provided to the individual by the institution. The Secretary shall determine the amount of payments based upon reasonable costs to the institution of establishing and maintaining the quality of research and training programs for which it receives support under this subpart. The Secretary may make payments to the institution either in advance or by way of reimbursement.

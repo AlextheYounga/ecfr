@@ -1,0 +1,7 @@
+##### § 1015.211 Collection in installments. #####
+
+(a) Whenever feasible, DOE shall collect the total amount of a debt in one lump sum. If a debtor is financially unable to pay a debt in one lump sum, DOE may accept payment in regular installments. DOE will obtain a current financial statement showing the debtor's assets, liabilities, income, and expenses from debtors who represent that they are unable to pay in one lump sum, and independently verify such representations whenever possible. DOE may also obtain credit reports or other financial information to assess installment requests. DOE may use its own financial information form or a DOJ form, such as the Financial Statement of Debtor (OBD-500) (see § 1015.302(g) of this part). When DOE agrees to accept payments in regular installments, it will obtain a legally enforceable, written agreement from the debtor that specifies all of the terms of the arrangement and that contains a provision accelerating the debt in the event of default.
+
+(b) The size and frequency of installment payments should bear a reasonable relation to the size of the debt and the debtor's ability to pay. If possible, the installment payments should be sufficient in size and frequency to liquidate the debt in three years or less.
+
+(c) Security for deferred payments should be obtained in appropriate cases. DOE may accept installment payments notwithstanding the refusal of the debtor to execute a written agreement or to give security, at DOE's option.

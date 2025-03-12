@@ -1,0 +1,15 @@
+##### § 179.220-17 Gauging devices, top loading and unloading devices, venting and air inlet devices. #####
+
+(a) When installed, each device must be of approved design which will prevent interchange with any other fixture and must be tightly closed. Each unloading pipe must be securely anchored within the inner container. Each inner container or compartment thereof may be equipped with one separate air connection.
+
+(b) When the characteristics of the commodity for which the car is authorized require these devices to be equipped with valves or fittings to permit the loading and unloading of the contents, these devices including valves, shall be provided with a protective housing except when plug or ball-type valves with operating handles removed are used. Provision must be made for closing pipe connections of valves.
+
+(c) Inner container may be equipped with a vacuum relief valve of approved design. Protective housing is not required.
+
+(d) When a gauging device is required in § 179.221-1, an outage scale visible through the manway opening must be provided. If loading devices are applied to permit tank loading with cover closed, a telltale pipe may be provided. The telltail pipe must be capable of determining that required outage is provided. The pipe must be equipped with1/4-inch maximum, NPT control valve mounted outside tank and enclosed within a protective housing. Other approved devices may be used in place of an outage scale or a telltale pipe.
+
+(e) The bottom of the tank shell may be equipped with a sump or siphon bowl, or both, welded or pressed into the shell. These sumps or siphon bowls, if applied, are not limited in size and must be made of cast, forged, or fabricated metal. Each sump or siphon bowl must be of good welding quality in conjunction with the metal of the tank shell. When the sump or siphon bowl is pressed in the bottom of the tank shell, the wall thickness of the pressed section must not be less than that specified for the shell. The section of a circular cross section tank to which a sump or siphon bowl is attached need not comply with the out-of-roundness requirement specified in appendix W, W14.06 of the AAR Specifications for Tank Cars. Any portion of a sump or siphon bowl not forming a part of a cylinder of revolution must have walls of such thickness and must be so reinforced that the stresses in the walls caused by a given internal pressure are not greater than the circumferential stress which would exist under the same internal pressure in the wall of a tank of circular cross section designed in accordance with §§ 179.220-6(a) and 179.220-9. In no case shall the wall thickness be less than that specified in § 179.221-1.
+
+(f) Protective housing, when required, must be of approved material and must have cover and sidewalls not less than 0.119 inch in thickness.
+
+[Amdt. 179-9, 36 FR 21341, Nov. 6, 1971, as amended at 69 FR 54047, Sept. 7, 2004]

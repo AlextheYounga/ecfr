@@ -1,0 +1,23 @@
+##### § 145.21 General requirements for program approvals. #####
+
+(a) States shall submit to the Administrator a proposed State UIC program complying with § 145.22 of this part within 270 days of the date of promulgation of the UIC regulations on June 24, 1980. The administrator may, for good cause, extend the date for submission of a proposed State UIC program for up to an additional 270 days.
+
+(b) States shall submit to the Administrator 6 months after the date of promulgation of the UIC regulations a report describing the State's progress in developing a UIC program. If the Administrator extends the time for submission of a UIC program an additional 270 days, pursuant to § 145.21(a), the State shall submit a second report six months after the first report is due. The Administrator may prescribe the manner and form of the report.
+
+(c) The requirements of § 145.21 (a) and (b) shall not apply to Indian Tribes.
+
+(d) EPA will establish a UIC program in any State which does not comply with paragraph (a) of this section. EPA will continue to operate a UIC program in such a State until the State receives approval of a UIC program in accordance with the requirements of this part.
+
+Note:
+
+States which are authorized to administer the NPDES permit program under section 402 of CWA are encouraged to rely on existing statutory authority, to the extent possible, in developing a State UIC program. Section 402(b)(1)(D) of CWA requires that NPDES States have the authority “to issue permits which control the disposal of pollutants into wells.” In many instances, therefore, NPDES States will have existing statutory authority to regulate well disposal which satisfies the requirements of the UIC program. Note, however, that CWA excludes certain types of well injections from the definition of “pollutant.” If the State's statutory authority contains a similar exclusion it may need to be modified to qualify for UIC program approval.
+
+(e) If a State can demonstrate to EPA's satisfaction that there are no underground injections within the State for one or more classes of injection wells (other than Class IV wells) subject to SDWA and that such injections cannot legally occur in the State until the State has developed an approved program for those classes of injections, the State need not submit a program to regulate those injections and a partial program may be approved. The demonstration of legal prohibition shall be made by either explicitly banning new injections of the class not covered by the State program or providing a certification from the State Attorney General that such new injections cannot legally occur until the State has developed an approved program for that class. The State shall submit a program to regulate both those classes of injections for which a demonstration is not made and class IV wells.
+
+(f) When a State UIC program is fully approved by EPA to regulate all classes of injections, the State assumes primary enforcement authority under section 1422(b)(3) of SDWA. EPA retains primary enforcement responsibility whenever the State program is disapproved in whole or in part. States which have partially approved programs have authority to enforce any violation of the approved portion of their program. EPA retains authority to enforce violations of State underground injection control programs, except that, when a State has a fully approved program, EPA will not take enforcement actions without providing prior notice to the State and otherwise complying with section 1423 of SDWA.
+
+(g) A State can assume primary enforcement responsibility for the UIC program, notwithstanding § 145.21(3), when the State program is unable to regulate activities on Indian lands within the State. EPA will administer the program on Indian lands if the State does not seek this authority.
+
+(h) To establish a Federal UIC Class VI program in States not seeking full UIC primary enforcement responsibility approval, pursuant to the SDWA section 1422(c), States shall, by September 6, 2011, submit to the Administrator a new or revised State UIC program complying with §§ 145.22 or 145.32 of this part. Beginning on September 6, 2011 the requirements of subpart H of part 146 of this chapter will be applicable and enforceable by EPA in each State that has not received approval of a new Class VI program application under section 1422 of the Safe Drinking Water Act or a revision of its UIC program under section 1422 of the Safe Drinking Water Act to incorporate subpart H of part 146. Following September 6, 2011, EPA will publish a list of the States where subpart H of part 146 has become applicable.
+
+[48 FR 14202, Apr. 1, 1983, as amended at 53 FR 37412, Sept. 26, 1988; 75 FR 77290, Dec. 10, 2010]

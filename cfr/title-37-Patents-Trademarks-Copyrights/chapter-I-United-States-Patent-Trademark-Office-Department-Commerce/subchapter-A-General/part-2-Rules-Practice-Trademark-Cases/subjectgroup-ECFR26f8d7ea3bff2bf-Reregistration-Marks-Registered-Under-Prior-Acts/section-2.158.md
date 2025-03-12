@@ -1,0 +1,3 @@
+##### § 2.158 Reregistration of marks registered under Acts of 1881, 1905, and 1920. #####
+
+Trademarks registered under the Act of 1881, the Act of 1905 or the Act of 1920 may be reregistered under the Act of 1946, either on the Principal Register, if eligible, or on the Supplemental Register, but a new complete application for registration must be filed complying with the rules relating thereto, and such application will be subject to examination and other proceedings in the same manner as other applications filed under the Act of 1946. See § 2.26 for use of old drawing.

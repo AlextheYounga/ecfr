@@ -1,0 +1,3 @@
+##### 46.406 Foreign governments. #####
+
+Government contract quality assurance performed for foreign governments or international agencies shall be administered according to the foreign policy and security objectives of the United States. Such support shall be furnished only when consistent with or required by legislation, executive orders, or agency policies concerning mutual international programs.

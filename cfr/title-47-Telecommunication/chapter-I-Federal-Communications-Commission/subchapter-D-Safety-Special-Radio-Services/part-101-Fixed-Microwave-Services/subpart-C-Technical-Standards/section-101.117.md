@@ -1,0 +1,5 @@
+##### § 101.117 Antenna polarization. #####
+
+Except as set forth herein, stations operating in the radio services included in this part are not limited as to the type of polarization of the radiated signal that may be employed. However, in the event interference in excess of permissible levels is caused to the operation of other stations as a result of employing other than linear polarization, the Commission may order a licensee to change its system polarization to mitigate the interference. No change in polarization may be made without prior authorization from the Commission. Unless otherwise allowed, only linear polarization (horizontal and vertical) shall be used. For LMDS systems, unless otherwise authorized, system operators are permitted to use any polarization within its service area, but only vertical and/or horizontal polarization for antennas located within 20 kilometers of the outermost edge of their service area.
+
+[68 FR 4957, Jan. 31, 2003]

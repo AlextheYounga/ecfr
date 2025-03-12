@@ -1,0 +1,5 @@
+##### § 229.69 Side bearings. #####
+
+(a) Friction side bearings with springs designed to carry weight may not have more than 25 percent of the springs in any one nest broken.
+
+(b) Friction side bearings may not be run in contact unless designed to carry weight. Maximum clearance of side bearings may not exceed one-fourth inch on each side or a total of one-half inch on both sides, except where more than two side bearings are used under the same rigid superstructure. The clearance on one pair of side bearings under the same rigid superstructure shall not exceed one-fourth inch on each side or a total of one-half inch on both sides; the other side bearings under the same rigid superstructure may have one-half inch clearance on each side or a total of 1 inch on both sides. These clearances apply where the spread of the side bearings is 50 inches or less; where the spread is greater, the side bearing clearance may only be increased proportionately.

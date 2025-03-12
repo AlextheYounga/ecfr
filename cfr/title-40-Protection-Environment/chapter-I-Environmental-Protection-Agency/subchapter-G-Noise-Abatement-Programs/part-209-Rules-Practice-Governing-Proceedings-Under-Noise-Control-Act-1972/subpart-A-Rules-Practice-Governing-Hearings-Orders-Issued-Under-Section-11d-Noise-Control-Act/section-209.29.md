@@ -1,0 +1,5 @@
+##### § 209.29 Proposed findings, conclusions. #####
+
+(a) Within 20 days of the filing of the record with the hearing clerk as provided in § 209.28, or within such longer time as may be fixed by the administrative law judge, any party may submit for the consideration of the administrative law judge proposed findings of fact, conclusions of law, and a proposed rule or order, together with briefs in support of it. Such proposals shall be in writing, shall be served upon all parties, and shall contain adequate references to the record and authorities relied on.
+
+(b) The record shall show the administrative law judge's ruling on the proposed findings and conclusions except when the administrative law judge's order disposing of the proceedings otherwise informs the parties of the action taken by him or her thereon.

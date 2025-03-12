@@ -1,0 +1,3 @@
+##### § 93.107 Relationship of transportation plan and TIP conformity with the NEPA process. #####
+
+The degree of specificity required in the transportation plan and the specific travel network assumed for air quality modeling do not preclude the consideration of alternatives in the NEPA process or other project development studies. Should the NEPA process result in a project with design concept and scope significantly different from that in the transportation plan or TIP, the project must meet the criteria in §§ 93.109 through 93.119 for projects not from a TIP before NEPA process completion.

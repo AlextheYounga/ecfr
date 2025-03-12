@@ -1,0 +1,5 @@
+##### § 90.16 Public Safety National Plan. #####
+
+The Commission has established a National Plan which specifies special policies and procedures governing the Public Safety Pool (formally Public Safety Radio Services and the Special Emergency Radio Service). The National Plan is contained in the Report and Order in General Docket No. 87-112. The principal spectrum resource for the National Plan is the 806-809 MHz and the 851-854 MHz bands at locations farther then 110 km (68.4 miles) from the U.S./Mexico border and 140 km (87 miles) from the U.S./Canadian border (“border regions”). In the border regions, the principal spectrum for the National Plan may be different. The National plan establishes planning regions covering all parts of the United States, Puerto Rico, and the U.S. Virgin Islands. No assignments will be made in the spectrum designated for the National Plan until a regional plan for the area has been accepted by the Commission.
+
+[69 FR 67837, Nov. 22, 2004]

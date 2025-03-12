@@ -1,0 +1,3 @@
+##### § 486.309 Re-certification from August 1, 2006 through July 31, 2010. #####
+
+An OPO will be considered to be re-certified for the period of August 1, 2006 through July 31, 2010 if an OPO met the standards to be a qualified OPO within a 4-year period ending December 31, 2001 and has an agreement with the Secretary that is scheduled to terminate on July 31, 2006. Agreements based on the August 1, 2006 through July 31, 2010 re-certification cycle will end on January 31, 2011.

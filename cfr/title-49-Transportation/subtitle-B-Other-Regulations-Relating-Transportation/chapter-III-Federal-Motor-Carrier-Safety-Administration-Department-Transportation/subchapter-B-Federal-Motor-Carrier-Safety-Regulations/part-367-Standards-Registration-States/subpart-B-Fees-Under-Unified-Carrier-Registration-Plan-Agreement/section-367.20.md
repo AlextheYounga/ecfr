@@ -1,0 +1,14 @@
+##### § 367.20 Fees under the Unified Carrier Registration Plan and Agreement for each registration year until any subsequent adjustment in the fees becomes effective. #####
+
+Fees Under the Unified Carrier Registration Plan and Agreement for Each Registration Year
+
+|Bracket|Number of commercial motor vehicles owned or operated by exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per company for exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per company for broker or leasing company|
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------|
+|  B1   |                                                                  0-2                                                                   |                                                $39                                                |                     $39                     |
+|  B2   |                                                                  3-5                                                                   |                                                116                                                |                                             |
+|  B3   |                                                                  6-20                                                                  |                                                231                                                |                                             |
+|  B4   |                                                                 21-100                                                                 |                                                806                                                |                                             |
+|  B5   |                                                               101-1,000                                                                |                                               3,840                                               |                                             |
+|  B6   |                                                            1,001 and above                                                             |                                              37,500                                               |                                             |
+
+[72 FR 48590, Aug. 24, 2007, as amended at 73 FR 10158, Feb. 26, 2008]

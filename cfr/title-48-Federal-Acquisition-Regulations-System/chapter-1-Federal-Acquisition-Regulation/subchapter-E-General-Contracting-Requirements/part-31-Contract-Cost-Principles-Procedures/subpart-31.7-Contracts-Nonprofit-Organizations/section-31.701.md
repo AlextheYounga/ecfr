@@ -1,0 +1,3 @@
+##### 31.701 Purpose. #####
+
+This subpart provides the principles for determining the cost applicable to work performed by nonprofit organizations under contracts with the Government. A nonprofit organization, for purpose of identification, is defined as a business entity organized and operated exclusively for charitable, scientific, or educational purposes, of which no part of the net earnings inure to the benefit of any private shareholder or individual, of which no substantial part of the activities is carrying on propaganda or otherwise attempting to influence legislation or participating in any political campaign on behalf of any candidate for public office, and which are exempt from federal income taxation under section 501 of the Internal Revenue Code.

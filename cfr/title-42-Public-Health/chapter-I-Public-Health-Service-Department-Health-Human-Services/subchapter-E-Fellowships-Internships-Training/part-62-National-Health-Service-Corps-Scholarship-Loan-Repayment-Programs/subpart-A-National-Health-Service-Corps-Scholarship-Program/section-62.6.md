@@ -1,0 +1,13 @@
+##### § 62.6 How will individuals be selected to participate in the scholarship program? #####
+
+(a) *General.* In deciding which applications for participation in the Scholarship Program will be approved, the Secretary will place the applications into categories based upon the selection priorities described in paragraph (b) of this section. Except for continuation awards (see paragraph (e) of this section) the Secretary will then evaluate each applicant under paragraph (c) of this section.
+
+(b) *Priorities.* (1) First priority will be given to individuals who have previously received a scholarship under the PH/NHSC Scholarship Training Program, a scholarship under this Scholarship Program, or a scholarship under section 758 of the Act, authorizing scholarships for first-year students of exceptional financial need. (2) Second priority will be given to applicants who are entering their first year of study.
+
+(c) *Selection.* (1) In selecting participants, the Secretary will take into consideration those factors which he or she determines necessary to assure effective participation in the Scholarship Program. These factors may include, but not be limited to (i) work experience, (ii) community background, (iii) career goals, (iv) faculty recommendation, and (v) academic performance.
+
+(2) Special consideration will be given to (i) medical and osteopathic students who indicate their intention to enter family practice, internal medicine, pediatrics, or osteopathic general practice residencies, (ii) dental students who indicate their intention to undertake general practice training following graduation or who plan no postgraduate training, and (iii) those individuals who indicate an intent to pursue other types of clinical practice or specialized training for which the National Health Service Corps has a particular need.
+
+(d) *Duration of Scholarship award.* Subject to the availability of funds for the Scholarship Program, the Secretary will award a participant a scholarship under this part for a period of 1 school year.
+
+(e) *Continuation awards.* Subject to the availability of funds for the Scholarship Program, the Secretary will award a continuation scholarship if (1) the participant requests a continuation, (2) the award will not extend the total period of Scholarship Program support beyond 4 years, and (3) the participant is eligible for continued participation in the Scholarship Program.

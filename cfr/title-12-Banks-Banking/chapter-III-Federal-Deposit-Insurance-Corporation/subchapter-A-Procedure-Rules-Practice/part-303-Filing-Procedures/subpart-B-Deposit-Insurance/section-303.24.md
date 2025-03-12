@@ -1,0 +1,7 @@
+##### § 303.24 Application for deposit insurance for an interim institution. #####
+
+(a) *Application required.* Subject to § 303.62(b)(2), a deposit insurance application is required for a state-chartered interim institution if the related merger transaction is subject to approval by a federal banking agency other than the FDIC. A separate application for deposit insurance for an interim institution is not required in connection with any merger requiring FDIC approval pursuant to subpart D of this part.
+
+(b) *Content of separate application.* A letter application for deposit insurance for an interim institution, accompanied by a copy of the related merger application, shall be filed with the appropriate FDIC office. The letter application shall briefly describe the transaction and contain a statement that deposit insurance is being requested for an interim institution that does not operate independently but exists solely as a vehicle to accomplish a merger transaction which will be reviewed by a federal banking agency other than the FDIC.
+
+(c) *Processing.* An application for deposit insurance for an interim depository institution will be acknowledged in writing by the FDIC. Final action will be taken within 21 days after receipt of a substantially complete application, unless the applicant is notified in writing that additional review is warranted. If the FDIC does not act within the expedited processing period, it does not constitute an automatic or default approval.

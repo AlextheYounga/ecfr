@@ -1,0 +1,3 @@
+##### § 420.110 Applicability; description of the alkaline cleaning subcategory. #####
+
+The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from operations in which steel and steel products are immersed in alkaline cleaning baths to remove mineral and animal fats or oils from the steel, and those rinsing operations which follow such immersion.

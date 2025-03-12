@@ -1,0 +1,7 @@
+##### § 142.311 What procedures allow the Administrator to object to a proposed small system variance or overturn a granted small system variance for a public water system serving 3,300 or fewer persons? #####
+
+(a) At the time a State proposes to grant a small system variance under this subpart, the State must submit to the Administrator the proposed small system variance and all supporting information, including any written public comments received prior to proposal.
+
+(b) The Administrator may review and object to any proposed small system variance within 90 days of receipt of the proposed small system variance. The Administrator must notify the State in writing of each basis for the objection and propose a modification to the small system variance to resolve the concerns of the Administrator. The State must make the recommended modification, respond in writing to each objection, or withdraw the proposal to grant the small system variance.
+
+(c) If the State issues the small system variance without resolving the concerns of the Administrator, the Administrator may overturn the State decision to grant the variance if the Administrator determines that the State decision does not comply with the Act or this rule.

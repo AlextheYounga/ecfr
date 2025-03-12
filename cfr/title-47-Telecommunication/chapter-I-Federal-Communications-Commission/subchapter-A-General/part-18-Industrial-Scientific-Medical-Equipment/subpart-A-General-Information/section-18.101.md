@@ -1,0 +1,3 @@
+##### § 18.101 Basis and purpose. #####
+
+The rules in this part, in accordance with the applicable treaties and agreements to which the United States is a party, are promulgated pursuant to section 302 of the Communications Act of 1934, as amended, vesting the Federal Communications Commission with authority to regulate industrial, scientific, and medical equipment (ISM) that emits electromagnetic energy on frequencies within the radio frequency spectrum in order to prevent harmful interference to authorized radio communication services. This part sets forth the conditions under which the equipment in question may be operated.

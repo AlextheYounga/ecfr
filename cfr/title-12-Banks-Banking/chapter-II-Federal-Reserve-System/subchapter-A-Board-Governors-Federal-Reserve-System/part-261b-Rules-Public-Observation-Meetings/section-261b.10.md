@@ -1,0 +1,3 @@
+##### § 261b.10 Certification of General Counsel. #####
+
+Before every meeting or portion of a meeting closed to public observation under § 261b.7 or 261b.8 of this part, the General Counsel, or in the General Counsel's absence, the Acting General Counsel, shall publicly certify whether or not in his or her opinion the meeting may be closed to public observation and shall state each relevant exemptive provision. A copy of such certification, together with a statement from the presiding officer of the meeting setting forth the time and place of the meeting and the persons present, will be retained for the time prescribed in § 261b.11(d).

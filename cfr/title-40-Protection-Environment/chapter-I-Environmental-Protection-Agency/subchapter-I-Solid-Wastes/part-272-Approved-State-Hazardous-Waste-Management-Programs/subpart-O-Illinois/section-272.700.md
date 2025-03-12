@@ -1,0 +1,11 @@
+##### § 272.700 State authorization. #####
+
+(a) The State of Illinois is authorized to administer and enforce a hazardous waste management program in lieu of the Federal program under subtitle C of the Resource Conservation and Recovery Act of 1976 (RCRA), 42 U.S.C. 6921 *et. seq.* subject to the Hazardous and Solid Waste Amendments of 1984 (HSWA), (Public Law 98-616, November 8, 1984), 42 U.S.C. 6926 (c) and (g). The Federal program for which a State may receive authorization is defined in 40 CFR part 271. The State's base program and revisions to that program, as administered by the Illinois Environmental Protection Agency, were approved by EPA pursuant to 42 U.S.C. 6926(b) and 40 CFR part 271. EPA's approval of Illinois' base program was effective on January 31, 1986. EPA's approval of revisions to Illinois' base program were effective on March 5, 1988, April 30, 1990 and June 3, 1991.
+
+(b) Illinois is authorized to implement only those HSWA requirements addressed in 40 CFR 272.701 and codified herein.
+
+(c) Illinois has primary responsibility for enforcing its hazardous waste program. However, EPA retains the authority to exercise its enforcement authorities under Sections 3007, 3008, 3013, and 7003 of RCRA, 42 U.S.C. 6927, 6928, 6934, and 6973, as well as under other Federal laws and regulations.
+
+(d) Illinois must revise its approved program to adopt new changes to the Federal Subtitle C program in accordance with Section 3006(b) of RCRA and 40 CFR part 271, subpart A. Illinois must seek final authorization for all program revisions pursuant to Section 30069b) of RCRA but, on a temporary basis, may seek interim authorization for revisions required by HSWA pursuant to section 3006(g) of RCRA, 42 U.S.C. 6926(g). If Illinois obtains final authorization for the revised requirements pursuant to Section 3006(g), the newly authorized provisions will be listed in § 272.701 of this subpart. If Illinois obtains interim authorization for the revised requirements pursuant to Section 3006(g), the newly authorized provisions will be listed in § 272.702.
+
+[54 FR 37651, Sept. 12, 1989, as amended at 57 FR 3723, Jan. 31, 1992; 57 FR 45576, Oct. 2, 1992]

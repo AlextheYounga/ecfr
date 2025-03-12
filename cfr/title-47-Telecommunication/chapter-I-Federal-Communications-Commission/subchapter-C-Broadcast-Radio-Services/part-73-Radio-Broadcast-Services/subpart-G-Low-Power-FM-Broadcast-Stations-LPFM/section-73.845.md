@@ -1,0 +1,3 @@
+##### § 73.845 Transmission system operation. #####
+
+Each LPFM licensee is responsible for maintaining and operating its broadcast station in a manner that complies with the technical rules set forth elsewhere in this part and in accordance with the terms of the station authorization. In the event that an LPFM station is operating in a manner that is not in compliance with the technical rules set forth elsewhere in this part or the terms of the station authorization, broadcast operation must be terminated within three hours.

@@ -1,0 +1,3 @@
+##### § 761.320 Applicability. #####
+
+This subpart describes self-implementing comparison testing requirements for chemical extraction and chemical analysis methods used as an alternative to the methods required in § 761.272 or § 761.292. Any person conducting comparison testing under this subpart must comply with the requirements of § 761.80(i), including notification. Use alternative methods only after successful completion of these comparison testing requirements and after documentation of the results of the testing.

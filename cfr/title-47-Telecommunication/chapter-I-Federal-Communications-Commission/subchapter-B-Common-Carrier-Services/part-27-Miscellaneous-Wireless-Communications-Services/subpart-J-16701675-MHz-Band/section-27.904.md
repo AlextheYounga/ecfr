@@ -1,0 +1,3 @@
+##### § 27.904 Geographic partitioning and spectrum disaggregation. #####
+
+An entity that acquires a portion of a 1670-1675 MHz band licensee's geographic area or spectrum subject to a geographic partitioning or spectrum disaggregation agreement under § 27.15 must function as a 1670-1675 MHz licensee and is subject to the obligations and restrictions on the 1670-1675 MHz license as set forth in this subpart.

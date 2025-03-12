@@ -1,0 +1,3 @@
+##### § 137.310 Are Self-Governance Tribes required to grant a limited waiver of their sovereign immunity to assume Federal environmental responsibilities under section 509 of the Act [25 U.S.C. 458aaa-8]? #####
+
+Yes, but only as provided in this section. Unless Self-Governance Tribes consent to the jurisdiction of a court, Self-Governance Tribes are immune from civil lawsuits. Self-Governance Tribes electing to assume Federal environmental responsibilities under section 509 of the Act [25 U.S.C. 458aaa-8] must provide a limited waiver of sovereign immunity solely for the purpose of enforcing a Tribal certifying officer's environmental responsibilities, as set forth in this subpart. Self-Governance Tribes are not required to waive any other immunity.

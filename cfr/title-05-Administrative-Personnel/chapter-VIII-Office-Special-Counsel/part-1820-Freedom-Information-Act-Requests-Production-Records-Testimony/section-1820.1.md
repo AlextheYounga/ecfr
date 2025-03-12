@@ -1,0 +1,5 @@
+##### § 1820.1 General provisions. #####
+
+This part contains rules and procedures followed by the U.S. Office of Special Counsel (OSC) in processing requests for records under the Freedom of Information Act (FOIA), as amended, at 5 U.S.C. 552. These rules and procedures should be read together with the FOIA, which provides additional information about access to agency records. Further information about the FOIA and access to OSC records is available on the FOIA page of OSC's Web site (*https://www.osc.gov*). Information routinely provided to the public as part of a regular OSC activity - for example, forms, press releases issued by the public affairs officer, records published on the agency's Web site, or public lists maintained at OSC headquarter offices pursuant to 5 U.S.C. 1219 - may be requested and provided to the public without following this part. This part also addresses responses to demands by a court or other authority to an employee for production of official records or testimony in legal proceedings.
+
+[81 FR 73016, Oct. 24, 2016]

@@ -1,0 +1,5 @@
+##### § 22.37 Supplemental rules governing administrative proceedings under the Solid Waste Disposal Act. #####
+
+(a) *Scope.* This section shall apply, in conjunction with §§ 22.1 through 22.32, in administrative proceedings under sections 3005(d) and (e), 3008, 9003 and 9006 of the Solid Waste Disposal Act (42 U.S.C. 6925(d) and (e), 6928, 6991b and 6991e) (“SWDA”). Where inconsistencies exist between this section and §§ 22.1 through 22.32, this section shall apply.
+
+(b) *Corrective action and compliance orders.* A complaint may contain a compliance order issued under section 3008(a) or section 9006(a), or a corrective action order issued under section 3008(h) or section 9003(h)(4) of the SWDA. Any such order shall automatically become a final order unless, no later than 30 days after the order is served, the respondent requests a hearing pursuant to § 22.15.

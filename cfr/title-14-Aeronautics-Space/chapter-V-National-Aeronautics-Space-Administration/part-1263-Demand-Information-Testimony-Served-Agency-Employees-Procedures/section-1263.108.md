@@ -1,0 +1,3 @@
+##### § 1263.108 Procedure in the event of an adverse ruling. #####
+
+If the court or other authority which caused the demand to be issued declines to stay the effect of the demand pending a final decision by the General Counsel or designate; or if the General Counsel or designate directs that the employee may not comply with the demand, and a court or other authority rules that the demand must be complied with irrespective of that decision, the employee upon whom the demand has been made, or an agency or other governmental attorney, shall respectfully decline to comply with the demand and shall cite, “United States ex rel. Touhy v. Ragen, et al., 340 U.S. 462 (1951).”

@@ -1,0 +1,3 @@
+##### § 1044.05 What is the effect of a disclosure qualifying as a “protected disclosure”? #####
+
+If a DOE or DOE contractor employee follows the procedures of this part when making a disclosure of classified or unclassified controlled nuclear information, then the employer (DOE or DOE contractor as applicable) may not discharge, demote, or otherwise discriminate against the employee as a reprisal for making the disclosure.

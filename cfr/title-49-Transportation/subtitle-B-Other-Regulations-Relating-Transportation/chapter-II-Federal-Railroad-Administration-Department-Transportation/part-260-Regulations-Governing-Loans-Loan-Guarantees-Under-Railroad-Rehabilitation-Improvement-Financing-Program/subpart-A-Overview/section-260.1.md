@@ -1,0 +1,3 @@
+##### § 260.1 Program authority. #####
+
+Section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976, as amended, 45 U.S.C. 821 *et seq.,* authorizes the Secretary of Transportation to provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least one railroad. The Secretary's authority has been delegated to the Administrator of the Federal Railroad Administration, an agency of the Department of Transportation.

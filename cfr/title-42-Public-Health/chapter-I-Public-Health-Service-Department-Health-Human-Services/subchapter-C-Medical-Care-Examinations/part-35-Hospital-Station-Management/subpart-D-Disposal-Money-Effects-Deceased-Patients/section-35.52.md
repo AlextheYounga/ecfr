@@ -1,0 +1,3 @@
+##### § 35.52 Delivery of possession only; title unaffected. #####
+
+Except for delivery of effects to purchasers at sales held in accordance with § 35.49, delivery or deposit under this subpart of the money or effects, or the proceeds of a sale of the effects, of a deceased patient constitutes only a transfer of possession and is not intended to affect in any manner the title to such money, effects, or proceeds.

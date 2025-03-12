@@ -1,0 +1,5 @@
+##### § 64.1603 Customer notification. #####
+
+Any common carrier participating in the offering of services providing calling party number, ANI, or charge number on interstate calls must notify its subscribers, individually or in conjunction with other carriers, that their telephone numbers may be identified to a called party. Such notification must be made not later than December 1, 1995, and at such times thereafter as to ensure notice to subscribers. The notification must be effective in informing subscribers how to maintain privacy by dialing \*67 (or 1167 for rotary or pulse-dialing phones) on interstate calls. The notice shall inform subscribers whether dialing \*82 (or 1182 for rotary or pulse-dialing phones) on interstate calls is necessary to present calling party number to called parties. For ANI or charge number services for which such privacy is not provided, the notification shall inform subscribers of the restrictions on the reuse or sale of subscriber information.
+
+[60 FR 29491, June 5, 1995; 60 FR 54449, Oct. 24, 1995]

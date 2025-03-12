@@ -1,0 +1,3 @@
+##### § 62.21 What is the scope and purpose of the National Health Service Corps Loan Repayment Program? #####
+
+The regulations of this subpart apply to the award of health professions educational loan payments under the National Health Service Corps Loan Repayment Program authorized by section 338B of the Public Health Service Act (42 U.S.C. 2541-1). The purpose of the Program is to assure an adequate supply of trained health professionals for the National Health Service Corps. These professionals will be assigned by the Secretary to provide necessary health services to persons living in designated health manpower shortage areas.

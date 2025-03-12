@@ -1,0 +1,15 @@
+##### § 63.1501 Dates. #####
+
+(a) An affected source constructed before February 11, 1999, must comply with the requirements of this subpart by March 24, 2003, except as provided in paragraphs (b) and (c).
+
+(b) The owner or operator of an affected source constructed before February 14, 2012, must comply with the following requirements of this subpart by March 16, 2016: § 63.1505(k) introductory text, (k)(1) through (k)(5), other than the emission standards for HF in (k)(2); § 63.1506 (a)(1), (c)(1), (g)(5), (k)(3), (m)(4), (m)(7), (n)(1); § 63.1510 (b)(5), (b)(9), (d)(2), (d)(3),(f)(1)(ii), (i)(4), (j)(4), (n)(1), (o)(1), (o)(1)(ii), (s)(2)(iv), (t) introductory text, (t)(2)(i), (t)(2)(ii), (t)(4), (t)(5); § 63.1511(a) introductory text, (b) introductory text, (b)(1), (b)(3), (b)(6), (c)(9), (g)(5); § 63.1512(e)(1), (e)(2), (e)(3), (h)(2), (j), (j)(1)(i), (j)(2)(i), (o) introductory text, (o)(1), (o)(3), (p)(2); § 63.1513 (b)(1), (e)(1), (e)(2), (e)(3), (f); § 63.1516 (b) introductory text, (b)(2)(vii), (b)(3)(i); § 63.1517(b)(1)(iii), (b)(4)(ii), (b)(14), (b)(19).
+
+(c) The owner or operator of an affected source constructed before February 14, 2012, must comply with the following requirements of this subpart by September 18, 2017: § 63.1505(i)(4) and (k)(2) emission standards for HF; § 63.1512(e)(4) through (7) requirements for testing existing uncontrolled group 1 furnaces (that is, group 1 furnaces without add-on air pollution control devices); and § 63.1514 requirements for change of furnace classification.
+
+(d) An affected source that commenced construction or reconstruction after February 11, 1999 but before February 14, 2012 must comply with the requirements of this subpart by March 24, 2000 or upon startup, whichever is later, except as provided in paragraphs (b), (c), (e), and (f) of this section.
+
+(e) The owner or operator of an affected source that commences construction or reconstruction after February 14, 2012, must comply with all the requirements of this subpart by September 18, 2015 or upon startup, whichever is later.
+
+(f) The owner or operator of any affected source which is constructed or reconstructed after February 11, 1999, but before February 14, 2012 at any existing aluminum die casting facility, aluminum foundry, or aluminum extrusion facility which otherwise meets the applicability criteria set forth in § 63.1500 must comply with the requirements of this subpart by March 24, 2003 or upon startup, whichever is later, except as provided in paragraphs (b) and (c) of this section. The owner or operator of any affected source which is constructed or reconstructed after February 14, 2012, at any existing aluminum die casting facility, aluminum foundry, or aluminum extrusion facility which otherwise meets the applicability criteria set forth in § 63.1500 must comply with the requirements by September 18, 2015 or upon startup, whichever is later.
+
+[80 FR 56738, Sept. 18, 2015]

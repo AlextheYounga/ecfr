@@ -1,0 +1,3 @@
+##### § 27.804 Field strength limits at WMTS facility. #####
+
+For any operation in the 1392-1395 MHz band, the predicted or measured field strength—into the WMTS band at 1395-1400 MHz—shall not exceed 150 uV/m at the location of any registered WMTS healthcare facility. When performing measurements to determine compliance with this provision, measurement instrumentation employing an average detector and a resolution bandwidth of 1 MHz may be used, provided it accurately represents the true interference potential of the equipment.

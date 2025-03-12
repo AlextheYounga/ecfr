@@ -1,0 +1,5 @@
+##### § 96.57 Closing of general accounts. #####
+
+(a) The NOX authorized account representative of a general account may instruct the Administrator to close the account by submitting a statement requesting deletion of the account from the NOX Allowance Tracking System and by correctly submitting for recordation under § 96.60 an allowance transfer of all NOX allowances in the account to one or more other NOX Allowance Tracking System accounts.
+
+(b) If a general account shows no activity for a period of a year or more and does not contain any NOX allowances, the Administrator may notify the NOX authorized account representative for the account that the account will be closed and deleted from the NOX Allowance Tracking System following 20 business days after the notice is sent. The account will be closed after the 20-day period unless before the end of the 20-day period the Administrator receives a correctly submitted transfer of NOX allowances into the account under § 96.60 or a statement submitted by the NOX authorized account representative demonstrating to the satisfaction of the Administrator good cause as to why the account should not be closed.

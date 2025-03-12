@@ -1,0 +1,3 @@
+##### § 1808.622 Compliance with government requirements. #####
+
+In carrying out its responsibilities pursuant to any agreements associated with the CDFI Bond Guarantee Program, all Qualified Issuers, Eligible CDFIs, Program Administrators, Servicers, and the Master Servicer/Trustee shall comply with all applicable Federal, State, and local laws, regulations, and ordinances, OMB Circulars, and Executive Orders, including restrictions on lending to entities with delinquent Federal debt.

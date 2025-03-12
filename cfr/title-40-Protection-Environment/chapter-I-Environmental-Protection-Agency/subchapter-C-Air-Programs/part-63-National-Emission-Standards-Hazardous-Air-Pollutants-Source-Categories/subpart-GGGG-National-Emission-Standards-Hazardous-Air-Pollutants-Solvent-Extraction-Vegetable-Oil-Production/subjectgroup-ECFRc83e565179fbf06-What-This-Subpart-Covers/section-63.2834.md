@@ -1,0 +1,12 @@
+##### § 63.2834 When do I have to comply with the standards in this subpart? #####
+
+You must comply with this subpart in accordance with one of the schedules in Table 1 of this section, as follows:
+
+|If your affected source is categorized as . . .|                                     And if . . .                                     |Then your compliance date is . . .|Except for certain  <br/>requirements, as specified in §§ 63.2840, 63.2850, 63.2851, 63.2852, 63.2853, 63.2861, 63.2862, and 63.2870, then your compliance date is . . .|
+|-----------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|            (a) an existing source             |                                                                                      |          April 12, 2004          |                                                                          September 15, 2020.                                                                           |
+|               (b) a new source                |                you startup your affected source before April 12, 2001                |          April 12, 2004          |                                                                          September 15, 2020.                                                                           |
+|               (c) a new source                |you startup your affected source on or after April 12, 2001, but before March 18, 2020|        your startup date         |                                                                          September 15, 2020.                                                                           |
+|               (d) a new source                |             you startup your affected source on or after March 18, 2020              |        your startup date         |                                                                           your startup date.                                                                           |
+
+[66 FR 19011, Apr. 12, 2001, as amended at 85 FR 15626, Mar. 18, 2020]

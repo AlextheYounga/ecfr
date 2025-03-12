@@ -1,0 +1,3 @@
+##### § 137.204 How will this voluntary national uniform data set be developed? #####
+
+IHS will work with representatives of Self-Governance Tribes, in coordination with the Tribal Self Governance Advisory Committee (TSGAC), to develop a mutually-defined annual voluntary uniform subset of data that is consistent with Congressional intent, minimizes reporting burdens, and responds to the needs of the Self-Governance Tribe.

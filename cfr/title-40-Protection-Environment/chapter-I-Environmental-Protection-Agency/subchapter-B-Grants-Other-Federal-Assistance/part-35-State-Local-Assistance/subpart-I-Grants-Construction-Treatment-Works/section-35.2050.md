@@ -1,0 +1,3 @@
+##### § 35.2050 Effect of approval or certification of documents. #####
+
+Review or approval of facilities plans, design drawings and specifications or other documents by or for EPA is for administrative purposes only and does not relieve the grantee of its responsibility to properly plan, design, build and effectively operate and maintain the treatment works described in the grant agreement as required under law, regulations, permits, and good management practices. EPA is not responsible for increased costs resulting from defects in the plans, design drawings and specifications or other subagreement documents.

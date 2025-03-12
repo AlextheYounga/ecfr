@@ -1,0 +1,5 @@
+##### § 228.8 Limitations on times and rates of disposal. #####
+
+Limitations as to time for and rates of dumping may be stated as part of the promulgation of site designation. The times and the quantities of permitted material disposal will be regulated by the EPA management authority so that the limits for the site as specified in the site designation are not exceeded. This will be accomplished by the denial of permits for the disposal of some materials, by the imposition of appropriate conditions on other permits and, if necessary, the designation of new disposal sites under the procedures of § 228.4. In no case may the total volume of material disposed of at any site under special permits cause the concentration of the total materials or any constituent of any of the materials being disposed of at the site to exceed limits specified in the site designation.
+
+[73 FR 74987, Dec. 10, 2008]

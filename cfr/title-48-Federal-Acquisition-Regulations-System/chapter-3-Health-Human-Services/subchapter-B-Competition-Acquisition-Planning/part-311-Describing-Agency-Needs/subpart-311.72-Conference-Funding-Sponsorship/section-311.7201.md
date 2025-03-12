@@ -1,0 +1,3 @@
+##### 311.7201 Funding and sponsorship. #####
+
+Funding a conference through a HHS contract does not automatically imply HHS sponsorship, unless the conference is funded entirely by the agency. Also, HHS staff attendance or participation at a conference does not imply HHS conference sponsorship. Accordingly, for non-conference contracts funded entirely by HHS prior to a contractor claiming HHS sponsorship, the contractor must provide the contracting officer a written request for permission to designate HHS the conference sponsor. The OPDIV or STAFFDIV (operating division or staff division) head, or designee, shall approve such requests. The determination on what constitutes a “conference contract” or a “non-conference contract” shall be made by the contracting officer.

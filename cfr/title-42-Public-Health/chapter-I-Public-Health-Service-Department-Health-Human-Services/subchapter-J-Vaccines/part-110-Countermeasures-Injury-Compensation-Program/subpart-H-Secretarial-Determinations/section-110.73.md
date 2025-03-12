@@ -1,0 +1,3 @@
+##### § 110.73 Approval of benefits. #####
+
+When the Secretary has determined that benefits will be paid to a requester and has calculated the type and amount of such benefits, she will so notify the requester (or his or her representative) in writing. The Secretary will make payments in accordance with § 110.83. Once all benefits have been paid, the Request Package can no longer be amended (except for survivor benefits). The payment determination will constitute final agency action with regard to the particular countermeasure injury that is the subject of the Request for Benefits and payment (*i.e.,* the Request for Benefits is closed with regard to the injury that is the basis of the payment of benefits).

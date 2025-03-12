@@ -1,0 +1,3 @@
+##### § 293.506 Ownership of the Employee Medical Folder. #####
+
+The EMF of each employee in a position subject to civil service rules and regulations is part of the records of the Office. When the EMF also contains occupational medical records created during employment in a position not subject to the civil service (e.g., with the Postal Service), the EMF is then part of the records of both the Office and the employing agency.

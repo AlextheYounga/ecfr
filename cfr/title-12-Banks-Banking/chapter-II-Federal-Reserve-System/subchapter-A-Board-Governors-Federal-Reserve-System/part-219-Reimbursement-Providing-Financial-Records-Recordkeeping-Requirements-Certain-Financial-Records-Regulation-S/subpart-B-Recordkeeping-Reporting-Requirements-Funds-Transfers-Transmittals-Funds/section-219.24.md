@@ -1,0 +1,3 @@
+##### § 219.24 Retention period. #####
+
+All records that are required to be retained by this subpart shall be retained for a period of five years. All these records shall be filed or stored in such a way as to be accessible within a reasonable period of time, taking into consideration the nature of the record and the amount of time that has expired since the record was made. Any records required to be retained by this subpart shall be made available to the Board upon request.

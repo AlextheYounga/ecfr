@@ -1,0 +1,3 @@
+##### 2928.204 Alternatives in lieu of corporate or individual sureties. #####
+
+Upon receipt of any of the types of securities listed in FAR 28.20l or FAR 28.203, the contracting officer must verify the validity of the security and coordinate the retention of the security with the Chief Financial Officer. Contracting officers may obtain access to Department of Treasury Circular 570 through the Internet at *http://www.fms.treas.gov/c570/index.html.*

@@ -1,0 +1,21 @@
+##### § 64.1202 Public safety answering point do-not-call registry. #####
+
+(a) As used in this section, the following terms are defined as:
+
+(1) *Operators of automatic dialing or robocall equipment.* Any person or entity who uses an automatic telephone dialing system, as defined in section 227(a)(1) of the Communications Act of 1934, as amended, to make telephone calls with such equipment.
+
+(2) *Public Safety Answering Point (PSAP).* A facility that has been designated to receive emergency calls and route them to emergency service personnel pursuant to section 222(h)(4) of the Communications Act of 1934, as amended. As used in this section, this term includes both primary and secondary PSAPs.
+
+(3) *Emergency purpose.* A call made necessary in any situation affecting the health and safety of any person.
+
+(b) *PSAP numbers and registration.* Each PSAP may designate a representative who shall be required to file a certification with the administrator of the PSAP registry, under penalty of law, that they are authorized and eligible to place numbers onto the PSAP Do-Not-Call registry on behalf of that PSAP. The designated PSAP representative shall provide contact information, including the PSAP represented, contact name, title, address, telephone number, and email address. Verified PSAPs shall be permitted to upload to the registry any PSAP telephone numbers associated with the provision of emergency services or communications with other public safety agencies. On an annual basis designated PSAP representatives shall access the registry, review their numbers placed on the registry to ensure that they remain eligible for inclusion on the registry, and remove ineligible numbers.
+
+(c) *Prohibiting the use of autodialers to contact registered PSAP numbers.* An operator of automatic dialing or robocall equipment is prohibited from using such equipment to contact any telephone number registered on the PSAP Do-Not-Call registry other than for an emergency purpose. This prohibition encompasses both voice and text calls.
+
+(d) *Granting and tracking access to the PSAP registry.* An operator of automatic dialing or robocall equipment may not obtain access or use the PSAP Do-Not-Call registry until it provides to the designated registry administrator contact information that includes the operator's name and all alternative names under which the registrant operates, a business address, a contact person, the contact person's telephone number, the operator's email address, and all outbound telephone numbers used to place autodialed calls, including both actual originating numbers and numbers that are displayed on caller identification services, and thereafter obtains a unique identification number or password from the designated registry administrator. All such contact information provided to the designated registry administrator must be updated within 30 days of any change to such information. In addition, an operator of automatic dialing equipment must certify when it accesses the registry, under penalty of law, that it is accessing the registry solely to prevent autodialed calls to numbers on the registry.
+
+(e) *Accessing the registry.* An operator of automatic dialing equipment or robocall equipment shall, to prevent such calls to any telephone number on the registry, access and employ a version of the PSAP Do-Not-Call registry obtained from the registry administrator no more than 31 days prior to the date any call is made, and shall maintain records documenting this process. It shall not be a violation of paragraph (c) of this section to contact a number added to the registry subsequent to the last required access to the registry by operators of automatic dialing or robocall equipment.
+
+(f) *Restrictions on disclosing or dissemination of the PSAP registry.* No person or entity, including an operator of automatic dialing equipment or robocall equipment, may sell, rent, lease, purchase, share, or use the PSAP Do-Not-Call registry, or any part thereof, for any purpose except to comply with this section and any such state or Federal law enacted to prevent autodialed calls to telephone numbers in the PSAP registry.
+
+[77 FR 71137, Nov. 29, 2012]

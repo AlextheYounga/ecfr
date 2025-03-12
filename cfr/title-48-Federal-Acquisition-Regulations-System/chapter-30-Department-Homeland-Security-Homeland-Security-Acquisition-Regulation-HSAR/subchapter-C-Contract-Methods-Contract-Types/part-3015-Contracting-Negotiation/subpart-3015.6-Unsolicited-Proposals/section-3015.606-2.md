@@ -1,0 +1,5 @@
+##### 3015.606-2 Evaluation. #####
+
+(a) Comprehensive evaluations should be completed within sixty calendar days after making the initial review determination. If additional time is needed, then the agency contact point shall advise the offeror accordingly and provide a new evaluation completion date. The evaluating office shall neither reproduce nor disseminate the proposal to other offices without the consent of the contracting office from which the proposal was received for evaluation. If the evaluating office requires additional information from the offeror, the evaluator shall convey this request to the responsible contracting office. The evaluator shall not directly contact the proposal originator.
+
+(b) If the evaluators recommend accepting the proposal, the responsible contracting officer shall ensure compliance with all of the requirements of (FAR) 48 CFR 15.607.

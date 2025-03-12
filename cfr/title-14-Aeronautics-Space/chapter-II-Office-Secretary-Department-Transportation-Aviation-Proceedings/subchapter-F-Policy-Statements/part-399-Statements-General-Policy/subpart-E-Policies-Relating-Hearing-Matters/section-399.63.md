@@ -1,0 +1,13 @@
+##### § 399.63 Role of staff in route proceedings. #####
+
+(a) *General.* This policy statement establishes the standards applicable to staff participation in oral hearing cases involving award of route authority.
+
+(b) *Standards.* The staff's role during such hearings, primarily because it acts in the broad public interest, and not for a particular private or local interest, is to assure that essential evidence is introduced to resolve the public interest issues; that the evidence submitted by the parties is subject to adversary testing, and that decisional options are developed with the public interest in mind. In route cases designated by the Board that offer the opportunity for developing new policies to adapt to the administration of the Federal Aviation Act or that raise unusual evidentiary issues, a prehearing presentation by staff of decisional options will contribute to a better trial record, be consistent with traditional notions of fundamental fairness, better serve the Board's decisionmaking needs and ultimately serve the public interest. In any route case where the Board has not required the staff to participate by making a prehearing presentation, the staff shall present a prehearing presentation of decisional options if the administrative law judge finds that there exists unusual policy or evidentiary issues which clearly require such a presentation. We believe it is not desirable for the staff to advocate the adoption of a single decisional option at the outset of a case. Accordingly,
+
+(1) In route cases designated by the Board that offer the opportunity for developing new policies, the staff shall make a prehearing presentation of the decisional options available, and describe the kinds of evidence needed or available to develop each option. The staff need not and should not be required to develop evidence on each option. In every case, after the close of the hearing, however, the staff shall advocate a position based upon one or more of the decisional options identified in its prehearing presentation or developed at trial.
+
+(2) In any route case in which the administrative law judge finds that there exists unusual policy or evidentiary issues clearly requiring a prehearing presentation, the staff shall submit a prehearing statement of the decisional options available.
+
+(3) To the extent possible, the Board, in its instituting orders, will identify or designate the cases which involve the development of new policies or unusual evidentiary issues that will require the type of staff participation described in § 399.63(b)(1).
+
+[PS-76, 43 FR 19354, May 5, 1978]

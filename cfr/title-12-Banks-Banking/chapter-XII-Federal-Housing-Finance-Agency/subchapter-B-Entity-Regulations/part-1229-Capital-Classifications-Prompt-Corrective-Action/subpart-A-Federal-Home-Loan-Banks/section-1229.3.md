@@ -1,0 +1,9 @@
+##### § 1229.3 Criteria for a Bank's capital classification. #####
+
+(a) *Adequately capitalized.* Except where the Director has exercised authority to reclassify a Bank, a Bank shall be considered adequately capitalized if, at the time of the determination under § 1229.2(a) of this subpart, the Bank has sufficient permanent and total capital, as applicable, to meet or exceed its risk-based and minimum capital requirements.
+
+(b) *Undercapitalized.* Except where the Director has exercised authority to reclassify a Bank, a Bank shall be considered undercapitalized if, at the time of the determination under § 1229.2(a) of this subpart, the Bank does not have sufficient permanent or total capital, as applicable, to meet any one or more of its risk-based or minimum capital requirements but such deficiency is not of a magnitude to classify the Bank as significantly undercapitalized or critically undercapitalized.
+
+(c) *Significantly undercapitalized.* Except where the Director has exercised authority to reclassify a Bank, a Bank shall be considered significantly undercapitalized if, at the time of the determination under § 1229.2(a) of this subpart, the amount of permanent or total capital held by the Bank is less than 75 percent of what is required to meet any one of its risk-based or minimum capital requirements but the magnitude of the Bank's deficiency in total capital is not sufficient to classify it as critically undercapitalized.
+
+(d) *Critically undercapitalized.* Except where the Director has exercised authority to reclassify a Bank, a Bank shall be considered critically undercapitalized if, at the time of the determination under § 1229.2(a) of this subpart, the total capital held by the Bank is less than or equal to the critical capital level for a Bank as defined under § 1229.1 of this subpart.

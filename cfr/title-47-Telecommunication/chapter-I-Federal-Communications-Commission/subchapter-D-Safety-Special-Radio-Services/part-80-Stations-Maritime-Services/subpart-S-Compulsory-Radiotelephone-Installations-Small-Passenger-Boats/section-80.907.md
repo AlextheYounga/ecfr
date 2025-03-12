@@ -1,0 +1,3 @@
+##### § 80.907 Principal operating position. #####
+
+The principal operating position of the radiotelephone installation on vessels over 100 gross tons must be in the room from which the vessel is normally steered while at sea. If the station can be operated from any location other than the principal operating position, a positive means must be provided at the principal operating position to take full control of the station.

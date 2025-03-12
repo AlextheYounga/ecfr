@@ -1,0 +1,3 @@
+##### § 52.143 Staff approval of design. #####
+
+Upon completion of its review of a submittal under this subpart and receipt of a report by the Advisory Committee on Reactor Safeguards under § 52.141 of this subpart, the NRC staff shall publish a determination in the Federal Register as to whether or not the design is acceptable, subject to appropriate terms and conditions, and make an analysis of the design in the form of a report available at the NRC Web site, *http://www.nrc.gov.*

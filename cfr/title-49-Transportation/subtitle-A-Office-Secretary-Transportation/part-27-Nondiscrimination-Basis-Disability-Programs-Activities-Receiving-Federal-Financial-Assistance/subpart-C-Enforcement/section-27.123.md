@@ -1,0 +1,13 @@
+##### § 27.123 Conduct of investigations. #####
+
+(a) *Periodic compliance reviews.* The responsible Departmental official or his/her designee, from time to time, reviews the practices of recipients to determine whether they are complying with this part.
+
+(b) *Complaints.* Any person who believes himself/herself or any specific class of individuals to be harmed by failure to comply with this part may, personally or through a representative, file a written complaint with the responsible Departmental official. A Complaint must be filed not later than 180 days from the date of the alleged discrimination, unless the time for filing is extended by the responsible Departmental official or his/her designee.
+
+(c) *Investigations.* The responsible Departmental official or his/her designee makes a prompt investigation whenever a compliance review, report, complaint, or any other information indicates a possible failure to comply with this part. The investigation includes, where appropriate, a review of the pertinent practices and policies of the recipient, and the circumstances under which the possible noncompliance with this part occurred.
+
+(d) *Resolution of matters.* (1) If, after an investigation pursuant to paragraph (c) of this section, the responsible Departmental official finds reasonable cause to believe that there is a failure to comply with this part, the responsible Departmental official will inform the recipient. The matter is resolved by informal means whenever possible. If the responsible Departmental official determines that the matter cannot be resolved by informal means, action is taken as provided in § 27.125.
+
+(2) If an investigation does not warrant action pursuant to paragraph (d)(1) of this section, the responsible Departmental official or his/her designee so informs the recipient and the complainant, if any, in writing.
+
+(e) *Intimidating and retaliatory acts prohibited.* No employee or contractor of a recipient shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by section 504 of the Act or this part, or because the individual has made a complaint, testified, assisted, or participated in any manner in an investigation, hearing, or proceeding, under this part. The identity of complainants is kept confidential at their election during the conduct of any investigation, hearing or proceeding under this part. However, when such confidentiality is likely to hinder the investigation, the complainant will be advised for the purpose of waiving the privilege.

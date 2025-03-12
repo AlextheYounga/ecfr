@@ -1,0 +1,5 @@
+##### § 341.1 Scope. #####
+
+This part is issued by the Federal Deposit Insurance Corporation (the FDIC) under sections 2, 3(a)(34)(B), 17, 17A and 23(a) of the Securities Exchange Act of 1934 (the Act), as amended (15 U.S.C. 78b, 78c(a)(34)(B), 78q, 78q-1 and 78w(a)) and applies to all insured State nonmember banks, insured State savings associations, or subsidiaries of such institutions, that act as transfer agents for securities registered under section 12 of the Act (15 U.S.C. 78*l*), or for securities exempt from registration under subsections (g)(2)(B) or (g)(2)(G) of section 12 (15 U.S.C. 78*1*(g)(2)(B) and (G)) (securities of investment companies, including mutual funds, and certain insurance companies). Such securities are qualifying securities for purposes of this part.
+
+[81 FR 27297, May 6, 2016]

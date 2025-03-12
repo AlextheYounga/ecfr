@@ -1,0 +1,5 @@
+##### § 93.109 Coordination with other agencies. #####
+
+(a) When more than one agency of the Federal government has jurisdiction of the subject misconduct allegation, HHS will cooperate in designating a lead agency to coordinate the response of the agencies to the allegation. Where HHS is not the lead agency, it may, in consultation with the lead agency, take appropriate action to protect the health and safety of the public, promote the integrity of the PHS supported research and research process and conserve public funds.
+
+(b) In cases involving more than one agency, HHS may refer to evidence or reports developed by that agency if HHS determines that the evidence or reports will assist in resolving HHS issues. In appropriate cases, HHS will seek to resolve allegations jointly with the other agency or agencies.

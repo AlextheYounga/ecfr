@@ -1,0 +1,27 @@
+##### § 1274.203 Solicitations/cooperative agreement notices. #####
+
+(a) Agreement officers should use every effort to issue draft pre-award cooperative agreement information. Any draft documentation released for comment shall contain all factors/subfactors. Draft documents should be as close to the final product as possible. Draft Cooperative Agreement Notices (CAN's) or Cooperative Agreements (CA) should include terms and conditions, special requirements and expected cash and non-cash (in-kind) contributions.
+
+(1) Publication of draft documentation may serve to prevent unnecessary expenditure of resources and unproductive time that may be spent by NASA and potential recipients. Release of draft documentation also serves to assist NASA in refining program objectives and requirements, and maximizes the quality of research proposals submitted for formal evaluation and source selection.
+
+(2) During the information gathering process, comments may be invited from potential recipients on all aspects of the draft documentation, including the requirements, schedules, proposal instructions and evaluation approaches. Potential recipients should be specifically requested to identify unnecessary or inefficient requirements. Comments should also be requested on any perceived safety, occupational health, security (including information technology security), environmental, export control, and/or other programmatic risk issues associated with performance of the CA.
+
+(3) Agreement officers should include in the award schedule adequate time for the process to include industry review and comments, and NASA's evaluation and disposition of comments received.
+
+(4) When providing draft documents for comment, the draft CAN shall advise interested parties that any issued draft documentation shall not be considered as a solicitation for award, and that NASA is not requesting proposals in response to the draft publication.
+
+(5) Whenever feasible, agreement officers should include a summary of the disposition of significant comments when issuing the final CAN and/or CA.
+
+(b) The evaluation section of the CAN shall notify potential recipients of the relative importance of factors, and any subfactors or other criteria that will be evaluated during the selection process.
+
+(c) For its research projects, NASA may publish the expected project goals and objectives in terms of “What” the commercial recipient is expected to accomplish. The commercial recipient may be required to submit a proposed statement of work with its proposal stating “How” the recipient will accomplish the task(s). Depending on its importance to the success of the project, for some projects the recipient's statement of work may be included as an evaluation criterion for award. In these instances, the requirement for submission of the recipient's statement of work will be clearly identified as a subfactor or criterion that will be evaluated, and its relative weight or ranking in relation to other evaluation criteria shall be stated. In all cases, where the recipient submits a statement of work in response to NASA project objectives, NASA shall have final approval of the acceptability of the statement of work.
+
+(d) Where performance-based milestone payments are planned, the potential recipient should be encouraged to suggest in its statement of work (which incorporates the project goals and objectives), or elsewhere in its proposal, terms and/or performance events upon which milestone payments can be negotiated.
+
+(e) The CAN should provide a description and value for any quantifiable non-cash or in-kind Government resources (personnel, equipment, facilities, etc.), in addition to any cash funds that will be offered by the Government as part of its contributions to the cooperative agreement. As part of its proposal package, the recipient may also identify additional non-cash or in-kind resources it wishes NASA to contribute. The recipient shall verify the suitability of the requested resource(s) to the work to be performed under the cooperative agreement. Any additional verifiable and suitable non-cash or in-kind resources requested, shall be added to NASA's shared cost of performing the cooperative agreement, and may require increased cash or in-kind contributions from the recipient to meet its percentage of the cost share.
+
+(f) To protect the integrity of the competitive process, upon release of the formal CAN the agreement officer shall direct that all personnel associated with the source selection refrain from communicating with prospective recipients and to refer all inquiries to the agreement officer or other authorized representative. The notification to potential recipients may be sent in any format (e.g., letter or electronic) appropriate to the complexity of the acquisition. It is not intended that all communication with potential recipients be terminated. Agreement officers should continue to provide information as long as it does not create an unfair competitive advantage or reveal proprietary data.
+
+(g) If NASA anticipates that the total Federal share of any award made under a funding agreement may exceed, over the period of performance, the simplified acquisition threshold, the notice of funding opportunity must include the information as required in Appendix 1 to Part 200, paragraph E.3, paragraph E.4, and paragraph F.3.
+
+[67 FR 45790, July 10, 2002, as amended at 81 FR 35584, June 3, 2016]

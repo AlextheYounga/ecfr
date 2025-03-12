@@ -1,0 +1,3 @@
+##### § 1808.620 Investments in Guaranteed Bonds ineligible for Community Reinvestment Act Purposes. #####
+
+Notwithstanding any other provision of law, any investment by a financial institution in Bonds shall not be taken into account in assessing the record of such institution for purposes of the Community Reinvestment Act of 1977 (12 U.S.C. 2901). Other forms of participation by financial institutions in CDFI Bond Guarantee Program transactions may be eligible for inclusion in Community Reinvestment Act records to the extent permitted by the Appropriate Federal Banking Agency.

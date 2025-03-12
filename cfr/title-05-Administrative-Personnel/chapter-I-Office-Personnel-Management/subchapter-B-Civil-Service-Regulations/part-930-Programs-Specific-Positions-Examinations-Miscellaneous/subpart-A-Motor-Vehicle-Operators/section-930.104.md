@@ -1,0 +1,3 @@
+##### § 930.104 Objectives. #####
+
+This subpart requires that agencies (a) establish an efficient and effective system to identify those Federal employees who are qualified and authorized to operate Government-owned or -leased motor vehicles while on official Government business; and (b) periodically review the competence and physical qualifications of these Federal employees to operate such vehicles safely.

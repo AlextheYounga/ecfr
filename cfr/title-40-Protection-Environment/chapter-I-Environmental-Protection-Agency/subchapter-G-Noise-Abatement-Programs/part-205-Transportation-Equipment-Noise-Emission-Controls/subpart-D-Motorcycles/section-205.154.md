@@ -1,0 +1,5 @@
+##### § 205.154 Consideration of alternative test procedures. #####
+
+The Administrator may approve applications from manufacturers of motorcycles for the approval of test procedures which differ from those contained in this subpart so long as the alternative procedures have been demonstrated to correlate with the prescribed procedure. To be acceptable, alternative test procedures must be such that the test results obtained will identify all those test motorcycles which would not comply with the noise emission standards prescribed in § 205.152 when tested in accordance with the measurement methodology specified in Appendix I. After approval by the Administrator, testing conducted by manufacturers using alternative test procedures will be accepted by the Administrator for all purposes including, but not limited to, selective enforcement audit testing.
+
+[45 FR 86708, Dec. 31, 1980, as amended at 47 FR 57720, Dec. 28, 1982]

@@ -1,0 +1,3 @@
+##### § 250.1615 Securing of wells. #####
+
+A downhole-safety device such as a cement plug, bridge plug, or packer shall be timely installed when drilling operations are interrupted by events such as those that force evacuation of the drilling crew, prevent station keeping, or require repairs to major drilling units or well-control equipment. The use of blind-shear rams or pipe rams and an inside BOP may be approved by the District Manager in lieu of the above requirements if cap rock casing has been set.

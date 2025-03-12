@@ -1,0 +1,5 @@
+##### § 630.804 Granting of funeral leave. #####
+
+(a) An agency shall grant an employee such funeral leave as is needed and requested by him, not to exceed 3 workdays, without loss of or reduction in pay, leave to which he is otherwise entitled, or credit for time or service, and without adversely affecting his performance or efficiency rating. Funeral leave is granted to allow an employee to make arrangements for, or to attend, the funeral or memorial service for an immediate relative who died as the result of a wound, disease, or injury incurred while serving as a member of the armed forces in a combat zone. The 3 days need not be consecutive but if not, the employee shall furnish the approving authority satisfactory reasons justifying a grant of funeral leave for nonconsecutive days.
+
+(b) An agency may grant funeral leave only from a prescribed tour of duty, including regularly scheduled overtime, or, in the case of a substitute employee in the postal field service, from a period during which, except for absence on funeral leave, the employee would have worked.

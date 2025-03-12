@@ -1,0 +1,5 @@
+##### § 250.1162 When may I burn produced liquid hydrocarbons? #####
+
+(a) You must request and receive approval from the Regional Supervisor to burn any produced liquid hydrocarbons. The Regional Supervisor may allow you to burn liquid hydrocarbons if you demonstrate that transporting them to market or re-injecting them is not technically feasible or poses a significant risk of harm to offshore personnel or the environment.
+
+(b) If you burn liquid hydrocarbons without the required approval, or if the Regional Supervisor determines that you were negligent or could have avoided burning liquid hydrocarbons, the hydrocarbons will be considered avoidably lost or wasted. You must pay royalties on the loss or waste, according to 30 CFR part 1202. You must value any liquid hydrocarbons avoidably lost or wasted under the provisions of 30 CFR part 1206.

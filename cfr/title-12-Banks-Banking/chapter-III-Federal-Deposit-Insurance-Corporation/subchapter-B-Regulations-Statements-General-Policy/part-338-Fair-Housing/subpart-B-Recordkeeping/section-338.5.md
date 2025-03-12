@@ -1,0 +1,5 @@
+##### § 338.5 Purpose. #####
+
+The purpose of this subpart B is two-fold. First, this subpart B notifies all insured state nonmember banks of their duty to collect and retain certain information about a home loan applicant's personal characteristics in accordance with Regulation B of the Board of Governors of the Federal Reserve System (12 CFR part 202) in order to monitor an institution's compliance with the Equal Credit Opportunity Act of 1974 (15 U.S.C. 1691 *et seq.*). Second, this subpart B notifies certain insured state nonmember banks of their duty to maintain, update and report a register of home loan applications in accordance with Regulation C of the Board of Governors of the Federal Reserve System (12 CFR part 203), which implements the Home Mortgage Disclosure Act (12 U.S.C. 2801 *et seq.*).
+
+[62 FR 36204, July 7, 1997]

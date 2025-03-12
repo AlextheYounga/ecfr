@@ -1,0 +1,3 @@
+##### § 960.103 Location. #####
+
+Federal Executive Boards have been established and shall continue in the following metropolitan areas: Albuquerque-Santa Fe, Atlanta, Baltimore, Boston, Buffalo, Chicago, Cincinnati, Cleveland, Dallas-Fort Worth, Denver, Detroit, Honolulu, Houston, Kansas City, Los Angeles, Miami, Minneapolis-St. Paul, New Orleans, New York, Newark, Philadelphia, Pittsburgh, Portland, St. Louis, San Francisco, and Seattle. The Director may, from time to time, dissolve, merge, or divide any of the foregoing Federal Executive Boards, or establish new Federal Executive Boards, as he may deem necessary, proper or convenient.

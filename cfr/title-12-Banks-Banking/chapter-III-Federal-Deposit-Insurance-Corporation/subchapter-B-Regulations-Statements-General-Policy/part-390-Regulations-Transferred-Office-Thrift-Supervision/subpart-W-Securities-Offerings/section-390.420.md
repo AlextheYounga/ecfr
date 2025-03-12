@@ -1,0 +1,5 @@
+##### § 390.420 Withdrawal or abandonment. #####
+
+(a) Any offering circular, amendment, or exhibit may be withdrawn prior to the effective date. A withdrawal shall be signed and state the grounds upon which it is made. Any document withdrawn will not be removed from the files of the FDIC, but will be marked “Withdrawn upon the request of the issuer on (date).”
+
+(b) When an offering circular or amendment has been on file with the FDIC for a period of nine months and has not become effective, the FDIC may, in its discretion, determine whether the filing has been abandoned, after notifying the issuer that the filing is out of date and must either be amended to comply with the applicable requirements of this subpart or be withdrawn within 30 days after the date of such notice. When a filing is abandoned, the filing will not be removed from the files of the FDIC, but will be marked “Declared abandoned by the FDIC on (date).”

@@ -1,0 +1,7 @@
+##### § 426.488 Effect of a Board decision. #####
+
+(a) *The Board's decision upholds an ALJ decision that an LCD is valid or reverses an ALJ decision that an LCD is invalid.* If the Board's decision upholds the ALJ decision that an LCD is valid under the reasonableness standard or reverses an ALJ decision that an LCD is invalid, the contractor or CMS is not required to take any action.
+
+(b) *The Board's decision upholds an ALJ determination that the LCD is invalid.* If the Board's decision upholds an ALJ determination that the LCD is invalid, then the contractor, the M + C organization, or other Medicare managed care organization implements the decision as described in § 426.460(b).
+
+(c) *The Board's decision reverses a dismissal or an ALJ decision that the LCD is valid.* If the Board reverses an ALJ decision dismissing a complaint or holding that an LCD is valid without requiring discovery or the taking of evidence, the Board remands to the ALJ and the LCD review continues. If the Board reverses an ALJ decision holding that an LCD is valid that is reached after the ALJ has completed discovery and the taking of evidence, the Board may remand the case to the ALJ for further proceedings, or the Board may find that the provision(s) of the LCD named in the complaint is (are) invalid under the reasonableness standard, and the contractor, the M + C organization, or other Medicare managed care organization provides the relief in § 426.460(b).

@@ -1,0 +1,7 @@
+##### § 230.34 Riveted repairs and alterations. #####
+
+(a) *Alterations to unstayed portions of the boiler.* Prior to making riveted alterations on unstayed portions of the boiler, the steam locomotive owner and/or operator shall submit a written request for approval to the FRA Regional Administrator. If approval is granted, the steam locomotive owner and/or operator shall perform any riveting to unstayed portions of the boiler in accordance with established railroad practices or an accepted national standard for boiler repairs. The steam locomotive owner and/or operator shall satisfy reporting requirements in § 230.20 at this time.
+
+(b) *Repairs to unstayed portions of the boiler.* The steam locomotive owner and/or operator shall perform any riveted repairs to unstayed portions of the boiler in accordance with established railroad practices, or an accepted national standard for boiler repairs. The steam locomotive owner and/or operator shall satisfy reporting requirements in § 230.20 at this time.
+
+(c) *Repairs to stayed portions of the boiler.* The steam locomotive owner and/or operator shall perform riveted repairs or alterations on stayed portions of the boiler in accordance with established railroad practices or an accepted national standard for boiler repairs. The steam locomotive owner and/or operator shall satisfy reporting requirements in § 230.20 at this time.

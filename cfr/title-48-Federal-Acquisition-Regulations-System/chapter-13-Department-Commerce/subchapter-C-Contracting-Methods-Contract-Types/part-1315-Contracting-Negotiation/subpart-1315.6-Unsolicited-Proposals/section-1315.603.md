@@ -1,0 +1,3 @@
+##### 1315.603 General. #####
+
+DOC will accept for review and consideration unsolicited proposals from any entity. DOC will not pay any costs associated with the preparation of unsolicited proposals. Proposals which do not meet the definition and applicable content and marking requirements of FAR 15.6 will not be considered under any circumstances and will be returned to the submitter. Unsolicited proposals may not be submitted electronically.

@@ -1,0 +1,3 @@
+##### 553.300 Scope of subpart. #####
+
+Standard and GSA forms prescribed or referenced in the text of this chapter are illustrated in and made a part of the General Services Administration Acquisition Manual. The forms are not illustrated in Title 48, Chapter 5, of the Code of Federal Regulations. Copies may be obtained from the Director of the Office of GSA Acquisition Policy (MVP), 1800 F Street, NW, Washington, DC 20405.

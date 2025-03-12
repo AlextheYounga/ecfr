@@ -1,0 +1,5 @@
+##### § 563g.9 Escrow requirement. #####
+
+(a) Any funds received in an offering which is offered and sold on a best efforts all-or-none condition or with a minimum-maximum amount to be sold shall be held in an escrow or similar separate account until such time as all of the securities are sold with respect to a best efforts all-or-none offering or the stated minimum amount of securities are sold in a minimum-maximum offering.
+
+(b) If the amount of securities required to be sold under escrow conditions in paragraph (a) of this section are not sold within the time period for the offering as disclosed in the offering circular, all funds in the escrow account shall be promptly refunded unless the Office otherwise approves an extension of the offering period upon a showing of good cause and provided that the extension is consistent with the public interest and the protection of investors.

@@ -1,0 +1,5 @@
+##### § 73.782 Retention of logs. #####
+
+Logs of international broadcast stations shall be retained by the licensee or permittee for a period of two years: *Provided, however,* That logs involving communications incident to a disaster or which include communications incident to or involved in an investigation by the Commission and concerning which the licensee or permittee has been notified, shall be retained by the licensee or permittee until he is specifically authorized in writing by the Commission to destroy them: *Provided, further,* That logs incident to or involved in any claim or complaint of which the licensee or permittee has notice shall be retained by the licensee or permittee until such claim or complaint has been fully satisfied or until the same has been barred by statute limiting the time for the filing of suits upon such claims.
+
+[28 FR 13696, Dec. 14, 1963]

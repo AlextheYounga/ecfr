@@ -1,0 +1,3 @@
+##### § 371.105 Must I use a motor carrier that has a valid U.S. DOT number and valid operating authority issued by FMCSA to transport household goods in interstate or foreign commerce? #####
+
+You may only act as a household goods broker for a motor carrier that has a valid, active U.S. DOT number and valid operating authority issued by FMCSA to transport household goods in interstate or foreign commerce.

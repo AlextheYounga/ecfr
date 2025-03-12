@@ -1,0 +1,3 @@
+##### § 510.12 Remedies for failure to comply with compulsory process. #####
+
+Any failure to comply with compulsory process authorized by law and issued under this part is a violation of this part. In the event of such failure to comply, NHTSA may take appropriate action pursuant to the authority conferred by the National Traffic and Motor Vehicle Safety Act or the Motor Vehicle Information and Cost Savings Act, as appropriate, including institution of judicial proceedings to enforce the order and to collect civil penalties.

@@ -1,0 +1,3 @@
+##### § 79.30 Scope. #####
+
+Fuels and additives designated and dates prescribed by the Administrator for the registration of such fuels and additives, pursuant to section 211 of the Act, are listed in this subpart. In addition, specific informational requirements under §§ 79.11(f) and 79.21(e) are set forth for each designated fuel or additive. Additional fuels and/or additives may be designated and pertinent dates and additional specific informational requirements prescribed as the Administrator deems advisable.

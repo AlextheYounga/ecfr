@@ -1,0 +1,3 @@
+##### § 173.204 Non-bulk, non-specification packagings for certain hazardous materials. #####
+
+When § 172.101 of this subchapter specifies that a liquid or solid hazardous material be packaged under this section, any appropriate non-bulk packaging which conforms to the general packaging requirements of subpart B of part 173 may be used for its transportation. Packagings need not conform to the requirements of part 178 of this subchapter.

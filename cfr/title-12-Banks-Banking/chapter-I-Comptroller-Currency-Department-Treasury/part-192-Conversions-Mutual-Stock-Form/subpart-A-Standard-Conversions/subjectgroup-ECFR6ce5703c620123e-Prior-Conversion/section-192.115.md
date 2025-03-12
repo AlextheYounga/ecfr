@@ -1,0 +1,7 @@
+##### § 192.115 How will the appropriate Federal banking agency review my business plan? #####
+
+(a) The appropriate Federal banking agency will review your business plan to determine that it demonstrates a safe and sound deployment of conversion proceeds, as part of its review of your conversion application. In making its determination, the appropriate Federal banking agency will consider how you have addressed the applicable factors of § 192.105. No single factor will be determinative.
+
+(b) If you are a Federal savings association, you must file your business plan with the appropriate OCC licensing office. If you are a state savings association, you must file your business plan with the appropriate FDIC region. The appropriate Federal banking agency may request additional information, if necessary, to support its determination under paragraph (a) of this section. You must file your business plan as a confidential exhibit to the Form AC.
+
+(c) If the appropriate Federal banking agency approves your application for conversion and you complete your conversion, you must operate within the parameters of your business plan. You must obtain the prior written approval of the appropriate Federal banking agency for any material deviations from your business plan.

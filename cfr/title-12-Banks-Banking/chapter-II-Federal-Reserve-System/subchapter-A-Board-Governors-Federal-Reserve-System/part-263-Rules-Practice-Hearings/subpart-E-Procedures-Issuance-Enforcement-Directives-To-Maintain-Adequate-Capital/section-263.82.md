@@ -1,0 +1,3 @@
+##### § 263.82 Establishment of minimum capital levels. #####
+
+The Board has established minimum capital levels for state member banks and bank holding companies in its Capital Adequacy Guidelines. The Board may set higher capital levels as necessary and appropriate for a particular state member bank or bank holding company based upon its financial condition, managerial resources, prospects, or similar factors, pursuant to the procedures set forth in § 263.85 of this subpart.

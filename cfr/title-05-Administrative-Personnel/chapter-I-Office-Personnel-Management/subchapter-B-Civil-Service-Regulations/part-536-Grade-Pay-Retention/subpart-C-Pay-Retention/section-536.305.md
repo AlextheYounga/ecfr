@@ -1,0 +1,11 @@
+##### § 536.305 Adjusting an employee's retained rate when a pay schedule is adjusted. #####
+
+(a)(1) Except as otherwise provided in this section, when the maximum rate of the highest applicable rate range for an employee's position of record is increased while the employee is receiving a retained rate, the employee is entitled to 50 percent of the amount of the increase in that maximum rate, subject to the maximum rate limitation in § 536.306. This 50-percent adjustment rule applies only when the maximum rate increases are attributable to the adjustment of the employee's existing pay schedule or the establishment of a new pay schedule that covers the employee's existing position of record.
+
+(2) As provided in 5 CFR 531.206, a retained rate adjustment under paragraph (a)(1) of this section is a general pay adjustment that must be applied before any geographic conversion under § 536.303(b) or any other simultaneous pay action. The retained rate adjustment under paragraph (a)(1) of this section must be determined based on the employee's position of record and official worksite as in effect immediately before the effective date of the adjustment.
+
+(3) Consistent with 5 U.S.C. 5363(c), a change in the maximum rate of the highest applicable rate range based on a change in the employee's official worksite is not considered in applying paragraph (a)(1) of this section. The employee's new retained rate must be determined under the geographic conversion rule in § 536.303(b).
+
+(4) Paragraph (a)(1) of this section does not apply to an increase in an employee's highest applicable rate range that results from a change in the employee's position of record. Such an increase is not attributable to an adjustment in the pay schedule applicable to the employee's position and thus is not an increase as described in 5 U.S.C. 5363(b)(2)(B).
+
+(b) When a pay schedule adjustment causes an employee's retained rate (after any adjustment under this section) to become equal to or lower than the maximum rate of the highest applicable rate range for the grade of the employee's position, the employee is entitled to the maximum rate of the highest applicable rate range, and pay retention ceases to apply.

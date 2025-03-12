@@ -1,0 +1,9 @@
+##### § 63.6105 What are my general requirements for complying with this subpart? #####
+
+(a) Before September 8, 2020, you must be in compliance with the emission limitations and operating limitations which apply to you at all times except during startup, shutdown, and malfunctions. After September 8, 2020, you must be in compliance with the emission limitations, operating limitations, and other requirements in this subpart which apply to you at all times.
+
+(b) Before September 8, 2020, if you must comply with emission and operating limitations, you must operate and maintain your stationary combustion turbine, oxidation catalyst emission control device or other air pollution control equipment, and monitoring equipment in a manner consistent with good air pollution control practices for minimizing emissions at all times including during startup, shutdown, and malfunction.
+
+(c) After September 8, 2020, at all times, the owner or operator must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require the owner or operator to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether a source is operating in compliance with operation and maintenance requirements will be based on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the source.
+
+[85 FR 13539, Mar. 9, 2020]

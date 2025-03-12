@@ -1,0 +1,5 @@
+##### § 390.250 What does this subpart cover? #####
+
+(a) The FDIC is issuing this subpart O pursuant to its general rulemaking and supervisory authority under the Federal Deposit Insurance Act, 12 U.S.C. 1811 *et seq.,* and its specific authority under section 18(m) of the Federal Deposit Insurance Act, 12 U.S.C. 1828(m). This subpart applies to subordinate organizations of State savings associations. The FDIC may, at any time, limit a State savings association's investment in any of these entities, or may limit or refuse to permit any activities of any of these entities for supervisory, legal, or safety and soundness reasons.
+
+(b) Notices under this subpart are applications for purposes of statutory and regulatory references to “applications.” Any conditions that the FDIC imposes in approving any application are enforceable as a condition imposed in writing by the FDIC in connection with the granting of a request by a State savings association within the meaning of 12 U.S.C. 1818(b) or 1818(i).

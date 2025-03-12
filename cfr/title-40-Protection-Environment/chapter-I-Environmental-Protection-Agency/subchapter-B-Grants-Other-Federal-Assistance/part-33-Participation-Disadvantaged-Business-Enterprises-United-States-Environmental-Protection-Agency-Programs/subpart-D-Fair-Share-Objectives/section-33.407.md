@@ -1,0 +1,3 @@
+##### § 33.407 How long do MBE and WBE fair share objectives remain in effect? #####
+
+Once MBE and WBE fair share objectives have been negotiated, they will remain in effect for three fiscal years unless there are significant changes to the data supporting the fair share objectives. The fact that a disparity study utilized in negotiating fair share objectives has become more than ten years old during the three-year period does not by itself constitute a significant change requiring renegotiation.

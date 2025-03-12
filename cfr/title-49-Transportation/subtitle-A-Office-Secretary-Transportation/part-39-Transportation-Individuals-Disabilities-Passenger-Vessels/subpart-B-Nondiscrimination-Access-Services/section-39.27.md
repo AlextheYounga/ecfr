@@ -1,0 +1,9 @@
+##### § 39.27 Can a PVO take action to deny transportation or restrict services to a passenger with a disability based on safety concerns? #####
+
+(a) As a PVO, you may take action to deny transportation or restrict services to a passenger with a disability if necessitated by legitimate safety requirements. Safety requirements must be based on actual risks and not on mere speculation, stereotypes, or generalizations about individuals with disabilities.
+
+Example 1 to paragraph 39.27(a):You may take such action in order to comply with Coast Guard safety regulations.Example 2 to paragraph 39.27(a):You may take such action if accommodating a large or heavy wheelchair would, together with its occupant, create weight and balance problem that could affect adversely the seaworthiness of the vessel or impede emergency egress from the vessel.Example 3 to paragraph 39.27(a):You could restrict access to a lifeboat for a mobility device that would limit access to the lifeboat for other passengers.
+
+(b) In taking action pursuant to legitimate safety requirements, you must take the action that imposes the minimum feasible burdens or limitations from the point of view of the passenger. For example, if you can meet legitimate safety requirements by a means short of refusing transportation to a passenger, you must do so.
+
+(c) You may take action to deny transportation or restrict services to a passenger if the passenger poses a direct threat to others. In determining whether an individual poses a direct threat to the health or safety of others, the PVO must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: The nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures will mitigate the risk.

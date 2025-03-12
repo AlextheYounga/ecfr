@@ -1,0 +1,7 @@
+##### § 54.511 Ordering services. #####
+
+(a) *Selecting a provider of eligible services.* Except as exempted in § 54.503(e), in selecting a provider of eligible services, schools, libraries, library consortia, and consortia including any of those entities shall carefully consider all bids submitted and must select the most cost-effective service offering. In determining which service offering is the most cost-effective, entities may consider relevant factors other than the pre-discount prices submitted by providers, but price should be the primary factor considered.
+
+(b) *Lowest corresponding price.* Providers of eligible services shall not submit bids for or charge schools, school districts, libraries, library consortia, or consortia including any of these entities a price above the lowest corresponding price for supported services, unless the Commission, with respect to interstate services or the state commission with respect to intrastate services, finds that the lowest corresponding price is not compensatory. Promotional rates offered by a service provider for a period of more than 90 days must be included among the comparable rates upon which the lowest corresponding price is determined.
+
+[79 FR 59203, Aug. 19, 2014]

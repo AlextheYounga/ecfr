@@ -1,0 +1,3 @@
+##### § 603.1120 Award-specific audits. #####
+
+Guidance on when and how the contracting officer should request additional audits for an expenditure-based TIA is identical to the guidance in 10 CFR 600.316(d). If the contracting officer requires an award-specific examination or audit of a for-profit participant's records related to a TIA, the contracting officer must use the auditor specified in the award terms and conditions, which should be the same auditor who performs periodic audits of the participant.

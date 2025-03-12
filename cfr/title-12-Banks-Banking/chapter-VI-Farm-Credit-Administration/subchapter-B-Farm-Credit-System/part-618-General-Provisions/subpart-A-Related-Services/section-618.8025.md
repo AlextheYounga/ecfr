@@ -1,0 +1,7 @@
+##### § 618.8025 Feasibility reviews. #####
+
+(a) Prior to an association offering a related service program for the first time or offering a service that it did not offer during the most recently completed business cycle (generally 1 year), the board of directors of the funding bank must verify that the association has performed a feasibility analysis pursuant to § 618.8020. The bank review is limited to a determination that the feasibility analysis is complete and that the analysis establishes that it is feasible for the association to provide the program. Any conclusion by the bank that the feasibility analysis is incomplete or fails to demonstrate program feasibility must be fully supported and communicated to the association in writing within 60 days of its submission to the bank.
+
+(b) Prior to a service corporation offering a service for the first time or offering a service that it did not offer during the most recently completed business cycle (generally 1 year), the owners of the service corporation must verify that the service corporation has performed a feasibility analysis pursuant to § 618.8020. If the owners all agree, one bank with a significant ownership interest can be delegated this responsibility.
+
+[60 FR 34099, June 30, 1995; 60 FR 42029, Aug. 15, 1995]

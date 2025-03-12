@@ -1,0 +1,3 @@
+##### § 260.13 Credit reform. #####
+
+The Federal Credit Reform Act of 1990, 2 U.S.C. 661, requires Federal agencies to set aside the subsidy cost of new credit assistance provided in the form of direct loans or loan guarantees. The subsidy cost will be the estimated long term cost to the Government of the loan or loan guarantee. The subsidy cost associated with each direct loan or loan guarantee, which the Administrator must set aside, may be funded by Federal appropriations, direct payment of a Credit Risk Premium by the Applicant or a non-Federal infrastructure partner on behalf of the Applicant, or any combination thereof.

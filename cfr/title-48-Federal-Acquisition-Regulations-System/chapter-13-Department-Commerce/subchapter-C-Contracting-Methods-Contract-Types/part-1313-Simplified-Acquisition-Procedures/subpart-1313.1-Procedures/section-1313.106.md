@@ -1,0 +1,1 @@
+##### 1313.106 Soliciting competition, evaluation of quotations or offers, award and documentation. #####

@@ -1,0 +1,3 @@
+##### § 630.1302 Applicability. #####
+
+This subpart applies to an employee who is a veteran with a service-connected disability rated at 30 percent or more, subject to the conditions specified in this subpart. This subpart does not apply to employees of the United States Postal Service or the Postal Regulatory Commission who are subject to regulations issued by the Postmaster General under section 2(d)(2) of Public Law 114-75. This subpart applies only to an employee who is hired on or after November 5, 2016.

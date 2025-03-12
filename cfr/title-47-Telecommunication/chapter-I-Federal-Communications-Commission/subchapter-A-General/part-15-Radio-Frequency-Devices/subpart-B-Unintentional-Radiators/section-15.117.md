@@ -1,0 +1,55 @@
+##### § 15.117 TV broadcast receivers. #####
+
+Link to an amendment published at 83 FR 5021, February 2, 2018.
+
+(a) All TV broadcast receivers shipped in interstate commerce or imported into the United States, for sale or resale to the public, shall comply with the provisions of this section, except that paragraphs (f) and (g) of this section shall not apply to the features of such sets that provide for reception of digital television signals. The reference in this section to TV broadcast receivers also includes devices, such as TV interface devices and set-top devices that are intended to provide audio-video signals to a video monitor, that incorporate the tuner portion of a TV broadcast receiver and that are equipped with an antenna or antenna terminals that can be used for off-the-air reception of TV broadcast signals, as authorized under part 73 of this chapter.
+
+(b) Until August 31, 2017, TV broadcast receivers shall be capable of adequately receiving all channels allocated by the Commission to the television broadcast service. After August 31, 2017, TV broadcast receivers shall be capable of adequately receiving all channels allocated by the Commission to the television broadcast service that broadcast digital signals, buy they need not be capable of receiving analog signals.
+
+(c) On a given receiver, use of the UHF and VHF tuning systems shall provide approximately the same degree of tuning accuracy with approximately the same expenditure of time and effort: *Provided, however,* That this requirement will be considered to be met if the need for routine fine tuning is eliminated on UHF channels.
+
+(1) *Basic tuning mechanism.* If a TV broadcast receiver is equipped to provide for repeated access to VHF television channels at discrete tuning positions, that receiver shall be equipped to provide for repeated access to a minimum of six UHF television channels at discrete tuning positions. Unless a discrete tuning position is provided for each channel allocated to UHF television, each position shall be readily adjustable to a particular UHF channel by the user without the use of tools. If 12 or fewer discrete tuning positions are provided, each position shall be adjustable to receive any channel allocated to UHF television.
+
+Note:
+
+The combination of detented rotary switch and pushbutton controls is acceptable, provided UHF channels, after their initial selection, can be accurately tuned with an expenditure of time and effort approximately the same as that used in accurately tuning VHF channels. A UHF tuning system comprising five pushbuttons and a separate manual tuning knob is considered to provide repeated access to six channels at discrete tuning positions. A one-knob (VHF/UHF) tuning system providing repeated access to 11 or more discrete tuning positions is also acceptable, provided each of the tuning positions is readily adjustable, without the use of tools, to receive any UHF channel.
+
+(2) *Tuning controls and channel readout.* UHF tuning controls and channel readout on a given receiver shall be comparable in size, location, accessibility and legibility to VHF controls and readout on that receiver.
+
+Note:
+
+Differences between UHF and VHF channel readout that follow directly from the larger number of UHF television channels available are acceptable if it is clear that a good faith effort to comply with the provisions of this section has been made.
+
+(d) If equipment and controls that tend to simplify, expedite or perfect the reception of television signals (e.g., AFC, visual aids, remote control, or signal seeking capability referred to generally as tuning aids) are incorporated into the VHF portion of a TV broadcast receiver, tuning aids of the same type and comparable capability and quality shall be provided for the UHF portion of that receiver.
+
+(e) If a television receiver has an antenna affixed to the VHF antenna terminals, it must have an antenna designed for and capable of receiving all UHF television channels affixed to the UHF antenna terminals. If a VHF antenna is provided with but not affixed to a receiver, a UHF antenna shall be provided with the receiver.
+
+(f) The picture sensitivity of a TV broadcast receiver averaged for all channels between 14 and 69 inclusive shall not be more than 8dB larger than the peak picture sensitivity of that receiver averaged for all channels between 2 and 13 inclusive.
+
+(g) The noise figure for any television channel 14 to 69 inclusive shall not exceed 14 dB. A TV receiver model is considered to comply with this noise figure if the maximum noise figure for channels 14-69 inclusive of 97.5% of all receivers within that model does not exceed 14 dB.
+
+(1) The responsible party shall measure the noise figure of a number of UHF channels of the test sample to give reasonable assurance that the UHF noise figure for each channel complies with the above limit.
+
+(2) The responsible party shall insert in his files a statement explaining the basis on which it will rely to ensure that at least 97.5% of all production units of the test sample that are manufactured have a noise figure of no greater than 14 dB.
+
+(3) [Reserved]
+
+(4) In the case of a TV tuner built-in as part of a video tape recorder that uses a power splitter between the antenna terminals of the video tape recorder and the input terminals of the TV tuner or a TV broadcast receiver that uses a power splitter between the antenna terminals of two or more UHF tuners contained within that receiver, 4 dB may be subtracted from the noise figure measured at the antenna terminals of the video tape recorder or TV broadcast receiver for determining compliance of the UHF tuner(s) with the 14 dB noise figure limit.
+
+(h) *Digital television reception capability.* TV broadcast receivers are required only to provide useable picture and sound commensurate with their video and audio capabilities when receiving digital television signals.
+
+(i) *Digital television reception requirement.* (1) Responsible parties, as defined in § 2.909 of this chapter, are required to equip with DTV tuners new TV broadcast receivers that are shipped in interstate commerce or imported from any foreign country into the United States and for which they are responsible to comply with the provisions of this section. For purposes of this section, the term “TV broadcast receivers” includes other video devices (videocassette recorders (VCRs), digital video recorders such as hard drive and DVD recorders, etc.) that receive television signals.
+
+(2) The requirement to include digital television reception capability in new TV broadcast receivers does not apply to devices such as mobile telephones and personal digital assistants where such devices do not include the capability to receive TV service on the frequencies allocated for broadcast television service.
+
+(j) For a TV broadcast receiver equipped with a cable input selector switch, the selector switch shall provide, in any of its set positions, isolation between the antenna and cable input terminals of at least 80 dB from 54 MHz to 216 MHz, at least 60 dB from 216 MHz to 550 MHz and at least 55 dB from 550 MHz to 806 MHz. The 80 dB standard applies at 216 MHz and the 60 dB standard applies at 550 MHz. In the case of a selector switch requiring a power source, the required isolation shall be maintained in the event the device is not connected to a power source or power is interrupted. An actual switch that can alternate between reception of cable television service and an antenna is not required for a TV broadcast receiver, provided compliance with the isolation requirement specified in this paragraph can be demonstrated and the circuitry following the antenna input terminal(s) has sufficient band-width to allow the reception of all TV broadcast channels authorized under this chapter.
+
+(k) The following requirements apply to all responsible parties, as defined in § 2.909 of this chapter, and any person that displays or offers for sale or rent television receiving equipment that is not capable of receiving, decoding and tuning digital signals.
+
+(1) Such parties and persons shall place conspicuously and in close proximity to such television broadcast receivers a sign containing, in clear and conspicuous print, the Consumer Alert disclosure text required by paragraph (k)(3) of this section. The text should be in a size of type large enough to be clear, conspicuous and readily legible, consistent with the dimensions of the equipment and the label. The information may be printed on a transparent material and affixed to the screen, if the receiver includes a display, in a manner that is removable by the consumer and does not obscure the picture, or, if the receiver does not include a display, in a prominent location on the device, such as on the top or front of the device, when displayed for sale, or the information in this format may be displayed separately immediately adjacent to each television broadcast receiver offered for sale and clearly associated with the analog-only model to which it pertains.
+
+(2) If such parties and persons display or offer for sale or rent such television broadcast receivers via direct mail, catalog, or electronic means, they shall prominently display in close proximity to the images or descriptions of such television broadcast receivers, in clear and conspicuous print, the Consumer Alert disclosure text required by paragraph (k)(3) of this section. The text should be in a size large enough to be clear, conspicuous, and readily legible, consistent with the dimensions of the advertisement or description.
+
+(3) *Consumer alert.* This television receiver has only an analog broadcast tuner and will require a converter box after February 17, 2009, to receive over-the-air broadcasts with an antenna because of the Nation's transition to digital broadcasting. Analog-only TVs should continue to work as before with cable and satellite TV services, gaming consoles, VCRs, DVD players, and similar products. For more information, call the Federal Communications Commission at 1-888-225-5322 (TTY: 1-888-835-5322) or visit the Commission's digital television Web site at: *http://www.dtv.gov.*
+
+[54 FR 17714, Apr. 25, 1993, as amended at 59 FR 25341, May 16, 1994; 61 FR 30532, June 17, 1996; 67 FR 63294, Oct. 11, 2002; 70 FR 38804, July 6, 2005; 70 FR 75743, Dec. 21, 2005; 72 FR 26560, May 10, 2007; 73 FR 5681, Jan. 30, 2008; 77 FR 4913, Feb. 1, 2012; 81 FR 5052, Feb. 1, 2016]

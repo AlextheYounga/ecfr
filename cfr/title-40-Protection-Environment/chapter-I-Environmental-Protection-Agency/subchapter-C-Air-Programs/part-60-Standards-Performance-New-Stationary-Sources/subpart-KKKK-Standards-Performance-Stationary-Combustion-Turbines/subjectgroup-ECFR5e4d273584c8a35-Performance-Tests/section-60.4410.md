@@ -1,0 +1,3 @@
+##### § 60.4410 How do I establish a valid parameter range if I have chosen to continuously monitor parameters? #####
+
+If you have chosen to monitor combustion parameters or parameters indicative of proper operation of NOX emission controls in accordance with § 60.4340, the appropriate parameters must be continuously monitored and recorded during each run of the initial performance test, to establish acceptable operating ranges, for purposes of the parameter monitoring plan for the affected unit, as specified in § 60.4355.

@@ -1,0 +1,5 @@
+##### 41.401 Monthly and annual review. #####
+
+Agencies shall review utility service invoices on a monthly basis and all utility accounts, with annual values exceeding the simplified acquisition threshold, on an annual basis. Annual reviews of accounts with annual values at or below the simplified acquisition threshold shall be conducted when deemed advantageous to the Government. The purpose of the monthly review is to ensure the accuracy of utility service invoices. The purpose of the annual review is to ensure that the utility supplier is furnishing the services to each facility under the utility's most economical, applicable rate and to examine competitive markets for more advantageous service offerings. The annual review shall be based upon the facility's usage, conditions and characteristics of service at each individual delivery point for the most recent 12 months. If a more advantageous rate is appropriate, the Federal agency shall request the supplier to make such rate change immediately.
+
+[59 FR 67018, Dec. 28, 1994, as amended at 60 FR 34759, July 3, 1995]

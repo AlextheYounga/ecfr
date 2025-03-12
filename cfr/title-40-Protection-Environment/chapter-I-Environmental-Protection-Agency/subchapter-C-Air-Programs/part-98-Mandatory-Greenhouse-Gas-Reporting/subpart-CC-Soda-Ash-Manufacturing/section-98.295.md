@@ -1,0 +1,11 @@
+##### § 98.295 Procedures for estimating missing data. #####
+
+For the emission calculation methodologies in § 98.293(b)(2) and (b)(3), a complete record of all measured parameters used in the GHG emissions calculations is required (e.g., inorganic carbon content values, etc.). Therefore, whenever a quality-assured value of a required parameter is unavailable, a substitute data value for the missing parameter shall be used in the calculations as specified in the paragraphs (a) through (d) of this section. You must document and keep records of the procedures used for all such missing value estimates.
+
+(a) For each missing value of the weekly composite of inorganic carbon content of either soda ash or trona, the substitute data value shall be the arithmetic average of the quality-assured values of inorganic carbon contents from the week immediately preceding and the week immediately following the missing data incident. If no quality-assured data on inorganic carbon contents are available prior to the missing data incident, the substitute data value shall be the first quality-assured value for carbon contents obtained after the missing data period.
+
+(b) For each missing value of either the monthly soda ash production or the trona consumption, the substitute data value shall be the best available estimate(s) of the parameter(s), based on all available process data or data used for accounting purposes.
+
+(c) For each missing value collected during the performance test (hourly CO2 concentration, stack gas volumetric flow rate, or average process vent flow from mine water stripper/evaporator during performance test), you must repeat the annual performance test following the calculation and monitoring and QA/QC requirements under §§ 98.293(b)(3) and 98.294(c).
+
+(d) For each missing value of the monthly process vent flow rate from mine water stripper/evaporator, the subsititute data value shall be the best available estimate(s) of the parameter(s), based on all available process data or the lesser of the maximum capacity of the system or the maximum rate the meter can measure.

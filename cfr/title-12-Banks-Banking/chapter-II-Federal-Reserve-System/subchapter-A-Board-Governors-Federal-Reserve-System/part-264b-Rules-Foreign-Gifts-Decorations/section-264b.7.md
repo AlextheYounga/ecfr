@@ -1,0 +1,5 @@
+##### § 264b.7 Decorations. #####
+
+(a) Board employees may accept, retain, and wear a decoration tendered or awarded by a foreign government in recognition of active field service in time of combat operations or for other outstanding or unusually meritorious performance, subject to the approval of the Administrative Governor. Requests for approval must be submitted to the Office of the Secretary and contain a statement of the circumstances surrounding the award and include any accompanying documentation. The recipient may retain the decoration pending action on the request.
+
+(b) Decorations accepted by Board employees without the approval of the Administrative Governor are considered to have been accepted on behalf of the United States and must be deposited within 60 days of the decoration's acceptance with the Office of the Secretary for disposition or retention under § 264b.8.

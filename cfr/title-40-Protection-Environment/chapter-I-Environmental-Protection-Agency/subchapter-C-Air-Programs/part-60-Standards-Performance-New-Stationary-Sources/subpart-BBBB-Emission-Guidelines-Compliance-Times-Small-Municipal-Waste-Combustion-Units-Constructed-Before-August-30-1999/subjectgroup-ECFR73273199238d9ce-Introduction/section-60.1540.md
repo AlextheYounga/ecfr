@@ -1,0 +1,7 @@
+##### § 60.1540 Are there any State plan requirements for this subpart that supersede the requirements specified in subpart B? #####
+
+Subpart B of this part establishes general requirements for developing and processing CAA section 111(d) plans. This subpart applies instead of the requirements in subpart B of this part, for two items:
+
+(a) *Option for case-by-case less stringent emission standards and longer compliance schedules.* State plans developed to implement this subpart must be as protective as the emission guidelines contained in this subpart. State plans must require all municipal waste combustion units to comply no later than December 6, 2005. That requirement applies instead of the option for case-by-case less stringent emission standards and longer compliance schedules in § 60.24(f).
+
+(b) *Increments of progress requirements.* For Class II units (see definition in § 60.1940), a State plan must include at least two increments of progress for the affected municipal waste combustion units. The two minimum increments are the final control plan submittal date and final compliance date in § 60.21(h)(1) and (5). That requirement applies instead of the requirement of § 60.24(e)(1) that would require a State plan to include all five increments of progress for all municipal waste combustion units. For Class I units under this subpart, the final control plan must contain the five increments of progress in § 60.24(e)(1).

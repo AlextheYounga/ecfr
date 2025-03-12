@@ -1,0 +1,3 @@
+##### 32.1008 Suspension or reduction of performance-based payments. #####
+
+The contracting officer shall apply the policy and procedures in paragraphs (a), (b), (c), and (e) of 32.503-6, Suspension or reduction of payments, whenever exercising the Government's rights to suspend or reduce performance-based payments in accordance with paragraph (e) of the clause at 52.232-32, Performance-Based Payments.

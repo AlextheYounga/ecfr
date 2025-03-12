@@ -1,0 +1,3 @@
+##### § 7.81 Purpose and effective date. #####
+
+Subpart A general provisions of this part apply to this subpart E. Subpart E establishes the specific engine performance and exhaust emission requirements for MSHA approval of diesel engines for use in areas of underground coal mines where permissible electric equipment is required and areas where non-permissible electric equipment is allowed. It is effective November 25, 1996.

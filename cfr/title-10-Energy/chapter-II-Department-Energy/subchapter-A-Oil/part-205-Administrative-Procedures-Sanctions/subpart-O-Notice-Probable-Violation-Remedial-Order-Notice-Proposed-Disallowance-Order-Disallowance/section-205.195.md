@@ -1,0 +1,13 @@
+##### § 205.195 Filing and service of all submissions. #####
+
+(a)(1) Statements of Objections, Responses to such Statements, and any motions or other documents filed in connection with a proceeding shall meet the requirements of § 205.9 and shall be filed with the Office of Hearings and Appeals in accordance with § 205.4. Unless otherwise specified, any participant may file a response to a motion within five days of service.
+
+(2) All documents shall be filed in duplicate, unless they contain confidential information, in which case they must be filed in triplicate.
+
+(3) If a person claims that any portion of a document which he is filing contains confidential information, such information should be deleted from two of the three copies which are filed. One copy from which confidential information has been deleted will be placed in the Office of Hearings and Appeals Public Docket Room.
+
+(b)(1) Persons other than DOE offices shall on the date a submission is filed serve each person on the official service list. Service shall be made in accordance with § 205.7 and may also be made by deposit in the regular United States mail, properly stamped and addressed, when accompanied by proof of service consisting of a certificate of counsel or an affidavit of the person making the service. If any filing arguably contains confidential information, a person may serve copies with the confidential information deleted upon all persons on the official service list except DOE offices, which shall be served both an original filing and one with deletions.
+
+(2) A DOE office shall on the date it files a submission serve all persons on the official service list, unless the filing arguably contains confidential information. In that case the DOE office shall notify the person to whom the information relates of the opportunity to identify and delete the confidential information. The DOE Office may delay the service of a submission containing arguably confidential information upon all persons other than the possessor of the confidential information and other DOE offices up to 14 days. The possessor of the confidential information shall serve the filing with any deletions upon all persons on the official service list within such time period.
+
+(c) Any filing made under this section shall include a certification of compliance by the filer with the provisions of this subpart. The person serving a document shall file a certificate of service, which includes the date and manner of service for each person on the official service list.

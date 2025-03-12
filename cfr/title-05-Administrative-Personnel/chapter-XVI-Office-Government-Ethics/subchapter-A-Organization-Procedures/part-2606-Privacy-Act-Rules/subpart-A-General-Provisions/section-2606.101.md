@@ -1,0 +1,3 @@
+##### § 2606.101 Purpose. #####
+
+This part sets forth the regulations of the Office of Government Ethics (OGE) implementing the Privacy Act of 1974, as amended (5 U.S.C. 552a). It governs access, maintenance, disclosure, and amendment of records contained in OGE's executive branch Governmentwide and internal systems of records, and establishes rules of conduct for OGE employees who have responsibilities under the Act.

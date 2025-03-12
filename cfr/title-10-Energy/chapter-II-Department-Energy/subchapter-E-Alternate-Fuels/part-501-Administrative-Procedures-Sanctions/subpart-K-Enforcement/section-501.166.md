@@ -1,0 +1,7 @@
+##### § 501.166 Hearings and conferences. #####
+
+(a) *When a civil penalty is proposed*—(1) *Hearing alternative in civil penalty assessment proceedings.* Unless the recipient of a notice of violation elects in writing to have the provisions of paragraph (a)(2) of this section apply, OFE will commence a proceeding to assess a penalty and, prior to a final determination on the violation and assessment of a penalty, provide an opportunity for a hearing pursuant to 5 U.S.C. 554 before an Administrative Law Judge.
+
+(2) *Election alternative in civil penalty assessment proceedings.* The recipient of a notice of violation in which a civil penalty assessment has been proposed may elect, in writing, within thirty (30) days of receipt of the notice, to waive the administrative proceedings described in paragraph (a)(1) of this section. OFE will make a determination on the proposed civil penalty assessment and issue a final order to that effect within forty-five (45) days after receiving notice of the exercise of this election.
+
+(b) *When a civil penalty is not proposed—opportunity to request a conference.* If a person has received a notice of violation in which a civil penalty has not been proposed, he may, within thirty (30) days after receipt of the notice, request a conference with OFE to discuss the notice. In order to request a conference he must comply with the instructions set forth in the notice.

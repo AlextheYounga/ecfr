@@ -1,0 +1,3 @@
+##### § 236.310 Signal governing approach to home signal. #####
+
+A signal shall be provided on main track to govern the approach with the current of traffic to any home signal except where the home signal is the first signal encountered when leaving yards or stations and authorized speed approaching such signal is not higher than slow speed. When authorized speed between home signals on route governed is 20 miles per hour or less, an inoperative signal displaying an aspect indicating “approach next signal prepared to stop” may be used to govern the approach to the home signal.

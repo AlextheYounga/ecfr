@@ -1,0 +1,3 @@
+##### § 605.32 Accumulation of evidentiary material. #####
+
+The Administrator will allow the respondent not more than 30 days to show cause, by submission of evidence, why no violation should be deemed to have occurred. A like period shall be allowed to the complainant, if any, during which he may submit evidence to rebut the evidence offered by the respondent. The Administrator may undertake such further investigation, as he may deem necessary, including, in his discretion, the holding of an evidentiary hearing or hearings.

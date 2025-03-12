@@ -1,0 +1,3 @@
+##### § 872.20 What will OSM do with unappropriated AML funds currently allocated to the Rural Abandoned Mine Program ? #####
+
+Under section 402(h)(4)(B) of SMCRA, we will make available any moneys that remain allocated to RAMP and that were not appropriated or moved to other allocations before December 20, 2006, for possible transfer to the three United Mine Workers of America (UMWA) health care plans described in section 402(h)(2) of SMCRA.

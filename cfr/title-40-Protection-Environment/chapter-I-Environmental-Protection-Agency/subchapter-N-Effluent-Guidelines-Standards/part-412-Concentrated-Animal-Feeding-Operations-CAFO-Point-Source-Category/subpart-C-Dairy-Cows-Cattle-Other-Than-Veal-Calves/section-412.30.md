@@ -1,0 +1,3 @@
+##### § 412.30 Applicability. #####
+
+This subpart applies to operations defined as concentrated animal feeding operations (CAFOs) under 40 CFR 122.23 and includes the following animals: mature dairy cows, either milking or dry; cattle other than mature dairy cows or veal calves. Cattle other than mature dairy cows includes but is not limited to heifers, steers, and bulls. This subpart does not apply to such CAFOs with less than the following capacities: 700 mature dairy cows whether milked or dry; 1,000 cattle other than mature dairy cows or veal calves.

@@ -1,0 +1,3 @@
+##### § 585.11 Scope. #####
+
+This subpart establishes requirements for manufacturers of passenger cars and trucks, buses, and multipurpose passenger vehicles with a GVWR of 3,855 kg or less and an unloaded vehicle weight of 2,495 kg or less to submit reports, and maintain records related to the reports, concerning the number and identification of such vehicles that are certified as complying with the advanced air bag requirements of Standard No. 208, *Occupant crash protection* (49 CFR 571.208).

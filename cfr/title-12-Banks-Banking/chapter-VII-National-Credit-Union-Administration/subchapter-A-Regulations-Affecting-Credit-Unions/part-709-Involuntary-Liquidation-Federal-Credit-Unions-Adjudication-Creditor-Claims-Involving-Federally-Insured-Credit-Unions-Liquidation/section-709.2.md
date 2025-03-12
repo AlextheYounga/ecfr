@@ -1,0 +1,5 @@
+##### § 709.2 NCUA Board as liquidating agent. #####
+
+(a) The Board, as liquidating agent, by operation of law and without any conveyance or other instrument, act or deed, shall succeed to all the rights, titles, powers, and privileges of the credit union, and of its shareholders, officers, and directors, with respect to the credit union and its assets, and such shareholders, officers, or directors, shall not thereafter have or exercise any such rights, powers, or privileges or act in connection with any assets or property of any nature of the credit union.
+
+(b) The Board, as liquidating agent, shall take possession of and title to books, records, and assets of every description of such credit union to which such credit union has rights of possession and title to all offices and other facilities of such credit union.

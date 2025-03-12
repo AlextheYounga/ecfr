@@ -1,0 +1,3 @@
+##### § 141.628 Requirements for remaining on increased TTHM and HAA5 monitoring based on subpart L results. #####
+
+If you were on increased monitoring under § 141.132(b)(1), you must remain on increased monitoring until you qualify for a return to routine monitoring under § 141.625(c). You must conduct increased monitoring under § 141.625 at the monitoring locations in the monitoring plan developed under § 141.622 beginning at the date identified in § 141.620(c) for compliance with this subpart and remain on increased monitoring until you qualify for a return to routine monitoring under § 141.625(c).

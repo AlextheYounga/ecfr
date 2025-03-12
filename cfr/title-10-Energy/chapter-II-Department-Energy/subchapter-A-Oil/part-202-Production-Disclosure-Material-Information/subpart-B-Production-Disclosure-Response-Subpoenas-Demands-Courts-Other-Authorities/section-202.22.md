@@ -1,0 +1,3 @@
+##### § 202.22 Production or disclosure prohibited unless approved by appropriate DOE official. #####
+
+No employee or former employee of the DOE shall, in response to a demand of a court or other authority, produce any material contained in the file of the DOE or disclose any information relating to material contained in the files of the DOE, or disclose any information or produce any material acquired as part of the performance of his official duties or because of his official status without prior approval of the General Counsel of DOE.

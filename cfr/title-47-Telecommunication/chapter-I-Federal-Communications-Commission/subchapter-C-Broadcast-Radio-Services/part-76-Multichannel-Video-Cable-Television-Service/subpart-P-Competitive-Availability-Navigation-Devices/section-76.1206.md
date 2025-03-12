@@ -1,0 +1,3 @@
+##### § 76.1206 Equipment sale or lease charge subsidy prohibition. #####
+
+Multichannel video programming distributors offering navigation devices subject to the provisions of § 76.923 for sale or lease directly to subscribers, shall adhere to the standards reflected therein relating to rates for equipment and installation and shall separately state the charges to consumers for such services and equipment.

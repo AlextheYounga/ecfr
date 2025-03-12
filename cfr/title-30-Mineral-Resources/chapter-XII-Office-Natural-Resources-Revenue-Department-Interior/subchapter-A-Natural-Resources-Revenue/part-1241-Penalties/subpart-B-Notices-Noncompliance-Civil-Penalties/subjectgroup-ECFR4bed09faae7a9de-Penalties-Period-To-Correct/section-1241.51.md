@@ -1,0 +1,3 @@
+##### § 1241.51 What if I correct the violation identified in a NONC? #####
+
+If you correct all of the violations that we identified in the NONC within 20 days after the date on which you are served the NONC, or any longer period for correction that the NONC specifies, we will close the matter and will not assess a civil penalty. However, we will consider these violations as part of your history of noncompliance for future penalty assessments under § 1241.70(a)(2).

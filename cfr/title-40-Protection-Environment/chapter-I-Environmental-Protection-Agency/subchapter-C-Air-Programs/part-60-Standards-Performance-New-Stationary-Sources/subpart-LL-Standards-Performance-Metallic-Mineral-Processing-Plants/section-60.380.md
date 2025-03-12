@@ -1,0 +1,5 @@
+##### § 60.380 Applicability and designation of affected facility. #####
+
+(a) The provisions of this subpart are applicable to the following affected facilities in metallic mineral processing plants: Each crusher and screen in open-pit mines; each crusher, screen, bucket elevator, conveyor belt transfer point, thermal dryer, product packaging station, storage bin, enclosed storage area, truck loading station, truck unloading station, railcar loading station, and railcar unloading station at the mill or concentrator with the following exceptions. All facilities located in underground mines are exempted from the provisions of this subpart. At uranium ore processing plants, all facilities subsequent to and including the beneficiation of uranium ore are exempted from the provisions of this subpart.
+
+(b) An affected facility under paragraph (a) of this section that commences construction or modification after August 24, 1982, is subject to the requirements of this part.

@@ -1,0 +1,5 @@
+##### § 293.22 Effectiveness of tariffs on file. #####
+
+(a) One hundred and eighty days after the date of effectiveness of the Assistant Secretary's notice, passenger tariffs on file with the Department covered by the scope of the exemption will cease to be effective as tariffs under 49 U.S.C. 41504 and 41510, and the provisions of 14 CFR part 221, and will be canceled by operation of law.
+
+(b) One hundred and eighty days after the date of effectiveness of the Assistant Secretary's notice, pending applications for filing and/or effectiveness of any passenger tariffs covered by the scope of the exemption, will be dismissed by operation of law. No new filings or applications will be permitted after the date of effectiveness of the Assistant Secretary's notice except as provided under § 293.12.

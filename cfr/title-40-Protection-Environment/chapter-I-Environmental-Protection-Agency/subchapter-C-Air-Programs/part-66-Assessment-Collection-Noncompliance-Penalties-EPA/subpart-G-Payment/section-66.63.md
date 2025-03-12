@@ -1,0 +1,5 @@
+##### § 66.63 Nonpayment penalty. #####
+
+(a) Any source owner or operator who fails to make timely payment under § 66.61 shall pay in addition to the penalty owed a quarterly nonpayment penalty. The nonpayment penalty shall be calculated as of the due date of the noncompliance penalty payment and shall be equal to 20 percent of the aggregate amount of the noncompliance penalties and nonpayment penalties due and owing from the owner or operator on the due date. Partial payments shall be credited first against the nonpayment penalty, then against the noncompliance penalty.
+
+(b) The Administrator shall notify the source owner or operator in writing of the amount of any nonpayment penalty for which the owner or operator is liable. Failure of the Administrator to provide such notice immediately shall not affect the legal obligation of the source owner or operator to pay such penalty. Such nonpayment penalty, as well as the past due noncompliance penalty, shall be payable immediately.

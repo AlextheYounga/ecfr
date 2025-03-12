@@ -1,0 +1,3 @@
+##### § 46.110 Objectives. #####
+
+EPA awards fellowships to help individuals participate in academic and professional educational opportunities in fields related to pollution control and environmental protection. Fellowships provide support for undergraduate and graduate students, including staff of state, local or Tribal agencies responsible for environmental pollution control and environmental protection.

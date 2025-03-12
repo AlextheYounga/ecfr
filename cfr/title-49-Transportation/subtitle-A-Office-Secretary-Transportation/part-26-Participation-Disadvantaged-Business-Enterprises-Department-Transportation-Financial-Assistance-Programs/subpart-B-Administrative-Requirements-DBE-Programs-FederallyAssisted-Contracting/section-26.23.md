@@ -1,0 +1,3 @@
+##### § 26.23 What is the requirement for a policy statement? #####
+
+You must issue a signed and dated policy statement that expresses your commitment to your DBE program, states its objectives, and outlines responsibilities for its implementation. You must circulate the statement throughout your organization and to the DBE and non-DBE business communities that perform work on your DOT-assisted contracts.

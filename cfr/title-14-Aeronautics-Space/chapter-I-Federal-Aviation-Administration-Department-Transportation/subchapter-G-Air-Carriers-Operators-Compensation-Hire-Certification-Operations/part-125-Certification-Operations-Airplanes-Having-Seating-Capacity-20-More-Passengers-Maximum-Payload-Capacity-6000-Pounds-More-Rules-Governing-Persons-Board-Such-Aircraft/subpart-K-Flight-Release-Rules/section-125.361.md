@@ -1,0 +1,3 @@
+##### § 125.361 Flight release under IFR or over-the-top. #####
+
+Except as provided in § 125.363, no person may release an airplane for operations under IFR or over-the-top unless appropriate weather reports or forecasts, or any combination thereof, indicate that the weather conditions will be at or above the authorized minimums at the estimated time of arrival at the airport or airports to which released.

@@ -1,0 +1,5 @@
+##### § 81.195 Central Michigan Intrastate Air Quality Control Region. #####
+
+The Central Michigan Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Michigan: Allegan County, Arenac County, Bay County, Clare County, Genesee County, Gladwin County, Gratiot County, Huron County, Ionia County, Iosco County, Isabella County, Kent County, Lake County, Lapeer County, Mason County, Mecosta County, Midland County, Montcalm County, Muskegon County, Newaygo County, Oceana County, Ogemaw County, Osceola County, Ottawa County, Roscommon County, Saginaw County, Sanilac County, Shiawassee County, Tuscola County.

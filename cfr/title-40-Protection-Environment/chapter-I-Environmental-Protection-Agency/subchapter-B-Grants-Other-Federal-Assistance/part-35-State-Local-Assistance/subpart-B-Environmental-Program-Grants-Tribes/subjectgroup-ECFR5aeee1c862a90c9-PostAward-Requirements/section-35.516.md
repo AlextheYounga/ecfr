@@ -1,0 +1,3 @@
+##### § 35.516 Direct implementation. #####
+
+If funds for an environmental program remain after Tribal and Intertribal Consortia environmental program grants for that program have been awarded or because no grants were awarded, the Regional Administrator may, subject to any limitations contained in appropriation acts, use all or part of the funds to support a federal program required by law in the absence of an acceptable Tribal program.

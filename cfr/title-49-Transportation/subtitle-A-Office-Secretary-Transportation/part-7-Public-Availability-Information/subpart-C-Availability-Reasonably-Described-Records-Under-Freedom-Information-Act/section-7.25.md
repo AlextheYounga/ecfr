@@ -1,0 +1,5 @@
+##### § 7.25 How does DOT handle first-party requests? #####
+
+(a) DOT processes FOIA requests from first-party requesters in accordance with this regulation. DOT also processes such requests in accordance with the Privacy Act (5 U.S.C. 552a) if the records reside in a Privacy Act system of records (defined in 5 U.S.C. 552a(a)(5) as a system from which information is retrieved by the individual's name or some other personal identifier). Whichever statute provides greater access is controlling.
+
+(b) First party requesters must establish their identity to DOT's satisfaction before DOT will process the request under the Privacy Act. DOT may request that first party requesters authenticate their identity to assist with our evaluation of the application of FOIA exemptions, such as FOIA Exemption 6, 5 U.S.C. 552(b)(6), to the requested records. Acceptable methods of authenticating the requester's identity include those outlined in DOT's Privacy Act regulations at 49 CFR 10.37.

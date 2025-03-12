@@ -1,0 +1,7 @@
+##### § 712.16 DOE security review. #####
+
+(a) A personnel security specialist will perform a personnel security file review of an HRP candidate and HRP-certified individual upon receiving the supervisory review, medical assessment, and management evaluation and recommendation.
+
+(b) If the personnel security file review is favorable, this information must be forwarded to the HRP certifying official. If the review reveals a security concern, or if a security concern is identified during another component of the HRP process, the HRP certifying official must be notified and the security concern evaluated in accordance with the criteria in 10 CFR part 710, subpart A. All security concerns must be resolved according to procedures outlined in 10 CFR part 710, subpart A, rather than through the procedures in this part.
+
+(c) Any mental/personality disorder or behavioral issues found in a personnel security file, which could impact an HRP candidate or HRP-certified individual's ability to perform HRP duties, may be provided in writing to the SOMD, Designated Physician, and Designated Psychologist previously identified for receipt of this information. Medical personnel may not share any information obtained from the personnel security file with anyone who is not an HRP certifying official.

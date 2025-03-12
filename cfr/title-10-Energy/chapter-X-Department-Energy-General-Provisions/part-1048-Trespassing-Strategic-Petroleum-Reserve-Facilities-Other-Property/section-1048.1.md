@@ -1,0 +1,3 @@
+##### § 1048.1 Purpose. #####
+
+The regulations in this part are issued for the protection and security of: (a) The Strategic Petroleum Reserve (SPR), its storage or related facilities, and real property subject to the jurisdiction or administration, or in the custody of DOE under part B, title I of the Energy Policy and Conservation Act, *as amended* (42 U.S.C. 6231-6247) (EPCA); and (b) persons upon the SPR or other property subject to DOE jurisdiction under part B, title I of the EPCA.

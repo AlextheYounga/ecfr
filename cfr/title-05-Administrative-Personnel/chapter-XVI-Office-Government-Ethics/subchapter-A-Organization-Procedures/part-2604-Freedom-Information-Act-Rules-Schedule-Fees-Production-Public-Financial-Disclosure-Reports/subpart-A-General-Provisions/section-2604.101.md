@@ -1,0 +1,3 @@
+##### § 2604.101 Purpose. #####
+
+This part contains the regulations of the U.S. Office of Government Ethics (OGE) implementing the Freedom of Information Act (FOIA), as amended. It describes how any person may obtain records from OGE under the FOIA. It also implements section 105(b)(1) of the Ethics in Government Act of 1978 (Ethics Act), as amended, which authorizes an agency to charge reasonable fees to cover the cost of reproduction and mailing of public financial disclosure reports requested by any person.

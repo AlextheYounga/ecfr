@@ -1,0 +1,3 @@
+##### § 8.5 Periodic evaluation of accreditation bodies. #####
+
+SAMHSA will evaluate periodically the performance of accreditation bodies primarily by inspecting a selected sample of the OTPs accredited by the accrediting body and by evaluating the accreditation body's reports of surveys conducted, to determine whether the OTPs surveyed and accredited by the accreditation body are in compliance with the Federal opioid treatment standards. The evaluation will include a determination of whether there are major deficiencies in the accreditation body's performance that, if not corrected, would warrant withdrawal of the approval of the accreditation body under § 8.6.

@@ -1,0 +1,5 @@
+##### § 652.15 Non-program investment purposes and limitation. #####
+
+(a) Farmer Mac is authorized to hold eligible non-program investments listed under § 652.20 for the purposes of enterprise risk management, including complying with its interest rate risk requirements in § 652.30; complying with its liquidity requirements in § 652.40; managing surplus short-term funds; and complementing program business activities.
+
+(b) Non-program investments cannot exceed 35 percent of program assets and program obligations, excluding 75 percent of the program assets that are guaranteed by the United States Department of Agriculture as described in section 8.0(9)(B) of the Farm Credit Act of 1971, as amended. When calculating the total amount of non-program investments under this section, exclude investments pledged to meet margin requirements on derivative transactions.

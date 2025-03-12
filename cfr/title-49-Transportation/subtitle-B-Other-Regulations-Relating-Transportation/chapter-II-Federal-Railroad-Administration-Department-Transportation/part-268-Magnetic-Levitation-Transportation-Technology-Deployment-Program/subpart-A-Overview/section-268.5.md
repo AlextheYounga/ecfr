@@ -1,0 +1,11 @@
+##### § 268.5 Federal funding sources for the Maglev Deployment Program. #####
+
+(a) *Federal Maglev Funds.* Section 322 of Title 23 provides for the following funds for the Maglev Deployment Program:
+
+(1) *Contract authority.* Fifty-five million has been made available for the Maglev Deployment Program as contract authority from the Highway Trust Fund for Fiscal Years 1999 through 2001; this would be used to fund the competition in all its phases and could also be used for final design, engineering, and construction activities of the selected project. Of the $55 million, the Congress has made available up to $15 million for Fiscal Year 1999, up to $15 million for Fiscal Year 2000, and $25 million for Fiscal Year 2001.
+
+(2) *Authorization for appropriations.* Nine hundred fifty million, also from the Highway Trust Fund, has been authorized to be appropriated for the Maglev Deployment Program for Fiscal Years 2000 through 2003. Of the $950 million, $200 million is authorized to be appropriated for each of Fiscal Years 2000 and 2001, $250 million for Fiscal Year 2002, and $300 million for Fiscal Year 2003. Any decision to proceed with possible Federal funding of the construction of a Maglev system will be contingent upon the receipt of appropriations, and upon completion of appropriate environmental documentation.
+
+(b) *Other Federal funds.* Section 322 of Title 23 provides that the portion of the Maglev project not covered by Federal Maglev Funds may be covered by any non-Federal funding sources—including private (debt and/or equity), State, local, regional, and other public or public/private entities—as well as by Federally-provided STP and CMAQ funds, and by other forms of financial assistance made available under title 23 and TEA 21, such as loans and loan guarantees.
+
+(c) *Costs Incurred in Advance of Cooperative Agreement.* Certain costs incurred in advance of the execution of a cooperative agreement between FRA and the grantee for pre-construction planning but after enactment of TEA 21 (June 9, 1998) will be eligible for reimbursement, but such costs are allowable only to the extent that they are otherwise allowable under the terms of a fully executed cooperative agreement.

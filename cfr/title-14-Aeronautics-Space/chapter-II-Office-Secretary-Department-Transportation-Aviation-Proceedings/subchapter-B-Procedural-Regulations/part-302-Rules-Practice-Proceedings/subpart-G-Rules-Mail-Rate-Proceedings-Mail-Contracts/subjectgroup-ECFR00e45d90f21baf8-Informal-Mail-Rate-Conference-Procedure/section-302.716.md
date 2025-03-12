@@ -1,0 +1,3 @@
+##### § 302.716 Effect of conference agreements. #####
+
+No agreements or understandings reached in rate conferences as to facts or issues shall in any respect be binding on the Department or any participant. Any party to mail rate proceedings will have the same rights to file an answer and take other procedural steps as though no rate conference had been held. The fact, however, that a rate conference was held and certain agreements or understandings may have been reached on certain facts and issues renders it proper to provide that, upon the filing of an answer by any party to the rate proceeding, all issues going to the establishment of a rate shall be open, except insofar as limited in prehearing conference in accordance with § 302.22.

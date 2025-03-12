@@ -1,0 +1,3 @@
+##### § 60.5065 What SSI units are exempt from my state plan? #####
+
+This subpart exempts combustion units that incinerate sewage sludge and are not located at a wastewater treatment facility designed to treat domestic sewage sludge. These units may be subject to another subpart of this part (*e.g.,* subpart CCCC of this part). The owner or operator of such a combustion unit must notify the Administrator of an exemption claim under this section.

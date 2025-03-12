@@ -1,0 +1,3 @@
+##### § 702.60 Purpose. #####
+
+Section 20 of the Toxic Substances Control Act (TSCA) authorizes any person to begin a civil action to compel performance by the Environmental Protection Agency (EPA) of TSCA non-discretionary acts or duties (section 20(a)(2)) or to restrain any violation of TSCA, or of any rule promulgated under sections 4, 5, or 6, or of any order issued under section 5 of TSCA (section 20(a)(1)). The purpose of this regulation is to prescribe procedures governing the giving of a notice of intent to file suit required by section 20(b) of TSCA as a prerequisite to beginning such civil actions.

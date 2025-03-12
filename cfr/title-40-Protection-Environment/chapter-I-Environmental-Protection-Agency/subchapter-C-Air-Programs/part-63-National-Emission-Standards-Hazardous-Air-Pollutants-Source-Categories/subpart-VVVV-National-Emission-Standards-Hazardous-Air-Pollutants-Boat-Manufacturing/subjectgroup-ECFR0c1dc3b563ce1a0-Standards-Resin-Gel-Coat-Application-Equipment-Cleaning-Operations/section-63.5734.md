@@ -1,0 +1,5 @@
+##### § 63.5734 What standards must I meet for resin and gel coat application equipment cleaning operations? #####
+
+(a) For routine flushing of resin and gel coat application equipment (e.g., spray guns, flowcoaters, brushes, rollers, and squeegees), you must use a cleaning solvent that contains no more than 5 percent organic HAP by weight. For removing cured resin or gel coat from application equipment, no organic HAP content limit applies.
+
+(b) You must store organic HAP-containing solvents used for removing cured resin or gel coat in containers with covers. The covers must have no visible gaps and must be in place at all times, except when equipment to be cleaned is placed in or removed from the container. On containers with a capacity greater than 7.6 liters, the distance from the top of the container to the solvent surface must be no less than 0.75 times the diameter of the container. Containers that store organic HAP-containing solvents used for removing cured resin or gel coat are exempt from the requirements of 40 CFR part 63, subpart T. Cured resin or gel coat means resin or gel coat that has changed from a liquid to a solid.

@@ -1,0 +1,3 @@
+##### § 63.980 Applicability. #####
+
+The provisions of this subpart include requirements for closed vent systems, control devices and routing of air emissions to a fuel gas system or process. These provisions apply when another subpart references the use of this subpart for such air emission control. These air emission standards are placed here for administrative convenience and only apply to those owners and operators of facilities subject to a referencing subpart. The provisions of 40 CFR part 63, subpart A (General Provisions) do not apply to this subpart except as specified in a referencing subpart.

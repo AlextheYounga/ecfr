@@ -1,0 +1,7 @@
+##### § 6.202 Interagency cooperation. #####
+
+(a) Consistent with 40 CFR 1501.5, 1501.6, and 1508.5, the Responsible Official will request other appropriate federal and non-federal agencies to be joint lead or cooperating agencies as a means of encouraging early coordination and cooperation with federal agencies, state and local governments, and federally-recognized Indian tribes with jurisdiction by law or special expertise.
+
+(b) For an EPA action related to an action of any other federal agency, the Responsible Official must comply with the requirements of 40 CFR 1501.5 and 1501.6 relating to lead agencies and cooperating agencies, respectively. The Responsible Official will work with the other involved agencies to facilitate coordination and to reduce delay and duplication.
+
+(c) To prepare a single document to fulfill both NEPA and state or local government, or federally-recognized Indian tribe requirements, consistent with 40 CFR 1506.2, the Responsible Official should enter into a written agreement with the involved state or local government, or federally-recognized Indian tribe that sets out the intentions of the parties, including the responsibilities each party intends to assume and procedures the parties intend to follow.

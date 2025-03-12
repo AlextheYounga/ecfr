@@ -1,0 +1,11 @@
+##### § 426.523 Withdrawing a complaint regarding an NCD under review. #####
+
+(a) *Circumstance under which an aggrieved party withdraws a complaint regarding an NCD.* An aggrieved party who filed a complaint regarding an NCD may withdraw the complaint before the Board issues a decision regarding that NCD. The aggrieved party may not file another complaint concerning the same coverage determination for 6 months.
+
+(b) *Process for an aggrieved party withdrawing a complaint regarding an NCD.* To withdraw a complaint regarding an NCD, the aggrieved party who filed the complaint must send a written withdrawal notice to the Board (see § 426.500) and CMS. Supplementing an acceptable complaint with new evidence does not constitute a withdrawal of a complaint, as described in § 426.503.
+
+(c) *Actions the Board must take upon receiving a notice announcing the intent to withdraw a complaint regarding an NCD*—(1) *NCD reviews involving one aggrieved party.* If the Board receives a withdrawal notice regarding an NCD before the date the Board issued a decision regarding that NCD, the Board issues a decision dismissing the complaint under § 426.544 and informs the aggrieved party that he or she may not file another complaint to the same coverage determination for 6 months.
+
+(2) *NCD reviews involving joint complaints.* If the Board receives a notice from an aggrieved party who is named in a joint complaint withdrawing a complaint regarding an NCD before the date the Board issued a decision regarding that NCD, the Board issues a decision dismissing only that aggrieved party from the complaint under § 426.544. The Board continues the NCD review if there is one or more aggrieved party who does not withdraw from the joint complaint.
+
+(3) *Consolidated NCD reviews.* If the Board receives a notice from an aggrieved party who is part of a consolidated NCD review withdrawing a complaint regarding an NCD before the date the Board issued a decision regarding that NCD, the Board removes that aggrieved party from the consolidated NCD review and issues a decision dismissing that aggrieved party's complaint under § 426.544. The Board continues the NCD review if there is one or more aggrieved party who does not withdraw from the joint complaint.

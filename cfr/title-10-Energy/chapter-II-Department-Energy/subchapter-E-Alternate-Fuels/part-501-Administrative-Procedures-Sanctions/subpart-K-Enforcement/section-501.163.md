@@ -1,0 +1,5 @@
+##### § 501.163 OFE evaluation. #####
+
+(a) The record shall consist of the complaint and any supporting documents and all other relevant information developed in the course of any investigations or proceedings related to that complaint. OFE may investigate and corroborate any statement in the complaint or related documents submitted, and may utilize in its evaluation any relevant facts obtained by such investigation or from any other source of information. OFE may solicit or accept submissions from third persons relevant to the complaint or other related documents.
+
+(b) *Confidentiality of information.* OFE will treat as confidential information received in any investigation of a complaint, including the identity of the complainant and the identity of any other persons who provide information to the extent such information is exempt from public disclosure under the Freedom of Information Act, 5 U.S.C. 552. OFE reserves the right to make disclosures that would be in the public interest.

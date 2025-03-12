@@ -1,0 +1,9 @@
+##### § 1040.1 Purpose. #####
+
+(a) The purpose of this part is to implement Title VI of the Civil Rights Act of 1964, Pub. L. 88-352; section 16 of the Federal Energy Administration Act of 1974, as amended, Pub. L. 93-275; section 401 of the Energy Reorganization Act of 1974, Pub. L. 93-438; Title IX of the Education Amendments of 1972, as amended, Pub. L. 92-318, Pub. L. 93-568 and Pub. L. 94-482; section 504 of the Rehabilitation Act of 1973, as amended, Pub. L. 93-112; the Age Discrimination Act of 1975, Pub. L. 94-135; Title VIII of the Civil Rights Act of 1968, Pub. L. 90-284; and civil rights provisions of statutes administered pursuant to authority under the DOE Organization Act, Pub. L. 95-91, so no person shall, on the ground of race, color, national origin, sex (when covered by section 16 and section 401), handicap, or age, be excluded from participation in, be denied the benefits of, be subjected to discrimination under, or be denied employment, where a primary purpose of the Federal financial assistance is to provide employment or when the delivery of services is affected by the recipient's employment practices (under section 504, all grantee and subgrantee employment practices are covered regardless of the purpose of the program), in connection with any program or activity receiving Federal financial assistance from the Department of Energy (after this referred to as DOE or the Department). Employment coverage may be broader in scope when section 16, section 401, or Title IX are applicable.
+
+(b) DOE regulations on enforcement of nondiscrimination on the basis of handicap in programs or activities conducted by DOE are in part 1041 of this chapter.
+
+(c) DOE regulations on enforcement of nondiscrimination on the basis of sex, under Title IX of the Education Act Amendments of 1972, as amended, are in part 1042 of this chapter.
+
+[45 FR 40515, June 13, 1980, as amended at 66 FR 4630, Jan. 18, 2001; 68 FR 51346, Aug. 26, 2003]

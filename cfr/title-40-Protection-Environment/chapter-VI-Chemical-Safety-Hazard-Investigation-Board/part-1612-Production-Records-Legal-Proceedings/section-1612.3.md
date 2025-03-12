@@ -1,0 +1,5 @@
+##### § 1612.3 Published reports and material contained in the public incident investigation dockets. #####
+
+(a) Demands for published investigation reports should be directed to the Office of Congressional and Public Affairs, U.S. Chemical Safety and Hazard Investigation Board, 2175 K Street, NW, Suite 400, Washington, DC 20037. Demands for material contained in the CSB's official public docket files of its incident investigations shall be submitted, in writing, to CSB Records Officer, U.S. Chemical Safety and Hazard Investigation Board, 2175 K Street, NW, Suite 400, Washington, DC 20037. For information regarding the types of documents routinely issued by the CSB, see part 1601 of this chapter.
+
+(b) No subpoena shall be issued to obtain materials subject to this section, and any subpoena issued shall be required to be withdrawn prior to release of the requested information. Payment of reproduction fees may be required in advance.

@@ -1,0 +1,3 @@
+##### § 142.29 Inspections. #####
+
+Each certificate holder must allow the Administrator to inspect training center facilities, equipment, and records at any reasonable time and in any reasonable place in order to determine compliance with or to determine initial or continuing eligibility under 49 U.S.C. 44701, 44707, formerly the Federal Aviation Act of 1958, as amended, and the training center's certificate and training specifications.

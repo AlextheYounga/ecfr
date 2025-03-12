@@ -1,0 +1,3 @@
+##### § 124.7 Statement of basis. #####
+
+EPA shall prepare a statement of basis for every draft permit for which a fact sheet under § 124.8 is not prepared. The statement of basis shall briefly describe the derivation of the conditions of the draft permit and the reasons for them or, in the case of notices of intent to deny or terminate, reasons supporting the tentative decision. The statement of basis shall be sent to the applicant and, on request, to any other person.

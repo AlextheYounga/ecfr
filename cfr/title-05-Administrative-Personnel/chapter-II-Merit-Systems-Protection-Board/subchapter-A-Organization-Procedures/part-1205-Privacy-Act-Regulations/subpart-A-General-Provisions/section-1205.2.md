@@ -1,0 +1,3 @@
+##### § 1205.2 Policy and scope. #####
+
+The Board's policy is to apply these regulations to all records that can be retrieved from a system of records under the Board's control by using an individual's name or by using a number, symbol, or other way to identify the individual. These regulations, however, do not govern the rights of the parties in adversary proceedings before the Board to obtain discovery from adverse parties; those rights are governed by part 1201 and part 1209 of this chapter. These regulations also are not meant to allow the alteration, either before or after the Board has issued a decision on an appeal, of evidence presented during the Board's adjudication of the appeal.

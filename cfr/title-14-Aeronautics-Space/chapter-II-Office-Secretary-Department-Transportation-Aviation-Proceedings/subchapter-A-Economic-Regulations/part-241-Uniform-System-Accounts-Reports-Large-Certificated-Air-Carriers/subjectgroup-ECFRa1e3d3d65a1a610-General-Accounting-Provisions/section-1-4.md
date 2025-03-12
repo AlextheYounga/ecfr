@@ -1,0 +1,7 @@
+##### Sec. 1-4 System of accounts coding. #####
+
+(a) A four digit control number is assigned for each balance sheet and profit and loss account. Each balance sheet account is numbered sequentially, within blocks, designating basic balance sheet classifications. The first two digits of the four digit code assigned to each profit and loss account denote a detailed area of financial activity or functional operation. The first two digits, thus assigned to each profit and loss account, are numbered sequentially within blocks, designating more general classifications of financial activity and functional operation. The second two digits assigned to profit and loss accounts denote objective classifications.
+
+(b) A fifth digit, appended as a decimal, has been assigned for internal control by the BTS of prescribed subdivisions of the primary objective balance sheet and profit and loss classifications. A different fifth digit code number from that assigned by the BTS may be adopted for internal recordkeeping by the air carrier provided the prescribed subclassification of objective accounts is not impaired and the code number assigned by the BTS is employed in reporting to the BTS on Form 41 Reports.
+
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995]

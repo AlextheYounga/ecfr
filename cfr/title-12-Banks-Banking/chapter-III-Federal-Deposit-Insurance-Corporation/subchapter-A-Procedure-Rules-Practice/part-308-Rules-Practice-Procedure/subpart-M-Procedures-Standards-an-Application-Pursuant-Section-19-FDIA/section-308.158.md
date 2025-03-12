@@ -1,0 +1,9 @@
+##### § 308.158 Filing papers and effective date. #####
+
+(a) *Filing with the regional office.* Applications pursuant to section 19 shall be filed by in the appropriate regional office. Unless a waiver has been granted pursuant to paragraph (c) of this section, only an insured depository institution may file an application. Persons meeting the de minimis criteria set forth in the FDIC's Statement of Policy on Section 19 of the FDIA (63 FR 66177 (1998)) need not file an application.
+
+(b) *Effective date.* An application pursuant to section 19 may be made in writing at any time more than one year after the issuance of a decision denying an application pursuant to section 19. The removal and/or prohibition pursuant to section 19 shall continue until the individual has been reinstated by the Board of Directors or its designee for good cause shown.
+
+(c) *Waiver applications.* If an institution does not file an application regarding an individual, the individual may file a request for a waiver of the institution filing requirement for section 19 of the FDIA. Such a waiver application shall be filed with the appropriate regional office and shall set forth substantial good cause why the application should be granted. The Director of the Division of Supervision and Consumer Protection (DSC) and, where confirmed in writing by the director, a deputy director or an associate director may grant or deny applications requesting waivers of the institution filing requirement. The authority delegated under this section shall be exercised only upon the concurrent certification of the General Counsel or his designee that the action to be taken is not inconsistent with section 19 of the FDIA.
+
+[64 FR 62101, Nov. 16, 1999]

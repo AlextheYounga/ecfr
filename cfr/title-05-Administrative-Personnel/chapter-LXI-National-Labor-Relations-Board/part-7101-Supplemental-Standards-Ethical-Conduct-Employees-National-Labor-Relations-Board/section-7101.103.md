@@ -1,0 +1,3 @@
+##### § 7101.103 Standard for accomplishing disqualification; disqualifying financial interest. #####
+
+An NLRB employee who is required, in accordance with 5 CFR 2635.402(c), to disqualify himself from participation in a particular matter to which he has been assigned shall, notwithstanding the guidance in 5 CFR 2635.402(c) (1) and (2), provide written notice of disqualification to his or her supervisor upon determining that he or she will not participate in the matter.

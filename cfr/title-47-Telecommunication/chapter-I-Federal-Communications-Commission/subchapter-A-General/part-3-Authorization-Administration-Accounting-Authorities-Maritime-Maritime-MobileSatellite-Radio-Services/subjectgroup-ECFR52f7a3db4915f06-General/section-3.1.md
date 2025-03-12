@@ -1,0 +1,3 @@
+##### § 3.1 Scope, basis, purpose. #####
+
+By these rules the Federal Communications Commission (FCC) is delineating its responsibilities in certifying and monitoring accounting authorities in the maritime mobile and maritime mobile-satellite radio services. These entities settle accounts for public correspondence due to foreign administrations for messages transmitted at sea by or between maritime mobile stations located on board ships subject to U.S. registry and utilizing foreign coast and coast earth station facilities. These rules are intended to ensure that settlements of accounts for U.S. licensed ship radio stations are conducted in accordance with the International Telecommunication Regulations (ITR), taking into account the applicable ITU-T Recommendations.

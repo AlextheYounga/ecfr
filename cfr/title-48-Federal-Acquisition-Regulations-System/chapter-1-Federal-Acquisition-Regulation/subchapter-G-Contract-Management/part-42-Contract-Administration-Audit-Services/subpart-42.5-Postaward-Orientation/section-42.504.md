@@ -1,0 +1,3 @@
+##### 42.504 Postaward letters. #####
+
+In some circumstances, a letter or other written form of communication to the contractor may be adequate postaward orientation (in lieu of a conference). The letter should identify the Government representative responsible for administering the contract and cite any unusual or significant contract requirements. The rules on changes to the contract in 42.503-2 also apply here.

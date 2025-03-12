@@ -1,0 +1,3 @@
+##### § 510.1 Scope and purpose. #####
+
+This rule governs the use of the information gathering powers of the National Highway Traffic Safety Administration contained in section 112 of the National Traffic and Motor Vehicle Safety Act of 1966, as amended 15 U.S.C. 1401, and sections 104, 204, 414, and 505 of the Motor Vehicle Information and Cost Savings Act, as amended 15 U.S.C. 1914, 1944, 1990d, and 2005.

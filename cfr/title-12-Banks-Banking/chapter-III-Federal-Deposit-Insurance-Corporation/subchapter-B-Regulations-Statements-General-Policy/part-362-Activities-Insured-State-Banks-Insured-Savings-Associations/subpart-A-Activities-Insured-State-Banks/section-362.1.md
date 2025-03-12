@@ -1,0 +1,17 @@
+##### § 362.1 Purpose and scope. #####
+
+(a) This subpart, along with the notice and application procedures in subpart G of part 303 of this chapter, implements the provisions of section 24 of the Federal Deposit Insurance Act (12 U.S.C. 1831a) that restrict and prohibit insured State banks and their subsidiaries from engaging in activities and investments that are not permissible for national banks and their subsidiaries. The phrase “activity permissible for a national bank” means any activity authorized for national banks under any statute including the National Bank Act (12 U.S.C. 21 *et seq.*), as well as activities recognized as permissible for a national bank in regulations, official circulars, bulletins, orders or written interpretations issued by the Office of the Comptroller of the Currency (OCC).
+
+(b) This subpart does not cover the following activities:
+
+(1) Activities conducted other than “as principal,” defined for purposes of this subpart as activities conducted as agent for a customer, conducted in a brokerage, custodial, advisory, or administrative capacity, or conducted as trustee, or in any substantially similar capacity. For example, this subpart does not cover acting solely as agent for the sale of insurance, securities, real estate, or travel services; nor does it cover acting as trustee, providing personal financial planning advice, or safekeeping services;
+
+(2) Interests in real estate in which the real property is used or intended in good faith to be used within a reasonable time by an insured State bank or its subsidiaries as offices or related facilities for the conduct of its business or future expansion of its business or used as public welfare investments of a type permissible for national banks; and
+
+(3) Equity investments acquired in connection with debts previously contracted (DPC) if the insured State bank does not hold the property for speculation and takes only such actions as would be permissible for a national bank's DPC. The bank must dispose of the property within the shorter of the period set by Federal law for national banks or the period allowed under State law. For real estate, national banks may not hold DPC for more than 10 years. For equity securities, national banks must generally divest DPC as soon as possible consistent with obtaining a reasonable return.
+
+(c) A subsidiary of an insured state bank may not engage in real estate investment activities that are not permissible for a subsidiary of a national bank unless the bank does so through a subsidiary of which the bank is a majority owner, is in compliance with applicable capital standards, and the FDIC has determined that the activity poses no significant risk to the appropriate deposit insurance fund. This subpart provides standards for majority-owned subsidiaries of insured state banks engaging in real estate investment activities that are not permissible for a subsidiary of a national bank.
+
+(d) The FDIC intends to allow insured State banks and their subsidiaries to undertake only safe and sound activities and investments that do not present significant risks to the Deposit Insurance Fund and that are consistent with the purposes of Federal deposit insurance and other applicable law. This subpart does not authorize any insured State bank to make investments or to conduct activities that are not authorized or that are prohibited by either State or Federal law.
+
+[63 FR 66326, Dec. 1, 1998, as amended at 66 FR 1028, Jan. 5, 2001; 71 FR 20527, Apr. 21, 2006]

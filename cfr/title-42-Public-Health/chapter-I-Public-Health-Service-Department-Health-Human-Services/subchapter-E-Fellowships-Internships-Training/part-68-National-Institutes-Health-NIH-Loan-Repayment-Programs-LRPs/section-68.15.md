@@ -1,0 +1,3 @@
+##### § 68.15 When can an NIH LRP payment obligation be discharged in bankruptcy? #####
+
+Any payment obligation incurred under § 68.13 of this part may be discharged in bankruptcy under Title 11 of the United States Code only if such discharge is granted after the expiration of the seven-year period beginning on the first date that payment is required and only if the bankruptcy court finds that a non-discharge of the obligation would be unconscionable.

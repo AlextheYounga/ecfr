@@ -1,0 +1,9 @@
+##### 2116.270 FEGLI Program contracts. #####
+
+FEGLI Program contracts are fixed price with limited cost redetermination plus fixed fee. The premium paid to the Contractor is mutually agreed upon by OPM and the Contractor and is based on an estimate of benefits and administrative costs, plus the fixed service or risk charge, and is determined annually. Claims costs, including benefits and administrative expenses, in excess of premiums are paid up to the amount in the Employees' Life Insurance Fund. Payment for costs exceeding the amount in the Fund are the responsibility of the Contractor and reinsurers. The fee is fixed at the inception of each contract year. The fee does not vary with the actual costs but may be adjusted as a result of changes in the work to be performed under the contract. The fee is in the form of either a risk charge or a service charge.
+
+(a) *Risk charge.* The risk charge will be determined as prescribed in 5 U.S.C. 8711(d) and section 2115.404-70 of this chapter. It will consist of a negotiated amount which will reflect the risk assumed by the Contractor and the reinsurers and may be adjusted as a result of increased or decreased risk under the contract. When the applicable fee is a risk charge, no service charge will be paid for the same period of time.
+
+(b) *Service charge.* The amount of the service charge will be determined using a weighted guidelines structured approach in accordance with section 2115.404-71 of this chapter and negotiated with the Contractor at the beginning of the contract term. When the applicable fee is a service charge, no risk charge will be paid for the same period of time.
+
+[70 FR 41152, July 18, 2005]

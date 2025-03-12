@@ -1,0 +1,3 @@
+##### § 585.4 Petitions to extend period to file report. #####
+
+A petition for extension of the time to submit a report required under this part shall be received not later than 15 days before the report is due. The petition shall be submitted to: Administrator, National Highway Traffic Safety Administration, 400 Seventh Street, SW., Washington, DC 20590. The filing of a petition does not automatically extend the time for filing a report. A petition will be granted only if the petitioner shows good cause for the extension, and if the extension is consistent with the public interest.

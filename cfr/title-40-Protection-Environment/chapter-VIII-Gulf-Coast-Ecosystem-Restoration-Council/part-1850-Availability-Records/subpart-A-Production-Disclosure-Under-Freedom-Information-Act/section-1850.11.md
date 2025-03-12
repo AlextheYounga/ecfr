@@ -1,0 +1,7 @@
+##### § 1850.11 Requests for confidential treatment of business information. #####
+
+(a) *Submission of request.* Any submitter of information to the Council who desires confidential treatment of business information pursuant to 5 U.S.C. 552(b)(4) shall file a request for confidential treatment with the Council at the time the information is submitted or within a reasonable time after submission. These designations will expire ten years after the date of submission unless the submitter requests, and provides justification for, a longer period.
+
+(b) *Form of request.* Each request for confidential treatment of business information shall state in reasonable detail the facts supporting the commercial or financial nature of the business information and the legal justification under which the business information should be protected. Conclusory statements indicating that release of the information would cause competitive harm generally are not sufficient to justify confidential treatment.
+
+(c) *Designation and separation of confidential material.* A submitter shall clearly mark all information it considers confidential as “PROPRIETARY” or “BUSINESS CONFIDENTIAL” in the submission and shall separate information so marked from other information submitted. Failure by the submitter to segregate confidential commercial or financial information from other material may result in release of the nonsegregated material to the public without notice to the submitter.

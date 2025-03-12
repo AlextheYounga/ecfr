@@ -1,0 +1,5 @@
+##### § 25.1505 Maximum operating limit speed. #####
+
+The maximum operating limit speed (*V*MO/*M*MO airspeed or Mach Number, whichever is critical at a particular altitude) is a speed that may not be deliberately exceeded in any regime of flight (climb, cruise, or descent), unless a higher speed is authorized for flight test or pilot training operations. *V*MO/*M*MO must be established so that it is not greater than the design cruising speed *V*C and so that it is sufficiently below *V*D/*M*D or *V*DF/*M*DF, to make it highly improbable that the latter speeds will be inadvertently exceeded in operations. The speed margin between *V*MO/*M*MO and *V*D/*M*D or *V*DF*M/*DF may not be less than that determined under § 25.335(b) or found necessary during the flight tests conducted under § 25.253.
+
+[Amdt. 25-23, 35 FR 5680, Apr. 8, 1970]

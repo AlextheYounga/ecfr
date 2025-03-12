@@ -1,0 +1,3 @@
+##### § 1800.10 Purpose. #####
+
+This subpart establishes that up to the statutory minimum allocation (five percent) is available under the Spill Impact Component of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012 (RESTORE Act) (Pub. L. 112-141, 126 Stat. 405, 588-607) for planning purposes associated with development of a State Expenditure Plan.

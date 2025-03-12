@@ -1,0 +1,3 @@
+##### § 236.301 Where signals shall be provided. #####
+
+Signals shall be provided to govern train movements into and through interlocking limits, except that a signal shall not be required to govern movements over a hand-operated switch into interlocking limits if the switch is provided with an electric lock and a derail at the clearance point, either pipe-connected to the switch or independently locked, electrically. Electric locks installed under this rule must conform to the time and approach locking requirements of Rule 314 (without reference to the 20-mile exceptions), and those of either Rule 760 or Rule 768, as may be appropriate.

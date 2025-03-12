@@ -1,0 +1,5 @@
+##### § 202.23 Visual tire inspection. #####
+
+No motor carrier subject to these regulations shall at any time operate any motor vehicle of a type to which this regulation is applicable on a tire or tires having a tread pattern which as originally manufactured, or as newly retreaded, is composed primarily or cavities in the tread (excluding sipes and local chunking) which are not vented by grooves to the tire shoulder or circumferentially to each other around the tire. This § 202.23 shall not apply to any motor vehicle which is demonstrated by the motor carrier which operates it to be in compliance with the noise emission standard specified for operations on highways with speed limits of more than 35 MPH in § 202.20 of this Subpart B, if the demonstration is conducted at the highway speed limit in effect at the inspection location, or, if speed is unlimited, the demonstration is conducted at a speed of 65 MPH.
+
+[39 FR 38215, Oct. 29, 1974]

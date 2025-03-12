@@ -1,0 +1,3 @@
+##### § 1.42 Office of Small and Disadvantaged Business Utilization. #####
+
+The Director of the Office of Small and Disadvantaged Business Utilization ensures that the Department's small and disadvantaged business policies and programs are developed in a fair, efficient, and effective manner. The Office is responsible for the Department's implementation and execution of the functions and duties under the Small Business Act, and providing opportunities, technical assistance, and financial services to the small and disadvantaged business community.

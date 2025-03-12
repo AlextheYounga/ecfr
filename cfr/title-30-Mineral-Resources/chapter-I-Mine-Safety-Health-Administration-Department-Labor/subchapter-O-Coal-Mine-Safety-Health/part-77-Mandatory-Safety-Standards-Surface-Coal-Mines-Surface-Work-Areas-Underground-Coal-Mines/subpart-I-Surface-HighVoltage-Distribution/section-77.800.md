@@ -1,0 +1,3 @@
+##### § 77.800 High-voltage circuits; circuit breakers. #####
+
+High-voltage circuits supplying power to portable or mobile equipment shall be protected by suitable circuit breakers of adequate interrupting capacity which are properly tested and maintained and equipped with devices to provide protection against under voltage, grounded phase, short circuit and overcurrent. High-voltage circuits supplying power to stationary equipment shall be protected against overloads by either a circuit breaker or fuses of the correct type and capacity.

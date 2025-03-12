@@ -1,0 +1,3 @@
+##### § 221.3 Applicant. #####
+
+Any person may apply for a permit under this subchapter H even though the proposed dumping may be carried on by a permittee who is not the applicant; provided however, that the Administrator or the Regional Administrator, as the case may be, may, in his discretion, require that an application be filed by the person or firm producing or processing the material proposed to be dumped. Issuance of a permit will not excuse the permittee from any civil or criminal liability which may attach by virtue of his having transported or dumped materials in violation of the terms or conditions of a permit, notwithstanding that the permittee may not have been the applicant.

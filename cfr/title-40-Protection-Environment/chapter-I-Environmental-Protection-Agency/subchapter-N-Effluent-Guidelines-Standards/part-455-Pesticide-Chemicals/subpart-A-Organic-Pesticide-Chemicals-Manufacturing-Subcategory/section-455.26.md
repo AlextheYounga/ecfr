@@ -1,0 +1,5 @@
+##### § 455.26 Pretreatment standards for existing sources (PSES). #####
+
+Except as provided in 40 CFR 403.7, any existing source subject to this subpart which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the pretreatment standards for existing sources (PSES) as specified in 40 CFR 455.20(d). For the priority pollutants, such sources must achieve discharges not exceeding the quantity (mass) determined by multiplying the process wastewater flow subject to this subpart as defined in 40 CFR 455.21(d) times the concentrations listed in Table 6 of this part. If mass limitations have not been developed as required, the source shall achieve discharges not exceeding the concentration limitations listed in Table 6 of this part.
+
+[58 FR 50690, Sept. 28, 1993]

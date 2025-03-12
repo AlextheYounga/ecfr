@@ -1,0 +1,3 @@
+##### § 198.63 How may a State with an inadequate damage prevention enforcement program seek reconsideration by PHMSA? #####
+
+At any time following a finding of inadequacy, the State may petition PHMSA to reconsider such finding based on changed circumstances including improvements in the State's enforcement program. Upon receiving a petition, PHMSA will reconsider its finding of inadequacy promptly and will notify the State of its decision on reconsideration promptly but no later than the time of the next annual certification review.

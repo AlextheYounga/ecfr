@@ -1,0 +1,3 @@
+##### § 571.40 Scope. #####
+
+Subpart E of this part applies to savings associations whose deposits are insured by the Federal Deposit Insurance Corporation or, in accordance with § 559.3(h)(1) of this chapter, Federal savings association operating subsidiaries that are not functionally regulated within the meaning of section 5(c)(5) of the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1844(c)(5)).

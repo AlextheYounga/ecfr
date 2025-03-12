@@ -1,0 +1,5 @@
+##### § 273.52 Waste management. #####
+
+(a) A universal waste transporter must comply with all applicable U.S. Department of Transportation regulations in 49 CFR part 171 through 180 for transport of any universal waste that meets the definition of hazardous material in 49 CFR 171.8. For purposes of the Department of Transportation regulations, a material is considered a hazardous waste if it is subject to the Hazardous Waste Manifest Requirements of the U.S. Environmental Protection Agency specified in 40 CFR part 262. Because universal waste does not require a hazardous waste manifest, it is not considered hazardous waste under the Department of Transportation regulations.
+
+(b) Some universal waste materials are regulated by the Department of Transportation as hazardous materials because they meet the criteria for one or more hazard classes specified in 49 CFR 173.2. As universal waste shipments do not require a manifest under 40 CFR 262, they may not be described by the DOT proper shipping name “hazardous waste, (l) or (s), n.o.s.”, nor may the hazardous material's proper shipping name be modified by adding the word “waste”.

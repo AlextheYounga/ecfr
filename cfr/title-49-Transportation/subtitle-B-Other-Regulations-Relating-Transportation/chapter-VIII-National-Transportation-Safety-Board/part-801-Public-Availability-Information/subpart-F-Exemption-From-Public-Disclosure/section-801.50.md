@@ -1,0 +1,3 @@
+##### § 801.50 Exemptions from disclosure. #####
+
+Title 5, United States Code section 552(a) and (b) exempt certain records from public disclosure. As stated in § 801.2 of this title, the NTSB may choose to make a discretionary release of a record that is authorized to be withheld under 5 U.S.C. 552(b), unless it determines that the release of that record would be inconsistent with the purpose of the exemption concerned. Examples of records given in §§ 801.51 through 801.58 included within a particular statutory exemption are not necessarily illustrative of all types of records covered by the applicable exemption.

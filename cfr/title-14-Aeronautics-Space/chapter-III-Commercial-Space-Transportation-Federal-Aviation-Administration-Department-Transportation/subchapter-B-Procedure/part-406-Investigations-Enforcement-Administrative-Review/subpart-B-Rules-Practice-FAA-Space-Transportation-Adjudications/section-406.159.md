@@ -1,0 +1,9 @@
+##### § 406.159 Subpoenas. #####
+
+(a) *Request for subpoena.* A party may obtain from the administrative law judge a subpoena to compel the attendance of a witness at a deposition or hearing or to require the production of documents or tangible items. The administrative law judge must deliver the subpoena, signed by the administrative law judge but otherwise in blank, to the party. The party must complete the subpoena, stating the title of the action and the date and time for the witness' attendance or production of documents or items. The party who obtained the subpoena must serve the subpoena on the witness.
+
+(b) *Motion to quash or modify the subpoena.* A party, or any person upon whom a subpoena has been served, may file a motion to quash or modify the subpoena at or before the time specified in the subpoena for compliance. The applicant must describe, in detail, the basis for the motion to quash or modify the subpoena including, but not limited to, a statement that the testimony, document, or tangible evidence is not relevant to the proceeding, that the subpoena is not reasonably tailored to the scope of the proceeding, or that the subpoena is unreasonable and oppressive. A motion to quash or modify the subpoena will stay the effect of the subpoena pending a decision by the administrative law judge on the motion.
+
+(c) *Enforcement of subpoena.* Upon a showing that a person has failed or refused to comply with a subpoena, the Secretary may apply to the appropriate district court of the United States to seek enforcement of the subpoena in accordance with 51 U.S.C. 50917(c). A party may request the Secretary to seek such enforcement.
+
+[Doc. No. FAA-2001-8607, 66 FR 2180, Jan. 10, 2001, as amended by Amdt. 406-7, 77 FR 20533, Apr. 5, 2012]

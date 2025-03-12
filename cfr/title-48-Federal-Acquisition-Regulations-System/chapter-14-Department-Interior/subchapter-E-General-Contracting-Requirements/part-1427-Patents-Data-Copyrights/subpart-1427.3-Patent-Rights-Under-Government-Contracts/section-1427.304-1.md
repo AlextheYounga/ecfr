@@ -1,0 +1,15 @@
+##### 1427.304-1 General. #####
+
+(a)(1) *Exceptions.* The Associate Solicitor for the General Law Division shall issue a decision on the appeal of a small business concern or nonprofit organization of the use of exceptions under FAR 27.303(e)(1).
+
+(2) If the Associate Solicitor for the General Law Division determines that the appeal notice raises a genuine dispute over the material facts, a fact-finding hearing shall be conducted by OHA. The hearing shall be conducted at a location convenient to the parties concerned as determined by the Director, OHA, and on a date and time stated. The contractor may be represented by counsel or any duly authorized representative. Witnesses may be called by either party. The proceedings shall be conducted expeditiously and in such a manner that each party will have a full opportunity to present all information considered pertinent to the determination. A transcribed record of the proceedings shall be made and shall be made available at cost to the contractor upon request, unless the requirement for the transcribed record is waived by mutual agreement of the contractor and OHA.
+
+(3) OHA shall prepare written findings of fact and transmit them to the Associate Solicitor for the General Law Division.
+
+(4) OHA may hear oral arguments after fact-finding provided that the contractor, its counsel or other duly authorized representative, is present in order to have the opportunity to make arguments and rebuttal. The Associate Solicitor for the General Law Division shall issue a decision.
+
+(b) *Greater rights determinations.* Determinations on requests for greater rights in subject inventions by contractors shall be made by the HCA after consultation with the Assistant Solicitor for Acquisitions and Intellectual Property. Appeals of such determinations shall be made to the CBCA.
+
+(c) *Exercise of march-in-rights.* After notification to the contractor of information warranting the exercise of march-in rights, the CO shall prepare a written notice to the contractor after consultation with the Assistant Solicitor for Acquisitions and Intellectual Property. The notice shall be prepared and signed by the Associate Solicitor for the General Law Division. Within the time constraints, if the Associate Solicitor for the General Law Division determines any information submitted by the contractor (assignee or exclusive licensee) after notice of march-in is received raises a genuine dispute over material facts, a fact-finding hearing shall be conducted by OHA. The Associate Solicitor for the General Law Division shall issue a final determination, after consideration of any further written or oral arguments from the parties. An unfavorable determination to a contractor (assignee or exclusive licensee) shall be subject to appeal.
+
+(d) *Licenses and assignments under contracts with nonprofit organizations.* COs may approve contractor requests for assignment of rights or exclusive licenses after obtaining the advice of the Assistant Solicitor for Acquisitions and Intellectual Property. Solicitations containing FAR clause 52.227-11 shall state that contractors should forward such requests to the CO.

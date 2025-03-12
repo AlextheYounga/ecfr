@@ -1,0 +1,9 @@
+##### Sec. 2-1 Generally accepted accounting principles. #####
+
+(a) The accounting provisions contained in this part are based on generally accepted accounting principles (GAAP). Persons subject to this part are authorized to implement, as prescribed by the Financial Accounting Standards Board, newly issued GAAP pronouncements until and unless the Director, Office of Airline Information (OAI), issues an Accounting Directive making an initial determination that implementation of a new pronouncement would adversely affect the Department's programs.
+
+(b) The Director, OAI, shall review each newly issued GAAP pronouncement to determine its affect on the Department's regulatory programs. If adopting a specific change in GAAP would adversely affect the Department's programs, the Director will issue the results of the review in the form of an Accounting Directive. The directive will state the reasons why the particular change should not be incorporated in the uniform system of accounts and contain accounting guidance for maintaining the integrity of the Department's air carrier accounting provisions.
+
+(c) Objections and comments relating to the Department's decision not to implement a change in generally accepted principles may be addressed to Director, Office of Airline Information, K-25, U.S. Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590. If significant objections are raised urging adoption of a particular GAAP pronouncement, the Department will institute a rulemaking.
+
+[[Amdt. 241-58, 54 FR 5592, Feb. 6, 1989, as amended at 60 FR 66723, Dec. 26, 1995]

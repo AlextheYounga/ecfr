@@ -1,0 +1,3 @@
+##### 9904.404.20 Purpose. #####
+
+This Standard requires that, for purposes of cost measurement, contractors establish and adhere to policies with respect to capitalization of tangible assets which satisfy criteria set forth herein. Normally, cost measurements are based on the concept of enterprise continuity; this concept implies that major asset acquisitions will be capitalized, so that the cost applicable to current and future accounting periods can be allocated to cost objectives of those periods. A capitalization policy in accordance with this Standard will facilitate measurement of costs consistently over time.

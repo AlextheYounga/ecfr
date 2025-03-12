@@ -1,0 +1,3 @@
+##### § 1.1027 Specimens. #####
+
+Where a request for deferment of publication has been filed in respect of a two-dimensional industrial design, the international design application may include specimens of the design in accordance with Rule 10 and Part Four of the Administrative Instructions. Specimens are not permitted in an international design application that designates the United States or any other Contracting Party which does not permit deferment of publication.

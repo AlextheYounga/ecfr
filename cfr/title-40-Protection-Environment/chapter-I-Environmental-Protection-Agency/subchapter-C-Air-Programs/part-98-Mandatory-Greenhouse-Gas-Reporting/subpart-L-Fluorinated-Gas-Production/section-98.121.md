@@ -1,0 +1,3 @@
+##### § 98.121 Reporting threshold. #####
+
+You must report GHG emissions under this subpart if your facility contains a fluorinated gas production process that generates or emits fluorinated GHG and the facility meets the requirements of either § 98.2(a)(1) or (a)(2). To calculate GHG emissions for comparison to the 25,000 metric ton CO2e per year emission threshold in § 98.2(a)(2), calculate process emissions from fluorinated gas production using uncontrolled GHG emissions.

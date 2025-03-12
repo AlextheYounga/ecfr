@@ -1,0 +1,7 @@
+##### § 250.1618 Application for permit to modify. #####
+
+(a) You must submit requests for changes in plans, changes in major drilling equipment, proposals to deepen, sidetrack, complete, workover, or plug back a well, or engage in similar activities to the District Manager on Form BSEE-0124, Application for Permit to Modify (APM). The submission of your APM must be accompanied by payment of the service fee listed in § 250.125. Before starting operations associated with the change, you must receive written approval from the District Manager unless you received oral approval under § 250.140.
+
+(b) The Form BSEE-0124 submittal shall contain a detailed statement of the proposed work that will materially change from the work described in the approved APD. Information submitted shall include the present state of the well, including the production liner and last string of casing, the well depth and production zone, and the well's capability to produce. Within 30 days after completion of the work, a subsequent detailed report of all the work done and the results obtained shall be submitted.
+
+(c) Public information copies of Form BSEE-0124 shall be submitted in accordance with § 250.186 of this part.

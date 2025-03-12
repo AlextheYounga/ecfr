@@ -1,0 +1,5 @@
+##### § 581.31 Overriding royalties. #####
+
+(a) Subject to the approval of the Secretary, an overriding royalty interest may be created by an assignment pursuant to section 8(e) of the Act. The Secretary may deny approval of an assignment which creates an overriding royalty on a lease whenever that denial is determined to be in the interest of conservation, necessary to prevent premature abandonment of a producing mine, or to make possible the mining of economically marginal or low-grade ore deposits. In any case, the total of applicable overriding royalties may not exceed 2.5 percent or one-half the base royalty due the Federal Government, whichever is less.
+
+(b) No transfer or agreement may be made which creates an overriding royalty interest unless the owner of that interest files an agreement in writing that such interest is subject to the limitations provided in § 581.30 of this part, paragraph (a) of this section, and § 581.32 of this part.

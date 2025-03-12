@@ -1,0 +1,7 @@
+##### § 730.11 Inconsistent and more stringent State laws and regulations. #####
+
+(a) No State law or regulation shall be superseded by any provision of the Act or the regulations of this chapter, except to the extent that the State law or regulation is inconsistent with, or precludes implementation of, requirements of the Act or this chapter. The Director shall publish a notice of proposed action in the Federal Register setting forth the text or a summary of any State law or regulation initially determined by him to be inconsistent with the Act or this chapter. The notice shall provide 30 days for public comment. Following the close of the public comment period, the Director shall make a final determination which shall be published in the Federal Register.
+
+(b) Any State law or regulation which provides for more stringent land use and environmental controls and regulations of coal exploration and surface coal mining and reclamation operations than do the provisions of the Act and this chapter, or which provides for the control and regulation of coal exploration and surface coal mining and reclamation operations for which no provision is contained in the Act or this chapter, shall not be construed to be inconsistent with the Act or this chapter.
+
+[44 FR 15323, Mar. 13, 1979, as amended at 47 FR 26364, June 17, 1982]

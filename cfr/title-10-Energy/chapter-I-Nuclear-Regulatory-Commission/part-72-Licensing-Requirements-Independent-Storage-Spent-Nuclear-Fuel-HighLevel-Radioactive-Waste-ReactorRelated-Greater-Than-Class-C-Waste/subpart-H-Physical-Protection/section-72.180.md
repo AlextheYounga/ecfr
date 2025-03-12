@@ -1,0 +1,5 @@
+##### § 72.180 Physical protection plan. #####
+
+The licensee shall establish, maintain, and follow a detailed plan for physical protection as described in § 73.51 of this chapter. The licensee shall retain a copy of the current plan as a record until the Commission terminates the license for which the procedures were developed and, if any portion of the plan is superseded, retain the superseded material for 3 years after each change or until termination of the license. The plan must describe how the applicant will meet the requirements of § 73.51 of this chapter and provide physical protection during on-site transportation to and from the proposed ISFSI or MRS and include within the plan the design for physical protection, the licensee's safeguards contingency plan, and the security organization personnel training and qualification plan. The plan must list tests, inspections, audits, and other means to be used to demonstrate compliance with such requirements.
+
+[63 FR 26961, May 15, 1998]

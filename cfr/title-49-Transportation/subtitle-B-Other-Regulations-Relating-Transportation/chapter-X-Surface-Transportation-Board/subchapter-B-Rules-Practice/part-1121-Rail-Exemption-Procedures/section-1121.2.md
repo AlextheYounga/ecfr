@@ -1,0 +1,3 @@
+##### § 1121.2 Discovery. #####
+
+Discovery shall follow the procedures set forth at 49 CFR part 1114, subpart B. Discovery may begin upon the filing of the petition for exemption or petition for revocation of an exemption. In petitions to revoke an exemption, a party must indicate in the petition whether it is seeking discovery. If it is, the party must file its discovery requests at the same time it files its petition to revoke. Discovery shall be completed 30 days after the petition to revoke is filed. The party seeking discovery may supplement its petition to revoke 45 days after the petition is filed. Replies to the supplemental petition are due 15 days after the supplemental petition is filed.

@@ -1,0 +1,3 @@
+##### § 1113.14 Objections to rulings. #####
+
+It is sufficient that a party, at the time the ruling is made or sought, make known to the officer on the record the action which he desires the officer to take or his objection to the action of the officer and his grounds for that objection. An objection not pressed in brief will be considered as waived. Where no brief is filed an objection will be considered as waived if not pressed in an appeal or reply to an appeal, if filed, or in a separate petition dealing only with that objection.

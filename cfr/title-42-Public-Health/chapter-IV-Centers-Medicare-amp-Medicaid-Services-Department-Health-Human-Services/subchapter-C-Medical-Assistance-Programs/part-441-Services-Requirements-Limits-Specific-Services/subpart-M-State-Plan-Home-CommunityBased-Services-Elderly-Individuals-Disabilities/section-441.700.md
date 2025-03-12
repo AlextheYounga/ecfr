@@ -1,0 +1,3 @@
+##### § 441.700 Basis and purpose. #####
+
+Section 1915(i) of the Act permits States to offer one or more home and community-based services (HCBS) under their State Medicaid plans to qualified individuals with disabilities or individuals who are elderly. Those services are listed in § 440.182 of this chapter, and are described by the State, including any limitations of the services. This optional benefit is known as the State plan HCBS benefit. This subpart describes what a State Medicaid plan must provide when the State elects to include the optional benefit, and defines State responsibilities.

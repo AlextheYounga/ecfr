@@ -1,0 +1,3 @@
+##### § 97.375 Petitions. #####
+
+The CAIR designated representative of a CAIR NOX Ozone Season unit may submit a petition under § 75.66 of this chapter to the Administrator requesting approval to apply an alternative to any requirement of this subpart. Application of an alternative to any requirement of this subpart is in accordance with this subpart only to the extent that the petition is approved in writing by the Administrator, in consultation with the permitting authority.

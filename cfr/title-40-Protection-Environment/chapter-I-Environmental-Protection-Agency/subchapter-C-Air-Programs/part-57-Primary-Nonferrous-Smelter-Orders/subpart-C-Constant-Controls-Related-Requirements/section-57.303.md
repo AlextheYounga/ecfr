@@ -1,0 +1,5 @@
+##### § 57.303 Total plantwide emission limitation. #####
+
+(a) *Calculation of the emission limitation.* Each NSO shall contain a requirement limiting the total allowable emissions from the smelter to the level which would have been associated with production at the smelter's maximum production capacity (as defined in § 57.103(r)) as of August 7, 1977. This limitation shall be expressed in units of mass per time and shall be calculated as the sum of uncontrolled process and fugitive emissions, and emissions from any control systems (operating at the efficiency prescribed under § 57.302). These emission rates may be derived from either direct measurements or appropriately documented mass balance calculations.
+
+(b) *Compliance with the emission limitation.* Each NSO shall require the use of specific, enforceable testing methods and measurement periods for determining compliance with the limitation established under paragraph (a) of this section.

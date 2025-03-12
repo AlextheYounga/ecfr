@@ -1,0 +1,7 @@
+##### 3004.470-3 Contract clauses. #####
+
+(a) Contracting officers shall insert a clause substantially the same as the clause at (HSAR) 48 CFR 3052.204-70, Security Requirements for Unclassified Information Technology Resources, in solicitations and contracts that require submission of an IT Security Plan.
+
+(b) Contracting officers shall insert the basic clause at (HSAR) 48 CFR 3052.204-71, Contractor Employee Access, in solicitations and contracts when contractor employees require recurring access to Government facilities or access to sensitive information. Contracting officers shall insert the basic clause with its Alternate I for acquisitions requiring contractor access to IT resources. For acquisitions in which the contractor will not have access to IT resources, but the Department has determined contractor employee access to sensitive information or Government facilities must be limited to U.S. citizens and lawful permanent residents, the contracting officer shall insert the clause with its Alternate II. Neither the basic clause nor its alternates shall be used unless contractor employees will require recurring access to Government facilities or access to sensitive information. Neither the basic clause nor its alternates should ordinarily be used in contracts with educational institutions.
+
+[71 FR 25768, May 2, 2006, as amended at 77 FR 50634, Aug. 22, 2012]

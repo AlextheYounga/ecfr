@@ -1,0 +1,3 @@
+##### § 27.806 1.4 GHz service licenses subject to competitive bidding. #####
+
+Mutually exclusive initial applications for 1.4 GHz Band licenses in the paired 1392-1395 MHz and 1432-1435 MHz bands as well as the unpaired 1390-1392 MHz band are subject to competitive bidding. The general competitive bidding procedures set forth in part 1, subpart Q of this chapter will apply unless otherwise provided in this subpart.

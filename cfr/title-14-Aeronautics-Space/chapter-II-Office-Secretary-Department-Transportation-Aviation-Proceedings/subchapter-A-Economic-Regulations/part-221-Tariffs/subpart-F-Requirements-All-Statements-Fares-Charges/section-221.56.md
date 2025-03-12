@@ -1,0 +1,3 @@
+##### § 221.56 Applicable fare when no through local or joint fares. #####
+
+Where no applicable local or joint fare is provided from point of origin to point of destination over the route of movement, whichever combination of applicable fares provided over the route of movement produces the lowest charge shall be applicable, except that a carrier may provide explicitly that a fare cannot be used in any combination or in a combination on particular traffic or under specified conditions, provided another combination is available.

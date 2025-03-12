@@ -1,0 +1,5 @@
+##### § 61.171 Adoption notice. #####
+
+When a carrier's name is changed, or its operating control transferred from one carrier to another in whole or in part, the successor carrier must file tariff revisions to reflect the name change. The successor carrier may either immediately reissue the entire tariff in its own name, or immediately file an adoption notice. Within 35 days of filing an adoption notice, the successor must reissue the entire tariff in its own name. The reissued tariff must be numbered in the series of the successor carrier, and must contain all original pages without changes in regulations or rates. The transmittal letter must state the tariff is being filed to show a change in the carrier's name pursuant to § 61.171 of the Commission's Rules. The adoption notice, if used, must read as follows:
+
+The (Exact name of successor carrier or receiver) here adopts, ratifies and makes its own in every respect, all applicable tariffs and amendments filed with the Federal Communications Commission by (predecessor) prior to (date).

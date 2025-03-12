@@ -1,0 +1,9 @@
+##### § 219.5 Conditions for payment. #####
+
+(a) *Direct costs.* Payment shall be made only for costs that are both directly incurred and reasonably necessary to provide requested material. Search and processing, reproduction, and transportation or delivery costs shall be considered separately when determining whether the costs are reasonably necessary. Photocopying or microfiche charges are reasonably necessary only if the institution has reproduced financial records that were not stored electronically (*i.e.,* where the information requested was stored only on paper or in microfiche), or where the government authority making the request has specifically asked for printed copies of electronically stored records.
+
+(b) *Compliance with legal process, request, or authorization.* No payment may be made to a financial institution until it satisfactorily complies with the legal process, the formal written request, or the customer authorization. When the legal process or formal written request is withdrawn, or the customer authorization is revoked, or where the customer successfully challenges disclosure to a grand jury or government authority, the financial institution shall be reimbursed for the reasonably necessary costs incurred in assembling the requested financial records prior to the time the financial institution is notified of such event.
+
+(c) *Itemized bill or invoice.* No reimbursement is required unless a financial institution submits an itemized bill or invoice specifically detailing its search and processing, reproduction, and transportation costs. Search and processing time should be billed in 15-minute increments.
+
+[Reg. S, 61 FR 29641, June 12, 1996, as amended at 74 FR 50108, Sept. 30, 2009]

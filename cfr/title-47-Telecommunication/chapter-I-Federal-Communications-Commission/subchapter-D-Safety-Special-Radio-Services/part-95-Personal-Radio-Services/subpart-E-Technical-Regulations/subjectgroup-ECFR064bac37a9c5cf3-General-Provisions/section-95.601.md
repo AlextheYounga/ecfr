@@ -1,0 +1,5 @@
+##### § 95.601 Basis and purpose. #####
+
+This section provides the technical standards to which each transmitter (apparatus that converts electrical energy received from a source into RF (radio frequency) energy capable of being radiated) used or intended to be used in a station authorized in any of the Personal Radio Services listed below must comply. This section also provides requirements for obtaining certification for such transmitters. The Personal Radio Services to which these rules apply are the GMRS (General Mobile Radio Service) - subpart A, the Family Radio Service (FRS) - subpart B, the R/C (Radio Control Radio Service) - subpart C, the CB (Citizens Band Radio Service) - subpart D, the Low Power Radio Service (LPRS) - subpart G, the Wireless Medical Telemetry Service (WMTS) - subpart H, the Medical Device Radiocommunication Service (MedRadio) - subpart I, the Multi-Use Radio Service (MURS) - subpart J, and Dedicated Short-Range Communications Service On-Board Units (DSRCS-OBUs) - subpart L.
+
+[80 FR 36222, June 23, 2015]

@@ -1,0 +1,3 @@
+##### § 382.103 May a carrier leave a passenger unattended in a wheelchair or other device? #####
+
+As a carrier, you must not leave a passenger who has requested assistance required by this subpart unattended by the personnel responsible for enplaning, deplaning, or connecting assistance in a ground wheelchair, boarding wheelchair, or other device, in which the passenger is not independently mobile, for more than 30 minutes. This requirement applies even if another person (*e.g.,* family member, personal care attendant) is accompanying the passenger, unless the passenger explicitly waives the obligation.

@@ -1,0 +1,3 @@
+##### § 381.320 How long will it take the agency to respond to my application for an exemption? #####
+
+The agency will attempt to issue a final decision within 180 days of the date it receives your application. However, if you leave out important details or other information necessary for the FMCSA to prepare a meaningful request for public comments, the agency will attempt to issue a final decision within 180 days of the date it receives the additional information.

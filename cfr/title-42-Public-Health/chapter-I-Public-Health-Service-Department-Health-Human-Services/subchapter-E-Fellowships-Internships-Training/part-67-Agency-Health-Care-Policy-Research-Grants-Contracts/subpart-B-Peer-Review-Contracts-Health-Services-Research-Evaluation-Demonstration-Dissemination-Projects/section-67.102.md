@@ -1,0 +1,7 @@
+##### § 67.102 Definitions. #####
+
+*Contract proposal* means a written offer to enter into a contract submitted to a contracting officer by an individual or non-Federal organization, and including at a minimum a description of the nature, purpose, duration, cost of project and methods, personnel, and facilities to be utilized in carrying out the requirements of the contract.
+
+*Peer review group* means a panel of experts, as required by section 922(c) of the PHS Act, established to conduct technical and scientific review of contract proposals and to make recommendations to the Administrator regarding the merits of such proposals.
+
+*Request for proposals* means a Government solicitation to prospective offerors, under procedures for negotiated contracts, to submit a proposal to fulfill specific agency requirements based on terms and conditions defined in the solicitation. The solicitation contains information sufficient to enable all offerors to prepare competitive proposals, and is as complete as possible with respect to: The nature of work to be performed; descriptions and specifications of items to be delivered; performance schedule; special requirements, clauses or other circumstances affecting the contract; and criteria by which the proposals will be evaluated.

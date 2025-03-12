@@ -1,0 +1,7 @@
+##### § 900.708 Self-evaluation. #####
+
+(a) Each recipient shall, within one year of the receipt of financial assistance, conduct or have conducted an evaluation of its compliance with this subpart with the assistance of interested persons, including handicapped persons or organizations representing handicapped persons. Each such recipient shall evaluate its current policies and practices and their effects, and modify any that do not meet the requirements of this part. Each such recipient shall permit the Office of Personnel Management, during normal business hours, to examine its self-evaluation along with its books, records, accounts, facilities and other sources of information as may be useful to determine whether there has been compliance with this subpart. Self-evaluation required under other Federal programs may be accepted by OPM if the information pertaining to activities receiving financial assistance from OPM is included and the records are available to OPM representatives.
+
+(b) Each recipient shall modify, after consultation with interested persons and organizations, including handicapped persons, any policies and practices that do not meet the requirements of this subpart; and
+
+(c) Each recipient shall take, after consultation with interested persons, including handicapped persons or organizations representing handicapped persons, appropriate remedial steps to eliminate the effects of any discrimination that resulted from adherence to these policies and practices.

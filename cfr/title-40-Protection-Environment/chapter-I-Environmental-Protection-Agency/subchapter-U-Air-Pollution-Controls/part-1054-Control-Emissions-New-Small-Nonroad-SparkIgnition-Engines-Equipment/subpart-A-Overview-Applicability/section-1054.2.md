@@ -1,0 +1,7 @@
+##### § 1054.2 Who is responsible for compliance? #####
+
+(a) The requirements and prohibitions of this part apply to manufacturers of engines and equipment, as described in § 1054.1. The requirements of this part are generally addressed to manufacturers subject to this part's requirements. The term “you” generally means the certifying manufacturer. For provisions related to exhaust emissions, this generally means the engine manufacturer, especially for issues related to certification (including production-line testing, reporting, etc.). For provisions related to certification with respect to evaporative emissions, this generally means the equipment manufacturer. Note that for engines that become new after being placed into service (such as engines converted from highway or stationary use), the requirements that normally apply for manufacturers of freshly manufactured engines apply to the importer or any other entity we allow to obtain a certificate of conformity.
+
+(b) Equipment manufacturers must meet applicable requirements as described in § 1054.20. Engine manufacturers that assemble an engine's complete fuel system are considered to be the equipment manufacturer with respect to evaporative emissions (see 40 CFR 1060.5). Note that certification requirements for component manufacturers are described in 40 CFR part 1060.
+
+[86 FR 34516, June 29, 2021]

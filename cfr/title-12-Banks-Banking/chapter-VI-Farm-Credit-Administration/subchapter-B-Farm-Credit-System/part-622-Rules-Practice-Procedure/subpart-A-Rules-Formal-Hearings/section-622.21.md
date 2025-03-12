@@ -1,0 +1,5 @@
+##### § 622.21 Computing time. #####
+
+(a) *General rule.* In computing any period of time prescribed or allowed by this subpart, the date of the act or event from which the designated period of time begins to run is not to be included. The last day so computed shall be included, unless it is a Saturday, Sunday or Federal holiday, in which event the period shall run until the end of the next day which is not a Saturday, Sunday, or Federal holiday. When the period of time prescribed or allowed is 10 days or less, intermediate Saturdays, Sundays, and Federal holidays shall not be included in the computation.
+
+(b) *Service by mail.* Whenever any party has the right or is required to do some act within the period of time prescribed in this subpart after the service upon the party of any document or other paper of any kind, and such service is made by mail, three days shall be added to the prescribed period from the date when the matter served is deposited in the United States mail.

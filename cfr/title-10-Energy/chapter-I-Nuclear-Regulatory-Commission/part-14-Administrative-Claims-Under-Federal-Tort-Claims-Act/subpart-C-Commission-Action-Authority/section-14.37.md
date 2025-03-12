@@ -1,0 +1,3 @@
+##### § 14.37 Final denial of claim. #####
+
+The NRC shall send notice of a final denial of a claim in writing to the claimant, his or her attorney or legal representative, by certified or registered mail. The notification of final denial may include a statement of the reasons for the denial. The NRC shall include a statement in the notification of final denial that, if the claimant is dissatisfied with NRC's action, he or she may file suit in an appropriate U.S. District Court not later than 6 months after the date of mailing of the notification.

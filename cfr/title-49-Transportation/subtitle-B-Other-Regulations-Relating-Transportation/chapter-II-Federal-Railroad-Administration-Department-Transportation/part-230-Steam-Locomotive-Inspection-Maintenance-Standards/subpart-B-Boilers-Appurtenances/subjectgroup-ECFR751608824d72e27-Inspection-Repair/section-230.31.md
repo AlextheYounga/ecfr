@@ -1,0 +1,5 @@
+##### § 230.31 Flues to be removed. #####
+
+(a) *Inspection of the boiler interior.* During the 1472 service day inspection, the steam locomotive owner and/or operator shall remove all flues of steam locomotive boilers in service, except as provided in paragraph (b) of this section, for the purpose of inspecting the entire interior of the boiler and its bracing. After removing the flues, the steam locomotive owner and/or operator shall enter the boiler to remove scale from the interior and thoroughly clean and inspect it.
+
+(b) *NDE testing.* If the boiler can be thoroughly cleaned and inspected without removing the superheater flues, and it can be shown through appropriate NDE testing methods that they are safe and suitable for service, their removal may not be required at this time. Their removal may be required, however, if the FRA inspector, or the steam locomotive owner and/or operator, considers it necessary due to identifiable safety concerns.

@@ -1,0 +1,3 @@
+##### § 563b.125 Must my board of directors adopt a plan of conversion? #####
+
+Prior to filing an application for conversion, your board of directors must adopt a plan of conversion that conforms to §§ 563b.320 through 563b.485 and 563b.505. Your board of directors must adopt the plan by at least a two-thirds vote. Your plan of conversion is required, under § 563b.150, to be included in your conversion application.

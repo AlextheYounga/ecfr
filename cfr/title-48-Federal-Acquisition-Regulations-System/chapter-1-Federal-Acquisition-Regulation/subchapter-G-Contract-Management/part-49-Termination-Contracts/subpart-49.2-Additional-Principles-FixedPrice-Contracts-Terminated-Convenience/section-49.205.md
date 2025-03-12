@@ -1,0 +1,5 @@
+##### 49.205 Completed end items. #####
+
+(a) Promptly after the effective date of termination, the TCO shall (1) have all undelivered completed end items inspected and accepted if they comply with the contract requirements, and (2) determine which accepted end items are to be delivered under the contract. The contractor shall invoice accepted and delivered end items at the contract price in the usual manner and shall not include them in the settlement proposal. When completed end items, though accepted, are not to be delivered under the contract, the contractor shall include them in the settlement proposal at the contract price, adjusted for any saving of freight or other charges, together with any credits for their purchase, retention, or sale.
+
+(b) Work in place accepted by the Government under a construction contract is not considered a completed item even though that work may have been paid for at unit prices specified in the contract.

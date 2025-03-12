@@ -1,0 +1,3 @@
+##### § 293.508 Type of folder to be used. #####
+
+Each agency must use a folder that (a) has been specifically identified as the EMF and issued through Federal Supply Service contracts (Standard Form 66 D); (b) has been authorized as an exception to this form by the Office for use by a specific agency; or (c) in the case of an EMF containing records under joint control of the Office and another agency, an exception to the use of this form that has been jointly authorized.

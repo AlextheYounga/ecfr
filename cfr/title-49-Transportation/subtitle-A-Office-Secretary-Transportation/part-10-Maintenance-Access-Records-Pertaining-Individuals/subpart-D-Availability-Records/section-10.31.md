@@ -1,0 +1,7 @@
+##### § 10.31 Requests for records. #####
+
+(a) Ordinarily, each person desiring to determine whether a record pertaining to him/her is contained in a system of records covered by this part or desiring access to a record covered by this part, or to obtain a copy of such a record, shall make a request in writing addressed to the system manager. The “Privacy Act Issuances” published by the Office of the Federal Register, National Archives and Records Administration, describes the systems of records maintained by all Federal agencies, including the Department and its components. In exceptional cases oral requests are accepted. A description of DOT Privacy Act systems notices is available through the Internet free of charge at *http://www.access.gpo.gov/su\_docs/aces/PrivacyAct.shtml?desc015.html.* See § 10.13(b) regarding inquiries concerning Privacy Act matters or requests for assistance.
+
+(b) Each request shall specify the name of the requesting individual and the system of records in which the subject record is located or thought to be located. If assistance is required to determine the system of records identification number assigned in the systems notices, such assistance may be obtained from the appropriate Privacy Act officer or his assistant. Refer to § 10.13 for procedures for requesting assistance.
+
+[45 FR 8993, Feb. 11, 1980, as amended at 62 FR 23667, May 1, 1997]

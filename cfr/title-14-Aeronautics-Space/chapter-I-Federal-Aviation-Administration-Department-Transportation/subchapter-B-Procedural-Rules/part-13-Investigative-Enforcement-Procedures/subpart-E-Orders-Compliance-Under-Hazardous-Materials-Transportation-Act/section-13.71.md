@@ -1,0 +1,5 @@
+##### § 13.71 Applicability. #####
+
+Whenever the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, or a Regional Counsel has reason to believe that a person is engaging in the transportation or shipment by air of hazardous materials in violation of the Hazardous Materials Transportation Act, or any regulation or order issued under it for which the FAA exercises enforcement responsibility, and the circumstances do not require the issuance of an order of immediate compliance, he may conduct proceedings pursuant to section 109 of that Act (49 U.S.C. 1808) to determine the nature and extent of the violation, and may thereafter issue an order directing compliance.
+
+[Doc. No. 18884, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 13-19, 54 FR 39290, Sept. 25, 1989; Amdt. 13-29, 62 FR 46866, Sept. 4, 1997]

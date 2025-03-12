@@ -1,0 +1,3 @@
+##### § 311.1 Purpose. #####
+
+This part implements the policy of the “Government in the Sunshine Act”, section 552b of title 5 U.S.C., which is to provide the public with as much information as possible regarding the decision making process of certain Federal agencies, including the Federal Deposit Insurance Corporation, while preserving the rights of individuals and the ability of the agency to carry out its responsibilities.

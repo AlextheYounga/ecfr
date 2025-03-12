@@ -1,0 +1,1 @@
+##### 9905.502 Cost accounting standard—consistency in allocating costs incurred for the same purpose by educational institutions. #####

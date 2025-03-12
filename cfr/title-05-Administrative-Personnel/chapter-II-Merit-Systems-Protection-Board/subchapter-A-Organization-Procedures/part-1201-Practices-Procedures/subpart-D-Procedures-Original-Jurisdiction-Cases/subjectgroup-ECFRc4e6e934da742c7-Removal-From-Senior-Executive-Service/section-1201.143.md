@@ -1,0 +1,11 @@
+##### § 1201.143 Right to hearing; filing complaint; serving documents on parties. #####
+
+(a) *Right to hearing.* If an agency proposes to remove a career appointee from the Senior Executive Service under 5 U.S.C. 3592(a) (2) and 5 CFR 359.502, and to place that employee in another civil service position, the appointee may request an informal hearing before an official designated by the Board. Under 5 CFR 359.502, the agency proposing the removal must provide the appointee 30 days advance notice and must advise the appointee of the right to request a hearing. If the appointee files the request at least 15 days before the effective date of the proposed removal, the request will be granted.
+
+(b) *Place of filing.* A request for an informal hearing under paragraph (a) of this section must be filed with the Clerk of the Board. After the request has been assigned to a judge, subsequent pleadings must be filed with the Board office where the judge is located.
+
+(c) *Initial filing and service.* Except when filed electronically under 1201.14, the appointee must file two copies of the request, together with numbered and tabbed exhibits or attachments, if any, and a certificate of service listing the agency proposing the appointee's removal or the agency's representative. The certificate of service must show the last known address, telephone number, and facsimile number of the agency or its representative. The appointee must serve a copy of the request on the agency or its representative, as shown on the certificate of service.
+
+(d) *Subsequent filings and service.* Each party must serve on every other party or the party's representative one copy of each of its pleadings, as defined by § 1201.4(b). A certificate of service describing how and when service was made must accompany each pleading. Each party is responsible for notifying the Board and the other parties in writing of any change in name, address, telephone number, or facsimile number of the party or the party's representative.
+
+[62 FR 48451, Sept. 16, 1997, as amended at 68 FR 59864, Oct. 20, 2003; 69 FR 57630, Sept. 27, 2004; 73 FR 10130, Feb. 26, 2008; 77 FR 62371, Oct. 12, 2012]

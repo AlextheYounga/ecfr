@@ -1,0 +1,3 @@
+##### § 269b.111 Filing of charges. #####
+
+Any charge pursuant to § 269b.110 shall be in writing and signed. An original and three copies of such charge, together with one copy for each charged party named, shall be transmitted to the Secretary of the Federal Reserve System Labor Relations Panel, 20th Street and Constitution Avenue NW., Washington, DC 20551. Within 5 days after receipt of a properly filed charge that meets the formal requirements set forth in § 269b.112, the Secretary will cause a copy of such charge to be served on each party against whom the charge is made and upon all other potential parties in interest.

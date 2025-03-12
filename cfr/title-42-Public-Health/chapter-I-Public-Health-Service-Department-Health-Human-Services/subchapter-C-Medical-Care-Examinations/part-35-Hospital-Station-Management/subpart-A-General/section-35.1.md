@@ -1,0 +1,3 @@
+##### § 35.1 Hospital and station rules. #####
+
+The officer in charge of a station or hospital of the Service is authorized to adopt such rules and issue such instructions, not inconsistent with the regulations in this part and other provisions of law, as he deems necessary for the efficient operation of the station or hospital and for the proper and humane care and treatment of all patients therein. All general rules governing the conduct and privileges of patients, and of members of the public while on the premises, shall be posted in prominent places.

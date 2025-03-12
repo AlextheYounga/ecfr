@@ -1,0 +1,3 @@
+##### § 543.2 Purpose. #####
+
+The purpose of this part is to specify the content and format of petitions which may be filed by manufacturers of passenger motor vehicles to obtain an exemption from the parts-marking requirements of the vehicle theft prevention standard for passenger motor vehicle lines which include, as standard equipment, an antitheft device if the agency concludes that the device is likely to be as effective in reducing and deterring motor vehicle theft as compliance with the parts-marking requirements. This part also provides the procedures that the agency will follow in processing those petitions and in terminating or modifying exemptions.

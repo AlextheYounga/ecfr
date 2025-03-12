@@ -1,0 +1,3 @@
+##### § 419.10 Applicability; description of the topping subcategory. #####
+
+The provisions of this subpart apply to discharges from any facility that produces petroleum products by the use of topping and catalytic reforming, whether or not the facility includes any other process in addition to topping and catalytic reforming. The provisions of this subpart do not apply to facilities that include thermal processes (coking, vis-breaking, etc.) or catalytic cracking.

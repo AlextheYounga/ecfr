@@ -1,0 +1,3 @@
+##### § 308.300 Scope. #####
+
+The rules and procedures set forth in this subpart apply to insured state nonmember banks, to state-licensed insured branches of foreign banks, that are subject to the provisions of section 39 of the Federal Deposit Insurance Act (section 39) (12 U.S.C. 1831p-1), and to state savings associations (in aggregate, bank or banks and state savings association or state savings associations).

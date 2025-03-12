@@ -1,0 +1,3 @@
+##### § 76.1202 Availability of navigation devices. #####
+
+No multichannel video programming distributor shall by contract, agreement, patent right, intellectual property right or otherwise prevent navigation devices that do not perform conditional access or security functions from being made available to subscribers from retailers, manufacturers, or other vendors that are unaffiliated with such owner or operator, subject to § 76.1209.

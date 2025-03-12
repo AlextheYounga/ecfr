@@ -1,0 +1,21 @@
+##### § 503.10 Applicability. #####
+
+(a) This subpart applies to any person who prepares sewage sludge that is applied to the land, to any person who applies sewage sludge to the land, to sewage sludge applied to the land, and to the land on which sewage sludge is applied.
+
+(b)(1) *Bulk sewage sludge.* The general requirements in § 503.12 and the management practices in § 503.14 do not apply when bulk sewage sludge is applied to the land if the bulk sewage sludge meets the ceiling concentrations in Table 1 of § 503.13 and the pollutant concentrations in Table 3 of § 503.13; the Class A pathogen requirements in § 503.32(a); and one of the vector attraction reduction requirements in § 503.33(b)(1) through (b)(8).
+
+(2) The Regional Administrator of EPA or, in the case of a State with an approved sludge management program, the State Director, may apply any or all of the general requirements in § 503.12 and the management practices in § 503.14 to the bulk sewage sludge in § 503.10(b)(1) on a case-by-case basis after determining that the general requirements or management practices are needed to protect public health and the environment from any reasonably anticipated adverse effect that may occur from any pollutant in the bulk sewage sludge.
+
+(c)(1) The general requirements in § 503.12 and the management practices in § 503.14 do not apply when a bulk material derived from sewage sludge is applied to the land if the derived bulk material meets the ceiling concentrations in Table 1 of § 503.13 and the pollutant concentrations in Table 3 of § 503.13; the Class A pathogen requirements in § 503.32(a); and one of the vector attraction reduction requirements in § 503.33(b)(1) through (b)(8).
+
+(2) The Regional Administrator of EPA or, in the case of a State with an approved sludge management program, the State Director, may apply any or all of the general requirements in § 503.12 or the management practices in § 503.14 to the bulk material in § 503.10(c)(1) on a case-by-case basis after determining that the general requirements or management practices are needed to protect public health and the environment from any reasonably anticipated adverse effect that may occur from any pollutant in the bulk sewage sludge.
+
+(d) The requirements in this subpart do not apply when a bulk material derived from sewage sludge is applied to the land if the sewage sludge from which the bulk material is derived meets the ceiling concentrations in Table 1 of § 503.13 and the pollutant concentrations in Table 3 of § 503.13; the Class A pathogen requirements in § 503.32(a); and one of the vector attraction reduction requirements in § 503.33(b)(1) through (b)(8).
+
+(e) Sewage sludge sold or given away in a bag or other container for application to the land. The general requirements in § 503.12 and the management practices in § 503.14 do not apply when sewage sludge is sold or given away in a bag or other container for application to the land if the sewage sludge sold or given away in a bag or other container for application to the land meets the ceiling concentrations in Table 1 of § 503.13 and the pollutant concentrations in Table 3 of § 503.13; the Class A pathogen requirements in § 503.32(a); and one of the vector attraction reduction requirements in § 503.33(b)(1) through (b)(8).
+
+(f) The general requirements in § 503.12 and the management practices in § 503.14 do not apply when a material derived from sewage sludge is sold or given away in a bag or other container for application to the land if the derived material meets the ceiling concentrations in Table 1 of § 503.13 and the pollutant concentrations in Table 3 of § 503.13; the Class A pathogen requirements in § 503.32(a); and one of the vector attraction reduction requirements in § 503.33(b)(1) through (b)(8).
+
+(g) The requirements in this subpart do not apply when a material derived from sewage sludge is sold or given away in a bag or other container for application to the land if the sewage sludge from which the material is derived meets the ceiling concentrations in Table 1 of § 503.13 and the pollutant concentrations in Table 3 of § 503.13; the Class A pathogen requirements in § 503.32(a); and one of the vector attraction reduction requirements in § 503.33 (b)(1) through (b)(8).
+
+[58 FR 9387, Feb. 19, 1993, as amended at 64 FR 42568, Aug. 4, 1999]

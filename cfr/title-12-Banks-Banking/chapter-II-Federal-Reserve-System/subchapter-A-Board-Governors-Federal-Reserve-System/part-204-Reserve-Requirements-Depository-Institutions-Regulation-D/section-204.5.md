@@ -1,0 +1,31 @@
+##### § 204.5 Maintenance of required reserves. #####
+
+(a)(1) A depository institution, a U.S. branch or agency of a foreign bank, and an Edge or Agreement corporation shall satisfy reserve requirements by maintaining vault cash and, if vault cash does not fully satisfy the institution's reserve requirement, in the form of a balance maintained
+
+(i) In the institution's account at the Federal Reserve Bank in the Federal Reserve District in which the institution is located, or
+
+(ii) With a pass-through correspondent in accordance with § 204.5(d).
+
+(2) Each individual institution subject to this part is responsible for satisfying its reserve balance requirement, if any, either directly with a Federal Reserve Bank or through a pass-through correspondent.
+
+(b)(1) For institutions that file a report of deposits weekly, the balances maintained to satisfy reserve balance requirements shall be maintained during a 14-day maintenance period that begins on the third Thursday following the end of a given computation period.
+
+(2) For institutions that file a report of deposits quarterly, the balances maintained to satisfy reserve balance requirements shall be maintained during an interval of either six or seven consecutive 14-day maintenance periods, depending on when the interval begins and ends. The interval will begin on the fourth Thursday following the end of each quarterly reporting period if that Thursday is the first day of a 14-day maintenance period. If the fourth Thursday following the end of a quarterly reporting period is not the first day of a 14-day maintenance period, then the interval will begin on the fifth Thursday following the end of the quarterly reporting period. The interval will end on the fourth Wednesday following the end of the subsequent quarterly reporting period if that Wednesday is the last day of a 14-day maintenance period. If the fourth Wednesday following the end of the subsequent quarterly reporting period is not the last day of a 14-day maintenance period, then the interval will conclude on the fifth Wednesday following the end of the subsequent quarterly reporting period.
+
+(c) Cash items forwarded to a Federal Reserve Bank for collection and credit are not included in an institution's balance maintained to satisfy its reserve balance requirement until the expiration of the time specified in the appropriate time schedule established under Regulation J, “Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers Through Fedwire” (12 CFR part 210). If a depository institution draws against items before that time, the charge will be made to its account if the balance is sufficient to pay it; any resulting deficiency in balances maintained to satisfy the institution's reserve balance requirement will be subject to the penalties provided by law and to the deficiency charges provided by this part. However, the Federal Reserve Bank may, at its discretion, refuse to permit the withdrawal or other use of credit given in an account for any time for which the Federal Reserve Bank has not received payment in actually and finally collected funds.
+
+(d)(1) A depository institution, a U.S. branch or agency of a foreign bank, or an Edge or Agreement corporation with a reserve balance requirement (“respondent”) may select only one pass-through correspondent under this section, unless otherwise permitted by the Federal Reserve Bank in whose District the respondent is located. Eligible pass-through correspondents are Federal Home Loan Banks, the National Credit Union Administration Central Liquidity Facility, and depository institutions, U.S. branches or agencies of foreign banks, and Edge and Agreement corporations that maintain balances to satisfy their own reserve balance requirements which may be zero, in an account at a Federal Reserve Bank. In addition, the Board reserves the right to permit other institutions, on a case-by-case basis, to serve as pass-through correspondents.
+
+(2) Respondents or correspondents may institute, terminate, or change pass-through correspondent agreements by providing all documentation required for the establishment of the new agreement or termination of or change to the existing agreement to the Federal Reserve Banks involved within the time period specified by those Reserve Banks.
+
+(3) Balances maintained to satisfy reserve balance requirements of a correspondent's respondents shall be maintained along with the balances maintained to satisfy a correspondent's reserve balance requirement (if any), in a single commingled account of the correspondent at the Federal Reserve Bank in whose District the correspondent is located. Balances maintained in the correspondent's account are the property of the correspondent and represent a liability of the Reserve Bank solely to the correspondent, regardless of whether the funds represent the balances maintained to satisfy the reserve balance requirement of a respondent.
+
+(4)(i) A pass-through correspondent shall be responsible for maintaining balances to satisfy its own reserve balance requirement (if any) and the reserve balance requirements of all of its respondents. A charge for any deficiency in the correspondent's account will be imposed by the Reserve Bank on the correspondent maintaining the account.
+
+(ii) Each correspondent is required to maintain detailed records for each of its respondents that permit Reserve Banks to determine whether the respondent has provided a sufficient funds to the correspondent to satisfy the reserve balance requirement of the respondent. The correspondent shall maintain such records and make such reports as the Board or Reserve Bank may requires in order to ensure the correspondent's compliance with its responsibilities under this section and shall make them available to the Board or Reserve Bank as required.
+
+(iii) The Federal Reserve Bank may terminate any pass-through agreement under which the correspondent is deficient in its recordkeeping or other responsibilities.
+
+(iv) Interest paid on supplemental reserves (if such reserves are required under § 204.7) held by a respondent will be credited to the account maintained by the correspondent.
+
+[Reg. D, 74 FR 25638, May 29, 2009, as amended at 77 FR 21853, Apr. 12, 2012]

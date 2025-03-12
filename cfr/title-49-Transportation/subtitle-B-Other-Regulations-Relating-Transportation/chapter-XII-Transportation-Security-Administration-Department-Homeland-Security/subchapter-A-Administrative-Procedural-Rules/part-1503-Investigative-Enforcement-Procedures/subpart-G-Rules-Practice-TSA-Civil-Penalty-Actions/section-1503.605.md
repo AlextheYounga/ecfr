@@ -1,0 +1,5 @@
+##### § 1503.605 Appearances and rights of parties. #####
+
+(a) Any party may appear and be heard in person.
+
+(b) Any party may be accompanied, represented, or advised by an attorney or representative designated by the party and may be examined by that attorney or representative in any proceeding governed by this subpart. An attorney or representative who represents a respondent and has not previously filed a pleading in the matter must file a notice of appearance in the action, in the manner provided in § 1503.429, and must serve a copy of the notice of appearance on each party, in the manner provided in § 1503.409, before participating in any proceeding governed by this subpart. The attorney or representative must include the name, address, and telephone number of the attorney or representative in the notice of appearance.

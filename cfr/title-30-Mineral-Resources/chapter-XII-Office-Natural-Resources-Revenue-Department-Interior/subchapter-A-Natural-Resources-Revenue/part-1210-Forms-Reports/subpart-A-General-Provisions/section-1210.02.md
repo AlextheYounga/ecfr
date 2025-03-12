@@ -1,0 +1,3 @@
+##### § 1210.02 To whom do these regulations apply? #####
+
+The regulations apply to any person, referred to in this subpart as “you,” “your,” or “reporter/payor,” who is a lessee under any Federal or Indian lease for any mineral or who is assigned or assumes an obligation to report data or make payment to ONRR. The term reporter/payor may include lessees, designees, operators, purchasers, reporters, other payors, and working interest owners, but is not restricted to these parties. This section does not affect the liability to pay and report royalties as established by other regulations, laws, and the lease terms.

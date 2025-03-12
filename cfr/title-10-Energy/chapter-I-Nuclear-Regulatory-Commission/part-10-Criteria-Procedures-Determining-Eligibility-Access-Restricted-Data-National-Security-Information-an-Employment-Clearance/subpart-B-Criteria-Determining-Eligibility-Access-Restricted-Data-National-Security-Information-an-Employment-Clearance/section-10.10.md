@@ -1,0 +1,15 @@
+##### § 10.10 Application of the criteria. #####
+
+(a) The decision as to access authorization and/or employment clearance is a comprehensive, common-sense judgment, made after consideration of all the information, favorable or unfavorable, relevant to whether the granting of access authorization and/or employment clearance would not endanger the common defense and security and would be clearly consistent with the national interest.
+
+(b) The criteria in § 10.11 set forth a number of the types of derogatory information used to assist in making determinations of eligibility for access authorization and/or employment clearance. These criteria are not exhaustive but contain the principal types of derogatory information which create a question as to the individual's eligibility for access authorization and/or employment clearance. While there must necessarily be adherence to such criteria, the NRC is not limited to them, nor precluded from exercising its judgment that information or facts in a case under its cognizance are derogatory although at variance with, or outside the scope of, the stated categories. These criteria are subject to continuing review and may be revised from time to time as experience and circumstances may make desirable.
+
+(c) When the reports of investigation of an individual contain information reasonably tending to establish the truth of one or more of the items in the criteria, such information shall be regarded as derogatory and shall create a question as to the individual's eligibility for access authorization and/or employment clearance. A question concerning the eligibility of an individual for access authorization and/or employment clearance shall be resolved in accordance with the procedures set forth in § 10.20 *et seq.*
+
+(d) In resolving a question concerning the eligibility or continued eligibility of an individual for access authorization and/or employment clearance, the following principles shall be applied by the Director, Division of Facilities and Security, Hearing Examiners, and the NRC Personnel Security Review Panel:
+
+(1) Information reasonably tending to establish the truth of one or more of the items in the criteria shall be the basis for recommending denial or revocation of access authorization and/or employment clearance unless evidence to support faith in the individual's reliability and trust-worthiness is affirmatively shown.
+
+(2) When deemed material to the deliberations, the extent of the activity, conduct, or condition, the period in which they occurred or existed, the length of time which has since elapsed, and the attitude and convictions of the individual shall be considered in determining whether the recommendation will be adverse or favorable.
+
+[47 FR 38676, Sept. 2, 1982, as amended at 64 FR 15641, Apr. 1, 1999]

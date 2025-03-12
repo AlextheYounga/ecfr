@@ -1,0 +1,5 @@
+##### § 230.85 Audible warning device. #####
+
+(a) *General provisions.* Each steam locomotive shall be equipped with an audible warning device that produces a minimum sound level of 96db(A) at 100 feet in front of the steam locomotive in its direction of travel. The device shall be arranged so that it may conveniently be operated by the engineer from his or her normal position in the cab.
+
+(b) *Method of measurement.* Measurement of the sound level shall be made using a sound level meter conforming, at a minimum, to the requirements of ANSI S1.4-1971, Type 2, and set to an A-weighted slow response. While the steam locomotive is on level, tangent track, the microphone shall be positioned 4 feet above the ground at the center line of the track and shall be oriented with respect to the sound source in accordance with the microphone manufacturer's recommendations.

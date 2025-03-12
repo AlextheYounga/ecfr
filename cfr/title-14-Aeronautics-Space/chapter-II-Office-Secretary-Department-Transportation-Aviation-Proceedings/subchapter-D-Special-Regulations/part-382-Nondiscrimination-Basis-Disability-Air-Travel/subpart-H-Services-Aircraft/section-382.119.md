@@ -1,0 +1,5 @@
+##### § 382.119 What information must carriers give individuals with vision or hearing impairment on aircraft? #####
+
+(a) As a carrier, you must ensure that passengers with a disability who identify themselves as needing visual or hearing assistance have prompt access to the same information provided to other passengers on the aircraft as described in paragraph (b) of this section, to the extent that it does not interfere with crewmembers' safety duties as set forth in FAA and applicable foreign regulations.
+
+(b) The covered information includes but is not limited to the following: information concerning flight safety, procedures for takeoff and landing, flight delays, schedule or aircraft changes that affect the travel of persons with disabilities, diversion to a different airport, scheduled departure and arrival time, boarding information, weather conditions at the flight's destination, beverage and menu information, connecting gate assignments, baggage claim, individuals being paged by airlines, and emergencies (*e.g.,* fire or bomb threat).

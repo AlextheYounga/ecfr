@@ -1,0 +1,3 @@
+##### § 176.605 Care following leakage or sifting of Division 2.3 (poisonous gas) and Division 6.1 (poisonous) materials. #####
+
+A hold or compartment containing a package of a Division 2.3 (poisonous gas) or Division 6.1 (poisonous) material which has leaked or sifted must be thoroughly cleaned and decontaminated after the cargo is unloaded and before the hold or compartment is used for the stowage of any other cargo.

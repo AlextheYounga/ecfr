@@ -1,0 +1,3 @@
+##### § 250.612 Field well-workover rules. #####
+
+When geological and engineering information available in a field enables the District Manager to determine specific operating requirements, field well-workover rules may be established on the District Manager's initiative or in response to a request from a lessee. Such rules may modify the specific requirements of this subpart. After field well-workover rules have been established, well-workover operations in the field shall be conducted in accordance with such rules and other requirements of this subpart. Field well-workover rules may be amended or canceled for cause at any time upon the initiative of the District Manager or upon the request of a lessee.

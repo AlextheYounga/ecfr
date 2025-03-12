@@ -1,0 +1,3 @@
+##### 32.501 General. #####
+
+Progress payments may be customary or unusual. Customary progress payments are those made under the general guidance in this subpart, using the customary progress payment rate, the cost base, and frequency of payment established in the Progress Payments clause, and either the ordinary liquidation method or the alternate method as provided in subsections 32.503-8 and 32.503-9. Any other progress payments are considered unusual, and may be used only in exceptional cases when authorized in accordance with subsection 32.501-2.

@@ -1,0 +1,3 @@
+##### § 1263.9 Makes long-term home mortgage loans requirement. #####
+
+An applicant shall be deemed to make long-term home mortgage loans, as required by section 4(a)(1)(C) of the Bank Act (12 U.S.C. 1424(a)(1)(C)) and § 1263.6(a)(3), if, based on the applicant's most recent regulatory financial report filed with its appropriate regulator, or other documentation provided to the Bank, in the case of a CDFI applicant that does not file such reports, the applicant originates or purchases long-term home mortgage loans.

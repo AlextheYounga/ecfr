@@ -1,0 +1,7 @@
+##### § 232.9 Responsibility for compliance. #####
+
+(a) A railroad subject to this part shall not use, haul, permit to be used or hauled on its line, offer in interchange, or accept in interchange any train, railroad car, or locomotive with one or more conditions not in compliance with this part; however, a railroad shall not be liable for a civil penalty for such action if such action is in accordance with § 232.15. For purposes of this part, a train, railroad car, or locomotive will be considered in use prior to departure but after it has received, or should have received, the inspection required for movement and is deemed ready for service.
+
+(b) Although many of the requirements of this part are stated in terms of the duties of a railroad, when any person performs any function required by this part, that person (whether or not a railroad) is required to perform that function in accordance with this part.
+
+(c) Any person performing any function or task required by this part shall be deemed to have consented to FRA inspection of the person's operation to the extent necessary to determine whether the function or task is being performed in accordance with the requirements of this part.

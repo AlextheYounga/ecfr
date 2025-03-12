@@ -1,0 +1,7 @@
+##### § 37.33 Airport transportation systems. #####
+
+(a) Transportation systems operated by public airport operators, which provide designated public transportation and connect parking lots and terminals or provide transportation among terminals, are subject to the requirements of this part for fixed route or demand responsive systems, as applicable, operated by public entities. Public airports which operate fixed route transportation systems are subject to the requirements of this part for commuter bus service operated by public entities. The provision by an airport of additional accommodations (e.g., parking spaces in a close-in lot) is not a substitute for meeting the requirements of this part.
+
+(b) Fixed-route transportation systems operated by public airport operators between the airport and a limited number of destinations in the area it serves are subject to the provisions of this part for commuter bus systems operated by public entities.
+
+(c) Private jitney or shuttle services that provide transportation between an airport and destinations in the area it serves in a route-deviation or other variable mode are subject to the requirements of this part for private entities primarily engaged in the business of transporting people which provide demand responsive service. They may meet equivalency requirements by such means as sharing or pooling accessible vehicles among operators, in a way that ensures the provision of equivalent service.

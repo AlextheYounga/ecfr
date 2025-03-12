@@ -1,0 +1,5 @@
+##### § 501.50 Policy. #####
+
+Except in conjunction with a prohibition order requested by the intended recipient, OFE shall not propose to prohibit or prohibit by rule or order the use of petroleum or natural gas either as a primary energy source or in amounts in excess of the minimum amount necessary to maintain reliability of operation consistent with reasonable fuel efficiency in an existing installation unless and until OFE adopts rules establishing regulatory requirements governing the issuance of such orders and rules in accordance with the applicable procedural and substantive requirements of law.
+
+(Department of Energy Organization Act, Pub. L. 95-91, 91 Stat. 565 (42 U.S.C. 7101 *et seq.*); Powerplant and Industrial Fuel Use Act of 1978, Pub. L. 95-620, 92 Stat. 3269 (42 U.S.C. 8301 *et seq.*); Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97-35); E.O. 12009, 42 FR 46267, Sept. 15, 1977)[47 FR 50848, Nov. 10, 1982]

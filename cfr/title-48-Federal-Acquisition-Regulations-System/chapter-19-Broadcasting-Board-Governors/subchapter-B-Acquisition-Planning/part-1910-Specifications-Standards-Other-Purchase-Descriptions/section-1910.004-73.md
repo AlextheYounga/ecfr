@@ -1,0 +1,3 @@
+##### 1910.004-73 Offer evaluation and award, brand name or equal descriptions. #####
+
+An offer may not be rejected for failure of the offered product to equal a characteristic of a brand name product if it was not specified in the brand name or equal description. However, if it is clearly established that the unspecified characteristic is essential to the intended end use, the solicitation is defective and no award may be made. In such cases, the contracting officer should resolicit the requirements, using a purchase description that sets forth the essential characteristics.

@@ -1,0 +1,3 @@
+##### 1032.770-3 General. #####
+
+The Anti-Deficiency Act, 31 U.S.C. 1341 and FAR 32.702, states that no officer or employee of the Government may create or authorize an obligation in excess of the funds available, or in advance of appropriations unless otherwise authorized by law. A CR provides funding for continuing projects or activities that were conducted in the prior fiscal year for which appropriations, funds, or other authority was previously made available. Each CR is governed by the specific terms in that specific CR (*e.g.* duration of the CR) and under certain CRs, the funding amounts available for award of contract actions are inadequate to fund the entire amounts needed for some contract actions.

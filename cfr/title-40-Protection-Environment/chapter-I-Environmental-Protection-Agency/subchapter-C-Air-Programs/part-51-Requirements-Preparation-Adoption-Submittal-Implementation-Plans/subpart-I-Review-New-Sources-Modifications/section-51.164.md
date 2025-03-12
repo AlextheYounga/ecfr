@@ -1,0 +1,3 @@
+##### § 51.164 Stack height procedures. #####
+
+Such procedures must provide that the degree of emission limitation required of any source for control of any air pollutant must not be affected by so much of any source's stack height that exceeds good engineering practice or by any other dispersion technique, except as provided in § 51.118(b). Such procedures must provide that before a State issues a permit to a source based on a good engineering practice stack height that exceeds the height allowed by § 51.100(ii) (1) or (2), the State must notify the public of the availability of the demonstration study and must provide opportunity for public hearing on it. This section does not require such procedures to restrict in any manner the actual stack height of any source.

@@ -1,0 +1,5 @@
+##### § 650.30 Preservation of equity. #####
+
+(a) Except as provided for upon final distribution of the assets of the Corporation pursuant to § 650.62 of this subpart, no capital stock, equity reserves, or other allocated equities of the Corporation in receivership shall be issued, allocated, retired, sold, distributed, transferred, or assigned.
+
+(b) Immediately upon the adoption of a resolution by its board of directors to voluntarily liquidate the Corporation, the capital stock, equity reserves, and allocated equities of the Corporation shall not be issued, allocated, retired, sold, distributed, transferred, or assigned. Such activities could resume if the stockholders of the Corporation or the Farm Credit Administration Board disapprove the resolution. In the event the resolution is approved by the stockholders of the Corporation and the Farm Credit Administration Board, the liquidation plan shall govern disposition of the equities of the Corporation as provided in § 650.52 of this subpart.

@@ -1,0 +1,33 @@
+##### § 60.759 Specifications for active collection systems. #####
+
+(a) Each owner or operator seeking to comply with § 60.752(b)(2)(i) shall site active collection wells, horizontal collectors, surface collectors, or other extraction devices at a sufficient density throughout all gas producing areas using the following procedures unless alternative procedures have been approved by the Administrator as provided in § 60.752(b)(2)(i)(C) and (D):
+
+(1) The collection devices within the interior and along the perimeter areas shall be certified to achieve comprehensive control of surface gas emissions by a professional engineer. The following issues shall be addressed in the design: depths of refuse, refuse gas generation rates and flow characteristics, cover properties, gas system expandibility, leachate and condensate management, accessibility, compatibility with filling operations, integration with closure end use, air intrusion control, corrosion resistance, fill settlement, and resistance to the refuse decomposition heat.
+
+(2) The sufficient density of gas collection devices determined in paragraph (a)(1) of this section shall address landfill gas migration issues and augmentation of the collection system through the use of active or passive systems at the landfill perimeter or exterior.
+
+(3) The placement of gas collection devices determined in paragraph (a)(1) of this section shall control all gas producing areas, except as provided by paragraphs (a)(3)(i) and (a)(3)(ii) of this section.
+
+(i) Any segregated area of asbestos or nondegradable material may be excluded from collection if documented as provided under § 60.758(d). The documentation shall provide the nature, date of deposition, location and amount of asbestos or nondegradable material deposited in the area, and shall be provided to the Administrator upon request.
+
+(ii) Any nonproductive area of the landfill may be excluded from control, provided that the total of all excluded areas can be shown to contribute less than 1 percent of the total amount of NMOC emissions from the landfill. The amount, location, and age of the material shall be documented and provided to the Administrator upon request. A separate NMOC emissions estimate shall be made for each section proposed for exclusion, and the sum of all such sections shall be compared to the NMOC emissions estimate for the entire landfill. Emissions from each section shall be computed using the following equation:
+
+Qi = 2 k Lo Mi (e-kt i) (CNMOC) (3.6 × 10−9)where,Qi = NMOC emission rate from the ith section, megagrams per year k = methane generation rate constant, year−1Lo = methane generation potential, cubic meters per megagram solid waste Mi = mass of the degradable solid waste in the ith section, megagram ti = age of the solid waste in the ith section, years CNMOC = concentration of nonmethane organic compounds, parts per million by volume 3.6 × 10−9 = conversion factor
+
+(iii) The values for k and CNMOC determined in field testing shall be used if field testing has been performed in determining the NMOC emission rate or the radii of influence (this distance from the well center to a point in the landfill where the pressure gradient applied by the blower or compressor approaches zero). If field testing has not been performed, the default values for k, LO and CNMOC provided in § 60.754(a)(1) or the alternative values from § 60.754(a)(5) shall be used. The mass of nondegradable solid waste contained within the given section may be subtracted from the total mass of the section when estimating emissions provided the nature, location, age, and amount of the nondegradable material is documented as provided in paragraph (a)(3)(i) of this section.
+
+(b) Each owner or operator seeking to comply with § 60.752(b)(2)(i)(A) shall construct the gas collection devices using the following equipment or procedures:
+
+(1) The landfill gas extraction components shall be constructed of polyvinyl chloride (PVC), high density polyethylene (HDPE) pipe, fiberglass, stainless steel, or other nonporous corrosion resistant material of suitable dimensions to: convey projected amounts of gases; withstand installation, static, and settlement forces; and withstand planned overburden or traffic loads. The collection system shall extend as necessary to comply with emission and migration standards. Collection devices such as wells and horizontal collectors shall be perforated to allow gas entry without head loss sufficient to impair performance across the intended extent of control. Perforations shall be situated with regard to the need to prevent excessive air infiltration.
+
+(2) Vertical wells shall be placed so as not to endanger underlying liners and shall address the occurrence of water within the landfill. Holes and trenches constructed for piped wells and horizontal collectors shall be of sufficient cross-section so as to allow for their proper construction and completion including, for example, centering of pipes and placement of gravel backfill. Collection devices shall be designed so as not to allow indirect short circuiting of air into the cover or refuse into the collection system or gas into the air. Any gravel used around pipe perforations should be of a dimension so as not to penetrate or block perforations.
+
+(3) Collection devices may be connected to the collection header pipes below or above the landfill surface. The connector assembly shall include a positive closing throttle valve, any necessary seals and couplings, access couplings and at least one sampling port. The collection devices shall be constructed of PVC, HDPE, fiberglass, stainless steel, or other nonporous material of suitable thickness.
+
+(c) Each owner or operator seeking to comply with § 60.752(b)(2)(i)(A) shall convey the landfill gas to a control system in compliance with § 60.752(b)(2)(iii) through the collection header pipe(s). The gas mover equipment shall be sized to handle the maximum gas generation flow rate expected over the intended use period of the gas moving equipment using the following procedures:
+
+(1) For existing collection systems, the flow data shall be used to project the maximum flow rate. If no flow data exists, the procedures in paragraph (c)(2) of this section shall be used.
+
+(2) For new collection systems, the maximum flow rate shall be in accordance with § 60.755(a)(1).
+
+[61 FR 9919, Mar. 12, 1996, as amended at 63 FR 32753, June 16, 1998; 64 FR 9262, Feb. 24, 1999; 65 FR 18909, Apr. 10, 2000]

@@ -1,0 +1,1 @@
+##### 952.245 Clauses related to government property. #####

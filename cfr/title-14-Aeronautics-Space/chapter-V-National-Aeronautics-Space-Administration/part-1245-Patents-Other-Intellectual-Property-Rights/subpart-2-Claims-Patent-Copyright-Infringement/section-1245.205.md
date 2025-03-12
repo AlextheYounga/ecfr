@@ -1,0 +1,7 @@
+##### § 1245.205 Processing of administrative claims. #####
+
+(a) *Filing and forwarding of claims.* All communications regarding claims should be addressed to: Agency Counsel for Intellectual Property, Office of the General Counsel, National Aeronautics and Space Administration, Washington, DC 20546-0001. If any communication relating to a claim or possible claim of patent or copyright infringement is received by an agency, organization, office, or field installation within NASA, it shall be forwarded to the Agency Counsel for Intellectual Property.
+
+(b) *Disposition and notification.* The General Counsel, or designee, shall investigate and administratively settle, deny, or otherwise dispose of each claim. When a claim is denied, the Agency shall so notify the claimant or the claimant's authorized representative and provide the claimant with the reasons for denying the claim. Disclosure of information shall be subject to applicable statutes, regulations, and directives pertaining to security, access to official records, and the rights of others.
+
+(c) *Termination of claims.* If, while an administrative claim for patent or copyright infringement is pending against NASA, the claimant brings suit for patent or copyright infringement against the United States in the Court of Federal Claims based on the same facts or transactions as the administrative claim, the administrative claim shall thereupon be automatically dismissed, with no further action being required of NASA.

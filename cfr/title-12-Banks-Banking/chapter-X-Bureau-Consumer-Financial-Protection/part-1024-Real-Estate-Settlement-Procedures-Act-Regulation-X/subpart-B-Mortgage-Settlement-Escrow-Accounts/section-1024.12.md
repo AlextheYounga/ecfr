@@ -1,0 +1,3 @@
+##### § 1024.12 No fee. #####
+
+No fee shall be imposed or charge made upon any other person, as a part of settlement costs or otherwise, by a lender in connection with a federally related mortgage loan made by it (or a loan for the purchase of a manufactured home), or by a servicer (as that term is defined under 12 U.S.C. 2605(i)(2)) for or on account of the preparation and distribution of the HUD-1 or HUD-1A settlement statement, escrow account statements required pursuant to section 10 of RESPA (12 U.S.C. 2609), or statements required by the Truth in Lending Act (15 U.S.C. 1601 *et seq.*).

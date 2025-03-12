@@ -1,0 +1,7 @@
+##### § 63.8535 Am I subject to this subpart? #####
+
+You are subject to this subpart if you own or operate a clay ceramics manufacturing facility that is, is located at, or is part of a major source of HAP emissions according to the criteria in paragraphs (a) and (b) of this section.
+
+(a) A clay ceramics manufacturing facility is a plant site that manufactures pressed floor tile, pressed wall tile, other pressed tile, or sanitaryware (*e.g.,* sinks and toilets). Clay ceramics manufacturing facilities typically process clay, shale, and various additives; form the processed materials into tile or sanitaryware shapes; and dry and fire the ceramic products. Glazes are applied to many tile and sanitaryware products. A plant site that manufactures refractory products, as defined in § 63.9824, or brick and structural clay products (BSCP), as defined in § 63.8515, is not a clay ceramics manufacturing facility.
+
+(b) A major source of HAP emissions is any stationary source or group of stationary sources within a contiguous area under common control that emits or has the potential to emit any single HAP at a rate of 9.07 megagrams (10 tons) or more per year or any combination of HAP at a rate of 22.68 megagrams (25 tons) or more per year.

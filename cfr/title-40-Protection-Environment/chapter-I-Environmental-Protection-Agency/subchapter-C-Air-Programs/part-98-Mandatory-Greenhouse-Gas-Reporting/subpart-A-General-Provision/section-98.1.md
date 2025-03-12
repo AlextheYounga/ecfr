@@ -1,0 +1,9 @@
+##### § 98.1 Purpose and scope. #####
+
+(a) This part establishes mandatory greenhouse gas (GHG) reporting requirements for owners and operators of certain facilities that directly emit GHG as well as for certain suppliers. For suppliers, the GHGs reported are the quantity that would be emitted from combustion or use of the products supplied.
+
+(b) Owners and operators of facilities and suppliers that are subject to this part must follow the requirements of this subpart and all applicable subparts of this part. If a conflict exists between a provision in subpart A and any other applicable subpart, the requirements of the applicable subpart shall take precedence.
+
+(c) For facilities required to report under onshore petroleum and natural gas production under subpart W of this part, the terms *Owner* and *Operator* used in this subpart have the same definition as *Onshore petroleum and natural gas production owner or operator,* as defined in § 98.238. For facilities required to report under onshore petroleum and natural gas gathering and boosting under subpart W of this part, the terms *Owner* and *Operator* used in this subpart have the same definition as *Gathering and boosting system owner or operator,* as defined in § 98.238. For facilities required to report under onshore natural gas transmission pipeline under subpart W of this part, the terms *Owner* and *Operator* used in this subpart have the same definition as *Onshore natural gas transmission pipeline owner or operator,* as defined in § 98.238.
+
+[74 FR 56374, Oct. 30, 2009, as amended at 75 FR 39758, July 12, 2010; 76 FR 73898, Nov. 29, 2011; 76 FR 80573, Dec. 23, 2011; 89 FR 42218, May 14, 2024]

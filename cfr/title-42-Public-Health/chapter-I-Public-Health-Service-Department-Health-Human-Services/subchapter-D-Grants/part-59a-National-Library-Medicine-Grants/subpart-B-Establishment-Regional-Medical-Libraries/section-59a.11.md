@@ -1,0 +1,5 @@
+##### § 59a.11 Programs to which these regulations apply. #####
+
+(a) This subpart applies to grants made under section 475 of the Act (42 U.S.C. 286b-6). Grants are awarded to medical libraries to enable them to serve as regional medical libraries for their geographic areas. The purpose of the program is to develop a national system of regional medical libraries, each of which would have sufficient facilities to supplement the services of other medical libraries in its region.
+
+(b) The purpose of the program may also be supported by contracts. Since the primary purpose of these contracts is to assist regional libraries and is not for the purpose of acquiring supplies or services for use of the Federal Government, the provisions of the Federal Acquisition Regulation (48 CFR chapter 1) do not apply. Any contract awarded pursuant to section 475 of the Act shall be subject to the applicable provisions of this subpart.

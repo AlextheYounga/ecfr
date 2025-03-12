@@ -1,0 +1,5 @@
+##### § 1201.71 Purpose of discovery. #####
+
+Proceedings before the Board will be conducted as expeditiously as possible with due regard to the rights of the parties. Discovery is designed to enable a party to obtain relevant information needed to prepare the party's case. These regulations are intended to provide a simple method of discovery. They will be interpreted and applied so as to avoid delay and to facilitate adjudication of the case. Parties are expected to start and complete discovery with a minimum of Board intervention. Discovery requests and responses thereto are not to be filed in the first instance with the Board. They are only filed with the Board in connection with a motion to compel discovery under 1201.73(c) of this part, with a motion to subpoena discovery under 1201.73(d) of this part, or as substantive evidence to be considered in the appeal.
+
+[54 FR 53504, Dec. 29, 1989, as amended at 77 FR 62367, Oct. 12, 2012]

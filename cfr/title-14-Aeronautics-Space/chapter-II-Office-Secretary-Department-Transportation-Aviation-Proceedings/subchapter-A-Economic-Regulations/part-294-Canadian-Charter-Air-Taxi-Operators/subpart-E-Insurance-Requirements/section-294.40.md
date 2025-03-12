@@ -1,0 +1,5 @@
+##### § 294.40 Aircraft accident liability insurance requirements. #####
+
+No Canadian charter air taxi operator shall engage in charter air service unless such carrier has and maintains in effect aircraft accident liability coverage that meets the requirements of part 205 of this chapter. Evidence of such insurance coverage, in the form of a certificate of insurance, as required in part 205 of this chapter, shall be maintained on file with the Department's Office of International Aviation, Special Authorities Division, at all times.
+
+(Approved by the Office of Management and Budget under control number 3024-0050)[ER-1257, 46 FR 52591, Oct. 27, 1981, as amended by ER-1342, 48 FR 31015, July 6, 1983; Doc. No. 47939, 57 FR 40102, Sept. 2, 1992; 60 FR 43526, Aug. 22, 1995; 71 FR 49347, Aug. 23, 2006]

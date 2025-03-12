@@ -1,0 +1,3 @@
+##### § 137.420 Does an Indian Tribe have any options besides an appeal? #####
+
+Yes, the Indian Tribe may request an informal conference. An informal conference is a way to resolve issues as quickly as possible, without the need for a formal hearing. Or, the Indian Tribe may, in lieu of filing an administrative appeal under this subpart or upon completion of an informal conference, file an action in Federal court pursuant to section 110 of the Act [25 U.S.C. 450m-1].

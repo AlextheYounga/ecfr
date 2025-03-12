@@ -1,0 +1,5 @@
+##### § 1015.204 Reporting debts. #####
+
+(a) DOE may disclose delinquent debts to consumer reporting agencies in accordance with 31 U.S.C. 3711(e), the DCIA, the revised Federal Claims Collection Standards (31 CFR parts 900-904) published November 22, 2000, and other applicable authorities. DOE will ensure that all of the rights and protections afforded to the debtor under 31 U.S.C. 3711(e) have been fulfilled. Additional guidance is contained in Treasury's “Guide to the Federal Credit Bureau Program,” revised October 2001.
+
+(b) As described in § 1015.201(e), under the DCIA (31 U.S.C. 3711(g)), DOE is required to transfer all debts over 180 days delinquent to Treasury for purposes of debt collection (*i.e.,* cross-servicing). As part of its regular debt collection procedures, Treasury will report debts it is collecting to the appropriate designated credit reporting agencies on behalf of DOE. A debt not transferred to Treasury for purposes of debt collection, however, may be subject to the DCIA requirement to report all non-tax delinquent consumer debts to credit reporting agencies.

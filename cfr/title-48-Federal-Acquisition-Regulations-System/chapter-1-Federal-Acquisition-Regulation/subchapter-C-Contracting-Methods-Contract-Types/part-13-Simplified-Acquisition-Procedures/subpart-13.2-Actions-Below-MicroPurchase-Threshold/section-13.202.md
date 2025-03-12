@@ -1,0 +1,5 @@
+##### 13.202 Unenforceability of unauthorized obligations in micro-purchases. #####
+
+Many supplies or services are acquired subject to supplier license agreements. These are particularly common in information technology acquisitions, but they may apply to any supply or service. For example, computer software and services delivered through the internet (web services) are often subject to license agreements, referred to as End User License Agreements (EULA), Terms of Service (TOS), or other similar legal instruments or agreements. Many of these agreements contain indemnification clauses that are inconsistent with Federal law and unenforceable, but which could create a violation of the Anti-Deficiency Act (31 U.S.C. 1341) if agreed to by the Government. The clause at 52.232-39, Unenforceability of Unauthorized Obligations, automatically applies to any micro-purchase, including those made with the Governmentwide purchase card. This clause prevents such violations of the Anti-Deficiency Act.
+
+[78 FR 37688, June 21, 2013]

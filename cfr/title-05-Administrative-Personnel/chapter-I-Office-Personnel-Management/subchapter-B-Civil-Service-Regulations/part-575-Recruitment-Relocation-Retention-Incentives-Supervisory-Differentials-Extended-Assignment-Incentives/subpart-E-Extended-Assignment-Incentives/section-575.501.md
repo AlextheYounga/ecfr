@@ -1,0 +1,3 @@
+##### § 575.501 Purpose. #####
+
+This subpart contains OPM regulations implementing 5 U.S.C. 5757, which authorizes the payment of extended assignment incentives. Subject to the requirements of this subpart, an agency may pay an extended assignment incentive to eligible Federal employees assigned to positions located in a territory or possession of the United States, the Commonwealth of Puerto Rico, or the Commonwealth of the Northern Mariana Islands who agree to complete a specified additional period of employment with the agency in that location.

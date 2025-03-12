@@ -1,0 +1,9 @@
+##### § 161.309 Requirements for proposal changes. #####
+
+(a) Each applicant shall promptly advise interested parties of any changes to a proposed restriction or alternative restriction that are not encompassed in the proposals submitted, including changes that affect noncompatible land uses or that take place before the effective date of the restriction, and make available these changes to the proposed restriction and its analysis. For the purpose of this paragraph, interested parties include those who received direct notice under § 161.303(b) of this part, or those who were required to be consulted in accordance with the procedures in § 161.321 of this part, and those who commented on the proposed restriction.
+
+(b) If there are substantial changes to a proposed restriction or the analysis made available prior to the effective date of the restriction, the applicant proposing the restriction shall initiate new notice in accordance with the procedures in § 161.303 or, alternatively, the procedures in § 161.321. These requirements apply to substantial changes that are not encompassed in submitted alternative restriction proposals and their analyses. A substantial change to a restriction includes, but is not limited to, any proposal that would increase the burden on any aviation user class.
+
+(c) In addition to the information in § 161.303(c), a new notice must indicate that the applicant is revising a previous notice, provide the reason for making the revision, and provide a new effective date (if any) for the restriction.
+
+(d) If substantial changes requiring a new notice are made during the FAA's 180-day review of the proposed restriction, the applicant submitting the proposed restriction shall notify the FAA in writing that it is withdrawing its proposal from the review process until it has completed additional analysis, public review, and documentation of the public review. Resubmission to the FAA will restart the 180-day review.

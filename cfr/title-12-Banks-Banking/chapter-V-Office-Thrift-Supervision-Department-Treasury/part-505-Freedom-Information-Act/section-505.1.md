@@ -1,0 +1,7 @@
+##### § 505.1 Basis and scope. #####
+
+(a) This part is issued by the Office of Thrift Supervision (“OTS”) as a supplement to the Freedom of Information Act regulations of the Department of the Treasury, 31 CFR part 1, subpart A, which apply to the OTS as a component part of the Department of the Treasury.
+
+(b) This part is issued by the OTS pursuant to the requirement of section 552 of title 5 of the United States Code, which requires every federal agency to publish in the Federal Register the established places at which, the employees from whom, and the methods whereby, the public may obtain information, make submittals on requests, or obtain decisions, and the forms available or the places at which forms and instructions as to the scope and contents of all papers, reports, or examinations may be found. Information about the Public Reading Room is set forth in § 505.2 of this part. Procedures for requests for records are set forth in § 505.3 of this part. Information about administrative appeals is set forth in § 505.4 of this part. Provisions relating to delivery of process upon the OTS are set forth in § 505.5 of this part.
+
+[54 FR 49444, Nov. 30, 1989, as amended at 60 FR 66716, Dec. 26, 1995; 66 FR 65819, Dec. 21, 2001]

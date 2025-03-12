@@ -1,0 +1,9 @@
+##### 47.305-7 Quantity analysis, direct delivery, and reduction of crosshauling and backhauling. #####
+
+(a) *Quantity analysis.* (1) The requiring activity shall consider the acquisition of carload or truckload quantities.
+
+(2) When additional quantities of the supplies being acquired can be transported at lower unit transportation costs or with a relatively small increase in total transportation costs, with no impairment to the program schedule, the contracting officer shall ascertain from the requiring activity whether there is a known requirement for additional quantities. This may be the case, for example, when the additional quantity could profitably be stored by the activity for future use, or could be distributed advantageously to several using activities on the same transportation route or in the same geographical area.
+
+(b) *Direct delivery.* When it is the usual practice of a requiring activity to acquire supplies in large quantities for shipment to a central point and subsequent distribution to using activities, as needed, consideration shall be given, if sufficient quantities are involved to warrant scheduling direct delivery, to the feasibility of providing for direct delivery from the contractor to the using activity, thereby reducing the cost of transportation and handling.
+
+(c) *Crosshauling and backhauling.* The contracting officer shall select distribution and transshipment facilities intermediate to origins and ultimate destinations to reduce crosshauling and backhauling; i.e., the transportation of personal property of the same kind in opposite directions or the return of the property to or through areas previously traversed in shipment.

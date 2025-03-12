@@ -1,0 +1,7 @@
+##### § 1300.2 Disclosure requirement for existing rates. #####
+
+(a) A rail carrier must disclose to any person, upon formal request, the specific rate(s) requested (or the basis for calculating the specific rate(s)), as well as all charges and service terms that may be applicable to transportation covered by the rate(s). For purposes of § 1300.4(a)(1) of this part, a formal request under this part is one that clearly notifies the railroad that the requester seeks not only immediate information but also notification of any future increases in the rate(s) involved or changes in pertinent service terms.
+
+(b) The information provided by a rail carrier under this section must be provided immediately. (It is expected that the response will be sent within hours, or at least by the next business day, in most situations.) Such information may be provided either in written or electronic form as agreed to by the parties. If the parties cannot agree, such information is to be provided in electronic (non-passive) form where both parties have the requisite capabilities; otherwise, it is to be provided in writing.
+
+(c) A rail carrier may, at its option, require that all requests submitted under this section be in written or electronic form, although the carrier may permit oral requests.

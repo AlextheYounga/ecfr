@@ -1,0 +1,5 @@
+##### § 1264.114 Ex parte contacts. #####
+
+No party or person (except employees of the presiding officer's office) shall communicate in any way with the presiding officer on any matter at issue in a case, unless on notice and opportunity for all parties to participate. This provision does not prohibit a person or party from inquiring about the status of a case or asking routine questions concerning administrative functions or procedures.
+
+[54 FR 600, Jan. 9, 1989]

@@ -1,0 +1,3 @@
+##### § 59.3 Information concerning deployment of new services and equipment. #####
+
+An incumbent local exchange carrier subject to the requirements of section 59.1 that has entered into an infrastructure sharing agreement under section 59.1 shall provide to each party to such agreement timely information on the planned deployment of telecommunications services and equipment, including any software or upgrades of software integral to the use or operation of such telecommunications equipment.

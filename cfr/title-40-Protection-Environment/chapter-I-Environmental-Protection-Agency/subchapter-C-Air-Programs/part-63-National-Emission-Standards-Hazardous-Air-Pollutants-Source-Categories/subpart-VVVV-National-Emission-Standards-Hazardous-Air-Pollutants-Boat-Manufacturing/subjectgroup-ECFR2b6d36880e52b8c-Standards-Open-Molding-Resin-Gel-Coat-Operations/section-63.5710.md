@@ -1,0 +1,17 @@
+##### § 63.5710 How do I demonstrate compliance using emissions averaging? #####
+
+(a) Compliance using the emissions averaging option is demonstrated on a 12-month rolling-average basis and is determined at the end of every month (12 times per year). The first 12-month rolling-average period begins on the compliance date specified in § 63.5695.
+
+(b) At the end of the twelfth month after your compliance date and at the end of every subsequent month, use equation 1 of this section to demonstrate that the organic HAP emissions from those operations included in the average do not exceed the emission limit in § 63.5698 calculated for the same 12-month period. (Include terms in equation 1 of § 63.5698 and equation 1 of this section for only those operations and materials included in the average.)
+
+![](/graphics/er22au01.012.gif)Where:HAP emissions= Organic HAP emissions calculated using MACT model point values for each operation included in the average, kilograms.PVR = Weighted-average MACT model point value for production resin used in the past 12 months, kilograms per megagram.MR = Mass of production resin used in the past 12 months, megagrams.PVPG = Weighted-average MACT model point value for pigmented gel coat used in the past 12 months, kilograms per megagram.MPG = Mass of pigmented gel coat used in the past 12 months, megagrams.PVCG = Weighted-average MACT model point value for clear gel coat used in the past 12 months, kilograms per megagram.MCG = Mass of clear gel coat used in the past 12 months, megagrams.PVTR = Weighted-average MACT model point value for tooling resin used in the past 12 months, kilograms per megagram.MTR = Mass of tooling resin used in the past 12 months, megagrams.PVTG = Weighted-average MACT model point value for tooling gel coat used in the past 12 months, kilograms per megagram.MTG = Mass of tooling gel coat used in the past 12 months, megagrams.
+
+(c) At the end of every month, use equation 2 of this section to compute the weighted-average MACT model point value for each open molding resin and gel coat operation included in the average.
+
+![](/graphics/er22au01.013.gif)Where:PVOP = weighted-average MACT model point value for each open molding operation (PVR, PVPG, PVCG, PVTR, and PVTG) included in the average, kilograms of HAP per megagram of material applied.Mi = mass of resin or gel coat i used within an operation in the past 12 months, megagrams.n = number of different open molding resins and gel coats used within an operation in the past 12 months.PVi = the MACT model point value for resin or gel coat i used within an operation in the past 12 months, kilograms of HAP per megagram of material applied.
+
+(d) You must use the equations in Table 3 to this subpart to calculate the MACT model point value (PVi) for each resin and gel coat used in each operation in the past 12 months.
+
+(e) If the organic HAP emissions, as calculated in paragraph (b) of this section, are less than the organic HAP limit calculated in § 63.5698(b) for the same 12-month period, then you are in compliance with the emission limit in § 63.5698 for those operations and materials included in the average.
+
+[66 FR 44232, Aug. 22, 2001; 66 FR 50504, Oct. 3, 2001]

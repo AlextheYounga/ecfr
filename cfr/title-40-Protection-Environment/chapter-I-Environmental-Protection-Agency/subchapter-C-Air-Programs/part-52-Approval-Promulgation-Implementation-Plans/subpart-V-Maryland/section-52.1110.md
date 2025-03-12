@@ -1,0 +1,5 @@
+##### § 52.1110 Small business stationary source technical and environmental compliance assistance program. #####
+
+On November 13, 1992, the Acting Director of the Air and Radiation Management Administration, Maryland Department of the Environment submitted a plan for the establishment and implementation of a Small Business Stationary Source Technical and Environmental Compliance Assistance Program as a state implementation plan (SIP) revision, as required by title V of the Clean Air Act Amendments. EPA approved the Small Business Stationary Source Technical and Environmental Compliance Assistance Program on May 16, 1994, and made it part of the Maryland SIP. As with all components of the SIP, Maryland must implement the program as submitted and approved by EPA.
+
+[59 FR 25333, May 16, 1994]

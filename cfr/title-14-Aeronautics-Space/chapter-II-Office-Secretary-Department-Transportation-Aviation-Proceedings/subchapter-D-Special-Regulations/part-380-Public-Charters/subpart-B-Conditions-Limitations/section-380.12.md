@@ -1,0 +1,5 @@
+##### § 380.12 Cancellation by charter operator and notice to participants. #####
+
+(a) The charter operator may not cancel a charter for any reason (including insufficient participation), except for circumstances that make it physically impossible to perform the charter trip, less than 10 days before the scheduled date of departure of the outbound trip.
+
+(b) If the charter operator cancels 10 or more days before the scheduled date of departure, the operator must so notify each participant in writing within 7 days after the cancellation but in any event not less than 10 days before the scheduled departure date of the outbound trip. If a charter is canceled less than 10 days before scheduled departure (*i.e.*, for circumstances that make it physically impossible to perform the charter trip), the operator must get the message to each participant as soon as possible.

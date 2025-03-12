@@ -1,0 +1,3 @@
+##### § 205.199G Extension of time; Interim and Ancillary Orders. #####
+
+The Director of the Office of Hearings and Appeals or his designee may permit upon motion any document or submission referred to in this subpart other than appeals to FERC to be amended or withdrawn after it has been filed or to be filed within a time period different from that specified in this subpart. The Director or his designee may upon motion or on his own initiative issue any interim or ancillary Orders, reconsider any determinations, or make any rulings or determinations that are deemed necessary to ensure that the proceedings specified in this subpart are conducted in an appropriate manner and are not unduly delayed.

@@ -1,0 +1,3 @@
+##### § 199.223 Refusal to submit to a required alcohol test. #####
+
+Each operator shall require a covered employee to submit to a post-accident alcohol test required under § 199.225(a), a reasonable suspicion alcohol test required under § 199.225(b), or a follow-up alcohol test required under § 199.225(d). No operator shall permit an employee who refuses to submit to such a test to perform or continue to perform covered functions.

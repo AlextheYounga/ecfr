@@ -1,0 +1,5 @@
+##### § 75.503-1 Statement listing all electric face equipment. #####
+
+Each operator of a coal mine shall complete and file Mine Safety and Health Administration Form No. 6-1496 entitled “Coal Operator's Electrical Survey” and Form 6-1496 Supplemental entitled “Operator's Survey of Electrical Face Equipment.” Forms may be obtained from any MSHA Coal Mine Safety and Health district office. Separate forms shall be filed for each mine. Copies one and two of the completed form shall be filed with the Coal Mine District Manager for the district in which each mine is located on or before May 30, 1970. An operator must list all electric face equipment being used at each mine as of the time of filing, all such equipment being repaired, and all standby electric equipment stored at or in the mine which the operator intends to use as face equipment.
+
+[35 FR 17890, Nov. 20, 1970, as amended at 71 FR 16668, Apr. 3, 2006]

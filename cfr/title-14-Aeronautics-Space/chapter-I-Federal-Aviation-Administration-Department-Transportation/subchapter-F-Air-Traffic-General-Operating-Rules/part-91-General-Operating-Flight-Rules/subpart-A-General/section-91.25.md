@@ -1,0 +1,3 @@
+##### § 91.25 Aviation Safety Reporting Program: Prohibition against use of reports for enforcement purposes. #####
+
+The Administrator of the FAA will not use reports submitted to the National Aeronautics and Space Administration under the Aviation Safety Reporting Program (or information derived therefrom) in any enforcement action except information concerning accidents or criminal offenses which are wholly excluded from the Program.

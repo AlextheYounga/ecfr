@@ -1,0 +1,3 @@
+##### § 63.2230 What is the purpose of this subpart? #####
+
+This subpart establishes national compliance options, operating requirements, and work practice requirements for hazardous air pollutants (HAP) emitted from plywood and composite wood products (PCWP) manufacturing facilities. This subpart also establishes requirements to demonstrate initial and continuous compliance with the compliance options, operating requirements, and work practice requirements.

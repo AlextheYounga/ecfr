@@ -1,0 +1,7 @@
+##### § 52.681 Permits to construct and tier II operating permits. #####
+
+(a) Except as otherwise provided in paragraph (b) of this section, emission limitations and other provisions contained in Permits to Construct and Tier II Operating Permits issued by the Idaho Department of Environmental Quality in accordance with the Federally-approved State of Idaho Rules for Control of Air Pollution in Idaho, incorporated by reference in section 52.670 (IDAPA 58.01.01.200 through 222, IDAPA 58.01.01.400 through 406), shall be applicable requirements of the Federally-approved Idaho SIP (in addition to any other provisions) for the purposes of section 113 of the Clean Air Act and shall be enforceable by EPA and by any person in the same manner as other requirements of the SIP.
+
+(b) Operating Permits authorizing the use of alternative emission limits (bubbles) under IDAPA 58.01.01.401.01.a, 58.01.01.440, and 58.01.01.441 (including the use of banked emission reduction credits in a bubble pursuant to IDAPA 58.01.01.461), and Tier II Operating Permits authorizing compliance schedule extensions under IDAPA 58.01.01.401.04 must be submitted to EPA for approval as revisions to the Idaho SIP before they become applicable requirements of the Idaho SIP.
+
+[68 FR 2225, Jan. 16, 2003]

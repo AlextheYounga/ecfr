@@ -1,0 +1,3 @@
+##### § 235.2 Applicability. #####
+
+This part applies to the scheduled domestic and international passenger service of any U.S. air carrier that operates such service with at least one aircraft having a designed seating capacity of more than 60 passenger seats. The reporting requirements of this part apply to all scheduled-service passenger flights of such carriers, including flights that are operated with aircraft having 60 or fewer seats.

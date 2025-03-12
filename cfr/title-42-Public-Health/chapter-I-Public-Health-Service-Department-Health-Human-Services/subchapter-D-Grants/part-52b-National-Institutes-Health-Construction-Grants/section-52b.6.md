@@ -1,0 +1,5 @@
+##### § 52b.6 What is the rate of federal financial participation? #####
+
+(a) Unless otherwise specified by statute, the rate of federal financial participation in a construction project supported by a grant under this part shall not be more than 50 percent of the necessary allowable costs of construction as determined by the Director, except that when the Director finds good cause for waiving this limitation, the amount of the construction grant may be more than 50 percent of the necessary allowable costs of construction.
+
+(b) Subject to paragraph (a) of this section, the Director shall set the actual rate of federal financial participation in the necessary allowable costs of construction, taking into consideration the most effective use of available federal funds to further the purposes of the applicable provisions of the Act.

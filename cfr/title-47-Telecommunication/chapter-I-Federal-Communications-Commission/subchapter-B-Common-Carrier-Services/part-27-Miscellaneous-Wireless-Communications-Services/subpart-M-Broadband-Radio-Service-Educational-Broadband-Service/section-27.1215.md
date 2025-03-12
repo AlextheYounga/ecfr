@@ -1,0 +1,3 @@
+##### § 27.1215 BRS grandfathered leases. #####
+
+(a) All leases of current BRS spectrum entered into prior to January 10, 2005 and in compliance with rules formerly contained in part 21 of this chapter may continue in force and effect, notwithstanding any inconsistency between such leases and the rules applicable to spectrum leasing arrangements set forth in this chapter. Such leases entered into pursuant to the former part 21 of this chapter may be renewed and assigned in accordance with the terms of such lease. All spectrum leasing arrangements leases entered into after January 10, 2005, pursuant to the rules set forth in part 1 and part 27 of this chapter must comply with the rules in those parts.

@@ -1,0 +1,3 @@
+##### § 406.135 Withdrawal of complaint or request for hearing. #####
+
+At any time before or during a hearing, the complainant may withdraw a complaint or a party may withdraw a request for a hearing without the consent of the administrative law judge. If the complainant withdraws the complaint or a party withdraws the request for a hearing and the answer, the administrative law judge must dismiss the proceedings under this subpart with prejudice.

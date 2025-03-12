@@ -1,0 +1,3 @@
+##### § 355.14 Do I have to aggregate extremely hazardous substances to determine the total quantity present? #####
+
+You must aggregate (*i.e.*, add together) the amounts of each EHS at your facility to determine if a TPQ is present. This means that, for a particular EHS, you must determine the total amount present at any one time at your facility by adding together the quantity of pure EHS and the quantity contained in all mixtures, regardless of location, number of containers, or method of storage. You do not have to count an EHS in a mixture if the concentration of that EHS is less than or equal to one percent.

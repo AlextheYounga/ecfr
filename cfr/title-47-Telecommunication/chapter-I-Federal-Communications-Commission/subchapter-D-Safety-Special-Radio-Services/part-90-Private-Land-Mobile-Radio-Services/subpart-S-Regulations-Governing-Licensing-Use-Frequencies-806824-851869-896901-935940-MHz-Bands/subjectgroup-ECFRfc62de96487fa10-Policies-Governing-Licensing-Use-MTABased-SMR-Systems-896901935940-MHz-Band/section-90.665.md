@@ -1,0 +1,11 @@
+##### § 90.665 Authorization, construction and implementation of MTA licenses. #####
+
+(a) MTA licenses in the 896-901/935-940 MHz band will be issued for a term not to exceed ten years.
+
+(b) MTA licensees in the 896-901/935-940 MHz band will be permitted five years to construct their stations. This five-year period will commence with the issuance of the MTA-wide authorization and will apply to all of the licensee's stations within the MTA spectrum block, including any stations that may have been subject to an earlier construction deadline arising from a pre-existing authorization.
+
+(c) Each MTA licensee in the 896-901/935-940 MHz band must, three years from the date of license grant, construct and place into operation a sufficient number of base stations to provide coverage to at least one-third of the population of the MTA; further, each MTA licensee must provide coverage to at least two-thirds of the population of the MTA five years from the date of license grant. Alternatively, an MTA licensee must demonstrate, through a showing to the Commission five years from the date of license grant, that it is providing substantial service. An MTA licensee must, three years from license grant, either show that the1/3 population coverage standard has been satisfied, or provide written notification that it has elected to show substantial service to the MTA five years from license grant. In addition, as part of the election to provide a substantial service showing, each MTA licensee must, three years from license grant, indicate how it expects to demonstrate substantial service at five years. The MTA licensee must meet the population coverage benchmarks regardless of the extent to which incumbent licensees are present within the MTA block.
+
+(d) MTA licensees who fail to meet the coverage requirements imposed at either the third or fifth years of their license term, or to make a convincing showing of substantial service, will forfeit the portion of the MTA license that exceeds licensed facilities constructed and operating on the date of the MTA license grant.
+
+[60 FR 21991, May 4, 1995, as amended at 60 FR 48918, Sept. 21, 1995; 60 FR 61487, Nov. 30, 1995; 64 FR 39942, July 23, 1999]

@@ -1,0 +1,29 @@
+##### § 63.5990 What are my general requirements for complying with this subpart? #####
+
+(a) Before January 21, 2021, you must be in compliance with the applicable emission limitations specified in tables 1 through 4 to this subpart at all times, except during periods of startup, shutdown, and malfunction if you are using a control device to comply with an emission limit. After January 20, 2021, you must be in compliance with the applicable emission limitations specified in tables 1 through 4 to this subpart at all times. After November 29, 2024, you must be in compliance with the applicable emission limitations for rubber processing specified in tables 15 and 16 to this subpart at all times according to the compliance dates in § 63.5983.
+
+(b) Before January 21, 2021, except as provided in § 63.5982(b)(4), you must always operate and maintain your affected source, including air pollution control and monitoring equipment, according to the provisions in § 63.6(e)(1)(i). After January 20, 2021, at all times, you must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require you to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether a source is operating in compliance with operation and maintenance requirements will be based on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the source.
+
+(c) During the period between the compliance date specified for your source in § 63.5983 and the date upon which continuous compliance monitoring systems (CMS) have been installed and validated and any applicable operating limits have been set, you must maintain a log detailing the operation and maintenance of the process and emission control equipment.
+
+(d) Before January 21, 2021, for each affected source that complies with the emission limits in Tables 1 through 3 to this subpart using a control device, you must develop a written startup, shutdown, and malfunction plan according to the provisions in § 63.6(e)(3). After January 20, 2021, a startup, shutdown, and malfunction plan is not required.
+
+(e) For each monitoring system required in this section, you must develop and submit for approval a site-specific monitoring plan that addresses the requirements in paragraphs (e)(1) through (3) of this section as follows:
+
+(1) Installation of the CMS sampling probe or other interface at a measurement location relative to each affected process unit so that the measurement is representative of control of the exhaust emissions (*e.g.,* on or downstream of the last control device);
+
+(2) Performance and equipment specifications for the sample interface, the pollutant concentration or parametric signal analyzer, and the data collection and reduction system; and
+
+(3) Performance evaluation procedures and acceptance criteria (*e.g.,* calibrations).
+
+(f) Before January 21, 2021, in your site-specific monitoring plan, you must also address the ongoing procedures specified in paragraphs (f)(1) through (3) of this section as follows. After January 20, 2021, in your site-specific monitoring plan, you must also address the ongoing procedures specified in paragraphs (f)(1) through (4) of this section as follows.
+
+(1) Ongoing operation and maintenance procedures in accordance with the general requirements of § 63.8(c)(1), (3), (4)(ii), (7), and (8), and this section;
+
+(2) Before January 21, 2021, ongoing data quality assurance procedures in accordance with the general requirements of § 63.8(d). After January 20, 2021, ongoing data quality assurance procedures in accordance with the general requirements of § 63.8(d)(1) and (2). The owner or operator shall keep these written procedures on record for the life of the affected source or until the affected source is no longer subject to the provisions of this part, to be made available for inspection by the Administrator. If the performance evaluation plan is revised, the owner or operator shall keep previous (*i.e.,* superseded) versions of the performance evaluation plan on record to be made available for inspection by the Administrator, for a period of 5 years after each revision to the plan. The program of corrective action should be included in the plan required under § 63.8(d)(2).
+
+(3) Before January 21, 2021, ongoing recordkeeping and reporting procedures in accordance with the general requirements of § 63.10(c), (e)(1), and (e)(2)(i). After January 20, 2021, the owner or operator shall keep these written procedures on record for the life of the affected source or until the affected source is no longer subject to the provisions of this part, to be made available for inspection, upon request, by the Administrator. If the performance evaluation plan is revised, the owner or operator shall keep previous (*i.e.,* superseded) versions of the performance evaluation plan on record to be made available for inspection, upon request, by the Administrator, for a period of 5 years after each revision to the plan. The program of corrective action should be included in the plan required under § 63.8(d)(2); and
+
+(4) After January 20, 2021, ongoing recordkeeping and reporting procedures in accordance with the general requirements of § 63.10(c), (e)(1), and (e)(2)(i).
+
+[67 FR 45598, July 9, 2002, as amended at 71 FR 20466, Apr. 20, 2006; 85 FR 44761, July 24, 2020; 89 FR 94907, Nov. 29, 2024]

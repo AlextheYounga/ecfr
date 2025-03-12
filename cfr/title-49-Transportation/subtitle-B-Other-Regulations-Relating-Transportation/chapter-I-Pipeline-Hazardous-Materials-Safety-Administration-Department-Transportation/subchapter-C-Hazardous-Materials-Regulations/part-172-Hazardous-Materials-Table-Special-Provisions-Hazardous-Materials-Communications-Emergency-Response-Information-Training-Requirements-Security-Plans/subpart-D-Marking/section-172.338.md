@@ -1,0 +1,5 @@
+##### § 172.338 Replacement of identification numbers. #####
+
+If more than one of the identification number markings on placards, orange panels, or white square-on-point display configurations that are required to be displayed are lost, damaged or destroyed during transportation, the carrier shall replace all the missing or damaged identification numbers as soon as practicable. However, in such a case, the numbers may be entered by hand on the appropriate placard, orange panel or white square-on-point display configuration providing the correct identification numbers are entered legibly using an indelible marking material. When entered by hand, the identification numbers must be located in the white display area specified in § 172.332. This section does not preclude required compliance with the placarding requirements of subpart F of this subchapter.
+
+[Amdt. 172-110, 52 FR 29528, Aug. 10, 1987]

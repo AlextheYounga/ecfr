@@ -1,0 +1,7 @@
+##### 3409.407-3 Procedures. #####
+
+(b) *Decision making process.*
+
+(1) Contractors suspended in accordance with FAR 9.407 may submit, in person, in writing, or through a representative, information and argument in opposition to the suspension. The contractor must submit this information and argument within 30 days of receipt of the notice of suspension, as described in FAR 9.407-3(c).
+
+(2) In actions not based upon an indictment, if the contractor's submission in opposition raises a genuine dispute over facts material to the suspension and if no determination has been made, on the basis of Department of Justice advice, that substantial interests of the Government in pending or contemplated legal proceedings based on the same facts as the suspension would be prejudiced, the contractor may request a fact-finding conference. The Suspending Official will conduct fact-finding and base the decision in accordance with FAR 9.407-3(b)(2) and (d) through (e).

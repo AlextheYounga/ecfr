@@ -1,0 +1,3 @@
+##### § 308.600 Scope. #####
+
+This subpart, which implements section 36(g)(4) of the FDIA (12 U.S.C. 1831m(g)(4)), provides rules and procedures for the removal, suspension, or debarment of independent public accountants and accounting firms from performing independent audit and attestation services required by section 36 of the FDIA (12 U.S.C. 1831m) for insured depository institutions for which the FDIC is the appropriate Federal banking agency.

@@ -1,0 +1,3 @@
+##### § 734.701 General. #####
+
+In addition to the provisions regulating political activity set forth in subparts A through G of this part, there are a number of statutes and Executive orders that establish standards to which the political activity of an employee, a Federal labor organization, a Federal employee organization, and a multicandidate political committee must conform. The list set forth in § 734.702 references some of the more significant of those statutes. It is not comprehensive and includes only references to statutes of general applicability.

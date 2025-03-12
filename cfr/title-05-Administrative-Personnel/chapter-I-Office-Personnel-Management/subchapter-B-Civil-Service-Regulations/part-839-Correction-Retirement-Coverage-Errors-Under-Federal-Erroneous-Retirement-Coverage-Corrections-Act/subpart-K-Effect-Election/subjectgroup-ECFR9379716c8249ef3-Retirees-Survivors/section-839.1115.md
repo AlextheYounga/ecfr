@@ -1,0 +1,3 @@
+##### § 839.1115 What is an actuarial reduction? #####
+
+An actuarial reduction allows you to receive benefits without having to pay an amount due in a lump sum. OPM reduces your annuity in a way that, on average, allows the Fund to recover the amount of the missing lump sum over your lifetime. The actuarial reduction becomes a permanent reduction in your benefit. The amount of the reduction depends on your age and the amount of the lump sum you would otherwise have to pay at that time. To compute an actuarial reduction, OPM divides the lump sum amount by the present value factor for your age at retirement.

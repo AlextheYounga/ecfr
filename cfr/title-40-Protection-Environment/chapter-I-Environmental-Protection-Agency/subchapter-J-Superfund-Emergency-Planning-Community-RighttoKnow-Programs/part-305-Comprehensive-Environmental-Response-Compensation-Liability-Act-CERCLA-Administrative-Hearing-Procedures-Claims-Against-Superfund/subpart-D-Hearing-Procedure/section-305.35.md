@@ -1,0 +1,3 @@
+##### § 305.35 Proposed findings, conclusions, and order. #####
+
+Within 20 days after the parties are notified of the availability of the transcript, any party may submit for the consideration of the Presiding Officer proposed findings of fact, conclusions of law, and a proposed order, together with briefs in support thereof. The Presiding Officer shall set a time by which reply briefs may be submitted. The Presiding Officer may by order extend the time or change the schedule of such submissions or allow further submissions as may be appropriate. All submissions shall be in writing, shall be served upon all parties, and shall contain references to the record for all proposed findings of fact and appropriate citations for authorities relied upon.

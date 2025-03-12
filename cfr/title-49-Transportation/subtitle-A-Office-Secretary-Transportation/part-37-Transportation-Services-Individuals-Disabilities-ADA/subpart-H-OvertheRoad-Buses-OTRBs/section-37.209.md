@@ -1,0 +1,3 @@
+##### § 37.209 Training and other requirements. #####
+
+OTRB operators shall comply with the requirements of §§ 37.161, 37.165-37.167, and 37.173. For purposes of § 37.173, “training to proficiency” is deemed to include, as appropriate to the duties of particular employees, training in proper operation and maintenance of accessibility features and equipment, boarding assistance, securement of mobility aids, sensitive and appropriate interaction with passengers with disabilities, handling and storage of mobility devices, and familiarity with the requirements of this subpart. OTRB operators shall provide refresher training to personnel as needed to maintain proficiency.

@@ -1,0 +1,3 @@
+##### 1227.305-4 Conveyance of invention rights acquired by the Government. #####
+
+Solicitations and contracts that include a patent rights clause must provide the contractor the means to report inventions made in the course of contract performance and at contract completion. This requirement may be fulfilled by requiring the contractor to submit a DD Form 882, Report of Inventions and Subcontracts.

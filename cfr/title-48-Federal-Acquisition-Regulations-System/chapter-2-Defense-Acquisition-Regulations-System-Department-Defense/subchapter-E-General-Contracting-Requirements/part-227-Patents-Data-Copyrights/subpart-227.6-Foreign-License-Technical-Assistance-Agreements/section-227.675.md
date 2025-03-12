@@ -1,0 +1,1 @@
+##### 227.675 Foreign license and technical assistance agreements between a domestic concern and a foreign government or concern. #####

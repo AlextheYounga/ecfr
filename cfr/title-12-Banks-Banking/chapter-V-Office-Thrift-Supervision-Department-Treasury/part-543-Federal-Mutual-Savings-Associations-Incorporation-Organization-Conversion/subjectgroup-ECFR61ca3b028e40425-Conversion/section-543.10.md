@@ -1,0 +1,3 @@
+##### § 543.10 Organization after conversion. #####
+
+Except as provided in § 543.11, after a Federal charter is issued under § 543.9 the association's members shall, after due notice, or upon a valid adjournment of a previous legal meeting, hold a meeting to elect directors and take all other action necessary fully to effect the conversion and operate the association in accordance with law and these rules and regulations. Immediately thereafter the board of directors shall meet, elect officers, and transact any other appropriate business.

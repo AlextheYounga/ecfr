@@ -1,0 +1,3 @@
+##### 616.103 Negotiating contract type. #####
+
+(d) The Procurement Executive has issued class determinations for the following categories of contracts awarded by overseas contracting activities: painting, vehicle insurance, vehicle rental, alarm installation, cell phone rental, janitorial, hotel and cost per copy services; gardening and maintenance services; and packing/shipping services. Copies may be found in the Overseas Contracting and Simplified Acquisition Guidebook. Contracting officers need not develop their own determinations provided that they use A/OPE's model solicitations. Contracting officers shall place a copy of the appropriate determination in the contract file.

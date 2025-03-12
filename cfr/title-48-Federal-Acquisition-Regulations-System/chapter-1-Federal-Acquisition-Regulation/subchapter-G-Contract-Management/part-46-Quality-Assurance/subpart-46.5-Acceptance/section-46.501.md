@@ -1,0 +1,3 @@
+##### 46.501 General. #####
+
+Acceptance constitutes acknowledgment that the supplies or services conform with applicable contract quality and quantity requirements, except as provided in this subpart and subject to other terms and conditions of the contract. Acceptance may take place before delivery, at the time of delivery, or after delivery, depending on the provisions of the terms and conditions of the contract. Supplies or services shall ordinarily not be accepted before completion of Government contract quality assurance actions (however, see 46.504). Acceptance shall ordinarily be evidenced by execution of an acceptance certificate on an inspection or receiving report form or commercial shipping document/packing list.

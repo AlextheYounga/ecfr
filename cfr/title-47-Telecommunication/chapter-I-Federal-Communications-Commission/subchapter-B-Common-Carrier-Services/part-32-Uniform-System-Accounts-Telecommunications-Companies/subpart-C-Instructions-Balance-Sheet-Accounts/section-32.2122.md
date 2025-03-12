@@ -1,0 +1,3 @@
+##### § 32.2122 Furniture. #####
+
+This account shall include the original cost of furniture in offices, storerooms, shops, and all other quarters. This account shall also include the cost of objects which possess aesthetic value, are of original or limited edition, and do not have a determinable useful life. The cost of any furniture attached to and constituting a part of a building shall be charged to account 2121, Buildings.

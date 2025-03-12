@@ -1,0 +1,7 @@
+##### § 1708.104 Confidentiality of safety investigations and privileged safety information. #####
+
+(a) Information obtained during the course of a preliminary safety inquiry or a formal safety investigation may be treated as confidential, safety privileged, and non-public by the Board and its staff, to the extent permissible under existing law. The information subject to this protection includes but is not limited to: Identity of witnesses; recordings; statements; testimony; transcripts; emails; all documents, whether or not obtained pursuant to Board subpoena; any conclusions based on privileged safety information; any deliberations or recommendations as to policies to be pursued; and all other related investigative proceedings and activities.
+
+(b) The Board shall have the discretion to assert the safety privilege when safety information, determined by the Board as protected from release, is sought by any private or public governmental entity or by parties to litigation who attempt to compel its release.
+
+(c) Nothing in this section voids or otherwise displaces the Board's legal obligations with respect to the Freedom of Information Act, the Government in the Sunshine Act, or any procedures or requirements contained in the Board's regulations issued pursuant to those Acts.

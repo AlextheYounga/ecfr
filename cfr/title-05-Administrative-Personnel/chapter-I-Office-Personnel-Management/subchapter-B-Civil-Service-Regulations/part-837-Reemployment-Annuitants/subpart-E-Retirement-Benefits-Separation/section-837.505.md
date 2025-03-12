@@ -1,0 +1,7 @@
+##### § 837.505 Cost-of-living adjustments on Member annuities. #####
+
+(a) *Applying cost-of-living adjustments to recomputed Member annuities under CSRS.* A member annuity benefit that is recomputed under section 8344(d)(1) of title 5, United States Code, which applies to certain former Members who become employed in an appointive position subject to CSRS, will include the cost-of-living adjustments under section 8340 of title 5, United States Code, that are effective after the commencing date of the benefit computed under section 8344(d)(1).
+
+(b) *Limitations on cost-of-living adjustments on recomputed Member annuities under CSRS.* For purposes of determining limitations on cost-of-living adjustments under section 8340(g) of title 5, United States Code, the final (or average) salary of a Member whose benefit has been recomputed under section 8344(d)(1) of title 5, United States Code, which applies to certain former Members who become employed in an appointive position subject to CSRS, will be increased by adjustments in the rates of the General Schedule under subpart I of chapter 53 of title 5, United States Code, that are effective after the commencing date of the benefit computed under section 8344(d)(1).
+
+[59 FR 10267, Mar. 4, 1994]

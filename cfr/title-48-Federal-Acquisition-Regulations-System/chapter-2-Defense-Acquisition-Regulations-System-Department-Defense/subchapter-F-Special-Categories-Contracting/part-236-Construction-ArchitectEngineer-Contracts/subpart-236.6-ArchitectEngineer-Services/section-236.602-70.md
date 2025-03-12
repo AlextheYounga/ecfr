@@ -1,0 +1,5 @@
+##### 236.602-70 Restriction on award of overseas architect-engineer contracts to foreign firms. #####
+
+In accordance with section 111 of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2015 (Division I of Pub. L. 113-235) and the same provision in subsequent military construction appropriations acts, architect-engineer contracts funded by military construction appropriations that are estimated to exceed $500,000 and are to be performed in Japan, in any North Atlantic Treaty Organization member country, or in countries bordering the Arabian Gulf (*i.e.,* Iran, Oman, United Arab Emirates, Saudi Arabia, Qatar, Bahrain, Kuwait, and Iraq), shall be awarded only to United States firms or to joint ventures of United States and host nation firms.
+
+[80 FR 15911, Mar. 26, 2015]

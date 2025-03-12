@@ -1,0 +1,3 @@
+##### § 99.5 Emergency situations. #####
+
+In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from the rules in this part to the extent required by that emergency. He shall report the reasons for the deviation to the communications facility where flight plans or position reports are normally filed (referred to in this part as “an appropriate aeronautical facility”) as soon as possible.

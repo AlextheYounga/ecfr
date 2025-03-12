@@ -1,0 +1,3 @@
+##### § 35.3 Noncompliance; deprivation of privileges. #####
+
+Any patient who wilfully fails or refuses to comply with rules or instructions of a hospital or station or with regulations of the Service, may, by the direction of the officer in charge, be deprived of recreational or other privileges accorded patients. Any visitor who wilfully fails or refuses to comply with any such rules, instructions, or regulations may, by direction of the officer in charge, be denied visiting privileges.

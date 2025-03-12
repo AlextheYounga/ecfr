@@ -1,0 +1,11 @@
+##### § 8601.102 Prior approval for outside employment. #####
+
+(a) Before engaging in outside employment, with or without compensation, an employee, other than a special Government employee, must obtain written approval from his or her office director. The written request shall be submitted through the employee's immediate supervisor, unless the supervisor is the employee's office director, and shall identify the employer or other person for whom the services are to be provided, as well as the duties, hours of work, and compensation involved in the proposed outside employment.
+
+(b) Approval under paragraph (a) of this section shall be granted only upon a determination that the outside employment is not expected to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635.
+
+(c) In addition to the approval required by paragraph (a) of this section, an employee whose outside employment involves teaching, speaking, or writing that relates to his or her official duties within the meaning of 5 CFR 2635.807(a)(2) shall obtain approval from the Executive Director of the Board to engage in the activity as an outside activity, rather than as part of the employee's official duties.
+
+(d) For purposes of this section, employment means any form of non-Federal employment or business relationship involving the provision of personal services by the employee. It includes, but is not limited to, personal services as an officer, director, employee, agent, attorney, consultant, contractor, general partner, trustee, teacher or speaker. It includes writing when done under an arrangement with another person for production or publication of the written product. It does not, however, include participation in the activities of a nonprofit charitable, religious, professional, social, fraternal, educational, recreational, public service or civil organization, unless the participation involves the provision of professional services or advice for compensation other than reimbursement for actual expenses.
+
+[59 FR 50817, Oct. 6, 1994]

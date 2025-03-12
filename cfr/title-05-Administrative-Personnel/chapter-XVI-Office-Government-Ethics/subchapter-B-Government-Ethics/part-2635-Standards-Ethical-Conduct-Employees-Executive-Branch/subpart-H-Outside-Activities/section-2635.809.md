@@ -1,0 +1,3 @@
+##### § 2635.809 Just financial obligations. #####
+
+Employees shall satisfy in good faith their obligations as citizens, including all just financial obligations, especially those such as Federal, State, or local taxes that are imposed by law. For purposes of this section, a just financial obligation includes any financial obligation acknowledged by the employee or reduced to judgment by a court. In good faith means an honest intention to fulfill any just financial obligation in a timely manner. In the event of a dispute between an employee and an alleged creditor, this section does not require an agency to determine the validity or amount of the disputed debt or to collect a debt on the alleged creditor's behalf.

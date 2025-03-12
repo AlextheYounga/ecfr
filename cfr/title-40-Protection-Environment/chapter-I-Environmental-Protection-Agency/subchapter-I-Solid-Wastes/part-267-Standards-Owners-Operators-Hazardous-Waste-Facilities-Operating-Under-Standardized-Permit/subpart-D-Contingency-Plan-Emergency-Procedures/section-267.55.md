@@ -1,0 +1,3 @@
+##### § 267.55 What is the role of the emergency coordinator? #####
+
+At least one employee must be either on the facility premises or on call at all times (that is, available to respond to an emergency by reaching the facility within a short period of time) who has the responsibility for coordinating all emergency response measures. This emergency coordinator must be thoroughly familiar with all aspects of the facility's contingency plan, all operations and activities at the facility, the location and characteristics of waste handled, the location of all records within the facility, and the facility layout. In addition, this person must have the authority to commit the resources needed to carry out the contingency plan.

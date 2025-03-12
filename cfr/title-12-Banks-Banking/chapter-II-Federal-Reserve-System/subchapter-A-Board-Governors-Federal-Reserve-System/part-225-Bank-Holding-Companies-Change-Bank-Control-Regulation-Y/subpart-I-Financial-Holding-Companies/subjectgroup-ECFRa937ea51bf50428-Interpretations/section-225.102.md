@@ -1,0 +1,15 @@
+##### § 225.102 Bank holding company indirectly owning nonbanking company through subsidiaries. #####
+
+(a) The Board of Governors has been requested for an opinion regarding the exemptions contained in section 4(c)(5) of the Bank Holding Company Act of 1956. It is stated that Y Company is an investment company which is not a bank holding company and which is not engaged in any business other than investing in securities, which securities do not include more than 5 per centum of the outstanding voting securities of any company and do not include any asset having a value greater than 5 per centum of the value of the total assets of X Corporation, a bank holding company. It is stated that direct ownership by X Corporation of voting shares of Y Company would be exempt by reason of section 4(c)(5) from the prohibition of section 4 of the Act against ownership by bank holding companies of nonbanking assets.
+
+(b) It was asked whether it makes any difference that the shares of Y Company are not owned directly by X Corporation but instead are owned through Subsidiaries A and B. X Corporation owns all the voting shares of Subsidiary A, which owns one-half of the voting shares of Subsidiary B. Subsidiaries A and B each own one-third of the voting shares of Y Company.
+
+(c) Section 4(c)(5) is divided into two parts. The first part exempts the ownership of securities of nonbanking companies when the securities do not include more than 5 percent of the voting securities of the nonbanking company and do not have a value greater than 5 percent of the value of the total assets of the bank holding company. The second part exempts the ownership of securities of an investment company which is not a bank holding company and is not engaged in any business other than investing in securities, provided the securities held by the investment company meet the 5 percent tests mentioned above.
+
+(d) In § 225.101, the Board expressed the opinion that the first exemption in section 4(c)(5):
+
+\* \* \* is as applicable to such shares when held by a banking subsidiary of a bank holding company as when held directly by the bank holding company itself. While the exemption specifically refers only to shares held or acquired by the bank holding company, the prohibition of the Act against retention of nonbanking interests applies to indirect as well as direct ownership of shares of a nonbanking company, and, in the absence of a clear mandate to the contrary, any exception to this prohibition should be given equal breadth with the prohibition. Any other interpretation would lead to unwarranted results.
+
+(e) The Board is of the view that the principles stated in that opinion are also applicable to the second exemption in section 4(c)(5), and that they apply whether or not the subsidiary owning the shares is a banking subsidiary. Accordingly, on the basis of the facts presented, the Board is of the opinion that the second exemption in section 4(c)(5) applies to the indirect ownership by X Corporation of shares of Y Company through Subsidiaries A and B.
+
+[22 FR 2533, Apr. 13, 1957. Redesignated at 36 FR 21666, Nov. 12, 1971]

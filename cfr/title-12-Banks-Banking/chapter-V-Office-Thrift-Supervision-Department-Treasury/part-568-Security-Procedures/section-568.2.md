@@ -1,0 +1,3 @@
+##### § 568.2 Designation of security officer. #####
+
+Within 30 days after the effective date of insurance of accounts, the board of directors of each savings association shall designate a security officer who shall have the authority, subject to the approval of the board of directors, to develop, within a reasonable time but no later than 180 days, and to administer a written security program for each of the association's offices.

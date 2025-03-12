@@ -1,0 +1,3 @@
+##### § 161.417 Notification of status of restrictions and agreements not meeting conditions-of-approval criteria. #####
+
+If the FAA has withdrawn all or part of a previous approval made under subpart D of this part, the relevant portion of the Stage 3 restriction must be rescinded. The operator of the affected airport shall notify the FAA of the operator's action with regard to a restriction affecting Stage 3 aircraft operations that has been found not to meet the criteria of § 161.305. Restrictions in agreements determined by the FAA not to meet conditions for approval may not be enforced with respect to Stage 3 aircraft operations.

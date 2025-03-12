@@ -1,0 +1,3 @@
+##### § 725.1 Scope. #####
+
+This part contains the regulations implementing the National Credit Union Central Liquidity Facility Act, subchapter III of the Federal Credit Union Act. The National Credit Union Administration Central Liquidity Facility is a mixed-ownership Government corporation within the National Credit Union Administration. It is managed by the National Credit Union Administration Board and is owned by its member credit unions. The purpose of the Facility is to improve the general financial stability of credit unions by meeting their liquidity needs and thereby encourage savings, support consumer and mortgage lending and provide basic financial resources to all segments of the economy.

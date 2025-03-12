@@ -1,0 +1,7 @@
+##### § 537.12 Confidential information. #####
+
+(a) Information made available under § 537.11 for public inspection does not include information for which confidentiality is requested under § 537.5(c)(7), is granted in accordance with section 505 of the Act and section 552(b) of Title 5 of the United States Code and is not subsequently released under paragraph (c) of this section in accordance with section 505 of the Act.
+
+(b) *Denial of confidential treatment.* When the Administrator denies a manufacturer's request under § 537.5(c)(7) for confidential treatment of information, the Administrator gives the manufacturer written notice of the denial and reasons for it. Public disclosure of the information is not made until after the ten-day period immediately following the giving of the notice.
+
+(c) *Release of confidential information.* After giving written notice to a manufacturer and allowing ten days, when feasible, for the manufacturer to respond, the Administrator may make available for public inspection any information submitted under this part that is relevant to a proceeding under the Act, including information that was granted confidential treatment by the Administrator pursuant to a request by the manufacturer under § 537.5(c)(7).

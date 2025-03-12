@@ -1,0 +1,3 @@
+##### § 630.8 Questionable data items. #####
+
+FTA may enter a zero, or adjust any questionable data item(s), in any reporting entity's NTD submission that is used in computing the Section 5307 apportionment. These adjustments may be made if any data appears to be inaccurate, have not been collected and reported in accordance with FTA reference documents, or if there is not adequate documentation and a reliable recordkeeping system.

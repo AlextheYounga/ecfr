@@ -1,0 +1,7 @@
+##### § 1245.105 Waiver after reporting inventions. #####
+
+(a) The provisions of this section apply to petitions for waiver of domestic rights to identified inventions which have been reported to NASA and to which a waiver of rights has not been granted pursuant to § 1245.104.
+
+(b)(1) When an individual identified invention has been reported to NASA under the applicable terms of the contract and waiver of rights has not been granted under § 1245.104, the Board normally will recommend grant of a request for waiver of domestic rights to such invention if the request is received within 8 months of first disclosure to NASA (or such longer period that the Board may permit for good cause shown), unless the Board finds that one or more of the situations set forth in § 1245.104(b)(3)(i) through (v) exist. When granted, the waiver will be subject to the reservations set forth in § 1245.107 in the same manner as discussed in § 1245.104(c)(1).
+
+(2) The waiver shall extend to the invention claimed in the patent application filed on the reported invention, including any subsequent divisional or continuation application thereof, provided the claims of the subsequent application do not substantially change the scope of the reported invention.

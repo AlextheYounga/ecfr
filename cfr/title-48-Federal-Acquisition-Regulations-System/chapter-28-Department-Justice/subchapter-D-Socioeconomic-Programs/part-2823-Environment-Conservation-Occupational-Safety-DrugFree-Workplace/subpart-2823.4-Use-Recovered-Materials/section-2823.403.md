@@ -1,0 +1,3 @@
+##### 2823.403 Policy. #####
+
+It is the policy of DOJ that its contracting activities and contractors that procure on behalf of DOJ, acquire EPA designated items in accordance with EPA's Comprehensive Procurement Guideline For Products Containing Recovered Materials (CPG) (40 CFR part 247). The recommended minimum recovered materials content of EPA designated items is set forth in EPA's Recovered Materials Advisory Notices (RMANs) and in E.O. 12873 as amended. These publications are available from the DOJEE.

@@ -1,0 +1,3 @@
+##### § 60.112 Overall system performance objective for the geologic repository after permanent closure. #####
+
+The geologic setting shall be selected and the engineered barrier system and the shafts, boreholes and their seals shall be designed to assure that releases of radioactive materials to the accessible environment following permanent closure conform to such generally applicable environmental standards for radioactivity as may have been established by the Environmental Protection Agency with respect to both anticipated processes and events and unanticipated processes and events.

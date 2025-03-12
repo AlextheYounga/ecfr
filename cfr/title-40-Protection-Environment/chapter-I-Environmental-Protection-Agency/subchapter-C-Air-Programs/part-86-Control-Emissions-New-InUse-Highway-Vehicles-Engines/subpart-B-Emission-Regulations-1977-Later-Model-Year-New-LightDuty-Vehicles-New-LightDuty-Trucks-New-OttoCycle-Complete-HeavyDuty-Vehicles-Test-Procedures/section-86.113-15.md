@@ -1,0 +1,31 @@
+##### § 86.113-15 Fuel specifications. #####
+
+(a) *Gasoline fuel.* This paragraph (a) describes how to transition to an ethanol-blend test fuel for vehicles certified under subpart S of this part. You may use the test fuels specified in § 86.113-04(a) for vehicles that are not yet subject to testing with the new fuel. You may use the specified ethanol-blend test fuel anytime earlier than we specify as long as you use the corresponding procedures for measuring and calculating emission results. See 40 CFR 600.117 for special provisions that apply for emission measurements related to fuel economy and greenhouse gases. Manufacturers must certify using E10 test fuel as specified in 40 CFR part 1065, subpart H, and service accumulation fuel meeting applicable specifications as follows:
+
+(1) Except as allowed under paragraph (a)(2) of this section, Use E10 test fuel to demonstrate compliance with the Tier 3 exhaust emission standards as specified in § 86.1811 and 86.1816, and to demonstrate compliance with the Tier 3 evaporative emission standards as specified in § 86.1813.
+
+(2) You may use California test fuels to demonstrate compliance with Tier 3 emission standards as follows:
+
+(i) For vehicles certified for 50-state sale, you may instead use California Phase 3 gasoline (E10) as adopted in California's LEV III program for exhaust emission testing. Through model year 2019, we will also use this E10 fuel for any low-altitude exhaust emission testing with such vehicles. Starting in model year 2020, we may use test fuel meeting either California Phase 3 gasoline (E10) or the gasoline (E10) test fuel specified in this paragraph (a). For cold temperature testing and for exhaust emission tests at high-altitude conditions, you may certify vehicles through model year 2019 based on testing with the gasoline (E0) test fuel specified in § 86.113-04(a); for such vehicles, we may use test fuel meeting either the gasoline (E0) test fuel specified in § 86.113-04(a) or the gasoline (E10) test fuel specified in this paragraph (a).
+
+(ii) For vehicles that were certified to SULEV exhaust emission standards with a 150,000 mile useful life under California's LEV II program and that are eligible to use that carryover data for continued certification, you may use that carryover data to demonstrate compliance with the exhaust emission standards that apply for Bin 30 vehicles under § 86.1811-17 for model years 2015 through 2019. The test fuel specifications that applied for the original emission measurements under the LEV II program also apply for any additional exhaust testing under the Tier 3 program, including confirmatory testing, selective enforcement auditing, and in-use testing. For vehicles certified under this paragraph (a)(2)(ii), use the E10 test fuel specified in 40 CFR 1065.710 for cold temperature testing and high-altitude testing.
+
+(iii) For vehicles certified for 50-state sale, you may instead use California test fuel for evaporative emission testing as follows:
+
+(A) If you originally certified vehicles in California in model year 2015 or 2016 to PZEV standards with California Phase 2 gasoline, you may use that data with carryover vehicles to certify to the Tier 3 evaporative emission standards through model year 2019. We will use this same fuel to measure diurnal, hot soak, running loss, and SHED rig emissions at low-altitude conditions for such vehicles. For refueling, spitback, and high-altitude testing, you may use test fuel meeting either the gasoline (E0) test fuel specified in § 86.113-04(a) or the gasoline (E10) test fuel specified in this paragraph (a); we may use either of the specified fuels for our testing. For leak testing, you must use the gasoline (E10) test fuel specified in this paragraph (a).
+
+(B) If you certify vehicles to LEV III standards with California Phase 3 gasoline (E10), you may use that collection of data to certify to the Tier 3 evaporative emission standards. Through model year 2019, we will use this same fuel to measure diurnal, hot soak, running loss, SHED rig, and canister bleed emissions (as appropriate) at low-altitude conditions; starting in model year 2020, we may use either California Phase 3 gasoline (E10) or the gasoline (E10) test fuel specified in this paragraph (a) for our testing with such vehicles. For refueling, spitback, high-altitude, and leak testing, you must use the gasoline (E10) test fuel specified in this paragraph (a), except that you may instead use the gasoline (E0) test fuel specified in § 86.113-04(a) for model year 2015 and 2016; we will use your selected fuel for our testing. Note that you may no longer certify vehicles to the Tier 3 standards based on California's rig-testing procedures after model year 2021, as described in § 86.1813-17(g).
+
+(C) For evaporative emission testing with California test fuels, perform tests based on the test temperatures specified by the California Air Resources Board.
+
+(3) Except as specified in paragraph (a)(2)(iii) of this section and in this paragraph (a)(3), use E10 test fuel to demonstrate compliance with the refueling and spitback emission standards for any vehicles that must be certified to meet the diurnal plus hot soak standards with E10 test fuel under paragraphs (a)(1) and (2) of this section. You may delay using E10 test fuel until model year 2022 for incomplete heavy-duty vehicles not certified to refueling emission standards.
+
+(4) If a vehicle uses E10 test fuel for evaporative emission testing and E0 is the applicable test fuel for exhaust emission testing, exhaust measurement and reporting requirements apply over the course of the evaporative emission test, but the vehicle need not meet the exhaust emission standards during the evaporative emission test run.
+
+(5) For service accumulation, use a commercially available fuel, subject to the additional specification in § 86.1824-08(f) for evaporative emissions.
+
+(b) Diesel fuel. For diesel-fueled engines, use the ultra low-sulfur diesel fuel specified in 40 CFR 1065.703.
+
+(c) Other fuels. For fuels other than gasoline or diesel fuel, use the appropriate test fuel as specified in 40 CFR part 1065, subpart H.
+
+[79 FR 23694, Apr. 28, 2014, as amended at 89 FR 28156, Apr. 18, 2024]

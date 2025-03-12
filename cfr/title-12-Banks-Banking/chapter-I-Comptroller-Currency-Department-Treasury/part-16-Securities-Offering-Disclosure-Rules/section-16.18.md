@@ -1,0 +1,5 @@
+##### § 16.18 Use of prospectus. #####
+
+(a) No person shall use a prospectus or amendment declared effective by the OCC more than nine months after the effective date unless the information contained in the prospectus or amendment is as of a date not more than 16 months prior to the date of use.
+
+(b) If any event arises, or change in fact occurs, after the effective date and that event or change in fact, individually or in the aggregate, results in the prospectus containing any untrue statement of material fact, or omitting to state a material fact necessary in order to make statements made in the prospectus not misleading under the circumstances, then no person shall use the prospectus that has been declared effective under this part until an amendment reflecting the event or change has been filed with and declared effective by the OCC.

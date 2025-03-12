@@ -1,0 +1,3 @@
+##### § 75.1101-3 Water requirements. #####
+
+Deluge-type water spray systems shall be attached to a water supply. Water so supplied shall be free of excessive sediment and noncorrosive to the system Water pressure shall be maintained consistent with the pipe, fittings, valves, and nozzles at all times. Water systems shall include strainers with a flush-out connection and a manual shut-off valve. The water supply shall be adequate to provide flow for 10 minutes except that pressure tanks used as a source of water supply shall be of 1,000-gallon capacity for a fire-resistant belt and 3,000 gallons for a nonfire-resistant belt may be provided.

@@ -1,0 +1,5 @@
+##### § 269.8 Grievance procedures. #####
+
+(a) Subject to the provisions of § 269.3(b), an agreement entered into with a labor organization as the exclusive representative of employees in a unit may contain a grievance procedure, applicable only to employees in such unit and which shall be the exclusive means for a labor organization and/or an employee to obtain resolution of a grievance arising under such agreement.
+
+(b) Grievance procedures established by a labor agreement may also include provisions for arbitration of unresolved grievances by a tripartite panel under the Voluntary Labor Arbitration Rules of the Association with the impartial arbitrator selected by the Bank and labor organization representatives on the arbitration panel to be the Chairperson. In such event, arbitration shall extend only to grievances which involve the interpretation and application of specific provisions of a labor agreement and not to any other matters or to changes in or proposed changes in the agreement. Arbitration may only be invoked by labor organization on behalf of individual employees with their concurrence.

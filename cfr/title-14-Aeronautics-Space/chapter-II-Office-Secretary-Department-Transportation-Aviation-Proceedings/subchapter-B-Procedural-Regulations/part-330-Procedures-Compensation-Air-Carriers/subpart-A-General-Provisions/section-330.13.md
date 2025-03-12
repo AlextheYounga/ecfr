@@ -1,0 +1,3 @@
+##### § 330.13 If an air carrier received compensation under the Act previously, does it have to submit a third-round application? #####
+
+Yes, if, as an air carrier, you previously received compensation under section 101(a)(2) of the Act, you must, in all cases, submit a complete Form 330 (Final) and other documents required under this part. You must do so even if you are not seeking additional compensation.

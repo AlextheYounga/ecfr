@@ -1,0 +1,3 @@
+##### § 57.6600 Loading practices. #####
+
+If extraneous electricity is suspected in an area where electric detonators are used, loading shall be suspended until tests determine that stray current does not exceed 0.05 amperes through a 1-ohm resister when measured at the location of the electric detonators. If greater levels of extraneous electricity are found, the source shall be determined and no loading shall take place until the condition is corrected.

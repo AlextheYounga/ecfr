@@ -1,0 +1,3 @@
+##### § 436.15 Formatting cost data. #####
+
+In establishing cost data under §§ 436.16 and 436.17 and measuring cost effectiveness by the modes of analysis described by § 436.19 through § 436.22, a format for accomplishing the analysis which includes all required input data and assumptions shall be used. Subject to § 436.18(b), Federal agencies are encouraged to use worksheets or computer software referenced in the Life Cycle Cost Manual for the Federal Energy Management Program.

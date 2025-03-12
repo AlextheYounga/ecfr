@@ -1,0 +1,3 @@
+##### § 63.9924 How do I demonstrate continuous compliance with the operation and maintenance requirements that apply to me? #####
+
+For each emission point subject to an emission limit in Table 1 to this subpart, you must demonstrate continuous compliance with the operation and maintenance requirements in § 63.9900 by performing preventive maintenance for each control device according to § 63.9900(b) and recording all information needed to document conformance with these requirements.

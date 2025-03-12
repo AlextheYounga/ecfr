@@ -1,0 +1,9 @@
+##### § 417.937 Loan and loan guarantee provisions. #####
+
+(a) *Disbursement of loan proceeds.* The principal amount of any loan made or guaranteed by the Secretary under this subpart was disbursed to the entity in accordance with an agreement entered into between the parties to the loan and approved by the Secretary.
+
+(b) *Length and maturity of loans.* The principal amount of each loan or loan guarantee, together with interest thereon, is repayable over a period of 22 years, beginning on the date of endorsement of the loan, or loan guarantee by the Secretary. The Secretary could approve a shorter repayment period if he or she determined that a repayment period of less than 22 years is more appropriate to an entity's total financial plan.
+
+(c) *Repayment.* The principal amount of each loan or loan guarantee, together with interest thereon is repayable in accordance with a repayment schedule that is agreed upon by the parties to the loan or loan guarantee and approved by the Secretary before or at the time of endorsement of the loan. Unless otherwise specifically authorized by the Secretary, each loan made or guaranteed by the Secretary is repayable in substantially level combined installments of principal and interest to be paid at intervals not less frequently than annually, sufficient in amount to amortize the loan through the final year of the life of the loan. Principal repayment during the first 60 months of operation could be deferred with payment of interest only during that period. The Secretary could set rates of interest for each disbursement at a rate comparable to the rate of interest prevailing on the date of disbursement for marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges.
+
+[59 FR 49842, Sept. 30, 1994]

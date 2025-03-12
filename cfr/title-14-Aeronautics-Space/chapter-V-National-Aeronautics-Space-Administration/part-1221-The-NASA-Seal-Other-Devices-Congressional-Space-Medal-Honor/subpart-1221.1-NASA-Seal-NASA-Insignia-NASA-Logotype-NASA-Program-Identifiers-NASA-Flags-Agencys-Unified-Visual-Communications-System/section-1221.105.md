@@ -1,0 +1,3 @@
+##### § 1221.105 Establishment of NASA Program Identifiers. #####
+
+A separate and unique identifier may be designed and approved in connection with or in commemoration of a major NASA program. Each approved identifier shall be officially identified by its title such as “Apollo,” “Skylab,” “Viking,” “Space Shuttle,” “Space Station,” or a major NASA anniversary. NASA Program Identifiers shall be used as set forth in § 1221.112 pursuant to approval as set forth in § 1221.114.

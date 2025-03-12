@@ -1,0 +1,3 @@
+##### § 353.109 Transfer of function to another agency. #####
+
+If the function of an employee absent because of uniformed service or compensable injury is transferred to another agency, and if the employee would have been transferred with the function under part 351 of this chapter had he or she not been absent, the employee is entitled to be placed in a position in the gaining agency that is equivalent to the one he or she left. It shall also assume the obligation to restore the employee in accordance with law and this part.

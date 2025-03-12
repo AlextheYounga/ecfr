@@ -1,0 +1,3 @@
+##### § 719.51 What information must be forwarded to the General Counsel's Office concerning contractor submissions to Department Counsel under this part? #####
+
+Department Counsel must submit through the General Counsel reporting system, the reviewed costs and status updates for all matters involving retained counsel, including but not limited to contractor litigation. The reports are to be received by the 15th day of the month following the end of each quarter of the fiscal year.

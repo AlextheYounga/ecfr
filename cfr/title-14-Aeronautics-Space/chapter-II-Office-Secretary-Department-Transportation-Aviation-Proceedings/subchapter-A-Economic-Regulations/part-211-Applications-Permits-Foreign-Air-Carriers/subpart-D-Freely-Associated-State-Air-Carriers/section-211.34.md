@@ -1,0 +1,3 @@
+##### § 211.34 Other permits. #####
+
+Nothing in this section shall be construed as limiting the authority of the Department to issue a foreign air carrier permit, other than a Freely Associated State Foreign Air Carrier Permit, to a carrier owned or controlled, in whole or in part, by citizens of the Federated States of Micronesia, the Marshall Islands or Palau, that does not meet the requirements of this section.

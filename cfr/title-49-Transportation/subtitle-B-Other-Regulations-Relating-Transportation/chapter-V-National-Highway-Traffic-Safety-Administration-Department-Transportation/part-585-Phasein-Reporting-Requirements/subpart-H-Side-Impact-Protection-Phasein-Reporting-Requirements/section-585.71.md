@@ -1,0 +1,3 @@
+##### § 585.71 Scope. #####
+
+This part establishes requirements for manufacturers of passenger cars, and of trucks, buses and multipurpose passenger vehicles with a gross vehicle weight rating (GVWR) of 4,536 kilograms (kg) (10,000 pounds) or less, to submit a report, and maintain records related to the report, concerning the number of such vehicles that meet the moving deformable barrier test requirements of S7 of Standard No. 214, *Side impact protection* (49 CFR 571.214), and the vehicle-to-pole test requirements of S9 of that standard.

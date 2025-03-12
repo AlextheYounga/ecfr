@@ -1,0 +1,3 @@
+##### § 831.1201 Introduction. #####
+
+This subpart sets out the requirements an employee must meet to qualify for disability retirement, how an employee applies for disability retirement, how an agency applies for disability retirement for an employee, when a disability annuity ends, an individual's retirement rights after the disability annuity ends, and the effect of reemployment in the Federal service on a disability annuitant.

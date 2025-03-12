@@ -1,0 +1,3 @@
+##### § 255.32 Coordination with other programs. #####
+
+The region and agency identification criteria (§ 255.11) specify review of solid waste activities being conducted by water quality management planning agencies, underground injection control agencies, and air quality management agencies. There should be a formal means of coordination established between any agencies established under section 4006 which are not identical with these agencies. Coordination should be established so that permittees under the National Pollutant Discharge Elimination System of the Federal Water Pollution Control Act will be consulted concerning disposal of residual sludges.

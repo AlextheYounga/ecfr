@@ -1,0 +1,3 @@
+##### § 585.88 Petition to extend period to file report. #####
+
+A manufacturer may petition for extension of time to submit a report under this Part. A petition will be granted only if the petitioner shows good cause for the extension and if the extension is consistent with the public interest. The petition must be received not later than 15 days before expiration of the time stated in § 585.86(a). The filing of a petition does not automatically extend the time for filing a report. The petition must be submitted to: Administrator, National Highway Traffic Safety Administration, 400 Seventh Street, SW., Washington, DC 20590.

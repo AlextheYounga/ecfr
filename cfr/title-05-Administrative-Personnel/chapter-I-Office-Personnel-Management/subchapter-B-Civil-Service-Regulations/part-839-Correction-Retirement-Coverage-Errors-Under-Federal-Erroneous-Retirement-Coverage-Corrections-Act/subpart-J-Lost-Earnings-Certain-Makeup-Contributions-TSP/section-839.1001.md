@@ -1,0 +1,3 @@
+##### § 839.1001 Does the FERCCA allow me to increase my TSP account if I was in CSRS during my qualifying retirement coverage error and my correct coverage will be FERS? #####
+
+The Board's error correction regulations (5 CFR 1605 of chapter VI) generally allow you to increase your TSP account through a schedule of make-up contributions to replace the missed employee contributions. In addition, the FERCCA allows certain employees who have completed a schedule of make-up contributions, or who plan to schedule make-up contributions, to receive lost earnings on those contributions under certain circumstances. Employees are (and have been) entitled to lost earnings on the make-up agency contributions they receive as a result of the correction of an agency error.

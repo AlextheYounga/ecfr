@@ -1,0 +1,3 @@
+##### § 442.40 Applicability. #####
+
+This subpart applies to discharges resulting from the cleaning of tank trucks, intermodal tank containers, rail tank cars, tank barges and ocean/sea tankers which have been used to transport food grade cargos. If wastewater generated from cleaning tanks used to transport food grade cargos is mixed with wastewater resulting from cleaning tanks used to transport chemical or petroleum cargos, then the combined wastewater is subject to the provisions established for the corresponding tanks (*i.e.*, truck, railcar or barge) in subparts A, B, or C of this part.

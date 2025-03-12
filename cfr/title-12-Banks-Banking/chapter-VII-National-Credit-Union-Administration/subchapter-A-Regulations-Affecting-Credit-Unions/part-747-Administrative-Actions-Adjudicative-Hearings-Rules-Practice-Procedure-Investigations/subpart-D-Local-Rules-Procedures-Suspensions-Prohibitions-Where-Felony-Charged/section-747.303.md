@@ -1,0 +1,5 @@
+##### § 747.303 Notice of suspension or prohibition. #####
+
+Whenever an institution-affiliated party of an insured credit union is charged in any state, Federal or territorial information or indictment or complaint with the commission of or participation in a crime involving dishonesty or breach of trust, which crime is punishable by imprisonment for a term exceeding one year under state or Federal law, the NCUA Board may, if continued service or participation by the concerned party may pose a threat to the interests of any credit union's members or may threaten to impair public confidence in any credit union, by written notice served upon such party, suspend him or her from office, or prohibit him or her from further participation in any manner in the affairs of any credit union, or both. A copy of the notice of suspension or prohibition shall also be served upon the credit union of which the subject of the order is, or most recently was, an institution-affiliated party.
+
+[71 FR 67440, Nov. 22, 2006]

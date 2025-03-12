@@ -1,0 +1,5 @@
+##### § 63.172 Criminal penalties. #####
+
+(a) Section 223 of the Atomic Energy Act of 1954, as amended, provides for criminal sanctions for willful violation of, attempted violation of, or conspiracy to violate, any regulation issued under sections 161b, 161i, or 161o of the Act. For purposes of section 223, all the regulations in this part 63 are issued under one or more of sections 161b, 161i, or 161o, except for the sections listed in paragraph (b) of this section.
+
+(b) The regulations in this part 63 that are not issued under sections 161b, 161i, or 161o for the purposes of Section 223 are as follows: §§ 63.1, 63.2, 63.5, 63.6, 63.7, 63.8, 63.15, 63.16, 63.21, 63.22, 63.23, 63.24, 63.31, 63.32, 63.33, 63.41, 63.42, 63.43, 63.45, 63.46, 63.51, 63.52, 63.61, 63.62, 63.63, 63.64, 63.65, 63.101, 63.102, 63.111, 63.112, 63.113, 63.114, 63.115, 63.121, 63.131, 63.132, 63.133, 63.134, 63.141, 63.142, 63.143, 63.153, 63.161, 63.171, 63.172, 63.201, 63.202, 63.203, 63.204, 63.301, 63.302, 63.303, 63.304, 63.305, 63.311, 63.312, 63.321, 63.322, 63.331, 63.332, 63.341, and 63.342.

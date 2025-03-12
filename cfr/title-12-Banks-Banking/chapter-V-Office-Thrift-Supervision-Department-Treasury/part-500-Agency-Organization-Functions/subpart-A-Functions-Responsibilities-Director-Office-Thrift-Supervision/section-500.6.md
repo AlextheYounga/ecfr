@@ -1,0 +1,3 @@
+##### § 500.6 General statement concerning gender-related terminology. #####
+
+The statutes administered by the Office and the rules, regulations, policies, practices, publications, directives, and guidelines promulgated pursuant to such statutes that prescribe the course and methods to be followed by the Office that inadvertently use or contain gender-related terminology are to be interpreted as equally applicable to either sex.

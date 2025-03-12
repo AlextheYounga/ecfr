@@ -1,0 +1,3 @@
+##### § 960.4 Postclosure guidelines. #####
+
+The guidelines in this subpart specify the factors to be considered in evaluating and comparing sites on the basis of expected repository performance after closure. The postclosure guidelines are separated into a system guideline and eight technical guidelines. The system guideline establishes waste containment and isolation requirements that are based on NRC and EPA regulations. These requirements must be met by the repository system, which contains natural barriers and engineered barriers. The engineered barriers will be designed to complement the natural barriers, which provide the primary means for waste isolation.

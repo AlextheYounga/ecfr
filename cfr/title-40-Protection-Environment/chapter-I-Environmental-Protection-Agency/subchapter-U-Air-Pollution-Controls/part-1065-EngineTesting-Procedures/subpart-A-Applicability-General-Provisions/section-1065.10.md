@@ -1,0 +1,37 @@
+##### § 1065.10 Other procedures. #####
+
+(a) *Your testing.* The procedures in this part apply for all testing you do to show compliance with emission standards, with certain exceptions noted in this section. In some other sections in this part, we allow you to use other procedures (such as less precise or less accurate procedures) if they do not affect your ability to show that your engines comply with the applicable emission standards. This generally requires emission levels to be far enough below the applicable emission standards so that any errors caused by greater imprecision or inaccuracy do not affect your ability to state unconditionally that the engines meet all applicable emission standards.
+
+(b) *Our testing.* These procedures generally apply for testing that we do to determine if your engines comply with applicable emission standards. We may perform other testing as allowed by the Act.
+
+(c) *Exceptions.* We may allow or require you to use procedures other than those specified in this part in the following cases, which may apply to laboratory testing, field testing, or both. We intend to publicly announce when we allow or require such exceptions. All of the test procedures noted here as exceptions to the specified procedures are considered generically as “other procedures.” Note that the terms “special procedures” and “alternate procedures” have specific meanings; “special procedures” are those allowed by § 1065.10(c)(2) and “alternate procedures” are those allowed by § 1065.10(c)(7).
+
+(1) The objective of the procedures in this part is to produce emission measurements equivalent to those that would result from measuring emissions during in-use operation using the same engine configuration as installed in a vehicle, equipment, or vessel. However, in unusual circumstances where these procedures may result in measurements that do not represent in-use operation, you must notify us if good engineering judgment indicates that the specified procedures cause unrepresentative emission measurements for your engines. Note that you need not notify us of unrepresentative aspects of the test procedure if measured emissions are equivalent to in-use emissions. This provision does not obligate you to pursue new information regarding the different ways your engine might operate in use, nor does it obligate you to collect any other in-use information to verify whether or not these test procedures are representative of your engine's in-use operation. If you notify us of unrepresentative procedures under this paragraph (c)(1), we will cooperate with you to establish whether and how the procedures should be appropriately changed to result in more representative measurements. While the provisions of this paragraph (c)(1) allow us to be responsive to issues as they arise, we would generally work toward making these testing changes generally applicable through rulemaking. We will allow reasonable lead time for compliance with any resulting change in procedures. We will consider the following factors in determining the importance of pursuing changes to the procedures:
+
+(i) Whether supplemental emission standards or other requirements in the standard-setting part address the type of operation of concern or otherwise prevent inappropriate design strategies.
+
+(ii) Whether the unrepresentative aspect of the procedures affects your ability to show compliance with the applicable emission standards.
+
+(iii) The extent to which the established procedures require the use of emission-control technologies or strategies that are expected to ensure a comparable degree of emission control under the in-use operation that differs from the specified procedures.
+
+(2) You may request to use special procedures if your engine cannot be tested using the specified procedures. For example, this may apply if your engine cannot operate on the specified duty cycle. In this case, tell us in writing why you cannot satisfactorily test your engine using this part's procedures and ask to use a different approach. We will approve your request if we determine that it would produce emission measurements that represent in-use operation and we determine that it can be used to show compliance with the requirements of the standard-setting part. Where we approve special procedures that differ substantially from the specified procedures, we may preclude you from participating in averaging, banking, and trading with the affected engine families.
+
+(3) In a given model year, you may use procedures required for later model year engines without request. If you upgrade your testing facility in stages, you may rely on a combination of procedures for current and later model year engines as long as you can ensure, using good engineering judgment, that the combination you use for testing does not affect your ability to show compliance with the applicable emission standards.
+
+(4) In a given model year, you may ask to use procedures allowed for earlier model year engines. We will approve this only if you show us that using the procedures allowed for earlier model years does not affect your ability to show compliance with the applicable emission standards.
+
+(5) You may ask to use emission data collected using other procedures, such as those of the California Air Resources Board or the International Organization for Standardization. We will approve this only if you show us that using these other procedures does not affect your ability to show compliance with the applicable emission standards.
+
+(6) During the 12 months following the effective date of any change in the provisions of this part 1065 (and 40 CFR part 1066 for vehicle testing), you may use data collected using procedures specified in the previously applicable version of this part 1065 (and 40 CFR part 1066 for vehicle testing). This also applies for changes to test procedures specified in the standard-setting part to the extent that these changes do not correspond to new emission standards. This paragraph (c)(6) does not restrict the use of carryover certification data otherwise allowed by the standard-setting part.
+
+(7) You may request to use alternate procedures that are equivalent to the specified procedures, or procedures that are more accurate or more precise than the specified procedures. We may perform tests with your engines using either the approved alternate procedures or the specified procedures. The following provisions apply to requests for alternate procedures:
+
+(i) *Applications.* Follow the instructions in § 1065.12.
+
+(ii) *Submission.* Submit requests in writing to the EPA Program Officer.
+
+(iii) *Notification.* We may approve your request by telling you directly, or we may issue guidance announcing our approval of a specific alternate procedure, which would make additional requests for approval unnecessary.
+
+(d) *Advance approval.* If we require you to request approval to use other procedures under paragraph (c) of this section, you may not use them until we approve your request.
+
+[70 FR 40516, July 13, 2005, as amended at 73 FR 37290, June 30, 2008; 75 FR 23028, Apr. 30, 2010; 79 FR 23752, Apr. 28, 2014; 80 FR 9118, Feb. 19, 2015; 81 FR 74162, Oct. 25, 2016; 88 FR 4670, Jan. 24, 2023]

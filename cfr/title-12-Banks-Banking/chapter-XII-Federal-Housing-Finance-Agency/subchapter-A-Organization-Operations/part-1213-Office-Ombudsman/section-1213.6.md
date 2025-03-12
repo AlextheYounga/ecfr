@@ -1,0 +1,3 @@
+##### § 1213.6 No retaliation. #####
+
+Neither FHFA nor any FHFA employee may retaliate against a regulated entity, the Office of Finance, or a person for submitting a complaint or appeal under this part. The Ombudsman shall receive and address claims of retaliation. Upon receiving a complaint, the Ombudsman, in coordination with the Inspector General, shall examine the basis of the alleged retaliation. Upon completion of the examination, the Ombudsman shall report the findings to the Director with recommendations, including a recommendation to take disciplinary action against any FHFA employee found to have retaliated.

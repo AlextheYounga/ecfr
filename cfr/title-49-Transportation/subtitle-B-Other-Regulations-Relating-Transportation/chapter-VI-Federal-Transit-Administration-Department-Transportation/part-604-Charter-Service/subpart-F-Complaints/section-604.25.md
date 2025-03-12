@@ -1,0 +1,3 @@
+##### § 604.25 Purpose. #####
+
+This subpart describes the requirements for filing a complaint challenging the registration of a private charter operator or qualified human service organization on the FTA charter registration Web site and filing a complaint regarding the provision of charter service by a recipient. Note: To save time and expense for all concerned, FTA expects all parties to attempt to resolve matters informally before beginning the official complaint process.

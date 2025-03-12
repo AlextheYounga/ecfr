@@ -1,0 +1,3 @@
+##### § 35.2106 Plan of operation. #####
+
+The applicant shall submit a draft plan of operation that addresses development of: An operation and maintenance manual; an emergency operating program; personnel training; an adequate budget consistent with the user charge system approved under § 35.2140; operational reports; laboratory testing needs; and an operation and maintenance program for the complete waste treatment system.

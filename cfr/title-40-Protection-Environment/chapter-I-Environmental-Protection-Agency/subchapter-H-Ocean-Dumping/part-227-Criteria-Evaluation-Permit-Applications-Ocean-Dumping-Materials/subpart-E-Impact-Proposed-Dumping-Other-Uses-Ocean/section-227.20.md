@@ -1,0 +1,5 @@
+##### § 227.20 Basis for determination. #####
+
+(a) Based on current state of the art, consideration must be given to any possible long-range effects of even the most innocuous substances when dumped in the ocean on a continuing basis. Such a consideration is made in evaluating the relationship of each proposed disposal activity in relationship to its potential for long-range impact on other uses of the ocean.
+
+(b) An evaluation will be made on an individual basis for each proposed dumping of material of the potential for effects on uses of the ocean for purposes other than material disposal. The factors to be considered in this evaluation include those stated in subpart D, but the evaluation of this subpart E will be based on the impact of the proposed dumping on specific uses of the ocean rather than on overall esthetic, recreational and economic values.

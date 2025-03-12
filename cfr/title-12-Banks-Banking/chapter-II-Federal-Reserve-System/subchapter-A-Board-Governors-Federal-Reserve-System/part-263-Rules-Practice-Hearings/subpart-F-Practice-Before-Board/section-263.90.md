@@ -1,0 +1,3 @@
+##### § 263.90 Scope. #####
+
+This subpart prescribes rules relating to general practice before the Board on one's own behalf or in a representational capacity, including the circumstances under which disciplinary sanctions—censure, suspension, or debarment—may be imposed upon persons appearing in a representational capacity, including attorneys and accountants, but not including employees of the Board. These disciplinary sanctions, which continue in effect beyond the duration of a specific proceeding, supplement the provisions of § 263.6(b) of subpart A, which address control of a specific proceeding.

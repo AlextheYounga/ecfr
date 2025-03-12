@@ -1,0 +1,9 @@
+##### § 11.33 How can I track FAA's rulemaking activities? #####
+
+The best ways to track FAA's rulemaking activities are with the docket number or the regulation identifier number.
+
+(a) *Docket ID.* We assign a docket ID to each rulemaking document proceeding. Each rulemaking document FAA issues in a particular rulemaking proceeding, as well as public comments on the proceeding, will display the same docket ID. This ID allows you to search the Federal Docket Management System (FDMS) for information on most rulemaking proceedings. You can view and copy docket materials during regular business hours at the U.S. Department of Transportation, Docket Operations, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590. Or you can view and download docketed materials through the Internet at *http://www.regulations.gov.* If you can't find the material in the electronic docket, contact the person listed under **FOR FURTHER INFORMATION CONTACT** in the document you are interested in.
+
+(b) *Regulation identifier number.* DOT publishes a semiannual agenda of all current and projected DOT rulemakings, reviews of existing regulations, and completed actions. This semiannual agenda appears in the Unified Agenda of Federal Regulations, published in the Federal Register in April and October of each year. The semiannual agenda tells the public about DOT's—including FAA's—regulatory activities. DOT assigns a regulation identifier number (RIN) to each individual rulemaking proceeding in the semiannual agenda. This number appears on all rulemaking documents published in the Federal Register and makes it easy for you to track those rulemaking proceedings in both the Federal Register and the semiannual regulatory agenda.
+
+[Doc. No. 1999-6622, 65 FR 50863, Aug. 21, 2000, as amended at 72 FR 68474, Dec. 5, 2007]

@@ -1,0 +1,23 @@
+##### § 354.1 Material questions of copyright law. #####
+
+(a) *Discretionary referrals.* The Copyright Royalty Judges may seek guidance from the Register of Copyrights with respect to a material question of substantive law, concerning an interpretation or construction of those provisions of the Copyright Act, that arises in the course of their proceedings.
+
+(b) *How presented.* A question of substantive law may be referred to the Register of Copyrights at the request of one or more of the Copyright Royalty Judges. A question of substantive law may also be referred to the Register of Copyrights as a request submitted by motion of a participant, provided that one or more of the Copyright Royalty Judges agrees with the participant's request.
+
+(1) *Referral by Judges.* One or more of the Copyright Royalty Judges may refer what he or she believes to be a material question of substantive law to the Register of Copyrights at any time during a proceeding by issuing a written referral that is made part of the record of that proceeding. The referral will state the issue(s) to be referred and the schedule for the filing of briefs by the parties of the issue(s). After the briefs and other relevant materials are received, they will be transmitted to the Register of Copyrights.
+
+(2) *Motion by participant.* Any participant may submit a motion to the Copyright Royalty Judges (but not to the Register of Copyrights) requesting their referral to the Register of Copyrights a question that the participant believes would be suitable for referral under paragraph (a) of this section.
+
+(i) *Content.* The motion should be captioned “Motion of [Participant(s)] Requesting Referral of Material Question of Substantive Law.” The motion should set forth, at the outset, the precise legal question for which the moving party is seeking interlocutory referral to the Register of Copyrights. The motion should then proceed to explain, with brevity, why the issue meets the criteria for potential referral under paragraph (a) of this section and why the interests of fair and efficient adjudication would be best served by obtaining interlocutory guidance from the Register of Copyrights. The motion should not include argument on the merits of the issue, but may include a suggested schedule of briefing that would make reasonable provision for comments and legal arguments, in such a way as to avoid delay and duplication.
+
+(ii) *Time of motion.* A motion for referral of a material question of substantive law to the Register of Copyrights should be filed as soon as possible in the relevant proceeding, but no later than any deadline set by the Copyright Royalty Judges.
+
+(iii) *Action on motion*—(A) *Referral granted.* Upon consideration of a Motion Requesting Referral of Material Question of Substantive Law, if one or more of the Copyright Royalty Judges agrees with the request, the Chief Judge shall issue an appropriate referral. The referral will state the issue(s) to be referred and the schedule for the filing of briefs by the parties of the issue(s). After the briefs and other relevant materials are received, they will be transmitted to the Register of Copyrights.
+
+(B) *Referral denied.* If none of the Copyright Royalty Judges agrees with the request, the Board will issue an order denying the request which will provide the basis for the decision. A copy of any order denying a Motion Requesting Referral of Material Question of Substantive Law will be transmitted to the Register of Copyrights.
+
+(c) *No effect on proceedings.* The issuance of a request to the Register of Copyrights for an interpretive ruling under this part does not delay or otherwise affect the schedule of the participants' obligations in the relevant ongoing proceeding, unless that schedule or those obligations are expressly changed by order of the Copyright Royalty Judges.
+
+(d) *Binding effect; time limit.* The Copyright Royalty Judges will not issue a final determination in a proceeding where the discretionary referral of a question to the Register of Copyrights under this part is pending, unless the Register has not delivered the decision to the Copyright Royalty Judges within 14 days after the Register receives all of the briefs of the participants. If the decision of the Register of Copyrights is timely delivered to the Copyright Royalty Judges, the decision will be included in the record of the proceeding. The legal interpretation embodied in the timely delivered response of the Register of Copyrights in resolving material questions of substantive law is binding upon the Copyright Royalty Judges and will be applied by them in their final determination in the relevant proceeding.
+
+[71 FR 53330, Sept. 11, 2006]

@@ -1,0 +1,3 @@
+##### 9904.413-20 Purpose. #####
+
+A purpose of this Standard is to provide guidance for adjusting pension cost by measuring actuarial gains and losses and assigning such gains and losses to cost accounting periods. The Standard also provides the bases on which pension cost shall be allocated to segments of an organization. The provisions of this Cost Accounting Standard should enhance uniformity and consistency in accounting for pension costs.

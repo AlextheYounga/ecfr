@@ -1,0 +1,3 @@
+##### § 428.100 Applicability; description of the latex-dipped, latex-extruded, and latex-molded rubber subcategory. #####
+
+The provisions of this subpart are applicable to process waste water discharges resulting from the manufacture of latex-dipped, latex-extruded, and latex-molded products with the exception of those discharges from textile plants subject to the provisions of part 410 of this chapter.

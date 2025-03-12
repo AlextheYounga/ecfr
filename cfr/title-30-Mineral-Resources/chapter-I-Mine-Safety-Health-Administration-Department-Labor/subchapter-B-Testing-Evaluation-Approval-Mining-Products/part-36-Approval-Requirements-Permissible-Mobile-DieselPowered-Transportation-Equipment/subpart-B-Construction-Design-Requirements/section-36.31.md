@@ -1,0 +1,3 @@
+##### § 36.31 Fire extinguisher. #####
+
+Each unit of mobile diesel-powered transportation equipment shall be fitted with a fire extinguisher carried in a location easily accessible to the operator and protected by position from external damage. Liquid carbon dioxide extinguishers shall contain an active charge of not less than 4 pounds. Pressurized dry chemical extinguishers shall contain an active charge of not less than 21/2 pounds.

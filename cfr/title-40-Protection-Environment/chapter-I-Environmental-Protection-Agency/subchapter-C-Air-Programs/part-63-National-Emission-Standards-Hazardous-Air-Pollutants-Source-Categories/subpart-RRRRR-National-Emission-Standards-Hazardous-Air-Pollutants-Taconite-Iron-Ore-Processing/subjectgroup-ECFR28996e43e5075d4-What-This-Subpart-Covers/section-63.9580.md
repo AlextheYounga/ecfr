@@ -1,0 +1,3 @@
+##### § 63.9580 What is the purpose of this subpart? #####
+
+This subpart establishes national emission standards for hazardous air pollutants (NESHAP) for taconite iron ore processing. This subpart also establishes requirements to demonstrate initial and continuous compliance with all applicable emission limitations (emission limits and operating limits), work practice standards, and operation and maintenance requirements in this subpart.

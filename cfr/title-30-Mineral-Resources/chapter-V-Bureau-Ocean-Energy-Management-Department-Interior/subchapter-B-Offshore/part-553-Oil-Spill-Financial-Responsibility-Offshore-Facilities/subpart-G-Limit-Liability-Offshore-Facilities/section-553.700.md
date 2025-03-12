@@ -1,0 +1,3 @@
+##### § 553.700 What is the scope of this subpart? #####
+
+This subpart sets forth the limit of liability for damages for offshore facilities under Title I of the Oil Pollution Act of 1990, as amended (33 U.S.C. 2701 *et seq.*) (OPA), as adjusted, under section 1004(d) of OPA (33 U.S.C. 2704(d)). This subpart also sets forth the method for adjusting the limit of liability for damages for offshore facilities for inflation, by regulation, under section 1004(d) of OPA (33 U.S.C. 2704(d)).

@@ -1,0 +1,5 @@
+##### § 63.1049 Reporting requirements. #####
+
+(a) Owners and operators that use a separator equipped with a floating roof in accordance with the provisions of § 63.1043 of this subpart shall notify the Administrator at least 30 calendar days prior to each seal gap measurement inspection performed to comply with the requirements in § 63.1047(b)(1) of this subpart.
+
+(b) Owners and operators that use a separator equipped with a fixed-roof and vented through a closed-vent system to a control device in accordance with the provisions of § 63.1044 of this subpart shall prepare and submit to the Administrator the reports required for closed-vent systems and control devices in accordance with the requirements of § 63.693 in 40 CFR 63 subpart DD—National Emission Standards for Hazardous Air Pollutants from Off-Site Waste and Recovery Operations.

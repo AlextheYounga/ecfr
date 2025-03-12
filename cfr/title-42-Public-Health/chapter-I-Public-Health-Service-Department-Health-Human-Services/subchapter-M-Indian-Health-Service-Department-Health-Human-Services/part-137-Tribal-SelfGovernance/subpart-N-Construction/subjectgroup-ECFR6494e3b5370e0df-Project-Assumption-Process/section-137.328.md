@@ -1,0 +1,5 @@
+##### § 137.328 Must a construction project proposal incorporate provisions of Federal construction guidelines and manuals? #####
+
+(a) No, the Self-Governance Tribe and the Secretary must agree upon and specify appropriate building codes and architectural and engineering standards (including health and safety) which must be in conformity with nationally recognized standards for comparable projects.
+
+(b) The Secretary may provide, or the Self-Governance Tribe may request, Federal construction guidelines and manuals for consideration by the Self-Governance Tribe in the preparation of its construction project proposal. If Tribal construction codes and standards (including national, regional, State, or Tribal building codes or construction industry standards) are consistent with or exceed otherwise applicable nationally recognized standards, the Secretary must accept the Tribally proposed standards.

@@ -1,0 +1,5 @@
+##### § 63.6611 By what date must I conduct the initial performance tests or other initial compliance demonstrations if I own or operate a new or reconstructed 4SLB SI stationary RICE with a site rating of greater than or equal to 250 and less than or equal to 500 brake HP located at a major source of HAP emissions? #####
+
+If you own or operate a new or reconstructed 4SLB stationary RICE with a site rating of greater than or equal to 250 and less than or equal to 500 brake HP located at a major source of HAP emissions, you must conduct an initial performance test within 240 days after the compliance date that is specified for your stationary RICE in § 63.6595 and according to the provisions specified in Table 4 to this subpart, as appropriate.
+
+[73 FR 3605, Jan. 18, 2008, as amended at 75 FR 51589, Aug. 20, 2010]

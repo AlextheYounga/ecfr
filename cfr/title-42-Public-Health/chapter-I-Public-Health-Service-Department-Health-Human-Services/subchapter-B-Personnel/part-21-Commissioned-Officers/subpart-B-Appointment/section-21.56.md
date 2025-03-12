@@ -1,0 +1,3 @@
+##### § 21.56 Reappointment. #####
+
+An officer of the Reserve Corps, after being examined and found qualified for reappointment, may be recommended for reappointment to the same grade in the event that his commission expires before he becomes eligible for reappointment to a higher grade, or may be recommended for reappointment to a higher grade to be effective on or after the date on which he meets the qualifications prescribed in this subpart for original appointment to such higher grade.

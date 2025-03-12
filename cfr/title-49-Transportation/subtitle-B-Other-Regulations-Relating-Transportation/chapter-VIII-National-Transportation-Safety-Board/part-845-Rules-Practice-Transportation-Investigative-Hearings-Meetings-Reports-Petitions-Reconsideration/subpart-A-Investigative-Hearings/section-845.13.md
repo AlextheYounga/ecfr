@@ -1,0 +1,3 @@
+##### § 845.13 Proposed findings. #####
+
+Following the investigative hearing, any party to the hearing may submit proposed findings to be drawn from the testimony and exhibits, a proposed probable cause, and proposed safety recommendations designed to prevent future accidents or incidents. The proposals shall be submitted within the time specified by the investigative hearing officer at the close of the hearing, and shall be made a part of the public docket. Parties to the investigative hearing shall serve copies of their proposals on all other parties to the hearing.

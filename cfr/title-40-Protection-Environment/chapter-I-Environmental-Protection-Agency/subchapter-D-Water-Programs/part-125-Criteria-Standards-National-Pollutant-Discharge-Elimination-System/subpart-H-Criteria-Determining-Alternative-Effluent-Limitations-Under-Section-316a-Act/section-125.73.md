@@ -1,0 +1,13 @@
+##### § 125.73 Criteria and standards for the determination of alternative effluent limitations under section 316(a). #####
+
+(a) Thermal discharge effluent limitations or standards established in permits may be less stringent than those required by applicable standards and limitations if the discharger demonstrates to the satisfaction of the director that such effluent limitations are more stringent than necessary to assure the protection and propagation of a balanced, indigenous community of shellfish, fish and wildlife in and on the body of water into which the discharge is made. This demonstration must show that the alternative effluent limitation desired by the discharger, considering the cumulative impact of its thermal discharge together with all other significant impacts on the species affected, will assure the protection and propagation of a balanced indigenous community of shellfish, fish and wildlife in and on the body of water into which the discharge is to be made.
+
+(b) In determining whether or not the protection and propagation of the affected species will be assured, the Director may consider any information contained or referenced in any applicable thermal water quality criteria and thermal water quality information published by the Administrator under section 304(a) of the Act, or any other information he deems relevant.
+
+(c) (1) Existing dischargers may base their demonstration upon the absence of prior appreciable harm in lieu of predictive studies. Any such demonstrations shall show:
+
+(i) That no appreciable harm has resulted from the normal component of the discharge (taking into account the interaction of such thermal component with other pollutants and the additive effect of other thermal sources to a balanced, indigenous community of shellfish, fish and wildlife in and on the body of water into which the discharge has been made; or
+
+(ii) That despite the occurrence of such previous harm, the desired alternative effluent limitations (or appropriate modifications thereof) will nevertheless assure the protection and propagation of a balanced, indigenous community of shellfish, fish and wildlife in and on the body of water into which the discharge is made.
+
+(2) In determining whether or not prior appreciable harm has occurred, the Director shall consider the length of time in which the applicant has been discharging and the nature of the discharge.

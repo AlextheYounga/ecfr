@@ -1,0 +1,8 @@
+##### § 390.114 Where must I publish the public notice? #####
+
+You must publish the notice in a newspaper having a general circulation in the communities indicated in the following chart:
+
+|                                                    If you file . . .                                                     |                                                                                                 You must publish in the following communities . . .                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(a) Bank Merger Act application under 390.332(a), or an application for a mutual to stock conversion under 12 CFR part 192|                                                                                                 The community in which your home office is located.                                                                                                  |
+|                                 (b) A change of control notice under part 391, subpart E                                 |The community in which the home office of the State savings association whose stock is to be acquired is located and, if applicable, the community in which the home office of the acquiror's largest subsidiary State savings association is located.|

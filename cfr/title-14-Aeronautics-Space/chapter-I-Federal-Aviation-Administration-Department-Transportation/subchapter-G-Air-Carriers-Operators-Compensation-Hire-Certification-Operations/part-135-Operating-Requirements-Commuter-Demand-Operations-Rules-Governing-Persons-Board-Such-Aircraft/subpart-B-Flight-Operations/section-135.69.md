@@ -1,0 +1,5 @@
+##### § 135.69 Restriction or suspension of operations: Continuation of flight in an emergency. #####
+
+(a) During operations under this part, if a certificate holder or pilot in command knows of conditions, including airport and runway conditions, that are a hazard to safe operations, the certificate holder or pilot in command, as the case may be, shall restrict or suspend operations as necessary until those conditions are corrected.
+
+(b) No pilot in command may allow a flight to continue toward any airport of intended landing under the conditions set forth in paragraph (a) of this section, unless, in the opinion of the pilot in command, the conditions that are a hazard to safe operations may reasonably be expected to be corrected by the estimated time of arrival or, unless there is no safer procedure. In the latter event, the continuation toward that airport is an emergency situation under § 135.19.

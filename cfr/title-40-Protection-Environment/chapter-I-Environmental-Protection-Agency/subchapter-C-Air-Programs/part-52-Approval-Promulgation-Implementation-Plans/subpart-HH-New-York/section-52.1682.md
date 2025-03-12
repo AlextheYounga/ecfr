@@ -1,0 +1,11 @@
+##### § 52.1682 Control strategy: Carbon monoxide. #####
+
+(a) Approval—The November 13, 1992 revision to the carbon monoxide state implementation plan for Onondaga County. This revision included a maintenance plan which demonstrated continued attainment of the National Ambient Air Quality Standard for carbon monoxide through the year 2003.
+
+(b) Approval—The November 13, 1992 and March 21, 1994 revisions to the carbon monoxide state implementation plan for the New York portion of the New York—Northern New Jersey—Long Island Carbon Monoxide nonattainment area. This included an attainment demonstration and the control measures needed to attain the National Ambient Air Quality Standard for carbon monoxide. In addition, the September 21, 1990 Downtown Brooklyn Master Plan and revision dated March 22, 2000 is a component of the carbon monoxide attainment plan. The November 23, 1999, request to redesignate the New York portion of the New York—Northern New Jersey—Long Island Carbon Monoxide nonattainment area from nonattainment to attainment of the National Ambient Air Quality Standard for carbon monoxide. As part of the redesignation request, the State submitted a maintenance plan which demonstrated continued attainment of the National Ambient Air Quality Standard for carbon monoxide through the year 2012.
+
+(c) Approval—The June 22, 2004 revision to the carbon monoxide maintenance plan for Onondaga County. This revision contains a second ten-year maintenance plan that demonstrates continued attainment of the National Ambient Air Quality Standard for carbon monoxide through the year 2013 and CO conformity budgets for the years 2003, 2009, and 2013.
+
+(d) Approval—The May 9, 2013 revision to the carbon monoxide (CO) maintenance plan for the New York portion of the New York-Northern New Jersey-Long Island, NYCMA, CO area. This revision contains a second ten-year maintenance plan that demonstrates continued attainment of the National Ambient Air Quality Standard for CO through the year 2022, 2007 CO base year emissions inventory and CO motor vehicle emissions budgets through the maintenance period.
+
+[67 FR 19339, Apr. 19, 2002, as amended at 70 FR 53308, Sept. 8, 2005; 79 FR 31046, May 30, 2014]

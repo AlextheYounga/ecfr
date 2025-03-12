@@ -1,0 +1,3 @@
+##### 2936.209 Construction contracts with architect-engineer firms. #####
+
+As required by FAR 36.209, no contract for construction of a project may be awarded to the firm that designed the project, or to its subsidiaries or affiliates, without the written approval of the Assistant Secretary for Administration and Management. Any request for approval must include the reason(s) why award to the design firm is required; an analysis of the facts involving potential or actual organizational conflicts of interest including benefits and detriments to the Government and the prospective contractor; and the measures which are to be taken to avoid, neutralize, or mitigate conflicts of interest.

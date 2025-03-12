@@ -1,0 +1,3 @@
+##### § 1290.107 Where are the rules concerning the effect of the Department not issuing a decision in my appeal within the statutory time frame? #####
+
+If your appeal involves monetary or nonmonetary obligations under Federal oil and gas leases, the rules concerning the effect of the Department not issuing a final decision in your appeal within the 33-month period prescribed under 30 U.S.C. 1724(h) are located in 43 CFR part 4, subpart J.

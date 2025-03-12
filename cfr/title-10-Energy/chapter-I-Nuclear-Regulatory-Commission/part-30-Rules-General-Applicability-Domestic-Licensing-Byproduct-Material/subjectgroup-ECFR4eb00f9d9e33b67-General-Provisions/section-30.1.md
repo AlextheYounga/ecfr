@@ -1,0 +1,5 @@
+##### § 30.1 Scope. #####
+
+This part prescribes rules applicable to all persons in the United States governing domestic licensing of byproduct material under the Atomic Energy Act of 1954, as amended (68 Stat. 919), and under title II of the Energy Reorganization Act of 1974 (88 Stat. 1242), and exemptions from the domestic licensing requirements permitted by Section 81 of the Act. This part also gives notice to all persons who knowingly provide to any licensee, applicant, certificate of registration holder, contractor, or subcontractor, components, equipment, materials, or other goods or services, that relate to a licensee's, applicant's or certificate of registration holder's activities subject to this part, that they may be individually subject to NRC enforcement action for violation of § 30.10.
+
+[63 FR 1895, Jan. 13, 1998]

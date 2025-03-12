@@ -1,0 +1,3 @@
+##### § 30.1 Creation of upper microwave flexible use service, scope and authority. #####
+
+As of December 14, 2016, Local Multipoint Distribution Service licenses for the 27.5-28.35 GHz band, and licenses issued in the 38.6-40 GHz band under part 101 of this chapter shall be reassigned to the Upper Microwave Flexible Use Service. Local Multipoint Distribution Service licenses in bands other than 27.5-28.35 GHz shall remain in that service and shall be governed by the part 101 of this chapter applicable to that service.

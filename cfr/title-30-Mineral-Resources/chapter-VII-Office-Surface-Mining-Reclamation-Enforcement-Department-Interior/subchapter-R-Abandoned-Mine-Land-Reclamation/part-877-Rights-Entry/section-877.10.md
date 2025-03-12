@@ -1,0 +1,5 @@
+##### § 877.10 Information collection. #####
+
+The information collection requirements contained in §§ 877.11 and 877.13(b) were approved by the Office of Management and Budget (OMB) under 44 U.S.C. 3507 and assigned clearance number 1029-0055. This information is being collected to meet the mandate of section 407 of the Act, which provides that States or Indian tribes, pursuant to an approved reclamation program, may use the police power, if necessary, to effect entry upon private lands to conduct reclamation activities or exploratory studies if the landowner's consent is refused or the landowner is not available.
+
+This information will be used by the regulatory authority to ensure that the State/Indian tribe has sufficient programmatic capability to conduct reclamation activities on private lands. The obligation to respond is mandatory.

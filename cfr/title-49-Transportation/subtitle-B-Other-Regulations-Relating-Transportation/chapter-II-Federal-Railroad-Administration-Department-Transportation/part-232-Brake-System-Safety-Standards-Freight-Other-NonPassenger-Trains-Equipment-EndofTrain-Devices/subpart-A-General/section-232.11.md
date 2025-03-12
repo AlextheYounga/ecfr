@@ -1,0 +1,7 @@
+##### § 232.11 Penalties. #####
+
+(a) Any person (including but not limited to a railroad; any manager, supervisor, official, or other employee or agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad equipment, track, or facilities; any employee of such owner, manufacturer, lessor, lessee, or independent contractor) who violates any requirement of this part or causes the violation of any such requirement is subject to a civil penalty of at least $839, but not more than $27,455 per violation, except that: Penalties may be assessed against individuals only for willful violations, and, where a grossly negligent violation or a pattern of repeated violations has created an imminent hazard of death or injury to persons, or has caused death or injury, a penalty not to exceed $109,819 per violation may be assessed. Each day a violation continues shall constitute a separate offense. Appendix A to this part contains a schedule of civil penalty amounts used in connection with this rule.
+
+(b) Any person who knowingly and willfully falsifies a record or report required by this part is subject to criminal penalties under 49 U.S.C. 21311.
+
+[66 FR 4193, Jan. 17, 2001, as amended at 69 FR 30594, May 28, 2004; 72 FR 51197, Sept. 6, 2007; 73 FR 79703, Dec. 30, 2008; 77 FR 24421, Apr. 24, 2012; 81 FR 43111, July 1, 2016]

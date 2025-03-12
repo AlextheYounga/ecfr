@@ -1,0 +1,3 @@
+##### § 51.615 Withdrawal of services. #####
+
+When an incumbent LEC makes a telecommunications service available only to a limited group of customers that have purchased such a service in the past, the incumbent LEC must also make such a service available at wholesale rates to requesting carriers to offer on a resale basis to the same limited group of customers that have purchased such a service in the past.

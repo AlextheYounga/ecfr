@@ -1,0 +1,7 @@
+##### § 35.134 Eligible recipients. #####
+
+(a) *Eligible agencies.* All State agencies (including environmental, health, agriculture, and other agencies) and interstate agencies eligible to receive funds from more than one environmental program may receive Performance Partnership Grants
+
+(b) *Designated agency.* A State agency must be designated by a Governor, State legislature, or other authorized State process to receive grants under each of the environmental programs to be combined in the Performance Partnership Grant. If it is not the designated agency for a particular grant program to be included in the Performance Partnership Grant, the State agency must have an agreement with the State agency that does have the designation regarding how the funds will be shared between the agencies.
+
+(c) *Programmatic requirements.* In order to include funds from an environmental program grant listed in § 35.101 of this subpart in a Performance Partnership Grant, applicants must meet the requirements for award of each of the environmental programs from which funds are combined in the agency's Performance Partnership Grant, except the requirements at §§ 35.268(b) and (c), 35.272, and 35.298 (c), (d), (e), and (g). These requirements can be found in this regulation beginning at § 35.140.

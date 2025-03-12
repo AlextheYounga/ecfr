@@ -1,0 +1,3 @@
+##### § 407.5 Certification by General Counsel. #####
+
+For every meeting closed pursuant to any paragraph of § 407.2(a), the General Counsel of Eximbank will be asked to certify prior to such meeting that in his or her opinion such meeting may properly be closed to the public, and to state which of the exemptions set forth in § 407.2(a) he or she has relied upon. A copy of such certification will be posted in the Office of the Secretary. The original certification together with a statement from the presiding officer of such meeting setting forth the time, date and place of such meeting and the persons present will be retained by Eximbank as part of the transcript, recording or minutes of such meeting described below.

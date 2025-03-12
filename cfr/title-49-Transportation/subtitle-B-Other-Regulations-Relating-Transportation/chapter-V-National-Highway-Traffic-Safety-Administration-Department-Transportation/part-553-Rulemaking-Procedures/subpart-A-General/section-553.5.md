@@ -1,0 +1,5 @@
+##### § 553.5 Regulatory docket. #####
+
+(a) Information and data deemed relevant by the Administrator relating to rulemaking actions, including notices of proposed rulemaking; comments received in response to notices; petitions for rulemaking and reconsideration; denials of petitions for rulemaking and reconsideration; records of additional rulemaking proceedings under § 553.25; and final rules are maintained in the Docket Room, National Highway Traffic Safety Administration, 400 Seventh Street SW., Washington, DC 20590.
+
+(b) Any person may examine any docketed material at the Docket Room at any time during regular business hours after the docket is established, except material ordered withheld from the public under applicable provisions of Title 49 and section 552(b) of title 5 of the U.S.C., and may obtain a copy of it upon payment of a fee.

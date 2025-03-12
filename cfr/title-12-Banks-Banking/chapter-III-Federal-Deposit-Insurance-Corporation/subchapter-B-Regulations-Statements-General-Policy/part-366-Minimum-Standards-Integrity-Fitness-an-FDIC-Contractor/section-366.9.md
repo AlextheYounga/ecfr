@@ -1,0 +1,3 @@
+##### § 366.9 What other requirements could prevent me from performing contractual services for the FDIC? #####
+
+You must avoid a conflict of interest, be ethically responsible, and maintain confidential information as described in §§ 366.10 through 366.13. You must also provide us with the information we require in § 366.14. Failure to meet these requirements may prevent you from contracting with us.

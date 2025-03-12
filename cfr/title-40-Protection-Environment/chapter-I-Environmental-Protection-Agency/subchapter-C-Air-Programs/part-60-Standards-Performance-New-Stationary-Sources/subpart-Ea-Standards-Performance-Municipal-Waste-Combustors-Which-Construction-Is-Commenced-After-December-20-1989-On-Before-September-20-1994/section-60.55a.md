@@ -1,0 +1,3 @@
+##### § 60.55a Standard for nitrogen oxides. #####
+
+On and after the date on which the initial compliance test is completed or is required to be completed under § 60.8, no owner or operator of an affected facility located within a large MWC plant shall cause to be discharged into the atmosphere from that affected facility any gases that contain nitrogen oxides in excess of 180 parts per million by volume, corrected to 7 percent oxygen (dry basis). The averaging time is specified under § 60.58a(g).

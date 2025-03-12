@@ -1,0 +1,5 @@
+##### § 81.179 Aroostook Intrastate Air Quality Control Region. #####
+
+The Aroostook Intrastate Air Quality Control Region (Maine) consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Maine: Aroostook County—That portion of Aroostook County which lies east of a line described as follows: Beginning at the point where the Maine-Canadian international border is intersected by a line common to the western boundary of Fort Kent Township and running due south to the intersection of said line with the Aroostook-Penobscot County boundary.

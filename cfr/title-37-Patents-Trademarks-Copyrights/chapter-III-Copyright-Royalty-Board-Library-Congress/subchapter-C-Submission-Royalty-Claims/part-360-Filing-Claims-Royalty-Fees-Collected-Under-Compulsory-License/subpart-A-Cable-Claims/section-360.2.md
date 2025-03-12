@@ -1,0 +1,3 @@
+##### § 360.2 Time of filing. #####
+
+During the month of July each year, any party claiming to be entitled to cable compulsory license royalty fees for secondary transmissions of one or more of its works during the preceding calendar year shall file a claim to such fees with the Copyright Royalty Board. No royalty fees shall be distributed to a party for secondary transmissions during the specified period unless such party has timely filed a claim to such fees. Claimants may file claims jointly or as a single claim.

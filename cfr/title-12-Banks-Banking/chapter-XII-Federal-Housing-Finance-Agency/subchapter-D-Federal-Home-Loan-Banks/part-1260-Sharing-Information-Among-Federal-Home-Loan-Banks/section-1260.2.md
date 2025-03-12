@@ -1,0 +1,7 @@
+##### § 1260.2 Bank information to be shared. #####
+
+(a) *General.* In order to enable each Bank to evaluate the financial condition of any one or more of the other Banks and the Bank System, FHFA shall distribute to each Bank and to the Office of Finance, or shall require each Bank to distribute directly to each other Bank and the Office of Finance, such categories of financial and supervisory information regarding each Bank and the Bank system as it determines to be appropriate, subject to the requirements of this part.
+
+(b) *Notice.* FHFA shall prepare and issue to each Bank and the Office of Finance a notice setting forth the categories of information to be distributed, which it shall review from time to time and revise as necessary to ensure that the information distributed remains useful to the Banks in evaluating the financial strength of the other Banks and the Bank System. Prior to issuing a new or revised notice, FHFA shall notify each Bank and the Office of Finance of its proposed contents and allow them a reasonable period within which to comment.
+
+(c) *Director's orders.* The Director or his designee may issue such orders as are necessary to effect the distribution of the information set forth in the notice issued under paragraph (b) of this section and to carry out the provisions of this part.

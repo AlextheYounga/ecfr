@@ -1,0 +1,9 @@
+##### § 1033.615 Voluntarily subjecting locomotives to the standards of this part. #####
+
+The provisions of this section specify the cases in which an owner or manufacturer of a locomotive or similar piece of equipment can subject it to the standards and requirements of this part. Once the locomotive or equipment becomes subject to the locomotive standards and requirements of this part, it remains subject to the standards and requirements of this part for the remainder of its service life.
+
+(a) *Equipment excluded from the definition of “locomotive”.* (1) Manufacturers/remanufacturers of equipment that is excluded from the definition of “locomotive” because of its total power, but would otherwise meet the definition of locomotive may ask to have it considered to be a locomotive. To do this, submit an application for certification as specified in subpart C of this part, explaining why it should be considered to be a locomotive. If we approve your request, it will be deemed to be a locomotive for the remainder of its service life.
+
+(2) In unusual circumstances, we may deem other equipment to be locomotives (at the request of the owner or manufacturer/remanufacturer) where such equipment does not conform completely to the definition of locomotive, but is functionally equivalent to a locomotive.
+
+(b) *Locomotives excluded from the definition of “new”.* Owners of remanufactured locomotives excluded from the definition of “new” in § 1033.901 under paragraph (2) of that definition may choose to upgrade their locomotives to subject their locomotives to the standards and requirements of this part by complying with the specifications of a certified remanufacturing system, including the labeling specifications of § 1033.135.

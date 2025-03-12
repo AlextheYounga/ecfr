@@ -1,0 +1,3 @@
+##### § 75.705-10 Tying into energized high-voltage surface circuits. #####
+
+If the work of forming an additional circuit by tying into an energized high-voltage surface line is performed from the ground, any person performing such work must wear and employ all of the protective equipment and clothing required under the provisions of §§ 75.705-5 and 75.705-6. In addition, the insulated stick used by such person must have been designed for such purpose and must be adequately insulated and be maintained to protect such person from the voltage to which he is exposed.

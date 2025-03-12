@@ -1,0 +1,3 @@
+##### § 417.20 Applicability; description of the fatty acid manufacturing by fat splitting subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the splitting of fats to fatty acids by hydrolysis and the subsequent processing of the fatty acids (e.g., refining and hydrogenation) to produce a suitable feed material for manufacture of soap by fatty acid neutralization.

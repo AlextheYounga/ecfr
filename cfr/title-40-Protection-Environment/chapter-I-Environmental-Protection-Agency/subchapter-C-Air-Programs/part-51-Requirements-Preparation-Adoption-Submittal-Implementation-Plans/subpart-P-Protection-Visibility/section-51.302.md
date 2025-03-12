@@ -1,0 +1,17 @@
+##### § 51.302 Reasonably attributable visibility impairment. #####
+
+(a) The affected Federal Land Manager may certify, at any time, that there exists reasonably attributable visibility impairment in any mandatory Class I Federal area and identify which single source or small number of sources is responsible for such impairment. The affected Federal Land Manager will provide the certification to the State in which the impairment occurs and the State(s) in which the source(s) is located. The affected Federal Land Manager shall provide the State(s) in which the source(s) is located an opportunity to consult on the basis of the planned certification, in person and at least 60 days prior to providing the certification to the State(s).
+
+(b) The State(s) in which the source(s) is located shall revise its regional haze implementation plan, in accordance with the schedule set forth in paragraph (d) of this section, to include for each source or small number of sources that the Federal Land Manager has identified in whole or in part for reasonably attributable visibility impairment as part of a certification under paragraph (a) of this section:
+
+(1) A determination, based on the factors set forth in § 51.308(f)(2), of the control measures, if any, that are necessary with respect to the source or sources in order for the plan to make reasonable progress toward natural visibility conditions in the affected Class I Federal area;
+
+(2) Emission limitations that reflect the degree of emission reduction achievable by such control measures and schedules for compliance as expeditiously as practicable; and
+
+(3) Monitoring, recordkeeping, and reporting requirements sufficient to ensure the enforceability of the emission limitations.
+
+(c) If a source that the Federal Land Manager has identified as responsible in whole or in part for reasonably attributable visibility impairment as part of a certification under paragraph (a) of this section is a BART-eligible source, and if there is not in effect as of the date of the certification a fully or conditionally approved implementation plan addressing the BART requirement for that source (which existing plan may incorporate either source-specific emission limitations reflecting the emission control performance of BART, an alternative program to address the BART requirement under § 51.308(e)(2) through (4), or for sources of SO2, a program approved under paragraph § 51.309(d)(4)), then the State shall revise its regional haze implementation plan to meet the requirements of § 51.308(e) with respect to that source, taking into account current conditions related to the factors listed in § 51.308(e)(1)(ii)(A). This requirement is in addition to the requirement of paragraph (b) of this section.
+
+(d) For any existing reasonably attributable visibility impairment the Federal Land Manager certifies to the State(s) under paragraph (a) of this section, the State(s) shall submit a revision to its regional haze implementation plan that includes the elements described in paragraphs (b) and (c) of this section no later than 3 years after the date of the certification. The State(s) is not required at that time to also revise its reasonable progress goals to reflect any additional emission reductions required from the source or sources. In no case shall such a revision in response to a reasonably attributable visibility impairment certification be due before July 31, 2021.
+
+[82 FR 3123, Jan. 10, 2017]

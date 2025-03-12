@@ -1,0 +1,5 @@
+##### § 238.73 Prior notice requirements. #####
+
+(a) *Savings and loan holding company.* Except as provided under § 238.78, a savings and loan holding company must give the Board 30 days' written notice, as specified in § 238.74, before adding or replacing any member of its board of directors, employing any person as a senior executive officer, or changing the responsibilities of any senior executive officer so that the person would assume a different senior executive position if the savings and loan holding company is in troubled condition.
+
+(b) *Notice by individual.* An individual seeking election to the board of directors of a savings and loan holding company described in paragraph (a) of this section that has not been nominated by management, must either provide the prior notice required under paragraph (a) of this section or follow the process under § 238.78(b).

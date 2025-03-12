@@ -1,0 +1,3 @@
+##### § 1213.7 Confidentiality. #####
+
+The Ombudsman shall ensure that safeguards exist to preserve confidentiality. If a party requests that information and materials remain confidential, the Ombudsman shall not disclose the information or materials, without approval of the party, except to appropriate reviewing or investigating officials, such as the Inspector General, or as required by law. However, the resolution of certain complaints (such as complaints of retaliation against a regulated entity or the Office of Finance) may not be possible if the identity of the party remains confidential. In such cases, the Ombudsman shall discuss with the party the circumstances limiting confidentiality.

@@ -1,0 +1,5 @@
+##### § 595.106 What termination and refund provisions are required? #####
+
+Each service agreement entered into by an agency and a physician under the comparability allowance program must prescribe the terms under which the agreement may be terminated and the amount of allowance, if any, required to be refunded by the physician for each reason for termination. In the case of each service agreement covering a period of service of more than 1 year, the service agreement must include a provision that, if the physician completes more than 1 year of service pursuant to the agreement, but fails to complete the full period of service specified in the agreement either voluntarily or because of misconduct by the physician, the physician must refund the amount of allowance he or she has received under the agreement for the 26 weeks of service immediately preceding the termination (or for a longer period, if specified in the agreement).
+
+[69 FR 27818, May 17, 2004]

@@ -1,0 +1,3 @@
+##### § 582.10 Jurisdiction and responsibilities of Director. #####
+
+Subject to the authority of the Secretary, the following activities are subject to the regulations in this part and are under the jurisdiction of the Director: Exploration, testing, and mining operations together with the associated environmental protection measures needed to permit those activities to be conducted in an environmentally responsible manner; handling, measurement, and transportation of OCS minerals; and other operations and activities conducted pursuant to a lease issued under 30 CFR part 581, or pursuant to a right of use and easement granted under this part, by or on behalf of a lessee or the holder of a right of use and easement.

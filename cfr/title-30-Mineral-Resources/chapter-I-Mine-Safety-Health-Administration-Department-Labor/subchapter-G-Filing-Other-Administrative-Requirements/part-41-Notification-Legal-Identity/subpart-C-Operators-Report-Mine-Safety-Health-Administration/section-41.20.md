@@ -1,0 +1,3 @@
+##### § 41.20 Legal identity report. #####
+
+Each operator of a coal or other mine shall file notification of legal identity and every change thereof with the appropriate district manager of the Mine Safety and Health Administration by properly completing, mailing, or otherwise delivering form 2000-7 “legal identity report” which shall be provided by the Mine Safety and Health Administration for this purpose. If additional space is required, the operator may use a separate sheet or sheets.

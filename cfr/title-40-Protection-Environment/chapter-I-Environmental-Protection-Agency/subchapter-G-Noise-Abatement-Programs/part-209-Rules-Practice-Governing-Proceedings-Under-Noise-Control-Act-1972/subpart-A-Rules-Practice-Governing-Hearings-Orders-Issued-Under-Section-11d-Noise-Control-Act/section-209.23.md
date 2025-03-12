@@ -1,0 +1,3 @@
+##### § 209.23 Trade secrets and privileged information. #####
+
+In the presentation, admission, disposition, and use of evidence, the administrative law judge shall preserve the confidentiality of trade secrets and other privileged commercial and financial information. The confidential or trade secret status of any information shall not, however, preclude its being introduced into evidence. The administrative law judge may make such orders as may be necessary to consider such evidence in camera. This may include a supplemental initial decision to consider questions of fact and conclusions regarding material issues of law, fact or discretion which arise out of that portion of the evidence which is confidential or which includes trade secrets.

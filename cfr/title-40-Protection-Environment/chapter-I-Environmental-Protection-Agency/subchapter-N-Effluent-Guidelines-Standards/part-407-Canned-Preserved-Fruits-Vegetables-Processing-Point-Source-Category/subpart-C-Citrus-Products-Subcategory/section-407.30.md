@@ -1,0 +1,3 @@
+##### § 407.30 Applicability; description of the citrus products subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the processing of citrus into citrus products. When a plant is subject to effluent limitations covering more than one subcategory, the plant discharge limitation shall be set by proration limitations for each subcategory based on raw material covered by each subcategory.

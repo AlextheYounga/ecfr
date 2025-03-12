@@ -1,0 +1,3 @@
+##### § 747.205 Order terminating insured status. #####
+
+If, upon the record of the hearing held pursuant to § 747.204, the NCUA Board finds that any unsafe or unsound practice or condition or violation specified in the notice has been established and has not been corrected within the time prescribed under § 747.204, the NCUA Board may issue and serve upon the credit union an order terminating its status as an insured credit union on a date subsequent to the date of such finding and subsequent to the expiration of the time specified in the Notice.

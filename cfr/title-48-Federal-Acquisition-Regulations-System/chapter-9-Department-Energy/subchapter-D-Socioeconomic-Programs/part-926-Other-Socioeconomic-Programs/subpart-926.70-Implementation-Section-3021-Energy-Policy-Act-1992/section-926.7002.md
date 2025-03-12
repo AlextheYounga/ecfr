@@ -1,0 +1,3 @@
+##### 926.7002 Responsibilities. #####
+
+Offices initiating procurement requests have primary responsibility to identify potential contract requirements falling within the scope of section 3021 of the Energy Policy Act. Identification shall occur at the earliest possible point in time in the acquisition cycle, but not later than the submission of the procurement request to the contracting officer. For purposes of Section 3021, a contract requirement is any award that directly satisfies an Energy Policy Act program or requirement.

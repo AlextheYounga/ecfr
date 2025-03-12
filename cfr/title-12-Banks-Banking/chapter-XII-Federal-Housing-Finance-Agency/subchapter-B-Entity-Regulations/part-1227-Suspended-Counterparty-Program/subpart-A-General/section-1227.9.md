@@ -1,0 +1,7 @@
+##### § 1227.9 Request for reconsideration. #####
+
+(a) *Time period for request.* A suspended person may submit a request to the Director for reconsideration of a final suspension order at any time after the expiration of a twelve (12)-month period from the date the order took effect, but no such request may be made within twelve (12) months of a previous request for reconsideration from such person.
+
+(b) *Content of request.* A request for reconsideration must be submitted in writing and state the specific grounds for relief from the final suspension order, which shall be limited to any new information that may indicate that engaging in covered transactions with a regulated entity would no longer present a risk of significant financial or reputational harm or threat to the safe and sound operation of a regulated entity.
+
+(c) *Decision on request.* The Director may approve a request for reconsideration if the Director determines that engaging in covered transactions with a regulated entity is no longer likely to result in significant financial or reputational harm to a regulated entity or otherwise threaten the safe and sound operation of a regulated entity. The Director will inform the requestor of the decision on the request for reconsideration in a timely manner. A decision on a request for reconsideration shall not constitute an appealable order.

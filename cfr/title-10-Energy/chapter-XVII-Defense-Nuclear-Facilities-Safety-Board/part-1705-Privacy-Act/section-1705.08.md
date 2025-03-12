@@ -1,0 +1,5 @@
+##### § 1705.08 Appeals from correction denials. #####
+
+(a) When amendment of records has been denied by the Privacy Act Officer, the requester may file an appeal in writing. This appeal should be directed to The Chairman, Defense Nuclear Facilities Safety Board, 625 Indiana Avenue, NW., Suite 700, Washington, DC 20004. The appeal letter must (1) specify the records subject to the appeal, and (2) state why the denial of amendment by the Privacy Act Officer is erroneous. The Chairman or his designee will respond to such appeals within thirty working days (subject to extension by the Chairman for good cause) after the appeal letter has been received in the Board's offices.
+
+(b) The appeal determination, if adverse to the requester in any respect, will: (1) Explain the basis for denying amendment of the specified records, (2) inform the requester that he or she may file a concise statement setting forth reasons for disagreeing with the Chairman's determination, and (3) inform the requester of his or her right to pursue a judicial remedy under 5 U.S.C. 552a(g)(1)(A).

@@ -1,0 +1,13 @@
+##### § 220.4 Authorities to issue permits. #####
+
+(a) *Determination by Administrator.* The Administrator, or such other EPA employee as he may from time to time designate in writing, shall issue, deny, modify, revoke, suspend, impose conditions on, initiate and carry out enforcement activities and take any and all other actions necessary or proper and permitted by law with respect to general, special, emergency, or research permits.
+
+(b) *Authority delegated to Regional Administrators.* Regional Administrators, or such other EPA employees as they may from time to time designate in writing, are delegated the authority to issue, deny, modify, revoke, suspend, impose conditions on, initiate and carry out enforcement activities, and take any and all other actions necessary or proper and permitted by law with respect to special permits for:
+
+(1) The dumping of material in those portions of the territorial sea which are subject to the jurisdiction of any State within their respective Regions, and in those portions of the contiguous zone immediately adjacent to such parts of the territorial sea; and in the oceans with respect to approved waste disposal sites designated pursuant to part 228 of this subchapter H, and
+
+(2) Where transportation for dumping is to originate in one Region and dumping is to occur at a location within another Region's jurisdiction conferred by order of the Administrator, the Region in which transportation is to originate shall be responsible for review of the application and shall prepare the technical evaluation of the need for dumping and alternatives to ocean dumping. The Region having jurisdiction over the proposed dump site shall take all other actions required by this subchapter H with respect to the permit application, including without limitation, determining to issue or deny the permit, specifying the conditions to be imposed, and giving public notice. If both Regions do not concur in the disposition of the permit application, the Administrator will make the final decision on all issues with respect to the permit application, including without limitation, issuance or denial of the permit and the conditions to be imposed.
+
+(c) *Review of Corps of Engineers Dredged Material Permits.* Regional Administrators have the authority to review, to approve or to disapprove or to propose conditions upon Dredged Material Permits for ocean dumping of dredged material at locations within the respective Regional jurisdictions. Regional jurisdiction to act under this paragraph (c) of § 220.4 is determined by the Administrator in accordance with § 228.4(e).
+
+[42 FR 2468, Jan. 11, 1977, as amended at 73 FR 74986, Dec. 10, 2008]

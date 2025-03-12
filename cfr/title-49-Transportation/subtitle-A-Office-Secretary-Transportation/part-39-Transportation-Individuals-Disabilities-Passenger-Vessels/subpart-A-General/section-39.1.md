@@ -1,0 +1,3 @@
+##### § 39.1 What is the purpose of this part? #####
+
+The purpose of this Part is to carry out the Americans with Disabilities Act and Section 504 of the Rehabilitation Act of 1973 with respect to passenger vessels. This rule prohibits owners and operators of passenger vessels, including U.S. and foreign-flag vessels, from discriminating against passengers on the basis of disability; requires vessels and related facilities to be accessible; and requires owners and operators of vessels to take steps to accommodate passengers with disabilities.

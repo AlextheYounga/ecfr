@@ -1,0 +1,3 @@
+##### § 1274.3 Requirements to provide financial and other information to FHFA and the OF. #####
+
+In order to facilitate the preparation by the OF of combined Bank System annual and quarterly reports, each Bank shall provide to the OF in such form and within such timeframes as FHFA or the OF shall specify, all financial and other information and assistance that the OF shall request for that purpose. Nothing in this section shall contravene or be deemed to circumscribe in any manner the authority of FHFA to obtain any information from any Bank related to the preparation or review of any financial report.

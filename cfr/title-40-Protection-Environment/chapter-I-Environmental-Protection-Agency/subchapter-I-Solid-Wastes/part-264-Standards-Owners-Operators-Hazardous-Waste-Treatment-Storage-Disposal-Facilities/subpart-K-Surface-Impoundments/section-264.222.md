@@ -1,0 +1,7 @@
+##### § 264.222 Action leakage rate. #####
+
+(a) The Regional Administrator shall approve an action leakage rate for surface impoundment units subject to § 264.221 (c) or (d). The action leakage rate is the maximum design flow rate that the leak detection system (LDS) can remove without the fluid head on the bottom liner exceeding 1 foot. The action leakage rate must include an adequate safety margin to allow for uncertainties in the design (e.g., slope, hydraulic conductivity, thickness of drainage material), construction, operation, and location of the LDS, waste and leachate characteristics, likelihood and amounts of other sources of liquids in the LDS, and proposed response actions (e.g., the action leakage rate must consider decreases in the flow capacity of the system over time resulting from siltation and clogging, rib layover and creep of synthetic components of the system, overburden pressures, etc.).
+
+(b) To determine if the action leakage rate has been exceeded, the owner or operator must convert the weekly or monthly flow rate from the monitoring data obtained under § 264.226(d) to an average daily flow rate (gallons per acre per day) for each sump. Unless the Regional Administrator approves a different calculation, the average daily flow rate for each sump must be calculated weekly during the active life and closure period, and if the unit is closed in accordance with § 264.228(b), monthly during the post-closure care period when monthly monitoring is required under § 264.226(d).
+
+[57 FR 3487, Jan. 29, 1992]

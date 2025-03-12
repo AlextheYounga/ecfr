@@ -1,0 +1,23 @@
+##### § 349.5 Netting arrangements, minimum transfer amount, and satisfaction of collecting and posting requirements. #####
+
+(a) *Netting arrangements.* (1) For purposes of calculating and complying with the initial margin requirements of § 349.3 using an initial margin model as described in § 349.8, or with the variation margin requirements of § 349.4, a covered swap entity may net non-cleared swaps or non-cleared security-based swaps in accordance with this subsection.
+
+(2) To the extent that one or more non-cleared swaps or non-cleared security-based swaps are executed pursuant to an eligible master netting agreement between a covered swap entity and its counterparty that is a swap entity or financial end user, a covered swap entity may calculate and comply with the applicable requirements of this subpart on an aggregate net basis with respect to all non-cleared swaps and non-cleared security-based swaps governed by such agreement, subject to paragraph (a)(3) of this section.
+
+(3)(i) Except as permitted in paragraph (a)(3)(ii) of this section, if an eligible master netting agreement covers non-cleared swaps and non-cleared security-based swaps entered into on or after the applicable compliance date set forth in § 349.1(e) or (g), all the non-cleared swaps and non-cleared security-based swaps covered by that agreement are subject to the requirements of this subpart and included in the aggregate netting portfolio for the purposes of calculating and complying with the margin requirements of this subpart.
+
+(ii) An eligible master netting agreement may identify one or more separate netting portfolios that independently meet the requirements in paragraph (1) of the definition of “Eligible master netting agreement” in § 349.2 and to which collection and posting of margin applies on an aggregate net basis separate from and exclusive of any other non-cleared swaps or non-cleared security-based swaps covered by the eligible master netting agreement. Any such netting portfolio that contains any non-cleared swap or non-cleared security-based swap entered into on or after the applicable compliance date set forth in § 349.1(e) or (g) is subject to the requirements of this subpart. Any such netting portfolio that contains only non-cleared swaps or non-cleared security-based swaps entered into before the applicable compliance date is not subject to the requirements of this subpart.
+
+(4) If a covered swap entity cannot conclude after sufficient legal review with a well-founded basis that the netting agreement described in this section meets the definition of eligible master netting agreement set forth in § 349.2, the covered swap entity must treat the non-cleared swaps and non-cleared security based swaps covered by the agreement on a gross basis for the purposes of calculating and complying with the requirements of this subpart to collect margin, but the covered swap entity may net those non-cleared swaps and non-cleared security-based swaps in accordance with paragraphs (a)(1) through (3) of this section for the purposes of calculating and complying with the requirements of this subpart to post margin.
+
+(b) *Minimum transfer amount.* Notwithstanding § 349.3 or § 349.4, a covered swap entity is not required to collect or post margin pursuant to this subpart with respect to a particular counterparty unless and until the combined amount of initial margin and variation margin that is required pursuant to this subpart to be collected or posted and that has not yet been collected or posted with respect to the counterparty is greater than $500,000.
+
+(c) *Satisfaction of collecting and posting requirements.* A covered swap entity shall not be deemed to have violated its obligation to collect or post margin from or to a counterparty under § 349.3, § 349.4, or § 349.6(e) if:
+
+(1) The counterparty has refused or otherwise failed to provide or accept the required margin to or from the covered swap entity; and
+
+(2) The covered swap entity has:
+
+(i) Made the necessary efforts to collect or post the required margin, including the timely initiation and continued pursuit of formal dispute resolution mechanisms, or has otherwise demonstrated upon request to the satisfaction of the FDIC that it has made appropriate efforts to collect or post the required margin; or
+
+(ii) Commenced termination of the non-cleared swap or non-cleared security-based swap with the counterparty promptly following the applicable cure period and notification requirements.

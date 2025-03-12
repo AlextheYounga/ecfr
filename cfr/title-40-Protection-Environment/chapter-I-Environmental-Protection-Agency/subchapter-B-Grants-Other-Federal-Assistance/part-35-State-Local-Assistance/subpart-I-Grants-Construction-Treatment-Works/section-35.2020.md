@@ -1,0 +1,21 @@
+##### § 35.2020 Reserves. #####
+
+In developing its priority list the State shall establish the reserves required or authorized under this section. The amount of each mandatory reserve shall be based on the allotment to each State from the annual appropriation under § 35.2010. The State may also establish other reserves which it determines appropriate.
+
+(a) *Reserve for State management assistance grants.* Each State may request that the Regional Administrator reserve, from the State's annual allotment, up to 4 percent of the State's allotment based on the amount authorized to be appropriated, or $400,000, whichever is greater, for State management assistance grants under subpart A of this part. Grants may be made from these funds to cover the costs of administering activities delegated or scheduled to be delegated to a State. Funds reserved for this purpose that are not obligated by the end of the allotment period will be added to the amounts last allotted to a State. These funds shall be immediately available for obligation to projects in the same manner and to the same extent as the last allotment.
+
+(b) *Reserve for alternative systems for small communities.* Each State with 25 percent or more rural population (as determined by the population estimates of the Bureau of Census) shall reserve not less than 4 percent nor more than 71/2 percent of the State's annual allotment for alternatives to conventional treatment works for small communities. The Governor of any non-rural State may reserve up to 71/2 percent of the State's allotment for the same purpose.
+
+(c) *Reserve for innovative and alternative technologies.* Each State shall reserve not less than 4 percent nor more than 71/2 percent from its annual allotment to increase the Federal share of grant awards under § 35.2032 for projects which use innovative or alternative wastewater treatment processes and techniques. Of this amount not less than one-half of one percent of the State's allotment shall be set aside to increase the Federal share for projects using innovative processes and techniques.
+
+(d) *Reserve for water quality management.* Each State shall reserve not less than $100,000 nor more than 1 percent from its annual allotments, to carry out water quality management planning under § 35.2023, except that in the case of Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands and the Commonwealth of the Northern Marianas, a reasonable amount shall be reserved for this purpose.
+
+(e) *Reserve for Advances of Allowance.* Each State shall reserve a reasonable portion of its annual allotment not to exceed 10 percent for advances of allowance under § 35.2025. The Regional Administrator may waive this reserve requirement where a State can demonstrate that such a reserve is not necessary because no new facilities planning or design work requiring an advance and resulting in Step 3 grant awards is expected to begin during the period of availability of the annual allotment.
+
+(f) *Nonpoint source reserve.* Each State shall reserve 1 percent of its annual allotment or $100,000, whichever is greater, for development and implementation of a nonpoint source management program under section 319 of the Act. Sums reserved by the State under this paragraph that are in excess of $100,000 and that are not used for these purposes, may be used by the State for any other purpose under title II of the Act.
+
+(g) *Marine estuary reserve.* The Administrator shall reserve, before allotment of funds to the States, 1 percent of the funds appropriated under section 207 in fiscal years 1987 and 1988, and 11/2 percent of the funds appropriated under section 207 in fiscal years 1989 and 1990, to carry out section 205(l) of the Act.
+
+(h) *Indian program reserve.* The Administrator shall reserve, before allotment of funds to the States, one-half of 1 percent of the funds appropriated under section 207 in fiscal years 1987, 1988, 1989 and 1990, for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes.
+
+[49 FR 6234, Feb. 17, 1984, as amended at 50 FR 45895, Nov. 4, 1985; 55 FR 27095, June 29, 1990]

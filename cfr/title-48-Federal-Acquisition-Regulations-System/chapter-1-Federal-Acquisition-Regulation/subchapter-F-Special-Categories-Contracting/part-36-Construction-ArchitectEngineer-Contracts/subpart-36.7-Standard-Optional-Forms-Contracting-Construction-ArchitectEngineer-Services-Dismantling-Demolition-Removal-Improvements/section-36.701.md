@@ -1,0 +1,9 @@
+##### 36.701 Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements. #####
+
+(a) Standard Form 1442, Solicitation, Offer, and Award (Construction, Alteration, or Repair), shall be used to solicit and submit offers, and award construction or dismantling, demolition, or removal of improvements contracts expected to exceed the simplified acquisition threshold, and may be used for contracts at or below the simplified acquisition threshold. In all sealed bid solicitations, or when the Government otherwise requires a noncancellable offer acceptance period, the contracting officer shall insert in the blank provided in Block 13D the number of calendar days that the offer must be available for acceptance after the date offers are due.
+
+(b) Optional Form 347, Order for Supplies or Services, may be used for construction or dismantling, demolition, or removal of improvements contracts that are at or below the simplified acquisition threshold *provided,* that the contracting officer includes the clauses required (see subpart 36.5) in the simplified acquisitions (see part 13).
+
+(c) Contracting officers may use Optional Form 1419, Abstract of Offers—Construction, and Optional Form 1419A, Abstract of Offers—Construction, Continuation Sheet, or the automated equivalents to record offers submitted in response to a sealed bid solicitation (see 14.403) and may also use them to record offers submitted in response to negotiated solicitations.
+
+[48 FR 42356, Sept. 19, 1983, as amended at 52 FR 19805, May 27, 1987; 54 FR 29282, July 11, 1989; 60 FR 34759, July 3, 1995; 61 FR 39198, July 26, 1996; 69 FR 59699, Oct. 5, 2004; 74 FR 31560, July 1, 2009]

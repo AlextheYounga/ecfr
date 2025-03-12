@@ -1,0 +1,3 @@
+##### 871.201-3 Medical services. #####
+
+The medical services provided trainees under vocational rehabilitation and education contracts, agreements, or arrangements are separate and distinct from any other medical service under the jurisdiction of the Veterans Health Administration to which the veteran may be entitled. No certificate of eligibility is required from the Veterans Health Administration before the veteran may be provided such services.

@@ -1,0 +1,7 @@
+##### § 840.5 Inspection, examination and testing of physical evidence. #####
+
+(a) Any employee of the Safety Board, upon presenting appropriate credentials is authorized to enter any property wherein a transportation accident has occurred or wreckage from any such accident is located and do all things necessary for proper investigation, including examination or testing of any vehicle, rolling stock, track, or any part of any part of any such item when such examination or testing is determined to be required for purposes of such investigation.
+
+(b) Any examination or testing shall be conducted in such a manner so as not to interfere with or obstruct unnecessarily the transportation services provided by the owner or operator of such vehicle, rolling stock, or track, and shall be conducted in such a manner so as to preserve, to the maximum extent feasible, any evidence relating to the transportation accident, consistent with the needs of the investigation and with the cooperation of such owner or operator. The employee may inspect, at reasonable times, records, files, papers, processes, controls, and facilities relevant to the investigation of such accident. Each inspection shall be commenced and completed promptly and the results of such inspection, examination, or test made available to the parties.
+
+[47 FR 49408, Nov. 1, 1982]

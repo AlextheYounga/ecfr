@@ -1,0 +1,3 @@
+##### § 351.806 Status during notice period. #####
+
+When possible, the agency shall retain the employee on active duty status during the notice period. When in an emergency the agency lacks work or funds for all or part of the notice period, it may place the employee on annual leave with or without his or her consent, or leave without pay with his or her consent, or in a nonpay status without his or her consent.

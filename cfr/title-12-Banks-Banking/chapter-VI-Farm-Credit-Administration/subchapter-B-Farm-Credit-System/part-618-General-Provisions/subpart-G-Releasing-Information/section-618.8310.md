@@ -1,0 +1,17 @@
+##### § 618.8310 Lists of borrowers and stockholders. #####
+
+(a) Any System institution, for the purpose of protecting the security position of the institution, may provide lists of borrowers to buyers, warehousemen, and others who deal in produce or livestock of the kind that secures such loans, except to the extent such actions are prohibited by State laws adopted in accordance with the Food Security Act of 1985, Pub. L. 99-198, 99 Stat. 1354. Lists of borrowers or stockholders shall not otherwise be released by any bank or association except in accordance with paragraph (b) of this section.
+
+(b)(1) Within 7 days after receipt of a written request by a stockholder, each Farm Credit bank or association must provide a current list of its stockholders' names, addresses, and classes of stock held to such requesting stockholder. As a condition to providing the list, the bank or association may only require that the stockholder agree and certify in writing that the stockholder will:
+
+(i) Utilize the list exclusively for communicating with stockholders for permissible purposes; and
+
+(ii) Not make the list available to any person, other than the stockholder's attorney or accountant, without first obtaining the written consent of the institution.
+
+(2) As an alternative to receiving a list of stockholders, a stockholder may request the institution mail or otherwise furnish to each stockholder a communication for a permissible purpose on behalf of the requesting stockholder. This alternative may be used at the discretion of the requesting stockholder, provided that the requester agrees to defray the reasonable costs of the communication. In the event the requester decides to exercise this option, the institution must provide the requester with a written estimate of the costs of handling and mailing the communication as soon as practicable after receipt of the stockholder's request to furnish a communication. However, a stockholder may not exercise this option when requesting the list to distribute campaign material for election to the institution board or board committees. Farm Credit banks and associations are prohibited from distributing or mailing campaign material under § 611.320(e) of this chapter.
+
+(3) For purposes of paragraph (b) of this section “permissible purpose” is defined to mean matters relating to the business operations of the institutions. This includes matters relating to the effectiveness of management, the use of institution assets, the distribution by stockholder candidates of campaign material for election to the institution board or board committees, and the performance of directors and officers. This does not include communications involving commercial, social, political, or charitable causes, communications relating to the enforcement of a personal claim or the redress of a personal grievance, or proposals advocating that the bank or association violate any Federal, State, or local law or regulation.
+
+(c) In connection with preparing and submitting an electronic report of all System accounts and exposures to the Farm Credit Administration in accordance with the requirements of § 621.15 of this chapter, each bank and association may provide information from its lists of borrowers and stockholders to the Reporting Entity as defined in § 621.2 of this chapter.
+
+[51 FR 39503, Oct. 28, 1986, as amended at 53 FR 35457, Sept. 14, 1988; 61 FR 67188, Dec. 20, 1996; 71 FR 5763, Feb. 2, 2006; 78 FR 77561, Dec. 24, 2013]

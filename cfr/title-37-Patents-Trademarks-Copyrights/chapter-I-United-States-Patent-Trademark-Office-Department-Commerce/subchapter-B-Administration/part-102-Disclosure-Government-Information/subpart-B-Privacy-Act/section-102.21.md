@@ -1,0 +1,17 @@
+##### § 102.21 Purpose and scope. #####
+
+(a) The purpose of this subpart is to establish policies and procedures for implementing the Privacy Act of 1974, as amended (5 U.S.C. 552a) (the Act). The main objectives are to facilitate full exercise of rights conferred on individuals under the Act and to ensure the protection of privacy as to individuals on whom USPTO maintains records in systems of records under the Act. USPTO accepts the responsibility to act promptly and in accordance with the Act upon receipt of any inquiry, request or appeal from a citizen of the United States or an alien lawfully admitted for permanent residence into the United States, regardless of the age of the individual. Further, USPTO accepts the obligations to maintain only such information on individuals as is relevant and necessary to the performance of its lawful functions, to maintain that information with such accuracy, relevancy, timeliness, and completeness as is reasonably necessary to assure fairness in determinations made by USPTO about the individual, to obtain information from the individual to the extent practicable, and to take every reasonable step to protect that information from unwarranted disclosure. USPTO will maintain no record describing how an individual exercises rights guaranteed by the First Amendment unless expressly authorized by statute or by the individual about whom the record is maintained or unless pertinent to and within the scope of an authorized law enforcement activity. An individual's name and address will not be sold or rented by USPTO unless such action is specifically authorized by law; however, this provision shall not be construed to require the withholding of names and addresses otherwise permitted to be made public.
+
+(b) This subpart is administered by the Privacy Officer of USPTO.
+
+(c) Matters outside the scope of this subpart include the following:
+
+(1) Requests for records which do not pertain to the individual making the request, or to the individual about whom the request is made if the requester is the parent or guardian of the individual;
+
+(2) Requests involving information pertaining to an individual which is in a record or file but not within the scope of a system of records notice published in the Federal Register;
+
+(3) Requests to correct a record where a grievance procedure is available to the individual either by regulation or by provision in a collective bargaining agreement with USPTO, and the individual has initiated, or has expressed in writing the intention of initiating, such grievance procedure. An individual selecting the grievance procedure waives the use of the procedures in this subpart to correct or amend a record; and,
+
+(4) Requests for employee-employer services and counseling which were routinely granted prior to enactment of the Act, including, but not limited to, test calculations of retirement benefits, explanations of health and life insurance programs, and explanations of tax withholding options.
+
+(d) Any request for records which pertains to the individual making the request, or to the individual about whom the request is made if the requester is the parent or guardian of the individual, shall be processed under the Act and this subpart and under the Freedom of Information Act and USPTO's implementing regulations at Subpart A of this part, regardless whether the Act or the Freedom of Information Act is mentioned in the request.

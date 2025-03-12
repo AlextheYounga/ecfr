@@ -1,0 +1,5 @@
+##### § 315.909 Relationship to other actions. #####
+
+(a) If an employee is required to concurrently serve both a probationary period under this subpart and a probationary period under subpart H of this part, the latter takes precedence and completion of the probationary period for competitive appointment and fulfills the requirements of this subpart.
+
+(b) An action which demotes an employee to a lower grade than the one the employee left to accept the supervisory or managerial position, and an action against an employee for reasons other than supervisory or managerial performance, is governed by part 432 or part 752 procedures, whichever is applicable. If the employee believes an action under this subpart was based on improper discrimination or other prohibited practices under 5 U.S.C. 2302, he or she may appeal to the Merit Systems Protection Board or the Equal Employment Opportunity Commission, as appropriate.

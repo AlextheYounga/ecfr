@@ -1,0 +1,7 @@
+##### § 77.704-1 Work on high-voltage lines. #####
+
+(a) No high-voltage line shall be regarded as deenergized for the purpose of performing work on it, until it has been determined by a qualified person (as provided in § 77.103) that such high-voltage line has been deenergized and grounded. Such qualified person shall by visual observation (1) determine that the disconnecting devices on the high-voltage circuit are in open position, and (2) insure that each ungrounded conductor of the high-voltage circuit upon which work is to be done is properly connected to the system grounding medium. In the case of resistance grounded or solid wye-connected systems, the neutral wire is the system grounding medium. In the case of an ungrounded power system, either the steel armor or conduit enclosing the system or a surface grounding field is a system grounding medium;
+
+(b) No work shall be performed on any high-voltage line which is supported by any pole or structure which also supports other high-voltage lines until: (1) All lines supported on the pole or structure are deenergized and grounded in accordance with all of the provisions of this § 77.704-1 which apply to the repair of deenergized surface high-voltage lines; or (2) the provisions of §§ 77.704-2 through 77.704-10 have been complied with, with respect to all energized lines, which are supported on the pole or structure.
+
+(c) Work may be performed on energized surface high-voltage lines only in accordance with the provisions of §§ 77.704-2 through 77.704-10, inclusive.

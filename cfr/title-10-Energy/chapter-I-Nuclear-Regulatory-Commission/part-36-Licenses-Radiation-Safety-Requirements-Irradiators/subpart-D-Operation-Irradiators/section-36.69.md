@@ -1,0 +1,5 @@
+##### § 36.69 Irradiation of explosive or flammable materials. #####
+
+(a) Irradiation of explosive material is prohibited unless the licensee has received prior written authorization from the Commission. Authorization will not be granted unless the licensee can demonstrate that detonation of the explosive would not rupture the sealed sources, injure personnel, damage safety systems, or cause radiation overexposures of personnel.
+
+(b) Irradiation of more than small quantities of flammable material (flash point below 140 °F) is prohibited in panoramic irradiators unless the licensee has received prior written authorization from the Commission. Authorization will not be granted unless the licensee can demonstrate that a fire in the radiation room could be controlled without damage to sealed sources or safety systems and without radiation overexposures of personnel.

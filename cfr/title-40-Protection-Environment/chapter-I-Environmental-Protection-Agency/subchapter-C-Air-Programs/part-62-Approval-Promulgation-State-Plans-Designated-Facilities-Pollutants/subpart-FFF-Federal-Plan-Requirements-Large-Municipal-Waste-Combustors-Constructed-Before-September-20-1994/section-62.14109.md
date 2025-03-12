@@ -1,0 +1,45 @@
+##### § 62.14109 Reporting and recordkeeping and compliance and performance testing. #####
+
+(a) The owner or operator of an affected facility must comply with the reporting and recordkeeping provisions listed in 40 CFR 60.59b of subpart Eb, except as provided in paragraphs (a)(1) through (a)(3) of this section.
+
+(1) The siting requirements under 40 CFR 60.59b(a), (b)(5), and (d)(11) of subpart Eb and the notification of construction requirements under 40 CFR 60.59b(b) and (c) of subpart Eb do not apply.
+
+(2) 40 CFR 60.54b, 60.56b, and 60.58b(g)(5)(iii) of subpart Eb do not apply to this subpart (see §§ 62.14105 and 62.14107 of this subpart).
+
+(b) The owner or operator of an affected facility must comply with the compliance and performance testing methods and procedures listed in 40 CFR 60.58b of subpart Eb, except as provided in paragraphs (c) and (d) of this section.
+
+(c) The initial performance test must be completed within 180 days after the date of final compliance specified in § 62.14108, rather than the date for the initial performance test specified in 40 CFR 60.58b of subpart Eb.
+
+(d) The owner or operator of an affected facility may follow the alternative performance testing schedule for dioxin/furan emissions specified in paragraph (d)(1) of this section.
+
+(1) If all performance tests for all affected facilities at the MWC plant over a 2-year period indicate that dioxin/furan emissions are less than or equal to 15 nanograms per dry standard cubic meter total mass, corrected to 7 percent oxygen for all affected facilities located within a municipal waste combustor plant, the owner or operator of the municipal waste combustor plant may elect to conduct annual performance tests for one affected facility (i.e., unit) per year at the municipal waste combustor plant. At a minimum, a performance test for dioxin/furan emissions shall be conducted annually (no more than 12 months following the previous performance test) for one affected facility at the municipal waste combustor plant. Each year a different affected facility at the municipal waste combustor plant shall be tested, and the affected facilities at the plant shall be tested in sequence (e.g., unit 1, unit 2, unit 3, as applicable). If each annual performance test continues to indicate a dioxin/furan emission level less than or equal to 15 nanograms per dry standard cubic meter (total mass), the owner or operator may continue conducting a performance test on only one affected facility per year. If any annual performance test indicates a dioxin/furan emission level greater than 15 nanograms per dry standrd cubic meter (total mass), performance tests thereafter shall be conducted annually on all affected facilities at the plant until and unless all annual performance tests for all affected facilities at the plant over a 2-year period indicate a dioxin/furan emission level less than or equal to 15 nanograms per dry standard cubic meter (total mass).
+
+(2) The owner or operator who is following the alternative performance testing schedule for dioxin/furan emissions specified in paragraph (d)(1) of this section may choose an alternative testing sequence (e.g., unit 1, 3, 2, 4) for affected facilities at the municipal waste combustor plant. The owner or operator must submit a request to EPA for approval of the alternative testing sequence. After approval, the alternative testing sequence is effective until a different testing sequence is received and approved by EPA.
+
+(e) The owner or operator of an affected facility that is taking longer than 1 year after the date of publication of this subpart FFF final rule to comply with the emission limits of this subpart must submit notification to the EPA Regional Office within 10 business days of completing each increment. Each notification must indicate which increment of progress specified in § 62.14108(a)(1) through (a)(5) has been achieved. The notification must be signed by the owner or operator of the affected facility.
+
+(f) The owner or operator of an affected facility that is taking longer than 1 year after the date of publication of this subpart FFF to comply with the emission limits of this subpart who fails to meet any increment of progress specified in § 62.14108(a)(1) through (a)(5) according to the applicable schedule in § 62.14108 must submit notification to the EPA Regional Office within 10 business days of the applicable date in § 62.14108 that the owner or operator failed to meet the increment.
+
+(g) The owner or operator of an affected facility that is taking longer than 1 year after the date of publication of this subpart FFF to comply with the emission limits of this subpart must submit a final control plan by the date specified in § 62.14108(b) with the notification required by § 62.14109(e). The final control plan must, at a minimum, include a description of the air pollution control devices or process changes that will be employed for each unit to comply with the emission limits and other requirements of this subpart.
+
+(h) The owner or operator of an affected facility that is taking longer than 1 year after the date of publication of this subpart FFF to comply with the emission limits of this subpart must submit a signed copy of the contract or contracts awarded according to the requirements of § 62.14108(a)(2) with the notification required by § 62.14109(e).
+
+(i) The owner or operator of an affected facility that is taking longer than 1 year after the date of publication of this subpart FFF to comply with the emission limits of this subpart must keep on site a copy of the final control plan required by § 62.14109(g).
+
+(j) The owner or operator of an affected facility that plans to cease operation of the affected facility on or before December 19, 2000 rather than comply with the emission limits of this subpart by the applicable compliance date specified in § 62.14108 must submit a notification by the date specified for the final control plan according to the schedule specified in paragraphs § 62.14108(b)(1) through (b)(4), as applicable. (Affected facilities that cease operation on or before December 19, 2000 rather than comply with the emission limits of this subpart by the compliance date specified in § 62.14108 are not required to submit a final control plan.) The notification must state the date by which the affected facility will cease operation. If the cease operation date is later than 1 year after the date of publication of this subpart FFF, the owner or operator must enter into a legally binding closure agreement with EPA by the date the final control plan is due. The agreement must specify the date by which operation will cease.
+
+(k) The owner or operator of an affected facility that plans to de-rate the affected facility on or before December 19, 2000 rather than comply with the emission limits of this subpart by the compliance date specified in § 62.14108 must submit a final control plan as required by paragraph (g) of this section and submit notification of increments of progress as required by paragraphs (e) and (f) of this section and § 62.14108(e) of this subpart.
+
+(1) The final control plan must, at a minimum, include the information in paragraphs (k)(1)(i) and (k)(1)(ii) of this section rather than the information in paragraph (g) of this section.
+
+(i) A description of the physical changes that will be made to accomplish the de-rating.
+
+(ii) Calculations of the current maximum combustion capacity and the planned maximum combustion capacity after the de-rating. (See the procedures specified in 40 CFR 60.58b(j) of subpart Eb for calculating municipal waste combustor unit capacity.)
+
+(2) The owner or operator must submit a signed copy of the contract or contracts awarded to initiate the de-rating with the notification required by paragraph (e) of this section.
+
+(l) The owner or operator of an affected facility that is ceasing operation more than 1 year following the date of publication of this subpart FFF must submit performance test results for dioxin/furan emissions conducted during or after 1990 for each affected facility by the date 1 year after the date of publication of this subpart FFF. The performance test shall be conducted according to the procedure in paragraph (b) of this section.
+
+(m) The owner or operator (or the State air pollution control authority) that is submitting alternative dates for increments 2, 3, and 4 according to § 62.14108(b)(4) must submit the alternative dates by the date specified for the final control plan according to the schedule specified in paragraphs § 62.14108 (b)(1) and (b)(2), as applicable. The owner or operator (or the State air pollution control authority) must submit a justification if any of the alternative dates are later than the increment dates in tables 4 or 5 of this subpart. The owner or operator must also submit the alternative dates and justification to the State.
+
+[63 FR 63202, Nov. 12, 1998; 64 FR 17219, Apr. 8, 1999]

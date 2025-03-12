@@ -1,0 +1,5 @@
+##### § 1706.1 Scope; statement of policy. #####
+
+(a) *Scope.* This part sets forth the guidelines, requirements, and procedures the Defense Nuclear Facilities Safety Board will follow in determining whether a contractor or offeror has an organizational or consultant conflict of interest (OCI) and in avoiding, neutralizing, or mitigating OCIs.
+
+(b) *Policy.* It is the policy of the Board to identify and then avoid or mitigate organizational and consultant conflicts of interest. Normally, the Board will not award contracts to offerors who have OCIs and will terminate contracts where OCIs are identified following contract award. In exceptional circumstances, the Board reserves the right to waive conflicts of interest if it determines that such action is in the best interests of the Government, pursuant to § 1706.8, and to take such mitigating measures as it deems appropriate pursuant to such section.

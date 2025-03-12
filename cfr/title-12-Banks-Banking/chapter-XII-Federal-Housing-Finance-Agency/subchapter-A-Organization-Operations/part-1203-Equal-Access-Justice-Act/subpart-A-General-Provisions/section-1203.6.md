@@ -1,0 +1,3 @@
+##### § 1203.6 Rulemaking on maximum rate for fees. #####
+
+If warranted by an increase in the cost of living or by special circumstances, FHFA may adopt regulations providing for an award of attorney or agent fees at a rate higher than $125 per hour in adversary adjudications covered by this part. Special circumstances include the limited availability of attorneys or agents who are qualified to handle certain types of adversary adjudications. FHFA will conduct any rulemaking proceedings for this purpose under the informal rulemaking procedures of the Administrative Procedure Act, 5 U.S.C. 553.

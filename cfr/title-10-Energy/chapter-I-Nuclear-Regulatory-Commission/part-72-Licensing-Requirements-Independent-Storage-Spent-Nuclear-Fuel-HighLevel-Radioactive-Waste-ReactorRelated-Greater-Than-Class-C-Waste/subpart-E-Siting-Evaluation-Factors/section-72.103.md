@@ -1,0 +1,31 @@
+##### § 72.103 Geological and seismological characteristics for applications for dry cask modes of storage on or after October 16, 2003. #####
+
+(a)(1) East of the Rocky Mountain Front (east of approximately 104° west longitude), except in areas of known seismic activity including but not limited to the regions around New Madrid, MO; Charleston, SC; and Attica, NY; sites will be acceptable if the results from onsite foundation and geological investigation, literature review, and regional geological reconnaissance show no unstable geological characteristics, soil stability problems, or potential for vibratory ground motion at the site in excess of an appropriate response spectrum anchored at 0.2 g.
+
+(2) For those sites that have been evaluated under paragraph (a)(1) of this section that are east of the Rocky Mountain Front, and that are not in areas of known seismic activity, a standardized design earthquake ground motion (DE) described by an appropriate response spectrum anchored at 0.25 g may be used. Alternatively, a site-specific DE may be determined by using the criteria and level of investigations required by paragraph (f) of this section. For a site with a co-located nuclear power plant (NPP), the existing geological and seismological design criteria for the NPP may be used. If the existing design criteria for the NPP is used and the site has multiple NPPs, then the criteria for the most recent NPP must be used.
+
+(b) West of the Rocky Mountain Front (west of approximately 104° west longitude), and in other areas of known potential seismic activity east of the Rocky Mountain Front, seismicity must be evaluated by the techniques presented in paragraph (f) of this section. If an ISFSI or MRS is located on an NPP site, the existing geological and seismological design criteria for the NPP may be used. If the existing design criteria for the NPP is used and the site has multiple NPPs, then the criteria for the most recent NPP must be used.
+
+(c) Sites other than bedrock sites must be evaluated for their liquefaction potential or other soil instability due to vibratory ground motion.
+
+(d) Site-specific investigations and laboratory analyses must show that soil conditions are adequate for the proposed foundation loading.
+
+(e) In an evaluation of alternative sites, those which require a minimum of engineered provisions to correct site deficiencies are preferred. Sites with unstable geologic characteristics should be avoided.
+
+(f) Except as provided in paragraphs (a)(2) and (b) of this section, the DE for use in the design of structures, systems, and components must be determined as follows:
+
+(1) *Geological, seismological, and engineering characteristics.* The geological, seismological, and engineering characteristics of a site and its environs must be investigated in sufficient scope and detail to permit an adequate evaluation of the proposed site, to provide sufficient information to support evaluations performed to arrive at estimates of the DE, and to permit adequate engineering solutions to actual or potential geologic and seismic effects at the proposed site. The size of the region to be investigated and the type of data pertinent to the investigations must be determined based on the nature of the region surrounding the proposed site. Data on the vibratory ground motion, tectonic surface deformation, nontectonic deformation, earthquake recurrence rates, fault geometry and slip rates, site foundation material, and seismically induced floods and water waves must be obtained by reviewing pertinent literature and carrying out field investigations. However, each applicant shall investigate all geologic and seismic factors (for example, volcanic activity) that may affect the design and operation of the proposed ISFSI or MRS facility irrespective of whether these factors are explicitly included in this section.
+
+(2) *Geologic and seismic siting factors.* The geologic and seismic siting factors considered for design must include a determination of the DE for the site, the potential for surface tectonic and nontectonic deformations, the design bases for seismically induced floods and water waves, and other design conditions as stated in paragraph (f)(2)(iv) of this section.
+
+(i) Determination of the Design Earthquake Ground Motion (DE). The DE for the site is characterized by both horizontal and vertical free-field ground motion response spectra at the free ground surface. In view of the limited data available on vibratory ground motions for strong earthquakes, it usually will be appropriate that the design response spectra be smoothed spectra. The DE for the site is determined considering the results of the investigations required by paragraph (f)(1) of this section. Uncertainties are inherent in these estimates and must be addressed through an appropriate analysis, such as a probabilistic seismic hazard analysis (PSHA) or suitable sensitivity analyses.
+
+(ii) Determination of the potential for surface tectonic and nontectonic deformations. Sufficient geological, seismological, and geophysical data must be provided to clearly establish if there is a potential for surface deformation.
+
+(iii) Determination of design bases for seismically induced floods and water waves. The size of seismically induced floods and water waves that could affect a site from either locally or distantly generated seismic activity must be determined.
+
+(iv) Determination of siting factors for other design conditions. Siting factors for other design conditions that must be evaluated include soil and rock stability, liquefaction potential, and natural and artificial slope stability. Each applicant shall evaluate all siting factors and potential causes of failure, such as, the physical properties of the materials underlying the site, ground disruption, and the effects of vibratory ground motion that may affect the design and operation of the proposed ISFSI or MRS.
+
+(3) Regardless of the results of the investigations anywhere in the continental U.S., the DE must have a value for the horizontal ground motion of no less than 0.10 g with the appropriate response spectrum.
+
+[68 FR 54159, Sept. 16, 2003]

@@ -1,0 +1,3 @@
+##### § 35.11 Material required for record. #####
+
+MSHA may retain for record all or part of the material submitted for testing. Any material that MSHA does not require will be returned to the applicant at his expense upon receipt of his written request and shipping instructions not more than 6 months after the termination or completion of the tests. Thereafter MSHA will dispose of such surplus material as it deems appropriate.

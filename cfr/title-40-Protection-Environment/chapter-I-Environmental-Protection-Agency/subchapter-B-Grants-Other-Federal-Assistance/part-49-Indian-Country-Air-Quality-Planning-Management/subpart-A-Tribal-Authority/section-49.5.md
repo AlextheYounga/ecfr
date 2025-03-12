@@ -1,0 +1,3 @@
+##### § 49.5 Tribal requests for additional Clean Air Act provisions for which it is not appropriate to treat tribes in the same manner as States. #####
+
+Any tribe may request that the Administrator specify additional provisions of the Clean Air Act for which it would be inappropriate to treat tribes in general in the same manner as States. Such request should clearly identify the provisions at issue and should be accompanied with a statement explaining why it is inappropriate to treat tribes in the same manner as States with respect to such provisions.

@@ -1,0 +1,5 @@
+##### § 415.202 Services of residents not in approved GME programs. #####
+
+(a) *General rules.* For services of a physician employed by a hospital who is authorized to practice only in a hospital setting and for the services of a resident who is not in any approved GME program, payment is made to the hospital on a Part B reasonable cost basis regardless of whether the services are furnished to hospital inpatients or outpatients.
+
+(b) *Payment.* For services described in paragraph (a) of this section, payment is made under Part B by reducing the reasonable costs of furnishing the services by the beneficiary deductible and paying 80 percent of the remaining amount. No payment is made for other costs of unapproved programs, such as administrative costs related to teaching activities of physicians.

@@ -1,0 +1,5 @@
+##### § 2.317 Separate hearings; consolidation of proceedings. #####
+
+(a) *Separate hearings.* On motion by the parties or upon request of the presiding officer for good cause shown, or on its own initiative, the Commission may establish separate hearings in a proceeding if it is found that the action will be conducive to the proper dispatch of its business and to the ends of justice and will be conducted in accordance with the other provisions of this subpart.
+
+(b) *Consolidation of proceedings.* On motion and for good cause shown or on its own initiative, the Commission or the presiding officers of each affected proceeding may consolidate for hearing or for other purposes two or more proceedings, or may hold joint hearings with interested States and/or other Federal agencies on matters of concurrent jurisdiction, if it is found that the action will be conducive to the proper dispatch of its business and to the ends of justice and will be conducted in accordance with the other provisions of this subpart.

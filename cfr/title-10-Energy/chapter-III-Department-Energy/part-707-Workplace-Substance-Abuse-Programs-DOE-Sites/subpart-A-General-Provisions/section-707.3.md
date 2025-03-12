@@ -1,0 +1,3 @@
+##### § 707.3 Policy. #####
+
+It is the policy of DOE to conduct its programs so as to protect the environment, maintain public health and safety, and safeguard the national security. This policy is advanced in this rule by requiring contractors and subcontractors within its scope to adopt procedures consistent with the baseline requirements of this part, and to impose significant sanctions on individuals in testing designated positions or with unescorted access to the control areas of certain DOE reactors, who use or are involved with illegal drugs.

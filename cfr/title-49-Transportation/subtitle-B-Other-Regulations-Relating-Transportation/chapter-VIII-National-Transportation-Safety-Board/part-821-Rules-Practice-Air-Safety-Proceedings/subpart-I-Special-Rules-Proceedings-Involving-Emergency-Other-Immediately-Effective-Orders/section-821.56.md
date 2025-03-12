@@ -1,0 +1,7 @@
+##### § 821.56 Hearing and initial decision or appealable order of law judge. #####
+
+(a) *Notice of hearing.* Within 3 days after the date on which the Board receives the Administrator's complaint, or immediately upon the issuance of a law judge's order disposing of a petition for review of the Administrator's emergency determination, if later, the parties shall be served with a written notice of hearing, setting forth the date, time and place of the hearing. The hearing shall be set for a date no later than 30 days after the date on which the respondent's appeal was received and docketed. To the extent that they are not inconsistent with this section, the provisions of § 821.37(a) shall also apply.
+
+(b) *Conduct of hearing.* The provisions of §§ 821.38, 821.39 and 821.40, concerning the taking of evidence, argument and submissions by the parties, and the composition of the hearing record, shall apply to proceedings governed by this subpart.
+
+(c) *Initial decision and effect of initial decision or appealable order.* The law judge's initial decision shall be made orally on the record at the termination of the hearing. The provisions of § 821.42, concerning the content of the initial decision, the furnishing of copies of the initial decision to the parties and the issuance date of the initial decision, and the provisions of § 821.43, concerning the effect of the law judge's initial decision or appealable order and any appeal therefrom, shall apply to proceedings governed by this subpart.

@@ -1,0 +1,3 @@
+##### § 139.331 Obstructions. #####
+
+In a manner authorized by the Administrator, each certificate holder must ensure that each object in each area within its authority that has been determined by the FAA to be an obstruction is removed, marked, or lighted, unless determined to be unnecessary by an FAA aeronautical study. FAA Advisory Circulars contain methods and procedures for the lighting of obstructions that are acceptable to the Administrator.

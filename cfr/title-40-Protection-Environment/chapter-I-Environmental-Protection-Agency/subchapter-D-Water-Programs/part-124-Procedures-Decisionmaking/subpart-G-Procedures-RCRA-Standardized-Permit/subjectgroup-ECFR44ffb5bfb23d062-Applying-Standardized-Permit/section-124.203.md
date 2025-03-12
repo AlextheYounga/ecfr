@@ -1,0 +1,3 @@
+##### § 124.203 How may I switch from my individual RCRA permit to a standardized permit? #####
+
+Where all units in the RCRA permit are eligible for the standardized permit, you may request that your individual permit be revoked and reissued as a standardized permit, in accordance with § 124.5. Where only some of the units in the RCRA permit are eligible for the standardized permit, you may request that your individual permit be modified to no longer include those units and issue a standardized permit for those units in accordance with § 124.204.

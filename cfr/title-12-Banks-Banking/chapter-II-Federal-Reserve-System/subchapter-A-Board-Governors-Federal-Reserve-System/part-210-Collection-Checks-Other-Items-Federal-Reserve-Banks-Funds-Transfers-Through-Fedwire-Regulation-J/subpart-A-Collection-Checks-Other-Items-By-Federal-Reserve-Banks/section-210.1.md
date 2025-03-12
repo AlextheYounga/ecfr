@@ -1,0 +1,5 @@
+##### § 210.1 Authority, purpose, and scope. #####
+
+The Board of Governors of the Federal Reserve System (Board) has issued this subpart pursuant to the Federal Reserve Act, sections 11 (i) and (j) (12 U.S.C. 248 (i) and (j)), section 13 (12 U.S.C. 342), section 16 (12 U.S.C. 248(o) and 360), and section 19(f) (12 U.S.C. 464); the Expedited Funds Availability Act (12 U.S.C. 4001 *et seq.*); the Check Clearing for the 21st Century Act (12 U.S.C. 5001-5018) and other laws. This subpart governs the collection of checks and other cash and noncash items and the handling of returned checks by Federal Reserve Banks. Its purpose is to provide rules for collecting and returning items and settling balances.
+
+[53 FR 21984, June 13, 1988, as amended at Reg. J, 59 FR 22965, May 4, 1994; Reg. J, 69 FR 62557, Oct. 27, 2004]

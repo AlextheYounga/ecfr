@@ -1,0 +1,3 @@
+##### 2919.502 Setting aside acquisitions. #####
+
+Contracting officers will conduct market surveys specifically to determine whether procurements should be conducted via 8(a) procedures, HUBZone procedures or as small business set-asides. If a reasonable expectation exists that at least two responsible small businesses may submit offers at fair market prices (three responsible small businesses in procurements via GSA Federal Supply Schedule), then the procurement will be set aside for small business. Market surveys will be documented in all procurement actions not reserved for small businesses.

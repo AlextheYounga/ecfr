@@ -1,0 +1,9 @@
+##### § 238.66 Ongoing requirements. #####
+
+(a) *In general.* A savings and loan holding company with an effective election to be treated as a financial holding company is subject to the same requirements applicable to a financial holding company, under sections 4(l) and 4(m) of the Bank Holding Company Act and section 804(c) of the Community Reinvestment Act of 1977 (12 U.S.C. 2903(c)) as if the savings and loan holding company was a bank holding company.
+
+(b) *Consequences of failing to continue to meet applicable capital and management requirements.* A savings and loan holding company with an effective election to be treated as a financial holding company that fails to meet applicable capital and management requirements at § 238.63 is subject to the notice, remediation agreement, divestiture, and any other requirements described in § 225.83 of this chapter.
+
+(c) *Consequences of failing to continue to maintain a satisfactory or better rating under the Community Reinvestment Act at all insured depository institution subsidiaries.* A savings and loan holding company with an effective election to be treated as a financial holding company that fails to maintain a satisfactory or better rating under the Community Reinvestment Act at all insured deposit institution subsidiaries is subject to the activities limitations and any other requirements described in § 225.84 of this chapter.
+
+(d) *Notice and approval requirements for conducting financial holding company activities; permissible activities.* A savings and loan holding company with an effective election to be treated as a financial holding company may conduct the activities listed in § 225.86 of this chapter subject to the notice, approval, and any other requirements described in §§ 225.85 through 225.89 of this chapter.

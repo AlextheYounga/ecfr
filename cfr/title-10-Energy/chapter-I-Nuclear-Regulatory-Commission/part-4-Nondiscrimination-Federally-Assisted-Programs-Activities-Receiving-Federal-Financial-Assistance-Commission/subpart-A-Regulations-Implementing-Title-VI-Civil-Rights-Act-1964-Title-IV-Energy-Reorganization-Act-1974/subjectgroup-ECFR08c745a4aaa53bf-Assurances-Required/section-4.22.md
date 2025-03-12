@@ -1,0 +1,5 @@
+##### § 4.22 Continuing Federal financial assistance. #####
+
+Every application by a State or a State agency for continuing Federal financial assistance shall require the submission of and every grant, loan, or contract to or with a State or a State agency for continuing Federal financial assistance to which this subpart applies, shall, as a condition to its approval and the extension of any Federal financial assistance pursuant to the grant, loan or contract, contain or be accompanied by, a statement that the program is (or, in the case of a new program, will be) conducted in compliance with all requirements imposed by or pursuant to this subpart, and shall provide or be accompanied by provisions for such methods of administration for the program as are found by the responsible NRC official to give reasonable assurance that the recipient and all other recipients of Federal financial assistance under such program will comply with all requirements imposed by or pursuant to this subpart.
+
+[38 FR 17928, July 5, 1973, as amended at 68 FR 51344, Aug. 26, 2003]

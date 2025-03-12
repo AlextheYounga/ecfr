@@ -1,0 +1,3 @@
+##### 32.108 Financial consultation. #####
+
+Each contracting office should have available and use the services of contract financing personnel competent to evaluate credit and financial problems. In resolving any questions concerning (a) the financial capability of an offeror or contractor to perform a contract or (b) what form of contract financing is appropriate in a given case, the contracting officer should consult the appropriate contract financing office.

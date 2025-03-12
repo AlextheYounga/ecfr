@@ -1,0 +1,3 @@
+##### § 1219.103 How will ONRR manage payments to Indian accounts? #####
+
+ONRR will transfer mineral revenues received from Indian leases to the appropriate Indian accounts that the Bureau of Indian Affairs (BIA) manages for allotted and Tribal revenues. These accounts are specifically designated Treasury accounts. ONRR will transfer these revenues to the Indian accounts at the earliest practicable date after such funds are received, but in no case later than the last business day of the month in which ONRR receives these revenues.

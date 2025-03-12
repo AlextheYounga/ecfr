@@ -1,0 +1,3 @@
+##### § 35.9020 Planning targets. #####
+
+The EPA Assistant Administrator for Water develops planning targets each year to help each Management Conference develop an Annual Work Plan. These targets are broad budgetary goals for total expenditures by each estuary program and are directly related to the activities that are to be carried out by each Management Conference in that year as specified in the Five-Year State/EPA Conference Agreement. The planning targets also are based on the Director's evaluation of the ability of each Management Conference to use appropriated funds effectively.

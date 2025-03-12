@@ -1,0 +1,3 @@
+##### § 96.9 Regulatory status. #####
+
+Priority Access Licensees and General Authorized Access Users are permitted to provide services on a non-common carrier and/or on a common carrier basis. An authorized Citizens Broadband Radio Service user may render any kind of communications service consistent with the regulatory status in its authorization and with the Commission's rules applicable to that service.

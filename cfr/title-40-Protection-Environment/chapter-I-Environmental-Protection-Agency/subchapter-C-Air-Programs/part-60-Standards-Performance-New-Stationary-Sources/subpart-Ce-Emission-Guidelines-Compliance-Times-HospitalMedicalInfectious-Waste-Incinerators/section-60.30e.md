@@ -1,0 +1,3 @@
+##### § 60.30e Scope. #####
+
+This subpart contains emission guidelines and compliance times for the control of certain designated pollutants from hospital/medical/infectious waste incinerator(s) (HMIWI) in accordance with sections 111 and 129 of the Clean Air Act and subpart B of this part. The provisions in these emission guidelines supersede the provisions of § 60.24(f) of subpart B of this part.

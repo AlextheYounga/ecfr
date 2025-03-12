@@ -1,0 +1,71 @@
+##### § 158.130 Purposes of the registration data requirements. #####
+
+(a) *General.* The data requirements for registration are intended to generate data and information necessary to address concerns pertaining to the identity, composition, potential adverse effects and environmental fate of each pesticide.
+
+(b) *Product chemistry*—(1) *Product composition.* Data on product composition are needed:
+
+(i) To support the conclusions expressed in the statement of formula;
+
+(ii) To compare to the composition of materials used in required testing under this part; and
+
+(iii) To determine whether a product is “identical or substantially similar”to another product, a determination that involves the comparison of product composition.
+
+(2) *Nominal concentration and certified limits.* The nominal concentration of a product, defined as that concentration that is expected to be present in a product as a result of the production or formulation process, is used to gauge the acceptability of the certified limits, which define the outer limits of the range of the product's ingredients. The certified limits are used to enforce the composition of the product and to ensure the accuracy of hazard assessments.
+
+(3) *Physical and chemical characteristics.* The physical and chemical characteristics of an active ingredient or product are used:
+
+(i) To confirm or provide supportive information on the identity and composition of the product;
+
+(ii) To assess the hazards of the ingredient or product; and
+
+(iii) To trigger or evaluate certain other studies required by this part.
+
+(c) *Product performance.* Requirements to develop data on product performance provide a mechanism to ensure that pesticide products will perform as intended and that unnecessary pesticide exposure to the environment will not occur as a result of the use of ineffective products. Specific performance standards are used to validate the efficacy data in the public health areas, including disinfectants used to control microorganisms infectious to man in any area of the inanimate environment and those pesticides used to control vertebrates (such as rodents, birds, bats and skunks) that may directly or indirectly transmit diseases to humans.
+
+(d) *Toxicology-humans and domestic animals.* Data required to assess hazards to humans and domestic animals are derived from a variety of acute, subchronic and chronic toxicity tests, and tests to assess mutagenicity and pesticide metabolism.
+
+(1) *Acute studies.* Determination of acute oral, dermal and inhalation toxicity is usually the initial step in the assessment and evaluation of the toxic characteristics of a pesticide. These data provide information on health hazards likely to arise soon after, and as a result of, short-term exposure. Data from acute studies serve as a basis for classification and precautionary labeling. For example, acute toxicity data are used to calculate farmworker reentry intervals and to develop precautionary label statements pertaining to protective clothing requirements for applicators. They also provide information used in establishing the appropriate dose levels in subchronic and other studies; provide initial information on the mode of toxic action(s) of a substance; and determine the need for child resistant packaging. Information derived from primary eye and primary dermal irritation studies serves to identify possible hazards from exposure of the eyes, associated mucous membranes and skin.
+
+(2) *Subchronic studies.* Subchronic tests provide information on health hazards that may arise from repeated exposures over a limited period of time. They provide information on target organs and accumulation potential. The resulting data are also useful in selecting dose levels for chronic studies and for establishing safety criteria for human exposure. These tests are not capable of detecting those effects that have a long latency period for expression (e.g., carcinogenicity).
+
+(3) *Chronic studies.* Chronic toxicity studies (usually conducted by feeding the test substance to the test species) are intended to determine the effects of a substance in a mammalian species following prolonged and repeated exposure. Under the conditions of this test, effects which have a long latency period or are cumulative should be detected. The purpose of long-term carcinogenicity studies is to observe test animals over most of their life span for the development of neoplastic lesions during or after exposure to various doses of a test substance by an appropriate route of administration.
+
+(4) *Developmental toxicity and reproduction studies.* The developmental toxicity study is designed to determine the potential of the test substance to induce structural and/or other abnormalities to the fetus as the result of exposure of the mother during pregnancy. Two-generation reproduction testing is designed to provide information concerning the general effects of a test substance on gonadal function, estrus cycles, mating behavior, conception, parturition, lactation, weaning, and the growth and development of the offspring. The study may also provide information about the effects of the test substance on neonatal morbidity, mortality, and preliminary data on prenatal developmental toxicity and serve as a guide for subsequent tests.
+
+(5) *Mutagenicity studies.* For each test substance a battery of tests is required to assess the potential to affect the mammalian cell's genetic components. The objectives underlying the selection of a battery of tests for mutagenicity assessment are:
+
+(i) To detect, with sensitive assay methods, the capacity of a chemical to alter genetic material in cells.
+
+(ii) To determine the relevance of these mutagenic changes to mammals.
+
+(iii) When mutagenic potential is demonstrated, to incorporate these findings in the assessment of heritable effects, carcinogenicity, and, possibly, other health effects.
+
+(6) *Metabolism studies.* Data from studies on the absorption, distribution, metabolism, and excretion of a pesticide aid in the valuation of test results from other toxicity studies and in the extrapolation of data from animals to man. The main purpose of metabolism studies is to produce data which increases the Agency's understanding of the behavior of the chemical when considering the human exposure anticipated from intended uses of the pesticide.
+
+(e) *Hazards to nontarget organisms*—(1) *General.* The information required to assess hazards to nontarget organisms is derived from tests to determine pesticidal effects on birds, mammals, fish, terrestrial and aquatic invertebrates and plants. These tests include short-term acute, subacute, reproduction, simulated field, and full field studies arranged in a hierarchical or tier system which progresses from the basic laboratory tests to the applied field tests. The results of each tier of testing must be evaluated to determine the potential of the pesticide to cause adverse effects, and to determine whether further testing is required. A purpose common to all data requirements is to provide data which determine the need for (and appropriate wording for) precautionary label statements to minimize the potential adverse effects to nontarget organisms.
+
+(2) *Short-term studies.* The short-term acute and subchronic laboratory studies provide basic toxicity information which serves as a starting point for the hazard assessment. These data are used: To establish acute toxicity levels of the active ingredient to the test organisms; to compare toxicity information with measured or estimated pesticide residues in the environment in order to assess potential impacts on fish, wildlife and other nontarget organisms; and to indicate whether further laboratory and/or field studies are needed.
+
+(3) *Long-term and field studies.* Additional studies (*i.e.*, avian, fish, and invertebrate reproduction, life cycle studies and plant field studies) may be required when basic data and environmental conditions suggest possible problems. Data from these studies are used to: Estimate the potential for chronic effects, taking into account the measured or estimated residues in the environment; and to determine if additional field or laboratory data are necessary to further evaluate hazards. Simulated field and/or field data are used to examine acute and chronic adverse effects on captive or monitored fish and wildlife populations under natural or near-natural environments. Such studies are required only when predictions as to possible adverse effects in less extensive studies cannot be made, or when the potential for adverse effects is high.
+
+(f) *Applicator and post-application exposure.* Data are used to evaluate exposures to persons in occupational and non-occupational settings, including agricultural, residential, commercial, institutional and recreational sites. Data include oral, dermal and inhalation exposure data, post-application residue data, post-application monitoring data, use information, and human activity information. These data, together with toxicology data, are used to determine whether application or post-application risks are of concern, and, where appropriate, to develop post-application restrictions such as reentry restrictions.
+
+(g) *Pesticide spray drift evaluation.* Data required to evaluate pesticide spray drift are derived from studies of droplet size spectrum and spray drift field evaluations. These data contribute to the development of the overall exposure estimate and, along with data on toxicity for humans, fish and wildlife, or plants, are used to assess the potential hazard of pesticides to these organisms. A purpose common to all these tests is to provide data which will be used to determine the need for (and appropriate wording for) precautionary labeling to minimize the potential adverse effect to nontarget organisms.
+
+(h) *Environmental fate*—(1) *General.* The data generated by environmental fate studies are used to: Assess the toxicity to man through exposure of humans to pesticide residues remaining after application, either upon reentering treated areas or from consuming inadvertantly-contaminated food; assess the presence of widely distributed and persistent pesticides in the environment which may result in loss of usable land, surface water, ground water, and wildlife resources; and, assess the potential environmental exposure of other nontarget organisms, such as fish and wildlife, to pesticides. Another specific purpose of the environmental fate data requirements is to help applicants and the Agency estimate expected environmental concentrations of pesticides in specific habitats where threatened or endangered species or other wildlife populations at risk are found.
+
+(2) *Degradation studies.* The data from hydrolysis and photolysis studies are used to determine the rate of pesticide degradation and to identify pesticides that may adversely affect nontarget organisms.
+
+(3) *Metabolism studies.* Data generated from aerobic and anaerobic metabolism studies are used to determine the nature and availability of pesticides to rotational crops and to aid in the evaluation of the persistence of a pesticide.
+
+(4) *Mobility studies.* These data requirements pertain to leaching, adsorption/desorption, and volatility of pesticides. They provide information on the mode of transport and eventual destination of the pesticide in the environment. This information is used to assess potential environmental hazards related to: Contamination of human and animal food; loss of usable land and water resources to man through contamination of water (including ground water); and habitat loss of wildlife resulting from pesticide residue movement or transport in the environment.
+
+(5) *Dissipation studies.* The data generated from dissipation studies are used to assess potential environmental hazards (under actual field use conditions) related to: Reentry into treated areas; hazards from residues in rotational crops and other food sources; and the loss of land as well as surface and ground water resources.
+
+(i) *Residue chemistry.* (1) Residue chemistry data are used by the Agency to estimate the exposure of the general population to pesticide residues in food and for setting and enforcing tolerances for pesticide residues in food or feed.
+
+(2) Information on the chemical identity and composition of the pesticide product, the amounts, frequency and time of the pesticide application, and results of tests on the amount of residues remaining on or in the treated food or feed, are needed to support a finding as to the magnitude and identity of residues which result in food or animal feed as a consequence of a proposed pesticide usage.
+
+(3) Residue chemistry data are also needed to support the adequacy of one or more methods for the enforcement of the tolerance, and to support practicable methods for removing residues that exceed any proposed tolerance.
+
+(4) *Accumulation studies.* Accumulation studies indicate pesticide residue levels in food supplies that originate from wild sources or from rotational crops. Rotational crop studies are necessary to establish realistic crop rotation restrictions and to determine if tolerances may be needed for residues on rotational crops. Data from irrigated crop studies are used to determine the amount of pesticide residues that could be taken up by representative crops irrigated with water containing pesticide residues. These studies allow the Agency to establish label restrictions regarding application of pesticides on sites where the residues can be taken up by irrigated crops. These data also provide information that aids the Agency in establishing any corresponding tolerances that would be needed for residues on such crops. Data from pesticide accumulation studies in fish are used to establish label restrictions to prevent applications in certain sites so that there will be minimal residues entering edible fish or shellfish. These residue data are also used to determine if a tolerance or action level is needed for residues in aquatic animals eaten by humans.

@@ -1,0 +1,5 @@
+##### § 1.902 Processing of prior art citations during an inter partes reexamination proceeding. #####
+
+Citations by the patent owner in accordance with § 1.933 and by an *inter partes* reexamination third party requester under § 1.915 or § 1.948 will be entered in the *inter partes* reexamination file. The entry in the patent file of other citations submitted after the date of an order for reexamination pursuant to § 1.931 by persons other than the patent owner, or the third party requester under either § 1.913 or § 1.948, will be delayed until the *inter partes* reexamination proceeding has been concluded by the issuance and publication of a reexamination certificate. See § 1.502 for processing of prior art citations in patent and reexamination files during an *ex parte* reexamination proceeding filed under § 1.510.
+
+[72 FR 18906, Apr. 16, 2007]

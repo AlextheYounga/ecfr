@@ -1,0 +1,3 @@
+##### § 234.1 Purpose. #####
+
+The purpose of this part is to set forth required data that certain air carriers must submit to the Department and to computer reservations system vendors in computerized form, except as otherwise provided, so that information on air carriers' quality of service can be made available to consumers of air transportation. This part also requires that service quality data be disclosed directly to consumers.

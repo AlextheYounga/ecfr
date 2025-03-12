@@ -1,0 +1,3 @@
+##### 27.300 Scope of subpart. #####
+
+This subpart prescribes policies, procedures, solicitation provisions, and contract clauses pertaining to inventions made in the performance of work under a Government contract or subcontract for experimental, developmental, or research work. Agency policies, procedures, solicitation provisions, and contract clauses may be specified in agency supplemental regulations as permitted by law, including 37 CFR 401.1.

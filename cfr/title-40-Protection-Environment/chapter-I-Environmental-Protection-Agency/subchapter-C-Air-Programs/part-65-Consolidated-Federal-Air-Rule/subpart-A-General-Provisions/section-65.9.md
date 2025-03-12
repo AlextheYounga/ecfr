@@ -1,0 +1,7 @@
+##### § 65.9 Availability of information and confidentiality. #####
+
+(a) *Availability of information.* The availability to the public of information provided to, or otherwise obtained by, the Administrator under this part shall be governed by part 2 of this chapter. With the exception of information protected under part 2 of this chapter, all reports, records, and other information collected by the Administrator under this part are available to the public. In addition, a copy of each permit application, compliance plan (including the schedule of compliance), initial compliance status report, periodic report, and title V permit is available to the public, consistent with protections recognized in section 503(e) of the Act.
+
+(b) *Confidentiality.* (1) If an owner or operator is required to submit information entitled to protection from disclosure under section 114(c) of the Act, the owner or operator may submit such information separately. The requirements of section 114(c) shall apply to such information.
+
+(2) The contents of a title V permit shall not be entitled to protection under section 114(c) of the Act; however, information submitted as part of an application for a title V permit may be entitled to protection from disclosure.

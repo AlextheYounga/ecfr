@@ -1,0 +1,3 @@
+##### § 484.34 Condition of participation: Medical social services. #####
+
+If the agency furnishes medical social services, those services are given by a qualified social worker or by a qualified social work assistant under the supervision of a qualified social worker, and in accordance with the plan of care. The social worker assists the physician and other team members in understanding the significant social and emotional factors related to the health problems, participates in the development of the plan of care, prepares clinical and progress notes, works with the family, uses appropriate community resources, participates in discharge planning and in-service programs, and acts as a consultant to other agency personnel.

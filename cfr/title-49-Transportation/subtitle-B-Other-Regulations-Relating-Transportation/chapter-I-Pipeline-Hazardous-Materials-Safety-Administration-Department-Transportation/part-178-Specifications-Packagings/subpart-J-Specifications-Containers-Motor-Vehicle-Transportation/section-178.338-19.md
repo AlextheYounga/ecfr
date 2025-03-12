@@ -1,0 +1,13 @@
+##### § 178.338-19 Certification. #####
+
+(a) At or before the time of delivery, the manufacturer of a cargo tank motor vehicle shall furnish to the owner of the completed vehicle the following:
+
+(1) The tank manufacturer's data report as required by the ASME Code (IBR, see § 171.7 of this subchapter), and a certificate bearing the manufacturer's vehicle serial number stating that the completed cargo tank motor vehicle conforms to all applicable requirements of Specification MC 338, including Section VIII of the ASME Code (IBR, see § 171.7 of this subchapter) in effect on the date (month, year) of certification. The registration numbers of the manufacturer, the Design Certifying Engineer, and the Registered Inspector, as appropriate, must appear on the certificates (see subpart F, part 107 in subchapter B of this chapter).
+
+(2) A photograph, pencil rub, or other facsimile of the plates required by paragraphs (a) and (b) of § 178.338-18.
+
+(b) In the case of a cargo tank vehicle manufactured in two or more stages, each manufacturer who performs a manufacturing operation on the incomplete vehicle or portion thereof shall furnish to the succeeding manufacturer, at or before the time of delivery, a certificate covering the particular operation performed by that manufacturer, and any certificates received from previous manufacturers, Registered Inspectors, and Design Certifying Engineers. The certificates must include sufficient sketches, drawings, and other information to indicate the location, make, model and size of each valve and the arrangement of all piping associated with the tank. Each certificate must be signed by an official of the manufacturing firm responsible for the portion of the complete cargo tank vehicle represented thereby, such as basic tank fabrication, insulation, jacket, or piping. The final manufacturer shall furnish the owner with all certificates, as well as the documents required by paragraph (a) of this section.
+
+(c) The owner shall retain the data report, certificates, and related papers throughout his ownership of the cargo tank. In the event of change of ownership, the prior owner shall retain non-fading photographically reproduced copies of these documents for at least one year. Each operator using the cargo tank vehicle, if not the owner thereof, shall obtain a copy of the data report and the certificate or certificates and retain them during the time he uses the cargo tank and for at least one year thereafter.
+
+(Approved by the Office of Management and Budget under control number 2137-0017)[Amdt. 178-77, 48 FR 27707, 27713, June 16, 1983, as amended by Amdt. 178-89, 55 FR 37058, Sept. 7, 1990; Amdt. 178-99, 58 FR 51534, Oct. 1, 1993; 62 FR 51561, Oct. 1, 1997; 68 FR 75755, Dec. 31, 2003]

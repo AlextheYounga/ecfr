@@ -1,0 +1,5 @@
+##### § 1204.1006 Violations. #####
+
+Anyone violating these regulations may be cited for violating Title 18 of the United States Code (U.S.C.) Section 799, which states that whoever willfully shall violate, attempt to violate, or conspire to violate any regulation or order promulgated by the Administrator of the National Aeronautics and Space Administration for the protection or security of any laboratory, station, base or other facility, or part thereof, or any aircraft, missile, spacecraft, or similar vehicle, or part thereof, or other property or equipment in the custody of the Administration [NASA], or any real or personal property or equipment in the custody of any contractor under any contract with the Administration or any subcontractor of any such contractor, shall be fined under this title [Title 18], or imprisoned not more than one year, or both.
+
+[65 FR 47663, Aug. 3, 2000, as amended at 78 FR 5126, Jan. 24, 2013]

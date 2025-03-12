@@ -1,0 +1,15 @@
+##### § 435.1007 Categorically needy, medically needy, and qualified Medicare beneficiaries. #####
+
+(a) FFP is available in expenditures for covered services provided to categorically needy beneficiaries, medically needy beneficiaries, and qualified Medicare beneficiaries, subject to the restrictions contained in subpart K of this part and as provided in paragraphs (b) and (e) of this section. However, the restrictions listed in paragraphs (b) and (e) of this section do not apply to expenditures for medical assistance made on behalf of qualified Medicare beneficiaries under section 1905(p) of the Act; individuals receiving Medicaid as categorically needy under section 1902(a)(10)(A)(i) (I), (II), (III), (IV), (V), (VI), or (VII) and section 1902(a)(10)(A)(ii) (I), (IX), or (X) and section 1905(u) of the Act; individuals who are eligible to receive benefits (or would be eligible for those benefits if they were not in a medical institution); and any individuals deemed to be members of the groups identified in this sentence.
+
+(b) Except as provided in paragraphs (c) and (d) of this section, FFP is not available in State expenditures for individuals (including the medically needy) whose annual income after deductions specified in § 435.831(a) and (c) exceeds the following amounts, rounded to the next higher multiple of $100.
+
+(c) In the case of a family consisting only of two individuals, both of whom are adults and at least one of whom is aged, blind, or disabled, the State of California may use the amount of the AFDC payment most frequently made to a family of one adult and two children for purposes of computing the 1331/3 percent limitation (under the authority of section 4106 of Public Law 100-230).
+
+(d) For purposes of paragraph (b)(1) of this section, a State that as of June 1, 1989, has in its State plan (as defined in section 2373(c)(5) of Public Law 98-369 as amended by section 9 of Public Law 100-93) an amount for individuals that was reasonably related to 1331/3 percent of the highest amount of AFDC which would ordinarily be paid to a family of two without income or resources may use an amount based upon a reasonable relationship to such an AFDC standard for a family of two.
+
+(e) FFP is not available in expenditures for services provided to categorically needy and medically needy beneficiaries subject to the FFP limits if their annual income, after the cash assistance income deductions and any income disregards in the State plan authorized under section 1902(r)(2) of the Act are applied, exceeds the 1331/3 percent limitation described under paragraphs (b), (c), and (d) of this section.
+
+(f) A State may use the less restrictive income methodologies included under its State plan as authorized under § 435.601 in determining whether a family's income exceeds the limitation described in paragraph (b) of this section.
+
+[58 FR 4933, Jan. 19, 1993, as amended at 66 FR 2321, 2667, Jan. 11, 2001]

@@ -1,0 +1,3 @@
+##### § 422.1040 Joint hearings. #####
+
+When two or more affected parties have requested hearings and the same or substantially similar matters are at issue, the ALJ may, if all parties agree, fix a single time and place for the prehearing conference or hearing and conduct all proceedings jointly. If joint hearings are held, a single record of the proceedings is made and a separate decision issued with respect to each affected party.

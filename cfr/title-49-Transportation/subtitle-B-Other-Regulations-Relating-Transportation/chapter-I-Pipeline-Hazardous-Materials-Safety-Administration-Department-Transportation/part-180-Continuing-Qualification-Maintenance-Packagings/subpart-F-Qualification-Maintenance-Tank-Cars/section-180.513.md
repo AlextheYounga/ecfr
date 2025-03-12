@@ -1,0 +1,11 @@
+##### § 180.513 Repairs, alterations, conversions, and modifications. #####
+
+(a) To work on tank cars, a tank car facility must comply with the applicable requirements of this subpart, the AAR Specifications for Tank Cars (IBR, see § 171.7 of this subchapter), and the owner's requirements.
+
+(b) *Responsibilities of Tank Car Facility.* A tank car facility must obtain the permission of the equipment owner before performing work affecting alteration, conversion, repair, or qualification of the owner's equipment. For the purposes of qualification and maintenance, the tank car facility must use the written instructions furnished by the owner or have written confirmation from the owner allowing the use of written instructions furnished by the owner or have written confirmation from the owner allowing the use of written instructions furnished by another. A tank car facility must not use, copy distribute, forward or provide to another person the owner's confidential and proprietary written instructions, procedures, manuals, and records without the owner's permission. A tank car facility must report all work performed to the owner. The tank car facility must also report observed damage, deterioration, failed components, or non-compliant parts to the owner. A tank car facility must incorporate the owner's Quality Assurance Program into their own Quality Assurance Program.
+
+(c) Unless the exterior tank car shell or interior tank car jacket has a protective coating, after a repair that requires the complete removal of the tank car jacket, the exterior tank car shell and the interior tank car jacket must have a protective coating applied to prevent the deterioration of the tank shell and tank jacket. Previously applied coatings that still provide effective protection need not be covered over.
+
+(d) After repair, replacement, or qualification of tank car service equipment, the tank service equipment must successfully pass the leak test prescribed in § 180.509(j).
+
+[77 FR 37990, June 25, 2012]

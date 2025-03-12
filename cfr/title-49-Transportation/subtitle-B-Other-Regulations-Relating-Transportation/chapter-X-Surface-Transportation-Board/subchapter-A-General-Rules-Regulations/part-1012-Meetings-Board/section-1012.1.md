@@ -1,0 +1,9 @@
+##### § 1012.1 General provisions. #####
+
+(a) The regulations contained in this part are issued pursuant to the provisions of 5 U.S.C. 552b(g), added by section 3(a) of the Government in the Sunshine Act, Pub. L. 94-409 (Act), and section 17(3) of the Interstate Commerce Act. They establish procedures under which meetings of the Surface Transportation Board (Board) are held. They apply to oral arguments as well as to deliberative conferences. They apply to meetings of the Board. They include provisions for giving advance public notice of meetings, for holding meetings which may lawfully be closed to the public, and for issuing minutes and transcripts of meetings.
+
+(b) The words *meeting* and *conference* are used interchangeably in this part to mean the deliberations of at least a majority of the members of the Board, where such deliberations determine or result in the joint conduct or disposition of official Board business. They do not include meetings held to determine whether some future meeting should be open or closed to the public. They do not include the deliberations of members of boards of employees of the Board.
+
+(c) These regulations are not intended to govern situations in which members of the Board consider individually and vote by notation upon matters which are circulated to them in writing. Copies of the votes or statements of position of all Board Members eligible to participate in action taken by notation voting will be made available, as soon as possible after the date upon which the action taken is made public or any decision or order adopted is served, in a public reading room or other easily accessible place within the Board, or upon written request to the Records Officer.
+
+[42 FR 13796, Mar. 11, 1977, as amended at 64 FR 53266, 53267, Oct. 1, 1999; 74 FR 52905, Oct. 15, 2009]

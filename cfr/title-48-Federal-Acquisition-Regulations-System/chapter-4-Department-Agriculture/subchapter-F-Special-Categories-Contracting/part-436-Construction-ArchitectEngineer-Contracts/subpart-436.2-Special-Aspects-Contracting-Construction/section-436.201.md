@@ -1,0 +1,3 @@
+##### 436.201 Evaluation of contractor performance. #####
+
+*Preparation of performance evaluation reports.* In addition to the requirements of FAR 36.201, performance evaluation reports shall be prepared for indefinite-delivery type contracts when either the contract maximum or the contracting activity's reasonable estimate of services to be ordered exceeds $500,000.00. For these contracts, performance evaluation reports shall be prepared for each order at the time of final acceptance of the work under the order.

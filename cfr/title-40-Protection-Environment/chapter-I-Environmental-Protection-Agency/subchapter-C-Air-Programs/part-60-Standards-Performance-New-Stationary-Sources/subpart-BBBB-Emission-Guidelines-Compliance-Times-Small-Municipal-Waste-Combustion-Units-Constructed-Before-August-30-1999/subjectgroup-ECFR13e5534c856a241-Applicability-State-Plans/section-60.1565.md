@@ -1,0 +1,7 @@
+##### § 60.1565 What subcategories of small municipal waste combustion units must I include in my State plan? #####
+
+This subpart specifies different requirements for different subcategories of municipal waste combustion units. You must use those same two subcategories in your State plan. Those two subcategories are based on the aggregate capacity of the municipal waste combustion plant as follows:
+
+(a) *Class I units.* Class I units are small municipal waste combustion units that are located at municipal waste combustion plants with an aggregate plant combustion capacity greater than 250 tons per day of municipal solid waste. (*See* the definition of “municipal waste combustion plant capacity” in § 60.1940 for specification of which units at a plant are included in the aggregate capacity calculation.)
+
+(b) *Class II units.* Class II units are small municipal waste combustion units that are located at municipal waste combustion plants with an aggregate plant combustion capacity less than or equal to 250 tons per day of municipal solid waste. (*See* the definition of “municipal waste combustion plant capacity” in § 60.1940 for specification of which units at a plant are included in the aggregate capacity calculation.)

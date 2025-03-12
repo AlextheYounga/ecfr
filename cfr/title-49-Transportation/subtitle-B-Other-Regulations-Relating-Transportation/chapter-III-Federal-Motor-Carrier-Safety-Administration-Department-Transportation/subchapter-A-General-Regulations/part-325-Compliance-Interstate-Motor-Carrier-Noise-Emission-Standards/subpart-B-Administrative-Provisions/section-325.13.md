@@ -1,0 +1,15 @@
+##### § 325.13 Inspection and examination of motor vehicles. #####
+
+(a) Any special agent of the Federal Motor Carrier Safety Administration (designated in appendix B to subchapter B of this chapter) is authorized to inspect, examine, and test a motor vehicle operated by a motor carrier in accordance with the procedures specified in this part for the purpose of ascertaining whether the motor vehicle and equipment installed on the motor vehicle conforms to the Interstate Motor Carrier Noise Emission Standards of the Environmental Protection Agency, 40 CFR part 202.
+
+(b) A motor carrier, its officers, drivers, agents, and employees must, at any time, submit a motor vehicle used in its operations for inspection, examination, and testing for the purpose of ascertaining whether the motor vehicle and equipment installed on it conforms to the Interstate Motor Carrier Noise Emission Standards of the Environmental Protection Agency, 40 CFR part 202.
+
+(c) *Prescribed inspection report.* Form MCS-141, Noise Level Compliance Check shall be used to record findings from motor vehicles selected for noise emission inspection by authorized employees.
+
+(d) *Motor carrier's disposition of form MCS-141.* (1) The driver of any motor vehicle receiving a Form MCS-141 shall deliver such MCS-141 to the motor carrier operating the vehicle upon his/her arrival at the next terminal or facility of the motor carrier, if such arrival occurs within twenty-four (24) hours. If the driver does not arrive at a terminal or facility of the motor carrier operating the vehicle within twenty-four (24) hours he/she shall immediately mail the Form MCS-141 to the motor carrier. For operating convenience, motor carriers may designate any shop, terminal, facility, or person to which it may instruct its drivers to deliver or forward Form MCS-141. It shall be the sole responsibility of the motor carrier that Form MCS-141 is returned to the Federal Motor Carrier Safety Administration, in accordance with the terms prescribed thereon and in paragraphs (d) (2) and (3) of this section. A driver, if himself/herself a motor carrier, shall return Form MCS-141 to the Federal Motor Carrier Safety Administration, in accordance with the terms prescribed thereon and in paragraphs (d) (2) and (3) of this section.
+
+(2) Motor carriers shall carefully examine Forms MCS-141. Appropriate corrective action shall be taken on vehicles found to be not in compliance with the requirements of this part.
+
+(3) Motor carriers must complete the “Motor Carrier Certification of Action Taken” on Form MCS-141 in accordance with the terms prescribed thereon. Motor carriers must return Forms MCS-141 to the Division Office at the address indicated on Form MCS-141 within fifteen (15) days following the date of the vehicle inspection.
+
+[40 FR 42437, Sept. 12, 1975, as amended at 41 FR 10226, Mar. 10, 1976; 54 FR 50385, Dec. 6, 1989; 60 FR 38743, July 28, 1995; 66 FR 49869, Oct. 1, 2001; 78 FR 58477, Sept. 24, 2013]

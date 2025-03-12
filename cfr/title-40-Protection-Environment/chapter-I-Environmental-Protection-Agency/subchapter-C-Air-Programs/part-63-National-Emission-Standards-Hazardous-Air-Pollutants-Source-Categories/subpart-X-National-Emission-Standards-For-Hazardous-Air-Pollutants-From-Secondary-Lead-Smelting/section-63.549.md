@@ -1,0 +1,5 @@
+##### § 63.549 Notification requirements. #####
+
+(a) You must comply with all of the notification requirements of § 63.9. Electronic notifications are encouraged if suitable for the specific case (e.g., by electronic media such as Excel spreadsheet, on CD or hard copy), and when required by this subpart.
+
+(b) You must submit the fugitive dust control standard operating procedures manual required under § 63.545(a) and the standard operating procedures manual for baghouses required under § 63.548(a) to the Administrator or delegated authority along with a notification that the smelter is seeking review and approval of these plans and procedures. You must submit this notification no later than January 7, 2013. For sources that commenced construction or reconstruction after January 5, 2012, you must submit this notification no later than 180 days before startup of the constructed or reconstructed secondary lead smelter, but no sooner than January 5, 2012. For an affected source that has received a construction permit from the Administrator or delegated authority on or before January 5, 2012, you must submit this notification no later than January 7, 2014.

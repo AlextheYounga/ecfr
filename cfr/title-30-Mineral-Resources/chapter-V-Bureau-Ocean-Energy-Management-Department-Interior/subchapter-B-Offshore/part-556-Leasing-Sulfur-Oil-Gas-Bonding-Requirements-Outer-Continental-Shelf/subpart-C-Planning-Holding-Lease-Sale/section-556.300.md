@@ -1,0 +1,3 @@
+##### § 556.300 What reports may BOEM and other Federal agencies prepare before a lease sale? #####
+
+For an oil and gas lease sale in a Five Year program, and as the need arises for other mineral leasing pursuant to part 581 of this chapter, BOEM will prepare a report describing the general geology and potential mineral resources of the area under consideration. The Director may request other interested Federal agencies to prepare reports describing, to the extent known, any other valuable resources contained within the general area and the potential effect of mineral operations upon the resources or upon the total environment or other uses of the area.

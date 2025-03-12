@@ -1,0 +1,5 @@
+##### § 31.7 Continuance of medical relief after loss of status. #####
+
+If a member is separated from any of the services enumerated in § 31.2, except persons specified in § 31.2(a) (3) and (5) who shall be entitled to treatment after separation under the conditions set forth in such paragraphs, while undergoing treatment by the Service, his treatment shall be discontinued immediately unless the physician in charge determines that the condition of the patient does not permit interruption of treatment, in which case the treatment shall be discontinued as soon as practicable and the condition of the patient permits. At that time he shall be discharged from treatment and shall not thereafter be afforded medical relief by the Service by reason of his previous service.
+
+(Sec. 326, 58 Stat. 697, as amended; 42 U.S.C. 253)

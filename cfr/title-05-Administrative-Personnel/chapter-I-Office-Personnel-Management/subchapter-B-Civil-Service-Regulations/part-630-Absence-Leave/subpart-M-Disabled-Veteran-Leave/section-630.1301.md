@@ -1,0 +1,3 @@
+##### § 630.1301 Purpose and authority. #####
+
+This subpart implements 5 U.S.C. 6329, which establishes a leave category, to be known as “disabled veteran leave,” for an eligible employee who is a veteran with a service-connected disability rated at 30 percent or more. Such an employee is entitled to this leave for purposes of undergoing medical treatment for such disability. Disabled veteran leave must be used during the 12-month period beginning on the first day of employment. OPM's authority to regulate section 6329 is found in section 2(d) of Public Law 114-75.

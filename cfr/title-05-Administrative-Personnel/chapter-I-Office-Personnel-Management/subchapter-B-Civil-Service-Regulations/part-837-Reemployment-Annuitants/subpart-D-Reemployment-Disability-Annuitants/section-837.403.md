@@ -1,0 +1,7 @@
+##### § 837.403 Termination of annuity during reemployment. #####
+
+(a) *Agency action.* When a reemployed disability annuitant is found recovered from disability or restored to earning capacity by OPM, OPM shall terminate the annuity as of the date of the finding, and the employing agency shall cease reducing pay by the amount of annuity allocable to the period of reemployment effective that same date. If the appointment is subject to retirement deductions, retirement deductions will begin or continue, as the case may be.
+
+(b) *Subsequent benefits*—(1) *CSRS.* If, on separation from a period of reemployment during which the disability annuity was terminated because of recovery or restoration to earning capacity, the former disability annuitant is entitled to either an immediate or deferred annuity based on the most recent separation, any right to an annuity based on a prior separation is permanently extinguished. If no such right to immediate or deferred annuity accrues based on this most recent separation, however, any right to immediate or deferred annuity will be determined on the basis of the next prior separation.
+
+(2) *FERS.* If a disability annuity is terminated during a period of reemployment because of recovery or restoration to earning capacity, any right to an annuity based on a prior separation is permanently extinguished, except as otherwise provided by § 844.405(b)(2) of this chapter.

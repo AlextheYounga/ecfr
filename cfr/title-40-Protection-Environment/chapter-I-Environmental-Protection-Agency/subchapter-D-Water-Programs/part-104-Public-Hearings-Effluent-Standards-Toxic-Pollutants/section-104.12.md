@@ -1,0 +1,3 @@
+##### § 104.12 Certification of record. #####
+
+As soon as possible after the hearing, the Presiding Officer shall transmit to the hearing clerk the transcript of the testimony and exhibits introduced in the hearing. The Presiding Officer shall attach to the original transcript his certificate stating that, to the best of his knowledge and belief, the transcript is a true transcript of the testimony given at the hearing except in such particulars as he shall specify, and that the exhibits transmitted are all the exhibits as introduced at the hearing with such exceptions as he shall specify.

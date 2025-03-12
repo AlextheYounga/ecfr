@@ -1,0 +1,3 @@
+##### § 35.47 Disposition of Government checks. #####
+
+Notwithstanding any other provisions of this subpart, immediately upon completion of the inventory, checks drawn on the Treasurer of the United States shall be sent by safe means to the department, agency, or establishment of the Government of the United States issuing such checks. The transmittal shall be accompanied by a statement of the reasons therefor and of all available information which may aid the issuing unit in the disposition of the check transmitted. Notice of the disposition of any checks, with identifying information, shall be given to the person or persons, if any, to which money and effects are delivered in accordance with § 35.44.

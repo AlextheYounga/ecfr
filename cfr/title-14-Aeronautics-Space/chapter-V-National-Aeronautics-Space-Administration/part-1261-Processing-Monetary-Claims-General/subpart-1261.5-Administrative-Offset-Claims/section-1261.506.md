@@ -1,0 +1,3 @@
+##### § 1261.506 Limitation periods. #####
+
+NASA may not initiate administrative offset to collect a debt under 31 U.S.C. 3716 more than 10 years after the Government's right to collect the debt first accrued, unless facts material to the Government's right to collect the debt were not known and could not reasonably have been known by the official or officials of the Government who were charged with the responsibility to discover and collect such debts. Determination of when the debt first accrued is to be made in accordance with existing law regarding the accrual of debts, such as under 28 U.S.C. 2415. See 4 CFR 102.3(b)(3).

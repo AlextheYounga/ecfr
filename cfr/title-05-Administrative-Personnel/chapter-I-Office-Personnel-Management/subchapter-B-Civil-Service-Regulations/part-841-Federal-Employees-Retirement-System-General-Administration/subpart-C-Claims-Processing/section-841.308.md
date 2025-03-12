@@ -1,0 +1,3 @@
+##### § 841.308 Appeals to MSPB. #####
+
+Except as noted in this paragraph, an individual whose rights or interests under FERS are affected by a final decision of OPM may request MSPB to review the decision in accord with procedures prescribed by MSPB. Decisions made in accord with the procedures referenced in § 841.306(b)(1) are made under subchapter II of chapter 83, title 5, United States Code. Such decisions are not appealable to MSPB under section 8461(e) of title 5, United States Code.

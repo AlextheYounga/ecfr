@@ -1,0 +1,21 @@
+##### § 54.8 Right to services from an alternative provider. #####
+
+(a) *General requirements.* If an otherwise eligible program beneficiary or prospective program beneficiary objects to the religious character of a program participant, within a reasonable period of time after the date of such objection, such program beneficiary shall have rights to notice, referral, and alternative services, as outlined in paragraphs (b) through (d) of this section.
+
+(b) *Notice.* Program participants that refer an individual to alternative service providers, and the State government that administers the applicable programs, shall ensure that notice of the individual's right to services from an alternative provider is provided to all program beneficiaries or prospective beneficiaries. The notice must clearly articulate the program beneficiary's right to a referral and to services that reasonably meet the requirements of timeliness, capacity, accessibility, and equivalency as discussed in this section. A model notice is set out in appendix A to part 54a.
+
+(c) *Referral to an alternative provider.* If a program beneficiary or prospective program beneficiary objects to the religious character of a program participant that is a religious organization, that participating religious organization shall, within a reasonable time after the date of such objection, refer such individual to an alternative provider. The State shall have a system in place to ensure that referrals are made to an alternative provider. That system shall ensure that the following occurs:
+
+(1) The religious organization that is a program participant shall, within a reasonable time after the date of such objection, refer the beneficiary to an alternative provider;
+
+(2) In making such referral, the program participant shall consider any list that the State or local government makes available to entities in the geographic area that provide program services, which may include utilizing any treatment locator system developed by SAMHSA;
+
+(3) All referrals shall be made in a manner consistent with all applicable confidentiality laws, including, but not limited to, 42 CFR Part 2 (“Confidentiality of Alcohol and Drug Abuse Patient Records”);
+
+(4) Upon referring a program beneficiary to an alternative provider, the program participant shall notify the State or responsible unit of government of such referral; and
+
+(5) The program participant shall ensure that the program beneficiary makes contact with the alternative provider to which he or she is referred.
+
+(d) *Provision and funding of alternative services.* If an otherwise eligible applicant or recipient objects to the religious character of a SAMHSA-funded service provider, the recipient is entitled to receive services from an alternative provider. In such cases, the State or local agency must provide the individual with alternative services within a reasonable period of time, as defined by the State agency. That alternative provider must be reasonably accessible and have the capacity to provide comparable services to the individual. Such services shall have a value that is not less than the value of the services that the individual would have received from the program participant to which the individual had such objection, as defined by the State agency. The alternative provider need not be a secular organization. It must simply be a provider to which the recipient has no religious objection. States may define and apply the terms “reasonably accessible,” “a reasonable period of time,” “comparable,” “capacity,” and “value that is not less than.” The appropriate State or local governments that administer SAMHSA-funded programs shall ensure that notice of their right to alternative services is provided to applicants or recipients. The notice must clearly articulate the recipient's right to a referral and to services that reasonably meet the timeliness, capacity, accessibility, and equivalency requirements discussed above.
+
+(e) *PATH annual report.* As part of the annual report to SAMHSA, PATH grantees shall include a description of the activities the grantee has taken to comply with 42 CFR part 54.

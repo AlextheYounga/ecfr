@@ -1,0 +1,3 @@
+##### § 209.16 Late intervention. #####
+
+Following the expiration of the time prescribed in § 209.15 for the submission of motions to intervene in a hearing, any person may file a motion with the administrative law judge to intervene in a hearing. Such a motion must contain the information and commitments required by paragraph (b) and (f) of § 209.15, and, in addition, must show that there is good cause for granting the motion and must contain a statement that the movant shall be bound by agreements, arrangements, and other determinations which may have been made in the proceeding.

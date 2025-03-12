@@ -1,0 +1,25 @@
+##### § 96.286 Withdrawal from CAIR SO2 Trading Program. #####
+
+Except as provided under paragraph (g) of this section, a CAIR SO2 opt-in unit may withdraw from the CAIR SO2 Trading Program, but only if the permitting authority issues a notification to the CAIR designated representative of the CAIR SO2 opt-in unit of the acceptance of the withdrawal of the CAIR SO2 opt-in unit in accordance with paragraph (d) of this section.
+
+(a) *Requesting withdrawal.* In order to withdraw a CAIR SO2 opt-in unit from the CAIR SO2 Trading Program, the CAIR designated representative of the CAIR SO2 opt-in unit shall submit to the permitting authority a request to withdraw effective as of midnight of December 31 of a specified calendar year, which date must be at least 4 years after December 31 of the year of entry into the CAIR SO2 Trading Program under § 96.284(g). The request must be submitted no later than 90 days before the requested effective date of withdrawal.
+
+(b) *Conditions for withdrawal.* Before a CAIR SO2 opt-in unit covered by a request under paragraph (a) of this section may withdraw from the CAIR SO2 Trading Program and the CAIR opt-in permit may be terminated under paragraph (e) of this section, the following conditions must be met:
+
+(1) For the control period ending on the date on which the withdrawal is to be effective, the source that includes the CAIR SO2 opt-in unit must meet the requirement to hold CAIR SO2 allowances under § 96.206(c) and cannot have any excess emissions.
+
+(2) After the requirement for withdrawal under paragraph (b)(1) of this section is met, the Administrator will deduct from the compliance account of the source that includes the CAIR SO2 opt-in unit CAIR SO2 allowances equal in amount to and allocated for the same or a prior control period as any CAIR SO2 allowances allocated to the CAIR SO2 opt-in unit under § 96.288 for any control period for which the withdrawal is to be effective. If there are no remaining CAIR SO2 units at the source, the Administrator will close the compliance account, and the owners and operators of the CAIR SO2 opt-in unit may submit a CAIR SO2 allowance transfer for any remaining CAIR SO2 allowances to another CAIR SO2 Allowance Tracking System in accordance with subpart GGG of this part.
+
+(c) *Notification.* (1) After the requirements for withdrawal under paragraphs (a) and (b) of this section are met (including deduction of the full amount of CAIR SO2 allowances required), the permitting authority will issue a notification to the CAIR designated representative of the CAIR SO2 opt-in unit of the acceptance of the withdrawal of the CAIR SO2 opt-in unit as of midnight on December 31 of the calendar year for which the withdrawal was requested.
+
+(2) If the requirements for withdrawal under paragraphs (a) and (b) of this section are not met, the permitting authority will issue a notification to the CAIR designated representative of the CAIR SO2 opt-in unit that the CAIR SO2 opt-in unit's request to withdraw is denied. Such CAIR SO2 opt-in unit shall continue to be a CAIR SO2 opt-in unit.
+
+(d) *Permit amendment.* After the permitting authority issues a notification under paragraph (c)(1) of this section that the requirements for withdrawal have been met, the permitting authority will revise the CAIR permit covering the CAIR SO2 opt-in unit to terminate the CAIR opt-in permit for such unit as of the effective date specified under paragraph (c)(1) of this section. The unit shall continue to be a CAIR SO2 opt-in unit until the effective date of the termination and shall comply with all requirements under the CAIR SO2 Trading Program concerning any control periods for which the unit is a CAIR SO2 opt-in unit, even if such requirements arise or must be complied with after the withdrawal takes effect.
+
+(e) *Reapplication upon failure to meet conditions of withdrawal.* If the permitting authority denies the CAIR SO2 opt-in unit's request to withdraw, the CAIR designated representative may submit another request to withdraw in accordance with paragraphs (a) and (b) of this section.
+
+(f) *Ability to reapply to the CAIR SO*2*Trading Program.* Once a CAIR SO2 opt-in unit withdraws from the CAIR SO2 Trading Program and its CAIR opt-in permit is terminated under this section, the CAIR designated representative may not submit another application for a CAIR opt-in permit under § 96.283 for such CAIR SO2 opt-in unit before the date that is 4 years after the date on which the withdrawal became effective. Such new application for a CAIR opt-in permit will be treated as an initial application for a CAIR opt-in permit under § 96.284.
+
+(g) *Inability to withdraw.* Notwithstanding paragraphs (a) through (f) of this section, a CAIR SO2 opt-in unit shall not be eligible to withdraw from the CAIR SO2 Trading Program if the CAIR designated representative of the CAIR SO2 opt-in unit requests, and the permitting authority issues a CAIR opt-in permit providing for, allocation to the CAIR SO2 opt-in unit of CAIR SO2 allowances under § 96.288(c).
+
+[70 FR 25362, May 12, 2005, as amended at 71 FR 25390, Apr. 28, 2006]

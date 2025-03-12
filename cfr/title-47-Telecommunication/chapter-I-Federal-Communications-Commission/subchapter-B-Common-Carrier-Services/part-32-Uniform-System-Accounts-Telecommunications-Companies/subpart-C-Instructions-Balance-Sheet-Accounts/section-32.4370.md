@@ -1,0 +1,3 @@
+##### § 32.4370 Other jurisdictional liabilities and deferred credits—net. #####
+
+This account shall include the cumulative impact on liabilities and deferred credits of the jurisdictional ratemaking practices which vary from those of this Commission. All entries recorded in this account shall be recorded net of any applicable income tax effects and shall be supported by appropriate subsidiary records where necessary as provided for in § 32.13 of subpart B.

@@ -1,0 +1,11 @@
+##### § 436.17 Establishing energy or water cost data. #####
+
+(a) Each Federal agency shall establish energy costs in the base year by multiplying the total units of energy used in the base year by the price per unit of energy in the base year as determined in accordance with § 436.14(c).
+
+(b) When energy costs begin to accrue in the base year, the present value of energy costs over the study period is the product of energy costs in the base year as established under § 436.17(a), multiplied by the appropriate modified uniform present worth factor adjusted for energy price escalation for the applicable region, sector, fuel type, and study period consistent with § 436.14, or as calculated by computer software provided or approved by DOE and used with the official discount rate and escalation rate assumptions under § 436.14. When energy costs begin to accrue at a later time, subtract the present value of energy costs over the delay, calculated using the adjusted, modified uniform present worth factor for the period of delay, from the present value of energy costs over the study period or, if using computer software, indicate a delayed beneficial occupancy date.
+
+(c) Each Federal agency shall establish water costs in the base year by multiplying the total units of water used in the base year by the price per unit of water in the base year as determined in accordance with § 436.14(c).
+
+(d) When water costs begin to accrue in the base year, the present value of water costs over the study period is the product of water costs in the base year as established under § 436.17(a), or as calculated by computer software provided or approved by DOE and used with the official discount rate and assumptions under § 436.14. When water costs begin to accrue at a later time, subtract the present value of water costs over the delay, calculated using the uniform present worth factor for the period of delay, from the present value of water costs over the study period or, if using computer software, indicate a delayed beneficial occupancy date.
+
+[55 FR 48220, Nov. 20, 1990, as amended at 61 FR 32650, June 25, 1996]

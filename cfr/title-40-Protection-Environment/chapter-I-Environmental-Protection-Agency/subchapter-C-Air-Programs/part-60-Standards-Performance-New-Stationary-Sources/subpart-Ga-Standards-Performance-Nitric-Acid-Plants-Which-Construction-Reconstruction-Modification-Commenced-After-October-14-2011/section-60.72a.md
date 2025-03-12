@@ -1,0 +1,3 @@
+##### § 60.72a Standards. #####
+
+*Nitrogen oxides.* On and after the date on which the performance test required to be conducted by § 60.73a(e) is completed, you may not discharge into the atmosphere from any affected facility any gases which contain NOX, expressed as NO2, in excess of 0.50 pounds (lb) per ton of nitric acid produced, as a 30-day emission rate calculated based on 30 consecutive operating days, the production being expressed as 100 percent nitric acid. The emission standard applies at all times.

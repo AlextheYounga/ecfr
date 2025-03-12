@@ -1,0 +1,3 @@
+##### § 412.1 General applicability. #####
+
+This part applies to manure, litter, and/or process wastewater discharges resulting from concentrated animal feeding operations (CAFOs). Manufacturing and/or agricultural activities which may be subject to this part are generally reported under one or more of the following Standard Industrial Classification (SIC) codes: SIC 0211, SIC 0213, SIC 0214, SIC 0241, SIC 0251, SIC 0252, SIC 0253, SIC 0254, SIC 0259, or SIC 0272 (1987 SIC Manual).

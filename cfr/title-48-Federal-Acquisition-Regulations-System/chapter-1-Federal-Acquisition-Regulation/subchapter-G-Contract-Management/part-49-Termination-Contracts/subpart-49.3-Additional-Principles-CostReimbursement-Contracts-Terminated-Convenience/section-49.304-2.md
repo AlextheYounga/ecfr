@@ -1,0 +1,3 @@
+##### 49.304-2 Submission of settlement proposal (fee only). #####
+
+The contractor shall limit the settlement proposal to a proposed reduction in the amount of fee. The final settlement proposal shall be submitted to the TCO within one year from the effective date of termination, unless the period is extended by the TCO. The proposal may be submitted in the form prescribed in 49.602-1 or by letter appropriately certified. The contractor shall substantiate the amount of fee claimed (see 49.305).

@@ -1,0 +1,3 @@
+##### 970.0371-5 Use of privileged information. #####
+
+Management and operating contractor employees shall not use privileged information for personal gain, or make other improper use of privileged information which is acquired in connection with their employment on contract work. For the purposes of this subsection, the term “privileged information” includes but is not limited to, unpublished information relating to technological and scientific developments; medical, personnel, or security records of individuals; anticipated materials' requirements or pricing action; possible new sites for DOE program operations; internal DOE decisions; policy development; and knowledge of selections of contractors or subcontractors in advance of official announcement.

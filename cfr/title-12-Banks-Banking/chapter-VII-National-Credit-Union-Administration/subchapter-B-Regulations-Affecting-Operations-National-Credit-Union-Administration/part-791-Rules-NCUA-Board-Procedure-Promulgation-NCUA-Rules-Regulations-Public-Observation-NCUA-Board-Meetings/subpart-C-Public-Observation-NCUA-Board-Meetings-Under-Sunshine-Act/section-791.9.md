@@ -1,0 +1,3 @@
+##### § 791.9 Scope. #####
+
+This subpart contains regulations implementing subsections (b) through (f) of the “Government in the Sunshine Act” (5 U.S.C. 552b). The primary purpose of these regulations is to provide the public with the fullest access authorized by law to the deliberations and decisions of the Board, while protecting the rights of individuals and preserving the ability of the agency to carry out its responsibilities.

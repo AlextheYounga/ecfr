@@ -1,0 +1,5 @@
+##### § 13.226 Public disclosure of evidence. #####
+
+(a) The administrative law judge may order that any information contained in the record be withheld from public disclosure. Any person may object to disclosure of information in the record by filing a written motion to withhold specific information with the administrative law judge and serving a copy of the motion on each party. The party shall state the specific grounds for nondisclosure in the motion.
+
+(b) The administrative law judge shall grant the motion to withhold information in the record if, based on the motion and any response to the motion, the administrative law judge determines that disclosure would be detrimental to aviation safety, disclosure would not be in the public interest, or that the information is not otherwise required to be made available to the public.

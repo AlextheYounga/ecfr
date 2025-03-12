@@ -1,0 +1,7 @@
+##### § 387.319 Fiduciaries. #####
+
+(a) *Definitions.* The terms “insured” and “principal” as used in a certificate of insurance, surety bond, and notice of cancellation, filed by or for a motor carrier, include the motor carrier and its fiduciary as of the moment of succession. The term “fiduciary” means any person authorized by law to collect and preserve property of incapacitated, financially disabled, bankrupt, or deceased holders of operating rights, and assignees of such holders.
+
+(b) *Insurance coverage in behalf of fiduciaries to apply concurrently.* The coverage furnished under the provisions of this section on behalf of fiduciaries shall not apply subsequent to the effective date of other insurance, or other security, filed with and approved by the FMCSA in behalf of such fiduciaries. After the coverage provided in this section shall have been in effect thirty (30) days, it may be cancelled or withdrawn within the succeeding period of thirty (30) days by the insurer, the insured, the surety, or the principal upon ten (10) days' notice in writing to the FMCSA at its office in Washington, DC, which period of ten (10) days shall commence to run from the date such notice is actually received by the FMCSA. After such coverage has been in effect for a total of sixty (60) days, it may be cancelled or withdrawn only in accordance with § 1043.7.
+
+[32 FR 20032, Dec. 20, 1967, as amended at 47 FR 49596, Nov. 1, 1982; 47 FR 55945, Dec. 14, 1982; 55 FR 11197, Mar. 27, 1990]

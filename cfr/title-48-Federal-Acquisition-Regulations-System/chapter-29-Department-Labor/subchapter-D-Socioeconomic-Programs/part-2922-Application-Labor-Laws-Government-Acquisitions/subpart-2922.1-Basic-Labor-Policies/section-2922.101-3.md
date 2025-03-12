@@ -1,0 +1,3 @@
+##### 2922.101-3 Reporting labor disputes. #####
+
+Potential or actual labor disputes that may interfere with contract performance must be reported by the contracting activity to the Office of the Solicitor for legal advice or assistance. It may also become necessary to seek advice or assistance from the National Office of the Federal Mediation and Conciliation Service, 2100 K Street, NW., Washington, DC 20006, or other mediation agencies.

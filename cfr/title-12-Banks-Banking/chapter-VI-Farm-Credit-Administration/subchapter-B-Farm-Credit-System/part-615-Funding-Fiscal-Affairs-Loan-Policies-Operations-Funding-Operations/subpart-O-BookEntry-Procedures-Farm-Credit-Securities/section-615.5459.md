@@ -1,0 +1,3 @@
+##### § 615.5459 Liability of Farm Credit banks, Funding Corporation and Federal Reserve Banks. #####
+
+The Farm Credit banks, the Funding Corporation, and the Federal Reserve Banks may rely on the information provided in a transfer message or other transaction documentation, and are not required to verify the information. The Farm Credit banks, the Funding Corporation, and the Federal Reserve Banks shall not be liable for any action taken in accordance with the information set out in the transfer message, other transaction documentation, or evidence submitted in support thereof.

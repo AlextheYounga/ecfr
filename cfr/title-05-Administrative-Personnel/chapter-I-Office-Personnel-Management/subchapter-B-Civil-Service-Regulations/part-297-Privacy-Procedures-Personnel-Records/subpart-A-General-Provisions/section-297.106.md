@@ -1,0 +1,3 @@
+##### § 297.106 Contact point for Privacy Act matters. #####
+
+To determine what records the Office maintains in its system of records, requesters must write to the Assistant Director for Workforce Information, Personnel Systems and Oversight Group, Office of Personnel Management, 1900 E Street, NW., Washington, DC 20415. Using the Office's response, requesters can contact the particular system manager indicated in the Office's notices of its systems published in the Federal Register for further assistance in determining if the Office maintains information pertaining to them.

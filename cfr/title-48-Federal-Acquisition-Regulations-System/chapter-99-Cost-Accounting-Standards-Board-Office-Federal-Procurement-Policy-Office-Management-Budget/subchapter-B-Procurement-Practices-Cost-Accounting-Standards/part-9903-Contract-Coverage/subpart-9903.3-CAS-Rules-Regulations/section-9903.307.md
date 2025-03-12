@@ -1,0 +1,3 @@
+##### 9903.307 Cost Accounting Standards Preambles. #####
+
+Preambles to the Cost Accounting Standards published by the original Cost Accounting Standards Board, as well as those preambles published by the signatories to the Federal Acquisition Regulation respecting changes made under their regulatory authorities, are available by writing to the: Publications Office, Office of Administration, Executive Office of the President, 725 17th Street NW., room 2200, Washington, DC 20500, or by calling (202) 395-7332.

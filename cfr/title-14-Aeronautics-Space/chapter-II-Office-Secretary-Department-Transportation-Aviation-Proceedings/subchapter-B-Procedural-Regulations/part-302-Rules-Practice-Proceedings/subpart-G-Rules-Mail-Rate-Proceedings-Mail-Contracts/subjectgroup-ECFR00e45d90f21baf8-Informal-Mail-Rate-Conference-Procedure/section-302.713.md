@@ -1,0 +1,3 @@
+##### § 302.713 DOT analysis of data for submission of answers thereto. #####
+
+After a careful analysis of these data, the DOT employees will, in most cases, send the air carrier a statement of exceptions showing areas of differences. Where practicable, the air carrier may submit an answer to these exceptions. Conferences will then be scheduled to resolve the issues and facts in accordance with sound ratemaking principles.

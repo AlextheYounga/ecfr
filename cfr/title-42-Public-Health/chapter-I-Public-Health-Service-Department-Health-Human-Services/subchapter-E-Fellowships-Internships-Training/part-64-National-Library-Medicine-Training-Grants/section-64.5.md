@@ -1,0 +1,3 @@
+##### § 64.5 How are grant applications evaluated? #####
+
+The Secretary shall evaluate applications through the officers and employees, experts, consultants, or groups engaged by the Secretary for that purpose. The Secretary's evaluation will be for technical merit and shall take into account, among other pertinent factors, the significance of the project, the qualifications and competency of the project director and proposed staff, the adequacy of selection criteria for trainees for the project, the adequacy of the applicant's resources available for the project, and the amount of grant funds necessary for completion of its objectives.

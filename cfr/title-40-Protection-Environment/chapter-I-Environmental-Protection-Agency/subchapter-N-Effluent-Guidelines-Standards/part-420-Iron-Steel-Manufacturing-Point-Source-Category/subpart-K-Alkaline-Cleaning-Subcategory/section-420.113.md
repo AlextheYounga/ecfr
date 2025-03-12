@@ -1,0 +1,3 @@
+##### § 420.113 Effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT). #####
+
+The Agency has determined that there are not significant quantities of toxic pollutants in alkaline cleaning wastewaters after compliance with applicable BPT limitations. Accordingly, since the BPT level of treatment provides adequate control, the Agency is not promulgating more stringent BAT limitations.

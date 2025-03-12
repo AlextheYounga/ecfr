@@ -1,0 +1,3 @@
+##### 2905.403 Requests from Members of Congress. #####
+
+All proposed responses to Congressional inquiries must be prepared and forwarded for coordination with the Office of the Solicitor and the Office of Congressional and Intergovernmental Affairs to determine whether circumstances exist that will allow the release of additional information. In such instances, the Congressional requestor must be furnished an interim reply providing the information that is releasable. The interim reply must describe the problem that precludes release of any requested materials and describe generally what steps, if any, are being taken to make such information available.

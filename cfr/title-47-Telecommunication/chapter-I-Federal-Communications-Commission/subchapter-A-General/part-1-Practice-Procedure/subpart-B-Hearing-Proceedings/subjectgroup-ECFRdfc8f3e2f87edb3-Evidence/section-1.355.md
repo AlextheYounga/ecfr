@@ -1,0 +1,3 @@
+##### § 1.355 Documents in foreign language. #####
+
+Every document, exhibit, or other paper written in a language other than English, which shall be filed in any proceeding, or in response to any order, shall be filed in the language in which it is written together with an English translation thereof duly verified under oath to be a true translation. Each copy of every such document, exhibit, or other paper filed shall be accompanied by a separate copy of the translation.

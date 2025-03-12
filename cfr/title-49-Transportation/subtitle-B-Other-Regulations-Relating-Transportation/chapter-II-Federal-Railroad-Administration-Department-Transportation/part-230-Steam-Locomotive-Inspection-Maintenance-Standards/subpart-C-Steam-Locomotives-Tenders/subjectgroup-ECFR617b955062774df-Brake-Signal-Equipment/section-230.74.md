@@ -1,0 +1,3 @@
+##### § 230.74 Time of cleaning. #####
+
+All valves in the air brake system, including related dirt collectors and filters, shall be cleaned and tested in accordance with accepted brake equipment manufacturer's specifications, or as often as conditions require to maintain them in a safe and suitable condition for service, but not less frequently than after 368 service days or during the second annual inspection, whichever occurs first.

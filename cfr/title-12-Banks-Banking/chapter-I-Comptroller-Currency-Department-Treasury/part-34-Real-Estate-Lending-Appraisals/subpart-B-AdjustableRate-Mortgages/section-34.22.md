@@ -1,0 +1,7 @@
+##### § 34.22 Index. #####
+
+(a) *In general.* If a national bank makes an ARM loan to which 12 CFR 226.19(b) applies (*i.e.,* the annual percentage rate of a loan may increase after consummation, the term exceeds one year, and the consumer's principal dwelling secures the indebtedness), the loan documents must specify an index or combination of indices to which changes in the interest rate will be linked. This index must be readily available to, and verifiable by, the borrower and beyond the control of the bank. A national bank may use as an index any measure of rates of interest that meets these requirements. The index may be either single values of the chosen measure or a moving average of the chosen measure calculated over a specified period. A national bank also may increase the interest rate in accordance with applicable loan documents specifying the amount of the increase and the times at which, or circumstances under which, it may be made. A national bank may decrease the interest rate at any time.
+
+(b) *Exception.* Thirty days after filing a notice with the OCC, a national bank may use an index other than one described in paragraph (a) of this section unless, within that 30-day period, the OCC has notified the bank that the notice presents supervisory concerns or raises significant issues of law or policy. If the OCC provides such notice to the bank, the bank may not use that index unless it applies for and receives the OCC's prior written approval.
+
+[61 FR 11300, Mar. 20, 1996, as amended at 73 FR 22251, Apr. 24, 2008]

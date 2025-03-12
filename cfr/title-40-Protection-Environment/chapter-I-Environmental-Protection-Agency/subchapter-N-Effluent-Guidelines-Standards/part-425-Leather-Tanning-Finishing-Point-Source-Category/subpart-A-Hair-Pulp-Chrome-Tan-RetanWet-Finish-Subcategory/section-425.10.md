@@ -1,0 +1,3 @@
+##### § 425.10 Applicability; description of the hair pulp, chrome tan, retan-wet finishing subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from any tannery which, either exclusively or in addition to other unhairing and tanning operation, processes raw or cured cattle or cattle-like hides into finished leather by chemically dissolving the hide hair, chrome tanning, and retan-wet finishing.

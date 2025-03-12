@@ -1,0 +1,3 @@
+##### § 176.162 Security. #####
+
+A responsible person must be present at all times when the hatches of spaces containing Class 1 (explosive) materials are open. No unauthorized person may be permitted to access spaces in which Class 1 (explosive) materials are stowed. Magazines must be secured against unauthorized entry when loading has been completed, or when loading or unloading is stopped. Packages containing Class 1 (explosive) materials may not be opened on board ship.

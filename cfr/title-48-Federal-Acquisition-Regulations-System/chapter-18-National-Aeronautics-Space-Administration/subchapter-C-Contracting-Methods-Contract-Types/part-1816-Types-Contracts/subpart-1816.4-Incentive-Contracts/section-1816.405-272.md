@@ -1,0 +1,7 @@
+##### 1816.405-272 Award fee evaluation periods. #####
+
+(a) Award fee evaluation periods, including those for interim evaluations, should be at least 6 months in length. When appropriate, the procurement officer may authorize shorter evaluation periods after ensuring that the additional administrative costs associated with the shorter periods are offset by benefits accruing to the Government. Where practicable, such as developmental contracts with defined performance milestones (e.g., Preliminary Design Review, Critical Design Review, initial system test), establishing evaluation periods at conclusion of the milestones rather than calendar dates, or in combination with calendar dates should be considered. In no case shall an evaluation period be longer than 12 months.
+
+(b) A portion of the total available award fee contract shall be allocated to each of the evaluation periods. This allocation may result in an equal or unequal distribution of fee among the periods. The contracting officer shall consider the nature of each contract and the incentive effects of fee distribution in determining the appropriate allocation structure.
+
+[62 FR 3478, Jan. 23, 1997. Redesignated at 62 FR 36706, July 9, 1997, as amended at 63 FR 13133, Mar. 18, 1998; 80 FR 12937, Mar. 12, 2015]

@@ -1,0 +1,3 @@
+##### § 60.2881 When does this subpart become effective? #####
+
+This subpart takes effect June 16, 2006. Some of the requirements in this subpart apply to planning the incineration unit and must be completed even before construction is initiated on the unit (i.e., the preconstruction requirements in §§ 60.2894 and 60.2895). Other requirements such as the emission limitations and operating limits apply when the unit begins operation.

@@ -1,0 +1,5 @@
+##### § 392.14 Hazardous conditions; extreme caution. #####
+
+Extreme caution in the operation of a commercial motor vehicle shall be exercised when hazardous conditions, such as those caused by snow, ice, sleet, fog, mist, rain, dust, or smoke, adversely affect visibility or traction. Speed shall be reduced when such conditions exist. If conditions become sufficiently dangerous, the operation of the commercial motor vehicle shall be discontinued and shall not be resumed until the commercial motor vehicle can be safely operated. Whenever compliance with the foregoing provisions of this rule increases hazard to passengers, the commercial motor vehicle may be operated to the nearest point at which the safety of passengers is assured.
+
+[33 FR 19732, Dec. 25, 1968, as amended at 60 FR 38747, July 28, 1995]

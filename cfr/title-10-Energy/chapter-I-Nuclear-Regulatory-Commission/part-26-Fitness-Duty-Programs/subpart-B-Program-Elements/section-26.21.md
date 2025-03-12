@@ -1,0 +1,3 @@
+##### § 26.21 Fitness-for-duty program. #####
+
+The licensees and other entities specified in § 26.3(a) through (c) shall establish, implement, and maintain FFD programs that, at a minimum, comprise the program elements contained in this subpart. The individuals specified in § 26.4(a) through (e) and (g), and, at the licensee's or other entity's discretion, § 26.4(f), and, if necessary, § 26.4(j) shall be subject to these FFD programs. Licensees and other entities may rely on the FFD program or program elements of a C/V, as defined in § 26.5, if the C/V's FFD program or program elements meet the applicable requirements of this part.

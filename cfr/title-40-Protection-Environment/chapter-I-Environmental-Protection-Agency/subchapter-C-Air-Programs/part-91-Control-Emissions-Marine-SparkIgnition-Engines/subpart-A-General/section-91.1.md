@@ -1,0 +1,3 @@
+##### § 91.1 Applicability. #####
+
+The Environmental Protection Agency adopted emission standards for model year 1998 and later marine spark-ignition engines under this part, except that the standards of this part did not apply to sterndrive/inboard engines. EPA has migrated regulatory requirements for these engines to 40 CFR part 1045, with additional testing and compliance provisions in 40 CFR parts 1065 and 1068. The standards originally adopted in this part are identified in 40 CFR part 1045, appendix I. See 40 CFR 1045.1 for information regarding the timing of the transition to 40 CFR part 1045, and for information regarding regulations that continue to apply for engines that manufacturers originally certified or otherwise produced under this part.

@@ -1,0 +1,7 @@
+##### 1827.304-3 Subcontracts. #####
+
+(a) Unless otherwise authorized or directed by the contracting officer, contractors awarding subcontracts at any tier shall select and include in the subcontracts one of the clauses identified in subparagraphs (a)(1) or (2) of this section. At all tiers, the applicable clause identified below shall be modified to identify the parties as follows: references to the Government are not changed, and in all references to the Contractor the subcontractor is substituted for the Contractor so that the subcontractor has all rights and obligations of the Contractor in the clause.
+
+(1) The clause at 1852.227-70, New Technology—Other than a Small Business Firm or Nonprofit Organization, shall be used in any subcontract with other than a small business firm or a nonprofit organization if a purpose of the subcontract is the performance of experimental, developmental, research, design, or engineering work of any of the types described in 1827.303(d)(1).
+
+(2) The clause at FAR 52.227-11, Patent Rights—Ownership by the Contractor, modified by 1852.227-11 (see 1827.303(b)(1)), shall be used in any subcontract with a small business firm or a nonprofit organization if a purpose of the subcontract is the performance of experimental, developmental, or research work.

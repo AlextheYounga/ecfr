@@ -1,0 +1,3 @@
+##### § 256.71 Directional drilling. #####
+
+In accordance with a BOEM-approved exploration plan or development and production plan, a lease may be maintained in force by directional wells drilled under the leased area from surface locations on adjacent or adjoining land not covered by the lease. In such circumstances, drilling shall be considered to have commenced on the leased area when drilling is commenced on the adjacent or adjoining land for the purpose of directional drilling under the leased area through any directional well surfaced on adjacent or adjoining land. Production, drilling or reworking of any such directional well shall be considered production or drilling or reworking operations on the leased area for all purposes of the lease.

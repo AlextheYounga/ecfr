@@ -1,0 +1,13 @@
+##### § 63.5595 What compliance options do I have if part of my affected source is subject to both this subpart and another subpart? #####
+
+(a) For any Group 1 or Group 2 wastewater stream that is subject to the wastewater provisions in this subpart and the wastewater provisions in 40 CFR parts 260 through 272, you must comply with the requirements of either paragraph (a)(1) or (2) of this section.
+
+(1) You must comply with more stringent control, testing, monitoring, recordkeeping, and reporting requirements that overlap between the provisions of this subpart and the provisions of 40 CFR parts 260 through 272. You must keep a record of the information used to determine which requirements were the most stringent and submit this information if requested by the Administrator.
+
+(2) You must submit, no later than 4 months before the applicable compliance date specified in § 63.5495, a request for a case-by-case determination of requirements. The request must include the information specified in paragraphs (a)(2)(i) and (ii) of this section.
+
+(i) Identification of the wastewater streams that are subject to this subpart and to provisions in 40 CFR parts 260 through 272, determination of the Group 1/Group 2 status of those streams, determination of whether or not those streams are listed or exhibit a characteristic as specified in 40 CFR part 261, and determination of whether the waste management unit is subject to permitting under 40 CFR part 270.
+
+(ii) Identification of the specific control, testing, monitoring, recordkeeping, and reporting requirements that overlap between the provisions of this subject and the provisions of 40 CFR parts 260 through 272.
+
+(b) If any combustion device, recovery device, or recapture device, as defined in § 63.111, subject to this subpart is also subject to the monitoring, recordkeeping, and reporting requirements in 40 CFR part 264, subpart AA or CC, or is subject to monitoring and recordkeeping requirements in 40 CFR part 265, subpart AA or CC, and you comply with the periodic reporting requirements under 40 CFR part 264, subpart AA or CC, that would apply to the device if the affected source had final-permitted status, you may elect to comply either with the monitoring, recordkeeping, and reporting requirements of this subpart, or with the monitoring, recordkeeping, and reporting requirements in 40 CFR parts 264 and/or 265, as described in this paragraph (b), which will constitute compliance with the monitoring, recordkeeping, and reporting requirements of this subpart. You must identify which option has been selected in the Notification of Compliance Status Report required in § 63.5575 and Table 7 to this subpart.

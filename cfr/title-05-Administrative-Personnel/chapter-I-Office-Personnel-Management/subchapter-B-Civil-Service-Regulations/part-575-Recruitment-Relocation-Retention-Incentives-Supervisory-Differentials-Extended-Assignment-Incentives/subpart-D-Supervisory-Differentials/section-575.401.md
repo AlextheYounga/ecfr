@@ -1,0 +1,3 @@
+##### § 575.401 Purpose. #####
+
+This subpart provides regulations to implement 5 U.S.C. 5755, which authorizes payment of a supervisory differential to an employee under the General Schedule who has supervisory responsibility for one or more civilian employees not under the General Schedule if one or more of the subordinate civilian employees would, in the absence of such a differential, be paid more than the supervisory employee.

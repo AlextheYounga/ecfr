@@ -1,0 +1,5 @@
+##### 833.213 Obligation to continue performance. #####
+
+(a) As provided in FAR 33.213, contracting officers shall use FAR clause 52.233-1, Disputes, with its Alternate I. Clause 52.233-1 requires the contractor to continue performance in accordance with the contracting officer's decision in the event of a claim arising *under* a contract. Alternate I expands this authority, adding a requirement for the contractor to continue performance in the event of a claim *relating* to the contract.
+
+(b) In the event of a dispute not arising under, but relating to, the contract, if the contracting officer directs continued performance, the contracting officer may consider providing financing for the continued performance, provided that the Government's interests are properly secured. The contracting officer will contact the DAS for A&MM and OGC for advice prior to authorizing such financing.

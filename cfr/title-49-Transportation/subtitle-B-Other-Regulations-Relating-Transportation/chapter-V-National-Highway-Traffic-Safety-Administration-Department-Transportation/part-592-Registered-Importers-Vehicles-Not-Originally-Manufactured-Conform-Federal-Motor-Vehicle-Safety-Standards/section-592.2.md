@@ -1,0 +1,3 @@
+##### § 592.2 Purpose. #####
+
+The purpose of this part is to provide content and format requirements for persons who wish to register with the Administrator as importers of motor vehicles not originally manufactured to conform to all applicable Federal motor vehicle safety standards, to provide procedures for the registration f importers and for the suspension, revocation and reinstatement of registration, and to set forth the duties required of Registered Importers.

@@ -1,0 +1,3 @@
+##### § 617.7005 When may electronic communications be used in the borrower rights process? #####
+
+Qualified lenders may use, with the parties' agreement, electronic commerce (E-commerce), including electronic communications for borrower rights disclosures. Part 609 of this chapter addresses when a qualified lender may use E-commerce. Consistent with these rules, a qualified lender should interpret part 617 broadly to allow electronic transmissions, communications, records, and submissions. However, electronic communications may not be used for a notice of default, acceleration, repossession, foreclosure, eviction, or the right to cure when a borrower's primary residence secures the loan. In these instances, a qualified lender must use paper disclosures.

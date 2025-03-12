@@ -1,0 +1,7 @@
+##### § 216.13 Special notice for repairs—locomotive. #####
+
+(a) When an FRA Motive Power and Equipment Inspector or State Equipment Inspector determines a locomotive is not safe to operate in the service to which it is put, whether by reason of nonconformity with the FRA Railroad Locomotive Safety Standards set forth in part 229 of this chapter or the FRA Railroad Locomotive Inspection Regulations set forth in part 230 of this chapter or by reason of any other condition rendering the locomotive unsafe, he or she will notify the railroad in writing that the locomotive is not in serviceable condition. After receipt of the Special Notice, the railroad shall remove the locomotive from service until it is restored to serviceable condition. The locomotive may not be deemed to be in serviceable condition until it complies with all applicable requirements of parts 229 and 230 of this chapter and until all additional deficiencies identified in the Special Notice have been corrected.
+
+(b) The carrier shall notify the FRA Regional Administrator in writing when the locomotive is returned to service, specifying the repairs completed. The carrier officer or employee directly responsible for the repairs shall subscribe this writing under oath.
+
+[41 FR 18657, May 6, 1976, as amended at 64 FR 25659, May 12, 1999]

@@ -1,0 +1,11 @@
+##### § 600.330 Coordination with other insurance affordability programs. #####
+
+(a) *Coordination.* The State must establish eligibility and enrollment mechanisms and procedures to maximize coordination with the Exchange, Medicaid and CHIP. The terms of 45 CFR 155.345(a) regarding the agreements between insurance affordability programs apply to a BHP. The State BHP agency must fulfill the requirements of 42 CFR 435.1200(d) and (e) and, if applicable, paragraph (c) for BHP eligible individuals.
+
+(b) *Coordinated determinations of eligibility.* The agency administering BHP must establish and maintain processes to make income eligibility determinations using modified adjusted gross income, and to ensure that applications received by the agency, to the extent warranted and permitted under delegations from other agencies administering insurance affordability programs, also result in eligibility assessments or determinations for those other programs. The BHP must also accept applications transferred from other agencies administering insurance affordability programs, and ensure that individuals assessed or determined eligible for BHP by such other agencies are afforded the opportunity to enroll in a standard health plan without undue delay. Individuals submitting applications to any of the aforementioned agencies must not be required to duplicate the submission of information.
+
+(c) *Account transfers.* The agency administering the BHP must participate in the secure exchange of information with agencies administering other insurance affordability programs, using the standards set forth under 45 CFR 155.345(h) regarding electronic account transfers.
+
+(d) *Notification to referring agency.* The terms in § 435.1200(d)(5) regarding the notification to other programs of the final determination of eligibility apply equally to States administering a BHP.
+
+(e) *Notice of decision concerning eligibility.* Every application for BHP shall result in a determination of eligibility or ineligibility, unless the application has been withdrawn, the applicant has died, or the applicant cannot be located. Written notices of eligibility determinations shall be provided and shall be coordinated with other insurance affordability programs and Medicaid. Electronic notices shall be provided to the extent consistent with § 435.918(b).

@@ -1,0 +1,5 @@
+##### § 86.403-78 Abbreviations. #####
+
+The abbreviations used in this subpart have the following meanings in both capital and lowercase:
+
+ASTM—American Society for Testing and Materials.C—Celsius.cc—Cubic centimetre(s).cfh—Cubic feet per hour.cfm—Cubic feet per minute.CH4 methane.cm—Centimetre(s).CO—Carbon monoxide.CO2—Carbon dioxide.Conc—Concentration.cu.—Cubic.CVS—Constant volume sampler. EGR—Exhaust gas recirculation.EP—End point.EPA—Environmental Protection Agency.F—Fahrenheit.h—hour.HC—Hydrocarbon(s).Hg—Mercury.H2O—Water.in.—Inch(es).K—Kelvin.kg—Kilogram(s).km—Kilometre(s).kpa—Kilopascals.lb—Pound(s).m—Metre(s).mph—Miles per hour.mm—Millimetre(s).N2—Nitrogen.N2O nitrous oxide.NOX—Oxides of nitrogen.No.—Number.O2—Oxygen.Pa—Pascal(s).Pb—lead.ppm—Parts per million by volume.psi—Pounds per square inch.psig—Pounds per square inch gauge.R—Rankine.rpm—Revolutions per minute.wt—Weight.°—Degree(s).%—Percent.[42 FR 1126, Jan. 5, 1977, as amended at 74 FR 56373, Oct. 30, 2009]

@@ -1,0 +1,3 @@
+##### § 845.33 Investigation to remain open. #####
+
+The Board never officially closes an investigation, but provides for the submission of new and pertinent evidence by any interested person. If the Board finds such evidence is relevant and probative, the evidence shall be made a part of the public docket and, where appropriate, the Board will provide parties an opportunity to examine such evidence and to comment thereon.

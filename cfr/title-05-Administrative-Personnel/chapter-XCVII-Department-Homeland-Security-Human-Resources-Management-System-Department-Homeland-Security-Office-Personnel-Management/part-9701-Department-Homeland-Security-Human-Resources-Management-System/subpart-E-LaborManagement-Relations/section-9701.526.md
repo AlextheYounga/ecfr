@@ -1,0 +1,5 @@
+##### § 9701.526 Continuation of existing laws, recognitions, agreements, and procedures. #####
+
+(a) Except as otherwise provided by § 9701.506, nothing contained in this subpart precludes the renewal or continuation of an exclusive recognition, certification of an exclusive representative, or an agreement that is otherwise consistent with law and the regulations in this part between the Department or a component thereof and an exclusive representative of its employees, which is entered into before the effective date of this subpart, as determined under § 9701.102(b).
+
+(b) Policies, regulations, and procedures established under, and decisions issued under Executive Orders 11491, 11616, 11636, 11787, and 11838 or any other Executive order, as in effect on the effective date of this subpart (as determined under § 9701.102(b)), will remain in full force and effect until revised or revoked by the President, or unless superseded by specific provisions of this subpart or by implementing directives or decisions issued pursuant to this subpart.

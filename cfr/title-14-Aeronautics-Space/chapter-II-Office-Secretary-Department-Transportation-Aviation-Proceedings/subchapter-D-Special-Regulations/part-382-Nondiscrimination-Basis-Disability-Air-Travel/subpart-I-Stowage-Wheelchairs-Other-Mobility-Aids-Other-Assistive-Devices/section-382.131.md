@@ -1,0 +1,3 @@
+##### § 382.131 Do baggage liability limits apply to mobility aids and other assistive devices? #####
+
+With respect to transportation to which 14 CFR part 254 applies, the limits to liability for loss, damage, or delay concerning wheelchairs or other assistive devices provided in part 254 do not apply. The basis for calculating the compensation for a lost, damaged, or destroyed wheelchair or other assistive device shall be the original purchase price of the device.

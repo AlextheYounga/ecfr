@@ -1,0 +1,3 @@
+##### § 137.297 If the environmental review procedures of a Federal agency are adopted by a Self-Governance Tribe, is the Self-Governance Tribe responsible for ensuring the agency's policies and procedures meet the requirements of NEPA, NHPA, and related environmental laws? #####
+
+No, the Federal agency is responsible for ensuring its own policies and procedures meet the requirements of NEPA, NHPA, and related environmental laws, not the Self-Governance Tribe.

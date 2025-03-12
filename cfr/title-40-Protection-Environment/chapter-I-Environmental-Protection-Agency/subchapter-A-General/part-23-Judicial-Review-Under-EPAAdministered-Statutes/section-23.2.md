@@ -1,0 +1,3 @@
+##### § 23.2 Timing of Administrator's action under Clean Water Act. #####
+
+Unless the Administrator otherwise explicity provides in a particular promulgation or approval action, the time and date of the Administrator's action in promulgation (for purposes of sections 509(b)(1) (A), (C), and (E)), approving (for purposes of section 509(b)(1)(E)), making a determination (for purposes of section 509(b)(1) (B) and (D), and issuing or denying (for purposes of section 509(b)(1)(F)) shall be at 1:00 p.m. eastern time (standard or daylight, as appropriate) on (a) for a Federal Register document, the date that is two weeks after the date when the document is published in the Federal Register, or (b) for any other document, two weeks after it is signed.

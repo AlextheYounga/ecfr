@@ -1,0 +1,3 @@
+##### § 40.5 Who issues authoritative interpretations of this regulation? #####
+
+ODAPC and the DOT Office of General Counsel (OGC) provide written interpretations of the provisions of this part. These written DOT interpretations are the only official and authoritative interpretations concerning the provisions of this part. DOT agencies may incorporate ODAPC/OGC interpretations in written guidance they issue concerning drug and alcohol testing matters. Only Part 40 interpretations issued after August 1, 2001, are considered valid.

@@ -1,0 +1,23 @@
+##### § 91.801 Applicability: Relation to part 36. #####
+
+(a) This subpart prescribes operating noise limits and related requirements that apply, as follows, to the operation of civil aircraft in the United States.
+
+(1) Sections 91.803, 91.805, 91.807, 91.809, and 91.811 apply to civil subsonic jet (turbojet) airplanes with maximum weights of more than 75,000 pounds and—
+
+(i) If U.S. registered, that have standard airworthiness certificates; or
+
+(ii) If foreign registered, that would be required by this chapter to have a U.S. standard airworthiness certificate in order to conduct the operations intended for the airplane were it registered in the United States. Those sections apply to operations to or from airports in the United States under this part and parts 121, 125, 129, and 135 of this chapter.
+
+(2) Section 91.813 applies to U.S. operators of civil subsonic jet (turbojet) airplanes covered by this subpart. This section applies to operators operating to or from airports in the United States under this part and parts 121, 125, and 135, but not to those operating under part 129 of this chapter.
+
+(3) Sections 91.803, 91.819, and 91.821 apply to U.S.-registered civil supersonic airplanes having standard airworthiness certificates and to foreign-registered civil supersonic airplanes that, if registered in the United States, would be required by this chapter to have U.S. standard airworthiness certificates in order to conduct the operations intended for the airplane. Those sections apply to operations under this part and under parts 121, 125, 129, and 135 of this chapter.
+
+(b) Unless otherwise specified, as used in this subpart “part 36” refers to 14 CFR part 36, including the noise levels under appendix C of that part, notwithstanding the provisions of that part excepting certain airplanes from the specified noise requirements. For purposes of this subpart, the various stages of noise levels, the terms used to describe airplanes with respect to those levels, and the terms “subsonic airplane” and “supersonic airplane” have the meanings specified under part 36 of this chapter. For purposes of this subpart, for subsonic airplanes operated in foreign air commerce in the United States, the Administrator may accept compliance with the noise requirements under annex 16 of the International Civil Aviation Organization when those requirements have been shown to be substantially compatible with, and achieve results equivalent to those achievable under, part 36 for that airplane. Determinations made under these provisions are subject to the limitations of § 36.5 of this chapter as if those noise levels were part 36 noise levels.
+
+(c) Sections 91.851 through 91.877 of this subpart prescribe operating noise limits and related requirements that apply to any civil subsonic jet (turbojet) airplane (for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator) with a maximum certificated takeoff weight of more than 75,000 pounds operating to or from an airport in the 48 contiguous United States and the District of Columbia under this part, parts 121, 125, 129, or 135 of this chapter on and after September 25, 1991.
+
+(d) Section 91.877 prescribes reporting requirements that apply to any civil subsonic jet (turbojet) airplane with a maximum weight of more than 75,000 pounds operated by an air carrier or foreign air carrier between the contiguous United States and the State of Hawaii, between the State of Hawaii and any point outside of the 48 contiguous United States, or between the islands of Hawaii in turnaround service, under part 121 or 129 of this chapter on or after November 5, 1990.
+
+(e) Sections 91.881 through 91.883 of this subpart prescribe operating noise limits and related requirements that apply to any civil subsonic jet airplane with a maximum takeoff weight of 75,000 pounds or less and for which an airworthiness certificate (other than an experimental certificate) has been issued, operating to or from an airport in the contiguous United States under this part, part 121, 125, 129, or 135 of this chapter on and after December 31, 2015.
+
+[Doc. No. 18334, 54 FR 34321, Aug. 18, 1989; Amdt. 91-211, 54 FR 41211, Oct. 5, 1989, as amended by Amdt. 91-225, 56 FR 48658, Sept. 25, 1991; Amdt. 91-252, 61 FR 66185, Dec. 16, 1996; Amdt. 91-275, 67 FR 45237, July 8, 2002; Amdt. 91-276, 67 FR 46571, July 15, 2002; Amdt. 91-328, 78 FR 39583, July 2, 2013]

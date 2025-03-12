@@ -1,0 +1,3 @@
+##### 23.602 Contract clause. #####
+
+The contracting officer shall insert the clause at 52.223-7, Notice of Radioactive Materials, in solicitations and contracts for supplies which are, or which contain—(a) radioactive material requiring specific licensing under regulations issued pursuant to the Atomic Energy Act of 1954; or (b) radioactive material not requiring specific licensing in which the specific activity is greater than 0.002 microcuries per gram or the activity per item equals or exceeds 0.01 microcuries. Such supplies include, but are not limited to, aircraft, ammunition, missiles, vehicles, electronic tubes, instrument panel gauges, compasses and identification markers.

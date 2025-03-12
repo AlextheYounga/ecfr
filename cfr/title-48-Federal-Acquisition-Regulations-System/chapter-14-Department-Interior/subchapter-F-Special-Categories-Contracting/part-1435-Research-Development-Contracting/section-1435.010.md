@@ -1,0 +1,3 @@
+##### 1435.010 Scientific and technical reports. #####
+
+If a Research and Development (R&D) contract results involve classified or national security information, the CO shall follow the agency procedures prescribed in DIAR 1404.403 prior to making the results available. Copies of publications and reports are also required to be sent to the DOI Departmental Library, 1849 C Street, NW., MS-2258, Main Interior Building, Washington, DC 20240.

@@ -1,0 +1,3 @@
+##### § 20.1602 Control of access to very high radiation areas. #####
+
+In addition to the requirements in § 20.1601, the licensee shall institute additional measures to ensure that an individual is not able to gain unauthorized or inadvertent access to areas in which radiation levels could be encountered at 500 rads (5 grays) or more in 1 hour at 1 meter from a radiation source or any surface through which the radiation penetrates.

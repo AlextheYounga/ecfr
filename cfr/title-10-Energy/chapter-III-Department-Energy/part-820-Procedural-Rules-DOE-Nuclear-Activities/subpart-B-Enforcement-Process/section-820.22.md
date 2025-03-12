@@ -1,0 +1,3 @@
+##### § 820.22 Informal conference. #####
+
+The Director may convene an informal conference to discuss any situation that might be a violation of the Act or a DOE Nuclear Safety Requirement, its significance and cause, any correction taken or not taken by the person, any mitigating or aggravating circumstances, and any other useful information. The Director may compel a person to attend the conference. This conference will not normally be open to the public and there shall be no transcript.

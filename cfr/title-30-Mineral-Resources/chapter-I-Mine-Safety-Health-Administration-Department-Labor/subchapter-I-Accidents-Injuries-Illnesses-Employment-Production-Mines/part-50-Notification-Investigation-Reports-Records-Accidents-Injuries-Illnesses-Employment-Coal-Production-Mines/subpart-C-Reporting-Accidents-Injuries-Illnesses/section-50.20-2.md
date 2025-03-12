@@ -1,0 +1,3 @@
+##### § 50.20-2 Criteria—“Transfer to another job.” #####
+
+“Transfer to another job” means transfers, either temporary, or permanent, which are occasioned by a work-related injury or illness. Permanent or temporary transfers to remove miners from further exposure to health hazards are considered preventative in nature and are not required to be reported. Controlling the amount of exposure to radiation during some period of time is one example. Transfer of a coal miner to a less dusty area of a mine when the miner elects to exercise rights under Section 203(b) of the Federal Coal Mine Health and Safety Act of 1969 is another example.

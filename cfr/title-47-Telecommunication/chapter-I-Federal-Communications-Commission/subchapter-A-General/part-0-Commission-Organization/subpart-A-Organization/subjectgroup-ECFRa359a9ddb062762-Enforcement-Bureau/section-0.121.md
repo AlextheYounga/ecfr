@@ -1,0 +1,7 @@
+##### § 0.121 Location of field installations. #####
+
+(a) Field offices are located throughout the United States. For the address and phone number of the closest office contact the Enforcement Bureau or see the U.S. Government Manual.
+
+(b) Protected field offices are located at the following geographical coordinates (coordinates are referenced to North American Datum 1983 (NAD83)):
+
+Allegan, Michigan, 42°36′20.1″ N. Latitude, 85°57′20.1″ W. LongitudeBelfast, Maine, 44°26′42.3″ N. Latitude, 69°04′56.1″ W. LongitudeCanandaigua, New York, 42°54′48.2″ N. Latitude, 77°15′57.9″ W. LongitudeDouglas, Arizona, 31°30′02.3″ N. Latitude, 109°39′14.3″ W. LongitudeFerndale, Washington, 48°57′20.4″ N. Latitude, 122°33′17.6″ W. LongitudeGrand Island, Nebraska, 40°55′21.0″ N. Latitude, 98°25′43.2″ W. LongitudeKenai, Alaska, 60°43′26.0″ N. Latitude, 151°20′15.0″ W. LongitudeKingsville, Texas, 27°26′30.1″ N. Latitude, 97°53′01.0″ W. LongitudeLaurel, Maryland, 39°09′54.4″ N. Latitude, 76°49′15.9″ W. LongitudeLivermore, California, 37°43′29.7″ N. Latitude, 121°45′15.8″ W. LongitudePowder Springs, Georgia, 33°51′44.4″ N. Latitude, 84°43′25.8″ W. LongitudeSanta Isabel, Puerto Rico, 18°00′18.9″ N. Latitude, 66°22′30.6″ W. LongitudeVero Beach, Florida, 27°36′22.1″ N. Latitude, 80°38′05.2″ W. LongitudeWaipahu, Hawaii, 21°22′33.6″ N. Latitude, 157°59′44.1″ W. Longitude[53 FR 29054, Aug. 2, 1988, as amended at 61 FR 8477, Mar. 5, 1996; 63 FR 68918, Dec. 14, 1998; 64 FR 60718, Nov. 8, 1999; 67 FR 13219, Mar. 21, 2002; 69 FR 58097, Sept. 29, 2004]

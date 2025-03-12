@@ -1,0 +1,3 @@
+##### § 932.8 Minimum liquidity requirements. #####
+
+In addition to meeting the deposit liquidity requirements contained in § 965.3 of this chapter, each Bank shall hold contingency liquidity in an amount sufficient to enable the Bank to meet its liquidity needs, which shall, at a minimum, cover five business days of inability to access the consolidated obligation debt markets. An asset that has been pledged under a repurchase agreement cannot be used to satisfy minimum liquidity requirements.

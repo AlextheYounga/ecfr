@@ -1,0 +1,3 @@
+##### § 401.13 Test procedures for measurement. #####
+
+The test procedures for measurement which are prescribed at part 136 of this chapter shall apply to expressions of pollutant amounts, characteristics or properties in effluent limitations guidelines and standards of performance and pretreatment standards as set forth at parts 402 through 699 of this subchapter, unless otherwise specifically noted or defined in said parts.

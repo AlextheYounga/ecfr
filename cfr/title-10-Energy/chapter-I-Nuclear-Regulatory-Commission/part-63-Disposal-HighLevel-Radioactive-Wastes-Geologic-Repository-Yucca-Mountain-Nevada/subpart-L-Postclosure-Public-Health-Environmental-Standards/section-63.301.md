@@ -1,0 +1,3 @@
+##### § 63.301 Purpose and scope. #####
+
+This subpart covers the disposal of radioactive material in the Yucca Mountain repository by DOE. For the purposes of demonstrating compliance with this subpart, to the extent that there may be any conflict with the requirements specified in this subpart and the requirements contained in Subparts A-J of this part, including definitions, the requirements in this subpart shall take precedence.

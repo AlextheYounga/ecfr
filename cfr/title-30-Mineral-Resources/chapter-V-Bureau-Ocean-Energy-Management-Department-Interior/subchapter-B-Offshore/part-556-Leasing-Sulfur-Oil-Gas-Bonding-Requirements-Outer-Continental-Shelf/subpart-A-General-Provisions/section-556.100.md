@@ -1,0 +1,3 @@
+##### § 556.100 Statement of policy. #####
+
+The management of Outer Continental Shelf (OCS) resources is to be conducted in accordance with the findings, purposes, and policy directions provided by the Outer Continental Shelf Lands Act Amendments of 1978 (OCSLA or the Act) (43 U.S.C. 1332, 1801, 1802), and other executive, legislative, judicial and departmental guidance. The Secretary of the Interior (the Secretary) will consider available environmental information in making decisions affecting OCS resources.

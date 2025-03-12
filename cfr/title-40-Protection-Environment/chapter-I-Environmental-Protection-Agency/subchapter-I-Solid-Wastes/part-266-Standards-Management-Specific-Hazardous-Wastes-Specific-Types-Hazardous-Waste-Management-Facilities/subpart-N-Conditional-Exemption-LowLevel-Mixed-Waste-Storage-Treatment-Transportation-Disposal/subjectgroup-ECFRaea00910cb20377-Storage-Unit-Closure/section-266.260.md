@@ -1,0 +1,3 @@
+##### § 266.260 Do closure requirements apply to units that stored LLMW prior to the effective date of Subpart N? #####
+
+Interim status and permitted storage units that have been used to store only LLMW prior to the effective date of subpart N of this part and, after that date, store only LLMW which becomes exempt under this subpart N, are not subject to the closure requirements of 40 CFR parts 264 and 265. Storage units (or portions of units) that have been used to store both LLMW and non-mixed hazardous waste prior to the effective date of subpart N or are used to store both after that date remain subject to closure requirements with respect to the non-mixed hazardous waste.

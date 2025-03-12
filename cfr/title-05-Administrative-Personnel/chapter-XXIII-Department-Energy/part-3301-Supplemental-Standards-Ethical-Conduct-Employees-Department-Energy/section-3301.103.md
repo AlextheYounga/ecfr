@@ -1,0 +1,7 @@
+##### § 3301.103 Prior approval for outside employment. #####
+
+(a) *Prior approval requirement.* Before engaging in any outside employment, whether or not for compensation, an employee, other than a special Government employee, must obtain written approval of his immediate supervisor and the Counselor. Requests for approval shall include the name of the person, group or organization for whom the work is to be performed; the type of work to be performed; and the proposed hours of work and approximate dates of employment.
+
+(b) *Standard for approval.* Approval shall be granted unless there is a determination that the outside employment is expected to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635.
+
+(c) *Definition of employment.* For purposes of this section, “employment” means any form of non-Federal employment or business relationship involving the provision of personal services by the employee. It includes but is not limited to personal services as an officer, director, trustee, general partner, agent, attorney, consultant, contractor, employee, advisor, or teacher. It does not include participating in the activities of a nonprofit, charitable, religious, public service or civic organization, unless such activities involve the provision of professional services or are for compensation.

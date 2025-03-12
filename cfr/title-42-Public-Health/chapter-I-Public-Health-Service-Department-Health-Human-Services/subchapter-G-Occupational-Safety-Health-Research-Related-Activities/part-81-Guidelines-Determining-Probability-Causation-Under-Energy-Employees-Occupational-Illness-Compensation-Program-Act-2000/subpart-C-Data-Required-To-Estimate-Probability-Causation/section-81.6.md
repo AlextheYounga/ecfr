@@ -1,0 +1,3 @@
+##### § 81.6 Use of radiation dose information. #####
+
+Determining probability of causation will require the use of radiation dose information provided to DOL by the National Institute for Occupational Safety and Health (NIOSH) under HHS regulations 42 CFR part 82. This information will include annual dose estimates for each year in which a dose was incurred, together with uncertainty distributions associated with each dose estimate. Dose estimates will be distinguished by type of radiation (low linear energy transfer (LET), protons, neutrons, alpha, low-energy x-ray) and by dose rate (acute or chronic) for external and internal radiation dose.

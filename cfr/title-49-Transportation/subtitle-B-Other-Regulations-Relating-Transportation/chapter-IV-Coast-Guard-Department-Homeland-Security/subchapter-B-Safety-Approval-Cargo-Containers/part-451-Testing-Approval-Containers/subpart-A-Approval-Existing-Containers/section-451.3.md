@@ -1,0 +1,5 @@
+##### § 451.3 Action by Approval Authority. #####
+
+(a) The Approval Authority (or the Chief, Office of Operating and Environmental Standards (CG-OES), U.S. Coast Guard, if the application was submitted to the Coast Guard) issues to the owner a notice of approval or notifies the owner in writing that approval is denied, setting forth the deficiencies causing denial. Notification of approval entitles the owner to affix a safety approval plate to each container after an examination of each container concerned has been carried out in accordance with part 452 of this subchapter. In the case of an application submitted to the Coast Guard, the Chief, Office of Operating and Environmental Standards (CG-OES), U.S. Coast Guard acts on the application within 30 days of receipt of the application.
+
+[45 FR 37214, June 2, 1980, as amended at 47 FR 50496, Nov. 8, 1982; 69 FR 58352, Sept. 30, 2004]

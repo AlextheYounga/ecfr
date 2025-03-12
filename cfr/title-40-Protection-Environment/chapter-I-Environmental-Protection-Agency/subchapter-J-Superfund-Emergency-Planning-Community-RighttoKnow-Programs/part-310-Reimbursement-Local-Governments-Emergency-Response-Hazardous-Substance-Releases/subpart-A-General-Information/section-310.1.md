@@ -1,0 +1,3 @@
+##### § 310.1 What is the purpose of this part? #####
+
+This part sets up procedures for EPA to reimburse local governments for certain emergency response costs. Local governments may receive up to $25,000 to help lighten financial burdens related to emergency response to hazardous substance releases. This reimbursement does NOT replace funding that local governments normally provide for emergency response.

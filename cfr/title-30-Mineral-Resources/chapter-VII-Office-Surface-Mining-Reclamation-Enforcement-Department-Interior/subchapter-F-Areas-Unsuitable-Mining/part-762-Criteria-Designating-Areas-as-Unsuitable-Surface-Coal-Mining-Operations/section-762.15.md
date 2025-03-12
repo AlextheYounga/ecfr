@@ -1,0 +1,5 @@
+##### § 762.15 Exploration on land designated as unsuitable for surface coal mining operations. #####
+
+Designation of any area as unsuitable for all or certain types of surface coal mining operations pursuant to section 522 of the Act and regulations of this subchapter does not prohibit coal exploration operations in the area, if conducted in accordance with the Act, this chapter, any approved State or Federal program, and other applicable requirements. Exploration operations on any lands designated unsuitable for surface coal mining operations must be approved by the regulatory authority under part 772 of this chapter, to ensure that exploration does not interfere with any value for which the area has been designated unsuitable for surface coal mining.
+
+[48 FR 41350, Sept. 14, 1983. Redesignated at 64 FR 70837, Dec. 17, 1999]

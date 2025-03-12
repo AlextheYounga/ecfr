@@ -1,0 +1,3 @@
+##### § 68.1 Scope. #####
+
+This part sets forth the list of regulated substances and thresholds, the petition process for adding or deleting substances to the list of regulated substances, the requirements for owners or operators of stationary sources concerning the prevention of accidental releases, and the State accidental release prevention programs approved under section 112(r). The list of substances, threshold quantities, and accident prevention regulations promulgated under this part do not limit in any way the general duty provisions under section 112(r)(1).

@@ -1,0 +1,7 @@
+##### § 13.213 Extension of time. #####
+
+(a) *Oral requests.* The parties may agree to extend for a reasonable period the time for filing a document under this subpart. If the parties agree, the administrative law judge shall grant one extension of time to each party. The party seeking the extension of time shall submit a draft order to the administrative law judge to be signed by the administrative law judge and filed with the hearing docket clerk. The administrative law judge may grant additional oral requests for an extension of time where the parties agree to the extension.
+
+(b) *Written motion.* A party shall file a written motion for an extension of time with the administrative law judge not later than 7 days before the document is due unless good cause for the late filing is shown. A party filing a written motion for an extension of time shall serve a copy of the motion on each party. The administrative law judge may grant the extension of time if good cause for the extension is shown.
+
+(c) *Failure to rule.* If the administrative law judge fails to rule on a written motion for an extension of time by the date the document was due, the motion for an extension of time is deemed granted for no more than 20 days after the original date the document was to be filed.

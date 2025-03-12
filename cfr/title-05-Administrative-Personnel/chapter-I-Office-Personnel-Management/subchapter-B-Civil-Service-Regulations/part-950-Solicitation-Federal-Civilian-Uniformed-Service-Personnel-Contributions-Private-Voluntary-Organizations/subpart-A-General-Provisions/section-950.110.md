@@ -1,0 +1,3 @@
+##### § 950.110 CCA Prohibited discrimination. #####
+
+Discrimination for or against any individual or group on account of race, ethnicity, color, religion, sex (including pregnancy and gender identity), national origin, age, disability, sexual orientation, genetic information, or any other non-merit-based factor is prohibited in all aspects of the management and the execution of the CFC. Nothing herein denies eligibility to any organization, which is otherwise eligible under this part to participate in the CFC, merely because such organization is organized by, on behalf of, or to serve persons of a particular race, ethnicity, color, religion, sex, gender identity, national origin, age, disability, sexual orientation, or genetic background.

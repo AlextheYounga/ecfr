@@ -1,0 +1,9 @@
+##### § 255.1 Scope and purpose. #####
+
+(a) These guidelines are applicable to policies, procedures, and criteria for the identification of those areas which have common solid waste management problems and which are appropriate units for planning regional solid waste management services pursuant to section 4002(a) of the Solid Waste Disposal Act, as amended by the Resource Conservation and Recovery Act of 1976 (the Act). The guidelines also define and guide the identification of which functions will be carried out by which agencies pursuant to section 4006 of the Act.
+
+(b) The purposes of these guidelines are to (1) provide useful criteria for selecting the regions and agencies to be identified pursuant to section 4006 of the Act and (2) provide guidance for conducting the process which will result in formal identification of those regions and agencies.
+
+(c) Identifications made pursuant to these guidelines should be consistent with State solid waste management plans and strategies. A State strategy establishes: Goals for prevention of adverse effects on the environment resulting from improper solid waste disposal including protection of surface and ground water quality, air quality and the land; priorities among waste types; priorities among disposal practices; and the roles of existing agencies with responsibilities in solid waste management. The identification process should cover all waste types (residential and commercial solid waste, hazardous wastes, industrial sludges and pretreatment residues, municipal sewage sludge, air pollution control residue, septage, mining and agricultural waste, other industrial waste, and solid waste from community activities), all disposal practices (impoundments, pits, ponds, lagoons, landfills, dumps, land-spreading, and industrial leaching fields) and all technological approaches (conservation, recovery, incineration, disposal).
+
+(Also sec. 4002(a), Pub. L. 94-580, 90 Stat. 2795 (42 U.S.C. 6942))

@@ -1,0 +1,3 @@
+##### § 1.71 Key responsibilities. #####
+
+The Inspector General conducts, supervises, and coordinates audits and investigations; reviews existing and proposed legislation and makes recommendations to the Secretary and Congress concerning their effect on the economy and efficiency of program administration, or the prevention and detection of fraud and abuse; recommends policies for and conducts, supervises, or coordinates other activities of the Department for the purpose of promoting economy and efficiency in program administration, or preventing and detecting fraud and abuse; and keeps the Secretary and the Congress fully and currently informed.

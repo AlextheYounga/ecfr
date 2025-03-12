@@ -1,0 +1,5 @@
+##### 48.202 Clause for construction contracts. #####
+
+The contracting officer shall insert the clause at 52.248-3, Value Engineering—Construction, in construction solicitations and contracts when the contract amount is estimated to exceed the simplified acquisition threshold, unless an incentive contract is contemplated. The contracting officer may include the clause in contracts of lesser value if the contracting officer sees a potential for significant savings. The contracting officer shall not include the clause in incentive-type construction contracts. If the head of the contracting activity determines that the cost of computing and tracking collateral savings for a contract will exceed the benefits to be derived, the contracting officer shall use the clause with its *Alternate I.*
+
+[48 FR 42443, Sept. 19, 1983, as amended at 71 FR 57368, Sept. 28, 2006]

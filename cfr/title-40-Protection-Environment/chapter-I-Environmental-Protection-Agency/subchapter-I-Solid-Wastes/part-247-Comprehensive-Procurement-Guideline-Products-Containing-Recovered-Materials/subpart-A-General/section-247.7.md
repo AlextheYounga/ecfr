@@ -1,0 +1,3 @@
+##### § 247.7 Effective date. #####
+
+Within one year after the date of publication of any item designation, procuring agencies which purchase that designated item must comply with the following requirements of RCRA: affirmative procurement of the designated item (6002(c)(1) and (i)), specifications revision (6002(d)(2)), vendor certification and estimation of recovered materials content of the item (6002(c)(3) and (i)(2)(C)), and verification of vendor estimates and certifications (6002(i)(2)C)).

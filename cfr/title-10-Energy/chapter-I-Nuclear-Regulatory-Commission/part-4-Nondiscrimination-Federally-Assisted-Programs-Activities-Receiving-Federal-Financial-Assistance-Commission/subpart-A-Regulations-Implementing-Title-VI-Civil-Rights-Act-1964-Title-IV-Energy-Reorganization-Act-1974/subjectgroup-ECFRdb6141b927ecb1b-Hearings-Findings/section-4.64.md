@@ -1,0 +1,5 @@
+##### § 4.64 Consolidated or joint hearings. #####
+
+In cases in which the same or related facts are asserted to constitute noncompliance with this subpart with respect to two or more Federal statutes, authorities, or other means by which Federal financial assistance is extended and to which this subpart applies or noncompliance with this subpart and the regulations of one or more other Federal departments or agencies issued under title VI of the Civil Rights Act of 1964, the Commission may, by agreement with such other departments or agencies, where applicable, provide for the conduct of consolidated or joint hearings, and for the application to such hearings of rules of procedure not inconsistent with this subpart. Final decisions in such cases, insofar as this regulation is concerned shall be made in accordance with § 4.72.
+
+[29 FR 19277, Dec. 31, 1964, as amended at 40 FR 8778, Mar. 3, 1975; 68 FR 51344, Aug. 26, 2003]

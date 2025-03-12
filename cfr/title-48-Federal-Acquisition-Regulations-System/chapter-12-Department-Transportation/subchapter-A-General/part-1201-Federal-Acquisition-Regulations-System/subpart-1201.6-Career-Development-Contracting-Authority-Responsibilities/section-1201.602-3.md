@@ -1,0 +1,3 @@
+##### 1201.602-3 Ratification of unauthorized commitments. #####
+
+(b) *Policy.* DOT policy requires that all procurement decisions shall be made only by Government officials having authority to carry out such acquisitions. Procurement decisions made by other than authorized personnel are contrary to Departmental policy and may be considered matters of serious misconduct on the part of the employee making an unauthorized commitment. Disciplinary action against an employee who makes an unauthorized commitment may be considered.

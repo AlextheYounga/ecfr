@@ -1,0 +1,3 @@
+##### § 2641.106 Applicability of certain provisions to Vice President. #####
+
+Subsections 207(d) (relating to restrictions on very senior personnel) and 207(f) (restrictions with regard to foreign entities) of title 18, United States Code, apply to a Vice President, to the same extent as they apply to employees and former employees covered by those provisions. *See* §§ 2641.205 and 2641.206. There are no other restrictions in 18 U.S.C. 207 applicable to a Vice President.

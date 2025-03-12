@@ -1,0 +1,7 @@
+##### § 430.103 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT). #####
+
+(a) Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best conventional pollutant control technology (BCT): The limitations shall be the same as those specified for conventional pollutants (which are defined in 40 CFR 401.16) in § 430.102 of this subpart for the best practicable control technology currently available (BPT).
+
+(b) For secondary fiber non-deink facilities where paperboard from wastepaper is produced, non-continuous dischargers shall not be subject to the maximum day and average-of-30-consecutive-days limitations, but shall be subject to annual average effluent limitations determined by dividing the average-of-30-consecutive-days limitations for BOD5 and TSS by 1.77 and 2.18.
+
+(c) For secondary fiber non-deink facilities where builders' paper and roofing felt from wastepaper are produced, non-continuous dischargers shall not be subject to the maximum day and average-of-30-consecutive-days limitations, but shall be subject to annual average effluent limitations determined by dividing the average-of-30-consecutive-days limitations for BOD5 and TSS by 1.90 and 1.90.

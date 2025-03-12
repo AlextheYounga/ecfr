@@ -1,0 +1,5 @@
+##### § 230.44 Coral reefs. #####
+
+(a) Coral reefs consist of the skeletal deposit, usually of calcareous or silicaceous materials, produced by the vital activities of anthozoan polyps or other invertebrate organisms present in growing portions of the reef.
+
+(b) Possible loss of values: The discharge of dredged or fill material can adversely affect colonies of reef building organisms by burying them, by releasing contaminants such as hydrocarbons into the water column, by reducing light penetration through the water, and by increasing the level of suspended particulates. Coral organisms are extremely sensitive to even slight reductions in light penetration or increases in suspended particulates. These adverse effects will cause a loss of productive colonies which in turn provide habitat for many species of highly specialized aquatic organisms.

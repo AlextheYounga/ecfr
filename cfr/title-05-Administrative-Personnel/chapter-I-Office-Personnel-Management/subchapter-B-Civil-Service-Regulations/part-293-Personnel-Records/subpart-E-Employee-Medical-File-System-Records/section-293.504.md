@@ -1,0 +1,11 @@
+##### § 293.504 Composition of, and access to, the Employee Medical File System. #####
+
+(a) All employee occupational medical records (which exclude employee assistance/counseling, patient, non-personal, and epidemiological records) whether they are maintained in an automated, microform, or paper mode, and wherever located in the agency, are part of the EMFS. The records maintained in the EMFS are part of a Governmentwide Privacy Act system of records established by the Office. Agencies have the responsibility to ensure that such documents are maintained in accordance with the Office's Privacy Act regulations in part 297 of this chapter, with the agency's instructions implementing those regulations, and with the retention schedule for employee medical records stipulated in § 293.511. While non-occupational/patient records pertaining to an employee are not required to be included as a record within the EMFS, under certain conditions to be discussed in subsequent OPM guidance, copies of such records are occupationally-related and, in those cases, may be included in the system.
+
+(b) Agencies must provide employees access to their own EMFS records consistent with Office regulations contained in § 297.204(c) of this chapter. When unexcepted access can be provided directly to the employee, such unexcepted access must also be provided to any representative specifically designated in writing by the employee to receive the record. Disclosure of an employee's occupational medical records to agency officials (both medical and non-medical) will be granted only when the specific information sought is needed for the performance of official duties.
+
+(c) Other agencies for employee occupational medical records made to the custodian of the records must be processed in accordance with the disclosure provisions of the Privacy Act (5 U.S.C. 552a(b)) and the Office's regulations at part 297 of this chapter.
+
+(d) Processing of a Privacy Act request for amendment of any EMFS record must be consistent with the Office's regulations contained in part 297 of this chapter regarding amendment of records.
+
+[51 FR 33235, Sept. 19, 1986, as amended at 66 FR 66709, Dec. 27, 2001]

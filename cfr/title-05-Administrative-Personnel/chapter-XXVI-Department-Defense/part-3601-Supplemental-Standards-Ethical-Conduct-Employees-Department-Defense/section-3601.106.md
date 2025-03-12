@@ -1,0 +1,3 @@
+##### § 3601.106 Limitation on solicited sales. #####
+
+A DoD employee shall not knowingly solicit or make solicited sales to DoD personnel who are junior in rank, grade or position, or to the family members of such personnel, on or off duty. In the absence of coercion or intimidation, this does not prohibit the sale or lease of a DoD employee's noncommercial personal or real property or commercial sales solicited and made in a retail establishment during off-duty employment. The posting of an advertisement in accordance with Federal building management policies does not constitute solicitation for purposes of this section.

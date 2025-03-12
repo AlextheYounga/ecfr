@@ -1,0 +1,3 @@
+##### § 46.155 Submission of applications. #####
+
+The request for applications or program announcement will advise you how to file an application and what information you must include. You must submit applications for fellowships on EPA's “Fellowship Application” (EPA Form 5770-2) or in any other form EPA designates. EPA will provide instructions for completing the application. You must submit the original and two copies of the application unless the instructions require otherwise. Alternatively, EPA may allow you to submit applications electronically. It is also likely that EPA will require you to submit undergraduate and graduate transcripts to the office identified in the request for applications or program announcement.

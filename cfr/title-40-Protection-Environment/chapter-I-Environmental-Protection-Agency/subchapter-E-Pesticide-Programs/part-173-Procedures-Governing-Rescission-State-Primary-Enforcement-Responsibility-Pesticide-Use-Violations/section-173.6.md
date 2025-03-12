@@ -1,0 +1,9 @@
+##### § 173.6 Publication of the notice; scheduling the hearing. #####
+
+(a) If the Administrator has not issued an order terminating the rescission proceeding within sixty (60) days after service of the notice of intent to rescind upon the State, the Administrator shall publish the notice of intent to rescind in the Federal Register. The Administrator may modify the original notice of intent to rescind before its publication by deleting those deficiencies listed in the original notice which have been corrected or which were shown not to have existed. The public may submit comments upon the matters specified in the published notice of intent to rescind within the time specified therein.
+
+(b) Concurrently with the publication of the notice of intent to rescind, the Administrator shall schedule a hearing in the State if one has been requested by the State. The date, time, and location of the hearing shall be published in the Federal Register along with the notice of intent to rescind.
+
+(c) If a hearing is requested and the Administrator has not issued an order terminating the rescission proceeding, the Administrator shall provide for a hearing as scheduled. Representatives of the State, EPA, and the public may present evidence at the hearing. The Administrator shall appoint a Presiding Officer who shall preside over the hearing and make a recommended decision regarding the adequacy of the State's pesticide use enforcement program. The Administrator, after consultation with the State, may prescribe additional procedures governing the conduct of the hearing.
+
+(d) If a termination order is issued or the hearing is rescheduled after the notice of intent to rescind is published in the Federal Register, such order or notice rescheduling the hearing shall also be published in the Federal Register.

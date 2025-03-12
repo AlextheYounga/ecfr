@@ -1,0 +1,5 @@
+##### § 202.21 Purpose and scope. #####
+
+(a) This subpart sets forth the procedures to be followed when a subpoena, order, or other demand (hereinafter referred to as a “demand”) of a court or other authority is issued for the production or disclosure of (1) any material contained in the files of the Department of Energy (DOE), (2) any information relating to material contained in the files of the DOE, or (3) any information or material acquired by any person while such person was an employee of the DOE as a part of the performance of his official duties or because of his official status.
+
+(b) For purposes of this subpart, the term “Employee of the DOE” includes all officers and employees of the United States appointed by, or subject to the supervision, jurisdiction, or control of, the Administrator of DOE.

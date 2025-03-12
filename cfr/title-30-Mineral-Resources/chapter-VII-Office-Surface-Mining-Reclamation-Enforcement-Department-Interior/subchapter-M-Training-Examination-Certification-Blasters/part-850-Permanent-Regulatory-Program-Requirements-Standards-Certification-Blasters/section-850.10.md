@@ -1,0 +1,3 @@
+##### § 850.10 Information collection. #####
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0080. The information is being collected to meet the requirements of sections 503, 515, and 719 of Pub. L. 95-87. This information will be used by the regulatory authority to assist in implementing the blaster certification program. The obligation to respond is mandatory.

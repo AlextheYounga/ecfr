@@ -1,0 +1,3 @@
+##### § 433.7 Environmental. #####
+
+An applicant shall provide the FAA with information for the FAA to analyze the environmental impacts associated with proposed operation of a reentry site. The information provided by an applicant must be sufficient to enable the FAA to comply with the requirements of the National Environmental Policy Act, 42 U.S.C. 4321 *et seq.* (NEPA), the Council on Environmental Quality Regulations for Implementing the Procedural Provisions of NEPA, 40 CFR Parts 1500-1508, and the FAA's Procedures for Consideration Environmental Impacts, FAA Order 1050.1D.

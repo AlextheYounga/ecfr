@@ -1,0 +1,5 @@
+##### § 2429.17 Reconsideration. #####
+
+After a final decision or order of the Authority has been issued, a party to the proceeding before the Authority who can establish in its moving papers extraordinary circumstances for so doing, may move for reconsideration of such final decision or order. The motion shall be filed within ten (10) days after service of the Authority's decision or order. A motion for reconsideration shall state with particularity the extraordinary circumstances claimed and shall be supported by appropriate citations. The filing and pendency of a motion under this provision shall not operate to stay the effectiveness of the action of the Authority, unless so ordered by the Authority. A motion for reconsideration need not be filed in order to exhaust administrative remedies.
+
+[46 FR 40675, Aug. 11, 1981]

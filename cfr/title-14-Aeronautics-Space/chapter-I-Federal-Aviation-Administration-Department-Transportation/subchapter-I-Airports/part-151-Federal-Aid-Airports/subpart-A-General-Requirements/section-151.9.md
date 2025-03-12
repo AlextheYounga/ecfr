@@ -1,0 +1,9 @@
+##### § 151.9 Runway clear zones: General. #####
+
+(a) Whenever funds are allocated for developing new runways or landing strips, or to improve or repair existing runways, the sponsor must own, acquire, or agree to acquire, runway clear zones. Exceptions are considered (on the basis of a full statement of facts by the sponsor) upon a showing of uneconomical acquisition costs, or lack of necessity for the acquisition.
+
+(b) For the purpose of this part, a runway clear zone is an area at ground level which begins at the end of each primary surface defined in § 77.27(a) and extends with the width of each approach surface defined in § 77.27 (b) and (c), to terminate directly below each approach surface slope at the point, or points, where the slope reaches a height of 50 feet above the elevation of the runway or 50 feet above the terrain at the outer extremity of the clear zone, whichever distance is shorter.
+
+(c) For the purposes of this section, an airport operator or owner is considered to have an adequate property interest if it has an easement (or a covenant running with the land) giving it enough control to rid the clear zone of all obstructions (objects so far as they project above the approach surfaces established by § 77.27 (b) and (c) of part 77 of this chapter), and to prevent the creation of future obstructions; together with the right of entrance and exit for those purposes, to ensure the safe and unrestricted passage of aircraft in and over the area.
+
+[Doc. No. 1329, 27 FR 12349, Dec. 13, 1962, as amended by Amdt. 151-7, 30 FR 7484, June 8, 1965; Amdt. 151-21, 33 FR 258, Jan. 9, 1968]

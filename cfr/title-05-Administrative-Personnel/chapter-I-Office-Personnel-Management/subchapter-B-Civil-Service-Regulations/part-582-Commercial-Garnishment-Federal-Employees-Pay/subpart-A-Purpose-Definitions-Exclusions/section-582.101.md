@@ -1,0 +1,3 @@
+##### § 582.101 Purpose. #####
+
+Section 5520a of title 5 of the United States Code provides that with certain exceptions set forth in this part, pay from an agency to an employee is subject to legal process in the same manner and to the same extent as if the agency were a private person. The purpose of this part is to implement the objectives of section 5520a as they pertain to each executive agency of the United States Government, except with regard to employees of the United States Postal Service, the Postal Rate Commission, and the General Accounting Office.

@@ -1,0 +1,3 @@
+##### § 615.5361 Relation to other administrative actions. #####
+
+A capital directive may be issued in addition to, or in lieu of, any other action authorized by law, including cease and desist proceedings, civil money penalties, or the conditioning or denial of applications. The Farm Credit Administration also may, in its discretion, take any action authorized by law, in lieu of a capital directive, in response to an institution's failure to achieve or maintain the applicable minimum capital ratios.

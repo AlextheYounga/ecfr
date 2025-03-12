@@ -1,0 +1,3 @@
+##### § 1402.25 Interest. #####
+
+The Farm Credit System Insurance Corporation may begin charging interest on unpaid fees, starting on the 31st day following the day on which the bill for such fees was sent. Interest will not accrue if payment of the fees has been received by the Farm Credit System Insurance Corporation, even if said payment has not been processed. Interest will accrue at the rate prescribed in section 3717 of title 31, United States Code, and will accrue from the day on which the bill for such fees was sent.

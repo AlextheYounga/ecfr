@@ -1,0 +1,3 @@
+##### § 724.301 Purpose and scope. #####
+
+This subpart implements Title II of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 concerning the obligation of Federal agencies to report on specific topics concerning Federal Antidiscrimination Laws and Whistleblower Protection Laws applicable to them covering employees, former employees, and applicants for Federal employment.

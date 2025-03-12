@@ -1,0 +1,3 @@
+##### § 1402.27 Aggregating requests. #####
+
+A requester may not file multiple requests at the same time, each seeking portions of a document or documents, solely in order to avoid payment of fees. When the Farm Credit System Insurance Corporation reasonably believes that a requester, or a group of requesters acting in concert, is attempting to break a request down into a series of requests for the purpose of evading the assessment of fees, the Farm Credit System Insurance Corporation may aggregate any such requests and charge accordingly. One element to be considered in determining whether a belief would be reasonable is the time period over which the requests have occurred.

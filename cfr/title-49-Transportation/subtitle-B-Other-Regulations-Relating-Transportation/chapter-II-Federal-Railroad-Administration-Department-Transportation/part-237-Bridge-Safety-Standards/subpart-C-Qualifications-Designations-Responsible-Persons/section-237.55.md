@@ -1,0 +1,3 @@
+##### § 237.55 Railroad bridge supervisors. #####
+
+A railroad bridge supervisor shall be a person, regardless of position title, who is determined by the track owner to be technically competent to supervise the construction, modification or repair of a railroad bridge in conformance with common or particular specifications, plans and instructions applicable to the work to be performed, and to authorize or restrict the operation of railroad traffic over a bridge according to its immediate condition or state of repair.

@@ -1,0 +1,5 @@
+##### § 234.3 Applicability. #####
+
+For air transportation taking place before January 1, 2018, this part applies to reportable flights as defined in § 234.2 that are held out to the public by certificated air carriers that account for at least 1 percent of domestic scheduled passenger revenues. As stated in § 234.7, certain provisions also apply to voluntary reporting of on-time performance by carriers. For air transportation taking place on or after January 1, 2018, this part applies to reportable flights as defined in § 234.2 that are held out to the public by certificated air carriers that account for at least 0.5 percent of domestic scheduled passenger revenues. As stated in § 234.7, certain provisions also apply to voluntary reporting of on-time performance by carriers.
+
+[Dockt. No. DOT-OST-2014-0056, 81 FR 76826, Nov. 3, 2016]

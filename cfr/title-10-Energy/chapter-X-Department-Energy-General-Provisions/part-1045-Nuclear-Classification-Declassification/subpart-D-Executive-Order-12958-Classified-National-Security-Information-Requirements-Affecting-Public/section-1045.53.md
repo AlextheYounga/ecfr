@@ -1,0 +1,17 @@
+##### § 1045.53 Appeal of denial of mandatory declassification review requests. #####
+
+(a) If the Department has reviewed the information within the past 2 years, the request may not be processed. If the information is the subject of pending litigation, the processing of the request may be delayed pending completion of the litigation. The Department shall inform the requester of this fact and of the requester's appeal rights.
+
+(b) When the Director of Classification has denied a request for review of NSI, the requester may, within 30 calendar days of its receipt, appeal the determination to the Director of Security Affairs.
+
+(c) *Elements of appeal.* The appeal shall be in writing and addressed to the Chief Health, Safety and Security Officer, HS-1/Forrestal Building, Department of Energy, 1000 Independence Avenue SW, Washington, DC 20585. The appeal shall contain a concise statement of grounds upon which it is brought and a description of the relief sought. It should also include a discussion of all relevant authorities which include, but are not limited to DOE (and predecessor agencies) rulings, regulations, interpretations, and decisions on appeals, and any judicial determinations being relied upon to support the appeal. A copy of the letter containing the determination being appealed shall be submitted with the appeal.
+
+(d) *Receipt of appeal.* An appeal shall be considered to be received upon receipt by the Chief Health, Safety and Security Officer.
+
+(e) *Action within 60 working days.* The appeal authority shall act upon the appeal within 60 working days of its receipt. If no determination on the appeal has been issued at the end of the 60-day period, the requester may consider his or her administrative remedies to be exhausted and may seek a review by the Interagency Security Classification Appeals Panel (ISCAP). When no determination can be issued within the applicable time limit, the appeal shall nevertheless continue to be processed. On expiration of the time limit, DOE shall inform the requester of the reason for the delay, of the date on which a determination may be expected to be issued, and of his or her right to seek further review by the ISCAP. Nothing in this subpart shall preclude the appeal authority and the requester from agreeing to an extension of time for the decision on an appeal. The Chief Health, Safety and Security Officer shall confirm any such agreement in writing and shall clearly specify the total time agreed upon for the appeal decision.
+
+(f) *Form of action on appeal.* The Chief Health, Safety and Security Officer's action on an appeal shall be in writing and shall set forth the reason for the decision. The Department may refuse to confirm or deny the existence or nonexistence of requested information whenever the fact of its existence or nonexistence is itself classified under E.O. 12958.
+
+(g) *Right of final appeal.* The requester has the right to appeal a final Department decision or a failure to provide a determination on an appeal within the allotted time to the ISCAP for those appeals dealing with NSI. In cases where NSI documents also contain RD and FRD, the RD and FRD portions of the document shall be deleted prior to forwarding the NSI and unclassified portions to the ISCAP for review.
+
+[62 FR 68509, Dec. 31, 1997, as amended at 71 FR 68737, Nov. 28, 2006]

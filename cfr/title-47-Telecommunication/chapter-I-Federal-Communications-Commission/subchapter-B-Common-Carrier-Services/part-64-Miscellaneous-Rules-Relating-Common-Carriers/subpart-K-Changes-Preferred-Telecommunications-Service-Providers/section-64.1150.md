@@ -1,0 +1,13 @@
+##### § 64.1150 Procedures for resolution of unauthorized changes in preferred carrier. #####
+
+(a) *Notification of alleged unauthorized carrier change.* Executing carriers who are informed of an unauthorized carrier change by a subscriber must immediately notify both the authorized and allegedly unauthorized carrier of the incident. This notification must include the identity of both carriers.
+
+(b) *Referral of complaint.* Any carrier, executing, authorized, or allegedly unauthorized, that is informed by a subscriber or an executing carrier of an unauthorized carrier change shall direct that subscriber either to the state commission or, where the state commission has not opted to administer these rules, to the Federal Communications Commission's Consumer & Governmental Affairs Bureau, for resolution of the complaint. Carriers shall also inform the subscriber that he or she may contact and seek resolution from the alleged unauthorized carrier and, in addition, may contact the authorized carrier.
+
+(c) *Notification of receipt of complaint.* Upon receipt of an unauthorized carrier change complaint, the relevant governmental agency will notify the allegedly unauthorized carrier of the complaint and order that the carrier remove all unpaid charges for the first 30 days after the slam from the subscriber's bill pending a determination of whether an unauthorized change, as defined by § 64.1100(e), has occurred, if it has not already done so.
+
+(d) *Proof of verification.* Not more than 30 days after notification of the complaint, or such lesser time as is required by the state commission if a matter is brought before a state commission, the alleged unauthorized carrier shall provide to the relevant government agency a copy of any valid proof of verification of the carrier change. This proof of verification must contain clear and convincing evidence of a valid authorized carrier change, as that term is defined in §§ 64.1120 through 64.1130. The relevant governmental agency will determine whether an unauthorized change, as defined by § 64.1100(e), has occurred using such proof and any evidence supplied by the subscriber. Failure by the carrier to respond or provide proof of verification will be presumed to be clear and convincing evidence of a violation.
+
+(e) *Election of forum.* The Federal Communications Commission will not adjudicate a complaint filed pursuant to § 1.719 or §§ 1.720 through 1.736 of this chapter, involving an alleged unauthorized change, as defined by § 64.1100(e), while a complaint based on the same set of facts is pending with a state commission.
+
+[65 FR 47692, Aug. 3, 2000, as amended at 68 FR 19159, Apr. 18, 2003; 73 FR 13149, Mar. 12, 2008]

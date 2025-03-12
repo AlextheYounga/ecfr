@@ -1,0 +1,3 @@
+##### § 137.304 May Self-Governance Tribes buy back environmental services from the IHS? #####
+
+Yes, Self-Governance Tribes may “buy back” project related services in their construction project agreement, including design and construction engineering, and environmental compliance services from the IHS in accordance with Section 508(f) of the Act [25 U.S.C. 458aaa-7(f)] and § 137.95, subject to the availability of the IHS's capacity to conduct the work.

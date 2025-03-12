@@ -1,0 +1,5 @@
+##### § 700.10 Information collection. #####
+
+The collection of information, and recordkeeping requirements, contained in 30 CFR 700.11(d), 700.12(b) and 700.13 has approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1029-0094. The information collected in § 700.11(d) is used by OSMRE and States to establish standards for determining when a mine site is no longer a surface coal mining and reclamation operation and thereby when regulatory jurisdiction may end. The information collection under § 700.12(b) is used by OSMRE to consider need, costs, and benefits of a proposed regulatory change in order to grant or deny a petition that has been submitted. Information collected in § 700.13 identifies the person and nature of a citizen's suit, so that OSMRE or a state can respond appropriately.
+
+[53 FR 44363, Nov. 2, 1988]

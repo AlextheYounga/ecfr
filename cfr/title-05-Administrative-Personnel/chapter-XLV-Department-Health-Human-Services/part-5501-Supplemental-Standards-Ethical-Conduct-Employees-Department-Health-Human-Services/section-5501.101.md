@@ -1,0 +1,13 @@
+##### § 5501.101 General. #####
+
+(a) *Purpose.* The regulations in this part apply to employees of the Department of Health and Human Services (HHS) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to 5 CFR part 2635 and this part, employees are required to comply with implementing guidance and procedures issued by HHS components in accordance with 5 CFR 2635.105(c). Employees are also subject to the executive branch-wide financial disclosure regulations at 5 CFR part 2634, the Employee Responsibilities and Conduct regulations at 5 CFR part 735, and the HHS regulations regarding conduct at 45 CFR part 73.
+
+(b) *Applicability.* The regulations in this part apply to individuals who are “employees” within the meaning of 5 CFR 2635.102(h). The regulations thus apply to special Government employees, except to the extent they are specifically excluded from certain provisions, and to uniformed service officers in the Public Health Service Commissioned Corps on active duty.
+
+(c) *Definitions.* Unless a term is otherwise defined in this part, the definitions set forth in 5 CFR parts 2635 and 2640 apply to terms in this part. In addition, for purposes of this part:
+
+(1) *Federally recognized Indian tribe or Alaska Native village or regional or village corporation* means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, 43 U.S.C. 1601 *et seq.,* which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+(2) *Significantly regulated organization* means an organization for which the sales of products regulated by the Food and Drug Administration (FDA) constitute ten percent or more of annual gross sales in the organization's previous fiscal year; where an organization does not have a record of sales of FDA-regulated products, it will be deemed to be significantly regulated if its operations are predominately in fields regulated by FDA, or if its research, development, or other business activities are reasonably expected to result in the development of products that are regulated by FDA.
+
+[61 FR 39763, July 30, 1996, as amended at 70 FR 5558, Feb. 3, 2005; 70 FR 51568, Aug. 31, 2005]

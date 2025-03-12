@@ -1,0 +1,13 @@
+##### § 173.66 Requirements for bulk packagings of certain explosives and oxidizers. #####
+
+When § 172.101 of this subchapter specifies that a hazardous material may be transported in accordance with this section (per special provision 148 in § 172.102(c)(1)), only the bulk packagings specified for these materials in IME Standard 23 (IBR, see § 171.7 of this subchapter) are authorized, subject to the requirements of subparts A and B of this part and the special provisions in column 7 of the § 172.101 table. See Section I of IME Standard 23 for the standards for transporting a single bulk hazardous material for blasting by cargo tank motor vehicles (CTMV), and Section II of IME Standard 23 for the standards for CTMVs capable of transporting multiple hazardous materials for blasting in bulk and non-bulk packagings (*i.e.,* a multipurpose bulk truck (MBT) authorized to transport the Class 1 (explosive) materials, Division 5.1 (oxidizing) materials, Class 8 (corrosive) materials, and Combustible Liquid, n.o.s., NA1993, III, as specified in IME Standard 23 (also see § 177.835(d) of this subchapter)). In addition, the requirements in paragraph (a) of this section apply to: A new multipurpose bulk truck constructed after April 19, 2016; and a modified existing multipurpose bulk truck after April 19, 2016 (see § 173.66(b) regarding the term *modified*).
+
+(a) *Federal Motor Vehicle Safety Standard (FMVSS).* Multipurpose bulk trucks must be in compliance with the FMVSS found in 49 CFR part 571, as applicable. Furthermore, the multipurpose bulk truck manufacturer must maintain a certification record ensuring the final manufacturing is in compliance with the FMVSS, in accordance with the certification requirements found in 49 CFR part 567. These certification records must be made available to DOT representatives upon request.
+
+(b) *Modified.* The term *modified* means any change to the original design and construction of a multipurpose bulk truck (MBT) that affects its structural integrity or lading retention capability, (*e.g.* rechassising, etc.). Excluded from this category are the following:
+
+(1) A change to the MBT equipment such as lights, truck or tractor power train components, steering and brake systems, and suspension parts, and changes to appurtenances, such as fender attachments, lighting brackets, ladder brackets; and
+
+(2) Replacement of components such as valves, vents, and fittings with a component of a similar design and of the same size.
+
+[80 FR 79453, Dec. 21, 2015]

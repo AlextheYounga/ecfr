@@ -1,0 +1,7 @@
+##### § 164.90 Initial decision. #####
+
+(a) *Proposed findings of fact, conclusions, and order.* Within 20 days after the last evidence is taken in a hearing, each party may file with the hearing clerk proposed orders, findings of fact, and conclusions of law based solely on the record, and a brief in support thereof. Within 10 days thereafter, each party may file a reply brief. The Administrative Law Judge may, in his discretion, extend the total time period for filing any proposed findings, conclusions, orders or briefs for an additional 30 days. In such instances, briefs and replies shall be due at such time as the Administrative Law Judge may fix by order. The hearing shall be deemed closed at the conclusion of the briefing period.
+
+(b) *Initial decision.* The Administrative Law Judge, within 25 days after the close of the hearing, shall evaluate the record before him, and prepare and file his initial decision with the hearing clerk. A copy of the initial decision shall be served upon each of the parties, and the hearing clerk shall immediately transmit a copy to the Environmental Appeals Board. The initial decision shall become the decision of the Environmental Appeals Board without further proceedings unless an appeal is taken from it or the Environmental Appeals Board orders review of it, pursuant to § 164.101.
+
+[38 FR 19371, July 20, 1973, as amended at 57 FR 5343, Feb. 13, 1992]

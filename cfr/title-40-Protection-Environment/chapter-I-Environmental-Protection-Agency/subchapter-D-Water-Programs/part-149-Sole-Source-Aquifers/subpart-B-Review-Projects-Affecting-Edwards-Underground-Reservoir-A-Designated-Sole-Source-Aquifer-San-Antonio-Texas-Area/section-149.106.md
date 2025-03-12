@@ -1,0 +1,5 @@
+##### § 149.106 Notice of review. #####
+
+(a) *Notice to Federal agency.* If the Regional Administrator decides upon receipt of a public petition or upon his own motion to review a project under section 1424(e), he shall give written notification of the decision to the Federal agency from which financial assistance is sought. The notification shall include a description and identification of the project.
+
+(b) *Notice to public.* When the Regional Administrator undertakes to review a project pursuant to § 149.13 above, he shall provide public notice of project review by such means as he deems appropriate. The notice shall set forth the availability for public review of all data and information available, and shall solicit comments, data and information with respect to the determination of impact under section 1424(e). The period for public comment shall be 30 days after public notice unless the Regional Administrator extends the period at his discretion or a public hearing is held under § 149.16.

@@ -1,0 +1,5 @@
+##### § 305.25 Informal settlement; voluntary agreement. #####
+
+(a) *Settlement policy.* The Agency encourages settlement of a proceeding at any time if the settlement is consistent with the provisions and objectives of the Act and applicable regulations. Settlement conferences shall not affect the Claims Official's obligation to file a timely answer under § 305.22.
+
+(b) *Voluntary agreement.* The voluntary agreement shall state that, for the purpose of this proceeding, the Claims Official consents to the award of a sum certain to the Requestor or in the case of no award, that both parties agree to settle the matter. The voluntary agreement shall include an order acceptable to both the Requestor and EPA, and shall be signed by all parties or their counsel or representatives. A voluntary agreement is effective without approval of the Presiding Officer and is a final order as defined in this part.

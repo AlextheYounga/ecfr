@@ -1,0 +1,7 @@
+##### § 135.387 Large transport category airplanes: Turbine engine powered: Landing limitations: Alternate airports. #####
+
+(a) Except as provided in paragraph (b) of this section, no person may select an airport as an alternate airport for a turbine engine powered large transport category airplane unless (based on the assumptions in § 135.385(b)) that airplane, at the weight expected at the time of arrival, can be brought to a full stop landing within 70 percent of the effective length of the runway for turbo-propeller-powered airplanes and 60 percent of the effective length of the runway for turbojet airplanes, from a point 50 feet above the intersection of the obstruction clearance plane and the runway.
+
+(b) Eligible on-demand operators may select an airport as an alternate airport for a turbine engine powered large transport category airplane if (based on the assumptions in § 135.385(f)) that airplane, at the weight expected at the time of arrival, can be brought to a full stop landing within 80 percent of the effective length of the runway from a point 50 feet above the intersection of the obstruction clearance plane and the runway.
+
+[Doc. No. FAA-2001-10047, 68 FR 54588, Sept. 17, 2003]

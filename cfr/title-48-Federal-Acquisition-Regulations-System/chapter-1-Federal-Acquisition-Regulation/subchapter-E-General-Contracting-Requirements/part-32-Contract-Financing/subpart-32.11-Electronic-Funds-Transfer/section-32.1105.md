@@ -1,0 +1,3 @@
+##### 32.1105 Assignment of claims. #####
+
+The use of EFT payment methods is not a substitute for a properly executed assignment of claims in accordance with Subpart 32.8. EFT information that shows the ultimate recipient of the transfer to be other than the contractor, in the absence of a proper assignment of claims, is considered to be incorrect EFT information within the meaning of the “Suspension of Payment” paragraphs of the EFT clauses at 52.232-33 and 52.232-34.

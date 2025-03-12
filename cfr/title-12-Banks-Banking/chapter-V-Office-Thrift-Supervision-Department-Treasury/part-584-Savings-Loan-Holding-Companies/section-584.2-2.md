@@ -1,0 +1,13 @@
+##### § 584.2-2 Permissible bank holding company activities of savings and loan holding companies. #####
+
+(a) *General.* For purposes of § 584.2(b)(6)(i) of this part, the services and activities permissible for bank holding companies pursuant to regulations that the Board of Governors of the Federal Reserve System has promulgated pursuant to section 4(c) of the Bank Holding Company Act are permissible for savings and loan holding companies, or subsidiaries thereof that are neither savings associations nor service corporation subsidiaries of subsidiary savings associations: *Provided,* That no savings and loan holding company shall commence any activity described in this paragraph (a) without the prior approval of this Office pursuant to paragraph (b) of this section, unless -
+
+(1) The holding company received a rating of satisfactory or above prior to January 1, 2008, or a composite rating of “1” or “2” thereafter, in its most recent examination, and is not in a troubled condition as defined in § 563.555, and the holding company does not propose to commence the activity by an acquisition (in whole or in part) of a going concern; or
+
+(2) The activity is permissible under authority other than section 10(c)(2)(F)(i) of the HOLA without prior notice or approval. Where an activity is within the scope of both § 584.2-1 of this part and this section, the procedures of § 584.2-1 of this part shall govern.
+
+(b) *Procedures for applications.* Applications to commence any activity prescribed under paragraph (a) of this section shall be filed with the OTS. OTS must act upon such application under the guidelines in part 516, subpart E of this chapter.
+
+(c) *Factors considered in acting on applications.* In evaluating an application filed under paragraph (b) of this section, the OTS shall consider whether the performance by the applicant of the activity can reasonably be expected to produce benefits to the public (such as greater convenience, increased competition, or gains in efficiency) that outweigh possible adverse effects (such as undue concentration of resources, decreased or unfair competition, conflicts of interest, or unsound financial practices). This consideration includes an evaluation of the financial and managerial resources of the applicant, including its subsidiaries, and of any company to be acquired, and the effect of the proposed transaction on those resources.
+
+[54 FR 49708, Nov. 30, 1989, as amended at 55 FR 13518, Apr. 11, 1990; 57 FR 14349, Apr. 20, 1992; 60 FR 66720, Dec. 26, 1995; 63 FR 71213, Dec. 24, 1998; 66 FR 13010, Mar. 2, 2001; 72 FR 72238, Dec. 20, 2007]

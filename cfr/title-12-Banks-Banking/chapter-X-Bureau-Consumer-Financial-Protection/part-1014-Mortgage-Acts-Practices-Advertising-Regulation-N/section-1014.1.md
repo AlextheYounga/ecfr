@@ -1,0 +1,3 @@
+##### § 1014.1 Scope of regulations in this part. #####
+
+This part, known as Regulation N, is issued by the Bureau of Consumer Financial Protection to implement the 2009 Omnibus Appropriations Act, Public L. 111-8, section 626, 123 Stat. 524 (Mar. 11, 2009), as amended by the Credit Card Accountability Responsibility and Disclosure Act of 2009, Public Law 111-24, section 511, 123 Stat. 1734 (May 22, 2009), and as amended by the Dodd-Frank Wall Street Reform and Consumer Financial Protection Act of 2010, Public Law 111-203, section 1097, 124 Stat. 1376 (July 21, 2010). This part applies to persons over which the Federal Trade Commission has jurisdiction under the Federal Trade Commission Act.

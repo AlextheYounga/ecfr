@@ -1,0 +1,3 @@
+##### § 455.134 Forwarding of applications for State grants for technical assistance, program assistance, and marketing. #####
+
+A State eligible to apply for grants for technical assistance, program assistance, or marketing, as described in § 455.121, may submit such an application to DOE any time after the allocations have been announced as part of, or in lieu of, an application for a grant for State administrative expenses. Such applications shall provide separate narrative descriptions, budgets and appropriate milestone dates, covering each activity or program, that are sufficiently detailed to enable DOE to reasonably evaluate the application.

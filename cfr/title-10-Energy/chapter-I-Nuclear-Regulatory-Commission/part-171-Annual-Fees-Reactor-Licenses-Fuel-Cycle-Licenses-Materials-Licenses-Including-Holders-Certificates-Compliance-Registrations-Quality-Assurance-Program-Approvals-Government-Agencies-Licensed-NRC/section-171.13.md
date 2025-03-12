@@ -1,0 +1,5 @@
+##### § 171.13 Notice. #####
+
+The annual fees applicable to any NRC licensee subject to this part and calculated in accordance with §§ 171.15 and 171.16, will be published as a notice in the Federal Register as soon as possible but no later than the third quarter of the fiscal year. The annual fees will become due and payable to the NRC as indicated in § 171.19. Quarterly payments of the annual fee of $100,000 or more will continue during the fiscal year and be based on the applicable annual fees as shown in §§ 171.15 and 171.16 until a notice concerning the revised amount of the fees for the fiscal year is published by the NRC. If the NRC is unable to publish a final fee rule that becomes effective during the current fiscal year, fees would be assessed based on the rates in effect for the previous fiscal year.
+
+[64 FR 31475, June 10, 1999]

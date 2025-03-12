@@ -1,0 +1,3 @@
+##### § 1218.705 What is ONRR's policy on recommending revocation of your ability to engage in Federal or Indian leasing, licensing, or granting of easements, permits, or rights-of-way? #####
+
+The Director may recommend that the leasing or issuing agency, under statutory or regulatory authority applicable to that agency, revoke your ability to engage in Federal or Indian leasing, licensing, or granting of easements, permits, or rights-of-way if you inexcusably or willfully fail to pay a debt. The Director will recommend that any revocation of your ability to engage in Federal or Indian leasing, licensing, or granting of easements, permits, or rights-of-way should last only as long as your debt remains unpaid or unresolved.

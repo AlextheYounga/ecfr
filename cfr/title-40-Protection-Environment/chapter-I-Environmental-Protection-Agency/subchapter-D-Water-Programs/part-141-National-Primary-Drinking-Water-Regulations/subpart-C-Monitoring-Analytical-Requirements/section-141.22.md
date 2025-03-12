@@ -1,0 +1,15 @@
+##### § 141.22 Turbidity sampling and analytical requirements. #####
+
+The requirements in this section apply to unfiltered systems until December 30, 1991, unless the State has determined prior to that date, in writing pursuant to section 1412(b)(7)(iii), that filtration is required. The requirements in this section apply to filtered systems until June 29, 1993. The requirements in this section apply to unfiltered systems that the State has determined, in writing pursuant to section 1412(b)(7)(C)(iii), must install filtration, until June 29, 1993, or until filtration is installed, whichever is later.
+
+(a) Samples shall be taken by suppliers of water for both community and non-community water systems at a representative entry point(s) to the water distribution system at least once per day, for the purposes of making turbidity measurements to determine compliance with § 141.13. If the State determines that a reduced sampling frequency in a non-community will not pose a risk to public health, it can reduce the required sampling frequency. The option of reducing the turbidity frequency shall be permitted only in those public water systems that practice disinfection and which maintain an active residual disinfectant in the distribution system, and in those cases where the State has indicated in writing that no unreasonable risk to health existed under the circumstances of this option. Turbidity measurements shall be made as directed in § 141.74(a)(1).
+
+(b) If the result of a turbidity analysis indicates that the maximum allowable limit has been exceeded, the sampling and measurement shall be confirmed by resampling as soon as practicable and preferably within one hour. If the repeat sample confirms that the maximum allowable limit has been exceeded, the supplier of water shall report to the State within 48 hours. The repeat sample shall be the sample used for the purpose of calculating the monthly average. If the monthly average of the daily samples exceeds the maximum allowable limit, or if the average of two samples taken on consecutive days exceeds 5 TU, the supplier of water shall report to the State and notify the public as directed in § 141.31 and subpart Q.
+
+(c) Sampling for non-community water systems shall begin within two years after the effective date of this part.
+
+(d) The requirements of this § 141.22 shall apply only to public water systems which use water obtained in whole or in part from surface sources.
+
+(e) The State has the authority to determine compliance or initiate enforcement action based upon analytical results or other information compiled by their sanctioned representatives and agencies.
+
+[40 FR 59570, Dec. 24, 1975, as amended at 45 FR 57344, Aug. 27, 1980; 47 FR 8998, Mar. 3, 1982; 47 FR 10998, Mar. 12, 1982; 54 FR 27527, June 29, 1989; 59 FR 62466, Dec. 5, 1994; 65 FR 26022, May 4, 2000]

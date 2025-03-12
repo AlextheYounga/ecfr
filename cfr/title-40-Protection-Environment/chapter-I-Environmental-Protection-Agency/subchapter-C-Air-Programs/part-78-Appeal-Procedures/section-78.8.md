@@ -1,0 +1,5 @@
+##### § 78.8 Consolidation and severance of appeals proceedings. #####
+
+(a) The Environmental Appeals Board or Presiding Officer has the discretion to consolidate, in whole or in part, two or more proceedings under this part whenever it appears that a joint proceeding on any or all of the matters at issue in the proceedings will be in the interest of justice, will expedite or simplify consideration of the issues, and will not prejudice any party. Consolidation of proceedings under this paragraph (a) will not affect the right of any party to raise issues that might have been raised had there been no consolidation.
+
+(b) The Environmental Appeals Board or Presiding Officer has the discretion to sever issues or parties from a proceeding under this part whenever it appears that separate proceedings will be in the interest of justice, will expedite or simplify consideration of the issues, and will not prejudice any party.

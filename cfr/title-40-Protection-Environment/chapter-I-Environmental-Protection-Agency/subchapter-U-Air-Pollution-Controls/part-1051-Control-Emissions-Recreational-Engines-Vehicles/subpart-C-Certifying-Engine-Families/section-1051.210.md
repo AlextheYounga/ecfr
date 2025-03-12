@@ -1,0 +1,5 @@
+##### § 1051.210 May I get preliminary approval before I complete my application? #####
+
+If you send us information before you finish the application, we will review it and make any appropriate determinations, especially for questions related to engine family definitions, auxiliary emission-control devices, deterioration factors, testing for service accumulation, and maintenance. Decisions made under this section are considered to be preliminary approval, subject to final review and approval. We will generally not reverse a decision where we have given you preliminary approval, unless we find new information supporting a different decision. If you request preliminary approval related to the upcoming model year or the model year after that, we will make best-efforts to make the appropriate determinations as soon as practicable. We will generally not provide preliminary approval related to a future model year more than two years ahead of time.
+
+[70 FR 40494, July 13, 2005]

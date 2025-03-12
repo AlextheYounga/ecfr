@@ -1,0 +1,3 @@
+##### § 303.10 Purpose. #####
+
+This regulation implements the “citizen award” authority granted by Congress to the President in the 1986 Amendments to the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), section 109(d). As authorized in the Superfund Amendments and Reauthorization Act of 1986 (SARA) section 109(c) and Executive Order No. 12580 (issued by the President on January 23, 1987), the Environmental Protection Agency is empowered to pay up to $10,000.00 from the Superfund to any individual who provides information leading to the arrest and conviction of any person for a violation subject to a criminal penalty under CERCLA as amended.

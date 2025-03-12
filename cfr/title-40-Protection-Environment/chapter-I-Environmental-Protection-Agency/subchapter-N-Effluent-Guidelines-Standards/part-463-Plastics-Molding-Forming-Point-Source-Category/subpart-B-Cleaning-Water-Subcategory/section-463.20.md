@@ -1,0 +1,3 @@
+##### § 463.20 Applicability; description of the cleaning water subcategory. #####
+
+This subpart applies to discharges of pollutants from processes in the cleaning water subcategory to waters of the United States and the introduction of such pollutants into publicly owned treatment works. Processes in the cleaning water subcategory are processes where water comes in contact with the plastic product for the purpose of cleaning the surface of the product and where water comes in contact with shaping equipment, such as molds and mandrels, that contact the plastic material for the purpose of cleaning the equipment surfaces.

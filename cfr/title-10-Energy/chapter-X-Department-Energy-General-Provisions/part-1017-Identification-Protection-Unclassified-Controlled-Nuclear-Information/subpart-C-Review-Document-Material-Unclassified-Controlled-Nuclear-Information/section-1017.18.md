@@ -1,0 +1,3 @@
+##### § 1017.18 Joint documents or material. #####
+
+If a document or material marked as containing UCNI is under consideration for decontrol and falls under the cognizance of another DOE organization or other Government agency, the Reviewing Official or Denying Official must coordinate the decontrol review with that DOE organization or other Government agency. Any disagreement concerning the control or decontrol of any document or material that contains UCNI that was originated by or for DOE or another Government agency is resolved by the Secretary or his or her designee.

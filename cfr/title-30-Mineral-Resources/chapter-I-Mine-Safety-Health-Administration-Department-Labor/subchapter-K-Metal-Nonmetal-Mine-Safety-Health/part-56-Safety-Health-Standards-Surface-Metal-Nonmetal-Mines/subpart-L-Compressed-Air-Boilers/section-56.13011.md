@@ -1,0 +1,3 @@
+##### § 56.13011 Air receiver tanks. #####
+
+Air receiver tanks shall be equipped with one or more automatic pressure-relief valves. The total relieving capacity of the relief valves shall prevent pressure from exceeding the maximum allowable working pressure in a receiver tank by not more than 10 percent. Air receiver tanks also shall be equipped with indicating pressure gauges which accurately measure the pressure within the air receiver tanks.

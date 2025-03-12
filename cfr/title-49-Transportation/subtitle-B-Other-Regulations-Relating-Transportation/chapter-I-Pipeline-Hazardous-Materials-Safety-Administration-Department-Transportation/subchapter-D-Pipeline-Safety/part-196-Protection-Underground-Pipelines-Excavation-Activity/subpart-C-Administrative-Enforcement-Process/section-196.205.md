@@ -1,0 +1,3 @@
+##### § 196.205 Can PHMSA assess administrative civil penalties for violations? #####
+
+Yes. When the Associate Administrator for Pipeline Safety has reason to believe that a person has violated any provision of the 49 U.S.C. 60101 *et seq.* or any regulation or order issued thereunder, including a violation of excavation damage prevention requirements under this part and 49 U.S.C. 60114(d) in a State with an excavation damage prevention law enforcement program PHMSA has deemed inadequate under 49 CFR part 198, subpart D, PHMSA may conduct a proceeding to determine the nature and extent of the violation and to assess a civil penalty.

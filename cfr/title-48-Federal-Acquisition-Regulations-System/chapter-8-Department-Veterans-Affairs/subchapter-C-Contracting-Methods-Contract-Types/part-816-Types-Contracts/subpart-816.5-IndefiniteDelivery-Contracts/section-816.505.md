@@ -1,0 +1,3 @@
+##### 816.505 Ordering #####
+
+The task order contract and delivery order ombudsman for VA is the Associate Deputy Assistant Secretary for Acquisitions (see FAR 16.505(b)(5)). Contracting officers may obtain the name, telephone number, facsimile number, and e-mail address of the current Associate Deputy Assistant Secretary for Acquisitions by contacting: The Office of Acquisitions (049A), VA Central Office, 810 Vermont Ave., NW., Washington, DC 20420.

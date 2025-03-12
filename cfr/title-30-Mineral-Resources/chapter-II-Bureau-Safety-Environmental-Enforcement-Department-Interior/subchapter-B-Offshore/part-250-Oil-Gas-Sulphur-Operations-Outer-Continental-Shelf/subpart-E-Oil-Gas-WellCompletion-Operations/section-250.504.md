@@ -1,0 +1,3 @@
+##### § 250.504 Hydrogen sulfide. #####
+
+When a well-completion operation is conducted in zones known to contain hydrogen sulfide (H2S) or in zones where the presence of H2S is unknown (as defined in § 250.490 of this part), the lessee shall take appropriate precautions to protect life and property on the platform or completion unit, including, but not limited to operations such as blowing the well down, dismantling wellhead equipment and flow lines, circulating the well, swabbing, and pulling tubing, pumps, and packers. The lessee shall comply with the requirements in § 250.490 of this part as well as the appropriate requirements of this subpart.

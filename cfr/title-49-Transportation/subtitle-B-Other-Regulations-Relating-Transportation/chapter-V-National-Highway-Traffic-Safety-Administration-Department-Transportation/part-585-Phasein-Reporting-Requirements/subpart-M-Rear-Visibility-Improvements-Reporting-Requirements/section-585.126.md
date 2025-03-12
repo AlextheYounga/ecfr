@@ -1,0 +1,7 @@
+##### § 585.126 Reporting requirements. #####
+
+(a) *Phase-in reporting requirements.* Within 60 days after the end of each of the production years ending April 30, 2017 and April 30, 2018, each manufacturer shall submit a report to the National Highway Traffic Safety Administration concerning its compliance with the rear visibility requirements in paragraphs S5.5 and S6.2 of Standard No. 111 (49 CFR 571.111) for its vehicles produced in that year. Each report shall provide the information specified in paragraph (b) of this section and in § 585.2 of this part.
+
+(b) *Phase-in report content*— (1) *Basis for phase-in production goals.* Each manufacturer shall provide the number of vehicles manufactured in the current production year, or, at the manufacturer's option, in each of the three previous production years. A new manufacturer that is, for the first time, manufacturing vehicles for sale in the United States must report the number of vehicles manufactured during the current production year.
+
+(2) *Production of complying vehicles.* Each manufacturer shall report, for the production year being reported on, information on the number of vehicles that meet the rear visibility requirements in paragraphs S5.5 and S6.2 of Standard No. 111 (49 CFR 571.111).

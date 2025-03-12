@@ -1,0 +1,3 @@
+##### § 336.1 Cross-reference to employee ethical conduct standards and financial disclosure regulations. #####
+
+Employees of the Federal Deposit Insurance Corporation (Corporation) are subject to the Executive Branch-wide Standards of Ethical Conduct at 5 CFR part 2635, the Corporation regulation at 5 CFR part 3201 which supplements the Executive Branch-wide Standards, the Executive Branch-wide financial disclosure regulations at 5 CFR part 2634, and the Corporation regulation at 5 CFR part 3202, which supplements the Executive Branch-wide financial disclosure regulations.

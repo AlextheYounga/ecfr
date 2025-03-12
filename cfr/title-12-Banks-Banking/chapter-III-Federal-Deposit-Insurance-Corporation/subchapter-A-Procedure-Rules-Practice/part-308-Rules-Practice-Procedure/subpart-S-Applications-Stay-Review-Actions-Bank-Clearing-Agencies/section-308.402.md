@@ -1,0 +1,3 @@
+##### § 308.402 Applications for review of final disciplinary sanctions, denials of participation, or prohibitions or limitations of access to services imposed by bank clearing agencies. #####
+
+Proceedings on an application to the Corporation under section 19(d)(2) of the Exchange Act for review of any final disciplinary sanctions, denials of participation, or prohibitions or limitations of access to services imposed by bank clearing agencies shall be conducted according to the procedures set forth in rules adopted by the Commission (17 CFR 240.19d-3). References to the “Commission” in 17 CFR 240.19d-3 are deemed to refer to the “Corporation.”

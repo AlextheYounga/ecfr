@@ -1,0 +1,3 @@
+##### § 1185.6 Jointly used terminal properties. #####
+
+Any person holding the position of officer or director of a carrier is relieved from the provisions of this part to the extent that he or she may also hold a directorship and any other position to which that person may be elected or appointed with a terminal railroad the properties of which are operated or used by the carrier jointly with other carriers.

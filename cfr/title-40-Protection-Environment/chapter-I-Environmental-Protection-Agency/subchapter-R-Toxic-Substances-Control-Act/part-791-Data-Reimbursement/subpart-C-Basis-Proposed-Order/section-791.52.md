@@ -1,0 +1,3 @@
+##### § 791.52 Multiple tests. #####
+
+When more than one of a particular kind of test required by the test rule is performed, the additional costs will be shared among all those holding exemptions. The costs of all the tests will be added together and each exemption holder shall be responsible for a share of the total which is equal to its share of the total production of the test chemical. The exemption holders shall divide their shares between test sponsors in proportion to the costs of their respective tests. Those sponsoring a particular test do not have to obtain exemptions for that test and therefore do not have reimbursement responsibilities for the same tests done by others.

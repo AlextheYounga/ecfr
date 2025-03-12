@@ -1,0 +1,5 @@
+##### § 1502.24 Environmental review and consultation requirements. #####
+
+(a) To the fullest extent possible, agencies shall prepare draft environmental impact statements concurrent and integrated with environmental impact analyses and related surveys and studies required by all other Federal environmental review laws and Executive orders applicable to the proposed action, including the Fish and Wildlife Coordination Act (16 U.S.C. 661 *et seq.*), the National Historic Preservation Act of 1966 (54 U.S.C. 300101 *et seq.*), and the Endangered Species Act of 1973 (16 U.S.C. 1531 *et seq.*).
+
+(b) The draft environmental impact statement shall list all Federal permits, licenses, and other authorizations that must be obtained in implementing the proposal. If it is uncertain whether a Federal permit, license, or other authorization is necessary, the draft environmental impact statement shall so indicate.

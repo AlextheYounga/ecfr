@@ -1,0 +1,9 @@
+##### § 60.4247 What parts of the mobile source provisions apply to me if I am a manufacturer of stationary SI internal combustion engines or a manufacturer of equipment containing such engines? #####
+
+(a) Manufacturers certifying to emission standards in 40 CFR part 1054 must meet the provisions of 40 CFR part 1054. Note that 40 CFR part 1054, appendix I, describes various provisions that do not apply for engines meeting Phase 1 standards in 40 CFR part 1054. Manufacturers of equipment containing stationary SI internal combustion engines meeting the provisions of 40 CFR part 1054 must meet the provisions of 40 CFR part 1060 to the extent they apply to equipment manufacturers.
+
+(b) Manufacturers required to certify to emission standards in 40 CFR part 1048 must meet the provisions of 40 CFR part 1048. Manufacturers certifying to emission standards in 40 CFR part 1048 pursuant to the voluntary certification program must meet the requirements in Table 4 to this subpart as well as the standards in 40 CFR 1048.101.
+
+(c) For manufacturers of stationary SI internal combustion engines participating in the voluntary certification program and certifying engines to Table 1 to this subpart, Table 4 to this subpart shows which parts of the mobile source provisions in 40 CFR parts 1048, 1065, and 1068 apply to you. Compliance with the deterioration factor provisions under 40 CFR 1048.205(n) and 1048.240 will be required for engines built new on and after January 1, 2010. Prior to January 1, 2010, manufacturers of stationary internal combustion engines participating in the voluntary certification program have the option to develop their own deterioration factors based on an engineering analysis.
+
+[73 FR 3591, Jan. 18, 2008, as amended at 73 FR 59177, Oct. 8, 2008; 86 FR 34362, June 29, 2021]

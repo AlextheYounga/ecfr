@@ -1,0 +1,17 @@
+##### § 61.300 Applicability. #####
+
+(a) The affected facility to which this subpart applies is the total of all loading racks at which benzene is loaded into tank trucks, railcars, or marine vessels at each benzene production facility and each bulk terminal. However, specifically exempted from this regulation are loading racks at which only the following are loaded: Benzene-laden waste (covered under subpart FF of this part), gasoline, crude oil, natural gas liquids, petroleum distillates (e.g., fuel oil, diesel, or kerosene), or benzene-laden liquid from coke by-product recovery plants.
+
+(b) Any affected facility under paragraph (a) of this section which loads only liquid containing less than 70 weight-percent benzene is exempt from the requirements of this subpart, except for the recordkeeping and reporting requirements in § 61.305(i).
+
+(c) *Comply with standards at each loading rack.* Any affected facility under paragraph (a) of this section shall comply with the standards in § 61.302 or as specified in paragraph (f) of this section, if applicable, at each loading rack that is handling a liquid containing 70 weight-percent or more benzene.
+
+(d) Any affected facility under paragraph (a) of this section whose annual benzene loading is less than 1.3 million liters of 70 weight-percent or more benzene is exempt from the requirements of this subpart, except for the recordkeeping and reporting requirements in § 61.305(i).
+
+(e) The owner or operator of an affected facility, as defined in § 61.300(a) that loads a marine vessel shall be in compliance with the provisions of this subpart on and after July 23, 1991. If an affected facility that loads a marine vessel also loads a tank truck or railcar, the marine vessel loading racks shall be in compliance with the provisions of this subpart on and after July 23, 1991, while the tank truck loading racks and the railcar loading racks shall be in compliance as required by § 61.12.
+
+(f) *Alternative means of compliance*—(1) *Option to comply with part 65.* Owners or operators may choose to comply with 40 CFR part 65, subpart E, to satisfy the requirements of §§ 61.302 through 61.306 for all tank truck or railcar loading racks that are subject to this subpart. Loading racks are referred to as transfer racks in 40 CFR part 65, subpart E. Other provisions applying to owners or operators who choose to comply with 40 CFR part 65 are provided in 40 CFR 65.1. All marine vessel loading racks shall comply with the provisions in §§ 61.302 through 61.306.
+
+(2) *Part 61, subpart A.* Owners or operators who choose to comply with 40 CFR part 65, subpart E, must also comply with §§ 61.01, 61.02, 61.05 through 61.08, 61.10(b) through (d), 61.11, and 61.15 for those loading racks. All sections and paragraphs of subpart A of this part that are not mentioned in this paragraph (f)(2) do not apply to owners or operators of loading racks complying with 40 CFR part 65, subpart E, except that provisions required to be met prior to implementing 40 CFR part 65 still apply. Owners and operators who choose to comply with 40 CFR part 65, subpart E, must comply with 40 CFR part 65, subpart A.
+
+[55 FR 8341, Mar. 7, 1990, as amended at 55 FR 45804, Oct. 31, 1990; 65 FR 78284, Dec. 14, 2000]

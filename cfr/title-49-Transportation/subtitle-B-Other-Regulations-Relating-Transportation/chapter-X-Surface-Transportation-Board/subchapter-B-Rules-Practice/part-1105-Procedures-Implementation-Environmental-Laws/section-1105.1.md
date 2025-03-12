@@ -1,0 +1,3 @@
+##### § 1105.1 Purpose. #####
+
+These rules are designed to assure adequate consideration of environmental and energy factors in the Board's decisionmaking process pursuant to the National Environmental Policy Act, 42 U.S.C. 4332; the Energy Policy and Conservation Act, 42 U.S.C. 6362(b); and related laws, including the National Historic Preservation Act, 16 U.S.C. 470f, the Coastal Zone Management Act, 16 U.S.C. 1451, and the Endangered Species Act, 16 U.S.C. 1531.

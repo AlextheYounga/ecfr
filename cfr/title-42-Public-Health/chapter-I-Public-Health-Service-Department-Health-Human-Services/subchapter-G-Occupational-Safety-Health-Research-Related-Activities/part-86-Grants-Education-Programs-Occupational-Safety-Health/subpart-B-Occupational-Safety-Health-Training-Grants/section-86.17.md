@@ -1,0 +1,7 @@
+##### § 86.17 Nondiscrimination. #####
+
+(a) Attention is called to the requirements of title VI of the Civil Rights Act of 1964 (78 Stat. 252, 42 U.S.C. 2000d *et seq.*) and in particular section 601 of such Act which provides that no person in the United States shall on the grounds of race, color, or national origin be excluded from participation in, be denied the benefits of, or be subjected to, discrimination under any program or activity receiving Federal financial assistance. A regulation implementing such title VI, which applies to grants made under this subpart, has been issued by the Secretary of Health and Human Services with the approval of the President (45 CFR part 80).
+
+(b) Attention is called to the requirements of title IX of the Education Amendments of 1972 (86 Stat. 373, 20 U.S.C. 1681 *et seq.*) and in particular to section 901 of such Act which provides that no person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.
+
+(c) Attention is called to the requirements of section 504 of the Rehabilitation Act of 1973, as amended, which provides that no otherwise qualified handicapped individual in the United States shall, solely by reason of his handicap, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.

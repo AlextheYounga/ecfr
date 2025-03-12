@@ -1,0 +1,3 @@
+##### § 1.407 Action on petitions. #####
+
+If the Commission determines that the petition discloses sufficient reasons in support of the action requested to justify the institution of a rulemaking proceeding, and notice and public procedure thereon are required or deemed desirable by the Commission, an appropriate notice of proposed rule making will be issued. In those cases where notice and public procedure thereon are not required, the Commission may issue a final order amending the rules. In all other cases the petition for rule making will be denied and the petitioner will be notified of the Commission's action with the grounds therefor.

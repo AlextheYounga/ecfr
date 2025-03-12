@@ -1,0 +1,3 @@
+##### § 63.4940 By what date must I conduct the initial compliance demonstration? #####
+
+You must complete the initial compliance demonstration for the initial compliance period according to the requirements in § 63.4941. The initial compliance period begins on the applicable compliance date specified in § 63.4883 and ends on the last day of the first full month following the compliance date. The initial compliance demonstration includes the calculations according to § 63.4941 and supporting documentation showing that, during the initial compliance period, you used no coating with an organic HAP content that exceeded the applicable emission limit in § 63.4890, and you used no thinners or cleaning materials that contained organic HAP.

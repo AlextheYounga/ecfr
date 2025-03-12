@@ -1,0 +1,7 @@
+##### § 397.207 Preemption notice. #####
+
+(a) If the applicant is other than a State, political subdivision thereof, or Indian tribe, the applicant shall mail a copy of the application to the State, political subdivision thereof, or Indian tribe concerned, accompanied by a statement that comments may be submitted regarding the application to the Administrator within 45 days. The application filed with the Administrator must include a certification that the applicant has complied with this paragraph and must include the names and addresses of each official to whom a copy of the application was sent.
+
+(b) The Administrator may afford interested persons an opportunity to file written comments on the application by serving notice on any persons readily identifiable by the Administrator as persons who will be affected by the ruling sought or by publication in the Federal Register.
+
+(c) Each person submitting written comments to the Administrator with respect to an application filed under this section shall send a copy of the comments to the applicant and certify to the Administrator that he or she has complied with this requirement. The Administrator may notify other persons participating in the proceeding of the comments and provide an opportunity for those other persons to respond.

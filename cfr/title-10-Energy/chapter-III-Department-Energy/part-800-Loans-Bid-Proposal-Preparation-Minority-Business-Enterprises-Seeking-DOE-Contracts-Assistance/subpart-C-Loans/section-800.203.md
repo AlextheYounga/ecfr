@@ -1,0 +1,3 @@
+##### § 800.203 Loan limits. #####
+
+The Secretary shall not make a loan in excess of $50,000, or make aggregate loans to the same minority business enterprise, including its affiliates, in any Federal fiscal year in excess of $100,000. In addition, the Secretary shall not increase a loan to an amount which would cause the limits set forth in the previous sentence to be exceeded. Nothing in this regulation shall be interpreted to restrict the Secretary, in making the various determinations provided for in this regulation, from taking into account considerations relating to the Office of Minority Economic Impact loan program as a whole.

@@ -1,0 +1,3 @@
+##### 1009.204-70 Contractor publicity. #####
+
+31 U.S.C. 333(a) prohibits the use of Treasury names, abbreviations, or symbols, in connection with, or as a part of, any advertisement, solicitation, business activity, or product, in a manner that may imply endorsement by Treasury. Bureaus shall insert a clause substantially the same as 1052.210-70 Contractor Publicity in all solicitations and contracts.

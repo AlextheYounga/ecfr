@@ -1,0 +1,3 @@
+##### § 234.269 Cut-out circuits. #####
+
+Each cut-out circuit shall be tested at least once every three months to determine that the circuit functions as intended. For purposes of this section, a cut-out circuit is any circuit which overrides the operation of automatic warning systems. This includes both switch cut-out circuits and devices which enable personnel to manually override the operation of automatic warning systems.

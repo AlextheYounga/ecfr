@@ -1,0 +1,7 @@
+##### § 52.1085 Interstate pollutant transport provisions; What are the FIP requirements for decreases in emissions of sulfur dioxide? #####
+
+(a) The owner and operator of each source and each unit located in the State of Maryland and for which requirements are set forth under the CSAPR SO2 Group 1 Trading Program in subpart CCCCC of part 97 of this chapter must comply with such requirements. The obligation to comply with such requirements will be eliminated by the promulgation of an approval by the Administrator of a revision to Maryland's State Implementation Plan (SIP) as correcting the SIP's deficiency that is the basis for the CSAPR Federal Implementation Plan under § 52.39, except to the extent the Administrator's approval is partial or conditional.
+
+(b) Notwithstanding the provisions of paragraph (a) of this section, if, at the time of the approval of Maryland's SIP revision described in paragraph (a) of this section, the Administrator has already started recording any allocations of CSAPR SO2 Group 1 allowances under subpart CCCCC of part 97 of this chapter to units in the State for a control period in any year, the provisions of subpart CCCCC of part 97 of this chapter authorizing the Administrator to complete the allocation and recordation of CSAPR SO2 Group 1 allowances to units in the State for each such control period shall continue to apply, unless provided otherwise by such approval of the State's SIP revision.
+
+[76 FR 48367, Aug. 8, 2011, as amended at 81 FR 74586, Oct. 26, 2016]

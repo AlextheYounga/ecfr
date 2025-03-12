@@ -1,0 +1,3 @@
+##### § 408.3 Applicability. #####
+
+Historically, virtually all financing provided by Eximbank has been in aid of U.S. exports which involve no effects on the quality of the environment within the United States, its territories or possessions. Eximbank has separate procedures for conducting environmental reviews where such reviews are required by E.O. 12114 (January 4, 1979) because of potential effects on the environment of global commons areas or on the environment of foreign nations. The procedures set forth in this part apply to the relatively rare cases where Eximbank financing of U.S. exports may affect environmental quality in the United States, its territories or possessions.

@@ -1,0 +1,3 @@
+##### § 550.1400 How does BOEM begin the civil penalty process? #####
+
+This subpart explains BOEM's civil penalty procedures whenever a lessee, operator or other person engaged in oil, gas, sulphur or other minerals operations in the OCS has a violation. Whenever BOEM determines, on the basis of available evidence, that a violation occurred and a civil penalty review is appropriate, it will prepare a case file. BOEM will appoint a Reviewing Officer.

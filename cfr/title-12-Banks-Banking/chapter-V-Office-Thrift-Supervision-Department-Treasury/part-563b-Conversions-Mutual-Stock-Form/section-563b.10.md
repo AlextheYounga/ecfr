@@ -1,0 +1,3 @@
+##### § 563b.10 May I form a holding company as part of my conversion? #####
+
+You may convert to the stock form of ownership as part of a transaction where you organize a holding company to acquire all of your shares upon their issuance. In such a transaction, your holding company will offer rights to purchase its shares instead of your shares. All of the requirements of subpart A generally apply to the holding company as they apply to the savings association. Section 574.6 of this chapter contains OTS's holding company application requirements.

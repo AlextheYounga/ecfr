@@ -1,0 +1,5 @@
+##### § 1229.126 Appeals. #####
+
+(a) Appeals made pursuant to the rules and procedures at 30 CFR parts 1243 and 1290 related to demand letters issued by officers of the ONRR for additional royalties identified under a delegation of authority shall be filed with the ONRR for processing. The State regulatory authority shall, upon the request of the ONRR, provide competent and knowledgeable staff for testimony, as well as any required documentation and analyses, in support of the lessor's position during the appeal process.
+
+(b) An affected State, upon the request of the ONRR, shall provide expert witnesses from their audit staff for testimony as well as required documentation and analyses to support the Department's position during the litigation of court cases arising from denied appeals. The cost of providing expert witnesses including travel and per diem is reimbursable under the provisions of a delegation of authority, at the Federal Government's existing per diem rates.

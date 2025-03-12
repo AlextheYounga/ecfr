@@ -1,0 +1,13 @@
+##### § 33.202 How does an entity qualify as an MBE or WBE under EPA's 8% statute? #####
+
+To qualify as an MBE or WBE under EPA's 8% statute, an entity must establish that it is owned or controlled by socially and economically disadvantaged individuals who are of good character and citizens of the United States. An entity need not demonstrate potential for success.
+
+(a) *Ownership or control.* “Ownership” and “control” shall have the same meanings as set forth in 13 CFR 124.105 and 13 CFR 124.106, respectively. (See also 13 CFR 124.109 for special rules applicable to Indian tribes and Alaska Native Corporations; 13 CFR 124.110 for special rules applicable to Native Hawaiian Organizations).
+
+(b) *Socially disadvantaged individual.* A socially disadvantaged individual is a person who has been subjected to racial or ethnic prejudice or cultural bias because of his or her identity as a member of a group without regard to his or her individual qualities and as further defined by the implementing regulations of section 8(a)(5) of the Small Business Act (15 U.S.C. 637(a)(5); 13 CFR 124.103; see also 13 CFR 124.109 for special rules applicable to Indian tribes and Alaska Native Corporations; 13 CFR 124.110 for special rules applicable to Native Hawaiian Organizations).
+
+(c) *Economically disadvantaged individual.* An economically disadvantaged individual is a socially disadvantaged individual whose ability to compete in the free enterprise system is impaired due to diminished capital and credit opportunities, as compared to others in the same business area who are not socially disadvantaged and as further defined by section 8(a)(6) of the Small Business Act (15 U.S.C. 637(a)(6)) and its implementing regulations (13 CFR 124.104). (See also 13 CFR 124.109 for special rules applicable to Indian tribes and Alaska Native Corporations; 13 CFR 124.110 for special rules applicable to Native Hawaiian Organizations). Under EPA's DBE Program, an individual claiming disadvantaged status must have an initial and continued personal net worth of less than $750,000.
+
+(d) *HBCU.* An HBCU automatically qualifies as an entity owned or controlled by socially and economically disadvantaged individuals.
+
+(e) *Women.* Women are deemed to be socially and economically disadvantaged individuals. Ownership or control must be demonstrated pursuant to paragraph (a) of this section, which may be accomplished by certification under § 33.204.

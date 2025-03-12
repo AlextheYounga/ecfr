@@ -1,0 +1,9 @@
+##### § 1.1914 Collection in installments. #####
+
+(a) Subject to the Commission's rules pertaining to the installment loan program (*see e.g.*, 47 CFR § 1.2110(g)), subpart Q or other agreements among the parties, the terms of which will control, whenever feasible, the Commission shall collect the total amount of a debt in one lump sum. If a debtor is financially unable to pay a debt in one lump sum, the Commission, in its sole discretion, may accept payment in regular installments. The Commission will obtain financial statements from debtors who represent that they are unable to pay in one lump sum and which are able to verify independently such representations (*see* 31 CFR 902.2(g)). The Commission will require and obtain a legally enforceable written agreement from the debtor that specifies all of the terms of the arrangement, including, as appropriate, sureties and other indicia of creditworthiness (*see* Federal Credit Reform Act of 1990, 2 U.S.C. 661, *et seq.,* OMB Circular A-129), and that contains a provision accelerating the debt in the event of default.
+
+(b) The size and frequency of installment payments should bear a reasonable relation to the size of the debt and the debtor's ability to pay. If possible, the installment payments will be sufficient in size and frequency to liquidate the debt in three years or less.
+
+(c) Security for deferred payments will be obtained in appropriate cases. The Commission may accept installment payments notwithstanding the refusal of the debtor to execute a written agreement or to give security, at the Commission's option.
+
+(d) The Commission may deny the extension of credit to any debtor who fails to provide the records requested or fails to show an ability to pay the debt.

@@ -1,0 +1,11 @@
+##### § 151.65 Memoranda and hearings. #####
+
+(a) At any time before the FAA issues a grant offer for a project, any public agency or person having a substantial interest in the disposition of the project application may file a memorandum supporting or opposing it with the Area Manager of the area in which the project is located. In addition, that public agency or person may request a public hearing on the location of the airport to be developed. If, in the Administrator's opinion, that public agency or person has a substantial interest in the matter, a public hearing is held.
+
+(b) The Administrator sets the time and place of each hearing under this section, to avoid undue delay in disposing of the application, to afford reasonable time for all parties concerned to prepare for it, and to hold it at a place convenient to the sponsor. Notice of the time and place is mailed to the public agency or person filing the memorandum, the sponsor, and any other necessary persons.
+
+(c) The purpose of the hearing is to help the Administrator discover facts relating to the location of the airport that is proposed to be developed under an application pending before him. There are no adverse parties or interests and no defendant or respondent. They are not hearings for the purposes of 5 U.S.C. 554, 556, and 557, and do not terminate in an adjudication as defined in that Act.
+
+(d) Each hearing under this section is conducted by a hearing officer designated by the Administrator. The hearing officer decides the length of the hearing, the kind of testimony to be heard, and all other matters respecting the conduct of the hearing. The hearing is recorded in a manner determined by the hearing officer and the record becomes a part of the record of the project application. The Administrator's decision is not made solely on the basis of the hearing, but on all relevant facts.
+
+[Doc. No. 1329, 27 FR 12351, Dec. 13, 1962, as amended by Amdt. 151-11, 31 FR 6686, May 5, 1966; Amdt. 151-35, 34 FR 13699, Aug. 27, 1969]

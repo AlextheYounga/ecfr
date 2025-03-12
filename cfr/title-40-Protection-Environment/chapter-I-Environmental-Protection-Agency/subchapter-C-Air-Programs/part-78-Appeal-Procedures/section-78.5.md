@@ -1,0 +1,7 @@
+##### § 78.5 Limitation on filing or presenting new evidence and raising new issues. #####
+
+(a) Where there was an opportunity for submission of public comments or objections prior to the decision that is subject to appeal, no evidence shall be filed or presented, and no issues raised, in a proceeding under this part that were not filed, presented, or raised during the period for submission of public comments or objections, absent a showing of good cause explaining the party's failure to do so during the period for submission of public comments or objections. Good cause shall include any instance where the party seeking to file or present new evidence or raise a new issue shows that the evidence could not have reasonably been ascertained, filed, or presented or the issue could not have reasonably been ascertained or raised, or that the materiality of the new evidence or issue could not have reasonably been anticipated, prior to the close of the period for submission of public comments or objections.
+
+(b) If an evidentiary hearing is granted, no evidence shall be filed or presented on questions of law or policy or on matters not subject to challenge in the evidentiary hearing.
+
+[58 FR 3760, Jan. 11, 1993, as amended at 62 FR 55488, Oct. 24, 1997; 70 FR 25339, May 12, 2005; 76 FR 48379, Aug. 8, 2011; 86 FR 23180, Apr. 30, 2021]

@@ -1,0 +1,5 @@
+##### § 831.2205 Computation of alternative form of annuity. #####
+
+(a) To compute the beginning rate of annuity payable to a retiree who elects an alternative form of annuity, OPM will first compute the monthly rate of annuity otherwise payable under subchapter III of chapter 83 of title 5, United States Code, including all reductions provided under the subchapter other than those in § 8343a. That monthly rate is then reduced by an amount equal to the retiree's lump-sum credit divided by the present value factor for the retiree's attained age (in full years) at the time of retirement. The reduced monthly rate is then rounded to the next lowest dollar and becomes the rate of annuity payable.
+
+(b) OPM will publish a notice in the Federal Register announcing any proposed adjustments in present value factors at least 30 days before the effective date of the adjustments.

@@ -1,0 +1,3 @@
+##### § 375.20 Airworthiness and registration certificates. #####
+
+Foreign civil aircraft shall carry currently effective certificates of registration and airworthiness issued or rendered valid by the country of registry and shall display the nationality and registration markings of that country. However, a foreign civil aircraft may carry, in lieu of such certificate of airworthiness, an effective special flight authorization issued by the Federal Aviation Administration for the operations being performed.

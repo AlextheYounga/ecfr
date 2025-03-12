@@ -1,0 +1,3 @@
+##### § 543.7-1 Federal savings association created in connection with an association in default or in danger of default. #####
+
+The preceding sections of this part do not apply to a Federal savings association which is proposed by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation under section 11(c) of the Federal Deposit Insurance Act (12 U.S.C. 1821(c)) or section 21A of the Federal Home Loan Bank Act (12 U.S.C. 1441A), or is otherwise chartered by the Office in connection with an association in default or in danger of default. Incorporation and organization of such associations are complete when the Director or his or her designee so determines.

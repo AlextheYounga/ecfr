@@ -1,0 +1,3 @@
+##### 22.101-3 Reporting labor disputes. #####
+
+The office administering the contract shall report, in accordance with agency procedures, any potential or actual labor disputes that may interfere with performing any contracts under its cognizance. If a contract contains the clause at 52.222-1, Notice to the Government of Labor Disputes, the contractor also must report any actual or potential dispute that may delay contract performance.

@@ -1,0 +1,3 @@
+##### § 281.23 Memorandum of agreement. #####
+
+EPA and the approved state will negotiate a Memorandum of Agreement (MOA) containing proposed areas of coordination and shared responsibilities between the state and EPA and separate EPA and state roles and responsibilities in areas including, but not limited to: Implementation of partial state programs; enforcement; compliance monitoring; EPA oversight; and sharing and reporting of information. At the time of approval, the MOA must be signed by the Regional Administrator and the appropriate official of the state lead agency.

@@ -1,0 +1,5 @@
+##### § 211.35 Termination of eligibility. #####
+
+The eligibility of a carrier owned or controlled, in whole or in part, by citizens of the Federated States of Micronesia, the Marshall Islands or Palau, respectively, for issuance of a Freely Associated State Foreign Air Carrier Permit under this subpart shall exist only for such period as subparagraphs (a), (d), and (e) (eligibility for Freely Associated State essential air transportation subsidy compensation), or subparagraph (c) (limited interstate air transportation authority), of paragraph (5) of the Agreement on Civil Aviation Economic Services and Related Programs (Article IX of the Federal Programs and Services Agreement) remain in effect between the Government of those States and the Government of the United States, insofar as authority is conferred by such permits for purposes specified in those subparagraphs.
+
+[Amdt. 211-18, 52 FR 5442, Feb. 22, 1987]

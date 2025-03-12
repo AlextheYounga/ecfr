@@ -1,0 +1,7 @@
+##### § 420.100 Applicability; description of the cold forming subcategory. #####
+
+(a) The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works from cold rolling and cold working pipe and tube operations in which unheated steel is passed through rolls or otherwise processed to reduce its thickness, to produce a smooth surface, or to develop controlled mechanical properties in the steel.
+
+(b) The limitations and standards set out below for cold worked pipe and tube operations shall be applicable only where cold worked pipe and tube wastewaters are discharged at steel plant sites. No limitations are applicable or allowable where these wastewaters are hauled off-site for disposal or are otherwise not discharged at steel plant sites. The limitations and standards set out below for cold worked pipe and tube operations shall be applicable only to the blowdown of soluble oil or water solutions used in cold worked pipe and tube forming operations. Limitations for other wastewater sources from these operations must be established on a site-specific basis.
+
+[47 FR 23284, May 27, 1982, as amended at 49 FR 21034, May 17, 1984]

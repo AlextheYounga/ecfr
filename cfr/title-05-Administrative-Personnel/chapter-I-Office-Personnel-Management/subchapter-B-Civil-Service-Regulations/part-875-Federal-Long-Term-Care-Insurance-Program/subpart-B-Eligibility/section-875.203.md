@@ -1,0 +1,3 @@
+##### § 875.203 Am I eligible if I separated under the FERS MRA+10 provision? #####
+
+If you have separated from service under the FERS Minimum Retirement Age and 10 years of service (MRA+10) provision of 5 U.S.C. 8412(g), and have postponed receiving an annuity under that provision, you are eligible to apply for coverage under this part. For underwriting purposes, you will be considered an annuitant.

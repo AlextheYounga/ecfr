@@ -1,0 +1,3 @@
+##### § 7.21 Cost of duplication of documents. #####
+
+Copies of the records, reports, transcripts, minutes, appendices, working papers, drafts, studies, agenda, or other documents that were made available to or prepared for or by an NRC advisory committee shall be made available to any person at the actual cost of duplication prescribed in part 9 of this chapter. (For availability of information on advisory committees, see § 7.14.)

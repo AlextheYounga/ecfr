@@ -1,0 +1,3 @@
+##### 3402.101-70 Abbreviations and acronyms. #####
+
+CAO—Chief Acquisition Officer.CO—Contracting Officer.COR—Contracting Officer's Representative.FSA—Federal Student Aid.HCA—Head of the Contracting Activity.IPv6—Internet Protocol version 6.OMB—Office of Management and Budget.OSDBU—Office of Small and Disadvantaged Business Utilization.PBO—Performance-Based Organization (Federal Student Aid).RFP—Request for Proposal.SBA—Small Business Administration.SPE—Senior Procurement Executive.

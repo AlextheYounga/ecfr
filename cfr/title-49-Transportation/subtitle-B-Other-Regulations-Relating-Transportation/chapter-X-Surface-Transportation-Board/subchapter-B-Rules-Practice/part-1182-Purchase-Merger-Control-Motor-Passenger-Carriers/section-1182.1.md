@@ -1,0 +1,3 @@
+##### § 1182.1 Applications covered by this part. #####
+
+The rules in this part govern applications for authority under 49 U.S.C. 14303 to consolidate, merge, purchase, lease, or contract to operate the properties or franchises of motor carriers of passengers or to acquire control of motor carriers of passengers. There is no application form for these proceedings. Applicants shall file a pleading containing the information described in 49 CFR 1182.2. *See* 49 CFR 1002.2(f) (2) and (5) for filing fees.

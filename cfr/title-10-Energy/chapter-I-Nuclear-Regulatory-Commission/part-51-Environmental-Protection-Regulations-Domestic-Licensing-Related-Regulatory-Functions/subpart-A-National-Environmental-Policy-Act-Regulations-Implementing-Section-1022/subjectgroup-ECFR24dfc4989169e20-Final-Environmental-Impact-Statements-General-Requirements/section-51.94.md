@@ -1,0 +1,3 @@
+##### § 51.94 Requirement to consider final environmental impact statement. #####
+
+The final environmental impact statement, together with any comments and any supplement, will accompany the application or petition for rulemaking through, and be considered in, the Commission's decisionmaking process. The final environmental impact statement, together with any comments and any supplement, will be made a part of the record of the appropriate adjudicatory or rulemaking proceeding.

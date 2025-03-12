@@ -1,0 +1,5 @@
+##### § 117.23 Liabilities for removal. #####
+
+In any case where a substance designated as hazardous in 40 CFR part 116 is discharged from any vessel or onshore or offshore facility in a quantity equal to or exceeding the reportable quantity determined by this part, the owner, operator or person in charge will be liable, pursuant to section 311 (f) and (g) of the Act, to the United States Government for the actual costs incurred in the removal of such substance, subject only to the defenses and monetary limitations enumerated in section 311 (f) and (g) of the Act.
+
+The Administrator may act to mitigate the damage to the public health or welfare caused by a discharge and the cost of such mitigation shall be considered a cost incurred under section 311(c) for the removal of that substance by the United States Government.

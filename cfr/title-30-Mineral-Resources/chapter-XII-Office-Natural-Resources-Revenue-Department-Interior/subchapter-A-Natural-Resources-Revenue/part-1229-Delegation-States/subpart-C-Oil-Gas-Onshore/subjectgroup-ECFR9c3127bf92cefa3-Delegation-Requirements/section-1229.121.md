@@ -1,0 +1,9 @@
+##### § 1229.121 Recordkeeping requirements. #####
+
+(a) The State shall maintain in a safe and secure manner all records, workpapers, reports, and correspondence gained or developed as a consequence of audit or investigative activities conducted under the delegation. All such records shall be made available for review and inspection upon request by representatives of the Secretary and the Department's Office of Inspector General (OIG).
+
+(b) The State must maintain in a confidential manner all data obtained from DOI sources or from payor or company sources under the delegation which have been deemed “confidential or proprietary” by DOI or a company or payor. In this regard, the State regulatory authority shall be bound by provisions of 30 U.S.C. 1733. ONRR shall provide to the State guidelines for determining confidential and proprietary material.
+
+(c) All records subject to the requirements of paragraph (a) must be maintained for a 6-year period measured from the end of the calendar year in which the records were created. All dispositions or records must be with the written approval of the ONRR. Upon termination of a delegation, the State shall, within 90 days from the date of termination, assemble all records specified in subsection (a), complete all working paper files in accordance with § 1229.124, and transfer such records to the ONRR.
+
+(d) The State shall maintain complete cost records for the delegation in accordance with generally accepted accounting principles. Such records shall be in sufficient detail to demonstrate the total actual costs associated with the project and to permit a determination by ONRR whether delegation funds were used for their intended purpose. All such records shall be made available for review and inspection upon request by representatives of the Secretary and the Department's Office of Inspector General (OGIG).

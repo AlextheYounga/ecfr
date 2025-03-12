@@ -1,0 +1,11 @@
+##### § 7.26 To what extent and in what format are records searched and made available? #####
+
+(a) *Existing records.* A request may seek only records that are in existence at the time of the request. In determining which records are responsive to a request, DOT ordinarily will include only records in its possession as of the date it begins its search for them. If any other date is used, DOT will inform the requester of that date. DOT considers records created after the beginning of the search to be non-responsive to a request. A request made under this subpart may not require that new records be created in response to the request by, for example, combining or compiling selected items from manual files, preparing a new computer program, or calculating proportions, percentages, frequency distributions, trends, or comparisons. DOT may, in its discretion, create a new record as an alternative to disclosing existing records, if DOT determines that creating a new record will be less burdensome than disclosing large volumes of unassembled material and if the requester consents to accept the newly-created record in lieu of the existing records.
+
+(b) *Electronic records.* DOT makes a reasonable effort to search electronic records without significantly interfering with the operation of the affected information system.
+
+(c) *Format of production.* DOT provides records in the form or format sought by the requester, if the records are readily reproducible in that form or format.
+
+(d) *Photocopying of records.* Original records ordinarily are copied except where, in DOT's judgment, copying would endanger the quality of the original or raise the reasonable possibility of irreparable harm to the record. Original records are not released from DOT custody. DOT may make records requested under this subpart available for inspection and copying during regular business hours at the place where the records are located.
+
+(e) *If no responsive record is located.* If DOT cannot locate a requested record in agency files after a reasonable search (e.g., because the record was never created or was disposed of), DOT so notifies the requester.

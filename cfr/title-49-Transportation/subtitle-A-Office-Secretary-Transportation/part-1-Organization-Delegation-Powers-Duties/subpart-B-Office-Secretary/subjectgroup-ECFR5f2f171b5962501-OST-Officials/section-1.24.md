@@ -1,0 +1,3 @@
+##### § 1.24 Under Secretary of Transportation for Policy. #####
+
+The Under Secretary provides leadership in the Department's development of policies and programs to protect and enhance the safety, adequacy, and efficiency of the transportation system and services. The Office of the Under Secretary serves as the focal point within the Federal Government for coordination of intermodal transportation policy, which brings together departmental intermodal perspectives, advocates intermodal interests, and provides secretarial leadership and visibility on issues that involve or affect more than one Operating Administration.

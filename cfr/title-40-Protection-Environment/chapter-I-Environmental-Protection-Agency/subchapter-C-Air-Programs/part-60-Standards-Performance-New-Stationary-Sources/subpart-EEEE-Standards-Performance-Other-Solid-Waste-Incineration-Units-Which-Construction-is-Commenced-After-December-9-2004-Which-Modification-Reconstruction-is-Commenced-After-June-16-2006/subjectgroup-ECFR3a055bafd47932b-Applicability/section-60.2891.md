@@ -1,0 +1,3 @@
+##### § 60.2891 Do all components of these new source performance standards apply at the same time? #####
+
+No, you must meet the preconstruction siting analysis and waste management plan requirements before you commence construction, reconstruction, or modification of the OSWI unit. The operator training and qualification, emission limitations, operating limits, performance testing and compliance, monitoring, and most recordkeeping and reporting requirements are met after the OSWI unit begins operation.

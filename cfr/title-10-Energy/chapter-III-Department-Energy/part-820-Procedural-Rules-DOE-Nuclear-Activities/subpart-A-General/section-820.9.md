@@ -1,0 +1,3 @@
+##### § 820.9 Special assistant. #####
+
+A DOE Official may appoint a person to serve as a special assistant to assist the DOE Official in the conduct of any proceeding under this part. Such appointment may occur at any appropriate time. A special assistant shall be subject to the disqualification provisions in § 820.5. A special assistant may perform those duties assigned by the DOE Official, including but not limited to, serving as technical interrogators, technical advisors and special master.

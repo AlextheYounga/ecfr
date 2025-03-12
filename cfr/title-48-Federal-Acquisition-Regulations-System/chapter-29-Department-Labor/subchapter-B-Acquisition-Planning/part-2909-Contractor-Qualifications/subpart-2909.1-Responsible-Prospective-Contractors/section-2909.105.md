@@ -1,0 +1,3 @@
+##### 2909.105 Procedures. #####
+
+Before awarding a contract, the contracting officer must make a written determination of the otherwise successful bidder's/offeror's responsibility in accordance with FAR 9.105. In addition to past performance information, the contracting officer must insure that the proposed contractor, and any subcontractor representing more than $25,000 in goods or services, does not appear in the “List of Parties Excluded from Federal Procurement” (available on the Internet at *www.epls.gov*). In addition, contracting officers should base their determination of contractor responsibility on a review of the company's “Summary or Financial Report” from Dun & Bradstreet (available on the Internet for a fee at *http://www.dnb.com/*).

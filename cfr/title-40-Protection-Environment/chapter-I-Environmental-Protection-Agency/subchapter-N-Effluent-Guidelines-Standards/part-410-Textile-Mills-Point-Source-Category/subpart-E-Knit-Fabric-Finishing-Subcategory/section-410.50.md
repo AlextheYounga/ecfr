@@ -1,0 +1,3 @@
+##### § 410.50 Applicability; description of the knit fabric finishing subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from the following types of textile mills: knit fabric finishers, which may include any or all of the following unit operations: Bleaching, mercerizing, dyeing, printing, resin treatment, water proofing, flame proofing, soil repellency application and a special finish application.

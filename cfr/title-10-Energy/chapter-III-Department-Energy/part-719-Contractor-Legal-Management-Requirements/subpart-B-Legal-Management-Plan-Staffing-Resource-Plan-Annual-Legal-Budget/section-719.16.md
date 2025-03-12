@@ -1,0 +1,7 @@
+##### § 719.16 When must the Staffing and Resource Plan be submitted? #####
+
+(a) The contractor or retained legal counsel must submit the Staffing and Resource Plan to Department Counsel within 30 days after the filing of an answer or a dispositive motion in lieu of an answer, 30 days after a determination that the cost is expected to exceed $100,000, or 30 days after notification from Department Counsel that a matter is considered significant, whichever is sooner. The deadline for submitting the Staffing and Resource Plan may be extended by Department Counsel.
+
+(b) Department Counsel may state objections to the Staffing and Resource Plan within 30 days of receipt of a Staffing and Resource Plan. When an objection is stated, the contractor or retained legal counsel must either revise the Staffing and Resource Plan to satisfy the objection within 30 days or file a letter with the General Counsel disputing the objection.
+
+(c) Contractors must require retained legal counsel to update Staffing and Resource Plans annually or more frequently if there are significant changes in the matter. The contractor must submit the Staffing and Resource Plan updates to Department Counsel. Similarly, Department retained legal counsel must submit to Department Counsel annual Staffing and Resource Plan updates or more frequent updates if there are significant changes in the matter.

@@ -1,0 +1,3 @@
+##### 873.101 Policy. #####
+
+The simplified acquisition procedures set forth in this Department of Veterans Affairs Acquisition Regulation (VAAR) part apply to the acquisition of health-care resources consisting of commercial services or the use of medical equipment or space. These procedures shall be used in conjunction with the Federal Acquisition Regulation (FAR) and other parts of the VAAR. However, when a policy or procedure in the FAR or another part of the VAAR differs from the procedures contained in this part, this part shall apply. These procedures contain more flexibility than provided in the FAR or elsewhere in the VAAR. (38 U.S.C. 8153)

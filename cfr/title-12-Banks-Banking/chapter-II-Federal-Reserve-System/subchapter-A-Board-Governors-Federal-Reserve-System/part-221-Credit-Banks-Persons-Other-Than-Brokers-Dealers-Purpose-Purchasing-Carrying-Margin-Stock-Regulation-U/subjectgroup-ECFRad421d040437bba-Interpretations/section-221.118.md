@@ -1,0 +1,21 @@
+##### § 221.118 Bank arranging for extension of credit by corporation. #####
+
+(a) The Board considered the questions whether:
+
+(1) The guaranty by a corporation of an “unsecured” bank loan to exercise an option to purchase stock of the corporation is an “extension of credit” for the purpose of this part;
+
+(2) Such a guaranty is given “in the ordinary course of business” of the corporation, as defined in § 221.2; and
+
+(3) The bank involved took part in arranging for such credit on better terms than it could extend under the provisions of this part.
+
+(b) The Board understood that any officer or employee included under the corporation's stock option plan who wished to exercise his option could obtain a loan for the purchase price of the stock by executing an unsecured note to the bank. The corporation would issue to the bank a guaranty of the loan and hold the purchased shares as collateral to secure it against loss on the guaranty. Stock of the corporation is registered on a national securities exchange and therefore qualifies as “margin stock” under this part.
+
+(c) A nonbank lender is subject to the registration and other requirements of this part if, in the ordinary course of his business, he extends credit on collateral that includes any margin stock in the amount of $200,000 or more in any calendar quarter, or has such credit outstanding in any calendar quarter in the amount of $500,000 or more. The Board understood that the corporation in question had sufficient guaranties outstanding during the applicable calendar quarter to meet the dollar thresholds for registration.
+
+(d) In the Board's judgment a person who guarantees a loan, and thereby becomes liable for the amount of the loan in the event the borrower should default, is lending his credit to the borrower. In the circumstances described, such a lending of credit must be considered an “extension of credit” under this part in order to prevent circumvention of the regulation's limitation on the amount of credit that can be extended on the security of margin stock.
+
+(e) Under § 221.2, the term *in the ordinary course of business means* “occurring or reasonably expected to occur in carrying out or furthering any business purpose. \* \* \*” In general, stock option plans are designed to provide a company's employees with a proprietary interest in the company in the form of ownership of the company's stock. Such plans increase the company's ability to attract and retain able personnel and, accordingly, promote the interest of the company and its stockholders, while at the same time providing the company's employees with additional incentive to work toward the company's future success. An arrangement whereby participating employees may finance the exercise of their options through an unsecured bank loan guaranteed by the company, thereby facilitating the employees' acquisition of company stock, is likewise designed to promote the company's interest and is, therefore, in furtherance of a business purpose.
+
+(f) For the reasons indicated, the Board concluded that under the circumstances described a guaranty by the corporation constitutes credit extended in the ordinary course of business under this part, that the corporation is required to register pursuant to § 221.3(b), and that such guaranties may not be given in excess of the maximum loan value of the collateral pledged to secure the guaranty.
+
+(g) Section 221.3(a)(3) provides that “no lender may arrange for the extension or maintenance of any purpose credit, except upon the same terms and conditions on which the lender itself may extend or maintain purpose credit under this part”. Since the Board concluded that the giving of a guaranty by the corporation to secure the loan described above constitutes an extension of credit, and since the use of a guaranty in the manner described could not be effectuated without the concurrence of the bank involved, the Board further concluded that the bank took part in “arranging” for the extension of credit in excess of the maximum loan value of the margin stock pledged to secure the guaranties.

@@ -1,0 +1,5 @@
+##### 315.208 Submission, modification, revision, and withdrawal of proposals. #####
+
+(b) In addition to the provision in Federal Acquisition Regulation (FAR) 52.215-1, Instructions to Offerors—Competitive Acquisition, if the head of the contracting activity (HCA) determines that biomedical or behavioral research and development (R&D) acquisitions are subject to conditions other than those specified in FAR 52.215-1(c)(3), the HCA may authorize for use in competitive solicitations for R&D, the provision at 352.215-70, Late Proposals and Revisions. This is an authorized FAR deviation.
+
+(2) When the provision at 352.215-70 is included in the solicitation and if the HCA intends to consider a proposal or proposals received after the exact time specified for receipt, the contracting officer, with the assistance of cost or technical personnel as appropriate, shall determine in writing that the proposal(s) meets the requirements of the provision at 352.215-70.

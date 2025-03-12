@@ -1,0 +1,13 @@
+##### § 35.49 Sale of unclaimed effects; procedures. #####
+
+The following provisions shall govern the sale of effects:
+
+(a) *Notice.* Reasonable advance notice of proposed sales shall be posted at such prominent places in the station or hospital area as the officer in charge may designate. In addition, a notice shall be posted at the nearest post office, and notices shall be sent by mail to all known persons to whom delivery of money and effects of the patient may be made under the provisions of this subpart. The officer or employee who posts or sends notices of sales shall make an appropriate affidavit on a copy of the notice as to his action in that respect, including in his affidavit the names of persons to whom copies of the notices were mailed and the mailing dates. The copy of the notice on which the affidavit appears shall be retained in the files of the station or hospital.
+
+(b) *Form and contents of notice.* Notice of proposed sales shall be given on a form prescribed by the Surgeon General. The notice shall include: an inventory of the effects to be offered for sale; the names of the patients from whom the effects were received; the precise date, time, and place when and where the sale will be held; a statement that the articles will be available for inspection immediately prior to sale, if sold at public auction, or on a day and during the hours appointed for the inspection of articles if sold by sealed bid; a statement that the sale is to be held pursuant to the provisions of the regulations in this part, that, if the articles are to be sold by sealed bid, the right to reject all bids is reserved, and that, if otherwise authorized, delivery will be made of effects or proceeds of sales to persons filing claims prior to the sale of effects or prior to the transmittal of proceeds to the Surgeon General.
+
+(c) *Time and place of sales.* All sales shall be held at reasonable hours and at such places within the station or hospital area as the officer in charge may designate.
+
+(d) *Who shall conduct sales.* All sales shall be conducted by the officer in charge or by a responsible officer or employee designated by him.
+
+(e) *Sale and delivery.* All effects offered for sale shall be sold to the highest bidder and delivered to him immediately upon payment of the sale price in cash or by postal money order or certified check and execution of an appropriate receipt by the person to whom delivery is made.

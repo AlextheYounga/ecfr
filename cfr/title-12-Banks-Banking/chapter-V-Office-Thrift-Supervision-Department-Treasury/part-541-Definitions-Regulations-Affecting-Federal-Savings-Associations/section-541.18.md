@@ -1,0 +1,3 @@
+##### § 541.18 Interim Federal savings association. #####
+
+The term *interim Federal savings association* means a Federal savings association chartered by the Office under section 5 of the Act to facilitate the acquisition of 100 percent of the voting shares of an existing Federal stock savings association or other insured stock savings association by a newly formed company or an existing savings and loan holding company or to facilitate any other transaction the Office may approve.

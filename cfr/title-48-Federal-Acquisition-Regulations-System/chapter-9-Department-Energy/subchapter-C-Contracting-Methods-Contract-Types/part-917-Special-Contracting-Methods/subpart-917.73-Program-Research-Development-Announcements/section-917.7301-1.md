@@ -1,0 +1,7 @@
+##### 917.7301-1 General. #####
+
+(a) PRDAs shall be used to provide potential proposers with information concerning DOE's interest in entering into arrangements for research, development, and related projects in specified areas of interest. It is DOE's intent to solicit the submission of ideas which will serve as a basis for research, development, and related activities in the energy field. It is DOE's desire to encourage the involvement of small business concerns, small disadvantage business concerns, and women-owned small business concerns in research and development undertaken pursuant to PRDAs.
+
+(b) The PRDA should not replace existing acquisition procedures where a requirement can be sufficiently defined for solicitation under standard advertised or negotiated acquisition procedures. Similarly, it should not inhibit or curtail the submission of unsolicited proposals. However, a proposal which is submitted as though it were unsolicited but is in fact germane to an existing PRDA shall be treated as though submitted in response to the announcement or returned without action to the proposer, at the proposer's option. Further, the PRDA is not to be used in a competitive situation where it is appropriate to negotiate a study contract to obtain analysis and recommendations to be incorporated in the subsequent request for proposals.
+
+[61 FR 41707, Aug. 9, 1996, as amended at 76 FR 7693, Feb. 11, 2011]

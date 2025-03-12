@@ -1,0 +1,11 @@
+##### § 122.43 Establishing permit conditions (applicable to State programs, see § 123.25). #####
+
+(a) In addition to conditions required in all permits (§§ 122.41 and 122.42), the Director shall establish conditions, as required on a case-by-case basis, to provide for and ensure compliance with all applicable requirements of CWA and regulations. These shall include conditions under §§ 122.46 (duration of permits), 122.47(a) (schedules of compliance), 122.48 (monitoring), electronic reporting requirements of 40 CFR part 3 (Cross-Media Electronic Reporting Regulation) and 40 CFR part 127 (NPDES Electronic Reporting), and, for EPA permits only, §§ 122.47(b) (alternatives schedule of compliance) and 122.49 (considerations under Federal law).
+
+(b)(1) For a State issued permit, an applicable requirement is a State statutory or regulatory requirement which takes effect prior to final administrative disposition of a permit. For a permit issued by EPA, an applicable requirement is a statutory or regulatory requirement (including any interim final regulation) which takes effect prior to the issuance of the permit. Section 124.14 (reopening of comment period) provides a means for reopening EPA permit proceedings at the discretion of the Director where new requirements become effective during the permitting process and are of sufficient magnitude to make additional proceedings desirable. For State and EPA administered programs, an applicable requirement is also any requirement which takes effect prior to the modification or revocation and reissuance of a permit, to the extent allowed in § 122.62.
+
+(2) New or reissued permits, and to the extent allowed under § 122.62 modified or revoked and reissued permits, shall incorporate each of the applicable requirements referenced in §§ 122.44 and 122.45.
+
+(c) *Incorporation.* All permit conditions shall be incorporated either expressly or by reference. If incorporated by reference, a specific citation to the applicable regulations or requirements must be given in the permit.
+
+[48 FR 14153, Apr. 1, 1983, as amended at 65 FR 30908, May 15, 2000; 80 FR 64098, Oct. 22, 2015]

@@ -1,0 +1,3 @@
+##### § 900.2 Objectives. #####
+
+The objective of this part is to provide an introduction to the synopsis of the approved State programs, the Abandoned Mined Lands Reclamation programs, the cross referencing provisions of Federal programs and the full texts of State and Federal cooperative agreements for regulation of mining on Federal lands. The introduction explains the content and authority of the permanent regulatory programs.

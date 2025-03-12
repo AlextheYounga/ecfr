@@ -1,0 +1,3 @@
+##### § 19.201 Petition for reinstatement. #####
+
+At the expiration of the period of time designated in the order of debarment, the Comptroller may entertain a petition for reinstatement from any person debarred from practice before the OCC. The Comptroller may grant reinstatement only if satisfied that the petitioner is likely to act in accordance with the regulations in this part, and that granting reinstatement would not be contrary to the public interest. Any request for reinstatement shall be limited to written submissions unless the Comptroller, in his or her discretion, affords the petitioner a hearing.

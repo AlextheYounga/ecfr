@@ -1,0 +1,3 @@
+##### § 121.267 Extinguishing agent container pressure relief. #####
+
+Extinguishing agent containers must be provided with a pressure relief to prevent bursting of the container because of excessive internal pressures. The discharge line from the relief connection must terminate outside the airplane in a place convenient for inspection on the ground. An indicator must be provided at the discharge end of the line to provide a visual indication when the container has discharged.

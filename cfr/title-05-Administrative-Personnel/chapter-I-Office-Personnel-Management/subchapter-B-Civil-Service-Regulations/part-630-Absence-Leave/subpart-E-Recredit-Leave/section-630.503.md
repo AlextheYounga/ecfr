@@ -1,0 +1,3 @@
+##### § 630.503 Leave from former leave systems. #####
+
+An employee who earned leave under the leave acts of 1936 or any other leave system merged under subchapter I of chapter 63 of title 5, United States Code, is entitled to a recredit of that leave under that subchapter if he would have been entitled to recredit for it on reentering the leave system under which it was earned. However, this section does not revive leave already forfeited.

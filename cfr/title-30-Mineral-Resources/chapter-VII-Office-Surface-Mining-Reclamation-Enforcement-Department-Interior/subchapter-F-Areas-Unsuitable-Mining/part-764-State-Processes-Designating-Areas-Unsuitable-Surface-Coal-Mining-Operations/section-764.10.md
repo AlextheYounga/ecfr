@@ -1,0 +1,3 @@
+##### § 764.10 Information collection. #####
+
+The information collection requirements contained in §§ 764.21 and 764.25(b) have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0030. The information required in § 764.21 is necessary to allow the regulatory authority to develop a data base and inventory system to evaluate whether reclamation is feasible in areas covered by petitions. The information required in § 764.25(b) is necessary to allow the regulatory authority to determine, when a permit application is filed, whether it includes any areas designated as unsuitable for surface coal mining.

@@ -1,0 +1,3 @@
+##### § 622.6 Opportunity for informal settlement. #####
+
+Any interested party may at any time submit to the Board for consideration written offers or proposals for settlement of a proceeding, without prejudice to the rights of the parties. No offer or proposal shall be admissible into evidence over the objection of any party in any hearing in connection with such proceeding. The foregoing provisions of this section shall not preclude settlement of any proceeding through the regular adjudicatory process by the filing of an answer as provided in § 622.5(c), or by submission of the case to the presiding officer on a stipulation of facts and an agreed order.

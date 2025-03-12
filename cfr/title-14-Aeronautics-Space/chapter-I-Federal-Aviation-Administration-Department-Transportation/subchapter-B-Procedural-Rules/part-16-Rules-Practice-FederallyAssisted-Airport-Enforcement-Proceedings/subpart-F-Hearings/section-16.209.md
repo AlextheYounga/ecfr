@@ -1,0 +1,9 @@
+##### § 16.209 Extension of time. #####
+
+(a) *Extension by oral agreement.* The parties may agree to extend for a reasonable period of time for filing a document under this part. If the parties agree, the hearing officer shall grant one extension of time to each party. The party seeking the extension of time shall submit a draft order to the hearing officer to be signed by the hearing officer and filed with the hearing docket. The hearing officer may grant additional oral requests for an extension of time where the parties agree to the extension.
+
+(b) *Extension by motion.* A party shall file a written motion for an extension of time with the hearing officer not later than 7 days before the document is due unless good cause for the late filing is shown. A party filing a written motion for an extension of time shall serve a copy of the motion on each party.
+
+(c) *Failure to rule.* If the hearing officer fails to rule on a written motion for an extension of time by the date the document was due, the motion for an extension of time is deemed denied.
+
+(d) *Effect on time limits.* In a hearing required by section 519(b) of the Airport and Airways Improvement Act, as amended in 1987, 49 U.S.C. 47106(e) and 47111(d), the due date for the hearing officer's initial decision and for the final agency decision are extended by the length of the extension granted by the hearing officer only if the hearing officer grants an extension of time as a result of an agreement by the parties as specified in paragraph (a) of this section or, if the hearing officer grants an extension of time as a result of the sponsor's failure to adhere to the hearing schedule. In any other hearing, an extension of time granted by the hearing officer for any reason extends the due date for the hearing officer's initial decision and for the final agency decision by the length of time of the hearing officer's decision.

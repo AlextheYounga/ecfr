@@ -1,0 +1,3 @@
+##### § 455.30 Applicability; description of the metallo-organic pesticide chemicals manufacturing subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the manufacture of metallo-organic active ingredients containing mercury, cadmium, arsenic, or copper. The manufacture of intermediates used to manufacture the active ingredients are excluded from coverage by this subpart.

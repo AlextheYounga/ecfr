@@ -1,0 +1,5 @@
+##### § 424.505 Basic enrollment requirement. #####
+
+To receive payment for covered Medicare items or services from either Medicare (in the case of an assigned claim) or a Medicare beneficiary (in the case of an unassigned claim), a provider or supplier must be enrolled in the Medicare program. Except for those suppliers that complete the CMS-855O form or CMS-identified equivalent, successor form or process for the sole purpose of obtaining eligibility to order or certify Medicare-covered items and services; once enrolled the provider or supplier receives billing privileges and is issued a valid billing number effective for the date a claim was submitted for an item that was furnished or a service that was rendered. (See 45 CFR part 162 for information on the National Provider Identifier and its use as the Medicare billing number.)
+
+[71 FR 20776, Apr. 21, 2006, as amended at 79 FR 72531, Dec. 5, 2014]

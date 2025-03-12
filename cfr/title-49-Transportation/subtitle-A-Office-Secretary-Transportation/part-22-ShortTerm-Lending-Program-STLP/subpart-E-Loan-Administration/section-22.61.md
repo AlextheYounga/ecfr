@@ -1,0 +1,3 @@
+##### § 22.61 Loan guarantee extensions. #####
+
+An extension of the original loan guarantee may be requested, in writing, by the Participating Lender. The Participating lender must submit to OSDBU a form DOT F 2310-1 to request an extension of the original loan guarantee for a maximum period of ninety (90) days. The form is available at *http://www.osdbu.dot.gov/financial/docs/Loan\_Extension\_DOT\_F\_2310-1.pdf.* The request must comply with the terms and conditions described in the guarantee agreement and with the STLP policies and procedures. All extension requests must be approved by the Director.

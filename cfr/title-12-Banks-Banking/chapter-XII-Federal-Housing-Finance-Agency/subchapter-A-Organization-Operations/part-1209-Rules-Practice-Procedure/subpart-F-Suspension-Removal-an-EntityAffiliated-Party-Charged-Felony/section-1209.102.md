@@ -1,0 +1,35 @@
+##### § 1209.102 Hearing on removal or suspension. #####
+
+(a) *Hearing requests*—(1) *Deadline.* An entity-affiliated party served with a notice of suspension or prohibition or an order of removal or prohibition, within 30 days of service of such notice or order, may submit to the Director a written request to appear before the Director to show that his or her continued service or participation in the affairs of the regulated entity will not pose a threat to the interests of, or threaten to impair public confidence in, the Enterprises or the Banks. The request must be addressed to the Director and sent to the Federal Housing Finance Agency at 400 Seventh Street, SW., Eighth Floor, Washington, DC 20219, by:
+
+(i) Overnight U.S. Postal Service delivery or delivery by a reliable commercial delivery service for same day or overnight delivery to the address stated above; or
+
+(ii) First class, registered, or certified mail via the U.S. Postal Service.
+
+(2) *Waiver of appearance.* An entity-affiliated party may elect in writing to waive his or her right to appear to make a statement in person or through counsel and have the matter determined solely on the basis of his or her written submission.
+
+(b) *Form and timing of hearing.* (1) *Informal hearing.* Hearings under subpart F of this part are not subject to the formal adjudication provisions of the Administrative Procedure Act (5 U.S.C. 554 through 557), and are not conducted under subpart C of this part.
+
+(2) *Setting of the hearing.* Upon receipt of a timely request for a hearing, the Director will give written notice and set a date within 30 days for the entity-affiliated party to appear, personally, or through counsel, before the Director or his or her designee(s) to submit written materials (or, at the discretion of the Director, oral testimony and oral argument) to make the necessary showing under paragraph (a) of this section. The entity-affiliated party may submit a written request for additional time for the hearing to commence, without undue delay, and the Director may extend the hearing date for a specified time.
+
+(3) *Oral testimony.* The Director or his or her designee, in his or her discretion, may deny, permit, or limit oral testimony in the hearing.
+
+(c) *Conduct of the hearing*—(1) *Hearing officer.* A hearing under this section may be presided over by the Director or one or more designated FHFA employees, except that an officer designated by the Director (hearing officer) to conduct the hearing may not have been involved in an underlying criminal proceeding, a factually related proceeding, or an enforcement proceeding in a prosecutorial or investigative role. This provision does not preclude the Director otherwise from seeking information on the matters at issue from appropriate FHFA staff on an as needed basis consistent with § 1209.101(d)(2).
+
+(2) *Submissions.* All submissions of the requestor and FHFA's counsel of record must be received by the Director or his or her designee no later than 10 days prior to the date set for the hearing. FHFA may respond in writing to the requestor's submission and serve the requestor (and any other interested party such as the regulated entity) not later than the date fixed by the hearing officer for submissions or other time period as the hearing officer may require.
+
+(3) *Procedures.* (i) *Fact finding authority of the hearing officer.* The hearing officer shall determine all procedural matters under subpart F of this part, permit or limit the appearance of witnesses in accordance with paragraph (b)(3) of this section, and impose time limits as he or she deems reasonable. All oral statements, witness testimony, if permitted, and documents submitted that are found by the hearing officer to be materially relevant to the proceeding and not unduly repetitious may be considered. The hearing officer may question any person appearing in the proceeding, and may make any ruling reasonably necessary to ensure the full and fair presentation of evidence and to facilitate the efficient and effective operation of the proceeding.
+
+(ii) *Statements to an officer.* Any oral or written statement made to the Director, a hearing officer, or any FHFA employee under subpart F of this part is deemed to be a statement made to a Federal officer or agency within the meaning of 18 U.S.C. 1006.
+
+(iii) *Oral testimony.* If either the requestor or FHFA counsel of record desires to present oral testimony to supplement the party's written submission he or she must make a request in writing to the hearing officer not later than 10 days prior to the hearing, as provided in paragraph (c)(2) of this section, or within a shorter time period as permitted by the hearing officer for good cause shown. The request should include the name of the individual(s), a statement generally descriptive of the expected testimony, and the reasons why such oral testimony is warranted. The hearing officer generally will not admit witnesses, absent a strong showing of specific and compelling need. Witnesses, if admitted, shall be sworn.
+
+(iv) *Written materials.* Each party must file a copy of any affidavit, memorandum, or other written material to be presented at the hearing with the hearing officer and serve copies on any other interested party (such as the affected regulated entity) not later than 10 days prior to commencement of the informal hearing, as provided in paragraph (c)(2), or within a shorter time period as permitted by the hearing officer for good cause shown.
+
+(v) *Relief.* The purpose of the hearing is to determine whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the regulated entity will be continued, terminated, or otherwise modified, or whether the order removing such party from office or prohibiting the party from further participation in any manner in the conduct of the affairs of the regulated entity will be rescinded or otherwise modified.
+
+(vi) *Ultimate question.* In deciding on any request for relief from a notice of suspension or prohibition, the hearing officer shall not consider the ultimate question of guilt or innocence with respect to the outstanding criminal charge(s). In deciding on a request for relief from a removal order, the hearing officer shall not consider challenges to or efforts to impeach the validity of the conviction. In either case, the hearing officer may consider facts that show the nature of the events on which the conviction or charges were based.
+
+(4) *Record.* If warranted under the circumstances of the matter, the hearing officer may require that a transcript of the proceedings be prepared at the expense of the requesting party. The hearing officer may order the record be kept open for a reasonable time following the hearing, not to exceed five business days, to permit the filing of additional pertinent submissions for the record. Thereafter, no further submissions are to be admitted to the record, absent good cause shown.
+
+[76 FR 53607, Aug. 26, 2011,, as amended at 80 FR 80233, Dec. 24, 2015]

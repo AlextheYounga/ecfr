@@ -1,0 +1,35 @@
+##### § 69.106 Local switching. #####
+
+(a) Except as provided in § 69.118, charges that are expressed in dollars and cents per access minute of use shall be assessed by local exchange carriers that are not subject to price cap regulation upon all interexchange carriers that use local exchange switching facilities for the provision of interstate or foreign services.
+
+(b) The per minute charge described in paragraph (a) of this section shall be computed by dividing the projected annual revenue requirement for the Local Switching element, excluding any local switching support received by the carrier pursuant to § 54.301 of this chapter, by the projected annual access minutes of use for all interstate or foreign services that use local exchange switching facilities.
+
+(c) If end users of an interstate or foreign service that uses local switching facilities pay message unit charges for such calls in a particular exchange, a credit shall be deducted from the Local Switching element charges to such carrier for access service in such exchange. The per minute credit for each such exchange shall be multiplied by the monthly access minutes for such service to compute the monthly credit to such a carrier.
+
+(d) If all local exchange subscribers in such exchange pay message unit charges, the per minute credit described in paragraph (c) of this section shall be computed by dividing total message unit charges to all subscribers in a particular exchange in a representative month by the total minutes of use that were measured for purposes of computing message unit charges in such month.
+
+(e) If some local exchange subscribers pay message unit charges and some do not, a per minute credit described in paragraph (c) of this section shall be computed by multiplying a credit computed pursuant to paragraph (d) of this section by a factor that is equal to total minutes measured in such month for purposes of computing message unit charges divided by the total local exchange minutes in such month.
+
+(f) Except as provided in § 69.118, price cap local exchange carriers shall establish rate elements for local switching as follows:
+
+(1) Price cap local exchange carriers shall separate from the projected annual revenues for the Local Switching element those costs projected to be incurred for ports (including cards and DS1/voice-grade multiplexers required to access end offices equipped with analog switches) on the trunk side of the local switch. Price cap local exchange carriers shall further identify costs incurred for dedicated trunk ports separately from costs incurred for shared trunk ports.
+
+(i) Price cap local exchange carriers shall recover dedicated trunk port costs identified pursuant to paragraph (f)(1) of this section through flat-rated charges expressed in dollars and cents per trunk port and assessed upon the purchaser of the dedicated trunk terminating at the port.
+
+(ii) Price cap local exchange carriers shall recover shared trunk port costs identified pursuant to paragraph (f)(1) of this section through charges assessed upon purchasers of shared transport. This charge shall be expressed in dollars and cents per access minute of use. The charge shall be computed by dividing the projected costs of the shared ports by the historical annual access minutes of use calculated for purposes of recovery of common transport costs in § 69.111(c).
+
+(2) Price cap local exchange carriers shall recover the projected annual revenues for the Local Switching element that are not recovered in paragraph (f)(1) of this section through charges that are expressed in dollars and cents per access minute of use and assessed upon all interexchange carriers that use local exchange switching facilities for the provision of interstate or foreign services. The maximum charge shall be computed by dividing the projected remainder of the annual revenues for the Local Switching element by the historical annual access minutes of use for all interstate or foreign services that use local exchange switching facilities.
+
+(g) A local exchange carrier may recover signaling costs associated with call setup through a call setup charge imposed upon all interstate interexchange carriers that use that local exchange carrier's facilities to originate or terminate interstate interexchange or foreign services. This charge must be expressed as dollars and cents per call attempt and may be assessed on originating calls handed off to the interexchange carrier's point of presence and on terminating calls received from an interexchange carrier's point of presence, whether or not that call is completed at the called location. Local exchange carriers may not recover through this charge any costs recovered through other rate elements.
+
+(h) Except as provided in § 69.118, non-price cap local exchange carriers may establish rate elements for local switching as follows:
+
+(1) Non-price cap local exchange carriers may separate from the projected annual revenue requirement for the Local Switching element those costs projected to be incurred for ports (including cards and DS1/voice-grade multiplexers required to access end offices equipped with analog switches) on the trunk side of the local switch. Non-price cap local exchange carriers electing to assess these charges shall further identify costs incurred for dedicated trunk ports separately from costs incurred for shared trunk ports.
+
+(i) Non-price cap local exchange carriers electing to assess trunk port charges shall recover dedicated trunk port costs identified pursuant to paragraph (h)(1) of this section through flat-rated charges expressed in dollars and cents per trunk port and assessed upon the purchaser of the dedicated trunk terminating at the port.
+
+(ii) Non-price cap local exchange carriers electing to assess trunk port charges shall recover shared trunk port costs identified pursuant to paragraph (h)(1) of this section through charges assessed upon purchasers of shared transport. This charge shall be expressed in dollars and cents per access minute of use. The charge shall be computed by dividing the projected costs of the shared ports by the historical annual access minutes of use calculated for purposes of recovery of common transport costs in § 69.111(c).
+
+(2) Non-price cap local exchange carriers shall recover the projected annual revenue requirement for the Local Switching element that are not recovered in paragraph (h)(1) of this section through charges that are expressed in dollars and cents per access minute of use and assessed upon all interexchange carriers that use local exchange switching facilities for the provision of interstate or foreign services. The maximum charge shall be computed by dividing the projected remainder of the annual revenue requirement for the Local Switching element by the historical annual access minutes of use for all interstate or foreign services that use local exchange switching facilities.
+
+[52 FR 37310, Oct. 6, 1987, as amended at 56 FR 33881, July 24, 1991; 62 FR 31933, June 11, 1997; 62 FR 40463, July 29, 1997; 66 FR 59731, Nov. 30, 2001]

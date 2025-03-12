@@ -1,0 +1,1 @@
+##### 247.271 Contracts for the preparation of personal property for shipment or storage or for performance of intra-city or intra-area movement. #####

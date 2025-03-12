@@ -1,0 +1,7 @@
+##### § 1071.306 Recommended decision. #####
+
+The adjudicative officer shall issue a recommended decision on the application within 60 days after the time for filing a reply, or where further proceedings are held, within 60 days after completion of such proceedings.
+
+(a) For a decision involving a prevailing party: The decision shall include written findings and conclusions on the applicant's eligibility and status as a prevailing party, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall include, if at issue, findings on whether the agency's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust.
+
+(b) For a decision involving an allegedly excessive Bureau demand: The decision on the application shall include written findings and conclusions on the applicant's eligibility and an explanation of the reasons why the Bureau's demand was or was not determined to be substantially in excess of the underlying decision of the adjudicative officer and was or was not unreasonable when compared with that decision. That determination shall be based upon all the facts and circumstances of the case. The decision on the application shall also include, if at issue, findings on whether the applicant has committed a willful violation of law or otherwise acted in bad faith, or whether special circumstances make an award unjust.

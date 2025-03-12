@@ -1,0 +1,5 @@
+##### § 9.13 Legal proceedings between private litigants: Procedures to request records. #####
+
+(a) In a legal proceeding between private litigants, a party who wishes to obtain records from the Department shall submit to agency counsel a request for the records. The request will ordinarily be handled in accordance with the Department's procedures concerning requests for records found at 49 CFR part 7. If the party does not follow the procedures specified in that part, the request must be accompanied by a statement setting forth the relevance of the records to the proceeding. The request should be resolved before any request for testimony under § 9.15 is submitted. Where a request for testimony includes a request for additional records, it shall indicate precisely how this new request differs in scope from any previous request in order to avoid agency duplication of effort. Agency counsel shall notify the requester of the approval or denial of the request.
+
+(b) [Reserved]

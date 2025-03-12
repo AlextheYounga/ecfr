@@ -1,0 +1,3 @@
+##### § 881.11 Nondiscrimination. #####
+
+The State shall comply with the provisions of section 301 of Executive Order 11246 (Sept. 24, 1965; 30 FR 12319, 12935) and shall incorporate the provisions prescribed by section 202 of Executive Order 11246 in each project contract, and shall undertake and agree to assist and cooperate with the Director and the Secretary of Labor, obtain and furnish information, carry out sanctions and penalties, and refrain from dealing with debarred contractors, all as provided in said section 301.

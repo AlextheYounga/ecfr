@@ -1,0 +1,5 @@
+##### § 962.3 Byproduct material. #####
+
+(a) For purposes of this part, the term *byproduct material* means any radioactive material (except special nuclear material) yielded in or made radioactive by exposure to the radiation incident to the process of producing or utilizing special nuclear material.
+
+(b) For purposes of determining the applicability of the Resource Conservation and Recovery Act (42 U.S.C. 6901 *et seq.*) to any radioactive waste substance owned or produced by the Department of Energy pursuant to the exercise of its atomic energy research, development, testing and production responsibilities under the Atomic Energy Act of 1954 (42 U.S.C. 2011 *et seq.*), the words “any radioactive material,” as used in paragraph (a) of this section, refer only to the actual radionuclides dispersed or suspended in the waste substance. The nonradioactive hazardous component of the waste substance will be subject to regulation under the Resource Conservation and Recovery Act.

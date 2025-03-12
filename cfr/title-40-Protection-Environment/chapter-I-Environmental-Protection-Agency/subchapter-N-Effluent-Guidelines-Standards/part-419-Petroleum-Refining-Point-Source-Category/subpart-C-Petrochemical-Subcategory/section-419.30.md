@@ -1,0 +1,3 @@
+##### § 419.30 Applicability; description of the petrochemical subcategory. #####
+
+The provisions of this subpart are applicable to all discharges from any facility that produces petroleum products by the use of topping, cracking, and petrochemical operations whether or not the facility includes any process in addition to topping, cracking, and petrochemical operations. The provisions of this subpart shall not be applicable, however, to facilities that include the processes specified in subpart D or E of this part.

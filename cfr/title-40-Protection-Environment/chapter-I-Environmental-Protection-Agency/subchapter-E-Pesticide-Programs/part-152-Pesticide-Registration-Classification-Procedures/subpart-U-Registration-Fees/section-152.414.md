@@ -1,0 +1,11 @@
+##### § 152.414 Procedures. #####
+
+(a) *Procedures for requesting a waiver.* (1) A request for a waiver must be submitted in writing at the time the application is submitted to the Office of Pesticide Programs' Document Processing Desk at the appropriate address as set forth in 40 CFR 150.17(a) or (b).
+
+(2) A payment of $1,200 for processing the waiver or the amount of the actual fee, whichever is less, must be submitted simultaneously to the address set forth in paragraph (b) of this section. This fee will be refunded (or applied to any resulting partial fee) if the waiver is granted. Payment of fees for the registration activities, in contrast to the waiver fee, shall not be required until the Agency makes a determination on the waiver request. Since the actual fee is submitted to an address different than the one to which the waiver request is submitted, a copy of the payment document must be submitted with the waiver request that is submitted to the Office of Pesticide Programs' Document Processing Desk as described in paragraph (a)(1) of this section. No fee is required from a person who has no financial interest in the application.
+
+(b) *Procedures for payment of fees.* All fees required by this section must be paid by money order, bank draft, or certified check drawn to the order of the Environmental Protection Agency. All payment of fees must be forwarded to the Environmental Protection Agency, Headquarters Accounting Operations Branch, Office of Pesticide Programs (Registration Fees), P.O. Box 360277M, Pittsburgh, PA 15251. The payments should be specifically labeled “Registration Fees” and should be accompanied only by a copy of the registration application form or the experimental use permit application form, as appropriate. An application will not be accepted for processing until the required fees have been submitted.
+
+(c) *Procedures for submitting application and supporting data.* The application, along with supporting data, shall be forwarded within 30 days of payment to the Washington DC address set forth in paragraph (a)(1) of this section.
+
+[53 FR 19114, May 26, 1988, as amended at 58 FR 34203, June 23, 1993; 69 FR 39864, July 1, 2004; 71 FR 35545, June 21, 2006]

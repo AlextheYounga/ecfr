@@ -1,0 +1,5 @@
+##### § 1511.6 Authority of Federal Reserve Banks. #####
+
+(a) Each Federal Reserve Bank is hereby authorized as fiscal agent of the Funding Corporation to perform functions with respect to the issuance of Book-entry Funding Corporation Securities offered and sold by the Funding Corporation, in accordance with the Securities Documentation, and Federal Reserve Bank Operating Circulars; to service and maintain Book-entry Funding Corporation Securities in accounts established for such purposes; to make payments of principal and interest with respect to such Book-entry Funding Corporation Securities as directed by the Funding Corporation; to effect transfer of Book-entry Funding Corporation Securities between Participants' Securities Accounts as directed by the Participants; and to perform such other duties as fiscal agent as may be requested by the Funding Corporation.
+
+(b) Each Federal Reserve Bank may issue Operating Circulars not inconsistent with this Part, governing the details of its handling of Book-entry Funding Corporation Securities, Security Entitlements, and the operation of the Book-Entry System under this Part.

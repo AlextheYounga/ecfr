@@ -1,0 +1,3 @@
+##### § 137.95 May a Self-Governance Tribe purchase goods and services from the IHS on a reimbursable basis? #####
+
+Yes, a Self-Governance Tribe may choose to purchase from the IHS any goods and services transferred by the IHS to a Self-Governance Tribe in a compact or funding agreement. The IHS shall provide any such goods and services to the Self-Governance Tribe, on a reimbursable basis, including payment in advance with subsequent adjustment.

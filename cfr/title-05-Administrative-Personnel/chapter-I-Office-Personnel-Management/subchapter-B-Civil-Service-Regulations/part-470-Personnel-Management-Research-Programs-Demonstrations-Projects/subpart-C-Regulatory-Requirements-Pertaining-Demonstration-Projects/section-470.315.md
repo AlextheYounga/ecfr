@@ -1,0 +1,3 @@
+##### § 470.315 Project modification and extension. #####
+
+OPM-approved projects permit the testing of alternative personnel systems and procedures in accordance with the provisions of the project plan. The provisions of approved project plans will not be modified, duplicated in organizations not listed in the project plan, or extended by agencies to individuals or groups of employees not included in the project plan without the approval of the Office of Personnel Management. OPM will inform the agency of notification responsibilities under § 470.307. The extent of notification requirements will depend on the nature and extent of the requested project modification.

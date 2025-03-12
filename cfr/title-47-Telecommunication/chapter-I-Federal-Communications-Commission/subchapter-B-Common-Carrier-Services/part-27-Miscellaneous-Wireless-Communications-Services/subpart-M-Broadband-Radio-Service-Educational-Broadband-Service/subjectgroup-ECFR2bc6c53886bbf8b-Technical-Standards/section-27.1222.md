@@ -1,0 +1,3 @@
+##### § 27.1222 Operations in the 2568-2572 and 2614-2618 bands. #####
+
+All operations in the 2568-2572 and 2614-2618 MHz bands shall be secondary to adjacent-channel operations. Stations operating in the 2568-2572 and 2614-2618 MHz must not cause interference to licensees in operation in the LBS, MBS, and UBS and must accept any interference from any station operating in the LBS, MBS, and UBS in compliance with the rules established in this subpart. Stations operating in the 2568-2572 and 2614-2618 bands may cause interference to stations in operation in the LBS, MBS, and UBS if the affected licensees consent to such interference.

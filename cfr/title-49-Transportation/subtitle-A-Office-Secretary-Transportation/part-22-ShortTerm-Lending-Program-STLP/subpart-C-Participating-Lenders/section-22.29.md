@@ -1,0 +1,3 @@
+##### § 22.29 DOT access to participating lenders files. #####
+
+A Participating Lender must allow the authorized representatives of DOT OSDBU, as well as representatives of the Office of Inspector General (OIG) and General Accountability Office (GAO), access to its STLP loan files to review, inspect, and copy all records and documents pertaining to DOT OSDBU guaranteed loans. Record retention of all relevant documents and other materials is specified in the cooperative agreement between DOT OSDBU and the Participating Lender.

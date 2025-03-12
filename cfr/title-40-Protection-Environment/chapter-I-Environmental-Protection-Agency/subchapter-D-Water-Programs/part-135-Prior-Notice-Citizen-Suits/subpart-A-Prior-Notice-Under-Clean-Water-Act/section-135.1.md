@@ -1,0 +1,7 @@
+##### § 135.1 Purpose. #####
+
+(a) Section 505(a)(1) of the Clean Water Act (hereinafter the Act) authorizes any person or persons having an interest which is or may be adversely affected to commence a civil action on his own behalf to enforce the Act or to enforce certain requirements promulgated pursuant to the Act. In addition, section 505(c)(3) of the Act provides that, for purposes of protecting the interests of the United States, whenever a citizen enforcement action is brought under section 505(a)(1) of the Act in a court of the United States, the Plaintiff shall serve a copy of the complaint on the Attorney General and the Administrator. Section 505(c)(3) also provides that no consent judgment shall be entered in any citizen action in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator.
+
+(b) The purpose of this subpart is to prescribe procedures governing the giving of notice required by section 505(b) of the Act as a prerequisite to the commencing of such actions, and governing the service of complaints and proposed consent judgments as required by section 505(c)(3) of the Act.
+
+[56 FR 11515, Mar. 19, 1991]

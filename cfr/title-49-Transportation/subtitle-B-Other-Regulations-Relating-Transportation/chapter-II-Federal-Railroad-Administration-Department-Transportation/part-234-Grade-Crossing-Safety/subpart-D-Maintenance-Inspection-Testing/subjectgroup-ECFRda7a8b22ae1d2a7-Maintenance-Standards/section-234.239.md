@@ -1,0 +1,3 @@
+##### § 234.239 Tagging of wires and interference of wires or tags with signal apparatus. #####
+
+Each wire shall be tagged or otherwise so marked that it can be identified at each terminal. Tags and other marks of identification shall be made of insulating material and so arranged that tags and wires do not interfere with moving parts of the apparatus. This requirement applies to each wire at each terminal in all housings including switch circuit controllers and terminal or junction boxes. This requirement does not apply to flashing light units, gate arm light units and other auxiliary light units. The local wiring on a solid state crossing controller rack does not require tags if the wiring is an integral part of the solid state equipment.

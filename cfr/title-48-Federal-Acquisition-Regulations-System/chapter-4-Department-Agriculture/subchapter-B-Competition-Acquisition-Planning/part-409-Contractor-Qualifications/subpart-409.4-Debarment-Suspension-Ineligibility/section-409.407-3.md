@@ -1,0 +1,7 @@
+##### 409.407-3 Procedures. #####
+
+(a) *Investigation and referral.* When a contracting officer becomes aware of possible irregularities or any information which may be sufficient cause for suspension, the case shall be immediately referred through the HCA to the debarring official. The case must be accompanied by a complete statement of the facts along with a recommendation for action. Where the statement of facts indicates the irregularities to be possible criminal offenses, or for any other reason further investigation is considered necessary, the matter shall be referred to the HCA who should consult with the Office of Inspector General to determine if further investigation is required prior to referring it to the debarring official.
+
+(b) *Decision-making process.* If, after reviewing the recommendations and consulting with the Office of Inspector General and Office of the General Counsel, as appropriate, the debarring official determines suspension is justified, the debarring official shall initiate the proposed suspension in accordance with FAR 9.407-3(c) and notify the HCA of the action taken.
+
+(c) *Fact-finding proceedings.* For actions listed under FAR 9.407-3(b)(2), the contractor shall be given the opportunity to appear at an informal hearing, similar in nature to the hearing for debarments as discussed in 409.406-3(c).

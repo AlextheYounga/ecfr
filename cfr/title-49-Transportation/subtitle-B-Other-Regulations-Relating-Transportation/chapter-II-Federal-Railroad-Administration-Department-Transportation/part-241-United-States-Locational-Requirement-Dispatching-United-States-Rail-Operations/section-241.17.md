@@ -1,0 +1,3 @@
+##### § 241.17 Preemptive effect. #####
+
+Under 49 U.S.C. 20106, the regulations in this part preempt any State law, regulation, or order covering the same subject matter, except an additional or more stringent law, regulation, or order that is necessary to eliminate or reduce an essentially local safety hazard; is not incompatible with a law, regulation, or order of the United States Government; and does not impose an unreasonable burden on interstate commerce.

@@ -1,0 +1,3 @@
+##### § 1631.16 Exemptions. #####
+
+The Freedom of Information Act exempts from all of its publication and disclosure requirements nine categories of records which are described in 5 U.S.C. 552(b). These categories include such matters as national defense and foreign policy information, investigatory files, internal procedures and communications, materials exempted from disclosure by other statutes, information given in confidence and matters involving personal privacy.

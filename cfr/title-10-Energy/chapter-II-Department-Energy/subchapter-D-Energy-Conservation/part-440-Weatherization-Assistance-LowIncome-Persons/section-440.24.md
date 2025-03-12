@@ -1,0 +1,5 @@
+##### § 440.24 Recordkeeping. #####
+
+Each grantee or subgrantee receiving Federal financial assistance under this part shall keep such records as DOE shall require, including records which fully disclose the amount and disposition by each grantee and subgrantee of the funds received, the total cost of a weatherization project or the total expenditure to implement the State plan for which assistance was given or used, the source and amount of funds for such project or program not supplied by DOE, the average costs incurred in weatherization of individual dwelling units, the average size of the dwelling being weatherized, the average income of households receiving assistance under this part, and such other records as DOE deems necessary for an effective audit and performance evaluation. Such recordkeeping shall be in accordance with the DOE Financial Assistance Rule, 10 CFR part 600, and any further requirements of this part.
+
+[58 FR 12529, Mar. 4, 1993]

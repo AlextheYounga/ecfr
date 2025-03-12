@@ -1,0 +1,3 @@
+##### § 374a.8 Prospective application of part. #####
+
+The provisions of this part shall apply only to the extension of credit by an air carrier to a candidate, or to a person acting on his behalf, which is made subsequent to the effective date of this part, and shall not be applicable to debts incurred prior to such date but which are unpaid as of the effective date of this part. The provisions of this part will be applicable, however, to all credit transactions which occur subsequent to the effective date of the part even though the credit account in which the transaction takes place was opened prior to the effective date of the part.

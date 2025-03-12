@@ -1,0 +1,3 @@
+##### § 1201.102 Prohibition on ex parte communications. #####
+
+Except as otherwise provided in § 1201.41(c)(1) of this part, ex parte communications that concern the merits of any matter before the Board for adjudication, or that otherwise violate rules requiring written submissions, are prohibited from the time the persons involved know that the Board may consider the matter until the time the Board has issued a final decision on the matter.

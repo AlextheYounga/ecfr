@@ -1,0 +1,3 @@
+##### § 1003.12 Ratification of prior directives, orders and actions. #####
+
+All orders and other directives issued, all proceedings initiated, and all other actions taken in accordance with 10 CFR part 205 prior to the effective date of this part, are hereby confirmed and ratified, and shall remain in full force and effect as if issued under this part, unless or until they are altered, amended, modified or rescinded in accordance with the provisions of this part.

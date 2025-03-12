@@ -1,0 +1,7 @@
+##### § 1103.17 Joint association of practitioners and conflicts of opinion. #####
+
+(a) A client's offer of the assistance of an additional practitioner should not be regarded as evidence of lack of confidence, but the matter should be left to the determination of the client. A practitioner shall decline association as colleague if it is objectionable to the practitioner first retained, but if the client should relieve the practitioner first retained, another may come into the case.
+
+(b) When practitioners jointly associated in a case cannot agree as to any matter vital to the interest of the client the conflict of opinion should be frankly stated to the client for final determination. The client's decision should be accepted by them unless the nature of the difference makes it impracticable for the practitioner whose judgment has been overruled to cooperate effectively. In that event, it is the practitioner's duty to ask the client to relieve him of his obligation.
+
+(c) It is the right of any practitioner to give proper advice to those seeking relief against an unfaithful or neglectful practitioner. The practitioner against whom the complaint is made should be notified of such action.

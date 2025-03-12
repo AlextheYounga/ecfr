@@ -1,0 +1,5 @@
+##### § 73.5003 Submission of full payments. #####
+
+Winning bidders are required to pay the balance of their winning bids in a lump sum prior to the deadline established by the Commission pursuant to § 1.2109(a) of this chapter. If a winning bidder fails to pay the balance of its winning bid in a lump sum by the applicable deadline as specified by the Commission, it will be allowed to make payment within ten (10) business days after the payment deadline, provided that it also pays a late fee equal to five (5) percent of the amount due in accordance with § 1.2109(a) of this chapter. Broadcast construction permits will be granted by the Commission only after full and timely payment of winning bids and any applicable late fees and in accordance with the provisions of this section.
+
+[71 FR 6228, Feb. 7, 2006]

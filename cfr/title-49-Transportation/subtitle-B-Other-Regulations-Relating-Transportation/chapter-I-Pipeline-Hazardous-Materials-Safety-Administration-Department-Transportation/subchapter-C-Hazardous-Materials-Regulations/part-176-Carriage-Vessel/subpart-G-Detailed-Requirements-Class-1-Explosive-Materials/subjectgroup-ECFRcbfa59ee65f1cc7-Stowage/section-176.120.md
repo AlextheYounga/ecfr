@@ -1,0 +1,3 @@
+##### § 176.120 Lightning protection. #####
+
+A lightning conductor grounded to the sea must be provided on any mast or similar structure on a vessel on which Class 1 (explosive) materials are stowed unless effective electrical bonding is provided between the sea and the mast or structure from its extremity and throughout to the main body of the hull structure. (Steel masts in ships of all welded construction comply with this requirement).

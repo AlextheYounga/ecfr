@@ -1,0 +1,5 @@
+##### § 1808.201 Designated Bonding Authority. #####
+
+(a) *General.* In its sole discretion, the CDFI Fund may solicit Qualified Issuer Applications from entities proposing to serve as the Designated Bonding Authority (DBA). The CDFI Bond Guarantee Program shall only have one DBA at any given time. In order to be selected to serve as the DBA, the entity must meet all qualifications of a Qualified Issuer set forth in section 1808.200 of this interim rule; additional qualifications may be set forth in the applicable NOGA as determined by the CDFI Fund.
+
+(b) *Selection.* The DBA will serve as a CDFI Fund-selected Qualified Issuer and designated Qualified Issuer for Eligible CDFIs that do not elect to designate another Qualified Issuer. The DBA will prepare and submit a Guarantee Application on behalf of such Eligible CDFI applicants, in accordance with such criteria set forth in this interim rule, the applicable Notice of Guarantee Availability and the Qualified Issuer Application.

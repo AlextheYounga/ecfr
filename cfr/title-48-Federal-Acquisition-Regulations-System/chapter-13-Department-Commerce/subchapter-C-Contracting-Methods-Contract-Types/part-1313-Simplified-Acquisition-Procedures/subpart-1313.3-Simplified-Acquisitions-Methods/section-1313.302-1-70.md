@@ -1,0 +1,3 @@
+##### 1313.302-1-70 Non-commercial purchase orders. #####
+
+Insert provision 1352.213-71, *Instructions for Submitting Quotations under the Simplified Acquisition Threshold—Non-Commercial,* or similar language in all solicitations for non-commercial purchase orders under the simplified acquisition threshold. The contracting officer shall indicate whether electronic submissions of quotations will be accepted. Paragraph (b)(4) of provision 1352.213-71 may be tailored based on the evaluation factors.

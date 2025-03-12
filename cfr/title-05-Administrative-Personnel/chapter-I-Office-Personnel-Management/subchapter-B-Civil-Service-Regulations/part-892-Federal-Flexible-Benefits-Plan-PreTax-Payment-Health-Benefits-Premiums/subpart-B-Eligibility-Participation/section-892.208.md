@@ -1,0 +1,11 @@
+##### § 892.208 Can I decrease my enrollment type at any time? #####
+
+If you are participating in premium conversion you may decrease your FEHB enrollment type under either of the following circumstances:
+
+(a) *During the annual open season.* A decrease in enrollment type made during the annual open season takes effect on the 1st day of the first pay period that begins in the next year.
+
+(b) *Within 60 days after you have a qualifying life event.* A decrease in enrollment type made because of a qualifying life event takes effect on the first day of the first pay period that begins after the date your employing office receives your appropriate request. Your change in enrollment must be consistent with and correspond to your qualifying life event. For example, if you get divorced and have no dependent children, changing to self only would be consistent with that qualifying life event. As another example, if both you and your spouse are Federal employees, and your youngest dependent turns age 26, changing from a self and family to a self plus one or two self only enrollments would be consistent and appropriate for that event.
+
+(c) If you are subject to a court or administrative order as discussed in § 890.301(g)(3), you may not decrease enrollment type in a way that eliminates coverage of a child identified in the order as long as the court or administrative order is still in effect and you have at least one child identified in the order who is still eligible under the FEHB Program, unless you provide documentation to your agency that you have other coverage for your child or children. See also §§ 892.207 and 892.209. If you are subject to a court or administrative order as discussed in § 890.301(g)(3), you may not change your enrollment to self plus one as long as the court or administrative order is still in effect and you have more than one child identified in the order who is still eligible under the FEHB Program, unless you provide documentation to your agency that you have other coverage for your children. See also §§ 892.207 and 892.209.
+
+[80 FR 55739, Sept. 17, 2015]

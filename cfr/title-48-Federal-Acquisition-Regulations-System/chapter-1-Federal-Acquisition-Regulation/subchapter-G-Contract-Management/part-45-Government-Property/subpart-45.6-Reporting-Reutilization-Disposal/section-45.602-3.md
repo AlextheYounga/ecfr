@@ -1,0 +1,35 @@
+##### 45.602-3 Screening. #####
+
+The screening period begins upon the plant clearance officer's acceptance of an inventory disposal schedule. The plant clearance officer shall determine whether standard or special screening is appropriate and initiate screening actions.
+
+(a) *Standard screening.* The standard screening period is 46 days.
+
+(1) *First through twentieth day - Screening by the contracting agency.* The contracting agency has 20 days to screen property reported on the inventory disposal schedule for: Other use within the agency; transfer of educationally useful equipment to other Federal agencies that have expressed a need for the property; and transfer of educationally useful equipment to schools and nonprofit organizations if a Federal agency has not expressed a need for the property. Excess personal property, meeting the conditions of 45.603, may be abandoned, destroyed, or donated to public bodies. No later than the 21st day, the plant clearance officer shall submit four copies of the revised schedules and Standard Form (SF) 120, Report of Excess Personal Property, or an electronic equivalent to GSA (see 41 CFR 102-36.215).
+
+(2) *Twenty-first through forty-sixth day (21 days concurrent screening plus 5 days donation processing)* - (i) *Screening by other Federal agencies.* GSA will normally honor requests for transfers of property on a first-come-first-served basis through the 41st day. When a request is honored, the GSA regional office shall promptly transmit to the plant clearance officer an approved transfer order that includes shipping instructions.
+
+(ii) *Screening for possible donation.* Screening for donation is also completed during days 21 through 41. Property is not available for allocation to donees until after the completion of screening. Days 42 through 46 are reserved for GSA to make such allocation.
+
+(3) *Screening period transfer request.* If an agency receives an intra-agency transfer request during the screening periods described in paragraph (a)(2) of this subsection, the plant clearance officer shall request GSA approval to withdraw the item from the inventory disposal schedule.
+
+(b) *Special screening requirements* - (1) *Special tooling and special test equipment without commercial components.* Agencies shall follow the procedures in paragraph (a) of this subsection. This property owned by the Department of Defense (DoD) or the National Aeronautics and Space Administration (NASA) may be screened for reutilization only within these agencies.
+
+(2) *Special test equipment with commercial components.* (i) Agencies shall complete the screening required by paragraph (a) of this subsection. If an agency has no further need for the property and the contractor has not expressed an interest in using or acquiring the property by annotating the inventory disposal schedule, the plant clearance officer shall forward the inventory disposal schedule to the GSA regional office that serves the region in which the property is located.
+
+(ii) If the contractor has expressed an interest in using the property on another Government contract, the plant clearance officer shall contact the contracting officer for that contract. If the contracting officer concurs with the proposed use, the contracting officer for the contract under which the property is accountable shall transfer the property's accountability to that contract. If the contracting officer does not concur with the proposed use, the plant clearance officer shall deny the contractor's request and shall continue the screening process.
+
+(iii) If the property is contractor-acquired or -produced, and the contractor or subcontractor has expressed an interest in acquiring the property, and no other party expresses an interest during agency or GSA screening, the property may be sold to the contractor or subcontractor at acquisition cost.
+
+(3) *Printing equipment.* Agencies shall report all excess printing equipment to the Public Printer, Government Printing Office, 732 North Capitol Street, NW., Washington, DC 20401, after screening within the agency (see 44 U.S.C. 312). If the Public Printer does not express a need for the equipment within 21 days, the agency shall submit the report to GSA for further use and donation screening as described in paragraph (a) of this subsection.
+
+(4) *Non-nuclear hazardous materials, hazardous wastes, and classified items.* These items shall be screened in accordance with agency procedures. Report non-nuclear hazardous materials to GSA if the agency has no requirement for them.
+
+(5) *Nuclear materials.* The possession, use, and transfer of certain nuclear materials are subject to the regulatory controls of the Nuclear Regulatory Commission (NRC). Contracting activities shall screen excess nuclear materials in the following categories:
+
+(i) *By-product material.* Any radioactive material (except special nuclear material) yielded in or made radioactive by exposure to the radiation incident to producing or using special nuclear material.
+
+(ii) *Source material.* Uranium or thorium, or any combination thereof, in any physical or chemical form; or ores that contain by weight one-twentieth of 1 percent (0.05 percent) or more of uranium, thorium, or any combination thereof. Source material does not include special nuclear material.
+
+(iii) *Special nuclear material.* Plutonium, Uranium 233, Uranium enriched in the isotope 233 or in the isotope 235, any other material that the NRC determines to be special nuclear material (but not including source material); or any material artificially enriched by any nuclear material.
+
+[69 FR 17745, Apr. 4, 2004, as amended at 75 FR 38681, July 2, 2010]

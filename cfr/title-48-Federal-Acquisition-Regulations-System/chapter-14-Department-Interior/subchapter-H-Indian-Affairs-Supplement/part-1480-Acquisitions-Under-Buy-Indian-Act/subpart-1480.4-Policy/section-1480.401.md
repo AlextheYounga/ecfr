@@ -1,0 +1,7 @@
+##### 1480.401 Requirement to give preference to Indian economic enterprises. #####
+
+(a) IA must use the negotiation authority of the Buy Indian Act, 25 U.S.C. 47, to give preference to Indians whenever the use of that authority is authorized and practicable. The Buy Indian Act provides that, “so far as may be practicable, Indian labor shall be employed, and purchases of the products (including, but not limited to printing, notwithstanding any other law) of Indian industry may be made in open market at the discretion of the Secretary of the Interior.” Thus, IA may use the Buy Indian Act to give preference to IEEs through set-asides when acquiring supplies, services, and covered construction to meet IA needs and requirements. IA must contract for covered construction in accordance with FAR Part 36.
+
+(b) IA or any other bureau or office of the Department of the Interior delegated the authority to make acquisitions under the Buy Indian Act may not use the Buy Indian Act to give preference to IEEs through set-asides when acquiring construction that is not covered construction.
+
+(c) The provisions of this section shall not apply to the awarding of contracts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b et seq.) by the Department of the Interior.

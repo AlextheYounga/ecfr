@@ -1,0 +1,3 @@
+##### § 72.190 Operator requirements. #####
+
+Operation of equipment and controls that have been identified as important to safety in the Safety Analysis Report and in the license must be limited to trained and certified personnel or be under the direct visual supervision of an individual with training and certification in the operation. Supervisory personnel who personally direct the operation of equipment and controls that are important to safety must also be certified in such operations.

@@ -1,0 +1,5 @@
+##### § 76.917 Notification of certification withdrawal. #####
+
+A franchising authority that has been certified to regulate rates may, at any time, notify the Commission that it no longer intends to regulate basic cable rates. Such notification shall include the franchising authority's determination that rate regulation no longer serves the interests of cable subscribers served by the cable system within the franchising authority's jurisdiction, and that it has received no consideration for its withdrawal of certification. Such notification shall be served on the cable operator. The Commission retains the right to review such determinations and to request the factual finding of the franchising authority underlying its decision to withdraw certification. The franchising authority's withdrawal becomes effective upon notification to the Commission.
+
+[59 FR 17972, Apr. 15, 1994]

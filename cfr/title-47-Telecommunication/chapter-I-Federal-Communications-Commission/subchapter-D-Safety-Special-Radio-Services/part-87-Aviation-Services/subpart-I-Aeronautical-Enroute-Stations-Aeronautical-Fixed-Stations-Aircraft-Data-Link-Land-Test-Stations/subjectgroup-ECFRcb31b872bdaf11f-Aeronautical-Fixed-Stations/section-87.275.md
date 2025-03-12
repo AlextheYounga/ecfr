@@ -1,0 +1,3 @@
+##### § 87.275 Scope of service. #####
+
+Aeronautical fixed stations provide non-public point-to-point communications service pertaining to safety, regularity and economy of flight. These stations must transmit, without discrimination, messages from aircraft which have entered into cooperative arrangements governing the operation and maintenance of such stations. Aeronautical fixed station licensees are required to transmit, without charge or discrimination, all emergency communications.

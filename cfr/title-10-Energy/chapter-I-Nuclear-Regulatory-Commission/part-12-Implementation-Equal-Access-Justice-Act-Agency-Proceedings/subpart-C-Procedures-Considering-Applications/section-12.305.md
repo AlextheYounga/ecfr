@@ -1,0 +1,3 @@
+##### § 12.305 Settlement. #####
+
+The applicant and the NRC counsel may agree on a proposed settlement of the award before final action on the application, either in connection with a settlement of the underlying proceeding, or after the underlying proceeding has been concluded, in accordance with the NRC's standard settlement procedure. If a prevailing party and the NRC's counsel agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement.

@@ -1,0 +1,3 @@
+##### § 75.519-1 Main power circuits; disconnecting switches; locations. #####
+
+Section 75.519 requires (a) that a disconnecting switch be installed on the surface at a point within 500 feet of the place where the main power circuit enters the underground area of a mine, and (b) that, in an instance on which a main power circuit enters the underground area through a shaft or borehole, a disconnecting switch be installed underground within 500 feet of the bottom of the shaft or borehole.

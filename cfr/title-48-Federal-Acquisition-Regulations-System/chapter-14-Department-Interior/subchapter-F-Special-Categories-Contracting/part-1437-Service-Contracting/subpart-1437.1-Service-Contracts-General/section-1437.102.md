@@ -1,0 +1,3 @@
+##### 1437.102 Policy. #####
+
+The HCA is responsible for establishing internal review and approval procedures for service contracts in accordance with OFPP Policy Letter 93-1, Management Oversight of Service Contracting. Special attention shall be directed to avoidance of contracting for inherently governmental functions, as well as contract administration in the area of incurred cost monitoring to complement work progress monitoring.

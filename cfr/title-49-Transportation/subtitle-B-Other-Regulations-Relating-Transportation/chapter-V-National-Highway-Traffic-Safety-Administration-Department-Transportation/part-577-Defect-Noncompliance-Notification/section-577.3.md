@@ -1,0 +1,3 @@
+##### § 577.3 Application. #####
+
+This part applies to manufacturers of complete motor vehicles, incomplete motor vehicles, and replacement equipment. In the case of vehicles manufactured in two or more stages, compliance by either the manufacturer of the incomplete vehicle, any subsequent manufacturer, or the manufacturer of affected replacement equipment, shall be considered compliance by each of those manufacturers.

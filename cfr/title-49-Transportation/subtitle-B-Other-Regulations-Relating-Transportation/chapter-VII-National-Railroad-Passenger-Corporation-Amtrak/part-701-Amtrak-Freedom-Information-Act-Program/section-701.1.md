@@ -1,0 +1,3 @@
+##### § 701.1 General provisions. #####
+
+This part contains the rules that the National Railroad Passenger Corporation (“Amtrak”) follows in processing requests for records under the Freedom of Information Act (FOIA), Title 5 of the United States Code, section 552. Information routinely provided to the public (*i.e.,* train timetables, press releases) may be obtained without following Amtrak's FOIA procedures. As a matter of policy, Amtrak may make discretionary disclosures of records or information exempt under the FOIA whenever disclosure would not foreseeably harm an interest protected by an FOIA exemption; however, this policy does not create any right enforceable in court.

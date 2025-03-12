@@ -1,0 +1,3 @@
+##### § 785.1 Scope. #####
+
+This part establishes the minimum requirements for regulatory program provisions for permits for certain categories of surface coal mining and reclamation operations. These requirements are in addition to the general permit requirements contained in this subchapter G. All of the provisions of subchapter G apply to these operations, unless otherwise specifically provided in this part.

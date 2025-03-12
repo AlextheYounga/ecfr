@@ -1,0 +1,13 @@
+##### § 530.204 Payment of excess amounts. #####
+
+(a) An agency must pay the amounts that were deferred because they were in excess of the aggregate limitation (as described in § 530.203) as a lump-sum payment at the beginning of the following calendar year, except as otherwise provided in this section. This payment is part of the employee's aggregate compensation for the new calendar year.
+
+(b) If a lump-sum payment under paragraph (a) of this section causes an employee's estimated aggregate compensation to exceed the aggregate limitation in the current calendar year, an agency must consider only the employee's basic pay that is expected to be paid in the current year in determining the extent to which the lump-sum payment may be paid. An agency must defer all other payments, as provided in § 530.203, in order to pay as much of the lump-sum excess amount as possible. Any payments deferred under this paragraph, including any portion of the lump-sum excess amount that was not payable, are payable at the beginning of the next calendar year, as provided in paragraph (a) of this section.
+
+(c) If an employee transfers to another agency, the gaining agency is responsible for making any lump-sum payment required by paragraph (a) of this section. The previous employing agency must provide the gaining agency with documentation regarding the employee's excess amount, as provided in § 530.205. The previous employing agency must provide a fund transfer equal to the total cost of the lump-sum payment to the gaining agency through the Department of the Treasury's Intra-Governmental Payment and Collection System. If an employee leaves Federal service, the employing agency is responsible for making the lump-sum payment to the employee as provided in paragraph (d) of this section.
+
+(d) An agency must pay any excess amount regardless of the calendar year limitation under the following conditions:
+
+(1) If an employee dies, the employing agency must pay the entire excess amount as part of the settlement of accounts, in accordance with 5 U.S.C. 5582.
+
+(2) If an employee separates from Federal service, the employing agency must pay the entire excess amount following a 30-day break in service. If the individual is reemployed in the Federal service within the same calendar year as the separation, any previous payment of an excess amount must be considered part of that year's aggregate compensation for the purpose of applying the aggregate limitation for the remainder of the calendar year.

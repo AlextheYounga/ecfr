@@ -1,0 +1,3 @@
+##### § 433.202 Scope. #####
+
+This subpart sets forth the requirements and procedures that are applicable to support State claims for the increased FMAP specified at § 433.10(c)(6) for the medical assistance expenditures for individuals determined eligible as specified in § 435.119 of this chapter who meet the definition of newly eligible individual specified in § 433.204(a)(1). These procedures will also identify individuals determined eligible as specified in § 435.119 of this chapter for whom the State may claim the regular FMAP rate specified at § 433.10(b) or the increased FMAP rate specified at § 433.10(c)(7) or (8), as applicable.

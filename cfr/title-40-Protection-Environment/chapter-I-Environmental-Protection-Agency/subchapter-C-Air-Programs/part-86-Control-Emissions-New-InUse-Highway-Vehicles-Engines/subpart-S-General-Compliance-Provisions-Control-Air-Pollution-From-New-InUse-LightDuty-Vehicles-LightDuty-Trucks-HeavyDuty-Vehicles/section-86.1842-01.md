@@ -1,0 +1,17 @@
+##### § 86.1842-01 Addition of a vehicle after certification; and changes to a vehicle covered by certification. #####
+
+(a) *Addition of a car line after certification.* (1) If a manufacturer proposes to add to its product line a new car line of the same test group as vehicles previously certified but which was not described in the application for certification when the test vehicle(s) representing other vehicles of that combination was certified, it shall notify the Administrator. This notification shall include a full description of the vehicle to be added.
+
+(2) The manufacturer shall perform such tests on the test vehicle(s) representing the vehicle to be added which would have been required if the vehicle had been included in the original application for certification.
+
+(3) If, after a review of the test reports and data submitted by the manufacturer, and data derived from any testing conducted under § 86.1835-01, the Administrator determines that the test vehicle(s) or test engine(s) meets all applicable standards, the appropriate certificate will be amended accordingly. If the Administrator determines that the test vehicle(s) does not meet applicable standards, she/he will proceed under § 86.1850-01.
+
+(b) *Changes to the configuration of vehicles covered by a Certificate of Conformity.* (1) A manufacturer will notify the Administrator concurrently with (or in advance of) any change or addition in production vehicles which creates a new vehicle configuration within the car lines covered in a certified test group, giving a full description of the change. Such a change is referred to as a running change. Upon notification, the manufacturer may begin production of the running change if the manufacturer determines that following the change all affected vehicles will still meet the applicable emission standards.
+
+(i) Such notification shall include a full description of the addition or change and any supporting documentation the manufacturer may desire to include to support the manufacturer's determination in accordance with § 86.1844-01.
+
+(ii) The manufacturer's determination that the addition or change does not cause noncompliance shall be based on an engineering evaluation of the addition or change and/or testing.
+
+(2) The Administrator may require that additional emission testing be performed to support the manufacturer's determination submitted in paragraph (b)(1) of this section. If additional testing is required the Administrator shall proceed in accordance with paragraph (a)(3) of this section. Additional test data, if requested, must be provided within 30 days of the request or the manufacturer must rescind the addition or change immediately. The Administrator may grant additional time to complete testing. If based on this additional testing or any other information, the Administrator determines that the vehicles affected by the addition or change do not meet the applicable standards the Administrator will notify the manufacturer to rescind the addition or change immediately upon receipt of the notification.
+
+(c) Election to produce vehicles under this section will be deemed to be a consent to recall all vehicles which the Administrator determines under paragraph (a) or (b) of this section do not meet applicable standards, and to cause such nonconformity to be remedied at no expense to the owner.

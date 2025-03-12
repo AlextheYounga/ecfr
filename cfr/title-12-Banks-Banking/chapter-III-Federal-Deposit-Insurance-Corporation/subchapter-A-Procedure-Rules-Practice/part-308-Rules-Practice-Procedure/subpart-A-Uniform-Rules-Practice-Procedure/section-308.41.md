@@ -1,0 +1,3 @@
+##### § 308.41 Stays pending judicial review. #####
+
+The commencement of proceedings for judicial review of a final decision and order of the FDIC may not, unless specifically ordered by the Board of Directors or a reviewing court, operate as a stay of any order issued by the FDIC. The Board of Directors may, in its discretion, and on such terms as it finds just, stay the effectiveness of all or any part of its order pending a final decision on a petition for review of that order.

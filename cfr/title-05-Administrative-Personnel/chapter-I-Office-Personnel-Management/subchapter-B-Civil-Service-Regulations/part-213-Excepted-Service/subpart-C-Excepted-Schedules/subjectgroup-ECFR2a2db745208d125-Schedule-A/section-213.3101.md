@@ -1,0 +1,5 @@
+##### § 213.3101 Positions other than those of a confidential or policy-determining character for which it is impracticable to examine. #####
+
+Upon specific authorization by OPM, agencies may make appointments under this section to positions which are not of a confidential or policy-determining character, and which are not in the Senior Executive Service, for which it is not practicable to examine. Examining for this purpose means application of the qualification standards and requirements established for the competitive service. Positions filled under this authority are excepted from the competitive service and constitute Schedule A. For each authorization under this section, OPM shall assign an identifying number from 213.3102 through 213.3199 to be used by the appointing agency in recording appointments made under that authorization.
+
+[46 FR 20147, Apr. 3, 1981, as amended at 46 FR 45323, Sept. 11, 1981, 59 FR 64841, Dec. 16, 1994; 62 FR 19900, Apr. 24, 1997]

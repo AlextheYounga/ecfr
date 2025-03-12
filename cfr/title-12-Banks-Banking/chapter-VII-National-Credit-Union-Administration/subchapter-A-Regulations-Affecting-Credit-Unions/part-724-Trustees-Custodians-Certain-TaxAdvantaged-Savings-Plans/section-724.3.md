@@ -1,0 +1,3 @@
+##### § 724.3 Appointment of successor trustee or custodian. #####
+
+Any plan operated pursuant to this part shall provide for the appointment of a successor trustee or custodian by a person, committee, corporation or organization other than the Federal credit union or any person acting in his capacity as a director, employee or agent of the Federal credit union upon notice from the Federal credit union or the Board that the Federal credit union is unwilling or unable to continue to act as trustee or custodian.

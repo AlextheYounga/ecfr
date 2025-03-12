@@ -1,0 +1,5 @@
+##### § 50.23 Construction permits. #####
+
+A construction permit for the construction of a production or utilization facility will be issued before the issuance of a license if the application is otherwise acceptable, and will be converted upon completion of the facility and Commission action, into a license as provided in § 50.56. However, if a combined license for a nuclear power reactor is issued under part 52 of this chapter, the construction permit and operating license are deemed to be combined in a single license. A construction permit for the alteration of a production or utilization facility will be issued before the issuance of an amendment of a license, if the application for amendment is otherwise acceptable, as provided in § 50.92.
+
+[72 FR 49490, Aug. 28, 2007, as amended at 81 FR 86909, Dec. 2, 2016]

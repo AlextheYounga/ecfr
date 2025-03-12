@@ -1,0 +1,3 @@
+##### § 60.1005 When does this subpart become effective? #####
+
+This subpart takes effect June 6, 2001. Some of the requirements in this subpart apply to municipal waste combustion unit planning and must be completed before construction is commenced on the municipal waste combustion unit. In particular, the preconstruction requirements in §§ 60.1050 through 60.1150 must be completed prior to commencing construction. Other requirements (such as the emission limits) apply when the municipal waste combustion unit begins operation.

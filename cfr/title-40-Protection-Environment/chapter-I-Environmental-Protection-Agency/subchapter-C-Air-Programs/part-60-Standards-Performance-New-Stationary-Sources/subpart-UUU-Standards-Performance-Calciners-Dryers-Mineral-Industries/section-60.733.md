@@ -1,0 +1,3 @@
+##### § 60.733 Reconstruction. #####
+
+The cost of replacement of equipment subject to high temperatures and abrasion on processing equipment shall not be considered in calculating either the “fixed capital cost of the new components” or the “fixed capital cost that would be required to construct a comparable new facility” under § 60.15. Calciner and dryer equipment subject to high temperatures and abrasion are: end seals, flights, and refractory lining.

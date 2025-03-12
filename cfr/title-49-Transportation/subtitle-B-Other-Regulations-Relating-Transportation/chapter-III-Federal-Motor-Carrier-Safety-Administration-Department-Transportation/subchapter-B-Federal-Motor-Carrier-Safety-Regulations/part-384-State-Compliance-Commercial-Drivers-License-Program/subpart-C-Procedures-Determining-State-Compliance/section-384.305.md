@@ -1,0 +1,7 @@
+##### § 384.305 State certifications for Federal fiscal years after FY 1994. #####
+
+(a) *Certification requirement.* Prior to January 1 of each Federal fiscal year after FY 1994, each State shall review its compliance with this part and certify to the Federal Motor Carrier Safety Administrator as prescribed in paragraph (b) of this section. The certification shall be submitted as a signed original and four copies to the Division Administrator/State Director or Officer-in-Charge, Federal Motor Carrier Safety Administration, located in that State.
+
+(b) *Certification content.* The certification shall consist of a statement signed by the Governor of the State, or by an official designated by the Governor, and reading as follows: “I (name of certifying official), (position title), of the State (Commonwealth) of \_\_\_\_\_\_, do hereby certify that the State (Commonwealth) has continuously been in substantial compliance with all requirements of 49 U.S.C. 31311(a), as defined in 49 CFR 384.301, since [the first day of the current Federal fiscal year], and contemplates no changes in statutes, regulations, or administrative procedures, or in the enforcement thereof, which would affect such substantial compliance through [the last date of the current Federal fiscal year].”
+
+[59 FR 26039, May 18, 1994, as amended at 62 FR 37152, July 11, 1997; 78 FR 58481, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014]

@@ -1,0 +1,7 @@
+##### § 6701.103 Prohibited purchases of property sold by GSA. #####
+
+(a) *General prohibition.* Except as provided in paragraphs (b) and (c) of this section, no GSA employee, or spouse or minor child of a GSA employee, shall purchase, directly or indirectly Government property, real or personal, being sold by GSA.
+
+(b) *Exception.* The prohibition in paragraph (a) of this section does not apply to the purchase of foreign gifts deposited with the agency pursuant to 5 U.S.C. 7342, that an employee may purchase pursuant to 41 CFR part 101-49.
+
+(c) *Waiver.* An employee may make a purchase otherwise prohibited by paragraph (a) of this section where a written waiver of the prohibition has been given to the employee by the Administrator of GSA or his designee. Such a waiver may be granted only upon a determination that the waiver is not otherwise prohibited by law and that, in the mind of a reasonable person with knowledge of the particular circumstances, the purchase of the property will not raise a question as to whether the employee has used his official position or nonpublic information to obtain an advantageous purchase or create an appearance of loss of impartiality in the performance of the employee's duties.

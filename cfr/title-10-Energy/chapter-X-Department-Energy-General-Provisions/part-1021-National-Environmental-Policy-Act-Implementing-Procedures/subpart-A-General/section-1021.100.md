@@ -1,0 +1,3 @@
+##### § 1021.100 Purpose. #####
+
+The purpose of this part is to establish procedures that the Department of Energy (DOE) shall use to comply with section 102(2) of the National Environmental Policy Act (NEPA) of 1969 (42 U.S.C. 4332(2)) and the Council on Environmental Quality (CEQ) regulations for implementing the procedural provisions of NEPA (40 CFR parts 1500-1508). This part supplements, and is to be used in conjunction with, the CEQ Regulations.

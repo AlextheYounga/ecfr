@@ -1,0 +1,3 @@
+##### 2001.404 Class deviations. #####
+
+Class deviations affect more than one contracting action. Where deviations from the FAR or NRCAR are considered necessary for classes of contracts, requests for authority to deviate must be submitted in writing to the Director, Division of Contracts and Property Management, who will consider the submission jointly with the Chairperson of the Civilian Agency Acquisition Council, as appropriate.

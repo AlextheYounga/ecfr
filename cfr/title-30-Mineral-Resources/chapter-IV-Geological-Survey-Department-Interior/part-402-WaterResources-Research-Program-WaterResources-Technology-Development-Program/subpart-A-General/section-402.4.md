@@ -1,0 +1,3 @@
+##### § 402.4 Information collection. #####
+
+The information-collection requirements contained in sections 402.10, 402.11, and 402.15 have been approved by the OMB under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1028-0046. The application proposals being collected will contain technical information that will be used by the USGS as a basis for selection and award of grants. The progress reports being collected will contain a description of all work accomplished and results achieved on each funded project and will enable the USGS to carry out its oversight responsibilities and provide dissemination of technical information.

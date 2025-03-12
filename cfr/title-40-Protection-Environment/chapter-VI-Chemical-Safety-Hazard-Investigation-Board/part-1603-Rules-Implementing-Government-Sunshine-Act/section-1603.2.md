@@ -1,0 +1,3 @@
+##### § 1603.2 Policy. #####
+
+It is the policy of the CSB to provide the public with the fullest practicable information regarding the decisionmaking processes of the Board, while protecting the rights of individuals and the ability of the Board to discharge its statutory functions and responsibilities. The public is invited to attend but not to participate in open meetings. For any open meeting, the Board, by majority vote, may decide to allow for a public comment period immediately following the close of that meeting.

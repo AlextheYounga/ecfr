@@ -1,0 +1,5 @@
+##### § 63.2162 When must I conduct subsequent performance tests if I monitor brew ethanol? #####
+
+(a) For each emission limitation in Table 1 to this subpart for which compliance is demonstrated by monitoring brew ethanol concentration and calculating VOC concentration in the fermenter exhaust according to the procedures in § 63.2161, you must conduct an EPA Test Method 25A of 40 CFR part 60, appendix A-7, performance test and establish a brew-to-exhaust correlation according to the procedures in Table 2 to this subpart and in § 63.2161, at least once every year.
+
+(b) The first subsequent performance test must be conducted no later than 365 calendar days after the initial performance test conducted according to § 63.2160. Each subsequent performance test must be conducted no later than 365 calendar days after the previous performance test. You must conduct a performance test for each 365 calendar day period during which you demonstrate compliance using the brew ethanol correlation developed according to § 63.2161.

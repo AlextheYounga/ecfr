@@ -1,0 +1,3 @@
+##### § 51d.9 What other conditions apply to these awards? #####
+
+Award funding made under this authority is to be supplemental in nature. Consistent with the criteria in § 51d.5 and the certification in § 51d.4(a)(1), such funds will only be made available if no other local, State, Tribal or Federal source is available to adequately address the emergency mental health and/or substance abuse service needs of the impacted community.

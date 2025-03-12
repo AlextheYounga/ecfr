@@ -1,0 +1,3 @@
+##### § 135.73 Inspections and tests. #####
+
+Each certificate holder and each person employed by the certificate holder shall allow the Administrator, at any time or place, to make inspections or tests (including en route inspections) to determine the holder's compliance with the Federal Aviation Act of 1958, applicable regulations, and the certificate holder's operating certificate, and operations specifications.

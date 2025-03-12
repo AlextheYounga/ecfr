@@ -1,0 +1,3 @@
+##### § 221.161 Notice of adoption to be filed in former carrier's tariffs. #####
+
+At the same time that the adoption notice is issued, posted, and filed pursuant to § 221.160, the adopting carrier shall issue, post and file with the Department a notice in each effective tariff issued by the former carrier providing specific notice of the adoption in a manner authorized by the Office of International Aviation and which shall contain no matter other than that authorized.

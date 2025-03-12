@@ -1,0 +1,5 @@
+##### § 960.3-2 Siting process. #####
+
+The siting process begins with site screening for the identification of potentially acceptable sites. This process was completed for purposes of the first repository before the enactment of the Act, and the identification of such sites was made after enactment in accordance with the provisions of section 116(a) of the Act. The screening process for the identification of potentially acceptable sites for the second and subsequent repositories shall be conducted in accordance with the requirements specified in § 960.3-2-1 of this subpart. The nomination of any site as suitable for characterization shall follow the process specified in § 960.3-2-2, and such nomination shall be accompanied by an environmental assessment as specified in section 112(b)(1)(E) of the Act. The recommendation of sites as candidate sites for characterization shall be accomplished in accordance with the requirements specified in § 960.3-2-3.
+
+[49 FR 47752, Dec. 6, 1984, as amended at 66 FR 57335, Nov. 14, 2001]

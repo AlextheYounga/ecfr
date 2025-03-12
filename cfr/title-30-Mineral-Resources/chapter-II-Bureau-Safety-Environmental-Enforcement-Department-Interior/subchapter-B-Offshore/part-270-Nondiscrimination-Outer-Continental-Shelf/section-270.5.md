@@ -1,0 +1,7 @@
+##### § 270.5 Complaint. #####
+
+(a) Whenever any person believes that he or she has been denied a contract or subcontract to which this part applies on the grounds of race, creed, color, national origin, or sex, such person may complain of such denial or withholding to the Regional Director of the OCS Region in which such action is alleged to have occurred. Any complaint filed under this part must be submitted in writing to the appropriate Regional Director not later than 180 days after the date of the alleged unlawful denial of a contract or subcontract which is the basis of the complaint.
+
+(b) The complaint referred to in paragraph (a) of this section shall be accompanied by such evidence as may be available to a person and which is relevant to the complaint including affidavits and other documents.
+
+(c) Whenever any person files a complaint under this part, the Regional Director with whom such complaint is filed shall give written notice of such filing to all persons cited in the complaint no later than 10 days after receipt of such complaint. Such notice shall include a statement describing the alleged incident of discrimination, including the date and the names of persons involved in it.

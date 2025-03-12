@@ -1,0 +1,3 @@
+##### § 308.138 Scope. #####
+
+The rules and procedures of this subpart J shall apply to proceedings by the Board of Directors or its designee to exempt, in whole or in part, an issuer of securities from the provisions of sections 12(g), 13, 14(a), 14(c), 14(d), or 14(f) of the Exchange Act, as amended (15 U.S.C. 781, 78m, 78n (a), (c) (d) or (f)), or to exempt an officer or a director or beneficial owner of securities of such an issuer from the provisions of section 16 of the Exchange Act (15 U.S.C. 78p).

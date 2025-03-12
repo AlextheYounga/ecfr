@@ -1,0 +1,3 @@
+##### § 91.1099 Crewmember initial and recurrent training requirements. #####
+
+No program manager may use a person, nor may any person serve, as a crewmember in operations under this subpart unless that crewmember has completed the appropriate initial or recurrent training phase of the training program appropriate to the type of operation in which the crewmember is to serve since the beginning of the 12th month before that service.

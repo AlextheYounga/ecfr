@@ -1,0 +1,3 @@
+##### 831.7001-2 Special services or courses. #####
+
+Special services or courses are those services or courses that VA requests that are over and above those the institution customarily provides for similarly circumstanced nonveterans and that the contracting officer considers to be necessary for the rehabilitation of the trainee. VA will negotiate the costs of special services or courses before paying them.

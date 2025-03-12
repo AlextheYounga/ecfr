@@ -1,0 +1,5 @@
+##### § 81.237 Northeast Georgia Intrastate Air Quality Control Region. #####
+
+The Northeast Georgia Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Georgia: Banks County, Barrow County, Clarke County, Dawson County, Elbert County, Forsyth County, Franklin County, Greene County, Habersham County, Hall County, Hart County, Jackson County, Lumpkin County, Madison County, Morgan County, Newton County, Oconee County, Oglethorpe County, Rabun County, Stephens County, Towns County, Union County, Walton County, White County.

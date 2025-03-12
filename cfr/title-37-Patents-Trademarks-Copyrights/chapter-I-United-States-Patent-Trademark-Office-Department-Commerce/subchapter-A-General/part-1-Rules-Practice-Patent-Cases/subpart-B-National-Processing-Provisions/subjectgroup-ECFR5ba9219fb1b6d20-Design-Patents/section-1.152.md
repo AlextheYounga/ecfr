@@ -1,0 +1,5 @@
+##### § 1.152 Design drawings. #####
+
+The design must be represented by a drawing that complies with the requirements of § 1.84 and must contain a sufficient number of views to constitute a complete disclosure of the appearance of the design. Appropriate and adequate surface shading should be used to show the character or contour of the surfaces represented. Solid black surface shading is not permitted except when used to represent the color black as well as color contrast. Broken lines may be used to show visible environmental structure, but may not be used to show hidden planes and surfaces that cannot be seen through opaque materials. Alternate positions of a design component, illustrated by full and broken lines in the same view are not permitted in a design drawing. Photographs and ink drawings are not permitted to be combined as formal drawings in one application. Photographs submitted in lieu of ink drawings in design patent applications must not disclose environmental structure but must be limited to the design claimed for the article.
+
+[65 FR 54674, Sept. 8, 2000]

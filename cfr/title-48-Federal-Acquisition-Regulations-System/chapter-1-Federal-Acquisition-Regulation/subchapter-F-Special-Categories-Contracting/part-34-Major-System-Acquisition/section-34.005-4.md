@@ -1,0 +1,3 @@
+##### 34.005-4 Demonstration contracts. #####
+
+Whenever practicable, contracts for the demonstration phase should provide for contractors to submit, by the end of the phase, priced proposals, totally funded by the Government, for full-scale development. The contracting officer should provide contractors with operational test conditions, performance criteria, life cycle cost factors, and any other selection criteria necessary for the contractors to prepare their proposals.

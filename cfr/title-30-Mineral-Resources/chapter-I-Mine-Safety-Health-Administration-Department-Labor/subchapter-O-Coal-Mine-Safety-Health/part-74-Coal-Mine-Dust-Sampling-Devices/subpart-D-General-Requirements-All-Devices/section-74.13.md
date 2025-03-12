@@ -1,0 +1,7 @@
+##### § 74.13 Applications. #####
+
+(a) Testing of a CMDPSU will be performed by NIOSH, and testing of the pump unit of the CMDPSU will be conducted by MSHA. The applicant must submit a written application in duplicate to both NIOSH and MSHA. Each copy of the application must be accompanied by complete scale drawings, specifications, and a description of materials. Ten complete CMDPSUs must be submitted to NIOSH with the application, and one pump unit must be submitted to MSHA.
+
+(b) Testing of a CPDM will be performed by the applicant as specified under § 74.11. The applicant must submit a written application in duplicate to both NIOSH and MSHA. Each copy of the application must be accompanied by complete scale drawings, specifications, a description of materials, and a copy of the testing protocol and test results which were provided by an independent testing entity, as specified in § 74.11(a). Three complete CPDM units must be sent to NIOSH with the application, and one CPDM device must be sent to MSHA.
+
+(c) Complete drawings and specifications accompanying each copy of the application shall be fully detailed to identify the design of the CMDPSU or pump unit thereof or of the CPDM and to disclose the dimensions and materials of all component parts.

@@ -1,0 +1,3 @@
+##### § 581.9 Jurisdictional controversies. #####
+
+In the event of a controversy between the United States and a State as to whether certain lands are subject to Federal or State jurisdiction (43 U.S.C. 1336), either the Governor or the Secretary may initiate negotiations in an attempt to settle the jurisdictional controversy. With the concurrence of the Attorney General, the Secretary may enter into an agreement with a State with respect to OCS mineral activities under the Act or under State authority and to payment and impounding of rents, royalties, and other sums and with respect to the offering of lands for lease pending settlement of the controversy.

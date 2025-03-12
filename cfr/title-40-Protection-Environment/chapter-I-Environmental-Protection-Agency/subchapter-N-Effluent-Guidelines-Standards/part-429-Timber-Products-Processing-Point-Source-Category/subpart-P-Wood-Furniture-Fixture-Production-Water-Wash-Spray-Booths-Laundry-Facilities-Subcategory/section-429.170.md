@@ -1,0 +1,3 @@
+##### § 429.170 Applicability; description of the wood furniture and fixture production with water wash spray booth(s) or with laundry facilities subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from the manufacture of wood furniture and fixtures at establishments that either (a) utilize water wash spray booth(s) to collect and contain the overspray from spray applications of finishing materials, or (b) utilize on-site laundry facilities for fabric utilized in various finishing operations.

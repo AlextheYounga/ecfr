@@ -1,0 +1,3 @@
+##### § 71.501 Sanitary toilet facilities; maintenance. #####
+
+Sanitary toilets provided in accordance with the provisions of § 71.500 shall be regularly maintained in a clean and sanitary condition. Holding tanks shall be serviced and cleaned when full and in no case less than once each week when in use by draining or pumping or by removing them for cleaning and recharging. Transfer tanks and transfer equipment, if used, shall be equipped with suitable fittings to permit complete draining without spillage and allow for the sanitary transportation of wastes. Waste shall be disposed of in accordance with State and local laws and regulations.

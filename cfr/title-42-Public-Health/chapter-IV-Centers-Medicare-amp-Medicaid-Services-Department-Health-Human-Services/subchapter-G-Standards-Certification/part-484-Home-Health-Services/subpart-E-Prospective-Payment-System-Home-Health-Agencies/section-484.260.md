@@ -1,0 +1,3 @@
+##### § 484.260 Limitation on review. #####
+
+An HHA is not entitled to judicial or administrative review under sections 1869 or 1878 of the Act, or otherwise, with regard to the establishment of the payment unit, including the national 60-day prospective episode payment rate, adjustments and outlier payments. An HHA is not entitled to the review regarding the establishment of the transition period, definition and application of the unit of payments, the computation of initial standard prospective payment amounts, the establishment of the adjustment for outliers, and the establishment of case-mix and area wage adjustment factors.

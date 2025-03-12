@@ -1,0 +1,7 @@
+##### § 2.1507 Oral hearing. #####
+
+(a) Not less than five (5) days before the commencement of the oral hearing, the presiding officer shall issue an order setting forth the grouping and order of appearance of the witnesses at the oral hearing. The order shall be filed upon all participants by email or facsimile transmission if possible, otherwise by overnight mail.
+
+(b) The Commission or presiding officer may question witnesses. Neither the Commission nor the presiding officer will ordinarily permit participants to submit recommended questions for the Commission or presiding officer to propound to witnesses. However, if the Commission or presiding officer believe that the conduct of the oral hearing will be expedited and that consideration of such proposed questions will assist in developing a more focused hearing record, the Commission or presiding officer may, in its discretion, permit the participants to submit recommended questions for the Commission or presiding officer's consideration.
+
+(c) The Commission or presiding officer may request, or upon request of a participant may, in the presiding officer's discretion, permit the submission of additional information following the close of the oral hearing. Such information must be submitted no later than five (5) days after the close of the oral hearing and must be served at the same time upon all participants at the oral hearing.

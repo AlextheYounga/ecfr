@@ -1,0 +1,19 @@
+##### § 80.5 Limitations on assistance. #####
+
+(a) The total amount of credit assistance offered to any project under this part shall not exceed 33 percent of the anticipated eligible project costs, as measured on an aggregate cash (year-of-expenditure) basis.
+
+(b) Costs incurred prior to a project sponsor's submission of an application for credit assistance may be considered in calculating eligible project costs only upon approval of the Secretary. In addition, applicants shall not include application charges or any other expenses associated with the application process (such as charges associated with obtaining the required preliminary rating opinion letter) among the eligible project costs.
+
+(c) No costs financed internally or with interim funding may be refinanced under this part later than a year following substantial completion of the project.
+
+(d)(1) Within the overall credit assistance limitation of 33 percent of eligible project costs, the Secretary may consider making future-year or multi-year contingent commitments of budget authority and associated credit assistance for projects temporarily lacking certain requirements or with extended construction periods and financing needs. The TIFIA's effectiveness in stimulating private investment in transportation infrastructure depends, in large part, on investor recognition that TIFIA credit instruments represent solid and reliable Federal commitments. Therefore, the Secretary shall make any future-year or multi-year contingent commitment of funds for a project using a conditional term sheet. The conditional term sheet will resemble the standard term sheet that enables the obligation of budget authority, but will also specify the additional actions necessary to trigger subsequent obligation(s). The conditional term sheet will include fixed dates by which any requirements must be met in order for the reserved funding to be obligated.
+
+(2) Upon execution of the conditional term sheet, the Secretary shall reserve budget authority attributable to the appropriate year(s). This reservation will ensure that a project with a conditional commitment will have a priority claim (along with that of any other projects receiving such contingent commitments) on budget authority becoming available in the specified year(s), provided that the project sponsor satisfies each condition outlined in the conditional term sheet. The Secretary will limit such reservations to not more than 50 percent of the budget authority becoming available in the applicable year(s). If a multi-year contingent commitment is made, each year's loan will be tied to distinct, clearly identified project segments or stages or other milestones as specified in the credit agreement.
+
+(e) The obligor may draw upon the line of credit only if net project revenues (including, among other sources, any debt service reserve fund) are insufficient to pay costs specified in 23 U.S.C. 184(a)(2) under the line of credit, including debt service costs. Debt service costs include direct payments of principal and interest as well as reimbursements for such payments in the form of legally required deposits to a debt service reserve fund.
+
+(f) The Secretary shall not obligate funds in favor of a project that has not received an environmental Categorical Exclusion, Finding of No Significant Impact, or Record of Decision.
+
+(g) The Secretary shall fund a secured loan based on the project's financing needs. The credit agreement shall include the anticipated schedule for such loan disbursements.
+
+[64 FR 29750, June 2, 1999, as amended at 65 FR 44939, July 19, 2000]

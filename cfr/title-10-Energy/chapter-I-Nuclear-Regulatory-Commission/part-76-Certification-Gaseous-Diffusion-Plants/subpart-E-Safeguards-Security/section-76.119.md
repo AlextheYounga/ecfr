@@ -1,0 +1,3 @@
+##### § 76.119 Security facility approval and safeguarding of National Security Information and Restricted Data. #####
+
+The requirements for security facility approval and for safeguarding of classified matter are contained in part 95 of this chapter. For the purpose of this subpart, the term “licensee” or “license” used in part 95 of this chapter means, respectively, the corporation, or the certificate of compliance or approved compliance plan.

@@ -1,0 +1,11 @@
+##### § 350.3 Applicability of subpart; priority where provisions conflict; interaction with 40 CFR part 2. #####
+
+(a) *Applicability of subpart.* Sections 350.1 through 350.27 establish rules governing assertion of trade secrecy claims for chemical identity information collected under the authority of sections 303 (d)(2) and (d)(3), 311, 312 and 313 of Title III of the Superfund Amendments and Reauthorization Act of 1986, and for trade secrecy or business confidentiality claims for information submitted in a substantiation under sections 303 (d)(2) and (d)(3), 311, 312, and 313 of Title III. This subpart also establishes rules governing petitions from the public requesting the disclosure of chemical identity claimed as trade secret, and determinations by EPA of whether this information is entitled to trade secret treatment. Claims for confidentiality of the location of a hazardous chemical under section 312(d)(2)(F) of Title III are not subject to the requirements of this subpart.
+
+(b) *Priority where provisions conflict.* Where information subject to the requirements of this subpart is also collected under another statutory authority, the confidentiality provisions of that authority shall be used to claim that information as trade secret or confidential when submitting it to EPA under that statutory authority.
+
+(c) *Interaction with 40 CFR part 2, EPA's Freedom of Information Act procedures.* (1) No trade secrecy or business confidentiality claims other than those allowed in this subpart are permitted for information collected under sections 303 (d)(2) and (d)(3), 311, 312 and 313 of Title III.
+
+(2) Except as provided in § 350.25 of this subpart, request for access to chemical identities withheld as trade secret under this regulation is solely through this regulation and procedures hereunder, not through EPA's Freedom of Information Act procedures set forth at 40 CFR part 2.
+
+(3) Request for access to information other than chemical identity submitted to EPA under this regulation is through EPA's Freedom of Information Act regulations at 40 CFR part 2.

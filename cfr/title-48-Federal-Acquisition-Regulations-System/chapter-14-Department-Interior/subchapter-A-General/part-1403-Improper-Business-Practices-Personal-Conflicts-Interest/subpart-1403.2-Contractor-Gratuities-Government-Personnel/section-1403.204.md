@@ -1,0 +1,5 @@
+##### 1403.204 Treatment of violations. #####
+
+(a) The CO will provide the contractor with a formal notice that summarizes the events involving the suspected violation and affords the contractor the opportunity to take the action(s) listed under FAR 3.204(b). The notice shall contain a time limit for reply and shall be sent by certified mail return receipt requested. The CO will submit the report, additional documentary evidence and other pertinent information to the HCA for disposition with a recommended course of action. A copy of this submission must also be sent to the Deputy Assistant Inspector General for Investigations. In consultation with the SOL and the OIG, and based on the results of any further discussion with the contractor, its counsel or witnesses, the HCA may make a recommendation to the Director, PAM, pursuant to FAR 3.204(c) and shall provide formal notice to the contractor of such recommendation.
+
+(b) If the decision involves the termination of a contract (see FAR 3.204(c)(1)), the CO will be responsible for implementing the decision.

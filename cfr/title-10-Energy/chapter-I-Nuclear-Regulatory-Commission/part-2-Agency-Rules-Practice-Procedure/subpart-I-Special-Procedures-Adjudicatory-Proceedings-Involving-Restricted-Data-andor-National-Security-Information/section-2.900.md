@@ -1,0 +1,3 @@
+##### § 2.900 Purpose. #####
+
+This subpart is issued pursuant to section 181 of the Atomic Energy Act of 1954, as amended, and section 201 of the Energy Reorganization Act of 1974, as amended, to provide such procedures in proceedings subject to this part as will effectively safeguard and prevent disclosure of Restricted Data and National Security Information to unauthorized persons, with minimum impairment of procedural rights.

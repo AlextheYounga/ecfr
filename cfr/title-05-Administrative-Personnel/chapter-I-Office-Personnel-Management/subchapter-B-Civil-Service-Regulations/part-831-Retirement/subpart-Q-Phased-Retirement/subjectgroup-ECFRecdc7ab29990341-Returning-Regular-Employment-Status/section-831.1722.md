@@ -1,0 +1,9 @@
+##### § 831.1722 Effective date of end of phased retirement status to return to regular employment status. #####
+
+(a)(1) Except as provided in paragraph (b) of this section, if a request to end phased retirement status to return to regular employment status is approved by an authorized agency official under § 831.1721 on any date on or after the first day of a month through the fifteenth day of a month, the phased retiree's resumption of regular employment status is effective the first day of the first full pay period of the month following the month in which the election to end phased retirement status to return to regular employment status is approved.
+
+(2) If a request to end phased retirement status to return to regular employment status is approved by an authorized agency official under § 831.1721 on any date on or after the sixteenth day of a month through the last day of a month, the phased retiree's resumption of regular employment status is effective on the first day of the first full pay period of the second month following the month in which the election to end phased retirement status to return to regular employment status is approved.
+
+(3) The phased retirement annuity terminates on the date determined under paragraph (a)(1) or (2) of this section.
+
+(b) When a phased retiree moves from the agency that approved his or her phased employment and phased retirement status to another agency and the authorizing official at the agency to which the phased retiree moves does not approve a continuation of phased employment and phased retirement status, phased employment and phased retirement status terminates when employment ends at the current employing agency.

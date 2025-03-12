@@ -1,0 +1,5 @@
+##### § 80.310 Watch required by voluntary vessels. #####
+
+Voluntary vessels not equipped with DSC must maintain a watch on 2182 kHz and on 156.800 MHz (Channel 16) whenever the vessel is underway and the radio is not being used to communicate. Noncommercial vessels, such as recreational boats, may alternatively maintain a watch on 156.450 MHz (Channel 9) in lieu of VHF Channel 16 for call and reply purposes. Voluntary vessels equipped with VHF-DSC equipment must maintain a watch on 2182 kHz and on either 156.525 MHz (Channel 70) or VHF Channel 16 aurally whenever the vessel is underway and the radio is not being used to communicate. Voluntary vessels equipped with MF-HF DSC equipment must have the radio turned on and set to an appropriate DSC distress calling channel or one of the radiotelephone distress channels whenever the vessel is underway and the radio is not being used to communicate. Voluntary vessels equipped with a GMDSS-approved Inmarsat system must have the unit turned on and set to receive calls whenever the vessel is underway and the radio is not being used to communicate.
+
+[76 FR 67612, Nov. 2, 2011]

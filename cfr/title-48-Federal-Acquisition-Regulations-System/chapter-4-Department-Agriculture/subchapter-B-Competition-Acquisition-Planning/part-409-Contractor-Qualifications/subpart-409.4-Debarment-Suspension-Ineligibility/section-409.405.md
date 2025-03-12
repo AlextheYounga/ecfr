@@ -1,0 +1,3 @@
+##### 409.405 Effect of listing. #####
+
+Compelling reasons are considered to be present where failure to contract with the debarred or suspended contractor would seriously harm the agency's programs and prevent accomplishment of mission requirements. The SPE is authorized to make the determinations under FAR 9.405. Requests for such determinations shall be submitted through the head of the contracting activity (HCA) to the SPE.

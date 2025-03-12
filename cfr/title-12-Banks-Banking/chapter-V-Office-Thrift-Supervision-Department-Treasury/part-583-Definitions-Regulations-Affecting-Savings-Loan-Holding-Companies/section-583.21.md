@@ -1,0 +1,3 @@
+##### § 583.21 Savings association. #####
+
+The term *savings association* means a Federal savings and loan association or a Federal savings bank chartered under section 5 of the Home Owners' Loan Act, a building and loan, savings and loan or homestead association or a cooperative bank (other than a cooperative bank described in 12 U.S.C. 1813(a)(2)) the deposits of which are insured by the Corporation, and any corporation (other than a bank) the deposits of which are insured by the Corporation that the Office and the Corporation jointly determine to be operating in substantially the same manner as a savings association, and shall include any savings bank or any cooperative bank which is deemed by the Office to be a savings association under 12 U.S.C. 1467a(1).

@@ -1,0 +1,7 @@
+##### § 9.67 Statements of disagreement. #####
+
+(a) Written “Statements of Disagreement” may be furnished by the individual within 30 calendar days of the date of receipt of the final adverse determination of the Inspector General or the Executive Director for Operations. “Statements of Disagreement” directed to the Executive Director for Operations must be sent to the Freedom of Information Act and Privacy Act Officer by an appropriate method listed in § 9.6, and should be clearly marked on the statement and on the envelope, “Privacy Act Statement of Disagreement.” “Statements of Disagreement” directed to the Inspector General must be sent to the Freedom of Information Act and Privacy Officer by an appropriate method listed in § 9.6, and should be clearly marked on the statement and on the envelope “Privacy Act Statement of Disagreement”.
+
+(b) The Inspector General or the Executive Director for Operations, or their designees, as appropriate, are responsible for ensuring that: (1) The “Statement of Disagreement” is included in the system or systems of records in which the disputed item of information is maintained; and (2) the original record is marked to indicate the information disputed, the existence of a “Statement of Disagreement” and the location of the “Statement of Disagreement” within the system of records.
+
+[55 FR 33848, Aug. 17, 1990, as amended at 68 FR 58800, Oct. 10, 2003; 70 FR 34309, June 14, 2005]

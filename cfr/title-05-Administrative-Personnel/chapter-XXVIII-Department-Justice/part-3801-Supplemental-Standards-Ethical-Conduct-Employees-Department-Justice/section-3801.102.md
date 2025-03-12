@@ -1,0 +1,3 @@
+##### § 3801.102 Detailed or assigned special agents of certain Departmental components. #####
+
+Notwithstanding a detail or assignment to another entity, any special agent of the Federal Bureau of Investigation or Drug Enforcement Administration who is subject to the regulations or standards of ethical conduct of that entity pursuant to § 2635.104 of this title shall also remain subject to the regulations in this part.

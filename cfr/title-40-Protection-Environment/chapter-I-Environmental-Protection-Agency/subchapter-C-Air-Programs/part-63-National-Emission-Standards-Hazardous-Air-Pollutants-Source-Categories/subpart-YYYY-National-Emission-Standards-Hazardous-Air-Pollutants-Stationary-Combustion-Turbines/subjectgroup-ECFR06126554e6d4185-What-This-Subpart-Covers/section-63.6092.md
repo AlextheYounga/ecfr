@@ -1,0 +1,3 @@
+##### § 63.6092 Are duct burners and waste heat recovery units covered by subpart YYYY? #####
+
+No, duct burners and waste heat recovery units are considered steam generating units and are not covered under this subpart. In some cases, it may be difficult to separately monitor emissions from the turbine and duct burner, so sources are allowed to meet the required emission limitations with their duct burners in operation.

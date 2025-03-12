@@ -1,0 +1,26 @@
+##### § 1630.11 Requirements for requests to amend records. #####
+
+(a) *TSP records.* (1) A spouse, former spouse or beneficiary of a TSP participant who wants to correct or amend his or her record must write to the TSP record keeper. A participant in the TSP who wants to correct or amend a TSP record pertaining to him or her shall submit a written request in accordance with the following chart:
+
+|                              To correct or amend a TSP record                               |                                                                    |                                                                            |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------|
+|                                  If the type of record is:                                  |If you are a participant who is a current Federal employee write to:|If you are a participant who has separated from Federal employment write to:|
+| Personnel or personal records (e.g., age, address, Social Security number, date of birth).  |                  Write to your employing agency.                   |                        Write to TSP record keeper.                         |
+|     The agency's and the participant's contributions, and adjustments to contributions.     |                  Write to your employing agency.                   |                   Write to your former employing agency.                   |
+|Earnings, investment allocation, interfund transfers, loans, loan repayments, and withdrawals|                    Write to TSP record keeper.                     |                        Write to TSP record keeper.                         |
+
+(2) The address of the record keeper is listed in § 1630.4(a).
+
+(3) Requests for amendments which are claims for money because of administrative error will be processed in accordance with the Board's Error Correction regulations found at 5 CFR part l605. Sections 1630.12(b)-1630.14 of this part do not apply to such money claim amendments to TSP records as the Error Correction regulations are an equivalent substitute. Non-money claim TSP record appeals are covered by §§ 1630.12-1630.14, or if covered by the above chart the employing, or former employing, agency's Privacy Act procedures.
+
+(4) Corrections to TSP account records which are made by the Board, its recordkeeper or the employing agency or the former employing agency on its own motion because of a detected administrative error will be effected without reference to Privacy Act procedures.
+
+(5) A participant in the TSP who is currently employed by a Federal agency should be aware that the employing agency provides to the Board personal and payroll records on the participant, such as his or her date of birth, Social Security number, retirement code, address, loan repayments, the amount of participant's contribution, amount of the Government's contribution, if the participant is covered by the Federal Employees' Retirement System Act (FERSA, 5 U.S.C. Chapter 84), and adjustments to contributions. Requests submitted to the Board, or its recordkeeper, to correct information provided by the employing Federal agency will be referred to the employing agency. The reason for this referral is that the Board receives information periodically for the TSP accounts; if the employing agency does not resolve the alleged error, the Board will continue to receive the uncorrected information periodically regardless of a one-time Board correction. The employing agency also has custody of the election form (which is maintained in the Official Personnel Folder). Requests for amendment or correction of records described in this paragraph should be made to the employing agency.
+
+(b) *Non-TSP records.* (1) Any other individual who wants to correct or amend a record pertaining to him or her shall submit a written request to the Board's Privacy Act Officer whose address is listed in § 1630.4. The words “Privacy Act—Request to Amend Record” should be written on the letter and the envelope.
+
+(2) The request for amendment or correction of the record should, if possible, state the exact name of the system of records as published in the Federal Register; a precise description of the record proposed for amendment; a brief statement describing the information the requester believes to be inaccurate or incomplete, and why; and the amendment or correction desired. If the request to amend the record is the result of the individual's having gained access to the record in accordance with §§ 1630.4, 1630.5, 1630.6 or § 1630.7, copies of previous correspondence between the requester and the Board should be attached, if possible.
+
+(3) If the individual's identity has not been previously verified, the Board may require documentation of identification as described in § 1630.7.
+
+[55 FR 18852, May 7, 1990, as amended at 64 FR 67694, 67695, Dec. 3, 1999]

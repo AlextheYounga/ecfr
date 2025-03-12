@@ -1,0 +1,23 @@
+##### § 202.16 Enforcement, penalties and liabilities. #####
+
+(a) *Administrative enforcement.* (1) As set forth more fully in section 704 of the Act, administrative enforcement of the Act and this regulation regarding certain creditors is assigned to the Comptroller of the Currency, Board of Governors of the Federal Reserve System, Board of Directors of the Federal Deposit Insurance Corporation, Office of Thrift Supervision, National Credit Union Administration, Surface Transportation Board, Secretary of Agriculture, Farm Credit Administration, Securities and Exchange Commission, Small Business Administration, and Secretary of Transportation.
+
+(2) Except to the extent that administrative enforcement is specifically assigned to other authorities, compliance with the requirements imposed under the Act and this regulation is enforced by the Federal Trade Commission.
+
+(b) *Penalties and liabilities.* (1) Sections 702(g) and 706(a) and (b) of the Act provide that any creditor that fails to comply with a requirement imposed by the Act or this regulation is subject to civil liability for actual and punitive damages in individual or class actions. Pursuant to sections 702(g) and 704(b), (c), and (d) of the Act, violations of the Act or this regulation also constitute violations of other federal laws. Liability for punitive damages can apply only to nongovernmental entities and is limited to $10,000 in individual actions and the lesser of $500,000 or 1 percent of the creditor's net worth in class actions. Section 706(c) provides for equitable and declaratory relief and section 706(d) authorizes the awarding of costs and reasonable attorney's fees to an aggrieved applicant in a successful action.
+
+(2) As provided in section 706(f), a civil action under the Act or this regulation may be brought in the appropriate United States district court without regard to the amount in controversy or in any other court of competent jurisdiction within two years after the date of the occurrence of the violation, or within one year after the commencement of an administrative enforcement proceeding or of a civil action brought by the Attorney General of the United States within two years after the alleged violation.
+
+(3) If an agency responsible for administrative enforcement is unable to obtain compliance with the Act or this regulation, it may refer the matter to the Attorney General of the United States. If the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, or the National Credit Union Administration has reason to believe that one or more creditors have engaged in a pattern or practice of discouraging or denying applications in violation of the Act or this regulation, the agency shall refer the matter to the Attorney General. If the agency has reason to believe that one or more creditors violated section 701(a) of the Act, the agency may refer a matter to the Attorney General.
+
+(4) On referral, or whenever the Attorney General has reason to believe that one or more creditors have engaged in a pattern or practice in violation of the Act or this regulation, the Attorney General may bring a civil action for such relief as may be appropriate, including actual and punitive damages and injunctive relief.
+
+(5) If the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, or the National Credit Union Administration has reason to believe (as a result of a consumer complaint, a consumer compliance examination, or some other basis) that a violation of the Act or this regulation has occurred which is also a violation of the Fair Housing Act, and the matter is not referred to the Attorney General, the agency shall:
+
+(i) Notify the Secretary of Housing and Urban Development; and
+
+(ii) Inform the applicant that the Secretary of Housing and Urban Development has been notified and that remedies may be available under the Fair Housing Act.
+
+(c) *Failure of compliance.* A creditor's failure to comply with §§ 202.6(b)(6), 202.9, 202.10, 202.12 or 202.13 is not a violation if it results from an inadvertent error. On discovering an error under §§ 202.9 and 202.10, the creditor shall correct it as soon as possible. If a creditor inadvertently obtains the monitoring information regarding the ethnicity, race, and sex of the applicant in a dwelling-related transaction not covered by § 202.13, the creditor may retain information and act on the application without violating the regulation.
+
+[Reg. B, 68 FR 13161, Mar. 18, 2003. Redesignated at 72 FR 63451, Nov. 9, 2007]

@@ -1,0 +1,17 @@
+##### § 57.204 Payment of Federal capital contributions and reallocation of funds remitted to the Secretary. #####
+
+(a) *Annual payment.* The Secretary will make payments to each school with which he or she has entered into an agreement under the Act at a time determined by him or her. If the total of the amounts requested for any fiscal year by all schools for Federal capital contributions exceeds the amount of Federal funds determined by the Secretary at the time of payment to be available for this purpose, the payment to each school will be reduced to whichever is smaller:
+
+(1) The amount requested in the application, or
+
+(2) An amount which bears the same ratio to the total amount of Federal funds determined by the Secretary at the time of payment to be available for that fiscal year for the Health Professions Student Loan Program as the number of full-time students estimated by the Secretary to be enrolled in that school bears to the estimated total number of full-time students in all participating schools during that year. Amounts remaining after these payments are made will be distributed in accordance with this paragraph among schools whose applications requested more than the amount paid to them, but with whatever adjustments that may be necessary to prevent the total paid to any school from exceeding the total requested by it.
+
+(b) *Method of payment.* The payment of Federal capital contributions to a school will be paid in a manner that avoids unnecessary accumulations of money in any health professions student loan fund.
+
+(c) *Reallocation of funds remitted to the Secretary.* All funds from a student loan fund established under this subpart which are remitted to the Secretary in any fiscal year shall be available for allotment under this subpart, in the same fiscal year and the succeeding fiscal year, to schools which, during the period beginning on July 1, 1972, and ending on September 30, 1985, established student loan funds with Federal capital contributions under this subpart. The Secretary will from time to time set dates by which the schools must file applications to receive a portion of these funds. If the total of the amounts requested for any fiscal year by eligible schools exceeds the amount of funds determined by the Secretary at the time of payment to be available for this purpose, the payment to each school will be reduced to whichever is smaller:
+
+(1) The amount requested in the application, or
+
+(2) An amount which bears the same ratio to the total amount of returned funds determined by the Secretary at the time of payment to be available for that fiscal year for the Health Professions Student Loan program as the number of full-time students estimated by the Secretary to be enrolled in that school bears to the estimated total number of full-time students in all eligible schools during that year.
+
+Amounts remaining after these payments are made will be distributed in accordance with this paragraph among schools whose applications requested more than the amount paid to them, with whatever adjustments may be necessary to prevent the total paid to any school from exceeding the total requested by it.[44 FR 29055, May 18, 1979, as amended at 53 FR 46549, Nov. 17, 1988; 56 FR 19293, Apr. 26, 1991]

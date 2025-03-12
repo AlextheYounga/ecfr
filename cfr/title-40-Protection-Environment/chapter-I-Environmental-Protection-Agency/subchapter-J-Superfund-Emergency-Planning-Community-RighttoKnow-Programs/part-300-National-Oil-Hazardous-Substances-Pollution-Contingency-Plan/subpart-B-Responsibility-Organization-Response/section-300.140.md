@@ -1,0 +1,7 @@
+##### § 300.140 Multi-regional responses. #####
+
+(a) If a discharge or release moves from the area covered by one ACP or RCP into another area, the authority for response actions should likewise shift. If a discharge or release affects areas covered by two or more ACPs or RCPs, the response mechanisms of each applicable plan may be activated. In this case, response actions of all regions concerned shall be fully coordinated as detailed in the RCPs and ACPs.
+
+(b) There shall be only one OSC and/or RPM at any time during the course of a response operation. Should a discharge or release affect two or more areas, EPA, the USCG, DOD, DOE, or other lead agency, as appropriate, shall give prime consideration to the area vulnerable to the greatest threat, in determining which agency should provide the OSC and/or RPM. The RRT shall designate the OSC and/or RPM if the RRT member agencies who have response authority within the affected areas are unable to agree on the designation. The NRT shall designate the OSC and/or RPM if members of one RRT or two adjacent RRTs are unable to agree on the designation.
+
+(c) Where the USCG has initially provided the OSC for response to a release from hazardous waste management facilities located in the coastal zone, responsibility for response action shall shift to EPA or another federal agency, as appropriate.

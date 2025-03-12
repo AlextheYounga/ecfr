@@ -1,0 +1,3 @@
+##### § 25.9 Permit enforcement. #####
+
+Each agency administering a permit program shall develop internal procedures for receiving evidence submitted by citizens about permit violations and ensuring that it is properly considered. Public effort in reporting violations shall be encouraged, and the agency shall make available information on reporting procedures. The agency shall investigate alleged violations promptly.

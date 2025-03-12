@@ -1,0 +1,3 @@
+##### § 1103.21 How far a practitioner may go in supporting a client's cause. #####
+
+A practitioner shall put forth his best effort to maintain and defend the rights of his client. Fear of disfavor of the Board or public unpopularity should not cause a practitioner to refrain from the full discharge of his duty. The client is entitled to the benefit of any and every remedy and defense authorized by law. The client may expect his counsel to assert every such remedy or defense. However, the practitioner shall act within the bounds of the law. A practitioner shall not violate the law or be involved in any manner of fraud or chicanery for any client.

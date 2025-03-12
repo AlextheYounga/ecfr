@@ -1,0 +1,3 @@
+##### § 221.550 Copies of tariffs made from filer's printer(s) located in Department's public reference room. #####
+
+Copies of information contained in a filer's on-line tariff database may be obtained by any user at Departmental Headquarters from the printer or printers placed in Tariff Public Reference Room by the filer. The filer may assess a fee for copying, provided it is reasonable and that no administrative burden is placed on the Department to require the collection of the fee or to provide any service in connection therewith.

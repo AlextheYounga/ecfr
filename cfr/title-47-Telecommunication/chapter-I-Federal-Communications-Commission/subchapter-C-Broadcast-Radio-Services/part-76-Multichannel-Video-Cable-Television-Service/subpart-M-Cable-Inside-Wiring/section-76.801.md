@@ -1,0 +1,5 @@
+##### § 76.801 Scope. #####
+
+The provisions of this subpart set forth rules and regulations for the disposition, after a subscriber voluntarily terminates cable service, of that cable home wiring installed by the cable system operator or its contractor within the premises of the subscriber. The provisions do not apply where the cable home wiring belongs to the subscriber, such as where the operator has transferred ownership to the subscriber, the operator has been treating the wiring as belonging to the subscriber for tax purposes, or the wiring is considered to be a fixture by state or local law in the subscriber's jurisdiction. Nothing in this subpart shall affect the cable system operator's rights and responsibilities under § 76.617 to prevent excessive signal leakage while providing cable service, or the cable operator's right to access the subscriber's property or premises.
+
+[58 FR 11971, Mar. 2, 1993]

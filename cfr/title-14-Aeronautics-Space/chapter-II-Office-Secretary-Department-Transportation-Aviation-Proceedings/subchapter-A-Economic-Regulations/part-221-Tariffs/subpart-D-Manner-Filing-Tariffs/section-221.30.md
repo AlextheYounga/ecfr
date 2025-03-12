@@ -1,0 +1,5 @@
+##### § 221.30 Passenger fares and charges. #####
+
+(a) Fares tariffs, including associated data, shall be filed electronically in conformity with subpart R. Associated data includes arbitraries, footnotes, routing numbers and fare class explanations. See § 221.202(b)(8).
+
+(b) Upon application by a carrier, the Department's Office of International Aviation shall have the authority to waive the electronic filing requirement in this paragraph and in Subpart R in whole or in part, for a period up to one year, and to permit, under such terms and conditions as may be necessary to carry out the purposes of this part, the applicant carrier to file fare tariffs in a paper format. Such waivers shall only be considered where electronic filing, compared to paper filing, is impractical and will produce a significant economic hardship for the carrier due to the limited nature of the carrier's operations subject to the requirements of this part, or other unusual circumstances. Paper filings pursuant to this paragraph shall normally conform to the requirements of § 221.195 and other applicable requirements of this part.

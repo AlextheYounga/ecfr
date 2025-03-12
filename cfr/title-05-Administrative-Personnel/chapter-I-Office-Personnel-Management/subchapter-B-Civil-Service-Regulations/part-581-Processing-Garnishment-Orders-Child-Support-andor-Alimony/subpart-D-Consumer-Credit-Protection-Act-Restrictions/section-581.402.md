@@ -1,0 +1,13 @@
+##### § 581.402 Maximum garnishment limitations. #####
+
+(a) Except as provided in paragraph (b) of this section, pursuant to section 1673(b)(2) (A) and (B) of title 15 of the United States Code (the Consumer Credit Protection Act, as amended), unless a lower maximum garnishment limitation is provided by applicable State or local law, the maximum part of the aggregate disposable earnings subject to garnishment to enforce any support order(s) shall not exceed:
+
+(1) Fifty percent of the obligor's aggregate disposable earnings for any workweek, where the obligor asserts by affidavit, or by other acceptable evidence, that he or she is supporting a spouse, a dependent child, or both, other than the former spouse, child, or both, for whose support such order is issued, except that an additional five percent will apply if it appears on the face of the legal process, or from other evidence submitted in accordance with § 581.202(d), that such earnings are to enforce a support order for a period which is 12 weeks prior to that workweek. An obligor shall be considered to be supporting a spouse, dependent child, or both, only if the obligor provides over half of the support for a spouse, dependent child or both.
+
+(2) Sixty percent of the obligor's aggregate disposable earnings for any workweek, where the obligor fails to assert by affidavit or establishes by other acceptable evidence, that he or she is supporting a spouse, dependent child, or both, other than a former spouse, child, or both, with respect to whose support such order is issued, except that an additional five percent will apply if it appears on the face of the legal process, or from other evidence submitted in accordance with § 581.202(d), that such earnings are to enforce a support order for a period which is 12 weeks prior to that workweek.
+
+(3) Where, under § 581.302(a)(2), an obligor submits evidence that he or she is supporting a second spouse, child, or both a second spouse and dependent child, copies of the evidence shall be sent by the governmental entity to the garnishor, or the garnishor's representative, as well as to the court, or other authority as specified in § 581.102(f)(1), together with notification that the obligor's support claim will be honored. If the garnishor disagrees with the obligor's support claim, the garnishor should immediately refer the matter to the court, or other authority, for resolution.
+
+(b) In instances where an obligor is receiving remuneration from more than one governmental entity, an authority described in § 581.102(f)(1) may apply the limitations described in paragraph (a) of this section to the total remuneration, *i.e.,* to the combined aggregate disposable earnings received by the obligor.
+
+[63 FR 14759, Mar. 26, 1998]

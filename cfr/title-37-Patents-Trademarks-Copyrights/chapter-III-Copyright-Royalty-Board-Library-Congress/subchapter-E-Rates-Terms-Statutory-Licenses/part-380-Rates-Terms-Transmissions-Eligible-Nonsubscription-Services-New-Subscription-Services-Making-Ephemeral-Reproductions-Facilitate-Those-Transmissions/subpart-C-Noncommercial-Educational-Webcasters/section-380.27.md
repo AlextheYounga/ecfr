@@ -1,0 +1,3 @@
+##### § 380.27 Unclaimed funds. #####
+
+If the Collective is unable to identify or locate a Copyright Owner or Performer who is entitled to receive a royalty distribution under this subpart, the Collective shall retain the required payment in a segregated trust account for a period of 3 years from the date of distribution. No claim to such distribution shall be valid after the expiration of the 3-year period. After expiration of this period, the Collective may apply the unclaimed funds to offset any costs deductible under 17 U.S.C. 114(g)(3). The foregoing shall apply notwithstanding the common law or statutes of any State.

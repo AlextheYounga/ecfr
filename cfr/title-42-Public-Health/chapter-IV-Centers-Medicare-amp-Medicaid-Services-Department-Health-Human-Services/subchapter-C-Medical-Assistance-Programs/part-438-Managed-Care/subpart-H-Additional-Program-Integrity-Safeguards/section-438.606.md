@@ -1,0 +1,7 @@
+##### § 438.606 Source, content, and timing of certification. #####
+
+(a) *Source of certification.* For the data, documentation, or information specified in § 438.604, the State must require that the data, documentation or information the MCO, PIHP, PAHP, PCCM or PCCM entity submits to the State be certified by either the MCO's, PIHP's, PAHP's, PCCM's, or PCCM entity's Chief Executive Officer; Chief Financial Officer; or an individual who reports directly to the Chief Executive Officer or Chief Financial Officer with delegated authority to sign for the Chief Executive Officer or Chief Financial Officer so that the Chief Executive Officer or Chief Financial Officer is ultimately responsible for the certification.
+
+(b) *Content of certification.* The certification provided by the individual in paragraph (a) of this section must attest that, based on best information, knowledge, and belief, the data, documentation, and information specified in § 438.604 is accurate, complete, and truthful.
+
+(c) *Timing of certification.* The State must require the MCO, PIHP, PAHP, PCCM, or PCCM entity to submit the certification concurrently with the submission of the data, documentation, or information required in § 438.604(a) and (b).

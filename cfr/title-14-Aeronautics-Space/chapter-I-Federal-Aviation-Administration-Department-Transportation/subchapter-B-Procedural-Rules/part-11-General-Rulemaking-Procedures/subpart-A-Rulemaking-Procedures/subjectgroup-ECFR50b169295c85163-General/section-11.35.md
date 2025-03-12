@@ -1,0 +1,7 @@
+##### § 11.35 Does FAA include sensitive security information and proprietary information in the Federal Docket Management System (FDMS)? #####
+
+(a) *Sensitive security information.* You should not submit sensitive security information to the rulemaking docket, unless you are invited to do so in our request for comments. If we ask for this information, we will tell you in the specific document how to submit this information, and we will provide a separate non-public docket for it. For all proposed rule changes involving civil aviation security, we review comments as we receive them, before they are placed in the docket. If we find that a comment contains sensitive security information, we remove that information before placing the comment in the general docket.
+
+(b) *Proprietary information.* When we are aware of proprietary information filed with a comment, we do not place it in the docket. We hold it in a separate file to which the public does not have access, and place a note in the docket that we have received it. If we receive a request to examine or copy this information, we treat it as any other request under the Freedom of Information Act (5 U.S.C. 552). We process such a request under the DOT procedures found in 49 CFR part 7.
+
+[Doc. No. 1999-6622, 65 FR 50863, Aug. 21, 2000, as amended at 72 FR 68474, Dec. 5, 2007]

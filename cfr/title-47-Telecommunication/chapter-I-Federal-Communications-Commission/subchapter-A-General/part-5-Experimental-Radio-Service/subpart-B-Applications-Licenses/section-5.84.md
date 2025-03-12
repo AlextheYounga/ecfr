@@ -1,0 +1,3 @@
+##### § 5.84 Non-interference criterion. #####
+
+Operation of an experimental radio station is permitted only on the condition that harmful interference is not caused to any station operating in accordance with the Table of Frequency Allocation of part 2 of this chapter. If harmful interference to an established radio service occurs, upon becoming aware of such harmful interference the Experimental Radio Service licensee shall immediately cease transmissions. Furthermore, the licensee shall not resume transmissions until the licensee establishes to the satisfaction of the Commission that further harmful interference will not be caused to any established radio service.

@@ -1,0 +1,3 @@
+##### § 270.2 Application of this part. #####
+
+This part applies to any contract or subcontract entered into by a lessee or by a contractor or subcontractor of a lessee after the effective date of these regulations to provide goods, services, facilities, or property in an amount of $10,000 or more in connection with any activity related to the exploration for or development and production of oil, gas, or other minerals or materials in the OCS under the Act.

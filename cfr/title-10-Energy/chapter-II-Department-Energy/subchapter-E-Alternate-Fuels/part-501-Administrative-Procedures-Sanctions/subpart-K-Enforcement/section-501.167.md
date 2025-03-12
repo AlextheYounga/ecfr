@@ -1,0 +1,9 @@
+##### § 501.167 Fuel use order. #####
+
+(a) *General.* OFE will issue a Fuel Use Order if, after considering all the information received during the proceeding, OFE determines that a person has committed, is committing, or is about to commit a violation of FUA or of an order or rule thereunder.
+
+(b) *Contents.* Any Fuel Use Order issued under this section shall set forth the relevant facts and legal basis for the order and where appropriate, the final penalty assessment and the basis therefor. When an administrative hearing is requested under § 501.166(a) of this part, the Fuel Use Order will include the recommended findings and conclusions of the Administrative Law Judge (ALJ) and the basis for the penalty assessment. OFE will make a final determination as to any penalty assessment or other appropriate remedy based upon the recommended findings and conclusions of the ALJ and other information in the record of the enforcement proceeding. The order will be effective upon service, unless otherwise provided therein, or stayed pursuant to § 501.120.
+
+(c) *Service.* OFE will serve a copy of the Fuel Use Order upon any person who was served a copy of the notice of violation and upon all parties to any public proceeding on the notice of violation. OFE will place a copy of each final order on file in the Public Information Office described in § 501.12.
+
+(d) *Judicial review.* Any person against whom a penalty is assessed pursuant to § 501.167(b) after a hearing before an ALJ may, within sixty (60) calendar days after the date of issuance of the order assessing such penalty, institute an action in the United States Court of Appeals for the appropriate judicial circuit for judicial review of such order in accordance with the provisions of section 723 of FUA.

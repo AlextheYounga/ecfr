@@ -1,0 +1,3 @@
+##### 1032.770-1 Scope of section. #####
+
+This section provides policy and procedure for using incremental funding for fixed-price, time-and-material and labor-hour contracts during a period in which funds are provided to Treasury Departmental Offices or Bureaus, under a continuing resolution (CR). HCAs may develop necessary supplemental internal procedures as well as guidance to advise potential offerors, offerors and contractors of these policies and procedures. Additionally, Bureaus who receive non-appropriated funds may utilize and tailor these policies and procedures to fit their needs.

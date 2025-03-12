@@ -1,0 +1,3 @@
+##### § 11.23 Does FAA follow the same procedures in issuing all types of rules? #####
+
+Yes, in general, FAA follows the same procedures for all rule types. There are some differences as to which FAA official has authority to issue each type, and where you send petitions for FAA to adopt, amend, or repeal each type. Assume that the procedures in this subpart apply to all rules, except where we specify otherwise.

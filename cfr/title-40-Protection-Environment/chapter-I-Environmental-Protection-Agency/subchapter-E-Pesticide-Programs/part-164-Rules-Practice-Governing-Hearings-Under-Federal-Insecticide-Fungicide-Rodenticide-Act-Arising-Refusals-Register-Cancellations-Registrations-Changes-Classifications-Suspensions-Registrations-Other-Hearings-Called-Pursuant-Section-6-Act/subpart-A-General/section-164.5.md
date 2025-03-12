@@ -1,0 +1,7 @@
+##### § 164.5 Filing and service. #####
+
+(a) All documents or papers required or authorized to be filed, shall be filed with the hearing clerk, except as provided otherwise in this part. At the same time that a party files documents or papers with the clerk, it shall serve upon all other parties copies thereof, with a certificate of service on each document or paper, including those filed with the hearing clerk. If filing is accomplished by mail addressed to the clerk, filing shall be deemed timely if the papers are postmarked on the due date except as to initial filings requesting a public hearing or responding to a notice of intent to hold a hearing, in which case such filings must be received by the hearing clerk either within the time required by statute or by the notice of intent to hold a hearing.
+
+(b) Each document filed, other than papers commencing a proceeding, shall contain the FIFRA docket number and, if the document affects less than all of the registrations included under that docket number, the registration number or file symbol of each product which is the subject of the document.
+
+(c) In addition to copies served on all other parties, each party shall file an original and two copies of all papers with the hearing clerk.

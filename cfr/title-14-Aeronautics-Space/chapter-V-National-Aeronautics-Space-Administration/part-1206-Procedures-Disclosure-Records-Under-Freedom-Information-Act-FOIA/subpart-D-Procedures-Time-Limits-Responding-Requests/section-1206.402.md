@@ -1,0 +1,5 @@
+##### § 1206.402 Suspending the basic time limit. #####
+
+(a) In accordance with 5 U.S.C. 552(a)(6)(A)(ii)(I), the FOIA office may make one request to the requester for information to clarify a request and temporarily suspend (toll) the time (the 20-day period) while it is awaiting such information that it has reasonably requested from the requester. Receipt of the requester's response by the FOIA office to the Agency's request for additional information or clarification ends the temporary time suspension.
+
+(b) In accordance with 5 U.S.C. 552(a)(6)(A)(ii)(II), the FOIA office may temporarily suspend (toll) the 20-day period as many times as is necessary to clarify with the requester issues regarding fees. Receipt of the requester's response by the FOIA office to the Agency's request for information regarding fees ends the temporary time suspension.

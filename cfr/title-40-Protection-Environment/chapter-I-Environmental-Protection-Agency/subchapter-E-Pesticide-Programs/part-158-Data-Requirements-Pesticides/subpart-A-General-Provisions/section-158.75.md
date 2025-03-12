@@ -1,0 +1,3 @@
+##### § 158.75 Requirements for additional data. #####
+
+The data routinely required by this part may not be sufficient to permit EPA to evaluate every pesticide product. If the information required under this part is not sufficient to evaluate the potential of the product to cause unreasonable adverse effects on man or the environment, additional data requirements will be imposed. However, EPA expects that the information required by this part will be adequate in most cases for an assessment of the properties and effects of the pesticide.

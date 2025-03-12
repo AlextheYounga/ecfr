@@ -1,0 +1,3 @@
+##### § 353.104 Notification of rights and obligations. #####
+
+When an agency separates, grants a leave of absence, restores or fails to restore an employee because of uniformed service or compensable injury, it shall notify the employee of his or her rights, obligations, and benefits relating to Government employment, including any appeal and grievance rights. However, regardless of notification, an employee is still required to exercise due diligence in ascertaining his or her rights, and to seek reemployment within the time limits provided by chapter 43 of title 38, United States Code, for restoration after uniformed service, or as soon as he or she is able after a compensable injury.

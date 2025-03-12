@@ -1,0 +1,85 @@
+##### § 97.620 Establishment of compliance accounts, assurance accounts, and general accounts. #####
+
+(a) *Compliance accounts.* Upon receipt of a complete certificate of representation under § 97.616, the Administrator will establish a compliance account for the CSAPR SO2 Group 1 source for which the certificate of representation was submitted, unless the source already has a compliance account. The designated representative and any alternate designated representative of the source shall be the authorized account representative and the alternate authorized account representative respectively of the compliance account.
+
+(b) *Assurance accounts.* The Administrator will establish assurance accounts for certain owners and operators and States in accordance with § 97.625(b)(3).
+
+(c) *General accounts*—(1) *Application for general account.* (i) Any person may apply to open a general account, for the purpose of holding and transferring CSAPR SO2 Group 1 allowances, by submitting to the Administrator a complete application for a general account. Such application shall designate one and only one authorized account representative and may designate one and only one alternate authorized account representative who may act on behalf of the authorized account representative.
+
+(A) The authorized account representative and alternate authorized account representative shall be selected by an agreement binding on the persons who have an ownership interest with respect to CSAPR SO2 Group 1 allowances held in the general account.
+
+(B) The agreement by which the alternate authorized account representative is selected shall include a procedure for authorizing the alternate authorized account representative to act in lieu of the authorized account representative.
+
+(ii) A complete application for a general account shall include the following elements in a format prescribed by the Administrator:
+
+(A) Name, mailing address, e-mail address (if any), telephone number, and facsimile transmission number (if any) of the authorized account representative and any alternate authorized account representative;
+
+(B) An identifying name for the general account;
+
+(C) A list of all persons subject to a binding agreement for the authorized account representative and any alternate authorized account representative to represent their ownership interest with respect to the CSAPR SO2 Group 1 allowances held in the general account;
+
+(D) The following certification statement by the authorized account representative and any alternate authorized account representative: “I certify that I was selected as the authorized account representative or the alternate authorized account representative, as applicable, by an agreement that is binding on all persons who have an ownership interest with respect to CSAPR SO2 Group 1 allowances held in the general account. I certify that I have all the necessary authority to carry out my duties and responsibilities under the CSAPR SO2 Group 1 Trading Program on behalf of such persons and that each such person shall be fully bound by my representations, actions, inactions, or submissions and by any decision or order issued to me by the Administrator regarding the general account.”; and
+
+(E) The signature of the authorized account representative and any alternate authorized account representative and the dates signed.
+
+(iii) Unless otherwise required by the Administrator, documents of agreement referred to in the application for a general account shall not be submitted to the Administrator. The Administrator shall not be under any obligation to review or evaluate the sufficiency of such documents, if submitted.
+
+(iv) An application for a general account under paragraph (c)(1) of this section that complies with the provisions of such paragraph except that it contains the acronym “TR” in place of the acronym “CSAPR” in the required certification statement will be considered a complete application for a general account under such paragraph, and the certification statement included in such application for a general account will be interpreted as if the acronym “CSAPR” appeared in place of the acronym “TR”.
+
+(2) *Authorization of authorized account representative and alternate authorized account representative.* (i) Upon receipt by the Administrator of a complete application for a general account under paragraph (c)(1) of this section, the Administrator will establish a general account for the person or persons for whom the application is submitted, and upon and after such receipt by the Administrator:
+
+(A) The authorized account representative of the general account shall be authorized and shall represent and, by his or her representations, actions, inactions, or submissions, legally bind each person who has an ownership interest with respect to CSAPR SO2 Group 1 allowances held in the general account in all matters pertaining to the CSAPR SO2 Group 1 Trading Program, notwithstanding any agreement between the authorized account representative and such person.
+
+(B) Any alternate authorized account representative shall be authorized, and any representation, action, inaction, or submission by any alternate authorized account representative shall be deemed to be a representation, action, inaction, or submission by the authorized account representative.
+
+(C) Each person who has an ownership interest with respect to CSAPR SO2 Group 1 allowances held in the general account shall be bound by any decision or order issued to the authorized account representative or alternate authorized account representative by the Administrator regarding the general account.
+
+(ii) Except as provided in paragraph (c)(5) of this section concerning delegation of authority to make submissions, each submission concerning the general account shall be made, signed, and certified by the authorized account representative or any alternate authorized account representative for the persons having an ownership interest with respect to CSAPR SO2 Group 1 allowances held in the general account. Each such submission shall include the following certification statement by the authorized account representative or any alternate authorized account representative: “I am authorized to make this submission on behalf of the persons having an ownership interest with respect to the CSAPR SO2 Group 1 allowances held in the general account. I certify under penalty of law that I have personally examined, and am familiar with, the statements and information submitted in this document and all its attachments. Based on my inquiry of those individuals with primary responsibility for obtaining the information, I certify that the statements and information are to the best of my knowledge and belief true, accurate, and complete. I am aware that there are significant penalties for submitting false statements and information or omitting required statements and information, including the possibility of fine or imprisonment.”
+
+(iii) Except in this section, whenever the term “authorized account representative” is used in this subpart, the term shall be construed to include the authorized account representative or any alternate authorized account representative.
+
+(iv) A certification statement submitted in accordance with paragraph (c)(2)(ii) of this section that contains the acronym “TR” will be interpreted as if the acronym “CSAPR” appeared in place of the acronym “TR”.
+
+(3) *Changing authorized account representative and alternate authorized account representative; changes in persons with ownership interest.* (i) The authorized account representative of a general account may be changed at any time upon receipt by the Administrator of a superseding complete application for a general account under paragraph (c)(1) of this section. Notwithstanding any such change, all representations, actions, inactions, and submissions by the previous authorized account representative before the time and date when the Administrator receives the superseding application for a general account shall be binding on the new authorized account representative and the persons with an ownership interest with respect to the CSAPR SO2 Group 1 allowances in the general account.
+
+(ii) The alternate authorized account representative of a general account may be changed at any time upon receipt by the Administrator of a superseding complete application for a general account under paragraph (c)(1) of this section. Notwithstanding any such change, all representations, actions, inactions, and submissions by the previous alternate authorized account representative before the time and date when the Administrator receives the superseding application for a general account shall be binding on the new alternate authorized account representative, the authorized account representative, and the persons with an ownership interest with respect to the CSAPR SO2 Group 1 allowances in the general account.
+
+(iii)(A) In the event a person having an ownership interest with respect to CSAPR SO2 Group 1 allowances in the general account is not included in the list of such persons in the application for a general account, such person shall be deemed to be subject to and bound by the application for a general account, the representation, actions, inactions, and submissions of the authorized account representative and any alternate authorized account representative of the account, and the decisions and orders of the Administrator, as if the person were included in such list.
+
+(B) Within 30 days after any change in the persons having an ownership interest with respect to CSAPR SO2 Group 1 allowances in the general account, including the addition or removal of a person, the authorized account representative or any alternate authorized account representative shall submit a revision to the application for a general account amending the list of persons having an ownership interest with respect to the CSAPR SO2 Group 1 allowances in the general account to include the change.
+
+(4) *Objections concerning authorized account representative and alternate authorized account representative.* (i) Once a complete application for a general account under paragraph (c)(1) of this section has been submitted and received, the Administrator will rely on the application unless and until a superseding complete application for a general account under paragraph (c)(1) of this section is received by the Administrator.
+
+(ii) Except as provided in paragraph (c)(4)(i) of this section, no objection or other communication submitted to the Administrator concerning the authorization, or any representation, action, inaction, or submission of the authorized account representative or any alternate authorized account representative of a general account shall affect any representation, action, inaction, or submission of the authorized account representative or any alternate authorized account representative or the finality of any decision or order by the Administrator under the CSAPR SO2 Group 1 Trading Program.
+
+(iii) The Administrator will not adjudicate any private legal dispute concerning the authorization or any representation, action, inaction, or submission of the authorized account representative or any alternate authorized account representative of a general account, including private legal disputes concerning the proceeds of CSAPR SO2 Group 1 allowance transfers.
+
+(5) *Delegation by authorized account representative and alternate authorized account representative.* (i) An authorized account representative of a general account may delegate, to one or more natural persons, his or her authority to make an electronic submission to the Administrator provided for or required under this subpart.
+
+(ii) An alternate authorized account representative of a general account may delegate, to one or more natural persons, his or her authority to make an electronic submission to the Administrator provided for or required under this subpart.
+
+(iii) In order to delegate authority to a natural person to make an electronic submission to the Administrator in accordance with paragraph (c)(5)(i) or (ii) of this section, the authorized account representative or alternate authorized account representative, as appropriate, must submit to the Administrator a notice of delegation, in a format prescribed by the Administrator, that includes the following elements:
+
+(A) The name, address, e-mail address, telephone number, and facsimile transmission number (if any) of such authorized account representative or alternate authorized account representative;
+
+(B) The name, address, e-mail address, telephone number, and facsimile transmission number (if any) of each such natural person (referred to in this section as an “agent”);
+
+(C) For each such natural person, a list of the type or types of electronic submissions under paragraph (c)(5)(i) or (ii) of this section for which authority is delegated to him or her;
+
+(D) The following certification statement by such authorized account representative or alternate authorized account representative: “I agree that any electronic submission to the Administrator that is made by an agent identified in this notice of delegation and of a type listed for such agent in this notice of delegation and that is made when I am an authorized account representative or alternate authorized account representative, as appropriate, and before this notice of delegation is superseded by another notice of delegation under 40 CFR 97.620(c)(5)(iv) shall be deemed to be an electronic submission by me.”; and
+
+(E) The following certification statement by such authorized account representative or alternate authorized account representative: “Until this notice of delegation is superseded by another notice of delegation under 40 CFR 97.620(c)(5)(iv), I agree to maintain an e-mail account and to notify the Administrator immediately of any change in my e-mail address unless all delegation of authority by me under 40 CFR 97.620(c)(5) is terminated.”.
+
+(iv) A notice of delegation submitted under paragraph (c)(5)(iii) of this section shall be effective, with regard to the authorized account representative or alternate authorized account representative identified in such notice, upon receipt of such notice by the Administrator and until receipt by the Administrator of a superseding notice of delegation submitted by such authorized account representative or alternate authorized account representative, as appropriate. The superseding notice of delegation may replace any previously identified agent, add a new agent, or eliminate entirely any delegation of authority.
+
+(v) Any electronic submission covered by the certification in paragraph (c)(5)(iii)(D) of this section and made in accordance with a notice of delegation effective under paragraph (c)(5)(iv) of this section shall be deemed to be an electronic submission by the authorized account representative or alternate authorized account representative submitting such notice of delegation.
+
+(6) *Closing a general account.* (i) The authorized account representative or alternate authorized account representative of a general account may submit to the Administrator a request to close the account. Such request shall include a correctly submitted CSAPR SO2 Group 1 allowance transfer under § 97.622 for any CSAPR SO2 Group 1 allowances in the account to one or more other Allowance Management System accounts.
+
+(ii) If a general account has no CSAPR SO2 Group 1 allowance transfers to or from the account for a 12-month period or longer and does not contain any CSAPR SO2 Group 1 allowances, the Administrator may notify the authorized account representative for the account that the account will be closed after 30 days after the notice is sent. The account will be closed after the 30-day period unless, before the end of the 30-day period, the Administrator receives a correctly submitted CSAPR SO2 Group 1 allowance transfer under § 97.622 to the account or a statement submitted by the authorized account representative or alternate authorized account representative demonstrating to the satisfaction of the Administrator good cause as to why the account should not be closed.
+
+(d) *Account identification.* The Administrator will assign a unique identifying number to each account established under paragraph (a), (b), or (c) of this section.
+
+(e) *Responsibilities of authorized account representative and alternate authorized account representative.* After the establishment of a compliance account or general account, the Administrator will accept or act on a submission pertaining to the account, including, but not limited to, submissions concerning the deduction or transfer of CSAPR SO2 Group 1 allowances in the account, only if the submission has been made, signed, and certified in accordance with §§ 97.614(a) and 97.618 or paragraphs (c)(2)(ii) and (c)(5) of this section.
+
+[76 FR 48432, Aug. 8, 2011, as amended at 81 FR 74617, Oct. 26, 2016; 86 FR 23193, Apr. 30, 2021]

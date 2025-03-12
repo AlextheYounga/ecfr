@@ -1,0 +1,5 @@
+##### § 208.20 Authority, purpose, and scope. #####
+
+(a) *Authority.* Subpart B of Regulation H (12 CFR part 208, subpart B) is issued by the Board of Governors of the Federal Reserve System under 12 U.S.C. 24; sections 9, 11 and 21 of the Federal Reserve Act (12 U.S.C. 321-338a, 248(a), 248(c), and 481-486); sections 1814, 1816, 1818, 1823(j), 1831o, 1831p-1 and 1831r-1 of the FDI Act (12 U.S.C. 1814, 1816, 1818, 1823(j), 1831o, 1831p-1 and 1831r-1); and the National Flood Insurance Act of 1968 and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4129).
+
+(b) *Purpose and scope.* This subpart B describes certain investment limitations on member banks, statutory requirements for amortizing losses on agricultural loans and extending credit in areas having special flood hazards, as well as the requirements for issuing letters of credit and acceptances.

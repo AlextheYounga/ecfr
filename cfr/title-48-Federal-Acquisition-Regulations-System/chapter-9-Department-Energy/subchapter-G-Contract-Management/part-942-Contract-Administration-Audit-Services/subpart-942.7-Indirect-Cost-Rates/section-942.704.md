@@ -1,0 +1,5 @@
+##### 942.704 Billing rates. #####
+
+(b) When the contracting officer or auditor responsible for establishing billing rates, in accordance with 48 CFR 42.704, has not established such rates or such rates are not current for the performance periods (contractor FY) under contract, the DOE contracting officer responsible for administration of the contract shall establish an appropriate rate(s) for billing purposes. If the contractor holds more than one DOE contract covering that period of performance, the DOE office with the largest unliquidated obligations as of the beginning of that performance period shall take the lead in establishing the required billing rate for use on DOE contracts. Once appropriate billing rates are established by the responsible contracting officer designated by 48 CFR 42.704, such rates shall be adopted by the contracting officer and all billings and payments shall be retroactively revised to reflect the agreed upon rate(s).
+
+[65 FR 81007, Dec. 22, 2000, as amended at 75 FR 29459, May 26, 2010]

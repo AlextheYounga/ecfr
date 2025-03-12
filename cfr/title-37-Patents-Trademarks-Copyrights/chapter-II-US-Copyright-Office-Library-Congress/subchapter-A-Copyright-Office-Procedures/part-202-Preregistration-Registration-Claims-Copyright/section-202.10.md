@@ -1,0 +1,7 @@
+##### § 202.10 Pictorial, graphic, and sculptural works. #####
+
+(a) In order to be acceptable as a pictorial, graphic, or sculptural work, the work must embody some creative authorship in its delineation or form. The registrability of such a work is not affected by the intention of the author as to the use of the work or the number of copies reproduced. The availability of protection or grant of protection under the law for a utility or design patent will not affect the registrability of a claim in an original work of pictorial, graphic, or sculptural authorship.
+
+(b) A claim to copyright cannot be registered in a print or label consisting solely of trademark subject matter and lacking copyrightable matter. While the Copyright Office will not investigate whether the matter has been or can be registered at the Patent and Trademark Office, it will register a properly filed copyright claim in a print or label that contains the requisite qualifications for copyright even though there is a trademark on it. However, registration of a claim to copyright does not give the claimant rights available by trademark registrations at the Patent and Trademark Office.
+
+[46 FR 33249, June 29, 1981, as amended at 60 FR 15606, Mar. 24, 1995; 61 FR 5445, Feb. 12, 1996]

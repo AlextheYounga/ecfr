@@ -1,0 +1,3 @@
+##### § 385.6 Referral to the Reviewing Official. #####
+
+When the staff member finds that the public interest so requires, or that, with respect to other than matters requiring immediate action as hereafter specified, there will be insufficient time for discretionary review of his or her decision upon petition, the staff member shall, in lieu of exercising the authority, submit the matter to the Reviewing Official for decision. In any case in which the staff member finds that immediate action is required with respect to any matter assigned herein, the disposition of which is governed by prior precedent and policy, the staff member may take appropriate action and specify that the filing of a petition for review shall not preclude such action from becoming effective.

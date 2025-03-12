@@ -1,0 +1,3 @@
+##### § 35.9030 Work program. #####
+
+The work program is part of the application for financial assistance and becomes part of the award document. It is part of the basis for an award decision and the basis for management and evaluation of performance under an assistance award. The work program must specify the level of effort and amount and source of funding estimated to be needed for each identified activity, the outputs committed for each activity, and the schedule for delivery of outputs.

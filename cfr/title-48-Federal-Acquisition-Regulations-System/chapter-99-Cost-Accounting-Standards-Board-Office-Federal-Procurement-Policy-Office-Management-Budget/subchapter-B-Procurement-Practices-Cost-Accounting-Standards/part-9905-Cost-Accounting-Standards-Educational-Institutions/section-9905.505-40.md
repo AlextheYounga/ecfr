@@ -1,0 +1,13 @@
+##### 9905.505-40 Fundamental requirement. #####
+
+(a) Costs expressly unallowable or mutually agreed to be unallowable, including costs mutually agreed to be unallowable directly associated costs, shall be identified and excluded from any billing, claim, or proposal applicable to a Government contract.
+
+(b) Costs which specifically become designated as unallowable as a result of a written decision furnished by a contracting officer pursuant to contract disputes procedures shall be identified if included in or used in the computation of any billing, claim, or proposal applicable to a Government contract. This identification requirement applies also to any costs incurred for the same purpose under like circumstances as the costs specifically identified as unallowable under either this paragraph or paragraph (a) of this subsection.
+
+(c) Costs which, in a contracting officer's written decision furnished pursuant to contract disputes procedures, are designated as unallowable directly associated costs of unallowable costs covered by either paragraph (a) or (b) of this subsection shall be accorded the identification required by paragraph (b) of this subsection.
+
+(d) The costs of any work project not contractually authorized, whether or not related to performance of a proposed or existing contract, shall be accounted for, to the extent appropriate, in a manner which permits ready separation from the costs of authorized work projects.
+
+(e) All unallowable costs covered by paragraphs (a) through (d) of this subsection shall be subject to the same cost accounting principles governing cost allocability as allowable costs. In circumstances where these unallowable costs normally would be part of a regular indirect-cost allocation base or bases, they shall remain in such base or bases. Where a directly associated cost is part of a category of costs normally included in an indirect-cost pool that will be allocated over a base containing the unallowable cost with which it is associated, such a directly associated cost shall be retained in the indirect-cost pool and be allocated through the regular allocation process.
+
+(f) Where the total of the allocable and otherwise allowable costs exceeds a limitation-of-cost or ceiling-price provision in a contract, full direct and indirect cost allocation shall be made to the contract cost objective, in accordance with established cost accounting practices and Standards which regularly govern a given entity's allocations to Government contract cost objectives. In any determination of unallowable cost overrun, the amount thereof shall be identified in terms of the excess of allowable costs over the ceiling amount, rather than through specific identification of particular cost items or cost elements.

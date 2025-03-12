@@ -1,0 +1,5 @@
+##### § 158.80 Use of other data. #####
+
+(a) *Data developed in foreign countries.* With certain exceptions, laboratory and field study data developed outside the United States may be submitted in support of a pesticide registration. Data generated in a foreign country which the Agency will not consider include, but are not limited to, data from tests which involved field test sites or a test material, such as a native soil, plant, or animal, that is not characteristic of the United States. Applicants submitting foreign data must take steps to ensure that U.S. materials are used, or be prepared to supply data or information to demonstrate the lack of substantial or relevant differences between the selected material or test site and the U.S. material or test site. Once submitted, the Agency will determine whether or not the data meet the data requirements.
+
+(b) *Data generated for other purposes.* Data developed for purposes other than satisfaction of FIFRA data requirements, such as monitoring studies, may also satisfy data requirements in this part. Consultation with the Agency should be arranged if applicants are unsure about suitability of such data.

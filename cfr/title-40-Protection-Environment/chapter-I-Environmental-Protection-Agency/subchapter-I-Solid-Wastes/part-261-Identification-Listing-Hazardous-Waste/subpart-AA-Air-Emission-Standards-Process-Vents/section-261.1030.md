@@ -1,0 +1,3 @@
+##### § 261.1030 Applicability. #####
+
+The regulations in this subpart apply to process vents associated with distillation, fractionation, thin-film evaporation, solvent extraction, or air or stream stripping operations that manage hazardous secondary materials excluded under the remanufacturing exclusion at § 261.4(a)(27) with concentrations of at least 10 ppmw, unless the process vents are equipped with operating air emission controls in accordance with the requirements of an applicable Clean Air Act regulation codified under 40 CFR part 60, part 61, or part 63.

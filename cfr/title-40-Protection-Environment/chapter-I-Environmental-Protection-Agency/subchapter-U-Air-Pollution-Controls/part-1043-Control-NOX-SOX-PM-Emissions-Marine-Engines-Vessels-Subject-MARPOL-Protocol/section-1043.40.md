@@ -1,0 +1,17 @@
+##### § 1043.40 EIAPP certificates. #####
+
+(a) Engine manufacturers seeking EIAPP certificates for new engines to be used in U.S.-flagged vessels must apply to EPA for an EIAPP certificate in compliance with the requirements of this section (which references 40 CFR part 1042). Note that under APPS engine manufacturers must comply with the applicable requirements of Regulation 13 of Annex VI to obtain a certificate. Note also that only the Administrator or the EPA official designated by the Administrator may issue EIAPP certificates on behalf of the U.S. Government.
+
+(b) Persons other than engine manufacturers may apply for and obtain EIAPP certificates for new engines to be used in U.S.-flagged vessels by complying with the requirements of this section (which references 40 CFR part 1042) and the applicable requirements of Regulation 13 of Annex VI.
+
+(c) In appropriate circumstances, EPA may issue an EIAPP certificate under this section for non-new engines or engines for vessels that will not initially be flagged in the U.S.
+
+(d) EPA may issue both an EPA certificate and an EIAPP certificate for the same engine, as long as the manufacturer and the engine meet all applicable requirements. EPA may not issue an EIAPP certificate if the engine is certified with an FEL under 40 CFR part 1042 that is higher than the applicable NOX emission standard under Annex VI.
+
+(e) The process for obtaining an EIAPP certificate is described in § 1043.41. That section references regulations in 40 CFR part 1042, which apply under the Clean Air Act. References in that part to certificates of conformity are deemed to mean EIAPP certificates. References in that part to the Clean Air Act as the applicable statute are deemed to mean 33 U.S.C. 1901-1915.
+
+(f) For engines that undergo a major conversion or for engines installed on imported vessels that become subject to the requirements of this part, we may specify alternate certification provisions consistent with the intent of this part.
+
+(g) This paragraph (g) applies for engines that were originally excluded from this part because they were intended for domestic use and were introduced into U.S. commerce without an EIAPP certificate. Note that such engines must be labeled as specified under 40 CFR 1042.135 to indicate that they are intended for domestic use. Such engines may be installed on vessels not intended only for domestic operation provided the engine manufacturer, vessel manufacturer, or vessel owner obtains an EIAPP certificate. Similarly, vessels originally intended only for domestic operation may be used internationally provided the engine manufacturer, vessel manufacturer, or vessel owner obtains an EIAPP certificate. The limitations for engine manufacturers described in paragraphs (a) and (d) of this section also apply for all EIAPP certificates issued under this paragraph (g). In either case, the Technical File must specify that the engine was originally certified for domestic use only, prior to being covered by an EIAPP certificate. Engine manufacturers may provide a supplemental label to clarify that the engine is no longer limited to domestic service. An engine manufacturer, vessel manufacturer, or vessel owner may also ask to apply the provisions of this paragraph (g) to engines originally certified for public vessels.
+
+[75 FR 23013, Apr. 30, 2010, as amended at 80 FR 9112, Feb. 19, 2015]

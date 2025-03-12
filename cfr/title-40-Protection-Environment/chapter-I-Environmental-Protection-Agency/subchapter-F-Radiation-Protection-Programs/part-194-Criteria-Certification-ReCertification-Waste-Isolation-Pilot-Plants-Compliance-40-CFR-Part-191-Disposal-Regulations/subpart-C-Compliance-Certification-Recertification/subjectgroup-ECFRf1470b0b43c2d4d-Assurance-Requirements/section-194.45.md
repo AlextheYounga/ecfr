@@ -1,0 +1,3 @@
+##### § 194.45 Consideration of the presence of resources. #####
+
+Any compliance application shall include information that demonstrates that the favorable characteristics of the disposal system compensate for the presence of resources in the vicinity of the disposal system and the likelihood of the disposal system being disturbed as a result of the presence of those resources. If performance assessments predict that the disposal system meets the containment requirements of § 191.13 of this chapter, then the Agency will assume that the requirements of this section and § 191.14(e) of this chapter have been fulfilled.

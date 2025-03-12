@@ -1,0 +1,3 @@
+##### § 747.801 Applicability. #####
+
+The rules in this subpart are applicable to a witness who is sworn in a formal investigative proceeding. Formal investigative proceedings may be held before the NCUA Board, before one or more of its members, or before any officer designated by the NCUA Board or its General Counsel, as described in subpart H of this part, and with or without the assistance of such other counsel as the NCUA Board deems appropriate, for the purpose of taking testimony of witnesses, conducting an investigation and receiving other evidence. The term “officer conducting the investigation” shall mean any of the foregoing.

@@ -1,0 +1,3 @@
+##### § 313.122 Notification of debt to FMS. #####
+
+The FDIC shall notify FMS of the amount of any past due, legally enforceable non-tax debt owed to it by a person, for the purpose of collecting such debt by tax refund offset. Notification and referral to FMS of such debts does not preclude FDIC's use of any other debt collection procedures, such as wage garnishment, either separately or in conjunction with tax refund offset.

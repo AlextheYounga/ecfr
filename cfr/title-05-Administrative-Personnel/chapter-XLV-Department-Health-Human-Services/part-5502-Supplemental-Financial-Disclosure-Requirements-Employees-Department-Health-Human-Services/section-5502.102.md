@@ -1,0 +1,5 @@
+##### § 5502.102 Annual supplemental report of outside employment or activities. #####
+
+Any employee, other than a special Government employee, for whom an outside employment or activity has been approved, or who has participated in any outside employment or activity for which prior approval is required, under part 5501 of this chapter shall file on or before February 28 of each year a report concerning all such activities that were approved or undertaken in the previous calendar year. The annual report shall be filed with the employee's supervisor who shall review the form, in consultation with an agency ethics official, and determine whether the employee has complied with applicable laws and regulations and whether approval of any ongoing outside activity should be cancelled because the activity does not meet the standard in § 5501.106(d)(5) of this chapter.
+
+[70 FR 5564, Feb. 3, 2005, as amended at 70 FR 51573, Aug. 31, 2005]

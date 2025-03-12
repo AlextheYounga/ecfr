@@ -1,0 +1,5 @@
+##### § 230.53 Aesthetics. #####
+
+(a) Aesthetics associated with the aquatic ecosystem consist of the perception of beauty by one or a combination of the senses of sight, hearing, touch, and smell. Aesthetics of aquatic ecosystems apply to the quality of life enjoyed by the general public and property owners.
+
+(b) Possible loss of values: The discharge of dredged or fill material can mar the beauty of natural aquatic ecosystems by degrading water quality, creating distracting disposal sites, inducing inappropriate development, encouraging unplanned and incompatible human access, and by destroying vital elements that contribute to the compositional harmony or unity, visual distinctiveness, or diversity of an area. The discharge of dredged or fill material can adversely affect the particular features, traits, or characteristics of an aquatic area which make it valuable to property owners. Activities which degrade water quality, disrupt natural substrate and vegetational characteristics, deny access to or visibility of the resource, or result in changes in odor, air quality, or noise levels may reduce the value of an aquatic area to private property owners.

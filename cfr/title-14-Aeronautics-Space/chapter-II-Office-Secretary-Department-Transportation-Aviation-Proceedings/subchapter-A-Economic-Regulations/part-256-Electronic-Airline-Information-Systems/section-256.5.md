@@ -1,0 +1,3 @@
+##### § 256.5 Minimum disclosure requirements for biased displays. #####
+
+To the extent an EAIS engages in display bias based on carrier identity, it must clearly and conspicuously disclose that fact at the top of each search result display presented to the user in response to the user-selected search criteria. The notice must state that the flights are not displayed in neutral order and that certain airlines' fare, schedule or availability information is given preferential treatment in how it is displayed.

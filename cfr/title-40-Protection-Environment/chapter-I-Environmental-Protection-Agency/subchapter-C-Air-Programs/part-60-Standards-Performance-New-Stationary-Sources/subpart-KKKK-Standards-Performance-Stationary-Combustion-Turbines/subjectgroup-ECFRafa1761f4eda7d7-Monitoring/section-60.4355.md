@@ -1,0 +1,21 @@
+##### § 60.4355 How do I establish and document a proper parameter monitoring plan? #####
+
+(a) The steam or water to fuel ratio or other parameters that are continuously monitored as described in §§ 60.4335 and 60.4340 must be monitored during the performance test required under § 60.8, to establish acceptable values and ranges. You may supplement the performance test data with engineering analyses, design specifications, manufacturer's recommendations and other relevant information to define the acceptable parametric ranges more precisely. You must develop and keep on-site a parameter monitoring plan which explains the procedures used to document proper operation of the NOX emission controls. The plan must:
+
+(1) Include the indicators to be monitored and show there is a significant relationship to emissions and proper operation of the NOX emission controls,
+
+(2) Pick ranges (or designated conditions) of the indicators, or describe the process by which such range (or designated condition) will be established,
+
+(3) Explain the process you will use to make certain that you obtain data that are representative of the emissions or parameters being monitored (such as detector location, installation specification if applicable),
+
+(4) Describe quality assurance and control practices that are adequate to ensure the continuing validity of the data,
+
+(5) Describe the frequency of monitoring and the data collection procedures which you will use (e.g., you are using a computerized data acquisition over a number of discrete data points with the average (or maximum value) being used for purposes of determining whether an exceedance has occurred), and
+
+(6) Submit justification for the proposed elements of the monitoring. If a proposed performance specification differs from manufacturer recommendation, you must explain the reasons for the differences. You must submit the data supporting the justification, but you may refer to generally available sources of information used to support the justification. You may rely on engineering assessments and other data, provided you demonstrate factors which assure compliance or explain why performance testing is unnecessary to establish indicator ranges. When establishing indicator ranges, you may choose to simplify the process by treating the parameters as if they were correlated. Using this assumption, testing can be divided into two cases:
+
+(i) All indicators are significant only on one end of range (e.g., for a thermal incinerator controlling volatile organic compounds (VOC) it is only important to insure a minimum temperature, not a maximum). In this case, you may conduct your study so that each parameter is at the significant limit of its range while you conduct your emissions testing. If the emissions tests show that the source is in compliance at the significant limit of each parameter, then as long as each parameter is within its limit, you are presumed to be in compliance.
+
+(ii) Some or all indicators are significant on both ends of the range. In this case, you may conduct your study so that each parameter that is significant at both ends of its range assumes its extreme values in all possible combinations of the extreme values (either single or double) of all of the other parameters. For example, if there were only two parameters, A and B, and A had a range of values while B had only a minimum value, the combinations would be A high with B minimum and A low with B minimum. If both A and B had a range, the combinations would be A high and B high, A low and B low, A high and B low, A low and B high. For the case of four parameters all having a range, there are 16 possible combinations.
+
+(b) For affected units that are also subject to part 75 of this chapter and that have state approval to use the low mass emissions methodology in § 75.19 or the NOX emission measurement methodology in appendix E to part 75, you may meet the requirements of this paragraph by developing and keeping on-site (or at a central location for unmanned facilities) a QA plan, as described in § 75.19(e)(5) or in section 2.3 of appendix E to part 75 of this chapter and section 1.3.6 of appendix B to part 75 of this chapter.

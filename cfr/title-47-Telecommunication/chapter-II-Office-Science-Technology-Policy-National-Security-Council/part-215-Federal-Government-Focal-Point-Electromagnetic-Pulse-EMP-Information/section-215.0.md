@@ -1,0 +1,3 @@
+##### § 215.0 Purpose and authority. #####
+
+The purpose of this part is to designate a focal point within the Federal Government for electromagnetic pulse (EMP) information concerning telecommunications. It is issued pursuant to the authority of Reorganization Plan No. 1 of 1977, 42 FR 56101, 91 Stat. 1633, as amended (5 U.S.C. appendix), Executive Order 12472, (49 FR 13471; 3 CFR, 1984 Comp., p. 193), “Assignment of National Security and Emergency Preparedness Telecommunications, April 3, 1984 and Executive Order 12046, 43 FR 13349, “Relating to the Transfer of Telecommunications Functions,” May 27, 1978, as amended by Executive Order 12472.

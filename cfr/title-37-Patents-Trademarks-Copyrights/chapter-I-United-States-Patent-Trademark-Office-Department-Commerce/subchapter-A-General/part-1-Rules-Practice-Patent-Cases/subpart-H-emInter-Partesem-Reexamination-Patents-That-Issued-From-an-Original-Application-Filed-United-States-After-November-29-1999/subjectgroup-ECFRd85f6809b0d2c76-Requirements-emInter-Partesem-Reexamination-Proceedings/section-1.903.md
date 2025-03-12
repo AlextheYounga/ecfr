@@ -1,0 +1,3 @@
+##### § 1.903 Service of papers on parties in inter partes reexamination. #####
+
+The patent owner and the third party requester will be sent copies of Office actions issued during the *inter partes* reexamination proceeding. After filing of a request for *inter partes* reexamination by a third party requester, any document filed by either the patent owner or the third party requester must be served on every other party in the reexamination proceeding in the manner provided in § 1.248. Any document must reflect service or the document may be refused consideration by the Office. The failure of the patent owner or the third party requester to serve documents may result in their being refused consideration.

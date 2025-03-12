@@ -1,0 +1,3 @@
+##### 304.7202 Contract clause. #####
+
+Insert the clause at 352.204-70, Prevention and Public Health Fund—Reporting Requirements, in all solicitations and contract actions funded in whole or in part with PPHF funds, except classified solicitations and contracts. This includes, but is not limited to, awarding or modifying orders against existing or new contracts issued under FAR subparts 8.4 and 16.5 that will be funded with PPHF funds. Contracting officers shall include this clause in any existing contract or order that will be funded with PPHF funds. This clause is not required for any contract or order which contains a prior version of the clause at 352.204-70.

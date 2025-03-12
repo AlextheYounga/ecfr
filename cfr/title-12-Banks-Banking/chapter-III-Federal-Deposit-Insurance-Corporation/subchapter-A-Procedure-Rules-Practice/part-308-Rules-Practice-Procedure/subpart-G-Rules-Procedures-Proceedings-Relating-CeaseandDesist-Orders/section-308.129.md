@@ -1,0 +1,3 @@
+##### § 308.129 Notice to state supervisory authority. #####
+
+The Board of Directors or its designee shall give the appropriate state supervisory authority notification of its intent to institute a proceeding pursuant to subpart G of this part, and the grounds thereof. Any proceedings shall be conducted according to subpart G of this part, unless, within the time period specified in such notification, the state supervisory authority has effected satisfactory corrective action. No insured institution or other party who is the subject of any notice or order issued by the FDIC under this section shall have standing to raise the requirements of this subpart as grounds for attacking the validity of any such notice or order.

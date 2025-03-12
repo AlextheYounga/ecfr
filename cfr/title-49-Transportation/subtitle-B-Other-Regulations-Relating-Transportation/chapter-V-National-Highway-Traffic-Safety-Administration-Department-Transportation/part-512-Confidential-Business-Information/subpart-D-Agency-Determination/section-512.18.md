@@ -1,0 +1,5 @@
+##### § 512.18 How will I be notified of the confidentiality determination? #####
+
+(a) If a request for confidential treatment is granted, the submitter of the information will be notified in writing of the determination and of any appropriate limitations.
+
+(b) If a request for confidential treatment is denied in whole or in part, the submitter of the information will be notified in writing of the determination, and the reasons for the denial, by certified mail, return receipt requested. The information may be made available to the public twenty (20) working days after the submitter of the information has received notice of the denial, unless a request for reconsideration is filed. The information may be released publicly on an earlier date, if the Chief Counsel determines in writing that the public interest requires that the information be made available to the public on such date.

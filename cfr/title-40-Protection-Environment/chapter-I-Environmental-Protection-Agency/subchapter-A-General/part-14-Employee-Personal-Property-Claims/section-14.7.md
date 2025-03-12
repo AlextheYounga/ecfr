@@ -1,0 +1,3 @@
+##### § 14.7 Where to file a claim. #####
+
+An employee or his/her representative may file a claim with his/her Administrative Office or the Safety Office for the facility. The employee should complete and submit to the Administrative Office or the Safety Office a completed EPA Form 3370-1, “Employee Claim for Loss of or Damage to Personal Property.” That Office then forwards the form and any other relevant information to the EPA Claims Officer, Office of General Counsel (2311), 1200 Pennsylvania Ave., NW., Washington, DC 20460.

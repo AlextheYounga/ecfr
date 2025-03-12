@@ -1,0 +1,3 @@
+##### § 179.89 Motions. #####
+
+A motion, unless made in the course of a preliminary conference or a transcribed oral hearing before the presiding officer, must be filed in the manner prescribed by § 179.80 and include a draft order. A response may be filed within 10 days of service of a motion. The moving party has no right to reply, except as permitted by the presiding officer. The presiding officer shall rule upon the motion.

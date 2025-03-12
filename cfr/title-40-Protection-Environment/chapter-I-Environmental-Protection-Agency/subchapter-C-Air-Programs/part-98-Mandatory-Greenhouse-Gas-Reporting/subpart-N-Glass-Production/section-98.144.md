@@ -1,0 +1,11 @@
+##### § 98.144 Monitoring and QA/QC requirements. #####
+
+(a) You must measure annual amounts of carbonate-based raw materials charged to each continuous glass melting furnace from monthly measurements using plant instruments used for accounting purposes, such as calibrated scales or weigh hoppers. Total annual mass charged to glass melting furnaces at the facility shall be compared to records of raw material purchases for the year.
+
+(b) Unless you use the default value of 1.0, you must measure carbonate-based mineral mass fractions at least annually to verify the mass fraction data provided by the supplier of the raw material; such measurements shall be based on sampling and chemical analysis using consensus standards that specify X-ray fluorescence. For measurements made in years prior to the emissions reporting year 2014, you may also use ASTM D3682-01 (Reapproved 2006) Standard Test Method for Major and Minor Elements in Combustion Residues from Coal Utilization Processes or ASTM D6349-09 Standard Test Method for Determination of Major and Minor Elements in Coal, Coke, and Solid Residues from Combustion of Coal and Coke by Inductively Coupled Plasma—Atomic Emission Spectrometry (both incorporated by reference, see § 98.7).
+
+(c) Unless you use the default value of 1.0, you must determine the annual average mass fraction for the carbonate-based mineral in each carbonate-based raw material by calculating an arithmetic average of the monthly data obtained from raw material suppliers or sampling and chemical analysis.
+
+(d) Unless you use the default value of 1.0, you must determine on an annual basis the calcination fraction for each carbonate consumed based on sampling and chemical analysis using an industry consensus standard. If performed, this chemical analysis must be conducted using an x-ray fluorescence test or other enhanced testing method published by an industry consensus standards organization (*e.g.,* ASTM, ASME, API, etc.).
+
+[74 FR 56374, Oct. 30, 2009, as amended at 75 FR 66462, Oct. 28, 2010; 78 FR 71954, Nov. 29, 2013; 81 FR 89257, Dec. 9, 2016]

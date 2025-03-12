@@ -1,0 +1,65 @@
+##### § 2641.104 Definitions. #####
+
+For purposes of this part:
+
+*Agency* means any department, independent establishment, commission, administration, authority, board or bureau of the United States or Government corporation. The term includes any independent agency not in the legislative or judicial branches.
+
+*Agency ethics official* means the designated agency ethics official (DAEO) or the alternate DAEO, appointed in accordance with 5 CFR 2638.202(b), and any deputy ethics official described in 5 CFR 2638.204.
+
+*Department* means one of the executive departments listed in 5 U.S.C. 101.
+
+*Designated agency ethics official* (DAEO) means the official designated under 5 CFR 2638.201 to coordinate and manage an agency's ethics program.
+
+*Employee* means, for purposes of determining the individuals subject to 18 U.S.C. 207, any officer or employee of the executive branch or any independent agency that is not a part of the legislative or judicial branches. The term does not include the President or the Vice President, an enlisted member of the Armed Forces, or an officer or employee of the District of Columbia. The term includes an individual appointed as an employee or detailed to the Federal Government under the Intergovernmental Personnel Act (5 U.S.C. 3371-3376) or specifically subject to section 207 under the terms of another statute. It encompasses senior employees, very senior employees, special Government employees, and employees serving without compensation. (This term is redefined elsewhere in this part, as necessary, when the term is used for other purposes.)
+
+*Executive branch* includes an executive department as defined in 5 U.S.C. 101, a Government corporation, an independent establishment (other than the Government Accountability Office), the Postal Service, the Postal Regulatory Commission, and also includes any other entity or administrative unit in the executive branch.
+
+*Former employee* means an individual who has completed a period of service as an employee. Unless otherwise indicated, the term encompasses a former senior employee and a former very senior employee. An individual becomes a former employee at the termination of Government service, whereas an individual becomes a former senior employee or a former very senior employee at the termination of service in a senior or very senior employee position.
+
+Example 1 to the definition of former employee:An individual served as an employee of the Agency for International Development, an agency within the executive branch. Since he was, therefore, an “employee” as that term is defined in this section by virtue of having served in the executive branch, he became a “former employee” when he terminated Government service to pursue his hobbies.Example 2 to the definition of former employee:An individual served as an employee of the Tennessee Valley Authority (TVA). Since the TVA is a corporation owned or controlled by the Government of the United States, she served as an employee in the “executive branch” as that term is defined in this section. She became a “former employee,” therefore, when she terminated Government service to do some traveling.Example 3 to the definition of former employee:An individual terminated a GS-14 position in the executive branch to accept a position in the legislative branch. He did not become a “former employee” when he terminated service in the executive branch since he did not terminate “Government service” as that term is defined in this section.Example 4 to the definition of former employee:An individual is appointed by the President to serve as a special Government employee on the Oncological Drug Advisory Committee at the Department of Health and Human Services. The special Government employee meets with the committee five days per year. She does not terminate Government service at the end of each meeting of the committee and therefore does not at that time become a “former employee.” She becomes a “former employee” when her appointment terminates, provided that she is not reappointed without break in service to the same or another Federal Government position.Example 5 to the definition of former employee:An individual is a Major in the U.S. Army Reserve. The Major earns points toward retirement by participating in weekend drills and performing active duty for training for two weeks each year. The Major is not a special Government employee when he performs weekend drills, but is considered to be one while on active duty for training. The Major is considered to be a “former employee” when he terminates each period of active duty for training.Example 6 to the definition of former employee:A foreign service officer served as a “senior employee” of the Department of State. After retiring, and with no break in service, he accepted a civil service appointment on a temporary basis, at the GS-15 level. Since he did not terminate Government service, he did not become a “former employee” when he retired from the foreign service. He did, however, become a “former senior employee.”
+
+*Former senior employee* is an individual who terminates service in a senior employee position (without successive Government service in another senior position).
+
+*Former very senior employee* is an individual who terminates service in a very senior employee position (without successive Government service in another very senior employee position).
+
+*Government corporation* means, for purposes of determining the individuals subject to 18 U.S.C. 207, a corporation that is owned or controlled by the Government of the United States. For purposes of identifying or determining individuals with whom post-employment contact is restricted, matters to which the United States is a party or has a direct and substantial interest, decisions which a former senior or very senior employee cannot seek to influence on behalf of a foreign entity, and whether a former employee is acting on behalf of the United States, it means a corporation in which the United States has a proprietary interest as distinguished from a custodial or incidental interest as shown by the functions, financing, control, and management of the corporation.
+
+*Government service* means a period of time during which an individual is employed by the Federal Government without a break in service. As applied to a special Government employee (SGE), Government service refers to the period of time covered by the individual's appointment or appointments (or other act evidencing employment with the Government), regardless of any interval or intervals between days actually served. *See* example 4 to the definition of former employee in this section. In the case of Reserve officers of the Armed Forces or officers of the National Guard of the United States who are not otherwise employees of the United States, Government service shall be considered to end upon the termination of a period of active duty or active duty for training during which they served as SGEs. *See* example 5 to the definition of former employee in this section.
+
+*He*, *his*, and *him* include she, hers, and her, and vice versa.
+
+*Judicial branch* means the Supreme Court of the United States; the United States courts of appeals; the United States district courts; the Court of International Trade; the United States bankruptcy courts; any court created pursuant to Article I of the United States Constitution, including the United States Court of Appeals for the Armed Forces, the United States Claims Court, and the United States Tax Court, but not including a court of a territory or possession of the United States; the Federal Judicial Center; and any other agency, office, or entity in the judicial branch.
+
+*Legislative branch* means the Congress; it also means the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
+
+*Person* includes an individual, corporation, company, association, firm, partnership, society, joint stock company, or any other organization, institution, or entity, including any officer, employee, or agent of such person or entity. Unless otherwise indicated, the term is all-inclusive and applies to commercial ventures and nonprofit organizations as well as to foreign, State and local governments. The term includes the “United States” as that term is defined in § 2641.301(a)(1).
+
+*Senior employee* means an employee, other than a very senior employee, who is:
+
+(1) Employed in a position for which the rate of pay is specified in or fixed according to 5 U.S.C. 5311-5318 (the Executive Schedule);
+
+(2) Employed in a position for which the employee is paid at a rate of basic pay which is equal to or greater than 86.5 percent of the rate of basic pay for level II of the Executive Schedule; or, for a period of two years following November 24, 2003, was employed on November 23, 2003 in a position for which the rate of basic pay was equal to or greater than the rate of basic pay payable for level 5 of the Senior Executive Service; for purposes of this paragraph, “rate of basic pay” does not include locality-based adjustments or additional pay such as bonuses, awards and various allowances;
+
+(3) Appointed by the President to a position under 3 U.S.C. 105(a)(2)(B);
+
+(4) Appointed by the Vice President to a position under 3 U.S.C. 106(a)(1)(B);
+
+(5) An active duty commissioned officer of the uniformed services serving in a position for which the pay grade (as specified in 37 U.S.C. 201) is pay grade O-7 or above; or
+
+(6) Assigned from a private sector organization under chapter 37 of 5 U.S.C. (Information Technology Exchange Program).
+
+Example 1 to the definition of senior employee:A former administrative law judge serves on a commission created within the executive branch to adjudicate certain claims arising from a recent military operation. The position is uncompensated but the judge receives travel expenses. The judge is not employed in a position for which the rate of pay is specified in or fixed according to the Executive Schedule, is not serving in a position to which he was appointed by the President or Vice President under 3 U.S.C. 105(a)(2)(B) or 106(a)(1)(B), and is not employed in a position for which his rate of basic pay is equal to or greater than 86.5 percent of the rate of basic pay for level II of the Executive Schedule. He is not a senior employee.Example 2 to the definition of senior employee:A doctor is hired to fill a “senior-level” position and is initially compensated pursuant to 5 U.S.C. 5376 at a rate of basic pay slightly less than 86.5 percent of the rate of basic pay payable for level II of the Executive Schedule. If both the annual pay adjustment provided for in 5 CFR 534.504 and the periodic pay adjustment authorized in 5 CFR 534.503 result in a rate of basic pay equal to or above 86.5 percent of the rate of basic pay payable for level II of the Executive Schedule, the doctor will become a senior employee.Example 3 to the definition of senior employee:A criminal investigator in the Office of the Inspector General at the Department of Housing and Urban Development is a GS-15 employee but also receives Law Enforcement Availability Pay (LEAP), pursuant to 5 U.S.C. 5545a. Even if the sum of the employee's LEAP payment plus the employee's basic pay for GS-15 equaled 86.5 percent of the rate of basic pay for level II of the Executive Schedule, LEAP is not considered part of an employee's “rate of basic pay” for purposes of section 207(c), and therefore the employee would not be a “senior employee.”
+
+*Special Government employee* means an officer or employee of the executive branch or an independent agency, as specified in 18 U.S.C. 202(a). A special Government employee is retained, designated, appointed, or employed to perform temporary duties either on a full-time or intermittent basis, with or without compensation, for a period not to exceed 130 days during any period of 365 consecutive days.
+
+*State* means one of the fifty States of the United States and the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+*Very senior employee* means an employee who is:
+
+(1) Employed in a position which is either listed in 5 U.S.C. 5312 or for which the rate of pay is equal to the rate of pay payable for level I of the Executive Schedule;
+
+(2) Employed in a position in the Executive Office of the President which is either listed in 5 U.S.C. 5313 or for which the rate of pay is equal to the rate of pay payable for level II of the Executive Schedule;
+
+(3) Appointed by the President to a position under 3 U.S.C. 105(a)(2)(A); or
+
+(4) Appointed by the Vice President to a position under 3 U.S.C. 106(a)(1)(A).

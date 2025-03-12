@@ -1,0 +1,7 @@
+##### § 1201.126 Final decisions. #####
+
+(a) In any action to discipline an employee, except as provided in paragraph (b) of this section, the administrative law judge, or the Board on petition for review, may order a removal, a reduction in grade, a debarment (not to exceed five years), a suspension, a reprimand, or an assessment of a civil penalty not to exceed $1,000. 5 U.S.C. 1215(a)(3).
+
+(b) In any action in which the administrative law judge, or the Board on petition for review, finds under 5 U.S.C. 1505 that a State or local government employee has violated the Hatch Political Activities Act and that the employee's removal is warranted, the administrative law judge, or the Board on petition for review, will issue a written decision notifying the employing agency and the employee that the employee must be removed and not reappointed within 18 months of the date of the decision. If the agency fails to remove the employee, or if it reappoints the employee within 18 months, the administrative law judge, or the Board on petition for review, may order the Federal entity administering loans or grants to the agency to withhold funds from the agency as provided under 5 U.S.C. 1506.
+
+[62 FR 48451, Sept. 16, 1997, as amended at 70 FR 30609, May 27, 2005; 78 FR 39545, July 2, 2013]

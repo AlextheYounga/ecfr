@@ -1,0 +1,3 @@
+##### § 152.108 Review of labeling. #####
+
+The Agency will review all draft labeling submitted with the application. If an applicant for amended registration submits only that portion of the labeling proposed for amendment, the Agency may review the entire label, as revised by the proposed changes, in deciding whether to approve the amendment. The Agency will not approve final printed labeling, but will selectively review it for compliance.

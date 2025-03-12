@@ -1,0 +1,5 @@
+##### § 840.6 Priority of Board investigations. #####
+
+Any investigation of an accident conducted by the Safety Board shall have priority over all other investigations of such accident conducted by other Federal agencies. The Safety Board shall provide for the appropriate participation by other Federal agencies in any such investigation, except that such agencies may not participate in the Safety Board's determination of the probable cause of the accident. Nothing in this section impairs the authority of other Federal agencies to conduct investigations of an accident under applicable provisions of law or to obtain information directly from parties involved in, and witnesses to, the transportation accident. The Safety Board and other Federal agencies shall assure that appropriate information obtained or developed in the course of their investigations is exchanged in a timely manner.
+
+[47 FR 49408, Nov. 1, 1982]

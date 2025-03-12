@@ -1,0 +1,11 @@
+##### § 821.55 Complaint, answer to complaint, motions and discovery. #####
+
+(a) *Complaint.* In proceedings governed by this subpart, the Administrator's complaint shall be filed and simultaneously served on the respondent within 3 days after the date on which the Administrator received the respondent's appeal, or within 3 days after the date of service of an order disposing of a petition for review of an emergency determination, whichever is later.
+
+(b) *Answer to complaint.* The respondent shall file with the Board an answer to the complaint within 5 days after the date on which the complaint was served by the Administrator, and shall simultaneously serve a copy of the answer on the Administrator. Failure by the respondent to deny the truth of any allegation or allegations in the complaint may be deemed an admission of the truth of the allegation or allegations not answered. The answer shall also identify any affirmative defenses that the respondent intends to raise at the hearing.
+
+(c) *Motion to dismiss and motion for more definite statement.* In proceedings governed by this subpart, no motion to dismiss the complaint or for a more definite statement of the complaint's allegations shall be made, but the substance thereof may be stated in the respondent's answer. The law judge may permit or require a more definite statement or other amendment to any pleading at the hearing, upon good cause shown and upon just and reasonable terms.
+
+(d) *Discovery.* Discovery is authorized in proceedings governed by this subpart. Given the short time available for discovery, the parties shall cooperate to ensure timely completion of the discovery process prior to the hearing. Discovery requests shall be served by the parties as soon as possible. A motion to compel discovery should be expeditiously filed where any dispute arises, and the law judge shall promptly rule on such a motion. Time limits for compliance with discovery requests shall be set by the parties so as to accommodate, and not conflict with, the accelerated adjudication schedule set forth in this subpart. The provisions of § 821.19 shall apply, modified as necessary to meet the exigencies of this subpart's accelerated timeframes.
+
+[68 FR 22625, Apr. 29, 2003, as amended at 77 FR 63253, Oct. 16, 2012]

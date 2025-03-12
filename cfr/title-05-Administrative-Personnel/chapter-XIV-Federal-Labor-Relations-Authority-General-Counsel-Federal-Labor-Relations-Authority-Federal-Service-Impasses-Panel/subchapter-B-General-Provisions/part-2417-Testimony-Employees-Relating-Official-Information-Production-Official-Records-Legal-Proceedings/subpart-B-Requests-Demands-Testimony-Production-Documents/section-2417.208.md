@@ -1,0 +1,7 @@
+##### § 2417.208 Restrictions that apply to released records. #####
+
+(a) The Chairman of the FLRA, the General Counsel, or the Chairman of the Panel, as appropriate may impose conditions or restrictions on the release of official records and information, including the requirement that parties to the proceeding obtain a protective order or execute a confidentiality agreement to limit access and any further disclosure. The terms of the protective order or of a confidentiality agreement must be acceptable to the Chairman of the FLRA, the General Counsel, or the Chairman of the Panel, as appropriate. In cases where protective orders or confidentiality agreements have already been executed, the Chairman of the FLRA, the General Counsel, or the Chairman of the Panel, as appropriate may condition the release of official records and information on an amendment to the existing protective order or confidentiality agreement.
+
+(b) If the Chairman of the FLRA, the General Counsel, or the Chairman of the Panel, as appropriate so determines, original records may be presented for examination in response to a request, but they may not be presented as evidence or otherwise used in a manner by which they could lose their identity as official records, nor may they be marked or altered. In lieu of the original records, certified copies may be presented for evidentiary purposes.
+
+[81 FR 63364, Sept. 15, 2016]

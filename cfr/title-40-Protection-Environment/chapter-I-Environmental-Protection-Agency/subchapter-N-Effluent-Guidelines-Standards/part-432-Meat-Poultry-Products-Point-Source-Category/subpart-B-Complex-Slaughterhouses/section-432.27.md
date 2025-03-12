@@ -1,0 +1,3 @@
+##### § 432.27 Effluent limitations attainable by the application of the best control technology for conventional pollutants (BCT). #####
+
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BCT: Limitations for BOD5, fecal coliform, TSS, and O&G are the same as the corresponding limitation specified in § 432.22.

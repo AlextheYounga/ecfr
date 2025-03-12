@@ -1,0 +1,3 @@
+##### § 297.30 Public disclosure of cargo liability insurance. #####
+
+Every foreign air freight forwarder shall give notice in writing to the shipper, when any shipment is accepted, of the limits of its cargo liability insurance, or of the absence of such insurance, and the limits of its liability, if any. The notice shall be included clearly and conspicuously on all of its rate sheets and airwaybills, and on any other documentation that is given to a shipper at the time of acceptance of the shipment.

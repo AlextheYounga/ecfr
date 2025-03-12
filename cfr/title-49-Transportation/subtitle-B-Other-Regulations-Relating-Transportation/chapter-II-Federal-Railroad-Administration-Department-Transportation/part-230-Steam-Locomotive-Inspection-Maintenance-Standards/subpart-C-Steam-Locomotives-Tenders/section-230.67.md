@@ -1,0 +1,3 @@
+##### § 230.67 Responsibility for inspection and repairs. #####
+
+The steam locomotive owner and/or operator shall inspect and repair all steam locomotives and tenders under their control. All defects disclosed by any inspection shall be repaired in accordance with accepted industry standards, which may include established railroad practices, before the steam locomotive or tender is returned to service. The steam locomotive owner and/or operator shall not return the steam locomotive or tender to service unless they are in good condition and safe and suitable for service.

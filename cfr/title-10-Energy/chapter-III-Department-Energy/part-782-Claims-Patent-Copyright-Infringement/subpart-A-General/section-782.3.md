@@ -1,0 +1,3 @@
+##### § 782.3 Authority. #####
+
+The General Counsel or the General Counsel's delegate is authorized to investigate, settle, deny, or otherwise dispose of all claims of patent and copyright infringement pursuant to 42 U.S.C. 2201(g), 2223, 5817(d) and 7261; the Foreign Assistance Act of 1961, 22 U.S.C. 2356 (formerly the Mutual Security Acts of 1951 and 1954); the Invention Secrecy Act, 35 U.S.C. 183; and 28 U.S.C. 1498.

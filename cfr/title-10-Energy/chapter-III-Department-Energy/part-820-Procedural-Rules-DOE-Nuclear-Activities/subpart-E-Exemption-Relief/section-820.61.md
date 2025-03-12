@@ -1,0 +1,3 @@
+##### § 820.61 Secretarial officer. #####
+
+The Secretarial Officer who is primarily responsible for the activity to which a DOE Nuclear Safety Requirement relates may grant a temporary or permanent exemption from that requirement as requested by any person subject to its provisions; provided that, the Secretarial Officer responsible for environment, safety and health matters shall exercise this authority with respect to provisions relating to radiological protection of workers, the public and the environment. This authority may not be further delegated.

@@ -1,0 +1,3 @@
+##### 53.108 Recommendations concerning forms. #####
+
+Users of this regulation may recommend new forms or the revision, elimination, or consolidation of the forms prescribed or referenced in this regulation. Recommendations from within an executive agency shall be submitted to the cognizant council in accordance with agency procedures. Recommendations from other than executive agencies should be submitted directly to the FAR Secretariat.

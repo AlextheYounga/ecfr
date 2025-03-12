@@ -1,0 +1,3 @@
+##### § 1263.107 Procedure to be followed when response to a demand is required before the General Counsel or designate has reached a final decision. #####
+
+If a response to a demand is required before the General Counsel or designate can render a decision, the employee subpoenaed, or an agency attorney or other government attorney designated for that purpose, shall appear on behalf of the employee and shall furnish the authority which issued the demand a copy of these regulations, and inform the authority that the demand has been referred for the prompt consideration of the General Counsel, and shall respectfully request the authority to stay the demand until the General Counsel or designate has rendered a final decision.

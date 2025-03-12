@@ -1,0 +1,17 @@
+##### § 1054.601 What compliance provisions apply? #####
+
+(a) Engine and equipment manufacturers, as well as owners, operators, and rebuilders of engines subject to the requirements of this part, and all other persons, must observe the provisions of this part, the requirements and prohibitions in 40 CFR part 1068, and the provisions of the Clean Air Act.
+
+(b) Note that the provisions of 40 CFR 1068.103(f) prohibit engine manufacturers from deviating from normal production and inventory practices to stockpile engines with a date of manufacture before new or changed emission standards take effect. If your normal practice for producing engines subject to this part 1054 includes maintaining engines in inventory for some engine families for more than 12 months, you must get our prior approval to continue this practice for model years in which emission standards change. Include in your request information showing that this is necessary and it is consistent with your normal business practice. Unless we specify otherwise, include relevant inventory and production records from the preceding eight years. Note that 40 CFR 1068.103(f) applies to any engines inventoried beyond your normal practice and authorizes us to review your records to verify your normal practices, whether or not you maintain the engines in inventory for more than 12 months.
+
+(c) The provisions of 40 CFR 1068.215 apply for cases in which the manufacturer takes possession of engines for purposes of recovering components as described in this paragraph (c). Note that this paragraph (c) does not apply for certified engines that still have the emission control information label since such engines do not need an exemption.
+
+(1) You must label the engine as specified in 40 CFR 1068.215(c)(3), except that the label may be removable as specified in 40 CFR 1068.45(b).
+
+(2) You may not resell the engine. For components other than the engine block, you may generate revenue from the sale of the components that you recover, or from the sale of new engines containing these components. You may also use components other than the engine block for engine rebuilds as otherwise allowed under the regulations. You may use the engine block from an engine that is exempted under this paragraph (c) only to make a new engine, and then only where such an engine has a separate identity from the original engine.
+
+(3) Once the engine has reached its final destination, you may stop collecting records describing the engine's final disposition and how you use the engine. This does not affect the requirement to maintain the records you have already collected under 40 CFR 1068.215. This also does not affect the requirement to maintain records for new engines.
+
+(d) Subpart C of this part describes how to test and certify dual-fuel and flexible-fuel engines. Some multi-fuel engines may not fit the definitions in this part of either dual-fuel or flexible-fuel. For such engines, we will determine whether it is most appropriate to treat them as single-fuel engines, dual-fuel engines, or flexible-fuel engines based on the range of possible and expected fuel mixtures.
+
+[73 FR 59259, Oct. 8, 2008, as amended at 75 FR 23025, Apr. 30, 2010; 86 FR 34522, June 29, 2021]

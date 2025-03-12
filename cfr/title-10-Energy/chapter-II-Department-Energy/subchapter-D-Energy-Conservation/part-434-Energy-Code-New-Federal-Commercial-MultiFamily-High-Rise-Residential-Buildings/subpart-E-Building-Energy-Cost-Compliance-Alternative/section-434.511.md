@@ -1,0 +1,5 @@
+##### § 434.511 Orientation and shape. #####
+
+511.1 The Prototype Building shall consist of the same number of stories, and gross and conditioned floor area as the Proposed Design, with equal area per story. The building shape shall be rectangular, with a 2.5:1 aspect ratio. The long dimensions of the building shall face East and West. The fenestration shall be uniformly distributed in proportion to exterior wall area. Floor-to-floor height for the Prototype Building shall be 13 ft. except for dwelling units in hotels/motels and multi-family high-rise residential buildings where floor-to-floor height shall be 9.5 ft.
+
+511.2 The Reference Building shall consist of the same number of stories, and gross floor area for each story as the Proposed Design. Each floor shall be oriented in the same manner as the Proposed Design. The geometric form shall be the same as the Proposed Design.

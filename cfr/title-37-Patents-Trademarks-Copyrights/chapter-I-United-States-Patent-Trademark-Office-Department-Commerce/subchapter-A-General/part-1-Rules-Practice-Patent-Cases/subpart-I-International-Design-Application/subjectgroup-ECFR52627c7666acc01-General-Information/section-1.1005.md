@@ -1,0 +1,5 @@
+##### § 1.1005 Display of currently valid control number under the Paperwork Reduction Act. #####
+
+(a) Pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 *et seq.*), the collection of information in this subpart has been reviewed and approved by the Office of Management and Budget under control number 0651-0075.
+
+(b) Notwithstanding any other provision of law, no person is required to respond to nor shall a person be subject to a penalty for failure to comply with a collection of information subject to the requirements of the Paperwork Reduction Act unless that collection of information displays a currently valid Office of Management and Budget control number. This section constitutes the display required by 44 U.S.C. 3512(a) and 5 CFR 1320.5(b)(2)(i) for the collection of information under Office of Management and Budget control number 0651-0075 (*see* 5 CFR 1320.5(b)(2)(ii)(D)).

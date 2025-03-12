@@ -1,0 +1,3 @@
+##### § 810.7 Federal Reserve Banks as fiscal agents. #####
+
+The Federal Reserve Banks, as fiscal agents of the United States, have been authorized by the Department of the Treasury to perform all such acts as may be necessary to carry out the provisions of this and other circulars of the Department of the Treasury as may be applicable to FFB bills, and of any public notice or notices issued in connection with any offering of these securities.

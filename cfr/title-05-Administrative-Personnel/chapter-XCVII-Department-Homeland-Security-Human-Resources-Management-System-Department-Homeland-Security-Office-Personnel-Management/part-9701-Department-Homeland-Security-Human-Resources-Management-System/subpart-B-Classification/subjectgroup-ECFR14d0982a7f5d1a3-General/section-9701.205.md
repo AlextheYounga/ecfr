@@ -1,0 +1,3 @@
+##### § 9701.205 Bar on collective bargaining. #####
+
+As provided in the definition of *conditions of employment* in § 9701.504, any classification system established under this subpart is not subject to collective bargaining. This bar on collective bargaining applies to all aspects of the classification system, including but not limited to coverage determinations, the design of the classification structure, and classification methods, criteria, and administrative procedures and arrangements.

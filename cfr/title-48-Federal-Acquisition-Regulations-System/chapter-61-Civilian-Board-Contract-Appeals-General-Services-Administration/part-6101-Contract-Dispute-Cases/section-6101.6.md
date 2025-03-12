@@ -1,0 +1,15 @@
+##### 6101.6 Pleadings and amendment of pleadings [Rule 6]. #####
+
+(a) *Pleadings required and permitted.* Except as the Board may otherwise order, the Board requires the submission of a complaint and an answer. In appropriate circumstances, the Board may order or permit a reply to an answer.
+
+(b) *Complaint.* No later than 30 calendar days after the docketing of the appeal, the appellant shall file with the Board a complaint setting forth its claim or claims in simple, concise, and direct terms. The complaint should set forth the factual basis of the claim or claims, with appropriate reference to the contract provisions, and should state the amount in controversy, or an estimate thereof, if any and if known. No particular form is prescribed for a complaint, and the Board may designate the notice of appeal, a claim submission, or any other document as the complaint, either on its own initiative or on request of the appellant, if such document sufficiently states the factual basis and amount of the claim.
+
+(c) *Answer.* No later than 30 calendar days after the filing of the complaint or of the Board's designation of a complaint, the respondent shall file with the Board an answer setting forth simple, concise, and direct statements of its defenses to the claim or claims asserted in the complaint, as well as any affirmative defenses it chooses to assert. A dispositive motion or a motion for a more definite statement may be filed in lieu of the answer only with the permission of the Board. If no answer is timely filed, the Board may enter a general denial, in which case the respondent may thereafter amend the answer to assert affirmative defenses only by leave of the Board and as otherwise prescribed by paragraph (e) of this section. The Board will inform the parties when it enters a general denial on behalf of the respondent.
+
+(d) *Small claims and accelerated procedures.* When an appellant elects to use the small claims or accelerated procedures described in 6101.52 and 6101.53 (Rules 52 and 53), the Board may shorten the time for filing the complaint and the answer.
+
+(e) *Amendment of pleadings.* Each party to an appeal may amend its pleadings once without leave of the Board at any time before a responsive pleading is filed. The Board may permit other amendments on conditions fair to both parties. A response to an amended pleading will be filed within the time set by the Board.
+
+(f) *Amendments to conform to the evidence.* When issues within the proper scope of a case, but not raised in the pleadings, have been raised without objection or with permission of the Board at a hearing or in record submissions, they shall be treated in all respects as if they had been raised in the pleadings. The Board may order the parties to amend the pleadings to conform to the proof or may order that the record be deemed to contain amended pleadings.
+
+[72 FR 36795, July 5, 2007, as amended at 73 FR 26950, May 12, 2008]

@@ -1,0 +1,3 @@
+##### § 455.72 Scope of the grant. #####
+
+Financial assistance awarded under this subpart may be expended for the design (excluding design costs funded under the technical assistance program), acquisition, and installation of energy conservation measures to reduce energy consumption or measures to allow the use of renewable resources in schools and hospitals or to shift energy usage to periods of low demand and cost. Such measures include, but are not necessarily limited to, those included in the definition of “energy conservation measure” in § 455.2.

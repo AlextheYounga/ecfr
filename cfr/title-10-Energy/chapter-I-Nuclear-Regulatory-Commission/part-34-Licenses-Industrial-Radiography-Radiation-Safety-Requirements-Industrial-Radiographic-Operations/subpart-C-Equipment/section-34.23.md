@@ -1,0 +1,5 @@
+##### § 34.23 Locking of radiographic exposure devices, storage containers and source changers. #####
+
+(a) Each radiographic exposure device must have a lock or outer locked container designed to prevent unauthorized or accidental removal of the sealed source from its shielded position. The exposure device and/or its container must be kept locked (and if a keyed-lock, with the key removed at all times) when not under the direct surveillance of a radiographer or a radiographer's assistant except at permanent radiographic installations as stated in § 34.51. In addition, during radiographic operations the sealed source assembly must be secured in the shielded position each time the source is returned to that position.
+
+(b) Each sealed source storage container and source changer must have a lock or outer locked container designed to prevent unauthorized or accidental removal of the sealed source from its shielded position. Storage containers and source changers must be kept locked (and if a keyed-lock, with the key removed at all times) when containing sealed sources except when under the direct surveillance of a radiographer or a radiographer's assistant.

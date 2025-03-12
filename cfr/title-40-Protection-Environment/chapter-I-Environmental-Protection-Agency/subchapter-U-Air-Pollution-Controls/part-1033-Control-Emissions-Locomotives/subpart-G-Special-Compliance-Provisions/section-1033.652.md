@@ -1,0 +1,11 @@
+##### § 1033.652 Special provisions for exported locomotives. #####
+
+(a) *Uncertified locomotives.* Locomotives covered by an export exemption under 40 CFR 1068.230 may be introduced into U.S. commerce prior to being exported, but may not be used in any revenue generating service in the United States. Locomotives covered by this paragraph (a) may not include any EPA emission control information label. Such locomotives may include emission control information labels for the country to which they are being exported.
+
+(b) *Locomotives covered by export-only certificates.* Locomotives may be certified for export under 40 CFR 1068.230. Such locomotives may be introduced into U.S. commerce prior to being exported, but may not be used in any revenue generating service in the United States.
+
+(c) *Locomotives included in a certified engine family.* Except as specified in paragraph (d) of this section, locomotives included in a certified engine family may be exported without restriction. Note that § 1033.705 requires that exported locomotives be excluded from emission credit calculations in certain circumstances.
+
+(d) *Locomotives certified to FELs above the standards.* The provisions of this paragraph (d) apply for locomotive configurations included in engine families certified to one or more FELs above any otherwise applicable standard. Individual locomotives that will be exported may be excluded from an engine family if they are unlabeled. For locomotives that were labeled during production, you may remove the emission control information labels prior to export. All unlabeled locomotives that will be exported are subject to the provisions of paragraph (a) of this section. Locomotives that are of a configuration included in an engine family certified to one of more FELs above any otherwise applicable standard that include an EPA emission control information label when exported are considered to be part of the engine family and must be included in credit calculations under § 1033.705. Note that this requirement does not apply for locomotives that do not have an EPA emission control information label, even if they have other labels (such as an export-only label).
+
+[75 FR 22986, Apr. 30, 2010]

@@ -1,0 +1,3 @@
+##### § 456.100 Scope. #####
+
+Sections 456.101 through 456.145 of this subpart prescribe requirements for a written utilization review (UR) plan for each hospital providing Medicaid services. Sections 456.105 and 456.106 prescribe administrative requirements: §§ 456.111 through 456.113 prescribe informational requirements; §§ 456.121 through 456.129 prescribe requirements for admission review; §§ 456.131 through 456.137 prescribe requirements for continued stay review; and §§ 456.141 through 456.145 prescribe requirements for medical care evaluation studies.

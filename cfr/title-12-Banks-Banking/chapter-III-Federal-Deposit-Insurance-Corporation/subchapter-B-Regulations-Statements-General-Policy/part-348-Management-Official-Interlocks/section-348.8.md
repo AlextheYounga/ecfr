@@ -1,0 +1,3 @@
+##### § 348.8 Enforcement. #####
+
+Except as provided in this section, the FDIC administers and enforces the Interlocks Act with respect to FDIC-supervised institutions and their affiliates and may refer any case of a prohibited interlocking relationship involving these entities to the Attorney General of the United States to enforce compliance with the Interlocks Act and this part. If an affiliate of an FDIC-supervised institution is subject to the primary regulation of another federal depository organization supervisory agency, then the FDIC does not administer and enforce the Interlocks Act with respect to that affiliate.

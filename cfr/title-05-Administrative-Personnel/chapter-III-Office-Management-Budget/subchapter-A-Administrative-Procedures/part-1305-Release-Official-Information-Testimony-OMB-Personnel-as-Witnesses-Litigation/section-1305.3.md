@@ -1,0 +1,9 @@
+##### § 1305.3 Procedures in the event of a demand for disclosure. #####
+
+(a) Whenever a demand is made upon an employee or former employee of OMB for the production of material or the disclosure of information described in § 1305.2, he shall immediately notify the General Counsel. If possible, the General Counsel shall be notified before the employee or former employee concerned replies to or appears before the court or other authority.
+
+(b) If information or material is sought by a demand in any case or matter in which OMB is not a party, an affidavit (or, if that is not feasible, a statement by the party seeking the information or material, or by his attorney) setting forth a summary of the information or material sought and its relevance to the proceeding, must be submitted before a decision is made as to whether materials will be produced or permission to testify or otherwise provide information will be granted. Any authorization for testimony by a present or former employee of OMB shall be limited to the scope of the demand as summarized in such statement.
+
+(c) If response to a demand is required before instructions from the General Counsel are received, an attorney designated for that purpose by OMB shall appear, and shall furnish the court or other authority with a copy of the regulations contained in this part and inform the court or other authority that the demand has been or is being, as the case may be, referred for prompt consideration by the General Counsel. The court or other authority shall be requested respectfully to stay the demand pending receipt of the requested instructions from the General Counsel.
+
+(Approved by the Office of Management and Budget under control number 0348-0056)

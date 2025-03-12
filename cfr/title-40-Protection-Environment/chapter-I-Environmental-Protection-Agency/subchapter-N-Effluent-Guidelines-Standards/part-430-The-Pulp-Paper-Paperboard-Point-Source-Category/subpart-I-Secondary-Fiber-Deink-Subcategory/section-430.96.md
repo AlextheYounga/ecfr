@@ -1,0 +1,21 @@
+##### § 430.96 Pretreatment standards for existing sources (PSES). #####
+
+(a) Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart that introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for existing sources (PSES) if it uses chlorophenolic-containing biocides. Permittees not using chlorophenolic-containing biocides must certify to the permit-issuing authority that they are not using these biocides. PSES must be attained on or before July 1, 1984:
+
+|                                                              Pollutant or pollutant property                                                               |                         PSES                          |      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------|
+|                                                                   Maximum for any 1 day                                                                    |                                                       |      |
+|                                                                  Milligrams/liter (mg/l)                                                                   |Kg/kkg (or pounds per 1,000 lb) of product <sup>a</sup>|      |
+|                                                                     Pentachlorophenol                                                                      |                    (0.032)(24.4)/y                    |0.0033|
+|                                                                      Trichlorophenol                                                                       |                    (0.082)(24.4)/y                    |0.0084|
+|                                                   y = wastewater discharged in kgal per ton of product.                                                    |                                                       |      |
+|<sup>a</sup> The following equivalent mass limitations are provided as guidance in cases when POTWs find it necessary to impose mass equivalent limitations.|                                                       |      |
+
+|                                                              Pollutant or pollutant property                                                               |                         PSES                          |      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------|
+|                                                                   Maximum for any 1 day                                                                    |                                                       |      |
+|                                                                  Milligrams/liter (mg/l)                                                                   |Kg/kkg (or pounds per 1,000 lb) of product <sup>a</sup>|      |
+|                                                                     Pentachlorophenol                                                                      |                    (0.032)(24.4)/y                    |0.0033|
+|                                                                      Trichlorophenol                                                                       |                    (0.010)(24.4)/y                    |0.0010|
+|                                                   y = wastewater discharged in kgal per ton of product.                                                    |                                                       |      |
+|<sup>a</sup> The following equivalent mass limitations are provided as guidance in cases when POTWs find it necessary to impose mass equivalent limitations.|                                                       |      |

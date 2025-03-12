@@ -1,0 +1,5 @@
+##### § 107.323 ALJ's decision. #####
+
+(a) After consideration of all matters of record in the proceeding, the ALJ shall issue an order dismissing the notice of probable violation in whole or in part or granting the sanction sought by the Office of Chief Counsel in the notice. If the ALJ does not dismiss the notice of probable violation in whole, he issues an order directing compliance or assessing a civil penalty, or, if proposed in the notice, both. The order includes a statement of the findings and conclusions, and the reasons therefore, on all material issues of fact, law, and discretion.
+
+(b) If, within 20 days of receipt of an order issued under paragraph (a) of this section, the respondent does not submit in writing his acceptance of the terms of an order directing compliance, or, where appropriate, pay a civil penalty, or file an appeal under § 107.325, the case may be referred to the Attorney General with a request that an action be brought in the appropriate United States District Court to enforce the terms of a compliance order or collect the civil penalty.

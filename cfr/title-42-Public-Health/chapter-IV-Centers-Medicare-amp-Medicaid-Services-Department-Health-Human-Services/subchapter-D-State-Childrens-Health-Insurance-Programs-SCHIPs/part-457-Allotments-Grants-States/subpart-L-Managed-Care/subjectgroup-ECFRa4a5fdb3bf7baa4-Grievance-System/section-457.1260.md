@@ -1,0 +1,3 @@
+##### § 457.1260 Grievance system. #####
+
+The State must ensure that its contracted MCOs, PIHPs, and PAHPs comply with the grievance and appeals requirements and procedures in accordance with the terms of subpart F of part 438 of this chapter, except that the terms of § 438.420 of this chapter do not apply and that references to fair hearings should be read to refer to reviews as described in subpart K of this part.

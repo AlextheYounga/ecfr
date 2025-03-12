@@ -1,0 +1,7 @@
+##### § 190.305 Regulatory dockets. #####
+
+(a) Information and data considered relevant by the Administrator relating to rulemaking actions, including notices of proposed rulemaking; comments received in response to notices; petitions for rulemaking and reconsideration; denials of petitions for rulemaking and reconsideration; records of additional rulemaking proceedings under § 190.325; and final regulations are maintained by the Pipeline and Hazardous Materials Safety Administration at 1200 New Jersey Avenue, SE, Washington, D.C. 20590-0001.
+
+(b) Once a public docket is established, docketed material may be accessed at *http://www.regulations.gov.* Public comments also may be submitted at *http://www.regulations.gov.* Comment submissions must identify the docket number. You may also examine public docket material at the offices of the Docket Operations Facility (M-30), U.S. Department of Transportation, West Building, First Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590. You may obtain a copy during normal business hours, excluding Federal holidays, for a fee, with the exception of material which the Administrator of PHMSA determines should be withheld from public disclosure under 5 U.S.C. 552(b) or any other applicable statutory provision.
+
+[Amdt. 190-8, 61 FR 50909, Sept. 27, 1996, as amended at 70 FR 11137, 11139, Mar. 8, 2005; 73 FR 16566, Mar. 28, 2008; 73 FR 16568, Mar. 28, 2008]

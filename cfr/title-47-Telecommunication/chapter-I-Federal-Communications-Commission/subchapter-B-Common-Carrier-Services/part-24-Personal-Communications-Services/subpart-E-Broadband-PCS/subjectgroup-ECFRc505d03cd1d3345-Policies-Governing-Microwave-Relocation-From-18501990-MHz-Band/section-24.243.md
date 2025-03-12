@@ -1,0 +1,15 @@
+##### § 24.243 The cost-sharing formula. #####
+
+A PCS relocator who relocates an interfering microwave link, *i.e.* one that is in all or part of its market area and in all or part of its frequency band or a voluntarily relocating microwave incumbent, is entitled to *pro rata* reimbursement based on the following formula:
+
+![](/graphics/er12jn96.001.gif)
+
+(a) *RN* equals the amount of reimbursement.
+
+(b) *C* equals the actual cost of relocating the link. Actual relocation costs include, but are not limited to, such items as: Radio terminal equipment (TX and/or RX—antenna, necessary feed lines, MUX/Modems); towers and/or modifications; back-up power equipment; monitoring or control equipment; engineering costs (design/path survey); installation; systems testing; FCC filing costs; site acquisition and civil works; zoning costs; training; disposal of old equipment; test equipment (vendor required); spare equipment; project management; prior coordination notification under § 101.103(d) of this chapter; site lease renegotiation; required antenna upgrades for interference control; power plant upgrade (if required); electrical grounding systems; Heating Ventilation and Air Conditioning (HVAC) (if required); alternate transport equipment; and leased facilities. C also includes voluntarily relocating microwave incumbent's independent third party appraisal of its compensable relocation costs and incumbent transaction expenses that are directly attributable to the relocation, subject to a cap of two percent of the “hard” costs involved. C may not exceed $250,000 per link, with an additional $150,000 permitted if a new or modified tower is required.
+
+(c) *N* equals the number of PCS entities that would have interfered with the link. For the PCS relocator, N = 1. For the next PCS entity that would have interfered with the link, N = 2, and so on. In the case of a voluntarily relocating microwave incumbent, N = 1 for the first PCS entity that would have interfered with the link. For the next PCS entity that would have interfered with the link, N = 2, and so on.
+
+(d) *Tm* equals the number of months that have elapsed between the month the PCS relocator or voluntarily relocating microwave incumbent obtains reimbursement rights for the link and the month that the clearinghouse notifies a later-entrant of its reimbursement obligation for the link. A PCS relocator obtains reimbursement rights for the link on the date that it signs a relocation agreement with a microwave incumbent. A voluntarily relocating microwave incumbent obtains reimbursement rights for the link on the date that the incumbent notifies the Commission that it intends to discontinue, or has discontinued, the use of the link, pursuant to § 101.305 of the Commission's rules.
+
+[62 FR 12757, Mar. 18, 1997, as amended at 65 FR 46113, July 27, 2000]

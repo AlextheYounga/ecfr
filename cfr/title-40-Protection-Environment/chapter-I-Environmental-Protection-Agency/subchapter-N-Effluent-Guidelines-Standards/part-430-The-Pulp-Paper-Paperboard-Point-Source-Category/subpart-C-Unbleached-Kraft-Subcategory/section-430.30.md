@@ -1,0 +1,3 @@
+##### § 430.30 Applicability; description of the unbleached kraft subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from: the production of pulp and paper at unbleached kraft mills; the production of pulp and paper at unbleached kraft-neutral sulfite semi-chemical (cross recovery) mills; and the production of pulp and paper at combined unbleached kraft and semi-chemical mills, wherein the spent semi-chemical cooking liquor is burned within the unbleached kraft chemical recovery system.

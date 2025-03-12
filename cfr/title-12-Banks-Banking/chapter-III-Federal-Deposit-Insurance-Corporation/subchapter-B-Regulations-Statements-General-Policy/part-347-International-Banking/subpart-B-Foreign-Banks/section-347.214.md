@@ -1,0 +1,3 @@
+##### § 347.214 Branch established under section 5 of the International Banking Act. #####
+
+A foreign bank may operate any state branch as a noninsured branch whenever the foreign bank has entered into an agreement with the FRB to accept at that branch only those deposits as would be permissible for a corporation organized under section 25(a) of the Federal Reserve Act (12 U.S.C. 611 *et seq.*) and implementing rules and regulations administered by the FRB (12 CFR 211).

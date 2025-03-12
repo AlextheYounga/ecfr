@@ -1,0 +1,7 @@
+##### § 261.1082 Standards: General. #####
+
+(a) This section applies to the management of hazardous secondary material in tanks and containers subject to this subpart.
+
+(b) The remanufacturer or other person that stores or treats the hazardous secondary material shall control air pollutant emissions from each hazardous secondary material management unit in accordance with standards specified in §§ 261.1084 through 261.1087 of this subpart, as applicable to the hazardous secondary material management unit, except as provided for in paragraph (c) of this section.
+
+(c) A tank or container is exempt from standards specified in §§ 261.1084 through 261.1087 of this subpart, as applicable, provided that the hazardous secondary material management unit is a tank or container for which all hazardous secondary material entering the unit has an average VO concentration at the point of material origination of less than 500 parts per million by weight (ppmw). The average VO concentration shall be determined using the procedures specified in § 261.1083(a) of this subpart. The remanufacturer or other person that stores or treats the hazardous secondary material shall review and update, as necessary, this determination at least once every 12 months following the date of the initial determination for the hazardous secondary material streams entering the unit.

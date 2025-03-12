@@ -1,0 +1,3 @@
+##### § 214.3 Assumptions. #####
+
+When the provisions of this part become operative, Presidential emergency authority, including Executive Order 12656, 12472, 12046 (3 CFR, 1966-1970 Comp., p. 820), and other emergency plans regarding the allocation and use of national resources will be in effect. During an attack, and in a postattack period, the Director, OSTP, will have authority to make new or revised assignments of radio frequencies in accordance with authority delegated by the President.

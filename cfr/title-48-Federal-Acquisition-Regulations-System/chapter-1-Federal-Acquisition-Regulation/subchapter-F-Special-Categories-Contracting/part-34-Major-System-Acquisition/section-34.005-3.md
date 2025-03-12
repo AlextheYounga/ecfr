@@ -1,0 +1,3 @@
+##### 34.005-3 Concept exploration contracts. #####
+
+Whenever practicable, contracts to be performed during the concept exploration phase shall be for relatively short periods, at planned dollar levels. These contracts are to refine the proposed concept and to reduce the concept's technical uncertainties. The scope of work for this phase of the program shall be consistent with the Government's planned budget for the phase. Follow-on contracts for such tasks in the exploration phase shall be awarded as long as the concept approach remains promising, the contractor's progress is acceptable, and it is economically practicable to do so.

@@ -1,0 +1,5 @@
+##### § 52.1168a Part D—Disapproval of Rules and Regulations. #####
+
+On December 30, 1985, the Massachusetts Department of Environmental Quality Engineering (DEQE) submitted a revision to the Massachusetts State Implementation Plan (SIP) for the automobile surface coating regulation. This revision requested an extension of the final compliance dates to implement reasonably available control technology (RACT) on topcoat and final repair applications. As a result of EPA's disapproval of this revision, the existing compliance date of December 31, 1985 specified in the automobile surface coating regulation contained in the Massachusetts SIP will remain in effect (Massachusetts Regulation 310 CMR 7.18(7) as approved by EPA and codified at 40 CFR 52.1120(c)(30) and (53)).
+
+[53 FR 36014, Sept. 16, 1988]

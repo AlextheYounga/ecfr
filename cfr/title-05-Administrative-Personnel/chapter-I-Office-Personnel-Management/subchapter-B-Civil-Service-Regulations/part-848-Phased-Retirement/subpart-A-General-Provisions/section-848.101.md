@@ -1,0 +1,3 @@
+##### § 848.101 Applicability and purpose. #####
+
+This subpart contains the regulations implementing provisions of 5 U.S.C. 8412a authorizing phased retirement. This subpart establishes the eligibility requirements for making an election to enter phased retirement status, the procedures for making an election, the record-keeping requirements, and the methods to be used for certain computations not addressed elsewhere in parts 841-843 and 845.

@@ -1,0 +1,3 @@
+##### § 302.105 Special agency plans. #####
+
+An agency having a position subject to this part may establish a system which will result in granting to eligible persons the preference or priority consideration referred to in sections 1302(c) or 8151 of title 5, United States Code, but which does not conform to all the procedural requirements set forth in this part. The agency establishing such a system must ensure that all eligible applicants entitled to veteran preference or priority consideration receive at least as much advantage in referral as they would receive under the procedures set forth in this part.

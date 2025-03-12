@@ -1,0 +1,5 @@
+##### § 61.103 Determining compliance. #####
+
+(a) Compliance with the emission standard in this subpart shall be determined through the use of either the EPA computer code COMPLY or the alternative requirements of appendix E. Facilities emitting radionuclides not listed in COMPLY or appendix E shall contact EPA to receive the information needed to determine dose. The source terms to be used for input into COMPLY shall be determined through the use of the measurement procedures listed in § 61.107 or the emission factors in appendix D or through alternative procedures for which EPA has granted prior approval; or,
+
+(b) Facilities may demonstrate compliance with the emission standard in this subpart through the use of computer models that are equivalent to COMPLY, provided that the model has received prior approval from EPA headquarters. Any facility using a model other than COMPLY must file an annual report. EPA may approve an alternative model in whole or in part and may limit its use to specific circumstances.

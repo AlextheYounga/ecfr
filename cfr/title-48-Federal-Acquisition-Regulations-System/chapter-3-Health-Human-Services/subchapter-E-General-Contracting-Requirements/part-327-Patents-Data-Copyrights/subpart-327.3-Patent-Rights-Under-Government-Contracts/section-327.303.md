@@ -1,0 +1,3 @@
+##### 327.303 Solicitation provision and contract clause. #####
+
+The contracting officer shall insert the clause at 352.227-11, Patent Rights—Exceptional Circumstances and any appropriate alternates in lieu of Federal Acquisition Regulation (FAR) 52.227-11 whenever a Determination of Exceptional Circumstances (DEC) involving the provision of materials that has been executed in accordance with Agency policy and procedures calls for its use and the clause at 352.227-11, Patent Rights—Exceptional Circumstances, appropriately covers the circumstances. The contracting officer should reference the DEC in the solicitation and shall attach a copy of the executed DEC to the contract.

@@ -1,0 +1,3 @@
+##### § 801.31 Public hearings regarding investigations. #####
+
+Within approximately four (4) weeks after a public hearing concerning an investigation, the Chief, Records Management Division, will make available to the public the hearing transcript. On or before the date of the hearing, the Chief, Records Management Division, will make the exhibits introduced at the hearing available to the public for inspection or commercial copy order.

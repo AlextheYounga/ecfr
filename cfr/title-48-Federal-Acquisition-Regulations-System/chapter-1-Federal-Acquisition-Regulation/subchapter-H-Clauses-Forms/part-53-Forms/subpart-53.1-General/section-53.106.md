@@ -1,0 +1,16 @@
+##### 53.106 Special construction and printing. #####
+
+Contracting offices may request exceptions (see 53.103) to standard forms for special construction and printing. Examples of common exceptions are as follows:
+
+|    Standard Forms     |                                                                                                                    Special Construction and Printing                                                                                                                     |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      (a) SF 18—       |                                                                                           (1) With vertical lines omitted (for listing of supplies and services, unit, etc.);                                                                                            |
+|                       |                                                                                                                   (2) As reproducible masters; and/or                                                                                                                    |
+|                       |                                                                                                                 (3) In carbon interleaved pads or sets.                                                                                                                  |
+|(b) SF's 26,30,33,1447—|                                                                                                               As die-cut stencils or reproducible masters.                                                                                                               |
+|      (c) SF 44—       |                                                                                                 (1) With serial numbers and contracting office name and address; and/or                                                                                                  |
+|                       |(2) On special weight of paper and with the type of construction, number of sets per book, and number of parts per set as specified by the contracting officer. (Executive agencies may supplement the administrative instructions on the inside front cover of the book.)|
+|     (d) SF 1442—      |                                                                                                         (1) As die-cut stencils or reproducible masters; and/or                                                                                                          |
+|                       |                                                (2) With additional wording as required by the executive agency. (However, the sequence and wording of the items appearing on the prescribed form should not be altered.)                                                 |
+
+[48 FR 42637, Sept. 19, 1983, as amended at 51 FR 27121, July 29, 1986; 54 FR 48998, Nov. 28, 1989]

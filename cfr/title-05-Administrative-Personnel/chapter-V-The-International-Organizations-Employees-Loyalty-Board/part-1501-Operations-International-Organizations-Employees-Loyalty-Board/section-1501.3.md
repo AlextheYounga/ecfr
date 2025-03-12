@@ -1,0 +1,7 @@
+##### § 1501.3 Duties of officers. #####
+
+(a) *The Chairman.* The chairman shall perform all the duties usually pertaining to the office of chairman, including presiding at Board meetings, supervising the administrative work of the Board, and conducting its correspondence. He shall be authorized to call special meetings of the Board, when in his judgment, such meetings are necessary and shall call such meetings at the written request of three members of the Board. The time and place of such meetings shall be fixed by the chairman. The chairman shall constitute such panels of the Board as may be necessary or desirable to render advisory determinations and to conduct hearings, and he is authorized to appoint such committees as from time to time may be required to handle the work of the Board. The chairman may request the vice-chairman to assume the duties of the chairman in the event of the absence of the chairman or his inability to act.
+
+(b) *The Vice-Chairman.* The duties of the vice-chairman, when acting in the place of the chairman, shall be the same as the duties of the chairman.
+
+(c) *The Executive-Secretary.* The executive-secretary shall perform all of the duties customarily performed by an executive-secretary. He shall have immediate charge of the administrative duties of the Board under the direction of the chairman and shall have general responsibility for advising and assisting the Board members and exercising executive direction over the staff.

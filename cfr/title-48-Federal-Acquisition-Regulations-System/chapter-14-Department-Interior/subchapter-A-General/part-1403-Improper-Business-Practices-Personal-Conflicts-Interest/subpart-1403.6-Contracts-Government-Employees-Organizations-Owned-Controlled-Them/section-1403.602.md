@@ -1,0 +1,3 @@
+##### 1403.602 Exceptions. #####
+
+The HCA, without the power of redelegation, is authorized to except a contract from the policy in FAR 3.601. However, no exceptions may be granted where the proposed contractor is owned or controlled by a Government employee or one or more members of the employee's immediate family and the employee or any subordinate is serving as a procurement official on the proposed contract.

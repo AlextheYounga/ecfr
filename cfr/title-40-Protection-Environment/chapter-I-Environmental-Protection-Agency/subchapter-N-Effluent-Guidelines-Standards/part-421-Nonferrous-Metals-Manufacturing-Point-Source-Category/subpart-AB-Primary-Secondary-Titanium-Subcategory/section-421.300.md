@@ -1,0 +1,3 @@
+##### § 421.300 Applicability: Description of the primary and secondary titanium subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the production of titanium at primary and secondary titanium facilities. Facilities which only practice vacuum distillation for sponge purification and which do not practice electrolytic recovery of magnesium are exempt from regulations. All other primary and secondary titanium facilities are covered by these regulations.

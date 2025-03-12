@@ -1,0 +1,3 @@
+##### § 193.2711 Personnel health. #####
+
+Each operator shall follow a written plan to verify that personnel assigned operating, maintenance, security, or fire protection duties at the LNG plant do not have any physical condition that would impair performance of their assigned duties. The plan must be designed to detect both readily observable disorders, such as physical handicaps or injury, and conditions requiring professional examination for discovery.

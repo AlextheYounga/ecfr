@@ -1,0 +1,23 @@
+##### § 529.5 Requirements for intermediate manufacturers. #####
+
+(a) Except as provided in paragraph (d) of this section and in § 529.6, each intermediate manufacturer whose manufacturing operations on an incomplete automobile cause it to exceed the maximum curb weight or maximum frontal area set forth in the document furnished it by the incomplete automobile manufacturer under § 529.4(c)(1) or by a previous intermediate manufacturer under paragraph (b) of this section, as appropriate, is considered the manufacturer of the multistage automobile manufactured from that automobile for the purpose of the requirements of Title V and rules issued thereunder, other than that in part 537, Fuel Economy Reports.
+
+(b) Each intermediate manufacturer of an incomplete automobile shall furnish, in the manner specified in § 529.4(c), to the subsequent manufacturer of that automobile the document required by § 529.4(b) regarding that automobile. If any of the changes in the automobile made by the intermediate manufacturer affect the validity of the fuel economy values or other statement in the document or any addendum attached to the document by a previous manufacturer of the automobile, the intermediate manufacturer shall furnish an addendum to the document that contains its name and mailing address and an indication of all changes that should be made in the document to reflect changes that it made in the automobile.
+
+(c) Each intermediate manufacturer that is required by paragraph (b) of this section to furnish an addendum to a document required by § 529.4(b) shall, within 10 days after completing its manufacturing operations, send a copy of the document and addendum to the Administrator of the Environmental Protection Agency and to the manufacturer previously considered under this part to be the manufacturer of the automobile.
+
+(d)(1) If the intermediate manufacturer's manufacturing operations on an incomplete automobile cause it to exceed the maximum curb weight or maximum frontal area set forth in the document furnished it by the incomplete automobile manufacturer under § 529.4(c)(1) or a previous intermediate manufacturer under paragraph (b) of this section, as appropriate, that manufacturer shall prepare a new fuel economy label for that automobile in accordance with 40 CFR part 600.
+
+(2) If neither the intermediate manufacturer of an incomplete automobile nor any previous manufacturer of that automobile has placed the portion of the body including the windshield and front seat side windows on that automobile, the intermediate manufacturer shall send the fuel economy label furnished it by the incomplete automobile manufacturer under § 529.4(c)(2)(i) or a previous intermediate manufacturer under paragraph (d)(2) of this section or prepared by it under paragraph (d)(1) of this section, as appropriate, directly to the subsequent manufacturer to which that automobile is delivered.
+
+(3) If the intermediate manufacturer places the portion of the body including the windshield and front seat side windows on the incomplete automobile, that manufacturer shall attach the fuel economy label furnished it under § 529.4(c)(i) or paragraph (d)(2) of this section or the fuel economy label prepared by it under paragraph (d)(1) of this section, as appropriate, to that automobile in accordance with 40 CFR part 600.
+
+(4) The intermediate manufacturer shall attach to the incomplete automobile in accordance with 40 CFR part 600 a fuel economy label identical to the label that is required under this part to have been prepared by the manufacturer considered under this part to be the manufacturer of that automobile if:
+
+(i) The portion of the body including the windshield and front seat side windows was added to the incomplete automobile by a previous manufacturer;
+
+(ii) The intermediate manufacturer's manufacturing operations do not cause that automobile to exceed either of the maxima specified in paragraph (d)(1) of this section; and
+
+(iii) That label is not on that automobile when received by the intermediate manufacturer or is removed from that automobile while it is in the possession of that manufacturer.
+
+(5) Upon request by a subsequent intermediate manufacturer or by a final-stage manufacturer for a copy of a fuel economy label prepared by the intermediate manufacturer under paragraph (d)(1) of this section for one of its incomplete automobiles, identified by the requesting manufacturer in the same fashion as in the document specified in § 529.4(b)(1), the intermediate manufacturer shall send that manufacturer a copy of that label.

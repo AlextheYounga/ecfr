@@ -1,0 +1,3 @@
+##### § 90.121 Canadian registration. #####
+
+Form 410 shall be filed by Canadian licensees desiring to operate in the United States under the terms of Article 2 and 3 of the Convention between the United States and Canada concerning operation of Certain Radio Equipment or Stations (which entered into force May 15, 1952). This form may be obtained from the Department of Communications, Ottawa, Canada. That department should also be consulted by U.S. licensees desiring to operate in Canada.

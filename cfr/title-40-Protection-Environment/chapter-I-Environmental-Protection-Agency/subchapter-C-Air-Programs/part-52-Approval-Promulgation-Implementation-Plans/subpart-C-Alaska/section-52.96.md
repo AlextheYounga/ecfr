@@ -1,0 +1,7 @@
+##### § 52.96 Significant deterioration of air quality. #####
+
+(a) The State of Alaska Department of Environmental Conservation Air Quality Control Regulations are approved as meeting the requirements of 40 CFR 51.166 and part C for preventing significant deterioration of air quality. The specific provisions approved are: 18 AAC 50.010 except (7) and (8); 18 AAC 50.015; 18 AAC 50.020; 18 AAC 50.035(a)(4), (a)(5), and (b)(1); 18 AAC 50.040(h); and 18 AAC 50.215 except (a)(4) as in effect on April 17, 2015; 18 AAC 50.990 as in effect on November 9, 2014; 18 AAC 50.306 as in effect on January 4, 2013; 18 AAC 50.345 except (b), (c)(3), and (l) as in effect on September 14, 2012; and 18 AAC 50.250 as in effect on October 1, 2004.
+
+(b) The requirements of sections 160 through 165 of the Clean Air Act are not met for Indian reservations since the plan does not include approvable provisions for preventing the significant deterioration of air quality on Indian reservations and, therefore, the provisions of § 52.21 except paragraph (a)(1) are hereby incorporated and made part of the applicable plan for Indian reservations in the State of Alaska.
+
+[72 FR 45380, Aug. 14, 2007, as amended at 76 FR 7117, Feb. 9, 2011; 77 FR 64427, Oct. 22, 2012; 79 FR 56274, Sept. 19, 2014; 81 FR 31513, May 19, 2016]

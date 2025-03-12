@@ -1,0 +1,3 @@
+##### 9.603 Policy. #####
+
+The Government will recognize the integrity and validity of contractor team arrangements; *provided,* the arrangements are identified and company relationships are fully disclosed in an offer or, for arrangements entered into after submission of an offer, before the arrangement becomes effective. The Government will not normally require or encourage the dissolution of contractor team arrangements.

@@ -1,0 +1,3 @@
+##### § 582.1 Scope. #####
+
+This part requires automobile dealers to make available to prospective purchasers information reflecting differences in insurance costs for different makes and models of passenger motor vehicles based upon differences in damage susceptibility and crashworthiness, pursuant to section 201(e) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 1941(e)), herein “the Cost Savings Act.”

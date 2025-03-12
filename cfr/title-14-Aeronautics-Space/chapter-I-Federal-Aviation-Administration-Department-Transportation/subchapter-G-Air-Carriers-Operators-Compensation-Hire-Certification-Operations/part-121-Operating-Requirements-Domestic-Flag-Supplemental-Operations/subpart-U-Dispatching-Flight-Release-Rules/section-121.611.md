@@ -1,0 +1,3 @@
+##### § 121.611 Dispatch or flight release under VFR. #####
+
+No person may dispatch or release an aircraft for VFR operation unless the ceiling and visibility en route, as indicated by available weather reports or forecasts, or any combination thereof, are and will remain at or above applicable VFR minimums until the aircraft arrives at the airport or airports specified in the dispatch or flight release.

@@ -1,0 +1,3 @@
+##### § 315.901 Statutory requirement. #####
+
+5 U.S.C. 3321 provides for “a period of probation . . . before initial appointment as a supervisor or manager becomes final.” It also says that a supervisor or manager “who does not satisfactorily complete the probationary period . . . shall be returned to a position of no lower grade and pay than the position from which the individual was transferred, assigned or promoted.” This subpart contains OPM regulations implementing those requirements of law.

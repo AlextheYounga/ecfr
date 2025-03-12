@@ -1,0 +1,5 @@
+##### § 512.17 How long should it take to determine whether information is entitled to confidential treatment? #####
+
+(a) When information claimed to be confidential is requested under the Freedom of Information Act, the determination will be made within twenty (20) working days after NHTSA receives such a request or within thirty (30) working days in unusual circumstances as provided under 5 U.S.C. 552(a)(6)(A). However, these time periods may be extended by the Chief Counsel for good cause shown or on request from any person. An extension will be made in accordance with 5 U.S.C. 552(a)(6)(A), and will be accompanied by a written statement setting out the reasons for the extension.
+
+(b) When information claimed to be confidential is not requested under the Freedom of Information Act, the determination of confidentiality will be made within a reasonable period of time, at the discretion of the Chief Counsel.

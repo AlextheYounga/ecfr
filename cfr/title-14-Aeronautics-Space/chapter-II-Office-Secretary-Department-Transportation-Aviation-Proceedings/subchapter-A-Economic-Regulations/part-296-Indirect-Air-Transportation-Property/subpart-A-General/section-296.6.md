@@ -1,0 +1,3 @@
+##### § 296.6 Public disclosure of cargo liability limits and insurance. #####
+
+Every indirect cargo air carrier shall give notice in writing to the shipper, when any shipment is accepted, of the existence or absence of cargo liability accident insurance, and of the limits on the extent of its liability, if any. The notice shall be clear and conspicuously included on or attached to all of its rate sheets and airwaybills.

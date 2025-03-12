@@ -1,0 +1,3 @@
+##### § 196.111 What if a pipeline operator fails to respond to a locate request or fails to accurately locate and mark its pipeline? #####
+
+PHMSA may enforce existing requirements applicable to pipeline operators, including those specified in 49 CFR 192.614 and 195.442 and 49 U.S.C. 60114 if a pipeline operator fails to properly respond to a locate request or fails to accurately locate and mark its pipeline. The limitation in 49 U.S.C. 60114(f) does not apply to enforcement taken against pipeline operators and excavators working for pipeline operators.

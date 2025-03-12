@@ -1,0 +1,3 @@
+##### § 192.125 Must my board of directors adopt a plan of conversion? #####
+
+Prior to filing an application for conversion, your board of directors must adopt a plan of conversion that conforms to §§ 192.320 through 192.485 and 192.505. Your board of directors must adopt the plan by at least a two-thirds vote. Your plan of conversion is required, under § 192.150, to be included in your conversion application.

@@ -1,0 +1,3 @@
+##### § 300.707 Termination of employment. #####
+
+A covered individual who is serving under an appointment made on or after November 8, 1985, and is not exempt from registration, will be terminated by his agency under the authority of the statute and these regulations if he has not registered as required, unless he registers or unless, if no longer eligible to register, OPM determines in response to his explanation that his failure to register was neither knowing nor willful.

@@ -1,0 +1,3 @@
+##### § 441.100 Basis and purpose. #####
+
+This subpart implements section 1905(a)(14) of the Act, which authorizes State plans to provide for inpatient hospital services, skilled nursing services, and intermediate care facility services for individuals age 65 or older in an institution for mental diseases, and sections 1902(a)(20)(B) and (C) and 1902(a)(21), which prescribe the conditions a State must meet to offer these services. (See § 431.620 of this subchapter for regulations implementing section 1902(a)(20)(A), which prescribe interagency requirements related to these services.)

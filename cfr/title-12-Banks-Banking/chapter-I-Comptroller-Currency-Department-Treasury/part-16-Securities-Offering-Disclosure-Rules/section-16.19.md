@@ -1,0 +1,5 @@
+##### § 16.19 Withdrawal or abandonment. #####
+
+(a) Any registration statement, amendment, or exhibit may be withdrawn prior to the effective date. A withdrawal must be signed and state the grounds upon which it is made. The OCC will not remove any withdrawn document from its files, but will mark the document *Withdrawn upon the request of the registrant on (date).*
+
+(b) When a registration statement or amendment has been on file with the OCC for a period of nine months and has not become effective, the OCC may, in its discretion, determine whether the filing has been abandoned. Before determining that a filing has been abandoned, the OCC will notify the filer that the filing is out of date and must either be amended to comply with the applicable requirements of this part or be withdrawn within 30 days after the date of notice. When a filing is abandoned, the OCC will not remove the filing from its files but will mark the filing *Declared abandoned by the OCC on (date).*

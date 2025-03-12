@@ -1,0 +1,5 @@
+##### § 574.10 Requirements for motor vehicle manufacturers. #####
+
+Each motor vehicle manufacturer, or his designee, shall maintain a record of the new tires on or in each vehicle shipped by him or a motor vehicle distributor or dealer, and shall maintain a record of the name and address of the first purchaser for purposes other than resale of each vehicle equipped with such tires. These records shall be maintained for a period of not less than 5 years from the date of sale of the vehicle to the first purchaser for purposes other than resale.
+
+(Authority: Secs. 103, 108, 112, 119, 201, Pub. L. 89-563, 80 Stat. 718 (15 U.S.C. 1392, 1397, 1401, 1407, 1421); secs. 102, 103, 104, Pub. L. 93-492, 88 Stat. 1470 (15 U.S.C. 1411-1420); 92 Stat. 2689 (15 U.S.C. 1418); delegation of authority at 49 CFR 1.51)[44 FR 7964, Feb. 8, 1979, as amended at 67 FR 45872, July 10, 2002]

@@ -1,0 +1,3 @@
+##### § 780.20 Initiation of proceeding. #####
+
+When any person in the Department believes that the Department should declare a patent affected with the public interest pursuant to section 153a of the Act, that person shall make such a recommendation to the Under Secretary. If, after consultation with the General Counsel, the Under Secretary agrees with the recommendation, the Under Secretary shall initiate in writing a proceeding under section 153a before the Board. The communication of the Under Secretary to the Board shall identify the patent and state the basis for the proposed declaration.

@@ -1,0 +1,3 @@
+##### § 60.4765 When does this subpart become effective? #####
+
+This subpart takes effect on *September 21, 2011.* Some of the requirements in this subpart apply to planning a SSI unit and must be completed even before construction is initiated on a SSI unit (*i.e.,* the preconstruction requirements in §§ 60.4800 and 60.4805). Other requirements such as the emission limits, emission standards, and operating limits apply after the SSI unit begins operation.

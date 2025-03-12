@@ -1,0 +1,243 @@
+##### § 50.61a Alternate fracture toughness requirements for protection against pressurized thermal shock events. #####
+
+(a) *Definitions.* Terms in this section have the same meaning as those presented in 10 CFR 50.61(a), with the exception of the term “ASME Code.”
+
+(1) *ASME Code* means the American Society of Mechanical Engineers Boiler and Pressure Vessel Code, Section III, Division I, “Rules for the Construction of Nuclear Power Plant Components,” and Section XI, Division I, “Rules for Inservice Inspection of Nuclear Power Plant Components,” edition and addenda and any limitations and modifications thereof as specified in § 50.55a.
+
+(2) *RT*MAX-AW means the material property which characterizes the reactor vessel's resistance to fracture initiating from flaws found along axial weld fusion lines. RTMAX-AW is determined under the provisions of paragraph (f) of this section and has units of °F.
+
+(3) *RT*MAX-PL means the material property which characterizes the reactor vessel's resistance to fracture initiating from flaws found in plates in regions that are not associated with welds found in plates. RTMAX-PL is determined under the provisions of paragraph (f) of this section and has units of °F.
+
+(4) *RT*MAX-FO means the material property which characterizes the reactor vessel's resistance to fracture initiating from flaws in forgings that are not associated with welds found in forgings. RTMAX-FO is determined under the provisions of paragraph (f) of this section and has units of °F.
+
+(5) *RT*MAX-CW means the material property which characterizes the reactor vessel's resistance to fracture initiating from flaws found along the circumferential weld fusion lines. RTMAX-CW is determined under the provisions of paragraph (f) of this section and has units of °F.
+
+(6) *RT*MAX-X means any or all of the material properties RTMAX-AW, RTMAX-PL, RTMAX-FO, RTMAX-CW, or sum of RTMAX-AW and RTMAX-PL, for a particular reactor vessel.
+
+(7) *φt* means fast neutron fluence for neutrons with energies greater than 1.0 MeV. φt is utilized under the provisions of paragraph (g) of this section and has units of n/cm2.
+
+(8) *φ* means average neutron flux for neutrons with energies greater than 1.0 MeV. φ is utilized under the provisions of paragraph (g) of this section and has units of n/cm2/sec.
+
+(9) *ΔT*30 means the shift in the Charpy V-notch transition temperature at the 30 ft-lb energy level produced by irradiation. The ΔT30 value is utilized under the provisions of paragraph (g) of this section and has units of °F.
+
+(10) *Surveillance data* means any data that demonstrates the embrittlement trends for the beltline materials, including, but not limited to, surveillance programs at other plants with or without a surveillance program integrated under 10 CFR part 50, appendix H.
+
+(11) *T*C means cold leg temperature under normal full power operating conditions, as a time-weighted average from the start of full power operation through the end of licensed operation. TC has units of °F.
+
+(12) *CRP* means the copper rich precipitate term in the embrittlement model from this section. The CRP term is defined in paragraph (g) of this section.
+
+(13) *MD* means the matrix damage term in the embrittlement model for this section. The MD term is defined in paragraph (g) of this section.
+
+(b) *Applicability.* The requirements of this section apply to each holder of an operating license for a pressurized water nuclear power reactor whose construction permit was issued before February 3, 2010 and whose reactor vessel was designed and fabricated to the ASME Boiler and Pressure Vessel Code, 1998 Edition or earlier. The requirements of this section may be implemented as an alternative to the requirements of 10 CFR 50.61.
+
+(c) *Request for approval.* Before the implementation of this section, each licensee shall submit a request for approval in the form of an application for a license amendment in accordance with § 50.90 together with the documentation required by paragraphs (c)(1), (c)(2), and (c)(3) of this section for review and approval by the Director of the Office of Nuclear Reactor Regulation (Director). The application must be submitted for review and approval by the Director at least three years before the limiting RTPTS value calculated under 10 CFR 50.61 is projected to exceed the PTS screening criteria in 10 CFR 50.61 for plants licensed under this part.
+
+(1) Each licensee shall have projected values of RTMAX-X for each reactor vessel beltline material for the EOL fluence of the material. The assessment of RTMAX-X values must use the calculation procedures given in paragraphs (f) and (g) of this section. The assessment must specify the bases for the projected value of RTMAX-X for each reactor vessel beltline material, including the assumptions regarding future plant operation (e.g., core loading patterns, projected capacity factors); the copper (Cu), phosphorus (P), manganese (Mn), and nickel (Ni) contents; the reactor cold leg temperature (TC); and the neutron flux and fluence values used in the calculation for each beltline material. Assessments performed under paragraphs (f)(6) and (f)(7) of this section, shall be submitted by the licensee to the Director in its license amendment application to utilize § 50.61a.
+
+(2) Each licensee shall perform an examination and an assessment of flaws in the reactor vessel beltline as required by paragraph (e) of this section. The licensee shall verify that the requirements of paragraphs (e), (e)(1), (e)(2), and (e)(3) of this section have been met. The licensee must submit to the Director, in its application to use § 50.61a, the adjustments made to the volumetric test data to account for NDE-related uncertainties as described in paragraph (e)(1) of this section, all information required by paragraph (e)(1)(iii) of this section, and, if applicable, analyses performed under paragraphs (e)(4), (e)(5) and (e)(6) of this section.
+
+(3) Each licensee shall compare the projected RTMAX-X values for plates, forgings, axial welds, and circumferential welds to the PTS screening criteria in Table 1 of this section, for the purpose of evaluating a reactor vessel's susceptibility to fracture due to a PTS event. If any of the projected RTMAX-X values are greater than the PTS screening criteria in Table 1 of this section, then the licensee may propose the compensatory actions or plant-specific analyses as required in paragraphs (d)(3) through (d)(7) of this section, as applicable, to justify operation beyond the PTS screening criteria in Table 1 of this section.
+
+(d) *Subsequent requirements.* Licensees who have been approved to use 10 CFR 50.61a under the requirements of paragraph (c) of this section shall comply with the requirements of this paragraph.
+
+(1) Whenever there is a significant change in projected values of RTMAX-X, so that the previous value, the current value, or both values, exceed the screening criteria before the expiration of the plant operating license; or upon the licensee's request for a change in the expiration date for operation of the facility; a re-assessment of RTMAX-X values documented consistent with the requirements of paragraph (c)(1) and (c)(3) of this section must be submitted in the form of a license amendment for review and approval by the Director. If the surveillance data used to perform the re-assessment of RTMAX-X values meet the requirements of paragraph (f)(6)(v) of this section, the licensee shall submit the data and the results of the analysis of the data to the Director for review and approval within one year after the capsule is withdrawn from the vessel. If the surveillance data meet the requirements of paragraph (f)(6)(vi) of this section, the licensee shall submit the data, the results of the analysis of the data, and proposed ΔT30 and RTMAX-X values considering the surveillance data in the form of a license amendment to the Director for review and approval within two years after the capsule is withdrawn from the vessel. If the Director does not approve the assessment of RTMAX-X values, then the licensee shall perform the actions required in paragraphs (d)(3) through (d)(7) of this section, as necessary, before operation beyond the PTS screening criteria in Table 1 of this section.
+
+(2) The licensee shall verify that the requirements of paragraphs (e), (e)(1), (e)(2), and (e)(3) of this section have been met. The licensee must submit, within 120 days after completing a volumetric examination of reactor vessel beltline materials as required by ASME Code, Section XI, the adjustments made to the volumetric test data to account for NDE-related uncertainties as described in paragraph (e)(1) of this section and all information required by paragraph (e)(1)(iii) of this section in the form of a license amendment for review and approval by the Director. If a licensee is required to implement paragraphs (e)(4), (e)(5), and (e)(6) of this section, the information required in these paragraphs must be submitted in the form of a license amendment for review and approval by the Director within one year after completing a volumetric examination of reactor vessel materials as required by ASME Code, Section XI.
+
+(3) If the value of RTMAX-X is projected to exceed the PTS screening criteria, then the licensee shall implement those flux reduction programs that are reasonably practicable to avoid exceeding the PTS screening criteria. The schedule for implementation of flux reduction measures may take into account the schedule for review and anticipated approval by the Director of detailed plant-specific analyses which demonstrate acceptable risk with RTMAX-X values above the PTS screening criteria due to plant modifications, new information, or new analysis techniques.
+
+(4) If the analysis required by paragraph (d)(3) of this section indicates that no reasonably practicable flux reduction program will prevent the RTMAX-X value for one or more reactor vessel beltline materials from exceeding the PTS screening criteria, then the licensee shall perform a safety analysis to determine what, if any, modifications to equipment, systems, and operation are necessary to prevent the potential for an unacceptably high probability of failure of the reactor vessel as a result of postulated PTS events. In the analysis, the licensee may determine the properties of the reactor vessel materials based on available information, research results and plant surveillance data, and may use probabilistic fracture mechanics techniques. This analysis and the description of the modifications must be submitted to the Director in the form of a license amendment at least three years before RTMAX-X is projected to exceed the PTS screening criteria.
+
+(5) After consideration of the licensee's analyses, including effects of proposed corrective actions, if any, submitted under paragraphs (d)(3) and (d)(4) of this section, the Director may, on a case-by-case basis, approve operation of the facility with RTMAX-X values in excess of the PTS screening criteria. The Director will consider factors significantly affecting the potential for failure of the reactor vessel in reaching a decision. The Director shall impose the modifications to equipment, systems and operations described to meet paragraph (d)(4) of this section.
+
+(6) If the Director concludes, under paragraph (d)(5) of this section, that operation of the facility with RTMAX-X values in excess of the PTS screening criteria cannot be approved on the basis of the licensee's analyses submitted under paragraphs (d)(3) and (d)(4) of this section, then the licensee shall request a license amendment, and receive approval by the Director, before any operation beyond the PTS screening criteria. The request must be based on modifications to equipment, systems, and operation of the facility in addition to those previously proposed in the submitted analyses that would reduce the potential for failure of the reactor vessel due to PTS events, or on further analyses based on new information or improved methodology. The licensee must show that the proposed alternatives provide reasonable assurance of adequate protection of the public health and safety.
+
+(7) If the limiting RTMAX-X value of the facility is projected to exceed the PTS screening criteria and the requirements of paragraphs (d)(3) through (d)(6) of this section cannot be satisfied, the reactor vessel beltline may be given a thermal annealing treatment under the requirements of § 50.66 to recover the fracture toughness of the material. The reactor vessel may be used only for that service period within which the predicted fracture toughness of the reactor vessel beltline materials satisfy the requirements of paragraphs (d)(1) through (d)(6) of this section, with RTMAX-X values accounting for the effects of annealing and subsequent irradiation.
+
+(e) *Examination and flaw assessment requirements.* The volumetric examination results evaluated under paragraphs (e)(1), (e)(2), and (e)(3) of this section must be acquired using procedures, equipment and personnel that have been qualified under the ASME Code, Section XI, Appendix VIII, Supplement 4 and Supplement 6, as specified in 10 CFR 50.55a(b)(2)(xv).
+
+(1) The licensee shall verify that the flaw density and size distributions within the volume described in ASME Code, Section XI,1 Figures IWB-2500-1 and IWB-2500-2 and limited to a depth from the clad-to-base metal interface of 1-inch or 10 percent of the vessel thickness, whichever is greater, do not exceed the limits in Tables 2 and 3 of this section based on the test results from the volumetric examination. The values in Tables 2 and 3 represent actual flaw sizes. Test results from the volumetric examination may be adjusted to account for the effects of NDE-related uncertainties. The methodology to account for NDE-related uncertainties must be based on statistical data from the qualification tests and any other tests that measure the difference between the actual flaw size and the NDE detected flaw size. Licensees who adjust their test data to account for NDE-related uncertainties to verify conformance with the values in Tables 2 and 3 shall prepare and submit the methodology used to estimate the NDE uncertainty, the statistical data used to adjust the test data and an explanation of how the data was analyzed for review and approval by the Director in accordance with paragraphs (c)(2) and (d)(2) of this section. The verification of the flaw density and size distributions shall be performed line-by-line for Tables 2 and 3. If the flaw density and size distribution exceeds the limitations specified in Tables 2 and 3 of this section, the licensee shall perform the analyses required by paragraph (e)(4) of this section. If analyses are required in accordance with paragraph (e)(4) of this section, the licensee must address the effects on through-wall crack frequency (TWCF) in accordance with paragraph (e)(5) of this section and must prepare and submit a neutron fluence map in accordance with the requirements of paragraph (e)(6) of this section.
+
+1 For forgings susceptible to underclad cracking the determination of the flaw density for that forging from the licensee's inspection shall exclude those indications identified as underclad cracks.
+
+(i) The licensee shall determine the allowable number of weld flaws in the reactor vessel beltline by multiplying the values in Table 2 of this section by the total length of the reactor vessel beltline welds that were volumetrically inspected and dividing by 1000 inches of weld length.
+
+(ii) The licensee shall determine the allowable number of plate or forging flaws in their reactor vessel beltline by multiplying the values in Table 3 of this section by the total surface area of the reactor vessel beltline plates or forgings that were volumetrically inspected and dividing by 1000 square inches.
+
+(iii) For each flaw detected in the inspection volume described in paragraph (e)(1) with a through-wall extent equal to or greater than 0.075 inches, the licensee shall document the dimensions of the flaw, including through-wall extent and length, whether the flaw is axial or circumferential in orientation and its location within the reactor vessel, including its azimuthal and axial positions and its depth embedded from the clad-to-base metal interface.
+
+(2) The licensee shall identify, as part of the examination required by paragraph (c)(2) of this section and any subsequent ASME Code, Section XI ultrasonic examination of the beltline welds, any flaws within the inspection volume described in paragraph (e)(1) of this section that are equal to or greater than 0.075 inches in through-wall depth, axially-oriented, and located at the clad-to-base metal interface. The licensee shall verify that these flaws do not open to the vessel inside surface using surface or visual examination technique capable of detecting and characterizing service induced cracking of the reactor vessel cladding.
+
+(3) The licensee shall verify, as part of the examination required by paragraph (c)(2) of this section and any subsequent ASME Code, Section XI ultrasonic examination of the beltline welds, that all flaws between the clad-to-base metal interface and three-eights of the reactor vessel thickness from the interior surface are within the allowable values in ASME Code, Section XI, Table IWB-3510-1.
+
+(4) The licensee shall perform analyses to demonstrate that the reactor vessel will have a TWCF of less than 1 × 10−6 per reactor year if the ASME Code, Section XI volumetric examination required by paragraph (c)(2) or (d)(2) of this section indicates any of the following:
+
+(i) The flaw density and size in the inspection volume described in paragraph (e)(1) exceed the limits in Tables 2 or 3 of this section;
+
+(ii) There are axial flaws that penetrate through the clad into the low alloy steel reactor vessel shell, at a depth equal to or greater than 0.075 inches in through-wall extent from the clad-to-base metal interface; or
+
+(iii) Any flaws between the clad-to-base metal interface and three-eighths2 of the vessel thickness exceed the size allowable in ASME Code, Section XI, Table IWB-3510-1.
+
+2 Because flaws greater than three-eights of the vessel wall thickness from the inside surface do not contribute to TWCF, flaws greater than three-eights of the vessel wall thickness from the inside surface need not be analyzed for their contribution to PTS.
+
+(5) The analyses required by paragraph (e)(4) of this section must address the effects on TWCF of the known sizes and locations of all flaws detected by the ASME Code, Section XI, Appendix VIII, Supplement 4 and Supplement 6 ultrasonic examination out to three-eights of the vessel thickness from the inner surface, and may also take into account other reactor vessel-specific information, including fracture toughness information.
+
+(6) For all flaw assessments performed in accordance with paragraph (e)(4) of this section, the licensee shall prepare and submit a neutron fluence map, projected to the date of license expiration, for the reactor vessel beltline clad-to-base metal interface and indexed in a manner that allows the determination of the neutron fluence at the location of the detected flaws.
+
+(f) *Calculation of RT*MAX-X*values.* Each licensee shall calculate RTMAX-X values for each reactor vessel beltline material using φt. The neutron flux (φ[t]), must be calculated using a methodology that has been benchmarked to experimental measurements and with quantified uncertainties and possible biases.3
+
+3 Regulatory Guide 1.190 dated March 2001, establishes acceptable methods for determining neutron flux.
+
+(1) The values of RTMAX-AW, RTMAX-PL, RTMAX-FO, and RTMAX-CW must be determined using Equations 1 through 4 of this section. When calculating RTMAX-AW using Equation 1, RTMAX-AW is the maximum value of (RTNDT(U) + ΔT30) for the weld and for the adjoining plates. When calculating RTMAX-CW using Equation 4, RTMAX-CW is the maximum value of (RTNDT(U) + ΔT30) for the circumferential weld and for the adjoining plates or forgings.
+
+(2) The values of ΔT30 must be determined using Equations 5, 6 and 7 of this section, unless the conditions specified in paragraph (f)(6)(v) of this section are not met, for each axial weld, plate, forging, and circumferential weld. The ΔT30 value for each axial weld calculated as specified by Equation 1 of this section must be calculated for the maximum fluence (φtAXIAL-WELD) occurring along a particular axial weld at the clad-to-base metal interface. The ΔT30 value for each plate calculated as specified by Equation 1 of this section must also be calculated using the same value of φtAXIAL-WELD used for the axial weld. The ΔT30 values in Equation 1 shall be calculated for the weld itself and each adjoining plate. The ΔT30 value for each plate or forging calculated as specified by Equations 2 and 3 of this section must be calculated for the maximum fluence (φtMAX) occurring at the clad-to-base metal interface over the entire area of each plate or forging. In Equation 4, the fluence (φtWELD-CIRC) value used for calculating the plate, forging, and circumferential weld ΔT30 value is the maximum fluence occurring for each material along the circumferential weld at the clad-to-base metal interface. The ΔT30 values in Equation 4 shall be calculated for the circumferential weld and for the adjoining plates or forgings. If the conditions specified in paragraph (f)(6)(v) of this section are not met, licensees must propose ΔT30 and RTMAX-X values in accordance with paragraph (f)(6)(vi) of this section.
+
+(3) The values of Cu, Mn, P, and Ni in Equations 6 and 7 of this section must represent the best estimate values for the material. For a plate or forging, the best estimate value is normally the mean of the measured values for that plate or forging. For a weld, the best estimate value is normally the mean of the measured values for a weld deposit made using the same weld wire heat number as the critical vessel weld. If these values are not available, either the upper limiting values given in the material specifications to which the vessel material was fabricated, or conservative estimates (*i.e.,* mean plus one standard deviation) based on generic data4 as shown in Table 4 of this section for P and Mn, must be used.
+
+4 Data from reactor vessels fabricated to the same material specification in the same shop as the vessel in question and in the same time is an example of “generic data.”
+
+(4) The values of RTNDT(U) must be evaluated according to the procedures in the ASME Code, Section III, paragraph NB-2331. If any other method is used for this evaluation, the licensee shall submit the proposed method for review and approval by the Director along with the calculation of RTMAX-X values required in paragraph (c)(1) of this section.
+
+(i) If a measured value of RTNDT(U) is not available, a generic mean value of RTNDT(U) for the class5 of material must be used if there are sufficient test results to establish a mean.
+
+5 The class of material for estimating RTNDT(U) must be determined by the type of welding flux (Linde 80, or other) for welds or by the material specification for base metal.
+
+(ii) The following generic mean values of RTNDT(U) must be used unless justification for different values is provided: 0 °F for welds made with Linde 80 weld flux; and −56 °F for welds made with Linde 0091, 1092, and 124 and ARCOS B-5 weld fluxes.
+
+(5) The value of TC in Equation 6 of this section must represent the time-weighted average of the reactor cold leg temperature under normal operating full power conditions from the beginning of full power operation through the end of licensed operation.
+
+(6) The licensee shall verify that an appropriate RTMAX-X value has been calculated for each reactor vessel beltline material by considering plant-specific information that could affect the use of the model (*i.e.,* Equations 5, 6 and 7) of this section for the determination of a material's ΔT30 value.
+
+(i) The licensee shall evaluate the results from a plant-specific or integrated surveillance program if the surveillance data satisfy the criteria described in paragraphs (f)(6)(i)(A) and (f)(6)(i)(B) of this section:
+
+(A) The surveillance material must be a heat-specific match for one or more of the materials for which RTMAX-X is being calculated. The 30-foot-pound transition temperature must be determined as specified by the requirements of 10 CFR part 50, Appendix H.
+
+(B) If three or more surveillance data points measured at three or more different neutron fluences exist for a specific material, the licensee shall determine if the surveillance data show a significantly different trend than the embrittlement model predicts. This must be achieved by evaluating the surveillance data for consistency with the embrittlement model by following the procedures specified by paragraphs (f)(6)(ii), (f)(6)(iii), and (f)(6)(iv) of this section. If fewer than three surveillance data points exist for a specific material, then the embrittlement model must be used without performing the consistency check.
+
+(ii) The licensee shall estimate the mean deviation from the embrittlement model for the specific data set (*i.e.,* a group of surveillance data points representative of a given material). The mean deviation from the embrittlement model for a given data set must be calculated using Equations 8 and 9 of this section. The mean deviation for the data set must be compared to the maximum heat-average residual given in Table 5 or derived using Equation 10 of this section. The maximum heat-average residual is based on the material group into which the surveillance material falls and the number of surveillance data points. For surveillance data sets with greater than 8 data points, the maximum credible heat-average residual must be calculated using Equation 10 of this section. The value of σ used in Equation 10 of this section must be obtained from Table 5 of this section.
+
+(iii) The licensee shall estimate the slope of the embrittlement model residuals (estimated using Equation 8) plotted as a function of the base 10 logarithm of neutron fluence for the specific data set. The licensee shall estimate the T-statistic for this slope (TSURV) using Equation 11 and compare this value to the maximum permissible T-statistic (TMAX) in Table 6. For surveillance data sets with greater than 15 data points, the TMAX value must be calculated using Student's T distribution with a significance level (α) of 1 percent for a one-tailed test.
+
+(iv) The licensee shall estimate the two largest positive deviations (*i.e.,* outliers) from the embrittlement model for the specific data set using Equations 8 and 12. The licensee shall compare the largest normalized residual (r \*) to the appropriate allowable value from the third column in Table 7 and the second largest normalized residual to the appropriate allowable value from the second column in Table 7.
+
+(v) The ΔT30 value must be determined using Equations 5, 6, and 7 of this section if all three of the following criteria are satisfied:
+
+(A) The mean deviation from the embrittlement model for the data set is equal to or less than the value in Table 5 or the value derived using Equation 10 of this section;
+
+(B) The T-statistic for the slope (TSURV) estimated using Equation 11 is equal to or less than the Maximum permissible T-statistic (TMAX) in Table 6; and
+
+(C) The largest normalized residual value is equal to or less than the appropriate allowable value from the third column in Table 7 and the second largest normalized residual value is equal to or less than the appropriate allowable value from the second column in Table 7. If any of these criteria is not satisfied, the licensee must propose ΔT30 and RTMAX-X values in accordance with paragraph (f)(6)(vi) of this section.
+
+(vi) If any of the criteria described in paragraph (f)(6)(v) of this section are not satisfied, the licensee shall review the data base for that heat in detail, including all parameters used in Equations 5, 6, and 7 of this section and the data used to determine the baseline Charpy V-notch curve for the material in an unirradiated condition. The licensee shall submit an evaluation of the surveillance data to the NRC and shall propose ΔT30 and RTMAX-X values, considering their plant-specific surveillance data, to be used for evaluation relative to the acceptance criteria of this rule. These evaluations must be submitted for review and approval by the Director in the form of a license amendment in accordance with the requirements of paragraphs (c)(1) and (d)(1) of this section.
+
+(7) The licensee shall report any information that significantly influences the RTMAX-X value to the Director in accordance with the requirements of paragraphs (c)(1) and (d)(1) of this section.
+
+(g) *Equations and variables used in this section.*
+
+![](/graphics/er03fe10.000.gif)![](/graphics/er03fe10.001.gif)![](/graphics/er03fe10.002.gif)![](/graphics/er03fe10.003.gif)![](/graphics/er03fe10.004.gif)![](/graphics/er03fe10.005.gif)![](/graphics/er03fe10.006.gif)Where:P [wt-&%] = phosphorus contentMn [wt-%] = manganese contentNi [wt-%] = nickel contentCu [wt-%] = copper contentA = 1.140 × 10−7 for forgingsA = 1.561 × 10−7 for platesA = 1.417 × 10−7 for weldsB = 102.3 for forgingsB = 102.5 for plates in non-Combustion Engineering manufactured vesselsB = 135.2 for plates in Combustion Engineering vesselsB = 155.0 for weldsφte = φt for φ ≥4.39 × 1010 n/cm2/secφte = φt × (4.39 × 1010/φ)0.2595 for φ \<4.39 × 1010 n/cm2/secWhere:φ [n/cm2/sec] = average neutron fluxt [sec] = time that the reactor has been in full power operationφt [n/cm2] = φ × tf(Cue,P) = 0 for Cu ≤0.072f(Cue,P) = [Cue−0.072]0.668 for Cu \>0.072 and P ≤0.008f(Cue,P) = [Cue−0.072 + 1.359 × (P−0.008)]0.668 for Cu \>0.072 and P \>0.008Where:Cue = 0 for Cu ≤0.072Cue = MIN (Cu, maximum Cue) for Cu \>0.072maximum Cue = 0.243 for Linde 80 weldsmaximum Cue = 0.301 for all other materialsg(Cue,Ni,φte) = 0.5 + (0.5 × tanh {[log10(φte) + (1.1390 × Cue)−(0.448 × Ni)−18.120]/0.629}Equation 8: Residual (r) = measured ΔT30−predicted ΔT30 (by Equations 5, 6 and 7)![](/graphics/er03fe10.007.gif)Equation 10: Maximum credible heat-average residual = 2.33σ/n0.5Where:n = number of surveillance data points (sample size) in the specific data setσ = standard deviation of the residuals about the model for a relevant material group given in Table 5.![](/graphics/er03fe10.008.gif)Where:*m* is the slope of a plot of all of the r values (estimated using Equation 8) versus the base 10 logarithm of the neutron fluence for each r value. The slope shall be estimated using the method of least squares.*se(m)* is the least squares estimate of the standard-error associated with the estimated slope value *m.*![](/graphics/er03fe10.009.gif)Where:*r* is defined using Equation 8 and σ is given in Table 5
+
+Table 1 - PTS Screening Criteria
+
+|         Product form and RTMAX-X  <br/>values         |RTMAX-X limits [ °F] for different vessel wall thicknesses<sup>6</sup> (TWALL)|                                |   |
+|-------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------|---|
+|                    TWALL ≤9.5 in.                     |                       9.5 in. \<TWALL  <br/>≤10.5 in.                        |10.5 in. \<TWALL  <br/>≤11.5 in.|   |
+|                 Axial Weld - RTMAX-AW                 |                                     269                                      |              230               |222|
+|                   Plate - RTMAX-PL                    |                                     356                                      |              305               |293|
+|Forging without underclad cracks - RTMAX-FO<sup>7</sup>|                                     356                                      |              305               |293|
+|      Axial Weld and Plate - RTMAX-AW + RTMAX-PL       |                                     538                                      |              476               |445|
+|      Circumferential Weld - RTMAX-CW<sup>8</sup>      |                                     312                                      |              277               |269|
+| Forging with underclad cracks - RTMAX-FO<sup>9</sup>  |                                     246                                      |              241               |239|
+
+<sup>6</sup> Wall thickness is the beltline wall thickness including the clad thickness.
+
+<sup>7</sup> Forgings without underclad cracks apply to forgings for which no underclad cracks have been detected and that were fabricated in accordance with Regulatory Guide 1.43.
+
+<sup>8</sup> RTPTS limits contribute 1 × 10−8 per reactor year to the reactor vessel TWCF.
+
+<sup>9</sup> Forgings with underclad cracks apply to forgings that have detected underclad cracking or were not fabricated in accordance with Regulatory Guide 1.43.
+
+Table 2 - Allowable Number of Flaws in Welds
+
+|Through-wall extent, TWE [in.]|Maximum number of flaws per 1,000-inches of weld length in the inspection volume that are greater than or equal to TWEMIN and less than TWEMAX|         |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------|
+|            TWEMIN            |                                                                    TWEMAX                                                                    |         |
+|              0               |                                                                    0.075                                                                     |No Limit.|
+|            0.075             |                                                                    0.475                                                                     | 166.70. |
+|            0.125             |                                                                    0.475                                                                     | 90.80.  |
+|            0.175             |                                                                    0.475                                                                     | 22.82.  |
+|            0.225             |                                                                    0.475                                                                     |  8.66.  |
+|            0.275             |                                                                    0.475                                                                     |  4.01.  |
+|            0.325             |                                                                    0.475                                                                     |  3.01.  |
+|            0.375             |                                                                    0.475                                                                     |  1.49.  |
+|            0.425             |                                                                    0.475                                                                     |  1.00.  |
+|            0.475             |                                                                   Infinite                                                                   |  0.00.  |
+
+Table 3 - Allowable Number of Flaws in Plates and Forgings
+
+|Through-wall extent, TWE [in.]|Maximum number of flaws per 1,000 square-inches of inside surface area in the inspection volume that are greater than or equal to TWEMIN and less than TWEMAX. This flaw density does not include underclad cracks in forgings|         |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+|            TWEMIN            |                                                                                                            TWEMAX                                                                                                            |         |
+|              0               |                                                                                                            0.075                                                                                                             |No Limit.|
+|            0.075             |                                                                                                            0.375                                                                                                             |  8.05.  |
+|            0.125             |                                                                                                            0.375                                                                                                             |  3.15.  |
+|            0.175             |                                                                                                            0.375                                                                                                             |  0.85.  |
+|            0.225             |                                                                                                            0.375                                                                                                             |  0.29.  |
+|            0.275             |                                                                                                            0.375                                                                                                             |  0.08.  |
+|            0.325             |                                                                                                            0.375                                                                                                             |  0.01.  |
+|            0.375             |                                                                                                           Infinite                                                                                                           |  0.00.  |
+
+Table 4 - Conservative Estimates for Chemical Element Weight Percentages
+
+|Materials|  P  | Mn |
+|---------|-----|----|
+| Plates  |0.014|1.45|
+|Forgings |0.016|1.11|
+|  Welds  |0.019|1.63|
+
+Table 5 - Maximum Heat-Average Residual [ °F] for Relevant Material Groups by Number of Available Data Points (Significance Level = 1%)
+
+|           Material group            |σ [ °F]|Number of available data points|    |    |    |    |    |
+|-------------------------------------|-------|-------------------------------|----|----|----|----|----|
+|                  3                  |   4   |               5               | 6  | 7  | 8  |    |    |
+|        Welds, for Cu \>0.072        | 26.4  |             35.5              |30.8|27.5|25.1|23.2|21.7|
+|       Plates, for Cu \>0.072        | 21.2  |             28.5              |24.7|22.1|20.2|18.7|17.5|
+|      Forgings, for Cu \>0.072       | 19.6  |             26.4              |22.8|20.4|18.6|17.3|16.1|
+|Weld, Plate or Forging, for Cu ≤0.072| 18.6  |             25.0              |21.7|19.4|17.7|16.4|15.3|
+
+Table 6 - TMAX Values for the Slope Deviation Test (Significance Level = 1%)
+
+|Number of available  <br/>data points (n)|TMAX |
+|-----------------------------------------|-----|
+|                    3                    |31.82|
+|                    4                    |6.96 |
+|                    5                    |4.54 |
+|                    6                    |3.75 |
+|                    7                    |3.36 |
+|                    8                    |3.14 |
+|                    9                    |3.00 |
+|                   10                    |2.90 |
+|                   11                    |2.82 |
+|                   12                    |2.76 |
+|                   13                    |2.72 |
+|                   14                    |2.68 |
+|                   15                    |2.65 |
+
+Table 7 - Threshold Values for the Outlier Deviation Test (Significance Level = 1%)
+
+|Number of available data points (n)|Second largest allowable normalized residual value (r\*)|Largest allowable normalized residual value (r\*)|
+|-----------------------------------|--------------------------------------------------------|-------------------------------------------------|
+|                 3                 |                          1.55                          |                      2.71                       |
+|                 4                 |                          1.73                          |                      2.81                       |
+|                 5                 |                          1.84                          |                      2.88                       |
+|                 6                 |                          1.93                          |                      2.93                       |
+|                 7                 |                          2.00                          |                      2.98                       |
+|                 8                 |                          2.05                          |                      3.02                       |
+|                 9                 |                          2.11                          |                      3.06                       |
+|                10                 |                          2.16                          |                      3.09                       |
+|                11                 |                          2.19                          |                      3.12                       |
+|                12                 |                          2.23                          |                      3.14                       |
+|                13                 |                          2.26                          |                      3.17                       |
+|                14                 |                          2.29                          |                      3.19                       |
+|                15                 |                          2.32                          |                      3.21                       |
+
+[75 FR 23, Jan. 4, 2010, as amended at 75 FR 5495, Feb. 3, 2010; 75 FR 10411, Mar. 8, 2010; 75 FR 72653, Nov. 26, 2010]

@@ -1,0 +1,7 @@
+##### § 881.7 Administration of contributions. #####
+
+(a) The Government's contribution to a State will be made only pursuant to a cooperative agreement and only upon the basis of payments made, or that are then due and payable, by the State under a project contract between the State and its contractor for the construction, installation, services or work performed on individual projects and shall not exceed 75 percent of such amounts.
+
+(b) The State shall submit to the Director, not more often than once a month and for each cooperative agreement, a separate voucher which describes each payment made or that is due and payable by the State under a project contract. The amounts claimed under each voucher shall be certified by the State as proper charges under the project contract, and the State shall also certify that the amounts have either been paid or are due and payable thereunder. Insofar as the Government's contribution payments related to amounts due and payable rather than amounts already paid, the State shall disburse such funds together with the funds contributed by the State, promptly upon receipt from the Government.
+
+(c) The State shall maintain suitable records and accounts of its transactions with and payments to project contractors, and the Government may inspect and audit such accounts and records during normal business hours and as it may deem necessary.

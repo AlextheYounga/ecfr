@@ -1,0 +1,5 @@
+##### § 63.2160 By what date must I conduct an initial compliance demonstration? #####
+
+(a) For each emission limitation in Table 1 to this subpart for which you demonstrate compliance using the Average Option, you must demonstrate initial compliance for the period ending on the last day of the month that is 12 calendar months (or 11 calendar months, if the compliance date for your affected source is the first day of the month) after the compliance date that is specified for your affected source in § 63.2133.
+
+(b) For each emission limitation in Table 1 to this subpart for which you demonstrate compliance using the Batch Option, you must demonstrate initial compliance for the period ending June 30 or December 31 (use whichever date is the first date following the compliance date that is specified for your affected source in § 63.2133).

@@ -1,0 +1,3 @@
+##### § 434.64 Procedure and method detection limit for measurement of settleable solids. #####
+
+For the purposes of this part, the following procedure shall be used to determine settleable solids: Fill an Imhoff cone to the one-liter mark with a thoroughly mixed sample. Allow to settle undisturbed for 45 minutes. Gently stir along the inside surface of the cone with a stirring rod. Allow to settle undisturbed for 15 minutes longer. Record the volume of settled material in the cone as milliliters per liter. Where a separation of settleable and floating materials occurs, do not include the floating material in the reading. Notwithstanding any provision of 40 CFR part 136, the method detection limit for measuring settleable solids under this part shall be 0.4 ml/l.

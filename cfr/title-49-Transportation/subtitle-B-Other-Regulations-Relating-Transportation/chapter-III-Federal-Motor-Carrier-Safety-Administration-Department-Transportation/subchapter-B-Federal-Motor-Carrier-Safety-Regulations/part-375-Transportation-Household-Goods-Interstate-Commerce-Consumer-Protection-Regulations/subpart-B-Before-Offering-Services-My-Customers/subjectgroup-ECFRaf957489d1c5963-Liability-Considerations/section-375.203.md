@@ -1,0 +1,7 @@
+##### § 375.203 What actions of an individual shipper may limit or reduce my normal liability? #####
+
+(a) If an individual shipper includes perishable, dangerous, or hazardous articles in the shipment without your knowledge, you need not assume liability for those articles or for the loss or damage caused by their inclusion in the shipment. If the shipper requests that you accept such articles for transportation, you may elect to limit your liability for any loss or damage by appropriately published tariff provisions.
+
+(b) If an individual shipper agrees to ship household goods released at a value greater than 60 cents per pound ($1.32 per kilogram) per article, your liability for loss and damage may be limited to $100 per pound ($220 per kilogram) per article if the individual shipper fails to notify you in writing of articles valued at more than $100 per pound ($220 per kilogram).
+
+(c) If an individual shipper notifies you in writing that an article valued at greater than $100 per pound ($220 per kilogram) will be included in the shipment, the shipper will be entitled to full recovery up to the declared value of the article or articles, not to exceed the declared value of the entire shipment.

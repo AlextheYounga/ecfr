@@ -1,0 +1,5 @@
+##### § 470.12 Management. #####
+
+(a) The program shall be managed by a National Program Director within the Office of the Assistant Secretary for Conservation and Solar Energy of DOE.
+
+(b) The program shall be implemented regionally, based on the 10 standard Federal regions or combinations thereof, to insure substantial consideration of the needs, resources, and special circumstances of local communities. Regions may be combined provided the requirements of Office of Management and Budget Circular A-106 entitled “Standard Federal Regulations” are met. Regional Program Managers shall design and manage the regional programs as directed by the National Program Director and shall consult, as appropriate, with State and local officials, the appropriate technology community and other interested parties.

@@ -1,0 +1,5 @@
+##### § 123.30 Judicial review of approval or denial of permits. #####
+
+All States that administer or seek to administer a program under this part shall provide an opportunity for judicial review in State Court of the final approval or denial of permits by the State that is sufficient to provide for, encourage, and assist public participation in the permitting process. A State will meet this standard if State law allows an opportunity for judicial review that is the same as that available to obtain judicial review in federal court of a federally-issued NPDES permit (see § 509 of the Clean Water Act). A State will not meet this standard if it narrowly restricts the class of persons who may challenge the approval or denial of permits (for example, if only the permittee can obtain judicial review, if persons must demonstrate injury to a pecuniary interest in order to obtain judicial review, or if persons must have a property interest in close proximity to a discharge or surface waters in order to obtain judicial review.) This requirement does not apply to Indian Tribes.
+
+[61 FR 20980, May 8, 1996]

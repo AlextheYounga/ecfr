@@ -1,0 +1,3 @@
+##### § 267.117 How do I certify closure? #####
+
+Within 60 days of the completion of final closure of each unit under a part 270 subpart J standardized permit, you must submit to the Director, by registered mail, a certification that each hazardous waste management unit or facility, as applicable, has been closed following the specifications in the closure plan. Both you and an independent registered professional engineer must sign the certification. You must furnish documentation supporting the independent registered professional engineer's certification to the Director upon request until he releases you from the financial assurance requirements for closure under § 267.143(i).

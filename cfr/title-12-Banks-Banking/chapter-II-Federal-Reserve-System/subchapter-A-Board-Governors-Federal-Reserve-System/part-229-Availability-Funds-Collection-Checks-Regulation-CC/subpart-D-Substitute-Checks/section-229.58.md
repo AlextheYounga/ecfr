@@ -1,0 +1,3 @@
+##### § 229.58 Mode of delivery of information. #####
+
+A bank may deliver any notice or other information that it is required to provide under this subpart by United States mail or by any other means through which the recipient has agreed to receive account information. If a bank is required to provide an original check or a sufficient copy, the bank instead may provide an electronic image of the original check or sufficient copy if the recipient has agreed to receive that information electronically.

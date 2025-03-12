@@ -1,0 +1,5 @@
+##### § 40.227 May employers use the ATF for non-DOT tests, or non-DOT forms for DOT tests? #####
+
+(a) No, as an employer, BAT, or STT, you are prohibited from using the ATF for non-DOT alcohol tests. You are also prohibited from using non-DOT forms for DOT alcohol tests. Doing either subjects you to enforcement action under DOT agency regulations.
+
+(b) If the STT or BAT, either by mistake, or as the only means to conduct a test under difficult circumstances (*e.g.,* post-accident test with insufficient time to obtain the ATF), uses a non-DOT form for a DOT test, the use of a non-DOT form does not, in and of itself, require the employer or service agent to cancel the test. However, in order for the test to be considered valid, a signed statement must be obtained from the STT or BAT in accordance with § 40.271(b) .

@@ -1,0 +1,5 @@
+##### 846.302-70 Guarantee clause. #####
+
+(a) The contracting officer shall insert the clause at 852.246-70, Guarantee, in solicitations for the acquisition of equipment.
+
+(b) If it is industry policy to furnish, but not install, replacement material and parts at the contractor's expense, the last sentence of the clause at 852.248-70 will be changed to indicate that cost of installation shall be borne by the Government. Where it is industry policy to guarantee components for the life of the equipment (e.g., crystals in transmitters and receivers in radio communications systems) or to require that highly technical equipment be returned to the factory (at the contractor's or the Government's expense) for replacement of defective materials or parts, then the clause will be revised to be compatible with such policy.

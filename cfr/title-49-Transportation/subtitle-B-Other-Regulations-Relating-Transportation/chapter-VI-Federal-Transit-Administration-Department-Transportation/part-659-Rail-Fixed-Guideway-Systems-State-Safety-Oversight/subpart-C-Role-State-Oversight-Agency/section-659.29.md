@@ -1,0 +1,3 @@
+##### § 659.29 Oversight agency safety and security reviews. #####
+
+At least every three (3) years, beginning with the initiation of rail transit agency passenger operations, the oversight agency must conduct an on-site review of the rail transit agency's implementation of its system safety program plan and system security plan. Alternatively, the on-site review may be conducted in an on-going manner over the three year timeframe. At the conclusion of the review cycle, the oversight agency must prepare and issue a report containing findings and recommendations resulting from that review, which, at a minimum, must include an analysis of the effectiveness of the system safety program plan and the security plan and a determination of whether either should be updated.

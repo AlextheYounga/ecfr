@@ -1,0 +1,3 @@
+##### § 56.501 Applicability. #####
+
+The regulations of this subpart, in addition to the regulations of subpart A of this part, are applicable to grants awarded pursuant to section 319(c)(1)(B) of the Act for projects to plan and develop migrant health programs to provide health services to migratory agricultural workers, seasonal agricultural workers and the members of their families in areas in which no migrant health center exists and in which not more than 6,000 migratory agricultural workers and their families reside for more than two months.

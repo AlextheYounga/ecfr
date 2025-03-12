@@ -1,0 +1,17 @@
+##### § 63.1082 What definitions do I need to know? #####
+
+(a) Unless defined in paragraph (b) of this section, definitions for terms used in this subpart are provided in the Clean Air Act, § 63.1103(e), and 40 CFR 61.341.
+
+(b) The following definitions apply to terms used in this subpart:
+
+*Continuous butadiene waste stream* means the continuously flowing process wastewater from the following equipment: The aqueous drain from the debutanizer reflux drum, water separators on the C4 crude butadiene transfer piping, and the C4 butadiene storage equipment; and spent wash water from the C4 crude butadiene carbonyl wash system. The continuous butadiene waste stream does not include butadiene streams generated from sampling, maintenance activities, or shutdown purges. The continuous butadiene waste stream does not include butadiene streams from equipment that is currently an affected source subject to the control requirements of another NESHAP. The continuous butadiene waste stream contains less than 10 parts per million by weight (ppmw) of benzene.
+
+*Dilution steam blowdown waste stream* means any continuously flowing process wastewater stream resulting from the quench and compression of cracked gas (the cracking furnace effluent) at an ethylene production unit and is discharged from the unit. This stream typically includes the aqueous or oily-water stream that results from condensation of dilution steam (in the cracking furnace quench system), blowdown from dilution steam generation systems, and aqueous streams separated from the process between the cracking furnace and the cracked gas dehydrators. The dilution steam blowdown waste stream does not include blowdown that has not contacted HAP-containing process materials. Before July 6, 2023, the dilution steam blowdown waste stream does not include dilution steam blowdown streams generated from sampling, maintenance activities, or shutdown purges. Beginning on July 6, 2023, the dilution steam blowdown streams generated from sampling, maintenance activities, or shutdown purges are included in the definition of dilution steam blowdown waste stream.
+
+*Heat exchange system* means any cooling tower system or once-through cooling water system (e.g., river or pond water). A heat exchange system can include more than one heat exchanger and can include an entire recirculating or once-through cooling system.
+
+*Process wastewater* means water which comes in contact with benzene or butadiene during manufacturing or processing operations conducted within an ethylene production unit. Process wastewater is not organic wastes, process fluids, product tank drawdown, cooling water blowdown, steam trap condensate, or landfill leachate. Process wastewater includes direct-contact cooling water.
+
+*Spent caustic waste stream* means the continuously flowing process wastewater stream that results from the use of a caustic wash system in an ethylene production unit. A caustic wash system is commonly used at ethylene production units to remove acid gases and sulfur compounds from process streams, typically cracked gas. Before July 6, 2023, the spent caustic waste stream does not include spent caustic streams generated from sampling, maintenance activities, or shutdown purges. Beginning on July 6, 2023, the spent caustic streams generated from sampling, maintenance activities, or shutdown purges are included in the definition of spent caustic waste stream.
+
+[67 FR 46271, July 12, 2002, as amended at 85 FR 40419, July 6, 2020]

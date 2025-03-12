@@ -1,0 +1,3 @@
+##### § 390.269 Prohibition on loan procurement fees. #####
+
+If you are a director, officer, or other natural person having the power to direct the management or policies of a State savings association, you must not receive, directly or indirectly, any commission, fee, or other compensation in connection with the procurement of any loan made by the State savings association or a subsidiary of the State savings association.

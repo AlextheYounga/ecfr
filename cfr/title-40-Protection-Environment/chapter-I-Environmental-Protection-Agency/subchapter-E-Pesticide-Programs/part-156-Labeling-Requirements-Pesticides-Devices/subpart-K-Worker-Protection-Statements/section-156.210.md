@@ -1,0 +1,9 @@
+##### § 156.210 Notification-to-workers statements. #####
+
+(a) *Requirement.* Each product that meets the requirements of paragraph (b) of this section shall bear the posting and oral notification statements prescribed below. The statements shall be in the DIRECTIONS FOR USE section of the labeling under the heading AGRICULTURAL USE REQUIREMENTS.
+
+(b) *Notification to workers of pesticide application.* (1) Each product that contains any active ingredient classified as toxicity category I for either acute dermal toxicity or skin irritation potential under the criteria in § 156.62 shall bear the statement: “Notify workers of the application by warning them orally and by posting warning signs at entrances to treated areas.” If no acute dermal toxicity data are obtainable, data on acute oral toxicity of the active ingredient shall be considered instead. If no data on acute dermal toxicity, skin irritation potential, or acute oral toxicity are obtainable on the active ingredient, the toxicity category corresponding to the signal word of any registered manufacturing-use product that is the source of the active ingredient in the end-use product shall be used. If none of the applicable acute toxicity data are obtainable on the active ingredient and no toxicity category of the registered manufacturing-use product is obtainable, the toxicity category of the end-use product corresponding to the product's signal word shall be used.
+
+(2) Each product that is a fumigant and is registered for use in a greenhouse (or whose labeling allows use in a greenhouse) shall bear the statement: “For greenhouse applications, notify workers of the application by warning them orally and by posting warning signs outside all entrances to the greenhouse.”
+
+[57 FR 38146, Aug. 21, 1992, as amended at 58 FR 34203, June 23, 1993; 73 FR 75596, Dec. 12, 2008]

@@ -1,0 +1,61 @@
+##### § 86.1866-12 CO2 credits for advanced technology vehicles. #####
+
+This section describes how to apply CO2 credits for advanced technology passenger automobiles and light trucks (including MDPV). This section does not apply for heavy-duty vehicles that are not MDPV.
+
+(a) Battery electric vehicles, plug-in hybrid electric vehicles, and fuel cell vehicles that are certified and produced for sale in the states and territories of the United States may use a value of zero grams CO2 per mile to represent the proportion of electric operation of a vehicle that is derived from electricity generated from sources that are not onboard the vehicle.
+
+(b) For electric vehicles, plug-in hybrid electric vehicles, fuel cell vehicles, dedicated natural gas vehicles, and dual-fuel natural gas vehicles as those terms are defined in § 86.1803-01, that are certified and produced for U.S. sale in the specified model years and that meet the additional specifications in this section, the manufacturer may use the production multipliers in this paragraph (b) when determining additional credits for advanced technology vehicles. Full size pickup trucks eligible for and using a production multiplier are not eligible for the strong hybrid-based credits described in § 86.1870-12(a)(2) or the performance-based credits described in § 86.1870-12(b).
+
+(1) The following production multipliers apply for model year 2017 through 2025 vehicles:
+
+|Model year|Electric  <br/>vehicles and  <br/>fuel cell  <br/>vehicles|Plug-in hybrid  <br/>electric  <br/>vehicles|Dedicated and dual-fuel  <br/>natural gas  <br/>vehicles|
+|----------|----------------------------------------------------------|--------------------------------------------|--------------------------------------------------------|
+|   2017   |                           2.0                            |                    1.6                     |                          1.6                           |
+|   2018   |                           2.0                            |                    1.6                     |                          1.6                           |
+|   2019   |                           2.0                            |                    1.6                     |                          1.6                           |
+|   2020   |                           1.75                           |                    1.45                    |                          1.45                          |
+|   2021   |                           1.5                            |                    1.3                     |                          1.3                           |
+|   2022   |                                                          |                                            |                          2.0                           |
+|2023-2024 |                           1.5                            |                    1.3                     |                                                        |
+
+(2) The minimum all-electric driving range that a plug-in hybrid electric vehicle must have in order to qualify for use of a production multiplier is 10.2 miles on its nominal storage capacity of electricity when operated on the highway fuel economy test cycle. Alternatively, a plug-in hybrid electric vehicle may qualify for use of a production multiplier by having an equivalent all-electric driving range greater than or equal to 10.2 miles during its actual charge-depleting range as measured on the highway fuel economy test cycle and tested according to the requirements of SAE J1711 (incorporated by reference in § 86.1). The equivalent all-electric range of a PHEV is determined from the following formula:
+
+EAER = RCDA × (CO2CS − CO2CD/CO2CS)Where:EAER = the equivalent all-electric range attributed to charge-depleting operation of a plug-in hybrid electric vehicle on the highway fuel economy test cycle.RCDA = The actual charge-depleting range determined according to SAE J1711 (incorporated by reference in § 86.1).CO2CS = The charge-sustaining CO2 emissions in grams per mile on the highway fuel economy test determined according to SAE J1711 (incorporated by reference in § 86.1).CO2CD = The charge-depleting CO2 emissions in grams per mile on the highway fuel economy test determined according to SAE J1711 (incorporated by reference in § 86.1).
+
+(3) The actual production of qualifying vehicles may be multiplied by the applicable value according to the model year, and the result, rounded to the nearest whole number, may be used to represent the production of qualifying vehicles when calculating average carbon-related exhaust emissions under § 600.512 of this chapter.
+
+(c) Calculating multiplier-based credits for advanced technology vehicles: This paragraph (c) describes the method for calculating credits using the production multipliers in paragraph (b) of this section. Production multipliers must be used according to this paragraph (c) and must not be used in calculating fleet average carbon-related exhaust emissions under 40 CFR part 600 or § 86.1865-12(i), or in any elements of the equation used for the calculation of CO2 credits or debits in § 86.1865-12(k)(4). Calculate credits for advanced technology vehicles for a given model year, and separately for passenger automobiles and light trucks, using the following equation, subtracting the credits calculated for the base fleet from the credits calculated for the fleet with multipliers applied. No credits are earned if the result is a negative value. All values expressed in megagrams shall be rounded to the nearest whole number.
+
+*Credits* [*Mg*] = [*Credits*adj]−[*Credits*base]
+
+(1) For model year 2017-2021 multipliers, determine adjusted fleet credits (Creditsadj) in megagrams using one of the following methods, where the resulting Creditsadj is rounded to the nearest whole number. Use the method that returns the highest total megagrams. For 2022 and later model years, determine adjusted fleet credits (Creditsadj) in megagrams using only Method 1 in paragraph (c)(1)(i) of this section, where the resulting Creditsadj is rounded to the nearest whole number. Note that the adjusted CO2 standard (Sadj) and the adjusted fleet average carbon-related exhaust emissions (Eadj) are determined solely for the purpose of calculating advanced technology vehicle credits in this section; the official CO2 standard applicable to the fleet will continue to be the value calculated and rounded according to § 86.1818-12(c), and the official fleet average carbon-related exhaust emissions applicable to the fleet will continue to be the value calculated and rounded according to 40 CFR 600.510-12(j). In addition, note that the rounding requirements in this section differ from those specified for the official fleet standards calculated under § 86.1818-12 and for the official fleet average carbon-related exhaust emissions calculated under 40 CFR 600.510-12.
+
+(i) Method 1: All values that determine fleet credits are adjusted using the applicable multipliers.
+
+![](/graphics/er23ap20.028.gif)Where:Sadj = adjusted CO2 standard calculated according to the method described in § 86.1818-12(c), except that the actual production of qualifying vehicles under this section shall be multiplied by the applicable production multiplier, and no rounding shall be applied to the result.Eadj = adjusted production-weighted fleet average carbon-related exhaust emissions calculated according to the method described in 40 CFR 600.510-12(j), except that the actual production of qualifying vehicles under this section shall be multiplied by the applicable production multiplier, and no rounding shall be applied to the result.Padj = total adjusted production of passenger automobiles or light trucks, except that the actual production of qualifying vehicles under this section shall be multiplied by the applicable production multiplier, and no rounding shall be applied to the result.VLM = vehicle lifetime miles, which for passenger automobiles shall be 195,264 and for light trucks shall be 225,865.
+
+(ii) Method 2: Multipliers are applied only to calculation of the fleet average carbon-related exhaust emissions.
+
+![](/graphics/er23ap20.029.gif)Sbase = CO2 standard calculated according to the method described in § 86.1818-12(c), except that no rounding shall be applied to the result.Eadj = adjusted production-weighted fleet average carbon-related exhaust emissions calculated according to the method described in 40 CFR 600.510-12(j), except that the actual production of qualifying vehicles under this section shall be multiplied by the applicable production multiplier, and no rounding shall be applied to the result.Pbase = total production of passenger automobiles or light trucks.VLM = vehicle lifetime miles, which for passenger automobiles shall be 195,264 and for light trucks shall be 225,865.
+
+(2) Determine base fleet credits in megagrams using the following equation and rounding the result to the nearest whole number. Do not adjust any production volume values with a multiplier. Note that the CO2 standard (Sbase) and the fleet average carbon-related exhaust emissions (Ebase) are determined solely for the purpose of calculating advanced technology vehicle credits in this section and do not replace the official fleet values; the official CO2 standard applicable to the fleet will continue to be the value calculated and rounded according to § 86.1818-12(c), and the official fleet average carbon-related exhaust emissions applicable to the fleet will continue to be the value calculated and rounded according to 40 CFR 600.510-12(j). In addition, note that the rounding requirements in this section differ from those specified for the official fleet standards calculated under § 86.1818-12 and for the official fleet average carbon-related exhaust emissions calculated under 40 CFR 600.510-12.
+
+![](/graphics/er23ap20.030.gif)Sbase = CO2 standard calculated according to the method described in § 86.1818-12(c), except that no rounding shall be applied to the result.Ebase = production-weighted fleet average carbon-related exhaust emissions calculated according to the method described in 40 CFR 600.510-12(j), except that no rounding shall be applied to the result.Pbase = total production of passenger automobiles or light trucks.VLM = vehicle lifetime miles, which for passenger automobiles shall be 195,264 and for light trucks shall be 225,865.
+
+(3) Multiplier-based credits for model years 2022 through 2024 may not exceed credit caps, as follows:
+
+(i) Calculate a nominal annual credit cap in Mg using the following equation, rounded to the nearest whole number:
+
+![](/graphics/er18ap24.051.gif)Where:*P*auto = total number of certified passenger automobiles the manufacturer produced in a given model year for sale in any state or territory of the United States.*P*truck = total number of certified light trucks (including MDPV) the manufacturer produced in a given model year for sale in any state or territory of the United States.
+
+(ii) Calculate an annual g/mile equivalent value for the multiplier-based credits using the following equation, rounded to the nearest 0.1 g/mile:
+
+![](/graphics/er18ap24.052.gif)Where:*annual credits* = a manufacturer's total multiplier-based credits in a given model year from all passenger automobiles and light trucks as calculated under this paragraph (c).
+
+(iii) Calculate a cumulative g/mile equivalent value for the multiplier-based credits in each year by adding the annual g/mile equivalent values calculated under paragraph (c)(3)(ii) of this section.
+
+(iv) The cumulative g/mile equivalent value may not exceed 10.0 in any year.
+
+(v) For every year of certifying with multiplier-based credits, the annual credit report must include the calculated values for the nominal annual credit cap in Mg and the cumulative g/mile equivalent value.
+
+[77 FR 63164, Oct. 15, 2012, as amended at 81 FR 73996, Oct. 25, 2016; 85 FR 22620, Apr. 23, 2020; 85 FR 25269, Apr. 30, 2020; 86 FR 74524, Dec. 30, 2021; 89 FR 28194, Apr. 18, 2024]

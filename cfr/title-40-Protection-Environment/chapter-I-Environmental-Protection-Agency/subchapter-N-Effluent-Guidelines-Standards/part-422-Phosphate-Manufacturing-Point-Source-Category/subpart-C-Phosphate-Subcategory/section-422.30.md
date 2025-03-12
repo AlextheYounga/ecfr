@@ -1,0 +1,3 @@
+##### § 422.30 Applicability; description of the phosphate subcategory. #####
+
+The provisions of this subpart are applicable to discharges of pollutants resulting from the manufacture of sodium tripolyphosphate, animal feed grade, calcium phosphate and human food grade calcium phosphate from phosphoric acid. The production of human food grade calcium phosphate creates waste water pollutants not completely amenable to the procedures utilized for best practicable control technology currently available. The standards set for human food grade calcium phosphates accordingly must differ from the rest of the subcategory at this level of treatment.

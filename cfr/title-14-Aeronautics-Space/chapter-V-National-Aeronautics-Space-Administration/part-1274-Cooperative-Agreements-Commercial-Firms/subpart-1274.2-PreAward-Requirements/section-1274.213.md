@@ -1,0 +1,3 @@
+##### § 1274.213 Distribution of cooperative agreements. #####
+
+Copies of cooperative agreements and modifications will be provided to: payment office, technical officer, administrative agreement officer when delegation has been made (particularly when administrative functions are delegated to DOD or another agency), NASA Center for Aerospace Information (CASI), Attn: Document Processing Section, 7121 Standard Drive, Hanover, MD 21076, and any other appropriate recipient. Copies of the statement of work, contained in the recipient's proposal and accepted by NASA, will be provided to the administrative agreement officer and CASI. The cooperative agreement file will contain a record of the addresses for distributing agreements and supplements.

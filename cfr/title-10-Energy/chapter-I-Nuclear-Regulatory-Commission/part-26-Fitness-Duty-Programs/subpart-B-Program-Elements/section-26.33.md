@@ -1,0 +1,3 @@
+##### § 26.33 Behavioral observation. #####
+
+Licensees and other entities shall ensure that the individuals who are subject to this subpart are subject to behavioral observation. Behavioral observation must be performed by individuals who are trained under § 26.29 to detect behaviors that may indicate possible use, sale, or possession of illegal drugs; use or possession of alcohol on site or while on duty; or impairment from fatigue or any cause that, if left unattended, may constitute a risk to public health and safety or the common defense and security. Individuals who are subject to this subpart shall report any FFD concerns about other individuals to the personnel designated in the FFD policy.

@@ -1,0 +1,3 @@
+##### § 543.5 Issuance of charter. #####
+
+Approval by the Office of the organization of a Federal savings association or the conversion of an insured association to Federal savings association form shall constitute issuance of a charter and shall be final, provided that the association complies with the procedures set out at § 544.2(a) of this chapter. The charter shall conform with the requirements of § 544.1 of this chapter, the permissible provisions of § 544.2, or other provisions specifically approved by the Office.

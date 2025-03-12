@@ -1,0 +1,3 @@
+##### § 195.30 Failure to remit fee. #####
+
+EPA will not process an application or continue a participant's listing in the National Radon Measurement Proficiency program, individual proficiency component of the RMP program, or the National Radon Contractor Proficiency program until the appropriate remittance provided in § 195.20(a) has been received by EPA. Failure by a currently EPA-listed organization or individual to remit the required fees in a timely manner will result in the loss of that organization's or individual's listing status as specified in § 195.20(c).

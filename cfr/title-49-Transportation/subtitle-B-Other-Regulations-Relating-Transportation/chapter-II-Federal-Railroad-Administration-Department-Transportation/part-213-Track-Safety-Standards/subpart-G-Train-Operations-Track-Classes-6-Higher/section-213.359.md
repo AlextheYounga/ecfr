@@ -1,0 +1,5 @@
+##### § 213.359 Track stiffness. #####
+
+(a) Track shall have a sufficient vertical strength to withstand the maximum vehicle loads generated at maximum permissible train speeds, cant deficiencies and surface defects. For purposes of this section, vertical track strength is defined as the track capacity to constrain vertical deformations so that the track shall return following maximum load to a configuration in compliance with the vehicle/track interaction safety limits and geometry requirements of this subpart.
+
+(b) Track shall have sufficient lateral strength to withstand the maximum thermal and vehicle loads generated at maximum permissible train speeds, cant deficiencies and lateral alinement defects. For purposes of this section lateral track strength is defined as the track capacity to constrain lateral deformations so that track shall return following maximum load to a configuration in compliance with the vehicle/track interaction safety limits and geometry requirements of this subpart.

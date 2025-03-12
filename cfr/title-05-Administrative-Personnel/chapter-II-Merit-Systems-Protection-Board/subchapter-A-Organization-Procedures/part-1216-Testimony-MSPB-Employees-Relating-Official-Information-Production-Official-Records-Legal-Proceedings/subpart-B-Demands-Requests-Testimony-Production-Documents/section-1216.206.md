@@ -1,0 +1,3 @@
+##### § 1216.206 Final determination. #####
+
+The General Counsel makes the final determination on demands to requests to employees for production of official records and information or testimony in litigation in which the MSPB is not a party. All final determinations are within the sole discretion of the General Counsel. The General Counsel will notify the requester and, when appropriate, the court of other competent authority of the final determination, the reasons for the grant or denial of the request, and any conditions that the General Counsel may impose on the release of records or information, or on the testimony of an MSPB employee. The General Counsel's decision exhausts administrative remedies for discovery of the information.

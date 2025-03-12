@@ -1,0 +1,3 @@
+##### § 61.17 Termination on grounds other than those relating to moral character or loyalty. #####
+
+The Surgeon General may terminate a fellowship upon receipt from the fellow of a written request for termination. The Surgeon General shall terminate any fellowship prior to the date it would otherwise expire if he determines that the fellow's performance is unsatisfactory or that the fellow or the sponsoring institution is unfit or unable to carry out the purpose of the fellowship. The fellow and the sponsoring institution shall be notified in writing of such termination.

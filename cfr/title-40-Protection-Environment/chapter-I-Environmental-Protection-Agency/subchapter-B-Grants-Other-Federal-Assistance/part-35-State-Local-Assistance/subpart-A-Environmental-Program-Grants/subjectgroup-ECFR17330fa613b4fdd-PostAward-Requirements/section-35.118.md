@@ -1,0 +1,3 @@
+##### § 35.118 Unexpended balances. #####
+
+Subject to any relevant provisions of law, if a recipient's Financial Status Report shows unexpended balances, the Regional Administrator will deobligate the unexpended balances and make them available, to either the same recipient in the same region or other eligible recipients, including Indian Tribes and Tribal Consortia, for environmental program grants.

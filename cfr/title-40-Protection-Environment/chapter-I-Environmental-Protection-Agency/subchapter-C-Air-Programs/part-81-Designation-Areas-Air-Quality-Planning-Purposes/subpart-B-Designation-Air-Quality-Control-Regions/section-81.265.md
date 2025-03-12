@@ -1,0 +1,5 @@
+##### § 81.265 Southeast Illinois Intrastate Air Quality Control Region. #####
+
+The Southeast Illinois Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Illinois: Clay County, Crawford County, Edwards County, Effingham County, Fayette County, Franklin County, Gallatin County, Hamilton County, Hardin County, Jackson County, Jasper County, Jefferson County, Lawrence County, Marion County, Perry County, Richland County, Saline County, Wabash County, Wayne County, White County, Williamson County.

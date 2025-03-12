@@ -1,0 +1,3 @@
+##### § 137.421 How does an Indian Tribe request an informal conference? #####
+
+The Indian Tribe must file its request for an informal conference with the office of the person whose decision it is appealing, within 30 days of the day it receives the decision. The Indian Tribe may either hand-deliver the request for an informal conference to that person's office, or mail it by certified mail, return receipt requested. If the Indian Tribe mails the request, it will be considered filed on the date the Indian Tribe mailed it by certified mail.

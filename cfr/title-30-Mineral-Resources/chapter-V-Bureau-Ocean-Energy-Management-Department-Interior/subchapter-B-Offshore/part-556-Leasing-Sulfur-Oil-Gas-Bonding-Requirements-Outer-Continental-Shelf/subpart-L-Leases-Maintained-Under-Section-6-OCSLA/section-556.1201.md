@@ -1,0 +1,3 @@
+##### § 556.1201 Section 6(a) leases and leases other than those for oil, gas, or sulfur. #####
+
+The existence of an oil and gas lease maintained under section 6(a) of the Act precludes only the issuance in the same area of an oil and gas lease under OCSLA, but does not preclude the issuance of other types of leases under OCSLA. However, no other lease may authorize or permit the lessee thereunder unreasonably to interfere with or endanger operations under the existing lease. The United States will not grant any sulfur leases on any area that is included in a lease covering sulfur under section 6(b) of the Act.

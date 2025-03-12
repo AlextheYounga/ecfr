@@ -1,0 +1,3 @@
+##### § 9701.354 Setting pay upon demotion. #####
+
+DHS will issue implementing directives regarding how to set an employee's pay when he or she is demoted. The directives must distinguish between demotions under adverse action procedures (as defined in subpart F of this part) and other demotions (e.g., due to expiration of a temporary promotion or canceling of a promotion during a new supervisor's probationary period). A reduction in basic pay upon demotion under adverse action procedures may not exceed 10 percent unless a larger reduction is needed to place the employee at the maximum rate of the lower band.

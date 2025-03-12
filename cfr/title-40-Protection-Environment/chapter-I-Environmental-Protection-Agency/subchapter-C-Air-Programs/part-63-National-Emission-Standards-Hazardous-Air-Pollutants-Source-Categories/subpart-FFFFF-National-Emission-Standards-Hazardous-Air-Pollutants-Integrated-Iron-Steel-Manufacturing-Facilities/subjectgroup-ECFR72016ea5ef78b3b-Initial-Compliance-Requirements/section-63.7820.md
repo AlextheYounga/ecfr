@@ -1,0 +1,21 @@
+##### § 63.7820 By what date must I conduct performance tests or other initial compliance demonstrations? #####
+
+(a) You must conduct a performance test to demonstrate initial compliance with each emission and opacity limit in Table 1 to this subpart that applies to you. You must also conduct a performance test to demonstrate initial compliance with the 30-day rolling average operating limit for the oil content of the sinter plant feedstock in § 63.7790(d)(1) or alternative limit for volatile organic compound emissions from the sinter plant windbox exhaust stream in § 63.7790(d)(2). You must conduct the performance tests within 180 calendar days after the compliance date that is specified in § 63.7783 for your affected source and report the results in your notification of compliance status.
+
+(b) For each operation and maintenance requirement that applies to you where initial compliance is not demonstrated using a performance test or opacity observation, you must demonstrate initial compliance within 30 calendar days after the compliance date that is specified for your affected source in § 63.7783.
+
+(c) If you commenced construction or reconstruction between July 13, 2001 and May 20, 2003, you must demonstrate initial compliance with either the proposed emission limit or the promulgated emission limit no later than November 17, 2003 or no later than 180 days after startup of the source, whichever is later, according to § 63.7(a)(2)(ix).
+
+(d) If you commenced construction or reconstruction between July 13, 2001 and May 20, 2003, and you chose to comply with the proposed emission limit when demonstrating initial compliance, you must conduct a second performance test to demonstrate compliance with the promulgated emission limit by November 17, 2006, or no later than 180 days after startup of the source, whichever is later, according to § 63.7(a)(2)(ix).
+
+(e) Notwithstanding the deadlines in this section, existing and new affected sources must comply with the deadlines for making the initial compliance demonstrations for the BOPF Group mercury emission limit set forth in paragraphs (e)(1) through (4) in this section.
+
+(1) If you have an existing affected BOPF Group or a new or reconstructed affected source for which construction or reconstruction commenced on or before August 16, 2019, and you are demonstrating compliance with the emission limit in Table 1 through performance testing, you must conduct the initial performance test at your BOPF Group to demonstrate compliance with the mercury emission limit in Table 1 no later than July 13, 2021.
+
+(2) If you have a new or reconstructed affected BOPF Group for which construction or reconstruction commenced after August 16, 2019, and you are demonstrating compliance with the emission limit in Table 1 through performance testing, you must conduct the initial performance test at your BOPF Group to demonstrate compliance with the mercury emission limit in Table 1 within 180 days of July 13, 2020 or within 180 days of initial startup of your affected source, whichever is later.
+
+(3) If you have an existing affected BOPF Group or a new or reconstructed affected source for which construction or reconstruction commenced on or before August 16, 2019, and you are demonstrating compliance with the mercury emission limit in Table 1 through the requirements in § 63.7791(c) through (e), you must certify compliance in accordance with § 63.7840(f) in your notification of compliance and in accordance with § 63.7841(b)(11) in your first semiannual compliance report after July 13, 2021.
+
+(4) If you have a new affected BOPF Group or a new or reconstructed affected source for which construction or reconstruction commenced after August 16, 2019, and you are demonstrating compliance with the mercury emission limit in Table 1 through the requirements in § 63.7791(b) through (d), you must certify compliance in accordance with § 63.7840(f) in your initial notification of compliance and in accordance with § 63.7841(b)(11) in your first semiannual compliance report after July 13, 2021 or after initial startup of your BOPF Group, whichever is later.
+
+[68 FR 27663, May 20, 2003, as amended at 85 FR 42116, July 13, 2020; 89 FR 23323, Apr. 3, 2024]

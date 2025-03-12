@@ -1,0 +1,3 @@
+##### § 82.19 How will NIOSH address uncertainty about dose levels? #####
+
+The estimate of each annual dose will be characterized with a probability distribution that accounts for the uncertainty of the estimate. This information will be used by DOL in the calculation of probability of causation, under HHS guidelines for calculating probability of causation estimates at 42 CFR 81. In this way, claimants will receive the benefit of the doubt in cases in which the actual dose may have exceeded the best estimate calculated by NIOSH.

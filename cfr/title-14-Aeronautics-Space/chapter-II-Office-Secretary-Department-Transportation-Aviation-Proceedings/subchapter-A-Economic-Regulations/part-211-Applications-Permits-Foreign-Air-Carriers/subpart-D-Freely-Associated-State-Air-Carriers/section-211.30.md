@@ -1,0 +1,3 @@
+##### § 211.30 Eligibility. #####
+
+Foreign carriers owned and controlled by citizens of the Federated States of Micronesia, the Marshall Islands, Palau and/or the United States may, in accordance with the provisions of paragraph 5(b) of Article IX of the Federal Programs and Services Agreement, implementing section 221(a)(5) of the Compact of Free Association between the United States and those governments, apply for authority as “Freely Associated State Air Carriers.” The permit application for such authority shall be labeled on the front page, “Application for Freely Associated State Foreign Air Carrier Permit.”

@@ -1,0 +1,7 @@
+##### § 50.9 National 1-hour primary and secondary ambient air quality standards for ozone. #####
+
+(a) The level of the national 1-hour primary and secondary ambient air quality standards for ozone measured by a reference method based on appendix D to this part and designated in accordance with part 53 of this chapter, is 0.12 parts per million (235 µg/m3). The standard is attained when the expected number of days per calendar year with maximum hourly average concentrations above 0.12 parts per million (235 µg/m3) is equal to or less than 1, as determined by appendix H to this part.
+
+(b) The 1-hour standards set forth in this section will remain applicable to all areas notwithstanding the promulgation of 8-hour ozone standards under § 50.10. The 1-hour NAAQS set forth in paragraph (a) of this section will no longer apply to an area one year after the effective date of the designation of that area for the 8-hour ozone NAAQS pursuant to section 107 of the Clean Air Act. Area designations and classifications with respect to the 1-hour standards are codified in 40 CFR part 81.
+
+[62 FR 38894, July 18, 1997, as amended at 65 FR 45200, July 20, 2000; 68 FR 38163, June 26, 2003, 69 FR 23996, Apr. 30, 2004; 77 FR 28441, May 14, 2012]

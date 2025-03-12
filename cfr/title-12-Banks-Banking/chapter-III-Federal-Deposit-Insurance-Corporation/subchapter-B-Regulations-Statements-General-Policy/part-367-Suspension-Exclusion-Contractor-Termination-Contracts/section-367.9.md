@@ -1,0 +1,11 @@
+##### § 367.9 Imputation of causes. #####
+
+(a) Where there is cause to suspend and/or exclude any affiliated business entity of the contractor, that conduct may be imputed to the contractor if the conduct occurred in connection with the affiliated business entity's performance of duties for or on behalf of the contractor, or with the contractor's knowledge, approval, or acquiescence. The contractor's acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence.
+
+(b) Where there is cause to suspend and/or exclude any contractor, that conduct may be imputed to any affiliated business entity, key employee, or management official of a contractor who participated in, knew of or had reason to know of the contractor's conduct.
+
+(c) Where there is cause to suspend and/or exclude a key employee or management official of a contractor, that cause may be imputed to the contractor if the conduct occurred in connection with the key employee or management official's performance of duties for or on behalf of the contractor, or with the contractor's knowledge, approval, or acquiescence. The contractor's acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence.
+
+(d) Where there is cause to suspend and/or exclude one contractor participating in a joint venture or similar arrangement, that cause may be imputed to other participating contractors if the conduct occurred for or on behalf of the joint venture or similar arrangement, or with the knowledge, approval, or acquiescence of these contractors. Acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence.
+
+(e) Where there is cause to suspend and/or exclude a subcontractor, that cause may be imputed to the contractor for which the subcontractor performed services, if the conduct occurred for or on behalf of the contractor and with the contractor's knowledge, approval, or acquiescence. Acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence.

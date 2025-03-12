@@ -1,0 +1,3 @@
+##### § 1632.1 Purpose and scope. #####
+
+This part is issued by the Federal Retirement Thrift Investment Board (Board) under section 552b of title 5 of the United States Code, the Government in the Sunshine Act, to carry out the policy of the Act that the public is entitled to the fullest practicable information regarding the decision making processes of the Board while at the same time preserving the rights of individuals and the ability of the Board to carry out its responsibilities. These regulations fulfill the requirement of subsection (g) of the Act that each agency subject to the provisions of the Act shall promulgate regulations to implement the open meeting requirements of subsections (b) through (f) of the Act.

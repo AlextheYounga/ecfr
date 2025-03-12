@@ -1,0 +1,3 @@
+##### § 11.51 May I request that FAA hold a public meeting on a rulemaking action? #####
+
+Yes, you may request that we hold a public meeting. FAA holds a public meeting when we need more than written comments to make a fully informed decision. Submit your written request to the address specified in the rulemaking document on which you are commenting. Specify at the top of your letter or message that you are requesting that the agency hold a public meeting. Submit your request no later than 30 days after our rulemaking notice. If we find good cause for a meeting, we will notify you and publish a notice of the meeting in the Federal Register.

@@ -1,0 +1,7 @@
+##### § 22.813 Technical channel pair assignment criteria. #####
+
+The rules in this section establish technical assignment criteria for the channel pairs listed in § 22.805. These criteria are intended to provide substantial service volumes over areas that have significant local and regional general aviation activity, while maintaining the continuous nationwide in-route coverage of the original geographical layout.
+
+(a) *Distance separation for co-channel ground stations.* The FCC may grant an application requesting assignment of a communication channel pair to a proposed ground transmitter only if the proposed antenna location is at least 800 kilometers (497 miles) from the antenna location of the nearest co-channel ground transmitter in the United States, its territories and possessions; and 1000 kilometers (621 miles) from the antenna location of the nearest co-channel ground transmitter in Canada.
+
+(b) *Dispersion.* The FCC may grant an application requesting assignment of a communication channel pair to a proposed ground transmitter only if there are no more than five different communication channel pairs already assigned to ground transmitters with antenna locations within a 320 kilometer (199 mile) radius of the proposed antenna location.

@@ -1,0 +1,13 @@
+##### § 741.6 Financial and statistical and other reports. #####
+
+(a) Upon written notice from the NCUA Board, Regional Director, Director of the Office of Examination and Insurance, or Director of the Office of National Examinations and Supervision, insured credit unions must file financial and other reports in accordance with the instructions in the notice. Insured credit unions must use NCUA's information management system, or other electronic means specified by NCUA, to submit their data online.
+
+(1) *Credit Union Profile.* Insured credit unions must submit to NCUA a Credit Union Profile, NCUA Form 4501 or its equivalent, within 10 days after an election or appointment of senior management or volunteer officials or within 30 days of any change of the information in the profile.
+
+(2) *Financial and statistical report.* Natural person credit unions must file a Call Report with NCUA quarterly in accordance with the instructions in the NCUA Form 5300. Corporate credit unions must file a Corporate Credit Union Call Report with NCUA monthly in accordance with the instructions in the NCUA Form 5310. Credit unions must submit a corrected Call Report upon notification or the discovery of a need for correction.
+
+(b) *Consistency with GAAP.* The accounts of financial statements and reports required to be filed quarterly under paragraph (a) of this section must reflect GAAP if the credit union has total assets of $10 million or greater, but may reflect regulatory accounting principles other than GAAP if the credit union has total assets of less than $10 million (except that a Federally-insured State-chartered credit union may be required by its state credit union supervisor to follow GAAP regardless of asset size).
+
+(c) *GAAP sources.* GAAP means generally accepted accounting principles, as defined in § 715.2(e) of this chapter. GAAP is distinct from GAAS, which means generally accepted auditing standards, as defined in § 715.2(f) of this chapter. Authoritative sources of GAAP include, but are not limited to, pronouncements of the Financial Accounting Standards Board (FASB) and its predecessor organizations, the Accounting Standards Executive Committee (AcSEC) of the American Institute of Certified Public Accountants (AICPA), the FASB's Emerging Issues Task Force (EITF), and the applicable AICPA Audit and Accounting Guide.
+
+[60 FR 58504, Nov. 28, 1995, as amended at 64 FR 41040, July 29, 1999; 67 FR 12464, Mar. 19, 2002; 71 FR 4034, Jan. 25, 2006; 74 FR 35769, July 21, 2009; 78 FR 32545, May 31, 2013; 78 FR 64885, Oct. 30, 2013]

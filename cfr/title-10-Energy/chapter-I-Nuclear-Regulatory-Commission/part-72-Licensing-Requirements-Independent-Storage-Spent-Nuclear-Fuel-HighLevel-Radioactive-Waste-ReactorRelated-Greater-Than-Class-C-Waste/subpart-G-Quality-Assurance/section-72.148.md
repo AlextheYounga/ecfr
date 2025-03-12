@@ -1,0 +1,3 @@
+##### § 72.148 Procurement document control. #####
+
+The licensee, applicant for a license, certificate holder, and applicant for a CoC shall establish measures to assure that applicable regulatory requirements, design bases, and other requirements which are necessary to assure adequate quality are included or referenced in the documents for procurement of material, equipment, and services, whether purchased by the licensee, certificate holder, or by their contractors and subcontractors. To the extent necessary, the licensee, applicant for a license, certificate holder, and applicant for a CoC, shall require contractors or subcontractors to provide a quality assurance program consistent with the applicable provisions of this subpart.

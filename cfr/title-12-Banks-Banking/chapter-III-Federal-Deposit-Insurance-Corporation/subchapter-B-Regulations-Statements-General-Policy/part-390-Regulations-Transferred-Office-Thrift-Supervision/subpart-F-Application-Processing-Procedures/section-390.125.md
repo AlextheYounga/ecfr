@@ -1,0 +1,3 @@
+##### § 390.125 Will a meeting affect application processing time frames? #####
+
+If the FDIC decides to conduct a meeting, it may suspend applicable application processing time frames, including the time frames for deeming an application complete and the applicable approval time frames in §§ 390.126 through 390.135. If the FDIC suspends applicable application processing time frames, the time period will resume when the FDIC determines that a record has been developed that sufficiently supports a determination on the issues considered at the meeting.

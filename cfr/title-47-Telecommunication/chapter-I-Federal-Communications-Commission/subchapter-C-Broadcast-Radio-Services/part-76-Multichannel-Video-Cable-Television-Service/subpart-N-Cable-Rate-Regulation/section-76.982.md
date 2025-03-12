@@ -1,0 +1,3 @@
+##### § 76.982 Continuation of rate agreements. #####
+
+During the term of an agreement executed before July 1, 1990, by a franchising authority and a cable operator providing for the regulation of basic cable service rates, where there was not effective competition under Commission rules in effect on that date, the franchising authority may regulate basic cable rates without following section 623 of the 1992 Cable Act or §§ 76.910 through 76.942. A franchising authority regulating basic cable rates pursuant to such a rate agreement is not required to file for certification during the remaining term of the agreement but shall notify the Commission of its intent to continue regulating basic cable rates.

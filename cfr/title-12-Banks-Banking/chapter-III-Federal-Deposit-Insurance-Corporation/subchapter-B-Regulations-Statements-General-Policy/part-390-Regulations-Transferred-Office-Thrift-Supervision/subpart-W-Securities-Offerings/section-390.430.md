@@ -1,0 +1,3 @@
+##### § 390.430 Filing of copies of offering circulars in certain exempt offerings. #####
+
+A copy of the offering circular, or similar document, if any, used in connection with an offering exempt from the offering circular requirement of § 390.411 by reason of § 390.412(e) or § 390.413 shall be mailed to the FDIC within 30 days after the first sale of such securities. Such copy of the offering circular, or similar document, is solely for the information of the FDIC and shall not be deemed to be “filed” with the FDIC pursuant to § 390.411. The mailing to the FDIC of such offering circular, or similar document, shall not be a pre-condition of the applicable exemption from the offering circular requirements of § 390.411.

@@ -1,0 +1,3 @@
+##### § 57.2206 Grant award. #####
+
+The Secretary may award scholarship grants to individuals who have been selected to receive scholarship grants in accordance with § 57.2205. Any such award under this subpart shall state the specific conditions under which the award is being made and shall indicate the distribution between funds awarded to cover the costs of tuition and fees payable to the school and funds awarded for the costs of equipment, supplies, books, and living expenses payable to the individual.

@@ -1,0 +1,13 @@
+##### § 1045.17 Classification levels. #####
+
+(a) *Restricted Data.* The Director of Classification shall assign one of the following classification levels to RD information to reflect the sensitivity of the information to the national security. The greater the damage expected from unauthorized disclosure, the higher the classification level assigned to the information.
+
+(1) *Top Secret.* The Director of Classification shall classify RD information Top Secret if it is vital to the national security and if its unauthorized disclosure could reasonably be expected to cause exceptionally grave damage to the national security. Examples of RD information that warrant Top Secret classification include detailed technical descriptions of critical features of a nuclear explosive design that would enable a proliferant or nuclear power to build or substantially improve a nuclear weapon, information that would make possible the unauthorized use of a U.S. nuclear weapon, or information revealing catastrophic failure or operational vulnerability in a U.S. nuclear weapon.
+
+(2) *Secret.* The Director of Classification shall classify RD information as Secret if its unauthorized disclosure could reasonably be expected to cause serious damage to the national security, but the RD information is not sufficiently comprehensive to warrant designation as Top Secret. Examples of RD information that warrant Secret classification include designs for specific weapon components (not revealing critical features), key features of uranium enrichment technologies, or specifications of weapon materials.
+
+(3) *Confidential.* The Director of Classification shall classify RD information as Confidential if it is deemed to be of significant use to a potential adversary or nuclear proliferant and its unauthorized disclosure could reasonably be expected to cause undue risk to the common defense and security. Examples of RD information that warrant Confidential classification are the amount of high explosives used in nuclear weapons, gaseous diffusion design information, and design information for Naval reactors.
+
+(b) *Formerly Restricted Data.* The Director of Classification, jointly with the DoD, shall assign one of the classification levels in paragraph (a) of this section to FRD information to reflect its sensitivity to the national security.
+
+[62 FR 68509, Dec. 31, 1997, as amended at 71 FR 68737, Nov. 28, 2006]

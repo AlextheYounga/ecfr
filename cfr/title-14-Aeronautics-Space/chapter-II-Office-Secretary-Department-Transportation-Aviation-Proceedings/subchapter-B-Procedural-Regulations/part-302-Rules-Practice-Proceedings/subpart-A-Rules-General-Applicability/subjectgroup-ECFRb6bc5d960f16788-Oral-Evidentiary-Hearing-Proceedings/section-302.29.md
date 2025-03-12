@@ -1,0 +1,5 @@
+##### § 302.29 Argument before the administrative law judge. #####
+
+(a) The administrative law judge shall give the parties to the proceeding adequate opportunity during the course of the hearing for the presentation of arguments in support of or in opposition to motions, and objections and exceptions to rulings of the administrative law judge.
+
+(b) When, in the opinion of the administrative law judge, the volume of the evidence or the importance or complexity of the issues involved warrants, he or she may, either on his or her own motion or at the request of a party, permit the presentation of oral argument, and may impose such time limits on the argument as he or she may determine appropriate. Such argument shall be transcribed and bound with the transcript of testimony and will be available to the Department decisionmaker for consideration in deciding the case.

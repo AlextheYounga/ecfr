@@ -1,0 +1,11 @@
+##### § 614.4590 Equitable treatment of OFIs and Farm Credit System associations. #####
+
+(a) Each Farm Credit Bank and agricultural credit bank shall apply comparable and objective loan underwriting standards and pricing requirements to both OFIs and Farm Credit System direct lender associations.
+
+(b) The total charges that a Farm Credit Bank or agricultural credit bank assesses an OFI through capitalization requirements, interest rates, and fees shall be comparable to the charges that the same Farm Credit Bank or agricultural credit bank imposes on its direct lender associations. Any variation between the overall funding costs that OFIs and direct lender associations are charged by the same funding bank shall result from differences in credit risk and administrative costs to the Farm Credit Bank or agricultural credit bank.
+
+(c) Upon request, each Farm Credit Bank or agricultural credit bank must provide each OFI and OFI applicant, that has or is seeking to establish a funding relationship with the Farm Credit Bank or agricultural credit bank, a copy of its policies, procedures, loan underwriting standards, and pricing guidelines for OFIs. The pricing guidelines must identify the specific components that make up the cost of funds for OFIs, and the amount of these components expressed in basis points.
+
+(d) Upon request of any OFI or OFI applicant, that has or is seeking to establish a funding relationship with the Farm Credit Bank or agricultural credit bank, the bank must explain in writing the reasons for any variation in the overall funding costs it charges to OFIs and affiliated direct lender associations. The written explanation must compare the cost of funds that the Farm Credit Bank or agricultural credit bank charges the OFIs and affiliated direct lender associations. When possible, the written explanation shall compare the costs of funding that the bank charges several OFIs and Farm Credit associations that are similar in size. However, the Farm Credit Bank or agricultural credit bank must not disclose financial or confidential information about any individual Farm Credit association.
+
+[63 FR 36547, July 7, 1998, as amended at 69 FR 29863, May 26, 2004]

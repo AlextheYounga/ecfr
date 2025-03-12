@@ -1,0 +1,3 @@
+##### § 137.238 How are funds distributed when an Indian Tribe fully or partially withdraws from a compact or funding agreement administered by an inter-Tribal consortium or Tribal organization serving more than one Indian Tribe and the withdrawing Indian Tribe elects not to enter a contract or compact? #####
+
+All funds not obligated by the inter-Tribal consortium or Tribal organization associated with the withdrawing Indian Tribe's returned PSFAs, less close out costs, shall be returned by the inter-Tribal consortium or Tribal organization to the IHS for operation of the PSFAs included in the withdrawal.

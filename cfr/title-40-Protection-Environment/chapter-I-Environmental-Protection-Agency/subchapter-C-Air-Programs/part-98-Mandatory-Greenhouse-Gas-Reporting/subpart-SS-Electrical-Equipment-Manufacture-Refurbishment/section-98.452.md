@@ -1,0 +1,7 @@
+##### § 98.452 GHGs to report. #####
+
+(a) You must report emissions of each fluorinated GHG, including but not limited to SF6 and PFCs, at the facility level, except you are not required to report emissions of fluorinated GHGs that are components of insulating gases whose weighted average GWPs, as calculated in equation SS-2 to this section, are less than or equal to one. You are, however, required to report certain quantities of insulating gases whose weighted average GWPs are less than or equal to one as specified in § 98.456(f), (g), (k) and (q) through (s). Annual emissions from the facility must include fluorinated GHG emissions from equipment that is installed at an off-site electric power transmission or distribution location whenever emissions from installation activities (*e.g.,* filling) occur before the title to the equipment is transferred to the electric power transmission or distribution entity.
+
+![](/graphics/er25ap24.060.gif)Where:GWPj = Weighted average GWP of insulating gas j.GHGi,w = The weight fraction of GHG i in insulating gas j, expressed as a decimal. fraction. If GHG i is not part of a gas mixture, use a value of 1.0.GWPi = Gas-appropriate GWP as provided in table A-1 to subpart A of this part.i = GHG contained in the electrical transmission and distribution equipment.
+
+(b) You must report CO2, N2O and CH4 emissions from each stationary combustion unit. You must calculate and report these emissions under subpart C of this part by following the requirements of subpart C of this part.

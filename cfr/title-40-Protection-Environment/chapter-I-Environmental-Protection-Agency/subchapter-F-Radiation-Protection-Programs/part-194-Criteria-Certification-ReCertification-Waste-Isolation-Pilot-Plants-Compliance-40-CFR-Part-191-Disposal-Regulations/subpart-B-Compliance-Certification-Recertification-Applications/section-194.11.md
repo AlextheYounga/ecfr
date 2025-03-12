@@ -1,0 +1,3 @@
+##### § 194.11 Completeness and accuracy of compliance applications. #####
+
+Information provided to the Administrator in support of any compliance application shall be complete and accurate. The Administrator's evaluation for certification pursuant to section 8(d)(1)(B) of the WIPP LWA and evaluation for recertification pursuant to section 8(f)(2) of the WIPP LWA shall not begin until the Administrator has notified the Secretary, in writing, that a complete application in accordance with this part has been received.

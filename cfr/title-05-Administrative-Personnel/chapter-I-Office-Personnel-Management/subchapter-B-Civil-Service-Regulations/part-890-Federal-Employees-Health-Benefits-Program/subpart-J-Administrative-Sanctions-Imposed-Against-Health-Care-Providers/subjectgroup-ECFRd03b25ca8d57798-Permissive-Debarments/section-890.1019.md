@@ -1,0 +1,9 @@
+##### § 890.1019 Determining length of debarment based on ownership or control of a sanctioned entity. #####
+
+OPM shall determine the length of debarments of individual providers under 5 U.S.C. 8902a(c)(3) based on the type of violation committed by the sanctioned entity owned or controlled by the person with an ownership or control interest. The types of violations actionable under this provision are:
+
+(a) *Entity's debarment.* If a provider's debarment is based on his ownership or control of a debarred entity, the debarment shall be concurrent with the entity's debarment. If any of the aggravating or mitigating circumstances identified in § 890.1016 applies directly to the provider that owns or controls the debarred entity and was not considered in setting the period of the entity's debarment, OPM may debar the provider for a period longer or shorter, respectively, than the entity's debarment.
+
+(b) *Entity's conviction.* If a provider's debarment is based on the criminal conviction of an entity he owns or controls for an offense listed in 5 U.S.C. 8902a(b)(1)-(4), OPM shall debar the provider for a period of no less than 3 years, subject to adjustment for any aggravating or mitigating circumstances identified in § 890.1016 that apply to the provider as an individual.
+
+(c) *Entity's civil monetary penalty.* If a provider's debarment is based on a civil monetary penalty imposed on an entity he owns or controls, OPM shall debar him for 3 years, subject to adjustment on the basis of the aggravating and mitigating circumstances listed in § 890.1016 that apply to the provider as an individual.

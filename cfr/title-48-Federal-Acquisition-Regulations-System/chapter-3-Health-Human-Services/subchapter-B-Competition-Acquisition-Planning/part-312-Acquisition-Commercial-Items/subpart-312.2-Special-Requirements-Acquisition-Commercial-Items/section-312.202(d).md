@@ -1,0 +1,3 @@
+##### 312.202(d) Market research and description of agency need. #####
+
+Whenever a requiring activity specifies electronic and information technology (EIT) supplies and services subject to Section 508 of the Rehabilitation Act of 1973, as amended, the requiring activity shall acquire commercially available supplies and services to the maximum extent possible while ensuring Section 508 compliance. See part 339.

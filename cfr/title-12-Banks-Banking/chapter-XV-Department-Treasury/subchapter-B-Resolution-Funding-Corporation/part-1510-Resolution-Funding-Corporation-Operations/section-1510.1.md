@@ -1,0 +1,7 @@
+##### § 1510.1 Authority, purpose, and scope. #####
+
+(a) *Authority.* This part is issued under the authority of section 14(d) of the Homeowners Protection Act of 1998 (Public Law 105-216, 112 Stat. 910) and section 21B(l) of the Federal Home Loan Bank Act (12 U.S.C. 1441b(l)).
+
+(b) *Purpose and scope.* The purpose of this part is to provide direction to the Funding Corporation in carrying out its statutory mandate to make interest payments on its outstanding debt obligations. This part also provides direction to the Funding Corporation regarding funding the administrative costs of its operations. This part does not provide direction to the Funding Corporation, however, on activities that the Funding Corporation is authorized to carry out under the Act, but that it previously has completed or is not likely to undertake in the future, such as raising capital and issuing obligations. Although the Funding Corporation continues to have statutory authority to undertake these activities, the circumstances under which it would do so are limited. If such circumstances were to arise, the Secretary has the authority to provide any necessary direction to the Funding Corporation.
+
+(c) *Authority of the Funding Corporation.* The Funding Corporation may exercise all authority granted to it by the Act in accordance with its bylaws, whether or not specifically implemented by regulation, subject to the requirements of this part and such other regulations, orders and directions as the Secretary may prescribe.

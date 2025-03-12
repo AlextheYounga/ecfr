@@ -1,0 +1,3 @@
+##### § 250.864 Erosion. #####
+
+You must have a program of erosion control in effect for wells or fields that have a history of sand production. The erosion-control program may include sand probes, X-ray, ultrasonic, or other satisfactory monitoring methods. You must maintain records for each lease that indicate the wells that have erosion-control programs in effect. You must also maintain the results of the programs for at least 2 years and make them available to BSEE upon request.

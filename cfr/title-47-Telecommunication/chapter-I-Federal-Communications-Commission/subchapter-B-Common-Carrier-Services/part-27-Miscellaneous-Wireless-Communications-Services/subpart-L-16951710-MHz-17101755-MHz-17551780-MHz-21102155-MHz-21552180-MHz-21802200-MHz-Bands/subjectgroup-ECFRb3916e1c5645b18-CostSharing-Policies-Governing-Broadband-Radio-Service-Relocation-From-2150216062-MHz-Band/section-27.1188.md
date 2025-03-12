@@ -1,0 +1,5 @@
+##### § 27.1188 Dispute resolution under the Cost-Sharing Plan. #####
+
+(a) Disputes arising out of the cost-sharing plan, such as disputes over the amount of reimbursement required, must be brought, in the first instance, to the clearinghouse for resolution. To the extent that disputes cannot be resolved by the clearinghouse, parties are encouraged to use expedited Alternative Dispute Resolution (ADR) procedures, such as binding arbitration, mediation, or other ADR techniques.
+
+(b) *Evidentiary requirement.* Parties of interest contesting the clearinghouse's determination of specific cost-sharing obligations must provide evidentiary support to demonstrate that their calculation is reasonable and made in good faith. Specifically, these parties are expected to exercise due diligence to obtain the information necessary to prepare an independent estimate of the relocation costs in question and to file the independent estimate and supporting documentation with the clearinghouse.

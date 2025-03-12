@@ -1,0 +1,3 @@
+##### § 303.1 Purpose. #####
+
+The purpose of this part is to provide guidelines and procedures for implementing the Federal Motor Carrier Safety Administration's (FMCSA) Title VI program under Title VI of the Civil Rights Act of 1964 and related civil rights laws and regulations. For FMCSA-only programs or activities, Federal financial assistance recipients or grantees will continue to apply and use the Departmental Title VI provisions at 49 CFR part 21. For joint and multi-agency programs/projects, FMCSA Federal assistance recipients or grantees must use the Title VI requirements at 49 CFR part 21, unless agreement is reached by the Federal funding agencies for the recipients to use the Title VI procedures of another agency.

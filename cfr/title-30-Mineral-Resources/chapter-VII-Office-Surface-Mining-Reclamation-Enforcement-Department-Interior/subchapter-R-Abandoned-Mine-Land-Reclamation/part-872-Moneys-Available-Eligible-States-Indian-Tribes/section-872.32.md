@@ -1,0 +1,3 @@
+##### § 872.32 What are certified in lieu funds? #####
+
+“Certified in lieu funds” are moneys that we distribute to you, the certified State or Indian tribe, in lieu of moneys allocated to your State or Tribal share of the Fund after October 1, 2007. Certified in lieu funds come from general funds of the United States Treasury that are otherwise unappropriated. Beginning with the 2009 Federal fiscal year which starts on October 1, 2008, we distribute certified in lieu funds to you under section 411(h)(2) of SMCRA.

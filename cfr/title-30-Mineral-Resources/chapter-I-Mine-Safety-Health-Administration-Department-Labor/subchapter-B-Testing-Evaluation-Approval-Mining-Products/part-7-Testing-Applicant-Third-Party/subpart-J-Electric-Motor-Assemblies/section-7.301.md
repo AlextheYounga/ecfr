@@ -1,0 +1,3 @@
+##### § 7.301 Purpose and effective date. #####
+
+This subpart establishes the specific requirements for MSHA approval of certain explosion-proof electric motor assemblies intended for use in approved equipment in underground mines. Applications for approval or extensions of approval submitted after February 22, 1996 shall meet the requirements of this part. Those motors that incorporate features not specifically addressed in this subpart will continue to be evaluated under part 18 of this chapter.

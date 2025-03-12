@@ -1,0 +1,7 @@
+##### § 95.7 Channel sharing. #####
+
+(a) Channels or channel pairs (one 462 MHz frequency listed in § 95.29(a) of this part and one 467 MHz frequency listed in § 95.29(b) of this part) are available to GMRS systems only on a shared basis and will not be assigned for the exclusive use of any licensee. All station operators and GMRS system licensees must cooperate in the selection and use of channels to reduce interference and to make the most effective use of the facilities.
+
+(b) Licensees of GMRS systems suffering or causing harmful interference are expected to cooperate and resolve this problem by mutually satisfactory arrangements. If the licensees are unable to do so, the FCC may impose restrictions including specifying the transmitter power, antenna height, or area or hours of operation of the stations concerned. Further, the use of any frequency at a given geographical location may be denied when, in the judgment of the FCC, its use in that location is not in the public interest; the use of any channel or channel pair may be restricted as to specified geographical areas, maximum power, or other operating conditions.
+
+[48 FR 35237, Aug. 3, 1983, as amended at 53 FR 47715, Nov. 25, 1988; 63 FR 68974, Dec. 14, 1998; 64 FR 53241, Oct. 1, 1999]

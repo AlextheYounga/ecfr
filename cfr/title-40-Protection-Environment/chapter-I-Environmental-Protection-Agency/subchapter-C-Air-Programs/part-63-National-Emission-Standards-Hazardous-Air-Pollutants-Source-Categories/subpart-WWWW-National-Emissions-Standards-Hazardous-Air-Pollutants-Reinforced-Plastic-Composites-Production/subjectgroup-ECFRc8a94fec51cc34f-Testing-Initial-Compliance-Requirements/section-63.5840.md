@@ -1,0 +1,3 @@
+##### § 63.5840 By what date must I conduct a performance test or other initial compliance demonstration? #####
+
+You must conduct performance tests, performance evaluations, design evaluations, capture efficiency testing, and other initial compliance demonstrations by the compliance date specified in Table 2 to this subpart, with three exceptions. Open molding and centrifugal casting operations that elect to meet an organic HAP emissions limit on a 12-month rolling average must initiate collection of the required data on the compliance date, and demonstrate compliance 1 year after the compliance date. New sources that use add-on controls to initially meet compliance must demonstrate compliance within 180 days after their compliance date.

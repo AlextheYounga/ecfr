@@ -1,0 +1,5 @@
+##### § 33.72 Compulsory process. #####
+
+(a) If a person refuses to permit a duly authorized representative of the Department of Transportation to have access to any premises or source of information necessary to the administration or the enforcement of the Defense Production Act and other applicable statutes, or this part, the Department of Transportation representative may seek compulsory process. Compulsory process means the institution of appropriate legal action, including *ex parte* application for an inspection warrant or its equivalent, in any forum of appropriate jurisdiction.
+
+(b) Compulsory process may be sought in advance of an audit, investigation, or other inquiry, if, in the judgment of the Department of Transportation there is reason to believe that a person will refuse to permit an audit, investigation, or other inquiry, or that other circumstances exist which make such process desirable or necessary.

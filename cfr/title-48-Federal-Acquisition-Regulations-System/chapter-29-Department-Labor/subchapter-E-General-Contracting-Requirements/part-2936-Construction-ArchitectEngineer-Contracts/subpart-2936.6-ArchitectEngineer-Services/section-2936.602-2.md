@@ -1,0 +1,3 @@
+##### 2936.602-2 Evaluation boards. #####
+
+HCAs must establish procedures to provide permanent or ad hoc architect-engineer evaluation boards as prescribed in FAR 36.602-2. Procedures must provide for the appointment of private practitioners of architecture, engineering, or related professions when such action is determined in writing by the HCA to be essential to meeting the Government's minimum needs.

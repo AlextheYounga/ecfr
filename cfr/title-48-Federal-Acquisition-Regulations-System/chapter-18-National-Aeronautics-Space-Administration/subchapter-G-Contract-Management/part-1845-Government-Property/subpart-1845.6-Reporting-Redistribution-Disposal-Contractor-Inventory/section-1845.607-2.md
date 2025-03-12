@@ -1,0 +1,3 @@
+##### 1845.607-2 Recovering precious metals. (NASA supplements paragraph (b)). #####
+
+(b) Silver, gold, platinum, palladium, rhodium, iridium, osmium, and ruthenium; scrap bearing such metals; and items containing recoverable quantities of them shall be reported to the Defense Reutilization and Marketing Service, DRMS-R, Federal Center, Battle Creek, MI 49017-3092, for instructions regarding disposition.

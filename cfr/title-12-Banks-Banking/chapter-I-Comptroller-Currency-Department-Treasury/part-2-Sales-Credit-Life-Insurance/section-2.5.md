@@ -1,0 +1,5 @@
+##### § 2.5 Bank compensation. #####
+
+(a) Nothing contained in this part prohibits a bank employee, officer, director, or principal shareholder who holds an insurance agent's license from agreeing to compensate the bank for the use of its premises, employees, or good will. However, the employee, officer, director, or principal shareholder shall turn over to the bank as compensation all income received from the sale of the credit life insurance to the bank's loan customers.
+
+(b) Income derived from credit life insurance sales to loan customers may be credited to an affiliate operating under the Bank Holding Company Act of 1956, 12 U.S.C. 1841 *et seq.,* or to a trust for the benefit of all shareholders, provided that the bank receives reasonable compensation in recognition of the role played by its personnel, premises, and good will in credit life insurance sales. Reasonable compensation generally means an amount equivalent to at least 20 percent of the affiliate's net income attributable to the bank's credit life insurance sales.

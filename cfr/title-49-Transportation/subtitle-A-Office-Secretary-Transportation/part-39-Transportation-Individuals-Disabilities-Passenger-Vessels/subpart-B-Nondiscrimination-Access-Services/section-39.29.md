@@ -1,0 +1,3 @@
+##### § 39.29 May PVOs limit the number of passengers with a disability on a passenger vessel? #####
+
+As a PVO, you must not limit the number of passengers with a disability other than individuals with a mobility disability on your vessel. However, if in the Captain's judgment, weight or stability issues are presented by the presence of mobility devices and would conflict with legitimate safety requirements pertaining to the vessel and its passengers, then the number of passengers with mobility aids may be limited, but only to the extent reasonable to prevent a avoid such a conflict.

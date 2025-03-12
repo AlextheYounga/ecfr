@@ -1,0 +1,3 @@
+##### § 550.331 Scope. #####
+
+An agency shall permit an employee to make an allotment for dues to an association of management officials and/or supervisors when the employee is a supervisor or management official, and the employee is a member of an association of management officials and/or supervisors with which the agency has agreed in writing to deduct allotments for the payment of dues to the association.

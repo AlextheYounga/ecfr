@@ -1,0 +1,13 @@
+##### § 1.785 Multiple applications for extension of term of the same patent or of different patents for the same regulatory review period for a product. #####
+
+(a) Only one patent may be extended for a regulatory review period for any product (§ 1.720(h)). If more than one application for extension of the same patent is filed, the certificate of extension of patent term, if appropriate, will be issued based upon the first filed application for extension.
+
+(b) If more than one application for extension is filed by a single applicant which seeks the extension of the term of two or more patents based upon the same regulatory review period, and the patents are otherwise eligible for extension pursuant to the requirements of this subpart, in the absence of an election by the applicant, the certificate of extension of patent term, if appropriate, will be issued upon the application for extension of the patent term having the earliest date of issuance of those patents for which extension is sought.
+
+(c) If an application for extension is filed which seeks the extension of the term of a patent based upon the same regulatory review period as that relied upon in one or more applications for extension pursuant to the requirements of this subpart, the certificate of extension of patent term will be issued on the application only if the patent owner or its agent is the holder of the regulatory approval granted with respect to the regulatory review period.
+
+(d) An application for extension shall be considered complete and formal regardless of whether it contains the identification of the holder of the regulatory approval granted with respect to the regulatory review period. When an application contains such information, or is amended to contain such information, it will be considered in determining whether an application is eligible for an extension under this section. A request may be made of any applicant to supply such information within a non-extendable period of not less than one month whenever multiple applications for extension of more than one patent are received and rely upon the same regulatory review period. Failure to provide such information within the period for reply set shall be regarded as conclusively establishing that the applicant is not the holder of the regulatory approval.
+
+(e) Determinations made under this section shall be included in the notice of final determination of eligibility for extension of the patent term pursuant to § 1.750 and shall be regarded as part of that determination.
+
+[60 FR 25618, May 12, 1995, as amended at 62 FR 53201, Oct. 10, 1997]

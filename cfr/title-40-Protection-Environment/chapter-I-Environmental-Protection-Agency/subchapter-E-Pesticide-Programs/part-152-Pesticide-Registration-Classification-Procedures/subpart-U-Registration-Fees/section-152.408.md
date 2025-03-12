@@ -1,0 +1,7 @@
+##### § 152.408 Special considerations. #####
+
+(a) If two or more applicants apply for a new chemical registration for products having the same active ingredient and each applicant provides a set of data in support of the registration developed independently of the other applicants' data, then each applicant submitting an independent set of data shall be charged the full new chemical registration review fee.
+
+(b) If two or more applicants apply for a new chemical registration for products having the same active ingredient and the applicants have jointly developed or paid for the joint development of a common set of data to support their applications for registration, then each applicant shall be charged an equal share of the total fee for review of the applications for all of the subject products. The total fee will include the sum of the new chemical registration review fee for one product and one old chemical registration review fee for each additional product.
+
+(c) If an application is received for registration of a product that contains two or more new chemical active ingredients and a different set of generic data is required by the Agency for each new chemical for the purpose of registration, the applicant will be required to pay the full new chemical registration review fee for each active ingredient.

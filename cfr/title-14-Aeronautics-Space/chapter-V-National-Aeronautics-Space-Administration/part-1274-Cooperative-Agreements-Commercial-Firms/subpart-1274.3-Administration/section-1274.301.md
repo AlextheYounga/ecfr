@@ -1,0 +1,3 @@
+##### § 1274.301 Delegation of administration. #####
+
+Cooperative agreements may be administered by the awarding activity or the awarding activity may obtain additional administration services in accordance with the procedures provided by NFS 1842.202. NASA Form 1678, NASA Technical Officer Delegation for Cooperative Agreements with Commercial Firms, will be used to delegate responsibilities to the NASA Technical Officer.

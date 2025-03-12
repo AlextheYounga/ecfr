@@ -1,0 +1,3 @@
+##### § 152.119 Contract requirements and procurement standards. #####
+
+To the extent applicable, all grant agreements, contracts, and subcontracts involving airport development projects or airport planning must be in accordance with the contract requirements in appendices A and C, as applicable, and the procurement standards in Attachment O of Office of Management and Budget Circular A-102 (42 FR 45828).

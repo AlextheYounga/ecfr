@@ -1,0 +1,3 @@
+##### 3405.203 Publicizing and response time. #####
+
+(c) FSA—Notwithstanding other provisions of the FAR, a bid or proposal due date of less than 30 days is permitted after issuance of a synopsis for acquisitions for noncommercial items. However, if time permits, a bid or proposal due date that affords potential offerors reasonable time to respond and fosters quality submissions should be established.

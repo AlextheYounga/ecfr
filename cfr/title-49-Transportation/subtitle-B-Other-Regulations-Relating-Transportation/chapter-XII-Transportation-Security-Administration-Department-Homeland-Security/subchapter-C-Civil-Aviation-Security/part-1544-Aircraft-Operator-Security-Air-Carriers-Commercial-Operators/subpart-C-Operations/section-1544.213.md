@@ -1,0 +1,7 @@
+##### § 1544.213 Use of explosives detection systems. #####
+
+(a) *Use of explosive detection equipment.* If TSA so requires by an amendment to an aircraft operator's security program, each aircraft operator required to conduct screening under a security program must use an explosives detection system approved by TSA to screen checked baggage on international flights.
+
+(b) *Signs and inspection of photographic equipment and film.* (1) At locations at which an aircraft operator or TSA uses an explosives detection system that uses X-ray technology to inspect checked baggage the aircraft operator must ensure that a sign is posted in a conspicuous place where the aircraft operator accepts checked baggage. The sign must notify individuals that such items are being inspected by an explosives detection system and advise them to remove all X-ray, scientific, and high-speed film from checked baggage before inspection. This sign must also advise individuals that they may request that an inspection be made of their photographic equipment and film packages without exposure to an explosives detection system.
+
+(2) If the explosives detection system exposes any checked baggage to more than one milliroentgen during the inspection the aircraft operator must post a sign which advises individuals to remove film of all kinds from their articles before inspection. If requested by individuals, their photographic equipment and film packages must be inspected without exposure to an explosives detection system.

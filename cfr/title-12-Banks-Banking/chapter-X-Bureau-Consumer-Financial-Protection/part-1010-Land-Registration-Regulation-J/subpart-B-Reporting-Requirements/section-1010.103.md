@@ -1,0 +1,7 @@
+##### § 1010.103 Developer obligated improvements. #####
+
+(a) If the developer represents either orally or in writing that it will provide or complete roads or facilities for water, sewer, gas, electricity or recreational amenities, it must be contractually obligated to do so, and the obligation shall be clearly stated in the Property Report. While the developer may disclose relevant facts about completion, the obligation to complete cannot be conditioned, other than as permitted by 15 U.S.C. 1703(a)(2), and an estimated completion date (month and year) must be stated in the Property Report. However, a developer that has only tentative plans to complete may so state in the Property Report, provided that the statement clearly identifies conditions to which the completion of the facilities are subject and states that there are no guarantees the facilities will be completed.
+
+(b) If a party other than the developer is responsible for providing or completing roads or facilities for water, sewer, gas, electricity or recreational amenities, that entity shall be clearly identified in the Property Report under the categories described in § 1010.110, § 1010.111 or § 1010.114, as applicable. A statement shall be included in the proper section of the Property Report that the developer is not responsible for providing or completing the facility or amenity and can give no assurance that it will be completed or available for use.
+
+[76 FR 79489, Dec. 21, 2011, as amended at 81 FR 29117, May 11, 2016]

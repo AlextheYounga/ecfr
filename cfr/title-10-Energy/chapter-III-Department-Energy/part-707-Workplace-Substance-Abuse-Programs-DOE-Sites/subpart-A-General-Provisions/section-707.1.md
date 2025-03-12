@@ -1,0 +1,3 @@
+##### § 707.1 Purpose. #####
+
+The Department of Energy (DOE) promulgates this part in order to protect the environment, maintain public health and safety, and safeguard the national security. This part establishes policies, criteria, and procedures for developing and implementing programs that help to maintain a workplace free from the use of illegal drugs. It applies to DOE contractors and subcontractors performing work at sites owned or controlled by DOE and operated under the authority of the Atomic Energy Act of 1954, as amended, and to individuals with unescorted access to the control areas of certain DOE reactors. The procedures include detection of the use of illegal drugs by current or prospective contractor employees in testing designated positions.

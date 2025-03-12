@@ -1,0 +1,3 @@
+##### § 63.469 Equivalent methods of control. #####
+
+Upon written application, the Administrator may approve the use of equipment or procedures after they have been satisfactorily demonstrated to be equivalent, in terms of reducing emissions of methylene chloride, perchloroethylene, trichloroethylene, 1,1,1-trichloroethane, carbon tetrachloride or chloroform to the atmosphere, to those prescribed for compliance within a specified paragraph of this subpart. The application must contain a complete description of the equipment or procedure and the proposed equivalency testing procedure and the date, time, and location scheduled for the equivalency demonstration.

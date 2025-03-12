@@ -1,0 +1,11 @@
+##### § 221.122 Applicability of margin requirements to credit in connection with Insurance Premium Funding Programs. #####
+
+(a) The Board has been asked numerous questions regarding purpose credit in connection with insurance premium funding programs. The inquiries are included in a set of guidelines in the format of questions and answers. (The guidelines are available pursuant to the Board's Rules Regarding Availability of Information, 12 CFR part 261.) A glossary of terms customarily used in connection with insurance premium funding credit activities is included in the guidelines. Under a typical insurance premium funding program, a borrower acquires mutual fund shares for cash, or takes fund shares which he already owns, and then uses the loan value (currently 50 percent as set by the Board) to buy insurance. Usually, a funding company (the issuer) will sell both the fund shares and the insurance through either independent broker/dealers or subsidiaries or affiliates of the issuer. A typical plan may run for 10 or 15 years with annual insurance premiums due. To illustrate, assuming an annual insurance premium of $300, the participant is required to put up mutual fund shares equivalent to 250 percent of the premium or $600 ($600 × 50 percent loan value equals $300 the amount of the insurance premium which is also the amount of the credit extended).
+
+(b) The guidelines referenced in paragraph (a) of this section also:
+
+(1) Clarify an earlier 1969 Board interpretation to show that the public offering price of mutual fund shares (which includes the front load, or sales commission) may be used as a measure of their current market value when the shares serve as collateral on a purpose credit throughout the day of the purchase of the fund shares; and
+
+(2) Relax a 1965 Board position in connection with accepting purpose statements by mail.
+
+(c) It is the Board's view that when it is clearly established that a purpose statement supports a purpose credit then such statement executed by the borrower may be accepted by mail, provided it is received and also executed by the lender before the credit is extended.

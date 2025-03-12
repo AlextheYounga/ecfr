@@ -1,0 +1,3 @@
+##### § 605.17 Certification in lieu of notice. #####
+
+If there are no private school bus operators operating in the applicant's urban area, the applicant may so certify in its application in lieu of meeting the requirements of § 605.16. This certification shall be accompanied by a statement that the applicant has published, in a newspaper of general circulation in its urban area, a notice stating that it has applied for assistance as provided under § 605.16(b) and that it has certified that there are no private school bus operators operating in its urban area. A copy of the notice as published shall be included.

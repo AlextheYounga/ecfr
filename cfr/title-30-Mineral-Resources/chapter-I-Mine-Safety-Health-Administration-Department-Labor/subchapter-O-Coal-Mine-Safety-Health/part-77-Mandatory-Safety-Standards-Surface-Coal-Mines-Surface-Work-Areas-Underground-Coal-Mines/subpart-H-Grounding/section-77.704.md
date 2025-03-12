@@ -1,0 +1,3 @@
+##### § 77.704 Work on high-voltage lines; deenergizing and grounding. #####
+
+High-voltage lines shall be deenergized and grounded before work is performed on them, except that repairs may be permitted on energized high-voltage lines if (a) such repairs are made by a qualified person in accordance with procedures and safeguards set forth in §§ 77.704-1 through 77.704-11 of this Subpart H as applicable, and (b) the operator has tested and properly maintained the protective devices necessary in making such repairs.

@@ -1,0 +1,3 @@
+##### § 194.67 Dockets. #####
+
+The Agency will establish and maintain dockets in the State of New Mexico and Washington, DC. The dockets will consist of all relevant, significant information received from outside parties and all significant information considered by the Administrator in certifying whether the WIPP facility will comply with the disposal regulations, in certifying whether or not the WIPP facility continues to be in compliance with the disposal regulations, and in determining whether compliance certification should be modified, suspended or revoked.

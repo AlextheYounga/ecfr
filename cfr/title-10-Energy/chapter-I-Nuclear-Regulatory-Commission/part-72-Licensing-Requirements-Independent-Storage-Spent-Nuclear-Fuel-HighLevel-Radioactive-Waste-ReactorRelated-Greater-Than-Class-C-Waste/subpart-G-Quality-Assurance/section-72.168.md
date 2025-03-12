@@ -1,0 +1,5 @@
+##### § 72.168 Inspection, test, and operating status. #####
+
+(a) The licensee, applicant for a license, certificate holder, and applicant for a CoC shall establish measures to indicate, by the use of markings such as stamps, tags, labels, routing cards, or other suitable means, the status of inspections and tests performed upon individual items of the ISFSI, MRS, or spent fuel storage cask. These measures must provide for the identification of items which have satisfactorily passed required inspections and tests where necessary to preclude inadvertent bypassing of the inspections and tests.
+
+(b) The licensee shall establish measures to identify the operating status of structures, systems, and components of the ISFSI or MRS, such as tagging valves and switches, to prevent inadvertent operation.

@@ -1,0 +1,3 @@
+##### § 176.13 Modification of a time-limited tolerance. #####
+
+If additional emergency or crisis exemptions are authorized that would extend use beyond the date originally authorized, or if EPA determines that the duration of a time-limited tolerance is insufficient to allow treated commodities to clear the channels of trade, EPA may modify the time-limited tolerance by publication of a final rule in the Federal Register. EPA will use the same criteria and procedures for modification as for establishing tolerances under this part.

@@ -1,0 +1,7 @@
+##### § 52.57 Application for renewal. #####
+
+(a) Not less than 12 nor more than 36 months before the expiration of the initial 15-year period, or any later renewal period, any person may apply for renewal of the certification. An application for renewal must contain all information necessary to bring up to date the information and data contained in the previous application. The Commission will require, before renewal of certification, that information normally contained in certain procurement specifications and construction and installation specifications be completed and available for audit if this information is necessary for the Commission to make its safety determination. Notice and comment procedures must be used for a rulemaking proceeding on the application for renewal. The Commission, in its discretion, may require the use of additional procedures in individual renewal proceedings.
+
+(b) A design certification, either original or renewed, for which a timely application for renewal has been filed remains in effect until the Commission has determined whether to renew the certification. If the certification is not renewed, it continues to be valid in certain proceedings, in accordance with the provisions of § 52.55.
+
+(c) The Commission shall refer a copy of the application for renewal to the Advisory Committee on Reactor Safeguards (ACRS). The ACRS shall report on those portions of the application which concern safety and shall apply the criteria set forth in § 52.59.

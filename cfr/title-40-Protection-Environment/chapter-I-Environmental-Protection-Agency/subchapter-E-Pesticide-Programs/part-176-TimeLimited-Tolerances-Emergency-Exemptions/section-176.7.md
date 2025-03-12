@@ -1,0 +1,5 @@
+##### § 176.7 Information needed to establish a tolerance. #####
+
+(a) EPA will establish a time-limited tolerance only if EPA can determine that the tolerance is safe, that is, there is a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue. EPA will base its determination upon data submitted by the applicant and other readily available data. If, taking into account the limited duration and emergency nature of a section 18 application, and based on the available data the Agency cannot conclude that there is a reasonable certainty that no harm will result from the use proposed by the applicant or granted pursuant to a crisis exemption, EPA will not establish a tolerance.
+
+(b) Data and other relevant information to support the establishment of a time-limited tolerance may be submitted by the applicant, or by any other person, in support of the time-limited tolerance. The applicant may also cite relevant data previously submitted to the Agency.

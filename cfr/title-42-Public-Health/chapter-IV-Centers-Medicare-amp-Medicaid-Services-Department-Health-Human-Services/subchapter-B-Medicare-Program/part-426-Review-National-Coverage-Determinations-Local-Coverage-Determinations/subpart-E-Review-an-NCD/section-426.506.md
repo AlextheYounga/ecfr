@@ -1,0 +1,3 @@
+##### § 426.506 Ex parte contacts. #####
+
+No party or person (except Board staff) communicates in any way with the Board on any substantive matter at issue in a case, unless on notice and opportunity for all parties to participate. This provision does not prohibit a person or party from inquiring about the status of a case or asking routine questions concerning administrative functions or procedures.

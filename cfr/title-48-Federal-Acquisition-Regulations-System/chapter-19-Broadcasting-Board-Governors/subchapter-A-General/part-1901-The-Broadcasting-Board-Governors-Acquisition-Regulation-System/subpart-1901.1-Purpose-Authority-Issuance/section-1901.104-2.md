@@ -1,0 +1,3 @@
+##### 1901.104-2 Arrangement of regulations. #####
+
+The IAAR uses the same numbering system and arrangement used in the FAR. Where the IAAR implements the FAR, it is numbered and captioned to correspond to the FAR. Where there is no corresponding material in the FAR, numbers beginning with 70 or higher are assigned to the IAAR supplementing part. Where the subject matter is the FAR requires no implementation, the IAAR contains no corresponding part.

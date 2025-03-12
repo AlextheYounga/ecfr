@@ -1,0 +1,3 @@
+##### § 622.81 Default. #####
+
+If the subject individual fails to file a petition for a hearing, or fails to appear at a hearing, either in person or by an attorney, or fails to submit a written argument where oral argument has been waived, the notice shall remain in effect until the information, indictment, or complaint is finally disposed of and the order shall remain in effect until terminated by the Board.

@@ -1,0 +1,3 @@
+##### 970.2770-1 General. #####
+
+This subpart prescribes policies and procedures for implementing the National Competitiveness Technology Transfer Act of 1989, Public Law 101-189, (15 U.S.C. 3711 *et seq.,* as amended). The Act requires that technology transfer be established as a mission of each Government-owned laboratory operated under contract by a non-Federal entity. The National Defense Authorization Act for Fiscal Year 1994 expanded the definition of “laboratory” to include weapon production facilities that are operated for national security purposes and are engaged in the production, maintenance, testing, or dismantlement of a nuclear weapon or its components.

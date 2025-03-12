@@ -1,0 +1,9 @@
+##### § 13.228 Subpoenas. #####
+
+(a) *Request for subpoena.* A party may obtain a subpoena to compel the attendance of a witness at a deposition or hearing or to require the production of documents or tangible items from the hearing docket clerk. The hearing docket clerk shall deliver the subpoena, signed by the hearing docket clerk or an administrative law judge but otherwise in blank, to the party. The party shall complete the subpoena, stating the title of the action and the date and time for the witness' attendance or production of documents or items. The party who obtained the subpoena shall serve the subpoena on the witness.
+
+(b) *Motion to quash or modify the subpoena.* A party, or any person upon whom a subpoena has been served, may file a motion to quash or modify the subpoena with the administrative law judge at or before the time specified in the subpoena for compliance. The applicant shall describe, in detail, the basis for the application to quash or modify the supoena including, but not limited to, a statement that the testimony, document, or tangible evidence is not relevant to the proceeding, that the subpoena is not reasonably tailored to the scope of the proceeding, or that the subpoena is unreasonable and oppressive. A motion to quash or modify the subpoena will stay the effect of the subpoena pending a decision by the administrative law judge on the motion.
+
+(c) *Enforcement of subpoena.* Upon a showing that a person has failed or refused to comply with a subpoena, a party may apply to the local federal district court to seek judicial enforcement of the subpoena in accordance with 49 U.S.C. 46104 in cases under the Federal aviation statute.
+
+[Amdt. 13-21, 55 FR 27575, July 3, 1990, as amended at 71 FR 70465, Dec. 5, 2006]

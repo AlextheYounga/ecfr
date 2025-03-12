@@ -1,0 +1,3 @@
+##### § 61.253 Determining compliance. #####
+
+Compliance with the emission standard in this subpart shall be determined annually through the use of Method 115 of appendix B. When measurements are to be made over a one year period, EPA shall be provided with a schedule of the measurement frequency to be used. The schedule may be submitted to EPA prior to or after the first measurement period. EPA shall be notified 30 days prior to any emissions test so that EPA may, at its option, observe the test.

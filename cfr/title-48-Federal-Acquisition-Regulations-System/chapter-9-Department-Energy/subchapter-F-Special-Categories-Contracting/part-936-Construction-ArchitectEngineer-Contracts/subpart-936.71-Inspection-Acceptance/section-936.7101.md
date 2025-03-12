@@ -1,0 +1,5 @@
+##### 936.7101 Construction contracts. #####
+
+(a) Inspection services may be performed by the architect-engineer responsible for the design. Inspection services may not be procured from a construction contractor with respect to its own work.
+
+(b) When one contractor is to inspect the work of another, the inspection contractor will be given written instructions defining its responsibilities and stating that it is not authorized to modify the terms and conditions of the contract, to direct additional work, to waive any requirements of the contract, or to settle any claim or dispute. Copies of the instructions will be given to the contractor who is to be inspected, with a request to acknowledge receipt on a copy to be returned to the contracting officer. In this manner, both contractors are on express notice of the authority and limitations of the authority of the inspecting contractor.

@@ -1,0 +1,3 @@
+##### § 585.111 Scope. #####
+
+This subpart establishes requirements for manufacturers of passenger cars, multipurpose passenger vehicles, trucks, and buses with a gross vehicle weight rating of 2,722 kilograms (6,000 pounds) or less to submit a report, and maintain records related to the report, concerning the number of such vehicles that meet the requirements of Standard No. 216a; *Roof crush resistance; Upgraded standard* (49 CFR 571.216a).

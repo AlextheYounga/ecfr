@@ -1,0 +1,3 @@
+##### § 63.2268 Initial compliance demonstration for a wet control device. #####
+
+If you use a wet control device as the sole means of reducing HAP emissions, you must develop and implement a plan for review and approval to address how organic HAP captured in the wastewater from the wet control device is contained or destroyed to minimize re-release to the atmosphere such that the desired emissions reductions are obtained. You must submit the plan with your Notification of Compliance Status.

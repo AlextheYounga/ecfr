@@ -1,0 +1,3 @@
+##### 2009.405 Effect of listing. #####
+
+Compelling reasons are considered to be present where failure to contract with the debarred or suspended contractor would seriously harm the agency's programs and prevent accomplishment of mission requirements. The Senior Procurement Executive is authorized to make the determinations under FAR 9.405. Requests for these determinations must be submitted from the Head of the Contracting Activity, through the Director, Office of Administration, to the Senior Procurement Executive.

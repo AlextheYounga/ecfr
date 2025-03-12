@@ -1,0 +1,5 @@
+##### § 570.6 Brake power unit. #####
+
+(a) Vacuum hoses shall not be collapsed, abraded, broken, improperly mounted, or audibly leaking. With residual vacuum exhausted and a constant 25 pound force on the brake pedal, the pedal shall fall slightly when the engine is started, demonstrating integrity of the power assist system. This test is not applicable to vehicles equipped with full power brake system as the service brake performance test shall be considered adequate test of system performance.
+
+(1) *Inspection procedure.* With engine running, examine hoses visually and aurally for conditions indicated. Stop engine and apply service brakes several times to destroy vacuum in system. Depress brake pedal with 25 pounds of force and while maintaining that force, start the engine. If brake pedal does not fall slightly under force when the engine starts, there is a malfunction in the power assist system.

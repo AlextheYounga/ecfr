@@ -1,0 +1,3 @@
+##### § 563.1 Scope. #####
+
+This part specifies uniform, national requirements for vehicles equipped with event data recorders (EDRs) concerning the collection, storage, and retrievability of onboard motor vehicle crash event data. It also specifies requirements for vehicle manufacturers to make tools and/or methods commercially available so that crash investigators and researchers are able to retrieve data from EDRs.

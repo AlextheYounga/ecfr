@@ -1,0 +1,3 @@
+##### § 424.500 Scope. #####
+
+The provisions of this subpart contain the requirements for enrollment, periodic resubmission and certification of enrollment information for revalidation, and timely reporting of updates and changes to enrollment information. These requirements apply to all providers and suppliers except for physicians and practitioners who have entered into a private contract with a beneficiary as described in part 405, subpart D of this chapter. Providers and suppliers must meet and maintain these enrollment requirements to bill either the Medicare program or its beneficiaries for Medicare covered services or supplies.

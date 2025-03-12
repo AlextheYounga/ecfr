@@ -1,0 +1,3 @@
+##### 49.304-3 Submission of vouchers. #####
+
+When a partial termination settlement is limited to adjustment of fee, the contractor shall continue to submit the SF 1034, Public Voucher for Purchases and Services Other than Personal, for costs reimbursable under the contract. The contractor shall not be reimbursed for costs of settlements with subcontractors unless required approvals or ratifications have been obtained (see 49.108).

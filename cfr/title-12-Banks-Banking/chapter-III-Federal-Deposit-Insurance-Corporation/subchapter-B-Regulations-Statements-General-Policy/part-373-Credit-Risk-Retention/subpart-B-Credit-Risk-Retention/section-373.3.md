@@ -1,0 +1,5 @@
+##### § 373.3 Base risk retention requirement. #####
+
+(a) *Base risk retention requirement.* Except as otherwise provided in this part, the sponsor of a securitization transaction (or majority-owned affiliate of the sponsor) shall retain an economic interest in the credit risk of the securitized assets in accordance with any one of §§ 373.4 through 373.10. Credit risk in securitized assets required to be retained and held by any person for purposes of compliance with this part, whether a sponsor, an originator, an originator-seller, or a third-party purchaser, except as otherwise provided in this part, may be acquired and held by any of such person's majority-owned affiliates (other than an issuing entity).
+
+(b) *Multiple sponsors.* If there is more than one sponsor of a securitization transaction, it shall be the responsibility of each sponsor to ensure that at least one of the sponsors of the securitization transaction (or at least one of their majority-owned or wholly-owned affiliates, as applicable) retains an economic interest in the credit risk of the securitized assets in accordance with any one of §§ 373.4, 373.5, 373.8, 373.9, or 373.10.

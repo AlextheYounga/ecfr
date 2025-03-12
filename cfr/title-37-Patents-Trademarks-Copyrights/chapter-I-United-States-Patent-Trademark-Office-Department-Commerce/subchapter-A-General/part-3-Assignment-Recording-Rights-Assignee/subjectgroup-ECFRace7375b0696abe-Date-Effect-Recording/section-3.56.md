@@ -1,0 +1,3 @@
+##### § 3.56 Conditional assignments. #####
+
+Assignments which are made conditional on the performance of certain acts or events, such as the payment of money or other condition subsequent, if recorded in the Office, are regarded as absolute assignments for Office purposes until cancelled with the written consent of all parties or by the decree of a court of competent jurisdiction. The Office does not determine whether such conditions have been fulfilled.

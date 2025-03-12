@@ -1,0 +1,5 @@
+##### § 35.6250 Support agency Cooperative Agreement requirements. #####
+
+(a) *Application requirements.* The applicant must comply with the requirements described in § 35.6105(a)(1) and (3), and other requirements as negotiated with EPA. (Indian Tribes are exempt from the requirement of Intergovernmental Review in 40 CFR part 29.) An applicant may submit a non-site-specific budget for support agency activities.
+
+(b) *Cooperative Agreement requirements.* The recipient must comply with the requirements regarding financial administration (§§ 35.6270 through 35.6290), property (§§ 35.6300 through 35.6450), procurement (§§ 35.6550 through 35.6610), reporting (§§ 35.6650 through 35.6670), records (§§ 35.6700 through 35.6710), and other administrative requirements under a Cooperative Agreement (§§ 35.6750 through 35.6790).

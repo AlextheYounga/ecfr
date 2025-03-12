@@ -1,0 +1,11 @@
+##### § 412.301 Obtaining approval to conduct a Senior Executive Service candidate development program (SESCDP). #####
+
+(a) An SESCDP is an OPM-approved training program designed to develop the executive qualifications of employees with strong executive potential to qualify them for and authorize their initial career appointment in the SES. An agency conducting an SESCDP may submit program graduates for Qualifications Review Board (QRB) review of their executive qualifications under 5 CFR 317.502. A program graduate certified by a QRB may receive an initial career appointment without further competition to any SES position for which he or she meets the professional and technical qualifications requirements.
+
+(b) An agency covered by subchapter II of chapter 31 of title 5, United States Code, may apply to OPM to conduct an SESCDP alone or on behalf of a group of agencies. (In this subpart, the term “agency” refers to either a single agency or a group of agencies acting in partnership under this subpart.) Any agency developing an SESCDP must submit a policy document describing its program methodologies to OPM for formal approval before implementing the SESCDP. An agency must seek OPM approval every five years thereafter, and must also consult OPM before implementing a change substantially altering how the SESCDP complies with the requirements of this regulation. An agency implementing an SESCDP without first obtaining formal approval may not submit graduates of the program for QRB review.
+
+(c) An agency that obtained OPM approval under previous regulations must apply for re-approval in accordance with requirements in paragraph (b) and this subpart before initiating a new SESCDP. All existing SESCDP approvals expire within 2 years after publication of this regulation.
+
+(d) An agency covered by subchapter II of chapter 31 of title 5, United States Code, may authorize a major agency component employing senior executives to apply directly to OPM for approval to conduct an SESCDP. Such an application from a component must be accompanied by the agency's written endorsement. To obtain approval, the component must meet the SESCDP requirements of this subpart independent of agency involvement.
+
+(e) As always, agencies should be mindful of merit principles in carrying out their functions under this subpart.

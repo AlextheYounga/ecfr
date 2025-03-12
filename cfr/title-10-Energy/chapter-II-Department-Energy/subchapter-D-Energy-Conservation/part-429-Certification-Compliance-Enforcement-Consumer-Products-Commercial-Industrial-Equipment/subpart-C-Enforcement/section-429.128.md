@@ -1,0 +1,5 @@
+##### § 429.128 Immediate issuance of order assessing civil penalty. #####
+
+(a) If the respondent elects to forgo an agency hearing pursuant to § 429.124, the General Counsel (or delegee) shall issue an order assessing the civil penalty proposed in the notice of proposed penalty under § 429.122, 30 calendar days after the respondent's receipt of the notice of proposed penalty.
+
+(b) If within 60 calendar days of receiving the assessment order in paragraph (a) of this section the respondent does not pay the civil penalty amount, DOE shall institute an action in the appropriate United States District Court for an order affirming the assessment of the civil penalty. The court shall have authority to review de novo the law and the facts involved and shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part, such assessment.

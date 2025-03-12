@@ -1,0 +1,3 @@
+##### § 59.514 Circumvention. #####
+
+Each manufacturer, distributor, and importer of an aerosol coating or component subject to the provisions of this subpart must not alter, destroy, or falsify any record or report, to conceal what would otherwise be noncompliance with this subpart. Such concealment includes, but is not limited to, refusing to provide the Administrator access to all required records and date-coding information, misstating the PWR content of a coating or component batch, or altering the results of any required tests to determine the PWR.

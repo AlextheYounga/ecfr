@@ -1,0 +1,13 @@
+##### § 26.139 Reporting initial validity and drug test results. #####
+
+(a) The licensee testing facility shall report as negative all specimens that are valid on the basis of validity screening or initial validity tests, or both, and are negative on the initial tests for drugs and drug metabolites. Except as permitted under § 26.75(h), positive test results from initial drug tests at the licensee testing facility may not be reported to licensee or other entity management. In addition, the licensee testing facility may not report results from validity screening or initial validity testing indicating that a specimen is of questionable validity or positive initial drug test results from specimens that are of questionable validity.
+
+(b) Except as provided in §§ 26.37 and 26.75(h), access to the results of initial tests must be limited to the licensee testing facility's staff, the MRO and MRO staff, the FFD program manager, and, when appropriate, EAP staff and the SAE.
+
+(c) The licensee testing facility shall provide qualified personnel, when required, to testify in an administrative or disciplinary proceeding against an individual when that proceeding is based on urinalysis results reported by the licensee testing facility.
+
+(d) The licensee testing facility shall prepare the information required for the annual report to the NRC, as required in § 26.717.
+
+(e) The data in the annual report to the NRC must be presented for either the cutoff levels specified in this part, or for more stringent cutoff levels, if the FFD program uses more stringent cutoff levels for drugs and drug metabolites. If the FFD program tests for drugs and drug metabolites that are not specified in § 26.31(d)(1), the summary must also include the number of positive test results and the cutoff levels used for those drugs and drug metabolites.
+
+(f) The designated FFD program official shall use the available information from the licensee testing facility's validity and drug test results, the results of quality control testing performed at the licensee testing facility, and the results from testing the quality control samples that the licensee testing facility submits to the HHS-certified laboratory to evaluate continued testing program effectiveness and detect any local trends in drugs of abuse that may require management action or FFD program adjustments. FFD program adjustments may include, but are not limited to, training enhancements, procedure changes, the expansion of the FFD program's drug panel to include additional drugs to be tested, or changes in the types of assays, validity screening tests, or instruments used.

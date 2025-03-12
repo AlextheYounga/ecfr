@@ -1,0 +1,3 @@
+##### § 222.40 Scope. #####
+
+Subpart E of this part applies to member banks of the Federal Reserve System (other than national banks) and their respective operating subsidiaries that are not functionally regulated within the meaning of section 5(c)(5) of the Bank Holding Company Act, as amended (12 U.S.C. 1844(c)(5)), branches and Agencies of foreign banks (other than Federal branches, Federal Agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act (12 U.S.C. 601 *et seq.,* and 611 *et seq.*).

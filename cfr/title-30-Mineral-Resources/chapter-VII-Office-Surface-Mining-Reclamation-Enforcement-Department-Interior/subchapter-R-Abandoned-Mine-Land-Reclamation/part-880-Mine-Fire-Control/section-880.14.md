@@ -1,0 +1,5 @@
+##### § 880.14 Administration of contributions. #####
+
+Financial contributions made by a State or Indian tribe, local authorities, or another Federal agency will be deposited in a trust fund in the Treasury of the United States. These contributions can be withdrawn by OSM and expended by the organization executing the project (OSM, a State, Indian tribe, or another Federal agency) pursuant to the cooperative agreement as necessary in performance of the project work. Withdrawals and expenditures from the trust fund will be made only for costs connected with the project. Any part of the money contributed by a State, Indian tribe, local authority, or another Federal agency for an individual project that remains unexpended upon the completion or termination of project will be returned to the State, Indian tribe, local authority, or other Federal agency.
+
+[59 FR 52378, Oct. 17, 1994]

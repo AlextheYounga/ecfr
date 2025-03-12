@@ -1,0 +1,15 @@
+##### § 178.345-13 Pressure and leakage tests. #####
+
+(a) Each cargo tank must be pressure and leakage tested in accordance with this section and §§ 178.346-5, 178.347-5, or 178.348-5.
+
+(b) *Pressure test.* Each cargo tank or cargo tank compartment must be tested hydrostatically or pneumatically. Each cargo tank of a multi-cargo tank motor vehicle must be tested with the adjacent cargo tanks empty and at atmospheric pressure. Each closure, except pressure relief devices and loading/unloading venting devices rated at less than the prescribed test pressure, must be in place during the test. If the venting device is not removed during the test, such device must be rendered inoperative by a clamp, plug or other equally effective restraining device, which may not prevent the detection of leaks, or damage the device. Restraining devices must be removed immediately after the test is completed.
+
+(1) *Hydrostatic method.* Each cargo tank, including its domes, must be filled with water or other liquid having similar viscosity, the temperature of which may not exceed 100 °F. The cargo tank must then be pressurized as prescribed in the applicable specification. The pressure must be gauged at the top of the cargo tank. The prescribed test pressure must be maintained for at least 10 minutes during which time the cargo tank must be inspected for leakage, bulging, or other defect.
+
+(2) *Pneumatic method.* A pneumatic test may be used in place of the hydrostatic test. However, pneumatic pressure testing may involve higher risk than hydrostatic testing. Therefore, suitable safeguards must be provided to protect personnel and facilities should failure occur during the test. The cargo tank must be pressurized with air or an inert gas. Test pressure must be reached gradually by increasing the pressure to one half of test pressure. Thereafter, the pressure must be increased in steps of approximately one tenth of the test pressure until test pressure is reached. Test pressure must be held for at least 5 minutes. The pressure must then be reduced to the inspection pressure which must be maintained while the entire cargo tank surface is inspected for leakage and other sign of defects. The inspection method must consist of coating all joints and fittings with a solution of soap and water or other equally sensitive method.
+
+(c) *Leakage test.* The cargo tank with all its accessories in place and operable must be leak tested at not less than 80 percent of tank's MAWP with the pressure maintained for at least 5 minutes.
+
+(d) Any cargo tank that leaks, bulges or shows any other sign of defect must be rejected. Rejected cargo tanks must be suitably repaired and retested successfully prior to being returned to service. The retest after any repair must use the same method of test under which the cargo tank was originally rejected.
+
+[Amdt. 178-89, 54 FR 25026, June 12, 1989, as amended at 55 FR 37063, Sept. 7, 1990; Amdt. 178-105, 59 FR 55176, Nov. 3, 1994; Amdt. 178-118, 61 FR 51342, Oct. 1, 1996; 65 FR 58631, Sept. 29, 2000; 68 FR 19284, Apr. 18, 2003]

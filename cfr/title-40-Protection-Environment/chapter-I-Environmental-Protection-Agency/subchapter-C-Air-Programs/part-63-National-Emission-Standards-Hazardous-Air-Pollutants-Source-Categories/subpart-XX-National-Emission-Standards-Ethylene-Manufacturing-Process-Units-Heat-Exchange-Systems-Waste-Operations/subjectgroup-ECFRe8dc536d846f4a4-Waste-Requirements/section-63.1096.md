@@ -1,0 +1,11 @@
+##### § 63.1096 What requirements must I comply with if I transfer waste off-site? #####
+
+If you elect to transfer waste off-site, you must comply with the requirements in paragraphs (a) through (d) of this section.
+
+(a) Include a notice with the shipment or transport of each waste stream. The notice shall state that the waste stream contains organic HAP that are to be treated in accordance with the provisions of this subpart. When the transport is continuous or ongoing (for example, discharge to a publicly-owned treatment works), the notice shall be submitted to the treatment operator initially and whenever there is a change in the required treatment.
+
+(b) You may not transfer the waste stream unless the transferee has submitted to the Administrator a written certification that the transferee will manage and treat any waste stream received from a source subject to the requirements of this subpart in accordance with the requirements of this subpart.
+
+(c) By providing this written certification to the Administrator, the certifying entity accepts responsibility for compliance with the regulatory provisions in this subpart with respect to any shipment of waste covered by the written certification. Failure to abide by any of those provisions with respect to such shipments may result in enforcement action by EPA against the certifying entity in accordance with the enforcement provisions applicable to violations of those provisions by owners or operators of sources.
+
+(d) The certifying entity may revoke the written certification by sending a written statement to the Administrator and you. The notice of revocation must provide at least 90 days notice that the certifying entity is rescinding acceptance of responsibility for compliance with the regulatory provisions of this subpart. Upon expiration of the notice period, you may not transfer the waste stream to that off-site treatment operation. Written certifications and revocation statements to the Administrator from the transferees of waste shall be signed by the responsible official of the certifying entity, provide the name and address of the certifying entity, and be sent to the appropriate EPA Regional Office at the addresses listed in 40 CFR 63.13. Such written certifications are not transferable by the treater to other off-site waste treatment operators.

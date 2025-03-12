@@ -1,0 +1,3 @@
+##### § 51a.6 What confidentiality requirements must be met? #####
+
+All information as to personal facts and circumstances obtained by the project's staff about recipients of services shall be held confidential, and shall not be disclosed without the individual's consent except as may be otherwise required by applicable law or as may be necessary to provide for medical audits by the Secretary with appropriate safeguards for confidentiality of patient records. Otherwise, information may be disclosed only in summary, statistical, or other form which does not identify particular individuals.

@@ -1,0 +1,3 @@
+##### 49.109-1 General. #####
+
+When a termination settlement has been negotiated and all required reviews have been obtained, the contractor and the TCO shall execute a settlement agreement on Standard Form 30 (Amendment of Solicitation/Modification of Contract) (see 49.603). The settlement shall cover (a) any setoffs that the Government has against the contractor that may be applied against the terminated contract and (b) all settlement proposals of subcontractors, except proposals that are specifically excepted from the agreement and reserved for separate settlement.

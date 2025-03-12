@@ -1,0 +1,3 @@
+##### § 93.221 PHS support. #####
+
+*PHS support* means PHS funding, or applications or proposals therefor, for biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or training, that may be provided through: Funding for PHS intramural research; PHS grants, cooperative agreements, or contracts or subgrants or subcontracts under those PHS funding instruments; or salary or other payments under PHS grants, cooperative agreements or contracts.

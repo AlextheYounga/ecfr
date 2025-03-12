@@ -1,0 +1,3 @@
+##### § 73.840 Operating power and mode tolerances. #####
+
+The transmitter power output (TPO) of an LPFM station must be determined by the procedures set forth in § 73.267 of this part. The operating TPO of an LPFM station with an authorized TPO of more than ten watts must be maintained as near as practicable to its authorized TPO and may not be less than 90% of the minimum TPO nor greater than 105% of the maximum authorized TPO. An LPFM station with an authorized TPO of ten watts or less may operate with less than the authorized power, but not more than 105% of the authorized power.

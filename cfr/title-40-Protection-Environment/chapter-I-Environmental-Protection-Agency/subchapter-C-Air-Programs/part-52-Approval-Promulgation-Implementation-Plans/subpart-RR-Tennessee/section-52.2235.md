@@ -1,0 +1,11 @@
+##### § 52.2235 Control strategy: Ozone. #####
+
+(a) Determination—EPA is determining that, as of August 8, 1995, the Nashville ozone nonattainment area has attained the ozone standard and that the reasonable further progress and attainment demonstration requirements of section 182(b)(1) and related requirements of section 172(c)(9) of the Clean Air Act do not apply to the area for so long as the area does not monitor any violations of the ozone standard. If a violation of the ozone NAAQS is monitored in the Nashville ozone nonattainment area, these determinations shall no longer apply.
+
+(b) Nonregulatory provisions for the implementation of a basic I/M program in Rutherford, Sumner, Williamson, and Wilson Counties, submitted on July 13, 1994, were approved by EPA on September 26, 1995.
+
+(c) Determination of Attaining Data. EPA has determined, as of October 12, 2010 the Knoxville, Tennessee nonattainment area has attaining data for the 1997 8-hour ozone NAAQS. This determination, in accordance with 40 CFR 51.918, suspends the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standards for as long as this area continues to meet the 1997 8-hour ozone NAAQS.
+
+(d) *Determination of attainment.* The EPA has determined, as of June 3, 2016, that based on 2011 to 2013 ambient air quality data, the Knoxville, TN and Memphis, TN-MS-AR 2008 ozone Marginal nonattainment areas have attained the 2008 ozone NAAQS. Therefore, the EPA has met the requirement pursuant to CAA section 181(b)(2)(A) to determine, based on an area's air quality data as of the attainment date, whether the areas attained the standard. The EPA also determined that the Knoxville, TN and Memphis, TN-MS-AR nonattainment areas will not be reclassified for failure to attain by their applicable attainment date under section 181(b)(2)(A).
+
+[60 FR 40292, Aug. 8, 1995, as amended at 60 FR 47290, Sept. 12, 1995; 75 FR 62472, Oct. 12, 2010; 81 FR 26711, May 4, 2016]

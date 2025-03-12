@@ -1,0 +1,5 @@
+##### § 820.31 Initial decision. #####
+
+(a) *Initial Decision.* The Presiding Officer shall file an Initial Decision as soon as practicable after the period for filing reply briefs under 820.30 has expired. The Initial Decision shall contain findings of fact, conclusions regarding all material issues of law or discretion, as well as reasons therefor, any remedy and a proposed Final Order. A party may file comments on an Initial Decision within fifteen days of its filing.
+
+(b) *Amount of civil penalty.* If the Presiding Officer determines that a violation has occurred and that a civil penalty is appropriate, the Initial Decision shall set forth the dollar amount of the civil penalty. If the Presiding Officer decides to assess a penalty different in amount from the penalty assessed in the Final Notice of Violation, the Initial Decision shall set forth the specific reasons for the increase or decrease.

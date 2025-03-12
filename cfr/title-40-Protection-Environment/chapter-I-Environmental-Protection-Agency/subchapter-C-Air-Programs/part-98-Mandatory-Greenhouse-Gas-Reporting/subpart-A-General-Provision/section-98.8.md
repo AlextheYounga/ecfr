@@ -1,0 +1,3 @@
+##### § 98.8 What are the compliance and enforcement provisions of this part? #####
+
+Any violation of any requirement of this part shall be a violation of the Clean Air Act, including section 114 (42 U.S.C. 7414). A violation includes but is not limited to failure to report GHG emissions, failure to collect data needed to calculate GHG emissions, failure to continuously monitor and test as required, failure to retain records needed to verify the amount of GHG emissions, and failure to calculate GHG emissions following the methodologies specified in this part. Each day of a violation constitutes a separate violation.

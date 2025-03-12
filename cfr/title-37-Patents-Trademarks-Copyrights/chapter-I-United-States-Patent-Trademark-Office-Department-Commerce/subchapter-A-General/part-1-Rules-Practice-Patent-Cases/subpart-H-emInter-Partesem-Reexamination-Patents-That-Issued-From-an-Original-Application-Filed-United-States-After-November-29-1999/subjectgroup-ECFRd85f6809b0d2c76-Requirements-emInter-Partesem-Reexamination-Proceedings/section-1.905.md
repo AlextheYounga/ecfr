@@ -1,0 +1,3 @@
+##### § 1.905 Submission of papers by the public in inter partes reexamination. #####
+
+Unless specifically provided for, no submissions on behalf of any third parties other than third party requesters as defined in 35 U.S.C. 100(e) will be considered unless such submissions are in accordance with § 1.915 or entered in the patent file prior to the date of the order for reexamination pursuant to § 1.931. Submissions by third parties, other than third party requesters, filed after the date of the order for reexamination pursuant to § 1.931, must meet the requirements of § 1.501 and will be treated in accordance with § 1.902. Submissions which do not meet the requirements of § 1.501 will be returned.

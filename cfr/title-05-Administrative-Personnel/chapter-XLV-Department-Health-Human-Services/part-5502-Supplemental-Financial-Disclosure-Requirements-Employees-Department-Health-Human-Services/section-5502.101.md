@@ -1,0 +1,3 @@
+##### § 5502.101 General. #####
+
+The regulations in this part apply to employees of the Department of Health and Human Services and supplement the Executive Branch Financial Disclosure Regulations in 5 CFR part 2634. Any regulation in this part made applicable only to the employees of an HHS component designated as a separate agency under § 5501.102(a) of this chapter shall apply to the employees of that component as defined in § 5501.102(b)(1) of this chapter.

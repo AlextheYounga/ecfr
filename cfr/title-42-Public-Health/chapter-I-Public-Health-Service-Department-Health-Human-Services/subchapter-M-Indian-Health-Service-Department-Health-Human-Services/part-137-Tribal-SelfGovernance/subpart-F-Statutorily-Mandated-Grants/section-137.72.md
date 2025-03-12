@@ -1,0 +1,3 @@
+##### § 137.72 Are Self-Governance Tribes and their employees carrying out statutorily mandated grant programs added to a funding agreement covered by the Federal Tort Claims Act (FTCA)? #####
+
+Yes, Self-Governance Tribes and their employees carrying out statutorily mandated grant programs are added to a funding agreement covered by the FTCA. Regulations governing coverage under the FTCA are published at 25 CFR Part 900, Subpart M.

@@ -1,0 +1,7 @@
+##### § 52.1679 Determinations of attainment. #####
+
+(a) Based upon EPA's review of complete, quality-assured air quality data for the 3-year period 2005 to 2007, EPA determined, as of June 18, 2012, that the New York-Northern New Jersey-Long Island (NY-NJ-CT) one-hour ozone nonattainment area did not meet its applicable one-hour ozone attainment date of November 15, 2007. Separate from and independent of this determination, based on 2008-2010 complete, quality-assured ozone monitoring data at all monitoring sites in the area, and data for 2011, EPA determined, as of June 18, 2012, that the NY-NJ-CT one-hour ozone nonattainment area met the one-hour ozone NAAQS.
+
+(b) *Determination of attainment.* The EPA has determined, as of June 3, 2016, that based on 2012 to 2014 ambient air quality data, the Jamestown, NY 2008 ozone Marginal nonattainment area has attained the 2008 ozone NAAQS. Therefore, the EPA has met the requirement pursuant to CAA section 181(b)(2)(A) to determine, based on the area's air quality data as of the attainment date, whether the area attained the standard. The EPA also determined that the Jamestown, NY nonattainment area will not be reclassified for failure to attain by its applicable attainment date under section 181(b)(2)(A).
+
+[77 FR 36169, June 18, 2012, as amended at 81 FR 26710, May 4, 2016]

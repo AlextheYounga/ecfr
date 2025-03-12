@@ -1,0 +1,3 @@
+##### § 732.203 Periodic reinvestigation requirements. #####
+
+The incumbent of each position designated Special-Sensitive or Critical-Sensitive under this part shall be subject to periodic reinvestigation of a scope prescribed by OPM 5 years after placement, and at least once each succeeding 5 years. The employing agency will use the results of such periodic reinvestigation to determine whether the continued employment of the individual in a sensitive position is clearly consistent with the interests of the national security.

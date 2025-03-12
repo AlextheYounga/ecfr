@@ -1,0 +1,3 @@
+##### § 2.192 Business to be conducted with decorum and courtesy. #####
+
+Trademark applicants, registrants, and parties to proceedings before the Trademark Trial and Appeal Board and their attorneys or agents are required to conduct their business with decorum and courtesy. Documents presented in violation of this requirement will be submitted to the Director and will be returned by the Director's direct order. Complaints against trademark examining attorneys and other employees must be made in correspondence separate from other documents.

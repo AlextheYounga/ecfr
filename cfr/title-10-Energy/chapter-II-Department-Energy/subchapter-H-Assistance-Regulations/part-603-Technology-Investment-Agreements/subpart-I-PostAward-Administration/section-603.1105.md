@@ -1,0 +1,13 @@
+##### § 603.1105 Advance payments or payable milestones. #####
+
+The contracting officer must:
+
+(a) For any expenditure-based TIA with advance payments or payable milestones, forward to the responsible payment office any interest that the recipient remits in accordance with § 603.820(b). The payment office will return the amounts to the Department of the Treasury's miscellaneous receipts account.
+
+(b) For any expenditure-based TIA with advance payments, consult with the program official and consider whether program progress reported in periodic reports, in relation to reported expenditures, is sufficient to justify the continued authorization of advance payments under § 603.805(b).
+
+(c) For any expenditure-based TIA using milestone payments, work with the program official at the completion of each payable milestone or upon receipt of the next business status report to:
+
+(1) Compare the total amount of project expenditures, as recorded in the payable milestone report or business status report, with the projected budget for completing the milestone; and
+
+(2) Adjust future payable milestones, as needed, if expenditures lag substantially behind what was originally projected and the contracting officer judges that the recipient is receiving Federal funds sooner than necessary for program purposes. Before making adjustments, the contracting officer should consider how large a deviation is acceptable at the time of the milestone. For example, suppose that the first milestone payment for a TIA is $50,000, and that the awarding official set the amount based on a projection that the recipient would have to expend $100,000 to reach the milestone (*i.e.*, the original plan was for the recipient's share at that milestone to be 50% of project expenditures). If the milestone payment report shows $90,000 in expenditures, the recipient's share at this point is 44% ($40,000 out of the total $90,000 expended, with the balance provided by the $50,000 milestone payment of Federal funds). For this example, the contracting officer should adjust future milestones if a 6% difference in the recipient's share at the first milestone is judged to be too large, but not otherwise. Remember that milestone payment amounts are not meant to track expenditures precisely at each milestone and that a recipient's share will increase as it continues to perform RD&D and expend funds, until it completes another milestone to trigger the next Federal payment.

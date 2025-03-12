@@ -1,0 +1,5 @@
+##### § 60.73 Reports of deficiencies. #####
+
+DOE shall promptly notify the Commission of each deficiency found in the characteristics of the site, and design and construction of the geologic repository operations area which, were it to remain uncorrected, could: (a) Be a substantial safety hazard, (b) represent a significant deviation from the design criteria and design bases stated in the application, or (c) represent a deviation from the conditions stated in the terms of a construction authorization or the license, including license specifications. The notification shall be in the form of a written report, copies of which shall be sent to the Director and to the appropriate Nuclear Regulatory Commission Regional Office listed in appendix D of part 20 of this chapter.
+
+[48 FR 28222, June 21, 1983]

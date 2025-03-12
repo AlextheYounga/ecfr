@@ -1,0 +1,3 @@
+##### § 1808.301 Eligible uses of Bond Proceeds. #####
+
+Bond Proceeds must be used by a Qualified Issuer to finance Bond Loans or Refinance loans to Eligible CDFIs for Eligible Purposes as defined in section 1808.102 of this interim rule. A Qualified Issuer that is also a Certified CDFI may not finance a Bond Loan to itself or refinance its own loan. One hundred percent of the principal amount of each Bond must be used to make Bond Loans. As a Bond Loan is repaid, such repaid Bond Loan proceeds in excess of those required for debt service payments on the Bond must be used to repay the Bond or held in the Relending Account and used for additional Secondary Loans, to the extent authorized under § 1808.308.

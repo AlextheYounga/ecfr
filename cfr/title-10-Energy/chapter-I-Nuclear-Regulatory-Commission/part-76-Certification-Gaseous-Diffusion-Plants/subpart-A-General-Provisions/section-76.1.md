@@ -1,0 +1,5 @@
+##### § 76.1 Purpose. #####
+
+(a) This part establishes requirements that will govern the operation of those portions of the Portsmouth and Paducah Gaseous Diffusion Plants located in Piketon, Ohio, and Paducah, Kentucky, respectively, that are leased by the United States Enrichment Corporation. These requirements are promulgated to protect the public health and safety from radiological hazards and provide for the common defense and security. This part also establishes the certification process that will be used to ensure compliance with the established requirements.
+
+(b) The regulations contained in this part are issued pursuant to the Atomic Energy Act of 1954, as amended (68 Stat. 919); Title II of the Energy Reorganization Act of 1974, as amended (88 Stat. 1242); and Titles IX and XI of the Energy Policy Act of 1992 (106 Stat. 2923, 2951).

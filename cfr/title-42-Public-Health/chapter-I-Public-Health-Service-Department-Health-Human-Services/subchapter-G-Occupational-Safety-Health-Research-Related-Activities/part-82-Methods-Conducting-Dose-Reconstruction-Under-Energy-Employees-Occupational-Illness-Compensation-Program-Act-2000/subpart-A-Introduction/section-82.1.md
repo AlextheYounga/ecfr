@@ -1,0 +1,3 @@
+##### § 82.1 What is the purpose of this part? #####
+
+The purpose of this part is to provide methods for determining a reasonable estimate of the radiation dose received by a covered employee with cancer under EEOICPA, through the completion of a dose reconstruction. These methods will be applied by the National Institute for Occupational Safety and Health (NIOSH) in a dose reconstruction program serving claimants under EEOICPA, as identified under § 82.0.

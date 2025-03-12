@@ -1,0 +1,3 @@
+##### § 545.2 Federal preemption. #####
+
+The regulations in this part 545 are promulgated pursuant to the plenary and exclusive authority of the Office to regulate all aspects of the operations of Federal savings associations, as set forth in section 5(a) of the Act. This exercise of the Office's authority is preemptive of any state law purporting to address the subject of the operations of a Federal savings association.

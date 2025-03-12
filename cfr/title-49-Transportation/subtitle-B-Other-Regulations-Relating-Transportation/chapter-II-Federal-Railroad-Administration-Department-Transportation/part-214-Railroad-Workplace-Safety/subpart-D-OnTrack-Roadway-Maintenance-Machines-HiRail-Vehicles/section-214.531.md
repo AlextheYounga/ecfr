@@ -1,0 +1,3 @@
+##### § 214.531 Schedule of repairs; general. #####
+
+Except as provided in §§ 214.527(c)(5), 214.529, and 214.533, an on-track roadway maintenance machine or hi-rail vehicle that does not meet all the requirements of this subpart shall be brought into compliance as soon as practicable within seven calendar days. If repairs are not made within seven calendar days, the on-track roadway maintenance machine or hi-rail vehicle shall be placed out of on-track service.

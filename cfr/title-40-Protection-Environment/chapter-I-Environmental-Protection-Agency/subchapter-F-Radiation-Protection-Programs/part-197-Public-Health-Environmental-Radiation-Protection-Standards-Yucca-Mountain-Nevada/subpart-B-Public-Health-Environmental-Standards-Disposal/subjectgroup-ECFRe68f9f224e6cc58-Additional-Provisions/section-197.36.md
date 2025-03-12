@@ -1,0 +1,23 @@
+##### § 197.36 Are there limits on what DOE must consider in the performance assessments? #####
+
+(a) Yes, there are limits on what DOE must consider in the performance assessments.
+
+(1) The DOE's performance assessments conducted to show compliance with §§ 197.20(a)(1), 197.25(b)(1), and 197.30 shall not include consideration of very unlikely features, events, or processes, i.e., those that are estimated to have less than one chance in 100,000,000 per year of occurring. Features, events, and processes with a higher chance of occurring shall be considered for use in performance assessments conducted to show compliance with §§ 197.20(a)(1), 197.25(b)(1), and 197.30, except as stipulated in paragraph (b) of this section. In addition, unless otherwise specified in these standards or NRC regulations, DOE's performance assessments need not evaluate the impacts resulting from features, events, and processes or sequences of events and processes with a higher chance of occurring if the results of the performance assessments would not be changed significantly in the initial 10,000-year period after disposal.
+
+(2) The same features, events, and processes identified in paragraph (a)(1) of this section shall be used in performance assessments conducted to show compliance with §§ 197.20(a)(2) and 197.25(b)(2), with additional considerations as stipulated in paragraph (c) of this section.
+
+(b) For performance assessments conducted to show compliance with §§ 197.25(b) and 197.30, DOE's performance assessments shall exclude unlikely features, events, or processes, or sequences of events and processes. The DOE should use the specific probability of the unlikely features, events, and processes as specified by NRC.
+
+(c) For performance assessments conducted to show compliance with §§ 197.20(a)(2) and 197.25(b)(2), DOE's performance assessments shall project the continued effects of the features, events, and processes included in paragraph (a) of this section beyond the 10,000-year post-disposal period through the period of geologic stability. The DOE must evaluate all of the features, events, or processes included in paragraph (a) of this section, and also:
+
+(1) The DOE must assess the effects of seismic and igneous scenarios, subject to the probability limits in paragraph (a) of this section for very unlikely features, events, and processes. Performance assessments conducted to show compliance with § 197.25(b)(2) are also subject to the probability limits for unlikely features, events, and processes as specified by NRC.
+
+(i) The seismic analysis may be limited to the effects caused by damage to the drifts in the repository, failure of the waste packages, and changes in the elevation of the water table under Yucca Mountain. NRC may determine the magnitude of the water table rise and its significance on the results of the performance assessment, or NRC may require DOE to demonstrate the magnitude of the water table rise and its significance in the license application. If NRC determines that the increased elevation of the water table does not significantly affect the results of the performance assessment, NRC may choose to not require its consideration in the performance assessment.
+
+(ii) The igneous analysis may be limited to the effects of a volcanic event directly intersecting the repository. The igneous event may be limited to that causing damage to the waste packages directly, causing releases of radionuclides to the biosphere, atmosphere, or ground water.
+
+(2) The DOE must assess the effects of climate change. The climate change analysis may be limited to the effects of increased water flow through the repository as a result of climate change, and the resulting transport and release of radionuclides to the accessible environment. The nature and degree of climate change may be represented by constant climate conditions. The analysis may commence at 10,000 years after disposal and shall extend through the period of geologic stability. The NRC shall specify in regulation the values to be used to represent climate change, such as temperature, precipitation, or infiltration rate of water.
+
+(3) The DOE must assess the effects of general corrosion on engineered barriers. The DOE may use a constant representative corrosion rate throughout the period of geologic stability or a distribution of corrosion rates correlated to other repository parameters.
+
+[73 FR 61288, Oct. 15, 2008]

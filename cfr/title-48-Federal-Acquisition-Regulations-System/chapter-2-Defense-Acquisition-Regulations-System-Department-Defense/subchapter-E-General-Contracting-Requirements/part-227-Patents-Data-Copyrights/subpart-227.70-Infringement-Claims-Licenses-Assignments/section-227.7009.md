@@ -1,0 +1,3 @@
+##### 227.7009 Patent releases, license agreements, and assignments. #####
+
+This section contains clauses for use in patent release and settlement agreements, license agreements, and assignments, executed by the Government, under which the Government acquires rights. Minor modifications of language (e.g., pluralization of “Secretary” or “Contracting Officer”) in multi-departmental agreements may be made if necessary.

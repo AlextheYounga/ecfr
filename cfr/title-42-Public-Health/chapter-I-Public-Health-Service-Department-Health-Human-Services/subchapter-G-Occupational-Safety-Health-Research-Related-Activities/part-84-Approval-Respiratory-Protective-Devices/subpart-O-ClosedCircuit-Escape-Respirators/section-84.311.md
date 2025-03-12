@@ -1,0 +1,7 @@
+##### § 84.311 Registration of CCER units upon purchase. #####
+
+(a) The user instructions will include a copy of procedures for registering the units with NIOSH. The applicant can obtain a copy of these procedures from the NIOSH web page: *http://www.cdc.gov/niosh/npptl.*
+
+(b) The applicant shall notify in writing each purchaser of the purpose of registering a unit with NIOSH, as specified under paragraph (c) of this section. If the purchaser is a distributor of the CCER, the applicant must request in writing that the distributor voluntarily notify in writing each of its purchasers of the purpose of registering a unit with NIOSH, as specified under paragraph (c) of this section.
+
+(c) “The National Institute for Occupational Safety and Health (NIOSH) requests, but does not require, that purchasers of this respirator register each unit with NIOSH. Registration will enable NIOSH, which approved this model of respirator, to attempt to notify you if a problem is discovered that might affect the safety or performance of this respirator. Registration will also assist NIOSH in locating deployed units to periodically evaluate whether this respirator model is remaining effective under field conditions of storage and use.”

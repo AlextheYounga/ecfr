@@ -1,0 +1,5 @@
+##### § 2422.26 How are objections to the election processed? #####
+
+(a) *Filing objections to the election.* Any party may file objections to the procedural conduct of the election or to conduct that may have improperly affected the results of the election. A party must file an objection and the Regional Director must receive it within five (5) days after the tally of ballots has been served. Any objections must be timely regardless of whether the challenged ballots are sufficient in number to affect the results of the election. The objections must be supported by clear and concise reasons. A party must file an original and two (2) copies of the objections.
+
+(b) *Supporting evidence.* The objecting party must file evidence, including signed statements, documents, and other materials supporting the objections, with the Regional Director within ten (10) days after the party files the objections.

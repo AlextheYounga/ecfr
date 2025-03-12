@@ -1,0 +1,3 @@
+##### § 92.27 Duration of deductions. #####
+
+Debts shall be collected in one lump sum where possible. However, if the employee is financially unable to pay in one lump sum or the amount of the debt exceeds 15 percent of disposable pay payable in one pay period, collection will be made in installments. Such installment deductions will be made over a period not greater than the anticipated period of employment or active duty, as the case may be, except as provided in §§ 92.29, 92.31, and 92.33 of this part.

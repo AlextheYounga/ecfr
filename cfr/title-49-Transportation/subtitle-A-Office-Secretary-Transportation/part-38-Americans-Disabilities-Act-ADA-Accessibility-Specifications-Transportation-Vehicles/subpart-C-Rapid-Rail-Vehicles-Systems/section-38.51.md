@@ -1,0 +1,7 @@
+##### § 38.51 General. #####
+
+(a) New, used and remanufactured rapid rail vehicles, to be considered accessible by regulations in part 37 of this title, shall comply with this subpart.
+
+(b) If portions of the vehicle are modified in a way that affects or could affect accessibility, each such portion shall comply, to the extent practicable, with the applicable provisions of this subpart. This provision does not require that inaccessible vehicles be retrofitted with lifts, ramps or other boarding devices.
+
+(c) Existing vehicles which are retrofitted to comply with the “one-car-per-train rule” of § 37.93 of this title shall comply with §§ 38.55, 38.57(b), 38.59 of this part and shall have, in new and key stations, at least one door complying with §§ 38.53 (a)(1), (b) and (d) of this part. Removal of seats is not required. Vehicles previously designed and manufactured in accordance with the accessibility requirements of part 609 of this title or the Secretary of Transportation regulations implementing section 504 of the Rehabilitation Act of 1973 that were in effect before October 7, 1991, and which can be entered and used from stations in which they are to be operated, may be used to satisfy the requirements of § 37.93 of this title.

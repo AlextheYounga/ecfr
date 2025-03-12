@@ -1,0 +1,3 @@
+##### § 60.4860 Do the emission limits, emission standards, and operating limits apply during periods of startup, shutdown, and malfunction? #####
+
+The emission limits and standards apply at all times and during periods of malfunction. The operating limits apply at all times that sewage sludge is in the combustion chamber (*i.e.,* until the sewage sludge feed to the combustor has been cut off for a period of time not less than the sewage sludge incineration residence time).

@@ -1,0 +1,3 @@
+##### § 353.107 Service credit upon reemployment. #####
+
+Upon reemployment, an employee absent because of uniformed service or compensable injury is generally entitled to be treated as though he or she had never left. This means that a person who is reemployed following uniformed service or full recovery from compensable injury receives credit for the entire period of the absence for purposes of rights and benefits based upon seniority and length of service, including within-grade increases, career tenure, completion of probation, leave rate accrual, and severance pay.

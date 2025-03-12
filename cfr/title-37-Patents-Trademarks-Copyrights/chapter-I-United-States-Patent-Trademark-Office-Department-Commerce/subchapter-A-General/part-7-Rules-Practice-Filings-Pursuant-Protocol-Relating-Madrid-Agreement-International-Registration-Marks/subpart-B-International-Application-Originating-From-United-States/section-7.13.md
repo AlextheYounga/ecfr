@@ -1,0 +1,5 @@
+##### § 7.13 Certification of international application. #####
+
+(a) When an international application contains all the elements set forth in § 7.11(a), the Office will certify to the International Bureau that the information contained in the international application corresponds to the information contained in the basic application(s) and/or basic registration(s) at the time of certification, and will then forward the international application to the International Bureau.
+
+(b) When an international application does not meet the requirements of § 7.11(a), the Office will not certify or forward the international application. If the international applicant paid the international application fees (see § 7.7) through the Office, the Office will refund the international fees. The Office will not refund the certification fee.

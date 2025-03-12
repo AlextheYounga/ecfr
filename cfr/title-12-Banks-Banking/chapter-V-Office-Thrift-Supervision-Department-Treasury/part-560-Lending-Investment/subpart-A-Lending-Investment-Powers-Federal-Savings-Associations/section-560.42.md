@@ -1,0 +1,17 @@
+##### § 560.42 State and local government obligations. #####
+
+(a) *What limitations apply?* Pursuant to HOLA section 5(c)(1)(H), a Federal savings association (“you”) may invest in obligations issued by any state, territory, possession, or political subdivision thereof (“governmental entity”), subject to appropriate underwriting and the following conditions:
+
+|                                                                                                                                                                                                                       |        Aggregate limitation         |Per-issuer limitation|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------|
+|                                                                                                (1) General obligations                                                                                                |                None                 |        None.        |
+|(2) Other obligations of a governmental entity (e.g., revenue bonds) that hold one of the four highest investment grade ratings by a nationally recognized rating agency or that are nonrated but of investment quality|                None                 |10% of total capital.|
+|                                           (3) Obligations of a governmental entity that do not qualify under any other paragraph but are approved by your Regional Director                                           |As approved by your Regional Director|10% of total capital.|
+
+(b) *What is a political subdivision? Political subdivision* means a county, city, town, or other municipal corporation, a public authority, or a publicly-owned entity that is an instrumentality of a state or a municipal corporation.
+
+(c) *What is a general obligation of a state or political subdivision?* A *general obligation* is an obligation that is guaranteed by the full faith and credit of a state or political subdivision that has the power to tax. Indirect payments, such as through a special fund, may qualify as general obligations if a state or political subdivision with taxing authority has unconditionally agreed to provide funds to cover payments.
+
+(d) *What is appropriate underwriting for this type of investment?* In the case of a security rated in one of the four highest investment grades by a nationally recognized rating agency, your assessment of the obligor's credit quality may be based, in part, on reliable rating agency estimates of the obligor's performance. For all other securities, you must perform your own detailed analysis of credit quality. In doing so, you must consider, as appropriate, the interest rate, credit, liquidity, price, transaction, and other risks associated with the investment activity and determine that such investment is appropriate for your institution. You must also determine that the obligor has adequate resources and willingness to provide for all required payments on its obligations in a timely manner.
+
+[66 FR 65826, Dec. 21, 2001]

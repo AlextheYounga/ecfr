@@ -1,0 +1,5 @@
+##### § 238.13 Prohibited acquisitions. #####
+
+(a) No savings and loan holding company may, directly or indirectly, or through one or more subsidiaries or through one or more transactions, acquire control of an uninsured institution or retain, for more than one year after the date any savings association subsidiary becomes uninsured, control of such association.
+
+(b) *Control of mutual savings association.* No savings and loan holding company or any subsidiary thereof, or any director, officer, or employee of a savings and loan holding company or subsidiary thereof, or person owning, controlling, or holding with power to vote, or holding proxies representing, more than 25 percent of the voting shares of such holding company or subsidiary, may hold, solicit, or exercise any proxies in respect of any voting rights in a mutual savings association.

@@ -1,0 +1,3 @@
+##### § 71.127 Handling, storage, and shipping control. #####
+
+The licensee, certificate holder, and applicant for a CoC shall establish measures to control, in accordance with instructions, the handling, storage, shipping, cleaning, and preservation of materials and equipment to be used in packaging to prevent damage or deterioration. When necessary for particular products, special protective environments, such as inert gas atmosphere, and specific moisture content and temperature levels must be specified and provided.

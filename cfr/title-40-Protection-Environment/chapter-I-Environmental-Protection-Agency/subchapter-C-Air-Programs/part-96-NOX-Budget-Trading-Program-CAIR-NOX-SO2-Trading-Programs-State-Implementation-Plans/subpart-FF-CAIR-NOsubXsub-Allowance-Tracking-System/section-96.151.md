@@ -1,0 +1,69 @@
+##### § 96.151 Establishment of accounts. #####
+
+(a) *Compliance accounts.* Except as provided in § 96.184(e), upon receipt of a complete certificate of representation under § 96.113, the Administrator will establish a compliance account for the CAIR NOX source for which the certificate of representation was submitted unless the source already has a compliance account.
+
+(b) *General accounts*—(1) *Application for general account.* (i) Any person may apply to open a general account for the purpose of holding and transferring CAIR NOX allowances. An application for a general account may designate one and only one CAIR authorized account representative and one and only one alternate CAIR authorized account representative who may act on behalf of the CAIR authorized account representative. The agreement by which the alternate CAIR authorized account representative is selected shall include a procedure for authorizing the alternate CAIR authorized account representative to act in lieu of the CAIR authorized account representative.
+
+(ii) A complete application for a general account shall be submitted to the Administrator and shall include the following elements in a format prescribed by the Administrator:
+
+(A) Name, mailing address, e-mail address (if any), telephone number, and facsimile transmission number (if any) of the CAIR authorized account representative and any alternate CAIR authorized account representative;
+
+(B) Organization name and type of organization, if applicable;
+
+(C) A list of all persons subject to a binding agreement for the CAIR authorized account representative and any alternate CAIR authorized account representative to represent their ownership interest with respect to the CAIR NOX allowances held in the general account;
+
+(D) The following certification statement by the CAIR authorized account representative and any alternate CAIR authorized account representative: “I certify that I was selected as the CAIR authorized account representative or the alternate CAIR authorized account representative, as applicable, by an agreement that is binding on all persons who have an ownership interest with respect to CAIR NOX allowances held in the general account. I certify that I have all the necessary authority to carry out my duties and responsibilities under the CAIR NOX Annual Trading Program on behalf of such persons and that each such person shall be fully bound by my representations, actions, inactions, or submissions and by any order or decision issued to me by the Administrator or a court regarding the general account.”
+
+(E) The signature of the CAIR authorized account representative and any alternate CAIR authorized account representative and the dates signed.
+
+(iii) Unless otherwise required by the permitting authority or the Administrator, documents of agreement referred to in the application for a general account shall not be submitted to the permitting authority or the Administrator. Neither the permitting authority nor the Administrator shall be under any obligation to review or evaluate the sufficiency of such documents, if submitted.
+
+(2) *Authorization of CAIR authorized account representative and alternate CAIR authorized account representative.* (i) Upon receipt by the Administrator of a complete application for a general account under paragraph (b)(1) of this section:
+
+(A) The Administrator will establish a general account for the person or persons for whom the application is submitted.
+
+(B) The CAIR authorized account representative and any alternate CAIR authorized account representative for the general account shall represent and, by his or her representations, actions, inactions, or submissions, legally bind each person who has an ownership interest with respect to CAIR NOX allowances held in the general account in all matters pertaining to the CAIR NOX Annual Trading Program, notwithstanding any agreement between the CAIR authorized account representative or any alternate CAIR authorized account representative and such person. Any such person shall be bound by any order or decision issued to the CAIR authorized account representative or any alternate CAIR authorized account representative by the Administrator or a court regarding the general account.
+
+(C) Any representation, action, inaction, or submission by any alternate CAIR authorized account representative shall be deemed to be a representation, action, inaction, or submission by the CAIR authorized account representative.
+
+(ii) Each submission concerning the general account shall be submitted, signed, and certified by the CAIR authorized account representative or any alternate CAIR authorized account representative for the persons having an ownership interest with respect to CAIR NOX allowances held in the general account. Each such submission shall include the following certification statement by the CAIR authorized account representative or any alternate CAIR authorized account representative: “I am authorized to make this submission on behalf of the persons having an ownership interest with respect to the CAIR NOX allowances held in the general account. I certify under penalty of law that I have personally examined, and am familiar with, the statements and information submitted in this document and all its attachments. Based on my inquiry of those individuals with primary responsibility for obtaining the information, I certify that the statements and information are to the best of my knowledge and belief true, accurate, and complete. I am aware that there are significant penalties for submitting false statements and information or omitting required statements and information, including the possibility of fine or imprisonment.”
+
+(iii) The Administrator will accept or act on a submission concerning the general account only if the submission has been made, signed, and certified in accordance with paragraph (b)(2)(ii) of this section.
+
+(3) *Changing CAIR authorized account representative and alternate CAIR authorized account representative; changes in persons with ownership interest.* (i) The CAIR authorized account representative for a general account may be changed at any time upon receipt by the Administrator of a superseding complete application for a general account under paragraph (b)(1) of this section. Notwithstanding any such change, all representations, actions, inactions, and submissions by the previous CAIR authorized account representative before the time and date when the Administrator receives the superseding application for a general account shall be binding on the new CAIR authorized account representative and the persons with an ownership interest with respect to the CAIR NOX allowances in the general account.
+
+(ii) The alternate CAIR authorized account representative for a general account may be changed at any time upon receipt by the Administrator of a superseding complete application for a general account under paragraph (b)(1) of this section. Notwithstanding any such change, all representations, actions, inactions, and submissions by the previous alternate CAIR authorized account representative before the time and date when the Administrator receives the superseding application for a general account shall be binding on the new alternate CAIR authorized account representative and the persons with an ownership interest with respect to the CAIR NOX allowances in the general account.
+
+(iii)(A) In the event a person having an ownership interest with respect to CAIR NOX allowances in the general account is not included in the list of such persons in the application for a general account, such person shall be deemed to be subject to and bound by the application for a general account, the representation, actions, inactions, and submissions of the CAIR authorized account representative and any alternate CAIR authorized account representative of the account, and the decisions and orders of the Administrator or a court, as if the person were included in such list.
+
+(B) Within 30 days following any change in the persons having an ownership interest with respect to CAIR NOX allowances in the general account, including the addition of a new person, the CAIR authorized account representative or any alternate CAIR authorized account representative shall submit a revision to the application for a general account amending the list of persons having an ownership interest with respect to the CAIR NOX allowances in the general account to include the change.
+
+(4) *Objections concerning CAIR authorized account representative and alternate CAIR authorized account representative.* (i) Once a complete application for a general account under paragraph (b)(1) of this section has been submitted and received, the Administrator will rely on the application unless and until a superseding complete application for a general account under paragraph (b)(1) of this section is received by the Administrator.
+
+(ii) Except as provided in paragraph (b)(3)(i) or (ii) of this section, no objection or other communication submitted to the Administrator concerning the authorization, or any representation, action, inaction, or submission of the CAIR authorized account representative or any alternate CAIR authorized account representative for a general account shall affect any representation, action, inaction, or submission of the CAIR authorized account representative or any alternate CAIR authorized account representative or the finality of any decision or order by the Administrator under the CAIR NOX Annual Trading Program.
+
+(iii) The Administrator will not adjudicate any private legal dispute concerning the authorization or any representation, action, inaction, or submission of the CAIR authorized account representative or any alternate CAIR authorized account representative for a general account, including private legal disputes concerning the proceeds of CAIR NOX allowance transfers.
+
+(5) *Delegation by CAIR authorized account representative and alternate CAIR authorized account representative.* (i) A CAIR authorized account representative may delegate, to one or more natural persons, his or her authority to make an electronic submission to the Administrator provided for or required under subparts FF and GG of this part.
+
+(ii) An alternate CAIR authorized account representative may delegate, to one or more natural persons, his or her authority to make an electronic submission to the Administrator provided for or required under subparts FF and GG of this part.
+
+(iii) In order to delegate authority to make an electronic submission to the Administrator in accordance with paragraph (b)(5)(i) or (ii) of this section, the CAIR authorized account representative or alternate CAIR authorized account representative, as appropriate, must submit to the Administrator a notice of delegation, in a format prescribed by the Administrator, that includes the following elements:
+
+(A) The name, address, e-mail address, telephone number, and facsimile transmission number (if any) of such CAIR authorized account representative or alternate CAIR authorized account representative;
+
+(B) The name, address, e-mail address, telephone number, and, facsimile transmission number (if any) of each such natural person (referred to as an “agent”);
+
+(C) For each such natural person, a list of the type or types of electronic submissions under paragraph (b)(5)(i) or (ii) of this section for which authority is delegated to him or her;
+
+(D) The following certification statement by such CAIR authorized account representative or alternate CAIR authorized account representative: “I agree that any electronic submission to the Administrator that is by an agent identified in this notice of delegation and of a type listed for such agent in this notice of delegation and that is made when I am a CAIR authorized account representative or alternate CAIR authorized representative, as appropriate, and before this notice of delegation is superseded by another notice of delegation under 40 CFR 96.151(b)(5)(iv) shall be deemed to be an electronic submission by me.”; and
+
+(E) The following certification statement by such CAIR authorized account representative or alternate CAIR authorized account representative: “Until this notice of delegation is superseded by another notice of delegation under 40 CFR 96.151 (b)(5)(iv), I agree to maintain an e-mail account and to notify the Administrator immediately of any change in my e-mail address unless all delegation of authority by me under 40 CFR 96.151 (b)(5) is terminated.”
+
+(iv) A notice of delegation submitted under paragraph (b)(5)(iii) of this section shall be effective, with regard to the CAIR authorized account representative or alternate CAIR authorized account representative identified in such notice, upon receipt of such notice by the Administrator and until receipt by the Administrator of a superseding notice of delegation submitted by such CAIR authorized account representative or alternate CAIR authorized account representative, as appropriate. The superseding notice of delegation may replace any previously identified agent, add a new agent, or eliminate entirely any delegation of authority.
+
+(v) Any electronic submission covered by the certification in paragraph (b)(5)(iii)(D) of this section and made in accordance with a notice of delegation effective under paragraph (b)(5)(iv) of this section shall be deemed to be an electronic submission by the CAIR designated representative or alternate CAIR designated representative submitting such notice of delegation.
+
+(c) *Account identification.* The Administrator will assign a unique identifying number to each account established under paragraph (a) or (b) of this section.
+
+[70 FR 25339, May 12, 2005, as amended at 71 FR 25383, Apr. 28, 2006; 71 FR 74794, Dec. 13, 2006]

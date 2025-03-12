@@ -1,0 +1,15 @@
+##### § 1408.25 Coordinating offset with other Federal agencies. #####
+
+(a)(1) Any creditor agency which requests the Corporation to impose an offset against amounts owed to the debtor shall submit to the Corporation a claim certification which meets the requirements of this paragraph. The Corporation shall submit the same certification to any agency that the Corporation requests to effect an offset.
+
+(2) The claim certification shall be in writing. It shall certify the debtor owes the debt and that all of the applicable requirements of 31 U.S.C. 3716 and 4 CFR part 102 have been met. If the intended offset is to be a salary offset, a claim certification shall instead certify that the debtor owes the debt and that the applicable requirements of 5 U.S.C. 5514 and 5 CFR part 550, subpart K, have been met.
+
+(3) A certification that the debtor owes the debt shall state the amount of the debt, the factual basis supporting the determination of indebtedness, and the date on which payment of the debt was due. A certification that the requirements of 31 U.S.C. 3716 and 4 CFR part 102 have been met shall include a statement that the debtor has been sent a Notice of Intent to Collect by Administrative Offset at least 31 calendar days prior to the date of the intended offset or a statement that pursuant to 4 CFR 102.3(b)(5) said Notice was not required to be sent. A certification that the requirements of 5 U.S.C. 5514 and 5 CFR part 550, subpart K, have been met shall include a statement that the debtor has been sent a Notice of Intent to Collect by Salary Offset at least 31 calendar days prior to the date of the intended offset or a statement that pursuant to 4 CFR 102.3(b)(5) said Notice was not required to be sent.
+
+(b)(1) The Corporation shall not effect an offset requested by another Federal agency without first obtaining the claim certification required by paragraph (a) of this section. If the Corporation receives an incomplete claim certification, the Corporation shall return the claim certification with notice that a claim certification which complies with the requirements of paragraph (a) of this section must be submitted to the Corporation before the Corporation will consider effecting an offset.
+
+(2) The Corporation may rely on the information contained in the claim certification provided by a requesting creditor agency. The Corporation is not authorized to review a creditor agency's determination of indebtedness.
+
+(c) Only the creditor agency may agree to enter into an agreement with the debtor for the repayment of the claim. Only the creditor agency may agree to compromise, suspend, or terminate collection of the claim.
+
+(d) The Corporation may decline, for good cause, a request by another agency to effect an offset. Good cause includes that the offset might disrupt, directly or indirectly, essential Corporation operations. The refusal and the reasons shall be sent in writing to the creditor agency.

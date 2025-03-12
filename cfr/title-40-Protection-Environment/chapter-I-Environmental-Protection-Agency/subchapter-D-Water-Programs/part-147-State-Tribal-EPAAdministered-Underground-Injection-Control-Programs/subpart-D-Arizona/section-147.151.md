@@ -1,0 +1,7 @@
+##### § 147.151 EPA-administered program. #####
+
+(a) *Contents.* The UIC program that applies to all injection activities in Arizona, including those on Indian lands, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program (as defined in § 147.3400), is administered by EPA. The UIC program for Navajo Indian lands, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program, consists of the requirements contained in subpart HHH of this part. The program for all injection activity except that on Navajo Indian lands consists of the UIC program requirements of 40 CFR parts 124, 144, 146, 148, and any additional requirements set forth in the remainder of this subpart. Injection well owners and operators, and EPA shall comply with these requirements.
+
+(b) *Effective dates.* The effective date for the UIC program in Arizona, except for the lands of the Navajo Indians, is June 25, 1984. The effective date for the UIC program on the lands of the Navajo, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program (as defined in § 147.3400), is November 25, 1988.
+
+[53 FR 43086, Oct. 25, 1988, as amended at 56 FR 9412, Mar. 6, 1991; 73 FR 65564, Nov. 4, 2008]

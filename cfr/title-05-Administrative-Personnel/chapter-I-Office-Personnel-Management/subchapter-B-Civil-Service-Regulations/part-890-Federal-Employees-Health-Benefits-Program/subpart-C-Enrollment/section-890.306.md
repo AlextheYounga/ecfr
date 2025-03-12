@@ -1,0 +1,115 @@
+##### § 890.306 When can annuitants or survivor annuitants change enrollment or reenroll and what are the effective dates? #####
+
+(a) *Requirements to continue coverage.* (1) To be eligible to continue coverage in a plan under this part, a former employee in receipt of an annuity must meet the statutory requirements under 5 U.S.C. 8905(b) of having retired on an immediate annuity and having been covered by a plan under this part for the 5 years of service immediately before retirement, or if less than 5 years, for all service since his or her first opportunity to enroll, unless OPM waives the requirement under § 890.108.
+
+(2) To be eligible to continue coverage in a plan under this part, a survivor annuitant must be covered as a family member when the employee or annuitant dies.
+
+(b) *Effective date—generally.* Except as otherwise provided, an annuitant's change of enrollment takes effect on the first day of the first pay period that begins after the date the employing office receives an appropriate request to change the enrollment.
+
+(c) *Belated enrollment.* When an employing office determines that an annuitant was unable, for cause beyond his or her control, to continue coverage by enrolling in his or her own name or change the enrollment within the time limits prescribed by this section, the annuitant may do so within 60 days after the employing office advises the annuitant of its determination.
+
+(d) *Enrollment by proxy.* Subject to the discretion of the employing office, an annuitant's representative, having written authorization to do so, may continue the annuitant's coverage by enrolling in the annuitant's own name, or change the enrollment for the annuitant.
+
+(e) *Decreasing enrollment type.* (1) With one exception, an annuitant may decrease enrollment type at any time. Exception: An annuitant who, as an employee, was subject to a court or administrative order as discussed in § 890.301(g)(3) at the time he or she retired may not, after retirement, decrease enrollment type in a way that eliminates coverage of a child identified in the order as long as the court or administrative order is still in effect and the annuitant has at least one child identified in the order who is still eligible under the FEHB Program, unless the annuitant provides documentation to the retirement system that he or she has other coverage for the child or children. The annuitant may not elect self only as long as he or she has one child identified as covered, but may elect self plus one.
+
+(2) A decrease in enrollment type takes effect on the first day of the first pay period that begins after the date the employing office receives an appropriate request to change the enrollment, except that at the request of the annuitant and upon a showing satisfactory to the employing office that there was no family member eligible for coverage under the self plus one or self and family enrollment, or only one family member eligible for coverage under the self and family enrollment, as appropriate, the employing office may make the change effective on the first day of the pay period following the one in which there was, in the case of a self plus one enrollment, no family member or, in the case of a self and family enrollment, only one or no family member.
+
+(f) *Open season.* (1) During an open season as provided by § 890.301(f)—
+
+(i) With one exception, an enrolled annuitant may decrease or increase enrollment type, may change from one plan or option to another, or may make any combination of these changes. Exception: An annuitant who, as an employee, was subject to a court or administrative order as discussed in § 890.301(g)(3) at the time he or she retired may not cancel or suspend his or her enrollment, decrease enrollment type in a way that eliminates coverage of a child identified in the order or change to a comprehensive medical plan that does not serve the area where his or her child or children live after retirement as long as the court or administrative order is still in effect and the annuitant has at least one child identified in the order who is still eligible under the FEHB Program, unless the annuitant provides documentation to the retirement system that he or she has other coverage for the child or children. The annuitant may not elect self only as long as he or she has one child identified as covered, but may elect self plus one.
+
+(ii) An annuitant or survivor annuitant who suspended enrollment under this part to enroll in a Medicare-sponsored plan under sections 1833, 1876, or 1851 of the Social Security Act, or to enroll in a Medicaid or similar State-sponsored program of medical assistance for the needy, or to use Peace Corps or CHAMPVA or TRICARE (including the Uniformed Services Family Health Plan) or TRICARE-for-Life coverage instead of FEHB coverage, may reenroll.
+
+(2) An open season reenrollment or change of enrollment takes effect on the first day of the first pay period that begins in January of the next following year.
+
+(3) When a belated open season reenrollment or change of enrollment is accepted by the employing office under paragraph (c) of this section, it takes effect as required by paragraph (f)(2) of this section.
+
+(g) *Change in family status.* (1) An enrolled former employee in receipt of an annuity may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the annuitant's family status changes, including a change in marital status or any other change in family status. In the case of an enrolled survivor annuitant, a change in family status based on additional family members occurs only if the additional family members are family members of the deceased employee or annuitant. The annuitant must change the enrollment within the period beginning 31 days before the date of the change in family status, and ending 60 days after the date of the change in family status.
+
+(2) A change of enrollment made in conjunction with the birth of a child, or the addition of a child as a new family member in some other manner, takes effect on the first day of the pay period in which the child is born or becomes an eligible family member.
+
+(h) *Reenrollment of annuitants or survivor annuitants who suspended enrollment to enroll in a Medicare-sponsored plan, or a Medicaid or similar State-sponsored program; or to use Peace Corps or CHAMPVA or TRICARE (including the Uniformed Services Family Health Plan) or TRICARE-for-Life coverage instead of FEHB coverage.* (1) An annuitant or survivor annuitant who had been enrolled (or was eligible to enroll) for coverage under this part and suspended the enrollment for the purpose of enrolling in a Medicare sponsored plan under sections 1833, 1876, or 1851 of the Social Security Act, or to enroll in the Medicaid program or a similar State-sponsored program of medical assistance for the needy, or to use Peace Corps or CHAMPVA or TRICARE (including the Uniformed Services Family Health Plan) or TRICARE-for-Life coverage instead of the FEHB Program (as provided by § 890.304(d)), and who subsequently involuntarily loses coverage under one of these programs, may immediately reenroll in any available FEHB plan under this part at any time beginning 31 days before and ending 60 days after the loss of coverage. A reenrollment under this paragraph (h) of this section takes effect on the date following the effective date of the loss of coverage as shown on the documentation from the non-FEHB coverage. If the request to reenroll is not received by the retirement system within the time period specified, the annuitant must wait until the next available Open Season to reenroll.
+
+(2) An annuitant or survivor annuitant who suspended enrollment in the FEHB Program to enroll in a Medicare sponsored plan or the Medicaid or similar State-sponsored program of medical assistance for the needy, or to use Peace Corps or CHAMPVA or TRICARE (including the Uniformed Services Family Health Plan) or TRICARE-for-Life, but now wants to reenroll in the FEHB Program for any reason other than an involuntary loss of coverage, may do so during the next available Open Season (as provided by paragraph (f) of this section).
+
+(i) [Reserved]
+
+(j) *Annuitants who apply for postponed minimum retirement age plus 10 years of service (MRA plus 10) annuity.* (1) A former employee who meets the requirements for an immediate annuity under 5 U.S.C. 8412(g) and for continuation of coverage under 5 U.S.C. 8905(b) at the time of separation, and whose enrollment is terminated under § 890.304(a)(1)(ii) may enroll in a health benefits plan under this part within 60 days after OPM mails the former employee a notice of eligibility. If such former employee dies before the end of this 60-day election period, a survivor who is entitled to a survivor annuity may enroll in a health benefits plan under this part within 60 days after OPM mails the survivor a notice of eligibility.
+
+(2) The former employee's enrollment takes effect on the first day of the month following the month in which OPM receives the appropriate request or on the commencing date of annuity, whichever is later. A survivor's enrollment takes effect on the first day of the month following the month in which OPM receives the appropriate request.
+
+(k) *Restoration of annuity or compensation payments.* (1) A disability annuitant who was enrolled in a health benefits plan under this part immediately before his or her disability annuity was terminated because of restoration to earning capacity or recovery from disability, and whose disability annuity is restored under 5 U.S.C. 8337(e) after December 31, 1983, or 8455(b), may enroll in a health benefits plan under this part within 60 days after OPM mails a notice of insurance eligibility. The enrollment takes effect on the first day of the month after the date OPM receives the appropriate request.
+
+(2) An annuitant who was enrolled in a health benefits plan under this part immediately before his or her compensation was terminated because OWCP determined that he or she had recovered from the job-related injury or disease, and whose compensation is restored due to a recurrence of disability, may enroll in a health benefits plan under this part within 60 days after OWCP mails a notice of insurance eligibility. The enrollment takes effect on the first day of the pay period after the date OWCP receives the appropriate request.
+
+(3) A surviving spouse who was covered by a health benefits enrollment under this part immediately before his or her survivor annuity was terminated because of remarriage, and whose survivor annuity is later restored, may enroll in a health benefits plan under this part within 60 days after OPM mails a notice of eligibility. The enrollment takes effect on either—
+
+(i) The first day of the month after the date OPM receives the appropriate request; or
+
+(ii) The date of restoration of the survivor annuity or October 1, 1976, whichever is later.
+
+(4) A surviving child who was covered by a health benefits enrollment under this part immediately before his or her survivor annuity was terminated because he or she ceased being a student, and whose survivor annuity is later restored, may enroll in a health benefits plan under this part within 60 days after OPM mails a notice of eligibility. The enrollment takes effect on the first day of the month after the date OPM receives the appropriate request or the date of restoration of the survivor annuity, whichever is later.
+
+(5) A surviving child who was covered by a health benefits enrollment under this part immediately before his or her survivor annuity was terminated because he or she married, and whose survivor annuity is later restored because the marriage ended, may enroll in a health benefits plan under this part within 60 days after OPM mails a notice of eligibility. The enrollment takes effect on the first day of the month after the date OPM receives the appropriate request or the date of restoration of the survivor annuity, whichever is later.
+
+(6) A surviving spouse who received a basic employee death benefit under 5 U.S.C. 8442(b)(1)(A) and who was covered by a health benefits enrollment under this part immediately before remarriage prior to age 55, may enroll in a health benefits plan under this part upon termination of the remarriage. The survivor must provide OPM with a certified copy of the notice of death or the court order terminating the marriage. The surviving spouse must enroll within 60 days after OPM mails a notice of eligibility. The enrollment takes effect on the first day of the month after the date OPM receives the appropriate request and the notice of death or court order terminating the remarriage.
+
+(l) *Loss of coverage under this part or under another group insurance plan.* An annuitant who meets the requirements of paragraph (a) of this section, and who is not enrolled but is covered by another enrollment under this part may continue coverage by enrolling in his or her own name when the annuitant loses coverage under the other enrollment under this part. An enrolled annuitant may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the annuitant or an eligible family member of the annuitant loses coverage under this part or under another group health benefits plan. Except as otherwise provided, an annuitant must enroll or change the enrollment within the period beginning 31 days before the date of loss of coverage and ending 60 days after the date of loss of coverage. Losses of coverage include, but are not limited to—
+
+(1) Loss of coverage under another FEHB enrollment due to the termination, cancellation, or a change to self plus one or self only, of the covering enrollment;
+
+(2) Loss of coverage under another federally-sponsored health benefits program;
+
+(3) Loss of coverage due to the termination of membership in an employee organization sponsoring or underwriting an FEHB plan;
+
+(4) Loss of coverage due to the discontinuance of an FEHB plan in whole or in part. For an annuitant who loses coverage under this paragraph (l)(4)—
+
+(i) If the discontinuance is at the end of a contract year, the annuitant must change the enrollment during the open season, unless OPM establishes a different time. If the discontinuance is at a time other than the end of the contract year, OPM must establish a time and effective date for the annuitant to change the enrollment;
+
+(ii) If a plan discontinues all of its existing options, an annuitant who does not change his or her enrollment is deemed to have enrolled in the lowest-cost nationwide plan option, as defined in § 890.301(n); except when the annuity is insufficient to pay the withholdings, then paragraph (q) of this section applies.
+
+(iii) If one or more options of a plan are discontinued, an annuitant who does not change the enrollment will be enrolled in the remaining option of the plan, or in the case of a plan with two or more options remaining, the lowest-cost remaining option that is not a High Deductible Health Plan (HDHP). In the event that the annuity is insufficient to pay the withholdings, then paragraph (q) of this section applies;
+
+(iv) After an involuntary enrollment under paragraph (l)(4)(ii) or (iii) of this section becomes effective, the annuitant may change the enrollment to another option of the plan into which he or she was enrolled or another health plan of his or her choice prospectively within 90-days after OPM advises the annuitant of the new enrollment;
+
+(v) If the discontinuance of the plan, whether permanent or temporary, is due to a disaster, an annuitant must change the enrollment within 60 days of the disaster, as announced by OPM. If an annuitant does not change the enrollment within the time frame announced by OPM, the annuitant will be enrolled in the lowest-cost nationwide plan option, as defined in § 890.301(n). The effective date of enrollment changes under this provision will be set by OPM when it makes the announcement allowing such changes;
+
+(vi) An annuitant who is unable, for causes beyond his or her control, to make an enrollment change within the 60 days following a disaster and is, as a result, enrolled in the lowest-cost nationwide plan as defined in § 890.301(n), may request a belated enrollment into the plan of his or her choice subject to the requirements of paragraph (c) of this section.
+
+(5) Loss of coverage under the Medicaid program or similar State-sponsored program of medical assistance for the needy.
+
+(6) Loss of coverage under a non-Federal health plan.
+
+(m) *Move from comprehensive medical plan's area.* An annuitant in a comprehensive medical plan who moves or becomes employed outside the geographic area from which the plan accepts enrollments, or, if already outside this area, moves or becomes employed further from this area, may change the enrollment upon notifying the employing office of the move or change of place of employment. Similarly, an annuitant whose covered family member moves outside the geographic area from which the plan accepts enrollments, or if already outside this area, moves further from this area, may change the enrollment upon notifying the employing office of the family member's move. The change of enrollment takes effect on the first day of the pay period that begins after the employing office receives an appropriate request.
+
+(n) *Overseas post of duty.* An annuitant may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes within 60 days after the retirement or death of the employee on whose service title to annuity is based, if the employee was stationed at a post of duty outside a State of the United States or the District of Columbia at the time of retirement or death.
+
+(o) *On return from a uniformed service.* An enrolled annuitant who enters on duty in a uniformed service for 31 days or more may change the enrollment within 60 days after separation from the uniformed service.
+
+(p) *On becoming eligible for Medicare.* An annuitant may change the enrollment from one plan or option to another at any time beginning on the 30th day before becoming eligible for coverage under title XVIII of the Social Security Act (Medicare). A change of enrollment based on becoming eligible for Medicare may be made only once.
+
+(q) *Annuity insufficient to pay withholdings.* (1) If an annuity is insufficient to pay the withholdings for the plan that the annuitant is enrolled in, the retirement system must provide the annuitant with information regarding the available plans and written notification of the opportunity to either—
+
+(i) Pay the premium directly to the retirement system in accordance with § 890.502(d); or
+
+(ii) Enroll in any plan in which the annuitant's share of the premium is less than the amount of annuity. If the annuitant elects to change to a lower cost enrollment, the change takes effect immediately upon loss of coverage under the prior enrollment. The exemptions from debt collection procedures that are provided under § 831.1305(d)(2) and § 845.205(d)(2) of this chapter apply to elections under this paragraph (q)(1)(ii).
+
+(2) If the annuitant is enrolled in the high option of a plan that has two options, and does not change the enrollment to a plan in which the annuitant's share of the premium is less than the amount of annuity or does not elect to pay premiums directly, the annuitant is deemed to have enrolled in the standard option of the same plan, unless the annuity is insufficient to pay the withholdings for the standard option.
+
+(3) An annuitant whose enrollment was terminated because the amount of annuity was insufficient to cover the enrollee's share of the premium may apply to be reinstated in any available plan or option.
+
+(4) An annuitant who can show evidence that he or she previously changed to a lower cost option, plan, or to a self-only enrollment prior to May 29, 1990, because the annuity was insufficient to cover the withholdings for the plan in which he or she was enrolled, may apply to change the enrollment to any available plan or option in which the enrollee's share of the total premium exceeds his or her monthly annuity.
+
+(5) The effective date of the reinstatement of enrollment of an annuitant whose enrollment was terminated, or the change of enrollment of an annuitant who previously changed enrollment because his or her annuity was insufficient to cover the annuitant's share of the total premium, and who elects to pay premiums directly to the retirement system in accordance with § 890.502(f) is either—
+
+(i) The first day of the first pay period that begins after the appropriate request is received by the retirement system; or,
+
+(ii) The later of the date the enrollment was terminated or changed, or May 29, 1990.
+
+(6) Retroactive reinstatement or change of enrollment is contingent upon payment of appropriate contributions retroactive to the effective date of the reinstatement or the change of enrollment. For the purpose of this paragraph (q)(6), a previous cancellation of enrollment because of insufficient annuity to cover the full amount of the withholdings is deemed to be a termination of enrollment.
+
+(r) *Sole survivor.* When an employee or annuitant enrolled for self plus one or self and family dies, leaving a survivor annuitant who is entitled to continue the enrollment, and it is apparent from available records that the survivor annuitant is the sole survivor entitled to continue the enrollment, the office of the retirement system which is acting as employing office must decrease the enrollment to self only, effective on the commencing date of the survivor annuity. On request of the survivor annuitant made within 31 days after the first installment of annuity is paid, the office of the retirement system which is acting as employing office must rescind the action retroactive to the effective date of the change to self only, with corresponding adjustment in withholdings and contributions.
+
+(s) *Election between survivor annuities.* A surviving spouse, irrespective of whether his or her survivor annuity continued or was terminated upon remarriage, who was covered by an enrollment under this part immediately before the remarriage, may elect to continue an enrollment under this part acquired as a dependent by virtue of the remarriage or to enroll in his or her own right (by virtue of entitlement to the original survivor annuity) in any plan or option under this part within 60 days after the termination of the remarriage and entitlement to a survivor annuity.
+
+[62 FR 38437, July 18, 1997, as amended at 66 FR 49086, Sept. 26, 2001; 67 FR 41306, June 18, 2002; 68 FR 56525, Oct. 1, 2003; 69 FR 31722, June 7, 2004; 69 FR 56928, Sept. 23, 2004; 70 FR 33798, June 10, 2005; 70 FR 71749, Nov. 30, 2005; 72 FR 1912, Jan. 17, 2007; 80 FR 55735, Sept. 17, 2015; 80 FR 65882, Oct. 28, 2015]

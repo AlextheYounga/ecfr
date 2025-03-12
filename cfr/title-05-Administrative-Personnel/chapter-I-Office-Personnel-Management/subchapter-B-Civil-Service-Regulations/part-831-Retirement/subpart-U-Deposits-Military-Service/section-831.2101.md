@@ -1,0 +1,3 @@
+##### § 831.2101 Purpose. #####
+
+This subpart prescribes the procedures to be followed when an employee or Member (or survivor of an employee or Member) wishes to make a deposit for service, and when a former employee or Member who retires or separates from civilian service with title to annuity after September 8, 1982, but before October 1, 1983 (or survivor of such employee or Member), wishes to make a deposit for service.

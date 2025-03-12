@@ -1,0 +1,3 @@
+##### § 633.1 Purpose. #####
+
+This part implements section 324 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (Pub. L. 100-17), which added section 23 to the FT Act. The part provides for a two-part program for major capital projects receiving assistance from the agency. First, subpart B discusses project management oversight, designed primarily to aid FTA in its role of ensuring successful implementation of federally-funded projects. Second, subpart C discusses the project management plan (PMP) required of all major capital projects. The PMP is designed to enhance the recipient's planning and implementation efforts and to assist FTA's grant application analysis efforts.

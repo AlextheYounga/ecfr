@@ -1,0 +1,3 @@
+##### § 5.105 Authorized bandwidth. #####
+
+The occupied bandwidth of transmitted emissions from an Experimental Radio Service station shall not exceed the authorized bandwidth specified in the authorization. Each authorization will show, as the prefix to the emission classification, a figure specifying the necessary bandwidth. The application may request an authorized bandwidth that is greater than the necessary bandwidth for the emission to be used, if required for the experimental purpose. Necessary bandwidth and occupied bandwidth are defined and determined in accordance with § 2.1 and § 2.202 of this chapter.

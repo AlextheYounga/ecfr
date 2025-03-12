@@ -1,0 +1,5 @@
+##### § 615.5354 Enforcement. #####
+
+An institution that does not have or maintain the minimum capital ratios applicable to it, whether required in subpart H of this part or part 628 of this chapter, in a decision pursuant to this subpart, in a written agreement or temporary or final order under part C of title V of the Act, or in a condition for approval of an application, or an institution that has failed to submit or comply with an acceptable plan to attain those ratios, will be subject to such administrative action or sanctions as the Farm Credit Administration considers appropriate. These sanctions may include the issuance of a capital directive pursuant to subpart M of this part or other enforcement action, assessment of civil money penalties, and/or the denial or condition of applications.
+
+[81 FR 49778, July 28, 2016]

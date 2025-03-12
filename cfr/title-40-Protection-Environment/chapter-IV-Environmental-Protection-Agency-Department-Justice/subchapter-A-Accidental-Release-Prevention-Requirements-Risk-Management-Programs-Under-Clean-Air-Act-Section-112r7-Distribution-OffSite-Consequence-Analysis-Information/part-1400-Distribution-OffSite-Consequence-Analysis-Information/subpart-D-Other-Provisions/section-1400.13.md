@@ -1,0 +1,3 @@
+##### § 1400.13 Read-only database. #####
+
+The Administrator is authorized to establish, pursuant to 42 U.S.C. 7412(r)(7)(H)(viii), an information technology system that makes available to the public off-site consequence analysis information by means of a central database under the control of the Federal government that contains information that users may read, but that provides no means by which an electronic or mechanical copy of the information may be made.

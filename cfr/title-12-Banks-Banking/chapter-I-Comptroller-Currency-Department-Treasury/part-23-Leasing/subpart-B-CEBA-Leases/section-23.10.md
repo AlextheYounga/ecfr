@@ -1,0 +1,3 @@
+##### § 23.10 General rule. #####
+
+Pursuant to 12 U.S.C. 24(Tenth) a national bank may invest in tangible personal property, including vehicles, manufactured homes, machinery, equipment, or furniture, for the purpose of, or in connection with leasing that property, if the aggregate book value of the property does not exceed 10 percent of the bank's consolidated assets and the related lease is a conforming lease. For the purpose of measuring compliance with the 10 percent limit prescribed by this section, a national bank records the investment in a lease entered into pursuant to this subpart net of any nonrecourse debt the bank has incurred to finance the acquisition of the leased asset.

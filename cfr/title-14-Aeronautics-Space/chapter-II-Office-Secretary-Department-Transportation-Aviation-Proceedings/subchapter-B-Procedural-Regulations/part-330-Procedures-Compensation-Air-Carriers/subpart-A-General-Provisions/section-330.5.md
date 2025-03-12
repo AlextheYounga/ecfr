@@ -1,0 +1,3 @@
+##### § 330.5 What funds will the Department distribute under this part? #####
+
+Under this part, the Department will distribute up to the full amount of the compensation it determines is payable to air carriers under section 103(b) of the Act, and up to the full amount of the set-aside provided for in subpart C of this part to air carriers eligible for it. The Department may require additional information to support payments to individual carriers in connection with this final payment.

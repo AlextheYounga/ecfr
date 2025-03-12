@@ -1,0 +1,3 @@
+##### 2501.104-2 Arrangement of regulations. #####
+
+The NSFAR uses the same numbering system and arrangement used in the FAR. Where the NSFAR implements the FAR it is numbered and captioned to correspond to the FAR. Where there is no corresponding material in the FAR, Parts 70 and up are used by the NSFAR. Where the subject matter in the FAR requires no implementation the NSFAR contains no corresponding part.

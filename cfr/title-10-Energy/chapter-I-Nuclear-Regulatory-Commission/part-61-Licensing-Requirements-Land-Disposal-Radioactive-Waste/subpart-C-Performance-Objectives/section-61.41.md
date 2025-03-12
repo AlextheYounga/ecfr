@@ -1,0 +1,3 @@
+##### § 61.41 Protection of the general population from releases of radioactivity. #####
+
+Concentrations of radioactive material which may be released to the general environment in groundwater, surface water, air, soil, plants, or animals must not result in an annual dose exceeding an equivalent of 25 millirems to the whole body, 75 millirems to the thyroid, and 25 millirems to any other organ of any member of the public. Reasonable effort should be made to maintain releases of radioactivity in effluents to the general environment as low as is reasonably achievable.

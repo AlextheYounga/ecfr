@@ -1,0 +1,3 @@
+##### § 1263.10 Ten percent requirement for certain insured depository institution applicants. #####
+
+An insured depository institution applicant that is subject to the 10 percent requirement of section 4(a)(2)(A) of the Bank Act (12 U.S.C. 1424(a)(2)(A)) and § 1263.6(b) shall be deemed to comply with that requirement if, based on the applicant's most recent regulatory financial report filed with its appropriate regulator, the applicant has at least 10 percent of its total assets in residential mortgage loans, except that any assets used to secure mortgage-backed securities as described in paragraph (5) of the definition of “residential mortgage loan” set forth in § 1263.1 shall not be used to meet this requirement.

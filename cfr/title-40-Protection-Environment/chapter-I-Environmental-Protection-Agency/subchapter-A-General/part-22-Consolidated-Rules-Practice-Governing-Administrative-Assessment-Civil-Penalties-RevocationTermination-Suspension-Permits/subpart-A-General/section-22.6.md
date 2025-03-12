@@ -1,0 +1,5 @@
+##### § 22.6 Filing and service of rulings, orders and decisions. #####
+
+All rulings, orders, decisions, and other documents issued by the Regional Administrator or Presiding Officer shall be filed with the Headquarters or Regional Hearing Clerk, as appropriate, in any manner allowed for the service of such documents. All rulings, orders, decisions, and other documents issued by the Environmental Appeals Board shall be filed with the Clerk of the Board. The Clerk of the Board, the Headquarters Hearing Clerk, or the Regional Hearing Clerk, as appropriate, must serve copies of such rulings, orders, decisions and other documents on all parties. Service may be made by U.S. mail (including by certified mail or return receipt requested, Overnight Express and Priority Mail), EPA's internal mail, any reliable commercial delivery service, or electronic means (including but not necessarily limited to facsimile and email).
+
+[82 FR 2234, Jan. 9, 2017]

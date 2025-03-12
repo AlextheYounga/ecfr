@@ -1,0 +1,5 @@
+##### § 261.198 Special requirements for ignitable or reactive materials. #####
+
+(a) Ignitable or reactive material must not be placed in tank systems, unless the material is stored or treated in such a way that it is protected from any material or conditions that may cause the material to ignite or react.
+
+(b) The remanufacturer or other person that stores or treats hazardous secondary material which is ignitable or reactive must store or treat the hazardous secondary material in a tank that is in compliance with the requirements for the maintenance of protective distances between the material management area and any public ways, streets, alleys, or an adjoining property line that can be built upon as required in Tables 2-1 through 2-6 of the National Fire Protection Association's “Flammable and Combustible Liquids Code,” (1977 or 1981), (incorporated by reference, see § 260.11).

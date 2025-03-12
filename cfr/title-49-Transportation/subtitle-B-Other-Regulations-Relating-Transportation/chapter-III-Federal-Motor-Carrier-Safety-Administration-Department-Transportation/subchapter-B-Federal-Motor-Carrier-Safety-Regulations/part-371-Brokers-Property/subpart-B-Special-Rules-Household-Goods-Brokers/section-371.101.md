@@ -1,0 +1,3 @@
+##### § 371.101 If I operate as a household goods broker in interstate or foreign commerce, must I comply with subpart B of this part? #####
+
+Yes, you must comply with all regulations in this subpart when you operate as a household goods broker offering services to individual shippers in interstate or foreign commerce. The regulations in this subpart do not apply to a household goods broker when providing services to commercial or government shippers in interstate or foreign commerce.

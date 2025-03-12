@@ -1,0 +1,29 @@
+##### § 63.3160 By what date must I conduct initial performance tests and other initial compliance demonstrations? #####
+
+(a) *New and reconstructed affected sources.* For a new or reconstructed affected source, you must meet the requirements of paragraphs (a)(1) through (4) of this section.
+
+(1) All emission capture systems, add-on control devices, and CPMS must be installed and operating no later than the applicable compliance date specified in § 63.3083. You must conduct a performance test of each capture system and add-on control device according to §§ 63.3164 through 63.3166 and establish the operating limits required by § 63.3093 no later than 180 days after the applicable compliance date specified in § 63.3083.
+
+(2) You must develop and begin implementing the work practice plans required by § 63.3094(b) and (c) no later than the compliance date specified in § 63.3083.
+
+(3) You must complete the initial compliance demonstration for the initial compliance period according to the requirements of § 63.3161. The initial compliance period begins on the applicable compliance date specified in § 63.3083 and ends on the last day of the month following the compliance date. If the compliance date occurs on any day other than the first day of a month, then the initial compliance period extends through the end of that month plus the next month. You must determine the mass of organic HAP emissions and volume of coating solids deposited in the initial compliance period. The initial compliance demonstration includes the results of emission capture system and add-on control device performance tests conducted according to §§ 63.3164 through 63.3166; supporting documentation showing that during the initial compliance period the organic HAP emission rate was equal to or less than the emission limit in § 63.3090(a); the operating limits established during the performance tests and the results of the continuous parameter monitoring required by § 63.3168; and documentation of whether you developed and implemented the work practice plans required by § 63.3094(b) and (c).
+
+(4) You do not need to comply with the operating limits for the emission capture system and add-on control device required by § 63.3093 until after you have completed the performance tests specified in paragraph (a)(1) of this section. Instead, you must maintain a log detailing the operation and maintenance of the emission capture system, add-on control device, and CPMS during the period between the compliance date and the performance test. You must begin complying with the operating limits for your affected source on the date you complete the performance tests specified in paragraph (a)(1) of this section.
+
+(b) *Existing affected sources.* For an existing affected source, you must meet the requirements of paragraphs (b)(1) through (3) of this section.
+
+(1) All emission capture systems, add-on control devices, and CPMS must be installed and operating no later than the applicable compliance date specified in § 63.3083. You must conduct an initial performance test of each capture system and add-on control device according to the procedures in §§ 63.3164 through 63.3166 and establish the operating limits required by § 63.3093 no later than the compliance date specified in § 63.3083.
+
+(2) You must develop and begin implementing the work practice plans required by § 63.3094(b) and (c) no later than the compliance date specified in § 63.3083.
+
+(3) You must complete the initial compliance demonstration for the initial compliance period according to the requirements of § 63.3161. The initial compliance period begins on the applicable compliance date specified in § 63.3083 and ends on the last day of the month following the compliance date. If the compliance date occurs on any day other than the first day of a month, then the initial compliance period extends through the end of that month plus the next month. You must determine the mass of organic HAP emissions and volume of coating solids deposited during the initial compliance period. The initial compliance demonstration includes the results of emission capture system and add-on control device performance tests conducted according to §§ 63.3164 through 63.3166; supporting documentation showing that during the initial compliance period the organic HAP emission rate was equal to or less than the emission limits in § 63.3091(a); the operating limits established during the performance tests and the results of the continuous parameter monitoring required by § 63.3168; and documentation of whether you developed and implemented the work practice plans required by § 63.3094(b) and (c).
+
+(c) You are not required to conduct an initial performance test to determine capture efficiency or destruction efficiency of a capture system or control device if you receive approval to use the results of a performance test that has been previously conducted on that capture system (either a previous stack test or a previous panel test) or control device. You are not required to conduct an initial test to determine transfer efficiency if you receive approval to use the results of a test that has been previously conducted. Any such previous tests must meet the conditions described in paragraphs (c)(1) through (3) of this section.
+
+(1) The previous test must have been conducted using the methods and conditions specified in this subpart.
+
+(2) Either no process or equipment changes have been made since the previous test was performed or the owner or operator must be able to demonstrate that the results of the performance test reliably demonstrate compliance despite process or equipment changes.
+
+(3) Either the required operating parameters were established in the previous test or sufficient data were collected in the previous test to establish the required operating parameters.
+
+[69 FR 22623, Apr. 26, 2004, as amended at 85 FR 41129, July 8, 2020]

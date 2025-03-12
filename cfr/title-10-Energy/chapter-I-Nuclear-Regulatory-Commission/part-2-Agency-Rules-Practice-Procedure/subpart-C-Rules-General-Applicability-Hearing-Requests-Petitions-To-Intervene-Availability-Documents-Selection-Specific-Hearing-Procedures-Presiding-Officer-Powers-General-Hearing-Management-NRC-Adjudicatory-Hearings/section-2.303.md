@@ -1,0 +1,3 @@
+##### § 2.303 Docket. #####
+
+The Secretary shall maintain a docket for each proceeding conducted under this part, commencing with either the initial notice of hearing, notice of proposed action, order, request for hearing or petition for leave to intervene, as appropriate. The Secretary shall maintain all files and records of proceedings, including transcripts and video recordings of testimony, exhibits, and all papers, correspondence, decisions and orders filed or issued. All documents, records, and exhibits filed in any proceeding must be filed with the Secretary as described in §§ 2.302 and 2.304.

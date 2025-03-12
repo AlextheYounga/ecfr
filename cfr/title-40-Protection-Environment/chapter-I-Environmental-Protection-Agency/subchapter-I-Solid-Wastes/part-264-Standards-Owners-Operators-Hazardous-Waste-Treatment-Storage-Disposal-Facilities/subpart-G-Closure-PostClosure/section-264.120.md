@@ -1,0 +1,5 @@
+##### § 264.120 Certification of completion of post-closure care. #####
+
+No later than 60 days after completion of the established post-closure care period for each hazardous waste disposal unit, the owner or operator must submit to the Regional Administrator, by registered mail, a certification that the post-closure care period for the hazardous waste disposal unit was performed in accordance with the specifications in the approved post-closure plan. The certification must be signed by the owner or operator and a qualified Professional Engineer. Documentation supporting the Professional Engineer's certification must be furnished to the Regional Administrator upon request until he releases the owner or operator from the financial assurance requirements for post-closure care under § 264.145(i).
+
+[71 FR 16904, Apr. 4, 2006]

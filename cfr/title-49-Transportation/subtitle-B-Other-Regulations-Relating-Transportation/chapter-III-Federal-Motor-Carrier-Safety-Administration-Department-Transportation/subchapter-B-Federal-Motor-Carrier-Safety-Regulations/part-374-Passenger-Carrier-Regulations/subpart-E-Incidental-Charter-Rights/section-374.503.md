@@ -1,0 +1,3 @@
+##### § 374.503 Authority. #####
+
+Motor carriers transporting passengers, in interstate or foreign commerce, over regular routes authorized in a certificate issued as a result of an application filed before January 2, 1967, may transport special or chartered parties, in interstate or foreign commerce, between any points and places in the United States (including Alaska and Hawaii). The term “special or chartered party” means a group of passengers who, with a common purpose and under a single contract, and at a fixed charge for the vehicle in accordance with the carrier's tariff, have acquired the exclusive use of a passenger-carrying motor vehicle to travel together as a group to a specified destination or for a particular itinerary.

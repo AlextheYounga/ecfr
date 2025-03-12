@@ -1,0 +1,9 @@
+##### § 35.536 Cost share requirements. #####
+
+(a) The Performance Partnership Grant cost share shall be the sum of the amounts required for each environmental program grant included in the Performance Partnership Grant, as determined in accordance with paragraphs (b) and (c) of this section, unless waived under paragraph (d) of this section.
+
+(b) For each environmental program grant included in the Performance Partnership Grant that has a cost share of five percent or less under the provisions of §§ 35.540 through 35.718, the required cost share shall be that identified in §§ 35.540 through 35.718 of this subpart.
+
+(c) For each environmental program grant included in the Performance Partnership Grant that has a cost share of greater than five percent under the provisions of §§ 35.540 through 35.718 of this subpart, the required cost share shall be five percent of the allowable cost of the work plan budget for that program. However, after the first two years in which a Tribe or Intertribal Consortium receives a Performance Partnership Grant, the Regional Administrator must determine through objective assessment whether the Tribe or the members of an Intertribal Consortium meet socio-economic indicators that demonstrate the ability of the Tribe or the Intertribal Consortium to provide a cost share greater than five percent. If the Regional Administrator determines that the Tribe or the members of Intertribal Consortium meets such indicators, then the Regional Administrator shall increase the required cost share up to a maximum of 10 percent of the allowable cost of the work plan budget for each program with a cost share greater than five percent.
+
+(d) The Regional Administrator may waive the cost share required under this section upon request of the Tribe or Intertribal Consortium, if, based on an objective assessment of socio-economic indicators, the Regional Administrator determines that meeting the cost share would impose undue hardship.

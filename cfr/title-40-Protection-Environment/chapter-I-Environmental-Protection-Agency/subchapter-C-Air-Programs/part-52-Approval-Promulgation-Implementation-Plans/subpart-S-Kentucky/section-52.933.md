@@ -1,0 +1,13 @@
+##### § 52.933 Control Strategy: Sulfur oxides and particulate matter. #####
+
+(a) In a letter dated March 27, 1987, the Kentucky Department for Natural Resources and Environmental Protection certified that no emission limits in the State's plan are based on dispersion techniques not permitted by EPA's stack height rules. This certification does not apply to: Big Rivers-Green #1 & 2, Kentucky Utilities-Ghent #3 & 4, and Ashland Oil, Inc.-Catlettsburg.
+
+(b) *Determination of Attainment.* EPA has determined, as of March 9, 2011, that the Louisville, IN-KY PM2.5 nonattainment area has attained the 1997 PM2.5 NAAQS. These determinations, in accordance with 40 CFR 51.1004(c), suspend the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, reasonable further progress, contingency measures, and other plan elements related to attainment of the standards for as long as the area continues to meet the 1997 PM2.5 NAAQS.
+
+(c) *Disapproval.* EPA is disapproving portions of Kentucky's Infrastructure SIP for the 2006 24-hour PM2.5 NAAQS addressing interstate transport, specifically with respect to section 110(a)(2)(D)(i)(I).
+
+(d) *Determination of Attainment.* EPA has determined, as of September 7, 2011, that based upon 2007-2009 air quality data, the Huntington-Ashland, West Virginia-Kentucky-Ohio, nonattainment Area has attained the 1997 annual PM2.5 NAAQS. This determination, in accordance with 40 CFR 52.1004(c), suspends the requirements for this Area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as this Area continues to meet the 1997 annual PM2.5 NAAQS.
+
+(e) *Determination of Attainment.* EPA has determined, as of September 29, 2011, that based upon 2007-2009 air quality data, the Cincinnati-Hamilton, Ohio-Kentucky-Indiana nonattainment Area has attained the 1997 annual PM2.5 NAAQS. This determination, in accordance with 40 CFR 52.1004(c), suspends the requirements for this Area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as this Area continues to meet the 1997 annual PM2.5 NAAQS.
+
+[54 FR 23478, June 1, 1989, as amended at 76 FR 12862, Mar. 9, 2011; 76 FR 43143, July 20, 2011; 76 FR 55543, Sept. 7, 2011; 76 FR 60376, Sept. 29, 2011]

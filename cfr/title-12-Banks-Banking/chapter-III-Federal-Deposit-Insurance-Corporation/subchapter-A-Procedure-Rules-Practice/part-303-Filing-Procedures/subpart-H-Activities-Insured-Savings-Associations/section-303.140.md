@@ -1,0 +1,3 @@
+##### § 303.140 Scope. #####
+
+This subpart sets forth procedures for complying with the notice and application requirements contained in subpart C of part 362 of this chapter, governing insured state savings associations and their service corporations engaging in activities which are not permissible for federal savings associations and their service corporations. This subpart also sets forth procedures for complying with the notice requirements contained in subpart D of part 362 of this chapter, governing insured savings associations which establish or engage in new activities through a subsidiary.

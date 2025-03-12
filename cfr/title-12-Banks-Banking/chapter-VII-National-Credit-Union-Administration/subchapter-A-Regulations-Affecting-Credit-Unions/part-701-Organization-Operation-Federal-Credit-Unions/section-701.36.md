@@ -1,0 +1,55 @@
+##### § 701.36 Federal credit union occupancy, planning, and disposal of acquired and abandoned premises. #####
+
+Link to an amendment published at 81 FR 93580, Dec. 21, 2016.
+
+(a) *Scope.* Section 107(4) of the Federal Credit Union Act (12 U.S.C. 1757(4)) authorizes a federal credit union to purchase, hold, and dispose of property necessary or incidental to its operations. This section interprets and implements that provision by establishing occupancy, planning, and disposal requirements for acquired and abandoned premises, and by prohibiting certain transactions. This section applies only to federal credit unions.
+
+(b) *Definitions.* For purposes of this section:
+
+*Abandoned premises* means real property previously used to transact credit union business but no longer used for that purpose. It also means real property originally acquired for future credit union expansion but no longer intended for that purpose.
+
+*Immediate family member* means a spouse or other family member living in the same household.
+
+*Partially occupy* means occupation, on a full-time basis, of a portion of the premises that is:
+
+(1) Consistent with the federal credit union's usage plan for the premises;
+
+(2) Significant enough that the federal credit union is deriving practical utility from the occupied portion, relative to the scope of the usage plan; and
+
+(3) Sufficient to show that the federal credit union will fully occupy the premises within a reasonable time.
+
+*Premises* means any office, branch office, suboffice, service center, parking lot, other facility, or real estate where the federal credit union transacts or will transact business.
+
+*Senior management employee* means the federal credit union's chief executive officer, any assistant chief executive officers, and the chief financial officer. For example, these individuals typically hold the title of President or Treasurer/Manager, Assistant President, Vice President or Assistant Treasurer/Manager, and Comptroller.
+
+*Unimproved land or unimproved real property* means:
+
+(1) Raw land or land without development, significant buildings, structures, or site preparation;
+
+(2) Land that has never had improvements;
+
+(3) Land that was improved at one time but has functionally reverted to its unimproved state; or
+
+(4) Land that has been improved, but the improvements serve no purpose for the federal credit union's planned use of the property.
+
+(c) *Premises not currently used to transact credit union business.* (1) If a federal credit union acquires premises for future expansion and does not fully occupy them within one year, it must have a board resolution in place by the end of that year with definitive plans for full occupation. Premises are fully occupied when the federal credit union (or the federal credit union and a credit union service organization or a vendor) uses the entire space on a full-time basis. Credit union service organizations and vendors must use the space primarily to support the federal credit union or to serve the federal credit union's members. The federal credit union must make its plans for full occupation available to NCUA upon request.
+
+(2) If a federal credit union acquires premises for future expansion, including unimproved land or unimproved real property, it must partially occupy them within a reasonable period, but no later than six years after the date of acquisition. NCUA may waive the partial occupation requirements. To seek a waiver, a federal credit union must submit a written request to its Regional Office and fully explain why it needs the waiver. The Regional Director will provide the federal credit union a written response, either approving or disapproving the request. The Regional Director's decision will be based on safety and soundness considerations.
+
+(3) A federal credit union must make diligent efforts to dispose of abandoned premises and any other real property it does not intend to use in transacting business. The federal credit union must seek fair market value for the property, and record its efforts to dispose of abandoned premises. After premises have been abandoned for four years, the federal credit union must publicly advertise the property for sale. The federal credit union must complete the sale within five years of abandonment, unless NCUA waives this requirement. To seek a waiver, a federal credit union must submit a written request to its Regional Office and fully explain why it needs the waiver. The Regional Director will provide the federal credit union a written response, either approving or disapproving the request. The Regional Director's decision will be based on safety and soundness considerations.
+
+(d) *Prohibited transactions.* (1) A federal credit union must not acquire, or lease for one year or longer, premises from any of the following, unless NCUA waives this prohibition:
+
+(i) A member of the federal credit union's board of directors, credit committee, supervisory committee, or senior management, or an immediate family member of such individual;
+
+(ii) A corporation in which a member of the federal credit union's board of directors, credit committee, supervisory committee, or senior management, or an immediate family member of such individual, is an officer or director, or has a stock interest of 10 percent or more; or
+
+(iii) A partnership, limited liability company, or other entity in which a member of the federal credit union's board of directors, credit committee, supervisory committee, or senior management, or an immediate family member of such individual, is a general partner, or a limited partner or entity member with an interest of 10 percent or more.
+
+(2) A federal credit union must not lease for one year or longer premises from any of its employees if the employee is directly involved in acquiring premises, unless the federal credit union's board of directors determines the employee's involvement is not a conflict of interest.
+
+(3) All transactions with business associates or family members not specifically prohibited by this section must be conducted at arm's length and in the interest of the federal credit union.
+
+(4) To seek a waiver from any of the prohibitions in this paragraph (d), a federal credit union must submit a written request to its Regional Office and fully explain why it needs the waiver. Within 45 days of the receipt of the waiver request or all necessary documentation, whichever is later, the Regional Director will provide the federal credit union a written response, either approving or disapproving its request. The Regional Director's decision will be based on safety and soundness considerations and a determination as to whether a conflict of interest exists.
+
+[78 FR 57252, Sept. 18, 2013, as amended at 80 FR 45850, Aug. 3, 2015]

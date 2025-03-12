@@ -1,0 +1,3 @@
+##### § 962.2 Purpose. #####
+
+The purpose of this part is to clarify the meaning of the term “byproduct material” under section 11e(1) of the Atomic Energy Act of 1954 (42 U.S.C. 2014(e)(1)) for use only in determining the Department of Energy's obligations under the Resource Conservation and Recovery Act (42 U.S.C. 6901 *et seq.*) with regard to radioactive waste substances owned or produced by the Department of Energy pursuant to the exercise of its responsibilities under the Atomic Energy Act of 1954. This part does not affect materials defined as byproduct material under section 11e(2) of the Atomic Energy Act of 1954 (42 U.S.C. 2014(e)(2)).

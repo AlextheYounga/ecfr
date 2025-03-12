@@ -1,0 +1,5 @@
+##### § 32.59 Same: Leak testing of each source. #####
+
+Each person licensed under § 32.57 shall perform a dry wipe test upon each source containing more than 3.7 kilobecquerels (0.1 microcurie) of americium-241 or radium-226 before transferring the source to a general licensee under § 31.8 of this chapter or under equivalent regulations of an Agreement State. This test must be performed by wiping the entire radioactive surface of the source with a filter paper with the application of moderate finger pressure. The radioactivity on the filter paper must be measured using methods capable of detecting 0.185 kilobecquerel (0.005 microcurie) of americium-241 or radium-226. If a source has been shown to be leaking or losing more than 0.185 kilobecquerel (0.005 microcurie) of americium-241 or radium-226 by the methods described in this section, the source must be rejected and must not be transferred to a general licensee under § 31.8 of this chapter, or equivalent regulations of an Agreement State.
+
+[77 FR 43694, July 25, 2012]

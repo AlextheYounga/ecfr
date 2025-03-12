@@ -1,0 +1,13 @@
+##### § 144.82 What must I do to protect underground sources of drinking water? #####
+
+If you own or operate any type of Class V well, the regulations below require that you cannot allow movement of fluid into USDWs that might cause endangerment, you must comply with other Federal UIC requirements in 40 CFR parts 144 through 147, and you must comply with any other measures required by your State or EPA Regional Office UIC Program to protect USDWs, and you must properly close your well when you are through using it. You also must submit basic information about your well, as described in § 144.83.
+
+(a) *Prohibition of fluid movement.* (1) As described in § 144.12(a), your injection activity cannot allow the movement of fluid containing any contaminant into USDWs, if the presence of that contaminant may cause a violation of the primary drinking water standards under 40 CFR part 141, other health based standards, or may otherwise adversely affect the health of persons. This prohibition applies to your well construction, operation, maintenance, conversion, plugging, closure, or any other injection activity.
+
+(2) If the Director of the UIC Program in your State or EPA Region learns that your injection activity may endanger USDWs, he or she may require you to close your well, require you to get a permit, or require other actions listed in § 144.12(c), (d), or (e).
+
+(b) *Closure requirements.* You must close the well in a manner that complies with the above prohibition of fluid movement. Also, you must dispose or otherwise manage any soil, gravel, sludge, liquids, or other materials removed from or adjacent to your well in accordance with all applicable Federal, State, and local regulations and requirements.
+
+(c) *Other requirements in Parts 144 through 147.* Beyond this subpart, you are subject to other UIC Program requirements in 40 CFR parts 144 through 147. While most of the relevant requirements are repeated or referenced in this subpart for convenience, you need to read these other parts to understand the entire UIC Program.
+
+(d) *Other State or EPA requirements.* 40 CFR parts 144 through 147 define minimum Federal UIC requirements. EPA Regional Offices administering the UIC Program have the flexibility to establish additional or more stringent requirements based on the authorities in parts 144 through 147, if believed to be necessary to protect USDWs. States can have their own authorities to establish additional or more stringent requirements if needed to protect USDWs. You must comply with these additional requirements, if any exist in your area. Contact the UIC Program Director in your State or EPA Region to learn more.

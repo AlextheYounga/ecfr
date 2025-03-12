@@ -1,0 +1,9 @@
+##### § 480.105 Notice of disclosures made by a QIO. #####
+
+(a) *Notification of the disclosure of nonconfidential information.* Except as permitted under § 480.106, at least 30 calendar days before disclosure of nonconfidential information, the QIO must notify an identified institution of its intent to disclose information about the institution (other than reports routinely submitted to CMS or Medicare administrative contractors or fiscal intermediaries, or to or from QIO subcontractors, or to or from the institution) and provide the institution with a copy of the information. The institution may submit comments to the QIO that must be attached to the information disclosed if received before disclosure, or forwarded separately if received after disclosure.
+
+(b) *Notification of the disclosure of confidential information.* (1) A QIO must notify the practitioner who has treated a patient, of a request for disclosure to the patient or patient representative in accordance with the requirements and exceptions to the requirements for disclosure specified under § 480.132.
+
+(2) A QIO must notify a practitioner or institution of the QIO's intent to disclose information on the practitioner or institution to an investigative or licensing agency (§§ 480.137 and 480.138) except for cases specified in § 480.106 involving fraud or abuse or imminent danger to individuals or the public health. The practitioner or institution must be notified and provided a copy of the information to be disclosed at least 30 calendar days before the QIO discloses the identifying information. The QIO must forward with the information any comments submitted by the practitioner or institution in response to the QIO notice if received before disclosure, or forwarded separately if received after disclosure.
+
+[50 FR 15359, Apr. 17, 1985; 50 FR 41886, Oct. 16, 1985. Redesignated at 64 FR 66279, Nov. 24, 1999, as amended at 69 FR 49267, Aug. 11, 2004; 77 FR 68563, Nov. 15, 2012]

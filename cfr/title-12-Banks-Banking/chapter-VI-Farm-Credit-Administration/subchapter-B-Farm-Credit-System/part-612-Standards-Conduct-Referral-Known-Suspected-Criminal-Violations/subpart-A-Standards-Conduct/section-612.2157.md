@@ -1,0 +1,3 @@
+##### § 612.2157 Joint employees. #####
+
+No officer of a Farm Credit Bank or an agricultural credit bank may serve as an employee of an association in its district and no employee of a Farm Credit Bank or an agricultural credit bank may serve as an officer of an association in its district. Farm Credit Bank or agricultural credit bank employees other than officers may serve as employees other than officers of an association in its district provided each institution appropriately reflects the expense of such employees in its financial statements.

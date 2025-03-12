@@ -1,0 +1,3 @@
+##### § 847.807 Do employees have to pay CSRS or FERS deposits for the NAFI service they use to qualify for immediate retirement under CSRS or FERS? #####
+
+Employees are not required to pay CSRS or FERS deposits for the NAFI service they use to qualify for immediate retirement under CSRS or FERS. In fact, deposits cannot be made for any NAFI service employees elect to credit for immediate retirement under this subpart.

@@ -1,0 +1,9 @@
+##### § 67.105 Control of data and availability of publications. #####
+
+(a) Data will be collected, maintained, and supplied as provided in each contract subject to the confidentiality requirements of section 903(c) of the PHS Act, section 1142(d) of the Social Security Act, and § 67.104 of this subpart.
+
+(b) All publications, reports, papers, statistics, or other materials developed from work supported in whole or in part by contracts under Title IX of the PHS Act or section 1142 of the Social Security Act, if applicable, must be submitted to the Administrator in accordance with the terms of the contract. All publications must include an acknowledgment that such materials are the results of, or describe, a contractual activity supported by AHCPR.
+
+(c) In accordance with 48 CFR 52.227-14, unless otherwise specified in the contract, AHCPR will retain a license to use, disclose, reproduce, prepare derivative works from, distribute copies to the public, and perform publicly and display publicly any copyrightable materials produced under a contract for any purpose consistent with AHCPR's statutory responsibilities, and to have or permit others to do so for accomplishment of AHCPR purposes.
+
+(d) Except for identifying information protected by section 903(c) of the PHS Act, the Administrator, as appropriate, will make information provided in accordance with paragraphs (a) and (b) of this section available, and arrange for dissemination of such information and materials on as broad a basis as practicable and in such form as to make them as useful as possible to a variety of audiences, including health care providers, practitioners, consumers, educators, and policymakers.

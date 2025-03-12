@@ -1,0 +1,3 @@
+##### § 87.5 What information must be included in the grant application? #####
+
+The application must contain a complete description of the objective of the project and the plan for carrying out the research or demonstration, the name and qualifications of the principal investigator or project director and principal staff members, the total resources and facilities that will be available, and a justification of the amount of grant funds requested.

@@ -1,0 +1,1 @@
+##### 1827.404 Basic rights in data clause. #####

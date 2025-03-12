@@ -1,0 +1,3 @@
+##### § 375.36 Lease of foreign civil aircraft without crew. #####
+
+Foreign civil aircraft that are leased without crew to an air carrier or citizen or permanent resident of the United States, and used by the lessee in otherwise authorized air transportation or commercial air operations, may be operated into, out of, and within the United States in accordance with any applicable regulations prescribed by the Federal Aviation Administration.

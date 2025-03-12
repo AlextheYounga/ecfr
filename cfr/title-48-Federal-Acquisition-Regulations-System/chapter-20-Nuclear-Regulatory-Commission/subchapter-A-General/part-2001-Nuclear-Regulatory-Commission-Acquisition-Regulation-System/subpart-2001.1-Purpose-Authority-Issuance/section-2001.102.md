@@ -1,0 +1,3 @@
+##### 2001.102 Authority. #####
+
+The NRCAR and the amendments to it are issued by the Senior Procurement Executive under a delegation from the Executive Director for Operations dated May 16, 1997, in accordance with the authority of the Atomic Energy Act of 1954, as amended (42. U.S.C. 161), the Energy Reorganization Act of 1974 (42 U.S.C. 5841, 5872), the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(c)), as amended, FAR subpart 1.3, and other applicable law.

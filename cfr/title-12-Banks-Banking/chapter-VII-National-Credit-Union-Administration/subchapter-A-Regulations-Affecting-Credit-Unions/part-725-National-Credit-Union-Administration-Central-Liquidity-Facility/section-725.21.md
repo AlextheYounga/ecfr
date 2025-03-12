@@ -1,0 +1,3 @@
+##### § 725.21 Modification of agreements. #####
+
+The repayment, security, and credit reporting terms under which Facility advances and Agent loans will be made, as provided in § 725.20 of this part, shall be subject to modification from time to time as the NCUA Board may determine. Any change in such terms shall be published in the Federal Register and shall apply to all advances disbursed by the Facility after the effective date of the change.

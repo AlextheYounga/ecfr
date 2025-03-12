@@ -1,0 +1,5 @@
+##### § 35.2214 Grantee responsibilities. #####
+
+(a) The grantee shall complete the project in accordance with the grant agreement including: The facilities plan that establishes the need for the project; the design drawings and specifications; the plan of operation under § 35.2106 that identifies the basis to determine annual operating costs; the financial management system under § 35.2140(d) that adequately accounts for revenues and expenditures; the user charge system under § 35.2140 that will generate sufficient revenue to operate and maintain the treatment works; the project schedule; and all other applicable regulations. The grantee shall maintain and operate the project to meet project performance standards including the enforceable requirements of the Act for the design life.
+
+(b) The grantee shall provide the architectural and engineering services and other services necessary to fulfill the obligation in paragraph (a) of this section.

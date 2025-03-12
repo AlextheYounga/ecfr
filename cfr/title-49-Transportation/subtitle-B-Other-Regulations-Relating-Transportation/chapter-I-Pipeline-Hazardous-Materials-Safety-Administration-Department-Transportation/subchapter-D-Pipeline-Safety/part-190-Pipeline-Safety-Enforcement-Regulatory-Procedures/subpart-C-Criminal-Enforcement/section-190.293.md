@@ -1,0 +1,3 @@
+##### § 190.293 Referral for prosecution. #####
+
+If a PHMSA employee becomes aware of any actual or possible activity subject to criminal penalties under § 190.291, the employee reports it to the Office of Chief Counsel, Pipeline and Hazardous Materials Safety Administration, and to his or her supervisor. The Chief Counsel may refer the report to OPS for investigation. If appropriate, the Chief Counsel refers the report to the Department of Justice for criminal prosecution of the offender.

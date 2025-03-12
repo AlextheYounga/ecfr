@@ -1,0 +1,5 @@
+##### § 900.601 Purpose. #####
+
+(a) The purpose of these regulations is to implement provisions of title II of the Intergovernmental Personnel Act of 1970, as amended, relating to Federally required merit personnel systems in State and local agencies, in a manner that recognizes fully the rights, powers, and responsibilities of State and local governments and encourages innovation and allows for diversity among State and local governments in the design, execution, and management of their systems of personnel administration, as provided by that Act.
+
+(b) Certain Federal grant programs require, as a condition of eligibility, that State and local agencies that receive grants establish merit personnel systems for their personnel engaged in administration of the grant-aided program. These merit personnel systems are in some cases required by specific Federal grant statutes and in other cases are required by regulations of the Federal grantor agencies. Title II of the Act gives the U.S. Office of Personnel Management authority to prescribe standards for these Federally required merit personnel systems.

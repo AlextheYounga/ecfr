@@ -1,0 +1,15 @@
+##### § 63.990 Absorbers, condensers, and carbon adsorbers used as control devices. #####
+
+(a) *Equipment and operating requirements.* (1) Owners or operators using absorbers, condensers, or carbon adsorbers to meet a weight-percent emission reduction or parts per million by volume outlet concentration requirement specified in a referencing subpart shall meet the requirements of this section.
+
+(2) Absorbers, condensers, and carbon adsorbers used to comply with the provisions of a referencing subpart and this subpart shall be operated at all times when emissions are vented to them.
+
+(b) *Performance test requirements.* Except as specified in § 63.997(b), the owner or operator shall conduct an initial performance test of any absorber, condenser, or carbon adsorber used as a control device to comply with the provisions of the referencing subpart and this subpart according to the procedures in § 63.997. Performance test records shall be kept as specified in § 63.998(a)(2) and a performance test report shall be submitted as specified in § 63.999(a)(2). As provided in § 63.985(b)(1), a design evaluation may be used as an alternative to the performance test for storage vessels and low throughput transfer rack controls. As provided in § 63.986(b), no performance test is required to demonstrate compliance for equipment leaks.
+
+(c) *Monitoring requirements.* Where an absorber, condenser, or carbon adsorber is used as a control device, either an organic monitoring device capable of providing a continuous record, or the monitoring devices specified in paragraphs (c)(1) through (3), as applicable, shall be used. Monitoring results shall be recorded as specified in § 63.998(b) and (c), as applicable. General requirements for monitoring and continuous parameter monitoring systems are contained in a referencing subpart and § 63.996.
+
+(1) Where an absorber is used, a scrubbing liquid temperature monitoring device and a specific gravity monitoring device, each capable of providing a continuous record, shall be used. If the difference between the specific gravity of the saturated scrubbing fluid and specific gravity of the fresh scrubbing fluid is less than 0.02 specific gravity units, an organic monitoring device capable of providing a continuous record shall be used.
+
+(2) Where a condenser is used, a condenser exit (product side) temperature monitoring device capable of providing a continuous record shall be used.
+
+(3) Where a carbon adsorber is used, an integrating regeneration stream flow monitoring device having an accuracy of ±10 percent or better, capable of recording the total regeneration stream mass or volumetric flow for each regeneration cycle; and a carbon bed temperature monitoring device, capable of recording the carbon bed temperature after each regeneration and within 15 minutes of completing any cooling cycle, shall be used.

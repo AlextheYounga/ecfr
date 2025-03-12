@@ -1,0 +1,9 @@
+##### § 21.61 Failure to notify. #####
+
+(a) Any director or responsible officer of an entity (including dedicating entity) that is not otherwise subject to the deliberate misconduct provisions of this chapter but is subject to the regulations in this part who knowingly and consciously fails to provide the notice required as by § 21.21 shall be subject to a civil penalty equal to the amount provided by section 234 of the Atomic Energy Act of 1954, as amended.
+
+(b) Any NRC licensee or applicant for a license (including an applicant for, or holder of, a permit), applicant for a design certification under part 52 of this chapter during the pendency of its application, applicant for a design certification after Commission adoption of a final design certification rule for that design, or applicant for or holder of a standard design approval under part 52 of this chapter subject to the regulations in this part who fails to provide the notice required by § 21.21, or otherwise fails to comply with the applicable requirements of this part shall be subject to a civil penalty as provided by Section 234 of the Atomic Energy Act of 1954, as amended.
+
+(c) The dedicating entity, pursuant to § 21.21(c) of this part, is responsible for identifying and evaluating deviations, reporting defects and failures to comply for the dedicated item, and maintaining auditable records of the dedication process. NRC enforcement action can be taken for failure to identify and evaluate deviations, failure to report defects and failures to comply, or failure to maintain auditable records.
+
+[60 FR 48374, Sept. 19, 1995, as amended at 72 FR 49488, Aug. 28, 2007]

@@ -1,0 +1,5 @@
+##### § 24.302 Fixed payment for moving expenses—residential moves. #####
+
+Any person displaced from a dwelling or a seasonal residence or a dormitory style room is entitled to receive a fixed moving cost payment as an alternative to a payment for actual moving and related expenses under § 24.301. This payment shall be determined according to the Fixed Residential Moving Cost Schedule3 approved by the Federal Highway Administration and published in the Federal Register on a periodic basis. The payment to a person with minimal personal possessions who is in occupancy of a dormitory style room or a person whose residential move is performed by an Agency at no cost to the person shall be limited to the amount stated in the most recent edition of the Fixed Residential Moving Cost Schedule.
+
+3 The Fixed Residential Moving Cost Schedule is available at the following URL: *http://www.fhwa.dot.gov//////realestate/fixsch96.htm.* Agencies are cautioned to ensure they are using the most recent edition.

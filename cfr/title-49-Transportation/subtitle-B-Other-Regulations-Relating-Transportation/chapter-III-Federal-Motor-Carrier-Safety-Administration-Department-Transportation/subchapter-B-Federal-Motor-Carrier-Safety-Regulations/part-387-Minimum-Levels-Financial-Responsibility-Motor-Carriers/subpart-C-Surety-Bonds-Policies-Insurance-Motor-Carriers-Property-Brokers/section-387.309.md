@@ -1,0 +1,15 @@
+##### § 387.309 Qualifications as a self-insurer and other securities or agreements. #####
+
+(a) *As a self-insurer.* The FMCSA will consider and will approve, subject to appropriate and reasonable conditions, the application of a motor carrier to qualify as a self-insurer, if the carrier furnishes a true and accurate statement of its financial condition and other evidence that establishes to the satisfaction of the FMCSA the ability of the motor carrier to satisfy its obligation for bodily injury liability, property damage liability, or cargo liability. Application Guidelines: In addition to filing Form BMC 40, applicants for authority to self-insure against bodily injury and property damage claims should submit evidence that will allow the FMCSA to determine:
+
+(1) The adequacy of the tangible net worth of the motor carrier in relation to the size of operations and the extent of its request for self-insurance authority. Applicant should demonstrate that it will maintain a net worth that will ensure that it will be able to meet its statutory obligations to the public to indemnify all claimants in the event of loss.
+
+(2) *The existence of a sound self-insurance program.* Applicant should demonstrate that it has established, and will maintain, an insurance program that will protect the public against all claims to the same extent as the minimum security limits applicable to applicant under § 387.303 of this part. Such a program may include, but not be limited to, one or more of the following: Irrevocable letters of credit; irrevocable trust funds; reserves; sinking funds; third-party financial guarantees, parent company or affiliate sureties; excess insurance coverage; or other similar arrangements.
+
+(3) *The existence of an adequate safety program.* Applicant must submit evidence of a current “satisfactory” safety rating by the United States Department of Transportation. Non-rated carriers need only certify that they have not been rated. Applications by carriers with a less than satisfactory rating will be summarily denied. Any self-insurance authority granted by the FMCSA will automatically expire 30 days after a carrier receives a less than satisfactory rating from DOT.
+
+(4) *Additional information.* Applicant must submit such additional information to support its application as the FMCSA may require.
+
+(b) *Other securities or agreements.* The FMCSA also will consider applications for approval of other securities or agreements and will approve any such application if satisfied that the security or agreement offered will afford the security for protection of the public contemplated by 49 U.S.C. 13906.
+
+[48 FR 51780, Nov. 14, 1983, and 51 FR 15008, Apr. 22, 1986, as amended at 52 FR 3815, Feb. 6, 1987; 62 FR 49941, Sept. 24, 1997; 68 FR 56199, Sept. 30, 2003]

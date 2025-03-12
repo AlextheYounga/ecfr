@@ -1,0 +1,3 @@
+##### § 36.22 Fuel-injection system. #####
+
+This system shall be so constructed that the quantity of fuel injected can be controlled at a desired maximum value and shall be so arranged that this adjustment can be changed only after breaking a seal or unlocking a compartment. Provision shall be made for convenient adjustment of the maximum fuel-injection rate to that required for safe operation at different altitudes (elevations above sea level). The governor, controlling engine speed and fuel injection, shall not directly affect airflow to the engine and provision shall be made to seal or lock its adjustment compartment. Filters shall be provided to insure that only clean fuel will reach the injection pump or injectors.

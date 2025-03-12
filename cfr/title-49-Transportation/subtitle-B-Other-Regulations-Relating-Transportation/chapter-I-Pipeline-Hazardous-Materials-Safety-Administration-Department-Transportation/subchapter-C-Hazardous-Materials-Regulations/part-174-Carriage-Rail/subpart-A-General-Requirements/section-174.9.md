@@ -1,0 +1,11 @@
+##### § 174.9 Safety and security inspection and acceptance. #####
+
+(a) At each location where a hazardous material is accepted for transportation or placed in a train, the carrier must inspect each rail car containing the hazardous material, at ground level, for required markings, labels, placards, securement of closures, and leakage. These inspections may be performed in conjunction with inspections required under parts 215 and 232 of this title.
+
+(b) For each rail car containing an amount of hazardous material requiring placarding in accordance with § 172.504 of this subchapter, the carrier must visually inspect the rail car at ground level for signs of tampering, including closures and seals, for suspicious items or items that do not belong, and for other signs that the security of the car may have been compromised, including the presence of an improvised explosive device. As used in this section, an improvised explosive device is a device fabricated in an improvised manner incorporating explosives or destructive, lethal, noxious, pyrotechnic, or incendiary chemicals in its design, and generally includes a power supply, a switch or timer, and a detonator or initiator. The carrier should be particularly attentive to signs that security may have been compromised on rail cars transporting materials covered by § 172.820 of this subchapter, rail carload quantities of ammonium nitrate or ammonium nitrate mixtures in solid form, or hazardous materials of interest based on current threat information.
+
+(c) If a rail car does not conform to the safety and security requirements of this subchapter, the carrier may not forward or transport the rail car until the deficiencies are corrected or the car is approved for movement in accordance with § 174.50.
+
+(d) Where an indication of tampering or suspicious item is found, a carrier must take appropriate action to ensure the security of the rail car and its contents have not been compromised before accepting the rail car for further movement. If the carrier determines that the security of the rail car has been compromised, the carrier must take action, in conformance with its existing security plan (see subpart I of part 172 of this subchapter) to address the security issues before forwarding the rail car for further movement.
+
+[73 FR 20773, Apr. 16, 2008]

@@ -1,0 +1,9 @@
+##### § 1503.3 Specificity of comments and information. #####
+
+(a) To promote informed decision making, comments on an environmental impact statement or on a proposed action shall be as specific as possible, and may address either the adequacy of the statement or the merits of the alternatives discussed or both. Comments should explain why the issues raised are important to the consideration of potential environmental effects and alternatives to the proposed action. Where possible, comments should reference the corresponding section or page number of the draft environmental impact statement, propose specific changes to those parts of the statement, and describe any data, sources, or methodologies that support the proposed changes.
+
+(b) When a participating agency criticizes a lead agency's predictive methodology, the participating agency should describe the alternative methodology that it prefers and why.
+
+(c) A cooperating agency shall specify in its comments whether it needs additional information to fulfill other applicable environmental review or consultation requirements and what information it needs. In particular, it shall specify any additional information it needs to comment adequately on the draft statement's analysis of significant effects associated with the granting or approving by that cooperating agency of necessary Federal permits, licenses, or authorizations.
+
+(d) A cooperating agency with jurisdiction by law shall specify mitigation measures it considers necessary to allow the agency to grant or approve applicable authorizations or concurrences and cite to its applicable statutory authority.

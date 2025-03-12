@@ -1,0 +1,3 @@
+##### § 765.1 Purpose. #####
+
+The provisions of this part establish regulatory requirements governing reimbursement for certain costs of remedial action at active uranium or thorium processing sites as specified by Subtitle A of Title X of the Energy Policy Act of 1992. These regulations are authorized by section 1002 of the Act (42 U.S.C. 2296a-1), which requires the Secretary to issue regulations governing the reimbursements.

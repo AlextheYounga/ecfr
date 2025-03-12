@@ -1,0 +1,3 @@
+##### § 1.39 Executive Secretariat. #####
+
+The Executive Secretariat provides organized staff services to the Secretary and Deputy Secretary to assist them in carrying out their management functions and their responsibilities for formulating, coordinating and communicating major policy decisions. The Office controls and coordinates internal and external material directed to the Secretary and Deputy Secretary and ensures that their decisions and instructions are implemented.

@@ -1,0 +1,3 @@
+##### § 87.29 Partial grant of application. #####
+
+Whenever the Commission, without a hearing, grants an application in part or with any privileges, terms, or conditions other than those requested, the action will be considered as a grant of the application unless the applicant, within 30 days from the date on which such grant is made, or from its effective date if a later day is specified, files with the Commission a written protest, rejecting the grant as made. Upon receipt of such protest, the Commission will vacate its original action upon the application and, if necessary, set the application for hearing.

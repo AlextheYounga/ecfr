@@ -1,0 +1,3 @@
+##### § 137.272 What other alternatives are available for Self-Governance Tribes to perform construction projects? #####
+
+Self-Governance Tribes also have the option of performing IHS construction projects under a variety of other legal authorities, including but not limited to Title I of the Act, the Indian Health Care Improvement Act, Public Law 94-437, and Public Law 86-121. This subpart does not cover projects constructed pursuant to agreements entered into under these authorities.

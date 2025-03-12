@@ -1,0 +1,9 @@
+##### § 10.24 Procedures for hearing and review. #####
+
+(a) Upon receipt of a timely filed request for a hearing and answer complying with the requirements set forth in § 10.22, the Director, Office of Administration, shall forthwith appoint a Hearing Examiner, and the General Counsel shall forthwith assign an NRC attorney to act as Hearing Counsel. The Director, Office of Administration, shall promptly notify the individual of the identity of the Hearing Examiner and proposed hearing date, which shall be selected with due regard for the convenience of the parties and their representatives.
+
+(b) Within 72 hours of being notified of the identity of the Hearing Examiner, the individual may request that the Hearing Examiner be disqualified for cause by filing with the Director, Office of Administration, a written statement of the individual's reasons for seeking disqualification. The time for filing the request may be extended by the Director, Office of Administration, for good cause shown. If the Director, Office of Administration, grants the request the procedures of paragraph (a) of this section and this paragraph shall be followed just as though there had been no prior appointment.
+
+(c) The individual shall have the right to appear at the hearing before the Hearing Examiner, to be represented by counsel or other representative, to introduce documentary or other evidence, and to call, examine, and cross-examine witnesses, subject to the provisions and limitations set forth in this part.
+
+[47 FR 38676, Sept. 2, 1982, as amended at 51 FR 35999, Oct. 8, 1986; 52 FR 31609, Aug. 21, 1987; 54 FR 53316, Dec. 28, 1989]

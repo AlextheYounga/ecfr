@@ -1,0 +1,11 @@
+##### § 2634.203 Persons excluded by rule. #####
+
+(a) *In general.* Any individual or group of individuals described in § 2634.202(e) of this subpart (relating to positions of a confidential or policy-making character) may be excluded by rule from the public reporting requirements of this subpart when the Director of the Office of Government Ethics determines, in his sole discretion, that such exclusion would not affect adversely the integrity of the Government or the public's confidence in the integrity of the Government.
+
+(b) *Exclusion determination.* The determination required by paragraph (a) of this section has been made for the following group of individuals who, therefore, may be excluded from the public reporting requirements of this subpart, pursuant to the procedures in paragraph (c) of this section: Individuals in any position classified at GS-15 of the General Schedule or below, or the rate of basic pay for which is less than 120% of the minimum rate of basic pay fixed for GS-15, who have no policy-making role with respect to agency programs. Such individuals may include chauffeurs, private secretaries, stenographers, and others holding positions of a similar nature whose exclusion would be consistent with the basic criterion set forth in paragraph (a) of this section. See § 2634.904(a)(4) for possible coverage by confidential disclosure rules.
+
+(c) *Procedure.* (1) The exclusion of any individual from reporting requirements pursuant to this section will be effective as of the time the employing agency files with the Office of Government Ethics a list and description of each position for which exclusion is sought, and the identity of any incumbent employees in those positions. Exclusions should be requested prior to due dates for the reports which such employees would otherwise have to file.
+
+(2) If the Office of Government Ethics finds that one or more positions has been improperly excluded, it will advise the agency and set a date for the filing of the report.
+
+[57 FR 11806, Apr. 7, 1992; 57 FR 21854, May 22, 1992, as amended at 58 FR 38912, July 21, 1993; 71 FR 28233, May 16, 2006]

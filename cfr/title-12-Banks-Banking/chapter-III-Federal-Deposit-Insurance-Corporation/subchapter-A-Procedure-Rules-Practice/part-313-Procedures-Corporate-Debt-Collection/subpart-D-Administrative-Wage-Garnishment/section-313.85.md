@@ -1,0 +1,3 @@
+##### § 313.85 Failure to timely request a hearing. #####
+
+If the FDIC receives a debtor's written request for hearing after 15 business days of the date the FDIC mailed its notice of intent to seek garnishment, the FDIC shall provide a hearing to the debtor. However, the FDIC will not delay issuance of a withholding order unless it determines that the untimely filing of the request was caused by factors over which the debtor had no control, or the FDIC receives information that the FDIC believes justifies a delay or cancellation of the withholding order.

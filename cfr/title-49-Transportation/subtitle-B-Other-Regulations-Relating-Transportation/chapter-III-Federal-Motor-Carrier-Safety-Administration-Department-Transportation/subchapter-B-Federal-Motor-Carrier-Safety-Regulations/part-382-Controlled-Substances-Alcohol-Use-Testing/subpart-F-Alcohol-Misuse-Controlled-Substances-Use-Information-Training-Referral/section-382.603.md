@@ -1,0 +1,3 @@
+##### § 382.603 Training for supervisors. #####
+
+Each employer shall ensure that all persons designated to supervise drivers receive at least 60 minutes of training on alcohol misuse and receive at least an additional 60 minutes of training on controlled substances use. The training will be used by the supervisors to determine whether reasonable suspicion exists to require a driver to undergo testing under § 382.307. The training shall include the physical, behavioral, speech, and performance indicators of probable alcohol misuse and use of controlled substances. Recurrent training for supervisory personnel is not required.

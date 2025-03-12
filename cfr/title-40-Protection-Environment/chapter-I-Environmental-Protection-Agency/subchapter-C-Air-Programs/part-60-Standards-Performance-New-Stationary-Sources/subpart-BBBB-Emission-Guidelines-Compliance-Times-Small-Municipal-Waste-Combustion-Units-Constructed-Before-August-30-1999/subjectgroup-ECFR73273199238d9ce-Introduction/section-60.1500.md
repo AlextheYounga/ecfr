@@ -1,0 +1,3 @@
+##### § 60.1500 What is the purpose of this subpart? #####
+
+This subpart establishes emission guidelines and compliance schedules for the control of emissions from existing small municipal waste combustion units. The pollutants addressed by the emission guidelines are listed in tables 2, 3, 4, and 5 of this subpart. The emission guidelines are developed in accordance with sections 111(d) and 129 of the Clean Air Act (CAA) and subpart B of this part.

@@ -1,0 +1,3 @@
+##### § 293.308 Removal of temporary records from OPFs. #####
+
+The employing agency having possession of an OPF shall remove temporary records from the OPF before it is transferred to another agency. For these and also for temporary records of their current employees, maintenance of the records shall be in accordance with General Records Schedule 1, promulgated by the General Services Administration.

@@ -1,0 +1,3 @@
+##### § 582.2 Purpose. #####
+
+The purpose of this part is to enable prospective purchasers to compare differences in auto insurance costs for the various makes and models of passenger motor vehicles, based upon differences in damage susceptibility and crashworthiness, and to realize any savings in collision insurance resulting from differences in damageability, and any savings in medical payment insurance resulting from differences in crashworthiness.

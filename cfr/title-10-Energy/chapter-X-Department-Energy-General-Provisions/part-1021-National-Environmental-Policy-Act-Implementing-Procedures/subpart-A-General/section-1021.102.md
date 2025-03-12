@@ -1,0 +1,5 @@
+##### § 1021.102 Applicability. #####
+
+(a) This part applies to all organizational elements of DOE except the Federal Energy Regulatory Commission.
+
+(b) This part applies to any DOE action affecting the quality of the environment of the United States, its territories or possessions. DOE actions having environmental effects outside the United States, its territories or possessions are subject to the provisions of Executive Order 12114, “Environmental Effects Abroad of Major Federal Actions” (3 CFR, 1979 Comp., p. 356; 44 FR 1957, January 4, 1979), DOE guidelines implementing that Executive Order (46 FR 1007, January 5, 1981), and the Department of State's “Unified Procedures Applicable to Major Federal Actions Relating to Nuclear Activities Subject to Executive Order 12114” (44 FR 65560, November 13, 1979).

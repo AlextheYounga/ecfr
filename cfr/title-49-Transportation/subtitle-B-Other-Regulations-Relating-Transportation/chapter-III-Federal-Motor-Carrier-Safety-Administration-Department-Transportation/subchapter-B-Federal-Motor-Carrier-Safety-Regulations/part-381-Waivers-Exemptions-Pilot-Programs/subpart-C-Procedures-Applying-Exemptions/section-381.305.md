@@ -1,0 +1,5 @@
+##### § 381.305 How do I determine when I may apply for an exemption? #####
+
+(a) You may apply for an exemption if one or more FMCSR prevents you from implementing more efficient or effective operations that would maintain a level of safety equivalent to, or greater than, the level achieved without the exemption.
+
+(b) Before you decide to apply for an exemption you should carefully review the regulation to determine whether there are any practical alternatives already available that would allow you to conduct your motor carrier operations. You should also determine whether you need an exemption from all of the requirements in one or more parts of the regulations, or whether a more limited exemption from certain sections within one or more parts of the regulations would provide an acceptable level of regulatory relief. For example, if you need regulatory relief from one of the recordkeeping requirements concerning driver qualifications, you should not request regulatory relief from all of the requirements of part 391.

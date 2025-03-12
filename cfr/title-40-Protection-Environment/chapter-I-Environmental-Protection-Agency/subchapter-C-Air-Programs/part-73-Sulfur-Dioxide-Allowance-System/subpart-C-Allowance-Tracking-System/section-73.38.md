@@ -1,0 +1,7 @@
+##### § 73.38 Closing of accounts. #####
+
+(a) *General account.* The authorized account representative of a general account may instruct the Administrator to close the general account by submitting an allowance transfer, pursuant to § 73.50 and § 73.52, requesting the transfer of all allowances held in the account to one or more other accounts in the Allowance Tracking System, and by submitting in writing, with the signature of the authorized account representative, a request to close the general account.
+
+(b) *Inactive accounts.* If a general account shows no activity for a 12-month period or longer and does not contain any allowances, the Administrator may notify the account's authorized account representative that the account will be closed following 20 business days from the date the notice is sent. The account will be closed following the 20-day period, unless the Administrator receives and records a request for the transfer of allowances into the account pursuant to § 73.52 before the end of the 20-day period, or the authorized account representative submits, in writing, demonstration of good cause as to why the inactive account should not be closed.
+
+[58 FR 3691, Jan. 11, 1993, as amended at 70 FR 25336, May 12, 2005]

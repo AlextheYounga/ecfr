@@ -1,0 +1,3 @@
+##### § 1807.102 Relationship to other CDFI Fund programs. #####
+
+Restrictions on applying for, receiving, and using CMF Awards in conjunction with awards under other programs administered by the CDFI Fund (including, but not limited to, the Bank Enterprise Award Program, the CDFI Program, the CDFI Bond Guarantee Program, the Native American CDFI Assistance (NACA) Program, and the New Markets Tax Credit Program) are as set forth in the applicable Notice of Funds Availability, Notice of Guarantee Availability, or Notice of Allocation Availability.

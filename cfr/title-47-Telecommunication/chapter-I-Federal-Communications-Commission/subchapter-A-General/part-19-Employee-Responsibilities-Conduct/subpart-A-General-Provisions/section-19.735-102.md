@@ -1,0 +1,3 @@
+##### § 19.735-102 Cross-reference to ethics and other conduct related regulations. #####
+
+In addition to the rules in this part, employees of the Federal Communications Commission (Commission) are subject to the Standards of Ethical Conduct for Employees of the Executive Branch at 5 CFR part 2635 and the Commission's regulations at 5 CFR part 3901 which supplement the executive branch-wide standards, the executive branch financial disclosure regulations at 5 CFR part 2634 and the Commission's regulations at 5 CFR part 3902 which supplement the executive branch-wide financial disclosure regulations, and the employee responsibilities and conduct regulations at 5 CFR part 735.

@@ -1,0 +1,3 @@
+##### § 848.801 Reemployment of an individual who has separated from phased employment and who dies before submitting an application for a composite retirement annuity. #####
+
+A phased retiree who has been separated from employment for more than 3 days and who has entered full retirement status, but who has not submitted an application for composite retirement annuity, is deemed to be an annuitant receiving annuity from the Civil Service Retirement and Disability Fund during any period of employment in an appointive or elective position in the Federal Government.

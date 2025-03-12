@@ -1,0 +1,3 @@
+##### § 60.5240 Am I required to apply for and obtain a Title V operating permit for my existing SSI unit? #####
+
+Yes, if you are subject to an applicable EPA-approved and effective CAA section 111(d)/129 state or tribal plan or an applicable and effective Federal plan, you are required to apply for and obtain a Title V operating permit for your existing SSI unit unless you meet the relevant requirements for an exemption specified in § 60.5065.

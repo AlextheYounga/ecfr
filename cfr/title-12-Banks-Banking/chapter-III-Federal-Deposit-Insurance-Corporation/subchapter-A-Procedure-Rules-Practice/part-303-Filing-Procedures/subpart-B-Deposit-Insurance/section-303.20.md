@@ -1,0 +1,5 @@
+##### § 303.20 Scope. #####
+
+This subpart sets forth the procedures for applying for deposit insurance for a proposed depository institution or an operating noninsured depository institution under section 5 of the FDI Act (12 U.S.C. 1815). It also sets forth the procedures for requesting continuation of deposit insurance for a state-chartered bank withdrawing from membership in the Federal Reserve System and for interim institutions chartered to facilitate a merger transaction. Each bank that results from the conversion of a Federal savings association into multiple banks pursuant to section 5(i)(5) of the Home Owners' Loan Act, 12 U.S.C. 1464(i)(5), is treated as a proposed depository institution or a de novo institution, as appropriate, for purposes of this subpart.
+
+[67 FR 79247, Dec. 27, 2002, as amended at 73 FR 2145, Jan. 14, 2008]

@@ -1,0 +1,5 @@
+##### § 831.901 Applicability and purpose. #####
+
+(a) This subpart contains regulations of the Office of Personnel Management (OPM) to supplement 5 U.S.C. 8336(c), which establishes special retirement eligibility for law enforcement officers and firefighters employed under the Civil Service Retirement System; 5 U.S.C. 8331(3) (C) and (D), pertaining to basic pay; 5 U.S.C. 8334(a) (1) and (c), pertaining to deductions, contributions, and deposits; 5 U.S.C. 8335(b), pertaining to mandatory retirement; and 5 U.S.C. 8339(d), pertaining to computation of annuity.
+
+(b) The regulations in this subpart are issued pursuant to the authority given to OPM in 5 U.S.C. 8347 to prescribe regulations to carry out subchapter III of chapter 83 of title 5 of the United States Code, and in 5 U.S.C. 1104 to delegate authority for personnel management to the heads of agencies.

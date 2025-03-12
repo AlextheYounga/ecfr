@@ -1,0 +1,7 @@
+##### § 1208.15 Remedies. #####
+
+(a) *Order for compliance.* If the Board determines that a Federal agency employer or the Office of Personnel
+
+Management has not complied with a provision or provisions of chapter 43 of title 38, United States Code (other than a provision relating to benefits under the Thrift Savings Plan for Federal employees), the decision of the Board (either an initial decision of a judge under 5 CFR 1201.111 or a final Board decision under 5 CFR 1201.117) will order the Federal agency employer or the Office of Personnel Management, as applicable, to comply with such provision(s) and to compensate the appellant for any loss of wages or benefits suffered by the appellant because of such lack of compliance. Under 38 U.S.C. 4324(c)(3), any compensation received by the appellant pursuant to the Board's order shall be in addition to any other right or benefit provided for by chapter 43 of title 38, United States Code, and shall not diminish any such right or benefit.
+
+(b) *Attorney fees and expenses.* If the Board issues a decision ordering compliance under paragraph (a) of this section, the Board has discretion to order payment of reasonable attorney fees, expert witness fees, and other litigation expenses under 38 U.S.C. 4324(c)(4). The provisions of subpart H of part 1201 shall govern any proceeding for attorney fees and expenses.

@@ -1,0 +1,7 @@
+##### § 60.3033 How do I demonstrate continuous compliance with the emission limitations and the operating limits? #####
+
+(a) You must conduct an annual performance test for all of the pollutants in table 2 of this subpart for each OSWI unit to determine compliance with the emission limitations. The annual performance test must be conducted using the test methods listed in table 2 of this subpart and the procedures in § 60.3027.
+
+(b) You must continuously monitor carbon monoxide emissions to determine compliance with the carbon monoxide emissions limitation. Twelve-hour rolling average values are used to determine compliance. A 12-hour rolling average value above the carbon monoxide emission limit in table 2 constitutes a deviation from the emission limitation.
+
+(c) You must continuously monitor the operating parameters specified in § 60.3023 or established under § 60.3024. Three-hour rolling average values are used to determine compliance with the operating limits unless a different averaging period is established under § 60.3024. A 3-hour rolling average value (unless a different averaging period is established under § 60.3024) above the established maximum or below the established minimum operating limits constitutes a deviation from the established operating limits. Operating limits do not apply during performance tests.

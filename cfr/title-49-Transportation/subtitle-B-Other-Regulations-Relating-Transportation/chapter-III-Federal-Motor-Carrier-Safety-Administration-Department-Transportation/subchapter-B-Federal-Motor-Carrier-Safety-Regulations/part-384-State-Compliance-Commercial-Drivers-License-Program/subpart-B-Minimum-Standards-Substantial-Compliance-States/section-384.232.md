@@ -1,0 +1,3 @@
+##### § 384.232 Required timing of record checks. #####
+
+The State shall perform the record checks prescribed in §§ 384.205, 384.206, and 384.220, no earlier than 10 days prior to issuance for licenses issued before October 1, 1995. For licenses issued after September 30, 1995, the State shall perform the record checks no earlier than 24 hours prior to issuance if the license is issued to a driver who does not currently possess a valid CDL from the same State and no earlier than 10 days prior to issuance for all other drivers.

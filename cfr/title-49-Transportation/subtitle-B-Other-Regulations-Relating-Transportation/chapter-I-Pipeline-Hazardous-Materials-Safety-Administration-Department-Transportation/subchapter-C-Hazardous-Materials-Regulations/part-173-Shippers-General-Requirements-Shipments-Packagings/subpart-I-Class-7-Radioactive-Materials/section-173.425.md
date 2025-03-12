@@ -1,0 +1,24 @@
+##### § 173.425 Table of activity limits—excepted quantities and articles. #####
+
+The limits applicable to instruments, articles, and limited quantities subject to exceptions under §§ 173.421 and 173.424 are set forth in table 4 as follows:
+
+|                                                Nature of contents                                                 |    Instruments and articles     |Limited quantity package limits <sup>1</sup>|                                 |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------------------|---------------------------------|
+|                                Limits for each instrument or article <sup>1</sup>                                 |   Package limits <sup>1</sup>   |                                            |                                 |
+|                                                      Solids:                                                      |                                 |                                            |                                 |
+|                                                   Special form                                                    |  10<sup>−2</sup> A<sub>1</sub>  |               A<sub>1</sub>                |  10<sup>−3</sup> A<sub>1</sub>  |
+|                                                    Normal form                                                    |  10<sup>−2</sup> A<sub>2</sub>  |               A<sub>2</sub>                |  10<sup>−3</sup> A<sub>2</sub>  |
+|                                                     Liquids:                                                      |                                 |                                            |                                 |
+|                                                 Tritiated water:                                                  |                                 |                                            |                                 |
+|                                             \<0.0037 TBq/L (0.1 Ci/L)                                             |                                 |                                            |        37 TBq (1,000 Ci)        |
+|                                  0.0037 TBq to 0.037 TBq/L (0.1 Ci to 1.0 Ci/L)                                   |                                 |                                            |        3.7 TBq (100 Ci)         |
+|                                             \>0.037 TBq/L (1.0 Ci/L)                                              |                                 |                                            |       0.037 TBq (1.0 Ci)        |
+|                                                   Other Liquids                                                   |  10<sup>−3</sup> A<sub>2</sub>  |       10<sup>−1</sup> A<sub>2</sub>        |  10<sup>−4</sup> A<sub>2</sub>  |
+|                                                      Gases:                                                       |                                 |                                            |                                 |
+|                                               Tritium <sup>2</sup>                                                |2 × 10<sup>−2</sup> A<sub>2</sub>|     2 × 10<sup>−1</sup> A<sub>2</sub>      |2 × 10<sup>−2</sup> A<sub>2</sub>|
+|                                                   Special form                                                    |  10<sup>−3</sup> A<sub>1</sub>  |       10<sup>−2</sup> A<sub>1</sub>        |  10<sup>−3</sup> A<sub>1</sub>  |
+|                                                    Normal form                                                    |  10<sup>−3</sup> A<sub>2</sub>  |       10<sup>−2</sup> A<sub>2</sub>        |  10<sup>−3</sup> A<sub>2</sub>  |
+|                           <sup>1</sup> For mixtures of radionuclides see § 173.433(d).                            |                                 |                                            |                                 |
+|<sup>2</sup> These values also apply to tritium in activated luminous paint and tritium adsorbed on solid carriers.|                                 |                                            |                                 |
+
+[Amdt. 173-244, 60 FR 50307, Sept. 28, 1995, as amended by Amdt. 173-244, 61 FR 20751, May 8, 1996; 63 FR 52849, Oct. 1, 1998; 65 FR 58630, Sept. 29, 2000; 66 FR 45383, Aug. 28, 2001; 69 FR 3676, Jan. 26, 2004]

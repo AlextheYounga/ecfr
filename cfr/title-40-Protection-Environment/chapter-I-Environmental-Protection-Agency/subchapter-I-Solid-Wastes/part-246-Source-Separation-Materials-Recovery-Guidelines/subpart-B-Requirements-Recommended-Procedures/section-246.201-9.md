@@ -1,0 +1,3 @@
+##### § 246.201-9 Recommended procedures: Public information and education. #####
+
+A well organized and well executed public information and education program explaining the justification, goals, methods and level of separation should be conducted to inform and motivate householders and to secure their cooperation in separating their waste. This public information and education program should precede the program and continue on a regular basis for its duration.

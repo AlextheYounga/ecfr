@@ -1,0 +1,3 @@
+##### § 221.61 Rules and regulations governing foreign air transportation. #####
+
+Instead of being included in the fares tariffs, the rules and regulations governing foreign air transportation required to be filed by §§ 221.20 and 221.30 and/or Department order which do not govern the applicability of particular fares may be filed in separate governing tariffs, conforming to this subpart. Governing rules tariffs shall contain an index of rules.

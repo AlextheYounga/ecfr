@@ -1,0 +1,3 @@
+##### § 95.1107 Authorized locations. #####
+
+The operation of a wireless medical telemetry transmitter under this part is authorized anywhere within a health care facility provided the facility is located anywhere a CB station operation is permitted under § 95.405. This authority does not extend to mobile vehicles, such as ambulances, even if those vehicles are associated with a health care facility.

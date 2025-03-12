@@ -1,0 +1,3 @@
+##### § 388.2 Extent of acceptance. #####
+
+The written acceptance may be in letter form, signed by competent authority of said State charged with regulations of motor carrier saftey and hazardous materials transportation and shall specify the terms herein pertaining to the obligations of a State in which said State will participate. To the extent that a State agrees to participate in the terms herein, officials of the Federal Motor Carrier Safety Administration will reciprocate.

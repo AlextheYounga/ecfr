@@ -1,0 +1,3 @@
+##### 2001.403 Individual deviations. #####
+
+In individual cases, deviations from either the FAR or the NRCAR will be authorized only when essential to effect only one contracting action or where special circumstances make the deviations clearly in the best interest of the Government. Individual deviations must be authorized in advance by the Director, Division of Contracts and Property Management.

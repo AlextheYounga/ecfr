@@ -1,0 +1,3 @@
+##### § 894.204 May I be enrolled in more than one dental or vision plan at a time? #####
+
+You may be enrolled in a FEDVIP dental plan and a separate FEDVIP vision plan at the same time. But no one may enroll or be covered as a family member in a FEDVIP dental or vision plan if he or she is covered under another person's FEDVIP dental or vision self plus one or self and family enrollment, except as provided under § 890.302 (a)(2) through (4) of this chapter, with respect to dual enrollments.

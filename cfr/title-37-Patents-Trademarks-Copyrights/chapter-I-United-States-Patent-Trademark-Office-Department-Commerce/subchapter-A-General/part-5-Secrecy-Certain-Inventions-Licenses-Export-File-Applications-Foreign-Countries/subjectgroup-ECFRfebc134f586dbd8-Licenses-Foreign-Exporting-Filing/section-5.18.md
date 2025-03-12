@@ -1,0 +1,7 @@
+##### § 5.18 Arms, ammunition, and implements of war. #####
+
+(a) The exportation of technical data relating to arms, ammunition, and implements of war generally is subject to the International Traffic in Arms Regulations of the Department of State (22 CFR parts 120 through 130); the articles designated as arms, ammunitions, and implements of war are enumerated in the U.S. Munitions List (22 CFR part 121). However, if a patent applicant complies with regulations issued by the Commissioner for Patents under 35 U.S.C. 184, no separate approval from the Department of State is required unless the applicant seeks to export technical data exceeding that used to support a patent application in a foreign country. This exemption from Department of State regulations is applicable regardless of whether a license from the Commissioner for Patents is required by the provisions of §§ 5.11 and 5.12 (22 CFR part 125).
+
+(b) When a patent application containing subject matter on the Munitions List (22 CFR part 121) is subject to a secrecy order under § 5.2 and a petition is made under § 5.5 for a modification of the secrecy order to permit filing abroad, a separate request to the Department of State for authority to export classified information is not required (22 CFR part 125).
+
+[62 FR 53205, Oct. 10, 1997]

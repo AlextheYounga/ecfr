@@ -1,0 +1,3 @@
+##### § 719.20 When must an engagement letter be submitted to Department Counsel? #####
+
+Contractors must submit a copy of an executed engagement letter between it and retained legal counsel to Department Counsel when the retained counsel is expected to provide $25,000 or more in legal services for a particular matter. A copy of the executed engagement letter must be submitted to Department Counsel upon execution.

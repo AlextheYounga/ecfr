@@ -1,0 +1,3 @@
+##### § 109.4 Relationship to Federal response actions. #####
+
+The National Oil and Hazardous Materials Pollution Contingency Plan provides that the Federal on-scene commander shall investigate all reported spills. If such investigation shows that appropriate action is being taken by either the discharger or non-Federal entities, the Federal on-scene commander shall monitor and provide advice or assistance, as required. If appropriate containment or cleanup action is not being taken by the discharger or non-Federal entities, the Federal on-scene commander will take control of the response activity in accordance with section 11(c)(1) of the Federal Act.

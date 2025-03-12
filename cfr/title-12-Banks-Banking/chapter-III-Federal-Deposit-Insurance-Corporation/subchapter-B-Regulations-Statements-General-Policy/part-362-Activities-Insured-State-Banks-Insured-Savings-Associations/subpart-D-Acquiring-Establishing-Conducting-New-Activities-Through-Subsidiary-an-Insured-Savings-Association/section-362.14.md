@@ -1,0 +1,3 @@
+##### § 362.14 Purpose and scope. #####
+
+This subpart implements section 18(m) of the Federal Deposit Insurance Act (12 U.S.C. 1828(m)) which requires that prior notice be given the FDIC when an insured savings association establishes or acquires a subsidiary or engages in any new activity in a subsidiary. For the purposes of this subpart, the term “subsidiary” does not include any insured depository institution as that term is defined in the Federal Deposit Insurance Act. Unless otherwise indicated, the definitions provided in § 362.2 apply to this subpart.

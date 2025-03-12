@@ -1,0 +1,3 @@
+##### § 250.1019 Relinquishment of pipeline right-of-way grants. #####
+
+A right-of-way grant or a portion thereof may be surrendered by the holder by filing a written relinquishment in triplicate with the Regional Supervisor. It must contain those items addressed in §§ 250.1751 and 250.1752 of this part. A relinquishment shall take effect on the date it is filed subject to the satisfaction of all outstanding debts, fees, or fines and the requirements in § 250.1010(h) of this part.

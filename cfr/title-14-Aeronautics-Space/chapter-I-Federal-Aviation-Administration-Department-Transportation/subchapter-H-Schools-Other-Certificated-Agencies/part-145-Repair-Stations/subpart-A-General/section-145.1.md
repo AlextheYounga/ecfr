@@ -1,0 +1,3 @@
+##### § 145.1 Applicability. #####
+
+This part describes how to obtain a repair station certificate. This part also contains the rules a certificated repair station must follow related to its performance of maintenance, preventive maintenance, or alterations of an aircraft, airframe, aircraft engine, propeller, appliance, or component part to which part 43 applies. It also applies to any person who holds, or is required to hold, a repair station certificate issued under this part.

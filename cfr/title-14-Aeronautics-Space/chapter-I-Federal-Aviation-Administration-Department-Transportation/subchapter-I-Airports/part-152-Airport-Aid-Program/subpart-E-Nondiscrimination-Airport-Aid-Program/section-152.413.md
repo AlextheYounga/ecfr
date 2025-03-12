@@ -1,0 +1,3 @@
+##### § 152.413 Notice requirement. #####
+
+Each grantee shall give adequate notice to employees and applicants for employment, through posters provided by the Secretary, that the FAA is committed to the requirements of section 30 of the AADA, to ensure that no person shall, on the grounds of race, creed, color, national origin, or sex, be excluded from participating in any activity conducted with funds authorized under this part.

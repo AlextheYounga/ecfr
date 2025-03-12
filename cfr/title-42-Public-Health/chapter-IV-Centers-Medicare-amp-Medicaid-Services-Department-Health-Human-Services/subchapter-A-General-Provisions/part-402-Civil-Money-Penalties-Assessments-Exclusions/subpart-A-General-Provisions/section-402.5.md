@@ -1,0 +1,3 @@
+##### § 402.5 Right to a hearing before the final determination. #####
+
+CMS or OIG does not make a determination adverse to any person under this part until the person has been given a written notice and opportunity for the determination to be made on the record after a hearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.

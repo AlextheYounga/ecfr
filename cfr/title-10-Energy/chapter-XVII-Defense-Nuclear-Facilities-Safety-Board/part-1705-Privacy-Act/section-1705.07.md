@@ -1,0 +1,5 @@
+##### § 1705.07 Requests for correction of records. #####
+
+(a) *Correction requests.* Any person is entitled to request correction of a record pertaining to him or her. This request must be made in writing and should be addressed to Privacy Act Officer, Defense Nuclear Facilities Safety Board, 625 Indiana Avenue, NW., Suite 700, Washington, DC 20004. The letter should clearly identify the corrections desired. An edited copy of the record will usually be acceptable for this purpose.
+
+(b) *Initial response.* Receipt of a correction request will be acknowledged by the Privacy Act Officer in writing within five working days of receipt of the request. The Privacy Act Officer will endeavor to provide a letter to the requester within thirty working days stating whether or not the request for correction has been granted or denied. If the Privacy Act Officer decides to deny any portion of the correction request, the reasons for the denial will be provided to the requester.

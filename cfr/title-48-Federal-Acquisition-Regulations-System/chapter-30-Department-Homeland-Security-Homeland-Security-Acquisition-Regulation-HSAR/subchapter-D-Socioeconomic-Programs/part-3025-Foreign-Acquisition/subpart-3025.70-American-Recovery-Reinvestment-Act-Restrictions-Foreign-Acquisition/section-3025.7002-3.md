@@ -1,0 +1,11 @@
+##### 3025.7002-3 Specific application of trade agreements. #####
+
+(a) For covered items entitled to non-discriminatory treatment under the World Trade Organization Agreement on Government Procurement (WTO GPA), or any Free Trade Agreement (FTA) listed in (FAR) 48 CFR subpart 25.4, this subpart is applied as follows—
+
+(1) For solicitations, orders, exercising of an option and contracts issued by any component other than Transportation Security Administration (TSA), in which any covered items will be procured with a value that is both above the simplified acquisition threshold, and below the applicable trade agreement threshold in (FAR) 48 CFR 25.402, apply (HSAR) 48 CFR 3025.7002-1. Section 3025.7002-2(h) will exclude eligible products of designated countries with FTA thresholds beneath the simplified acquisition threshold from coverage of section 604.
+
+(2) For solicitations, orders, exercising of an option and contracts issued by any component other than Transportation Security Administration (TSA), in which any covered items will be procured with a value exceeding $194,000 (or the superseding threshold upon updating of (FAR) 48 CFR 25.402), (HSAR) 48 CFR 3025.7002-1 does not apply if the items are eligible products per FAR 48 CFR subpart 25.4; follow (FAR) 48 CFR part 25 instead.
+
+(3) For solicitations, orders, exercising of an option and contracts issued by TSA in which any covered items will be procured with a value exceeding the simplified acquisition threshold, (HSAR) 48 CFR 3025.7002 applies to all covered items except those from Mexico, Canada or Chile because TSA is listed as a covered governmental entity in the North American Free Trade Agreement (NAFTA) and the U.S.-Chile Free Trade Agreement but TSA is excluded from all other trade agreements.
+
+(b) For covered items from a country that is not entitled to non-discriminatory treatment under the WTO GPA, or any FTA listed in (FAR) 48 CFR subpart 25.4, apply the restrictions of (HSAR) 48 CFR 3025.7002 to all solicitations, orders, exercising of an option and contracts exceeding the simplified acquisition threshold in place of the Buy America Act policies at (FAR) 48 CFR subpart 25.1.

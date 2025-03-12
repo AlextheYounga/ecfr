@@ -1,0 +1,3 @@
+##### § 554.5 Office of Defects Investigation. #####
+
+The Office of Defects Investigation conducts investigations to implement the provisions of the Act concerning the identification and correction of safety-related defects in motor vehicles and motor vehicle equipment. It elicits from every available source and evaluates on a continuing basis any information suggesting the existence of a safety-related defect.

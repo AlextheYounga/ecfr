@@ -1,0 +1,5 @@
+##### § 10.11 Administration of part. #####
+
+Authority to administer this part in connection with the records of the Office of the Secretary is delegated to the Chief Information Officer. Authority to administer this part in connection with records in each operating administration is delegated to the Administrator concerned. An Administrator may redelegate to officers of that administration the authority to administer this part in connection with defined systems of records. An Administrator, however, may redelegate his or her duties under subparts F and G of this part only to his or her deputy and to not more than one other officer who reports directly to the Administrator and who is located at the headquarters of that administration or at the same location as the majority of that administration's systems of records.
+
+[45 FR 8993, Feb. 11, 1980, as amended at 62 FR 23667, May 1, 1997; 73 FR 33329, June 12, 2008]

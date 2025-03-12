@@ -1,0 +1,3 @@
+##### § 438.58 Conflict of interest safeguards. #####
+
+As a condition for contracting with MCOs, PIHPs, or PAHPs, a State must have in effect safeguards against conflict of interest on the part of State and local officers and employees and agents of the State who have responsibilities relating to the MCO, PIHP, or PAHP contracts or the enrollment processes specified in § 438.54(b). These safeguards must be at least as effective as the safeguards specified in section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423).

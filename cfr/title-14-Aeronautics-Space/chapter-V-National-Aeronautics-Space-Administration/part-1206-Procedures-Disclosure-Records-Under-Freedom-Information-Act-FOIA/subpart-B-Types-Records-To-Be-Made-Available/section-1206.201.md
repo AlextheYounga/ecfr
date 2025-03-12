@@ -1,0 +1,3 @@
+##### § 1206.201 Proactive disclosure of Agency records. #####
+
+Records that are required by the FOIA to be made available for public inspection and copying are accessible on the Agency's Web site, *http://www.nasa.gov.* Each Center is responsible for determining which of its records are required to be made publicly available, as well as identifying additional records of interest to the public that are appropriate for public disclosure, and for posting such records. Each Center has a FOIA Public Liaison who can assist individuals in locating records particular to a Center. A list of the Agency's FOIA Public Liaisons is available at *http://www.hq.nasa.gov/office/pao/FOIA/agency/.*

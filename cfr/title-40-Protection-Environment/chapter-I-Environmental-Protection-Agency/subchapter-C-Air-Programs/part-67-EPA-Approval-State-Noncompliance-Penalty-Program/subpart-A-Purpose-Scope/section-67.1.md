@@ -1,0 +1,3 @@
+##### § 67.1 Purpose and scope. #####
+
+This part describes the standards and procedures under which EPA will approve State programs for administering the noncompliance penalty program under section 120 of the Clean Air Act and will evaluate actions taken by States with approved programs. Subpart A describes the purpose of the part. Subpart B states the conditions under which EPA will approve State programs to administer the noncompliance penalty provisions. Subparts C and D state when and how EPA will issue its own notices to owners or operators of sources in States with approved programs, and how it will review State decisions to grant or deny exemptions from the penalty. Finally, subpart E states how EPA will review State assessments of a penalty.

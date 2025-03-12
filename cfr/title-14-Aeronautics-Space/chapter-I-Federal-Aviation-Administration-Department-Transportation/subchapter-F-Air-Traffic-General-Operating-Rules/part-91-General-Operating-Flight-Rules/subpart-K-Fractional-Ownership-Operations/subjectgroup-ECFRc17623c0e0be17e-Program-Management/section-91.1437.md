@@ -1,0 +1,3 @@
+##### § 91.1437 CAMP: Authority to perform and approve maintenance. #####
+
+A program manager who maintains program aircraft under a CAMP may employ maintenance personnel, or make arrangements with other persons to perform maintenance and preventive maintenance as provided in its maintenance manual. Unless properly certificated, the program manager may not perform or approve maintenance for return to service.

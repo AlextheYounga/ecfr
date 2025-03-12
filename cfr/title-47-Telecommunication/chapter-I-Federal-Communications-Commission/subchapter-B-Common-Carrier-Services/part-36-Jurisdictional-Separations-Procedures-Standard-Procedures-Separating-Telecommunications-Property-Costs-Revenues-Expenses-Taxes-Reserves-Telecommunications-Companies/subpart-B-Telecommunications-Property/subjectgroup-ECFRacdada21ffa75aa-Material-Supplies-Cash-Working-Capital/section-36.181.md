@@ -1,0 +1,3 @@
+##### § 36.181 Material and supplies—Account 1220. #####
+
+(a) The amount included in Account 1220 is apportioned among the operations on the basis of the apportionment of the cost of cable and wire facilities in service. Any amounts included in Account 1220 associated with the Customer Premises portion of Account 2310 equipment, shall be excluded from the amounts which are allocated to the interstate operation.

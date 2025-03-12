@@ -1,0 +1,3 @@
+##### § 239.1 Purpose. #####
+
+This part specifies the requirements that state permit programs must meet to be determined adequate by the EPA under section 4005(c)(1)(C) of the Resource Conservation and Recovery Act (RCRA or the Act) and the procedures EPA will follow in determining the adequacy of state Subtitle D permit programs or other systems of prior approval and conditions required to be adopted and implemented by states under RCRA section 4005(c)(1)(B).

@@ -1,0 +1,3 @@
+##### § 555.14 Processing of petitions. #####
+
+The Administrator shall notify the petitioner whether the petition is complete within 30 days of receipt. The Administrator shall attempt to approve or deny any complete petition submitted under this subpart within 120 days after the agency acknowledges that the application is complete. Upon good cause shown, the Administrator may review a petition on an expedited basis.

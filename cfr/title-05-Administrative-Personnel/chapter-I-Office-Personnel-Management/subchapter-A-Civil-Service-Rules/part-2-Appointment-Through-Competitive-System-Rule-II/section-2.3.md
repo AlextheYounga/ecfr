@@ -1,0 +1,3 @@
+##### § 2.3 Apportionment. #####
+
+Subject to such modifications as OPM finds to be necessary in the interest of good administration, appointments to positions in agencies' headquarters offices which are located within the metropolitan area of Washington, DC, shall be made so as to maintain the apportionment of appointments among the several States, Territories, and the District of Columbia upon the basis of population.

@@ -1,0 +1,3 @@
+##### § 838.923 Cost-of-living adjustment before the death of a retiree. #####
+
+A court order that awards a former spouse survivor annuity is deemed to order OPM to add to the survivor annuity rate cost-of-living adjustments that occur before the death of a retiree (in the same manner as these adjustments are applied to the survivor rate generally) unless the court order contains an instruction expressly directing OPM not to add these adjustments to the survivor annuity rate. (See § 838.735 for information concerning cost-of-living adjustments after the death of an employee or retiree.)

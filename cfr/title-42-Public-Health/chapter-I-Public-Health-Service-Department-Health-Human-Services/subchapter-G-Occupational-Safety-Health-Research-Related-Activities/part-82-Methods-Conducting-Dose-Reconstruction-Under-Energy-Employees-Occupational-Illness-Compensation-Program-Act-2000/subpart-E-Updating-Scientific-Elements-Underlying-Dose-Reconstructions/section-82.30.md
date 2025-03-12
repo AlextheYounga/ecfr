@@ -1,0 +1,3 @@
+##### § 82.30 How will NIOSH inform the public of any plans to change scientific elements underlying the dose reconstruction process to maintain methods reasonably current with scientific progress? #####
+
+Periodically, NIOSH will publish a notice in the Federal Register notifying the public of plans to change scientific elements underlying the dose reconstruction process under EEOICPA to reflect scientific progress. Notice will include a summary of the planned changes and the expected completion date for such changes.

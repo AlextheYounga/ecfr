@@ -1,0 +1,5 @@
+##### § 1262.105 Standards for awards. #####
+
+(a) A prevailing applicant may receive an award subject to paragraph (b) of this section, for fees and expenses incurred in connection with a proceeding, or in a significant and discrete substantive portion of the proceeding, unless the position of the agency over which the applicant has prevailed was substantially justified. No presumption arises that the agency's position was not substantially justified simply because the agency did not prevail. The burden of proof that an award should not be made to an eligible prevailing applicant is on the agency.
+
+(b) An award, for any portion of the adversary adjudication, will be denied if the applicant has unreasonably protracted the proceedings, or denied or reduced if special circumstances make the award sought unjust.

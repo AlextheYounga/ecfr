@@ -1,0 +1,3 @@
+##### § 86.30 Nature and purpose of direct traineeships. #####
+
+A direct traineeship is an award of funds directly from the Federal Government to an individual (herein called the “trainee”) for his subsistence and other expenses during a period in which he is acquiring training (a) in the occupational safety and health professions, (b) for research relating to occupational safety and health, or (c) for teaching in occupational safety and health.

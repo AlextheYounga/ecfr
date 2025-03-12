@@ -1,0 +1,23 @@
+##### § 1218.151 Rental fees. #####
+
+The annual rental paid in any year is in addition to, and is not credited against, any royalties due from production. The lessee must pay an annual rental as shown in paragraphs (a), (b), and (c) of this section. Discovery means one or more wells on the lease that meet the requirements in part 250, subpart A of this title.
+
+(a) This paragraph applies to any lease not covered by paragraph (b) or paragraph (c) of this section.
+
+|                    For—                     |Issued as a result of a sale held—|                                                                                                 The lessee must pay rental—                                                                                                 |
+|---------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          (1) An oil and gas lease           |      Before March 26, 2001       |                                                               On or before the first day of each lease year before the discovery of oil or gas on the lease.                                                                |
+|          (2) An oil and gas lease           |       After March 26, 2001       |       On or before the first day of each lease year before the discovery of oil or gas on the lease, then on or before the last day of each lease year in any full year in which royalties on production are not due.       |
+|(3) A mineral lease for other than oil or gas|      Before March 26, 2001       |                                                                  On or before the first day of each lease year before the discovery of paying quantities.                                                                   |
+|(4) A mineral lease for other than oil or gas|       After March 26, 2001       |On or before the first day of each lease year before the date the first royalty payment is due on the lease, then on or before the last day of each lease year in any full year in which royalties on production are not due.|
+
+(b) This paragraph applies to any lease created by segregating a portion of a producing lease when there is no actual or allocated production on the segregated portion. The lessee must pay an annual rental for the segregated portion at the rate specified in the lease. The lessee must pay the rental as shown in the following table.
+
+|If the lease results from a segregation—|                                                                                          The lessee must pay rental—                                                                                          |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       (1) Before March 26, 2001        |                                                  On or before the first day of each lease year before the discovery of oil or gas on the segregated portion.                                                  |
+|        (2) After March 26, 2001        |On or before the first day of each lease year before the discovery of oil or gas on the lease, then on or before the last day of each lease year in any full year in which royalties on production are not due.|
+
+(c) For leases issued subject to the net profit sharing provisions, annual rental payments shall be due and payable in advance, on the first day of each lease year which commences prior to the date the first profit share payment becomes due. The owner of any lease created by the segregation of a portion of a lease subject to net profit sharing provisions, shall pay an annual rental for such segregated portion at the rate per acre or hectare specified in the lease. This rental shall be payable each year following the year in which the segregation becomes effective and shall continue to be due and payable, in advance, on the first day of each year which commences prior to the date the first profit share payment becomes due.
+
+[44 FR 38276, June 29, 1979, as amended at 45 FR 69175, Oct. 17, 1980; 47 FR 25972, June 16, 1982. Redesignated at 47 FR 47006, Oct. 22, 1982, and at 48 FR 35641, Aug. 5, 1983; 66 FR 11518, Feb. 23, 2001; 67 FR 19112, Apr. 18, 2002]

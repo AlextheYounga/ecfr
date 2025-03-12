@@ -1,0 +1,3 @@
+##### § 1408.7 Right to inspect and copy records. #####
+
+The debtor may inspect and copy the Corporation records related to the claim. The debtor shall give the Corporation reasonable advanced notice that he/she intends to inspect and copy the records involved. The debtor shall pay copying costs unless they are waived by the Corporation. Copying costs shall be assessed pursuant to § 1402.22 of this chapter.

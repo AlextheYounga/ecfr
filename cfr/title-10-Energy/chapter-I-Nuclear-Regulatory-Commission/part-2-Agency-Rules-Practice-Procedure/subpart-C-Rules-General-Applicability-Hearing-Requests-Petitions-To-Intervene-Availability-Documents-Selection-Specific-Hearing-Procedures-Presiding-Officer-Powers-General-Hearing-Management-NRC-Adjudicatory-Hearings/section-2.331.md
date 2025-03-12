@@ -1,0 +1,3 @@
+##### § 2.331 Oral argument before the presiding officer. #####
+
+When, in the opinion of the presiding officer, time permits and the nature of the proceeding and the public interest warrant, the presiding officer may allow, and fix a time for, the presentation of oral argument. The presiding officer will impose appropriate limits of time on the argument. The transcript of the argument is part of the record.

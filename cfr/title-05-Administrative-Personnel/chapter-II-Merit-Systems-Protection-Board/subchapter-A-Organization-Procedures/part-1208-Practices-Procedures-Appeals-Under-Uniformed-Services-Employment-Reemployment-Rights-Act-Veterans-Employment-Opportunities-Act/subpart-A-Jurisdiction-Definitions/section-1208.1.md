@@ -1,0 +1,3 @@
+##### § 1208.1 Scope. #####
+
+This part governs appeals filed with the Board under the provisions of 38 U.S.C. 4324, as enacted by the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA), Public Law 103-353, as amended, or under the provisions of 5 U.S.C. 3330a, as enacted by the Veterans Employment Opportunities Act of 1998 (VEOA), Public Law 105-339. With respect to USERRA appeals, this part applies to any appeal filed with the Board on or after October 13, 1994, without regard as to whether the alleged violation occurred before, on, or after October 13, 1994. With respect to VEOA appeals, this part applies to any appeal filed with the Board which alleges that a violation occurred on or after October 31, 1998.

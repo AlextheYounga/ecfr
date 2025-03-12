@@ -1,0 +1,3 @@
+##### § 157.27 Unit packaging. #####
+
+Pesticide products distributed or sold as an aggregate of one or more unit packages and meeting the criteria of § 157.22 must be distributed or sold in child-resistant packaging either for each unit package or for the outer retail container which contains the unit packages. Child-resistant packaging is not required for both the outer package and the unit packages unless the Agency determines, on a case-by-case basis, that it is necessary for risk reduction.

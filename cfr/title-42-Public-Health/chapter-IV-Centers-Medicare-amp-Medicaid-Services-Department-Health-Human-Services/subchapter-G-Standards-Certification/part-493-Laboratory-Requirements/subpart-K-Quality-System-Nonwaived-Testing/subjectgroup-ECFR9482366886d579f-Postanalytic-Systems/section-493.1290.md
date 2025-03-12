@@ -1,0 +1,3 @@
+##### § 493.1290 Condition: Postanalytic systems. #####
+
+Each laboratory that performs nonwaived testing must meet the applicable postanalytic systems requirements in § 493.1291 unless HHS approves a procedure, specified in Appendix C of the State Operations Manual (CMS Pub. 7) that provides equivalent quality testing. The laboratory must monitor and evaluate the overall quality of the postanalytic systems and correct identified problems as specified in § 493.1299 for each specialty and subspecialty of testing performed.

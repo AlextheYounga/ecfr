@@ -1,0 +1,5 @@
+##### § 264.55 Emergency coordinator. #####
+
+At all times, there must be at least one employee either on the facility premises or on call (i.e., available to respond to an emergency by reaching the facility within a short period of time) with the responsibility for coordinating all emergency response measures. This emergency coordinator must be thoroughly familiar with all aspects of the facility's contingency plan, all operations and activities at the facility, the location and characteristics of waste handled, the location of all records within the facility, and the facility layout. In addition, this person must have the authority to commit the resources needed to carry out the contingency plan.
+
+[*Comment:* The emergency coordinator's responsibilities are more fully spelled out in § 264.56. Applicable responsibilities for the emergency coordinator vary, depending on factors such as type and variety of waste(s) handled by the facility, and type and complexity of the facility.]

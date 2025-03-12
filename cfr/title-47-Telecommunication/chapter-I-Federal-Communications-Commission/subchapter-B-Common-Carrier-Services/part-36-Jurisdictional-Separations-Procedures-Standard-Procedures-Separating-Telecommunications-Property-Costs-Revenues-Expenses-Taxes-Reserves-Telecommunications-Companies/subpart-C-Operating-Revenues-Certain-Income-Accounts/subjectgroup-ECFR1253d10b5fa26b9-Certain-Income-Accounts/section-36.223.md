@@ -1,0 +1,3 @@
+##### § 36.223 Interest and related items—Account 7500. #####
+
+(a) Only interest paid relating to capital leases is considered in this account for separations purposes. Subsidiary Record Categories should be maintained for this account that include details relating to interest expense on capital leases. Such interest expense is apportioned on a basis consistent with the associated capital leases in Account 2680.

@@ -1,0 +1,9 @@
+##### § 240.1 Authority, purpose and scope. #####
+
+(a) *Authority.* This part is issued by the Board of Governors of the Federal Reserve System (the Board) under the authority of section 2(c)(2)(E) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)(E)), sections 9 and 11 of the Federal Reserve Act (12 U.S.C. 321-338 and 248), section 5(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(b)), sections 9 and 13a of the International Banking Act of 1978 (12 U.S.C. 3106a and 3108), and sections 3(q) and 8 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q) and 1818).
+
+(b) *Purpose.* This part establishes rules applicable to retail foreign exchange transactions engaged in by banking institutions on or after May 13, 2013.
+
+(c) *Scope.* Except as provided in paragraph (d) of this section, this part applies to banking institutions, as defined in section 240.2(b) of this part, and any branches or offices of those institutions wherever located. This part applies to subsidiaries of banking institutions organized under the laws of the United States or any U.S. state that are not subject to the jurisdiction of another federal regulatory agency authorized to prescribe rules or regulations under section 2(c)(2)(E) of the Commodity Exchange Act (7 U.S.C. (2)(c)(2)(E)).
+
+(d) *International applicability.* Sections 240.3 and 240.5 through 240.16 do not apply to retail foreign exchange transactions between a foreign branch or office of a banking institution and a non-U.S. customer. With respect to those transactions, the foreign branch or office remains subject to any disclosure, recordkeeping, capital, margin, reporting, business conduct, documentation, and other requirements of applicable foreign law.

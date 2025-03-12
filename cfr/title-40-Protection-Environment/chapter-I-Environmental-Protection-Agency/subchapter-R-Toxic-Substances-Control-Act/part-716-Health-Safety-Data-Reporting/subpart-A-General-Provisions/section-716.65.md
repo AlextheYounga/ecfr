@@ -1,0 +1,5 @@
+##### § 716.65 Reporting period. #####
+
+Unless otherwise required in a rule promulgated under 15 U.S.C. 2607(d) relating to a listed chemical substance or listed mixture [hereinafter “rule”], the reporting period for a listed chemical substance or listed mixture will terminate 60 days after the effective date on which the listed chemical substance or listed mixture is added to 40 CFR 716.120. EPA may require reporting for a listed chemical substance or listed mixture beyond the 60 day period in a rule promulgated under 15 U.S.C. 2607(d), however EPA will not extend any reporting period later than 2 years after the effective date on which a listed chemical substance or listed mixture is added to 40 CFR 716.120. After the applicable reporting period terminates, any person subject to the rule under 40 CFR 716.5 (a)(2) or (a)(3) and who has submitted to EPA lists of ongoing or initiated studies under 40 CFR 716.35 (a)(1) or (a)(2) must submit a copy of any such study within 30 days after its completion, regardless of the study's completion date.
+
+[63 FR 15774, Apr. 1, 1998]

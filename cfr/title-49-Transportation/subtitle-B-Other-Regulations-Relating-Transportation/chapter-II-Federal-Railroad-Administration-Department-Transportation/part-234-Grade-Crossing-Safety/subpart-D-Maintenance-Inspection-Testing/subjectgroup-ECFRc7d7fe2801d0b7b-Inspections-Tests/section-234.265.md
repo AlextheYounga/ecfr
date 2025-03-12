@@ -1,0 +1,3 @@
+##### § 234.265 Timing relays and timing devices. #####
+
+Each timing relay and timing device shall be tested at least once every twelve months. The timing shall be maintained at not less than 90 percent nor more than 110 percent of the 41 predetermined time interval. The predetermined time interval shall be shown on the plans or marked on the timing relay or timing device. Timing devices which perform internal functions associated with motion detectors, motion sensors, and grade crossing predictors are not subject to the requirements of this section.

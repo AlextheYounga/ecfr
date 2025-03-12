@@ -1,0 +1,7 @@
+##### § 179.101 Interlocutory appeal from ruling of presiding officer. #####
+
+(a) Except as provided in paragraph (b) of this section and in §§ 179.20(b), 179.42(f), 179.75(b), and 179.90(f), rulings of the presiding officer may not be appealed to the Administrator before the Administrator's consideration of the entire record of the hearing.
+
+(b) A ruling of the presiding officer is subject to interlocutory appeal to the Administrator if the presiding officer certifies on the record or by document submitted under § 179.80 that immediate review is necessary to prevent exceptional delay, expense, or prejudice to any party or substantial harm to the public interest. When an order or ruling is not certified by the presiding officer, it shall be reviewed by the Administrator only upon appeal from the initial decision except when the Administrator determines upon the request of a party and in exceptional circumstances, that delaying review would be deleterious to vital public or private interests. Except in extraordinary circumstances, proceedings will not be stayed pending an interlocutory appeal. Where a stay is granted, a stay of more than 30 days must be approved by the Administrator.
+
+(c) Ordinarily, the interlocutory appeal will be decided on the basis of the submission made to the presiding officer, but the Administrator may allow further briefs and oral arguments. Any oral argument will be transcribed and the transcript will be prepared and certified in the same manner as provided in § 179.94.

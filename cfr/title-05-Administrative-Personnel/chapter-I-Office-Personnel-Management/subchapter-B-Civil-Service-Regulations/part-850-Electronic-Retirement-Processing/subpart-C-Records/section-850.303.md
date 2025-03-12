@@ -1,0 +1,3 @@
+##### § 850.303 Return of personal documents. #####
+
+An individual who submits personal documents to OPM in support of a claim for retirement or insurance benefits may have such documents returned to the individual if he or she requests the return of the documents when submitting the documents. If OPM receives a request for return of such documents at a later time, OPM may provide the individual with a copy of the document that is derived from electronic records.

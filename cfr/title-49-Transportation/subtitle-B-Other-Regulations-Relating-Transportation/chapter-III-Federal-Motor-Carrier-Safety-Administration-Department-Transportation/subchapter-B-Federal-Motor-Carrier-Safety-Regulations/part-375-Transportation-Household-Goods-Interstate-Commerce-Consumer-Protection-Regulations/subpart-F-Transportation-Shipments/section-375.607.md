@@ -1,0 +1,7 @@
+##### § 375.607 What must I do if I am able to tender a shipment for final delivery more than 24 hours before a specified date? #####
+
+(a) You may ask the individual shipper to accept an early delivery date. If the individual shipper does not concur with your request or the individual shipper does not request an early delivery date, you may, at your discretion, place a shipment in storage under your own account and at your own expense in a warehouse located near the destination of the shipment. If you place the shipment in storage, you must comply with paragraph (b) of this section. You may comply with paragraph (c) of this section, at your discretion.
+
+(b) You must immediately notify the individual shipper of the name and address of the warehouse where you place the shipment. You must make and keep a record of your notification as a part of your shipment records. You have responsibility for the shipment under the terms and conditions of the bill of lading. You are responsible for the charges for redelivery, handling, and storage until you make final delivery.
+
+(c) You may limit your responsibility under paragraph (b) of this section up to the agreed delivery date or the first day of the period of time of delivery as specified in the bill of lading.

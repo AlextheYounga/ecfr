@@ -1,0 +1,3 @@
+##### § 429.130 Collection of civil penalties. #####
+
+If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under § 429.126 or after the appropriate District Court has entered final judgment in favor of the Department under § 429.128, the General Counsel (or delegee) shall institute an action to recover the amount of such penalty in any appropriate District Court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.

@@ -1,0 +1,5 @@
+##### § 374.4 Timing of notice. #####
+
+(a) *Violation of standard, regulation, condition, requirement, or order.* No action may be commenced under subsection 310(a)(1) of the Act before sixty (60) days after the plaintiff has served notice of the violation as specified in § 374.2(c). No action may be commenced under subsection 310(a)(1) of the Act if the President or his or her delegatee has commenced and is diligently prosecuting an action under the Act or under the Resource Conservation and Recovery Act (RCRA), 42 U.S.C. 6901 *et seq.*, to require compliance with the CERCLA standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 120 of the Act).
+
+(b) *Failure to act.* No action may be commenced under subsection 310(a)(2) of the Act before sixty (60) days after the plaintiff has given notice of the failure to act as specified in this part.

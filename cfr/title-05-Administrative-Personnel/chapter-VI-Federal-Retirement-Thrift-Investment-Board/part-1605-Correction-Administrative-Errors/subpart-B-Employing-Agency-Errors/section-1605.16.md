@@ -1,0 +1,25 @@
+##### § 1605.16 Claims for correction of employing agency errors; time limitations. #####
+
+(a) *Agency's discovery of error.* (1) Upon discovery of an error made within the past six months involving the correct or timely remittance of payments to the TSP (other than a retirement system misclassification error, as covered in paragraph (c) of this section), an employing agency must promptly correct the error on its own initiative. If the error was made more than six months before it was discovered, the agency may exercise sound discretion in deciding whether to correct it, but, in any event, the agency must act promptly in doing so.
+
+(2) For errors involving incorrect dates of birth caused by employing agency error that result in default investment in the wrong L Fund, the employing agency must promptly notify the TSP that the participant is entitled to breakage if the error is discovered within 30 days of either the date the TSP provides the participant with a notice reflecting the error or the date the TSP makes available on its Web site a participant statement reflecting the error, whichever is earlier. If it is discovered after that time, the employing agency may use its sound discretion in deciding whether to pay breakage, but, in any event, must act promptly in doing so.
+
+(b) *Participant's discovery of error.* (1) If an agency fails to discover an error of which a participant has knowledge involving the correct or timely remittance of a payment to the TSP (other than a retirement system misclassification error as covered by paragraph (c) of this section), the participant may file a claim with his or her employing agency to have the error corrected without a time limit. The agency must promptly correct any such error for which the participant files a claim within six months of its occurrence; if the participant files a claim to correct any such error after that time, the agency may do so at its sound discretion.
+
+(2) For errors involving incorrect dates of birth that result in default investment in the wrong L Fund of which a participant or beneficiary has knowledge, he or she may file a claim for breakage with the employing agency no later than 30 days after either the date the TSP provides the participant with a notice reflecting the error or the date the TSP makes available on its Web site a participant statement reflecting the error, whichever is earlier. The employing agency must promptly notify the TSP that the participant is entitled to breakage.
+
+(3) If a participant or beneficiary fails to file a claim for breakage for errors involving incorrect dates of birth in a timely manner, the employing agency may nevertheless, in its sound discretion, pay breakage on any such error that is brought to its attention.
+
+(c) *Retirement system misclassification error.* Errors arising from retirement system misclassification must be corrected no matter when they are discovered, whether by an agency or a participant.
+
+(d) *Agency procedures.* Each employing agency must establish procedures for participants to submit claims for correction under this subpart. Each employing agency's procedures must include the following:
+
+(1) The employing agency must provide the participant with a decision on any claim within 30 days of its receipt, unless the employing agency provides the participant with good cause for requiring a longer period to decide the claim. A decision to deny a claim in whole or in part must be in writing and must include the reasons for the denial, citations to any applicable statutes, regulations, or procedures, a description of any additional material that would enable the participant to perfect the claim, and a statement of the steps necessary to appeal the denial;
+
+(2) The employing agency must permit a participant at least 30 days to appeal the employing agency's denial of all or any part of a claim for correction under this subpart. The appeal must be in writing and addressed to the agency official designated in the initial decision or in procedures promulgated by the agency. The participant may include with his or her appeal any documentation or comments that the participant deems relevant to the claim;
+
+(3) The employing agency must issue a written decision on a timely appeal within 30 days of receipt of the appeal, unless the employing agency provides the participant with good cause for requiring a longer period to decide the appeal. The employing agency decision must include the reasons for the decision, as well as citations to any applicable statutes, regulations, or procedures; and
+
+(4) If the agency decision on the appeal is not issued in a timely manner, or if the appeal is denied in whole or in part, the participant will be deemed to have exhausted his or her administrative remedies and will be eligible to file suit against the employing agency under 5 U.S.C. 8477. There is no administrative appeal to the Board of a final agency decision.
+
+[66 FR 44277, Aug. 22, 2001, as amended at 70 FR 32212, June 1, 2005; 80 FR 57070, Sept. 22, 2015]

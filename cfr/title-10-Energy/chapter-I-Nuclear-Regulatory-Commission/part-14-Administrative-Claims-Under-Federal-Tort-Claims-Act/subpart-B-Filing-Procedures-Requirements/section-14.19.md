@@ -1,0 +1,9 @@
+##### § 14.19 When a claim is filed with more than one agency. #####
+
+(a) If the NRC and one or more other Federal agencies is or may be involved in the events giving rise to the claim, and if the claim is filed with the NRC, the NRC shall contact all other affected agencies in order to designate the single agency which will investigate and decide the merits of the claim.
+
+(1) In the event that an agreed upon designation cannot be made by the affected agencies, the Department of Justice will be consulted and will designate a primary agency to investigate and decide the merits of the claim. If the NRC is designated as the primary agency, it shall notify the claimant that all future correspondence concerning the claim shall be directed to the NRC.
+
+(2) All involved Federal agencies can agree either to conduct their own administrative reviews and to coordinate the results or to have the investigations conducted by the primary agency. In either event, the primary agency is responsible for the final determination of the claim.
+
+(b) A claimant presenting a claim arising from an incident to more than one agency should identify each agency to which the claim is submitted at the time each claim is presented. If a claim arising from an incident is presented to more than one Federal agency without any indication that more than one agency is involved, and any one of the concerned Federal agencies takes final action on that claim, the final action is conclusive on the claims presented to the other agencies in regard to the time required for filing suit set forth in 28 U.S.C. 2401(b). However, if NRC, as a subsequently involved Federal agency, desires to take further action with a view towards settling the claim, the NRC may treat the matter as a request for reconsideration of the final denial under 10 CFR 14.39, unless suit has been filed in the interim, and advise the claimant of the action.

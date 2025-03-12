@@ -1,0 +1,9 @@
+##### § 1315.16 Relationship to other laws. #####
+
+(a) *Contract Disputes Act of 1978 (41 U.S.C. 605).* (1) A claim for an interest penalty (including the additional penalty for non-payment of interest if the vendor has complied with the requirements of § 1315.9) not paid under this part may be filed under Section 6 of the Contract Disputes Act.
+
+(2) An interest penalty under this part does not continue to accrue after a claim for a penalty is filed under the Contract Disputes Act or for more than one year. Once a claim is filed under the Contract Disputes Act interest penalties under this part will never accrue on the amounts of the claim, for any period after the date the claim was filed. This does not prevent an interest penalty from accruing under Section 13 of the Contract Disputes Act after a penalty stops accruing under this part. Such penalty may accrue on an unpaid contract payment and on the unpaid penalty under this part.
+
+(3) This part does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a vendor over the amount of payment or compliance with the contract. A claim related to such a dispute and interest payable for the period during which the dispute is being resolved is subject to the Contract Disputes Act.
+
+(b) *Small Business Act (15 U.S.C. 644(k)).* This Act has been amended to require that any agency with an Office of Small and Disadvantaged Business Utilization must assist small business concerns to obtain payments, late payment interest penalties, additional penalties, or information due to the concerns.

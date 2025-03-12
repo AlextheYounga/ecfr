@@ -1,0 +1,3 @@
+##### § 51b.603 What are the confidentiality requirements? #####
+
+All information obtained by program personnel in connection with the examination, care, and treatment of an individual in this program shall be held confidential. It shall not be disclosed without the individual's consent except as may be required by the law of a State, or political subdivision of a State, or as may be necessary to provide services to the individual. Information may be disclosed in summary, statistical, or other form, or for clinical or research purposes, but only if the disclosure does not identify particular individuals.

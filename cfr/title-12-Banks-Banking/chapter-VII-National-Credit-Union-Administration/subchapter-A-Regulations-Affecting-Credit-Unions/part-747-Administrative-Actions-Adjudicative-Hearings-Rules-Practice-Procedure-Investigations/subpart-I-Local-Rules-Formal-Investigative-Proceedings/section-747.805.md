@@ -1,0 +1,9 @@
+##### § 747.805 Self-incrimination; immunity. #####
+
+(a) *Self-incrimination.* Except as provided in paragraph (b) of this section, a witness testifying or otherwise giving information in a formal investigative proceeding may refuse to answer questions on the basis of his or her right against self-incrimination granted by the Fifth Amendment of the Constitution of the United States.
+
+(b) *Immunity.* (1) No officer conducting any formal investigative proceeding (or any other informal investigation or examination) shall have the power to grant or promise any party any immunity from criminal prosecution under the laws of the United States or of any other jurisdiction.
+
+(2) If the NCUA Board believes that the testimony or other information sought to be obtained from any party may be necessary to the public interest and that party has refused or is likely to refuse to testify or provide other information on the basis of his or her privilege against self-incrimination, the NCUA Board, with the approval of the Attorney General, may issue an order requiring the party to give testimony or provide other information that he or she has previously refused to provide on the basis of self-incrimination.
+
+(3) Whenever a witness refuses, on the basis of his privilege against self-incrimination, to testify or provide other information in a formal investigative proceeding, and the officer conducting the investigation communicates to that person an order of the NCUA Board requiring him or her to testify or provide other information, the witness may not refuse to comply with the order on the basis of his or her privilege against self-incrimination; but no testimony or other information compelled under the order (or any information directly or indirectly derived from such testimony or other information) may be used against the witness in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order.

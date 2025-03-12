@@ -1,0 +1,5 @@
+##### § 402.11 Technology-development project applications. #####
+
+(a) Grant awards will be used to support those portions of the program for which the principal purpose is other than as described in § 402.11(b). Program announcements and applications will be governed by the same procedures provided in § 402.10.
+
+(b) If it is determined that the principal purpose of a planned award (or awards) is to acquire goods or services for the direct benefit or use of the Government, the action must be regarded as a procurement contract. A competitive solicitation prepared in accordance with applicable acquisition regulations will be issued to interested parties. Notification of the availability of any contract solicitation will be published in the Commerce Business Daily, unless waived in accordance with § 5.202 of the Federal Acquisition Regulation (FAR). Contracts may be awarded without full and open competition only if justified in accordance with FAR subpart 6.3.

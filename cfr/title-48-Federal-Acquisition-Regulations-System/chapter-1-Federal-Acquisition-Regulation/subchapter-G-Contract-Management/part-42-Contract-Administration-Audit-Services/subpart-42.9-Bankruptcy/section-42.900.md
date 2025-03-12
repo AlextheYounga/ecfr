@@ -1,0 +1,3 @@
+##### 42.900 Scope of subpart. #####
+
+This subpart prescribes policies and procedures regarding actions to be taken when a contractor enters into proceedings relating to bankruptcy. It establishes a requirement for the contractor to notify the contracting officer upon filing a petition for bankruptcy. It further establishes minimum requirements for agencies to follow in the event of a contractor bankruptcy.

@@ -1,0 +1,5 @@
+##### § 831.8 Investigator-in-charge. #####
+
+The designated investigator-in-charge (IIC) organizes, conducts, controls, and manages the field phase of the investigation, regardless of whether a Board Member is also on-scene at the accident or incident site. (The role of the Board member at the scene of an accident investigation is as the official spokesperson for the Safety Board.) The IIC has the responsibility and authority to supervise and coordinate all resources and activities of all personnel, both Board and non-Board, involved in the on-site investigation. The IIC continues to have considerable organizational and management responsibilities throughout later phases of the investigation, up to and including Board consideration and adoption of a report or brief of probable cause(s).
+
+[62 FR 3807, Jan. 27, 1997]

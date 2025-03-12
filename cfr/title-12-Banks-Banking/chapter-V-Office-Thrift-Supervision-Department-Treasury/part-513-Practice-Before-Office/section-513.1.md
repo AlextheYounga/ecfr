@@ -1,0 +1,5 @@
+##### § 513.1 Scope of part. #####
+
+This part prescribes rules with regard to general practice before the Office on one's own behalf or in a representative capacity and prescribes rules describing the circumstances under which attorneys, accountants, appraisers, or other persons may be suspended or debarred, either temporarily or permanently, from practicing before the Office. In connection with any particular matter, reference also should be made to any special requirements of procedure and practice that may be contained in the particular statute involved or the rules and forms adopted by the Office thereunder, which special requirements are controlling. In addition to any suspension hereunder, a person may be excluded from further participation under this chapter from a rulemaking hearing in accordance with § 510.2, from an adjudicatory proceeding in accordance with § 509.6(a)(1), from a removal hearing in accordance with § 508.3, or from an investigatory proceeding in accordance with § 512.5(b)(2) of this chapter.
+
+[54 FR 49459, Nov. 30, 1989, as amended at 56 FR 38317, Aug. 12, 1991]

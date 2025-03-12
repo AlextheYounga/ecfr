@@ -1,0 +1,3 @@
+##### 1222.406-9 Withholding from or suspension of contract payments. #####
+
+(c) *Disposition of contract payments withheld or suspended* - (1) *Forwarding wage underpayments to the Secretary of the Treasury.* The contracting officer shall ensure that a completed Form DOT F 4220.7, Employee Claim for Wage Restitution, is obtained from each employee claiming restitution under the contract. The Comptroller General (Claims Division) must receive this form with a completed Standard Form (SF) 1093, Schedule of Withholding Under the Davis-Bacon Act or the Contract Work Hours and Safety Standards Act, before payment can be made to the employee.

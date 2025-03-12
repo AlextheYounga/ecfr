@@ -1,0 +1,3 @@
+##### § 180.103 Time limitations. #####
+
+A claim must be presented in writing within 2 years after it accrues, except during war or armed conflict. If war or armed conflict occurs within the 2-year period following accrual, when claimant shows good cause, the claim may be presented within 2 years after the cause ceases to exist but not more than 2 years after termination of the war or armed conflict. A claim accrues when loss or damage is or should have been discovered by claimant even though such loss or damage occurred at a prior time.

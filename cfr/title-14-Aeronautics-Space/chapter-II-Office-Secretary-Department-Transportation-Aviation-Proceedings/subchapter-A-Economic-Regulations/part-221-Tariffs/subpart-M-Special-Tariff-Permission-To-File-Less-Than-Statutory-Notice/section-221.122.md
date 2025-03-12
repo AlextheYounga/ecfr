@@ -1,0 +1,3 @@
+##### § 221.122 Special Tariff Permission to be used in its entirety as granted. #####
+
+Each Special Tariff Permission to file fares, or other tariff provisions on less than statutory notice shall be used in its entirety as granted. If it is not desired to use the permission as granted, and lesser or more extensive or different permission is desired, a new application for Special Tariff Permission conforming with § 221.121 in all respects and referring to the previous permission shall be filed.

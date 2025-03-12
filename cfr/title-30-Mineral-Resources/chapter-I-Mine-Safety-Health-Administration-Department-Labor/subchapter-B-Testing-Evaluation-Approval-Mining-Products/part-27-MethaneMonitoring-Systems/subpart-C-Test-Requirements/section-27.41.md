@@ -1,0 +1,3 @@
+##### § 27.41 Test to determine resistance to moisture. #####
+
+Components, subassemblies, or assemblies, the normal functioning of which might be affected by moisture, shall be tested in atmospheres of high relative humidity (80 percent or more at 65°-75 °F.) for continuous operating and idle periods of 4 hours each. The component or subassembly or assembly shall function normally after being subjected to those tests.

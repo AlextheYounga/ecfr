@@ -1,0 +1,5 @@
+##### § 212.109 Joint planning of inspections. #####
+
+Prior to the beginning of each calendar year, each participating State applying for grant assistance under subpart D of this part shall develop, in conjunction with the FRA Regional Director of the region in which the State is located, an annual work plan for the conduct of investigative and surveillance activities by the State agency. The plan shall include a program of inspections designed to monitor the compliance of the railroads, shippers, and manufacturers operating within the State (or portion thereof) with applicable Federal railroad safety laws and regulations. In the event the participating State and the FRA Regional Director cannot agree on an annual work plan, the Associate Administrator for Safety shall review the matter.
+
+(Approved by the Office of Management and Budget under control number 2130-0509)[57 FR 28115, June 24, 1992]

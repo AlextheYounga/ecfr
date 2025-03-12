@@ -1,0 +1,3 @@
+##### § 49.8 Provisions for tribal criminal enforcement authority. #####
+
+To the extent that an Indian tribe is precluded from asserting criminal enforcement authority, the Federal Government will exercise primary criminal enforcement responsibility. The tribe, with the EPA Region, shall develop a procedure by which the tribe will provide potential investigative leads to EPA and/or other appropriate Federal agencies, as agreed to by the parties, in an appropriate and timely manner. This procedure shall encompass all circumstances in which the tribe is incapable of exercising applicable enforcement requirements as provided in § 49.7(a)(6). This agreement shall be incorporated into a Memorandum of Agreement with the EPA Region.

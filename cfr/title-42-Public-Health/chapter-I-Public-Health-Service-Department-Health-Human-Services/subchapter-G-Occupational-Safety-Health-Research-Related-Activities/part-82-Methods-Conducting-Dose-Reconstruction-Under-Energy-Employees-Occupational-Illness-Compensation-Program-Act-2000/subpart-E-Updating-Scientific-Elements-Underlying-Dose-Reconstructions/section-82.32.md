@@ -1,0 +1,3 @@
+##### § 82.32 How will NIOSH make changes in scientific elements underlying the dose reconstruction process, based on scientific progress? #####
+
+NIOSH will present proposed changes to the Advisory Board on Radiation and Worker Health prior to implementation. These proposed changes will be summarized in a notice published in the Federal Register. The public will have the opportunity to comment on proposed changes at the meeting of the Advisory Board and/or in written comments submitted for this purpose. NIOSH will fully consider the comments of the Advisory Board and of the public before deciding upon any changes.

@@ -1,0 +1,9 @@
+##### § 1250.101 Applicability. #####
+
+(a) *Covered programs.* (1) This part applies to any program for which Federal financial assistance is authorized under a law administered by NASA, including the types of Federal financial assistance listed in appendix A to this part. The fact that a type of Federal assistance is not listed in appendix A shall not mean, if Title VI of the Act is otherwise applicable, that a program is not covered. Other types of Federal financial assistance under statutes now in force or hereafter enacted may be added to appendix A by notice published in the Federal Register.
+
+(2) This part applies to money paid, property transferred, or other Federal financial assistance extended after the effective date of this part pursuant to an application approved prior to such effective date.
+
+(b) *Excluded activities.* This part does not apply to (1) any Federal financial assistance by way of insurance or guaranty contracts, (2) money paid, property transferred, or other assistance extended before the effective date of this part, except as provided in paragraph (a) of this section, (3) any assistance to any individual who is the ultimate beneficiary, (4) any employment practice, under any such program, of any employer, employment agency, or labor organization, except as provided in § 1250.103-3, (5) contracts not covered in the types of Federal financial assistance listed in appendix A, or (6) advances, V-loans, and other financial assistance made incident to NASA procurements not covered in the types of Federal financial assistance listed in appendix A.
+
+[30 FR 301, Jan. 9, 1965, as amended at 68 FR 51350, Aug. 26, 2003]

@@ -1,0 +1,3 @@
+##### 1403.203 Reporting suspected violations of the Gratuities clause. #####
+
+When suspected violations of the clause at FAR 52.203-3, Gratuities, become known to a Federal Government employee, the matter shall be reported, in writing, to the cognizant CO or the CO's supervisor, as appropriate. The report shall clearly state the alleged circumstances surrounding the incident or incidents in which the contractor offered or gave a gratuity to a Federal Government employee and intended to obtain a contract or favorable treatment under a contract because of the gratuity. The date(s), location(s) and name(s) of all parties involved in the incident shall be included in the report.

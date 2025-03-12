@@ -1,0 +1,7 @@
+##### § 439.2 General monitoring requirements. #####
+
+(a) Permit compliance monitoring is required for each regulated pollutant generated or used at a pharmaceutical manufacturing facility, except where the regulated pollutant is monitored as a surrogate parameter. Permit limits and compliance monitoring are not required for regulated pollutants that are neither used nor generated at the facility. Except for cyanide, for which an alternate monitoring requirement is established in subparts A and C of this part, a determination that regulated pollutants are neither used nor generated should be based on a review of all raw materials in use, and an assessment of the process chemistry, products and by-products resulting from each of the manufacturing processes. This determination along with a recommendation of any surrogate must be submitted with permit applications for approval by the permitting authority, reconfirmed by an annual chemical analysis of wastewater from each monitoring location, and measurement of a non-detect value for each regulated pollutant or its surrogate. Permits must specify that such determinations will be maintained in the facility's permit records with their discharge monitoring reports and will be available to regulatory authorities upon request.
+
+(b) Unless noted otherwise, self-monitoring will be conducted at the point where the final effluent is discharged.
+
+[68 FR 12271, Mar. 13, 2003]

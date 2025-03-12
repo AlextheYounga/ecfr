@@ -1,0 +1,3 @@
+##### § 4101.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to Farm Credit Administration (FCA) employees and supplement the Standards of Ethical Conduct for Employees of the executive branch contained in 5 CFR part 2635. Employees are required to comply with 5 CFR part 2635, this part, and Agency guidance and procedures established pursuant to 5 CFR 2635.105.

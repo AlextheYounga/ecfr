@@ -1,0 +1,5 @@
+##### § 221.125 Credit to brokers and dealers. #####
+
+(a) The National Securities Markets Improvement Act of 1996 (Pub. L. 104-290, 110 Stat. 3416) restricts the Board's margin authority by repealing section 8(a) of the Securities Exchange Act of 1934 (the Exchange Act) and amending section 7 of the Exchange Act (15 U.S.C. 78g) to exclude the borrowing by a member of a national securities exchange or a registered broker or dealer “a substantial portion of whose business consists of transactions with persons other than brokers or dealers” and borrowing by a member of a national securities exchange or a registered broker or dealer to finance its activities as a market maker or an underwriter. Notwithstanding this exclusion, the Board may impose such rules and regulations if it determines they are “necessary or appropriate in the public interest or for the protection of investors.”
+
+(b) The Board has not found that it is necessary or appropriate in the public interest or for the protection of investors to impose rules and regulations regarding loans to brokers and dealers covered by the National Securities Markets Improvement Act of 1996.

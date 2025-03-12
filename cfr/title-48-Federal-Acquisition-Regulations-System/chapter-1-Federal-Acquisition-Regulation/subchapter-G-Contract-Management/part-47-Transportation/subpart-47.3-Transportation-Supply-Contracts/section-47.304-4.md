@@ -1,0 +1,5 @@
+##### 47.304-4 Shipments originating outside CONUS. #####
+
+(a) Unless there are valid reasons to the contrary (see 47.304-5), acquisition of supplies originating outside CONUS for ultimate delivery to destinations within CONUS or elsewhere, regardless of the quantity of the shipments, shall be on the basis of f.o.b. origin or f.o.b. destination, whichever is more advantageous to the Government.
+
+(b) The contracting officer shall request the advice of the transportation officer to determine the most appropriate place of delivery to be specified in acquisition documents, giving full consideration to the possible use of Government transportation facilities, reduced rates available, special licensing or custom requirements, and availability of U.S.-flag shipping services between the points involved (see subpart 47.5).

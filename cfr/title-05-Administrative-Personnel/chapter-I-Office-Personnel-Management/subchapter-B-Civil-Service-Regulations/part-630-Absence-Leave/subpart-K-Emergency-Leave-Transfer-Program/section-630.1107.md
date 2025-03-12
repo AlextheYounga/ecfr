@@ -1,0 +1,3 @@
+##### § 630.1107 Notification of approval or disapproval of an application to become an emergency leave recipient. #####
+
+Once the employee's application to become an emergency leave recipient is either approved or disapproved, the agency must notify the employee (or his or her personal representative who made application on the employee's behalf) within 10 calendar days (excluding Saturdays, Sundays, and legal public holidays) after the date the application was received (or the date established by the agency, if that date is later). If disapproved, the agency must give the reason for its disapproval.

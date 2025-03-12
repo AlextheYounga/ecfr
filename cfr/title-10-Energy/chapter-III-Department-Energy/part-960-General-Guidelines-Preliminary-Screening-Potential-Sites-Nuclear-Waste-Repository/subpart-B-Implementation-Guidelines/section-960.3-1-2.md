@@ -1,0 +1,3 @@
+##### § 960.3-1-2 Diversity of rock types. #####
+
+Consideration shall be given to a variety of geologic media in which sites for the development of repositories may be located. To the extent practicable, and with due consideration of candidate sites characterized previously or approved for such characterization if the circumstances apply, sites recommended as candidate sites for characterization shall have different types of host rock.

@@ -1,0 +1,3 @@
+##### § 137.75 What funds must the Secretary transfer to a Self-Governance Tribe in a funding agreement? #####
+
+Subject to the terms of any compact or funding agreement, the Secretary must transfer to a Tribe all funds provided for in the funding agreement, pursuant to section 508(c) of the Act [25 U.S.C. 458aaa-7(c)] and § 137.80. The Secretary shall provide funding for periods covered by joint resolution adopted by Congress making continuing appropriations, to the extent permitted by such resolutions.

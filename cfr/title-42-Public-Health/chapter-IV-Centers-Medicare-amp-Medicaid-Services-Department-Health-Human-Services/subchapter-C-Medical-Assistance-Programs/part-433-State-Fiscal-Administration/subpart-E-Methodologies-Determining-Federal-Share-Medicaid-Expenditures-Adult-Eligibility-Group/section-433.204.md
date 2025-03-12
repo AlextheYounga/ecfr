@@ -1,0 +1,17 @@
+##### § 433.204 Definitions. #####
+
+(a)(1) *Newly eligible individual* means an individual determined eligible for Medicaid in accordance with the requirements of the adult group described in § 435.119 of this chapter, and who, as determined by the State in accordance with the requirements of § 433.206, would not have been eligible for Medicaid under the State's eligibility standards and methodologies for the Medicaid State plan, waiver or demonstration programs in effect in the State as of December 1, 2009, for full benefits or for benchmark coverage described in § 440.330(a), (b), or (c) of this chapter or benchmark equivalent coverage described in § 440.335 of this chapter that has an aggregate actuarial value that is at least actuarially equivalent to benchmark coverage described in § 440.330(a), (b), or (c) of this chapter, or would have been eligible but not enrolled (or placed on a waiting list) for such benefits or coverage through a waiver under the plan that had a capped or limited enrollment that was full.
+
+(2) *Full benefits* means, for purposes of paragraph (a)(1) of this section, with respect to an adult individual, medical assistance for all services covered under the State plan under Title XIX of the Act that is not less in amount, duration, or scope, or is determined by the Secretary to be substantially equivalent, to the medical assistance available for an individual described in section 1902(a)(10)(A)(i) of the Act.
+
+(3) For purposes of establishing under paragraphs (a)(1) and (2) of this section whether an individual would not have been eligible for full benefits, benchmark coverage, or benchmark equivalent coverage under a waiver or demonstration program in effect on December 1, 2009, the State must provide CMS with its analysis, in accordance with guidance issued by CMS, about whether the benefits available under such waiver or demonstration constituted full benefits, benchmark coverage, or benchmark equivalent coverage. CMS will review such analysis and confirm the applicable FMAP. Individuals for whom such benefits or coverage would have been available under such waiver or demonstration are not newly eligible individuals.
+
+(b)(1) *Expansion State* means a State that, as of March 23, 2010, offered health benefits coverage statewide to parents and nonpregnant, childless adults whose income is at least 100 percent of the Federal Poverty Level. A State that offers health benefits coverage to only parents or only nonpregnant childless adults described in the preceding sentence will not be considered to be an expansion State. Such health benefits coverage must:
+
+(i) Have included inpatient hospital services;
+
+(ii) Not have been dependent on access to employer coverage, employer contribution, or employment; and
+
+(iii) Not have been limited to premium assistance, hospital-only benefits, a high deductible health plan, or benefits under a demonstration program authorized under section 1938 of the Act.
+
+(2) For purposes of paragraph (b)(1) of this section and for § 433.10(c)(8), a nonpregnant childless adult means an individual who is not eligible based on pregnancy and does not meet the definition of a caretaker relative in § 435.4 of this chapter.

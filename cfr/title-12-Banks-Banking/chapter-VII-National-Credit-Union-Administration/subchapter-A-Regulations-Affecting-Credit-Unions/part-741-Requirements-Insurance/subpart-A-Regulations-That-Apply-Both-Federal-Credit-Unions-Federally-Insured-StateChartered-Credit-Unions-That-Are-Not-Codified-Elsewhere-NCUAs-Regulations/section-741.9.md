@@ -1,0 +1,3 @@
+##### § 741.9 Uninsured membership shares. #####
+
+Any credit union that is insured pursuant to title II of the Act may not offer membership shares that, due to the terms and conditions of the account, are not eligible for insurance coverage. This prohibition does not apply to shares that are uninsured solely because the amount is in excess of the maximum insurance coverage provided pursuant to part 745 of this chapter.

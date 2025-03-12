@@ -1,0 +1,3 @@
+##### § 71.137 Audits. #####
+
+The licensee, certificate holder, and applicant for a CoC shall carry out a comprehensive system of planned and periodic audits to verify compliance with all aspects of the quality assurance program and to determine the effectiveness of the program. The audits must be performed in accordance with written procedures or checklists by appropriately trained personnel not having direct responsibilities in the areas being audited. Audited results must be documented and reviewed by management having responsibility in the area audited. Followup action, including reaudit of deficient areas, must be taken where indicated.

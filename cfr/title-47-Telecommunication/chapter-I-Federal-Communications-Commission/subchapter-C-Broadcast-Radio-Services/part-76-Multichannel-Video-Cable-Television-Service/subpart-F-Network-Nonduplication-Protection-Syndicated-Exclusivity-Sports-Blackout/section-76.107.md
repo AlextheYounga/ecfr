@@ -1,0 +1,3 @@
+##### § 76.107 Exclusivity contracts. #####
+
+A distributor or television station exercising exclusivity pursuant to § 76.101 shall provide to the cable system, upon request, an exact copy of those portions of the exclusivity contracts, such portions to be signed by both the distributor and the television station, setting forth in full the provisions pertinent to the duration, nature, and extent of the exclusivity terms concerning broadcast signal exhibition to which the parties have agreed.

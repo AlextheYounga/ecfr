@@ -1,0 +1,5 @@
+##### 2001.601 General. #####
+
+(a) Contracting authority vests in the Chairman. The Chairman has delegated this authority to the Executive Director for Operations (EDO). The EDO has delegated this authority to the Deputy Executive Director for Management Services (DEDM). The DEDM has delegated this authority to the Director, Office of Administration (ADM). The Director, ADM, has delegated the authority to the Director, Division of Contracts and Property Management (DCPM), who, in turn, makes contracting officer appointments within Headquarters and Regional Offices. All of these delegations are formal written delegations containing dollar limitations and conditions.
+
+(b) The Director, Division of Contracts Division of Contracts and Property Management, establishes contracting policy throughout the agency; monitors the overall effectiveness and efficiency of the agency's contracting office; establishes controls to assure compliance with laws, regulations, and procedures; and delegates contracting officer authority.

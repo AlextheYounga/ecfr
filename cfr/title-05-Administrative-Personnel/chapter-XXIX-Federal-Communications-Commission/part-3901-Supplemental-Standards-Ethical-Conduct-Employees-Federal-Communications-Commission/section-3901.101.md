@@ -1,0 +1,3 @@
+##### § 3901.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the Federal Communications Commission (FCC) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the standards in 5 CFR part 2635 and this part, employees are subject to the Executive Branch Financial Disclosure Regulations contained in 5 CFR part 2634, the FCC's regulations at 5 CFR part 3902 supplementing 5 CFR part 2634, and to FCC regulations regarding their responsibilities and conduct in 47 CFR part 19.

@@ -1,0 +1,7 @@
+##### § 1.764 Discontinuance, reduction, or impairment of service. #####
+
+(a) Applications under section 214 of the Communications Act for the authority to discontinue, reduce, or impair service to a community or part of a community or for the temporary, emergency, or partial discontinuance, reduction, or impairment of service shall be made in the form and manner, with the number of copies specified in part 63 of this chapter (see also subpart G, part 1 of this chapter). Posted and public notice shall be given the public as required by part 63 of this chapter.
+
+(b) In cases under this section requiring a certificate, notice is given to and a copy of the application is filed with the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points), and the Governor of each State involved. Hearing is held if any of these persons desires to be heard or if the Commission determines that a hearing should be held. Copies of all formal applications under this section requesting authorizations (including certificates) are filed with the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points) and the Governor of each State involved. Copies of all applications under this section requesting authorizations (including certificates) are filed with the regulatory agencies of the States involved.
+
+[28 FR 12450, Nov. 22, 1963, as amended at 52 FR 5289, Feb. 20, 1987]

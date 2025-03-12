@@ -1,0 +1,3 @@
+##### § 80.659 Technical requirements. #####
+
+The authorized frequency tolerance, class of emission, bandwidth, and transmitter power for maritime support stations are contained in subpart E of this part under the category associated with the intended use except for power limitations imposed upon stations operating within the scope of § 80.653(b)(3), which are further limited by the provisions of § 80.215(f).

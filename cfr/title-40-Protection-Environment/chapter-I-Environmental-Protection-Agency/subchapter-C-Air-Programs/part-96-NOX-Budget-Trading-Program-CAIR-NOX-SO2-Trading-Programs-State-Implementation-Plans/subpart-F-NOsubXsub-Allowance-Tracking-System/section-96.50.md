@@ -1,0 +1,5 @@
+##### § 96.50 NOX Allowance Tracking System accounts. #####
+
+(a) *Nature and function of compliance accounts and overdraft accounts.* Consistent with § 96.51(a), the Administrator will establish one compliance account for each NOX Budget unit and one overdraft account for each source with one or more NOX Budget units. Allocations of NOX allowances pursuant to subpart E of this part or § 96.88 and deductions or transfers of NOX allowances pursuant to § 96.31, § 96.54, § 96.56, subpart G of this part, or subpart I of this part will be recorded in the compliance accounts or overdraft accounts in accordance with this subpart.
+
+(b) *Nature and function of general accounts.* Consistent with § 96.51(b), the Administrator will establish, upon request, a general account for any person. Transfers of allowances pursuant to subpart G of this part will be recorded in the general account in accordance with this subpart.

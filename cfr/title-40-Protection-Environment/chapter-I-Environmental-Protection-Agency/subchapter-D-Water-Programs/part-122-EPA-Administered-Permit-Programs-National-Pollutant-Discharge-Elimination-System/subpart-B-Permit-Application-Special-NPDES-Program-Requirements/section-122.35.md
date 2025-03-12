@@ -1,0 +1,13 @@
+##### § 122.35 May the operator of a regulated small MS4 share the responsibility to implement the minimum control measures with other entities? #####
+
+(a) The permittee may rely on another entity to satisfy its NPDES permit obligations to implement a minimum control measure if:
+
+(1) The other entity, in fact, implements the control measure;
+
+(2) The particular control measure, or component thereof, is at least as stringent as the corresponding NPDES permit requirement; and
+
+(3) The other entity agrees to implement the control measure on the permittee's behalf. In the reports, the permittee must submit under § 122.34(d)(3), the permittee must also specify that it is relying on another entity to satisfy some of the permit obligations. If the permittee is relying on another governmental entity regulated under section 122 to satisfy all of the permit obligations, including the obligation to file periodic reports required by § 122.34(d)(3), the permittee must note that fact in its NOI, but the permittee is not required to file the periodic reports. The permittee remains responsible for compliance with the permit obligations if the other entity fails to implement the control measure (or component thereof). Therefore, EPA encourages the permittee to enter into a legally binding agreement with that entity if the permittee wants to minimize any uncertainty about compliance with the permit.
+
+(b) In some cases, the NPDES permitting authority may recognize, either in your individual NPDES permit or in an NPDES general permit, that another governmental entity is responsible under an NPDES permit for implementing one or more of the minimum control measures for your small MS4 or that the permitting authority itself is responsible. Where the permitting authority does so, you are not required to include such minimum control measure(s) in your storm water management program. (For example, if a State or Tribe is subject to an NPDES permit that requires it to administer a program to control construction site runoff at the State or Tribal level and that program satisfies all of the requirements of § 122.34(b)(4), you could avoid responsibility for the construction measure, but would be responsible for the remaining minimum control measures.) Your permit may be reopened and modified to include the requirement to implement a minimum control measure if the entity fails to implement it.
+
+[64 FR 68846, Dec. 8, 1999, as amended at 81 FR 89352, Dec. 9, 2016]

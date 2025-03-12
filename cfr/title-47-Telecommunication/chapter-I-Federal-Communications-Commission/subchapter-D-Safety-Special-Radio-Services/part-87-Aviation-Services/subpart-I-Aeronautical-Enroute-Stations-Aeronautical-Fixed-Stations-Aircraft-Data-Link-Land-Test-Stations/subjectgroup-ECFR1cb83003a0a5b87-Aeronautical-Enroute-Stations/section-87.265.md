@@ -1,0 +1,5 @@
+##### § 87.265 Administrative communications. #####
+
+Domestic VHF aeronautical enroute stations authorized to use A9W emission on any frequency listed in § 87.263(a)(1) or § 87.263(a)(3) may transmit digital administrative communications on a secondary basis, in addition to the operational and control communications routinely permitted under § 87.261(a) above. Such secondary administrative communications must directly relate to the business of a participating aircraft operator in providing travel and transportation services to the flying public or to the travel, transportation or scheduling activities of the aircraft operator itself. Stations transmitting administrative communications must provide absolute priority for operational control and other safety communications by means of an automatic priority control system.
+
+[54 FR 11721, Mar. 22, 1989]

@@ -1,0 +1,3 @@
+##### § 89.47 Stay of offset. #####
+
+If the debtor timely notifies the Department that he or she is complying with the procedures in § 89.43(a) of this subpart and timely submits additional information in accordance with § 89.43(b) of this subpart, the debt will not be referred to the IRS while the matter is under review by the Department. Referral will not be made until the issuance of a written decision, in accordance with § 89.45 of this subpart, which sustains or amends the Department's original determination.

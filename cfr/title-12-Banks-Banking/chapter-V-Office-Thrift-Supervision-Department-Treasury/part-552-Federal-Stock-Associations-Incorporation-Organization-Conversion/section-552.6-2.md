@@ -1,0 +1,9 @@
+##### § 552.6-2 Officers. #####
+
+(a) *Positions.* The officers of the association shall be a president, one or more vice presidents, a secretary, and a treasurer or comptroller, each of whom shall be elected by the board of directors. The board of directors may also designate the chairman of the board as an officer. The offices of the secretary and treasurer or comptroller may be held by the same person and the vice president may also be either the secretary or the treasurer or comptroller. The board of directors may designate one or more vice presidents as executive vice president or senior vice president. The board of directors may also elect or authorize the appointment of such other officers as the business of the association may require. The officers shall have such authority and perform such duties as the board of directors may from time to time authorize or determine. In the absence of action by the board of directors, the officers shall have such powers and duties as generally pertain to their respective offices.
+
+(b) *Removal.* Any officer may be removed by the board of directors whenever in its judgment the best interests of the association will be served thereby; but such removal, other than for cause, shall be without prejudice to the contractual rights, if any, of the person so removed. Employment contracts shall conform with § 563.39 of this chapter.
+
+(c) *Age limitation on officers.* A Federal association may provide a bylaw on age limitation for officers. Bylaws on age limitations must comply with all Federal laws, rules, and regulations.
+
+[54 FR 49523, Nov. 30, 1989, as amended at 56 FR 59866, Nov. 26, 1991; 60 FR 66869, Dec. 27, 1995; 61 FR 64020, Dec. 3, 1996]

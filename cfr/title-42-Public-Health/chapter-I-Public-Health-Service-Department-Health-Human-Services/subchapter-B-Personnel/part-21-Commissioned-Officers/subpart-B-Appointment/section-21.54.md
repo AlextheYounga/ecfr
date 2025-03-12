@@ -1,0 +1,5 @@
+##### § 21.54 Students. #####
+
+A potential candidate for appointment in the Regular Corps who is pursuing a course of instruction which, upon completion, would qualify him under § 21.25 or § 21.26 for examination for appointment in the junior assistant or assistant grade may be examined for and appointed in the Reserve Corps in the junior assistant grade but shall not be called to extended active duty until the successful completion of such course of instruction, except that: (a) He may be called to active duty for purposes of training for periods not to exceed 120 days during any fiscal year, and (b) those students who have completed at least 3 years of collegiate or professional study leading to the qualifying degree for appointment may be called to active duty for the purpose of completing the requirements of § 21.25(a)(3). An appointment made under this subpart shall be terminated upon the officer's failure to continue a full-time course of study or failure to meet the requirements of § 21.25(a)(3) within 18 months after entering on active duty.
+
+[34 FR 706, Jan. 17, 1969]

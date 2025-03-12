@@ -1,0 +1,3 @@
+##### § 486.320 Condition: Participation in Organ Procurement and Transplantation Network. #####
+
+After being designated, an OPO must become a member of, participate in, and abide by the rules and requirements of the OPTN established and operated in accordance with section 372 of the Public Health Service Act (42 U.S.C. 274). The term “rules and requirements of the OPTN” means those rules and requirements approved by the Secretary. No OPO is considered out of compliance with section 1138(b)(1)(D) of the Act or this section until the Secretary approves a determination that the OPO failed to comply with the rules and requirements of the OPTN. The Secretary may impose sanctions under section 1138 only after such non-compliance has been determined in this manner.

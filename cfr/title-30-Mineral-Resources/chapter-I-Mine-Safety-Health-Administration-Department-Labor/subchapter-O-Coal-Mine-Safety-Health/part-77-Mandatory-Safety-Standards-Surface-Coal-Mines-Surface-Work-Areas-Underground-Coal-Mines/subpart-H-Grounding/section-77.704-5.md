@@ -1,0 +1,3 @@
+##### § 77.704-5 Installation of protective equipment. #####
+
+Before repair work on energized high-voltage surface lines is begun, protective equipment shall be used to cover all bare conductors, ground wires, guys, telephone lines, and other attachments in proximity to the area of planned repairs. Such protective equipment shall be installed from a safe position below the conductors or other apparatus being covered. Each rubber protective device employed in the making of repairs shall have a dielectric strength of 20,000 volts, or more.

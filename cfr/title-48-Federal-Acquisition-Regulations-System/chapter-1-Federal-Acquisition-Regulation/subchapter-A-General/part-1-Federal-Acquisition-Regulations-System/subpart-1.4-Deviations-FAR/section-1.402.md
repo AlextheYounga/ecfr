@@ -1,0 +1,5 @@
+##### 1.402 Policy. #####
+
+Unless precluded by law, executive order, or regulation, deviations from the FAR may be granted as specified in this subpart when necessary to meet the specific needs and requirements of each agency. The development and testing of new techniques and methods of acquisition should not be stifled simply because such action would require a FAR deviation. The fact that deviation authority is required should not, of itself, deter agencies in their development and testing of new techniques and acquisition methods. Refer to 31.101 for instructions concerning deviations pertaining to the subject matter of part 31, Contract Cost Principles and Procedures. Deviations are not authorized with respect to 30.201-3 and 30.201-4, or the requirements of the Cost Accounting Standards Board (CASB) rules and regulations (48 CFR Chapter 99 (FAR Appendix)). Refer to 30.201-5 for instructions concerning waivers pertaining to Cost Accounting Standards.
+
+[48 FR 42103, Sept. 19, 1983, as amended at 52 FR 35612, Sept. 22, 1987; 62 FR 64914, Dec. 9, 1997]

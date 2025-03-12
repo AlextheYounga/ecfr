@@ -1,0 +1,7 @@
+##### § 1705.05 Processing of requests. #####
+
+(a) *Requests in writing.* The Privacy Act Officer will acknowledge receipt of the request within five working days of its receipt in the Board's offices. The acknowledgment will advise the requester if any additional information is needed to process the request. Within fifteen working days of receipt of the request, the Privacy Act Officer will provide the requested information or will explain to the requester why additional time is needed for response.
+
+(b) *Requests in person.* Following the initial call from the requester, the Privacy Act Officer will determine (1) whether the records identified by the requester exist, and (2) whether they are subject to any exemption under § 1705.11 below. If the records exist and are not subject to exemption, the Privacy Act Officer will call the requester and arrange an appointment at a mutually agreeable time when the records can be examined. The requester may be accompanied by one person of his or her own choosing, and should state during this call whether or not a second individual will be present at the appointment. At the appointment, the requester will be asked to present identification as stated in § 1705.04(a)(2).
+
+(c) *Excluded information.* If a request is received for information compiled in reasonable anticipation of litigation, the Privacy Act Officer will inform the requester that this information is not subject to release under the Privacy Act (*see* 5 U.S.C. 552a(d)(5)).

@@ -1,0 +1,3 @@
+##### § 112.6 Obstruction of the proceedings. #####
+
+The designated representative shall report to the Comptroller any instances where any witness or counsel has engaged in dilatory, obstructionist, or contumacious conduct or has otherwise violated any provision of this part during the course of an investigative proceeding or formal examination proceeding; and the OCC may take such action as the circumstances warrant, including the exclusion of counsel from further participation in such proceeding.

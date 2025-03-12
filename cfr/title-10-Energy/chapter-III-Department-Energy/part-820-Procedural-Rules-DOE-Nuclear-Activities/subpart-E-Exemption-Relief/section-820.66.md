@@ -1,0 +1,3 @@
+##### § 820.66 Appeal. #####
+
+Within fifteen (15) days of the filing of an exemption decision by a Secretarial Officer, the person requesting the exemption may file a Request to Review with the Secretary, or the Secretary may file, *sua sponte,* a Notice of Review. The Request to Review shall state specifically the respects in which the exemption determination is claimed to be erroneous, the grounds of the request, and the relief requested.

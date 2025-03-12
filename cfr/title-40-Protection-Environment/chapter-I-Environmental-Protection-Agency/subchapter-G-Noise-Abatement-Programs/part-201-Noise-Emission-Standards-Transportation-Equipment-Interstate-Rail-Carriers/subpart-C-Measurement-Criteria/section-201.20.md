@@ -1,0 +1,3 @@
+##### § 201.20 Applicability and purpose. #####
+
+The following criteria are applicable to and contain the necessary parameters and procedures for the measurement of the noise emission levels prescribed in the standards of Subpart B of this part. These criteria are specified in order to further clarify and define such standards. Equivalent measurement procedures may be used for establishing compliance with these regulations. Any equivalent measurement procedure, under any circumstance, shall not result in a more stringent noise control requirement than those specified in this regulation using the measurement procedures in Subpart C.

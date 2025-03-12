@@ -1,0 +1,9 @@
+##### § 1777.26 Final notice of order. #####
+
+(a) *Determination and notice.* After the Enterprise has submitted its response under § 1777.25 or the response period (as extended or shortened, if applicable) has expired, whichever occurs first, OFHEO will determine, in its discretion, whether to take into consideration such relevant information as is provided by the Enterprise in its response, if any, under § 1777.25. OFHEO will provide the Enterprise with a written final notice of any order issued by OFHEO under this subpart, which is to include a description of the basis for OFHEO's determination.
+
+(b) *Termination or modification.* An Enterprise that has received an order under paragraph (a) of this section remains subject to each provision of the order until each such provision terminates under the express terms of the order. The Enterprise may submit a written request to OFHEO seeking modification or termination of one or more provisions of the order. Pending OFHEO's review and approval, in OFHEO's discretion of the Enterprise's request, the Enterprise shall remain subject to the provisions of the order.
+
+(c) *Enforcement of order*—(1) *Judicial enforcement.* An order issued under paragraph (a) of this section is an order for purposes of section 1375 of the 1992 Act (12 U.S.C. 4635). An Enterprise in any capital classification may be subject to enforcement of such order in the United States District Court for the District of Columbia pursuant to such section.
+
+(2) *Administrative enforcement.* An order issued under paragraph (a) of this section constitutes an order under the 1992 Act. An Enterprise, regardless of its capital classification, as well as its executive officers and directors may be subject to action by OFHEO under sections 1371, 1372, and 1376 of the 1992 Act (12 U.S.C. 4631, 4632, and 4636) and 12 CFR part 1780 for failure to comply with such order.

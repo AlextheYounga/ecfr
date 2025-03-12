@@ -1,0 +1,3 @@
+##### § 224.13 Preemptive effect. #####
+
+Under 49 U.S.C. 20106, issuance of this part preempts any State law, rule, regulation, or order covering the same subject matter, except an additional or more stringent law, rule, regulation, or order that is necessary to eliminate or reduce an essentially local safety hazard; that is not incompatible with a law, rule, regulation, or order of the United States Government; and that does not unreasonably burden interstate commerce.

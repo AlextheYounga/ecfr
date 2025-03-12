@@ -1,0 +1,3 @@
+##### § 410.40 Applicability; description of the woven fabric finishing subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from the following types of textile mills: woven fabric finishers, which may include any or all of the following unit operations: Desizing, bleaching, mercerizing, dyeing, printing, resin treatment, water proofing, flame proofing, soil repellency application and a special finish application.

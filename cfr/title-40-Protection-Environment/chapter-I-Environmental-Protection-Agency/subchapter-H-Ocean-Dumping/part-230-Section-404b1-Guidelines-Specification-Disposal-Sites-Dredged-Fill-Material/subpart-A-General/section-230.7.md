@@ -1,0 +1,17 @@
+##### § 230.7 General permits. #####
+
+(a) *Conditions for the issuance of General permits.* A General permit for a category of activities involving the discharge of dredged or fill material complies with the Guidelines if it meets the applicable restrictions on the discharge in § 230.10 and if the permitting authority determines that:
+
+(1) The activities in such category are similar in nature and similar in their impact upon water quality and the aquatic environment;
+
+(2) The activities in such category will have only minimal adverse effects when performed separately; and
+
+(3) The activities in such category will have only minimal cumulative adverse effects on water quality and the aquatic environment.
+
+(b) *Evaluation process.* To reach the determinations required in paragraph (a) of this section, the permitting authority shall set forth in writing an evaluation of the potential individual and cumulative impacts of the category of activities to be regulated under the General permit. While some of the information necessary for this evaluation can be obtained from potential permittees and others through the proposal of General permits for public review, the evaluation must be completed before any General permit is issued, and the results must be published with the final permit.
+
+(1) This evaluation shall be based upon consideration of the prohibitions listed in § 230.10(b) and the factors listed in § 230.10(c), and shall include documented information supporting each factual determination in § 230.11 of the Guidelines (consideration of alternatives in § 230.10(a) are not directly applicable to General permits);
+
+(2) The evaluation shall include a precise description of the activities to be permitted under the General permit, explaining why they are sufficiently similar in nature and in environmental impact to warrant regulation under a single General permit based on subparts C through F of the Guidelines. Allowable differences between activities which will be regulated under the same General permit shall be specified. Activities otherwise similar in nature may differ in environmental impact due to their location in or near ecologically sensitive areas, areas with unique chemical or physical characteristics, areas containing concentrations of toxic substances, or areas regulated for specific human uses or by specific land or water management plans (e.g., areas regulated under an approved Coastal Zone Management Plan). If there are specific geographic areas within the purview of a proposed General permit (called a draft General permit under a State 404 program), which are more appropriately regulated by individual permit due to the considerations cited in this paragraph, they shall be clearly delineated in the evaluation and excluded from the permit. In addition, the permitting authority may require an individual permit for any proposed activity under a General permit where the nature or location of the activity makes an individual permit more appropriate.
+
+(3) To predict cumulative effects, the evaluation shall include the number of individual discharge activities likely to be regulated under a General permit until its expiration, including repetitions of individual discharge activities at a single location.

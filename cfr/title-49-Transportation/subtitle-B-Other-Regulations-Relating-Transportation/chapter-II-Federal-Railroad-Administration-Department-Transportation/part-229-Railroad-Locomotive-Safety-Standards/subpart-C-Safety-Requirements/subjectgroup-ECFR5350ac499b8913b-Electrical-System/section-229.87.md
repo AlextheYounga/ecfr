@@ -1,0 +1,3 @@
+##### § 229.87 Hand-operated switches. #####
+
+All hand-operated switches carrying currents with a potential of more than 150 volts that may be operated while under load shall be covered and shall be operative from the outside of the cover. Means shall be provided to show whether the switches are open or closed. Switches that should not be operated while under load shall be legibly marked with the words “must not be operated under load” and the voltage carried.

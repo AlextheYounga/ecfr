@@ -1,0 +1,7 @@
+##### § 205.199A Hearing for the purpose of oral argument only. #####
+
+(a) A participant is entitled upon timely request to a hearing to present oral argument with respect to the Proposed Remedial Order, whether or not an evidentiary hearing is requested or convened. A participant's request shall normally be considered untimely, if made more than 10 days after service of a determination regarding any motion filed by the requestor or, if no motions were filed by him, if made after the date for filing his Reply or his Response to a Statement of Objections.
+
+(b) If an evidentiary hearing is convened, and a hearing for oral argument is requested, the Office of Hearings and Appeals shall determine whether the hearing for oral argument shall be held in conjunction with the evidentiary hearing or at a separate time.
+
+(c) A hearing for the purpose of receiving oral argument will generally be conducted only after the issues involved in the proceeding have been delineated, and any written material which the Office of Hearings and Appeals has requested to supplement a Statement of Objections or Responses has been submitted. The presiding officer may require further written submissions in support of any position advanced or issued at the hearing, and shall allow responses any such submissions.

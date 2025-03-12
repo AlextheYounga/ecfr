@@ -1,0 +1,7 @@
+##### § 511.76 Qualifications and standards of conduct. #####
+
+(a) The NHTSA expects all persons appearing in proceedings before it to act with integrity, with respect, and in an ethical manner. Business transacted before and with the NHTSA shall be in good faith.
+
+(b) To maintain orderly proceedings, the Presiding Officer or the Administrator, as appropriate under this part, may exclude parties, participants, and their representatives for refusal to comply with directions, continued use of dilatory tactics, refusal to adhere to reasonable standards of orderly and ethical conduct, failure to act in good faith, or violation of the prohibition against certain ex parte communications. The Presiding Officer may, in addition to the above sanctions, deny access to additional *in camera* materials when a party or participant publicly releases such materials without authorization.
+
+(c) An excluded party, participant, or representative thereof may petition the Administrator to entertain an interlocutory appeal in accordance with § 511.24. If, after such appeal, the representative of a party or participant, is excluded, the hearing shall, at the request of the party or participant, be suspended for a reasonable time so that the party or participant may obtain another representative.

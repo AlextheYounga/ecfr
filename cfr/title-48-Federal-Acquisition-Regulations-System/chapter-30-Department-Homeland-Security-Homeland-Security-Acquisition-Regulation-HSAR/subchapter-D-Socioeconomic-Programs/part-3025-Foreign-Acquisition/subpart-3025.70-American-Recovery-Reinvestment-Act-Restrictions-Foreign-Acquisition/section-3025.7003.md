@@ -1,0 +1,3 @@
+##### 3025.7003 Contract clauses. #####
+
+Unless an exception under (HSAR) 48 CFR 3025.7002-2(a), (b), (e) or (f) applies, insert the clause at (HSAR) 48 CFR 3052.225-70, Requirement for Use of Certain Domestic Commodities, in solicitations, exercising of an option, contract modifications that add new items (or which make a cardinal change) and contracts with a value exceeding the simplified acquisition threshold when procuring any item covered under (HSAR) 48 CFR 3025.7002-1(a) or (b).

@@ -1,0 +1,3 @@
+##### § 1021.5 Agreement and release. #####
+
+Upon the debtor's agreement to settle a claim, an Agreement and Release Form will be provided to the debtor in duplicate. This form, after reciting the statutory basis for the claim, will contain a statement to be signed in duplicate by the debtor evidencing his agreement to settlement of the claim for the amount stated in the agreement. Both copies of the signed agreement shall be returned to the collection designee. Upon final collection of the claim, one copy of the agreement and release shall be returned to the debtor with the release thereon signed by the enforcement collection designee.

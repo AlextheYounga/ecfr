@@ -1,0 +1,9 @@
+##### § 484.52 Condition of participation: Evaluation of the agency's program. #####
+
+The HHA has written policies requiring an overall evaluation of the agency's total program at least once a year by the group of professional personnel (or a committee of this group), HHA staff, and consumers, or by professional people outside the agency working in conjunction with consumers. The evaluation consists of an overall policy and administrative review and a clinical record review. The evaluation assesses the extent to which the agency's program is appropriate, adequate, effective, and efficient. Results of the evaluation are reported to and acted upon by those responsible for the operation of the agency and are maintained separately as administrative records.
+
+(a) *Standard: Policy and administrative review.* As a part of the evaluation process the policies and administrative practices of the agency are reviewed to determine the extent to which they promote patient care that is appropriate, adequate, effective, and efficient. Mechanisms are established in writing for the collection of pertinent data to assist in evaluation.
+
+(b) *Standard: Clinical record review.* At least quarterly, appropriate health professionals, representing at least the scope of the program, review a sample of both active and closed clinical records to determine whether established policies are followed in furnishing services directly or under arrangement. There is a continuing review of clinical records for each 60-day period that a patient receives home health services to determine adequacy of the plan of care and appropriateness of continuation of care.
+
+[54 FR 33367, Aug. 14, 1989; 66 FR 32778, June 18, 2001]

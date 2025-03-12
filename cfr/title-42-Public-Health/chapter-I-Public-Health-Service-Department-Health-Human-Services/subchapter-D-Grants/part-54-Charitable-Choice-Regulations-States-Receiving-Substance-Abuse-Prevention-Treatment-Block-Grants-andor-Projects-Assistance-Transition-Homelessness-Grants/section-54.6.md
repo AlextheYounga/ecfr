@@ -1,0 +1,9 @@
+##### § 54.6 Employment practices. #####
+
+(a) The participation of a religious organization in, or its receipt of funds from, an applicable program does not affect that organization's exemption provided under 42 U.S.C. 2000e-1 regarding employment practices.
+
+(b) To the extent that 42 U.S.C. 300x-57(a)(2) or 42 U.S.C. 290cc-33(a)(2) precludes a program participant from employing individuals of a particular religion to perform work connected with the carrying on of its activities, those provisions do not apply if such program participant is a religious corporation, association, educational institution, or society and can demonstrate that its religious exercise would be substantially burdened by application of these religious nondiscrimination requirements to its employment practices in the program or activity at issue. In order to make this demonstration, the program participant must certify: that it sincerely believes that employing individuals of a particular religion is important to the definition and maintenance of its religious identity, autonomy, and/or communal religious exercise; that it makes employment decisions on a religious basis in analogous programs; that the grant would materially affect its ability to provide the type of services in question; and that providing the services in question is expressive of its values or mission. The organization must maintain documentation to support these determinations and must make such documentation available to SAMHSA upon request.
+
+(c) Nothing in this section shall be construed to modify or affect any State law or regulation that relates to discrimination in employment.
+
+(d) The phrases “with respect to the employment,” “individuals of a particular religion,” and “religious corporation, association, educational institution, or society” shall have the same meaning as those terms have under section 702 of the Civil Rights Act of 1964, 42 U.S.C. 2000e-1(a).

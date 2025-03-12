@@ -1,0 +1,5 @@
+##### § 52.2351 Area-wide nitrogen oxides (NOX) exemption. #####
+
+On May 2, 1997, Ursula Trueman, Director, Division of Air Quality, Utah Department of Environmental Quality, submitted, on behalf of the State of Utah and pursuant to section 182(f)(2)(A) of the Clean Air Act as amended in 1990, a section 182(f)(2) NOX Reasonably Available Control Technology (RACT) exemption request for major stationary sources of NOX in the Salt Lake and Davis Counties ozone nonattainment area other than the Pacificorp Gadsby and Kennecott Utah Copper Utah Power Plants. The exemption request was based on ambient air quality monitoring data which demonstrated that the ozone National Ambient Air Quality Standard (NAAQS) had been attained in the Salt Lake and Davis Counties ozone nonattainment area for the years 1990 through 1996. EPA approved this NOX RACT exemption request on July 2, 1997.
+
+[62 FR 38217, July 17, 1997]

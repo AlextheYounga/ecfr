@@ -1,0 +1,19 @@
+##### § 21.6 Exclusions. #####
+
+(a) Statements shall not be issued for applications in the following areas:
+
+(1) *Local requirements.* Applications for statements for additions, alterations, or methods of operation that result from requirements imposed by municipalities, counties or other forms of local or regional authorities and governments, except for areawide management agencies designated and approved under section 208 of the Act, shall not be approved; except for those requirements resulting from the application of pretreatment requirements under section 307(b) of the Act; or those resulting from an approved project for facilities plans, and developed under section 201 of the Act. (See 35 CFR, subpart E); or under a delegation of authority under the Act.
+
+(2) *Cost recovery and user charges.* Applications for statements involving a request for financial assistance in meeting revenue and service charges imposed upon a small business by a municipality conforming to regulations governing a user charge or capital cost system under section 204(b)(2) of the Act (see 35 CFR 925-11 and 925-12) shall not be approved.
+
+(3) *New facility sewer construction.* Applications for statements involving projects that involve the construction of a lateral, collection, or interceptor sewer, at a facility that was not in existence on October 18, 1972, shall not be approved. Applications for additions, alterations, or methods of operation for new facilities that do not involve sewer construction are not affected by this preclusion. Further, if an applicant is compelled to move as a result of a relocation requirement but operated at the facility prior to October 18, 1972, the cost of construction for a lateral, collection, or interceptor sewer can be approved for the new, relocated site. For the purpose of this exclusion lateral, collection, or interceptor sewer is determined as any sewer transporting waste from a facility or site to any publicly owned sewer.
+
+(4) Other non-water related pollution abatement additions, alterations, or methods of operation which are not integral to meeting the requirements of the Act, although they may be achieving the requirements of another Federal or State law or regulation.
+
+Comment: An example would be where stack emission controls were required on equipment that operated the water pollution control facility. This emission control equipment as an integral part of the water pollution control systems would be approvable. However, emission control equipment for a general purpose incinerator that only incidentally burned sewage sludge would not be approvable. The general purpose incinerator might also receive loan assistance but under separate procedures than those set out for water pollution control.
+
+(5) *Privately owned treatment facility service or user costs.* Applications for statements involving financial assistance in meeting user cost or fee schedules related to participating in a privately owned treatment facility not under the ownership or control of the applicant shall not be approved.
+
+(6) *Operation and maintenance charges.* Applications for statements containing a request for financial assistance in meeting the operations and maintenance costs of operating the applicant's additions, alterations, or methods of operation shall not be approved for any elements relating to such areas of cost.
+
+(7) *Evidence of financial responsibility.* Applications for statements containing a request for financial assistance in meeting any requirements relating to evidence of financial responsibility as provided in section 311(p) of the Act shall not be approved.

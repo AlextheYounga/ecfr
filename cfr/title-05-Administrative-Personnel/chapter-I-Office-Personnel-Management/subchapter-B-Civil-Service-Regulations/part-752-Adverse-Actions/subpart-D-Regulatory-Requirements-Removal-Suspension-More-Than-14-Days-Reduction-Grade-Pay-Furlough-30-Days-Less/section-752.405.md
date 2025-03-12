@@ -1,0 +1,5 @@
+##### § 752.405 Appeal and grievance rights. #####
+
+(a) *Appeal rights.* Under the provisions of 5 U.S.C. 7513(d), an employee against whom an action is taken under this subpart is entitled to appeal to the Merit Systems Protection Board.
+
+(b) *Grievance rights.* As provided at 5 U.S.C. 7121(e)(1), if a matter covered by this subpart falls within the coverage of an applicable negotiated grievance procedure, an employee may elect to file a grievance under that procedure or appeal to the Merit Systems Protection Board under 5 U.S.C. 7701, but not both. Sections 7114(a)(5) and 7121(b)(1)(C) of title 5, U.S. Code, and the terms of an applicable collective bargaining agreement, govern representation for employees in an exclusive bargaining unit who grieve a matter under this subpart through the negotiated grievance procedure.

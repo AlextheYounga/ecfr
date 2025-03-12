@@ -1,0 +1,3 @@
+##### § 91.1411 Continuous airworthiness maintenance program use by fractional ownership program manager. #####
+
+Fractional ownership program aircraft may be maintained under a continuous airworthiness maintenance program (CAMP) under §§ 91.1413 through 91.1443. Any program manager who elects to maintain the program aircraft using a continuous airworthiness maintenance program must comply with §§ 91.1413 through 91.1443.

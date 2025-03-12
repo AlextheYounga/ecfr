@@ -1,0 +1,3 @@
+##### 908.7118 Rental of post office boxes. #####
+
+DOE offices and authorized contractors may rent post office boxes on an annual basis, or for shorter periods by quarters, where necessary. Payments for annual rentals are to be made in advance at the beginning of the fiscal year, and for periods of less than a year, either in advance for the whole period or at the beginning of each quarter in which the box is to be used.

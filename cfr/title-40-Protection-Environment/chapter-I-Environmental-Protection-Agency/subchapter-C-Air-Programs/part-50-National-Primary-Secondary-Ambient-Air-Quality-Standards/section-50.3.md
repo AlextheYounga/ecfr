@@ -1,0 +1,5 @@
+##### § 50.3 Reference conditions. #####
+
+All measurements of air quality that are expressed as mass per unit volume (*e.g.,* micrograms per cubic meter) other than for particulate matter (PM2.5) standards contained in §§ 50.7, 50.13, 50.18, and 50.20, and lead standards contained in § 50.16 shall be corrected to a reference temperature of 25 (deg) C and a reference pressure of 760 millimeters of mercury (1,013.2 millibars). Measurements of PM2.5 for purposes of comparison to the standards contained in §§ 50.7, 50.13, 50.18, and 50.20, and of lead for purposes of comparison to the standards contained in § 50.16 shall be reported based on actual ambient air volume measured at the actual ambient temperature and pressure at the monitoring site during the measurement period.
+
+[89 FR 10365, Dec. 19, 2024]

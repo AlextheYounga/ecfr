@@ -1,0 +1,3 @@
+##### 36.302 Scope of work. #####
+
+The agency shall develop, either in-house or by contract, a scope of work that defines the project and states the Government's requirements. The scope of work may include criteria and preliminary design, budget parameters, and schedule or delivery requirements. If the agency contracts for development of the scope of work, the procedures in subpart 36.6 shall be used.

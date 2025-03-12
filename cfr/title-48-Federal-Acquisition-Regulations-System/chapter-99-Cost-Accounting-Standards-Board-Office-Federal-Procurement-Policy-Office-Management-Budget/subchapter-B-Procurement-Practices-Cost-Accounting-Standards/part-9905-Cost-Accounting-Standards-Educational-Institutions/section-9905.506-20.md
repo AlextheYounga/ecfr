@@ -1,0 +1,3 @@
+##### 9905.506-20 Purpose. #####
+
+The purpose of this Cost Accounting Standard is to provide criteria for the selection of the time periods to be used as cost accounting periods for contract cost estimating, accumulating, and reporting. This Standard will reduce the effects of variations in the flow of costs within each cost accounting period. It will also enhance objectivity, consistency, and verifiability, and promote uniformity and comparability in contract cost measurements.

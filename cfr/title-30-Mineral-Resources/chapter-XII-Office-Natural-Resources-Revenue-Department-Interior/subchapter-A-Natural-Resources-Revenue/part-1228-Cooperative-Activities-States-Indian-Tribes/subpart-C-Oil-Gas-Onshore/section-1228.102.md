@@ -1,0 +1,3 @@
+##### § 1228.102 Establishment of standards. #####
+
+The ONRR, after consultation with States and Indian tribes, shall establish standards for carrying out the activities under the provisions of this part. The standards will be incorporated into the agreement and shall be no more stringent than those applicable to similar activities of the ONRR. The States and Indian tribes shall coordinate their planned auditing activities with ONRR. Where an ONRR audit team is permanently assigned to a lessee/payor, contact by State and Indian tribal auditors with the lessee/payor shall be through the ONRR auditor in residence.

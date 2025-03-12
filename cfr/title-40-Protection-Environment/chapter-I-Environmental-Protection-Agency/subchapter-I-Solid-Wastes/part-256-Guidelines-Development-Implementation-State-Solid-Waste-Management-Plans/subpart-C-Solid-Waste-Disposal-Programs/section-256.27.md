@@ -1,0 +1,3 @@
+##### § 256.27 Recommendation for schedules leading to compliance with the prohibition of open dumping. #####
+
+In reviewing applications for compliance schedules under § 256.26, the State should consider the availability of processing and disposal facilities, the likelihood of environmental damage from disposal at available facilities, the existence of State or substate requirements (including other compliance schedules) applicable to available facilities, cost constraints, existing contractual agreements and other pertinent factors.

@@ -1,0 +1,21 @@
+##### 1523.703-1 Acquisition of environmentally preferable meeting and conference facilities and services. #####
+
+(a) *Scope.* This section establishes the policy and the procedures for acquiring environmentally preferable meeting and conference facilities and services. For purposes of this section, the term “contracting officer” refers to any EPA employee with purchasing authority. For purposes of this section, the terms “meeting and conference facilities” or “conference facilities” refer to any off-site commercial facility which is purchased for the use of an EPA conference or event, whether the purpose of the event is a meeting, conference, training session, or other official purpose.
+
+(b) *Conference facilities.* EPA conducts government events at facilities owned and operated by private, third-party vendors. These facilities—
+
+(1) May provide conference participants with lodging, food and beverage, and other on-site event support services.
+
+(2) Demonstrate they are environmentally preferable by their responses to the 17 questions in 1552.223-71(c) highlighting environmental performance. These questions address, among other things, reducing greenhouse gas (GHG) emissions, the production and disposal of solid waste, the use of and exposure to toxic chemicals/materials, and the depletion of natural resources including water.
+
+(c) *Policy.* Contracting officers shall purchase environmentally preferable meeting and conference facilities and services to the greatest extent practicable. Environmentally preferable is defined at FAR 2.101 and shall be considered in all purchases of meeting and conference facilities and services.
+
+(d) *Procedures for micropurchases.* The contracting officer shall request that potential third party conference facility vendors respond to the 17 questions in 1552.223-71(c) or language substantially the same as these questions, in order to evaluate their environmental performance.
+
+(e) *Procedures for purchases of conference facilities exceeding the micropurchase threshold.* The contracting officer shall request that potential third party conference facility vendors respond to the 17 questions in 1552.223-71(c) or language substantially the same as these questions, in order to evaluate their environmental performance. The contracting officer shall notify vendors that the basis for award will be best value with price and other factors considered. Environmental preferability, as determined by evaluating the information submitted in response to the questions and specifications at 1552.223-71(c) or information submitted in response to substantially similar questions and specifications, shall be considered among the other factors. The contracting officer shall determine the relative importance of price and other factors as appropriate to the acquisition, but in all cases shall consider environmental preferability as a significant factor.
+
+(f) *Contractor support for meetings and conferences.* A contract, order, work assignment or purchasing agreement that includes contractor support for meeting and conference planning and logistics must include requirements to make use of environmentally preferable meeting and conference facilities and services. The contracting officer shall ensure language is included in the tasking document work statement that requires the contractor to use the provisions at 1552.223-71 or language approved by the contracting officer that is substantially the same as the provisions, when soliciting quotes or offers for meeting and conference services on behalf of the EPA.
+
+(g) *Solicitation provision.* The contracting officer shall insert provisions or language substantially the same as the provisions at 1552.223-71 EPA Green Meetings and Conferences, in solicitations for meeting and conference services. Contracting officers issuing an oral solicitation must also use these provisions, though they may be provided to the vendor orally or electronically. Contractors soliciting quotes or offers for meeting and conference services on behalf of EPA shall use the provisions, or language approved by the contracting officer that is substantially the same as the provisions.
+
+[80 FR 4214, Jan. 27, 2015]

@@ -1,0 +1,3 @@
+##### § 35.6 Admissions; determination of eligibility for care. #####
+
+Except as may otherwise be provided for specific classes of patients by the regulations of this chapter, the officer in charge of the station or hospital to which application is made is authorized to determine the eligibility of applicants, as beneficiaries of the Service, for care and for treatment. Such determinations shall be subject to review by the chief of the division of the Service responsible for administration of the station or hospital concerned upon referral made by the officer in charge in doubtful cases or upon appeal made by an applicant who has been denied care or treatment.

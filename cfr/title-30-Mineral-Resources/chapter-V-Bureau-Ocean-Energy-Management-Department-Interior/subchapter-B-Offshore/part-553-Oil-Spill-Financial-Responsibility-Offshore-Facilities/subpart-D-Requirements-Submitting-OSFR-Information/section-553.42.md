@@ -1,0 +1,5 @@
+##### § 553.42 How can I amend my list of COFs? #####
+
+(a) If you want to add a COF that is not identified in your current OSFR demonstration, you must submit to BOEM a completed Form BOEM-1022. If applicable, you also must submit any additional indemnities, surety bonds, insurance certificates, or other instruments required to extend the coverage of your original OSFR demonstration to the COFs to be added. You do not need to resubmit previously accepted audited annual financial statements for the current fiscal year.
+
+(b) If you want to drop a COF identified in your current OSFR demonstration, you must submit to BOEM a completed Form BOEM-1022. You must continue to demonstrate OSFR for the COF until BOEM approves OSFR evidence for the COF from another designated applicant, or OSFR is no longer required (e.g., until a well that is a COF is properly plugged and abandoned).

@@ -1,0 +1,3 @@
+##### § 110.65 Settlement and compromise. #####
+
+At any time after issuance of an order for any enforcement action under this subpart, an agreement may be entered into for settlement of the proceeding or compromise of a penalty. Upon approval by the Commission, or presiding officer if a hearing has been requested, the terms of the settlement or compromise will be embodied in the order disposing of the enforcement action.

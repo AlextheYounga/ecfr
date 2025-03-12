@@ -1,0 +1,7 @@
+##### § 583.16 Maintenance of records. #####
+
+(a) *General.* Each manufacturer of new passenger motor vehicles and each supplier of passenger motor vehicle equipment subject to this part shall establish, maintain, and retain in organized and indexed form, records as specified in this section. All records, including the certificates provided by suppliers, may be stored in any mode provided the mode contains all information in the records and certificates.
+
+(b) *Manufacturers.* Each manufacturer shall maintain all records which provide a basis for the information it provides on the labels required by § 583.5, including, but not limited to, certificates from suppliers, parts lists, calculations of content, and relevant contracts with suppliers. The records shall be maintained for five years after December 31 of the model year to which the records relate.
+
+(c) *Suppliers.* Each supplier shall maintain all records which form a basis for the information it provides on the certificates required by §§ 583.10, 583.11, and 583.12, including, but not limited to, calculations of content, certificates from suppliers, and relevant contracts with manufacturers and suppliers. The records shall be maintained for six years after December 31 of the calendar year set forth in the date of each certificate.

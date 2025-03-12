@@ -1,0 +1,3 @@
+##### § 57.217 Additional conditions. #####
+
+The Secretary may with respect to any agreement entered into with any school under § 57.205, impose additional conditions prior to or at the time of any award when in his or her judgment these conditions are necessary to assure or protect the advancement of the purposes of the agreement, the interest of the public health, or the conservation of funds awarded.

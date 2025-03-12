@@ -1,0 +1,9 @@
+##### § 21.4 Review of application. #####
+
+(a) The Regional Administrator or his designee will conduct a review of the application. This review will consist of a general assessment of the adequacy of the proposed alterations, additions, or methods of operation. The review will corroborate that the proposed alterations, additions, or methods of operation are required by an applicable standard. The review will identify any proposed alterations, additions, or methods of operation that are not required by an applicable standard, or that are extraneous to the achievement of an applicable standard.
+
+(b) The assessment of adequacy will be conducted to ensure that the proposed additions, alterations, or methods of operation are sufficient to meet one or more applicable standards whether alone or in conjunction with other plans. The assessment will not generally examine whether other alternatives exist or would be more meritorious from a cost-effective, efficiency, or technological standpoint.
+
+(c) An application which proposes additions, alterations, or methods of operation whose design, in anticipation of a future requirement, will achieve a level of performance above the requirements imposed by a presently applicable standard shall be reviewed and approved by EPA or a State without prejudice. The amount of financial assistance for such an application will be determined by SBA.
+
+(d) The Regional Administrator shall retain one copy of the application and a summary of the action taken on it. Upon completion of his review, the Regional Administrator shall return the original application along with any other supporting documents or information provided to the applicant along with a copy to the appropriate SBA district office for processing.

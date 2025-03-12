@@ -1,0 +1,3 @@
+##### § 222.5 Time and place of hearings. #####
+
+Hearings shall be held in the State in closest proximity to the proposed dump site, whenever practicable, and shall be set for the earliest practicable date no less than 30 days after the receipt of an appropriate request for a hearing or a determination by the Administrator or the Regional Administrator, as the case may be, to hold such a hearing without such a request.

@@ -1,0 +1,9 @@
+##### § 1.32 Office of the Executive Director for Operations. #####
+
+(a) The Executive Director for Operations (EDO) reports for all matters to the Chairman, and is subject to the supervision and direction of the Chairman as provided in Reorganization Plan No. 1 of 1980.
+
+(b) The EDO supervises and coordinates policy development and operational activities in the following offices: The Office of Nuclear Reactor Regulation, the Office of New Reactors, the Office of Nuclear Material Safety and Safeguards, the Office of Nuclear Regulatory Research, the Office of Nuclear Security and Incident Response, and the NRC Regional Offices; and the following staff offices: The Office of Enforcement, the Office of Administration, the Office of the Chief Information Officer, the Office of Investigations, the Office of Small Business and Civil Rights, the Office of the Chief Human Capital Officer, and other organizational units as shall be assigned by the Commission. The EDO is also responsible for implementing the Commission's policy directives pertaining to these offices.
+
+(c) The EDO exercises powers and functions delegated to the EDO under the Reorganization Plan No. 1 of 1980, this chapter, or otherwise by the Commission or Chairman, as appropriate. The EDO has the authority to perform any function that may be performed by an office director reporting to the EDO.
+
+[54 FR 53314, Dec. 28, 1989, as amended at 59 FR 63882, Dec. 12, 1994. Redesignated and amended at 63 FR 15741, Apr. 1, 1998; 67 FR 3585, Jan. 25, 2002; 70 FR 69421, Nov. 16, 2005; 73 FR 5711, Jan. 31, 2008; 78 FR 34247, June 7, 2013; 79 FR 75737, Dec. 19, 2014; 80 FR 74978, Dec. 1, 2015]

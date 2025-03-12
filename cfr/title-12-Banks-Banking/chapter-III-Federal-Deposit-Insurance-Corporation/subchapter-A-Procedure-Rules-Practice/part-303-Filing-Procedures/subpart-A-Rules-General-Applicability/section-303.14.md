@@ -1,0 +1,9 @@
+##### § 303.14 Being “engaged in the business of receiving deposits other than trust funds.” #####
+
+(a) Except as provided in paragraphs (b), (c), and (d) of this section, a depository institution shall be “engaged in the business of receiving deposits other than trust funds” only if it maintains one or more non-trust deposit accounts in the minimum aggregate amount of $500,000.
+
+(b) An applicant for federal deposit insurance under section 5 of the FDI Act, 12 U.S.C. 1815(a), shall be deemed to be “engaged in the business of receiving deposits other than trust funds” from the date that the FDIC approves deposit insurance for the institution until one year after it opens for business.
+
+(c) Any depository institution that fails to satisfy the minimum deposit standard specified in paragraph (a) of this section as of two consecutive call report dates (*i.e.,* March 31st, June 30th, September 30th, and December 31st) shall be subject to a determination by the FDIC that the institution is not “engaged in the business of receiving deposits other than trust funds” and to termination of its insured status under section 8(p) of the FDI Act, 12 U.S.C. 1818(p). For purposes of this paragraph, the first three call report dates after the institution opens for business are excluded.
+
+(d) Notwithstanding any failure by an insured depository institution to satisfy the minimum deposit standard in paragraph (a) of this section, the institution shall continue to be “engaged in the business of receiving deposits other than trust funds” for purposes of section 3 of the FDI Act until the institution's insured status is terminated by the FDIC pursuant to a proceeding under section 8(a) or section 8(p) of the FDI Act. 12 U.S.C. 1818(a) or 1818(p).

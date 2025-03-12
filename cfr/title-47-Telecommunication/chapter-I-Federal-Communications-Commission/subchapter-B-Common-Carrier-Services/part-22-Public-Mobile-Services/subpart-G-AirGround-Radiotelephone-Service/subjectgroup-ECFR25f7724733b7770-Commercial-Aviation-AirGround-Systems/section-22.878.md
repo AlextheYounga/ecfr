@@ -1,0 +1,13 @@
+##### § 22.878 Obligation to abate unacceptable interference. #####
+
+This section applies only to commercial aviation ground stations transmitting in the 849-851 MHz band, other than commercial aviation ground stations operating under the authority of a license originally granted prior to January 1, 2004.
+
+(a) *Strict responsibility.* Any licensee who, knowingly or unknowingly, directly or indirectly, causes or contributes to causing unacceptable interference to a non-cellular part 90 licensee in the 800 MHz band, as defined in § 22.877, shall be strictly accountable to abate the interference, with full cooperation and utmost diligence, in the shortest time practicable. Interfering licensees shall consider all feasible interference abatement measures, including, but not limited to, the remedies specified in the interference resolution procedures set forth in § 22.879. This strict responsibility obligation applies to all forms of interference, including out-of-band emissions and intermodulation.
+
+(b) *Joint and Several responsibility.* If two or more licensees, whether in the commercial aviation air-ground radiotelephone service or in the Cellular Radiotelephone Service (see § 22.971), knowingly or unknowingly, directly or indirectly, cause or contribute to causing unacceptable interference to a non-cellular part 90 licensee in the 800 MHz band, as defined in § 22.877, such licensees shall be jointly and severally responsible for abating interference, with full cooperation and utmost diligence, in the shortest practicable time.
+
+(1) This joint and several responsibility rule requires interfering licensees to consider all feasible interference abatement measures, including, but not limited to, the remedies specified in the interference resolution procedures set forth in § 22.879(c). This joint and several responsibility rule applies to all forms of interference, including out-of-band emissions and intermodulation.
+
+(2) Any licensee that can show that its signal does not directly or indirectly cause or contribute to causing unacceptable interference to a non-cellular part 90 licensee in the 800 MHz band, as defined in § 22.877, shall not be held responsible for resolving unacceptable interference. Notwithstanding, any licensee that receives an interference complaint from a public safety/CII licensee shall respond to such complaint consistent with the interference resolution procedures set forth in § 22.879.
+
+[70 FR 19411, Apr. 13, 2005]

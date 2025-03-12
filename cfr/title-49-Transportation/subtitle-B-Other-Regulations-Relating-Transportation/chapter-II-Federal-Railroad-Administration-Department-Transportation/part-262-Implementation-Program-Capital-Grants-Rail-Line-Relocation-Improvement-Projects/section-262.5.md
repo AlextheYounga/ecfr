@@ -1,0 +1,3 @@
+##### § 262.5 Allocation requirements. #####
+
+At least fifty percent of all grant funds awarded under this section out of funds appropriated for a fiscal year shall be provided as grant awards of not more than $20,000,000 each. Designated, high-priority projects will be excluded from this allocation formula. FRA will adjust the $20,000,000 amount to reflect inflation for fiscal years beginning after fiscal year 2006 based on the materials and supplies component from the all-inclusive index of the *AAR Railroad Cost Indexes.*

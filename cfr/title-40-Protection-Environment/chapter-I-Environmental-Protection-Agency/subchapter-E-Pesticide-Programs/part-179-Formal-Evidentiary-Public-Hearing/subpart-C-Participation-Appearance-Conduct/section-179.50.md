@@ -1,0 +1,3 @@
+##### § 179.50 Conduct at oral hearings or conferences. #####
+
+The parties and their representatives must conduct themselves with dignity and observe the same standards of practice and ethics that would be required of parties in a judicial proceeding. Disrespectful, disorderly, or contumacious language or conduct, refusal to comply with directions, use of dilatory tactics, or refusal to adhere to reasonable standards of orderly and ethical conduct during any hearing constitute grounds for immediate exclusion from the proceeding by the presiding officer.

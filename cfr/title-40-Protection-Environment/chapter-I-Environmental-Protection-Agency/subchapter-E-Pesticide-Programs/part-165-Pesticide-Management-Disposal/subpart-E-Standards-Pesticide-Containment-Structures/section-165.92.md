@@ -1,0 +1,3 @@
+##### § 165.92 What if I need both a containment pad and a secondary containment unit? #####
+
+You may combine containment pads and secondary containment units as an integrated system provided the requirements set out in this subpart for containment pads and secondary containment units in §§ 165.85(a) and (b), 165.87(a) and (b) and § 165.90, and as applicable, §§ 165.85(c)-(f) and 165.87(c)-(f) are satisfied separately.

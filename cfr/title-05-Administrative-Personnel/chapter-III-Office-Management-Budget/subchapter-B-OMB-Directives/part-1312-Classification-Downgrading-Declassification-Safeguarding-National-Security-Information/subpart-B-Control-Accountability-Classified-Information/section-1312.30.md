@@ -1,0 +1,3 @@
+##### § 1312.30 Loss or possible compromise. #####
+
+Any person who has knowledge of the loss or possible compromise of classified information shall immediately secure the material and then report the circumstances to the EOP Security Officer. The EOP Security Officer will immediately initiate an inquiry to determine the circumstances surrounding the loss or compromise for the purpose of taking corrective measures and/or instituting appropriate administrative, disciplinary, or legal action. The agency originating the information shall be notified of the loss or compromise so that the necessary damage assessment can be made.

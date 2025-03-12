@@ -1,0 +1,5 @@
+##### § 225.94 What are the consequences of an insured branch or depository institution failing to maintain a satisfactory or better rating under the Community Reinvestment Act? #####
+
+(a) *Insured branch as an “insured depository institution.”* A U.S. branch of a foreign bank that is insured by the Federal Deposit Insurance Corporation shall be treated as an “insured depository institution” for purposes of § 225.84.
+
+(b) *Applicability.* The provisions of § 225.84, with the modifications contained in this section, shall apply to a foreign bank that operates an insured branch referred to in paragraph (a) of this section or an insured depository institution in the United States, and any company that owns or controls such a foreign bank, that has made an effective election under § 225.92 in the same manner and to the same extent as they apply to a financial holding company.

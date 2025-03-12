@@ -1,0 +1,3 @@
+##### § 608.835 Purpose. #####
+
+The purpose of this subpart is to implement section 5 of the Debt Collection Act of 1982 (Pub. L. 97-365)(5 U.S.C. 5514), which authorizes the collection of debts owed by Federal employees to the Federal Government by means of salary offsets. These regulations provide procedures for the collection of a debt owed to the Government by the imposition of a salary offset against amounts payable to a Federal employee as salary. These regulations are consistent with the regulations on salary offset published by the Office of Personnel Management, codified in 5 CFR part 550, subpart K. Since salary offset is a type of administrative offset, this subpart supplements subpart B.

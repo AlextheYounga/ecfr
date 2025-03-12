@@ -1,0 +1,3 @@
+##### § 561.44 Security. #####
+
+The term *security* means any non-withdrawable account, note, stock, treasury stock, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, or, in general, any interest or instrument commonly known as a *security,* or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing, except that a *security* shall not include an account or deposit insured by the Federal Deposit Insurance Corporation.

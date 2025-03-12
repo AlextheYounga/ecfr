@@ -1,0 +1,3 @@
+##### § 62.14107 Emission limits for air curtain incinerators. #####
+
+The owner or operator of an air curtain incinerator with the capacity to combust greater than 250 tons per day of municipal solid waste and that combusts a fuel feed stream composed of 100 percent yard waste and no other municipal solid waste materials must not (at any time) cause to be discharged into the atmosphere from that incinerator any gases that exhibit greater than 10-percent opacity (6-minute average), except that an opacity level of up to 35 percent (6-minute average) is permitted during startup periods during the first 30 minutes of operation of the unit.

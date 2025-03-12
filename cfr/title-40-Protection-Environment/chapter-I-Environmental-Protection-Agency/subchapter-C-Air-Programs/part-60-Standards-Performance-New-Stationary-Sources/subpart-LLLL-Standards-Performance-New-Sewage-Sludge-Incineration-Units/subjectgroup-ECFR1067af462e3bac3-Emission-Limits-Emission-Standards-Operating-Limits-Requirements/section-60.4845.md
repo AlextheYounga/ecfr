@@ -1,0 +1,3 @@
+##### § 60.4845 What emission limits and standards must I meet and by when? #####
+
+You must meet the emission limits and standards specified in Table 1 or 2 to this subpart within 60 days after your SSI unit reaches the feed rate at which it will operate or within 180 days after its initial startup, whichever comes first. The emission limits and standards apply at all times the unit is operating, and during periods of malfunction. The emission limits and standards apply to emissions from a bypass stack or vent while sewage sludge is in the combustion chamber (*i.e.,* until the sewage sludge feed to the combustor has been cut off for a period of time not less than the sewage sludge incineration residence time).

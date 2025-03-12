@@ -1,0 +1,3 @@
+##### § 266.225 What wastes are eligible for the storage and treatment conditional exemption? #####
+
+Low-level mixed waste (LLMW), defined in § 266.210, is eligible for this conditional exemption if it is generated and managed by you under a single NRC or NRC Agreement State license. (Mixed waste generated at a facility with a different license number and shipped to your facility for storage or treatment requires a permit and is ineligible for this exemption. In addition, NARM waste is ineligible this exemption.)

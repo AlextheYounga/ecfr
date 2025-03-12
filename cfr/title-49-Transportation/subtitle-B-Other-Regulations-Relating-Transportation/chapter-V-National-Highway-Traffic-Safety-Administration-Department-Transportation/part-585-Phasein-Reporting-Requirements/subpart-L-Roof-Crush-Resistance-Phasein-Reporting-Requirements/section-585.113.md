@@ -1,0 +1,3 @@
+##### § 585.113 Applicability. #####
+
+This subpart applies to manufacturers of passenger cars, multipurpose passenger vehicles, trucks, and buses with a gross vehicle weight rating of 2,722 kilograms (6,000 pounds) or less. However, this subpart does not apply to manufacturers whose production consists exclusively of vehicles manufactured in two or more stages, and vehicles that are altered after previously having been certified in accordance with part 567 of this chapter. In addition, this subpart does not apply to manufacturers whose production of motor vehicles for the United States market is less than 5,000 vehicles in a production year.

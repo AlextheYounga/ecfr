@@ -1,0 +1,5 @@
+##### § 266.23 Record, audit, and examination. #####
+
+(a) Retention and custodial requirements for financial records, supporting documents, statistical records, and all other records pertinent to a grant provided under this part shall be governed by Attachment C of OMB Circular A-102.
+
+(b) The Administrator and the Comptroller General of the United States or any of their duly authorized representatives shall, until the expiration of three years after submission to the Administrator of the grantee's final accounting of all program funds, and for any longer period necessary to resolve audit findings, have access for the purpose of audit and examination to any books, documents, papers, and records which in the opinion of the Administrator or the Comptroller General of the United States may be related or pertinent to the grants, contracts, or other arrangements arising out of, or in any way connected with, the rail service assistance program.

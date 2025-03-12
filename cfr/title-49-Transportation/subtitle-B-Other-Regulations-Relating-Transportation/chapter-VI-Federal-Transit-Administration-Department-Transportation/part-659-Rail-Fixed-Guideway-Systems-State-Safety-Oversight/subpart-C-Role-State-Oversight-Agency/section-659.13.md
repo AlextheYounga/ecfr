@@ -1,0 +1,3 @@
+##### § 659.13 Overview. #####
+
+The state oversight agency is responsible for establishing standards for rail safety and security practices and procedures to be used by rail transit agencies within its purview. In addition, the state oversight agency must oversee the execution of these practices and procedures, to ensure compliance with the provisions of this part. This subpart identifies and describes the various requirements for the state oversight agency.

@@ -1,0 +1,7 @@
+##### § 216.25 Issuance and review of emergency order. #####
+
+(a) Upon recommendation of the FRA Regional Administrator, the Administrator may issue an Emergency order removing from service track identified in the notice issued under § 216.21.
+
+(b) As specified in section 203, Public Law No. 91-458, 84 Stat. 972 (45 U.S.C. 432), opportunity for review of the Emergency order is provided in accordance with section 554 of title 5 of the U.S.C. Petitions for such review must be submitted in writing to the Office of Chief Counsel, Federal Railroad Administration, Washington, DC 20590. Upon receipt of a petition, FRA will immediately contact the petitioner and make the necessary arrangements for a conference to be held at the earliest date acceptable to the petitioner. At this conference, the petitioner will be afforded an opportunity to submit facts, arguments and proposals for modification or withdrawal of the Emergency order. If the controversy is not resolved at this conference and a hearing is desired, the petitioner must submit a written request for a hearing within fifteen (15) days after the conference. The hearing will commence within fourteen (14) calendar days of receipt of the request and will be conducted in accordance with sections 556 and 575, title 5, U.S.C.
+
+(c) Unless stayed or modified by the Administrator, the requirements of each Emergency order issued under this subpart shall remain in effect and be observed pending decision on a petition for review.

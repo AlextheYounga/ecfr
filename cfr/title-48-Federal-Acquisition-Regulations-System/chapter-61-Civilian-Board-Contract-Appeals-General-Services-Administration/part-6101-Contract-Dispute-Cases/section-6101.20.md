@@ -1,0 +1,7 @@
+##### 6101.20 Hearings: scheduling; notice; unexcused absences [Rule 20]. #####
+
+(a) *Scheduling of hearings.* Hearings will be held at the time and place ordered by the Board and will be scheduled at the discretion of the Board. In scheduling hearings, the Board will consider the requirements of the rules of this chapter, the need for orderly management of the Board's caseload, and the stated desires of the parties as expressed in their elections filed pursuant to 6101.18 (Rule 18) or otherwise. The time or place for hearing may be changed by the Board at any time.
+
+(b) *Notice of hearing.* Notice of hearing will be by written order of the Board. Notice of changes in the hearing schedule will also be by written order when practicable but may be oral in exigent circumstances. Except as the Board may otherwise order, each party that plans to attend the hearing shall, within 10 working days of receipt of a written notice of hearing or any notice of a change in hearing schedule stating that an acknowledgment is required, notify the Board in writing that it will attend the hearing. If a party fails to acknowledge a notice of hearing as required, the Board will deem the party to have consented to the time and place of hearing.
+
+(c) *Unexcused absence from hearing.* In the event of the unexcused absence of a party from a hearing, the hearing will proceed, and the absent party will be deemed to have elected to submit its case on the record pursuant to 6101.19 (Rule 19).

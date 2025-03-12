@@ -1,0 +1,3 @@
+##### § 415.111 Launch operator organization. #####
+
+An applicant's safety review document must contain organizational charts and a description that shows that the launch operator's organization satisfies the requirements of § 417.103 of this chapter. An applicant's safety review document must also identify all persons with whom the applicant has contracted to provide safety-related goods or services for the launch of the launch vehicle.

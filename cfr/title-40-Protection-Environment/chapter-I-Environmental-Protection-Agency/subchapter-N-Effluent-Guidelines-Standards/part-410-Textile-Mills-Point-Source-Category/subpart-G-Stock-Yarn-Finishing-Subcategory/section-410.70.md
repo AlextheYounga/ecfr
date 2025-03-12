@@ -1,0 +1,3 @@
+##### § 410.70 Applicability; description of the stock and yarn finishing subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from the following types of textile mills: Stock or yarn dyeing or finishing, which may include any or all of the following unit operations and processes: Cleaning, scouring, bleaching, mercerizing, dyeing and special finishing.

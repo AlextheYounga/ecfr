@@ -1,0 +1,19 @@
+##### § 9.28 Predisclosure notification procedures for information containing trade secrets or confidential commercial or financial information. #####
+
+(a) *Notice of opportunity to object to NRC's initial disclosure determination.* Whenever NRC makes an initial determination that information should be disclosed in response to a Freedom of Information Act request or a Freedom of Information Act appeal which has been designated by the submitter as trade secrets or confidential commercial or financial information, or the NRC believes the information contains such trade secrets or confidential commercial or financial information, the NRC will give the submitter of the information written notice of NRC's initial determination, or NRC's need for information on which to base a determination, and an opportunity to object. The notice must describe the business information requested or include copies of the requested records or record portions containing the information.
+
+(b) *Submitter objection to disclosure.* The submitter will be allowed 30 calendar days from date of the notice described in paragraph (a) of this section to object to disclosure, unless the Commission determines that a shorter period of time to respond is necessary in a particular instance. If a submitter has any objection to disclosure, the submitter must provide a detailed written statement. The statement must specify all grounds that support why the information is a trade secret or commercial or financial information that is privileged or confidential. If a submitter fails to respond to the notice within the time specified in the notice, the submitter will be considered to have no objection to disclosure of the information. Information provided by the submitter that is not received until after the date specified for response will not be considered unless that date is extended by the Freedom of Information Act and Privacy Act Officer upon request by the submitter.
+
+(c) *Notice of final decision to disclose.* The NRC shall consider a submitter's written statement and specific grounds for nondisclosure. If the NRC agrees to withhold the information from public disclosure, the NRC will inform the requester in the manner described in § 9.27 of the agency decision to deny access to the requested information. Whenever the NRC denies the submitter's request for nondisclosure and decides to disclose the information, the NRC shall give the submitter written notice, which must include:
+
+(1) A statement of the reason(s) for the determination;
+
+(2) A description of the business information to be disclosed; and
+
+(3) A specified disclosure date, which will be 30 calendar days subsequent to the date of the notice, or less, as provided under paragraph (b) of this section, after which the information will be made available to the public.
+
+(d) *Corresponding notice to requesters.* When the NRC provides a submitter with notice and opportunity to object to disclosure under paragraph (b) of this section, the NRC shall also notify the requester(s). Whenever the NRC notifies a submitter of its final decision to disclose the requested information under paragraph (c) of this section, the NRC shall also notify the requester(s). When a submitter files a lawsuit seeking to prevent the disclosure of trade secrets or confidential commercial or financial information, the NRC shall notify the requester(s).
+
+(e) *Notice to submitter of Freedom of Information Act lawsuit.* Whenever a requester files a lawsuit seeking to compel disclosure of trade secrets or confidential commercial or financial information, the NRC shall promptly notify the submitter.
+
+[70 FR 34307, June 14, 2005]

@@ -1,0 +1,3 @@
+##### § 164.71 Fees of witnesses. #####
+
+Witnesses summoned before the Administrative Law Judge shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and persons whose depositions are taken, and the persons taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States. Fees shall be paid by the party at whose instance the witness appears or the deposition is taken.

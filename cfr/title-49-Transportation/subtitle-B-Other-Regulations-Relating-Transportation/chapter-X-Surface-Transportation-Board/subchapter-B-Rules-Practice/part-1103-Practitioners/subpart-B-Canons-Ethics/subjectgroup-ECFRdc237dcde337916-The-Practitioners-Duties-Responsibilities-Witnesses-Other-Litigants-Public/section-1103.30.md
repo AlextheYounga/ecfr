@@ -1,0 +1,5 @@
+##### § 1103.30 Acceptance of employment. #####
+
+(a) The practitioner must decline to conduct a case or to make a defense when convinced that it is intended merely to harass or to injure the opposing party, or to work oppression or wrong. Otherwise, it is the practitioner's right, and having accepted retainer, it becomes the practitioner's duty, to insist upon the judgment of the Board as to the merits of the client's claim. The practitioner's acceptance of a case is equivalent to the assertion that the client's case is proper for determination.
+
+(b) No practitioner is obliged to act either as adviser or advocate for every potential client. The practitioner has the right to decline employment. Every practitioner shall decide what employment he will accept, what cases he will bring before the Board for complainants, or contest for defendants or respondents.

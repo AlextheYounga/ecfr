@@ -1,0 +1,3 @@
+##### § 415.100 Scope. #####
+
+This subpart implements section 1887(a)(1)(A) of the Act by providing general conditions that must be met in order for services furnished by physicians to beneficiaries in providers to be paid for on the basis of the physician fee schedule under part 414 of this chapter. Section 415.102 sets forth the conditions for fee schedule payment for physician services to beneficiaries in providers. Section 415.105 sets forth general requirements for determining the amounts of payment for services that meet the conditions of this section. Sections 415.120 and 415.130 set forth additional conditions for payment for physician services in the specialties of radiology and pathology (laboratory services).

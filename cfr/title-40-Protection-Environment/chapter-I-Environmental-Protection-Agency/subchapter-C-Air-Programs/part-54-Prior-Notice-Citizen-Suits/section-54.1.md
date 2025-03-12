@@ -1,0 +1,3 @@
+##### § 54.1 Purpose. #####
+
+Section 304 of the Clean Air Act, as amended, authorizes the commencement of civil actions to enforce the Act or to enforce certain requirements promulgated pursuant to the Act. The purpose of this part is to prescribe procedures governing the giving of notices required by subsection 304(b) of the Act (sec. 12, Pub. L. 91-604; 84 Stat. 1706) as a prerequisite to the commencement of such actions.

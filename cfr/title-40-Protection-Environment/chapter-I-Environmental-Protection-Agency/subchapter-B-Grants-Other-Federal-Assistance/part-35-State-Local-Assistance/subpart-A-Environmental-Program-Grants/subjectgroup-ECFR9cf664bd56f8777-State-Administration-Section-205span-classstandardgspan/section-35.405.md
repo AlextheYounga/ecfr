@@ -1,0 +1,3 @@
+##### § 35.405 Maintenance of effort. #####
+
+To receive funds under section 205(g), a State agency must expend annually for recurrent section 106 program expenditures an amount of non-federal funds at least equal to such expenditures during fiscal year 1977, unless the Regional Administrator determines that the reduction is attributable to a non-selective reduction of expenditures in State executive branch agencies (see § 35.165).

@@ -1,0 +1,5 @@
+##### § 650.14 Action for removal of receiver or conservator. #####
+
+Upon the appointment of a receiver or conservator for the Corporation by the Farm Credit Administration Board pursuant to § 650.50 of this subpart, the Corporation may, within 30 days of such appointment, bring an action in the United States District Court for the District of Columbia, for an order requiring the Farm Credit Administration Board to remove the receiver or conservator and, if the charter has been canceled, to rescind the cancellation of the charter. Notwithstanding any other provision of this part, the Corporation's board of directors is empowered to meet subsequent to such appointment and authorize the filing of an action for removal. An action for removal may be authorized only by the Corporation's board of directors.
+
+[62 FR 43636, Aug. 15, 1997. Redesignated at 70 FR 40650, July 14, 2005. Further redesignated at 81 FR 49151, July 27, 2016]

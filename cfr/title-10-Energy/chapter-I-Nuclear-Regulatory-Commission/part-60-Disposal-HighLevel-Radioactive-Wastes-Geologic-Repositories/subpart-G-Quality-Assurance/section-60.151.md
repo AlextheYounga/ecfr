@@ -1,0 +1,3 @@
+##### § 60.151 Applicability. #####
+
+The quality assurance program applies to all systems, structures and components important to safety, to design and characterization of barriers important to waste isolation and to activities related thereto. These activities include: site characterization, facility and equipment construction, facility operation, performance confirmation, permanent closure, and decontamination and dismantling of surface facilities.

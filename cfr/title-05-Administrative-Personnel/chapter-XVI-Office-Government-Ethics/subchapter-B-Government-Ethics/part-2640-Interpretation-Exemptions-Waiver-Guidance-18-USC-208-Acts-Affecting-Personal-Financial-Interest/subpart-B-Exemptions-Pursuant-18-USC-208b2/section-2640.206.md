@@ -1,0 +1,3 @@
+##### § 2640.206 Existing agency exemptions. #####
+
+An employee who, prior to January 17, 1997, acted in an official capacity in a particular matter in which he had a financial interest, will be deemed to have acted in accordance with applicable regulations if he acted in reliance on an exemption issued by his employing Government agency pursuant to 18 U.S.C. 208(b)(2), as in effect prior to November 30, 1989.

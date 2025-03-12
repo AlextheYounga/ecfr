@@ -1,0 +1,23 @@
+##### § 531.247 Maximum payable rate rule for GM employees. #####
+
+(a) A rate received by a GM employee may qualify as a highest previous rate under § 531.222.
+
+(b) As provided in §§ 531.221(a) and 531.241(b), if an employee loses status as a GM employee because of a transfer, promotion, demotion, or reassignment to a position in which the employee will no longer be a supervisor or management official, and if the employing agency after the action chooses to apply the maximum payable rate rule, the agency must follow the rules in § 531.221.
+
+(c) If an employee retains GM status after an action that allows application of the maximum payable rate rule in § 531.221 to set the employee's pay, the rules in § 531.221 must be applied in accordance with the following special provisions:
+
+(1) In comparing the employee's highest previous rate to an applicable rate range for the grade in which pay is being set, do not identify the lowest step rate that equals or exceeds the highest previous rate. Instead, identify the rate in the rate range that equals the highest previous rate unless that highest previous rate is below the range minimum or above the range maximum. If the highest previous rate is below the range minimum, identify the minimum rate (step 1) of the grade. If the highest previous rate is above the range maximum, identify the maximum rate (step 10) of the grade.
+
+(2) In applying § 531.221(b) for an employee whose highest previous rate is a GS rate, the highest previous rate must be compared to the GS rate range for the grade in which pay is currently being set, but which was in effect at the time the highest previous rate was earned. If the highest previous rate was earned while the current GS rate range was in effect, the rate identified under paragraph (c)(1) of this section is the maximum payable GS rate. Otherwise, based on the rate identified in paragraph (c)(1) of this section, the agency must determine the corresponding rate in the current GS rate range for the grade in which pay is currently being set. That corresponding rate is the maximum payable GS rate. If the highest previous rate was above the range minimum and below the range maximum, the corresponding rate in the current GS rate range must be derived as follows:
+
+|Step A|                        Find the difference between the employee's highest previous rate and the minimum rate for the GS rate range (for the employee's current grade) in effect at the time the highest previous rate was earned.                         |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Step B|              Find the difference between the maximum rate and the minimum GS rate for the rate range identified in step A. (If the GS maximum rate was not payable because of the EX level V pay limitation, use the uncapped maximum rate.)              |
+|Step C|          Divide the result from step A by the result from step B. Carry this result to the seventh decimal place and truncate, rather than round, the result. This decimal factor represents the employee's relative position in the rate range.          |
+|Step D|Using the current GS rate range (for the employee's current grade), find the difference between the maximum rate and the minimum rate. (If the maximum GS rate was not payable because of the EX level V pay limitation, use the uncapped maximum GS rate.)|
+|Step E|                                                                                            Multiply the result from step D by the factor derived under step C.                                                                                            |
+|Step F|  Add the result from step E to the minimum rate for the employee's current GS rate range and round to the next higher whole dollar. This rate is the maximum payable GS rate the agency may pay the employee (subject to the EX level V pay limitation).  |
+
+(3) In applying § 531.221(c) for an employee whose highest previous rate is a special rate, the highest previous rate (after any geographic conversion) must be compared directly to the current highest applicable rate range for the employee's position of record and official worksite after reassignment. Thus, the rate identified under paragraph (c)(1) of this section is the maximum payable rate of basic pay.
+
+[70 FR 31291, May 31, 2005, as amended at 73 FR 66153, Nov. 7, 2008]

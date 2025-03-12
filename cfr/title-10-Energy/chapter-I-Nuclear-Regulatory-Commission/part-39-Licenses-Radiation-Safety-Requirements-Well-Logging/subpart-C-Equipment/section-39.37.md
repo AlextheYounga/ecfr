@@ -1,0 +1,3 @@
+##### § 39.37 Physical inventory. #####
+
+Each licensee shall conduct a semi-annual physical inventory to account for all licensed material received and possessed under the license. The licensee shall retain records of the inventory for 3 years from the date of the inventory for inspection by the Commission. The inventory must indicate the quantity and kind of licensed material, the location of the licensed material, the date of the inventory, and the name of the individual conducting the inventory. Physical inventory records may be combined with leak test records.

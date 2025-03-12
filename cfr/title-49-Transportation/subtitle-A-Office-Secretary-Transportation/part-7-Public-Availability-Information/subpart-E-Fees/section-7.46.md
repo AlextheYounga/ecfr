@@ -1,0 +1,5 @@
+##### § 7.46 How are late payments handled? #####
+
+(a) DOT assesses interest on an unpaid bill starting on the 31st day following the day on which the notice of the amount due is first mailed to the requester. Interest accrues from the date of the notice of amount due at the rate prescribed in 31 U.S.C. 3717. Receipt by DOT of a payment for the full amount of the fees owed within 30 calendar days after the date of the initial billing stops the accrual of interest, even if the payment has not been processed.
+
+(b) If DOT does not receive payment of the fees charged within 30 calendar days after the date the initial notice of the amount due is first mailed to the requester, DOT assesses an administrative charge to cover the cost of processing and handling the delinquent claim. In addition, DOT applies a penalty charge with respect to any principal amount of a debt that is more than 90 days past due. Where appropriate, DOT uses other steps permitted by Federal debt collection statutes, including disclosure to consumer reporting agencies and use of collection agencies, to encourage payment of amounts overdue.

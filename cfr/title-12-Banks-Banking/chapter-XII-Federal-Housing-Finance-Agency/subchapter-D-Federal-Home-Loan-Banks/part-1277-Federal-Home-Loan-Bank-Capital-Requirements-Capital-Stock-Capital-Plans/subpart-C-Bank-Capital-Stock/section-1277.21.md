@@ -1,0 +1,3 @@
+##### § 1277.21 Issuance of capital stock. #####
+
+A Bank may issue either one or both classes of its capital stock (including subclasses), as authorized by § 1277.20, and shall not issue any other class of capital stock. A Bank shall issue its stock only to its members, or to former members to the extent those institutions are required to maintain a minimum stock investment for existing activities under the capital plan, and only in book-entry form. The Bank shall act as its own transfer agent. All capital stock shall be issued in accordance with the Bank's capital plan.

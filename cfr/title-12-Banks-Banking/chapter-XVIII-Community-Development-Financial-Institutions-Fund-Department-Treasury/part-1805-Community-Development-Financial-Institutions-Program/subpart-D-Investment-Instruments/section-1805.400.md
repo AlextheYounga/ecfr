@@ -1,0 +1,3 @@
+##### § 1805.400 Investment instruments—general. #####
+
+The CDFI Fund will provide financial assistance to a Recipient through one or more of the investment instruments described in § 1805.401, and under such terms and conditions as described in this subpart D. The CDFI Fund, in its sole discretion, may provide financial assistance in amounts, through investment instruments, or under rates, terms and conditions that are different from those requested by an Applicant.

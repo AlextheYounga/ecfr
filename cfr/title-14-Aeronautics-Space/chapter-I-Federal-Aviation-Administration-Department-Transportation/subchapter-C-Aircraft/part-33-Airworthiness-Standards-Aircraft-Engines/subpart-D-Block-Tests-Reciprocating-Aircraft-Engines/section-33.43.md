@@ -1,0 +1,11 @@
+##### § 33.43 Vibration test. #####
+
+(a) Each engine must undergo a vibration survey to establish the torsional and bending vibration characteristics of the crankshaft and the propeller shaft or other output shaft, over the range of crankshaft speed and engine power, under steady state and transient conditions, from idling speed to either 110 percent of the desired maximum continuous speed rating or 103 percent of the maximum desired takeoff speed rating, whichever is higher. The survey must be conducted using, for airplane engines, the same configuration of the propeller type which is used for the endurance test, and using, for other engines, the same configuration of the loading device type which is used for the endurance test.
+
+(b) The torsional and bending vibration stresses of the crankshaft and the propeller shaft or other output shaft may not exceed the endurance limit stress of the material from which the shaft is made. If the maximum stress in the shaft cannot be shown to be below the endurance limit by measurement, the vibration frequency and amplitude must be measured. The peak amplitude must be shown to produce a stress below the endurance limit; if not, the engine must be run at the condition producing the peak amplitude until, for steel shafts, 10 million stress reversals have been sustained without fatigue failure and, for other shafts, until it is shown that fatigue will not occur within the endurance limit stress of the material.
+
+(c) Each accessory drive and mounting attachment must be loaded, with the loads imposed by each accessory used only for an aircraft service being the limit load specified by the applicant for the drive or attachment point.
+
+(d) The vibration survey described in paragraph (a) of this section must be repeated with that cylinder not firing which has the most adverse vibration effect, in order to establish the conditions under which the engine can be operated safely in that abnormal state. However, for this vibration survey, the engine speed range need only extend from idle to the maximum desired takeoff speed, and compliance with paragraph (b) of this section need not be shown.
+
+[Amdt. 33-6, 39 FR 35465, Oct. 1, 1974, as amended by Amdt. 33-10, 49 FR 6851, Feb. 23, 1984]

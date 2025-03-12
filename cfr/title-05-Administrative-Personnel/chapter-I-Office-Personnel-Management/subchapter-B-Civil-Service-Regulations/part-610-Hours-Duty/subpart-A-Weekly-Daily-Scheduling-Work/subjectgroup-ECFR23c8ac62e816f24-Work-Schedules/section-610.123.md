@@ -1,0 +1,3 @@
+##### § 610.123 Travel on official time. #####
+
+Insofar as practicable travel during nonduty hours shall not be required of an employee. When it is essential that this be required and the employee may not be paid overtime under § 550.112(e) of this chapter the official concerned shall record his reasons for ordering travel at those hours and shall, upon request, furnish a copy of his statement to the employee concerned.

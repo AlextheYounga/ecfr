@@ -1,0 +1,3 @@
+##### 1503.602 Exceptions. #####
+
+The Assistant Administrator for the Office of Administration and Resources Management may authorize an exception, in writing, to the policy in FAR 3.601 and 1503.601 for the reasons stated in FAR 3.602, if the exception would not involve a violation of 18 U.S.C. 203, 18 U.S.C. 205, 18 U.S.C. 207, 18 U.S.C. 208, the Standards of Ethical Conduct for Employees of the Executive Branch at 5 CFR part 2635, or the EPA supplemental regulations at 5 CFR part 6401. The Assistant Administrator shall consult with the Designated Agency Ethics Official before authorizing any exceptions.

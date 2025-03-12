@@ -1,0 +1,3 @@
+##### § 84.50 Types of respirators to be approved; scope of approval. #####
+
+Approvals shall be issued for the types of respirators which have been classified pursuant to this subpart F, have been inspected, examined and tested by the Institute, in accordance with the provisions of subparts G through L of this part, and have been found to provide respiratory protection for fixed periods of time against the hazards specified in such approval.

@@ -1,0 +1,3 @@
+##### § 1400.10 Limitation on public dissemination. #####
+
+Except as authorized by this part and by 42 U.S.C. 7412(r)(7)(H)(v)(III), Federal, State, and local government officials, and qualified researchers are prohibited from disseminating OCA information and OCA rankings to the public. Violation of this provision subjects the violator to criminal liability as provided in 42 U.S.C. 7412(r)(7)(H)(v) and civil liability as provided in 42 U.S.C. 7413.

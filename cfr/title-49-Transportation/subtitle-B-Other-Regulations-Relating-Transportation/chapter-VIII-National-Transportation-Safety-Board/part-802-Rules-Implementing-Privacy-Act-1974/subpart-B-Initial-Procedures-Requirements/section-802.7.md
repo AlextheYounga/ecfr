@@ -1,0 +1,21 @@
+##### § 802.7 Requests: How, where, and when presented; verification of identity of individuals making requests; accompanying persons; and procedures for acknowledgment of requests. #####
+
+(a) *Requests—general.* Requests may be made in person or in writing. Assistance regarding requests or other matters relating to the Act may be obtained by writing to the Director, Bureau of Administration, National Transportation Safety Board, 800 Independence Avenue, SW., Washington, DC 20594. The Director, Bureau of Administration, or his designee, on request, will aid an individual in preparing an amendment to the record or to an appeal following denial of a request to amend the record, pursuant to subsection (f)(4) of the Act.
+
+(b) *Written requests.* Written requests shall be made to the Director, Bureau of Administration at the address given above, and shall clearly state on the envelope and on the request itself, “Privacy Act Request,” “Privacy Act Statement of Disagreement,” “Privacy Act Disclosure Accounting Request,” “Appeal from Privacy Act Adverse Determination,” or “Privacy Act Correction Request,” as the case may be. Actual receipt by the Director, Bureau of Administration, or his designee, shall constitute receipt.
+
+(c) *Requests made in person.* Requests may be made in person during official working hours of the NTSB at the office where the record is located, as listed in the “Notice of Systems of Records” for the system in which the record is contained.
+
+(d) *Verification of identity of requester.* (1) For written requests, the requester's identity must be verified before the release of any record, unless exempted under the FOIA. This may be accomplished by adequate proof of identity in the form of a driver's license or other acceptable item of the same type.
+
+(2) For requests in person, the requester's identity may be established by a single document bearing a photograph (such as a passport or identification badge) or by two items of identification containing name, address, and signature (such as a driver's license or credit card).
+
+(3) Where a request is made for reproduced records which are to be delivered by mail, the request must include a notarized statement verifying the requester's identity.
+
+(e) *Inability to provide requisite documentation of identity.* A requester who cannot provide the necessary documentation of identity may provide a notarized statement, swearing or affirming his identity and the fact that he is aware of the penalties for false statement imposed pursuant to 18 U.S.C. 1001, and subsection (i)(3) of the Act. Where requested, the Director, Bureau of Administration, or his designee, will assist the requester in formulating the necessary document.
+
+(f) *Accompanying persons.* A requester may wish to have a person of his choice accompany him to review the requested record. Prior to the release of the record, the NTSB will require the requester to furnish the Director, Bureau of Administration or his designee, with a written statement authorizing disclosure of the record in the accompanying person's presence.
+
+(g) *Acknowledgment of requests.* Written requests to verify the existence of, to obtain access to, or to correct or amend records about the requester maintained by NTSB in any system of records subject to the Act, shall be acknowledged in writing by the Director, Bureau of Administration, or his designee, within 3 working days after the date of actual receipt of the request by the Director, Bureau of Administration, or his designee. The acknowledgment shall advise the requester of the need for any additional information to process the request. Wherever practicable, the acknowledgment shall notify the individual whether his request has been granted or denied. When a request is made in person, every effort will be made to determine immediately whether the request will be granted. If such decision cannot be made, the request will be processed in the same manner as a written request. Records will be made available for immediate inspection whenever possible.
+
+[41 FR 22358, June 3, 1976, as amended at 41 FR 43154, Sept. 30, 1976]

@@ -1,0 +1,5 @@
+##### § 73.3593 Designation for hearing. #####
+
+If the FCC is unable, in the case of any application for an instrument of authorization, to make the findings specified in § 73.3591(a), it will formally designate the application for hearing on the grounds or reasons then obtaining and will forthwith notify the applicant and all known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. If, however, the issue to be resolved is limited to the mutual exclusivity of applications for initial authorizations or for major changes to existing stations, that mutual exclusivity shall be resolved pursuant to competitive bidding procedures identified in subpart I (unreserved channels) or point system procedures identified in subpart K (reserved channels).
+
+[65 FR 36379, June 8, 2000]

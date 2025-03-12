@@ -1,0 +1,3 @@
+##### § 66.91 Applicability of supplemental rules. #####
+
+The Supplemental Rules in this subpart, in conjunction with the Consolidated Rules of Practice (40 CFR part 22) shall govern all hearings held under this part. To the extent that the provisions of these Supplemental Rules or any other provision of this part are inconsistent with the Consolidated Rules, the provisions of this part shall govern.

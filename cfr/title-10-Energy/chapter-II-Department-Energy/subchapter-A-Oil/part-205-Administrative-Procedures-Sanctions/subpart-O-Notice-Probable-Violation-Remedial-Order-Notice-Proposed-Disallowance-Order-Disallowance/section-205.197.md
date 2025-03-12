@@ -1,0 +1,5 @@
+##### § 205.197 Response to statement of objections; reply. #####
+
+(a) Within 30 days after service of a Statement of Objections each participant may file a Response. If any motions are served with the Statement of Objections, a participant shall have 30 days from the date of service to respond to such submissions, notwithstanding any shorter time periods otherwise required in this subpart. The Response shall contain a full discussion of the position asserted and a discussion of the legal and factual bases which support that position. The Response may also contain a request that any issue of fact or law advanced in a Statement of Objections be dismissed. Any such request shall be accompanied by a full discussion of the reasons supporting the dismissal.
+
+(b) A participant may submit a Reply to any Response within 10 days after the date of service of the Response.

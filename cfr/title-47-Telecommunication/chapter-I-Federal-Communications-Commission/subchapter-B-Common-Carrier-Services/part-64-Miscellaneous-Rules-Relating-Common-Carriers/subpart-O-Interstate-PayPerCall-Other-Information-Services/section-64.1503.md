@@ -1,0 +1,7 @@
+##### § 64.1503 Termination of pay-per-call and other information programs. #####
+
+(a) Any common carrier assigning a telephone number to a provider of interstate pay-per-call service shall specify by contract or tariff that pay-per-call programs not in compliance with § 64.1502 shall be terminated following written notice to the information provider. The information provider shall be afforded a period of no less than seven and no more than 14 days during which a program may be brought into compliance. Programs not in compliance at the expiration of such period shall be terminated immediately.
+
+(b) Any common carrier providing transmission or billing and collection services to a provider of interstate information service through any 800 telephone number, or other telephone number advertised or widely understood to be toll-free, shall promptly investigate any complaint that such service is not provided in accordance with § 64.1504 or § 64.1510(c), and, if the carrier reasonably determines that the complaint is valid, may terminate the provision of service to an information provider unless the provider supplies evidence of a written agreement that meets the requirements of this § 64.1504(c)(1).
+
+[61 FR 39087, July 26, 1996]

@@ -1,0 +1,5 @@
+##### § 205.50 Applicability. #####
+
+(a) Except as otherwise provided for in these regulations the provisions of this subpart apply to any vehicle which has a gross vehicle weight rating (GVWR) in excess of 10,000 pounds, which is capable of transportation of property on a highway or street and which meets the definition of the term “new product” in the Act.
+
+(b) The provisions of the subpart do not apply to highway, city, and school buses or to special purpose equipment which may be located on or operated from vehicles. Tests performed on vehicles containing such equipment may be carried out with the special purpose equipment in nonoperating condition. For purposes of this regulation special purpose equipment includes, but is not limited to, construction equipment, snow plows, garbage compactors and refrigeration equipment.

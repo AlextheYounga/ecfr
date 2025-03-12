@@ -1,0 +1,3 @@
+##### § 403.900 Purpose and scope. #####
+
+The regulations in this subpart implement section 1128G of the Act. These regulations apply to applicable manufacturers and applicable group purchasing organizations and describe the requirements and procedures for applicable manufacturers to report payments or other transfers of value provided to covered recipients, as well as for applicable manufacturers and applicable group purchasing organizations to report ownership or investment interests held by physicians or immediate family members of physicians in such entities.

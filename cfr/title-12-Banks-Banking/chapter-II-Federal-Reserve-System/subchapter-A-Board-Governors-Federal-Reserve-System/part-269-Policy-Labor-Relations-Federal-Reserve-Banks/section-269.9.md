@@ -1,0 +1,3 @@
+##### § 269.9 Mediation of negotiation impasses. #####
+
+In the event of an impasse in negotiations between the parties for a collective bargaining agreement, either the labor organization or the Bank may request the appointment of a qualified neutral person as a mediator to assist the parties in attempting to resolve the impasse. The parties will meet promptly with the mediator, and all matters discussed, as well as any documents submitted, shall not be publicly divulged for any reason. The cost of the mediator shall be borne equally by the parties.

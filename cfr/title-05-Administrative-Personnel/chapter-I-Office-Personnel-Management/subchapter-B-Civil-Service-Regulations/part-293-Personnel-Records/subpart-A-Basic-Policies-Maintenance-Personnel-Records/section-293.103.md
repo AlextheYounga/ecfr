@@ -1,0 +1,7 @@
+##### § 293.103 Recordkeeping standards. #####
+
+(a) The head of each agency shall ensure that persons having access to or involved in the creation, development, processing, use, or maintenance of personnel records are informed of pertinent recordkeeping regulations and requirements of the Office of Personnel Management and the agency. Authority to maintain personnel records does not constitute authority to maintain information in the record merely because it may be useful; both Government-wide and internal agency personnel records shall contain only information concerning an individual that is relevant and necessary to accomplish the Federal personnel management purposes required by statute, Executive order, or Office regulation.
+
+(b) The Office is responsible for establishing minimum standards of accuracy, relevancy, necessity, timeliness, and completeness for personnel records it requires agencies to maintain. These standards are discussed in appropriate chapters of the Guide to Personnel Recordkeeping. Before approval of any agency requests for changes in recordkeeping practices governed by the Guide to Personnel Recordkeeping, the Office will examine the proposal or request in the context of such standards set forth by the agency in support of the proposal and in light of the personnel program area that requires these records.
+
+[44 FR 65033, Nov. 9, 1979, as amended at 66 FR 66709, Dec. 27, 2001]

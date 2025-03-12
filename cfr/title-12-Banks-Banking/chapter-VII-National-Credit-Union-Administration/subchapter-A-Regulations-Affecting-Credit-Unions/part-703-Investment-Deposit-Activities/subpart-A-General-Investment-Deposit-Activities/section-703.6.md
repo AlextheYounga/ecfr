@@ -1,0 +1,3 @@
+##### § 703.6 Credit analysis. #####
+
+A Federal credit union must conduct and document a credit analysis on an investment and the issuing entity before purchasing it, except for investments issued or fully guaranteed as to principal and interest by the U.S. government or its agencies, enterprises, or corporations or fully insured (including accumulated interest) by the National Credit Union Administration or the Federal Deposit Insurance Corporation. A Federal credit union must update this analysis at least annually for as long as it holds the investment.

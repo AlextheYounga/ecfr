@@ -1,0 +1,3 @@
+##### § 541.19 Interim state savings association. #####
+
+The term *interim state savings association* means a savings association, other than a Federal savings association, the accounts of which are insured by the FDIC to facilitate the acquisition of 100 percent of the voting shares of an existing Federal stock savings association or other insured stock savings association by a newly formed company or an existing savings and loan holding company or to facilitate any other transaction the Office may approve.

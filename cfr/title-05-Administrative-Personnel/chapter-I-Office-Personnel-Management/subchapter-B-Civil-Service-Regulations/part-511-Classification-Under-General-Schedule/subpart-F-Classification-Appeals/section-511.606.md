@@ -1,0 +1,7 @@
+##### § 511.606 Form and content of an appeal. #####
+
+(a) *Employee appeal.* An employee's appeal shall be in writing, and shall contain the reasons why the employee believes his or her position is erroneously classified, or should be brought under or excluded from chapter 51 of title 5, United States Code. The agency, when forwarding the employee's appeal or when requested by the Office, shall furnish all relevant facts concerning the position and the agency's justification for its classification decision. The agency shall also comment on the information submitted by the employee if requested to do so by the Office. Either the employee or agency may submit relevant information to the Office at any time following the initial filing of an appeal.
+
+(b) *Agency appeal.* An agency's appeal shall be in writing, and shall contain its reasons and justification for requesting a review of the Office's certificate.
+
+(c) *Inspection of the Office's appellate record.* The employee, an employee's representative and the agency will be permitted to inspect the Office's appellate record on request. Agencies will make available to appellants copies of any and all information submitted by the agency to the Office with respect to the appellant's individual appeal.

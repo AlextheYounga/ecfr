@@ -1,0 +1,3 @@
+##### 4.1303 Contract clause. #####
+
+The contracting officer shall insert the clause at 52.204-9, Personal Identity Verification of Contractor Personnel, in solicitations and contracts when contract performance requires contractors to have routine physical access to a Federally-controlled facility and/or routine access to a Federally-controlled information system. The clause shall not be used when contractors require only intermittent access to Federally-controlled facilities.

@@ -1,0 +1,9 @@
+##### § 310.4 Times, places, and requirements for identification of individuals making requests. #####
+
+(a) Individuals may request access to records pertaining to themselves by submitting a written request as provided in § 310.3 of these regulations, or by appearing in person on weekdays, other than official holidays, at the Federal Deposit Insurance Corporation, Attn: FOIA/PA Group, 550 17th Street, NW., Washington, DC 20429, between the hours of 8:30 a.m. and 5 p.m.
+
+(b) Individuals appearing in person at the Corporation seeking access to or amendment of their records shall present two forms of reasonable identification, such as employment identification cards, driver's licenses, or other identification cards or documents typically used for identification purposes.
+
+(c) Except for records that must be publicly disclosed pursuant to the Freedom of Information Act, 5 U.S.C. 552, where the Corporation determines it to be necessary for the individual's protection, a certification of a duly commissioned notary public, of any state or territory, attesting to the requesting individual's identity, or an unsworn declaration subscribed to as true under the penalty of perjury under the laws of the United States of America, at the election of the individual, may be required before a written request seeking access to or amendment of a record will be honored. The Corporation may also require that individuals provide minimal identifying data such as full name, date and place of birth, or other personal information necessary to ensure proper identity before processing requests for records.
+
+[40 FR 46274, Oct. 6, 1975, as amended at 42 FR 6796, Feb. 4, 1977; 61 FR 43419, Aug. 23, 1996; 67 FR 71071, Nov. 29, 2002; 76 FR 35966, June 21, 2011]

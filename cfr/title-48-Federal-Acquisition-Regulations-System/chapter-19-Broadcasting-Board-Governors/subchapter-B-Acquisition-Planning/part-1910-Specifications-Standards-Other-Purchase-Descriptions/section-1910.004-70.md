@@ -1,0 +1,9 @@
+##### 1910.004-70 Brand name products or equal. #####
+
+(a) *General.* Consistent with the policy stated in FAR 10.004(a)(2), the Broadcasting Board of Governors acquisitions will generally not be based on a specifically identified product or feature(s) thereof. However, under unusual circumstances such an approach may be used as described below.
+
+(b) *Citing brand name products.* Brand name or equal purchase descriptions shall cite all brand name products known to be acceptable and of current manufacture. If the use of a brand name or equal purchase description results in the purchase of an acceptable brand name product which was not listed as an “equal” product, a reference to that brand name product should be included in the purchase description for later acquisitions. If a brand name product is no longer applicable, the reference thereto shall be deleted from subsequent purchase description.
+
+(c) *Specifying essential characteristics.* (1) It is imperative that brand name or equal purchase descriptions specify each physical or functional characteristic of the product that is essential to the intended use. Failure to do so may result in a defective solicitation and the necessity to resolicit the requirements. (See 1910.004-73.) Care must be taken to avoid specifying characteristics that cannot be shown to materially affect the intended end use and which unnecessarily restrict competition.
+
+(2) When describing essential characteristics, permissible tolerances should be indicated. Avoid specifying a characteristic (e.g., a specific dimension) of a brand name product unless it is essential to the Government's need. The contracting officer must be able to justify the requirement.

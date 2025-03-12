@@ -1,0 +1,3 @@
+##### § 7.108 Power package checklist. #####
+
+Each diesel power package bearing an MSHA approval plate shall be accompanied by a power package checklist. The power package checklist shall consist of a list of specific features that must be checked and tests that must be performed to determine if a previously approved diesel power package is in approved condition. Test procedures shall be specified in sufficient detail to allow evaluation to be made without reference to other documents. Illustrations shall be used to fully identify the approved configuration of the diesel power package.

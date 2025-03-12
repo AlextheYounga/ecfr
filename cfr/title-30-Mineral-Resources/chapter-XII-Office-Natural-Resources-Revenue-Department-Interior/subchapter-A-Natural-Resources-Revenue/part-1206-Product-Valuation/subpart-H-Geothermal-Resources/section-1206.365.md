@@ -1,0 +1,3 @@
+##### § 1206.365 Does ONRR protect information I provide? #####
+
+Certain information you submit to ONRR regarding royalties or fees on geothermal resources or byproducts, including deductions and allowances, may be exempt from disclosure. To the extent applicable laws and regulations permit, ONRR will keep confidential any data you submit that is privileged, confidential, or otherwise exempt from disclosure. All requests for information must be submitted under the Freedom of Information Act regulations of the Department of the Interior at 43 CFR part 2.

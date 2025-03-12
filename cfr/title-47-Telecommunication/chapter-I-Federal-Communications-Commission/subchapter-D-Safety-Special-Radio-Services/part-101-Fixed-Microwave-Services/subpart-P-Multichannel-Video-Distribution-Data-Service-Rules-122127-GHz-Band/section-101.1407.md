@@ -1,0 +1,3 @@
+##### § 101.1407 Permissible operations for MVDDS. #####
+
+MVDDS licensees must use spectrum in the 12.2-12.7 GHz band for any digital fixed non-broadcast service (broadcast services are intended for reception of the general public and not on a subscribership basis) including one-way direct-to-home/office wireless service. Mobile and aeronautical services are not authorized. Two-way services may be provided by using other spectrum or media for the return or upstream path.

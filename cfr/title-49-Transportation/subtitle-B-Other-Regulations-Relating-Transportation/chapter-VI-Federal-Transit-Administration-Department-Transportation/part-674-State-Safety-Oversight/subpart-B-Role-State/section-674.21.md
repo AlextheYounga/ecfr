@@ -1,0 +1,5 @@
+##### § 674.21 Withholding of Federal financial assistance for noncompliance. #####
+
+(a) In making a decision to impose financial penalties as authorized by 49 U.S.C. 5329(e), and determining the nature and amount of the financial penalties, the Administrator shall consider the extent and circumstances of the noncompliance; the operating budgets of the SSOA and the rail fixed guideway public transportation systems that will be affected by the financial penalties; and such other matters as justice may require.
+
+(b) If a State fails to establish a SSO program that has been approved by the Administrator within three years of the effective date of this part, FTA will be prohibited from obligating Federal financial assistance apportioned under 49 U.S.C. 5338 to any entity in the State that is otherwise eligible to receive that Federal financial assistance, in accordance with 49 U.S.C. 5329(e)(3).

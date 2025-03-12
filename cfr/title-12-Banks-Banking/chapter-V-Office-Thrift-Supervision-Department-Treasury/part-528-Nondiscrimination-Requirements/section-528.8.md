@@ -1,0 +1,3 @@
+##### § 528.8 Complaints. #####
+
+Complaints regarding discrimination in lending by a savings association shall be referred to the Assistant Secretary for Fair Housing and Equal Opportunity, U.S. Department of Housing and Urban Development, Washington, DC 20410 for processing under the Fair Housing Act, and to the Director, Consumer Affairs, Office of Thrift Supervision, Washington, DC 20552 for processing under Office regulations. Complaints regarding discrimination in employment by a savings association should be referred to the Equal Employment Opportunity Commission, Washington, DC 20506 and a copy, for information only, sent to the Director, Consumer Affairs, Office of Thrift Supervision, Washington, DC 20552.

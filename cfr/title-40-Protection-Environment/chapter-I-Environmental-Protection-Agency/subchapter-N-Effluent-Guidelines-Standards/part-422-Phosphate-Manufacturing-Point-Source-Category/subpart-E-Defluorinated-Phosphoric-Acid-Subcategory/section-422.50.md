@@ -1,0 +1,3 @@
+##### § 422.50 Applicability; description of the defluorinated phosphoric acid subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the defluorination of phosphoric acid. Wet process phosphoric acid is dehydrated by application of heat and other processing acids such as vacuum and air stripping. The acid is concentrated up to 70-73% P2 O5 in the defluorination process.

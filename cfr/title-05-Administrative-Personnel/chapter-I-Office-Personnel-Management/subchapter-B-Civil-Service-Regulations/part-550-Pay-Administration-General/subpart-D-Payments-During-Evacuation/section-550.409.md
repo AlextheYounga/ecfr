@@ -1,0 +1,9 @@
+##### § 550.409 Evacuation payments during a pandemic health crisis. #####
+
+(a) An agency may order one or more employees to evacuate from their worksite and perform work from their home (or an alternative location mutually agreeable to the agency and the employee) during a pandemic health crisis without regard to whether the agency and the employee have a telework agreement in place at the time the order to evacuate is issued. Under these circumstances, an agency may designate the employee's home (or an alternative location mutually agreeable to the agency and the employee) as a safe haven and provide evacuation payments to the employee. An agency must compute the evacuation payments and determine the time period during which such payments will be made in accordance with § 550.404. An evacuated employee at a safe haven may be assigned to perform any work considered necessary or required to be performed during the period of evacuation without regard to his or her grade, level, or title. The employee must have the necessary knowledge and skills to perform the assigned work. Failure or refusal to perform assigned work may be a basis for terminating evacuation payments, as well as disciplinary action.
+
+(b) The head of an agency, in his or her sole and exclusive discretion, may grant special allowance payments, based upon a case-by-case analysis, to offset the direct added expenses incidental to performing work from home (or an alternative location mutually agreeable to the agency and the employee) during a pandemic health crisis.
+
+(c) An agency may terminate evacuation payments under the conditions listed in § 550.407. An agency must make any necessary adjustments in pay consistent with § 550.408 after the evacuation is terminated.
+
+[71 FR 47693, Aug. 17, 2006, as amended at 72 FR 33148, June 15, 2007]

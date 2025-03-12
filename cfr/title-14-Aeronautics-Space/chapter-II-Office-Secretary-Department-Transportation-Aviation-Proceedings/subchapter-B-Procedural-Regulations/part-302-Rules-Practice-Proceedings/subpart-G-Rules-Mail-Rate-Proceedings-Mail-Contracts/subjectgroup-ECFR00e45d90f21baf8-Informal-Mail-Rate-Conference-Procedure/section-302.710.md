@@ -1,0 +1,3 @@
+##### § 302.710 Participants in conferences. #####
+
+The persons entitled to be present in mail rate conferences will be the representatives of the carrier whose rates are in issue, the staff of the U.S. Postal Service, and the authorized DOT employees. No other person will attend unless the DOT employees deem his or her presence necessary in the interest of one or more purposes to be accomplished, and in such case his or her participation will be limited to such specific purposes. No person, however, shall have the duty to attend merely by reason of invitation by the authorized DOT employees.

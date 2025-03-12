@@ -1,0 +1,5 @@
+##### § 575.512 When may an agency terminate a service agreement? #####
+
+(a) An agency may unilaterally terminate a service agreement based solely on the business needs of the agency. For example, an authorized agency official may terminate a service agreement when the employee's position is affected by a reduction in force or when there are insufficient funds to continue the planned incentive payments.
+
+(b) If an agency terminates a service agreement under paragraph (a) of this section, the employee is entitled to keep all incentive payments received and, if applicable, is entitled to receive any additional amount representing the difference between the amount received and the prorated share of the total incentive attributable to completed service. The employee may receive a portion or all of the incentive payment attributable to uncompleted service only to the extent provided in the service agreement.

@@ -1,0 +1,7 @@
+##### § 1040.11 Purpose and application. #####
+
+(a) The purpose of this subpart is to implement title VI of the Civil Rights Act of 1964 (title VI) and the pertinent regulations of DOE so that no person in the United States shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity receiving Federal financial assistance of the type subject to title VI. This subpart also implements section 16 of the Federal Energy Administration Act of 1974, as amended (section 16) and section 401 of the Energy Reorganization of 1974 (section 401) so that no person shall be excluded on the ground of sex from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance subject to section 16 or 401. The coverage of employment practices is explained in § 1040.14.
+
+(b) The application of this subpart is to delivery of services by and the covered employment practices of recipients and subrecipients administering or participating in any program or activity receiving Federal financial assistance under laws administered by DOE covered by title VI. In addition to services and employment practices, this subpart applies to any activities of recipients or subrecipients receiving Federal financial assistance subject to section 16 and section 401.
+
+[45 FR 40515, June 13, 1980, as amended at 68 FR 51347, Aug. 26, 2003]

@@ -1,0 +1,13 @@
+##### § 179.400-17 Inner tank piping. #####
+
+(a) *Product lines.* The piping system for vapor and liquid phase transfer and venting must be made for material compatible with the product and having satisfactory properties at the lading temperature. The outlets of all vapor phase and liquid phase lines must be located so that accidental discharge from these lines will not impinge on any metal of the outer jacket, car structures, trucks or safety appliances. Suitable provison must be made to allow for thermal expansion and contraction.
+
+(1) *Loading and unloading line.* A liquid phase transfer line must be provided and it must have a manually operated shut-off valve located as close as practicable to the outer jacket, plus a secondary closure that is liquid and gas tight. This secondary closure must permit any trapped pressure to bleed off before the closure can be removed completely. A vapor trap must be incorporated in the line and located as close as practicable to the inner tank. On a DOT-113A60W tank car, any loading and unloading line must be vacuum jacketed between the outer jacket and the shut-off valve and the shut-off valve must also be vacuum jacketed.
+
+(2) *Vapor phase line.* A vapor phase line must connect to the inner tank and must be of sufficient size to permit the pressure relief devices specified in § 179.400-20 and connected to this line to operate at their design capacity without excessive pressure build-up in the tank. The vapor phase line must have a manually operated shut-off valve located as close as practicable to the outer jacket, plus a secondary closure that is liquid and gas tight. This secondary closure must permit any trapped pressure to bleed off before the closure can be removed completely.
+
+(3) *Vapor phase blowdown line.* A blowdown line must be provided. It must be attached to the vapor phase line specified in paragraph (a)(2) of this section, upstream of the shut-off valve in that line. A by-pass line with a manually operated shut-off valve must be provided to permit reduction of the inner tank pressure when the vapor phase line is connected to a closed system. The discharge from this line must be outside the housing and must be directed upward and away from operating personnel.
+
+(b) Any pressure building system provided for the purpose of pressurizing the vapor space of the inner tank to facilitate unloading the liquid lading must be approved.
+
+[Amdt. 179-32, 48 FR 27708, June 16, 1983, as amended at 66 FR 45391, Aug. 28, 2001]

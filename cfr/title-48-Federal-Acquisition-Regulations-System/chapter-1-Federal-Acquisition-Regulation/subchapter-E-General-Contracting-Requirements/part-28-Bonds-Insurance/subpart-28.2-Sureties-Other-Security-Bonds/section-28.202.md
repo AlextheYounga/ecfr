@@ -1,0 +1,17 @@
+##### 28.202 Acceptability of corporate sureties. #####
+
+(a)(1) Corporate sureties offered for bonds furnished with contracts performed in the United States or its outlying areas must appear on the list contained in the Department of the Treasury Circular 570, “Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and Acceptable Reinsuring Companies.”
+
+(2) The penal amount of the bond should not exceed the surety's underwriting limit stated in the Department of the Treasury circular. If the penal amount exceeds the underwriting limit, the bond will be acceptable only if (i) the amount which exceeds the specified limit is coinsured or reinsured and (ii) the amount of coinsurance or reinsurance does not exceed the underwriting limit of each coinsurer or reinsurer.
+
+(3) Coinsurance or reinsurance agreements shall conform to the Department of the Treasury regulations in 31 CFR 223.10 and 223.11. When reinsurance is contemplated, the contracting office generally shall require reinsurance agreements to be executed and submitted with the bonds before making a final determination on the bonds.
+
+(4) When specified in the solicitation, the contracting officer may accept a bond from the direct writing company in satisfaction of the total bond requirement of the contract. This is permissible until necessary reinsurance agreements are executed, even though the total bond requirement may exceed the insurer's underwriting limitation. The contractor shall execute and submit necessary reinsurance agreements to the contracting officer within the time specified on the bid form, which may not exceed 45 calendar days after the execution of the bond. The contractor shall use Standard Form 273, Reinsurance Agreement for a Bonds Statute Performance Bond, and Standard Form 274, Reinsurance Agreement for a Bonds Statute Payment Bond, when reinsurance is furnished with the required performance or payment bonds. Standard Form 275, Reinsurance Agreement in Favor of the United States, is used when reinsurance is furnished with bonds for other purposes.
+
+(b) For contracts performed in a foreign country, sureties not appearing on Treasury Department Circular 570 are acceptable if the contracting officer determines that it is impracticable for the contractor to use Treasury listed sureties.
+
+(c) The Department of the Treasury issues supplements to Circular 570, notifying all Federal agencies of (1) new approved corporate surety companies and (2) the termination of the authority of any specific corporate surety to qualify as a surety on Federal bonds. Upon receipt of notification of termination of a company's authority to qualify as a surety on Federal bonds, the contracting officer shall review the outstanding contracts and take action necessary to protect the Government, including, where appropriate, securing new bonds with acceptable sureties in lieu of outstanding bonds with the named company.
+
+(d) The Department of the Treasury Circular 570 may be obtained from the U.S. Department of the Treasury, Financial Management Service, Surety Bond Branch, 3700 East West Highway, Room 6F01, Hyattsville, MD 20782. Or via the internet at *http://www.fms.treas.gov/c570/.*
+
+[48 FR 42286, Sept. 19, 1983, as amended at 54 FR 48986, Nov. 28, 1989; 68 FR 28083, May 22, 2003; 71 FR 67779, Nov. 22, 2006; 79 FR 24210, Apr. 29, 2014]

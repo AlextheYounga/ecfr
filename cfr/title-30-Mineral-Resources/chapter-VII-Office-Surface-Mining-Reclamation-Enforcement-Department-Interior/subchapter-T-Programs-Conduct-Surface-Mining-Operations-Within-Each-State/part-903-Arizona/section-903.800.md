@@ -1,0 +1,5 @@
+##### § 903.800 Bond and insurance requirements for surface coal mining and reclamation operations under regulatory programs. #####
+
+(a) Part 800 of this chapter, *Bond and Insurance Requirements for Surface Coal Mining and Reclamation Operations Under Regulatory Programs,* applies to all surface coal mining and reclamation operations, except for § 800.40(a)(1) of this chapter regarding the bond release application, for which paragraph (b) of this section substitutes.
+
+(b) The permittee may file an application with the regulatory authority for the release of all or part of a performance bond. The application must be filed no later than 30 days before the end of the vegetation growing season in order to allow time for the regulatory authority to properly evaluate the completed reclamation operations. The appropriate times or seasons for the evaluation of certain types of reclamation shall be identified in the mining and reclamation plan required in subchapter G of this chapter and approved by the regulatory authority.

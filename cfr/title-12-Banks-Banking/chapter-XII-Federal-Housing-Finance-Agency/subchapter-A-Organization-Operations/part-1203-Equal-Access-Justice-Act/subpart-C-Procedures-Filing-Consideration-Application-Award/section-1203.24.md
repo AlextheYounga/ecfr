@@ -1,0 +1,3 @@
+##### § 1203.24 Settlement. #####
+
+The applicant and agency counsel may agree on a proposed settlement of an award before the final decision on the application for award is made, either in connection with a settlement of the underlying adversary adjudication or after the underlying adversary adjudication has been concluded. If the eligible party and agency counsel agree on a proposed settlement of an award before an application for award has been filed, the application must be filed with the proposed settlement.

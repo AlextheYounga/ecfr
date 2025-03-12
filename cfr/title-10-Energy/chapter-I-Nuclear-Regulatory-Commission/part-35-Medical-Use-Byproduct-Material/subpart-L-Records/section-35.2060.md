@@ -1,0 +1,3 @@
+##### § 35.2060 Records of calibrations of instruments used to measure the activity of unsealed byproduct material. #####
+
+A licensee shall maintain a record of instrument calibrations required by § 35.60 for 3 years. The records must include the model and serial number of the instrument, the date of the calibration, the results of the calibration, and the name of the individual who performed the calibration.

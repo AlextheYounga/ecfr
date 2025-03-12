@@ -1,0 +1,3 @@
+##### § 463.10 Applicability; description of the contact cooling and heating water subcategory. #####
+
+This subpart applies to discharges of pollutants from processes in the contact cooling and heating water subcategory to waters of the United States and the introduction of such pollutants into publicly owned treatment works. Processes in the contact cooling and heating water subcategory are processes where process water comes in contact with plastic materials or plastic products for the purpose of heat transfer during plastics molding and forming.

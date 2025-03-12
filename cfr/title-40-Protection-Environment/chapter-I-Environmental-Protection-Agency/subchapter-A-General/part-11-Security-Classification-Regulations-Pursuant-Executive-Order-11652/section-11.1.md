@@ -1,0 +1,3 @@
+##### § 11.1 Purpose. #####
+
+These regulations establish policy and procedures governing the classification and declassification of national security information. They apply also to information or material designated under the Atomic Energy Act of 1954, as amended, as “Restricted Data,” or “Formerly Restricted Data” which, additionally, is subject to the provisions of the Act and regulations of the Atomic Energy Commission.

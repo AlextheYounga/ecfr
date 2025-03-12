@@ -1,0 +1,5 @@
+##### § 282.1 Purpose and authority. #####
+
+(a) The Act authorizes the Secretary to prescribe such rules and regulations as may be necessary to carry out the provisions of the Act (43 U.S.C. 1334). The Secretary is authorized to prescribe and amend regulations that the Secretary determines to be necessary and proper in order to provide for the prevention of waste, conservation of the natural resources of the OCS, and the protection of correlative rights therein. In the enforcement of safety, environmental, and conservation laws and regulations, the Secretary is authorized to cooperate with adjacent States and other Departments and Agencies of the Federal Government.
+
+(b) Subject to the supervisory authority of the Secretary, and unless otherwise specified, the regulations in this part shall be administered by the Director of BSEE.

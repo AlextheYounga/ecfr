@@ -1,0 +1,23 @@
+##### § 2429.7 Subpoenas. #####
+
+(a) Any member of the Authority, the General Counsel, any Administrative Law Judge appointed by the Authority under 5 U.S.C. 3105, and any Regional Director, Hearing Officer, or other employee of the Authority designated by the Authority may issue subpoenas requiring the attendance and testimony of witnesses and the production of documentary or other evidence. However, no subpoena shall be issued under this section which requires the disclosure of intramanagement guidance, advice, counsel, or training within an agency or between an agency and the Office of Personnel Management.
+
+(b) Where the parties are in agreement that the appearance of witnesses or the production of documents is necessary, and such witnesses agree to appear, no such subpoena need be sought.
+
+(c) A request for a subpoena by any person, as defined in 5 U.S.C. 7103(a)(1), shall be in writing and filed with the Regional Director, in proceedings arising under part 2422 of this subchapter, or with the Authority, in proceedings arising under parts 2424 and 2425 of this subchapter, not less than 10 days prior to the hearing, or with the appropriate presiding official(s) during the hearing. Requests for subpoenas made less than 10 days prior to the opening of the hearing shall be granted on sufficient explanation of why the request was not timely filed.
+
+(d) The Authority, General Counsel, Regional Director, Hearing Officer, or any other employee of the Authority designated by the Authority, as appropriate, shall furnish the requester the subpoenas sought, provided the request is timely made. Requests for subpoenas may be made ex parte. Completion of the specific information in the subpoena and the service of the subpoena are the responsibility of the party on whose behalf the subpoena was issued. A subpoena may be served by any person who is at least 18 years old and who is not a party to the proceeding. The person who served the subpoena must certify that he or she did so:
+
+(1) By delivering it to the witness in person,
+
+(2) By registered or certified mail, or
+
+(3) By delivering the subpoena to a responsible person (named in the document certifying the delivery) at the residence or place of business (as appropriate) of the person for whom the subpoena was intended. The subpoena shall show on its face the name and address of the party on whose behalf the subpoena was issued.
+
+(e)(1) Any person served with a subpoena who does not intend to comply, shall, within 5 days after the date of service of the subpoena upon such person, petition in writing to revoke the subpoena. A copy of any petition to revoke a subpoena shall be served on the party on whose behalf the subpoena was issued. Such petition to revoke, if made prior to the hearing, and a written statement of service, shall be filed with the Regional Director in proceedings arising under part 2422 of this subchapter, and with the Authority, in proceedings arising under parts 2424 and 2425 of this subchapter for ruling. A petition to revoke a subpoena filed during the hearing, and a written statement of service, shall be filed with the appropriate presiding official(s).
+
+(2) The Authority, General Counsel, Regional Director, Hearing Officer, or any other employee of the Authority designated by the Authority, as appropriate, shall revoke the subpoena if the person or evidence, the production of which is required, is not material and relevant to the matters under investigation or in question in the proceedings, or the subpoena does not describe with sufficient particularity the evidence the production of which is required, or if for any other reason sufficient in law the subpoena is invalid. The Authority, General Counsel, Regional Director, Hearing Officer, or any other employee of the Authority designated by the Authority, as appropriate, shall state the procedural or other ground for the ruling on the petition to revoke. The petition to revoke, any answer thereto, and any ruling thereon shall not become part of the official record except upon the request of the party aggrieved by the ruling.
+
+(f) Upon the failure of any person to comply with a subpoena issued and upon the request of the party on whose behalf the subpoena was issued, the Solicitor of the Authority shall institute proceedings on behalf of such party in the appropriate district court for the enforcement thereof, unless to do so would be inconsistent with law and the Federal Service Labor-Management Relations Statute.
+
+[45 FR 3516, Jan. 17, 1980, as amended at 62 FR 40922, July 31, 1997]

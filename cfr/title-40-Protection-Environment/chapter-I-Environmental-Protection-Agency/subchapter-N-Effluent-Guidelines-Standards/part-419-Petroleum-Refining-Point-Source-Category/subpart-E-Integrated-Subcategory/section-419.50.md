@@ -1,0 +1,3 @@
+##### § 419.50 Applicability; description of the integrated subcategory. #####
+
+The provisions of this subpart are applicable to all discharges resulting from any facility that produces petroleum products by the use of topping, cracking, lube oil manufacturing processes, and petrochemical operations, whether or not the facility includes any process in addition to topping, cracking, lube oil manufacturing processes, and petrochemical operations.

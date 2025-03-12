@@ -1,0 +1,25 @@
+##### § 821.7 Filing of documents with the Board. #####
+
+(a) *Filing address, method and date of filing.* (1) Except as provided in paragraph (a)(2) of this section, documents are to be filed with the Office of Administrative Law Judges, National Transportation Safety Board, 490 L'Enfant Plaza East SW., Washington, DC 20594, and addressed to the assigned law judge, if any. If the proceeding has not yet been assigned to a law judge, documents shall be addressed to the Case Manager. Paragraph (a)(3) of this section provides the acceptable methods for filing documents under this provision.
+
+(2) Subsequent to the filing of a notice of appeal with the Office of Administrative Law Judges from a law judge's initial decision or appealable order, the issuance of a decision permitting an interlocutory appeal, or the expiration of the period within which an appeal from the law judge's initial decision or appealable order may be filed, all documents are to be filed with the Office of General Counsel, National Transportation Safety Board, 490 L'Enfant Plaza East SW., Washington, DC 20594. Paragraph (a)(3) of this section provides the acceptable methods for filing documents under this provision.
+
+(3) Documents shall be filed: By personal delivery, by U.S. Postal Service first-class mail, by overnight delivery service, by facsimile or by electronic mail as specified on the “Administrative Law Judges” Web page on the NTSB's public Web site. Documents filed by electronic mail must be signed and transmitted as specified on the “Administrative Law Judges” Web page on the NTSB's public Web site.
+
+(4) Documents shall be deemed filed on the date of personal delivery; on the send date shown on the facsimile or the item of electronic mail; and, for mail delivery service, on the mailing date shown on the certificate of service, on the date shown on the postmark if there is no certificate of service, or on the mailing date shown by other evidence if there is no certificate of service and no postmark. Where the document bears a postmark that cannot reasonably be reconciled with the mailing date shown on the certificate of service, the document will be deemed filed on the date of the postmark.
+
+(b) *Number of copies.* Service on the Board of petitions for review, appeals from orders of the Administrator, and notices of appeal from law judges' initial decisions and appealable orders shall be by executed original and 3 copies. Service of all other documents shall be by executed original and one copy. Copies need not be signed, but the name of the person signing the original shall be shown thereon.
+
+(c) *Form.* (1) Petitions for review, appeals to the Board from orders of the Administrator, and notices of appeal from law judges' initial decisions and appealable orders may be in the form of a letter signed by the petitioner or appealing party, and shall be typewritten or in legible handwriting.
+
+(2) Documents filed with the Board consisting of more than one page may be affixed only in the upper left-hand corner by staple or clip, and shall not be bound or hole-punched. Any document failing to comply with this requirement is subject to being returned to the filing party.
+
+(d) *Content.* Each document filed with the Board shall contain a concise and complete statement of the facts relied upon, and the relief sought, by the filing party.
+
+(e) *Subscription.* The original of every document filed shall be signed by the filing party, or by that party's attorney or representative.
+
+(f) *Designation of person to receive service.* The initial document filed by a party in a proceeding governed by this part, and any subsequent document advising the Board of any representation or change in representation of a party that is filed pursuant to § 821.6(d), shall show on the first page the name, address and telephone number of the person or persons who may be served with documents on that party's behalf.
+
+(g) *To whom directed.* All motions, requests and documents submitted in connection with petitions for review and appeals to the Board from orders of the Administrator shall designate, and be addressed to, the law judge to whom the proceeding has been assigned, if any. If the proceeding has not yet been assigned to a law judge, the document shall bear the designation “unassigned,” and shall be addressed to the Case Manager. All motions, requests and documents submitted subsequent to the filing of a notice of appeal from a law judge's initial decision or appealable order, or a decision permitting an interlocutory appeal, or after the expiration of the period within which an appeal from the law judge's initial decision or appealable order may be filed, shall be addressed to the Board's General Counsel.
+
+[68 FR 22625, Apr. 29, 2003, as amended at 77 FR 63251, Oct. 16, 2012]

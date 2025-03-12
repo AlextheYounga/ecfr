@@ -1,0 +1,15 @@
+##### § 110.11 Survivors. #####
+
+(a) *Survivors of injured countermeasure recipients who died as the direct result of a covered injury.* If the Secretary determines that an injured countermeasure recipient died as the direct result of a covered injury (or injuries), his or her survivor(s) may be eligible for death benefits.
+
+(b) *Survivors who may be eligible to receive benefits and the order of priority for benefits.* (1) The Act uses the same categories of survivors and order of priority for benefits as established and defined by the PSOB Program, except as provided in paragraphs (b)(3), (4), and (5) of this section.
+
+(2) The PSOB Program's categories of survivors (known in the PSOB Program as beneficiaries) and order of priority for receipt of death benefits are detailed under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 *et seq.*), as amended, as implemented in 28 CFR part 32.
+
+(3) In the PSOB Program, the person who is survived must have satisfied the eligibility requirements for a deceased public safety officer, whereas the person who is survived under this Program must be a deceased injured countermeasure recipient who would otherwise have been eligible under this part.
+
+(4) Unlike the PSOB Program, if there are no survivors eligible to receive death benefits under the PSOB Program (as set forth in paragraph (b)(2) of this section), the legal guardian of a deceased minor who was a countermeasure recipient may be eligible as a survivor under this Program. Such legal guardianship must be determined by a court of competent jurisdiction under applicable State law.
+
+(5) A surviving dependent younger than the age of 18 whose legal guardian opts to receive a death benefit under the alternative calculation on the dependent's behalf will have the same priority as surviving eligible children under the PSOB Program (consistent with paragraph (b)(2) of this section) even if the dependent is not the surviving eligible child of the deceased countermeasure recipient for purposes of the PSOB Program. However, such a dependent may only be eligible to receive benefits under the alternative death benefits calculation, described in § 110.82(c), and is not eligible to receive death benefits under the standard calculation described in § 110.82(b). Death benefits paid under the alternative calculation will be paid to the dependents' legal guardian(s) on behalf of all such dependents.
+
+(6) Any change in the order of priority of survivors or of the eligible category of survivors under the PSOB Program shall apply to requesters seeking death benefits under this Program on the effective date of the change, even prior to any corresponding amendment to this part. Such changes will apply to Request Packages pending with the Program on the effective date of the change, as well as to Requests filed after that date.

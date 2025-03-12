@@ -1,0 +1,3 @@
+##### § 17.1 Purpose of these rules. #####
+
+These rules are adopted by EPA pursuant to section 504 of title 5 U.S.C., as added by section 203(a)(1) of the Equal Access to Justice Act, Public Law No. 96-481. Under the Act, an eligible party may receive an award for attorney's fees and other expenses when it prevails over EPA in an adversary adjudication before EPA unless EPA's position as a party to the proceeding was substantially justified or special circumstances make an award unjust. The purpose of these rules is to establish procedures for the submission and consideration of applications for awards against EPA when the underlying decision is not reviewed by a court.

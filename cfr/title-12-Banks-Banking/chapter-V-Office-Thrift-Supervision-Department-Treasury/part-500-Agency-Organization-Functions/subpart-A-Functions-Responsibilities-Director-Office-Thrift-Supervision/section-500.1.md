@@ -1,0 +1,11 @@
+##### § 500.1 General statement and statutory authority. #####
+
+(a) The Director of the Office of Thrift Supervision (referred to in this chapter as “Director” or “Office”) is responsible for the administration and enforcement of the Home Owners' Loan Act of 1933, (“HOLA”), and applicable portions of the Federal Deposit Insurance Act and with respect to savings associations subject to provisions of the foregoing acts and title, the Bank Protection Act of 1968, the Truth in Lending Act, and the Fair Credit Reporting Act.
+
+(b) The Office is authorized under such rules and regulations as it may prescribe to provide for the organization, incorporation, examination, operation, and regulation of Federal savings associations. Under this authority, the Office's functions include, but are not limited to, regulation of the corporate structure of such associations, regulation of the distribution of their earnings, regulation of their lending and other investment powers, acting upon their applications for facility offices (including branch offices, limited facilities, mobile facilities and satellite offices), the regulation of mergers, conversions, and dissolutions involving such associations, the appointment of conservators and receivers for such associations, and the enforcement of laws, regulations, or conditions against such associations or the officers or directors thereof by proceedings under section 5 of the Home Owners' Loan Act of 1933, as amended.
+
+(c) The Office regulates and examines savings associations within the authority conferred by the HOLA and the FDIA and is authorized to enforce applicable laws, regulations, or conditions against savings associations or the officers or directors thereof by proceedings under section 5 of the HOLA and section 8 of the FDIA as amended. The Office also regulates and supervises savings and loan holding companies pursuant to the provisions of section 10 of the HOLA, as amended, and section 8 of the FDIA.
+
+(d) The Office exercises supervisory and regulatory authority over all building and loan or savings and loan associations and similar institutions of or doing business in or maintaining offices in the District of Columbia.
+
+[54 FR 49440, Nov. 30, 1989, as amended at 60 FR 66868, Dec. 27, 1995]

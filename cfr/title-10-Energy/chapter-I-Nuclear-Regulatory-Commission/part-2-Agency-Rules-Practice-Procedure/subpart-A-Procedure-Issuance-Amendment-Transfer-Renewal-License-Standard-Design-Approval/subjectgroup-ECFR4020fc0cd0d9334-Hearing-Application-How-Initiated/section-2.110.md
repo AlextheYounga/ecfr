@@ -1,0 +1,13 @@
+##### § 2.110 Filing and administrative action on submittals for standard design approval or early review of site suitability issues. #####
+
+(a)(1) A submittal for a standard design approval under subpart E of part 52 of this chapter shall be subject to §§ 2.101(a) and 2.390 to the same extent as if it were an application for a permit or license.
+
+(2) Except as specifically provided otherwise by the provisions of appendix Q to parts 50 of this chapter, a submittal for early review of site suitability issues under appendix Q to parts 50 of this chapter shall be subject to §§ 2.101(a)(2) through (4) to the same extent as if it were an application for a permit or license.
+
+(b) Upon initiation of review by the NRC staff of a submittal for an early review of site suitability issues under Appendix Q of part 50 of this chapter, or for a standard design approval under subpart E of part 52 of this chapter, the Director, Office of New Reactors, or Director, Office of Nuclear Reactor Regulation, as appropriate shall publish in the Federal Register a notice of receipt of the submittal, inviting comments from interested persons within 60 days of publication or other time as may be specified, for consideration by the NRC staff and ACRS in their review.
+
+(c)(1) Upon completion of review by the NRC staff and the ACRS of a submittal for a standard design approval, the Director, Office of New Reactors or Director, Office of Nuclear Reactor Regulation, as appropriate shall publish in the Federal Register a determination as to whether or not the design is acceptable, subject to terms and conditions as may be appropriate, and shall make available at the NRC Web site, *http://www.nrc.gov,* a report that analyzes the design.
+
+(2) Upon completion of review by the NRC staff and, if appropriate by the ACRS, of a submittal for early review of site suitability issues, the NRC staff shall prepare a staff site report which shall identify the location of the site, state the site suitability issues reviewed, explain the nature and scope of the review, state the conclusions of the staff regarding the issues reviewed and state the reasons for those conclusions. Upon issuance of an NRC staff site report, the NRC staff shall publish a notice of the availability of the report in the Federal Register and shall make the report available at the NRC Web site, *http://www.nrc.gov.* The NRC staff shall also send a copy of the report to the Governor or other appropriate official of the State in which the site is located, and to the chief executive of the municipality in which the site is located or, if the site is not located in a municipality, to the chief executive of the county.
+
+[72 FR 49474, Aug. 28, 2007; 73 FR 5716, Jan. 31, 2008]

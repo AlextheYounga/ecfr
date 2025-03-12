@@ -1,0 +1,3 @@
+##### § 37.1 Purpose. #####
+
+This part has been established to provide the requirements for the physical protection program for any licensee that possesses an aggregated category 1 or category 2 quantity of radioactive material listed in Appendix A to this part. These requirements provide reasonable assurance of the security of category 1 or category 2 quantities of radioactive material by protecting these materials from theft or diversion. Specific requirements for access to material, use of material, transfer of material, and transport of material are included. No provision of this part authorizes possession of licensed material.

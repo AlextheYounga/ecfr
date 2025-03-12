@@ -1,0 +1,3 @@
+##### § 293.203 Review of Office or agency practices. #####
+
+Reviews of agency personnel management policies and practices will be conducted to insure compliance with Office regulations. The Office may direct agencies to take whatever corrective action is necessary. Office or agency officials who have knowledge of violations of these regulations shall take whatever corrective action is necessary. Agencies shall list officials of the Office of Personnel Management as a routine user for personnel records to assist the Office in its oversight responsibilities.

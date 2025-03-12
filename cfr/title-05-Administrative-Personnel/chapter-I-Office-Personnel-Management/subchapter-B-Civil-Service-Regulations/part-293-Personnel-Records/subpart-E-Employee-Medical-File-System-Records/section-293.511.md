@@ -1,0 +1,5 @@
+##### § 293.511 Retention schedule. #####
+
+(a) Temporary EMFS records must not be placed in a newly-created EMF for a separating employee and must be removed from an already existing EMF before its transfer to another agency or to the NPRC. Such records must be disposed of in accordance with General Records Schedule (GRS) 1, item 21, issued by the National Archives and Records Administration (NARA).
+
+(b) Occupational Medical Records considered to be long-term records must be maintained for the duration of employment, plus 30 years or for as long as the OPF is maintained, whichever is longer. Therefore, upon separation, the records must be provided to the employee's new agency, or they must be transferred to the NPRC, which will dispose of them in accordance with GRS 1, item 21, issued by NARA.

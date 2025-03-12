@@ -1,0 +1,3 @@
+##### § 375.70 Special authorization. #####
+
+Any person desiring to navigate a foreign civil aircraft within the United States other than as specifically provided in this part may petition the Department for a special authorization to conduct the particular flight or series of flights. Such authorization may be issued only if the Department finds that the proposed operation is fully consistent with the applicable law, that the applicant's homeland grants a similar privilege with respect to operators of U.S.-registered aircraft, and that the proposed operation is in the interest of the public of the United States.

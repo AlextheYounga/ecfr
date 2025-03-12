@@ -1,0 +1,3 @@
+##### § 61.22 Nondiscrimination. #####
+
+Attention is called to the fact that funds paid to a sponsoring institution pursuant to § 61.11 in order to meet the expenses of the activities of a fellow are considered Federal financial assistance to such institution. The institution is thus subject in this respect to the prohibition against discrimination on the basis of race, color, or national origin imposed by title VI, Civil Rights Act of 1964, and the implementing Regulation of the Department of Health and Human Services (45 CFR part 80).

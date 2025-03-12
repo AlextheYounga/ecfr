@@ -1,0 +1,1 @@
+##### § 430.82 Effluent limitations representing the degree of effluent reduction attainable by the application of best practicable control technology currently available (BPT). [Reserved] #####

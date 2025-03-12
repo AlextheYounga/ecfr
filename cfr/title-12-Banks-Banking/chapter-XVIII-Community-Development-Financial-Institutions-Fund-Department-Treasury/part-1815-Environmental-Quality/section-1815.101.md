@@ -1,0 +1,3 @@
+##### § 1815.101 Purpose. #####
+
+This part supplements Council on Environmental Quality regulations for implementing the procedural provisions of the National Environmental Policy Act of 1969, as amended, and describe how the Community Development Financial Institutions Fund intends to consider environmental factors and concerns in the Fund's decisionmaking process. This part applies only to the Fund and not to any other bureau, office or organization within the Department of the Treasury.

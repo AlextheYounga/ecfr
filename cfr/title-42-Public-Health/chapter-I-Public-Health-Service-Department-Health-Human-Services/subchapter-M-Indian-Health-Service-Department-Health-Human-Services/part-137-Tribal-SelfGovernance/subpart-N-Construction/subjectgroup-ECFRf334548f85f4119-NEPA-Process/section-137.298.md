@@ -1,0 +1,3 @@
+##### § 137.298 Are Self-Governance Tribes required to comply with Executive Orders to fulfill their environmental responsibilities under section 509 of the Act [25 U.S.C. 458aaa-8]? #####
+
+No, but Self-Governance Tribes may at their option, choose to voluntarily comply with Executive Orders. For facilities where ownership will vest with the Federal Government upon completion of the construction, Tribes and the Secretary may agree to include the goals and objectives of Executive Orders in the codes and standards of the construction project agreement.

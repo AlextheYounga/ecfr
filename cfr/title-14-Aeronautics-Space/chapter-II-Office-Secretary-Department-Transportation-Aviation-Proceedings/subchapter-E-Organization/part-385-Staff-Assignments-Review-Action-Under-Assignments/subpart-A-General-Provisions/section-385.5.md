@@ -1,0 +1,3 @@
+##### § 385.5 Procedures prescribed in other regulations. #####
+
+Procedures set forth in this part do not supersede procedures applicable to matters on which decision has been assigned unless otherwise specifically provided herein: *Provided, however,* That any provisions in other regulations which provide for reconsideration of nonhearing determinations are not applicable to decisions made under authority assigned herein or to decisions made upon review thereof by the Reviewing Official.

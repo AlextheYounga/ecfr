@@ -1,0 +1,7 @@
+##### § 218.10 Rule. #####
+
+(a) Upon the determination by the President that an international energy supply emergency exists, firms engaged in producing, transporting, refining, distributing, or storing oil shall take such actions as are determined by the DOE to be necessary for implementation of the obligations of the United States under chapters III and IV of the IEP that relate to the mandatory international allocation of oil by IEP participating countries.
+
+(b) Any actions required in accordance with paragraph (a) of this section shall be stated in supply orders issued by DOE.
+
+(c) No firm to which a supply order is issued shall be required to comply with such order unless the firm to which the oil is to be provided in accordance with such supply order has agreed to a procedure for the resolution of any dispute related to the terms and conditions of the sale undertaken pursuant to the supply order. The means for resolving any such disputes may include any procedures that are mutually acceptable to the parties, including arbitration before the IEA if the IEA has established arbitration procedures, arbitration or adjudication before an appropriate body, or any other similar procedure.

@@ -1,0 +1,5 @@
+##### § 550.151 Authorization of premium pay on an annual basis. #####
+
+An agency may pay premium pay on an annual basis, instead of other premium pay prescribed in this subpart (except premium pay for regular overtime work, and work at night, on Sundays, and on holidays), to an employee in a position in which the hours of duty cannot be controlled administratively and which requires substantial amounts of irregular or occasional overtime work, with the employee generally being responsible for recognizing, without supervision, circumstances which require the employee to remain on duty. Premium pay under this section is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of the employee's rate of basic pay (as defined in § 550.103).
+
+[57 FR 2435, Jan. 22, 1992, as amended at 61 FR 3543, Feb. 1, 1996]

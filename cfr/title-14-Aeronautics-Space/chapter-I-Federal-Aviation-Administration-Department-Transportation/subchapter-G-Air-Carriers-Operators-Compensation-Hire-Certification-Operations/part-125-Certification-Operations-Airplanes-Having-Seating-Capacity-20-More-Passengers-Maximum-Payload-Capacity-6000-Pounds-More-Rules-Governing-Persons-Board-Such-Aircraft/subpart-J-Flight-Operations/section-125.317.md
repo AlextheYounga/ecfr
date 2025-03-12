@@ -1,0 +1,5 @@
+##### § 125.317 Inspector's credentials: Admission to pilots' compartment: Forward observer's seat. #####
+
+(a) Whenever, in performing the duties of conducting an inspection, an FAA inspector presents an Aviation Safety Inspector credential, FAA Form 110A, to the pilot in command of an airplane operated by the certificate holder, the inspector must be given free and uninterrupted access to the pilot compartment of that airplane. However, this paragraph does not limit the emergency authority of the pilot in command to exclude any person from the pilot compartment in the interest of safety.
+
+(b) A forward observer's seat on the flight deck, or forward passenger seat with headset or speaker, must be provided for use by the Administrator while conducting en route inspections. The suitability of the location of the seat and the headset or speaker for use in conducting en route inspections is determined by the Administrator.

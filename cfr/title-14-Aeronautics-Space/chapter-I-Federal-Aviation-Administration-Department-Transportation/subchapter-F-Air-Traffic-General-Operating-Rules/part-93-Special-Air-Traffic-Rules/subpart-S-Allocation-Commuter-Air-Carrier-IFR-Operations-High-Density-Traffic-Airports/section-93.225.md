@@ -1,0 +1,21 @@
+##### § 93.225 Lottery of available slots. #####
+
+(a) Whenever the FAA determines that sufficient slots have become available for distribution for purposes other than international or essential air service operations, but generally not more than twice a year, they shall be allocated in accordance with the provisions of this section.
+
+(b) A random lottery shall be held to determine the order of slot selection.
+
+(c) Slot allocation lotteries shall be held on an airport-by-airport basis with separate lotteries for air carrier and commuter operator slots. The slots to be allocated in each lottery will be each unallocated slot not necessary for international or Essential Air Service Program operations, including any slot created by an increase in the operating limits set forth in § 93.123(a).
+
+(d) The FAA shall publish a notice in the Federal Register announcing any lottery dates. The notice may include special procedures to be in effect for the lotteries.
+
+(e) Participation in a lottery is open to each U.S. air carrier or commuter operator operating at the airport and providing scheduled passenger service at the airport, as well as where provided for by bilateral agreement. Any U.S. carrier, or foreign air carrier where provided for by bilateral agreement, that is not operating scheduled service at the airport and has not failed to operate slots obtained in the previous lottery, or slots traded for those obtained by lottery, but wishes to initiate scheduled passenger service at the airport, shall be included in the lottery if that operator notifies, in writing, the Slot Administration Office, AGC-230, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591. The notification must be received 15 days prior to the lottery date and state whether there is any common ownership or control of, by, or with any other air carrier or commuter operator as defined in § 93.213(c). New entrant and limited incumbent carriers will be permitted to complete their selections before participation by other incumbent carriers is initiated.
+
+(f) At the lottery, each operator must make its selection within 5 minutes after being called or it shall lose its turn. If capacity still remains after each operator has had an opportunity to select slots, the allocation sequence will be repeated in the same order. An operator may select any two slots available at the airport during each sequence, except that new entrant carriers may select four slots, if available, in the first sequence.
+
+(g) To select slots during a slot lottery session, a carrier must have appropriate economic authority for scheduled passenger service under Title IV of the Federal Aviation Act of 1958, as amended (49 U.S.C. App. 1371 *et seq.*), and must hold FAA operating authority under part 121 or part 135 of this chapter as appropriate for the slots the operator seeks to select.
+
+(h) During the first selection sequence, 25 percent of the slots available but no less than two slots shall be reserved for selection by new entrant carriers. If new entrant carriers do not select all of the slots set aside for new entrant carriers, limited incumbent carriers may select the remaining slots. If every participating new entrant carrier and limited incumbent carrier has ceased selection of available slots or has obtained 12 slots at that airport, other incumbent carriers may participate in selecting the remaining slots; however, slots selected by non-limited incumbent carriers will be allocated only until the date of the next lottery.
+
+(i) Slots obtained under this section shall retain their withdrawal priority as established under § 93.223. If the slot is newly created, a withdrawal priority shall be assigned. That priority number shall be higher than any other slot assigned a withdrawal number previously.
+
+[Doc. No. 24105, 50 FR 52195, Dec. 20, 1985, as amended by Amdt. 93-52, 51 FR 21718, June 13, 1986; Amdt. 93-58, 54 FR 39293, Sept. 25, 1989; Amdt. 93-65, 57 FR 37314, Aug. 18, 1992; 57 FR 47993, Oct. 21, 1992; Amdt. 93-78, 64 FR 53565, Oct. 1, 1999]

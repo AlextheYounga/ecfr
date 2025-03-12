@@ -1,0 +1,3 @@
+##### § 14.55 Removal of State court proceedings. #####
+
+Upon a certification by the United States Attorney that the defendant employee was acting within the scope of his or her office or employment at the time of the incident out of which the suit arose, any civil action or proceeding commenced in a State court may be removed to the district court of the United States for the district and division encompassing the place where the action or proceeding is pending in accordance with 28 U.S.C. 2679.

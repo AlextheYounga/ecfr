@@ -1,0 +1,3 @@
+##### § 550.605 Exceptions. #####
+
+An agency head or designee may deem that an employee excluded from coverage under § 550.602(b)(2) is covered by 5 U.S.C. 5504 in situations where he or she determines that continuing to calculate the pay of such employees on a monthly or other basis would diminish the level of services provided to the public by the agency. An agency head or designee also may deem that otherwise excluded employees are covered by 5 U.S.C. 5504 when he or she determines that computing the pay of such employees under that provision of law would provide cost savings in agency operations.

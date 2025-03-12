@@ -1,0 +1,3 @@
+##### § 1262.102 When the Act applies. #####
+
+The Act applies to any adversary adjudication pending or commenced before NASA on or after August 5, 1985. It also applies to any adversary adjudication commenced on or after October 1, 1984, and finally disposed of before August 5, 1985, provided that an application for fees and expenses, as described in subpart 1262.2, had been filed with the Agency within 30 days after August 5, 1985, and to any adversary adjudication pending on or commenced on or after October 1, 1981, in which an application for fees and other expenses was timely filed and was dismissed for lack of jurisdiction.

@@ -1,0 +1,3 @@
+##### § 375.32 Flights incidental to agricultural and industrial operations outside the United States. #####
+
+Foreign civil aircraft that are engaged in agricultural or industrial operations to be performed wholly outside the United States may be navigated into, out of, and within the United States in connection with those operations provided that the aircraft is not at the time engaged in the carriage of passengers, cargo, or mail for remuneration or hire.

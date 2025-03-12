@@ -1,0 +1,3 @@
+##### § 205.285 Effect of failure to file a timely application. #####
+
+An Application for Refund must be filed no later than the date that the Office of Hearings and Appeals establishes pursuant to § 205.283(b). Any Application that is not filed on a timely basis may be summarily dismissed. The Office of Hearings and Appeals or its designee may, however, grant extensions of time for good cause shown. Any request for an extension of time must generally be submitted in writing prior to the deadline.

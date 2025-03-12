@@ -1,0 +1,3 @@
+##### § 512.1 Purpose and scope. #####
+
+The purpose of this part is to establish the procedures and standards by which NHTSA will consider claims that information submitted to the agency is entitled to confidential treatment under 5 U.S.C. 552(b), most often because it constitutes confidential business information as described in 5 U.S.C. 552(b)(4), and to address the treatment of information determined to be entitled to confidential treatment.

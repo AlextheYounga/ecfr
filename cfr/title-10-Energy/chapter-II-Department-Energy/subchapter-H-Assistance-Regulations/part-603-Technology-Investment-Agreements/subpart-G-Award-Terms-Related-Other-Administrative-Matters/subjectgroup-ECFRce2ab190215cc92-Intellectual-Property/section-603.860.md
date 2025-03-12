@@ -1,0 +1,19 @@
+##### § 603.860 Rights to inventions. #####
+
+(a) The contracting officer should negotiate rights in inventions that represent an appropriate balance between the Government's interests and the recipient's interests.
+
+(1) The contracting officer has the flexibility to negotiate patent rights requirements that vary from that which the Bayh-Dole statute (Chapter 18 of Title 35, U.S.C.) and 42 U.S.C. 2182 and 5908 require. A TIA becomes an assistance transaction other than a cooperative agreement if its patent rights requirements vary from those required by these statutes.
+
+(2) If the TIA is a cooperative agreement, the patent rights provision of 10 CFR 600.325(b) or (c) or 10 CFR 600.136 applies, depending on the type of recipient. Unless a class waiver has been issued under 10 CFR 784.7, it will be necessary for a large, for-profit business to request a patent waiver to obtain title to subject inventions.
+
+(b) The contracting officer may negotiate Government rights that vary from the statutorily-required patent rights requirements described in paragraph (a)(2) of this section when necessary to accomplish program objectives and foster the Government's interests. Doing so would make the TIA an assistance transaction other than a cooperative agreement. The contracting officer must decide, with the help of the program manager and assigned intellectual property counsel, what best represents a reasonable arrangement considering the circumstances, including past investments and anticipated future investments of the recipient to the development of the technology, contributions under the current TIA, and potential commercial and Government markets. Any change to the standard patent rights provisions must be approved by assigned intellectual property counsel.
+
+(c) Taking past investments as an example, the contracting officer should consider whether the Government or the recipient has contributed more substantially to the prior RD&D that provides the foundation for the planned effort. If the predominant past contributor to the particular technology has been:
+
+(1) The Government, then the TIA's patent rights provision should be the standard provision as set forth in 10 CFR 600.325(b) or (c), or 10 CFR 600.136, as applicable.
+
+(2) The recipient, then less restrictive patent requirements may be appropriate, which would make the TIA an assistance transaction other than a cooperative agreement. The contracting officer normally would, with the concurrence of intellectual property counsel, allow the recipient to retain title to subject inventions without going through the process of obtaining a patent waiver as required by 10 CFR 784. For example, with the concurrence of intellectual property counsel, the contracting officer also could eliminate or modify the nonexclusive paid-up license for practice by or on behalf of the Government to allow the recipient to benefit more directly from its investments.
+
+(d) For subawards under a TIA that is other than a cooperative agreement, the TIA should normally specify that subrecipients' invention rights are to be negotiated between recipient and subrecipient; that subrecipients will get title to inventions they make; or some other disposition of invention rights. Factors to be considered by the contracting officer in addressing subrecipient's invention rights include: the extent of cost sharing by parties at all tiers; a subrecipient's status as a small business, nonprofit, or FFRDC; and whether an appropriate field of use licensing requirement would meet the needs of the parties.
+
+(e) Consortium members may allocate invention rights in their collaboration agreement, subject to the review of the contracting officer (See § 603.515). The contracting officer, in performing such review, should consider invention rights to be retained by the Government and rights that may be obtained by small business, nonprofit or FFRDC consortium members.

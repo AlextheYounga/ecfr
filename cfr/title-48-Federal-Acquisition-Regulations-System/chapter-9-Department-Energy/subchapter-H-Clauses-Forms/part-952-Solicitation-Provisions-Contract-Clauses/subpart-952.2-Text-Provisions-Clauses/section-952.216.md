@@ -1,0 +1,1 @@
+##### 952.216 Clauses related to types of contracts. #####

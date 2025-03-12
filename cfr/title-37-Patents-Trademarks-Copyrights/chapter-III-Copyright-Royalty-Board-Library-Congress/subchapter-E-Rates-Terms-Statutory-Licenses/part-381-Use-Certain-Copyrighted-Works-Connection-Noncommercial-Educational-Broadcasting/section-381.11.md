@@ -1,0 +1,3 @@
+##### § 381.11 Notice of restrictions on use of reproductions of transmission programs. #####
+
+Any public broadcasting entity which, pursuant to 17 U.S.C. 118, supplies a reproduction of a transmission program to governmental bodies or nonprofit institutions shall include with each copy of the reproduction a warning notice stating in substance that the reproductions may be used for a period of not more than seven days from the specified date of transmission, that the reproductions must be destroyed by the user before or at the end of such period, and that a failure to fully comply with these terms shall subject the body or institution to the remedies for infringement of copyright.

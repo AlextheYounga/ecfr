@@ -1,0 +1,3 @@
+##### § 401.120 Creation of records. #####
+
+Records will not be created by compiling selected items from the files, and records will not be created to provide the requester with such data as ratios, proportions, percentages, per capitas, frequency distributions, trends, correlations, and comparisons. If such data have been compiled and are available in the form of a record, the record shall be made available as provided in this subpart.

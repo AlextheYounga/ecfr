@@ -1,0 +1,3 @@
+##### § 14.13 Items fraudulently claimed. #####
+
+Where the EPA Claims Officer determines that an employee has intentionally misrepresented the cost, condition, cost of repair or a material fact concerning a claim, he/she may, at his discretion, deny the entire amount claimed for the item. Further, where the EPA Claims Officer determines that the employee intentionally has materially misrepresented the costs, conditions or nature of repairs of the claim, he will refer it to appropriate officials (e.g., Inspector General, the employee's supervisor, etc.) for action.

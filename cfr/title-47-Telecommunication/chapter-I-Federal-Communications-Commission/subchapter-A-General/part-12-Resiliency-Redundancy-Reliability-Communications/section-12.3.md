@@ -1,0 +1,11 @@
+##### § 12.3 911 and E911 analyses and reports. #####
+
+The following entities must analyze their 911 and E911 networks and/or systems and provide a detailed report to the Commission on the redundancy, resiliency, and reliability of those networks and/or systems: Local exchange carriers (LECs), including incumbent LECs (ILECS) and competitive LECs (CLECs); commercial mobile radio service providers required to comply with the wireless 911 rules set forth in § 20.18 of this chapter; and interconnected Voice over Internet Protocol (VoIP) service providers. LECs that meet the definition of a Class B company set forth in § 32.11(b)(2) of this chapter, non-nationwide commercial mobile radio service providers with no more than 500,000 subscribers at the end of 2001, and interconnected VoIP service providers with annual revenues below the revenue threshold established pursuant to § 32.11 of this chapter are exempt from this rule.
+
+(a) The Public Safety and Homeland Security Bureau (PSHSB) has the delegated authority to implement and activate a process through which these reports will be submitted, including the authority to establish the specific data that will be required. Where relevant, these reports should include descriptions of the steps the service providers intend to take to ensure diversity and dependability in their 911 and E911 networks and/or systems, including any plans they have to migrate those networks and/or systems to a next generation Internet Protocol-based E911 platform.
+
+(b) These reports are due 120 days from the date that the Commission or its staff announces activation of the 911 network and system reporting process.
+
+(c) Reports filed under this Part will be presumed to be confidential. These reports will be shared with The National Emergency Number Association, The Association of Public Safety Communications Officials, and The National Association of State 9-1-1 Administrators only pursuant to a protective order. PSHSB has the delegated authority to issue such protective orders. All other access to these reports must be sought pursuant to procedures set forth in 47 CFR 0.461. Notice of any requests for inspection of these reports will be provided to the filers of the reports pursuant to 47 CFR 0.461(d)(3).
+
+[72 FR 37673, July 11, 2007]

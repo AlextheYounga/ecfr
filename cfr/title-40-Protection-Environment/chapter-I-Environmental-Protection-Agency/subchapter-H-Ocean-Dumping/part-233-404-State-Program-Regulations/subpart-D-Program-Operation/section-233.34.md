@@ -1,0 +1,9 @@
+##### § 233.34 Making a decision on the permit application. #####
+
+(a) The Director will review all applications for compliance with the 404(b)(1) Guidelines and/or equivalent State environmental criteria as well as any other applicable State laws or regulations.
+
+(b) The Director shall consider all comments received in response to the public notice, and public hearing if a hearing is held. All comments, as well as the record of any public hearing, shall be made part of the official record on the application.
+
+(c) After the Director has completed review of the application and consideration of comments, the Director will determine, in accordance with the record and all applicable regulations, whether or not the permit should be issued. No permit shall be issued by the Director under the circumstances described in § 233.20. The Director shall prepare a written determination on each application outlining the Director's decision and rationale for the decision. For projects with a planned schedule that extends beyond five years at the time of the initial five-year permit application, if the Director decides not to require an update to the 404(b)(1) Guidelines for a subsequent five-year permit, the Director must provide a detailed written explanation of the decision not to require an update in its determination for the subsequent five-year permit. The determination shall be dated, signed, and included in the official record prior to final action on the application. The official record shall be open to the public.
+
+[53 FR 20776, June 1, 1988, as amended at 89 FR 103505, Dec. 18, 2024]

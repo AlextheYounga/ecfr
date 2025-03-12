@@ -1,0 +1,3 @@
+##### § 603.895 Protection of information in programmatic reports. #####
+
+If a TIA is awarded under the authority of 42 U.S.C. 7256(g) (*i.e.*, it is a type of assistance transaction “other than” a contract, grant or a cooperative agreement), the contracting officer may inform a participant that the award is covered by a special protected data statute, which provides for the protection from public disclosure, for a period of up to 5 years after the date on which the information is developed, any information developed pursuant to this transaction that would be trade secret, or commercial or financial information that is privileged or confidential, if the information had been obtained from a non-Federal party.

@@ -1,0 +1,7 @@
+##### § 18.36 Cables between machine components. #####
+
+(a) Cables between machine components shall have: (1) Adequate current-carrying capacity for the loads involved, (2) short-circuit protection, (3) insulation compatible with the impressed voltage, and (4) flame-resistant properties unless totally enclosed within a flame-resistant hose conduit or other flame-resistant material.
+
+(b) Cables between machine components shall be: (1) Clamped in place to prevent undue movement, (2) protected from mechanical damage by position, flame-resistant hose conduit, metal tubing, or troughs (flexible or threaded rigid metal conduit will not be acceptable), (3) isolated from hydraulic lines, and (4) protected from abrasion by removing all sharp edges which they might contact.
+
+(c) Cables (cords) for remote-control circuits extending from permissible equipment will be exempted from the requirements of conduit enclosure provided the total electrical energy carried is intrinsically safe or that the cables are constructed with heavy jackets, the sizes of which are stated in Table 6 of Appendix I. Cables (cords) provided with hose-conduit protection shall have a tensile strength not less than No. 16 (AWG) three-conductor, type SO cord. (Reference: 7.7.7 IPCEA Pub. No. S-19-81, Fourth Edition.) Cables (cords) constructed with heavy jackets shall consist of conductors not smaller than No. 14 (AWG) regardless of the number of conductors.

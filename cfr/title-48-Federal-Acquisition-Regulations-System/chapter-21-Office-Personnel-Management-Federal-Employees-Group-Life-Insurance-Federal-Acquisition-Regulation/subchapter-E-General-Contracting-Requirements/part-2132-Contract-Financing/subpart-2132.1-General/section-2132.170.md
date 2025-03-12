@@ -1,0 +1,9 @@
+##### 2132.170 Recurring premium payments to Contractors. #####
+
+(a) OPM will make payments on a letter of credit (LOC) basis. OPM and the Contractor will concur on an estimate of benefits and administrative costs plus the fixed service or risk charge for the forthcoming contract year, as specified in the contract. The annual premium to the Contractor, based on this estimate, will be credited to the Contractor's LOC account in 12 equal monthly installments due on the first business day of each month and available for drawdown. OPM will credit the Contractor's LOC account for the December payment no later than the last business day of each calendar year. Following the close of the contract year, a reconciliation of premiums, benefits, and other costs will be performed as a limited cost redetermination. In addition, interest distribution payments will be made available for Contractor drawdown from the LOC account. The Contractor will use the LOC account in accordance with guidelines issued by OPM.
+
+(b) Withdrawals from the LOC account for benefit costs of $5,000 or more will be made on a claims-paid basis. Withdrawals from the LOC account for benefit costs of less than $5,000 and other FEGLI Program disbursements will be made on a checks-presented basis. Under a checks-presented basis, drawdown on the LOC is delayed until the checks issued for FEGLI Program disbursements are presented to the Contractor's bank for payment.
+
+(c) Nothing in this chapter will affect the ability of the Contractor to hold the special contingency reserve established and maintained in accordance with the terms of 5 U.S.C. 8712.
+
+[70 FR 41153, July 18, 2005]

@@ -1,0 +1,5 @@
+##### § 516.290 What will happen if OTS does not approve or disapprove my application within two calendar years after the filing date? #####
+
+(a) *Withdrawal.* If OTS has not approved or denied your pending application within two calendar years after the filing date under § 516.45, OTS will notify you, in writing, that your application is deemed withdrawn unless OTS determines that you are actively pursuing a final OTS determination on your application. You are not actively pursuing a final OTS determination if you have failed to timely take an action required under this part, including filing required additional information, or OTS has suspended processing of your application under § 516.260 based on circumstances that are, in whole or in part, within your control and you have failed to take reasonable steps to resolve these circumstances.
+
+(b) *Effective date.* This section is effective July 1, 2001.

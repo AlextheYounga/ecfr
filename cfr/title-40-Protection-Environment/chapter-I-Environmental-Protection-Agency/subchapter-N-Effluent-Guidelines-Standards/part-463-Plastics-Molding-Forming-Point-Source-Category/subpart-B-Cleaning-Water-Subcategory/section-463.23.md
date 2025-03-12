@@ -1,0 +1,3 @@
+##### § 463.23 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable. #####
+
+The Agency has determined that there are insignificant quantities of toxic pollutants in cleaning process wastewaters after compliance with applicable BPT effluent limitations guidelines. Accordingly, because the BPT level of treatment provides adequate control, the Agency is establishing BAT effluent limitations guidelines equal to the BPT effluent limitations guidelines.

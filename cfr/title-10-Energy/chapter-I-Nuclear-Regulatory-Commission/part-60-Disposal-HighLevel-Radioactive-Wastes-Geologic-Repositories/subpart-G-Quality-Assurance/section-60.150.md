@@ -1,0 +1,3 @@
+##### § 60.150 Scope. #####
+
+As used in this part, *quality assurance* comprises all those planned and systematic actions necessary to provide adequate confidence that the geologic repository and its subsystems or components will perform satisfactorily in service. Quality assurance includes quality control, which comprises those quality assurance actions related to the physical characteristics of a material, structure, component, or system which provide a means to control the quality of the material, structure, component, or system to predetermined requirements.

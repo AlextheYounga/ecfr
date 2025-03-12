@@ -1,0 +1,5 @@
+##### § 2.1017 Computation of time. #####
+
+In computing any period of time, the day of the act, event, or default after which the designated period of time begins to run is not included. The last day of the period so computed is included unless it is a Saturday, Sunday, or legal holiday at the place where the action or event is to occur, in which event the period runs until the end of the next day which is neither a Saturday, Sunday, nor holiday. Whenever a party, potential party, or interested governmental participant, has the right or is required to do some act within a prescribed period after the service of a notice or other document upon it, one day shall be added to the prescribed period. If the electronic docket is unavailable for more than four access hours of any day that would be counted in the computation of time, that day will not be counted in the computation of time.
+
+[63 FR 71740, Dec. 30, 1998]

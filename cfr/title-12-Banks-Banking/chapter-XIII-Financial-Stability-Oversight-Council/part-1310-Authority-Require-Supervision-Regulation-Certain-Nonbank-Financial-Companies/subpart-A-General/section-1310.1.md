@@ -1,0 +1,5 @@
+##### § 1310.1 Authority and purpose. #####
+
+(a) *Authority.* This part is issued by the Council under sections 111, 112 and 113 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) (12 U.S.C. 5321, 5322, and 5323).
+
+(b) *Purpose.* The principal purposes of this part are to set forth the standards and procedures governing Council determinations under section 113 of the Dodd-Frank Act (12 U.S.C. 5323), including whether material financial distress at a nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States, and whether a nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards in accordance with title I of the Dodd-Frank Act.

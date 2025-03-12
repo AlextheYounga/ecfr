@@ -1,0 +1,7 @@
+##### § 192.160 May I keep portions of my application for conversion confidential? #####
+
+(a) The appropriate Federal banking agency makes all filings under this part available to the public, but may keep portions of your application for conversion confidential under paragraph (b) of this section.
+
+(b) You may request that the appropriate Federal banking agency keep portions of your application confidential. To do so, you must separately bind and clearly designate as “confidential” any portion of your application for conversion that you deem confidential. You must provide a written statement specifying the grounds supporting your request for confidentiality. The appropriate Federal banking agency will not treat as confidential the portion of your application describing how you plan to meet your Community Reinvestment Act (CRA) objectives. The CRA portion of your application may not incorporate by reference information contained in the confidential portion of your application.
+
+(c) The appropriate Federal banking agency will determine whether confidential information must be made available to the public under 5 U.S.C. 552 and part 4 of this chapter or 12 CFR 309. The appropriate Federal banking agency will advise you before it makes information you designated as “confidential” available to the public.

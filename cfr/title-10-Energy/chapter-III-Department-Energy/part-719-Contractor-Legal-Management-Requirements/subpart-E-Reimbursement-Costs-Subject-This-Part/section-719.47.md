@@ -1,0 +1,5 @@
+##### § 719.47 What happens when more than one contractor is a party to a matter? #####
+
+(a) If more than one contractor is a party in a particular matter and the issues involved are similar for all the contractors, a single legal counsel designated by the General Counsel must either represent all of the contractors or serve as lead counsel, when the rights of the contractors and the Government can be effectively represented by a single legal counsel, consistent with the standards for professional conduct applicable in the particular matter. Contractors may propose to the General Counsel their preference for the individual or law firm to perform as the lead counsel for a particular matter.
+
+(b) If a contractor, having been afforded an opportunity to present its views concerning joint or lead representation, does not acquiesce in the designation of one retained legal counsel to represent a number of contractors, or serve as lead counsel, then the legal costs of such contractor are not reimbursable by the Department, unless the contractor demonstrates that it was reasonable for the contractor to incur such expenses.

@@ -1,0 +1,3 @@
+##### § 1.46 Office of Public Affairs. #####
+
+The Director of Public Affairs is the principal advisor to the Secretary and Secretarial Officers on public affairs issues. The Office of Public Affairs prepares news releases and supporting media materials, and maintains a new media presence. The Office also provides information to the Secretary on opinions and reactions of the public and news media on programs and transportation issues. The Office of Public Affairs is responsible for the supervision, coordination, and review of the activities of the public affairs offices within the Operating Administrations.

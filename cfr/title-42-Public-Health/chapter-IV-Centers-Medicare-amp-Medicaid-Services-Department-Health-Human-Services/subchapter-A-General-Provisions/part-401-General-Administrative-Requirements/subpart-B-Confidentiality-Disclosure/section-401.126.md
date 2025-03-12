@@ -1,0 +1,19 @@
+##### § 401.126 Information or records that are not available. #####
+
+(a) *Specific exemptions from disclosure.* Pursuant to paragraph (b) of 5 U.S.C. 552, certain classes of records are exempt from disclosure. For some examples of the kinds of materials which are exempt, see subpart F of the public information regulation of the Department of Health and Human Services (45 CFR part 5) and the appendix to that regulation.
+
+(b) *Materials exempt from disclosure by statute.* Pursuant to paragraph (b)(3) of 5 U.S.C. 552, as amended, which exempts from the requirement for disclosure matters that are exempted from disclosure by statute, provided that such statute requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or establishes particular criteria for withholding or refers to particular types of matter to be withheld:
+
+(1) Reports described in sections 1106 (d) and (e) of the Social Security Act shall not be disclosed, except in accordance with the provisions of sections 1106 (d) and (e). Sections 1106 (d) and (e) provide for public inspection of certain official reports dealing with the operation of the health programs established by titles XVIII and XIX of the Social Security Act (Medicare and Medicaid), but require that program validation survey reports and other formal evaluations of providers of services shall not identify individual patients, individual health care practitioners, or other individuals. Section 1106(e) further requires that none of the reports shall be made public until the contractor or provider whose performance is being evaluated has had a reasonable opportunity to review that report and to offer comments. See § 401.133 (b) and (c);
+
+(2)(i) Except as specified in paragraph (b)(2)(ii) of this section, CMS may not disclose any accreditation survey or any information directly related to the survey (including corrective action plans) made by and released to it by the Joint Commission on Accreditation of Healthcare Organizations, the American Osteopathic Association or any other national accreditation organization that meets the requirements of § 488.5 or § 493.506 of this chapter. Materials that are confidential include accreditation letters and accompanying recommendations and comments prepared by an accreditation organization concerning the entities it surveys.
+
+(ii) *Exceptions.* (A) CMS may release the accreditation survey of any home health agency; and
+
+(B) CMS may release the accreditation survey and other information directly related to the survey (including corrective action plans) to the extent the survey and information relate to an enforcement action (for example, denial of payment for new admissions, civil money penalties, temporary management and termination) taken by CMS; and
+
+(3) Tax returns and return information defined in section 6103 of the Internal Revenue Code, as amended by the Tax Reform Act of 1976, shall not be disclosed except as authorized by the Internal Revenue Code.
+
+(c) *Effect of exemption.* Neither 5 U.S.C. 552 nor this regulation directs the withholding of any record or information, except to the extent of the prohibitions in paragraph (b) of this section. Except for material required to be withheld under the statutory provisions incorporated in paragraph (b) of this section or under another statute which meets the standards in 5 U.S.C. 552(b)(3), materials exempt from mandatory disclosure will nevertheless be made available when this can be done consistently with obligations of confidentiality and administrative necessity. The disclosure of materials or records under these circumstances in response to a specific request, however, is of no precedent force with respect to any other request.
+
+[46 FR 55696, Nov. 12, 1981, as amended at 58 FR 61837, Nov. 23, 1993; 80 FR 29834, May 22, 2015]

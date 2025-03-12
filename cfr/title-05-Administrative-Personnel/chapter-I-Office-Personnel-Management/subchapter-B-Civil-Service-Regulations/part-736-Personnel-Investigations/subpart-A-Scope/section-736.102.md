@@ -1,0 +1,9 @@
+##### § 736.102 Notice to investigative sources. #####
+
+(a) The agency investigator will notify the source from whom information is requested, whether in person or by telephone, of the purpose for which the information is being sought and of the uses that may be made of the information. The interviewing agent must notify each person interviewed and each custodian of records contacted that all information provided, including the record source's identity, may be disclosed upon the request of the subject of the investigation.
+
+(b) The interviewing agent may grant a pledge to keep confidential the identity of an information source upon specific request by the source. In addition, the agent has discretion to offer the source a pledge of confidentiality where the agent believes that such a pledge is necessary to obtain information pertinent to the investigation. A pledge of confidentiality may not be assumed by the source. The interviewing agent may not suggest to a source that the source request confidentiality.
+
+(c) Where information is requested by written inquiry, the form, instructions, or correspondence used by an agency will include: (1) Notification that all information furnished by the source, including the source's identity, except for custodians of law enforcement or educational records, may be disclosed upon the request of the subject of the investigation; and (2) Space for the information source to request a pledge that the source's identity will not be disclosed to the subject of the investigation; or (3) An offer to make special arrangements to obtain significant information which the source feels unable to furnish without a promise that the source's identity will be kept confidential.
+
+(d) A pledge of confidentiality, if granted, extends only to the identity of the source, and to any information furnished by the source that would reveal the identity of the source.

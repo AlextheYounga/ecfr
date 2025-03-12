@@ -1,0 +1,3 @@
+##### § 2100.3 Procedure for requesting information. #####
+
+Individuals shall submit written inquiries regarding all AFRH records to the appropriate facility at the following addresses: Associate Director, Resource Management, U.S. Soldiers' and Airmen's Home, 3700 N. Capitol Street, NW., Washington, DC 20317-0002; or, Administrative Services, U.S. Naval Home, 1800 Beach Drive, Gulfport, Mississippi 39507-1597. All personal (walk-in) requests will require some form of common identification.

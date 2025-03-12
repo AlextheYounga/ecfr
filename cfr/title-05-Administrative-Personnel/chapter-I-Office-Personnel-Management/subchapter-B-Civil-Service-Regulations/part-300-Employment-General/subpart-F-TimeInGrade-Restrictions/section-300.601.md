@@ -1,0 +1,3 @@
+##### § 300.601 Purpose. #####
+
+The restrictions in this subpart are intended to prevent excessively rapid promotions in competitive service General Schedule positions and to protect competitive principles. They provide a budgetary control on promotion rates and help assure that appointments are made from appropriate registers. These restrictions are in addition to the eligibility requirements for promotion in part 335 of this chapter.

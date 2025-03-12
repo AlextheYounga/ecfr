@@ -1,0 +1,9 @@
+##### § 1040.64 Effect of State or local law or other requirements and effect of employment opportunities. #####
+
+(a) The obligation to comply with this subpart is not obviated or alleviated by the existence of any State or local law or other requirement that, on the basis of handicap, imposes prohibitions or limits upon the eligibility of qualified handicapped persons to receive services or to practice any occupation or profession.
+
+(b) The obligation to comply with this part is not obviated or alleviated because employment opportunities in any occupation or profession are or may be more limited for handicapped persons than for non-handicapped persons.
+
+(c) *Effect of other regulations.* All regulations, orders, or similar directions issued by any officer of DOE which impose requirements designed to prohibit discrimination against individuals on the grounds of race, color, national origin, sex, age or handicap under any program or activity to which this part applies, and which authorize the suspension, termination or refusal to grant or to continue Federal financial assistance for failure to comply with these requirements, are superseded to the extent that discrimination is prohibited by this part. Nothing in this part is to relieve any person of the obligation assumed or imposed under any superseded regulation, order, instruction, or similar direction prior to the effective date of this part. Nothing in this part is to supersede the effective date of this part. Nothing in this part is to supersede Executive Orders 10925, 11114, 11063, 11246, and regulations issued under these authorities, or supersede any other regulations or instructions which prohibit discrimination on the ground of race, color, national origin, sex, age, or handicap in any program or activity to which this part does not apply.
+
+[45 FR 40515, June 13, 1980, as amended at 68 FR 51347, Aug. 26, 2003]

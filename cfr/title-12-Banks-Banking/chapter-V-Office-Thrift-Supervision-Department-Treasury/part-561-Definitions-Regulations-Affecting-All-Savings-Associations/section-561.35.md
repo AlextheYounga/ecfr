@@ -1,0 +1,3 @@
+##### § 561.35 Officer. #####
+
+The term *Officer* means the president, any vice-president (but not an assistant vice-president, second vice-president, or other vice president having authority similar to an assistant or second vice-president), the secretary, the treasurer, the comptroller, and any other person performing similar functions with respect to any organization whether incorporated or unincorporated. The term *officer* also includes the chairman of the board of directors if the chairman is authorized by the charter or by-laws of the organization to participate in its operating management or if the chairman in fact participates in such management.

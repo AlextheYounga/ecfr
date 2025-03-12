@@ -1,0 +1,19 @@
+##### § 250.465 When must I submit an Application for Permit to Modify (APM) or an End of Operations Report to BSEE? #####
+
+(a) You must submit an APM (form BSEE-0124) or an End of Operations Report (form BSEE-0125) and other materials to the Regional Supervisor as shown in the following table. You must also submit a public information copy of each form.
+
+|                                          When you . . .                                           |                                      Then you must . . .                                       |                                                                                                                                                            And . . .                                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      (1) Intend to revise your drilling plan, change major drilling equipment, or plugback,       |                        Submit form BSEE-0124 or request oral approval,                         |Receive written or oral approval from the District Manager before you begin the intended operation. If you get an approval, you must submit form BSEE-0124 no later than the end of the 3rd business day following the oral approval. In all cases, or you must meet the additional requirements in paragraph (b) of this section.|
+|(2) Determine a well's final surface location, water depth, and the rotary kelly bushing elevation,|                              Immediately Submit a form BSEE-0124,                              |                                                                                                                 Submit a plat certified by a registered land surveyor that meets the requirements of § 250.412.                                                                                                                  |
+|                (3) Move a drilling unit from a wellbore before completing a well,                 |Submit forms BSEE-0124 and BSEE-0125 within 30 days after the suspension of wellbore operations,|                                                                                                                                          Submit appropriate copies of the well records.                                                                                                                                          |
+
+(b) If you intend to perform any of the actions specified in paragraph (a)(1) of this section, you must meet the following additional requirements:
+
+(1) Your APM (Form BSEE-0124) must contain a detailed statement of the proposed work that would materially change from the approved APD. The submission of your APM must be accompanied by payment of the service fee listed in § 250.125;
+
+(2) Your form BSEE-0124 must include the present status of the well, depth of all casing strings set to date, well depth, present production zones and productive capability, and all other information specified; and
+
+(3) Within 30 days after completing this work, you must submit an End of Operations Report (EOR), Form BSEE-0125, as required under § 250.744.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26021, Apr. 29, 2016]

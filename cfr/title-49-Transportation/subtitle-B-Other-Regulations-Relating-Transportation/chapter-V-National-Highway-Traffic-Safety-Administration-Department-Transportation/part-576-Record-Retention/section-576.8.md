@@ -1,0 +1,3 @@
+##### § 576.8 Malfunctions covered. #####
+
+For purposes of this part, “malfunctions that may be related to motor vehicle safety” shall include, with respect to a motor vehicle or item of motor vehicle equipment, any failure or malfunction beyond normal deterioration in use, or any failure of performance, or any flaw or unintended deviation from design specifications, that could in any reasonably foreseeable manner be a causative factor in, or aggravate, an accident or an injury to a person.

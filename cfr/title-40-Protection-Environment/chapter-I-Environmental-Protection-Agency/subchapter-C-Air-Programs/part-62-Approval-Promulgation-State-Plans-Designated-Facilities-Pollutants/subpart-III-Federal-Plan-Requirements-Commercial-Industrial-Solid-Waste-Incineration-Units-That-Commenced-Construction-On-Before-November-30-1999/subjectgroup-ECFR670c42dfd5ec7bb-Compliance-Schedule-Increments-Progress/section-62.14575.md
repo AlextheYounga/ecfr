@@ -1,0 +1,9 @@
+##### § 62.14575 What must I do if I close my CISWI unit and then restart it? #####
+
+If you temporarily close your CISWI unit and restart the unit for the purpose of continuing operation of your CISWI unit, then you must follow the requirements in paragraphs (a), (b), or (c) of this section depending on when you plan to come into compliance with the requirements of this subpart. You are subject to the operating permit requirements of title V of the CAA and 40 CFR part 70 or 71 until you close your CISWI unit and at the time you restart it.
+
+(a) If you plan to continue operation and come into compliance with the requirements of this subpart by October 4, 2004, then you must complete the requirements of § 62.14535(a).
+
+(b) If you plan to continue operation and come into compliance with the requirements of this subpart on or before October 3, 2005, then you must complete the requirements of § 62.14535(b). You must have first requested and been granted an extension from the initial compliance date by following the requirements of § 62.14536.
+
+(c) If you restart your CISWI unit after the October 4, 2004 and resume operation, but have not previously requested an extension by meeting all of the requirements of § 62.14536, you must meet all of the requirements of § 62.14535(a)(1) through (a)(5) at the time you restart your CISWI unit. Upon restarting your CISWI unit, you must have incorporated all process changes and completed retrofit construction of control devices so that when the affected CISWI unit is brought online, all necessary process changes and air pollution control devices operate as designed.

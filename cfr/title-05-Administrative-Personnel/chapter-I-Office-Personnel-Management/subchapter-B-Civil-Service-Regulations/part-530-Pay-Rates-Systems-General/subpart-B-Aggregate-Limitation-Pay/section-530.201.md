@@ -1,0 +1,3 @@
+##### § 530.201 Purpose. #####
+
+This subpart establishes regulations for limiting an employee's aggregate annual compensation. An employee's aggregate compensation received in any given calendar year may not exceed the rate of pay for level I of the Executive Schedule or the rate payable to the Vice President at the end of the calendar year, whichever is applicable to the employee based on the certification status under 5 CFR part 430, subpart D, of the performance appraisal system covering that employee. These regulations must be applied in conjunction with 5 U.S.C. 5307.

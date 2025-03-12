@@ -1,0 +1,3 @@
+##### § 380.11 Payment to direct air carrier(s). #####
+
+Except for air taxi operators and commuter air carriers (which are governed by 14 CFR 298.38) and Canadian charter air taxi operators (which are governed by 14 CFR 294.32), the direct air carrier(s) shall be paid in full for the cost of the charter transportation (for both legs, if a round-trip charter) prior to the scheduled date of flight departure, as provided for in the basic charter regulations applicable to the direct air carrier(s) under part 212 of this chapter.

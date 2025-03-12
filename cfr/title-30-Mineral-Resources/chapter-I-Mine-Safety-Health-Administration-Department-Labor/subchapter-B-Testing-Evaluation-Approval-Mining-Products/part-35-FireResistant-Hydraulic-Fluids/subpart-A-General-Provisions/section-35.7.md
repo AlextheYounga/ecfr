@@ -1,0 +1,3 @@
+##### § 35.7 Date for conducting tests. #####
+
+The date of acceptance of an application will determine the order of precedence for testing when more than one application is pending, and the applicant will be notified of the date on which tests will begin. However, not more than two fluids will be tested consecutively for one applicant provided other applications are pending. If a fluid fails to meet any of the requirements, it shall lose its order of precedence. If an application is submitted to resume testing after correction of the course of failure, it will be treated as a new application and the order of precedence for testing will be so determined.

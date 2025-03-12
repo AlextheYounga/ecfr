@@ -1,0 +1,3 @@
+##### § 9701.701 Purpose. #####
+
+This subpart contains the regulations implementing the provisions of 5 U.S.C. 9701(a) through (c) and (f) concerning the Department's appeals system for certain adverse actions covered under subpart F of this part. These provisions require that the new appeals regulations provide Department employees fair treatment, are consistent with the protections of due process and, to the maximum extent practicable, provide for the expeditious handling of appeals.

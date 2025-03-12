@@ -1,0 +1,3 @@
+##### § 303.60 Scope. #####
+
+This subpart sets forth the application requirements and procedures for transactions subject to FDIC approval under the Bank Merger Act, section 18(c) of the FDI Act (12 U.S.C. 1828(c)). Additional guidance is contained in the FDIC “Statement of Policy on Bank Merger Transactions” (1 FDIC Law, Regulations, Related Acts 5145; see § 309.4(a) and (b) of this chapter for availability).

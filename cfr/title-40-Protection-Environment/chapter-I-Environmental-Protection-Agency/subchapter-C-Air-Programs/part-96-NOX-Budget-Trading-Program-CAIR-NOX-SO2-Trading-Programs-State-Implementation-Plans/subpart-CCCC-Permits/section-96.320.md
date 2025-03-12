@@ -1,0 +1,7 @@
+##### § 96.320 General CAIR NOX Ozone Season Trading Program permit requirements. #####
+
+(a) For each CAIR NOX Ozone Season source required to have a title V operating permit or required, under subpart IIII of this part, to have a title V operating permit or other federally enforceable permit, such permit shall include a CAIR permit administered by the permitting authority for the title V operating permit or the federally enforceable permit as applicable. The CAIR portion of the title V permit or other federally enforceable permit as applicable shall be administered in accordance with the permitting authority's title V operating permits regulations promulgated under part 70 or 71 of this chapter or the permitting authority's regulations for other federally enforceable permits as applicable, except as provided otherwise by § 96.305, this subpart and subpart IIII of this part.
+
+(b) Each CAIR permit shall contain, with regard to the CAIR NOX Ozone Season source and the CAIR NOX Ozone Season units at the source covered by the CAIR permit, all applicable CAIR NOX Ozone Season Trading Program, CAIR NOX Annual Trading Program, and CAIR SO2 Trading Program requirements and shall be a complete and separable portion of the title V operating permit or other federally enforceable permit under paragraph (a) of this section.
+
+[70 FR 25382, May 12, 2005, as amended at 71 FR 25394, Apr. 28, 2006]

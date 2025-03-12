@@ -1,0 +1,5 @@
+##### § 250.1158 How do I receive approval to downhole commingle hydrocarbons? #####
+
+(a) Before you perforate a well, you must request and receive approval from the Regional Supervisor to commingle hydrocarbons produced from multiple reservoirs within a common wellbore. The Regional Supervisor will determine whether your request maximizes ultimate recovery. You must include the service fee listed in § 250.125, according to the instructions in § 250.126, and the supporting information, as listed in the table in § 250.1167, with your request.
+
+(b) If one or more of the reservoirs proposed for commingling is a competitive reservoir, you must notify the operators of all leases that contain the reservoir that you intend to downhole commingle the reservoirs. Your request for approval of downhole commingling must include proof of the date of this notification. The notified operators have 30 days after notification to provide the Regional Supervisor with letters of acceptance or objection. If the notified operators do not respond within the specified period, the Regional Supervisor will assume the operators do not object and proceed with a decision.

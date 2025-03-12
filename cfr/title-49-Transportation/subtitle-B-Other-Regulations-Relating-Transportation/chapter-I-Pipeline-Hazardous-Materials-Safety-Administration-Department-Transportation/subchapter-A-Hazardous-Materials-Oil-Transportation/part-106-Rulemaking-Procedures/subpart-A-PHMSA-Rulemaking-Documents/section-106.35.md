@@ -1,0 +1,3 @@
+##### § 106.35 Interim final rule. #####
+
+An interim final rule is issued without first issuing a notice of proposed rulemaking and accepting public comments and sets out new regulatory requirements and their effective date. PHMSA may issue an interim final rule if it finds, for good cause, that notice and public procedure are impracticable, unnecessary, or contrary to the public interest. PHMSA will clearly set out this finding in the interim final rule. After receiving and reviewing public comments, as well as any other relevant documents, PHMSA may revise the interim final rule and then issue a final rule.

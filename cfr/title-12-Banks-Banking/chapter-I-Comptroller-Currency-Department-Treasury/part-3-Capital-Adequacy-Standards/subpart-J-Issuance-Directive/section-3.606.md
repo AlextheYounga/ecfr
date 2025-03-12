@@ -1,0 +1,3 @@
+##### § 3.606 Change in circumstances. #####
+
+Upon a change in circumstances, a national bank or Federal savings association may request the OCC to reconsider the terms of its directive or may propose changes in the plan to achieve the national bank's or Federal savings association's applicable minimum capital ratios. The OCC also may take such action on its own motion. The OCC may decline to consider requests or proposals that are not based on a significant change in circumstances or are repetitive or frivolous. Pending a decision on reconsideration, the directive and plan shall continue in full force and effect.

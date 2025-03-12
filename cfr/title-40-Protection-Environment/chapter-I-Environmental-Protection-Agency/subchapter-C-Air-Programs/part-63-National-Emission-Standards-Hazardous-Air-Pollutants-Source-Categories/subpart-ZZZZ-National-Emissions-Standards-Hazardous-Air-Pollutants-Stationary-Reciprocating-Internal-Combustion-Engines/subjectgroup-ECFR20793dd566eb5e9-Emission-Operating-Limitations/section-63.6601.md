@@ -1,0 +1,5 @@
+##### § 63.6601 What emission limitations must I meet if I own or operate a new or reconstructed 4SLB stationary RICE with a site rating of greater than or equal to 250 brake HP and less than or equal to 500 brake HP located at a major source of HAP emissions? #####
+
+Compliance with the numerical emission limitations established in this subpart is based on the results of testing the average of three 1-hour runs using the testing requirements and procedures in § 63.6620 and Table 4 to this subpart. If you own or operate a new or reconstructed 4SLB stationary RICE with a site rating of greater than or equal to 250 and less than or equal to 500 brake HP located at major source of HAP emissions manufactured on or after January 1, 2008, you must comply with the emission limitations in Table 2a to this subpart and the operating limitations in Table 2b to this subpart which apply to you.
+
+[73 FR 3605, Jan. 18, 2008, as amended at 75 FR 9675, Mar. 3, 2010; 75 FR 51589, Aug. 20, 2010]

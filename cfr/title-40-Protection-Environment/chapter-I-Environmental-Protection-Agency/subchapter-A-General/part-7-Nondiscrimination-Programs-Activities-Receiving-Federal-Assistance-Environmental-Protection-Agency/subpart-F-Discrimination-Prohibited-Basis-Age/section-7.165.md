@@ -1,0 +1,3 @@
+##### § 7.165 Special benefits for children and the elderly. #####
+
+If a recipient operating a program which serves the elderly or children in addition to persons of other ages, provides special benefits to the elderly or to children the provision of those benefits shall be presumed to be voluntary affirmative action provided that it does not have the effect of excluding otherwise eligible persons from participation in the program.

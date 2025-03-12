@@ -1,0 +1,5 @@
+##### § 347.114 Extensions of credit to foreign organizations held by insured state nonmember banks; shares of foreign organizations held in connection with debts previously contracted. #####
+
+(a) *Loans or extensions of credit.* A bank that directly or indirectly holds equity interests in a foreign organization pursuant to the authority of this subpart may make loans or extensions of credit to or for the accounts of the organization without regard to the provisions of section 18(j) of the FDI Act (12 U.S.C. 1828(j)).
+
+(b) *Debts previously contracted.* Equity interests acquired to prevent a loss upon a debt previously contracted in good faith are not subject to the limitations or procedures of this subpart; however, they must be disposed of promptly but in no event later than two years after their acquisition, unless the FDIC authorizes retention for a longer period.

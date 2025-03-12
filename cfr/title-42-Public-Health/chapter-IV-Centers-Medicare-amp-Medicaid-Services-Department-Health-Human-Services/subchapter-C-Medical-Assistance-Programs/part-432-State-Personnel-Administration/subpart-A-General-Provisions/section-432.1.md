@@ -1,0 +1,3 @@
+##### § 432.1 Basis and purpose. #####
+
+This part prescribes regulations to implement section 1902(a)(4) of the Act, which relates to a merit system of State personnel administration and training and use of subprofessional staff and volunteers in State Medicaid programs, and section 1903(a), rates of FFP for Medicaid staffing and training costs. It also prescribes regulations, based on the general administrative authority in section 1902(a)(4), for State training programs for all staff.

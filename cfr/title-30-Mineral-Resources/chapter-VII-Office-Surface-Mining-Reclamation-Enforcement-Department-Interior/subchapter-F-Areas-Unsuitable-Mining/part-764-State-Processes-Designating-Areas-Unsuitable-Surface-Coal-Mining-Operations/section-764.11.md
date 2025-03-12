@@ -1,0 +1,3 @@
+##### § 764.11 General process requirements. #####
+
+Each State shall establish a process enabling objective decisions to be made on which, if any, land areas of the State are unsuitable for all or certain types of surface coal mining operations. These decisions shall be based on competent, scientifically sound data and other relevant information. This process shall include the requirements listed in this part.

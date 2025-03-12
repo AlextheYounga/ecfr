@@ -1,0 +1,3 @@
+##### 801.304 Department control and compliance procedures. #####
+
+The Assistant Secretary for Management is designated as the Department's Chief Acquisition Officer. The Deputy Assistant Secretary (DAS) for Acquisition and Materiel Management is designated as the Department's Senior Procurement Executive (SPE). The Associate DAS for Acquisitions is designated as the Deputy Senior Procurement Executive (DSPE). The DSPE is responsible for amending the VAAR for compliance with FAR 1.304.

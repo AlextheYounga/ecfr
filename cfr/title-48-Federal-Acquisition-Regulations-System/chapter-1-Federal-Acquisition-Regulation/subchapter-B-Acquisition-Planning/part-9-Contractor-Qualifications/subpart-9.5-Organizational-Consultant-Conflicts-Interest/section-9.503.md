@@ -1,0 +1,3 @@
+##### 9.503 Waiver. #####
+
+The agency head or a designee may waive any general rule or procedure of this subpart by determining that its application in a particular situation would not be in the Government's interest. Any request for waiver must be in writing, shall set forth the extent of the conflict, and requires approval by the agency head or a designee. Agency heads shall not delegate waiver authority below the level of head of a contracting activity.

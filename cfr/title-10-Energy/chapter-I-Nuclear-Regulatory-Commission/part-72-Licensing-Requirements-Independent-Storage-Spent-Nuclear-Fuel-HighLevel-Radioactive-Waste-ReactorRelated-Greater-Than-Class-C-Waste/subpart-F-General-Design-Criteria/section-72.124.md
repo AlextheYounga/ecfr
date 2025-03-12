@@ -1,0 +1,9 @@
+##### § 72.124 Criteria for nuclear criticality safety. #####
+
+(a) *Design for criticality safety.* Spent fuel handling, packaging, transfer, and storage systems must be designed to be maintained subcritical and to ensure that, before a nuclear criticality accident is possible, at least two unlikely, independent, and concurrent or sequential changes have occurred in the conditions essential to nuclear criticality safety. The design of handling, packaging, transfer, and storage systems must include margins of safety for the nuclear criticality parameters that are commensurate with the uncertainties in the data and methods used in calculations and demonstrate safety for the handling, packaging, transfer and storage conditions and in the nature of the immediate environment under accident conditions.
+
+(b) *Methods of criticality control.* When practicable, the design of an ISFSI or MRS must be based on favorable geometry, permanently fixed neutron absorbing materials (poisons), or both. Where solid neutron absorbing materials are used, the design must provide for positive means of verifying their continued efficacy. For dry spent fuel storage systems, the continued efficacy may be confirmed by a demonstration or analysis before use, showing that significant degradation of the neutron absorbing materials cannot occur over the life of the facility.
+
+(c) *Criticality monitoring.* A criticality monitoring system shall be maintained in each area where special nuclear material is handled, used, or stored which will energize clearly audible alarm signals if accidental criticality occurs. Underwater monitoring is not required when special nuclear material is handled or stored beneath water shielding. Monitoring of dry storage areas where special nuclear material is packaged in its stored configuration under a license issued under this subpart is not required.
+
+[53 FR 31658, Aug. 19, 1988, as amended at 64 FR 33184, June 22, 1999]

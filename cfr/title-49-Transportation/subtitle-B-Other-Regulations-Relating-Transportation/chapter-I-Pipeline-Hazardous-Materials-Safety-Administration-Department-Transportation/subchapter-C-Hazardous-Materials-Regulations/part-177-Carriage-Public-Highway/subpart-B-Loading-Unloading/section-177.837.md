@@ -1,0 +1,17 @@
+##### § 177.837 Class 3 materials. #####
+
+(See also § 177.834 (a) to (j).)
+
+(a) *Engine stopped.* Unless the engine of a cargo tank motor vehicle is to be used for the operation of a pump, Class 3 material may not be loaded into, or on, or unloaded from any cargo tank motor vehicle while the engine is running. The diesel engine of a cargo tank motor vehicle may be left running during the loading and unloading of a Class 3 material if the ambient atmospheric temperature is at or below −12 °C (10 °F).
+
+(b) *Bonding and grounding containers other than cargo tanks prior to and during transfer of lading.* For containers which are not in metallic contact with each other, either metallic bonds or ground conductors shall be provided for the neutralization of possible static charges prior to and during transfers of Class 3 (flammable liquid) materials between such containers. Such bonding shall be made by first connecting an electric conductor to the container to be filled and subsequently connecting the conductor to the container from which the liquid is to come, and not in any other order. To provide against ignition of vapors by discharge of static electricity, the latter connection shall be made at a point well removed from the opening from which the Class 3 (flammable liquid) material is to be discharged.
+
+(c) *Bonding and grounding cargo tanks before and during transfer of lading.* (1) When a cargo tank is loaded through an open filling hole, one end of a bond wire shall be connected to the stationary system piping or integrally connected steel framing, and the other end to the shell of the cargo tank to provide a continuous electrical connection. (If bonding is to the framing, it is essential that piping and framing be electrically interconnected.) This connection must be made before any filling hole is opened, and must remain in place until after the last filling hole has been closed. Additional bond wires are not needed around All-Metal flexible or swivel joints, but are required for nonmetallic flexible connections in the stationary system piping. When a cargo tank is unloaded by a suction-piping system through an open filling hole of the cargo tank, electrical continuity shall be maintained from cargo tank to receiving tank.
+
+(2) When a cargo tank is loaded or unloaded through a vapor-tight (not open hole) top or bottom connection, so that there is no release of vapor at a point where a spark could occur, bonding or grounding is not required. Contact of the closed connection must be made before flow starts and must not be broken until after the flow is completed.
+
+(3) Bonding or grounding is not required when a cargo tank is unloaded through a nonvapor-tight connection into a stationary tank provided the metallic filling connection is maintained in contact with the filling hole.
+
+(d) *Unloading combustible liquids.* For a cargo tank unloading a material meeting the definition for combustible liquid in § 173.150(f) of this subchapter, the qualified person attending the unloading operation must remain within 45.72 meters (150 feet) of the cargo tank and 7.62 meters (25 feet) of the delivery hose and must observe both the cargo tank and the receiving container at least once every five minutes during unloading operations that take more than five minutes to complete.
+
+[29 FR 18795, Dec. 29, 1964]Editorial Note:For Federal Register citations affecting § 177.837, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

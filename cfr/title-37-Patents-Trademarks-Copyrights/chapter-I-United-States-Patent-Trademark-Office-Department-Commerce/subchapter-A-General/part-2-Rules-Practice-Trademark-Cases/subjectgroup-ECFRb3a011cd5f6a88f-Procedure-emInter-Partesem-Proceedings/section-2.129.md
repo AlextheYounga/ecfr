@@ -1,0 +1,13 @@
+##### § 2.129 Oral argument; reconsideration. #####
+
+Link to an amendment published at 81 FR 69984, October 7, 2016.
+
+(a) If a party desires to have an oral argument at final hearing, the party shall request such argument by a separate notice filed not later than ten days after the due date for the filing of the last reply brief in the proceeding. Oral arguments will be heard by at least three Administrative Trademark Judges of the Trademark Trial and Appeal Board at the time specified in the notice of hearing. If any party appears at the specified time, that party will be heard. If the Board is prevented from hearing the case at the specified time, a new hearing date will be set. Unless otherwise permitted, oral arguments in an *inter partes* case will be limited to thirty minutes for each party. A party in the position of plaintiff may reserve part of the time allowed for oral argument to present a rebuttal argument.
+
+(b) The date or time of a hearing may be reset, so far as is convenient and proper, to meet the wishes of the parties and their attorneys or other authorized representatives.
+
+(c) Any request for rehearing or reconsideration or modification of a decision issued after final hearing must be filed within one month from the date of the decision. A brief in response must be filed within fifteen days from the date of service of the request. The times specified may be extended by order of the Trademark Trial and Appeal Board on motion for good cause.
+
+(d) When a party to an *inter partes* proceeding before the Trademark Trial and Appeal Board cannot prevail without establishing constructive use pursuant to section 7(c) of the Act in an application under section 1(b) of the Act, the Trademark Trial and Appeal Board will enter a judgment in favor of that party, subject to the party's establishment of constructive use. The time for filing an appeal or for commencing a civil action under section 21 of the Act shall run from the date of the entry of the judgment.
+
+[48 FR 23141, May 23, 1983, as amended at 54 FR 29554, July 13, 1989; 54 FR 34900, Aug. 22, 1989; 54 FR 37597, Sept. 11, 1989; 72 FR 42263, Aug. 1, 2007]

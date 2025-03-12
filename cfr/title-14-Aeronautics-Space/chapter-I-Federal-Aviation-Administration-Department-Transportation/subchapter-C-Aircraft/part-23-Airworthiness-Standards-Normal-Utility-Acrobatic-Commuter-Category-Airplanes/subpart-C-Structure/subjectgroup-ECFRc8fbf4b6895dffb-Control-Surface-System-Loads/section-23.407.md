@@ -1,0 +1,3 @@
+##### § 23.407 Trim tab effects. #####
+
+The effects of trim tabs on the control surface design conditions must be accounted for only where the surface loads are limited by maximum pilot effort. In these cases, the tabs are considered to be deflected in the direction that would assist the pilot. These deflections must correspond to the maximum degree of “out of trim” expected at the speed for the condition under consideration.

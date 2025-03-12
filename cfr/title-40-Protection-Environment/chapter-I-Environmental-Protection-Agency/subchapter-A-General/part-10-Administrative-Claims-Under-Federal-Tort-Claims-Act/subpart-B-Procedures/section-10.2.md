@@ -1,0 +1,9 @@
+##### § 10.2 Administrative claim; when presented; place of filing. #####
+
+(a) For purpose of the regulations in this part, a claim shall be deemed to have been presented when the Environmental Protection Agency receives, at a place designated in paragraph (c) of this section, an executed Standard Form 95 or other written notification of an incident accompanied by a claim for money damages in a sum certain for damage to or loss of property, for personal injury, or for death, alleged to have occurred by reason of the incident. A claim which should have been presented to EPA, but which was mistakenly addressed to or filed with another Federal agency, shall be deemed to be presented to EPA as of the date that the claim is received by EPA. A claim mistakenly addressed to or filed with EPA shall forthwith be transferred to the appropriate Federal agency, if ascertainable, or returned to the claimant.
+
+(b) A claim presented in compliance with paragraph (a) of this section may be amended by the claimant at any time prior to final action by the Administrator, or his designee, or prior to the exercise of the claimant's option to bring suit under 28 U.S.C. 2675(a). Amendments shall be submitted in writing and signed by the claimant or his duly authorized agent or legal representative. Upon the timely filing of an amendment to a pending claim, EPA shall have 6 months in which to make a final disposition of the claim as amended and the claimant's option under 28 U.S.C. 2675(a) shall not accrue until 6 months after the filing of an amendment.
+
+(c) Forms may be obtained and claims may be filed with the EPA office having jurisdiction over the employee involved in the accident or incident, or with the EPA Claims Officer, Office of General Counsel (2311), 1200 Pennsylvania Ave., NW., Washington, DC 20460.
+
+[38 FR 16868, June 27, 1973, as amended at 51 FR 25832, July 16, 1986]

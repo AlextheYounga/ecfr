@@ -1,0 +1,7 @@
+##### § 8.31 Industrial security. #####
+
+(a) *Background.* The National Industrial Security Program was established by Executive Order 12829 of January 6, 1993 for the protection of information classified pursuant to Executive Order 12356 of April 2, 1982, National Security Information, or its predecessor or successor orders, and the Atomic Energy Act of 1954, as amended. The Secretary of Defense serves as the Executive Agent for inspecting and monitoring contractors, licensees, grantees, and certificate holders that require or will require access to, or that store or will store, classified information, and for determining the eligibility for access to classified information of contractors, licensees, certificate holders, and grantees, and their respective employees.
+
+(b) *Implementing regulations.* The Secretary of Transportation has entered into an agreement for the Secretary of Defense to render industrial security services for the Department of Transportation. Regulations prescribed by the Secretary of Defense to fulfill the provisions of Executive Order 12829 have been extended to protect release of classified information for which the Secretary of Transportation is responsible. Specifically, this regulation is DOD 5220.22-M, National Industrial Security Program Operating Manual, and is effective within the Department of Transportation. Appropriate security staff, project personnel, and contracting officers must assure that actions required by the regulation are taken.
+
+[62 FR 23661, May 1, 1997, as amended at 81 FR 45982, July 15, 2016]

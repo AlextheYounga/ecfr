@@ -1,0 +1,5 @@
+##### § 80.867 Ship station tools, instruction books, circuit diagrams and testing equipment. #####
+
+(a) Each ship station must be provided with such tools, testing equipment, instruction books and circuit diagrams to enable the radiotelephone installation to be maintained in efficient working condition while at sea. Each ship station licensee must compile a list of spare parts, tools, test equipment and circuit diagrams it considers necessary for compliance with this requirement. This list must be available at inspection. The Commission may consider equipment manufacturer lists of recommended spare parts, tools, test equipment, and repair circuit diagrams in determining compliance with this subsection. These items must be located convenient to the radio room.
+
+(b) The testing equipment must include an instrument or instruments for measuring A.C. volts, D.C. volts and ohms.

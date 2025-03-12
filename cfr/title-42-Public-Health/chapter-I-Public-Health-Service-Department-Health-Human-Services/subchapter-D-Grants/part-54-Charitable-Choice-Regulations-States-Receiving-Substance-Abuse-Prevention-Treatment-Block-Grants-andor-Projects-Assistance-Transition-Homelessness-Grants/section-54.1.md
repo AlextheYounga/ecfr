@@ -1,0 +1,3 @@
+##### § 54.1 Scope. #####
+
+These provisions apply only to funds provided directly to pay for substance abuse prevention and treatment services under 42 U.S.C. 300x-21 *et seq.,* and 42 U.S.C. 290cc-21 to 290cc-35. This part does not apply to direct funding under any such authorities for activities that do not involve the provision of substance abuse services, such as for infrastructure activities authorized under Section 1971 of the PHS Act, 42 U.S.C. 300y, and for technical assistance activities. This part implements the SAMHSA Charitable Choice provisions, 42 U.S.C. 300x-65 and 42 U.S.C. 290kk, *et seq.*

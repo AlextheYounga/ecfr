@@ -1,0 +1,3 @@
+##### § 610.405 Holiday for part-time employees on flexible work schedules. #####
+
+If a part-time employee is relieved or prevented from working on a day within the employee's scheduled tour of duty that is designated as a holiday by Federal statute or Executive order, the employee is entitled to basic pay with respect to the holiday for the number of hours the employee is scheduled to work on that day, not to exceed 8 hours. When a holiday falls on a nonworkday of a part-time employee, he or she is not entitled to an in-lieu-of day for that holiday.

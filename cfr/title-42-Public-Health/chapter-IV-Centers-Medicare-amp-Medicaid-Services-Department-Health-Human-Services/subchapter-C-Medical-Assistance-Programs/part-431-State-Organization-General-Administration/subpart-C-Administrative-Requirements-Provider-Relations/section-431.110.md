@@ -1,0 +1,5 @@
+##### § 431.110 Participation by Indian Health Service facilities. #####
+
+(a) *Basis.* This section is based on section 1902(a)(4) of the Act, proper and efficient administration; 1902(a)(23), free choice of provider; and 1911, reimbursement of Indian Health Service facilities.
+
+(b) *State plan requirements.* A State plan must provide that an Indian Health Service facility meeting State requirements for Medicaid participation must be accepted as a Medicaid provider on the same basis as any other qualified provider. However, when State licensure is normally required, the facility need not obtain a license but must meet all applicable standards for licensure. In determining whether a facility meets these standards, a Medicaid agency or State licensing authority may not take into account an absence of licensure of any staff member of the facility.

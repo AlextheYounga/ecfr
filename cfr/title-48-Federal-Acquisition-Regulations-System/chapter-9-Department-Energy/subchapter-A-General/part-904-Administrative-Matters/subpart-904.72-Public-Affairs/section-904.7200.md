@@ -1,0 +1,3 @@
+##### 904.7200 Purpose. #####
+
+It is the policy of the Department of Energy to provide to the public and the news media, accurate and timely unclassified information on Departmental policies, programs, and activities. The Department's contractors share the responsibility for releasing unclassified information related to efforts under their contracts and must coordinate the release of unclassified information with the cognizant contracting officer and appropriate DOE Public Affairs personnel.

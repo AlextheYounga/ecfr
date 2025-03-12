@@ -1,0 +1,33 @@
+##### § 1037.601 General compliance provisions. #####
+
+(a) Engine and vehicle manufacturers, as well as owners and operators of vehicles subject to the requirements of this part, and all other persons, must observe the provisions of this part, the applicable provisions of 40 CFR part 1068, and the applicable provisions of the Clean Air Act. The provisions of 40 CFR part 1068 apply for heavy-duty vehicles as specified in that part, subject to the provisions:
+
+(1) Except as specifically allowed by this part or 40 CFR part 1068, it is a violation of 40 CFR 1068.101(a)(1) to introduce into U.S. commerce either a tractor or vocational vehicle that is not certified to the applicable requirements of this part or a tractor or vocational vehicle containing an engine that is not certified to the applicable requirements of 40 CFR part 86 or 1036. Further, it is a violation to introduce into U.S. commerce a Phase 1 tractor containing an engine not certified for use in tractors; or to introduce into U.S. commerce a vocational vehicle containing a Light HDE or Medium HDE not certified for use in vocational vehicles. These prohibitions apply especially to the vehicle manufacturer. Note that this paragraph (a)(1) allows the use of Heavy heavy-duty tractor engines in vocational vehicles.
+
+(2) The provisions of 40 CFR 1068.105(a) apply for vehicle manufacturers installing engines certified under 40 CFR part 1036 as further limited by this paragraph (a)(2). If new engine emission standards apply in a given model year, you may install normal inventories of engines from the preceding model year under the provisions of 40 CFR 1068.105(a) through March 31 of that year without our approval; you may not install such engines after March 31 of that year unless we approve it in advance. Installing such engines after March 31 without our prior approval is considered to be prohibited stockpiling of engines. In a written request for our approval, you must describe how your circumstances led you and your engine supplier to have normal inventories of engines that were not used up in the specified time frame. We will approve your request for up to three additional months to install engines under this paragraph (a)(2) if we determine that the excess inventory is a result of unforeseeable circumstances and should not be considered circumvention of emission standards. We will limit this approval to a certain number of engines consistent with your normal production and inventory practices. Note that 40 CFR 1068.105(a) allows vehicle manufacturers to use up only normal inventories of engines meeting less stringent standards; if, for example, a vehicle manufacturer's normal practice is to receive a shipment of engines every two weeks, it will deplete its potential to install previous-tier engines under this paragraph (a)(2) well before March 31 in the year that new standards apply.
+
+(3) The exemption provisions of 40 CFR 1068.201 through 1068.230, 1068.240, and 1068.260 through 265 apply for heavy-duty motor vehicles. Other exemption provisions, which are specific to nonroad engines, do not apply for heavy-duty vehicles or heavy-duty engines.
+
+(4) The tampering prohibition in 40 CFR 1068.101(b)(1) applies for alternative fuel conversions as specified in 40 CFR part 85, subpart F.
+
+(5) The warranty-related prohibitions in section 203(a)(4) of the Act (42 U.S.C. 7522(a)(4)) apply to manufacturers of new heavy-duty highway vehicles in addition to the prohibitions described in 40 CFR 1068.101(b)(6). We may assess a civil penalty up to $44,539 for each engine or vehicle in violation. The civil monetary penalty amount listed in this section may not reflect recent inflation adjustments EPA is required to make. The current maximum and minimum statutory civil penalty amounts are located in § 19.4.
+
+(6) A vehicle manufacturer that completes assembly of a vehicle at two or more facilities may ask to use as the date of manufacture for that vehicle the date on which manufacturing is completed at the place of main assembly, consistent with provisions of 49 CFR 567.4. Note that such staged assembly is subject to the corresponding provisions of 40 CFR 1068.260. Include your request in your application for certification, along with a summary of your staged-assembly process. You may ask to apply this allowance to some or all of the vehicles in your vehicle family. Our approval is effective when we grant your certificate. We will not approve your request if we determine that you intend to use this allowance to circumvent the intent of this part.
+
+(7) The provisions for selective enforcement audits apply as described in 40 CFR part 1068, subpart E, and subpart D of this part.
+
+(b) Vehicles exempted from the applicable standards of 40 CFR part 86 or 1036 other than glider vehicles are exempt from the standards of this part without request. Similarly, vehicles other than glider vehicles are exempt without request if the installed engine is exempted from the applicable standards in 40 CFR part 86 or 1036.
+
+(c) The prohibitions of 40 CFR 1068.101 apply for vehicles subject to the requirements of this part. The following specific provisions apply:
+
+(1) The actions prohibited under this provision include introducing into U.S. commerce a complete or incomplete vehicle subject to the standards of this part where the vehicle is not covered by a valid certificate of conformity or exemption.
+
+(2) Applying a Clean Idle sticker to a vehicles with an installed engine that is not certified to the NOX standard of 40 CFR 1036.104(b) violates the prohibition in 40 CFR 1068.101(b)(7)(iii).
+
+(d) The emergency vehicle field modification provisions of 40 CFR 85.1716 apply with respect to the standards of this part.
+
+(e) Under § 1037.801, certain vehicles are considered to be new vehicles when they are imported into the United States, even if they have previously been used outside the country. Independent Commercial Importers may use the provisions of 40 CFR part 85, subpart P, and 40 CFR 85.1706(b) to receive a certificate of conformity for engines and vehicles meeting all the requirements of 40 CFR part 1036 and this part 1037.
+
+(f) Standards apply to multi-fuel vehicles as described for engines in 40 CFR 1036.601(d).
+
+[81 FR 74048, Oct. 25, 2016, as amended at 86 FR 34489, June 29, 2021; 88 FR 4652, Jan. 24, 2023; 89 FR 29787, Apr. 22, 2024; 89 FR 88656, Nov. 8, 2024]

@@ -1,0 +1,7 @@
+##### § 3.58 Governmental registers. #####
+
+(a) The Office will maintain a Departmental Register to record governmental interests required to be recorded by Executive Order 9424. This Departmental Register will not be open to public inspection but will be available for examination and inspection by duly authorized representatives of the Government. Governmental interests recorded on the Departmental Register will be available for public inspection as provided in § 1.12.
+
+(b) The Office will maintain a Secret Register to record governmental interests required to be recorded by Executive Order 9424. Any instrument to be recorded will be placed on this Secret Register at the request of the department or agency submitting the same. No information will be given concerning any instrument in such record or register, and no examination or inspection thereof or of the index thereto will be permitted, except on the written authority of the head of the department or agency which submitted the instrument and requested secrecy, and the approval of such authority by the Director. No instrument or record other than the one specified may be examined, and the examination must take place in the presence of a designated official of the Patent and Trademark Office. When the department or agency which submitted an instrument no longer requires secrecy with respect to that instrument, it must be recorded anew in the Departmental Register.
+
+[62 FR 53203, Oct. 10, 1997]

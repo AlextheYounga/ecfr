@@ -1,0 +1,3 @@
+##### § 136.101 Applicability. #####
+
+The regulations of this subpart are applicable to grants awarded pursuant to section 104(b) of Pub. L. 93-638, 25 U.S.C. 450h(b) for (a) projects for development including feasibility studies, construction, operation, provision, or maintenance of services and facilities provided to Indians and, (b) for projects for planning, training, evaluation or other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 103 of the Act. Such grants may include the cost of training personnel to perform grant related activities.

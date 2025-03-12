@@ -1,0 +1,3 @@
+##### § 963.11 Suitability determination. #####
+
+DOE will evaluate whether the Yucca Mountain site is suitable for the location of a geologic repository on the basis of the preclosure and postclosure determinations described in §§ 963.12 and 963.15. If DOE's evaluation of the Yucca Mountain site for the location of a geologic repository under §§ 963.12 and 963.15 shows that the geologic repository is likely to meet the applicable radiation protection standards for the preclosure and postclosure periods, then DOE may determine that the site is a suitable location for the development of such a repository.

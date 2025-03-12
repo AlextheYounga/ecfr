@@ -1,0 +1,5 @@
+##### § 35.112 Factors considered in determining award amount. #####
+
+(a) After approving an application under § 35.111, the Regional Administrator will consider such factors as the applicant's allotment, the extent to which the proposed work plan is consistent with EPA guidance and mutually agreed upon priorities, and the anticipated cost of the work plan relative to the proposed work plan components, to determine the amount of funds to be awarded.
+
+(b) If the Regional Administrator finds the requested level of funding is not justified or the work plan does not comply with the requirements of § 35.107, the Regional Administrator will attempt to negotiate a resolution of the issues with the applicant before determining the award amount. The Regional Administrator may determine that the award amount will be less than the amount allotted or requested.

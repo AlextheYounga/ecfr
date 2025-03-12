@@ -1,0 +1,3 @@
+##### § 797.6 Administrative offset prior to completion of procedures. #####
+
+Prior to the completion of the procedures described in § 797.7, NCUA may effect administrative offset if failure to offset would substantially prejudice its ability to collect the debt, and if the time before the payment is to be made does not reasonably permit completion of the procedures described in § 797.7. Such prior administrative offset shall be followed promptly by the completion of the procedures described in § 797.7.

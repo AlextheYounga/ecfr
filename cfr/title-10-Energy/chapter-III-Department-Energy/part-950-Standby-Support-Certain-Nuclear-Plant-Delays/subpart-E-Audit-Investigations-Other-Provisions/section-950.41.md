@@ -1,0 +1,3 @@
+##### § 950.41 Monitoring/Auditing. #####
+
+The Department has the right to audit any and all costs associated with the Standby Support Contracts. Auditors who are employees of the United States government, who are designated by the Secretary of Energy or by the Comptroller General of the United States, shall have access to, and the right to examine, at the sponsor's site or elsewhere, any pertinent documents and records of a sponsor at reasonable times under reasonable circumstances. The Secretary may direct the sponsor to submit to an audit by a public accountant or equivalent acceptable to the Secretary.

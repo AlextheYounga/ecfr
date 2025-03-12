@@ -1,0 +1,7 @@
+##### § 2638.101 Mission. #####
+
+(a) *Mission.* The primary mission of the executive branch ethics program is to prevent conflicts of interest on the part of executive branch employees.
+
+(b) *Breadth.* The executive branch ethics program works to ensure that public servants make impartial decisions based on the interests of the public when carrying out the governmental responsibilities entrusted to them, serve as good stewards of public resources, and loyally adhere to the Constitution and laws of the United States. In the broadest sense of the term, “conflicts of interest” stem from financial interests; business or personal relationships; misuses of official position, official time, or public resources; and the receipt of gifts. The mission is focused on both conflicts of interest and the appearance of conflicts of interest.
+
+(c) *Conflicts-based program.* The executive branch ethics program is a conflicts-based program, rather than a solely disclosure-based program. While transparency is an invaluable tool for promoting and monitoring ethical conduct, the executive branch ethics program requires more than transparency. This program seeks to ensure the integrity of governmental decision making and to promote public confidence by preventing conflicts of interest. Taken together, the systems in place to identify and address conflicts of interest establish a foundation on which to build and sustain an ethical culture in the executive branch.

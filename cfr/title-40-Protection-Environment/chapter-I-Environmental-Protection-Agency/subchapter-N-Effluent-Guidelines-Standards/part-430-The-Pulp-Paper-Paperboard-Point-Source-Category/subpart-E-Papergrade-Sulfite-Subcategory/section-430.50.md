@@ -1,0 +1,3 @@
+##### § 430.50 Applicability; description of the papergrade sulfite subcategory. #####
+
+The provisions of this subpart apply to discharges resulting from the: Integrated production of pulp and paper at papergrade sulfite mills, where blow pit pulp washing techniques are used; and the integrated production of pulp and paper at papergrade sulfite mills where vacuum or pressure drums are used to wash pulp.

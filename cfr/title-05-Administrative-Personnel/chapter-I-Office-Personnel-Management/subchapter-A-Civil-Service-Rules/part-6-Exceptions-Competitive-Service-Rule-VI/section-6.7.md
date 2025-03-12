@@ -1,0 +1,3 @@
+##### § 6.7 Movement of persons between the civil service system and other merit systems. #####
+
+Whenever OPM and any Federal agency having an established merit system determine it to be in the interest of good administration and consistent with the intent of the civil service laws and any other applicable laws, they may enter into an agreement prescribing conditions under which persons may be moved from one system to the other and defining the status and tenure that the persons affected shall acquire upon such movement.

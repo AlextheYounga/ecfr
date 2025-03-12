@@ -1,0 +1,69 @@
+##### § 73.702 Assignment and use of frequencies. #####
+
+(a) Frequencies will be assigned by the Commission prior to the start of each season to authorized international broadcasting stations for use during the season at specified hours and for transmission to specified zones or areas of reception, with specified power and antenna bearing. Six months prior to the start of each season, licensees and permittees shall by informal written request, submitted to the Commission in triplicate, indicate for the season the frequency or frequencies desired for transmission to each zone or area of reception specified in the license or permit, the specific hours during which it desires to transmit to such zones or areas on each frequency, and the power, antenna gain, and antenna bearing it desires to use. Requests will be honored to the extent that interference and propagation conditions permit and that they are otherwise in accordance with the provisions of this section.
+
+(b) After necessary processing of the requests required by paragraph (a) of this section, the Commission will notify each licensee and permittee of the frequencies, hours of use thereof to specified zones or areas of reception, power, and antenna bearing which it intends to authorize for the season in question. After receipt of such notification, the licensee or permittee shall, in writing, not later than two months before the start of the season in question, inform the Commission either that it plans to operate in accordance with the authorization which the Commission intends to issue, or that it plans to operate in another manner. If the licensee or permittee indicates that it plans to operate in another manner, it shall furnish explanatory details.
+
+(c) If after submitting the request required under the provisions of paragraph (a) of this section, but before receipt of the Commission's notification referred to in paragraph (b) of this section, the licensee or permittee submits a request for changes of its original request, such requests will be accepted for consideration only if accompanied by statements showing good cause therefor and will be honored only if conditions permit. If the information required to be submitted by the licensee or permittee under the provisions of paragraph (b) of this section indicates that operation in another manner is contemplated, and the explanatory details contain a request for change in the originally proposed manner of operation, such requests will be accepted for consideration only if accompanied by statements showing good cause therefor and will be honored only if conditions permit. If after the licensee or permittee submits the information required under the provisions of paragraph (b) of this section, but before the start of the season in question, the licensee or permittee submits a request for changes in its manner of operation for the season in question, the request will be accepted for consideration only if accompanied by statements showing good cause therefor and will be honored only if conditions permit. If after the start of a season the licensee or permittee submits a request for changes in the manner of operation as authorized, the request will be considered only if accompanied by statements showing good cause therefor, and will be honored only if conditions permit.
+
+(d) The provisions of paragraphs (a), (b), and (c) of the section shall apply to licensees, to permittees operating under program test authority, and to permittees who anticipate applying for and receiving program test authority for operation during the specified season.
+
+Note:
+
+Permittees who during the process of construction wish to engage in equipment tests shall by informal written request, submitted to the Commission in triplicate not less than 30 days before they desire to begin such testing, indicate the frequencies they desire to use for testing and the hours they desire to use those frequencies. No equipment testing shall occur until the Commission has authorized frequencies and hours for such testing. Such authorizations shall be only for one season, and if it is desired to continue equipment testing in a following season, new requests for frequencies and hours must be submitted at least 30 days before it is desired to begin testing in the following season.
+
+(e) Within 14 days after the end of each season, a report shall be filed with the Commission by each licensee or permittee operating under program test authority who has been issued a seasonal schedule for that season. The report shall state whether the licensee or permittee has operated the number of frequency-hours authorized by the seasonal schedule to each of the zones or areas of reception specified in the schedule. If such operation has not occurred, a detailed explanation of that fact shall also be submitted which includes specific dates, frequency-hours not used, and reasons for the failure to operate as authorized. The report shall also contain information that has been received by the licensee or permittee as to reception or interference, and conclusions with regard to propagation characteristics of frequencies that were assigned for the season in question.
+
+(f) *Assigned frequencies.* To the extent practicable, the frequencies assigned to international broadcast stations shall be within the following frequency bands, which are allocated to the broadcasting service on a primary and exclusive basis, except as noted in paragraph (f)(1)(ii) of this section:
+
+(1) *In all Regions:*
+
+(i) *Exclusive:* 5,900-6,200 kHz; 7,300-7,350 kHz; 9,400-9,900 kHz; 11,600-12,100 kHz; 13,570-13,870 kHz; 15,100-15,800 kHz; 17,480-17,900 kHz; 18,900-19,020 kHz; 21,450-21,850 kHz; and 25,670-26,100 kHz.
+
+(ii) *Co-primary:* 7,350-7,400 kHz, except in the countries listed in 47 CFR 2.106, footnote 5.143C, where this band is also allocated to the fixed service on a primary basis.
+
+(2) *In Region 1 and Region 3:* 7,200-7,300 kHz and 7,400-7,450 kHz.
+
+Note to paragraph (f):
+
+For the allocation of frequencies, the ITU has divided the world into three Regions, which are defined in 47 CFR 2.104(b). The bands 7,200-7,300 kHz and 7,400-7,450 kHz are not allocated to the broadcasting service in Region 2. Subject to not causing harmful interference to the broadcasting service, fixed and mobile services may operate in certain of the international broadcasting bands; see 47 CFR 2.106, footnotes 5.136, 5.143, 5.143A, 5.143B, 5.143D, 5.146, 5.147, and 5.151.
+
+(g) [Reserved]
+
+(h) *Requirements for Regional operation.* (1) Frequency assignments in the bands 7,200-7,300 kHz and 7,400-7,450 kHz shall be restricted to international broadcast stations in the Pacific insular areas that are located in Region 3 (as defined in 47 CFR 2.105(a), note 3) that transmit to geographical zones and areas of reception in Region 1 or Region 3.
+
+(2) During the hours of 0800-1600 UTC (Coordinated Universal Time) antenna gain with reference to an isotropic radiator in any easterly direction that would intersect any area in Region 2 shall not exceed 2.15 dBi, except in the case where a transmitter power of less than 100 kW is used. In this case, antenna gain on restricted azimuths shall not exceed that which is determined in accordance with equation below. Stations desiring to operate in this band must submit sufficient antenna performance information to ensure compliance with these restrictions. Permitted gain for transmitter powers less than 100 kW:
+
+![](/graphics/er10au05.065.gif)Where:Gi = maximum gain permitted with reference to an isotropic radiator.Pa = Transmitter power employed in kW.
+
+(i) Frequencies requested for assignment must be as near as practicable to the optimum working frequency (unless otherwise justified) for the zone or area of reception for the period and path of transmission, and should be chosen so that a given frequency will provide the largest period of reliable transmission to the selected zone or area of reception. Moreover, at the zone or area of reception frequencies shall provide protection to the transmissions of other broadcasting stations which, in the opinion of the Commission, have priority of assignment.
+
+Note 1:
+
+Requests for frequency-hours shall be accompanied by all pertinent technical data with reference to the frequencies and hours of operation, including calculated field strengths delivered to the zones or areas of reception.
+
+Note 2:
+
+It is preferable that calculated field strengths delivered to zones or areas of reception be equal to or greater than those required by I.F.R.B. Technical Standards, Series A (and supplements thereto), in order for the I.F.R.B. to afford the notified assignment protection from interference. Nevertheless, calculated field strengths less than those required by the I.F.R.B. standards for protection will be acceptable to the Commission. However, licensees should note that if such lesser field strengths are submitted no protection from interference will be provided by the I.F.R.B. if their technical examination of such notifications show incompatibilities with other notified assignments fully complying with I.F.R.B. technical standards.
+
+Note 3:
+
+Licensees are permitted to engage in multiple operation as defined in § 73.701(d).
+
+Note 4:
+
+Seasonal requests for frequency-hours will be only for transmissions to zones or areas of reception specified in the basic instrument of authorization. Changes in such zones or areas will be made only on separate application for modification of such instruments.
+
+(j) Not more than one frequency will be assigned for use at any one time for any one program transmission except in instances where a program is intended for reception in more than one zone or area of reception and the intended zones or areas cannot be served by a single frequency: *Provided, however,* That on a showing of good cause a licensee may be authorized to operate on more than one frequency at any one time to transmit any one program to a single zone or area of reception.
+
+(k) Any frequency assigned to a licensee or permittee shall also be available for assignment to other licensees or permittees.
+
+(l) All assignments of frequencies and the hours during which they will be used will be made with the express understanding that they are subject to immediate cancellation or change without hearing whenever the Commission determines that interference or propagation conditions so require and that each frequency-hour assignment for a given seasonal schedule is unique unto itself and not necessarily available for use during a subsequent season.
+
+(m) The total maximum number of frequency-hours which will be authorized to all licensees of international broadcasting stations during any one day for any season is 100. The number of frequency-hours allocated to any licensee will depend on past usage, availability, and need. If for a forthcoming season the total of the requests for daily frequency-hours of all licensees exceeds 100, all licensees will be notified and each licensee that makes an adequate showing that good cause exists for not having its requested number of frequency-hours reduced and that operation of its station without such reduction would be consistent with the public interest may be authorized the frequency-hours requested.
+
+Note:
+
+The provisions of this paragraph are not to be construed to mean that a total of 100 (or more) frequency-hours per day is assured licensees. Frequency-hours will only be assigned to the extent that they are available. It is the responsibility of each licensee to make all technical studies to show that frequency-hours requested by it are available and suitable for use as proposed.
+
+[38 FR 18892, July 16, 1973, as amended at 51 FR 9965, Mar. 24, 1986; 68 FR 25538, May 13, 2003; 70 FR 46676, Aug. 10, 2005; 73 FR 25496, May 6, 2008; 75 FR 63031, Oct. 13, 2010]

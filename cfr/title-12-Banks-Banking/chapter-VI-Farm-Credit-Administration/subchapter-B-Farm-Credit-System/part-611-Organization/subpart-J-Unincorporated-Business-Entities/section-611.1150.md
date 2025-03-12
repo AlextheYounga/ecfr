@@ -1,0 +1,5 @@
+##### § 611.1150 Purpose and scope. #####
+
+(a) *Purpose.* This subpart sets forth the parameters for one or more Farm Credit System (System) institutions to organize or invest in an Unincorporated Business Entity (UBE) in accordance with the Farm Credit Act of 1971, as amended (Act).
+
+(b) *Scope.* Except as authorized under these regulations, no System institution may manage, control, become a member or partner, or invest in a State-organized or chartered business entity. This subpart applies to each System institution that organizes or invests in a UBE, including a UBE organized for the express purpose of investing in a Rural Business Investment Company. This subpart does not apply to UBEs that one or more System institutions have the authority to establish as Rural Business Investment Companies pursuant to the provisions of title VI of the Farm Security and Rural Investment Act of 2002, as amended (FSRIA) and United States Department of Agriculture regulations implementing FSRIA.

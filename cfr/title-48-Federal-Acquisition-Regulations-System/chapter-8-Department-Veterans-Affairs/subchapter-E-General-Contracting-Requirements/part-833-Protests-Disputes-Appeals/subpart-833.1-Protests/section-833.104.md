@@ -1,0 +1,11 @@
+##### 833.104 Protests to GAO. #####
+
+(a) *General procedures.* (1) Procedures for protests to GAO are at 4 CFR Part 21 (GAO Bid Protest Regulations). If guidance concerning GAO procedure in this section differs from 4 CFR Part 21, 4 CFR Part 21 applies.
+
+(2) When a protest before or after award has been filed with GAO, the contracting officer must submit a report to the DAS for A&MM, or the Director, Office Construction and Facilities Management, as appropriate, within 5 workdays after receipt of verbal or written notice of the protest, whichever occurs first. The report must include a copy of the documentation indicated in FAR 33.104(a)(3).
+
+(3) Contracting officers are responsible for the notification procedures outlined in FAR 33.104(a)(4).
+
+(b) *Protests before award.* When VA receives notice from GAO of a pre-award protest filed directly with GAO, award will normally not be made until the matter is resolved. However, award may be made despite the protest if the DAS for A&MM, or the Director, Office of Construction and Facilities Management, as appropriate, approves the findings of the HCA required by FAR 33.104(b)(1) and GAO has been notified as provided by FAR 33.104(b)(2). The Director, Acquisition Resources Service, or the Director, Office of Construction and Facilities Management, as appropriate, is responsible for notifying GAO.
+
+(c) *Protests after award.* When, after award of a contract, VA receives notice from GAO of a protest filed directly with GAO, the contracting officer must, if required to do so by FAR 33.104(c)(1), immediately suspend performance. However, contract performance need not be suspended, despite the protest, if the SPE approves the HCA's findings required by FAR 33.104(c)(2) and GAO has been notified under FAR 33.104(c)(3). Authority to approve the HCA's findings is further delegated to the DSPE and, for solicitations issued by the Officer of Construction and Facilities Management, the Director, Office of Construction and Facilities Management. The Director, Acquisition Resources Service, or the Director, Office of Construction and Facilities Management, as appropriate, is responsible for notifying GAO.

@@ -1,0 +1,23 @@
+##### § 90.629 Extended implementation period. #####
+
+Applicants requesting frequencies for either trunked or conventional operations may be authorized a period of up to five (5) years for constructing and placing a system in operation in accordance with the following:
+
+(a) The applicant must justify an extended implementation period. The justification must describe the proposed system, state the amount of time necessary to construct and place the system in operation, identify the number of base stations to be constructed and placed in operation during each year of the extended construction period, and show that:
+
+(1) The proposed system will require longer than twelve (12) months to construct and place in operation because of its purpose, size, or complexity; or
+
+(2) The proposed system is to be part of a coordinated or integrated wide-area system which will require more than twelve (12) months to plan, approve, fund, purchase, construct, and place in operation; or
+
+(3) The applicant is required by law to follow a multi-year cycle for planning, approval, funding, and purchasing the proposed system.
+
+(b) Where an applicant is required by law to follow a multi-year cycle for planning, approval, funding and purchasing a proposed system, the applicant must indicate whether funding approval has been obtained and if not, when such funding approval is expected.
+
+(c) Authorizations under this section are conditioned upon the licensee constructing and placing its system in operation within the authorized implementation period and in accordance with an approved implementation plan of up to five years. Licensees must notify the Commission annually, using FCC Form 601, that they are in compliance with their yearly station construction commitments, but may request amendment to these commitments at the time they file their annual certification. If the Commission approves the requested amendments to a licensee's implementation commitments, the licensee's extended implementation authority will remain in effect. If, however, the Commission concludes, at this or any other time, that a licensee has failed to meet its commitments, the Commission will terminate authority for the extended implementation period. When the Commission terminates an extended implementation authority, the affected licensee will be given six months from the date of termination to complete system construction. At the end of any licensee's extended implementation period, authorizations for all stations not constructed and placed in operation will be cancelled. Trunked systems granted an extended implementation period must comply with the channel loading requirements of section 90.631(b). Conventional channels not loaded to 70 mobile units may be subject to shared use by the addition of other licensees.
+
+(d) [Reserved]
+
+(e) As of March 18, 1996, Specialized Mobile Radio systems are not eligible for extended implementation periods under this section. Additionally, all 800 MHz SMR licensees that are operating under extended implementation authority as of March 18, 1996 must, by May 16, 1996, demonstrate that continuing to allow them to have an extended period of time to construct their facilities is warranted and furthers the public interest. If a licensee's extended implementation authority showing is approved by the Bureau, such licensee will be afforded an extended implementation of two years or the remainder of its current extended implementation period, whichever is shorter. Upon the termination of this period, the authorizations for those facilities that remain unconstructed will terminate automatically. If a licensee with a current extended implementation period fails to submit the showing mentioned above within the designated timeframe or submits an insufficient or incomplete showing, such licensee will have six months from the last day on which it could timely file such a showing or from the disapproval of its request to construct the remaining facilities covered under its implementation plan to construct any unconstructed facilities for which it is authorized. The authorizations for those facilities remaining unconstructed after this six-month period will terminate automatically.
+
+(f) Pursuant to § 90.155(b), the provisions of this section shall apply to local government entities applying for any frequency in the Public Safety Pool.
+
+[58 FR 34379, June 25, 1993, as amended at 61 FR 6157, Feb. 16, 1996; 63 FR 68969, Dec. 14, 1998; 65 FR 60877, Oct. 13, 2000; 69 FR 67489, Nov. 22, 2004]

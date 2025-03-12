@@ -1,0 +1,3 @@
+##### § 330.701 Purpose. #####
+
+The Interagency Career Transition Assistance Program (ICTAP) provides eligible displaced Federal employees with interagency selection priority for vacancies in agencies that are filling positions from outside their respective permanent competitive service workforces. The ICTAP selection priority does not apply in the ICTAP eligible's current or former agency and it does not prohibit movement of permanent competitive service employees within an agency, as permitted by subpart F of this part. This subpart establishes requirements for ICTAP selection priority.

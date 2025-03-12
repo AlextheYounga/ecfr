@@ -1,0 +1,3 @@
+##### § 130.33 Response plan implementation. #####
+
+If, during transportation of oil subject to this part, a discharge occurs - into or on the navigable waters of the United States; on the adjoining shorelines to the navigable waters; or that may affect natural resources belonging to, appertaining to, or under the exclusive management authority of, the United States - the person transporting the oil shall implement the plan required by § 130.31, in a manner consistent with the National Contingency Plan, 40 CFR part 300, or as otherwise directed by the Federal on-scene coordinator.

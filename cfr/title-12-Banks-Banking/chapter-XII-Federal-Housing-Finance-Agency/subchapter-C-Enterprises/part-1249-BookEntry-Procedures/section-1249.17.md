@@ -1,0 +1,3 @@
+##### § 1249.17 Waiver of regulations. #####
+
+The Director reserves the right, in the Director's discretion, to waive any provision(s) of this part in any case or class of cases for the convenience of an Enterprise, the United States, or in order to relieve any person(s) of unnecessary hardship, if such action is not inconsistent with law, does not adversely affect any substantial existing rights, and the Director is satisfied that such action will not subject an Enterprise or the United States to any substantial expense or liability.

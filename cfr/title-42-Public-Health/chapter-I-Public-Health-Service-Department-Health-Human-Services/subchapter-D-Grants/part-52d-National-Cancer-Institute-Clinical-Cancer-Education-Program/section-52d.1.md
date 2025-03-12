@@ -1,0 +1,3 @@
+##### § 52d.1 Applicability. #####
+
+The regulations in this part apply to grants under the Clinical Cancer Education Program authorized by section 404(a)(4) of the Public Health Service Act, to encourage planning and development of multidisciplinary educational programs aimed at achieving optimal care of cancer patients and to enable students in the health professions to acquire basic knowledge of neoplastic disease and the preventive measures and diagnostic and therapeutic skills necessary to the provision of such care.

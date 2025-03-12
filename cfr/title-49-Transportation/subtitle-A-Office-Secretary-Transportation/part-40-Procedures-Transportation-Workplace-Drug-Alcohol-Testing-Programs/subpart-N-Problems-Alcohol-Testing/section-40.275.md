@@ -1,0 +1,7 @@
+##### § 40.275 What is the effect of procedural problems that are not sufficient to cancel an alcohol test? #####
+
+(a) As an STT, BAT, employer, or a service agent administering the testing process, you must document any errors in the testing process of which you become aware, even if they are not “fatal flaws” or “correctable flaws” listed in this subpart. Decisions about the ultimate impact of these errors will be determined by administrative or legal proceedings, subject to the limitation of paragraph (b) of this section.
+
+(b) No person concerned with the testing process may declare a test cancelled based on a mistake in the process that does not have a significant adverse effect on the right of the employee to a fair and accurate test. For example, it is inconsistent with this part to cancel a test based on a minor administrative mistake (*e.g.,* the omission of the employee's middle initial) or an error that does not affect employee protections under this part. Nor does the failure of an employee to sign in Step 4 of the ATF result in the cancellation of the test. Nor is a test to be cancelled on the basis of a claim by an employee that he or she was improperly selected for testing.
+
+(c) As an employer, these errors, even though not sufficient to cancel an alcohol test result, may subject you to enforcement action under DOT agency regulations.

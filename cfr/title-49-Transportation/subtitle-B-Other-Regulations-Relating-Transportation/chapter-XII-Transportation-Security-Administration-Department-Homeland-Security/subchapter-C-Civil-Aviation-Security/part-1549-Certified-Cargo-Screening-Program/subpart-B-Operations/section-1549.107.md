@@ -1,0 +1,3 @@
+##### § 1549.107 Security coordinators. #####
+
+Each certified cargo screening facility must have a Security Coordinator and designated alternate Security Coordinator appointed at the corporate level. In addition, each certified cargo screening facility must have a facility Security Coordinator and alternate facility Security Coordinator appointed at the facility level. The facility Security Coordinator must serve as the certified cargo screening facility's primary contact for security-related activities and communications with TSA, as set forth in the security program. The Security Coordinator and alternate appointed at the corporate level, as well as the facility Security Coordinator and alternate, must be available on a 24-hour, 7-days a week basis.

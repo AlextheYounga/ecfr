@@ -1,0 +1,3 @@
+##### § 229.37 Variation by agreement. #####
+
+The effect of the provisions of subpart C may be varied by agreement, except that no agreement can disclaim the responsibility of a bank for its own lack of good faith or failure to exercise ordinary care, or can limit the measure of damages for such lack or failure; but the parties may determine by agreement the standards by which such responsibility is to be measured if such standards are not manifestly unreasonable.

@@ -1,0 +1,7 @@
+##### 31.205-27 Organization costs. #####
+
+(a) Except as provided in paragraph (b) of this section, expenditures in connection with (1) planning or executing the organization or reorganization of the corporate structure of a business, including mergers and acquisitions, (2) resisting or planning to resist the reorganization of the corporate structure of a business or a change in the controlling interest in the ownership of a business, and (3) raising capital (net worth plus long-term liabilities), are unallowable. Such expenditures include but are not limited to incorporation fees and costs of attorneys, accountants, brokers, promoters and organizers, management consultants and investment counselors, whether or not employees of the contractor. Unallowable *reorganization* costs include the cost of any change in the contractor's financial structure, excluding administrative costs of short-term borrowings for working capital, resulting in alterations in the rights and interests of security holders, whether or not additional capital is raised.
+
+(b) The cost of activities primarily intended to provide compensation will not be considered organizational costs subject to this subsection, but will be governed by 31.205-6. These activities include acquiring stock for (1) executive bonuses, (2) employee savings plans, and (3) employee stock ownership plans.
+
+[48 FR 42301, Sept. 19, 1983, as amended at 53 FR 10830, Apr. 1, 1988]

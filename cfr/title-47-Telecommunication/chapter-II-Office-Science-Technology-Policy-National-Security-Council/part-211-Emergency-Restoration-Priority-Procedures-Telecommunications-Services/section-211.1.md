@@ -1,0 +1,5 @@
+##### § 211.1 Authority. #####
+
+(a) Authority to direct priorities for the restoration of communications services in national emergencies is vested in the President, including authority conferred by section 103 of the National Security Act of 1947, as amended (50 U.S.C. 404), section 101 of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2070), section 201 of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2281), section 1 of Reorganization Plan No. 1 of 1958, as amended (3 CFR, 1954-1958 Comp., p. 447), and section 606 of the Federal Communications Act of 1934, as amended. (47 U.S.C. 606).
+
+(b) Authority to develop plans policies, and procedures for the establishment of such restoration priorities has been delegated to the National Security Council, by Executive Orders 11051, 11490, and by the President's Memorandum of August 21, 1963 (28 FR 9413, 3 CFR part 858 (1959-63 comp.)), all as amended by Executive Order 12046, (FR 43, 13349 *et seq.*).

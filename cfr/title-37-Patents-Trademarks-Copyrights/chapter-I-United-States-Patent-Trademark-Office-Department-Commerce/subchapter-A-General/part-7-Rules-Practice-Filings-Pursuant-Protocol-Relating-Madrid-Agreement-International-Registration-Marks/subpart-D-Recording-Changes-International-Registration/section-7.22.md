@@ -1,0 +1,3 @@
+##### § 7.22 Recording changes to international registration. #####
+
+Except as provided in §§ 7.23 and 7.24, requests to record changes to an international registration must be filed with the International Bureau. If a request to record an assignment or restriction of a holder's right of disposal of an international registration or the release of such a restriction meets the requirements of § 7.23 or 7.24, the Office will forward the request to the International Bureau. Section 10 of the Act and part 3 of this chapter are not applicable to assignments or restrictions of international registrations.

@@ -1,0 +1,5 @@
+##### § 720.1 Scope. #####
+
+This part establishes procedures for the reporting of new chemical substances by manufacturers under section 5 of the Toxic Substances Control Act, 15 U.S.C. 2604. This part applies to microorganisms only to the extent provided by part 725 of this chapter. This part defines the persons and chemical substances subject to the reporting requirements, prescribes the contents of section 5 notices, and establishes procedures for submitting notices. This part also establishes EPA policy regarding claims of confidentiality for, and public disclosure of, various categories of information submitted in connection with section 5 notices.
+
+[48 FR 21742, May 13, 1983, as amended at 58 FR 34204, June 23, 1993; 62 FR 17932, Apr. 11, 1997; 87 FR 39763, July 5, 2022; 89 FR 102789, Dec. 18, 2024]

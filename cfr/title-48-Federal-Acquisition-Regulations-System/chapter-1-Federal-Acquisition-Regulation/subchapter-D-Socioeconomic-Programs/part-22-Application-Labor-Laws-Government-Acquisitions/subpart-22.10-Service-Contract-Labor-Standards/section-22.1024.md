@@ -1,0 +1,3 @@
+##### 22.1024 Cooperation with the Department of Labor. #####
+
+The contracting officer shall cooperate with Department of Labor representatives in the examination of records, interviews with service employees, and all other aspects of investigations undertaken by the Department. When asked, agencies shall furnish the Wage and Hour Administrator or a designee, any available information on contractors, subcontractors, their contracts, and the nature of the contract services. The contracting officer shall promptly refer, in writing to the appropriate regional office of the Department, apparent violations and complaints received. Employee complaints shall not be disclosed to the employer.

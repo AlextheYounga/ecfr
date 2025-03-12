@@ -1,0 +1,7 @@
+##### § 820.33 Default order. #####
+
+(a) *Default.* The Presiding Officer, upon motion by a party or the filing of a Notice of Intent to issue a Default Order *sua sponte,* may find a party to be in default if the party fails to comply with the provisions of this part or an order of the Presiding Officer. The alleged defaulting party shall have ten days to answer the motion or the Notice of Intent. No finding of default shall be made against the respondent unless the Director presents sufficient evidence to the Presiding Officer to establish a *prima facie* case against the respondent. Default by respondent constitutes, for purposes of the pending action only, an admission of all facts alleged in the Final Notice of Violation and a waiver of respondent's rights to an on-the-record adjudication of such factual allegations. Default by the Director shall result in an order to dismiss the Final Notice of Violation with prejudice.
+
+(b) *Effect of default order.* When the Presiding Officer finds a default has occurred, he shall file a Default Order against the defaulting party. This order shall constitute an Initial Decision.
+
+(c) *Contents of a default order.* A Default Order shall include findings of fact showing the grounds for the order, conclusions regarding all material issues of fact, law or discretion, and the remedy.

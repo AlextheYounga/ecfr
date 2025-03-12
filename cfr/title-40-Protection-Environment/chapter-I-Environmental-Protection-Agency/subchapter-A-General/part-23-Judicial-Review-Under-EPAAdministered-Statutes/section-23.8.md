@@ -1,0 +1,3 @@
+##### § 23.8 Timing of Administrator's action under Uranium Mill Tailings Radiation Control Act of 1978. #####
+
+Unless the Administrator otherwise explicitly provides in a particular rule, the time and date of the Administrator's promulgation for purposes of 42 U.S.C. 2022(c)(2) shall be at 1:00 p.m. eastern time (standard or daylight, as appropriate) on the date that is two weeks after the date when notice of promulgation is published in the Federal Register.

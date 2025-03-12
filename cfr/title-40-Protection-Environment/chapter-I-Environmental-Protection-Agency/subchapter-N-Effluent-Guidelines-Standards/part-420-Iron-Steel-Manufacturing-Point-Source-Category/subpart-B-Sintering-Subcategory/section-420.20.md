@@ -1,0 +1,3 @@
+##### § 420.20 Applicability; description of the sintering subcategory. #####
+
+The provisions of this subpart are applicable to discharges and to the introduction of pollutants into publicly owned treatment works resulting from sintering operations conducted by the heating of iron bearing wastes (mill scale and dust from blast furnaces and steelmaking furnaces) together with fine iron ore, limestone, and coke fines in an ignition furnace to produce an agglomerate for charging to the blast furnace.

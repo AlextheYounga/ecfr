@@ -1,0 +1,3 @@
+##### § 137.375 Are Tribally-owned facilities constructed under section 509 of the Act [25 U.S.C. 458aaa-8] eligible for replacement, maintenance, and improvement funds on the same basis as if title to such property were vested in the United States? #####
+
+Yes, Tribally-owned facilities constructed under section 509 of the Act [25 U.S.C. 458aaa-8] are eligible for replacement, maintenance, and improvement funds on the same basis as if title to such property were vested in the United States.

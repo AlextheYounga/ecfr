@@ -1,0 +1,3 @@
+##### § 267.1100 Does this subpart apply to me? #####
+
+This subpart applies to you if you own or operate a facility that treats or stores hazardous waste in containment buildings under a 40 CFR part 270 subpart J standardized permit, except as provided in § 267.1(b). Storage and/or treatment in your containment building is not land disposal as defined in 40 CFR 268.2 if your unit meets the requirements of §§ 267.1101, 267.1102, and 267.1103.

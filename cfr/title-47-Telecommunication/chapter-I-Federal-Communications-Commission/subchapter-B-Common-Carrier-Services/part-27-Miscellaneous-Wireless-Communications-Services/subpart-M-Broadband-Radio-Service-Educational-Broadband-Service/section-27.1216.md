@@ -1,0 +1,7 @@
+##### § 27.1216 Grandfathered E and F group EBS licenses. #####
+
+(a) Except as noted in paragraph (b) of this section, grandfathered EBS licensees authorized to operate E and F group co-channel licenses are granted a geographic service area (GSA) on July 19, 2006. The GSA is the area bounded by a circle having a 35 mile radius and centered at the station's reference coordinates, and is bounded by the chord(s) drawn between intersection points of that circle and those of respective adjacent market, co-channel licensees.
+
+(b) If there is more than 50 percent overlap between the calculated GSA of a grandfathered EBS license and the protected service area of a co-channel BRS license, the licensees shall not be immediately granted a geographic service area. Instead, the grandfathered EBS license and the co-channel BRS licensee must negotiate in good faith to reach a solution that accommodates the communication needs of both licensees. If the co-channel licensees reach a mutually agreeable solution on or before October 17, 2006, then the GSA of each co-channel license shall be as determined pursuant to the agreement of the parties. If a mutually agreeable solution between co-channel licensees is not reached on or before October 17, 2006, then each co-channel licensee shall receive a GSA determined pursuant to paragraph (a) of this section and § 27.1206(a).
+
+[71 FR 35191, June 16, 2006]

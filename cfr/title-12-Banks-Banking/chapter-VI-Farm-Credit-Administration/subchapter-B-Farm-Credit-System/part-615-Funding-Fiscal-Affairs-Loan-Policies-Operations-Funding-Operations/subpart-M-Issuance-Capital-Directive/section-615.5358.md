@@ -1,0 +1,3 @@
+##### § 615.5358 Decision. #####
+
+After the closing date of the institution's response period, or receipt of the institution's response, if earlier, the Farm Credit Administration may seek additional information or clarification of the response. Thereafter, the Farm Credit Administration will determine whether or not to issue a capital directive, and if one is to be issued, whether it should be as originally proposed or in modified form.

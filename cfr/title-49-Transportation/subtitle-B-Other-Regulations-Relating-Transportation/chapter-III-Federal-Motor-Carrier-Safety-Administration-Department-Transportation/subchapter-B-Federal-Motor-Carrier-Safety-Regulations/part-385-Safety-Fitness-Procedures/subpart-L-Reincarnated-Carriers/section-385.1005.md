@@ -1,0 +1,3 @@
+##### § 385.1005 Prohibition. #####
+
+Two or more motor carriers shall not use common ownership, common management, common control, or common familial relationship to enable any or all such motor carriers to avoid compliance, or mask or otherwise conceal non-compliance, or a history of non-compliance, with statutory or regulatory requirements prescribed under 49 U.S.C. Chapter 311, subchapter III, or with an order issued under such requirements.

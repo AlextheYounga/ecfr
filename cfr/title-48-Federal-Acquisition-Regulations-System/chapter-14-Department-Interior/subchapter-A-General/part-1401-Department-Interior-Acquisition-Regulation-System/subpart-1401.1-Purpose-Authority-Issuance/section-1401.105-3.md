@@ -1,0 +1,3 @@
+##### 1401.105-3 Copies. #####
+
+Copies of the Department of the Interior Acquisition Regulation (DIAR) and Department-wide internal guidance may be obtained from the Office of Acquisition and Property Management, Office of the Secretary, U.S. Department of the Interior, 1849 C Street (MS 2607-MIB), NW., Washington, DC 20240. Additional information on DOI may be obtained on the Internet at *http://www.doi.gov/pam.*

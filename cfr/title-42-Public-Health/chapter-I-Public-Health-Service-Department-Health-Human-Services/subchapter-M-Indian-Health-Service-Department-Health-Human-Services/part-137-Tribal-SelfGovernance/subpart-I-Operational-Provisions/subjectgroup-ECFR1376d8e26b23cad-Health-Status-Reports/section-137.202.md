@@ -1,0 +1,3 @@
+##### § 137.202 What types of information will Self-Governance Tribes be expected to include in the reports? #####
+
+Reports will be derived from existing minimal data elements currently collected by Self-Governance Tribes, and may include patient demographic and workload data. Not less than 60 days prior to the start of negotiations or a mutually agreed upon timeframe, the IHS will propose a list of recommended minimal data elements, along with justification for their inclusion, to be used as a basis for negotiating these requirements into the Self-Governance Tribe's compact or funding agreement.

@@ -1,0 +1,3 @@
+##### § 27.1190 Termination of cost-sharing obligations. #####
+
+The plan for cost-sharing in connection with BRS relocation will sunset for all AWS entities fifteen years after the relocation sunset period for BRS relocation commences, *i.e.*, fifteen years after the first AWS licenses are issued in any part of the 2150-2162 MHz band. AWS entrants that trigger a cost-sharing obligation prior to the sunset date must satisfy their payment obligation in full.

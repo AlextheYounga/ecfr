@@ -1,0 +1,3 @@
+##### § 1150.5 Operational data. #####
+
+As exhibit D, an operating plan, including traffic projection studies; a schedule of the operations; information about the crews to be used and where employees will be obtained; the rolling stock requirements and where it will be obtained; information about the operating experience and record of the proposed operator unless it is an operating railroad; any significant change in patterns of service; any associated discontinuance or abandonments; and expected operating economies.

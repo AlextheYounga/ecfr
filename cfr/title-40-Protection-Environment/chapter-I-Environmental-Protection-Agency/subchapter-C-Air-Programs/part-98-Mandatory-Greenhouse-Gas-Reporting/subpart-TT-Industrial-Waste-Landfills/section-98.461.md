@@ -1,0 +1,3 @@
+##### § 98.461 Reporting threshold. #####
+
+You must report GHG emissions under this subpart if your facility contains an industrial waste landfill meeting the criteria in § 98.460 and the facility meets the requirements of § 98.2(a)(2). For the purposes of § 98.2(a)(2), the emissions from the industrial waste landfill are to be determined using the methane generation corrected for oxidation as determined using Equation TT-6 of this subpart times the global warming potential for methane in Table A-1 of subpart A of this part.

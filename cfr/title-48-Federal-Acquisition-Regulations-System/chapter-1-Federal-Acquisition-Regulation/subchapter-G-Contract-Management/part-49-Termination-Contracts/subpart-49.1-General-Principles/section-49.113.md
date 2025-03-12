@@ -1,0 +1,3 @@
+##### 49.113 Cost principles. #####
+
+The cost principles and procedures in the applicable subpart of part 31 shall, subject to the general principles in 49.201, (a) be used in asserting, negotiating, or determining costs relevant to termination settlements under contracts with other than educational institutions, and (b) be a guide for the negotiation of settlements under contracts for experimental, developmental, or research work with educational institutions (but see 31.104).

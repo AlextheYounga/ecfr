@@ -1,0 +1,5 @@
+##### § 792.14 Who is responsible for responding to my request? #####
+
+The Freedom of Information Officer or designee is responsible for making the initial determination whether to grant or deny a request for information submitted to the Central Office Information Center. The Inspector General or designee is responsible for making the initial determination whether to grant or deny a request for information submitted to the Inspector General Information Center. This official may refer a request to an NCUA employee who is familiar with the subject area of the request. Other NCUA staff members may aid the official by providing information, advice, recommending a decision, or implementing a decision, but no NCUA employee other than an authorized official may make the initial determination. Referral of a request by the official to an employee will not affect the time limitation imposed in § 792.15 unless the request involves an unusual circumstance as provided in § 792.16.
+
+[63 FR 14338, Mar. 25, 1998, as amended at 68 FR 61737, Oct. 30, 2003]

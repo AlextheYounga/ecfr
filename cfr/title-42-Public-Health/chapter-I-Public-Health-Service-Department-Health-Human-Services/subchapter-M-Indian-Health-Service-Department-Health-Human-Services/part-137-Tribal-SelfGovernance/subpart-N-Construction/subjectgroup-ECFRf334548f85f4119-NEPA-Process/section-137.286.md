@@ -1,0 +1,3 @@
+##### § 137.286 Do Self-Governance Tribes become Federal agencies when they assume these Federal environmental responsibilities? #####
+
+No, while Self-Governance Tribes are required to assume Federal environmental responsibilities for projects in place of the Secretary, Self-Governance Tribes do not thereby become Federal agencies. However, because Self-Governance Tribes are assuming the responsibilities of the Secretary for the purposes of performing these Federal environmental responsibilities, Self-Governance Tribes will be considered the equivalent of Federal agencies for certain purposes as set forth in this subpart.

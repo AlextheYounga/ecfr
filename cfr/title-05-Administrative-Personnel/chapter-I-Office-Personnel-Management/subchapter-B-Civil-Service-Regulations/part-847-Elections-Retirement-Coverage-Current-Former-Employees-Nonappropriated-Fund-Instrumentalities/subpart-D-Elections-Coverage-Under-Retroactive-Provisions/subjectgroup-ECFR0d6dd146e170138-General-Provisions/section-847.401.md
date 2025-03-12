@@ -1,0 +1,3 @@
+##### § 847.401 Purpose and scope. #####
+
+This subpart contains OPM's regulations concerning the types of elections available, the eligibility requirements for each type of election, the effects of an election on CSRS and FERS coverage during future employment, and the effective dates of CSRS and FERS coverage applicable to retroactive retirement coverage and credit elections under section 1043(c)(2) of the National Defense Authorization Act for Fiscal Year 1996.

@@ -1,0 +1,47 @@
+##### § 745.83 Definitions. #####
+
+For purposes of this part, the definitions in § 745.103 as well as the following definitions apply:
+
+*Administrator* means the Administrator of the Environmental Protection Agency.
+
+*Child-occupied facility* means a building, or portion of a building, constructed prior to 1978, visited regularly by the same child, under 6 years of age, on at least two different days within any week (Sunday through Saturday period), provided that each day's visit lasts at least 3 hours and the combined weekly visits last at least 6 hours, and the combined annual visits last at least 60 hours. Child-occupied facilities may include, but are not limited to, day care centers, preschools and kindergarten classrooms. Child-occupied facilities may be located in target housing or in public or commercial buildings. With respect to common areas in public or commercial buildings that contain child-occupied facilities, the child-occupied facility encompasses only those common areas that are routinely used by children under age 6, such as restrooms and cafeterias. Common areas that children under age 6 only pass through, such as hallways, stairways, and garages are not included. In addition, with respect to exteriors of public or commercial buildings that contain child-occupied facilities, the child-occupied facility encompasses only the exterior sides of the building that are immediately adjacent to the child-occupied facility or the common areas routinely used by children under age 6.
+
+*Cleaning verification card* means a card developed and distributed, or otherwise approved, by EPA for the purpose of determining, through comparison of wet and dry disposable cleaning cloths with the card, whether post-renovation cleaning has been properly completed.
+
+*Component or building component* means specific design or structural elements or fixtures of a building or residential dwelling that are distinguished from each other by form, function, and location. These include, but are not limited to, interior components such as: Ceilings, crown molding, walls, chair rails, doors, door trim, floors, fireplaces, radiators and other heating units, shelves, shelf supports, stair treads, stair risers, stair stringers, newel posts, railing caps, balustrades, windows and trim (including sashes, window heads, jambs, sills or stools and troughs), built in cabinets, columns, beams, bathroom vanities, counter tops, and air conditioners; and exterior components such as: Painted roofing, chimneys, flashing, gutters and downspouts, ceilings, soffits, fascias, rake boards, cornerboards, bulkheads, doors and door trim, fences, floors, joists, lattice work, railings and railing caps, siding, handrails, stair risers and treads, stair stringers, columns, balustrades, windowsills or stools and troughs, casings, sashes and wells, and air conditioners.
+
+*Dry disposable cleaning cloth* means a commercially available dry, electrostatically charged, white disposable cloth designed to be used for cleaning hard surfaces such as uncarpeted floors or counter tops.
+
+*Electronic* means the submission of an application, payment, or notification using the Agency's Central Data Exchange (CDX), or successor platform.
+
+*Firm* means a company, partnership, corporation, sole proprietorship or individual doing business, association, or other business entity; a Federal, State, Tribal, or local government agency; or a nonprofit organization.
+
+*HEPA vacuum* means a vacuum cleaner which has been designed with a high-efficiency particulate air (HEPA) filter as the last filtration stage. A HEPA filter is a filter that is capable of capturing particulates of 0.3 microns with 99.97% efficiency. The vacuum cleaner must be designed so that all the air drawn into the machine is expelled through the HEPA filter with none of the air leaking past it. HEPA vacuums must be operated and maintained in accordance with the manufacturer's instructions.
+
+*Interim controls* means a set of measures designed to temporarily reduce human exposure or likely exposure to lead-based paint hazards, including specialized cleaning, repairs, maintenance, painting, temporary containment, ongoing monitoring of lead-based paint hazards or potential hazards, and the establishment and operation of management and resident education programs.
+
+*Minor repair and maintenance activities* are activities, including minor heating, ventilation or air conditioning work, electrical work, and plumbing, that disrupt 6 square feet or less of painted surface per room for interior activities or 20 square feet or less of painted surface for exterior activities where none of the work practices prohibited or restricted by § 745.85(a)(3) are used and where the work does not involve window replacement or demolition of painted surface areas. When removing painted components, or portions of painted components, the entire surface area removed is the amount of painted surface disturbed. Jobs, other than emergency renovations, performed in the same room within the same 30 days must be considered the same job for the purpose of determining whether the job is a minor repair and maintenance activity.
+
+*Painted surface* means a component surface covered in whole or in part with paint or other surface coatings.
+
+*Pamphlet* means the EPA pamphlet titled *Renovate Right: Important Lead Hazard Information for Families, Child Care Providers and Schools* developed under section 406(a) of TSCA for use in complying with section 406(b) of TSCA, or any State or Tribal pamphlet approved by EPA pursuant to 40 CFR 745.326 that is developed for the same purpose. This includes reproductions of the pamphlet when copied in full and without revision or deletion of material from the pamphlet (except for the addition or revision of State or local sources of information). Before December 22, 2008, the term “pamphlet” also means any pamphlet developed by EPA under section 406(a) of TSCA or any State or Tribal pamphlet approved by EPA pursuant to § 745.326.
+
+*Person* means any natural or judicial person including any individual, corporation, partnership, or association; any Indian Tribe, State, or political subdivision thereof; any interstate body; and any department, agency, or instrumentality of the Federal Government.
+
+*Recognized test kit* means a commercially available kit recognized by EPA under § 745.88 as being capable of allowing a user to determine the presence of lead at levels equal to or in excess of 1.0 milligrams per square centimeter, or more than 0.5% lead by weight, in a paint chip, paint powder, or painted surface.
+
+*Renovation* means the modification of any existing structure, or portion thereof, that results in the disturbance of painted surfaces, unless that activity is performed as part of an abatement as defined by this part (40 CFR 745.223). The term renovation includes (but is not limited to): The removal, modification or repair of painted surfaces or painted components (e.g., modification of painted doors, surface restoration, window repair, surface preparation activity (such as sanding, scraping, or other such activities that may generate paint dust)); the removal of building components (e.g., walls, ceilings, plumbing, windows); weatherization projects (e.g., cutting holes in painted surfaces to install blown-in insulation or to gain access to attics, planing thresholds to install weather-stripping), and interim controls that disturb painted surfaces. A renovation performed for the purpose of converting a building, or part of a building, into target housing or a child-occupied facility is a renovation under this subpart. The term renovation does not include minor repair and maintenance activities.
+
+*Renovator* means an individual who either performs or directs workers who perform renovations. A certified renovator is a renovator who has successfully completed a renovator course accredited by EPA or an EPA-authorized State or Tribal program.
+
+*Training hour* means at least 50 minutes of actual learning, including, but not limited to, time devoted to lecture, learning activities, small group activities, demonstrations, evaluations, and hands-on experience.
+
+*Wet disposable cleaning cloth* means a commercially available, pre-moistened white disposable cloth designed to be used for cleaning hard surfaces such as uncarpeted floors or counter tops.
+
+*Vertical containment* means a vertical barrier consisting of plastic sheeting or other impermeable material over scaffolding or a rigid frame, or an equivalent system of containing the work area. Vertical containment is required for some exterior renovations but it may be used on any renovation.
+
+*Wet mopping system* means a device with the following characteristics: A long handle, a mop head designed to be used with disposable absorbent cleaning pads, a reservoir for cleaning solution, and a built-in mechanism for distributing or spraying the cleaning solution onto a floor, or a method of equivalent efficacy.
+
+*Work area* means the area that the certified renovator establishes to contain the dust and debris generated by a renovation.
+
+[63 FR 29919, June 1, 1998, as amended at 73 FR 21758, Apr. 22, 2008; 76 FR 47938, Aug. 5, 2011; 89 FR 89457, Nov. 12, 2024]

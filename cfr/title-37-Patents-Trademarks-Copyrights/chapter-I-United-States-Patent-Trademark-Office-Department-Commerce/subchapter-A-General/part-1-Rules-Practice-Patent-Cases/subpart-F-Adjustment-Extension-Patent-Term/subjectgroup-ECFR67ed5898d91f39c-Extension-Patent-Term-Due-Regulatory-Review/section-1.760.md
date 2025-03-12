@@ -1,0 +1,5 @@
+##### § 1.760 Interim extension of patent term under 35 U.S.C. 156(e)(2). #####
+
+An applicant who has filed a formal application for extension in compliance with § 1.740 may request one or more interim extensions for periods of up to one year each pending a final determination on the application pursuant to § 1.750. Any such request should be filed at least three months prior to the expiration date of the patent. The Director may issue interim extensions, without a request by the applicant, for periods of up to one year each until a final determination is made. The patent owner or agent will be notified when an interim extension is granted and notice of the extension will be published in the *Official Gazette of the United States Patent and Trademark Office.* The notice will be recorded in the official file of the patent and will be considered as part of the original patent. In no event will the interim extensions granted under this section be longer than the maximum period for extension to which the applicant would be eligible.
+
+[65 FR 54680, Sept. 8, 2000]

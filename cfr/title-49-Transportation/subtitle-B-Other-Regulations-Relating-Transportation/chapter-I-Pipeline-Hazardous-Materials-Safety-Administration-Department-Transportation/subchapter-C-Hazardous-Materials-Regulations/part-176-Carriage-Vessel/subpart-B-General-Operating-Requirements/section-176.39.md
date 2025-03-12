@@ -1,0 +1,11 @@
+##### § 176.39 Inspection of cargo. #####
+
+(a) *Manned vessels.* The carrier, its agents, and any person designated for this purpose by the carrier or agents shall cause an inspection of each hold or compartment containing hazardous materials to be made after stowage is complete, and at least once every 24 hours thereafter, weather permitting, in order to ensure that the cargo is in a safe condition and that no damage caused by shifting, spontaneous heating, leaking, sifting, wetting, or other cause has been sustained by the vessel or its cargo since loading and stowage. However, freight containers or individual barges need not be opened. A vessel's holds equipped with smoke or fire detecting systems having an automatic monitoring capability need not be inspected except after stowage is complete and after periods of heavy weather. The carrier, its agents, and any person designated for this purpose by the carrier or agents shall cause an entry to be made in the vessel's deck log book for each inspection of the stowage of hazardous materials performed.
+
+(b) *Unmanned and magazine vessels.* An inspection of the cargo must be made after stowage has been completed to ensure that stowage has been accomplished properly and that there are no visible signs of damage to any packages or evidence of heating, leaking, or sifting. This inspection must be made by the individual who is responsible to the carrier and who is in charge of loading and stowing the cargo on the unmanned vessels or the individual in charge in the case of a magazine vessel.
+
+(c) The carrier, its agents, and any person designated for this purpose by the carrier or agents of each ocean-going vessel carrying hazardous material shall, immediately prior to entering a port in the United States, cause an inspection of that cargo to be made.
+
+(d) When inspecting a cargo of hazardous materials capable of evolving flammable vapors, any artificial means of illumination must be of an explosion-proof type.
+
+[Amdt. 176-1, 41 FR 16110, Apr. 15, 1976, as amended by Amdt. 176-8, 44 FR 23228, Apr. 19, 1979; Amdt. 176-9, 44 FR 49458, Aug. 23, 1979]

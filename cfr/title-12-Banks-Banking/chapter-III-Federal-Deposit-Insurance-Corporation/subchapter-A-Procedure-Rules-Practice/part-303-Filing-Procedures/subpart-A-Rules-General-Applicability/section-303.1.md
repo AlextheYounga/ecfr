@@ -1,0 +1,3 @@
+##### § 303.1 Scope. #####
+
+Subpart A prescribes the general procedures for submitting filings to the FDIC which are required by statute or regulation. This subpart also prescribes the procedures to be followed by the FDIC, applicants and interested parties during the process of considering a filing, including public notice and comment. This subpart explains the availability of expedited processing for eligible depository institutions (defined in § 303.2(r)). Certain terms used throughout this part are also defined in this subpart.

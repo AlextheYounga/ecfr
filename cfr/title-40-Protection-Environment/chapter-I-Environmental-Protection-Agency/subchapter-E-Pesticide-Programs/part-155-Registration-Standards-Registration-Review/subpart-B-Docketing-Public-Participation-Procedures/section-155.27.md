@@ -1,0 +1,3 @@
+##### § 155.27 Agency review of data. #####
+
+EPA will independently (or using the services of disinterested contractors or consultants) review available data in preparation for the development of a Registration Standard, and will be responsible for the drafting of the Registration Standard based on such data reviews. The Agency will not permit registrants to prepare, or assist in the preparation of, data reviews or other Registration Standard documents. The Agency may, however, meet with registrants to discuss its pending reviews, decisions, or documents, in accordance with the meeting procedures in § 155.30, and the docketing procedures in § 155.32.

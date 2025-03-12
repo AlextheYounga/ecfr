@@ -1,0 +1,5 @@
+##### § 1102.1 Authority, purpose and scope. #####
+
+(a) *Authority.* This subpart is issued under section 1119(b) of title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (“FIRREA”) (12 U.S.C. § 3348(b)).
+
+(b) *Purpose and scope.* This subpart prescribes rules of practice and procedure governing temporary waiver proceedings under Section 1119(b) of title XI of FIRREA (12 U.S.C. 3348(b)). These procedures apply whenever a State appraiser regulatory agency requests the Appraisal Subcommittee of the Federal Financial Institutions Examination Council (“ASC”) for a waiver of any requirement relating to certification or licensing of a person to perform appraisals under title XI of FIRREA. They also apply whenever the ASC, based on sufficient, credible information or requests received from other persons or entities, initiates a temporary waiver proceeding.

@@ -1,0 +1,3 @@
+##### § 339.304 Payment for examination. #####
+
+Agencies shall pay for all examinations ordered or offered under this subpart, whether conducted by the agency's physician or the applicant's or employee's physician. Applicants and employees must pay for a medical examination conducted by a private physician (or practitioner) where the purpose of the examination is to secure a benefit sought by the applicant or employee.

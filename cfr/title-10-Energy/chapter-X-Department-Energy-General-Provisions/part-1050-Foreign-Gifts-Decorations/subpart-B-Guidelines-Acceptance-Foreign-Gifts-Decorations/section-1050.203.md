@@ -1,0 +1,5 @@
+##### § 1050.203 Acceptance of decorations. #####
+
+(a) An employee may accept, retain and wear a decoration tendered by a foreign government in recognition of active field service in time of combat operations or awarded for other outstanding or unusually meritorious performance.
+
+(b) Acceptance of a decoration in accordance with paragraph (a) of this section shall be reviewed and approved by the Directorate of Administration in accordance with § 1050.204 of this part. Otherwise, it will be deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited, within 60 days of acceptance, with the Directorate of Administration for disposal or official Departmental use as determined by the Directorate of Administration in accordance with § 1050.302 of this part.

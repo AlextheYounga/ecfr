@@ -1,0 +1,5 @@
+##### § 150.2 Scope. #####
+
+The regulations in this part apply to all States that have entered into agreements with the Commission or the Atomic Energy Commission pursuant to subsection 274b of the Act. This part also gives notice to all persons who knowingly provide to any licensee, applicant for a license or certificate or quality assurance program approval, holder of a certificate or quality assurance program approval, contractor, or subcontractor, any components, equipment, materials, or other goods or services that relate to a licensee's, certificate holder's, quality assurance program approval holder's or applicant's activities subject to this part, that they may be individually subject to NRC enforcement action for violation of §§ 30.10, 40.10, 61.9b, 70.10, and 71.8.
+
+[63 FR 1901, Jan. 13, 1998, as amended at 80 FR 63419, Oct. 20, 2015]

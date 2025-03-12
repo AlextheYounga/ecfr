@@ -1,0 +1,21 @@
+##### § 98.183 Calculating GHG emissions. #####
+
+You must calculate and report the annual process CO2 emissions from each smelting furnace using the procedure in paragraphs (a) and (b) of this section.
+
+(a) For each smelting furnace that meets the conditions specified in § 98.33(b)(4)(ii) or (b)(4)(iii), you must calculate and report combined process and combustion CO2 emissions by operating and maintaining a CEMS to measure CO2 emissions according to the Tier 4 Calculation Methodology specified in § 98.33(a)(4) and all associated requirements for Tier 4 in subpart C of this part (General Stationary Fuel Combustion Sources).
+
+(b) For each smelting furnace that is not subject to the requirements in paragraph (a) of this section, calculate and report the process and combustion CO2 emissions from the smelting furnace by using the procedure in either paragraph (b)(1) or (b)(2) of this section.
+
+(1) Calculate and report under this subpart the combined process and combustion CO2 emissions by operating and maintaining a CEMS to measure CO2 emissions according to the Tier 4 Calculation Methodology specified in § 98.33(a)(4) and all associated requirements for Tier 4 in subpart C of this part (General Stationary Fuel Combustion Sources).
+
+(2) Calculate and report process and combustion CO2 emissions separately using the procedures specified in paragraphs (b)(2)(i) through (b)(2)(iii) of this section.
+
+(i) For each smelting furnace, determine the annual mass of carbon in each carbon-containing material, other than fuel, that is fed, charged, or otherwise introduced into the smelting furnace and estimate annual process CO2 emissions using Equation R-1 of this section. Carbon-containing materials include carbonaceous reducing agents. If you document that a specific material contributes less than 1 percent of the total carbon into the process, you do not have to include the material in your calculation using Equation R-1 of this section.
+
+![](/graphics/er30oc09.071.gif)Where:ECO2 = Annual process CO2 emissions from an individual smelting furnace (metric tons).44/12 = Ratio of molecular weights, CO2 to carbon.2000/2205 = Conversion factor to convert tons to metric tons.Ore = Annual mass of lead ore charged to the smelting furnace (tons).COre = Carbon content of the lead ore, from the carbon analysis results (percent by weight, expressed as a decimal fraction).Scrap = Annual mass of lead scrap charged to the smelting furnace (tons).CScrap = Carbon content of the lead scrap, from the carbon analysis (percent by weight, expressed as a decimal fraction).Flux = Annual mass of flux materials (e.g., limestone, dolomite) charged to the smelting furnace (tons).CFlux = Carbon content of the flux materials, from the carbon analysis (percent by weight, expressed as a decimal fraction).Carbon = Annual mass of carbonaceous materials (e.g., coal, coke) charged to the smelting furnace (tons).CCarbon = Carbon content of the carbonaceous materials, from the carbon analysis (percent by weight, expressed as a decimal fraction).Other = Annual mass of any other material containing carbon, other than fuel, fed, charged, or otherwise introduced into the smelting furnace (tons).COther = Carbon content of the other material from the carbon analysis results (percent by weight, expressed as a decimal fraction).
+
+(ii) Determine the combined annual process CO2 emissions from the smelting furnaces at your facility using Equation R-2 of this section.
+
+![](/graphics/er30oc09.072.gif)Where:CO2 = Annual process CO2 emissions from smelting furnaces at facility used for lead production (metric tons).ECO2k = Annual process CO2 emissions from smelting furnace k calculated using Equation R-1 of this section (metric tons/year).k = Total number of smelting furnaces at facility used for lead production.
+
+(iii) Calculate and report under subpart C of this part (General Stationary Fuel Combustion Sources) the combustion CO2 emissions from the smelting furnaces according to the applicable requirements in subpart C.

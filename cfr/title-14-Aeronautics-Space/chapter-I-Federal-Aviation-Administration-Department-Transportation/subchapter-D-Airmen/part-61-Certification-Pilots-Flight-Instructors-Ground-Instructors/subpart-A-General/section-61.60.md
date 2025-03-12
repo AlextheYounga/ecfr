@@ -1,0 +1,3 @@
+##### § 61.60 Change of address. #####
+
+The holder of a pilot, flight instructor, or ground instructor certificate who has made a change in permanent mailing address may not, after 30 days from that date, exercise the privileges of the certificate unless the holder has notified in writing the FAA, Airman Certification Branch, P.O. Box 25082, Oklahoma City, OK 73125, of the new permanent mailing address, or if the permanent mailing address includes a post office box number, then the holder's current residential address.

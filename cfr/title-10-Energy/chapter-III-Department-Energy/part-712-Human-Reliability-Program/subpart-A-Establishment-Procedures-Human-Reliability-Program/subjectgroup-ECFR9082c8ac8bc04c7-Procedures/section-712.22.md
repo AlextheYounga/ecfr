@@ -1,0 +1,5 @@
+##### § 712.22 Hearing officer's report and recommendation. #####
+
+Within 30 calendar days of the receipt of the hearing transcript by the hearing officer or the closing of the record, whichever is later, the hearing officer must forward written findings, a supporting statement of reasons, and recommendation regarding the individual's eligibility for recertification in the HRP position to the Chief Health, Safety and Security Officer. The hearing officer's report and recommendation must be accompanied by a copy of the record of the proceedings. The Chief Health, Safety and Security Officer shall forward to the DOE cognizant Under Secretary a recommendation to either recertify or revoke the certification of an individual in the HRP.
+
+[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68731, Nov. 28, 2006; 76 FR 12273, Mar. 7, 2011]

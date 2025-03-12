@@ -1,0 +1,3 @@
+##### § 87.351 Frequency changes. #####
+
+When the aeronautical utility frequency is required to be changed because of an action by the FAA or the Commission (such as a change in the ground control of unicom frequency) the licensee must submit an application for modification to specify the new frequency within 10 days from the date the station begins operation on the new frequency. The licensee has temporary authority to use the new frequency from the date of the change pending receipt of the modified license.

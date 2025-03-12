@@ -1,0 +1,3 @@
+##### § 233.38 Continuation of expiring permits. #####
+
+A Corps 404 permit does not continue in force beyond its expiration date under Federal law if, at that time, a State is the permitting authority. States authorized to administer the 404 Program may continue Corps or State-issued permits until the effective date of the new permits, if State law allows. Otherwise, the discharge is being conducted without a permit from the time of expiration of the old permit to the effective date of a new State-issued permit, if any.

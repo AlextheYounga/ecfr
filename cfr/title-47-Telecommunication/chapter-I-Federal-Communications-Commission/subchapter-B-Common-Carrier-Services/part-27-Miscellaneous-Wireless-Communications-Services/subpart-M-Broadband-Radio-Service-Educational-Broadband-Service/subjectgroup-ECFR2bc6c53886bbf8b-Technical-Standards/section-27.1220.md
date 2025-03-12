@@ -1,0 +1,3 @@
+##### § 27.1220 Transmission standards. #####
+
+The width of a channel in the LBS and UBS is 5.5 MHz, with the exception of BRS channels 1 and 2 which are 6.0 MHz. The width of all channels in the MBS is 6 MHz. However, the licensee may subchannelize its authorized bandwidth, provided that digital modulation is employed and the aggregate power does not exceed the authorized power for the channel. The licensee may also, jointly with other licensees, transmit utilizing bandwidth in excess of its authorized bandwidth, provided that digital modulation is employed, all power spectral density requirements set forth in this part are met and the out-of-band emissions restrictions set forth in § 27.53 are met at the edges of the channels employed.

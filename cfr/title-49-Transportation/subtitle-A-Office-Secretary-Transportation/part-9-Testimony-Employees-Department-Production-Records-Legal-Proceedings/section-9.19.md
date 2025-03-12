@@ -1,0 +1,3 @@
+##### § 9.19 Acceptance of service on behalf of Secretary. #####
+
+In any legal proceeding, at the option of the server, process or pleadings may be served on agency counsel, with the same effect as if served upon the Secretary or the head of the operating administration concerned, as the case may be. The official accepting service under this section shall acknowledge the service and take appropriate action. This section does not in any way abrogate or modify the requirements of Rule 4(d)(4) and 4(d)(5) of the Federal Rules of Civil Procedure regarding service of summons and complaint.

@@ -1,0 +1,3 @@
+##### § 39.57 Must PVOs make copies of this rule available to passengers? #####
+
+As a PVO, you must keep a current copy of this Part on each vessel and each U.S. port or terminal you serve and make it available to passengers on request. If you are an entity that does not receive Federal financial assistance, you are not required to make this copy available in languages other than English. You must make it available in accessible formats on request, subject to the provisions of § 39.51(c).

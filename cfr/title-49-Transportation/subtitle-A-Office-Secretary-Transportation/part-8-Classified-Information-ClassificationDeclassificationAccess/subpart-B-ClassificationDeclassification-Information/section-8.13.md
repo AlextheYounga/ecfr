@@ -1,0 +1,3 @@
+##### § 8.13 Authority to downgrade or declassify. #####
+
+Information originally classified by the Department may be specifically downgraded or declassified by either the official authorizing the original classification, if that official is still serving in the same position, the originator's current successor in function, a supervisory official of either, officials delegated declassification authority in writing by the Secretary, or by the Departmental Information Security Review Committee.

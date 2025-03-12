@@ -1,0 +1,3 @@
+##### § 61.13 Duration and continuation. #####
+
+An award period may be any period not in excess of 2 years. The Surgeon General may make one or more continuation awards for an additional period upon a finding of satisfactory progress toward accomplishment of the purposes of the initial fellowship award. Additional support may be provided on appropriate justification after expiration of the period of support involved in the previous award.

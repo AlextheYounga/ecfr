@@ -1,0 +1,3 @@
+##### § 185.144 Right to administrative offset. #####
+
+The amount of any penalty or assessment which has become final, or for which a judgment has been entered under § 185.142 or § 185.143, or any amount agreed upon in a compromise or settlement under § 185.146, may be collected by administrative offset under section 3716 of title 31, United States Code, except that an administrative offset may not be made under section 3716 against a refund of an overpayment of Federal taxes, then or later owing by the United States to the defendant.

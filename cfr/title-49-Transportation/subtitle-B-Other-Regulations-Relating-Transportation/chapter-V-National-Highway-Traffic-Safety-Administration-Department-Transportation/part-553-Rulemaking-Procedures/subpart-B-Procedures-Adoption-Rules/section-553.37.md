@@ -1,0 +1,3 @@
+##### § 553.37 Proceedings on petitions for reconsideration. #####
+
+The Administrator may grant or deny, in whole or in part, any petition for reconsideration without further proceedings. In the event he determines to reconsider any rule, he may issue a final decision on reconsideration without further proceedings, or he may provide such opportunity to submit comment or information and data as he deems appropriate. Whenever the Administrator determines that a petition should be granted or denied, he prepares a notice of the grant or denial of a petition for reconsideration, for issuance to the petitioner, and issues it to the petitioner. The Administrator may consolidate petitions relating to the same rule.

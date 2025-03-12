@@ -1,0 +1,3 @@
+##### § 385.411 Must a motor carrier obtain a safety permit if it has a State permit? #####
+
+Yes. However, if FMCSA is able to verify that a motor carrier has a safety permit issued by a State under a program that FMCSA has determined to be equivalent to the provisions of this subpart, FMCSA will immediately issue a safety permit to the motor carrier upon receipt of an application in accordance with § 385.405, without further inspection or investigation.

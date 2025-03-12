@@ -1,0 +1,3 @@
+##### § 77.213 Draw-off tunnel escapeways. #####
+
+When it is necessary for a tunnel to be closed at one end, an escapeway not less than 30 inches in diameter (or of the equivalent, if the escapeway does not have a circular cross section) shall be installed which extends from the closed end of the tunnel to a safe location on the surface; and, if the escapeway is inclined more than 30 degrees from the horizontal it shall be equipped with a ladder which runs the full length of the inclined portion of the escapeway.

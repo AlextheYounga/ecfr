@@ -1,0 +1,9 @@
+##### § 63.1081 When must I comply with the requirements of this subpart? #####
+
+You must comply with the requirements of this subpart according to the schedule specified in § 63.1102(a). Each heat exchange system which is part of an ethylene production affected source also must comply with paragraph (a) of this section. Each waste stream which is part of an ethylene production affected source also must comply with paragraph (b) of this section.
+
+(a) Each heat exchange system that is part of an ethylene production affected source that commenced construction or reconstruction on or before October 9, 2019, must be in compliance with the heat exchange system requirements specified in §§ 63.1084(f), 63.1085(e) and (f), 63.1086(e), 63.1087(c) and (d), 63.1088(d), and 63.1089(d) and (e) upon initial startup or July 6, 2023, whichever is later. Each heat exchange system that is part of an ethylene production affected source that commences construction or reconstruction after October 9, 2019, must be in compliance with the heat exchange system requirements specified in §§ 63.1084(f), 63.1085(e) and (f), 63.1086(e), 63.1087(c) and (d), 63.1088(d), and 63.1089(d) and (e) upon initial startup, or July 6, 2020, whichever is later.
+
+(b) Each waste stream that is part of an ethylene production affected source that commenced construction or reconstruction on or before October 9, 2019, must be in compliance with the flare requirements specified in § 63.1095(a)(1)(vi) and (b)(3) upon initial startup or July 6, 2023, whichever is later. Each waste stream that is part of an ethylene production affected source that commences construction or reconstruction after October 9, 2019, must be in compliance with the flare requirements specified in § 63.1095(a)(1)(vi) and (b)(3) upon initial startup, or July 6, 2020, whichever is later.
+
+[85 FR 40419, July 2, 2020]

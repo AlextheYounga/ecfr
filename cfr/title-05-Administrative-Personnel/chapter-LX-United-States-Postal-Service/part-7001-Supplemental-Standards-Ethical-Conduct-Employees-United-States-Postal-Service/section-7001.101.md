@@ -1,0 +1,3 @@
+##### § 7001.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635, as applied to employees of the United States Postal Service (Postal Service). Postal Service employees are subject, in addition to the standards in 5 CFR part 2635 and this part, to the executive branch financial disclosure regulations contained in 5 CFR part 2634, and to any rules of conduct issued separately by the Postal Service, including but not limited to regulations contained in 39 CFR part 447, the Postal Service's Employee and Labor Relations Manual, and the Postal Service's Procurement Manual.

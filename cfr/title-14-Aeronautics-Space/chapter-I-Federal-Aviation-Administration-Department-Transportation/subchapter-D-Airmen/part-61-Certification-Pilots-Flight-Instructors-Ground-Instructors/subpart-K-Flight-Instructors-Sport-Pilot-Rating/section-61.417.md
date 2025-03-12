@@ -1,0 +1,3 @@
+##### § 61.417 Will my flight instructor certificate with a sport pilot rating list aircraft category and class ratings? #####
+
+Your flight instructor certificate does not list aircraft category and class ratings. When you successfully pass the practical test for a flight instructor certificate with a sport pilot rating, regardless of the light-sport aircraft privileges you seek, the FAA will issue you a flight instructor certificate with a sport pilot rating without any category and class ratings. The FAA will provide you with a logbook endorsement for the category and class of light-sport aircraft you are authorized to provide training in.

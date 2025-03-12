@@ -1,0 +1,3 @@
+##### § 137.262 If the Secretary reassumes a PSFA immediately, when must the Secretary provide the Self-Governance Tribe with a hearing? #####
+
+If the Secretary immediately reassumes a PSFA, the Secretary must provide the Self-Governance Tribe with a hearing under Subpart P of this part not later than 10 days after such reassumption, unless the Self-Governance Tribe and the Secretary agree to an extension.

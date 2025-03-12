@@ -1,0 +1,3 @@
+##### 370.400 Scope of subpart. #####
+
+This subpart applies to all research, research training, biological testing, housing and maintenance, and other activities involving live vertebrate animals conducted under contract. Additional information can be found in Public Health Service (PHS) Policy on Humane Care and Use of Laboratory Animals *http://grants.nih.gov/grants/olaw/references/phspolicylabanimals.pdf*.

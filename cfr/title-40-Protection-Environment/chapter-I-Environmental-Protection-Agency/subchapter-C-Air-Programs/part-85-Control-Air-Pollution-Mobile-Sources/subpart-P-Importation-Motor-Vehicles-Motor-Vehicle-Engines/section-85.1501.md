@@ -1,0 +1,9 @@
+##### § 85.1501 Applicability. #####
+
+(a) Except where otherwise indicated, this subpart is applicable to motor vehicles offered for importation or imported into the United States for which the Administrator has promulgated regulations under 40 CFR part 86, subpart D or S, prescribing emission standards, but which are not covered by certificates of conformity issued under section 206(a) of the Clean Air Act (*i.e.,* which are nonconforming vehicles as defined in § 85.1502), as amended, and part 86 at the time of conditional importation. Compliance with regulations under this subpart shall not relieve any person or entity from compliance with other applicable provisions of the Clean Air Act. This subpart no longer applies for heavy-duty engines certified under 40 CFR part 86, subpart A, or 40 CFR part 1036; references in this subpart to “engines” therefore apply only for replacement engines intended for installation in motor vehicles that are subject to this subpart.
+
+(b) Regulations prescribing further procedures for importation of motor vehicles and motor vehicle engines into the Customs territory of the United States, as defined in 19 U.S.C. 1202, are set forth at 19 CFR 12.73.
+
+(c) References in this subpart to engine families and emission control systems shall be deemed to apply to durability groups and test groups as applicable for manufacturers certifying new light-duty vehicles, light-duty trucks, and Otto-cycle complete heavy-duty vehicles under the provisions of 40 CFR part 86, subpart S.
+
+[52 FR 36156, Sept. 25, 1987, as amended at 64 FR 23919, May 4, 1999; 65 FR 59943, Oct. 6, 2000; 86 FR 34363, June 29, 2021; 88 FR 4471, Jan. 24, 2023]

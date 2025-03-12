@@ -1,0 +1,3 @@
+##### § 19.5 General requirements for approval. #####
+
+Electric cap lamps shall be complete units. They shall be durable in construction, practical in operation, and suitable for the conditions of underground service. They shall offer no probable explosion hazard if used in gassy or dusty mine atmospheres or bodily hazard from the spilling of the battery electrolyte. They shall exhibit, under laboratory test conditions, the various minimum performance requirements specified in this part.

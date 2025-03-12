@@ -1,0 +1,3 @@
+##### § 881.1 Purpose and scope. #####
+
+The regulations in this part provide for contributions by the Secretary with respect to projects in the Appalachian Region for the sealing and filling of voids in abandoned coal mines or for the reclamation and rehabilitation of existing strip and surface mine areas under the authority of subsection (a)(1) of section 205 of the Appalachian Region Development Act of 1965 (Pub. L. 89-4, 79 Stat. 5)

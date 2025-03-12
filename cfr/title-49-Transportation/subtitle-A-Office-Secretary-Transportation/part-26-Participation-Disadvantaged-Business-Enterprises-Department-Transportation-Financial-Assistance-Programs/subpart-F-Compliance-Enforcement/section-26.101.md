@@ -1,0 +1,5 @@
+##### § 26.101 What compliance procedures apply to recipients? #####
+
+(a) If you fail to comply with any requirement of this part, you may be subject to formal enforcement action under § 26.103 or § 26.105 or appropriate program sanctions by the concerned operating administration, such as the suspension or termination of Federal funds, or refusal to approve projects, grants or contracts until deficiencies are remedied. Program sanctions may include, in the case of the FHWA program, actions provided for under 23 CFR 1.36; in the case of the FAA program, actions consistent with 49 U.S.C. 47106(d), 47111(d), and 47122; and in the case of the FTA program, any actions permitted under 49 U.S.C. chapter 53 or applicable FTA program requirements.
+
+(b) As provided in statute, you will not be subject to compliance actions or sanctions for failing to carry out any requirement of this part because you have been prevented from complying because a Federal court has issued a final order in which the court found that the requirement is unconstitutional.

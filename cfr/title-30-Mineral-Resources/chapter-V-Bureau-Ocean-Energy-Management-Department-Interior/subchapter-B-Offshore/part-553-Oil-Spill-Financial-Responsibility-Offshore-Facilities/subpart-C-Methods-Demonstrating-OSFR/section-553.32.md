@@ -1,0 +1,3 @@
+##### § 553.32 Are there alternative methods to demonstrate OSFR? #####
+
+The Director may accept other methods to demonstrate OSFR that provide equivalent assurance of timely satisfaction of claims. This may include pooling, letters of credit, pledges of treasury notes, or other comparable methods. Submit your proposal, together with all the supporting documents, to the Director at the address listed in § 553.45. The Director's decision whether to approve your alternative method to evidence OSFR is by this rule committed to the Director's sole discretion and is not subject to administrative appeal under 30 CFR part 590 or 43 CFR part 4.

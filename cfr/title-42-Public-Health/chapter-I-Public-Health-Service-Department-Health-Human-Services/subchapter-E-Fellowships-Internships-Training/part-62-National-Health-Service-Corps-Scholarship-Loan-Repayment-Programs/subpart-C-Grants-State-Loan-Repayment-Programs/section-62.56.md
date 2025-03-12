@@ -1,0 +1,3 @@
+##### § 62.56 How are the Federal grant funds and State matching funds to be used under this program? #####
+
+The Federal share of any program shall not exceed 75 percent of the cost of the approved State program. The Federal share must be used to repay the qualifying loans of health professionals. No portion of the Federal share shall be used to pay for administrative costs of any State Loan Repayment Program. The State's share of the program may be used to repay qualifying loans of health professionals or administrative costs of the State's Loan Repayment Program, or a combination of both. All program administrative costs are to be borne by the State. No portion of the State's share of the program shall consist of Federal funds.

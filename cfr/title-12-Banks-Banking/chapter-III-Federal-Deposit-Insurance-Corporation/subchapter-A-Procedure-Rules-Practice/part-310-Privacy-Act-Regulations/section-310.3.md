@@ -1,0 +1,7 @@
+##### § 310.3 Procedures for requests pertaining to individual records in a system of records. #####
+
+(a) Any present or former employee of the Corporation seeking access to, or amendment of, his/her official personnel records maintained by the Corporation shall submit his/her request in such manner as is prescribed by the United States Office of Personnel Management in part 297 of its rules and regulations (5 CFR part 297). For access to, or amendment of, other government-wide records systems maintained by the Corporation, the procedures prescribed in the respective Federal Register Privacy Act system notice shall be followed.
+
+(b) Requests by individuals for access to records pertaining to them and maintained within one of the Corporation's designated systems of records should be submitted in writing to the Federal Deposit Insurance Corporation, Attn: FOIA/PA Group, 550 17th Street, NW., Washington, DC 20429. Each such request should contain a reasonable description of the records sought, the system or systems in which such record may be contained, and any additional identifying information, as specified in the Corporation's Federal Register “Notice of Systems of Records” for that particular system, copies of which are available upon request from the FOIA/PA Group.
+
+[40 FR 46274, Oct. 6, 1975, as amended at 42 FR 6796, Feb. 4, 1977; 61 FR 43419, Aug. 23, 1996; 67 FR 71071, Nov. 29, 2002; 76 FR 35965, June 21, 2011]

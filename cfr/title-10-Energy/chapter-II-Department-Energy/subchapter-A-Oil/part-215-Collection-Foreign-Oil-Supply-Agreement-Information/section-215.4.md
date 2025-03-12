@@ -1,0 +1,3 @@
+##### § 215.4 Production of contracts and documents. #####
+
+Whenever the Administrator determines that certain foreign crude oil supply information is necessary to assist in the formulation of energy policy or to carry out any other function of the Administrator, he may require the production by any person of any agreement or document relating to foreign oil supply arrangements or reports related thereto. Such material shall be provided pursuant to the conditions prescribed by the Administrator at the time of such order or subsequently. As used in this section, the term “agreement” includes proposed or draft agreements, and agreements in which the parties have tentatively concurred but have not yet signed, between or among persons and a host country.

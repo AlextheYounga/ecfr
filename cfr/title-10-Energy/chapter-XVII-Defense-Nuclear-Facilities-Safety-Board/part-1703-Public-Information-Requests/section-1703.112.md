@@ -1,0 +1,3 @@
+##### § 1703.112 Computation of time. #####
+
+In computing any period of time under this part, the day of the Board's action is not included. The last day of the period is included unless it is a Saturday, Sunday or legal holiday, in which case the period runs until the end of the next working day. Whenever a person has the right or is required to take some action within a prescribed period after notification by the Board and the notification is made by mail, five days shall be added to the prescribed period. Only two days shall be added when a notification is made by express mail.

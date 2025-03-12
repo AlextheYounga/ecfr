@@ -1,0 +1,3 @@
+##### § 269b.310 Appeal rights. #####
+
+Where the investigator has found that a prima facie case does not exist, a party, including an intervenor but excluding the respondent or other parties having the same interest as the respondent, within 5 days after receiving the Center's determination may petition the panel to set aside the determination and to cause formal proceedings, set forth in § 269b.410, to be invoked. The panel may grant such petition only on grounds that the Center or its agents were arbitrary, capricious, or acted contrary to law or the policy, or that the investigator's determination is clearly erroneous. The filing requirements for such a petition shall be the same as that for the filing of a charge, as set forth in § 269b.111.

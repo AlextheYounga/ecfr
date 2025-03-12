@@ -1,0 +1,3 @@
+##### § 1102.28 Documents and exhibits in proceedings public. #####
+
+Unless and until otherwise ordered by the ASC or unless otherwise provided by statute or by ASC regulation, all documents, papers and exhibits filed in connection with any proceeding, other than those that may be withheld from disclosure under applicable law, shall be placed by the Secretary in the proceeding's public file and will be available for public inspection and copying at the address set out in § 1102.24 of this subpart.

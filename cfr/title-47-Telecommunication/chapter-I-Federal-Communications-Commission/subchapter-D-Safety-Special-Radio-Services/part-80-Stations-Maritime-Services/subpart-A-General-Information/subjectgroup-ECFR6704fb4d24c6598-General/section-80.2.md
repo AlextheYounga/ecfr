@@ -1,0 +1,3 @@
+##### § 80.2 Other regulations that apply. #####
+
+The Commandant, U.S. Coast Guard has promulgated regulations which affect radiotelecommunication equipment carriage and power source installation requirements for certain ships. Inquiries concerning applicable U.S. Coast Guard regulations are to addressed to the Commandant, U.S. Coast Guard, Washington, DC 20593, or to the nearest District Headquarters Office of the U.S. Coast Guard.

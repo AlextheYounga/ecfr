@@ -1,0 +1,5 @@
+##### § 842.706 Computation of alternative form of annuity. #####
+
+(a) To compute the beginning rate of annuity payable to a retiree who elects an alternative form of annuity, OPM will first compute the monthly rate of annuity (and annuity supplement, if any), otherwise payable under subchapter II of chapter 84 of title 5, United States Code, including all reductions provided under the subchapter other than those in section 8420a of that title. That monthly rate is then reduced by an amount equal to the retiree's lump-sum credit, excluding interest, divided by the applicable present value factor for the retiree's attained age (in full years) at the time of retirement. The reduced monthly rate is then rounded to the next lowest dollar and becomes the rate of annuity payable.
+
+(b) OPM will publish a notice in the Federal Register announcing any proposed adjustments in present value factors at least 30 days before the effective date of the adjustments.

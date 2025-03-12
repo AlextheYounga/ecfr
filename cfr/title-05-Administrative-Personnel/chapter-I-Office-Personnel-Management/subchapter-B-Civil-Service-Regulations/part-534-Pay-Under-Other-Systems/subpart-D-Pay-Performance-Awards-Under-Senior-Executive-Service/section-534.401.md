@@ -1,0 +1,5 @@
+##### § 534.401 Purpose. #####
+
+This subpart contains the rules for setting and adjusting rates of basic pay and granting performance awards for members of the Senior Executive Service (SES), as provided by 5 U.S.C. 5382, 5383, and 5384. An agency must set and adjust the rate of basic pay for an SES member on the basis of the employee's performance and/or contribution to the agency's performance, as determined by the agency through the administration of its performance management system(s) for senior executives. These regulations must be read in combination with applicable statutes and with the regulations for the approval of an SES performance management system under 5 CFR part 430, subpart C, and certification of an SES performance appraisal system under 5 CFR part 430, subpart D.
+
+[69 FR 70362, Dec. 6, 2004]

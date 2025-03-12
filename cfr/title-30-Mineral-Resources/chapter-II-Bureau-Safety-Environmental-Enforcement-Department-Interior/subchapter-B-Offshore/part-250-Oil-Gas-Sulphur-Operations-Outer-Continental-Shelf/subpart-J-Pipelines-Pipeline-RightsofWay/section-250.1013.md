@@ -1,0 +1,3 @@
+##### § 250.1013 Grounds for forfeiture of pipeline right-of-way grants. #####
+
+Failure to comply with the Act, regulations, or any conditions of the right-of-way grant prescribed by the Regional Supervisor shall be grounds for forfeiture of the grant in an appropriate judicial proceeding instituted by the United States in any U.S. District Court having jurisdiction in accordance with the provisions of 43 U.S.C. 1349.

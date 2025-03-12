@@ -1,0 +1,3 @@
+##### § 92.15 Request for hearing after time expires. #####
+
+The Department may accept late requests for a hearing if the employee can show that delay in requesting a hearing beyond the period provided in the notice described in § 92.11 of this part was caused by circumstances beyond his or her control or because of failure to receive notice of the time limit (unless he or she was otherwise aware of it) or because of new information.

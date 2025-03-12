@@ -1,0 +1,7 @@
+##### § 2418.11 How will the FLRA use tax-refund offset to collect an FLRA debt? #####
+
+(a) *Tax-refund offset.* In most cases, the Financial Management Service uses the Treasury Offset Program to collect FLRA debts by the offset of tax refunds and other Federal payments. See § 2418.9(c). If not already transferred to the Financial Management Service under § 2418.9, the FLRA will refer to the Treasury Offset Program any past-due, legally enforceable debt for collection by tax-refund offset. See 26 U.S.C. 6402(d), 31 U.S.C. 3720A and 31 CFR 285.2.
+
+(b) *Notice.* At least sixty (60) days before referring a debt to the Treasury Offset Program, the FLRA will send notice to the debtor in accordance with the requirements of § 2418.4. The FLRA will certify to the Financial Management Service's Treasury Offset Program, in writing, that the debt is past due and legally enforceable in the amount submitted and that the FLRA has made reasonable efforts to obtain payment of the debt as described in 31 CFR 285.2(d). In addition, the FLRA will certify its compliance with all applicable due-process and other requirements described in this part and other Federal laws. See 31 U.S.C. 3720A(b) and 31 CFR 285.2.
+
+(c) *Administrative review.* The notice described in § 2418.4 shall provide the debtor with at least 60 days prior to the initiation of tax-refund offset to request an administrative review as described in § 2418.10(c). The FLRA may suspend collection through tax-refund offset and/or other collection actions pending the resolution of the debtor's dispute.

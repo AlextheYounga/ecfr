@@ -1,0 +1,5 @@
+##### 237.503 Agency-head responsibilities. #####
+
+(c) The agency head or designee shall employ procedures to ensure that requirements for service contracts are vetted and approved as a safeguard to prevent contracts from being awarded or administered in a manner that constitutes an unauthorized personal services contract. Contracting officers shall follow the procedures at PGI 237.503, include substantially similar certifications in conjunction with service contract requirements, and place the certification in the contract file. The program manager or other official responsible for the requirement, at a level specified by the agency, should execute the certification. In addition, contracting officers and program managers should remain aware of the descriptive elements at FAR 37.104(d) to ensure that a service contract does not inadvertently become administered as a personal-services contract.
+
+[76 FR 25566, May 5, 2011]

@@ -1,0 +1,3 @@
+##### § 413.372 AKI dialysis payment rate. #####
+
+The amount of payment for AKI dialysis services shall be the base rate for renal dialysis services determined for such year under section 1881(b)(14), that is, the ESRD base rate as set forth in § 413.220, updated by the ESRD bundled market basket percentage increase factor minus a productivity adjustment as set forth in § 413.196(d)(1), adjusted for wages as set forth in § 413.231, and adjusted by any other amounts deemed appropriate by the Secretary under § 413.373.

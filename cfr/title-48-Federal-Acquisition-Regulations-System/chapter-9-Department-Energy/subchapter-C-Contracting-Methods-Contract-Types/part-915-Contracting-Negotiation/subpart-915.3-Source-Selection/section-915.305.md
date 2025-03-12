@@ -1,0 +1,5 @@
+##### 915.305 Proposal evaluation. #####
+
+(d) Personnel from DOE, other Government agencies, consultants, and contractors, including those who manage or operate Government-owned facilities, may be used in the evaluation process as evaluators or advisors when their services are necessary and available. When personnel outside the Government, including those of contractors who operate or manage Government-owned facilities, are to be used as evaluators or advisors, approval and nondisclosure procedures as required by 915.207-70 shall be followed and a notice of the use of non-Federal evaluators shall be included in the solicitation. In all instances, such personnel will be required to comply with DOE conflict of interest and nondisclosure requirements.
+
+[63 FR 56851, Oct. 23, 1998, as amended at 76 FR 7692, Feb. 11, 2011]

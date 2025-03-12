@@ -1,0 +1,3 @@
+##### § 881.12 Civil rights. #####
+
+State or local authorities shall comply with Title VI of the Civil Rights Act of 1964 (Pub. L. 88-352) and all requirements imposed by or pursuant to the regulations of the Department of the Interior entitled “Nondiscrimination in Federally-assisted Programs of the Department of the Interior—Effectuation of Title VI of the Civil Rights Act of 1964” (43 CFR part 17) and shall give assurances of compliance in such forms as may be required by the Director.

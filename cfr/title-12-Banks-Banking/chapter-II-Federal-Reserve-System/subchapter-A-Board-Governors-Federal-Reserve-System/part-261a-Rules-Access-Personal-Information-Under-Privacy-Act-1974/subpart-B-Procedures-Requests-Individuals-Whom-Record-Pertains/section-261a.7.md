@@ -1,0 +1,3 @@
+##### § 261a.7 Special procedures for medical records. #####
+
+If you request medical or psychological records pursuant to § 261a.5, we will disclose them directly to you unless the Chief Privacy Officer, in consultation with the Board's physician or Employee Assistance Program counselor, determines that such disclosure could have an adverse effect on you. If the Chief Privacy Officer makes that determination, we will provide the information to a licensed physician or other appropriate representative that you designate, who may disclose those records to you in a manner he or she deems appropriate.

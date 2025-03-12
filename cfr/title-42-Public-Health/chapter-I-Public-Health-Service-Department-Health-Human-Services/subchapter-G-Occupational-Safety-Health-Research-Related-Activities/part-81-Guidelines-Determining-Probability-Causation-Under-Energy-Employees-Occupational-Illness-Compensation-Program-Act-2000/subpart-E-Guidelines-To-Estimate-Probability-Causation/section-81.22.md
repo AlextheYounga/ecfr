@@ -1,0 +1,3 @@
+##### § 81.22 General guidelines for use of NIOSH-IREP. #####
+
+DOL will use procedures specified in the NIOSH-IREP Operating Guide to calculate probability of causation estimates under EEOICPA. The guide provides current, step-by-step instructions for the operation of IREP. The procedures include entering personal, diagnostic, and exposure data; setting/confirming appropriate values for variables used in calculations; conducting the calculation; and, obtaining, evaluating, and reporting results.

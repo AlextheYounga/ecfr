@@ -1,0 +1,13 @@
+##### § 791.18 Public availability of meeting records and other documents. #####
+
+(a) The agency shall make promptly available to the public, in the Public Reference Room, the transcript, electronic recording, or minutes of any meeting, deleting any agenda item or any item of the testimony of a witness received at a closed meeting which the Board determined, pursuant to paragraph (c) of this section, was exempt from disclosure under § 791.12(a). The exemption or exemptions relied upon for any deleted information shall be reflected on any record or recording.
+
+(b) Copies of any transcript, minutes or transcription of a recording, disclosing the identity of each speaker, shall be furnished to any person requesting such information in the form specified in paragraph (a) of this section. Copies shall be furnished at the actual cost of duplication or transcription unless waived by the Secretary of the Board.
+
+(c) Following each meeting or any portion of a meeting closed pursuant to § 791.12(a), the General Counsel or his designee, after consultation with the Secretary of the Board, shall determine which, if any, portions of the meeting transcript, electronic recording or minutes not otherwise available under 5 U.S.C. 552a (the Privacy Act) contain information which should be withheld pursuant to § 791.12(a). If, at a later time, the Board determines that there is no further justification for withholding any meeting record or other item of information from the public which has previously been withheld, then such information shall be made available to the public.
+
+(d) Except for information determined by the Board to be exempt from disclosure pursuant to paragraph (c) of this section, meeting records shall be promptly available to the public in the Public Reference Room. Meeting records include but are not limited to: The transcript, electronic recording or minutes of each meeting, as required by § 791.17(a); the notice requirements of §§ 791.13 and 791.14(c); and the General Counsel Certification along with the presiding officer's statement, as required by § 791.16.
+
+(e) These provisions do not affect the procedures set forth in part 792, subpart A, governing the inspection and copying of agency records, except that the exemptions set forth in § 791.12(a) of this subpart and in 5 U.S.C. 552b(c) shall govern in the case of a request made pursuant to part 792, subpart A, to copy or inspect the meeting records described in this section. Any documents considered or mentioned at Board meetings may be obtained subject to the procedures set forth in part 792, subpart A.
+
+[53 FR 29647, Aug. 8, 1988, as amended at 58 FR 17493, Apr. 5, 1993; 64 FR 57365, Oct. 25, 1999]

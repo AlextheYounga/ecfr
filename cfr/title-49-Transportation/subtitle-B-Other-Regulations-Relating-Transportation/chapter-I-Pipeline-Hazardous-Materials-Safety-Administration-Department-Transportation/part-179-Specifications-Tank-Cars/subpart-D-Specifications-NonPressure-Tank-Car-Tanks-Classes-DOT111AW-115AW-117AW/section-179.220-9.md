@@ -1,0 +1,7 @@
+##### § 179.220-9 Compartment tanks. #####
+
+(a) The inner container may be divided into compartments by inserting interior heads, or by fabricating each compartment as a separate container and joining with a cylinder, or by fabricating each compartment as a separate tank without a joining cylinder. Each compartment must be capable of withstanding, without evidence of yielding or leakage, the required test pressure applied in each compartment separately, or in any combination of compartments.
+
+(b) When the inner container is divided into compartments by fabricating each compartment as a separate container and joining with a cylinder, the cylinder must have a plate thickness not less than that required for the inner container shell and must be applied to the outside surface of the straight flange portion of the container head. The cylinder must fit the straight flange tightly for a distance of at least two times the plate thickness, or 1 inch, whichever is greater and must be joined to the straight flange by a full fillet weld. Distance from fillet weld seam to container head seam must be not less than 11/2 inches or three times the plate thickness, whichever is greater.
+
+[Amdt. 179-9, 36 FR 21341, Nov. 6, 1971]

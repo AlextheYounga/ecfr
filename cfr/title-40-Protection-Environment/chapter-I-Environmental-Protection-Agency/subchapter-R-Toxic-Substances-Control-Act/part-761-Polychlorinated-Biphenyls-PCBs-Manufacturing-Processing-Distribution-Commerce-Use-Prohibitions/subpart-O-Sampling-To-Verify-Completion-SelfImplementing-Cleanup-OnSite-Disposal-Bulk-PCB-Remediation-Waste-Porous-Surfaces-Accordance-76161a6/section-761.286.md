@@ -1,0 +1,3 @@
+##### § 761.286 Sample size and procedure for collecting a sample. #####
+
+At each selected sampling location for bulk PCB remediation waste or porous surfaces, collect at least 20 milliliters of waste, or a portion of sufficient weight for the chemical analyst to measure the concentration of PCBs and still have sufficient analytical detection sensitivity to reproducibly measure PCBs at the levels designated in § 761.61(a)(4). Use a core sampler having a diameter ≥2 cm and ≤3 cm. Collect waste to a maximum depth of 7.5 cms.

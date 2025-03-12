@@ -1,0 +1,9 @@
+##### § 52.683 Significant deterioration of air quality. #####
+
+(a) The State of Idaho Rules for Control of Air Pollution in Idaho, specifically, IDAPA 58.01.01.005 through 007 (definitions), IDAPA 58.01.01.107.03.a, .b, .c (incorporations by reference), IDAPA 58.01.01.200 through 222 (permit to construct rules); IDAPA 58.01.01.510 through 516 (stack height rules); and IDAPA 58.01.01.575 through 581 (standards, increments and area designations) (except IDAPA 58.01.01.577), are approved as meeting the requirements of title I, part C, subpart 1 of the Clean Air Act for preventing significant deterioration of air quality.
+
+(b) The requirements of sections 160 through 165 of the Clean Air Act are not met for Indian reservations since the plan does not include approvable procedures for preventing significant deterioration of air quality on Indian reservations. Therefore, the provisions of § 52.21 except paragraph (a)(1) are hereby incorporated and made part of the applicable plan for Indian reservations in the State of Idaho.
+
+(c) The requirements of section 165 of the Clean Air Act are not met for sources subject to prevention of significant deterioration requirements prior to August 22, 1986, the effective date of EPA's approval of the rules cited in paragraph (a) of this section. Therefore, the provisions of § 52.21 except paragraph (a)(1) are hereby incorporated and made part of the applicable plan for sources subject to § 52.21 prior to August 22, 1986.
+
+[68 FR 2226, Jan. 16, 2003, as amended at 68 FR 20072, Apr. 24, 2003; 68 FR 74489, Dec. 24, 2003; 77 FR 76419, Dec. 28, 2012; 79 FR 11713, Mar. 3, 2014; 80 FR 18528, Apr. 7, 2015; 81 FR 53294, Aug. 12, 2016]

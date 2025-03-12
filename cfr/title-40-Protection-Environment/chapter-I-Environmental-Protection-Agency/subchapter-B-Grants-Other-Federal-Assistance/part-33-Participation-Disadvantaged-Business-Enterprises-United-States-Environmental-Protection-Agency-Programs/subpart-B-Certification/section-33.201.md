@@ -1,0 +1,5 @@
+##### § 33.201 What does this subpart require? #####
+
+(a) In order to qualify and participate as an MBE or WBE prime or subcontractor for EPA recipients under EPA's DBE Program, an entity must be properly certified as required by this subpart.
+
+(b) EPA's DBE Program is primarily based on two statutes. Public Law 102-389, 42 U.S.C. 4370d, provides for an 8% objective for awarding contracts under EPA financial assistance agreements to business concerns or other organizations owned or controlled by socially and economically disadvantaged individuals, including HBCUs and women (“EPA's 8% statute”). Title X of the Clean Air Act Amendments of 1990, 42 U.S.C. 7601 note, provides for a 10% objective for awarding contracts under EPA financial assistance agreements for research relating to such amendments to business concerns or other organizations owned and controlled by socially and economically disadvantaged individuals (“EPA's 10% statute”).

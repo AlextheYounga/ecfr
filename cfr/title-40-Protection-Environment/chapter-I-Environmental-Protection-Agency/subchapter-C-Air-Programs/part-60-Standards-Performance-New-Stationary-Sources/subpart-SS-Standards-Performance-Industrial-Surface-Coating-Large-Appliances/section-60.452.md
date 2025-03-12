@@ -1,0 +1,3 @@
+##### § 60.452 Standard for volatile organic compounds. #####
+
+On or after the date on which the performance test required by § 60.8 is completed, no owner or operator of an affected facility subject to the provisions of this subpart shall discharge or cause the discharge of VOC emissions that exceed 0.90 kilogram of VOC's per liter of applied coating solids from any surface coating operation on a large appliance surface coating line.

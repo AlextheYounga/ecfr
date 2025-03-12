@@ -1,0 +1,9 @@
+##### § 1510.3 How does the Funding Corporation pay administrative expenses? #####
+
+(a) *The Directorate proposes a budget.* By November 15 of each year, the Directorate must approve and submit to the Secretary a proposed budget for the administrative expenses of the Funding Corporation for the following year.
+
+(b) *The Secretary approves the budget.* The Funding Corporation's budget is subject to the Secretary's prior approval. The proposed budget submitted by the Directorate shall be deemed to be approved by the Secretary unless the Secretary disapproves it within 45 days of the date submitted. The Funding Corporation must transmit a copy of the approved budget to each Bank.
+
+(c) *Budget changes must be approved by the Secretary.* If the Funding Corporation projects or anticipates incurring expenses exceeding its approved budget, the Directorate must submit an amended budget to the Secretary for approval.
+
+(d) *The Funding Corporation collects funds from the Banks to pay its administrative expenses.* At least semiannually, the Funding Corporation must request that each Bank submit within 10 business days of the request payment for a portion of the administrative expenses in the Funding Corporation's budget for the current calendar year. The amount of each Bank's payment must be pro rated according to the percentage of the total outstanding Funding Corporation capital stock owned by the Bank. The Funding Corporation must adjust the amount of each Bank's payment as necessary to reflect differences between aggregate projected and actual administrative expenses incurred during the calendar year and to reflect any changes in estimated aggregate administrative expenses for the coming period. The Funding Corporation must not request payments from the Banks that, in the aggregate, exceed the administrative expenses in the Funding Corporation's approved budget.

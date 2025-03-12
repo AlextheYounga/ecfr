@@ -1,0 +1,3 @@
+##### § 563b.130 What must I include in my plan of conversion? #####
+
+You must include the information included in §§ 563b.320 through 563b.485 and 563b.505 in your plan of conversion. OTS may require you to delete or revise any provision in your plan of conversion if OTS determines the provision is inequitable; is detrimental to you, your account holders, or other savings associations; or is contrary to public interest.

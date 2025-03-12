@@ -1,0 +1,5 @@
+##### § 1650.21 Information provided by employing agency. #####
+
+(a) *Information to be provided to the TSP.* When a TSP participant separates from Government service, his or her employing agency must report the separation and the date of separation to the TSP record keeper. Until the TSP record keeper receives this information from the employing agency, it will not pay a post-employment withdrawal.
+
+(b) *Information to be provided to the participant.* When a TSP participant separates from Government service, his or her employing agency must furnish the participant with information regarding the participant's withdrawal options (e.g., the withdrawal booklet and information about the TSP Web site). The employing agency is also responsible for counseling participants concerning TSP withdrawal options.

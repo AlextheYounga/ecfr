@@ -1,0 +1,3 @@
+##### § 6801.108 Restrictions resulting from employment of family members. #####
+
+A supervisory employee may not participate in any particular matter to which a depository institution or its affiliate is a party if the depository institution or affiliate employs his or her spouse, child, parent or sibling unless the supervising officer, with the concurrence of the Board's Designated Agency Ethics Official, has authorized the employee to participate in the matter using the authorization process set forth in the Office of Government Ethics' Standards of Ethical Conduct at 5 CFR 2635.502(d).

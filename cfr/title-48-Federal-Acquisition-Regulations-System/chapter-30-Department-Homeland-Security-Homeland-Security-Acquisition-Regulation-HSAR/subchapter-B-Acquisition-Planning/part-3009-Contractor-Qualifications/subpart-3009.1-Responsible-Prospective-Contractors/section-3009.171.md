@@ -1,0 +1,1 @@
+##### 3009.171 Prohibition on Federal Protective Service guard services contracts with business concerns owned, controlled, or operated by an individual convicted of a felony. #####

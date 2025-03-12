@@ -1,0 +1,5 @@
+##### § 708.16 Will a contractor or a labor organization that represents an employee be notified of an employee's complaint and be given an opportunity to respond with information? #####
+
+(a) By the 15th day after receiving your complaint, the Head of Field Element or EC Director (as applicable) will provide your employer a copy of your complaint. Your employer has 10 days from receipt of your complaint to submit any comments it wishes to make regarding the allegations in the complaint.
+
+(b) If you are part of a bargaining unit represented for purposes of collective bargaining by a labor organization, the Head of Field Element or EC Director (as applicable) will provide your representative a copy of your complaint by the 15th day after receiving it. The labor organization will be advised that it has 10 days from the receipt of your complaint to submit any comments it wishes to make regarding the allegations in the complaint.

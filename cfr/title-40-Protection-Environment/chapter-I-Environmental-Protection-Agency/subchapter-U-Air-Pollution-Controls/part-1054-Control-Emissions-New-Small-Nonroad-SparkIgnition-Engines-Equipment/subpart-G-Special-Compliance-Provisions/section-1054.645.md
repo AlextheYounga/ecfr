@@ -1,0 +1,13 @@
+##### § 1054.645 What special provisions apply for converting an engine to use an alternate fuel? #####
+
+A certificate of conformity is no longer valid for an engine if the engine is modified such that it is not in a configuration covered by the certificate. This section applies if such modifications are done to convert the engine to run on a different fuel type. Such engines may need to be recertified as specified in this section if the certificate is no longer valid for that engine.
+
+(a) Converting a certified new engine to run on a different fuel type violates 40 CFR 1068.101(a)(1) if the modified engine is not covered by a certificate of conformity.
+
+(b) Converting a certified engine that is not new to run on a different fuel type violates 40 CFR 1068.101(b)(1) if the modified engine is not covered by a certificate of conformity. We may specify alternate certification provisions consistent with the requirements of this part. For example, you may certify the modified engine for a partial useful life. For example, if the engine is modified halfway through its original useful life period, you may generally certify the engine based on completing the original useful life period; or if the engine is modified after the original useful life period is past, you may generally certify the engine based on testing that does not involve further durability demonstration.
+
+(c) Engines may be certified using the certification procedures for new engines as specified in this part or using the certification procedures for aftermarket parts as specified in 40 CFR part 85, subpart V. Unless the original engine manufacturer continues to be responsible for the engine as specified in paragraph (d) of this section, you must remove the original engine manufacturer's emission control information label if you recertify the engine.
+
+(d) The original engine manufacturer is not responsible for operation of modified engines in configurations resulting from modifications performed by others. In cases where the modification allows an engine to be operated in either its original configuration or a modified configuration, the original engine manufacturer remains responsible for operation of the modified engine in its original configuration.
+
+(e) Entities producing conversion kits may obtain certificates of conformity for the converted engines. Such entities are engine manufacturers for purposes of this part.

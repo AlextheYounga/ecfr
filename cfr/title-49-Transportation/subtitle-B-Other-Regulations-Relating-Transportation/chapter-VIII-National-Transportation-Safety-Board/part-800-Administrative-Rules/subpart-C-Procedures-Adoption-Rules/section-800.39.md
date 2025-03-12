@@ -1,0 +1,3 @@
+##### § 800.39 Additional rulemaking proceedings. #####
+
+The NTSB may initiate any further rulemaking proceedings it finds necessary or desirable. For example, interested persons may be invited to make oral arguments, to participate in conferences between the Board or a representative of the Board and interested persons at which minutes of the conference are kept, to appear at informal hearings presided over by officials designated by the Board, at which a transcript or minutes are kept, or participate in any other proceeding to assure informed administrative action and to protect the public interest.

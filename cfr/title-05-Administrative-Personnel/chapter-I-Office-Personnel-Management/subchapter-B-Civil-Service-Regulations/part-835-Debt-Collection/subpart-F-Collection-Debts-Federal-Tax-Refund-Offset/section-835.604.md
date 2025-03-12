@@ -1,0 +1,3 @@
+##### § 835.604 Reasonable attempt to notify. #####
+
+In order to constitute a reasonable attempt to notify the debtor, OPM must have used a mailing address for the debtor obtained from the IRS pursuant to 26 U.S.C. 6103(m)(2) within a period of 1 year preceding the attempt to notify the debtor, unless OPM received clear and concise notification from the debtor that notices from the agency are to be sent to an address different from the address obtained from IRS. Clear and concise notice means that the debtor has provided the agency with written notification, including the debtor's name and identifying number (as defined in 26 CFR 301.6109-1), and the debtor's intent to have the agency notices sent to the new address.

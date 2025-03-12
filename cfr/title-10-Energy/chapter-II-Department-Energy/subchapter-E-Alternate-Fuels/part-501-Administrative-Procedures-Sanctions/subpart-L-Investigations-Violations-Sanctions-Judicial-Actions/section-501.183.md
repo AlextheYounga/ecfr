@@ -1,0 +1,5 @@
+##### § 501.183 Citizen suits. #####
+
+(a) *General.* A person who believes he is aggrieved by the failure of OFE to perform any nondiscretionary act of duty under the Act may file a Petition for Action for OFE to take such action as he may feel to be proper. This petition must be filed at the address provided in § 501.11. The petition must specify the action requested and set forth the facts and legal arguments that constitute the basis for the request. The filing of a Petition for Action will serve as notice to OFE under FUA section 725(b) for purposes of any citizens suit that may be subsequently filed.
+
+(b) *OFE decision.* Within sixty (60) days of receiving the Petition for Action, OFE will notify the person giving notice under this section that it has instituted the action requested or that other described action is being taken, or that other described action is being taken, or that no action is being taken and the reasons therefor.

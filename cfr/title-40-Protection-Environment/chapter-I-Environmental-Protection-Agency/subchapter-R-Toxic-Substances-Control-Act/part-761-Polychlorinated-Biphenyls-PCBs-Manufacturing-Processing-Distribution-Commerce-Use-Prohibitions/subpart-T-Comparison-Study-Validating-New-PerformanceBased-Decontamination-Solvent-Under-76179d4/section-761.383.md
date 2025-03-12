@@ -1,0 +1,3 @@
+##### § 761.383 Applicability. #####
+
+Use the self-implementing decontamination procedure only on smooth, non-porous surfaces that were once in contact with liquid PCBs. Decontamination procedures under this subpart shall exactly parallel § 761.79(c)(3) and (c)(4), except that the procedures described in § 761.79(c)(3)(iii) and (c)(3)(iv) and (c)(4)(iii), (c)(4)(iv) and (c)(4)(vii) may be revised to contain parameters validated in accordance with this subpart.

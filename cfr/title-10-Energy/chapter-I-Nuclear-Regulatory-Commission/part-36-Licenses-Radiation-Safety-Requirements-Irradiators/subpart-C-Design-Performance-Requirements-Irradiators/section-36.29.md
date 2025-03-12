@@ -1,0 +1,5 @@
+##### § 36.29 Radiation monitors. #####
+
+(a) Irradiators with automatic product conveyor systems must have a radiation monitor with an audible alarm located to detect loose radioactive sources that are carried toward the product exit. If the monitor detects a source, an alarm must sound and product conveyors must stop automatically. The alarm must be capable of alerting an individual in the facility who is prepared to summon assistance. Underwater irradiators in which the product moves within an enclosed stationary tube are exempt from the requirements of this paragraph.
+
+(b) Underwater irradiators that are not in a shielded radiation room must have a radiation monitor over the pool to detect abnormal radiation levels. The monitor must have an audible alarm and a visible indicator at entrances to the personnel access barrier around the pool. The audible alarm may have a manual shut-off. The alarm must be capable of alerting an individual who is prepared to respond promptly.

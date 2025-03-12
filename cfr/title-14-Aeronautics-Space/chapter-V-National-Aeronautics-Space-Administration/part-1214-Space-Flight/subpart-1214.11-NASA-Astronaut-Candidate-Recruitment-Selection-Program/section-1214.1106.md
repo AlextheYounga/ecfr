@@ -1,0 +1,3 @@
+##### § 1214.1106 Selection of astronaut candidates. #####
+
+The selection board will recommend to the JSC Director its selection of candidates from among those finalists who are medically qualified. The number and names of candidates selected to be added to the corps will be approved, as required, by JSC/ NASA management and the Associate Administrator for Space Flight, prior to notifying the individuals or the public.

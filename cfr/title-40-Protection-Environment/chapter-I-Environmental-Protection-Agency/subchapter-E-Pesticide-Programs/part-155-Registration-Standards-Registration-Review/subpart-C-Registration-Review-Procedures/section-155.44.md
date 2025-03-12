@@ -1,0 +1,3 @@
+##### § 155.44 Establish schedules for registration review. #####
+
+The Agency will develop schedules for registration review that are generally based on the baseline date of the registration review case or on the date of the latest registration review of the registration review case. The Agency may also take into account other factors, such as achieving process efficiencies by reviewing related cases together, when developing schedules for registration review. The Agency will maintain schedules for the current year and at least two subsequent years on its website.

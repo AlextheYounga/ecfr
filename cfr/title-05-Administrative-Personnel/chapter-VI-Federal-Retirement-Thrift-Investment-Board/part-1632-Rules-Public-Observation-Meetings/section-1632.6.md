@@ -1,0 +1,11 @@
+##### § 1632.6 Public announcement of meetings. #####
+
+(a) Except as otherwise provided by the Act, public announcement of meetings open to public observation and meetings to be partially or completely closed to public observation pursuant to § 1632.7 of this part will be made at least one week in advance of the meeting. Except to the extent such information is determined to be exempt from disclosure under § 1632.5 of this part, each such public announcement will state the time, place and subject matter of the meeting, whether it is to be open or closed to the public, and the name and phone number of the official designated to respond to requests for information about the meeting.
+
+(b) If a majority of the members of the Board determines by a recorded vote that Board business requires that a meeting covered by paragraph (a) of this section be called at a date earlier than that specified in paragraph (a) of this section, the Board shall make a public announcement of the information specified in paragraph (a) of this section at the earliest practicable time.
+
+(c) Changes in the subject matter of a publicly announced meeting, or in the determination to open or close a publicly announced meeting or any portion of a publicly announced meeting to public observation, or in the time or place of a publicly announced meeting made in accordance with the procedures specified in § 1632.9 of this part, will be publicly announced at the earliest practicable time.
+
+(d) Public announcements required by this section will be posted at the Board's External Affairs Office and may be made available by other means or at other locations as may be desirable.
+
+(e) Immediately following each public announcement required by this section, notice of the time, place and subject matter of a meeting, whether the meeting is open or closed, any change in one of the preceding announcements and the name and telephone number of the official designated by the Board to respond to requests about the meeting, shall also be submitted for publication in the Federal Register.

@@ -1,0 +1,3 @@
+##### § 27.1 Purpose. #####
+
+The purpose of this part is to carry out the intent of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) as amended, to the end that no otherwise qualified individual with a disability in the United States shall, solely by reason of his or her disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.

@@ -1,0 +1,3 @@
+##### § 607.8 Reimbursements for services to non-System entities. #####
+
+Non-System entities shall be assessed for direct expenses plus an amount for FCA indirect expenses reasonably related to the services rendered to the non-System entity. Such related indirect expenses shall be calculated as a percentage of the FCA's overall indirect expenses based on the extent of FCA activities with respect to the non-System entity during the period since the entity's most recent assessment.

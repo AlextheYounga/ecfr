@@ -1,0 +1,7 @@
+##### § 98.335 Procedures for estimating missing data. #####
+
+For the carbon input procedure in § 98.333(b), a complete record of all measured parameters used in the GHG emissions calculations is required (e.g., raw materials carbon content values, etc.). Therefore, whenever a quality-assured value of a required parameter is unavailable, a substitute data value for the missing parameter shall be used in the calculations as specified in paragraphs (a) and (b) of this section. You must document and keep records of the procedures used for all such estimates.
+
+(a) For missing records of the carbon content of inputs for facilities that estimate emissions using the carbon input procedure in § 98.333(b); 100 percent data availability is required. You must repeat the test for average carbon contents of inputs according to the procedures in § 98.335(b) if data are missing.
+
+(b) For missing records of the annual mass of carbon-containing inputs using the carbon input procedure in § 98.333(b), the substitute data value must be based on the best available estimate of the mass of the input material from all available process data or information used for accounting purposes, such as purchase records.

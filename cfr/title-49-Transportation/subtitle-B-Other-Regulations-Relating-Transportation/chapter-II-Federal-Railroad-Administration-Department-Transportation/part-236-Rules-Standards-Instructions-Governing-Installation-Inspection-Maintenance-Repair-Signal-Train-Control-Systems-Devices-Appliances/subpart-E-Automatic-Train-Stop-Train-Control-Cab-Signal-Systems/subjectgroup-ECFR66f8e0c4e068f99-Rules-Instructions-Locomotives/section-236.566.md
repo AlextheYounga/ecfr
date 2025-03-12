@@ -1,0 +1,3 @@
+##### § 236.566 Locomotive of each train operating in train stop, train control or cab signal territory; equipped. #####
+
+The locomotive from which brakes are controlled, of each train operating in automatic train stop, train control, or cab signal territory shall be equipped with apparatus responsive to the roadway equipment installed on all or any part of the route traversed, and such apparatus shall be in operative condition.

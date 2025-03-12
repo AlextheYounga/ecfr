@@ -1,0 +1,9 @@
+##### § 543.11-1 Grandfathered authority. #####
+
+(a) A Federal savings bank formerly chartered or designated as a mutual savings bank under state law may exercise any authority it was authorized to exercise as a mutual savings bank under state law at the time of its conversion from a state mutual savings bank to a Federal or other state charter. Except to the extent such authority may be exercised by Federal savings associations not enjoying grandfathered rights hereunder, such authority may be exercised only to the degree authorized under state law at the time of such conversion. Unless otherwise determined by the Director, an association, in the exercise of grandfathered authority, may continue to follow applicable state laws and regulations in effect at the time of such conversion.
+
+(b) A Federal savings association that acquires, or has acquired, a Federal savings bank by merger or consolidation may itself exercise any grandfathered rights enjoyed by the disappearing institution, whether such rights were obtained directly through conversion or through merger or consolidation. The extent of the grandfathered rights of a Federal savings association that disappeared prior to the effective date of this section shall be determined exclusively pursuant to this section.
+
+(c) This section shall not be construed to prevent the exercise by a Federal savings association enjoying grandfathered rights hereunder of authority that is available under the applicable state law only upon the occurrence of specific preconditions, such as the attainment of a particular future date or specified level of regulatory capital, which have not occurred at the time of conversion from a state mutual savings bank, provided they occur thereafter.
+
+(d) This section shall not be construed to permit the exercise of any particular authority on a more liberal basis than is allowable under the most liberal construction of either state or Federal law or regulation.

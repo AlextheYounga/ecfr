@@ -1,0 +1,3 @@
+##### § 280.60 General. #####
+
+Owners and operators of petroleum or hazardous substance UST systems must, in response to a confirmed release from the UST system, comply with the requirements of this subpart except for USTs excluded under § 280.10(b) and UST systems subject to RCRA Subtitle C corrective action requirements under section 3004(u) of the Resource Conservation and Recovery Act, as amended.

@@ -1,0 +1,7 @@
+##### § 228.102 Distance requirement for camp cars provided as sleeping quarters exclusively to MOW workers. #####
+
+(a) The hours of service laws at 49 U.S.C. 21106(b) provide that a railroad that uses camp cars must comply with 49 U.S.C. 21106(a) no later than December 31, 2009. Accordingly, on or after December 31, 2009, a railroad shall not begin construction or reconstruction of a camp car provided by the railroad as sleeping quarters exclusively for MOW workers within or in the immediate vicinity of any area where railroad switching or humping of placarded cars is performed.
+
+(b) This subpart includes definitions of most of the relevant terms (§ 228.101(b) and (c)), the procedures under which a railroad may request a determination by the Federal Railroad Administration that a particular proposed site for the camp car is not within the “immediate vicinity” of railroad switching or humping operations (§§ 228.103 and 228.105), and the basic criteria utilized in evaluating proposed sites. *See* § 228.5 for definitions of other terms. For purposes of this § 228.102, references to “employees” in §§ 228.103 through 228.107 shall be read to include MOW workers.
+
+[76 FR 67088, Oct. 31, 2011]

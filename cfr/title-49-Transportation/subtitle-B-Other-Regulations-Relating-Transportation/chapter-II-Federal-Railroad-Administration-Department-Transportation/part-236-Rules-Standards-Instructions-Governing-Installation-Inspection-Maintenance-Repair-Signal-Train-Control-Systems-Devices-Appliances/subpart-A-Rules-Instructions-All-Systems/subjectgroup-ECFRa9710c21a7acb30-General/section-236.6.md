@@ -1,0 +1,3 @@
+##### § 236.6 Hand-operated switch equipped with switch circuit controller. #####
+
+Hand-operated switch equipped with switch circuit controller connected to the point, or with facing-point lock and circuit controller, shall be so maintained that when point is open one-fourth inch or more on facing-point switch and three-eights inch or more on trailing-point switch, track or control circuits will be opened or shunted or both, and if equipped with facing-point lock with circuit controller, switch cannot be locked. On such hand-operated switch, switch circuit controllers, facing-point locks, switch-and-lock movements, and their connections shall be securely fastened in place, and contacts maintained with an opening of not less than one-sixteenth inch when open.

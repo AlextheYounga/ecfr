@@ -1,0 +1,5 @@
+##### 47.301-1 Responsibilities of contracting officers. #####
+
+(a) Contracting officers shall obtain from traffic management offices transportation factors required for (1) solicitations and awards and (2) contract administration, modification, and termination, including the movement of property by the Government to and from contractors' plants.
+
+(b) Contracting officers shall request transportation office participation especially before making an initial acquisition of supplies that are unusually large, heavy, high, wide, or long; have sensitive or dangerous characteristics; or lend themselves to containerized movements from the source. In determining total transportation charges, contracting officers shall also consider additional costs arising from factors such as the use of special equipment, excess blocking and bracing material, or circuitous routing.

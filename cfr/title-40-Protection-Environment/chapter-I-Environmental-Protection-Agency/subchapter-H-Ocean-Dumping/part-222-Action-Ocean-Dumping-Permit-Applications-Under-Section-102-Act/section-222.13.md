@@ -1,0 +1,3 @@
+##### § 222.13 Computation of time. #####
+
+In computing any period of time prescribed or allowed in this part, except unless otherwise provided, the day on which the designated period of time begins to run shall not be included. The last day of the period so computed is to be included unless it is a Saturday, Sunday, or a legal holiday in which the Environmental Protection Agency is not open for business, in which event the period runs until the end of the next day which is not a Saturday, Sunday, or legal holiday. Intermediate Saturdays, Sundays and legal holidays shall be excluded from the computation when the period of time prescribed or allowed is seven days or less.

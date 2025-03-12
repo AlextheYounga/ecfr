@@ -1,0 +1,3 @@
+##### § 27.755 Hulls. #####
+
+For each rotorcraft, with a hull and auxiliary floats, that is to be approved for both taking off from and landing on water, the hull and auxiliary floats must have enough watertight compartments so that, with any single compartment flooded, the buoyancy of the hull and auxiliary floats (and wheel tires if used) provides a margin of positive stability great enough to minimize the probability of capsizing.

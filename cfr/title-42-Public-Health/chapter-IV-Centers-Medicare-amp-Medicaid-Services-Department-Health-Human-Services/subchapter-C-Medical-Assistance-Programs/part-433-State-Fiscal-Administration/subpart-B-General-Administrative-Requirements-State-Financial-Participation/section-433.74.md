@@ -1,0 +1,9 @@
+##### § 433.74 Reporting requirements. #####
+
+(a) Beginning with the first quarter of Federal fiscal year 1993, each State must submit to CMS quarterly summary information on the source and use of all provider-related donations (including all bona fide and presumed-to-be bona fide donations) received by the State or unit of local government, and health care-related taxes collected. Each State must also provide any additional information requested by the Secretary related to any other donations made by, or any taxes imposed on, health care providers. States' reports must present a complete, accurate, and full disclosure of all of their donation and tax programs and expenditures.
+
+(b) Each State must provide the summary information specified in paragraph (a) of this section on a quarterly basis in accordance with procedures established by CMS.
+
+(c) Each State must maintain, in readily reviewable form, supporting documentation that provides a detailed description and legal basis for each donation and tax program being reported, as well as the source and use of all donations received and taxes collected. This information must be made available to Federal reviewers upon request.
+
+(d) If a State fails to comply with the reporting requirements contained in this section, future grant awards will be reduced by the amount of FFP CMS estimates is attributable to the sums raised by tax and donation programs as to which the State has not reported properly, until such time as the State complies with the reporting requirements. Deferrals and/or disallowances of equivalent amounts may also be imposed with respect to quarters for which the State has failed to report properly. Unless otherwise prohibited by law, FFP for those expenditures will be released when the State complies with all reporting requirements.

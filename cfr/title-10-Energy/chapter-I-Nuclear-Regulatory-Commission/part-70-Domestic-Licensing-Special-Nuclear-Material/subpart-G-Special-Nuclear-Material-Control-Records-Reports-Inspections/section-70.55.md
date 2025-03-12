@@ -1,0 +1,13 @@
+##### § 70.55 Inspections. #####
+
+(a) Each licensee shall afford to the Commission at all reasonable times opportunity to inspect special nuclear material and the premises and facilities wherein special nuclear material is used, produced, or stored.
+
+(b) Each licensee shall make available to the Commission for inspection, upon reasonable notice, records kept by the licensee pertaining to his receipt, possession, use, acquisition, import, export, or transfer of special nuclear material.
+
+(c)(1) In the case of fuel cycle facilities where nuclear reactor fuel is fabricated or processed each licensee shall upon request by the Director, Office of Nuclear Material Safety and Safeguards or the appropriate NRC Regional Administrator, provide rent-free office space for the exclusive use of Commission inspection personnel. Heat, air conditioning, light, electrical outlets and janitorial services shall be furnished by each licensee. The office shall be convenient to and have full access to the facility and, shall provide the inspector both visual and acoustic privacy.
+
+(2) For a site with a single fuel facility licensed pursuant to part 70, the space provided shall be adequate to accommodate a full-time inspector, a part-time secretary and transient NRC personnel and will be generally commensurate with other office facilities at the site. A space of 250 square feet either within the site's office complex or in an office trailer or other on site space is suggested as a guide. For sites containing multiple fuel facilities, additional space may be requested to accommodate additional full-time inspector(s). The office space that is provided shall be subject to the approval of the Director, Office of Nuclear Material Safety and Safeguards or the appropriate NRC Regional Administrator. All furniture, supplies and communication equipment will be furnished by the Commission.
+
+(3) The licensee shall afford any NRC resident inspector assigned to that site or other NRC inspectors identified by the Director, Office of Nuclear Material Safety and Safeguards, as likely to inspect the facility, immediate unfettered access, equivalent to access provided regular plant employees, following proper identification and compliance with applicable access control measures for security, radiological protection, and personal safety.
+
+[21 FR 764, Feb. 3, 1956. Redesignated at 25 FR 1607, Feb. 25, 1960, and 25 FR 12730, Dec. 13, 1960, and amended at 32 FR 2563, Feb. 7, 1967; 44 FR 47919, Aug. 16, 1979; 52 FR 31612, Aug. 21, 1987; 54 FR 6877, Feb. 15, 1989; 55 FR 5979, Feb. 21, 1990]

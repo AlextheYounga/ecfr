@@ -1,0 +1,3 @@
+##### § 390.357 Bonds for agents. #####
+
+In lieu of the bond provided in § 390.356 in the case of agents appointed by a State savings association, a fidelity bond may be provided in an amount at least twice the average monthly collections of such agents, provided such agents shall be required to make settlement with the State savings association at least monthly, and provided such bond is approved by the board of directors of the State savings association. No bond need be obtained for any agent that is a financial institution insured by the FDIC.

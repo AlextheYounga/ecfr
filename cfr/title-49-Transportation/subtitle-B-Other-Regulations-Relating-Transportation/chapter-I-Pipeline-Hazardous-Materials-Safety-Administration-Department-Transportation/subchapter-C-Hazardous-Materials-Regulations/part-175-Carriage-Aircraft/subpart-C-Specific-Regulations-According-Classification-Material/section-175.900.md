@@ -1,0 +1,5 @@
+##### § 175.900 Handling requirements for carbon dioxide, solid (dry ice). #####
+
+Carbon dioxide, solid (dry ice) when shipped by itself or when used as a refrigerant for other commodities, may be carried only if the operator has made suitable arrangements based on the aircraft type, the aircraft ventilation rates, the method of packing and stowing, whether animals will be carried on the same flight and other factors. The operator must ensure that the ground staff is informed that the dry ice is being loaded or is on board the aircraft. For arrangements between the shipper and operator, see § 173.217 of this subchapter. Where dry ice is contained in a unit load device (ULD) or other type of pallet prepared by a single shipper in accordance with § 173.217 and the operator after the acceptance adds additional dry ice, the operator must ensure that the information provided to the Pilot-in-Command and the marking on the ULD when used as a packaging reflects that revised quantity of dry ice.
+
+[73 FR 4719, Jan. 28, 2008]

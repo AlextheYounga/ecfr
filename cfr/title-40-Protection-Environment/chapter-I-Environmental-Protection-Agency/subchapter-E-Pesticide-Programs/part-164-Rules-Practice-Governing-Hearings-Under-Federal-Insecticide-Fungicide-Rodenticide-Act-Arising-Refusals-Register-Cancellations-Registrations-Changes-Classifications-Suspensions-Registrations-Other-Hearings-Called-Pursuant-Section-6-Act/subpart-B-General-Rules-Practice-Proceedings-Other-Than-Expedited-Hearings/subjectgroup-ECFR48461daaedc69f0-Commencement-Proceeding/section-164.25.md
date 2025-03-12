@@ -1,0 +1,3 @@
+##### § 164.25 Filing copies of notification of intent to cancel registration or change classification or refusal to register, and statement of issues. #####
+
+After a copy of the document setting forth the objections and requesting a public hearing is filed with the hearing clerk or a response to the statement of issues is filed, the hearing clerk shall serve a copy of the document upon Respondent and the Office of the General Counsel of the Agency, Respondent shall, by counsel, thereupon file with the hearing clerk a copy of the appropriate notice of intention to cancel, the notice of intention to change the classification or the registration refusal order.

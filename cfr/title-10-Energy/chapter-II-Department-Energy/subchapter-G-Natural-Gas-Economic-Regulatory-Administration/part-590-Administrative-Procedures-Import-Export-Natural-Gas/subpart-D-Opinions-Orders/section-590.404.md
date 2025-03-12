@@ -1,0 +1,3 @@
+##### § 590.404 Final opinions and orders. #####
+
+The Assistant Secretary shall issue a final opinion and order and attach such conditions thereto as may be required by the public interest after completion and review of the record. The final opinion and order shall be based solely on the official record of the proceeding and include a statement of findings and conclusions, as well as the reasons or basis for them, and the appropriate order, condition, sanction, relief or denial.

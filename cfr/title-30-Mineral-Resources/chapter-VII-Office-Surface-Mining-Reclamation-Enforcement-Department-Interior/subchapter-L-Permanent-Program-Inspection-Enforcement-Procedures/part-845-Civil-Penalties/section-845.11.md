@@ -1,0 +1,3 @@
+##### § 845.11 How assessments are made. #####
+
+The Office shall review each notice of violation and cessation order in accordance with the assessment procedures described in 30 CFR 845.12, 845.13, 845.14, 845.15, and 845.16 to determine whether a civil penalty will be assessed, the amount of the penalty, and whether each day of a continuing violation will be deemed a separate violation for purposes of the total penalty assessed.

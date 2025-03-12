@@ -1,0 +1,3 @@
+##### § 19.14 Witness fees and expenses. #####
+
+Witnesses subpoenaed for testimony or depositions shall be paid the same fees for attendance and mileage as are paid in the United States district courts in proceedings in which the United States is a party, provided that, in the case of a discovery subpoena addressed to a party, no witness fees or mileage need be paid. Fees for witnesses shall be tendered in advance by the party requesting the subpoena, except that fees and mileage need not be tendered in advance where the OCC is the party requesting the subpoena. The OCC shall not be required to pay any fees to, or expenses of, any witness not subpoenaed by the OCC.

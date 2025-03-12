@@ -1,0 +1,5 @@
+##### § 3.28 Requests for recording. #####
+
+Each document submitted to the Office for recording must include a single cover sheet (as specified in § 3.31) referring either to those patent applications and patents, or to those trademark applications and registrations, against which the document is to be recorded. If a document to be recorded includes interests in, or transactions involving, both patents and trademarks, then separate patent and trademark cover sheets, each accompanied by a copy of the document to be recorded, must be submitted. If a document to be recorded is not accompanied by a completed cover sheet, the document and the incomplete cover sheet will be returned pursuant to § 3.51 for proper completion, in which case the document and a completed cover sheet should be resubmitted.
+
+[70 FR 56128, Sept. 26, 2005]

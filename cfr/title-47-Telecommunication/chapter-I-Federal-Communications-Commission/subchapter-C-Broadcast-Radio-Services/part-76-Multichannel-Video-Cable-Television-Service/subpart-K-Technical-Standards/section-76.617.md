@@ -1,0 +1,5 @@
+##### § 76.617 Responsibility for interference. #####
+
+Interference resulting from the use of cable system terminal equipment (including subscriber terminal, input selector switch and any other accessories) shall be the responsibility of the cable system terminal equipment operator in accordance with the provisions of part 15 of this chapter: provided, however, that the operator of a cable system to which the cable system terminal equipment is connected shall be responsible for detecting and eliminating any signal leakage where that leakage would cause interference outside the subscriber's premises and/or would cause the cable system to exceed the Part 76 signal leakage requirements. In cases where excessive signal leakage occurs, the cable operator shall be required only to discontinue service to the subscriber until the problem is corrected.
+
+[53 FR 46619, Nov. 18, 1989]

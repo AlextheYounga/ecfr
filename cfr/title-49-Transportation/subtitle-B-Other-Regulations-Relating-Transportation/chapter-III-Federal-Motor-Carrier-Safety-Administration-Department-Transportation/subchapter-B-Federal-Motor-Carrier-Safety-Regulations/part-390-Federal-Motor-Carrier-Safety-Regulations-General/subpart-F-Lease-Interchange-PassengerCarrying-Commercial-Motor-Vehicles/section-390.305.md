@@ -1,0 +1,3 @@
+##### § 390.305 Notification. #####
+
+Within 24 hours after a motor carrier of passengers originally hired to provide charter transportation of passengers subcontracts, *i.e.,* leases, the services of another motor carrier of passengers to provide that transportation, the motor carrier originally chartered by the tour operator or passenger group must notify the operator or group, or their representative(s), about the role of the subcontractor and provide the legal name, USDOT number, and telephone number of the subcontracted, *i.e.,* leased, motor carrier of passengers.

@@ -1,0 +1,3 @@
+##### § 236.13 Spring switch; selection of signal control circuits through circuit controller. #####
+
+The control circuits of signals governing facing movements over a main track spring switch shall be selected through the contacts of a switch circuit controller, or through the contacts of relay repeating the position of such circuit controller, which, when normally closed switch point is open one-fourth inch or more, will cause such signals to display their most restrictive aspects, except that where a separate aspect is displayed for facing movements over the switch in the reverse position the signal shall display its most restrictive aspect when the switch points are open one-fourth inch or more from either the normal or reverse position.

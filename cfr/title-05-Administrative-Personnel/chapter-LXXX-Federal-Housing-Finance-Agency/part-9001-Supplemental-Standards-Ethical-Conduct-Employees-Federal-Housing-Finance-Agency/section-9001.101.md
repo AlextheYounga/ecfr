@@ -1,0 +1,9 @@
+##### § 9001.101 General. #####
+
+(a) *Purpose and scope.* In accordance with 5 CFR 2635.105, the purpose of this regulation is to supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. The regulation applies to employees of the Federal Housing Finance Agency (FHFA). Employees are required to comply with 5 CFR part 2635, this part, guidance and procedures established pursuant to this part, the regulation concerning the post-employment restriction for senior examiners at 12 CFR part 1212, and any additional rules of conduct that FHFA is authorized to issue. Employees should contact the DAEO if they have questions about any provision of this regulation or other ethics-related matters.
+
+(b) *Cross-references*—(1) *Regulations.* FHFA employees are also subject to the regulations concerning executive branch financial disclosure contained in 5 CFR part 2634, the regulations concerning executive branch financial interests contained in 5 CFR part 2640, and the regulations concerning executive branch employee responsibilities and conduct contained in 5 CFR part 735.
+
+(2)(i) *Statutory restriction.* Section 1319D of the Act, 12 U.S.C. 4523, prohibits the Director or any former officer or employee of FHFA who, while employed by FHFA, was compensated at a rate in excess of the lowest rate for a position classified higher than GS-15 of the General Schedule under section 5107 of title 5, United States Code, from accepting compensation from an enterprise during the two-year period beginning on the date of his or her separation from employment by FHFA.
+
+(ii) *Notice to employees.* The DAEO shall notify employees on an annual basis of the rate of compensation that triggers the subsequent employment restriction.

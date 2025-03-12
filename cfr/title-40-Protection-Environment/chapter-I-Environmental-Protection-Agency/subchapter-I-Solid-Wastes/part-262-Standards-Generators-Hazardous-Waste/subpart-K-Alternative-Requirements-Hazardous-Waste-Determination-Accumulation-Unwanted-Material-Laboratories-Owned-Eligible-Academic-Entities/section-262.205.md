@@ -1,0 +1,3 @@
+##### § 262.205 Summary of the requirements of this subpart. #####
+
+An eligible academic entity that chooses to be subject to this subpart is not required to have interim status or a RCRA Part B permit for the accumulation of unwanted material and hazardous waste in its laboratories, provided the laboratories comply with the provisions of this subpart and the eligible academic entity has a Laboratory Management Plan (LMP) in accordance with § 262.214 that describes how the laboratories owned by the eligible academic entity will comply with the requirements of this subpart.

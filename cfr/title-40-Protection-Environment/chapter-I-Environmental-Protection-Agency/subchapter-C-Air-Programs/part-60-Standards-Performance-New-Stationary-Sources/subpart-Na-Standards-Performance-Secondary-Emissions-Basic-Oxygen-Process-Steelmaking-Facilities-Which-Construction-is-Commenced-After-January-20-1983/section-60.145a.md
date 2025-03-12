@@ -1,0 +1,17 @@
+##### § 60.145a Compliance provisions. #####
+
+(a) When determining compliance with mass and visible emission limits specified in § 60.142a(a) (2) and (3), the owner or operator of a BOPF shop that normally operates two furnaces with overlapping cycles may elect to operate only one furnace. If an owner or operator chooses to shut down one furnace, he shall be allowed a reasonable time period to adjust his production schedule before the compliance tests are conducted. The owner or operator of an affected facility may also elect to suspend shop operations not subject to this subpart during compliance testing.
+
+(b) During compliance testing for mass and visible emission standards, if an owner or operator elects to shut down one furnace in a shop that normally operates two furnaces with overlapping cycles, the owner or operator shall operate the secondary emission control system for the furnace being tested at exhaust ventilation rates or levels for each duct of the secondary emission control system that are appropriate for single-furnace operation. Following the compliance test, the owner or operator shall operate the secondary emission control system at exhaust ventilation rates or levels for each duct of the system that are no lower than 90 percent of the exhaust ventilation values established during the most recent compliance test.
+
+(c) For the purpose of determining compliance with visible and mass emission standards, a steel production cycle begins when the scrap or hot metal is charged to the vessel (whichever operation occurs first) and terminates 3 minutes after slag is emptied from the vessel into the slag pot. Consecutive steel production cycles are not required for the purpose of determining compliance. Where a hot metal transfer or skimming station is an affected facility, the steel production cycle also includes the hot metal transfer or skimming operation for the next steel production cycle for the affected vessel. Visible emission observations for both hot metal transfer and skimming operations begin with the start of the operation and terminate 3 minutes after completion of the operation.
+
+(d) For the purpose of determining compliance with visible emission standards specified in § 60.142a(a) (1) and (3), the starting and stopping times of regulated process operations shall be determined and the starting and stopping times of visible emissions data sets shall be determined accordingly.
+
+(e) To determine compliance with § 60.142a(a)(1), select the data sets yielding the highest and second highest 3-minute average opacities for each steel production cycle. Compliance is achieved if the highest 3-minute average for each cycle observed is less than 20 percent and the second highest 3-minute average is 10 percent or less.
+
+(f) To determine compliance with § 60.142(a)(2), determine the concentration of particulate matter in exhaust gases exiting the secondary emission collection device with Method 5. Compliance is achieved if the concentration of particulate matter does not exceed 23 mg/dscm (0.010 gr/dscf).
+
+(g) To determine compliance with § 60.142a(a)(3), construct consecutive 3-minute averages for each steel production cycle. Compliance is achieved if no 3-minute average is more than 5 percent.
+
+[51 FR 161, Jan. 2, 1986, as amended at 65 FR 61756, Oct. 17, 2000]

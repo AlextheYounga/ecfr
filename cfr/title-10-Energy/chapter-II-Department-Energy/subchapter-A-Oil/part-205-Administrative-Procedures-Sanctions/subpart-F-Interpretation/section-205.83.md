@@ -1,0 +1,5 @@
+##### § 205.83 Contents. #####
+
+(a) The request shall contain a full and complete statement of all relevant facts pertaining to the circumstances, act or transaction that is the subject of the request and to the DOE action sought. Such facts shall include the names and addresses of all affected persons (if reasonably ascertainable) and a full discussion of the pertinent provisions and relevant facts contained in the documents submitted with the request. Copies of all relevant contracts, agreements, leases, instruments, and other documents shall be submitted with the request. When the request pertains to only one step of a larger integrated transaction, the facts, circumstances, and other relevant information pertaining to the entire transaction must be submitted.
+
+(b) The request for interpretation shall include a discussion of all relevant authorities, including, but not limited to, DOE rulings, regulations, interpretations and decisions on appeals and exceptions relied upon to support the particular interpretation sought therein.

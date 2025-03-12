@@ -1,0 +1,3 @@
+##### § 234.223 Gate arm. #####
+
+Each gate arm, when in the downward position, shall extend across each lane of approaching highway traffic and shall be maintained in a condition sufficient to be clearly viewed by approaching highway users. Each gate arm shall start its downward motion not less than three seconds after flashing lights begin to operate and shall assume the horizontal position at least five seconds before the arrival of any normal train movement through the crossing. At those crossings equipped with four quadrant gates, the timing requirements of this section apply to entrance gates only.

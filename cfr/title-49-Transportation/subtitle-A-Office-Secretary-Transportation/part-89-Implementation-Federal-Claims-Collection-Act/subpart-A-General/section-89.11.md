@@ -1,0 +1,3 @@
+##### § 89.11 Standards for exercise of delegated authority. #####
+
+The authority delegated under § 89.5 shall be exercised in accordance with the standards for the collection and compromise of claims and for the suspension and termination of action to collect claims promulgated by the United States General Accounting Office and the United States Department of Justice, and published at 4 CFR chapter II, as those standards may be amended.

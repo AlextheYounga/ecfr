@@ -1,0 +1,3 @@
+##### § 265.400 Applicability. #####
+
+The regulations in this subpart apply to owners and operators of facilities which treat hazardous wastes by chemical, physical, or biological methods in other than tanks, surface impoundments, and land treatment facilities, except as § 265.1 provides otherwise. Chemical, physical, and biological treatment of hazardous waste in tanks, surface impoundments, and land treatment facilities must be conducted in accordance with subparts J, K, and M, respectively.

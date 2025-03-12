@@ -1,0 +1,5 @@
+##### § 1.933 Patent owner duty of disclosure in inter partes reexamination proceedings. #####
+
+(a) Each individual associated with the patent owner in an *inter partes* reexamination proceeding has a duty of candor and good faith in dealing with the Office, which includes a duty to disclose to the Office all information known to that individual to be material to patentability in a reexamination proceeding as set forth in § 1.555(a) and (b). The duty to disclose all information known to be material to patentability in an *inter partes* reexamination proceeding is deemed to be satisfied by filing a paper in compliance with the requirements set forth in § 1.555(a) and (b).
+
+(b) The responsibility for compliance with this section rests upon the individuals designated in paragraph (a) of this section, and no evaluation will be made by the Office in the reexamination proceeding as to compliance with this section. If questions of compliance with this section are raised by the patent owner or the third party requester during a reexamination proceeding, they will be noted as unresolved questions in accordance with § 1.906(c).

@@ -1,0 +1,3 @@
+##### § 655.1 Purpose. #####
+
+The purpose of this part is to establish programs to be implemented by employers that receive financial assistance from the Federal Transit Administration (FTA) and by contractors of those employers, that are designed to help prevent accidents, injuries, and fatalities resulting from the misuse of alcohol and use of prohibited drugs by employees who perform safety-sensitive functions.

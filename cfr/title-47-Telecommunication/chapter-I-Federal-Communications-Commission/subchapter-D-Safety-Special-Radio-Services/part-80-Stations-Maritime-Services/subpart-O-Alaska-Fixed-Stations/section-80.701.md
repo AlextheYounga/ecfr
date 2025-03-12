@@ -1,0 +1,3 @@
+##### § 80.701 Scope of service. #####
+
+There are two classes of Alaska Fixed stations. Alaska-public fixed stations are common carriers, open to public correspondence, which operate on the paired duplex channels listed in subpart H of this part. Alaska-private fixed stations may operate on simplex frequencies listed in subpart H of this part to communicate with other Alaska private fixed stations or with ship stations, and on duplex frequencies listed in subpart H of this part when communicating with the Alaska-public fixed stations. Alaska-private fixed stations must not charge for service, although third party traffic may be transmitted. Only Alaska-public fixed stations are authorized to charge for communication services.

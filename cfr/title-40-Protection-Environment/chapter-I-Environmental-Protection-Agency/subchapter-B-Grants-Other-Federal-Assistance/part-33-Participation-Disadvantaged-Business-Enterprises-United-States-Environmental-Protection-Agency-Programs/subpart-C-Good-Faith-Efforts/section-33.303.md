@@ -1,0 +1,5 @@
+##### § 33.303 Are there special rules for loans under EPA financial assistance agreements? #####
+
+A recipient of an EPA financial assistance agreement to capitalize a revolving loan fund, such as a State under the CWSRF or DWSRF or an eligible entity under the Brownfields Cleanup Revolving Loan Fund program, must require that borrowers receiving identified loans comply with the good faith efforts described in § 33.301 and the contract administration requirements of § 3.302. This provision does not require that such private and nonprofit borrowers expend identified loan funds in compliance with any other procurement procedures contained in 2 CFR part 200 Subpart D—Post Federal Award Requirements, Procurement Standards, or 40 CFR part 35 subpart O, as applicable.
+
+[73 FR 15913, Mar. 26, 2008, as amended at 79 FR 76054, Dec. 19, 2014]

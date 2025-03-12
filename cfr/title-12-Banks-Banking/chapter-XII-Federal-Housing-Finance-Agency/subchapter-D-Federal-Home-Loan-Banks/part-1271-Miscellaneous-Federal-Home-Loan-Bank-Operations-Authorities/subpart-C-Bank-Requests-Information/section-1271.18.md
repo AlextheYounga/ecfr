@@ -1,0 +1,3 @@
+##### § 1271.18 Form of request. #####
+
+A request by a Bank to a financial regulatory agency for confidential regulatory information shall be made in writing or by such other means as may be agreed upon between the Bank and the financial regulatory agency. The request shall reference section 22 of the Bank Act (12 U.S.C. 1442), as amended, and this regulation, and shall describe the confidential regulatory information requested and identify its intended use pursuant to the Bank Act. The request shall be signed or otherwise made by any duly authorized Bank officer or employee.

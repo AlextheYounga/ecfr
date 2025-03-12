@@ -1,0 +1,3 @@
+##### § 205.199H Actions not subject to administrative appeal. #####
+
+A Notice of Probable Violation, Notice of Proposed Disallowance, Proposed Remedial Order or Interim Remedial Order for Immediate Compliance issued pursuant to this subpart shall not be an action from which there may be an administrative appeal pursuant to subpart H. In addition, a determination by the Office of Hearings and Appeals that a Remedial Order, an Order of Disallowance, or a Remedial Order for Immediate Compliance should not be issued shall not be appealable pursuant to subpart H.

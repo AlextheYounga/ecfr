@@ -1,0 +1,7 @@
+##### § 1.802 Need or opportunity to make a deposit. #####
+
+(a) Where an invention is, or relies on, a biological material, the disclosure may include reference to a deposit of such biological material.
+
+(b) Biological material need not be deposited unless access to such material is necessary for the satisfaction of the statutory requirements for patentability under 35 U.S.C. 112. If a deposit is necessary, it shall be acceptable if made in accordance with these regulations. Biological material need not be deposited, inter alia, if it is known and readily avaliable to the public or can be made or isolated without undue experimentation. Once deposited in a depository complying with these regulations, a biological material will be considered to be readily available even though some requirement of law or regulation of the United States or of the country in which the depository institution is located permits access to the material only under conditions imposed for safety, public health or similar reasons.
+
+(c) The reference to a biological material in a specification disclosure or the actual deposit of such material by an applicant or patent owner does not create any presumption that such material is necessary to satisfy 35 U.S.C. 112 or that deposit in accordance with these regulations is or was required.

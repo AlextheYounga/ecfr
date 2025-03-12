@@ -1,0 +1,5 @@
+##### § 209.22 Initiation of meetings. #####
+
+(a) Any meeting held for the purpose of developing a voluntary agreement involving two or more potential participants shall be initiated and chaired by the Administrator or other regular full-time Federal employee designated by him.
+
+(b) DOE shall provide notice of meetings held pursuant to this subpart, in writing, to the Attorney General, the Federal Trade Commission, and to the Speaker of the House and the President of the Senate for delivery to the appropriate committees of Congress, and to the public through publication in the Federal Register. Such notice shall identify the time, place, and agenda of the meeting, and such other matters as the Administrator deems appropriate. Notice in the Federal Register shall be published at least seven days prior to the date of the meeting.

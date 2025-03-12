@@ -1,0 +1,3 @@
+##### § 792.06 Can I obtain other records? #####
+
+Except with respect to records routinely made available under § 792.02 or published in the Federal Register, or to the extent that records are exempt under the FOIA, if you make a request for records in accordance with this subpart, NCUA will make such records available to you, including records maintained in electronic format, as long as you agree to pay the actual, direct costs.

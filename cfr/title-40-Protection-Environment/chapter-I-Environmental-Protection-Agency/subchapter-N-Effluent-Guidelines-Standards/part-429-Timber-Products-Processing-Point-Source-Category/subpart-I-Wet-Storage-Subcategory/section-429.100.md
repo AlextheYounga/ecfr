@@ -1,0 +1,3 @@
+##### § 429.100 Applicability; description of the wet storage subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from the storage of unprocessed wood, *i.e.*, the storage of logs or roundwood before or after removal of bark in self-contained bodies of water (mill ponds or log ponds) or the storage of logs or roundwood on land during which water is sprayed or deposited intentionally on the logs (wet decking).

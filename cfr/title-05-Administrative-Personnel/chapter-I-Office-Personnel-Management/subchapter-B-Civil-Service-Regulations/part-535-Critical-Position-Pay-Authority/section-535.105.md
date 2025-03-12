@@ -1,0 +1,11 @@
+##### § 535.105 Setting and adjusting rates of basic pay. #####
+
+(a) The rate of basic pay for a critical position may not be less than the rate of basic pay, including any locality-based comparability payments established under 5 U.S.C. 5304 or special rate supplement under 5 U.S.C. 5305 (or other similar payment or supplement under other legal authority) that would otherwise be payable for the position.
+
+(b) If critical position pay authority is granted for a position, the head of an agency may set pay initially at any amount up to the rate of pay for level II or level I of the Executive Schedule, as applicable, without further approval unless a higher maximum rate is approved by the President under § 535.104(c).
+
+(c) The head of an agency may make subsequent adjustments in the rate of basic pay for a critical position each January at the same time general pay adjustments are authorized for Executive Schedule employees under section 5318 of title 5, United States Code. Such adjusted rates may not exceed the new rate for Executive Schedule level II or other applicable maximum established for the critical position. However, the employee must have at least a rating of Fully Successful or equivalent, and subsequent adjustments must be based on labor market factors, recruitment and retention needs, and individual accomplishments and contributions to an agency's mission.
+
+(d) Employees receiving critical position pay are not entitled to locality-based comparability payments established under 5 U.S.C. 5304, special rate supplements under 5 U.S.C. 5305, or other similar payments or supplements under other legal authority.
+
+(e) If an agency discontinues critical position pay for a given position (on its own initiative or because OPM, in consultation with OMB, terminates the authority under § 535.103(d)), the employee's rate of basic pay will be set at the rate to which the employee would be entitled had he or she not received critical pay, as determined by the head of the agency, unless the employee is eligible for a higher payable rate under the General Schedule maximum payable rate rule in § 531.221 and the agency chooses to apply that rule.

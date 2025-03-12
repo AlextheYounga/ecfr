@@ -1,0 +1,3 @@
+##### § 48.17 Reservation of authority. #####
+
+The OCC may modify the disclosure, recordkeeping, capital and margin, reporting, business conduct, documentation, or other standards or requirements under this part for a specific retail forex transaction or a class of retail forex transactions if the OCC determines that the modification is consistent with safety and soundness and the protection of retail forex customers.

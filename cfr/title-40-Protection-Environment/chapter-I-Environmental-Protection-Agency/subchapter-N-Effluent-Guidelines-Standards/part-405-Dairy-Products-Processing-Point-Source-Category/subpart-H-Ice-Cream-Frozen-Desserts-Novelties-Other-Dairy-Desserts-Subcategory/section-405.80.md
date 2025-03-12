@@ -1,0 +1,3 @@
+##### § 405.80 Applicability; description of the ice cream, frozen desserts, novelties and other dairy desserts subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the manufacture of ice cream, ice milk, sherbert, water ices, stick confections, frozen novelties products, frozen desserts, melorine, pudding and other dairy product base desserts. If fluid mixes prepared at another plant are employed, the appropriate values from subpart G should be deducted from the limitations.

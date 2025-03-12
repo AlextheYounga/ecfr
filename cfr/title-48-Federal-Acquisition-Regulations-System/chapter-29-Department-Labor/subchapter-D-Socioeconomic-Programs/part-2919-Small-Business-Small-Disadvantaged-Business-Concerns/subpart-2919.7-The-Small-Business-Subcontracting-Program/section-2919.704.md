@@ -1,0 +1,3 @@
+##### 2919.704 Subcontracting plan requirements. #####
+
+Contracting Officers will refer subcontracting plans to the Office of Small Business Programs for review and recommendation before awarding contracts that require subcontracting plans. Contracting officers will document the substance of any agreement with the contractor that permits performance at less than the stated goals recommended by the Office of the Small Business Programs.

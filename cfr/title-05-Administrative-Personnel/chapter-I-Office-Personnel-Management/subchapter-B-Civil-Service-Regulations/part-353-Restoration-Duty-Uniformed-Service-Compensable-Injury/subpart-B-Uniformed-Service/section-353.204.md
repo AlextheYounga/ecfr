@@ -1,0 +1,3 @@
+##### § 353.204 Notice to employer. #####
+
+To be entitled to restoration rights under this part, an employee (or an appropriate officer of the uniformed service in which service is to be performed) must give the employer advance written or verbal notice of the service except that no notice is required if it is precluded by military necessity or, under all relevant circumstances, the giving of notice is otherwise impossible or unreasonable.

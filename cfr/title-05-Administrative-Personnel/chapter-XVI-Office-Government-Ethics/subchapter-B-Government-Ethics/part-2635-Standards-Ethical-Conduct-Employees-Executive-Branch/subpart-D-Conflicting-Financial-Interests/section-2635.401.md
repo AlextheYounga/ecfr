@@ -1,0 +1,5 @@
+##### § 2635.401 Overview. #####
+
+This subpart contains two provisions relating to financial interests. One is a disqualification requirement and the other is a prohibition on acquiring or continuing to hold specific financial interests. An employee may acquire or hold any financial interest not prohibited by § 2635.403. Notwithstanding that his acquisition or holding of a particular interest is proper, an employee is prohibited in accordance with § 2635.402 of this subpart from participating in an official capacity in any particular matter in which, to his knowledge, he or any person whose interests are imputed to him has a financial interest, if the particular matter will have a direct and predictable effect on that interest. See also part 2640 of this chapter, for additional guidance amplifying § 2635.402.
+
+[57 FR 35042, Aug. 7, 1992, as amended at 62 FR 48747, Sept. 17, 1997]

@@ -1,0 +1,3 @@
+##### § 1102.35 Opportunity for informal settlement. #####
+
+Any party may at any time submit to the Secretary, for consideration by the Subcommittee, written offers or proposals for settlement of a proceeding, without prejudice to the rights of the parties. No offer or proposal shall be included in the proceeding's public file over the objection of any party to such proceeding. This paragraph shall not preclude settlement of any proceeding by the filing of a Notice Not To Contest as provided in § 1102.33(c) or by the submission of the case to the ASC on a stipulation of facts.

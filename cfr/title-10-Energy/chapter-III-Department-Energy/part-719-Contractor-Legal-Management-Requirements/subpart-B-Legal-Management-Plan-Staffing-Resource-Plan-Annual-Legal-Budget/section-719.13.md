@@ -1,0 +1,3 @@
+##### § 719.13 Who at the Department receives and reviews the Legal Management Plan? #####
+
+Contractors must submit a Legal Management Plan to Department Counsel. If the contractor has not been notified of the assignment of Department Counsel, the contractor must submit the Legal Management Plan to the contracting officer and the DOE Deputy General Counsel for Litigation and Enforcement or the NNSA Deputy General Counsel as appropriate.

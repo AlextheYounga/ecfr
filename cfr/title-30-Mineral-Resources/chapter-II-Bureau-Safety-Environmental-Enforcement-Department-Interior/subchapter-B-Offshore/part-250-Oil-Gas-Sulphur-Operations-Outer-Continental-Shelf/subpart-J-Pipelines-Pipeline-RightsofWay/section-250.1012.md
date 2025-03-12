@@ -1,0 +1,16 @@
+##### § 250.1012 Required payments for pipeline right-of-way holders. #####
+
+(a) You must pay ONRR, under the regulations at 30 CFR part 1218, an annual rental of $15 for each statute mile, or part of a statute mile, of the OCS that your pipeline right-of-way crosses.
+
+(b) This paragraph applies to you if you obtain a pipeline right-of-way that includes a site for an accessory to the pipeline, including but not limited to a platform. This paragraph also applies if you apply to modify a right-of-way to change the site footprint. In either case, you must pay the amounts shown in the following table.
+
+|                                  If . . .                                  |                                                                                                                                           Then . . .                                                                                                                                            |
+|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(1) Your accessory site is located in water depths of less than 200 meters; | You must pay ONRR, under the regulations at 30 CFR part 1218, a rental of $5 per acre per year with a minimum of $450 per year. The area subject to annual rental includes the areal extent of anchor chains, pipeline risers, and other facilities and devices associated with the accessory.  |
+|(2) Your accessory site is located in water depths of 200 meters or greater;|You must pay ONRR, under the regulations at 30 CFR part 1218, a rental of $7.50 per acre per year with a minimum of $675 per year. The area subject to annual rental includes the areal extent of anchor chains, pipeline risers, and other facilities and devices associated with the accessory.|
+
+(c) If you hold a pipeline right-of-way that includes a site for an accessory to your pipeline and you are not covered by paragraph (b) of this section, then you must pay ONRR, under the regulations at 30 CFR part 1218, an annual rental of $75 for use of the affected area.
+
+(d) You may make the rental payments required by paragraphs (a), (b)(1), (b)(2), and (c) of this section on an annual basis, for a 5-year period, or for multiples of 5 years. You must make the first payment at the time you submit the pipeline right-of-way application. You must make all subsequent payments before the respective time periods begin.
+
+(e) *Late payments.* An interest charge will be assessed on unpaid and underpaid amounts from the date the amounts are due, in accordance with the provisions found in 30 CFR 1218.54. If you fail to make a payment that is late after written notice from ONRR, BSEE may initiate cancellation of the right-of-use grant and easement under § 250.1013.

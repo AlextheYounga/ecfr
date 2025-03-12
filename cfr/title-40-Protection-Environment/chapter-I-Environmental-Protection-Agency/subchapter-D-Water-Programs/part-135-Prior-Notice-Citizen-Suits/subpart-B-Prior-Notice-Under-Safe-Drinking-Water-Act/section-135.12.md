@@ -1,0 +1,7 @@
+##### § 135.12 Contents of notice. #####
+
+(a) *Violation of standard or requirement.* Notice regarding an alleged violation of any requirement prescribed by or under the Act shall include sufficient information to permit the recipient to identify the specific requirement alleged to have been violated, the activity alleged to constitute a violation, the person or persons responsible for the alleged violation, the location of the alleged violation, the date or dates of the alleged violation, and the full name, address, and telephone number of the person giving notice.
+
+(b) *Failure to act.* Notice regarding an alleged failure of the Administrator to perform any act or duty under the Act which is not discretionary with the Administrator shall identify the provision of the Act which requires the act or creates the duty, and shall describe with reasonable specificity the action taken or not taken by the Administrator which is alleged to constitute a failure to perform such act or duty, and shall state the full name, address, and telephone number of the person giving notice.
+
+(c) *Identification of counsel.* All notices shall include the name, address, and telephone number of the legal counsel, if any, representing the person giving notice.

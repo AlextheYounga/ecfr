@@ -1,0 +1,3 @@
+##### § 375.21 Airmen. #####
+
+Members of the flight crew of a foreign civil aircraft shall have in their personal possession valid airman certificates or licenses authorizing them to perform their assigned functions in the aircraft and for the operation involved issued or rendered valid by the country of registry of the aircraft or by the United States. No such flight crew members shall perform any flight duty within the United States that they are not currently authorized to perform in the country issuing or validating the certificate.

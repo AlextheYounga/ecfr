@@ -1,0 +1,3 @@
+##### § 51.1201 Purpose. #####
+
+The purpose of this subpart is to require air agencies to develop and submit air quality data characterizing maximum 1-hour ambient concentrations of SO2 across the United States through either ambient air quality monitoring or air quality modeling analysis at the air agency's election. These monitoring and modeling data may be used in future determinations by the EPA regarding areas' SO2 NAAQS attainment status, or for other actions designed to ensure attainment of the 2010 SO2 NAAQS and provide protection to the public from the short-term health effects associated with exposure to SO2 concentrations that exceed the NAAQS.

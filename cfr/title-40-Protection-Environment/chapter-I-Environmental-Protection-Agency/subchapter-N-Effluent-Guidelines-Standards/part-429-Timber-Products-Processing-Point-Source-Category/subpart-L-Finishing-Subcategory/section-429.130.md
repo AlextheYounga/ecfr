@@ -1,0 +1,3 @@
+##### § 429.130 Applicability; description of the finishing subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from the drying, planing, dipping, staining, end coating, moisture proofing, fabrication, and by-product utilization timber processing operations not otherwise covered by specific guidelines and standards.

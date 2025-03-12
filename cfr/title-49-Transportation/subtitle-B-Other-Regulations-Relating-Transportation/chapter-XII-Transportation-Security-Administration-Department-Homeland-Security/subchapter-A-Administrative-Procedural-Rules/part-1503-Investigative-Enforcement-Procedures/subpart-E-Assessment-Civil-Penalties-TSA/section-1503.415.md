@@ -1,0 +1,5 @@
+##### § 1503.415 Request for portions of the enforcement investigative report (EIR). #####
+
+(a) Upon receipt of a Notice of Proposed Civil Penalty, a person charged with a violation of a TSA requirement, or a representative designated in writing by that person, may request from the agency attorney who issued the Notice of Proposed Civil Penalty portions of the relevant EIR that are not privileged (*e.g.,* under the deliberative process, attorney work-product, or attorney-client privileges). This information will be provided for the sole purpose of providing the information necessary to prepare a response to the allegations contained in the Notice of Proposed Civil Penalty. Sensitive Security Information (SSI) contained in the EIR may be released pursuant to 49 CFR part 1520. Information released under this section is not produced under the Freedom of Information Act.
+
+(b) Any person not listed in paragraph (a) of this section that is interested in obtaining a copy of the EIR must submit a FOIA request pursuant to 5 U.S.C. 552, *et seq.,* 49 CFR part 7, and any applicable DHS regulations. Portions of the EIR may be exempt from disclosure pursuant to FOIA.

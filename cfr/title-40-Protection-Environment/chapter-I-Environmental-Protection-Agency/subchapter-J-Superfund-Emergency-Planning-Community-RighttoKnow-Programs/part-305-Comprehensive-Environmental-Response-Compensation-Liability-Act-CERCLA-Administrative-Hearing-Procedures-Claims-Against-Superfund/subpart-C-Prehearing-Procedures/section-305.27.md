@@ -1,0 +1,7 @@
+##### § 305.27 Accelerated order, order to dismiss. #####
+
+(a) *General.* The Presiding Officer, upon motion of any party or *sua sponte,* may at any time render an accelerated order in favor of the Requestor or the Claims Official as to all or any part of the proceeding, without further hearing or upon such limited additional evidence, such as affidavits, as he may require, if no genuine issue of material fact exists and the party is entitled to judgment as a matter of law, as to all or any part of the proceeding. In addition, the Presiding Officer, upon motion of the Claims Official, may at any time dismiss a Request for a Hearing without further hearing or upon such limited additional evidence as he requires, on the basis of failure to establish a prima facie case or other grounds which show no right to relief on the part of the Requestor.
+
+(b) *Effect.* (1) If an accelerated order or an order to dismiss is issued as to all the issues in the proceeding, the order constitutes the final order of the Presiding Officer, and shall be filed with the Hearing Clerk.
+
+(2) If an accelerated order or an order to dismiss is rendered on less than all issues in the proceeding, the Presiding Officer shall determine what material facts exist without substantial controversy and what material facts remain controverted in good faith. He shall thereupon issue an interlocutory order specifying the facts which appear substantially uncontroverted, and the issues upon which the hearing will proceed.

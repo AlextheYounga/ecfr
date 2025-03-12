@@ -1,0 +1,3 @@
+##### § 556.7 Disposition of petition. #####
+
+Notice of either a grant or denial of a petition for exemption from the notice and remedy requirements of the Act based upon the inconsequentiality of a defect or noncompliance is issued to the petitioner and published in the Federal Register. The effect of a grant of a petition is to relieve the manufacturer from any further responsibility to provide notice and remedy of the defect or noncompliance. The effect of a denial is to continue in force, as against a manufacturer, all duties contained in the Act relating to notice and remedy of the defect or noncompliance. Any interested person may appeal the grant or denial of a petition by submitting written data, views, or arguments to the Administrator.

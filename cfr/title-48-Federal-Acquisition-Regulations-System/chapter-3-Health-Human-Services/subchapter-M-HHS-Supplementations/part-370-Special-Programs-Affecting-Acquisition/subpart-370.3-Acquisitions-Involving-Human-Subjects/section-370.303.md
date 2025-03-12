@@ -1,0 +1,9 @@
+##### 370.303 Notice to offerors. #####
+
+(a) The contracting officer shall insert the provision at 352.270-4a, Notice to Offerors, Protection of Human Subjects, in solicitations that involve human subjects. The contracting officer shall use the clause with its Alternate I when the agency is prescribing a date later than the proposal submission by which the offeror must have an approved FWA.
+
+(b) Institutions having an OHRP-approved FWA shall certify IRB approval of submitted proposals in the manner required by instructions for completion of the contract proposal; by completion of an OMB Form No. 0990-0263, Protection of Human Subjects Assurance Identification/IRB Certification/Declaration of Exemption (Common Rule); or by letter indicating the institution's OHRP-assigned FWA number, the date of IRB review and approval, and the type of review (convened or expedited). The date of IRB approval must not be more than 12 months prior to the deadline for proposal submission.
+
+(c) The contracting officer generally will not request FWAs for contractors, subcontractors, or institutions prior to selecting a contract proposal for negotiation. When a contractor submits an FWA, it provides certification for the initial contract period; no additional documentation is required. If the contract provides for additional years to complete the project, the contractor shall certify annually in the manner described in 370.303(b).
+
+(d) For the Food and Drug Administration (FDA), the contracting officer shall insert the provision at 352.270-10, Notice to Offerors—Protection of Human Subjects, Research Involving Human Subjects Committee (RIHSC) Approval of Research Protocols Required, in solicitations that involve human subjects when the research is subject to RIHSC review and approval.

@@ -1,0 +1,3 @@
+##### 1001.101 Purpose. #####
+
+This subpart establishes Chapter 10, the Department of the Treasury Acquisition Regulation (DTAR), within Title 48 of the Federal Acquisition Regulation (FAR) System. The DTAR contains policies and procedures that supplement FAR coverage and directly affect the contractual relationship between the Department of the Treasury and its business partners (e.g., prospective offerors/bidders and contractors). When FAR coverage is adequate, there will be no corresponding DTAR coverage.

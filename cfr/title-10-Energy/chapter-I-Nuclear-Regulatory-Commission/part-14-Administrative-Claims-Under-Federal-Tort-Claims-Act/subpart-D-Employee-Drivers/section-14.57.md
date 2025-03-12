@@ -1,0 +1,3 @@
+##### § 14.57 Suit against United States exclusive remedy. #####
+
+The remedy against the United States provided by 28 U.S.C. 1346(b) and 2672 for damage to or loss of property or personal injury or death, resulting from the operation by an employee of the Government of any motor vehicle while acting within the scope of his or her office or employment, is exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his or her estate whose act or omission gave rise to the claim.

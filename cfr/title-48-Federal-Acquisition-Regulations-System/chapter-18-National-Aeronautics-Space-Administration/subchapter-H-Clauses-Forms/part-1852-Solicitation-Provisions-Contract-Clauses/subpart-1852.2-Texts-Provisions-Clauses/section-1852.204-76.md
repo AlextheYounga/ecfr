@@ -1,0 +1,25 @@
+##### 1852.204-76 Security requirements for unclassified information technology resources. #####
+
+As prescribed in 1804.470-4(a), insert the following clause:
+
+Security Requirements for Unclassified Information Technology Resources (JAN 2011)
+
+(a) The contractor shall protect the confidentiality, integrity, and availability of NASA Electronic Information and IT resources and protect NASA Electronic Information from unauthorized disclosure.
+
+(b) This clause is applicable to all NASA contractors and sub-contractors that process, manage, access, or store unclassified electronic information, to include Sensitive But Unclassified (SBU) information, for NASA in support of NASA's missions, programs, projects and/or institutional requirements. Applicable requirements, regulations, policies, and guidelines are identified in the Applicable Documents List (ADL) provided as an attachment to the contract. The documents listed in the ADL can be found at: *http://www.nasa.gov/offices/ocio/itsecurity/index.html.* For policy information considered sensitive, the documents will be identified as such in the ADL and made available through the Contracting Officer.
+
+(c) *Definitions.* (1) IT resources means any hardware or software or interconnected system or subsystem of equipment, that is used to process, manage, access, or store electronic information.
+
+(2) NASA Electronic Information is any data (as defined in the Rights in Data clause of this contract) or information (including information incidental to contract administration, such as financial, administrative, cost or pricing, or management information) that is processed, managed, accessed or stored on an IT system(s) in the performance of a NASA contract.
+
+(3) IT Security Management Plan—This plan shall describe the processes and procedures that will be followed to ensure appropriate security of IT resources that are developed, processed, or used under this contract. Unlike the IT security plan, which addresses the IT system, the IT Security Management Plan addresses how the contractor will manage personnel and processes associated with IT Security on the instant contract.
+
+(4) IT Security Plan—this is a FISMA requirement; see the ADL for applicable requirements. The IT Security Plan is specific to the IT System and not the contract. Within 30 days after award, the contractor shall develop and deliver an IT Security Management Plan to the Contracting Officer; the approval authority will be included in the ADL. All contractor personnel requiring physical or logical access to NASA IT resources must complete NASA's annual IT Security Awareness training. Refer to the IT Training policy located in the IT Security Web site at *https://itsecurity.nasa.gov/policies/index.html.*
+
+(d) The contractor shall afford Government access to the Contractor's and subcontractors' facilities, installations, operations, documentation, databases, and personnel used in performance of the contract. Access shall be provided to the extent required to carry out a program of IT inspection (to include vulnerability testing), investigation and audit to safeguard against threats and hazards to the integrity, availability, and confidentiality of NASA Electronic Information or to the function of IT systems operated on behalf of NASA, and to preserve evidence of computer crime.
+
+(e) At the completion of the contract, the contractor shall return all NASA information and IT resources provided to the contractor during the performance of the contract in accordance with retention documentation available in the ADL. The contractor shall provide a listing of all NASA Electronic information and IT resources generated in performance of the contract. At that time, the contractor shall request disposition instructions from the Contracting Officer. The Contracting Officer will provide disposition instructions within 30 calendar days of the contractor's request. Parts of the clause and referenced ADL may be waived by the contracting officer, if the contractor's ongoing IT security program meets or exceeds the requirements of NASA Procedural Requirements (NPR) 2810.1 in effect at time of award. The current version of NPR 2810.1 is referenced in the ADL. The contractor shall submit a written waiver request to the Contracting Officer within 30 days of award. The waiver request will be reviewed by the Center IT Security Manager. If approved, the Contractor Officer will notify the contractor, by contract modification, which parts of the clause or provisions of the ADL are waived.
+
+(f) The contractor shall insert this clause, including this paragraph in all subcontracts that process, manage, access or store NASA Electronic Information in support of the mission of the Agency.
+
+(End of clause)[76 FR 4080, Jan. 24, 2011, as amended at 80 FR 61994, Oct. 15, 2015]

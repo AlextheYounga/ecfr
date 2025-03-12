@@ -1,0 +1,11 @@
+##### § 272.1300 State authorization. #####
+
+(a) The State of Missouri is authorized to administer and enforce a hazardous waste management program in lieu of the Federal program under Subtitle C of the Resource Conservation and Recovery Act of 1976 (RCRA), 42 U.S.C. 6921 *et seq.,* subject to the Hazardous and Solid Waste Amendments of 1984 (HSWA), (Pub. L. 98-616, Nov. 8, 1984), 42 U.S.C. 6926 (c) and (g)). The Federal program for which a State may receive authorization is defined in 40 CFR part 271. The State's program, as administered by the Missouri Department of Natural Resources was approved by EPA pursuant to 42 U.S.C. 6926(b) and part 271 of this Chapter. EPA's approval was effective on December 4, 1985 (50 FR 47740, November 20, 1985).
+
+(b) Missouri is not authorized to implement any HSWA requirements in lieu of EPA unless EPA has explicitly indicated its intent to allow such action in a Federal Register notice granting Missouri authorization.
+
+(c) Missouri has primary responsibility for enforcing its hazardous waste program. However, EPA retains the authority to exercise its enforcement authorities under sections 3007, 3008, 3013, and 7003 of RCRA, 42 U.S.C. 6927, 6928, 6934, and 6973, as well as under other Federal laws and regulations.
+
+(d) Missouri must revise its approved program to adopt new changes to the Federal Subtitle C program in accordance with section 3006(b) of RCRA and 40 CFR part 271, subpart A. Missouri must seek final authorization for all program revisions pursuant to section 3006(b) of RCRA, but, on a temporary basis, may seek interim authorization for revisions required by HSWA pursuant to section 3006(g) of RCRA, 42 U.S.C. 6926(g). If Missouri obtains final authorization for the revised requirements pursuant to section 3006(g), the newly authorized provisions will be listed in § 272.1301 of this subpart. If Missouri obtains interim authorization for the revised requirements pursuant to section 3006(g), the newly authorized provision will be listed in § 227.1302.
+
+[54 FR 8193, Feb. 27, 1989]

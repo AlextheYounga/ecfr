@@ -1,0 +1,9 @@
+##### § 179.100-12 Manway nozzle, cover and protective housing. #####
+
+(a) Manway nozzles must be of approved design of forged or rolled steel for steel tanks or of fabricated aluminum alloy for aluminum tanks, with an access opening of at least 18 inches inside diameter, or at least 14 inches by 18 inches around or oval. Each nozzle must be welded to the tank and the opening reinforced in an approved manner in compliance with the requirements of AAR Specifications for Tank Cars, appendix E, Figure E10 (IBR, see § 171.7 of this subchapter).
+
+(b) Manway cover shall be machined to approved dimensions and be of forged or rolled carbon or alloy steel, rolled aluminum alloy or nickel when required by the lading. Minimum thickness is listed in § 179.101. Manway cover shall be attached to manway nozzle by through or stud bolts not entering tank, except as provided in § 179.103-2(a).
+
+(c) Except as provided in § 179.103, protective housing of cast, forged or fabricated approved materials must be bolted to manway cover with not less than twenty3/4-inch studs. The shearing value of the bolts attaching protective housing to manway cover must not exceed 70 percent of the shearing value of bolts attaching manway cover to manway nozzle. Housing must have steel sidewalls not less than three-fourths inch in thickness and must be equipped with a metal cover not less than one-fourth inch in thickness that can be securely closed. Housing cover must have suitable stop to prevent cover striking loading and unloading connections and be hinged on one side only with approved riveted pin or rod with nuts and cotters. Openings in wall of housing must be equipped with screw plugs or other closures.
+
+[29 FR 18995, Dec. 29, 1964. Redesignated at 32 FR 5606, Apr. 5, 1967, and amended by Amdt. 179-10, 36 FR 21345, Nov. 6, 1971; 68 FR 75760, Dec. 31, 2003]

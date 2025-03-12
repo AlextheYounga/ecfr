@@ -1,0 +1,3 @@
+##### § 1.143 Reconsideration of requirement. #####
+
+If the applicant disagrees with the requirement for restriction, he may request reconsideration and withdrawal or modification of the requirement, giving the reasons therefor. (See § 1.111.) In requesting reconsideration the applicant must indicate a provisional election of one invention for prosecution, which invention shall be the one elected in the event the requirement becomes final The requirement for restriction will be reconsidered on such a request. If the requirement is repeated and made final the examiner will at the same time act on the claims to the invention elected.

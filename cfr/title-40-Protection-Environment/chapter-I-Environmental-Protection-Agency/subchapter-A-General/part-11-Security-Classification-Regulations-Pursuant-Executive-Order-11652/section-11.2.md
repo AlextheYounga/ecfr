@@ -1,0 +1,3 @@
+##### § 11.2 Background. #####
+
+While the Environmental Protection Agency does not have the authority to originally classify information or material in the interest of the national security, it may under certain circumstances downgrade or declassify previously classified material or generate documents incorporating classified information properly originated by other agencies of the Federal Government which must be safeguarded. Agency policy and procedures must conform to applicable provisions of Executive Order 11652, and the National Security Council Directive of May 17, 1972, governing the safeguarding of national security information.

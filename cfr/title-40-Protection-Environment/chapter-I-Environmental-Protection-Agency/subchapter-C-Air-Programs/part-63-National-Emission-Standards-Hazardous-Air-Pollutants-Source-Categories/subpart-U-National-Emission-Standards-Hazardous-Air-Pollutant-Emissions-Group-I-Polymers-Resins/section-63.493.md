@@ -1,0 +1,5 @@
+##### § 63.493 Back-end process provisions. #####
+
+Owners and operators of new and existing affected sources shall comply with the requirements in §§ 63.494 through 63.500. Owners and operators of affected sources whose only elastomer products are latex products, liquid rubber products, or products produced in a gas-phased reaction process, are not subject to the provisions of §§ 63.494 through 63.500. If latex or liquid rubber products are produced in an affected source that also produces another elastomer product, the provisions of §§ 63.494 through 63.500 do not apply to the back-end operations dedicated to the production of one or more latex products, or to the back-end operations during the production of a latex product. Table 8 to this subpart contains a summary of compliance alternative requirements for the emission limits in § 63.494(a)(1)-(3) and associated requirements.
+
+[76 FR 22589, Apr. 21, 2011]

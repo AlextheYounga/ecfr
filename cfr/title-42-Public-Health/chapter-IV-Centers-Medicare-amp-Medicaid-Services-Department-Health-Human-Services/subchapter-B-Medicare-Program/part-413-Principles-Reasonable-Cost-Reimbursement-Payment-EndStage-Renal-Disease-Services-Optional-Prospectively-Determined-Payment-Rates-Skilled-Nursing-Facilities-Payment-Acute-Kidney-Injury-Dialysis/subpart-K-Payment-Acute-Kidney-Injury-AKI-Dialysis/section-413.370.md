@@ -1,0 +1,3 @@
+##### § 413.370 Scope. #####
+
+This subpart implements section 1834(r) of the Act by setting forth the principles and authorities under which CMS is authorized to establish a payment amount for renal dialysis services furnished to beneficiaries with an acute kidney injury in or under the supervision of an ESRD facility that meets the conditions of coverage in part 494 of this chapter and as defined in § 413.171.

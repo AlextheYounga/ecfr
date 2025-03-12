@@ -1,0 +1,3 @@
+##### § 1270.11 Savings clause. #####
+
+Any agreements or other instruments entered into in connection with the issuance of consolidated obligations prior to the amendments made to this part shall continue in effect with respect to all consolidated obligations issued under the authority of section 11 of the Bank Act (12 U.S.C. 1431) and pursuant to this part. References to consolidated obligations in such agreements and instruments shall be deemed to refer to all joint and several obligations of the Banks.

@@ -1,0 +1,9 @@
+##### § 1.94 Return of models, exhibits or specimens. #####
+
+(a) Models, exhibits, or specimens may be returned to the applicant if no longer necessary for the conduct of business before the Office. When applicant is notified that a model, exhibit, or specimen is no longer necessary for the conduct of business before the Office and will be returned, applicant must arrange for the return of the model, exhibit, or specimen at the applicant's expense. The Office will dispose of perishables without notice to applicant unless applicant notifies the Office upon submission of the model, exhibit or specimen that a return is desired and makes arrangements for its return promptly upon notification by the Office that the model, exhibit or specimen is no longer necessary for the conduct of business before the Office.
+
+(b) Applicant is responsible for retaining the actual model, exhibit, or specimen for the enforceable life of any patent resulting from the application. The provisions of this paragraph do not apply to a model or exhibit that substantially conforms to the requirements of § 1.52 or § 1.84, where the model or exhibit has been described by photographs that substantially conform to § 1.84, or where the model, exhibit or specimen is perishable.
+
+(c) Where applicant is notified, pursuant to paragraph (a) of this section, of the need to arrange for return of a model, exhibit or specimen, applicant must arrange for the return within the period set in such notice, to avoid disposal of the model, exhibit or specimen by the Office. Extensions of time are available under § 1.136, except in the case of perishables. Failure to establish that the return of the item has been arranged for within the period set or failure to have the item removed from Office storage within a reasonable amount of time notwithstanding any arrangement for return, will permit the Office to dispose of the model, exhibit or specimen.
+
+[69 FR 56542, Sept. 21, 2004]

@@ -1,0 +1,3 @@
+##### 15.602 Policy. #####
+
+It is the policy of the Government to encourage the submission of new and innovative ideas in response to Broad Agency Announcements, Small Business Innovation Research topics, Small Business Technology Transfer Research topics, Program Research and Development Announcements, or any other Government-initiated solicitation or program. When the new and innovative ideas do not fall under topic areas publicized under those programs or techniques, the ideas may be submitted as unsolicited proposals.

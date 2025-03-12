@@ -1,0 +1,3 @@
+##### § 137.303 Are Federal or other funds available for training associated with Tribal assumption of environmental responsibilities? #####
+
+Yes, Self-Governance Tribes may use construction program and project funds for training and program development. Training and program development funds may also be available from other Federal agencies, such as the Environmental Protection Agency and the National Park Service, state and local governments, and private organizations.

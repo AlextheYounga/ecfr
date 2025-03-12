@@ -1,0 +1,7 @@
+##### § 52.145 Finality of standard design approvals; information requests. #####
+
+(a) An approved design must be used by and relied upon by the NRC staff and the ACRS in their review of any individual facility license application that incorporates by reference a standard design approved in accordance with this paragraph unless there exists significant new information that substantially affects the earlier determination or other good cause.
+
+(b) The determination and report by the NRC staff do not constitute a commitment to issue a permit or license, or in any way affect the authority of the Commission, Atomic Safety and Licensing Board Panel, or presiding officers in any proceeding under part 2 of this chapter.
+
+(c) Except for information requests seeking to verify compliance with the current licensing basis of the standard design approval, information requests to the holder of a standard design approval must be evaluated before issuance to ensure that the burden to be imposed on respondents is justified in view of the potential safety significance of the issue to be addressed in the requested information. Each evaluation performed by the NRC staff must be in accordance with 10 CFR 50.54(f) and must be approved by the Executive Director for Operations or his or her designee before issuance of the request.

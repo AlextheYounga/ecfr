@@ -1,0 +1,7 @@
+##### § 255.5 Royalty rate for digital phonorecord deliveries in general. #####
+
+(a) For every digital phonorecord delivery made on or before December 31, 1997, the royalty rate payable with respect to each work embodied in the phonorecord shall be either 6.95 cents, or 1.3 cents per minute of playing time or fraction thereof, whichever amount is larger.
+
+(b) For every digital phonorecord delivery made on or after January 1, 1998, except for digital phonorecord deliveries where the reproduction or distribution of a phonorecord is incidental to the transmission which constitutes the digital phonorecord delivery, as specified in 17 U.S.C. 115(c)(3)(C) and (D), the royalty rate payable with respect to each work embodied in the phonorecord shall be the royalty rate prescribed in § 255.3 for the making and distribution of a phonorecord made and distributed on the date of the digital phonorecord delivery (the “Physical Rate”). In any future proceeding under 17 U.S.C. 115(c)(3)(C) or (D), the royalty rates payable for a compulsory license for digital phonorecord deliveries in general shall be established de novo, and no precedential effect shall be given to the royalty rate payable under this paragraph for any period prior to the period as to which the royalty rates are to be established in such future proceeding.
+
+[64 FR 6223, Feb. 9, 1999]

@@ -1,0 +1,3 @@
+##### § 1070.55 Special procedures for medical records. #####
+
+If an individual requests medical or psychological records pursuant to § 1070.53 of this subpart, the CFPB will disclose them directly to the requester unless the CFPB determines that such disclosure could have an adverse effect on the requester. If the CFPB makes that determination, the CFPB shall provide the information to a licensed physician or other appropriate representative that the requester designates, who shall disclose those records to the requester in a manner he or she deems appropriate.

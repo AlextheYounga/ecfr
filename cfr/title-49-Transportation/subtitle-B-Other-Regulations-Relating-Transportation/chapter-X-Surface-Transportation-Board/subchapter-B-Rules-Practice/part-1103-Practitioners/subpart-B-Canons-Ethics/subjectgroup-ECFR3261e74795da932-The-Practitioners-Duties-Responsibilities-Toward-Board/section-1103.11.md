@@ -1,0 +1,3 @@
+##### § 1103.11 Standards of ethical conduct in courts of the United States to be observed. #####
+
+These canons further the purpose of the Board's Rules of Practice which direct all persons appearing in proceedings before it to conform, as nearly as possible, to the standards of ethical conduct required of practice before the courts of the United States. Such standards are taken as the basis for these specifications and are modified as the nature of the practice before the Board requires.

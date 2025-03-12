@@ -1,0 +1,5 @@
+##### § 34.7 Medical and other care; death. #####
+
+(a) An alien detained by or in the custody of DHS may be provided medical, surgical, psychiatric, or dental care by HHS through interagency agreements under which DHS shall reimburse HHS. Aliens found to be in need of emergency care in the course of medical examination shall be treated to the extent deemed practical by the attending physician and if considered to be in need of further care, may be referred to DHS along with the physician's recommendations concerning such further care.
+
+(b) In case of the death of an alien, the body shall be delivered to the consular or immigration authority concerned. If such death occurs in the United States, or in a territory or possession thereof, public burial shall be provided upon request of DHS and subject to its agreement to pay the burial expenses. Autopsies shall not be performed unless approved by DHS.

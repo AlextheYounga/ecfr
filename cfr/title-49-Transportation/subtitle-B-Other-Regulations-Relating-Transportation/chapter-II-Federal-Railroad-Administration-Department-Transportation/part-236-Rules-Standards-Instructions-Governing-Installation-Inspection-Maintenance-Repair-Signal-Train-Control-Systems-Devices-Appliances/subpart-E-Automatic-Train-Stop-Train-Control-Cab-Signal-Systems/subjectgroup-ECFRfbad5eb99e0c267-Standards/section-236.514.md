@@ -1,0 +1,3 @@
+##### § 236.514 Interconnection of cab signal system with roadway signal system. #####
+
+The automatic cab signal system shall be interconnected with the roadway-signal system so that the cab signal indication will not authorize operation of the train at a speed higher than that authorized by the indication of the roadway signal that governed the movement of a train into a block except when conditions affecting movement of trains in the block change after the train passes the signal.

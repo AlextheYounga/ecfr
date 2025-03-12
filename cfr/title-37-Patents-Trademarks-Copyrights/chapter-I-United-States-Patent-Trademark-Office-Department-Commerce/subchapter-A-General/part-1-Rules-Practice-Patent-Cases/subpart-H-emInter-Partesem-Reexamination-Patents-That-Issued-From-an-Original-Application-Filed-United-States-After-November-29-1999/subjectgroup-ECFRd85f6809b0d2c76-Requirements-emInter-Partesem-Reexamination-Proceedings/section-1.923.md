@@ -1,0 +1,5 @@
+##### § 1.923 Examiner's determination on the request for inter partes reexamination. #####
+
+Within three months following the filing date of a request for *inter partes* reexamination under § 1.915, the examiner will consider the request and determine whether or not the request and the prior art establish a reasonable likelihood that the requester will prevail with respect to at least one of the claims challenged in the request. The examiner's determination will be based on the claims in effect at the time of the determination, will become a part of the official file of the patent, and will be mailed to the patent owner at the address as provided for in § 1.33(c) and to the third party requester. If the examiner determines that the request has not established a reasonable likelihood that the requester will prevail with respect to at least one of the challenged claims, the examiner shall refuse the request and shall not order *inter partes* reexamination.
+
+[76 FR 59058, Sept. 23, 2011]

@@ -1,0 +1,7 @@
+##### § 302.412 Admissions as to facts and documents. #####
+
+(a) At any time after an answer has been filed, any party may file with the DOT decisionmaker or administrative law judge and serve upon the opposing side a written request for the admission of the genuineness and authenticity of any relevant documents described in and exhibited with the request or for the admission of the truth of any relevant matters of fact stated in the request with respect to such documents.
+
+(b) Each of the matters of which an admission is requested shall be deemed admitted unless within a period designated in the request, not less than ten (10) days after service thereof, or within such further time as the DOT decisionmaker or the administrative law judge may allow upon motion and notice, the party to whom the request is directed serves upon the requesting party a sworn statement either denying specifically the matters of which an admission is requested or setting forth in detail the reasons why he or she cannot truthfully either admit or deny such matters.
+
+(c) Service of such request and answering statement shall be made as provided in § 302.7. Any admission made by a party pursuant to such request is only for the purposes of the pending proceeding, or any proceeding or action instituted for the enforcement of any order entered therein, and shall not constitute an admission by him or her for any other purpose or be used against him or her in any other proceeding or action.

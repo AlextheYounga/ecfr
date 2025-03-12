@@ -1,0 +1,3 @@
+##### § 14.27 Time limit. #####
+
+The claimant shall furnish evidence and information of the types described in 10 CFR 14.23, to the extent reasonably practicable, when the claim is initially presented. If the claimant fails to furnish sufficient evidence and information within six months after the claim was initially presented to enable NRC to adjust, determine, compromise and settle the claim, NRC may consider the claim a nullity.

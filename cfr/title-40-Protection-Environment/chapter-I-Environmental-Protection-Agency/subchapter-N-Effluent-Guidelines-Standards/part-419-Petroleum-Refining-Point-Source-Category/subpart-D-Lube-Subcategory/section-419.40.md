@@ -1,0 +1,3 @@
+##### § 419.40 Applicability; description of the lube subcategory. #####
+
+The provisions of this subpart are applicable to all discharges from any facility that produces petroleum products by the use of topping, cracking, and lube oil manufacturing processes, whether or not the facility includes any process in addition to topping, cracking, and lube oil manufacturing processes. The provisions of this subpart are not applicable, however, to facilities that include the processes specified in subparts C and E of this part.

@@ -1,0 +1,7 @@
+##### § 52.2236 Control strategy; lead. #####
+
+(a) The Tennessee Department of Environment and Conservation has submitted revisions to the Tennessee SIP on October 6, 1994. These revisions address the requirements necessary to change a lead nonattainment area to attainment. The maintenance plan for the Fayette County area near Rossville, Tennessee is comprised of a maintenance demonstration and NSR/PSD program. For areas where the only lead source has shut down, these components are sufficient for an approvable maintenance plan. The State's maintenance plan is complete and satisfies all of the requirements of section 175(A) of the CAA.
+
+(b) *Determination of attaining data.* EPA has determined the Bristol, Tennessee, nonattainment area has attaining data for the 2008 lead (Pb) NAAQS. This clean data determination suspends the requirements for this area to submit an attainment demonstration, associated reasonably available control measures, a reasonable further progress plan, contingency measures, and other planning SIPs related to attainment of the standard for as long as this area continues to meet the 2008 Pb NAAQS.
+
+[60 FR 43020, Aug. 18, 1995, as amended at 77 FR 52233, Aug. 29, 2012]

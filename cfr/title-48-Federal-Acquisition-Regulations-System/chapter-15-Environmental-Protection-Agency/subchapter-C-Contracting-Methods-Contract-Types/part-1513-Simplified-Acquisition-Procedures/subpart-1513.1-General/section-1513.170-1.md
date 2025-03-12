@@ -1,0 +1,3 @@
+##### 1513.170-1 Contents of sole source justifications. #####
+
+The program office submitting the procurement request must submit, as a separate attachment, a brief written statement in support of sole source acquisitions exceeding the micro-purchase threshold. The statement must cite one or more of the circumstances in FAR 6.302 and the necessary facts to support each circumstance. Although program offices may not cite the authority in FAR 6.302-7, the public interest may be used as a basis to support a sole source acquisition. If the acquisition has been synopsized as a notice of proposed sole source acquisition, the statement must include the results of the evaluation of responses to the synopsis.

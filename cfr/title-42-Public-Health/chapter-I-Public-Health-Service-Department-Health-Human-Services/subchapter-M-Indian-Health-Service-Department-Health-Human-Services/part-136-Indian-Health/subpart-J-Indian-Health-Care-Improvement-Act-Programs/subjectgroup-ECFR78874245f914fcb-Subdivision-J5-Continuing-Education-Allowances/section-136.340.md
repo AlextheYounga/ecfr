@@ -1,0 +1,3 @@
+##### § 136.340 Provision of continuing education allowances. #####
+
+In order to encourage physicians, dentists and other health professionals to join or continue in the Service and to provide their services in the rural and remote areas where a significant portion of the Indian people reside, the Secretary, acting through the Service, may provide allowances to health professionals, employed in the Service in order to enable them to leave their duty stations for not to exceed 480 hours of professional consultation and refresher training courses in any one year.

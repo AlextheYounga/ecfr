@@ -1,0 +1,3 @@
+##### § 62.15860 What SSI units are exempt from the federal plan? #####
+
+This subpart exempts combustion units that incinerate sewage sludge and are not located at a wastewater treatment facility designed to treat domestic sewage sludge. These units may be subject to another subpart of this part (*e.g.,* subpart III of this part). If you own or operate such a combustion unit, you must notify the Administrator of an exemption claim under this section.

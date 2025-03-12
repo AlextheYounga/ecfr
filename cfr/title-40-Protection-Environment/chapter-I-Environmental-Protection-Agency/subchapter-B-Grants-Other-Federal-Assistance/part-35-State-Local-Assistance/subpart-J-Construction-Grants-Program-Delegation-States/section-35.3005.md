@@ -1,0 +1,7 @@
+##### § 35.3005 Policy. #####
+
+(a) EPA's policy is to delegate management of the wastewater treatment works construction grant program to the maximum extent possible consistent with the objectives of the Act, prudent fiscal management, and EPA's overall national responsibility for the program. The policy is premised on an on-going partnership between EPA and the States that includes consultation with the States in formulation of policy and guidance by EPA. EPA expects States to undertake full delegation of all project level activities, including preliminary determinations of non-delegable requirements. The objective of delegation is to eliminate duplication of Federal and State effort in the management of the construction grant program, to increase State participation in the construction grant program, and to improve operating efficiency.
+
+(b) Program delegation is to be accomplished through a formal delegation agreement between the Regional Administrator and the State. The delegation agreement will specify the functions which the State will perform and procedures for State certification to EPA.
+
+(c) EPA will overview the performance of the program under delegation to ensure that progress is being made toward meeting the construction grant program objectives and that the State is continuing to employ administrative, fiscal, and program controls to guard against fraud, misuse, and mismanagement of public funds. Overview will also include review of the State management process to ensure it is efficient, effective and assures timely State reviews.

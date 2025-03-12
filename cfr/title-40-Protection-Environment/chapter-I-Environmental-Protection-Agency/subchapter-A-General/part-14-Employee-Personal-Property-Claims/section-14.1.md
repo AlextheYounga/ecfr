@@ -1,0 +1,3 @@
+##### § 14.1 Scope and purpose. #####
+
+This part prescribes regulations for the Military Personnel and Civilian Employees' Claims Act of 1964 (the Act), 31 U.S.C. 3721. The Act allows the Administrator of the U.S. Environmental Protection Agency (EPA) to settle and pay claims of EPA employees for damage to or loss of their personal property which was incident to service. A claim under the Act is allowed only where the claim is substantiated and the Administrator determines that possession of the property was reasonable or proper under the circumstances existing at the time and place of the loss and no part of the loss was caused by any negligent or wrongful act or omission of the employee or his/her agent.

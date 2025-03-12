@@ -1,0 +1,11 @@
+##### § 238.30 Requirement. #####
+
+(a) No processor or person shall manufacture or import, in bulk, ring carriers intended for use in the United States unless they are designed and manufactured so that the ring carriers degrade to the point of 5 percent elongation at break, when tested in accordance with ASTM D-3826-91, “Standard Practice for Determining Degradation End Point in Degradable Polyolefins Using a Tensile Test”, after the ring carrier is exposed to, either:
+
+(1) 250 light-hours of UV in accordance with ASTM D-5208-91,” Standard Practice for Operating Fluorescent Ultraviolet (UV) and Condensation Apparatus for Exposure of Photodegradable Plastics”, using cycle A; or
+
+(2) 35 days, during June and July, to marine conditions in a location below the latitude 26 degrees North, in continental United States waters.
+
+(b) The incorporation by reference of ASTM D-3826-91, “Standard Practice for Determining Degradation End Point in Degradable Polyolefins Using a Tensile Test”, and ASTM D-5208-91, “Standard Practice for Operating Fluorescent Ultraviolet (UV) and Condensation Apparatus for Exposure of Photodegradable Plastics,” was approved by the director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from the American Society of Testing and Materials, 1916 Race Street, Philadelphia, PA 19103. Copies may be inspected at the Resource Conservation and Recovery Act (RCRA) Docket Information Center, (5305), U.S. Environmental Protection Agency Headquarters, 1200 Pennsylvania Ave., NW., Washington, DC 20460 or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* These materials are incorporated as they exist on the date of the approval and notice of any change in these materials will be published in the Federal Register.
+
+[59 FR 9870, Mar. 1, 1994, as amended at 65 FR 47325, Aug. 2, 2000; 69 FR 18803, Apr. 9, 2004]

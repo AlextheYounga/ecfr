@@ -1,0 +1,15 @@
+##### § 2.606 Partial decision on site suitability issues in construction permit proceeding. #####
+
+(a) The provisions of §§ 2.331, 2.339, 2.340(b), 2.343, 2.712, and 2.713 apply to any partial initial decision rendered in accordance with this subpart. Section 2.340(c) does not apply to any partial initial decision rendered in accordance with this subpart. No construction permit or combined license may be issued without completion of the full review required by Section 102(2) of the NEPA, as amended, and subpart A of part 51 of this chapter. The authority of the Commission to review such a partial initial decision *sua sponte,* or to raise *sua sponte* an issue that has not been raised by the parties, will be exercised within the same time as in the case of a full decision relating to the issuance of a construction permit or combined license.
+
+(b)(1) A partial decision on one or more site suitability issues pursuant to the applicable provisions of part 50, subpart A of part 51, and part 100 of this chapter issued in accordance with this subpart shall:
+
+(i) Clearly identify the site to which the partial decision applies; and
+
+(ii) Indicate to what extent additional information may be needed and additional review may be required to enable the Commission to determine in accordance with the provisions of the Act and the applicable provisions of the regulations in this chapter whether a construction permit for a facility to be located on the site identified in the partial decision should be issued or denied.
+
+(2) Following either the Commission (acting in the function of a presiding officer) issuance of a partial initial decision, or completion of Commission review of the partial initial decision of the Atomic Safety and Licensing Board, after hearing, on the site suitability issues, the partial decision shall remain in effect either for a period of 5 years or, where the applicant for the construction permit has made timely submittal of the information required to support the application as provided in § 2.101(a-1), until the proceeding for a permit to construct a facility on the site identified in the partial decision has been concluded,3 unless the Commission or Atomic Safety and Licensing Board, upon its own initiative or upon motion by a party to the proceeding, finds that there exists significant new information that substantially affects the earlier conclusions and reopens the hearing record on site suitability issues. Upon good cause shown, the Commission may extend the 5-year period during which a partial decision shall remain in effect for a reasonable period of time not to exceed 1 year.
+
+3 The partial decision on site suitability issues shall be incorporated in the decision regarding issuance of the combined license to the extent that it serves as a basis for the decision on a specific site issue.
+
+[72 FR 49479, Aug. 28, 2007, as amended at 72 FR 57440, Oct. 9, 2007]

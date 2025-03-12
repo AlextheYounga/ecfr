@@ -1,0 +1,3 @@
+##### § 839.215 May I make a retirement coverage election under the FERCCA if I received a payment as settlement of my claim for losses because of a qualifying retirement coverage error? #####
+
+You can make a retirement coverage election under the FERCCA if OPM waives repayment of the entire amount under § 839.1202. If OPM does not waive the entire repayment, you must pay back the amount that OPM did not waive.

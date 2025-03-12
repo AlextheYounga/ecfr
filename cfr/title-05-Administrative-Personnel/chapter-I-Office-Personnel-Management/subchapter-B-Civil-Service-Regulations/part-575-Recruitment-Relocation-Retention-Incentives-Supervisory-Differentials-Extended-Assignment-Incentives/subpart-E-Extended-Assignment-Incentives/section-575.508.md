@@ -1,0 +1,3 @@
+##### § 575.508 What is the maximum amount of service that may be covered by an extended assignment incentive? #####
+
+An employee's total service under one or more extended assignment incentive service agreements with a particular agency for service in a particular territory, possession, or commonwealth may not exceed 5 years. For this purpose, a year is equal to 365 days, resulting in a total service limit of 1,825 days.

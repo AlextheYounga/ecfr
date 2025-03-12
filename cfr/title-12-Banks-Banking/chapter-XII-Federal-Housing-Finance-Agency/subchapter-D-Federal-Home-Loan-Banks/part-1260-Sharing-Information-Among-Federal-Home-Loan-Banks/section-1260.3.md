@@ -1,0 +1,15 @@
+##### § 1260.3 Requests to withhold proprietary information. #####
+
+(a) *General.* A Bank may request in writing that FHFA withhold from distribution, or determine that the Bank may withhold from distribution, particular information relating to the Bank that may otherwise be subject to distribution under § 1260.2 on the basis that it is proprietary information and the public interest requires that it not be shared. Any such request shall identify the particular information the Bank believes should not be distributed and provide support for the assertions that it is proprietary information and that withholding it from the other Banks and the Office of Finance is necessary to protect the public interest.
+
+(b) *Timing of requests.* (1) *General.* Unless otherwise specified as described in paragraph (b)(2) of this section, the period within which a Bank may make a request to withhold proprietary information under paragraph (a) of this section shall be as follows:
+
+(i) For information that a Bank submits to FHFA, the request shall be delivered to FHFA no later than the time at which the Bank submits the subject information to FHFA.
+
+(ii) For information that FHFA creates (not including compilations of data submitted by the Banks), prior to distributing any information relating to a particular Bank, FHFA shall provide that Bank with a copy of the information to be distributed, after which the Bank shall have ten (10) business days within which to deliver the request to FHFA.
+
+(iii) For information that a Bank is required to distribute directly to the other Banks and the Office of Finance, the request shall be delivered to FHFA no later than ten (10) business days prior to the date on which the Bank would otherwise be required to distribute the information.
+
+(2) *As otherwise specified by FHFA.* Any notice issued by FHFA under § 1260.2(b) may establish requirements for the timing of requests to withhold proprietary information that are different from those specified under paragraph (b)(1) of this section for any category of information to be distributed thereunder. In establishing such requirements, FHFA shall give due regard to the volume and complexity of the information to be reviewed, the Bank's existing familiarity with the information, the frequency of submission or distribution of the information, the likelihood that the information will contain proprietary information, and the effect that any delay in the distribution of the information would have on the fulfillment of the purposes of section 20A(a) of the Bank Act.
+
+(c) *Determination and notice by FHFA.* After receiving a written request that meets the requirements of paragraphs (a) and (b) of this section, the Director or his designee shall promptly determine whether FHFA will, or the Bank may, withhold any information from distribution pursuant to the request, which determination shall be final. FHFA shall promptly notify the affected Bank of that determination and shall not distribute any information that is the subject of the request until it has provided the required notice to the Bank.

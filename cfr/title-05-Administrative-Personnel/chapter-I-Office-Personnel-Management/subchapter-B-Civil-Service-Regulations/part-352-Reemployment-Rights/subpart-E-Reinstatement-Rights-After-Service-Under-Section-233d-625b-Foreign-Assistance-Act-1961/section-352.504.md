@@ -1,0 +1,5 @@
+##### § 352.504 Basic entitlement. #####
+
+Subject to the conditions specified in this subpart, an employee who is appointed to a position under authority of section 233(d) or section 625(b) of the Act is entitled, on termination of that appointment for any reason other than his or her own misconduct or delinquency, to be reinstated in his or her former position or in one of like seniority, status, and pay in the same agency. When the employee's right is to a position in the SES, reinstatement may be to any position in the SES for which the employee is qualified. The employee shall be returned at not less than the SES rate of basic pay as determined under 5 CFR part 534, subpart D at which the employee was being paid immediately before his or her transfer. If the functions with which the employee's former position was identified have been transferred to another agency, the employee's right to reinstatement is in the gaining agency.
+
+[51 FR 25188, July 11, 1986]

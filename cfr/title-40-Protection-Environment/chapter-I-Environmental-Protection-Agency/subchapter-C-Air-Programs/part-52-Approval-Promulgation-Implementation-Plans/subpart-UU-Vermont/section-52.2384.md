@@ -1,0 +1,5 @@
+##### § 52.2384 Stack height review. #####
+
+The State of Vermont has declared to the satisfaction of EPA that no existing emission limitations have been affected by stack height credits greater than good engineering practice or any other prohibited dispersion techniques as defined in EPA's stack height regulations, as revised on July 8, 1985. This declaration was submitted to EPA on March 21, 1986. The State has further declared in a letter from Harold T. Garabedian, dated March 21, 1986, that, “[T]he State concludes that our present rule 5-502(4)(d) is adequate to insure that new emission sources will not be able to use credits from modeling ambient impacts at greater than ‘good engineering practice’ stack height or from using ‘other dispersion techniques.’ ” Thus, Vermont has satisfactorily demonstrated that its regulations meet 40 CFR 51.118 and 51.164.
+
+[52 FR 49407, Dec. 31, 1987]

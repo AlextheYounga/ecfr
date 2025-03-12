@@ -1,0 +1,3 @@
+##### § 23.9 Timing of Administrator's action under the Atomic Energy Act. #####
+
+Unless the Administrator otherwise explicitly provides in a particular order, the time and date of the entry of an order for purposes of 28 U.S.C. 2344 shall be at 1:00 p.m. eastern time (standard or daylight, as appropriate) on the date that is two weeks after the date when notice thereof is published in the Federal Register.

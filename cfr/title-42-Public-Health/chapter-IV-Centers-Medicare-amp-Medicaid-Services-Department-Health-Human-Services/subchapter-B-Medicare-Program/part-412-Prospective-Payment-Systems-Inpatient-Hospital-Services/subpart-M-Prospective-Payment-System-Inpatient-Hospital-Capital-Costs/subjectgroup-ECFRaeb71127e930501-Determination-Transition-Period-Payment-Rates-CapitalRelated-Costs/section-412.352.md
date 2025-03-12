@@ -1,0 +1,3 @@
+##### § 412.352 Budget neutrality adjustment. #####
+
+For FY 1992 through FY 1995, CMS will determine an adjustment to the hospital-specific rate and the Federal rate proportionately so that the estimated aggregate payments under this subpart for inpatient hospital capital costs each fiscal year will equal 90 percent of what CMS estimates would have been paid for capital-related costs on a reasonable cost basis under § 413.130 of this chapter.

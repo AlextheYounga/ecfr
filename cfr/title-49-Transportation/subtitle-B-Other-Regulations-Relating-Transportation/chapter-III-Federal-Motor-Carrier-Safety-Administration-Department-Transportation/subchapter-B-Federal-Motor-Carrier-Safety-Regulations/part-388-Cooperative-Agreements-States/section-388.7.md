@@ -1,0 +1,5 @@
+##### § 388.7 Joint administrative activities related to enforcement of safety and hazardous materials laws and regulations. #####
+
+To facilitate the interchange of information and evidence, and the conduct of joint investigation and administrative action, the Field Administrator and the appropriate State authority shall, when warranted, schedule joint conferences of staff members of both agencies. Information shall be exchanged as to the nature and extent of the authority and capabilities of the respective agencies to enforce the safety and hazardous materials laws and regulations of the State or of the United States concerning motor carrier transportation. The Federal Motor Carrier Safety Administration and the State (or appropriate State authority) shall use their best efforts to inform each other of changes in their rules and regulations and cooperate with and assist each other in conducting training schools for Federal and State enforcement officials engaged in such duties.
+
+[33 FR 19725, Dec. 25, 1968, as amended at 51 FR 12621, Apr. 14, 1986; 67 FR 61824, Oct. 2, 2002]

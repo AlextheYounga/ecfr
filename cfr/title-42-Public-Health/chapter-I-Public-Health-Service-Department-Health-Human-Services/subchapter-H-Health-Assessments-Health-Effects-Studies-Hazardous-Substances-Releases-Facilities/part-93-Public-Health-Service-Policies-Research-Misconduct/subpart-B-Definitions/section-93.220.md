@@ -1,0 +1,3 @@
+##### § 93.220 Public Health Service or PHS. #####
+
+*Public Health Service* or *PHS* means the unit within the Department of Health and Human Services that includes the Office of Public Health and Science and the following Operating Divisions: Agency for Healthcare Research and Quality, Agency for Toxic Substances and Disease Registry, Centers for Disease Control and Prevention, Food and Drug Administration, Health Resources and Services Administration, Indian Health Service, National Institutes of Health, and the Substance Abuse and Mental Health Services Administration, and the offices of the Regional Health Administrators.

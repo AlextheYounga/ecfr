@@ -1,0 +1,5 @@
+##### § 800.001 Purpose. #####
+
+The purpose of this regulation is to set forth policies and procedures for the award and administration of loans to minority business enterprises. The loans are to assist such enterprises in participating fully in research, development, demonstration and contract activities of the Department of Energy. The loans are to defray a percentage of the cost of obtaining DOE contracts and other agreements, including procurements, cooperative agreements, grants, loans and loan guarantees; of obtaining subcontracts with DOE operating contractors; and of obtaining contracts with first-tier subcontractors of DOE operating contractors in furtherance of the research, development, demonstration or other contract activities of DOE. Issuance of loans under this regulation is limited to the extent funds are provided in advance in appropriation acts. This regulation implements the authority for such loans in section 211(e) of the Department of Energy (DOE) Organization Act, Public Law 95-619, title VI, section 641, November 9, 1978, 92 Stat. 3284 (42 U.S.C.A. 7141).
+
+[48 FR 17574, Apr. 25, 1983]

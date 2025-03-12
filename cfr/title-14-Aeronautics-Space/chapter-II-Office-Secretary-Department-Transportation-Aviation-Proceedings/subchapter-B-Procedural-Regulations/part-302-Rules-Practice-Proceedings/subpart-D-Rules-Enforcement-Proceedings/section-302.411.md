@@ -1,0 +1,5 @@
+##### § 302.411 Motions to dismiss and for summary judgment. #####
+
+(a) At any time after an answer has been filed, any party may file with the DOT decisionmaker or the administrative law judge a motion to dismiss or a motion for summary judgment, including supporting affidavits. The procedure on such motions shall be in accordance with the Federal Rules of Civil Procedure (28 U.S.C.), particularly Rules 6(d), 7(b), 12, and 56, except that answers and supporting papers to a motion to dismiss or for summary judgment shall be filed within seven (7) days after service of the motion.
+
+(b) Parties may petition the DOT decisionmaker to review any action by the administrative law judge granting summary judgment or dismissing an enforcement proceeding under the procedure established for review of an initial decision in § 302.32.

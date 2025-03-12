@@ -1,0 +1,5 @@
+##### § 848.602 Deposit for military service. #####
+
+(a) A phased retiree who wishes to make a military service credit deposit under § 842.307 for military service performed prior to entering phased retirement status must complete such a deposit no later than the day before the effective date of his or her phased employment and the commencing date of the phased retirement annuity. A military service credit deposit for military service performed prior to an individual's entry into phased retirement status cannot be made after the effective date of phased employment and the commencing date of phased retirement annuity.
+
+(b) A phased retiree who wishes to make a military service credit deposit under § 842.307 for military service performed after the effective date of phased employment and the commencing date of phased retirement annuity and before the effective date of the composite retirement annuity (e.g., due to the call-up of the employee for active military service) must complete such a deposit no later than the day before the effective date of his or her composite retirement annuity.

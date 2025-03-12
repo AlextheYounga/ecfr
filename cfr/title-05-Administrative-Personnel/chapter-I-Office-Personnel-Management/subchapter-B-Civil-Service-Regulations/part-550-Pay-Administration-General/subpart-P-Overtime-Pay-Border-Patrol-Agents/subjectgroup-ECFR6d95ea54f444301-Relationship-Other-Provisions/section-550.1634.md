@@ -1,0 +1,7 @@
+##### § 550.1634 Leave and other paid time off. #####
+
+(a) An agent is subject to the rules governing leave accrual and usage under 5 U.S.C. chapter 63 on the same basis as other employees. The tour of duty for leave accrual and usage purposes is the basic workweek, which excludes regularly scheduled overtime hours within the regular tour of duty established under this subpart. The agent must be charged corresponding amounts of leave for each hour (or part thereof) the agent is absent from duty during regular time (except that full days off for military leave must be charged when required).
+
+(b) An agent is subject to the normally applicable rules governing other types of paid time off (such as holiday time off under 5 U.S.C. chapter 61, compensatory time off for religious observances under subpart J of this part, or compensatory time off for travel under subpart N of this part) on the same basis as other covered employees. The tour of duty used in applying those rules is the basic workweek, which excludes regularly scheduled overtime hours within the regular tour of duty established under this subpart. The agent must be charged corresponding amounts of paid time off for each hour (or part thereof) the agent is absent from duty during regular time.
+
+(c) In computing a lump-sum annual leave payment under 5 U.S.C. 5551-5552, an overtime supplement for an agent's regularly scheduled overtime hours within the agent's regular tour of duty is included, as provided in § 550.1205(b)(5)(iv).

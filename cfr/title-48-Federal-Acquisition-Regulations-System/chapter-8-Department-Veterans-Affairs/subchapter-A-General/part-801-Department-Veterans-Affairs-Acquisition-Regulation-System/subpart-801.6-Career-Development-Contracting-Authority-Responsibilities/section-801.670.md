@@ -1,0 +1,3 @@
+##### 801.670 Special and limited delegation. #####
+
+The authority vested in the Secretary to execute, award, and administer a contract, purchase order, or other agreement for the expenditure of funds to acquire the specific services set forth in 801.670-1 through 801.670-4 is delegated to the SPE. The SPE further delegates this authority to the DSPE and to employees appointed or designated to the positions specified in those sections.

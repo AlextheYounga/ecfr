@@ -1,0 +1,9 @@
+##### § 210.11 Availability of proceeds of noncash items; time schedule. #####
+
+(a) *Availability of credit.* A Reserve Bank shall give credit to the sender for the proceeds of a noncash item when it receives payment in actually and finally collected funds (or advice from another Reserve Bank of such payment to it). The amount of the item is counted toward the balance maintained to satisfy a reserve balance requirement for purposes of part 204 of this chapter (Regulation D) and becomes available for use by the sender when the Reserve Bank receives the payment or advice, except as provided in paragraph (b) of this section.
+
+(b) *Time schedule.* A Reserve Bank may give credit for the proceeds of a noncash item subject to payment in actually and finally collected funds in accordance with a time schedule included in its operating circulars. The time schedule shall indicate when the proceeds of the noncash item will be counted toward the balance maintained to satisfy a reserve balance requirement for purposes of part 204 of this chapter (Regulation D) and become available for use by the sender. A Reserve Bank may, however, refuse at any time to permit the use of credit given by it for a noncash item for which the Reserve Bank has not yet received payment in actually and finally collected funds.
+
+(c) *Handling of payment.* If a Reserve Bank receives, in payment for a noncash item, a bank draft of other form of payment that it elects to handle as a noncash item, the Reserve Bank shall neither count the proceeds toward the balance maintained to satisfy a reserve balance requirement for purposes of part 204 of this chapter (Regulation D) nor make the proceeds available for use until it receives payment in actually and finally collected funds.
+
+[Reg. J, 77 FR 21858, Apr. 12, 2012]

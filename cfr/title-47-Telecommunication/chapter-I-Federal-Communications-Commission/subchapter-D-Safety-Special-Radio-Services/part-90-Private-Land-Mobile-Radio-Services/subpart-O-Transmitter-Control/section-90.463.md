@@ -1,0 +1,27 @@
+##### § 90.463 Transmitter control points. #####
+
+(a) A control operator is required to be stationed at the operating position of a transmitter control point. A control operator is any person designated by the licensee to exercise supervision and control over the operation and use of the licensee's facilities. The control operator may be the licensee; or an employee of the licensee; or the agent of the licensee, appointed by the licensee to act as the control operator; or a third-party contractor, engaged by the licensee to serve as the control operator: *Provided, however,* In no case, through appointment or designation of any person to serve as control operator, may the licensee delegate any of the duties and responsibilities the licensee may have in his capacity as licensee.
+
+(b) Each station or licensed system of communication shall normally have a control point, or control points, at which the control operator or operators are stationed and at or from which the licensee may exercise supervision and control over the authorized facilities, as required by the provisions of § 90.461. *Provided, however,* Control point requirements may vary from one system to another, depending upon the nature of the radio operation; the way and by whom the facilities are employed; and other factors, as set out in other rule sections under this subpart.
+
+(c) A transmitter control point may be located at a fixed position in a system of communication at or from which the control operator exercises supervision and control over the operation and use of the licensed facilities. Each fixed transmitter control point shall have equipment and facilities to permit the control operator:
+
+(1) To determine when the transmitter or transmitters controlled are either radiating “RF” energy, or when the transmitter circuits have been placed in a condition to produce such radiation. This may be accomplished either through the use of a carrier operated device which provides a visual indication when the transmitter(s) are radiating or a pilot lamp or meter which provides a visual indication when the transmitter circuits have been placed in a condition to produce radiation. Further, where a local transmitter is used to activate a remote transmitter or transmitters in the licensee's system of communication, a single pilot lamp or meter may be employed to indicate the activation of both the local and the remote transmitter(s).
+
+(2) To turn the carrier of the transmitter on and off at will, or to close the system down completely, when circumstances warrant such action.
+
+(d) The licensee's transmitting facilities may be operated from dispatch points, the fixed control point shall have equipment to permit the control operator to either disconnect the dispatch point circuits from the transmitter(s) or to render the transmitter(s) inoperative from any dispatch point being supervised.
+
+(e) Where the system is interconnected with public communication facilities, as provided at §§ 90.477 through 90.483, and where those rules so require, the fixed control point shall be equipped to permit the control operator:
+
+(1) To monitor co-channel facilities of other licensees sharing an assigned channel or channels with the licensee in the licensee's area of operation; and,
+
+(2) To terminate any transmission(s) or communication(s) between points in the public communications system and the private communications system.
+
+(f) In urban areas, the location of fixed transmitter control points will be specified, “same as transmitter,” unless the control point is at a street address which is different from that of the transmitter(s) controlled. In rural areas, the location of fixed control points will be specified, “same as transmitter,” unless the control point is more than 152.5 m (500 ft) from the transmitter(s) controlled. In the latter case, the approximate location of the control point will be specified in distance and direction from the transmitter(s) controlled in terms of distance and geographical quadrant, respectively. It would be assumed that the location of a fixed control point is the same as the location of the transmitter(s) controlled, unless the applicant includes a request for a different location described in appropriate terms as indicated herein.
+
+(g) [Reserved]
+
+(h) Mobile transmitters shall be assumed to be under the immediate control of the mobile operator; provided, however, overall supervision and control of the operation and use of a communication system may be the responsibility of a fixed control point operator. In general, mobile transmitters shall be equipped to permit the operator to determine when they are radiating “RF” energy or when the transmitter circuits have been placed in a condition to produce such radiation. This may be accomplished either through the use of a carrier operated device or of a pilot lamp or meter which will provide a visual indication when the transmitter is radiating or has been placed in a condition to produce radiation provided, however, that hand-carried or pack-carried transmitters and transmitters installed on motorcycles need not be so equipped.
+
+[43 FR 54791, Nov. 22, 1978; 44 FR 32220, June 5, 1979; 44 FR 34134, June 14, 1979, as amended at 44 FR 67125, Nov. 23, 1979; 48 FR 29517, June 27, 1983; 54 FR 39740, Sept. 28, 1989; 58 FR 44960, Aug. 25, 1993]

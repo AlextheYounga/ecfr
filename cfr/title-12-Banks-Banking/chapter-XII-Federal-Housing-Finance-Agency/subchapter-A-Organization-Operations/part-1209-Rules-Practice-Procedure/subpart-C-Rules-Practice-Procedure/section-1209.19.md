@@ -1,0 +1,3 @@
+##### § 1209.19 Witness fees and expenses. #####
+
+Witnesses (other than parties) subpoenaed for testimony (or for a deposition in lieu of personal appearance at a hearing) shall be paid the same fees for attendance and mileage as are paid in the United States district courts in proceedings in which the United States is a party, provided that, in the case of a discovery subpoena addressed to a party, no witness fees or mileage shall be paid. Fees for witnesses shall be tendered in advance by the party requesting the subpoena, except that fees and mileage need not be tendered in advance where FHFA is the party requesting the subpoena. FHFA shall not be required to pay any fees to or expenses of any witness who was not subpoenaed by FHFA.

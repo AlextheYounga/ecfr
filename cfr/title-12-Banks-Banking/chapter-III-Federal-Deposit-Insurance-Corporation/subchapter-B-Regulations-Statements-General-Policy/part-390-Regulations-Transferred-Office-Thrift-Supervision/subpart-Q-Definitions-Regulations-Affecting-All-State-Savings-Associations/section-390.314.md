@@ -1,0 +1,3 @@
+##### § 390.314 United States Treasury General Account. #####
+
+The term *United States Treasury General Account* means an account maintained in the name of the United States Treasury the balance of which is subject to the right of immediate withdrawal, except in the case of the closure of the member, and in which a zero balance may be maintained. Such accounts are not savings accounts or savings deposits.

@@ -1,0 +1,3 @@
+##### § 1542.109 Alternate means of compliance. #####
+
+If in TSA's judgment, the overall safety and security of the airport, and aircraft operator or foreign air carrier operations are not diminished, TSA may approve a security program that provides for the use of alternate measures. Such a program may be considered only for an operator of an airport at which service by aircraft operators or foreign air carriers under part 1544 or 1546 of this chapter is determined by TSA to be seasonal or infrequent.

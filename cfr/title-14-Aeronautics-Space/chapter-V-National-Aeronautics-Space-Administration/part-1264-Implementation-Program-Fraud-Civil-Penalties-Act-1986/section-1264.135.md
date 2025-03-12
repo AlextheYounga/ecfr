@@ -1,0 +1,3 @@
+##### § 1264.135 Post-hearing briefs. #####
+
+The presiding officer may require the parties to file post-hearing briefs. In any event, upon approval of the presiding officer, any party may file a post-hearing brief. The presiding officer shall fix the time for filing such briefs, not to exceed 60 days from the date the parties receive the transcript of the hearing or, if applicable, the stipulated record. Such briefs may be accompanied by proposed findings of fact and conclusions of law. The presiding officer may permit the parties to file reply briefs, and may grant an extension of the 60-day time period or other time for good cause shown.

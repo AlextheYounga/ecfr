@@ -1,0 +1,7 @@
+##### § 950.501 Release of contributor information. #####
+
+(a) The pledge form, designed pursuant to § 950.402, must allow a contributor to indicate if the contributor will allow his or her name, contribution amount, and home contact information to be forwarded to the charitable organization or organizations designated.
+
+(b) The pledge form shall permit a contributor to specify which information, if any, he or she wishes released to organizations receiving his or her donations.
+
+(c) It is the responsibility of the CCA to forward the contributor information for those who have indicated that they wish this information to be released to the recipient organization directly, if the organization is independent, and to the organization's federation if the organization is a member of a federation. The contributor information must be forwarded as soon as practicable after the completion of the campaign, but in no case later than a date to be determined by OPM. The date will be part of the annual timetable issued by the Director under § 950.601(b). The federation is responsible for ensuring the information is released to the appropriate member organization. The CCA may not sell or make any other use of this information. Federations may not retain donor information for their own use unless the donor made a direct designation to the federation itself. This policy also prohibits the sharing of donor information, even free of charge.

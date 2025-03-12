@@ -1,0 +1,3 @@
+##### § 881.8 Withholding of payments. #####
+
+Whenever the Secretary, after reasonable notice and opportunity for hearing, finds that there is a failure by the State to expend funds in accordance with the terms and conditions governing the Government's contribution for an approved project, he shall notify the State that further payments will not be made to the State from available appropriations until he is satisfied that there will no longer be any such failure. Until the Secretary is so satisfied, payment of any financial contribution to the State shall be withheld.

@@ -1,0 +1,5 @@
+##### § 1.8003 Providing the FRN in Commission filings. #####
+
+The FRN must be provided with any filings requiring the payment of statutory charges under subpart G of this part, anyone applying for a license (whether or not a fee is required), including someone who is exempt from paying statutory charges under subpart G of this part, anyone participating in a spectrum auction, making up-front payments or deposits in a spectrum auction, anyone making a payment on an auction loan, anyone making a contribution to the Universal Service Fund, any applicant or service provider participating in the Schools and Libraries Universal Service Support Program, and anyone paying a forfeiture or other payment. A list of applications and other instances where the FRN is required will be posted on our Internet site and linked to the CORES page.
+
+[69 FR 55109, Sept. 13, 2004]

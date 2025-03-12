@@ -1,0 +1,7 @@
+##### § 710.4 Transaction of business during liquidation. #####
+
+(a) Immediately upon decision by the board of directors to present the question of liquidation to the members, payments on shares, withdrawal of shares (except for transfer of shares to loans and interest), transfer of shares to another share account, granting of loans, and making of investments other than short-term investments shall be suspended pending action by the members on the proposal to liquidate. Collection of loans and interest, payment of necessary expenses, clearing of share drafts and credit card charges will continue.
+
+(b) Upon approval of the members, payments on shares, withdrawal of shares (except for transfer of shares to loans and interest), transfer of shares to another share account, granting of loans, and making of investments other than short-term investments shall be discontinued permanently. Collection of loans and interest and payment of necessary expenses will continue during the period of liquidation. Members will be notified to discontinue the use of share drafts and credit cards, and items will not be cleared 15 days from the liquidation date.
+
+(c) Approval of the Regional Director must be obtained prior to consummating any sale of assets which would not provide sufficient funds to pay shareholders at par.

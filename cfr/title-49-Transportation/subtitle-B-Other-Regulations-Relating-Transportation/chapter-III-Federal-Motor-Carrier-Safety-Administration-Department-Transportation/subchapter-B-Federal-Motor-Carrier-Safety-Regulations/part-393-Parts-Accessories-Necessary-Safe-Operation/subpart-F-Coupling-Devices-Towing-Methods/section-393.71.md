@@ -1,0 +1,200 @@
+##### § 393.71 Coupling devices and towing methods, driveaway-towaway operations. #####
+
+(a) *Number in combination.* (1) No more than three saddle-mounts may be used in any combination.
+
+(2) No more than one tow-bar or ball-and-socket type coupling device may be used in any combination.
+
+(3) When motor vehicles are towed by means of triple saddle-mounts, all but the final towed vehicle must have brakes acting on all wheels in contact with the roadway.
+
+(b) *Carrying vehicles on towing vehicle.* (1) When adequately and securely attached by means equivalent in security to that provided in paragraph (j)(2) of this section, a motor vehicle or motor vehicles may be full-mounted on the structure of a towing vehicle engaged in any driveaway-towaway operation.
+
+(2) No motor vehicle or motor vehicles may be full-mounted on a towing vehicle unless the relationship of such full-mounted vehicles to the rear axle or axles results in proper distribution of the total gross weight of the vehicles and does not unduly interfere with the steering, braking, or maneuvering of the towing vehicle, or otherwise contribute to the unsafe operation of the vehicles comprising the combination.
+
+(3) Saddle-mounted vehicles must be arranged such that the gross weight of the vehicles is properly distributed to prevent undue interference with the steering, braking, or maneuvering of the combination of vehicles.
+
+(c) *Carrying vehicles on towed vehicles.* (1) When adequately and securely attached by means equivalent in security to that provided in paragraph (j)(2) of this section, a motor vehicle or motor vehicles may be full-mounted on the structure of towed vehicles engaged in any driveaway-towaway operation.
+
+(2) No motor vehicle shall be full-mounted on a motor vehicle towed by means of a tow-bar unless the towed vehicle is equipped with brakes and is provided with means for effective application of brakes acting on all wheels and is towed on its own wheels.
+
+(3) No motor vehicle or motor vehicles shall be full-mounted on a motor vehicle towed by means of a saddle-mount unless the center line of the kingpin or equivalent means of attachment of such towed vehicle shall be so located on the towing vehicle that the relationship to the rear axle or axles results in proper distribution of the total gross weight of the vehicles and does not unduly interfere with the steering, braking, or maneuvering of the towing vehicle or otherwise contribute to the unsafe operation of vehicles comprising the combination; and unless a perpendicular to the ground from the center of gravity of the full-mounted vehicles lies forward of the center line of the rear axle of the saddle-mounted vehicle.
+
+(4) If a motor vehicle towed by means of a saddle-mount has any vehicle full-mounted on it, the saddle-mounted vehicle must at all times while so loaded have effective brakes acting on all wheels in contact with the roadway.
+
+(d) *Bumper tow-bars on heavy vehicles prohibited.* Tow-bars of the type which depend upon the bumpers as a means of transmitting forces between the vehicles shall not be used to tow a motor vehicle weighing more than 5,000 pounds.
+
+(e) *Front wheels of saddle-mounted vehicles restrained.* A motor vehicle towed by means of a saddle-mount shall have the motion of the front wheels restrained if under any condition of turning of such wheels they will project beyond the widest part of either the towed or towing vehicle.
+
+(f) *Vehicles to be towed in forward position.* Unless the steering mechanism is adequately locked in a straight-forward position, all motor vehicles towed by means of a saddle-mount shall be towed with the front end mounted on the towing vehicle.
+
+(g) *Means required for towing.* No motor vehicles or combination of motor vehicles shall be towed in driveaway-towaway operations by means other than a tow-bar, ball-and-socket type coupling device, saddle-mount connections which meet the requirements of this section, or in the case of a semi-trailer equipped with an upper coupler assembly, a fifth-wheel meeting the requirements of § 393.70.
+
+(h) *Requirements for tow-bars.* Tow-bars shall comply with the following requirements:
+
+(1) *Tow-bars, structural adequacy and mounting.* Every tow-bar shall be structurally adequate and properly installed and maintained. To insure that it is structurally adequate, it must, at least, meet the requirements of the following table:
+
+|Gross weight of towed vehicle (pounds)<sup>1</sup>|     Longitudinal strength in tension and compression<sup>2</sup>     |                                                                               |              |
+|--------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------|
+|                   All tow-bars                   |New tow-bars acquired and used by a motor carrier after Sept. 30, 1948|Strength as a beam (in any direction concentrated load at center)<sup>2 3</sup>|              |
+|                      Pounds                      |                                                                      |                                                                               |              |
+|                 Less than 5,000                  |                                3,000                                 |                                     6,500                                     |    3,000     |
+|                  5,000 and over                  |                                                                      |                                                                               |              |
+|                 Less than 10,000                 |                                6,000                                 |                                (<sup>1</sup>)                                 |(<sup>1</sup>)|
+|                 10,000 and over                  |                                                                      |                                                                               |              |
+|                 Less than 15,000                 |                                9,000                                 |                                (<sup>1</sup>)                                 |(<sup>1</sup>)|
+
+<sup>1</sup> The required strength of tow-bars for towed vehicles of 15,000 pounds and over gross weight and of new tow-bars acquired and used after Sept. 30, 1948, for towed vehicles of 5,000 pounds and over gross weight shall be computed by means of the following formulae: Longitudinal strength = gross weight of towed vehicle × 1.3. Strength as a beam = gross weight of towed vehicle × 0.6.
+
+<sup>2</sup> In testing, the whole unit shall be tested with all clamps, joints, and pins so mounted and fastened as to approximate conditions of actual operation.
+
+<sup>3</sup> This test shall be applicable only to tow-bars which are, in normal operation, subjected to a bending movement such as tow-bars for house trailers.
+
+(2) *Tow-bars, jointed.* The tow-bar shall be so constructed as to freely permit motion in both horizontal and vertical planes between the towed and towing vehicles. The means used to provide the motion shall be such as to prohibit the transmission of stresses under normal operation between the towed and towing vehicles, except along the longitudinal axis of the tongue or tongues.
+
+(3) *Tow-bar fastenings.* The means used to transmit the stresses to the chassis or frames of the towed and towing vehicles may be either temporary structures or bumpers or other integral parts of the vehicles: *Provided, however,* That the means used shall be so constructed, installed, and maintained that when tested as an assembly, failure in such members shall not occur when the weakest new tow-bar which is permissible under paragraph (h)(1) of this section is subjected to the tests given therein.
+
+(4) *Means of adjusting length.* On tow-bars, adjustable as to length, the means used to make such adjustment shall fit tightly and not result in any slackness or permit the tow-bar to bend. With the tow-bar supported rigidly at both ends and with a load of 50 pounds at the center, the sag, measured at the center, in any direction shall not exceed 0.25 inch under any condition of adjustment as to length.
+
+(5) *Method of clamping.* Adequate means shall be provided for securely fastening the tow-bar to the towed and towing vehicles.
+
+(6) *Tow-bar connection to steering mechanism.* The tow-bar shall be provided with suitable means of attachment to and actuation of the steering mechanism, if any, of the towed vehicle. The attachment shall provide for sufficient angularity of movement of the front wheels of the towed vehicle so that it may follow substantially in the path of the towing vehicle without cramping the tow-bar. The tow-bar shall be provided with suitable joints to permit such movement.
+
+(7) *Tracking.* The tow-bar shall be so designed, constructed, maintained, and mounted as to cause the towed vehicle to follow substantially in the path of the towing vehicle. Tow-bars of such design or in such condition as to permit the towed vehicle to deviate more than 3 inches to either side of the path of a towing vehicle moving in a straight line as measured from the center of the towing vehicle are prohibited.
+
+(8) *Passenger car-trailer type couplings.* Trailer couplings used for driveaway-towaway operations of passenger car trailers shall conform to Society of Automotive Engineers Standard No. J684c, “Trailer Couplings and Hitches - Automotive Type,” July 1970.1
+
+1 See footnote 1 to § 393.24(c).
+
+(9) *Marking tow-bars.* Every tow-bar acquired and used in driveaway-towaway operations by a motor carrier shall be plainly marked with the following certification of the manufacturer thereof (or words of equivalent meaning):
+
+This tow-bar complies with the requirements of the Federal Motor Carrier Safety Administration for (maximum gross weight for which tow-bar is manufactured) vehicles.
+
+Allowable Maximum Gross WeightManufactured (month and year)by (name of manufacturer)Tow-bar certification manufactured before the effective date of this regulation must meet requirements in effect at the time of manufacture.
+
+(10) *Safety devices in case of tow-bar failure or disconnection.* (i) The towed vehicle shall be connected to the towing vehicle by a safety device to prevent the towed vehicle from breaking loose in the event the tow-bar fails or becomes disconnected. When safety chains or cables are used as the safety device for that vehicle, at least two safety chains or cables meeting the requirements of paragraph (h)(10)(ii) of this section shall be used. The tensile strength of the safety device and the means of attachment to the vehicles shall be at least equivalent to the corresponding longitudinal strength for tow-bars required in the table of paragraph (h)(1) of this section. If safety chains or cables are used as the safety device, the required strength shall be the combined strength of the combination of chains and cables.
+
+(ii) If chains or cables are used as the safety device, they shall be crossed and attached to the vehicles near the points of bumper attachments to the chassis of the vehicles. The length of chain used shall be no more than necessary to permit free turning of the vehicles. The chains shall be attached to the tow-bar at the point of crossing or as close to that point as is practicable.
+
+(iii) A safety device other than safety chains or cables must provide strength, security of attachment, and directional stability equal to, or greater than, that provided by safety chains or cables installed in accordance with paragraph (h)(10)(ii) of this section. A safety device other than safety chains or cables must be designed, constructed, and installed so that, if the tow-bar fails or becomes disconnected, the tow-bar will not drop to the ground.
+
+(i) [Reserved]
+
+(j) *Requirements for upper-half of saddle-mounts.* The upper-half of any saddle-mount shall comply with the following requirements:
+
+(1) *Upper-half connection to towed vehicle.* The upper-half shall be securely attached to the frame or axle of the towed vehicle by means of U-bolts or other means providing at least equivalent security.
+
+(2) U-*bolts or other attachments.* U-bolts used to attach the upper half to the towed vehicle shall be made of steel rod, free of defects, so shaped as to avoid at any point a radius of less than 1 inch: *Provided, however,* That a lesser radius may be utilized if the U-bolt is so fabricated as not to cause more than 5 percent reduction in cross-sectional area at points of curvature, in which latter event the minimum radius shall be one-sixteenth inch. U-bolts shall have a diameter not less than required by the following table:
+
+Diameter of U-Bolts in Inches
+
+|Weight in pounds of heaviest towed vehicle|Double or triple saddle-mount|          |                               |      |
+|------------------------------------------|-----------------------------|----------|-------------------------------|------|
+|               Front mount                |    Middle or front mount    |Rear mount|Single saddle-mount<sup>1</sup>|      |
+|               Up to 5,000                |            0.625            |  0.5625  |             0.500             |0.500 |
+|              5,000 and over              |           0.6875            |  0.625   |            0.5625             |0.5625|
+
+<sup>1</sup> The total weight of all the vehicles being towed shall govern. If other devices are used to accomplish the same purposes as U-bolts they shall have at least equivalent strength of U-bolts made of mild steel. Cast iron shall not be used for clamps or any other holding devices.
+
+(3) U-*bolts and points of support, location.* The distance between the most widely separated U-bolts shall not be less than 9 inches. The distance between the widely separated points where the upper-half supports the towed vehicle shall not be less than 9 inches, except that saddle-mounts employing ball and socket joints shall employ a device which clamps the axle of the towed vehicle throughout a length of not less than 5 inches.
+
+(4) *Cradle-type upper-halves, specifications.* Upper-halves of the cradle-type using vertical members to restrain the towed vehicle from relative movement in the direction of motion of the vehicles shall be substantially constructed and adequate for the purpose. Such cradle-mounts shall be equipped with at least one bolt or equivalent means to provide against relative vertical movement between the upper-half and the towed vehicle. Bolts, if used, shall be at least one-half inch in diameter. Devices using equivalent means shall have at least equivalent strength. The means used to provide against relative vertical motion between the upper-half and the towed vehicle shall be such as not to permit a relative motion of over one-half inch. The distance between the most widely separated points of support between the upper-half and the towed vehicle shall be at least 9 inches.
+
+(5) *Lateral movement of towed vehicle.* (i) Towed vehicles having a straight axle or an axle having a drop of less than 3 inches, unless the saddle-mount is constructed in accordance with paragraph (m)(2) of this section, shall be securely fastened by means of chains or cables to the upper-half so as to insure against relative lateral motion between the towed vehicle and the upper-half. The chains or cables shall be at least3/16-inch diameter and secured by bolts of at least equal diameter.
+
+(ii) Towed vehicles with an axle with a drop of 3 inches or more, or connected by a saddle-mount constructed in accordance with paragraph (m)(2) of this section, need not be restrained by chains or cables provided that the upper-half is so designed as to provide against such relative motion.
+
+(iii) Chains or cables shall not be required if the upper-half is so designed as positively to provide against lateral movement of the axle.
+
+(k) *Requirements for lower half of saddle-mounts.* The lower half of any saddle-mount shall comply with the following requirements:
+
+(1) U-*bolts or other attachments.* U-bolts used to attach the lower half to the towing vehicle shall be made of steel rod, free of defects, so shaped as to avoid at any point a radius of less than 1 inch: *Provided, however,* That a lesser radius may be utilized if the U-bolt is so fabricated as not to cause more than 5 percent reduction in cross-sectional area at points of curvature, in which latter event the minimum radius shall be one-sixteenth inch. U-bolts shall have a total cross-sectional area not less than as required by the following table:
+
+Total Cross-Sectional Area of U-Bolts in Square Inches
+
+|Weight in pounds of heaviest towed vehicle|Double or triple saddle-mount|          |                               |   |
+|------------------------------------------|-----------------------------|----------|-------------------------------|---|
+|               Front mount                |    Middle or front mount    |Rear mount|Single saddle-mount<sup>1</sup>|   |
+|               Up to 5,000                |             1.2             |   1.0    |              0.8              |0.8|
+|              5,000 and over              |             1.4             |   1.2    |              1.0              |1.0|
+
+<sup>1</sup> The total weight of all the vehicles being towed shall govern. If other devices are used to accomplish the same purposes as U-bolts they shall have at least equivalent strength of U-bolts made of mild steel. Cast iron shall not be used for clamps or any other holding devices.
+
+(2) *Shifting.* Adequate provision shall be made by design and installation to provide against relative movement between the lower-half and the towing vehicle especially during periods of rapid acceleration and deceleration. To insure against shifting, designs of the tripod type shall be equipped with adequate and securely fastened hold-back chains or similar devices.
+
+(3) *Swaying.* (i) Adequate provision shall be made by design and installation to provide against swaying or lateral movement of the towed vehicle relative to the towing vehicle. To insure against swaying, lower-halves designed with cross-members attached to but separable from vertical members shall have such cross-members fastened to the vertical members by at least two bolts on each side. Such bolts shall be of at least equivalent cross-sectional area as those required for U-bolts for the corresponding saddle-mount as given in the table in paragraph (k)(1) of this section. The minimum distance between the most widely separated points of support of the cross-member by the vertical member shall be three inches as measured in a direction parallel to the longitudinal axis of the towing vehicle.
+
+(ii) The lower-half shall have a bearing surface on the frame of the towing vehicle of such dimensions that the pressure exerted by the lower-half upon the frame of the towing vehicle shall not exceed 200 pounds per square inch under any conditions of static loading. Hardwood blocks or blocks of other suitable material, such as hard rubber, aluminum or brakelining, if used between the lower half and the frame of the towing vehicle shall be at least1/2 inch thick, 3 inches wide, and a combined length of 6 inches.
+
+(iii) Under no condition shall the highest point of support of the towed vehicle by the upper-half be more than 24 inches, measured vertically, above the top of the frame of the towing vehicle, measured at the point where the lower-half rests on the towing vehicle.
+
+(4) *Wood blocks.* (i) Hardwood blocks of good quality may be used to build up the height of the front end of the towed vehicle, provided that the total height of such wood blocks shall not exceed 8 inches and not over two separate pieces are placed upon each other to obtain such height; however, hardwood blocks, not over 4 in number, to a total height not to exceed 14 inches, may be used if the total cross-sectional area of the U-bolts used to attach the lower-half of the towing vehicle is at least 50 percent greater than that required by the table contained in paragraph (k)(1) of this section, or, if other devices are used in lieu of U-bolts, they shall provide for as great a resistance to bending as is provided by the larger U-bolts above prescribed.
+
+(ii) Hardwood blocks must be at least 4 inches in width and the surfaces between blocks or block and lower-half or block and upper-half shall be planed and so installed and maintained as to minimize any tendency of the towed vehicle to sway or rock.
+
+(5) *Cross-member, general requirements.* The cross-member, which is that part of the lower-half used to distribute the weight of the towed vehicle equally to each member of the frame of the towing vehicle, if used, shall be structurally adequate and properly installed and maintained adequately to perform this function.
+
+(6) *Cross-member, use of wood.* No materials, other than suitable metals, shall be used as the cross-member, and wood may not be used structurally in any manner that will result in its being subject to tensile stresses. Wood may be used in cross-members if supported throughout its length by suitable metal cross-members.
+
+(7) *Lower half strength.* The lower half shall be capable of supporting the loads given in the following table. For the purpose of test, the saddle-mount shall be mounted as normally operated and the load applied through the upper half:
+
+Minimum Test Load in Pounds
+
+|Weight in pounds of heaviest towed vehicle|Double or triple saddle-mount|          |                               |      |
+|------------------------------------------|-----------------------------|----------|-------------------------------|------|
+|               Front mount                |    Middle or front mount    |Rear mount|Single saddle-mount<sup>1</sup>|      |
+|               Up to 5,000                |           15,000            |  10,000  |             5,000             |5,000 |
+|              5,000 and over              |           30,000            |  20,000  |            10,000             |10,000|
+
+<sup>1</sup> The total weight of all the vehicles being towed shall govern.
+
+(l) *Requirements for kingpins of saddle-mounts.* The kingpin of any saddle-mount shall comply with the following requirements:
+
+(1) *Kingpin size.* (i) Kingpins shall be constructed of steel suitable for the purpose, free of defects, and having a diameter not less than required by the following table:
+
+Diameter of Solid Kingpin in Inches
+
+|Weight in pounds of heaviest towed vehicle|Double or triple saddle-mount|          |                               |          |                  |          |      |     |
+|------------------------------------------|-----------------------------|----------|-------------------------------|----------|------------------|----------|------|-----|
+|               Front mount                |    Middle or front mount    |Rear mount|Single saddle-mount<sup>1</sup>|          |                  |          |      |     |
+|                Mild steel                |     H.T.S.<sup>2</sup>      |Mild steel|      H.T.S.<sup>2</sup>       |Mild steel|H.T.S.<sup>2</sup>|Mild steel|H.T.S.|     |
+|               Up to 5,000                |            1.125            |  1.000   |             1.000             |  0.875   |      0.875       |  0.750   |0.875 |0.750|
+|              5,000 and over              |            1.500            |  1.125   |             1.250             |  1.000   |      1.000       |  0.875   |1.000 |0.875|
+
+<sup>1</sup> The total weight of all the vehicles being towed shall govern.
+
+<sup>2</sup> High-tensile steel is steel having a minimum ultimate strength of 65,000 pounds per square inch.
+
+(ii) If a ball and socket joint is used in place of a kingpin, the diameter of the neck of the ball shall be at least equal to the diameter of the corresponding solid kingpin given in the above table. If hollow kingpins are used, the metallic cross-sectional area shall be at least equal to the cross-sectional area of the corresponding solid kingpin.
+
+(2) *Kingpin fit.* If a kingpin bushing is not used, the king-pin shall fit snugly into the upper and lower-halves but shall not bind. Those portions of the upper or lower-halves in moving contact with the kingpin shall be smoothly machined with no rough or sharp edges. The bearing surface thus provided shall not be less in depth than the radius of the kingpin.
+
+(3) *Kingpin bushing on saddle-mounts.* The kingpin of all new saddle-mounts acquired and used shall be snugly enclosed in a bushing at least along such length of the kingpin as may be in moving contact with either the upper or lower-halves. The bearing surface thus provided shall not be less in depth than the radius of the kingpin.
+
+(4) *Kingpin to restrain vertical motion.* The kingpin shall be so designed and installed as to restrain the upper-half from moving in a vertical direction relative to the lower-half.
+
+(m) *Additional requirements for saddle-mounts.* Saddle-mounts shall comply with the following requirements:
+
+(1) *Bearing surface between upper and lower-halves.* The upper and lower-halves shall be so constructed and connected that the bearing surface between the two halves shall not be less than 16 square inches under any conditions of angularity between the towing and towed vehicles: *Provided, however,* That saddle-mounts using a ball and socket joint shall have a ball of such dimension that the static bearing load shall not exceed 800 pounds per square inch, based on the projected cross-sectional area of the ball: *And further provided,* That saddle-mounts having the upper-half supported by ball, taper, or roller-bearings shall not have such bearings loaded beyond the limits prescribed for such bearings by the manufacturer thereof. The upper-half shall rest evenly and smoothly upon the lower-half and the contact surfaces shall be lubricated and maintained so that there shall be a minimum of frictional resistance between the parts.
+
+(2) *Saddle-mounts, angularity.* All saddle-mounts acquired and used shall provide for angularity between the towing and towed vehicles due to vertical curvatures of the highway. Such means shall not depend upon either the looseness or deformation of the parts of either the saddle-mount or the vehicles to provide for such angularity.
+
+(3) *Tracking.* The saddle-mount shall be so designed, constructed, maintained, and installed that the towed vehicle or vehicles will follow substantially in the path of the towing vehicle without swerving. Towed vehicles shall not deviate more than 3 inches to either side of the path of the towing vehicle when moving in a straight line.
+
+(4) *Prevention of frame bending.* Where necessary, provision shall be made to prevent the bending of the frame of the towing vehicle by insertion of suitable blocks inside the frame channel to prevent kinking. The saddle-mount shall not be so located as to cause deformation of the frame by reason of cantilever action.
+
+(5) *Extension of frame.* No saddle-mount shall be located at a point to the rear of the frame of a towing vehicle.
+
+(6) *Nuts, secured.* All nuts used on bolts, U-bolts, king-pins, or in any other part of the saddle-mount shall be secured against accidental disconnection by means of cotter-keys, lock-washers, double nuts, safety nuts, or equivalent means. Parts shall be so designed and installed that nuts shall be fully engaged.
+
+(7) *Inspection of all parts.* The saddle-mount shall be so designed that it may be disassembled and each separate part inspected for worn, bent, cracked, broken, or missing parts.
+
+(8) *Saddle-mounts, marking.* Every new saddle-mount acquired and used in driveaway-towaway operations by a motor carrier shall have the upper-half and the lower-half separately marked with the following certification of the manufacturer thereof (or words of equivalent meaning).
+
+This saddle-mount complies with the requirements of the Federal Motor Carrier Safety Administration for vehicles up to 5,000 pounds (or over 5,000 pounds):
+
+Manufactured(Month and year)by(Name of manufacturer)
+
+(n) *Requirements for devices used to connect motor vehicles or parts of motor vehicles together to form one vehicle* - (1) *Front axle attachment.* The front axle of one motor vehicle intended to be coupled with another vehicle or parts of motor vehicles together to form one vehicle shall be attached with U-bolts meeting the requirements of paragraph (j)(2) of this section.
+
+(2) *Rear axle attachment.* The rear axle of one vehicle shall be coupled to the frame of the other vehicle by means of a connecting device which when in place forms a rectangle. The device shall be composed of two pieces, top and bottom. The device shall be made of 4-inch by1/2-inch steel bar bent to shape and shall have the corners reinforced with a plate at least 3 inches by1/2 inch by 8 inches long. The device shall be bolted together with3/4-inch bolts and at least three shall be used on each side. Wood may be used as spacers to keep the frames apart and it shall be at least 4 inches square.
+
+[33 FR 19735, Dec. 25, 1968, as amended at 35 FR 10907, July 7, 1970; 37 FR 21440, Oct. 11, 1972; 53 FR 49400, Dec. 7, 1988; 70 FR 48054, Aug. 15, 2005; 76 FR 56322, Sept. 13, 2011; 78 FR 58484, Sept. 24, 2013; 80 FR 59075, Oct. 1, 2015]

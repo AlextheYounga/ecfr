@@ -1,0 +1,3 @@
+##### 311.7300 Policy. #####
+
+In accordance with the Paperwork Reduction Act (PRA), contractors shall not proceed with collecting information from surveys, questionnaires, or interviews until the COR obtains an Office of Management and Budget clearance and the contracting officer issues written approval to proceed. For any contract involving a requirement to collect or record information calling either for answers to identical questions from 10 or more persons other than Federal employees, or information from Federal employees which is outside the scope of their employment, for use by the Federal Government or disclosure to third parties, the contracting officer must comply with the PRA of 1995 (44 U.S.C. 3501 *et seq.*).

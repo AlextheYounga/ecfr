@@ -1,0 +1,3 @@
+##### § 35.10 Destruction of effects dangerous to health. #####
+
+The officer in charge shall cause to be destroyed effects brought into or received in the station or hospital area by patients which, in the judgement of such officer, are dangerous as a source of disease to the health or life of patients or personnel of the station or hospital or visitors therein and cannot otherwise be safely disposed of or rendered harmless by disinfection or other means. The destruction of effects shall be witnessed by at least one officer or employee designated for that purpose by the officer in charge, and appropriate records of the destruction shall be maintained.

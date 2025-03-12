@@ -1,0 +1,5 @@
+##### § 280.72 Assessing the site at closure or change-in-service. #####
+
+(a) Before permanent closure or a change-in-service is completed, owners and operators must measure for the presence of a release where contamination is most likely to be present at the UST site. In selecting sample types, sample locations, and measurement methods, owners and operators must consider the method of closure, the nature of the stored substance, the type of backfill, the depth to groundwater, and other factors appropriate for identifying the presence of a release. The requirements of this section are satisfied if one of the external release detection methods allowed in § 280.43(e) and (f) is operating in accordance with the requirements in § 280.43 at the time of closure, and indicates no release has occurred.
+
+(b) If contaminated soils, contaminated groundwater, or free product as a liquid or vapor is discovered under paragraph (a) of this section, or by any other manner, owners and operators must begin corrective action in accordance with subpart F of this part.

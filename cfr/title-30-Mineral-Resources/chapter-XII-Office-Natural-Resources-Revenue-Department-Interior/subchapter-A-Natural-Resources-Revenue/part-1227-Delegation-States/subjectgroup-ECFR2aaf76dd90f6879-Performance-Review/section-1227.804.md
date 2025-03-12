@@ -1,0 +1,3 @@
+##### § 1227.804 How else may a State's delegation agreement terminate? #####
+
+You may request ONRR to terminate your delegation at any time by submitting your written notice of intent 6 months prior to the date on which you want to terminate. ONRR will determine the date your agreement is terminated and will notify you of that date in writing. ONRR will determine the termination date based on the number of delegated functions and the impact of the termination on all affected parties.

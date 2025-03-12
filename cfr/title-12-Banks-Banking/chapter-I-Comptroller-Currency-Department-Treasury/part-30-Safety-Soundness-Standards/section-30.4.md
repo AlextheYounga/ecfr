@@ -1,0 +1,17 @@
+##### § 30.4 Filing of safety and soundness compliance plan. #####
+
+(a) *Schedule for filing compliance plan*—(1) *In general.* A national bank or Federal savings association shall file a written safety and soundness compliance plan with the OCC within 30 days of receiving a request for a compliance plan pursuant to § 30.3(b) unless the OCC notifies the bank or savings association in writing that the plan is to be filed within a different period.
+
+(2) *Other plans.* If a national bank or Federal savings association is obligated to file, or is currently operating under, a capital restoration plan submitted pursuant to section 38 of the FDI Act (12 U.S.C. 1831o), a cease-and-desist order entered into pursuant to section 8 of the FDI Act (12 U.S.C. 1818(b)), a formal or informal agreement, or a response to a report of examination or report of inspection, it may, with the permission of the OCC, submit a compliance plan under this section as part of that plan, order, agreement, or response, subject to the deadline provided in paragraph (a) of this section.
+
+(b) *Contents of plan.* The compliance plan shall include a description of the steps the national bank or Federal savings association will take to correct the deficiency and the time within which those steps will be taken.
+
+(c) *Review of safety and soundness compliance plans.* Within 30 days after receiving a safety and soundness compliance plan under this part, the OCC shall provide written notice to the national bank or Federal savings association of whether the plan has been approved or seek additional information from the bank or savings association regarding the plan. The OCC may extend the time within which notice regarding approval of a plan will be provided.
+
+(d) *Failure to submit or implement a compliance plan*—(1) *Supervisory actions.* If a national bank or Federal savings association fails to submit an acceptable plan within the time specified by the OCC or fails in any material respect to implement a compliance plan, then the OCC shall, by order, require the bank or savings association to correct the deficiency and may take further actions provided in section 39(e)(2)(B). Pursuant to section 39(e)(3), the OCC may be required to take certain actions if the national bank or Federal savings association commenced operations or experienced a change in control within the previous 24-month period, or the bank or savings association experienced extraordinary growth during the previous 18-month period.
+
+(2) *Extraordinary growth.* For purposes of paragraph (d)(1) of this section, extraordinary growth means an increase in assets of more than 7.5 percent during any quarter within the 18-month period preceding the issuance of a request for submission of a compliance plan, by a national bank or Federal savings association that is not well capitalized for purposes of section 38 of the FDI Act. For purposes of calculating an increase in assets, assets acquired through merger or acquisition approved pursuant to the Bank Merger Act (12 U.S.C. 1828(c)) will be excluded.
+
+(e) *Amendment of compliance plan.* A national bank or Federal savings association that has filed an approved compliance plan may, after prior written notice to and approval by the OCC, amend the plan to reflect a change in circumstance. Until such time as a proposed amendment has been approved, the bank or savings association shall implement the compliance plan as previously approved.
+
+[60 FR 35680, July 10, 1995, as amended at 79 FR 54543, Sept. 11, 2014]

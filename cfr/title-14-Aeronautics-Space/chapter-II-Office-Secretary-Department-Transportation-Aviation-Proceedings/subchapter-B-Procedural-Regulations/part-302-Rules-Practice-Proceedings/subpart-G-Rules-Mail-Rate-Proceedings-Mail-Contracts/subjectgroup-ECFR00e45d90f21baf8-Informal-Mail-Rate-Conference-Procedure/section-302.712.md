@@ -1,0 +1,3 @@
+##### § 302.712 Information to be requested from an air carrier. #####
+
+When an air carrier is requested to submit detailed estimates as to traffic, revenues and expenses by appropriate periods and the investment that will be required to perform the operations for a future period, full and adequate support shall be presented for all estimates, particularly where such estimates deviate materially from the air carrier's experience. With respect to the rate for a past period, essentially the same procedure shall be followed. Other information or data likewise may be requested by the DOT employees. All data submitted by the air carrier shall be certified by a responsible officer.

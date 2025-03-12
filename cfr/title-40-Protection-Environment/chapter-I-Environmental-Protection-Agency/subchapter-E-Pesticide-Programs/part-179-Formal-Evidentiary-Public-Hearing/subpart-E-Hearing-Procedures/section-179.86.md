@@ -1,0 +1,3 @@
+##### § 179.86 Time and place of preliminary conference. #####
+
+A preliminary conference will commence at the date, time, and place announced in the Notice of Hearing, or as otherwise specified by the Administrator or presiding officer in a subsequent notice. The preliminary conference may not commence until after expiration of the time for filing notices of participation under § 179.42. The presiding officer may specify that two or more such conferences shall be held.

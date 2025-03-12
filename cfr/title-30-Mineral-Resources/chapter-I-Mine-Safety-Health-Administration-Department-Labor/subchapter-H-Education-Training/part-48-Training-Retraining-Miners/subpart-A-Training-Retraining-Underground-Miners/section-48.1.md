@@ -1,0 +1,3 @@
+##### § 48.1 Scope. #####
+
+The provisions of this subpart A set forth the mandatory requirements for submitting and obtaining approval of programs for training and retraining miners working in underground mines. Requirements regarding compensation for training and retraining are also included. The requirements for training and retraining miners working at surface mines and surface areas of underground mines are set forth in subpart B of this part.

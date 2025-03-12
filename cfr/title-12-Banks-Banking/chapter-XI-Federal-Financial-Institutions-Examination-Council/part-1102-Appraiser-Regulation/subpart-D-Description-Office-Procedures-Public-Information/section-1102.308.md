@@ -1,0 +1,5 @@
+##### § 1102.308 Right to petition for issuance, amendment and repeal of rules of general application. #####
+
+Any person desiring the issuance, amendment or repeal of a rule of general application may file a petition for those purposes with the Executive Director of the ASC. The petition shall include a statement setting forth the text or substance of any proposed rule or amendment desired or shall specify the rule for which repeal is desired. The petitioner also shall state the nature of his or her interest and the reasons for seeking ASC action. The Executive Director shall acknowledge receipt of the petition within ten business days of receipt. As soon as reasonably practicable, the ASC shall consider the petition and related staff recommendations and shall take such action as it deems appropriate. The Executive Director shall notify the petitioner in writing of the ASC action within ten business days of the action.
+
+[59 FR 1902, Jan. 13, 1994. Redesignated at 64 FR 72497, Dec. 28, 1999]

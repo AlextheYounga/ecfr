@@ -1,0 +1,3 @@
+##### § 405.353 Certification of amount that will be adjusted against individual title II or railroad retirement benefits. #####
+
+As soon as practicable after any adjustment is determined to be necessary, the Secretary, for purposes of this subpart, shall certify the amount of the overpayment or payment (see § 405.350) with respect to which the adjustment is to be made. If the adjustment is to be made by decreasing subsequent payments under the Railroad Retirement Act of 1937, such certification shall be made to the Railroad Retirement Board.

@@ -1,0 +1,3 @@
+##### § 63.5080 What is in this subpart? #####
+
+This subpart describes the actions you must take to reduce emissions of hazardous air pollutants (HAP) if you own or operate a facility that performs metal coil surface coating operations and is a major source of HAP. This subpart establishes emission standards and states what you must do to comply. Certain requirements apply to all who must comply with the subpart; others depend on the means you use to comply with an emission standard.

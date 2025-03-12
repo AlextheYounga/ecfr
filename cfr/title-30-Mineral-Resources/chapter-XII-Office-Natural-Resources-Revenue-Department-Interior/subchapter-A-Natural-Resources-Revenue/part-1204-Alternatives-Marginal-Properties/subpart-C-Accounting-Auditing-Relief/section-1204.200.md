@@ -1,0 +1,3 @@
+##### § 1204.200 What is the purpose of this subpart? #####
+
+This subpart explains how you as a lessee or designee may obtain accounting and auditing relief for your Federal onshore or OCS lease production from a marginal property. The two types of accounting and auditing relief that you can receive under this subpart are cumulative reports and payment relief (explained in § 1204.202) and other accounting and auditing relief appropriate for your property (explained in § 1204.203).

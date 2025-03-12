@@ -1,0 +1,11 @@
+##### § 178.203 Designation of beneficiary. #####
+
+(a) *Agency notification.* The employing agency shall notify each employee of his or her right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is not designated. An employee may change or revoke a designation at any time under regulations promulgated by the Director of the Office of Personnel Management or his or her designee.
+
+(b) *Designation Form.* Standard Form 1152, Designation of Beneficiary, Unpaid Compensation of Deceased Civilian Employee, is prescribed for use by employees in designating a beneficiary and in changing or revoking a previous designation; each agency will furnish the employee a Standard Form 1152 upon request. In the absence of the prescribed form, however, any designation, change, or cancellation of beneficiary witnessed and filed in accordance with the general requirements of this part will be acceptable.
+
+(c) *Who may be designated.* An employee may designate any person or persons as beneficiary. The term *person or persons* as used in this part includes a legal entity or the estate of the deceased employee.
+
+(d) *Executing and filing a designation of beneficiary form.* The Standard Form 1152 must be executed in duplicate by the employee and filed with the employing agency where the proper officer will sign it and insert the date of receipt in the space provided on each part, file the original, and return the duplicate to the employee. When a designation of beneficiary is changed or revoked, the employing agency should return the earlier designation to the employee, keeping a copy of only the current designation on file.
+
+(e) *Effective period of a designation.* A properly executed and filed designation of beneficiary will be effective as long as employment by the same agency continues. If an employee resigns and is reemployed, or is transferred to another agency, the employee must execute another designation of beneficiary form in accordance with paragraph (d) of this section. A new designation of beneficiary is not required, however, when an employee's agency or site, function, records, equipment, and personnel are absorbed by another agency.

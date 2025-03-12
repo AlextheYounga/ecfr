@@ -1,0 +1,7 @@
+##### § 230.20 Alteration and repair report for steam locomotive boilers. #####
+
+(a) *Alterations.* When an alteration is made to a steam locomotive boiler, the steam locomotive owner and/or operator shall file an alteration report (FRA Form No. 19), detailing the changes to the locomotive with the FRA Regional Administrator within 30 days from the date the work was completed. This form shall be attached to, and maintained with, the FRA Form No. 4 until such time as a new FRA Form No. 4 reflecting the alteration is submitted to the Regional Administrator. Alteration reports shall be filed and maintained for the life of the boiler. (See appendix B of this part.)
+
+(b) *Welded and riveted repairs to unstayed portions of the boiler.* Whenever welded or riveted repairs are performed on unstayed portions of a steam locomotive boiler, the steam locomotive owner and/or operator shall file with the FRA Regional Administrator, within 30 days from the time the work was completed, a repair report, FRA Form No. 19, that details the work done to the steam locomotive. Repair reports shall be filed and maintained for the life of the boiler. (See appendix B of this part.)
+
+(c) *Welded and riveted repairs to stayed portions of the boiler.* Whenever welded or riveted repairs are performed on stayed portions of a steam locomotive boiler, the steam locomotive owner and/or operator shall complete a repair report (FRA Form No. 19), detailing the work done. Repair reports shall be maintained for the life of the boiler. (See appendix C of this part.)

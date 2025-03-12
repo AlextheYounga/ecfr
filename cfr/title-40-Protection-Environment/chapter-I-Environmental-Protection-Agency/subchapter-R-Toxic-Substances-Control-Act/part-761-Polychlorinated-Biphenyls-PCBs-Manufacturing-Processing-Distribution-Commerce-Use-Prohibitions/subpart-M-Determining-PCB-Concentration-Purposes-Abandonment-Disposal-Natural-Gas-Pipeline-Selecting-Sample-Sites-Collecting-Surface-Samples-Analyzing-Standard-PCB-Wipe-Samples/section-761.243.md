@@ -1,0 +1,7 @@
+##### § 761.243 Standard wipe sample method and size. #####
+
+(a) Collect a surface sample from a natural gas pipe segment or pipeline section using a standard wipe test as defined in § 761.123. Detailed guidance for the entire wipe sampling process appears in the document entitled, “Wipe Sampling and Double Wash/Rinse Cleanup as Recommended by the Environmental Protection Agency PCB Spill Cleanup Policy,” dated June 23, 1987, and revised on April 18, 1991. This document is available on EPA's website at *https://www.epa.gov/pcbs,* or from the Program Implementation and Information Division, Office of Resource Conservation and Recovery (5303T), Environmental Protection Agency, 1200 Pennsylvania Ave. NW, Washington, DC 20460-0001.
+
+(b) Collect a surface sample from a minimum surface area of 100 cm2 at each sampling site selected. The EPA Regional Administrator may approve, in writing, requests to collect a sample from smaller surface areas, when \<100 cm2 of surface eligible for sampling is present; e.g., when sampling a small diameter pipe, a small valve, or a small regulator. When smaller surfaces are sampled, convert the measurement to the equivalent measurement for 100 cm2 for purposes of comparison to standards based on 100 cm2.
+
+[63 FR 35462, June 29, 1998, as amended at 72 FR 57241, Oct. 9, 2007; 74 FR 30235, June 25, 2009; 88 FR 59694, Aug. 29, 2023]

@@ -1,0 +1,3 @@
+##### § 1209.18 Change of time limits. #####
+
+Except as otherwise by law required, the presiding officer may extend any time limit that is prescribed above or in any notice or order issued in the proceedings. After the referral of the case to the Director pursuant to § 1209.53, the Director may grant extensions of the time limits for good cause shown. Extensions may be granted on the motion of a party after notice and opportunity to respond is afforded all nonmoving parties, or on the Director's or the presiding officer's own motion.

@@ -1,0 +1,3 @@
+##### § 601.27 Contents of written comments. #####
+
+All written comments must be in English and submitted in five (5) legible copies, unless the number of copies is specified in the notice. Any interested person must submit as part of his/her written comments all material that he/she considers relevant to any statement of fact made by him/her. Incorporation of material by reference is to be avoided. However, if such incorporation is necessary, the incorporated material shall be identified with respect to document and page.

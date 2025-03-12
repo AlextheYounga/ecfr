@@ -1,0 +1,3 @@
+##### § 339.201 Disqualification by OPM. #####
+
+Subject to subpart C of part 731 of this chapter, OPM may deny an applicant examination, deny an eligible appointment, and instruct an agency to remove an appointee by reason of physical or mental unfitness for the position for which he or she has applied, or to which he or she has been appointed. An OPM decision under this section is separate and distinct from a determination of disability under § 831.502, § 844.103, § 844.202, or subpart L of part 831 of this title, and does not necessarily entitle the employee to disability retirement under sections 8337 or 8451 of title 5, United States Code.

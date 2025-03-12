@@ -1,0 +1,25 @@
+##### § 1015.212 Interest, penalties and administrative costs. #####
+
+(a) Except as provided in paragraphs (g), (h), and (i) of this section, DOE shall charge interest, penalties and administrative costs on debts owed to the United States pursuant to 31 U.S.C. 3717. DOE shall mail or hand-deliver a written notice to the debtor, at the debtor's most recent address available to DOE, explaining DOE's requirements concerning these charges except where these requirements are included in a contractual or repayment agreement. These charges shall continue to accrue until the debt is paid in full or otherwise resolved through compromise, termination, or waiver of the charges.
+
+(b) DOE shall charge interest on debts owed the United States as follows:
+
+(1) Interest shall accrue from the date of delinquency, or as otherwise provided by law.
+
+(2) Unless otherwise established in a contract, repayment agreement, or by statute, the rate of interest charged shall be the rate established annually by Treasury in accordance with 31 U.S.C. 3717. Pursuant to 31 U.S.C 3717, DOE may charge a higher rate of interest if it reasonably determines that a higher rate is necessary to protect the rights of the United States. DOE will document the reason(s) for its determination that the higher rate is necessary.
+
+(3) The rate of interest, as initially charged, shall remain fixed for the duration of the indebtedness. When a debtor defaults on a repayment agreement and seeks to enter into a new agreement, DOE may require payment of interest at a new rate that reflects the current value of funds to the Treasury at the time the new agreement is executed. Interest shall not be compounded, that is, interest shall not be charged on interest, penalties, or administrative costs required by this section. If, however, a debtor defaults on a previous repayment agreement, charges that accrued but were not collected under the defaulted agreement shall be added to the principal under the new repayment agreement.
+
+(c) DOE shall assess administrative costs incurred for processing and handling delinquent debts. The calculation of administrative costs should be based on actual costs incurred or upon estimated costs as determined by the assessing office.
+
+(d) Unless otherwise established in a contract, repayment agreement, or by statute, DOE shall charge a penalty, pursuant to 31 U.S.C. 3717(e)(2), not to exceed six percent a year on the amount due on a debt that is delinquent for more than 90 days. This charge shall accrue from the date of delinquency.
+
+(e) DOE may increase an “administrative debt” by the cost of living adjustment in lieu of charging interest and penalties under this section. “Administrative debt” includes, but is not limited to, a debt based on fines, penalties, and overpayments, but does not include a debt based on the extension of Government credit, such as those arising from loans and loan guaranties. The cost of living adjustment is the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the debt was determined or last adjusted. Increases to administrative debts shall be computed annually. DOE will use this alternative only when there is a legitimate reason to do so, such as when calculating interest and penalties on a debt would be extremely difficult because of the age of the debt.
+
+(f) When a debt is paid in partial or installment payments, amounts received by DOE shall be applied first to outstanding penalties, second to administrative costs, third to interest, and last to principal.
+
+(g) DOE shall waive the collection of interest and administrative costs imposed pursuant to this section on the portion of the debt that is paid within 30 days after the date on which interest began to accrue. DOE may extend this 30-day period on a case-by-case basis. In addition, DOE may waive interest, penalties, and administrative costs charged under this section, in whole or in part, without regard to the amount of the debt, either under the criteria set forth in these standards for the compromise of debts, or if DOE determines that collection of these charges is against equity and good conscience or is not in the best interest of the United States.
+
+(h) When a debtor requests a waiver or review of the debt, DOE will continue to accrue interest, penalties, and administrative costs during the period collection activity is suspended. Upon completion of DOE's review, interest, penalties, and administrative costs related to the portion of the debt found to be without merit will be waived.
+
+(i) DOE is authorized to impose interest and related charges on debts not subject to 31 U.S.C. 3717, in accordance with the common law.

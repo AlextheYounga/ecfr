@@ -1,0 +1,17 @@
+##### § 2604.501 Fees to be charged—general. #####
+
+(a) *Policy.* Fees will be assessed according to the schedule contained in paragraph (b) of this section and the category of requesters described in § 2604.502 for services rendered in responding to and processing requests for records under subpart C of this part. All fees will be charged to the requester, except where the charging of fees is limited under § 2604.503(a) and (b) or where a waiver or reduction of fees is granted under § 2604.503(c). Requesters will pay fees by check or money order made payable to the Treasury of the United States.
+
+(b) *Types of charges.* The types of charges that may be assessed in connection with the production of records in response to a FOIA request are as follows:
+
+(1) *Searches*—(i) *Manual searches for records.* Whenever feasible, OGE will charge at the salary rate (*i.e.,* basic pay plus 16%) of the employee making the search. However, where a homogeneous class of personnel is used exclusively in a search (e.g., all clerical time or all professional time) OGE will charge $16.00 per hour for clerical time and $28.00 per hour for professional time. Charges for search time will be billed by 15minute segments.
+
+(ii) *Computer searches for records.* Requesters will be charged the actual direct cost of conducting a search using existing programming. These direct costs will include the cost of operating a central processing unit for that portion of operating time that is directly attributable to searching for records responsive to a request, as well as the cost of operator/programmer salary apportionable to the search. OGE will not alter or develop programming to conduct a search.
+
+(iii) *Unproductive searches.* OGE will charge search fees even if no records are found which are responsive to the request, or if the records found are exempt from disclosure.
+
+(2) *Duplication.* The standard copying charge for documents in paper copy is $0.15 per page. When responsive information is provided in a format other than paper copy, such as in the form of computer tapes, flash drives, and discs, the requester may be charged the direct costs of the medium used to produce the information, as well as any related reproduction costs.
+
+(3) *Review.* Costs associated with the review of documents, as defined in § 2604.103, will be charged at the salary rate (*i.e.,* basic pay plus 16%) of the employee conducting the review. Except as noted below, charges may be assessed only for review at the initial level, *i.e.,* the review undertaken the first time the documents are analyzed to determine the applicability of specific exemptions to a particular record or portion of the records. A requester will not be charged for review at the administrative appeal level concerning the applicability of an exemption already applied at the initial level. However, when a record has been withheld pursuant to an exemption which is subsequently determined not to apply and the record is reviewed again at the appeal level to determine the potential applicability of other exemptions, the costs of such additional review may be assessed.
+
+(4) *Other services and materials.* Where OGE elects, as a matter of administrative discretion, to comply with a request for a special service or materials, such as certifying that records are true copies or sending records by special methods, the actual direct costs of providing the service or materials will be charged.

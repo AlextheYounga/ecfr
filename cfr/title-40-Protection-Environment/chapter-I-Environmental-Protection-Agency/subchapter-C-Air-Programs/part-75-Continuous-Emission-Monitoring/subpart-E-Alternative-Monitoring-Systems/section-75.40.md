@@ -1,0 +1,5 @@
+##### § 75.40 General demonstration requirements. #####
+
+(a) The owner or operator of an affected unit, or the owner or operator of an affected unit and representing a class of affected units which meet the criteria specified in § 75.47, required to install a continuous emission monitoring system may apply to the Administrator for approval of an alternative monitoring system (or system component) to determine average hourly emission data for SO2, NOX, and/or volumetric flow by demonstrating that the alternative monitoring system has the same or better precision, reliability, accessibility, and timeliness as that provided by the continuous emission monitoring system.
+
+(b) The requirements of this subpart shall be met by the alternative monitoring system when compared to a contemporaneously operating, fully certified continuous emission monitoring system or a contemporaneously operating reference method, where the appropriate reference methods are listed in § 75.22.

@@ -1,0 +1,3 @@
+##### § 63.948 Reporting requirements. #####
+
+Owners and operators that use a surface impoundment equipped with a fixed-roof and vented through a closed-vent system to a control device in accordance with the provisions of § 63.943 of this subpart shall prepare and submit to the Administrator the reports required for closed-vent systems and control devices in accordance with the requirements of § 63.693 in 40 CFR part 63, subpart DD—National Emission Standards for Hazardous Air Pollutant Standards from Off-Site Waste and Recovery Operations.

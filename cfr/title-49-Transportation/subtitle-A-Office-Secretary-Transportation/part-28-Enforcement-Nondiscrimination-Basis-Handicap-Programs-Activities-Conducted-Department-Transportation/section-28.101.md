@@ -1,0 +1,3 @@
+##### § 28.101 Purpose. #####
+
+The purpose of this part is to carry out section 119 of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, which amended section 504 of the Rehabilitation Act of 1973 to prohibit discrimination on the basis of handicap in programs or activities conducted by Executive agencies, including this Department, or the United States Postal Service. 49 CFR part 27 implements section 504 in the Department's financial assistance programs.

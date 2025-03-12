@@ -1,0 +1,5 @@
+##### § 431.408 Preemption of State regulations for covered equipment other than electric motors and commercial heating, ventilating, air-conditioning and water heating products. #####
+
+This section concerns State regulations providing for any energy conservation standard, or water conservation standard (in the case of commercial prerinse spray valves or commercial clothes washers), or other requirement with respect to the energy efficiency, energy use, or water use (in the case of commercial prerinse spray valves or commercial clothes washers), for any covered equipment other than an electric motor or commercial HVAC and WH product. Any such regulation that contains a standard or requirement that is not identical to a Federal standard in effect under this subpart is preempted by that standard, except as provided for in sections 327(b) and (c) and 345(a)(10), (e), (f) and (g) of the Act.
+
+[75 FR 675, Jan. 5, 2010, as amended at 78 FR 62993, Oct. 23, 2013]

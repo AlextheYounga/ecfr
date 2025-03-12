@@ -1,0 +1,3 @@
+##### § 13.125 Depositions. #####
+
+Depositions for investigative purposes may be taken at the discretion of the Presiding Officer with reasonable notice to the party under investigation. Such depositions shall be taken before the Presiding Officer or other person authorized to administer oaths and designated by the Presiding Officer. The testimony shall be reduced to writing by the person taking the deposition, or under the direction of that person, and where possible shall then be subscribed by the deponent. Any person may be compelled to appear and testify and to produce physical and documentary evidence.

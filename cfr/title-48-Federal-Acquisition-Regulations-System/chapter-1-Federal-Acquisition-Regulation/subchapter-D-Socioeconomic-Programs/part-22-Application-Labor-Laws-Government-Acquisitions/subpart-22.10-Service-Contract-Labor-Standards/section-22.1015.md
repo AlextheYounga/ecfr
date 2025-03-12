@@ -1,0 +1,5 @@
+##### 22.1015 Discovery of errors by the Department of Labor. #####
+
+If the Department of Labor discovers and determines, whether before or after a contract award, that a contracting officer made an erroneous determination that the Service Contract Labor Standards statute did not apply to a particular acquisition or failed to include an appropriate wage determination in a covered contract, the contracting officer, within 30 days of notification by the Department of Labor, shall include in the contract the clause at 52.222-41 and any applicable wage determination issued by the Administrator. If the contract is subject to 41 U.S.C. 6707(f), the Administrator may require retroactive application of that wage determination. The contracting officer shall equitably adjust the contract price to reflect any changed cost of performance resulting from incorporating a wage determination or revision.
+
+[54 FR 19816, May 8, 1989, as amended at 79 FR 24207, Apr. 29, 2014]

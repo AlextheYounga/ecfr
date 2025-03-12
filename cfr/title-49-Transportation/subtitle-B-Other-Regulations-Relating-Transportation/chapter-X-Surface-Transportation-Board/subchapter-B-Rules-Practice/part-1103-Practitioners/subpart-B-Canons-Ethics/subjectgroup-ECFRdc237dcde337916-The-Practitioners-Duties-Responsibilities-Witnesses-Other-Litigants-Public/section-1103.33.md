@@ -1,0 +1,3 @@
+##### § 1103.33 Responsibility when proposing a person for admission to practice before the Board. #####
+
+The practitioner shall aid in guarding the bar of the Board against admission of candidates unfit or unqualified because deficient in either moral character or qualification. A practitioner shall propose no person for admission to practice before the Board unless from personal knowledge or after reasonable inquiry he sincerely believes and is able to vouch that such person possesses the qualifications prescribed in § 1103.3.

@@ -1,0 +1,5 @@
+##### § 205.1 Authority and purpose. #####
+
+(a) *Authority.* The regulation in this part, known as Regulation E, is issued by the Board of Governors of the Federal Reserve System pursuant to the Electronic Fund Transfer Act (15 U.S.C. 1693 *et seq.*). The information-collection requirements have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and have been assigned OMB No. 7100-0200.
+
+(b) *Purpose.* This part carries out the purposes of the Electronic Fund Transfer Act, which establishes the basic rights, liabilities, and responsibilities of consumers who use electronic fund transfer services and of financial institutions that offer these services. The primary objective of the act and this part is the protection of individual consumers engaging in electronic fund transfers.

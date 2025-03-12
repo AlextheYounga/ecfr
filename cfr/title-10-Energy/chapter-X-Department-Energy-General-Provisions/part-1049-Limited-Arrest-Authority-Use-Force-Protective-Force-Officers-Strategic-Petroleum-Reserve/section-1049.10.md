@@ -1,0 +1,3 @@
+##### § 1049.10 Disclaimer. #####
+
+These guidelines are set forth solely for the purpose of internal Department of Energy guidance. These guidelines do not, and are not intended to, and may not be relied upon to, create any substantive or procedural rights enforceable at law by any party in any matter, civil or criminal. These guidelines do not place any limitations on otherwise lawful activities of Protective Force Officers or the Department of Energy.

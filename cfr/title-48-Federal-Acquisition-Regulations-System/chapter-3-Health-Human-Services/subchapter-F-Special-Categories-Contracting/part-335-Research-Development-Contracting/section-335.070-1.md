@@ -1,0 +1,7 @@
+##### 335.070-1 Policy. #####
+
+(a) Contracting activities should encourage contractors to contribute to the cost of performing research and development (R&D), through the use of cost-sharing contracts, where there is a probability that the contractor will receive present or future benefits from participation as described in Federal Acquisition Regulation (FAR) 16.303. Examples include increased technical know-how, training for employees, acquisition of goods or services, development of a commercially viable product that can be sold in the commercial market and use of background knowledge in future contracts. Cost-sharing is intended to serve the mutual interests of the Government and its contractors by helping to ensure efficient utilization of the resources available for the conduct of R&D projects and by promoting sound planning and prudent fiscal policies of the contractor. The Government's interest includes positive impact on the community at large.
+
+(b) The contracting officer should use a cost-sharing contract for R&D contracts, unless the contracting officer determines that a request for cost-sharing would not be appropriate.
+
+(c) Any determination made by a contracting officer as described in this section shall be evidenced by appropriate documentation in the contract file.

@@ -1,0 +1,3 @@
+##### § 65.87 Recordkeeping provisions. #####
+
+The owner or operator of a transfer rack shall record that either the verification of U.S. Department of Transportation (DOT) tank certification or Method 27 of appendix A of 40 CFR part 60 testing required in § 65.84(c) has been performed. Various methods for the record of verification can be used, such as a check off on a log sheet, a list of DOT serial numbers or Method 27 data, or a position description for gate security showing that the security guard will not allow any trucks on-site that do not have the appropriate documentation.

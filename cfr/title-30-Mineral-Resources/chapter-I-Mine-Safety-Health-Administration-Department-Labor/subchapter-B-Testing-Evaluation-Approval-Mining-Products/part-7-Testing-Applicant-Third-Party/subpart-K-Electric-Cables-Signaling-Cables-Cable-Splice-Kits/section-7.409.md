@@ -1,0 +1,3 @@
+##### § 7.409 Approval marking. #####
+
+Approved electric cables, signaling cables, and splices shall be legibly and permanently marked with the MSHA-assigned approval marking. For electric cables and signaling cables, the marking shall appear at intervals not exceeding 3 feet and shall include the MSHA-assigned approval number in addition to the number and size (gauge) of conductors and cable type. For cables containing electric conductors, the marking shall also include the voltage rating. For splices, the marking shall be placed on the jacket so that it will appear at least once on the assembled splice.

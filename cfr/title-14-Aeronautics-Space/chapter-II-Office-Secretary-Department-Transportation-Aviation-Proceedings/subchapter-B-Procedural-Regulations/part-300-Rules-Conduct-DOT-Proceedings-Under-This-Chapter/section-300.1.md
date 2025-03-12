@@ -1,0 +1,5 @@
+##### § 300.1 Judicial standards of practice. #####
+
+Certain of DOT's functions involving aviation economic and enforcement proceedings are similar to those of a court, and parties to cases before DOT and those who represent such parties are expected—in fact and in appearance—to conduct themselves with honor and dignity as they would before a court. By the same token, any DOT employee or administrative law judge carrying out DOT's quasi-judicial functions and any DOT employee making recommendations or advising them are expected to conduct themselves with the same fidelity to appropriate standards of propriety that characterize a court and its staff. The standing and effectiveness of DOT in carrying out its quasi-judicial functions are in direct relation to the observance by DOT, DOT employees, and the parties and attorneys appearing before DOT of the highest standards of judicial and professional ethics. The rules of conduct set forth in this part are to be interpreted in light of those standards.
+
+[Doc. No. 82, 50 FR 2380, Jan. 16, 1985, as amended at 60 FR 43528, Aug. 22, 1995]

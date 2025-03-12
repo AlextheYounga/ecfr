@@ -1,0 +1,3 @@
+##### § 96.5 Eligibility. #####
+
+Any entity, other than those precluded by Section 310 of the Communications Act of 1934, as amended, 47 U.S.C. 310, and otherwise meets the technical, financial, character, and citizenship qualifications that the Commission may require in accordance with such Act is eligible to be a Priority Access Licensee or General Authorized Access User under this part; provided further, that no entity barred by 47 U.S.C. 1404 is eligible to be a Priority Access Licensee.

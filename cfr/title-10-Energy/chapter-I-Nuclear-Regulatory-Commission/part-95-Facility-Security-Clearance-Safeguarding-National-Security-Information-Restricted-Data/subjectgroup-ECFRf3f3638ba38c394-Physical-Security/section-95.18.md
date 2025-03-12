@@ -1,0 +1,9 @@
+##### § 95.18 Key personnel. #####
+
+The senior management official and the Facility Security Officer must always be cleared to a level commensurate with the Facility Clearance. Other key management officials, as determined by the CSA, must be granted an access authorization or be excluded from classified access. When formal exclusion action is required, the organization's board of directors or similar executive body shall affirm the following, as appropriate.
+
+(a) Officers, directors, partners, regents, or trustees (designated by name) that are excluded may not require, may not have, and can be effectively excluded from access to all classified information disclosed to the organization. These individuals also may not occupy positions that would enable them to adversely affect the organization's policies or practices in the performance of activities involving classified information. This action will be made a matter of record by the organization's executive body. A copy of the resolution must be furnished to the CSA.
+
+(b) Officers, directors, partners, regents, or trustees (designated by name) that are excluded may not require, may not have, and can be effectively denied access to higher-level classified information (specify which higher level(s)). These individuals may not occupy positions that would enable them to adversely affect the organization's policies or practices in the protection of classified information. This action will be made a matter of record by the organization's executive body. A copy of the resolution must be furnished to the CSA.
+
+[62 FR 17692, Apr. 11, 1997]

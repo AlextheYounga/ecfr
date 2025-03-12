@@ -1,0 +1,3 @@
+##### § 550.1635 Alternative work schedule. #####
+
+An agent may not have a flexible or compressed work schedule under 5 U.S.C. chapter 61, subchapter II. The regular tour of duty established under this subpart is a special work schedule established under 5 U.S.C. 5550. CBP may allow flexible starting and stopping times for an agent's basic workday if it determines such flexibility is appropriate for the position in question.

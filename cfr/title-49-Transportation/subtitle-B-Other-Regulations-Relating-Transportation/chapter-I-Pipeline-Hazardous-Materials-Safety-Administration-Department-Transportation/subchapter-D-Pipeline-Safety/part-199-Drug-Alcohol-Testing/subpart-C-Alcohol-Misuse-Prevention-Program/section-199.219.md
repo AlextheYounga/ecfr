@@ -1,0 +1,3 @@
+##### § 199.219 Pre-duty use. #####
+
+Each operator shall prohibit a covered employee from using alcohol within four hours prior to performing covered functions, or, if an employee is called to duty to respond to an emergency, within the time period after the employee has been notified to report for duty. No operator having actual knowledge that a covered employee has used alcohol within four hours prior to performing covered functions or within the time period after the employee has been notified to report for duty shall permit that covered employee to perform or continue to perform covered functions.

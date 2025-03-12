@@ -1,0 +1,7 @@
+##### § 61.96 Applications to construct or modify. #####
+
+(a) In addition to any activity that is defined as construction under 40 CFR part 61, subpart A, any fabrication, erection or installation of a new building or structure within a facility that emits radionuclides is also defined as new construction for purposes of 40 CFR part 61, subpart A.
+
+(b) An application for approval under § 61.07 or notification of startup under § 61.09 does not need to be filed for any new construction of or modification within an existing facility if the effective dose equivalent, caused by all emissions from the new construction or modification, is less than 1% of the standard prescribed in § 61.92. For purposes of this paragraph the effective dose equivalent shall be calculated using the source term derived using appendix D as input to the dispersion and other computer models described in § 61.93. DOE may, with prior approval from EPA, use another procedure for estimating the source term for use in this paragraph. A facility is eligible for this exemption only if, based on its last annual report, the facility is in compliance with this subpart.
+
+(c) Conditions to approvals granted under § 61.08 will not contain requirements for post approval reporting on operating conditions beyond those specified in § 61.94.

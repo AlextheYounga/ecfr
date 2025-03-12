@@ -1,0 +1,11 @@
+##### § 517.2 Definitions. #####
+
+The definitions included in this part are derived from common usage of these terms. A term in this part includes all those who are commonly understood to be included within that term.
+
+(a) *Minority- and/or women-owned (small and large) businesses and entities owned by minorities and women* means firms at least fifty-one (51) percent owned by individuals who are members of the minority group or women and who are citizens of the United States. In the case of publicly-owned companies, at least fifty-one (51) percent of each class of voting stock must be owned by one or more members of the minority group or by one or more women, who are citizens of the United States. In the case of partnerships, at least fifty-one (51) percent of the partnership interest must be owned by one or more members of the minority group or by one or more women, who are citizens of the United States. Additionally, the management and daily business operations of the firm must be controlled by one or more such individuals.
+
+(b) *Minority* means any Black/African-American; Native American (American Indians, Eskimos, Aleuts and Native Hawaiians); Hispanic American; Asian-Pacific American; or Subcontinent-Asian American.
+
+(c) *Small and large businesses and entities owned by individuals with disabilities* means firms at least fifty-one (51) percent owned by individuals with disabilities who are citizens of the United States. In the case of publicly-owned companies, at least fifty-one (51) percent of each class of voting stock must be owned by individuals with disabilities who are citizens of the United States. In the case of partnerships, at least fifty-one (51) percent of the partnership interest must be owned by individuals with disabilities who are citizens of the United States. Additionally, the management and daily business operations must be controlled by one or more such individuals.
+
+(d) *Disability,* as used in this part, has the same meaning as the term used in section 3 of the Americans With Disabilities Act of 1990, Public Law 101-336, 104 Stat. 327 (42 U.S.C. 12101 *et seq*).

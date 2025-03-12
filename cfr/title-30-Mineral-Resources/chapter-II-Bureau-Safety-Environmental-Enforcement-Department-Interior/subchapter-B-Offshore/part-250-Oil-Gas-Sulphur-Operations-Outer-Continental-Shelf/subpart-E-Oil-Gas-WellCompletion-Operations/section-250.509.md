@@ -1,0 +1,3 @@
+##### § 250.509 Well-completion structures on fixed platforms. #####
+
+Derricks, masts, substructures, and related equipment shall be selected, designed, installed, used, and maintained so as to be adequate for the potential loads and conditions of loading that may be encountered during the proposed operations. Prior to moving a well-completion rig or equipment onto a platform, the lessee shall determine the structural capability of the platform to safely support the equipment and proposed operations, taking into consideration the corrosion protection, age of platform, and previous stresses to the platform.

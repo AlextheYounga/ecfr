@@ -1,0 +1,3 @@
+##### § 422.20 Applicability; description of the phosphorus consuming subcategory. #####
+
+The provisions of this subpart are applicable to discharges of pollutants resulting from the manufacture of phosphoric acid, phosphorus pentoxide, phosphorus pentasulfide, phosphorus trichloride, and phosphorus oxychloride directly from elemental phosphorus. The production of phosphorus trichloride and phosphorus oxychloride creates waste water pollutants not completely amenable to the procedures utilized for best practicable control technology currently available. The standards set for phosphorus trichloride manufacture and phosphorus oxychloride manufacture, accordingly, must differ from the rest of the subcategory at this level of treatment.

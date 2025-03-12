@@ -1,0 +1,5 @@
+##### § 2.1000 Scope of subpart J. #####
+
+The rules in this subpart, together with the rules in subparts C and G of this part, govern the procedure for an application for authorization to construct a high-level radioactive waste repository at a geologic repository operations area noticed under §§ 2.101(f)(8) or 2.105(a)(5), and for an application for a license to receive and possess high level radioactive waste at a geologic repository operations area. The procedures in this subpart take precedence over those in 10 CFR part 2, subpart C, except for the following provisions: §§ 2.301; 2.303; 2.307; 2.309; 2.312; 2.313; 2.314; 2.315; 2.316; 2.317(a); 2.318; 2.319; 2.320; 2.321; 2.322; 2.323; 2.324; 2.325; 2.326; 2.327; 2.328; 2.330; 2.331; 2.333; 2.335; 2.338; 2.339; 2.342; 2.343; 2.344; 2.345; 2.346; 2.348; and 2.390. The procedures in this subpart take precedence over those in 10 CFR part 2, subpart G, except for the following provisions: §§ 2.701, 2.702; 2.703; 2.708; 2.709; 2.710; 2.711; 2.712.
+
+[69 FR 2264, Jan. 14, 2004]

@@ -1,0 +1,3 @@
+##### § 250.1606 Control of wells. #####
+
+The lessee shall take necessary precautions to keep its wells under control at all times. Operations shall be conducted in a safe and workmanlike manner. The lessee shall utilize the best available and safest drilling technologies and state-of-the-art methods to evaluate and minimize the potential for a well to flow or kick. The lessee shall utilize personnel who are trained and competent and shall utilize and maintain equipment and materials necessary to assure the safety and protection of personnel, equipment, natural resources, and the environment.

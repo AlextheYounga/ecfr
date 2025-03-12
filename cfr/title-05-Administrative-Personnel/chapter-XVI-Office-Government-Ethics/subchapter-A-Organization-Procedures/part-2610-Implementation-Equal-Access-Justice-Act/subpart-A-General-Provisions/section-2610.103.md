@@ -1,0 +1,3 @@
+##### § 2610.103 When the Act applies. #####
+
+The Act applies to any adversary adjudication pending or commenced before the Office of Government Ethics on or after October 1, 1989, which is the date the Office became a separate executive agency. Prior to October 1, 1989, the Office was part of the Office of Personnel Management. Any adversary adjudication pending or commenced before October 1, 1989, and not finally disposed of by that date, is governed by the rules and policies implementing the Equal Access to Justice Act as adopted by the Office of Personnel Management.

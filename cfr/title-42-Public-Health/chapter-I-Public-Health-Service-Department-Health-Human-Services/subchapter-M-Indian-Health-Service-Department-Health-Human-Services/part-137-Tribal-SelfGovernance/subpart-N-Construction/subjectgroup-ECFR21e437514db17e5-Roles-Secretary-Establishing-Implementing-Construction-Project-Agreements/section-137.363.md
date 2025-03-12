@@ -1,0 +1,7 @@
+##### § 137.363 What is the procedure for the Secretary's review and approval of amendments? #####
+
+(a) The Secretary shall promptly notify the Self-Governance Tribe in writing of any concerns or issues that may lead to disapproval. The Secretary shall share relevant information and documents, and make a good faith effort to resolve all issues and concerns of the Self-Governance Tribe. If, after consultation with the Self-Governance Tribe, the Secretary intends to disapprove the proposed amendment, then the Secretary shall follow the procedures set forth in § 137.330 through 137.334.
+
+(b) The time allowed for Secretarial review, comment, and approval of amendments is 30 days, or within a longer time if agreed to by the Self-Governance Tribe in writing. Absence of a written response by the Secretary within 30 days shall be deemed approved.
+
+(c) The timeframe set forth in paragraph (b) of this section is intended to be the maximum time and may be reduced based on urgency and need, by agreement of the parties. If the Self-Governance Tribe requests reduced timeframes for action due to unusual or special conditions (such as limited construction periods), the Secretary shall make a good faith effort to accommodate the requested timeframes.

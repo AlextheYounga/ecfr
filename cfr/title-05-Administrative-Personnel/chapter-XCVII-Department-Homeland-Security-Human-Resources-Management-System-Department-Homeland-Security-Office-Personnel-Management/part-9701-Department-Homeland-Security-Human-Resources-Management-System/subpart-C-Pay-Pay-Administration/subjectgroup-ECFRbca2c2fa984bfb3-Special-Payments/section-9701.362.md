@@ -1,0 +1,3 @@
+##### § 9701.362 Special assignment payments. #####
+
+DHS will issue implementing directives regarding additional payments for employees serving on special assignments in positions placing significantly greater demands on the employee than other assignments within the employee's band. DHS may determine the amount of the payments and the conditions for eligibility, including any performance or service agreement requirements. Payments may be made at the same time as basic pay or in periodic lump-sum payments. Special assignment payments are not basic pay for any purpose and may be terminated or reduced at any time without triggering pay retention provisions or adverse action procedures.

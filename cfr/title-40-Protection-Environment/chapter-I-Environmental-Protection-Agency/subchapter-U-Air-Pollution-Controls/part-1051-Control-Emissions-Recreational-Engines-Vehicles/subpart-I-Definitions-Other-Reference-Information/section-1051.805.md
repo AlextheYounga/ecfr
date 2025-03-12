@@ -1,0 +1,5 @@
+##### § 1051.805 What symbols, acronyms, and abbreviations does this part use? #####
+
+The following symbols, acronyms, and abbreviations apply to this part:
+
+°—degrees. ASTM—American Society for Testing and Materials. ATV—all-terrain vehicle. cc—cubic centimeters. CFR—Code of Federal Regulations.CH4 methane.cm—centimeter. C—Celsius. CO—carbon monoxide. CO2—carbon dioxide. EPA—Environmental Protection Agency. F—Fahrenheit. g—grams. g/gal/day—grams per gallon per test day. g/m2/day—grams per meter-square per test day. HC—hydrocarbon.Hg—mercury. hr—hours. km—kilometer. kW—kilowatt. LPG—liquefied petroleum gas. m—meters. mm—millimeters. mW—milliwatts. N2O nitrous oxide.NARA—National Archives and Records Administration.NMHC—nonmethane hydrocarbons. NOX—oxides of nitrogen (NO and NOX). psig—pounds per square inches of gauge pressure. rpm—revolutions per minute. SAE—Society of Automotive Engineers. SI—spark-ignition. THC—total hydrocarbon. THCE—total hydrocarbon equivalent. U.S.C.—United States Code.[67 FR 68347, Nov. 8, 2002, as amended at 70 FR 40510, July 13, 2005; 74 FR 56511, Oct. 30, 2009]

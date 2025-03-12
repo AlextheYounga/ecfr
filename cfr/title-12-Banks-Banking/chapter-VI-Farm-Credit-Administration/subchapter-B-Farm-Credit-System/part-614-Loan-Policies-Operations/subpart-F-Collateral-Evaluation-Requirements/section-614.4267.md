@@ -1,0 +1,5 @@
+##### § 614.4267 Professional association membership; competency. #####
+
+(a) *Membership in appraisal organizations.* A State certified appraiser or a State licensed appraiser may not be excluded from consideration for an assignment for a real estate-related transaction solely by virtue of membership or lack of membership in any particular appraisal organization.
+
+(b) *Competency.* All staff and fee evaluators, including appraisers, performing evaluations in connection with real, personal, or intangible property taken as collateral in connection with extensions of credit must meet the qualification requirements of this subpart. However, an evaluator (as defined in § 614.4240(n)) may not be considered competent solely by virtue of being certified, licensed, or accredited. Any determination of competency shall be based on the individual's experience and educational background as they relate to the particular evaluation assignment for which such individual is being considered.

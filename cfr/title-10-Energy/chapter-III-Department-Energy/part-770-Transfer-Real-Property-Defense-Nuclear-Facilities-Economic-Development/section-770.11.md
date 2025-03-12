@@ -1,0 +1,3 @@
+##### § 770.11 When does a claim “accrue” for purposes of notifying the Field Office Manager under § 770.9(a) of this part? #####
+
+For purposes of § 770.9(a) of this part, a claim “accrues” on the date on which the person asserting the claim knew, or reasonably should have known, that the injury to person or property was caused or contributed to by the release or threatened release of a hazardous substance, pollutant, or contaminant as a result of DOE activities at the defense nuclear facility on which the real property is located.

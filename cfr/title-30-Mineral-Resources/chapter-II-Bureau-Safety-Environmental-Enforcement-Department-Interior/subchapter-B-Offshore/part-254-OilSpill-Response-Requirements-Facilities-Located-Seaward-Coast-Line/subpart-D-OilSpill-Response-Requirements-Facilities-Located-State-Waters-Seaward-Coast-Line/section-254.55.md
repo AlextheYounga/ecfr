@@ -1,0 +1,5 @@
+##### § 254.55 Spill response plans for facilities located in Alaska State waters seaward of the coast line in the Chukchi and Beaufort Seas. #####
+
+Response plans for facilities conducting exploratory drilling operations from a MODU seaward of the coast line in Alaska State waters in the Chukchi and Beaufort Seas must follow the requirements contained within subpart E of this part, in addition to the other requirements of this subpart. Such response plans must address how the source control procedures selected to comply with State law will be integrated into the planning, training, and exercise requirements of §§ 254.70(a), 254.90(a), and 254.90(c), in the event that the proposed operations do not incorporate the capping stack, cap and flow system, containment dome, and/or other similar subsea and surface devices and equipment and vessels referenced in those sections.
+
+[81 FR 46563, July 15, 2016]

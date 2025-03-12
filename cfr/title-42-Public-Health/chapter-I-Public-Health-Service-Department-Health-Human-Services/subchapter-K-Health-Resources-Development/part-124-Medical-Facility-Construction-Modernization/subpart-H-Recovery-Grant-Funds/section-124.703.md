@@ -1,0 +1,5 @@
+##### § 124.703 Federal right of recovery. #####
+
+(a) If any facility is at any time within 20 years after the completion of the grant-assisted construction or modernization sold or transferred to any entity which is either not qualified for a grant under the statute pursuant to which the grant was awarded or not approved as a transferee by the State agency, the United States shall be entitled to recover on the basis of joint and several liability from any transferor, transferee, or successive transferee of the facility an amount determined in accordance with this subpart.
+
+(b) If any facility at any time within 20 years after the completion of the grant-assisted construction or modernization ceases to be a public or other non-profit facility that would have been eligible for a grant under the statute pursuant to which the grant was awarded, the United States shall be entitled to recover from the owners of the facility an amount determined in accordance with this subpart.

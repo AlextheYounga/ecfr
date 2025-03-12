@@ -1,0 +1,39 @@
+##### § 2.704 Discovery-required disclosures. #####
+
+(a) *Initial disclosures.* Except to the extent otherwise stipulated or directed by order of the presiding officer or the Commission, a party other than the NRC staff shall, without awaiting a discovery request, provide to other parties:
+
+(1) The name and, if known, the address and telephone number of each individual likely to have discoverable information relevant to disputed issues alleged with particularity in the pleadings, identifying the subjects of the information; and
+
+(2) A copy of, or a description by category and location of, all documents, data compilations, and tangible things in the possession, custody, or control of the party that are relevant to disputed issues alleged with particularity in the pleadings. When any document, data compilation, or other tangible thing that must be disclosed is publicly available from another source, such as at the NRC Web site, *http://www.nrc.gov,* and/or the NRC Public Document Room, a sufficient disclosure would be the location, the title and a page reference to the relevant document, data compilation, or tangible thing;
+
+(3) Unless otherwise stipulated by the parties or directed by order of the presiding officer, these disclosures must be made within 45 days after the issuance of a prehearing conference order following the initial prehearing conference specified in § 2.329. A party must make its initial disclosures based on the information then reasonably available to it. A party is not excused from making its disclosures because it has not fully completed its investigation of the case, because it challenges the sufficiency of another party's disclosures, or because another party has not made its disclosures. The duty of disclosure under this section is continuing. A disclosure update must be made every month after initial disclosures on a due date selected by the presiding officer, unless the parties agree upon a different due date or frequency. The disclosure update shall be limited to documents subject to disclosure under this section and does not need to include documents that are developed, obtained, or discovered during the two weeks before the due date. Disclosure updates shall include any documents subject to disclosure that were not included in any previous disclosure update. The duty to update disclosures relevant to a disputed issue ends when the presiding officer issues a decision resolving that disputed issue, or at such other time as may be specified by the presiding officer or the Commission.
+
+(b) *Disclosure of expert testimony.* (1) In addition to the disclosures required by paragraph (a) of this section, a party other than the NRC staff shall disclose to other parties the identity of any person who may be used at trial to present evidence under § 2.711.
+
+(2) Except in proceedings with pre-filed written testimony, or as otherwise stipulated or directed by the presiding officer, this disclosure must be accompanied by a written report prepared and signed by the witness, containing: A complete statement of all opinions to be expressed and the basis and reasons therefor; the data or other information considered by the witness in forming the opinions; any exhibits to be used as a summary of or support for the opinions; the qualifications of the witness, including a list of all publications authored by the witness within the preceding ten years; and a listing of any other cases in which the witness has testified as an expert at trial or by deposition within the preceding four (4) years.
+
+(3) These disclosures must be made at the times and in the sequence directed by the presiding officer. In the absence of other directions from the presiding officer, or stipulation by the parties, the disclosures must be made at least ninety (90) days before the hearing commencement date or the date the matter is to be presented for hearing. If the evidence is intended solely to contradict or rebut evidence on the same subject matter identified by another party under paragraph (b)(2) of this section, the disclosures must be made within thirty (30) days after the disclosure made by the other party. The parties shall supplement these disclosures when required under paragraph (e) of this section.
+
+(c) *Pretrial disclosures.* (1) In addition to the disclosures required in the preceding paragraphs, a party other than the NRC staff shall provide to other parties the following information regarding the evidence that it may present at trial other than solely for impeachment purposes:
+
+(i) The name and, if not previously provided, the address and telephone number of each witness, separately identifying those whom the party expects to present and those whom the party may call if the need arises;
+
+(ii) The designation of those witnesses whose testimony is expected to be presented by means of a deposition and, when available, a transcript of the pertinent portions of the deposition testimony; and
+
+(iii) An appropriate identification of each document or other exhibit, including summaries of other evidence, separately identifying those which the party expects to offer and those which the party may offer if the need arises.
+
+(2) Unless otherwise directed by the presiding officer or the Commission, these disclosures must be made at least thirty (30) days before commencement of the hearing at which the issue is to be presented.
+
+(3) A party may object to the admissibility of documents identified under paragraph (c) of this section. A list of those objections must be served and filed within fourteen (14) days after service of the disclosures required by paragraphs (c)(1) and (2) of this section, unless a different time is specified by the presiding officer or the Commission. Objections not so disclosed, other than objections as to a document's admissibility under § 2.711(e), are waived unless excused by the presiding officer or Commission for good cause shown.
+
+(d) *Form of disclosures; filing.* Unless otherwise directed by order of the presiding officer or the Commission, all disclosures under paragraphs (a) through (c) of this section must be made in writing, signed, served, and promptly filed with the presiding officer or the Commission.
+
+(e) Supplementation of responses. A party who has made a disclosure under this section is under a duty to supplement or correct the disclosure to include information thereafter acquired if ordered by the presiding officer or in the following circumstances:
+
+(1) When a party learns that in some material respect the information disclosed under paragraph (a) of this section is incomplete or incorrect, and if additional or corrective information has not otherwise been made known to the other parties during the discovery process or in writing, a party shall supplement its disclosures in accordance with the disclosure update schedule in paragraph (a)(3) of this section.
+
+(2) With respect to testimony of an expert from whom a report is required under paragraph (b) of this section, the duty extends both to information contained in the report and to information provided through a deposition of the expert, and any additions or other changes to this information must be disclosed by the time the party's disclosures under § 2.704(c) are due.
+
+(f) Disclosure under this section of documents and records including Safeguards Information referred to in Sections 147 and 181 of the Atomic Energy Act of 1954, as amended, will be according to the provisions in § 2.705(c)(3) through (c)(8).
+
+[69 FR 2256, Jan. 14, 2004, as amended at 73 FR 63567, Oct. 24, 2008; 77 FR 46597, Aug. 3, 2012]

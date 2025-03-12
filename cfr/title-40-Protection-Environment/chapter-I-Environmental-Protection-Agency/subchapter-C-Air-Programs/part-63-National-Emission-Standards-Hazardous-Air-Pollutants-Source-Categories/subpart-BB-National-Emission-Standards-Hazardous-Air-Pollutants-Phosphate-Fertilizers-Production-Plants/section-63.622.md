@@ -1,0 +1,15 @@
+##### § 63.622 Standards and compliance dates. #####
+
+(a) On and after the dates specified in paragraphs (a)(1) through (3) of this section, for each phosphate fertilizer process line (*e.g.,* diammonium and/or monoammonium phosphate process line), granular triple superphosphate process line, and granular triple superphosphate storage building, you must comply with the emission limits as specified in paragraphs (a)(1) through (3) of this section. If a process line contains more than one emission point, you must sum the emissions from all emission points in a process line to determine compliance with the specified emission limits.
+
+(1) For each existing phosphate fertilizer process line (*e.g.,* diammonium and/or monoammonium phosphate process line), granular triple superphosphate process line, and granular triple superphosphate storage building that commenced construction or reconstruction on or before December 27, 1996, you must comply with the emission limits specified in Table 1 to this subpart beginning on June 10, 2002.
+
+(2) For each new phosphate fertilizer process line (*e.g.,* diammonium and/or monoammonium phosphate process line), granular triple superphosphate process line, and granular triple superphosphate storage building that commences construction or reconstruction after December 27, 1996 and on or before August 19, 2015, you must comply with the emission limits specified in Table 2 to this subpart beginning on June 10, 1999 or at startup, whichever is later.
+
+(3) For each new phosphate fertilizer process line (*e.g.,* diammonium and/or monoammonium phosphate process line), granular triple superphosphate process line, and granular triple superphosphate storage building that commences construction or reconstruction after August 19, 2015, you must comply with the emission limits specified in Table 2 to this subpart immediately upon startup.
+
+(b) Beginning on June 10, 2002, you must not ship fresh granular triple superphosphate from your existing granular triple superphosphate storage building that commenced construction or reconstruction on or before December 27, 1996. Beginning on June 10, 1999 or at startup, whichever is later, you must not ship fresh granular triple superphosphate from your new granular triple superphosphate storage building that commences construction or reconstruction after December 27, 1996.
+
+(c) Beginning on August 19, 2015, you must not introduce into any evaporative cooling tower any liquid effluent from any absorber installed to control emissions from process equipment.
+
+(d) Beginning on August 19, 2015, during periods of startup and shutdown (as defined in § 63.621), you must comply with the work practice specified in this paragraph in lieu of the emission limits specified in paragraph (a) of this section. During periods of startup and shutdown, you must operate any control device(s) being used at the affected source, monitor the operating parameters specified in Table 3 of this subpart, and comply with the operating limits specified in Table 4 of this subpart.

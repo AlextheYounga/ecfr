@@ -1,0 +1,3 @@
+##### § 27.805 Geographic partitioning and spectrum disaggregation. #####
+
+An entity that acquires a portion of a 1.4 GHz band licensee's geographic area or spectrum subject to a geographic partitioning or spectrum disaggregation agreement under § 27.15 must function as a 1.4 GHz band licensee and is subject to the obligations and restrictions on the 1.4 GHz band license as set forth in this subpart.

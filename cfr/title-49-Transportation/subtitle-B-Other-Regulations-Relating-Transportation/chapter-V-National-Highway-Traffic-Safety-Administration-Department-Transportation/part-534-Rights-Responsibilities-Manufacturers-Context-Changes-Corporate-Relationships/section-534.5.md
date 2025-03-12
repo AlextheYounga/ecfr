@@ -1,0 +1,17 @@
+##### § 534.5 Manufacturers within control relationships. #####
+
+(a) If a civil penalty arises out of a fuel economy or fuel consumption shortfall incurred by a group of manufacturers within a control relationship, each manufacturer within that group is jointly and severally liable for the civil penalty.
+
+(b) A manufacturer is considered to be within a control relationship for an entire model year if and only if it is within that relationship on September 30 of the calendar year in which the model year ends.
+
+(c)(1) For passenger automobiles and light trucks, fuel economy credits of a manufacturer within a control relationship may be used by the group of manufacturers within the control relationship to offset shortfalls, subject to the agreement of the other manufacturers, the availability of the credits, and the general three year restriction on carrying credits forward or backward prior to or during model year 2007, or the general five year restriction on carrying credits forward and the general three-year restriction on carrying credits backward after model year 2007.
+
+(2) For heavy-duty vehicles and heavy-duty engines, credits of a manufacturer within a control relationship may be used by the group of manufacturers within the control relationship to offset shortfalls, subject to the agreement of the other manufacturers, the availability of the credits, the general 5-year restriction on carrying credits forward, and the general three year restriction on offsetting past credit shortfalls as specified in the requirements of 49 CFR 535.7.
+
+(d)(1) For passenger automobiles and light trucks, if a manufacturer within a group of manufacturers is sold or otherwise spun off so that it is no longer within that control relationship, the manufacturer may use credits that were earned by the group of manufacturers within the control relationship while the manufacturer was within that relationship, subject to the agreement of the other manufacturers, the availability of the credits, and the general three-year restriction on carrying credits forward or backward prior to or during model year 2007, or the general five-year restriction on carrying credits forward and the general three-year restriction on carrying credits backward after model year 2007.
+
+(2) For heavy-duty vehicles and heavy-duty vehicle engines, if a manufacturer within a group of manufacturers is sold or otherwise spun off so that it is no longer within that control relationship, the manufacturer may use credits that were earned by the group of manufacturers within the control relationship while the manufacturer was within that relationship, subject to the agreement of the other manufacturers, the availability of the credits, the general 5-year restriction on carrying credits forward, and the general three year restriction on offsetting past credit shortfalls as specified in the requirements of 49 CFR 535.7.
+
+(e) Agreements among manufacturers in a control relationship related to the allocation of credits or liabilities addressed by this section shall be filed with the agency within 60 days of the end of each model year in the same form as specified in section 534.6. The manufacturers may seek confidential treatment for information provided in the certified report in accordance with 49 CFR part 512.
+
+[69 FR 77671, Dec. 28, 2004, as amended at 74 FR 14452, Mar. 30, 2009; 76 FR 57492, Sept. 15, 2011]

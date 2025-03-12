@@ -1,0 +1,3 @@
+##### § 950.504 Records retention. #####
+
+Federations, CCAs and other participants in the CFC shall retain documents pertinent to the campaign for at least three completed campaigns. For example, documentation regarding the 2014 campaign must be retained through the completion of the 2016, 2017 and 2018 campaigns (*i.e.* until early 2020). Documents requested by OPM must be made available within 10 business days of the request.

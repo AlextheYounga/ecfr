@@ -1,0 +1,3 @@
+##### § 801.30 Records from accident investigations. #####
+
+Upon completion of an accident investigation, each NTSB investigator (or “group chairman,” depending on the investigation) shall complete a factual report with supporting documentation and include these items in the public docket for the investigation. The Chief, Records Management Division, will then make the records available to the public for inspection or production by an order for commercial copying.

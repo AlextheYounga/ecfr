@@ -1,0 +1,3 @@
+##### 227.7011 Procurement of rights in inventions, patents, and copyrights. #####
+
+Even though no infringement has occurred or been alleged, it is the policy of the Department of Defense to procure rights under patents, patent applications, and copyrights whenever it is in the Government's interest to do so and the desired rights can be obtained at a fair price. The required and suggested clauses at 252.227-7004 and 252.227-7010 shall be required and suggested clauses, respectively, for license agreements and assignments made under this paragraph. The instructions at 227.7009-3 and 227.7010 concerning the applicability and use of those clauses shall be followed insofar as they are pertinent.

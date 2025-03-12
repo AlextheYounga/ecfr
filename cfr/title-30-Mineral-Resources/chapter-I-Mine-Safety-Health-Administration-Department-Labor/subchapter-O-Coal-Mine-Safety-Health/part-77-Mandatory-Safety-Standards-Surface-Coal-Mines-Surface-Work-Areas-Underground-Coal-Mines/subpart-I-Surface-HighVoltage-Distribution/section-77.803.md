@@ -1,0 +1,3 @@
+##### § 77.803 Fail safe ground check circuits on high-voltage resistance grounded systems. #####
+
+On and after September 30, 1971, all high-voltage, resistance grounded systems shall include a fail safe ground check circuit or other no less effective device approved by the Secretary to monitor continuously the grounding circuit to assure continuity. The fail safe ground check circuit shall cause the circuit breaker to open when either the ground or ground check wire is broken.

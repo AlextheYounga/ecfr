@@ -1,0 +1,3 @@
+##### § 1631.31 Production prohibited unless approved by the Executive Director. #####
+
+No employee or former employee of the Board shall, in response to a demand of a court or other authority, produce any material contained in the files of the Board or disclose any information or produce any material acquired as part of the performance of his or her official status without the prior approval of the Executive Director or his or her designee.

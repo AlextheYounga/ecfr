@@ -1,0 +1,3 @@
+##### § 72.166 Handling, storage, and shipping control. #####
+
+The licensee, applicant for a license, certificate holder, and applicant for a CoC shall establish measures to control, in accordance with work and inspection instructions, the handling, storage, shipping, cleaning, and preservation of materials and equipment to prevent damage or deterioration. When necessary for particular products, special protective environments, such as inert gas atmosphere, and specific moisture content and temperature levels must be specified and provided.

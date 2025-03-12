@@ -1,0 +1,3 @@
+##### 34.100 Scope of subpart. #####
+
+This subpart prescribes policies and procedures for the testing, qualification, and use of industrial resources manufactured or developed with assistance provided under section 301, 302, or 303 of the Defense Production Act (50 U.S.C. App. 2091-2093). Title III of the Defense Production Act authorizes various forms of Government assistance to encourage expansion of production capacity and supply of industrial resources essential to national defense.

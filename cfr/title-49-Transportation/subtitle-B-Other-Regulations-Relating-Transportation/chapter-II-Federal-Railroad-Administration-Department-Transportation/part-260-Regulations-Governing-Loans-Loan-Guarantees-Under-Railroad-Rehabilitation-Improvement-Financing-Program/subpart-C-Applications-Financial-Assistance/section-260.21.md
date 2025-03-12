@@ -1,0 +1,3 @@
+##### § 260.21 Eligibility. #####
+
+The Administrator may make a direct loan to an Applicant, or guarantee the payment of the principal balance and any interest of an obligation of an Applicant prior to, on, or after the date of execution or the date of disbursement of such obligation, if the proceeds of such direct loan or obligation shall be, or have been, used by the Applicant for the eligible purposes listed in § 260.5(a)(1), (2), and (3).

@@ -1,0 +1,7 @@
+##### § 405.355 Waiver of adjustment or recovery. #####
+
+(a) The provisions of § 405.352 may not be applied and there may be no adjustment or recovery of an incorrect payment (i.e., a payment made under § 405.350(a) or § 405.350(b)) in any case where such incorrect payment has been made with respect to an individual who is without fault, or where such adjustment or recovery would be made by decreasing payments to which another person who is without fault is entitled as provided in section 1870(b) of the Act where such adjustment or recovery would defeat the purpose of title II or title XVIII of the Act or would be against equity and good conscience. (See 20 CFR 404.509 and 404.512.)
+
+(b) Adjustment or recovery of an incorrect payment (or only such part of an incorrect payment as may be determined to be inconsistent with the purposes of Title XVIII of the Act) against an individual who is without fault will be deemed to be against equity and good conscience if the incorrect payment was made for items and services that are not payable under section 1862(a)(1) or (a)(9) of the Act and if the determination that such payment was incorrect was made subsequent to the fifth year following the year in which notice of such payment was sent to such individual.
+
+[41 FR 1493, Jan. 8, 1976. Redesignated at 42 FR 52826, Sept. 30, 1977; 78 FR 74810, Dec. 10, 2013]

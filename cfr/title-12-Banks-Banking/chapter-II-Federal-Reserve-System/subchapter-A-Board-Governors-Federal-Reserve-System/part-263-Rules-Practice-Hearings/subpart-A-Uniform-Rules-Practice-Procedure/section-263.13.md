@@ -1,0 +1,3 @@
+##### § 263.13 Change of time limits. #####
+
+Except as otherwise provided by law, the administrative law judge may, for good cause shown, extend the time limits prescribed by the Uniform Rules or by any notice or order issued in the proceedings. After the referral of the case to the Board pursuant to § 263.38, the Board may grant extensions of the time limits for good cause shown. Extensions may be granted at the motion of a party after notice and opportunity to respond is afforded all non-moving parties or *sua sponte* by the Board or the administrative law judge.

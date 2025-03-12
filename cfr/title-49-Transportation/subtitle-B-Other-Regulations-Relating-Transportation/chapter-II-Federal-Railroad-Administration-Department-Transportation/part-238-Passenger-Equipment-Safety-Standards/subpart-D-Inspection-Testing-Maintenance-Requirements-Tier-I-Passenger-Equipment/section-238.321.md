@@ -1,0 +1,5 @@
+##### § 238.321 Out-of-service credit. #####
+
+When a passenger car is out of service for 30 or more consecutive days or is out of service when it is due for any test or inspection required by § 238.307 or § 238.309 an out of use notation showing the number of out of service days shall be made in the records required under §§ 238.307(e) and 238.309(f). If the passenger car is out of service for one or more periods of at least 30 consecutive days, the interval prescribed for any test or inspection required by §§ 238.307 and 238.309 may be extended by the number of days in each period the passenger car is out of service since the last test or inspection in question. A movement made in accordance with § 229.9 of this chapter or § 238.17 is not considered service for the purposes of determining the out-of-service credit.
+
+[71 FR 61862, Oct. 19, 2006]

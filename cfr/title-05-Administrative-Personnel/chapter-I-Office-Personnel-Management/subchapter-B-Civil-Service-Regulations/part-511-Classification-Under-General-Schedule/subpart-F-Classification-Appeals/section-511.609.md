@@ -1,0 +1,3 @@
+##### § 511.609 Ascertainment of facts. #####
+
+The employee, a designated representative, and the agency shall furnish such facts as may be requested by the Office within the time frames specified. The facts shall be in writing when so requested. The Office, in its discretion, may investigate or audit the position. A representative may not participate in OPM on-site audits unless specifically requested to do so by the Office.

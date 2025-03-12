@@ -1,0 +1,3 @@
+##### § 51.13 Emergencies. #####
+
+Whenever emergency circumstances make it necessary and whenever, in other situations, the health and safety of the public may be adversely affected if mitigative or remedial actions are delayed, the Commission may take an action with significant environmental impact without observing the provisions of these regulations. In taking an action covered by this section, the Commission will consult with the Council as soon as feasible concerning appropriate alternative NEPA arrangements.

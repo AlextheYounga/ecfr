@@ -1,0 +1,5 @@
+##### 9903.303 Effect of filing Disclosure Statement. #####
+
+(a) A disclosure of a cost accounting practice by a contractor does not determine the allowability of particular items of cost. Irrespective of the practices disclosed by a contractor, the question of whether or not, or the extent to which, a specific element of cost is allowed under a contract remains for consideration in each specific instance. Contractors are cautioned that the determination of the allowability of cost items will remain a responsibility of the contracting officers pursuant to the provisions of the applicable procurement regulations.
+
+(b) The individual Disclosure Statement may be used in audits of contracts or in negotiation of prices leading to contracts. The authority of the audit agencies and the contracting officers is in no way abrogated by the material presented by the contractor in his Disclosure Statement. Contractors are cautioned that their disclosures must be complete and accurate; the practices disclosed may have a significant impact on ways in which contractors will be required to comply with Cost Accounting Standards.

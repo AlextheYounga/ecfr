@@ -1,0 +1,3 @@
+##### § 501.131 Filing a request for interpretation. #####
+
+A proceeding to request an interpretation is commenced by the filing of a “Request for Interpretation (FUA).” The request must be in writing and must also comply with the general filing requirements stated in § 501.7. Any claims for confidential treatment for any information contained in the request or other related documents must be made pursuant to § 501.7(a)(11). A request for interpretation should be filed with the Assistant General Counsel for Interpretations and Rulings at the address provided in § 501.11.

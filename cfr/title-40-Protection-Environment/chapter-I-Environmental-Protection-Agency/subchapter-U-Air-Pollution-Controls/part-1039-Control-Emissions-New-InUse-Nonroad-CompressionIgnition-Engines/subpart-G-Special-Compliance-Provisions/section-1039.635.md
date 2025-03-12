@@ -1,0 +1,3 @@
+##### § 1039.635 What are the hardship provisions for engine manufacturers? #####
+
+If you qualify for the hardship provisions specified in 40 CFR 1068.245, we may approve a period of delayed compliance for up to one model year total (or two model years total for small-volume manufacturers). If you qualify for the hardship provisions specified in 40 CFR 1068.250 for small-volume manufacturers, we may approve a period of delayed compliance for up to two model years total.

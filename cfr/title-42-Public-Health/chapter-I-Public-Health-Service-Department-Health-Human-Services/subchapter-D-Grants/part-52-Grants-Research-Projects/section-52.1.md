@@ -1,0 +1,7 @@
+##### § 52.1 To which programs do these regulations apply? #####
+
+(a) *General.* The regulations of this party apply to all health-related research project grants administered by the PHS or its components, except for grants for health services research, demonstration, and evaluation projects administered by the Agency for Health Care Policy and Research. These regulations do not apply to research grants that are not for the support of an identified research project (sometimes referred to as general research support grants), grants for the construction or operation of research facilities, grants for prevention or educational programs, demonstration grants, traineeships, training grants, or to the support of research training under the National Research Service Awards program.
+
+(b) *Specific programs covered.* From time to time the Secretary will publish a list of the research project grant programs covered by this part. The list is for informational purposes only and is not intended to restrict the statement of applicability in paragraph (a) of this section. In addition, information on particular research project grant programs, including applications and instructions, may be obtained from the component of the PHS that administers the program.
+
+[61 FR 55105, Oct. 24, 1996.]

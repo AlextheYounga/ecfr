@@ -1,0 +1,3 @@
+##### § 1271.7 Rights, powers, responsibilities, duties, and liabilities. #####
+
+To the extent it is not inconsistent with other provisions of this subpart, the Uniform Commercial Code governs the rights, powers, responsibilities, duties, and liabilities of Banks in the exercise of their authority under this subpart. For purposes of this paragraph, the term “bank,” as used in the Uniform Commercial Code and clearinghouse rules, includes Banks and their members and eligible institutions.

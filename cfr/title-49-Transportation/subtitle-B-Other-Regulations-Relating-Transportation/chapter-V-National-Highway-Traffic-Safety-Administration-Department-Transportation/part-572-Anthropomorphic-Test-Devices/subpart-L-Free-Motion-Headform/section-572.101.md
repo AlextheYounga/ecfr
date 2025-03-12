@@ -1,0 +1,9 @@
+##### § 572.101 General description. #####
+
+(a) The free motion headform consists of the component assembly which is shown in drawings 92041-001 (incorporated by reference; see § 572.100), 92041-002 (incorporated by reference; see § 572.100), 92041-003 (incorporated by reference; see § 572.100), 92041-004 (incorporated by reference; see § 572.100), 92041-005 (incorporated by reference; see § 572.100), 92041-006 (incorporated by reference; see § 572.100), 92041-008 (incorporated by reference; see § 572.100), 92041-009 (incorporated by reference; see § 572.100), 92041-011 (incorporated by reference; see § 572.100), 78051-148 (incorporated by reference; see § 572.100), 78051-228/78051-229 (incorporated by reference; see § 572.100), 78051-339 (incorporated by reference; see § 572.100), 78051-372 (incorporated by reference; see § 572.100), C-1797 (incorporated by reference; see § 572.100), and SA572-S4 (incorporated by reference; see § 572.100).
+
+(b) Disassembly, inspection, and assembly procedures, and sign convention for the signal outputs of the free motion headform accelerometers, are set forth in the Free-Motion Headform User's Manual (incorporated by reference; see § 572.100).
+
+(c) The structural properties of the headform are such that it conforms to this part in every respect both before and after being used in the test specified in Standard No. 201 of this chapter (§ 571.201).
+
+(d) The outputs of accelerometers installed in the headform are recorded in individual data channels that conform to the requirements of SAE Recommended Practice J211, OCT 1988, “Instrumentation for Impact Tests,” Class 1000 (incorporated by reference; see § 572.100).

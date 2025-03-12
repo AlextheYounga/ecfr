@@ -1,0 +1,5 @@
+##### § 9301.1 In general. #####
+
+This information is furnished for the guidance of the public and in compliance with the requirements of the Freedom of Information Act (FOIA), 5 U.S.C. 552, as amended. This subpart should be read in conjunction with the FOIA. The Freedom of Information Act applies to third-party requests for documents concerning the general activities of the government and of SIGAR in particular. When a U.S. citizen or an individual lawfully admitted for permanent residence requests access to his or her own records, it is considered a Privacy Act request. Such records are maintained by SIGAR under the individual's name or personal identifier. Although requests are considered either FOIA requests for Privacy Act requests, agencies process requests in accordance with both laws, which provides the greatest degree of lawful access while safeguarding an individual's privacy.
+
+[77 FR 38171, June 27, 2012]

@@ -1,0 +1,11 @@
+##### § 611.109 Audit and access to records. #####
+
+(a) The Agreement and related documents shall provide that:
+
+(1) DOE in conjunction with the Federal Financing Bank, as applicable, and the Borrower, shall keep such records concerning the project as are necessary, including the Application, Term Sheet, Conditional Commitment, Agreement, mortgage, note, disbursement requests and supporting documentation, financial statements, audit reports of independent accounting firms, lists of all project assets and non-project assets pledged as security for the loan, all off-take and other revenue producing agreements, documentation for all project indebtedness, income tax returns, technology agreements, documentation for all permits and regulatory approvals and all other documents and records relating to the Eligible Project, as determined by the Secretary, to facilitate an effective audit and performance evaluation of the project; and
+
+(2) The Secretary and the Comptroller General, or their duly authorized representatives, shall have access, for the purpose of audit and examination, to any pertinent books, documents, papers and records of the Borrower or DOE, as applicable. Such inspection may be made during regular office hours of the Borrower or DOE, as applicable, or at any other time mutually convenient.
+
+(b) The Secretary may from time to time audit any or all statements or certificates submitted to the Secretary. The Borrower will make available to the Secretary all books and records and other data available to the Borrower in order to permit the Secretary to carry out such audits. The Borrower should represent that it has within its rights access to all financial and operational records and data relating to the project financed by the loan, and agrees that it will, upon request by the Secretary, exercise such rights in order to make such financial and operational records and data available to the Secretary. In exercising its rights hereunder, the Secretary may utilize employees of other Federal agencies, independent accountants, or other persons.
+
+(c) Loan funds are being expended efficiently and effectively if documentation submitted and audits conducted under this section demonstrate that the borrower is making appropriate progress toward achieving the purpose for which the loan was originally made.

@@ -1,0 +1,3 @@
+##### § 42.80 Certificate. #####
+
+After the Board issues a final written decision in an *inter partes* review, post-grant review, or covered business method patent review and the time for appeal has expired or any appeal has terminated, the Office will issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent any new or amended claim determined to be patentable by operation of the certificate.

@@ -1,0 +1,9 @@
+##### § 1185.1 Definitions and scope of regulations. #####
+
+(a) This part addresses the requirement of 49 U.S.C. 11328 authorization of the Surface Transportation Board (STB) needed for a person to hold the position of officer or director of more than one rail carrier, except where only Class III carriers are involved. STB authorization is not needed for individuals seeking to hold the positions of officers or directors only of Class III railroads. 49 U.S.C. 11328(b).
+
+(b) When a person is an officer of a Class I railroad and seeks to become an officer of another Class I railroad, an application under 49 U.S.C. 11328(a) (or petition for individual exemption under 49 U.S.C. 10502) must be filed. All other “interlocking directorates” have been exempted as a class from the prior approval requirements of 49 U.S.C. 11328(a), pursuant to 49 U.S.C. 10502 and former 49 U.S.C. 10505. For such interlocking directorates exempted as a class, no filing with the STB is necessary to invoke the exemption.
+
+(c) An *interlocking directorate* exists whenever an individual holds the position of officer or director of one rail carrier and assumes the position of officer or director of another rail carrier. This provision applies to any person who performs duties, or any of the duties, ordinarily performed by a director, president, vice president, secretary, treasurer, general counsel, general solicitor, general attorney, comptroller, general auditor, general manager, freight traffic manager, passenger traffic manager, chief engineer, general superintendent, general land and tax agent or chief purchasing agent.
+
+(d) For purposes of this part, a *rail carrier* means a person providing common carrier railroad transportation for compensation (except a street, suburban, or interurban electric railway not operating as part of the general system of rail transportation), and a corporation organized to provide such transportation.

@@ -1,0 +1,3 @@
+##### § 12.101 Purpose. #####
+
+The purpose of this part is to effectuate section 119 of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, which amended section 504 of the Rehabilitation Act of 1973 to prohibit discrimination on the basis of handicap in programs or activities conducted by Executive agencies or the U.S. Postal Service. Section 504 regulations applicable to recipients of financial assistance from the Environmental Protection Agency (EPA) may be found at 40 CFR part 7 (1986).

@@ -1,0 +1,7 @@
+##### § 821.12 Amendment and withdrawal of pleadings. #####
+
+(a) *Amendment.* At any time more than 15 days prior to the hearing, a party may amend its pleadings by filing an amended pleading with the Board and serving copies thereof on all other parties. After that time, amendment shall be allowed only at the discretion of the law judge. In the case of amendment of an answerable pleading, the law judge shall allow any adverse party a reasonable time to object or answer. Amendments to complaints shall be consistent with the requirements of 49 U.S.C. 44709(c) and 44710(c).
+
+(b) *Withdrawal.* Except in the case of a petition for review, an appeal to the Board, a complaint, or an appeal from a law judge's initial decision or appealable order, pleadings may be withdrawn only upon approval of the law judge or the Board. The law judge may dismiss the case after receiving a motion to dismiss based on withdrawal of the complaint. The law judge shall accept arguments or motions, oral or written, from the parties, if offered, on the issue of whether a dismissal resulting from the withdrawal of a complaint should be deemed to occur with or without prejudice.
+
+[68 FR 22625, Apr. 29, 2003, as amended at 77 FR 63252, Oct. 16, 2012]

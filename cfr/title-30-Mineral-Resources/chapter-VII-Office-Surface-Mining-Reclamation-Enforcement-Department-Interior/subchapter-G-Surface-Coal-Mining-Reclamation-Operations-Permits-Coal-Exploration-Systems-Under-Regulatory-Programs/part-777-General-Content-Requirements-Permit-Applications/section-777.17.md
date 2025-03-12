@@ -1,0 +1,3 @@
+##### § 777.17 Permit fees. #####
+
+An application for a surface coal mining and reclamation permit shall be accompanied by a fee determined by the regulatory authority. The fee may be less than, but shall not exceed, the actual or anticipated cost of reviewing, administering, and enforcing the permit. The regulatory authority may develop procedures to allow the fee to be paid over the term of the permit.

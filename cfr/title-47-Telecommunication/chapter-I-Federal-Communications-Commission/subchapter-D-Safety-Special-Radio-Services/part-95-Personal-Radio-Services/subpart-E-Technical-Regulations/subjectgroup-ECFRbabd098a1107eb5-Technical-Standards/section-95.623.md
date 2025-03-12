@@ -1,0 +1,13 @@
+##### § 95.623 R/C transmitter channel frequencies. #####
+
+                                                                                                                                                                                                                                                                                                                                                        (a) The R/C transmitter channel frequencies are:
+
+                                                                                                                                                                                                                                                                                                                                                        MHz26.99527.04527.09527.14527.19527.25572.0172.0372.0572.0772.0972.1172.1372.1572.1772.1972.2172.2372.2572.2772.2972.3172.3372.3572.3772.3972.4172.4372.4572.4772.4972.5172.5372.5572.5772.5972.6172.6372.6572.6772.6972.7172.7372.7572.7772.7972.8172.8372.8572.8772.8972.9172.9372.9572.9772.9975.4175.4375.4575.4775.4975.5175.5375.5575.5775.5975.6175.6375.6575.6775.6975.7175.7375.7575.7775.7975.8175.8375.8575.8775.8975.9175.9375.9575.9775.99Note:
+
+Certain R/C transmitter channel frequencies are authorized to operate only certain kinds of devices (see part 95, subpart C.)
+
+(b) Each R/C transmitter that transmits in the 26-27 MHz frequency band with a mean TP of 2.5 W or less and that is used solely by the operator to turn on and/or off a device at a remote location, other than a device used solely to attract attention, must be maintained within a fequency tolerance of 0.01%. All other R/C transmitters that transmit in the 26-27 MHz frequency band must be maintained within a frequency tolerance of 0.005%. Except as noted in paragraph (c) of this section, R/C transmitters capable of operation in the 72-76 MHz band must be maintained within a frequency tolerance of 0.005%.
+
+(c) All R/C transmitters capable of operation in the 72-76 MHz band that are manufactured in or imported into the United States, on or after March 1, 1992, or are marketed on or after March 1, 1993, must be maintained within a frequency tolerance of 0.002%. R/C transmitters operating in the 72-76 MHz band and marketed before March 1, 1993, may continue to be operated with a frequency tolerance of 0.005% until March 1, 1998.
+
+[53 FR 36789, Sept. 22, 1988; 53 FR 52713, Dec. 29, 1988; 56 FR 15837, Apr. 18, 1991]

@@ -1,0 +1,3 @@
+##### § 250.201 Coverage and purpose. #####
+
+The Chief Human Capital Officers (CHCO) Act of 2002 acknowledges the critical importance of Federal employees to the effective and efficient operation of Government. As a part of OPM's overall leadership responsibilities in the strategic management of the Federal civil service, and pursuant to 5 U.S.C. 1103, OPM is responsible for designing a set of systems, including standards and metrics, for assessing the management of human capital by Federal agencies. In this subpart, OPM establishes a framework of those systems, including system components, OPM's role, and agency responsibilities.

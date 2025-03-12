@@ -1,0 +1,3 @@
+##### § 1112.3 Default for failure to comply with schedule; effect of default. #####
+
+If a party fails to comply with the schedule for submission of verified statements, or any other requirements established by the modified procedure decision, that party will be deemed to be in default and to have waived any further participation in the proceeding. Thereafter, the proceeding may be disposed of without notice to and without participation by parties in default.

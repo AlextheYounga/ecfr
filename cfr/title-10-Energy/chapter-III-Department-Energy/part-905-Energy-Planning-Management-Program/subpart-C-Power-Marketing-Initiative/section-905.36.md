@@ -1,0 +1,3 @@
+##### § 905.36 Marketing criteria. #####
+
+Western shall retain applicable provisions of existing marketing criteria for projects where resource commitments are extended beyond the current expiration date of long-term firm power sales contracts. Western must retain important marketing plan provisions such as classes of service, marketing area, and points of delivery, to the extent that these provisions are consistent with the PMI. The PMI, eligibility and allocation criteria for potential new customers, retained or amended provisions of existing marketing criteria, the project-specific resource definition, and the size of a project-specific resource pool shall constitute the future marketing plan for each project.

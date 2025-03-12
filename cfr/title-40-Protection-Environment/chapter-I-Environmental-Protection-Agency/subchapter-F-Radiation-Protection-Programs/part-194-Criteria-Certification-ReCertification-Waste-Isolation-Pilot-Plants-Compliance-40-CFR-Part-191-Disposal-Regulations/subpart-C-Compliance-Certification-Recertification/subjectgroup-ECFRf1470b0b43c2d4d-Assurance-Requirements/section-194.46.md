@@ -1,0 +1,3 @@
+##### § 194.46 Removal of waste. #####
+
+Any compliance application shall include documentation which demonstrates that removal of waste from the disposal system is feasible for a reasonable period of time after disposal. Such documentation shall include an analysis of the technological feasibility of mining the sealed disposal system, given technology levels at the time a compliance application is prepared.

@@ -1,0 +1,9 @@
+##### § 1208.42 Administrative offset prior to completion of procedures. #####
+
+FHFA shall not be required to follow the procedures described in § 1208.43 where:
+
+(a) Prior to the completion of the procedures described in § 1208.43, FHFA may effect administrative offset if failure to offset would substantially prejudice its ability to collect the debt, and if the time before the payment is to be made does not reasonably permit completion of the procedures described in § 1208.43. Such prior administrative offset shall be followed promptly by the completion of the procedures described in § 1208.43. Amounts recovered by administrative offset but later found not to be owed to FHFA shall be promptly refunded. This section applies only to administrative offset pursuant to 31 CFR 901.3(c), and does not apply when debts are referred to the Department of the Treasury for mandatory centralized administrative offset under 31 CFR 901.3(b)(1).
+
+(b) The administrative offset is in the nature of a recoupment (*i.e.,* FHFA may offset a payment due to the debtor when both the payment due to the debtor and the debt owed to FHFA arose from the same transaction); or
+
+(c) In the case of non-centralized administrative offsets, FHFA first learns of the existence of a debt due when there would be insufficient time to afford the debtor due process under these procedures before the paying agency makes payment to the debtor; in such cases, the Director shall give the debtor notice and an opportunity for review as soon as practical and shall refund any money ultimately found not to be due to the Federal Government.

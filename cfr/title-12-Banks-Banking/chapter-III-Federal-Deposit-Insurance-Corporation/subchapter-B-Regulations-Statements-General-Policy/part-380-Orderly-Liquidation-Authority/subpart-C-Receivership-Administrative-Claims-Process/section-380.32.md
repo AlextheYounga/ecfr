@@ -1,0 +1,3 @@
+##### § 380.32 Claims bar date. #####
+
+Upon its appointment as receiver for a covered financial company, the Corporation as receiver shall establish a claims bar date by which date creditors of the covered financial company shall present their claims, together with proof, to the receiver. The claims bar date shall be not less than 90 days after the date on which the notice to creditors to file claims is first published under § 380.33(a).

@@ -1,0 +1,3 @@
+##### § 234.231 Fouling wires. #####
+
+Each set of fouling wires in a highway-rail grade crossing train detection circuit shall consist of at least two discrete conductors. Each conductor shall be of sufficient conductivity and shall be maintained in such condition to ensure proper operation of the train detection apparatus when the train detection circuit is shunted. Installation of a single duplex wire with single plug acting as fouling wires is prohibited. Existing installations having single duplex wires with a single plug for fouling wires may be continued in use until they require repair or replacement.

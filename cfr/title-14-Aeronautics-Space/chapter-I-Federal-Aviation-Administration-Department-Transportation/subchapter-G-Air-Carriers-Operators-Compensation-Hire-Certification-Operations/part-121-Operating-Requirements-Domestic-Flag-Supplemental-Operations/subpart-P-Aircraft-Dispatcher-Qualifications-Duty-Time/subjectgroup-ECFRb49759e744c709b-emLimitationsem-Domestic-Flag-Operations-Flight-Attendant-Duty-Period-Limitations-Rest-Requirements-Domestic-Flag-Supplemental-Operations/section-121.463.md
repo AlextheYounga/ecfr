@@ -1,0 +1,17 @@
+##### § 121.463 Aircraft dispatcher qualifications. #####
+
+(a) No certificate holder conducting domestic or flag operations may use any person, nor may any person serve, as an aircraft dispatcher for a particular airplane group unless that person has, with respect to an airplane of that group, satisfactorily completed the following:
+
+(1) Initial dispatcher training, except that a person who has satisfactorily completed such training for another type airplane of the same group need only complete the appropriate transition training.
+
+(2) Operating familiarization consisting of at least 5 hours observing operations under this part from the flight deck or, for airplanes without an observer seat on the flight deck, from a forward passenger seat with headset or speaker. This requirement may be reduced to a minimum of 21/2 hours by the substitution of one additional takeoff and landing for an hour of flight. A person may serve as an aircraft dispatcher without meeting the requirement of this paragraph (a) for 90 days after initial introduction of the airplane into operations under this part.
+
+(b) No certificate holder conducting domestic or flag operations may use any person, nor may any person serve, as an aircraft dispatcher for a particular type airplane unless that person has, with respect to that airplane, satisfactorily completed differences training, if applicable.
+
+(c) No certificate holder conducting domestic or flag operations may use any person, nor may any person serve, as an aircraft dispatcher unless within the preceding 12 calendar months the aircraft dispatcher has satisfactorily completed operating familiarization consisting of at least 5 hours observing operations under this part, in one of the types of airplanes in each group to be dispatched. This observation shall be made from the flight deck or, for airplanes without an observer seat on the flight deck, from a forward passenger seat with headset or speaker. The requirement of paragraph (a) of this section may be reduced to a minimum of 21/2 hours by the substitution of one additional takeoff and landing for an hour of flight. The requirement of this paragraph may be satisfied by observation of 5 hours of simulator training for each airplane group in one of the simulators approved under § 121.407 for the group. However, if the requirement of paragraph (a) is met by the use of a simulator, no reduction in hours is permitted.
+
+(d) No certificate holder conducting domestic or flag operations may use any person, nor may any person serve as an aircraft dispatcher to dispatch airplanes in operations under this part unless the certificate holder has determined that he is familiar with all essential operating procedures for that segment of the operation over which he exercises dispatch jurisdiction. However, a dispatcher who is qualified to dispatch airplanes through one segment of an operation may dispatch airplanes through other segments of the operation after coordinating with dispatchers who are qualified to dispatch airplanes through those other segments.
+
+(e) For the purposes of this section, the airplane groups, terms, and definitions in § 121.400 apply.
+
+[Doc. No. 7325, 37 FR 5607, Mar. 17, 1972, as amended by Amdt. 121-251, 60 FR 65934, Dec. 20, 1995]

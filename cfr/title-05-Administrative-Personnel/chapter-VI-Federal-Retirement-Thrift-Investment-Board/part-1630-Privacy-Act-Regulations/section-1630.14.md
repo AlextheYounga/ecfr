@@ -1,0 +1,9 @@
+##### § 1630.14 Appeals process. #####
+
+(a) Within 20 work days of receiving the request for review, the Executive Director will make a final determination on appeal. If a final decision cannot be made in 20 work days, the Privacy Act Officer will inform the requester of the reasons for the delay and the date on which a final decision can be expected. Such extensions are unusual, and should not exceed an additional 30 work days.
+
+(b) If the original request was for access and the initial determination is reversed, the procedures in § 1630.7 will be followed. If the initial determination is upheld, the requester will be so informed and advised of the right to judicial review pursuant to 5 U.S.C. 552a(g).
+
+(c) If the initial denial of a request to amend a record is reversed, the Board or the record keeper will correct the record as requested and inform the individual of the correction. If the original decision is upheld, the requester will be informed and notified in writing of the right to judicial review pursuant to 5 U.S.C. 552a(g) and the right to file a concise statement of disagreement with the Executive Director. The statement of disagreement should include an explanation of why the requester believes the record is inaccurate, irrelevant, untimely, or incomplete. The Executive Director shall maintain the statement of disagreement with the disputed record, and shall include a copy of the statement of disagreement to any person or agency to whom the record has been disclosed, if the disclosure was made pursuant to § 1630.9.
+
+[55 FR 18852, May 7, 1990, as amended at 64 FR 67695, Dec. 3, 1999; 79 FR 68094, Nov. 14, 2014]

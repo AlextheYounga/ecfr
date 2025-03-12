@@ -1,0 +1,7 @@
+##### 34.103 Testing and qualification. #####
+
+(a) Contractors receiving requests from a Title III project contractor for testing and qualification of a Title III industrial resource shall refer such requests to the contracting officer. The contracting officer shall evaluate the request in accordance with agency procedures to determine whether: (1) the Title III industrial resource is being or potentially may be used in the development or manufacture of a major system or item of supply; and (2) for major systems in production, remaining quantities to be acquired are sufficient to justify incurring the cost of testing and qualification. In evaluating this request, the contracting officer shall consult with the Defense Production Act Office, Title III Program, located at Wright Patterson Air Force Base, Ohio 45433-7739.
+
+(b) If the determination at 34.103(a) is affirmative, the contracting officer shall modify the contract to require the contractor to test the Title III industrial resource for qualification.
+
+(c) The Defense Production Act Office, Title III Program, shall provide to the contractor the industrial resource produced by the Title III project contractor in sufficient amounts to meet testing needs.

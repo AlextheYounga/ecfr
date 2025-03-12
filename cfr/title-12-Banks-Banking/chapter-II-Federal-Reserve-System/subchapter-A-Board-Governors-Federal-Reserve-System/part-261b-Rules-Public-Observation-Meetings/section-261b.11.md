@@ -1,0 +1,9 @@
+##### § 261b.11 Transcripts, recordings, and minutes. #####
+
+(a) The agency will maintain a complete transcript or electronic recording or transcription thereof adequate to record fully the proceedings of each meeting or portion of a meeting closed to public observation pursuant to exemption (a)(1), (a)(2), (a)(3), (a)(4), (a)(5), (a)(6), (a)(7) or (a)(9)(ii) of § 261b.5 of this part. Transcriptions of recordings will disclose the identity of each speaker.
+
+(b) The agency will maintain either such a transcript, recording or transcription thereof, or a set of minutes that will fully and clearly describe all matters discussed and provide a full and accurate summary of any actions taken and the reasons therefor, including a description of each of the views expressed on any item and the record of any roll call vote (reflecting the vote of each member on the question), for meetings or portions of meetings closed to public observation pursuant to exemptions (a)(8), (a)(9)(A) or (a)(10) of § 261b.5 of this part. The minutes will identify all documents considered in connection with any action taken.
+
+(c) Transcripts, recordings or transcriptions thereof, or minutes will promptly be made available to the public in the Freedom of Information Office except for such item or items of such discussion or testimony as may be determined to contain information that may be withheld under subsection (c) of the Act and § 261b.5 of this part.
+
+(d) A complete verbatim copy of the transcript, a complete copy of the minutes, or a complete electronic recording or verbatim copy of a transcription thereof of each meeting or portion of a meeting closed to public observation will be maintained for a period of at least two years or one year after the conclusion of any agency proceeding with respect to which the meeting or portion thereof was held, whichever occurs later.

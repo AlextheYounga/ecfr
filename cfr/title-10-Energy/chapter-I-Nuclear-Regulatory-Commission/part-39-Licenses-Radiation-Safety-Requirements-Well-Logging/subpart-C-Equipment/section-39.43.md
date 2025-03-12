@@ -1,0 +1,11 @@
+##### § 39.43 Inspection, maintenance, and opening of a source or source holder. #####
+
+(a) Each licensee shall visually check source holders, logging tools, and source handling tools, for defects before each use to ensure that the equipment is in good working condition and that required labeling is present. If defects are found, the equipment must be removed from service until repaired, and a record must be made listing: the date of check, name of inspector, equipment involved, defects found, and repairs made. These records must be retained for 3 years after the defect is found.
+
+(b) Each licensee shall have a program for semiannual visual inspection and routine maintenance of source holders, logging tools, injection tools, source handling tools, storage containers, transport containers, and uranium sinker bars to ensure that the required labeling is legible and that no physical damage is visible. If defects are found, the equipment must be removed from service until repaired, and a record must be made listing: date, equipment involved, inspection and maintenance operations performed, any defects found, and any actions taken to correct the defects. These records must be retained for 3 years after the defect is found.
+
+(c) Removal of a sealed source from a source holder or logging tool, and maintenance on sealed sources or holders in which sealed sources are contained may not be performed by the licensee unless a written procedure developed pursuant to § 39.63 has been approved either by the Commission pursuant to § 39.13(c) or by an Agreement State.
+
+(d) If a sealed source is stuck in the source holder, the licensee may not perform any operation, such as drilling, cutting, or chiseling, on the source holder unless the licensee is specifically approved by the Commission or an Agreement State to perform this operation.
+
+(e) The opening, repair, or modification of any sealed source must be performed by persons specifically approved to do so by the Commission or an Agreement State.

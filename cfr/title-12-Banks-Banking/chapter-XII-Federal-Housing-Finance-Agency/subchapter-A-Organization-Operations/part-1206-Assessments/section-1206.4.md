@@ -1,0 +1,7 @@
+##### § 1206.4 Increased costs of regulation. #####
+
+(a) *Increase for inadequate capitalization.* The Director may, at his or her discretion, increase the amount of a semiannual payment allocated to a Regulated Entity that is not classified as adequately capitalized to pay additional estimated costs of regulation of that Regulated Entity.
+
+(b) *Increase for enforcement activities.* The Director may, at his or her discretion, adjust the amount of a semiannual payment allocated to a Regulated Entity to ensure that the Regulated Entity bears the estimated costs of enforcement activities under the Act related to that Regulated Entity.
+
+(c) *Additional assessment for deficiencies.* At any time, the Director may make and collect from any Regulated Entity an assessment, payable immediately or through increased semiannual payments, to cover the estimated amount of any deficiency for the semiannual period as a result of increased costs of regulation of a Regulated Entity due to its classification as other than adequately capitalized, or as a result of enforcement activities related to that Regulated Entity. Any amount remaining from such additional assessment and the semiannual payments at the end of any semiannual period during which such an additional assessment is made shall be deducted *pro rata* (based upon the amount of the additional assessments) from the assessment for the following semiannual period for that Regulated Entity.

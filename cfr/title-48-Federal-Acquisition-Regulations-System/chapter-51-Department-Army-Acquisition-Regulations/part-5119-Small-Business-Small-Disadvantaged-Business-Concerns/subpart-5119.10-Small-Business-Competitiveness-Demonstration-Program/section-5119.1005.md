@@ -1,0 +1,3 @@
+##### 5119.1005 Applicability. #####
+
+(S-90) The program shall apply to solicitations issued by the Department of the Army Corps of Engineers buying activities for the procurement of dredging under SIC 1629 (Dredging and Surface Cleanup Activities), limited to Federal Procurement Data Systems (FPDS) codes Y216 and Z216. This includes both maintenance dredging and new start (new work) construction dredging. Dredging to be performed by Government forces utilizing the Federally owned fleet pursuant to 33 U.S.C. 622 is not subject to the program.

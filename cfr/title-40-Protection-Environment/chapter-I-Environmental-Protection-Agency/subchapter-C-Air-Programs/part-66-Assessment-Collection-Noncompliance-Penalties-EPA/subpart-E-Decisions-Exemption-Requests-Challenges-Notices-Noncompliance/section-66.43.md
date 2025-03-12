@@ -1,0 +1,3 @@
+##### § 66.43 Final decision; submission of penalty calculation. #####
+
+Within forty-five days after EPA has notified the owner or operator of a source of the final Agency decision that it is in violation of applicable legal requirements or is not entitled to an exemption, the owner or operator shall submit the information required by § 66.13(a), including appropriate compliance and payment schedules and extra interest owed for the period of delay. The penalty shall be calculated from the date of receipt of the original notice of noncompliance.

@@ -1,0 +1,3 @@
+##### § 1805.802 Payment of funds. #####
+
+Assistance provided pursuant to this part may be provided in a lump sum or over a period of time, as determined appropriate by the CDFI Fund. The CDFI Fund shall not provide any assistance under this part until a Recipient has satisfied any required conditions set forth in its Assistance Agreement and, if the Recipient is to receive financial assistance, the Recipient has secured in-hand and/or firm commitments for the matching funds required for such assistance pursuant to the applicable Notice of Funds Availability.

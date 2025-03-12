@@ -1,0 +1,5 @@
+##### § 882.10 Information collection. #####
+
+In accordance with 44 U.S.C. 3501 *et seq.,* the Office of Management and Budget (OMB) has approved the information collection requirements of part 882 and assigned it control number 1029-0057. This information is being collected to meet the mandate of section 408 of SMCRA, which allows the State or Indian tribe to file liens on private property that has been reclaimed under certain conditions. This information will be used by the regulatory authority to ensure that the State or Indian tribe has sufficient programmatic capability to file liens to recover costs for reclaiming private lands. States and Indian tribes are required to respond to obtain a benefit in accordance with SMCRA. A Federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+
+[73 FR 67642, Nov. 14, 2008]

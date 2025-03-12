@@ -1,0 +1,3 @@
+##### § 9701.232 Special transition rules for Federal Air Marshal Service. #####
+
+Notwithstanding any other provision in this subpart, if DHS transfers Federal Air Marshal Service positions from the Transportation Security Administration (TSA) to another organization within DHS, DHS may cover those positions under a classification system that is parallel to the classification system that was applicable to the Federal Air Marshal Service within TSA. DHS may, after coordination with OPM, modify that system. DHS will issue implementing directives on converting Federal Air Marshal Service employees to any new classification system that may subsequently be established under this subpart, consistent with the conversion rules in § 9701.231.

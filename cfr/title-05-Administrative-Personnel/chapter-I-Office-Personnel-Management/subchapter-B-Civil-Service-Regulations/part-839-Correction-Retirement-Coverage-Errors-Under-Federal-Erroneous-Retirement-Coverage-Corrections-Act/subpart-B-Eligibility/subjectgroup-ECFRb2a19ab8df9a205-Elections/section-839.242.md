@@ -1,0 +1,3 @@
+##### § 839.242 Do these rules apply to me if I had multiple errors? #####
+
+You must be in the wrong retirement plan for at least 3 years of Federal service after December 31, 1986. You need not be in the same wrong retirement plan during the entire 3-year period. If you had more than one type of erroneous retirement coverage, then you will have a retirement plan election under these rules if one of the errors is of a type that qualifies you for an election.

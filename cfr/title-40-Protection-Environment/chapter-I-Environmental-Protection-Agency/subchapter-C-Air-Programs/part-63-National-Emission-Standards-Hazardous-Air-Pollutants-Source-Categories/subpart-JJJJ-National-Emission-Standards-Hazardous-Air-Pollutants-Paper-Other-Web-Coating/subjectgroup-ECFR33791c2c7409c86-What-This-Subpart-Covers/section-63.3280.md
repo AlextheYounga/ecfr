@@ -1,0 +1,3 @@
+##### § 63.3280 What is in this subpart? #####
+
+This subpart describes the actions you must take to reduce emissions of organic hazardous air pollutants (HAP) from paper and other web coating operations. This subpart establishes emission standards for web coating lines and specifies what you must do to comply if you own or operate a facility with web coating lines that is a major source of HAP. Certain requirements apply to all who are subject to this subpart; others depend on the means you use to comply with an emission standard.

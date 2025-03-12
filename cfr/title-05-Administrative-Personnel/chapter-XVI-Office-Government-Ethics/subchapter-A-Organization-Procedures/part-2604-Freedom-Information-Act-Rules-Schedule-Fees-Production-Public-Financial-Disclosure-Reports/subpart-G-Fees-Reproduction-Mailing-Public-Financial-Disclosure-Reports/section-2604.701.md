@@ -1,0 +1,3 @@
+##### § 2604.701 Policy. #####
+
+Fees for the reproduction and mailing of public financial disclosure reports requested pursuant to section 105 of the Ethics in Government Act of 1978, as amended, and § 2634.603 of this chapter will be assessed according to the schedule contained in § 2604.702. Requesters will pay fees by check or money order made payable to the Treasury of the United States. Except as provided in § 2604.702(d), nothing concerning fees in subpart E of this part supersedes the charges set forth in this subpart for records covered in this subpart.

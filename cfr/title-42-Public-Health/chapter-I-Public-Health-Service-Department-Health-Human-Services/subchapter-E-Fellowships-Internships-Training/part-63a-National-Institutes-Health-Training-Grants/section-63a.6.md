@@ -1,0 +1,3 @@
+##### § 63a.6 How are training grant applications evaluated? #####
+
+The Secretary shall evaluate applications through the officers and employees, experts, consultants, or groups engaged by the Secretary for that purpose, including review or consultation with the appropriate advisory council or other body as may be required by law. The Secretary's evaluation will be for merit and shall take into account, among other pertinent factors, the significance of the program, the qualifications and competency of the program director and proposed staff, the adequacy of the selection criteria for trainees under the program, the adequacy of the applicant's resources available for the program, and the amount of grant funds necessary for completion of its objectives.

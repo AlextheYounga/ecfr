@@ -1,0 +1,3 @@
+##### § 77.502 Electric equipment; examination, testing, and maintenance. #####
+
+Electric equipment shall be frequently examined, tested, and properly maintained by a qualified person to assure safe operating conditions. When a potentially dangerous condition is found on electric equipment, such equipment shall be removed from service until such condition is corrected. A record of such examinations shall be kept.

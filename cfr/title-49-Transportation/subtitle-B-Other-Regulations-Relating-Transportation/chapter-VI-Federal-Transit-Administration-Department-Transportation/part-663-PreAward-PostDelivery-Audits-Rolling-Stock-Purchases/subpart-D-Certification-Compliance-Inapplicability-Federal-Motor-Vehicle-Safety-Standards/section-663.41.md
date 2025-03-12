@@ -1,0 +1,3 @@
+##### § 663.41 Certification of compliance with Federal motor vehicle safety standards. #####
+
+If a vehicle purchased under this part is subject to the Federal Motor Vehicle Safety Standards issued by the National Highway Traffic Safety Administration in part 571 of this title, a recipient shall keep on file its certification that it received, both at the pre-award and post-delivery stage, a copy of the manufacturer's self-certification information that the vehicle complies with relevant Federal Motor Vehicle Safety Standards.

@@ -1,0 +1,5 @@
+##### § 51.320 Assumption of responsibility by the Commission. #####
+
+If a state commission fails to exercise its authority under § 51.319, any party seeking that the Commission step into the role of the state commission shall file with the Commission and serve on the state commission a petition that explains with specificity the bases for the petition and information that supports the claim that the state commission has failed to act. Subsequent to the Commission's issuing a public notice and soliciting comments on the petition from interested parties, the Commission will rule on the petition within 90 days of the date of the public notice. If it agrees that the state commission has failed to act, the Commission will assume responsibility for the proceeding, and within nine months from the date it assumed responsibility for the proceeding, make any findings in accordance with the Commission's rules.
+
+[68 FR 52305, Sept. 2, 2003]

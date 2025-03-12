@@ -1,0 +1,3 @@
+##### § 35.9 Disposition of money and effects left by other than deceased patients. #####
+
+Money and effects left on the premises by a patient shall be forwarded promptly to him. If because his whereabouts are unknown his money and effects cannot be delivered to him within 120 days after his departure, his money shall be deposited into the Treasury and credited to the account entitled “Money and Effects of Former Patients (PHS (T) name of patient),” and his effects shall be held for him for six months and then sold in accordance with § 35.49, and the proceeds deposited into the Treasury and credited to the above account.

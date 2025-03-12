@@ -1,0 +1,9 @@
+##### § 416.167 Basis of payment. #####
+
+(a) *Unit of payment.* Under the ASC payment system, prospectively determined amounts are paid for ASC services furnished to Medicare beneficiaries in connection with covered surgical procedures. Covered surgical procedures and covered ancillary services are identified by codes established under the Healthcare Common Procedure Coding System (HCPCS). The unadjusted national payment rate is determined according to the methodology described in § 416.171. The manner in which the Medicare payment amount and the beneficiary coinsurance amount for each ASC service is determined is described in § 416.172.
+
+(b) *Ambulatory payment classification (APC) groups and payment weights.* (1) ASC covered surgical procedures are classified using the APC groups described in § 419.31 of this subchapter.
+
+(2) For purposes of calculating ASC national payment rates under the methodology described in § 416.171, except as specified in paragraph (b)(3) of this section, an ASC relative payment weight is determined based on the APC relative payment weight for each covered surgical procedure and covered ancillary service that has an applicable APC relative payment weight described in § 419.31 of this subchapter.
+
+(3) Notwithstanding paragraph (b)(2) of this section, the relative payment weights for services paid in accordance with § 416.171(d) are determined so that the national ASC payment rate does not exceed the unadjusted nonfacility practice expense amount paid under the Medicare physician fee schedule for such procedures under subpart B of part 414 of this subchapter.

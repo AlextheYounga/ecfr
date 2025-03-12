@@ -1,0 +1,3 @@
+##### 1433.103 Protests to the agency. #####
+
+For protests filed with the agency, the CO shall coordinate with the regional and/or field solicitor and the Assistant Solicitor, Acquisitions and Intellectual Property, prior to making the protest decision and before suspending or terminating a contract award as a result of the protest. When a protest is denied by the CO, the decision issued shall advise the protester that the decision may be appealed to the GAO. All protest decisions must also contain a notice that appeals to GAO must include a copy of the CO's protest decision.

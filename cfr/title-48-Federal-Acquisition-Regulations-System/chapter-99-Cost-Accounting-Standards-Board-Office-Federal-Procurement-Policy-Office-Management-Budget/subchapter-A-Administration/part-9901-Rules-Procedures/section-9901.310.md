@@ -1,0 +1,3 @@
+##### 9901.310 Board action. #####
+
+Board action shall be by majority vote of the members present and voting, except that any vote to publish a proposed standard, rule or regulation in the Federal Register for comment or any vote to promulgate, amend or rescind a standard, rule or regulation, or any interpretation thereof, shall require at least three affirmative votes for the five Board members. The Chairman may vote on all matters presented for a vote, not merely to resolve tie votes. The results of final votes shall be reported in the minutes of the meeting, and the vote of a Board member may be recorded at his/her request.

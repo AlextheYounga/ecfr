@@ -1,0 +1,3 @@
+##### § 842.301 Purpose. #####
+
+This subpart sets forth the provisions governing credit for service under the Federal Employees Retirement System (FERS), 5 U.S.C. 8411. Except as provided by section 302 of the Federal Employees' Retirement System Act of 1986, Pub. L. 99-335 (the special provisions for employees who elect to transfer to FERS), service not creditable under this subpart is not creditable either for the purposes of determining eligibility to an annuity or in computing the rate of an annuity benefit under subchapter II (basic annuity), IV (survivor annuity), or V (disability annuity) of chapter 84 of title 5 of the United States Code.

@@ -1,0 +1,3 @@
+##### § 50.50 Issuance of licenses and construction permits. #####
+
+Upon determination that an application for a license meets the standards and requirements of the act and regulations, and that notifications, if any, to other agencies or bodies have been duly made, the Commission will issue a license, or if appropriate a construction permit, in such form and containing such conditions and limitations including technical specifications, as it deems appropriate and necessary.

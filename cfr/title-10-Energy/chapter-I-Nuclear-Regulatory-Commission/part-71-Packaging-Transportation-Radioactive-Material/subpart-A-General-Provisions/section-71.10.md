@@ -1,0 +1,3 @@
+##### § 71.10 Public inspection of application. #####
+
+Applications for approval of a package design under this part, which are submitted to the Commission, may be made available for public inspection, in accordance with provisions of parts 2 and 9 of this chapter. This includes an application to amend or revise an existing package design, any associated documents and drawings submitted with the application, and any responses to NRC requests for additional information.

@@ -1,0 +1,3 @@
+##### § 83.2 How will DOL use the designations established under the procedures in this part? #####
+
+DOL will adjudicate compensation claims for members of classes of employees added to the Cohort according to the same general procedures that apply to the statutorily defined classes of employees in the Cohort. Specifically, DOL will determine whether the claim is for a qualified member of the Cohort with a specified cancer, pursuant to the procedures set forth in 20 CFR part 30.

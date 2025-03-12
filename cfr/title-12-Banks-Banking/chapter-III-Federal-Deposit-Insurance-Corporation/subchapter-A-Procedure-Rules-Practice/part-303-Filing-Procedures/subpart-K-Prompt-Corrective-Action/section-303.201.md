@@ -1,0 +1,3 @@
+##### § 303.201 Filing procedures. #####
+
+Applications shall be filed with the appropriate FDIC office. The application shall contain the information specified in each respective section of this subpart, and shall be in letter form as prescribed in § 303.3. Additional information may be requested by the FDIC. Such letter shall be signed by the president, senior officer or a duly authorized agent of the insured depository institution and be accompanied by a certified copy of a resolution adopted by the institution's board of directors or trustees authorizing the application.

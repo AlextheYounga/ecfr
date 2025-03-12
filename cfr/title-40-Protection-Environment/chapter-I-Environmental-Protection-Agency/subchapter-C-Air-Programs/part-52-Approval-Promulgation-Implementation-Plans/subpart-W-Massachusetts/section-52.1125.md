@@ -1,0 +1,13 @@
+##### § 52.1125 Emission inventories. #####
+
+(a) The Governor's designee for the Commonwealth of Massachusetts submitted the 1990 base year emission inventories for the Springfield nonattainment area and the Massachusetts portion of the Boston-Lawrence-Worcester ozone nonattainment area on November 13, 1992 as a revision to the State Implementation Plan (SIP). Revisions to the inventories were submitted on November 15, 1993, and November 15, 1994, and March 31, 1997. The 1990 base year emission inventory requirement of section 182(a)(1) of the Clean Air Act, as amended in 1990, has been satisfied for these areas.
+
+(b) The inventories are for the ozone precursors which are volatile organic compounds, nitrogen oxides, and carbon monoxide. The inventories covers point, area, non-road mobile, on-road mobile, and biogenic sources.
+
+(c) Taken together, the Springfield nonattainment area and the Massachusetts portion of the Boston-Lawrence-Worcester nonattainment area encompass the entire geographic area of the State. Both areas are classified as serious ozone nonattainment areas.
+
+(d) The state of Massachusetts submitted base year emission inventories representing emissions for calendar year 2002 from the Boston-Lawrence-Worcester moderate 8-hour ozone nonattainment area and the Springfield moderate 8-hour ozone nonattainment area on January 31, 2008 as revisions to the State's SIP. The 2002 base year emission inventory requirement of section 182(a)(1) of the Clean Air Act, as amended in 1990, has been satisfied for these areas. The inventories consist of emission estimates of volatile organic compounds and nitrogen oxides, and cover point, area, non-road mobile, on-road mobile and biogenic sources. The inventories were submitted as revisions to the SIP in partial fulfillment of obligations for nonattainment areas under EPA's 1997 8-hour ozone standard.
+
+(e) The Commonwealth of Massachusetts submitted base year emission inventories representing emissions for calendar year 2011 for the Dukes county marginal 8-hour ozone nonattainment area on February 9, 2018, as a revision to the Massachusetts SIP. The 2011 base year emission inventory requirement of section 182(a)(1) of the Clean Air Act, as amended in 1990, has been satisfied for this area. The inventory consists of emission estimates of volatile organic compounds and nitrogen oxides, and applies to point, area, non-road mobile, on-road mobile and biogenic sources. The inventories were submitted as revisions to the Massachusetts SIP in partial fulfillment of obligations for nonattainment areas under EPA's 2008 8-hour ozone standard.
+
+[62 FR 37514, July 14, 1997, as amended at 77 FR 50601, Aug. 22, 2012; 84 FR 7301, Mar. 4, 2019]

@@ -1,0 +1,5 @@
+##### § 107.335 Referral for prosecution. #####
+
+If the Associate Administrator becomes aware of a possible willful violation of the Federal hazardous material transportation law, this subchapter, subchapter C of this chapter, or any special permit, or order issued thereunder, for which the Associate Administrator exercises enforcement responsibility, it shall report it to the Office of the Chief Counsel, Pipeline and Hazardous Materials Safety Administration, U.S. Department of Transportation, Washington, DC 20590-0001. If appropriate, the Chief Counsel refers the report to the Department of Justice for criminal prosecution of the offender.
+
+[Amdt. 107-11, 48 FR 2651, Jan. 20, 1983, as amended by Amdt. 107-22, 55 FR 39978, Oct. 1, 1990; Amdt. 107-24, 56 FR 8621, Feb. 28, 1991; 56 FR 15510, Apr. 17, 1991; Amdt. 107-32, 59 FR 49131, Sept. 26, 1994; Amdt. 107-35, 60 FR 49108, Sept. 21, 1995; 66 FR 45377, Aug. 28, 2001]

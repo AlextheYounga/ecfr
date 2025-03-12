@@ -1,0 +1,5 @@
+##### § 19.150 Scope. #####
+
+(a) Except as provided in this subpart, subpart A of this part applies to proceedings by the Comptroller to determine whether, pursuant to authority contained in sections 12(i) and 21C of the Exchange Act (15 U.S.C. 78*l*(i) and 78u-3), the Comptroller may initiate cease-and-desist proceedings against a national bank for violations of sections 12, 13, 14(a), 14(c), 14(d), 14(f), and 16 of the Exchange Act or regulations or rules issued thereunder (15 U.S.C. 78*l,* 78m, 78n(a), 78n(c), 78n(d), 78n(f), and 78p) .
+
+(b) All proceedings under this subpart must be commenced, and the notice of charges must be filed, on a public basis, unless otherwise ordered by the Comptroller. Pursuant to § 19.33(a), any request for a private hearing must be filed within 20 days of service of the notice.

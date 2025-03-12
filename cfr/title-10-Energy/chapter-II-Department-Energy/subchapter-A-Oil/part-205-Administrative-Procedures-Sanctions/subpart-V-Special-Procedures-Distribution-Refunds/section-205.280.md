@@ -1,0 +1,3 @@
+##### § 205.280 Purpose and scope. #####
+
+This subpart establishes special procedures pursuant to which refunds may be made to injured persons in order to remedy the effects of a violation of the regulations of the Department of Energy. This subpart shall be applicable to those situations in which the Department of Energy is unable to readily identify persons who are entitled to refunds specified in a Remedial Order, a Remedial Order for Immediate Compliance, an Order of Disallowance or a Consent Order, or to readily ascertain the amounts that such persons are entitled to receive.

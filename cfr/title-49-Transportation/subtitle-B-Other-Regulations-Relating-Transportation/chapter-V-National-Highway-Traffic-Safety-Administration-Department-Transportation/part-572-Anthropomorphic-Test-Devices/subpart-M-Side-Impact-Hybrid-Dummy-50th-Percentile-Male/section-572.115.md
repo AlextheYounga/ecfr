@@ -1,0 +1,3 @@
+##### § 572.115 Lumbar spine and pelvis. #####
+
+The specifications and test procedure for the lumbar spine and pelvis are identical to those for the SID dummy as set forth in § 572.42 except that the reference to the SID device found in § 572.42(a), (SA-SID-M001A revision A, dated May 18, 1994) does not apply and the reference to the SID/HIII (SA-SIDH3-M001, dated April 19, 1997) is applied in its place.

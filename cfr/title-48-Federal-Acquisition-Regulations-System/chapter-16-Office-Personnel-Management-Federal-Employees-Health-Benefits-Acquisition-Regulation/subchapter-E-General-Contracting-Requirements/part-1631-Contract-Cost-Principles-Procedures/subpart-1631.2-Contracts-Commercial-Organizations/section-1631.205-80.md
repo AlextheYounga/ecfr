@@ -1,0 +1,3 @@
+##### 1631.205-80 Major subcontractor service charges. #####
+
+In a subcontract for enrollment and eligibility determinations, administration of claims and payment of benefits, and payment or provision of actual health services, and/or assumption of insurance risk or underwriting, when costs are determined on the basis of actual costs incurred or experience rating, any amount that exceeds the allowable cost of the subcontract (whether entitled service charge, profit, fee, contribution to reserve, surplus, or any other title) is not allowable under the contract. Amounts which exceed allowable costs may be paid to a major subcontractor only from the service charge negotiated between OPM and the Carrier.

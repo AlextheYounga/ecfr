@@ -1,0 +1,5 @@
+##### § 305.21 Amendment of request for a hearing; withdrawal. #####
+
+(a) *Amendment of Request for a Hearing.* The Requestor may amend the Request for a Hearing once as a matter of right at any time before the answer is filed. Otherwise the Requestor may amend the Request for a Hearing only upon motion granted by the Presiding Officer. The Claims Official shall have 10 additional days from the date of service of the amended claim to file his answer.
+
+(b) *Withdrawal of Request for a Hearing.* The Requestor may withdraw the Request for a Hearing, or any part thereof, without prejudice one time before the answer has been filed. After one withdrawal without prejudice before the filing of an answer, or after the filing of an answer, the Requestor may withdraw the Request for a Hearing, or any part thereof, without prejudice, only upon motion granted by the Presiding Officer. In no case may a Request for a Hearing be filed more than 30 days after the Requestor has received notice that the Claims Official has declined to pay all or part of a claim.

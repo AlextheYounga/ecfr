@@ -1,0 +1,3 @@
+##### § 93.162 Description of area. #####
+
+The Pearson Field Airport Special Flight Rules Area is designated as that airspace extending upward from the surface to but not including 1,100 feet MSL in an area bounded by a line beginning at the point where the 019° bearing from Pearson Field intersects the 5-mile arc from Portland International Airport extending southeast to a point 11/2 miles east of Pearson Field on the extended centerline of Runway 8/26, thence south to the north shore of the Columbia River, thence west via the north shore of the Columbia River to the 5-mile arc from Portland International Airport, thence clockwise via the 5-mile arc to point of beginning.

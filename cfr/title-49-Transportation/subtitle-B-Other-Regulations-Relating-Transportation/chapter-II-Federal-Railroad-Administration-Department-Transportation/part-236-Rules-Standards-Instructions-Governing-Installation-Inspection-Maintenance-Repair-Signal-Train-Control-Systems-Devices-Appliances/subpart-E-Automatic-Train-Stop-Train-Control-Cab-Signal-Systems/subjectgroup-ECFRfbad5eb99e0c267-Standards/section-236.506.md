@@ -1,0 +1,3 @@
+##### § 236.506 Release of brakes after automatic application. #####
+
+The automatic train stop or train control apparatus shall prevent release of the brakes after automatic application until a reset device has been operated, or the speed of the train has been reduced to a predetermined rate, or the condition that caused the brake application no longer affects the movement of the train. If reset device is used it shall be arranged so that the brakes cannot be released until the train has been stopped, or it shall be located so that it cannot be operated by engineman without leaving his accustomed position in the cab.

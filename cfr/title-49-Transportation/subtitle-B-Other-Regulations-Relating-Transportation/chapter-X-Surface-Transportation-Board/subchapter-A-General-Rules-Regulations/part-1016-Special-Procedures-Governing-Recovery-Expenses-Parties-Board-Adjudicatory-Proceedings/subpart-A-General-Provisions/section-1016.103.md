@@ -1,0 +1,9 @@
+##### § 1016.103 Proceedings covered. #####
+
+(a) The Act applies to adversary adjudications conducted by the Board under 5 U.S.C. 554 in which the position of this or any other agency of the United States, or any component of an agency, is presented by an attorney or other representative (hereinafter “agency counsel”) who enters an appearance and participates in the proceeding. Proceedings for the purpose of establishing or fixing a rate are not covered by the Act. Proceedings to grant or renew licenses are also excluded, but proceedings to modify, suspend, or revoke licenses are covered if they are otherwise “adversary adjudications.” Generally, the types of Board proceedings covered by the Act include, but are not limited to, investigation proceedings instituted under 49 U.S.C. 11701 and 49 U.S.C. 13905 and disciplinary proceedings conducted pursuant to 49 CFR 1103.5.
+
+(b) The Board may also designate a proceeding not listed in paragraph (a) of this section as an adversary adjudication for purposes of the Act by so stating in an order initiating the proceeding, designating the matter for hearing or at any other time during the proceeding. The Board's failure to designate a proceeding as an adversary adjudication shall not preclude the filing of an application by a party who believes the proceeding is covered by the Act; whether the proceeding is covered will then be an issue for resolution in proceedings on the application.
+
+(c) If a proceeding includes both matters covered by the Act and matters specifically excluded from coverage, any award made will include only fees and expenses related to covered issues.
+
+[46 FR 61660, Dec. 18, 1981, as amended at 81 FR 8851, Feb. 23, 2016]

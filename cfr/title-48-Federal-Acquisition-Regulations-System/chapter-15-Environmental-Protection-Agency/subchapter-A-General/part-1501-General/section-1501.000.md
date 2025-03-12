@@ -1,0 +1,3 @@
+##### 1501.000 Scope of part. #####
+
+The Federal Acquisition Regulation System brings together, in title 48 of the Code of Federal Regulations, the acquisition regulations applicable to all executive agencies of the Government. This part establishes a system of Environmental Protection Agency (EPA) acquisition regulations, referred to as the EPAAR, for the codification and publication of policies and procedures of EPA which implement and supplement the Federal Acquisition Regulation (FAR).

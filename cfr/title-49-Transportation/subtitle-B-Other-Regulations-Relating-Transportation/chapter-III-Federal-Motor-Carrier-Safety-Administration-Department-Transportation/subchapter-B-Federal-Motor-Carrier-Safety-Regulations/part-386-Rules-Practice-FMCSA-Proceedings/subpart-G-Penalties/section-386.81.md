@@ -1,0 +1,7 @@
+##### § 386.81 General. #####
+
+(a) The amounts of civil penalties that can be assessed for regulatory violations subject to the proceedings in this subchapter are established in the statutes granting enforcement powers. The determination of the actual civil penalties assessed in each proceeding is based on those defined limits or minimums and consideration of information available at the time the claim is made concerning the nature, gravity of the violation and, with respect to the violator, the degree of culpability, history of prior offenses, effect on ability to continue to do business, and such other matters as justice and public safety may require. In addition to these factors, a civil penalty assessed under 49 U.S.C. 14901(a) and (d) concerning household goods is also based on the degree of harm caused to a shipper and whether the shipper has been adequately compensated before institution of the civil penalty proceeding. In adjudicating the claims and orders under the administrative procedures herein, additional information may be developed regarding these factors that may affect the final amount of the claim.
+
+(b) When assessing penalties for violations of notices and orders or settling claims based on these assessments, consideration will be given to good faith efforts to achieve compliance with the terms of the notices and orders.
+
+[56 FR 10184, Mar. 11, 1991, as amended at 65 FR 7756, Feb. 16, 2000; 78 FR 60232, Oct. 1, 2013]

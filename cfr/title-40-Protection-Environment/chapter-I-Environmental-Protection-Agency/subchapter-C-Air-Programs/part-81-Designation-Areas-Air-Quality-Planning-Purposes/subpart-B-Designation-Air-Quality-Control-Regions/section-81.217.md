@@ -1,0 +1,5 @@
+##### § 81.217 Southern Indiana Intrastate Air Quality Control Region. #####
+
+The Southern Indiana Intrastate Air Quality Control Region (Indiana) consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Indiana: Bartholomew County, Brown County, Crawford County, Daviess County, Decatur County, Fayette County, Franklin County, Greene County, Harrison County, Jackson County, Jefferson County, Jennings County, Lawrence County, Martin County, Monroe County, Orange County, Owen County, Ripley County, Rush County, Scott County, Switzerland County, Union County, Washington County.

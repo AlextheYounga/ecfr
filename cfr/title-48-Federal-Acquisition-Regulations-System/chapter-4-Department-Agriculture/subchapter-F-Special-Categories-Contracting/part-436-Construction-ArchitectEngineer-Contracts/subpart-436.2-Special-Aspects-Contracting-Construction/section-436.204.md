@@ -1,0 +1,3 @@
+##### 436.204 Disclosure of the magnitude of construction projects. #####
+
+In the case of indefinite-delivery type contracts, the reasonable estimate of work to be done or the maximum in the solicitation, both including all options, is to be used to select the price range. Contracting officers may elect to use both a price range for the base period of services and the total, inclusive of options, to best describe the magnitude of the solicitation.

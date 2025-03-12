@@ -1,0 +1,3 @@
+##### § 61.105 Recordkeeping requirements. #####
+
+The owner or operator of any facility must maintain records documenting the source of input parameters including the results of all measurements upon which they are based, the calculations and/or analytical methods used to derive values for input parameters, and the procedure used to determine compliance. This documentation should be sufficient to allow an independent auditor to verify the accuracy of the determination made concerning the facility's compliance with the standard, and, if claimed, qualification for exemption from reporting. These records must be kept at the site of the facility for at least five years and upon request be made available for inspection by the Administrator, or his authorized representative.

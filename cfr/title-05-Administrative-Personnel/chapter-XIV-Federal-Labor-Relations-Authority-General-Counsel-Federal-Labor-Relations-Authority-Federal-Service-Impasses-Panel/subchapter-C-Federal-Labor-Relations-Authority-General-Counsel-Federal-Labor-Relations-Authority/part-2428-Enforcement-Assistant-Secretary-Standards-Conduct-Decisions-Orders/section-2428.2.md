@@ -1,0 +1,5 @@
+##### § 2428.2 Petitions for enforcement. #####
+
+(a) The Assistant Secretary may petition the Authority to enforce any Assistant Secretary decision and order in a standards of conduct case arising under 5 U.S.C. 7120. The Assistant Secretary shall transfer to the Authority the record in the case, including a copy of the transcript if any, exhibits, briefs, and other documents filed with the Assistant Secretary. A copy of the petition for enforcement shall be served on the labor organization against which such order applies.
+
+(b) An opposition to Authority enforcement of any such Assistant Secretary decision and order may be filed by the labor organization against which such order applies twenty (20) days from the date of service of the petition, unless the Authority, upon good cause shown by the Assistant Secretary, sets a shorter time for filing such opposition. A copy of the opposition to enforcement shall be served on the Assistant Secretary.

@@ -1,0 +1,9 @@
+##### § 674.35 Investigations. #####
+
+(a) An SSOA must investigate or require an investigation of any accident and is ultimately responsible for the sufficiency and thoroughness of all investigations, whether conducted by the SSOA or RTA. If an SSOA requires an RTA to investigate an accident, the SSOA must conduct an independent review of the RTA's findings of causation. In any instance in which an RTA is conducting its own internal investigation of the accident or incident, the SSOA and the RTA must coordinate their investigations in accordance with the SSO program standard and any agreements in effect.
+
+(b) Within a reasonable time, an SSOA must issue a written report on its investigation of an accident or review of an RTA's accident investigation in accordance with the reporting requirements established by the SSOA. The report must describe the investigation activities; identify the factors that caused or contributed to the accident; and set forth a corrective action plan, as necessary or appropriate. The SSOA must formally adopt the report of an accident and transmit that report to the RTA for review and concurrence. If the RTA does not concur with an SSOA's report, the SSOA may allow the RTA to submit a written dissent from the report, which may be included in the report, at the discretion of the SSOA.
+
+(c) All personnel and contractors that conduct investigations on behalf of an SSOA must be trained to perform their functions in accordance with the Public Transportation Safety Certification Training Program.
+
+(d) The Administrator may conduct an independent investigation of any accident or an independent review of an SSOA's or an RTA's findings of causation of an accident.

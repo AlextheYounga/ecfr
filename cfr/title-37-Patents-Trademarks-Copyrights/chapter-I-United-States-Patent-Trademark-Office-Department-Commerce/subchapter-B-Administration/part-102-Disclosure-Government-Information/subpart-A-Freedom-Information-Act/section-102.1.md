@@ -1,0 +1,7 @@
+##### § 102.1 General. #####
+
+(a) The information in this part is furnished for the guidance of the public and in compliance with the requirements of the Freedom of Information Act (FOIA), as amended (5 U.S.C. 552). This part sets forth the procedures the United States Patent and Trademark Office (USPTO) follows to make publicly available the materials and indices specified in 5 U.S.C. 552(a)(2) and records requested under 5 U.S.C. 552(a)(3). Information routinely provided to the public as part of a regular USPTO activity (for example, press releases issued by the Office of Public Affairs) may be provided to the public without following this part. USPTO's policy is to make discretionary disclosures of records or information exempt from disclosure under FOIA whenever disclosure would not foreseeably harm an interest protected by a FOIA exemption, but this policy does not create any right enforceable in court.
+
+(b) As used in this subpart, *FOIA Officer* means the USPTO employee designated to administer FOIA for USPTO. To ensure prompt processing of a request, correspondence should be addressed to the FOIA Officer, United States Patent and Trademark Office, P.O. Box 1450, Alexandria, Virginia 22313-1450, or delivered by hand to 10B20, Madison Building East, 600 Dulany Street, Alexandria, Virginia.
+
+[65 FR 52917, Aug. 31, 2000, as amended at 68 FR 14338, Mar. 25, 2003; 70 FR 10489, Mar. 4, 2005]

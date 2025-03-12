@@ -1,0 +1,3 @@
+##### § 1019.1 Cross-reference to employee ethical conduct standards and financial disclosure regulations. #####
+
+Members and employees of the Surface Transportation Board also should refer to the executive branch Standards of Ethical Conduct at 5 CFR part 2635, the STB regulations at 5 CFR part 5001 which supplement the executive branch standards, and the executive branch financial disclosure regulations at 5 CFR part 2634.

@@ -1,0 +1,3 @@
+##### 825.602 Exceptions. #####
+
+When the contracting officer determines it to be in the best interest of the Government, the contracting officer may request an exception to the requirements of FAR 25.601 from the Secretary through the DSPE and the SPE. Each such request must be fully justified and include all pertinent facts, as provided in FAR 25.602(b). The SPE is responsible for notifying the U.S. Trade Representative of approved requests, as required by FAR 25.602(b)(2).

@@ -1,0 +1,5 @@
+##### § 212.301 Competitive status defined. #####
+
+In this chapter, competitive status means an individual's basic eligibility for noncompetitive assignment to a competitive position. Competitive status is acquired by completion of a probationary period under a career-conditional or career appointment, or under a career executive assignment in the former executive assignment system, following open competitive examination, or by statute, Executive order, or the Civil Service rules, without open competitive examination. An individual with competitive status may be, without open competitive examination, reinstated, transferred, promoted, reassigned, or demoted, subject to conditions prescribed by the Civil Service rules and regulations.
+
+[33 FR 12408, Sept. 4, 1968, as amended at 57 FR 10123, Mar. 24, 1992]

@@ -1,0 +1,9 @@
+##### § 1182.9 Notices of exemption. #####
+
+(a) A transaction within a motor passenger corporate family is exempt from 49 U.S.C. 14303 if it does not result in adverse changes in service levels, significant operational changes, or a change in the competitive balance with motor passenger carriers outside the corporate family. The Board has found that its prior review and approval of these transactions is not necessary to carry out the transportation policy of 49 U.S.C. 13101; regulation is not necessary to protect shippers from abuse of market power; and an exemption is in the public interest. See 49 U.S.C. 13541(a).
+
+(b) To qualify for a class exemption, a party must file a verified notice of the exempt transaction with the Board. The notice shall contain a brief summary of the proposed transaction, the name of the applicants, their business address and telephone number, and the name of counsel to whom questions would be addressed. The notice shall describe the purpose of the transaction and give the proposed consummation date for the transaction, which must be at least 7 days after the filing of the notice. The notice shall describe any contracts or agreements that have been entered into, or will be entered into, concerning the transaction, and shall indicate the impact, if any, that the transaction would have on employees.
+
+(c) The Board shall publish notice of the exemption in the Federal Register within 30 days from the filing of the verified notice of exemption. If the notice contains false or misleading information, the Board shall summarily revoke the exemption and require divestiture. Petitions to revoke the exemption under 49 U.S.C. 13541(d) may be filed at any time and will be granted upon a finding that the application of 49 U.S.C. 14303 to the person, class, or transportation is necessary to carry out the transportation policy of 49 U.S.C. 13101.
+
+[65 FR 8281, Feb. 17, 2000]

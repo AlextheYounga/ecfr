@@ -1,0 +1,13 @@
+##### § 60.22 Filing and distribution of application. #####
+
+(a) An application for a construction authorization for a high-level radioactive waste repository at a geologic repository operations area, and an application for a license to receive and possess source, special nuclear, or byproduct material at a geologic repository operations area at a site which has been characterized, and any amendments thereto, and an accompanying environmental impact statement and any supplements, shall be signed by the Secretary of Energy or the Secretary's authorized representative and must be filed with the Director.
+
+(b) DOE shall maintain the capability to generate additional copies for distribution in accordance with written instructions from the Director or the Director's designee.
+
+(c) DOE shall, upon notification of the appointment of an Atomic Safety and Licensing Board, update the application, eliminating all superseded information, and supplement the environmental impact statement if necessary, and serve the updated application and environmental impact statement (as it may have been supplemented) as directed by the Board. At that time DOE shall also serve one such copy of the application and environmental impact statement on the Atomic Safety and Licensing Appeal Panel. Any subsequent amendments to the application or supplements to the environmental impact statement shall be served in the same manner.
+
+(d) At the time of filing of an application and any amendments thereto, one copy shall be made available in an appropriate location near the proposed geologic repository operations area (which shall be a public document room, if one has been established) for inspection by the public and updated as amendments to the application are made. The environmental impact statement and any supplements thereto shall be made available in the same manner. An updated copy of the application, and the environmental impact statement and supplements, shall be produced at any public hearing held by the Commission on the application, for use by any party to the proceeding.
+
+(e) The DOE shall certify that the updated copies of the application, and the environmental impact statement as it may have been supplemented, as referred to in paragraphs (c) and (d) of this section, contain the current contents of such documents submitted in accordance with the requirements of this part.
+
+[54 FR 27871, July 3, 1989, as amended at 68 FR 58814, Oct. 10, 2003; 69 FR 2279, Jan. 14, 2004]

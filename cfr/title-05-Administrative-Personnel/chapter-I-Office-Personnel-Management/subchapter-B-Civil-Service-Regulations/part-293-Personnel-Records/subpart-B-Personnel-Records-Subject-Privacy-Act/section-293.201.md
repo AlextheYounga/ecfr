@@ -1,0 +1,3 @@
+##### § 293.201 Purpose. #####
+
+The purpose of this subpart is to set forth the criteria to be used to determine when personnel records on individuals are subject both to the regulations contained in this part and to Office or agency regulations implementing the Privacy Act of 1974, 5 U.S.C. 552a. When personnel records are maintained within a system of records, the records are deemed to be within the scope of both the regulations in this part and Office or agency regulations implementing the Privacy Act.

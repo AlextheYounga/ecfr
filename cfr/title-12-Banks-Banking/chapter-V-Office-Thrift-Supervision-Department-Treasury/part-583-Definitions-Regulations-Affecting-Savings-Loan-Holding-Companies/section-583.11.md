@@ -1,0 +1,3 @@
+##### § 583.11 Diversified savings and loan holding company. #####
+
+The term *diversified savings and loan holding company* means any savings and loan holding company whose subsidiary savings association and related activities, as specified in 12 U.S.C. 1467a(c)(2), represented on either an actual or *pro forma* basis, less than 50 percent of its consolidated net worth at the close of its preceding fiscal year and of its consolidated net earnings for such fiscal year. For purposes of the foregoing, consolidated net worth and consolidated net earnings shall be determined in accordance with generally accepted accounting principles.

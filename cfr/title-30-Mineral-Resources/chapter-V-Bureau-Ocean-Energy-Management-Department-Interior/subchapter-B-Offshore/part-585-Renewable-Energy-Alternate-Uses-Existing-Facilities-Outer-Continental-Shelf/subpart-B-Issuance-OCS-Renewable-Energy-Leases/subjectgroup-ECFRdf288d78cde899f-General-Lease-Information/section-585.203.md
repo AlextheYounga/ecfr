@@ -1,0 +1,5 @@
+##### § 585.203 With whom will BOEM consult before issuance of a lease? #####
+
+For leases issued under this part, through either the competitive or noncompetitive process, BOEM, prior to issuing the lease, will coordinate and consult with relevant Federal agencies (including, in particular, those agencies involved in planning activities that are undertaken to avoid or minimize conflicts among users and maximize the economic and ecological benefits of the OCS, including multifaceted spatial planning efforts), the Governor of any affected State, the executive of any affected local government, and any affected Indian Tribe, as directed by subsections 8(p)(4) and (7) of the OCS Lands Act or other relevant Federal laws. Federal statutes that require BOEM to consult with interested parties or Federal agencies or to respond to findings of those agencies, including the Endangered Species Act (ESA) and the Magnuson-Stevens Fishery Conservation and Management Act (MSA). BOEM also engages in consultation with state and tribal historic preservation officers pursuant to the National Historic Preservation Act (NHPA).
+
+[79 FR 21621, Apr. 17, 2014]

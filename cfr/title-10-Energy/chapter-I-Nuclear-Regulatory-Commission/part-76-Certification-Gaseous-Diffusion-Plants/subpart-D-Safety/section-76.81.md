@@ -1,0 +1,3 @@
+##### § 76.81 Authorized use of radioactive material. #####
+
+Unless otherwise authorized by law, the Corporation shall confine its possession and use of radioactive material to the locations and purposes covered by the certificate and/or approved compliance plan. Except as otherwise provided, the certificate or approved compliance plan issued pursuant to the requirements in this part entitles the Corporation to receive title to, own, acquire, receive, possess, and use radioactive material in accordance with the certificate.

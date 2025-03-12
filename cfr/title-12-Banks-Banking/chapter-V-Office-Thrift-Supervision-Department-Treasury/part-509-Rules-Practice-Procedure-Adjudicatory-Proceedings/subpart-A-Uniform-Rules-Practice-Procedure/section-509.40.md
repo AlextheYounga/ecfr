@@ -1,0 +1,9 @@
+##### § 509.40 Review by the Director. #####
+
+(a) *Notice of submission to the Director.* When the Director determines that the record in the proceeding is complete, the Director shall serve notice upon the parties that the proceeding has been submitted to the Director for final decision.
+
+(b) *Oral argument before the Director.* Upon the initiative of the Director or on the written request of any party filed with the Director within the time for filing exceptions, the Director may order and hear oral argument on the recommended findings, conclusions, decision, and order of the administrative law judge. A written request by a party must show good cause for oral argument and state reasons why arguments cannot be presented adequately in writing. A denial of a request for oral argument may be set forth in the Director's final decision. Oral argument before the Director must be on the record.
+
+(c) *Director's final decision.* (1) Decisional employees may advise and assist the Director in the consideration and disposition of the case. The final decision of the Director will be based upon review of the entire record of the proceeding, except that the director may limit the issues to be reviewed to those findings and conclusions to which opposing arguments or exceptions have been filed by the parties.
+
+(2) The Director shall render a final decision within 90 days after notification of the parties that the case has been submitted for final decision, or 90 days after oral argument, whichever is later, unless the Director orders that the action or any aspect thereof be remanded to the administrative law judge for further proceedings. Copies of the final decision and order of the Director shall be served upon each party to the proceeding, upon other persons required by statute, and, if directed by the Director or required by statute, upon any appropriate state or Federal supervisory authority.

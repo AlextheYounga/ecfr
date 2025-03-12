@@ -1,0 +1,3 @@
+##### § 1261.600 Purpose of subpart. #####
+
+This subpart implements 5 U.S.C. 5514 in accordance with the OPM regulation and establishes the procedural requirements for recovering pre-judgment debts from the current pay account of an employee through what is commonly called salary offset, including a situation where NASA (the current paying agency) is not the employee's creditor agency. Salary offset to satisfy a judgment or a court determined debt is governed by section 124 of Pub. L. 97-276 (October 2, 1982), 5 U.S.C. 5514 *note.*

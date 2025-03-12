@@ -1,0 +1,3 @@
+##### § 610.63 Performance tests. #####
+
+The effect of a device on a vehicle's performance will be determined by performing wide-open-throttle 0 to 60 mph acceleration tests (at normal ambient temperatures) on the baseline vehicle configuration, on the adjusted configuration (if required), and on the fully retrofitted configuration. Tests will be conducted on a dry, level, smooth-surfaced test track, with appropriate speed-time measuring equipment, on as many vehicles as determined to be necessary.

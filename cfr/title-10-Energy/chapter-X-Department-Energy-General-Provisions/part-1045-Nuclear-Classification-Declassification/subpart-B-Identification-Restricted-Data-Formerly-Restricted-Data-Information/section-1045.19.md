@@ -1,0 +1,7 @@
+##### § 1045.19 Accountability for classification and declassification determinations. #####
+
+(a) Whenever a classification or declassification determination concerning RD or FRD information is made, the Director of Classification and the Chief Health, Safety and Security Officer shall be able to justify the determination. For FRD and RD primarily related to military utilization, the Director of Classification and the Chief Health, Safety and Security Officer shall coordinate the determination and justification with the DoD. If the determination involves a departure from the presumptions in § 1045.15, the justification shall include a rationale for the departure. Often the justification itself will contain RD or FRD information. In such a case, the Director of Classification and the Chief Health, Safety and Security Officer shall ensure that a separate justification can be prepared which is publicly releasable. The publicly releasable justification shall be made available to any interested person upon request to the Director of Classification.
+
+(b) The Director of Classification shall prepare a report on an annual basis on the implementation of this part. This report shall be available to any interested person upon request to the Director of Classification. Requests may be submitted to the Director Office of Classification, HS-90/Germantown Building, U.S. Department of Energy, 1000 Independence Avenue SW., Washington, DC 20585-1290.
+
+[62 FR 68509, Dec. 31, 1997, as amended at 71 FR 68737, Nov. 28, 2006]

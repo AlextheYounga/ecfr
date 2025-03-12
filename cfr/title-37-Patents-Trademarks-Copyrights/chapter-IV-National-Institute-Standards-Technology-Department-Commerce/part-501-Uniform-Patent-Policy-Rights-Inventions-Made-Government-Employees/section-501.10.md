@@ -1,0 +1,3 @@
+##### § 501.10 Dissemination of this part and of implementing regulations. #####
+
+Each Government agency shall disseminate to its employees the provisions of this part, and any appropriate implementing agency regulations and delegations. Copies of any such regulations shall be sent to the Secretary. If the Secretary identifies an inconsistency between this part and the agency regulations or delegations, the agency, upon being informed by the Secretary of the inconsistency, shall take prompt action to correct it.

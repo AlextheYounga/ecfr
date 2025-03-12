@@ -1,0 +1,7 @@
+##### § 905.22 How does Western periodically evaluate customer actions? #####
+
+(a) *Periodic review of customer actions.* Western will periodically evaluate customer actions to determine whether they are consistent with the approved IRP or minimum investment report. Small customer plans and EE/RE reports are not subject to this periodic review.
+
+(b) *Reviewing representative samples of plans and reports.* Western will periodically review a representative sample of IRPs and minimum investment reports, and the customer's implementation of the applicable plan or report from each of Western's Regions. The samples will reflect the diverse characteristics and circumstances of the customers that purchase power from Western. These reviews will be in addition to, and separate and apart from, the review of initial and updated IRPs and minimum investment reports to ensure compliance with this subpart.
+
+(c) *Scope of periodic reviews.* Periodic reviews may consist of any combination of review of the customer's annual IRP progress reports, minimum investment letters, telephone interviews, or on-site visits. Western will document these periodic reviews and may report on the results of the reviews in Western's annual report.

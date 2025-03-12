@@ -1,0 +1,5 @@
+##### § 205.11 Scope and purpose. #####
+
+(a) This subpart provides the procedures governing service of process on the Copyright Office and its employees in their official capacity. These regulations provide the identity of Copyright Office officials who are authorized to accept service of process. The purpose of this subpart is to provide a centralized location for receipt of service of process to the Office. Such centralization will provide timely notification of legal process and expedite Office response. Litigants also must comply with all requirements pertaining to service of process that are established by statute, court rule and rule of procedure including the applicable provisions of the Federal Rules of Civil Procedure governing service upon the United States.
+
+(b) This subpart does not apply to service of process made on an employee personally for matters not related to official business of the Office. Process served upon a Copyright Office employee in his or her individual capacity must be served in compliance with the applicable requirements for service of process established by statute, court rule, or rule of procedure.

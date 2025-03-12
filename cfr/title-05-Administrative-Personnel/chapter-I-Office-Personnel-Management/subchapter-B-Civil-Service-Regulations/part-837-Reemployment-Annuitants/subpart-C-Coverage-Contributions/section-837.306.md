@@ -1,0 +1,3 @@
+##### § 837.306 Refund of lump-sum credit. #####
+
+An annuitant serving as a justice or judge of the United States, as defined by section 451 of title 28, United States Code, may apply for and receive payment of the annuitant's lumpsum credit, less the amount of annuity or other benefits previously paid on that account. Receipt of a refund under this section will irrevocably terminate the right to annuity, and the annuitant status, of the recipient, based on any prior separations from employment covered by CSRS or FERS.

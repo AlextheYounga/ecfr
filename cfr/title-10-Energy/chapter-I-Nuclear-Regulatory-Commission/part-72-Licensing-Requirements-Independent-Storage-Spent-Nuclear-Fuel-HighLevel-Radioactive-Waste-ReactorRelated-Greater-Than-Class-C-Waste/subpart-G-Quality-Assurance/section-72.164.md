@@ -1,0 +1,3 @@
+##### § 72.164 Control of measuring and test equipment. #####
+
+The licensee, applicant for a license, certificate holder, and applicant for a CoC shall establish measures to ensure that tools, gauges, instruments, and other measuring and testing devices used in activities affecting quality are properly controlled, calibrated, and adjusted at specified periods to maintain accuracy within necessary limits.

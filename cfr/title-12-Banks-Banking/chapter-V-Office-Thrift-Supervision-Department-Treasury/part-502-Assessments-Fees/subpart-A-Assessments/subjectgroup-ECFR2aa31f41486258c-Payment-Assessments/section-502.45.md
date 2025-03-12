@@ -1,0 +1,5 @@
+##### § 502.45 What will happen if I do not pay my assessment on time? #####
+
+(a) Your assessment is delinquent if you do not pay it on the date it is due under § 502.30 of this part. The Director will charge interest on delinquent assessments. Interest will accrue at a rate (that OTS will determine quarterly) equal to 150 percent of the average of the bond-equivalent rates of 13-week Treasury bills auctioned during the calendar quarter preceding the assessment.
+
+(b) If a savings and loan holding company fails to pay an assessment within 60 days of the date it is due under § 502.30 of this part, the Director may assess and collect the assessment with interest from a subsidiary savings association. If a savings and loan holding company controls more than one savings association, the Director may assess and collect the assessment from each savings association as the Director may prescribe.

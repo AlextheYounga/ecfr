@@ -1,0 +1,7 @@
+##### § 30.204 Field strength limits. #####
+
+(a) *Base/mobile operations:* The predicted or measured Power Flux Density (PFD) from any Base Station operating in the 27.5-28.35 GHz band, 37-38.6 GHz band, and 38.6-40 GHz bands at any location on the geographical border of a licensee's service area shall not exceed −76dBm/m2/MHz (measured at 1.5 meters above ground) unless the adjacent affected service area licensee(s) agree(s) to a different PFD.
+
+(b) *Fixed point-to-point operations.* (1) Prior to operating a fixed point-to-point transmitting facility in the 27,500-28,350 MHz band where the facilities are located within 20 kilometers of the boundary of the licensees authorized market area, the licensee must complete frequency coordination in accordance with the procedures specified in § 101.103(d)(2) of this chapter with respect to neighboring licensees that may be affected by its operations.
+
+(2) Prior to operating a fixed point-to-point transmitting facility in the 37,000-40,000 MHz band where the facilities are located within 16 kilometers of the boundary of the licensees authorized market area, the licensee must complete frequency coordination in accordance with the procedures specified in § 101.103(d)(2) of this chapter with respect to neighboring licensees that may be affected by its operations.

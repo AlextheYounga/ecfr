@@ -1,0 +1,3 @@
+##### § 715.1 Scope of this part. #####
+
+This part implements section 202(a)(6)(D) of the Federal Credit Union Act, 12 U.S.C. 1782(a)(6)(D), as added by section 201(a) of the Credit Union Membership Access Act, Pub. L. No. 105-219, 112 Stat. 918 (1998). This part prescribes the responsibilities of the Supervisory Committee to obtain an annual audit of the credit union according to its charter type and asset size, and to conduct a verification of members' accounts.

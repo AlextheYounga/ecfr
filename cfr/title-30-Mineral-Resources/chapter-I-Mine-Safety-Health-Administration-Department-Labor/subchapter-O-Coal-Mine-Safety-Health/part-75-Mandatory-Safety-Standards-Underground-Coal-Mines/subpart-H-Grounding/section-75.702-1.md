@@ -1,0 +1,3 @@
+##### § 75.702-1 Protection other than grounding; approved by an authorized representative of the Secretary. #####
+
+Under this subpart no method other than grounding may be used to ensure against a difference in potential between metallic sheaths, armors and conduits, enclosing power conductors and frames, casings and metal enclosures of electric equipment, and the earth, unless approved by an authorized representative of the Secretary.

@@ -1,0 +1,3 @@
+##### § 655.46 Return to duty following refusal to submit to a test, verified positive drug test result and/or breath alcohol test result of 0.04 or greater. #####
+
+Where a covered employee refuses to submit to a test, has a verified positive drug test result, and/or has a confirmed alcohol test result of 0.04 or greater, the employer, before returning the employee to duty to perform a safety-sensitive function, shall follow the procedures outlined in 49 CFR Part 40.

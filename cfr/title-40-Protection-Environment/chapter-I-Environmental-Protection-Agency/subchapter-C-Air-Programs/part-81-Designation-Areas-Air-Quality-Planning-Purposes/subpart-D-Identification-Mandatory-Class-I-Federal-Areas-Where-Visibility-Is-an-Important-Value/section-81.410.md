@@ -1,0 +1,13 @@
+##### § 81.410 Idaho. #####
+
+|                                                                              Area name                                                                               |Acreage|Public Law establishing|Federal land manager|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-----------------------|--------------------|
+|                                                                       Craters of the Moon Wild                                                                       |43,243 |        91-504         |      USDI-NPS      |
+|                                                                    Hells Canyon Wild <sup>1</sup>                                                                    |83,800 |        94-199         |      USDA-FS       |
+|                                                                            Sawtooth Wild                                                                             |216,383|        92-400         |      USDA-FS       |
+|                                                                 Selway-Bitterroot Wild <sup>2</sup>                                                                  |988,770|        88-577         |      USDA-FS       |
+|                                                                     Yellowstone NP <sup>3</sup>                                                                      |31,488 |    (<sup>4</sup>)     |      USDI-NPS      |
+|                   <sup>1</sup> Hells Canyon Wilderness, 192,700 acres overall, of which 108,900 acres are in Oregon and 83,800 acres are in Idaho.                   |       |                       |                    |
+|              <sup>2</sup> Selway Bitterroot Wilderness, 1,240,700 acres overall, of which 988,700 acres are in Idaho and 251,930 acres are in Montana.               |       |                       |                    |
+|<sup>3</sup> Yellowstone National Park, 2,219,737 acres overall, of which 2,020,625 acres are in Wyoming, 167,624 acres are in Montana, and 31,488 acres are in Idaho.|       |                       |                    |
+|                                                                <sup>4</sup> 17 Stat. 32 (42nd Cong.).                                                                |       |                       |                    |

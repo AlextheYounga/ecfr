@@ -1,0 +1,9 @@
+##### § 303.22 Processing. #####
+
+(a) *Expedited processing for proposed institutions.* (1) An application for deposit insurance for a proposed institution which will be a subsidiary of an eligible depository institution as defined in § 303.2(r) or an eligible holding company will be acknowledged in writing by the FDIC and will receive expedited processing unless the applicant is notified in writing to the contrary and provided with the basis for that decision. An eligible holding company is defined as a bank or thrift holding company that has consolidated assets of at least $150 million or more; a BOPEC rating of at least “2” for bank holding companies or an above average or “A” rating for thrift holding companies; and at least 75 percent of its consolidated depository institution assets comprised of eligible depository institutions. The FDIC may remove an application from expedited processing for any of the reasons set forth in § 303.11(c)(2).
+
+(2) Under expedited processing, the FDIC will take action on an application within 60 days of receipt of a substantially complete application or 5 days after the expiration of the comment period described in § 303.23, whichever is later. Final action may be withheld until the FDIC has assurance that permission to organize the proposed institution will be granted by the chartering authority. Notwithstanding paragraph (a)(1) of this section, if the FDIC does not act within the expedited processing period, it does not constitute an automatic or default approval.
+
+(b) *Standard processing.* For those applications that are not processed pursuant to the expedited procedures, the FDIC will provide the applicant with written notification of the final action when the decision is rendered.
+
+[67 FR 79247, Dec. 27, 2002, as amended at 68 FR 50459, Aug. 21, 2003]

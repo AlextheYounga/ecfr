@@ -1,0 +1,3 @@
+##### § 831.1401 Conditions for waiver. #####
+
+Recovery of an overpayment from the Civil Service Retirement and Disability Fund may be waived pursuant to section 8346(b), of title 5, United States Code, when the annuitant (a) is without fault and (b) recovery would be against equity and good conscience. Where it has been determined that the recipient of an overpayment is ineligible for waiver, the individual is nevertheless entitled to an adjustment in the recovery schedule if he/she shows that it would cause him/her financial hardship to make payment at the rate scheduled.

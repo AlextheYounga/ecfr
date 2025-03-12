@@ -1,0 +1,9 @@
+##### § 531.204 Entitlement to other rates of pay. #####
+
+(a) A law enforcement officer is entitled to LEO special base rates in lieu of GS rates at grades GS-3 through GS-10. A law enforcement officer is entitled to the LEO special base rate that corresponds to his or her grade and step. If an employee loses LEO status, the employee is entitled to the GS rate for his or her grade and step unless a higher rate is set under the maximum payable rate rule in § 531.221 or under the pay retention rules in 5 CFR part 536, as applicable. LEO special base rates are used in computing locality rates, as provided in subpart F of this part. A law enforcement officer may be entitled to a special rate that is computed using the underlying GS rate for the LEO's grade and step.
+
+(b) When an employee's GS rate or LEO special base rate is determined under the rules of this subpart, the agency must determine any other rate of basic pay to which the employee is entitled, including a locality rate under subpart F of this part and a special rate under 5 CFR part 530, subpart C, or other legal authority (e.g., 38 U.S.C. 7455). The employee is entitled to the highest applicable rate of basic pay as his or her payable rate. When an employee's special rate is surpassed by a higher locality rate, his or her entitlement to a special rate is terminated, as provided in § 530.303(d).
+
+(c) When application of the rules in this subpart results in setting an employee's payable rate in the highest applicable pay schedule (e.g., a locality rate schedule or a special rate schedule), the agency must determine the employee's underlying GS rate or LEO special base rate, as applicable, based on that payable rate (*i.e.*, by finding the corresponding underlying rate with the same grade and step (or relative position in range for a GM employee) as the payable rate).
+
+[70 FR 31291, May 31, 2005, as amended at 73 FR 66152, Nov. 7, 2008]

@@ -1,0 +1,5 @@
+##### 12.213 Other commercial practices. #####
+
+It is a common practice in the commercial marketplace for both the buyer and seller to propose terms and conditions written from their particular perspectives. The terms and conditions prescribed in this part seek to balance the interests of both the buyer and seller. These terms and conditions are generally appropriate for use in a wide range of acquisitions. However, market research may indicate other commercial practices that are appropriate for the acquisition of the particular item. These practices should be considered for incorporation into the solicitation and contract if the contracting officer determines them appropriate in concluding a business arrangement satisfactory to both parties and not otherwise precluded by law or Executive order.
+
+[62 FR 264, Jan. 2, 1997]

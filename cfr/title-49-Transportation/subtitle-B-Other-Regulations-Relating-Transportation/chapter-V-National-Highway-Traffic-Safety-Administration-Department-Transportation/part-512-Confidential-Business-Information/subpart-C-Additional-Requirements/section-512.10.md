@@ -1,0 +1,3 @@
+##### § 512.10 Duty to amend. #####
+
+The submitter shall promptly amend any supporting information provided under § 512.4 if the submitter obtains information upon the basis of which the submitter knows that the supporting information was incorrect when provided, or that the supporting information, though correct when provided to the agency, is no longer correct and the circumstances are such that a failure to amend the supporting information is in substance a knowing concealment.

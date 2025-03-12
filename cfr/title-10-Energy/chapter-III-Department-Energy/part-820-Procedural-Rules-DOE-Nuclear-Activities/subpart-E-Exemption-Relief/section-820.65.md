@@ -1,0 +1,3 @@
+##### § 820.65 Implementation plan. #####
+
+With respect to a DOE Nuclear Safety Requirement for which there is no regulatory provision for an implementation plan or schedule, an exemption may be granted to establish an implementation plan which reasonably demonstrates that full compliance with the requirement will be achieved within two years of the effective date of the requirement without a determination of special circumstances under § 820.62(d).

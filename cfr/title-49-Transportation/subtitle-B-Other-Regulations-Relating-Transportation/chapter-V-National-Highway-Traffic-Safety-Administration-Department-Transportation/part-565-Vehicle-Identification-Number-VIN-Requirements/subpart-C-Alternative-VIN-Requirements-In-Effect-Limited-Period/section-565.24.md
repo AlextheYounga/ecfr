@@ -1,0 +1,5 @@
+##### § 565.24 Motor vehicles imported into the United States. #####
+
+(a) Importers shall utilize the VIN assigned by the original manufacturer of the motor vehicle.
+
+(b) A passenger car certified by a Registered Importer under 49 CFR part 592 shall have a plate or label that contains the following statement, in characters with a minimum height of 4 mm, with the identification number assigned by the original manufacturer provided in the blank: SUBSTITUTE FOR U.S. VIN:\_\_\_\_\_\_SEE PART 565. The plate or label shall conform to § 565.23 (h) and (i). The plate or label shall be permanently affixed inside the passenger compartment. The plate or label shall be readable, without moving any part of the vehicle, through the vehicle glazing under daylight lighting conditions by an observer having 20/20 vision (Snellen) whose eye-point is located outside the vehicle adjacent to the left windshield pillar. It shall be located in such a manner as not to cover, obscure, or overlay any part of any identification number affixed by the original manufacturer. Passenger cars conforming to Canadian Motor Vehicle Safety Standard 115 are exempt from this paragraph.

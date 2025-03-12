@@ -1,0 +1,17 @@
+##### § 179.400-9 Stiffening rings. #####
+
+(a) If stiffening rings are used in designing the cylindrical portion of the outer jacket for external pressure, they must be attached to the jacket by means of fillet welds. Outside stiffening ring attachment welds must be continuous on each side of the ring. Inside stiffening ring attachment welds may be intermittent welds on each side of the ring with the total length of weld on each side not less than one-third of the circumference of the tank. The maximum space between welds may not exceed eight times the outer jacket wall thickness.
+
+(b) A portion of the outer jacket may be included when calculating the moment of inertia of the ring. The effective width of jacket plate on each side of the attachment of the stiffening ring is given by the following formula:
+
+W = 0.78(Rt)0.5Where:W = width of jacket effective on each side of the stiffening ring, in inches;R = outside radius of the outer jacket, in inches;t = plate thickness of the outer jacket, after forming, in inches.
+
+(c) Where a stiffening ring is used that consists of a closed section having two webs attached to the outer jacket, the jacket plate between the webs may be included up to the limit of twice the value of “W”, as defined in paragraph (b) of this section. The outer flange of the closed section, if not a steel structural shape, is subject to the same limitations with “W” based on the “R” and “t” values of the flange. Where two separate members such as two angles, are located less than “2W” apart they may be treated as a single stiffening ring member. (The maximum length of plate which may be considered effective is 4W.) The closed section between an external ring and the outer jacket must be provided with a drain opening.
+
+(d) The stiffening ring must have a moment of inertia large enough to support the critical collapsing pressure, as determined by either of the following formulas:
+
+I = [0.035D3 LPc] / E,orI′ = [0.046D3 LPc] / EWhere:I = required moment of inertia of stiffening ring about the centroidal axis parallel to the vessel axis, in inches to the fourth power;I′ = required moment of inertia of combined section of stiffening ring and effective width of jacket plate about the centroidal axis parallel to the vessel axis, in inches to the fourth power;D = outside diameter of the outer jacket, in inches;L = one-half of the distance from the centerline of the stiffening ring to the next line of support on one side, plus one-half of the distance from the centerline to the next line of support on the other side of stiffening ring. Both distances are measured parallel to the axis of the vessel, in inches. (A line of support is:(1) A stiffening ring which meets the requirements of this paragraph, or(2) A circumferential line of a head at one-third the depth of the head from the tangent line);Pc = critical collapsing pressure (37.5 psig minimum) in psig;E = modulus of elasticity of stiffening ring material, in psi.
+
+(e) Where loads are applied to the outer jacket or to stiffening rings from the system used to support the inner tank within the outer jacket, additional stiffening rings, or an increased moment of inertia of the stiffening rings designed for the external pressure, must be provided to carry the support loads.
+
+[Amdt. 179-32, 48 FR 27708, June 16, 1983, as amended at 66 FR 45391, Aug. 28, 2001]

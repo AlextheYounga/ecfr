@@ -1,0 +1,3 @@
+##### § 474.1 Purpose and Scope. #####
+
+This part contains procedures for calculating a value for the petroleum-equivalent fuel economy of electric vehicles, as required by 49 U.S.C. 32904(a)(2). The petroleum-equivalent fuel economy value is intended to be used by the Environmental Protection Agency in calculating corporate average fuel economy values pursuant to regulations at 40 CFR Part 600—Fuel Economy of Motor Vehicles.

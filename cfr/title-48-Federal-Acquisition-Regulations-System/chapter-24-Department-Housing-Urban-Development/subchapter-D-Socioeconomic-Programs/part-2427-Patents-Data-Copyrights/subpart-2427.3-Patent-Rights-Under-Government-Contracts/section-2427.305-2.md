@@ -1,0 +1,3 @@
+##### 2427.305-2 Administration by the Government. #####
+
+(b) Contractor reports. Contractors shall complete and submit to the Contracting Officer HUD Form 770, Report of Inventions and Subcontracts, upon receipt of said form. The Contracting Officer shall send the form to those contractors whose contract work may have required the development of inventions upon physical completion of the contract.

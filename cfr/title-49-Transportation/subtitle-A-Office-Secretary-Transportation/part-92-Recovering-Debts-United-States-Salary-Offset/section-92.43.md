@@ -1,0 +1,7 @@
+##### § 92.43 Requests for recovery when the Department is the paying agency. #####
+
+(a) *Incomplete request for recovery.* If the request for recovery received by the chief of the accounting or finance office of the appropriate DOT operating element is incomplete in any respect (see § 92.21(b)) including, but not limited to, the failure to certify in writing that the employee owes the debt, the amount and basis of the debt, the date on which payment(s) is due, the date the creditor agency's right to collect the debt first accrued, and that the creditor agency's regulations implementing 5 U.S.C. 5514 were approved by OPM, the request shall be returned to the creditor agency with a statement of the deficiency. No action to implement salary offset may be initiated until a complete request has been received.
+
+(b) *Complete request for recovery.* If a complete request for recovery is received by the chief of the accounting or finance office of the appropriate DOT operating element, a copy of the request and any supporting documentation shall be transmitted to the appropriate payroll office, and deductions shall be scheduled to begin at the next officially established pay interval. A copy of the request and any supporting documentation shall be provided to the debtor, along with a notice of the date deductions will begin.
+
+(c) The DOT operating element may not review the merits of the creditor agency's determination with respect to the amount or validity of the debt as stated in the request for recovery.

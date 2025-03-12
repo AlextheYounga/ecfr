@@ -1,0 +1,3 @@
+##### § 593.2 Purpose. #####
+
+The purpose of this part is to provide content and format requirements for any Registered Importer and manufacturer who wishes to petition the Administrator for a determination that a vehicle not originally manufactured to conform to all applicable Federal motor vehicle safety standards is eligible to be imported into the United States because it can be modified to meet the standards. The purpose of this part is also to specify procedures under which the Administrator makes eligibility determinations pursuant to those petitions as well as eligibility determinations on the agency's initiative.

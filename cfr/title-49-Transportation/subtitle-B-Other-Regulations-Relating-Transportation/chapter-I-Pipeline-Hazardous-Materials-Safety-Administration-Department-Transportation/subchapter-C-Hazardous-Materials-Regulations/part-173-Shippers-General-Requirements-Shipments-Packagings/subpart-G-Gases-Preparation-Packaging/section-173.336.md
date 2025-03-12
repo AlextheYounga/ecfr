@@ -1,0 +1,7 @@
+##### § 173.336 Nitrogen dioxide, liquefied, or dinitrogen tetroxide, liquefied. #####
+
+(a) Nitrogen dioxide, liquefied, or dinitrogen tetroxide, liquefied, must be packaged in specification or UN cylinders as prescribed in § 173.192, except valves are not authorized. UN tubes and MEGCs are not authorized for use. Cylinders must be equipped with a stainless steel valve and valve seat that will not deteriorate in contact with nitrogen dioxide. Each valve opening must be closed by a solid metal plug with tapered thread properly luted to prevent leakage. Transportation in DOT 3AL cylinders is authorized only by highway and rail.
+
+(b) Each UN pressure receptacle must be cleaned in accordance with the requirements of ISO 11621 (IBR, see § 171.7 of this subchapter). Each DOT specification cylinder must be cleaned according to the requirements of GSA Federal Specification RR-C-901D, paragraphs 3.3.1 and 3.3.2 (IBR, see § 171.7 of this subchapter). Cleaning agents equivalent to those specified in RR-C-901D may be used; however, any cleaning agent must not be capable of reacting with oxygen. One cylinder selected at random from a group of 200 or fewer and cleaned at the same time must be tested for oil contamination in accordance with Specification RR-C-901D, paragraph 4.3.2 (IBR, see § 171.7 of this subchapter) and meet the standard of cleanliness specified therein.
+
+[71 FR 33885, June 12, 2006]

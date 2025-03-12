@@ -1,0 +1,11 @@
+##### § 205.192 Proposed remedial order. #####
+
+(a) If the ERA finds, after the 30-day or other period authorized for reply to the Notice of Probable Violation, that a violation has occurred, is continuing, or is about to occur, it may issue a Proposed Remedial Order, which shall set forth the relevant facts and law.
+
+(b) The ERA may issue a Proposed Remedial Order at any time it finds that a violation has occurred, is continuing, or is about to occur even if it has not previously issued a Notice of Probable Violation.
+
+(c) The ERA shall serve a copy of the Proposed Remedial Order upon the person to whom it is directed. The ERA shall promptly publish a notice in the Federal Register which states the person to whom the Proposed Remedial Order is directed, his address, and the products, dollar amounts, time period, and geographical area specified in the Proposed Remedial Order. The notice shall indicate that a copy of the Proposed Remedial Order with confidential information, if any, deleted may be obtained from the ERA and that within 15 days after the date of publication any aggrieved person may file a Notice of Objection with the Office of Hearings and Appeals of accordance with § 205.193. The ERA shall mail copies of the Federal Register notice to all readily identifiable persons who are likely to be aggrieved by issuance of the Proposed Remedial Order as a final order.
+
+(d) The Proposed Remedial Order shall set forth the proposed findings of fact and conclusions of law upon which it is based. It shall also include a discussion of the relevant authorities which support the position asserted, including rules, regulations, rulings, interpretations and previous decisions issued by DOE or its predecessor agencies. The Proposed Remedial Order shall be accompanied by a declaration executed by the DOE employee primarily knowledgeable about the facts of the case stating that, to the best of declarant's knowledge and belief, the findings of fact are correct.
+
+(e) The ERA may amend or withdraw a Proposed Remedial Order at its discretion prior to the date of service of a Statement of Objections in that proceeding. The date of service of the amended documents shall be considered the date of service of the Proposed Remedial Order in calculating the time periods specified in this part 205.

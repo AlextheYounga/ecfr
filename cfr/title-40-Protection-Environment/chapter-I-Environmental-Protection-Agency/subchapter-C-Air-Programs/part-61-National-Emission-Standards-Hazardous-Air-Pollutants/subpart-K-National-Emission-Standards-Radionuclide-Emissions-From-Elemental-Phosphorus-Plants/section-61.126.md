@@ -1,0 +1,7 @@
+##### § 61.126 Monitoring of operations. #####
+
+(a) The owner or operator of any source subject to this subpart using a wet-scrubbing emission control device shall install, calibrate, maintain, and operate a monitoring device for the continuous measurement and recording of the pressure drop of the gas stream across each scrubber. The monitoring device must be certified by the manufacturer to be accurate within ±250 pascal (±1 inch of water). The owner or operator of any source subject to this subpart using a wet-scrubbing emission control device shall also install, calibrate, maintain, and operate a monitoring device for the continuous measurement and recording of the scrubber fluid flow rate. These continuous measurement recordings shall be maintained at the source and made available for inspection by the Administrator, or his authorized representative, for a minimum of 5 years.
+
+(b) The owner or operator of any source subject to this subpart using an electrostatic precipitator control device shall install, calibrate, maintain, and operate a monitoring device for the continuous measurement and recording of the primary and secondary current and the voltage in each electric field. These continuous measurement recordings shall be maintained at the source and made available for inspection by the Administrator, or his authorized representative, for a minimum of 5 years.
+
+[56 FR 65943, Dec. 19, 1991]

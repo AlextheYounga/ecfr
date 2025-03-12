@@ -1,0 +1,3 @@
+##### § 430.44 Consolidation. #####
+
+DOE may consolidate any or all matters at issue in two or more proceedings docketed where there exist common parties, common questions of fact and law, and where such consolidation would expedite or simplify consideration of the issues. Consolidation shall not affect the right of any party to raise issues that could have been raised if consolidation had not occurred.

@@ -1,0 +1,3 @@
+##### § 353.202 Discrimination and acts of reprisal prohibited. #####
+
+A person who seeks or holds a position in the Executive branch may not be denied hiring, retention in employment, or any other incident or advantage of employment because of any application, membership, or service in the uniformed services. Furthermore, an agency may not take any reprisal against an employee for taking any action to enforce a protection, assist or participate in an investigation, or exercise any right provided for under chapter 43 of title 38, United States Code.

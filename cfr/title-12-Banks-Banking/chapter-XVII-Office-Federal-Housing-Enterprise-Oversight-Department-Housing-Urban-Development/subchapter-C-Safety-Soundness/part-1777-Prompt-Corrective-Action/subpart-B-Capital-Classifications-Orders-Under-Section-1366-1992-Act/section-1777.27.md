@@ -1,0 +1,9 @@
+##### § 1777.27 Exhaustion and review. #####
+
+(a) *Judicial review*—(1) *Review of certain actions.* An Enterprise that is not classified as critically undercapitalized may seek judicial review of a final notice of capital classification issued pursuant to § 1777.21(a)(3) or a final notice of order issued pursuant to § 1777.26(a) in accordance with section 1369D of the 1992 Act (12 U.S.C. 4623)
+
+(2) *Other review barred.* Except as set out in paragraph (a)(1) of this section, or review of conservatorship appointments to the limited extent provided in section 1369(b) of the 1992 Act (12 U.S.C. 4619(b)) and § 1777.28(c), no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or effectiveness of a capital classification or any other action of OFHEO pursuant to this subpart B, as provided in section 1369D of the 1992 Act (12 U.S.C. 4623).
+
+(b) *Exhaustion of administrative remedies.* In connection with any issue for which an Enterprise seeks judicial review in connection with an action described in paragraph (a)(1) of this section, the Enterprise must have first exhausted its administrative remedies, by presenting all its objections, arguments, and information relating to such issue for OFHEO's consideration pursuant to § 1777.21(a)(2), as part of the Enterprise's response to OFHEO's notice of capital classification, or pursuant to § 1777.25, as part of the Enterprise's response to OFHEO's notice of intent to issue an order.
+
+(c) *No stay pending review.* The commencement of proceedings for judicial review of a final capital classification or order as described in paragraph (a)(1) of this section shall not operate as a stay thereof.

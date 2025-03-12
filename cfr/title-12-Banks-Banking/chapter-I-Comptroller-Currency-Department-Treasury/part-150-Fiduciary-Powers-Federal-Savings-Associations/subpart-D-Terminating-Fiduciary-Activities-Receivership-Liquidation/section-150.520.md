@@ -1,0 +1,3 @@
+##### § 150.520 What happens if I am placed in receivership or voluntary liquidation? #####
+
+If the OCC appoints a conservator or receiver, or if you place yourself in voluntary liquidation, the receiver, conservator, or liquidating agent must promptly close or transfer all fiduciary accounts to a substitute fiduciary, in accordance with OCC instructions and the orders of the court having jurisdiction.

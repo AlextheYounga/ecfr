@@ -1,0 +1,13 @@
+##### 9905.501-50 Techniques for application. #####
+
+(a) The standard allows grouping of homogeneous costs in order to cover those cases where it is not practicable to estimate contract costs by individual cost element. However, costs estimated for proposal purposes shall be presented in such a manner and in such detail that any significant cost can be compared with the actual cost accumulated and reported therefor. In any event, the cost accounting practices used in estimating costs in pricing a proposal and in accumulating and reporting costs on the resulting contract shall be consistent with respect to:
+
+(1) The classification of elements of cost as direct or indirect;
+
+(2) The indirect cost pools to which each element of cost is charged or proposed to be charged; and
+
+(3) The methods of allocating indirect costs to the contract.
+
+(b) Adherence to the requirement of 9905.501-40(a) of this standard shall be determined as of the date of award of the contract, unless the contractor has submitted cost or pricing data pursuant to 10 U.S.C. 2306(a) or 41 U.S.C. 254(d) (Pub. L. 87-653), in which case adherence to the requirement of 9905.501-40(a) shall be determined as of the date of final agreement on price, as shown on the signed certificate of current cost or pricing data. Notwithstanding 9905.501-40(b), changes in established cost accounting practices during contract performance may be made in accordance with part 9903 (48 CFR part 9903).
+
+(c) The standard does not prescribe the amount of detail required in accumulating and reporting costs. The basic requirement which must be met, however, is that for any significant amount of estimated cost, the contractor must be able to accumulate and report actual cost at a level which permits sufficient and meaningful comparison with its estimates. The amount of detail required may vary considerably depending on how the proposed costs were estimated, the data presented in justification or lack thereof, and the significance of each situation. Accordingly, it is neither appropriate nor practical to prescribe a single set of accounting practices which would be consistent in all situations with the practices of estimating costs. Therefore, the amount of accounting and statistical detail to be required and maintained in accounting for estimated costs has been and continues to be a matter to be decided by Government procurement authorities on the basis of the individual facts and circumstances.

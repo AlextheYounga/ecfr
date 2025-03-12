@@ -1,0 +1,3 @@
+##### 847.303-1 F.o.b. origin. #####
+
+Shipments falling within this category must be shipped on a bill of lading, except as provided in 41 CFR 102-118.40. Contracting officers must comply with 41 CFR Parts 102-117 and 102-118. Contact the Traffic Manager for assistance in determining when to issue the applicable bill of lading (VA Commercial Bill of Lading for domestic use or Government Bill of Lading for international shipments and domestic off-shore shipments) and for all freight estimates.

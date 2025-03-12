@@ -1,0 +1,3 @@
+##### § 140.19 Failure by licensees to maintain financial protection. #####
+
+In any case where the Commission finds that the financial protection maintained by a licensee is not adequate to meet the requirements of this part, the Commission may suspend or revoke the license or may issue such order with respect to licensed activities as the Commission determines to be appropriate or necessary in order to carry out the provisions of this part and of section 170 of the Act.

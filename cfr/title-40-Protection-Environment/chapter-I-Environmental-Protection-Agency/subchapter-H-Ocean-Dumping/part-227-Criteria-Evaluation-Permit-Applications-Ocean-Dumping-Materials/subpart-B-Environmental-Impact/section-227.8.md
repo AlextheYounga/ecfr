@@ -1,0 +1,3 @@
+##### § 227.8 Limitations on the disposal rates of toxic wastes. #####
+
+No wastes will be deemed acceptable for ocean dumping unless such wastes can be dumped so as not to exceed the limiting permissible concentration as defined in § 227.27; *Provided,* That this § 227.8 does not apply to those wastes for which specific criteria are established in § 227.11 or § 227.12. Total quantities of wastes dumped at a site may be limited as described in § 228.8.

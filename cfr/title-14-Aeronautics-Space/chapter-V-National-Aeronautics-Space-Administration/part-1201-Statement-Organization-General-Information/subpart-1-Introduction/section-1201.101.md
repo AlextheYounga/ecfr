@@ -1,0 +1,3 @@
+##### § 1201.101 Purpose. #####
+
+It is the purpose of the National Aeronautics and Space Administration to carry out aeronautical and space activities of the United States. Such activities shall be the responsibility of, and shall be directed by, the National Aeronautics and Space Administration, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States shall be the responsibility of, and shall be directed by, the Department of Defense.

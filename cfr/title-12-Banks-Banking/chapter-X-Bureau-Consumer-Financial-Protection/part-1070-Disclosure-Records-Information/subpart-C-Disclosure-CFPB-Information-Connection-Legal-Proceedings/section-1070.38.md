@@ -1,0 +1,9 @@
+##### § 1070.38 Prohibition on providing expert or opinion testimony. #####
+
+(a) Except as provided in this section, and subject to 5 CFR 2635.805, CFPB employees or former employees shall not provide opinion or expert testimony based upon information which they acquired in the scope and performance of their official CFPB duties, except on behalf of the CFPB or the United States or a party represented by the CFPB, or the Department of Justice, as appropriate.
+
+(b) Any expert or opinion testimony by a former employee of the CFPB shall be excepted from paragraph (a) of this section where the testimony involves only general expertise gained while employed at the CFPB.
+
+(c) Upon a showing by the requestor of exceptional need or unique circumstances and that the anticipated testimony will not be adverse to the interests of the United States, the General Counsel may, consistent with 5 CFR 2635.805, exercise his or her discretion to grant special, written authorization for CFPB employees, or former employees, to appear and testify as expert witnesses at no expense to the United States.
+
+(d) If, despite the final determination of the General Counsel, a court of competent jurisdiction or other appropriate authority orders the appearance and expert or opinion testimony of a current or former CFPB employee, that person shall immediately inform the General Counsel of such order. If the General Counsel determines that no further legal review of or challenge to the court's order will be made, the CFPB employee, or former employee, shall comply with the order. If so directed by the General Counsel, however, the employee, or former employee, shall respectfully decline to testify.

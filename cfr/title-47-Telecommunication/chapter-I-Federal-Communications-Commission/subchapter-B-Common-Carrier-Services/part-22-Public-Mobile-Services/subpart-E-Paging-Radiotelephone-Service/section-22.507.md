@@ -1,0 +1,13 @@
+##### § 22.507 Number of transmitters per station. #####
+
+This section concerns the number of transmitters licensed under each station authorization in the Paging and Radiotelephone Service, other than paging geographic area authorizations.
+
+(a) *Operationally related transmitters.* Each station must have at least one transmitter. There is no limit to the number of transmitters that a station may comprise. However, transmitters within a station should be operationally related and/or should serve the same general geographical area. Operationally related transmitters are those that operate together as a system (*e.g.*, trunked systems, simulcast systems), rather than independently.
+
+(b) *Split of large systems.* The FCC may split wide-area systems into two or more stations for administrative convenience. Except for nationwide paging and other operationally related transmitters, transmitters that are widely separated geographically are not licensed under a single authorization.
+
+(c) *Consolidation of separate stations.* The FCC may consolidate site-specific contiguous authorizations upon request (FCC Form 601) of the licensee, if appropriate under paragraph (a) of this section. Paging licensees may include remote, stand-alone transmitters under the single system-wide authorization, if the remote, stand-alone transmitter is linked to the system via a control/repeater facility or by satellite. Including a remote, stand-alone transmitter in a system-wide authorization does not alter the limitations provided under § 22.503(f) on entities other than the paging geographic area licensee. In the alternative, paging licensees may maintain separate site-specific authorizations for stand-alone or remote transmitters. The earliest expiration date of the authorizations that make up the single system-wide authorization will determine the expiration date for the system-wide authorization. Licensees must file timely renewal applications for site-specific authorizations included in a single system-wide authorization request until the request is approved. Renewal of the system-wide authorization will be subject to § 1.949 of this chapter.
+
+(d) *Replacement of site-by-site authorizations with single authorization.* After a paging geographic area authorization for a channel has been issued, the FCC may, on its own motion, replace the authorization(s) of any other licensee (for facilities located within that paging geographic area on that channel) with a single replacement authorization.
+
+[62 FR 11634, Mar. 12, 1997, as amended at 63 FR 68945, Dec. 14, 1998; 64 FR 33784, June 24, 1999]

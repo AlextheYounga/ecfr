@@ -1,0 +1,3 @@
+##### § 1110.4 Participation. #####
+
+Any person may participate in rulemaking proceedings by submitting written information or views. In addition, the Board may invite persons to present oral arguments, participate in informal conferences, appear at informal fact-finding hearings, or participate in any other proceedings. Information contained in written submissions will be given the same consideration.

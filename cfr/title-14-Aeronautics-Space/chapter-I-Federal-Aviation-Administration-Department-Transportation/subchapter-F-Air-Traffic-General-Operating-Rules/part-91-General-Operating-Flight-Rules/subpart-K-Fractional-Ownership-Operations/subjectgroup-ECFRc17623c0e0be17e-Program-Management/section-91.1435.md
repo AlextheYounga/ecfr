@@ -1,0 +1,5 @@
+##### § 91.1435 CAMP: Certificate requirements. #####
+
+(a) Except for maintenance, preventive maintenance, alterations, and required inspections performed by repair stations located outside the United States certificated under the provisions of part 145 of this chapter, each person who is directly in charge of maintenance, preventive maintenance, or alterations for a CAMP, and each person performing required inspections for a CAMP must hold an appropriate airman certificate.
+
+(b) For the purpose of this section, a person “directly in charge” is each person assigned to a position in which that person is responsible for the work of a shop or station that performs maintenance, preventive maintenance, alterations, or other functions affecting airworthiness. A person who is directly in charge need not physically observe and direct each worker constantly but must be available for consultation and decision on matters requiring instruction or decision from higher authority than that of the person performing the work.

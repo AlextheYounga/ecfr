@@ -1,0 +1,3 @@
+##### § 80.312 Priority of distress transmissions. #####
+
+The distress call has absolute priority over all other transmissions. All stations which hear it must immediately cease any transmission capable of interfering with the distress traffic and must continue to listen on the frequency used for the emission of the distress call. This call must not be addressed to a particular station. Acknowledgement of receipt must not be given before the distress message which follows it is sent.

@@ -1,0 +1,3 @@
+##### § 1015.504 Preservation of evidence. #####
+
+DOE will take care to preserve all files and records that may be needed by the DOJ to prove its claims in court. DOE ordinarily will include certified copies of the documents that form the basis for the claim in the packages referring its claims to the DOJ for litigation. DOE shall provide originals of such documents immediately upon request by the DOJ.

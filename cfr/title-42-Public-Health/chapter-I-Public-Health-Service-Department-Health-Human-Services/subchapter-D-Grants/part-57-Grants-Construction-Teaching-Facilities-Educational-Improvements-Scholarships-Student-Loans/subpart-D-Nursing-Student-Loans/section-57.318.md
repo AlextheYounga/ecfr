@@ -1,0 +1,3 @@
+##### § 57.318 Noncompliance. #####
+
+Whenever the Secretary finds that a participating school has failed to comply with the applicable provisions of the Act or the regulations of this subpart he or she may, on reasonable notice to the school, withhold further payments of Federal capital contributions and take other action, including the termination of any agreement, as he or she finds necessary to enforce the Act and regulations. In such case no further expenditures shall be made from the nursing student loan fund or funds involved until the Secretary determines that there is no longer any failure of compliance.

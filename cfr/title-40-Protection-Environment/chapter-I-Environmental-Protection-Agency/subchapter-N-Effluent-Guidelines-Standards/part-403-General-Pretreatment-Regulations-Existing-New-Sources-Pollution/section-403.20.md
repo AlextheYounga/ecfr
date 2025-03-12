@@ -1,0 +1,5 @@
+##### § 403.20 Pretreatment Program Reinvention Pilot Projects Under Project XL. #####
+
+The Approval Authority may allow any publicly owned treatment works (POTW) that has a final “Project XL” agreement to implement a Pretreatment Program that includes legal authorities and requirements that are different than the administrative requirements otherwise applicable under this part. The POTW must submit any such alternative requirements as a substantial program modification in accordance with the procedures outlined in § 403.18. The approved modified program must be incorporated as an enforceable part of the POTW's NPDES permit. The Approval Authority must include a reopener clause in the POTW's NPDES permit that directs the POTW to discontinue implementing the approved alternative requirements and resume implementation of its previously approved pretreatment program if the Approval Authority determines that the primary objectives of the Local Pilot Pretreatment Program are not being met or the “Project XL” agreement expires or is otherwise terminated.
+
+[66 FR 50339, Oct. 3, 2001]

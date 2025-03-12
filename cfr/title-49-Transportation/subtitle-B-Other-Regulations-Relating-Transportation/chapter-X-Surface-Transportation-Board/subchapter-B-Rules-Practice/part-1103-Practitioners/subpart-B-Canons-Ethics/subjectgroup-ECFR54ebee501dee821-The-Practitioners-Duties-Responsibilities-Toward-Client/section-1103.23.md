@@ -1,0 +1,5 @@
+##### § 1103.23 Confidences of a client. #####
+
+(a) The practitioner's duty to preserve his client's confidence outlasts the practitioner's employment by the client, and this duty extends to the practitioner's employees as well. Neither practitioner nor his employees shall accept employment which involves the disclosure or use of a client's confidences without knowledge and consent of the client even though there are other available sources of information. A practitioner shall not continue employment when he discovers that this obligation presents a conflict in his duty between the former and the new client.
+
+(b) If a practitioner is falsely accused by his client, he is not precluded from disclosing the truth in respect to the false accusation. The announced intention of a client to commit a crime is not included in the confidence which a practitioner is bound to respect. The practitioner may properly make such disclosures to prevent the act or protect those against whom that is threatened.

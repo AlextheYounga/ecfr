@@ -1,0 +1,3 @@
+##### § 1639.56 Expedited procedure. #####
+
+The Board may effect an administrative offset against a payment to be made to the debtor before completion of the procedures required by §§ 1639.51 and 1639.52 if failure to take the offset would substantially jeopardize the Board's ability to collect the debt and the time before the payment is to be made does not reasonably permit the completion of those procedures. An expedited offset will be promptly followed by the completion of those procedures. Amounts recovered by offset, but later found not to be owed to the Board, will be promptly refunded.

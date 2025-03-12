@@ -1,0 +1,3 @@
+##### § 590.505 Answers to applications for rehearing. #####
+
+No answers to applications for rehearing shall be entertained. Prior to the issuance of any final opinion and order on rehearing, however, the Assistant Secretary may afford the parties an opportunity to file briefs or answers and may order that a conference, oral presentation, or trial-type hearing be held on some or all of the issues presented by an application for rehearing.

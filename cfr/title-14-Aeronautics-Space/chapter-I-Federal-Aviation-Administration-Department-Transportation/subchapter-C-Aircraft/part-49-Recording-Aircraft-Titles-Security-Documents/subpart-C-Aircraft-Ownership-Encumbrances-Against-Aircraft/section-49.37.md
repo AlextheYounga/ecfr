@@ -1,0 +1,3 @@
+##### § 49.37 Claims for salvage or extraordinary expenses. #####
+
+The right to a charge arising out of a claim for compensation for salvage of an aircraft or for extraordinary expenses indispensable for preserving the aircraft in operations terminated in a foreign country that is a party to the Convention on the International Recognition of Rights in Aircraft (4 U.S.T. 1830) may be noted on the FAA record by filing notice thereof with the FAA Aircraft Registry within three months after the date of termination of the salvage or preservation operations.

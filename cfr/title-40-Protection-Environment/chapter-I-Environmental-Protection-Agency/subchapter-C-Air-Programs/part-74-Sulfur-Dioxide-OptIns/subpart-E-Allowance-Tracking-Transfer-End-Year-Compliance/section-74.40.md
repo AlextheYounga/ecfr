@@ -1,0 +1,7 @@
+##### § 74.40 Establishment of opt-in source allowance accounts. #####
+
+(a) *Establishing accounts.* Not earlier than the date on which a combustion or process source becomes an affected unit under this part and upon receipt of a request for a compliance account under paragraph (b) of this section, the Administrator will establish a compliance account (unless the source that includes the opt-in source already has a compliance account or the opt-in source has, under § 74.4(c), a different designated representative than the designated representative for the source) and allocate allowances in accordance with subpart C of this part for combustion sources or subpart D of this part for process sources.
+
+(b) *Request for opt-in account.* The designated representative of the opt-in source shall, on or after the effective date of the opt-in permit as specified in § 74.14(d), submit a letter requesting the opening of an compliance account (unless the source that includes the opt-in source already has a compliance account or the opt-in source has, under § 74.4(c), a different designated representative than the designated representative for the source)to the Administrator.
+
+[60 FR 17115, Apr. 4, 1995, as amended at 70 FR 25336, May 12, 2005]

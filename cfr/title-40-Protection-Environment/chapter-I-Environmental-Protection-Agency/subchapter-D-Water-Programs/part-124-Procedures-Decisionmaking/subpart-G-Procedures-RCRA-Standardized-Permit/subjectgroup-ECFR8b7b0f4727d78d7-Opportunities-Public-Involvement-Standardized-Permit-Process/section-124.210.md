@@ -1,0 +1,3 @@
+##### § 124.210 May I, as an interested party in the permit process, appeal a final standardized permit? #####
+
+You may petition for administrative review of the Director's final permit decision, including his or her decision that the facility is eligible for the standardized permit, according to the procedures of § 124.19. However, the terms and conditions of the uniform portion of the standardized permit are not subject to administrative review under this provision.

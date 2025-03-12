@@ -1,0 +1,5 @@
+##### § 826.40 Payment of award. #####
+
+Within 5 days of the Board's service of a final decision granting an award of fees and expenses to an applicant, the Administrator shall transmit to the applicant instructions explaining how the applicant may obtain the award. These instructions may require, but are not limited to, the submission of the following information to the Administrator: a statement that the applicant will not seek review of the decision in the United States courts, bank routing numbers to which the Administrator may transmit payment, and the applicant's tax identification or Social Security number. The Administrator will pay the applicant the amount awarded within 60 days of receiving the necessary information from the applicant, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.
+
+[77 FR 63253, Oct. 16, 2012]

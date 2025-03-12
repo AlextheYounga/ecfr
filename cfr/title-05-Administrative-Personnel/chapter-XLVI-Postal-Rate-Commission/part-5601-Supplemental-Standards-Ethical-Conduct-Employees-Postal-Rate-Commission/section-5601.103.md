@@ -1,0 +1,3 @@
+##### § 5601.103 Notice of disqualification when seeking employment. #####
+
+An employee who has been assigned to a particular matter which affects the financial interests of a prospective employer and who is required, in accordance with 5 CFR 2635.604(a), to disqualify himself from participation in that matter shall, notwithstanding the guidance in 5 CFR 2635.604 (b) and (c), provide notice of disqualification to his supervisor upon determining that he will not participate in the matter.

@@ -1,0 +1,9 @@
+##### 33.205 Relationship of the Disputes statute to Pub. L. 85-804. #####
+
+(a) Requests for relief under Pub. L. 85-804 (50 U.S.C. 1431-1435) are not claims within the Disputes statute or the Disputes clause at 52.233-1, Disputes, and shall be processed under Subpart 50.1, Extraordinary Contractual Actions. However, relief formerly available only under Pub. L. 85-804; i.e., legal entitlement to rescission or reformation for mutual mistake, is now available within the authority of the contracting officer under the Disputes statute and the Disputes clause. In case of a question whether the contracting officer has authority to settle or decide specific types of claims, the contracting officer should seek legal advice.
+
+(b) A contractor's allegation that it is entitled to rescission or reformation of its contract in order to correct or mitigate the effect of a mistake shall be treated as a claim under the Dispute statute. A contract may be reformed or rescinded by the contracting officer if the contractor would be entitled to such remedy or relief under the law of Federal contracts. Due to the complex legal issues likely to be associated with allegations of legal entitlement, contracting officers shall make written decisions, prepared with the advice and assistance of legal counsel, either granting or denying relief in whole or in part.
+
+(c) A claim that is either denied or not approved in its entirety under paragraph (b) above may be cognizable as a request for relief under Pub. L. 85-804 as implemented by subpart 50.1. However, the claim must first be submitted to the contracting officer for consideration under the Disputes statute because the claim is not cognizable under Public Law 85-804, as implemented by subpart 50.1, unless other legal authority in the agency concerned is determined to be lacking or inadequate.
+
+[48 FR 42349, Sept. 19, 1983, as amended at 72 FR 63030, Nov. 7, 2007; 79 FR 24212, Apr. 29, 2014]

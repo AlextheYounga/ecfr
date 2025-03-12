@@ -1,0 +1,7 @@
+##### § 35.3100 Policy and purpose. #####
+
+(a) The Agency intends to implement the State water pollution control revolving fund program in a manner that preserves for States a high degree of flexibility for operating their revolving funds in accordance with each State's unique needs and circumstances. The purpose of these regulations is to advance the general intent of title VI of the Clean Water Act, which is to ensure that each State's program is designed and operated to continue providing assistance for water pollution control activities in perpetuity.
+
+(b) These regulations reflect statutory and program requirements that have been previously published in the Initial Guidance for State Revolving Funds, which was signed by the Assistant Administrator for Water on January 28, 1988, and the supplementary memorandum to the Initial Guidance for State Revolving Funds, which was signed by the Assistant Administrator for Water on September 30, 1988. Copies of both documents can be obtained by writing the Office of Municipal Pollution Control (WH-546), Environmental Protection Agency, 1200 Pennsylvania Ave., NW., Washington, DC 20460.
+
+(c) These regulations supplement title VI by codifying all major program requirements, applicable to the SRF program. EPA will not impose additional major program requirements without an opportunity for affected parties to comment. The process for amending this regulation to incorporate these requirements will begin within three months of their issuance.

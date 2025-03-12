@@ -1,0 +1,5 @@
+##### § 1820.20 Restrictions that apply to released records. #####
+
+(a) The General Counsel may impose conditions or restrictions on the release of official records and information, including the requirement that parties to the proceeding obtain a protective order or execute a confidentiality agreement to limit access and any further disclosure. The terms of the protective order or of a confidentiality agreement must be acceptable to the General Counsel. In cases where protective orders or confidentiality agreements have already been executed, the OSC may condition the release of official records and information on an amendment to the existing protective order (subject to court approval) or confidentiality agreement.
+
+(b) If the General Counsel so determines, original OSC records may be presented for examination in response to a request, but they may not be presented as evidence or otherwise used in a manner by which they could lose their identity as official OSC records, nor may they be marked or altered. In lieu of the original records, certified copies may be presented for evidentiary purposes.

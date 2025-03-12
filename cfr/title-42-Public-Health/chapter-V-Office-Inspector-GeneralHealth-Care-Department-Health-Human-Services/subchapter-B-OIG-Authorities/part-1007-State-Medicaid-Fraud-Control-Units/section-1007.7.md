@@ -1,0 +1,9 @@
+##### § 1007.7 Organization and location requirements. #####
+
+Any of the following three alternatives is acceptable:
+
+(a) The unit is located in the office of the State Attorney General or another department of State government which has Statewide authority to prosecute individuals for violations of criminal laws with respect to fraud in the provision or administration of medical assistance under a State plan implementing title XIX of the Act;
+
+(b) If there is no State agency with Statewide authority and capability for criminal fraud prosecutions, the unit has established formal procedures that assure that the unit refers suspected cases of criminal fraud in the State Medicaid program to the appropriate State prosecuting authority or authorities, and provides assistance and coordination to such authority or authorities in the prosecution of such cases; or
+
+(c) The unit has a formal working relationship with the office of the State Attorney General and has formal procedures for referring to the Attorney General suspected criminal violations occurring in the State Medicaid program and for effective coordination of the activities of both entities relating to the detection, investigation and prosecution of those violations. Under this requirement, the office of the State Attorney General must agree to assume responsibility for prosecuting alleged criminal violations referred to it by the unit. However, if the Attorney General finds that another prosecuting authority has the demonstrated capacity, experience and willingness to prosecute an alleged violation, he or she may refer a case to that prosecuting authority, as long as the Attorney General's Office maintains oversight responsibility for the prosecution and for coordination between the unit and the prosecuting authority.

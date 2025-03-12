@@ -1,0 +1,3 @@
+##### § 1208.44 Interest, penalties, and administrative costs. #####
+
+FHFA shall assess interest, penalties, and administrative costs on debts owed to the Federal Government, in accordance with 31 U.S.C. 3717 and the FCCS. FHFA may also assess interest and related charges on debts that are not subject to 31 U.S.C. 3717 and the FCCS to the extent authorized under the common law or other applicable statutory authority.

@@ -1,0 +1,5 @@
+##### § 50.22 Class 103 licenses; for commercial and industrial facilities. #####
+
+A class 103 license will be issued, to an applicant who qualifies, for any one or more of the following: To transfer or receive in interstate commerce, manufacture, produce, transfer, acquire, possess, or use a production or utilization facility for industrial or commercial purposes; *Provided, however,* That in the case of a production or utilization facility which is useful in the conduct of research and development activities of the types specified in section 31 of the Act, such facility is deemed to be for industrial or commercial purposes if the facility is to be used so that more than 50 percent of the annual cost of owning and operating the facility is devoted to the production of materials, products, or energy for sale or commercial distribution, or to the sale of services, other than research and development or education or training.
+
+[38 FR 11446, May 8, 1973, as amended at 43 FR 6924, Feb. 17, 1978]

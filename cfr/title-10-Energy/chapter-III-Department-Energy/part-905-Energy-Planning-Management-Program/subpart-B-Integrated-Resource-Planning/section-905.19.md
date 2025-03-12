@@ -1,0 +1,3 @@
+##### § 905.19 How are plans and reports reviewed and approved? #####
+
+Western will review all plans and reports submitted under this subpart and notify the submitting entity of the plan's or report's acceptability within 120 days after receiving it. If a plan or report submittal is insufficient, Western will provide a notice of deficiencies to the entity that submitted the plan or report. Western, working together with the entity, will determine the time allowable for resubmitting the plan or report. However, the time allowed for resubmittal will not be greater than 9 months after the disapproval date, unless otherwise provided by applicable contract language.

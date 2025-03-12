@@ -1,0 +1,3 @@
+##### § 135.377 Large transport category airplanes: Reciprocating engine powered: Landing limitations: Alternate airports. #####
+
+No person may list an airport as an alternate airport in a flight plan unless the airplane (at the weight anticipated at the time of arrival at the airport), based on the assumptions in § 135.375(a) (1) and (2), can be brought to a full stop landing within 70 percent of the effective length of the runway.

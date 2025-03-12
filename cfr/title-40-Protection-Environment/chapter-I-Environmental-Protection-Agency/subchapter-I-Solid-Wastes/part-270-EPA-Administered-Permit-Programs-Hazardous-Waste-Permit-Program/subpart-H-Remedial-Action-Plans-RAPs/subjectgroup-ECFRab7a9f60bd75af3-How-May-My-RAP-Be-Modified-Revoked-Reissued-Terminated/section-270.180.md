@@ -1,0 +1,5 @@
+##### § 270.180 For what reasons may the Director choose to revoke and reissue my final RAP? #####
+
+(a) The Director may revoke and reissue your final RAP on his own initiative only if one or more reasons for revocation and reissuance exist(s). If one or more reasons do not exist, then the Director will not modify or revoke and reissue your final RAP, except at your request. Reasons for modification or revocation and reissuance are the same as the reasons listed for RAP modifications in § 270.175(a)(5) through (8) if the Director determines that revocation and reissuance of your RAP is appropriate.
+
+(b) The Director will not reevaluate the suitability of the facility location at the time of RAP revocation and reissuance, unless new information or standards indicate that a threat to human health or the environment exists that was unknown when the RAP was issued.

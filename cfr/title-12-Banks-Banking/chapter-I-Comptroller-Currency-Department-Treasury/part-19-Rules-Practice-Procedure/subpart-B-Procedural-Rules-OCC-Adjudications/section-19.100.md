@@ -1,0 +1,5 @@
+##### § 19.100 Filing documents. #####
+
+All materials required to be filed with or referred to the Comptroller or the administrative law judge in any proceeding under this part must be filed with the Hearing Clerk, Office of the Comptroller of the Currency, 400 7th Street, SW., Washington, DC 20219. Filings to be made with the Hearing Clerk include the notice and answer; motions and responses to motions; briefs; the record filed by the administrative law judge after the issuance of a recommended decision; the recommended decision filed by the administrative law judge following a motion for summary disposition; referrals by the administrative law judge of motions for interlocutory review; exceptions and requests for oral argument; and any other papers required to be filed with the Comptroller or the administrative law judge under this part.
+
+[68 FR 48265, Aug. 13, 2002, as amended at 73 FR 22243, Apr. 24, 2008; 79 FR 15641, Mar. 21, 2014]

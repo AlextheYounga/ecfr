@@ -1,0 +1,3 @@
+##### § 663.15 Compliance. #####
+
+A recipient subject to this part shall comply with all applicable requirements of this part. Such compliance is a condition of receiving Federal financial assistance from FTA. A recipient determined not to be in compliance with this part will be subject to the immediate suspension, withholding, or repayment of Federal financial assistance from FTA or other appropriate actions unless and until it comes into compliance with this part.

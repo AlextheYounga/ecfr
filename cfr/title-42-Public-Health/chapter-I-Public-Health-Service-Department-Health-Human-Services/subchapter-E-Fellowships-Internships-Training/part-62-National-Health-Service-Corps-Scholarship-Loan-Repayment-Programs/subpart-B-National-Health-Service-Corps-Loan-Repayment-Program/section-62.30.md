@@ -1,0 +1,5 @@
+##### § 62.30 What other regulations and statutes apply? #####
+
+Other regulations and statutes which apply to this subpart include but are not limited to:
+
+Debt Collection Act of 1982, Pub. L. 97-365 (5 U.S.C. 5514) including Section 4, Requirement that Applicant Furnish Taxpayer Identifying Number;Fair Credit Reporting Act (15 U.S.C. 1681 *et seq.*);Privacy Act of 1974 (5 U.S.C. 552a);Section 215(a) of the Public Health Service Act, as amended (42 U.S.C. 216(a)), for PHS commissioned officers, and 5 U.S.C. 3301 for civil service employees both of which authorize verification of an individual's suitability for employment;Privacy Act of 1974; Alteration of System of Records, 52 FR 21622-21627, June 8, 1987, regarding the collection, maintenance and allowable use of personal information requested from program applicants.

@@ -1,0 +1,25 @@
+##### 7.107-5 Notifications. #####
+
+(a) *Notifications to current small business contractors of agency's intent to bundle.* (1) The contracting officer shall notify each small business performing a contract that it intends to bundle the requirement at least 30 days prior to the issuance of the solicitation for the bundled requirement.
+
+(2) The notification shall provide the name, phone number and address of the applicable SBA procurement center representative (PCR), or if an SBA PCR is not assigned to the procuring activity, the SBA Office of Government Contracting Area Office serving the area in which the buying activity is located.
+
+(3) This notification shall be documented in the contract file.
+
+(b) *Notification to public of rationale for bundled requirement.* (1) The agency shall publish on its Web site a list and rationale for any bundled requirement for which the agency solicited offers or issued an award. The notification shall be made within 30 days of the agency's data certification regarding the validity and verification of data entered in the Federal Procurement Data System to the Office of Federal Procurement Policy (see 4.604).
+
+(2) In addition, the agency is encouraged to provide notification of the rationale for any bundled requirement to the GPE, before issuance of the solicitation (see 5.201).
+
+(c) *Notification to SBA of follow-on bundled or consolidated requirements.* For each follow-on bundled or consolidated requirement, the contracting officer shall obtain the following from the requiring activity and notify the SBA PCR no later than 30 days prior to issuance of the solicitation:
+
+(1) The amount of savings and benefits achieved under the prior consolidation or bundling.
+
+(2) Whether such savings and benefits will continue to be realized if the contract remains consolidated or bundled.
+
+(3) Whether such savings and benefits would be greater if the procurement requirements were divided into separate solicitations suitable for award to small business concerns.
+
+(4) List of requirements that have been added or deleted for the follow-on.
+
+(d) *Public notification of bundling policy.* In accordance with 15 U.S.C. 644(q)(2)(A)(ii), agencies shall publish the Governmentwide policy regarding contract bundling, including regarding the solicitation of teaming and joint ventures, on their agency Web site.
+
+[81 FR 67770, Sept. 30, 2016]

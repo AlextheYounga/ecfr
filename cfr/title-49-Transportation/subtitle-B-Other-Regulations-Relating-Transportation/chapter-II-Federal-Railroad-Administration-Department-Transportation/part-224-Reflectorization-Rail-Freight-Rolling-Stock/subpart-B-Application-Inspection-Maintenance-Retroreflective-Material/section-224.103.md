@@ -1,0 +1,9 @@
+##### § 224.103 Characteristics of retroreflective sheeting. #####
+
+(a) *Construction.* Retroreflective sheeting applied pursuant to this part shall consist of a smooth, flat, transparent exterior film with microprismatic retroreflective elements embedded in or suspended beneath the film so as to form a non-exposed retroreflective optical system.
+
+(b) *Color.* Retroreflective sheeting applied pursuant to this part shall be yellow, fluorescent yellow, or white as specified by the chromaticity coordinates of ASTM International's Standard D 4956-04, “Standard Specification for Retroreflective Sheeting for Traffic Control.” The Director of the Federal Register approves the incorporation by reference of this standard in this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of the incorporated standard from ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 or at *http://www.astm.org.* You may inspect a copy of the incorporated standard at the Federal Railroad Administration, Docket Clerk, 1200 New Jersey Avenue, SE., Washington, DC 20590 or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) *Performance.* Retroreflective sheeting applied pursuant to this part shall meet the requirements of ASTM D 4956-04, for Type V Sheeting if metalized or Type VII Sheeting if non-metalized, except for the initial minimum values of the coefficient of retroreflection, and shall, as initially applied, meet the minimum values for the coefficient of retroreflection specified in Table 1 of this subpart.
+
+[70 FR 62176, Oct. 28, 2005, as amended at 74 FR 25173, May 27, 2009]

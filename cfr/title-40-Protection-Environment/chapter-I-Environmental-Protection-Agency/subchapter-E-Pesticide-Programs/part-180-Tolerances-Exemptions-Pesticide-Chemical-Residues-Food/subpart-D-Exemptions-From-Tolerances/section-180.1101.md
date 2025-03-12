@@ -1,0 +1,5 @@
+##### § 180.1101 Parasitic (parasitoid) and predatory insects; exemption from the requirement of a tolerance. #####
+
+Parasitic (parasitoid) and predatory insects are exempted from the requirement of a tolerance for residues when they are used in accordance with good agricultural and pest control practices to control insect pests of stored raw whole grains such as corn, small grains, rice, soybeans, peanuts, and other legumes either bulk or warehoused in bags. For the purposes of this rule, the parasites (parasitoids) and predators are considered to be species of Hymenoptera in the genera *Trichogramma,* Trichogrammatidae; *Bracon,* Braconidae; *Venturia, Mesostenus,* Ichneumonidae; *Anisopteromalus, Choetospila, Lariophagus, Dibrachys, Habrocytus, Pteromalus,* Pteromalidae; *Cephalonomia, Holepyris, Laelius,* Bethylidae; and of Hemiptera in the genera *Xylocoris, Lyctocoris,* and *Dufouriellus,* Anthocoridae. Whole insects, fragments, parts, and other residues of these parasites and predators remain subject to 21 U.S.C. 342(a)(3).
+
+[57 FR 14646, Apr. 22, 1992]

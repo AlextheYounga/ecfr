@@ -1,0 +1,3 @@
+##### § 511.2 Nature of adjudicative proceedings. #####
+
+Adjudicative proceedings shall be conducted in accordance with title 5, U.S.C., sections 551 through 559 and this part. It is the policy of the agency that adjudicative proceedings shall be conducted expeditiously and with due regard to the rights and interests of all persons affected, and to the public interest. Therefore, the presiding officer and all parties shall make every effort at each stage of a proceeding to avoid unnecessary delay.

@@ -1,0 +1,3 @@
+##### § 386.57 Proposed findings of fact, conclusions of law. #####
+
+The administrative law judge shall afford the parties reasonable opportunity to submit proposed findings of fact, conclusions of law, and supporting reasons therefor. If the administrative law judge orders written proposals and arguments, each proposed finding must include a citation to the specific portion of the record relied on to support it. Written submissions, if any, must be served within the time period set by the administrative law judge.

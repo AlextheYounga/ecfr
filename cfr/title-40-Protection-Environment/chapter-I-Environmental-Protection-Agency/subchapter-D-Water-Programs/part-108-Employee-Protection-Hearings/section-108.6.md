@@ -1,0 +1,3 @@
+##### § 108.6 Recommendations. #####
+
+At the conclusion of any hearing under this part, the Administrative Law Judge shall, based on the record, issue tentative findings of fact and recommendations concerning the alleged discrimination, and shall submit such tentative findings and recommendations to the Administrator. The Administrator shall adopt or modify the findings and recommendations of the Administrative Law Judge, and shall make copies of such findings and recommendations available to the complaining employee, the employer, and the public.

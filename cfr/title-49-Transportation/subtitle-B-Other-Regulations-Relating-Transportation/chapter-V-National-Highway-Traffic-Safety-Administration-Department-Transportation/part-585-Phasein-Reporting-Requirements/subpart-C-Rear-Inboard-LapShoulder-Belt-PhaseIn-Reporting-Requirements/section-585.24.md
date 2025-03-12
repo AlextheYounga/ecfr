@@ -1,0 +1,11 @@
+##### § 585.24 Reporting requirements. #####
+
+(a) *Advanced credit phase-in reporting requirements.* Within 60 days after the end of the production year ending August 31, 2005, each manufacturer choosing to certify vehicles manufactured during that production year as complying with the Type 2 seat belt for each rear designated seating position requirements of Standard No. 208 shall submit a report to the National Highway Traffic Safety Administration providing the information specified in paragraph (c) of this section and in § 585.2 of this part.
+
+(b) *Phase-in reporting requirements.* Within 60 days after the end of the production years ending August 31, 2006, and August 31, 2007, each manufacturer shall submit a report to the National Highway Traffic Safety Administration regarding its compliance with the Type 2 seat belt for each rear designated seating position requirements of Standard No. 208 for its vehicles produced in that production year. The report shall provide the information specified in paragraph (d) of this section and in § 585.2 of this part. Each report shall also specify the number of advance credit vehicles, if any, which are being applied to the production year being reported on.
+
+(c) *Advanced credit phase-in report content.* With respect to the reports identified in section 585.24(a), each manufacturer shall report for the production year for which the report is filed the number of vehicles, by make and model year, that meet the applicable Type 2 seat belt for each rear designated seating position requirements of Standard No. 208.
+
+(d) *Phase-in report content.* (1) Basis for phase-in production requirements. For production years ending August 31, 2006, and August 31, 2007, each manufacturer shall provide the number of vehicles manufactured in the current production year, or, at the manufacturer's option, for the current production year and each of the prior two production years if the manufacturer has manufactured vehicles during each production year prior to the year for which the report is being submitted.
+
+(2) Production of complying vehicles. Each manufacturer shall report for the production year for which the report is filed the number of vehicles, by make and model year, that meet the applicable Type 2 seat belt for each rear designated seating position requirements of Standard No. 208.

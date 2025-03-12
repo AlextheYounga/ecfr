@@ -1,0 +1,11 @@
+##### § 28.13 Permissible activities. #####
+
+(a) *Applicability of laws*—(1) *General.* Except as otherwise provided by the IBA, other Federal laws or regulations, or otherwise determined by the OCC, the operations of a foreign bank at a Federal branch or agency shall be conducted with the same rights and privileges and subject to the same duties, restrictions, penalties, liabilities, conditions, and limitations that would apply if the Federal branch or agency were a national bank operating at the same location.
+
+(2) *Parent foreign bank senior management approval.* Unless otherwise provided by the OCC, any provision in law, regulation, policy, or procedure that requires a national bank to obtain the approval of its board of directors will be deemed to require a Federal branch or agency to obtain the approval of parent foreign bank senior management.
+
+(b) *Management of shell branches*—(1) *Federal branches and agencies.* A Federal branch or agency of a foreign bank shall not manage, through an office of the foreign bank that is located outside the United States and that is managed or controlled by that Federal branch or agency, any type of activity that a United States bank is not permitted to manage at any branch or subsidiary of the United States bank that is located outside the United States.
+
+(2) *Activities managed in foreign branches or subsidiaries of United States banks.* The types of activities referred to in paragraph (b)(1) of this section include the types of activities authorized to a United States bank by state or Federal charters, regulations issued by chartering or regulatory authorities, and other United States banking laws. However, United States procedural or quantitative requirements that may be applicable to the conduct of those activities by United States banks do not apply.
+
+(c) *Additional guidance regarding permissible activities.* For purposes of section 7(h) of the IBA, 12 U.S.C. 3105(h), the OCC may issue opinions, interpretations, or rulings regarding permissible activities of Federal branches.

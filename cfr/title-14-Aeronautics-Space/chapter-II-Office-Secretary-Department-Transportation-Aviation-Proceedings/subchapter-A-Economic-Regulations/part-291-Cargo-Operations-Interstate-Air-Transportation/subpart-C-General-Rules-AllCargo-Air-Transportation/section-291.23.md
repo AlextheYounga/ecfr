@@ -1,0 +1,7 @@
+##### § 291.23 Record retention. #####
+
+(a) The provisions of 14 CFR part 249, *Preservation of air carrier accounts, records and memoranda,* shall apply to all carriers, except that records pertaining to transportation provided on aircraft eligible to be operated under part 298 of this title, and records concerning transportation outside the geographic scope of interstate air transportation, need not be maintained unless required by other Department regulations.
+
+(b) Each carrier shall retain for 1 year a copy of each rate sheet, airwaybill contract, and other document reflecting changed, new, or other previously unreported general or special prices or rules governing the carriage of freight in interstate air transportation (except mail), unless the transportation was performed in accordance with an effective tariff on file with the Department. Each carrier shall retain for 1 year a copy of any formula based on standard weight, mileage, or other method used to determine an individual airbill or contract.
+
+(Approved by the Office of Management and Budget under control number 3024-0022)[ER-1080, 43 FR 53635, Nov. 16, 1978, as amended by ER-1270, 46 FR 63220, Dec. 31, 1981; Doc. No. 47582, 57 FR 38770, Aug. 27, 1992; 60 FR 43526, Aug. 22, 1995]

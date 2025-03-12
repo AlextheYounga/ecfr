@@ -1,0 +1,3 @@
+##### § 49.61 Applicability. #####
+
+The FAA Civil Aviation Registry is designated under Section 3 of the Cape Town Treaty Implementation Act of 2004, as the entry point for authorizing the transmission of information to the International Registry affecting United States civil aircraft, aircraft assigned a U.S. registration number and engines with a rated shaft horsepower of 550 or the equivalent thereof. This subpart applies to the transmission of information to the International Registry; the filing of the Entry Point filing form, AC Form 8050-135; and the filing of documents eligible for recording under subparts C and D of part 49.

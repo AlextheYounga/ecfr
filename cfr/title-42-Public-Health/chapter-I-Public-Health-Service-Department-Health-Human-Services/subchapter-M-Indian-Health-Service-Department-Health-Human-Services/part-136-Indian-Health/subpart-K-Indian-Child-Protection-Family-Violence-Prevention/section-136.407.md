@@ -1,0 +1,3 @@
+##### § 136.407 Under what circumstances should a conviction, or plea of nolo contendere or guilty to, be considered if there has been a pardon, expungement, set aside, or other court order of the conviction or plea? #####
+
+All convictions or pleas of nolo contendere or guilty to should be considered in making a determination unless a pardon, expungement, set aside or other court order reaches the plea of guilty, plea of nolo contendere, or the finding of guilt.

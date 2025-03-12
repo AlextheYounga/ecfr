@@ -1,0 +1,5 @@
+##### § 612.2135 Director and employee responsibilities and conduct - generally. #####
+
+(a) Directors and employees of all System institutions shall maintain high standards of industry, honesty, integrity, impartiality, and conduct in order to ensure the proper performance of System business and continued public confidence in the System and each of its institutions. The avoidance of misconduct and conflicts of interest is indispensable to the maintenance of these standards.
+
+(b) To achieve these high standards of conduct, directors and employees shall observe, to the best of their abilities, the letter and intent of all applicable local, state, and Federal laws and regulations and policy statements, instructions, and procedures of the Farm Credit Administration and System institutions and shall exercise diligence and good judgment in carrying out their duties, obligations, and responsibilities.

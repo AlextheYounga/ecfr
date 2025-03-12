@@ -1,0 +1,3 @@
+##### § 137.320 Is the Secretary required to consult with affected Indian Tribes concerning construction projects and programs? #####
+
+Yes, before developing a new project resource allocation methodology and application process the Secretary must consult with all Indian Tribes. In addition, before spending any funds for planning, design, construction, or renovation projects, whether subject to a competitive application and ranking process or not, the Secretary must consult with any Indian Tribe that would be significantly affected by the expenditure to determine and honor Tribal preferences whenever practicable concerning the size, location, type, and other characteristics of the project.

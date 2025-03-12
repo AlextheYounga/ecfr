@@ -1,0 +1,3 @@
+##### § 21.57 Examination for reappointment. #####
+
+The examination of an officer of the Reserve Corps on active duty who is being considered for reappointment in such corps shall consist of a review and evaluation of his record with the Service. The examination of an officer of the Reserve Corps on inactive duty who is being considered for reappointment in such corps shall consist of (a) a review and evaluation of his record with the Service while on active duty, if any, and (b) the record of his training or experience during the period of his inactive duty preceding such examination. In the discretion of the Surgeon General the examination for reappointment of an officer, whether on active or inactive duty, may include an oral interview.

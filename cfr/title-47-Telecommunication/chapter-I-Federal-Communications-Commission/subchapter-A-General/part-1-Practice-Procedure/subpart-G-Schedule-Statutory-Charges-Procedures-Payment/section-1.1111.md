@@ -1,0 +1,25 @@
+##### § 1.1111 Payment of charges. #####
+
+(a) The schedule of fees for applications and other filings (Bureau/Office Fee Filing Guides) lists those applications and other filings that must be accompanied by an FCC Form 159, Remittance Advice' or the electronic version of the form, FCC Form 159-E, one of the forms that is automatically generated when an applicant accesses the Commission's on-line filing and payment process.
+
+(b) Applicants may access the Commission's on-line filing (*http://www.fcc.gov/e-file.html*) and fee payment program by accessing (*http://www.fcc.gov/feefiler.html*). Applicants who use the on-line process will be directed to the appropriate electronic application and payment forms for completion and submission of the required application(s) and payment information.
+
+(c) Applications and other filings that are not submitted in accordance with these instructions will be returned as unprocessable.
+
+Note to paragraph (c):
+
+This requirement for the simultaneous submission of fee forms with applications or other filings does not apply to the payment of fees for which the Commission has established a billing process. *See* § 1.1121 of this subpart.
+
+(d) Applications returned to applicants for additional information or corrections will not require an additional fee when resubmitted, unless the additional information results in an increase of the original fee amount. Those applications not requiring an additional fee should be resubmitted directly to the Bureau/Office requesting the additional information. The original fee will be forfeited if the additional information or corrections are not resubmitted to the appropriate Bureau/Office by the prescribed deadline. A forfeited application fee will not be refunded. If an additional fee is required, the original fee will be returned and the application must be resubmitted with a new remittance in the amount of the required fee to the Commission's lockbox bank. Applicants should attach a copy of the Commission's request for additional or corrected information to their resubmission.
+
+(1) If the Bureau/Office staff discovers within 30 days after the resubmission that the required fee was not submitted, the application will be dismissed.
+
+(2) If after 30 days the Bureau/Office staff discovers the required fee has not been paid, the application will be retained and a 25 percent late fee will be assessed on the deficient amount even if the Commission has completed its action on the application. Any Commission actions taken prior to timely payment of these charges are contingent and subject to recession.
+
+(e) Should the staff change the status of an application, resulting in an increase in the fee due, the applicant will be billed for the remainder under the conditions established by § 1.1118(b) of the rules.
+
+Note to paragraph (e):
+
+Due to the statutory requirements applicable to tariff filings, the procedures for handling tariff filings may vary from the procedures set out in the rules.
+
+[74 FR 3445, Jan. 21, 2009]

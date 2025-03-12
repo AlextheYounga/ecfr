@@ -1,0 +1,51 @@
+##### § 511.35 Testimony upon oral examination. #####
+
+(a) *When testimony may be taken.* At any time after the answer is filed under § 511.12, upon leave of the Presiding Officer and under such terms and conditions as the Presiding Officer may prescribe, any party may take the testimony of any other party, including the agents, employees, consultants or prospective witnesses of that party at a place convenient to the witness. The attendance of witnesses and the production of documents and things at the examination may be compelled by subpoena as provided in § 511.38.
+
+(b) *Notice of oral examination*—(1) *Examination of a party.* A party desiring to examine another party to the proceeding shall, after obtaining leave from the Presiding Officer, serve written notice of the examination on all other parties and the Presiding Officer at least ten (10) days before the date of the examination. The notice shall state (i) the time and place for making the examination; (ii) the name and address of each person to be examined, if known, or if the name is not known, a general description sufficient to identify him; and (iii) the subject matter of the expected testimony. If a subpoena *duces tecum* is to be served on the person to be examined, the designation of the materials to be produced, as set forth in the subpoena, shall be attached to or included in the notice of examination.
+
+(2) *Examination of a nonparty.* A party desiring to examine a person who is not a party to the proceeding shall make application for a subpoena, in accordance with § 511.38, to compel the attendance, testimony and/or production of documents by such person who is not a party. The party desiring such examination shall serve written notice of the examination on all other parties to the proceeding, after issuance of the subpoena by the Presiding Officer or a designated alternate.
+
+(3) *Opposition to notice.* A person served with a notice of examination may, within 3 days of the date of service, oppose, in writing, the examination. The Presiding Officer shall rule on the notice and any opposition and may order the taking of all noticed examinations, upon a showing of good cause therefor. The Presiding Officer may, for good cause shown, enlarge or shorten the time for the taking of an examination.
+
+(c) *Persons before whom examinations may be taken.* Examinations may be taken before any person authorized to administer oaths by the laws of the United States or of the place where the examination is held. No examination shall be taken before a person who is a relative or employee or attorney or representative of any party, or who is a relative or employee of such attorney or representative, or who is financially interested in the action.
+
+(d) *Procedure*—(1) *Examination.* Each witness shall be duly sworn, and all testimony shall be duly recorded. All parties or their representatives may be present and participate in the examination. Examination and cross-examination of witnesses may proceed as permitted at the hearing. Questions objected to shall be answered subject to the objections. Objections shall be in short form, and shall state the grounds relied upon. The questions propounded and the answers thereto, together with all objections made, shall be recorded by the official reporter before whom the examination is made. The original or a verified copy of all documents and things produced for inspection during the examination of the witness shall, upon a request of any party present, be marked for identification and annexed to the record of the examination.
+
+(2) *Motion to terminate or limit examination.* At any time during the examination, upon motion of any party or of the witness, and upon showing that the examination is being conducted in bad faith or in such manner as unreasonably to annoy, embarrass or oppress the witness or party, the Presiding Officer may, upon motion, order the party conducting the examination to terminate the examination, or may limit the scope and manner of the examination as provided in § 511.31(d).
+
+(3) *Participation by parties not present.* In lieu of attending an examination, any party may serve written questions in a sealed envelope on the party conducting the examination. That party shall transmit the envelope to the official reporter, who shall unseal it and propound the questions contained therein to the witness.
+
+(e) *Transcription and filing of testimony*—(1) *Transcription.* Upon request by any party, the testimony recorded at an examination shall be transcribed. When the testimony is fully transcribed, the transcript shall be submitted to the witness for examination and signing, and shall be read to or by the witness, unless such examination and signature are waived by the witness. Any change in form or substance which the witness desires to make shall be entered upon the transcript of the official reporter with a statement of the reasons given by the witness for making them. The transcript shall then be signed by the witness, unless the parties by stipulation waive the signing, or the witness is ill or cannot be found or refuses to sign. If the transcript is not signed by the witness within thirty (30) days of its submission to him, the official reporter shall sign it and state on the record the fact of the waiver of signature or of the illness or absence of the witness or the fact of the refusal to sign, together with a statement of the reasons therefor. The testimony may then be used as fully as though signed, in accordance with paragraph (i) of this section.
+
+(2) *Certification and filing.* The official reporter shall certify on the transcript that the witness was duly sworn and that the transcript is a true record of the testimony given and corrections made by the witness. The official reporter shall then seal the transcript in an envelope endorsed with the title and docket number of the action and marked “Testimony of [name of witness]” and shall promptly file the transcript with the Docket Section. The Presiding Officer shall notify all parties of the filing of the transcript and the Docket Section shall furnish a copy of the transcript to any party or to the witness upon payment of reasonable charges therefor.
+
+(f) *Costs of examination.* The party who notices the examination shall pay for the examination. The party who requests transcription of the examination shall pay for the transcription.
+
+(g) *Failure to attend or to serve subpoena; expenses.* If a party who notices an examination fails to attend and proceed therewith and another party attends in person or by a representative pursuant to the notice, the Presiding Officer may order the party who gave the notice to pay the attending party the reasonable expenses incurred. If a party who notices an examination fails to serve a subpoena upon the witness and as a result the witness does not attend, and if another party attends in person or by a representative because that party expects the examination to be made, the Presiding Officer may order the party who gave notice to pay the attending party the reasonable expenses incurred.
+
+(h) *Examination to preserve testimony*—(1) *When available.* By leave of the Presiding Officer, a party may examine a witness for the purpose of perpetuating the testimony of that witness. A party who wishes to conduct such an examination shall obtain prior leave of the Presiding Officer by filing a motion. The motion shall include a showing of substantial reason to believe that the testimony could not be presented at the hearing. If the Presiding Officer is satisfied that the perpetuation of the testimony may prevent a failure of justice or is otherwise reasonably necessary, he or she shall order that the deposition be taken.
+
+(2) *Procedure.* Notice of an examination to preserve testimony shall be served at least fifteen (15) days prior to the examination. The examination shall be taken in accordance with the provisions of paragraph (d) of this section. Any examination taken to preserve testimony shall be fully transcribed and filed in accordance with paragraph (e) of this section.
+
+(i) *Use of testimony obtained under this section.* At the hearing or upon a motion or an interlocutory proceeding, any part or all of a deposition, so far as admissible under the rules of evidence applied as though the witness were then present and testifying, may be used against any party who was present or represented at the taking of the deposition or who had reasonable notice thereof, in accordance with any of the following provisions:
+
+(1) Any deposition may be used by any party for the purpose of contradicting or impeaching the testimony of the deponent as a witness.
+
+(2) The deposition of a party or of a person who at the time of the taking of his testimony was an officer, director or managing agent of a party may be used against that party for any purpose.
+
+(3) The deposition of a witness, whether or not a party, may be used by any party for any purpose if the Presiding Officer finds:
+
+(i) That the witness is dead; or
+
+(ii) That the witness is at a greater distance than 100 miles from the place of the hearing, or is out of the United States, unless it appears that the absence of the witness was procured by the party offering the deposition; or
+
+(iii) That the witness is unable to attend or testify because of age, illness, infirmity, or imprisonment; or
+
+(iv) That the party offering the deposition has been unable to procure the attendance of the witness by subpoena; or
+
+(v) Upon application and notice, that such exceptional circumstances exist as to make it desirable, in the interest of justice and with due regard to the importance of presenting the testimony of witnesses orally in open court, to allow the deposition to be used.
+
+(4) If only part of a deposition is offered in evidence by a party, an adverse party may require him to introduce any other part which ought in fairness to be considered with the part introduced, and any party may introduce any other parts.
+
+[45 FR 81578, Dec. 11, 1980, as amended at 53 FR 15783, May 3, 1988]

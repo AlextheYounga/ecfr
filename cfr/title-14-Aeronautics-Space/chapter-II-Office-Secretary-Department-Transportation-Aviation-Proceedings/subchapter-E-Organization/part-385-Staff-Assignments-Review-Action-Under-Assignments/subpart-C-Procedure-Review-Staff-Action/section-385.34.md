@@ -1,0 +1,7 @@
+##### § 385.34 Decision by the Reviewing Official. #####
+
+(a) *Decline of right to review.* If the Reviewing Official declines the right to exercise discretionary review, the staff action stayed by the petition for review shall become effective on the second business day following the date of service of the order, unless the order provides otherwise.
+
+(b) *Exercise of right to review.* The Reviewing Official will exercise his or her discretionary right of review either upon petition or on his or her own motion. The Reviewing official may by order provide for interlocutory relief pending his or her decision on the merits and may limit the issues on review. The Reviewing Official may affirm, modify or set aside the staff action, may order the matter remanded, or may order further submittals or other proceedings before making a decison on the merits. In case the Reviewing Official affirms the staff action, staff action stayed by the petition for review shall become effective on the second business day following the date of service of the Reviewing Official's order, unless the order provides otherwise. Decisions by the Reviewing Official under this part are final and are not subject to petitions for reconsideration.
+
+[Doc. No. T-1, 49 FR 50985, Dec. 31, 1984; Amdt. 1, 50 FR 7170, Feb. 21, 1985. Redesignated by Doc. No. OST-96-1268, 61 FR 19171, May 1, 1996]

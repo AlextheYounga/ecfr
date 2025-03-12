@@ -1,0 +1,3 @@
+##### § 18.311 Methods of measurements. #####
+
+The measurement techniques which will be used by the FCC to determine compliance with the technical requirements of this part are set out in FCC Measurement Procedure MP-5, “Methods of Measurements of Radio Noise Emissions from ISM equipment”. Although the procedures in MP-5 are not mandated, manufacturers are encouraged to follow the same techniques which will be used by the FCC.

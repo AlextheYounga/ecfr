@@ -1,0 +1,7 @@
+##### § 1229.2 Determination of a Bank's capital classification. #####
+
+(a) *Quarterly determination.* The Director shall determine the capital classification for each Bank no less often than once a quarter based on the capital classifications in § 1229.3 of this subpart. The Director may make a determination with regard to a capital classification for a Bank more often than the minimum required under this paragraph or make a determination for one or more Banks without making a determination for all the Banks.
+
+(b) *Notification to a Bank.* Before finalizing any action to classify a Bank under this section, the Director shall provide a Bank written notice describing the proposed action and an opportunity to submit information that the Bank considers relevant to the proposed action in accordance with § 1229.12 of this subpart.
+
+(c) *Notification to the FHFA.* A Bank shall provide written notification within ten calendar days of any event or development that has caused or is likely to cause its permanent or total capital to fall below the level necessary to maintain its capital classification at the level assigned in the most recent capital classification or reclassification determination by the Director or that is contained in the most recent notice of a proposed capital classification or reclassification provided under § 1229.12(a) of this subpart.

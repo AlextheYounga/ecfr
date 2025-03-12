@@ -1,0 +1,5 @@
+##### § 2634.1001 Overview. #####
+
+(a) *Scope.* 26 U.S.C. 1043 and the rules of this subpart allow an eligible person to defer paying capital gains tax on property sold to comply with conflict of interest requirements. To defer the gains, an eligible person must obtain a Certificate of Divestiture from the Director of the Office of Government Ethics before selling the property. This subpart describes the circumstances when an eligible person may obtain a Certificate of Divestiture and establishes the procedure that the Office of Government Ethics uses to issue Certificates of Divestiture.
+
+(b) *Purpose.* The purpose of section 1043 and this subpart is to minimize the burden that would result from paying capital gains tax on the sale of assets to comply with conflict of interest requirements. Minimizing this burden aids in attracting and retaining highly qualified personnel in the executive branch and ensures the confidence of the public in the integrity of Government officials and decision-making processes.

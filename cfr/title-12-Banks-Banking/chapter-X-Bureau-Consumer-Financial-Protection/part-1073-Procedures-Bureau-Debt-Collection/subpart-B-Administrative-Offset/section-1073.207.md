@@ -1,0 +1,3 @@
+##### § 1073.207 Termination or suspension of collection action. #####
+
+The Director may suspend or terminate collection action on a claim not in excess of $100,000, or such other amount as the Attorney General may direct, exclusive of interest, penalties, and administrative costs, after deducting the amount of partial payments or collections, if any. Any such termination or suspension shall be conducted in accordance with the requirements of 31 U.S.C. 3711 under the procedures established in 31 CFR part 903.

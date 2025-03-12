@@ -1,0 +1,3 @@
+##### § 267.70 Does this subpart apply to me? #####
+
+This subpart applies to you if you own or operate a facility that stores or non-thermally treats a hazardous waste under a 40 CFR part 270, subpart J standardized permit, except as provided in § 267.1(b). In addition, you must comply with the manifest requirements of 40 CFR part 262 whenever a shipment of hazardous waste is initiated from your facility.

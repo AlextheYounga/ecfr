@@ -1,0 +1,9 @@
+##### § 54.2 Service of notice. #####
+
+(a) Notice to Administrator: Service of notice given to the Administrator under this part shall be accomplished by certified mail addressed to the Administrator, Environmental Protection Agency, Washington, DC 20460. Where notice relates to violation of an emission standard or limitation or to violation of an order issued with respect to an emission standard or limitation, a copy of such notice shall be mailed to the Regional Administrator of the Environmental Protection Agency for the Region in which such violation is alleged to have occurred.
+
+(b) Notice to State: Service of notice given to a State under this part regarding violation of an emission standard or limitation, or an order issued with respect to an emission standard or limitation shall be accomplished by certified mail addressed to an authorized representative of the State agency charged with responsibility for air pollution control in the State. A copy of such notice shall be mailed to the Governor of the State.
+
+(c) Notice to alleged violator: Service of notice given to an alleged violator under this part shall be accomplished by certified mail addressed to, or by personal service upon, the owner or managing agent of the building, plant, installation, or facility alleged to be in violation of an emission standard or limitation, or an order issued with respect to an emission standard or limitation. Where the alleged violator is a corporation, a copy of such notice shall be sent by certified mail to the registered agent, if any, of such corporation in the State in which such violation is alleged to have occurred.
+
+(d) Notice served in accordance with the provisions of this part shall be deemed given on the postmark date, if served by mail, or on the date of receipt, if personally served.

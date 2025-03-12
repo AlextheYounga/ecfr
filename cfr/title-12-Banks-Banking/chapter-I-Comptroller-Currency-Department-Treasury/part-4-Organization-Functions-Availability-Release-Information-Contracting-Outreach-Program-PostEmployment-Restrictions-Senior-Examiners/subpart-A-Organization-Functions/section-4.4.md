@@ -1,0 +1,5 @@
+##### § 4.4 Washington office and web site. #####
+
+The Washington office of the OCC is the main office and headquarters of the OCC. The Washington office directs OCC policy, oversees OCC operations, and is responsible for the direct supervision of certain national banks and Federal savings associations, including the largest national banks and the largest Federal savings associations (through the Large Bank Supervision Department); other national banks and Federal savings associations requiring special supervision; and Federal branches and agencies of foreign banks (through the Large Bank Supervision Department). The Washington office is located at 400 7th Street SW., Washington, DC 20219. The OCC's Web site is at *http://www.occ.gov.*
+
+[76 FR 43561, July 21, 2011, as amended at 79 FR 15641, Mar. 21, 2014]

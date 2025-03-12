@@ -1,0 +1,3 @@
+##### § 8401.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to the employees of the Federal Mine Safety and Health Review Commission (Commission) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch at 5 CFR part 2635. Commission employees also are subject to the executive branch financial disclosure regulations at 5 CFR part 2634.

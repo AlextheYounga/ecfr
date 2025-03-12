@@ -1,0 +1,15 @@
+##### § 15.525 Coordination requirements. #####
+
+(a) UWB imaging systems require coordination through the FCC before the equipment may be used. The operator shall comply with any constraints on equipment usage resulting from this coordination.
+
+(b) The users of UWB imaging devices shall supply operational areas to the FCC Office of Engineering and Technology, which shall coordinate this information with the Federal Government through the National Telecommunications and Information Administration. The information provided by the UWB operator shall include the name, address and other pertinent contact information of the user, the desired geographical area(s) of operation, and the FCC ID number and other nomenclature of the UWB device. If the imaging device is intended to be used for mobile applications, the geographical area(s) of operation may be the state(s) or county(ies) in which the equipment will be operated. The operator of an imaging system used for fixed operation shall supply a specific geographical location or the address at which the equipment will be operated. This material shall be submitted to Frequency Coordination Branch, OET, Federal Communications Commission, 445 12th Street, SW, Washington, D.C. 20554, Attn: UWB Coordination.
+
+(c) The manufacturers, or their authorized sales agents, must inform purchasers and users of their systems of the requirement to undertake detailed coordination of operational areas with the FCC prior to the equipment being operated.
+
+(d) Users of authorized, coordinated UWB systems may transfer them to other qualified users and to different locations upon coordination of change of ownership or location to the FCC and coordination with existing authorized operations.
+
+(e) The FCC/NTIA coordination report shall identify those geographical areas within which the operation of an imaging system requires additional coordination or within which the operation of an imaging system is prohibited. If additional coordination is required for operation within specific geographical areas, a local coordination contact will be provided. Except for operation within these designated areas, once the information requested on the UWB imaging system is submitted to the FCC no additional coordination with the FCC is required provided the reported areas of operation do not change. If the area of operation changes, updated information shall be submitted to the FCC following the procedure in paragraph (b) of this section.
+
+(f) The coordination of routine UWB operations shall not take longer than 15 business days from the receipt of the coordination request by NTIA. Special temporary operations may be handled with an expedited turn-around time when circumstances warrant. The operation of UWB systems in emergency situations involving the safety of life or property may occur without coordination provided a notification procedure, similar to that contained in § 2.405(a) through (e) of this chapter, is followed by the UWB equipment user.
+
+[67 FR 34856, May 16, 2002, as amended at 68 FR 19751, Apr. 22, 2003]

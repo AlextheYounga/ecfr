@@ -1,0 +1,3 @@
+##### § 117.14 Demonstration projects. #####
+
+Notwithstanding any other provision of this part, the Administrator of the Environmental Protection Agency may, on a case-by-case basis, allow the discharge of designated hazardous substances in connection with research or demonstration projects relating to the prevention, control, or abatement of hazardous substance pollution. The Administrator will allow such a discharge only where he determines that the expected environmental benefit from such a discharge will outweigh the potential hazard associated with the discharge.

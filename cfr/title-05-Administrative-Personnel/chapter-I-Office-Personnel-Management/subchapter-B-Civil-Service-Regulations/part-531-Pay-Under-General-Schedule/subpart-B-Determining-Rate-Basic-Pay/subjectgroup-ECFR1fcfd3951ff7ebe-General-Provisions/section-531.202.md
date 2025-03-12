@@ -1,0 +1,3 @@
+##### § 531.202 Coverage. #####
+
+This subpart covers employees who occupy positions classified and paid under the GS classification and pay system, as provided in 5 U.S.C. 5102 and 5331 or other applicable laws. Law enforcement officers (LEOs) receiving LEO special base rates are covered by the GS classification and pay system, but receive higher base rates of pay in lieu of GS rates at grades GS-3 through GS-10. This subpart also covers GS employees who receive special rates under 5 U.S.C. 5305 and 5 CFR part 530, subpart C.

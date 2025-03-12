@@ -1,0 +1,3 @@
+##### § 32.6532 Network administration expense. #####
+
+This account shall include costs incurred in network administration. This includes such activities as controlling traffic flow, administering traffic measuring and monitoring devices, assigning equipment and load balancing, collecting and summarizing traffic data, administering trunking, and assigning interoffice facilities and circuit layout work.

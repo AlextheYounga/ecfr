@@ -1,0 +1,5 @@
+##### § 1016.308 Decision. #####
+
+The adjudicative officer shall issue a decision on the application within 50 days after completion of proceedings on the application. The decision shall include written findings and conclusions on the applicant's eligibility and status as a prevailing party, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the Board's or other agency's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust. If the applicant has sought an award against more than one agency, the decision shall allocate responsibility for payment of any award made among the agencies, and shall explain the reasons for the allocation made.
+
+[46 FR 61660, Dec. 18, 1981, as amended at 54 FR 26380, June 23, 1989]

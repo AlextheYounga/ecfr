@@ -1,0 +1,3 @@
+##### § 847.108 Computation of time. #####
+
+In computing a period of time for filing documents, the day of the action or event after which the designated period of time begins to run is not included. The last day of the period is included unless it is a Saturday, a Sunday, or a legal holiday; in this event, the period runs until the end of the next day which is not a Saturday, a Sunday, or a legal holiday.

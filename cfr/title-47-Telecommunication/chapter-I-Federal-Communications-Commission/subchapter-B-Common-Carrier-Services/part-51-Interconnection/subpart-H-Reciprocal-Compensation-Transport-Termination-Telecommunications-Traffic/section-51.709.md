@@ -1,0 +1,9 @@
+##### § 51.709 Rate structure for transport and termination. #####
+
+(a) In state proceedings, where a rate for Non-Access Reciprocal Compensation does not exist as of December 29, 2011, a state commission shall establish initial rates for the transport and termination of Non-Access Telecommunications Traffic that are structured consistently with the manner that carriers incur those costs, and consistently with the principles in this section.
+
+(b) The rate of a carrier providing transmission facilities dedicated to the transmission of non-access traffic between two carriers' networks shall recover only the costs of the proportion of that trunk capacity used by an interconnecting carrier to send non-access traffic that will terminate on the providing carrier's network. Such proportions may be measured during peak periods.
+
+(c) For Non-Access Telecommunications Traffic exchanged between a rate-of-return regulated rural telephone company as defined in § 51.5 and a CMRS provider, the rural rate-of-return incumbent local exchange carrier will be responsible for transport to the CMRS provider's interconnection point when it is located within the rural rate-of-return incumbent local exchange carrier's service area. When the CMRS provider's interconnection point is located outside the rural rate-of-return incumbent local exchange carrier's service area, the rural rate-of-return incumbent local exchange carrier's transport and provisioning obligation stops at its meet point and the CMRS provider is responsible for the remaining transport to its interconnection point. This paragraph (c) is a default provision and applicable in the absence of an existing agreement or arrangement otherwise.
+
+[76 FR 73856, Nov. 29, 2011]

@@ -1,0 +1,3 @@
+##### § 847.902 How does an election to credit NAFI service for immediate CSRS or FERS retirement under subpart H of this part affect the computation of the CSRS or FERS retirement annuity? #####
+
+The retirement annuity of an employee who elects to use NAFI service to qualify for an immediate CSRS or FERS retirement benefit will be reduced to ensure the present value of the benefits payable will be actuarially equivalent to those that would have been payable if the employee had separated on the same date, but without credit for the NAFI service.

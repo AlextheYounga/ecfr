@@ -1,0 +1,3 @@
+##### § 525.2 Purpose. #####
+
+The purpose of this part is to provide content and format requirements for low volume manufacturers of passenger automobiles which desire to petition the Administrator for exemption from applicable average fuel economy standards and for establishment of appropriate alternative average fuel economy standards and to give interested persons an opportunity to present data, views and arguments on those petitions.

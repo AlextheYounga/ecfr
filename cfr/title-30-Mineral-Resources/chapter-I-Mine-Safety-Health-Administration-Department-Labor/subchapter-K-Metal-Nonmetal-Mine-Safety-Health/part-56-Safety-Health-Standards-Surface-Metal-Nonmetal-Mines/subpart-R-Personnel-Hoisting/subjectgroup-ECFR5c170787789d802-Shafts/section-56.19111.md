@@ -1,0 +1,3 @@
+##### § 56.19111 Shaft-sinking ladders. #####
+
+Substantial fixed ladders shall be provided from the collar to as near the shaft bottom as practical during shaft-sinking operations, or an escape hoist powered by an emergency power source shall be provided. When persons are on the shaft bottom, a chain ladder, wire rope ladder, or other extension ladders shall be used from the fixed ladder or lower limit of the escape hoist to the shaft bottom.

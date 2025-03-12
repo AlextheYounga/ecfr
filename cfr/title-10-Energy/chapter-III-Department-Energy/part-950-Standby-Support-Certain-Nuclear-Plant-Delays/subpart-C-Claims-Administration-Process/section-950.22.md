@@ -1,0 +1,11 @@
+##### § 950.22 Covered event determination. #####
+
+(a) *Completeness review.* Upon notification of a covered event from the sponsor, the Claims Administrator shall review the notification for completeness within thirty (30) days of receipt. If the notification is not complete, the Claims Administrator shall return the notification within thirty (30) days of receipt and specify the incomplete information for submission by the sponsor to the Claims Administrator in time for a determination by the Claims Administrator in accordance with paragraph (c) of this section.
+
+(b) *Covered Event Determination.* The Claims Administrator shall review the notification and supporting information to determine whether there is agreement by the Claims Administrator with the sponsor's representation of the event as a covered event (Covered Event Determination) based on a review of the contract conditions for covered events and exclusions.
+
+(1) If the Claims Administrator believes the event is an exclusion as set forth in § 950.14(b), the Claims Administrator shall request within 30 days of receipt of the notification of a covered event information in the sponsor's possession that is relevant to the exclusion. The sponsor shall provide the requested information to the Administrator within 20 days of receipt of the Administrator's request.
+
+(2) The sponsor's failure to provide the requested information in a complete or timely manner constitutes a basis for the Claims Administrator to disagree with the sponsor's covered event notification as provided in paragraph (c) of this section, and to deny a claim for covered costs related to the exclusion as provided in § 950.24 of this part.
+
+(c) *Timing.* The Claims Administrator shall notify the sponsor within sixty (60) days of receipt of the notification whether the Administrator agrees with the sponsor's representation, disagrees with the representation, requires further information, or is an exclusion. If the sponsor disagrees with the Covered Event Determination, the parties shall resolve the dispute in accordance with the procedures set forth in subpart D of this part.

@@ -1,0 +1,3 @@
+##### 2027.305-70 Solicitation provisions and contract clauses. #####
+
+The contracting officer shall insert the clause at 2052.227-70, Drawings, Designs, Specifications, and Data, in all solicitations and contracts in which drawings, designs, specifications, or other data will be developed and the NRC is required to retain full rights to them (except for the contractor's right to retain a copy for its own use). When any of the clauses prescribed at FAR 27.409, Solicitation Provisions and Contract Clauses, are included in the solicitation/contract, this clause will not be used.

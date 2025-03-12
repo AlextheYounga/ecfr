@@ -1,0 +1,3 @@
+##### § 5101.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to members and other employees of the Commodity Futures Trading Commission and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. Members and other employees are required to comply with 5 CFR part 2635 and this part. Commission members and other employees are also subject to the Regulation Concerning Conduct of Members and Employees and Former Members and Employees of the Commission at 17 CFR part 140.

@@ -1,0 +1,3 @@
+##### § 1320.17 Information collection budget. #####
+
+Each agency's Senior Official, or agency head in the case of any agency for which the agency head has not delegated responsibility under the Act for any component of the agency to the Senior Official, shall develop and submit to OMB, in such form, at such time, and in accordance with such procedures as OMB may prescribe, an annual comprehensive budget for all collections of information from the public to be conducted in the succeeding twelve months. For good cause, OMB may exempt any agency from this requirement.

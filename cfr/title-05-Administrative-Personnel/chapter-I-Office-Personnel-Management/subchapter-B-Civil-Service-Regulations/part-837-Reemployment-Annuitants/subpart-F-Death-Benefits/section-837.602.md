@@ -1,0 +1,3 @@
+##### § 837.602 Lump-sum payment of retirement deductions. #####
+
+If an annuitant reemployed subject to the provisions of this part dies while so reemployed, and the annuitant would not have been entitled to a supplemental annuity, had the separation been for reasons other than death, or if there is no supplemental spousal survivor annuity payable (including a survivor annuity payable to a former spouse, if the annuitant retired under FERS) the amount of retirement deductions withheld during the period of reemployment will be paid in a lump sum to the person entitled under the provisions of 5 U.S.C. 8342(c) or 8424(d), as appropriate.

@@ -1,0 +1,9 @@
+##### § 1830.4 Requirements for requesting amendment of records. #####
+
+(a) *How made and addressed.* Individuals may request amendment of records pertaining to them that are subject to amendment under the Privacy Act and this part. The request should be sent by regular mail addressed to: Privacy Act Officer, U.S. Office of Special Counsel, 1730 M Street, N.W. (Suite 218), Washington, DC 20036-4505. Such requests may also be faxed to the Privacy Act Officer at the number provided on the FOIA/PA page of OSC's web site (see 1830.1). For the quickest handling, both the request letter and envelope or any fax cover sheet should be clearly marked “Privacy Act Amendment Request.” Whether sent by mail or by fax, a Privacy Act amendment request will not be considered to have been received by OSC until it reaches the Privacy Act Officer. A Privacy Act amendment request may also be delivered by person at OSC's headquarters office in Washington, DC.
+
+(b) *Description of amendment sought.* Requests for amendment should include identification of records together with a statement of the basis for the requested amendment and all available supporting documents and materials. Requesters must describe the amendment sought in enough detail for the request to be evaluated.
+
+(c) *Proof of identity.* Rules and procedures set forth in 1830.2(c) apply to requests made under this section.
+
+(d) *Acknowledgement and response.* Requests for amendment shall be acknowledged by OSC not later than 10 days (excluding Saturdays, Sundays, and legal holidays) after receipt by the Privacy Act Officer and a determination on the request shall be made promptly.

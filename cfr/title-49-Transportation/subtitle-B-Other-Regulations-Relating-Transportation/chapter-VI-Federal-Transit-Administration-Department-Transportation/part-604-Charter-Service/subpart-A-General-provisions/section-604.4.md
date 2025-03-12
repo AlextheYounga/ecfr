@@ -1,0 +1,7 @@
+##### § 604.4 Charter service agreement. #####
+
+(a) A recipient seeking Federal assistance under the Federal Transit Laws to acquire or operate any public transportation equipment or facilities shall enter into a “Charter Service Agreement” as set out in paragraph (b) of this section.
+
+(b) A recipient shall enter into a Charter Service Agreement if it receives Federal funds for equipment or facilities under the Federal Transit Laws. The terms of the Charter Service Agreement are as follows: “The recipient agrees that it, and each of its subrecipients, and third party contractors at any level who use FTA-funded vehicles, may provide charter service using equipment or facilities acquired with Federal assistance authorized under the Federal Transit Laws only in compliance with the regulations set out in 49 CFR 604, the terms and conditions of which are incorporated herein by reference.”
+
+(c) The Charter Service Agreement is contained in the Certifications and Assurances published annually by FTA for applicants for Federal financial assistance. Once a recipient receives Federal funds, the Certifications and Assurances become part of its Grant Agreement or Cooperative Agreement for Federal financial assistance.

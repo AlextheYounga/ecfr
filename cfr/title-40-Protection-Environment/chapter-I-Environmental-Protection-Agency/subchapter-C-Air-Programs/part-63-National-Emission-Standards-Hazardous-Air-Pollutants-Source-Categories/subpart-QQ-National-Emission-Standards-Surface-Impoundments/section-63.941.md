@@ -1,0 +1,17 @@
+##### § 63.941 Definitions. #####
+
+All terms used in this subpart shall have the meaning given to them in the Act and in this section. If a term is defined in both this section and in another subpart that references the use of this subpart, then the definition in this subpart shall take precedence when implementing this subpart.
+
+*Closure device* means a cap, hatch, lid, plug, seal, valve, or other type of fitting that prevents or reduces air emissions to the atmosphere by blocking an opening in a surface impoundment cover when the device is secured in the closed position. Closure devices include devices that are detachable from the cover (e.g., a sampling port cap), manually operated (e.g., a hinged access lid or hatch), or automatically operated (e.g., a spring loaded pressure relief valve).
+
+*Cover* means a device or system that provides a continuous barrier over the material managed in a surface impoundment to prevent or reduce air pollutant emissions to the atmosphere. A cover may have openings needed for operation, inspection, sampling, maintenance, and repair of the surface impoundment provided that each opening is closed when not in use (e.g., access hatches, sampling ports). Examples of a cover for a surface impoundment include, but are not limited to, a floating membrane cover placed on the surface of the material in the surface impoundment or an air-supported structure installed over the surface impoundment.
+
+*No detectable organic emissions* means no escape of organics to the atmosphere as determined using the procedure specified in § 63.944(a) of this subpart.
+
+*Regulated-material* means the material (e.g. waste, wastewater, off-site material) required to be managed in containers using air emission controls in accordance with the standards specified in this subpart.
+
+*Safety device* means a closure device such as a pressure relief valve, frangible disc, fusible plug, or any other type of device which functions to prevent physical damage or permanent deformation to equipment by venting gases or vapors during unsafe conditions resulting from an unplanned, accidental, or emergency event. For the purpose of this subpart, a safety device is not used for routine venting of gases or vapors from the vapor headspace underneath a cover such as during filling of the unit or to adjust the pressure in this vapor headspace in response to normal daily diurnal ambient temperature fluctuations. A safety device is designed to remain in a closed position during normal operations and open only when the internal pressure, or another relevant parameter, exceeds the device threshold setting applicable to the equipment as determined by the owner or operator based on manufacturer recommendations, applicable regulations, fire protection and prevention codes, standard engineering codes and practices, or other requirements for the safe handling of flammable, combustible, explosive, reactive, or hazardous materials.
+
+*Surface impoundment* means a unit that is a natural topographical depression, man-made excavation, or diked area formed primarily of earthen materials (although it may be lined with man-made materials), which is designed to hold an accumulation of liquids. Examples of surface impoundments include holding, storage, settling, and aeration pits, ponds, and lagoons.
+
+[61 FR 34186, July 1, 1996, as amended at 64 FR 38988, July 20, 1999]

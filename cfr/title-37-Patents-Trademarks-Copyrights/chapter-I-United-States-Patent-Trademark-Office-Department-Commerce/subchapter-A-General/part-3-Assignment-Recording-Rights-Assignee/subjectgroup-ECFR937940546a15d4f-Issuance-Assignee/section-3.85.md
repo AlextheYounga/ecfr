@@ -1,0 +1,3 @@
+##### § 3.85 Issue of registration to assignee. #####
+
+The certificate of registration may be issued to the assignee of the applicant, or in a new name of the applicant, provided that the party files a written request in the trademark application by the time the application is being prepared for issuance of the certificate of registration, and the appropriate document is recorded in the Office. If the assignment or name change document has not been recorded in the Office, then the written request must state that the document has been filed for recordation. The address of the assignee must be made of record in the application file.

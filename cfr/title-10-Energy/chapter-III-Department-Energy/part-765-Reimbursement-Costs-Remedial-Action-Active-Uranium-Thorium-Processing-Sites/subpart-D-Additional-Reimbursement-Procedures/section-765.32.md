@@ -1,0 +1,11 @@
+##### § 765.32 Reimbursement of excess funds. #####
+
+(a) No later than December 31, 2008, the Department shall determine if the aggregate amount authorized for appropriation pursuant to section 1003 of the Act (42 U.S.C. 2296a-2), as adjusted for inflation pursuant to § 765.12, exceed as of that date the combined total of all reimbursements which have been paid to licensees under this part, any amounts approved for reimbursement and owed to any licensee, and any anticipated additional reimbursements to be made in accordance with approved plans for subsequent remedial action.
+
+(b) If the Department determines that the amount authorized pursuant to section 1003 of the Act (42 U.S.C. 2296a-2), as adjusted for inflation, exceed the combined total of all reimbursements (as indicated in paragraph (a) of this section), the Department may establish procedures for providing additional reimbursement to uranium licensees for costs of remedial action, subject to the availability of appropriated funds. If the amount of available excess funds is insufficient to provide reimbursement of all eligible costs of remedial action, then reimbursement shall be paid on a prorated basis.
+
+(c) Each eligible uranium licensee's prorated share will be determined by dividing the total excess funds available by the total number of Federal-related dry short tons of byproduct material present at the site where costs of remedial action exceed $6.25 per dry short ton, as adjusted for inflation pursuant to § 765.12. The resulting number will be the maximum cost per dry short ton, over $6.25, that may be reimbursed. Total reimbursement for each licensee that has incurred approved costs of remedial action in excess of $6.25 per dry short ton will be the product of the excess cost per dry short ton multiplied by the number of Federal-related dry short tons of byproduct material at the site or the actual costs incurred and approved by the Department, whichever is less.
+
+(d) Any costs of remedial action for which reimbursement is sought from excess funds determined by the Department to be available is subject to all requirements of this part except the per dry short ton limit on reimbursement established by paragraph (d) of § 765.11.
+
+[59 FR 26726, May 23, 1994, as amended at 68 FR 32957, June 3, 2003]

@@ -1,0 +1,41 @@
+##### § 1261.7 Nominations for member and independent directorships. #####
+
+Within a reasonable time in advance of an election, a Bank shall notify each member in its district of the commencement of the election process. Such notice shall include:
+
+(a) *Election announcement.*
+
+(1) The number of member directorships designated for each voting state in the Bank district and the number of independent directorships for the Bank;
+
+(2) The name of each incumbent Bank director, the name and location of the member at which each member director serves, and the name and location of the organization with which each independent director is affiliated, if any, and the expiration date of each Bank director's term of office;
+
+(3) A brief statement describing the skills and experience the Bank believes are most likely to add strength to the board of directors, provided that the Bank previously has conducted the annual assessment permitted by § 1261.9 and the Bank has elected to provide the results of the assessment to the members;
+
+(4) An attachment indicating the name, location, and FHFA ID number of every member in the member's voting state, and the number of votes each such member may cast for each directorship to be filled by such members, as determined in accordance with § 1261.6; and
+
+(5) If a member directorship is to be filled by members in a State, a nominating certificate for those members.
+
+(b) *Member directorship nominations.* (1) Any member that is entitled to vote in the election may nominate an eligible individual to fill each available member directorship for its voting state by delivering to its Bank, prior to a deadline to be established by the Bank and set forth in the notice required in paragraph (a) of this section, a nominating certificate duly adopted by the member's governing body or by an individual authorized by the member's governing body to act on its behalf.
+
+(2) The nominating certificate shall include the name of the nominee and the name, location, and FHFA ID number of the member the nominee serves as an officer or director.
+
+(3) The Bank shall establish a deadline for delivery of nominating certificates, which shall be no earlier than 30 calendar days after the date on which the Bank delivers the notice required by paragraph (a) of this section, and the Bank shall not accept certificates received after that deadline. The Bank shall retain all accepted nominating certificates for at least two years after the date of the election.
+
+(c) *Accepting member directorship nominations.* Promptly after receipt of any nominating certificate, a Bank shall notify in writing any individual nominated for a member directorship. An individual may accept the nomination only by delivering to the Bank, prior to a deadline established by the Bank and set forth in its notice, an executed director eligibility certification form prescribed by FHFA. A Bank shall allow each nominee at least 30 calendar days after the date the Bank delivered the notice of nomination within which to deliver the executed form. A nominee may decline the nomination by so advising the Bank in writing, or by failing to deliver a properly executed director eligibility certification form prior to the deadline. Each Bank shall retain all information received under this paragraph for at least two years after the date of the election.
+
+(d) *Independent directorship nominations.* (1) Any individual who seeks to be an independent director of the board of directors of a Bank may deliver to the Bank, on or before the deadline set by the Bank for delivery of nominating certificates, an executed independent director application form prescribed by FHFA that demonstrates that the individual both is eligible and has either of the following qualifications:
+
+(i) More than four years of experience representing consumer or community interests in banking services, credit needs, housing, or consumer financial protections; or
+
+(ii) Knowledge of or experience in one or more of the areas set forth in paragraph (e) of this section.
+
+(2) Any other interested party may recommend to the Bank that it consider a particular individual as a nominee for an independent directorship, but the Bank shall not nominate any individual unless the individual has delivered to the Bank, on or before the date the Bank has set for delivery of nominating certificates, an executed independent director application form prescribed by FHFA. The application form prescribed by FHFA will provide a means by which an individual can indicate an intent to be considered for a public interest directorship. The board of directors of the Bank may consider any individual for any independent directorship nomination, provided it has determined that the individual is eligible and qualified, but the board shall nominate for a public interest directorship only an individual who indicates on the application form a desire to be considered for a public interest directorship. The board of directors of the Bank shall consult with the Bank's Advisory Council before nominating any individual for any independent directorship. Each Bank shall include in its bylaws the procedures it intends to use for the nomination and election of the independent directors, and shall retain all information received under this paragraph for at least two years after the date of the election.
+
+(3) Each Bank shall determine the number of public interest directorships to be included among its authorized independent directorships, provided that each Bank shall at all times have at least two such directorships, and shall announce that number to its members in the notice required by paragraph (a) of this section. In submitting nominations to its members, each Bank shall nominate at least as many individuals as there are independent directorships to be filled in that year's election.
+
+(e) *Independent director qualifications.* (1) Each independent director and each nominee for an independent directorship, other than a public interest directorship, shall have experience in, or knowledge of, one or more of the following areas: auditing and accounting, derivatives, financial management, organizational management, project development, risk management practices, and the law. Before nominating any individual for an independent directorship, other than a public interest directorship, the board of directors of a Bank shall determine that such knowledge or experience of the nominee is commensurate with that needed to oversee a financial institution with a size and complexity that is comparable to that of the Bank.
+
+(2) Each public interest independent director and each nominee for a public interest directorship shall have more than four years of experience representing consumer or community interests in banking services, credit needs, housing or consumer financial protection.
+
+(f) *Eligibility verification.* Using the information provided on member director eligibility forms prescribed by FHFA, each Bank shall verify that each nominee for each member directorship meets all the eligibility requirements for such directorship. Using the information provided on independent director application forms prescribed by FHFA, each Bank shall verify that each nominee for each public interest independent directorship and each other independent directorship meets all eligibility requirements and any knowledge or experience qualifications for such directorship, as set forth in the Bank Act and this subpart. Before announcing any independent director nominee, the Bank shall deliver to FHFA, for the Director's review, a copy of the independent director application forms executed by the individuals nominated for independent directorships. If within two weeks of such delivery FHFA provides comments to the Bank on any independent director nominee, the board of directors of the Bank shall consider the FHFA's comments in determining whether to proceed with those nominees or to reopen the nomination.
+
+[73 FR 55715, Sept. 26, 2008, as amended at 74 FR 51461, Oct. 7, 2009. Redesignated and amended at 75 FR 17039, Apr. 5, 2010; 81 FR 76296, Nov. 2, 2016]

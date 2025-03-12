@@ -1,0 +1,3 @@
+##### § 198.59 How may a State respond to a notice of inadequacy? #####
+
+A State receiving a notice of inadequacy will have 30 days from receipt of the notice to submit a written response to the PHMSA official who issued the notice. In its response, the State may include information and explanations concerning the alleged inadequacy or contest the allegation of inadequacy and request the notice be withdrawn.

@@ -1,0 +1,7 @@
+##### § 612.2260 Standards of conduct for agents. #####
+
+(a) Agents of System institutions shall maintain high standards of honesty, integrity, and impartiality in order to ensure the proper performance of System business and continued public confidence in the System and all its institutions. The avoidance of misconduct and conflicts of interest is indispensable to the maintenance of these standards.
+
+(b) System institutions shall utilize safe and sound business practices in the engagement, utilization, and retention of agents. These practices shall provide for the selection of qualified and reputable agents. Employing System institutions shall be responsible for the administration of relationships with their agents, and shall take appropriate investigative and corrective action in the case of a breach of fiduciary duties by the agent or failure of the agent to carry out other agent duties as required by contract, FCA regulations, or law.
+
+(c) System institutions shall be responsible for exercising corresponding special diligence and control, through good business practices, to avoid or control situations that have inherent potential for sensitivity, either real or perceived. These areas include the employment of agents who are related to directors or employees of the institutions; the solicitation and acceptance of gifts, contributions, or special considerations by agents; and the use of System and borrower information obtained in the course of the agent's association with System institutions.

@@ -1,0 +1,3 @@
+##### § 77.308 Structures housing other facilities; use of partitions. #####
+
+Thermal dryer systems installed after June 30, 1971 in any structure which also houses a tipple, cleaning plant, or other operating facility shall be separated from all other working areas of such structure by a substantial partition capable of providing greater resistance to explosion pressures than the exterior wall or walls of the structure. The partition shall also include substantial, self-closing fire doors at all entrances to the areas adjoining the dryer system.

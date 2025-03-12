@@ -1,0 +1,53 @@
+##### § 1065.170 Batch sampling for gaseous and PM constituents. #####
+
+Batch sampling involves collecting and storing emissions for later analysis. Examples of batch sampling include collecting and storing gaseous emissions in a bag or collecting and storing PM on a filter. You may use batch sampling to store emissions that have been diluted at least once in some way, such as with CVS, PFD, or BMD. You may use batch sampling to store undiluted emissions. You may stop emission sampling anytime the engine is turned off, consistent with good engineering judgment. This is intended to allow for higher concentrations of dilute exhaust gases and more accurate measurements. Account for exhaust transport delay in the sampling system and integrate over the actual sampling duration when determining *n*dexh. Use good engineering judgment to add dilution air to fill bags up to minimum read volumes, as needed.
+
+(a) Sampling methods. If you extract from a constant-volume flow rate, sample at a constant-volume flow rate as follows:
+
+(1) Verify proportional sampling after an emission test as described in § 1065.545. You must exclude from the proportional sampling verification any portion of the test where you are not sampling emissions because the engine is turned off and the batch samplers are not sampling, accounting for exhaust transport delay in the sampling system. Use good engineering judgment to select storage media that will not significantly change measured emission levels (either up or down). For example, do not use sample bags for storing emissions if the bags are permeable with respect to emissions or if they off gas emissions to the extent that it affects your ability to demonstrate compliance with the applicable gaseous emission standards in this chapter. As another example, do not use PM filters that irreversibly absorb or adsorb gases to the extent that it affects your ability to demonstrate compliance with the applicable PM emission standards in this chapter.
+
+(2) You must follow the requirements in § 1065.140(e)(2) related to PM dilution ratios. For each filter, if you expect the net PM mass on the filter to exceed 400 µg, assuming a 38 mm diameter filter stain area, you may take the following actions in sequence:
+
+(i) For discrete-mode testing only, you may reduce sample time as needed to target a filter loading of 400 µg, but not below the minimum sample time specified in the standard-setting part.
+
+(ii) Reduce filter face velocity as needed to target a filter loading of 400 µg, down to 50 cm/s or less.
+
+(iii) Increase overall dilution ratio above the values specified in § 1065.140(e)(2) to target a filter loading of 400 µg.
+
+(b) *Gaseous sample storage media.* Store gas volumes in sufficiently clean containers that minimally off-gas or allow permeation of gases. Use good engineering judgment to determine acceptable thresholds of storage media cleanliness and permeation. To clean a container, you may repeatedly purge and evacuate a container and you may heat it. Use a flexible container (such as a bag) within a temperature-controlled environment, or use a temperature controlled rigid container that is initially evacuated or has a volume that can be displaced, such as a piston and cylinder arrangement. Use containers meeting the specifications in the Table 1 of this section, noting that you may request to use other container materials under § 1065.10. Sample temperatures must stay within the following ranges for each container material:
+
+(1) Up to 40 °C for Tedlar TM and Kynar TM..
+
+(2) (191 ±11) °C for Teflon TM and 300 series stainless steel used with measuring THC or NMHC from compression-ignition engines, two-stroke spark-ignition engines, and four-stroke spark-ignition engines at or below 19 kW. For all other engines and pollutants, these materials may be used for sample temperatures up to 202 °C.
+
+|                                                                   Emissions                                                                    |                                         Engine type                                          |                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|                    Compression-ignition  <br/>Two-stroke spark-ignition  <br/>Four-stroke spark-ignition at or below 19 kW                     |                                      All other engines                                       |                                                                                               |
+|CO, CO<sub>2</sub>, O<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub> H<sub>6</sub>, C<sub>3</sub> H<sub>8</sub>, NO, NO<sub>2</sub>, N<sub>2</sub> O|Tedlar <sup>TM</sup>, Kynar <sup>TM</sup>, Teflon <sup>TM</sup>, or 300 series stainless steel|Tedlar <sup>TM</sup>, Kynar <sup>TM</sup>, Teflon <sup>TM</sup>, or 300 series stainless steel.|
+|                                                                   THC, NMHC                                                                    |                      Teflon <sup>TM</sup> or 300 series stainless steel                      |Tedlar <sup>TM</sup>, Kynar <sup>TM</sup>, Teflon <sup>TM</sup>, or 300 series stainless steel.|
+
+(c) *PM sample media.* Apply the following methods for sampling particulate emissions:
+
+(1) If you use filter-based sampling media to extract and store PM for measurement, your procedure must meet the following specifications:
+
+(i) If you expect that a filter's total surface concentration of PM will exceed 400 µg, assuming a 38 mm diameter filter stain area, for a given test interval, you may use filter media with a minimum initial collection efficiency of 98%; otherwise you must use a filter media with a minimum initial collection efficiency of 99.7%. Collection efficiency must be measured as described in ASTM D2986 (incorporated by reference, see § 1065.1010), though you may rely on the sample-media manufacturer's measurements reflected in their product ratings to show that you meet the requirement in this paragraph (c)(1)(i).
+
+(ii) The filter must be circular, with an overall diameter of (46.50 ±0.60) mm and an exposed diameter of at least 38 mm. See the cassette specifications in paragraph (c)(1)(vii) of this section.
+
+(iii) We highly recommend that you use a pure PTFE filter material that does not have any flow-through support bonded to the back and has an overall thickness of (40 ±20) µm. An inert polymer ring may be bonded to the periphery of the filter material for support and for sealing between the filter cassette parts. We consider Polymethylpentene (PMP) and PTFE inert materials for a support ring, but other inert materials may be used. See the cassette specifications in paragraph (c)(1)(vii) of this section. We allow the use of PTFE-coated glass fiber filter material, as long as this filter media selection does not affect your ability to demonstrate compliance with the applicable standards in this chapter, which we base on a pure PTFE filter material. Note that we will use pure PTFE filter material for compliance testing, and we may require you to use pure PTFE filter material for any compliance testing we require, such as for selective enforcement audits.
+
+(iv) You may request to use other filter materials or sizes under the provisions of § 1065.10.
+
+(v) To minimize turbulent deposition and to deposit PM evenly on a filter, use a filter holder with a 12.5° (from center) divergent cone angle to transition from the transfer-line inside diameter to the exposed diameter of the filter face. Use 300 series stainless steel for this transition.
+
+(vi) Maintain a filter face velocity near 100 cm/s with less than 5% of the recorded flow values exceeding 100 cm/s, unless you expect the net PM mass on the filter to exceed 400 µg, assuming a 38 mm diameter filter stain area. Measure face velocity as the volumetric flow rate of the sample at the pressure upstream of the filter and temperature of the filter face as measured in § 1065.140(e), divided by the filter's exposed area. You may use the exhaust stack or CVS tunnel pressure for the upstream pressure if the pressure drop through the PM sampler up to the filter is less than 2 kPa.
+
+(vii) Use a clean cassette designed to the specifications of Figure 1 of § 1065.170. In auto changer configurations, you may use cassettes of similar design. Cassettes must be made of one of the following materials: Delrin TM, 300 series stainless steel, polycarbonate, acrylonitrile-butadiene-styrene (ABS) resin, or conductive polypropylene. We recommend that you keep filter cassettes clean by periodically washing or wiping them with a compatible solvent applied using a lint-free cloth. Depending upon your cassette material, ethanol (C2H5OH) might be an acceptable solvent. Your cleaning frequency will depend on your engine's PM and HC emissions.
+
+(viii) If you keep the cassette in the filter holder after sampling, prevent flow through the filter until either the holder or cassette is removed from the PM sampler. If you remove the cassettes from filter holders after sampling, transfer the cassette to an individual container that is covered or sealed to prevent communication of semi-volatile matter from one filter to another. If you remove the filter holder, cap the inlet and outlet. Keep them covered or sealed until they return to the stabilization or weighing environments.
+
+(ix) The filters should not be handled outside of the PM stabilization and weighing environments and should be loaded into cassettes, filter holders, or auto changer apparatus before removal from these environments.
+
+(2) You may use other PM sample media that we approve under § 1065.10, including non-filtering techniques. For example, you might deposit PM on an inert substrate that collects PM using electrostatic, thermophoresis, inertia, diffusion, or some other deposition mechanism, as approved.
+
+![](/graphics/er25oc16.158.gif)[70 FR 40516, July 13, 2005, as amended at 73 FR 37298, June 30, 2008; 73 FR 59321, Oct. 8, 2008; 76 FR 57440, Sept. 15, 2011;79 FR 23757, Apr. 28, 2014; 81 FR 74162, Oct. 25, 2016; 86 FR 34534, June 29, 2021; 88 FR 4671, Jan. 24, 2023; 89 FR 29794, Apr. 22, 2024]

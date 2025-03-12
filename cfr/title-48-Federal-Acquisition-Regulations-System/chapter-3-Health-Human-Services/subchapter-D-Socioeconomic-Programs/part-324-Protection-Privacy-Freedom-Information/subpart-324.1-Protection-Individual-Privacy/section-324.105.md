@@ -1,0 +1,5 @@
+##### 324.105 Contract clauses. #####
+
+(a) The contracting officer shall insert the clause at 352.224-70, Privacy Act, in solicitations, contracts, and orders that require the design, development, or operation of a system of records to notify the contractor that it and its employees are subject to criminal penalties for violations of the Privacy Act (5 U.S.C. 552a(i)) to the same extent as HHS employees. The clause also requires the contractor to ensure each of its employees knows the prescribed rules of conduct in 45 CFR part 5b and each contractor employee is aware that he or she is subject to criminal penalties for violations of the Privacy Act. These requirements also apply to all subcontracts awarded under the contract or order that require the design, development, or operation of a system of records.
+
+(b) The contracting officer shall insert the clause at 352.224-71, Confidential Information, in solicitations, contracts, and orders that require access to Government or to third party information.

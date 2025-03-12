@@ -1,0 +1,5 @@
+##### § 197.15 How must DOE take into account the changes that will occur during the period of geologic stability? #####
+
+The DOE should not project changes in society, the biosphere (other than climate), human biology, or increases or decreases of human knowledge or technology. In all analyses done to demonstrate compliance with this part, DOE must assume that all of those factors remain constant as they are at the time of license application submission to NRC. However, DOE must vary factors related to the geology, hydrology, and climate based upon cautious, but reasonable assumptions of the changes in these factors that could affect the Yucca Mountain disposal system during the period of geologic stability, consistent with the requirements for performance assessments specified at § 197.36.
+
+[73 FR 61287, Oct. 15, 2008]

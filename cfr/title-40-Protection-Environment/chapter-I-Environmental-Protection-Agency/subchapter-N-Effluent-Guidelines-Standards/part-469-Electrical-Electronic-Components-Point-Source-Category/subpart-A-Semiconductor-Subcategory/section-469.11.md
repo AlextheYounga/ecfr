@@ -1,0 +1,3 @@
+##### § 469.11 Compliance dates. #####
+
+The compliance deadline for the BAT fluoride limitation shall be as soon as possible as determined by the permit writer, but no later than November 8, 1985. The compliance deadline for the BAT and BCT limitations for total toxic organics (TTO) and pH, respectively, is as soon as possible as determined by the permit writer, but in no event later than July 1, 1984. The compliance date for PSES for TTO is July 1, 1984.

@@ -1,0 +1,13 @@
+##### § 570.3 Filing of safety and soundness compliance plan. #####
+
+(a) *Schedule for filing compliance plan* - (1) *In general.* A savings association shall file a written safety and soundness compliance plan with the OTS within 30 days of receiving a request for a compliance plan pursuant to § 570.2(b), unless the OTS notifies the savings association in writing that the plan is to be filed within a different period.
+
+(2) *Other plans.* If a savings association is obligated to file, or is currently operating under, a capital restoration plan submitted pursuant to section 38 of the FDI Act (12 U.S.C. 1831o), a cease-and-desist order entered into pursuant to section 8 of the FDI Act, a formal or informal agreement, or a response to a report of examination, it may, with the permission of the OTS, submit a compliance plan under this section as part of that plan, order, agreement, or response, subject to the deadline provided in paragraph (a)(1) of this section.
+
+(b) *Contents of plan.* The compliance plan shall include a description of the steps the savings association will take to correct the deficiency and the time within which those steps will be taken.
+
+(c) *Review of safety and soundness compliance plans.* Within 30 days after receiving a safety and soundness compliance plan under this subpart, the OTS shall provide written notice to the savings association of whether the plan has been approved or seek additional information from the savings association regarding the plan. The OTS may extend the time within which notice regarding approval of a plan will be provided.
+
+(d) *Failure to submit or implement a compliance plan.* If a savings association fails to submit an acceptable plan within the time specified by the OTS or fails in any material respect to implement a compliance plan, then the OTS shall, by order, require the savings association to correct the deficiency and may take further actions provided in section 39(e)(2)(B) of the FDI Act. Pursuant to section 39(e)(3), the OTS may be required to take certain actions if the savings association commenced operations or experienced a change in control within the previous 24-month period, or the savings association experienced extraordinary growth during the previous 18-month period.
+
+(e) *Amendment of compliance plan.* A savings association that has filed an approved compliance plan may, after prior written notice to and approval by the OTS, amend the plan to reflect a change in circumstance. Until such time as a proposed amendment has been approved, the savings association shall implement the compliance plan as previously approved.

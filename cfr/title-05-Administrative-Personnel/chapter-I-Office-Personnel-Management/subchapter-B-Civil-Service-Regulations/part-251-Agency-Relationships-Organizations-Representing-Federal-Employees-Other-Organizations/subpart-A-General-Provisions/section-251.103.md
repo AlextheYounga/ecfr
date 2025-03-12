@@ -1,0 +1,7 @@
+##### § 251.103 Definitions. #####
+
+(a) *Organization representing Federal employees and other organizations* means an organization other than a labor organization that can provide information, views, and services which will contribute to improved agency operations, personnel management, and employee effectiveness. Such an organization may be an association of Federal management officials and/or supervisors, a group representing minorities, women or persons with disabilities in connection with the agencies' EEO programs and action plans, a professional association, a civic or consumer group, and organization concerned with special social interests, and the like.
+
+(b) *Association of management officials and/or supervisors* means an association comprised primarily of Federal management officials and/or supervisors, which is not eligible for recognition under Chapter 71 of title 5 of the U.S. Code or comparable provisions of other laws, and which is not affiliated with a labor organization or federation of labor organizations.
+
+(c) *Labor organization* means an organization as defined in 5 U.S.C. 7103(a)(4), which is in compliance with 5 U.S.C. 7120, or as defined in comparable provisions of other laws.

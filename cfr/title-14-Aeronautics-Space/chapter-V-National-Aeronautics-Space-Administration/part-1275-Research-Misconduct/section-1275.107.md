@@ -1,0 +1,7 @@
+##### § 1275.107 Adjudication. #####
+
+(a) The NASA Adjudication Official must review and evaluate the investigation report and the evidentiary record required to be transmitted pursuant to § 1275.102(d) and (e). The NASA Adjudication Official may initiate further investigations, which may include affording the Respondent another opportunity for comment, before issuing a decision regarding the case. The NASA Adjudication Official may also return the investigation report to the OIG with a request for further fact-finding or analysis.
+
+(b) Based on a preponderance of the evidence, the NASA Adjudication Official shall issue a decision setting forth the Agency's findings as to whether research misconduct has occurred and recommending appropriate administrative actions that may be undertaken by NASA in response to research misconduct determined to have occurred. The NASA Adjudication Official shall render a decision within 30 days after receiving the investigation report and evidentiary record, or after completion of any further proceedings. The NASA Adjudication Official may extend this period of time for good cause.
+
+(c) The decision shall be sent to the Respondent, to the Respondent's institution, and, if appropriate, to the Complainant. If the decision confirms the alleged research misconduct, it must include instructions on how to pursue an appeal to the NASA Appeals Official. The decision shall also be transmitted to the NASA Office of the Chief Scientist and the OIG.

@@ -1,0 +1,3 @@
+##### § 150.11 Identification of land uses. #####
+
+For the purposes of this part, uses of land which are normally compatible or noncompatible with various noise exposure levels to individuals around airports must be identified in accordance with the criteria prescribed under appendix A of this part. Determination of land use must be based on professional planning criteria and procedures utilizing comprehensive, or master, land use planning, zoning, and building and site designing, as appropriate. If more than one current or future land use is permissible, determination of compatibility must be based on that use most adversely affected by noise.

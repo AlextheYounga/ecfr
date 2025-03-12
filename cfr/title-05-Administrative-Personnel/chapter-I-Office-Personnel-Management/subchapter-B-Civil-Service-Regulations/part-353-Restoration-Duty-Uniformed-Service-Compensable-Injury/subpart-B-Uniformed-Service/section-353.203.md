@@ -1,0 +1,29 @@
+##### § 353.203 Length of service. #####
+
+(a) *Counting service after the effective date of USERRA (12/12/94).* To be entitled to restoration rights under this part, cumulative service in the uniformed services while employed by the Federal Government may not exceed 5 years. However, the 5-year period does not include any service—
+
+(1) That is required beyond 5 years to complete an initial period of obligated service;
+
+(2) During which the individual was unable to obtain orders releasing him or her from service in the uniformed services before expiration of the 5-year period, and such inability was through no fault of the individual;
+
+(3) Performed as required pursuant to 10 U.S.C. 10147, under 32 U.S.C. 502(a) or 503, or to fulfill additional training requirements determined and certified in writing by the Secretary of the military department concerned to be necessary for professional development or for completion of skill training or retraining;
+
+(4) Performed by a member of a uniformed service who is:
+
+(i) Ordered to or retained on active duty under sections 12301(a), 12301(g), 12302, 12304, 12305, or 688 of title 10, United States Code, or under 14 U.S.C. 331, 332, 359, 360, 367, or 712;
+
+(ii) Ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress, as determined by the Secretary concerned.
+
+(iii) Ordered to active duty (other than for training) in support, as determined by the Secretary of the military department concerned, of an operational mission for which personnel have been ordered to active duty under 10 U.S.C. 12304;
+
+(iv) Ordered to active duty in support, as determined by the Secretary of the military department concerned, of a critical mission or requirement of the uniformed services, or
+
+(v) Called into Federal service as a member of the National Guard under chapter 15 or under section 12406 of title 10, United States Code.
+
+(b) *Counting service prior to the effective date of USERRA.* In determining the 5-year total that may not be exceeded for purposes of exercising restoration rights, service performed prior to December 12, 1994, is considered only to the extent that it would have counted under the previous law (the Veterans' Reemployment Rights statute). For example, the service of a National Guard technician who entered on an Active Guard Reserve (AGR) tour under section 502(f) of title 32, United States Code, was not counted toward the 4-year time limit under the previous statute because it was specifically considered active duty for training. However, title 32, section 502(f) AGR service is not exempt from the cumulative time limits allowed under USERRA and service after the effective date counts under USERRA rules. Thus, if a technician was on a 32 U.S.C. 502(f) AGR tour on October 13, 1994, (the date USERRA was signed into law), but exercised restoration rights after December 11, 1994, (the date USERRA became fully effective), AGR service prior to December 12 would not count in computing the 5-year total, but all service beginning with that date would count.
+
+(c) *Nature of Reserve service and resolving conflicts.* An employee who is a member of the Reserve or National Guard has a dual obligation—to the military and to his or her employer. Given the nature of the employee's service obligation, some conflict with job demands is often unavoidable and a good-faith effort on the part of both the employee and the agency is needed to minimize conflict and resolve differences. Some accommodation may be necessary by both parties. Most Reserve component members are required, as a minimum, to participate in drills for 2 days each month and in 2 weeks of active duty for training per year. But some members are required to participate in longer or more frequent training tours. USERRA makes it clear that the timing, frequency, duration, and nature of the duty performed is not an issue so long as the employee gave proper notice, and did not exceed the time limits specified. However, to the extent that the employee has influence upon the timing, frequency, or duration of such training or duty, he or she is expected to use that influence to minimize the burden upon the agency. The employee is expected to provide the agency with as much advance notice as possible whenever military duty or training will interfere with civilian work. When a conflict arises between the Reserve duty and the legitimate needs of the employer, the agency may contact appropriate military authorities to express concern. Where the request would require the employee to be absent from work for an extended period, during times of acute need, or when, in light of previous leaves, the requested leave is cumulatively burdensome, the agency may contact the military commander of the employee's military unit to determine if the military duty could be rescheduled or performed by another member. If the military authorities determine that the military duty cannot be rescheduled or cancelled, the agency is required to permit the employee to perform his or her military duty.
+
+(d) *Mobilization authority.* By law, members of the Selected Reserve (a component of the Ready Reserve), can be called up under a presidential order for purposes other than training for as long as 270 days. If the President declares a national emergency, the remainder of the Ready Reserve—the Individual Ready Reserve and the Inactive National Guard—may be called up. The Ready Reserve as a whole is subject to as much as 24 consecutive months of active duty in a national emergency declared by the President.
+
+[60 FR 45652, Sept. 1, 1995, as amended at 64 FR 31487, June 11, 1999]

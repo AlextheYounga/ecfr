@@ -1,0 +1,7 @@
+##### § 919.705 What does the suspending official consider in issuing a suspension? #####
+
+(a) In determining the adequacy of the evidence to support the suspension, the suspending official considers how much information is available, how credible it is given the circumstances, whether or not important allegations are corroborated, and what inferences can reasonably be drawn as a result. During this assessment, the suspending official may examine the basic documents, including grants, cooperative agreements, loan authorizations, contracts, and other relevant documents.
+
+(b) An indictment, conviction, civil judgment, or other official findings by Federal, State, or local bodies that determine factual and/or legal matters, constitutes adequate evidence for purposes of suspension actions.
+
+(c) In deciding whether immediate action is needed to protect the public interest, the suspending official has wide discretion. For example, the suspending official may infer the necessity for immediate action to protect the public interest either from the nature of the circumstances giving rise to a cause for suspension or from potential business relationships or involvement with a program of the Federal Government.

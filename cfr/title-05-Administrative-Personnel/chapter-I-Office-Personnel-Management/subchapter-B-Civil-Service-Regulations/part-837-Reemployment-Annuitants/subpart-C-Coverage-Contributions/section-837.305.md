@@ -1,0 +1,3 @@
+##### § 837.305 Lump-sum credit not reduced. #####
+
+When annuity continues during the period of reemployment, and the reemployment is subject to annuity offset under the provisions of § 837.303 of this subpart, or any similar provision of law or regulation, the amount of an annuitant's lump-sum credit to the Fund shall not be reduced by the amount of annuity allocable to the period of reemployment.

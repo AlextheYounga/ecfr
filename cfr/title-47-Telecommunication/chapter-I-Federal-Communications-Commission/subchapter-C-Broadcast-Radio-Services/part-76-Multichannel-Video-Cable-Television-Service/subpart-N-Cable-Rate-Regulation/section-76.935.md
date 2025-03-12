@@ -1,0 +1,3 @@
+##### § 76.935 Participation of interested parties. #####
+
+In order to regulate basic tier rates or associated equipment costs, a franchising authority must have procedural laws or regulations applicable to rate regulation proceedings that provide a reasonable opportunity for consideration of the views of interested parties. Such rules must take into account the 30, 120, or 180-day time periods that franchising authorities have to review rates under § 76.933.

@@ -1,0 +1,3 @@
+##### § 18.8 Date for conducting investigation and tests. #####
+
+The date of receipt of an application will determine the order of precedence for investigation and testing. If an electrical machine component or accessory fails to meet any of the requirements, it shall lose its order of precedence. If an application is submitted to resume investigation and testing after correction of the cause of failure, it will be treated as a new application and the order of precedence for investigation and testing will be so determined.

@@ -1,0 +1,3 @@
+##### 2001.303 Public participation. #####
+
+FAR 1.301 and section 22 of the Office of Federal Procurement Policy Act, as amended (41 U.S.C. 418b) require rulemaking for substantive acquisition rules, but allow discretion in the matter for other than significant issues meeting the stated criteria. Accordingly, the NRCAR has been promulgated and may be revised from time to time in accordance with FAR 1.301. This procedure for significant subject matter generally involves issuing a notice of proposed rulemaking that invites public comment, review and analysis of comments received, and publication of a final rule. The final rule includes a discussion of the public comments received and describes any changes made as a result of the comments.

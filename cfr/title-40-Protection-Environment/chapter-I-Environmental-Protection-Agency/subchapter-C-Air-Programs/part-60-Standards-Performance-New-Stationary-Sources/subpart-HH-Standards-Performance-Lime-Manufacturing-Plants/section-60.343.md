@@ -1,0 +1,17 @@
+##### § 60.343 Monitoring of emissions and operations. #####
+
+(a) The owner or operator of a facility that is subject to the provisions of this subpart shall install, calibrate, maintain, and operate a continuous monitoring system, except as provided in paragraphs (b) and (c) of this section, to monitor and record the opacity of a representative portion of the gases discharged into the atmosphere from any rotary lime kiln. The span of this system shall be set at 40 percent opacity.
+
+(b) The owner or operator of any rotary lime kiln having a control device with a multiple stack exhaust or a roof monitor may, in lieu of the continuous opacity monitoring requirement of § 60.343(a), monitor visible emissions at least once per day of operation by using a certified visible emissions observer who, for each site where visible emissions are observed, will perform three Method 9 tests and record the results. Visible emission observations shall occur during normal operation of the rotary lime kiln at least once per day. For at least three 6-minute periods, the opacity shall be recorded for any point(s) where visible emissions are observed, and the corresponding feed rate of the kiln shall also be recorded. Records shall be maintained of any 6-minute average that is in excess of the emissions specified in § 60.342(a) of this subpart.
+
+(c) The owner or operator of any rotary lime kiln using a wet scrubbing emission control device subject to the provisions of this subpart shall not be required to monitor the opacity of the gases discharged as required in paragraph (a) of this section, but shall install, calibrate, maintain, operate, and record the resultant information from the following continuous monitoring devices:
+
+(1) A monitoring device for the continuous measurement of the pressure loss of the gas stream through the scrubber. The monitoring device must be accurate within ±250 pascals (one inch of water).
+
+(2) A monitoring device for continuous measurement of the scrubbing liquid supply pressure to the control device. The monitoring device must be accurate within ±5 percent of the design scrubbing liquid supply pressure.
+
+(d) For the purpose of conducting a performance test under § 60.8, the owner or operator of any lime manufacturing plant subject to the provisions of this subpart shall install, calibrate, maintain, and operate a device for measuring the mass rate of stone feed to any affected rotary lime kiln. The measuring device used must be accurate to within ±5 percent of the mass rate over its operating range.
+
+(e) For the purpose of reports required under § 60.7(c), periods of excess emissions that shall be reported are defined as all 6-minute periods during which the average opacity of the visible emissions from any lime kiln subject to paragraph (a) of this subpart is greater than 15 percent or, in the case of wet scrubbers, any period in which the scrubber pressure drop or scrubbing liquid supply pressure is greater than 30 percent below that established during the performance test. If visible emission observations are made according to paragraph (b) of this section, reports of excess emissions shall be submitted semiannually.
+
+[49 FR 18080, Apr. 26, 1984, as amended at 52 FR 4773, Feb. 17, 1987; 54 FR 6675, Feb. 14, 1989; 65 FR 61760, Oct. 17, 2000]

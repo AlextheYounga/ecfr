@@ -1,0 +1,5 @@
+##### 36.521 Specifications and drawings for construction. #####
+
+The contracting officer shall insert the clause at 52.236-21, Specifications and Drawings for Construction, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold. When the Government needs record drawings, the contracting officer shall (a) use the clause with its *Alternate I,* if reproducible shop drawings are needed, or (b) use the clause with its *Alternate II,* if reproducible shop drawings are not needed.
+
+[48 FR 42356, Sept. 19, 1983, as amended at 51 FR 2666, Jan. 17, 1986; 60 FR 34759, July 3, 1995]

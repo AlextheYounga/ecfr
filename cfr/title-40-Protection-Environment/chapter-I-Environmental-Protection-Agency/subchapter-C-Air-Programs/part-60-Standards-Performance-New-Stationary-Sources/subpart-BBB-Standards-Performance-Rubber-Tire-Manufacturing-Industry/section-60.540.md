@@ -1,0 +1,9 @@
+##### § 60.540 Applicability and designation of affected facilities. #####
+
+(a) The provisions of this subpart, except as provided in paragraph (b) of this section, apply to each of the following affected facilities in rubber tire manufacturing plants that commence construction, modification, or reconstruction after January 20, 1983: each undertread cementing operation, each sidewall cementing operation, each tread end cementing operation, each bead cementing operation, each green tire spraying operation, each Michelin-A operation, each Michelin-B operation, and each Michelin-C automatic operation.
+
+(b) The owner or operator of each undertread cementing operation and each sidewall cementing operation in rubber tire manufacturing plants that commenced construction, modification, or reconstruction after January 20, 1983, and before September 15, 1987, shall have the option of complying with the alternate provisions in § 60.542a. This election shall be irreversible. The alternate provisions in § 60.542a do not apply to any undertread cementing operation or sidewall cementing operation that is modified or reconstructed after September 15, 1987. The affected facilities in this paragraph are subject to all applicable provisions of this subpart.
+
+(c) Although the affected facilities listed under § 60.540(a) are defined in reference to the production of components of a “tire,” as defined under § 60.541(a), the percent emission reduction requirements and VOC use cutoffs specified under § 60.542(a)(1), (2), (6), (7)(iii), (7)(iv), (8), (9), and (10) refer to the total amount of VOC used (the amount allocated to the affected facility), including the VOC used in cements and organic solvent-based green tire spray materials for tire types not listed in the § 60.541(a) definition of “tire.”
+
+[52 FR 34874, Sept. 15, 1987, as amended at 54 FR 38635, Sept. 19, 1989]

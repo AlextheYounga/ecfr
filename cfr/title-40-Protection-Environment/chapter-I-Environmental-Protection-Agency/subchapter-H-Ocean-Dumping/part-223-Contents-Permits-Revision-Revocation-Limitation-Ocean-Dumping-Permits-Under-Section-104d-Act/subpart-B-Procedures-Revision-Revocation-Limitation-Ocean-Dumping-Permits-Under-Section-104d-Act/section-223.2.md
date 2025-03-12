@@ -1,0 +1,5 @@
+##### § 223.2 Scope of these rules. #####
+
+(a) These rules of practice shall govern all proceedings under section 104(d) of the Marine Protection, Research, and Sanctuaries Act of 1972, as amended (33 U.S.C. 1414(d)), to revise, revoke or limit the terms and conditions of any permit issued pursuant to section 102 of the Act. Section 104(d) provides that “the Administrator \* \* \* may limit or deny the issuance of permits, or he may alter or revoke partially or entirely the terms of permits issued by him under this title, for the transportation for dumping, or for the dumping, or both of specified materials or classes of materials, where he finds that such materials cannot be dumped consistently with the criteria and other factors required to be applied in evaluating the permit application.”
+
+(b) In the absence of specific provisions in these rules, and where appropriate, questions arising at any stage of the proceedings shall be resolved at the discretion of the Presiding Officer, the Regional Administrator, or the Administrator, as appropriate.

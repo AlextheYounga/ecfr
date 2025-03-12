@@ -1,0 +1,3 @@
+##### 1.706 Expiration. #####
+
+Expiration dates are required for class D&F's and are optional for individual D&F's. Authority to act under an individual D&F expires when it is exercised or on an expiration date specified in the document, whichever occurs first. Authority to act under a class D&F expires on the expiration date specified in the document. When a solicitation has been furnished to prospective offerors before the expiration date, the authority under the D&F will continue until award of the contract(s) resulting from that solicitation.

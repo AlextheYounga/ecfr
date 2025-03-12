@@ -1,0 +1,5 @@
+##### § 14.04 Standards for awards. #####
+
+(a) A prevailing applicant may receive an award for attorney fees and other expenses incurred in connection with a proceeding, or in a significant and discrete substantive portion of the proceeding, unless the position of the agency over which the applicant has prevailed was substantially justified. Whether or not the position of the FAA was substantially justified shall be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action is based) which was made in the civil action for which fees and other expenses are sought. The burden of proof that an award should not be made to an eligible prevailing applicant is on the agency counsel, who may avoid an award by showing that the agency's position was reasonable in law and fact.
+
+(b) An award will be reduced or denied if the applicant has unduly or unreasonably protracted the proceeding or if special circumstances make the award sought unjust.

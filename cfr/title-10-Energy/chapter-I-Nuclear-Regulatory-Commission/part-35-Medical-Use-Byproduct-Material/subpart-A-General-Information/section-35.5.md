@@ -1,0 +1,3 @@
+##### § 35.5 Maintenance of records. #####
+
+Each record required by this part must be legible throughout the specified retention period. The record may be the original, a reproduced copy, or a microform if the copy or microform is authenticated by authorized personnel and the microform is capable of producing a clear copy throughout the required retention period. The record may also be stored in electronic media with the capability for producing legible, accurate, and complete records during the required retention period. Records such as letters, drawings, and specifications must include all pertinent information such as stamps, initials, and signatures. The licensee shall maintain adequate safeguards against tampering with and loss of records.

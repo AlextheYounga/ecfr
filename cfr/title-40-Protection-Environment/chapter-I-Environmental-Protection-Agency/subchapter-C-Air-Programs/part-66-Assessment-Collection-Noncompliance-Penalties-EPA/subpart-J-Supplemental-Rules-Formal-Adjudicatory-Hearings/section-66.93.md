@@ -1,0 +1,3 @@
+##### § 66.93 Time limits. #####
+
+The Presiding Officer upon designation shall notify the parties and shall, if appropriate, schedule a prehearing conference (or alternative procedures) under 40 CFR 22.19 and shall notify the parties of the date of hearing under 40 CFR 22.21. The Presiding Officer shall issue an initial decision no later than ninety days after the hearing is granted, unless an extension of the hearing schedule or of the deadline for decision is agreed to by the parties. To that end, the Presiding Officer may establish such deadlines as are reasonable and necessary. Failure to issue a decision within 90 days or further extended deadline (whether or not by consent) shall not affect the validity of the proceedings.

@@ -1,0 +1,11 @@
+##### § 652.25 Management of ineligible investments and reservation of authority. #####
+
+(a) *Investments ineligible when purchased.* Investments that do not satisfy the eligibility criteria set forth in § 652.20 at the time of purchase are ineligible. You must not purchase ineligible investments. If you determine that you have purchased an ineligible investment, you must notify the OSMO within 15 calendar days after such determination. You must divest of the investment no later than 60 calendar days after the determination unless we approve, in writing, a plan that authorizes you to divest of the investment over a longer period of time.
+
+(b) *Investments that no longer satisfy eligibility criteria.* If you determine that an investment (that satisfied the eligibility criteria set forth in § 652.20 when purchased) no longer satisfies the eligibility criteria, you must notify the OSMO within 15 calendar days of the determination.
+
+(c) *Requirements for investments that are ineligible or no longer satisfy eligibility criteria* - (1) *Reporting requirements.* Each quarter, you must report to the OSMO and your board on the status of investments identified in paragraph (a) or (b) of this section. Your report must demonstrate the effect that these investments may have on the Corporation's capital, earnings, and liquidity position. Additionally, the report must address how the Corporation plans to reduce its risk exposure from these investments or exit the position(s).
+
+(2) *Other requirements.* Investments identified in paragraph (a) or (b) of this section may not be used to satisfy the liquidity requirement(s) in § 652.40. These investments must continue to be included in the investment portfolio limit calculation established in § 652.15(b).
+
+(d) *Reservation of authority.* FCA retains the authority to require you to divest of any investment at any time for failure to comply with § 652.15(a) or for safety and soundness reasons. The timeframe set by FCA for such required divestiture will consider the expected loss on the transaction (or transactions) and the effect on the Corporation's financial condition and performance.

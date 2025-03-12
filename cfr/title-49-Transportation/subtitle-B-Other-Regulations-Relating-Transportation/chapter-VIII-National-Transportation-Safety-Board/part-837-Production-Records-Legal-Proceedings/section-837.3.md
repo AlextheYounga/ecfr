@@ -1,0 +1,5 @@
+##### § 837.3 Published reports, material contained in the public accident investigation dockets, and accident database data. #####
+
+(a) Demands for material contained in the NTSB's official public docket files of its accident investigations, or its computerized accident database(s) shall be submitted, in writing, to the Public Inquiries Branch. Demands for specific published reports and studies should be submitted to the National Technical Information Service. The Board does not maintain stock of these items. Demands for information collected in particular accident investigations and made a part of the public docket should be submitted to the Public Inquiries Branch or, directly, to our contractor. For information regarding the types of documents routinely issued by the Board, see 49 CFR part 801.
+
+(b) No subpoena shall be issued to obtain materials subject to this paragraph, and any subpoena issued shall be required to be withdrawn prior to release of the requested information. Payment of reproduction fees may be required in advance.

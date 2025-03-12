@@ -1,0 +1,43 @@
+##### § 1.104 Nature of examination. #####
+
+(a) *Examiner's action.* (1) On taking up an application for examination or a patent in a reexamination proceeding, the examiner shall make a thorough study thereof and shall make a thorough investigation of the available prior art relating to the subject matter of the claimed invention. The examination shall be complete with respect both to compliance of the application or patent under reexamination with the applicable statutes and rules and to the patentability of the invention as claimed, as well as with respect to matters of form, unless otherwise indicated.
+
+(2) The applicant, or in the case of a reexamination proceeding, both the patent owner and the requester, will be notified of the examiner's action. The reasons for any adverse action or any objection or requirement will be stated in an Office action and such information or references will be given as may be useful in aiding the applicant, or in the case of a reexamination proceeding the patent owner, to judge the propriety of continuing the prosecution.
+
+(3) An international-type search will be made in all national applications filed on and after June 1, 1978.
+
+(4) Any national application may also have an international-type search report prepared thereon at the time of the national examination on the merits, upon specific written request therefor and payment of the international-type search report fee set forth in § 1.21(e). The Patent and Trademark Office does not require that a formal report of an international-type search be prepared in order to obtain a search fee refund in a later filed international application.
+
+(b) *Completeness of examiner's action.* The examiner's action will be complete as to all matters, except that in appropriate circumstances, such as misjoinder of invention, fundamental defects in the application, and the like, the action of the examiner may be limited to such matters before further action is made. However, matters of form need not be raised by the examiner until a claim is found allowable.
+
+(c) *Rejection of claims.* (1) If the invention is not considered patentable, or not considered patentable as claimed, the claims, or those considered unpatentable will be rejected.
+
+(2) In rejecting claims for want of novelty or for obviousness, the examiner must cite the best references at his or her command. When a reference is complex or shows or describes inventions other than that claimed by the applicant, the particular part relied on must be designated as nearly as practicable. The pertinence of each reference, if not apparent, must be clearly explained and each rejected claim specified.
+
+(3) In rejecting claims the examiner may rely upon admissions by the applicant, or the patent owner in a reexamination proceeding, as to any matter affecting patentability and, insofar as rejections in applications are concerned, may also rely upon facts within his or her knowledge pursuant to paragraph (d)(2) of this section.
+
+(4)(i) Subject matter which would otherwise qualify as prior art under 35 U.S.C. 102(a)(2) and a claimed invention will be treated as commonly owned for purposes of 35 U.S.C. 102(b)(2)(C) if the applicant or patent owner provides a statement to the effect that the subject matter and the claimed invention, not later than the effective filing date of the claimed invention, were owned by the same person or subject to an obligation of assignment to the same person.
+
+(ii) Subject matter which would otherwise qualify as prior art under 35 U.S.C. 102(a)(2) and a claimed invention will be treated as commonly owned for purposes of 35 U.S.C. 102(b)(2)(C) on the basis of a joint research agreement under 35 U.S.C. 102(c) if:
+
+(A) The applicant or patent owner provides a statement to the effect that the subject matter was developed and the claimed invention was made by or on behalf of one or more parties to a joint research agreement, within the meaning of 35 U.S.C. 100(h) and § 1.9(e), that was in effect on or before the effective filing date of the claimed invention, and the claimed invention was made as a result of activities undertaken within the scope of the joint research agreement; and
+
+(B) The application for patent for the claimed invention discloses or is amended to disclose the names of the parties to the joint research agreement.
+
+(5)(i) Subject matter which qualifies as prior art under 35 U.S.C. 102(e), (f), or (g) in effect prior to March 16, 2013, and a claimed invention in an application filed on or after November 29, 1999, or any patent issuing thereon, in an application filed before November 29, 1999, but pending on December 10, 2004, or any patent issuing thereon, or in any patent granted on or after December 10, 2004, will be treated as commonly owned for purposes of 35 U.S.C. 103(c) in effect prior to March 16, 2013, if the applicant or patent owner provides a statement to the effect that the subject matter and the claimed invention, at the time the claimed invention was made, were owned by the same person or subject to an obligation of assignment to the same person.
+
+(ii) Subject matter which qualifies as prior art under 35 U.S.C. 102(e), (f), or (g) in effect prior to March 16, 2013, and a claimed invention in an application pending on or after December 10, 2004, or in any patent granted on or after December 10, 2004, will be treated as commonly owned for purposes of 35 U.S.C. 103(c) in effect prior to March 16, 2013, on the basis of a joint research agreement under 35 U.S.C. 103(c)(2) in effect prior to March 16, 2013, if:
+
+(A) The applicant or patent owner provides a statement to the effect that the subject matter and the claimed invention were made by or on behalf of the parties to a joint research agreement, within the meaning of 35 U.S.C. 100(h) and § 1.9(e), which was in effect on or before the date the claimed invention was made, and that the claimed invention was made as a result of activities undertaken within the scope of the joint research agreement; and
+
+(B) The application for patent for the claimed invention discloses or is amended to disclose the names of the parties to the joint research agreement.
+
+(6) Patents issued prior to December 10, 2004, from applications filed prior to November 29, 1999, are subject to 35 U.S.C. 103(c) in effect on November 28, 1999.
+
+(d) *Citation of references.* (1) If domestic patents are cited by the examiner, their numbers and dates, and the names of the patentees will be stated. If domestic patent application publications are cited by the examiner, their publication number, publication date, and the names of the applicants will be stated. If foreign published applications or patents are cited, their nationality or country, numbers and dates, and the names of the patentees will be stated, and such other data will be furnished as may be necessary to enable the applicant, or in the case of a reexamination proceeding, the patent owner, to identify the published applications or patents cited. In citing foreign published applications or patents, in case only a part of the document is involved, the particular pages and sheets containing the parts relied upon will be identified. If printed publications are cited, the author (if any), title, date, pages or plates, and place of publication, or place where a copy can be found, will be given.
+
+(2) When a rejection in an application is based on facts within the personal knowledge of an employee of the Office, the data shall be as specific as possible, and the reference must be supported, when called for by the applicant, by the affidavit of such employee, and such affidavit shall be subject to contradiction or explanation by the affidavits of the applicant and other persons.
+
+(e) *Reasons for allowance.* If the examiner believes that the record of the prosecution as a whole does not make clear his or her reasons for allowing a claim or claims, the examiner may set forth such reasoning. The reasons shall be incorporated into an Office action rejecting other claims of the application or patent under reexamination or be the subject of a separate communication to the applicant or patent owner. The applicant or patent owner may file a statement commenting on the reasons for allowance within such time as may be specified by the examiner. Failure by the examiner to respond to any statement commenting on reasons for allowance does not give rise to any implication.
+
+[62 FR 53191, Oct. 10, 1997, as amended at 65 FR 14872, Mar. 20, 2000; 65 FR 54671, Sept. 8, 2000; 65 FR 57056, Sept. 20, 2000; 70 FR 1823, Jan. 11, 2005; 70 FR 54266, Sept. 14, 2005; 72 FR 46841, Aug. 21, 2007; 74 FR 52690, Oct. 14, 2009; 78 FR 11057, Feb. 14, 2013]

@@ -1,0 +1,3 @@
+##### 925.7002 Policy. #####
+
+In selecting offer(s) for award of contracts for nuclear hot cell services, costs related to the decommissioning of nuclear facilities and storage and disposal of nuclear waste are to be considered in a way which affords United States and foreign companies an equal competition in accordance with 925.7003. Upon determining that no offer from a foreign firm has a reasonable chance of being selected for award, the requirements of this subpart will not apply.

@@ -1,0 +1,5 @@
+##### § 1048.805 What symbols, acronyms, and abbreviations does this part use? #####
+
+The following symbols, acronyms, and abbreviations apply to this part:
+
+°C degrees Celsius.ASTM American Society for Testing and Materials. cc cubic centimeters.CFR Code of Federal Regulations. CH4 methane.cm centimeter.CO carbon monoxide.CO2 carbon dioxide.EPA Environmental Protection Agency. g/kW-hr grams per kilowatt-hour.HC hydrocarbon.ISO International Organization for Standardization. kPa kilopascals. kW kilowatts.LPG liquefied petroleum gas. m meters.MIL malfunction-indicator light. mm Hg millimeters of mercury.N2O nitrous oxide.NARA National Archives and Records Administration.NMHC nonmethane hydrocarbons.NOX oxides of nitrogen (NO and NO2). psi pounds per square inch of absolute pressure. psig pounds per square inch of gauge pressure. rpm revolutions per minute.SAE Society of Automotive Engineers.SI spark-ignition.THC total hydrocarbon.THCE total hydrocarbon equivalent.U.S.C. United States Code.[67 FR 68347, Nov. 8, 2002, as amended at 70 FR 40485, July 13, 2005; 74 FR 56510, Oct. 30, 2009]

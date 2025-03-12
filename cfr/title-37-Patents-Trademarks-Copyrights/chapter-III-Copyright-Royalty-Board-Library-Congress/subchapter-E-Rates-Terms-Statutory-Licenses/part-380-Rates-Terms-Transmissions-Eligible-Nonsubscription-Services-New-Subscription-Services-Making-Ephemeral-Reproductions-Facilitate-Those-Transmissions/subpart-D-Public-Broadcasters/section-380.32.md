@@ -1,0 +1,27 @@
+##### § 380.32 Royalty fees for the public performance of sound recordings and for ephemeral recordings. #####
+
+(a) *Royalty rates.* The total license fee for all Web site Performances by Covered Entities during the Term, up to a total Music ATH of 285,132,065 per calendar year, and Ephemeral Phonorecords made by Covered Entities solely to facilitate such Web site Performances, during the Term shall be $2,800,000 (the “License Fee”), unless additional payments are required as described in paragraph (c) of this section.
+
+(b) *Calculation of License Fee.* It is understood that the License Fee includes:
+
+(1) An annual minimum fee of $500 for each Covered Entity for each year during the Term;
+
+(2) Additional usage fees for certain Covered Entities; and
+
+(3) A discount that reflects the administrative convenience to the Collective of receiving annual lump sum payments that cover a large number of separate entities, as well as the protection from bad debt that arises from being paid in advance.
+
+(c) *Increase in Covered Entities.* If the total number of Originating Public Radio Stations that wish to make Web site Performances in any calendar year exceeds the number of such Originating Public Radio Stations considered Covered Entities in the relevant year, and the excess Originating Public Radio Stations do not wish to pay royalties for such Web site Performances apart from this subpart, CPB may elect by written notice to the Collective to increase the number of Originating Public Radio Stations considered Covered Entities in the relevant year effective as of the date of the notice. To the extent of any such elections, CPB shall make an additional payment to the Collective for each calendar year or part thereof it elects to have an additional Originating Public Radio Station considered a Covered Entity, in the amount of $500 per Originating Public Radio Station per year. Such payment shall accompany the notice electing to have an additional Originating Public Radio Station considered a Covered Entity.
+
+(d) *Ephemeral recordings.* The royalty payable under 17 U.S.C. 112(e) for the making of all Ephemeral Recordings used by Covered Entities solely to facilitate Web site Performances for which royalties are paid pursuant to this subpart shall be included within, and constitute 5% of, the total royalties payable under 17 U.S.C. 112(e) and 114.
+
+(e) *Effect of non-performance by any Covered Entity.* In the event that any Covered Entity violates any of the material provisions of 17 U.S.C. 112(e) or 114 or this subpart that it is required to perform, the remedies of the Collective shall be specific to that Covered Entity only, and shall include, without limitation, termination of that Covered Entity's right to be treated as a Covered Entity hereunder upon written notice to CPB. The Collective and Copyright Owners also shall have whatever rights may be available to them against that Covered Entity under applicable law. The Collective's remedies for such a breach or failure by an individual Covered Entity shall not include termination of the rights of other Covered Entities to be treated as Covered Entities hereunder, except that if CPB fails to pay the License Fee or otherwise fails to perform any of the material provisions of this subpart, or such a breach or failure by a Covered Entity results from CPB's inducement, and CPB does not cure such breach or failure within 30 days after receiving notice thereof from the Collective, then the Collective may terminate the right of all Covered Entities to be treated as Covered Entities hereunder upon written notice to CPB. In such a case, a prorated portion of the License Fee for the remainder of the Term (to the extent paid by CPB) shall, after deduction of any damages payable to the Collective by virtue of the breach or failure, be credited to statutory royalty obligations of Covered Entities to the Collective for the Term as specified by CPB.
+
+(f) *Use of contractors.* The right to rely on this subpart is limited to Covered Entities, except that a Covered Entity may employ the services of a third Person to provide the technical services and equipment necessary to deliver Web site Performances on behalf of such Covered Entity, but only through an Authorized Web site. Any agreement between a Covered Entity and any third Person for such services shall:
+
+(1) Obligate such third Person to provide all such services in accordance with all applicable provisions of the statutory licenses and this subpart;
+
+(2) Specify that such third Person shall have no right to make Web site Performances or any other performances or Phonorecords on its own behalf or on behalf of any Person or entity other than a Covered Entity through the Covered Entity's Authorized Web site by virtue of its services for the Covered Entity, including in the case of Phonorecords, pre-encoding or otherwise establishing a library of Sound Recordings that it offers to a Covered Entity or others for purposes of making performances, but instead must obtain all necessary licenses from the Collective, the copyright owner or another duly authorized Person, as the case may be;
+
+(3) Specify that such third Person shall have no right to grant any sublicenses under the statutory licenses; and
+
+(4) Provide that the Collective is an intended third-party beneficiary of all such obligations with the right to enforce a breach thereof against such third Person.

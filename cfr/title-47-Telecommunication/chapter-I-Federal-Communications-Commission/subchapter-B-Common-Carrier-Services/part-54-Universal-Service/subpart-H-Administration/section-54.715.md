@@ -1,0 +1,13 @@
+##### § 54.715 Administrative expenses of the Administrator. #####
+
+(a) The annual administrative expenses of the Administrator should be commensurate with the administrative expenses of programs of similar size, with the exception of the salary levels for officers and employees of the Administrator described in paragraph (b) of this section. The annual administrative expenses may include, but are not limited to, salaries of officers and operations personnel, the costs of borrowing funds, equipment costs, operating expenses, directors' expenses, and costs associated with auditing contributors of support recipients.
+
+(b) All officers and employees of the Administrator may be compensated at an annual rate of pay, including any non-regular payments, bonuses, or other compensation, in an amount not to exceed the rate of basic pay in effect for Level I of the Executive Schedule under 5 U.S.C. 5312.
+
+Note to paragraph (b):
+
+The compensation to be included when calculating whether an employee's rate of pay exceeds Level I of the Executive Schedule does not include life insurance benefits, retirement benefits (including payments to 401(k) plans), health insurance benefits, or other similar benefits, provided that any such benefits are reasonably comparable to benefits that are provided to employees of the federal government.
+
+(c) The Administrator shall submit to the Commission projected quarterly budgets at least sixty (60) days prior to the start of every quarter. The Commission must approve the projected quarterly budgets before the Administrator disburses funds under the federal universal service support mechanisms. The administrative expenses incurred by the Administrator in connection with the schools and libraries support mechanism, the rural health care support mechanism, the high-cost support mechanism, and the low income support mechanism shall be deducted from the annual funding of each respective support mechanism. The expenses deducted from the annual funding for each support mechanism also shall include the Administrator's joint and common costs allocated to each support mechanism pursuant to the cost allocation manual filed by the Administrator under § 64.903 of this chapter.
+
+[63 FR 70576, Dec. 21, 1998, as amended at 65 FR 38690, June 21, 2000; 65 FR 57739, Sept. 26, 2000; 66 FR 59728, Nov. 30, 2001; 69 FR 5719, Feb. 6, 2004; 76 FR 73877, Nov. 29, 2011]

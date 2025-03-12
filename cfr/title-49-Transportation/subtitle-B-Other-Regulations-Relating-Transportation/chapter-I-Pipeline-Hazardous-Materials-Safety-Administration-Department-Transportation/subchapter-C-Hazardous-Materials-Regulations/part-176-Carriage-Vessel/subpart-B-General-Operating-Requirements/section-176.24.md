@@ -1,0 +1,7 @@
+##### § 176.24 Shipping papers. #####
+
+(a) A person may not accept a hazardous material for transportation or transport a hazardous material by vessel unless that person has received a shipping paper prepared in accordance with part 172 of this subchapter, or as authorized by subpart C of part 171 of this subchapter, unless the material is excepted from shipping paper requirements under this subchapter.
+
+(b) Each person receiving a shipping paper required by this section must retain a copy or an electronic image thereof, that is accessible at or through its principal place of business and must make the shipping paper available, upon request, to an authorized official of a Federal, State, or local government agency at reasonable times and locations. For a hazardous waste, each shipping paper copy must be retained for three years after the material is accepted by the initial carrier. For all other hazardous materials, each shipping paper copy must be retained for one year after the material is accepted by the carrier. Each shipping paper copy must include the date of acceptance by the carrier. The date on the shipping paper may be the date a shipper presents a booking for carriage with the carrier as an alternative to the date the shipment is picked up, accepted, or loaded on the vessel by the carrier.
+
+[67 FR 66574, Nov. 1, 2002, as amended at 70 FR 73165, Dec. 9, 2005; 72 FR 25177, May 3, 2007]

@@ -1,0 +1,7 @@
+##### § 147.3000 EPA-administered program. #####
+
+(a) *Contents.* The UIC program for Navajo Indian lands, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program (as defined in § 147.3400), the Ute Mountain Ute (Class II wells only on Ute Mountain Ute lands in Colorado and all wells on Ute Mountain Ute lands in Utah and New Mexico), and all wells on other Indian lands in New Mexico is administered by EPA. (The term “Indian lands” is defined at 40 CFR 144.3.) The Navajo Indian lands are in the States of Arizona, New Mexico, and Utah; and the Ute Mountain Ute lands are in Colorado, New Mexico and Utah. This program consists of the UIC program requirements of 40 CFR parts 124, 144, 146, 148, and additional requirements set forth in the remainder of this subpart. The additions and modifications of this subpart apply only to the Indian lands described above. Injection well owners and operators, and EPA shall comply with these requirements.
+
+(b) *Effective date.* The effective date for the UIC program on these lands, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program (as defined in § 147.3400), is November 25, 1988.
+
+[53 FR 43104, Oct. 25, 1988, as amended at 56 FR 9422, Mar. 6, 1991; 73 FR 65565, Nov. 4, 2008]

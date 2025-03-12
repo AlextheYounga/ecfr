@@ -1,0 +1,3 @@
+##### 9901.314 Informal actions. #####
+
+The Chairman may take actions on behalf of the Board on administrative issues, as determined by the Chairman, without holding an official meeting of the members. However, details of the actions so taken shall be provided to all of the members at the next Board meeting following such actions. Board members may be polled by telephone on other issues that must be processed on a timely basis when such matters cannot be deferred until the next formal meeting of the Board.

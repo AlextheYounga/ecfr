@@ -1,0 +1,3 @@
+##### § 170.301 Scope and purpose. #####
+
+This regulation is primarily intended to reduce the risks of illness or injury to workers and handlers resulting from occupational exposures to pesticides used in the production of agricultural plants on agricultural establishments. It requires agricultural employers and commercial pesticide handler employers to provide specific information and protections to workers, handlers and other persons when pesticides are used on agricultural establishments in the production of agricultural plants. It also requires handlers to wear the labeling-specified clothing and personal protective equipment when performing handler activities, and to take measures to protect workers and other persons during pesticide applications.

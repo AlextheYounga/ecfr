@@ -1,0 +1,15 @@
+##### § 233.52 Program reporting. #####
+
+(a) The starting date for the annual period to be covered by reports shall be established in the Memorandum of Agreement with the Regional Administrator (§ 233.13.)
+
+(b) The Director shall submit to the Regional Administrator within 90 days after completion of the annual period, a draft annual report evaluating the State's administration of its program identifying problems the State has encountered in the administration of its program, steps taken to resolve these problems, and recommendations for resolving any outstanding problems along with a timeline for resolution. Items that shall be addressed in the annual report include an assessment of the cumulative impacts of the State's permitting program on the integrity of the State regulated waters; identification of areas of particular concern or interest within the State; the number and nature of individual and general permits issued, modified, and denied; the number of violations identified and number and nature of enforcement actions taken; the number of suspected unauthorized activities reported and nature of action taken; an estimate of the extent of activities regulated by general permits; the number of permit applications received but not yet processed; and an assessment of avoidance, minimization, and compensation required for permits issued, including the type and quantity of resources impacted, type and quantity of compensation required (including quantification and rationale for out-of-kind or compensation provided outside the watershed), and a description of why compensation was not required, if applicable. The Annual Report shall briefly summarize resolution of issues identified in the previous Annual Report. Additionally, to the extent appropriate, the Annual Report should analyze program resources and staffing, including staffing changes, training, and vacancy rate since approval or the previous Annual Report.
+
+(c) The State shall make the draft annual report available for public inspection.
+
+(d) Within 60 days of receipt of the draft annual report, the Regional Administrator will complete review of the draft report and transmit comments, questions, and/or requests for additional evaluation and/or information to the Director.
+
+(e) Within 30 days of receipt of the Regional Administrator's final comments, the Director will finalize the annual report, incorporating and/or responding to the Regional Administrator's comments, and transmit the final report to the Regional Administrator. The Director shall make a copy of the final annual report, accepted by the Regional Administrator, publicly available.
+
+(f) Upon acceptance of the annual report, the Regional Administrator shall publish notice of availability of the final annual report.
+
+[53 FR 20776, June 1, 1988, as amended at 89 FR 103506, Dec. 18, 2024]

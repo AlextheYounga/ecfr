@@ -1,0 +1,25 @@
+##### § 392.22 Emergency signals; stopped commercial motor vehicles. #####
+
+(a) *Hazard warning signal flashers.* Whenever a commercial motor vehicle is stopped upon the traveled portion of a highway or the shoulder of a highway for any cause other than necessary traffic stops, the driver of the stopped commercial motor vehicle shall immediately activate the vehicular hazard warning signal flashers and continue the flashing until the driver places the warning devices required by paragraph (b) of this section. The flashing signals shall be used during the time the warning devices are picked up for storage before movement of the commercial motor vehicle. The flashing lights may be used at other times while a commercial motor vehicle is stopped in addition to, but not in lieu of, the warning devices required by paragraph (b) of this section.
+
+(b) *Placement of warning devices*—(1) *General rule.* Except as provided in paragraph (b)(2) of this section, whenever a commercial motor vehicle is stopped upon the traveled portion or the shoulder of a highway for any cause other than necessary traffic stops, the driver shall, as soon as possible, but in any event within 10 minutes, place the warning devices required by § 393.95 of this subchapter, in the following manner:
+
+(i) One on the traffic side of and 4 paces (approximately 3 meters or 10 feet) from the stopped commercial motor vehicle in the direction of approaching traffic;
+
+(ii) One at 40 paces (approximately 30 meters or 100 feet) from the stopped commercial motor vehicle in the center of the traffic lane or shoulder occupied by the commercial motor vehicle and in the direction of approaching traffic; and
+
+(iii) One at 40 paces (approximately 30 meters or 100 feet) from the stopped commercial motor vehicle in the center of the traffic lane or shoulder occupied by the commercial motor vehicle and in the direction away from approaching traffic.
+
+(2) *Special rules*—(i) *Fusees and liquid-burning flares.* The driver of a commercial motor vehicle equipped with only fusees or liquid-burning flares shall place a lighted fusee or liquid-burning flare at each of the locations specified in paragraph (b)(1) of this section. There shall be at least one lighted fusee or liquid-burning flare at each of the prescribed locations, as long as the commercial motor vehicle is stopped. Before the stopped commercial motor vehicle is moved, the driver shall extinguish and remove each fusee or liquid-burning flare.
+
+(ii) *Daylight hours.* Except as provided in paragraph (b)(2)(iii) of this section, during the period lighted lamps are not required, three bidirectional reflective triangles, or three lighted fusees or liquid-burning flares shall be placed as specified in paragraph (b)(1) of this section within a time of 10 minutes. In the event the driver elects to use only fusees or liquid-burning flares in lieu of bidirectional reflective triangles or red flags, the driver must ensure that at least one fusee or liquid-burning flare remains lighted at each of the prescribed locations as long as the commercial motor vehicle is stopped or parked.
+
+(iii) *Business or residential districts.* The placement of warning devices is not required within the business or residential district of a municipality, except during the time lighted lamps are required and when street or highway lighting is insufficient to make a commercial motor vehicle clearly discernable at a distance of 500 feet to persons on the highway.
+
+(iv) *Hills, curves, and obstructions.* If a commercial motor vehicle is stopped within 500 feet of a curve, crest of a hill, or other obstruction to view, the driver shall place the warning signal required by paragraph (b)(1) of this section in the direction of the obstruction to view a distance of 100 feet to 500 feet from the stopped commercial motor vehicle so as to afford ample warning to other users of the highway.
+
+(v) *Divided or one-way roads.* If a commercial motor vehicle is stopped upon the traveled portion or the shoulder of a divided or one-way highway, the driver shall place the warning devices required by paragraph (b)(1) of this section, one warning device at a distance of 200 feet and one warning device at a distance of 100 feet in a direction toward approaching traffic in the center of the lane or shoulder occupied by the commercial motor vehicle. He/she shall place one warning device at the traffic side of the commercial motor vehicle within 10 feet of the rear of the commercial motor vehicle.
+
+(vi) *Leaking, flammable material.* If gasoline or any other flammable liquid, or combustible liquid or gas seeps or leaks from a fuel container or a commercial motor vehicle stopped upon a highway, no emergency warning signal producing a flame shall be lighted or placed except at such a distance from any such liquid or gas as will assure the prevention of a fire or explosion.
+
+[37 FR 17175, Aug. 25, 1972, as amended at 40 FR 10685, Mar. 7, 1975; 47 FR 47837, Oct. 28, 1982; 48 FR 57139, Dec. 23, 1983; 59 FR 34711, July 6, 1994; 60 FR 38747, July 28, 1995; 63 FR 33279, June 18, 1998]

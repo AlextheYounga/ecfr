@@ -1,0 +1,3 @@
+##### 44.301 Objective. #####
+
+The objective of a contractor purchasing system review (CPSR) is to evaluate the efficiency and effectiveness with which the contractor spends Government funds and complies with Government policy when subcontracting. The review provides the administrative contracting officer (ACO) a basis for granting, withholding, or withdrawing approval of the contractor's purchasing system.

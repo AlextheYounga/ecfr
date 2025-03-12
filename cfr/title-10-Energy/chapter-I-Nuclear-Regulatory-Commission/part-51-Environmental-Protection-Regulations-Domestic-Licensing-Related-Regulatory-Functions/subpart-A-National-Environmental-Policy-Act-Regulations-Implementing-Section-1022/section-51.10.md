@@ -1,0 +1,21 @@
+##### § 51.10 Purpose and scope of subpart; application of regulations of Council on Environmental Quality. #####
+
+(a) The National Environmental Policy Act of 1969, as amended (NEPA) directs that, to the fullest extent possible: (1) The policies, regulations, and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in NEPA, and (2) all agencies of the Federal Government shall comply with the procedures in section 102(2) of NEPA except where compliance would be inconsistent with other statutory requirements. The regulations in this subpart implement section 102(2) of NEPA in a manner which is consistent with the NRC's domestic licensing and related regulatory authority under the Atomic Energy Act of 1954, as amended, the Energy Reorganization Act of 1974, as amended, and the Uranium Mill Tailings Radiation Control Act of 1978, and which reflects the Commission's announced policy to take account of the regulations of the Council on Environmental Quality published November 29, 1978 (43 FR 55978-56007) voluntarily, subject to certain conditions. This subpart does not apply to export licensing matters within the scope of part 110 of this chapter nor does it apply to any environmental effects which NRC's domestic licensing and related regulatory functions may have upon the environment of foreign nations.
+
+(b) The Commission recognizes a continuing obligation to conduct its domestic licensing and related regulatory functions in a manner which is both receptive to environmental concerns and consistent with the Commission's responsibility as an independent regulatory agency for protecting the radiological health and safety of the public. Accordingly, the Commission will:
+
+(1) Examine any future interpretation or change to the Council's NEPA regulations;
+
+(2) Follow the provisions of 40 CFR 1501.5 and 1501.6 relating to lead agencies and cooperating agencies, except that the Commission reserves the right to prepare an independent environmental impact statement whenever the NRC has regulatory jurisdiction over an acitivity even though the NRC has not been designated as lead agency for preparation of the statement; and
+
+(3) Reserve the right to make a final decision on any matter within the NRC's regulatory authority even though another agency has made a predecisional referral of an NRC action to the Council under the procedures of 40 CFR part 1504.
+
+(c) The regulations in this subpart1 also address the limitations imposed on NRC's authority and responsibility under the National Environmental Policy Act of 1969, as amended, by the Federal Water Pollution Control Act Amendments of 1972, Pub. L. 92-500, 86 Stat. 816 *et seq.* (33 U.S.C. 1251 *et seq.*) In accordance with section 511(c)(2) of the Federal Water Pollution Control Act (86 Stat. 893, 33 U.S.C 1371(c)(2)) the NRC recognizes that responsibility for Federal regulation of nonradiological pollutant discharges2 into receiving waters rests by statute with the Environmental Protection Agency.
+
+1 See also Second Memorandum of Understanding Regarding Implementation of Certain NRC and EPA Responsibilities and Policy Statement on Implementation of Section 511 of the Federal Water Pollution Control Act (FWPCA) attached as Appendix A thereto, which were published in the Federal Register on December 31, 1975 (40 FR 60115) and became effective January 30, 1976.
+
+2 On June 1, 1976, the U.S. Supreme Court held that “ ‘pollutants’ subject to regulation under the FWPCA [Federal Water Pollution Control Act] do not include source, byproduct, and special nuclear materials, . . .” *Train* v. *Colorado PIRG,* 426 U.S. 1 at 25.
+
+(d) Commission actions initiating or relating to administrative or judicial civil or criminal enforcement actions or proceedings are not subject to Section 102(2) of NEPA. These actions include issuance of notices of violation, orders, and denials of requests for action pursuant to subpart B of part 2 of this chapter; matters covered by part 15 and part 160 of this chapter; and issuance of confirmatory action letters, bulletins, generic letters, notices of deviation, and notices of nonconformance.
+
+[49 FR 9381, Mar. 12, 1984, as amended at 54 FR 43578, Oct. 26, 1989; 61 FR 43408, Aug. 22, 1996]

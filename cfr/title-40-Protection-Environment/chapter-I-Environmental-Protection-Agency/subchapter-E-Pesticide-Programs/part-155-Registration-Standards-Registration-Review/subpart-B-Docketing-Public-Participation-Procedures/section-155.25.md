@@ -1,0 +1,3 @@
+##### § 155.25 Schedule. #####
+
+EPA will issue annually in the Federal Register a notice listing the pesticides (or groups of pesticides) for which Registration Standards are currently being developed. The list will include pesticides for which a Registration Standard is scheduled for issuance within the next year, and the approximate sequence of issuance. The list may also include pesticides for which a Registration Standard will be under development during the upcoming year, but which are not scheduled for issuance until the succeeding year. The notice will invite comment and submission of information on the individual pesticides on the list.

@@ -1,0 +1,7 @@
+##### § 121.139 Requirements for manual aboard aircraft: Supplemental operations. #####
+
+(a) Except is provided in paragraph (b) of this section, each certificate holder conducting supplemental operations shall carry appropriate parts of the manual on each airplane when away from the principal base of operations. The appropriate parts must be available for use by ground or flight personnel. If the certificate holder carries aboard an airplane all or any portion of the maintenance part of its manual in other than printed form, it must carry a compatible reading device that produces a legible image of the maintenance information and instructions or a system that is able to retrieve the maintenance information and instructions in the English language.
+
+(b) If a certificate holder conducting supplemental operations is able to perform all scheduled maintenance at specified stations where it keeps maintenance parts of the manual, it does not have to carry those parts of the manual aboard the aircraft en route to those stations.
+
+[Doc. No. 6258, 29 FR 19196, Dec. 31, 1964, as amended by Amdt. 12-71, 35 FR 17176, Nov. 7, 1970; Amdt. 121-253, 61 FR 2611, Jan. 26, 1996; Amdt. 121-262, 62 FR 13256, Mar. 19, 1997; 62 FR 15570, Apr. 1, 1997]

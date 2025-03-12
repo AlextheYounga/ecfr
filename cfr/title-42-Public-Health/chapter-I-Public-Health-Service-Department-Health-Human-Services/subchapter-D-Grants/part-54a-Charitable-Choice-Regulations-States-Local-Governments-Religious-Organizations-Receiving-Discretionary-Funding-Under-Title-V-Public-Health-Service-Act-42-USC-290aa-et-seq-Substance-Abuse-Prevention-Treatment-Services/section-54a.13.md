@@ -1,0 +1,3 @@
+##### § 54a.13 Educational requirements for personnel in drug treatment programs. #####
+
+In determining whether personnel of a program participant that has a record of successful drug treatment for the preceding three years have satisfied State or local requirements for education and training, a State or local government shall not discriminate against education and training provided to such personnel by a religious organization, so long as such education and training is comparable to that provided by nonreligious organizations, or is comparable to education and training that the State or local government would otherwise credit for purposes of determining whether the relevant requirements have been satisfied.

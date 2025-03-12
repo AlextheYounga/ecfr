@@ -1,0 +1,3 @@
+##### 1303.405 Misrepresentations or violations of the covenant against contingent fees. #####
+
+If the contracting officer has specific evidence or other reasonable basis to believe that a violation of the Covenant Against Contingent Fees has occurred, the matter shall be referred to the HCO, who shall, in appropriate circumstances, take one or more of the actions described in FAR 3.405(b). The HCO shall also refer the matter to the DOC Office of the Inspector General as well as the Office of the Assistant General Counsel for Administration, Ethics Law and Program Division. The Office of the Assistant General Counsel for Administration, Ethics Law and Program Division shall refer the matter to the Department of Justice, as appropriate.

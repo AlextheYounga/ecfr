@@ -1,0 +1,3 @@
+##### § 160.10 Applicability to studies performed under grants and contracts. #####
+
+When a sponsor or other person utilizes the services of a consulting laboratory, contractor, or grantee to perform all or a part of a study to which this part applies, it shall notify the consulting laboratory, contractor, or grantee that the service is, or is part of, a study that must be conducted in compliance with the provisions of this part.

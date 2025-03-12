@@ -1,0 +1,5 @@
+##### § 52.2237 NOX RACT and NOX conformity exemption. #####
+
+*Approval.* EPA is approving the section 182(f) oxides of nitrogen (NOX) reasonably available control technology (RACT) and NOX conformity exemption request submitted by the Tennessee Department of Environment and Conservation on March 21, 1995, for the five county middle Tennessee (Nashville) ozone moderate nonattainment area. This approval exempts the area from implementing federal NOX RACT on major sources of NOX and exempts Tennessee from NOX conformity. This approval does not exempt sources from any State required or State Implementation Plan (SIP) approved NOX controls. If a violation of the ozone NAAQS occurs in the area, the exemption from the requirement of section 182(f) of the CAA in the applicable area shall not apply.
+
+[61 FR 54946, Oct. 23, 1996]

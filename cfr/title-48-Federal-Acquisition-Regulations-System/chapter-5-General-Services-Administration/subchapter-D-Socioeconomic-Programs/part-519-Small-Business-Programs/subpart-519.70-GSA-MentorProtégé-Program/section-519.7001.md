@@ -1,0 +1,3 @@
+##### 519.7001 Scope of subpart. #####
+
+The GSA Mentor-Protégé Program is designed to encourage and motivate GSA prime contractors to assist small businesses concerns, small disadvantaged businesses concerns, women-owned small businesses concerns, veteran-owned small business concerns, service-disabled veteran-owned small businesses concerns, and HUBZone small businesses concerns, and enhance their capability of performing successfully on GSA contracts and subcontracts, foster the establishment of long-term business relationships between these small business entities and GSA prime contractors, and increase the overall number of small business entities that receive GSA contract and subcontract awards.

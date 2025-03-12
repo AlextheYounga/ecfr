@@ -1,0 +1,3 @@
+##### § 1.1907 Return of property or collateral. #####
+
+Nothing contained in this regulation is intended to deter the Commission from exercising any other right under law or regulation or by agreement it may have or possess, or to exercise its authority and right as a regulator under the Communications Act of 1934, as amended, and the Commission's rules, and demanding the return of specific property or from demanding, as a non-exclusive alternative, either the return of property or the payment of its value or the amount due the United States under any agreement or Commission rule.

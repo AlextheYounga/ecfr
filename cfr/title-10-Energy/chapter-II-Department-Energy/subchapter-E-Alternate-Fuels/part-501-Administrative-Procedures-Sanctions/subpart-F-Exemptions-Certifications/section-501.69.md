@@ -1,0 +1,3 @@
+##### § 501.69 Judicial review. #####
+
+Any person aggrieved by any order issued by OFE under this subpart, must file, within sixty (60) days of publication of the final order in the Federal Register, a petition for judicial review in the United States Court of Appeals for the Circuit wherein he resides, or has his principal place of business. Exhaustion of administrative remedies for purposes of judicial review does not require filing a petition pursuant to subpart G for modification or rescission of the order to be reviewed.

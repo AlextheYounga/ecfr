@@ -1,0 +1,19 @@
+##### § 63.1624 What are the operational and work practice standards for new, reconstructed, and existing facilities? #####
+
+(a) *Process fugitive emissions sources.* (1) You must prepare, and at all times operate according to, a process fugitive emissions ventilation plan that documents the equipment and operations designed to effectively capture process fugitive emissions. The plan will be deemed to achieve effective capture if it consists of the following elements:
+
+(i) Documentation of engineered hoods and secondary fugitive capture systems designed according to the most recent, at the time of construction, ventilation design principles recommended by the American Conference of Governmental Industrial Hygienists (ACGIH). The process fugitive emissions capture systems must be designed to achieve sufficient air changes to evacuate the collection area frequently enough to ensure process fugitive emissions are effectively collected by the ventilation system and ducted to the control device(s). The required ventilation systems should also use properly positioned hooding to take advantage of the inherent air flows of the source and capture systems that minimize air flows while also intercepting natural air flows or creating air flows to contain the fugitive emissions. Include a schematic for each building indicating duct sizes and locations, hood sizes and locations, control device types, size and locations and exhaust locations. The design plan must identify the key operating parameters and measurement locations to ensure proper operation of the system and establish monitoring parameter values that reflect effective capture.
+
+(ii) List of critical maintenance actions and the schedule to conduct them.
+
+(2) You must submit a copy of the process fugitive emissions ventilation plan to the designated permitting authority on or before the applicable compliance date for the affected source as specified in § 63.1621 in electronic format and whenever an update is made to the plan. The requirement for you to operate the facility according to the written process fugitives ventilation plan and specifications must be incorporated in the operating permit for the facility that is issued by the designated permitting authority under part 70 or 71 of this chapter, as applicable.
+
+(3) You must update the information required in paragraphs (a)(1) and (2) of this section every 5 years or whenever there is a significant change in variables that affect process fugitives ventilation design such as the addition of a new process.
+
+(b) *Outdoor fugitive dust sources.* (1) You must prepare, and at all times operate according to, an outdoor fugitive dust control plan that describes in detail the measures that will be put in place to control outdoor fugitive dust emissions from the individual fugitive dust sources at the facility.
+
+(2) You must submit a copy of the outdoor fugitive dust control plan to the designated permitting authority on or before the applicable compliance date for the affected source as specified in § 63.1621. The requirement for you to operate the facility according to a written outdoor fugitive dust control plan must be incorporated in the operating permit for the facility that is issued by the designated permitting authority under part 70 or 71 of this chapter, as applicable.
+
+(3) You may use existing manuals that describe the measures in place to control outdoor fugitive dust sources required as part of a state implementation plan or other federally enforceable requirement for particulate matter to satisfy the requirements of paragraph (b)(1) of this section.
+
+[80 FR 37390, June 30, 2015]

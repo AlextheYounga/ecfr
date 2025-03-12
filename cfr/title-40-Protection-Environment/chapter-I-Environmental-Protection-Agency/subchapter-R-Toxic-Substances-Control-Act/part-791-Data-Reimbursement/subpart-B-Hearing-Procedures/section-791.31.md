@@ -1,0 +1,15 @@
+##### § 791.31 Expedited procedures. #####
+
+Unless the American Arbitration Association in its discretion determines otherwise, the Expedited Procedures described in this section shall be applied in any case where the total claim of any party does not exceed $5,000, exclusive of interest and hearing costs, and may be applied in other cases if the parties agree.
+
+(a) *Application of rules.* The expedited hearings will be conducted according to the same procedures as the regular ones, except for those specifically changed by the expedited rules in this section, § 791.31.
+
+(b) *Notice by telephone.* The parties shall accept all notices from the American Arbitration Association by telephone. Such notices by the American Arbitration Association shall subsequently be confirmed in writing to the parties. Notwithstanding the failure to confirm in writing any notice or objection hereunder, the proceeding shall nonetheless be valid if notice or obligation has, in fact, been given by telephone.
+
+(c) *Appointment and qualifications of hearing officers.* The American Arbitration Association shall submit simultaneously to each party to the dispute an identical list of five persons from which one hearing officer shall be appointed. Each party shall have the right to strike two names from the list on a peremptory basis. The list is returnable to the American Arbitration Association within 10 days from the date of mailing. If for any reasons the appointment cannot be made from the list, the American Arbitration Association shall have the authority to make the appointment without the submission of additional lists. Such appointment shall be subject to disqualification for the reasons specified in § 791.29(f). The parties shall be given notice by telephone by the American Arbitration Association of the appointment of the hearing officer. The parties shall notify the American Arbitration Association, by telephone, within 7 days of any objections to the hearing officer(s) appointed. Any objection by a party to such hearing officer shall be confirmed in writing to the American Arbitration Association with a copy to the other parties.
+
+(d) *Time and place of hearing.* The hearing officer shall fix the date, time and place of the hearing. The American Arbitration Association will notify the parties by telephone, 7 days in advance of the hearing date. Formal notice of hearing will be sent by the American Arbitration Association to the parties.
+
+(e) *The hearing.* Generally, the hearing shall be completed within 1 day. The hearing officer, for good cause shown, may schedule an additional hearing to be held within 5 days.
+
+(f) *Time of award.* Unless otherwise agreed to by the parties, the Award shall be rendered not later than 15 business days from the date of the closing of the hearing.

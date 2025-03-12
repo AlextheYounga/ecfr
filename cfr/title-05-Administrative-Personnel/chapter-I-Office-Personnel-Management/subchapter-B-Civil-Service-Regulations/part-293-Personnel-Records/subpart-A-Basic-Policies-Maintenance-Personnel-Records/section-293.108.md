@@ -1,0 +1,7 @@
+##### § 293.108 Rules of conduct. #####
+
+(a) *Scope.* These rules of conduct apply to all Office and agency employees responsible for creation, development, maintenance, processing, use, dissemination, and safeguarding of personnel records. The Office and agencies shall require that such employees are familiar with these and appropriate supplemental agency internal regulations.
+
+(b) *Standards of conduct.* Office and agency employees whose official duties involve personnel records shall be sensitive to individual rights to personal privacy and shall not disclose information from any personnel record unless disclosure is part of their official duties or required by executive order, regulation, or statute (e.g., required by the Freedom of Information Act, 5 U.S.C. 552).
+
+(c) *Improper uses of personnel information.* Any Office or agency employee who makes a disclosure of personnel records knowing that such disclosure is unauthorized, or otherwise knowingly violates these regulations, shall be subject to disciplinary action and may also be subject to criminal penalties where the records are subject to the Privacy Act (5 U.S.C. 552a). Employees are prohibited from using personnel information not available to the public, gained through official duties, for commercial solicitation or sale, or for personal gain.

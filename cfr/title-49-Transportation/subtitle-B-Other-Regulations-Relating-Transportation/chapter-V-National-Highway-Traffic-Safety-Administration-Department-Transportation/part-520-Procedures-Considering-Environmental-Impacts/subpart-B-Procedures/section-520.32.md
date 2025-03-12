@@ -1,0 +1,3 @@
+##### § 520.32 Emergency action procedures. #####
+
+The CEQ Guidelines allow modification of requirements in case of a national emergency, a disaster or similar great urgency. The processing times may be reduced, or if the emergency situation warrants, preparation and processing of a DEIS, FEIS, or negative declaration may be abbreviated. Such procedural changes, however, should be requested only for those projects where the need for immediate action requires processing in other than the normal manner.

@@ -1,0 +1,3 @@
+##### § 193.2913 Security monitoring. #####
+
+Each protective enclosure and the area around each facility listed in § 193.2905(a) must be monitored for the presence of unauthorized persons. Monitoring must be by visual observation in accordance with the schedule in the security procedures under § 193.2903(a) or by security warning systems that continuously transmit data to an attended location. At an LNG plant with less than 40,000 m3 (250,000 bbl) of storage capacity, only the protective enclosure must be monitored.

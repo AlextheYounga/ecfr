@@ -1,0 +1,5 @@
+##### § 161.319 Withdrawal or revision of restriction. #####
+
+(a) The applicant may withdraw or revise a proposed restriction at any time prior to FAA approval or disapproval, and must do so if substantial changes are made as described in § 161.309. The applicant shall notify the FAA in writing of a decision to withdraw the proposed restriction for any reason. The FAA will publish a notice in the Federal Register that it has terminated its review without prejudice to resubmission. A resubmission will be considered a new application.
+
+(b) A subsequent amendment to a Stage 3 restriction that was in effect after October 1, 1990, or an amendment to a Stage 3 restriction previously approved by the FAA, is subject to the procedures in this subpart if the amendment will further reduce or limit aircraft operations or affect aircraft safety. The applicant may, at its option, revise or amend a restriction previously disapproved by the FAA and resubmit it for approval. Amendments are subject to the same requirements and procedures as initial submissions.

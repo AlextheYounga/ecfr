@@ -1,0 +1,9 @@
+##### § 52.1019 Identification of plan—conditional approval. #####
+
+(a) 1997 PM2.5 NAAQS: The SIP submitted September 10, 2008, with a supplement submitted on June 1, 2011, was previously conditionally approved (see Final Rule published October 16, 2012; 77 FR 63228) for Clean Air Act (CAA) elements 110(a)(2)(A), (C) only as it relates to the PSD program, (D)(i)(II) only as it relates to the PSD program, (D)(ii), (E)(ii), and (J) only as it relates to the PSD program. This conditional approval is contingent upon Maine taking actions to meet requirements of these elements within one year of conditional approval, as committed to in letters from the state to EPA Region 1 dated June 13, 2012, and June 30, 2012. EPA approved a submittal, related to the Conflict of Interest requirements, and converted the conditional approval of elements 110(a)(2)(A) and E(ii) on May 13, 2021; and
+
+(b) 2006 PM2.5 NAAQS: The SIP submitted July 27, 2009, with a supplement submitted on June 1, 2011, was previously conditionally approved (see Final Rule published October 16, 2012; 77 FR 63228) for CAA elements 110(a)(2)(A), (C) only as it relates to the PSD program, (D)(i)(II) only as it relates to the PSD program, (D)(ii), (E)(ii), and (J) only as it relates to the PSD program. This conditional approval is contingent upon Maine taking actions to meet requirements of these elements within one year of conditional approval, as committed to in letters from the state to EPA Region 1 dated June 13, 2012, and June 30, 2012. EPA approved a submittal, related to the Conflict of Interest requirements, and converted the conditional approval of elements 110(a)(2)(A) and E(ii) on May 13, 2021.
+
+(c)-(g) [Reserved]
+
+[86 FR 26182, May 13, 2021]

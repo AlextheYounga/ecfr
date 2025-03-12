@@ -1,0 +1,11 @@
+##### § 280.100 Use of state-required mechanism. #####
+
+(a) For underground storage tanks located in a state that does not have an approved program, and where the state requires owners or operators of underground storage tanks to demonstrate financial responsibility for taking corrective action and/or for compensating third parties for bodily injury and property damage, an owner or operator may use a state-required financial mechanism to meet the requirements of § 280.93 if the Regional Administrator determines that the state mechanism is at least equivalent to the financial mechanisms specified in this subpart.
+
+(b) The Regional Administrator will evaluate the equivalency of a state-required mechanism principally in terms of: certainty of the availability of funds for taking corrective action and/or for compensating third parties; the amount of funds that will be made available; and the types of costs covered. The Regional Administrator may also consider other factors as is necessary.
+
+(c) The state, an owner or operator, or any other interested party may submit to the Regional Administrator a written petition requesting that one or more of the state-required mechanisms be considered acceptable for meeting the requirements of § 280.93. The submission must include copies of the appropriate state statutory and regulatory requirements and must show the amount of funds for corrective action and/or for compensating third parties assured by the mechanism(s). The Regional Administrator may require the petitioner to submit additional information as is deemed necessary to make this determination.
+
+(d) Any petition under this section may be submitted on behalf of all of the state's underground storage tank owners and operators.
+
+(e) The Regional Administrator will notify the petitioner of his determination regarding the mechanism's acceptability in lieu of financial mechanisms specified in this subpart. Pending this determination, the owners and operators using such mechanisms will be deemed to be in compliance with the requirements of § 280.93 for underground storage tanks located in the state for the amounts and types of costs covered by such mechanisms.

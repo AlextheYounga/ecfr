@@ -1,0 +1,3 @@
+##### § 1208.50 Authority and scope. #####
+
+The provisions of 26 U.S.C. 6402(d) and 31 U.S.C. 3720A authorize the Secretary of the Treasury to offset a delinquent debt owed the Federal Government from the tax refund due a taxpayer when other collection efforts have failed to recover the amount due. In addition, FHFA is authorized to collect debts by means of administrative offset under 31 U.S.C. 3716 and, as part of the debt collection process, to notify the United States Department of Treasury's Financial Management Service of the amount of such debt for collection by tax refund offset.

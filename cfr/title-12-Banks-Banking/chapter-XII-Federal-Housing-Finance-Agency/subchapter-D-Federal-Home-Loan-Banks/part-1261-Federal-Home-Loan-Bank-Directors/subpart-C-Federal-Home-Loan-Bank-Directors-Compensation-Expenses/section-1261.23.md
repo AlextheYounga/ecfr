@@ -1,0 +1,3 @@
+##### § 1261.23 Director disapproval. #####
+
+The Director may determine, based upon his or her review of a Bank's director compensation policy, methodology and/or other related materials, that the compensation and/or expenses to be paid to the directors are not reasonable. In such case, the Director may order the Bank to refrain from making any further payments under that compensation policy. Any such order shall apply prospectively only and will not affect either compensation or expenses that have been earned but not yet paid or reimbursed or payments that had been made prior to the date of the Director's determination and order.

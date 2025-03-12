@@ -1,0 +1,9 @@
+##### § 60.250 Applicability and designation of affected facility. #####
+
+(a) The provisions of this subpart apply to affected facilities in coal preparation and processing plants that process more than 181 megagrams (Mg) (200 tons) of coal per day.
+
+(b) The provisions in §§ 60.251, 60.252(a), 60.253(a), 60.254(a), 60.255(a), and 60.256(a) of this subpart are applicable to any of the following affected facilities that commenced construction, reconstruction or modification after October 27, 1974, and on or before April 28, 2008: Thermal dryers, pneumatic coal-cleaning equipment (air tables), coal processing and conveying equipment (including breakers and crushers), and coal storage systems, transfer and loading systems.
+
+(c) The provisions in §§ 60.251, 60.252(b)(1) and (c), 60.253(b), 60.254(b), 60.255(b) through (h), 60.256(b) and (c), 60.257, and 60.258 of this subpart are applicable to any of the following affected facilities that commenced construction, reconstruction or modification after April 28, 2008, and on or before May 27, 2009: Thermal dryers, pneumatic coal-cleaning equipment (air tables), coal processing and conveying equipment (including breakers and crushers), and coal storage systems, transfer and loading systems.
+
+(d) The provisions in §§ 60.251, 60.252(b)(1) through (3), and (c), 60.253(b), 60.254(b) and (c), 60.255(b) through (h), 60.256(b) and (c), 60.257, and 60.258 of this subpart are applicable to any of the following affected facilities that commenced construction, reconstruction or modification after May 27, 2009: Thermal dryers, pneumatic coal-cleaning equipment (air tables), coal processing and conveying equipment (including breakers and crushers), coal storage systems, transfer and loading systems, and open storage piles.

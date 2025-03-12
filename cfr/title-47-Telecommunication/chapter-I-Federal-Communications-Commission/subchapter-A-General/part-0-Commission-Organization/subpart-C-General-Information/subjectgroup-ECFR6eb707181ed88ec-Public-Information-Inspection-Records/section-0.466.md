@@ -1,0 +1,23 @@
+##### § 0.466 Definitions. #####
+
+(a) For the purpose of §§ 0.467 and 0.468, the following definitions shall apply:
+
+(1) The term *direct costs* means those expenditures which the Commission actually incurs in searching for and duplicating (and in case of commercial requesters, reviewing) documents to respond to a FOIA request. Direct costs include the salary of the employee performing the work (the basic rate of pay for the employee plus twenty percent of that rate to cover benefits), and the cost of operating duplicating machinery. Not included in direct costs are overhead expenses, such as costs of space, and heating or lighting the facility in which the records are stored.
+
+(2) The term *search* includes all time spent looking for material that is responsive to a request, including page-by-page or line-by-line identification of material contained within documents. Such activity should be distinguished, however, from “review” of material in order to determine whether the material is exempt from disclosure (*see* paragraph (a)(3) of this section).
+
+(3) The term *review* refers to the process of examining documents located in response to a commercial use request (see paragraph (a)(4) of this section) to determine whether any portion of a document located is exempt from disclosure. It also includes processing any documents for disclosure, e.g., performing such functions that are necessary to excise them or otherwise prepare them for release. Review does not include time spent resolving general legal or policy issues regarding the application of FOIA exemptions.
+
+(4) The term *commercial use* request refers to a request from or on behalf of one who seeks information for a use or purpose that furthers the commercial interests of the requester. In determining whether a requester properly falls within this category, the Commission shall determine the use to which a requester will put the documents requested. Where the Commission has reasonable cause to question the use to which a requester will put the documents sought, or where that use is not clear from the request itself, the Commission shall seek additional clarification before assigning the request to a specific category. The dissemination of records by a representative of the news media (*see* § 0.466(a)(7)) shall not be considered to be for a commercial use.
+
+(5) The term *educational institution* refers to a preschool, a public or private elementary or secondary school, an institution of graduate higher education, an institution of professional education and an institution of vocational education, which operates a program or programs of scholarly research.
+
+(6) The term *non-commercial scientific institution* refers to an institution that is not operated on a commercial basis as that term is referenced in paragraph (a)(4) of this section, and which is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry.
+
+(7) The term *representative of the news media* refers to any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term *news* means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of news) who make their products available for purchase or subscription by, or free distribution to, the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Commission may also consider the past publication record of the requester in making such a determination. See 5 U.S.C. 552(a)(4)(A)(ii).
+
+(8) The term *all other requester* refers to any person not within the definitions in paragraphs (a)(4) through (a)(7) of this paragraph.
+
+(b) [Reserved]
+
+[74 FR 14078, Mar. 30, 2009, as amended at 76 FR 24389, May 2, 2011]

@@ -1,0 +1,21 @@
+##### § 96.84 Opt-in process. #####
+
+The permitting authority will issue or deny a NOX Budget opt-in permit for a unit for which an initial application for a NOX Budget opt-in permit under § 96.83 is submitted, in accordance with § 96.20 and the following:
+
+(a) *Interim review of monitoring plan.* The permitting authority will determine, on an interim basis, the sufficiency of the monitoring plan accompanying the initial application for a NOX Budget opt-in permit under § 96.83. A monitoring plan is sufficient, for purposes of interim review, if the plan appears to contain information demonstrating that the NOX emissions rate and heat input of the unit are monitored and reported in accordance with subpart H of this part. A determination of sufficiency shall not be construed as acceptance or approval of the unit's monitoring plan.
+
+(b) If the permitting authority determines that the unit's monitoring plan is sufficient under paragraph (a) of this section and after completion of monitoring system certification under subpart H of this part, the NOX emissions rate and the heat input of the unit shall be monitored and reported in accordance with subpart H of this part for one full control period during which monitoring system availability is not less than 90 percent and during which the unit is in full compliance with any applicable State or Federal emissions or emissions-related requirements. Solely for purposes of applying the requirements in the prior sentence, the unit shall be treated as a “NOX Budget unit” prior to issuance of a NOX Budget opt-in permit covering the unit.
+
+(c) Based on the information monitored and reported under paragraph (b) of this section, the unit's baseline heat rate shall be calculated as the unit's total heat input (in mmBtu) for the control period and the unit's baseline NOX emissions rate shall be calculated as the unit's total NOX emissions (in lb) for the control period divided by the unit's baseline heat rate.
+
+(d) After calculating the baseline heat input and the baseline NOX emissions rate for the unit under paragraph (c) of this section, the permitting authority will serve a draft NOX Budget opt-in permit on the NOX authorized account representative of the unit.
+
+(e) *Confirmation of intention to opt-in.* Within 20 days after the issuance of the draft NOX Budget opt-in permit, the NOX authorized account representative of the unit must submit to the permitting authority a confirmation of the intention to opt in the unit or a withdrawal of the application for a NOX Budget opt-in permit under § 96.83. The permitting authority will treat the failure to make a timely submission as a withdrawal of the NOX Budget opt-in permit application.
+
+(f) *Issuance of draft NO*X*Budget opt-in permit.* If the NOX authorized account representative confirms the intention to opt-in the unit under paragraph (e) of this section, the permitting authority will issue the draft NOX Budget opt-in permit in accordance with § 96.20.
+
+(g) Notwithstanding paragraphs (a) through (f) of this section, if at any time before issuance of a draft NOX Budget opt-in permit for the unit, the permitting authority determines that the unit does not qualify as a NOX Budget opt-in source under § 96.80, the permitting authority will issue a draft denial of a NOX Budget opt-in permit for the unit in accordance with § 96.20.
+
+(h) *Withdrawal of application for NO*X*Budget opt-in permit.* A NOX authorized account representative of a unit may withdraw its application for a NOX Budget opt-in permit under § 96.83 at any time prior to the issuance of the final NOX Budget opt-in permit. Once the application for a NOX Budget opt-in permit is withdrawn, a NOX authorized account representative wanting to reapply must submit a new application for a NOX Budget permit under § 96.83.
+
+(i) *Effective date.* The effective date of the initial NOX Budget opt-in permit shall be May 1 of the first control period starting after the issuance of the initial NOX Budget opt-in permit by the permitting authority. The unit shall be a NOX Budget opt-in source and a NOX Budget unit as of the effective date of the initial NOX Budget opt-in permit.

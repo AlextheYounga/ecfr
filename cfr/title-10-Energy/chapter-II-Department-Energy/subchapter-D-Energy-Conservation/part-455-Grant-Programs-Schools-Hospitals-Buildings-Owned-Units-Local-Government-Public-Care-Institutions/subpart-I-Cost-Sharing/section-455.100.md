@@ -1,0 +1,3 @@
+##### § 455.100 Limits to Federal share. #####
+
+Amounts made available under this part, together with any other amounts made available from other Federal sources, may not be used to pay more than 50 percent of the costs of technical assistance programs and energy conservation measures unless the grantee qualifies for the exceptions specified in §§ 455.141(a), 455.142(a), 455.142(b), or for severe hardship assistance specified in § 455.142(c). In cases of severe hardship, the Federal share of the cost cannot exceed 90 percent.

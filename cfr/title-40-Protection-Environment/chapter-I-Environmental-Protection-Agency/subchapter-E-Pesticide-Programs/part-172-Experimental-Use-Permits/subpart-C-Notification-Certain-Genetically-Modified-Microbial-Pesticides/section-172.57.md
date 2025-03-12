@@ -1,0 +1,3 @@
+##### § 172.57 Submission of information regarding potential unreasonable adverse effects. #####
+
+Any person using a microbial pesticide in small-scale testing covered by this subpart who obtains information regarding potential unreasonable adverse effects on health or the environment must within 30 days of receipt of such information submit the information to EPA, unless the person has actual knowledge that EPA has been adequately informed of such information. The requirement to submit information applies both to those microbial pesticides subject to the notification requirements under § 172.45(c) and those that are exempt under § 172.45(d).

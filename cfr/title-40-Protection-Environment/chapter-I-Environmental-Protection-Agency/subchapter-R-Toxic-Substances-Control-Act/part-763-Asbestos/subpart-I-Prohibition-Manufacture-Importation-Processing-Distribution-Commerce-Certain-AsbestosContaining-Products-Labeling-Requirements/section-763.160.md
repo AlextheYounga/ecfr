@@ -1,0 +1,3 @@
+##### § 763.160 Scope. #####
+
+This subpart prohibits the manufacture, importation, processing, and distribution in commerce of the asbestos-containing products identified and at the dates indicated in §§ 763.165, 763.167, and 763.169. This subpart requires that products subject to this rule's bans, but not yet subject to a ban on distribution in commerce, be labeled. This subpart also includes general exemptions and procedures for requesting exemptions from the provisions of this subpart.

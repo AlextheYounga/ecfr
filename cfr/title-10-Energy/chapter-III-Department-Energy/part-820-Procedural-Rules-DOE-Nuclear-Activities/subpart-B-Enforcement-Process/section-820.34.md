@@ -1,0 +1,7 @@
+##### § 820.34 Accelerated decision. #####
+
+(a) *General.* The Presiding Officer, upon motion of any party or *sua sponte,* may at any time render an Accelerated Decision in favor of the Director or the respondent as to all or any part of the adjudication, without further hearing or upon such limited additional evidence, such as affidavits, as he may require, if no genuine issue of material fact exists and a party is entitled to judgment as a matter of law, as to all or any part of the adjudication. In addition, the Presiding Officer, upon motion of the respondent, may render at any time an Accelerated Decision to dismiss an action without further hearing or upon such limited additional evidence as he requires, on the basis of failure to establish a *prima facie* case or other grounds that show no right to relief on the part of the Director.
+
+(b) *Effect of Accelerated Decision.* (1) If an Accelerated Decision is rendered as to all the issues and claims in the adjudication, the decision constitutes an Initial Decision of the Presiding Officer, and shall be filed with the Docketing Clerk.
+
+(2) If an Accelerated Decision is rendered on less than all issues or claims in the adjudication, the Presiding Officer shall determine what material facts exist without substantial controversy and what material facts remain controverted in good faith. He shall thereupon file an interlocutory order specifying the facts that appear substantially uncontroverted, and the issues and claims upon which the adjudication will proceed.

@@ -1,0 +1,27 @@
+##### § 903.700 Arizona Federal program. #####
+
+(a) This part establishes a Federal program under the Surface Mining Control and Reclamation Act of 1977 (SMCRA) and applies to all coal exploration and surface coal mining and reclamation operations in Arizona conducted on non-Federal and non-Indian lands. To the extent required by 30 CFR part 740, this part also applies to surface coal mining and reclamation operations on Federal lands in Arizona.
+
+(b) Some rules in this part cross-reference pertinent parts of the permanent program rules in this chapter. The full text of a cross-referenced rule is in the permanent program rule cited under the relevant section of the Arizona Federal program.
+
+(c) The following provisions of Arizona law generally provide for more stringent environmental control and regulation of some aspects of surface coal mining and reclamation operations than do the provisions of the Surface Mining Control and Reclamation Act of 1977, and the regulations in this chapter. Therefore, pursuant to section 505(b) of the Act, OSM will not generally construe such laws to be inconsistent with the Act, unless in a particular instance OSM determines that the rules in this chapter establish more stringent environmental or land use controls:
+
+(1) The Arizona Department of Agriculture has authority to abate public nuisances, including noxious weeds and noxious weed seeds, under A.R.S. section 3-231 to 3-242. Violation of this statute is a misdemeanor.
+
+(2) It is unlawful to injure any bird or harass any bird upon its nest or remove the nests or eggs of any bird without prior authorization of the Arizona Game and Fish Commission. A.R.S. section 17-236.
+
+(3) A bridge, dam, dike or causeway may not be constructed over or in a navigable river or other navigable water without the authorization of the Governor. A.R.S. Section 18-301.
+
+(4) The Department of Mineral Resources has jurisdiction over the mining of minerals, and oil and gas under Title 27 of the Arizona Revised Statutes. One of the functions of that Department is the prevention and elimination of hazardous dust conditions. A.R.S. Section 27-128. Violation of orders of State mine inspectors respecting dust prevention and control is a misdemeanor.
+
+(5) Roads leading into waste dump areas and tailing areas from inhabited or public areas are required to be blocked off and warning signs posted on the perimeter of such areas. A.R.S. Section 27-317.
+
+(6) The primary responsibility for the control and abatement of air pollution rests with the Arizona Department of Environmental Quality and its Hearing Board. The Department is responsible for the establishment and enforcement of air pollution emission standards and ambient air quality standards as a part of a comprehensive air quality plan for Arizona. A.R.S. Title 49.
+
+(7) The Arizona Department of Water Resources has jurisdiction over State water, including “surface waters.” “Surface waters” means “the waters of all sources, flowing in streams, canyons, ravines or other natural channels, or in definite underground channels, whether perennial or intermittent, flood, waste or surplus water, and of lakes, ponds and springs on the surface. For the purposes of administering this title, surface water is deemed to include Central Arizona Project Water.” A.R.S. Section 45-101. It is a misdemeanor to knowingly use the water of another, or divert water from a stream, waste water or obstruct water flowing into a water work. A.R.S. Section 45-112. Possession of water lawfully denied to the possessor is prima facie evidence of one's guilt. A.R.S. Section 45-112. If water is to be used for mining purposes the water rights may be severed from the land rights and transferred separately. The separation and transference of water rights is subject to numerous limitations, under A.R.S. Section 45-172.
+
+(8) Dams are defined as “any artificial barrier, including appurtenant works for the impounding or diversion of water except those barriers for the purpose of controlling liquid borne material, twenty-five feet or more in height or the storage capacity of which will be more than fifty acre feet, but does not include any such barrier which is or will be less than six feet in height, regardless of storage capacity, or which has or will have a storage capacity not in excess of fifteen acre feet, regardless of height.” A.R.S. Section 45-701. The construction, operation, repair or alteration of any dam without the prior approval of the Director of Water Resources is a misdemeanor. A.R.S. Section 45-702 to Section 45-716.
+
+(d) Any Arizona law or regulation which may be found to interfere with the purposes and achievements of the Act, shall be preempted and superseded to the extent that the State law or regulation is inconsistent with, or precludes implementation of, requirements of the Act or this chapter under the Federal program for Arizona. The Director shall publish a notice to that effect in the Federal Register following the procedures set forth in § 730.11(a) of this chapter.
+
+(e) The information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3501 in its approval of the information collection requirements contained in the permanent regulatory program.

@@ -1,0 +1,3 @@
+##### § 7.30 Effect of cancellation or expiration of international registration. #####
+
+When the International Bureau notifies the Office of the cancellation or expiration of an international registration, in whole or in part, the Office shall cancel, in whole or in part, the corresponding pending or registered extension of protection to the United States. The date of cancellation of an extension of protection or relevant part shall be the date of cancellation or expiration of the corresponding international registration or relevant part.

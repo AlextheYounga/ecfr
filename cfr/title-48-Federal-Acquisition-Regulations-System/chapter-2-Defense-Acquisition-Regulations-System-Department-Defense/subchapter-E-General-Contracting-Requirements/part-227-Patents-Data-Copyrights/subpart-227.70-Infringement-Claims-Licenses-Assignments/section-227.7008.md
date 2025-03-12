@@ -1,0 +1,3 @@
+##### 227.7008 Settlement of indemnified claims. #####
+
+Settlement of claims involving payment for past infringement shall not be made without the consent of, and equitable contribution by, each indemnifying contractor involved, unless such settlement is determined to be in the best interests of the Government and is coordinated with the Department of Justice with a view to preserving any rights of the Government against the contractors involved. If consent of and equitable contribution by the contractors are obtained, the settlement need not be coordinated with the Department of Justice.

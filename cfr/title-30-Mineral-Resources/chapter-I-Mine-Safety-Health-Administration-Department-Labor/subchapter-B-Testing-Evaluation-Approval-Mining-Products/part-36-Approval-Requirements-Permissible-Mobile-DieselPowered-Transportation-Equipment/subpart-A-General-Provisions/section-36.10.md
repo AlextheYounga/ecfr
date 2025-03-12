@@ -1,0 +1,7 @@
+##### § 36.10 Certificate of approval. #####
+
+(a) Upon completion of investigation of a complete assembly of mobile diesel-powered transportation equipment, MSHA will issue to the applicant either a certificate of approval or a written notice of disapproval, as the case may require. No informal notification of approval will be issued. If a certificate of approval is issued, no test data or detailed results of tests will accompany it. If a notice of disapproval is issued, it will be accompanied by details of the defects, with a view to possible correction. MSHA will not disclose, except to the applicant, any information on mobile diesel-powered transportation equipment upon which a notice of disapproval has been issued.
+
+(b) A certificate of approval will be accompanied by a list of drawings, specifications, and related material covering the details of design and construction of equipment upon which the certificate of approval is based. Applicants shall keep exact duplicates of the drawings, specifications, and descriptions that relate to equipment which has received a certificate of approval, and these are to be adhered to exactly in production of the certified equipment.
+
+(c) A certificate of approval will be accompanied by an appropriate caution statement specifying the conditions to be observed for operating and maintaining the equipment and to preserve its permissible status.

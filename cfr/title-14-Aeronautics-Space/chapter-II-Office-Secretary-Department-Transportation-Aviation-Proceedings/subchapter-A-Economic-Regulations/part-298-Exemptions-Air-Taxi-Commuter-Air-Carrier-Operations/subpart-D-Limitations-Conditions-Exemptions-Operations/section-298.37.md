@@ -1,0 +1,3 @@
+##### § 298.37 Prohibition of services not covered by insurance. #####
+
+An air taxi operator or commuter air carrier shall not operate in air transportation or provide or offer to provide air transportation unless there is in effect liability insurance which covers such transportation and which is evidenced by a current certificate of insurance on file with the Department as required by part 205 of this chapter.

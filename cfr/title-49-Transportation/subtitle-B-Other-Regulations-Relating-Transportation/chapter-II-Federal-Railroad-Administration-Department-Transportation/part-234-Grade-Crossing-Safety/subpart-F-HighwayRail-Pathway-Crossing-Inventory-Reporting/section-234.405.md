@@ -1,0 +1,21 @@
+##### § 234.405 Submission of initial data to the Crossing Inventory for previously unreported crossings. #####
+
+(a) *Duty of primary operating railroad.* (1)(i) With the exception of highway-rail and pathway crossings located in a railroad yard, passenger station, or within a private company, port, or dock area, each primary operating railroad shall assign an Inventory Number to each previously unreported highway-rail and pathway crossing through which it operates.
+
+(ii) A primary operating railroad shall assign one or more Inventory Numbers to previously unreported highway-rail and pathway crossings through which it operates, which are located in a railroad yard, passenger station, or within a private company, port, or dock area.
+
+(2) With the exception of highway-rail and pathway crossings that are located within a private company, port, or dock area, the primary operating railroad shall provide the assigned Inventory Number to each operating railroad that operates one or more trains through the previously unreported highway-rail or pathway crossing no later than January 6, 2016.
+
+(3) Each primary operating railroad shall submit accurate Inventory Forms, or their electronic equivalent, to the Crossing Inventory for the previously unreported highway-rail and pathway crossings through which it operates, no later than August 9, 2016. The Inventory Form, or its electronic equivalent, shall reference the assigned Inventory Number for the crossing(s) and shall be completed and submitted consistent with § 234.403 and the Inventory Guide.
+
+(b) *Duty of operating railroad when operating railroads operate on separate tracks.* For each previously unreported highway-rail and pathway crossing where operating railroads operate trains on separate tracks through the crossing, each operating railroad (other than the primary operating railroad) shall submit accurate crossing data specified in the Inventory Guide to the Crossing Inventory no later than August 9, 2016. The Inventory Form, or its electronic equivalent, which contains this crossing data shall reference the Inventory Number assigned to the crossing by the primary operating railroad and shall be completed and submitted in accordance with § 234.403.
+
+(c) *Duty of all operating railroads.* Unless a written certification statement has been provided by the primary operating railroad in accordance with paragraph (d) of this section, each operating railroad, other than the primary operating railroad, that operates through a previously unreported highway-rail or pathway crossing (except a temporary crossing) for which a completed Inventory Form, or its electronic equivalent, has not been submitted to the Crossing Inventory in accordance with paragraph (a) of this section shall notify the FRA Associate Administrator in writing of this oversight. Written notification provided by the operating railroad shall include, at a minimum, the latitudinal and longitudinal coordinates for each previously unreported highway-rail or pathway crossing for which a completed Inventory Form, or its electronic equivalent, has not been submitted to the Crossing Inventory in accordance with paragraph (a) of this section.
+
+(d) *State-maintained crossing data.* If a primary operating railroad requests State-maintained crossing data from the appropriate State agency responsible for maintaining highway-rail and pathway crossing data, the primary operating railroad may send a copy of its written request for State-maintained crossing data to the FRA Associate Administrator and to each operating railroad that operates through the crossing. FRA will consider the written request to be an affirmative defense to potential liability for failure to timely submit an accurate Inventory Form, or its electronic equivalent, as required by paragraph (a)(3) of this section if the primary operating railroad:
+
+(1) Provides a copy of its written request for State-maintained crossing data to the FRA Associate Administrator and to each operating railroad that operates through the crossing; and
+
+(2) Submits the requested State-maintained crossing data to the Crossing Inventory within 60 days of receipt.
+
+[80 FR 786, Jan. 6, 2015, as amended at 81 FR 37532, June 10, 2015]

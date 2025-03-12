@@ -1,0 +1,3 @@
+##### § 1045.1 Purpose and scope. #####
+
+This subpart establishes responsibilities associated with this part, describes the Openness Advisory Panel, defines key terms, describes sanctions related to violation of the policies and procedures in this part, and describes how to submit suggestions or complaints concerning the Restricted Data classification and declassification program, and how to request procedural exceptions.

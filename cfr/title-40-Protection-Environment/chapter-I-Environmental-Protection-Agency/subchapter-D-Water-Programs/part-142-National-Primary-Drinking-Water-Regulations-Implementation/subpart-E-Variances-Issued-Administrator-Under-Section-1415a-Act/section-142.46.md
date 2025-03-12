@@ -1,0 +1,3 @@
+##### § 142.46 Alternative treatment techniques. #####
+
+The Administrator may grant a variance from any treatment technique requirement of a national primary drinking water regulation to a supplier of water, whether or not the public water system for which the variance is requested is located in a State which has primary enforcement responsibility, upon a showing from any person that an alternative treatment technique not included in such requirement is at least as efficient in lowering the level of the contaminant with respect to which such requirements was prescribed. A variance under this paragraph shall be conditioned on the use of the alternative treatment technique which is the basis of the variance.

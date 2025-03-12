@@ -1,0 +1,3 @@
+##### § 1.219 Early publication. #####
+
+Applications that will be published under § 1.211 may be published earlier than as set forth in § 1.211(a) at the request of the applicant. Any request for early publication must be accompanied by the publication fee set forth in § 1.18(d). If the applicant does not submit a copy of the application in compliance with the Office electronic filing system requirements pursuant to § 1.215(c), the Office will publish the application as provided in § 1.215(a). No consideration will be given to requests for publication on a certain date, and such requests will be treated as a request for publication as soon as possible.

@@ -1,0 +1,3 @@
+##### § 137.362 May construction project agreements be amended? #####
+
+Yes, the Self-Governance Tribe, at its discretion, may request the Secretary to amend a construction project agreement to include additional projects. In addition, amendments are required if there is a significant change from the original scope of work or if funds are added by the Secretary. The Self-Governance Tribe may make immaterial changes to the performance period and make budget adjustments within available funding without an amendment to the construction project agreement.

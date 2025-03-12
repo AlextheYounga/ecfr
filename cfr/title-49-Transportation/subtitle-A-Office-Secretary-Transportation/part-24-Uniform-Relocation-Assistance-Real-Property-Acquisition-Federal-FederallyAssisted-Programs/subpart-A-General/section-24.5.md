@@ -1,0 +1,3 @@
+##### § 24.5 Manner of notices. #####
+
+Each notice which the Agency is required to provide to a property owner or occupant under this part, except the notice described at § 24.102(b), shall be personally served or sent by certified or registered first-class mail, return receipt requested, and documented in Agency files. Each notice shall be written in plain, understandable language. Persons who are unable to read and understand the notice must be provided with appropriate translation and counseling. Each notice shall indicate the name and telephone number of a person who may be contacted for answers to questions or other needed help.

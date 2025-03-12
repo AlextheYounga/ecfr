@@ -1,0 +1,3 @@
+##### § 2640.205 Employee responsibility. #####
+
+Prior to taking official action in a matter which an employee knows would affect his financial interest or the interest of another person specified in 18 U.S.C. 208(a), an employee must determine whether one of the exemptions in §§ 2640.201, 2640.202, or 2640.203 would permit his action notwithstanding the existence of the disqualifying interest. An employee who is unsure whether an exemption is applicable in a particular case, should consult an agency ethics official prior to taking action in a particular matter.

@@ -1,0 +1,5 @@
+##### § 552.6 Freedom of Information Act requirements. #####
+
+(a) The Director shall make data and information available in accordance with the requirements and subject to the limitations of the Freedom of Information Act (5 U.S.C. 552), the regulations contained in 43 CFR part 2 (Records and Testimony), the requirements of the Act, and the regulations contained in 30 CFR parts 250 and 550 (Oil and Gas and Sulphur Operations in the Outer Continental Shelf) and 30 CFR part 551 (Geological and Geophysical Explorations of the Outer Continental Shelf).
+
+(b) Except as provided in § 552.7 or in 30 CFR parts 250, 251, 550, and 551 of this chapter, no data or information determined by the director to be exempt from public disclosure under paragraph (a) of this section shall be provided to any affected State or be made available to the executive of any affected local government or to the public unless the lessee, or the permittee and all persons to whom such permittee has sold such data or information under promise of confidentiality, agree to such action.

@@ -1,0 +1,11 @@
+##### § 831.1207 Withdrawal of disability retirement applications. #####
+
+(a) OPM will honor, without question, an applicant's request to withdraw an employee-filed disability retirement application if it receives the withdrawal request before the employing agency has separated the current employee, or, if the employee has already separated from the service, the withdrawal request is received before the official notice of approval has been issued by OPM. Similarly, OPM will honor, without question, an agency's request to withdraw an agency-filed disability retirement application if it receives the withdrawal request before the employee has separated from the service. Once the request to withdraw the application is accepted, an applicant must reapply to receive any further consideration.
+
+(b) Withdrawal of a disability retirement application does not ensure the individual's continued employment. It is the employing agency's responsibility to determine whether it is appropriate to continue to employ the individual.
+
+(c) OPM considers voluntary acceptance of a permanent position in which the employee has civil service retirement coverage, including a position at a lower grade or pay level, to be a withdrawal of the employee's disability retirement application. The employing agency must notify OPM immediately when an applicant for disability retirement accepts a position of this type.
+
+(d) OPM also considers a disability retirement application to be withdrawn when the agency reports to OPM that it has reassigned an applicant or an employee has refused a reassignment to a vacant position, or the agency reports to OPM that it has successfully accommodated the medical condition in the employee's current position. Placement consideration is limited only by agency authority and can occur after OPM's allowance of the application up to the date of separation for disability retirement. The employing agency must notify OPM immediately if any of these events occur.
+
+(e) After OPM allows a disability retirement application and the employee is separated, the application cannot be withdrawn. However, an individual entitled to a disability annuity may decline to accept all or any part of the annuity under the waiver provisions of 5 U.S.C. 8345(d) or request to be found medically recovered under § 831.1208(e) of this part.

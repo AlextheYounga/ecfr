@@ -1,0 +1,3 @@
+##### § 23.6 Timing of Administrator's action under Federal Insecticide, Fungicide and Rodenticide Act. #####
+
+Unless the Administrator otherwise explicitly provides in a particular order, the time and date of entry of an order issued by the Administrator following a public hearing for purposes of section 16(b) shall be at 1:00 p.m. eastern time (standard or daylight, as appropriate) on the date that is two weeks after it is signed.

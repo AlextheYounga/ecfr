@@ -1,0 +1,3 @@
+##### § 1.806 Term of deposit. #####
+
+A deposit made before or during pendency of an application for patent shall be made for a term of at least thirty (30) years and at least five (5) years after the most recent request for the furnishing of a sample of the deposit was received by the depository. In any case, samples must be stored under agreements that would make them available beyond the enforceable life of the patent for which the deposit was made.

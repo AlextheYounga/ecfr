@@ -1,0 +1,3 @@
+##### § 137.135 May the Secretary request and obtain an extension of time of the 45 day review period? #####
+
+Yes, the Secretary may request an extension of time before the expiration of the 45 day review period. The Indian Tribe may either grant or deny the Secretary's request for an extension. To be effective, any grant of extension of time must be in writing and be signed by the person authorized by the Indian Tribe to grant the extension before the expiration of the 45 day review period.

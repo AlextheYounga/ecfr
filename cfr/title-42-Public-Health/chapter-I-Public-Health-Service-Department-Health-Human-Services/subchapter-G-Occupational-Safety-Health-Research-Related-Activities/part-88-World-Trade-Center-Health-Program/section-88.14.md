@@ -1,0 +1,3 @@
+##### § 88.14 Standard for determining medical necessity. #####
+
+All treatment provided under the WTC Health Program will adhere to a standard which is reasonable and appropriate; based on scientific evidence, professional standards of care, expert opinion or any other relevant information; and which has been included in the medical treatment protocols developed by the Data Centers and approved by the WTC Program Administrator.

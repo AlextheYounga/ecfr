@@ -1,0 +1,9 @@
+##### § 214.533 Schedule of repairs subject to availability of parts. #####
+
+(a) The employer shall order a part necessary to repair a non-complying condition on an on-track roadway maintenance machine or a hi-rail vehicle by the end of the next business day following the report of the defect.
+
+(b) When the employer cannot repair a non-complying condition as required by § 214.531 because of the temporary unavailability of a necessary part, the employer shall repair the on-track roadway maintenance machine or hi-rail vehicle within seven calendar days after receiving the necessary part. The employer may continue to use the on-track roadway maintenance machine or hi-rail vehicle with a non-complying condition until receiving the necessary part(s) for repair, subject to the requirements of § 214.503. However, if a non-complying condition is not repaired within 30 days following the report of the defect, the employer shall remove the on-track roadway maintenance machine or hi-rail vehicle from on-track service until it is brought into compliance with this subpart.
+
+(c) If the employer fails to order a part necessary to repair the reported non-complying condition, or if it fails to install an available part within the required seven calendar days, the on-track roadway maintenance machine or hi-rail vehicle shall be removed from on-track service until brought into compliance with this subpart.
+
+(d) Each employer shall maintain records pertaining to compliance with this section. Records may be kept on forms provided by the employer or by electronic means. The employer shall retain each record for at least one year, and the records shall be made available for inspection and copying during normal business hours by representatives of FRA and States participating under part 212 of this chapter. The records may be kept on the on-track roadway maintenance machine or hi-rail vehicle or at a location designated by the employer.

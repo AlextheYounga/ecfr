@@ -1,0 +1,3 @@
+##### § 37.173 Training requirements. #####
+
+Each public or private entity which operates a fixed route or demand responsive system shall ensure that personnel are trained to proficiency, as appropriate to their duties, so that they operate vehicles and equipment safely and properly assist and treat individuals with disabilities who use the service in a respectful and courteous way, with appropriate attention to the difference among individuals with disabilities.

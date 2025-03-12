@@ -1,0 +1,5 @@
+##### § 33.20 Design and construction. #####
+
+(a) MSHA will not test or investigate any dust collector that in its opinion is not constructed of suitable materials, that evidences faulty workmanship, or that is not designed upon sound engineering principles. Since all possible designs, arrangements, or combinations of components and materials cannot be foreseen, MSHA reserves the right to modify the tests specified in this part in such manner to obtain substantially the same information and degree of protection as provided by the tests described in Subpart C of this part.
+
+(b) Adequacy of design and construction of a unit or system will be determined in accordance with its ability (1) to prevent the dissemination of objectionable or harmful concentrations of dust into a mine atmosphere, and (2) to protect against explosion and/or fire hazards of electrical equipment, except as provided in § 33.38(b).

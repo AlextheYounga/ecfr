@@ -1,0 +1,3 @@
+##### § 843.17 Failure to give notice and lack of information. #####
+
+No notice of violation, cessation order, show cause order, or order revoking or suspending a permit may be vacated for failure to give the notice to the State regulatory authority required under § 842.11(b)(1)(ii)(B) of this chapter or because it is subsequently determined that the Office did not have information sufficient, under §§ 842.11(b)(1) and 842.11(b)(2) of this chapter, to justify an inspection.

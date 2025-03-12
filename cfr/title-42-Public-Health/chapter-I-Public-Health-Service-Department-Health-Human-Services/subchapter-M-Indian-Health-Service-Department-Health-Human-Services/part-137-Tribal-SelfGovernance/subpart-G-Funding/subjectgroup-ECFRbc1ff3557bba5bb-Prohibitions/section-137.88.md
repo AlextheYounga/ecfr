@@ -1,0 +1,3 @@
+##### § 137.88 May the Secretary reduce the amount of funds required under Title V to pay for Federal functions, including Federal pay costs, Federal employee retirement benefits, automated data processing, technical assistance, and monitoring of activities under the Act? #####
+
+No, the Secretary may not reduce the amount of funds required under Title V to pay for Federal functions, including Federal pay costs, Federal employee retirement benefits, automated data processing, technical assistance, and monitoring of activities under the Act.

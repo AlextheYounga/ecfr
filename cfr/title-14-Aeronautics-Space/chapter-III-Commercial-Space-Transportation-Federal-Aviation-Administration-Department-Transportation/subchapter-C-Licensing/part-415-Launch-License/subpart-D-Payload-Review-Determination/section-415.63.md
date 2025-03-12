@@ -1,0 +1,3 @@
+##### § 415.63 Incorporation of payload determination in license application. #####
+
+A favorable payload determination issued for a payload or class of payload may be included by a license applicant as part of its application. However, any change in information provided under section 415.59 of this subpart must be reported in accordance with section 413.17 of this chapter. The FAA determines whether a favorable payload determination remains valid in light of reported changes and may conduct an additional payload review.

@@ -1,0 +1,35 @@
+##### § 141.203 Tier 2 Public Notice—Form, manner, and frequency of notice. #####
+
+(a) *Which violations or situations require a Tier 2 public notice?* Table 1 of this section lists the violation categories and other situations requiring a Tier 2 public notice. Appendix A to this subpart identifies the tier assignment for each specific violation or situation.
+
+|                      (1) All violations of the MCL, MRDL, and treatment technique requirements, except where a Tier 1 notice is required under § 141.202(a) or where the primacy agency determines that a Tier 1 notice is required;                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (2) Violations of the monitoring and testing procedure requirements, where the primacy agency determines that a Tier 2 rather than a Tier 3 public notice is required, taking into account potential health impacts and persistence of the violation; and |
+|                                                                                (3) Failure to comply with the terms and conditions of any variance or exemption in place.                                                                                 |
+|(4) Failure to take corrective action or failure to maintain at least 4-log treatment of viruses (using inactivation, removal, or a State-approved combination of 4-log virus inactivation and removal) before or at the first customer under § 141.403(a).|
+
+(b) *When is the Tier 2 public notice to be provided?* (1) Public water systems must provide the public notice as soon as practical, but no later than 30 days after the system learns of the violation. If the public notice is posted, the notice must remain in place for as long as the violation or situation persists, but in no case for less than seven days, even if the violation or situation is resolved. The primacy agency may, in appropriate circumstances, allow additional time for the initial notice of up to three months from the date the system learns of the violation. It is not appropriate for the primacy agency to grant an extension to the 30-day deadline for any unresolved violation or to allow across-the-board extensions by rule or policy for other violations or situations requiring a Tier 2 public notice. Extensions granted by the primacy agency must be in writing.
+
+(2) The public water system must repeat the notice every three months as long as the violation or situation persists, unless the primacy agency determines that appropriate circumstances warrant a different repeat notice frequency. In no circumstance may the repeat notice be given less frequently than once per year. It is not appropriate for the primacy agency to allow less frequent repeat notice for an MCL or treatment technique violation under the Total Coliform Rule or subpart Y of this part or a treatment technique violation under the Surface Water Treatment Rule or Interim Enhanced Surface Water Treatment Rule. It is also not appropriate for the primacy agency to allow through its rules or policies across-the-board reductions in the repeat notice frequency for other ongoing violations requiring a Tier 2 repeat notice. Primacy agency determinations allowing repeat notices to be given less frequently than once every three months must be in writing.
+
+(3) For the turbidity violations specified in this paragraph, public water systems must consult with the primacy agency as soon as practical but no later than 24 hours after the public water system learns of the violation, to determine whether a Tier 1 public notice under § 141.202(a) is required to protect public health. When consultation does not take place within the 24-hour period, the water system must distribute a Tier 1 notice of the violation within the next 24 hours (*i.e.,* no later than 48 hours after the system learns of the violation), following the requirements under § 141.202(b) and (c). Consultation with the primacy agency is required for:
+
+(i) Violation of the turbidity MCL under § 141.13(b); or
+
+(ii) Violation of the SWTR, IESWTR or LT1ESWTR treatment technique requirement resulting from a single exceedance of the maximum allowable turbidity limit.
+
+(c) *What is the form and manner of the Tier 2 public notice?* Public water systems must provide the initial public notice and any repeat notices in a form and manner that is reasonably calculated to reach persons served in the required time period. The form and manner of the public notice may vary based on the specific situation and type of water system, but it must at a minimum meet the following requirements:
+
+(1) Unless directed otherwise by the primacy agency in writing, community water systems must provide notice by:
+
+(i) Mail or other direct delivery to each customer receiving a bill and to other service connections to which water is delivered by the public water system; and
+
+(ii) Any other method reasonably calculated to reach other persons regularly served by the system, if they would not normally be reached by the notice required in paragraph (c)(1)(i) of this section. Such persons may include those who do not pay water bills or do not have service connection addresses (e.g., house renters, apartment dwellers, university students, nursing home patients, prison inmates, etc.). Other methods may include: Publication in a local newspaper; delivery of multiple copies for distribution by customers that provide their drinking water to others (e.g., apartment building owners or large private employers); posting in public places served by the system or on the Internet; or delivery to community organizations.
+
+(2) Unless directed otherwise by the primacy agency in writing, non-community water systems must provide notice by:
+
+(i) Posting the notice in conspicuous locations throughout the distribution system frequented by persons served by the system, or by mail or direct delivery to each customer and service connection (where known); and
+
+(ii) Any other method reasonably calculated to reach other persons served by the system if they would not normally be reached by the notice required in paragraph (c)(2)(i) of this section. Such persons may include those served who may not see a posted notice because the posted notice is not in a location they routinely pass by. Other methods may include: Publication in a local newspaper or newsletter distributed to customers; use of E-mail to notify employees or students; or, delivery of multiple copies in central locations (e.g., community centers).
+
+[65 FR 26035, May 4, 2000, as amended at 67 FR 1836, Jan. 14, 2002; 71 FR 65652, Nov. 8, 2006; 78 FR 10350, Feb. 13, 2013]

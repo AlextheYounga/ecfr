@@ -1,0 +1,5 @@
+##### 814.407-3 Other mistakes disclosed before award. #####
+
+(a) In accordance with FAR 14.407-3(e), the authority of the Secretary to make the administrative determinations set forth in FAR 14.407-3(a), (b), (c), and (d) is delegated to the SPE and is further delegated, without power of redelegation, to the DSPE. This delegation in no way impairs the delegations contained in Unpublished Decision of the Comptroller General B-122003 dated November 22, 1954.
+
+(b) When a bidder alleges a mistake in his or her bid before award, after complying with the provisions of FAR 14.407-3, the contracting officer must submit the complete file to the DSPE for an administrative determination. Based upon the evidence submitted, the DSPE shall determine the action the contracting officer is to take. The contracting officer may make no award until the DSPE makes a determination.

@@ -1,0 +1,3 @@
+##### § 33.36 Method of drilling; combination unit or dust-collecting system. #####
+
+Drilling shall be conducted in accordance with the applicant's specifications and operating instructions. If special drill bits or drill steel are required, they shall be furnished to MSHA by the applicant. Otherwise the drill bit and drill steel requirements stated in paragraphs (b) and (c) of § 33.35 shall be complied with for all types of combination units or dust-collecting systems.

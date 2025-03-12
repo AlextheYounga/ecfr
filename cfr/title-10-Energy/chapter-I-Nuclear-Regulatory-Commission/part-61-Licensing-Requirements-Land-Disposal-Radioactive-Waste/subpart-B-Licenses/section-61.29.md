@@ -1,0 +1,3 @@
+##### § 61.29 Post-closure observation and maintenance. #####
+
+Following completion of closure authorized in § 61.28, the licensee shall observe, monitor, and carry out necessary maintenance and repairs at the disposal site until the license is transferred by the Commission in accordance with § 61.30. Responsibility for the disposal site must be maintained by the licensee for 5 years. A shorter or longer time period for post-closure observation and maintenance may be established and approved as part of the site closure plan, based on site-specific conditions.

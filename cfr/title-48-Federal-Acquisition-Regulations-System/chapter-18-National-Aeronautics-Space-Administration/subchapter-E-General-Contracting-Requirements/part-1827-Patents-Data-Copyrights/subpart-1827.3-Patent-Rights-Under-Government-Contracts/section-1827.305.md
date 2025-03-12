@@ -1,0 +1,1 @@
+##### 1827.305 Administration of the patent rights clauses. #####

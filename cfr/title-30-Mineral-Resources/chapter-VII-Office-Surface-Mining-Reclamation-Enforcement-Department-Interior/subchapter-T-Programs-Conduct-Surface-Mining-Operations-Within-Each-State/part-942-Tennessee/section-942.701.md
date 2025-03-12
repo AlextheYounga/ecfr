@@ -1,0 +1,15 @@
+##### § 942.701 General. #####
+
+(a)(1) Except as provided in paragraphs (a)(2) and (a)(3) of this section, §§ 700.5, 700.11, 700.12, 700.13, 700.14, 700.15 and part 701 of this chapter shall apply to coal exploration and surface coal mining and reclamation operations.
+
+(2) The definition of *support facilities* in § 701.5 of this chapter shall not apply to surface coal mining and reclamation operations.
+
+(3) The definitions of *surface coal mining operations* in § 700.5, and *coal preparation or coal processing* and *coal preparation plant* in § 701.5 of this chapter shall include facilities which leach, chemically process, or physically process coal.
+
+(b) Surface coal mining and reclamation operations in Tennessee which do not have a permanent program permit issued by the State of Tennessee prior to the effective date of this program, but which filed a permit application on a timely basis and were allowed to operate under the Tennessee State program, may continue to operate until the Office issues or denies a permit if they: (1) Comply with Subchapter B of this chapter until issuance or denial of a permit under this program; (2) authorize transfer to OSM of any permit application pending with the State regulatory authority; and (3) provide to the Office on a timely basis any requested additional information necessary to make a complete permit application.
+
+(c) Persons engaged in underground mining activities which do not have and did not apply for a permanent program permit from the State of Tennessee prior to the effective date of this program, but which were allowed to operate under the Tennessee State program, may continue to operate beyond eight months after the effective date of this program if they: (1) Within two months of the effective date of this program apply to OSM for a permit; (2) comply with Subchapter B of this chapter until issuance or denial of a permit under this program; and (3) provide to the Office on a timely basis any requested additional information necessary to make a complete permit application.
+
+(d) Persons operating facilities which leach, chemically process, or physically process coal which do not have a permanent program permit from the State of Tennessee prior to the effective date of this program, may continue to operate beyond eight months after the effective date of this program if they: (1) Within two months of the effective date of this program apply to OSM for a permit; (2) comply with Subchapter B of this chapter until issuance or denial of a permit under this program; and (3) provide to the Office on a timely basis any requested additional information necessary to make a complete permit application.
+
+(e) Records required by § 700.14 of this chapter to be made available locally to the public shall be retained at OSM's Knoxville Field Office.

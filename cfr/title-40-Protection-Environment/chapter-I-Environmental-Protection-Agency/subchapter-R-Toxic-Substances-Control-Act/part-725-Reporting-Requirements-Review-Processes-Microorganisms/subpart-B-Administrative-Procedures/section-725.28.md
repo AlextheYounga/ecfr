@@ -1,0 +1,3 @@
+##### § 725.28 Notice that submission is not required. #####
+
+When EPA receives a MCAN or exemption request, EPA will review it to determine whether the microorganism is subject to the requirements of this part. If EPA determines that the microorganism is not subject to these requirements, EPA will notify the submitter that section 5 of the Act does not prevent the manufacture, import, or processing of the microorganism and that the submission is not needed.

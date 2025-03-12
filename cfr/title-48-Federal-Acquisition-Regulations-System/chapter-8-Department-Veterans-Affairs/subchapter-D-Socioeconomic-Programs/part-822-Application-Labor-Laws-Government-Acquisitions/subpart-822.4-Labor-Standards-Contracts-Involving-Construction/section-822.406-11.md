@@ -1,0 +1,5 @@
+##### 822.406-11 Contract terminations. #####
+
+(a) Contracting officers must submit any proposed termination of a contract based on violations of the labor standard provisions of the contract to OGC for review and comment prior to taking final action. The submittal must include a detailed explanation of the facts and circumstances involved. Contracting officers, except those in the Office of Construction and Facilities Management, shall forward the submittal to OGC through the DSPE. Contracting officers in the Office of Construction and Facilities Management shall forward the submittal to OGC through the Director, Office of Construction and Facilities Management.
+
+(b) If the contract is to be terminated, the DSPE or the Director, Office of Construction and Facilities Management, must submit the reports required by 29 CFR 5.7(d) over the signature of the SPE.

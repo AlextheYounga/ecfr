@@ -1,0 +1,3 @@
+##### § 2.1505 Role of the NRC staff. #####
+
+The NRC staff shall be available to answer any Commission or presiding officer's questions on staff-prepared documents, provide additional information or documentation that may be available to the staff, and provide other assistance that the Commission or presiding officer may request without requiring the NRC staff to assume the role of an advocate. The NRC staff may request to participate in the legislative hearing by providing notice to the Commission or presiding officer, as applicable, within the time period established for submitting a request to participate; or if no notice is provided under § 2.1502(b)(2), within ten (10) days of the Commission's order announcing its determination to conduct a legislative hearing.

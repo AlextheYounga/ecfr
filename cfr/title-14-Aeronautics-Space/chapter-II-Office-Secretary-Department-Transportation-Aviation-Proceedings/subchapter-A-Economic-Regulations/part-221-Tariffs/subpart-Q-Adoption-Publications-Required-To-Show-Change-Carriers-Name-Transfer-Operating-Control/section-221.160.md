@@ -1,0 +1,7 @@
+##### § 221.160 Adoption notice. #####
+
+(a) When the name of a carrier is changed or when its operating control is transferred to another carrier (including another company which has not previously been a carrier), the carrier which will thereafter operate the properties shall immediately issue, file with the Department, and post for public inspection, an adoption notice in a form and containing such information as is approved by the Office of International Aviation. (The carrier under its former name or the carrier from whom the operating control is transferred shall be referred to in this subpart as the “former carrier”, and the carrier under its new name or the carrier, company, or fiduciary to whom the operating control is transferred shall be referred to in this subpart as the “adopting carrier”.)
+
+(b) The adoption notice shall be prepared, filed, and posted as a tariff. The adoption notice shall be issued and filed by the adopting carrier and not by an agent.
+
+(c) *Copies to be sent to agents and other carriers.* At the same time that the adoption notice is transmitted to the Department for filing, the adopting carrier shall send copies of such adoption notice to each agent and carrier to whom the former carrier has given a power of attorney or concurrence. (See § 221.163.)

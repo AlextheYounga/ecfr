@@ -1,0 +1,3 @@
+##### 1901.601 General. #####
+
+The Director, Office of Contracts, is designated the Board Procurement Executive. The Board Procurement Executive is delegated the full delegable authority of the Director of this Board with respect to the acquisition of goods and services by contract and such other methods as may be prescribed in the FAR. The Board Procurement Executive is delegated overall responsibility by the Director for the Board's contracting activities.

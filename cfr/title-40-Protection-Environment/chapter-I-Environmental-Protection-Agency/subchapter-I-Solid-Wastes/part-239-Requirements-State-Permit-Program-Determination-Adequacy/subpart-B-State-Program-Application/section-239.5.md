@@ -1,0 +1,9 @@
+##### § 239.5 State legal certification. #####
+
+(a) A state must submit a written certification from the state Attorney General that the laws, regulations, and any applicable guidance cited in the application are enacted at the time the certification is signed and are fully effective when the state permit program is approved. This certification may be signed by the independent legal counsel for the state rather than the Attorney General, provided that such counsel has full authority to independently represent the lead state agency in court on all matters pertaining to the state program.
+
+(b) If guidance is to be used to supplement statutes and regulations, the state legal certification must discuss that the state has the authority to use guidance to develop enforceable permits which will ensure compliance with relevant standards issued pursuant to RCRA section 4010(c) and that the guidance was duly issued in accordance with state law.
+
+(c) If any laws, regulations, or guidance are not enacted or fully effective when the legal certification is signed, the certification should specify what portion(s) of laws, regulations, or guidance are not yet enacted or fully effective and when they are expected to be enacted or fully effective.
+
+The Agency may make a tentative determination of adequacy using this legal certification. The state must submit a revised legal certification meeting the requirements of paragraph (a) of this section and, if appropriate, paragraph (b) of this section along with all the applicable fully enacted and effective statutes, regulations, or guidance, prior to the Agency making a final determination of adequacy. If the statutes, regulations or guidance originally submitted under § 239.3(d) and certified to under this section are modified in a significant way, the Regional Administrator will publish a new tentative determination to ensure adequate public participation.

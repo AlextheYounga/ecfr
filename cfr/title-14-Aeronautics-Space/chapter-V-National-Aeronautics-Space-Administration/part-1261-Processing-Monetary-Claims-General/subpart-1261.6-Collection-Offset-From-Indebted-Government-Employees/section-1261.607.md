@@ -1,0 +1,5 @@
+##### § 1261.607 Obtaining the services of a hearing official. #####
+
+(a) When the debtor does not work for the creditor agency and the creditor agency cannot provide a prompt and appropriate hearing before an administrative law judge or before a hearing official furnished pursuant to another lawful arrangement, the creditor agency may contact an agent of the paying agency designated in appendix A of 5 CFR part 581 to arrange for a hearing official, and the paying agency must then cooperate as provided by 4 CFR 102.1 and provide a hearing official.
+
+(b) When the debtor works for the creditor agency, the creditor agency may contact any agent (of another agency) designated in appendix A of 5 CFR part 581 to arrange for a hearing official. Agencies must then cooperate as required by 4 CFR 102.1 and provide a hearing official.

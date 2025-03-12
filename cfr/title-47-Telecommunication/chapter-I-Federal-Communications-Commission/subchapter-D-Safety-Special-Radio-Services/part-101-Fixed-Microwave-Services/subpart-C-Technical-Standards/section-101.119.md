@@ -1,0 +1,3 @@
+##### § 101.119 Simultaneous use of common antenna structures. #####
+
+The simultaneous use of common antenna structures by more than one radio station, or by one of more domestic public radio stations and one or more stations of any other class or service, may be authorized: provided, however, that each licensee or user of any such structure is responsible for maintaining the structure, and for painting and illuminating the structure when obstruction marking is required by the Commission. (See § 101.21(a).)

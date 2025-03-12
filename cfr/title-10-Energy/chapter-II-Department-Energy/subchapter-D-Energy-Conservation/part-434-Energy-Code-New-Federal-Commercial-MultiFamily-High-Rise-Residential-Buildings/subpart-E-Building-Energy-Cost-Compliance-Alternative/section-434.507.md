@@ -1,0 +1,3 @@
+##### § 434.507 Calculation procedure and simulation tool. #####
+
+507.1 The Prototype or Reference Buildings shall be modeled using the criteria of subsections 510 and 521. The modeling shall use a climate data set appropriate for both the site and the complexity of the energy conserving features of the design. ASHRAE Weather Year for Energy Calculations (WYEC) data or bin weather data shall be used in the absence of other appropriate data.

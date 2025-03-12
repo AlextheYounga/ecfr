@@ -1,0 +1,3 @@
+##### § 493.1240 Condition: Preanalytic systems. #####
+
+Each laboratory that performs nonwaived testing must meet the applicable preanalytic system(s) requirements in §§ 493.1241 and 493.1242, unless HHS approves a procedure, specified in Appendix C of the State Operations Manual (CMS Pub. 7), that provides equivalent quality testing. The laboratory must monitor and evaluate the overall quality of the preanalytic systems and correct identified problems as specified in § 493.1249 for each specialty and subspecialty of testing performed.

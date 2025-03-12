@@ -1,0 +1,3 @@
+##### § 221.102 Accessibility of tariffs to the public. #####
+
+Each file of tariffs shall be kept in complete and accessible form. Employees of the carrier shall be required to give any desired information contained in such tariffs, to lend assistance to seekers of information therefrom, and to afford inquirers opportunity to examine any of such tariffs without requiring the inquirer to assign any reason for such desire.

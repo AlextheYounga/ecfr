@@ -1,0 +1,3 @@
+##### 42.601 General. #####
+
+Contractors with more than one operational location (e.g., division, plant, or subsidiary) often have corporate-wide policies, procedures, and activities requiring Government review and approval and affecting the work of more than one administrative contracting officer (ACO). In these circumstances, effective and consistent contract administration may require the assignment of a corporate administrative contracting officer (CACO) to deal with corporate management and to perform selected contract administration functions on a corporate-wide basis.

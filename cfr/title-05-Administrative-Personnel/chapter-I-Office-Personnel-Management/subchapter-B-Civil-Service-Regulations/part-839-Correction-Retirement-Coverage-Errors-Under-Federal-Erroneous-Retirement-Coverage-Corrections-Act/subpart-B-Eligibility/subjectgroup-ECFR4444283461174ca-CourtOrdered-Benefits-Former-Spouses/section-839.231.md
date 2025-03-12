@@ -1,0 +1,3 @@
+##### § 839.231 Can I make an election if my former spouse is entitled to a portion of my retirement benefits by qualifying court order? #####
+
+Yes, but if you want to elect FERS you need your former spouse's consent to the election. If you are subject to a qualifying court order and want to elect FERS, the requirements in § 846.722 of this chapter (Former Spouse's Consent to an Election of FERS Coverage) apply to you.

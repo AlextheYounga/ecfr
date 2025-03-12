@@ -1,0 +1,3 @@
+##### § 302.703 Order to show cause or instituting a hearing. #####
+
+Whether the proceeding is commenced by the filing of a petition or upon the Department's own initiative, the DOT decisionmaker may issue an order directing the respondent to show cause why it should not adopt such findings and conclusions and such final rates as may be specified in the order to show cause, or may issue an order setting the matter for hearing before an administrative law judge.

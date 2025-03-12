@@ -1,0 +1,3 @@
+##### § 1022.24 Interagency cooperation. #####
+
+If DOE and one or more agencies are directly involved in a proposed floodplain or wetland action, in accordance with DOE's NEPA or CERCLA procedures, DOE shall consult with such other agencies to determine if a floodplain or wetland assessment is required by subpart B of this part, identify the appropriate lead or joint agency responsibilities, identify the applicable regulations, and establish procedures for interagency coordination during the environmental review process.

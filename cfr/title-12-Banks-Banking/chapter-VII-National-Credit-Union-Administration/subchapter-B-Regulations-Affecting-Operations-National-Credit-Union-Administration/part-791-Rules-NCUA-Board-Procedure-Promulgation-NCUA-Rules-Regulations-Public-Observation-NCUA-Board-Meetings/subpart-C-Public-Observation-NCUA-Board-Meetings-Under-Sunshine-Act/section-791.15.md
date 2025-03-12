@@ -1,0 +1,9 @@
+##### § 791.15 Requests for open meeting. #####
+
+(a) Following any announcement that the Board intends to close a meeting or any portion of any meeting, any person may make a written request to the Secretary of the Board that the meeting or a portion of the meeting be open. The request shall be circulated to the members of the Board, and the Board, upon the request of one member, shall reconsider its action under § 791.14 before the meeting or before discussion of the matter at the meeting. If the Board decides to open a portion of a meeting proposed to be closed, the Board shall publicly announce its decision in accordance with § 791.13(e). If no request is received from a Board member to reconsider the decision to close a meeting or portion thereof prior to the meeting discussion, the Chairman of the Board shall certify that the Board did not receive a request to reconsider its decision to close the discussion of the matter.
+
+(b) The request to open a portion of a meeting shall be submitted to the Secretary of the Board in advance of the meeting in question. The request shall set forth the requestor's interest in the matter to be discussed and the reasons why the requestor believes that the public interest requires that the meeting or portions thereof be open to public observation.
+
+(c) The submission of a request to open a portion of a meeting shall not act to stay the effectiveness of Board action or to postpone or delay the meeting unless the Board decides otherwise.
+
+(d) The Secretary of the Board shall advise the requestor of the Board's consideration of the request to open a portion of the meeting as soon as practicable.

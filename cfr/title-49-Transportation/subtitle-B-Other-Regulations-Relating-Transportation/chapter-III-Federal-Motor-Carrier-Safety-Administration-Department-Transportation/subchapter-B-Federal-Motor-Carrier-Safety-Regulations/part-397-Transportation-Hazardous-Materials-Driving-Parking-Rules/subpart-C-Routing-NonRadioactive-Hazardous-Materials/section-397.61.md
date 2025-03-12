@@ -1,0 +1,3 @@
+##### § 397.61 Purpose and scope. #####
+
+This subpart contains routing requirements and procedures that States and Indian tribes are required to follow if they establish, maintain, or enforce routing designations over which a non-radioactive hazardous material (NRHM) in a quantity which requires placarding may or may not be transported by a motor vehicle. It also provides regulations for motor carriers transporting placarded or marked NRHM and procedures for dispute resolutions regarding NRHM routing designations.

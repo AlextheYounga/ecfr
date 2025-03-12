@@ -1,0 +1,3 @@
+##### § 431.704 Nursing homes designated by other terms. #####
+
+If a State licensing law does not use the term “nursing home,” the CMS Administrator will determine the term or terms equivalent to “nursing home” for purposes of applying the requirements of this subpart. To obtain this determination, the Medicaid agency must submit to the Regional Medicaid Director copies of current State laws that define institutional health care facilities for licensing purposes.

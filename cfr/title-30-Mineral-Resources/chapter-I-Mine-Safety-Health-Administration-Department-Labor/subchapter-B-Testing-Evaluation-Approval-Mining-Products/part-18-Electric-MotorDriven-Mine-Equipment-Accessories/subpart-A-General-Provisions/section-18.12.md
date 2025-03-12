@@ -1,0 +1,7 @@
+##### § 18.12 Letter of certification. #####
+
+(a) A letter of certification may be issued by MSHA for a component intended for incorporation in a complete machine or accessory for which an approval may be subsequently issued. A letter of certification will be issued to an applicant when a component has met all the applicable requirements of this part. Included in the letter of certification will be an assigned MSHA certification number that will identify the certified component.
+
+(b) A letter of certification will be accompanied by a list of drawings, specifications, and related material covering the details of design and construction of a component upon which the letter of certification is based. Applicants shall keep exact duplicates of the drawings, specifications, and descriptions that relate to the component for which a letter of certification has been issued; and the drawings and specifications shall be adhered to exactly in production of the certified component.
+
+(c) A component shall not be represented as certified until the applicant has received MSHA's letter of certification for the component. Certified components are not to be represented as “approved” or “permissible” because such terms apply only to completely assembled machines or accessories.

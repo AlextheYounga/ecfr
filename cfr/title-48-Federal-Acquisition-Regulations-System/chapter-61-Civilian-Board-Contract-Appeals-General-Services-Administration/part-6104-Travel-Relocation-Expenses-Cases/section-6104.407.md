@@ -1,0 +1,3 @@
+##### 6104.407 Reconsideration of Board decision [Rule 407]. #####
+
+A request for reconsideration may be made by the claimant or the agency. Such requests must be received by the Board within 30 calendar days after the date the decision was issued (or within 60 calendar days after the date the decision was issued, if the claimant or the agency office making the request is located outside the 50 states and the District of Columbia). The request for reconsideration should state the reasons why the Board should consider the request. Mere disagreement with a decision or re-argument of points already made is not a sufficient ground for seeking reconsideration.

@@ -1,0 +1,3 @@
+##### § 1009.7 Enforcement. #####
+
+Compliance with the requirements of this part shall be enforced under the Consumer Financial Protection Act of 2010, Public Law 111-203, title X, 124 Stat. 1955, by the Bureau of Consumer Financial Protection, subject to subtitle B of the Consumer Financial Protection Act of 2010, and under the Federal Trade Commission Act, 15 U.S.C. 41 *et seq,* by the Federal Trade Commission.

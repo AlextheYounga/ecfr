@@ -1,0 +1,3 @@
+##### 245.602-3 Screening. #####
+
+Property will be screened DoD-wide, including the contracting agency, requiring agency, and, as appropriate, the General Services Administration. The requiring agency shall have priority for retention of listed items. All required screening must be completed before any sale of contractor inventory, including contractor inventory in overseas locations (foreign excess personal property) can take place. Upon request of the prospective reutilization, transfer, donation, or sales customer, the plant clearance officer shall arrange for inspection of property at the contractor's plant in such a manner as to avoid interruption of the contractor's operations, and consistent with any security requirements.

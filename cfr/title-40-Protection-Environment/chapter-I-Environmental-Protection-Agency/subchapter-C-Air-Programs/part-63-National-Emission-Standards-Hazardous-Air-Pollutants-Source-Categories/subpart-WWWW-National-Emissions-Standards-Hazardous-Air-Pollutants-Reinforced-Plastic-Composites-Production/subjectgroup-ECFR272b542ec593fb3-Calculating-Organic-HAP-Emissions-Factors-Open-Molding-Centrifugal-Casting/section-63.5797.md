@@ -1,0 +1,9 @@
+##### § 63.5797 How do I determine the organic HAP content of my resins and gel coats? #####
+
+In order to determine the organic HAP content of resins and gel coats, you may rely on information provided by the material manufacturer, such as manufacturer's formulation data and material safety data sheets (MSDS), using the procedures specified in paragraphs (a) through (c) of this section, as applicable.
+
+(a) Include in the organic HAP total each organic HAP that is present at 0.1 percent by mass or more for Occupational Safety and Health Administration-defined carcinogens, as specified in 29 CFR 1910.1200(d)(4) and at 1.0 percent by mass or more for other organic HAP compounds.
+
+(b) If the organic HAP content is provided by the material supplier or manufacturer as a range, you must use the upper limit of the range for determining compliance. If a separate measurement of the total organic HAP content, such as an analysis of the material by EPA Method 311 of appendix A to 40 CFR part 63, exceeds the upper limit of the range of the total organic HAP content provided by the material supplier or manufacturer, then you must use the measured organic HAP content to determine compliance.
+
+(c) If the organic HAP content is provided as a single value, you may use that value to determine compliance. If a separate measurement of the total organic HAP content is made and is less than 2 percentage points higher than the value for total organic HAP content provided by the material supplier or manufacturer, then you still may use the provided value to demonstrate compliance. If the measured total organic HAP content exceeds the provided value by 2 percentage points or more, then you must use the measured organic HAP content to determine compliance.

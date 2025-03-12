@@ -1,0 +1,3 @@
+##### § 960.3-1-4 Evidence for siting decisions. #####
+
+The siting process involves a sequence of four decisions: The identification of potentially acceptable sites; the nomination of sites as suitable for characterization; the recommendation of sites as candidate sites for site characterization; and after the completion of site characterization and nongeologic data gathering, the recommendation of a candidate site for the development of a repository. Each of these decisions will be supported by the evidence specified below.

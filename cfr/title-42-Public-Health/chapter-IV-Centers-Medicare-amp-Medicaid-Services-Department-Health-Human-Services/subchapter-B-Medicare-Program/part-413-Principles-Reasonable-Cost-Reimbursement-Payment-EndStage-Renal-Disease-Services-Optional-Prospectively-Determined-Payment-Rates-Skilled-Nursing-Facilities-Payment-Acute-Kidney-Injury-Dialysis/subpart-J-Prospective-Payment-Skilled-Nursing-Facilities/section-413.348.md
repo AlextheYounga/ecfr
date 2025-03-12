@@ -1,0 +1,3 @@
+##### § 413.348 Limitation on review. #####
+
+Judicial or administrative review under sections 1869 or 1878 of the Act or otherwise is prohibited with regard to the establishment of the Federal rates. This prohibition includes the methodology used in the computation of the Federal standardized payment rates, the case-mix methodology, and the development and application of the wage index. This prohibition on judicial and administrative review also extends to the methodology used to establish the facility-specific rates but not to determinations related to reasonable cost in the fiscal year 1995 cost reporting period used as the basis for these rates.

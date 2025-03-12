@@ -1,0 +1,3 @@
+##### § 1400.205 Savings provision. #####
+
+No provision of the rule in this part may be applied to make an adverse inference in pending administrative proceedings. However, the redesignation of a position may require that the occupant of that position undergo a new adjudication. An administrative proceeding is deemed to be pending from the date of the agency or OPM notice described in § 1400.301(c)(1).

@@ -1,0 +1,9 @@
+##### 2415.303 Responsibilities. #####
+
+(a)(1) Except as identified in paragraph (a)(2) of this section, HUD's Chief Procurement Officer, as the Senior Procurement Executive, designates Assistant Secretaries, or their equivalent, for requiring activities as the Source Selection Authorities for selections made using the tradeoff process. Assistant Secretaries may delegate this function to other departmental officials. This designation also applies to acquisitions not performed under the requirements of FAR part 15, but utilizing tradeoff analysis.
+
+(2) HUD's Chief Procurement Officer, as the Senior Procurement Executive, designates HUD's Office of General Counsel (OGC) as the Source Selection Authority, regardless of contract amount, in all Headquarters procurements for legal services, unless (s)he specifically designates another agency official to perform that function. Any Headquarters office desiring to procure outside legal services for the Department shall obtain OGC approval before advertising or soliciting proposals for such services. OGC shall determine whether the services are necessary and the extent of OGC involvement in the procurement.
+
+(b)(1) The technical evaluation requirements related to source selection shall be performed by a Technical Evaluation Panel (TEP). The TEP may consist of any number of members as appropriate to the acquisition, with one member serving as the chairperson. As needed, the TEP may include advisors and committees to focus on specific technical areas or concerns. The TEP is responsible for fully documenting the evaluation of all proposals as appropriate to the source selection approach in use and for making the source selection recommendation to the source selection authority.
+
+[77 FR 73527, Dec. 10, 2012, as amended at 81 FR 13751, Mar. 15, 2016]

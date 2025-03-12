@@ -1,0 +1,5 @@
+##### § 302.36 Oral argument before the DOT decisionmaker. #####
+
+(a) If any party desires to argue a case orally before the DOT decisionmaker, he or she shall request leave to make such argument in his or her exceptions or brief. Such request shall be filed no later than the date when briefs before the DOT decisionmaker are due in the proceeding. The DOT decisionmaker will rule on such request, and, if oral argument is to be allowed, all parties to the proceeding will be advised of the date and hour set for such argument and the amount of time allowed to each party. Requests for oral argument on petitions for discretionary review will not be entertained.
+
+(b) Pamphlets, charts, and other written data may be offered to the DOT decisionmaker at oral argument only in accordance with the following rules: All such material shall be limited to facts in the record of the case being argued and shall be served on all parties to the proceeding with four (4) copies transmitted to Department of Transportation Dockets at least five (5) calendar days in advance of the argument.

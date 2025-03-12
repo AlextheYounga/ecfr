@@ -1,0 +1,3 @@
+##### § 61.70 Scope. #####
+
+This subpart describes mechanisms through which the Commission will implement a formal request from a State or tribal government to participate in the review of a license application for a land disposal facility. Nothing in this subpart may be construed to bar the State or tribal governing body from participating in subsequent Commission proceedings concerning the license application as provided under Federal law and regulations.

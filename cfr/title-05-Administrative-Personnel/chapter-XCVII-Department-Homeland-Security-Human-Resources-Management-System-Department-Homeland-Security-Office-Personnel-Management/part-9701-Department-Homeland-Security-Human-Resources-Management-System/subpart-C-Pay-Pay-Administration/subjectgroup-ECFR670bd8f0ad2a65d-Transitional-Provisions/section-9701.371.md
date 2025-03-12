@@ -1,0 +1,5 @@
+##### § 9701.371 General. #####
+
+(a) Sections 9701.371 through 9701.374 describe the transitional provisions that apply when DHS employees are converted to a pay system established under this subpart. An affected employee may convert from the GS system, a prevailing rate system, the SL/ST system, or the SES system, as provided in § 9701.302. For the purpose of this section and §§ 9701.372 through 9701.374, the terms “convert,” “converted,” “converting,” and “conversion” refer to employees who become covered by the pay system without a change in position (as a result of a coverage determination made under § 9701.102(b)) and exclude employees who are reassigned or transferred from a noncovered position to a position already covered by the DHS system.
+
+(b) DHS will issue implementing directives prescribing the policies and procedures necessary to implement these transitional provisions.

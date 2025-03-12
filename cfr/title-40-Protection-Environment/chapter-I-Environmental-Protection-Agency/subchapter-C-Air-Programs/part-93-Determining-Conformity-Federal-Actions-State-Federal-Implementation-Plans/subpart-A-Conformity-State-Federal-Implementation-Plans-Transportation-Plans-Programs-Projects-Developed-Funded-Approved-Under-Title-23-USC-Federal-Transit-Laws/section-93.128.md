@@ -1,0 +1,3 @@
+##### § 93.128 Traffic signal synchronization projects. #####
+
+Traffic signal synchronization projects may be approved, funded, and implemented without satisfying the requirements of this subpart. However, all subsequent regional emissions analyses required by §§ 93.118 and 93.119 for transportation plans, TIPs, or projects not from a conforming plan and TIP must include such regionally significant traffic signal synchronization projects.

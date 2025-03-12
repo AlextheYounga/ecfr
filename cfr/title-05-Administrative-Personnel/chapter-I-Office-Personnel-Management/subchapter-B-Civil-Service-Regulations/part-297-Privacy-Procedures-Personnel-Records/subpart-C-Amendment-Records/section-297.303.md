@@ -1,0 +1,5 @@
+##### § 297.303 Applicability of amendment provisions. #####
+
+(a) The amendment procedures are not intended to allow a challenge to material that records an event that actually occurred nor are they designed to permit a collateral attack upon that which has been or could have been the subject of a judicial, quasi-judicial, or administrative proceeding. The amendment procedures are also not designed to change opinions in records pertaining to the individual.
+
+(b) The amendment procedures apply to situations when an occurrence that is documented was challenged through an established judicial, quasi-judicial, or administrative procedure and found to be inaccurately described; when the document is not identical to the individual's copy; or when the document is not created in accordance with the applicable recordkeeping requirements. (For example, the amendment provisions are not designed to allow a challenge to the merits of an agency adverse action that is documented in an individual's Official Personnel Folder.)

@@ -1,0 +1,3 @@
+##### § 90.1 Scope. #####
+
+The provisions herein govern judicial review for Patent Trial and Appeal Board decisions under chapter 13 of title 35, United States Code. Judicial review of decisions arising out of *inter partes* reexamination proceedings that are requested under 35 U.S.C. 311, and where available, judicial review of decisions arising out of interferences declared pursuant to 35 U.S.C. 135 continue to be governed by the pertinent regulations in effect on July 1, 2012.

@@ -1,0 +1,5 @@
+##### § 60.1545 Does this subpart directly affect municipal waste combustion unit owners and operators in my State? #####
+
+(a) No, this subpart does not directly affect municipal waste combustion unit owners and operators in your State. However, municipal waste combustion unit owners and operators must comply with the State plan you developed to implement the emission guidelines contained in this subpart. Some States may incorporate the emission guidelines contained in this subpart into their State plans by direct incorporation by reference. Others may include the model rule text directly in their State plan.
+
+(b) All municipal waste combustion units must be in compliance with the requirements established in this subpart by December 6, 2005, whether the municipal waste combustion unit is regulated under a State or Federal plan.

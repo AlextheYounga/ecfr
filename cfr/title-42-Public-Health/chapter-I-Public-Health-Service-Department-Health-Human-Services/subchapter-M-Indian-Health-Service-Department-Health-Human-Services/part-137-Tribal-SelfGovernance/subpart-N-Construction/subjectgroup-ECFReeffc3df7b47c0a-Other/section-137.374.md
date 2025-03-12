@@ -1,0 +1,3 @@
+##### § 137.374 Does the Secretary have a role in reviewing or monitoring a Self-Governance Tribe's actions in acquiring or leasing real property with funds provided under a construction project agreement? #####
+
+No, unless the Self-Governance Tribe has requested the Secretary take fee title to the property. The Self-Governance Tribe is responsible for acquiring all real property needed to perform a construction project under a construction project agreement, not the Secretary. The Secretary shall not withhold funds or refuse to enter into a construction project agreement because of a disagreement between the Self-Governance Tribe and the Secretary over the Self-Governance Tribe's decisions to purchase or lease real property.

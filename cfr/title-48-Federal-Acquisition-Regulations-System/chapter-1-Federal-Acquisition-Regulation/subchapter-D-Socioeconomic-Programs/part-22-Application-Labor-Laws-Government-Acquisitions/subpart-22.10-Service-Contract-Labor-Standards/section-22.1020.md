@@ -1,0 +1,5 @@
+##### 22.1020 Seniority lists. #####
+
+If a contract is performed at a Federal facility where employees may be hired/retained by a succeeding contractor, the incumbent prime contractor is required to furnish a certified list of all service employees on the contractor's or subcontractor's payroll during the last month of the contract, together with anniversary dates of employment, to the contracting officer no later than 10 days before contract completion. (See paragraph (n) of the clause at 52.222-41, Service Contract Labor Standards.) At the commencement of the succeeding contract, the contracting officer shall provide a copy of the list to the successor contractor for determining employee eligibility for vacation or other fringe benefits which are based upon length of service, including service with predecessor contractors if such benefit is required by an applicable wage determination.
+
+[54 FR 19816, May 8, 1989, as amended at 72 FR 63081, Nov. 7, 2007; 79 FR 24207, Apr. 29, 2014]

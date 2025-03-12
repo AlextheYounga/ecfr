@@ -1,0 +1,3 @@
+##### § 8.1 Additional authority of OPM. #####
+
+In addition to authorizing the recruitment and appointment of persons to overseas positions under regulations issued under the preceding Rules, OPM may, by the regulations prescribed by it, authorize the recruitment and appointment of persons to such positions as provided in § 8.2. As used in this part, *overseas positions* means positions in foreign countries and in other areas beyond the continental limits of the United States, except as provided in § 8.4.

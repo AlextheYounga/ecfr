@@ -1,0 +1,3 @@
+##### § 121.665 Load manifest. #####
+
+Each certificate holder is responsible for the preparation and accuracy of a load manifest form before each takeoff. The form must be prepared and signed for each flight by employees of the certificate holder who have the duty of supervising the loading of aircraft and preparing the load manifest forms or by other qualified persons authorized by the certificate holder.

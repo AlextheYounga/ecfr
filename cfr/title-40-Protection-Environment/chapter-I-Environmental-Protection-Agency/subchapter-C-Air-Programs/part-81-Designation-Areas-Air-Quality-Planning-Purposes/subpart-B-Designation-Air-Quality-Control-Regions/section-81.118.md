@@ -1,0 +1,5 @@
+##### § 81.118 Southwest Missouri Intrastate Air Quality Control Region. #####
+
+The Southwest Missouri Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Missouri: Barton County, Barry County, Bates County, Benton County, Camden County, Cedar County, Christian County, Dade County, Dallas County, Douglas County, Greene County, Henry County, Hickory County, Howell County, Jasper County, Johnson County, Laclede County, Lafayette County, Lawrence County, McDonald County, Miller County, Morgan County, Newton County, Oregon County, Ozark County, Pettis County, Polk County, Pulaski County, St. Clair County, Shannon County, Stone County, Taney County, Texas County, Vernon County, Webster County, Wright County.

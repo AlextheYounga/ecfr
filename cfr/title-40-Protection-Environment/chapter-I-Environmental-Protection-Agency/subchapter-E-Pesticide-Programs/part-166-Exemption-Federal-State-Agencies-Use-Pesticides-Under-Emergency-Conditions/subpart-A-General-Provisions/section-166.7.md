@@ -1,0 +1,7 @@
+##### § 166.7 User notification; advertising. #####
+
+(a) A State or Federal agency that obtains an exemption may notify eligible users of the availability of the exempted pesticide(s) through user groups, retail dealers, and other means. Notification may include distributing copies of the section 18 approval letter, labeling, or other information to eligible persons.
+
+(b) As set forth more fully in § 168.22 of this chapter, EPA interprets FIFRA sections 12(a)(1) (A) and (B) as making it unlawful for any person who distributes, sells, offers for sale, holds for sale, ships, delivers for shipment, or receives and (having so received) delivers or offers to deliver any pesticide, to advertise the pesticide for any use authorized by an emergency exemption, except for advertisements that are placed in media that address only persons in the geographical area to which the exemption applies, state the name and address of one or more retail dealers where users may buy the pesticide, and contain a prominent notice of the limitations on use under the emergency exemption. EPA may withdraw an exemption if the use of the pesticide covered by the exemption is advertised unlawfully.
+
+[54 FR 1125, Jan. 11, 1989]

@@ -1,0 +1,3 @@
+##### 6102.201 Scope of rules [Rule 201]. #####
+
+These procedures govern the Board's resolution of disputes between insurance companies and the Department of Agriculture's Risk Management Agency (RMA) involving actions of the Federal Crop Insurance Corporation (FCIC). Prior to the creation of this Board, the Department of Agriculture Board of Contract Appeals resolved this variety of dispute pursuant to statute, 7 U.S.C. 1501 *et seq.* (the Federal Crop Insurance Act), and regulation, 7 CFR 24.4(b) and 400.169. The Board has this authority under an agreement with the Secretary of Agriculture, as permitted under section 42(c)(2) of the Office of Federal Procurement Policy Act, 41 U.S.C. 438(c)(2).

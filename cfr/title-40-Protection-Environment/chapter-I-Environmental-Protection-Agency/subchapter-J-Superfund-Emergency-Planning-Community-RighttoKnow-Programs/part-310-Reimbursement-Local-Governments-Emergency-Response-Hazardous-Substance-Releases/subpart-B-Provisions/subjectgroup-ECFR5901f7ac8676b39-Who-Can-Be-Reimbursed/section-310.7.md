@@ -1,0 +1,3 @@
+##### § 310.7 Can more than one local agency or government be reimbursed for response to the same incident? #####
+
+No. EPA will accept only one reimbursement request for a single response. A single response includes all of the temporary emergency measures that ALL local governments or agencies conduct in response to a single hazardous substance release. If more than one local government or agency responds, you must decide among yourselves who will request reimbursement on behalf of all.

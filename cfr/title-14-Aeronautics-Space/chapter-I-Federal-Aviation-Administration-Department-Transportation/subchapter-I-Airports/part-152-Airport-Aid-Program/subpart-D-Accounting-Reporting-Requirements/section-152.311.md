@@ -1,0 +1,3 @@
+##### § 152.311 Availability of contractor's records. #####
+
+The sponsor or planning agency shall include in each contract of the cost reimbursable type a clause that allows any authorized representative of the Administrator, the Secretary of Transportation, or the Comptroller General of the United States access to the contractor's records pertinent to the contract for the purposes of accounting and audit.

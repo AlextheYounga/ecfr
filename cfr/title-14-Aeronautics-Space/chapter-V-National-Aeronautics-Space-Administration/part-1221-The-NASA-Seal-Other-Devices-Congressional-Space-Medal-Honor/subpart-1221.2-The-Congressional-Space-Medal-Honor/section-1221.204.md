@@ -1,0 +1,3 @@
+##### § 1221.204 Proceedings of the NASA Incentive Awards Board. #####
+
+The NASA Incentive Awards Board shall thoroughly consider the facts giving rise to a recommendation for nomination and shall prepare a report for the Administrator. The Board should, to the extent practicable, coordinate its efforts with those of the astronaut's employing agency, as appropriate. Its final report must take into account any pertinent information submitted by the employing agency.

@@ -1,0 +1,25 @@
+##### § 51.353 Network type and program evaluation. #####
+
+Basic and enhanced I/M programs can be centralized, decentralized, or a hybrid of the two at the State's discretion, but shall be demonstrated to achieve the same (or better) level of emission reduction as the applicable performance standard described in either § 51.351 or 51.352 of this subpart. For decentralized programs other than those meeting the design characteristics described in paragraph (a) of this section, the State must demonstrate that the program is achieving the level of effectiveness claimed in the plan within 12 months of the plan's final conditional approval before EPA can convert that approval to a final full approval. The adequacy of these demonstrations will be judged by the Administrator on a case-by-case basis through notice-and-comment rulemaking.
+
+(a) *Presumptive equivalency.* A decentralized network consisting of stations that only perform official I/M testing (which may include safety-related inspections) and in which owners and employees of those stations, or companies owning those stations, are contractually or legally barred from engaging in motor vehicle repair or service, motor vehicle parts sales, and motor vehicle sale and leasing, either directly or indirectly, and are barred from referring vehicle owners to particular providers of motor vehicle repair services (except as provided in § 51.369(b)(1) of this subpart) shall be considered presumptively equivalent to a centralized, test-only system including comparable test elements. States may allow such stations to engage in the full range of sales not covered by the above prohibition, including self-serve gasoline, pre-packaged oil, or other, non-automotive, convenience store items. At the State's discretion, such stations may also fulfill other functions typically carried out by the State such as renewal of vehicle registration and driver's licenses, or tax and fee collections.
+
+(b) [Reserved]
+
+(c) *Program evaluation.* Enhanced I/M programs shall include an ongoing evaluation to quantify the emission reduction benefits of the program, and to determine if the program is meeting the requirements of the Clean Air Act and this subpart.
+
+(1) The State shall report the results of the program evaluation on a biennial basis, starting two years after the initial start date of mandatory testing as required in § 51.373 of this subpart.
+
+(2) The evaluation shall be considered in establishing actual emission reductions achieved from I/M for the purposes of satisfying the requirements of sections 182(g)(1) and 182(g)(2) of the Clean Air Act, relating to reductions in emissions and compliance demonstration.
+
+(3) The evaluation program shall consist, at a minimum, of those items described in paragraph (b)(1) of this section and program evaluation data using a sound evaluation methodology, as approved by EPA, and evaporative system checks, specified in § 51.357(a) (9) and (10) of this subpart, for model years subject to those evaporative system test procedures. The test data shall be obtained from a representative, random sample, taken at the time of initial inspection (before repair) on a minimum of 0.1 percent of the vehicles subject to inspection in a given year. Such vehicles shall receive a State administered or monitored test, as specified in this paragraph (c)(3), prior to the performance of I/M-triggered repairs during the inspection cycle under consideration.
+
+(4) The program evaluation test data shall be submitted to EPA and shall be capable of providing accurate information about the overall effectiveness of an I/M program, such evaluation to begin no later than 1 year after program start-up.
+
+(5) Areas that qualify for and choose to implement an OTR low enhanced I/M program, as established in § 51.351(h), and that claim in their SIP less emission reduction credit than the basic performance standard for one or more pollutants, are exempt from the requirements of paragraphs (c)(1) through (c)(4) of this section. The reports required under § 51.366 of this part shall be sufficient in these areas to satisfy the requirements of Clean Air Act for program reporting.
+
+(d) *SIP requirements.* (1) The SIP shall include a description of the network to be employed, the required legal authority, and, in the case of areas making claims under paragraph (b) of this section, the required demonstration.
+
+(2) The SIP shall include a description of the evaluation schedule and protocol, the sampling methodology, the data collection and analysis system, the resources and personnel for evaluation, and related details of the evaluation program, and the legal authority enabling the evaluation program.
+
+[57 FR 52987, Nov. 5, 1992, as amended at 58 FR 59367, Nov. 9, 1993; 61 FR 39037, July 25, 1996; 63 FR 1368, Jan. 9, 1998; 65 FR 45532, July 24, 2000; 71 FR 17711, Apr. 7, 2006]

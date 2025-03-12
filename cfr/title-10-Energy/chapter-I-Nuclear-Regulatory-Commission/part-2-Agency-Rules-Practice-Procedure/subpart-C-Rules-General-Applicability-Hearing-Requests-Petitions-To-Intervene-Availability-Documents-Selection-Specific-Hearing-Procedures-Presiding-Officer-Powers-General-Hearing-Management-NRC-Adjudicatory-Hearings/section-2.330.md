@@ -1,0 +1,3 @@
+##### § 2.330 Stipulations. #####
+
+Apart from any stipulations made during or as a result of a prehearing conference, the parties may stipulate in writing at any stage of the proceeding or orally during the hearing, any relevant fact or the contents or authenticity of any document. These stipulations may be received in evidence. The parties may also stipulate as to the procedure to be followed in the proceeding. These stipulations may, on motion of all parties, be recognized by the presiding officer to govern the conduct of the proceeding.

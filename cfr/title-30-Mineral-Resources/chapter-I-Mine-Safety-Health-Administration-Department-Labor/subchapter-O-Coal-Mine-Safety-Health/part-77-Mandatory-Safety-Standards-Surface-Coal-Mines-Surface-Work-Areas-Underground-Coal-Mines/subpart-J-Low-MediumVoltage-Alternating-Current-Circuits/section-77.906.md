@@ -1,0 +1,3 @@
+##### § 77.906 Trailing cables supplying power to low-voltage mobile equipment; ground wires and ground check wires. #####
+
+On and after September 30, 1971, all trailing cables supplying power to portable or mobile equipment from low-voltage three-phase resistance grounded power systems shall contain one or more ground conductors having a cross-sectional area of not less than one-half the power conductor. Such trailing cables shall include an insulated conductor for the ground continuity check circuit except where a no less effective device has been approved by the Secretary to assure continuity. Splices made in low-voltage trailing cables shall provide continuity of all components.

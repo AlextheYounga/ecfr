@@ -1,0 +1,7 @@
+##### 42.003 Cognizant Federal agency. #####
+
+(a) For contractors other than educational institutions and nonprofit organizations, the cognizant Federal agency normally will be the agency with the largest dollar amount of negotiated contracts, including options. For educational institutions (defined as institutions of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) and nonprofit organizations (as defined in the OMB Uniform Guidance at 2 CFR part 200), the cognizant Federal agency for indirect costs is established according to the OMB Uniform Guidance at 2 CFR part 200, appendices III and IV, respectively.
+
+(b) Once a Federal agency assumes cognizance for a contractor, it should remain cognizant for at least 5 years to ensure continuity and ease of administration. If, at the end of the 5-year period, another agency has the largest dollar amount of negotiated contracts, including options, the two agencies shall coordinate and determine which will assume cognizance. However, if circumstances warrant it and the affected agencies agree, cognizance may transfer prior to the expiration of the 5-year period.
+
+[63 FR 9062, Feb. 23, 1998, as amended at 81 FR 45853, July 14, 2016]

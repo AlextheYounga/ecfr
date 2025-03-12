@@ -1,0 +1,3 @@
+##### § 415.119 Launch plans. #####
+
+An applicant's safety review document must contain the plans required by § 417.111 of this chapter, except for the countdown plan of § 417.111(l) of this chapter. An applicant's launch plans do not have to be separate documents, and may be part of other applicant documentation. An applicant must incorporate each launch safety rule established under § 417.113 of this chapter into a related launch safety plan.

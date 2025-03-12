@@ -1,0 +1,3 @@
+##### § 2638.503 Recommendations and advice to employees and agencies. #####
+
+The Director may make such recommendations and provide such advice to employees or agencies as the Director deems necessary to ensure compliance with applicable government ethics laws and regulations. The Director's authority under this section includes the authority to communicate with agency heads and other officials regarding government ethics and to recommend that the agency investigate a matter or consider taking disciplinary or corrective action against individual employees.

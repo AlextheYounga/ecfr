@@ -1,0 +1,7 @@
+##### § 98.285 Procedures for estimating missing data. #####
+
+For the petroleum coke input procedure in § 98.283(b), a complete record of all measured parameters used in the GHG emissions calculations is required (e.g., carbon content values, etc.). Therefore, whenever a quality-assured value of a required parameter is unavailable, a substitute data value for the missing parameter shall be used in the calculations as specified in the paragraphs (a) and (b) of this section. You must document and keep records of the procedures used for all such estimates.
+
+(a) For each missing value of the monthly carbon content of petroleum coke, the substitute data value shall be the arithmetic average of the quality-assured values of carbon contents immediately preceding and immediately following the missing data incident. If no quality-assured data on carbon contents are available prior to the missing data incident, the substitute data value shall be the first quality-assured value for carbon contents obtained after the missing data period.
+
+(b) For each missing value of the monthly petroleum coke consumption, the substitute data value shall be the best available estimate of the petroleum coke consumption based on all available process data or information used for accounting purposes (such as purchase records).

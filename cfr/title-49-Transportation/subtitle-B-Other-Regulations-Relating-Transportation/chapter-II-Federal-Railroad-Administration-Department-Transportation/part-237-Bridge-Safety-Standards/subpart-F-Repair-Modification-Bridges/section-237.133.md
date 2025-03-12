@@ -1,0 +1,3 @@
+##### § 237.133 Supervision of repairs and modifications. #####
+
+Each repair or modification pursuant to this part shall be performed under the immediate supervision of a railroad bridge supervisor as defined in § 237.55 of this part who is designated and authorized by the track owner to supervise the particular work to be performed. The railroad bridge supervisor shall ensure that railroad traffic or other live loads permitted on the bridge under repair or modification are in conformity with the specifications in the design.

@@ -1,0 +1,17 @@
+##### § 84.103 Man tests; performance requirements. #####
+
+(a) The apparatus shall satisfy the respiratory requirements of the wearer for the classified service time.
+
+(b) Fogging of the eyepiece shall not obscure the wearer's vision, and the wearer shall not experience undue discomfort because of fit or other characteristics of the apparatus.
+
+(c) When the ambient temperature during testing is 24 ±6 °C. (75 ±10 °F.), the maximum temperature of inspired air recorded during man tests shall not exceed the following, after correction for deviation from 24 °C. (75 °F.):
+
+|                                                                    Where service life of apparatus is—                                                                    |Where percent relative humidity of inspired air is—|Maximum permissible temperature of inspired air shall not exceed—|                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------|------------------------|
+|                                                                                    °F.                                                                                    |                        °C.                        |                                                                 |                        |
+|                                                                             1/4 hour or less                                                                              |                       0-100                       |                               135                               |           57           |
+|                                                                           1/4 hour to 3/4 hour                                                                            |                 0-50  <br/>50-100                 |                   125  <br/><sup>1</sup> 110                    |52  <br/><sup>1</sup> 43|
+|                                                                               1 to 2 hours                                                                                |                 0-50  <br/>50-100                 |                   115  <br/><sup>1</sup> 105                    |46  <br/><sup>1</sup> 41|
+|                                                                                  3 hours                                                                                  |                 0-50  <br/>50-100                 |                   110  <br/><sup>1</sup> 100                    |43  <br/><sup>1</sup> 38|
+|                                                                                  4 hours                                                                                  |                 0-50  <br/>50-100                 |                    105  <br/><sup>1</sup> 95                    |41  <br/><sup>1</sup> 35|
+|<sup>1</sup> Where percent relative humidity is 50-100 and apparatus is designed for escape only, these maximum permissible temperatures will be increased by 5 °C (10 °F).|                                                   |                                                                 |                        |

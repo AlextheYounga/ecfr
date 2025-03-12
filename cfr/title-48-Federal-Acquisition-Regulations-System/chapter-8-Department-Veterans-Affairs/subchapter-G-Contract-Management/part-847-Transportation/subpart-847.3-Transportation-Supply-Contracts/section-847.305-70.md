@@ -1,0 +1,3 @@
+##### 847.305-70 Potential destinations known but quantities unknown. #####
+
+When the VA National Acquisition Center contracts with multiple bidders to provide items directly to VA field installations on an f.o.b. origin basis, the evaluation of bids must follow specific procedures. To place each bid on an equal basis, even though specific quantities required by each facility cannot be predetermined, the contracting officer must use an anticipated demand factor in proportion to the number of hospital beds or patient workload. The clause prescribed in 852.247-70 must be used in these instances.

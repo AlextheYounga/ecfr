@@ -1,0 +1,3 @@
+##### § 1277.24 Liquidation, merger, or consolidation. #####
+
+The respective rights of the Class A and Class B stockholders, in the event that the Bank is liquidated, merged, or otherwise consolidated with another Bank, shall be determined in accordance with the capital plan of the Bank, provided, however, that nothing in the capital plan shall be construed to limit any rights or authority granted FHFA under the Bank Act or the Safety and Soundness Act to issue any regulation or order or to take any other action that may affect or otherwise alter the rights or privileges of stock holders in a liquidation, merger, or consolidation of a Bank.

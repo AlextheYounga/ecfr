@@ -1,0 +1,3 @@
+##### § 22.52 Information exchange and discovery. #####
+
+Respondent's information exchange pursuant to § 22.19(a) shall include information on any economic benefit resulting from any activity or failure to act which is alleged in the administrative complaint to be a violation of applicable law, including its gross revenues, delayed or avoided costs. Discovery under § 22.19(e) shall not be authorized, except for discovery of information concerning respondent's economic benefit from alleged violations and information concerning respondent's ability to pay a penalty.

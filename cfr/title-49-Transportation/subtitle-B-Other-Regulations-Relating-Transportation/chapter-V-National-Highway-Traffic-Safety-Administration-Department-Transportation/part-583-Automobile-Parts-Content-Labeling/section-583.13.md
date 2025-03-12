@@ -1,0 +1,3 @@
+##### § 583.13 Supplier certification and certificates. #####
+
+Each supplier shall certify the information on each certificate provided under §§ 583.10, 583.11, and 583.12 by including the following phrase on the certificate: “This information is certified in accordance with DOT regulations.” The phrase shall immediately precede the other information on the certificate. The certificate may be submitted to a manufacturer or allied supplier in any mode (e.g., paper, electronic) provided the mode contains all information in the certificate.

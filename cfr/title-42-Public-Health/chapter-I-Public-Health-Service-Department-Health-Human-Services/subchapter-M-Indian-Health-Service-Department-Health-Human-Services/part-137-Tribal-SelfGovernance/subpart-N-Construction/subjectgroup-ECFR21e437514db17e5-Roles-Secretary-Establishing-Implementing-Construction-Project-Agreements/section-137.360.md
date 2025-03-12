@@ -1,0 +1,3 @@
+##### § 137.360 Does the Secretary approve project planning and design documents prepared by the Self-Governance Tribe? #####
+
+The Secretary shall have at least one opportunity to approve project planning and design documents prepared by the Self-Governance Tribe in advance of construction if the Self-Governance Tribe is required to submit planning or design documents as a part of the scope of work under a construction project agreement.

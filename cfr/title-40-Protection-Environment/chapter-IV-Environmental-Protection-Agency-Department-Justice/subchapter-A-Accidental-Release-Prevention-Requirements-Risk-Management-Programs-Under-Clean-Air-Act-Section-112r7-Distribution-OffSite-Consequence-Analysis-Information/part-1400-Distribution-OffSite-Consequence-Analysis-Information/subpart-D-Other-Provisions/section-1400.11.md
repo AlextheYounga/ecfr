@@ -1,0 +1,3 @@
+##### § 1400.11 Limitation on dissemination to State and local government officials. #####
+
+Except as authorized by this part and by 42 U.S.C. 7412(r)(7)(H)(v)(III), Federal, State, and local government officials, and qualified researchers are prohibited from disseminating OCA information to State and local government officials. Violation of this provision subjects the violator to civil liability as provided in 42 U.S.C. 7413.

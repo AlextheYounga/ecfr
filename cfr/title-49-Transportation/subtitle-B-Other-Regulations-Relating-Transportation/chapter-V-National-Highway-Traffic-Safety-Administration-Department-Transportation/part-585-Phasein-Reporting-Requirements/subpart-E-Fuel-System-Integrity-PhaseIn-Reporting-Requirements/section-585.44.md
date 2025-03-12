@@ -1,0 +1,3 @@
+##### § 585.44 Response to inquiries. #####
+
+During the production years ending August 31, 2007, August 31, 2008, and August 31, 2009, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model, and vehicle identification number) that have been certified as complying with the requirements of S6.2(b) of Standard No. 301. The manufacturer's designation of a vehicle as a certified vehicle is irrevocable.

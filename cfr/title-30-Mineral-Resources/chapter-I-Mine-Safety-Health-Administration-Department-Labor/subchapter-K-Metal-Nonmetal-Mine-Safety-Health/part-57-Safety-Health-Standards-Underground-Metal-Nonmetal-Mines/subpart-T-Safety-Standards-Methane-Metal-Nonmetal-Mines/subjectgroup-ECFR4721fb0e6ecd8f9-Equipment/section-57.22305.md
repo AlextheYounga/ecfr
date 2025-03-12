@@ -1,0 +1,3 @@
+##### § 57.22305 Approved equipment (III mines). #####
+
+Equipment used in or beyond the last open crosscut and equipment used in areas where methane may enter the air current, such as pillar recovery workings, longwall faces and shortwall faces, shall be approved by MSHA under the applicable requirements of 30 CFR parts 18 through 36. Equipment shall not be operated in atmospheres containing 1.0 percent or more methane.

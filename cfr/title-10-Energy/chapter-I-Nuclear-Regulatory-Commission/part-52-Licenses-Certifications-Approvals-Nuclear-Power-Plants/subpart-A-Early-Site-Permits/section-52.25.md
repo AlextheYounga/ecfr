@@ -1,0 +1,3 @@
+##### § 52.25 Extent of activities permitted. #####
+
+If the activities authorized by § 52.24(c) are performed and the site is not referenced in an application for a construction permit or a combined license issued under subpart C of this part while the permit remains valid, then the early site permit remains in effect solely for the purpose of site redress, and the holder of the permit shall redress the site in accordance with the terms of the site redress plan required by § 52.17(c). If, before redress is complete, a use not envisaged in the redress plan is found for the site or parts thereof, the holder of the permit shall carry out the redress plan to the greatest extent possible consistent with the alternate use.

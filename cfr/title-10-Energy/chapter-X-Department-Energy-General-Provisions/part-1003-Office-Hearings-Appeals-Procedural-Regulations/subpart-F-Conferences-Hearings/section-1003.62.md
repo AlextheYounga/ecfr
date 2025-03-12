@@ -1,0 +1,21 @@
+##### § 1003.62 Hearings. #####
+
+(a) The OHA in its discretion may direct that a hearing be convened on its own initiative or upon request by a person, when it appears that such hearing will materially advance the proceeding. All hearings convened pursuant to this subpart shall be conducted by the Director of the OHA or his designee. The determination as to who may attend a hearing convened under this subpart shall be in the discretion of OHA. Hearings will be open to the public, but may be closed at the discretion of OHA if the reason is put in the record.
+
+(b) A hearing may be requested by an applicant, appellant, or any other person who would be aggrieved by the OHA action sought. The request shall be in writing and shall include a specific showing as to why such hearing will materially advance the proceeding. The request shall be addressed to the OHA at the address provided in § 1003.11.
+
+(c) A hearing may be convened only after actual notice of the time, place, and nature of the hearing is provided both to the applicant or appellant and to any other person readily identifiable by the OHA as one who would be aggrieved by the OHA action involved. The notice shall include, as appropriate:
+
+(1) A statement that such person may participate in the hearing; or
+
+(2) A statement that such person may request a separate conference or hearing regarding the application or appeal.
+
+(d) When a hearing is convened in accordance with this section, each person may present views as to the issue or issues involved. Documentary evidence may be presented at the hearing, but will be treated as if submitted in the regular course of the proceeding. A transcript of the hearing will be prepared.
+
+(e) If material factual issues remain in dispute after an application or appeal has been filed, the Director of the OHA or his designee may issue an order convening an evidentiary hearing in which witnesses shall testify under oath, subject to cross-examination, for the record and in the presence of a Presiding Officer. A Motion for Evidentiary Hearing should specify the type of witness or witnesses whose testimony is sought, the scope of questioning that is anticipated, and the relevance of the questioning to the proceeding. A motion may be summarily denied for lack of sufficient specificity, because an evidentiary hearing would place an undue burden on another person or the DOE, or because an evidentiary hearing would cause undue delay.
+
+(f) A Motion for Evidentiary Hearing must be served on any person from whom information is sought and on parties to the underlying administrative action. Any person who wishes to respond to a Motion for Evidentiary Hearing must do so within ten days of service.
+
+(g) In reaching a decision with respect to a request for a hearing or motion filed under this subpart, the OHA shall consider all relevant information in the record. If an order is issued granting a hearing or evidentiary hearing, in whole or in part, the order shall specify the parties, any limitations on the participation of a party, and the issues to be considered. An order of the OHA issued under this section is an interlocutory order which is subject to further administrative review or appeal only upon issuance of a final Decision and Order in the proceeding concerned.
+
+(h) At any evidentiary hearing, the parties shall have the opportunity to present material evidence that directly relates to a particular issue set forth for hearing. The Presiding Officer may administer oaths or affirmations, rule on objections to the presentation of evidence, receive relevant material, require the advance submission of documents offered as evidence, dispose of procedural requests, determine the format of the hearing, modify any order granting a Motion for Evidentiary Hearing, direct that written motions, documents or briefs be filed with respect to issues raised during the course of the hearing, ask questions of witnesses, issue subpoenas, direct that documentary evidence be served upon other parties (under protective order if such evidence is deemed confidential) and otherwise regulate the conduct of the hearing.

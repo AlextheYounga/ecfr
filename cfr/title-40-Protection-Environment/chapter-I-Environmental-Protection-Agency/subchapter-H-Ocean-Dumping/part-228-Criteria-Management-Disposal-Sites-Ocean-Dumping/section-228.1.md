@@ -1,0 +1,3 @@
+##### § 228.1 Applicability. #####
+
+The criteria of this part 228 are established pursuant to section 102 of the Act and apply to the evaluation of proposed ocean dumping under title I of the Act. The criteria of this part 228 deal with the evaluation of the proposed dumping of material in ocean waters in relation to continuing requirements for effective management of ocean disposal sites to prevent unreasonable degradation of the marine environment from all wastes being dumped in the ocean. This part 228 is applicable to dredged material disposal sites only as specified in §§ 228.4(e), 228.9, and 228.12.

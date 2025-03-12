@@ -1,0 +1,7 @@
+##### § 655.21 Filings and communications with the U.S. Treasury, the SEC, and NYSE. #####
+
+(a) The Corporation must send us one paper and one electronic copy of every filing made with U.S. Treasury, the SEC, or NYSE, including financial statements and related schedules, exhibits, and other documents that are a part of the filing. Such items must be filed with us no later than 1 business day after the U.S. Treasury, SEC, or NYSE filing. For those filings with the NYSE that duplicate ones made to the SEC, the Corporation may send only the SEC filing to us. If the filing is one addressed in subpart B of this part, no action under this paragraph is required.
+
+(b) The Corporation must send us, within 3 business days and according to instructions provided by us, copies of all substantive correspondence between the Corporation and the U.S. Treasury, the SEC, or NYSE that are directed at the activities of the Corporation.
+
+(c) The Corporation must notify us within 1 business day if it becomes exempt or claims exemption from the filing requirements of the Securities Act. Notice is not required when the Corporation claims an exemption that is generally available under SEC rules and regulations to similarly situated filers.

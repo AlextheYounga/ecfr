@@ -1,0 +1,3 @@
+##### § 770.6 May interested persons and entities request that real property at defense nuclear facilities be transferred for economic development? #####
+
+Any person or entity may request that specific real property be made available for transfer for economic development pursuant to procedures in § 770.7. A person or entity must submit such a request in writing to the Field Office Manager who is responsible for the real property.

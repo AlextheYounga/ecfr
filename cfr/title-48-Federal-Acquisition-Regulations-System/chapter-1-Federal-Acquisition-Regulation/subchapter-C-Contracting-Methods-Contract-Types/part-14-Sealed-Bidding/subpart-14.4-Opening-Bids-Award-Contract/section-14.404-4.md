@@ -1,0 +1,5 @@
+##### 14.404-4 Restrictions on disclosure of descriptive literature. #####
+
+When a bid is accompanied by descriptive literature (as defined in 2.101), and the bidder imposes a restriction that prevents the public disclosure of such literature, the restriction may render the bid nonresponsive. The restriction renders the bid nonresponsive if it prohibits the disclosure of sufficient information to permit competing bidders to know the essential nature and type of the products offered or those elements of the bid that relate to quantity, price, and delivery terms. The provisions of this paragraph do not apply to unsolicited descriptive literature submitted by a bidder if such literature does not qualify the bid (see 14.202-5(e)).
+
+[48 FR 42171, Sept. 19, 1983, as amended at 67 FR 13056, Mar. 20, 2002]

@@ -1,0 +1,3 @@
+##### § 921.764 Process for designating areas unsuitable for surface coal mining operations. #####
+
+Part 764 of this chapter, *State Processes for Designating Areas Unsuitable for Surface Coal Mining Operations,* pertaining to petitioning, initial processing, hearing requirements, decisions, data base and inventory systems, public information, and regulatory responsibilities, are applicable in Massachusetts beginning on May 28 1983.

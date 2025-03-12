@@ -1,0 +1,3 @@
+##### § 1331.4 New parties to an agreement. #####
+
+Where a carrier becomes a party to an agreement which has been approved by the Board, such approval will extend to such carrier upon the filing with the Board by the carrier or its authorized agent of a verified statement that it has become a party to the agreement, which statement shall show the information prescribed at § 1331.1(b). Such carrier may provide transportation under joint rates or over through routes, but may not otherwise act with carriers of a different class (as defined at 49. U.S.C. 10706(d)).

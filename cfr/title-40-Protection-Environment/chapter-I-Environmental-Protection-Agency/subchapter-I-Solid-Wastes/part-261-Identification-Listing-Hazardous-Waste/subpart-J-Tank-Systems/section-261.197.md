@@ -1,0 +1,3 @@
+##### § 261.197 Termination of remanufacturing exclusion. #####
+
+Hazardous secondary material stored in units more than 90 days after the unit ceases to operate under the remanufacturing exclusion at 40 CFR 261.4(a)(27) or otherwise ceases to be operated for manufacturing, or for storage of a product or a raw material, then becomes subject to regulation as hazardous waste under parts 261 through 266, 268, 270, 271, and 124 of this chapter, as applicable.

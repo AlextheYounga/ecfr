@@ -1,0 +1,5 @@
+##### § 1.1023 Filing date of an international design application in the United States. #####
+
+(a) Subject to paragraph (b) of this section, the filing date of an international design application in the United States is the date of international registration determined by the International Bureau under the Hague Agreement (35 U.S.C. 384 and 381(a)(5)).
+
+(b) Where the applicant believes the international design application is entitled under the Hague Agreement to a filing date in the United States other than the date of international registration, the applicant may petition the Director under this paragraph to accord the international design application a filing date in the United States other than the date of international registration. Such petition must be accompanied by the fee set forth in § 1.17(f) and include a showing to the satisfaction of the Director that the international design application is entitled to such filing date.

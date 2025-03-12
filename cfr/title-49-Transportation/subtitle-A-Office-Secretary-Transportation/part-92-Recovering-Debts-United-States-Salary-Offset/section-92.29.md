@@ -1,0 +1,3 @@
+##### § 92.29 Limitation on amount of deductions. #####
+
+The size and frequency of installment deductions shall bear a reasonable relation to the size of the debt and the employee's ability to pay. However, the amount deducted for any period may not exceed 15 percent of the disposable pay from which the deduction is made, unless the employee has agreed in writing to the deduction of a greater amount.

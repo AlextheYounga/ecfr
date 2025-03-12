@@ -1,0 +1,7 @@
+##### § 9.14 Deposit of securities with state authorities. #####
+
+(a) *In general.* If state law requires corporations acting in a fiduciary capacity to deposit securities with state authorities for the protection of private or court trusts, then before a national bank acts as a private or court-appointed trustee in that state, it shall make a similar deposit with state authorities. If the state authorities refuse to accept the deposit, the bank shall deposit the securities with the Federal Reserve Bank of the district in which the national bank is located, to be held for the protection of private or court trusts to the same extent as if the securities had been deposited with state authorities.
+
+(b) *Acting in a fiduciary capacity in more than one state.* If a national bank acts in a fiduciary capacity in more than one state, the bank may compute the amount of securities that are required to be deposited for each state on the basis of the amount of assets for which the bank is acting in a fiduciary capacity at offices located in that state. If state law requires a deposit of securities on a basis other than assets (*e.g.,* a requirement to deposit a fixed amount or an amount equal to a percentage of capital), the bank may compute the amount of deposit required in that state on a pro-rated basis, according to the proportion of fiduciary assets for which the bank is acting in a fiduciary capacity at offices located in that state.
+
+[61 FR 68554, Dec. 30, 1996, as amended at 66 FR 34798, July 2, 2001]

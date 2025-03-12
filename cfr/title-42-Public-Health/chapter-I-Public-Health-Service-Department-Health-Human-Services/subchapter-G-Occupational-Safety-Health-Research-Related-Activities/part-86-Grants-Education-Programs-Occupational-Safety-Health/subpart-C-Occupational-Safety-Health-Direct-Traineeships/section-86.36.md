@@ -1,0 +1,3 @@
+##### § 86.36 Duration and continuation. #####
+
+Direct traineeship awards may be made for varying periods not in excess of 2 years. The Secretary may make one or more continuation awards for an additional period if he finds that satisfactory progress is being made toward accomplishment of the purpose of the initial traineeship award. Additional support may be provided on appropriate justification after expiration of the period of support in the previous award.

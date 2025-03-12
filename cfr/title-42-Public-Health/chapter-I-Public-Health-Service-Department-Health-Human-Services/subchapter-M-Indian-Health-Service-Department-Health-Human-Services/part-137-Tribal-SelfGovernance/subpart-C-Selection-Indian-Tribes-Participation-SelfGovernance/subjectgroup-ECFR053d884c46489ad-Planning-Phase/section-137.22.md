@@ -1,0 +1,3 @@
+##### § 137.22 May the Secretary consider uncorrected significant and material audit exceptions identified regarding centralized financial and administrative functions? #####
+
+Yes, if the Indian Tribe chooses to centralize its self-determination or self-governance financial and administrative functions with non-self-determination or non-self-governance financial and administrative functions, such as personnel, payroll, property management, etc., the Secretary may consider uncorrected significant and material audit exceptions related to the integrity of a cross-cutting centralized function in determining the Indian Tribe's eligibility for participation in the self-governance program.

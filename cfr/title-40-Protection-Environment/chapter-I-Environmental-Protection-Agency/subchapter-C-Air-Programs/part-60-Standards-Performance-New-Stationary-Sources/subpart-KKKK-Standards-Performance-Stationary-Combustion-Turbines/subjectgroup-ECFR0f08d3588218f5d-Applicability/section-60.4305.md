@@ -1,0 +1,5 @@
+##### § 60.4305 Does this subpart apply to my stationary combustion turbine? #####
+
+(a) If you are the owner or operator of a stationary combustion turbine with a heat input at peak load equal to or greater than 10.7 gigajoules (10 MMBtu) per hour, based on the higher heating value of the fuel, which commenced construction, modification, or reconstruction after February 18, 2005, your turbine is subject to this subpart. Only heat input to the combustion turbine should be included when determining whether or not this subpart is applicable to your turbine. Any additional heat input to associated heat recovery steam generators (HRSG) or duct burners should not be included when determining your peak heat input. However, this subpart does apply to emissions from any associated HRSG and duct burners.
+
+(b) Stationary combustion turbines regulated under this subpart are exempt from the requirements of subpart GG of this part. Heat recovery steam generators and duct burners regulated under this subpart are exempted from the requirements of subparts Da, Db, and Dc of this part.

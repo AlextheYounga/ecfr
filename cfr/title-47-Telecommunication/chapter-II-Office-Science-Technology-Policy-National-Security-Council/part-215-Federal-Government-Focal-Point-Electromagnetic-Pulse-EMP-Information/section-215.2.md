@@ -1,0 +1,3 @@
+##### § 215.2 Assignment of responsibilities. #####
+
+The Executive Agent, NCS, shall be the focal point within the Federal Government for all EMP technical data and studies concerning telecommunications. It shall provide such data and the results of such studies to all appropriate agencies requesting them. It shall coordinate and approve EMP telecommunications tests and studies, and shall keep the National Security Advisor informed regarding such tests and studies being conducted and planned.

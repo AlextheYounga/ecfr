@@ -1,0 +1,3 @@
+##### § 1206.2 Policy. #####
+
+The Board will provide the public with the fullest practicable information regarding its decision-making processes, while protecting individuals' rights and the Board's ability to carry out its responsibilities. Meetings at which the Board members jointly conduct or dispose of official business are presumptively open to the public. The Board will close those meetings in whole or in part only in accordance with the exemptions provided under 5 U.S.C. 552b(c), and only when doing so is in the public interest.

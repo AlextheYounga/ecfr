@@ -1,0 +1,3 @@
+##### § 872.17 What are Tribal share funds? #####
+
+“Tribal share funds” are moneys we distribute to you from your Tribal share of the Fund each Federal fiscal year under section 402(g)(1)(B) of SMCRA. Your Tribal share of the Fund is 50 percent of the reclamation fees we collected and allocated to you, the Indian tribe(s), in the Fund for coal produced in the previous fiscal year from the Indian lands in which you have an interest.

@@ -1,0 +1,3 @@
+##### § 10.4 Policy. #####
+
+It is the policy of the Nuclear Regulatory Commission to carry out its responsibility for the security of the nuclear energy program in a manner consistent with traditional American concepts of justice. To this end, the Commission has established criteria for determining eligibility for access authorization and/or employment clearance and will afford those individuals described in § 10.2 the opportunity for administrative review of questions concerning their eligibility for access authorization and/or employment clearance.

@@ -1,0 +1,15 @@
+##### § 1102.103 Disclosure of requested records. #####
+
+(a) *Initial review.* Requests by individuals for access to records pertaining to them will be referred to the ASC's Privacy Act Officer, who initially will determine whether access will be granted.
+
+(b) *Grant of request for access.* (1) If it is determined that a request for access to records pertaining to an individual will be granted, the individual will be advised by mail that access will be given at the ASC or a copy of the requested record will be provided by mail if the individual shall so indicate. Where the individual requests that copies of the record be mailed to or her or requests copies of a record upon reviewing it at the ASC, the individual shall pay the cost of making requested copies, as set forth in § 1102.109 of this subpart.
+
+(2) In granting access to an individual to a record pertaining to him or her, the ASC staff shall take steps to prevent the unauthorized disclosure of information pertaining to other individuals.
+
+(c) *Denial of request for access.* If it is determined that access will not be granted, the individual making the request will be notified of that fact and given the reasons why access is being denied. The individual also will be advised of his or her right to seek review by the Executive Director of the initial decision to deny access, in accordance with the procedures set forth in § 1102.107 of this subpart.
+
+(d) *Time for acting on requests for access.* Access to a record pertaining to an individual normally will be granted or denied within 30 days (excluding Saturdays, Sundays, and Federal holidays) after the receipt of the request for access, unless the individual making the request is notified in writing within the 30 day period that, for good cause shown, a longer time is required. In such cases, the individual making the request shall be informed in writing of the difficulties encountered and an indication shall be given as to when it is anticipated that access may be granted or denied.
+
+(e) *Authorization to allow designated person to review and discuss records pertaining to another individual.* An individual, who is granted access to records pertaining to him or her and who appears at the ASC Office to review the records, may be accompanied by another person of his or her choosing. Where the records as to which access has been granted are not required to be disclosed under provisions of the Freedom of Information Act, 5 U.S.C. 552, as amended, the individual requesting the records, before being granted access, shall execute a written statement, signed by him or her, specifically authorizing the latter individual to review and discuss the records. If such authorization has not been given as described, the person who has accompanied the individual making the request will be excluded from any review or discussion of the records.
+
+(f) *Exclusion for certain records.* Nothing contained in these rules shall allow an individual access to any information compiled in reasonable anticipation of an administrative judicial or civil action or proceeding.

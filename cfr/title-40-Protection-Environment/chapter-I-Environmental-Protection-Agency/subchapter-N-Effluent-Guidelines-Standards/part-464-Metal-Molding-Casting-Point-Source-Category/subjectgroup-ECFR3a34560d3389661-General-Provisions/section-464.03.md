@@ -1,0 +1,7 @@
+##### § 464.03 Monitoring and reporting requirements. #####
+
+(a) As an alternative to monitoring for TTO (total toxic organics), an indirect discharging plant may elect to monitor for Oil and Grease instead. Compliance with the Oil and Grease standard shall be considered equivalent to complying with the TTO standard. Alternate Oil and Grease standards are provided as substitutes for the TTO standards provided in §§ 464.15, 464.16, 464.25, 464.26, 464.35, 464.36, 464.45, and 464.46.
+
+(b) POTWs may establish concentration standards rather than mass standards, but must ensure that the concentration standards are exactly equivalent to the mass-based standards provided in §§ 464.15, 464.16, 464.25, 464.26, 464.35, 464.36, 464.45, and 464.46. Equivalent concentration standards may be determined by multiplying the mass-based standards included in the regulations by an appropriate measurement of average production, raw material usage, or air scrubber flow (kkg of metal poured, kkg of sand reclaimed, or standard cubic meters of air scrubbed) and dividing by an appropriate measure of average discharge flow to the POTW, taking into account the proper conversion factors to ensure that the units (mg/l) are correct.
+
+(c) The “monthly average” regulatory values shall be the basis for the monthly average effluent limitations guidelines and standards in direct discharge permits and for pretreatment standards. Compliance with the monthly average effluent limitations guidelines and standards is required regardless of the number of samples analyzed and averaged.

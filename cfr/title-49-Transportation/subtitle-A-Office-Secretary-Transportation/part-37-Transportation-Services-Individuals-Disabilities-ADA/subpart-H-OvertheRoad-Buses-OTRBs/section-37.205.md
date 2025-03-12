@@ -1,0 +1,3 @@
+##### § 37.205 Additional passengers who use wheelchairs. #####
+
+If a number of wheelchair users exceeding the number of securement locations on the bus seek to travel on a trip, the operator shall assign the securement locations on a first come-first served basis. The operator shall offer boarding assistance and the opportunity to sit in a vehicle seat to passengers who are not assigned a securement location. If the passengers who are not assigned securement locations are unable or unwilling to accept this offer, the operator is not required to provide transportation to them on the bus.

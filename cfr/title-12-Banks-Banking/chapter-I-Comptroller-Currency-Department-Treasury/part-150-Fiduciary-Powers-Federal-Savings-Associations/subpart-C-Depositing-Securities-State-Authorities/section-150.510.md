@@ -1,0 +1,3 @@
+##### § 150.510 What must I do if state authorities refuse my deposit? #####
+
+If state authorities refuse to accept your deposit under § 150.490, you must deposit the securities with the Federal Home Loan Bank of which you are a member. The Federal Home Loan Bank will hold the securities for the protection of private or court trusts to the same extent as if the securities had been deposited with state authorities.

@@ -1,0 +1,3 @@
+##### § 839.1114 Will OPM actuarially reduce my benefit if I elect to change my retirement coverage under these rules? #####
+
+Your annuity may be subject to three possible actuarial reductions under the FERCCA. These reductions may be required for an unpaid deposit (see § 831.303(d) and § 839.1116 of this chapter), for Government contributions in a TSP account (see § 839.1118), or for a previous payment of the Basic Employee Death Benefit (see § 839.1121).

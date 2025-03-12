@@ -1,0 +1,3 @@
+##### § 438.224 Confidentiality. #####
+
+The State must ensure, through its contracts, that (consistent with subpart F of part 431 of this chapter), for medical records and any other health and enrollment information that identifies a particular enrollee, each MCO, PIHP, and PAHP uses and discloses such individually identifiable health information in accordance with the privacy requirements in 45 CFR parts 160 and 164, subparts A and E, to the extent that these requirements are applicable.

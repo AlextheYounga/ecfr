@@ -1,0 +1,3 @@
+##### § 32.6533 Testing expense. #####
+
+This account shall include costs incurred in testing telecommunications facilities from a testing facility (test desk or other testing system) to determine the condition of plant on either a routine basis or prior to assignment of the facilities; receiving, recording and analyzing trouble reports; testing to determine the nature and location of reported trouble condition; and dispatching repair persons or otherwise initiating corrective action. (Note also § 32.5999(b)(3) of this subpart.)

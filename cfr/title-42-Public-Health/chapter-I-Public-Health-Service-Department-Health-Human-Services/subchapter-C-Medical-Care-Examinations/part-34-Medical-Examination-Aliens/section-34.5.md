@@ -1,0 +1,3 @@
+##### § 34.5 Postponement of medical examination. #####
+
+Whenever, upon an examination, the medical examiner is unable to determine the physical or mental condition of an alien, completion of the medical examination shall be postponed for such observation and further examination of the alien as may be reasonably necessary to determine his/her physical or mental condition. The examination shall be postponed for aliens who have an acute infectious disease until the condition is resolved. The alien shall be referred for medical care as necessary.

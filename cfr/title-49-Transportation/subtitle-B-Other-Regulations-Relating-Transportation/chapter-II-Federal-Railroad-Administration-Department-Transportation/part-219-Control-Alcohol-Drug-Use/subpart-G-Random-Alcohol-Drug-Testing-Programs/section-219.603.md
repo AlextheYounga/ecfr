@@ -1,0 +1,3 @@
+##### § 219.603 Participation in drug testing. #####
+
+A railroad shall, under the conditions specified in this subpart and subpart H of this part, require a covered employee selected through the random testing program to cooperate in urine testing to determine compliance with § 219.102, and the employee must provide the required specimen and complete the required paperwork and certifications. Compliance by the employee may be excused only in the case of a documented medical or family emergency.

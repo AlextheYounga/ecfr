@@ -1,0 +1,3 @@
+##### § 603.855 Protected data. #####
+
+In accordance with law and regulation, the contracting officer must not release or disclose data marked with a restrictive legend (as specified in 603.850) to third parties, unless they are parties authorized by the award agreement or the terms of the legend to receive the data and are subject to a written obligation to treat the data in accordance with the marking.

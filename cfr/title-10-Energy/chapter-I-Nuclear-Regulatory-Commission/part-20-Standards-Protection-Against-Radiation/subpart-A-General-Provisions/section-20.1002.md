@@ -1,0 +1,5 @@
+##### § 20.1002 Scope. #####
+
+The regulations in this part apply to persons licensed by the Commission to receive, possess, use, transfer, or dispose of byproduct, source, or special nuclear material or to operate a production or utilization facility under parts 30 through 36, 39, 40, 50, 52, 60, 61, 63, 70, or 72 of this chapter, and in accordance with 10 CFR 76.60 to persons required to obtain a certificate of compliance or an approved compliance plan under part 76 of this chapter. The limits in this part do not apply to doses due to background radiation, to exposure of patients to radiation for the purpose of medical diagnosis or therapy, to exposure from individuals administered radioactive material and released under § 35.75, or to exposure from voluntary participation in medical research programs.
+
+[72 FR 49485, Aug. 28, 2007]

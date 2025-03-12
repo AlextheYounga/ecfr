@@ -1,0 +1,3 @@
+##### § 389.13 Fees for services. #####
+
+Except for photocopy work, the basic fees set forth below provide for documents to be mailed with ordinary first class postage prepaid. If copy is to be transmitted by registered, certified, air, or special delivery mail, postal fees therefor will be added to the basic fee. Also, if special handling or packaging is required, costs therefor will be added to the basic fee. For photocopy work, postage will be in addition to the fee for copying.

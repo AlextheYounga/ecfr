@@ -1,0 +1,3 @@
+##### § 575.503 Who may approve the payment of an extended assignment incentive? #####
+
+An authorized agency official must review and approve the offer of an extended assignment incentive for an employee, including the amount of such incentive. The authorized agency official must be at a higher level than the official who made the initial decision to offer an extended assignment incentive, unless there is no official at a higher level in the agency.

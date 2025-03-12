@@ -1,0 +1,9 @@
+##### § 1003.54 Contents. #####
+
+(a) The application shall contain a full and complete statement of all relevant facts pertaining to the circumstances, act or transaction that is the subject of the application and to the OHA action sought. Such facts shall include the names and addresses of all affected persons (if reasonably ascertainable), a complete statement of the business or other reasons that justify the act or transaction, a description of the acts or transactions that would be affected by the requested action, and a full description of the pertinent provisions and relevant facts contained in any relevant documents. Copies of all contracts, agreements, leases, instruments, and other documents relevant to the application shall be submitted to the OHA upon its request. A copy of the order of which modification or rescission is sought shall be included with the application.
+
+(b) The applicant shall state whether he requests or intends to request that there be a conference regarding the application. Any request not made at the time the application is filed shall be made as soon thereafter as possible. The request and the OHA determination on the request shall be made in accordance with subpart F of this part.
+
+(c) The applicant shall fully describe the events, acts, or transactions that comprise the significantly changed circumstances, as defined in § 1003.55(b)(2), upon which the application is based. The applicant shall state why, if the significantly changed circumstance is new or newly discovered facts, such facts were not or could not have been presented during the process that led to the issuance of the order for which modification or rescission is sought.
+
+(d) The application shall include a discussion of all relevant authorities, including, but not limited to, DOE rules, regulations, and decisions on appeal and exceptions relied upon to support the action sought therein.

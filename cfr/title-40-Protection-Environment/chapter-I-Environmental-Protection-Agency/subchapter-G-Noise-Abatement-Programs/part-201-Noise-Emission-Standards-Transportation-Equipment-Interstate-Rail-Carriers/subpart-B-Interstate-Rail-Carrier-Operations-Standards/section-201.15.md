@@ -1,0 +1,5 @@
+##### § 201.15 Standard for car coupling operations. #####
+
+Effective January 15, 1984, no carrier subject to this regulation shall conduct car coupling operations that exceed an adjusted average maximum A-weighted sound level of 92 dB at any receiving property measurement location, when measured with fast meter response in accordance with Subpart C of this part, except, such coupling will be found in compliance with this standard and the carrier will be considered in compliance, if the railroad demonstrates that the standard is exceeded at the receiving property measurement locations (where the standard was previously exceeded) when cars representative of those found to exceed the standard are coupled at similar locations at coupling speeds of eight miles per hour or less.
+
+[45 FR 1263, Jan. 4, 1980; 47 FR 14709, Apr. 6, 1982]

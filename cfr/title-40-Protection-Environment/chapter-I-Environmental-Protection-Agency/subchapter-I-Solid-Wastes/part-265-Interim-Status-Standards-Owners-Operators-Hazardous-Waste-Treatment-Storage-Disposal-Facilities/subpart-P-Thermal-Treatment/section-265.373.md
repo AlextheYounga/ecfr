@@ -1,0 +1,3 @@
+##### § 265.373 General operating requirements. #####
+
+Before adding hazardous waste, the owner or operator must bring his thermal treatment process to steady state (normal) conditions of operation—including steady state operating temperature—using auxiliary fuel or other means, unless the process is a non-continuous (batch) thermal treatment process which requires a complete thermal cycle to treat a discrete quantity of hazardous waste.

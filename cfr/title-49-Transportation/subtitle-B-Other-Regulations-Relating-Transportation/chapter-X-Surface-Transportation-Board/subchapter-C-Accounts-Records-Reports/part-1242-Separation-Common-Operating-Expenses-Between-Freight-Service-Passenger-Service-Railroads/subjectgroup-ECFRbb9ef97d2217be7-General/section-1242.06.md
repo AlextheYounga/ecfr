@@ -1,0 +1,9 @@
+##### § 1242.06 Instructions for separation. #####
+
+(a) Certain instructions for separating common expense accounts (dependent accounts) between freight and passenger services base the allocation on the proportional freight/passenger separation of other common expense accounts (independent accounts). The dependent account is frequently identified by an “XX” symbol in the natural expense position (first two digits) with corresponding independent accounts also identified by the “XX” natural expense symbol. Unless otherwise stated, the applicable natural expense associated with “XX” symbol shall be the same for both the dependent and independent accounts.
+
+(b) To illustrate, § 1242.10 provides instructions for separating common Way and Structures, Administration—Track accounts (dependent accounts) designated by XX-19-02. The separation is based on certain other common Way and Structures accounts including Roadway—Running, XX-17-10, and Roadway—Switching, XX-18-10.
+
+(c) As § 1242.05 states, the “XX” symbol denotes the following natural expenses for Way and Structures administration functions:
+
+11—Salaries and wages,21—Materials, tools, supplies, fuels, and lubricants,41—Other purchased services, and61—General.These natural expenses shall be individually applied to the separation rules in § 1242.10. In each case, the independent accounts providing the basis for freight/passenger separation of the dependent account shall have the same natural expense designation. For example, the basis of separating account 11-19-02, Salaries and Wages, Way and Structures, Administration—Track, would be based on certain independent accounts including 11-17/18-10, Salaries and Wages, Way and Structures, Running/Switching, Repair and Maintenance, Roadway.

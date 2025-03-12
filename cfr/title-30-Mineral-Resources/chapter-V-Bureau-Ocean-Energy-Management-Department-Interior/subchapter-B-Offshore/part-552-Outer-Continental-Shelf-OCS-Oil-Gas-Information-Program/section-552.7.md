@@ -1,0 +1,23 @@
+##### § 552.7 Privileged and proprietary data and information to be made available to affected States. #####
+
+(a)(1) The Governor of any affected State may designate an appropriate State official to inspect, at a regional location which the Director shall designate, any privileged or proprietary data or information received by the Director regarding any activity in an area adjacent to such State, except that no such inspection shall take place prior to the sale of a lease covering the area in which such activity was conducted.
+
+(2)(i) Except as provided for in 30 CFR 250.197, 550.197, and 551.14, no privileged or proprietary data or information will be transmitted to any affected State unless the lessee who provided the privileged or proprietary data or information agrees in writing to the transmittal of the data or information.
+
+(ii) Except as provided for in 30 CFR 250.197, 550.197, and 551.14, no privileged or proprietary data or information will be transmitted to any affected State unless the permittee and all persons to whom the permittee has sold the data or information under promise of confidentiality agree in writing to the transmittal of the data or information.
+
+(3) Knowledge obtained by a State official who inspects data or information under paragraph (a)(1) of this section or who receives data or information under paragraph (a)(2) of this section shall be subject to the requirements and limitations of the Freedom of Information Act (5 U.S.C. 552), the regulations contained in 43 CFR part 2 (Records and Testimony), the Act (92 Stat. 629), the regulations contained in 30 CFR parts 250 and 550 (Oil and Gas and Sulphur Operations in the Outer Continental Shelf), the regulations contained in 30 CFR parts 251 and 551 (Geological and Geophysical Explorations of the Outer Continental Shelf), and the regulations contained in 30 CFR parts 252 and 552 (Outer Continental Shelf Oil and Gas Information Program).
+
+(4) Prior to the transmittal of any privileged or proprietary data or information to any State, or the grant of access to a State official to such data or information, the Secretary shall enter into a written agreement with the Governor of the State in accordance with section 26(e) of the Act (43 U.S.C. 1352). In that agreement the State shall agree, as a condition precedent to receiving or being granted access to such data or information to:
+
+(i) Protect and maintain the confidentiality of privileged or proprietary data and information in accordance with the laws and regulations listed in paragraph (a)(3) of this section;
+
+(ii) Waive the defenses as set forth in paragraph (b)(2) of this section; and
+
+(iii) Hold the United States harmless from any violations of the agreement to protect the confidentiality of privileged or proprietary data or information by the State or its employees or contractors.
+
+(b)(1) Whenever any employee of the Federal Government or of any State reveals in violation of the Act or of the provisions of the regulations implementing the Act, privileged or proprietary data or information obtained pursuant to the regulations in this chapter, the lessee or permittee who supplied such information to the Director or any other Federal official, and any person to whom such lessee or permittee has sold such data or information under the promise of confidentiality, may commence a civil action for damages in the appropriate district court of the United States against the Federal Government or such State, as the case may be. Any Federal or State employee who is found guilty of failure to comply with any of the requirements of this section shall be subject to the penalties described in section 24 of the Act (43 U.S.C. 1350).
+
+(2) In any action commenced against the Federal Government or a State pursuant to paragraph (b)(1) of this section, the Federal Government or such State, as the case may be, may not raise as a defense any claim of sovereign immunity, or any claim that the employee who revealed the privileged or proprietary data or information which is the basis of such suit was acting outside the scope of the person's employment in revealing such data or information.
+
+(c) If the Director finds that any State cannot or does not comply with the conditions described in the agreement entered into pursuant to paragraph (a)(4) of this section, the Director shall thereafter withhold transmittal and deny access for inspection of privileged or proprietary data or information to such State until the Director finds that such State can and will comply with those conditions.

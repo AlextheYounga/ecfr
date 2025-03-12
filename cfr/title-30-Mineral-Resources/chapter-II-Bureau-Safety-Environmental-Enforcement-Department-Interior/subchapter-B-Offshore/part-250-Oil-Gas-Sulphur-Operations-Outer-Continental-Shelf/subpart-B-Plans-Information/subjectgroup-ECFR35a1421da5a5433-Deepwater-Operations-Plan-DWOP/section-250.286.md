@@ -1,0 +1,5 @@
+##### § 250.286 What is a DWOP? #####
+
+(a) A DWOP is a plan that provides sufficient information for BSEE to review a deepwater development project, and any other project that uses non-conventional production or completion technology, from a total system approach. The DWOP does not replace, but supplements other submittals required by the regulations such as BOEM Exploration Plans, Development and Production Plans, and Development Operations Coordination Documents. BSEE will use the information in your DWOP to determine whether the project will be developed in an acceptable manner, particularly with respect to operational safety and environmental protection issues involved with non-conventional production or completion technology.
+
+(b) The DWOP process consists of two parts: a Conceptual Plan and the DWOP. Section 250.289 prescribes what the Conceptual Plan must contain, and § 250.292 prescribes what the DWOP must contain.

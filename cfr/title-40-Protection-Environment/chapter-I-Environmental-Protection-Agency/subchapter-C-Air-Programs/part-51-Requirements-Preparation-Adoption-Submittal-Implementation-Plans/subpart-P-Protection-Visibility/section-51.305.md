@@ -1,0 +1,5 @@
+##### § 51.305 Monitoring for reasonably attributable visibility impairment. #####
+
+For the purposes of addressing reasonably attributable visibility impairment, if the Administrator, Regional Administrator, or the affected Federal Land Manager has advised a State containing a mandatory Class I Federal area of a need for monitoring to assess reasonably attributable visibility impairment at the mandatory Class I Federal area in addition to the monitoring currently being conducted to meet the requirements of § 51.308(d)(4), the State must include in the next implementation plan revision to meet the requirement of § 51.308(f) an appropriate strategy for evaluating reasonably attributable visibility impairment in the mandatory Class I Federal area by visual observation or other appropriate monitoring techniques. Such strategy must take into account current and anticipated visibility monitoring research, the availability of appropriate monitoring techniques, and such guidance as is provided by the Agency.
+
+[82 FR 3124, Jan. 10, 2017]

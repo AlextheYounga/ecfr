@@ -1,0 +1,3 @@
+##### § 890.1005 Time limits for OPM to initiate mandatory debarments. #####
+
+OPM shall send a provider a written notice of a proposed mandatory debarment within 6 years of the event that forms the basis for the debarment. If the basis for the proposed debarment is a conviction, the notice shall be sent within 6 years of the date of the conviction. If the basis is another agency's suspension, debarment, or exclusion, the OPM notice shall be sent within 6 years of the effective date of the other agency's action.

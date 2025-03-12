@@ -1,0 +1,5 @@
+##### 1315.604 Agency points of contact. #####
+
+(a) Unsolicited proposals are to be submitted to the appropriate DOC contracting office. Any person or entity considering the submission of an unsolicited proposal should first determine, based on the subject matter of the proposal, to which DOC operating unit the proposal applies. Proposers should contact the applicable operating unit contracting office to determine procedures for submission and to whom to send the proposal.
+
+(b) Program offices must immediately transmit any unsolicited proposals sent to them to their contracting office. If there is a question concerning which operating unit should evaluate an unsolicited proposal, the contracting office shall identify the proper office, in coordination with the Office of Acquisition Management, if necessary, and transmit the proposal to the applicable contracting office.

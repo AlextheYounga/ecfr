@@ -1,0 +1,3 @@
+##### § 599.503 Access to records. #####
+
+The Administrator shall have the right to enter onto the premises of manufacturers, dealers, salvage auctions and disposal facilities during normal business hours in order to: access, inspect and audit records and other sources of information maintained by any of these entities under this Program; to inspect vehicles traded in or sold under this program, including taking all actions necessary to determine whether trade-in vehicles have operative engines; and/or to interview persons who may have relevant knowledge.

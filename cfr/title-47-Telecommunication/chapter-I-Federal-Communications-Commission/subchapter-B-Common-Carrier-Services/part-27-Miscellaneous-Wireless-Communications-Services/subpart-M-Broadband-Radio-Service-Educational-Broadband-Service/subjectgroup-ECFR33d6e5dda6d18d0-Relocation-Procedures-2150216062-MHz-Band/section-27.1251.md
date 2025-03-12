@@ -1,0 +1,23 @@
+##### § 27.1251 Mandatory negotiations. #####
+
+(a) Once mandatory negotiations have begun, a BRS licensee may not refuse to negotiate and all parties are required to negotiate in good faith. Good faith requires each party to provide information to the other that is reasonably necessary to facilitate the relocation process. The BRS licensee is required to cooperate with an AWS licensee's request to provide access to the facilities to be relocated, other than the BRS customer location, so that an independent third party can examine the BRS system and prepare an appraisal of the costs to relocate the incumbent. In evaluating claims that a party has not negotiated in good faith, the FCC will consider, *inter alia,* the following factors:
+
+(1) Whether the AWS licensee has made a bona fide offer to relocate the BRS licensee to comparable facilities in accordance with § 27.1252(b);
+
+(2) If the BRS licensee has demanded a premium, the type of premium requested (*e.g.*, whether the premium is directly related to relocation, such as analog-to-digital conversions, versus other types of premiums), and whether the value of the premium as compared to the cost of providing comparable facilities is disproportionate (*i.e.*, whether there is a lack of proportion or relation between the two);
+
+(3) What steps the parties have taken to determine the actual cost of relocation to comparable facilities;
+
+(4) Whether either party has withheld information requested by the other party that is necessary to estimate relocation costs or to facilitate the relocation process.
+
+(b) Any party alleging a violation of our good faith requirement must attach an independent estimate of the relocation costs in question to any documentation filed with the Commission in support of its claim. An independent cost estimate must include a specification for the comparable facility and a statement of the costs associated with providing that facility to the incumbent licensee.
+
+(c) Mandatory negotiations will commence for each BRS licensee when the AWS licensee informs the BRS licensee in writing of its desire to negotiate. Mandatory negotiations will be conducted with the goal of providing the BRS licensee with comparable facilities, defined as facilities possessing the following characteristics:
+
+(1) *Throughput.* Communications throughput is the amount of information transferred within a system in a given amount of time. System is defined as a base station and all end user units served by that base station. If analog facilities are being replaced with analog, comparable facilities may provide a comparable number of channels. If digital facilities are being replaced with digital, comparable facilities provide equivalent data loading bits per second (bps).
+
+(2) *Reliability.* System reliability is the degree to which information is transferred accurately within a system. Comparable facilities provide reliability equal to the overall reliability of the BRS system. For digital systems, reliability is measured by the percent of time the bit error rate (BER) exceeds a desired value, and for analog or digital video transmission, it is measured by whether the end-to-end transmission delay is within the required delay bound. If an analog system is replaced with a digital system, only the resulting frequency response, harmonic distortion, signal-to-noise ratio and its reliability will be considered in determining comparable reliability.
+
+(3) *Operating Costs.* Operating costs are the cost to operate and maintain the BRS system. AWS licensees would compensate BRS licensees for any increased recurring costs associated with the replacement facilities (*e.g.*, additional rental payments, and increased utility fees) for five years after relocation. AWS licensees could satisfy this obligation by making a lump-sum payment based on present value using current interest rates. Additionally, the maintenance costs to the BRS licensee would be equivalent to the replaced system in order for the replacement system to be comparable.
+
+(d) AWS licensees are responsible for the relocation costs of end user units served by the BRS base station that is being relocated. If a lessee is operating under a BRS license, the BRS licensee may rely on the throughput, reliability, and operating costs of facilities in use by a lessee in negotiating comparable facilities and may include the lessee in negotiations.

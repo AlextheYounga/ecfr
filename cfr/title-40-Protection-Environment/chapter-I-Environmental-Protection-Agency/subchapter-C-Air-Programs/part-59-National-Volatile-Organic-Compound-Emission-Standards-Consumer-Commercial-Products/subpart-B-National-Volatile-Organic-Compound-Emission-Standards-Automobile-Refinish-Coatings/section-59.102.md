@@ -1,0 +1,5 @@
+##### § 59.102 Standards. #####
+
+(a) Except as provided in § 59.106 of this subpart, any coating resulting from the mixing instructions of a regulated entity must meet the VOC content limit given in table 1 of this subpart. VOC content is determined according to § 59.104(a).
+
+(b) Different combinations or mixing ratios of coating components constitute different coatings. For example, coating components may be mixed one way to make a primer, and mixed another way to make a primer sealer. Each of these coatings must meet its corresponding VOC content limit in table 1 of this subpart. If the same combination and mixing ratio of coating components is recommended by a regulated entity for use in more than one category in table 1 of this subpart, then the most restrictive VOC content limit shall apply.

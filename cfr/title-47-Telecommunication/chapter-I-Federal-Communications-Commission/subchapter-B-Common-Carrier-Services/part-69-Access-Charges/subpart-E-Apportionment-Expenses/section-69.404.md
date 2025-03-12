@@ -1,0 +1,3 @@
+##### § 69.404 Telephone operator services expenses in Account 6620. #####
+
+Telephone Operator Services expenses shall be apportioned among the interexchange category, and the Local Switching and Information elements based on the relative number of weighted standard work seconds. For those companies who contract with another company for the provision of these services, the expenses incurred shall be directly assigned among the interexchange category and the Local Switching and Information elements on the basis of the bill rendered for the services provided.

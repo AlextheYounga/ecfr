@@ -1,0 +1,5 @@
+##### § 792.101 Statutory requirements. #####
+
+Sections 7361 and 7362 of title 5, United States Code, provide that the Office of Personnel Management is responsible for developing and maintaining, in cooperation with the Secretary of the Department of Health and Human Services and with other agencies, appropriate prevention, treatment, and rehabilitation programs and services for Federal civilian employees with alcohol and drug abuse problems. To the extent feasible, agencies are encouraged to extend services to families (including domestic partners and their children) of alcohol and/or drug abusing employees and to employees who have family members (including domestic partners and their children) who have alcohol and/or drug problems. Such programs and services should make optimal use of existing Government facilities, services, and skills.
+
+[77 FR 42907, July 20, 2012]

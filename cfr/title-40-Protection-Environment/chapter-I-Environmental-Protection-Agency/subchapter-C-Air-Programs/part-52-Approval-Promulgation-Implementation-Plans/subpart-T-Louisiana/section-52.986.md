@@ -1,0 +1,9 @@
+##### § 52.986 Significant deterioration of air quality. #####
+
+(a) The plan submitted by the Governor of Louisiana on August 14, 1984 (as adopted by the Secretary of Louisiana Department of Environmental Quality (LDEQ) on May 23, 1985), July 26, 1988 (as revised and adopted by the LDEQ on May 5, 1988), and October 26, 1990 (as revised and adopted by the LDEQ on July 20, 1990), LAC:33:III: § 509 Prevention of Significant Deterioration (PSD) and its Supplement documents, is approved as meeting the requirements of Part C, Clean Air Act for preventing significant deterioration of air quality.
+
+(b) The requirements of sections 160 through 165 of the Clean Air Act are not met for federally designated Indian lands since the plan (specifically LAC: 33:III:509.A.1) excludes all federally recognized Indian lands from the provisions of this regulation. Therefore, the provisions of § 52.21 except paragraph (a)(1) are hereby incorporated and made a part of the applicable implementation plan, and are applicable to sources located on land under the control of Indian governing bodies.
+
+(c) The revisions to the Louisiana SIP adopted on April 20, 2011, and submitted on December 21, 2011, establishing PSD permitting requirements for sources that are classified as major and thus required to obtain a PSD permit based solely on their potential GHG emissions (“Step 2” sources) at the definition of “major stationary source” paragraph (c) and the definition of “significant” at LAC 33:III.509(B), are disapproved as inconsistent with federal law for the regulation and permitting of GHGs.
+
+[56 FR 20139, May 2, 1991, as amended at 68 FR 11323, Mar. 10, 2003; 68 FR 74489, Dec. 24, 2003; 75 FR 82555, Dec. 30, 2010; 81 FR 46608, July 18, 2016]

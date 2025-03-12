@@ -1,0 +1,15 @@
+##### 950.7002 Definitions. #####
+
+*DOE contractor* means any DOE prime contractor, including any agency of the Federal Government with which DOE has entered into an interagency agreement.
+
+*Nuclear incident* means any occurrence, including an extraordinary nuclear occurrence, within the United States causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material. The term includes any such occurrence outside the United States if such occurrence involves source, special nuclear, or byproduct material owned by, and used by or under contract with, the United States.
+
+*Person indemnified* means—
+
+(1) With respect to a nuclear incident occurring within the United States or outside the United States as the term is defined above and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, the person with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability; or
+
+(2) With respect to any other nuclear incident occurring outside the United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 170d. of the Atomic Energy Act of 1954, as amended, has been extended or under any subcontract, purchase order, or other agreement, or any tier under any such contract or project.
+
+*Public liability* means any legal liability arising out of or resulting from a nuclear incident or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or precautionary evacuation), except: (1) Claims under State or Federal workmen's compensation acts of employees of persons indemnified who are employed at the site of and in connection with the activity where the nuclear incident occurs; (2) claims arising out of an act of war; and (3) whenever used in subsections a., c., and k. of section 170 of the Atomic Energy Act of 1954, as amended, claims for loss of, or damage to, or loss of use of property which is located at the site of and used in connection with the licensed activity where the nuclear incident occurs. *Public liability* also includes damage to property of persons indemnified: Provided, that such property is covered under the terms of the financial protection required, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs.
+
+[49 FR 12039, Mar. 28, 1984, as amended at 50 FR 12185, Mar. 27, 1985; 56 FR 57827, Nov. 14, 1991; 74 FR 36368, July 22, 2009]

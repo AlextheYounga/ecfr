@@ -1,0 +1,5 @@
+##### § 52.243 Interim approval of the Carbon Monoxide plan for the South Coast. #####
+
+The Carbon Monoxide plan for the Los Angeles-South Coast Air Basin is approved as meeting the provisions of sections 171(1), 172(c)(2), and 187(a)(7) for quantitative milestones and reasonable further progress, and the provisions of section 187(a)(7) for attainment demonstration. This approval expires on August 7, 1998, or earlier if by such earlier date the State has submitted as a SIP revision a demonstration that the carbon monoxide emission reduction credits for the enhanced motor vehicle inspection and maintenance program are appropriate and that the program is otherwise in compliance with the Clean Air Act and EPA takes final action approving that revision, as provided by section 348(c) of the National Highway System Designation Act (Public Law 104-59).
+
+[63 FR 19662, Apr. 21, 1998]

@@ -1,0 +1,5 @@
+##### § 260.41 Inspection and reporting. #####
+
+(a) Equipment or facilities subject to the provisions of this subpart may be inspected at such times as the Administrator deems necessary to assure compliance with the standards set forth in § 260.39. Each Borrower shall permit representatives of the FRA to enter upon its property to inspect and examine such facilities at reasonable times and in a reasonable manner. Such representatives shall be permitted to use such testing devices as the Administrator deems necessary to insure that the maintenance standards imposed by this subpart are being followed.
+
+(b) Each Borrower shall submit annually to the Administrator financial records and other documents detailing the maintenance and inspections performed which demonstrate that the Borrower has complied with the standards in § 260.39.

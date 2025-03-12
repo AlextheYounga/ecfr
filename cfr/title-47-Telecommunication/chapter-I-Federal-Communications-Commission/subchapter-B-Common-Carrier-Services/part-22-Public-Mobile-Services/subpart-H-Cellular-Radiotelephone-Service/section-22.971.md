@@ -1,0 +1,11 @@
+##### § 22.971 Obligation to abate unacceptable interference. #####
+
+(a) *Strict Responsibility.* Any licensee who, knowingly or unknowingly, directly or indirectly, causes or contributes to causing unacceptable interference to a non-cellular part 90 of this chapter licensee in the 800 MHz band, as defined in § 22.970, shall be strictly accountable to abate the interference, with full cooperation and utmost diligence, in the shortest time practicable. Interfering licensees shall consider all feasible interference abatement measures, including, but not limited to, the remedies specified in the interference resolution procedures set forth in § 22.972(c). This strict responsibility obligation applies to all forms of interference, including out-of-band emissions and intermodulation.
+
+(b) *Joint and several responsibility.* If two or more licensees knowingly or unknowingly, directly or indirectly, cause or contribute to causing unacceptable interference to a non-cellular part 90 of this chapter licensee in the 800 MHz band, as defined in § 22.970, such licensees shall be jointly and severally responsible for abating interference, with full cooperation and utmost diligence, in the shortest practicable time.
+
+(1) This joint and several responsibility rule requires interfering licensees to consider all feasible interference abatement measures, including, but not limited to, the remedies specified in the interference resolution procedures set forth in § 22.972(c). This joint and several responsibility rule applies to all forms of interference, including out-of-band emissions and intermodulation.
+
+(2) Any licensee that can show that its signal does not directly or indirectly, cause or contribute to causing unacceptable interference to a non-cellular part 90 of this chapter licensee in the 800 MHz band, as defined in this chapter, shall not be held responsible for resolving unacceptable interference. Notwithstanding, any licensee that receives an interference complaint from a public safety/CII licensee shall respond to such complaint consistent with the interference resolution procedures set forth in this chapter.
+
+[69 FR 67834, Nov. 22, 2004, as amended at 70 FR 76707, Dec. 28, 2005]

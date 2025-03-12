@@ -1,0 +1,3 @@
+##### 1032.770-2 Definition. #####
+
+“Continuing Resolution” means an appropriation, in the form of a joint resolution, that provides budget authority for federal agencies, specific activities, or both to continue operation until the regular appropriations are enacted. Typically, a continuing resolution is used when legislative action on appropriations is not completed by the beginning of a fiscal year.

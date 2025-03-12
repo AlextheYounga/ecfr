@@ -1,0 +1,5 @@
+##### § 370.45 When must I submit the inventory information? #####
+
+(a) You must submit the required inventory information on or before March 1 (beginning in 1988 or beginning after your facility first becomes subject to this part), and on or before by March 1 of each year afterwards. Your submission must contain the required inventory information on hazardous chemicals present at your facility during the preceding calendar year at or above the threshold levels. Threshold levels are in § 370.10. The minimum required inventory information under EPCRA section 312 is Tier I information. Tier I information requirements are described in § 370.41.
+
+(b) You must submit Tier II information within 30 days of the receipt of a request from the SERC, LEPC, or the fire department having jurisdiction over your facility, as provided in § 370.10(b). Tier II information requirements are described in § 370.42.

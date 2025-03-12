@@ -1,0 +1,3 @@
+##### § 93.209 Funding component. #####
+
+*Funding component* means any organizational unit of the PHS authorized to award grants, contracts, or cooperative agreements for any activity that involves the conduct of biomedical or behavioral research, research training or activities related to that research or research training, e.g., agencies, bureaus, centers, institutes, divisions, or offices and other awarding units within the PHS.

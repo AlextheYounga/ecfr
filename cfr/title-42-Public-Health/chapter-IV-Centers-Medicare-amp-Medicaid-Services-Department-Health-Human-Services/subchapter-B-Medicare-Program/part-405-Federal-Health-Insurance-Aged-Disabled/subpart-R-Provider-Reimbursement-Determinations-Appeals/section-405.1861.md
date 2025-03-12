@@ -1,0 +1,3 @@
+##### § 405.1861 Oral argument and written allegations. #####
+
+The parties, upon their request, shall be allowed a reasonable time for the presentation of oral argument or for the filing of briefs or other written statements of allegations as to facts or law. Copies of any brief or other written statement shall be filed in sufficient number that they may be made available to all parties and to the Centers for Medicare & Medicaid Services.

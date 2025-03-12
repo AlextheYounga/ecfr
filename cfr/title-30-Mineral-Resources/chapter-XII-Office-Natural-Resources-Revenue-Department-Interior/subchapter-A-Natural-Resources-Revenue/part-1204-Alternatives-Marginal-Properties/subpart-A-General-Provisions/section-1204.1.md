@@ -1,0 +1,3 @@
+##### § 1204.1 What is the purpose of this part? #####
+
+This part explains how you as a lessee or designee of a Federal onshore or Outer Continental Shelf (OCS) oil and gas lease may obtain prepayment or accounting and auditing relief for production from certain marginal properties. This part does not apply to production from Indian leases, even if the Indian lease is within an agreement that qualifies as a marginal property.

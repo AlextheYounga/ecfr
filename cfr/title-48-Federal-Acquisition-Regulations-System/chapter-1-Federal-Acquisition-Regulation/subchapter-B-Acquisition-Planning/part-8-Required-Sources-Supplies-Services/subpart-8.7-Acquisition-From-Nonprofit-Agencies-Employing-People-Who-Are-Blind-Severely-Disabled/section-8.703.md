@@ -1,0 +1,7 @@
+##### 8.703 Procurement list. #####
+
+The Committee maintains a Procurement List of all supplies and services required to be purchased from AbilityOne participating nonprofit agencies. The Procurement List may be accessed at: *http://www.abilityone.gov.* Questions concerning whether a supply item or service is on the Procurement List may be submitted at Internet email address *info@abilityone.gov* or referred to the Committee offices at the following address and telephone number: Committee for Purchase From People Who Are Blind or Severely Disabled, 1401 S. Clark Street, Suite 10800, Arlington, VA 22202-3259, 703-603-7740.
+
+Many items on the Procurement List are identified in the General Services Administration (GSA) Supply Catalog and GSA's Customer Service Center Catalogs with a black square and the words “NIB/NISH Mandatory Source,” and in similar catalogs issued by the Defense Logistics Agency (DLA) and the Department of Veterans Affairs (VA). GSA, DLA, and VA are central supply agencies from which other Federal agencies are required to purchase certain supply items on the Procurement List.
+
+[59 FR 67028, Dec. 28, 1994, as amended at 69 FR 34230, June 18, 2004; 73 FR 53995, Sept. 17, 2008; 74 FR 65615, Dec. 10, 2009; 77 FR 204, Jan. 3, 2012; 78 FR 37698, June 21, 2013]

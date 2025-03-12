@@ -1,0 +1,23 @@
+##### § 731.106 Designation of public trust positions and investigative requirements. #####
+
+(a) *Risk designation.* Agency heads must designate every covered position within the agency at a high, moderate, or low risk level as determined by the position's potential for adverse impact to the efficiency or integrity of the service. OPM will provide an example of a risk designation system for agency use in an OPM issuance as described in § 731.102(c).
+
+(b) *Public Trust positions.* Positions at the high or moderate risk levels would normally be designated as “Public Trust” positions. Such positions may involve policy making, major program responsibility, public safety and health, law enforcement duties, fiduciary responsibilities or other duties demanding a significant degree of public trust, and positions involving access to or operation or control of financial records, with a significant risk for causing damage or realizing personal gain.
+
+(c) *Investigative requirements.* (1) Persons receiving an appointment made subject to investigation under this part must undergo a background investigation. OPM is authorized to establish minimum investigative requirements correlating to risk levels. Investigations should be initiated before appointment but no later than 14 calendar days after placement in the position.
+
+(2) All positions subject to investigation under this part must also receive a sensitivity designation of Special-Sensitive, Critical-Sensitive, or Noncritical-Sensitive, when appropriate. This designation is complementary to the risk designation, and may have an effect on the position's investigative requirement. Sections 732.201 and 732.202 of this chapter detail the various sensitivity levels and investigative requirements. Procedures for determining investigative requirements for all positions based upon risk and sensitivity will be published in OPM issuances, as described in §§ 731.102(c) and 732.201(b).
+
+(3) If suitability issues develop prior to the required investigation, OPM or the agency may conduct an investigation sufficient to resolve the issues and support a suitability determination or action, if warranted. If the person is appointed, the minimum level of investigation must be conducted as required by paragraph (c)(1) of this section.
+
+(d) *Reinvestigation requirements.* (1) Agencies must ensure that reinvestigations are conducted and a determination made regarding continued employment of persons occupying public trust positions at least once every 5 years. The nature of these reinvestigations and any additional requirements and parameters will be established in supplemental guidance issued by OPM.
+
+(2) If, prior to the next required reinvestigation, a separate investigation is conducted to determine a person's eligibility (or continued eligibility) for access to classified information or to hold a sensitive position, or as a result of a change in risk level as provided in paragraph (e) of this section, and that investigation meets or exceeds the requirements for a public trust reinvestigation, a new public trust reinvestigation is not required. Such a completed investigation restarts the cycle for a public trust reinvestigation for that person.
+
+(3) Agencies must notify all employees covered by this section of the reinvestigation requirements under this paragraph.
+
+(e) *Risk level changes.* If an employee or appointee experiences a change to a higher position risk level due to promotion, demotion, or reassignment, or the risk level of the employee's or appointee's position is changed to a higher level, the employee or appointee may remain in or encumber the position. Any upgrade in the investigation required for the new risk level should be initiated within 14 calendar days after the promotion, demotion, reassignment or new designation of risk level is final.
+
+(f) *Completed investigations.* Any suitability investigation (or reinvestigation) completed by an agency under paragraphs (d) and (e) of this section must result in a determination by the employing agency of whether the findings of the investigation would justify an action under this part or under another applicable authority, such as part 315, 359, or 752 of this chapter. Section 731.103 addresses whether an agency may take an action under this part, and whether the matter must be referred to OPM for debarment consideration.
+
+[73 FR 20154, Apr. 15, 2008, as amended at 73 FR 66492, Nov. 11, 2008; 76 FR 69608, Nov. 9, 2011]

@@ -1,0 +1,3 @@
+##### § 551.31 Form of communications. #####
+
+Any communication in writing relating to official business (including formal documents) shall be on opaque and durable paper not larger than 9 by 14 inches in size. Tables, charts, or originals of other documents that are attached to communications shall be folded to this size, if possible. The left margin of communications shall be at least 11/2 inches wide, and if a communication is bound, it shall be bound on the left side. All copies submitted shall be legible.

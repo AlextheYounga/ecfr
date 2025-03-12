@@ -1,0 +1,3 @@
+##### § 12.310 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the appropriate official of the paying agency a copy of the Commission's final decision granting the award, accompanied by a certification that the applicant will not seek review of the decision in the United States courts. Where the award is granted against the Commission, the applicant shall make the submission to the Director, Division of Accounting and Finance, Office of the Controller, U.S. Nuclear Regulatory Commission, Washington, DC 20555. The NRC will pay the amount awarded to the applicant within 60 days.

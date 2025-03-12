@@ -1,0 +1,3 @@
+##### § 1830.3 Medical records. #####
+
+When a request for access involves medical records that are not otherwise exempt from disclosure, the requesting individual may be advised, if it is deemed necessary by OSC, that the records will be provided only to a physician designated in writing by the individual. Upon receipt of the designation, the physician will be permitted to review the records or to receive copies by mail upon proper verification of identity.

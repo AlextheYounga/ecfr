@@ -1,0 +1,5 @@
+##### § 4.93 Supervision and coordination. #####
+
+The Commission may from time to time assign to officials of other departments or agencies of the Government, with the consent of the department or agency involved, responsibilities in connection with the effectuation of the purposes of title VI of the Civil Rights Act of 1964 and this subpart, other than responsibility for final decision as provided in § 4.72, including the achievement of effective coordination and maximum uniformity within the NRC and within the Executive Branch of the Government in the application of title VI of the Civil Rights Act and this subpart to similar programs and in similar situations. Any action taken, determination made, or requirement imposed by an official of another department or agency acting pursuant to an assignment of responsibility under this section shall have the same effect as though such action had been taken by the responsible NRC official.
+
+[40 FR 8778, Mar. 3, 1975]

@@ -1,0 +1,3 @@
+##### § 39.95 May PVOs limit their liability for loss of or damage to wheelchairs or other assistive devices? #####
+
+Consistent with any applicable requirements of international law, you must not apply any liability limits with respect to loss of or damage to wheeled mobility assistive devices or other assistive devices. The criterion for calculating the compensation for a lost, damaged, or destroyed wheelchair or other assistive device is the original purchase price of the device.

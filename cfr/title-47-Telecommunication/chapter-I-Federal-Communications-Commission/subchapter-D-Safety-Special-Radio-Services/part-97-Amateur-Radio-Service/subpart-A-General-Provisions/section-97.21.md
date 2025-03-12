@@ -1,0 +1,21 @@
+##### § 97.21 Application for a modified or renewed license grant. #####
+
+(a) A person holding a valid amateur station license grant:
+
+(1) Must apply to the FCC for a modification of the license grant as necessary to show the correct mailing address, licensee name, club name, license trustee name, or license custodian name in accordance with § 1.913 of this chapter. For a club or military recreation station license grant, the application must be presented in document form to a Club Station Call Sign Administrator who must submit the information thereon to the FCC in an electronic batch file. The Club Station Call Sign Administrator must retain the collected information for at least 15 months and make it available to the FCC upon request. A Club Station Call Sign Administrator shall not file with the Commission any application to modify a club station license grant that was submitted by a person other than the trustee as shown on the license grant, except an application to change the club station license trustee. An application to modify a club station license grant to change the license trustee name must be submitted to a Club Station Call Sign Administrator and must be signed by an officer of the club.
+
+(2) May apply to the FCC for a modification of the operator/primary station license grant to show a higher operator class. Applicants must present the administering VEs with all information required by the rules prior to the examination. The VEs may collect all necessary information in any manner of their choosing, including creating their own forms.
+
+(3) May apply to the FCC for renewal of the license grant for another term in accordance with §§ 1.913 and 1.949 of this chapter. Application for renewal of a Technician Plus Class operator/primary station license will be processed as an application for renewal of a Technician Class operator/primary station license.
+
+(i) For a station license grant showing a call sign obtained through the vanity call sign system, the application must be filed in accordance with § 97.19 of this part in order to have the vanity call sign reassigned to the station.
+
+(ii) For a primary station license grant showing a call sign obtained through the sequential call sign system, and for a primary station license grant showing a call sign obtained through the vanity call sign system but whose grantee does not want to have the vanity call sign reassigned to the station, the application must be filed with the FCC in accordance with § 1.913 of this chapter. When the application has been received by the FCC on or before the license expiration date, the license operating authority is continued until the final disposition of the application.
+
+(iii) For a club station or military recreation station license grant showing a call sign obtained through the sequential call sign system, and for a club station license grant showing a call sign obtained through the vanity call sign system but whose grantee does not want to have the vanity call sign reassigned to the station, the application must be presented in document form to a Club Station Call Sign Administrator who must submit the information thereon to the FCC in an electronic batch file. The replacement call sign will be selected by the sequential call sign system. The Club Station Call Sign Administrator must retain the collected information for at least 15 months and make it available to the FCC upon request.
+
+(b) A person whose amateur station license grant has expired may apply to the FCC for renewal of the license grant for another term during a 2 year filing grace period. The application must be received at the address specified above prior to the end of the grace period. Unless and until the license grant is renewed, no privileges in this part are conferred.
+
+(c) Except as provided in paragraph (a)(3) of this section, a call sign obtained under the sequential or vanity call sign system will be reassigned to the station upon renewal or modification of a station license.
+
+[63 FR 68979, Dec. 14, 1998, as amended at 64 FR 53242, Oct. 1, 1999; 65 FR 6550, Feb. 10, 2000; 75 FR 78170, Dec. 15, 2010; 79 FR 35291, July 21, 2014]

@@ -1,0 +1,3 @@
+##### § 304.10 Purpose. #####
+
+This regulation establishes and governs procedures for the arbitration of EPA cost recovery claims arising under section 107(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, 42 U.S.C. 9607(a), as amended by the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99-499, 100 Stat. 1613 (1986) (“CERCLA”), pursuant to the authority granted EPA by section 122(h)(2) of CERCLA, 42 U.S.C. 9622(h)(2), and Executive Order No. 12580, 52 FR 2923 (January 29, 1987).

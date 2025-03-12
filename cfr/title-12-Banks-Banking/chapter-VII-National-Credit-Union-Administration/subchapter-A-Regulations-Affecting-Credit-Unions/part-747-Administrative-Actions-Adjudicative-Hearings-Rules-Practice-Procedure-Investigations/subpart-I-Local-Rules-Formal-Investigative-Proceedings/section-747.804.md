@@ -1,0 +1,3 @@
+##### § 747.804 Oath; false statements. #####
+
+At the discretion of the officer conducting the investigation, testimony of a witness may be taken under oath and administered by the officer. Any person making false statements under oath during the course of a formal investigative proceeding is subject to the criminal penalties for perjury in 18 U.S.C. 1621. Any person who knowingly and willfully makes false and fraudulent statements, whether under oath or otherwise, or who falsifies, conceals or covers up any material fact, or submits any false, fictitious or fraudulent information in connection with such a proceeding, is subject to the criminal penalties set forth in 18 U.S.C. 1001.

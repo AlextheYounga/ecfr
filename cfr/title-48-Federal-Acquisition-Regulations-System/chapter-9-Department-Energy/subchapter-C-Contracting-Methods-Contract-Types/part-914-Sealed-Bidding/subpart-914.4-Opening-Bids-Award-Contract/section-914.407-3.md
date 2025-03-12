@@ -1,0 +1,5 @@
+##### 914.407-3 Other mistakes disclosed before award. #####
+
+(e) Pursuant to 48 CFR 14.407-3(e), the Senior Procurement Executives have been delegated authority by the Secretary to make the determinations under 48 CFR 14.407-3. In the case of mistakes in bids alleged after opening of bids and before award, the Senior Procurement Executives have redelegated this authority to the Heads of Contracting Activities without power of redelegation and to make administrative determinations regarding withdrawal of bids as provided for in 48 CFR 14.407-3, providing that each such determination shall be approved by Legal Counsel.
+
+[49 FR 11954, Mar. 28, 1984, as amended at 56 FR 41964, Aug. 26, 1991; 59 FR 9105, Feb. 25, 1994. Redesignated and amended at 67 FR 14871, Mar. 28, 2002; 74 FR 36363, July 22, 2009; 76 FR 7692, Feb. 11, 2011]

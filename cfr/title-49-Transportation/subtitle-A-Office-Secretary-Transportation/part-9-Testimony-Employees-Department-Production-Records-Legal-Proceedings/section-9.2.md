@@ -1,0 +1,3 @@
+##### § 9.2 Applicability. #####
+
+This part applies to the testimony of an employee in legal proceedings in which the United States is a party. It also applies in legal proceedings between private litigants to requests or demands for testimony or records concerning information acquired in the course of an employee performing official duties or because of the employee's official status. This part does not apply to any legal proceeding in which an employee is to testify as to facts or events that are in no way related to the employee's official duties or the functions of the Department. Nor does it apply to Congressional demands for testimony or documents.

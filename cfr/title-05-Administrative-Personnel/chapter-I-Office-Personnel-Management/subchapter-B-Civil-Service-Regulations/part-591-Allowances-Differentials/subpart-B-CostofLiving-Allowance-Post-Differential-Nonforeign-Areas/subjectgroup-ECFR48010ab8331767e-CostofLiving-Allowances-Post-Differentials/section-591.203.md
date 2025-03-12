@@ -1,0 +1,3 @@
+##### § 591.203 Why does the Government pay post differentials? #####
+
+The Government pays post differentials to certain civilian Federal employees in specified nonforeign areas as a recruitment incentive based on conditions of environment in the local area compared with conditions in the continental United States. Post differentials are designed to attract persons from outside the area to work for the Federal Government in the post differential area.

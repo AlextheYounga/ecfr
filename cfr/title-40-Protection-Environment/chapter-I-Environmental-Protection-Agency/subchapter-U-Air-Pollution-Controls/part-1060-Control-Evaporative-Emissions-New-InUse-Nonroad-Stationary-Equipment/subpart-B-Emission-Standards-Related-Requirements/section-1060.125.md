@@ -1,0 +1,3 @@
+##### § 1060.125 What maintenance instructions must I give to buyers? #####
+
+Give ultimate purchasers written instructions for properly maintaining and using the emission control system. You may not specify any maintenance more frequently than once per year. For example, if you produce cold-weather equipment that requires replacement of fuel cap gaskets or O-rings, provide clear instructions to the ultimate purchaser, including the required replacement interval.

@@ -1,0 +1,5 @@
+##### § 14.41 Payment of approved claims. #####
+
+(a) The NRC shall pay any award, compromise, or settlement in an amount of $2,500 or less made under the provisions of 28 U.S.C. 2672 out of the appropriations available to it. The NRC shall obtain payment of any award, compromise, or settlement in excess of $2,500 from the Department of the Treasury by forwarding Standard Form 1145 to the Payment Branch, Claims Group, General Accounting Office. If an award, compromise, or settlement is in excess of $25,000, Standard Form 1145 must be accompanied by evidence that the award, compromise, or settlement has been approved by the Attorney General or the Attorney General's designee. When the use of Standard Form 1145 is required, it must be executed by the claimant or it must be accompanied by either a claims settlement agreement or a Standard Form 95 executed by the claimant.
+
+(b) If a claimant is represented by an attorney, the voucher for payment must designate both the claimant and his or her attorney as payees, and the check must be delivered to the attorney whose address appears on the voucher.

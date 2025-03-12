@@ -1,0 +1,3 @@
+##### § 708.1 What is the purpose of this part? #####
+
+This part provides procedures for processing complaints by employees of DOE contractors alleging retaliation by their employers for disclosure of information concerning danger to public or worker health or safety, substantial violations of law, or gross mismanagement; for participation in Congressional proceedings; or for refusal to participate in dangerous activities.

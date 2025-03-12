@@ -1,0 +1,3 @@
+##### § 1510.21 Enforcement. #####
+
+A direct air carrier's or foreign air carrier's failure to comply with the requirements 49 U.S.C. 44940 or the provisions of this part may be considered to be an unfair and deceptive practice in violation of 49 U.S.C. 41712 and may also result in a claim due the United States by the carrier collectible pursuant to 49 CFR part 89. These remedies are in addition to any others remedies provided by law.

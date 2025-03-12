@@ -1,0 +1,17 @@
+##### § 86.158-00 Supplemental Federal Test Procedures; overview. #####
+
+The procedures described in §§ 86.158-00, 86.159-00, 86.160-00, and 86.162-00 discuss the aggressive driving (US06) and air conditioning (SC03) elements of the Supplemental Federal Test Procedures (SFTP). These test procedures consist of two separable test elements: A sequence of vehicle operation that tests exhaust emissions with a driving schedule (US06) that tests exhaust emissions under high speeds and accelerations (aggressive driving); and a sequence of vehicle operation that tests exhaust emissions with a driving schedule (SC03) which includes the impacts of actual air conditioning operation. These test procedures (and the associated standards set forth in subpart S of this part) are applicable to light-duty vehicles and light-duty trucks.
+
+(a) Vehicles are tested for the exhaust emissions of THC, CO, NOX. CH4, and CO2. For diesel-cycle vehicles, THC is sampled and analyzed continuously according to the provisions of § 86.110.
+
+(b) Each test procedure follows the vehicle preconditioning specified in § 86.132-00.
+
+(c) *US06 Test Cycle.* The test procedure for emissions on the US06 driving schedule (see § 86.159-00) is designed to determine gaseous exhaust emissions from light-duty vehicles and light-duty trucks while simulating high speed and acceleration on a chassis dynamometer (aggressive driving). The full test consists of preconditioning the engine to a hot stabilized condition, as specified in § 86.132-00, and an engine idle period of 1 to 2 minutes, after which the vehicle is accelerated into the US06 cycle. A proportional part of the diluted exhaust is collected continuously for subsequent analysis, using a constant volume (variable dilution) sampler or critical flow venturi sampler.
+
+(d) *SC03 Test Cycle.* The test procedure for determining exhaust emissions with the air conditioner operating (see § 86.160-00) is designed to determine gaseous exhaust emissions from light-duty vehicles and light-duty trucks while simulating an urban trip during ambient conditions of 95 °F, 100 grains of water/pound of dry air (approximately 40 percent relative humidity), and a solar heat load intensity of 850 W/m2. The full test consists of vehicle preconditioning (see § 86.132-00 paragraphs (o) (1) and (2)), an engine key-off 10 minute soak, an engine start, and operation over the SC03 cycle. A proportional part of the diluted exhaust is collected continuously during the engine start and the SC03 driving cycle for subsequent analysis, using a constant volume (variable dilution) sampler or critical flow venturi sampler.
+
+(e) The emission results from the aggressive driving test (§ 86.159-00), air conditioning test (§ 86.160-00), and a FTP test (§ 86.130-00 (a) through (d) and (f)) (conducted on a large single roll or equivalent dynamometer) are analyzed according to the calculation methodology in § 86.164-00 and compared to the applicable SFTP emission standards in subpart A of this part (§§ 86.108-00 and 86.109-00).
+
+(f) These test procedures may be run in any sequence that maintains the applicable preconditioning elements specified in § 86.132-00.
+
+[61 FR 54894, Oct. 22, 1996, as amended at 70 FR 40434, July 13, 2005]

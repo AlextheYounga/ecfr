@@ -1,0 +1,3 @@
+##### § 405.1823 Evidence at contractor hearing. #####
+
+Evidence may be received at the contractor hearing even though inadmissible under the rules of evidence applicable to court procedure. The hearing officer(s) shall give the parties opportunity for submission and consideration of facts and arguments, and during the course of the hearing, should in ruling upon admissibility of evidence, exclude irrelevant, immaterial, or unduly repetitious evidence. The hearing officer(s) shall render a final ruling on the admissibility of evidence.

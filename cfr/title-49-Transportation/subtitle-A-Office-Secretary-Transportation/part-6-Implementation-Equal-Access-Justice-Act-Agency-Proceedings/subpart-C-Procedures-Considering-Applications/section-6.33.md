@@ -1,0 +1,3 @@
+##### § 6.33 Decision. #####
+
+The administrative law judge shall issue an initial decision on the application as soon as possible after completion of proceedings on the application. The decision shall also include, if at issue, findings on whether the Department's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust. If the applicant has sought an award against more than one agency, the decision shall allocate responsibility for payment or any award made among the agencies, and shall explain the reasons for the allocation made.

@@ -1,0 +1,5 @@
+##### § 38.179 Trams, and similar vehicles, and systems #####
+
+(a) New and used trams consisting of a tractor unit, with or without passenger accommodations, and one or more passenger trailer units, including but not limited to vehicles providing shuttle service to remote parking areas, between hotels and other public accommodations, and between and within amusement parks and other recreation areas, shall comply with this section. For purposes of determining applicability of 49 CFR 37.101, 37.103, or 37.105 the capacity of such a vehicle or “train” shall consist of the total combined seating capacity of all units, plus the driver, prior to any modification for accessibility.
+
+(b) Each tractor unit which accommodates passengers and each trailer unit shall comply with § 38.25 and § 38.29 of this part. In addition, each such unit shall comply with § 38.23 (b) or (c) and shall provide at least one space for wheelchair or mobility aid users complying with § 38.23(d) of this part unless the complete operating unit consisting of tractor and one or more trailers can already accommodate at least two wheelchair or mobility aid users.

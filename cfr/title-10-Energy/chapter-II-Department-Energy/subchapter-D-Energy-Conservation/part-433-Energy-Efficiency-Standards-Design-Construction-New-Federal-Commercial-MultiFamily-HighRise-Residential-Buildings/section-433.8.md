@@ -1,0 +1,3 @@
+##### § 433.8 Life-cycle costing. #####
+
+Each Federal agency shall determine life-cycle cost-effectiveness by using the procedures set out in subpart A of part 436. A Federal agency may choose to use any of four methods, including lower life-cycle costs, positive net savings, savings-to-investment ratio that is estimated to be greater than one, and an adjusted internal rate of return that is estimated to be greater than the discount rate as listed in OMB Circular Number A-94 “Guidelines and Discount Rates for Benefit-Cost Analysis of Federal Programs.”

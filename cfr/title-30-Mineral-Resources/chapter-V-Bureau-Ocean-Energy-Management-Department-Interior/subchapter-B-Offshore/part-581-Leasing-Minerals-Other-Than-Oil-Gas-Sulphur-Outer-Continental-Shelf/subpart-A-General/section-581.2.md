@@ -1,0 +1,3 @@
+##### § 581.2 Authority. #####
+
+The Act authorizes the Secretary to grant leases for any mineral other than oil, gas, and sulphur in any area of the OCS to the qualified persons offering the highest cash bonuses on the basis of competitive bidding upon such royalty, rental, and other terms and conditions as the Secretary may prescribe at the time of offering the area for lease (43 U.S.C. 1337(k)). The Secretary is to administer the leasing provisions of the Act and prescribe the rules and regulations necessary to carry out those provisions (43 U.S.C. 1334(a)).

@@ -1,0 +1,3 @@
+##### § 7701.101 Purpose. #####
+
+In accordance with 5 CFR 2635.105, the regulations of this part apply to employees of the Institute of Museum and Library Services (IMLS) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the regulations in 5 CFR part 2635 and this part, employees of IMLS are subject to the executive branch employee responsibilities and conduct regulations at 5 CFR part 735, the executive branch financial disclosure regulations at 5 CFR part 2634, and the executive branch financial interests regulations at 5 CFR part 2640.

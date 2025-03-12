@@ -1,0 +1,3 @@
+##### § 745.233 Lead-based paint activities requirements. #####
+
+Lead-based paint activities, as defined in this part, shall only be conducted according to the procedures and work practice standards contained in § 745.227 of this subpart. No individual or firm may offer to perform or perform any lead-based paint activity as defined in this part, unless certified to perform that activity according to the procedures in § 745.226.

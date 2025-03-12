@@ -1,0 +1,3 @@
+##### § 305.33 Burden of presentation; burden of persuasion. #####
+
+The Requestor has the burden of going forward with his case and of proving that the amount demanded in the Request for a Hearing is justified. Accordingly, the Requestor bears the burdens of presentation and persuasion. Following the establishment of a prima facie case, the Claims Official shall have the burden of presenting and of going forward with any defense to the allegations set forth in the Request for a Hearing. Each matter of controversy shall be determined by the Presiding Officer upon a preponderance of the evidence.

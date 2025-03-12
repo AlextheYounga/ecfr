@@ -1,0 +1,5 @@
+##### § 7.26 Filing date of extension of protection for purposes of examination in the Office. #####
+
+(a) If a request for extension of protection of an international registration to the United States is made in an international application and the request includes a declaration of a bona fide intention to use the mark in commerce as set out in § 2.33(e) of this chapter, the filing date of the extension of protection to the United States is the international registration date.
+
+(b) If a request for extension of protection of an international registration to the United States is made in a subsequent designation and the request includes a declaration of a bona fide intention to use the mark in commerce as set out in § 2.33(e), the filing date of the extension of protection to the United States is the date that the International Bureau records the subsequent designation.

@@ -1,0 +1,13 @@
+##### § 63.11528 What are the performance test and compliance requirements for new and existing sources? #####
+
+(a) *Initial compliance demonstration deadlines.* You must conduct an initial Method 22 (appendix A-7 of 40 CFR part 60) test following the requirements of paragraph (b)(1) of this section of each existing electrometallurgical operation control device and an initial Method 9 observation following the requirements of paragraph (c)(1) of this section from the furnace building due to electrometallurgical operations no later than 60 days after your applicable compliance date. For any new electrometallurgical operation control device, you must conduct an initial Method 22 test following the requirements of paragraph (b)(1) of this section within 15 days of startup of the control device.
+
+(b) *Visible emissions limit compliance demonstration.* (1) You must conduct a Method 22 (appendix A-7 of 40 CFR part 60) test to determine that VE from the control device do not exceed the emission standard specified in § 63.11526(a). For a fabric filter, conduct the test for at least 60 minutes at the fabric filter monovent or outlet stack(s), as applicable. For a wet scrubber, conduct the test for at least 60 minutes at the outlet stack(s).
+
+(2) You must conduct a semiannual Method 22 test using the procedures specified in paragraph (b)(1) of this section.
+
+(c) *Furnace building opacity.* (1) You must conduct an opacity test for fugitive emissions from the furnace building according to the procedures in § 63.6(h) and Method 9 (appendix A-4 of 40 CFR part 60). The test must be conducted for at least 60 minutes and shall include tapping the furnace or reaction vessel. The observation must be focused on the part of the building where electrometallurgical operation fugitive emissions are most likely to be observed.
+
+(2) Conduct subsequent Method 9 tests no less frequently than every 6 months and each time you make a process change likely to increase fugitive emissions.
+
+(3) After the initial Method 9 performance test, as an alternative to the Method 9 performance test, you may monitor VE using Method 22 (appendix A-7 of 40 CFR part 60) for subsequent semi-annual compliance demonstrations. The Method 22 test is successful if no VE are observed for 90 percent of the readings over the furnace cycle (tap to tap) or 60 minutes, whichever is longer. If VE are observed greater than 10 percent of the time over the furnace cycle or 60 minutes, whichever is longer, then the facility must conduct another test as soon as possible, but no later than 15 calendar days after the Method 22 test using Method 9 (appendix A-4 of 40 CFR part 60) as specified in paragraph (c)(1) of this section.

@@ -1,0 +1,5 @@
+##### § 602.17 Policy. #####
+
+(a) The rules in this subpart preserve the confidentiality of FCA's documents and information, conserve employees' time for official duties, uphold fairness in litigation, and help the Chairman decide when to allow testimony and to produce documents. This subpart does not affect access to documents under the FOIA or the Privacy Act. See subpart B of this part and part 603 of this chapter.
+
+(b) Generally, we will not produce documents voluntarily and employees will not appear as witnesses voluntarily in any legal proceeding. However, in limited circumstances, the Chairman may allow the production of documents or testimony when the Chairman decides it would be in the best interest of FCA or the public. All privileged documents produced under this subpart remain our property. Any employee having information or privileged documents may disclose them only as allowed by the Chairman.

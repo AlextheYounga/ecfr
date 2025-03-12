@@ -1,0 +1,3 @@
+##### § 236.402 Signals controlled by track circuits and control operator. #####
+
+The control circuits for home signal aspects with indications more favorable than “proceed at restricted speed” shall be controlled by track circuits extending through entire block. Also in addition, at controlled point they may be controlled by control operator, and, at manually operated interlocking, they shall be controlled manually in cooperation with control operator.

@@ -1,0 +1,25 @@
+##### § 550.1611 Assignments for an annual period. #####
+
+(a) *Annual period.* The assignment of a regular tour of duty and overtime supplement to an agent is in effect for a full annual period (or the portion of such period during which the individual is employed as an agent), except as otherwise provided in this subpart. The annual period is a 1-year period that begins on the first day of the first pay period beginning on or after January 1 of a given year and ends on the day before the first day of the first pay period beginning on or after January 1 of the next year.
+
+(b) *Information regarding annual election opportunity.* No later than November 1 of each year, CBP must provide each currently employed agent with information regarding the opportunity to elect a regular tour of duty and corresponding overtime supplement for the next annual period. The information must include an explanation of election options and procedures. For an agent who will be in initial training status on the first day of the annual period, this paragraph is not applicable, and § 550.1612(a) and (b) will apply instead.
+
+(c) *Annual election opportunity.* No later than December 1 of each year, an agent to whom paragraph (b) of this section is applicable may make an election among three options for the regular tour of duty and corresponding overtime supplement (as described in § 550.1621) that the agent wishes to be applicable to him or her during the next annual period.
+
+(d) *Failure to make an election.* If an agent fails to make a timely election under paragraph (c) of this section, CBP must assign the agent a Level 1 regular tour of duty for the annual period (*i.e.,* deemed election) with a 25 percent overtime supplement, except as otherwise provided in paragraph (f) of this section or § 550.1622.
+
+(e) *Effect of agent election.* CBP must assign an agent the regular tour of duty elected by the agent under paragraph (c) or (d) of this section unless CBP informs the agent of an alternative assignment, as provided under paragraph (f) of this section or § 550.1622. CBP may change the assignment during the annual period, as provided under § 550.1612(d). An annual election under paragraph (c) or (d) of this section that is superseded as provided under paragraph (f) of this section or § 550.1622 remains as the default election in the event that the superseding circumstances cease to be applicable, subject to § 550.1612(d).
+
+(f) *Management assignment to tour.* CBP may assign a different regular tour of duty than that elected by the agent under paragraph (c) or (d) of this section for an upcoming annual period under the following circumstances:
+
+(1) An agent who is assigned canine care duties must be assigned a Level 1 regular tour of duty, subject to § 550.1622(c);
+
+(2) An agent who is unable to perform overtime on a daily basis, as determined by CBP, must be assigned a Basic regular tour of duty with no overtime supplement until such time as CBP determines the agent is able to perform the required overtime on a daily basis, subject to the rules in § 550.1612(e);
+
+(3) An agent who holds a position at CBP headquarters, as a training instructor at a CBP training facility, or as a fitness instructor—or who holds another type of position that CBP has determined to be an administrative position— must be assigned a Basic regular tour of duty unless CBP determines a Level 1 or Level 2 regular tour of duty may be assigned to the agent based on a comprehensive staffing analysis conducted for the agent's duty station as required by section 2(e) of the Border Patrol Agent Pay Reform Act of 2014 (Public Law 113-277);
+
+(4) CBP determines that an agent must be assigned to a Level 1 regular tour of duty to ensure that not more than 10 percent (or higher percentage established under § 550.1614(b)) of agents stationed at a location are assigned to a Level 2 regular tour of duty or a Basic regular tour of duty, as required by 5 U.S.C. 5550(b)(1)(E) and § 550.1614; or
+
+(5) CBP determines that assignment of a different regular tour of duty is necessary to comply with the pay assignment continuity provisions in 5 U.S.C. 5550(b)(1)(G) and § 550.1615, notwithstanding any other provision of law or this subpart (including paragraphs (f)(1) through (4) of this section).
+
+(g) *Temporary detail.* If an agent is serving in a position under a temporary detail, that position may not be considered, for the purpose of applying paragraph (f)(3) of this section, to be the position held by the agent during the first 90 days of the detail. After completing 90 days under a temporary detail, an agent will be considered, for the purpose of applying paragraph (f)(3) of this section, to hold the position to which temporarily detailed for the remainder of the detail, notwithstanding the agent's official position of record.

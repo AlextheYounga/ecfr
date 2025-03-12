@@ -1,0 +1,21 @@
+##### § 239.23 Bylaws. #####
+
+(a) *General.* At its first organizational meeting, the board of directors of a subsidiary holding company shall adopt a set of bylaws for the administration and regulation of its affairs. Bylaws may be adopted, amended or repealed by either a majority of the votes cast by the shareholders at a legal meeting or a majority of the board of directors. The bylaws shall contain sufficient provisions to govern the subsidiary holding company in accordance with the requirements of §§ 239.26, 239.27, 239.28, and 239.29 and shall not contain any provision that is inconsistent with those sections or with applicable laws, rules, regulations or the subsidiary holding company's charter, except that a bylaw provision inconsistent with §§ 239.26, 239.27, 239.28, and 239.29 may be adopted with the approval of the Board.
+
+(b) *Form of filing*—(1) *Application requirement.* (i) Any bylaw amendment shall be submitted to the appropriate Reserve Bank for approval if it would:
+
+(A) Render more difficult or discourage a merger, tender offer, or proxy contest, the assumption of control by a holder of a large block of the subsidiary holding company's stock, or the removal of incumbent management; or
+
+(B) Be inconsistent with §§ 239.26, 239.27, 239.28, and 239.29, with applicable laws, rules, regulations or the subsidiary holding company's charter or involve a significant issue of law or policy, including indemnification, conflicts of interest, and limitations on director or officer liability.
+
+(ii) Applications submitted under paragraph (b)(1)(i) of this section are subject to the processing procedures under § 238.14 of this chapter;
+
+(iii) For purposes of this paragraph (b), bylaw provisions that adopt the language of the model bylaws contained in appendix D to this part, if adopted without change and filed with Board within 30 days after adoption, are effective upon adoption. The Board may amend the model bylaws provided in appendix D.
+
+(2) *Filing requirement.* If the proposed bylaw amendment does not implicate paragraph (b)(1) or (b)(3) of this section and is permissible under all applicable laws, rules, or regulations, the subsidiary holding company shall submit the amendment to the appropriate Reserve Bank at least 30 days prior to the date the bylaw amendment is to be adopted by the subsidiary holding company.
+
+(3) *Corporate governance procedures.* A subsidiary holding company may elect to follow the corporate governance procedures of: The laws of the state where the main office of the subsidiary holding company is located; Delaware General Corporation law; or The Model Business Corporation Act, provided that such procedures may be elected to the extent not inconsistent with applicable Federal statutes and regulations and safety and soundness, and such procedures are not of the type described in paragraph (b)(1)(i) of this section. If this election is selected, a subsidiary holding company shall designate in its bylaws the provision or provisions from the body or bodies of law selected for its corporate governance procedures, and shall file a copy of such bylaws, which are effective upon adoption, within 30 days after adoption. The submission shall indicate, where not obvious, why the bylaw provisions do not require an application under paragraph (b)(1)(i) of this section.
+
+(c) *Effectiveness.* Any bylaw amendment filed pursuant to paragraph (b)(2) of this section shall automatically be effective 30 days from the date of filing of such amendment, provided that the subsidiary holding company follows the requirements of its charter and bylaws in adopting such amendment, unless the Board notifies the subsidiary holding company prior to the expiration of such 30-day period that such amendment is rejected or requires an application to be filed pursuant to paragraph (b)(1) of this section.
+
+(d) *Effect of subsequent charter or bylaw change.* Notwithstanding any subsequent change to its charter or bylaws, the authority of a subsidiary holding company to engage in any transaction shall be determined only by the subsidiary holding company's charter or bylaws then in effect, unless otherwise provided by Federal law or regulation.

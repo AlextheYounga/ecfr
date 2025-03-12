@@ -1,0 +1,3 @@
+##### § 1213.100 Scope. #####
+
+This part sets forth policy governing the release of public information, which is defined as information in any form provided to news and information media, especially information that has the potential to generate significant media or public interest or inquiry. Examples include, but are not limited to, press releases, media advisories, news features, and Web postings. Not included under this definition are scientific and technical reports, Web postings designed for technical or scientific interchange, and technical information presented at professional meetings or in professional journals.

@@ -1,0 +1,7 @@
+##### § 239.11 Subsidiary holding companies. #####
+
+(a) *Subsidiary holding companies.* A mutual holding company may establish a subsidiary holding company as a direct subsidiary to hold 100 percent of the stock of its subsidiary savings association. The formation and operation of the subsidiary holding company may not be utilized as a means to evade or frustrate the purposes of this part. The subsidiary holding company may be established either at the time of the initial mutual holding company reorganization or at a subsequent date, subject to the approval of the Board.
+
+(b) *Stock issuances.* §§ 239.24 and 239.25 apply to issuance of stock by a subsidiary holding company. In the case of a stock issuance by a subsidiary holding company, the aggregate amount of outstanding common stock of the association owned or controlled by persons other than the subsidiary holding company's mutual holding company parent at the close of the proposed issuance shall be less than 50 percent of the subsidiary holding company's total outstanding common stock.
+
+(c) *Charters and bylaws for subsidiary holding companies.* The charter and bylaws of a subsidiary holding company shall be in the form set forth in Appendices B and D, respectively.

@@ -1,0 +1,3 @@
+##### 9904.420-20 Purpose. #####
+
+The purpose of this Cost Accounting Standard is to provide criteria for the accumulation of independent research and development costs and bid and proposal costs and for the allocation of such costs to cost objectives based on the beneficial or causal relationship between such costs and cost objectives. Consistent application of these criteria will improve cost allocation.

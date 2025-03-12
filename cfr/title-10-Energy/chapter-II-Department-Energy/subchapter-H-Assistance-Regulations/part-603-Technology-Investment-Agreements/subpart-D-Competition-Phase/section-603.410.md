@@ -1,0 +1,3 @@
+##### § 603.410 Announcement content. #####
+
+Once the contracting officer, in consultation with the program official, considers the factors described in Subpart B of this part and decides that a TIA is among the types of instruments that may be awarded pursuant to a program announcement, it is important to state that fact in the announcement. The announcement also should state that a TIA is more flexible than a traditional financial assistance agreement and that requirements are negotiable in areas such as audits and intellectual property rights that may cause concern for commercial firms. Doing so should increase the likelihood that commercial firms will be willing to submit proposals.

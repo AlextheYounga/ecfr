@@ -1,0 +1,13 @@
+##### § 1201.53 Record of proceedings. #####
+
+(a) *Recordings.* A recording of the hearing is generally prepared by a court reporter, under the judge's guidance. Such a recording is included with the Board's copy of the appeal file and serves as the official hearing record. Judges may prepare recordings in some hearings, such as those conducted telephonically.
+
+(b) *Transcripts.* A “transcript” refers not only to printed copies of the hearing testimony, but also to electronic versions of such documents. Along with recordings, a transcript prepared by the court reporter is accepted by the Board as the official hearing record. Any party may request that the court reporter prepare a full or partial transcript, at the requesting party's expense. Judges do not prepare transcripts.
+
+(c) *Copies.* Copies of recordings or existing transcripts will be provided upon request to parties free of charge. Such requests should be made in writing to the adjudicating regional or field office, or to the Clerk of the Board, as appropriate. Nonparties may request a copy of a hearing recording or existing transcript under the Freedom of Information Act (FOIA) and Part 1204 of the Board's regulations. A nonparty may request a copy by writing to the appropriate Regional Director, the Chief Administrative Judge of the appropriate MSPB Field Office, or to the Clerk of the Board at MSPB headquarters in Washington, DC, as appropriate. Nonparties may also make FOIA requests online at *https://foia.mspb.gov.*
+
+(d) *Corrections to transcript.* Any discrepancy between the transcript and the recording shall be resolved by the judge or the Clerk of the Board, as appropriate. Corrections to the official transcript may be made on motion by a party or on the judge's own motion or by the Clerk of the Board, as appropriate. Motions for corrections must be filed within 10 days after the receipt of a transcript. Corrections of the official transcript will be made only when substantive errors are found by the judge or by the Clerk of the Board, as appropriate.
+
+(e) *Official record.* Hearing exhibits and pleadings that have been accepted into the record, the official hearing record, if a hearing is held, and all orders and decisions of the judge and the Board, make up the official record of the case. Other than the Board's decisions, the official record is not available for public inspection and copying. The official record is, however, subject to requests under both the Freedom of Information Act (5 U.S.C. 552) and the Privacy Act (5 U.S.C. 552a) pursuant to the procedures contained in 5 CFR parts 1204 and 1205.
+
+[77 FR 62366, Oct. 12, 2012]

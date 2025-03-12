@@ -1,0 +1,9 @@
+##### 6101.25 Decisions; settlements [Rule 25]. #####
+
+(a) *Decisions.* (1) Except as provided in 6101.52 (Rule 52) (small claims procedure), decisions of the Board will be made in writing upon the record as prescribed in 6101.9 (Rule 9). The Board may also take notice of any fact or law of which a court could take judicial notice. Each of the parties will be furnished a copy of the decision certified by the Office of the Clerk of the Board, and the date of the receipt thereof by each party will be established in the record. In addition, all Board decisions are posted weekly on the Internet. The Board's Internet address is: *http://www.cbca.gov.*
+
+(2) In its decision, the Board may reserve determination of the amount of recovery for other proceedings, regardless of whether there is evidence in the record concerning the amount of recovery, provided the Board notified the parties before the hearing began that its decision would not address the amount of any recovery. In any instance in which the Board has reserved its determination of the amount of recovery for other proceedings, as provided in 6101.21(a)(4) (Rule 21(a)(4)), its decision on the question of the right to recover shall be final so far as proceedings at the Board are concerned, subject to the provisions of 6101.26 through 6101.28 (Rules 26 through 28).
+
+(b) *Settlements.* When an appeal or application is settled, the parties may file with the Board a stipulation setting forth the amount of the award. The Board will adopt the parties' stipulation by decision, provided the stipulation states the parties will not seek reconsideration of, or relief from, the Board's decision, and they will not appeal the decision. The Board's decision under this paragraph (b) is an adjudication of the case on the merits.
+
+[72 FR 36795, July 5, 2007,, as amended at 76 FR 50928, Aug. 17, 2011]

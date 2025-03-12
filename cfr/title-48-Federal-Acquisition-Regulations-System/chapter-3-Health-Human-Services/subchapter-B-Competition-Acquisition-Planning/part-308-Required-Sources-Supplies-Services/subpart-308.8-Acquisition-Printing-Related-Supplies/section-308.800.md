@@ -1,0 +1,3 @@
+##### 308.800 Scope of subpart. #####
+
+This subpart provides the Department of Health and Human Services (HHS) policy for the acquisition of Government printing and related supplies. The HHS Office of the Assistant Secretary for Public Affairs is responsible for the review and clearance of print and electronic publications, printing and related supplies, audiovisual products, and communication service contracts. See FAR 8.802 for exceptions.

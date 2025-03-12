@@ -1,0 +1,3 @@
+##### § 960.3-2-2-1 Evaluation of all potentially acceptable sites. #####
+
+*First,* in considering sites for nomination, each of the potentially acceptable sites shall be evaluated on the basis of the disqualifying conditions specified in the technical guidelines of subparts C and D, in accordance with the application requirements set forth in appendix III of this part. This evaluation shall support a finding by the DOE that such sites is not disqualified.

@@ -1,0 +1,3 @@
+##### § 501.182 Injunctions. #####
+
+Whenever it appears to OFE that any person has committed, is committing, or is about to commit a violation of any provision of the Act, or any rule or order thereunder, OFE may, in accordance with section 724 of FUA, bring a civil action in the appropriate United States District Court to enjoin such acts or practices. The relief sought may include a mandatory injunction commanding any person to comply with any provision of such provision, order or rule, the violation of which is prohibited by section 724 of FUA and may also include interim equitable relief.

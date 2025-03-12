@@ -1,0 +1,3 @@
+##### § 1216.309 Mitigation and monitoring. #####
+
+When the analysis proceeds to an EA or EIS and mitigation measures are selected to avoid or reduce environmental impacts, such mitigation measures will be identified in the EA/FONSI or the EIS Record of Decision (ROD). NASA will implement mitigation measures (including adaptive management strategies, where appropriate) consistent with applicable FONSIs and/or RODs and will monitor their implementation and effectiveness. The Responsible Official will ensure that funding requests for such mitigation measures are included in the program or project budget.

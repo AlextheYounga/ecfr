@@ -1,0 +1,3 @@
+##### 619.800 General. #####
+
+(d) Utilizing Memoranda of Understanding (MOUs), the SBA has delegated its authority to contract directly with program participants under Section 8(a) of the Small Business Act to the Senior Procurement Executives of various Federal contracting activities. The Department of State has signed an MOU with SBA, effective May 6, 1998. Under the MOU, a contract may be awarded directly to an 8(a) firm on either a sole source or competitive basis. The SBA reserves the right to withdraw any delegation issued as a result of an MOU; however, any such withdrawal shall have no effect on contracts currently awarded under the MOU.

@@ -1,0 +1,3 @@
+##### § 141.57 Special curricula. #####
+
+An applicant for a pilot school certificate or provisional pilot school certificate may apply for approval to conduct a special course of airman training for which a curriculum is not prescribed in the appendixes of this part, if the applicant shows that the training course contains features that could achieve a level of pilot proficiency equivalent to that achieved by a training course prescribed in the appendixes of this part or the requirements of part 61 of this chapter.

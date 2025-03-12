@@ -1,0 +1,3 @@
+##### § 585.410 How does an assignment affect the assignor's liability? #####
+
+As assignor, you are liable for all obligations, monetary and nonmonetary, that accrued under your lease or grant before BOEM approves your assignment. Our approval of the assignment does not relieve you of these accrued obligations. BOEM may require you to bring the lease or grant into compliance to the extent the obligation accrued before the effective date of your assignment if your assignee or subsequent assignees fail to perform any obligation under the lease or grant.

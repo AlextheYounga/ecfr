@@ -1,0 +1,3 @@
+##### § 121.377 Maintenance and preventive maintenance personnel duty time limitations. #####
+
+Within the United States, each certificate holder (or person performing maintenance or preventive maintenance functions for it) shall relieve each person performing maintenance or preventive maintenance from duty for a period of at least 24 consecutive hours during any seven consecutive days, or the equivalent thereof within any one calendar month.

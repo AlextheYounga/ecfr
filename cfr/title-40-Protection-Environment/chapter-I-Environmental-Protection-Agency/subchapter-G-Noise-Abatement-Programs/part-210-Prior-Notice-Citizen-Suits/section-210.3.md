@@ -1,0 +1,7 @@
+##### § 210.3 Contents of notice. #####
+
+(a) *Violation of noise control requirement.* Notice regarding an alleged violation of a noise control requirement shall include sufficient information to permit the recipient to identify the specific standard or regulation alleged to have been violated, the activity alleged to constitute a violation, the person or persons responsible for the alleged violation, the location of the alleged violation, the date or dates of such violation and the full name, address, and telephone number of the person giving notice.
+
+(b) *Failure to act.* Notice regarding an alleged failure of the Administrator of the Environmental Protection Agency to perform any act or duty under the Noise Control Act which is not discretionary with such Administrator or notice regarding an alleged failure of the Administrator of the Federal Aviation Administration to perform any act or duty under section 611 of the Federal Aviation Act which is not discretionary with such Administrator shall identify the statutory provision which requires such act or creates such duty, shall describe with reasonable specificity the action taken or not taken by such Administrator which is alleged to constitute a failure to perform such act or duty, and shall state the full name, address, and telephone number of the person giving the notice.
+
+(c) *Identification of Counsel.* The notice shall state the name, address, and telephone number of the legal counsel, if any, representing the person giving the notice.

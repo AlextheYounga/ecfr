@@ -1,0 +1,3 @@
+##### § 1503.205 Records, documents, and reports. #####
+
+Each record, document, and report that regulations issued by the Transportation Security Administration require to be maintained, exhibited, or submitted to the Administrator may be used in any investigation conducted by the Administrator; and, except to the extent the use may be specifically limited or prohibited by the section that imposes the requirement, the records, documents, and reports may be used in any civil penalty action or other legal proceeding.

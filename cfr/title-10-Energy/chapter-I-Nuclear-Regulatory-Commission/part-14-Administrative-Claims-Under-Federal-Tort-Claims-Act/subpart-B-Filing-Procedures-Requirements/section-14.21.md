@@ -1,0 +1,3 @@
+##### § 14.21 Filing a claim after an agency final denial. #####
+
+If, after a final denial by another agency, the claimant files with the NRC a claim arising out of the same incident on which the claim filed with the other agency was based, the submission of the claim to NRC will not toll the requirement of 28 U.S.C. 2401(b) that suit must be filed within six months of the final denial by the other agency, unless the other agency specifically and explicitly treats the submission to NRC as a request for reconsideration under 10 CFR 14.39 and advises the claimant of the action.

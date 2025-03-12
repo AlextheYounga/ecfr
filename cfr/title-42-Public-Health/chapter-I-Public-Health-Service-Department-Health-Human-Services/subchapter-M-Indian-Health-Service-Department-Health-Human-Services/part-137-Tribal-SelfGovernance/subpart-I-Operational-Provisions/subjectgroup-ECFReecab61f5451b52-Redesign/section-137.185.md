@@ -1,0 +1,3 @@
+##### § 137.185 May a Self-Governance Tribe redesign or consolidate the PSFAs that are included in a funding agreement and reallocate or redirect funds for such PSFAs? #####
+
+Yes, a Self-Governance Tribe may redesign or consolidate PSFAs included in a funding agreement and reallocate or redirect funds for such PSFAs in any manner which the Self-Governance Tribe deems to be in the best interest of the health and welfare of the Indian community being served, only if the redesign or consolidation does not have the effect of denying eligibility for services to population groups otherwise eligible to be served under applicable Federal law.

@@ -1,0 +1,13 @@
+##### § 204.126 Depository institution participation in “Federal funds” market. #####
+
+(a) Under § 204.2(a)(1)(vii)(A), there is an exemption from Regulation D for member bank obligations in nondeposit form to another bank. To assure the effectiveness of the limitations on persons who sell Federal funds to depository institutions, Regulation D applies to nondocumentary obligations undertaken by a depository institution to obtain funds for use in its banking business, as well as to documentary obligations. Under § 204.2(a)(1)(vii) of Regulation D, a depository institution's liability under informal arrangements as well as those formally embodied in a document are within the coverage of Regulation D.
+
+(b) The exemption in § 204.2(a)(1)(vii)(A) applies to obligations owed by a depository institution to a domestic office of any entity listed in that section (the *exempt institutions*). The *exempt institutions* explicitly include another depository institution, foreign bank, Edge or agreement corporation, New York Investment (article XII) Company, the Export-Import Bank of the United States, Minbanc Capital Corp., and certain other credit sources. The term *exempt institutions* also includes subsidiaries of depository institutions:
+
+(1) That engage in businesses in which their parents are authorized to engage; or
+
+(2) The stock of which by statute is explicitly eligible for purchase by national banks.
+
+(c) To assure that this exemption for liabilities to exempt institutions is not used as a means by which nondepository institutions may arrange through an exempt institution to *sell* Federal funds to a depository institution, obligations within the exemption must be issued to an exempt institution for its own account. In view of this requirement, a depository institution that *purchases* Federal funds should ascertain the character (not necessarily the identity) of the actual *seller* in order to justify classification of its liability on the transaction as *Federal funds purchased* rather than as a deposit. Any exempt institution that has given general assurance to the purchasing depository institution that sales by it of Federal funds ordinarily will be for its own account and thereafter executes such transactions for the account of others, should disclose the nature of the actual lender with respect to each such transaction. If it fails to do so, the depository institution would be deemed by the Board as indirectly violating section 19 of the Federal Reserve Act and Regulation D.
+
+[52 FR 47695, Dec. 16, 1987]

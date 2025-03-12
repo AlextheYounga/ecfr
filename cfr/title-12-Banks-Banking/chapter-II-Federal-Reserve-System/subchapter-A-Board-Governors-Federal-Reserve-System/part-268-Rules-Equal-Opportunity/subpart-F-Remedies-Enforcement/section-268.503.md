@@ -1,0 +1,13 @@
+##### § 268.503 Enforcement of final EEOC decisions. #####
+
+(a) *Petition for enforcement.* A complainant may petition the Commission for enforcement of a decision issued under the Commission's appellate jurisdiction. The petition shall be submitted to the Office of Federal Operations. The petition shall specifically set forth the reasons that lead the complainant to believe that the Board is not complying with the decision.
+
+(b) *Compliance.* On behalf of the Commission, the Office of Federal Operations shall take all necessary action to ascertain whether the Board is implementing the decision of the Commission. If the Board is found not to be in compliance with the decision, efforts shall be undertaken to obtain compliance.
+
+(c) *Clarification.* On behalf of the Commission, the Office of Federal Operations may, on its own motion or in response to a petition for enforcement or in connection with a timely request for reconsideration, issue a clarification of a prior decision. A clarification cannot change the result of a prior decision or enlarge or diminish the relief ordered but may further explain the meaning or intent of the prior decision.
+
+(d) *Referral to the Commission.* Where the Director, Office of Federal Operations, is unable to obtain satisfactory compliance with the final decision, the Director shall submit appropriate findings and recommendations for enforcement to the Commission, or, as directed by the Commission, refer the matter to another appropriate agency.
+
+(e) *Commission notice to show cause.* The Commission may issue a notice to the Chairman of the Board to show cause why there is noncompliance. Such notice may request the Chairman of the Board or a representative to appear before the Commission or to respond to the notice in writing with adequate evidence of compliance or with compelling reasons for noncompliance.
+
+(f) *Notification to complainant of completion of administrative efforts.* Where the Commission has determined that the Board is not complying with a prior decision, or where the Board has failed or refused to submit any required report of compliance, the Commission shall notify the complainant the right to file a civil action for enforcement of the decision pursuant to title VII, the ADEA, the Equal Pay Act or the Rehabilitation Act and to seek judicial review of the Board's refusal to implement the ordered relief pursuant to the Administrative Procedures Act, 5 U.S.C. 701 *et seq.,* and the mandamus statute, 28 U.S.C. 1361, or to commence *de novo* proceedings pursuant to the appropriate statutes.

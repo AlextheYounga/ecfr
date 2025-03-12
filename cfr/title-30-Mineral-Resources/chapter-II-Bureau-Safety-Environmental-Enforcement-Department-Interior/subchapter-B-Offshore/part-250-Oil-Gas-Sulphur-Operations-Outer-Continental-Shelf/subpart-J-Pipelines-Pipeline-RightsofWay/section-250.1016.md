@@ -1,0 +1,17 @@
+##### § 250.1016 Granting pipeline rights-of-way. #####
+
+(a) In considering an application for a right-of-way, the Regional Supervisor shall consider the potential effect of the associated pipeline on the human, marine, and coastal environments, life (including aquatic life), property, and mineral resources in the entire area during construction and operational phases. The Regional Supervisor shall prepare an environmental analysis in accordance with applicable policies and guidelines. To aid in the evaluation and determinations, the Regional Supervisor may request and consider views and recommendations of appropriate Federal Agencies, hold public meetings after appropriate notice, and consult, as appropriate, with State agencies, organizations, industries, and individuals. Before granting a pipeline right-of-way, the Regional Supervisor shall give consideration to any recommendation by the intergovernmental planning program, or similar process, for the assessment and management of OCS oil and gas transportation.
+
+(b) Should the proposed route of a right-of-way adjoin and subsequently cross any State submerged lands, the applicant shall submit evidence to the Regional Supervisor that the State(s) so affected has reviewed the application. The applicant shall also submit any comment received as a result of that review. In the event of a State recommendation to relocate the proposed route, the Regional Supervisor may consult with the appropriate State officials.
+
+(c)(1) The applicant shall submit photocopies of return receipts to the Regional Supervisor that indicate the date that each lessee or right-of-way holder referenced in § 250.1015(c) of this part has received a copy of the application. Letters of no objection may be submitted in lieu of the return receipts.
+
+(2) The Regional Supervisor shall not take final action on a right-of-way application until the Regional Supervisor is satisfied that each such lessee or right-of-way holder has been afforded at least 30 days from the date determined in paragraph (c)(1) of this section in which to submit comments.
+
+(d) If a proposed right-of-way crosses any lands not subject to disposition by mineral leasing or restricted from oil and gas activities, it shall be rejected by the Regional Supervisor unless the Federal Agency with jurisdiction over such excluded or restricted area gives its consent to the granting of the right-of-way. In such case, the applicant, upon a request filed within 30 days after receipt of the notification of such rejection, shall be allowed an opportunity to eliminate the conflict.
+
+(e)(1) If the application and other required information are found to be in compliance with applicable laws and regulations, the right-of-way may be granted. The Regional Supervisor may prescribe, as conditions to the right-of-way grant, stipulations necessary to protect human, marine, and coastal environments, life (including aquatic life), property, and mineral resources located on or adjacent to the right-of-way.
+
+(2) If the Regional Supervisor determines that a change in the application should be made, the Regional Supervisor shall notify the applicant that an amended application shall be filed subject to stipulated changes. The Regional Supervisor shall determine whether the applicant shall deliver copies of the amended application to other parties for comment.
+
+(3) A decision to reject an application shall be in writing and shall state the reasons for the rejection.

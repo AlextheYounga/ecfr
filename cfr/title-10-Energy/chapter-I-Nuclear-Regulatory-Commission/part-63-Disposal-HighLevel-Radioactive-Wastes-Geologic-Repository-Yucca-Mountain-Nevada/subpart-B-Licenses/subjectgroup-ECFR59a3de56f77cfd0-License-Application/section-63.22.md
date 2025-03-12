@@ -1,0 +1,13 @@
+##### § 63.22 Filing and distribution of application. #####
+
+(a) An application for a construction authorization for a high-level radioactive waste repository at a geologic repository operations area at Yucca Mountain, and an application for a license to receive and possess source, special nuclear, or byproduct material at a geologic repository operations area at the Yucca Mountain site that has been characterized, any amendments to the application, and an accompanying environmental impact statement and any supplements, must be signed by the Secretary of Energy or the Secretary's authorized representative and must be filed with the Director in triplicate on paper and optical storage media.
+
+(b) DOE shall submit 30 additional copies, on paper and optical storage media, of each portion of the application and any amendments, and each environmental impact statement and any supplements. DOE shall maintain the capability to generate additional copies for distribution in accordance with written instructions from the Director or the Director's designee.
+
+(c) On notification of the appointment of an Atomic Safety and Licensing Board, DOE shall update the application, eliminating all superseded information, and supplement the environmental impact statement if necessary, and serve the updated application and environmental impact statement (as it may have been supplemented) as directed by the Board. Any subsequent amendments to the application or supplements to the environmental impact statement must be served in the same manner.
+
+(d) When an application, and any amendment to it is filed, copies on paper and optical storage media must be made available in appropriate locations near the proposed geologic repository operations areas at the Yucca Mountain site for inspection by the public. These copies must be updated as amendments to the application are made. The environmental impact statement and any supplements to it must be made available in the same manner. An updated copy of the application, and the environmental impact statement and supplements, must be produced at any public hearing held by the Commission on the application for use by any party to the proceeding.
+
+(e) DOE shall certify that the updated copies of the application, and the environmental impact statement as it may have been supplemented, as referred to in paragraphs (c) and (d) of this section, contain the current contents of these documents submitted as required by this part.
+
+[66 FR 55792, Nov. 2, 2001, as amended at 68 FR 58815, Oct. 10, 2003; 69 FR 2280, Jan. 14, 2004]

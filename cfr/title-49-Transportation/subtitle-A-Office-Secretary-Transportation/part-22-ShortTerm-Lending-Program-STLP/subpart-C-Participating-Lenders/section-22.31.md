@@ -1,0 +1,5 @@
+##### § 22.31 Suspension or revocation of eligibility to participate. #####
+
+(a) DOT OSDBU may suspend or revoke the eligibility of a Participating Lender to participate in the STLP by giving written notice in accordance with the terms and conditions cited in the cooperative agreement. Such notice may be given because of a violation of DOT OSDBU regulations; a breach of any agreement with DOT OSDBU; a change of circumstance resulting in the Participating Lender's inability to meet operational requirements; or a failure to engage in prudent lending practices. A suspension or revocation will not invalidate a loan guarantee previously approved by DOT OSDBU, providing that the specific loan was handled in accordance with its guarantee agreement, the cooperative agreement and/or these regulations.
+
+(b) The written notice to suspend or revoke participation in the STLP will specify the corrective actions that the Participating Lender must take, as well as the time period allowed for cure, prior to DOT OSDBU considering a termination of the cooperative agreement.

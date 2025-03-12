@@ -1,0 +1,3 @@
+##### § 7.14 Redaction of information that is exempt from disclosure. #####
+
+Whenever DOT determines it to be necessary to prevent the disclosure of information required or authorized to be withheld by FOIA or another Federal statute (such as, to prevent a clearly unwarranted invasion of personal privacy), DOT redacts such information from any record covered by this subpart that is published or made available. A full explanation of the justification for the deletion accompanies the record published or made available.

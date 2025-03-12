@@ -1,0 +1,5 @@
+##### § 60.5508 What is the purpose of this subpart? #####
+
+This subpart establishes emission standards and compliance schedules for the control of greenhouse gas (GHG) emissions from a steam generating unit or an integrated gasification combined cycle (IGCC) facility that commences construction after January 8, 2014, commences reconstruction after June 18, 2014, or commences modification after January 8, 2014, but on or before May 23, 2023. This subpart also establishes emission standards and compliance schedules for the control of GHG emissions from a stationary combustion turbine that commences construction after January 8, 2014, but on or before May 23, 2023, or commences reconstruction after June 18, 2014, but on or before May 23, 2023. An affected steam generating unit, IGCC, or stationary combustion turbine shall, for the purposes of this subpart, be referred to as an affected electric generating unit (EGU).
+
+[89 FR 40028, May 9, 2024]

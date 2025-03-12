@@ -1,0 +1,3 @@
+##### § 385.1015 Other orders unaffected; not exclusive remedy. #####
+
+If a motor carrier subject to an order issued under this subpart is or becomes subject to any other order, prohibition, or requirement of the FMCSA, an order issued under this subpart is in addition to, and does not amend or supersede the other order, prohibition, or requirement. Nothing in this subpart precludes FMCSA from taking action against any motor carrier under 49 U.S.C. 13905 for other conduct amounting to willful failure to comply with an applicable statute, regulation or FMCSA order.

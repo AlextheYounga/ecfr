@@ -1,0 +1,5 @@
+##### § 1235.3 Establishment and evaluation of a record retention program. #####
+
+(a) *Establishment.* Each regulated entity and the Office of Finance shall establish and maintain a written record retention program and provide a copy of such program to the Deputy Director of the Division of Enterprise Regulation, or his or her designee, or the Deputy Director for the Division of Federal Home Loan Bank Regulation, or his or her designee, as appropriate, within 180 days of the effective date of this part, and annually thereafter, and whenever a significant revision to the program has been made.
+
+(b) *Evaluation.* Management of each regulated entity and the Office of Finance shall evaluate in writing the adequacy and effectiveness of the record retention program at least every two years and provide a copy of the evaluation to the board of directors and the Director.

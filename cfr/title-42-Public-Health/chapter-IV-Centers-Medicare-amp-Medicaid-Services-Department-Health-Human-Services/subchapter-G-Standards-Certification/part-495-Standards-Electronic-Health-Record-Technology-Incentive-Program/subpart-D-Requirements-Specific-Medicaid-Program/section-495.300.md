@@ -1,0 +1,3 @@
+##### § 495.300 Basis and purpose. #####
+
+This subpart implements section 4201 of the American Reinvestment and Recovery Act of 2009 and sections 1903(a)(3)(F) and 1903(t) of the Act, which authorize States, at their option, to provide for incentive payments to Medicaid providers for adopting, implementing, or upgrading certified EHR technology or for meaningful use of such technology. This subpart also provides enhanced Federal financial participation (FFP) to States to administer these incentive payments.

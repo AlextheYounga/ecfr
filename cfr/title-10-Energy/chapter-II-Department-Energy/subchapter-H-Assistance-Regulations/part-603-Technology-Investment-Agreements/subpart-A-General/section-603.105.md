@@ -1,0 +1,9 @@
+##### § 603.105 Description. #####
+
+(a) A TIA is a special type of assistance instrument used to increase involvement of commercial firms in the Department of Energy's (DOE) research, development and demonstration (RD&D) programs. A TIA, like a cooperative agreement, requires substantial Federal involvement in the technical or management aspects of the project. A TIA may be either a type of cooperative agreement or a type of assistance transaction other than a cooperative agreement, depending on the intellectual property provisions. A TIA is either:
+
+(1) A type of cooperative agreement with more flexible provisions tailored for commercial firms (as distinct from a cooperative agreement subject to all of the requirements in 10 CFR 600), but with intellectual property provisions in full compliance with the DOE intellectual property statutes (*i.e.*, Bayh-Dole statute and 42 U.S.C. 2182 and 5908, as implemented in 10 CFR 600.325). The authority to award this type of TIA is 42 U.S.C. 7256(a), as well as any program-specific statute that provides authority to award cooperative agreements; or
+
+(2) An assistance transaction other than a cooperative agreement, if its intellectual property provisions vary from the Bayh-Dole statute and 42 U.S.C. 2182 and 5908, which require the Government to retain certain intellectual property rights and require differing treatment between large businesses and nonprofit organizations or small businesses. The authority to award this type of TIA is 42 U.S.C. 7256(g), as well as any program-specific statute that provides authority to award assistance agreements.
+
+(b) The two types of TIAs have similar requirements, except for the intellectual property requirements. If the contracting officer determines there is a unique, exceptional need to vary from the standard intellectual property requirements in 10 CFR 600.325, the TIA becomes an assistance transaction other than a cooperative agreement.

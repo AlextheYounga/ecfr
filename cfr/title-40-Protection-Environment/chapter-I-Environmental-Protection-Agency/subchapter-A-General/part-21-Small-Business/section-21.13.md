@@ -1,0 +1,3 @@
+##### § 21.13 Effect of certification upon authority to enforce applicable standards. #####
+
+The certification by EPA or a State for SBA Loan purposes in no way constitutes a determination by EPA or the State that the facilities certified (a) will be constructed within the time specified by an applicable standard or (b) will be constructed and installed in accordance with the plans and specifications submitted in the application, will be operated and maintained properly, or will be applied to process wastes which are the same as described in the application. The certification in no way constitutes a waiver by EPA or a State of its authority to take appropriate enforcement action against the owner or operator of such facilities for violations of an applicable standard.

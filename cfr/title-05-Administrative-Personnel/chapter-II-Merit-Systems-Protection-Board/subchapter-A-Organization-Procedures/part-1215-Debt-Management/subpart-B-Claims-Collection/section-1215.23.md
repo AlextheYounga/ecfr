@@ -1,0 +1,3 @@
+##### § 1215.23 Other remedies. #####
+
+The remedies and sanctions available to the MSPB under this part are not intended to be exclusive. The Chairman of the MSPB or his designee may impose other appropriate sanctions upon a debtor for prolonged or repeated failure to pay a debt. For example, the Chairman or his designee may place the debtor's name on a list of debarred, suspended, or ineligible contractors. In such cases the debtor will be advised of the MSPB's action.

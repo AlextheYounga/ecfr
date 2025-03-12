@@ -1,0 +1,7 @@
+##### § 1.907 Inter partes reexamination prohibited. #####
+
+(a) Once an order to reexamine has been issued under § 1.931, neither the third party requester, nor its privies, may file a subsequent request for *inter partes* reexamination of the patent until an *inter partes* reexamination certificate is issued under § 1.997, unless authorized by the Director.
+
+(b) Once a final decision has been entered against a party in a civil action arising in whole or in part under 28 U.S.C. 1338 that the party has not sustained its burden of proving invalidity of any patent claim-in-suit, then neither that party nor its privies may thereafter request *inter partes* reexamination of any such patent claim on the basis of issues which that party, or its privies, raised or could have raised in such civil action, and an *inter partes* reexamination requested by that party, or its privies, on the basis of such issues may not thereafter be maintained by the Office.
+
+(c) If a final decision in an *inter partes* reexamination proceeding instituted by a third party requester is favorable to patentability of any original, proposed amended, or new claims of the patent, then neither that party nor its privies may thereafter request *inter partes* reexamination of any such patent claims on the basis of issues which that party, or its privies, raised or could have raised in such *inter partes* reexamination proceeding.

@@ -1,0 +1,3 @@
+##### § 141.624 Additional requirements for consecutive systems. #####
+
+If you are a consecutive system that does not add a disinfectant but delivers water that has been treated with a primary or residual disinfectant other than ultraviolet light, you must comply with analytical and monitoring requirements for chlorine and chloramines in § 141.131 (c) and § 141.132(c)(1) and the compliance requirements in § 141.133(c)(1) beginning April 1, 2009, unless required earlier by the State, and report monitoring results under § 141.134(c).

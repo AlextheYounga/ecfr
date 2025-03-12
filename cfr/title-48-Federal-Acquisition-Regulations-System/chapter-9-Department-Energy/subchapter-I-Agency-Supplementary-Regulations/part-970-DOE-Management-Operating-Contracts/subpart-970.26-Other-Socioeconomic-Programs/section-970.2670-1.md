@@ -1,0 +1,3 @@
+##### 970.2670-1 Requirements. #####
+
+The goal requirements of section 3021 of the Energy Policy Act of 1992, and the attendant reporting requirements shall be included in the subcontracting plan for the management and operating contract and shall apply to the annual dollar obligations specifically provided to the contractor for competitively awarded subcontracts that fulfill Energy Policy Act requirements.

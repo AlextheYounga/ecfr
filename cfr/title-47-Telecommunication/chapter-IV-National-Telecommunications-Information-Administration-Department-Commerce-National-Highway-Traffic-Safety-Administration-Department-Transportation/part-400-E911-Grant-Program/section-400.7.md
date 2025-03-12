@@ -1,0 +1,3 @@
+##### § 400.7 Eligible uses for grant funds. #####
+
+Grant funds awarded under this part may be used only for the acquisition and deployment of hardware and software that enables the implementation and operation of Phase II E-911 services, for the acquisition and deployment of hardware and software to enable the migration to an IP-enabled emergency network, for the training in the use of such hardware and software, or for any combination of these uses, provided such uses have been identified in the State 911 Plan.

@@ -1,0 +1,3 @@
+##### § 67.7 Access to the National Driver Register. #####
+
+At the time of application for a certificate issued under this part, each person who applies for a medical certificate shall execute an express consent form authorizing the Administrator to request the chief driver licensing official of any state designated by the Administrator to transmit information contained in the National Driver Register about the person to the Administrator. The Administrator shall make information received from the National Driver Register, if any, available on request to the person for review and written comment.

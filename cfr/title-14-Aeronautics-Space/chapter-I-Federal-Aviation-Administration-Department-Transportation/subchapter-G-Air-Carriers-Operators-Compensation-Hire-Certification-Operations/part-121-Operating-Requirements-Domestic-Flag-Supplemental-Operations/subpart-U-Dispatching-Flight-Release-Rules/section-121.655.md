@@ -1,0 +1,3 @@
+##### § 121.655 Applicability of reported weather minimums. #####
+
+In conducting operations under §§ 121.649 through 121.653, the ceiling and visibility values in the main body of the latest weather report control for VFR and IFR takeoffs and landings and for instrument approach procedures on all runways of an airport. However, if the latest weather report, including an oral report from the control tower, contains a visibility value specified as runway visibility or runway visual range for a particular runway of an airport, that specified value controls for VFR and IFR landings and takeoffs and straight-in instrument approaches for that runway.

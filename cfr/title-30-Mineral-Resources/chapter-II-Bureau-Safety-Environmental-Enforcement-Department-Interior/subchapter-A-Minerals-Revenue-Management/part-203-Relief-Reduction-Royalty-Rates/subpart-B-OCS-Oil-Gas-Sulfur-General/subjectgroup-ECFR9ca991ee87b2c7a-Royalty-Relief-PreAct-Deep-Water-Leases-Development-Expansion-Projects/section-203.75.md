@@ -1,0 +1,3 @@
+##### § 203.75 What risk do I run if I request a redetermination? #####
+
+If you request a redetermination after we have granted you a suspension volume, you could lose some or all of the previously granted relief. This can happen because you must file a new complete application and pay the required fee, as discussed in § 203.62. We will evaluate your application under § 203.67 using the conditions prevailing at the time of your redetermination request. In our evaluation, we may find that you should receive a larger, equivalent, smaller, or no suspension volume. This means we could find that you do not qualify for the amount of relief previously granted or for any relief at all.

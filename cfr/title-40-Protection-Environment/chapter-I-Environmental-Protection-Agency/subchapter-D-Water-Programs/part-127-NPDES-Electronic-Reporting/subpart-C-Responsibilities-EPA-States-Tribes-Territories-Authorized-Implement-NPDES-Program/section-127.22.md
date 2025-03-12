@@ -1,0 +1,3 @@
+##### § 127.22 Requirements regarding quality assurance and quality control. #####
+
+States, tribes, and territories that have received authorization from EPA to implement the NPDES program have the responsibility for the information that they electronically transfer to EPA. Therefore, authorized states, tribes, and territories that electronically transfer data to EPA must use reasonable quality assurance and quality control procedures to ensure the quality of the NPDES information.

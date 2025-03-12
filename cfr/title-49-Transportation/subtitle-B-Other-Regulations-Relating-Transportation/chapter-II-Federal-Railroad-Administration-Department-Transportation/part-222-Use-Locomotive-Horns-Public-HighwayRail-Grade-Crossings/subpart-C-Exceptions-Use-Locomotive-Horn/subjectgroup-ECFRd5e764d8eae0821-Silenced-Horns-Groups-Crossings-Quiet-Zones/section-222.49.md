@@ -1,0 +1,5 @@
+##### § 222.49 Who may file Grade Crossing Inventory Forms? #####
+
+(a) Grade Crossing Inventory Forms required to be filed with the Associate Administrator in accordance with §§ 222.39, 222.43 and 222.47 of this part may be filed by the public authority if, for any reason, such forms are not timely submitted by the State and railroad.
+
+(b) Within 30 days after receipt of a written request of the public authority, the railroad owning the line of railroad that includes public or private highway rail grade crossings within the quiet zone or proposed quiet zone shall provide to the State and public authority sufficient current information regarding the grade crossing and the railroad's operations over the grade crossing to enable the State and public authority to complete the Grade Crossing Inventory Form.

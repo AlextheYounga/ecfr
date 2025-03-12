@@ -1,0 +1,3 @@
+##### § 63.179 Alternative means of emission limitation: Enclosed-vented process units. #####
+
+Process units enclosed in such a manner that all emissions from equipment leaks are vented through a closed-vent system to a control device meeting the requirements of § 63.172 of this subpart are exempt from the requirements of § 63.163, through 63.171, and §§ 63.173 and 63.174 of this subpart. The enclosure shall be maintained under a negative pressure at all times while the process unit is in operation to ensure that all emissions are routed to a control device.

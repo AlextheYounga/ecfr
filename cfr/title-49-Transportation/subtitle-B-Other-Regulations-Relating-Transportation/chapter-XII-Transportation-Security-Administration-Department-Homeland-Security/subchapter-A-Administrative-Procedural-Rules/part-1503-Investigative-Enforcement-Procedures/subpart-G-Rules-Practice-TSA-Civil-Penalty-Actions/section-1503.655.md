@@ -1,0 +1,9 @@
+##### § 1503.655 Initial decision. #####
+
+(a) *Contents.* The ALJ may issue an initial decision after the conclusion of the hearing or after the submission of written posthearing briefs, if so ordered. In each oral or written decision, the ALJ must include findings of fact and conclusions of law, and the grounds supporting those findings and conclusions, upon all material issues of fact, the credibility of witnesses, the applicable law, any exercise of the ALJ's discretion, the amount of any civil penalty found appropriate by the ALJ, and a discussion of the basis for any order issued in the proceedings. The ALJ is not required to provide a written explanation for rulings on objections, procedural motions, and other matters not directly relevant to the substance of the initial decision. If the ALJ refers to any previous unreported or unpublished initial decision, the ALJ must make copies of that initial decision available to all parties and the TSA decision maker.
+
+(b) *Written decision.* At the conclusion of the hearing, the ALJ may issue the initial decision and order orally on the record. The ALJ must issue a written initial decision and order not later than 30 days after the conclusion of the hearing or submission of the last posthearing brief. The ALJ must serve a copy of any written initial decision on each party.
+
+(c) *Order assessing civil penalty.* Unless appealed pursuant to § 1503.657, the initial decision issued by the ALJ will be considered an order assessing civil penalty if the ALJ finds that an alleged violation occurred and determines that a civil penalty, in an amount found appropriate by the ALJ, is warranted.
+
+(d) *Effect of initial decision.* An initial decision of an ALJ is persuasive authority in any other civil penalty action, unless appealed and reversed by the TSA decision maker or a court of competent jurisdiction.

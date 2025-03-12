@@ -1,0 +1,11 @@
+##### § 2.132 Involuntary dismissal for failure to take testimony. #####
+
+Link to an amendment published at 81 FR 69985, October 7, 2016.
+
+(a) If the time for taking testimony by any party in the position of plaintiff has expired and that party has not taken testimony or offered any other evidence, any party in the position of defendant may, without waiving the right to offer evidence in the event the motion is denied, move for dismissal on the ground of the failure of the plaintiff to prosecute. The party in the position of plaintiff shall have fifteen days from the date of service of the motion to show cause why judgment should not be rendered against him. In the absence of a showing of good and sufficient cause, judgment may be rendered against the party in the position of plaintiff. If the motion is denied, testimony periods will be reset for the party in the position of defendant and for rebuttal.
+
+(b) If no evidence other than a copy or copies of Patent and Trademark Office records is offered by any party in the position of plaintiff, any party in the position of defendant may, without waiving the right to offer evidence in the event the motion is denied, move for dismissal on the ground that upon the law and the facts the party in the position of plaintiff has shown no right to relief. The party in the position of plaintiff shall have fifteen days from the date of service of the motion to file a brief in response to the motion. The Trademark Trial and Appeal Board may render judgment against the party in the position of plaintiff, or the Board may decline to render judgment until all of the evidence is in the record. If judgment is not rendered, testimony periods will be reset for the party in the position of defendant and for rebuttal.
+
+(c) A motion filed under paragraph (a) or (b) of this section must be filed before the opening of the testimony period of the moving party, except that the Trademark Trial and Appeal Board may in its discretion grant a motion under paragraph (a) even if the motion was filed after the opening of the testimony period of the moving party.
+
+[48 FR 23141, May 23, 1983, as amended at 51 FR 28710, Aug. 11, 1986]

@@ -1,0 +1,3 @@
+##### § 556.201 Does BOEM consider multiple uses of the OCS? #####
+
+BOEM gathers information about multiple uses of the OCS in order to assist the Secretary in making decisions on the 5-year program pursuant to provisions of 43 U.S.C. 1344. For this purpose, BOEM invites and considers suggestions from States and local governments, industry, and any other interested parties, primarily through public notice and comment procedures. BOEM also invites and considers suggestions from Federal agencies.

@@ -1,0 +1,3 @@
+##### 9901.307 Exemptions and waivers. #####
+
+The Board may exempt classes or categories of contractors and subcontractors from cost accounting standards requirements, and establish procedures for waiver of the requirements with respect to individual contracts and subcontracts. The official records of the Board shall be documented with supporting justification for class or category exemptions and individual waivers.

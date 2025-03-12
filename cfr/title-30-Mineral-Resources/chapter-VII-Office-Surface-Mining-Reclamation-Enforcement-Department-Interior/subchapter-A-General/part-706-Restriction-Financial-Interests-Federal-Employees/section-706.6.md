@@ -1,0 +1,5 @@
+##### § 706.6 Penalties. #####
+
+(a) Criminal penalties are imposed by section 201(f) of the Surface Mining Control and Reclamation Act of 1977, Pub. L. 95-87, which prohibits each employee of the Office or any other Federal employee who performs any function or duty under the Act from having a direct or indirect financial interest in underground or surface coal mining operations. The Act provides that whoever knowingly violates the provisions of section 201(f) shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both.
+
+(b) Regulatory penalties are imposed by this part. The provisions in section 201(f) of the Act make compliance with the financial interest requirements a condition of employment for all Office employees and for other Federal employees who perform any functions or duties under the Act. Accordingly, an employee who fails to file the required financial statement will be considered in violation of the intended employment provisions of section 201(f) and will be subject to removal from his or her position.

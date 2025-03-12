@@ -1,0 +1,3 @@
+##### § 52.147 Duration of design approval. #####
+
+A standard design approval issued under this subpart is valid for 15 years from the date of issuance and may not be renewed. A design approval continues to be valid beyond the date of expiration in any proceeding on an application for a construction permit or an operating license under part 50 or a combined license or manufacturing license under part 52 that references the final design approval and is docketed before the date of expiration of the design approval.

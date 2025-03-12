@@ -1,0 +1,9 @@
+##### § 73.508 Standards of good engineering practice. #####
+
+(a) All noncommercial educational stations and LPFM stations operating with more than 10 watts transmitter power output shall be subject to all of the provisions of the FM Technical Standards contained in subpart B of this part. Class D educational stations and LPFM stations operating with 10 watts or less transmitter output power shall be subject to the definitions contained in § 73.310, and also to those other provisions of the FM Technical Standards which are specifically made applicable to them by the provisions of this subpart.
+
+(b) The transmitter and associated transmitting equipment of each noncommercial educational FM station and LPFM station licensed for transmitter power output above 10 watts must be designed, constructed and operated in accordance with § 73.317.
+
+(c) The transmitter and associated transmitting equipment of each noncommercial educational FM station licensed for transmitter power output of 10 watts or less, although not required to meet all requirements of § 73.317, must be constructed with the safety provisions of the current national electrical code as approved by the American National Standards Institute. These stations must be operated, tuned, and adjusted so that emissions are not radiated outside the authorized band causing or which are capable of causing interference to the communications of other stations. The audio distortion, audio frequency range, carrier hum, noise level, and other essential phases of the operation which control the external effects, must be at all times capable of providing satisfactory broadcast service. Studio equipment properly covered by an underwriter's certificate will be considered as satisfying safety requirements.
+
+[65 FR 7640, Feb. 15, 2000]

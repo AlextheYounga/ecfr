@@ -1,0 +1,3 @@
+##### § 960.3-1-4-3 Site recommendation for characterization. #####
+
+The evidence required to support the recommendation of a site as a candidate site for characterization shall consist of the evaluations and data contained or referenced in the environmental assessment for such site, unless the Secretary certifies that such information, in the absence of additional preliminary borings or excavations, will not be adequate to satisfy applicable requirements of the Act.

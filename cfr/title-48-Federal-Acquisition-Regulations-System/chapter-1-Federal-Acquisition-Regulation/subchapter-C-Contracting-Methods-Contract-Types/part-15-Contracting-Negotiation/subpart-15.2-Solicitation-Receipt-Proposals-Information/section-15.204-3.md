@@ -1,0 +1,3 @@
+##### 15.204-3 Part II—Contract Clauses. #####
+
+*Section I, Contract clauses.* The contracting officer shall include in this section the clauses required by law or by this part and any additional clauses expected to be included in any resulting contract, if these clauses are not required in any other section of the uniform contract format. An index may be inserted if this section's format is particularly complex.

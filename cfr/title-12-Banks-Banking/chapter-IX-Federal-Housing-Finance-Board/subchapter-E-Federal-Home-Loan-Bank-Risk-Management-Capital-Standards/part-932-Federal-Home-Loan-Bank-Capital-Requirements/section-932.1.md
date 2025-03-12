@@ -1,0 +1,3 @@
+##### § 932.1 Risk management. #####
+
+Before its new capital plan may take effect, each Bank shall obtain the approval of the Finance Board for the internal market risk model or the internal cash flow model used to calculate the market risk component of its risk-based capital requirement, and for the risk assessment procedures and controls (whether established as part of its risk management policy or otherwise) to be used to manage its credit, market, and operations risks.

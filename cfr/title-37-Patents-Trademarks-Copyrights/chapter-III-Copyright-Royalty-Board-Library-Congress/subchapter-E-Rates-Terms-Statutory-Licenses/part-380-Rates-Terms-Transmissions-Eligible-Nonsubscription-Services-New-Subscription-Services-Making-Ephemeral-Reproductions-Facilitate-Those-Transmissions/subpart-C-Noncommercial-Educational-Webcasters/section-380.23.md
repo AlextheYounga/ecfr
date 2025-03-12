@@ -1,0 +1,63 @@
+##### § 380.23 Terms for making payment of royalty fees and statements of account. #####
+
+(a) *Payment to the Collective.* A Noncommercial Educational Webcaster shall make the royalty payments due under § 380.22 to the Collective.
+
+(b) *Designation of the Collective.* (1) The Copyright Royalty Judges designate SoundExchange, Inc., as the Collective to receive statements of account and royalty payments from Noncommercial Educational Webcasters due under § 380.22 and to distribute royalty payments to each Copyright Owner and Performer, or their designated agents, entitled to receive royalties under 17 U.S.C. 112(e) or 114(g).
+
+(2) If SoundExchange, Inc., should dissolve or cease to be governed by a board consisting of equal numbers of representatives of Copyright Owners and Performers, then it shall be replaced by a successor Collective upon the fulfillment of the requirements set forth in paragraph (b)(2)(i) of this section.
+
+(i) By a majority vote of the nine Copyright Owner representatives and the nine Performer representatives on the SoundExchange board as of the last day preceding the condition precedent in this paragraph (b)(2), such representatives shall file a petition with the Copyright Royalty Board designating a successor to collect and distribute royalty payments to Copyright Owners and Performers entitled to receive royalties under 17 U.S.C. 112(e) or 114(g) that have themselves authorized such Collective.
+
+(ii) The Copyright Royalty Judges shall publish in the Federal Register within 30 days of receipt of a petition filed under paragraph (b)(2)(i) of this section an order designating the Collective named in such petition.
+
+(c) *Minimum fee.* Noncommercial Educational Webcasters shall submit the Minimum Fee, and Proxy Fee if applicable, accompanied by a statement of account, by January 31st of each calendar year, except that payment of the Minimum Fee, and Proxy Fee if applicable, by a Noncommercial Educational Webcaster that was not making Eligible Transmissions or Ephemeral Recordings pursuant to the licenses in 17 U.S.C. 114 and/or 17 U.S.C. 112(e) as of said date but begins doing so thereafter shall be due by the 45th day after the end of the month in which the Noncommercial Educational Webcaster commences doing so. At the same time the Noncommercial Educational Webcaster must identify all its stations making Eligible Transmissions and identify which of the reporting options set forth in paragraph (g) of this section it elects for the relevant year (provided that it must be eligible for the option it elects).
+
+(d) [Reserved]
+
+(e) *Late fees.* A Noncommercial Educational Webcaster shall pay a late fee for each instance in which any payment, any statement of account or any report of use is not received by the Collective in compliance with the applicable regulations by the due date. The amount of the late fee shall be 1.5% of the late payment, or 1.5% of the payment associated with a late statement of account or report of use, per month, compounded monthly for the balance due, or the highest lawful rate, whichever is lower. The late fee shall accrue from the due date of the payment, statement of account or report of use until a fully compliant payment, statement of account or report of use (as applicable) is received by the Collective, provided that, in the case of a timely provided but noncompliant statement of account or report of use, the Collective has notified the Noncommercial Educational Webcaster within 90 days regarding any noncompliance that is reasonably evident to the Collective.
+
+(f) *Statements of account.* Any payment due under § 380.22(a) shall be accompanied by a corresponding statement of account on a form provided by the Collective. A statement of account shall contain the following information:
+
+(1) The name of the Noncommercial Educational Webcaster, exactly as it appears on the notice of use, and if the statement of account covers a single station only, the call letters or name of the station;
+
+(2) [Reserved]
+
+(3) The name, address, business title, telephone number, facsimile number (if any), electronic mail address (if any) and other contact information of the person to be contacted for information or questions concerning the content of the statement of account;
+
+(4) The signature of a duly authorized representative of the applicable educational institution;
+
+(5) The printed or typewritten name of the person signing the statement of account;
+
+(6) The date of signature;
+
+(7) The title or official position held by the person signing the statement of account;
+
+(8) A certification of the capacity of the person signing; and
+
+(9) A statement to the following effect:
+
+I, the undersigned duly authorized representative of the applicable educational institution, have examined this statement of account; hereby state that it is true, accurate, and complete to my knowledge after reasonable due diligence; and further certify that the licensee entity named herein qualifies as a Noncommercial Educational Webcaster for the relevant year, and did not exceed 159,140 total ATH in any month of the prior year for which the Noncommercial Educational Webcaster did not submit a statement of account and pay any required additional royalties.
+
+(g) *Reporting by Noncommercial Educational Webcasters in general* - (1) *Reporting waiver.* In light of the unique business and operational circumstances with respect to Noncommercial Educational Webcasters, and for the purposes of this subpart only, a Noncommercial Educational Webcaster that did not exceed 80,000 total ATH for any individual channel or station for more than one calendar month in the immediately preceding calendar year and that does not expect to exceed 80,000 total ATH for any individual channel or station for any calendar month during the applicable calendar year may elect to pay to the Collective a nonrefundable, annual Proxy Fee of $100 in lieu of providing reports of use for the calendar year pursuant to the regulations § 370.4 of this chapter. In addition, a Noncommercial Educational Webcaster that unexpectedly exceeded 80,000 total ATH on one or more channels or stations for more than one month during the immediately preceding calendar year may elect to pay the Proxy Fee and receive the reporting waiver described in paragraph (g)(1) of this section during a calendar year, if it implements measures reasonably calculated to ensure that it will not make Eligible Transmissions exceeding 80,000 total ATH during any month of that calendar year. The Proxy Fee is intended to defray the Collective's costs associated with this reporting waiver, including development of proxy usage data. The Proxy Fee shall be paid by the date specified in paragraph (c) of this section for paying the Minimum Fee for the applicable calendar year and shall be accompanied by a certification on a form provided by the Collective, signed by a duly authorized representative of the applicable educational institution, stating that the Noncommercial Educational Webcaster is eligible for the Proxy Fee option because of its past and expected future usage and, if applicable, has implemented measures to ensure that it will not make excess Eligible Transmissions in the future.
+
+(2) *Sample-basis reports.* A Noncommercial Educational Webcaster that did not exceed 159,140 total ATH for any individual channel or station for more than one calendar month in the immediately preceding calendar year and that does not expect to exceed 159,140 total ATH for any individual channel or station for any calendar month during the applicable calendar year may elect to provide reports of use on a sample basis (two weeks per calendar quarter) in accordance with the regulations at § 370.4 of this chapter, except that, notwithstanding § 370.4(d)(2)(vi), such an electing Noncommercial Educational Webcaster shall not be required to include ATH or actual total performances and may in lieu thereof provide channel or station name and play frequency. Notwithstanding the foregoing, a Noncommercial Educational Webcaster that is able to report ATH or actual total performances is encouraged to do so. These reports of use shall be submitted to the Collective no later than January 31st of the year immediately following the year to which they pertain.
+
+(3) *Census-basis reports.* If any of the following three conditions is satisfied, a Noncommercial Educational Webcaster must report pursuant to paragraph (g)(3) of this section:
+
+(i) The Noncommercial Educational Webcaster exceeded 159,140 total ATH for any individual channel or station for more than one calendar month in the immediately preceding calendar year;
+
+(ii) The Noncommercial Educational Webcaster expects to exceed 159,140 total ATH for any individual channel or station for any calendar month in the applicable calendar year; or
+
+(iii) The Noncommercial Educational Webcaster otherwise does not elect to be subject to paragraph (g)(1) or (2) of this section.
+
+A Noncommercial Educational Webcaster required to report pursuant to paragraph (g)(3) of this section shall provide reports of use to the Collective quarterly on a census reporting basis in accordance with § 370.4 of this chapter, except that, notwithstanding § 370.4(d)(2), such a Noncommercial Educational Webcaster shall not be required to include ATH or actual total performances, and may in lieu thereof provide channel or station name and play frequency, during the first calendar year it reports in accordance with paragraph (g)(3) of this section. For the avoidance of doubt, after a Noncommercial Educational Webcaster has been required to report in accordance with paragraph (g)(3) of this section for a full calendar year, it must thereafter include ATH or actual total performances in its reports of use. All reports of use under paragraph (g)(3) of this section shall be submitted to the Collective no later than the 45th day after the end of each calendar quarter.
+
+(h) *Distribution of royalties.* (1) The Collective shall promptly distribute royalties received from Noncommercial Educational Webcasters to Copyright Owners and Performers, or their designated agents, that are entitled to such royalties. The Collective shall only be responsible for making distributions to those Copyright Owners, Performers, or their designated agents who provide the Collective with such information as is necessary to identify and pay the correct recipient. The Collective shall distribute royalties on a basis that values all performances by a Noncommercial Educational Webcaster equally based upon the information provided under the report of use requirements for Noncommercial Educational Webcasters contained in § 370.4 of this chapter and this subpart, except that in the case of Noncommercial Educational Webcasters that elect to pay a Proxy Fee in lieu of providing reports of use pursuant to paragraph (g)(1) of this section, the Collective shall distribute the aggregate royalties paid by electing Noncommercial Educational Webcasters based on proxy usage data in accordance with a methodology adopted by the Collective's Board of Directors.
+
+(2) If the Collective is unable to locate a Copyright Owner or Performer entitled to a distribution of royalties under paragraph (h)(1) of this section within 3 years from the date of payment by a Noncommercial Educational Webcaster, such distribution may first be applied to the costs directly attributable to the administration of that distribution. The foregoing shall apply notwithstanding the common law or statutes of any State.
+
+(i) *Server logs.* Noncommercial Educational Webcasters shall retain for a period of no less than three full calendar years server logs sufficient to substantiate all information relevant to eligibility, rate calculation and reporting under this subpart. To the extent that a third-party Web hosting or service provider maintains equipment or software for a Noncommercial Educational Webcaster and/or such third party creates, maintains, or can reasonably create such server logs, the Noncommercial Educational Webcaster shall direct that such server logs be created and maintained by said third party for a period of no less than three full calendar years and/or that such server logs be provided to, and maintained by, the Noncommercial Educational Webcaster.
+
+(ii) [Reserved]
+
+[79 FR 23127, Apr. 25, 2014, as amended at 80 FR 58206, Sept. 28, 2015; 81 FR 26409, May 2, 2016]

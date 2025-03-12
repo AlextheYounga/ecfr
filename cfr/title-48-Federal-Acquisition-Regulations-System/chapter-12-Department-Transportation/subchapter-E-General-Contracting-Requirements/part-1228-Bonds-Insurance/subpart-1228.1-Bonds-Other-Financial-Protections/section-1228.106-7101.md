@@ -1,0 +1,3 @@
+##### 1228.106-7101 Exception. #####
+
+A performance and payment bond for the contracts described under (TAR) 48 CFR 1228.106-7100(a) may be advantageous in view of unusual circumstances arising in connection with such contracts. Requests for the authority to include the requirement for either a performance or payment bond, or both in the contracts described under (TAR) 48 CFR 1228.106-7100(a) shall be submitted by the contracting officer to the HCA, before a solicitation is issued.

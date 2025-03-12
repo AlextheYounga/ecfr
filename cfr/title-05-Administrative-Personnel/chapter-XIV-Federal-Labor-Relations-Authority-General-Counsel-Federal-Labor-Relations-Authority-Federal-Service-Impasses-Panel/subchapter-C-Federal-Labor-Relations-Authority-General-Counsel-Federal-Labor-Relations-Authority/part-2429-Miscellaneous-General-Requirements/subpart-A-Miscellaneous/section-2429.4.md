@@ -1,0 +1,3 @@
+##### § 2429.4 Referral of policy questions to the Authority. #####
+
+Notwithstanding the procedures set forth in this subchapter, the General Counsel, the Assistant Secretary, or the Panel may refer for review and decision or general ruling by the Authority any case involving a major policy issue that arises in a proceeding before any of them. Any such referral shall be in writing and a copy of such referral shall be served on all parties to the proceeding. Before decision or general ruling, the Authority shall obtain the views of the parties and other interested persons, orally or in writing, as it deems necessary and appropriate.

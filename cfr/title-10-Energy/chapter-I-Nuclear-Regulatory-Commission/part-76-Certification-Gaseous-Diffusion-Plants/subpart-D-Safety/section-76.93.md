@@ -1,0 +1,3 @@
+##### § 76.93 Quality assurance. #####
+
+The Corporation shall establish, maintain, and execute a quality assurance program satisfying each of the applicable requirements of ASME NQA-1-1989, “Quality Assurance Program Requirements for Nuclear Facilities,” or satisfying acceptable alternatives to the applicable requirements. The Corporation shall execute the criteria in a graded approach to an extent that is commensurate with the importance to safety.

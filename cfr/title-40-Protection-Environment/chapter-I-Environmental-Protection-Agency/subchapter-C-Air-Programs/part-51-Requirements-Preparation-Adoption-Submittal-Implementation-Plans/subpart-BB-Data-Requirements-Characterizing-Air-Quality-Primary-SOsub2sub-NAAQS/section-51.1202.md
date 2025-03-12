@@ -1,0 +1,3 @@
+##### § 51.1202 Applicability. #####
+
+This subpart applies to any air agency in whose jurisdiction is located one or more applicable sources of SO2 emissions that have annual actual SO2 emissions of 2,000 tons or more; or in whose jurisdiction is located one or more sources of SO2 emissions that have been identified by the air agency or by the EPA Regional Administrator as requiring further air quality characterization. For the purposes of this subpart, the subject air agency shall identify applicable sources of SO2 based on the most recently available annual SO2 emissions data for such sources.

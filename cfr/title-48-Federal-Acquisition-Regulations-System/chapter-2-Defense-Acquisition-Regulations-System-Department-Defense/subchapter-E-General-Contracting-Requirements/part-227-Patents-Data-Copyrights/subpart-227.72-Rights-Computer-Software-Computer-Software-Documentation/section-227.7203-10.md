@@ -1,0 +1,31 @@
+##### 227.7203-10 Contractor identification and marking of computer software or computer software documentation to be furnished with restrictive markings. #####
+
+(a) *Identification requirements.* (1) The solicitation provision at 252.227-7017, Identification and Assertion of Use, Release, or Disclosure Restrictions, requires offerors to identify, prior to contract award, any computer software or computer software documentation that an offeror asserts should be provided to the Government with restrictions on use, modification, reproduction, release, or disclosure. This requirement does not apply to restrictions based solely on copyright. The notification and identification must be submitted as an attachment to the offer. If an offeror fails to submit the attachment or fails to complete the attachment in accordance with the requirements of the solicitation provision, such failure shall constitute a minor informality. Provide offerors an opportunity to remedy a minor informality in accordance with the procedures at FAR 14.405 or 15.306(a). An offeror's failure to correct an informality within the time prescribed by the contracting officer shall render the offer ineligible for award.
+
+(2) The procedures for correcting minor informalities shall not be used to obtain information regarding asserted restrictions or an offeror's suggested asserted rights category. Questions regarding the justification for an asserted restriction or asserted rights category must be pursued in accordance with the procedures at 227.7203-13.
+
+(3) The restrictions asserted by a successful offeror shall be attached to its contract unless, in accordance with the procedures at 227.7203-13, the parties have agreed that an asserted restriction is not justified. The contract attachment shall provide the same information regarding identification of the computer software or computer software documentation, the asserted rights category, the basis for the assertion, and the name of the person asserting the restrictions as required by paragraph (d) of the solicitation provision at 252.227-7017. Subsequent to contract award, the clause at 252.227-7014, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation, permits a contractor to make additional assertions under certain conditions. The additional assertions must be made in accordance with the procedures and in the format prescribed by that clause.
+
+(4) Neither the pre- or post-award assertions made by the contractor nor the fact that certain assertions are identified in the attachment to the contract, determine the respective rights of the parties. As provided at 227.7203-13, the Government has the right to review, verify, challenge and validate restrictive markings.
+
+(5) Information provided by offerors in response to the solicitation provision at 252.227-7017 may be used in the source selection process to evaluate the impact on evaluation factors that may be created by restrictions on the Government's ability to use or disclose computer software or computer software documentation.
+
+(b) *Contractor marking requirements.* The clause at 252.227-7014, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation -
+
+(1) Requires a contractor who desires to restrict the Government's rights in computer software or computer software documentation to place restrictive markings on the software or documentation, provides instructions for the placement of the restrictive markings, and authorizes the use of certain restrictive markings. When it is anticipated that the software will or may be used in combat or situations which simulate combat conditions, do not permit contractors to insert instructions into computer programs that interfere with or delay operation of the software to display a restrictive rights legend or other license notice; and
+
+(2) Requires a contractor to deliver, furnish, or otherwise provide to the Government any computer software or computer software documentation in which the Government has previously obtained rights with the Government's pre-existing rights in that software or documentation unless the parties have agreed otherwise or restrictions on the Government's rights to use, modify, produce, release, or disclose the software or documentation have expired. When restrictions are still applicable, the contractor is permitted to mark the software or documentation with the appropriate restrictive legend.
+
+(c) *Unmarked computer software or computer software documentation.* (1) Computer software or computer software documentation delivered or otherwise provided under a contract without restrictive markings shall be presumed to have been delivered with unlimited rights and may be released or disclosed without restriction. To the extent practicable, if a contractor has requested permission (see paragraph (c)(2) of this subsection) to correct an inadvertent omission of markings, do not release or disclose the software or documentation pending evaluation of the request.
+
+(2) A contractor may request permission to have appropriate legends placed on unmarked computer software or computer software documentation at its expense. The request must be received by the contracting officer within six months following the furnishing or delivery of such software or documentation, or any extension of that time approved by the contracting officer. The person making the request must -
+
+(i) Identify the software or documentation that should have been marked;
+
+(ii) Demonstrate that the omission of the marking was inadvertent, the proposed marking is justified and conforms with the requirements for the marking of computer software or computer software documentation contained in the clause at 252.227-7014; and
+
+(iii) Acknowledge, in writing, that the Government has no liability with respect to any disclosure, reproduction, or use of the software or documentation made prior to the addition of the marking or resulting from the omission of the marking.
+
+(3) Contracting officers should grant permission to mark only if the software or documentation were not distributed outside the Government or were distributed outside the Government with restrictions on further use or disclosure.
+
+[60 FR 33482, June 28, 1995, as amended at 63 FR 55052, Oct. 14, 1998]

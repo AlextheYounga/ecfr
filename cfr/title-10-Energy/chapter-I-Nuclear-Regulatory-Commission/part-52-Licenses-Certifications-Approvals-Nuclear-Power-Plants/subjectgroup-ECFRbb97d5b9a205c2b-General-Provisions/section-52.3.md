@@ -1,0 +1,45 @@
+##### § 52.3 Written communications. #####
+
+(a) *General requirements.* All correspondence, reports, applications, and other written communications from an applicant, licensee, or holder of a standard design approval to the Nuclear Regulatory Commission concerning the regulations in this part, individual license conditions, or the terms and conditions of an early site permit or standard design approval, must be sent either by mail addressed: ATTN: Document Control Desk, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; by hand delivery to the NRC's offices at 11555 Rockville Pike, Rockville, Maryland, between the hours of 7:30 a.m. and 4:15 p.m. eastern time; or, where practicable, by electronic submission, for example, via Electronic Information Exchange, e-mail, or CD-ROM. Electronic submissions must be made in a manner that enables the NRC to receive, read, authenticate, distribute, and archive the submission, and process and retrieve it a single page at a time. Detailed guidance on making electronic submissions can be obtained by visiting the NRC's Web site at *http://www.nrc.gov/site-help/e-submittals.html;* by e-mail to *MSHD.Resource@nrc.gov;* or by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The guidance discusses, among other topics, the formats the NRC can accept, the use of electronic signatures, and the treatment of nonpublic information. If the communication is on paper, the signed original must be sent. If a submission due date falls on a Saturday, Sunday, or Federal holiday, the next Federal working day becomes the official due date.
+
+(b) *Distribution requirements.* Copies of all correspondence, reports, and other written communications concerning the regulations in this part or individual license conditions, or the terms and conditions of an early site permit or standard design approval, must be submitted to the persons listed in paragraph (b)(1) of this section (addresses for the NRC Regional Offices are listed in appendix D to part 20 of this chapter).
+
+(1) *Applications for amendment of permits and licenses; reports; and other communications.* All written communications (including responses to: generic letters, bulletins, information notices, regulatory information summaries, inspection reports, and miscellaneous requests for additional information) that are required of holders of early site permits, standard design approvals, combined licenses, or manufacturing licenses issued under this part must be submitted as follows, except as otherwise specified in paragraphs (b)(2) through (b)(7) of this section: to the NRC's Document Control Desk (if on paper, the signed original), with a copy to the appropriate Regional Office, and a copy to the appropriate NRC Resident Inspector, if one has been assigned to the site of the facility or the place of manufacture of a reactor licensed under subpart F of this part.
+
+(2) *Applications and amendments to applications.* Applications for early site permits, standard design approvals, combined licenses, manufacturing licenses and amendments to any of these types of applications must be submitted to the NRC's Document Control Desk, with a copy to the appropriate Regional Office, and a copy to the appropriate NRC Resident Inspector, if one has been assigned to the site of the facility or the place of manufacture of a reactor licensed under subpart F of this part, except as otherwise specified in paragraphs (b)(3) through (b)(7) of this section. If the application or amendment is on paper, the submission to the Document Control Desk must be the signed original.
+
+(3) *Acceptance review application.* Written communications required for an application for determination of suitability for docketing must be submitted to the NRC's Document Control Desk, with a copy to the appropriate Regional Office. If the communication is on paper, the submission to the Document Control Desk must be the signed original.
+
+(4) *Security plan and related submissions.* Written communications, as defined in paragraphs (b)(4)(i) through (iv) of this section, must be submitted to the NRC's Document Control Desk, with a copy to the appropriate Regional Office. If the communication is on paper, the submission to the Document Control Desk must be the signed original.
+
+(i) Physical security plan under § 52.79 of this chapter;
+
+(ii) Safeguards contingency plan under § 52.79 of this chapter;
+
+(iii) Change to security plan, guard training and qualification plan, or safeguards contingency plan made without prior Commission approval under § 50.54(p) of this chapter;
+
+(iv) Application for amendment of physical security plan, guard training and qualification plan, or safeguards contingency plan under § 50.90 of this chapter.
+
+(5) *Emergency plan and related submissions.* Written communications as defined in paragraphs (b)(5)(i) through (iii) of this section must be submitted to the NRC's Document Control Desk, with a copy to the appropriate Regional Office, and a copy to the appropriate NRC Resident Inspector if one has been assigned to the site of the facility. If the communication is on paper, the submission to the Document Control Desk must be the signed original.
+
+(i) Emergency plan under § 52.17(b) or § 52.79(a);
+
+(ii) Change to an emergency plan under § 50.54(q) of this chapter;
+
+(iii) Emergency implementing procedures under appendix E, Section V of part 50 of this chapter.
+
+(6) *Updated FSAR.* An updated final safety analysis report (FSAR) or replacement pages under § 50.71(e) of this chapter, or the regulations in this part must be submitted to the NRC's Document Control Desk, with a copy to the appropriate Regional Office, and a copy to the appropriate NRC Resident Inspector if one has been assigned to the site of the facility or the place of manufacture of a reactor licensed under subpart F of this part. Paper copy submissions may be made using replacement pages; however, if a licensee chooses to use electronic submission, all subsequent updates or submissions must be performed electronically on a total replacement basis. If the communication is on paper, the submission to the Document Control Desk must be the signed original. If the communications are submitted electronically, see Guidance for Electronic Submissions to the Commission.
+
+(7) *Quality assurance related submissions.* (i) A change to the safety analysis report quality assurance program description under § 50.54(a)(3) or § 50.55(f)(4) of this chapter, or a change to a licensee's NRC-accepted quality assurance topical report under § 50.54(a)(3) or § 50.55(f)(4) of this chapter, must be submitted to the NRC's Document Control Desk, with a copy to the appropriate Regional Office, and a copy to the appropriate NRC Resident Inspector if one has been assigned to the site of the facility. If the communication is on paper, the submission to the Document Control Desk must be the signed original.
+
+(ii) A change to an NRC-accepted quality assurance topical report from nonlicensees (*i.e.*, architect/engineers, NSSS suppliers, fuel suppliers, constructors, etc.) must be submitted to the NRC's Document Control Desk. If the communication is on paper, the signed original must be sent.
+
+(8) *Certification of permanent cessation of operations.* The licensee's certification of permanent cessation of operations under § 52.110(a)(1), must state the date on which operations have ceased or will cease, and must be submitted to the NRC's Document Control Desk. This submission must be under oath or affirmation.
+
+(9) *Certification of permanent fuel removal.* The licensee's certification of permanent fuel removal under § 52.110(a)(1), must state the date on which the fuel was removed from the reactor vessel and the disposition of the fuel, and must be submitted to the NRC's Document Control Desk. This submission must be under oath or affirmation.
+
+(c) *Form of communications.* All paper copies submitted to meet the requirements set forth in paragraph (b) of this section must be typewritten, printed or otherwise reproduced in permanent form on unglazed paper. Exceptions to these requirements imposed on paper submissions may be granted for the submission of micrographic, photographic, or similar forms.
+
+(d) *Regulation governing submission.* Applicants, licensees, and holders of standard design approvals submitting correspondence, reports, and other written communications under the regulations of this part are requested but not required to cite whenever practical, in the upper right corner of the first page of the submission, the specific regulation or other basis requiring submission.
+
+[72 FR 49517, Aug. 28, 2007, as amended at 74 FR 62682, Dec. 1, 2009; 80 FR 74980, Dec. 1, 2015]

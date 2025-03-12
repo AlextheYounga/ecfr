@@ -1,0 +1,3 @@
+##### § 581.1 Purpose and applicability. #####
+
+The purpose of these regulations is to establish procedures under which the Secretary of the Interior (Secretary) will exercise the authority granted to administer a leasing program for minerals other than oil, gas, and sulphur in the OCS. The rules in this part apply exclusively to leasing activities for minerals other than oil, gas, and sulphur in the OCS pursuant to the Act.

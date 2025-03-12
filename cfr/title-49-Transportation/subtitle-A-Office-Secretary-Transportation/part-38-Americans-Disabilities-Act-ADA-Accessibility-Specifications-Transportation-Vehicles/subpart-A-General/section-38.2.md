@@ -1,0 +1,3 @@
+##### § 38.2 Equivalent facilitation. #####
+
+Departures from particular technical and scoping requirements of these guidelines by use of other designs and technologies are permitted where the alternative designs and technologies used will provide substantially equivalent or greater access to and usability of the vehicle. Departures are to be considered on a case-by-case basis under procedures set forth in § 37.7 of this title.

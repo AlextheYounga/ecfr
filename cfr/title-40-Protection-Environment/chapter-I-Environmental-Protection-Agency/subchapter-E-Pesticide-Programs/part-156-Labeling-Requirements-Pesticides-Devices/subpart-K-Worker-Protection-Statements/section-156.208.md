@@ -1,0 +1,29 @@
+##### § 156.208 Restricted-entry statements. #####
+
+(a) *Requirement.* Each product with a restricted-entry interval shall bear the following statement: “Do not enter or allow worker entry into treated areas during the restricted-entry interval (REI).” This statement shall be under the heading AGRICULTURAL USE REQUIREMENTS in the labeling.
+
+(b) *Location of specific restricted-entry interval statements.* (1) If a product has one specific restricted-entry interval applicable to all registered uses of the product on agricultural plants, the restricted-entry interval for the product shall appear as a continuation of the statement required in paragraph (a) of this section and shall appear as follows: “of X hours” or “of X days” or “until the acceptable exposure level of X ppm or mg/m3 is reached.”
+
+(2) If different restricted-entry intervals have been established for some crops or some uses of a product, the restricted-entry statement in paragraph (b)(1) of this section shall be associated on the labeling of the product with the directions for use for each crop each use to which it applies, immediately preceded or immediately followed by the words “Restricted-entry interval” (or the letters “REI”).
+
+(c) *Restricted-entry interval based on toxicity of active ingredient*—(1) *Determination of toxicity category.* A restricted-entry interval shall be established based on the acute toxicity of the active ingredients in the product. For the purpose of setting the restricted-entry interval, the toxicity category of each active ingredient in the product shall be determined by comparing the obtainable data on the acute dermal toxicity, eye irritation effects, and skin irritation effects of the ingredient to the criteria of § 156.62. The most toxic of the applicable toxicity categories that are obtainable for each active ingredient shall be used to determine the restricted-entry interval for that product. If no acute dermal toxicity data are obtainable, data on acute oral toxicity also shall be considered in this comparison. If no applicable acute toxicity data are obtainable on the active ingredient, the toxicity category corresponding to the signal word of any registered manufacturing-use product that is the source of the active ingredient in the end-use product shall be used. If no acute toxicity data are obtainable on the active ingredients and no toxicity category of a registered manufacturing-use product is obtainable, the toxicity category of the end-use product (corresponding to the signal word on its labeling) shall be used.
+
+(2) *Restricted-entry interval for sole active ingredient products.* (i) If the product contains only one active ingredient and it is in toxicity category I by the criteria in paragraph (c)(1) of this section, the restricted-entry interval shall be 48 hours. If, in addition, the active ingredient is an organophosphorus ester that inhibits cholinesterase and that may be applied outdoors in an area where the average annual rainfall for the application site is less than 25 inches per year, the following statement shall be added to the restricted-entry interval statement: “(72 hours in outdoor areas where average annual rainfall is less than 25 inches a year).”
+
+(ii) If the product contains only one active ingredient and it is in toxicity category II by the criteria in paragraph (c)(1) of this section, the restricted-entry interval shall be 24 hours.
+
+(iii) If the product contains only active ingredients that are in toxicity category III or IV by the criteria in paragraph (c)(1) of this section, the restricted-entry interval shall be 12 hours.
+
+(3) *Restricted-entry interval for multiple active ingredient products.* If the product contains more than one active ingredient, the restricted-entry interval (including any associated statement concerning use in arid areas under paragraph (c)(2)(i) of this section) shall be based on the active ingredient that requires the longest restricted-entry interval as determined by the criteria in this section.
+
+(d) *Exception for fumigants.* The criteria for determining restricted-entry intervals in paragraph (c) of this section shall not apply to any product that is a fumigant. For fumigants, any existing restricted-entry interval (hours, days, or acceptable exposure level) shall be retained. Entry restrictions for fumigants have been or shall be established on a case-by-case basis at the time of registration, reregistration, or other Agency review process.
+
+(e) *Existing product-specific restricted-entry intervals.* (1) A product-specific restricted-entry interval, based on data collected in accordance with § 158.1070 or § 161.390 of this chapter and Subdivision K of the Pesticide Assessment Guidelines, shall supersede any restricted-entry interval applicable to the product under paragraph (c) of this section.
+
+(2) Product-specific restricted-entry intervals established for pesticide products or pesticide uses that are not covered by part 170 of this chapter shall remain in effect and shall not be placed under the heading AGRICULTURAL USE REQUIREMENTS in the labeling.
+
+(f) *Existing interim restricted-entry intervals.* (1) An interim restricted-entry interval established by the Agency before the effective date of this subpart will continue to apply unless a longer restricted-entry interval is required by paragraph (c) of this section.
+
+(2) Existing interim restricted-entry intervals established by the Agency for pesticide products or pesticide uses not covered by part 170 of this chapter shall remain in effect and shall not be placed under the heading AGRICULTURAL USE REQUIREMENTS in the labeling.
+
+[57 FR 38146, Aug. 21, 1992, as amended at 58 FR 34203, June 23, 1993; 72 FR 61028, Oct. 26, 2007; 73 FR 75596, Dec. 12, 2008]

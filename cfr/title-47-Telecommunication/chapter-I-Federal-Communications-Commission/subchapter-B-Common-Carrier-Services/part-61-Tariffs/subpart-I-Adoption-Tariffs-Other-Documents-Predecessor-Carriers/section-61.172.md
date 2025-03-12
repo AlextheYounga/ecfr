@@ -1,0 +1,3 @@
+##### § 61.172 Changes to be incorporated in tariffs of successor carrier. #####
+
+When only a portion of properties is transferred to a successor carrier, that carrier must incorporate in its tariff the rates applying locally between points on the transferred portion. Moreover, the predecessor carrier must simultaneously cancel the corresponding rates from its tariffs, and reference the FCC number of the successor carrier's tariff containing the rates that will thereafter apply.

@@ -1,0 +1,3 @@
+##### § 229.113 Warning notice. #####
+
+Whenever any steam generator has been shut down because of defects, a distinctive warning notice giving reasons for the shut-down shall be conspicuously attached near the steam generator starting controls until the necessary repairs have been made. The locomotive in which the steam generator displaying a warning notice is located may continue in service until the next periodic inspection.

@@ -1,0 +1,3 @@
+##### § 1015.305 Further review of compromise offers. #####
+
+If DOE is uncertain whether to accept a firm, written, substantive compromise offer on a debt that is within DOE's delegated compromise authority, it may refer the offer to the Civil Division or other appropriate litigating division in the DOJ, using a CCLR accompanied by supporting data and particulars concerning the debt. The DOJ may act upon such an offer or return it to DOE with instructions or advice.

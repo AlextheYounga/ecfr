@@ -1,0 +1,3 @@
+##### § 64.4006 Limitations on use of customer account information. #####
+
+A carrier that receives customer account information under this section shall use such information to ensure timely and accurate billing of a customer's account and to ensure timely and accurate execution of a customer's preferred interexchange carrier instructions. Such information shall not be used for marketing purposes without the express consent of the customer.

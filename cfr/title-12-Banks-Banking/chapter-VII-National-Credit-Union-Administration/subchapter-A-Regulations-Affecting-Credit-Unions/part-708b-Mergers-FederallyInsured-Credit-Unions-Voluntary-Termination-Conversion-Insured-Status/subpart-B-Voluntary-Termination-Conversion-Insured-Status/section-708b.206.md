@@ -1,0 +1,19 @@
+##### § 708b.206 Share insurance communications to members. #####
+
+(a) Every share insurance communication must comply with § 740.2 of this chapter, which, in part, prohibits federally-insured credit unions from making any representation that is inaccurate or deceptive in any particular.
+
+(b) Every share insurance communication must contain the following conspicuous statement: “IF YOU ARE A MEMBER OF THIS CREDIT UNION, YOUR ACCOUNTS ARE CURRENTLY INSURED BY THE NATIONAL CREDIT UNION ADMINISTRATION, A FEDERAL AGENCY. THIS FEDERAL INSURANCE IS BACKED BY THE FULL FAITH AND CREDIT OF THE UNITED STATES GOVERNMENT. IF THE CREDIT UNION CONVERTS TO PRIVATE INSURANCE WITH [insert name of private share insurer] AND THE CREDIT UNION FAILS, THE FEDERAL GOVERNMENT DOES NOT GUARANTEE THAT YOU WILL GET YOUR MONEY BACK.” The statement must:
+
+(1) Appear on the first page of the communication where conversion is discussed and, if the communication is on an Internet Web site posting, the credit union must make reasonable efforts to make it visible without scrolling; and (2) Must be in capital letters, bolded, offset from the other text by use of a border, and at least one font size larger than any other text (exclusive of headings) used in the communication.
+
+(c) Every share insurance communication about share insurance termination must contain the following conspicuous statement: “IF YOU ARE A MEMBER OF THIS CREDIT UNION, YOUR ACCOUNTS ARE CURRENTLY INSURED BY THE NATIONAL CREDIT UNION ADMINISTRATION, A FEDERAL AGENCY. THIS FEDERAL INSURANCE IS BACKED BY THE FULL FAITH AND CREDIT OF THE UNITED STATES GOVERNMENT. IF THE CREDIT UNION TERMINATES ITS FEDERAL INSURANCE AND THE CREDIT UNION FAILS, THE FEDERAL GOVERNMENT DOES NOT GUARANTEE THAT YOU WILL GET YOUR MONEY BACK.” The statement must:
+
+(1) Appear on the first page of the communication where termination is discussed and, if the communication is on an internet website posting, the credit union must make reasonable efforts to make it visible without scrolling; and
+
+(2) Must be in capital letters, bolded, offset from the other text by use of a border, and at least one font size larger than any other text (exclusive of headings) used in the communication.
+
+(d) A converting credit union must provide the Regional Director with a copy of any share insurance communication that the credit union will make during the voting period. The Regional Director must receive the copy at or before the time the credit union makes it available to members. The converting credit union must inform the Regional Director when the communication is to be made, to which members it will be directed, and how it will be disseminated. For purposes of this section, the voting period begins on the date of the board of director's resolution to seek conversion or termination and ends on the date the member voting closes.
+
+(e) The Regional Director may take appropriate action, including disapproving a conversion, if he or she determines that a converting credit union, by inclusion or omission of information in a share insurance communication, materially mislead or misinformed its membership. For example, the Regional Director will treat any share insurance communication that compares the relative strength, safety, or claims paying ability of a private insurer with that of the National Credit Union Share Insurance Fund as materially misleading if the comparison fails to mention that the federal insurance provided by the NCUA is backed by the full faith and credit of the United States government.
+
+[70 FR 3288, Jan. 24, 2005, as amended at 75 FR 81394, Dec. 28, 2010]

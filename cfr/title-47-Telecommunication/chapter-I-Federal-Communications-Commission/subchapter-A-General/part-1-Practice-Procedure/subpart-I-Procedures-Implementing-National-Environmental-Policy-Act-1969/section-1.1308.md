@@ -1,0 +1,15 @@
+##### § 1.1308 Consideration of environmental assessments (EAs); findings of no significant impact. #####
+
+(a) Applicants shall prepare EAs for actions that may have a significant environmental impact (*see* § 1.1307). An EA is described in detail in § 1.1311 of this part of the Commission rules.
+
+(b) The EA is a document which shall explain the environmental consequences of the proposal and set forth sufficient analysis for the Bureau or the Commission to reach a determination that the proposal will or will not have a significant environmental effect. To assist in making that determination, the Bureau or the Commission may request further information from the applicant, interested persons, and agencies and authorities which have jurisdiction by law or which have relevant expertise.
+
+Note:
+
+With respect to actions specified under § 1.1307 (a)(3) and (a)(4), the Commission shall solicit and consider the comments of the Department of Interior, and the State Historic Preservation Officer and the Advisory Council on Historic Preservation, respectively, in accordance with their established procedures. *See* Interagency Cooperation—Endangered Species Act of 1973, as amended, 50 CFR part 402; Protection of Historic and Cultural Properties, 36 CFR part 800. In addition, when an action interferes with or adversely affects an American Indian tribe's religious site, the Commission shall solicit the views of that American Indian tribe. *See* § 1.1307(a)(5).
+
+(c) If the Bureau or the Commission determines, based on an independent review of the EA and any applicable mandatory consultation requirements imposed upon Federal agencies (*see* note above), that the proposal will have a significant environmental impact upon the quality of the human environment, it will so inform the applicant. The applicant will then have an opportunity to amend its application so as to reduce, minimize, or eliminate environmental problems. *See* § 1.1309. If the environmental problem is not eliminated, the Bureau will publish in the Federal Register a Notice of Intent (*see* § 1.1314) that EISs will be prepared (*see* §§ 1.1315 and 1.1317), or
+
+(d) If the Bureau or Commission determines, based on an independent review of the EA, and any mandatory consultation requirements imposed upon Federal agencies (*see* the note to paragraph (b) of this section), that the proposal would not have a significant impact, it will make a finding of no significant impact. Thereafter, the application will be processed without further documentation of environmental effect. Pursuant to CEQ regulations, *see* 40 CFR 1501.4 and 1501.6, the applicant must provide the community notice of the Commission's finding of no significant impact.
+
+[51 FR 15000, Apr. 22, 1986; 51 FR 18889, May 23, 1986, as amended at 53 FR 28394, July 28, 1988]

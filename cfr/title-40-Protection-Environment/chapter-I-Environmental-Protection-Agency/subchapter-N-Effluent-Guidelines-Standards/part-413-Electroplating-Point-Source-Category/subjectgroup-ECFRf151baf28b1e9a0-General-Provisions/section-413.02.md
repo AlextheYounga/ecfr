@@ -1,0 +1,23 @@
+##### § 413.02 General definitions. #####
+
+In addition to the definitions set forth in 40 CFR part 401 and the chemical analysis methods set forth in 40 CFR part 136, both of which are incorporated herein by reference, the following definitions apply to this part:
+
+(a) The term *CN,A* shall mean cyanide amenable to chlorination as defined by 40 CFR 136.
+
+(b) The term *CN,T* shall mean cyanide, total.
+
+(c) The term *Cr,VI* shall mean hexavalent chromium.
+
+(d) The term *electroplating process wastewater* shall mean process wastewater generated in operations which are subject to regulation under any of subparts A through H of this part.
+
+(e) The term *total metal* is defined as the sum of the concentration or mass of Copper (Cu), Nickel (Ni), Chromium (Cr) (total) and Zinc (Zn).
+
+(f) The term *strong chelating agents* is defined as all compounds which, by virtue of their chemical structure and amount present, form soluble metal complexes which are not removed by subsequent metals control techniques such as pH adjustment followed by clarification or filtration.
+
+(g) The term *control authority* is defined as the POTW if it has an approved pretreatment program; in the absence of such a program, the NPDES State if it has an approved pretreatment program or EPA if the State does not have an approved program.
+
+(h) The term *integrated facility* is defined as a facility that performs electroplating as only one of several operations necessary for manufacture of a product at a single physical location and has significant quantities of process wastewater from non-electroplating manufacturing operations. In addition, to qualify as an “integrated facility” one or more plant electroplating process wastewater lines must be combined prior to or at the point of treatment (or proposed treatment) with one or more plant sewers carrying process wastewater from non-electroplating manufacturing operations.
+
+(i) the term *TTO* shall mean total toxic organics, which is the summation of all quantifiable values greater than 0.01 milligrams per liter for the following toxic organics:
+
+AcenaphtheneAcroleinAcrylonitrileBenzeneBenzidineCarbon tetrachloride (tetrachloromethane)Chlorobenzene1,2,4-trichlorobenzeneHexachlorobenzene1,2-dichloroethane1,1,1-trichloroethaneHexachloroethane1,1-dichloroethane1,1,2-trichloroethane1,1,2,2-tetrachloroethaneChloroethaneBis (2-chloroethyl) ether2-chloroethyl vinyl ether (mixed)2-chloronaphthalene2,4,6-trichlorophenolParachlorometa cresolChloroform (trichloromethane)2-chlorophenol1,2-dichlorobenzene1,3-dichlorobenzene1,4-dichlorobenzene3,3-dichlorobenzidine1,1-dichloroethylene1,2-trans-dichloroethylene2,4-dichlorophenol1,2-dichloropropane1,3-dichloropropylene (1,3-dichloropropene)2,4-dimethylphenol2,4-dinitrotoluene2,6-dinitrotoluene1,2-diphenylhydrazineEthylbenzeneFluoranthene4-chlorophenyl phenyl ether4-bromophenyl phenyl etherBis (2-chloroisopropyl) etherBis (2-chloroethoxy) methaneMethylene chloride (dichloromethane)Methyl chloride (chloromethane)Methyl bromide (bromomethane)Bromoform (tribromomethane)DichlorobromomethaneChlorodibromomethaneHexachlorobutadieneHexachlorocyclopentadieneIsophoroneNaphthaleneNitrobenzene2-nitrophenol4-nitrophenol2,4-dinitrophenol4,6-dinitro-o-cresolN-nitrosodimethylamineN-nitrosodiphenylamineN-nitrosodi-n-propylaminePentachlorophenolPhenolBis (2-ethylhexyl) phthalateButyl benzyl phthalateDi-n-butyl phthalateDi-n-octyl phthalateDiethyl phthalateDimethyl phthalate1,2-benzanthracene (benzo(a)anthracene)Benzo(a)pyrene (3,4-benzopyrene)3,4-Benzofluoranthene (benzo(b)fluoranthene)11,12-benzofluoranthene (benzo(k)fluoranthene)ChryseneAcenaphthyleneAnthracene1,12-benzoperylene (benzo(ghi)perylene)FluorenePhenanthrene1,2,5,6-dibenzanthracene (dibenzo(a,h)anthracene)Indeno (1,2,3-cd) pyrene) (2,3-o-phenylene pyrene)PyreneTetrachloroethyleneTolueneTrichloroethyleneVinyl chloride (chloroethylene)AldrinDieldrinChlordane (technical mixture and metabolites)4,4-DDT4,4-DDE (p,p-DDX)4,4-DDD (p,p-TDE)Alpha-endosulfanBeta-endosulfanEndosulfan sulfateEndrinEndrin aldehydeHeptachlorHeptachlor epoxide(BHC-hexachlorocyclohexane) Alpha-BHC Beta-BHC Gamma-BHC Delta-BHC(PCB-polychlorinated biphenyls) PCB-1242 (Arochlor 1242) PCB-1254 (Arochlor 1254) PCB-1221 (Arochlor 1221) PCB-1232 (Arochlor 1232) PCB-1248 (Arochlor 1248) PCB-1260 (Arochlor 1260) PCB-1016 (Arochlor 1016)Toxaphene2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)(Secs. 301, 304, 306, 307, 308, and 501 of the Clean Water Act (the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 *et. seq.,* as amended by the Clean Water Act of 1977, Pub. L. 95-217))[46 FR 9467, Jan. 28, 1981, as amended at 48 FR 32483, July 15, 1983; 48 FR 43681, Sept. 26, 1983; 51 FR 40421, Nov. 7, 1986]

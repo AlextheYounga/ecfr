@@ -1,0 +1,5 @@
+##### § 551.48 May an official of a foreign manufacturer serve as its agent? #####
+
+(a) Generally no; an agent must be a permanent resident of the United States. Typically officials of foreign manufacturers and importers are not United States residents.
+
+(b) Occasionally an official of a foreign manufacturer also serves as an official of a domestic firm or corporation or is a permanent resident of the United States. In such cases, the official may serve as agent and sign the designation documents both on behalf of the foreign manufacturer and as agent. However, the foreign manufacturer must submit to NHTSA, along with the designation documents, a letter explaining that the individual signing the designation is both an official of the foreign manufacturer with authority to appoint an agent and a permanent resident of the United States or official of a domestic firm or corporation. If NHTSA does not receive an explanatory letter at the same time it receives the designation, the agency will deem the designation insufficient under this subpart and reject the submission.

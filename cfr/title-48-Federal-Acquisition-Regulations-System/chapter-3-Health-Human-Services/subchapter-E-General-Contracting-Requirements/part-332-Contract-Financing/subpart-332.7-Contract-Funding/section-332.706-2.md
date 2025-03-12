@@ -1,0 +1,3 @@
+##### 332.706-2 Provision and clauses for limitation of cost or funds. #####
+
+(b) In addition to the clause at FAR 52.232-22, Limitation of Funds, the contracting officer shall insert the provision at 352.232-70, Incremental Funding, in all solicitations when a cost-reimbursement contract for severable services using incremental funding is contemplated. The provision requires the contracting officer to insert a specific increment of performance that the initial funding is expected to cover.

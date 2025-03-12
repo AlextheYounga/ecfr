@@ -1,0 +1,3 @@
+##### § 550.1307 Authority to regularize paychecks. #####
+
+Upon a written request from the head of an agency (or designee), the Office of Personnel Management may approve an agency's plan to reduce or eliminate variation in the amount of firefighters' biweekly paychecks caused by work scheduling cycles that result in varying hours in the firefighters' tours of duty from pay period to pay period. Such a plan must provide that the total pay any firefighter would otherwise receive for regular tours of duty over the firefighter's entire work scheduling cycle must, to the extent practicable, remain the same.

@@ -1,0 +1,9 @@
+##### § 651.50 Committees of the Corporation's board of directors. #####
+
+(a) *General.* No committee of the board of directors may be delegated the authority of the board of directors to amend Corporation bylaws. No committee of the board of directors shall relieve the board of directors or any board member of a responsibility imposed by law or regulation.
+
+(b) *Required committees.* The board of directors of the Corporation must have committees, however styled, that address risk management, audit, compensation, and corporate governance. Neither the risk management committee nor the audit committee may be combined with any other committees. This provision does not prevent the board of directors from establishing any other committees that it deems necessary or useful to carrying out its responsibilities.
+
+(c) *Charter.* Each committee required by this section must develop a formal written charter that specifies the scope of the committee's powers and responsibilities, as well as the committee's structure, processes, and membership requirements. To be effective, the charter must be approved by action of the full board of directors. No director may serve as chairman of more than one of the board committees required by this section.
+
+(d) *Frequency of meetings and records.* Each committee of the board of directors required by this section must meet with sufficient frequency to carry out its obligations and duties under applicable laws, regulations, and its operating charter. Each of these committees must maintain minutes of its meetings. The minutes must record attendance, the agenda (or equivalent list of issues under discussion), a summary of the relevant discussions held by the committee during the meeting, and any resulting recommendations to the board. Such minutes must be retained for a minimum of 3 years and must be available to the entire board of directors and to OSMO.

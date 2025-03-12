@@ -1,0 +1,3 @@
+##### § 1807.907 Limitation on liability. #####
+
+The liability of the CDFI Fund and the United States Government arising out of any CMF Award shall be limited to the amount of the CMF Award. The CDFI Fund shall be exempt from any assessments and other liabilities that may be imposed on controlling or principal shareholders by any Federal law or the law of any State. Nothing in this section shall affect the application of any Federal tax law.

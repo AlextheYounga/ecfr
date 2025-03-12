@@ -1,0 +1,5 @@
+##### § 2417.206 Final determination. #####
+
+The Chairman of the FLRA, the General Counsel, or the Chairman of the Panel, as appropriate, makes the final determination on demands or requests to employees thereof for production of official records and information or testimony in civil litigation under this part. All final determinations are within the sole discretion of the Chairman of the FLRA, the General Counsel, or the Chairman of the Panel, as appropriate. The appropriate decision-maker will notify the requester and, when appropriate, the court or other competent authority of the final determination, the reasons for the grant or denial of the request, and any conditions that may be imposed on the release of records or information, or on the testimony of an employee. This final determination exhausts administrative remedies for discovery of the information.
+
+[81 FR 63363, Sept. 15, 2016]

@@ -1,0 +1,3 @@
+##### § 1210.14 Sanctions for failure to meet deadlines. #####
+
+Section 1201.43 of this chapter, which allows administrative judges to impose sanctions on parties that do not comply with orders or do not file pleadings in a timely fashion, shall apply to any appeal covered by this part. Strict enforcement of deadlines will be required to meet the 21-day deadline for issuance of a decision by the administrative judge.

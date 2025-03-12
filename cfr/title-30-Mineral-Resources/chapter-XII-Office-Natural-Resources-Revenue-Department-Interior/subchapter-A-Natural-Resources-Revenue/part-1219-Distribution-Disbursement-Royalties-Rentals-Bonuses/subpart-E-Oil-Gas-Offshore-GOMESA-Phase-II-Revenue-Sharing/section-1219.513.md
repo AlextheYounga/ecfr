@@ -1,0 +1,27 @@
+##### § 1219.513 How will ONRR determine each Gulf producing State's share of the qualified OCS revenues (Phase II) from leases in the 181 Area, the 181 South Area, and the 2002-2007 Planning Area? #####
+
+(a) ONRR will determine the great circle distance between:
+
+(1) The geographic center of each applicable leased tract (Phase II) or historical lease site; and
+
+(2) The point on the coastline of each Gulf producing State that is closest to the geographic center of each applicable leased tract (Phase II) or historical lease site.
+
+(b) Based on a specific subset of these distances, we will calculate the qualified OCS revenues (Phase II—uncapped) to disburse to each Gulf producing State as follows:
+
+(1) For each Gulf producing State, we will calculate and total, over all applicable leased tracts (Phase II) located in the 181 Area in the Eastern Planning Area or the 181 South Area, the mathematical inverses of the distances between the points on the State's coastline that are closest to the geographic centers of the applicable leased tracts (Phase II) located in the 181 Area in the Eastern Planning Area or the 181 South Area, and the geographic centers of the applicable leased tracts (Phase II) located in the 181 Area in the Eastern Planning Area or the 181 South Area.
+
+(2) For each Gulf producing State, we will divide the sum of each State's inverse distances from all applicable leased tracts (Phase II) located in the 181 Area in the Eastern Planning Area or the 181 South Area calculated under paragraph (1), by the sum of the inverse distances from all applicable leased tracts (Phase II) located in the 181 Area in the Eastern Planning Area or the 181 South Area across all four Gulf producing States. In the formulas below, *I*AL, *I*LA, *I*MS, and *I*TX represent the sum of the inverses of the shortest distances between Alabama, Louisiana, Mississippi, and Texas and all applicable leased tracts (Phase II), respectively. We will multiply the result by the amount of shareable, qualified OCS revenues (Phase II—uncapped).
+
+Alabama Share = (*I*AL ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—uncapped)Louisiana Share = (*I*LA ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—uncapped)Mississippi Share = (*I*MS ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—uncapped)Texas Share = (*I*TX ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—uncapped)
+
+(3) If, in any fiscal year, this calculation results in less than a 10-percent allocation of the qualified OCS revenues (Phase II—uncapped) to any Gulf producing State, we will recalculate the distribution. We will allocate 10 percent of the qualified OCS revenues (Phase II—uncapped) to the affected State and recalculate the other States' shares of the remaining qualified OCS revenues (Phase II—uncapped), omitting from the calculation the State receiving the 10-percent minimum share.
+
+(c) Based on a specific subset of these distances, we will calculate the qualified OCS revenues (Phase II—capped) to disburse to each Gulf producing State as follows:
+
+(1) For each Gulf producing State, we will calculate and total, over all applicable leased tracts (Phase II) located in the 181 Area in the Central Planning Area and historical lease sites, the mathematical inverses of the distances between the points on the State's coastline that are closest to the geographic centers of the applicable leased tracts (Phase II) located in the 181 Area in the Central Planning Area and historical lease sites, and the geographic centers of the applicable leased tracts (Phase II) located in the 181 Area in the Central Planning Area and historical lease sites.
+
+(2) For each Gulf producing State, we will divide the sum of each State's inverse distances from all applicable leased tracts (Phase II) located in the 181 Area in the Central Planning Area and historical lease sites calculated under paragraph (1), by the sum of the inverse distances from all applicable leased tracts (Phase II) located in the 181 Area in the Central Planning Area and historical lease sites across all four Gulf producing States. In the formulas below, *I*AL, *I*LA, *I*MS, and *I*TX represent the sum of the inverses of the shortest distances between Alabama, Louisiana, Mississippi, and Texas and all applicable leased tracts (Phase II) and historical lease sites, respectively. We will multiply the result by the amount of shareable, qualified OCS revenues (Phase II—capped).
+
+Alabama Share = (*I*AL ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—capped)Louisiana Share = (*I*LA ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—capped)Mississippi Share = (*I*MS ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—capped)Texas Share = (*I*TX ÷ (*I*AL + *I*LA + *I*MS + *I*TX)) × qualified OCS revenues (Phase II—capped)
+
+(3) If, in any fiscal year, this calculation results in less than a 10-percent allocation of the qualified OCS revenues (Phase II—capped) to any Gulf producing State, we will recalculate the distribution. We will allocate 10 percent of the qualified OCS revenues (Phase II—capped) to the affected State and recalculate the other States' shares of the remaining qualified OCS revenues (Phase II—capped), omitting from the calculation the State receiving the 10-percent minimum share.

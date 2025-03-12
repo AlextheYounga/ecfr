@@ -1,0 +1,5 @@
+##### § 531.213 Setting pay upon change in position without a change in grade. #####
+
+For an employee who is moved laterally (by transfer, reassignment, change in type of appointment, change in official worksite, or other change in position) from one GS position to a different GS position without a change in grade or a break in service, the agency must determine the employee's payable rate of basic pay and any underlying rate(s)s of basic pay based on the employee's new position of record, new official worksite, and the step (or relative position in range for a GM employee) in effect before the position change. If an employee is eligible to receive a higher rate under the maximum payable rate rule in § 531.221, the agency may choose to apply that rule. If an employee is entitled to pay retention, the agency must apply the rules in 5 CFR part 536.
+
+[70 FR 31291, May 31, 2005, as amended at 73 FR 66152, Nov. 7, 2008]

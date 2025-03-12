@@ -1,0 +1,5 @@
+##### § 35.9055 Evaluation of recipient performance. #####
+
+The Regional Administrator will oversee each recipient's performance under an assistance agreement. In consultation with the applicant, the Regional Administrator will develop a process for evaluating the recipient's performance. The Regional Administrator will include the schedule for evaluation in the assistance agreement and will evaluate recipient performance and progress toward completing the outputs in the approved work program according to the schedule. The Regional Administrator will provide the evaluation findings to the recipient and will include these findings in the official assistance file. If the evaluation reveals that the recipient is not achieving one or more of the conditions of the assistance agreement, the Regional Administrator will attempt to resolve the situation through negotiation. If agreement is not reached, the Regional Administrator may impose sanctions under the applicable provisions of 2 CFR parts 200 and 1500.
+
+[54 FR 40804, Oct. 3, 1989, as amended at 79 FR 76061, Dec. 19, 2014]

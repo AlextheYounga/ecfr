@@ -1,0 +1,7 @@
+##### § 603.1340 Technology investment agreement. #####
+
+A TIA is a special type of assistance instrument used to increase involvement of commercial firms in the DOE research, development and demonstration (RD&D) programs. A TIA, like a cooperative agreement, requires substantial Federal involvement in the technical or management aspects of the project. A TIA may be either a type of cooperative agreement or a type of assistance transaction other than a cooperative agreement, depending on the intellectual property provisions. A TIA is either:
+
+(a) A type of cooperative agreement with more flexible provisions tailored for involving commercial firms (as distinct from a cooperative agreement subject to all of the requirements in 10 CFR Part 600), but with intellectual property provisions in full compliance with the DOE intellectual property statutes (*i.e.*, Bayh-Dole statute and 42 U.S.C. §§ 2182 and 5908, as implemented in 10 CFR 600.325); or
+
+(b) An assistance transaction other than a cooperative agreement, if its intellectual property provisions vary from the Bayh-Dole statute and 42 U.S.C. §§ 2182 and 5908, which require the Government to retain certain intellectual property rights, and require differing treatment between large businesses and nonprofit organizations or small businesses.

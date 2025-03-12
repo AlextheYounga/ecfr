@@ -1,0 +1,3 @@
+##### 49.402-1 The Government's right. #####
+
+Under contracts containing the Default clause at 52.249-8, the Government has the right, subject to the notice requirements of the clause, to terminate the contract completely or partially for default if the contractor fails to (a) make delivery of the supplies or perform the services within the time specified in the contract, (b) perform any other provision of the contract, or (c) make progress and that failure endangers performance of the contract.

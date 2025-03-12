@@ -1,0 +1,5 @@
+##### § 264.115 Certification of closure. #####
+
+Within 60 days of completion of closure of each hazardous waste surface impoundment, waste pile, land treatment, and landfill unit, and within 60 days of the completion of final closure, the owner or operator must submit to the Regional Administrator, by registered mail, a certification that the hazardous waste management unit or facility, as applicable, has been closed in accordance with the specifications in the approved closure plan. The certification must be signed by the owner or operator and by a qualified Professional Engineer. Documentation supporting the Professional Engineer's certification must be furnished to the Regional Administrator upon request until he releases the owner or operator from the financial assurance requirements for closure under § 264.143(i).
+
+[71 FR 16904, Apr. 4, 2006, as amended at 71 FR 40272, July 14, 2006]

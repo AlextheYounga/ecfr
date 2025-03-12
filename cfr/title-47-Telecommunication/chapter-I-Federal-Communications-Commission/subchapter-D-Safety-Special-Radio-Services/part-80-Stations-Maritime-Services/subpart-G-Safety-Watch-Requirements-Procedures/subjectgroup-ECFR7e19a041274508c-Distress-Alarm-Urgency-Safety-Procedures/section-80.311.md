@@ -1,0 +1,3 @@
+##### § 80.311 Authority for distress transmission. #####
+
+A mobile station in distress may use any means at its disposal to attract attention, make known its position, and obtain help. A distress call and message, however, must be transmitted only on the authority of the master or person responsible for the mobile station. No person shall knowingly transmit, or cause to be transmitted, any false or fraudulent signal of distress or related communication.

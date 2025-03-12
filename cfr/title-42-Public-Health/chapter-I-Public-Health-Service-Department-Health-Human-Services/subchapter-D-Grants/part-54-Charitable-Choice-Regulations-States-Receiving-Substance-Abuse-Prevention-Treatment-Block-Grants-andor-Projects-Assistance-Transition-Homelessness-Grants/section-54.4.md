@@ -1,0 +1,3 @@
+##### § 54.4 Religious activities. #####
+
+No funds provided directly from SAMHSA or the relevant State or local government to organizations participating in applicable programs may be expended for inherently religious activities, such as worship, religious instruction, or proselytization. If an organization conducts such activities, it must offer them separately, in time or location, from the programs or services for which it receives funds directly from SAMHSA or the relevant State or local government under any applicable program, and participation must be voluntary for the program beneficiaries.

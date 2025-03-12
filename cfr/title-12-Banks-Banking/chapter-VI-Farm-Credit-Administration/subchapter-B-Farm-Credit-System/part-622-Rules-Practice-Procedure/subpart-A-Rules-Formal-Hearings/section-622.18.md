@@ -1,0 +1,7 @@
+##### § 622.18 Filing. #####
+
+(a) *Filing.* Papers required or permitted to be filed with the Board shall be filed with the Chairman of the Board, FCA, 1501 Farm Credit Drive, McLean, VA 22102-5090 or with the person designated to receive papers for the agency in a proceeding. Papers sent by mail must be postmarked or received within the prescribed time limit for filing. Papers sent by any other means must be received within the prescribed time limit for filing.
+
+(b) *Formal requirements.* All filed papers shall be printed, typewritten, or otherwise reproduced, and copies shall be clear and legible. The original of all papers filed by a party shall be signed and dated as of the date of execution by the party filing the same, or a duly authorized agent or attorney. The signer's address and telephone number must appear on the original. Counsel for the FCA shall sign the original of all papers filed on behalf of the FCA. All papers filed must name in the heading or on a title page, the parties, the docket number and the subject of the papers.
+
+(c) *Copies.* Parties shall file an original and three copies of all documents and papers required or permitted to be filed under this subpart (except the transcript of testimony and exhibits), unless otherwise specifically provided by the Board.

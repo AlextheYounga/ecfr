@@ -1,0 +1,3 @@
+##### § 75.500-1 Other low horsepower electric face equipment. #####
+
+Other low horsepower electric face equipment designated pursuant to the provisions of § 75.500(b) is all other electric-driven mine equipment, except low horsepower rock dusting equipment, and employs an electric current supplied by either a power conductor or battery and consumes not more than 2,250 watts of electricity and which is taken into or used inby the last open crosscut.

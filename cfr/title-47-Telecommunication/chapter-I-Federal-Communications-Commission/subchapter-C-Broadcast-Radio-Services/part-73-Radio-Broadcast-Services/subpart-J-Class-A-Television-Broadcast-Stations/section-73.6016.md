@@ -1,0 +1,5 @@
+##### § 73.6016 Digital Class A TV station protection of TV broadcast stations. #####
+
+Digital Class A TV stations must protect authorized TV broadcast stations, applications for minor changes in authorized TV broadcast stations filed on or before November 29, 1999, and applications for new TV broadcast stations that had been cut-off without competing applications or that were the winning bidder in a TV broadcast station auction as of that date, or that were the proposed remaining applicant in a group of mutually-exclusive applications for which a settlement agreement was on file as of that date. This protection must be based on meeting the requirements of § 74.793 (b)-(d) and (f) of this chapter. An application for DTV operation of an existing Class A TV station or to change the facilities of a digital Class A TV station will not be accepted if it fails to protect these TV broadcast stations and applications pursuant to these requirements.
+
+[69 FR 69330, Nov. 29, 2004]

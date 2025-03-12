@@ -1,0 +1,23 @@
+##### § 63.11915 What are my compliance requirements for equipment leaks? #####
+
+For equipment in HAP service (as defined in § 63.12005), you must comply with the requirements in paragraphs (a) through (c) of this section.
+
+(a) Requirement for certain equipment in subpart UU of this part. You must comply with §§ 63.1020 through 63.1025, 63.1027, 63.1029 through 63.1032, and 63.1034 through 63.1039 of subpart UU of this part.
+
+(b) Requirements for pumps, compressors, and agitators. You must meet the requirements of paragraphs (b)(1) and (2) of this section. For each type of equipment specified in paragraphs (b)(1) and (2) of this section, you must also meet the requirements of paragraph (a) of this section.
+
+(1) Rotating pumps. HAP emissions from seals on all rotating pumps in HAP service are to be minimized by either installing sealless pumps, pumps with double mechanical seals or equivalent equipment, or by complying with the requirements of 40 CFR part 63, subpart UU for rotating pumps. If double mechanical seals are used, emissions from the seals are to be minimized by maintaining the pressure between the two seals so that any leak that occurs is into the pump; by complying with § 63.11925(a) and (b); or equivalent equipment or procedures approved by the Administrator.
+
+(2) Reciprocating pumps, rotating compressors, reciprocating compressors and agitators. HAP emissions from seals on all reciprocating pumps, rotating compressors, reciprocating compressors and agitators in HAP service are to be minimized by either installing double mechanical seals or equivalent equipment, or by complying with the requirements of 40 CFR part 63, subpart UU for reciprocating pumps, rotating compressors, reciprocating compressors and/or agitators. If double mechanical seals are used, HAP emissions from the seals are to be minimized by maintaining the pressure between the two seals so that any leak that occurs is into the pump; by complying with § 63.11925(a) and (b); or equivalent equipment or procedures approved by the Administrator.
+
+(c) Requirements for pressure relief devices. For pressure relief devices in HAP service, as defined in § 63.12005, you must meet the requirements of this paragraph (c) and paragraph (a) of this section, you must comply with the recordkeeping provisions in § 63.11990(c), and you must comply with the reporting provisions in §§ 63.11985(a)(2), (b)(2) and (c)(7).
+
+(1) For pressure relief devices in HAP service that discharge directly to the atmosphere without first meeting the process vent emission limits in Table 1 or 2 to this subpart by routing the discharge to a closed vent system and control device designed and operated in accordance with the requirements in §§ 63.11925 through 63.11950, you must install, maintain, and operate release indicators as specified in paragraphs (c)(1)(i) and (ii) of this section. Any release to the atmosphere without meeting the process vent emission limits in Table 1 or 2 to this subpart, constitutes a violation of this rule. You must submit the report specified in § 63.11985(c)(7), as described in paragraph (c)(1)(iii) of this section.
+
+(i) A release indicator must be properly installed on each pressure relief device in such a way that it will indicate when an emission release has occurred.
+
+(ii) Each indicator must be equipped with an alert system that will notify an operator immediately and automatically when the pressure relief device is open. The alert must be located such that the signal is detected and recognized easily by an operator.
+
+(iii) For any instance that the release indicator indicates that a pressure relief device is open, you must notify operators that a pressure release has occurred, and, within 10 days of the release, you must submit to the Administrator the report specified in § 63.11985(c)(7). This report is required even if you elect to follow the procedures specified in § 63.11895 to establish an affirmative defense.
+
+(2) For pressure relief devices in HAP service that discharge directly to a closed vent system and control device designed and operated in accordance with the requirements in §§ 63.11925 through 63.11950, and are required to meet process vent emission limits in Table 1 or 2 to this subpart. Any release to the atmosphere without meeting the process vent emission limits in Table 1 or 2 to this subpart, constitutes a violation of this rule. You must notify operators that a pressure release has occurred, and, within 10 days of the release, you must submit to the Administrator the report specified in § 63.11985(c)(7). This report is required even if you elect to follow the procedures specified in § 63.11895(b) to establish an affirmative defense.

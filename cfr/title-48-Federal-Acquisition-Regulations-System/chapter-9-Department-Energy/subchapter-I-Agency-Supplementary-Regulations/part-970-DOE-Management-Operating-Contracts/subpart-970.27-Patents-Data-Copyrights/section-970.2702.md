@@ -1,0 +1,1 @@
+##### 970.2702 Patent related clauses. #####

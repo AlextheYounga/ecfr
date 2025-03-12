@@ -1,0 +1,5 @@
+##### § 1208.25 Remedies. #####
+
+(a) *Order for compliance.* If the Board determines that a Federal agency has violated the appellant's VEOA rights, the decision of the Board (either an initial decision of a judge under 5 CFR 1201.111 or a final Board decision under 5 CFR 1201.117) will order the agency to comply with the statute or regulation violated and to compensate the appellant for any loss of wages or benefits suffered by the appellant because of the violation. If the Board determines that the violation was willful, it will order the agency to pay the appellant an amount equal to back pay as liquidated damages.
+
+(b) *Attorney fees and expenses.* If the Board issues a decision ordering compliance under paragraph (a) of this section, the Board will order payment of reasonable attorney fees, expert witness fees, and other litigation expenses. The provisions of subpart H of part 1201 shall govern any proceeding for attorney fees and expenses.

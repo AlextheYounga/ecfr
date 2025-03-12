@@ -1,0 +1,5 @@
+##### § 9800.2 CIGIE organization. #####
+
+(a) CIGIE has a centralized FOIA Program, with one office receiving and coordinating the processing of all requests made to CIGIE. The Integrity Committee (IC) is the single exception to CIGIE's centralized FOIA Program. For FOIA purposes, the IC is a separate entity that follows its own FOIA policies and regulations, and manages its own FOIA resources, structure and processing procedures. By statute, all records received or created by the IC in fulfilling its responsibilities are collected and maintained separately as IC records by the Federal Bureau of Investigation (FBI) in its Central Records System. See Title 28, CFR Part 16, Subpart A. Accordingly, the regulations published below do not apply to requests or appeals for records maintained by the IC.
+
+(b) CIGIE will accept requests or appeals for all CIGIE records - including IC records - at official mailboxes. Requests for IC records will be forwarded to the IC for processing and direct response to the requester.

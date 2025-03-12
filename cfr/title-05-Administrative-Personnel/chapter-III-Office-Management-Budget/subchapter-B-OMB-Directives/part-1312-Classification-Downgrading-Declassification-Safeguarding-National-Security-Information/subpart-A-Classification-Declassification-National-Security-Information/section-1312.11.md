@@ -1,0 +1,3 @@
+##### § 1312.11 Challenges to classifications. #####
+
+OMB employees are encouraged to familiarize themselves with the provisions of Executive Order 12958 and with OMB Manual Sections 1010, 1020, and 1030. Employees are also encouraged to question or to challenge those classifications they believe to be improper, unnecessary, or for an inappropriate time. Such questions or challenges may be addressed to the originator of the classification, unless the challenger desires to remain anonymous, in which case the question may be directed to the EOP Security Officer.

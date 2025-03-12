@@ -1,0 +1,3 @@
+##### § 352.401 Purpose. #####
+
+The purpose of this subpart is to implement section 6(b) of the International Atomic Energy Agency Participation Act of 1957 and Executive Order 10774 as amended by Executive Order 10804 to protect the civil service rights and privileges, wherever appropriate, of Presidential appointees and elected officers who leave their positions and within 90 days enter employment with the International Atomic Energy Agency.

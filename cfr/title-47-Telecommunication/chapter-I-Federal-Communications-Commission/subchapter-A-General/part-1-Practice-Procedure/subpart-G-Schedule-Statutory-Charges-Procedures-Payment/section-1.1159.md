@@ -1,0 +1,13 @@
+##### § 1.1159 Filing locations and receipts for regulatory fees. #####
+
+(a) Regulatory fee payments must be directed to the location and address set forth in §§ 1.1152 through 1.1156 for the specific category of fee involved. Any regulatory fee required to be submitted with an application must be filed as a part of the application package accompanying the application. The Commission will not take responsibility for matching fees, forms and applications submitted at different times or locations.
+
+(b) Petitions for reconsideration or applications for review of fee decisions submitted with a standard regulatory fee payment pursuant to §§ 1.1152 through 1.1156 of the rules are to be filed with the Commission's lockbox bank in the manner set forth in §§ 1.1152 through 1.1156 for payment of the fee subject to the petition for reconsideration or the application for review. Petitions for reconsideration and applications for review that are submitted with no accompanying payment should be filed with the Secretary, Federal Communications Commission, Attention: Managing Director, Washington, D.C. 20554.
+
+(c) Any request for exemption from a regulatory fee shall be filed with the Secretary, Federal Communications Commission, Attention: Managing Director, Washington, D.C. 20554, except that requests for exemption accompanied by a tentative fee payment shall be filed at the lockbox set forth for the appropriate service in §§ 1.1152 through 1.1156.
+
+(d) The Commission will furnish a receipt for a regulatory fee payment only upon request. In order to obtain a receipt for a regulatory fee payment, the package must include an extra copy of the Form FCC 159 or, if a Form 159 is not required with the payment, a copy of the first page of the application or other filing submitted with the regulatory fee payment, submitted expressly for the purpose of serving as a receipt for the regulatory fee payment and application fee payment, if required. The document should be clearly marked “copy” and should be the top document in the package. The copy will be date stamped immediately and provided to the bearer of the submission, if hand delivered. For submissions by mail, the receipt copy will be provided through return mail if the filer has attached to the receipt copy a stamped self-addressed envelope of sufficient size to contain the receipt document.
+
+(e) The Managing Director may issue annually, at his discretion, a Public Notice setting forth the names of all commercial regulatees that have paid a regulatory fee and shall publish the Public Notice in the Federal Register.
+
+[60 FR 34032, June 29, 1995, as amended at 62 FR 59825, Nov. 5, 1997]

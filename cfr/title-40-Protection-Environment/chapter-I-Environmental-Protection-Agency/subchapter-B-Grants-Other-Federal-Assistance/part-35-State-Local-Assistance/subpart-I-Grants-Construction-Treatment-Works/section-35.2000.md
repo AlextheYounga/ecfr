@@ -1,0 +1,13 @@
+##### § 35.2000 Purpose and policy. #####
+
+(a) The primary purpose of Federal grant assistance available under this subpart is to assist municipalities in meeting enforceable requirements of the Clean Water Act, particularly, applicable National Pollutant Discharge Elimination System (NPDES) permit requirements.
+
+(b) This subpart supplements EPA's Uniform Relocation and Real Property Acquisition Policies Act regulation (part 4 of this chapter), its National Environmental Policy Act (NEPA) regulation (part 6 of this chapter), its public participation regulation (part 25 of this chapter), its intergovernmental review regulation (part 29 of this chapter), its general grant regulation (2 CFR parts 200 and 1500), and its debarment regulation (2 CFR part 1532), and establishes requirements for Federal grant assistance for the building of wastewater treatment works. EPA may also find it necessary to publish other requirements applicable to the construction grants program in response to Congressional action and executive orders.
+
+(c) EPA's policy is to delegate administration of the construction grants program on individual projects to State agencies to the maximum extent possible. Throughout this subpart we have used the term Regional Administrator. To the extent that the Regional Administrator delegates review of projects for compliance with the requirements of this subpart to a State agency under a delegation agreement (§ 35.1030), the term Regional Administrator may be read State agency.
+
+(d) In accordance with the Federal Grant and Cooperative Agreement Act (Pub. L. 95-224) EPA will, when substantial Federal involvement is anticipated, award assistance under cooperative agreements. Throughout this subpart we have used the terms grant and grantee but those terms may be read cooperative agreement and recipient if appropriate.
+
+(e) From time to time EPA publishes technical and guidance materials on various topics relevant to the construction grants program. Grantees may find this information useful in meeting requirements in this subpart. These publications, including the MCD and FRD series, may be ordered from: EPA, 1200 Pennsylvania Ave., NW., room 1115 ET, WH 547, Washington, DC 20460. In order to expedite processing of requests, persons wishing to obtain these publications should request a copy of EPA form 7500-21 (the order form listing all available publications), from EPA Headquarters, Municipal Construction Division (WH-547) or from any EPA Regional Office.
+
+[49 FR 6234, Feb. 17, 1984, as amended at 79 FR 76055, Dec. 19, 2014]

@@ -1,0 +1,5 @@
+##### § 372.101 Casual, occasional, or reciprocal transportation of passengers for compensation when such transportation is sold or arranged by anyone for compensation. #####
+
+The partial exemption from regulation under the provisions of 49 U.S.C. subtitle IV, part B of the casual, occasional, and reciprocal transportation of passengers by motor vehicle in interstate or foreign commerce for compensation as provided in 49 U.S.C. 13506(b) be, and it is hereby, removed to the extent necessary to make applicable all provisions of 49 U.S.C. subtitle IV, part B to such transportation when sold or offered for sale, or provided or procured or furnished or arranged for, by any person who sells, offers for sale, provides, furnishes, contracts, or arranges for such transportation for compensation or as a regular occupation or business.
+
+[32 FR 20036, Dec. 20, 1967. Redesignated at 61 FR 54708, Oct. 21, 1996, as amended at 62 FR 15421, Apr. 1, 1997]

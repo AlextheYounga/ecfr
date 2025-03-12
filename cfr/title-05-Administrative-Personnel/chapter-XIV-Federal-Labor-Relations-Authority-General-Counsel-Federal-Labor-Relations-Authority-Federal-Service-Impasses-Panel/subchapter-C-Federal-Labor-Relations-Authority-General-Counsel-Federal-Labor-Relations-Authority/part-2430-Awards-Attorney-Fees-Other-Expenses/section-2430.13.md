@@ -1,0 +1,3 @@
+##### § 2430.13 Exceptions to Administrative Law Judge's decision; briefs; action of Authority. #####
+
+Procedures before the Authority, including the filing of exceptions to the administrative law judge's decision rendered pursuant to § 2430.12, and action by the Authority, shall be in accordance with §§ 2423.26(c), 2423.27, and 2423.28 of these rules. The Authority's review of the matter shall be in accordance with § 2423.29(a).

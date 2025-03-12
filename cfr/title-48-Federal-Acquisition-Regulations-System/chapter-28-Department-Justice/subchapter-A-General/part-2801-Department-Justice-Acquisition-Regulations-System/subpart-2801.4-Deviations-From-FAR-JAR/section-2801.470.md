@@ -1,0 +1,3 @@
+##### 2801.470 Requests for class deviations. #####
+
+Requests for approval of class deviations from the FAR or the JAR shall be forwarded to the PE. Such requests will be signed by the Bureau Procurement Chief (BPC). Requests for class deviations shall be submitted as far in advance as the exigencies of the situation permit and shall contain sufficient written justification to evaluate the request.

@@ -1,0 +1,3 @@
+##### 3401.000 Scope of part. #####
+
+The Federal Acquisition Regulation System brings together, in title 48 of the Code of Federal Regulations, the acquisition regulations applicable to all executive agencies of the Federal government. This part establishes a system of Department of Education (Department) acquisition regulations, referred to as the EDAR, for the codification and publication of policies and procedures of the Department that implement and supplement the Federal Acquisition Regulation (FAR).

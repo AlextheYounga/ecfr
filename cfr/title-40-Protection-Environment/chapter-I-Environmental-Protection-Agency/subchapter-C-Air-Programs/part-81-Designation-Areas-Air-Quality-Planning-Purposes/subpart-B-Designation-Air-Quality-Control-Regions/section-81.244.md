@@ -1,0 +1,5 @@
+##### § 81.244 Northwest Minnesota Intrastate Air Quality Control Region. #####
+
+The Northwest Minnesota Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Minnesota: Becker County, Beltrami County, Cass County, Clearwater County, Crow Wing County, Douglas County, Grant County, Hubbard County, Kittson County, Lake of the Woods County, Mahnomen County, Marshall County, Morrison County, Norman County, Otter Tail County, Pennington County, Polk County, Pope County, Red Lake County, Roseau County, Stevens County, Todd County, Traverse County, Wadena County, Wilkin County.

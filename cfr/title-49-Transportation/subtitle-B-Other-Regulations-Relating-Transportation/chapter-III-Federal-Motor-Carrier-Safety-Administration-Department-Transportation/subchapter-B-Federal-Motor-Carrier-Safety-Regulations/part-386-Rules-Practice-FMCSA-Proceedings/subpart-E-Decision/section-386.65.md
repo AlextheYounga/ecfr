@@ -1,0 +1,3 @@
+##### § 386.65 Failure to comply with final order. #####
+
+If, within 30 days of receipt of a final agency order issued under this part, the respondent does not submit in writing his/her acceptance of the terms of an order directing compliance, or, where appropriate, pay a civil penalty, or file an appeal under § 386.67, the case may be referred to the Attorney General with a request that an action be brought in the appropriate United States District Court to enforce the terms of a compliance order or collect the civil penalty.

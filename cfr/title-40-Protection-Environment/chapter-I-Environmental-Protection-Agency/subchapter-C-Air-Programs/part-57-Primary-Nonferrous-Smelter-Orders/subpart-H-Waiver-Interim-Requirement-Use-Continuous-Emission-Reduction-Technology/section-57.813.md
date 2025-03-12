@@ -1,0 +1,7 @@
+##### § 57.813 Final decision. #####
+
+(a) *After review.* As soon as practicable after all appeal or other review proceedings have been completed, the Administrator shall issue his final decision. Such a final decision shall include the same elements as the recommended decision, as well as any additional reasons supporting his decisions on exceptions filed by hearing participants. The final decision may accept or reject all or part of the recommended decision. The Administrator may consult with the Presiding Officer, members of the hearing panel or any other EPA employee in preparing his final decision. The Hearing Clerk shall file a copy of the decision on all hearing participants.
+
+(b) *In the absence of review.* If no party appeals a recommended decision to the Administrator and if the Administrator does not review it sua sponte, he shall be deemed to have adopted the recommended decision as the final decision of the Agency upon the expiration of the time for filing any exceptions under § 57.812(a).
+
+(c) *Timing of judicial review.* For purposes of judicial review, final Agency action on a request for a waiver of the interim requirement that each NSO provide for the use of constant controls shall not occur until EPA approves or disapproves the issuance of an NSO to the source requesting such a waiver.

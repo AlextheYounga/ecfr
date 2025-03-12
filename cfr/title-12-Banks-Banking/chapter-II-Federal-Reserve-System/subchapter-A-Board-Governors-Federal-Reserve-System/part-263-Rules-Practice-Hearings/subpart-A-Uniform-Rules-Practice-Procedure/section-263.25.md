@@ -1,0 +1,27 @@
+##### § 263.25 Request for document discovery from parties. #####
+
+(a) *General rule.* Any party may serve on any other party a request to produce for inspection any discoverable documents that are in the possession, custody, or control of the party upon whom the request is served. The request must identify the documents to be produced either by individual item or by category, and must describe each item and category with reasonable particularity. Documents must be produced as they are kept in the usual course of business or must be organized to correspond with the categories in the request.
+
+(b) *Production or copying.* The request must specify a reasonable time, place, and manner for production and performing any related acts. In lieu of inspecting the documents, the requesting party may specify that all or some of the responsive documents be copied and the copies delivered to the requesting party. If copying of fewer than 250 pages is requested, the party to whom the request is addressed shall bear the cost of copying and shipping charges. If a party requests 250 pages or more of copying, the requesting party shall pay for the copying and shipping charges. Copying charges are the current per-page copying rate imposed by 12 CFR Part 261 implementing the Freedom of Information Act (5 U.S.C. 552). The party to whom the request is addressed may require payment in advance before producing the documents.
+
+(c) *Obligation to update responses.* A party who has responded to a discovery request with a response that was complete when made is not required to supplement the response to include documents thereafter acquired, unless the responding party learns that:
+
+(1) The response was materially incorrect when made; or
+
+(2) The response, though correct when made, is no longer true and a failure to amend the response is, in substance, a knowing concealment.
+
+(d) *Motions to limit discovery.* (1) Any party that objects to a discovery request may, within ten days of being served with such request, file a motion in accordance with the provisions of § 263.23 to strike or otherwise limit the request. If an objection is made to only a portion of an item or category in a request, the portion objected to shall be specified. Any objections not made in accordance with this paragraph and § 263.23 are waived.
+
+(2) The party who served the request that is the subject of a motion to strike or limit may file a written response within five days of service of the motion. No other party may file a response.
+
+(e) *Privilege.* At the time other documents are produced, the producing party must reasonably identify all documents withheld on the grounds of privilege and must produce a statement of the basis for the assertion of privilege. When similar documents that are protected by deliberative process, attorney-work-product, or attorney-client privilege are voluminous, these documents may be identified by category instead of by individual document. The administrative law judge retains discretion to determine when the identification by category is insufficient.
+
+(f) *Motions to compel production.* (1) If a party withholds any documents as privileged or fails to comply fully with a discovery request, the requesting party may, within ten days of the assertion of privilege or of the time the failure to comply becomes known to the requesting party, file a motion in accordance with the provisions of § 263.23 for the issuance of a subpoena compelling production.
+
+(2) The party who asserted the privilege or failed to comply with the request may file a written response to a motion to compel within five days of service of the motion. No other party may file a response.
+
+(g) *Ruling on motions.* After the time for filing responses pursuant to this section has expired, the administrative law judge shall rule promptly on all motions filed pursuant to this section. If the administrative law judge determines that a discovery request, or any of its terms, calls for irrelevant material, is unreasonable, oppressive, excessive in scope, unduly burdensome, or repetitive of previous requests, or seeks to obtain privileged documents, he or she may deny or modify the request, and may issue appropriate protective orders, upon such conditions as justice may require. The pendency of a motion to strike or limit discovery or to compel production is not a basis for staying or continuing the proceeding, unless otherwise ordered by the administrative law judge. Notwithstanding any other provision in this part, the administrative law judge may not release, or order a party to produce, documents withheld on grounds of privilege if the party has stated to the administrative law judge its intention to file a timely motion for interlocutory review of the administrative law judge's order to produce the documents, and until the motion for interlocutory review has been decided.
+
+(h) *Enforcing discovery subpoenas.* If the administrative law judge issues a subpoena compelling production of documents by a party, the subpoenaing party may, in the event of noncompliance and to the extent authorized by applicable law, apply to any appropriate United States district court for an order requiring compliance with the subpoena. A party's right to seek court enforcement of a subpoena shall not in any manner limit the sanctions that may be imposed by the administrative law judge against a party who fails to produce subpoenaed documents.
+
+[56 FR 38052, Aug. 9, 1991, as amended at 61 FR 20343, May 6, 1996]

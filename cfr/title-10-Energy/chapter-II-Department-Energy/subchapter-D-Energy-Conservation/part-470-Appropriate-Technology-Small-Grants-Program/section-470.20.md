@@ -1,0 +1,3 @@
+##### § 470.20 Dissemination of information. #####
+
+DOE shall disseminate to the public, in an appropriate manner, information of the nature, usage and availability of the energy-related systems and supporting technologies developed or demonstrated under the program. In addition, DOE shall maintain and make available to recipients of support under the program current information on public and private sources of possible assistance for the further development and commercialization of their projects.

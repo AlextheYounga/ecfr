@@ -1,0 +1,3 @@
+##### § 137.250 How are funds distributed when a Self-Governance Tribe fully or partially retrocedes from its compact or funding agreement? #####
+
+Any funds not obligated by the Self-Governance Tribe and associated with the Self-Governance Tribe's returned PSFAs, less close out costs, must be returned by the Self-Governance Tribe to IHS for operation of the PSFA's associated with the compact or funding agreement from which the Self-Governance Tribe retroceded in whole or in part.

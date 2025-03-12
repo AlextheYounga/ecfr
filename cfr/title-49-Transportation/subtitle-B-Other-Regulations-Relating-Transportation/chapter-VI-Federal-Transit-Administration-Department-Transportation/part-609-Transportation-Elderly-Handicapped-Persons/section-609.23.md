@@ -1,0 +1,5 @@
+##### § 609.23 Reduced fare. #####
+
+Applicants for financial assistance under section 5307 of the Federal transit laws (49 U.S.C. Chapter 53), must, as a condition to receiving such assistance, give satisfactory assurances, in such manner and form as may be required by the Federal Transit Administrator and in accordance with such terms and conditions as the Federal Transit Administrator may prescribe, that the rates charged elderly and handicapped persons during non-peak hours for transportation utilizing or involving the facilities and equipment of the project financed with assistance under this section will not exceed one-half of the rates generally applicable to other persons at peak hours, whether the operation of such facilities and equipment is by the applicant or is by another entity under lease or otherwise.
+
+[41 FR 18239, Apr. 30, 1976, as amended at 61 FR 19562, May 2, 1996]

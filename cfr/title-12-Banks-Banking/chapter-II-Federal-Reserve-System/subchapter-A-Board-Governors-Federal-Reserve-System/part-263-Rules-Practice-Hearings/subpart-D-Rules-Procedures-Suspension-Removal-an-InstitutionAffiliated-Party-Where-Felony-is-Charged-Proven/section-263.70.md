@@ -1,0 +1,3 @@
+##### § 263.70 Purpose and scope. #####
+
+The rules and procedures set forth in this subpart apply to informal hearings afforded to any institution-affiliated party for whom the Board is the appropriate regulatory agency, who has been suspended or removed from office or prohibited from further participation in any manner in the conduct of the institution's affairs by a notice or order issued by the Board upon the grounds set forth in section 8(g) of the FDIA (12 U.S.C. 1818(g)).

@@ -1,0 +1,3 @@
+##### § 556.200 What is the Five Year leasing program? #####
+
+Section 18(a) of OCSLA (43 U.S.C. 1344(a)), requires the Secretary to prepare an oil and gas leasing program that consists of a five-year schedule of proposed lease sales to best meet national energy needs, showing the size, timing, and location of leasing activity as precisely as possible. BOEM prepares the five year schedule of proposed lease sales consistent with the principles set out in section 18(a)(1) and (2)(A)-(H) of OCSLA (43 U.S.C. 1344(a)(1) and (2)(A)-(H)) to obtain a proper balance among the potential for environmental damage, the potential for the discovery of oil and gas, and the potential for adverse impact on the coastal zone, as required by OCSLA section 18(a)(3) (43 U.S.C. 1344(a)(3)).

@@ -1,0 +1,5 @@
+##### 908.7101-3 Direct acquisition. #####
+
+Vehicles may be acquired by DOE activities directly rather than through GSA when a waiver has been granted by GSA. A copy of the activity's request to GSA for a waiver shall be forwarded to the Director, Personal Property Policy Division, within the Headquarters procurement organization. In cases involving general purpose vehicles where GSA refuses to grant a waiver and where it is believed that acquisition through GSA would adversely affect or otherwise impair the program, authority for direct acquisition shall be obtained from the above-mentioned Headquarters official, prior to acquisition. In the acquisition of special purpose vehicles for use by DOE and its authorized contractors, the Head of the Contracting Activity may authorize direct purchases. The purchase price for sedans and station wagons, shall not exceed any statutory limitation in effect at the time the acquisition is made. (See 41 CFR 109-26.501-1).
+
+[49 FR 11945, Mar. 28, 1984; 49 FR 38950, Oct. 2, 1984, as amended at 59 FR 9104, Feb. 25, 1994; 77 FR 74386, Dec. 14, 2012]

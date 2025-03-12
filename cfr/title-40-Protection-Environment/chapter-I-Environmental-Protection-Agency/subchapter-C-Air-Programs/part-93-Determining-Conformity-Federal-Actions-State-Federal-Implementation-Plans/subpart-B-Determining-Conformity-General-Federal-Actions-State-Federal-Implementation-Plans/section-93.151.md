@@ -1,0 +1,5 @@
+##### § 93.151 State implementation plan (SIP) revision. #####
+
+The provisions and requirements of this subpart to demonstrate conformity required under section 176(c) of the Clean Air Act (CAA) apply to all Federal actions in designated nonattainment and maintenance areas where EPA has not approved the General Conformity SIP revision allowed under 40 CFR 51.851. When EPA approves a State's or Tribe's conformity provisions (or a portion thereof) in a revision to an applicable implementation plan, a conformity evaluation is governed by the approved (or approved portion of the) State or Tribe's criteria and procedures. The Federal conformity regulations contained in this subpart apply only for the portions, if any, of the part 93 requirements not contained in the State or Tribe conformity provisions approved by EPA. In addition, any previously applicable implementation plan conformity requirements remain enforceable until the EPA approves the revision to the applicable SIP to specifically include the revised requirements or remove requirements.
+
+[75 FR 17272, Apr. 5, 2010]

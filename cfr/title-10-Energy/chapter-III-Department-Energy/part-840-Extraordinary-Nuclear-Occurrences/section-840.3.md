@@ -1,0 +1,3 @@
+##### § 840.3 Determination of extraordinary nuclear occurrence. #####
+
+If the DOE determines that both of the criteria set forth in § 840.4 and § 840.5 have been met, it will make the determination that there has been an extraordinary nuclear occurrence. If the DOE publishes a notice in the Federal Register in accordance with § 840.2(a) and does not make a determination within 90 days thereafter that there has been an extraordinary nuclear occurrence, the alleged event will be deemed not to be an extraordinary nuclear occurrence. The time for the making of a determination may be extended by DOE by notice published in the Federal Register.

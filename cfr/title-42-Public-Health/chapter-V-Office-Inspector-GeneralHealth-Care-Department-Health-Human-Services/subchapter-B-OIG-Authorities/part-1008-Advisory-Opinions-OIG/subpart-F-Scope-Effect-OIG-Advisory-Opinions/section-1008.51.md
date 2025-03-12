@@ -1,0 +1,3 @@
+##### § 1008.51 Exclusivity of OIG advisory opinions. #####
+
+The only method for obtaining a binding advisory opinion regarding any of the subject matters set forth in § 1008.5(a) is through the procedures described in this part. No binding advisory opinion, oral or written, has or may be issued by the OIG regarding the specific matters set forth in § 1008.5(a) except through written opinions issued in accordance with this part.

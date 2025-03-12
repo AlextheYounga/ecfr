@@ -1,0 +1,3 @@
+##### § 9303.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the Office of the Special Inspector General for Afghanistan Reconstruction (SIGAR) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the regulations in 5 CFR part 2635 and this part, SIGAR employees are subject to the executive branch-wide financial disclosure regulations contained in 5 CFR part 2634; the executive branch regulations regarding outside employment at 5 CFR part 2636; and the regulations concerning executive branch financial interests contained in 5 CFR part 2640.

@@ -1,0 +1,3 @@
+##### § 194.1 Purpose, scope, and applicability. #####
+
+This part specifies criteria for the certification or any re-certification, or subsequent actions relating to the terms or conditions of certification of the Department of Energy's Waste Isolation Pilot Plant's compliance with the disposal regulations found at part 191 of this chapter and pursuant to section 8(d)(1) and section 8(f), respectively, of the WIPP LWA. The compliance certification application submitted pursuant to section 8(d)(1) of the WIPP LWA and any compliance re-certification application submitted pursuant to section 8(f) of the WIPP LWA shall comply with the requirements of this part.

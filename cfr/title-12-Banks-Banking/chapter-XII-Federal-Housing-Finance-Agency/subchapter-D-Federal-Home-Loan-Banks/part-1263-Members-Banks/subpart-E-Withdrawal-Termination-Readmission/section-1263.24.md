@@ -1,0 +1,23 @@
+##### § 1263.24 Consolidations involving members. #####
+
+(a) *Consolidation of members.* Upon the consolidation of two or more institutions that are members of the same Bank into one institution operating under the charter of one of the consolidating institutions, the membership of the surviving institution shall continue and the membership of each disappearing institution shall terminate on the cancellation of its charter. Upon the consolidation of two or more institutions, at least two of which are members of different Banks, into one institution operating under the charter of one of the consolidating institutions, the membership of the surviving institution shall continue and the membership of each disappearing institution shall terminate upon cancellation of its charter, provided, however, that if more than 80 percent of the assets of the consolidated institution are derived from the assets of a disappearing institution, then the consolidated institution shall continue to be a member of the Bank of which that disappearing institution was a member prior to the consolidation, and the membership of the other institutions shall terminate upon the effective date of the consolidation.
+
+(b) *Consolidation into nonmember*—(1) *In general.* Upon the consolidation of a member into an institution that is not a member of a Bank, where the consolidated institution operates under the charter of the nonmember institution, the membership of the disappearing institution shall terminate upon the cancellation of its charter.
+
+(2) *Notification.* If a member has consolidated into a nonmember that has its principal place of business in a State in the same Bank district as the former member, the consolidated institution shall have 60 calendar days after the cancellation of the charter of the former member within which to notify the Bank of the former member that the consolidated institution intends to apply for membership in such Bank. If the consolidated institution does not so notify the Bank by the end of the period, the Bank shall require the liquidation of any outstanding indebtedness owed by the former member, shall settle all outstanding business transactions with the former member, and shall redeem or repurchase the Bank stock owned by the former member in accordance with § 1263.29.
+
+(3) *Application.* If such a consolidated institution has notified the appropriate Bank of its intent to apply for membership, the consolidated institution shall submit an application for membership within 60 calendar days of so notifying the Bank. If the consolidated institution does not submit an application for membership by the end of the period, the Bank shall require the liquidation of any outstanding indebtedness owed by the former member, shall settle all outstanding business transactions with the former member, and shall redeem or repurchase the Bank stock owned by the former member in accordance with § 1263.29.
+
+(4) *Outstanding indebtedness.* If a member has consolidated into a nonmember institution, the Bank need not require the former member or its successor to liquidate any outstanding indebtedness owed to the Bank or to redeem its Bank stock, as otherwise may be required under § 1263.29, during:
+
+(i) The initial 60 calendar-day notification period;
+
+(ii) The 60 calendar-day period following receipt of a notification that the consolidated institution intends to apply for membership; and
+
+(iii) The period of time during which the Bank processes the application for membership.
+
+(5) *Approval of membership.* If the application of such a consolidated institution is approved, the consolidated institution shall become a member of that Bank upon the purchase of the amount of Bank stock necessary, when combined with any Bank stock acquired from the disappearing member, to satisfy the minimum stock purchase requirements established by the Bank's capital structure plan.
+
+(6) *Disapproval of membership.* If the Bank disapproves the application for membership of the consolidated institution, the Bank shall require the liquidation of any outstanding indebtedness owed by, and the settlement of all other outstanding business transactions with, the former member, and shall redeem or repurchase the Bank stock owned by the former member in accordance with § 1263.29.
+
+(c) *Dividends on acquired Bank stock.* A consolidated institution shall be entitled to receive dividends on the Bank stock that it acquires as a result of a consolidation with a member in accordance with applicable FHFA regulations.

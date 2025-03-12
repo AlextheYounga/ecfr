@@ -1,0 +1,7 @@
+##### § 5501.103 Gifts from federally recognized Indian tribes or Alaska Native villages or regional or village corporations. #####
+
+(a) *Tribal or Alaska Native gifts.* In addition to the gifts which come within the exceptions set forth in 5 CFR 2635.204, and subject to all provisions of 5 CFR 2635.201 through 2635.205, an employee may accept unsolicited gifts of native artwork, crafts, or other items representative of traditional native culture from federally recognized Indian tribes or Alaska Native villages or regional or village corporations, provided that the aggregate market value of individual gifts received from any one tribe or village under the authority of this paragraph shall not exceed $200 in a calendar year.
+
+(b) *Limitations on use of exception.* If the donor is a tribe or village that has interests that may be substantially affected by the performance or nonperformance of an employee's official duties, the employee may accept the gifts authorized by paragraph (a) of this section only where there is a written finding by the agency designee that acceptance of the gift is in the agency's interest and will not violate any of the limitations on the use of exceptions contained in 5 CFR 2635.202(c).
+
+[61 FR 39763, July 30, 1996, as amended at 70 FR 5558, Feb. 3, 2005]

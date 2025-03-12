@@ -1,0 +1,3 @@
+##### 36.514 Availability and use of utility services. #####
+
+The contracting officer shall insert the clause at 52.236-14, Availability and Use of Utility Services, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated, the contract is to be performed on Government sites, and the contracting officer decides (a) that the existing utility system(s) is adequate for the needs of both the Government and the contractor, and (b) furnishing it is in the Government's interest. When this clause is used, the contracting officer shall list the available utilities in the contract.

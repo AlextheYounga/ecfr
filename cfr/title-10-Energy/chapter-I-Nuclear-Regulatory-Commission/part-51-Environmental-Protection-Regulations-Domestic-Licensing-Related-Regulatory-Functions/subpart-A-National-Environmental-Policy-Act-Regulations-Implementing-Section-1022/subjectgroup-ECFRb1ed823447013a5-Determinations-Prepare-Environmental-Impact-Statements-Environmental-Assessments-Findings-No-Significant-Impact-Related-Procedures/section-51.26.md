@@ -1,0 +1,11 @@
+##### § 51.26 Requirement to publish notice of intent and conduct scoping process. #####
+
+(a) Whenever the appropriate NRC staff director determines that an environmental impact statement will be prepared by NRC in connection with a proposed action, a notice of intent will be prepared as provided in § 51.27, and will be published in the Federal Register as provided in § 51.116, and an appropriate scoping process (see §§ 51.27, 51.28, and 51.29) will be conducted.
+
+(b) The scoping process may include a public scoping meeting.
+
+(c) Upon receipt of an application and accompanying environmental impact statement under § 60.22 or § 63.22 of this chapter (pertaining to geologic repositories for high-level radioactive waste), the appropriate NRC staff director will include in the notice of docketing required to be published by § 2.101(f)(8) of this chapter a statement of Commission intention to adopt the environmental impact statement to the extent practicable. However, if the appropriate NRC staff director determines, at the time of such publication or at any time thereafter, that NRC should prepare a supplemental environmental impact statement in connection with the Commission's action on the license application, the NRC shall follow the procedures set out in paragraph (a) of this section.
+
+(d) Whenever the appropriate NRC staff director determines that a supplement to an environmental impact statement will be prepared by the NRC, a notice of intent will be prepared as provided in § 51.27, and will be published in the Federal Register as provided in § 51.116. The NRC staff need not conduct a scoping process (see §§ 51.27, 51.28, and 51.29), provided, however, that if scoping is conducted, then the scoping must be directed at matters to be addressed in the supplement. If scoping is conducted in a proceeding for a combined license referencing an early site permit under part 52, then the scoping must be directed at matters to be addressed in the supplement as described in § 51.92(e).
+
+[49 FR 9381, Mar. 12, 1984, as amended at 54 FR 27870, July 3, 1989; 66 FR 55791, Nov. 2, 2001; 72 FR 49510, Aug. 28, 2007]

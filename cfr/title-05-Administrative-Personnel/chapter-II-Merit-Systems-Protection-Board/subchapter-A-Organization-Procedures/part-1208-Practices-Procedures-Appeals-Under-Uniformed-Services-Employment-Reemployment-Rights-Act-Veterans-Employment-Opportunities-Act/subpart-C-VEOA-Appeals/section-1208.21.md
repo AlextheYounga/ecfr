@@ -1,0 +1,7 @@
+##### § 1208.21 VEOA exhaustion requirement. #####
+
+(a) *General rule.* Before an appellant may file a VEOA appeal with the Board, the appellant must first file a complaint under 5 U.S.C. 3330a(a) with the Secretary of Labor within 60 days after the date of the alleged violation. In addition, either the Secretary must have sent the appellant written notification that efforts to resolve the complaint were unsuccessful or, if the Secretary has not issued such notification and at least 60 days have elapsed from the date the complaint was filed, the appellant must have provided written notification to the Secretary of the appellant's intention to file an appeal with the Board.
+
+(b) *Equitable tolling; extension of filing deadline.* In extraordinary circumstances, the appellant's 60-day deadline for filing a complaint with the Secretary is subject to the doctrine of equitable tolling, which permits the Board to extend the deadline where the appellant, despite having diligently pursued his or her rights, was unable to make a timely filing. Examples include cases involving deception or in which the appellant filed a defective pleading during the statutory period.
+
+[77 FR 62373, Oct. 12, 2012]

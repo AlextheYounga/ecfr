@@ -1,0 +1,7 @@
+##### § 22.20 Accelerated decision; decision to dismiss. #####
+
+(a) *General.* The Presiding Officer may at any time render an accelerated decision in favor of a party as to any or all parts of the proceeding, without further hearing or upon such limited additional evidence, such as affidavits, as he may require, if no genuine issue of material fact exists and a party is entitled to judgment as a matter of law. The Presiding Officer, upon motion of the respondent, may at any time dismiss a proceeding without further hearing or upon such limited additional evidence as he requires, on the basis of failure to establish a prima facie case or other grounds which show no right to relief on the part of the complainant.
+
+(b) *Effect.* (1) If an accelerated decision or a decision to dismiss is issued as to all issues and claims in the proceeding, the decision constitutes an initial decision of the Presiding Officer, and shall be filed with the Regional Hearing Clerk.
+
+(2) If an accelerated decision or a decision to dismiss is rendered on less than all issues or claims in the proceeding, the Presiding Officer shall determine what material facts exist without substantial controversy and what material facts remain controverted. The partial accelerated decision or the order dismissing certain counts shall specify the facts which appear substantially uncontroverted, and the issues and claims upon which the hearing will proceed.

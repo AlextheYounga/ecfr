@@ -1,0 +1,3 @@
+##### § 719.40 What effect do the regulations of this part have on cost allowability? #####
+
+Contractor and retained legal counsel compliance with this part is a prerequisite for allowability of legal costs. However, compliance with this part does not guarantee that legal costs will be determined to be allowable. Only the contracting officer has the authority to determine allowability of costs in accordance with 48 CFR (FAR) part 31 and (DEAR) part 931 and all other applicable contract terms and conditions.

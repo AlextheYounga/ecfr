@@ -1,0 +1,9 @@
+##### § 747.304 Removal or permanent prohibition. #####
+
+(a) In the event that a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against the institution-affiliated party, and at such time as the judgment, if any, is not subject to further appellate review, the NCUA Board may, if continued service or participation by such party may pose a threat to the interests of any credit union's members or may threaten to impair public confidence in any credit union, issue and serve upon the individual an order removing him or her from office or prohibiting him or her from further participation in any manner in the conduct of the affairs of any credit union except with the consent of the NCUA Board. A copy of such order will also be served upon the credit union of which the subject of the order is, or most recently was, an institution-affiliated party.
+
+(b) The NCUA Board may issue such order with respect to an individual who is an institution-affiliated party at a credit union at the time of the offense without regard to whether such individual is an institution-affiliated party at any credit union at the time the order is considered or issued by the Board or whether the credit union at which the individual was an institution-affiliated party at the time of the offense remains in existence at the time the order is considered or issued by the board.
+
+(c) A finding of not guilty or other disposition of the charge will not preclude the Board from thereafter instituting proceedings, pursuant to the provisions of section 206(g) of the Act (12 U.S.C. 1786(g)) and subpart A of this part, to remove such director, committee member, officer, or other person from office or to prohibit his or her further participation in the affairs of the credit union.
+
+[71 FR 67441, Nov. 22, 2006]

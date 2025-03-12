@@ -1,0 +1,5 @@
+##### § 60.623 Equivalent equipment and procedures. #####
+
+(a) Upon written application from any person, the Administrator may approve the use of equipment or procedures that have been demonstrated to his satisfaction to be equivalent, in terms of reducing VOC emissions to the atmosphere, to those prescribed for compliance within a specified paragraph of this subpart. The application must contain a complete description of the equipment or procedure; the testing method; the date, time and location of the test; and a description of the test results. Written applications shall be submitted to the Administrator, U.S. Environmental Protection Agency, 1200 Pennsylvania Ave., NW., Washington, DC 20460.
+
+(b) The Administrator will make a preliminary determination of whether or not the application for equivalency is approvable and will publish a notice of these findings in the Federal Register. After notice and opportunity for public hearing, the Administrator will publish the final determination in the Federal Register.

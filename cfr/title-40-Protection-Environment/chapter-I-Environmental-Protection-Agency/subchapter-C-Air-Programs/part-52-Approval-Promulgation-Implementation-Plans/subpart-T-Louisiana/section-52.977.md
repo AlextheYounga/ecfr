@@ -1,0 +1,15 @@
+##### § 52.977 Control strategy and regulations: Ozone. #####
+
+(a) *Determination of Attainment.* Effective March 12, 2010 EPA has determined the Baton Rouge 1-hour ozone nonattainment area has attained the 1-hour ozone National Ambient Air Quality Standard (NAAQS). Under the provisions of EPA's Clean Data Policy, this determination suspends the requirements for this area to submit a severe attainment demonstration, a severe reasonable further progress plan, applicable contingency measures plans, and other planning Louisiana State Implementation Plan (SIP) requirements related to attainment of the 1-hour ozone NAAQS for so long as the area continues to attain the 1-hour ozone NAAQS.
+
+(b) *Determination of Attainment.* Effective October 12, 2010 EPA has determined that the Baton Rouge 8-hour ozone nonattainment area has attained the 1997 8-hour ozone National Ambient Air Quality Standard (NAAQS). Under the provisions of 40 CFR 51.918 this determination suspends the requirements for this area to submit an attainment demonstration, a reasonable further progress plan, applicable contingency measures, and other planning Louisiana State Implementation Plan (SIP) requirements related to attainment of the 1997 8-hour ozone NAAQS for so long as the area continues to attain the 1997 8-hour ozone NAAQS.
+
+(c) Determination to Terminate the Clean Air Act Section 185 Penalty Fee Requirement. Effective September 6, 2011 EPA has determined that the State of Louisiana is no longer required to submit a section 185 fee program State Implementation Plan (SIP) revision for the Baton Rouge ozone nonattainment area to satisfy anti-backsliding requirements for the 1-hour ozone standard. This determination is based on EPA's determination that the area has attained the 1-hour ozone standard due to permanent and enforceable emissions reductions.
+
+(d) Redesignation for the 1997 8-hour Ozone Standard. Effective December 30, 2011, EPA has redesignated the Baton Rouge area to attainment for the 1997 8-hour ozone standard. With this final redesignation to attainment for the 1997 8-hour ozone NAAQS and the final determination of attainment for the 1-hour ozone NAAQS in paragraph (a) of this section, the 1-hour anti-backsliding obligations to submit planning SIPs to meet the attainment demonstration and reasonably available control measures requirements, the rate of progress and contingency measures requirements, and any other outstanding 1-hour requirements, cease to apply.
+
+(e) *Clean Data Determination.* Effective June 16, 2014 EPA has determined that the Baton Rouge, Louisiana, marginal 2008 8-hour ozone nonattainment area is currently attaining the 2008 8-hour NAAQS for ozone.
+
+(f) The EPA has determined that the Baton Rouge Marginal 2008 ozone NAAQS nonattainment area attained the NAAQS by the applicable attainment date of July 20, 2015.
+
+[75 FR 6575, Feb. 10, 2010, as amended at 75 FR 54779, Sept. 9, 2010; 76 FR 39777, July 7, 2011; 76 FR 74002, Nov. 30, 2011; 79 FR 21142, Apr. 15, 2014; 81 FR 26709, May 4, 2016]

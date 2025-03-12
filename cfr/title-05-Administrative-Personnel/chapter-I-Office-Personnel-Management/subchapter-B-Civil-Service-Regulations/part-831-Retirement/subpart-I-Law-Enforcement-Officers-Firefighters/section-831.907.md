@@ -1,0 +1,13 @@
+##### § 831.907 Withholdings and contributions. #####
+
+(a) During the service covered under the conditions established by § 831.903 and § 831.904, the employing agency will deduct and withhold from the employee's base pay the amount required under 5 U.S.C. 8334(a) for such positions and submit that amount, together with agency contributions required by 5 U.S.C. 8334(a), to OPM in accordance with payroll office instructions issued by OPM.
+
+(b) If the correct withholdings and/or Government contributions are not submitted to OPM for any reason whatsoever, including cases in which it is finally determined that past service of a current or former employee was subject to the higher deduction and Government contribution rates, the employing agency must correct the error by submitting the correct amounts (including both employee and agency shares) to OPM as soon as possible. Even if the agency waives collection of the overpayment of pay under any waiver authority that may be available for this purpose, such as 5 U.S.C. 5584, or otherwise fails to collect the debt, the correct amount must still be submitted to OPM without delay as soon as possible.
+
+(c) Upon proper application from an employee, former employee or eligible survivor of a former employee, an employing agency or former employing agency will pay a refund of erroneous additional withholdings for service that is found not to have been covered service. If an individual has paid to OPM a deposit or redeposit, including the additional amount required for covered service, and the deposit or redeposit is later determined to be erroneous because the service was not covered service, OPM will pay the refund, upon proper application, to the individual, without interest.
+
+(d) The additional employee withholding and agency contribution for covered or creditable service properly made as required under 5 U.S.C. 8334(a)(1) or deposited under 5 U.S.C. 8334(c) are not separately refundable, even in the event that the employee or his or her survivor does not qualify for a special annuity computation under 5 U.S.C. 8339(d).
+
+(e) While an employee who does not hold a primary or secondary position is detailed or temporarily promoted to a primary or secondary position, the additional withholdings and agency contributions will not be made. While an employee who does hold a primary or secondary position is detailed or temporarily promoted to a position which is not a primary or secondary position, the additional withholdings and agency contributions will continue to be made.
+
+[58 FR 64367, Dec. 7, 1993, as amended at 60 FR 3339, Jan. 17, 1995]

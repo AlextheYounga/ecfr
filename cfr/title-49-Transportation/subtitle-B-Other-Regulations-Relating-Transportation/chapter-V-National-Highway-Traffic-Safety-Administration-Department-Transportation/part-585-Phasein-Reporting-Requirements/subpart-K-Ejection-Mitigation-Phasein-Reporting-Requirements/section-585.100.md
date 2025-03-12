@@ -1,0 +1,3 @@
+##### § 585.100 Scope. #####
+
+This part establishes requirements for manufacturers of passenger cars, and of trucks, buses and multipurpose passenger vehicles with a gross vehicle weight rating (GVWR) of 4,536 kilograms (kg) (10,000 pounds (lb)) or less, to submit a report, and maintain records related to the report, concerning the number of such vehicles that meet the ejection mitigation requirements of Standard No. 226, *Ejection Mitigation* (49 CFR 571.226).

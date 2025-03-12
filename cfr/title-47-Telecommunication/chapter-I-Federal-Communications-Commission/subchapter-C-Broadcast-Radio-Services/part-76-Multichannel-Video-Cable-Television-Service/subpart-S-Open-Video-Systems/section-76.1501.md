@@ -1,0 +1,5 @@
+##### § 76.1501 Qualifications to be an open video system operator. #####
+
+Any person may obtain a certification to operate an open video system pursuant to Section 653(a)(1) of the Communications Act, 47 U.S.C. 573(a)(1), except that an operator of a cable system may not obtain such certification within its cable service area unless it is subject to “effective competition” as defined in Section 623(l)(1) of the Communications Act, 47 U.S.C. 543(l)(1). The effective competition requirement of the preceding sentence does not apply to a local exchange carrier that is also a cable operator that seeks open video system certification within its cable service area. A cable operator that is not subject to effective competition within its cable service area may file a petition with the Commission, seeking a finding that particular circumstances exist that make it consistent with the public interest, convenience, and necessity to allow the operator to convert its cable system to an open video system. Nothing herein shall be construed to affect the terms of any franchising agreement or other contractual agreement.
+
+[65 FR 376, Jan. 5, 2000]

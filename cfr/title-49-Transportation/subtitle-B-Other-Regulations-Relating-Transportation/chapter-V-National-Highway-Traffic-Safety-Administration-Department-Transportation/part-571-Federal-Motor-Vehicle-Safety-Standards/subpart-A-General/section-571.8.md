@@ -1,0 +1,7 @@
+##### § 571.8 Effective date. #####
+
+(a) *Firefighting vehicles.* Notwithstanding the effective date provisions of the motor vehicle safety standards in this part, the effective date of any standard or amendment of a standard issued after September 1, 1971, to which firefighting vehicles must conform shall be, with respect to such vehicles, either 2 years after the date on which such standard or amendment is published in the rules and regulations section of the Federal Register, or the effective date specified in the notice, whichever is later, except as such standard or amendment may otherwise specifically provide with respect to firefighting vehicles.
+
+(b) *Vehicles built in two or more stages vehicles and altered vehicles.* Unless Congress directs or the agency expressly determines that this paragraph does not apply, the date for manufacturer certification of compliance with any standard, or amendment to a standard, that is issued on or after September 1, 2006 is, insofar as its application to intermediate and final-stage manufacturers and alterers is concerned, one year after the last applicable date for manufacturer certification of compliance. Nothing in this provision shall be construed as prohibiting earlier compliance with the standard or amendment or as precluding NHTSA from extending a compliance effective date for intermediate and final-stage manufacturers and alterers by more than one year.
+
+[70 FR 7435, Feb. 14, 2005]

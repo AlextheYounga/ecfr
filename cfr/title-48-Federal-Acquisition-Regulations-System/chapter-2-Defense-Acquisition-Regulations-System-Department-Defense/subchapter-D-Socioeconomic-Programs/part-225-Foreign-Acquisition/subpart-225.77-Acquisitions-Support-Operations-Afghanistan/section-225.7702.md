@@ -1,0 +1,1 @@
+##### 225.7702 Acquisitions not subject to the enhanced authority to acquire products or services from Afghanistan. #####

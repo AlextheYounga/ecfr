@@ -1,0 +1,3 @@
+##### § 2423.22 Intervenors. #####
+
+Motions for permission to intervene and responses shall be filed in accordance with § 2423.21. Such motions shall be granted upon a showing that the outcome of the proceeding is likely to directly affect the movant's rights or duties. Intervenors may participate only: on the issues determined by the Administrative Law Judge to affect them; and to the extent permitted by the Judge. Denial of such motions may be appealed pursuant to § 2423.21(d).

@@ -1,0 +1,14 @@
+##### § 553.60 To whom may I present a claim? #####
+
+(a) If you are a claimant, you must present your claim first to the designated applicant for the COF that is the source of the incident resulting in your claim. If, however, the designated applicant has filed a petition for bankruptcy under 11 U.S.C. chapter 7 or 11, you may present your claim first to any of the designated applicant's guarantors.
+
+(b) If the claim you present to the designated applicant or guarantor is denied or not paid within 90 days after you first present it or advertising begins, whichever is later, then you may seek any of the following remedies that apply:
+
+|                       If the reason for denial or nonpayment is . . .                       |                                                                                                                           Then you may elect to . . .                                                                                                                           |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(1) Not an assertion of insolvency or petition in bankruptcy under 11 U.S.C. chapter 7 or 11,|(i) Present your claim to any of the responsible parties for the COF; or  <br/>(ii) Initiate a lawsuit against the designated applicant and/or any of the responsible parties for the COF; or  <br/>(iii) Present your claim to the Fund using the procedures at 33 CFR part 136.|
+|  (2) An assertion of insolvency or petition in bankruptcy under 11 U.S.C. chapter 7 or 11,  |              (i) Pursue any of the remedies in items (1)(i) through (iii) of this table; or  <br/>(ii) Present your claim to any of the designated applicant's guarantors; or  <br/>(iii) Initiate a lawsuit against any of the designated applicant's guarantors.              |
+
+(c) If no one has resolved your claim to your satisfaction using the remedy that you elected under paragraph (b) of this section, then you may pursue another available remedy, unless the Fund has denied your claim or a court of competent jurisdiction has ruled against your claim. You may not pursue more than one remedy at a time.
+
+(d) You may ask BOEM to assist you in determining whether a guarantor may be liable for your claim. Send your request for assistance to the address listed in § 553.45. You must include any information you have regarding the existence or identity of possible guarantors.

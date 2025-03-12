@@ -1,0 +1,3 @@
+##### 1450.104-3 Special procedures for unusually hazardous or nuclear risks. #####
+
+The CO shall submit the proposed Memorandum of Decision including the contractor's request for indemnification and the information required from the CO, to the SOL for review and approval. If the SOL approves the proposed Memorandum of Decision, it shall be submitted through the HCA, to the Director, PAM, for approval or disapproval by the Secretary.

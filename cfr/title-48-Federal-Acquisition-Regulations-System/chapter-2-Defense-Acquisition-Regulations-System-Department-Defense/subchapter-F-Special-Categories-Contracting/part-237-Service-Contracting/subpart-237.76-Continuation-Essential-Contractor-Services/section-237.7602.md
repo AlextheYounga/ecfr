@@ -1,0 +1,7 @@
+##### 237.7602 Policy. #####
+
+(a) Contractors providing services designated as essential contractor services shall be prepared to continue providing such services, in accordance with the terms and conditions of their contracts, during periods of crisis. As a general rule, the designation of services as essential contractor services will not apply to an entire contract but will apply only to those service functions that have been specifically identified as essential contractor services by the functional commander or civilian equivalent.
+
+(b) Contractors who provide Government-determined essential contractor services shall provide a written plan to be incorporated in the contract, to ensure the continuation of these services in crisis situations. Contracting officers shall consult with a functional manager to assess the sufficiency of the contractor-provided written plan. Contractors will activate such plans only during periods of crisis, as authorized by the contracting officer, who does so at the direction of the appropriate functional commander or civilian equivalent.
+
+(c) The contracting officer shall follow the procedures at PGI 207.105U(b)(20)(C) in preparing an acquisition plan.

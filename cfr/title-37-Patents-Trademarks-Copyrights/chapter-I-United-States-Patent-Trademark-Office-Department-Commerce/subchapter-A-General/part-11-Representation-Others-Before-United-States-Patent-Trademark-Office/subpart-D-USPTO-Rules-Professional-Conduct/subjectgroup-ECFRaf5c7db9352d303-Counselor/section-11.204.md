@@ -1,0 +1,5 @@
+##### § 11.204 Practitioner serving as third-party neutral. #####
+
+(a) A practitioner serves as a third-party neutral when the practitioner assists two or more persons who are not clients of the practitioner to reach a resolution of a dispute or other matter that has arisen between them. Service as a third-party neutral may include service as an arbitrator, a mediator or in such other capacity as will enable the practitioner to assist the parties to resolve the matter.
+
+(b) A practitioner serving as a third-party neutral shall inform unrepresented parties that the practitioner is not representing them. When the practitioner knows or reasonably should know that a party does not understand the practitioner's role in the matter, the practitioner shall explain the difference between the practitioner's role as a third-party neutral and a practitioner's role as one who represents a client.

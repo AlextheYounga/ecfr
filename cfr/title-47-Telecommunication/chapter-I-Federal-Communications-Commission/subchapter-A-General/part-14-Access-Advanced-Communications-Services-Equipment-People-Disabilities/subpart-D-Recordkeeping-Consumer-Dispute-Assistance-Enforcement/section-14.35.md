@@ -1,0 +1,5 @@
+##### § 14.35 Procedure; designation of agents for service. #####
+
+(a) The Commission shall forward any informal complaint meeting the requirements of § 14.34 of this subpart to each manufacturer and service provider named in or determined by the staff to be implicated by the complaint.
+
+(b) To ensure prompt and effective service of informal and formal complaints filed under this subpart, every manufacturer and service provider subject to the requirements of section 255, 716, or 718 of the Act and parts 6, 7, or 14 of this chapter shall designate an agent, and may designate additional agents if it so chooses, upon whom service may be made of all notices, inquiries, orders, decisions, and other pronouncements of the Commission in any matter before the Commission. The agent shall be designated in the manufacturer or service provider's annual certification pursuant to § 14.31.

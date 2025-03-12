@@ -1,0 +1,3 @@
+##### § 1580.111 Harmonization of federal regulation of nuclear facilities. #####
+
+TSA will coordinate activities under this subpart with the Nuclear Regulatory Commission (NRC) and the Department of Energy (DOE) with respect to regulation of rail hazardous materials shippers and receivers that are also licensed or regulated by the NRC or DOE under the Atomic Energy Act of 1954, as amended, to maintain consistency with the requirements imposed by the NRC and DOE.

@@ -1,0 +1,3 @@
+##### § 63.11178 In what form and for how long must I keep my records? #####
+
+(a) If you are the owner or operator of an affected source, you must maintain copies of the records specified in § 63.11177 for a period of at least five years after the date of each record. Copies of records must be kept on site and in a printed or electronic form that is readily accessible for inspection for at least the first two years after their date, and may be kept off-site after that two year period.

@@ -1,0 +1,3 @@
+##### § 841.405 Economic assumptions. #####
+
+The determinations of the normal cost percentage will be based on the economic assumptions determined by the Board. When an agency's case is based in whole or in part on the pattern of merit salary increases specific to the agency or to a category of employees within the agency, the Board may require modification of the economic assumptions concerning salary and wage growth to take into account the combined effect of merit and general wage and salary increases.

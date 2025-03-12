@@ -1,0 +1,3 @@
+##### § 835.601 Purpose. #####
+
+This subpart establishes procedures for OPM to refer past-due legally enforceable debts to the Internal Revenue Service (IRS) for offset against the income tax refunds of persons owing debts to OPM. It specifies the agency procedures and the rights of the debtor applicable to claims referred under the Federal Tax Refund Offset Program for the collection of debts owed to OPM.

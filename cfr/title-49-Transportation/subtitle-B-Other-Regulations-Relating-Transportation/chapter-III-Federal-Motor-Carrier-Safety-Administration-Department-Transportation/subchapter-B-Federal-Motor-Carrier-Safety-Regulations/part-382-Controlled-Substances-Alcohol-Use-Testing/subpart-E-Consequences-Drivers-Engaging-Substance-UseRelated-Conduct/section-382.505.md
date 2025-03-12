@@ -1,0 +1,5 @@
+##### § 382.505 Other alcohol-related conduct. #####
+
+(a) No driver tested under the provisions of subpart C of this part who is found to have an alcohol concentration of 0.02 or greater but less than 0.04 shall perform or continue to perform safety-sensitive functions for an employer, including driving a commercial motor vehicle, nor shall an employer permit the driver to perform or continue to perform safety-sensitive functions, until the start of the driver's next regularly scheduled duty period, but not less than 24 hours following administration of the test.
+
+(b) Except as provided in paragraph (a) of this section, no employer shall take any action under this part against a driver based solely on test results showing an alcohol concentration less than 0.04. This does not prohibit an employer with authority independent of this part from taking any action otherwise consistent with law.

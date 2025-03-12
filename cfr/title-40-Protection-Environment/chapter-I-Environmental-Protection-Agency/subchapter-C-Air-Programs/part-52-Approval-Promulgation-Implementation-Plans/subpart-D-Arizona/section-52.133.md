@@ -1,0 +1,19 @@
+##### § 52.133 Rules and regulations. #####
+
+(a) Regulation 7-1-1.4(A) (Exceptions) of the Arizona Rules and Regulations for Air Pollution Control, regulations 12-3-2 (Emission Standards) of the Coconino County Rules and Regulations for Air Pollution Control, section 3, regulation 5 (Exceptions) of the Mohave County Air Pollution Control Regulations, regulation 8-1-1.6 (Exceptions) of the Yuma County Air Pollution Control Regulations, and regulation 7-1-2.8 (Exceptions) of the Rules and Regulations for Pinal-Gila Counties Air Quality Control District all provide for an exemption from enforcement action if the violation is attributable to certain events. These events are too broad in scope and the source can obtain the exemption merely by reporting the occurrence. Therefore, the above regulations are disapproved since these regulations make all approved emission limiting regulations potentially unenforceable.
+
+(b) Paragraph E of regulation 7-1-1.3 (R9-3-103) (Air Pollution Prohibited) prohibits any person from causing ground level concentrations to exceed ambient standards outside the boundaries of this operation. This regulation could allow violations of ambient air quality standards to occur in areas to which the public has access, contrary to the requirements of section 110(a)(1) of the Clean Air Act. Therefore, paragraph E of regulation 7-1-1.3 (R9-3-103) of the Arizona Rules and Regulations for Air Pollution Control is disapproved.
+
+(c) The requirements of subpart G and § 51.281 of this chapter are not met since the plan does not provide any enforceable regulations and a demonstration that such regulations will cause the attainment and maintenance of national ambient air quality standards in Graham and Greenlee Counties.
+
+(d) Section 3, regulation 4 (Ground Level Concentrations) of the Mohave County Air Pollution Control Regulations, paragraph E of regulation 8-1-1.3 (Air Pollution Prohibited) of the Yuma County Air Pollution Control Regulations, and paragraph C of regulation 7-1-1.3 (Air Pollution Prohibited) of the Rules and Regulations for Pinal-Gila Counties Air Quality Control District prohibits any person from causing ground level concentrations to exceed ambient standards outside the boundaries of his operation. These regulations could allow violations of ambient air quality standards to occur in areas to which the general public has access, contrary to the requirements of section 110(a)(1) of the Clean Air Act. Therefore, these regulations are disapproved.
+
+(e) Rule R18-2-702 of the Arizona Department of Environmental Quality Rules and Regulations sets an opacity standard for emissions from stationary sources of PM-10. The standard does not fulfill the RACM/RACT requirements of section 189(a) of the CAA. The rule also does not comply with enforceability requirements of section 110(a) and SIP relaxation requirements of sections 110(l) and 193. Therefore, Rule R18-2-702 submitted on July 15, 1998 is disapproved.
+
+(f) Rules 1-3-130 and 3-1-020 submitted on November 27, 1995 of the Pinal County Air Quality Control District regulations have limited enforceability because they reference rules not contained in the Arizona State Implementation Plan. Therefore, these rules are removed from the Arizona State Implementation Plan.
+
+(g) Rules 1-2-110, 1-3-130, 3-1-020, and 4-1-010 submitted on October 7, 1998 of the Pinal County Air Quality Control District regulations have limited enforceability because they reference rules not contained in the Arizona State Implementation Plan. Therefore, these rules are disapproved.
+
+(h) [Reserved]
+
+[37 FR 15082, July 27, 1972, as amended at 43 FR 33247, July 31, 1978; 43 FR 53035, Nov. 15, 1978; 51 FR 40676, 40677, Nov. 7, 1986; 67 FR 59460, Sept. 23, 2002; 67 FR 68767, Nov. 13, 2002; 85 FR 43695, July 20, 2020; 87 FR 80468, Dec. 30, 2022]

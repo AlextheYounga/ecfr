@@ -1,0 +1,3 @@
+##### § 74.6 Quality control. #####
+
+The applicant shall describe the way in which each lot of components will be sampled and tested to maintain its quality prior to assembly of each sampler unit. In order to assure that the quality of the CMDPSU will be maintained in production through adequate quality control procedures, MSHA and NIOSH reserve the right to have their qualified personnel inspect each applicant's control-test equipment procedures and records and to interview the employees who conduct the control tests. Two copies of the results of any tests made by the applicant on the CMDPSU or the pump unit thereof shall accompany an application provided under § 74.13 of this part.

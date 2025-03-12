@@ -1,0 +1,5 @@
+##### § 20.7 General policies. #####
+
+(a) The general policies of the United States for cooperation with the States in the prevention and abatement of water pollution are: To enhance the quality and value of our water resources; to eliminate or reduce the pollution of the nation's waters and tributaries thereof; to improve the sanitary condition of surface and underground waters; and to conserve such waters for public water supplies, propagation of fish and aquatic life and wildlife, recreational purposes, and agricultural, industrial, and other legitimate uses.
+
+(b) The general policy of the United States for cooperation with the States in the prevention and abatement of air pollution is to cooperate with and to assist the States and local governments in protecting and enhancing the quality of the Nation's air resources by the prevention and abatement of conditions which cause or contribute to air pollution which endangers the public health or welfare.

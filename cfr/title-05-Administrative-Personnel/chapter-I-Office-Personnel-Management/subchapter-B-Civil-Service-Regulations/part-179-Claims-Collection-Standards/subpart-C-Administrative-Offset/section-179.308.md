@@ -1,0 +1,3 @@
+##### § 179.308 Accelerated procedures. #####
+
+OPM may make an administrative offset against a payment to be made to the debtor prior to the completion of the procedures required by §§ 179.304 and 179.305 if failure to take the offset would substantially jeopardize OPM's ability to collect the debt, and the time before the payment is to be made does not reasonably permit the completion of those procedures. Such prior offset shall be promptly followed by the completion of those procedures. Amounts recovered by offset but later found not to be owed to OPM shall be promptly refunded.

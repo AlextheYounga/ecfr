@@ -1,0 +1,5 @@
+##### § 347.201 Authority, purpose, and scope. #####
+
+(a) This subpart is issued pursuant to sections 5(c) and 10(b)(4) of the Federal Deposit Insurance Act (FDI Act)(12 U.S.C. 1815(c) and 1820(b)(4)) and sections 6, 7, and 15 of the International Banking Act of 1978 (IBA)(12 U.S.C. 3104, 3105, and 3109).
+
+(b) This subpart implements the insured branch asset pledge and examination commitment requirement for foreign banks in the FDI Act. It also implements the deposit insurance, permissible activity, and cross-border cooperation provisions of the IBA regarding the FDIC. Sections 347.203-347.211 apply to state and federal branches whose deposits are insured. Sections 347.204 and 347.207 are applicable to depository institution subsidiaries of a foreign bank. Section 347.212 applies to insured state branches and §§ 347.213-347.216 apply to state branches whose deposits are not insured by the FDIC.

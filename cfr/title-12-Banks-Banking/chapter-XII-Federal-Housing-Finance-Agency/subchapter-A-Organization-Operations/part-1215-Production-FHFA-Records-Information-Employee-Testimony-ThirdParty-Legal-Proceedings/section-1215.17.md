@@ -1,0 +1,5 @@
+##### § 1215.17 Responses to demands served on nonemployees. #####
+
+(a) FHFA confidential supervisory information is the property of FHFA, and is not to be disclosed to any person without the Director's prior written consent.
+
+(b) If any person in possession of FHFA confidential supervisory information, is served with a demand in a legal proceeding directing that person to produce FHFA's confidential supervisory information or to testify with respect thereto, such person shall immediately notify the General Counsel of such service, of the testimony requested and confidential supervisory information described in the demand, and of all relevant facts. Such person shall also object to the production of such confidential supervisory information on the basis that the confidential supervisory information is the property of FHFA and cannot be released without FHFA's consent and that production must be sought from FHFA following the procedures set forth in §§ 1215.7, 1215.8, and 1215.14 of this part.

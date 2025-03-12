@@ -1,0 +1,3 @@
+##### § 19.124 Decision of the Comptroller. #####
+
+Following the conclusion of the hearing and the submission of the record and the presiding officer's recommended decision to the Comptroller for decision, the Comptroller shall notify the applicant and all persons who have so requested in writing of the final disposition of the application. Exemptions granted must be in the form of an order which specifies the type of exemption granted and its terms and conditions.

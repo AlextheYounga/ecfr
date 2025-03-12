@@ -1,0 +1,3 @@
+##### § 603.600 Administrative matters. #####
+
+This subpart addresses “systemic” administrative matters that place requirements on the operation of a participant's financial management, property management, or purchasing system. Each participant's systems are organization-wide and do not vary with each agreement. Therefore, a TIA should address systemic requirements in a uniform way for each type of participant organization.

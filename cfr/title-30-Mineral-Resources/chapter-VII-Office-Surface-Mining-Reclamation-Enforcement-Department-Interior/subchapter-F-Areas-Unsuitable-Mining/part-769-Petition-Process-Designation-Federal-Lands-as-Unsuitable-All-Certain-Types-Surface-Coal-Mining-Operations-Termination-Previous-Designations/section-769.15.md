@@ -1,0 +1,3 @@
+##### § 769.15 Intervention. #####
+
+Up to 3 days before the OSM holds a hearing on a petition under § 769.17, any person may intervene in the proceeding by filing a statement describing how the designation directly affects the intervenor, allegations of facts and supporting evidence, a short statement identifying the petition to which the allegations pertain, and the intervenor's name, address and telephone number.

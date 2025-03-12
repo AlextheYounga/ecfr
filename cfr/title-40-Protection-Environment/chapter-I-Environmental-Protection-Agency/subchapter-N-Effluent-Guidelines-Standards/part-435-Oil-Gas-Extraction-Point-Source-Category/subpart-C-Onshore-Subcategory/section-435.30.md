@@ -1,0 +1,5 @@
+##### § 435.30 Applicability; description of the onshore subcategory. #####
+
+The provisions of this subpart are applicable to those facilities engaged in the production, field exploration, drilling, well completion and well treatment in the oil and gas extraction industry which are located landward of the inner boundary of the territorial seas as defined in 40 CFR 125.1(gg) and which are not included within subpart D, E, or F, *Provided, however,* That the applicability of this subpart to (a) facilities in existence on April 13, 1979 or thereafter engaged in the production, field exploration, drilling, well completion and well treatment in the oil and gas extraction industry which are located on land and which would have been considered “coastal” as defined under the interim final regulations for this industry (40 CFR 435.41, 41 FR 44942, October 13, 1976) or which are (b) located in the Santa Maria Basin of California is suspended.
+
+(Secs. 301, 304(b) and 501 of the Clean Water Act as amended, 33 U.S.C. 1251 *et seq.*)[44 FR 22075, Apr. 13, 1979, as amended at 47 FR 31555, July 21, 1982]

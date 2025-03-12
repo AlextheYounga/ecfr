@@ -1,0 +1,3 @@
+##### 2807.503 Policy. #####
+
+The requirements official shall provide the contracting officer, concurrent with the transmittal of the statement of work (or modification thereof), a written determination that none of the functions to be performed are inherently governmental. Any disputes concerning this determination shall be resolved by the contracting officer, after consultation with the requirements official. The contracting officer's determination shall be final.

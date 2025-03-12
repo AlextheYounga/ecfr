@@ -1,0 +1,13 @@
+##### § 174.16 Removal and disposition of hazardous materials at destination. #####
+
+(a) *Delivery at non-agency stations.* A shipment of Class 1 (explosive) materials may not be unloaded at non-agency stations unless the consignee is there to receive it or unless properly locked and secure storage facilities are provided at that point for its protection. If delivery cannot be so made, the shipment must be taken to next or nearest agency station for delivery.
+
+(b) *Delivery at agency stations.* A carrier shall require the consignee of each shipment of hazardous materials to remove the shipment from carrier's property within 48 hours (exclusive of Saturdays, Sundays, and holidays) after notice of arrival has been sent or given. If not so removed, the carrier shall immediately dispose of the shipments as follows:
+
+(1) *Division 1.1 or 1.2 (explosive) materials:* If safe storage is available, by storage at the owner's expense; if safe storage is not available, by return to the shipper, sale, or destruction under supervision of a competent person; or if safety requires, by destruction under supervision of a competent person.
+
+(2) *Hazardous materials, except Division 1.1 or 1.2 (explosive) materials, in carload shipments:* By storage on the carrier's property; by storage on other than the carrier's property, if safe storage on the carrier's property is not available; or by sale at expiration of 15 calendar days after notice of arrival has been sent or given to the consignee, provided the consignor has been notified of the non-delivery at the expiration of a 48-hour period and orders for disposition have not been received.
+
+(3) *Hazardous materials, except Division 1.1 or 1.2 (Class A explosive) materials, in less-than-carload shipments:* By return to the shipper if notice of non-delivery was requested and given the consignor as prescribed by the carrier's tariff, and orders for return to shipper have been received; by storage on the carrier's property; by storage on other than the carrier's property, if safe storage on carrier's property is not available; or by sale at expiration of 15 calendar days after notice of arrival has been sent or given to the consignee, provided the consignor has been notified of non-delivery at expiration of a 48-hour period and orders for disposition have not been received.
+
+[Amdt. 174-26, 41 FR 16092, Apr. 15, 1976, as amended by Amdt. 174-68, 55 FR 52677, Dec. 21, 1990; 66 FR 45383, Aug. 28, 2001]

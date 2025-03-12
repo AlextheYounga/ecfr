@@ -1,0 +1,3 @@
+##### § 1045.650 Do delegated-assembly provisions apply for marine engines? #####
+
+The provisions of 40 CFR 1068.261 related to delegated final assembly do not apply for marine spark-ignition engines certified under this part 1045. This means that for engines requiring exhaust aftertreatment (such as catalysts), the engine manufacturers must either install the aftertreatment on the engine before introducing it into U.S. commerce or ship the aftertreatment along with the engine.

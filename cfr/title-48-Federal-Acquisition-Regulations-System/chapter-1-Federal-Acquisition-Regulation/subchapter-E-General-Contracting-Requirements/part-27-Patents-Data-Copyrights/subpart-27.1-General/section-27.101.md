@@ -1,0 +1,3 @@
+##### 27.101 Applicability. #####
+
+This part applies to all agencies. However, agencies are authorized to adopt alternative policies, procedures, solicitation provisions, and contract clauses to the extent necessary to meet the specific requirements of laws, executive orders, treaties, or international agreements. Any agency adopting alternative policies, procedures, solicitation provisions, and contract clauses should include them in the agency's published regulations.

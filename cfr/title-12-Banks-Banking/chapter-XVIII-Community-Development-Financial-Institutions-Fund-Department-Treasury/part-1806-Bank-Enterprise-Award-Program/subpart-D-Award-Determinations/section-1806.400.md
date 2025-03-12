@@ -1,0 +1,3 @@
+##### § 1806.400 General. #####
+
+The amount of a BEA Program Award shall be based on the Applicant's increases in Qualified Activities from the Baseline Period to the Assessment Period, as set forth in the applicable NOFA. When determining this increase, Applicants must consider all BEA Qualified Activities and all BEA qualified census tracts, as it relates to a given subcategory or activity type, as applicable.

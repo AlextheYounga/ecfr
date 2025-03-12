@@ -1,0 +1,9 @@
+##### § 380.50 Determination of secured claims. #####
+
+(a) In the case of a claim against a covered financial company that is secured by any property of the covered financial company, the Corporation as receiver shall determine the amount of the claim, whether the claimant's security interest is legally enforceable and perfected, the priority of the claimant's security interest, and the fair market value of the property that is subject to the security interest. The Corporation as receiver may treat the portion of the claim which exceeds an amount equal to the fair market value of such property as an unsecured claim.
+
+(b) The fair market value of any property of a covered financial company that secures a claim shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property and at the time of such proposed disposition or use.
+
+(c) The Corporation as receiver may recover from any property of a covered financial company that secures a claim the reasonable and necessary costs and expenses of preserving or disposing of such property to the extent of any benefit to the claimant, including the payment of all ad valorem property taxes with respect to such property.
+
+(d) To the extent that a claim is secured by property of a covered financial company and the value of such property, after any recovery under paragraph (c) of this section, is greater than the amount of such claim, there shall be allowed to the claimant a secured claim for interest on such claim and any reasonable fees, costs, or charges provided for under the agreement or State statute under which the claim arose to the extent of the value of such property.

@@ -1,0 +1,3 @@
+##### § 424.50 Applicability; description of the other calcium carbide furnaces subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the production of calcium carbide in those covered furnaces which do not utilize wet air pollution control methods. Covered calcium carbide furnaces using wet air pollution control devices are regulated in subpart D of this part. Open (uncovered) calcium carbide furnaces are regulated in part 415, inorganic chemicals manufacturing point source category (39 FR 9612).

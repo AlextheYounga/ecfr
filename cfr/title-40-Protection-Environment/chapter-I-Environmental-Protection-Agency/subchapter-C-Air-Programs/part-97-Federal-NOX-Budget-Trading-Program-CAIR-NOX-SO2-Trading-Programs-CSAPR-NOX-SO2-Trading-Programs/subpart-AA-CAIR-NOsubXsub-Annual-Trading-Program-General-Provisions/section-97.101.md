@@ -1,0 +1,3 @@
+##### § 97.101 Purpose. #####
+
+This subpart and subparts BB through II set forth the general provisions and the designated representative, permitting, allowance, monitoring, and opt-in provisions for the Federal Clean Air Interstate Rule (CAIR) NOX Annual Trading Program, under section 110 of the Clean Air Act and § 52.35 of this chapter, as a means of mitigating interstate transport of fine particulates and nitrogen oxides.

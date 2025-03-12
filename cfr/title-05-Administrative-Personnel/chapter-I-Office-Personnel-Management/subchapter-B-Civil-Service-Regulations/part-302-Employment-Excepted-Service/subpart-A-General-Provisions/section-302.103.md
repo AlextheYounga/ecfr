@@ -1,0 +1,3 @@
+##### § 302.103 Definitions. #####
+
+*Person entitled to priority consideration* means a person who was furloughed or separated without misconduct, from a position without time limit, because of a compensable injury and whose recovery takes longer than 1 year from the date compensation began. To be eligible under this part the person must apply for reappointment to his or her former agency within 30 days of the date of cessation of compensation.

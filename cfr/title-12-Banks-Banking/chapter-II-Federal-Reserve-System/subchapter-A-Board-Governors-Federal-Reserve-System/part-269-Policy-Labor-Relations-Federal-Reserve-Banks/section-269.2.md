@@ -1,0 +1,9 @@
+##### § 269.2 Membership in a labor organization. #####
+
+(a) Any employee of a Federal Reserve Bank (hereinafter referred to as “Bank”) is free to join and assist any existing labor organization or to participate in the formation of a new labor organization, or to refrain from any such activities except that officers and their administrative or confidential assistants, managers and other supervisory personnel, secretaries to all such persons and all employees engaged in Bank personnel work shall not be represented by any labor organization.
+
+(b) The rights described in paragraph (a) of this section for employees do not extend to participation in the management of a labor organization, or acting as a representative of any such organization, where such participation or activity would conflict with law or the duties of an employee.
+
+(c) Notwithstanding anything stated in paragraph (a) of this section, professional employees of a Bank shall not be represented by a labor organization which represents other employees of the Bank unless a majority of the professional employees eligible to vote specifically elect to be represented by such labor organization. However, the professional employees of a Bank may, if they so choose, be represented by a separate labor organization of their own, or by no labor organization at all.
+
+(d) Notwithstanding anything stated in paragraph (a) of this section, the guards of a Bank shall not be members of a labor organization which represents other categories of employees of the Bank. However, the guards of a Bank may, if they so choose, be represented by a separate labor organization of their own, or by no labor organization at all.

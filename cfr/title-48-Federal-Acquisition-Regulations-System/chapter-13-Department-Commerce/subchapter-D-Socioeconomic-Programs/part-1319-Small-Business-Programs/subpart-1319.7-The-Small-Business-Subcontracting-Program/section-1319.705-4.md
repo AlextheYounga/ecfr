@@ -1,0 +1,3 @@
+##### 1319.705-4 Reviewing the subcontracting plan. #####
+
+The prime contractor's proposed subcontracting plan shall be reviewed by the contracting officer for adequacy, ensuring that the required information, goals, and assurances are included. The contracting officer may obtain advice and recommendations from the SBA procurement center representative, the contracting activity's small business specialist and the DOC OSDBU. The CO shall give the reviewers sufficient time and information to review the plan and ask questions.

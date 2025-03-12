@@ -1,0 +1,3 @@
+##### § 147.3016 Criteria and standards applicable to Class V wells. #####
+
+In addition to the criteria and standards applicable to Class V wells set forth in subpart F of part 146 of this chapter, owners and operators of wells that do not fall within the Class IV category but that are used to dispose of radioactive wastes (as defined in 10 CFR part 20, appendix B, table II, column 2, but not including high level and transuranic wastes and spent nuclear fuel covered by 40 CFR part 191) shall comply with all of the requirements applicable to Class I injection wells in 40 CFR parts 124, 144 and 146 as supplemented by this subpart.

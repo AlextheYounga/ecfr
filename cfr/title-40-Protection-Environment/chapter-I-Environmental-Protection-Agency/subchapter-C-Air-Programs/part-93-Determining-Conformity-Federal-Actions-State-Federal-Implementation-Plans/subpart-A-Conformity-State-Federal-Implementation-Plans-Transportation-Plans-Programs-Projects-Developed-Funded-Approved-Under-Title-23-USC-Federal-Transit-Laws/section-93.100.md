@@ -1,0 +1,3 @@
+##### § 93.100 Purpose. #####
+
+The purpose of this subpart is to implement section 176(c) of the Clean Air Act (CAA), as amended (42 U.S.C. 7401 *et seq.*), and the related requirements of 23 U.S.C. 109(j), with respect to the conformity of transportation plans, programs, and projects which are developed, funded, or approved by the United States Department of Transportation (DOT), and by metropolitan planning organizations (MPOs) or other recipients of funds under title 23 U.S.C. or the Federal Transit Laws (49 U.S.C. Chapter 53). This subpart sets forth policy, criteria, and procedures for demonstrating and assuring conformity of such activities to an applicable implementation plan developed pursuant to section 110 and Part D of the CAA.

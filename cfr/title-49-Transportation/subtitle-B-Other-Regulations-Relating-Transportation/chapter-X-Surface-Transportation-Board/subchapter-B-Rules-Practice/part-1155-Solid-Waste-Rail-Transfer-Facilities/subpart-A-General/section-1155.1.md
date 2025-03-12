@@ -1,0 +1,3 @@
+##### § 1155.1 Purpose and scope. #####
+
+49 U.S.C. 10501(c)(2)(B) excludes solid waste rail transfer facilities from the Board's jurisdiction except as provided under 49 U.S.C. 10908 and 10909. Sections 10908 and 10909 provide the Board authority to issue land-use-exemption permits for solid waste rail transfer facilities when certain conditions are met. The regulations in this part concern land-use-exemption permits and the Board's standard for review.

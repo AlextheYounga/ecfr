@@ -1,0 +1,5 @@
+##### § 144.64 Incapacity of owners or operators, guarantors, or financial institutions. #####
+
+(a) An owner or operator must notify the Regional Administrator by certified mail of the commencement of a voluntary or involuntary proceeding under title 11 (Bankruptcy), U.S. Code, naming the owner or operator as debtor, within 10 business days after the commencement of the proceeding. A guarantor of a corporate guarantee as specified in § 144.63(f) must make such a notification if he is named as debtor, as required under the terms of the guarantee (§ 144.70(f)).
+
+(b) An owner or operator who fulfills the requirements of § 144.63 by obtaining a letter of credit, surety bond, or insurance policy will be deemed to be without the required financial assurance or liability coverage in the event of bankruptcy, insolvency, or a suspension or revocation of the license or charter of the issuing institution. The owner or operator must establish other financial assurance or liability coverage within 60 days after such an event.

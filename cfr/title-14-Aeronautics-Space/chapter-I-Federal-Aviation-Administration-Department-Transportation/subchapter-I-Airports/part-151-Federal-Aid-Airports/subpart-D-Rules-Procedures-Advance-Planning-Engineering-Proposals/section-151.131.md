@@ -1,0 +1,11 @@
+##### § 151.131 Forms. #####
+
+The forms used for the purpose of obtaining an advance planning and engineering grant are as follows:
+
+(a) *Advance planning proposal, FAA Form 3731*—(1) *Part I.* This part of the form contains a request for the grant of Federal funds under the Federal Airport Act for the purpose of aiding in financing a proposal for the development of an airport layout plan or plans, or both, designed to lead to a project application, with spaces provided for inserting information needed for considering the request, including the location of the airport, a description of the plan or plans to be developed, and the estimate of planning and engineering costs.
+
+(2) *Part II.* This part of the form includes the sponsor's representation that it will comply with the provisions of part 15 of the Federal Aviation Regulations (14 CFR part 15), and representations concerning its legal authority to undertake the proposal, the availability of funds for its share of the proposal costs, its intention to initiate construction of a safe, useful and usable airport facility shown on an airport layout plan developed under the proposal, or initiate the construction of the item or items of airport development shown on the plans developed under the proposal and designed to lead to a project application, or both, within three years after the date of acceptance of the offer. It also includes the sponsor's representation as to the method of financing the intended construction, approval of other agencies, defaults, possible disabilities, and a statement concerning accept- ance to be executed by the sponsor and certified by its attorney.
+
+(b) *Advance planning agreement, FAA Form 3732*—(1) *Part I.* This part of the form contains an offer by the United States to pay a specified percentage not to exceed 50% of the allowable proposal costs, as described therein, on specific terms relating to the carrying out of the proposal, allowability of costs, payment of the United States' share and sponsor's agreement to comply with the exclusive rights provision of section 308(a) of the Federal Aviation Act of 1958.
+
+(2) *Part II.* This part of the form contains the acceptance of the offer by the sponsor, execution of the acceptance by the sponsor, and the certification by the sponsor's attorney.

@@ -1,0 +1,9 @@
+##### § 890.1037 Cases where additional fact-finding is not required. #####
+
+The suspending official may decide a contest without an additional fact-finding process if:
+
+(a) *Previously adjudicated facts.* The suspension is based on an indictment or on facts determined by a prior adjudication in which the provider was afforded due process rights. Examples of due process proceedings include, but are not limited to, the adjudication procedures associated with licensure revocation, suspension, restriction, or nonrenewal by a State licensing authority; similar administrative adjudications by Federal, State, or local agencies; a criminal conviction or civil judgment; or an action by the provider that constitutes a waiver of his right to a due process adjudication, such as surrender of professional licensure during the pendency of a disciplinary hearing, entering a guilty plea or confession of judgment in a judicial proceeding, or signing a settlement agreement stipulating facts that constitute a sanctionable violation. Neither the existence of the prior adjudication nor any of the underlying circumstances are considered to be subject to genuine factual dispute as part of the suspension proceeding.
+
+(b) *Advisory by law enforcement officials.* OPM is advised by the Department of Justice, the appropriate U.S. Attorney's Office, a State attorney general's office, or a State or local prosecutor's office that proceedings before a presiding official would prejudice the substantial interests of the Government in pending or contemplated legal proceedings based on the same facts as the suspension.
+
+(c) *No bona fide dispute of material facts.* The information, arguments, and documents submitted to the suspending official do not establish that there is a *bona fide* factual dispute regarding facts material to the suspension.

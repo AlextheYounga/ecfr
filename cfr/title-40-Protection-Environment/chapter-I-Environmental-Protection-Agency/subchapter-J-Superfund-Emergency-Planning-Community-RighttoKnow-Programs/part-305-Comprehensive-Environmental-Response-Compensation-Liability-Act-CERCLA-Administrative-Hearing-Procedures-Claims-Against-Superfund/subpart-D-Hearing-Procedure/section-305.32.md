@@ -1,0 +1,5 @@
+##### § 305.32 Objections and offers of proof. #####
+
+(a) *Objection.* Any objection concerning the conduct of the hearing may be stated orally or in writing during the hearing. The party raising the objection must supply a short statement of its grounds. The ruling by the Presiding Officer on any objection and the reasons given for it shall be part of the record. An exception to each objection overruled shall be automatic and is not waived by further participation in the hearing.
+
+(b) *Offer of proof.* Whenever evidence is excluded from the record, the party offering the evidence may make an offer of proof, which shall be included in the record. The offer of proof for excluded oral testimony shall consist of a brief statement describing the nature of the evidence excluded. The offer of proof for excluded documents or exhibits shall consist of the insertion into the record of the documents or exhibits excluded.

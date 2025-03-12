@@ -1,0 +1,3 @@
+##### § 1201.13 Appeals by Board employees. #####
+
+Appeals by Board employees will be filed with the Clerk of the Board and will be assigned to an administrative law judge for adjudication under this subchapter. The Board's policy is to insulate the adjudication of its own employees' appeals from agency involvement as much as possible. Accordingly, the Board will not disturb initial decisions in those cases unless the party shows that there has been harmful procedural irregularity in the proceedings before the administrative law judge or a clear error of law. In addition, the Board, as a matter of policy, will not rule on any interlocutory appeals or motions to disqualify the administrative law judge assigned to those cases until the initial decision has been issued.

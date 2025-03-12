@@ -1,0 +1,5 @@
+##### § 600.3 Farm Credit Administration Board. #####
+
+(a) *FCA Board.* The President appoints the three full-time Board members with the advice and consent of the Senate. The Board manages, administers, and establishes policies for FCA. The Board promulgates the rules and regulations implementing the Farm Credit Act of 1971, as amended, and provides for the examination of Farm Credit System institutions.
+
+(b) *Chairman of the FCA Board.* The Chairman of the Board is FCA's Chief Executive Officer. The Chairman directs the implementation of the policies and regulations adopted by the Board and, after consulting the Board, the execution of the administrative functions and duties of FCA. In carrying out the Board's policies, the Chairman acts as the spokesperson for the Board and represents the Board and FCA in their official relations within the Federal Government.

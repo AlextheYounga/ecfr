@@ -1,0 +1,13 @@
+##### § 52b.11 What are the requirements for acquisition and modernization of existing facilities? #####
+
+Grant awards for the acquisition and modernization of existing facilities are permitted if authorized by the statutes authorizing the construction grant program and shall be subject to the requirements of this section.
+
+(a) *Minimum standards of construction and equipment.* A determination by the Director that the facility conforms (or upon completion of any necessary construction will conform) to the minimum standards of construction and equipment as set forth in § 52b.12 shall be obtained before entering into a final or unconditional contract for the acquisition and/or modernization of facilities. Where the Director finds that exceptions to or modifications of these minimum standards would be consistent with the purposes of the applicable section of the Act under which the acquisition or modernization is supported, the Director may authorize the exceptions or modifications.
+
+(b) *Estimated cost of acquisition and remodeling: suitability of facility.* Each application for a project involving the acquisition of existing facilities shall include in the detailed estimates of the costs of the project, the cost of acquiring the facilities, and any cost of remodeling, renovating or altering the facilities to serve the purposes for which they are acquired. The application shall demonstrate to the satisfaction of the Director that the architectural, mechanical, electrical, plumbing, structural, and other pertinent features of the facility, as modified by any proposed expansion, remodeling, renovation, or alteration, will be suitable for the purposes of the applicable sections of the Act.
+
+(c) *Bona fide sale.* Grant awards for the acquisition of existing facilities shall be subject to the condition that the acquisition constitutes a bona fide sale involving an actual cost to the applicant and will result in additional or improved facilities for purposes of the applicable provisions of the Act.
+
+(d) *Facility previously funded by a federal grant.* No grant for the acquisition or modernization of a facility which has previously been funded in whole or in part by a federal grant for construction, acquisition, or equipment shall serve either to reduce or restrict the liability of the applicant or any other transferor or transferee from any obligation of accountability imposed by the Federal Government by reason of the prior grant.
+
+(Approved by the Office of Management and Budget under Control Number 0925-0424; expires November 30, 2001)

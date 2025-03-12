@@ -1,0 +1,13 @@
+##### § 1022.1 Purpose, scope, and model forms and disclosures. #####
+
+(a) *Purpose.* The purpose of this part is to implement the Fair Credit Reporting Act (FCRA). This part generally applies to persons that obtain and use information about consumers to determine the consumer's eligibility for products, services, or employment, share such information among affiliates, and furnish information to consumer reporting agencies.
+
+(b) *Scope.* (1) [Reserved]
+
+(2) *Institutions covered.* (i) Except as otherwise provided in this part, this part applies to any person subject to the FCRA except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376.
+
+(ii) For purposes of appendix B to this part, financial institutions as defined in section 509 of the Gramm-Leach-Bliley Act (12 U.S.C. 6809), may use the model notices in appendix B to this part to comply with the notice requirement in section 623(a)(7) of the FCRA (15 U.S.C. 1681s-2(a)(7)).
+
+(c) *Model forms and disclosures*—(1) *Use.* Appendices D, H, I, K, L, M, and N contain model forms and disclosures. These appendices carry out the directive in FCRA that the Bureau prescribe such model forms and disclosures. Use or distribution of these model forms and disclosures, or substantially similar forms and disclosures, will constitute compliance with any section or subsection of the FCRA requiring that such forms and disclosures be used by or supplied to any person.
+
+(2) *Definition. Substantially similar* means that all information in the Bureau's prescribed model is included in the document that is distributed, and that the document distributed is formatted in a way consistent with the format prescribed by the Bureau. The document that is distributed shall not include anything that interferes with, detracts from, or otherwise undermines the information contained in the Bureau's prescribed model. Until January 1, 2013, the model forms in appendices B, E, F, G, and H to 16 CFR part 698, as those appendices existed as of October 1, 2011, are deemed substantially similar to the corresponding model forms in appendices H, I, K, M, and N to this part, and the model forms in appendix H to 12 CFR part 222, as that appendix existed as of October 1, 2011, are deemed substantially similar to the corresponding model forms in appendix H to this part.

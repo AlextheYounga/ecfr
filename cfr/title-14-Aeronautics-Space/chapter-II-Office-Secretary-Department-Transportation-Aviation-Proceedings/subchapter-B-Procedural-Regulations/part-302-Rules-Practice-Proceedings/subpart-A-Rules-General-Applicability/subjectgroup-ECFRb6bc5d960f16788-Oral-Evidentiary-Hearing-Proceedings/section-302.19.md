@@ -1,0 +1,3 @@
+##### § 302.19 Participation by persons not parties. #####
+
+Any person, including any State, subdivision thereof, State aviation commission, or other public body, may appear at any hearing, other than in an enforcement proceeding, and present any evidence that is relevant to the issues. With the consent of the administrative law judge or the DOT decisionmaker, such person may also cross-examine witnesses directly. Such persons may also present to the administrative law judge a written statement on the issues involved in the proceeding. Such written statements shall be filed and served on all parties prior to the close of the hearing.

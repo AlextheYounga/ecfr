@@ -1,0 +1,9 @@
+##### § 1177.5 Administrative procedure. #####
+
+(a) At the time of filing of a document with the Board for recordation, a consecutive number will be stamped upon the original document and upon the copies or the counterparts, with the date and hour of the filing. A notation acknowledging that the document has been filed pursuant to 49 U.S.C. 11303 will be made. The original document, along with the notation, will be returned to the party named in the transmittal letter and a copy or counterpart will be retained by the Board. For a secondary document, the number assigned will be the recordation number of the primary document plus the next available letter suffix.
+
+(b) The Board will maintain an index for public use as required by 49 U.S.C 11303(b). There will be an index of parties to documents recorded at the Board in alphabetical order by the party's name. If requested by the letter of transmittal, this index will also be amended to reflect an assignment under the name of the party other than the assignor or assignee to the document. There will also be an index of documents by number, which will list secondary documents referenced to the primary ones. The indexes will contain the pertinent information furnished by the parties in the transmittal letter.
+
+(c) The Board cannot judge the validity of documents, nor judge the status of encumbrances to property as reflected by documents recorded at the Board. The public is welcome to research the records or use an agent or attorney to do so, provided that Board rules concerning handling of the documents are respected.
+
+(d) The public should note that filing documents with the Board is discretionary and encumbrances exist which are not on file with the Board.

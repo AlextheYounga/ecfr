@@ -1,0 +1,3 @@
+##### § 2.1506 Written statements and submission of information. #####
+
+All participants shall file written statements on the Commission-identified issues, and may submit documentary and demonstrative information. Written statements, copies of documentary information, and a list and short description of any demonstrative information to be submitted must be received by the NRC (and in a hearing on issues stemming from a § 2.335(b) petition, by the parties in the proceeding in which the petition was filed) no later than ten (10) days before the commencement of the oral hearing.

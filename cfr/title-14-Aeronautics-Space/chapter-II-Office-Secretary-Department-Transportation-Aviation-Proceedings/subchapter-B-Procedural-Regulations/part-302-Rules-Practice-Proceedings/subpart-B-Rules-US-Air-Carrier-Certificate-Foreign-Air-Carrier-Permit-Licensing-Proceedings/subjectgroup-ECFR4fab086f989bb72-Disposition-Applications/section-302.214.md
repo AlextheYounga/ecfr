@@ -1,0 +1,3 @@
+##### § 302.214 Oral evidentiary hearing. #####
+
+If the DOT decisionmaker determines under § 302.210(a)(4) that an oral evidentiary hearing should be held, the application or applications will be set for oral hearing before an administrative law judge. The issues will be those set forth in the order establishing further procedures. The procedures in §§ 302.17 to 302.38 governing the conduct of oral evidentiary hearings will apply.

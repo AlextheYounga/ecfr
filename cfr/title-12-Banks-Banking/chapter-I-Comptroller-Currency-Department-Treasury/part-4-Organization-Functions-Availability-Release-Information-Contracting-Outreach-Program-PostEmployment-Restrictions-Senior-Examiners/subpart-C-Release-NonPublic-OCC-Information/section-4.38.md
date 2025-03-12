@@ -1,0 +1,7 @@
+##### § 4.38 Restrictions on dissemination of released information. #####
+
+(a) *Records.* The OCC may condition a decision to release non-public OCC information on entry of a protective order by the court or administrative tribunal presiding in the particular case or, in non-adversarial matters, on a written agreement of confidentiality. In a case in which a protective order has already been entered, the OCC may condition approval for release of non-public OCC information upon the inclusion of additional or amended provisions in the protective order. The OCC may authorize a party who obtained records for use in one case to provide them to another party in another case.
+
+(b) *Testimony.* The OCC may condition its authorization of deposition testimony on an agreement of the parties to appropriate limitations, such as an agreement to keep the transcript of the testimony under seal or to make the transcript available only to the parties, the court, and the jury. Upon request or on its own initiative, the OCC may allow use of a transcript in other litigation. The OCC may require the requester, at the requester's expense, to furnish the OCC with a copy of the transcript. The OCC employee whose deposition was transcribed does not waive his or her right to review the transcript and to note errors.
+
+[60 FR 57322, Nov. 15, 1995. Redesignated at 63 FR 62929, Nov. 10, 1998]

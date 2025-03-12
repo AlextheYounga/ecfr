@@ -1,0 +1,3 @@
+##### § 607.1 Purpose and scope. #####
+
+The regulations in part 607 implement the provisions of section 5.15 of the Farm Credit Act of 1971, 12 U.S.C. 2001 *et seq.* (Act) relating to Farm Credit Administration (FCA) assessments. The regulations prescribe the procedures for the equitable apportionment of FCA annual administrative expenses and necessary reserves among Farm Credit System (System) institutions. Pursuant to section 5.15(a) of the Act, the regulations also provide for the separate assessment of the FCA's costs of supervising and examining the Federal Agricultural Mortgage Corporation (FAMC). The regulations further provide for the reimbursement of expenses incurred in performing statutorily required examinations of non-System entities.

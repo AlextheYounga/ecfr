@@ -1,0 +1,7 @@
+##### § 31.5 Application for treatment; active duty personnel. #####
+
+(a) An applicant for medical relief who is on active duty shall furnish a certificate identifying him. Such certificate, in the case of Coast Guard personnel, shall be signed by an officer of the Coast Guard, and in the case of National Ocean Survey personnel, shall be signed by an officer of the National Ocean Survey. Commissioned officers of any of the services mentioned in § 31.2 and officers in charge of units may sign their own certificates. In an emergency, the officer in charge of a medical relief station, or a designated physician or designated dentist, may accept other evidence of status satisfactory to him.
+
+(b) A temporary member of the Coast Guard Reserve except when on active duty or a member of the Coast Guard Auxiliary shall, when applying for medical relief, furnish a statement signed by a responsible superior officer setting forth the facts and circumstances giving rise to the need for medical relief. In emergencies, such statement shall be furnished promptly after the member has received the immediately required care and treatment. Such statement shall be presumptive evidence of the facts stated, but if investigation indicates that the injury, sickness, or disease was not incurred or contracted in the manner stated, further treatment may be denied.
+
+(Sec. 326, 58 Stat. 697, as amended; 42 U.S.C. 253)

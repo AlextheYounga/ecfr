@@ -1,0 +1,3 @@
+##### § 3.24 Evidence of financial responsibility. #####
+
+All applicants must provide evidence of sound financial status. To the extent that the applicant is a business, formal financial statements will be required. Other applicants may submit documentation proving all assets, liabilities, income and expenses which supports their ability to meet their personal obligations. Applicants must provide any additional information deemed necessary by the Commission.

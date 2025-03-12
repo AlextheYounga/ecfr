@@ -1,0 +1,3 @@
+##### § 904.6 Charge for capacity and firm energy. #####
+
+The charge for Capacity and Firm Energy from the Project shall be composed of two separate charges; a charge to provide for the basic revenue requirements, as identified in paragraphs (b), (c), and (d) of § 904.5 of these General Regulations (Base Charge), and a charge to provide the surplus revenue for the Lower Colorado River Basin Development Fund contribution, as identified in paragraph (e) of § 904.5 of these General Regulations (Lower Basin Development Fund Contribution Charge).

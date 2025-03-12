@@ -1,0 +1,3 @@
+##### § 3.49 Agreement to be audited. #####
+
+Accounting authorities accept their certifications on condition that they are subject to audit of their settlement activities by the Commission or its representative. Additionally, the Commission reserves the right to verify any statement(s) made or any materials submitted to the Commission under these rules. Verification may involve discussions with ship owners or others as well as the requirement to submit additional information to the Commission. Failure to respond satisfactorily to any audit findings is grounds for forfeiture or suspension or cancellation of authority to act as an accounting authority for U.S. vessels.

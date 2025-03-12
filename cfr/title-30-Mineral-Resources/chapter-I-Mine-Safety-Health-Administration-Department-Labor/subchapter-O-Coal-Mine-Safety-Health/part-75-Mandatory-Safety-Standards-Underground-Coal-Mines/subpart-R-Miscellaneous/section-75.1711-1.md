@@ -1,0 +1,3 @@
+##### § 75.1711-1 Sealing of shaft openings. #####
+
+Shaft openings required to be sealed under § 75.1711 shall be effectively capped or filled. Filling shall be for the entire depth of the shaft and, for the first 50 feet from the bottom of the coalbed, the fill shall consist of incombustible material. Caps consisting of a 6-inch thick concrete cap or other equivalent means may be used for sealing. Caps shall be equipped with a vent pipe at least 2 inches in diameter extending for a distance of at least 15 feet above the surface of the shaft.

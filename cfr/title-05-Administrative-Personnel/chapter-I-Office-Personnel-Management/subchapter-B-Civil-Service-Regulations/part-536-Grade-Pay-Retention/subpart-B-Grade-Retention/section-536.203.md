@@ -1,0 +1,9 @@
+##### § 536.203 Additional eligibility requirements for grade retention. #####
+
+(a) An employee is eligible for grade retention under § 536.201(a)(1) only if the employee has served for at least 52 consecutive weeks in one or more positions under a covered pay system at one or more grades higher than the grade of the position in which the employee is being placed. Such service is deemed to include service performed by an employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard (as defined in 5 U.S.C. 2105(c)) who is moved to a position in the civil service employment system of the Department of Defense or the Coast Guard, respectively, without a break in service of more than 3 days.
+
+(b) An employee is eligible for grade retention under § 536.201(a)(2) based on a reclassification of his or her position only if, immediately before the reduction in grade, that position was classified at the existing grade or a higher grade for a continuous period of at least 1 year.
+
+(c) An employee is eligible for grade retention under § 536.202 only if, immediately before being placed in the lower grade, the employee has served for at least 52 consecutive weeks in one or more positions under a covered pay system at one or more grades higher than that lower grade. Such service is deemed to include service performed by an employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard (as defined in 5 U.S.C. 2105(c)) who is moved to a position in the civil service employment system of the Department of Defense or the Coast Guard, respectively, without a break in service of more than 3 days.
+
+(d) Eligibility for grade retention under § 536.201 or § 536.202 ceases under the conditions specified in § 536.207.

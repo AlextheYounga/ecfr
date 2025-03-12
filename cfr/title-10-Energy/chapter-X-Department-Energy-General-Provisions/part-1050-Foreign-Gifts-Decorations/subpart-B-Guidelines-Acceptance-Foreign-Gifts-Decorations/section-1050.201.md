@@ -1,0 +1,5 @@
+##### § 1050.201 Policy against accepting foreign gifts or decorations. #####
+
+(a) The Constitution of the United States, Article I, section 9, clause 8, provides that “\* \* \* no Person holding any Office of Profit or Trust under \* \* \* [the United States], shall, without the consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any \* \* \* foreign State.” In the Foreign Gifts and Decorations Act the Congress consented to the acceptance by Federal employees of gifts and decorations with certain constraints and under certain procedures. Acceptance of any gift or decoration not consistent with this Act, the Department of Energy Organization Act, or the regulations in this part is prohibited.
+
+(b) No employee shall request or otherwise encourage the tender of a gift or decoration from a foreign government. No employee shall accept a gift or decoration from a foreign government except as provided in §§ 1050.202 or 1050.203 of this part and in accordance with the additional procedures set forth in §§ 1050.204 and 1050.301 of this part.

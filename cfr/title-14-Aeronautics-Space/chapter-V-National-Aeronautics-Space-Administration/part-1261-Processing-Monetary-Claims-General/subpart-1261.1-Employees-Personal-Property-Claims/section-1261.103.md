@@ -1,0 +1,5 @@
+##### § 1261.103 Time limitations. #####
+
+(a) A claim may be allowed only if the claim is presented in writing within 2 years after it accrues. For the purposes of this subpart, a claim accrues at the time of the accident or incident causing the loss or damage, or at such time as the loss or damage is or should have been discovered by the claimant through the exercise of due diligence.
+
+(b) If a claim accrues in time of war or if an armed conflict intervenes within 2 years after it accrues, and if good cause is shown, the claim may be presented not later than 2 years after that cause ceases to exist, or 2 years after the war or armed conflict is terminated, whichever is earlier. The dates of beginning and ending of such an armed conflict are the dates established by concurrent resolution of the Congress or by a determination of the President.

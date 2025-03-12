@@ -1,0 +1,3 @@
+##### 311.7000 Defining electronic and information technology requirements. #####
+
+The contracting officer shall ensure that requiring activities specify agency needs for electronic and information technology (EIT) supplies and services, and document market research, document EIT requirements, and identify the applicable Section 508 accessibility standards. See FAR 11.002(f) and HHSAR subpart 339.2.

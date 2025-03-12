@@ -1,0 +1,15 @@
+##### § 63.7520 What stack tests and procedures must I use? #####
+
+(a) You must conduct all performance tests according to § 63.7(c), (d), (f), and (h). You must also develop a site-specific stack test plan according to the requirements in § 63.7(c). You shall conduct all performance tests under such conditions as the Administrator specifies to you based on the representative performance of each boiler or process heater for the period being tested. Upon request, you shall make available to the Administrator such records as may be necessary to determine the conditions of the performance tests.
+
+(b) You must conduct each performance test according to the requirements in Table 5 to this subpart.
+
+(c) You must conduct each performance test under the specific conditions listed in Tables 5 and 7 to this subpart. You must conduct performance tests at representative operating load conditions while burning the type of fuel or mixture of fuels that has the highest content of chlorine and mercury, and TSM if you are opting to comply with the TSM alternative standard and you must demonstrate initial compliance and establish your operating limits based on these performance tests. These requirements could result in the need to conduct more than one performance test. Following each performance test and until the next performance test, you must comply with the operating limit for operating load conditions specified in Table 4 to this subpart.
+
+(d) You must conduct a minimum of three separate test runs for each performance test required in this section, as specified in § 63.7(e)(3). Each test run must comply with the minimum applicable sampling times or volumes specified in Tables 1 and 2 or 11 through 15 to this subpart.
+
+(e) To determine compliance with the emission limits, you must use the F-Factor methodology and equations in sections 12.2 and 12.3 of EPA Method 19 at 40 CFR part 60, appendix A-7 of this chapter to convert the measured particulate matter (PM) concentrations, the measured HCl concentrations, the measured mercury concentrations, and the measured TSM concentrations that result from the performance test to pounds per million Btu heat input emission rates.
+
+(f) Except for a 30-day rolling average based on CEMS (or sorbent trap monitoring system) data, if measurement results for any pollutant are reported as below the method detection level (e.g., laboratory analytical results for one or more sample components are below the method defined analytical detection level), you must use the method detection level as the measured emissions level for that pollutant in calculating compliance. The measured result for a multiple component analysis (e.g., analytical values for multiple Method 29 fractions both for individual HAP metals and for total HAP metals) may include a combination of method detection level data and analytical data reported above the method detection level.
+
+[76 FR 15664, Mar. 21, 2011, as amended at 78 FR 7166, Jan. 31, 2013; 87 FR 60842, Oct. 6, 2022]

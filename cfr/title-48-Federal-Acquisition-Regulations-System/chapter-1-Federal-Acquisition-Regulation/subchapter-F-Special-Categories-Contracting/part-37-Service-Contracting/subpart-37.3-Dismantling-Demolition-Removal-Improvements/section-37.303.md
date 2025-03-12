@@ -1,0 +1,5 @@
+##### 37.303 Payments. #####
+
+(a) The contract may provide that the (1) Government pay the contractor for the dismantling or demolition of structures or (2) contractor pay the Government for the right to salvage and remove the materials resulting from the dismantling or demolition operation.
+
+(b) The contracting officer shall consider the usefulness to the Government of all salvageable property. Any of the property that is more useful to the Government than its value as salvage to the contractor should be expressly designated in the contract for retention by the Government. The contracting officer shall determine the fair market value of any property not so designated, since the contractor will get title to this property, and its value will therefore be important in determining what payment, if any, shall be made to the contractor and whether additional compensation will be made if the contract is terminated.

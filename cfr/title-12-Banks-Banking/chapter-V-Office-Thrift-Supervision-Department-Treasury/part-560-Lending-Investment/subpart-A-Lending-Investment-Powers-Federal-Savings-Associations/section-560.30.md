@@ -1,0 +1,85 @@
+##### § 560.30 General lending and investment powers of Federal savings associations. #####
+
+Pursuant to section 5(c) of the Home Owners' Loan Act (“HOLA”), 12 U.S.C. 1464(c), a Federal savings association may make, invest in, purchase, sell, participate in, or otherwise deal in (including brokerage or warehousing) all loans and investments allowed under section 5(c) of the HOLA including, without limitation, the following loans, extensions of credit, and investments, subject to the limitations indicated and any such terms, conditions, or limitations as may be prescribed from time to time by OTS by policy directive, order, or regulation:
+
+Lending and Investment Powers Chart
+
+|                                      Category                                      |     Statutory authorization<sup>1</sup>      |                            Statutory investment limitations  <br/>(Endnotes contain  <br/>applicable regulatory limitations)                            |
+|------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                Bankers' bank stock                                 |                  5(c)(4)(E)                  |                                                       Same terms as applicable to national banks.                                                       |
+|                      Business development credit corporations                      |                  5(c)(4)(A)                  |                                                The lesser of .5% of total outstanding loans or $250,000.                                                |
+|                                  Commercial loans                                  |                  5(c)(2)(A)                  |                 20% of total assets, provided that amounts in excess of 10% of total assets may be used only for small business loans.                  |
+|                   Commercial paper and corporate debt securities                   |                  5(c)(2)(D)                  |                                                             Up to 35% of total assets. 2,3                                                              |
+|                 Community development loans and equity investments                 |                  5(c)(3)(A)                  |                              5% of total assets, provided equity investments do not exceed 2% of total assets.<sup>4</sup>                              |
+|                        Construction loans without security                         |                  5(c)(3)(C)                  |                                          In the aggregate, the greater of total capital or 5% of total assets.                                          |
+|                                   Consumer loans                                   |                  5(c)(2)(D)                  |                                                             Up to 35% of total assets. 2,5                                                              |
+|            Credit card loans or loans made through credit card accounts            |                  5(c)(1)(T)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                    Deposits in insured depository institutions                     |                  5(c)(1)(G)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                                  Education loans                                   |                  5(c)(1)(U)                  |                                                                    None.<sup>6</sup>                                                                    |
+| Federal government and government-sponsored enterprise securities and instruments  |5(c)(1)(C), 5(c)(1)(D), 5(c)(1)(E), 5(c)(1)(F)|                                                                    None.<sup>6</sup>                                                                    |
+|                                  Finance leasing                                   |5(c)(1)(B), 5(c)(2)(A), 5(c)(2)(B), 5(c)(2)(D)|                                                   Based on purpose and property financed.<sup>7</sup>                                                   |
+|                           Foreign assistance investments                           |                  5(c)(4)(C)                  |                                                             1% of total assets.<sup>8</sup>                                                             |
+|                                  General leasing                                   |                  5(c)(2)(C)                  |                                                               10% of assets.<sup>7</sup>                                                                |
+|                               Home improvement loans                               |                  5(c)(1)(J)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                        Home (residential) loans<sup>9</sup>                        |                  5(c)(1)(B)                  |                                                                       None. 6,10                                                                        |
+|                       HUD-insured or guaranteed investments                        |                  5(c)(1)(O)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                                   Insured loans                                    |            5(c)(1)(I), 5(c)(1)(K)            |                                                                    None.<sup>6</sup>                                                                    |
+|                               Liquidity investments                                |                  5(c)(1)(M)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                         Loans secured by deposit accounts                          |                  5(c)(1)(A)                  |                                                                       None. 6,11                                                                        |
+|               Loans to financial institutions, brokers, and dealers                |                  5(c)(1)(L)                  |                                                                       None. 6,12                                                                        |
+|                              Manufactured home loans                               |                  5(c)(1)(J)                  |                                                                       None. 6,13                                                                        |
+|                             Mortgage-backed securities                             |                  5(c)(1)(R)                  |                                                                    None.<sup>6</sup>                                                                    |
+|National Housing Partnership Corporation and related partnerships and joint ventures|                  5(c)(1)(N)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                       New markets venture capital companies                        |                  5(c)(4)(F)                  |                                                                  5% of total capital.                                                                   |
+|                                Nonconforming loans                                 |                  5(c)(3)(B)                  |                                                                   5% of total assets.                                                                   |
+|                         Nonresidential real property loans                         |                  5(c)(2)(B)                  |                                                           400% of total capital.<sup>14</sup>                                                           |
+|               Open-end management investment companies<sup>15</sup>                |                  5(c)(1)(Q)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                        Rural business investment companies                         |              7 U.S.C. 2009cc-9               |                                                             Five percent of total capital.                                                              |
+|                                Service corporations                                |                  5(c)(4)(B)                  |3% of total assets, as long as any amounts in excess of 2% of total assets further community, inner city, or community development purposes.<sup>16</sup>|
+|                        Small business investment companies                         |             15 U.S.C. 682(b)(2)              |                                                                  5% of total capital.                                                                   |
+|                         Small-business-related securities                          |                  5(c)(1)(S)                  |                                                                    None.<sup>6</sup>                                                                    |
+|                       State and local government obligations                       |                  5(c)(1)(H)                  |                       None for general obligations. Per issuer limitation of 10% of capital for other obligations.<sup>6 17</sup>                       |
+|                             State housing corporations                             |                  5(c)(1)(P)                  |                                                                  None.<sup>6 18</sup>                                                                   |
+|                  Transaction account loans, including overdrafts                   |                  5(c)(1)(A)                  |                                                                  None.<sup>6 19</sup>                                                                   |
+
+Endnotes
+
+1. All references are to section 5 of the Home Owners' Loan Act (12 U.S.C. 1464) unless otherwise indicated.
+
+2. For purposes of determining a Federal savings association's percentage of assets limitation, investment in commercial paper and corporate debt securities must be aggregated with the Federal savings association's investment in consumer loans.
+
+3. A Federal savings association may invest in commercial paper and corporate debt securities, which includes corporate debt securities convertible into stock, subject to the provisions of § 560.40 of this part. Amounts in excess of 30% of assets, in the aggregate, may be invested only in obligations purchased by the association directly from the original obligor and for which no finder's or referral fees have been paid.
+
+4. The 2% of assets limitation is a sublimit for investments within the overall 5% of assets limitation on community development loans and investments. The qualitative standards for such loans and investments are set forth in HOLA section 5(c)(3)(A) (formerly 5(c)(3)(B), as explained in an opinion of the OTS Chief Counsel dated May 10, 1995 (available at *www.ots.treas.gov*)).
+
+5. Amounts in excess of 30% of assets, in the aggregate, may be invested only in loans made by the association directly to the original obligor and for which no finder's or referral fees have been paid. A Federal savings association may include loans to dealers in consumer goods to finance inventory and floor planning in the total investment made under this section.
+
+6. While there is no statutory limit on certain categories of loans and investments, including credit card loans, home improvement loans, education loans, and deposit account loans, OTS may establish an individual limit on such loans or investments if the association's concentration in such loans or investments presents a safety and soundness concern.
+
+7. A Federal savings association may engage in leasing activities subject to the provisions of § 560.41 of this part.
+
+8. This 1% of assets limitation applies to the aggregate outstanding investments made under the Foreign Assistance Act and in the capital of the Inter-American Savings and Loan Bank. Such investments may be made subject to the provisions of § 560.43 of this part.
+
+9. A home (or residential) loan includes loans secured by one-to-four family dwellings, multi-family residential property, and loans secured by a unit or units of a condominium or housing cooperative.
+
+10. A Federal savings association may make home loans subject to the provisions of §§ 560.33, 560.34, and 560.35 of this part.
+
+11. Loans secured by savings accounts and other time deposits may be made without limitation, provided the Federal savings association obtains a lien on, or a pledge of, such accounts. Such loans may not exceed the withdrawable amount of the account.
+
+12. A Federal savings association may only invest in these loans if they are secured by obligations of, or by obligations fully guaranteed as to principal and interest by, the United States or any of its agencies or instrumentalities, the borrower is a financial institution insured by the Federal Deposit Insurance Corporation or is a broker or dealer registered with the Securities and Exchange Commission, and the market value of the securities for each loan at least equals the amount of the loan at the time it is made.
+
+13. If the wheels and axles of the manufactured home have been removed and it is permanently affixed to a foundation, a loan secured by a combination of a manufactured home and developed residential lot on which it sits may be treated as a home loan.
+
+14. Without regard to any limitations of this part, a Federal savings association may make or invest in the fully insured or guaranteed portion of nonresidential real estate loans insured or guaranteed by the Economic Development Administration, the Farmers Home Administration, or the Small Business Administration. Unguaranteed portions of guaranteed loans must be aggregated with uninsured loans when determining an association's compliance with the 400% of capital limitation for other real estate loans.
+
+15. This authority is limited to investments in open-end management investment companies that are registered with the Securities and Exchange Commission under the Investment Company Act of 1940. The portfolio of the investment company must be restricted by the company's investment policy (changeable only if authorized by shareholder vote) solely to investments that a Federal savings association may, without limitation as to percentage of assets, invest in, sell, redeem, hold, or otherwise deal in. Separate and apart from this authority, a Federal savings association may make pass-through investments to the extent authorized by § 560.32 of this part.
+
+16. A Federal savings association may invest in service corporations subject to the provisions of part 559 of this chapter.
+
+17. This category includes obligations issued by any state, territory, or possession of the United States or political subdivision thereof (including any agency, corporation, or instrumentality of a state or political subdivision), subject to § 560.42 of this part.
+
+18. A Federal savings association may invest in state housing corporations subject to the provisions of § 560.121 of this part.
+
+19. Payments on accounts in excess of the account balance (overdrafts) on commercial deposit or transaction accounts shall be considered commercial loans for purposes of determining the association's percentage of assets limitation.
+
+[66 FR 65825, Dec. 21, 2001, as amended at 68 FR 75109, Dec. 30, 2003; 70 FR 76675, Dec. 28, 2005]

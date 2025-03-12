@@ -1,0 +1,13 @@
+##### 16.603-2 Application. #####
+
+(a) A letter contract may be used when (1) the Government's interests demand that the contractor be given a binding commitment so that work can start immediately and (2) negotiating a definitive contract is not possible in sufficient time to meet the requirement. However, a letter contract should be as complete and definite as feasible under the circumstances.
+
+(b) When a letter contract award is based on price competition, the contracting officer shall include an overall price ceiling in the letter contract.
+
+(c) Each letter contract shall, as required by the clause at 52.216-25, Contract Definitization, contain a negotiated definitization schedule including (1) dates for submission of the contractor's price proposal, required certified cost or pricing data and data other than certified cost or pricing data; and, if required, make-or-buy and subcontracting plans, (2) a date for the start of negotiations, and (3) a target date for definitization, which shall be the earliest practicable date for definitization. The schedule will provide for definitization of the contract within 180 days after the date of the letter contract or before completion of 40 percent of the work to be performed, whichever occurs first. However, the contracting officer may, in extreme cases and according to agency procedures, authorize an additional period. If, after exhausting all reasonable efforts, the contracting officer and the contractor cannot negotiate a definitive contract because of failure to reach agreement as to price or fee, the clause at 52.216-25 requires the contractor to proceed with the work and provides that the contracting officer may, with the approval of the head of the contracting activity, determine a reasonable price or fee in accordance with subpart 15.4 and part 31, subject to appeal as provided in the Disputes clause.
+
+(d) The maximum liability of the Government inserted in the clause at 52.216-24, Limitation of Government Liability, shall be the estimated amount necessary to cover the contractor's requirements for funds before definitization. However, it shall not exceed 50 percent of the estimated cost of the definitive contract unless approved in advance by the official that authorized the letter contract.
+
+(e) The contracting officer shall assign a priority rating to the letter contract if it is appropriate under 11.604.
+
+[48 FR 42219, Sept. 19, 1983, as amended at 60 FR 48248, Sept. 18, 1995; 62 FR 51270, Sept. 30, 1997; 75 FR 53148, Aug. 30, 2010]

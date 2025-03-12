@@ -1,0 +1,3 @@
+##### § 221.4 Adequacy of information in application. #####
+
+No permit issued under this subchapter H will be valid for the transportation or dumping of any material which is not accurately and adequately described in the application. No permittee shall be relieved of any liability which may arise as a result of the transportation or dumping of material which does not conform to information provided in the application solely by virtue of the fact that such information was furnished by an applicant other than the permittee.

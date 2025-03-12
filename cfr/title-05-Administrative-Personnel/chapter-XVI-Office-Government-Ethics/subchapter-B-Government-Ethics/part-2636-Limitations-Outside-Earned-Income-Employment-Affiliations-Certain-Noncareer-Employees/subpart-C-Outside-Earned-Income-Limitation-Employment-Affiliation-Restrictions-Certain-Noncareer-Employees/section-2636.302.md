@@ -1,0 +1,5 @@
+##### § 2636.302 Relationship to other laws and regulations. #####
+
+The limitations and restrictions contained in this section are in addition to any limitations and restrictions imposed upon an employee by applicable standards of conduct or by reason of any statute or regulation relating to conflicts of interest. Even though conduct or the receipt of compensation is not prohibited by this subpart, an employee should accept compensation or engage in the activity for which compensation is offered only after determining that it is otherwise permissible. In particular, a covered noncareer employee should accept compensation only after determining that its receipt does not violate section 102 of Executive Order 12674, as amended, which prohibits a covered noncareer employee who is also a Presidential appointee to a full-time noncareer position from receiving *any* outside earned income for outside employment or for any other activity performed during that Presidential appointment.
+
+[56 FR 1723, Jan. 17, 1991, as amended at 63 FR 43069, Aug. 12, 1998]

@@ -1,0 +1,3 @@
+##### § 65.65 Aircraft dispatcher certification courses: Training facilities. #####
+
+An applicant for approval of authority to operate an aircraft dispatcher course of study must have facilities, equipment, and materials adequate to provide each student the theoretical and practical aspects of aircraft dispatching. Each room, training booth, or other space used for instructional purposes must be temperature controlled, lighted, and ventilated to conform to local building, sanitation, and health codes. In addition, the training facility must be so located that the students in that facility are not distracted by the instruction conducted in other rooms.

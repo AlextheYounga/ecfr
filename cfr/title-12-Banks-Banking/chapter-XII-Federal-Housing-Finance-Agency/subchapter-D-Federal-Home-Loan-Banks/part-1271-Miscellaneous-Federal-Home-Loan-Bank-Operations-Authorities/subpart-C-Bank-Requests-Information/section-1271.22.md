@@ -1,0 +1,3 @@
+##### § 1271.22 Computer data. #####
+
+Nothing in this subpart shall preclude a Bank from arranging with any financial regulatory agency to transmit or allow access to confidential regulatory information with the consent of such agency by means of an electronic computer system. Any such arrangement shall ensure the security of the computerized data stored in a Bank's computer and restrict access to such data in order to preserve confidentiality in a manner agreed upon by the Bank and the financial regulatory agency.

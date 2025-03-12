@@ -1,0 +1,3 @@
+##### § 137.300 Since Federal environmental responsibilities are new responsibilities, which may be assumed by Tribes under section 509 of the Act [25 U.S.C. 458aaa-8], are there additional funds available to Self-Governance Tribes to carry out these formerly inherently Federal responsibilities? #####
+
+Yes, the Secretary must transfer not less than the amount of funds that the Secretary would have otherwise used to carry out the Federal environmental responsibilities assumed by the Self-Governance Tribe.

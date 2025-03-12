@@ -1,0 +1,3 @@
+##### § 405.1847 Disqualification of Board members. #####
+
+No Board member shall join in the conduct of a hearing in a case in which he is prejudiced or partial with respect to any party or in which he has any interest in the matter pending for decision before him. Notice of any objection which a party may have with respect to a Board member shall be presented in writing to such Board member by the objecting party at its earliest opportunity. The Board member shall consider the objection and shall, in his discretion, either proceed to join in the conduct of the hearing or withdraw. If he does not withdraw, the objecting party may petition the Board, presenting its objection and reasons therefor, and be entitled to a ruling thereon before the hearing can proceed.

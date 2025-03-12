@@ -1,0 +1,3 @@
+##### § 81.76 State of Hawaii Air Quality Control Region. #####
+
+The State of Hawaii Air Quality Control Region consists of the territorial area encompassed by the outermost boundaries of the State of Hawaii (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited).

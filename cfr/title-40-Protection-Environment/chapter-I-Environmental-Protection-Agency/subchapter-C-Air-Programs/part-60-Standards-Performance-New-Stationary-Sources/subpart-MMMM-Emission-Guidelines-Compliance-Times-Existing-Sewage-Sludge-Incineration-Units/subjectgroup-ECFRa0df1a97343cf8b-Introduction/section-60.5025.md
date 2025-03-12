@@ -1,0 +1,3 @@
+##### § 60.5025 What if my state plan is not approvable? #####
+
+If you do not submit an approvable state plan (or a negative declaration letter) by March 21, 2013, EPA will develop a Federal plan according to § 60.27 to implement the emission guidelines contained in this subpart. Owners and operators of SSI units not covered by an approved state plan must comply with the Federal plan. The Federal plan is an interim action and will be automatically withdrawn when your state plan is approved.

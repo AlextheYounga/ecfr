@@ -1,0 +1,5 @@
+##### § 415.1 Basis and scope. #####
+
+(a) *Basis.* This part is based on the provisions of the following sections of the Act: Section 1848 establishes a fee schedule for payment for physician services. Section 1861(q) specifies what is included in the term “physician services” covered under Medicare. Section 1862(a)(14) sets forth the exclusion of nonphysician services furnished to hospital patients under Part B of Medicare. Section 1886(d)(5)(B) provides for a payment adjustment under the prospective payment system for the operating costs of inpatient hospital services furnished to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1983, to account for the indirect costs of medical education. Section 1886(h) establishes the methodology for Medicare payment of the cost of direct GME activities.
+
+(b) *Scope.* This part sets forth rules for fiscal intermediary payments to providers for physician services, Part B carrier payments for physician services to beneficiaries in providers, physician services in teaching settings, and services of residents.

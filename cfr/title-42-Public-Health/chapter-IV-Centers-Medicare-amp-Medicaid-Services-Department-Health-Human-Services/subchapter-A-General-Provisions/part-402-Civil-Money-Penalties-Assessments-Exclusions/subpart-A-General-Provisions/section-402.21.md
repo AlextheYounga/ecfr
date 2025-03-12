@@ -1,0 +1,3 @@
+##### § 402.21 Judicial review. #####
+
+After exhausting all available administrative remedies, a respondent may seek judicial review of a penalty, assessment, or exclusion that has become final. The respondent may seek review only with respect to a penalty, assessment, or exclusion with respect to which the respondent filed an exception under § 1005.21(c) of this title unless the court excuses the failure or neglect to urge the exception in accordance with section 1128A(e) of the Act because of extraordinary circumstances.

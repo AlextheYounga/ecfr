@@ -1,0 +1,5 @@
+##### § 674.5 Policy. #####
+
+(a) In accordance with 49 U.S.C. 5329(e), a State that has a rail fixed guideway public transportation system within the State has primary responsibility for overseeing the safety of that rail fixed guideway public transportation system. A State safety oversight agency must have sufficient authority, resources, and qualified personnel to oversee the number, size, and complexity of rail fixed guideway public transportation systems that operate within a State.
+
+(b) FTA will make Federal financial assistance available to help an eligible State develop or carry out its State safety oversight program. Also, FTA will certify whether a State safety oversight program meets the requirements of 49 U.S.C. 5329(e) and is adequate to promote the purposes of the public transportation safety programs codified at 49 U.S.C. 5329.

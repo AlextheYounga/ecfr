@@ -1,0 +1,3 @@
+##### § 2.308 Treatment of requests for hearing or petitions for leave to intervene by the Secretary. #####
+
+Upon receipt of a request for hearing or a petition to intervene, the Secretary will forward the request or petition and/or proffered contentions and any answers and replies either to the Commission for a ruling on the request/petition and/or proffered contentions or to the Chief Administrative Judge of the Atomic Safety and Licensing Board Panel for the designation of a presiding officer under § 2.313(a) to rule on the matter.

@@ -1,0 +1,5 @@
+##### § 510.4 Subpoenas, generally. #####
+
+NHTSA may issue to any person, sole proprietorship, partnership, corporation, or other entity a subpoena requiring the production of documents or things (subpoena duces tecum) and testimony of witnesses (subpoena ad testificandum), or both, relating to any matter under investigation or the subject of any inquiry. Subpoenas are issued by the Chief Counsel. When a person, sole proprietorship, partnership, corporation, or other entity is served with a subpoena ad testificandum under this part, the subpoena will describe with reasonable particularity the matters on which the testimony is required. In response to a subpoena ad testificandum, the sole proprietorship, partnership, corporation, or other entity so named shall designate one or more officers, directors, or managing agents, or other persons who consent to testify on its behalf, and set forth, for each person designated, the matters on which he or she will testify. The persons so designated shall testify as to matters known or reasonably available to the entity.
+
+[53 FR 26261, July 12, 1988]

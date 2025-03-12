@@ -1,0 +1,3 @@
+##### § 390.366 What standards and procedures will govern the FDIC review of the substance of my notice? #####
+
+The FDIC will disapprove a notice if, pursuant to the standard set forth in 12 U.S.C. 1831i(e), the FDIC finds that the competence, experience, character, or integrity of the proposed FDIC or senior executive officer indicates that it would not be in the best interests of the depositors of the State savings association or of the public to permit the individual to be employed by, or associated with, the State savings association. If the FDIC disapproves a notice, it will issue a written notice that explains why the FDIC disapproved the notice. The FDIC will send the notice to the State savings association and the individual.

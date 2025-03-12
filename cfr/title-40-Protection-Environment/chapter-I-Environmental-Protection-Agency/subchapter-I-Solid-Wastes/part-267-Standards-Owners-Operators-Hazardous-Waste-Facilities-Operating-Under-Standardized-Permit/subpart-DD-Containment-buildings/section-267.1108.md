@@ -1,0 +1,3 @@
+##### § 267.1108 What must I do when I stop operating the containment building? #####
+
+When you close a containment building, you must remove or decontaminate all waste residues, contaminated containment system components (liners, etc.), contaminated subsoils, and structures and equipment contaminated with waste and leachate, and manage them as hazardous waste unless 40 CFR 261.3(d) applies. The closure plan, closure activities, cost estimates for closure, and financial responsibility for containment buildings must meet all of the requirements specified in subparts G and H of this part.

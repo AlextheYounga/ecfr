@@ -1,0 +1,3 @@
+##### § 302.418 Motions for immediate suspension of operating authority pendente lite. #####
+
+All motions for the suspension of the economic operating authority of an air carrier during the pendency of proceedings to revoke such authority shall be filed with, and decided by, the DOT decisionmaker. Proceedings on the motion shall be in accordance with § 302.11. In addition, the DOT decisionmaker shall afford the parties an opportunity for oral argument on such motion.

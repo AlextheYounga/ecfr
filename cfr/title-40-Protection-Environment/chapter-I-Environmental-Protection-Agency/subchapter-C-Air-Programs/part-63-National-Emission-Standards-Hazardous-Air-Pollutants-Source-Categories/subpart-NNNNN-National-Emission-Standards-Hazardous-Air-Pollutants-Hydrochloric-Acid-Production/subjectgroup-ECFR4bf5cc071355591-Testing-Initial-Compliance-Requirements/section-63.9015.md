@@ -1,0 +1,7 @@
+##### § 63.9015 When must I conduct subsequent performance tests? #####
+
+(a) You must conduct all applicable performance tests according to the procedures in § 63.9020 on the earlier of your title V operating permit renewal or within 5 years of issuance of your title V permit. For emission points meeting the outlet concentration limits in table 1 to this subpart without the use of a control device, all applicable performance tests must also be conducted whenever process changes are made that could reasonably be expected to increase the outlet concentration. Examples of process changes include, but are not limited to, changes in production capacity, production rate, feedstock type, or catalyst type, or whenever there is replacement, removal, or addition of recovery equipment. For purposes of this paragraph, process changes do not include: process upsets and unintentional, temporary process changes.
+
+(b) You must report the results of subsequent performance tests within 60 days after the completion of the test. This report should also verify that the operating limits for your affected source have not changed or provide documentation of revised operating limits established as specified in Table 2 to this subpart. The reports for all subsequent performance tests should include all applicable information required in § 63.9050.
+
+[68 FR 19090, Apr. 17, 2003, as amended at 71 FR 17745, Apr. 7, 2006]

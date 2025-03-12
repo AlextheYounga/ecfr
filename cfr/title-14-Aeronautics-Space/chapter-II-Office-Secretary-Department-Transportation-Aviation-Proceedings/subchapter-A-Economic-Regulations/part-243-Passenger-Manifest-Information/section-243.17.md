@@ -1,0 +1,3 @@
+##### § 243.17 Enforcement. #####
+
+The U.S. Department of Transportation may at any time require a covered airline to produce a passenger manifest including emergency contacts and phone numbers for a specified covered flight segment to ascertain the effectiveness of the carrier's system. In addition, it may require from any covered airline further information about collection, storage and transmission procedures at any time. If the Department finds a covered airline's system to be deficient, it will require appropriate modifications, which must be implemented within the period specified by the Department. In addition, a covered airline not in compliance with this part may be subject to enforcement action by the Department.

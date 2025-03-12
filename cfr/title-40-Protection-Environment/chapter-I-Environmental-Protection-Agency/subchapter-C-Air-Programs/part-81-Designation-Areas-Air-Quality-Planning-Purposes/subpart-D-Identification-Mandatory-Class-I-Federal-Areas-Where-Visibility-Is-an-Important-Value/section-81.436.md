@@ -1,0 +1,13 @@
+##### § 81.436 Wyoming. #####
+
+|                                                                              Area name                                                                               | Acreage |Public Law establishing|Federal land manager|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|-----------------------|--------------------|
+|                                                                             Bridger Wild                                                                             | 392,160 |        88-577         |      USDA-FS       |
+|                                                                           Fitzpatrick Wild                                                                           | 191,103 |        94-567         |      USDA-FS       |
+|                                                                            Grand Teton NP                                                                            | 305,504 |        81-787         |      USDI-NPS      |
+|                                                                         North Absaroka Wild                                                                          | 351,104 |        88-577         |      USDA-FS       |
+|                                                                              Teton Wild                                                                              | 557,311 |        88-577         |      USDA-FS       |
+|                                                                            Washakie Wild                                                                             | 686,584 |        92-476         |      USDA-FS       |
+|                                                                     Yellowstone NP <sup>1</sup>                                                                      |2,020,625|    (<sup>2</sup>)     |      USDI-NPS      |
+|<sup>1</sup> Yellowstone National Park, 2,219,737 acres overall, of which 2,020,625 acres are in Wyoming, 167,624 acres are in Montana, and 31,488 acres are in Idaho.|         |                       |                    |
+|                                                                <sup>2</sup> 17 Stat. 32 (42nd Cong.).                                                                |         |                       |                    |

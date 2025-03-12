@@ -1,0 +1,3 @@
+##### § 236.405 Track signaled for movements in both directions, change of direction of traffic. #####
+
+On track signaled for movements in both directions, occupancy of the track between opposing signals at adjacent controlled points shall prevent changing the direction of traffic from that which obtained at the time the track became occupied, except that when a train having left one controlled point reaches a section of track immediately adjacent to the next controlled point at which switching is to be performed, an aspect permitting movement at not exceeding restricted speed may be displayed into the occupied block.

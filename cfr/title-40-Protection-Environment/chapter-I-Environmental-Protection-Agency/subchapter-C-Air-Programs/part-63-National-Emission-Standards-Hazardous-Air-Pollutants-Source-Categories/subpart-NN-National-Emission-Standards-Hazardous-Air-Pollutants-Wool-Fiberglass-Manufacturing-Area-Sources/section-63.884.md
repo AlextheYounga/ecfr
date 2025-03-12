@@ -1,0 +1,5 @@
+##### § 63.884 Performance test requirements. #####
+
+(a) If you are subject to the provisions of this subpart you must conduct a performance test to demonstrate compliance with the applicable emission limits in § 63.882. For existing sources, compliance is demonstrated when the emission rate of the pollutant is equal to or less than each of the applicable emission limits in § 63.882 by July 31, 2017. For new sources compliance is demonstrated when the emission rate of the pollutant is equal to or less than each of the applicable emission limits in § 63.882 by January 25, 2016 or 180 days after initial startup, whichever is later. You must conduct the performance test according to the procedures in subpart A of this part and in this section.
+
+(b) You must meet all applicable performance test requirements contained in subpart NNN of this part.

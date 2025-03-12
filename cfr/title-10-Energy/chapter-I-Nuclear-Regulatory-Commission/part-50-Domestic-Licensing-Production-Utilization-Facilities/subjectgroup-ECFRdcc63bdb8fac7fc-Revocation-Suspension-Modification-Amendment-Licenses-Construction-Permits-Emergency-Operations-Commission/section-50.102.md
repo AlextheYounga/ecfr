@@ -1,0 +1,5 @@
+##### § 50.102 Commission order for operation after revocation. #####
+
+Whenever the Commission finds that the public convenience and necessity, or the Department finds that the production program of the Department requires continued operation of a production or utilization facility, the license for which has been revoked, the Commission may, after consultation with the appropriate federal or state regulatory agency having jurisdiction, order that possession be taken of such facility and that it be operated for a period of time as, in the judgment of the Commission, the public convenience and necessity or the production program of the Department may require, or until a license for operation of the facility shall become effective. Just compensation shall be paid for the use of the facility.
+
+[40 FR 8790, Mar. 3, 1975]

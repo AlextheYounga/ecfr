@@ -1,0 +1,9 @@
+##### 932.970 Implementing DOE policies and procedures. #####
+
+(a) *Invoice payments*—(1) *Contract settlement date.* For purposes of determining any interest penalties under cost-type contracts, the effective date of contract settlement shall be the effective date of the final contract modification issued to acknowledge contract settlement and to close out the contract.
+
+(2) *Constructive acceptance periods.* Where the contracting officer determines, in writing, on a case-by-case basis, that it is not reasonable or feasible for DOE to perform the acceptance or approval function within the standard period, the contracting officer should specify a longer constructive acceptance or approval period, as appropriate. Considerations include, but are not limited to, the nature of supplies or services involved, geographical site location, inspection and testing requirements, shipping and acceptance terms, and available DOE resources.
+
+(b) *Contract financing payments.* Contracting officers may specify payment due dates that are less than the standard 30 days when a determination is made, in writing, on a case-by-case basis, that a shorter contract financing payment cycle will be required to finance contract work. In such cases, the contracting officer should coordinate with the finance and program officials that will be involved in the payment process to ensure that the contract payment terms to be specified in solicitations and resulting contract awards can be reasonably met. Consideration should be given to geographical separation, workload, contractor ability to submit a proper request, and other factors that could affect timing of payment. However, payment due dates that are less than 7 days for progress payments or less than 14 days for interim payments on cost-type contracts are not authorized.
+
+[61 FR 41708, Aug. 9, 1996]

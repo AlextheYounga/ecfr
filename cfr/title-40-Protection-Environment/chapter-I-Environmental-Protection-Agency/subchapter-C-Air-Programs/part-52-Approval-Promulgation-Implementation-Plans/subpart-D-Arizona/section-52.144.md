@@ -1,0 +1,9 @@
+##### § 52.144 Significant deterioration of air quality. #####
+
+(a) The requirements of sections 160 through 165 of the Clean Act are not met, since the plan as it applies to stationary sources under the jurisdiction of the Pima County Health Department, and stationary sources locating on any Indian reservation lands, and any other area of Indian country where the EPA or an Indian tribe has demonstrated that a tribe has jurisdiction, located within the State of Arizona, does not include approvable procedures for preventing the significant deterioration of air quality.
+
+(b) Regulation for preventing significant deterioration of air quality. The provisions of § 52.21 except paragraph (a)(1) of this section are hereby incorporated and made a part of the applicable State plan for the State of Arizona for those portions applicable to the Pima County Health Department, and to any Indian reservation lands, and any other area of Indian country where the EPA or an Indian tribe has demonstrated that a tribe has jurisdiction, located within the State of Arizona.
+
+(c) The requirements of sections 160 through 165 of the Clean Air Act are met as they apply to stationary sources under the jurisdiction of the Arizona Department of Environmental Quality (ADEQ) and the Maricopa County Air Quality Department (MCAQD), except with respect to emissions of greenhouse gases (GHGs) (as defined in § 52.21(b)(49)(i)). Therefore, the provisions of § 52.21, except paragraph (a)(1) of this section, for GHGs are hereby made a part of the plan for stationary sources under the jurisdiction of the ADEQ and the MCAQD as it applies to the stationary sources described in § 52.21(b)(49)(iv).
+
+[87 FR 8426, Feb. 15, 2022]

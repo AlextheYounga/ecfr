@@ -1,0 +1,5 @@
+##### § 1.1041 Representation in an international design application. #####
+
+(a) The applicant may appoint a representative before the International Bureau in accordance with Rule 3.
+
+(b) Applicants of international design applications may be represented before the Office as an office of indirect filing by a practitioner registered (§ 11.6) or granted limited recognition (§ 11.9(a) or (b)) to practice before the Office in patent matters. Such practitioner may act pursuant to § 1.34 or pursuant to appointment by the applicant. The appointment must be in writing signed by the applicant, must give the practitioner power to act on behalf of the applicant, and must specify the name and registration number or limited recognition number of each practitioner. An appointment of a representative made in the international design application pursuant to Rule 3(2) that complies with the requirements of this paragraph will be effective as an appointment before the Office as an office of indirect filing.

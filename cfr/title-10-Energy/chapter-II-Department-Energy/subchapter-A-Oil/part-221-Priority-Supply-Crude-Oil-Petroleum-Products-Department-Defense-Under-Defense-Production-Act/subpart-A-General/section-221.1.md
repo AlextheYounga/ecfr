@@ -1,0 +1,3 @@
+##### § 221.1 Scope. #####
+
+This part sets forth the procedures to be utilized by the Economic Regulatory Administration of the Department of Energy and the Department of Defense whenever the priority supply of crude oil and petroleum products is necessary or appropriate to meet national defense needs. The procedures available in this part are intended to supplement but not to supplant other regulations of the ERA regarding the allocation of crude oil, residual fuel oil and refined petroleum products.

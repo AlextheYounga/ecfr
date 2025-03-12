@@ -1,0 +1,3 @@
+##### § 149.107 Request for information. #####
+
+In reviewing a project under section 1424(e), the Regional Administrator may request any additional information from the funding Federal agency which is pertinent to reaching a decision. If full evaluation of the groundwater impact of a project has not been submitted in accordance with the agency's NEPA procedures, the Regional Administrator may specifically request that the Federal agency submit a groundwater impact evaluation of whether the proposed project may contaminate the aquifer through its recharge zone so as to create a significant hazard to public health.

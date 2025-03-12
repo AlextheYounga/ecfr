@@ -1,0 +1,3 @@
+##### § 109.1 Applicability. #####
+
+The criteria in this part are provided to assist State, local and regional agencies in the development of oil removal contingency plans for the inland navigable waters of the United States and all areas other than the high seas, coastal and contiguous zone waters, coastal and Great Lakes ports and harbors and such other areas as may be agreed upon between the Environmental Protection Agency and the Department of Transportation in accordance with section 11(j)(1)(B) of the Federal Act, Executive Order No. 11548 dated July 20, 1970 (35 FR 11677) and § 306.2 of the National Oil and Hazardous Materials Pollution Contingency Plan (35 FR 8511).

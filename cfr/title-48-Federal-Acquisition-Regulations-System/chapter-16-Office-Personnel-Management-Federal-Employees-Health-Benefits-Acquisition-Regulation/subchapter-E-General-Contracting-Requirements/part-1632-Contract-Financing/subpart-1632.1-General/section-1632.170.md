@@ -1,0 +1,15 @@
+##### 1632.170 Recurring premium payments to carriers. #####
+
+(a)(1) *Recurring payments to carriers of community-rated plans.* OPM will pay to carriers of community-rated plans the premium payments received for the plan less the amounts credited to the contingency and administrative reserves, amounts assessed under paragraph (a)(2) of this section, and amounts due for other contractual obligations. Premium payments will be due and payable not later than 30 days after receipt by the Federal Employees Health Benefits (FEHB) Fund.
+
+(2) The difference between one percent and the performance based percentage of the contract price described at 1615.404-4 will be multiplied by the carrier's subscription income for the year of performance and the resulting amount (performance adjustment) will be withheld from the net-to-carrier premium disbursement during the first quarter of the following contract period unless an alternative payment arrangement is made with the carrier's Contracting Officer. Amounts withheld from a community rated plan's premium disbursement will be deposited into the plan's Contingency Reserve.
+
+(3) Any subsidization penalty levied against a community rated plan as outlined in 48 CFR 1615.402(c)(3)(ii)(B) must be paid within 60 days from notification. If payment is not received within the 60 day period, OPM will withhold from the community rated carriers the periodic premium payment payable until fully recovered. OPM will deposit the withheld funds in the subsidization penalty reserve described in 5 CFR 890.503(c)(6).
+
+(b)(1) *Recurring payments to carriers of experience-rated plans.* OPM will make payments on a letter of credit (LOC) basis. Premium payments received for the plan, less the amounts credited to the contingency and administrative reserves and amounts for other obligations due under the contract, will be made available for carrier drawdown not later than 30 days after receipt by the FEHB Fund.
+
+(2) Withdrawals from the LOC account will be made on a checks-presented basis. Under a checks-presented basis, drawdown on the LOC is delayed until the checks issued for FEHB Program disbursements are presented to the carrier's bank for payment.
+
+(3) OPM may grant a waiver of the restriction of LOC disbursements to a checks-presented basis if the carrier requests the waiver in writing and demonstrates to OPM's satisfaction that the checks-presented basis of LOC disbursements will result in significantly increased liability under the contract, or that the checks-presented basis of LOC disbursements is otherwise clearly and significantly detrimental to the operation of the plan. Payments to carriers that have been granted a waiver may be made by an alternative payment methodology, subject to OPM approval.
+
+[57 FR 14360, Apr. 20, 1992, as amended at 63 FR 55338, Oct. 15, 1998; 64 FR 36272, July 6, 1999; 65 FR 36386, June 8, 2000; 70 FR 31382, June 1, 2005; 76 FR 38286, June 29, 2011; 80 FR 37180, June 30, 2015]

@@ -1,0 +1,3 @@
+##### § 137.251. What obligation does the retroceding Self-Governance Tribe have with respect to returning property that was provided by the Secretary under the compact or funding agreement and that was used in the operation of the retroceded program? #####
+
+On the effective date of any retrocession, the retroceding Self-Governance Tribe, shall, at the option of the Secretary, deliver to the Secretary all requested property and equipment provided by the Secretary under the compact or funding agreement, to the extent used to carry out the retroceded PSFAs, which at the time of retrocession has a per item current fair market value, less the cost of improvements borne by the Self-Governance Tribe in excess of $5,000 at the time of the retrocession.

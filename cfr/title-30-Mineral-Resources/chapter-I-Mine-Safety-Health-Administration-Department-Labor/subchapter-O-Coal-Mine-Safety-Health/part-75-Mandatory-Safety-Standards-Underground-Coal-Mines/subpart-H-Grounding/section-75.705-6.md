@@ -1,0 +1,3 @@
+##### § 75.705-6 Protective clothing; use and inspection. #####
+
+All persons performing work on energized high-voltage surface lines shall wear protective rubber gloves, sleeves, and climber guards if climbers are worn. Protective rubber gloves shall not be worn wrong side out or without protective leather gloves. Protective devices worn by a person assigned to perform repairs on high-voltage surface lines shall be worn continuously from the time he leaves the ground until he returns to the ground, and, if such devices are employed for extended periods, such person shall visually inspect the equipment assigned him for defects before each use and, in no case, less than twice each day.

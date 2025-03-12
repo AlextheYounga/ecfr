@@ -1,0 +1,7 @@
+##### § 415.31 General. #####
+
+(a) The FAA conducts a safety review to determine whether an applicant is capable of launching a launch vehicle and its payload without jeopardizing public health and safety and safety of property. The FAA issues a safety approval to a license applicant proposing to launch from a Federal launch range if the applicant satisfies the requirements of this subpart and has contracted with the Federal launch range for the provision of safety-related launch services and property, as long as an FAA launch site safety assessment shows that the range's launch services and launch property satisfy part 417 of this chapter. The FAA evaluates on an individual basis all other safety-related launch services and property associated with an applicant's proposal, in accordance with part 417 of this chapter. A safety approval is part of the licensing record on which the FAA's licensing determination is based.
+
+(b) The FAA advises an applicant, in writing, of any issue raised during a safety review that would impede issuance of a safety approval. The applicant may respond, in writing, or revise its license application.
+
+[Amdt. 415-03, 64 FR 19616, Apr. 21, 1999, as amended by Amdt. 415-4, 71 FR 50531, Aug. 25, 2006]

@@ -1,0 +1,3 @@
+##### § 298.31 Scope of service and equipment authorized. #####
+
+Nothing in this part shall be construed as authorizing the operation of large aircraft in air transportation, and the exemption provided by this part to air taxi operators and commuter air carriers that register with the Department extends only to the direct operation in air transportation in accordance with the limitations and conditions of this part of aircraft originally designed to have a maximum passenger capacity of 60 seats or less or a maximum payload capacity of 18,000 pounds or less.

@@ -1,0 +1,5 @@
+##### § 63.6135 How do I monitor and collect data to demonstrate continuous compliance? #####
+
+(a) Except for monitor malfunctions, associated repairs, and required quality assurance or quality control activities (including, as applicable, calibration checks and required zero and span adjustments of the monitoring system), you must conduct all parametric monitoring at all times the stationary combustion turbine is operating.
+
+(b) Do not use data recorded during monitor malfunctions, associated repairs, and required quality assurance or quality control activities for meeting the requirements of this subpart, including data averages and calculations. You must use all the data collected during all other periods in assessing the performance of the control device or in assessing emissions from the new or reconstructed stationary combustion turbine.

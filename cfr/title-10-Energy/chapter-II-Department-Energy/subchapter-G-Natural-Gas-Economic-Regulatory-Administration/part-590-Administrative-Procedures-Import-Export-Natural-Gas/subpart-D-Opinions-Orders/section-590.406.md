@@ -1,0 +1,3 @@
+##### § 590.406 Compliance with orders. #####
+
+Any person required or authorized to take any action by a final opinion and order of the Assistant Secretary shall file with FE, within thirty (30) days after the requirement or authorization becomes effective, a notice, under oath, that such requirement has been complied with or such authorization accepted or otherwise acted upon, unless otherwise specified in the order.

@@ -1,0 +1,3 @@
+##### § 33.403 What is a fair share objective? #####
+
+A fair share objective is an objective based on the capacity and availability of qualified, certified MBEs and WBEs in the relevant geographic market for the procurement categories of construction, equipment, services and supplies compared to the number of all qualified entities in the same market for the same procurement categories, adjusted, as appropriate, to reflect the level of MBE and WBE participation expected absent the effects of discrimination. A fair share objective is not a quota.

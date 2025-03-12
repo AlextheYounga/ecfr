@@ -1,0 +1,13 @@
+##### § 590.313 Trial-type hearings. #####
+
+(a) Any party may file a motion for a trial-type hearing for the purpose of taking evidence on relevant and material issues of fact genuinely in dispute in the proceeding. The motion shall identify the factual issues in dispute and the evidence that will be presented. The party must demonstrate that the issues are genuinely in dispute, relevant and material to the decision and that a trial-type hearing is necessary for a full and true disclosure of the facts. The Assistant Secretary or presiding official shall grant a party's motion for a trial-type hearing, if the Assistant Secretary or presiding official determines that there is a relevant and material factual issue genuinely in dispute and that a trial-type hearing is necessary for a full and true disclosure of the facts.
+
+(b) In trial-type hearings, the parties shall have the right to be represented by counsel, to request discovery, to present the direct and rebuttal testimony of witnesses, to cross-examine witnesses under oath, and to present documentary evidence.
+
+(c) The Assistant Secretary or presiding official upon his or her own initiative or upon the motion of any party may consolidate any proceedings involving common questions of fact in whole or in part for a trial-type hearing. The Assistant Secretary or presiding official may also place appropriate limitations on the number of intervenors who may participate if two or more intervenors have substantially like interests.
+
+(d) The Assistant Secretary or presiding official may make such rulings for trial-type hearings, including delineation of the issues and limitation of cross-examination of a witness, as are necessary to obtain a full and true disclosure of the facts and to limit irrelevant, immaterial, or unduly repetitious evidence.
+
+(e) At trial-type hearings, the Assistant Secretary or presiding official, or any other decisional employee directed by the Assistant Secretary or presiding official, may call witnesses for testimony or presenting exhibits that directly relate to a particular issue of fact to be considered at the hearing. The Assistant Secretary or presiding official, or any other decisional employee directed by the Assistant Secretary or presiding official, may also question witnesses offered by the parties concerning their testimony.
+
+(f) Trial-type hearings shall be recorded, and the transcript shall be made part of the official record of the proceeding and available to the public.

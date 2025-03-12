@@ -1,0 +1,3 @@
+##### § 6.210 Emergency circumstances. #####
+
+If emergency circumstances make it necessary to take an action that has a significant environmental impact without observing the provisions of subparts A through C of this part that are required by the CEQ Regulations, the Responsible Official must consult with the NEPA Official at the earliest possible time. Consistent with 40 CFR 1506.11, the Responsible Official and the NEPA Official should consult with CEQ about alternative arrangements at the earliest opportunity. Actions taken without observing the provisions of subparts A through C of this part will be limited to actions necessary to control the immediate impacts of the emergency; other actions remain subject to the environmental review process.

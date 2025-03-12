@@ -1,0 +1,9 @@
+##### § 268.14 Surface impoundment exemptions. #####
+
+(a) This section defines additional circumstances under which an otherwise prohibited waste may continue to be placed in a surface impoundment.
+
+(b) Wastes which are newly identified or listed under section 3001 after November 8, 1984, and stored in a surface impoundment that is newly subject to subtitle C of RCRA as a result of the additional identification or listing, may continue to be stored in the surface impoundment for 48 months after the promulgation of the additional listing or characteristic, notwithstanding that the waste is otherwise prohibited from land disposal, provided that the surface impoundment is in compliance with the requirements of subpart F of part 265 of this chapter within 12 months after promulgation of the new listing or characteristic.
+
+(c) Wastes which are newly identified or listed under section 3001 after November 8, 1984, and treated in a surface impoundment that is newly subject to subtitle C of RCRA as a result of the additional identification or listing, may continue to be treated in that surface impoundment, notwithstanding that the waste is otherwise prohibited from land disposal, provided that surface impoundment is in compliance with the requirements of subpart F of part 265 of this chapter within 12 months after the promulgation of the new listing or characteristic. In addition, if the surface impoundment continues to treat hazardous waste after 48 months from promulgation of the additional listing or characteristic, it must then be in compliance with § 268.4.
+
+[57 FR 37271, Aug. 18, 1992, as amended at 71 FR 40278, July 14, 2006]

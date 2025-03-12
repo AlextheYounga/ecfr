@@ -1,0 +1,3 @@
+##### § 54.11 Effects on State and local funds. #####
+
+If a State or local government contributes its own funds to supplement activities carried out under the applicable programs, the State or local government has the option to separate out the Federal funds or commingle them. If the funds are commingled, the provisions of this part shall apply to all of the commingled funds in the same manner, and to the same extent, as the provisions apply to the Federal funds.

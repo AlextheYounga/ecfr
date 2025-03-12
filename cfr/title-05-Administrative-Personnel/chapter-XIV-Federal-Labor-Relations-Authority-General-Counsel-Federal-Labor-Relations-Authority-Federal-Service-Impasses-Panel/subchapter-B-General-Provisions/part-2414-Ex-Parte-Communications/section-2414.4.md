@@ -1,0 +1,3 @@
+##### § 2414.4 Duration of prohibition. #####
+
+Unless otherwise provided by specific order of the Authority entered in the proceeding, the prohibition of § 2414.2 shall be applicable in any agency proceeding subject to 5 U.S.C. 557(a) beginning at the time of which the proceeding is noticed for hearing, unless the person responsible for the communication has knowledge that it will be noticed, in which case the prohibitions shall apply beginning at the time of such person's acquisition of such knowledge.

@@ -1,0 +1,33 @@
+##### § 144.7 Identification of underground sources of drinking water and exempted aquifers. #####
+
+(a) The Director may identify (by narrative description, illustrations, maps, or other means) and shall protect as underground sources of drinking water, all aquifers and parts of aquifers which meet the definition of “underground source of drinking water” in § 144.3, except to the extent there is an applicable aquifer exemption under paragraph (b) of this section or an expansion to the areal extent of an existing Class II enhanced oil recovery or enhanced gas recovery aquifer exemption for the exclusive purpose of Class VI injection for geologic sequestration under paragraph (d) of this section. Other than EPA approved aquifer exemption expansions that meet the criteria set forth in § 146.4(d) of this chapter, new aquifer exemptions shall not be issued for Class VI injection wells. Even if an aquifer has not been specifically identified by the Director, it is an underground source of drinking water if it meets the definition in § 144.3.
+
+(b)(1) The Director may identify (by narrative description, illustrations, maps, or other means) and describe in geographic and/or geometric terms (such as vertical and lateral limits and gradient) which are clear and definite, all aquifers or parts thereof which the Director proposes to designate as exempted aquifers using the criteria in § 146.4 of this chapter.
+
+(2) No designation of an exempted aquifer submitted as part of a UIC program shall be final until approved by the Administrator as part of a UIC program. No designation of an expansion to the areal extent of a Class II enhanced oil recovery or enhanced gas recovery aquifer exemption for the exclusive purpose of Class VI injection for geologic sequestration shall be final until approved by the Administrator as a revision to the applicable Federal UIC program under part 147 or as a substantial revision of an approved State UIC program in accordance with § 145.32 of this chapter.
+
+(3) Subsequent to program approval or promulgation, the Director may, after notice and opportunity for a public hearing, identify additional exempted aquifers. For approved State programs exemption of aquifers identifed (i) under § 146.04(b) shall be treated as a program revision under § 145.32; (ii) under § 146.04(c) shall become final if the State Director submits the exemption in writing to the Administrator and the Administrator has not disapproved the designation within 45 days. Any disapproval by the Administrator shall state the reasons and shall constitute final Agency action for purposes of judicial review.
+
+(c)(1) For Class III wells, the Director shall require an applicant for a permit which necessitates an aquifer exemption under § 146.04(b)(1) to furnish the data necessary to demonstrate that the aquifer is expected to be mineral or hydrocarbon producing. Information contained in the mining plan for the proposed project, such as a map and general description of the mining zone, general information on the mineralogy and geochemistry of the mining zone, analysis of the amenability of the mining zone to the proposed mining method, and a time-table of planned development of the mining zone shall be considered by the Director in addition to the information required by § 144.31(g).
+
+(2) For Class II wells, a demonstration of commercial producibility shall be made as follows:
+
+(i) For a Class II well to be used for enhanced oil recovery processes in a field or project containing aquifers from which hydrocarbons were previously produced, commercial producibility shall be presumed by the Director upon a demonstration by the applicant of historical production having occurred in the project area or field.
+
+(ii) For Class II wells not located in a field or project containing aquifers from which hydrocarbons were previously produced, information such as logs, core data, formation description, formation depth, formation thickness and formation parameters such as permeability and porosity shall be considered by the Director, to the extent such information is available.
+
+(d) *Expansion to the areal extent of existing Class II aquifer exemptions for Class VI wells.* Owners or operators of Class II enhanced oil recovery or enhanced gas recovery wells may request that the Director approve an expansion to the areal extent of an aquifer exemption already in place for a Class II enhanced oil recovery or enhanced gas recovery well for the exclusive purpose of Class VI injection for geologic sequestration. Such requests must be treated as a revision to the applicable Federal UIC program under part 147 or as a substantial program revision to an approved State UIC program under § 145.32 of this chapter and will not be final until approved by EPA.
+
+(1) The owner or operator of a Class II enhanced oil recovery or enhanced gas recovery well that requests an expansion of the areal extent of an existing aquifer exemption for the exclusive purpose of Class VI injection for geologic sequestration must define (by narrative description, illustrations, maps, or other means) and describe in geographic and/or geometric terms (such as vertical and lateral limits and gradient) that are clear and definite, all aquifers or parts thereof that are requested to be designated as exempted using the criteria in § 146.4 of this chapter.
+
+(2) In evaluating a request to expand the areal extent of an aquifer exemption of a Class II enhanced oil recovery or enhanced gas recovery well for the purpose of Class VI injection, the Director must determine that the request meets the criteria for exemptions in § 146.4. In making the determination, the Director shall consider:
+
+(i) Current and potential future use of the USDWs to be exempted as drinking water resources;
+
+(ii) The predicted extent of the injected carbon dioxide plume, and any mobilized fluids that may result in degradation of water quality, over the lifetime of the GS project, as informed by computational modeling performed pursuant to § 146.84(c)(1), in order to ensure that the proposed injection operation will not at any time endanger USDWs including non-exempted portions of the injection formation;
+
+(iii) Whether the areal extent of the expanded aquifer exemption is of sufficient size to account for any possible revisions to the computational model during reevaluation of the area of review, pursuant to § 146.84(e); and
+
+(iv) Any information submitted to support a waiver request made by the owner or operator under § 146.95, if appropriate.
+
+[48 FR 14189, Apr. 1, 1983, as amended at 75 FR 77287, Dec. 10, 2010]

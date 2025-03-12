@@ -1,0 +1,3 @@
+##### § 158.51 Remittance of PFC's. #####
+
+Passenger facility charges collected by carriers shall be remitted to the public agency on a monthly basis. PFC revenue recorded in the accounting system of the carrier, as set forth in § 158.49 of this part, shall be remitted to the public agency no later than the last day of the following calendar month (or if that date falls on a weekend or holiday, the first business day thereafter).

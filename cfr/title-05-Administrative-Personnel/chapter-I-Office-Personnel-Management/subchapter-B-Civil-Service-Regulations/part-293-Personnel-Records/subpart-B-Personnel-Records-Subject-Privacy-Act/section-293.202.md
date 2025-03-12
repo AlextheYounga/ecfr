@@ -1,0 +1,3 @@
+##### § 293.202 Records subject to Office or agency Privacy Act regulations. #####
+
+When the Office of Personnel Management publishes in the Federal Register a notice of system of records for personnel records which are maintained by the agencies or by the Office, that system of records will be subject to the regulations in this part and also to the regulations in part 297 of this chapter. When agencies publish a notice of system of records for personnel records required by the Office that are not included in the Office's notices, those agency systems of records will be subject both to the regulations contained in this part and to agency promulgated regulations that implement the Privacy Act.

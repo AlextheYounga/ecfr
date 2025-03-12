@@ -1,0 +1,3 @@
+##### § 740.0 Scope. #####
+
+This part applies to all federally insured credit unions. It prescribes the requirements for the official sign insured credit unions must display and the requirements with regard to the official advertising statement insured credit unions must include in their advertisements. It requires that all other kinds of advertisements be accurate. It also establishes requirements for advertisements of excess insurance.

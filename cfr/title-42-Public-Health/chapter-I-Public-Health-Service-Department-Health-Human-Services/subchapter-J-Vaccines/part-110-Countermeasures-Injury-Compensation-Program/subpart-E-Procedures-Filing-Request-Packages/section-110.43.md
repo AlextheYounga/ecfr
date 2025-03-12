@@ -1,0 +1,5 @@
+##### § 110.43 Deadlines for submitting documentation. #####
+
+(a) *Documentation for eligibility determinations.* A requester will satisfy the filing deadline as long as the signed Request Form is completed (to the fullest extent possible) and submitted within the governing filing deadline described in § 110.42. The Secretary generally will not begin review of a requester's eligibility until all the documentation necessary to make this determination has been submitted.
+
+(b) *Documentation for benefits determinations.* Although the Secretary will accept documentation required to make benefits determinations (*i.e.,* calculate benefits available, if any) at the time the Request Form is filed or any time thereafter, requesters need not submit such documentation until they have been notified that the Secretary has determined eligibility. The Secretary will not generally begin review of the benefits available to a requester until the documentation necessary to make a benefits determination has been submitted.

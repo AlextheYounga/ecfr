@@ -1,0 +1,3 @@
+##### § 963.15 Postclosure suitability determination. #####
+
+DOE will apply the method and criteria described in §§ 963.16 and 963.17 to evaluate the suitability of the Yucca Mountain site for the postclosure period. If DOE finds that the results of the total system performance assessments conducted under § 963.16 show that the Yucca Mountain site is likely to meet the applicable radiation protection standard, DOE may determine the site suitable for the postclosure period.

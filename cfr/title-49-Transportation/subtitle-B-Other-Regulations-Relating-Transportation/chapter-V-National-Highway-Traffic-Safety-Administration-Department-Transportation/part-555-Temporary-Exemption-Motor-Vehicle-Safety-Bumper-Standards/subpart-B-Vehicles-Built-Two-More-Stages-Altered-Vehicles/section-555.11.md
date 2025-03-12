@@ -1,0 +1,5 @@
+##### § 555.11 Application. #####
+
+This subpart applies to alterers and manufacturers of motor vehicles built in two or more stages to which one or more standards are applicable. No manufacturer or alterer that produces or alters a total exceeding 10,000 motor vehicles annually shall be eligible for a temporary exemption under this subpart. Any exemption granted under this subpart shall be limited, per manufacturer, to 2,500 vehicles to be sold in the United States in any 12 consecutive month period. Incomplete vehicle manufacturers and intermediate manufacturers that do not intend to certify the vehicles in accordance with 49 CFR 567.5(f) or (g), and instead furnish Incomplete Vehicle Documents to final-stage manufacturers in accordance with 49 CFR 568.4 or 49 CFR 568.5, are not eligible for temporary exemptions under this subpart.
+
+[71 FR 28196, May 15, 2006]

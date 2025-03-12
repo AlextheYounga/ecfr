@@ -1,0 +1,40 @@
+##### § 52.329 Rules and regulations. #####
+
+(a) On January 14, 1993, the Governor of Colorado submitted revisions to the State's nonattainment new source review permitting regulations to bring the State's regulations up to date with the 1990 Amendments to the Clean Air Act. With these revisions, the State's regulations satisfy the part D new source review permitting requirements for the following nonattainment areas: the Canon City, Lamar, Pagosa Springs, Aspen, Telluride, and Steamboat Springs moderate PM10 nonattainment areas, the Denver/Metro Boulder, Longmont, Colorado Springs, and Fort Collins moderate carbon monoxide nonattainment areas, the Greeley not classified carbon monoxide nonattainment area, and the Denver transitional ozone nonattainment area.
+
+(b) On January 14, 1993 and on August 25, 1994, the Governor of Colorado submitted revisions to the State's nonattainment new source review permitting regulations to bring the State's regulations up to date with the 1990 Amendments to the Clean Air Act. With these revisions, the State's regulations satisfy the part D new source review permitting requirements for the Denver metropolitan moderate PM-10 nonattainment area.
+
+(c) A revision to the State Implementation Plan was submitted by the State of Colorado on July 31, 2002. The submittal revises the Common Provisions regulation by adding affirmative defense provisions for source owners and operators for excess emissions during periods of startup and shutdown. The affirmative defense provisions are contained in section II.J. As indicated in 40 CFR 52.320(c)(109), EPA approved the affirmative defense provisions contained in sections II.J.1 through II.J.4 of the Common Provisions regulation, adopted August 16, 2001 and effective September 30, 2001. Section II.J.5 of the Common Provisions regulation, adopted August 16, 2001 and effective September 30, 2001, is disapproved.
+
+(d) On August 7, 2007, the Colorado submitted two packages with revisions to Colorado's Regulation 3 Regulation, 5 CCR 1001-5, Part A. One change adopts language to treat nitrogen dioxide as an ozone precursor. The State also adopted an increase in fees used to pay for the State's increased workload from the processing of Air Pollutant Emission Notices (APENs) and permits. Annual and permit processing fees shall be $16.54 for regulated pollutants and $114.96 for Hazardous Air Pollutants. One grammatical change was made to the text of Part A, Section 1.B.9.d:
+
+(1) Regulation 3, 5 CCR 1001-5, Air Contaminant Emissions Notices, Part A, Concerning General Provisions Applicable to Reporting and Permitting, Section I, Applicability, Section I.B.9.d, Applicable Requirement, effective October 2006: Any standard or other requirement under section 112 of the Federal Act (hazardous air pollutants, including any requirement concerning accident prevention under section 112(r)(7) of the Federal Act) (Regulation No. 8) but not including the contents of any risk management plan required under section 112(r) of the Federal Act.
+
+(2) Regulation 3, 5 CCR 1001-5, Air Contaminant Emissions Notices, Part A, Concerning General Provisions Applicable to Reporting and Permitting, Section I, Applicability, Section I.B.16, Criteria Pollutants, effective October 2006:
+
+(i) Those pollutants for which the U.S. EPA has established national ambient air quality standards, including: carbon monoxide, nitrogen dioxide (direct emissions and as a precursor to ozone), sulfur dioxide, PM10, total suspended particulate matter, ozone, volatile organic compounds (as a precursor to ozone), and lead.
+
+(ii) For the purpose of Air Pollutant Emission Notice reporting, criteria pollutants shall also include nitrogen oxides, fluorides, sulfuric acid mist, hydrogen sulfide, total reduced sulfur, reduced sulfur compounds, municipal waste combustor organics, municipal waste combustor metals, and municipal waste combustor acid gases.
+
+(3) Regulation 3, 5 CCR 1001-5, Air Contaminant Emissions Notices, Part A, Concerning General Provisions Applicable to Reporting and Permitting, Section VI Fees; Section VI.D.1, Fee Schedule, effective February 2007: Annual and permit processing fees shall be charged in accordance with and in the amounts specified in the provisions of Colorado Revised Statues section 25-7-114.7. Annual fees for regulated pollutants shall be $16.54. Annual fees for hazardous air pollutants shall be $114.96.
+
+(e) The State of Colorado submitted revisions on September 16, 1997, June 20, 2003, July 11, 2005, August 8, 2006 and August 1, 2007 to Colorado's 5 CCR 1001-5 Regulation Number 3, Part A, Section II. One of the revisions deleted two provisions from Section II and moved them to Section I of Regulation Number 3, Part A. The revised regulatory provisions read as follows:
+
+(1) 5 CCR 1001-5, Regulation 3, *Stationary Source Permitting and Air Pollutant Emission Notice Requirements,* Part A, *Concerning General Provisions Applicable to Reporting and Permitting,* Section I, *Applicability,* Section I.B.16, *Criteria Pollutants,;* effective June 30, 2004:
+
+(i) Those pollutants for which the U.S. EPA has established national ambient air quality standards, including: carbon monoxide, nitrogen dioxide, sulfur dioxide, PM10, total suspended particulate matter, ozone, volatile organic compounds (as a precursor to ozone), and lead. For the purposes of Air Pollutant Emission Notice reporting, criteria pollutants shall also include nitrogen oxides, fluorides, sulfuric acid mist, hydrogen sulfide, total reduced sulfur, reduced sulfur compounds, municipal waste combustor organics, municipal waste combustor metals, and municipal waste combustor acid gases.
+
+(2) 5 CCR 1001-5, Regulation 3, *Stationary Source Permitting and Air Pollutant Emission Notice Requirements,* Part A, *Concerning General Provisions Applicable to Reporting and Permitting,* Section I, *Applicability,* Section I.B.43, *Uncontrolled Actual Emissions;* effective June 30, 2004:
+
+(i) The annual emission rate corresponding to the annual process rate listed on the Air Pollutant Emission Notice form, without consideration of any emission control equipment or procedures. The division may allow a source to forego calculating or estimating its uncontrolled actual emissions of hazardous air pollutants upon a showing by the source and a determination by the division that the creation of such data is unreasonably costly, technically impractical or not reasonably related to information necessary for making regulatory decisions with respect to that source. The division's final determination may be appealed to the commission by the source.
+
+(f) On August 8, 2006, Dennis E. Ellis, Executive Director of the Colorado Department of Public Health and Environment, and on behalf of the Governor, submitted revisions to 5 CCR 1001-13, Colorado's Regulation Number 11—Motor Vehicle Emissions Inspection Program, part F, section III.A.2. These revisions removed from Colorado's Regulation Number 11 the light duty vehicle emission testing limits that went into effect on January 1, 2006 for 1996 and newer model year vehicles. These revisions were adopted on November 17, 2005, and became state-effective on January 30, 2006. The revised version of section III.A.2, as approved by EPA, reads as follows:
+
+(1) The following emissions standards shall apply to those tests performed on model year 1996 and newer vehicles, on and after January 1, of the dates specified:
+
+|Calendar year|HC |CO |NO<sub>X</sub>|
+|-------------|---|---|--------------|
+|    2002     |1.2|20 |     3.0      |
+|    2003     |1.2|20 |     3.0      |
+
+[59 FR 64336, Dec. 14, 1994, as amended at 62 FR 2914, Jan. 21, 1997; 62 FR 68195, Dec. 31, 1997; 71 FR 8961, Feb. 22, 2006; 76 FR 51905, Aug. 19, 2011; 76 FR 61056, Oct. 3, 2011; 77 FR 75390, Dec. 20, 2012]

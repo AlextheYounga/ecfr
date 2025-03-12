@@ -1,0 +1,3 @@
+##### § 955.10 Information collection. #####
+
+The information collection requirements in this part were approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0083. This information is needed to meet the requirements of sections 504, 515, 516, 710 and 719 of Pub. L. 95-87, and will be used by OSM in the certification of blasters. The obligation to respond is mandatory.

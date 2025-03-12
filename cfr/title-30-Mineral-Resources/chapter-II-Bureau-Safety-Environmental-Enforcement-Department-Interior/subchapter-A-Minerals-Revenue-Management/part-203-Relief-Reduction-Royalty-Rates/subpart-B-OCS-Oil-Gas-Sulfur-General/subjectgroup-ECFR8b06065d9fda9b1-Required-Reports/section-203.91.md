@@ -1,0 +1,3 @@
+##### § 203.91 What is in a post-production development report? #####
+
+For each cost category in the deep water cost report, you must compare actual costs up to the date when production starts to your planned pre-production costs. If your application included more than one development scenario, you need to compare actual costs with those in your scenario of most likely development. Also, you must have this report certified by an independent CPA according to § 203.81(c).

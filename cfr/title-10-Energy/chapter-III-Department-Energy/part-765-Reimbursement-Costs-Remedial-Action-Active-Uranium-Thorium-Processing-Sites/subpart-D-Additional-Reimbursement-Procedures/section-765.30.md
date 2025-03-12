@@ -1,0 +1,21 @@
+##### § 765.30 Reimbursement of costs incurred in accordance with a plan for subsequent remedial action. #####
+
+(a) This section establishes procedures governing reimbursements of costs of remedial action incurred in accordance with a plan for subsequent remedial action approved by the Department as provided in this section. Costs otherwise eligible for reimbursement in accordance with the terms of this part and incurred in accordance with the plan shall be reimbursed in accordance with the provisions of subpart D and subpart C. In the event there is an inconsistency between the requirements of subpart D and subpart C, the provisions of subpart D shall govern reimbursement of such costs of remedial action.
+
+(b) A licensee who anticipates incurring costs of remedial action after December 31, 2007 may submit a plan for subsequent remedial action. This plan may be submitted at any time after January 1, 2005, but no later than December 31, 2006. Reimbursement of costs of remedial action incurred after December 31, 2007 shall be subject to the approval of this plan by the Department. This plan shall describe:
+
+(1) All applicable requirements established by NRC pursuant to UMTRCA, or where appropriate, by the requirements of an Agreement State, included in a reclamation plan approved by NRC or an Agreement State which have not yet been satisfied in full by the licensee, and
+
+(2) The total cost of remedial action required at the site, together with all necessary supporting documentation, segregated into actual costs incurred to date, costs incurred or expected to be incurred prior to December 31, 2007 but not yet approved for reimbursement, and anticipated future costs.
+
+(c) The Department shall review the plan for subsequent remedial action to verify conformance with the NRC- or Agreement State-approved reclamation plan or other written authorization, and to determine the reasonableness of anticipated future costs, and shall approve, approve with suggested modifications, or reject the plan. During its review, the Department may request additional information from the licensee to clarify or provide support for any provision or estimate contained in the plan. The Department may also consult with NRC or an Agreement State concerning any provision or estimate contained in the plan. Upon approval, approval with modifications, or rejection of a plan, the Department shall inform and explain to the licensee its decision.
+
+(d) If the Department rejects a plan for subsequent remedial action submitted by a licensee, the licensee may appeal the Department's rejection or prepare and submit a revised plan. The licensee may continue to submit revised plans for subsequent remedial action until the Department approves a plan, or September 30, 2007, whichever occurs first. A failure by a licensee to receive approval from the Department of a plan prior to December 31, 2007 will preclude that licensee from receiving any reimbursement for costs of remedial action incurred after that date.
+
+(e) The Department shall determine, in approving a plan for subsequent remedial action, the maximum reimbursement amount for which the licensee may be eligible. This maximum reimbursement amount shall be the smaller of the following two quantities:
+
+(1) The amount obtained by multiplying the total cost of remedial action at the site, as determined in the approved plan for subsequent remedial action, by the Federal reimbursement ratio established for such site; or
+
+(2) For the uranium site licensees only, $6.25, as adjusted for inflation, multiplied by the number of Federal-related dry short tons of byproduct material. For all licensees, the Department shall subtract from the maximum reimbursement amount any reimbursement already approved to be paid to the licensee. The resulting sum shall be the potential additional reimbursement to which the licensee may be entitled. This resulting sum will be adjusted after the approval of claims for work performed through December 31, 2007, to reflect the actual approved costs of work performed through that date.
+
+[59 FR 26726, May 23, 1994, as amended at 68 FR 32957, June 3, 2003]

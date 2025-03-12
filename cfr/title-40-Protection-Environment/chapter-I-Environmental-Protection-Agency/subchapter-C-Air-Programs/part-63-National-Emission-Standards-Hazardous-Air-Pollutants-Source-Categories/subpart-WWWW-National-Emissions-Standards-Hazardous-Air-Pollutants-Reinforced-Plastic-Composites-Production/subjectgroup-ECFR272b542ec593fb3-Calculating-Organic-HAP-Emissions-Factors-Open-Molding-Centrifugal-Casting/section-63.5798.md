@@ -1,0 +1,7 @@
+##### § 63.5798 What if I want to use, or I manufacture, an application technology (new or existing) whose organic HAP emissions characteristics are not represented by the equations in Table 1 to this subpart? #####
+
+If you wish to use a resin or gel coat application technology (new or existing), whose emission characteristics are not represented by the equations in Table 1 to this subpart, you may use the procedures in paragraphs (a) or (b) of this section to establish an organic HAP emissions factor. This organic HAP emissions factor may then be used to determine compliance with the emission limits in this subpart, and to calculate facility organic HAP emissions.
+
+(a) Perform an organic HAP emissions test to determine a site-specific organic HAP emissions factor using the test procedures in § 63.5850.
+
+(b) Submit a petition to the Administrator for administrative review of this subpart. This petition must contain a description of the resin or gel coat application technology and supporting organic HAP emissions test data obtained using EPA test methods or their equivalent. The emission test data should be obtained using a range of resin or gel coat HAP contents to demonstrate the effectiveness of the technology under the different conditions, and to demonstrate that the technology will be effective at different sites. We will review the submitted data, and, if appropriate, update the equations in Table 1 to this subpart.

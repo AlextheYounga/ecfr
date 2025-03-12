@@ -1,0 +1,3 @@
+##### § 1274.901 Other provisions and special conditions. #####
+
+Where applicable, the provisions set forth in this subpart are to be incorporated in and made a part of all cooperative agreements with commercial firms. When included, the provisions at § 1274.902 through § 1274.909 and the provisions at § 1274.933 through § 1274.942 are to be incorporated in full text substantially as stated in this regulation. When required, the provisions at § 1274.910 through § 1274.932, may be incorporated by reference in an enclosure to each cooperative agreement. For inclusion of provisions in subcontracts, see Exhibit A of this part, and § 1274.925.

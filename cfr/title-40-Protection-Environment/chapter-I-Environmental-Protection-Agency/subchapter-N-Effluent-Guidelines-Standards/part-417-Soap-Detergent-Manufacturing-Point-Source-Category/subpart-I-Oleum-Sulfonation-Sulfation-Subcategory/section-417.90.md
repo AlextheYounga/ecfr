@@ -1,0 +1,3 @@
+##### § 417.90 Applicability; description of the oleum sulfonation and sulfation subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the manufacture of sulfonic acid and sulfuric acid esters by means of sulfonation and sulfation of raw materials, including but not limited to petroleum derived alkyls, employing oleum in either continuous or batch processes.

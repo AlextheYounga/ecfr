@@ -1,0 +1,3 @@
+##### § 217.93 Communications. #####
+
+All communications concerning this part, including requests for copies of the regulation and explanatory information, requests for guidance or clarification, and requests for adjustment or exception shall be addressed to the Senior Policy Advisor for the Office of Electricity Delivery and Energy Reliability, Office of Infrastructure Security and Energy Restoration, U.S. Department of Energy, 1000 Independence Ave., SW., Washington, DC 20585; (202) 536-0379 (*GC-76EPAS@hq.doe.gov*).

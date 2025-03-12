@@ -1,0 +1,3 @@
+##### § 581.15 Tract size. #####
+
+The size of the tracts to be offered for lease shall be as determined by the Secretary and specified in the leasing notice. It is intended that tracts offered for lease be sufficiently large to include potentially minable OCS mineral orebodies. When the presence of any minable orebody is unknown and additional prospecting is needed to discover and delineate OCS minerals, the size of tracts specified in the leasing notice may be relatively large.

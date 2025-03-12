@@ -1,0 +1,3 @@
+##### § 1220.1 Records required to be retained. #####
+
+Companies subject to this part shall retain records for the minimum retention periods required by § 1220.6, Schedule of records and periods of retention. After the required retention periods, the records may be destroyed at the discretion of each company's management. It shall be the obligation of the subject company to maintain records that adequately support financial and operational data required by the Board. The company may request a ruling from the Board on the retention of any record. The provisions of this part shall not be construed as excusing compliance with the lawful requirements of any other governmental body prescribing longer retention periods for any category of records.

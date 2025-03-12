@@ -1,0 +1,33 @@
+##### § 1068.32 Explanatory terms. #####
+
+This section explains how certain phrases and terms are used in 40 CFR parts 1000 through 1099, especially those used to clarify and explain regulatory provisions.
+
+(a) *Types of provisions.* The term “provision” includes all aspects of the regulations in this subchapter U. As described in this section, regulatory provisions include standards, requirements, prohibitions, and allowances, along with a variety of other types of provisions. In certain cases, we may use these terms to apply to some but not all of the provisions of a part or section. For example, we may apply the allowances of a section for certain engines, but not the requirements. We may also apply all provisions except the requirements and prohibitions.
+
+(1) A standard is a requirement established by regulation that limits the emissions of air pollutants. Examples of standards include numerical emission standards (such as 0.01 g/kW-hr) and design standards (such as a closed crankcase standard). Compliance with or conformance to a standard is a specific type of requirement, and in some cases a standard may be discussed as a requirement. Thus, a statement about the requirements of a part or section also applies with respect to the standards of the part or section.
+
+(2) The regulations in subchapter U of this chapter apply other requirements in addition to standards. For example, manufacturers are required to keep records and provide reports to EPA.
+
+(3) While requirements state what someone must do, prohibitions state what someone may not do. Prohibitions are often referred to as prohibited acts or prohibited actions. Most penalties apply for violations of prohibitions. A list of prohibitions may therefore include the failure to meet a requirement as a prohibited action.
+
+(4) Allowances provide some form of relief from requirements. This may include provisions delaying implementation, establishing exemptions or test waivers, or creating alternative compliance options. Allowances may be conditional. For example, we may exempt you from certain requirements on the condition that you meet certain other requirements.
+
+(5) The regulations in subchapter U of this chapter also include important provisions that are not standards, requirements, prohibitions, or allowances, such as definitions.
+
+(6) Engines/equipment are generally considered “*subject to*” a specific provision if that provision applies, or if it does not apply because of an exemption authorized under the regulation. For example, locomotives are subject to the provisions of 40 CFR part 1033 even if they are exempted from the standards of part 1033.
+
+(b) *Singular and plural.* Unless stated otherwise or unless it is clear from the regulatory context, provisions written in singular form include the plural form and provisions written in plural form include the singular form. For example, the statement “The manufacturer must keep this report for three years” is equivalent to “The manufacturers must keep these reports for three years.”
+
+(c) *Inclusive lists.* Lists in the regulations in subchapter U of this chapter prefaced by “including” or “this includes” are not exhaustive. The terms “including” and “this includes” should be read to mean “including but not limited to” and “this includes but is not limited to”. For example, the phrase “including small manufacturers” does not exclude large manufacturers. However, prescriptive statements to “include” specific items (such as those related to recordkeeping and reporting requirements) may be exhaustive.
+
+(d) *Notes.* Statements that begin with “Note:” or “Note that” are intended to clarify specific regulatory provisions stated elsewhere in the regulations in subchapter U of this chapter. By themselves, such statements are not intended to specify regulatory requirements. Such statements are typically used for regulatory text that, while legally sufficient to specify a requirement, may be misunderstood by some readers. For example, the regulations might note that a word is defined elsewhere in the regulations to have a specific meaning that may be either narrower or broader than some readers might assume.
+
+(e) *Examples.* Examples provided in the regulations in subchapter U of this chapter are typically introduced by either “for example” or “such as”. Specific examples given in the regulations do not necessarily represent the most common examples. The regulations may specify examples conditionally (that is, specifying that they are applicable only if certain criteria or conditions are met). Lists of examples cannot be presumed to be exhaustive lists.
+
+(f) *Generally and typically.* Statements that begin with “generally”, “in general”, or “typically” should not be read to apply universally or absolutely. Rather they are intended to apply for the most common circumstances. “Generally” and “typically” statements may be identified as notes as described in paragraph (d) of this section.
+
+(g) *Unusual circumstances.* The regulations in subchapter U of this chapter specify certain allowances that apply “in unusual circumstances”. While it is difficult to precisely define what “unusual circumstances” means, this generally refers to specific circumstances that are both rare and unforeseeable. For example, a severe hurricane in the northeastern United States may be considered to be an unusual circumstance, while a less severe hurricane in the southeastern United States may not be. Where the regulations limit an allowance to unusual circumstances, manufacturers and others should not presume that such an allowance will be available to them. Provisions related to unusual circumstances may be described using the phrase “normal circumstances”, which are those circumstances that are not unusual circumstances.
+
+(h) *Exceptions and other specifications.* Regulatory provisions may be expressed as a general prohibition, requirement, or allowance that is modified by other regulatory text. Such provisions may include phrases such as “unless specified otherwise”, “except as specified”, or “as specified in this section”. It is important that the exceptions and the more general statement be considered together. This regulatory construct is intended to allow the core requirement or allowance to be stated in simple, clear sentences, rather than more precise and comprehensive sentences that may be misread. For example, where an action is prohibited in most but not all circumstances, the provision may state that you may not take the action, “except as specified in this section.” The exceptions could then be stated in subsequent regulatory text.
+
+[81 FR 74221, Oct. 25, 2016]

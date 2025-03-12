@@ -1,0 +1,9 @@
+##### § 221.101 Determination and effect of purpose of loan. #####
+
+(a) Under this part the original purpose of a loan is controlling. In other words, if a loan originally is not for the purpose of purchasing or carrying margin stock, changes in the collateral for the loan do not change its exempted character.
+
+(b) However, a so-called increase in the loan is necessarily on an entirely different basis. So far as the purpose of the credit is concerned, it is a new loan, and the question of whether or not it is subject to this part must be determined accordingly.
+
+(c) Certain facts should also be mentioned regarding the determination of the purpose of a loan. Section 221.3(c) provides in that whenever a lender is required to have its customer execute a “Statement of Purpose for an Extension of Credit Secured by Margin Stock,” the statement must be accepted by the lender “acting in good faith.” The requirement of “good faith” is of vital importance here. Its application will necessarily vary with the facts of the particular case, but it is clear that the bank must be alert to the circumstances surrounding the loan. For example, if the loan is to be made to a customer who is not a broker or dealer in securities, but such a broker or dealer is to deliver margin stock to secure the loan or is to receive the proceeds of the loan, the bank would be put on notice that the loan would probably be subject to this part. It could not accept in good faith a statement to the contrary without obtaining a reliable and satisfactory explanation of the situation.
+
+(d) Furthermore, the purpose of a loan means just that. It cannot be altered by some temporary application of the proceeds. For example, if a borrower is to purchase Government securities with the proceeds of a loan, but is soon thereafter to sell such securities and replace them with margin stock, the loan is clearly for the purpose of purchasing or carrying margin stock.

@@ -1,0 +1,7 @@
+##### § 201.16 Standard for locomotive load cell test stands. #####
+
+(a) Effective January 15, 1984, no carrier subject to this reguation shall operate locomotive load cell test stands that exceed an A-weighted sound level of 78 dB when measured with slow meter response in accordance with Subpart C of this part excluding § 201.23 (b) and (c), at a point 30 meters (100 feet) from the geometric center of the locomotive undergoing test, along a line that is both perpendicular to the centerline of the track and originates at the locomotive geometric center, and in the direction most nearly towards the closest receiving property measurement location. All locomotive load cell test stands in a particular railroad facility are in compliance with this standard if the A-weighted sound level from the load cell does not exceed 65 dB at any receiving property measurement location near that particular railyard facility and when measured with fast meter response in accordance with Subpart C of this regulation.
+
+(b) If the conditions of any part of § 201.23(a) cannot be met at a specific load cell test stand site, then the A-weighted sound level from that specific load cell test stand must not exceed 65 dB when measured with fast meter response at a receiving property measurement location more than 120 meters (400 feet) from the geometric center of the locomotive being tested and in accordance with Subpart C of this regulation.
+
+[45 FR 1263, Jan. 4, 1980; 47 FR 14709, Apr. 6, 1982]

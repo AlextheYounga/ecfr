@@ -1,0 +1,3 @@
+##### § 391.5 Protection of customer information. #####
+
+State savings associations and their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers) must comply with the Interagency Guidelines Establishing Information Security Standards set forth in appendix B to subpart B. Supplement A to appendix B to subpart B provides interpretive guidance.

@@ -1,0 +1,3 @@
+##### § 57.111 Severability of provisions. #####
+
+The provisions promulgated in this part and the various applications thereof are distinct and severable. If any provision of this part or the application thereof to any person or circumstances is held invalid, such invalidity shall not affect other provisions, or the application of such provisions to other persons or circumstances, which can be given effect without the invalid provision of application.

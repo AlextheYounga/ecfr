@@ -1,0 +1,3 @@
+##### § 1242.83 Officers—general superintendence; accounting, auditing and finance; management services and data processing; personnel and labor relations; legal and secretarial; research and development; writedown of uncollectible accounts; property taxes; other taxes except on corporate income or payrolls; and other (accounts XX-63-01, XX-63-86, XX-63-87, XX-63-91, XX-63-92, XX-63-94, 63-63-00, 64-63-00, 65-63-00 and XX-63-99). #####
+
+Separate common expenses in proportion to the separation of all other common expenses except General and Administrative Expenses.

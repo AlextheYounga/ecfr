@@ -1,0 +1,3 @@
+##### § 512.9 What are the requirements if the information comes from a third party? #####
+
+Where confidentiality is claimed for information obtained by the submitter from a third party, such as a supplier, the submitter is responsible for obtaining from the third party the information that is necessary to comply with § 512.4 of this part, including a certificate in the form set out in appendix A to this Part.

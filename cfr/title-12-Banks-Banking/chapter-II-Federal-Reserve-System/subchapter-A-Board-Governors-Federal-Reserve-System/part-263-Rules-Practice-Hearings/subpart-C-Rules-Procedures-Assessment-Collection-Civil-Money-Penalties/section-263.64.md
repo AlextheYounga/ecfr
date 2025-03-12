@@ -1,0 +1,5 @@
+##### § 263.64 Payment of civil penalty. #####
+
+(a) The date designated in the notice of assessment for payment of the civil penalty will normally be 60 days from the issuance of the notice. If, however, the Board finds in a specific case that the purposes of the authorizing statute would be better served if the 60-day period is changed, the Board may shorten or lengthen the period or make the civil penalty payable immediately upon receipt of the notice of assessment. If a timely request for a formal hearing to challenge an assessment of civil penalty is filed, payment of the penalty shall not be required unless and until the Board issues a final order of assessment following the hearing. If an assessment order is issued, it will specify the date by which the civil penalty should be paid or collected.
+
+(b) Checks in payment of civil penalties should be made payable to the “Board of Governors of the Federal Reserve System.” Upon collection, the Board shall forward the amount of the penalty to the Treasury of the United States.

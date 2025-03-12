@@ -1,0 +1,3 @@
+##### § 83.8 How is a petition submitted? #####
+
+The petitioner(s) must send a petition in writing to NIOSH. A petition must provide identifying and contact information on the petitioner(s) and information to justify the petition, as specified under § 83.9. Detailed instructions for preparing and submitting a petition, including an optional petition form, are available from NIOSH through direct request (1-800-35-NIOSH) or on the Internet at *www.cdc.gov/niosh/ocas.*

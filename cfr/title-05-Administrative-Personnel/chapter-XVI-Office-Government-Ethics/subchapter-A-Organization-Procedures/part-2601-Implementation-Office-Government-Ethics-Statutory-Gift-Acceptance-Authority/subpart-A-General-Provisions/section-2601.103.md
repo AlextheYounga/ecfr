@@ -1,0 +1,13 @@
+##### § 2601.103 Policy. #####
+
+(a) *Scope.* OGE may use its statutory authority to solicit, accept and utilize gifts to the agency that aid or facilitate the agency's work. The authority to solicit, accept and utilize gifts includes the authority to receive, administer, spend, invest and dispose of gifts. Gifts to the agency from individuals or organizations can be a useful adjunct to appropriated funds and may enhance the agency's ability to fulfill its mission, as well as further mutually beneficial public/private partnerships, or other useful arrangements or relationships. Such uses of this authority are appropriate provided that solicitation or acceptance of a gift does not compromise the integrity of OGE, its programs or employees.
+
+(b) *Use of gifts.* Gifts to OGE may be used to carry out any activity that furthers the mission, programs, responsibilities, functions or activities of the agency. Gifts may be used to carry out program functions whether or not appropriated funds are available for that purpose, provided that such expenditures are not barred by law or regulation. Gifts may also be used for official travel by employees to events or activities required to carry out the agency's statutory or regulatory functions. Gifts to the agency may also be used for the travel expenses of spouses accompanying employees on official travel, if such travel could be paid for by appropriated funds.
+
+(c) *Sources.* Generally, gifts may be solicited or accepted from any source, including a prohibited source, provided that the standards of this part are met. Gifts generally should be made directly to the agency and not through intermediaries. However, where a gift is offered by an intermediary, both the intermediary and the ultimate source of the gift should be analyzed to determine whether acceptance would be appropriate.
+
+(d) *Endorsement.* Acceptance of a gift pursuant to this part will not in any way be deemed to be an endorsement of the donor, or the donor's products, services, activities, or policies. Letters to a donor expressing appreciation of a gift are permitted.
+
+(e) *Type of gift.* The agency may solicit or accept any gift that is within its statutory authority. However, as a matter of policy, OGE will not solicit or accept gifts of currency pursuant to this part. Donors who offer currency should be advised that the gift may be made by check or money order payable to the U.S. Office of Government Ethics.
+
+[68 FR 60594, Oct. 22, 2003, as amended at 80 FR 57072, Sept. 22, 2015]

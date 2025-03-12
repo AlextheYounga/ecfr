@@ -1,0 +1,5 @@
+##### § 412.76 Recovery of excess transition period payment amounts resulting from unlawful claims. #####
+
+If a hospital's base-year costs, as estimated for purposes of determining the hospital-specific portion, are determined, by criminal conviction or imposition of a civil money penalty or assessment, to include costs that were unlawfully claimed, the hospital's base-period costs are adjusted to remove the effect of the excess costs, and CMS recovers both the excess costs reimbursed for the base period and the additional amounts paid due to the inappropriate increase of the hospital-specific portion of the hospital's transition payment rates.
+
+[50 FR 12741, Mar. 29, 1985, as amended at 57 FR 39822, Sept. 1, 1992. Redesignated at 65 FR 47106, Aug. 1, 2000, and further redesignated at 73 FR 48754, Aug. 19, 2008]

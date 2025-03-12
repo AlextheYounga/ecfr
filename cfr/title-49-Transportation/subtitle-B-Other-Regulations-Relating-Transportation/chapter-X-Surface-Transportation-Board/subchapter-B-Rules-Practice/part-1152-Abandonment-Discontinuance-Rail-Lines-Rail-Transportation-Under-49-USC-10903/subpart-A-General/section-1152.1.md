@@ -1,0 +1,5 @@
+##### § 1152.1 Purpose and scope. #####
+
+(a) 49 U.S.C. 10903 *et seq.* governs abandonment of rail lines and discontinuance of rail service by common carriers. Section 10903(d) provides that no line of railroad may be abandoned and no rail service discontinued unless the Board finds that the present or future public convenience and necessity require or permit the abandonment or discontinuance.
+
+(b) Part 1152 contains regulations governing abandonment of, and discontinuance of service over, rail lines. This part also sets forth procedures for providing financial assistance to assure continued rail freight service under 49 U.S.C. 10904, for acquiring rail lines for alternate public use under 49 U.S.C. 10905, and for acquiring or using a rail right-of-way for interim trail use and rail banking.

@@ -1,0 +1,7 @@
+##### 14.402-1 Unclassified bids. #####
+
+(a) The bid opening officer shall decide when the time set for opening bids has arrived and shall inform those present of that decision. The officer shall then (1) personally and publicly open all bids received before that time, (2) if practical, read the bids aloud to the persons present, and (3) have the bids recorded. The original of each bid shall be carefully safeguarded, particularly until the abstract of bids required by 14.403 has been made and its accuracy verified.
+
+(b) Performance of the procedure in paragraph (a) above may be delegated to an assistant, but the bid opening officer remains fully responsible for the actions of the assistant.
+
+(c) Examination of bids by interested persons shall be permitted if it does not interfere unduly with the conduct of Government business. Original bids shall not be allowed to pass out of the hands of a Government official unless a duplicate bid is not available for public inspection. The original bid may be examined by the public only under the immediate supervision of a Government official and under conditions that preclude possibility of a substitution, addition, deletion, or alteration in the bid.

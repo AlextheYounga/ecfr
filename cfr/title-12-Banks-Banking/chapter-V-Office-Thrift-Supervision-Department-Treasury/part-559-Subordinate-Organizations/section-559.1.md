@@ -1,0 +1,5 @@
+##### § 559.1 What does this part cover? #####
+
+(a) OTS is issuing this part 559 pursuant to its general rulemaking and supervisory authority under the Home Owners' Loan Act, 12 U.S.C. 1462 *et seq.,* and its specific authority under section 18(m) of the Federal Deposit Insurance Act, 12 U.S.C. 1828(m). Subpart A of this part 559 applies to subordinate organizations of federal savings associations. Subpart B of this part applies to subordinate organizations of all savings associations. OTS may, at any time, limit a savings association's investment in any of these entities, or may limit or refuse to permit any activities of any of these entities for supervisory, legal, or safety and soundness reasons.
+
+(b) Notices under this part are applications for purposes of statutory and regulatory references to “applications.” Any conditions that OTS imposes in approving any application are enforceable as a condition imposed in writing by the OTS in connection with the granting of a request by a savings association within the meaning of 12 U.S.C. 1818(b) or 1818(i).

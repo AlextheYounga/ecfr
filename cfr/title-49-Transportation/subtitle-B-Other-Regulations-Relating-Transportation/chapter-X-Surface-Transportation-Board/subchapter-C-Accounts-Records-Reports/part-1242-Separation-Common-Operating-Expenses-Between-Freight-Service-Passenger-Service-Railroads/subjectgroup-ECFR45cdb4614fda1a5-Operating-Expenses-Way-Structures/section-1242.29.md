@@ -1,0 +1,3 @@
+##### § 1242.29 Fringe benefits (accounts 12-17-00, 12-18-00, and 12-19-00). #####
+
+Separate common expenses in the running subactivity in the same proportion as the salaries and wages, way and structures, common expenses in all accounts with a designated running subactivity. Separate common expenses in the switching subactivity in the same proportion as the salaries and wages, way and structure, common expense accounts with a designated switching activity. Separate common expenses in the other subactivity in the same proportion as the salaries and wages, way and structures, common expenses in all accounts with a designated other subactivity.

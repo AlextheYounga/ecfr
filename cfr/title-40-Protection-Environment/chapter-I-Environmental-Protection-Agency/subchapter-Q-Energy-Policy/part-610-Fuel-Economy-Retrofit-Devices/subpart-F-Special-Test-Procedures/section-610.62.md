@@ -1,0 +1,3 @@
+##### § 610.62 Driveability tests. #####
+
+Driveability assessment (at normal ambient temperatures) of the baseline configuration, of the adjusted configuration (if required by the Administrator), and of the fully retrofitted configuration may be conducted at zero device-miles for all vehicles included in the durability fleet, and at approximately zero device-miles at low ambient temperatures (0 °F-20 °F). Driveability evaluation procedures will be provided by the Administrator when necessary.

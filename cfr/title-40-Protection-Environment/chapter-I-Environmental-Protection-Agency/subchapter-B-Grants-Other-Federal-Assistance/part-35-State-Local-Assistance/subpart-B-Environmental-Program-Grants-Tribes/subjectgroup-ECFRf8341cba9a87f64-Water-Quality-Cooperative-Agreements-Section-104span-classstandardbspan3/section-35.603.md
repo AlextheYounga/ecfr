@@ -1,0 +1,3 @@
+##### § 35.603 Competitive process. #####
+
+EPA will award water quality cooperative agreement funds through a competitive process in accordance with national program guidance. After the competitive process is complete, the recipient can, at its discretion, accept the award as a separate cooperative agreement or add the funds to a Performance Partnership Grant. If the recipient chooses to add the funds to a Performance Partnership Grant, the water quality work plan commitments must be included in the Performance Partnership Grant work plan.

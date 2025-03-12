@@ -1,0 +1,3 @@
+##### § 236.314 Electric lock for hand-operated switch or derail. #####
+
+Electric lock shall be provided for each hand-operated switch or derail within interlocking limits, except where train movements are made at not exceeding 20 miles per hour. At manually operated interlocking it shall be controlled by operator of the machine and shall be unlocked only after signals governing movements over such switch or derail display aspects indicating stop. Approach or time locking shall be provided.

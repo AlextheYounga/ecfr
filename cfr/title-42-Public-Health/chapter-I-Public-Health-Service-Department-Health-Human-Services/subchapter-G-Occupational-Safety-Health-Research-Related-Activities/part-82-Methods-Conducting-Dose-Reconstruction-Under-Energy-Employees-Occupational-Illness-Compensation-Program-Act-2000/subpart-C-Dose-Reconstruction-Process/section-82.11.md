@@ -1,0 +1,3 @@
+##### § 82.11 For which claims under EEOICPA will NIOSH conduct a dose reconstruction? #####
+
+NIOSH will conduct a dose reconstruction for each claim determined by DOL to be a claim for a covered employee with cancer under DOL regulations at 20 CFR 30.210(b), subject to the limitation and exception noted in § 82.12. Claims for covered employees who are members of the Special Exposure Cohort seeking compensation for a specified cancer, as determined by DOL under 20 CFR 30.210(a), do not require and will not receive a dose reconstruction under this rule.

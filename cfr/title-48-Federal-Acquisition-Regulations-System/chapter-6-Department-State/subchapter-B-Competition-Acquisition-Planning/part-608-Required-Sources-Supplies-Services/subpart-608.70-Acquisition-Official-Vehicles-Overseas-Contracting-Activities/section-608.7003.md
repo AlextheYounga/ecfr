@@ -1,0 +1,7 @@
+##### 608.7003 Acquisitions on behalf of other Federal agencies. #####
+
+(a) *Acquisition of U.S. manufactured vehicles.* (1) GSA is the mandatory source for official vehicles purchased in the United States for all Federal agencies. Non-DOS agencies must have a waiver from GSA that allows them to acquire official vehicles from sources in the United States other than GSA, in accordance with the Federal Property Management Regulation, 41 CFR 101-38.104.
+
+(2) DOS overseas contracting activities shall not obtain GSA waivers or acquire vehicles through GSA or directly from sources in the United States on behalf of other agencies. Requests to acquire vehicles in this manner shall be returned to the requesting agency without action, and the agency instructed to use its own contracting personnel or GSA for this purpose.
+
+(b) *Acquisition from non-U.S. sources.* No GSA waiver is required for official vehicles purchased outside the United States from non-U.S. sources. Normal acquisition procedures shall be followed. However, contracting officers should be aware that statutory ceilings apply to the acquisition of passenger vehicles (*i.e.,* sedans and station wagons) (see P.L. 103-329), so other agencies shall not request that posts acquire vehicles without providing an analysis of how the price compares with this ceiling.

@@ -1,0 +1,3 @@
+##### 1845.501-70 General. #####
+
+(b) When the Industrial Property Officer or Property Administrator determines that the contractor's proposed systems, standards and practices for the management of Government property are inadequate to manage Government property, the Contracting Officer should: (1) Require the contractor to provide a written revision that addresses the determination of the Industrial Property Officer or Property Administrator.

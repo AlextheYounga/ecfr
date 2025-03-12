@@ -1,0 +1,11 @@
+##### § 2.327 Official recording; transcript. #####
+
+(a) *Recording hearings.* A hearing will be recorded stenographically or by other means under the supervision of the presiding officer. If the hearing is recorded on videotape or some other video medium, before an official transcript is prepared under paragraph (b) of this section, that video recording will be considered to constitute the record of events at the hearing.
+
+(b) *Official transcript.* For each hearing, a transcript will be prepared from the recording made in accordance with paragraph (a) of this section that will be the sole official transcript of the hearing. The transcript will be prepared by an official reporter who may be designated by the Commission or may be a regular employee of the Commission. Except as limited by section 181 of the Act or order of the Commission, the transcript will be available for inspection in the agency's public records system.
+
+(c) *Availability of copies.* Copies of transcripts prepared in accordance with paragraph (b) of this section are available to the parties and to the public from the official reporter on payment of the charges fixed therefor. If a hearing is recorded on videotape or other video medium, copies of the recording of each daily session of the hearing may be made available to the parties and to the public from the presiding officer upon payment of a charge specified by the Chief Administrative Judge.
+
+(d) *Transcript corrections.* Corrections ordered or approved by the presiding officer must be included in the record through the issuance of an order by the presiding officer or the Secretary, as appropriate under the regulations in this part. The order shall reflect the corrections to the transcript through the use of a table, the issuance of a corrected or new transcript, or some other method selected by the presiding officer that will ensure a clear and concise description of the corrections.
+
+[69 FR 2236, Jan. 14, 2004, as amended at 81 FR 47006, July 20, 2016]

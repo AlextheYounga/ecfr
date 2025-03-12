@@ -1,0 +1,5 @@
+##### § 412.12 Effluent limitations attainable by the application of the best practicable control technology currently available (BPT). #####
+
+(a) Except as provided in 40 CFR 125.30 through 125.32, and subject to the provisions of paragraph (b) of this section, any existing point source subject to this subpart must achieve the following effluent limitations representing the application of BPT: There shall be no discharge of process waste water pollutants to navigable waters.
+
+(b) Process waste pollutants in the overflow may be discharged to navigable waters whenever rainfall events, either chronic or catastrophic, cause an overflow of process waste water from a facility designed, constructed and operated to contain all process generated waste waters plus the runoff from a 10-year, 24-hour rainfall event for the location of the point source.

@@ -1,0 +1,3 @@
+##### § 250.1631 Safety device training. #####
+
+Prior to engaging in production operations on a lease and periodically thereafter, personnel installing, inspecting, testing, and maintaining safety devices shall be instructed in the safety requirements of the operations to be performed; possible hazards to be encountered; and general safety considerations to be taken to protect personnel, equipment, and the environment. Date and time of safety meetings shall be recorded and available for BSEE review.

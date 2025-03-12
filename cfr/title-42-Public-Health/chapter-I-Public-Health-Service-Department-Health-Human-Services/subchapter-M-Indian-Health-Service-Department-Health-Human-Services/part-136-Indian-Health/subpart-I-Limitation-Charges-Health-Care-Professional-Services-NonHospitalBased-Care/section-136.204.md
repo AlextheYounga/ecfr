@@ -1,0 +1,3 @@
+##### § 136.204 Authorization by an urban Indian organization. #####
+
+An urban Indian organization may authorize for purchase items and services for an eligible urban Indian as those terms are defined in 25 U.S.C. 1603(f) and (h) according to section 503 of the IHCIA and applicable regulations. Services and items furnished by physicians and other health care professionals and non-hospital-based entities shall be subject to the payment methodology set forth in § 136.203.

@@ -1,0 +1,7 @@
+##### § 67.21 Federal notice of noncompliance to owners or operators of sources in States with approved programs. #####
+
+(a) The Administrator shall issue a notice of noncompliance to the owner or operator of any source in a State with an approved program if he determines that the State or its local agent has failed to issue such notice, provided that he shall first give 30 days notice to the State of his intent to issue a notice of noncompliance to the owner or operator of the source in question unless the State or its agent does so first. Any notice issued by the Administrator pursuant to this section shall be deemed to be issued pursuant to the provisions of part 66.
+
+(b) The issuance of a notice of noncompliance shall operate to withdraw EPA delegation of authority to the State with respect to the particular facility in question.
+
+(c) If the Administrator determines that the State or local agent has issued a notice of noncompliance but has failed to pursue diligently subsequent steps for the assessment and collection of the penalty, he shall notify the State of his intent to withdraw delegation of authority to the State with respect to the facility in question and take appropriate actions pursuant to part 66 unless the State or local agent, within 30 days, takes appropriate action in accordance with the requirements of this part. In either case the penalty will be calculated from the date of the State notice.

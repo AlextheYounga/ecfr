@@ -1,0 +1,3 @@
+##### § 2100.1 Purpose. #####
+
+Pursuant to the requirements of the Privacy Act of 1974, 5 U.S.C. 552a, as amended, the following rules of procedures are established with respect to access and amendment of records maintained on the individual subjects of these records by the Armed Forces Retirement Home, which includes the continuing care retirement communities of the U.S. Soldiers' and Airmen's Home and the U.S. Naval Home. These rules do not apply to civilian employees' records maintained by the individual facilities which are covered by the Office of Personnel Management systems of records.

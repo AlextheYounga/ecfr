@@ -1,0 +1,3 @@
+##### § 594.2 Purpose. #####
+
+The purposes of this part is to ensure that NHTSA is reimbursed for costs incurred in administering the importer registration program, in making determinations whether a nonconforming vehicle is eligible for importation into the United States, and in processing the bond furnished to the Secretary of the Treasury given to ensure that an imported vehicle not originally manufactured to conform to all applicable Federal motor vehicle safety standards is brought into compliance with the safety standards, or will be exported, or abandoned to the United States.

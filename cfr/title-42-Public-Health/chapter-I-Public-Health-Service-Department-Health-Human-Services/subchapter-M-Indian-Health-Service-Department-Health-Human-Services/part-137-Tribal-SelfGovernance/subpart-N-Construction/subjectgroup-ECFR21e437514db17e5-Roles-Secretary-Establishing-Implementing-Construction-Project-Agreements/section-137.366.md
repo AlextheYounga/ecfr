@@ -1,0 +1,3 @@
+##### § 137.366 May the Secretary conduct onsite project oversight visits? #####
+
+Yes, the Secretary may conduct onsite project oversight visits semiannually or on an alternate schedule negotiated in the construction project agreement. The Secretary must provide the Self-Governance Tribe with reasonable advance written notice to assist the Self-Governance Tribe in coordinating the visit. The purpose of the visit is review the progress under the construction project agreement. At the request of the Self-Governance Tribe, the Secretary must provide the Self-Governance Tribe a written site visit report.

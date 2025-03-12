@@ -1,0 +1,3 @@
+##### § 90.10 Notice and comment period. #####
+
+Following internal review by ATSDR and external peer review of a draft final report of the results of a health effects study, ATSDR will publish a notice that the draft final report is available for public review and comment. At a minimum, the notice shall be published in at least one newspaper of general distribution in the local where the site is located. The notice shall describe how copies of the draft final report of the health effects study can be obtained and set a reasonable time period for interested persons to submit comments concerning the study. ATSDR may, at its discretion, respond in writing to comments it receives.

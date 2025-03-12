@@ -1,0 +1,3 @@
+##### § 375.34 Indoctrination training. #####
+
+Foreign civil aircraft may be operated in the United States for the purpose of giving indoctrination training in the operation of the aircraft concerned to a buyer or a buyer's employees or designees. This section does not, however, authorize foreign civil aircraft to be used within the United States for the purpose of flight instruction for remuneration or hire.

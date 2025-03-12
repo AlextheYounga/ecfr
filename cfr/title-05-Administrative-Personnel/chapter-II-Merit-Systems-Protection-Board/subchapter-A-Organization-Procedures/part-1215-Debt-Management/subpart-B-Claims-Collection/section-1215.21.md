@@ -1,0 +1,3 @@
+##### § 1215.21 Purpose and scope. #####
+
+This part prescribes standards and procedures for officers and employees of the MSPB who are responsible for the collection and disposition of debts owed to the United States. The activities covered include: Collecting claims in any amount; compromising claims, or suspending or terminating the collection of claims that do not exceed $20,000 exclusive of interest and charges; and referring debts that cannot be disposed of by the MSPB to the Department of Justice or to the General Accounting Office for further administrative action or litigation.

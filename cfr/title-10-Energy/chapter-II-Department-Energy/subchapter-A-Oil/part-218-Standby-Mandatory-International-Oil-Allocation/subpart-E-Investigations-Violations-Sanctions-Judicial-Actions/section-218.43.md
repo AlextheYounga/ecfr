@@ -1,0 +1,3 @@
+##### § 218.43 Injunctions. #####
+
+Whenever it appears to the DOE that any firm has engaged, is engaging, or is about to engage in any act or practice constituting a violation of any regulation or order issued under this part 218, the DOE may request the Attorney General to bring a civil action in the appropriate district court of the United States to enjoin such acts or practices and, upon a proper showing, a temporary restraining order or a preliminary or permanent injunction shall be granted without bond. The relief sought may include a mandatory injunction commanding any firm to comply with any provision of such order or regulation, the violation of which is prohibited by section 524 of the EPCA.

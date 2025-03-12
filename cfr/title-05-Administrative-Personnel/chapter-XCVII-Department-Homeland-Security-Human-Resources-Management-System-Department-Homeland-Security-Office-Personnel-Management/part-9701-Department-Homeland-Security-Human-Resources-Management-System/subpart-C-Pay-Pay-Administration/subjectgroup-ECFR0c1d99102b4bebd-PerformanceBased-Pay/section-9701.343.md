@@ -1,0 +1,3 @@
+##### § 9701.343 Within-band reductions. #####
+
+Subject to the adverse action procedures set forth in subpart F of this part, DHS may reduce an employee's rate of basic pay within a band for unacceptable performance or conduct. A reduction under this section may not be more than 10 percent or cause an employee's rate of basic pay to fall below the minimum rate of the employee's band rate range. Such a reduction may be made effective at any time.

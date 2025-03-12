@@ -1,0 +1,5 @@
+##### § 1242.53 Joint facility rents—debit and credit and joint facility—debit and credit (accounts 33-27-00, 34-27-00, 37-27-00 and 38-27-00). #####
+
+(a) Solely related freight and passenger service debit expense accounts shall be assigned according to the use made of each facility by the reporting carrier, regardless of the use made of the facility by other carriers. Common debit expense accounts shall be separated on the basis of the percentage separation of the solely related expenses in each individual account. If there are no solely related expenses or if the solely related expenses are assigned entirely to freight or passenger service, separate common expenses on the same percentages calculated for the separation of administration (account XX-27-01).
+
+(b) Separate all common credit expense accounts on the basis of the same percentages calculated for the separation of administration (account XX-27-01).

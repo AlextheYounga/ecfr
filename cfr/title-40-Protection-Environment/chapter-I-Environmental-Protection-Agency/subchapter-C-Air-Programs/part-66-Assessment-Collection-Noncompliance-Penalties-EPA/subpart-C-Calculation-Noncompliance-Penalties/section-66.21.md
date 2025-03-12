@@ -1,0 +1,5 @@
+##### § 66.21 How to calculate the penalty. #####
+
+(a) All noncompliance penalties shall be calculated in accordance with the Technical Support Document and the Manual.
+
+(b) Where the Administrator determines that no existing technology or other emissions control method results in emission levels which satisfy the applicable legal requirement, the penalty calculation shall be based on the cost of the capital equipment, operation and maintenance practices, or other methods of control which best approximates the degree of control required. In such a case, the Administrator may include in the penalty the costs of participation in an EPA approved research and development program where he determines that such participation would be appropriate. Information on appropriate research and development programs will be available from the regional offices or from the Office of Research and Development.

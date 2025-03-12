@@ -1,0 +1,9 @@
+##### § 1.734 Specifications as to pleadings, briefs, and other documents; subscription. #####
+
+(a) All papers filed in any formal complaint proceeding must be drawn in conformity with the requirements of §§ 1.49 and 1.50.
+
+(b) All averments of claims or defenses in complaints and answers shall be made in numbered paragraphs. The contents of each paragraph shall be limited as far as practicable to a statement of a single set of circumstances. Each claim founded on a separate transaction or occurrence and each affirmative defense shall be separately stated to facilitate the clear presentation of the matters set forth.
+
+(c) The original of all pleadings and other submissions filed by any party shall be signed by the party, or by the party's attorney. The signing party shall include in the document his or her address, telephone number, email address, and the date on which the document was signed. Copies should be conformed to the original. Unless specifically required by rule or statute, pleadings need not be verified. The signature of an attorney or party, in accordance with the requirements of § 1.52, shall be a certificate that the attorney or party has read the pleading, motion, or other paper; that to the best of his or her knowledge, information, and belief formed after reasonable inquiry, it is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law; and that it is not interposed solely for purposes of delay or for any other improper purpose.
+
+[53 FR 11855, Apr. 11, 1988. Redesignated at 58 FR 25573, Apr. 27, 1993, as amended at 63 FR 1040, Jan. 7, 1998; 79 FR 73846, Dec. 12, 2014]

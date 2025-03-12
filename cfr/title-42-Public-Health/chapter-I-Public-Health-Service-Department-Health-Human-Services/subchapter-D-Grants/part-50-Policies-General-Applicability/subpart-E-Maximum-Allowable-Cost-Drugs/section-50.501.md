@@ -1,0 +1,3 @@
+##### § 50.501 Applicability. #####
+
+This subpart is applicable to programs or projects for health services which are supported in whole or in part by Federal financial assistance, whether by grant or contract, administered by the Public Health Service. It applies to Federal funds and to non-Federal funds which are required to be expended as a condition to receiving Federal funds under such programs or projects.

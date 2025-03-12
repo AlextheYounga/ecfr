@@ -1,0 +1,13 @@
+##### § 350.9 Initial action by EPA. #####
+
+(a) When a claim of trade secrecy, made in accordance with § 350.5 of this part, is received by EPA, that information is treated as confidential until a contrary determination is made.
+
+(b) A determination as to the validity of a trade secrecy claim shall be initiated upon receipt by EPA of a petition under § 350.15 or may be initiated at any time by EPA if EPA desires to determine whether chemical identity information claimed as trade secret is entitled to trade secret treatment, even though no request for release of the information has been received.
+
+(c) If EPA initiates a determination as to the validity of a trade secrecy claim, the procedures set forth in §§ 350.11, 350.15, and 350.17 shall be followed in making the determination.
+
+(d) When EPA receives a petition requesting disclosure of trade secret chemical identity or if EPA decides to initiate a determination of the validity of a trade secrecy claim for chemical identity, EPA shall first make a determination that the chemical identity claimed as trade secret is not the subject of a prior trade secret determination by EPA concerning the same submitter and facility, or if it is, that the prior determination upheld the submitter's claim of trade secrecy for that chemical identity at that facility.
+
+(1) If EPA determines that the chemical identity claimed as trade secret is not the subject of a prior trade secret determination by EPA concerning the same submitter and the same facility, or if it is, that the prior determination upheld the submitter's claim of trade secrecy, then EPA shall review the submitter's claim according to § 350.1l.
+
+(2) If such a prior determination held that the submitter's claim for that chemical identity is invalid, and such determination was not challenged by appeal to the General Counsel, or by review in the District Court, or, if challenged, was upheld, EPA shall notify the submitter by certified mail (return receipt requested) that the chemical identity claimed as trade secret is the subject of a prior, final Agency determination concerning the same facility in which it was held that such a claim was invalid. In this notification EPA shall include notice of intent to disclose chemical identity within 10 days pursuant to § 350.18(c) of this subpart. EPA shall also notify the petitioner by regular mail of the action taken pursuant to this section.

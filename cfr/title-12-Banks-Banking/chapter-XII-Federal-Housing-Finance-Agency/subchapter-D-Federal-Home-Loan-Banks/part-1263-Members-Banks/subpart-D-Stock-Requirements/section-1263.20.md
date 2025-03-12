@@ -1,0 +1,7 @@
+##### § 1263.20 Stock purchase. #####
+
+(a) *Minimum purchase requirement.* An institution that has been approved for membership in a Bank as provided in this part shall become a member of that Bank upon purchasing the amount of stock required under the membership stock purchase provisions of that Bank's capital structure plan. If an institution fails to purchase the minimum amount of stock required for membership within 60 calendar days after the date on which it is approved for membership, the membership approval shall become void and that institution may not become a member of that Bank until after it has filed a new application and the Bank has approved that application pursuant to the requirements of this part.
+
+(b) *Issuance of stock.* After approving an institution for membership, and in return for payment in full of the par value, a Bank shall issue to that institution the amount of capital stock required to be purchased under the Bank's capital structure plan.
+
+(c) *Reports.* Each Bank shall report to FHFA information regarding the minimum investment in Bank capital stock made by each new member referred to in paragraph (a) of this section, in accordance with the instructions provided in the Data Reporting Manual.

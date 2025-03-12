@@ -1,0 +1,9 @@
+##### § 64.10 Savings provisions. #####
+
+(a) Nothing in this part shall:
+
+(1) Excuse the owner or operator of a source from compliance with any existing emission limitation or standard, or any existing monitoring, testing, reporting or recordkeeping requirement that may apply under federal, state, or local law, or any other applicable requirements under the Act. The requirements of this part shall not be used to justify the approval of monitoring less stringent than the monitoring which is required under separate legal authority and are not intended to establish minimum requirements for the purpose of determining the monitoring to be imposed under separate authority under the Act, including monitoring in permits issued pursuant to title I of the Act. The purpose of this part is to require, as part of the issuance of a permit under title V of the Act, improved or new monitoring at those emissions units where monitoring requirements do not exist or are inadequate to meet the requirements of this part.
+
+(2) Restrict or abrogate the authority of the Administrator or the permitting authority to impose additional or more stringent monitoring, recordkeeping, testing, or reporting requirements on any owner or operator of a source under any provision of the Act, including but not limited to sections 114(a)(1) and 504(b), or state law, as applicable.
+
+(3) Restrict or abrogate the authority of the Administrator or permitting authority to take any enforcement action under the Act for any violation of an applicable requirement or of any person to take action under section 304 of the Act.

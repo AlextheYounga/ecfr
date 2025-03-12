@@ -1,0 +1,21 @@
+##### § 1065.518 Engine preconditioning. #####
+
+(a) This section applies for engines where measured emissions are affected by prior operation, such as with a diesel engine that relies on urea-based selective catalytic reduction. Note that § 1065.520(e) allows you to run practice duty cycles before the emission test; this section recommends how to do this for the purpose of preconditioning the engine. Follow the standard-setting part if it specifies a different engine preconditioning procedure.
+
+(b) The intent of engine preconditioning is to manage the representativeness of emissions and emission controls over the duty cycle and to reduce bias.
+
+(c) This paragraph (c) specifies the engine preconditioning procedures for different types of duty cycles. You must identify the amount of preconditioning before starting to precondition. You must run the predefined amount of preconditioning. You may measure emissions during preconditioning. You may not abort an emission test sequence based on emissions measured during preconditioning. For confirmatory testing, you may ask us to run more preconditioning cycles than we specify in this paragraph (c); we will agree to this only if you show that additional preconditioning cycles are required to meet the intent of paragraph (b) of this section, for example, due to the effect of DPF regeneration on NH3 storage in the SCR catalyst. Perform preconditioning as follows, noting that the specific cycles for preconditioning are the same ones that apply for emission testing:
+
+(1) *Cold-start transient cycle.* Precondition the engine by running at least one hot-start transient cycle. We will precondition your engine by running two hot-start transient cycles. Immediately after completing each preconditioning cycle, shut down the engine and complete the engine-off soak period. Immediately after completing the last preconditioning cycle, shut down the engine and begin the cold soak as described in § 1065.530(a)(1).
+
+(2) *Hot-start transient cycle.* Precondition the engine by running at least one hot-start transient cycle. We will precondition your engine by running two hot-start transient cycles. Immediately after completing each preconditioning cycle, shut down the engine, then start the next cycle (including the emission test) as soon as practical. For any repeat cycles, start the next cycle within 60 seconds after completing the last preconditioning cycle (this is optional for manufacturer testing).
+
+(3) *Hot-running transient cycle.* Precondition the engine by running at least one hot-running transient cycle. We will precondition your engine by running two hot-running transient cycles. Do not shut down the engine between cycles. Immediately after completing each preconditioning cycle, start the next cycle (including the emission test) as soon as practical. For any repeat cycles, start the next cycle within 60 seconds after completing the last preconditioning cycle (this is optional for manufacturer testing). See § 1065.530(a)(1)(iii) for additional instructions if the cycle begins and ends under different operating conditions.
+
+(4) *Discrete-mode cycle for steady-state testing.* Precondition the engine at the same operating condition as the next test mode, unless the standard-setting part specifies otherwise. We will precondition your engine by running it for at least five minutes before sampling.
+
+(5) *Ramped-modal cycle for steady-state testing.* Precondition the engine by running at least the second half of the ramped-modal cycle, based on the number of test modes. For example, for the five-mode cycle specified in 40 CFR 1039.505(b)(1), the second half of the cycle consists of modes three through five. We will precondition your engine by running one complete ramped-modal cycle. Do not shut down the engine between cycles. Immediately after completing each preconditioning cycle, start the next cycle (including the emission test) as soon as practical. For any repeat cycles, start the next cycle within 60 seconds after completing the last preconditioning cycle. See § 1065.530(a)(1)(iii) for additional instructions if the cycle begins and ends under different operating conditions.
+
+(d) You may conduct calibrations or verifications on any idle equipment or analyzers during engine preconditioning.
+
+[79 FR 23774, Apr. 28, 2014]

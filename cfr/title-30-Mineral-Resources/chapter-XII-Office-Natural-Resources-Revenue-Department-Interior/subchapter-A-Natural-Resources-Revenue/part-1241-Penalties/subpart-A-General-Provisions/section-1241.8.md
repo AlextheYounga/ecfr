@@ -1,0 +1,3 @@
+##### § 1241.8 How will DCHD conduct the hearing on the record? #####
+
+If you request a hearing on the record under § 1241.7, an ALJ will conduct the hearing under the provisions of 43 CFR 4.420 through 4.438, except when the provisions are inconsistent with the provisions of this part. We have the burden of proving, by a preponderance of the evidence, the fact of the violation and the basis for the amount of the civil penalty. Upon completion of the hearing, the ALJ will issue a decision according to the evidence presented and the applicable law.

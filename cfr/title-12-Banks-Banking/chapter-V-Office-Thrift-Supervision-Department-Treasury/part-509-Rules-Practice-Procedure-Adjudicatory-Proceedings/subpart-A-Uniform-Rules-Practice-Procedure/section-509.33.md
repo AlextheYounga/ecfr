@@ -1,0 +1,7 @@
+##### § 509.33 Public hearings. #####
+
+(a) *General rule.* All hearings shall be open to the public, unless the Director, in the Director's discretion, determines that holding an open hearing would be contrary to the public interest. Within 20 days of service of the notice or, in the case of change-in-control proceedings under section 7(j)(4) of the FDIA (12 U.S.C. 1817(j)(4)), within 20 days from service of the hearing order, any respondent may file with the Director a request for a private hearing, and any party may file a reply to such a request. A party must serve on the administrative law judge a copy of any request or reply the party files with the Director. The form of, and procedure for, these requests and replies are governed by § 509.23 of this subpart. A party's failure to file a request or a reply constitutes a waiver of any objections regarding whether the hearing will be public or private.
+
+(b) *Filing document under seal.* Enforcement Counsel, in his or her discretion, may file any document or part of a document under seal if disclosure of the document would be contrary to the public interest. The administrative law judge shall take all appropriate steps to preserve the confidentiality of such documents or parts thereof, including closing portions of the hearing to the public.
+
+[56 FR 38306, Aug. 12, 1991, as amended at 61 FR 20355, May 6, 1996]

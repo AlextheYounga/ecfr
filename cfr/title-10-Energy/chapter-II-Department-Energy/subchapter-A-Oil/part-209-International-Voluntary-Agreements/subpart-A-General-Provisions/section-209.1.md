@@ -1,0 +1,3 @@
+##### § 209.1 Purpose and scope. #####
+
+This part implements the provisions of the Energy Policy and Conservation Act (EPCA) authorizing the Administrator to prescribe standards and procedures by which persons engaged in the business of producing, transporting, refining, distributing, or storing petroleum may develop and carry out voluntary agreements, and plans of action which are required to implement the information and allocation provisions of the International Energy Program (IEP). The requirements of this part do not apply to activities other than those for which section 252 of EPCA makes available a defense to the antitrust laws.

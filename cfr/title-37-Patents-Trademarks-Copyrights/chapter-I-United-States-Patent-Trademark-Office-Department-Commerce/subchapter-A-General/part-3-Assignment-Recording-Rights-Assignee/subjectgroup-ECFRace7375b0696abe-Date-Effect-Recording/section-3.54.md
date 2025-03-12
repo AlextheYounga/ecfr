@@ -1,0 +1,3 @@
+##### § 3.54 Effect of recording. #####
+
+The recording of a document pursuant to § 3.11 is not a determination by the Office of the validity of the document or the effect that document has on the title to an application, a patent, or a registration. When necessary, the Office will determine what effect a document has, including whether a party has the authority to take an action in a matter pending before the Office.

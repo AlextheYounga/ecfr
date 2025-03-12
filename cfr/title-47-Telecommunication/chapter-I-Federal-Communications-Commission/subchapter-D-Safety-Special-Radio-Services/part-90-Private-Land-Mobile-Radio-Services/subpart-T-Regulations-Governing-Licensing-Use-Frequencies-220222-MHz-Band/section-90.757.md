@@ -1,0 +1,7 @@
+##### § 90.757 Construction requirements. #####
+
+(a) Except as provided in paragraph (b) of this section, a Phase I non-nationwide licensee that is granted modification of its authorization to relocate its base station must construct its base station and place it in operation, or commence service, on all authorized channels on or before August 15, 1996, or within 12 months of initial grant date, whichever is later. The authorization of a licensee that does not construct its base station and place it in operation, or commence service, by this date, cancels automatically and must be returned to the Commission.
+
+(b) A Phase I non-nationwide licensee with a base station authorized at a location north of Line A must construct its base station and place it in operation, or commence service, on all authorized channels within 12 months of initial grant date, or within 12 months of the date of the release of the terms of an agreement between the United States and Canadian governments on the sharing of 220-222 MHz spectrum between the two countries, whichever is later. The authorization of a licensee that does not construct its base station and place it in operation, or commence service, by this date, cancels automatically and must be returned to the Commission.
+
+[61 FR 3845, Feb. 2, 1996]

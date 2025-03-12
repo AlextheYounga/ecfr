@@ -1,0 +1,7 @@
+##### § 96.53 Recordation of NOX allowance allocations. #####
+
+(a) The Administrator will record the NOX allowances for 2003 in the NOX Budget units' compliance accounts and the allocation set-asides, as allocated under subpart E of this part. The Administrator will also record the NOX allowances allocated under § 96.88(a)(1) for each NOX Budget opt-in source in its compliance account.
+
+(b) Each year, after the Administrator has made all deductions from a NOX Budget unit's compliance account and the overdraft account pursuant to § 96.54, the Administrator will record NOX allowances, as allocated to the unit under subpart E of this part or under § 96.88(a)(2), in the compliance account for the year after the last year for which allowances were previously allocated to the compliance account. Each year, the Administrator will also record NOX allowances, as allocated under subpart E of this part, in the allocation set-aside for the year after the last year for which allowances were previously allocated to an allocation set-aside.
+
+(c) *Serial numbers for allocated NO*X*allowances.* When allocating NOX allowances to and recording them in an account, the Administrator will assign each NOX allowance a unique identification number that will include digits identifying the year for which the NOX allowance is allocated.

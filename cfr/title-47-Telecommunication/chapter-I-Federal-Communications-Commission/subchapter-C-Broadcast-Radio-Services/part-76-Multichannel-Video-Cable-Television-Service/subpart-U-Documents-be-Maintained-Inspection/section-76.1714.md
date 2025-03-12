@@ -1,0 +1,7 @@
+##### § 76.1714 FCC rules and regulations. #####
+
+(a) The operator of a cable television system shall have a current copy of part 76 and, if subject to the Emergency Alert System (EAS) rules contained in part 11 of this chapter, an EAS Operating Handbook, and is expected to be familiar with the rules governing cable television systems and the EAS. Copies of the Commission's rules may be obtained from the Superintendent of Documents, Government Printing Office, Washington, DC 20402, at nominal cost. Copies of the EAS Operating Handbook may be obtained from the Commission's EAS staff, in Washington, DC.
+
+(b) The provisions of paragraph (a) of this section are not applicable to any cable television system serving fewer than 1000 subscribers.
+
+(c) The licensee of a cable television relay station (CARS) shall have a current copy of part 78 of this chapter, and, in cases where aeronautical obstruction markings of antennas is required, part 17 of this chapter shall be available for use by the operator in charge. Both the licensee and the operator or operators responsible for the proper operation of the station are expected to be familiar with the rules governing cable television relay stations. Copies of the Commission's rules may be obtained from the Superintendent of Documents, Government Printing Office, Washington, DC 20402, at nominal cost.

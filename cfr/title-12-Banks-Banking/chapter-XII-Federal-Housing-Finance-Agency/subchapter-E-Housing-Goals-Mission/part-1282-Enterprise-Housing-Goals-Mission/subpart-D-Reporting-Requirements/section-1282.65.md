@@ -1,0 +1,7 @@
+##### § 1282.65 Enterprise data integrity. #####
+
+(a) *Certification.* (1) The senior officer of each Enterprise who is responsible for submitting the fourth quarter Annual Mortgage Report and the AHAR under sections 309(m) and (n) of the Fannie Mae Charter Act or sections 307(e) and (f) of the Freddie Mac Act, as applicable, or for submitting any other report(s), data or information for which certification is requested in writing by the Director, shall certify such report(s), data or information.
+
+(2) The certification shall state as follows: “To the best of my knowledge and belief, the information provided herein is true, correct and complete.”
+
+(b) *Adjustment to correct errors, omissions or discrepancies in AHAR data.* FHFA shall determine the official housing goal performance figure for each Enterprise under the housing goals on an annual basis. FHFA may resolve any error, omission or discrepancy by adjusting the Enterprise's official housing goal performance figure. If the Director determines that the year-end data reported by an Enterprise for a year preceding the latest year for which data on housing goals performance was reported to FHFA contained a material error, omission or discrepancy, the Director may increase the corresponding housing goal for the current year by the number of mortgages (or dwelling units) that the Director determines were overstated in the prior year's goal performance.

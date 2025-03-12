@@ -1,0 +1,5 @@
+##### § 6.1 Purpose of these rules. #####
+
+The Equal Access to Justice Act, 5 U.S.C. 504 (called “the Act” in this part), provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (called “adversary adjudications”) before government agencies, such as the Department of Transportation or any of its operating administrations. The rules in this part describe the parties eligible for awards and the proceedings that are covered. They also explain how to apply for awards, and the procedures and standards that this agency will use to make them. The use of the term “Department”, in this rule, will be understood to mean the Department of Transportation or any of its operating administrations, unless otherwise specified. The term “agency counsel” will be understood to mean counsel for the Department of Transportation or any of its operating administrations.
+
+[48 FR 1070, Jan. 10, 1983, as amended at 62 FR 19233, Apr. 21, 1997]

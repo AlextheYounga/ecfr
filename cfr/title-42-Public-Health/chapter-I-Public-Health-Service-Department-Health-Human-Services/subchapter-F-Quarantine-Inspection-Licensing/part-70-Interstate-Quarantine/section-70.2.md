@@ -1,0 +1,3 @@
+##### § 70.2 Measures in the event of inadequate local control. #####
+
+Whenever the Director of the Centers for Disease Control and Prevention determines that the measures taken by health authorities of any State or possession (including political subdivisions thereof) are insufficient to prevent the spread of any of the communicable diseases from such State or possession to any other State or possession, he/she may take such measures to prevent such spread of the diseases as he/she deems reasonably necessary, including inspection, fumigation, disinfection, sanitation, pest extermination, and destruction of animals or articles believed to be sources of infection.

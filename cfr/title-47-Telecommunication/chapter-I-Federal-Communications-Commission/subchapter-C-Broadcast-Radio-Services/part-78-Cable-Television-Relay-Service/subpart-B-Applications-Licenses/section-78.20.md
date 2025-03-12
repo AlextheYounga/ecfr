@@ -1,0 +1,9 @@
+##### § 78.20 Acceptance of applications; public notice. #####
+
+(a) Applications which are tendered for filing are dated upon receipt and then forwarded to the Media Bureau where an examination is made to ascertain whether the applications are complete. Applications found to be complete or substantially complete, are accepted for filing and are given a file number. In case of minor defects as to completeness, the applicant will be required to supply the missing information. Applications which are not substantially complete will be returned to the applicant. Applications requiring fees as set forth at part 1, subpart G, of this chapter must be filed in accordance with § 0.401(b) of this chapter.
+
+(b) Acceptance of an application for filing means only that it has been the subject of a preliminary review by the Commission's administrative staff as to completeness. Applications which are determined to be clearly not in accordance with the Commission's rules or other requirements, unless accompanied by an appropriate request for waiver, will be considered defective and will not be accepted for filing, or if inadvertently accepted for filing, will be dismissed. Requests for waiver shall show the nature of the waiver or exception desired and shall set forth the reasons in support thereof.
+
+(c) The Commission will give public notice of all applications and major amendments thereto which have been accepted for filing. No application shall be acted on less than thirty (30) days from the date of public notice.
+
+[37 FR 15926, Aug. 8, 1972, as amended at 52 FR 10231, Mar. 31, 1987; 67 FR 13235, Mar. 21, 2002; 68 FR 27004, May 19, 2003]

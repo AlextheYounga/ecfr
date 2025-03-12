@@ -1,0 +1,3 @@
+##### § 630.1109 Donating annual leave. #####
+
+An employee may voluntarily submit a written request to his or her agency that a specified number of hours of his or her accrued annual leave, consistent with the limitations in § 630.1110, be transferred from his or her annual leave account to an emergency leave transfer program established under § 630.1103. An emergency leave donor may not donate annual leave for transfer to a specific emergency leave recipient under this subpart. Donated annual leave not used by an emergency leave recipient must be returned to the emergency leave donor(s) and/or leave banks as provided in § 630.1117.

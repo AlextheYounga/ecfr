@@ -1,0 +1,3 @@
+##### § 164.130 General. #####
+
+EPA has determined that any application under section 3 or section 18 of the Act to allow use of a pesticide at a site and on a pest for which registration has been finally cancelled or suspended by the Administrator constitutes a petition for reconsideration of such order. Because of the extensive notice and hearing opportunities mandated by FIFRA and the Administrative Procedures Act before a final cancellation or suspension order may be issued, EPA has determined that such orders may not be reversed or modified without affording interested parties—who may in fact have participated in lengthy cancellation proceedings—similar notice and hearing opportunities. The procedures set forth in this subpart D shall govern all such applications.

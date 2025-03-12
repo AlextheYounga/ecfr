@@ -1,0 +1,7 @@
+##### § 82.0 Background information on this part. #####
+
+The Energy Employees Occupational Illness Compensation Program Act (EEOICPA), 42 U.S.C. 7384-7385 [1994, supp. 2001], provides for the payment of compensation benefits to covered employees and, where applicable, survivors of such employees, of the United States Department of Energy (“DOE”), its predecessor agencies and certain of its contractors and subcontractors. Among the types of illnesses for which compensation may be provided are cancers. There are two categories of covered employees with cancer under EEOICPA for whom compensation may be provided. The regulations that follow under this part apply only to the category of employees described under paragraph (a) of this section.
+
+(a) One category is employees with cancer for whom a dose reconstruction must be conducted, as required under 20 CFR 30.115.
+
+(b) The second category is members of the Special Exposure Cohort seeking compensation for a specified cancer, as defined under EEOICPA. The U.S. Department of Labor (DOL) which has primary authority for implementing EEOICPA, has promulgated regulations at 20 CFR 30.210 and 30.213 that identify current members of the Special Exposure Cohort and requirements for compensation. Pursuant to section 3626 of EEOICPA, the Secretary of HHS is authorized to add additional classes of employees to the Special Exposure Cohort.

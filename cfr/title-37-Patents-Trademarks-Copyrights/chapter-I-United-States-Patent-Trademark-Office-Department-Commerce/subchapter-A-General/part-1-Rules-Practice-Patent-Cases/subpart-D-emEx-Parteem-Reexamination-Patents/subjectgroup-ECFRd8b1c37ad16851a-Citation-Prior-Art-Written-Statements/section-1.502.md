@@ -1,0 +1,5 @@
+##### § 1.502 Processing of prior art citations during an ex parte reexamination proceeding. #####
+
+Citations by the patent owner under § 1.555 and by an *ex parte* reexamination requester under either § 1.510 or § 1.535 will be entered in the reexamination file during a reexamination proceeding. The entry in the patent file of citations submitted after the date of an order to reexamine pursuant to § 1.525 by persons other than the patent owner, or an *ex parte* reexamination requester under either § 1.510 or § 1.535, will be delayed until the reexamination proceeding has been concluded by the issuance and publication of a reexamination certificate. See § 1.902 for processing of prior art citations in patent and reexamination files during an *inter partes* reexamination proceeding filed under § 1.913.
+
+[72 FR 18905, Apr. 16, 2007]

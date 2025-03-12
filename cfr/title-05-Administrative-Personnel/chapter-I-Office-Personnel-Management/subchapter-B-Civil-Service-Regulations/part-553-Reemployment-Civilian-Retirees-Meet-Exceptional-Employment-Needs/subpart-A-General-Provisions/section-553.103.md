@@ -1,0 +1,7 @@
+##### § 553.103 General policy. #####
+
+(a) *Agency discretion and responsibility.* The decision to request an exception, or to grant an exception under delegated authority, for any individual under any of the provisions of this part will be at the discretion of the employing agency. A determination made in connection with one position does not require a like determination in connection with any other position. In deciding whether to request an exception or grant an exception under delegated authority, each agency is expected to weigh fiscal responsibility and employee equity and should consider such factors as availability of funds as well as the criteria set out in this part.
+
+(b) *Application of exceptions.* An exception to the salary offset provisions of 5 U.S.C. 8344 or 8468 authorized by OPM or an agency under this part applies only to the particular individual for whom it was authorized and only while that individual continues to serve in the same or a successor position. The exception terminates upon the individual's assignment to a different position unless a new exception is authorized under the provisions of this part.
+
+[56 FR 6206, Feb. 14, 1991, as amended at 65 FR 19644, Apr. 12, 2000]

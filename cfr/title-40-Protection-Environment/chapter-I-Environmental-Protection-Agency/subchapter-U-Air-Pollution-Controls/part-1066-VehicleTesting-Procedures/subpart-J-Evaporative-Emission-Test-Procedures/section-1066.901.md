@@ -1,0 +1,3 @@
+##### § 1066.901 Applicability and general provisions. #####
+
+This subpart describes how to measure evaporative and refueling emissions from test vehicles. The provisions of §§ 1066.910 through 1066.930 include general provisions for equipment and calculations related to evaporative and refueling emissions. The provisions of §§ 1066.950 through 1066.985 describe provisions that apply specifically to motor vehicles subject to standards under 40 CFR part 86, subpart S, or 40 CFR part 1037.

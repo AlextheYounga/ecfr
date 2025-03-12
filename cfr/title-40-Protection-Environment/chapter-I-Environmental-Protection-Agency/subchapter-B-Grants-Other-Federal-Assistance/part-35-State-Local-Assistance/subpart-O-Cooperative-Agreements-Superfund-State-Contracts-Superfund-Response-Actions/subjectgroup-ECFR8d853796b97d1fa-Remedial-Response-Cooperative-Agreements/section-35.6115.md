@@ -1,0 +1,7 @@
+##### § 35.6115 Political subdivision-lead remedial Cooperative Agreements. #####
+
+(a) *General.* If the State concurs, EPA may allow a political subdivision with the necessary capabilities and jurisdictional authority to conduct remedial response activities at a site. EPA will award the political subdivision a Cooperative Agreement to conduct remedial response and enter into a parallel Superfund State Contract with the State, if required (*See* § 35.6800, when a Superfund State Contract is required). The political subdivision may also be a signatory to the Superfund State Contract. The political subdivision must submit to the State a copy of all reports provided to EPA.
+
+(b) *Political subdivision Cooperative Agreement requirements*—(1) *Application requirements.* To receive a remedial Cooperative Agreement, the political subdivision must prepare an application which includes the documentation described in § 35.6105(a)(1) through (a)(3).
+
+(2) *Cooperative Agreement requirements.* The political subdivision must comply with all terms and conditions in the Cooperative Agreement. If it is designated the lead for remedial action, the political subdivision must provide the notification required at § 35.6120, substituting the term “political subdivision” for the term “State” in that section.

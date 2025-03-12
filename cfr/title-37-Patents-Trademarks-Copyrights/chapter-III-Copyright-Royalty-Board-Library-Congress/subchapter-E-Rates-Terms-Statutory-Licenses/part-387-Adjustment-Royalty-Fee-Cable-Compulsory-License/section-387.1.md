@@ -1,0 +1,3 @@
+##### § 387.1 General. #####
+
+This part establishes adjusted terms and rates for royalty payments in accordance with the provisions of 17 U.S.C. 111 and 801(b)(2)(A), (B), (C), and (D). Upon compliance with 17 U.S.C. 111 and the terms and rates of this part, a cable system shall be subject to a statutory license authorizing secondary transmissions of broadcast signals to the extent provided in 17 U.S.C. 111.

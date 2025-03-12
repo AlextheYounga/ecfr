@@ -1,0 +1,3 @@
+##### § 379.9 Companies going out of business. #####
+
+The records referred to in the regulations in this part may be destroyed after business is discontinued and the company is completely liquidated. The records may not be destroyed until dissolution is final and all pending transactions and claims are completed. When a company is merged with another company under jurisdiction of the Secretary, the successor company shall preserve records of the merged company in accordance with the regulations in this part.

@@ -1,0 +1,3 @@
+##### § 545.17 Funds transfer services. #####
+
+A Federal savings association is authorized to transfer, with or without fee, its customers' funds from any account (including a line of credit) of the customer at the Federal savings association or at another financial intermediary to third parties or other accounts of the customer on the customer's order or authorization by any mechanism or device, including cashier's checks, conforming with applicable laws and established commercial practices.

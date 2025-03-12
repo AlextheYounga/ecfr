@@ -1,0 +1,7 @@
+##### § 1004.60 QIO finding of a violation. #####
+
+(a) On the basis of any additional information received, the QIO will affirm or modify its finding. If the QIO affirms its finding, it may suggest in writing a method for correcting the situation and a time period for corrective action. This CAP could correspond with, or be a continuation of, a prior CAP or be a new proposal based on additional information received by the QIO. If the finding has been resolved to the QIO's satisfaction, the QIO may modify its initial finding or recommendation or close the case.
+
+(b) The QIO must give written notice to the practitioner or other person of any action it takes as a result of the additional information received, as specified in § 1004.70.
+
+(c) At least one member of the QIO participating in the process which resulted in a recommendation to the OIG that a practitioner or other person be sanctioned should practice in a similar geographic area, e.g. urban or rural, and at least one member of the panel must be in the same medical specialty. Both requirements can be met by a single individual. In addition, no one at the QIO who is a participant in such a finding may be in direct economic competition with, or have a substantial bias for or against, that practitioner or other person being recommended for sanction.

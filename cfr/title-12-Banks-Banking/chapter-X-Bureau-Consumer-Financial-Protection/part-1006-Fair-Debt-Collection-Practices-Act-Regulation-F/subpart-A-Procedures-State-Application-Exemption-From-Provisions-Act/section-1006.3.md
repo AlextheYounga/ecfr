@@ -1,0 +1,13 @@
+##### § 1006.3 Supporting documents. #####
+
+The application shall be accompanied by the following, which may be submitted in paper or electronic form:
+
+(a) A copy of the full text of the state law that is claimed to contain requirements substantially similar to those imposed under sections 803 through 812 of the Act, or to provide greater protection to consumers than sections 803 through 812 of the Act, regarding the class of debt collection practices within that state.
+
+(b) A comparison of each provision of sections 803 through 812 of the Act with the corresponding provision of the state law, together with reasons supporting the claim that the corresponding provisions of the state law are substantially similar to or provide greater protection to consumers than provisions of sections 803 through 812 of the Act and an explanation as to why any differences between the state and Federal law are not inconsistent with the provisions of sections 803 through 812 of the Act and do not result in a diminution in the protection otherwise afforded consumers; and a statement that no other state laws (including administrative or judicial interpretations) are related to, or would have an effect upon, the state law that is being considered by the Bureau in making its determination.
+
+(c) A copy of the full text of the state law that provides for enforcement of the state law referred to in paragraph (a) of this section.
+
+(d) A comparison of the provisions of the state law that provides for enforcement with the provisions of section 814 of the Act, together with reasons supporting the claim that such state law provides for administrative enforcement of the state law referred to in paragraph (a) of this section that is substantially similar to, or more extensive than, the enforcement provided under section 814 of the Act.
+
+(e) A statement identifying the office designated or to be designated to administer the state law referred to in paragraph (a) of this section, together with complete information regarding the fiscal arrangements for administrative enforcement (including the amount of funds available or to be provided), the number and qualifications of personnel engaged or to be engaged in enforcement, and a description of the procedures under which such state law is to be administratively enforced. The statement should also include reasons to support the claim that there is adequate provision for enforcement of such state law.

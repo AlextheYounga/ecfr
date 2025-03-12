@@ -1,0 +1,3 @@
+##### § 3.604 Decision. #####
+
+After the closing date of the national bank's or Federal savings association's response period, or receipt of the national bank's or Federal savings association's response, if earlier, the OCC will consider the national bank's or Federal savings association's response, and may seek additional information or clarification of the response. Thereafter, the OCC will determine whether or not to issue a directive, and if one is to be issued, whether it should be as originally proposed or in modified form.

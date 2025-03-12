@@ -1,0 +1,37 @@
+##### § 60.40f Specifications for active collection systems. #####
+
+For approval, a state plan must include the specifications for active collection systems in this section.
+
+(a) Each owner or operator seeking to comply with § 60.33f(b) must site active collection wells, horizontal collectors, surface collectors, or other extraction devices at a sufficient density throughout all gas producing areas using the following procedures unless alternative procedures have been approved by the Administrator.
+
+(1) The collection devices within the interior must be certified to achieve comprehensive control of surface gas emissions by a professional engineer. The following issues must be addressed in the design: depths of refuse, refuse gas generation rates and flow characteristics, cover properties, gas system expandability, leachate and condensate management, accessibility, compatibility with filling operations, integration with closure end use, air intrusion control, corrosion resistance, fill settlement, resistance to the refuse decomposition heat, and ability to isolate individual components or sections for repair or troubleshooting without shutting down entire collection system.
+
+(2) The sufficient density of gas collection devices determined in paragraph (a)(1) of this section must address landfill gas migration issues and augmentation of the collection system through the use of active or passive systems at the landfill perimeter or exterior.
+
+(3) The placement of gas collection devices determined in paragraph (a)(1) of this section must control all gas producing areas, except as provided by paragraphs (a)(3)(i) and (ii) of this section.
+
+(i) Any segregated area of asbestos or nondegradable material may be excluded from collection if documented as provided under § 60.39f(d). The documentation must provide the nature, date of deposition, location and amount of asbestos or nondegradable material deposited in the area, and must be provided to the Administrator upon request.
+
+(ii) Any nonproductive area of the landfill may be excluded from control, provided that the total of all excluded areas can be shown to contribute less than 1 percent of the total amount of NMOC emissions from the landfill. The amount, location, and age of the material must be documented and provided to the Administrator upon request. A separate NMOC emissions estimate must be made for each section proposed for exclusion, and the sum of all such sections must be compared to the NMOC emissions estimate for the entire landfill.
+
+(A) The NMOC emissions from each section proposed for exclusion must be computed using Equation 7:
+
+![](/graphics/er29au16.006.gif)Where:Qi = NMOC emission rate from the ith section, megagrams per year.k = Methane generation rate constant, year−1.Lo = Methane generation potential, cubic meters per megagram solid waste.Mi = Mass of the degradable solid waste in the ith section, megagram.ti = Age of the solid waste in the ith section, years.CNMOC = Concentration of NMOC, parts per million by volume.3.6×10−9 = Conversion factor.
+
+(B) If the owner or operator is proposing to exclude, or cease gas collection and control from, nonproductive physically separated (*e.g.,* separately lined) closed areas that already have gas collection systems, NMOC emissions from each physically separated closed area must be computed using either Equation 3 in § 60.35f or Equation 7 in paragraph (a)(3)(ii)(A) of this section.
+
+(iii) The values for k and CNMOC determined in field testing must be used if field testing has been performed in determining the NMOC emission rate or the radii of influence (the distance from the well center to a point in the landfill where the pressure gradient applied by the blower or compressor approaches zero). If field testing has not been performed, the default values for k, Lo, and CNMOC provided in § 60.35f or the alternative values from § 60.35f must be used. The mass of nondegradable solid waste contained within the given section may be subtracted from the total mass of the section when estimating emissions provided the nature, location, age, and amount of the nondegradable material is documented as provided in paragraph (a)(3)(i) of this section.
+
+(b) Each owner or operator seeking to comply with § 60.33f(b) must construct the gas collection devices using the following equipment or procedures:
+
+(1) The landfill gas extraction components must be constructed of polyvinyl chloride (PVC), high density polyethylene (HDPE) pipe, fiberglass, stainless steel, or other nonporous corrosion resistant material of suitable dimensions to: Convey projected amounts of gases; withstand installation, static, and settlement forces; and withstand planned overburden or traffic loads. The collection system must extend as necessary to comply with emission and migration standards. Collection devices such as wells and horizontal collectors must be perforated to allow gas entry without head loss sufficient to impair performance across the intended extent of control. Perforations must be situated with regard to the need to prevent excessive air infiltration.
+
+(2) Vertical wells must be placed so as not to endanger underlying liners and must address the occurrence of water within the landfill. Holes and trenches constructed for piped wells and horizontal collectors must be of sufficient cross-section so as to allow for their proper construction and completion including, for example, centering of pipes and placement of gravel backfill. Collection devices must be designed so as not to allow indirect short circuiting of air into the cover or refuse into the collection system or gas into the air. Any gravel used around pipe perforations should be of a dimension so as not to penetrate or block perforations.
+
+(3) Collection devices may be connected to the collection header pipes below or above the landfill surface. The connector assembly must include a positive closing throttle valve, any necessary seals and couplings, access couplings and at least one sampling port. The collection devices must be constructed of PVC, HDPE, fiberglass, stainless steel, or other nonporous material of suitable thickness.
+
+(c) Each owner or operator seeking to comply with § 60.33f(c) must convey the landfill gas to a control system in compliance with § 60.33f(c) through the collection header pipe(s). The gas mover equipment must be sized to handle the maximum gas generation flow rate expected over the intended use period of the gas moving equipment using the following procedures:
+
+(1) For existing collection systems, the flow data must be used to project the maximum flow rate. If no flow data exist, the procedures in paragraph (c)(2) of this section must be used.
+
+(2) For new collection systems, the maximum flow rate must be in accordance with § 60.36f(a)(1).

@@ -1,0 +1,5 @@
+##### § 10.37 Identification of individual making request. #####
+
+No record or information contained in a system of records is disclosed to an individual nor is any correction of a record in accordance with subpart E made at the request of an individual unless that individual demonstrates that he or she is who he or she claims to be. Normally, identity can be proven for individuals who appear in person by the presentation of an identifying document issued by a recognized organization (*e.g.,* a driver's license or a credit card) and which contains a means of verification such as a photograph or a signature. For requests by mail, the unique identifier used in the system should be included if known. Responses to mail requests are normally sent only to the name and address listed in the system of records. In the case of particularly sensitive records, additional identification requirements may be imposed. In such cases, these additional requirements are listed in the public notice for the system.
+
+[45 FR 8993, Feb. 11, 1980, as amended at 62 FR 23667, May 1, 1997]

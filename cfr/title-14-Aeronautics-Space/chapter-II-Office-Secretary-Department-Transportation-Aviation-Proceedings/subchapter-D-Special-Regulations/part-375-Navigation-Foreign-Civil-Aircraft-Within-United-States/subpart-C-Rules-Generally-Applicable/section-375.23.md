@@ -1,0 +1,3 @@
+##### § 375.23 Maximum allowable weights. #####
+
+Foreign civil aircraft that are permitted to navigate in the United States on the basis of foreign airworthiness certificates must conform to the limitations on maximum certificated weights prescribed or authorized for the particular variation of the aircraft type, and for the particular category of use, by the country of manufacture of the aircraft type involved.

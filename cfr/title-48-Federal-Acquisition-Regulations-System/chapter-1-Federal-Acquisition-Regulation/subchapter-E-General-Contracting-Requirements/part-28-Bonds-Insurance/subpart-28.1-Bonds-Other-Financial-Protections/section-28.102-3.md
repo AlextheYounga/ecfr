@@ -1,0 +1,7 @@
+##### 28.102-3 Contract clauses. #####
+
+(a) Insert a clause substantially the same as the clause at 52.228-15, Performance and Payment Bonds—Construction, in solicitations and contracts for construction that contain a requirement for performance and payment bonds if the resultant contract is expected to exceed $150,000. The contracting officer may revise paragraphs (b)(1) and/or (b)(2) of the clause to establish a lower percentage in accordance with 28.102-2(b). If the provision at 52.228-1 is not included in the solicitation, the contracting officer must set a period of time for return of executed bonds.
+
+(b) Insert the clause at 52.228-13, Alternative Payment Protections, in solicitations and contracts for construction, when the estimated or actual value exceeds $35,000 but does not exceed $150,000. Complete the clause by specifying the payment protections selected (see 28.102-1(b)(1)) and the deadline for submission. The contracting officer may revise paragraph (b) of the clause to establish a lower percentage in accordance with 28.102-2(c).
+
+[48 FR 42286, Sept. 19, 1983, as amended at 61 FR 31652, June 20, 1996; 61 FR 39213, July 26, 1996; 62 FR 44806, Aug. 22, 1997; 65 FR 46070, July 26, 2000; 71 FR 57368, Sept. 28, 2006; 75 FR 53134, Aug. 30, 2010; 80 FR 38298, July 2, 2015]

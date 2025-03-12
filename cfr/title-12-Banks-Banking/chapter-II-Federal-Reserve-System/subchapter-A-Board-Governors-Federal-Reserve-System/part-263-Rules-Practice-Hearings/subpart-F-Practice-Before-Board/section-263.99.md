@@ -1,0 +1,3 @@
+##### § 263.99 Petition for reinstatement. #####
+
+The Board may entertain a petition for reinstatement from any person debarred from practice before the Board. The Board shall grant reinstatement only if the Board finds that the petitioner is likely to act in accordance with the regulations in this part, and that granting reinstatement would not be contrary to the public interest. Any request for reinstatement shall be limited to written submissions unless the Board, in its discretion, affords the petitioner an informal hearing.

@@ -1,0 +1,25 @@
+##### § 250.220 Whether member bank acting as trustee is prohibited by section 20 of the Banking Act of 1933 from acquiring majority of shares of mutual fund. #####
+
+(a) The Board recently considered whether section 20 of the Banking Act of 1933 (12 U.S.C. 377) would prohibit a member bank, while acting as trustee of a tax exempt employee benefit trust or trusts, from, under the following circumstances, acquiring a majority of the shares of an open-end investment company (“Fund”) registered under the Investment Company Act of 1940, or more than 50 percent of the number of Fund's shares voted at the preceding election of directors of the Fund.
+
+(b) The bank has acted as trustee, since December 1963, pursuant to a trust agreement with a county medical society to administer its group retirement program, under which individual members of the society could participate in accordance with the provisions of the Self-Employed Individuals Tax Retirement Act of 1962 (commonly referred to as “H.R. 10”).
+
+(c) Under the trust agreement as presently constituted, each employer, who is a participating member of the medical society, directs the bank to invest his contributions to the retirement plan in such proportions as he may elect in insurance or annuity contracts or in a diversified portfolio of securities and other property. The diversified portfolio held by the bank is invested and administered by the bank solely at the direction of a committee of the medical society.
+
+(d) It has now been proposed that the trust agreement be amended to provide that all investments constituting the trust fund, apart from insurance and annuity contracts, will be made exclusively in shares of a single open-end investment company to be named in the trust agreement and that the assets constituting the diversified portfolio now held by the bank, as trustee, will be exchanged for the Fund's shares. The bank will, in addition to holding the shares of the Fund, allocate income and dividends to the accounts of the various participants in the retirement program, invest and reinvest income and dividends, and perform other ministerial functions.
+
+(e) In addition, it is proposed to amend the trust agreement so that voting of the shares held by the bank as trustee will be controlled exclusively by the participants. Under the proposed amendment, the bank will sign all proxies prior to mailing them to the participants,
+
+it being intended that the Participant(s) shall vote the proxies notwithstanding the fact that the Trustee is the owner of the shares \* \* \*.
+
+(f) The bank believes that amendments are now under consideration that will also require investment of the assets of these plans exclusively in the Fund's shares. Accordingly, the bank may eventually own the Fund's shares in several separate trust accounts and in an aggregate amount equal to a majority of the Fund's shares.
+
+(g) Section 20 of the Banking Act of 1933 provides in relevant part that
+
+no member bank shall be affiliated in any manner described in section 2(b) hereof with any corporation \* \* \* engaged principally in the issue, flotation, underwriting, public sale, or distribution at wholesale or retail or through syndicate participation of stocks \* \* \* or other securities: \* \* \*.
+
+(h) Section 2(b) defines the term *affiliate* to include
+
+any corporation, business trust, association or other similar organization (1) Of which a member bank, directly or indirectly, owns or controls either a majority of the voting shares or more than 50 per centum of the number of shares voted for the election of its directors, trustees, or other persons exercising similar functions at the preceding election, or controls in any manner the election of a majority of its directors, trustees, or other persons exercising similar functions; \* \* \*.
+
+(i) The Board has previously taken the position, in an interpretation involving the term *affiliate* under the Banking Act of 1933, that it would not require a member bank to obtain and publish a report of a corporation the majority of the stock of which is held by the member bank as executor or trustee, provided that the member bank holds such stock subject to control by a court or by a beneficiary or other principal and that the member bank may not lawfully exercise control of such stock independently of any order or direction of a court, beneficiary or other principal. 1933 Federal Reserve Bulletin 651. The rationale of that interpretation—which was reaffirmed by the Board in 1957—would appear to be equally applicable to the facts in the present case. In the circumstances, and on the basis of the Board's understanding that the bank will not vote any of Fund's shares or control in any manner the election of any of its directors, trustees, or other persons exercising similar functions, the Board has concluded that the situation in question would not fall within the purpose or coverage of section 20 of the Banking Act of 1933 and, therefore, would not involve a violation of the statute.

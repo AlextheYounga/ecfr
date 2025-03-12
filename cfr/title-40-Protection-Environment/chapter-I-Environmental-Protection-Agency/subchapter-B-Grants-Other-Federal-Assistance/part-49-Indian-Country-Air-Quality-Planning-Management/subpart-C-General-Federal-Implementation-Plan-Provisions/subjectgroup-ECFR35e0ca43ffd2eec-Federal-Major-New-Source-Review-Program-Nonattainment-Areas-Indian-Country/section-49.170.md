@@ -1,0 +1,7 @@
+##### § 49.170 Emission offset requirement exemption. #####
+
+An Indian governing body may seek an exemption from the emission offset requirement (*see* § 49.169(b)(3)) for major sources and major modifications subject to this program that are located within the Tribe's Indian country pursuant to section 173(a)(1)(B) of the Act, under which major sources and major modifications subject to this program may be exempted from the offset requirement if they are located in a zone targeted for economic development by the Administrator, in consultation with the Department of Housing and Urban Development (HUD). Under this Economic Development Zone (EDZ) approach, the Administrator would waive the offset requirement for such sources and modifications, provided that:
+
+(a) The new major source or major modification is located in a geographical area which meets the criteria for an EDZ and the Administrator has approved a request from a Tribe and declared the area an EDZ and
+
+(b) The state/Tribe demonstrates that the new permitted emissions are consistent with the achievement of reasonable further progress pursuant to section 172(c)(4) of the Act and will not interfere with attainment of the applicable NAAQS by the applicable attainment date.

@@ -1,0 +1,7 @@
+##### § 1274.919 Cost principles and accounting standards. #####
+
+Cost Principles and Accounting StandardsJuly 2002
+
+The expenditure of Government funds by the Recipient and the allowability of costs recognized as a resource contribution by the Recipient (See clause entitled “Resource Sharing Requirements”) shall be governed by the FAR cost principles implemented by FAR Parts 30, 31, and 48 CFR part 99. (If the Recipient is a consortium which includes non-commercial firm members, cost allowability for those members will be determined as follows: Allowability of costs incurred by State, local or federally-recognized Indian tribal governments is determined in accordance with the provisions of OMB Circular A-87, “Cost Principles for State and Local Governments.” The allowability of costs incurred by non-profit organizations is determined in accordance with the provisions of OMB Circular A-122, “Cost Principles for Non-Profit Organizations.” The allowability of costs incurred by institutions of higher education is determined in accordance with the provisions of OMB Circular A-21, “Cost Principles for Educational Institutions.” The allowability of costs incurred by hospitals is determined in accordance with the provisions of Appendix E of 45 CFR part 74, “Principles for Determining Costs Applicable to Research and Development Under Grants and Contracts with Hospitals.”)
+
+[End of provision]

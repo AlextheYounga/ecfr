@@ -1,0 +1,3 @@
+##### § 536.1 Scope. #####
+
+This part establishes regulations governing the use and application of CAFE credits up to three model years before and five model years after the model year in which the credit was earned. It also specifies requirements for manufacturers wishing to transfer fuel economy credits between their fleets and for manufacturers and other persons wishing to trade fuel economy credits to achieve compliance with prescribed fuel economy standards.

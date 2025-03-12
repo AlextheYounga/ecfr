@@ -1,0 +1,7 @@
+##### § 133.25 Amendment of certificate. #####
+
+(a) The holder of a Rotorcraft External-Load Certificate may apply to the FAA Flight Standards District Office having jurisdiction over the area in which the applicant's home base of operation is located, or to the Flight Standards District Office nearest the area in which operations are to be conducted, for an amendment of the applicant's certificate, to add or delete a rotorcraft-load combination authorization, by executing the appropriate portion of the form used in applying for a Rotorcraft External-Load Operator Certificate. If the applicant for the amendment shows compliance with §§ 133.19, and 133.49, the Flight Standards District Office issues an amended Rotorcraft External-Load Operator Certificate to the applicant with authorization to operate with those classes of rotorcraft-load combinations for which the applicant complies with the applicable provisions of subpart D of this part.
+
+(b) The holder of a rotorcraft external-load certificate may apply for an amendment to add or delete a rotorcraft authorization by submitting to the certificate-holding FAA Flight Standards District Office a new list of rotorcraft, by registration number, with the classes of rotorcraft-load combinations for which authorization is requested.
+
+[Doc. No. 18434, 43 FR 52206, Nov. 9, 1978, as amended by Amdt. 133-9, 51 FR 40707, Nov. 7, 1986; Amdt. 133-11, 54 FR 39294, Sept. 25, 1989]

@@ -1,0 +1,3 @@
+##### § 554.9 Availability of files. #####
+
+All files of closed or suspended investigations are available for public inspection in the NHTSA Technical Reference Library. Communications between the agency and a manufacturer with respect to ongoing investigations are also available. Such files and communications may contain material which is considered confidential but has been determined to be necessary to the subject proceeding. Material which is considered confidential but has not been determined to be necessary to the subject proceeding will not be disclosed. Reproduction of entire public files or of individual documents can be arranged.

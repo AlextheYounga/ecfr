@@ -1,0 +1,3 @@
+##### § 140.16 Commission review of proof of financial protection. #####
+
+The Commission will review proof of financial protection filed by any licensee or applicant for license. If the Commission finds that the licensee or applicant for license is maintaining financial protection in accordance with the requirements of this part, approval of the financial protection will be evidenced by incorporation of appropriate provision in the license.

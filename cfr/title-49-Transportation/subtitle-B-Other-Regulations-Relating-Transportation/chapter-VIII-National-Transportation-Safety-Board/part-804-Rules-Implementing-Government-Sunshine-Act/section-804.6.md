@@ -1,0 +1,11 @@
+##### § 804.6 Procedures for closing meetings, or withholding information, and requests by affected persons to close a meeting. #####
+
+(a) A meeting shall not be closed, or information pertaining thereto withheld, unless a majority of all Members votes to take such action. A separate vote shall be taken with respect to any action under § 804.5. A single vote is permitted with respect to a series of meetings, a portion or portions of which are proposed to be closed to the public, or with respect to any information concerning such series of meetings, so long as each meeting in such series involves the same particular subject matters and is scheduled to be held no more than thirty days after the initial meeting in such series. Each Member's vote under this paragraph shall be recorded and proxies are not permitted.
+
+(b) Any person whose interest may be directly affected if a portion of a meeting is open may request the Board to close that portion on any of the grounds referred to in § 804.5 (e), (f), or (g). Requests, with reasons in support thereof, should be submitted to the General Counsel, National Transportation Safety Board, 490 L”Enfant Plaza , SW., Washington, DC 20594-003. On motion of any Member, the Board shall determine by recorded vote whether to grant the request.
+
+(c) Within one working day of any vote taken pursuant to this section, the NTSB shall make available a written copy of such vote reflecting the vote of each Member on the question and, if a portion of a meeting is to be closed to the public a full written explanation of its action closing the meeting and a list of all persons expected to attend and their affiliation.
+
+(d) Before every closed meeting, the General Counsel of the NTSB shall publicly certify that, in his or her opinion, the meeting may be closed to the public and shall state each relevant exemptive provision. A copy of such certification, together with a statement of the presiding officer setting forth the time and place of the meeting and the persons present, shall be retained by the NTSB as part of the transcript, recording, or minutes required by § 804.9.
+
+[42 FR 13284, Mar. 10, 1977, as amended at 81 FR 75731, Nov. 1, 2016]

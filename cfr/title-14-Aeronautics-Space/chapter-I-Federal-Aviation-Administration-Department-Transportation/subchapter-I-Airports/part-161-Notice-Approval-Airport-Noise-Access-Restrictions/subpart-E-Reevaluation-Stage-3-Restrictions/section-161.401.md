@@ -1,0 +1,3 @@
+##### § 161.401 Scope. #####
+
+This subpart applies to an airport imposing a noise or access restriction on the operation of Stage 3 aircraft that first became effective after October 1, 1990, and had either been agreed to in compliance with the procedures in subpart B of this part or approved by the FAA in accordance with the procedures in subpart D of this part. This subpart does not apply to Stage 2 restrictions imposed by airports. This subpart does not apply to Stage 3 restrictions specifically exempted in § 161.7.

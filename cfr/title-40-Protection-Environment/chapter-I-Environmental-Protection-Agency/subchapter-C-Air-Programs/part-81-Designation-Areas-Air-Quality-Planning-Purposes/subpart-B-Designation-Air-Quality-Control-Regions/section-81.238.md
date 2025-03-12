@@ -1,0 +1,5 @@
+##### § 81.238 Southwest Georgia Intrastate Air Quality Control Region. #####
+
+The Southwest Georgia Intrastate Air Quality Control Region consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Georgia: Baker County, Berrien County, Brooks County, Calhoun County, Clay County, Colquitt County, Cook County, Crisp County, Decatur County, Dougherty County, Early County, Echols County, Grady County, Irwin County, Lanier County, Lee County, Lowndes County, Miller County, Mitchell County, Randolph County, Seminole County, Terrell County, Thomas County, Tift County, Turner County, Worth County.

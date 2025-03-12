@@ -1,0 +1,3 @@
+##### § 43.3 Purpose and scope of this part. #####
+
+This part sets forth the procedures for giving notice to the Secretary under section 103(g)(1) of the Act, for responding to such notices and for reviewing refusals by authorized representatives of the Secretary to issue citations or orders under section 103 (g)(1) or (g)(2). Specifically, Subpart B details the steps to be taken by a representative of miners or a miner in making a request for a special inspection and by the Secretary in processing and taking action on such a request under section 103(g)(1). Subpart C sets forth informal review procedures which a representative of miners or a miner may request under sections 103 (g)(1) and (g)(2) where no citation or order is issued under those sections.

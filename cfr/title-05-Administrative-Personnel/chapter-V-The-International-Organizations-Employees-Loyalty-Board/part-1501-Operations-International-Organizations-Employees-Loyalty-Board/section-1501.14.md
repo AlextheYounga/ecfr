@@ -1,0 +1,3 @@
+##### § 1501.14 Decision of the Board. #####
+
+After the employee or person being considered for employment has been given a hearing, the Board shall promptly make its decision. The determination of the Board shall be in writing and shall be signed by the members of the panel. It shall state the action taken, together with the reasons therefor, and shall be made a permanent part of the file in every case.

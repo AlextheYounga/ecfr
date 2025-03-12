@@ -1,0 +1,3 @@
+##### § 214.1 Scope of part. #####
+
+Pursuant to the authority conferred upon it by section 14 of the Federal Reserve Act, as amended (40 Stat. 235, 48 Stat. 181; 12 U.S.C. 358, 348a), and by other provisions of law, the Board of Governors of the Federal Reserve System prescribes the following regulations governing relationships and transactions between Federal Reserve Banks and foreign banks or bankers or groups of foreign banks, or bankers, or a foreign State as defined in section 25(b) of the Federal Reserve Act (55 Stat. 131; 12 U.S.C. 632).

@@ -1,0 +1,3 @@
+##### § 450.24 New source performance standards reflecting the best available demonstrated control technology (NSPS). #####
+
+Any new source subject to this subpart must achieve, at a minimum, the following new source performance standards representing the degree of effluent reduction attainable by application of the best available demonstrated control technology (NSPS): The standards are described at § 450.22.

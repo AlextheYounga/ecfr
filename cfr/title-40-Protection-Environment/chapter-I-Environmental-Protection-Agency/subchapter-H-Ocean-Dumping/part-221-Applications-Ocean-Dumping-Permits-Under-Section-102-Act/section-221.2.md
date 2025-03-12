@@ -1,0 +1,3 @@
+##### § 221.2 Other information. #####
+
+In the event the Administrator, Regional Administrator, or a person designated by either to review permit applications, determines that additional information is needed in order to apply the Criteria, he shall so advise the applicant in writing. All additional information requested pursuant to this § 221.2 shall be deemed part of the application and for purposes of applying the time limitation of § 222.1, the application will not be considered complete until such information has been filed.

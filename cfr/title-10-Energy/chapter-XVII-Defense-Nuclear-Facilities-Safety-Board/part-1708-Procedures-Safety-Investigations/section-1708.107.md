@@ -1,0 +1,3 @@
+##### § 1708.107 Powers of persons conducting formal safety investigations. #####
+
+The Investigating Officer(s) appointed by the Board may take informal or formal statements, interview witnesses, take testimony, request production of documents, recommend issuance of subpoenas, recommend taking of testimony in a closed forum, recommend administration of oaths, and otherwise perform any lawful act authorized under the Board's enabling legislation in connection with any safety investigation ordered by the Board.

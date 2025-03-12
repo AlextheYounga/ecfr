@@ -1,0 +1,7 @@
+##### § 1315.18 Inquiries. #####
+
+(a) *Regulation.* Inquiries concerning this part may be directed in writing to the Department of the Treasury, Financial Management Service (FMS), Cash Management Policy and Planning Division, 401 14th Street, SW. Washington, DC 20227, (202) 874-6590, or by calling the Prompt Payment help line at 1-800-266-9667, by emailing questions to FMS at *prompt.inquiries@fms.sprint.com,* or by completing a Prompt Payment inquiry form available at *www.fms.treas.gov/prompt/inquiries.html.*
+
+(b) *Applicable interest rate.* The rate is published by the Fiscal Service, Department of the Treasury, semiannually in the Federal Register on or about January 1 and July 1. The rate also may be obtained from the Department of Treasury's Financial Management Service (FMS) at 1-800-266-9667. This information is also available at the FMS Prompt Payment Web Site at *http://www.fms.treas.gov/prompt/index.html.*
+
+(c) *Agency payments.* Questions concerning delinquent payments should be directed to the designated agency office, or the office responsible for issuing the payment if different from the designated agency office. Questions about disagreements over payment amount or timing should be directed to the contracting officer for resolution. Small business concerns may obtain additional assistance on payment issues by contacting the agency's Office of Small and Disadvantaged Business Utilization.

@@ -1,0 +1,3 @@
+##### § 137.285 Are Self-Governance Tribes required to accept Federal environmental responsibilities to enter into a construction project agreement? #####
+
+Yes, under section 509 of the Act [25 U.S.C. 458aaa-8], Self-Governance Tribes must assume all Federal responsibilities under the NEPA of 1969 [42 U.S.C. 4321 *et seq.*] and the National Historic Preservation Act [16 U.S.C. 470 *et seq.*] and related provisions of law that would apply if the Secretary were to undertake a construction project, but only those responsibilities directly related to the completion of the construction project being assumed.

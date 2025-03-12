@@ -1,0 +1,3 @@
+##### § 20.1402 Radiological criteria for unrestricted use. #####
+
+A site will be considered acceptable for unrestricted use if the residual radioactivity that is distinguishable from background radiation results in a TEDE to an average member of the critical group that does not exceed 25 mrem (0.25 mSv) per year, including that from groundwater sources of drinking water, and that the residual radioactivity has been reduced to levels that are as low as reasonably achievable (ALARA). Determination of the levels which are ALARA must take into account consideration of any detriments, such as deaths from transportation accidents, expected to potentially result from decontamination and waste disposal.

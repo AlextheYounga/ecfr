@@ -1,0 +1,3 @@
+##### § 617.7305 What is a CRC and who are the members? #####
+
+The board of directors of each qualified lender must establish one or more CRCs to review adverse credit decisions made by a qualified lender. The CRC may only review adverse credit decisions at the request of the applicant or borrower. The CRC has the ultimate decision-making authority on the loan or application under review. CRC members are selected by the board of directors of each qualified lender and must include at least one of the qualified lender's farmer-elected board members. The loan officer involved in the adverse credit decision being reviewed may not serve on the CRC when it reviews that loan.

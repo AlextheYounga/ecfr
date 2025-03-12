@@ -1,0 +1,3 @@
+##### § 438.70 Stakeholder engagement when LTSS is delivered through a managed care program. #####
+
+The State must ensure the views of beneficiaries, individuals representing beneficiaries, providers, and other stakeholders are solicited and addressed during the design, implementation, and oversight of a State's managed LTSS program. The composition of the stakeholder group and frequency of meetings must be sufficient to ensure meaningful stakeholder engagement.

@@ -1,0 +1,5 @@
+##### § 1263.100 Purpose and scope. #####
+
+(a) This part sets forth procedures to be followed with respect to the production or disclosure of official information or records and/or the testimony of present or former employees of the National Aeronautics and Space Administration relating to any official information acquired by any employee of NASA as part of the performance of that employee's official duties or by virtue of that employee's official status, where a demand for such production, disclosure, or testimony is issued in a federal, state, or other legal proceeding.
+
+(b) This part does not apply to any legal proceeding in which an employee is to testify, while in leave status, as to facts or events that are in no way related to the official duties of that employee or to the functions of the NASA.

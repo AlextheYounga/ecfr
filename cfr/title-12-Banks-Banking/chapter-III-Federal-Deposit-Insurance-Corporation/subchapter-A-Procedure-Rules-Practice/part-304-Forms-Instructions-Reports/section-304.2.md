@@ -1,0 +1,3 @@
+##### § 304.2 Where to obtain forms and instructions. #####
+
+Forms and instructions used in connection with applications, reports, and other submittals used by the FDIC can be obtained by contacting the FDIC Public Information Center (801 17th Street, NW., Washington, DC 20434; telephone: 800-276-6003 or 202-416-6940), except as noted below in § 304.3. In addition, many forms and instructions can be obtained from FDIC regional offices. A list of FDIC regional offices can be obtained from the FDIC Public Information Center or found at the FDIC's web site at *http://www.fdic.gov,* or in the directory of FDIC Law, Regulations and Related Acts published by the FDIC.

@@ -1,0 +1,3 @@
+##### § 1620.1 Purpose and scope of regulations. #####
+
+The regulations in this part apply only to administrative claims presented or filed with the Chemical Safety and Hazard Investigation Board (CSB), under the Federal Tort Claims Act (FTCA), 28 U.S.C. 1346(b), 2401(b), 2671-2680, as amended, for money damages against the United States for damage to or loss of property, personal injury, death, or other damages caused by the negligent or wrongful act or omission of an officer or employee of CSB while acting within the scope of his or her office or employment, but only under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.

@@ -1,0 +1,3 @@
+##### § 359.607 Records. #####
+
+Each agency shall maintain current records needed to determine the retention standing of its competing appointees. The agency shall allow the inspection of its retention registers and related records by an appointee to the extent that they have a bearing on the appointee's situation. The agency shall preserve intact all registers and records relating to a reduction-in-force action for at least 2 years from the effective date of the action.

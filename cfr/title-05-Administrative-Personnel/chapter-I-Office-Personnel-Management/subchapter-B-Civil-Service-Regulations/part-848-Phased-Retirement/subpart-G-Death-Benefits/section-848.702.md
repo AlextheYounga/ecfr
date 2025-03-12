@@ -1,0 +1,5 @@
+##### § 848.702 Death of an individual who has separated from phased employment and who dies before submitting an application for a composite retirement annuity. #####
+
+(a) For the purpose of 5 U.S.C. chapter 84, subchapter IV, an individual who dies after separating from phased employment and before submitting an application for composite retirement annuity is deemed to have filed an application for composite retirement annuity with OPM.
+
+(b) The composite retirement annuity of a phased retiree described in paragraph (a) of this section is deemed to have accrued from the day after separation through the date of death. Any unpaid composite annuity accrued during such period, minus any phased retirement annuity paid during that period, will be paid as a lump-sum payment of accrued and unpaid annuity, in accordance with 5 U.S.C. 8424(d) and (g).

@@ -1,0 +1,3 @@
+##### § 263.3 Royalty rates and terms. #####
+
+A Noncommercial Licensee shall in every respect be treated as a “Licensee” under part 262 of this chapter, and all terms applicable to Licensees and their payments under part 262 of this chapter shall apply to Noncommercial Licensees and their payment, except that a Noncommercial Licensee shall pay royalties at the rates applicable to such a “Licensee,” as currently provided in § 261.3(a), (c), (d) and (e) of this chapter, rather than at the rates set forth in § 262.3(a) through (d) of this chapter.

@@ -1,0 +1,5 @@
+##### § 136.409 What positions require a background investigation and determination of eligibility for employment or retention? #####
+
+(a) All positions that allow an individual regular contact with or control over Indian children are subject to a background investigation and determination of eligibility for employment. The IHS has compiled a list of positions within the agency in which the duties and responsibilities could involve regular contact with or control over Indian children. The list will be periodically updated and made available at all IHS Personnel Offices upon request. Positions should be reviewed on a case-by-case basis to determine whether the individual in that position has regular contact with or control over Indian children.
+
+(b) Tribes and Tribal organizations may use the list compiled by the IHS or develop their own procedures to determine within their program those positions that involve regular contact with or control over Indian children.

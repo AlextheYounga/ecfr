@@ -1,0 +1,5 @@
+##### § 203.5 Compliance as condition on operations in air transportation. #####
+
+It shall be a condition on the authority of all direct U.S. and foreign carriers to operate in air transportation that they have and maintain in effect and on file with the Department a signed counterpart of Agreement 18900, and a tariff (for those carriers otherwise generally required to file tariffs) that includes its provisions, as required by this subpart. Notwithstanding any failure to file that counterpart and such tariff, any such air carrier or foreign air carrier issued license authority (including exemptions) by the Department or operating in air transportation shall be deemed to have agreed to the provisions of Agreement 18900 as fully as if that air carrier or foreign air carrier had in fact filed a properly executed counterpart to that Agreement and tariff.
+
+[ER-1324, 48 FR 8044, Feb. 25, 1983, as amended by Doc. No. 47939, 57 FR 40100, Sept. 2, 1992]

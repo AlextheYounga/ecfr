@@ -1,0 +1,19 @@
+##### 352.239-74 Electronic and Information Technology Accessibility. #####
+
+As prescribed in HHSAR 339.203-70(b), insert the following clause:
+
+Electronic and Information Technology Accessibility (DEC 2015)
+
+(a) Pursuant to Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), as amended by the Workforce Investment Act of 1998, all electronic and information technology (EIT) supplies and services developed, acquired, or maintained under this contract or order must comply with the “Architectural and Transportation Barriers Compliance Board Electronic and Information Technology (EIT) Accessibility Standards” set forth by the Architectural and Transportation Barriers Compliance Board (also referred to as the “Access Board”) in 36 CFR part 1194. Information about Section 508 is available at *http://www.hhs.gov/web/508*. The complete text of Section 508 Final Provisions can be accessed at *http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards*.
+
+(b) The Section 508 accessibility standards applicable to this contract or order are identified in the Statement of Work or Specification or Performance Work Statement. The contractor must provide any necessary updates to the submitted HHS Product Assessment Template(s) at the end of each contract or order exceeding the simplified acquisition threshold (see FAR 2.101) when the contract or order duration is one year or less. If it is determined by the Government that EIT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense.
+
+(c) The Section 508 accessibility standards applicable to this contract are:
+
+(Contract staff must list applicable standards)
+
+(d) In the event of a modification(s) to this contract or order, which adds new EIT supplies or services or revises the type of, or specifications for, supplies or services, the Contracting Officer may require that the contractor submit a completed HHS Section 508 Product Assessment Template and any other additional information necessary to assist the Government in determining that the EIT supplies or services conform to Section 508 accessibility standards. Instructions for documenting accessibility via the HHS Section 508 Product Assessment Template may be found under Section 508 policy on the HHS Web site: (*http://www.hhs.gov/web/508*). If it is determined by the Government that EIT supplies and services provided by the Contractor do not conform to the described accessibility standards in the contract, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense.
+
+(e) If this is an Indefinite Delivery contract, a Blanket Purchase Agreement or a Basic Ordering Agreement, the task/delivery order requests that include EIT supplies or services will define the specifications and accessibility standards for the order. In those cases, the Contractor may be required to provide a completed HHS Section 508 Product Assessment Template and any other additional information necessary to assist the Government in determining that the EIT supplies or services conform to Section 508 accessibility standards. Instructions for documenting accessibility via the HHS Section 508 Product Assessment Template may be found at *http://www.hhs.gov/web/508*. If it is determined by the Government that EIT supplies and services provided by the Contractor do not conform to the described accessibility standards in the provided documentation, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its own expense.
+
+(End of clause)

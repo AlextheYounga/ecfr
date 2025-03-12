@@ -1,0 +1,9 @@
+##### § 164.20 Commencement of proceeding. #####
+
+(a) A proceeding shall be commenced whenever a hearing is requested by any person adversely affected by a notice of the Administrator of his refusal to register or of his intent to cancel the registration or to change the classification of a pesticide. A proceeding shall likewise be commenced whenever the Administrator decides to call a hearing to determine whether or not the registration of a pesticide should be canceled or its classification changed. Such request or notice of intent to hold a hearing shall be timely filed with the hearing clerk, and the matter shall be docketed and assigned a FIFRA docket number.
+
+(b) If a request for a hearing is filed, the person filing the request shall, at the same time, file a document stating his objections to the Administrator's refusal to register or his intent to cancel the registration or to change the classification of a pesticide. If a notice of intent to hold a hearing is filed by the Administrator, he shall, at the same time, file a statement of issues.
+
+(c) Upon the filing of any objections or notice of intent to hold a hearing, the proceeding shall be referred to the Chief Administrative Law Judge by the hearing clerk. The Chief Administrative Law Judge shall refer the proceeding to himself or another Administrative Law Judge who shall thereafter be in charge of all further matters concerning the proceedings, except as otherwise provided for by order of the Chief Administrative Law Judge, the Administrator, or the Environmental Appeals Board.
+
+[38 FR 19371, July 20, 1973, as amended at 38 FR 34117, Dec. 11, 1973; 57 FR 5342, Feb. 13, 1992]

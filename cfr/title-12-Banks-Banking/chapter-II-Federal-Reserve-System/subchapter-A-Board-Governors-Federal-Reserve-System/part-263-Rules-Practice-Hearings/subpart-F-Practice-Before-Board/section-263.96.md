@@ -1,0 +1,5 @@
+##### § 263.96 Conferences. #####
+
+(a) *General.* The Board's staff may confer with a proposed respondent concerning allegations of misconduct or other grounds for censure, debarment or suspension, regardless of whether a proceeding for debarment or suspension has been instituted. If a conference results in a stipulation in connection with a proceeding in which the individual is the respondent, the stipulation may be entered in the record at the request of either party to the proceeding.
+
+(b) *Resignation or voluntary suspension.* In order to avoid the institution of, or a decision in, a debarment or suspension proceeding, a person who practices before the Board may consent to suspension from practice. At the discretion of the Board, the individual may be suspended or debarred in accordance with the consent offered.

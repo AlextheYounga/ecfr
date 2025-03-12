@@ -1,0 +1,7 @@
+##### § 81.19 Metropolitan Boston Intrastate Air Quality Control Region. #####
+
+The Metropolitan Boston Intrastate Air Quality Control Region (Massachusetts) consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Massachusetts: Cities—Beverly, Boston, Brockton, Cambridge, Chelsea, Everett, Gloucester, Lynn, Malden, Marlborough, Medford, Melrose, Newton, Peabody, Quincy, Revere, Salem, Somerville, Waltham, Woburn.
+
+Townships—Abington, Acton, Arlington, Ashland, Avon, Bedford, Belmont, Bolton, Boxborough, Braintree, Bridgewater, Brookline, Burlington, Canton, Cohasset, Concord, Danvers, Dedham, Dover, Duxbury, East Bridgewater, Easton, Essex, Framingham, Hamilton, Hanover, Hanson, Hingham, Holbrook, Holliston, Hopkinton, Hudson, Hull, Ipswich, Lexington, Lincoln, Lynnfield, Manchester, Marblehead, Marshfield, Maynard, Medfield, Middleton, Millis, Milton, Nahant, Natick, Needham, Norfolk, North Reading, Norwell, Norwood, Pembroke, Randolph, Reading, Rockland, Rockport, Saugus, Scituate, Sharon, Sherborn, Southborough, Stoneham, Stoughton, Stow, Sudbury, Swampscott, Topsfield, Wakefield, Walpole, Watertown, Wayland, Wellesly, Wenham, West Bridgewater, Weston, Westwood, Weymouth, Whitman, Wilmington, Winchester, Winthrop.

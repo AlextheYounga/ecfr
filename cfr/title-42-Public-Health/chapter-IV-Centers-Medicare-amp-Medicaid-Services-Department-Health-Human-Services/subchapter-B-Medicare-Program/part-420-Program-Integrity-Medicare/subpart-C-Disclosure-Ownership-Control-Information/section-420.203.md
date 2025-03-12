@@ -1,0 +1,3 @@
+##### § 420.203 Disclosure of hiring of intermediary's former employees. #####
+
+A provider must notify the Secretary promptly if it, or its home office (in the case of a chain organization), employs or obtains the services of an individual who, at any time during the year preceding such employment, was employed in a managerial, accounting, auditing, or similar capacity by an agency or organization which currently serves, or at any time during the preceding year, served as a Medicare fiscal intermediary or carrier for the provider. *Similar capacity* means the performance of essentially the same work functions as those of a manager, accountant, or auditor even though the individual is not so designated by title.

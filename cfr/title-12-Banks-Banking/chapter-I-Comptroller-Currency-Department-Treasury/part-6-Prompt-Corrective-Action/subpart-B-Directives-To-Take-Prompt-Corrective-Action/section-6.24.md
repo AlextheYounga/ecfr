@@ -1,0 +1,3 @@
+##### § 6.24 Request for modification or rescission of directive. #####
+
+Any national bank or Federal savings association that is subject to a directive under this subpart may, upon a change in circumstances, request in writing that the OCC reconsider the terms of the directive, and may propose that the directive be rescinded or modified. Unless otherwise ordered by the OCC, the directive shall continue in place while such request is pending before the OCC.

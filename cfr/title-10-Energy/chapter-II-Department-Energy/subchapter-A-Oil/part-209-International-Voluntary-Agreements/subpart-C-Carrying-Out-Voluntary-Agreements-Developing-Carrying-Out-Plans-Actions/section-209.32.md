@@ -1,0 +1,7 @@
+##### § 209.32 Initiation of meetings. #####
+
+(a) Except for meetings of bodies created by the International Energy Agency, any meeting among participants in a voluntary agreement pursuant to this subpart, for the purpose of carrying out such voluntary agreement or developing or carrying out a plan of action pursuant thereto, shall be initiated and chaired by a full-time Federal employee designated by the Administrator.
+
+(b) Except as provided in paragraph (c) of this section, the Administrator shall provide notice of meetings held pursuant to this subpart, in writing, to the Attorney General, the Federal Trade Commission, and to the Speaker of the House and the President of the Senate for delivery to the appropriate committees of Congress. Except during an international energy supply emergency, notice shall also be provided to the public through publication in the Federal Register. Such notice shall identify the time, place, and agenda of the meeting. Notice in the Federal Register shall be published at least seven days prior to the date of the meeting unless emergency circumstances, IEP requirements or other unanticipated circumstances require the period to be shortened.
+
+(c) During an international energy supply emergency, advance notice shall be given to the Attorney General, the Federal Trade Commission and to the Speaker of the House and the President of the Senate for delivery to the appropriate committees of Congress. Such notice may be telephonic or by such other means as practicable, and shall be confirmed in writing.

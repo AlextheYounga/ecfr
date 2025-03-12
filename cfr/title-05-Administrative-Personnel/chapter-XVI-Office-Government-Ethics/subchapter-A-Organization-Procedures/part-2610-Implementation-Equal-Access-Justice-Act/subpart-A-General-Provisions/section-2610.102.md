@@ -1,0 +1,5 @@
+##### § 2610.102 Purpose. #####
+
+The Act provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (“adversary adjudications”) before the Office of Government Ethics. An eligible party may receive an award when it prevails over the Office, unless the Office's position in the proceeding was substantially justified or special circumstances make an award unjust. An eligible party may also receive an award when the demand of the Office is substantially in excess of the decision in the adversary adjudication and is unreasonable when compared with such decision, under the facts and circumstances of the case, unless the party has committed a willful violation of law or otherwise acted in bad faith or special circumstances make an award unjust. The rules in this part describe the parties eligible for awards and the proceedings that are covered. They also explain how to apply for awards, and the procedures and standards that the Office will use to make them.
+
+[57 FR 33268, July 28, 1992, as amended at 63 FR 13116, Mar. 18, 1998]

@@ -1,0 +1,19 @@
+##### § 716.35 Submission of lists of studies. #####
+
+(a) Except as provided in §§ 716.5, 716.20, and 716.50, persons subject to this rule must send lists of studies to EPA for each of the listed substances or listed mixtures (including as a known byproduct) in § 716.120 which they are manufacturing, importing, or processing, or which they propose to manufacture (including import) or process.
+
+(1) *Ongoing studies.* As of the date a person becomes subject to this part, a list of ongoing health and safety studies being conducted by or initiated for them, noting for each entry: The beginning date of the study, the purpose of the study, the types of data to be collected, the anticipated date of completion, and the name and address of the laboratory conducting the study.
+
+(2) *Initiated studies.* After the date a person becomes subject to this part, a list of studies initiated by or for them, noting for each entry: The beginning date of the study, the purpose of the study, the types of data to be collected, the anticipated date of completion, and the name and address of the laboratory conducting the study.
+
+(3) *Studies which are known but without possession of copies.* As of the date a person becomes subject to this part, a list of unpublished health and safety studies known to them of which they do not have copies. The name and address of any person known to them to possess a copy of the unpublished study must accompany each entry on the list. For purposes of this section only, an unpublished study will be considered to be “known to” a person, if the study can be discovered by a file search in accordance with § 716.25.
+
+(4) *Studies previously sent to Federal agencies without confidentiality claims.* A list of unpublished studies which have been sent to a Federal Agency with no claims of confidentiality. The submission must for each study: Identify the study by title, state the name and address to whom the study was sent, and the month and year in which the study was submitted. Any study identified will be treated as if it were submitted under section 8(d) and will be available for public disclosure under section 14(b) of TSCA. Persons subject to this requirement may submit either a list of unpublished health and safety studies previously submitted to any Federal agency without claims of confidentiality in accordance with § 716.35(a)(4), or copies of each such study in accordance with § 716.30.
+
+(b) Submission under paragraph (a) of this section must be identified either on the face of the study or otherwise by the applicable chemical name and CAS number (if any) listed in § 716.120(a) (1) and (2), and must be accompanied by a cover letter containing the name, job title, address and telephone numbers of the submitting official, and the name and address of the manufacturing or processing establishment on whose behalf the submission is made.
+
+(c) Persons must use the CISS tool to complete and submit all data, reports, and other information required by 40 CFR part 716, via CDX. Submission requires registration with CDX, and must be made only as set forth in this section.
+
+(d) To access the CISS tool go to *https://cdx.epa.gov/ssl/CSPP/PrimaryAuthorizedOfficial/Home.aspx* and follow the appropriate links and for further instructions to go *http://www.epa.gov/oppt/chemtest/ereporting/index.html.*
+
+[51 FR 32726, Sept. 15, 1986, as amended at 52 FR 20084, May 29, 1987; 52 FR 44828, Nov. 20, 1987; 53 FR 12523, Apr. 15, 1988; 53 FR 46746, Nov. 18, 1988; 60 FR 34463, July 3, 1995; 63 FR 15774, Apr. 1, 1998; 71 FR 47135, Aug. 16, 2006; 78 FR 72826, Dec. 4, 2013]

@@ -1,0 +1,5 @@
+##### § 89.29 Disclosure to commercial credit bureaus and consumer reporting agencies. #####
+
+(a) Data on all delinquent commercial and consumer debts may be reported to commercial credit bureaus and consumer reporting agencies (see 31 U.S.C. 3701(a)(3)). Sixty days prior to release of information to a consumer reporting agency, the debtor shall be notified, in writing, of the intent to disclose the existence of the debt to a consumer reporting agency. Such notice of intent may be by separate correspondence or included in correspondence demanding direct payment. The notice shall be in conformance with 31 U.S.C. 3711(f) and the Federal Claims Collection Standards.
+
+(b) The information that may be disclosed is the debtor's name, address, social security number or taxpayer identification number, and any other information to establish the identity and location of the individual, the amount of the claim, status and history of the claim, and the program under which the claim arose.

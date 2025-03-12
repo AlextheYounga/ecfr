@@ -1,0 +1,17 @@
+##### § 501.101 Proceedings to modify or rescind a rule or order. #####
+
+(a) In response to a request duly filed by an interested person, OFE may commence a proceeding to modify or rescind a rule or order. If OFE determines that a request to modify or rescind a rule or order does not warrant commencement of a proceeding, it will deny the request and issue a brief statement of the reason(s) for the denial.
+
+(b) A request for modification or rescission of a rule or order must comply with the requirements of § 501.7 and must be filed at the address set forth in § 501.11.
+
+(c) Notice of the request for modification or rescission of an order must be given by the requester to each party to the original proceeding that resulted in the issuance of the original order for which modification or rescission is sought. If the number of parties to the original proceeding is too large to allow actual notice at a reasonable cost or within a reasonable time, a requester may ask that OFE give notice to the parties by publication in the Federal Register; however, this alternate notice does not bind OFE to commence a proceeding, if it subsequently determines that the request is not warranted.
+
+(d) If OFE determines to grant a request to commence a proceeding to rescind or modify a rule or order, or OFE on its own initiative, commences a proceeding for the modification or rescission of a rule or order, it will give notice, either by service of a written notice or by oral communication (which communication must be promptly confirmed in writing) to each person upon whom the order was served that OFE proposes to modify or rescind, or, alternatively, by publication of notice in the Federal Register. OFE will give a reasonable period of time for each person notified to file a written response.
+
+(e)(1) A copy of any written comments submitted to OFE under this subpart by a party to the original proceeding must also be sent to the requester. The party submitting such comments must certify to OFE that he has sent a copy of such comments to the requester.
+
+(2) OFE may notify other persons participating in the proceeding of the comments and provide an opportunity for those notified to respond.
+
+(f) A request for modification or rescission of a rule or order must contain a complete statement of all facts relevant to the action sought. The request must also include the names and addresses of all reasonably ascertainable persons who will be affected. Pertinent provisions contained in any documents believed to support a request may be briefly described, however, OFE reserves the right to obtain copies of any significant documents that will assist in making a determination on the merits of a request. The request must identify the specific order or rule for which modification or rescission is sought. A request should also indicate whether an informal conference will facilitate OFE's determination to commence, or not to commence a proceeding, or will assist OFE in making any determinations on material issues raised by the request.
+
+(g) A decision by OFE to commence a proceeding under this subpart does not entitle the requester to a public hearing on the request for modification or rescission. A public hearing may be held, however, if, in its discretion, OFE considers that a public hearing will advance its evaluation of the request.

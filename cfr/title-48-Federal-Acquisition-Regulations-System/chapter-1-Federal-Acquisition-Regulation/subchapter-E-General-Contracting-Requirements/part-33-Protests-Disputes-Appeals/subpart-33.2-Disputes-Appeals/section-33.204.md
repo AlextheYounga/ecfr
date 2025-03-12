@@ -1,0 +1,5 @@
+##### 33.204 Policy. #####
+
+The Government's policy is to try to resolve all contractual issues in controversy by mutual agreement at the contracting officer's level. Reasonable efforts should be made to resolve controversies prior to the submission of a claim. Agencies are encouraged to use ADR procedures to the maximum extent practicable. Certain factors, however, may make the use of ADR inappropriate (see 5 U.S.C. 572(b)). Except for arbitration conducted pursuant to the Administrative Dispute Resolution Act (ADRA), (5 U.S.C. 571, *et seq.*), agencies have authority which is separate from that provided by the ADRA to use ADR procedures to resolve issues in controversy. Agencies may also elect to proceed under the authority and requirements of the ADRA.
+
+[59 FR 11381, Mar. 10, 1994, as amended at 63 FR 58595, Oct. 30, 1998]

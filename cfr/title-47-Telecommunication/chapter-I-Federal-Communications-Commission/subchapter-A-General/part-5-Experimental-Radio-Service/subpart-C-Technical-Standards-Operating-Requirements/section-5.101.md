@@ -1,0 +1,3 @@
+##### § 5.101 Frequency stability. #####
+
+Experimental Radio Service licensees shall ensure that transmitted emissions remain within the authorized frequency band under normal operating conditions: Equipment is presumed to operate over the temperature range −20 to + 50 degrees Celsius with an input voltage variation of 85% to 115% of rated input voltage, unless justification is presented to demonstrate otherwise.

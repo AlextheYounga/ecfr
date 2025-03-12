@@ -1,0 +1,3 @@
+##### § 33.406 May a recipient designate a lead agency for fair share objective negotiation purposes? #####
+
+If an Indian Tribal, State or local Government has more than one agency that receives EPA financial assistance, the agencies within that Government may designate a lead agency to negotiate MBE and WBE fair share objectives with EPA to be used by each of the agencies. Each agency must otherwise negotiate with EPA separately its own MBE and WBE fair share objectives.

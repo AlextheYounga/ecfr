@@ -1,0 +1,9 @@
+##### § 33.411 Who may be exempted from this subpart? #####
+
+(a) *General.* A recipient of an EPA financial assistance agreement in the amount of $250,000 or less for any single assistance agreement, or of more than one financial assistance agreement with a combined total of $250,000 or less in any one fiscal year, is not required to apply the fair share objective requirements of this subpart. This exemption is limited to the fair share objective requirements of this subpart.
+
+(b) *Clean Water State Revolving Fund (CWSRF) Program, Drinking Water State Revolving Fund (DWSRF) Program, and Brownfields Cleanup Revolving Loan Fund (BCRLF) Program Identified Loan Recipients.* A recipient under the CWSRF, DWSRF, or BCRLF Program is not required to apply the fair share objective requirements of this subpart to an entity receiving an identified loan in an amount of $250,000 or less or to an entity receiving more than one identified loan with a combined total of $250,000 or less in any one fiscal year. This exemption is limited to the fair share objective requirements of this subpart.
+
+(c) *Tribal and Intertribal Consortia recipients of program grants which can be included in Performance Partnership Grants (PPGs) under 40 CFR Part 35, Subpart B.* Tribal and Intertribal consortia recipients of PPG eligible grants are not required to apply the fair share objective requirements of this subpart to those grants. This exemption is limited to the fair share objective requirements of this subpart.
+
+(d) *Technical Assistance Grant (TAG) Program Recipients.* A recipient of a TAG is not required to apply the fair share objective requirements of this subpart to that grant. This exemption is limited to the fair share objective requirements of this subpart.

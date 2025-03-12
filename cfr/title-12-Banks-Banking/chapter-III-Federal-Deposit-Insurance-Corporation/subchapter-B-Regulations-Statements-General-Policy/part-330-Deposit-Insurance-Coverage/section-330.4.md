@@ -1,0 +1,7 @@
+##### § 330.4 Continuation of separate deposit insurance after merger of insured depository institutions. #####
+
+Whenever the liabilities of one or more insured depository institutions for deposits are assumed by another insured depository institution, whether by merger, consolidation, other statutory assumption or contract:
+
+(a) The insured status of the institutions whose liabilities have been assumed terminates on the date of receipt by the FDIC of satisfactory evidence of the assumption; and
+
+(b) The separate insurance of deposits assumed continues for six months from the date the assumption takes effect or, in the case of a time deposit, the earliest maturity date after the six-month period. In the case of time deposits which mature within six months of the date the deposits are assumed and which are renewed at the same dollar amount (either with or without accrued interest having been added to the principal amount) and for the same term as the original deposit, the separate insurance applies to the renewed deposits until the first maturity date after the six-month period. Time deposits that mature within six months of the deposit assumption and that are renewed on any other basis, or that are not renewed and thereby become demand deposits, are separately insured only until the end of the six-month period.

@@ -1,0 +1,5 @@
+##### § 195.8 Transportation of hazardous liquid or carbon dioxide in pipelines constructed with other than steel pipe. #####
+
+No person may transport any hazardous liquid or carbon dioxide through a pipe that is constructed after October 1, 1970, for hazardous liquids or after July 12, 1991 for carbon dioxide of material other than steel unless the person has notified the Administrator in writing at least 90 days before the transportation is to begin. The notice must state whether carbon dioxide or a hazardous liquid is to be transported and the chemical name, common name, properties and characteristics of the hazardous liquid to be transported and the material used in construction of the pipeline. If the Administrator determines that the transportation of the hazardous liquid or carbon dioxide in the manner proposed would be unduly hazardous, he will, within 90 days after receipt of the notice, order the person that gave the notice, in writing, not to transport the hazardous liquid or carbon dioxide in the proposed manner until further notice.
+
+[Amdt. 195-45, 56 FR 26925, June 12, 1991, as amended by Amdt. 195-50, 59 FR 17281, Apr. 12, 1994]

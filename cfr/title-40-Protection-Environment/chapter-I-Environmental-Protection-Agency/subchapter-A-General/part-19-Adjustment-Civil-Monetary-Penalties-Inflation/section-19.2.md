@@ -1,0 +1,7 @@
+##### § 19.2 Effective date. #####
+
+(a) The statutory civil monetary penalty levels set forth in the third column of Table 1 of § 19.4 apply to all violations which occur or occurred after November 2, 2015, where the penalties are assessed on or after January 8, 2025. The statutory civil monetary penalty levels set forth in the fourth column of table 1 of § 19.4 apply to all violations which occurred after November 2, 2015, where the penalties were assessed on or after December 27, 2023, but before January 8, 2025.
+
+(b) The statutory monetary penalty levels in the third column of table 2 to § 19.4 apply to all violations which occurred after December 6, 2013, through November 2, 2015, and to violations occurring after November 2, 2015, where penalties were assessed before August 1, 2016. The statutory civil monetary penalty levels set forth in the fourth column of table 2 of § 19.4 apply to all violations which occurred after January 12, 2009, through December 6, 2013. The statutory civil monetary penalty levels set forth in the fifth column of table 2 of § 19.4 apply to all violations which occurred after March 15, 2004, through January 12, 2009. The statutory civil monetary penalty levels set forth in the sixth column of table 2 of § 19.4 apply to all violations which occurred after January 30, 1997, through March 15, 2004.
+
+[90 FR 1377, Jan. 8, 2025]

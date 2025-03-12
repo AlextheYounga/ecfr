@@ -1,0 +1,9 @@
+##### § 76.944 Commission review of franchising authority decisions on rates for the basic service tier and associated equipment. #####
+
+(a) The Commission shall be the sole forum for appeals of decisions by franchising authorities on rates for the basic service tier or associated equipment involving whether or not a franchising authority has acted consistently with the Cable Act or §§ 76.922 and 76.923. Appeals of ratemaking decisions by franchising authorities that do not depend upon determining whether a franchising authority has acted consistently with the Cable Act or §§ 76.922 and 76.923, may be heard in state or local courts.
+
+(b) Any participant at the franchising authority level in a ratemaking proceeding may file an appeal of the franchising authority's decision with the Commission within 30 days of release of the text of the franchising authority's decision as computed under § 1.4(b) of this chapter. Appeals shall be served on the franchising authority or other authority that issued the rate decision. Where the state is the appropriate decisionmaking authority, the state shall forward a copy of the appeal to the appropriate local official(s). Oppositions may be filed within 15 days after the appeals is filed, and must be served on the party(ies) appealing the rate decision. Replies may be filed 7 days after the last day for oppositions and shall be served on the parties to the proceeding.
+
+(c) An operator that uses the annual rate adjustment method under Section 76.922(e) may include in its next true up under Section 76.922(e)(3) any amounts to which the operator would have been entitled but for a franchising authority decision that is not upheld on appeal.
+
+[58 FR 29753, May 21, 1993, as amended at 59 FR 17974, Apr. 15, 1994; 60 FR 52121, Oct. 5, 1995]

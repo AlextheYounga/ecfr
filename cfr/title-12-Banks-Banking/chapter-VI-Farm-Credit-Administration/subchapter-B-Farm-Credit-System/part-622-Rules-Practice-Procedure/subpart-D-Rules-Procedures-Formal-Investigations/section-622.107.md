@@ -1,0 +1,3 @@
+##### § 622.107 Transcripts. #####
+
+Transcripts, if any, of an investigative proceeding shall be recorded by any means authorized by the designated FCA representative conducting the investigation. A person who has given testimony in an investigative proceeding (or counsel for such person) upon proper identification shall have the right to inspect the transcript of the person's testimony but may not obtain a copy if the FCA's representative conducting the investigation has cause to believe that the contents should not be disclosed.

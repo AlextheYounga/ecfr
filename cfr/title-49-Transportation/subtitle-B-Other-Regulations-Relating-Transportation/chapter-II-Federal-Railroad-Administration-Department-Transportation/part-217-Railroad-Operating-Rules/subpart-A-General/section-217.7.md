@@ -1,0 +1,9 @@
+##### § 217.7 Operating rules; filing and recordkeeping. #####
+
+(a) On or before December 21, 1994, each Class I railroad, Class II railroad, the National Railroad Passenger Corporation, and each railroad providing commuter service in a metropolitan or suburban area that is in operation on November 21, 1994, shall file with the Federal Railroad Administrator, Washington, DC 20590, one copy of its code of operating rules, timetables, and timetable special instructions which were in effect on November 21, 1994. Each Class I railroad, each Class II railroad, and each railroad providing commuter service in a metropolitan or suburban area that commences operations after November 21, 1994, shall file with the Administrator one copy of its code of operating rules, timetables, and timetable special instructions before it commences operations.
+
+(b) After November 21, 1994, each Class I railroad, each Class II railroad, the National Railroad Passenger Corporation, and each railroad providing commuter service in a metropolitan or suburban area shall file each new amendment to its code of operating rules, each new timetable, and each new timetable special instruction with the Federal Railroad Administrator within 30 days after it is issued.
+
+(c) On or after November 21, 1994, each Class III railroad and any other railroad subject to this part but not subject to paragraphs (a) and (b) of this section shall keep one copy of its current code of operating rules, timetables, and timetable special instructions and one copy of each subsequent amendment to its code of operating rules, each new timetable, and each new timetable special instruction, at its system headquarters, and shall make such records available to representatives of the Federal Railroad Administration for inspection and copying during normal business hours.
+
+[59 FR 43070, Aug. 22, 1994]

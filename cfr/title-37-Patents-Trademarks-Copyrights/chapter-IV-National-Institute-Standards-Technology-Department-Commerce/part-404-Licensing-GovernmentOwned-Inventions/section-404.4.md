@@ -1,0 +1,5 @@
+##### § 404.4 Authority to grant licenses. #####
+
+Federally owned inventions shall be made available for licensing as deemed appropriate in the public interest and each agency shall notify the public of these available inventions. The agencies having custody of these inventions may grant nonexclusive, co-exclusive, partially exclusive, or exclusive licenses thereto under this part. Licenses may be royalty-free or for royalties or other consideration. They may be for all or less than all fields of use or in specified geographic areas and may include a release for past infringement. Any license shall not confer on any person immunity from the antitrust laws or from a charge of patent misuse, and the exercise of such rights pursuant to this part shall not be immunized from the operation of state or federal law by reason of the source of the grant.
+
+[71 FR 11512, Mar. 8, 2006]

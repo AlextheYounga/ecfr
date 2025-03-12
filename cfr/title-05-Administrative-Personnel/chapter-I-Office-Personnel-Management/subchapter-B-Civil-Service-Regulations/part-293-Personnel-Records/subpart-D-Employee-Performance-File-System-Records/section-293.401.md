@@ -1,0 +1,3 @@
+##### § 293.401 Applicability of regulations. #####
+
+This subpart applies to Executive agencies as defined in sections 105, 3132(a)(1) and 4301(1) of title 5, U.S. Code, including Military Departments (but not non-appropriated fund employees) as defined in section 102 of title 5, U.S. Code, and independent establishments as defined in section 104 of title 5, U.S. Code. Within those agencies, the requirements of this subpart apply to all employees occupying positions subject to civil service rules and regulations, including Senior Executive Service positions as defined in 5 U.S.C. 3132(a)(2).

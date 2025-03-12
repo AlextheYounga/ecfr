@@ -1,0 +1,3 @@
+##### § 426.120 Applicability; description of the incandescent lamp envelope manufacturing subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the processes by which (a) raw materials are melted in a furnace and mechanically processed into incandescent lamp envelopes or (b) incandescent lamp envelopes are etched with hydrofluoric acid to produce frosted envelopes.

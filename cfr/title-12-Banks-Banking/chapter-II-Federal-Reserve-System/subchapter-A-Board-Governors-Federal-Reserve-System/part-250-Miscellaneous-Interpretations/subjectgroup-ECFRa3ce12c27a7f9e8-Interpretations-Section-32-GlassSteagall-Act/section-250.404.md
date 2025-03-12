@@ -1,0 +1,7 @@
+##### § 250.404 Serving as director of member bank and corporation selling own stock. #####
+
+(a) The Board recently considered the question whether section 32 of the Banking Act of 1933 (12 U.S.C. 78) would be applicable to the service of a director of a corporation which planned to acquire or organize, as proceeds from the sale of stock became available, subsidiaries to operate in a wide variety of fields, including manufacturing, foreign trade, leasing of heavy equipment, and real estate development. The corporation had a paid-in capital of about $60,000 and planned to sell additional shares at a price totaling $10 million, with the proviso that if less than $3 million worth were sold by March 1962, the funds subscribed would be refunded. It thus appeared to be contemplated that the sale of stock would take at least a year, and there appeared to be no reason for believing that, if the venture proved successful, additional shares would not be offered so that the corporation could continue to expand.
+
+(b) The Board concluded that section 32 would be applicable, stating that although § 218.102, as clarified by § 218.104, related to closed-end investment companies, the rationale of that interpretation is applicable to corporations generally.
+
+[26 FR 2456, Mar. 23, 1961. Redesignated at 61 FR 57289, Nov. 6, 1996]

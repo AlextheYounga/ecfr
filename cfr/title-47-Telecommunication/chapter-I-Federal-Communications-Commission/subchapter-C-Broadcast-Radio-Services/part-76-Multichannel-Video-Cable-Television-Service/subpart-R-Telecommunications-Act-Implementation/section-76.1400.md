@@ -1,0 +1,3 @@
+##### § 76.1400 Purpose. #####
+
+The rules and regulations set forth in this subpart provide procedures for administering certain aspects of cable regulation. These rules and regulations provide guidance for operators, subscribers and franchise authorities with respect to matters that are subject to immediate implementation under governing statutes but require specific regulatory procedures or definitions.

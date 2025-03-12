@@ -1,0 +1,5 @@
+##### § 438.424 Effectuation of reversed appeal resolutions. #####
+
+(a) *Services not furnished while the appeal is pending.* If the MCO, PIHP, or PAHP, or the State fair hearing officer reverses a decision to deny, limit, or delay services that were not furnished while the appeal was pending, the MCO, PIHP, or PAHP must authorize or provide the disputed services promptly and as expeditiously as the enrollee's health condition requires but no later than 72 hours from the date it receives notice reversing the determination.
+
+(b) *Services furnished while the appeal is pending.* If the MCO, PIHP, or PAHP, or the State fair hearing officer reverses a decision to deny authorization of services, and the enrollee received the disputed services while the appeal was pending, the MCO, PIHP, or PAHP, or the State must pay for those services, in accordance with State policy and regulations.

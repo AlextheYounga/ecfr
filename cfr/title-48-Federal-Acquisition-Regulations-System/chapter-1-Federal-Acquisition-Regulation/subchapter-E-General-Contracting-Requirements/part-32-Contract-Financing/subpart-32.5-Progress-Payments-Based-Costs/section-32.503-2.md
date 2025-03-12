@@ -1,0 +1,9 @@
+##### 32.503-2 Supervision of progress payments. #####
+
+(a) The extent of progress payments supervision, by prepayment review or periodic review, should vary inversely with the contractor's experience, performance record, reliability, quality of management, and financial strength, and with the adequacy of the contractor's accounting system and controls. Supervision shall be of a kind and degree sufficient to provide timely knowledge of the need for, and timely opportunity for, any actions necessary to protect Government interests.
+
+(b) The administering office must keep itself informed of the contractor's overall operations and financial condition, since difficulties encountered and losses suffered in operations outside the particular progress payment contract may affect adversely the performance of that contract and the liquidation of the progress payments.
+
+(c) For contracts with contractors (1) whose financial condition is doubtful or not strong in relation to progress payments outstanding or to be outstanding, (2) with management of doubtful capacity, (3) whose accounting controls are found by experience to be weak, or (4) experiencing substantial difficulties in performance, full information on progress under the contract involved (including the status of subcontracts) and on the contractor's other operations and overall financial condition should be obtained and analyzed frequently, with a view to protecting the Government's interests better and taking such action as may be proper to make contract performance more certain.
+
+(d) So far as practicable, all cost problems, particularly those involving indirect costs, that are likely to create disagreements in future administration of the contract should be identified and resolved at the inception of the contract (see 31.109).

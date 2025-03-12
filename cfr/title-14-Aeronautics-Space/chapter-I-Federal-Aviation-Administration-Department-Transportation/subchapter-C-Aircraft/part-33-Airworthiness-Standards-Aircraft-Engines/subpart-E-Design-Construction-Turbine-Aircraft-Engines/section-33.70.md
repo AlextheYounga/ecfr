@@ -1,0 +1,11 @@
+##### § 33.70 Engine life-limited parts. #####
+
+By a procedure approved by the FAA, operating limitations must be established which specify the maximum allowable number of flight cycles for each engine life-limited part. Engine life-limited parts are rotor and major static structural parts whose primary failure is likely to result in a hazardous engine effect. Typically, engine life-limited parts include, but are not limited to disks, spacers, hubs, shafts, high-pressure casings, and non-redundant mount components. For the purposes of this section, a hazardous engine effect is any of the conditions listed in § 33.75 of this part. The applicant will establish the integrity of each engine life-limited part by:
+
+(a) An engineering plan that contains the steps required to ensure each engine life-limited part is withdrawn from service at an approved life before hazardous engine effects can occur. These steps include validated analysis, test, or service experience which ensures that the combination of loads, material properties, environmental influences and operating conditions, including the effects of other engine parts influencing these parameters, are sufficiently well known and predictable so that the operating limitations can be established and maintained for each engine life-limited part. Applicants must perform appropriate damage tolerance assessments to address the potential for failure from material, manufacturing, and service induced anomalies within the approved life of the part. Applicants must publish a list of the life-limited engine parts and the approved life for each part in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness as required by § 33.4 of this part.
+
+(b) A manufacturing plan that identifies the specific manufacturing constraints necessary to consistently produce each engine life-limited part with the attributes required by the engineering plan.
+
+(c) A service management plan that defines in-service processes for maintenance and the limitations to repair for each engine life-limited part that will maintain attributes consistent with those required by the engineering plan. These processes and limitations will become part of the Instructions for Continued Airworthiness.
+
+[Amdt. 33-22, 72 FR 50860, Sept. 4, 2007]

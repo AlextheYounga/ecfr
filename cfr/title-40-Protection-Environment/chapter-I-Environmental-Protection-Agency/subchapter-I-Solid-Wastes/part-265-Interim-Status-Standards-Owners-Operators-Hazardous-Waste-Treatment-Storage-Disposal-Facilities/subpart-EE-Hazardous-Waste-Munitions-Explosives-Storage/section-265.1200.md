@@ -1,0 +1,3 @@
+##### § 265.1200 Applicability. #####
+
+The requirements of this subpart apply to owners or operators who store munitions and explosive hazardous wastes, except as § 265.1 provides otherwise. (NOTE: Depending on explosive hazards, hazardous waste munitions and explosives may also be managed in other types of storage units, including containment buildings (40 CFR part 265, subpart DD), tanks (40 CFR part 265, subpart J), or containers (40 CFR part 265, subpart I); See 40 CFR 266.205 for storage of waste military munitions).

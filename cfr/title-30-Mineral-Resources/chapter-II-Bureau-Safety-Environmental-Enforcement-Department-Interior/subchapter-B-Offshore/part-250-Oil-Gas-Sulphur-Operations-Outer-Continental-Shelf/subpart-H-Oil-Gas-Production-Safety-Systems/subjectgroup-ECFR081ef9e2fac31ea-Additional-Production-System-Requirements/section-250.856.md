@@ -1,0 +1,5 @@
+##### § 250.856 Engines. #####
+
+(a) *Engine exhaust.* You must equip all engine exhausts to comply with the insulation and personnel protection requirements of API RP 14C, section 4.2 (incorporated by reference as specified in § 250.198). You must equip exhaust piping from diesel engines with spark arresters.
+
+(b) *Diesel engine air intake.* You must equip diesel engine air intakes with a device to shut down the diesel engine in the event of runaway (*i.e.,* overspeed). You must equip diesel engines that are continuously attended with either remotely operated manual or automatic shutdown devices. You must equip diesel engines that are not continuously attended with automatic shutdown devices. The following diesel engines do not require a shutdown device: Engines for fire water pumps; engines on emergency generators; engines that power BOP accumulator systems; engines that power air supply for confined entry personnel; temporary equipment on non-producing platforms; booster engines whose purpose is to start larger engines; and engines that power portable single cylinder rig washers.

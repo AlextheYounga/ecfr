@@ -1,0 +1,3 @@
+##### § 1800.10 Purpose and scope. #####
+
+Pursuant to Articles IV.i.(1), (7), (15), and VII.e. of the Northeast Interstate Low-Level Radioactive Waste Compact (enacted by the “Omnibus Low-Level Radioactive Waste Compact Consent Act of 1985,” Public Law 99-240, 99 Stat. 1842, Title I) (the “Compact”), the Northeast Interstate Low-Level Radioactive Waste Commission (the “Commission”) establishes through this part the conditions that it deems necessary and appropriate to be met by a state requesting eligibility to become a party state to this Compact. The Commission shall apply these conditions to evaluate the petition of any state seeking to be eligible to become a party state pursuant to Article VII of the Compact.

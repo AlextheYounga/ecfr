@@ -1,0 +1,3 @@
+##### § 63.201 Purpose and scope. #####
+
+This subpart covers the storage of radioactive material by DOE in the Yucca Mountain repository and on the Yucca Mountain site. For the purposes of demonstrating compliance with this subpart, to the extent there may be any conflict with the requirements specified in this subpart and the requirements contained in Subparts A-J of this regulation, including definitions, the requirements in this subpart shall take precedence.

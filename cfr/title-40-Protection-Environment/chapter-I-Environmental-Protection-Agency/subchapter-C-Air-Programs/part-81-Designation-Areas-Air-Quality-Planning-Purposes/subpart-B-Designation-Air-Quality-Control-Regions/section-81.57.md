@@ -1,0 +1,7 @@
+##### § 81.57 Eastern Tennessee-Southwestern Virginia Interstate Air Quality Control Region. #####
+
+The Bristol (Virginia)-Johnson City (Tennessee) Interstate Air Quality Control Region has been renamed the Eastern Tennessee-Southwestern Virginia Interstate Air Quality Control Region and revised to consist of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Tennessee: Anderson County, Blount County, Bradley County, Campbell County, Carter County, Claiborne County, Cocke County, Grainger County, Greene County, Hamblen County, Hancock County, Hawkins County, Jefferson County, Johnson County, Knox County, Loudon County, McMinn County, Meigs County, Monroe County, Polk County, Rhea County, Roane County, Sevier County, Sullivan County, Unicoi County, Union County, Washington County.
+
+In the State of Virginia: Bland County, Bristol City, Buchanan County, Carroll County, Dickenson County, Galax City, Grayson County, Lee County, Norton City, Russell County, Scott County, Smyth County, Tazewell County, Washington County, Wise County, Wythe County.

@@ -1,0 +1,25 @@
+##### § 51.321 Methods of obtaining interconnection and access to unbundled elements under section 251 of the Act. #####
+
+(a) Except as provided in paragraph (e) of this section, an incumbent LEC shall provide, on terms and conditions that are just, reasonable, and nondiscriminatory in accordance with the requirements of this part, any technically feasible method of obtaining interconnection or access to unbundled network elements at a particular point upon a request by a telecommunications carrier.
+
+(b) Technically feasible methods of obtaining interconnection or access to unbundled network elements include, but are not limited to:
+
+(1) Physical collocation and virtual collocation at the premises of an incumbent LEC; and
+
+(2) Meet point interconnection arrangements.
+
+(c) A previously successful method of obtaining interconnection or access to unbundled network elements at a particular premises or point on any incumbent LEC's network is substantial evidence that such method is technically feasible in the case of substantially similar network premises or points. A requesting telecommunications carrier seeking a particular collocation arrangement, either physical or virtual, is entitled to a presumption that such arrangement is technically feasible if any LEC has deployed such collocation arrangement in any incumbent LEC premises.
+
+(d) An incumbent LEC that denies a request for a particular method of obtaining interconnection or access to unbundled network elements on the incumbent LEC's network must prove to the state commission that the requested method of obtaining interconnection or access to unbundled network elements at that point is not technically feasible.
+
+(e) An incumbent LEC shall not be required to provide for physical collocation of equipment necessary for interconnection or access to unbundled network elements at the incumbent LEC's premises if it demonstrates to the state commission that physical collocation is not practical for technical reasons or because of space limitations. In such cases, the incumbent LEC shall be required to provide virtual collocation, except at points where the incumbent LEC proves to the state commission that virtual collocation is not technically feasible. If virtual collocation is not technically feasible, the incumbent LEC shall provide other methods of interconnection and access to unbundled network elements to the extent technically feasible.
+
+(f) An incumbent LEC shall submit to the state commission, subject to any protective order as the state commission may deem necessary, detailed floor plans or diagrams of any premises where the incumbent LEC claims that physical collocation is not practical because of space limitations. These floor plans or diagrams must show what space, if any, the incumbent LEC or any of its affiliates has reserved for future use, and must describe in detail the specific future uses for which the space has been reserved and the length of time for each reservation. An incumbent LEC that contends space for physical collocation is not available in an incumbent LEC premises must also allow the requesting carrier to tour the entire premises in question, not only the area in which space was denied, without charge, within ten days of the receipt of the incumbent's denial of space. An incumbent LEC must allow a requesting telecommunications carrier reasonable access to its selected collocation space during construction.
+
+(g) An incumbent LEC that is classified as a Class A company under § 32.11 of this chapter and that is not a National Exchange Carrier Association interstate tariff participant as provided in part 69, subpart G, shall continue to provide expanded interconnection service pursuant to interstate tariff in accordance with §§ 64.1401, 64.1402, 69.121 of this chapter, and the Commission's other requirements.
+
+(h) Upon request, an incumbent LEC must submit to the requesting carrier within ten days of the submission of the request a report describing in detail the space that is available for collocation in a particular incumbent LEC premises. This report must specify the amount of collocation space available at each requested premises, the number of collocators, and any modifications in the use of the space since the last report. This report must also include measures that the incumbent LEC is taking to make additional space available for collocation. The incumbent LEC must maintain a publicly available document, posted for viewing on the incumbent LEC's publicly available Internet site, indicating all premises that are full, and must update such a document within ten days of the date at which a premises runs out of physical collocation space.
+
+(i) An incumbent LEC must, upon request, remove obsolete unused equipment from their premises to increase the amount of space available for collocation.
+
+[61 FR 45619, Aug. 28, 1996, as amended at 64 FR 23241, Apr. 30, 1999; 65 FR 54438, Sept. 8, 2000; 66 FR 43521, Aug. 20, 2001]

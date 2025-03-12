@@ -1,0 +1,3 @@
+##### § 161.111 Availability of data and comments on a restriction implemented pursuant to an agreement. #####
+
+The airport operator shall retain all relevant supporting data and all comments relating to a restriction implemented pursuant to an agreement for as long as the restriction is in effect. The airport operator shall make these materials available for inspection upon request by the FAA. The information shall be made available for inspection by any person during the pendency of any petition for reevaluation found justified by the FAA.

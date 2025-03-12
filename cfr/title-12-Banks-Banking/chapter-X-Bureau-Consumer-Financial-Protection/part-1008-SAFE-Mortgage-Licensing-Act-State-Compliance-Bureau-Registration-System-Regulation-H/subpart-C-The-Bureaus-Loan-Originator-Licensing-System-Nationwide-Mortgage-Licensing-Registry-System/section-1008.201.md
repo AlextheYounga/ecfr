@@ -1,0 +1,3 @@
+##### § 1008.201 Scope of this subpart. #####
+
+The S.A.F.E. Act provides the Bureau with “backup authority” to establish a loan originator licensing system for any state that is determined by the Bureau not to be in compliance with the minimum standards of the S.A.F.E. Act. The provisions of this subpart become applicable to individuals in a state as provided in § 1008.115(e). The S.A.F.E. Act also authorizes the Bureau to establish and maintain a nationwide mortgage licensing system and registry if the Bureau determines that the NMLSR is failing to meet the purposes and requirements of the S.A.F.E. Act for a comprehensive licensing, supervisory, and tracking system for loan originators.

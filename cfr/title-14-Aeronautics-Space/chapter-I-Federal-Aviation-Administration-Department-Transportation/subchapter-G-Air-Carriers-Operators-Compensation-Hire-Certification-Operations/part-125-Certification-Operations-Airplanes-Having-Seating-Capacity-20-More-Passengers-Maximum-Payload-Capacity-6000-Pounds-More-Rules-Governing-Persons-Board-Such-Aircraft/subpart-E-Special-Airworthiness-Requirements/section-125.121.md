@@ -1,0 +1,3 @@
+##### § 125.121 Proof of compliance with § 125.119. #####
+
+Compliance with those provisions of § 125.119 that refer to compartment accessibility, the entry of hazardous quantities of smoke or extinguishing agent into compartment occupied by the crew or passengers, and the dissipation of the extinguishing agent in Class “C” compartments must be shown by tests in flight. During these tests it must be shown that no inadvertent operation of smoke or fire detectors in other compartments within the airplane would occur as a result of fire contained in any one compartment, either during the time it is being extinguished, or thereafter, unless the extinguishing system floods those compartments simultaneously.

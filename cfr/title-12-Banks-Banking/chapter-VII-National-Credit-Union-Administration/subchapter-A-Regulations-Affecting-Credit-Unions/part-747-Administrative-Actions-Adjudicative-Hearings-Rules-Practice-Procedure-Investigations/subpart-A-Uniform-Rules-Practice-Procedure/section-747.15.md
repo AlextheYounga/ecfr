@@ -1,0 +1,3 @@
+##### § 747.15 Opportunity for informal settlement. #####
+
+Any respondent may, at any time in the proceeding, unilaterally submit to Enforcement Counsel written offers or proposals for settlement of a proceeding, without prejudice to the rights of any of the parties. No such offer or proposal shall be made to any NCUA representative other than Enforcement Counsel. Submission of a written settlement offer does not provide a basis for adjourning or otherwise delaying all or any portion of a proceeding under this part. No settlement offer or proposal, or any subsequent negotiation or resolution, is admissible as evidence in any proceeding.

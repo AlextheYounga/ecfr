@@ -1,0 +1,3 @@
+##### § 2.912 Weight to be attached to classified evidence. #####
+
+In considering the weight and effect of any Restricted Data or other National Security Information received in evidence to which an interested party has not had opportunity to receive access, the presiding officer and the Commission shall give to such evidence such weight as is appropriate under the circumstances, taking into consideration any lack of opportunity to rebut or impeach the evidence.

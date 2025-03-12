@@ -1,0 +1,7 @@
+##### § 157.32 Standards. #####
+
+(a) *Effectiveness standard.* The child-resistant packaging, when tested by the protocol specified in 16 CFR 1700.20, shall meet the effectiveness specifications in 16 CFR 1700.15(b).
+
+(b) *Compatibility standard.* The child-resistant packaging must continue to meet the effectiveness specifications of paragraph (a) of this section when in actual use as a pesticide container. This requirement may be satisfied by appropriate scientific evaluation of the compatibility of the substance with the child-resistant packaging to determine that the chemical and physical characteristics of the pesticide will not compromise or interfere with the proper functioning of the child-resistant packaging and that the packaging will not be detrimental to the integrity of the product during storage and use.
+
+(c) *Durability standard.* The child-resistant packaging must continue to meet the effectiveness and compatibility standards of paragraphs (a) and (b) of this section for the reasonably expected lifetime of the package, taking into account the number of times the package is customarily opened and closed. This requirement may be satisfied by appropriate technical evaluation based on physical wear and stress factors of packaging, the force required for activation, and other relevant factors.

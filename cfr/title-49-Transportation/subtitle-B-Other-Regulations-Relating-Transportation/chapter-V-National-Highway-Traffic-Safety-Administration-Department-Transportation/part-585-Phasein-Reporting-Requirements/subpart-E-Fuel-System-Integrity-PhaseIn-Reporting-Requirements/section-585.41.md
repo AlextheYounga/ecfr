@@ -1,0 +1,3 @@
+##### § 585.41 Scope. #####
+
+This subpart establishes requirements for manufacturers of passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of 4,536 kg (10,000 lb) or less to respond to NHTSA inquiries, to submit reports, and to maintain records related to the reports, concerning the number of such vehicles that meet the upgraded requirements of Standard No. 301, *Fuel systems integrity* (49 CFR 571.301).

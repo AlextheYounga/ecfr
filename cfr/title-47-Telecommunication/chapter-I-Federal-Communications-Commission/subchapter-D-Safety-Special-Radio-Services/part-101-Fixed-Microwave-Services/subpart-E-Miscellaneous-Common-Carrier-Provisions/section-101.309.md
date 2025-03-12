@@ -1,0 +1,3 @@
+##### § 101.309 Requirement that licensees respond to official communications. #####
+
+All licensees in these services are required to respond to official communications from the Commission with reasonable dispatch and according to the tenor of such communications. Failure to do so will be given appropriate consideration in connection with any subsequent applications which the offending party may file and may result in the designation of such applications for hearing, or in appropriate cases, the institution of proceedings looking to the modification or revocation of the pertinent authorizations.

@@ -1,0 +1,3 @@
+##### § 199.221 Use following an accident. #####
+
+Each operator shall prohibit a covered employee who has actual knowledge of an accident in which his or her performance of covered functions has not been discounted by the operator as a contributing factor to the accident from using alcohol for eight hours following the accident, unless he or she has been given a post-accident test under § 199.225(a), or the operator has determined that the employee's performance could not have contributed to the accident.

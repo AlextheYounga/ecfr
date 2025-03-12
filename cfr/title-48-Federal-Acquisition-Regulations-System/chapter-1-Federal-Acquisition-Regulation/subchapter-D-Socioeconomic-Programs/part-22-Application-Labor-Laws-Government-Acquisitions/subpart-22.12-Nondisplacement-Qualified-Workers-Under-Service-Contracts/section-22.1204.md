@@ -1,0 +1,7 @@
+##### 22.1204 Certified service employee lists. #####
+
+(a) Not less than 30 days before completion of the contract, the predecessor contractor is required to furnish to the contracting officer a certified list of the names of all service employees working under the contract and its subcontracts at the time the list is submitted. The certified list must also contain anniversary dates of employment of each service employee under the contract and subcontracts for services. The information on this list is the same as that on the seniority list required by paragraph (n) of the clause at 52.222-41, Service Contract Labor Standards. If there are no changes to the workforce before the predecessor contract is completed, then the predecessor contractor is not required to submit a revised list 10 days prior to completion of performance and the requirements of 52.222-41(n) are met. When there are changes to the workforce after submission of the 30-day list, the predecessor contractor shall submit a revised certified list not less than 10 days prior to performance completion.
+
+(b) Immediately upon receipt of the certified service employee list but not before contract award, the contracting officer shall provide the certified service employee list to the successor contractor, and, if requested, to employees of the predecessor contractor or subcontractors or their authorized representatives.
+
+[77 FR 75776, Dec. 21, 2012, as amended at 79 FR 24208, Apr. 29, 2014]

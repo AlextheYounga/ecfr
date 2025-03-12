@@ -1,0 +1,11 @@
+##### § 225.103 Bank holding company acquiring stock by dividends, stock splits or exercise of rights. #####
+
+(a) The Board of Governors has been asked whether a bank holding company may receive bank stock dividends or participate in bank stock splits without the Board's prior approval, and whether such a company may exercise, without the Board's prior approval, rights to subscribe to new stock issued by banks in which the holding company already owns stock.
+
+(b) Neither a stock dividend nor a stock split results in any change in a stockholder's proportional interest in the issuing company or any increase in the assets of that company. Such a transaction would have no effect upon the extent of a holding company's control of the bank involved; and none of the five factors required by the Bank Holding Company Act to be considered by the Board in approving a stock acquisition would seem to have any application. In view of the objectives and purposes of the act, the word “acquire” would not seem reasonably to include transactions of this kind.
+
+(c) On the other hand, the exercise by a bank holding company of the right to subscribe to an issue of additional stock of a bank could result in an increase in the holding company's proportional interest in the bank. The holding company would voluntarily pay additional funds for the extra shares and would “acquire” the additional stock even under a narrow meaning of that term. Moreover, the exercise of such rights would cause the assets of the issuing company to be increased and in a sense, therefore, the “size or extent” of the bank holding company system would be expanded.
+
+(d) In the circumstances, it is the Board's opinion that receipt of bank stock by means of a stock dividend or stock split, assuming no change in the class of stock, does not require the Board's prior approval under the act, but that purchase of bank stock by a bank holding company through the exercise of rights does require the Board's prior approval, unless one of the exceptions set forth in section 3(a) is applicable.
+
+[22 FR 7461, Sept. 19, 1957. Redesignated at 36 FR 21666, Nov. 12, 1971]

@@ -1,0 +1,3 @@
+##### § 194.53 Consideration of underground sources of drinking water. #####
+
+In compliance assessments that analyze compliance with part 191, subpart C of this chapter, all underground sources of drinking water in the accessible environment that are expected to be affected by the disposal system over the regulatory time frame shall be considered. In determining whether underground sources of drinking water are expected to be affected by the disposal system, underground interconnections among bodies of surface water, ground water, and underground sources of drinking water shall be considered.

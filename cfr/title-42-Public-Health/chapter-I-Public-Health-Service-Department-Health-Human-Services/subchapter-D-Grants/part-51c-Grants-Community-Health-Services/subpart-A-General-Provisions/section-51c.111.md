@@ -1,0 +1,3 @@
+##### § 51c.111 Publications and copyright. #####
+
+Except as may otherwise be provided under the terms and conditions of the award, the grantee may copyright without prior approval any publications, films, or similar materials developed or resulting from a project supported by a grant under this part, subject, however, to a royalty-free, nonexclusive, and irrevocable license or right in the Government to reproduce, translate, publish, use, disseminate, and dispose of such materials and to authorize others to do so.

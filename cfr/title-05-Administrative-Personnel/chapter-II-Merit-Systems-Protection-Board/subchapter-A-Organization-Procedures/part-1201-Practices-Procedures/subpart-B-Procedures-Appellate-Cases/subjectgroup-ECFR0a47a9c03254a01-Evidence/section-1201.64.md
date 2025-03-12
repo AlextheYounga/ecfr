@@ -1,0 +1,3 @@
+##### § 1201.64 Official notice. #####
+
+Official notice is the Board's or judge's recognition of certain facts without requiring evidence to be introduced establishing those facts. The judge, on his or her own motion or on the motion of a party, may take official notice of matters of common knowledge or matters that can be verified. The parties may be given an opportunity to object to the taking of official notice. The taking of official notice of any fact satisfies a party's burden of proving that fact.

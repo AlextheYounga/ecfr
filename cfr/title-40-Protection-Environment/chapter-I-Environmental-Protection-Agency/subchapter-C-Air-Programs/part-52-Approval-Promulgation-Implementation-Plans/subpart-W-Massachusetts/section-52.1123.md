@@ -1,0 +1,7 @@
+##### § 52.1123 Approval status. #####
+
+(a) With the exceptions set forth in this subpart the Administrator approves the Massachusetts plan as identified in § 52.1120 for attainment and maintenance of the national standards under section 110 of the Clean Air Act. Furthermore, the Administrator finds that the plan identified in § 52.1120 satisfies all requirements of Part D, Title I of the Clean Air Act as amended in 1977, except as noted below. In addition, continued satisfaction of the requirements of Part D of the ozone portion of the SIP depends on the adoption and submittal of RACT requirements by July 1, 1980 for the sources covered by CTGs issued between January 1978 and January 1979 and adoption and submittal by each subsequent January of additional RACT requirements for sourceovered by CTGs issued by the previous January.
+
+(b) The above requirements for continued satisfaction of Part D are fulfilled by Massachusetts Regulation 310 CMR 7.18(17) and a narrative commitment to review CTG IIIs issued in the future. Both were submitted on September 9, 1982. Additionally, each individual RACT determination made under 310 CMR 7.18(17) will be submitted as a SIP revision to incorporate the limitation into the SIP, and DEQE will propose regulations for CTG III category controls if the controls are appropriate for the State.
+
+[45 FR 61303, Sept. 16, 1980, as amended at 48 FR 51485, Nov. 9, 1983]

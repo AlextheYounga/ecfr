@@ -1,0 +1,3 @@
+##### § 250.1607 Field rules. #####
+
+When geological and engineering information in a field enables a District Manager to determine specific operating requirements, field rules may be established for drilling, well completion, or well workover on the District Manager's initiative or in response to a request from a lessee; such rules may modify the specific requirements of this subpart. After field rules have been established, operations in the field shall be conducted in accordance with such rules and other requirements of this subpart. Field rules may be amended or canceled for cause at any time upon the initiative of the District Manager or upon the request of a lessee.

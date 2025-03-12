@@ -1,0 +1,5 @@
+##### § 213.0 Authority. #####
+
+(a) The voice and message precedence procedures for departments and agencies of the Federal Government prescribed by this part are prescribed pursuant to Executive Order No. 12046 (43 FR 13349 *et seq.*) and the President's memorandum of August 21, 1963, which established the National Communications System (28 FR 9413; 3 CFR, 1959-1963 Comp., p. 858).
+
+(b) The procedures applicable to communications common carriers and non-Federal Government users prescribed by this part are prescribed by authority conferred upon the President by subsection 606(a) of the Communications Act of 1934, as amended, and delegated to the National Security Council by Executive Order 12046. That authority under section 606(a) may be exercised only during the continuance of a war in which the United States is engaged.

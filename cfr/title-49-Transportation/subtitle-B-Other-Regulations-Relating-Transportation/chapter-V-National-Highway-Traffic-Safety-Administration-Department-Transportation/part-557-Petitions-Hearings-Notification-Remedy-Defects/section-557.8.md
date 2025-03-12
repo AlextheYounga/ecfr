@@ -1,0 +1,3 @@
+##### § 557.8 Determination of manufacturer's obligation. #####
+
+If the Administrator determines, on the basis of the information presented at a hearing or any other information that is available to him, that the manufacturer has not reasonably met his obligation to notify owners, dealers, and purchasers of a safety-related defect or failure to comply with a Federal motor vehicle safety standard or to remedy such defect or failure to comply, he orders the manufacturer to take specified action to comply with his obligation, consistent with the authority granted the Administrator by the Act.

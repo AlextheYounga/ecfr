@@ -1,0 +1,9 @@
+##### § 307.3 Notice to depositors when insured status is voluntarily terminated and deposits are not assumed. #####
+
+(a) *Notice required.* An insured depository institution that has obtained authority from the FDIC to terminate its insured status under sections 8(a), 8(p) or 18(i)(3) of the FDI Act without its deposit liabilities being assumed by one or more insured depository institutions shall provide to each of its depositors, at the depositor's last known address of record on the books of the institution, prior written notification of the date the institution's insured status shall terminate.
+
+(b) *Prior approval of notice.* The insured depository institution shall provide the appropriate Regional Director of the FDIC's Division of Supervision and Consumer Protection, as defined in 12 CFR 303.2(g), a copy of the proposed notice for approval. After being approved, the notice shall be provided to depositors by the insured depository institution at the time and in the manner specified by the appropriate Regional Director.
+
+(c) *Form of notice.* The notice to depositors required by paragraph (a) of this section shall be provided on the official letterhead of the insured depository institution, shall bear the signature of a duly authorized officer, and, unless otherwise specified by the appropriate Regional Director, may follow the form of the notice contained in Appendix B of this part.
+
+(d) *Other requirements possible.* The FDIC may require the insured depository institution to take such other actions as the FDIC considers necessary and appropriate for the protection of depositors.

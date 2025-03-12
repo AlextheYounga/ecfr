@@ -1,0 +1,23 @@
+##### § 221.40 Specific requirements. #####
+
+(a) In addition to the general requirements in § 221.20, the rules and regulations of each tariff shall contain:
+
+(1) *Aircraft and seating.* For individually ticketed passenger service, the name of each type of aircraft used in rendering such service by manufacturer model designation and a description of the seating configuration (or configurations if there are variations) of each type of aircraft. Where fares are provided for different classes or types of passenger service (that is, first class, coach, day coach, night coach, tourist, economy or whatever other class or type of service is provided under the tariff), the tariff shall specify the type of aircraft and the seating configuration used on such aircraft for each class or type of passenger service. When two or more classes or types of passenger service are performed in a single aircraft, the seating configuration for each type or class shall be stated and described.
+
+(2) *Rule numbers.* Each rule or regulation shall have a separate designation. The same designation shall not be assigned to more than one rule in the tariff.
+
+(3) *Penalties.* Where a rule provides a charge in the nature of a penalty, the rule shall state the exact conditions under which such charge will be imposed.
+
+(4) *Vague or indefinite provisions.* Rules and regulations shall not contain indefinite statements to the effect that traffic of any nature will be “taken only by special arrangements”, or that services will be performed or penalties imposed “at carrier's option”, or that the carrier “reserves the right” to act or to refrain from acting in a specified manner, or other provisions of like import; instead, the rules shall state definitely what the carrier will or will not do under the exact conditions stated in the rules.
+
+(5) *Personal liability rules.* Except as provided in this part, no provision of the Department's regulations issued under this part or elsewhere shall be construed to require the filing of any tariff rules stating any limitation on, or condition relating to, the carrier's liability for personal injury or death. No subsequent regulation issued by the Department shall be construed to supersede or modify this rule of construction except to the extent that such regulation shall do so in express terms.
+
+(6) *Notice of limitation of liability for death or injury under the Warsaw Convention.* Notwithstanding the provisions of paragraph (a)(5) of this section, each air carrier and foreign air carrier shall publish in its tariffs a provision stating whether it avails itself of the limitation on liability to passengers as provided in Article 22(1) of the Warsaw Convention or whether it has elected to agree to a higher limit of liability by a tariff provision. Unless the carrier elects to assume unlimited liability, its tariffs shall contain a statement as to the applicability and effect of the Warsaw Convention, including the amount of the liability limit in dollars. Where applicable, a statement advising passengers of the amount of any higher limit of liability assumed by the carrier shall be added.
+
+(7) *Extension of credit.* Air carriers and foreign air carriers shall not file tariffs that set forth charges, rules, regulations, or practices relating to the extension of credit for payment of charges applicable to air transportation.
+
+(8) *Individual carrier provisions governing joint fares.* Provisions governing joint fares may be published for account of an individual carrier participating in such joint fares provided that the tariff clearly indicates how such individual carrier's provisions apply to the through transportation over the applicable joint routes comprised of such carrier and other carriers who either do not maintain such provisions or who maintain different provisions on the same subject matter.
+
+(9) *Passenger property which cannot lawfully be carried in the aircraft cabin.* Each air carrier shall set forth in its tariffs governing the transportation of persons, including passengers' baggage, charges, rules, and regulations providing that such air carrier receiving as baggage any property of a person traveling in air transportation, which property cannot lawfully be carried by such person in the aircraft cabin by reason of any Federal law or regulation, shall assume liability to such person, at a reasonable charge and subject to reasonable terms and conditions, within the amount declared to the air carrier by such person, for the full actual loss or damage to such property caused by such air carrier.
+
+(b) [Reserved]

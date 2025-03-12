@@ -1,0 +1,3 @@
+##### § 2.106 Preservation of records. #####
+
+The Agency will preserve all correspondence pertaining to the FOIA requests that it receives, as well as copies of all requested records, until disposition or destruction is authorized pursuant to title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 4.2. Records shall not be disposed of while they are the subject of a pending request, appeal, or lawsuit under the FOIA.

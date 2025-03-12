@@ -1,0 +1,3 @@
+##### § 715.1 Purpose and scope. #####
+
+This part sets forth the definition of “nonrecourse project-financed” as that term is used to define “new independent power production facility,” in section 416(a)(2)(B) of the Clean Air Act Amendments of 1990, 42 U.S.C. 7651o(a)(2)(B). This definition is for purposes of section 416(a)(2)(B) only. It is not intended to alter or impact the tax treatment of any facility or facility owner under the Internal Revenue Code and regulations.

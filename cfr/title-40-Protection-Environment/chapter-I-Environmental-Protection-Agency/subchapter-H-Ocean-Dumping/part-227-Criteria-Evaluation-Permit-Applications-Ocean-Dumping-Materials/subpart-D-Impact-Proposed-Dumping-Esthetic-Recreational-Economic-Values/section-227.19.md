@@ -1,0 +1,3 @@
+##### § 227.19 Assessment of impact. #####
+
+An overall assessment of the proposed dumping and possible alternative methods of disposal or recycling will be made based on the effect on esthetic, recreational and economic values based on the factors set forth in this subpart D, including where applicable, enhancement of these values, and the results of the assessment will be expressed, where possible, on a quantitative basis, such as percentage of a resource lost, reduction in use days of recreational areas, or dollars lost in commercial fishery profits or the profitability of other commercial enterprises.

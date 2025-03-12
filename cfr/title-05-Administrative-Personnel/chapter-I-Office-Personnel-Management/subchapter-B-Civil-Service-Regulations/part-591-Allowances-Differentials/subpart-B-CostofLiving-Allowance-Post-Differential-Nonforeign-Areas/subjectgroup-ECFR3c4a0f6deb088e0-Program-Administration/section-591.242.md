@@ -1,0 +1,3 @@
+##### § 591.242 What is the tenure of a COLA Advisory Committee? #####
+
+OPM may establish a COLA Advisory Committee in each area prior to each living-cost survey conducted in that area. OPM will appoint committee members for 3-year renewable terms. To the extent practical, the committee will continue to exist between surveys, but OPM may periodically review with the committee whether there is a continuing need for the committee.

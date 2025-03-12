@@ -1,0 +1,3 @@
+##### § 303.44 Show cause proceedings. #####
+
+If the Assistant Secretary determines that an application, or review of a previously granted application, will be considered in a show cause proceeding, a tentative decision shall be issued inviting interested persons to show cause why the tentative decision should not be made final. Interested persons may respond to the order within the time specified in the order. Replies to such responses shall be permitted within the time specified in the order. Persons wishing to introduce additional facts into the record should incorporate such information in their responses or replies by affidavit. In the case of applications, show cause orders may be issued after the receipt of initial comments on the application.

@@ -1,0 +1,23 @@
+##### § 122.1 Purpose and scope. #####
+
+(a) *Coverage.* (1) The regulatory provisions contained in this part and parts 123, and 124 of this chapter implement the National Pollutant Discharge Elimination System (NPDES) Program under sections 318, 402, and 405 of the Clean Water Act (CWA) (Public Law 92-500, as amended, 33 U.S.C. 1251 *et seq.*)
+
+(2) These provisions cover basic EPA permitting requirements (this part 122), what a State must do to obtain approval to operate its program in lieu of a Federal program and minimum requirements for administering the approved State program (part 123 of this chapter), and procedures for EPA processing of permit applications and appeals (part 124 of this chapter).
+
+(3) These provisions also establish the requirements for public participation in EPA and State permit issuance and enforcement and related variance proceedings, and in the approval of State NPDES programs. These provisions carry out the purposes of the public participation requirements of part 25 of this chapter, and supersede the requirements of that part as they apply to actions covered under this part and parts 123, and 124 of this chapter.
+
+(4) Regulatory provisions in Parts 125, 129, 133, 136 of this chapter and 40 CFR subchapter N and subchapter O of this chapter also implement the NPDES permit program.
+
+(5) Certain requirements set forth in parts 122 and 124 of this chapter are made applicable to approved State programs by reference in part 123 of this chapter. These references are set forth in § 123.25 of this chapter. If a section or paragraph of part 122 or 124 of this chapter is applicable to States, through reference in § 123.25 of this chapter, that fact is signaled by the following words at the end of the section or paragraph heading: (Applicable to State programs, see § 123.25 of this chapter). If these words are absent, the section (or paragraph) applies only to EPA administered permits. Nothing in this part and parts 123, or 124 of this chapter precludes more stringent State regulation of any activity covered by the regulations in 40 CFR parts 122, 123, and 124, whether or not under an approved State program.
+
+(b) *Scope of the NPDES permit requirement.* (1) The NPDES program requires permits for the discharge of “pollutants” from any “point source” into “waters of the United States.” The terms “pollutant”, “point source” and “waters of the United States” are defined at § 122.2.
+
+(2) The permit program established under this part also applies to owners or operators of any treatment works treating domestic sewage, whether or not the treatment works is otherwise required to obtain an NPDES permit, unless all requirements implementing section 405(d) of the CWA applicable to the treatment works treating domestic sewage are included in a permit issued under the appropriate provisions of subtitle C of the Solid Waste Disposal Act, Part C of the Safe Drinking Water Act, the Marine Protection, Research, and Sanctuaries Act of 1972, or the Clean Air Act, or under State permit programs approved by the Administrator as adequate to assure compliance with section 405 of the CWA.
+
+(3) The Regional Administrator may designate any person subject to the standards for sewage sludge use and disposal as a “treatment works treating domestic sewage” as defined in § 122.2, where the Regional Administrator finds that a permit is necessary to protect public health and the environment from the adverse effects of sewage sludge or to ensure compliance with the technical standards for sludge use and disposal developed under CWA section 405(d). Any person designated as a “treatment works treating domestic sewage” shall submit an application for a permit under § 122.21 within 180 days of being notified by the Regional Administrator that a permit is required. The Regional Administrator's decision to designate a person as a “treatment works treating domestic sewage” under this paragraph shall be stated in the fact sheet or statement of basis for the permit.
+
+Note to § 122.1:
+
+Information concerning the NPDES program and its regulations can be obtained by contacting the Water Permits Division (4203), Office of Wastewater Management, U.S. EPA, 1200 Pennsylvania Avenue NW, Washington, DC 20460 and by visiting the homepage at *http://www.epa.gov/npdes/*.
+
+[65 FR 30904, May 15, 2000, as amended at 72 FR 11211, Mar. 12, 2007; 84 FR 3336, Feb. 12, 2019]

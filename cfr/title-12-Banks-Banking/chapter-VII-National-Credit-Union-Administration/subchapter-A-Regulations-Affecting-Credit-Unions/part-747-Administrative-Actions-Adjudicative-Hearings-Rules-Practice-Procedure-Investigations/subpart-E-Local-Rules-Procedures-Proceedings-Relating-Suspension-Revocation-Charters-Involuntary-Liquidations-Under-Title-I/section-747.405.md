@@ -1,0 +1,9 @@
+##### § 747.405 Issuance of order. #####
+
+(a) In the event of such consent as referred to in § 747.403(c) or § 747.404(c), or if upon the record made at any such hearing as referred to in § 747.403(b), the NCUA Board finds that the charter of the Federal credit union concerned should be suspended or revoked and the credit union closed and placed into involuntary liquidation, it shall cause to be served on such credit union an order directing the suspension or revocation of its charter and directing that it be closed and placed into involuntary liquidation. Such order shall contain a statement of the findings upon which the order is based. Additionally, the NCUA Board shall appoint a liquidating agent or agents.
+
+(b) The NCUA Board shall render its decision and cause such order to be served not later than 45 days after receipt of consent, or written submissions as the case may be, or in the case of a formal hearing after service or the notice of submission referred to in § 747.40(a).
+
+(c) Upon the receipt of a copy of the order which provides that the Federal credit union concerned be placed into involuntary liquidation, the officers and directors of that Federal credit union shall immediately deliver to the agent for the liquidating agent possession and control of all books, records, assets, and property of every description of the Federal credit union, and the agent for the liquidating agent shall proceed to convert said assets to cash, collect all debts due to said Federal credit union and to wind up its affairs in accordance with the provisions of the Act.
+
+[56 FR 37767, Aug. 8, 1991; 57 FR 523, Jan. 7, 1992]

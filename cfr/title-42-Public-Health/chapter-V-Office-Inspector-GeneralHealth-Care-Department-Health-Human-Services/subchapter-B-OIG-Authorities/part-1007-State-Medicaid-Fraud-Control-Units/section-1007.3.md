@@ -1,0 +1,3 @@
+##### § 1007.3 Scope and purpose. #####
+
+This part implements sections 1903(a)(6), 1903(b)(3), and 1903(q) of the Social Security Act, as amended by the Medicare-Medicaid Anti-Fraud and Abuse Amendments (Pub. L. 95-142). The statute authorizes the Secretary to pay a State 90 percent of the costs of establishing and operating a State Medicaid fraud control unit, as defined by the statute, for the purpose of eliminating fraud in the State Medicaid program.

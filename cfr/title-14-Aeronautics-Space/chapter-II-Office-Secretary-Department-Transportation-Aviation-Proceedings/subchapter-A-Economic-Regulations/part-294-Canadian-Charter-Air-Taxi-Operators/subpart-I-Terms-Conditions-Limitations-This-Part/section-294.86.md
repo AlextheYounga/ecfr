@@ -1,0 +1,3 @@
+##### § 294.86 Industrial/agricultural/other nontransport air operations prohibited. #####
+
+A registrant shall not engage in flights for the purpose of industrial or agricultural operations (e.g., crop dusting, pest control, pipeline patrol, mapping, surveying, banner towing, skywriting, aerial photography) within the United States unless it has obtained a permit from the Department under part 375 of this chapter.

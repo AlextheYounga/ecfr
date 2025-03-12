@@ -1,0 +1,5 @@
+##### § 35.2067 Records of leaks tests and inventory of sealed sources and brachytherapy sources. #####
+
+(a) A licensee shall retain records of leak tests required by § 35.67(b) for 3 years. The records must include the model number, and serial number if one has been assigned, of each source tested; the identity of each source by radionuclide and its estimated activity; the results of the test; the date of the test; and the name of the individual who performed the test.
+
+(b) A licensee shall retain records of the semi-annual physical inventory of sealed sources and brachytherapy sources required by § 35.67(g) for 3 years. The inventory records must contain the model number of each source, and serial number if one has been assigned, the identity of each source by radionuclide and its nominal activity, the location of each source, and the name of the individual who performed the inventory.

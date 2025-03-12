@@ -1,0 +1,3 @@
+##### § 1221.116 Compliance and enforcement. #####
+
+In order to ensure adherence to the authorized uses of the NASA Seal, the NASA Insignia, the NASA Logotype, NASA Program Identifiers, and the NASA Flags as provided, in this subpart, a report of each suspected violation of this subpart (including the use of unauthorized NASA Insignias) or of questionable usages of the NASA Seal, the NASA Insignia, the NASA Logotype, NASA Program Identifiers, or the NASA Flags, shall be submitted to the Inspector General, NASA Headquarters, in accordance with NASA Management Instruction 9810.1, “The NASA Investigations Program.”

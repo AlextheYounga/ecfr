@@ -1,0 +1,3 @@
+##### § 302.307 Answers to applications. #####
+
+Within fifteen (15) days after the filing of an application for exemption, any person may file an answer in support of or in opposition to the grant of a requested exemption. Such answer shall set forth in detail the reasons why the exemption should be granted or denied. An answer shall include a statement of economic data or other matters the Department is requested to officially notice, and shall be accompanied by affidavits establishing any other facts relied upon.

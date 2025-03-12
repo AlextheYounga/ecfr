@@ -1,0 +1,3 @@
+##### § 766.5 Compliance. #####
+
+Any person who fails or refuses to comply with any aspect of this part is in violation of section 15 of TSCA. Section 15(1) makes it unlawful for any person to fail or refuse to comply with any rule or order issued under section 4. Section 15(3) makes it unlawful for any person to fail or refuse to submit information required under this part. Section 16 provides that a violation of section 15 renders a person liable to the United States for a civil penalty and possible criminal prosecution. Under section 17 of TSCA, the district courts of the United States have jurisdiction to restrain any violation of section 15.

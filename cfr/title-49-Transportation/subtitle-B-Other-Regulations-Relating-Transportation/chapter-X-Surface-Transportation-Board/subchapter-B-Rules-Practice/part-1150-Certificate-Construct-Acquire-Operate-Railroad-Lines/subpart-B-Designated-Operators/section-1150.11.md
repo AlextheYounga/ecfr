@@ -1,0 +1,3 @@
+##### § 1150.11 Introduction. #####
+
+A certificate of designated operator will be issued to an operator providing service pursuant to a rail service continuation agreement under section 304 of the Regional Rail Reorganization Act of 1973, as amended by the Railroad Revitalization and Regulatory Reform Act of 1976. The designated operator (D-OP) may commence and terminate the service in accordance with the terms of the agreement. When service is terminated the D-OP must notify all shippers on the line. To obtain a D-OP certificate, the information in this subpart must be filed with the Board. A copy of the certificate of designated operator shall be served on the Association of American Railroads.

@@ -1,0 +1,3 @@
+##### § 1261.313 Required notification in the event of denial. #####
+
+Final denial of a claim shall be in writing and shall be sent to the claimant, the attorney, or legal representative by certified or registered mail. The notification of final denial may include a statement of the reasons for the denial and shall include a statement that if the claimant is dissatisfied with NASA's action, the claimant may file suit in an appropriate U.S. District Court not later than 6 months after the date of mailing the notification.

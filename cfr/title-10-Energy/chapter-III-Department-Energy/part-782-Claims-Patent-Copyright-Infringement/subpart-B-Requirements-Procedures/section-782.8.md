@@ -1,0 +1,3 @@
+##### § 782.8 Indirect notice of infringement. #####
+
+If a patent or copyright owner communicates an allegation of infringement in the performance of a Government contract, grant, or other arrangement to addressees other than those specified in § 782.5(a), such as Department of Energy contractors including contractors operating government-owned facilities, the communication shall not be considered a claim within the meaning of § 782.5 until it meets the requirements of that section.

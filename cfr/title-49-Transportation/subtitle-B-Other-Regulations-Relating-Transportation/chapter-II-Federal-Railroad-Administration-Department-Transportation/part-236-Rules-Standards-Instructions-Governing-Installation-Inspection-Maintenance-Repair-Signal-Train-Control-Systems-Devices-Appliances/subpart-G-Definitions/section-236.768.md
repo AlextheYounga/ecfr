@@ -1,0 +1,3 @@
+##### § 236.768 Locking, time. #####
+
+A method of locking, either mechanical or electrical, which, after a signal has been caused to display an aspect to proceed, prevents, until after the expiration of a predetermined time interval after such signal has been caused to display its most restrictive aspect, the operation of any interlocked or electrically locked switch, movable-point frog, or derail in the route governed by that signal, and which prevents an aspect to proceed from being displayed for any conflicting route.

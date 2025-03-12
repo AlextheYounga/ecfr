@@ -1,0 +1,7 @@
+##### § 707.13 Medical review of results of tests for illegal drug use. #####
+
+(a) All test results shall be submitted for medical review by the MRO. A confirmed positive test for drugs shall consist of an initial test performed by the immunoassay method, with positive results on that initial test confirmed by another test, performed by the gas chromatography/mass spectrometry method (GC/MS). This procedure is described in the HHS Mandatory Guidelines.
+
+(b) The Medical Review Officer will consider the medical history of the employee or applicant, as well as any other relevant biomedical information. When there is a confirmed positive test result, the employee or applicant will be given an opportunity to report to the MRO the use of any prescription or over-the-counter medication. If the MRO determines that there is a legitimate medical explanation for a confirmed positive test result, consistent with legal and non-abusive drug use, the MRO will certify that the test results do not meet the conditions for a determination of use of illegal drugs. If no such certification can be made, the MRO will make a determination of use of illegal drugs. Determinations of use of illegal drugs will be made in accordance with the criteria provided in the Medical Review Officer Manual issued by the Department of Health and Human Services.
+
+[57 FR 32656, July 22, 1992, as amended at 80 FR 5008, Jan. 30, 2015]

@@ -1,0 +1,5 @@
+##### § 382.129 What other requirements apply when passengers' wheelchairs, other mobility aids, and other assistive devices must be disassembled for stowage? #####
+
+(a) As a carrier, you must permit passengers with a disability to provide written directions concerning the disassembly and reassembly of their wheelchairs, other mobility aids, and other assistive devices. You must carry out these instructions to the greatest extent feasible, consistent with FAA, PHMSA, TSA, or applicable foreign government requirements concerning security, safety, and hazardous materials with respect to the stowage of carry-on items.
+
+(b) When wheelchairs, other mobility aids, or other assistive devices are disassembled by the carrier for stowage, you must reassemble them and ensure their prompt return to the passenger. You must return wheelchairs, other mobility aids, and other assistive devices to the passenger in the condition in which you received them.

@@ -1,0 +1,7 @@
+##### § 22.38 Supplemental rules of practice governing the administrative assessment of civil penalties under the Clean Water Act. #####
+
+(a) *Scope.* This section shall apply, in conjunction with §§ 22.1 through 22.32 and § 22.45, in administrative proceedings for the assessment of any civil penalty under section 309(g) or section 311(b)(6) of the Clean Water Act (“CWA”)(33 U.S.C. 1319(g) and 1321(b)(6)). Where inconsistencies exist between this section and §§ 22.1 through 22.32, this section shall apply.
+
+(b) *Consultation with States.* For proceedings pursuant to section 309(g), the complainant shall provide the State agency with the most direct authority over the matters at issue in the case an opportunity to consult with the complainant. Complainant shall notify the State agency within 30 days following proof of service of the complaint on the respondent or, in the case of a proceeding proposed to be commenced pursuant to § 22.13(b), no less than 40 days before the issuance of an order assessing a civil penalty.
+
+(c) *Administrative procedure and judicial review.* Action of the Administrator for which review could have been obtained under section 509(b)(1) of the CWA, 33 U.S.C. 1369(b)(1), shall not be subject to review in an administrative proceeding for the assessment of a civil penalty under section 309(g) or section 311(b)(6).

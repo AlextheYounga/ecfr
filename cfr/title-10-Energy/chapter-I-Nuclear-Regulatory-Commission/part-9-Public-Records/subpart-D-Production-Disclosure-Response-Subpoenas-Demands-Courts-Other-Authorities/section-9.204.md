@@ -1,0 +1,3 @@
+##### § 9.204 Procedure in the event of an adverse ruling. #####
+
+If the court or other judicial or quasi-judicial authority declines to stay the effect of the demand in response to a request made in accordance with § 9.203 pending receipt of instructions, or if the court or other authority rules that the demand must be complied with irrespective of instructions not to produce the material or disclose the information sought, the employee upon whom the demand has been made shall respectfully decline to comply with the demand, citing these regulations and *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

@@ -1,0 +1,9 @@
+##### 15.407-3 Forward pricing rate agreements. #####
+
+(a) When certified cost or pricing data are required, offerors are required to describe any forward pricing rate agreements (FPRAs) in each specific pricing proposal to which the rates apply and to identify the latest cost or pricing data already submitted in accordance with the FPRA. All data submitted in connection with the FPRA, updated as necessary, form a part of the total data that the offeror certifies to be accurate, complete, and current at the time of agreement on price for an initial contract or for a contract modification. (See the Certificate of Current Cost or Pricing Data at 15.406-2.)
+
+(b) Contracting officers will use FPRA rates as bases for pricing all contracts, modifications, and other contractual actions to be performed during the period covered by the agreement. Conditions that may affect the agreement's validity shall be reported promptly to the ACO. If the ACO determines that a changed condition invalidates the agreement, the ACO shall notify all interested parties of the extent of its effect and status of efforts to establish a revised FPRA.
+
+(c) Contracting officers shall not require certification at the time of agreement for data supplied in support of FPRA's or other advance agreements. When a forward pricing rate agreement or other advance agreement is used to price a contract action that requires a certificate, the certificate supporting that contract action shall cover the data supplied to support the FPRA or other advance agreement, and all other data supporting the action.
+
+[62 FR 51230, Sept. 30, 1997, as amended at 75 FR 53147, Aug. 30, 2010]

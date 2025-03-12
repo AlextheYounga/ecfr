@@ -1,0 +1,19 @@
+##### § 74.536 Directional antenna required. #####
+
+(a) Aural broadcast STL and ICR stations are required to use a directional antenna with the minimum beamwidth necessary, consistent with good engineering practice, to establish the link.
+
+(b) An aural broadcast STL or intercity relay station operating in the 17.7-19.7 GHz band shall employ an antenna that meets the performance standards for Category A, except that in areas not subject to frequency congestion, antennas meeting standards for Category B may be employed. However, the Commission may require the replacement, at the licensee's expense, of any antenna or periscope antenna system of a permanent fixed station that does not meet performance Standard A, which is specified in the table in paragraph (c) of this section, upon a showing that said antenna causes or is likely to cause interference to (or receive interference from) any other authorized or proposed station; provided that an antenna meeting performance Standard A is unlikely to involve such interference.
+
+(c) Licensees shall comply with the antenna standards table shown in this paragraph in the following manner:
+
+(1) With either the maximum beamwidth to 3 dB points requirement or with the minimum antenna gain requirement; and
+
+(2) With the minimum radiation suppression to angle requirement.
+
+|                                                                              Frequency (GHz)                                                                              | Category |Maximum beamwidth to 3 dB points <sup>1</sup>  <br/>(included angle in  <br/>degrees)|Minimum antenna gain (dbi)|Minimum radiation suppression to angle in degrees from centerline of main beam in decibels|            |            |           |           |           |           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------------------------|------------|------------|-----------|-----------|-----------|-----------|
+|                                                                                 5° to 10°                                                                                 |10° to 15°|                                     15° to 20°                                      |        20° to 30°        |                                       30° to 100°                                        |100° to 140°|140° to 180°|           |           |           |           |
+|                                                                               17.7 to 19.7                                                                                |A  <br/>B |                                    2.2  <br/>2.2                                    |       38  <br/>38        |                                       25  <br/>20                                        |29  <br/>24 |33  <br/>28 |36  <br/>32|42  <br/>35|55  <br/>36|55  <br/>36|
+|<sup>1</sup> If a licensee chooses to show compliance using maximum beamwidth to 3 dB points, the beamwidth limit shall apply in both the azimuth and the elevation planes.|          |                                                                                     |                          |                                                                                          |            |            |           |           |           |           |
+
+[48 FR 50333, Nov. 1, 1983, as amended at 49 FR 7130, Feb. 27, 1984; 50 FR 48599, Nov. 26, 1985; 51 FR 19840, June 3, 1986; 62 FR 4922, Feb. 3, 1997; 68 FR 12767, Mar. 17, 2003]

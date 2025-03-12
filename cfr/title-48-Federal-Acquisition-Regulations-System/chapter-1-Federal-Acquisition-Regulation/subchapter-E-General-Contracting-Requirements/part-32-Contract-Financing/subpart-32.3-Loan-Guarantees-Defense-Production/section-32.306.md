@@ -1,0 +1,3 @@
+##### 32.306 Loan guarantees for subcontracts. #####
+
+If the request for a loan guarantee concerns a subcontractor that is financially weak in comparison with its contractor, the Government's interests may be fostered by the contractor making progress payments to the subcontractor. If so, the agency shall try to arrange for the contractor to provide the progress payments. As a result, the need for the loan guarantee may be reduced or eliminated and the contractor would bear part or all of the risk of loss arising from the selection of the subcontractor.

@@ -1,0 +1,3 @@
+##### § 33.410 Can a recipient be penalized for failing to meet its fair share objectives? #####
+
+A recipient cannot be penalized, or treated by EPA as being in noncompliance with this subpart, solely because its MBE or WBE participation does not meet its applicable fair share objective. However, EPA may take remedial action under § 33.105 for a recipient's failure to comply with other provisions of this part, including, but not limited to, the good faith efforts requirements described in subpart C of this part.

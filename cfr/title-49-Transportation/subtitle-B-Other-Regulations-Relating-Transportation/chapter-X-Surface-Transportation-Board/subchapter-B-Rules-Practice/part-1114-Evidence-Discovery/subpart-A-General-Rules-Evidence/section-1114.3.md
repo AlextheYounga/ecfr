@@ -1,0 +1,3 @@
+##### § 1114.3 Admissibility of business records. #####
+
+Any writing or record, whether in the form of an entry in a book or otherwise, made as a memorandum or record of any act, transaction, occurrence, or event, will be admissible as evidence thereof if it appears that it was made in the regular course of business, and that it was the regular course of business to make such memorandum or record at the time such record was made, or within a reasonable time thereafter.

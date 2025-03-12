@@ -1,0 +1,1 @@
+##### 3027.305 Administration of Patent Rights Clauses. #####

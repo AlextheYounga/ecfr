@@ -1,0 +1,3 @@
+##### § 1010.6 One hundred lot exemption. #####
+
+The sale of lots in a subdivision is exempt from the registration requirements of the Act if, since April 28, 1969, the subdivision has contained fewer than 100 lots, exclusive of lots which are exempt from jurisdiction under § 1010.5. In the sale of lots in the subdivision that are not exempt under § 1010.5, the developer must comply with the Act's anti-fraud provisions, set forth in § 1010.4(b) and (c).

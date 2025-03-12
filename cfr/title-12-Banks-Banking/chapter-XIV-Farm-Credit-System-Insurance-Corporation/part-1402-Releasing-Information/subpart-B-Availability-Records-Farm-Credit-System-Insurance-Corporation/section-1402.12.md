@@ -1,0 +1,3 @@
+##### § 1402.12 Identification of records requested. #####
+
+A member of the public who requests records from the Farm Credit System Insurance Corporation shall provide a reasonable description of the records sought including, where possible, specific information as to dates, titles, and subject matter, so that such records may be located without undue search or inquiry. If a record is not identified by a reasonable description, the request therefor may be denied.

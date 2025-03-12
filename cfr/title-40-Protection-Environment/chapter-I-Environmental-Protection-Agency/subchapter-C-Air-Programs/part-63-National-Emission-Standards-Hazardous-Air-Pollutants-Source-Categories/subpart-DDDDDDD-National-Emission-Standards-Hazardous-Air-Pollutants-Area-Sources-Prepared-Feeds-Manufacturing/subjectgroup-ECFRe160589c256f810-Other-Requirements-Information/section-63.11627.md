@@ -1,0 +1,17 @@
+##### § 63.11627 What definitions apply to this subpart? #####
+
+Terms used in this subpart are defined in the CAA, in § 63.2, and in this section.
+
+*Animal feed* includes: Dehydrated alfalfa meal; alfalfa prepared as feed for animals; cubed alfalfa; prepared animal feed; chopped, crushed, or ground barley feed; prepared bird feed; blended animal feed; bone meal prepared as feed for animals and fowls; cattle feeds, supplements, concentrates, and premixes; prepared chicken feeds; cattle feed citrus pulp; complete livestock feed; custom milled animal feed; dairy cattle feeds supplements, concentrates, and premixes; earthworm food and bedding; animal feed concentrates; animal feed premixes; animal feed supplements; prepared animal feeds; specialty animal (*e.g.,* guinea pig, mice, mink) feeds; fish food for feeding fish; custom ground grains for animal feed; cubed hay; kelp meal and pellets animal feed; laboratory animal feed; livestock feeds, supplements, concentrates and premixes; alfalfa meal; bone meal prepared as feed for animals and fowls; livestock micro and macro premixes; mineral feed supplements; animal mineral supplements; pet food; poultry feeds, supplements, and concentrates; rabbit food; shell crushed and ground animal feed; swine feed; swine feed supplements, concentrates, and premixes; and prepared turkey feeds. Feed products produced for dogs and cats are not considered animal feed for the purposes of this subpart.
+
+*Average daily feed production level* means the average amount of animal feed products produced each day over an annual period. The initial determination of the average daily feed production level is based on the one-year period prior to the compliance date for existing sources, or the design rate for new sources. The subsequent average daily feed production levels are determined annually and are based on the amount of animal feed products produced in a calendar year divided by the number of days in which the production processes were in operation.
+
+*Cyclone* means a mechanically aided collector that uses inertia to separate particulate matter from the gas stream as it spirals through the cyclone.
+
+*Material containing chromium* means a material that contains chromium (Cr, atomic number 24) in amounts greater than or equal to 0.1 percent by weight.
+
+*Material containing manganese* means a material that contains manganese (Mn, atomic number 25) in amounts greater than or equal to 1.0 percent by weight.
+
+*Pelleting operations* means all operations that make pelleted animal feed, including but not limited to, steam conditioning, die-casting, drying, cooling, and crumbling, and granulation.
+
+*Prepared feeds manufacturing facility* means a facility that is primarily engaged in manufacturing animal feed. A facility is primarily engaged in manufacturing animal feed if the production of animal feed comprises greater than 50 percent of the total production of the facility on an annual basis. Facilities primarily engaged in raising or feeding animals are not prepared feed manufacturing facilities. Facilities engaged in the growing of agricultural crops that are used in the manufacturing of feed are not considered prepared feeds manufacturing facilities.

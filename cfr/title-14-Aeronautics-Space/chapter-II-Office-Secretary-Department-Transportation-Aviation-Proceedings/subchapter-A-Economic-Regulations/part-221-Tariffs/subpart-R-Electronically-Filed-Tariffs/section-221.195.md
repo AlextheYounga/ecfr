@@ -1,0 +1,7 @@
+##### § 221.195 Requirement for filing printed material. #####
+
+(a) Any tariff, or revision thereto, filed in paper format which accompanies, governs, or otherwise affects, a tariff filed electronically, must be received by the Department on the same date that a tariff or revision thereto, is filed electronically with the Department under § 221.190(b). Further, such paper tariff, or revision thereto, shall be filed in accordance with the requirements of subparts A through Q of part 221. No tariff or revision thereto, filed electronically under this subpart, shall contain an effective date which is at variance with the effective date of the supporting paper tariff, except as authorized by the Department.
+
+(b) Any printed justifications, or other information accompanying a tariff, or revision thereto, filed electronically under this subpart, must be received by the Department on the same date as any tariff, or revision thereto, filed electronically.
+
+(c) If a filer submits a filing which fails to comply with paragraph (a) of this section, or if the filer fails to submit the information in conformity with paragraph (b) of this section, the filing will be subject to rejection, denial, or disapproval, as applicable.

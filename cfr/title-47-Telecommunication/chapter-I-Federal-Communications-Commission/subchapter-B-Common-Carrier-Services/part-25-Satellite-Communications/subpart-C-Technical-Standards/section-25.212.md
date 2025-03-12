@@ -1,0 +1,21 @@
+##### § 25.212 Narrowband analog transmissions and digital transmissions in the GSO FSS. #####
+
+(a) Except as otherwise provided by this part, criteria for unacceptable levels of interference caused by other satellite networks shall be established on the basis of nominal operating conditions and with the objective of minimizing orbital separations between satellites.
+
+(b) Emissions with an occupied bandwidth of less than 2 MHz are not protected from interference from wider bandwidth transmissions if the r.f. carrier frequency of the narrowband signal is within ±1 MHz of one of the frequencies specified in § 25.211(a).
+
+(c)(1) An earth station that is not subject to licensing under § 25.222, § 25.226, or § 25.227 may be routinely licensed for analog transmissions in the conventional Ku-band or the extended Ku-band with bandwidths up to 200 kHz (or up to 1 MHz for command carriers at the band edge) if the input power spectral density into the antenna will not exceed −8 dBW/4 kHz, and the application includes certification pursuant to § 25.132(a)(1) of conformance with the antenna gain performance requirements in § 25.209(a) and (b).
+
+(2) An earth station that is not subject to licensing under § 25.222, § 25.226, or § 25.227 may be routinely licensed for digital transmission, including digital video transmission, in the conventional Ku-band or the extended Ku-band if input power spectral density into the antenna will not exceed −14 dBW/4 kHz and the application includes certification pursuant to § 25.132(a)(1) of conformance with the antenna gain performance requirements in § 25.209(a) and (b).
+
+(d) An individual earth station that is not subject to licensing under § 25.221 may be routinely licensed for digital transmission, or for analog transmission with carrier bandwidths up to 200 kHz (or up to 1 MHz for command carriers at the band edge) in the conventional C-band or the extended C-band, if the applicant certifies conformance with relevant antenna performance standards in § 25.209(a) and (b), and power density into the antenna will not exceed +0.5 dBW/4 kHz for analog carriers or −2.7 dBW/4 kHz for digital carriers.
+
+(e) An earth station may be routinely licensed for digital transmission in the 28.35-28.6 GHz and/or 29.25-30.0 GHz bands if the input power spectral density into the antenna will not exceed 3.5 dBW/MHz and the application includes certification pursuant to § 25.132(a)(1) of conformance with the antenna gain performance requirements in § 25.209(a) and (b).
+
+(f) In the 24.75-25.25 GHz band, an earth station that meets the antenna gain pattern requirements set forth in § 25.209(a) and (b) of this part may be routinely licensed if the maximum power density into the antenna does not exceed 3.5 dBW/MHz.
+
+(g) A license application for earth station operation in a network using variable power density control of earth stations transmitting simultaneously in shared frequencies to the same target satellite receiving beam may be routinely processed if the applicant certifies that the aggregate off-axis EIRP density from all co-frequency earth stations transmitting simultaneously to the same target satellite receiving beam, not resulting from colliding data bursts transmitted pursuant to a contention protocol, will not exceed the applicable off-axis EIRP density limits permissible for a single earth station, as specified in § 25.218 or § 25.138.
+
+(h) Applications for authority for fixed earth station operation in the conventional C-band, the extended C-band, the conventional Ku-band, the extended Ku-band or the conventional Ka-band that do not qualify for routine processing under relevant criteria in this section, § 25.211, § 25.218, or § 25.138, are subject to the requirements in § 25.220.
+
+[58 FR 13421, Mar. 11, 1993, as amended at 62 FR 5931, Feb. 10, 1997; 62 FR 51378, Oct. 1, 1997; 70 FR 32256, June 2, 2005; 70 FR 33376, June 8, 2005; 72 FR 50030, Aug. 29, 2007; 73 FR 70902, Nov. 24, 2008; 78 FR 8428, Feb. 6, 2013; 79 FR 8323, Feb. 12, 2014; 81 FR 55338, Aug. 18, 2016]

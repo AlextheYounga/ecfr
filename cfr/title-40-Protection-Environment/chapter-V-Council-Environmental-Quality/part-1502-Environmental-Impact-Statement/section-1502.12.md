@@ -1,0 +1,3 @@
+##### § 1502.12 Summary. #####
+
+Each environmental impact statement shall contain a summary that adequately and accurately summarizes the statement. The summary shall include the major conclusions and summarize any disputed issues raised by agencies and the public, any issues to be resolved, and key differences among alternatives, and identify the environmentally preferable alternative or alternatives. Agencies shall write the summary in plain language and should use, as relevant, appropriate visual aids and charts. The summary normally should not exceed 15 pages.

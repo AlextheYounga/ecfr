@@ -1,0 +1,5 @@
+##### § 455.24 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available control technology economically achievable (BAT). #####
+
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology as specified in 40 CFR 455.20(d). For the priority pollutants, such sources must achieve discharges not exceeding the quantity (mass) determined by multipying the process wastewater flow subject to this subpart as defined in 40 CFR 455.21 (d) times the concentrations listed in table 4 or table 5 of this part, as appropriate, of this subpart.
+
+[58 FR 50690, Sept. 28, 1993]

@@ -1,0 +1,5 @@
+##### § 194.13 Submission of reference materials. #####
+
+Information may be included by reference into compliance applications(s), provided that the references are clear specific and that unless, otherwise specified by the Administrator or the Administrator's authorized representative, 5 copies of reference information are submitted to the Administrator's authorized representative. These paper copies are intended for the official docket in Washington, DC, as well as the four informational dockets in Albuquerque and Santa Fe, New Mexico. Reference materials that are widely available in standard text books or reference books need not to be submitted. Whenever possible, DOE shall submit 10 copies of reference materials in alternative format (e.g., compact disk) or other approved format, as specified by the Administrator's authorized representative.
+
+[69 FR 42582, July 16, 2004]

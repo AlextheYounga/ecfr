@@ -1,0 +1,5 @@
+##### 42.503-2 Postaward conference procedure. #####
+
+The chairperson of the conference shall conduct the meeting. Unless a contract change is contemplated, the chairperson shall emphasize that it is not the purpose of the meeting to change the contract. The contracting officer may make commitments or give directions within the scope of the contracting officer's authority and shall put in writing and sign any commitment or direction, whether or not it changes the contract. Any change to the contract that results from the postaward conference shall be made only by a contract modification referencing the applicable terms of the contract. Participants without authority to bind the Government shall not take action that in any way alters the contract. The chairperson shall include in the summary report (see 42.503-3 below) all information and guidance provided to the contractor.
+
+[66 FR 42370, Sept. 19, 1983, as amended at 66 FR 2133, Jan. 10, 2001]

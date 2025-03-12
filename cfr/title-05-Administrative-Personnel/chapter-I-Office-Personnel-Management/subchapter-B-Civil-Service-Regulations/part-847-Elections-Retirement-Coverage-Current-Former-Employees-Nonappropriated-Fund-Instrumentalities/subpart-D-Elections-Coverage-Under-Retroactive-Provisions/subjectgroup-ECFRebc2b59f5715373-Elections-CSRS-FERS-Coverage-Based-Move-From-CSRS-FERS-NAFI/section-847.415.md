@@ -1,0 +1,3 @@
+##### § 847.415 OASDI coverage. #####
+
+An employee who elects CSRS coverage under § 847.411 is prospectively subject to both the Old Age, Survivors, and Disability Insurance (OASDI) tax and CSRS as described in subpart J of part 831 of this chapter, known as CSRS Offset, effective from the first day of the next pay period after the employing agency receives the employee's election under § 847.411(a).

@@ -1,0 +1,27 @@
+##### § 1066.210 Dynamometers. #####
+
+(a) *General requirements.* A chassis dynamometer typically uses electrically generated load forces combined with its rotational inertia to recreate the mechanical inertia and frictional forces that a vehicle exerts on road surfaces (known as “road load”). Load forces are calculated using vehicle-specific coefficients and response characteristics. The load forces are applied to the vehicle tires by rolls connected to motor/absorbers. The dynamometer uses a load cell to measure the forces the dynamometer rolls apply to the vehicle's tires.
+
+(b) *Accuracy and precision.* The dynamometer's output values for road load must be NIST-traceable. We may determine traceability to a specific national or international standards organization to be sufficient to demonstrate NIST-traceability. The force-measurement system must be capable of indicating force readings as follows:
+
+(1) For dynamometer testing of vehicles at or below 20,000 pounds GVWR, the dynamometer force-measurement system must be capable of indicating force readings during a test to a resolution of ±0.05% of the maximum load-cell force simulated by the dynamometer or ±9.8 N (±2.2 lbf), whichever is greater.
+
+(2) For dynamometer testing of vehicles above 20,000 pounds GVWR, the force-measurement system must be capable of indicating force readings during a test to a resolution of ±0.05% of the maximum load-cell force simulated by the dynamometer or ±39.2 N (±8.8 lbf), whichever is greater.
+
+(c) *Test cycles.* The dynamometer must be capable of fully simulating vehicle performance over applicable test cycles for the vehicles being tested as referenced in the corresponding standard-setting part, including operation at the combination of inertial and road-load forces corresponding to maximum road-load conditions and maximum simulated inertia at the highest acceleration rate experienced during testing.
+
+(d) *Component requirements.* The following specifications apply:
+
+(1) The nominal roll diameter must be 120 cm or greater. The dynamometer must have an independent drive roll for each drive axle as tested under § 1066.410(g), except that two drive axles may share a single drive roll. Use good engineering judgment to ensure that the dynamometer roll diameter is large enough to provide sufficient tire-roll contact area to avoid tire overheating and power losses from tire-roll slippage.
+
+(2) Measure and record force and speed at 10 Hz or faster. You may convert measured values to 1-Hz, 2-Hz, or 5-Hz values before your calculations, using good engineering judgment.
+
+(3) The load applied by the dynamometer simulates forces acting on the vehicle during normal driving according to the following equation:
+
+![](/graphics/er29jn21.264.gif)Where:*FR* = total road-load force to be applied at the surface of the roll. The total force is the sum of the individual tractive forces applied at each roll surface.*i* = a counter to indicate a point in time over the driving schedule. For a dynamometer operating at 10-Hz intervals over a 600-second driving schedule, the maximum value of *i* should be 6,000.*A* = a vehicle-specific constant value representing the vehicle's frictional load in lbf or newtons. See subpart D of this part.*G*i = instantaneous road grade, in percent. If your duty cycle is not subject to road grade, set this value to 0.*B* = a vehicle-specific coefficient representing load from drag and rolling resistance, which are a function of vehicle speed, in lbf/(mi/hr) or N·s/m. See subpart D of this part.*v* = instantaneous linear speed at the roll surfaces as measured by the dynamometer, in mi/hr or m/s. Let *v*i−1 = 0 for *i* = 0.*C* = a vehicle-specific coefficient representing aerodynamic effects, which are a function of vehicle speed squared, in lbf/(mi/hr)2 or N·s2/m2. See subpart D of this part.*M*e = the vehicle's effective mass in lbm or kg, including the effect of rotating axles as specified in § 1066.310(b)(7).*t* = elapsed time in the driving schedule as measured by the dynamometer, in seconds. Let *t*i−1 = 0 for *i* = 0.*M* = the measured vehicle mass, in lbm or kg.*a*g = acceleration of Earth's gravity = 9.80665 m/s2.
+
+(4) We recommend that a dynamometer capable of testing vehicles at or below 20,000 pounds GVWR be designed to apply an actual road-load force within ±1% or ±9.8 N (±2.2 lbf) of the reference value, whichever is greater. Note that slightly higher errors may be expected during highly transient operation for vehicles above 8,500 pounds GVWR.
+
+(e) *Dynamometer manufacturer instructions.* This part specifies that you follow the dynamometer manufacturer's recommended procedures for things such as calibrations and general operation. If you perform testing with a dynamometer that you manufactured or if you otherwise do not have these recommended procedures, use good engineering judgment to establish the additional procedures and specifications we specify in this part, unless we specify otherwise. Keep records to describe these recommended procedures and how they are consistent with good engineering judgment, including any quantified error estimates.
+
+[79 FR 23823, Apr. 28, 2014, as amended at 81 FR 74198, Oct. 25, 2016; 86 FR 34581, June 29, 2021]

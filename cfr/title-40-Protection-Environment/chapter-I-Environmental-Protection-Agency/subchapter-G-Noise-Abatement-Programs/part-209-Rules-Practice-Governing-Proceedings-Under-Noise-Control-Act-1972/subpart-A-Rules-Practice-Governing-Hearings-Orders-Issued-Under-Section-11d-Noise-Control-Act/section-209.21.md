@@ -1,0 +1,5 @@
+##### § 209.21 Primary discovery (exchange of witness lists and documents). #####
+
+(a) At a prehearing conference or within some reasonable time set by the administrative law judge prior to the hearing, each party shall make available to the other parties the names of the expert and other witnesses the party expects to call, together with a brief summary of their expected testimony and copies of all documents and exhibits which the party expects to introduce into evidence. Thereafter, witnesses, documents, or exhibits may be added and summaries of expected testimony amended upon motion by a party.
+
+(b) The administrative law judge, may, upon motion by a party or other person, and for good cause shown, by order (1) restrict or defer disclosure by a party of the name of a witness or a narrative summary of the expected testimony of a witness, and (2) prescribe other appropriate measures to protect a witness. Any party affected by any such action shall have an adequate opportunity, once he or she learns the name of a witness and obtains the narrative summary of the witness' expected testimony, to prepare for the presentation of his or her case.

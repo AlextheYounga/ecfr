@@ -1,0 +1,11 @@
+##### § 24.4 Assurances, monitoring and corrective action. #####
+
+(a) *Assurances.* (1) Before a Federal Agency may approve any grant to, or contract, or agreement with, a State Agency under which Federal financial assistance will be made available for a project which results in real property acquisition or displacement that is subject to the Uniform Act, the State Agency must provide appropriate assurances that it will comply with the Uniform Act and this part. A displacing Agency's assurances shall be in accordance with section 210 of the Uniform Act. An acquiring Agency's assurances shall be in accordance with section 305 of the Uniform Act and must contain specific reference to any State law which the Agency believes provides an exception to §§ 301 or 302 of the Uniform Act. If, in the judgment of the Federal Agency, Uniform Act compliance will be served, a State Agency may provide these assurances at one time to cover all subsequent federally-assisted programs or projects. An Agency, which both acquires real property and displaces persons, may combine its section 210 and section 305 assurances in one document.
+
+(2) If a Federal Agency or State Agency provides Federal financial assistance to a “person” causing displacement, such Federal or State Agency is responsible for ensuring compliance with the requirements of this part, notwithstanding the person's contractual obligation to the grantee to comply.
+
+(3) As an alternative to the assurance requirement described in paragraph (a)(1) of this section, a Federal Agency may provide Federal financial assistance to a State Agency after it has accepted a certification by such State Agency in accordance with the requirements in subpart G of this part.
+
+(b) *Monitoring and corrective action.* The Federal Agency will monitor compliance with this part, and the State Agency shall take whatever corrective action is necessary to comply with the Uniform Act and this part. The Federal Agency may also apply sanctions in accordance with applicable program regulations. (Also see § 24.603, of this part).
+
+(c) *Prevention of fraud, waste, and mismanagement.* The Agency shall take appropriate measures to carry out this part in a manner that minimizes fraud, waste, and mismanagement.

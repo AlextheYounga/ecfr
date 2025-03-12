@@ -1,0 +1,15 @@
+##### § 536.303 Geographic conversion. #####
+
+(a) *Geographic conversion at time of action that may provide initial entitlement to pay retention.* If, in conjunction with a pay action that may entitle the employee to pay retention under §§ 536.301 or 536.302, an employee's official worksite is changed to a new location where different pay schedules apply, the agency must convert the employee's rate(s) of basic pay to the applicable pay schedule(s) in the new location before applying the pay retention rules in this subpart or any other simultaneous pay action (other than a general pay adjustment). The agency must identify the highest applicable rate range that would apply to the employee's position of record before the pay action as if that position were stationed at the new official worksite and determine the employee's converted payable rate of basic pay based on the step (or relative position in range for a GM employee) in that range that corresponds to the employee's step (or relative position in range for a GM employee) before the pay action. A reduction in an employee's payable rate of basic pay resulting from this geographic conversion is not a basis for entitlement to pay retention. The pay retention rules in this subpart must be applied as if the employee's payable rate of basic pay after geographic conversion is the employee's existing payable rate of basic pay in effect immediately before the action.
+
+(b) *Geographic conversion when a retained rate employee's official worksite is changed.* When an employee is receiving a retained rate and the employee's official worksite is changed to a new location where different pay schedules apply, the agency must apply the following rules (after applying any simultaneous general pay adjustment under § 536.305) to derive the converted retained rate that will be used as the existing retained rate in determining the employee's pay retention entitlement in the new position of record and at the new official worksite:
+
+(1) Identify the maximum rate for the highest applicable rate range that applies to the employee's former position of record based on the former official worksite;
+
+(2) Identify the maximum rate for the highest applicable rate range that would apply to the employee's former position of record if the employee were stationed at the official worksite for the new position of record;
+
+(3) Divide the maximum rate identified in paragraph (b)(2) of this section by the maximum rate identified in paragraph (b)(1) of this section and round the result to the fourth decimal place; and
+
+(4) Multiply the factor resulting from paragraph (b)(3) of this section by the employee's former retained rate and round to the nearest whole dollar (for an annual rate) or the nearest whole cent (for an hourly rate) to derive the employee's converted retained rate at the new official worksite.
+
+[70 FR 31310, May 31, 2005, as amended at 73 FR 66155, Nov. 7, 2008]

@@ -1,0 +1,7 @@
+##### § 53.7 Testing of methods at the initiative of the Administrator. #####
+
+(a) In the absence of an application for a reference or equivalent method determination, the Administrator may conduct the tests required by this part for such a determination, may compile such other information as may be necessary in the judgment of the Administrator to make such a determination, and on the basis of the tests and information may determine that a method satisfies applicable requirements of this part.
+
+(b) In the absence of an application requesting the Administrator to consider revising an appendix to part 50 of this chapter in accordance with § 53.16, the Administrator may conduct such tests and compile such information as may be necessary in the Administrator's judgment to make a determination under § 53.16(d) and on the basis of the tests and information make such a determination.
+
+(c) If a method tested in accordance with this section is designated as a reference or equivalent method in accordance with § 53.8 or is specified or designated as a reference method in accordance with § 53.16, any person or entity who offers the method for sale as a reference or equivalent method thereafter shall assume the rights and obligations of an applicant for purposes of this part, with the exception of those pertaining to submission and processing of applications.

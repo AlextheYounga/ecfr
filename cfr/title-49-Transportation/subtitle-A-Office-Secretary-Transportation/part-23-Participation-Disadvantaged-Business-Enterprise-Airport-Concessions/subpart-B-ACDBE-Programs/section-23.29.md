@@ -1,0 +1,5 @@
+##### § 23.29 What monitoring and compliance procedures must recipients follow? #####
+
+As a recipient, you must implement appropriate mechanisms to ensure compliance with the requirements of this part by all participants in the program. You must include in your concession program the specific provisions to be inserted into concession agreements and management contracts setting forth the enforcement mechanisms and other means you use to ensure compliance. These provisions must include a monitoring and enforcement mechanism to verify that the work committed to ACDBEs is actually performed by the ACDBEs. This mechanism must include a written certification that you have reviewed records of all contracts, leases, joint venture agreements, or other concession-related agreements and monitored the work on-site at your airport for this purpose. The monitoring to which this paragraph refers may be conducted in conjunction with monitoring of concession performance for other purposes.
+
+[77 FR 36931, June 20, 2012]

@@ -1,0 +1,3 @@
+##### § 386.63 Decision on review. #####
+
+Upon review of a decision, the Assistant Administrator may adopt, modify, or set aside the administrative law judge's findings of fact and conclusions of law. He/she may also remand proceedings to the administrative law judge with instructions for such further proceedings as he/she deems appropriate. If not remanded, the Assistant Administrator shall issue a final order disposing of the proceedings, and serve it on all parties.

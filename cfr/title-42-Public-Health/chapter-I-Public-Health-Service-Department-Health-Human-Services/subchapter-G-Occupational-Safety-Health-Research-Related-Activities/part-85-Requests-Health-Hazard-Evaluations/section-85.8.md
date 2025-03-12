@@ -1,0 +1,3 @@
+##### § 85.8 Provision of suitable space for employee interviews and examinations; identification of employees. #####
+
+An employer shall, in request of the NIOSH officer, provide suitable space, if such space is reasonably available, to NIOSH to conduct private interviews with, and examinations of, employees. NIOSH officers shall consult with the employer as to the time and place of the medical examination and shall schedule such examinations so as to avoid undue disruption of the operations of the employer's establishment. NIOSH shall conduct, and assume the medical costs of, examinations conducted under this part.

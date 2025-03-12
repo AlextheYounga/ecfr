@@ -1,0 +1,3 @@
+##### § 71.117 Identification and control of materials, parts, and components. #####
+
+The licensee, certificate holder, and applicant for a CoC shall establish measures for the identification and control of materials, parts, and components. These measures must assure that identification of the item is maintained by heat number, part number, or other appropriate means, either on the item or on records traceable to the item, as required throughout fabrication, installation, and use of the item. These identification and control measures must be designed to prevent the use of incorrect or defective materials, parts, and components.

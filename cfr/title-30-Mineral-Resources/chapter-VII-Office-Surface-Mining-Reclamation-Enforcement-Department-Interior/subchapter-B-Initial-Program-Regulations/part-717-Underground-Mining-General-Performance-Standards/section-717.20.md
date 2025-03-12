@@ -1,0 +1,5 @@
+##### § 717.20 Topsoil handling and revegetation. #####
+
+(a) Topsoil shall be removed as a separate operation from areas to be disturbed by surface operations, such as roads and areas upon which support facilities are to be sited. Selected overburden materials may be used instead of, or as a substitute for topsoil where the resulting soil medium is determined by the regulatory authority to be equal to or more suitable for revegetation. Topsoil shall be segregated, stockpiled, and protected from wind and water erosion, or contaminants. Disturbed areas no longer required for the conduct of mining operations shall be regraded, topsoil distributed, and revegetated.
+
+(b) The permittee shall establish on all land that has been disturbed by mining operations a diverse, effective, and permanent vegetative cover capable of self-regeneration and plant succession, and adequate to control soil erosion. Introduced species may be substituted for native species if approved by the regulatory authority. Introduced species shall meet applicable State and Federal seed or introduced species statutes, and may not include poisonous or potentially toxic species.

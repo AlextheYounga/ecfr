@@ -1,0 +1,3 @@
+##### § 139.113 Deviations. #####
+
+In emergency conditions requiring immediate action for the protection of life or property, the certificate holder may deviate from any requirement of subpart D of this part, or the Airport Certification Manual, to the extent required to meet that emergency. Each certificate holder who deviates from a requirement under this section must, within 14 days after the emergency, notify the Regional Airports Division Manager of the nature, extent, and duration of the deviation. When requested by the Regional Airports Division Manager, the certificate holder must provide this notification in writing.

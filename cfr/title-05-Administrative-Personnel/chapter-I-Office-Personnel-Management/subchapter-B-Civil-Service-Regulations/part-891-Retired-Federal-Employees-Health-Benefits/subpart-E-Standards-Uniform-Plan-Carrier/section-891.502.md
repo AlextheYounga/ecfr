@@ -1,0 +1,3 @@
+##### § 891.502 Standards for carrier of uniform plan. #####
+
+In the most recent year for which data are available, the carrier of the uniform plan shall have made at least 1 percent of all group health insurance benefit payments in the United States. If the carrier is an insurance company, it must be licensed to issue group health insurance in all the States of the United States and the District of Columbia.

@@ -1,0 +1,7 @@
+##### § 96.157 Closing of general accounts. #####
+
+(a) The CAIR authorized account representative of a general account may submit to the Administrator a request to close the account, which shall include a correctly submitted allowance transfer under §§ 96.160 and 96.161 for any CAIR NOX allowances in the account to one or more other CAIR NOX Allowance Tracking System accounts.
+
+(b) If a general account has no allowance transfers in or out of the account for a 12-month period or longer and does not contain any CAIR NOX allowances, the Administrator may notify the CAIR authorized account representative for the account that the account will be closed following 20 business days after the notice is sent. The account will be closed after the 20-day period unless, before the end of the 20-day period, the Administrator receives a correctly submitted transfer of CAIR NOX allowances into the account under §§ 96.160 and 96.161 or a statement submitted by the CAIR authorized account representative demonstrating to the satisfaction of the Administrator good cause as to why the account should not be closed.
+
+[70 FR 25339, May 12, 2005, as amended at 71 FR 25384, Apr. 28, 2006]

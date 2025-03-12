@@ -1,0 +1,3 @@
+##### § 1133.1 Freight bill filing requirement under modified procedure. #####
+
+If, under modified procedure (for general rules governing modified procedure, see part 1112), an award of damages is sought, complainant should submit the paid freight bills or properly certified copies with its statement when there are not more than 10 shipments; if more than 10 shipments are involved, complainant should retain the documents.

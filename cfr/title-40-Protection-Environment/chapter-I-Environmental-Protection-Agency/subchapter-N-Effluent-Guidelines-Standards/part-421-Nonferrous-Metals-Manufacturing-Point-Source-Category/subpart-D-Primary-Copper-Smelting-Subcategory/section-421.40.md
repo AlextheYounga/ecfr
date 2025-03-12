@@ -1,0 +1,3 @@
+##### § 421.40 Applicability: Description of the primary copper smelting subcategory. #####
+
+The provisions of this subpart apply to process wastewater discharges resulting from the primary smelting of copper from ore or ore concentrates. Primary copper smelting includes, but is not limited to, roasting, converting, leaching if preceded by a pyrometallurgical step, slag granulation and dumping, fire refining, and the casting of products from these operations.

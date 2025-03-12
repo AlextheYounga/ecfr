@@ -1,0 +1,3 @@
+##### 2022.101-1 General. #####
+
+The Head of the Contracting Activity shall designate programs or requirements for which it is necessary that contractors be required to notify the Government of actual or potential labor disputes that are delaying or threaten to delay the timely contract performance. Contractor notification shall be made in accordance with FAR 52.222-1, “Notice to the Government of Labor Disputes.”

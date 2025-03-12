@@ -1,0 +1,3 @@
+##### § 27.34 Test for intrinsic safety. #####
+
+Assemblies, subassemblies, or components that are designed for intrinsic safety shall be tested by introducing into the circuit(s) thereof a circuit-interrupting device which produces an electric spark from the current in the circuit. The circuit-interrupting device shall be placed in a gallery containing various flammable natural gas-air mixtures. To meet the requirements of this test, the spark shall not ignite the flammable mixture. For this test the circuit-interrupting device shall be operated not less than 100 times at 125 percent of the normal operating voltage of the particular circuit.

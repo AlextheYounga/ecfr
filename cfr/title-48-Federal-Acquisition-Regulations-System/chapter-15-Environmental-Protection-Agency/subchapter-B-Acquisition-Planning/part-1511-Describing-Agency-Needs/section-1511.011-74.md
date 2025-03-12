@@ -1,0 +1,11 @@
+##### 1511.011-74 Work assignments. #####
+
+(a) *Policy.* When issuing work assignments, the independent government cost estimate shall not be released to the contractor. In most cases the Contracting Officer (CO) should authorize the contractor to expend only the estimated labor hours necessary to develop the work plan and to initiate preliminary tasks which must be performed before work plan approval can be made. However, in cases where the uncertainties involved in the effort are of such a magnitude that there is no reasonable expectation that the contractor can estimate the level of effort required by the tasks, objectives, or outcomes of the requirement, the CO may provide a ceiling level of effort for the entire work assignment at the time of its issuance. In such cases, the specific uncertainties precluding reasonable estimation of the required level of effort on the contractor's part must be documented in the contract file.
+
+(b) *Contract Clause.* The CO shall insert the contract clause at 1552.211.74, *Work Assignments,* in cost-reimbursement contracts when work assignments are used.
+
+(1) For Superfund contracts, except for contracts which require annual conflict of interest certificates (e.g., Site-Specific contracts, the Contract Laboratory Program (CLP), Sample Management Office (SMO) contracts), the CO shall use the clause with either Alternate I or Alternate II. Alternate I shall be used for contractors who have at least three (3) years of records that may be searched for certification purposes. Alternate II shall be used for contractors who do not have at least three (3) years of records that may be searched.
+
+(2) For non-Superfund contracts, the CO shall use the clause with either Alternate III or Alternate IV. Alternate III shall be used for contractors who have at least three (3) years of records that may be searched for certification purposes. Alternate IV shall be used for contractors who do not have at least three (3) years of records that may be searched.
+
+[77 FR 8175, Feb. 14, 2012, as amended at 78 FR 46290, July 31, 2013; 79 FR 75436, Dec. 18, 2014]

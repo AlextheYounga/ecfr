@@ -1,0 +1,3 @@
+##### § 57.2201 Applicability. #####
+
+The regulations of this subpart are applicable to scholarship grants awarded under section 784 of the Public Health Service Act, which authorizes the Secretary to award scholarship grants to students of medicine and osteopathy who agree to engage in the full-time practice of primary care for a prescribed period of time (a) in a physician shortage area or (b) in such manner as to assure that of the patients receiving medical care in such practice a substantial portion will consist of migratory agricultural workers or members of their families.

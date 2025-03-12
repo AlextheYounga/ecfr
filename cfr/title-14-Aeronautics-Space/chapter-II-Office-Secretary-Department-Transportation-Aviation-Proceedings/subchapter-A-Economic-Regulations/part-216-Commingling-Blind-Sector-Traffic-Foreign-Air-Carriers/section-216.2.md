@@ -1,0 +1,3 @@
+##### § 216.2 Applicability. #####
+
+This part sets forth the requirements applicable to foreign air carriers for obtaining a Special Authorization from the Board with respect to any deviation from an authorized foreign air transportation route for the purpose of commingling blind sector traffic with air transportation traffic carried pursuant to a foreign air carrier permit issued by the Board. The deviation by a foreign air carrier from its authorized route for the purpose of combined carriage to or from the United States of nonrevenue or other traffic, the carriage of which does not constitute engaging in foreign air transportation, is governed by the provisions of part 375 of this chapter.

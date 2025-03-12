@@ -1,0 +1,3 @@
+##### § 1018.32 Bankruptcy claims. #####
+
+When the Board receives information that a debtor has filed a petition in bankruptcy or is the subject of a bankruptcy proceeding, it shall suspend all collection actions against the debtor in accordance with 11 U.S.C. 362 and shall furnish information concerning the debt owed the United States to the Department of Justice's Nationwide Central Intake Facility to permit the filing of a claim.

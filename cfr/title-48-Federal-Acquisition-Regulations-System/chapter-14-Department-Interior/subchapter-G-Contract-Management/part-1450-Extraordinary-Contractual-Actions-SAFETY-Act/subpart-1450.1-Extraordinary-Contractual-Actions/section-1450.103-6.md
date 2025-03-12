@@ -1,0 +1,3 @@
+##### 1450.103-6 Disposition. #####
+
+The CO shall submit the Memorandum of Decision including the contractor's request, contractor information in support of the request required by FAR 50.103-4, the results of the CO's investigation required by FAR 50.103-5, and the information required by FAR 50.103-6 to the SOL for review. If the SOL concurs with the Memorandum of Decision, the Memorandum of Decision will be submitted through the HCA to the Director, PAM, for further action.

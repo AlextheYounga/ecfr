@@ -1,0 +1,3 @@
+##### § 240.208-1 Requirement. #####
+
+Residue and other solid waste products resulting from a thermal process shall be disposed of in an environmentally acceptable manner. Where land disposal is employed, practices must be in conformance with the U.S. Environmental Protection Agency's Guidelines for the Land Disposal of Solid Wastes. Unwanted residue materials remaining after the recovery operation shall be disposed of in a manner which protects the environment. Where land disposal is employed, practices must be in conformance with the U.S. Environmental Protection Agency's Guidelines for the Land Disposal of Solid Wastes.

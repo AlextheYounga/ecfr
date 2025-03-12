@@ -1,0 +1,19 @@
+##### § 1605.22 Claims for correction of Board or TSP record keeper errors; time limitations. #####
+
+(a) *Filing claims.* Claims for correction of Board or TSP record keeper errors under this subpart may be submitted initially either to the TSP record keeper or the Board. The claim must be in writing and may be from the affected participant or beneficiary.
+
+(b) *Board's or TSP record keeper's discovery of error.* (1) Upon discovery of an error made within the past six months involving a receipt or a disbursement, the Board or TSP record keeper must promptly correct the error on its own initiative. If the error was made more than six months before its discovery, the Board or the TSP record keeper may exercise sound discretion in deciding whether to correct the error, but, in any event, must act promptly in doing so.
+
+(2) For errors involving an investment in the wrong fund caused by Board or TSP record keeper error, the Board or the TSP record keeper must promptly pay breakage if it is discovered within 30 days of the issuance of the most recent TSP participant (or loan) statement, transaction confirmation, or other notice that reflected the error, whichever is earlier. If it is discovered after that time, the Board or TSP record keeper may use its sound discretion in deciding whether to pay breakage, but, in any event, must act promptly in doing so.
+
+(c) *Participant's or beneficiary's discovery of error.* (1) If the Board or TSP record keeper fails to discover an error of which a participant or beneficiary has knowledge involving a receipt or a disbursement, the participant or beneficiary may file a claim for correction of the error with the Board or the TSP record keeper without time limit. The Board or the TSP record keeper must promptly correct any such error for which the participant or beneficiary filed a claim within six months of its occurrence; the correction of any such error for which the participant or beneficiary filed a claim after that time is in the sound discretion of the Board or TSP record keeper.
+
+(2) For errors involving an investment in the wrong fund of which a participant or beneficiary has knowledge, he or she may file a claim for breakage with the Board or TSP record keeper no later than 30 days after the TSP provides the participant with a transaction confirmation or other notice reflecting the error, or makes available on its Web site a participant statement reflecting the error, whichever is earlier. The Board or TSP record keeper must promptly pay breakage for such errors.
+
+(3) If a participant or beneficiary fails to file a claim for breakage concerning an error involving an investment in the wrong fund in a timely manner, the Board or TSP record keeper may nevertheless, in its sound discretion, pay breakage for any such error that is brought to its attention.
+
+(d) *Processing claims.* (1) If the initial claim is submitted to the TSP record keeper, the TSP record keeper may either respond directly to the claimant, or may forward the claim to the Board for response. If the TSP record keeper responds to a claim, and all or any part of the claim is denied, the claimant may request review by the Board within 90 days of the date of the record keeper's response.
+
+(2) If the Board denies all or any part of a claim (whether upon review of a TSP record keeper denial or upon an initial review by the Board), the claimant will be deemed to have exhausted his or her administrative remedy and may file suit under 5 U.S.C. 8477. If the claimant does not submit a request to the Board for review of a claim denial by the TSP record keeper within the 90 days permitted under paragraph (d)(1) of this section, the claimant will be deemed to have accepted the TSP record keeper's decision.
+
+[66 FR 44277, Aug. 22, 2001, as amended at 70 FR 32212, June 1, 2005; 80 FR 57070, Sept. 22, 2015]

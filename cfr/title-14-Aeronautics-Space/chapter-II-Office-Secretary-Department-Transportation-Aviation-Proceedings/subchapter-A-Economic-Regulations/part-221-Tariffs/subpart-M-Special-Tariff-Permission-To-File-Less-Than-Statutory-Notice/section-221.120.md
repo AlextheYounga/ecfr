@@ -1,0 +1,17 @@
+##### § 221.120 Grounds for approving or denying Special Tariff Permission applications. #####
+
+(a) *General authority.* The Department may permit changes in fares, charges or other tariff provisions on less than the statutory notice required by section 41505 of the statute.
+
+(b) *Grounds for approval.* The following facts and circumstances constitute some of the grounds for approving applications for Special Tariff Permission in the absence of other facts and circumstances warranting denial:
+
+(1) *Clerical or typographical errors.* Clerical or typographical errors in tariffs constitute grounds for approving applications for Special Tariff Permission to file on less than statutory notice the tariff changes necessary to correct such errors. Each application for Special Tariff Permission based on such grounds shall plainly specify the errors and contain a complete statement of all the attending facts and circumstances, and such application shall be presented to the Department with reasonable promptness after issuance of the defective tariff.
+
+(2) *Rejection caused by clerical or typographical errors or unintelligibility.* Rejection of a tariff caused by clerical or typographical errors constitute grounds for approving applications for Special Tariff Permission to file on less than statutory notice, effective not earlier than the original effective dates in the rejected tariff, all changes contained in the rejected tariff but with the errors corrected. Each application for the grant of Special Tariff Permission based on such grounds shall plainly specify the errors and contain a complete statement of all the attending facts and circumstances, and such application shall be filed with the Department within five days after receipt of the Department's notice of rejection.
+
+(3) *Newly authorized transportation.* The fact that the Department has newly authorized a carrier to perform foreign air transportation constitutes grounds for approving applications for Special Tariff Permission to file on less than statutory notice the fares, rates, and other tariff provisions covering such newly authorized transportation.
+
+(4) The fact that a passenger fare is within a statutory or Department-established zone of fare flexibility constitutes grounds for approving an application for Special Tariff Permission to file a tariff stating that fare and any rules affecting them exclusively, on less than statutory notice. The Department's policy on approving such applications is set forth in § 399.35 of this chapter.
+
+(5) *Lowered fares and charges.* The prospective lowering of fares or charges to the traveling public constitutes grounds for approving an application for Special Tariff Permission to file on less than statutory notice a tariff stating the lowered fares or charges and any rules affecting them exclusively. However, the Department will not approve the application if the proposed tariff raises significant questions of lawfulness, as set forth in § 399.35 of this chapter.
+
+(c) *Filing notice required by formal order.* When a formal order of the Department requires the filing of tariff matter on a stated number of days' notice, an application for Special Tariff Permission to file on less notice will not be approved. In any such instance a petition for modification of the order should be filed in the formal docket.

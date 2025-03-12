@@ -1,0 +1,3 @@
+##### § 894.602 May I cancel my enrollment at any time? #####
+
+No. You may only cancel your enrollment during an open season. *Exceptions:* You may cancel your dental and/or vision enrollment if you transfer to an eligible position with a Federal agency that provides dental and/or vision coverage with 50 percent or more employer-paid premiums. You may also cancel upon your deployment or your spouse's deployment to active military duty. These cancellations will become effective at the end of the pay period that you submit your request.

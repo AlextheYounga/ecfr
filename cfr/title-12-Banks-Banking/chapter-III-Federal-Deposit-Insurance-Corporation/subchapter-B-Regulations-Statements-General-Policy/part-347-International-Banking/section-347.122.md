@@ -1,0 +1,3 @@
+##### § 347.122 Limitations applicable to the authority provided in this subpart. #####
+
+The FDIC may impose such conditions on authority granted in this subpart as it considers appropriate. If a bank is unable or fails to comply with the requirements of this subpart or any conditions imposed by the FDIC regarding transactions under this subpart, the FDIC may require termination of any activities or divestiture of investments permitted under this subpart after giving the bank notice and a reasonable opportunity to be heard on the matter.

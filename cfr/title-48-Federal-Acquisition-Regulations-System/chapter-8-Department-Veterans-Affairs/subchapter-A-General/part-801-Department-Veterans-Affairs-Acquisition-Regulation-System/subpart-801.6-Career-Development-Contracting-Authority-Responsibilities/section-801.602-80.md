@@ -1,0 +1,3 @@
+##### 801.602-80 Legal and technical review-Office of Construction and Facilities Management and National Cemetery Administration. #####
+
+An Office of Construction and Facilities Management or National Cemetery Administration (Construction Support Division) contracting officer shall submit all A/E contracts, and all construction contracts, time extensions, and modifications, directly to Office of General Counsel (OGC) for review.

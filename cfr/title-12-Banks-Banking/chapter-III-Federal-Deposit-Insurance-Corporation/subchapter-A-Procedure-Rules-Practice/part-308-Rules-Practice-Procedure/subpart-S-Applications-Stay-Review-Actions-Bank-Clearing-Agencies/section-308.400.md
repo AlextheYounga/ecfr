@@ -1,0 +1,3 @@
+##### § 308.400 Scope. #####
+
+This subpart is issued by the Corporation pursuant to sections 17A(b)(3)(g), 17A(b)(5)(C), 19 and 23 of the Securities Exchange Act of 1934 (Exchange Act), as amended (15 U.S.C. 78q-1 (b)(3)(g), (b)(5)(C), 78s, 78w). It applies to applications by banks insured by the Corporation (other than members of the Federal Reserve System) for a stay or review of certain actions by clearing agencies registered under the Exchange Act, for which the Securities and Exchange Commission (Commission) is not the appropriate regulatory agency under section 3(a)(34)(B) of the Exchange Act (bank clearing agencies).

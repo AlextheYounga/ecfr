@@ -1,0 +1,3 @@
+##### § 1103.15 The practitioner's duty to clients, generally. #####
+
+The practitioner shall be respectful of the law and its official ministers, and shall not be involved in corruption of public officials or deception of the public. In giving improper service or advice, the practitioner invites and deserves stern condemnation. The practitioner shall observe and advise all clients to observe the statutory law to the best of his knowledge or as interpreted by competent adjudication. The practitioner owes a general duty to practice candor toward his client with respect to all aspects to his service to the client.

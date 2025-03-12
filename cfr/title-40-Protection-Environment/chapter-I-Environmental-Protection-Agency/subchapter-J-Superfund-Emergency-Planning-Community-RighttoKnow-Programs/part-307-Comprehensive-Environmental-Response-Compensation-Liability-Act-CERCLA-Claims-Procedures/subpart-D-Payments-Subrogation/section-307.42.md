@@ -1,0 +1,5 @@
+##### § 307.42 Fund's obligation in the event of failure of remedial actions taken pursuant to CERCLA section 122. #####
+
+(a) In the case of the failure of a completed remedial action taken by a potentially responsible party pursuant to a remedial action preauthorized in connection with a settlement under section 122(b)(1) of CERCLA, the Fund shall be available for the costs of any new cleanup required, but shall not be obligated to a proportion exceeding that proportion contributed by the Fund for the original remedial action.
+
+(b) The Fund is not obligated by preauthorization of a response action to reimburse the claimant for subsequent remedial actions if those subsequent remedial actions are necessary as a result of the failure of the claimant, his employees or agents, or any third party having a contractual relationship with the claimant to properly perform authorized activities or otherwise comply with the terms and conditions of the PDD, and the Consent Decree or order regarding the site cleanup entered into by EPA and the claimant.

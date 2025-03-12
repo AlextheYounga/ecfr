@@ -1,0 +1,3 @@
+##### § 250.605 Subsea workovers. #####
+
+No subsea well-workover operation including routine operations shall be commenced until the lessee obtains written approval from the District Manager in accordance with § 250.613 of this part. That approval shall be based upon a case-by-case determination that the proposed equipment and procedures will maintain adequate control of the well and permit continued safe production operations.

@@ -1,0 +1,3 @@
+##### § 1021.4 Notice of claim and demand. #####
+
+Initiation of administrative collection of enforcement claims will be commenced by the enforcement collection designee mailing a letter of notice of claim and demand to the debtor. Such letter will state the statutory basis for the claim, a brief resume of the factual basis for the claim, the amount of the claim, and indicate the availability of the designee or his personal agent for discussion of the claim should the debtor so desire.

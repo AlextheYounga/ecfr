@@ -1,0 +1,11 @@
+##### § 258.73 Financial assurance for corrective action. #####
+
+(a) An owner or operator of a MSWLF unit required to undertake a corrective action program under § 258.58 of this part must have a detailed written estimate, in current dollars, of the cost of hiring a third party to perform the corrective action in accordance with the program required under § 258.58 of this part. The corrective action cost estimate must account for the total costs of corrective action activities as described in the corrective action plan for the entire corrective action period. The owner or operator must notify the State Director that the estimate has been placed in the operating record.
+
+(1) The owner or operator must annually adjust the estimate for inflation until the corrective action program is completed in accordance with § 258.58(f) of this part.
+
+(2) The owner or operator must increase the corrective action cost estimate and the amount of financial assurance provided under paragraph (b) of this section if changes in the corrective action program or MSWLF unit conditions increase the maximum costs of corrective action.
+
+(3) The owner or operator may reduce the amount of the corrective action cost estimate and the amount of financial assurance provided under paragraph (b) of this section if the cost estimate exceeds the maximum remaining costs of corrective action. The owner or operator must notify the State Director that the justification for the reduction of the corrective action cost estimate and the amount of financial assurance has been placed in the operating record.
+
+(b) The owner or operator of each MSWLF unit required to undertake a corrective action program under § 258.58 of this part must establish, in a manner in accordance with § 258.74, financial assurance for the most recent corrective action program. The owner or operator must provide continuous coverage for corrective action until released from financial assurance requirements for corrective action by demonstrating compliance with § 258.58 (f) and (g).

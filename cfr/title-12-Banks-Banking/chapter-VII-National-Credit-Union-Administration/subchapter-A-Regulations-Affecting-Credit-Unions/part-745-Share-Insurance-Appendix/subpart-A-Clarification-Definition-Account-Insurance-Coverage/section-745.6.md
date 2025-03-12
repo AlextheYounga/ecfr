@@ -1,0 +1,5 @@
+##### § 745.6 Accounts held by a corporation, partnership, or unincorporated association. #####
+
+Accounts of a corporation, partnership, or unincorporated association engaged in any independent activity shall be insured up to the SMSIA in the aggregate. The account of a corporation, partnership, or unincorporated association not engaged in an independent activity shall be deemed to be owned by the person or persons owning such corporation or comprising such partnership or unincorporated association and, for account insurance purposes, the interest of each person in such an account shall be added to any other account individually owned by such person and insured up to the SMSIA in the aggregate. For purposes of this section, “independent activity” means an activity other than one directed solely at increasing insurance coverage.
+
+[51 FR 37560, Oct. 23, 1986, as amended at 71 FR 14635, Mar. 23, 2006]

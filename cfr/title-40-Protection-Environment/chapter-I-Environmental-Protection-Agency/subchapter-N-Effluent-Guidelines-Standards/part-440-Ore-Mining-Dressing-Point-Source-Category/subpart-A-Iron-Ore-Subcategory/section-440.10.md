@@ -1,0 +1,3 @@
+##### § 440.10 Applicability; description of the iron ore subcategory. #####
+
+The provisions of this subpart A are applicable to discharges from (a) mines operated to obtain iron ore, regardless of the type of ore or its mode of occurrence; (b) mills beneficiating iron ores by physical (magnetic and nonmagnetic) and/or chemical separation; and (c) mills beneficiating iron ores by magnetic and physical separation in the Mesabi Range.

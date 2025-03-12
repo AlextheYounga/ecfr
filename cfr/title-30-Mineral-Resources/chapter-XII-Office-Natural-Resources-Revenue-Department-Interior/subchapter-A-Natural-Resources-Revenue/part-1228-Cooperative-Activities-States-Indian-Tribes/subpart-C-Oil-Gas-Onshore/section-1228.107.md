@@ -1,0 +1,7 @@
+##### § 1228.107 Eligible cost of activities. #####
+
+(a) If a cooperative agreement provides for Federal funding, only costs directly associated with eligible activities undertaken by the State or Indian tribe under the terms of a cooperative agreement will be eligible for reimbursement. Costs of services or activities which cannot be directly related to the support of activities specified in the agreement will not be eligible for Federal funding or for inclusion in the State's share or in the Indian tribe's share of funding that may be established in the agreement.
+
+(b) Eligible costs are the cost of salaries and benefits associated with technical, support, and clerical personnel engaged in eligible activities; direct cost of travel, rentals, and other normal administrative activities in direct support of the project or projects; basic and specialized training for State and tribal participants; and cost of any contractual services which can be shown to be in direct support of the activities covered by the agreement. Each cooperative agreement shall contain detailed schedules identifying those activities and costs which qualify for funding and the procedures, timing, and mechanics for implementing Federal funding.
+
+[49 FR 37348, Sept. 21, 1984, as amended at 56 FR 10512, Mar. 13, 1991]

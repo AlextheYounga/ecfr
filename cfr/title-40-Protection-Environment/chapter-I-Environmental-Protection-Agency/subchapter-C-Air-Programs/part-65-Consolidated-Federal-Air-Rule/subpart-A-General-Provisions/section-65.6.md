@@ -1,0 +1,39 @@
+##### § 65.6 Startup, shutdown, and malfunction plan and procedures. #####
+
+(a) Paragraphs (b) and (c) of this section do not apply to Group 2A or Group 2B process vents.
+
+(b) *Startup, shutdown, and malfunction plan*—(1) *Description and purpose of plan.* The owner or operator of a regulated source shall develop a written startup, shutdown, and malfunction plan that describes, in detail, procedures for operating and maintaining the regulated source during periods of startup, shutdown, and malfunction and a program of corrective action for malfunctioning process and air pollution control equipment used to comply with the relevant standard. The plan shall also address routine or otherwise predictable CPMS malfunctions. This plan shall be developed by the owner or operator by the regulated source's implementation date as specified in § 65.1(f), or for sources referenced from 40 CFR part 63, subpart F, by the compliance date specified in that subpart. The requirement to develop this plan shall be incorporated into the source's title V permit. This requirement is optional for equipment that must comply with subpart F of this part. It is not optional for equipment equipped with a closed vent system and control device subject to subpart G of this part. The purposes of the startup, shutdown, and malfunction plan are described in the following:
+
+(i) To ensure that owners or operators are prepared to correct malfunctions as soon as practical after their occurrence in order to minimize excess emissions of regulated material (excess emissions are defined in § 65.3(a)(4)); and
+
+(ii) To reduce the reporting burden associated with periods of startup, shutdown, and malfunction (including corrective action taken to restore malfunctioning process and air pollution control equipment to its normal or usual manner of operation).
+
+(2) *Operation of source.* During periods of startup, shutdown, and malfunction, the owner or operator of a regulated source shall operate and maintain such source (including associated air pollution control equipment and CPMS) in accordance with § 65.3(a). The general duty to minimize emissions during a period of startup, shutdown, or malfunction does not require the owner or operator to achieve emission levels that would be required by the applicable standard at other times if this is not consistent with safety and good air pollution control practices, nor does it require the owner or operator to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether such operation and maintenance procedures are being used will be based on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures (including the startup, shutdown, and malfunction plan required in paragraph (b)(1) of this section), review of operation and maintenance records, and inspection of the source.
+
+(3) *Use of additional procedures.* To satisfy the requirements of this section to develop a startup, shutdown, and malfunction plan, the owner or operator may use the regulated source's standard operating procedures (SOP) manual, or an Occupational Safety and Health Administration (OSHA) or other plan, provided the alternative plans meet all the requirements of this section and are made available for inspection when requested by the Administrator.
+
+(4) *Revisions to the plan.* Based on the results of a determination made under § 65.3(b)(3), the Administrator may require that an owner or operator of a regulated source make changes to the startup, shutdown, and malfunction plan for that source. The Administrator may require reasonable revisions to a startup, shutdown, and malfunction plan, if the Administrator finds that the plan is inadequate as specified in the following:
+
+(i) Does not address a startup, shutdown, and malfunction event of the CPMS, the air pollution control equipment, or the regulated source that has occurred; or
+
+(ii) Fails to provide for the operation of the regulated source (including associated air pollution control equipment and CPMS) during a startup, shutdown, and malfunction event in a manner consistent with good air pollution control practices for minimizing emissions to the extent practical; or
+
+(iii) Does not provide adequate procedures for correcting malfunctioning process and/or air pollution control equipment as quickly as practicable; or
+
+(iv) Does not provide adequate measures to prevent or minimize excess emissions to the extent practical as specified and defined in § 65.3(a)(4).
+
+(5) *Additional malfunction plan requirements.* If the startup, shutdown, and malfunction plan fails to address or inadequately addresses an event that meets the characteristics of a malfunction but was not included in the startup, shutdown, and malfunction plan at the time the owner or operator developed the plan, the owner or operator shall revise the startup, shutdown, and malfunction plan within 45 days after the event to include detailed procedures for operating and maintaining the regulated source during similar malfunction events, and a program of corrective action for similar malfunctions of process or air pollution control equipment or CPMS.
+
+(6) *Retain plan on site.* The current plan must be kept on site at all times.
+
+(c) *Periodic startup, shutdown, and malfunction reports.* During the reporting period, reports shall only be required for startup, shutdown, and malfunction during which excess emissions as defined in § 65.3(a)(4) occur. A startup, shutdown, and malfunction report can be submitted as part of a periodic report required under § 65.5(e), or on a more frequent basis if specified otherwise in a relevant standard or as established otherwise by the permitting authority in the source's title V permit. The startup, shutdown, and malfunction report shall be delivered or postmarked by the 30th day following the end of each calendar half (or other calendar reporting period, as appropriate), unless the information is submitted with the periodic report. The report shall include the following information, as appropriate:
+
+(1) The name, title, and signature of the owner or operator or other responsible official certifying its accuracy.
+
+(2) The number of startup, shutdown, malfunction events and the total duration of all periods of startup, shutdown, and malfunction for the reporting period.
+
+(3) If actions taken by an owner or operator during a startup, shutdown, and malfunction of a regulated source, or of a control device or monitoring system required for compliance (including actions taken to correct a malfunction) are consistent with the procedures specified in the source's startup, shutdown, and malfunction plan, then the owner or operator shall state such information in a startup, shutdown, and malfunction report, and describe the actions taken. Such description can take the form of a checklist; only one checklist is necessary if actions taken are the same for multiple events during the reporting period.
+
+(4) If at any time an action taken by an owner or operator, during a startup, shutdown, or malfunction (including actions taken to correct a malfunction) during which excess emissions occur, as defined in § 65.3(a)(4), is not consistent with the procedures specified in the regulated source's startup, shutdown, and malfunction plan, the owner or operator shall report the actions taken for that event as part of the periodic report. The report shall explain the circumstances of the event, the reasons for not following the startup, shutdown, and malfunction plan, and whether any excess emissions and/or parameter monitoring exceedances are believed to have occurred.
+
+[65 FR 78285, Dec. 14, 2000, as amended at 71 FR 20471, Apr. 20, 2006]

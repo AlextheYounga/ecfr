@@ -1,0 +1,3 @@
+##### § 236.701 Application, brake; full service. #####
+
+An application of the brakes resulting from a continuous or a split reduction in brake pipe pressure at a service rate until maximum brake cylinder pressure is developed. As applied to an automatic or electro-pneumatic brake with speed governor control, an application other than emergency which develops the maximum brake cylinder pressure, as determined by the design of the brake equipment for the speed at which the train is operating.

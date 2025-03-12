@@ -1,0 +1,3 @@
+##### 1529.303 Application of State and local taxes to Government contractors and subcontractors. #####
+
+Contractors are responsible for determining the availability of State and local tax exemptions and obtaining such exemptions, if available, unless the Contracting Officer determines under FAR 31.205-41(b)(3) that the administrative burden outweighs the corresponding benefit. Contractors are responsible for ensuring that subcontractors also seek and obtain such exemptions, if available.

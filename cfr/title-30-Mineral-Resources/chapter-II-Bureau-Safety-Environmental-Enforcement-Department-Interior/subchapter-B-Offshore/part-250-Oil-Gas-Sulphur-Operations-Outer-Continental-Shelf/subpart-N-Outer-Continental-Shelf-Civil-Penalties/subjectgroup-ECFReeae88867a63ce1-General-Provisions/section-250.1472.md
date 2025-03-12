@@ -1,0 +1,3 @@
+##### § 250.1472 How will the Office of Hearings and Appeals conduct the hearing on the record? #####
+
+If you request a hearing on the record under §§ 250.1454, 250.1456, 250.1462, or 250.1464, the hearing will be conducted by a Departmental Administrative Law Judge from the Office of Hearings and Appeals. After the hearing, the Administrative Law Judge will issue a decision in accordance with the evidence presented and applicable law.

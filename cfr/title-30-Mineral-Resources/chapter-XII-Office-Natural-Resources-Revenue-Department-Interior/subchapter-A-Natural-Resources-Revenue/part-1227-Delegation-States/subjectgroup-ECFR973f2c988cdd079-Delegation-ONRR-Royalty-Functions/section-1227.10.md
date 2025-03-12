@@ -1,0 +1,7 @@
+##### § 1227.10 What is the authority for information collection? #####
+
+(a) The Office of Management and Budget (OMB) approved the information collection requirements contained in this part under 44 U.S.C. 3501 *et seq.* The approved OMB control number is identified in 30 CFR 1210.10. We will use the information collected to review and approve delegation proposals from States wishing to perform royalty management functions.
+
+(b) The Federal Government will reimburse some costs, as provided by statute, for delegated functions that each state performs. However, states could incur additional start-up costs, such as purchasing equipment necessary to perform a delegated function that may not be reimbursable. The ONRR estimates that each payor or reporter will coordinate their interactions and communications among the several states and with ONRR. Send comments regarding the burden estimates or any other aspect of this information collection, including suggestions for reducing burden, to the Office of Natural Resources Revenue, Attention: Rules & Regs Team, OMB Control Number 1012-0003, P.O. Box 25165, Denver, CO 80225-0165.
+
+[62 FR 43084, Aug. 12, 1997, as amended at 75 FR 61087, Oct. 4, 2010; 76 FR 76616, Dec. 8, 2011]

@@ -1,0 +1,3 @@
+##### § 930.101 Purpose. #####
+
+This subpart governs agencies in authorizing employees to operate Government-owned or -leased (acquired for other than short term use for which the Government does not have full control and accountability) motor vehicles for official purposes within the States of the Union, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.

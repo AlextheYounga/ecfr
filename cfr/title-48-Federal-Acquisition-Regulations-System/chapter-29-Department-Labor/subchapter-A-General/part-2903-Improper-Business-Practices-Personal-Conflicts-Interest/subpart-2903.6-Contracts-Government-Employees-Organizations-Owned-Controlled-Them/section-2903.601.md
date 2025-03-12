@@ -1,0 +1,3 @@
+##### 2903.601 Policy. #####
+
+In addition to restrictions placed on current Federal government employees, 18 U.S.C. 207 places some restrictions on contracting with former officers, employees, and elected officials of the executive and legislative branches. Under these prohibitions, contracts with former employees are prohibited for a period of one year from the date of severance of duties, unless an exception is granted as set forth in 2903.602.

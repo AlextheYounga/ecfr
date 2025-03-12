@@ -1,0 +1,5 @@
+##### § 418.307 Periodic interim payments. #####
+
+Subject to the provisions of § 413.64(h) of this chapter, a hospice may elect to receive periodic interim payments (PIP) effective with claims received on or after July 1, 1987. Payment is made biweekly under the PIP method unless the hospice requests a longer fixed interval (not to exceed one month) between payments. The biweekly interim payment amount is based on the total estimated Medicare payments for the reporting period (as described in §§ 418.302-418.306). Each payment is made 2 weeks after the end of a biweekly period of service as described in § 413.64(h)(5) of this chapter. Under certain circumstances that are described in § 413.64(g) of this chapter, a hospice that is not receiving PIP may request an accelerated payment.
+
+[59 FR 36713, July 19, 1994]

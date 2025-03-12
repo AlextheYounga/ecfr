@@ -1,0 +1,3 @@
+##### § 501.164 Decision to initiate enforcement proceedings. #####
+
+After investigation of a specific complaint or based on any relevant information received or obtained during an investigation, OFE may issue a notice of violation, determine that no violation has occurred, or take such other actions as it deems appropriate. Prior to issuance of a notice of violation, and before commencement of an enforcement proceeding, OFE may transmit a draft of the notice of violation to the potentially affected person in order to promote an informal resolution of the violation.

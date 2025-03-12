@@ -1,0 +1,5 @@
+##### § 1.1067 Title, description, and inventor's oath or declaration. #####
+
+(a) The title of the design must designate the particular article. Where a nonprovisional international design application does not contain a title of the design, the Office may establish a title. No description, other than a reference to the drawing, is ordinarily required in a nonprovisional international design application.
+
+(b) An international design application designating the United States must include the inventor's oath or declaration. *See* § 1.1021(d). If the applicant is notified in a notice of allowability that an oath or declaration in compliance with § 1.63, or substitute statement in compliance with § 1.64, executed by or with respect to each named inventor has not been filed, the applicant must file each required oath or declaration in compliance with § 1.63, or substitute statement in compliance with § 1.64, no later than the date on which the issue fee is paid to avoid abandonment. This time period is not extendable under § 1.136 (*see* § 1.136(c)).

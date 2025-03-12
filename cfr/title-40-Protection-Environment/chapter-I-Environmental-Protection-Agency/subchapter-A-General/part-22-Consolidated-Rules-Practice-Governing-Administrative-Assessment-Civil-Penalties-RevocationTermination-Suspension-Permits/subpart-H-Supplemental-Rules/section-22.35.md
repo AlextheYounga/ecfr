@@ -1,0 +1,5 @@
+##### § 22.35 Supplemental rules governing the administrative assessment of civil penalties under the Federal Insecticide, Fungicide, and Rodenticide Act. #####
+
+(a) *Scope.* This section shall apply, in conjunction with §§ 22.1 through 22.32, in administrative proceedings to assess a civil penalty conducted under section 14(a) of the Federal Insecticide, Fungicide, and Rodenticide Act as amended (7 U.S.C. 136l(a)). Where inconsistencies exist between this section and §§ 22.1 through 22.32, this section shall apply.
+
+(b) *Venue.* The prehearing conference and the hearing shall be held in the county, parish, or incorporated city of the residence of the person charged, unless otherwise agreed in writing by all parties. For a person whose residence is outside the United States and outside any territory or possession of the United States, the prehearing conference and the hearing shall be held at the EPA office listed at 40 CFR 1.7 that is closest to either the person's primary place of business within the United States, or the primary place of business of the person's U.S. agent, unless otherwise agreed by all parties.

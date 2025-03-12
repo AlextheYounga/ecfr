@@ -1,0 +1,7 @@
+##### § 2610.108 Rulemaking on maximum rate for attorney and agent fees. #####
+
+(a) If warranted by an increase in the cost of living or by special circumstances (such as limited availability of attorneys or agents qualified to handle certain types of proceedings), the Office may adopt regulations providing that attorney or agent fees may be awarded at a rate higher than $125.00 per hour in some or all of the types of proceedings covered by this part. The Office will conduct any rulemaking proceedings for this purpose under the informal rulemaking procedures of the Administrative Procedure Act, 5 U.S.C. 553.
+
+(b) Any person may file with the Office a petition for rulemaking to increase the maximum rate for attorney or agent fees as provided in 5 U.S.C. 504(b)(1)(A)(ii). The petition should identify the rate the petitioner believes the Office should establish and the types of proceedings in which the rate should be used. It should also explain fully the reasons why the higher rate is warranted. The Office will respond to the petition within 60 days after it is filed, by initiating a rulemaking proceeding, denying the petition, or taking other appropriate action.
+
+[57 FR 33268, July 28, 1992, as amended at 63 FR 13116, Mar. 18, 1998]

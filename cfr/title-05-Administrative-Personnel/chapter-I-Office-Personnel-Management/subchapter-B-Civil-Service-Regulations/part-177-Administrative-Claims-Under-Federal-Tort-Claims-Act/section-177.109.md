@@ -1,0 +1,3 @@
+##### § 177.109 Final denial of claim. #####
+
+Final denial of an administrative claim must be in writing and sent to the claimant, his or her attorney, or legal representative by certified or registered mail. The notification of final denial may include a statement of the reasons for the denial. But, it must include a statement that, if the claimant is dissatisfied with the OPM action, he or she may file suit in an appropriate United States district court not later than 6 months after the date of mailing of the notification.

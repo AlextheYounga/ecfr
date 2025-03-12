@@ -1,0 +1,7 @@
+##### § 65.81 General privileges and limitations. #####
+
+(a) A certificated mechanic may perform or supervise the maintenance, preventive maintenance or alteration of an aircraft or appliance, or a part thereof, for which he is rated (but excluding major repairs to, and major alterations of, propellers, and any repair to, or alteration of, instruments), and may perform additional duties in accordance with §§ 65.85, 65.87, and 65.95. However, he may not supervise the maintenance, preventive maintenance, or alteration of, or approve and return to service, any aircraft or appliance, or part thereof, for which he is rated unless he has satisfactorily performed the work concerned at an earlier date. If he has not so performed that work at an earlier date, he may show his ability to do it by performing it to the satisfaction of the Administrator or under the direct supervision of a certificated and appropriately rated mechanic, or a certificated repairman, who has had previous experience in the specific operation concerned.
+
+(b) A certificated mechanic may not exercise the privileges of his certificate and rating unless he understands the current instructions of the manufacturer, and the maintenance manuals, for the specific operation concerned.
+
+[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-2, 29 FR 5451, Apr. 23, 1964; Amdt. 65-26, 45 FR 46737, July 10, 1980]

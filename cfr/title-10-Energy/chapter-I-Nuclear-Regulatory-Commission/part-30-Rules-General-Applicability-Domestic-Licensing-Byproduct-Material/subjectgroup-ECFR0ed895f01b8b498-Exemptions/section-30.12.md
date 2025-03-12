@@ -1,0 +1,11 @@
+##### § 30.12 Persons using byproduct material under certain Department of Energy and Nuclear Regulatory Commission contracts. #####
+
+Except to the extent that Department facilities or activities of the types subject to licensing pursuant to section 202 of the Energy Reorganization Act of 1974 are involved, any prime contractor of the Department is exempt from the requirements for a license set forth in sections 81 and 82 of the Act and from the regulations in this part to the extent that such contractor, under his prime contract with the Department manufactures, produces, transfers, receives, acquires, owns, possesses, or uses byproduct material for:
+
+(a) The performance of work for the Department at a United States Government-owned or controlled site, including the transportation of byproduct material to or from such site and the performance of contract services during temporary interruptions of such transportation;
+
+(b) Research in, or development, manufacture, storage, testing or transportation of, atomic weapons or components thereof; or
+
+(c) The use or operation of nuclear reactors or other nuclear devices in a United States Government-owned vehicle or vessel.
+
+In addition to the foregoing exemptions and subject to the requirement for licensing of Department facilities and activities pursuant to section 202 of the Energy Reorganization Act of 1974, any prime contractor or subcontractor of the Department or the Commission is exempt from the requirements for a license set forth in sections 81 and 82 of the Act and from the regulations in this part to the extent that such prime contractor or subcontractor manufacturers, produces, transfers, receives, acquires, owns, possesses, or uses byproduct material under his prime contract or subcontract when the Commission determines that the exemption of the prime contractor or subcontractor is authorized by law; and that, under the terms of the contract or subcontract, there is adequate assurance that the work thereunder can be accomplished without undue risk to the public health and safety.[40 FR 8784, Mar. 3, 1975, as amended at 43 FR 6921, Feb. 17, 1978]

@@ -1,0 +1,3 @@
+##### § 360.20 General. #####
+
+This subpart prescribes procedures pursuant to 17 U.S.C. 1007(a)(1), whereby interested copyright parties, as defined in 17 U.S.C. 1001(7), claiming to be entitled to royalty payments made for the importation and distribution in the United States, or the manufacture and distribution in the United States, of digital audio recording devices and media pursuant to 17 U.S.C. 1006, shall file claims with the Copyright Royalty Board.

@@ -1,0 +1,3 @@
+##### § 711.25 Recordkeeping requirements. #####
+
+Each person who is subject to the reporting requirements of this part must retain records that document any information reported to EPA. Records relevant to reporting during a submission period must be retained for a period of 5 years beginning on the last day of the submission period. Submitters are encouraged to retain their records longer than 5 years to ensure that past records are available as a reference when new submissions are being generated.

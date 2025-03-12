@@ -1,0 +1,7 @@
+##### § 1.1121 Billing procedures. #####
+
+(a) The fees required for the International Telecommunications Settlements (§ 1.1103 of this subpart), Accounting and Audits Field Audits and Review of Arrest Audits (§ 1.1106 of this subpart) should not be paid with the filing or submission of the request. The fees required for requests for Special Temporary Authority (*see* generally §§ 1.1102, 1.1104, 1.1106 & 1.1107 of this subpart) that the applicant believes is of an urgent or emergency nature and are filed directly with the appropriate Bureau or Office should not be paid with the filing of the request with that Bureau or Office.
+
+(b) In these cases, the appropriate fee will be determined by the Commission and the filer will be billed for that fee. The bill will set forth the amount to be paid, the date on which payment is due, and the address to which the payment should be submitted. *See also* § 1.1113 of this subpart.
+
+[55 FR 19172, May 8, 1990, as amended at 58 FR 68541, Dec. 28, 1993. Redesignated and amended at 59 FR 30998, June 16, 1994. Redesignated at 60 FR 5326, Jan. 27, 1995, as amended at 65 FR 49763, Aug. 15, 2000; 67 FR 67337, Nov. 5, 2002; 69 FR 41177, July 7, 2004. Redesignated and amended at 74 FR 3445, Jan. 21, 2009]

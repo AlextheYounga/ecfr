@@ -1,0 +1,5 @@
+##### § 17.23 Specifications for painting and lighting antenna structures. #####
+
+Unless otherwise specified by the Commission, each new or altered antenna structure must conform to the FAA's painting and lighting specifications set forth in the FAA's final determination of “no hazard” and the associated FAA study for that particular structure. For purposes of this part, any specifications, standards, and general requirements set forth by the FAA in the structure's determination of “no hazard” and the associated FAA study are mandatory. Additionally, each antenna structure must be painted and lighted in accordance with any painting and lighting requirements prescribed on the antenna structure's registration, or in accordance with any other specifications provided by the Commission.
+
+[79 FR 56986, Sept. 24, 2014]

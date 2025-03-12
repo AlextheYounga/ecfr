@@ -1,0 +1,49 @@
+##### § 13.218 Motions. #####
+
+(a) *General.* A party applying for an order or ruling not specifically provided in this subpart shall do so by motion. A party shall comply with the requirements of this section when filing a motion with the administrative law judge. A party shall serve a copy of each motion on each party.
+
+(b) *Form and contents.* A party shall state the relief sought by the motion and the particular grounds supporting that relief. If a party has evidence in support of a motion, the party shall attach any supporting evidence, including affidavits, to the motion.
+
+(c) *Filing of motions.* A motion made prior to the hearing must be in writing. Unless otherwise agreed by the parties or for good cause shown, a party shall file any prehearing motion, and shall serve a copy on each party, not later than 30 days before the hearing. Motions introduced during a hearing may be made orally on the record unless the administrative law judge directs otherwise.
+
+(d) *Answers to motions.* Any party may file an answer, with affidavits or other evidence in support of the answer, not later than 10 days after service of a written motion on that party. When a motion is made during a hearing, the answer may be made at the hearing on the record, orally or in writing, within a reasonable time determined by the administrative law judge.
+
+(e) *Rulings on motions.* The administrative law judge shall rule on all motions as follows:
+
+(1) *Discovery motions.* The administrative law judge shall resolve all pending discovery motions not later than 10 days before the hearing.
+
+(2) *Prehearing motions.* The administrative law judge shall resolve all pending prehearing motions not later than 7 days before the hearing. If the administrative law judge issues a ruling or order orally, the administrative law judge shall serve a written copy of the ruling or order, within 3 days, on each party. In all other cases, the administrative law judge shall issue rulings and orders in writing and shall serve a copy of the ruling or order on each party.
+
+(3) *Motions made during the hearing.* The administrative law judge may issue rulings and orders on motions made during the hearing orally. Oral rulings or orders on motions must be made on the record.
+
+(f) *Specific motions.* A party may file the following motions with the administrative law judge:
+
+(1) *Motion to dismiss for insufficiency.* A respondent may file a motion to dismiss the complaint for insufficiency instead of filing an answer. If the administrative law judge denies the motion to dismiss the complaint for insufficiency, the respondent shall file an answer not later than 10 days after service of the administrative law judge's denial of the motion.A motion to dismiss the complaint for insufficiency must show that the complaint fails to state a violation of a provision of the Federal aviation statute listed in the first sentence in 49 U.S.C. 46301(d)(2) or in 49 U.S.C. 47531, or any implementing rule, regulation, or order, or a violation of the Federal hazardous materials transportation statute, 49 U.S.C. 5121-5128, or any implementing rule, regulation or order.
+
+(2) *Motion to dismiss.* A party may file a motion to dismiss, specifying the grounds for dismissal. If an administrative law judge grants a motion to dismiss in part, a party may appeal the administrative law judge's ruling on the motion to dismiss under § 13.219(b) of this subpart.
+
+(i) *Motion to dismiss a request for a hearing.* An agency attorney may file a motion to dismiss a request for a hearing instead of filing a complaint. If the motion to dismiss is not granted, the agency attorney shall file the complaint and shall serve a copy of the complaint on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the respondent may file an appeal pursuant to § 13.233 of this subpart. If required by the decision on appeal, the agency attorney shall file a complaint and shall serve a copy of the complaint on each party not later than 10 days after service of the decision on appeal.
+
+(ii) *Motion to dismiss a complaint.* A respondent may file a motion to dismiss a complaint instead of filing an answer. If the motion to dismiss is not granted, the respondent shall file an answer and shall serve a copy of the answer on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the agency attorney may file an appeal pursuant to § 13.233 of this subpart. If required by the decision on appeal, the respondent shall file an answer and shall serve a copy of the answer on each party not later than 10 days after service of the decision on appeal.
+
+(3) *Motion for more definite statement.* A party may file a motion for more definite statement of any pleading which requires a response under this subpart. A party shall set forth, in detail, the indefinite or uncertain allegations contained in a complaint or response to any pleading and shall submit the details that the party believes would make the allegation or response definite and certain.
+
+(i) *Complaint.* A respondent may file a motion requesting a more definite statement of the allegations contained in the complaint instead of filing an answer. If the administrative law judge grants the motion, the agency attorney shall supply a more definite statement not later than 15 days after service of the ruling granting the motion. If the agency attorney fails to supply a more definite statement, the administrative law judge shall strike the allegations in the complaint to which the motion is directed. If the administrative law judge denies the motion, the respondent shall file an answer and shall serve a copy of the answer on each party not later than 10 days after service of the order of denial.
+
+(ii) *Answer.* An agency attorney may file a motion requesting a more definite statement if an answer fails to respond clearly to the allegations in the complaint. If the administrative law judge grants the motion, the respondent shall supply a more definite statement not later than 15 days after service of the ruling on the motion. If the respondent fails to supply a more definite statement, the administrative law judge shall strike those statements in the answer to which the motion is directed. The respondent's failure to supply a more definite statement may be deemed an admission of unanswered allegations in the complaint.
+
+(4) *Motion to strike.* Any party may make a motion to strike any insufficient allegation or defense, or any redundant, immaterial, or irrelevant matter in a pleading. A party shall file a motion to strike with the administrative law judge and shall serve a copy on each party before a response is required under this subpart or, if a response is not required, not later than 10 days after service of the pleading.
+
+(5) *Motion for decision.* A party may make a motion for decision, regarding all or any part of the proceedings, at any time before the administrative law judge has issued an initial decision in the proceedings. The administrative law judge shall grant a party's motion for decision if the pleadings, depositions, answers to interrogatories, admissions, matters that the administrative law judge has officially noticed, or evidence introduced during the hearing show that there is no genuine issue of material fact and that the party making the motion is entitled to a decision as a matter of law. The party making the motion for decision has the burden of showing that there is no genuine issue of material fact disputed by the parties.
+
+(6) *Motion for disqualification.* A party may file a motion for disqualification with the administrative law judge and shall serve a copy on each party. A party may file the motion at any time after the administrative law judge has been assigned to the proceedings but shall make the motion before the administrative law judge files an initial decision in the proceedings.
+
+(i) *Motion and supporting affidavit.* A party shall state the grounds for disqualification, including, but not limited to, personal bias, pecuniary interest, or other factors showing disqualification, in the motion for disqualification. A party shall submit an affidavit with the motion for disqualification that sets forth, in detail, the matters alleged to constitute grounds for disqualification.
+
+(ii) *Answer.* A party shall respond to the motion for disqualification not later than 5 days after service of the motion for disqualification.
+
+(iii) *Decision on motion for disqualification.* The administrative law judge shall render a decision on the motion for disqualification not later than 15 days after the motion has been filed. If the administrative law judge finds that the motion for disqualification and supporting affidavit show a basis for disqualification, the administrative law judge shall withdraw from the proceedings immediately. If the administrative law judge finds that disqualification is not warranted, the administrative law judge shall deny the motion and state the grounds for the denial on the record. If the administrative law judge fails to rule on a party's motion for disqualification within 15 days after the motion has been filed, the motion is deemed granted.
+
+(iv) *Appeal.* A party may appeal the administrative law judge's denial of the motion for disqualification in accordance with § 13.219(b) of this subpart.
+
+[Amdt. 13-21, 55 FR 27575, July 3, 1990, as amended by 71 FR 70464, Dec. 5, 2006]

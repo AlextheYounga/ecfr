@@ -1,0 +1,19 @@
+##### § 140.3 Standard. #####
+
+(a) (1) In freshwater lakes, freshwater reservoirs or other freshwater impoundments whose inlets or outlets are such as to prevent the ingress or egress by vessel traffic subject to this regulation, or in rivers not capable of navigation by interstate vessel traffic subject to this regulation, marine sanitation devices certified by the U.S. Coast Guard (see 33 CFR part 159, published in 40 FR 4622, January 30, 1975), installed on all vessels shall be designed and operated to prevent the overboard discharge of sewage, treated or untreated, or of any waste derived from sewage. This shall not be construed to prohibit the carriage of Coast Guard-certified flow-through treatment devices which have been secured so as to prevent such discharges.
+
+(2) In all other waters, Coast Guard-certified marine sanitation devices installed on all vessels shall be designed and operated to either retain, dispose of, or discharge sewage. If the device has a discharge, subject to paragraph (d) of this section, the effluent shall not have a fecal coliform bacterial count of greater than 1,000 per 100 milliliters nor visible floating solids. Waters where a Coast Guard-certified marine sanitation device permitting discharge is allowed include coastal waters and estuaries, the Great Lakes and inter-connected waterways, fresh-water lakes and impoundments accessible through locks, and other flowing waters that are navigable interstate by vessels subject to this regulation.
+
+(b) This standard shall become effective on January 30, 1977 for new vessels and on January 30, 1980 for existing vessels (or, in the case of vessels owned and operated by the Department of Defense, two years and five years, for new and existing vessels, respectively, after promulgation of implementing regulations by the Secretary of Defense under section 312(d) of the Act).
+
+(c) Any vessel which is equipped as of the date of promulgation of this regulation with a Coast Guard-certified flow-through marine sanitation device meeting the requirements of paragraph (a)(2) of this section, shall not be required to comply with the provisions designed to prevent the overboard discharge of sewage, treated or untreated, in paragraph (a)(1) of this section, for the operable life of that device.
+
+(d) After January 30, 1980, subject to paragraphs (e) and (f) of this section, marine sanitation devices on all vessels on waters that are not subject to a prohibition of the overboard discharge of sewage, treated or untreated, as specified in paragraph (a)(1) of this section, shall be designed and operated to either retain, dispose of, or discharge sewage, and shall be certified by the U.S. Coast Guard. If the device has a discharge, the effluent shall not have a fecal coliform bacterial count of greater than 200 per 100 milliliters, nor suspended solids greater than 150 mg/1.
+
+(e) Any existing vessel on waters not subject to a prohibition of the overboard discharge of sewage in paragraph (a)(1) of this section, and which is equipped with a certified device on or before January 30, 1978, shall not be required to comply with paragraph (d) of this section, for the operable life of that device.
+
+(f) Any new vessel on waters not subject to the prohibition of the overboard discharge of sewage in paragraph (a)(1) of this section, and on which construction is initiated before January 31, 1980, which is equipped with a marine sanitation device before January 31, 1980, certified under paragraph (a)(2) of this section, shall not be required to comply with paragraph (d) of this section, for the operable life of that device.
+
+(g) The degrees of treatment described in paragraphs (a) and (d) of this section are “appropriate standards” for purposes of Coast Guard and Department of Defense certification pursuant to section 312(g)(2) of the Act.
+
+[41 FR 4453, Jan. 29, 1976, as amended at 60 FR 33932, June 29, 1995]

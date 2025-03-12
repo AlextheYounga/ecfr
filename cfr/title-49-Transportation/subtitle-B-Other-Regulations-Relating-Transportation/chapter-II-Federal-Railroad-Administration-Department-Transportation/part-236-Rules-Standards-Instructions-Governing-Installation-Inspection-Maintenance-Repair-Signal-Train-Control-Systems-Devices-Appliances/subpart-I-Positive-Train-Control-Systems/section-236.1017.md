@@ -1,0 +1,11 @@
+##### § 236.1017 Independent third party Verification and Validation. #####
+
+(a) The PTCSP must be supported by an independent third-party assessment when the Associate Administrator concludes that it is necessary based upon the criteria set forth in § 236.913, with the exception that consideration of the methodology used in the risk assessment (§ 236.913(g)(2)(vii)) shall apply only to the extent that a comparative risk assessment was required. To the extent practicable, FRA makes this determination not later than review of the PTCIP and the accompanying PTCDP or PTCSP. If an independent assessment is required, the assessment may apply to the entire system or a designated portion of the system.
+
+(b) If a PTC system is to undergo an independent assessment in accordance with this section, the host railroad may submit to the Associate Administrator a written request that FRA confirm whether a particular entity would be considered an independent third party pursuant to this section. The request should include supporting information identified in paragraph (c) of this section. FRA may request further information to make a determination or provide its determination in writing.
+
+(c) As used in this section, “independent third party” means a technically competent entity responsible to and compensated by the railroad (or an association on behalf of one or more railroads) that is independent of the PTC system supplier and vendor. An entity that is owned or controlled by the supplier or vendor, that is under common ownership or control with the supplier or vendor, or that is otherwise involved in the development of the PTC system is not considered “independent” within the meaning of this section.
+
+(d) The independent third-party assessment shall, at a minimum, consist of the activities and result in the production of documentation meeting the requirements of Appendix F to this part, unless excepted by this part or by FRA order or waiver.
+
+(e) Information provided that has been certified under the auspices of a foreign railroad regulatory entity recognized by the Associate Administrator may, at the Associate Administrator's discretion, be accepted as having been independently verified.

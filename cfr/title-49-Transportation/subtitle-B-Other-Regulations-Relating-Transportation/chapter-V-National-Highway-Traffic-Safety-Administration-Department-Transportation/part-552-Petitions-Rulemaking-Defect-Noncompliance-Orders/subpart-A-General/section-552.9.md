@@ -1,0 +1,5 @@
+##### § 552.9 Grant of petition. #####
+
+(a) If a petition for rulemaking with respect to a motor vehicle safety standard is granted, a rulemaking proceeding is promptly commenced in accordance with applicable NHTSA and statutory procedures. The granting of such a petition and the commencement of a rulemaking proceeding does not signify, however, that the rule in question will be issued. A decision as to the issuance of the rule is made on the basis of all available information developed in the course of the rulemaking proceeding, in accordance with statutory criteria.
+
+(b) If a petition with respect to a noncompliance or a defect is granted, a proceeding to determine the existence of the noncompliance or defect is promptly commenced by the initiation of an investigation by the Office of Standards Enforcement or the Office of Defects Investigation, as appropriate.

@@ -1,0 +1,5 @@
+##### 2937.602 Elements of performance-based contracting. #####
+
+(a) Performance-based contracting is defined in FAR 37.101 and discussed in FAR 37.6. Although FAR part 37 primarily addresses services contracts, PBC is not limited to these contracts. PBC is the preferred way of contracting for services. (*See* exceptions listed in FAR 37.102.) Generally, when contract performance risk under a PBC specification can be shifted to the contractor to allow for the operation of objective incentives, a contract type with objectively measurable incentives (e.g., Firm-Fixed-Price, Fixed-Price-Incentive-Fee, or Cost-Plus-Incentive-Fee) is appropriate. However, when contractor performance (e.g., cost control, schedule, or quality/technical) is best evaluated subjectively using qualitative measures, a Cost-Plus-Award-Fee contract may be used.
+
+(b) A labor hour level-of-effort contract is not considered a PBC.

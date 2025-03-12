@@ -1,0 +1,5 @@
+##### § 1114.7 Exhibits. #####
+
+Whenever practical the sheets of each exhibit and the lines of each sheet should be numbered. If the exhibit consists of five or more sheets, the first sheet or title-page should be confined to a brief statement of what the exhibit purports to show with reference by sheet and line to illustrative or typical examples contained therein. The exhibit should bear an identifying number, letter, or short title which will readily distinguish it from other exhibits offered by the same party. It is desirable that, whenever practicable, evidence should be condensed into tables. Whenever practicable, especially in proceedings in which it is likely that many documents will be offered, all the documents produced by a single witness should be assembled and bound together, suitably arranged and indexed, so that they may be identified and offered as one exhibit. Exhibits should not be argumentative and should be limited to statements of facts, and be relevant and material to the issue, which can better be shown in that form than by oral testimony.
+
+[47 FR 49562, Nov. 1, 1982, as amended at 61 FR 52713, Oct. 8, 1996]

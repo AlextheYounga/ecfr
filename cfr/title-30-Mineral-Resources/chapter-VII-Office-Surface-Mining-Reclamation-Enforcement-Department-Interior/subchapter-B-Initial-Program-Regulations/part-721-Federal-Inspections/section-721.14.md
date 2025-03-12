@@ -1,0 +1,3 @@
+##### § 721.14 Failure to give notice and lack of reasonable belief. #####
+
+No notice of violation or cessation order may be vacated by reason of failure to give notice required by the Act or these regulations prior to the inspection; or by reason of a subsequent determination that prior to the inspection the Office did not have information sufficient to create a reasonable belief that a violation had occurred.

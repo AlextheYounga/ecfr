@@ -1,0 +1,5 @@
+##### § 69.158 Universal service end user charges. #####
+
+To the extent the company makes contributions to the Universal Service Support Mechanisms pursuant to §§ 54.706 and 54.709 of this chapter and the local exchange carrier seeks to recover some or all of the amount of such contribution, the local exchange carrier shall recover those contributions through a charge to end users other than Lifeline users. These contributions are not a part of any price cap baskets, and the charge to recover these contributions is not part of any other element established pursuant to part 69. Such a charge may be assessed on a per-line basis or as a percentage of interstate retail revenues, and at the option of the local exchange carrier it may be combined for billing purposes with other end user retail rate elements. A local exchange carrier opting to assess the Universal Service end-user rate element on a per-line basis may apply that charge using the “equivalency” relationships established for the multi-line business PICC for Primary Rate ISDN service, as per § 69.153(d), and for Centrex lines, as per § 69.153(e).
+
+[65 FR 38704, June 21, 2000; 65 FR 57744, Sept. 26, 2000]

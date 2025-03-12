@@ -1,0 +1,5 @@
+##### § 1262.308 Agency review. #####
+
+(a) Within 30 calendar days of the receipt of the adjudicative officer's initial decision on the fee application, either the applicant or agency counsel may seek Agency review of the decision; or, the NASA Administrator, upon the recommendation of the General Counsel or other designee, may decide to review the decision based on the record. Whether to review a decision is solely a matter within the discretion of the NASA Administrator. A 15-day notice of such review will be given the applicant and agency counsel, and a determination made not later than 45 days from the date of notice. The Administrator may make a final determination concerning the application or remand the application to the adjudicative officer for further proceedings.
+
+(b) If neither the applicant nor agency counsel seek review, and the NASA Administrator does not on own initiative take a review, the adjudicative officer's initial decision on the fee application shall be the final administrative decision of the Agency 45 days after it is issued.

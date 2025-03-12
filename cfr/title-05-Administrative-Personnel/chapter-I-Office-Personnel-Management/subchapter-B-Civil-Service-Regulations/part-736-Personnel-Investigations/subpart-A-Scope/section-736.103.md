@@ -1,0 +1,3 @@
+##### § 736.103 Protecting the identity of a source. #####
+
+When a source is granted a promise that the source's identity will be kept confidential, the investigative agency and all other agencies that receive information obtained under the promise are required to take all reasonable precautions to protect the source's identity. Each agency will prepare for its investigators and agents implementing instructions consistent with this part.

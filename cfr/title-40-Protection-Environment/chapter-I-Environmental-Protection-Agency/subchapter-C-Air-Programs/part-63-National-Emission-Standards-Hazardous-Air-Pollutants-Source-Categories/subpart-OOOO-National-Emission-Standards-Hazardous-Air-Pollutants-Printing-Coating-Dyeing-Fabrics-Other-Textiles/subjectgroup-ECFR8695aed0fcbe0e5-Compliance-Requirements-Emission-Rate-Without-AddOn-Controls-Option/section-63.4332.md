@@ -1,0 +1,9 @@
+##### § 63.4332 How do I demonstrate continuous compliance with the emission limitations? #####
+
+(a) To demonstrate continuous compliance, the organic HAP emission rate for each compliance period, determined according to § 63.4331(a) for web coating/printing operations and according to § 63.4331(b) for dyeing/finishing operations, must be less than or equal to the applicable emission limit in Table 1 to this subpart. Each month following the initial compliance period described in § 63.4330 is a compliance period consisting of that month and the preceding 11 months. You must perform the calculations in § 63.4331 on a monthly basis.
+
+(b) If the organic HAP emission rate for any compliance period exceeded the applicable emission limit in Table 1 to this subpart, this is a deviation from the emission limitations for that compliance period and must be reported as specified in §§ 63.4310(c)(6) and 63.4311(a)(6).
+
+(c) As part of each semiannual compliance report required by § 63.4311, you must identify any web coating/printing operation or dyeing/finishing operation for which you used the emission rate without add-on controls option. If there were no deviations from the applicable emission limit in Table 1 to this subpart, you must submit a statement that, as appropriate, the web coating/printing operations or the dyeing/finishing operations were in compliance with the emission limitations during the reporting period because the organic HAP emission rate for each compliance period was less than or equal to the applicable emission limit in Table 1 to this subpart.
+
+(d) You must maintain records as specified in §§ 63.4312 and 63.4313.

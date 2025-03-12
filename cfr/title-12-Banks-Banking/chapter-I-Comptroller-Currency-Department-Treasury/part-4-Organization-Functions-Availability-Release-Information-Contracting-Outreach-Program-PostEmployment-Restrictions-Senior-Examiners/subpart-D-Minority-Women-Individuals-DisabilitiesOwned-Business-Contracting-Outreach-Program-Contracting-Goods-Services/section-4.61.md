@@ -1,0 +1,3 @@
+##### § 4.61 Purpose. #####
+
+Pursuant to the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, Sec. 1216(c), Pub. L. 101-73, 103 Stat. 183, 529 (12 U.S.C. 1833e(c)) and consistent with the Rehabilitation Act of 1973, as amended (29 U.S.C. 701 *et seq.*), this subpart establishes the OCC Minority- , Women- , and Individuals with Disabilities-Owned Business Contracting Outreach Program (Outreach Program). The Outreach Program is intended to ensure that firms owned and operated by minorities, women, and individuals with disabilities have the opportunity to participate, to the maximum extent possible, in all contracting activities of the OCC.

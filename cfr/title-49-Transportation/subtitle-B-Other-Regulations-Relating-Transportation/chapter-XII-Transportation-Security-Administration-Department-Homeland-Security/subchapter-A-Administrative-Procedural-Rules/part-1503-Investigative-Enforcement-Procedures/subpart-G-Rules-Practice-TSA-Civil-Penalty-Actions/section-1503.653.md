@@ -1,0 +1,7 @@
+##### § 1503.653 Argument before the ALJ. #####
+
+(a) *Arguments during the hearing.* During the hearing, the ALJ must give the parties a reasonable opportunity to present arguments on the record supporting or opposing motions, objections, and rulings if the parties request an opportunity for argument. The ALJ may request written arguments during the hearing if the ALJ finds that submission of written arguments is necessary before the ALJ issues the ruling or order.
+
+(b) *Final oral argument.* At the conclusion of the hearing and before the ALJ issues an initial decision in the proceedings, the parties are entitled to submit oral proposed findings of fact and conclusions of law, exceptions to rulings of the ALJ, and supporting arguments for the findings, conclusions, or exceptions. At the conclusion of the hearing, a party may waive final oral argument.
+
+(c) *Posthearing briefs.* The ALJ may request written posthearing briefs before the ALJ issues an initial decision in the proceedings. If a party files a written posthearing brief, the party must include proposed findings of fact and conclusions of law, exceptions to rulings of the ALJ, and supporting arguments for the findings, conclusions, or exceptions. The ALJ must give the parties a reasonable opportunity, not more than 30 days after receipt of the transcript, to prepare and submit the briefs.

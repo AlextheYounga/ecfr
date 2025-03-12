@@ -1,0 +1,17 @@
+##### § 590.303 Interventions and answers. #####
+
+(a) A state commission may intervene in a proceeding under this part as a matter of right and become a party to the proceeding by filing a notice of intervention no later than the date fixed for filing motions to intervene in the applicable FE notice or order. If the period for filing the notice has expired, a state commission may be permitted to intervene by complying with the filing and other requirements applicable to any other person seeking to become a party to the proceeding as provided in this section.
+
+(b) Any other person who seeks to become a party to a proceeding shall file a motion to intervene, which sets out clearly and concisely the facts upon which the petitioner's claim of interest is based.
+
+(c) A motion to intervene shall state, to the extent known, the position taken by the movant and the factual and legal basis for such positions in order to advise the parties and the Assistant Secretary as to the specific issues of policy, fact, or law to be raised or controverted.
+
+(d) Motions to intervene may be filed at any time following the filing of an application, but no later than the date fixed for filing such motions or notices in the applicable FE notice or order, unless a later date is permitted by the Assistant Secretary for good cause shown and after considering the impact of granting the late motion of the proceeding. Each motion or notice shall list the names, titles, and mailing addresses of a maximum of two persons for the official service list.
+
+(e) Any party may file an answer to a motion to intervene, but such answer shall be made within fifteen (15) days after the motion to intervene was filed, unless a later date is permitted by the Assistant Secretary for good cause shown. Answers shall be in writing. Answers shall detail each material allegation of the motion to intervene being answered and state clearly and concisely the facts and legal authorities relied upon. Failure to answer is deemed a waiver of any objection to the intervention. This paragraph does not prevent the Assistant Secretary from ruling on a motion to intervene and issuing a final opinion and order in accordance with § 590.316 prior to the expiration of the fifteen (15) days in which a party has to answer a motion to intervene.
+
+(f) If an answer in opposition to a motion to intervene is timely filed or if the motion to intervene is not timely filed, then the movant becomes a party only after the motion to intervene is expressly granted.
+
+(g) If no answer in opposition to a motion to intervene is filed within the period of time prescribed in paragraph (e) of this section, the motion to intervene shall be deemed to be granted, unless the Assistant Secretary denies the motion in whole or in part or otherwise limits the intervention prior to the expiration of the time allowed in paragraph (e) for filing an answer to the motion to intervene. Where the motion to intervene is deemed granted, the participation of the intervenor shall be limited to matters affecting asserted rights and interests specifically set forth in the motion to intervene, and the admission of such intervenor to party status shall not be construed as recognition by FE that the intervenor might be aggrieved because of any order issued.
+
+(h) In the event that a motion for late intervention is granted, an intervenor shall accept the record of the proceeding as it was developed prior to the intervention.

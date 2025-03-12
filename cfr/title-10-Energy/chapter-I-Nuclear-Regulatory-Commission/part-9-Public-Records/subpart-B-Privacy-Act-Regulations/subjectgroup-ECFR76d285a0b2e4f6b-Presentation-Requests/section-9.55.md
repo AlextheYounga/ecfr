@@ -1,0 +1,7 @@
+##### § 9.55 Specification of records. #####
+
+(a)(1) Requests relating to records shall, insofar as practicable, specify the nature of the record sought, the approximate dates covered by the record, the system of records in which the record is thought to be included and the system manager having custody of the record system as shown in the annual compilation, “Notices of Records Systems”, published by the General Services Administration. Requests shall, in addition, comply with any additional specification requirements contained in the published “Notice of System of Records” for that system.
+
+(2) Requests for correction or amendment of records shall, in addition, specify the particular record involved, state the nature of the correction or amendment sought and furnish justification for the correction or amendment.
+
+(b) Requests which do not contain information sufficient to identify the record requested will be returned promptly to the requestor, with a notice indicating what information is lacking. Individuals making requests in person will be informed of any deficiency in the specification of records at the time the request is made. Individuals making requests in writing will be notified of any such deficiency when their request is acknowledged.

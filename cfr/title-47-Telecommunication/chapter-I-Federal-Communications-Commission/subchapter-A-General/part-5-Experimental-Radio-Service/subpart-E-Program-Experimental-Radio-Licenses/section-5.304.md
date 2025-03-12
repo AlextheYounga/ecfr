@@ -1,0 +1,3 @@
+##### § 5.304 Area of operations. #####
+
+Applications must specify, and the Commission will grant authorizations for, a geographic area that is inclusive of an institution's real-property facilities where the experimentation will be conducted and that is under the applicant's control. If an applicant wants to conduct experiments in more than one defined geographic area, it shall apply for a license for each location.

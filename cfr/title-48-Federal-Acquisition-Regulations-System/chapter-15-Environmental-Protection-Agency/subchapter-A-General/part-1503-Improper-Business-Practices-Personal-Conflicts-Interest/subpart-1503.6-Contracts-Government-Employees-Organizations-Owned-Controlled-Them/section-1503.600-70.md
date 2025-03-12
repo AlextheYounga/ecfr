@@ -1,0 +1,3 @@
+##### 1503.600-70 Scope of subpart. #####
+
+This subpart implements and supplements FAR subpart 3.6 and sets forth EPA policy and procedures for identifying and dealing with conflicts of interest and improper influence or favoritism in connection with contracts involving current or former EPA employees. This subpart does not apply to agreements with other departments or agencies of the Federal Government, nor to contracts awarded to State or local units of Government.

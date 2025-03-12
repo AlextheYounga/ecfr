@@ -1,0 +1,5 @@
+##### § 1303.20 Inspection and copying. #####
+
+When a request for information has been approved pursuant to § 1303.10, the person making the request may make an appointment to inspect or copy the materials requested during regular business hours by writing or telephoning the FOIA Officer at the address or telephone number listed in § 1303.10(b). Such materials may be copied and reasonable facilities will be made available for that purpose. Copies of individual pages of such materials will be made available at the price per page specified in § 1303.40(d); however, the right is reserved to limit to a reasonable quantity the copies of such materials which may be made available in this manner when copies also are offered for sale by the Superintendent of Documents.
+
+[63 FR 20515, Apr. 27, 1998]

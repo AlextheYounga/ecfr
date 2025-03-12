@@ -1,0 +1,3 @@
+##### § 2638.301 In general. #####
+
+Every agency must carry out a government ethics education program to teach employees how to identify government ethics issues and obtain assistance in complying with government ethics laws and regulations. An agency's failure to comply with any of the education or notice requirements set forth in this subpart does not exempt an employee from applicable government ethics requirements.

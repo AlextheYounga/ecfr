@@ -1,0 +1,3 @@
+##### § 1277.25 Transfer of capital stock. #####
+
+A Bank in its capital plan may allow a member or former member to transfer any excess stock to a member of that Bank or to an institution that has been approved for membership in that Bank and that has satisfied all conditions for becoming a member, other than the purchase of the minimum amount of Bank stock that it is required to hold as a condition of membership. Any such stock transfers shall be at par value and shall be effective upon being recorded on the appropriate books and records of the Bank. The Bank may, in its capital plan, require that the transfer be approved by the Bank before such transfer can occur.

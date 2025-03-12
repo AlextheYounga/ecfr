@@ -1,0 +1,3 @@
+##### § 1620.36 Transmission of information. #####
+
+Any employee who moves to a NAF instrumentality must be reported by the losing Federal Government agency to the TSP record keeper as having transferred to a NAF instrumentality of the DOD or Coast Guard rather than as having separated from Government service. If the employee subsequently elects not to be covered by CSRS or FERS, the NAF instrumentality must submit an Employee Data Record to report the employee as having separated from Federal Government service as of the date of the move.

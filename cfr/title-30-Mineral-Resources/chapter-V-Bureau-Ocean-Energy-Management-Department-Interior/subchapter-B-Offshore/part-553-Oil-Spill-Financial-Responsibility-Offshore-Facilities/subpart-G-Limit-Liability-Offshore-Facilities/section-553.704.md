@@ -1,0 +1,3 @@
+##### § 553.704 How will BOEM publish the offshore facility limit of liability adjustment? #####
+
+BOEM will publish the inflation-adjusted limit of liability, and any statutory amendments to that limit of liability in the Federal Register, as amendments to § 553.702. Updates to the limit of liability under this section are effective on the 90th day after publication in the Federal Register of the amendments to § 553.702, unless otherwise specified by statute (in the event of a statutory amendment to the limit of liability), or in the Federal Register rule amending § 553.702.

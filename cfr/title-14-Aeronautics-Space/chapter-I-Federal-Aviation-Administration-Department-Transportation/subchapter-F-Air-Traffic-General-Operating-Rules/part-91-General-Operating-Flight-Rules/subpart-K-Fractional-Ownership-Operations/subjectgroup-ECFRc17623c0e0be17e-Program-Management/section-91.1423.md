@@ -1,0 +1,7 @@
+##### § 91.1423 CAMP: Maintenance organization. #####
+
+(a) Each program manager who maintains program aircraft under a CAMP that has its personnel perform any of its maintenance (other than required inspections), preventive maintenance, or alterations, and each person with whom it arranges for the performance of that work, must have an organization adequate to perform the work.
+
+(b) Each program manager who has personnel perform any inspections required by the program manager's manual under § 91.1427(b) (2) or (3), (in this subpart referred to as required inspections), and each person with whom the program manager arranges for the performance of that work, must have an organization adequate to perform that work.
+
+(c) Each person performing required inspections in addition to other maintenance, preventive maintenance, or alterations, must organize the performance of those functions so as to separate the required inspection functions from the other maintenance, preventive maintenance, or alteration functions. The separation must be below the level of administrative control at which overall responsibility for the required inspection functions and other maintenance, preventive maintenance, or alterations is exercised.

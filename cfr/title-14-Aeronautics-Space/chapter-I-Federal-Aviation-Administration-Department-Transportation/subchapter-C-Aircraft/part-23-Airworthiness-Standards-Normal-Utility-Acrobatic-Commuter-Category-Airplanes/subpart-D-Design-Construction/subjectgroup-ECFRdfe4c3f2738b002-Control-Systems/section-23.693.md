@@ -1,0 +1,3 @@
+##### § 23.693 Joints. #####
+
+Control system joints (in push-pull systems) that are subject to angular motion, except those in ball and roller bearing systems, must have a special factor of safety of not less than 3.33 with respect to the ultimate bearing strength of the softest material used as a bearing. This factor may be reduced to 2.0 for joints in cable control systems. For ball or roller bearings, the approved ratings may not be exceeded.

@@ -1,0 +1,3 @@
+##### § 488.800 Statutory basis. #####
+
+Section 1891(e) through (f) of the Act authorizes the Secretary to take actions to remove and correct deficiencies in an HHA through an alternative sanction or termination or both. Furthermore, this section specifies that these sanctions are in addition to any others available under State or Federal law, and, except for the final determination of civil money penalties, are imposed prior to the conduct of a hearing.

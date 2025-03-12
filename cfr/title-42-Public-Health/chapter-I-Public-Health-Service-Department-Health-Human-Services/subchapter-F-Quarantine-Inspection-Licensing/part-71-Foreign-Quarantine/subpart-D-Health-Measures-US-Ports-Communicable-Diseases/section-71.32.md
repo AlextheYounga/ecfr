@@ -1,0 +1,7 @@
+##### § 71.32 Persons, carriers, and things. #####
+
+(a) Whenever the Director has reason to believe that any arriving person is infected with or has been exposed to any of the communicable diseases listed in an Executive Order, as provided under section 361(b) of the Public Health Service Act, he/she may isolate, quarantine, or place the person under surveillance and may order disinfection or disinfestation, fumigation, as he/she considers necessary to prevent the introduction, transmission or spread of the listed communicable diseases. Executive Order 13295, of April 4, 2003, as provided under section 361 of the Public Health Service Act (42 U.S.C. 264), and as amended by Executive Order 13375 of April 1, 2005, contains the current revised list of quarantinable communicable diseases, and may be obtained at *http://www.cdc.gov* and *http://www.archives.gov/federal- register.* If this Order is amended, HHS will enforce that amended order immediately and update this reference.
+
+(b) Whenever the Director has reason to believe that any arriving carrier or article or thing on board the carrier is or may be infected or contaminated with a communicable disease, he/she may require detention, disinfection, disinfestation, fumigation, or other related measures respecting the carrier or article or thing as he/she considers necessary to prevent the introduction, transmission, or spread of communicable diseases.
+
+[68 FR 17559, Apr. 10, 2003, as amended at 77 FR 75891, Dec. 26, 2012]

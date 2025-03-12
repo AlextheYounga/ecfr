@@ -1,0 +1,5 @@
+##### § 552.5 Information to be made available to affected States. #####
+
+(a) The Director shall prepare an index of OCS information (see 30 CFR 556.10). The index shall list all relevant actual or proposed programs, plans, reports, environmental impact statements, nominations information, environmental study reports, lease sale information, and any similar type of relevant information, including modifications, comments, and revisions prepared or directly obtained by the Director under the Act. The index shall be sent to affected States and, upon request, to any affected local government. The public shall be informed of the availability of the index.
+
+(b) Upon request, the Director shall transmit to affected States, affected local governments, and the public a copy of any information listed in the index which is subject to the control of BOEM, in accordance with the requirements and subject to the limitations of the Freedom of Information Act (5 U.S.C. 552) and implementing regulations. The Director shall not transmit or make available any information which he determines is exempt from disclosure in accordance with this part.

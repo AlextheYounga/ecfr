@@ -1,0 +1,5 @@
+##### § 816.131 Cessation of operations: Temporary. #####
+
+(a) Each person who conducts surface mining activities shall effectively secure surface facilities in areas in which there are no current operations, but in which operations are to be resumed under an approved permit. Temporary abandonment shall not relieve a person of their obligation to comply with any provisions of the approved permit.
+
+(b) Before temporary cessation of mining and reclamation operations for a period of thirty days or more, or as soon as it is known that a temporary cessation will extend beyond 30 days, persons who conduct surface mining activities shall submit to the regulatory authority a notice of intention to cease or abandon mining and reclamation operations. This notice shall include a statement of the exact number of acres which will have been affected in the permit area, prior to such temporary cessation, the extent and kind of reclamation of those areas which will have been accomplished, and identification of the backfilling, regrading, revegetation, environmental monitoring, and water treatment activities that will continue during the temporary cessation.

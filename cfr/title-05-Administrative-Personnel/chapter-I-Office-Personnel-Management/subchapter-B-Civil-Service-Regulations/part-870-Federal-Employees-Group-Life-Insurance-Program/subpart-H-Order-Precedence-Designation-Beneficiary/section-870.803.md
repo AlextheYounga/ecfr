@@ -1,0 +1,5 @@
+##### § 870.803 Child incapable of self-support. #####
+
+(a) When it receives a claim for Option C benefits because of the death of a child age 22 or older, OFEGLI determines, based on whatever evidence it considers necessary, whether the deceased child was incapable of self-support because of a mental or physical disability which existed before the child reached age 22.
+
+(b) If an employee elects Option C under § 870.506(a) (3), and the opportunity to elect is based solely on the acquisition of a child age 22 or older, the employee must submit to the employing office, at the time of making the election, a doctor's certificate stating that the child is incapable of self-support because of a physical or mental disability which existed before the child reached age 22 and which is expected to continue for more than 1 year. The certificate must include the name of the child, the type of disability, how long it has existed, and its expected future course and duration. The certificate must be signed by the doctor and show his/her office address.

@@ -1,0 +1,7 @@
+##### § 52.2301 Federal compliance date for automobile and light-duty truck coating. Texas Air Control Board Regulation V (31 TAC chapter 115), control of air pollution from volatile organic compound, rule 115.191(1)(8)(A). #####
+
+(a) The requirements of section 110 of the Clean Air Act are not met regarding the final compliance date, as found in TACB rule 115.191(a)(8)(A), for the requirements of TACB Rule 115.191(a)(8)(A).
+
+(b) TACB adopted revisions to rule 115.191(a)(8)(A) on October 14, 1988, and submitted them to EPA on December 13, 1988. Prior to the submittal, automobile and light-duty truck coating operations were to have complied with final control limits of § A115.191(a)(8)(B) of the federally approved State Implementation Plan (SIP), by December 31, 1986. In the December 13, 1988, submittal, the final control limits had been moved to § 115.191(a)(8)(A) and had been given a new extended compliance date of December 31, 1987. EPA does not recognize the later compliance data and retains the original compliance date for the final emission limits of December 31, 1986. The owner or operator of an automobile and light-duty truck coating operation shall comply with the requirements of TACB rule 115.191(a)(8)(A) no later than December 31, 1986.
+
+[56 FR 40257, Aug. 14, 1991]

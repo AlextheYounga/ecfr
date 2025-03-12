@@ -1,0 +1,15 @@
+##### § 630.1308 Disabled veteran leave forfeiture, transfer, reinstatement. #####
+
+(a) Disabled veteran leave not used during the 12-month eligibility period may not be carried over to subsequent years and must be forfeited.
+
+(b) If a change in the employee's disability rating during the 12-month eligibility period causes the employee to no longer have a qualifying service-connected disability (as described in § 630.1304(d)), any unused disabled veteran leave to the employee's credit as of the effective date of the rating change must be forfeited.
+
+(c) When an employee with a positive disabled veteran leave balance transfers between positions in different agencies, or transfers from the United States Postal Service or Postal Regulatory Commission to a position in another agency, during the 12-month eligibility period, the agency from which the employee transfers must certify the number of unused disabled veteran leave hours available for credit by the gaining agency. The losing agency must also certify the expiration date of the employee's 12-month eligibility period to the gaining agency. Any unused disabled veteran leave will be forfeited at the end of that eligibility period. For the purpose of this paragraph, the term “transfers” means movement from a position in one agency (or the United States Postal Service or Postal Regulatory Commission) to a position in another agency without a break in employment of 1 workday or more in circumstances where service in both positions qualifies as employment under this subpart.
+
+(d)(1) An employee covered by this subpart, or an employee of the United States Postal Service or Postal Regulatory Commission, with a balance of unused disabled veteran leave who has a break in employment of at least 1 workday during the employee's 12-month eligibility period, and later recommences employment covered by 5 U.S.C. 6329 within that same eligibility period, is entitled to a recredit of the unused balance.
+
+(2) When an employee has a break in employment as described in paragraph (d)(1) of this section, the losing agency must certify the number of unused disabled veteran leave hours available for recredit by the gaining agency. The losing agency must also certify the expiration date of the employee's 12-month eligibility period. Any unused disabled veteran leave must be forfeited at the end of that eligibility period.
+
+(3) In the absence of the certification described in paragraph (d)(2) of this section, the recredit of disabled veteran leave may also be supported by written documentation available to the employing agency in its official personnel records concerning the employee, the official records of the employee's former employing agency, copies of contemporaneous earnings and leave statement(s) provided by the employee, or copies of other contemporaneous written documentation acceptable to the agency.
+
+(e) An employee may not receive a lump-sum payment for any unused disabled veteran leave under any circumstance.

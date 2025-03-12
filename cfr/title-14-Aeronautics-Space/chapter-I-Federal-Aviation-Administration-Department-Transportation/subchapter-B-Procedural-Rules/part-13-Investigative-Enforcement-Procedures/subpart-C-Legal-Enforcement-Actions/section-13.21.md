@@ -1,0 +1,5 @@
+##### § 13.21 Military personnel. #####
+
+If a report made under this part indicates that, while performing official duties, a member of the Armed Forces, or a civilian employee of the Department of Defense who is subject to the Uniform Code of Military Justice (10 U.S.C. Ch. 47), has violated the Federal Aviation Act of 1958, or a regulation or order issued under it, the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Regulations, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, each Regional Counsel, and the Aeronautical Center Counsel send a copy of the report to the appropriate military authority for such disciplinary action as that authority considers appropriate and a report to the Administrator thereon.
+
+[Doc. No. 18884, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 13-19, 54 FR 39290, Sept. 25, 1989; Amdt. 13-29, 62 FR 46866, Sept. 4, 1997]

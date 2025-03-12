@@ -1,0 +1,3 @@
+##### § 63.2830 What is the purpose of this subpart? #####
+
+This subpart establishes national emission standards for hazardous air pollutants (NESHAP) for emissions during vegetable oil production. This subpart limits hazardous air pollutant (HAP) emissions from specified vegetable oil production processes. This subpart also establishes requirements to demonstrate initial and continuous compliance with the emission standards.

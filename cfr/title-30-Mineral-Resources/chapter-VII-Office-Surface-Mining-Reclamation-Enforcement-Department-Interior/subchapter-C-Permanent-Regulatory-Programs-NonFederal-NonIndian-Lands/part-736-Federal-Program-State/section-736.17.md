@@ -1,0 +1,3 @@
+##### § 736.17 Consolidation of procedures. #####
+
+The Director may consolidate public notices, hearings, opportunity for public comment and decisions on the promulgation, revision or termination of a Federal program for a State under this part, with public notices, opportunity for public comment and hearings on the approval, disapproval or withdrawal of a State program under 30 CFR parts 732 through 733.

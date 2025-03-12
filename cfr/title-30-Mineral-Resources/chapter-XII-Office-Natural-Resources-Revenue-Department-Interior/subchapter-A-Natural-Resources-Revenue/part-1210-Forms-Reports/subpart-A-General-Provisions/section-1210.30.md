@@ -1,0 +1,3 @@
+##### § 1210.30 What are my responsibilities as a reporter/payor? #####
+
+Each reporter/payor must submit accurate, complete, and timely information to ONRR according to the requirements in this part. If you discover an error in a previous report, you must file an accurate and complete amended report within 30 days of your discovery of the error. If you do not comply, ONRR may assess civil penalties under 30 CFR part 1241.

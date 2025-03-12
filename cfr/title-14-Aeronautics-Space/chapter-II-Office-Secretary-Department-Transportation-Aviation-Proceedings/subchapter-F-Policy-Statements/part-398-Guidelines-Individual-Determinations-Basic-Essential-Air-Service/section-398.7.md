@@ -1,0 +1,3 @@
+##### § 398.7 Timing of flights. #####
+
+To qualify as essential air service, flights must depart at reasonable times, considering the needs of passengers with connecting flights at the hub. It is the policy of the Department to consider the reasonableness of the time in view of the purpose for which the local passengers are traveling. If travel is primarily to connect with other flights at the hub, local flight times should be designed to link with those flights. If travel is primarily local (*i.e.,* to and from the hub), there should be at least one morning flight in each direction and one late-afternoon or evening flight in each direction.

@@ -1,0 +1,3 @@
+##### § 630.7 Failure to respond to questions. #####
+
+FTA will review each NTD submission to verify the reasonableness of the data submitted. If any of the data do not appear reasonable, FTA will notify the reporting entity of this fact in writing, and request written justification from the reporting entity to either document the accuracy of the questioned data, or to revise the questioned data with a more accurate submission. Failure of a reporting entity to make a good-faith written response to this request will be treated as a failure to report data under § 630.5.

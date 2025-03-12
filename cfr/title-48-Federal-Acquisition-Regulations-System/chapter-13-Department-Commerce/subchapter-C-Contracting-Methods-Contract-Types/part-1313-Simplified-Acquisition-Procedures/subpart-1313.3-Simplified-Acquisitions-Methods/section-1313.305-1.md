@@ -1,0 +1,5 @@
+##### 1313.305-1 General. #####
+
+(a) *Third-party drafts.* Third-party drafts are not authorized for use by Department of Commerce agencies.
+
+(b) *Imprest Funds.* The *Imprest Fund Policy Directive,* issued November 9, 1999, by the Department of Treasury, required that all Federal agencies eliminate agency use of imprest funds by October 1, 2001, except where provided under the *Imprest Fund Policy Directive.* Requests for exceptions to the requirements of the Imprest Fund Policy Directive should be addressed to DOC's Director of Financial Management. In the case of an approved exception, DOC's procedures for using imprest funds can be found in the Cash Management Policies and Procedures Handbook, available at the Department of Commerce, Office of Financial Management Web site. A copy of all approved exceptions shall be submitted to the Senior Bureau Procurement Official.

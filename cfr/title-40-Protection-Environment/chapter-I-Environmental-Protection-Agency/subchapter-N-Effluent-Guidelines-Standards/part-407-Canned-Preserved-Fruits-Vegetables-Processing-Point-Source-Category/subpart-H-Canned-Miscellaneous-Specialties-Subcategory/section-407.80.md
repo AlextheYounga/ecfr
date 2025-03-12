@@ -1,0 +1,3 @@
+##### § 407.80 Applicability; description of the canned and miscellaneous specialties subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the processing of the following specialty products: Added ingredients; baby food; corn, potato, and tortilla chips; ethnic foods; jams and jellies; mayonnaise and dressings; soups; and tomato-starch-cheese canned specialties. When a plant is subject to effluent limitations covering more than one commodity or subcategory, the plant discharge limitations shall be set by proration of limitations for each subcategory or commodity based on the total production covered by each commodity or subcategory.

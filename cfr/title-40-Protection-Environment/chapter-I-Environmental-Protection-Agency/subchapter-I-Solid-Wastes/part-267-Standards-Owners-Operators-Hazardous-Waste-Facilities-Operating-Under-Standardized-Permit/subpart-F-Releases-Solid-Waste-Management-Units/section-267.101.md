@@ -1,0 +1,9 @@
+##### § 267.101 What must I do to address corrective action for solid waste management units? #####
+
+(a) You must institute corrective action as necessary to protect human health and the environment for all releases of hazardous waste or constituents from any solid waste management unit at the facility, regardless of the time at which waste was placed in such unit.
+
+(b) The Regional Administrator will specify corrective action in the supplemental portion of your standardized permit in accordance with this section and 40 CFR part 264, subpart S. The Regional Administrator will include in the supplemental portion of your standardized permit schedules of compliance for corrective action (where corrective action cannot be completed prior to issuance of the permit) and assurances of financial responsibility for completing corrective action.
+
+(c) You must implement corrective action beyond the facility property boundary, where necessary to protect human health and the environment, unless you demonstrate to the satisfaction of the Regional Administrator that, despite your best efforts, you were unable to obtain the necessary permission to undertake such actions. You are not relieved of all responsibility to clean up a release that has migrated beyond the facility boundary where off -site access is denied. On-site measures to address such releases will be determined on a case-by-case basis. You must provide assurances of financial responsibility for such corrective action.
+
+(d) You do not have to comply with this section if you are the owner or operator of a remediation waste site unless your site is part of a facility that is subject to a permit for treating, storing, or disposing of hazardous wastes that are not remediation wastes.

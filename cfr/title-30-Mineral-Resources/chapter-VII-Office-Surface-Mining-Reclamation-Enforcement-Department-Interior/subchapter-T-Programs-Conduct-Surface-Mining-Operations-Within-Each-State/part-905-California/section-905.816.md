@@ -1,0 +1,7 @@
+##### § 905.816 Performance standards—Surface mining activities. #####
+
+(a) Part 816 of this chapter, *Permanent Program Performance Standards—Surface Mining Activities,* shall apply to any person who conducts surface mining activities, except for § 816.116(a)(1) regarding revegetation success standards, for which paragraph (c) of this section substitutes.
+
+(b) All operators shall comply with the Porter-Cologne Water Quality Control Act, Cal. Pub. Res. Code section 13000 *et seq.;* the California Water Code section 1200 *et seq.;* the California Air Pollution Control Laws, Cal. Health & Safety Code section 39000 *et seq.;* the Hazardous Waste Control Law, Cal. Health & Safety Code section 25100 *et seq.;* the State Underground Storage of Hazardous Substances Law, Cal. Health & Safety Code section 25280 *et seq.;* the Solid Waste Management and Resource Recovery Act of 1972, Cal. Gov. Code section 66770 *et seq.;* the California Environmental Quality Act, Cal. Pub. Res. Code section 21000; the California Coastal Act of 1976, Cal. Pub. Res. Code section 30000 *et seq.;* the Z'berg-Nejedly Forest Practice Act of 1973, Cal. Pub. Res. Code section 4511 *et seq.;* the California Public Resources Code section 4656; and regulations promulgated pursuant to these laws.
+
+(c) Standards for success shall be those identified in § 816.116(a)(2) of this chapter. Statistically valid sampling techniques for measuring success shall be included in the mining and reclamation plan, and approved by the regulatory authority.

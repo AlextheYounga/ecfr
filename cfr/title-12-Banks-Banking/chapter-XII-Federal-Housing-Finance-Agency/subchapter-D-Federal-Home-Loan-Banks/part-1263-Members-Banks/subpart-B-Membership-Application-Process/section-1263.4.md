@@ -1,0 +1,13 @@
+##### § 1263.4 Automatic membership. #####
+
+(a) *Automatic membership for certain charter conversions.* An insured depository institution member that converts from one charter type to another automatically shall become a member of the Bank of which the converting institution was a member on the effective date of the conversion, provided that the converted institution continues to be an insured depository institution and the assets of the institution immediately before and immediately after the conversion are not materially different. In such case, all relationships existing between the member and the Bank at the time of such conversion may continue.
+
+(b) *Automatic membership for transfers.* Any member that relocates its principal place of business to another Bank district or that redesignates its principal place of business to another Bank district pursuant to § 1263.18(c) automatically shall become a member of the Bank of that district upon the purchase of the minimum amount of Bank stock required for membership in that Bank, as required by § 1263.20.
+
+(c) *Automatic membership, in the Bank's discretion, for certain consolidations.* (1) If a member institution (or institutions) and a nonmember institution are consolidated, and the consolidated institution has its principal place of business in a State in the same Bank district as the disappearing institution (or institutions), and the consolidated institution will operate under the charter of the nonmember institution, on the effective date of the consolidation, the consolidated institution may, in the discretion of the Bank of which the disappearing institution (or institutions) was a member immediately prior to the effective date of the consolidation, automatically become a member of such Bank upon the purchase of the minimum amount of Bank stock required for membership in that Bank, as required by § 1263.20, provided that:
+
+(i) 90 percent or more of the consolidated institution's total assets are derived from the total assets of the disappearing member institution (or institutions); and
+
+(ii) The consolidated institution provides written notice to such Bank, within 60 calendar days after the effective date of the consolidation, that it desires to be a member of the Bank.
+
+(2) The provisions of § 1263.24(b)(4)(i) shall apply, and upon approval of automatic membership by the Bank, the provisions of § 1263.24(c) shall apply.

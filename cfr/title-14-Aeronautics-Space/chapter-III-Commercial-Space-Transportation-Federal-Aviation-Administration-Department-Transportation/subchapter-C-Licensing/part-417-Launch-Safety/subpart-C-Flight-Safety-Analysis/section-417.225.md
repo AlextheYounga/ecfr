@@ -1,0 +1,3 @@
+##### § 417.225 Debris risk analysis. #####
+
+A flight safety analysis must demonstrate that the risk to the public potentially exposed to inert and explosive debris hazards from any one flight of a launch vehicle satisfies the public risk criterion of § 417.107(b) for debris. A debris risk analysis must account for risk to populations on land, including regions of launch vehicle flight following passage through any gate in a flight safety limit established as required by § 417.217. A debris risk analysis must account for any potential casualties to the public as required by the debris thresholds and requirements of § 417.107(c).

@@ -1,0 +1,3 @@
+##### § 1400.1 Farm Credit System Insurance Corporation. #####
+
+The Farm Credit System Insurance Corporation (Corporation) was created by sections 5.52 and 5.58 of the Farm Credit Act of 1971 (Act) to carry out the responsibilities set out in part E of title V of the Act, including insuring the timely payment of principal and interest on notes, bonds, debentures, and other obligations issued under subsection (c) or (d) of section 4.2 of the Farm Credit Act on behalf of one or more Farm Credit System banks.

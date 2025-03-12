@@ -1,0 +1,3 @@
+##### § 60.4795 Do all nine components of these new source performance standards apply at the same time? #####
+
+No. You must meet the preconstruction siting analysis requirements before you commence construction of the SSI unit. The operator training and qualification, emission limits, emission standards, operating limits, performance testing, and compliance, monitoring, and most recordkeeping and reporting requirements are met after the SSI unit begins operation.

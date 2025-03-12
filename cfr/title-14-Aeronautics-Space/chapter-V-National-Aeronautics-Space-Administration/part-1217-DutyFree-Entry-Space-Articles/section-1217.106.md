@@ -1,0 +1,3 @@
+##### § 1217.106 Articles brought into the United States by NASA from space. #####
+
+Pursuant to U.S. note 1 subchapter VIII of chapter 98, HTSUS, articles brought into the customs territory of the United States by NASA from space shall not be considered an importation, and no certification or entry of such materials through U.S. Customs shall be required. This provision is applicable to articles brought to the U.S. from space whether or not the articles were launched into space aboard a NASA vehicle.

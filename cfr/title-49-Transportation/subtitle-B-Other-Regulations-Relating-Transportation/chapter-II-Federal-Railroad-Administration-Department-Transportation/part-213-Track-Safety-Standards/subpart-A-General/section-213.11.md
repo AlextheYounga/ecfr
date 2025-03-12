@@ -1,0 +1,3 @@
+##### § 213.11 Restoration or renewal of track under traffic conditions. #####
+
+If during a period of restoration or renewal, track is under traffic conditions and does not meet all of the requirements prescribed in this part, the work on the track shall be under the continuous supervision of a person designated under § 213.7(a) who has at least one year of supervisory experience in railroad track maintenance, and subject to any limiting conditions specified by such person. The term “continuous supervision” as used in this section means the physical presence of that person at a job site. However, since the work may be performed over a large area, it is not necessary that each phase of the work be done under the visual supervision of that person.

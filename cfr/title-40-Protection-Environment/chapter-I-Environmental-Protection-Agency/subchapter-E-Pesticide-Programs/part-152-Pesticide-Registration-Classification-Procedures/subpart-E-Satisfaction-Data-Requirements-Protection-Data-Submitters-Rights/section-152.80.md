@@ -1,0 +1,5 @@
+##### § 152.80 General. #####
+
+This subpart E describes the information that an applicant must submit with his application for registration or amended registration to comply (and for the Agency to determine compliance) with the provisions of FIFRA sec. 3(c)(1)(F). This subpart also describes the procedures by which data submitters may challenge registration actions which allegedly failed to comply with these procedures. If the Agency determines that an applicant has failed to comply with the requirements and procedures in this subpart, the application may be denied. If the Agency determines, after registration has been issued, that an applicant failed to comply with these procedures and requirements, the Agency may issue a notice of intent to cancel the product's registration.
+
+[73 FR 75594, Dec. 12, 2008]

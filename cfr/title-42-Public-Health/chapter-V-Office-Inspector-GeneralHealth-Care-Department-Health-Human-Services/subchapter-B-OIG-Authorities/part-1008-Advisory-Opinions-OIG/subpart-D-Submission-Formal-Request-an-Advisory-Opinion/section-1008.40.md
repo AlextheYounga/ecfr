@@ -1,0 +1,3 @@
+##### § 1008.40 Withdrawal. #####
+
+The requestor of an advisory opinion may withdraw the request prior to the issuance of a formal advisory opinion by the OIG. The withdrawal must be written and must be submitted to the same address as the submitted request, as indicated in §§ 1008.18(b) and 1008.36(a) of this part. Regardless of whether the request is withdrawn, the requestor must pay the costs expended by the OIG in processing the opinion, as discussed in § 1008.31(d) of this part. The OIG reserves the right to retain any request for an advisory opinion, documents and information submitted to it under these procedures, and to use them for any governmental purposes.

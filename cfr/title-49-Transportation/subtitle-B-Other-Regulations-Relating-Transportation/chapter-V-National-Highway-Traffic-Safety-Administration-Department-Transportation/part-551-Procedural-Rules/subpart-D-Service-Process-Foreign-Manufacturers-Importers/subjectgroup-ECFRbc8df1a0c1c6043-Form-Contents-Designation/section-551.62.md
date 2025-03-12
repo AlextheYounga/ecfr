@@ -1,0 +1,3 @@
+##### § 551.62 Where should a foreign manufacturer mail the designation? #####
+
+Foreign manufacturers must mail their designations to the Office of the Executive Secretariat, National Highway Traffic Safety Administration, Room 5221, 400 Seventh Street, SW, Washington, DC 20590. No other NHTSA office is authorized to accept designation documents. To avoid delays, the agency suggests using express mail services.

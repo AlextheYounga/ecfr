@@ -1,0 +1,3 @@
+##### § 11.26 Settlement. #####
+
+Before or after a complaint under § 11.34 is filed, a settlement conference may occur between the OED Director and the practitioner. Any offers of compromise and any statements made during the course of settlement discussions shall not be admissible in subsequent proceedings. The OED Director may recommend to the USPTO Director any settlement terms deemed appropriate, including steps taken to correct or mitigate the matter forming the basis of the action, or to prevent recurrence of the same or similar conduct. A settlement agreement shall be effective only upon entry of a final decision by the USPTO Director.

@@ -1,0 +1,3 @@
+##### § 57.1501 Applicability. #####
+
+The regulations of this subpart are applicable to loan guarantees and interest subsidy payments made pursuant to section 729 of the Public Health Service Act (42 U.S.C. 293i) to assist nonprofit private entities which are eligible for grants under subpart B of this part in carrying out projects for construction of teaching facilities for health professions personnel.

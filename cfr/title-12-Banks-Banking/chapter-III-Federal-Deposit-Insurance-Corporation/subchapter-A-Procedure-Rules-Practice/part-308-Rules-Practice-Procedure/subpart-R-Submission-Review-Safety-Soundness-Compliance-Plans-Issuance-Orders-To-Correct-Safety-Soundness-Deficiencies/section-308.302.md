@@ -1,0 +1,5 @@
+##### § 308.302 Determination and notification of failure to meet a safety and soundness standard and request for compliance plan. #####
+
+(a) *Determination.* The FDIC may, based upon an examination, inspection or any other information that becomes available to the FDIC, determine that a bank or state savings association has failed to satisfy the safety and soundness standards set out in part 364 of this chapter and in the Interagency Guidelines Establishing Standards for Safety and Soundness in appendix A and the Interagency Guidelines Establishing Information Security Standards in appendix B to part 364 of this chapter.
+
+(b) *Request for compliance plan.* If the FDIC determines that a bank or state savings association has failed a safety and soundness standard pursuant to paragraph (a) of this section, the FDIC may request, by letter or through a report of examination, the submission of a compliance plan and the bank or state savings association shall be deemed to have notice of the request three days after mailing of the letter by the FDIC or delivery of the report of examination.

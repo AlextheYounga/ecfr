@@ -1,0 +1,5 @@
+##### § 174.114 Record to be made of change of seals on “Cars loaded with Division 1.1 or 1.2 (explosive) materials”. #####
+
+When a car seal is changed on a car requiring “EXPLOSIVES 1.1 or EXPLOSIVES 1.2 (EXPLOSIVES A) placards” while en route or before delivery to a consignee, a record of the change showing the following information must be made on or attached to the waybill or other form of memorandum which must accompany the car to its destination:
+
+ Railroad Place Date Car Initials Car Number Number or description of seal brokenNumber or description of seal used to reseal carReasons for opening carCondition of loadName and occupation of person opening car[Amdt. 174-26, 41 FR 16092, Apr. 15, 1976, as amended by Amdt. 174-26A, 41 FR 40685, Sept. 20, 1976; Amdt. 174-68, 55 FR 52682, Dec. 21, 1990]

@@ -1,0 +1,3 @@
+##### § 419.20 Applicability; description of the cracking subcategory. #####
+
+The provisions of this subpart are applicable to all discharges from any facility that produces petroleum products by the use of topping and cracking, whether or not the facility includes any process in addition to topping and cracking. The provisions of this subpart are not applicable, however, to facilities that include the processes specified in subparts C, D, or E of this part.

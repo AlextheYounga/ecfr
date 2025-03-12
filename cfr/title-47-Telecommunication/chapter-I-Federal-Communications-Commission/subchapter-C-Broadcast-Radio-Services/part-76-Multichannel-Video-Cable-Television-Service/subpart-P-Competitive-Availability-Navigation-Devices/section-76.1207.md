@@ -1,0 +1,3 @@
+##### § 76.1207 Waivers. #####
+
+The Commission may waive a regulation adopted under this subpart for a limited time, upon an appropriate showing by a provider of multichannel video programming and other services offered over multichannel video programming systems, or an equipment provider that such a waiver is necessary to assist the development or introduction of a new or improved multichannel video programming or other service offered over multichannel video programming systems, technology, or products. Such waiver requests should be made pursuant to § 76.7. Such a waiver shall be effective for all service providers and products in the category in which the waiver is granted.

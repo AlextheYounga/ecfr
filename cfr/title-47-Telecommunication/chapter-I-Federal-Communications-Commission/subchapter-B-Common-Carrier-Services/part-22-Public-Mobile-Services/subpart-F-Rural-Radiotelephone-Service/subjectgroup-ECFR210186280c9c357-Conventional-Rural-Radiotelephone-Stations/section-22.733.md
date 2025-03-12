@@ -1,0 +1,3 @@
+##### § 22.733 Priority of service. #####
+
+Within the Rural Radiotelephone Service, the channels listed in § 22.725 are intended primarily for use in rendition of public message service between rural subscriber and central office stations and to provide radio trunking facilities between central offices. The channels may also be used, however, for the rendition of private leased-line communication service provided that such usage would not reduce or impair the extent or quality of communication service that would be available, in the absence of private leased-line service, to the general public receiving or subsequently requesting public message service from a central office.

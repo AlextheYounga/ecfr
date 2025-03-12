@@ -1,0 +1,3 @@
+##### § 2.1206 Informal hearings. #####
+
+Hearings under this subpart will be oral hearings as described in § 2.1207, unless, within fifteen (15) days of the service of the order granting the request for hearing, the parties unanimously agree and file a joint motion requesting a hearing consisting of written submissions. A motion to hold a hearing consisting of written submissions will not be entertained unless there is unanimous consent of the parties.

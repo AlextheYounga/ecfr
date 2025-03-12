@@ -1,0 +1,3 @@
+##### § 1021.211 Interim actions: Limitations on actions during the NEPA process. #####
+
+While DOE is preparing an EIS that is required under § 1021.300(a) of this part, DOE shall take no action concerning the proposal that is the subject of the EIS before issuing an ROD, except as provided at 40 CFR 1506.1. Actions that are covered by, or are a part of, a DOE proposal for which an EIS is being prepared shall not be categorically excluded under subpart D of these regulations unless they qualify as interim actions under 40 CFR 1506.1.

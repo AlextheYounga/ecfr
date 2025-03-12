@@ -1,0 +1,5 @@
+##### § 63.1 Purpose and scope. #####
+
+This part prescribes rules governing the licensing (including issuance of a construction authorization) of the U.S. Department of Energy to receive and possess source, special nuclear, and byproduct material at a geologic repository operations area sited, constructed, or operated at Yucca Mountain, Nevada, in accordance with the Nuclear Waste Policy Act of 1982, as amended, and the Energy Policy Act of 1992. As provided in 10 CFR 60.1, the regulations in part 60 of this chapter do not apply to any activity licensed under another part of this chapter. This part also gives notice to all persons who knowingly provide to any licensee, applicant, contractor, or subcontractor, components, equipment, materials, or other goods or services, that relate to a licensee's or applicant's activities subject to this part, that they may be individually subject to NRC enforcement action for violation of § 63.11.
+
+[69 FR 2280, Jan. 14, 2004]

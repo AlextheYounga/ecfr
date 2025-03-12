@@ -1,0 +1,3 @@
+##### 2124.102-70 Policy. #####
+
+Records retained by FEGLI Program contractors on Federal insureds and members of their families serve the contractors' own commercial function of paying FEGLI Program claims and are not maintained to accomplish an agency function of OPM. Consequently, the records do not fall within the provisions of the Privacy Act. Nevertheless, OPM recognizes the need for the contractors to keep certain records confidential. The clause at 2152.224-70 addresses this concern.

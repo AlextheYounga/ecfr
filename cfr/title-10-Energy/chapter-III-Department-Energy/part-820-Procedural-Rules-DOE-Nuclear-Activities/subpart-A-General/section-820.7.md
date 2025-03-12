@@ -1,0 +1,5 @@
+##### § 820.7 Questions of policy or law. #####
+
+(a) *Certification.* There shall be no interlocutory appeal from any ruling order, or action decision of a DOE Official except as permitted by this section. A Presiding Officer in an enforcement adjudication may certify, in his discretion, a question to the Secretary, when the order or ruling involves an important question of law or policy concerning which there is substantial grounds for difference of opinion, and either an immediate decision will materially advance the ultimate termination of the proceeding, or subsequent review will be inadequate or ineffective.
+
+(b) *Decision.* The certified question shall be decided as soon as practicable. If the Secretary determines that the question was improvidently certified, or if he takes no action within thirty days of the certification, the certification is dismissed. The Secretary may decide the question on the basis of the submission made by the Presiding Officer or may request further information from any person.

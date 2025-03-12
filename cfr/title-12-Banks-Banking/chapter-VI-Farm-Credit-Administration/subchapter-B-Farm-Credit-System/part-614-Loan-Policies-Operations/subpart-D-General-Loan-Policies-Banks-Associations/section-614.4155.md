@@ -1,0 +1,5 @@
+##### § 614.4155 Interest rates. #####
+
+Loans made by each bank and direct lender association shall bear interest at a rate or rates as may be determined by the institution board. The board shall set interest rates or approve individual interest rate changes either on a case-by-case basis or pursuant to an interest rate plan within which management may establish rates. Any interest rate plan shall set loan-pricing policies and objectives, provide guidance regarding the circumstances under which management may adjust rates, and provide the upper and lower limits on management authority. Any interest rate plan adopted shall be reviewed on a continuing basis by the board, as well as in conjunction with its review and approval of the institution's operational and strategic business plan.
+
+[62 FR 66818, Dec. 22, 1997]

@@ -1,0 +1,43 @@
+##### § 74.502 Frequency assignment. #####
+
+(a) Except as provided in NG30, broadcast auxiliary stations licensed as of November 21, 1984, to operate in the band 942-944 MHz1 may continue to operate on a co-equal, primary basis to other stations and services operating in the band in accordance with the Table of Frequency Allocations. These stations will be protected from possible interference caused by new users of the band by the technical standards specified in § 101.105(c)(2).
+
+1Note: In addition to this band, stations in Puerto Rico may continue to be authorized on 942.5, 943.0, 943.5, 944.0 MHz in the band 942-944 MHz on a primary basis to stations and services operating in accordance with the Table of Frequency Allocations.
+
+(b) The frequency band 944-952 MHz is available for assignment to aural STL and ICR stations. One or more of the following 25 kHz segments may be stacked to form a channel which may be assigned with a maximum authorized bandwidth of 300 kHz except as noted in the following Table. The channel, will be assigned by its center frequency, channel bandwidth, and emission designator. The following frequencies are the centers of individual segments. When stacking an even number of segments, the center frequency specified will deviate from the following frequencies in that it should correspond to the actual center of stacked channels. When stacking an odd number of channels, the center frequency specified will correspond to one of the following frequencies.
+
+944.0125, 944.0375, 944.0625, 944.0875, 944.1125, 944.1375, 944.1625, 944.1875, 944.2125, 944.2375, 944.2625, 944.2875, 944.3125, 944.3375, 944.3625, 944.3875, 944.4125, 944.4375, 944.4625, 944.4875, 944.5125, 944.5375, 944.5625, 944.5875, 944.6125, 944.6375, 944.6625, 944.6875, 944.7125, 944.7375, 944.7625, 944.7875, 944.8125, 944.8375, 944.8625, 944.8875, 944.9125, 944.9375, 944.9625, 944.9875, 945.0125, 945.0375, 945.0625, 945.0875, 945.1125, 945.1375, 945.1625, 945.1875, 945.2125, 945.2375, 945.2625, 945.2875, 945.3125, 945.3375, 945.3625, 945.3875, 945.4125, 945.4375, 945.4625, 945.4875, 945.5125, 945.5375, 945.5625, 945.5875, 945.6125, 945.6375, 945.6625, 945.6875, 945.7125, 945.7375, 945.7625, 945.7875, 945.8125, 945.8375, 945.8625, 945.8875, 945.9125, 945.9375, 945.9625, 945.9875, 946.0125, 946.0375, 946.0625, 946.0875, 946.1125, 946.1375, 946.1625, 946.1875, 946.2125, 946.2375, 946.2625, 946.2875, 946.3125, 946.3375, 946.3625, 946.3875, 946.4125, 946.4375, 946.4625, 946.4875, 946.5125, 946.5375, 946.5625, 946.5875, 946.6125, 946.6375, 946.6625, 946.6875, 946.7125, 946.7375, 946.7625, 946.7875, 946.8125, 946.8375, 946.8625, 946.8875, 946.9125, 946.9375, 946.9625, 946.9875, 947.0125, 947.0375, 947.0625, 947.0875, 947.1125, 947.1375, 947.1625, 947.1875, 947.2125, 947.2375, 947.2625, 947.2875, 947.3125, 947.3375, 947.3625, 947.3875, 947.4125, 947.4375, 947.4625, 947.4875, 947.5125, 947.5375, 947.5625, 947.5875, 947.6125, 947.6375, 947.6625, 947.6875, 947.7125, 947.7375, 947.7625, 947.7875, 947.8125, 947.8375, 947.8625, 947.8875, 947.9125, 947.9375, 947.9625, 947.9875, 948.0125, 948.0375, 948.0625, 948.0875, 948.1125, 948.1375, 948.1625, 948.1875, 948.2125, 948.2375, 948.2625, 948.2875, 948.3125, 948.3375, 948.3625, 948.3875, 948.4125, 948.4375, 948.4625, 948.4875, 948.5125, 948.5375, 948.5625, 948.5875, 948.6125, 948.6375, 948.6625, 948.6875, 948.7125, 948.7375, 948.7625, 948.7875, 948.8125, 948.8375, 948.8625, 948.8875, 948.9125, 948.9375, 948.9625, 948.9875, 949.0125, 949.0375, 949.0625, 949.0875, 949.1125, 949.1375, 949.1625, 949.1875, 949.2125, 949.2375, 949.2625, 949.2875, 949.3125, 949.3375, 949.3625, 949.3875, 949.4125, 949.4375, 949.4625, 949.4875, 949.5125, 949.5375, 949.5625, 949.5875, 949.6125, 949.6375, 949.6625, 949.6875, 949.7125, 949.7375, 949.7625, 949.7875, 949.8125, 949.8375, 949.8625, 949.8875, 949.9125, 949.9375, 949.9625, 949.9875, 950.0125, 950.0375, 950.0625, 950.0875, 950.1125, 950.1375, 950.1625, 950.1875, 950.2125, 950.2375, 950.2625, 950.2875, 950.3125, 950.3375, 950.3625, 950.3875, 950.4125, 950.4375, 950.4625, 950.4875, 950.5125, 950.5375, 950.5625, 950.5875, 950.6125, 950.6375, 950.6625, 950.6875, 950.7125, 950.7375, 950.7625, 950.7875, 950.8125, 950.8375, 950.8625, 950.8875, 950.9125, 950.9375, 950.9625, 950.9875, 951.0125, 951.0375, 951.0625, 951.0875, 951.1125, 951.1375, 951.1625, 951.1875, 951.2125, 951.2375, 951.2625, 951.2875, 951.3125, 951.3375, 951.3625, 951.3875, 951.4125, 951.4375, 951.4625, 951.4875, 951.5125, 951.5375, 951.5625, 951.5875, 951.6125, 951.6375, 951.6625, 951.6875, 951.7125, 951.7375, 951.7625, 951.7875, 951.8125, 951.8375, 951.8625, 951.8875, 951.9125, 951.9375, 951.9625, 951.9875.
+
+(1) A single broadcast station may be authorized up to a maximum of twenty segments (500 kHz total bandwidth) for transmission of program material between a single origin and one or more designations. The station may lease excess capacity for broadcast and other uses on a secondary basis, subject to availability of spectrum for broadcast use. However, an FM station licensed for twelve or fewer segments (300 kHz total bandwidth) or an AM station licensed for eight or fewer segments (200 kHz total bandwidth) may lease excess capacity for broadcast and other uses on a primary basis.
+
+(2) An applicant (new or modification of existing license) may assume the cost of replacement of one or more existing licensees equipment with narrowband equipment of comparable capabilities and quality in order to make available spectrum for its facilities. Existing licensees must accept such replacement without cost to them except upon a showing that the replacement equipment does not meet the capability or quality requirements.
+
+(c) Aural broadcast STL and intercity relay stations that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations in the band 18,760-18,820 and 19,100-19,160 MHz on a shared co-primary basis with other services under parts 21, 25, and 101 of this chapter until June 8, 2010. Prior to June 8, 2010, such stations are subject to relocation by licensees in the fixed-satellite service. Such relocation is subject to the provisions of §§ 101.85 through 101.97 of this chapter. After June 8, 2010, such operations are not entitled to protection from fixed-satellite service operations and must not cause unacceptable interference to fixed-satellite service station operations. No applications for new licenses will be accepted in these bands after June 8, 2000.
+
+(1)(i) 5 MHz maximum authorized bandwidth channels:
+
+|Transmit (receive) (MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------|------------------------------------|
+|   340 MHz Separation   |                                    |
+|        18762.5         |              19102.5               |
+|        18767.5         |              19107.5               |
+|        18772.5         |              19112.5               |
+|        18777.5         |              19117.5               |
+|        18782.5         |              19122.5               |
+|        18787.5         |              19127.5               |
+|        18792.5         |              19132.5               |
+|        18797.5         |              19137.5               |
+|        18802.5         |              19142.5               |
+|        18807.5         |              19147.5               |
+|        18812.5         |              19152.5               |
+|        18817.5         |              19157.5               |
+
+(ii) Licensees may use either a two-way link or one frequency of a frequency pair for a one-way link.
+
+(2) [Reserved]
+
+(d) For the coordination of all frequency assignments for fixed stations above 944 MHz, for each frequency authorized under this part, the interference protection criteria in § 101.105(a), (b), and (c) of this chapter and the frequency usage coordination procedures of § 101.103(d) of this chapter will apply.
+
+(e) The use of the frequencies listed in paragraph (b) of this section by aural broadcast intercity relay stations is subject to the condition that no harmful interference is caused to other classes of stations operating in accordance with the Table of Frequency Allocations contained in § 2.106 of this chapter.
+
+[28 FR 13716, Dec. 14, 1963, as amended at 48 FR 50332, Nov. 1, 1983; 49 FR 37777, Sept. 26, 1984; 50 FR 4658, Feb. 1, 1985; 50 FR 7341, Feb. 22, 1985; 50 FR 34150, Aug. 23, 1985; 50 FR 48600, Nov. 26, 1985; 54 FR 10329, Mar. 13, 1989; 54 FR 24905, June 12, 1989; 54 FR 30043, July 18, 1989; 65 FR 38325, June 20, 2000; 65 FR 54172, Sept. 7, 2000; 68 FR 12766, Mar. 17, 2003; 68 FR 16967, Apr. 8, 2003; 73 FR 25496, May 6, 2008]

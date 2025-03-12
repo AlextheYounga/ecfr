@@ -1,0 +1,5 @@
+##### § 35.109 Consolidated grants. #####
+
+(a) Any applicant eligible to receive funds from more than one environmental program may submit an application for a consolidated grant. For consolidated grants, an applicant prepares a single budget and work plan covering all of the environmental programs included in the application. The consolidated budget must identify each environmental program to be included, the amount of each program's funds, and the extent to which each program's funds support each work plan component. Recipients of consolidated grants must account for grant funds in accordance with the funds' environmental program sources; funds included in a consolidated grant from a particular environmental program may be used only for that program.
+
+(b) Insular areas that choose to consolidate environmental program grants may be exempted by the Regional Administrator from requirements of this subpart in accordance with 48 U.S.C. 1469a.

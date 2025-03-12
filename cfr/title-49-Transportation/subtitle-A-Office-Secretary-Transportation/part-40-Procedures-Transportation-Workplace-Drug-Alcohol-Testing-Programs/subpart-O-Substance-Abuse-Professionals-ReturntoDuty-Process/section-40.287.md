@@ -1,0 +1,3 @@
+##### § 40.287 What information is an employer required to provide concerning SAP services to an employee who has a DOT drug and alcohol regulation violation? #####
+
+As an employer, you must provide to each employee (including an applicant or new employee) who violates a DOT drug and alcohol regulation a listing of SAPs readily available to the employee and acceptable to you, with names, addresses, and telephone numbers. You cannot charge the employee any fee for compiling or providing this list. You may provide this list yourself or through a C/TPA or other service agent.

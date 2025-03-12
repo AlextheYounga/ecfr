@@ -1,0 +1,3 @@
+##### 1332.702-70 Forms. #####
+
+Contracting officers must obtain an electronic or hardcopy procurement request form on which the availability of adequate funds have been certified by a designated certifying officer. This form must have the name of the certifying official and the certified available funds, as well as the technical and other specifications of the request, administrative approvals, clearances, and information for processing payment.

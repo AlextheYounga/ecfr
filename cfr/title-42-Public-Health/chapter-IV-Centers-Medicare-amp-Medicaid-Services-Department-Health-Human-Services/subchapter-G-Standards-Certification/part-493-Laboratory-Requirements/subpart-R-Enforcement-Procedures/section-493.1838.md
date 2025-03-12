@@ -1,0 +1,3 @@
+##### § 493.1838 Training and technical assistance for unsuccessful participation in proficiency testing. #####
+
+If a laboratory's participation in proficiency testing is unsuccessful, CMS may require the laboratory to undertake training of its personnel, or to obtain necessary technical assistance, or both, in order to meet the requirements of the proficiency testing program. This requirement is separate from the principal and alternative sanctions set forth in §§ 493.1806 and 493.1807.

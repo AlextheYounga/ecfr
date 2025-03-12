@@ -1,0 +1,3 @@
+##### § 104.15 Promulgation of standards. #####
+
+Upon consideration of the record, at the time of his final decision the Administrator shall determine whether the proposed effluent standard or standards should be promulgated as proposed, or whether any modification thereof is justified based upon a proponderance of the evidence adduced at the hearing, regardless of whether or not such modification was actually proposed by any objecting party. If he determines that a modification is not justified, he shall promulgate the standard or standards as proposed. If he determines that a modification is justified, he shall promulgate a standard or standards as so modified.

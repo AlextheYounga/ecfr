@@ -1,0 +1,7 @@
+##### § 1039.601 What compliance provisions apply? #####
+
+(a) Engine and equipment manufacturers, as well as owners, operators, and rebuilders of engines subject to the requirements of this part, and all other persons, must observe the provisions of this part, the requirements and prohibitions in 40 CFR part 1068, and the provisions of the Act.
+
+(b) Subpart C of this part describes how to test and certify dual-fuel and flexible-fuel engines. Some multi-fuel engines may not fit either of those defined terms. For such engines, we will determine whether it is most appropriate to treat them as single-fuel engines, dual-fuel engines, or flexible-fuel engines based on the range of possible and expected fuel mixtures. For example, an engine might burn natural gas but initiate combustion with a pilot injection of diesel fuel. If the engine is designed to operate with a single fueling algorithm (*i.e.*, fueling rates are fixed at a given engine speed and load condition), we would generally treat it as a single-fuel engine. In this context, the combination of diesel fuel and natural gas would be its own fuel type. If the engine is designed to also operate on diesel fuel alone, we would generally treat it as a dual-fuel engine. If the engine is designed to operate on varying mixtures of the two fuels, we would generally treat it as a flexible-fuel engine. To the extent that requirements vary for the different fuels or fuel mixtures, we may apply the more stringent requirements.
+
+[81 FR 74137, Oct. 25, 2016, as amended at 86 FR 34505, June 29, 2021]

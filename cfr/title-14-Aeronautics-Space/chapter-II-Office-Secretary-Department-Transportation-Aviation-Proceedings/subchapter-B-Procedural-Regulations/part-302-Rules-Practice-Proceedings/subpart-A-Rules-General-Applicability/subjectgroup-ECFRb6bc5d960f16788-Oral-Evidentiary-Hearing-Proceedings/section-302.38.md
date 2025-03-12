@@ -1,0 +1,3 @@
+##### § 302.38 Final decision of the DOT Decisionmaker. #####
+
+When a case stands submitted to the DOT decisionmaker for final decision on the merits, he or she will dispose of the issues presented by entering an appropriate order that will include a statement of the reasons for his or her findings and conclusions. Such orders shall be deemed “final orders” within the purview of § 302.14(a), in the manner provided by § 302.18.

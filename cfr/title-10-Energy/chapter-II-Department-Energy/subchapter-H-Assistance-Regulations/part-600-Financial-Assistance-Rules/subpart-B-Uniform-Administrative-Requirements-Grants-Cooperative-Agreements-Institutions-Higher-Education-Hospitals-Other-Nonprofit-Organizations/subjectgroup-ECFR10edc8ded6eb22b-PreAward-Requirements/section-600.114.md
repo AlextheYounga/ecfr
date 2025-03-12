@@ -1,0 +1,5 @@
+##### § 600.114 Special award conditions. #####
+
+(a) If an applicant or recipient has a history of poor performance, is not financially stable, has a management system that does not meet the standards prescribed in this subpart, has not conformed to the terms and conditions of a previous award, or is not otherwise responsible, DOE may impose additional requirements as needed, without regard to the deviation provisions of § 600.4. Such applicant or recipient will be notified in writing as to the nature of the additional requirements, the reason why the additional requirements are being imposed, the nature of the corrective action needed, and the time allowed for completing the corrective actions. Reconsideration of the additional requirements may be requested at any time. Any special conditions shall be promptly removed once the conditions that prompted them have been corrected.
+
+(b) A recipient may place a special restrictive condition, as specified in paragraph (a) of this section, in a subaward. In any such case, the recipient must notify DOE in writing within 15 days of the subaward. DOE shall decide whether to notify OMB and other interested parties.

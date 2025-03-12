@@ -1,0 +1,5 @@
+##### § 20.1001 Purpose. #####
+
+(a) The regulations in this part establish standards for protection against ionizing radiation resulting from activities conducted under licenses issued by the Nuclear Regulatory Commission. These regulations are issued under the Atomic Energy Act of 1954, as amended, and the Energy Reorganization Act of 1974, as amended.
+
+(b) It is the purpose of the regulations in this part to control the receipt, possession, use, transfer, and disposal of licensed material by any licensee in such a manner that the total dose to an individual (including doses resulting from licensed and unlicensed radioactive material and from radiation sources other than background radiation) does not exceed the standards for protection against radiation prescribed in the regulations in this part. However, nothing in this part shall be construed as limiting actions that may be necessary to protect health and safety.

@@ -1,0 +1,3 @@
+##### § 302.30 Briefs to the administrative law judge. #####
+
+Within such limited time after the close of the reception of evidence fixed by the administrative law judge, any party may, upon request and under such conditions as the administrative law judge may prescribe, file for his or her consideration briefs which may include proposed findings of fact and conclusions of law that shall contain exact references to the record and authorities relied upon.

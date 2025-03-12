@@ -1,0 +1,31 @@
+##### § 1004.11 Handling information of a private business, foreign government, or an international organization. #####
+
+(a) Whenever a document submitted to DOE contains information which may be exempt from public disclosure, it will be handled in accordance with the procedures in this section. While DOE is responsible for making the final determination with regard to the disclosure or nondisclosure of information contained in requested documents, DOE will consider the submitter's views (as that term is defined in this section) in making its determination. Nothing in this section will preclude the submission of a submitter's views at the time of the submission of the document to which the views relate, or at any other time.
+
+(b) When the DOE may determine, in the course of responding to a FOIA request, not to release information submitted to the DOE (as described in paragraph (a) of this section, and contained in a requested document) without seeking any or further submitter's views, no notice will be given the submitter.
+
+(c) When the DOE, in the course of responding to a FOIA request, cannot make the determination described in paragraph (b) of this section without having for consideration the submitter's views, the submitter shall be promptly notified and provided an opportunity to submit his views on whether information contained in the requested document (1) is exempt from the mandatory public disclosure requirements of the FOIA Act, (2) contains information referred to in 18 U.S.C. 1905, or (3) is otherwise exempt by law from public disclosure. The DOE will make its own determinations as to whether any information is exempt from disclosure. Notice of a determination by the DOE that a claim of exemption made pursuant to this paragraph is being denied will be given to a person making such a claim no less than seven (7) calendar days prior to intended public disclosure of the information in question. For purposes of this section, notice is deemed to be given when mailed to the submitter at the submitter's last known address.
+
+(d) When the DOE, in the course of responding to a FOIA request, cannot make the determination described in paragraph (b) of this section and, without recourse to paragraph (c) of this section, previously has received the submitter's views, the DOE will consider such submitter's views and will not be required to obtain additional submitter's views under the procedure described in paragraph (c) of this section. The DOE will make its own determination with regard to any claim that information be exempted from disclosure. Notice of the DOE's determination to deny a claim of exemption made pursuant to this paragraph will be given to a person making such a claim no less than seven (7) calendar days prior to its intended public disclosure.
+
+(e) Notwithstanding any other provision of this section, DOE offices may require a person submitting documents containing information that may be exempt by law from mandatory disclosure to (1) submit copies of each document from which information claimed to be confidential has been deleted or (2) require that the submitter's views be otherwise made known at the time of the submission. Notice of a determination by the DOE that a claim of exemption is being denied will be given to a person making such a claim no less than seven (7) calendar days prior to intended public disclosure of the information in question. For purposes of this section, notice is deemed to be given when mailed to the submitter at the submitter's last known address.
+
+(f) *Criteria for determining the applicability of 5 U.S.C. 552(b)(4).* Subject to subsequent decisions of the Appeal Authority, criteria to be applied in determining whether information is exempt from mandatory disclosure pursuant to Exemption 4 of the Freedom of Information Act include:
+
+(1) Whether the information has been held in confidence by the person to whom it pertains;
+
+(2) Whether the information is of a type customarily held in confidence by the person to whom it pertains and whether there is a reasonable basis therefore;
+
+(3) Whether the information was transmitted to and received by the Department in confidence;
+
+(4) Whether the information is available in public sources;
+
+(5) Whether disclosure of the information is likely to impair the Government's ability to obtain similar information in the future; and
+
+(6) Whether disclosure of the information is likely to cause substantial harm to the competitive position of the person from whom the information was obtained.
+
+(g) When DOE, in the course of responding to a Freedom of Information Act request, determines that information exempt from the mandatory public disclosure requirements of the Freedom of Information Act is to be released in accordance with § 1004.1, DOE will notify the submitter of the intended discretionary release no less than seven (7) calendar days prior to the intended public disclosure of the information in question.
+
+(h) As used in this section, the term *submitter's views* means, with regard to a document submitted to the DOE, an item-by-item indication, with accompanying explanation, addressing whether the submitter considers the information contained in the document to be exempt from the mandatory public disclosure requirements of the Freedom of Information Act, to be information referred to in 18 U.S.C. 1905, or to be otherwise exempt by law from mandatory public disclosure. The accompanying explanation shall specify the justification for nondisclosure of any information under consideration. If the submitter states that the information comes within the exemption in 5 U.S.C. 552(b)(4) for trade secrets and commercial or financial information, the submitter shall include a statement specifying why such information is privileged or confidential and, where appropriate, shall address the criteria in paragraph (f) of this section excluding paragraph (f)(5). In all cases, the submitter shall address the question of whether or not discretionary disclosure would be in the public interest.
+
+[53 FR 15661, May 3, 1988, as amended at 79 FR 22858, 22859, Apr. 25, 2014; 81 FR 94922, Dec. 27, 2016]

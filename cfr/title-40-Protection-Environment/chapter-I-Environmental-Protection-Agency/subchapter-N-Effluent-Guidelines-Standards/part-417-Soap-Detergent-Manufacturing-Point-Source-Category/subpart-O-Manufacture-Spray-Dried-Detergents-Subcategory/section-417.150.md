@@ -1,0 +1,3 @@
+##### § 417.150 Applicability; description of the manufacture of spray dried detergents subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from all operations associated with the manufacture of spray dried detergents, including but not limited to assembly and storage of raw materials, crutching, spray drying, blending (including tumble spraying of additives) and packaging.

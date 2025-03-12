@@ -1,0 +1,3 @@
+##### § 950.30 General. #####
+
+The parties, i.e., the sponsor and the Department, shall include provisions in the Standby Support Contract that specify the procedures set forth in this subpart for the resolution of disputes under a Standby Support Contract. Sections 950.31 and 950.32 address disputes involving covered events; §§ 950.33 and 950.34 address disputes involving covered costs; and §§ 950.36 and 950.37 address disputes involving other contract matters.

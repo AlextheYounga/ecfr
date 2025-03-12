@@ -1,0 +1,19 @@
+##### § 614.4125 Funding and discount relationships between Farm Credit Banks or agricultural credit banks and direct lender associations. #####
+
+(a) A Farm Credit Bank or agricultural credit bank shall not advance funds to, or discount loans for, any direct lender association except pursuant to a general financing agreement. Each general financing agreement must require that the amount of financing available to a direct lender association not be based on loans that are ineligible under the Act and the regulations in this chapter. If financing under a general financing agreement is based on a loan that FCA determines is ineligible under the Act and the regulations in this chapter, then the amount of financing available must be recalculated without that ineligible loan.
+
+(b) The Farm Credit Bank or agricultural credit bank shall deliver a copy of the executed general financing agreement and all related documents, such as a promissory note or security agreement, and all amendments of any of these documents, within 10 business days after any such document or amendment is executed, to the Chief Examiner, Farm Credit Administration, or to the Farm Credit Administration office that the Chief Examiner designates.
+
+(c) The general financing agreement shall address only those matters that are reasonably related to the debtor/creditor relationship between the Farm Credit Bank or agricultural credit bank and the direct lender association.
+
+(d) The total credit extended to a direct lender association, through direct loan or discounts, shall be consistent with the Farm Credit Bank's or agricultural credit bank's lending policies and loan underwriting standards and the creditworthiness of the direct lender association. The general financing agreement or promissory note shall establish a maximum credit limit determined by objective standards as established by the Farm Credit Bank or agricultural credit bank.
+
+(e) A Farm Credit Bank or agricultural credit bank that provides notice to a direct lender association that it is in material default of any covenant, term, or condition of the general financing agreement, promissory note, security agreement, or other related documents simultaneously shall provide written notification to the Chief Examiner, Farm Credit Administration, or to the Farm Credit Administration office that the Chief Examiner designates and the Director, Risk Management, Farm Credit System Insurance Corporation.
+
+(f) A direct lender association shall provide written notification to the Chief Examiner, Farm Credit Administration, or to the Farm Credit Administration office that the Chief Examiner designates, and the Director, Risk Management, Farm Credit System Insurance Corporation immediately upon receipt of a notice that it is in material default under any general financing agreement, loan agreement, promissory note, security agreement, or other related documents with a Farm Credit Bank, agricultural credit bank or non-Farm Credit institution.
+
+(g) A Farm Credit Bank or agricultural credit bank shall obtain prior written consent of the Farm Credit Administration before it takes any action that leads to or could lead to the liquidation of a direct lender association.
+
+(h) No direct lender association shall obtain financing from any party unless the parties agree to the requirements of this paragraph. No Farm Credit Bank, agricultural credit bank, or other party shall petition any Federal or State court to appoint a conservator, receiver, liquidation agent, or other administrator to manage the affairs of or liquidate a direct lender association.
+
+[63 FR 5724, Feb. 4, 1998, as amended at 69 FR 43514, July 21, 2004]

@@ -1,0 +1,3 @@
+##### § 1103.26 Discussion of pending litigation in the public press. #####
+
+Attempts to influence the action and attitude of the members and administrative law judges of the Board through propaganda or through colored or distorted articles in the public press, should be avoided. However, it is not against the public interest or unfair to the Board if the facts of pending litigation are made known to the public through the press in a fair and unbiased manner and in dispassionate terms. When the circumstances of a particular case appear to justify a statement to the public through the press, it is unethical to make it anonymously.

@@ -1,0 +1,9 @@
+##### 315.305 Proposal evaluation. #####
+
+(c) *Use of non-Federal evaluators.* (1) Except when peer review is required by statute as provided in 315.303-70(a), decisions to disclose proposals to non-Federal evaluators shall be made by the official responsible for appointing Source Selection Evaluation Team members in accordance with OPDIV procedures. The avoidance of organizational and personal conflicts of interest must be taken into consideration when making the decision to use non-Federal evaluators.
+
+(2) When a solicited proposal will be disclosed outside the Government to a contractor or a contractor employee for evaluation purposes, the following or similar conditions shall be part of the written agreement with the contractor prior to disclosure:
+
+CONDITIONS FOR EVALUATING PROPOSALS
+
+The contractor agrees that it and its employees, as well as any subcontractors and their employees (in these conditions, “evaluator”) will use the data (trade secrets, business data, and technical data) contained in the proposal for evaluation purposes only. The foregoing requirement does not apply to data obtained from another source without restriction. Any notice or legend placed on the proposal by either HHS or the offeror shall be applied to any reproduction or abstract provided to the evaluator or made by the evaluator. Upon completion of the evaluation, the evaluator shall return to the Government the furnished copy of the proposal or abstract, and all copies thereof, to the HHS office which initially furnished the proposal for evaluation. The evaluator shall not contact the offeror concerning any aspects of a proposal's contents.

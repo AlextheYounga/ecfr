@@ -1,0 +1,3 @@
+##### 22.1002-2 Wage determinations based on prevailing rates. #####
+
+Contractors performing on service contracts in excess of $2,500 to which no predecessor contractor's collective bargaining agreement applies shall pay their employees at least the wages and fringe benefits found by the Department of Labor to prevail in the locality or, in the absence of a wage determination, the minimum wage set forth in the Fair Labor Standards Act.

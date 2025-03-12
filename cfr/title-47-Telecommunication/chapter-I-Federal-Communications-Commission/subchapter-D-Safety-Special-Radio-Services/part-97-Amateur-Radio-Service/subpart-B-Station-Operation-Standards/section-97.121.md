@@ -1,0 +1,5 @@
+##### § 97.121 Restricted operation. #####
+
+(a) If the operation of an amateur station causes general interference to the reception of transmissions from stations operating in the domestic broadcast service when receivers of good engineering design, including adequate selectivity characteristics, are used to receive such transmissions, and this fact is made known to the amateur station licensee, the amateur station shall not be operated during the hours from 8 p.m. to 10:30 p.m., local time, and on Sunday for the additional period from 10:30 a.m. until 1 p.m., local time, upon the frequency or frequencies used when the interference is created.
+
+(b) In general, such steps as may be necessary to minimize interference to stations operating in other services may be required after investigation by the FCC.

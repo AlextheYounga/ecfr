@@ -1,0 +1,3 @@
+##### § 375.41 Agricultural and industrial operations within the United States. #####
+
+Foreign civil aircraft shall not be used for such commercial air operations as crop dusting, pest control, pipeline patrol, mapping, surveying, banner towing, skywriting or similar agricultural or industrial operations within the United States, including its territorial waters and overlying airspace, unless a permit has been issued by the Department and the operation is conducted in accordance with all applicable State and local laws and regulations as well as the applicable provisions of this part.

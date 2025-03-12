@@ -1,0 +1,3 @@
+##### § 493.1230 Condition: General laboratory systems. #####
+
+Each laboratory that performs nonwaived testing must meet the applicable general laboratory systems requirements in §§ 493.1231 through 493.1236, unless HHS approves a procedure, specified in Appendix C of the State Operations Manual (CMS Pub. 7), that provides equivalent quality testing. The laboratory must monitor and evaluate the overall quality of the general laboratory systems and correct identified problems as specified in § 493.1239 for each specialty and subspecialty of testing performed.

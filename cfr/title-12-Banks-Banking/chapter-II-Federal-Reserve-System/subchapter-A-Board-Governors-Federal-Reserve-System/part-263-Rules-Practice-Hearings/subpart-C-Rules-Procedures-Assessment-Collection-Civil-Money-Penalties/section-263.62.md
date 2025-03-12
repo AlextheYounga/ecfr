@@ -1,0 +1,3 @@
+##### § 263.62 Relevant considerations for assessment of civil penalty. #####
+
+In determining the amount of the penalty to be assessed, the Board shall take into account the appropriateness of the penalty with respect to the financial resources and good faith of the person charged, the gravity of the misconduct, the history of previous misconduct, the economic benefit derived by the person from the misconduct, and such other matters as justice may require.

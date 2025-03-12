@@ -1,0 +1,3 @@
+##### § 76.1201 Rights of subscribers to use or attach navigation devices. #####
+
+No multichannel video programming distributor shall prevent the connection or use of navigation devices to or with its multichannel video programming system, except in those circumstances where electronic or physical harm would be caused by the attachment or operation of such devices or such devices may be used to assist or are intended or designed to assist in the unauthorized receipt of service.

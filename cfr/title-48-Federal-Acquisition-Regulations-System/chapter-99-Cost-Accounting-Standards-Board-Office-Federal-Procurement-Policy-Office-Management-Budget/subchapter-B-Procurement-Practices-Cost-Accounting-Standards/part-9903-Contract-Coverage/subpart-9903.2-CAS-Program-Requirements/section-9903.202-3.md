@@ -1,0 +1,3 @@
+##### 9903.202-3 Amendments and revisions. #####
+
+Contractors and subcontractors are responsible for maintaining accurate Disclosure Statements and complying with disclosed practices. Amendments and revisions to Disclosure Statements may be submitted at any time and may be proposed by either the contractor or the Government. Resubmission of complete, updated, Disclosure Statements is discouraged except when extensive changes require it to assist the review process.

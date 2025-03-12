@@ -1,0 +1,3 @@
+##### § 825.10 Referral of record. #####
+
+Upon receipt of a notice of appeal, the Commandant shall immediately transmit to the Board the complete record of the hearing upon which his decision was based. This includes the charges, the transcript of testimony, and hearing proceedings (including exhibits), briefs filed by the party, the decision of the administrative law judge, and the Commandant's decision on appeal. It does not include intra-agency staff memoranda provided as advice to the Commandant to aid in his decision.

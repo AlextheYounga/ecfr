@@ -1,0 +1,5 @@
+##### 232.904 Determining payment due dates. #####
+
+(d) In most cases, Government acceptance or approval can occur within the 7-day constructive acceptance period specified in the FAR Prompt Payment clauses. Government payment of construction progress payments can, in most cases, be made within the 14-day period allowed by the Prompt Payment for Construction Contracts clause. While the contracting officer may specify a longer period because the period specified in the contract is not reasonable or practical, such change should be coordinated with the Government offices responsible for acceptance or approval and for payment. Reasons for specifying a longer period include but are not limited to: the nature of the work or supplies or services, inspection or testing requirements, shipping and acceptance terms, and resources available at the acceptance activity. A constructive acceptance period of less than the cited 7 or 14 days is not authorized.
+
+[70 FR 75413, Dec. 20, 2005]

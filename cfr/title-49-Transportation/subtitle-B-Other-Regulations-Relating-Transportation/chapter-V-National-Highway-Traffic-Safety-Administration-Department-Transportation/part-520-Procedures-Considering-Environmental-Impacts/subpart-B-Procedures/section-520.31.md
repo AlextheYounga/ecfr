@@ -1,0 +1,3 @@
+##### § 520.31 Amendments or supplements. #####
+
+A draft or final environmental impact statement may be amended or supplemented. Supplements or amendments should be considered when substantial changes are made in the proposed or ongoing action that will introduce a new or changed environmental effect of significance to the quality of the environment, or significant new information becomes available concerning its environmental aspects. In such cases, the supplement or amendment shall be processed in consultation with TES with respect to the need for, or desirability of, recirculating the statement for the appropriate period. TES concurrence must be secured before issuance.

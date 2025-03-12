@@ -1,0 +1,3 @@
+##### § 93.337 Requirements for operating in the DC SFRA. #####
+
+A pilot conducting any type of flight operation in the DC SFRA must comply with the restrictions listed in this subpart and all special instructions issued by the FAA in the interest of national security. Those special instructions may be issued in any manner the FAA considers appropriate, including a NOTAM. Additionally, a pilot must comply with all of the applicable requirements of this chapter.

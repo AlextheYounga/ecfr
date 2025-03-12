@@ -1,0 +1,3 @@
+##### § 847.808 Is money in the NAFI retirement fund covering NAFI service that an employee elects to use for immediate retirement under CSRS or FERS, transferred to the Civil Service Retirement and Disability Fund? #####
+
+Money in the NAFI retirement fund covering NAFI service that an employee elects to use for immediate retirement under CSRS or FERS under this subpart cannot be transferred to the Civil Service Retirement and Disability Fund.

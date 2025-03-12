@@ -1,0 +1,13 @@
+##### § 84.135 Half-mask facepieces, full facepieces, hoods, and helmets; fit; minimum requirements. #####
+
+(a) Half-mask facepieces and full facepieces shall be designed and constructed to fit persons with various facial shapes and sizes either:
+
+(1) By providing more than one facepiece size; or
+
+(2) By providing one facepiece size which will fit varying facial shapes and sizes.
+
+(b) Full facepieces shall provide for optional use of corrective spectacles or lenses, which shall not reduce the respiratory protective qualities of the respirator.
+
+(c) Hoods and helmets shall be designed and constructed to fit persons with various head sizes, provide for the optional use of corrective spectacles or lenses, and insure against any restriction of movement by the wearer.
+
+(d) Facepieces, hoods, and helmets shall be designed to prevent eyepiece fogging.

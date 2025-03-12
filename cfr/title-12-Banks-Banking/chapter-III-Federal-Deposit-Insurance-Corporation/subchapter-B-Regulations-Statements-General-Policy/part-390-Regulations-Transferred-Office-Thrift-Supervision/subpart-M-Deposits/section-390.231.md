@@ -1,0 +1,3 @@
+##### § 390.231 What records should I maintain on deposit activities? #####
+
+All State savings associations (“you”) should establish and maintain deposit documentation practices and records that demonstrate that you appropriately administer and monitor deposit-related activities. Your records should adequately evidence ownership, balances, and all transactions involving each account. You may maintain records on deposit activities in any format that is consistent with standard business practices.

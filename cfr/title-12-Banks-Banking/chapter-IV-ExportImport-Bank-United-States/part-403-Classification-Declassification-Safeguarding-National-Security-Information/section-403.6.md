@@ -1,0 +1,3 @@
+##### § 403.6 Systematic review for declassification. #####
+
+Classified information determined by the Archivist of the United States to be of sufficient value to warrant permanent retention will be subject to systematic declassification review by the Archivist in accordance with guidelines provided by the Bank, as originator of the information. These guidelines shall be developed by the Security Officer who is designated by the Bank to assist the Archivist in the review process. The guidelines shall be reviewed every five years or as requested by the Archivist of the United States.

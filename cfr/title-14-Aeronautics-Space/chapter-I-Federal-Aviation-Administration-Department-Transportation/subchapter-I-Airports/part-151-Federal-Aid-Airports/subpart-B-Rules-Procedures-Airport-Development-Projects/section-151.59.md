@@ -1,0 +1,3 @@
+##### § 151.59 Grant payments: Land acquisition. #####
+
+If an approved project includes land acquisition as an item of airport development, the sponsor may, at any time after executing the grant agreement and after title evidence has been approved by the Administrator for the property interest for which payment is requested, apply to the FAA, through the Area Manager, for payment of the United States share of the allowable project costs of the acquisition, including any acquisition that is completed before executing the grant agreement and is part of the airport development included in the project.

@@ -1,0 +1,5 @@
+##### § 300.506 Requirements of procurement. #####
+
+(a) Agencies must follow the Federal procurement laws and the Federal Acquisition Regulation, as applicable, in procuring services from the private sector.
+
+(b) Agencies should make full use of the provisions of the Federal procurement system to make clear that the firm is the legally responsible employer and to specify the obligations the firm will have to meet to provide effective performance including such matters as the types and levels of skills to be provided, deadlines for providing service, liability insurance, and, when necessary, security requirements. The Federal procurement system also requires contractors to comply with affirmative action requirements to employ and advance in employment qualified disabled and Vietnam era veterans as provided in 41 CFR part 60-250, and with public policy programs including equal employment opportunity, handicapped employment, and small businesses.

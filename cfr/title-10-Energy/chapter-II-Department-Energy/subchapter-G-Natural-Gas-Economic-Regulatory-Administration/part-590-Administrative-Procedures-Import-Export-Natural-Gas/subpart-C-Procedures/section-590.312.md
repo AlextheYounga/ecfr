@@ -1,0 +1,9 @@
+##### § 590.312 Oral presentations. #####
+
+(a) Any party may file a motion requesting an opportunity to make an oral presentation of views, arguments, including arguments of counsel, and data on any aspect of the proceeding. The motion shall identify the substantial question of fact, law or policy at issue and demonstrate that it is material and relevant to the merits of the proceeding. The party may submit material supporting the existence of substantial issues. The Assistant Secretary or presiding official ordinarily will grant a party's motion for an oral presentation, if the Assistant Secretary or presiding official determines that a substantial question of fact, law, or policy is at issue in the proceeding and illumination of that question will be aided materially by such an oral presentation.
+
+(b) The Assistant Secretary or presiding official may require parties making oral presentations to file briefs or other documents prior to the oral presentation. The Assistant Secretary or presiding official also may delineate the issues that are to be considered at the oral presentation and place appropriate limitations on the number of intervenors who may participate if two or more intervenors have substantially like interests.
+
+(c) Oral presentations shall be conducted in an informal manner with the Assistant Secretary or the presiding official and other decisional employees presiding as a panel. The panel may question those parties making an oral presentation. Cross-examination by the parties and other more formal procedures used in trial-type hearings will not be available in oral presentations. The oral presentation may be, but need not be, made by legal counsel.
+
+(d) Oral presentations shall be recorded, and the transcript shall be made part of the official record of the proceeding and available to the public.

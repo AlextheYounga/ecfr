@@ -1,0 +1,3 @@
+##### § 457.1209 Requirements that apply to MCO, PIHP, PAHP, PCCM, and PCCM entity contracts involving Indians, Indian health care provider (IHCP), and Indian managed care entities (IMCE). #####
+
+The State must follow, and ensure through its contracts, that each MCO, PIHP, PAHP, PCCM, and PCCM entity follows, the requirements related to Indians, IHCPs, and IMCEs in accordance with the terms of § 438.14 of this chapter.

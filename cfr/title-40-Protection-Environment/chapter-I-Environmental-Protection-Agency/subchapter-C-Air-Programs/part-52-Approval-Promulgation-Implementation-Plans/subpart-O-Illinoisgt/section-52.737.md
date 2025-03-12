@@ -1,0 +1,5 @@
+##### § 52.737 Operating permits. #####
+
+Emission limitation and other provisions contained in operating permits issued by the State in accordance with the provisions of the federally approved permit program shall be the applicable requirements of the federally approved Illinois SIP for the purpose of section 113 of the Clean Air Act and shall be enforceable by USEPA and by any person in the same manner as other requirements of the SIP. USEPA reserves the right to deem an operating permit not federally enforceable. Such a determination will be made according to appropriate procedures, and be based upon the permit, permit approval procedures or permit requirements which do not conform with the operating permit program requirements or the requirements of USEPA's underlying regulations.
+
+[57 FR 59936, Dec. 17, 1992]

@@ -1,0 +1,8 @@
+##### § 35.4060 How much money can my group receive through a TAG? #####
+
+The following table shows how much money your group can receive through a TAG:
+
+|                                                         If your group is . . .                                                         |                                                                                               Then your initial award will . . .                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(a) the first recipient of a TAG at a site or a subsequent recipient at a site where the initial recipient spent the entire award amount|                                                                                                  not exceed $50,000 per site.                                                                                                  |
+|                        (b) a subsequent recipient at a site with remaining funds from an initial $50,000 award                         |be the unspent amount remaining from an initial from the initial award (for example, if the Agency awarded the first recipient $50,000 but that recipient only spent $27,000, then your group's initial award would be $23,000).|

@@ -1,0 +1,3 @@
+##### § 1501.7 Authority and responsibility of the Board. #####
+
+The Board shall have the authority and responsibility to make rules and regulations, not inconsistent with the provisions of Executive Order 10422, as amended, for the execution of its functions and for making available to the Secretary General of the United Nations and the executive heads of other public international organizations certain information concerning United States citizens employed or being considered for employment by the United Nations or other public international organizations of which the United States is a member.

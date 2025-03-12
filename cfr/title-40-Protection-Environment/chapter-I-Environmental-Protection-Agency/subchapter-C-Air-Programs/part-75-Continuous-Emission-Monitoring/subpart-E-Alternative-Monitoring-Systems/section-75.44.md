@@ -1,0 +1,3 @@
+##### § 75.44 Timeliness criteria. #####
+
+To demonstrate timeliness equal to or better than the continuous emission monitoring system, the owner or operator shall demonstrate that the alternative monitoring system can meet the requirements of subparts F and G of this part; can provide a continuous, quality-assured, permanent record of certified emissions data on an hourly basis; and can issue a record of data for the previous day within 24 hours.

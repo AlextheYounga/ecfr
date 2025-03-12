@@ -1,0 +1,3 @@
+##### § 769.11 Who may submit a petition. #####
+
+Any person having an interest which is or may be adversely affected by surface coal mining operations to be conducted on Federal lands may petition the Secretary to have an area designated as unsuitable for all or certain types of surface coal mining operations, or to have an existing designation terminated. This right does not apply to areas set aside from surface coal mining operations under laws other than the Act. For the purpose of this section, a person having an interest which is or may be adversely affected must demonstrate how he or she meets an “injury in fact” test by describing the injury to his or her specific affected interests and demonstrate how he or she is among the injured.

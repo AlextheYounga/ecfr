@@ -1,0 +1,7 @@
+##### § 254.3 Contents of notice. #####
+
+(a) *Violation of permit, standard, regulation, condition, requirement, or order.* Notice regarding an alleged violation of a permit, standard, regulation, condition, requirement, or order which has become effective under this Act shall include sufficient information to permit the recipient to identify the specific permit, standard, regulation, condition, requirement, or order which has allegedly been violated, the activity alleged to constitute a violation, the person or persons responsible for the alleged violation, the date or dates of the violation, and the full name, address, and telephone number of the person giving notice.
+
+(b) *Failure to act.* Notice regarding an alleged failure of the Administrator to perform an act or duty which is not discretionary under the Act shall identify the provisions of the Act which require such act or create such duty, shall describe with reasonable specificity the action taken or not taken by the Administrator which is claimed to constitute a failure to perform the act or duty, and shall state the full name, address, and telephone number of the person giving the notice.
+
+(c) *Identification of counsel.* The notice shall state the name, address, and telephone number of the legal counsel, if any, representing the person giving the notice.

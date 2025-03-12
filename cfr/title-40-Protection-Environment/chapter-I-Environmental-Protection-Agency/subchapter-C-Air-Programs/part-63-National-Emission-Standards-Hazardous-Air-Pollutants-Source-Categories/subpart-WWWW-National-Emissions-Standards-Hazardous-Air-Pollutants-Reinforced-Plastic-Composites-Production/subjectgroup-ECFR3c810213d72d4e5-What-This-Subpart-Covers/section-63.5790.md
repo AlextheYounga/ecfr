@@ -1,0 +1,11 @@
+##### § 63.5790 What parts of my plant does this subpart cover? #####
+
+(a) This subpart applies to each new or existing affected source at reinforced plastic composites production facilities.
+
+(b) The affected source consists of all parts of your facility engaged in the following operations: Open molding, closed molding, centrifugal casting, continuous lamination, continuous casting, polymer casting, pultrusion, sheet molding compound (SMC) manufacturing, bulk molding compound (BMC) manufacturing, mixing, cleaning of equipment used in reinforced plastic composites manufacture, HAP-containing materials storage, and repair operations on parts you also manufacture.
+
+(c) The following operations are specifically excluded from any requirements in this subpart: application of mold sealing and release agents; mold stripping and cleaning; repair of parts that you did not manufacture, including non-routine manufacturing of parts; personal activities that are not part of the manufacturing operations (such as hobby shops on military bases); prepreg materials as defined in § 63.5935; non-gel coat surface coatings; application of putties, polyputties, and adhesives; repair or production materials that do not contain resin or gel coat; research and development operations as defined in section 112(c)(7) of the CAA; polymer casting; and closed molding operations (except for compression/injection molding). Note that the exclusion of certain operations from any requirements applies only to operations specifically listed in this paragraph. The requirements for any co-located operations still apply.
+
+(d) Production resins that must meet military specifications are allowed to meet the organic HAP limit contained in that specification. In order for this exemption to be used, you must supply to the permitting authority the specifications certified as accurate by the military procurement officer, and those specifications must state a requirement for a specific resin, or a specific resin HAP content. Production resins for which this exemption is used must be applied with nonatomizing resin application equipment unless you can demonstrate this is infeasible. You must keep a record of the resins for which you are using this exemption.
+
+[68 FR 19402, Apr. 21, 2003, as amended at 70 FR 50124, Aug. 25, 2005]

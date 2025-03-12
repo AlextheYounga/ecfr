@@ -1,0 +1,5 @@
+##### 1836.213-370 Additive and deductive items. #####
+
+When it appears that funds available for a project may be insufficient for all the desired features of construction, the contracting officer may provide in the invitation for bids for a first or base bid item covering the work generally as specified and one or more additive or deductive bid items progressively adding or omitting specified features of the work in a stated order of priority. In such case, the contracting officer, before the opening of bids, shall record in the contract file the amount of funds available for the project and determine the low bidder and the items to be awarded in accordance with the provision at 1852.236-71, Additive or Deductive Items.
+
+[62 FR 36721, July 9, 1997. Redesignated at 64 FR 5621, Feb. 4, 1999]

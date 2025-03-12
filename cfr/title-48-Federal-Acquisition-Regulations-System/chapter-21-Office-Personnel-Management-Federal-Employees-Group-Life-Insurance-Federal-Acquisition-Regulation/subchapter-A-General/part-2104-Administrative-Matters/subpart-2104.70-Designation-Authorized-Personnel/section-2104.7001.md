@@ -1,0 +1,3 @@
+##### 2104.7001 Designation of authorized personnel. #####
+
+The contractor shall notify the contracting officer in writing of the name(s), title(s), and address(es) of the individual(s) authorized to act on behalf of the contractor regarding a LIFAR Program contract. The notice shall include any restriction(s) upon the authority of the individual(s). Any change to the notice must also be provided to the contracting officer in writing.

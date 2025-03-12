@@ -1,0 +1,3 @@
+##### 6105.506 Reconsideration of Board decision [Rule 506]. #####
+
+A request for reconsideration may be made by the agency or the affected employee. Such requests must be received by the Board within 30 calendar days after the date the decision was issued (or within 60 calendar days after the date the decision was issued, if the agency or the affected employee making the request is located outside the 50 states and the District of Columbia). The request for reconsideration should state the reasons why the Board should consider the request. Mere disagreement with a decision or re-argument of points already made is not a sufficient ground for seeking reconsideration.

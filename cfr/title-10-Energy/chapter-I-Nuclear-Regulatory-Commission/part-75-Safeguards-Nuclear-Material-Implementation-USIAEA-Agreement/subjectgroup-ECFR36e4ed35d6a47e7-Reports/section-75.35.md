@@ -1,0 +1,7 @@
+##### § 75.35 Material status reports. #####
+
+(a) A material status report must be submitted for each physical inventory which is taken as part of the material accounting and control procedures required by § 75.21. The material status report must include a material balance report and a physical inventory report which lists all batches separately and specifies material identification and batch data for each batch. When appropriate, the material status report must be accompanied by a Concise Note. The reports described in this section must be prepared and submitted in accordance with instructions (NUREG/BR-0006, NUREG/BR-0007, and NMMSS Report D-24 “Personal Computer Data Input for NRC Licensees”). Copies of these instructions may be obtained from the U.S. Nuclear Regulatory Commission, Division of Fuel Cycle Safety, Safeguards, and Environmental Review, Washington, DC 20555-0001.
+
+(b) Unless otherwise specified in the license conditions, material status reports shall be dispatched as soon as possible and in any event within thirty (30) days after the start of the physical inventory.
+
+[45 FR 50711, July 31, 1980, as amended at 59 FR 35622, July 13, 1994; 73 FR 78613, Dec. 23, 2008; 79 FR 75741, Dec. 19, 2014]

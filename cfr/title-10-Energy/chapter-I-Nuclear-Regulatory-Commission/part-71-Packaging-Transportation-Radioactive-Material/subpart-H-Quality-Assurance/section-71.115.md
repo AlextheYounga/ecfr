@@ -1,0 +1,7 @@
+##### § 71.115 Control of purchased material, equipment, and services. #####
+
+(a) The licensee, certificate holder, and applicant for a CoC shall establish measures to assure that purchased material, equipment, and services, whether purchased directly or through contractors and subcontractors, conform to the procurement documents. These measures must include provisions, as appropriate, for source evaluation and selection, objective evidence of quality furnished by the contractor or subcontractor, inspection at the contractor or subcontractor source, and examination of products on delivery.
+
+(b) The licensee, certificate holder, and applicant for a CoC shall have available documentary evidence that material and equipment conform to the procurement specifications before installation or use of the material and equipment. The licensee, certificate holder, and applicant for a CoC shall retain, or have available, this documentary evidence for the life of the package to which it applies. The licensee, certificate holder, and applicant for a CoC shall assure that the evidence is sufficient to identify the specific requirements met by the purchased material and equipment.
+
+(c) The licensee, certificate holder, and applicant for a CoC shall assess the effectiveness of the control of quality by contractors and subcontractors at intervals consistent with the importance, complexity, and quantity of the product or services.

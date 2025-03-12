@@ -1,0 +1,5 @@
+##### § 195.9 Outer continental shelf pipelines. #####
+
+Operators of transportation pipelines on the Outer Continental Shelf must identify on all their respective pipelines the specific points at which operating responsibility transfers to a producing operator. For those instances in which the transfer points are not identifiable by a durable marking, each operator will have until September 15, 1998 to identify the transfer points. If it is not practicable to durably mark a transfer point and the transfer point is located above water, the operator must depict the transfer point on a schematic maintained near the transfer point. If a transfer point is located subsea, the operator must identify the transfer point on a schematic which must be maintained at the nearest upstream facility and provided to PHMSA upon request. For those cases in which adjoining operators have not agreed on a transfer point by September 15, 1998 the Regional Director and the MMS Regional Supervisor will make a joint determination of the transfer point.
+
+[Amdt. 195-59, 62 FR 61695, Nov. 19, 1997, as amended at 70 FR 11140, Mar. 8, 2005]

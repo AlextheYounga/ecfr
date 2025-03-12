@@ -1,0 +1,3 @@
+##### § 445.22 Effluent limitations attainable by the application of the best conventional pollutant control technology (BCT). #####
+
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations which represent the application of BCT: Limitations for BOD5, TSS and pH are the same as the corresponding limitations specified in § 445.21.

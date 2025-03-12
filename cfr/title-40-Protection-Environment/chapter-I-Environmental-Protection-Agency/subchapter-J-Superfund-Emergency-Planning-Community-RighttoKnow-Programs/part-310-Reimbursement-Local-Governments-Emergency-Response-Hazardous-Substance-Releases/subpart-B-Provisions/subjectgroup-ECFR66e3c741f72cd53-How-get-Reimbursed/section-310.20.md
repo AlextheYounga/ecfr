@@ -1,0 +1,3 @@
+##### § 310.20 What are my options if EPA denies my request? #####
+
+If we deny your request because you failed to meet a requirement in this regulation, you may request, in writing, that EPA grant an exception. You may also file a request for an exception with your initial application. In your request for an exception, you must state the requirement you cannot comply with and the reasons why EPA should grant an exception. We will grant exceptions only if you establish good cause for the exception and if granting the exception would be consistent with section 123 of CERCLA.

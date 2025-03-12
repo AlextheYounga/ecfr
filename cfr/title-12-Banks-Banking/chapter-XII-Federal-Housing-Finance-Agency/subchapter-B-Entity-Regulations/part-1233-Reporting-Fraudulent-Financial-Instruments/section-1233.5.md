@@ -1,0 +1,3 @@
+##### § 1233.5 Protection from liability for reports. #####
+
+As provided by section 1379E of the Safety and Soundness Act (12 U.S.C. 4642(b)), a regulated entity that, in good faith, submits a report pursuant to this part, and any entity-affiliated party, that, in good faith, submits or requires a person to submit a report pursuant to this part, shall not be liable to any person under any provision of law or regulation, any constitution, law, or regulation of any State or political subdivision of any State, or under any contract or other legally enforceable agreement (including any arbitration agreement) for such report, or for any failure to provide notice of such report to the person who is the subject of such report, or any other persons identified in the report.

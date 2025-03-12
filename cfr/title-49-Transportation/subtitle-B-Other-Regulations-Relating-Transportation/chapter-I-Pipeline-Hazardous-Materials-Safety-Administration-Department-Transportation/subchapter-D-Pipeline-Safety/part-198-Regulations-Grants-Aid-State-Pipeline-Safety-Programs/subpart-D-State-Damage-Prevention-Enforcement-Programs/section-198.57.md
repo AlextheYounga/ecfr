@@ -1,0 +1,3 @@
+##### § 198.57 What is the process PHMSA will use to notify a State that its damage prevention enforcement program appears to be inadequate? #####
+
+PHMSA will issue a notice of inadequacy to the State in accordance with 49 CFR 190.5. The notice will state the basis for PHMSA's determination that the State's damage prevention enforcement program appears inadequate for purposes of this subpart and set forth the State's response options.

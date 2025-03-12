@@ -1,0 +1,3 @@
+##### § 302.209 Procedures for deferral of applications. #####
+
+Within twenty-eight (28) days after the filing of an application under this subpart, the DOT decisionmaker may defer further processing of the application until all of the information necessary to process that application is submitted. The time periods contained in this subpart with respect to the disposition of the application shall not begin to run until the application is complete. In addition, the DOT decisionmaker may defer action on a foreign air carrier permit application for foreign policy reasons.

@@ -1,0 +1,3 @@
+##### § 792.201 Purpose. #####
+
+The purpose of this subpart is to implement section 590(g) of title 40, United States Code, which permits an Executive agency to use appropriated funds to improve the affordability of child care for lower-income employees. The law applies to child care in the United States and in overseas locations. Employees can benefit from reduced child care rates at Federal child care centers, non-Federal child care centers, and in family child care homes.

@@ -1,0 +1,3 @@
+##### § 4001.107 Involvement in System institution board member elections. #####
+
+No covered employee who is able to participate in a System institution board election because of System securities owned by virtue of retaining a pre-existing loan or extension of credit from a System institution in accordance with § 4001.104(b) shall take any part, directly or indirectly, in the nomination or election of a board member of a System institution, other than by exercising the right to vote. In addition, a covered employee shall not make any oral or written statement that may be reasonably construed as intending to influence any vote in such nominations or elections.

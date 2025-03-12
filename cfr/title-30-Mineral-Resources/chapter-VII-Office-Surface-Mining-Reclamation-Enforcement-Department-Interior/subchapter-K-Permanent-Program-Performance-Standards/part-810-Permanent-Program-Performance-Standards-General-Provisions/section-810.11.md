@@ -1,0 +1,3 @@
+##### § 810.11 Applicability. #####
+
+Part 815 applies to all coal exploration conducted under regulatory programs. part 816 applies to all surface mining activities conducted under regulatory programs. Part 817 applies to all underground mining activities conducted under regulatory programs. Parts 818 through 828 apply to certain special categories of surface coal mining and reclamation operations. Parts 816 and 817 apply to each of those special categories of operations, except to the extent that a provision of parts 818 through 828 specifically exempts a particular category from a particular requirement of part 816 or part 817.

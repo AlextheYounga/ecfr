@@ -1,0 +1,3 @@
+##### § 1312.33 Responsibility. #####
+
+All requests for the mandatory declassification review of classified information in OMB files should be addressed to the Associate Director (or Assistant Director) for Administration, who will acknowledge receipt of the request. When a request does not reasonably describe the information sought, the requester shall be notified that unless additional information is provided, or the scope of the request is narrowed, no further action will be taken. All requests will receive a response within 180 days of receipt of the request.

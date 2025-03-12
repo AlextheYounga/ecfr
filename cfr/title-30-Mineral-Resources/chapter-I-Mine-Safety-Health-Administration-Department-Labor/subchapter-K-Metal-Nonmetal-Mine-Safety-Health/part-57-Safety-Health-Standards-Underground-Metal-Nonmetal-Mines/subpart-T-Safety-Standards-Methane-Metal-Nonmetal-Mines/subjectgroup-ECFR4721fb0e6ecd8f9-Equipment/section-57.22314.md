@@ -1,0 +1,3 @@
+##### § 57.22314 Flow-control devices (V-A and V-B mines). #####
+
+Oil recovery drill holes that penetrate oil bearing formations shall have devices to control the release of liquid hydrocarbons and hazardous gases during the drilling process. Such devices may be recovered for reuse after the formation has been depressurized or the well or borehole has been capped or connected to a collection system.

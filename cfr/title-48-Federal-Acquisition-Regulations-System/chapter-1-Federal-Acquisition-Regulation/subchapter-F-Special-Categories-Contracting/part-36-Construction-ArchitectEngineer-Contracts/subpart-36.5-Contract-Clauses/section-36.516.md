@@ -1,0 +1,3 @@
+##### 36.516 Quantity surveys. #####
+
+The contracting officer may insert the clause at 52.236-16, Quantity Surveys, in solicitations and contracts when a fixed-price construction contract providing for unit pricing of items and for payment based on quantity surveys is contemplated. If it is determined at a level above that of the contracting officer that it is impracticable for Government personnel to perform the original and final surveys, and the Government wishes the contractor to perform these surveys, the clause shall be used with its Alternate.

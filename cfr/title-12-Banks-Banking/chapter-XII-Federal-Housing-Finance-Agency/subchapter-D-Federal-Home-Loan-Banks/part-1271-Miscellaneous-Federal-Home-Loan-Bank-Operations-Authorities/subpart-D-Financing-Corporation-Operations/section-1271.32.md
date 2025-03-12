@@ -1,0 +1,3 @@
+##### § 1271.32 Authority to establish investment policies and procedures. #####
+
+The Directorate shall have authority to establish investment policies and procedures with respect to Financing Corporation funds provided that the investment policies and procedures are consistent with the requirements of section 21(g) of the Bank Act (12 U.S.C. 1441(g)). The Directorate shall promptly notify FHFA in writing of any changes to the investment policies and procedures.

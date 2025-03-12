@@ -1,0 +1,3 @@
+##### § 950.20 General provisions. #####
+
+The parties shall include provisions in the Standby Support Contract to specify the procedures and conditions set forth in this subpart for the submission of claims and the payment of covered costs under the Standby Support Contract. A sponsor is required to establish that there is a covered event, a covered delay and a covered cost; the Department is required to establish an exclusion in accordance with § 950.14(b).

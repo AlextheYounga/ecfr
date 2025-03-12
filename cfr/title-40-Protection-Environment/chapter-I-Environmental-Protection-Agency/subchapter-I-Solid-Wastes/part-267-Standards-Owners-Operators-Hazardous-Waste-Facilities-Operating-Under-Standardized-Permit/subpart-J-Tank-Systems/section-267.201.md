@@ -1,0 +1,3 @@
+##### § 267.201 What must I do when I stop operating the tank system? #####
+
+When you close a tank system, you must remove or decontaminate all waste residues, contaminated containment system components (liners, etc.), contaminated soils, and structures and equipment contaminated with waste, and manage them as hazardous waste, unless 40 CFR 261.3(d) applies. The closure plan, closure activities, cost estimates for closure, and financial responsibility for tank systems must meet all of the requirements specified in subparts G and H of this part.

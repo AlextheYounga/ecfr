@@ -1,0 +1,3 @@
+##### § 93.214 Institutional member. #####
+
+*Institutional member* or *members* means a person who is employed by, is an agent of, or is affiliated by contract or agreement with an institution. Institutional members may include, but are not limited to, officials, tenured and untenured faculty, teaching and support staff, researchers, research coordinators, clinical technicians, postdoctoral and other fellows, students, volunteers, agents, and contractors, subcontractors, and subawardees, and their employees.

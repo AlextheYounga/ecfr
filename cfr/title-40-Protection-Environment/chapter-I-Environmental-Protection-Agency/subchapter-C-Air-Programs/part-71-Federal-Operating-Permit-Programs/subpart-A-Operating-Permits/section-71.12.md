@@ -1,0 +1,3 @@
+##### § 71.12 Prohibited acts. #####
+
+Violations of any applicable requirement; any permit term or condition; any fee or filing requirement; any duty to allow or carry out inspection, entry, or monitoring activities; or any regulation or order issued by the permitting authority pursuant to this part are violations of the Act and are subject to full Federal enforcement authorities available under the Act.

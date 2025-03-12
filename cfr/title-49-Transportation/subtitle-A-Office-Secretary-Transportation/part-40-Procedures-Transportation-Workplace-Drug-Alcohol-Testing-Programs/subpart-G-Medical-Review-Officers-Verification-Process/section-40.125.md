@@ -1,0 +1,3 @@
+##### § 40.125 What relationship may an MRO have with a laboratory? #####
+
+As an MRO, you may not enter into any relationship with an employer's laboratory that creates a conflict of interest or the appearance of a conflict of interest with your responsibilities to that employer. You may not derive any financial benefit by having an employer use a specific laboratory. For examples of relationships between laboratories and MROs that the Department views as creating a conflict of interest or the appearance of such a conflict, see § 40.101(b).

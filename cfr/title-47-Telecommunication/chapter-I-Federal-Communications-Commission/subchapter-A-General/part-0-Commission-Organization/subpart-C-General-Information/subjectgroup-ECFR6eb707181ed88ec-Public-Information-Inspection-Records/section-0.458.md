@@ -1,0 +1,3 @@
+##### § 0.458 Nonpublic information. #####
+
+Any person regulated by or practicing before the Commission coming into possession of written nonpublic information (including written material transmitted in electronic form) as described in § 19.735-203(a) of this chapter under circumstances where it appears that its release was inadvertent or otherwise unauthorized shall be obligated to and shall promptly return the information to the Commission's Office of Inspector General without further distribution or use. See 47 CFR 19.735-203.

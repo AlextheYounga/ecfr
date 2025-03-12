@@ -1,0 +1,93 @@
+##### § 156.212 Personal protective equipment statements. #####
+
+(a) *Requirement.* Each product shall bear the personal protective equipment statements prescribed in paragraphs (d) through (j) of this section.
+
+(b) *Exceptions.* (1) If personal protective equipment were required for a product before the effective date of this subpart, the existing requirements shall be retained on the labeling wherever they are more specific or more protective (as specified in EPA guidance materials) than the requirements in the table in paragraph (e) of this section.
+
+(2) Any existing labeling statement that prohibits the use of gloves or boots overrides the corresponding requirement in paragraph (e) of this section and must be retained on the labeling.
+
+(3) If the product labeling contains uses that are not covered by part 170 of this chapter, the registrant may adopt the personal protective equipment required in this section for those uses. However, if the personal protective equipment required in this section would not be sufficiently protective or would be onerously overprotective for uses not covered by part 170 of this chapter, the registrant must continue to apply the existing personal protective equipment requirements to those uses. The labeling must indicate which personal protective equipment requirements apply to uses covered by part 170 of this chapter and which personal protective equipment requirements apply to other uses.
+
+(c) *Location of personal protective equipment statements*—(1) *Personal protective equipment statements for pesticide handlers.* Personal protective equipment statements for pesticide handlers shall be in the HAZARDS TO HUMANS (AND DOMESTIC ANIMALS) section of the labeling. The required statements may be combined to avoid redundancy as long as the requirements and conditions under which they apply are identified.
+
+(2) Personal protective equipment statements for early-entry workers. Personal protective equipment statements for early-entry workers shall be placed in the DIRECTIONS FOR USE section of the labeling under the heading AGRICULTURAL USE REQUIREMENTS and immediately after the restricted-entry statement required in § 156.208(a).
+
+(d) *Personal protective equipment statements for pesticide handlers.* (1) The table in paragraph (e) of this section specifies minimum requirements for personal protective equipment (as defined in § 170.240 of this chapter) and work clothing for pesticide handlers. This personal protective equipment requirement applies to any product that presents a hazard through any route of exposure identified in the table (acute dermal toxicity, skin irritation potential, acute inhalation toxicity, and eye irritation potential).
+
+(2) The requirement for personal protective equipment is based on the acute toxicity category of the end-use product for each route of exposure as defined by § 156.62. If data to determine the acute dermal toxicity or the acute inhalation toxicity are not obtainable, the acute oral toxicity shall be used as a surrogate to determine the personal protective equipment requirements for that route of exposure. If data to determine the acute toxicity of the product by a specific route of exposure (including acute oral toxicity in lieu of acute dermal or acute inhalation toxicity) are not obtainable, the toxicity category corresponding to the signal word of the end-use product shall be used to determine personal protective equipment requirements for that route of exposure. If the signal word is “CAUTION,” toxicity category III will be used.
+
+(3) The minimum personal protective equipment and work clothing requirements specified in this section shall be included in a statement such as the following: “Applicators and other handlers must wear: (body protection statement); (glove statement, if applicable); (footwear statement, if applicable); (protective eyewear statement, if applicable); (respirator statement, if applicable).” The format of statements given in this paragraph is optional, but it is recommended for clarity.
+
+(e) *Summary of personal protective equipment requirements.* The following table 1 summarizes the personal protective equipment requirements by route of exposure and toxicity category:
+
+|                                                                            Route of Exposure                                                                             |        Toxicity Category of End-Use Product         |                                                       |                                      |                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|--------------------------------------|---------------------------------|
+|                                                                                    I                                                                                     |                         II                          |                          III                          |                  IV                  |                                 |
+|                                                        Dermal Toxicity or Skin Irritation Potential <sup>1</sup>                                                         |Coveralls worn over long-sleeved shirt and long pants|Coveralls worn over short-sleeved shirt and short pants|  Long-sleeved shirt and long pants   |Long-sleeved shirt and long pants|
+|                                                                                                                                                                          |                        Socks                        |                         Socks                         |                Socks                 |              Socks              |
+|                                                                                                                                                                          |             Chemical-resistant footwear             |              Chemical-resistant footwear              |                Shoes                 |              Shoes              |
+|                                                                                                                                                                          |       Chemical-resistant gloves <sup>2</sup>        |        Chemical-resistant gloves <sup>2</sup>         |Chemical-resistant gloves <sup>2</sup>|     No minimum <sup>4</sup>     |
+|                                                                           Inhalation Toxicity                                                                            |     Respiratory protection device <sup>3</sup>      |      Respiratory protection device <sup>3</sup>       |       No minimum <sup>4</sup>        |     No minimum <sup>4</sup>     |
+|                                                                         Eye Irritation Potential                                                                         |                 Protective eyewear                  |                  Protective eyewear                   |       No minimum <sup>4</sup>        |     No minimum <sup>4</sup>     |
+|<sup>1</sup> If dermal toxicity and skin irritation potential are in different toxicity categories, protection shall be based on the more toxic (lower numbered) category.|                                                     |                                                       |                                      |                                 |
+|                                   <sup>2</sup> For labeling language for chemical-resistant gloves, see paragraph (f) of this section.                                   |                                                     |                                                       |                                      |                                 |
+|                            <sup>3</sup> For labeling language for respiratory protection device, see paragraphs (g) and (h) of this section.                             |                                                     |                                                       |                                      |                                 |
+|<sup>4</sup> Although no minimum PPE is required by this section for this toxicity category and route of exposure, the Agency may require PPE on a product-specific basis.|                                                     |                                                       |                                      |                                 |
+
+(f) *Chemical-resistant gloves labeling statements for pesticide handlers.* If the table in paragraph (e) of this section indicates that chemical-resistant gloves are required, the glove statement shall be as specified in paragraph (f)(2), (3), (4), or (5) of this section.
+
+(1) *Exception.* The registrant shall specify a glove type other than that selected through the criteria in paragraphs (f)(2) through (5) of this section if information available to the registrant indicates that such a glove type is more appropriate or more protective than the glove type specified in this section. The statement must specify the particular types of chemical-resistant glove (such as nitrile, butyl, neoprene, and/or barrier-laminate).
+
+(2) *Solid formulations.* For products formulated and applied as solids or formulated as solids and diluted solely with water for application, the glove statement shall specify: “waterproof gloves.”
+
+(3) *Aqueous-based formulations.* For products formulated and applied as a water-based liquid or formulated as a water-based liquid and diluted solely with water for application, the glove statement may specify: “waterproof gloves” instead of the statement in paragraph (f)(4) of this section.
+
+(4) *Other liquid formulations.* For products formulated or diluted with liquids other than water, the glove statement shall specify: “chemical-resistant (such as nitrile or butyl) gloves.”
+
+(5) *Gaseous formulations and applications.* For products formulated or applied as gases, any existing glove statement established before the effective date of this subpart, including any glove prohibition statement, will continue to apply. If no glove statement or glove prohibition now exists, the glove statement shall specify “chemical-resistant (such as nitrile or butyl) gloves.”
+
+(g) *Existing respirator requirement for pesticide handlers on product labeling*—(1) *General requirement.* If a statement placed on a product's labeling before the effective date of this subpart indicates that respiratory protection is required, that requirement for protection shall be retained. The statement must specify, or be amended to specify, one of the following respirator types and the appropriate MSHA/NIOSH approval number prefix:
+
+(i) Dust/mist filtering respirator with MSHA/NIOSH/ approval number prefix TC-21C; or
+
+(ii) Respirator with an organic-vapor-removing cartridge and a prefilter approved for pesticides with MSHA/NIOSH approval number prefix TC-23C or with a canister approved for pesticides with MSHA/NIOSH approval number prefix TC-14G; or
+
+(iii) Supplied-air respirator with MSHA/NIOSH approval number prefix TC-19C or self-contained breathing apparatus (SCBA) with MSHA/NIOSH approval number TC-13F.
+
+(2) *Respirator type already specified on labeling.* If the existing respiratory protection requirement specifies a respirator type, it shall be retained. The respirator statement must be revised, if necessary, to conform to the wording in paragraph (g)(1) of this section.
+
+(3) *Respirator type not already specified on labeling.* If the existing respiratory protection requirement on product labeling does not specify a respirator type as listed in paragraph (g)(1) of this section, the specific respirator type shall be that required in the criteria in paragraphs (g)(3)(ii) through (vi) of this section.
+
+(i) *Exception.* The registrant shall specify a different type of respiratory protection device if information, such as vapor pressure value, is available to the registrant to indicate that the type of respiratory protection device selected through the criteria in paragraphs (g)(3)(ii) through (vi) of this section would not be adequately protective, or might increase risks to the user unnecessarily.
+
+(ii) *Gases applied outdoors.* For products that are formulated or applied as a gas (space and soil fumigants) and that may be used outdoors, the respiratory protection statement shall be: “For handling activities outdoors, use either a respirator with an organic-vapor-removing cartridge with a prefilter approved for pesticides (MSHA/NIOSH approval number prefix TC-23C), or a canister approved for pesticides (MSHA/NIOSH approval number prefix TC-14G).”
+
+(iii) *Gases used in enclosed areas.* For products that are formulated or applied as a gas (space and soil fumigants) and that may be used in greenhouses or other enclosed areas, the respiratory protection statement shall specify: “For handling activities in enclosed areas, use either a supplied-air respirator with MSHA/NIOSH approval number prefix TC-19C, or a self-contained breathing apparatus (SCBA) with MSHA/NIOSH approval number TC-13F.”
+
+(iv) *Solids.* For products that are formulated and applied as solids, the respiratory protection statement shall specify: “dust/mist filtering respirator (MSHA/NIOSH approval number prefix TC-21C).”
+
+(v) *Liquids in toxicity category I.* For products that are formulated or applied as liquids, and, as formulated, have an acute inhalation toxicity (or its surrogate as specified in paragraph (d)(2) of this section) in category I, the respiratory protection statement shall specify: “either a respirator with an organic-vapor-removing cartridge with a prefilter approved for pesticides (MSHA/NIOSH approval number prefix TC-23C), or a canister approved for pesticides (MSHA/NIOSH approval number prefix 14G).”
+
+(vi) *Liquids in toxicity category II.* For products that are formulated or applied as liquids, and, as formulated, have an acute inhalation toxicity (or its surrogate as specified in paragraph (d)(2) of this section) in category II, the respiratory protection statement shall specify: “For handling activities during (select uses applicable to the product: airblast, mistblower, pressure greater than 40 p.s.i. with fine droplets, smoke, mist, fog, aerosol or direct overhead) exposures, wear either a respirator with an organic-vapor-removing cartridge with a prefilter approved for pesticides (MSHA/NIOSH approval number prefix TC-23C), or a canister approved for pesticides (MSHA/NIOSH approval number prefix 14G). For all other exposures, wear a dust/mist filtering respirator (MSHA/NIOSH approval number prefix TC-21C).”
+
+(h) *New respirator requirement established for pesticide handlers in this part*—(1) *General requirement.* If the table in paragraph (e) of this section indicates a respiratory protection device is required, and existing product labeling has no respiratory protection requirement, the registrant shall add a respiratory protection statement that specifies a: “dust/mist filtering respirator (MSHA/NIOSH approval number prefix TC-21C).”
+
+(2) *Exception.* The registrant shall specify a different type of respiratory protection device if information, such as vapor pressure value, is available to the registrant to indicate that the type of respiratory protection device required in paragraph (h)(1) of this section would not be adequately protective or might increase risks to the user unnecessarily.
+
+(i) *Additional personal protective equipment requirements for pesticide handlers.* In addition to the minimum personal protective equipment and work clothing requirements given in the table in paragraph (e) of this section, the labeling statement for any product in toxicity category I or II on the basis of dermal toxicity or skin irritation potential (or their surrogate as specified in paragraph (d)(2) of this section), shall include the following personal protective equipment instructions, additions, or substitutions as applicable:
+
+(1) If the product is not ready-to-use and there is no existing requirement for a chemical-resistant suit, the following statement shall be included: “Mixers/Loaders: add a chemical-resistant apron.”
+
+(2) If the application of the product may result in overhead exposure to any handler (for example, applicator exposure during airblast spraying of orchards or flagger exposure during aerial application), the following statement shall be included: “Overhead Exposure: wear chemical-resistant headgear.”
+
+(3) If any type of equipment other than the product container may be used to mix, load, or apply the product, and there is no requirement for a chemical-resistant protective suit, the following statement shall be included: “For Cleaning Equipment: add a chemical-resistant apron.”
+
+(j) *Personal protective equipment for early-entry workers.* This paragraph specifies minimum requirements for personal protective equipment (as defined in § 170.240 of this chapter) and work clothing for early-entry workers.
+
+(1) For all pesticide products, add the statement: “For early entry to treated areas that is permitted under the Worker Protection Standard and that involves contact with anything that has been treated, such as plants, soil, or water, wear: (list the body protection, glove, footwear, protective eyewear, and protective headgear, if applicable, statements specified for applicators and other handlers, but omit any respiratory protection statement).”
+
+(2) If the body protection statement in the personal protective equipment requirement for handlers specifies a long-sleeved shirt and long pants, “coveralls” must be specified in the statement of personal protective equipment for early-entry workers.
+
+(3) If there is no statement requiring gloves and no prohibition against gloves for applicators and other handlers under the heading HAZARDS TO HUMANS (AND DOMESTIC ANIMALS) in the labeling, add a requirement for “waterproof gloves” in the statement of personal protective equipment for early-entry workers.
+
+[57 FR 38146, Aug. 21, 1992, as amended at 58 FR 34203, June 23, 1993; 73 FR 75596, Dec. 12, 2008]

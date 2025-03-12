@@ -1,0 +1,3 @@
+##### § 950.109 Avoidance of conflict of interest. #####
+
+Any Federal employee who serves on the LFCC, or as a Federal agency fundraising program employee, shall not serve in any official capacity or participate in any decisions where, because of membership on the board or other affiliation with a charitable organization, there could be or appear to be a conflict of interest under any statute, regulation, Executive order, or applicable agency standards of conduct.

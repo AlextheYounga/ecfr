@@ -1,0 +1,5 @@
+##### § 15.1 Purpose and effective dates. #####
+
+This part sets forth the requirements for approval of explosives and sheathed explosive units to be used in underground coal mines and certain underground metal and nonmetal gassy mines and is effective January 17, 1989. Those manufacturers proceeding under the provisions of the previous regulation may file requests for approval or extension of approval of explosives under that regulation until January 17, 1990. After January 17, 1990, all requests for approval or extension of approval of explosives or sheathed explosive units shall be made in accordance with Subpart A and the applicable subpart of this part. Explosives issued an approval under regulations in place prior to January 17, 1989, and in compliance with those regulations, may continue to be manufactured and marked as approved as long as no change to the explosive is made.
+
+[53 FR 46761, Nov. 18, 1988; 54 FR 351, Jan. 5, 1989]

@@ -1,0 +1,3 @@
+##### § 1209.71 Definitions. #####
+
+*Practice before FHFA* for the purposes of subpart D of this part, includes, but is not limited to, transacting any business with FHFA as counsel of record, representative, or agent for any other person, unless the Director orders otherwise. Practice before FHFA also includes the preparation of any statement, opinion, or other paper by a counsel, representative or agent that is filed with FHFA in any certification, notification, application, report, or other document, with the consent of such counsel, representative, or agent. Practice before FHFA does not include work prepared for a regulated entity or entity-affiliated party solely at the request of such party for use in the ordinary course of its business.

@@ -1,0 +1,3 @@
+##### § 240.200-1 Requirement. #####
+
+In consultation with the responsible agencies, the owner/operator shall determine what wastes shall be accepted and shall identify any special handling required. In general, only wastes for which the facility has been specifically designed shall be accepted; however, other wastes may be accepted if it has been demonstrated to the responsible agency that they can be satisfactorily processed within the design capability of the facility or after appropriate facility modifications.

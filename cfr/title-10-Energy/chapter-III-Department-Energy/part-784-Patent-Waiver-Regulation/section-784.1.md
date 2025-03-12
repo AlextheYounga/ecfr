@@ -1,0 +1,5 @@
+##### § 784.1 Scope and applicability. #####
+
+(a) This part states the policy and establishes the procedures, terms and conditions governing waiver of the Government's rights in inventions made under contracts, grants, agreements, understandings or other arrangements with the Department of Energy (DOE).
+
+(b) This part applies to all inventions conceived or first actually reduced to practice in the course of or under any contract, grant, agreement, understanding, or other arrangement with or for the benefit of DOE (including any subcontract, subgrant, or subagreement), the patent rights disposition of which is governed by section 152 of the Atomic Energy Act of 1954, 42 U.S.C. 2182, or section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974, 42 U.S.C. 5908. In funding agreements with nonprofit organizations or small business firms, when title or other rights are reserved to the Government under the authority of 35 U.S.C. 202(a), this part will apply to any waiver of such rights. The patent waiver provisions in this part supersede the patent waiver regulations previously included with patent regulations at 41 CFR part 9-9.100.

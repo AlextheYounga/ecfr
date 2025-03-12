@@ -1,0 +1,5 @@
+##### § 1304.109 Requests for correction of records. #####
+
+(a) *Correction requests.* Any person is entitled to request correction of his or her record(s) covered under the Act. The request must be made in writing and should be addressed to Privacy Act Officer; U.S. Nuclear Waste Technical Review Board; 2300 Clarendon Blvd., Suite 1300; Arlington, VA 22201. The letter should clearly identify the corrections desired. In most circumstances, an edited copy of the record will be acceptable for this purpose.
+
+(b) *Initial response.* Receipt of a correction request will be acknowledged by the Privacy Act Officer in writing within 5 working days. The Privacy Act Officer will endeavor to provide a letter to the requester within 20 working days stating whether the request for correction has been granted or denied. If the Privacy Act Officer denies any part of the correction request, the reasons for the denial will be provided to the requester.

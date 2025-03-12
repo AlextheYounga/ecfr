@@ -1,0 +1,9 @@
+##### § 305.24 Default order. #####
+
+(a) *Default.* A party may be found to be in default: after motion, upon failure of the Claims Official to file a timely answer to the Request for a Hearing; after motion or *sua sponte,* upon failure to comply with a prehearing or hearing order of the Presiding Officer; or after motion or *sua sponte,* upon failure to appear at a conference or hearing without good cause being shown. No finding of default on the basis of failure to appear at a hearing shall be made against the Claims Official unless the Requestor presents sufficient evidence to the Presiding Officer to establish a prima facie case in support of his claim. Any motion for a default order shall include a proposed default order and shall be served upon all parties. The alleged defaulting party shall have 10 days from service to reply to the motion. Default by the Claims Official constitutes, for purposes of the pending action only, an admission of all facts alleged in the claim and a waiver of his right to a hearing on such factual allegations. Default by the Requestor may result in the dismissal of the Request for a Hearing with prejudice.
+
+(b) *Procedures upon default.* When the Presiding Officer finds a default has occurred, he shall issue a default order against the defaulting party. The default order shall constitute the final order in the proceeding, and shall be filed with the Hearing Clerk.
+
+(c) *Contents of a default order.* A default order shall include findings of fact showing the grounds for the order; conclusions regarding all material issues of law; costs to be assessed pursuant to § 305.36, if applicable; and, the amount to be awarded the claimant, if any.
+
+(d) *Setting aside a default order.* For good cause shown, the Presiding Officer may set aside a default order.

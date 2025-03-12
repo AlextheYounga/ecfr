@@ -1,0 +1,3 @@
+##### § 91.1433 CAMP: Maintenance and preventive maintenance training program. #####
+
+Each program manager who maintains program aircraft under a CAMP or a person performing maintenance or preventive maintenance functions for it must have a training program to ensure that each person (including inspection personnel) who determines the adequacy of work done is fully informed about procedures and techniques and new equipment in use and is competent to perform that person's duties.

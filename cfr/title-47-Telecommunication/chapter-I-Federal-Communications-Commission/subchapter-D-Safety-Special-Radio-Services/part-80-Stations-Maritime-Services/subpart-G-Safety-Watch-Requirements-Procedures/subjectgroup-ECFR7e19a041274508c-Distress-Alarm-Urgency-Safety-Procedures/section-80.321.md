@@ -1,0 +1,5 @@
+##### § 80.321 Acknowledgement of receipt of distress message. #####
+
+(a) Stations of the maritime mobile service which receive a distress message from a mobile station which is beyond any possible doubt in their vicinity must immediately acknowledge receipt. However, in areas where reliable communication with one or more coast stations is practicable, ship stations may defer this acknowledgement for a short interval so that a coast station may acknowledge receipt.
+
+(b) Stations of the maritime mobile service which receive a distress message from a mobile station which beyond any possible doubt is not in their vicinity, must allow a short interval of time to elapse before acknowledging receipt of the message in order to permit stations nearer to the mobile station in distress to acknowledge receipt without interference.

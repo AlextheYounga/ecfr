@@ -1,0 +1,3 @@
+##### § 57.14105 Procedures during repairs or maintenance. #####
+
+Repairs or maintenance on machinery or equipment shall be performed only after the power is off, and the machinery or equipment blocked against hazardous motion. Machinery or equipment motion or activation is permitted to the extent that adjustments or testing cannot be performed without motion or activation, provided that persons are effectively protected from hazardous motion.

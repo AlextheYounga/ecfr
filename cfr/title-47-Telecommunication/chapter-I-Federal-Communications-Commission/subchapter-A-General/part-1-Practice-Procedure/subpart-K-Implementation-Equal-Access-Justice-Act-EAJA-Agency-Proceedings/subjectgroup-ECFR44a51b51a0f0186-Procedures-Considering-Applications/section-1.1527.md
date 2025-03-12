@@ -1,0 +1,5 @@
+##### § 1.1527 Decision. #####
+
+The Administrative Law Judge shall issue an initial decision on the application as soon as possible after completion of proceedings on the application. The decision shall include written findings and conclusions regarding the applicant's eligibility and whether the applicant was a prevailing party or whether the demand by the agency or agencies in the proceeding was substantially in excess of, and was unreasonable when compared with, the decision in the adversary adjudication, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the Commission's position substantially justified, whether the applicant unduly protracted the proceedings, committed a willful violation of law, or otherwise acted in bad faith, or whether special circumstances make an award unjust. If the applicant has sought an award against more than one agency, the decision shall allocate responsibility for payment of any award made among the agencies, and shall explain the reasons for the allocation made.
+
+[61 FR 39900, July 31, 1996]

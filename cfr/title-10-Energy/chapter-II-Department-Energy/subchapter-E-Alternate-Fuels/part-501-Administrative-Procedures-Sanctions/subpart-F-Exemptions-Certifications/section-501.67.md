@@ -1,0 +1,3 @@
+##### § 501.67 Petition redesignations. #####
+
+OFE, with the petitioner's approval, will redesignate an exemption petition if the petitioner qualifies for an exemption other than the one originally requested, even though he may not qualify for the specific exemption originally requested, or be entitled to the full exemption period provided by requested exemption. OFE shall give public notice of any redesignation of an exemption petition, and where a public hearing has been requested notice shall be given at least thirty (30) days prior to such hearing.

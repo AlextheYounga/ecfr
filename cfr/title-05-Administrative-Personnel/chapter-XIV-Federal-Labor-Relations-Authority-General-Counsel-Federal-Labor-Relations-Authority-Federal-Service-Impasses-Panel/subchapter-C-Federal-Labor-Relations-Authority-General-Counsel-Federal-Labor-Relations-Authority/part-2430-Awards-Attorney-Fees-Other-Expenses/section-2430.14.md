@@ -1,0 +1,3 @@
+##### § 2430.14 Payment of award. #####
+
+To obtain payment of an award made by the Authority the applicant shall submit to the Executive Director of the Authority a copy of the Authority's final decision granting the award, accompanied by a statement that the applicant will not seek court review of the decision. The amount awarded will then be paid unless judicial review of the award, or of the underlying decision, has been sought by the applicant or any other party to the proceeding.

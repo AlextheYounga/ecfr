@@ -1,0 +1,3 @@
+##### § 563b.485 What provision must I include in my new federal charter? #####
+
+If you convert to federal stock form, you must include the following provision in your new charter: “Liquidation Account. Under OTS regulations, the association must establish and maintain a liquidation account for the benefit of its savings account holders as of \_\_\_\_\_. If the association undergoes a complete liquidation, it must comply with OTS regulations with respect to the amount and priorities on liquidation of each of the savings account holder's interests in the liquidation account. A savings account holder's interest in the liquidation account does not entitle the savings account holder to any voting rights.”

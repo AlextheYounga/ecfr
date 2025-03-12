@@ -1,0 +1,3 @@
+##### § 1.1811 Notice. #####
+
+The Commission shall make available to employees, applicants, participants, beneficiaries, and other interested persons information regarding the regulations set forth in this part, and their applicability to the programs or activities conducted by the Commission. The Commission shall make such information available to such persons in such manner as the Section 504 Officer finds necessary to apprise such persons of the protections against discrimination assured them by section 504.

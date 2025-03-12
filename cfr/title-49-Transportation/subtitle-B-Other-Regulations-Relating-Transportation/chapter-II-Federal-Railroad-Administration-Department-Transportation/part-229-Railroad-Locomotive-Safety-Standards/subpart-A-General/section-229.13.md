@@ -1,0 +1,3 @@
+##### § 229.13 Control of locomotives. #####
+
+Except when a locomotive is moved in accordance with § 229.9, whenever two or more locomotives are coupled in remote or multiple control, the propulsion system, the sanders, and the power brake system of each locomotive shall respond to control from the cab of the controlling locomotive. If a dynamic brake or regenerative brake system is in use, that portion of the system in use shall respond to control from the cab of the controlling locomotive.

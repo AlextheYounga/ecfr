@@ -1,0 +1,59 @@
+##### § 97.431 Initial monitoring system certification and recertification procedures. #####
+
+(a) The owner or operator of a CSAPR NOX Annual unit shall be exempt from the initial certification requirements of this section for a monitoring system under § 97.430(a)(1) if the following conditions are met:
+
+(1) The monitoring system has been previously certified in accordance with part 75 of this chapter; and
+
+(2) The applicable quality-assurance and quality-control requirements of § 75.21 of this chapter and appendices B, D, and E to part 75 of this chapter are fully met for the certified monitoring system described in paragraph (a)(1) of this section.
+
+(b) The recertification provisions of this section shall apply to a monitoring system under § 97.430(a)(1) that is exempt from initial certification requirements under paragraph (a) of this section.
+
+(c) If the Administrator has previously approved a petition under § 75.17(a) or (b) of this chapter for apportioning the NOX emission rate measured in a common stack or a petition under § 75.66 of this chapter for an alternative to a requirement in § 75.12 or § 75.17 of this chapter, the designated representative shall resubmit the petition to the Administrator under § 97.435 to determine whether the approval applies under the CSAPR NOX Annual Trading Program.
+
+(d) Except as provided in paragraph (a) of this section, the owner or operator of a CSAPR NOX Annual unit shall comply with the following initial certification and recertification procedures for a continuous monitoring system (*i.e.,* a continuous emission monitoring system and an excepted monitoring system under appendices D and E to part 75 of this chapter) under § 97.430(a)(1). The owner or operator of a unit that qualifies to use the low mass emissions excepted monitoring methodology under § 75.19 of this chapter or that qualifies to use an alternative monitoring system under subpart E of part 75 of this chapter shall comply with the procedures in paragraph (e) or (f) of this section respectively.
+
+(1) *Requirements for initial certification.* The owner or operator shall ensure that each continuous monitoring system under § 97.430(a)(1) (including the automated data acquisition and handling system) successfully completes all of the initial certification testing required under § 75.20 of this chapter by the applicable deadline in § 97.430(b). In addition, whenever the owner or operator installs a monitoring system to meet the requirements of this subpart in a location where no such monitoring system was previously installed, initial certification in accordance with § 75.20 of this chapter is required.
+
+(2) *Requirements for recertification.* Whenever the owner or operator makes a replacement, modification, or change in any certified continuous emission monitoring system under § 97.430(a)(1) that may significantly affect the ability of the system to accurately measure or record NOX mass emissions or heat input rate or to meet the quality-assurance and quality-control requirements of § 75.21 of this chapter or appendix B to part 75 of this chapter, the owner or operator shall recertify the monitoring system in accordance with § 75.20(b) of this chapter. Furthermore, whenever the owner or operator makes a replacement, modification, or change to the flue gas handling system or the unit's operation that may significantly change the stack flow or concentration profile, the owner or operator shall recertify each continuous emission monitoring system whose accuracy is potentially affected by the change, in accordance with § 75.20(b) of this chapter. Examples of changes to a continuous emission monitoring system that require recertification include replacement of the analyzer, complete replacement of an existing continuous emission monitoring system, or change in location or orientation of the sampling probe or site. Any fuel flowmeter system, and any excepted NOX monitoring system under appendix E to part 75 of this chapter, under § 97.430(a)(1) are subject to the recertification requirements in § 75.20(g)(6) of this chapter.
+
+(3) *Approval process for initial certification and recertification.* For initial certification of a continuous monitoring system under § 97.430(a)(1), paragraphs (d)(3)(i) through (v) of this section apply. For recertifications of such monitoring systems, paragraphs (d)(3)(i) through (iv) of this section and the procedures in § 75.20(b)(5) and (g)(7) of this chapter (in lieu of the procedures in paragraph (d)(3)(v) of this section) apply, provided that in applying paragraphs (d)(3)(i) through (iv) of this section, the words “certification” and “initial certification” are replaced by the word “recertification” and the word “certified” is replaced by the word “recertified”.
+
+(i) *Notification of certification.* The designated representative shall submit to the appropriate EPA Regional Office and the Administrator written notice of the dates of certification testing, in accordance with § 97.433.
+
+(ii) *Certification application.* The designated representative shall submit to the Administrator a certification application for each monitoring system. A complete certification application shall include the information specified in § 75.63 of this chapter.
+
+(iii) *Provisional certification date.* The provisional certification date for a monitoring system shall be determined in accordance with § 75.20(a)(3) of this chapter. A provisionally certified monitoring system may be used under the CSAPR NOX Annual Trading Program for a period not to exceed 120 days after receipt by the Administrator of the complete certification application for the monitoring system under paragraph (d)(3)(ii) of this section. Data measured and recorded by the provisionally certified monitoring system, in accordance with the requirements of part 75 of this chapter, will be considered valid quality-assured data (retroactive to the date and time of provisional certification), provided that the Administrator does not invalidate the provisional certification by issuing a notice of disapproval within 120 days of the date of receipt of the complete certification application by the Administrator.
+
+(iv) *Certification application approval process.* The Administrator will issue a written notice of approval or disapproval of the certification application to the owner or operator within 120 days of receipt of the complete certification application under paragraph (d)(3)(ii) of this section. In the event the Administrator does not issue such a notice within such 120-day period, each monitoring system that meets the applicable performance requirements of part 75 of this chapter and is included in the certification application will be deemed certified for use under the CSAPR NOX Annual Trading Program.
+
+(A) *Approval notice.* If the certification application is complete and shows that each monitoring system meets the applicable performance requirements of part 75 of this chapter, then the Administrator will issue a written notice of approval of the certification application within 120 days of receipt.
+
+(B) *Incomplete application notice.* If the certification application is not complete, then the Administrator will issue a written notice of incompleteness that sets a reasonable date by which the designated representative must submit the additional information required to complete the certification application. If the designated representative does not comply with the notice of incompleteness by the specified date, then the Administrator may issue a notice of disapproval under paragraph (d)(3)(iv)(C) of this section.
+
+(C) *Disapproval notice.* If the certification application shows that any monitoring system does not meet the performance requirements of part 75 of this chapter or if the certification application is incomplete and the requirement for disapproval under paragraph (d)(3)(iv)(B) of this section is met, then the Administrator will issue a written notice of disapproval of the certification application. Upon issuance of such notice of disapproval, the provisional certification is invalidated by the Administrator and the data measured and recorded by each uncertified monitoring system shall not be considered valid quality-assured data beginning with the date and hour of provisional certification (as defined under § 75.20(a)(3) of this chapter).
+
+(D) *Audit decertification.* The Administrator may issue a notice of disapproval of the certification status of a monitor in accordance with § 97.432(b).
+
+(v) *Procedures for loss of certification.* If the Administrator issues a notice of disapproval of a certification application under paragraph (d)(3)(iv)(C) of this section or a notice of disapproval of certification status under paragraph (d)(3)(iv)(D) of this section, then:
+
+(A) The owner or operator shall substitute the following values, for each disapproved monitoring system, for each hour of unit operation during the period of invalid data specified under § 75.20(a)(4)(iii), § 75.20(g)(7), or § 75.21(e) of this chapter and continuing until the applicable date and hour specified under § 75.20(a)(5)(i) or (g)(7) of this chapter:
+
+(*1*) For a disapproved NOX emission rate (*i.e.,* NOX-diluent) system, the maximum potential NOX emission rate, as defined in § 72.2 of this chapter.
+
+(*2*) For a disapproved NOX pollutant concentration monitor and disapproved flow monitor, respectively, the maximum potential concentration of NOX and the maximum potential flow rate, as defined in sections 2.1.2.1 and 2.1.4.1 of appendix A to part 75 of this chapter.
+
+(*3*) For a disapproved moisture monitoring system and disapproved diluent gas monitoring system, respectively, the minimum potential moisture percentage and either the maximum potential CO2 concentration or the minimum potential O2 concentration (as applicable), as defined in sections 2.1.5, 2.1.3.1, and 2.1.3.2 of appendix A to part 75 of this chapter.
+
+(*4*) For a disapproved fuel flowmeter system, the maximum potential fuel flow rate, as defined in section 2.4.2.1 of appendix D to part 75 of this chapter.
+
+(*5*) For a disapproved excepted NOX monitoring system under appendix E to part 75 of this chapter, the fuel-specific maximum potential NOX emission rate, as defined in § 72.2 of this chapter.
+
+(B) The designated representative shall submit a notification of certification retest dates and a new certification application in accordance with paragraphs (d)(3)(i) and (ii) of this section.
+
+(C) The owner or operator shall repeat all certification tests or other requirements that were failed by the monitoring system, as indicated in the Administrator's notice of disapproval, no later than 30 unit operating days after the date of issuance of the notice of disapproval.
+
+(e) The owner or operator of a unit qualified to use the low mass emissions (LME) excepted methodology under § 75.19 of this chapter shall meet the applicable certification and recertification requirements in §§ 75.19(a)(2) and 75.20(h) of this chapter. If the owner or operator of such a unit elects to certify a fuel flowmeter system for heat input determination, the owner or operator shall also meet the certification and recertification requirements in § 75.20(g) of this chapter.
+
+(f) The designated representative of each unit for which the owner or operator intends to use an alternative monitoring system approved by the Administrator under subpart E of part 75 of this chapter shall comply with the applicable notification and application procedures of § 75.20(f) of this chapter.
+
+[76 FR 48379, Aug. 8, 2011, as amended at 81 FR 74607, Oct. 26, 2016; 86 FR 23185, Apr. 30, 2021]

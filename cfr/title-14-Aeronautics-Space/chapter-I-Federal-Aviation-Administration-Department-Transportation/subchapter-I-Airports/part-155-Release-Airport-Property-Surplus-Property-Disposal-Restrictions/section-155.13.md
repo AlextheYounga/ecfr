@@ -1,0 +1,5 @@
+##### § 155.13 Determinations by FAA. #####
+
+(a) An FAA office that receives a request for a release under this part, and supporting documents therefore, examines it to determine whether the request meets the requirements of the Act of October 1, 1949 (63 Stat. 700) so far as it concerns the interests of the United States in civil aviation and whether it might prejudice the needs and interests of the armed forces. Upon a determination that the release might prejudice those needs and interests, the Department of Defense is consulted as provided in § 155.9(b).
+
+(b) Upon completing the review, and receiving the advice of the Department of Defense if the case was referred to it, the FAA advises the airport owner as to whether the release or a modification of it, may be granted. If the release, or a modification of it acceptable to the owner, is granted, the FAA prepares the necessary instruments and delivers them to the airport owner.

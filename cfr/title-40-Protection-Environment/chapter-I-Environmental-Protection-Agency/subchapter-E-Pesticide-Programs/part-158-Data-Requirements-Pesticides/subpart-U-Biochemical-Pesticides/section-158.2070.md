@@ -1,0 +1,9 @@
+##### § 158.2070 Biochemical pesticides product performance data requirements. #####
+
+(a) *General.* Product performance data must be developed for all biochemical pesticides. Each applicant must ensure through testing that the product is efficacious when used in accordance with label directions and commonly accepted pest control practices. The Agency may require, on a case-by-case basis, submission of product performance data for any pesticide product registered or proposed for registration or amendment.
+
+(b) *Product performance data for each product that bears a claim against an invertebrate pest that is covered by subpart R of this part.* The product performance data requirements and performance standards of subpart R of this part apply to biochemical products covered by this subpart. Product performance data must be submitted with any application for registration or amended registration. However, data requirements and the performance standards that determine the acceptability of data may be waived or modified on a case-by-case basis pursuant to the waiver provisions in § 158.45 and modification provisions in § 158.1707.
+
+(c) *Product performance data for each product that bears a public health pest claim, excluding those covered under paragraph (b).* Product performance data must be submitted with any application for registration or amended registration, if the product bears a claim to control public health pests, such as pest microorganisms infectious to humans in any area of the inanimate environment, or a claim to control vertebrates, including but not limited to, rodents, birds, bats, canids, and skunks.
+
+[87 FR 22484, Apr. 15, 2022]

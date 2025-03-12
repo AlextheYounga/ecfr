@@ -1,0 +1,3 @@
+##### § 820.30 Post-hearing filings. #####
+
+Within fifteen days after the filing of the transcript of the hearing, or within such longer time as may be fixed by the Presiding Officer, any party may file for the consideration of the Presiding Officer, proposed findings of fact, conclusions of law, and a proposed order, together with briefs in support thereof. Reply briefs may be filed within ten days of the filing of briefs. All filings shall be in writing, shall be served upon all parties, and shall contain adequate references to the record and authorities relied on.

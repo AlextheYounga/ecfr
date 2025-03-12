@@ -1,0 +1,5 @@
+##### 22.1103 Policy, procedures, and solicitation provision. #####
+
+All professional employees shall be compensated fairly and properly. Accordingly, the contracting officer shall insert the provision at 52.222-46, Evaluation of Compensation for Professional Employees, in solicitations for negotiated contracts when the contract amount is expected to exceed $700,000 and services are to be provided which will require meaningful numbers of professional employees. This provision requires that offerors submit for evaluation a total compensation plan setting forth proposed salaries and fringe benefits for professional employees working on the contract. Supporting information will include data, such as recognized national and regional compensation surveys and studies of professional, public and private organizations, used in establishing the total compensation structure. Plans indicating unrealistically low professional employee compensation may be assessed adversely as one of the factors considered in making an award.
+
+[77 FR 75776, Dec. 21, 2012, as amended at 80 FR 38298, July 2, 2015]

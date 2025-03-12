@@ -1,0 +1,9 @@
+##### § 1.177 Issuance of multiple reissue patents. #####
+
+(a) The Office may reissue a patent as multiple reissue patents. If applicant files more than one application for the reissue of a single patent, each such application must contain or be amended to contain in the first sentence of the specification a notice stating that more than one reissue application has been filed and identifying each of the reissue applications by relationship, application number and filing date. The Office may correct by certificate of correction under § 1.322 any reissue patent resulting from an application to which this paragraph applies that does not contain the required notice.
+
+(b) If applicant files more than one application for the reissue of a single patent, each claim of the patent being reissued must be presented in each of the reissue applications as an amended, unamended, or canceled (shown in brackets) claim, with each such claim bearing the same number as in the patent being reissued. The same claim of the patent being reissued may not be presented in its original unamended form for examination in more than one of such multiple reissue applications. The numbering of any added claims in any of the multiple reissue applications must follow the number of the highest numbered original patent claim.
+
+(c) If any one of the several reissue applications by itself fails to correct an error in the original patent as required by 35 U.S.C. 251 but is otherwise in condition for allowance, the Office may suspend action in the allowable application until all issues are resolved as to at least one of the remaining reissue applications. The Office may also merge two or more of the multiple reissue applications into a single reissue application. No reissue application containing only unamended patent claims and not correcting an error in the original patent will be passed to issue by itself.
+
+[65 FR 54676, Sept. 8, 2000]

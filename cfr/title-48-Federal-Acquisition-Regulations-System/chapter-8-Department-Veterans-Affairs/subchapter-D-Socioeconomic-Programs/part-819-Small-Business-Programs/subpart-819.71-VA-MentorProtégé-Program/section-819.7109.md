@@ -1,0 +1,7 @@
+##### 819.7109 VA review of application. #####
+
+(a) VA OSDBU will review the information to establish the mentor and protégé eligibility and to ensure that the information that is in VAAR 819.7108 is included. If the application relates to a specific contract, then OSDBU will consult with the responsible contracting officer on the adequacy of the proposed Agreement, as appropriate. OSDBU will complete its review no later than 30 calendar days after receipt of the application or after consultation with the contracting officer, whichever is later. There is no charge to apply for the Mentor-Protégé Program.
+
+(b) After OSDBU completes its review and provides written approval, the mentor may execute the Agreement and implement the developmental assistance as provided under the Agreement. OSDBU will post a copy of the Mentor-Protégé Agreements to a VA Web site to be accessible to VA contracting officers for review for any VA contracts affected by the Agreement.
+
+(c) If the application is disapproved, the mentor may provide additional information for reconsideration. OSDBU will complete review of any supplemental material no later than 30 days after its receipt. Upon finding deficiencies that VA considers correctable, OSDBU will notify the mentor and protégé and request correction of deficiencies to be provided within 15 days.

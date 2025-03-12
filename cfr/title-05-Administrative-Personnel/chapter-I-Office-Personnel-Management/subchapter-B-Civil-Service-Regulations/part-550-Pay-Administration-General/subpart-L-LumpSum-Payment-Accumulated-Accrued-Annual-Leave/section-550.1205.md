@@ -1,0 +1,45 @@
+##### § 550.1205 Calculating a lump-sum payment. #####
+
+(a) An agency must compute a lump-sum payment based on the types of pay listed in paragraph (b) of this section, as in effect at the time the affected employee becomes eligible for a lump-sum payment under § 550.1203 and any adjustments in pay included in paragraphs (b)(2), (3), and (4) of this section. The agency must calculate a lump-sum payment by multiplying the number of hours of accumulated and accrued annual leave by the applicable hourly rate of pay, including other applicable types of pay listed in paragraph (b) of this section, or by using a mathematically equivalent method, such as multiplying weeks of annual leave by the applicable weekly rate of pay. If the agency calculates a lump-sum payment using weekly rates, the number of weeks of annual leave must be rounded to the fourth decimal place (e.g., 0.4444). The agency must convert an annual rate of pay to an hourly rate of pay by dividing the annual rate of pay by 2,087 (or 2,756 for firefighters, if applicable) and rounding it to the nearest cent, counting one-half cent and over as the next higher cent.
+
+(b) The agency must compute a lump-sum payment using the following types of pay and pay adjustments, as applicable:
+
+(1) An employee's rate of basic pay (as defined in § 550.1202);
+
+(2) Any statutory adjustments in pay or any general system-wide increases in pay, such as adjustments under sections 5303, 5304, 5305, 5318, 5362, 5363, 5372, 5372a, 5376, 5382, or 5392 of title 5, United States Code, that become effective during the lump-sum leave period. The agency must adjust the lump-sum payment to reflect the increased rate on and after the effective date of the pay adjustment.
+
+(3) In the case of a prevailing rate employee, the agency must include in the lump-sum payment the scheduled rate of pay under 5 U.S.C. 5343, 5348, or 5349 and any applicable adjustments in rates that are determined under 5 U.S.C. 5343, 5348, or 5349 that become effective during the lump-sum leave period. The agency must adjust the lump-sum payment to reflect the increased prevailing rate on and after the effective date of the rate adjustment.
+
+(4) A within-grade increase under 5 U.S.C. 5335 or 5343(e)(2) if the employee has met the requirements of § 531.404 or § 532.417 of this chapter prior to the date the employee becomes eligible for a lump-sum payment under § 550.1203.
+
+(5) The following types of premium pay (to the extent such premium pay was actually payable to the employee):
+
+(i) Night differential under 5 U.S.C. 5343(f) at the applicable percentage rate received by a prevailing rate employee for all regularly scheduled periods of night shift duty covered by the unused annual leave as if the employee had continued to work beyond the effective date of separation, death, or transfer. In the case of an employee who is assigned to a regular rotating schedule involving work on both day and night shifts, the night differential is payable for that portion of the lump-sum period that would have occurred when the employee was scheduled to work night shifts.
+
+(ii) Premium pay under 5 U.S.C. 5545(c) or 5545a if the employee was receiving premium pay for the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203. The agency must base the lump-sum payment on the percentage rate received by the employee for the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203. In cases where the amount of premium pay actually payable in the final pay period was limited by a statutory cap, the agency must base the lump-sum payment on a reduced percentage rate that reflects the actual amount of premium pay the employee received in that pay period.
+
+(iii) Overtime pay under 5 U.S.C. 5545b and § 550.1304 of this chapter for overtime hours in an employee's uncommon tour of duty (as defined in § 630.201 of this chapter), established in accordance with § 630.210 of this chapter. The uncommon tour of duty must be applicable to the employee for the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203. The agency must calculate overtime pay using the same methodology it used to calculate the employee's entitlement to overtime pay as provided in § 550.1304 of this chapter in the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203. An agency may not change an employee's work schedule for the sole purpose of avoiding or providing payment of premium pay under § 550.1205(b)(5)(i)-(iv) in a lump-sum payment.
+
+(iv) An overtime supplement for regularly scheduled overtime within a Border Patrol agent's regular tour of duty under 5 U.S.C. 5550, as in effect immediately prior to the date the agent became eligible for a lump-sum payment under § 550.1203. The agency must base the lump-sum payment on the agent's assigned overtime supplement percentage. The assigned percentage will be considered fixed for the duration of the lump-sum annual leave projection period described in § 550.1204, even if an annual period for elections under 5 U.S.C. 5550 begins during that projection period. In cases where the amount of the overtime supplement actually payable in a pay period was limited by a statutory cap, the agency must base the lump-sum payment on a reduced percentage rate that reflects the actual amount of the overtime supplement the agent could receive in a pay period.
+
+(6) Overtime pay under the Fair Labor Standards Act of 1938, as amended (FLSA), for overtime work that is regularly scheduled during an employee's established uncommon tour of duty, as defined in § 630.201(b)(1) of this chapter and established under § 630.210(a) of this chapter, for which the employee receives standby duty pay under 5 U.S.C. 5545(c)(1). The agency must include FLSA overtime pay in a lump-sum payment if an uncommon tour of duty was applicable to the employee for the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203. The agency must calculate FLSA overtime pay using the same methodology it used to calculate the employee's entitlement to FLSA overtime pay for the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203. An agency may not change an employee's work schedule for the sole purpose of avoiding or providing payment of FLSA overtime pay in a lump-sum payment.
+
+(7) A supervisory differential under 5 U.S.C. 5755 based on the percentage rate (or dollar amount) received by the employee for the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203.
+
+(8) A cost-of-living allowance and/or post differential in a nonforeign area under 5 U.S.C. 5941 if the employee's official duty station is in the nonforeign area when he or she becomes eligible for a lump-sum payment under § 550.1203.
+
+(9) A post allowance in a foreign area under 5 U.S.C. 5924(1) and the *Standardized Regulations* (Government Civilians, Foreign Areas) if the employee's official duty station is in the foreign area when he or she becomes eligible for a lump-sum payment under § 550.1203.
+
+(c) The head of an agency must prescribe regulations or standards for the inclusion of any other kinds of pay authorized in statutes other than title 5, United States Code, in a lump-sum payment. Such regulations or standards must be consistent with 5 U.S.C. 5551, 5552, 6306, and other applicable provisions of law.
+
+(d) A lump-sum payment may not include any other pay not specifically listed in paragraph (b) of this section, except as provided in paragraph (c) of this section.
+
+(e) An employee may not earn leave for the period covered by a lump-sum payment.
+
+(f) A lump-sum payment is not subject to deductions for retirement under the Civil Service Retirement System or the Federal Employees' Retirement System established by chapters 83 and 84 of title 5, United States Code, respectively; health benefits under the Federal Employees Health Benefits program established by chapter 89 of title 5, United States Code; life insurance under the Federal Employees' Group Life Insurance program established by chapter 87 of title 5, United States Code; and savings under the Thrift Savings Plan established by subchapter III of chapter 84 of title 5, United States Code.
+
+(g) For a reemployed annuitant who becomes eligible for a lump-sum payment under § 550.1203, the agency must compute the lump-sum payment using the annuitant's pay before any reductions required under § 837.303 of this chapter.
+
+(h) A lump-sum payment is subject to garnishment under parts 581 and 582 of this chapter and to administrative offset (for recovery of debts to the Federal Government) under 31 U.S.C. chapter 37.
+
+[64 FR 36771, July 8, 1999, as amended at 70 FR 31314, May 31, 2005; 72 FR 12036, Mar. 15, 2007; 80 FR 58112, Sept. 25, 2015]

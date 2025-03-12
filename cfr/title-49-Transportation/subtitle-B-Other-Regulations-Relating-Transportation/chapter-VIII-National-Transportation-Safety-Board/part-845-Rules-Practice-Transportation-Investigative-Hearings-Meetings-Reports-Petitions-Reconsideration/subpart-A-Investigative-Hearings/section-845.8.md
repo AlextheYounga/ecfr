@@ -1,0 +1,3 @@
+##### § 845.8 Technical panel. #####
+
+The appropriate office director(s) and/or the hearing officer, in consultation with the NTSB Managing Director, shall determine if a technical panel is needed and, if so, shall designate members of the NTSB technical staff to participate in the investigative hearing. Members of the technical panel may conduct pre-screening of witnesses through interviews, and may take other actions to prepare for the hearing. At the hearing, the technical panel will initially examine the witnesses through questioning. The technical panel shall examine witnesses and secure, in the form of a public record, facts pertaining to the accident or incident under investigation and surrounding circumstances and conditions.

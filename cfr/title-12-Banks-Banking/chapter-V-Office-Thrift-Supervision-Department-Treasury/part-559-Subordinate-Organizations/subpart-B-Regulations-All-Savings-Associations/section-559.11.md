@@ -1,0 +1,5 @@
+##### § 559.11 What notices are required to establish or acquire a new subsidiary or engage in new activities through an existing subsidiary? #####
+
+When required by section 18(m) of the Federal Deposit Insurance Act, a savings association (“you”) must file a notice (“Notice”) under part 516, subpart A of this chapter at least 30 days before establishing or acquiring a subsidiary or engaging in new activities in a subsidiary. The Notice must contain all of the information the Federal Deposit Insurance Corporation (FDIC) requires under 12 CFR 362.15. Providing OTS with a copy of the notice you file with the FDIC will satisfy this requirement. If OTS notifies you within 30 days that the Notice presents supervisory concerns, or raises significant issues of law or policy, you must apply for and receive OTS's prior written approval under the standard treatment processing procedures at part 516, subpart A and E of this chapter before establishing or acquiring the subsidiary or engaging in new activities in the subsidiary.
+
+[61 FR 66571, Dec. 18, 1996, as amended at 64 FR 69185, Dec. 10, 1999; 66 FR 13007, Mar. 2, 2001]

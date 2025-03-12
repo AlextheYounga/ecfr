@@ -1,0 +1,5 @@
+##### § 347.207 Disclosure of supervisory information to foreign supervisors. #####
+
+(a) *Disclosure by the FDIC.* The FDIC may disclose information obtained in the course of exercising its supervisory or examination authority to a foreign bank regulatory or supervisory authority, if the FDIC determines that disclosure is appropriate for bank supervisory or regulatory purposes and will not prejudice the interests of the United States.
+
+(b) *Confidentiality.* Before making any disclosure of information pursuant to paragraph (a) of this section, the FDIC will obtain, to the extent necessary, the agreement of the foreign bank regulatory or supervisory authority to maintain the confidentiality of such information to the extent possible under applicable law. The disclosure or transfer of information to a foreign bank regulatory or supervisory authority under this section will not waive any privilege applicable to the information that is disclosed or transferred.

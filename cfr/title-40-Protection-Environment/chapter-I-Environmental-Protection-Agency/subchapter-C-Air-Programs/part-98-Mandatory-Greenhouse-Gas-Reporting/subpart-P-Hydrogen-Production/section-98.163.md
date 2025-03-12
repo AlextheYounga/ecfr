@@ -1,0 +1,23 @@
+##### § 98.163 Calculating GHG emissions. #####
+
+You must calculate and report the annual CO2 emissions from each hydrogen production process unit using the procedures specified in paragraphs (a) through (c) of this section, as applicable.
+
+(a) *Continuous Emissions Monitoring Systems (CEMS).* Calculate and report under this subpart the CO2 emissions by operating and maintaining CEMS according to the Tier 4 Calculation Methodology specified in § 98.33(a)(4) and all associated requirements for Tier 4 in subpart C of this part (General Stationary Fuel Combustion Sources).
+
+(b) Fuel and feedstock material balance approach. Calculate and report CO2 emissions as the sum of the annual emissions associated with each fuel and feedstock used for each hydrogen production process unit by following paragraphs (b)(1) through (3) of this section. The carbon content and molecular weight shall be obtained from the analyses conducted in accordance with § 98.164(b)(2), (3), or (4), as applicable, or from the missing data procedures in § 98.165. If the analyses are performed annually, then the annual value shall be used as the monthly average. If the analyses are performed more frequently than monthly, use the arithmetic average of values obtained during the month as the monthly average.
+
+(1) *Gaseous fuel and feedstock.* You must calculate the annual CO2 emissions from each gaseous fuel and feedstock according to Equation P-1 of this section:
+
+![](/graphics/er30oc09.060.gif)Where:CO2 = Annual CO2 process emissions arising from fuel and feedstock consumption (metric tons/yr).Fdstkn = Volume or mass of the gaseous fuel or feedstock used in month n (scf (at standard conditions of 68 °F and atmospheric pressure) or kg of fuel or feedstock).CCn = Average carbon content of the gaseous fuel or feedstock for month n (kg carbon per kg of fuel or feedstock).MWn = Average molecular weight of the gaseous fuel or feedstock for month n (kg/kg-mole). If you measure mass, the term “MWn/MVC” is replaced with “1”.MVC = Molar volume conversion factor (849.5 scf per kg-mole at standard conditions).k = Months in the year.44/12 = Ratio of molecular weights, CO2 to carbon. 0.001 = Conversion factor from kg to metric tons.
+
+(2) *Liquid fuel and feedstock.* You must calculate the annual CO2 emissions from each liquid fuel and feedstock according to Equation P-2 of this section:
+
+![](/graphics/er30oc09.061.gif)Where:CO2 = Annual CO2 emissions arising from fuel and feedstock consumption (metric tons/yr).Fdstkn = Volume or mass of the liquid fuel or feedstock used in month n (gallons or kg of fuel or feedstock).CCn = Average carbon content of the liquid fuel or feedstock, for month n (kg carbon per gallon or kg of fuel or feedstock).k = Months in the year.44/12 = Ratio of molecular weights, CO2 to carbon.0.001 = Conversion factor from kg to metric tons.
+
+(3) *Solid fuel and feedstock.* You must calculate the annual CO2 emissions from each solid fuel and feedstock according to Equation P-3 of this section:
+
+![](/graphics/er30oc09.062.gif)Where:CO2 = Annual CO2 emissions from fuel and feedstock consumption (metric tons/yr).Fdstkn = Mass of solid fuel or feedstock used in month n (kg of fuel or feedstock).CCn = Average carbon content of the solid fuel or feedstock, for month n (kg carbon per kg of fuel or feedstock).k = Months in the year.44/12 = Ratio of molecular weights, CO2 to carbon.0.001 = Conversion factor from kg to metric tons.
+
+(c) If GHG emissions from a hydrogen production process unit are vented through the same stack as any combustion unit or process equipment that reports CO2 emissions using a CEMS that complies with the Tier 4 Calculation Methodology in subpart C of this part, then the owner or operator shall report under this subpart the combined stack emissions according to the Tier 4 Calculation Methodology in § 98.33(a)(4) and all associated requirements for Tier 4 in subpart C of this part. If GHG emissions from a hydrogen production process unit using a CEMS that complies with the Tier 4 Calculation Methodology in subpart C of this part does not include combustion emissions from the hydrogen production unit (*i.e.* , the hydrogen production unit has separate stacks for process and combustion emissions), then the calculation methodology in paragraph (b) of this section shall be used considering only fuel inputs to calculate and report CO2 emissions from fuel combustion related to the hydrogen production unit.
+
+[74 FR 56374, Oct. 30, 2009, as amended at 75 FR 66463, Oct. 28, 2010; 75 FR 79157, Dec. 17, 2010; 78 FR 71955, Nov. 29, 2013; 81 FR 89257, Dec. 9, 2016; 89 FR 31926, Apr. 25, 2024]

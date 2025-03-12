@@ -1,0 +1,3 @@
+##### § 66.113 Publications. #####
+
+Publication, distribution, and disposition of all manuscripts and other materials resulting from an Award shall be subject to the conditions that all such materials shall bear appropriate acknowledgement of Department of Health and Human Services support and that the awardee shall furnish copies of these manuscripts or other materials as the Secretary may reasonably request.

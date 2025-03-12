@@ -1,0 +1,37 @@
+##### 1852.235-73 Final Scientific and Technical Reports. #####
+
+As prescribed in 1835.070(d) insert the following clause:
+
+Final Scientific and Technical Reports (DEC 2006)
+
+(a) The Contractor shall submit to the Contracting Officer a final report that summarizes the results of the entire contract, including recommendations and conclusions based on the experience and results obtained. The final report should include tables, graphs, diagrams, curves, sketches, photographs, and drawings in sufficient detail to explain comprehensively the results achieved under the contract.
+
+(b) The final report shall be of a quality suitable for publication and shall follow the formatting and stylistic guidelines contained in NPR 2200.2, Requirements for Documentation, Approval, and Dissemination of NASA Scientific and Technical Information. Electronic formats for submission of reports should be used to the maximum extent practical. Before electronically submitting reports containing scientific and technical information (STI) that is export-controlled or limited or restricted, contact the Contracting Officer to determine the requirements to electronically transmit these forms of STI. If appropriate electronic safeguards are not available at the time of submission, a paper copy or a CD-ROM of the report shall be required. Information regarding appropriate electronic formats for final reports is available at *http://www.sti.nasa.gov* under “Publish STI—Electronic File Formats.”
+
+(c) The last page of the final report shall be a completed Standard Form (SF) 298, Report Documentation Page.
+
+(d) In addition to the final report submitted to the Contracting Officer, the Contractor shall concurrently provide to the Center STI/Publication Manager and the NASA Center for AeroSpace Information (CASI) a copy of the letter transmitting the final report to the Contracting Officer. The copy of the letter shall be submitted to CASI at the address listed at *http://www.sti.nasa.gov* under the “Get Help” link.
+
+(e) In accordance with paragraph (d) of the Rights in Data—General clause (52.227-14) of this contract, the Contractor may publish, or otherwise disseminate, data produced during the reports required by 1852.235-74 when included in the contract, without prior review by NASA. The Contractor is responsible for reviewing publication or dissemination of the data for conformance with laws and regulations governing its distribution, including intellectual property rights, export control, national security and other requirements, and to the extent the contractor receives or is given access to data necessary for the performance of the contract which contain restrictive markings, for complying with such restrictive markings. Should the Contractor seek to publish or otherwise disseminate the final report, or any additional reports required by 1852.235-74 if applicable, as delivered to NASA under this contract, the Contractor may do so once NASA has completed its document availability authorization review, and availability of the report has been determined.
+
+*Alternate I* (FEB 2003) As prescribed by 1835.070(d)(1), insert the following as paragraph (e) of the basic clause:
+
+(e) The data resulting from this research activity is “fundamental research” which will be broadly shared within the scientific community. No foreign national access or dissemination restrictions apply to this research activity. The Contractor may publish, release, or otherwise disseminate data produced during the performance of this contract, including the final report, without prior review by NASA for export control or national security purposes. However, NASA retains the right to review the final report to ensure that proprietary information, which may have been provided to the Contractor, is not released without authorization and for consistency with NASA publication standards. Additionally, the Contractor is responsible for reviewing any publication, release, or dissemination of the data for conformance with other restrictions expressly set forth in this contract, and to the extent it receives or is given access to data necessary for the performance of the contract which contain restrictive markings, for compliance with such restrictive markings.
+
+*Alternate II* (DEC 2005) As prescribed by 1835.070(d)(2), insert the following as paragraph (e) of the basic clause:
+
+(e) Data resulting from this research activity may be subject to export control, national security restrictions or other restrictions designated by NASA; or, to the extent the Contractor receives or is given access to data necessary for the performance of the contract which contain restrictive markings, may include proprietary information of others. Therefore, the Contractor shall not publish, release, or otherwise disseminate, except to NASA, data produced during the performance of this contract, including data contained in the final report and any additional reports required by 1852.235-74 when included in the contract, without prior review by NASA. Should the Contractor seek to publish, release, or otherwise disseminate data produced during the performance of this contract, the Contractor may do so once NASA has completed its document availability authorization review and the availability of the data has been determined.
+
+(f) All publications of any material based on or developed under NASA sponsored projects shall include an acknowledgement similar to the following:
+
+“The material is based upon work supported by the National Aeronautics and Space Administration under Contract Number XXXX.”
+
+Except for articles or papers published in scientific, technical or professional journals, the exposition of results from NASA supported research shall also include the following disclaimer:
+
+“Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Aeronautics and Space Administration.”
+
+*Alternate III* (JAN 2005) As prescribed by 1835.070(d)(3), insert the following as paragraph (e) of the basic clause:
+
+(e) The Contractor's rights in data are defined in FAR 52.227-20, Rights In Data—SBIR Program. The Contractor may publish, or otherwise disseminate, such data without prior review by NASA. The Contractor is responsible for reviewing publication or dissemination of the data for conformance with laws and regulations governing its distribution, including intellectual property rights, export control, national security and other requirements, and to the extent the Contractor receives or is given access to data necessary for the performance of the contract which contain restrictive markings, for complying with such restrictive markings. In the event the Contractor has established its claim to copyright data produced under this contract and has affixed a copyright notice and acknowledgement of Government sponsorship, or has affixed the SBIR Rights Notice contained in paragraph (d) of FAR 52.227-20, the Government shall comply with such Notices.
+
+(End of clause)[68 FR 5232, Feb. 3, 2003, as amended at 70 FR 2022, Jan. 12, 2005; 70 FR 74207, Dec. 15, 2005; 71 FR 71073, Dec. 8, 2006; 81 FR 10520, Mar. 1, 2016]

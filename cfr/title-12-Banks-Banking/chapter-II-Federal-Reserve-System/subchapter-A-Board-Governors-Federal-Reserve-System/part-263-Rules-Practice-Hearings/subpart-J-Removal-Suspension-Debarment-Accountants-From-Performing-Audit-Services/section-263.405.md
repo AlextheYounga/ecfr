@@ -1,0 +1,5 @@
+##### § 263.405 Petition for reinstatement. #####
+
+(a) *Form of petition.* Unless otherwise ordered by the Board, a petition for reinstatement by an independent public accountant, an accounting firm, or an office of a firm that was removed, suspended, or debarred under § 263.402 may be made in writing at any time. The request shall contain a concise statement of the action requested. The Board may require the petitioner to submit additional information.
+
+(b) *Procedure.* A petitioner for reinstatement under this section may, in the sole discretion of the Board, be afforded a hearing. The accountant or firm shall bear the burden of going forward with a petition and proving the grounds asserted in support of the petition. The Board may, in its sole discretion, direct that any reinstatement proceeding be limited to written submissions. The removal, suspension, or debarment shall continue until the Board, for good cause shown, has reinstated the petitioner or until the suspension period has expired. The filing of a petition for reinstatement shall not stay the effectiveness of the removal, suspension, or debarment of an accountant or firm.

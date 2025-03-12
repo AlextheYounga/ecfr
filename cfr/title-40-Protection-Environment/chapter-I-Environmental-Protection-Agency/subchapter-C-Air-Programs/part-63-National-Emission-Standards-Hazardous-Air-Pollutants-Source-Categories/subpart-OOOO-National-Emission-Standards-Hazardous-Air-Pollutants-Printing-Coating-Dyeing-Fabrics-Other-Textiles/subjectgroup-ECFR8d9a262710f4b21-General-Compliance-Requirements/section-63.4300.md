@@ -1,0 +1,23 @@
+##### § 63.4300 What are my general requirements for complying with this subpart? #####
+
+(a) You must be in compliance with the emission limitations in this subpart as specified in paragraphs (a)(1) through (4) of this section.
+
+(1) Any web coating/printing, slashing, or dyeing/finishing operation(s) for which you use the compliant material option, as specified in § 63.4291(a)(1), (b), or (c)(1) must be in compliance with the applicable emission limit in Table 1 to this subpart at all times.
+
+(2) Any web coating/printing or dyeing/finishing operation(s) for which you use the emission rate without add-on controls option, as specified in § 63.4291(a)(2) or (c)(2), must be in compliance with the applicable emission limit in Table 1 to this subpart for all compliance periods.
+
+(3) Any web coating/printing or dyeing/finishing operation(s) for which you use the emission rate with add-on controls option, as specified in § 63.4291(a)(3) or (c)(3), and any web coating/printing operation(s) for which you use either the organic HAP overall control efficiency option, as specified in § 63.4291(a)(4), or the oxidizer outlet organic HAP concentration option, as specified in § 63.4291(a)(5), must be in compliance with the emission limitations as specified in paragraphs (a)(3)(i) through (iii) of this section.
+
+(i) Before September 12, 2019, the web coating/printing or dyeing/finishing operation(s) must be in compliance with the applicable emission limit in Table 1 to this subpart or minimize emissions at all times as required by § 63.6(e)(1). On and after September 12, 2019, the web coating/printing or dyeing/finishing operation(s) must be in compliance with the applicable emission limit in Table 1 to this subpart at all times.
+
+(ii) Each controlled web coating/printing or dyeing/finishing operation must be in compliance with the operating limits for emission capture systems and add-on control devices required by § 63.4292 for all averaging time periods except for solvent recovery systems for which you conduct liquid-liquid material balances according to § 63.4341(e)(5) or (f)(5) or § 63.4351(d)(5).
+
+(iii) Each controlled web coating/printing or dyeing/finishing operation must be in compliance with the work practice standards in § 63.4293 at all times.
+
+(4) Any dyeing/finishing affected source for which you use the equivalent emission rate option, as specified in § 63.4291(c)(4), must operate within the operating scenarios, as defined in § 63.4371, for which you determined the fraction of organic HAP applied in your dyeing/finishing affected source that is discharged to wastewater according to § 63.4331(d) at all times.
+
+(b) Before September 12, 2019, you must always operate and maintain your affected source, including air pollution control and monitoring equipment, according to the provisions in § 63.6(e)(1)(i). On and after September 12, 2019, at all times, the owner or operator must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require the owner or operator to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether a source is operating in compliance with operation and maintenance requirements will be based on information available to the Administrator that may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the affected source.
+
+(c) Before September 12, 2019, if your affected source uses an emission capture system and add-on control device, you must develop a written startup, shutdown, and malfunction plan according to the provisions in § 63.6(e)(3). The plan must address the startup, shutdown, and corrective actions in the event of a malfunction of the emission capture system or the add-on control device. The plan must also address any web coating/printing or dyeing/finishing operation equipment such as conveyors that move the substrate among enclosures that may cause increased emissions or that would affect capture efficiency if the process equipment malfunctions. A startup, shutdown, and malfunction plan is not required on and after September 12, 2019.
+
+[68 FR 32189, May 29, 2003, as amended at 71 FR 20465, Apr. 20, 2006; 84 FR 9623, Mar. 15, 2019]

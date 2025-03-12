@@ -1,0 +1,3 @@
+##### § 82.4 How Will DOL Use the Results of the NIOSH Dose Reconstructions? #####
+
+Under 42 CFR part 81, DOL will apply dose reconstruction results together with information on cancer diagnosis and other personal information provided to DOL by the claimant to calculate an estimated probability of causation. This estimate is the probability that the cancer of the covered employee was caused by radiation exposure at a covered facility of DOE or an Atomic Weapons Employer (AWE).

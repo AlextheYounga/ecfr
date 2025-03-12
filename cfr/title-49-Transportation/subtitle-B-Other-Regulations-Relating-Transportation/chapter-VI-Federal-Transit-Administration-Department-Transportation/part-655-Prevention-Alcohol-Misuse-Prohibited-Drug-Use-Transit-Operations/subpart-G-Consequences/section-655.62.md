@@ -1,0 +1,3 @@
+##### § 655.62 Referral, evaluation, and treatment. #####
+
+If a covered employee has a verified positive drug test result, or has a confirmed alcohol test of 0.04 or greater, or refuses to submit to a drug or alcohol test required by this part, the employer shall advise the employee of the resources available for evaluating and resolving problems associated with prohibited drug use and alcohol misuse, including the names, addresses, and telephone numbers of substance abuse professionals (SAPs) and counseling and treatment programs.

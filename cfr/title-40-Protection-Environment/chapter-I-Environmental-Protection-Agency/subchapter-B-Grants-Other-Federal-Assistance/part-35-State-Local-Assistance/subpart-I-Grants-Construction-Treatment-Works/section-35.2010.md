@@ -1,0 +1,13 @@
+##### § 35.2010 Allotment; reallotment. #####
+
+(a) Allotments are made on a formula or other basis which Congress specifies for each fiscal year (FY). The allotment for each State and the availability period shall be announced each fiscal year in the Federal Register. This section applies only to funds allotted under section 205 of the Act.
+
+(b) Unless otherwise provided by Congress, all sums allotted to a State under section 205 of the Act shall remain available for obligation until the end of the one year after the close of the fiscal year for which the sums were appropriated. Except as provided in § 35.2020(a), sums not obligated at the end of that period shall be subject to reallotment on the basis of the same ratio as applicable to the then-current fiscal year, adjusted for the States which failed to obligate any of the fiscal year funds being reallotted, but none of the funds reallotted shall be made available to any State which failed to obligate any of the fiscal year funds being reallotted. Any sum made available to a State by reallotment under this section shall be in addition to any funds otherwise allotted to such State for grants under this subpart during any fiscal year and the reallotted funds shall remain available for obligation until the last day of the fiscal year following the fiscal year in which the reallotted funds are issued by the Comptroller to the Regional Administrator.
+
+(c) Except for funds appropriated for FY 72 and fiscal years prior to 1972, sums which are deobligated and reissued by the Comptroller to the Regional Administrator before their reallotment date shall be available for obligation in the same State and treated in the same manner as the allotment from which such funds were derived.
+
+(d) Except for funds appropriated for FY 72 and fiscal years prior to 1972, deobligated sums which are reissued by the Comptroller to the Regional Administrator after their reallotment date shall be available for obligation in the same State until the last day of the fiscal year following the fiscal year in which the reissuance occurs.
+
+(e) Deobligated FY 72 and prior to 1972 fiscal year funds, except 1964, 1965 and 1966 funds, will be credited to the allowances of the same Region from which such funds are recovered, and the Regional Administrator may determine how these recoveries are credited to the States within the Region.
+
+[49 FR 6234, Feb. 17, 1984, as amended at 50 FR 45895, Nov. 4, 1985]

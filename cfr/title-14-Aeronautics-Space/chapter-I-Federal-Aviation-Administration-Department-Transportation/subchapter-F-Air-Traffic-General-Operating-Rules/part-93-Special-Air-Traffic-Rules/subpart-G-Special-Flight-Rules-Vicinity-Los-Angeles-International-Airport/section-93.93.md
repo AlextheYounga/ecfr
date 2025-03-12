@@ -1,0 +1,3 @@
+##### § 93.93 Description of area. #####
+
+The Los Angeles Special Flight Rules Area is designated as that part of Area A of the Los Angeles Class B airspace area at 3,500 feet above mean sea level (MSL) and at 4,500 feet MSL, beginning at Ballona Creek/Pacific Ocean (lat. 33°57′42″ N, long. 118°27′23″ W), then eastbound along Manchester Blvd. to the intersection of Manchester/405 Freeway (lat. 33°57′42″ N, long. 118°22′10″ W), then southbound along the 405 Freeway to the intersection of the 405 Freeway/lmperial Highway (lat. 33°55′51″ N, long. 118°22′06″ W), then westbound along Imperial Highway to the intersection of Imperial Highway/Pacific Ocean (lat. 33°55′51″ N, long. 118°26′05″ W), then northbound along the shoreline to the point of beginning.

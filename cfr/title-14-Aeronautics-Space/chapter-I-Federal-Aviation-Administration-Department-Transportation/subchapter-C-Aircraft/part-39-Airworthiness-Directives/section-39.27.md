@@ -1,0 +1,3 @@
+##### § 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based? #####
+
+In some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive.

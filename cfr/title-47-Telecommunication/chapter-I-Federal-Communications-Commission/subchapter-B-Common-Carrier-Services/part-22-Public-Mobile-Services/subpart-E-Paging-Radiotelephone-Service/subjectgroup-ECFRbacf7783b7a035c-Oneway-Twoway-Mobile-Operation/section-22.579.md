@@ -1,0 +1,3 @@
+##### § 22.579 Operation of mobile transmitters across U.S.-Canada border. #####
+
+Mobile stations licensed by Canada may receive two-way service while in the United States from stations licensed under this part, after authorization has been granted by the FCC. Mobile stations that normally operate under the authority of base stations licensed under this part may receive two-way service while in Canada from stations licensed under this part or by Canada, upon authorization by Canada.

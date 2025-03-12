@@ -1,0 +1,11 @@
+##### § 57.807 Hearing. #####
+
+(a) *Composition of hearing panel.* The Presiding Officer shall preside at the hearing held under this subpart. An EPA panel shall also take part in the hearing. In general, the membership of the panel shall consist of EPA employees having special expertise in areas related to the issues to be addressed at the hearing, including economists and engineers. For this reason, the membership of the panel may change as different issues are presented for discussion.
+
+(b) *Additional hearing participants.* Either before or during the hearing, the Presiding Officer, after consultation with the panel, may request that a person not then scheduled to participate in the hearing (including an EPA employee or a person identified by any scheduled hearing participant as having knowledge concerning the issues raised for discussion at the hearing) make a presentation or make himself available for cross-examination at the hearing.
+
+(c) *Questioning of hearing participants.* The panel members may question any person participating in the hearing. Cross-examination by persons other than panel members shall not be permitted at this stage of the proceeding except where the Presiding Officer determines, after consultation with the panel, that circumstances compel such cross-examination. However, persons in the hearing audience, including other hearing participants, may submit written questions to the Presiding Officer for the Presiding Officer to ask the participants, and the Presiding Officer may, after consultation with the panel, and in his sole discretion, ask these questions.
+
+(d) *Submission of additional material.* Participants in the hearing shall submit for the hearing record such additional material as the hearing panel may request within 10 days following the close of the hearing, or such other period of time as is ordered by the Presiding Officer. Participants may also submit additional information for the hearing record on their own accord within 10 days after the close of the hearing.
+
+(e) *Transcript.* A verbatim transcript shall be made of the hearing.

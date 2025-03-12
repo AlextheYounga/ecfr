@@ -1,0 +1,9 @@
+##### § 502.5 Who must pay assessments and fees? #####
+
+(a) *Authority.* Section 9 of the HOLA, 12 U.S.C. 1467, authorizes the Director to charge assessments to recover the costs of examining savings associations and their affiliates, to charge fees to recover the costs of processing applications and other filings, and to charge fees to cover OTS's direct and indirect expenses in regulating savings associations and their affiliates.
+
+(b) *Assessments.* If you are a savings association or a responsible savings and loan holding company, and OTS regulates you on the last day of January or on the last day of July of each year, you must pay a semi-annual assessment due on that day. Subpart A of this part describes OTS's assessment procedures and requirements.
+
+(c) *Fees.* If you make a filing with OTS or use OTS services, the Director may require you to pay a fee to cover the costs of processing your submission or providing those services. The Director may charge a fee for any filing including notices, applications, and securities filings. The Director may charge a fee for any service including publications, seminars, certifications for official copies of agency documents, and records or services requested by other agencies. The Director also assesses fees for examining and investigating savings associations that administer trust assets of $1 billion or less, and savings association affiliates. If OTS incurs extraordinary expenses related to examination, investigation, regulation, or supervision of a savings association or its affiliate, the Director may charge the savings association or the affiliate a fee to fund those expenses. Subpart B of this part describes OTS's fee procedures and requirements.
+
+[63 FR 65670, Nov. 30, 1998, as amended at 67 FR 78151, Dec. 23, 2002; 69 FR 30568, May 28, 2004]

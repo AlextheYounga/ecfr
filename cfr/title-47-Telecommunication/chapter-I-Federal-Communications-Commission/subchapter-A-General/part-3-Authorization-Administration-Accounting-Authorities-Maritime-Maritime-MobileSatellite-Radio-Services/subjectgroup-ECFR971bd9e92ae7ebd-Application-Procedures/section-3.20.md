@@ -1,0 +1,3 @@
+##### § 3.20 Application form. #####
+
+Written application must be made to the Federal Communications Commission on FCC Form 44, “Application For Certification As An Accounting Authority” in order to be considered for certification as an accounting authority. No other application form may be used. No consideration will be given to applicants not submitting applications in accordance with these rules or in accordance with any other instructions the Commission may issue. FCC Form 44 may be obtained from the Commission by writing to the address shown in § 3.61.

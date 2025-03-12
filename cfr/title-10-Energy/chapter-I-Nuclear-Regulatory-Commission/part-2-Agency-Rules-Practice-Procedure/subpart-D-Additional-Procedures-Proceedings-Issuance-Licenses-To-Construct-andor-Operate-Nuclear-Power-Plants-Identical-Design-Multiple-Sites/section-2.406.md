@@ -1,0 +1,3 @@
+##### § 2.406 Finality of decisions on separate issues. #####
+
+Notwithstanding any other provision of this chapter, in a proceeding conducted pursuant to this subpart and appendices N of parts 50 or 52 of this chapter, no matter which has been reserved for consideration in one phase of the hearing shall be considered at another phase of the hearing except on the basis of significant new information that substantially affects the conclusion(s) reached at the other phase or other good cause.

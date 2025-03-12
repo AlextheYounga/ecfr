@@ -1,0 +1,3 @@
+##### § 630.701 Coverage. #####
+
+This subpart applies to an employee as defined in section 6301 of title 5, United States Code, who is regularly assigned to duties aboard an oceangoing vessel. An employee is considered to be regularly assigned when his continuing duties are such that all or a significant part of them require that he serve aboard an oceangoing vessel. Temporary assignments of a shore-based employee, such as for limited work projects or for training, do not constitute a regular assignment.

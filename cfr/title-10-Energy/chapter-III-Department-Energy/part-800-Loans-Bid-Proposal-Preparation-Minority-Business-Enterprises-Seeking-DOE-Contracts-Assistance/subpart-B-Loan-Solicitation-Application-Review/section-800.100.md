@@ -1,0 +1,5 @@
+##### § 800.100 Solicitation of applications. #####
+
+The Secretary will periodically issue an announcement soliciting applications under this regulation. The announcement will be published in the Federal Register, synopsized in the *Commerce Business Daily,* and circulated to minority trade associations and organizations and to the Minority Business Development Agency and Small Business Administration. The announcement will indicate funds availability, eligibility requirements, application instructions, interest rates, maturities and other key loan terms and any applicable restrictions. In such solicitations, DOE shall further indicate that, in the case of applications for loans relating to bids or proposals for contracts with first-tier subcontractors of DOE operating contractors, information necessary to substantiate such applications may be unavailable to DOE from such subcontractors. If the substantiating information is not made available to DOE in a timely manner, the application may be rejected.
+
+[46 FR 44689, Sept. 4, 1981, as amended at 48 FR 17574, Apr. 25, 1983]

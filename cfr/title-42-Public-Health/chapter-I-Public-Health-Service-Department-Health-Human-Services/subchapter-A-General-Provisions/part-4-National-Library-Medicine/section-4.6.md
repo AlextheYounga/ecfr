@@ -1,0 +1,7 @@
+##### § 4.6 Reference, bibliographic, reproduction, and consultation services. #####
+
+(a) *General.* To the extent resources permit, the Library will make available, upon request, reference, bibliographic, reproduction, and consultation services. Priority will be given to requests from health-sciences professionals for services not reasonably available through local or regional libraries.
+
+(b) *Specialized bibliographic services.* The Director may provide bibliographies on individually selected medical or scientific topics upon request where it is consistent with the Library's purpose. The Director may publish and make available for general distribution by the Library, bibliographic searches determined to be of general interest. The Library may also produce and distribute a limited number of bibliographies on topics of general interest to public or nonprofit health-related professional societies, research organizations, and other group users. These bibliographies may be produced on a regularly recurring or intermittent basis under contract between the Library and public or nonprofit agencies, when determined in each case by the Director to be necessary to assure more effective distribution of the bibliographic information.
+
+(c) *Information retrieval system computer tapes.* To the extent Library resources permit and in order to further the Library's purpose, the Director may make available upon request by agencies, organizations, and institutions copies of all or part of the Library's magnetic tapes.

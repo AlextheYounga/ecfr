@@ -1,0 +1,3 @@
+##### § 7.30 General prohibition. #####
+
+No person shall be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving EPA assistance on the basis of race, color, national origin, or on the basis of sex in any program or activity receiving EPA assistance under the Federal Water Pollution Control Act, as amended, including the Environmental Financing Act of 1972.

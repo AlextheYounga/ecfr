@@ -1,0 +1,9 @@
+##### § 61.53 Environmental monitoring. #####
+
+(a) At the time a license application is submitted, the applicant shall have conducted a preoperational monitoring program to provide basic environmental data on the disposal site characteristics. The applicant shall obtain information about the ecology, meteorology, climate, hydrology, geology, geochemistry, and seismology of the disposal site. For those characteristics that are subject to seasonal variation, data must cover at least a twelve month period.
+
+(b) The licensee must have plans for taking corrective measures if migration of radionuclides would indicate that the performance objectives of subpart C may not be met.
+
+(c) During the land disposal facility site construction and operation, the licensee shall maintain a monitoring program. Measurements and observations must be made and recorded to provide data to evaluate the potential health and environmental impacts during both the construction and the operation of the facility and to enable the evaluation of long-term effects and the need for mitigative measures. The monitoring system must be capable of providing early warning of releases of radionuclides from the disposal site before they leave the site boundary.
+
+(d) After the disposal site is closed, the licensee responsible for post-operational surveillance of the disposal site shall maintain a monitoring system based on the operating history and the closure and stabilization of the disposal site. The monitoring system must be capable of providing early warning of releases of radionuclides from the disposal site before they leave the site boundary.

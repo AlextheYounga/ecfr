@@ -1,0 +1,3 @@
+##### § 1.947 Comments by third party requester to patent owner's response in inter partes reexamination. #####
+
+Each time the patent owner files a response to an Office action on the merits pursuant to § 1.945, a third party requester may once file written comments within a period of 30 days from the date of service of the patent owner's response. These comments shall be limited to issues raised by the Office action or the patent owner's response. The time for submitting comments by the third party requester may not be extended. For the purpose of filing the written comments by the third party requester, the comments will be considered as having been received in the Office as of the date of deposit specified in the certificate under § 1.8.

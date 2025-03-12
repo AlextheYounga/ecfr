@@ -1,0 +1,5 @@
+##### § 81.62 Northeast Mississippi Intrastate Air Quality Control Region. #####
+
+The Alabama-Mississippi-Tennessee Interstate Air Quality Control Region has been renamed the Northeast Mississippi Intrastate Air Quality Control Region and revised to consist of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Mississippi: Alcorn County, Attala County, Benton County, Calhoun County, Carroll County, Chickasaw County, Choctaw County, Clay County, Grenada County, Holmes County, Itawamba County, Kemper County, Lafayette County, Leake County, Lee County, Lowndes County, Marshall County, Monroe County, Montgomery County, Neshoba County, Noxubee County, Oktibbeha County, Panola County, Pontotoc County, Prentiss County, Tate County, Tippah County, Tishomingo County, Union County, Webster County, Winston County, Yalobusha County.

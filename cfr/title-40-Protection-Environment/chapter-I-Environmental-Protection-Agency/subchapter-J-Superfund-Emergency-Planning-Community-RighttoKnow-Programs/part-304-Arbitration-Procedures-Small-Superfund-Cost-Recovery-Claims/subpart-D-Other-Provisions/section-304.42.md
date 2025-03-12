@@ -1,0 +1,9 @@
+##### § 304.42 Miscellaneous provisions. #####
+
+(a) Any party who proceeds with the arbitration knowing that any provision or requirement of this part has not been complied with, and who fails to object thereto either orally or in writing in a timely manner, shall be deemed to have waived the right to object.
+
+(b) The original of any joint request for arbitration, modification to any joint request for arbitration, pleading, letter, or other document filed in the proceeding (except for exhibits and other documentary evidence) shall be signed by the filing party or by his or her attorney.
+
+(c) All papers associated with the proceeding that are served by a party to an opposing party shall be served by personal service, or by United States first class mail, or by United States certified mail, return receipt requested, addressed to the party's attorney, or if the party is not represented by an attorney or the attorney cannot be located, to the last known address of the party. All papers associated with the proceeding that are served by the Arbitrator or by the Association shall be served by personal service or by United States certified mail, return receipt requested, addressed to the party's attorney, or if the party is not represented by an attorney or the attorney cannot be located, to the last known address of the party.
+
+(d) If any provision of this part, or the application of any provision of this part to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances and the remainder of this part shall not be affected thereby.

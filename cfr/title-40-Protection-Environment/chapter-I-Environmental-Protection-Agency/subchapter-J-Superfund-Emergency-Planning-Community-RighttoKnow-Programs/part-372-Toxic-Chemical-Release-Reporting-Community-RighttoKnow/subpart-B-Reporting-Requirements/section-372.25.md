@@ -1,0 +1,23 @@
+##### § 372.25 Thresholds for reporting. #####
+
+Except as provided in §§ 372.27 and 372.28, the threshold amounts for purposes of reporting under § 372.30 for toxic chemicals are as follows:
+
+(a) With respect to a toxic chemical manufactured (including imported) or processed at a facility during the following calendar years:
+
+1987—75,000 pounds of the chemical manufactured or processed for the year.1988—50,000 pounds of the chemical manufactured or processed for the year.1989 and thereafter—25,000 pounds of the chemical manufactured or processed for the year.
+
+(b) With respect to a chemical otherwise used at a facility, 10,000 pounds of the chemical used for the applicable calendar year.
+
+(c) With respect to activities involving a toxic chemical at a facility, when more than one threshold applies to the activities, the owner or operator of the facility must report if it exceeds any applicable threshold and must report on all activities at the facility involving the chemical, except as provided in § 372.38.
+
+(d) When a facility manufactures, processes, or otherwise uses more than one member of a chemical category listed in § 372.65(c), the owner or operator of the facility must report if it exceeds any applicable threshold for the total volume of all the members of the category involved in the applicable activity. Any such report must cover all activities at the facility involving members of the category.
+
+(e) A facility may process or otherwise use a toxic chemical in a recycle/reuse operation. To determine whether the facility has processed or used more than an applicable threshold of the chemical, the owner or operator of the facility shall count the amount of the chemical added to the recycle/reuse operation during the calendar year. In particular, if the facility starts up such an operation during a calendar year, or in the event that the contents of the whole recycle/reuse operation are replaced in a calendar year, the owner or operator of the facility shall also count the amount of the chemical placed into the system at these times.
+
+(f) A toxic chemical may be listed in § 372.65 with the notation that only persons who manufacture the chemical, or manufacture it by a certain method, are required to report. In that case, only owners or operators of facilities that manufacture that chemical as described in § 372.65 in excess of the threshold applicable to such manufacture in this section or §§ 372.27 or 372.28 are required to report. In completing the reporting form, the owner or operator is only required to account for the quantity of the chemical so manufactured and releases associated with such manufacturing, but not releases associated with subsequent processing or use of the chemical at that facility. Owners and operators of facilities that solely process or use such a chemical are not required to report for that chemical.
+
+(g) A toxic chemical may be listed in § 372.65 with the notation that it is in a specific form (e.g., fume or dust, solution, or friable) or of a specific color (e.g., yellow or white). In that case, only owners or operators of facilities that manufacture, process, or use that chemical in the form or of the color, specified in § 372.65 in excess of the threshold applicable to such activity in this section or §§ 372.27 or 372.28 are required to report. In completing the reporting form, the owner or operator is only required to account for the quantity of the chemical manufactured, processed, or used in the form or color specified in § 372.65 and for releases associated with the chemical in that form or color. Owners or operators of facilities that solely manufacture, process, or use such a chemical in a form or color other than those specified by § 372.65 are not required to report for that chemical.
+
+(h) Metal compound categories are listed in § 372.65(c). For purposes of determining whether any of the thresholds specified in this section or §§ 372.27 or 372.28 are met for metal compound category, the owner or operator of a facility must make the threshold determination based on the total amount of all members of the metal compound category manufactured, processed, or used at the facility. In completing the release portion of the reporting form for releases of the metal compounds, the owner or operator is only required to account for the weight of the parent metal released. Any contribution to the mass of the release attributable to other portions of each compound in the category is excluded.
+
+[53 FR 4525, Feb. 16, 1988, as amended at 59 FR 61502, Nov. 30, 1994; 64 FR 58750, Oct. 29, 1999; 85 FR 37357, June 22, 2020; 88 FR 74368, Oct. 31, 2023]

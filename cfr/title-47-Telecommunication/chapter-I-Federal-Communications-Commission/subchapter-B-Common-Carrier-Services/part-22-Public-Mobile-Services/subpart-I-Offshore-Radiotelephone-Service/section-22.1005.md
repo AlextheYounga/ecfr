@@ -1,0 +1,3 @@
+##### § 22.1005 Priority of service. #####
+
+Facilities in the Offshore Radiotelephone Service are intended primarily for rendition of public message service between offshore subscriber and central stations. However, they may also be used to render private leased line communication service, provided that such usage does not reduce or impair the extent or quality of communication service which would be available, in the absence of private leased line service, to the general public receiving or subsequently requesting public message service from an offshore central station.

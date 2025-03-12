@@ -1,0 +1,5 @@
+##### § 52.235 Control strategy for ozone: Oxides of nitrogen. #####
+
+EPA is approving an exemption request submitted by the Monterey Bay Unified Air Pollution Control District on April 26, 1994 for the Monterey Bay ozone nonattainment area from the NOX RACT requirements contained in section 182(f) of the Clean Air Act. This approval exempts the area from implementing the oxides of nitrogen (NOX) requirements for reasonably available control technology (RACT), new source review (NSR), the related requirements of general and transportation conformity regulations, and applicable inspection and maintenance (I/M). The exemption is based on ambient air monitoring data and lasts for only as long as the area's monitoring efforts continue to demonstrate attainment without NOX reductions from major stationary sources.
+
+[60 FR 20237, Apr. 25, 1995]

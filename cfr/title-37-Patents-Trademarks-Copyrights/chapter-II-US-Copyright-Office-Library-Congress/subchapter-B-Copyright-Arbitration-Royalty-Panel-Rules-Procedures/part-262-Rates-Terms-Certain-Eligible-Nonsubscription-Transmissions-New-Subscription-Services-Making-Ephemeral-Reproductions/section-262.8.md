@@ -1,0 +1,3 @@
+##### § 262.8 Unclaimed funds. #####
+
+If a Designated Agent is unable to identify or locate a Copyright Owner or Performer who is entitled to receive a royalty payment under this part, the Designated Agent shall retain the required payment in a segregated trust account for a period of 3 years from the date of payment. No claim to such payment shall be valid after the expiration of the 3-year period. After the expiration of this period, the Designated Agent may apply the unclaimed funds to offset any costs deductible under 17 U.S.C. 114(g)(3). The foregoing shall apply notwithstanding the common law or statutes of any State.

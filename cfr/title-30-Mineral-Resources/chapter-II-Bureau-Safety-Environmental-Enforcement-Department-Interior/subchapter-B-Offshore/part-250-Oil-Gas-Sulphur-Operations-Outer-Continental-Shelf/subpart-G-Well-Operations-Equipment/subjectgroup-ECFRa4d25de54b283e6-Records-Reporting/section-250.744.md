@@ -1,0 +1,9 @@
+##### § 250.744 What are the end of operation reporting requirements? #####
+
+(a) Within 30 days after completing operations, except routine operations as defined in § 250.601, you must submit Form BSEE-0125, End of Operations Report (EOR), to the District Manager. The EOR must include: a listing, with top and bottom depths, of all hydrocarbon zones and other zones of porosity encountered with any cored intervals; details on any drill-stem and formation tests conducted; documentation of successful negative pressure testing on wells that use a subsea BOP stack or wells with mudline suspension systems; and an updated schematic of the full wellbore configuration. The schematic must be clearly labeled and show all applicable top and bottom depths, locations and sizes of all casings, cut casing or stubs, casing perforations, casing rupture discs (indicate if burst or collapse and rating), cemented intervals, cement plugs, mechanical plugs, perforated zones, completion equipment, production and isolation packers, alternate completions, tubing, landing nipples, subsurface safety devices, and any other information required by the District Manager regarding the end of well operations. The EOR must indicate the status of the well (completed, temporarily abandoned, permanently abandoned, or drilling suspended) and the date of the well status designation. The well status date is subject to the following:
+
+(1) For surface well operations and riserless subsea operations, the operations end date is subject to the discretion of the District Manager; and
+
+(2) For subsea well operations, the operations end date is considered to be the date the BOP is disconnected from the wellhead unless otherwise specified by the District Manager.
+
+(b) You must submit public information copies of Form BSEE-0125 according to § 250.186(b).

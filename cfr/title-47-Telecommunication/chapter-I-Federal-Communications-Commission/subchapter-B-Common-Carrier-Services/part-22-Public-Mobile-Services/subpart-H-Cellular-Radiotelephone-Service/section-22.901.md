@@ -1,0 +1,5 @@
+##### § 22.901 Cellular service requirements and limitations. #####
+
+The licensee of each Cellular system is responsible for ensuring that its Cellular system operates in compliance with this section. Each Cellular system must provide either mobile service, fixed service, or a combination of mobile and fixed service, subject to the requirements, limitations and exceptions in this section. Mobile service provided may be of any type, including two-way radiotelephone, dispatch, one-way or two-way paging, and personal communications services (as defined in part 24 of this chapter). Fixed service is considered to be primary service, as is mobile service. When both mobile and fixed services are provided, they are considered to be co-primary services. In providing Cellular service, each Cellular system may incorporate any technology that meets all applicable technical requirements in this part.
+
+[79 FR 72151, Dec. 5, 2014]

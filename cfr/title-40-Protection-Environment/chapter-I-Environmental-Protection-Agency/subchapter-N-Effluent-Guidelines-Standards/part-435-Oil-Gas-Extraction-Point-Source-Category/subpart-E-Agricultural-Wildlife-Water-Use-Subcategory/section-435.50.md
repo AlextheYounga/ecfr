@@ -1,0 +1,3 @@
+##### § 435.50 Applicability; description of the beneficial use subcategory. #####
+
+The provisions of this subpart are applicable to those onshore facilities located in the continental United States and west of the 98th meridian for which the produced water has a use in agriculture or wildlife propagation when discharged into navigable waters. These facilities are engaged in the production, drilling, well completion, and well treatment in the oil and gas extraction industry.

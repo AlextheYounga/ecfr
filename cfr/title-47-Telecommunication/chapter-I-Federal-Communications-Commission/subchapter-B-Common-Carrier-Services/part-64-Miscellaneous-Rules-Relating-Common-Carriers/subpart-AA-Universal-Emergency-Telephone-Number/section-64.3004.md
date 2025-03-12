@@ -1,0 +1,3 @@
+##### § 64.3004 Obligation for providing an intercept message. #####
+
+Upon termination of permissive dialing, as provided under § 64.3003, telecommunications carriers shall provide a standard intercept message announcement that interrupts calls placed to the emergency service provider using either a seven-or ten-digit emergency number or an abbreviated dialing code other than 911 and informs the caller of the dialing code change.

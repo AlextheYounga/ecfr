@@ -1,0 +1,3 @@
+##### 405.303 Announcement of contract awards. #####
+
+Contracting officers shall make information available on any contract award with an estimated total value over $1 million (including options) to their agency congressional liaison office in sufficient time for the agency to announce it by 5:00 p.m. Washington, DC time on the day of award. The agency congressional liaison office shall, concurrent with the public announcement, provide the award announcement information to the USDA Congressional Relations Office.

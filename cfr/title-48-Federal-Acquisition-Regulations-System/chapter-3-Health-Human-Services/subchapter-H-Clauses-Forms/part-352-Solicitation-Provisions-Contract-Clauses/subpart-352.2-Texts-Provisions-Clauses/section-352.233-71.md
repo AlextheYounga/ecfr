@@ -1,0 +1,13 @@
+##### 352.233-71 Litigation and Claims. #####
+
+As prescribed in HHSAR 333.215-70(b), the Contracting Officer shall insert the following clause:
+
+Litigation and Claims (DEC 2015)
+
+(a) The Contractor shall provide written notification immediately to the Contracting Officer of any action, including any proceeding before an administrative agency, filed against the Contractor arising out of the performance of this contract, including, but not limited to the performance of any subcontract hereunder; and any claim against the Contractor the cost and expense of which is allowable under the clause entitled “Allowable Cost and Payment.”
+
+(b) Except as otherwise directed by the Contracting Officer, the Contractor shall furnish immediately to the Contracting Officer copies of all pertinent documents received by the Contractor with respect to such action or claim. To the extent not in conflict with any applicable policy of insurance, the Contractor may, with the Contracting Officer's approval, settle any such action or claim. If required by the Contracting Officer, the Contractor shall effect an assignment and subrogation in favor of the Government of all the Contractor's rights and claims (except those against the Government) arising out of any such action or claim against the Contractor; and authorize representatives of the Government to settle or defend any such action or claim and to represent the Contractor in, or to take charge of, any action.
+
+(c) If the Government undertakes a settlement or defense of an action or claim, the Contractor shall furnish all reasonable assistance in effecting a settlement or asserting a defense. Where an action against the Contractor is not covered by a policy of insurance, the Contractor shall, with the approval of the Contracting Officer, proceed with the defense of the action in good faith. The Government shall not be liable for the expense of defending any action or for any costs resulting from the loss thereof to the extent that the Contractor would have been compensated by insurance which was required by other terms or conditions of this contract, by law or regulation, or by written direction of the Contracting Officer, but which the Contractor failed to secure through its own fault or negligence. In any event, unless otherwise expressly provided in this contract, the Government shall not reimburse or indemnify the Contractor for any liability loss, cost, or expense, which the Contractor may incur or be subject to by reason of any loss, injury or damage, to the person or to real or personal property of any third parties as may accrue during, or arise from, the performance of this contract.
+
+(End of clause)

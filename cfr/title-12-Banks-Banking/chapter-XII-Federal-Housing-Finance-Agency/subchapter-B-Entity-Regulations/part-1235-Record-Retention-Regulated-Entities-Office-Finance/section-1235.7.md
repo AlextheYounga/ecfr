@@ -1,0 +1,5 @@
+##### § 1235.7 Supervisory action. #####
+
+(a) *Supervisory action.* Failure by a regulated entity or the Office of Finance to comply with this part may subject the regulated entity or the Office of Finance or the board members, officers, or employees thereof to supervisory action by FHFA under the Safety and Soundness Act, including but not limited to cease-and-desist proceedings, temporary cease-and-desist proceedings, and civil money penalties.
+
+(b) *No limitation of authority.* This part does not limit or restrict the authority of FHFA to act under its safety and soundness mandate, in accordance with the Safety and Soundness Act. Such authority includes, but is not limited to, conducting examinations, requiring reports and disclosures, and enforcing compliance with applicable laws, rules, and regulations.

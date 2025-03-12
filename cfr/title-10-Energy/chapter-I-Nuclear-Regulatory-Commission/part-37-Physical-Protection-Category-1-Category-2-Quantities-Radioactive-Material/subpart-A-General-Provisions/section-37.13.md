@@ -1,0 +1,5 @@
+##### § 37.13 Information collection requirements: OMB approval. #####
+
+(a) The U.S. Nuclear Regulatory Commission has submitted the information collection requirements contained in this part to the Office of Management and Budget (OMB) for approval as required by the Paperwork Reduction Act (44 U.S.C. 3501 *et seq.*). The NRC may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB has approved the information collection requirements contained in this part under control number 3150-0214.
+
+(b) The approved information collection requirements contained in this part appear in §§ 37.11, 37.21, 37.23, 37.25, 37.27, 37.29, 37.31, 37.33, 37.41, 37.43, 37.45, 37.49, 37.51, 37.55, 37.57, 37.71, 37.75, 37.77, 37.79, and 37.81.

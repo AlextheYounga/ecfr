@@ -1,0 +1,5 @@
+##### § 200.7 Objections. #####
+
+(a) Amtrak or any other party shall have 30 days from the date an application is received by FRA pursuant to section 402(e) of the Act to object to the proposed alteration of the preference requirement. Such objections shall be in writing and shall reference, by date, railroad, and former passenger routes, the application to which it pertains.
+
+(b) Amtrak shall have 30 days from the date an application is received by FRApursuant to section 406 of the Act to object to any or all of the facility downgradings or disposals proposed in such application. Such objections shall be in writing and shall reference, by date, railroad, and former passenger routes, the application to which it pertains and shall list, by facility description and location, the specific downgradings or disposals to which Amtrak objects.

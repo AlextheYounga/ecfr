@@ -1,0 +1,3 @@
+##### § 269b.320 Proceedings before the panel. #####
+
+The panel shall issue its decision within 15 days after the receipt of the petition provided for in § 269b.310 or by the end of that period shall announce that it will require briefs by the parties. Such announcement shall specify the requirements as to contents of the briefs, and the time for submission, which shall vary to meet the circumstances of the matter appealed. The panel, at such time, may also require oral argument or the production of evidence or may so order oral argument and/or the production of evidence after examination of the briefs. The panel shall issue its final decision within 20 days after briefs have been filed, evidence has been produced, or oral argument has been conducted.

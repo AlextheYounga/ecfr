@@ -1,0 +1,5 @@
+##### § 551.424 Time spent adjusting grievances or performing representational functions. #####
+
+(a) Time spent by an employee adjusting his or her grievance (or any appealable action) with an agency during the time the employee is required to be on the agency's premises shall be considered hours of work.
+
+(b) “Official time” granted an employee by an agency to perform representational functions during those hours when the employee is otherwise in a duty status shall be considered hours of work. This includes time spent by an employee performing such functions during regular working hours (including regularly scheduled overtime hours), or during a period of irregular, unscheduled overtime work, provided an event arises incident to representational functions that must be dealt with during the irregular, unscheduled overtime period.

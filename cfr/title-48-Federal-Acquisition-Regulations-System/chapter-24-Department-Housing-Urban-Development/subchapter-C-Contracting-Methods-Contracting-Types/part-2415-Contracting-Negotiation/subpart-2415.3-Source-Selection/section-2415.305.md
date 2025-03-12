@@ -1,0 +1,7 @@
+##### 2415.305 Proposal evaluation. #####
+
+(a) After receipt of proposals, the Contracting Officer will forward copies of the technical portion of each proposal to the TEP Chairperson or his or her designee. The cost/price portion of each proposal shall be retained by the Contracting Officer pending initial technical evaluation by the TEP.
+
+(3) *Technical evaluation when tradeoffs are performed.* The TEP shall rate each proposal based on the evaluation factors specified in the solicitation. The TEP shall identify each proposal as being acceptable, unacceptable but capable of being made acceptable, or unacceptable. A proposal shall be considered unacceptable if it is so clearly deficient that it cannot be corrected through written or oral discussions. Under the tradeoff process, predetermined threshold levels of technical acceptability for proposals shall not be employed. A technical evaluation report, which complies with FAR 15.305(a)(3), shall be prepared and signed by the technical evaluators, furnished to the Contracting Officer, and maintained as a permanent record in the official procurement file.
+
+[50 FR 46577, Nov. 8, 1985, as amended at 57 FR 59789, Dec. 15, 1992; 60 FR 46156, Sept. 5, 1995; 61 FR 19471, May 1, 1996. Redesignated and amended at 64 FR 46096, Aug. 23, 1999; 77 FR 73527, Dec. 10, 2012; 81 FR 13751, Mar. 15, 2016]

@@ -1,0 +1,3 @@
+##### § 210.9 Movement of a noise defective locomotive, rail car, or consist of a locomotive and rail cars. #####
+
+A locomotive, rail car, or consist of a locomotive and rail cars that is noise defective may be moved no farther than the nearest forward facility where the noise defective conditions can be eliminated only after the locomotive, rail car, or consist of a locomotive and rail cars has been inspected and been determined to be safe to move.

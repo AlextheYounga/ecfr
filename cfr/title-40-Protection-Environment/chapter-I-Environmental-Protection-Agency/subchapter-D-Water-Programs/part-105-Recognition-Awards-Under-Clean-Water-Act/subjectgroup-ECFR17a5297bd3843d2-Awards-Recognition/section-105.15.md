@@ -1,0 +1,3 @@
+##### § 105.15 How are award winners recognized? #####
+
+EPA presents national award winners with a certificate or plaque at an awards presentation ceremony as recognition for an outstanding technological achievement or an innovative process, method or device in wastewater treatment and/or pollution abatement programs. The President of the United States, the Governor of the State, or Tribal leader of the jurisdiction reservation in which the awardee is situated, the Speaker of the House of Representatives and the President pro tempore of the Senate are notified by the Administrator.

@@ -1,0 +1,7 @@
+##### § 250.1609 Pressure testing of casing. #####
+
+(a) Prior to drilling the plug after cementing, all casing strings, except the drive or structural casing, shall be pressure tested. The conductor casing shall be tested to at least 200 psi. All casing strings below the conductor casing shall be tested to 500 psi or 0.22 psi/ft, whichever is greater. (When oil or gas is not present in the cap rock, the production liner need not be cemented in place; thus, it would not be subject to pressure testing.) If the pressure declines more than 10 percent in 30 minutes or if there is another indication of a leak, the casing shall be recemented, repaired, or an additional casing string run and the casing tested again. The above procedures shall be repeated until a satisfactory test is obtained. The time, conditions of testing, and results of all casing pressure tests shall be recorded in the driller's report.
+
+(b) After cementing any string of casing other than structural, drilling shall not be resumed until there has been a time lapse of at least 8 hours under pressure for the conductor casing string or 12 hours under pressure for all other casing strings. Cement is considered under pressure if one or more float valves are shown to be holding the cement in place or when other means of holding pressure are used.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 36151, June 6, 2016]

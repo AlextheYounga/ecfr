@@ -1,0 +1,3 @@
+##### 46.503 Place of acceptance. #####
+
+Each contract shall specify the place of acceptance. Contracts that provide for Government contract quality assurance at source shall ordinarily provide for acceptance at source. Contracts that provide for Government contract quality assurance at destination shall ordinarily provide for acceptance at destination. (For transportation terms, see subpart 47.3). Supplies accepted at a place other than destination shall not be reinspected at destination for acceptance purposes, but should be examined at destination for quantity, damage in transit, and possible substitution or fraud.

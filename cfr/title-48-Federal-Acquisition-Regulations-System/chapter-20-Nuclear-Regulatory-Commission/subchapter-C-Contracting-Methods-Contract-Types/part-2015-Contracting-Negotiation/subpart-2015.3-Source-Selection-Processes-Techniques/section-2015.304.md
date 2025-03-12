@@ -1,0 +1,3 @@
+##### 2015.304 Evaluation factors. #####
+
+The evaluation factors included in the solicitation serve as the standard against which all proposals are evaluated and are the basis for the development of proposal preparation instructions in accordance with FAR 15.304(b). The solicitation may indicate the relative importance of evaluation factors and subfactors by assigning a numerical weight to each factor. If a solicitation uses numerical weights, those weights shall be stated in the solicitation. The relative importance of factors that are not numerically weighted will be stated in the solicitation. Examples of factors which may not be numerically weighted are conflict of interest, estimated cost, and “go/no go” evaluation factors.

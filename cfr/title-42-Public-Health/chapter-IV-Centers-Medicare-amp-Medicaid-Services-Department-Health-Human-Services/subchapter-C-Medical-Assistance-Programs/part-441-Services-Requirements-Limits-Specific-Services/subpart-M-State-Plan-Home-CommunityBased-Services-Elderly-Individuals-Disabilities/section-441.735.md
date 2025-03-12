@@ -1,0 +1,9 @@
+##### § 441.735 Definition of individual's representative. #####
+
+In this subpart, the term *individual's representative* means, with respect to an individual being evaluated for, assessed regarding, or receiving State plan HCBS, the following:
+
+(a) The individual's legal guardian or other person who is authorized under State law to represent the individual for the purpose of making decisions related to the person's care or well-being. In instances where state law confers decision-making authority to the individual representative, the individual will lead the service planning process to the extent possible.
+
+(b) Any other person who is authorized under § 435.923 of this chapter, or under the policy of the State Medicaid Agency to represent the individual, including but not limited to, a parent, a family member, or an advocate for the individual.
+
+(c) When the State authorizes representatives in accordance with paragraph (b) of this section, the State must have policies describing the process for authorization; the extent of decision-making authorized; and safeguards to ensure that the representative uses substituted judgment on behalf of the individual. State policies must address exceptions to using substituted judgment when the individual's wishes cannot be ascertained or when the individual's wishes would result in substantial harm to the individual. States may not refuse the authorized representative that the individual chooses, unless in the process of applying the requirements for authorization, the State discovers and can document evidence that the representative is not acting in accordance with these policies or cannot perform the required functions. States must continue to meet the requirements regarding the person-centered planning process at § 441.725 of this chapter.

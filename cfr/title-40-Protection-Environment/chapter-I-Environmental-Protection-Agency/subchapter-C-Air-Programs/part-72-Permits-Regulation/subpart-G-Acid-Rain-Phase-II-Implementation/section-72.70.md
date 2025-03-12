@@ -1,0 +1,7 @@
+##### § 72.70 Relationship to title V operating permit program. #####
+
+(a) *Scope.* This subpart sets forth criteria for approval of State operating permit programs and acceptance of State Acid Rain programs, the procedure for including State Acid Rain programs in a title V operating permit program, and the requirements with which State permitting authorities with accepted programs shall comply, and with which the Administrator will comply in the absence of an accepted State program, to issue Phase II Acid Rain permits.
+
+(b) *Relationship to operating permit program.* Each State permitting authority with an affected source shall act in accordance with this part and parts 70, 74, 76, and 78 of this chapter for the purpose of incorporating Acid Rain Program requirements into each affected source's operating permit . To the extent that this part or part 74, 76, or 78 of this chapter is inconsistent with the requirements of part 70 of this chapter, this part and parts 74, 76, and 78 of this chapter shall take precedence and shall govern the issuance, denial, revision, reopening, renewal, and appeal of the Acid Rain portion of an operating permit.
+
+[62 FR 55482, Oct. 24, 1997, as amended at 66 FR 12978, Mar. 1, 2001]

@@ -1,0 +1,3 @@
+##### § 51.162 Identification of responsible agency. #####
+
+Each plan must identify the State or local agency which will be responsible for meeting the requirements of this subpart in each area of the State. Where such responsibility rests with an agency other than an air pollution control agency, such agency will consult with the appropriate State or local air pollution control agency in carrying out the provisions of this subpart.

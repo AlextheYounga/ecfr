@@ -1,0 +1,3 @@
+##### § 221.11 Agent. #####
+
+An agent may issue and file, in his or its own name, tariff publications naming local fares and/or joint fares, and provisions governing such fares, and rules and regulations governing foreign air transportation to the extent provided by this part and/or Department order, for account of carriers participating in such tariff publications, under authority of their powers of attorney given to such issuing agent as provided in § 221.150. The issuing agent shall file such tariff publications with the Department on behalf of all carriers participating therein. Only one issuing agent may act in issuing and filing each such tariff publication.

@@ -1,0 +1,31 @@
+##### § 74.14 Opt-in permit process. #####
+
+(a) *Submission.* The designated representative of a combustion or process source may submit an opt-in permit application and a monitoring plan to the Administrator at any time for any combustion or process source that is operating.
+
+(b) *Issuance or denial of opt-in permits.* The permitting authority shall issue or deny opt-in permits or revisions of opt-in permits in accordance with the procedures in parts 70 and 71 of this chapter and subparts F and G of part 72 of this chapter, except as provided in this section.
+
+(1) *Supplemental information.* Regardless of whether the opt-in permit application is complete, the Administrator or the permitting authority may request submission of any additional information that the Administrator or the permitting authority determines to be necessary in order to review the opt-in permit application or to issue an opt-in permit.
+
+(2) *Interim review of monitoring plan.* The Administrator will determine, on an interim basis, the sufficiency of the monitoring plan, accompanying the opt-in permit application. A monitoring plan is sufficient, for purposes of interim review, if the plan appears to contain information demonstrating that all SO2 emissions, NOX emissions, CO2 emissions, and opacity of the combustion or process source are monitored and reported in accordance with part 75 of this chapter. This interim review of sufficiency shall not be construed as the approval or disapproval of the combustion or process source's monitoring system.
+
+(3) *Issuance of draft opt-in permit.* After the Administrator determines whether the combustion or process source's monitoring plan is sufficient under paragraph (b)(2) of this section, the permitting authority shall serve the draft opt-in permit or the denial of a draft permit or the draft opt-in permit revisions or the denial of draft opt-in permit revisions on the designated representative of the combustion or process source submitting an opt-in permit application. A draft permit or draft opt-in permit revision shall not be served or issued if the monitoring plan is determined not to be sufficient.
+
+(4) *Confirmation by source of intention to opt-in.* Within 21 calendar days from the date of service of the draft opt-in permit or the denial of the draft opt-in permit, the designated representative of a combustion or process source submitting an opt-in permit application must submit to the Administrator, in writing, a confirmation or recision of the source's intention to become an opt-in source under this part. The Administrator shall treat the failure to make a timely submission as a recision of the source's intention to become an opt-in source and as a withdrawal of the opt-in permit application.
+
+(5) *Issuance of draft opt-in permit.* If the designated representative confirms the combustion or process source's intention to opt in under paragraph (b)(4) of this section, the permitting authority will give notice of the draft opt-in permit or denial of the draft opt-in permit and an opportunity for public comment, as provided under § 72.65 of this chapter with regard to a draft permit or denial of a draft permit if the Administrator is the permitting authority or as provided in accordance with part 70 of this chapter with regard to a draft permit or the denial of a draft permit if the State is the permitting authority.
+
+(6) *Permit decision deadlines.* (i) If the Administrator is the permitting authority, an opt-in permit will be issued or denied within 12 months of receipt of a complete opt-in permit application.
+
+(ii) If the State is the permitting authority, an opt-in permit will be issued or denied within 18 months of receipt of a complete opt-in permit application or such lesser time approved for operating permits under part 70 of this chapter.
+
+(7) *Withdrawal of opt-in permit application.* A combustion or process source may withdraw its opt-in permit application at any time prior to the issuance of the final opt-in permit. Once a combustion or process source withdraws its application, in order to re-apply, it must submit a new opt-in permit application in accordance with § 74.16 for combustion sources or § 74.17 for process sources.
+
+(c) [Reserved]
+
+(d) *Entry into Acid Rain Program*—(1) *Effective date.* The effective date of the opt-in permit shall be the January 1, April 1, July 1, or October 1 for a combustion or process source providing monthly data under § 74.20, or January 1 for a combustion or process source providing annual data under § 74.20, following the later of the issuance of the opt-in permit by the permitting authority or the completion of monitoring system certification, as provided in subpart F of this part for combustion sources or subpart G of this part for process sources. The combustion or process source shall become an opt-in source and an affected unit as of the effective date of the opt-in permit.
+
+(2) *Allowance allocation.* After the opt-in permit becomes effective, the Administrator will allocate allowances to the opt-in source as provided in § 74.40. If the effective date of the opt-in permit is not January 1, allowances for the first year shall be pro-rated as provided in § 74.28.
+
+(e) *Expiration of opt-in permit.* An opt-in permit that is issued before the completion of monitoring system certification under subpart F of this part for combustion sources or under subpart G of this part for process sources shall expire 180 days after the permitting authority serves the opt-in permit on the designated representative of the combustion or process source governed by the opt-in permit, unless such monitoring system certification is complete. The designated representative may petition the Administrator to extend this time period in which an opt-in permit expires and must explain in the petition why such an extension should be granted. The designated representative of a combustion source governed by an expired opt-in permit and that seeks to become an opt-in source must submit a new opt-in permit application.
+
+[60 FR 17115, Apr. 4, 1995, as amended at 63 FR 18841, Apr. 16, 1998]

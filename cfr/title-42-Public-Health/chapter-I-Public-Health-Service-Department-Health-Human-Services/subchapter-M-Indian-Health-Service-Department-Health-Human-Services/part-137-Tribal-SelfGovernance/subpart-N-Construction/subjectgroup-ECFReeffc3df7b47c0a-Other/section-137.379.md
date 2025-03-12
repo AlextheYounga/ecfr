@@ -1,0 +1,3 @@
+##### § 137.379 Do Davis-Bacon wage rates apply to construction projects performed by Self-Governance Tribes using Federal funds? #####
+
+Davis-Bacon Act wage rates only apply to laborers and mechanics employed by the contractors and subcontractors (excluding Indian Tribes, inter-Tribal consortia, and Tribal organizations) retained by Self-Governance Tribes to perform construction. The Davis-Bacon Act and wage rates do not apply when Self-Governance Tribes perform work with their own employees.

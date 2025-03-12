@@ -1,0 +1,3 @@
+##### § 21.43 Examination; full grade and above. #####
+
+The examination for appointment to the full, senior, or director grade in the Regular Corps shall consist of a review and evaluation of the candidate's academic and professional education and professional training and experience. The Surgeon General may, however, direct that the examination of a candidate for appointment to any such grade shall also include an oral interview, a written or oral professional examination, or both.

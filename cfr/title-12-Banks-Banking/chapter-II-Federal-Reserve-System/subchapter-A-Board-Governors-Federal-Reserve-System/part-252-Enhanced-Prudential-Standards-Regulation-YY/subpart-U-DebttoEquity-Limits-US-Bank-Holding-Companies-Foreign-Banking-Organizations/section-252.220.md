@@ -1,0 +1,11 @@
+##### § 252.220 Debt-to-equity limits for U.S. bank holding companies. #####
+
+(a) *Definitions*—(1) *Debt-to-equity ratio* means the ratio of a company's total liabilities to a company's total equity capital less goodwill.
+
+(2) *Debt* and *equity* have the same meaning as “total liabilities” and “total equity capital,” respectively, as reported by a bank holding company on the FR Y-9C.
+
+(b) *Notice and maximum debt-to-equity ratio requirement.* The Council, or the Board on behalf of the Council, will provide written notice to a bank holding company to the extent that the Council makes a determination, pursuant to section 165(j) of the Dodd-Frank Act, that a bank holding company poses a grave threat to the financial stability of the United States and that the imposition of a debt-to-equity requirement is necessary to mitigate such risk. Beginning no later than 180 days after receiving written notice from the Council or from the Board on behalf of the Council, the bank holding company must achieve and maintain a debt-to-equity ratio of no more than 15-to-1.
+
+(c) *Extension.* The Board may, upon request by the bank holding company for which the Council has made a determination pursuant to section 165(j) of the Dodd-Frank Act, extend the time period for compliance established under paragraph (b) of this section for up to two additional periods of 90 days each, if the Board determines that the identified company has made good faith efforts to comply with the debt-to-equity ratio requirement and that each extension would be in the public interest. Requests for an extension must be received in writing by the Board not less than 30 days prior to the expiration of the existing time period for compliance and must provide information sufficient to demonstrate that the bank holding company has made good faith efforts to comply with the debt-to-equity ratio requirement and that each extension would be in the public interest.
+
+(d) *Termination.* The debt-to-equity ratio requirement in paragraph (b) of this section shall cease to apply to a bank holding company as of the date it receives notice from the Council of a determination that the bank holding company no longer poses a grave threat to the financial stability of the United States and that the imposition of a debt-to-equity requirement is no longer necessary.

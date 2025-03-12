@@ -1,0 +1,45 @@
+##### § 230.11 Factual determinations. #####
+
+The permitting authority shall determine in writing the potential short-term or long-term effects of a proposed discharge of dredged or fill material on the physical, chemical, and biological components of the aquatic environment in light of subparts C through F. Such factual determinations shall be used in § 230.12 in making findings of compliance or non-compliance with the restrictions on discharge in § 230.10. The evaluation and testing procedures described in § 230.60 and § 230.61 of subpart G shall be used as necessary to make, and shall be described in, such determination. The determinations of effects of each proposed discharge shall include the following:
+
+(a) *Physical substrate determinations.* Determine the nature and degree of effect that the proposed discharge will have, individually and cumulatively, on the characteristics of the substrate at the proposed disposal site. Consideration shall be given to the similarity in particle size, shape, and degree of compaction of the material proposed for discharge and the material constituting the substrate at the disposal site, and any potential changes in substrate elevation and bottom contours, including changes outside of the disposal site which may occur as a result of erosion, slumpage, or other movement of the discharged material. The duration and physical extent of substrate changes shall also be considered. The possible loss of environmental values (§ 230.20) and actions to minimize impact (subpart H) shall also be considered in making these determinations. Potential changes in substrate elevation and bottom contours shall be predicted on the basis of the proposed method, volume, location, and rate of discharge, as well as on the individual and combined effects of current patterns, water circulation, wind and wave action, and other physical factors that may affect the movement of the discharged material.
+
+(b) *Water circulation, fluctuation, and salinity determinations.* Determine the nature and degree of effect that the proposed discharge will have individually and cumulatively on water, current patterns, circulation including downstream flows, and normal water fluctuation. Consideration shall be given to water chemistry, salinity, clarity, color, odor, taste, dissolved gas levels, temperature, nutrients, and eutrophication plus other appropriate characteristics. Consideration shall also be given to the potential diversion or obstruction of flow, alterations of bottom contours, or other significant changes in the hydrologic regime. Additional consideration of the possible loss of environmental values (§§ 230.23 through 230.25) and actions to minimize impacts (subpart H), shall be used in making these determinations. Potential significant effects on the current patterns, water circulation, normal water fluctuation and salinity shall be evaluated on the basis of the proposed method, volume, location, and rate of discharge.
+
+(c) *Suspended particulate/turbidity determinations.* Determine the nature and degree of effect that the proposed discharge will have, individually and cumulatively, in terms of potential changes in the kinds and concentrations of suspended particulate/turbidity in the vicinity of the disposal site. Consideration shall be given to the grain size of the material proposed for discharge, the shape and size of the plume of suspended particulates, the duration of the discharge and resulting plume and whether or not the potential changes will cause violations of applicable water quality standards. Consideration should also be given to the possible loss of environmental values (§ 230.21) and to actions for minimizing impacts (subpart H). Consideration shall include the proposed method, volume, location, and rate of discharge, as well as the individual and combined effects of current patterns, water circulation and fluctuations, wind and wave action, and other physical factors on the movement of suspended particulates.
+
+(d) *Contaminant determinations.* Determine the degree to which the material proposed for discharge will introduce, relocate, or increase contaminants. This determination shall consider the material to be discharged, the aquatic environment at the proposed disposal site, and the availability of contaminants.
+
+(e) *Aquatic ecosystem and organism determinations.* Determine the nature and degree of effect that the proposed discharge will have, both individually and cumulatively, on the structure and function of the aquatic ecosystem and organisms. Consideration shall be given to the effect at the proposed disposal site of potential changes in substrate characteristics and elevation, water or substrate chemistry, nutrients, currents, circulation, fluctuation, and salinity, on the recolonization and existence of indigenous aquatic organisms or communities. Possible loss of environmental values (§ 230.31), and actions to minimize impacts (subpart H) shall be examined. Tests as described in § 230.61 (Evaluation and Testing), may be required to provide information on the effect of the discharge material on communities or populations of organisms expected to be exposed to it.
+
+(f) *Proposed disposal site determinations.* (1) Each disposal site shall be specified through the application of these Guidelines. The mixing zone shall be confined to the smallest practicable zone within each specified disposal site that is consistent with the type of dispersion determined to be appropriate by the application of these Guidelines. In a few special cases under unique environmental conditions, where there is adequate justification to show that widespread dispersion by natural means will result in no significantly adverse environmental effects, the discharged material may be intended to be spread naturally in a very thin layer over a large area of the substrate rather than be contained within the disposal site.
+
+(2) The permitting authority and the Regional Administrator shall consider the following factors in determining the acceptability of a proposed mixing zone:
+
+(i) Depth of water at the disposal site;
+
+(ii) Current velocity, direction, and variability at the disposal site;
+
+(iii) Degree of turbulence;
+
+(iv) Stratification attributable to causes such as obstructions, salinity or density profiles at the disposal site;
+
+(v) Discharge vessel speed and direction, if appropriate;
+
+(vi) Rate of discharge;
+
+(vii) Ambient concentration of constituents of interest;
+
+(viii) Dredged material characteristics, particularly concentrations of constituents, amount of material, type of material (sand, silt, clay, etc.) and settling velocities;
+
+(ix) Number of discharge actions per unit of time;
+
+(x) Other factors of the disposal site that affect the rates and patterns of mixing.
+
+(g) *Determination of cumulative effects on the aquatic ecosystem.* (1) Cumulative impacts are the changes in an aquatic ecosystem that are attributable to the collective effect of a number of individual discharges of dredged or fill material. Although the impact of a particular discharge may constitute a minor change in itself, the cumulative effect of numerous such piecemeal changes can result in a major impairment of the water resources and interfere with the productivity and water quality of existing aquatic ecosystems.
+
+(2) Cumulative effects attributable to the discharge of dredged or fill material in waters of the United States should be predicted to the extent reasonable and practical. The permitting authority shall collect information and solicit information from other sources about the cumulative impacts on the aquatic ecosystem. This information shall be documented and considered during the decision-making process concerning the evaluation of individual permit applications, the issuance of a General permit, and monitoring and enforcement of existing permits.
+
+(h) *Determination of secondary effects on the aquatic ecosystem.* (1) Secondary effects are effects on an aquatic ecosystem that are associated with a discharge of dredged or fill materials, but do not result from the actual placement of the dredged or fill material. Information about secondary effects on aquatic ecosystems shall be considered prior to the time final section 404 action is taken by permitting authorities.
+
+(2) Some examples of secondary effects on an aquatic ecosystem are fluctuating water levels in an impoundment and downstream associated with the operation of a dam, septic tank leaching and surface runoff from residential or commercial developments on fill, and leachate and runoff from a sanitary landfill located in waters of the U.S. Activities to be conducted on fast land created by the discharge of dredged or fill material in waters of the United States may have secondary impacts within those waters which should be considered in evaluating the impact of creating those fast lands.

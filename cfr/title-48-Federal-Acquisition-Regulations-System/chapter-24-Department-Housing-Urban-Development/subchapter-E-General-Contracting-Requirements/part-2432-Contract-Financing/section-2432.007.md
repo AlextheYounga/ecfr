@@ -1,0 +1,5 @@
+##### 2432.007 Contract financing payments. #####
+
+(a) The Senior Procurement Executive is the agency head for the purposes of FAR 32.007(a).
+
+[77 FR 73530, Dec. 10, 2012]

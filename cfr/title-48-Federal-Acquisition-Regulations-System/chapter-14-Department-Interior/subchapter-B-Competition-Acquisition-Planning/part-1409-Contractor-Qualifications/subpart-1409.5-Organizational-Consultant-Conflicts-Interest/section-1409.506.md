@@ -1,0 +1,3 @@
+##### 1409.506 Procedures. #####
+
+If the CO determines that contractor performance of the contemplated work is likely to create an organizational conflict of interest, then the contracting officer shall refer the documentation of the potential conflict and proposed resolution prepared in accordance with 7.105(b)(18) to the HCA for approval. Referrals to the HCA shall be initiated by the CO and reviewed by the SOL.

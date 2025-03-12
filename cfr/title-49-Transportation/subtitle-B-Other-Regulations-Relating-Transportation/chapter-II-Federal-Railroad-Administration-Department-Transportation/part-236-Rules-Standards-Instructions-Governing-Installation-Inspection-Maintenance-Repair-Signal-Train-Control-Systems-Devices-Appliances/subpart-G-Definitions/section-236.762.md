@@ -1,0 +1,3 @@
+##### § 236.762 Locking, indication. #####
+
+Electric locking which prevents manipulation of levers that would result in an unsafe condition for a train movement if a signal, switch, or other operative unit fails to make a movement corresponding to that of its controlling lever, or which directly prevents the operation of a signal, switch, or other operative unit, in case another unit which should operate first fails to make the required movement.

@@ -1,0 +1,9 @@
+##### § 211.7 Filing requirements. #####
+
+(a) Any person may petition the Administrator for issuance, amendment, repeal or permanent or temporary waiver of any rule or regulation. A petition for waiver must be submitted at least 3 months before the proposed effective date, unless good cause is shown for not doing so.
+
+(b)(1) All petitions and applications subject to this part, including applications for special approval under §§ 211.55 and 238.21 of this chapter, petitions for grandfathering approval under § 238.203 of this chapter, and signal applications under parts 235 and 236 of this chapter, shall be submitted to the FRA Docket Clerk. Each petition received shall be acknowledged in writing. The acknowledgment shall contain the docket number assigned to the petition or application and state the date the petition or application was received. Within 60 days following receipt, FRA will advise the petitioner or applicant of any deficiencies in its petition or application.
+
+(2) All comments submitted in response to a notice and other material pertaining to proceedings subject to this part, including comments submitted in response to requests for special approval under § 211.55 and § 238.21 of this chapter, petitions for grandfathering approval under § 238.203 of this chapter, and signal applications under parts 235 and 236 of this chapter, shall be submitted to the Federal Docket Management System and shall contain the assigned docket number for that proceeding. The form of such submissions may be in written or electronic form consistent with the standards and requirements established by the Federal Docket Management System and posted on its web site at *http://www.regulations.gov.*
+
+[64 FR 70195, Dec. 16, 1999, as amended at 74 FR 25171, 25172, May 27, 2009]

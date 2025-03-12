@@ -1,0 +1,3 @@
+##### § 300.200 General. #####
+
+This subpart summarizes emergency preparedness activities relating to discharges of oil and releases of hazardous substances, pollutants, or contaminants; describes the three levels of contingency planning under the national response system; and cross-references state and local emergency preparedness activities under SARA Title III, also known as the “Emergency Planning and Community Right-to-Know Act of 1986” but referred to herein as “Title III.” Regulations implementing Title III are codified at 40 CFR subchapter J.

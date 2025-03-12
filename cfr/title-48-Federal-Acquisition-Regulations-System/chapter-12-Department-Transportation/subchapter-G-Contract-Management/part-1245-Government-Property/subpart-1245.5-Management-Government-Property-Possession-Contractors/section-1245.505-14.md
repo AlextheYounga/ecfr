@@ -1,0 +1,3 @@
+##### 1245.505-14 Reports of Government property. #####
+
+When Government property is furnished to or acquired by the contractor to perform the contract, the contract shall require the contractor to submit annual reports (see (FAR) 48 CFR 45.505-14) to the contracting officer not later than September 15 of each year. The contractor's report shall be submitted on Form DOT F 4220.43, Contractor Report of Government Property.

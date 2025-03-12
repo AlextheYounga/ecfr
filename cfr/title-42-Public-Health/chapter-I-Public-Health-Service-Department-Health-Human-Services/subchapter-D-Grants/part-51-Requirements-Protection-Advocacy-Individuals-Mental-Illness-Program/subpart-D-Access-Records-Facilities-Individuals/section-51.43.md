@@ -1,0 +1,3 @@
+##### § 51.43 Denial or delay of access. #####
+
+If a P&A system's access to facilities, programs, residents or records covered by the Act or this part is delayed or denied, the P&A system shall be provided promptly with a written statement of reasons, including, in the case of a denial for alleged lack of authorization, the name, address and telephone number of the legal guardian, conservator, or other legal representative of an individual with mental illness. Access to facilities, records or residents shall not be delayed or denied without the prompt provision of written statements of the reasons for the denial.

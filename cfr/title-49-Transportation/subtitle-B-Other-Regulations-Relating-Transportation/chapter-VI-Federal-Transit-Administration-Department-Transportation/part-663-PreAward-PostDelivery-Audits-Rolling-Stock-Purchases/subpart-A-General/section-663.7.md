@@ -1,0 +1,3 @@
+##### § 663.7 Certification of compliance to FTA. #####
+
+A recipient purchasing revenue service rolling stock with funds obligated by FTA on or after October 24, 1991, must certify to FTA that it will conduct or cause to be conducted pre-award and post-delivery audits as prescribed in this part. In addition, such a recipient must maintain on file the certifications required under subparts B, C, and D of this part.

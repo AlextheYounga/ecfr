@@ -1,0 +1,9 @@
+##### § 374.3 Contents of notice. #####
+
+(a) *Violation of standard, regulation, condition, requirement, or order.* Notice regarding an alleged violation of a standard, regulation, condition, requirement, or order (including any provision of an agreement under section 120 of the Act, relating to Federal facilities) which has become effective under this Act shall include sufficient information to allow the recipient to identify the specific standard, regulation, condition, requirement, or order (including any provision of an agreement under section 120 of the Act, relating to Federal facilities) which has allegedly been violated; the activity or failure to act alleged to constitute a violation; the name and address of the site and facility alleged to be in violation, if known; the person or persons responsible for the alleged violation; the date or dates of the violation; and the full name, address, and telephone number of the person giving notice.
+
+(b) *Failure to act.* Notice regarding an alleged failure of the President or other officer of the United States to perform an act or duty which is not discretionary under the Act shall identify the provisions of the Act which require such act or create such duty; shall describe with reasonable specificity the action taken or not taken by the President or other officer that is claimed to constitute a failure to perform the act or duty; shall identify the Agency and name and title of the officers allegedly failing to perform the act or duty; and shall state the full name, address, and telephone number of the person giving the notice.
+
+(c) *Identification of counsel.* All notices shall state the name, address, and telephone number of the legal counsel, if any, representing the person giving the notice.
+
+[57 FR 55040, Nov. 23, 1992; 57 FR 61612, Dec. 28, 1992]

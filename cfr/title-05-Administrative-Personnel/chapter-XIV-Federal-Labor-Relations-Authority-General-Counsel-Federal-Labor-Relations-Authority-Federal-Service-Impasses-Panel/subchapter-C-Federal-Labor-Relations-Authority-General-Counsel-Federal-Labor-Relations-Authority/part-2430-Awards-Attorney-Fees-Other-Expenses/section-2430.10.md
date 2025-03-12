@@ -1,0 +1,3 @@
+##### § 2430.10 Settlement. #####
+
+The applicant and the General Counsel may agree on a proposed settlement of the award before final action on the application. If an applicant and the General Counsel agree on a proposed settlement of an award before an application has been filed, the proposed settlement shall be filed with the application. All such settlements shall be subject to approval by the Authority.

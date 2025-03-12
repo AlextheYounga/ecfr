@@ -1,0 +1,21 @@
+##### § 324.154 Equity exposures to investment funds. #####
+
+(a) *Available approaches.* (1) Unless the exposure meets the requirements for a community development equity exposure in § 324.152(b)(3)(i), an FDIC-supervised institution must determine the risk-weighted asset amount of an equity exposure to an investment fund under the full look-through approach in paragraph (b) of this section, the simple modified look-through approach in paragraph (c) of this section, or the alternative modified look-through approach in paragraph (d) of this section.
+
+(2) The risk-weighted asset amount of an equity exposure to an investment fund that meets the requirements for a community development equity exposure in § 324.152(b)(3)(i) is its adjusted carrying value.
+
+(3) If an equity exposure to an investment fund is part of a hedge pair and the FDIC-supervised institution does not use the full look-through approach, the FDIC-supervised institution may use the ineffective portion of the hedge pair as determined under § 324.152(c) as the adjusted carrying value for the equity exposure to the investment fund. The risk-weighted asset amount of the effective portion of the hedge pair is equal to its adjusted carrying value.
+
+(b) *Full look-through approach.* An FDIC-supervised institution that is able to calculate a risk-weighted asset amount for its proportional ownership share of each exposure held by the investment fund (as calculated under this subpart E of this part as if the proportional ownership share of each exposure were held directly by the FDIC-supervised institution) may either:
+
+(1) Set the risk-weighted asset amount of the FDIC-supervised institution's exposure to the fund equal to the product of:
+
+(i) The aggregate risk-weighted asset amounts of the exposures held by the fund as if they were held directly by the FDIC-supervised institution; and
+
+(ii) The FDIC-supervised institution's proportional ownership share of the fund; or
+
+(2) Include the FDIC-supervised institution's proportional ownership share of each exposure held by the fund in the FDIC-supervised institution's IMA.
+
+(c) *Simple modified look-through approach.* Under this approach, the risk-weighted asset amount for an FDIC-supervised institution's equity exposure to an investment fund equals the adjusted carrying value of the equity exposure multiplied by the highest risk weight assigned according to subpart D of this part that applies to any exposure the fund is permitted to hold under its prospectus, partnership agreement, or similar contract that defines the fund's permissible investments (excluding derivative contracts that are used for hedging rather than speculative purposes and that do not constitute a material portion of the fund's exposures).
+
+(d) *Alternative modified look-through approach.* Under this approach, an FDIC-supervised institution may assign the adjusted carrying value of an equity exposure to an investment fund on a pro rata basis to different risk weight categories assigned according to subpart D of this part based on the investment limits in the fund's prospectus, partnership agreement, or similar contract that defines the fund's permissible investments. The risk-weighted asset amount for the FDIC-supervised institution's equity exposure to the investment fund equals the sum of each portion of the adjusted carrying value assigned to an exposure class multiplied by the applicable risk weight. If the sum of the investment limits for all exposure types within the fund exceeds 100 percent, the FDIC-supervised institution must assume that the fund invests to the maximum extent permitted under its investment limits in the exposure type with the highest risk weight under subpart D of this part, and continues to make investments in order of the exposure type with the next highest risk weight under subpart D of this part until the maximum total investment level is reached. If more than one exposure type applies to an exposure, the FDIC-supervised institution must use the highest applicable risk weight. An FDIC-supervised institution may exclude derivative contracts held by the fund that are used for hedging rather than for speculative purposes and do not constitute a material portion of the fund's exposures.

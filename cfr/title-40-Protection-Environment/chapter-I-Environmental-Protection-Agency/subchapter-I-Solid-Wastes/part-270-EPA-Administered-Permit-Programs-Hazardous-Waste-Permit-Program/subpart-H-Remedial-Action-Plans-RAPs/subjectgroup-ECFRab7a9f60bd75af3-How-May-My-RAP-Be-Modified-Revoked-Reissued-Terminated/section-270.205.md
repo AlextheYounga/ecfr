@@ -1,0 +1,3 @@
+##### § 270.205 What happens if I have applied correctly for a RAP renewal but have not received approval by the time my old RAP expires? #####
+
+If you have submitted a timely and complete application for a RAP renewal, but the Director, through no fault of yours, has not issued a new RAP with an effective date on or before the expiration date of your previous RAP, your previous RAP conditions continue in force until the effective date of your new RAP or RAP denial.

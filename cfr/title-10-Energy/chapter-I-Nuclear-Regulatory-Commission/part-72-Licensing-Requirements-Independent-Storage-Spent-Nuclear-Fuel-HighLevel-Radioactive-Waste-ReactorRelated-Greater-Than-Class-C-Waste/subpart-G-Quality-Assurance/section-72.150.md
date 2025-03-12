@@ -1,0 +1,3 @@
+##### § 72.150 Instructions, procedures, and drawings. #####
+
+The licensee, applicant for a license, certificate holder, and applicant for a CoC shall prescribe activities affecting quality by documented instructions, procedures, or drawings of a type appropriate to the circumstances and shall require that these instructions, procedures, and drawings be followed. The instructions, procedures, and drawings must include appropriate quantitative or qualitative acceptance criteria for determining that important activities have been satisfactorily accomplished.

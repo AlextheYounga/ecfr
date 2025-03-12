@@ -1,0 +1,13 @@
+##### § 382.123 What are the requirements concerning priority cabin stowage for wheelchairs and other assistive devices? #####
+
+(a) The following rules apply to the stowage of passengers' wheelchairs or other assistive devices in the priority stowage area provided for in § 382.67 of this part:
+
+(1) You must ensure that a passenger with a disability who uses a wheelchair and takes advantage of the opportunity to preboard the aircraft can stow his or her wheelchair in this area, with priority over other items brought onto the aircraft by other passengers or crew enplaning at the same airport, consistent with FAA, PHMSA, TSA, or applicable foreign government requirements concerning security, safety, and hazardous materials with respect to the stowage of carry-on items. You must move items that you or your personnel have placed in the priority stowage area (*e.g.,* crew luggage, an on-board wheelchair) to make room for the passenger's wheelchair, even if these items were stowed in the priority stowage area before the passenger seeking to stow a wheelchair boarded the aircraft (*e.g.,* the items were placed there on a previous leg of the flight).
+
+(2) You must also ensure that a passenger with a disability who takes advantage of the opportunity to preboard the aircraft can stow other assistive devices in this area, with priority over other items (except wheelchairs) brought onto the aircraft by other passengers enplaning at the same airport consistent with FAA, PHMSA, TSA, or applicable foreign government requirements concerning security, safety, and hazardous materials with respect to the stowage of carry-on items.
+
+(3) You must ensure that a passenger with a disability who does not take advantage of the opportunity to preboard is able to use the area to stow his or her wheelchair or other assistive device on a first-come, first-served basis along with all other passengers seeking to stow carry-on items in the area.
+
+(b) If a wheelchair exceeds the space provided for in § 382.67 of this part while fully assembled but will fit if wheels or other components can be removed without the use of tools, you must remove the applicable components and stow the wheelchair in the designated space. In this case, you must stow the removed components in areas provided for stowage of carry-on luggage.
+
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 78 FR 67924, Nov. 12, 2013]

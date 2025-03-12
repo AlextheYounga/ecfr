@@ -1,0 +1,11 @@
+##### § 2.1012 Compliance. #####
+
+(a) If the Department of Energy fails to make its initial certification at least six months prior to tendering the application, upon receipt of the tendered application, notwithstanding the provisions of § 2.101(f)(3), the Director of the NRC's Office of Nuclear Material Safety and Safeguards will not docket the application until at least six months have elapsed from the time of the certification. The Director may determine that the tendered application is not acceptable for docketing under this subpart if the application is not accompanied by an updated certification pursuant to § 2.1009(b), or if the Secretary of the Commission determines that the application is not submitted on optical storage media in a format consistent with NRC regulations and guidance, or for non-compliance with any other requirements identified in this subpart.
+
+(b)(1) A person, including a potential party given access to the Licensing Support Network under this subpart, may not be granted party status under § 2.309, or status as an interested governmental participant under § 2.315, if it cannot demonstrate substantial and timely compliance with the requirements of § 2.1003 at the time it requests participation in the HLW licensing proceeding under § 2.309 or § 2.315.
+
+(2) A person denied party status or interested governmental participant status under paragraph (b)(1) of this section may request party status or interested governmental participant status upon a showing of subsequent compliance with the requirements of § 2.1003. Admission of such a party or interested governmental participant under §§ 2.309 or 2.315, respectively, is conditioned on accepting the status of the proceeding at the time of admission.
+
+(c) The Presiding Officer shall not make a finding of substantial and timely compliance pursuant to paragraph (b) of this section for any person who is not in compliance with all applicable orders of the Pre-License Application Presiding Officer designated pursuant to § 2.1010.
+
+[54 FR 14944, Apr. 14, 1989, as amended at 56 FR 7796, Feb. 26, 1991; 63 FR 71739, Dec. 30, 1998; 66 FR 29466, May 31, 2001; 69 FR 2265, Jan. 14, 2004; 69 FR 32848, June 14, 2004]

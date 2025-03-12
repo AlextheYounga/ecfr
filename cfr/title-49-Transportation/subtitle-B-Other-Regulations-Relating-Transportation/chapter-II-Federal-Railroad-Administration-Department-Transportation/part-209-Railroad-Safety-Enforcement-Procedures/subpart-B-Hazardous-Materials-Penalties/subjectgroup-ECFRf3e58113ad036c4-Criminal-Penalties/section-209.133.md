@@ -1,0 +1,5 @@
+##### § 209.133 Referral for prosecution. #####
+
+If an inspector, including a certified state inspector under part 212 of this chapter, or another employee of FRA becomes aware of a possible knowing violation of 49 U.S.C. 5104(b) or a willful or reckless violation of the Federal hazardous materials transportation law or a regulation issued under those laws for which FRA exercises enforcement responsibility, he or she shall report it to the Chief Counsel. If evidence exists tending to establish a prima facie case, and if it appears that assessment of a civil penalty would not be an adequate deterrent to future violations, the Chief Counsel refers the report to the Department of Justice for criminal prosecution of the offender.
+
+[61 FR 38647, July 25, 1996, as amended at 71 FR 77295, Dec. 26, 2006]

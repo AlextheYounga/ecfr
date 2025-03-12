@@ -1,0 +1,5 @@
+##### § 81.45 Metropolitan Atlanta Intrastate Air Quality Control Region. #####
+
+The Metropolitan Atlanta Intrastate Air Quality Control Region (Georgia) has been revised to consist of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Georgia: Butts County, Carroll County, Clayton County, Cobb County, Coweta County, De Kalb County, Douglas County, Fayette County, Fulton County, Gwinnett County, Heard County, Henry County, Lamar County, Meriwether County, Pike County, Rockdale County, Spalding County, Troup County, Upson County.

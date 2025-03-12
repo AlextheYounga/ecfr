@@ -1,0 +1,29 @@
+##### 6101.21 Hearing procedures [Rule 21]. #####
+
+(a) *Nature and conduct of hearings.* (1) Except when necessary to maintain the confidentiality of protected material or testimony, or material submitted *in camera*, all hearings on the merits of cases shall be open to the public and conducted insofar as is convenient in regular hearing rooms. All other acts or proceedings may be done or conducted by the Board either in its offices or at other places.
+
+(2) When cases involving common questions of law or fact are pending, the Board may order a joint hearing of any or all of the matters, claims, or issues in the cases.
+
+(3) The Board may order a separate hearing of any matters, claims, or issues pending in any case. The Board may enter appropriate orders or decisions with respect to any matters, claims, or issues that are heard separately.
+
+(4) Upon the agreement of the parties or upon its own initiative, the Board may notify the parties before a hearing begins that it will limit the hearing to those issues of law and fact relating to the right of a party to recover, reserving the determination of the amount of recovery, if any, for other proceedings.
+
+(5) Before the hearing begins, the Board may prescribe a time within which the presentation of evidence must be concluded, and may establish time limits on the direct and cross-examination of witnesses.
+
+(6) Upon the request of either party or if the Board deems it advisable, the Board will order witnesses to be excluded from the hearing room so they cannot hear the testimony of other witnesses. The Board will not exclude a party who is an individual, the designated representative of a party which is an entity, a person whose presence is essential to the presentation of a party's case, or someone authorized by statute to be present.
+
+(b) *Continuances; change of location.* Whenever practicable, a hearing will be conducted in one continuous session or a series of consecutive sessions at a single location. However, the Board may at any time continue the hearing to a future date and may arrange to conduct the hearing in more than one location. The Board may also continue a hearing to permit a party to conduct additional discovery on conditions established by the Board. In exercising its discretion to continue a hearing or to change its location, the Board will give due consideration to the same elements (set forth in 6101.20(a) (Rule 20(a))) that it considers in scheduling hearings.
+
+(c) *Availability of witnesses, documents, and other tangible things.* It is the responsibility of a party desiring to call any witness, or to use any document or other tangible thing as an exhibit in the course of a hearing, to ensure that whomever it wishes to call and whatever it wishes to use is available at the hearing. If a witness cannot be made available at the site of the hearing, the party who wishes to call the witness may file a motion that the witness be allowed to testify remotely, whether by telephone, video conference, or some other method.
+
+(d) *Enlargement of the record.* The Board may at any time during the conduct of a hearing require evidence or argument in addition to that put forth by the parties.
+
+(e) *Examination of witnesses.* Witnesses before the Board will testify under oath or affirmation. A party or the Board may obtain an answer from any witness to any question that is not the subject of an objection that the Board sustains.
+
+(f) *Refusal to be sworn.* If a person called as a witness refuses to be sworn or to affirm before testifying, the Board may direct that witness to be sworn or to affirm and, in the event of continued refusal, the Board may permit the taking of testimony without oath or affirmation. If the Board permits a witness to testify without oath or affirmation, the Board will explain that statements made during the hearing are subject to provisions of federal law imposing penalties, including criminal penalties, for knowingly making false representations. Alternatively, the Board may refuse to permit the examination of that witness, in which event it may state for the record the inferences it draws from the witness's refusal to testify under oath or affirmation. Alternatively, the Board may issue a subpoena to compel that witness to testify under oath or affirmation and, in the event of the witness's continued refusal to be sworn or to affirm, may seek enforcement of that subpoena pursuant to 6101.16(h) (Rule 16(h)).
+
+(g) *Refusal to answer.* If a witness refuses to answer a question put to him in the course of his testimony, the Board may direct that witness to answer and, in the event of continued refusal, the Board may state for the record the inferences it draws from the refusal to answer. Alternatively, the Board may issue a subpoena to compel that witness to testify and, in the event of the witness's continued refusal to testify, may seek enforcement of that subpoena pursuant to 6101.16(h) (Rule 16(h)).
+
+(h) *Issues not raised by pleadings.* If evidence is objected to at a hearing on the ground that it is not within the issues raised by the pleadings, it may nevertheless be admitted by the Board if it is within the proper scope of the case. If such evidence is admitted, the Board may grant the objecting party a continuance to enable it to meet such evidence. If such evidence is admitted, the pleadings may be amended to conform to the evidence, as provided by 6101.6(f) (Rule 6(f)).
+
+(i) *Delay by parties.* If the Board determines that the hearing is being unreasonably delayed by the failure of a party to produce evidence, or by the undue prolongation of the presentation of evidence, it may, during the hearing, prescribe a time or times within which the presentation of evidence must be concluded, establish time limits on the direct or cross-examination of witnesses, and enforce such order or ruling by appropriate sanctions.

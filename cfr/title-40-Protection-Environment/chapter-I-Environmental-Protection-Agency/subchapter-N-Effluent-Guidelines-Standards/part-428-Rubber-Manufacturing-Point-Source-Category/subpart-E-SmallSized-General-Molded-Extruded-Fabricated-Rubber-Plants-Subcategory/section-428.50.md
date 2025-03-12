@@ -1,0 +1,3 @@
+##### § 428.50 Applicability; description of the small-sized general molded, extruded, and fabricated rubber plants subcategory. #####
+
+The following provisions of this subpart are applicable to process waste water discharges resulting from the production of molded, extruded, and fabricated rubber products, foam rubber backing, rubber cement-dipped goods, and retreaded tires by small-sized plants. Specifically excluded from the provisions of this subpart are the discharges resulting from the production of latex-based products, tires and inner tubes, and those discharges from textile plants subject to the provisions of part 410 of this chapter.

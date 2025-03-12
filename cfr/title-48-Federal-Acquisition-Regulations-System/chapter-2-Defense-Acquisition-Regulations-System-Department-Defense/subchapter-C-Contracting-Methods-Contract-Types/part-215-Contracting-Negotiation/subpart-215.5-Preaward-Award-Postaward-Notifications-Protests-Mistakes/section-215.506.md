@@ -1,0 +1,3 @@
+##### 215.506 Postaward debriefing of offerors. #####
+
+(e) If the Government exercises the authority provided in 239.7305(d), the debriefing shall not reveal any information that is determined to be withheld from disclosure in accordance with section 806 of the National Defense Authorization Act for Fiscal Year 2011, as amended by section 806 of the National Defense Authorization Act for Fiscal Year 2013 (see subpart 239.73).

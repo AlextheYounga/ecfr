@@ -1,0 +1,3 @@
+##### § 459.10 Applicability; description of the photographic processing subcategory. #####
+
+The provisions of this subpart are applicable to point source discharges resulting from the development or printing of paper prints, slides, negatives, enlargements, movie film, and other sensitized materials except that facilities processing 150 sq. meters (1600 sq. feet) per day or less are not covered. Both commercial and military facilities are covered by this subpart.

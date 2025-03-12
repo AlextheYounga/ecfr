@@ -1,0 +1,7 @@
+##### § 1245.114 Findings and recommendations of the Board. #####
+
+(a) *Findings of the Board.* The Board shall consider the petition, the NASA contract, if relevant, the goals cited in § 1245.103(a), the effect of the waiver on the objectives of the related NASA programs, and any other available facts and information presented to the Board by an interested party. The Board shall document its findings.
+
+(b) *Recommendation of the Board.* (1) Except as provided in § 1245.104(d), after making the findings of fact, the Board shall formulate its proposed recommendation to the Administrator as to the grant of waiver as requested, the grant of waiver upon terms other than as requested, or denial of waiver.
+
+(2) If the Board proposes to recommend, initially or upon reconsideration or after oral hearing, that the petition be granted in the extent requested or, in other cases, where the petitioner does not request reconsideration or a hearing during the period set for the action or informs the Board that the action will not be requested, or fails to file the required statements within the prescribed time, the Board shall transmit the petition, a summary record of hearing proceedings, if applicable, its findings of fact, and its recommendation to the Administrator.

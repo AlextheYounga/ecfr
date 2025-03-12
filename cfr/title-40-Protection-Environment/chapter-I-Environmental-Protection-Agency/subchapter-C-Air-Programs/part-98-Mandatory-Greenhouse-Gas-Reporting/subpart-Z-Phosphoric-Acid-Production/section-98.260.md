@@ -1,0 +1,3 @@
+##### § 98.260 Definition of the source category. #####
+
+The phosphoric acid production source category consists of facilities with a wet-process phosphoric acid process line used to produce phosphoric acid. A wet-process phosphoric acid process line is the production unit or units identified by an individual identification number in an operating permit and/or any process unit or group of process units at a facility reacting phosphate rock from a common supply source with acid.

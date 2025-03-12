@@ -1,0 +1,39 @@
+##### 52.219-28 Post-Award Small Business Program Rerepresentation. #####
+
+As prescribed in 19.309(c), insert the following clause:
+
+Post-Award Small Business Program Rerepresentation (JUL 2013)
+
+(a) *Definitions.* As used in this clause -
+
+*Long-term contract* means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority.
+
+*Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it is bidding on Government contracts, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (c) of this clause. Such a concern is “not dominant in its field of operation” when it does not exercise a controlling or major influence on a national basis in a kind of business activity in which a number of business concerns are primarily engaged. In determining whether dominance exists, consideration shall be given to all appropriate factors, including volume of business, number of employees, financial resources, competitive status or position, ownership or control of materials, processes, patents, license agreements, facilities, sales territory, and nature of business activity.
+
+(b) If the Contractor represented that it was a small business concern prior to award of this contract, the Contractor shall rerepresent its size status according to paragraph (e) of this clause or, if applicable, paragraph (g) of this clause, upon the occurrence of any of the following:
+
+(1) Within 30 days after execution of a novation agreement or within 30 days after modification of the contract to include this clause, if the novation agreement was executed prior to inclusion of this clause in the contract.
+
+(2) Within 30 days after a merger or acquisition that does not require a novation or within 30 days after modification of the contract to include this clause, if the merger or acquisition occurred prior to inclusion of this clause in the contract.
+
+(3) For long-term contracts -
+
+(i) Within 60 to 120 days prior to the end of the fifth year of the contract; and
+
+(ii) Within 60 to 120 days prior to the date specified in the contract for exercising any option thereafter.
+
+(c) The Contractor shall rerepresent its size status in accordance with the size standard in effect at the time of this rerepresentation that corresponds to the North American Industry Classification System (NAICS) code assigned to this contract. The small business size standard corresponding to this NAICS code can be found at *http://www.sba.gov/content/table-small-business-size-standards.*
+
+(d) The small business size standard for a Contractor providing a product which it does not manufacture itself, for a contract other than a construction or service contract, is 500 employees.
+
+(e) Except as provided in paragraph (g) of this clause, the Contractor shall make the representation required by paragraph (b) of this clause by validating or updating all its representations in the Representations and Certifications section of the System for Award Management (SAM) and its other data in SAM, as necessary, to ensure that they reflect the Contractor's current status. The Contractor shall notify the contracting office in writing within the timeframes specified in paragraph (b) of this clause that the data have been validated or updated, and provide the date of the validation or update.
+
+(f) If the Contractor represented that it was other than a small business concern prior to award of this contract, the Contractor may, but is not required to, take the actions required by paragraphs (e) or (g) of this clause.
+
+(g) If the Contractor does not have representations and certifications in SAM, or does not have a representation in SAM for the NAICS code applicable to this contract, the Contractor is required to complete the following rerepresentation and submit it to the contracting office, along with the contract number and the date on which the rerepresentation was completed:
+
+The Contractor represents that it is, is not a small business concern under NAICS Code \_\_\_\_\_\_\_ assigned to contract number \_\_\_\_\_\_\_\_\_.
+
+[*Contractor to sign and date and insert authorized signer's name and title*].
+
+(End of clause)[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014]

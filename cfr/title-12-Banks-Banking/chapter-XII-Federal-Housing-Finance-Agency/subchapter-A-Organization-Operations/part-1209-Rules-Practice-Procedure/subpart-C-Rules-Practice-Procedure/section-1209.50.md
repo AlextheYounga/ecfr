@@ -1,0 +1,11 @@
+##### § 1209.50 Conduct of hearings. #####
+
+(a) *General rules.* (1) *Conduct.* Hearings shall be conducted in accordance with chapter 5 of title 5 and other applicable law and so as to provide a fair and expeditious presentation of the relevant disputed issues. Except as limited by this subpart, each party has the right to present its case or defense by oral and documentary evidence and to conduct such cross examination as may be required for full disclosure of the facts.
+
+(2) *Order of hearing.* FHFA counsel of record shall present its case-in-chief first, unless otherwise ordered by the presiding officer or unless otherwise expressly specified by law or regulation. FHFA counsel of record shall be the first party to present an opening statement and a closing statement and may make a rebuttal statement after the respondent's closing statement. If there are multiple respondents, respondents may agree among themselves as to the order of presentation of their cases, but if they do not agree, the presiding officer shall fix the order.
+
+(3) *Examination of witnesses.* Only one representative for each party may conduct an examination of a witness, except that in the case of extensive direct examination, the presiding officer may permit more than one representative for the party presenting the witness to conduct the examination. A party may have one representative conduct the direct examination and another representative conduct re-direct examination of a witness, or may have one representative conduct the cross examination of a witness and another representative conduct the re-cross examination of a witness.
+
+(4) *Stipulations.* Unless the presiding officer directs otherwise, all documents that the parties have stipulated as admissible shall be admitted into evidence upon commencement of the hearing.
+
+(b) *Transcript.* The hearing shall be recorded and transcribed. The transcript shall be made available to any party upon payment of the cost thereof. The presiding officer shall have authority to order the record corrected, either upon motion to correct, upon stipulation of the parties, or following notice to the parties upon the presiding officer's own motion.

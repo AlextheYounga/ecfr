@@ -1,0 +1,5 @@
+##### § 308.156 Scope. #####
+
+The rules and procedures set forth in this subpart shall apply to an application filed pursuant to section 19 of the FDIA (12 U.S.C. 1829) by an insured depository institution and/or an individual, who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering or who has agreed to enter into a pretrial diversion or similar program in connection with the prosecution of such offense, to seek the prior written consent of the FDIC to become or continue as an institution-affiliated party with respect to an insured depository institution; to own or control directly or indirectly an insured depository institution; or to participate directly or indirectly in any manner in the conduct of the affairs of an insured depository institution.
+
+[56 FR 37975, Aug. 9, 1991, as amended at 64 FR 62101, Nov. 16, 1999; 64 FR 72913, Dec. 29, 1999]

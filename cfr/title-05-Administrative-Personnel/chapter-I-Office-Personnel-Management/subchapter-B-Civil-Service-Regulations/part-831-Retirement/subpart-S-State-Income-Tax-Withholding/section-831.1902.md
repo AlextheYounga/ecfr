@@ -1,0 +1,3 @@
+##### § 831.1902 Federal-State agreements. #####
+
+OPM will enter into an agreement with any State within 120 days of an application for agreement from the proper State official. The terms of the standard agreement will be §§ 831.1903 through 831.1906 of this subpart. OPM and the State may agree to additional terms and provisions, insofar as those additional terms and provisions do not contradict or otherwise limit the terms of the standard agreement.

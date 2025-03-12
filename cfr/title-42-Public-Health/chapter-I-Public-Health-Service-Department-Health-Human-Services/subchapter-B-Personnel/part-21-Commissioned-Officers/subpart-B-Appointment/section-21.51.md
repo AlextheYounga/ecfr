@@ -1,0 +1,3 @@
+##### § 21.51 Appointment of officers having specialized training or experience in administration and management. #####
+
+The Surgeon General may recommend for original appointment in the Reserve Corps candidates who have specialized training or experience in administration and management relating to the functions of the Service. All such candidates shall be subject to the same eligibility requirements for original appointment as are applicable to other candidates, except that such a candidate may substitute experience in administration or management for the requirement of professional training or experience.

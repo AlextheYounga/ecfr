@@ -1,0 +1,3 @@
+##### 2828.307-1 Group insurance plans. #####
+
+Under cost-reimbursement contracts, before buying insurance under a group insurance plan, the contractor shall submit the plan to the contracting officer for review and approval. During review, the contracting office should utilize all sources of information available such as audit, industry practices, etc., to determine that acceptance of the group insurance plan, as submitted, is in the Government's best interest.

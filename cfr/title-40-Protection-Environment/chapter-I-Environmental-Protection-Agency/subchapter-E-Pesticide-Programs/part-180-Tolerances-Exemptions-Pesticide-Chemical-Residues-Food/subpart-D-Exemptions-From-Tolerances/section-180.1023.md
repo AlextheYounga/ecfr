@@ -1,0 +1,9 @@
+##### § 180.1023 Propanoic acid; exemptions from the requirement of a tolerance. #####
+
+(a) Postharvest application of propanoic acid or a mixture of methylene bispropionate and oxy(bismethylene) bisproprionate when used as a fungicide is exempted from the requirement of a tolerance for residues in or on the following raw agricultural commodities: Alfalfa, forage; alfalfa, hay; alfalfa, seed; barley, grain; Bermudagrass, forage; Bermudagrass, hay; bluegrass, forage; bluegrass, hay; bromegrass, forage; bromegrass, hay; clover, forage; clover, hay; corn, field, grain; corn, pop, grain; cowpea, hay; fescue, forage; fescue, hay; lespedeza, forage; lespedeza, hay; lupin; oat, grain; orchardgrass, forage; orchardgrass, hay; peanut, hay; pea, field, hay; ryegrass, Italian, hay; sorghum, grain, grain; soybean, hay; sudangrass, forage; sudangrass, hay; timothy, forage; timothy, hay; vetch, forage; vetch, hay; and wheat, grain.
+
+(b) Propanoic acid is exempt from the requirement of a tolerance for residues in or on cattle, meat; cattle, meat byproducts; goat, meat; goat, meat byproducts; hog, meat; hog meat byproducts; horse, meat; horse, meat byproducts; sheep, meat; sheep meat byproducts; and, poultry, fat; poultry meat; poultry meat byproducts; milk, and egg when applied as a bactericide/fungicide to livestock drinking water, poultry litter, and storage areas for silage and grain.
+
+(c) Preharvest and postharvest application of propanoic acid (CAS Reg. No. 79-09-4), propanioc acid, calcium salt (CAS Reg. No. 4075-81-4), and propanioc sodium salt (CAS Reg. No. 137-40-6) are exempted from the requirement of a tolerance on all crops when used as either an active or inert ingredient in accordance with good agricultural practice in pesticide formulations applied to growing crops, to raw agricultural commodities before and after harvest and to animals.
+
+[69 FR 47025, Aug. 4, 2004, as amended at 74 FR 26534, June 3, 2009]

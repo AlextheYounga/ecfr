@@ -1,0 +1,3 @@
+##### § 35.613 Competitive process. #####
+
+Wetlands development grants are awarded on a competitive basis. EPA annually establishes a deadline for receipt of grant applications. EPA reviews applications and decides which grant projects to fund based on criteria established by EPA. After the competitive process is complete, the recipient can, at its discretion, accept the award as a wetlands development program grant or add the funds to a Performance Partnership Grant. If the recipient chooses to add the funds to a Performance Partnership Grant, the wetlands development program work plan commitments must be included in the Performance Partnership Grant work plan.

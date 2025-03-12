@@ -1,0 +1,3 @@
+##### 2907.107 Additional requirements for acquisitions involving bundling. #####
+
+The FAR requirements for justification, review, and approval of bundling of contract requirements also apply to an order from a Federal Supply Schedule contract, Governmentwide acquisition contracts, or other indefinite-delivery contracts if the requirements consolidated under the order meet the definition of “bundling” at FAR 2.101.

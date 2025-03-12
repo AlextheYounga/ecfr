@@ -1,0 +1,3 @@
+##### § 81.65 Joplin (Missouri)-Northeast Oklahoma Interstate Air Quality Control Region. #####
+
+The Joplin (Missouri)-Northeast Oklahoma Interstate Air Quality Control Region, designated on December 8, 1970, and consisting of the counties of Barton, Jasper, McDonald, and Newton in the State of Missouri and Craig, Delaware, and Ottawa in the State of Oklahoma, is revoked effective upon publication.

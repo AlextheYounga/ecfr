@@ -1,0 +1,7 @@
+##### 536.213-372 Bids that include both alternates and options. #####
+
+(a) Solicitations may include both alternates and options if the conditions in 536.213-370, Bids that include alternates, and 536.213-371, Bids that include options, are satisfied. In these solicitations, the low bidder for purposes of award is the responsible bidder offering the lowest aggregate price for the base bid and the alternates, in the order of priority listed in the solicitation, that provide the most work features within the funds available at bid opening, plus all options designated to be evaluated.
+
+(b) The basis of award may require the evaluation of options associated with alternates if the related alternate is selected.
+
+(c) Before opening bids that include both alternates and options, determine, and record in the contract file, the amount of funds available for the project (*i.e.,* for the base bid and alternate work). The amount recorded must be announced at the beginning of the bid opening. This amount may be increased later when determining the alternate items to be awarded to the low bidder if the following condition is met: the award amount of the base bid and evaluated options plus the alternate items does not exceed the amount offered for the base bid, the evaluated options, and the same combination of alternate items by any other responsible bidder whose bid conforms to the solicitation.

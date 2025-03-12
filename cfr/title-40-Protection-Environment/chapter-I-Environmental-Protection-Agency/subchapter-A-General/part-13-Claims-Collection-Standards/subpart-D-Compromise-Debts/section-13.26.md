@@ -1,0 +1,3 @@
+##### § 13.26 Payment of compromised claims. #####
+
+The Administrator normally will not approve a debtor's request to pay a compromised claim in installments. However, where the Administrator determines that payment of a compromise by installments is necessary to effect collection, a debtor's request to pay in installments may be approved. Normally, where installment repayment is approved, the debtor will be required to execute a confess-judgment agreement which accelerates payment of the balance due upon default.

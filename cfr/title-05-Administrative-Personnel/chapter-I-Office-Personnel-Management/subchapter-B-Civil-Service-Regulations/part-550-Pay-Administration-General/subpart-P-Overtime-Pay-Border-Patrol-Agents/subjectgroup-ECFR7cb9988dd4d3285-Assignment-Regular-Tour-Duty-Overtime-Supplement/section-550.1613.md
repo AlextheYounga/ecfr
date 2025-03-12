@@ -1,0 +1,3 @@
+##### § 550.1613 Selection of agents for assignment. #####
+
+If application of paragraphs (f)(3) and (4) of § 550.1611 (or application of those paragraphs through § 550.1612) requires CBP to select agents for assignment to a particular regular tour of duty out of a pool of agents who prefer a different assignment, CBP must make any such selection consistent with an established written plan that includes the criteria that will be considered and the priority of those criteria. Such plan must be consistent with the requirements of this subpart.

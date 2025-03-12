@@ -1,0 +1,3 @@
+##### § 137.146 If the Secretary rejects all or part of a final offer, is the Indian Tribe entitled to an appeal? #####
+
+Yes, the Indian Tribe is entitled to appeal the decision of the Secretary, with an agency hearing on the record, and the right to engage in full discovery relevant to any issue raised in the matter. The procedures for appeals are found in subpart P of this part. Alternatively, at its option, the Indian Tribe has the right to sue pursuant to section 110 of the Act [25 U.S.C. 450m-1] in Federal district court to challenge the Secretary's decision.

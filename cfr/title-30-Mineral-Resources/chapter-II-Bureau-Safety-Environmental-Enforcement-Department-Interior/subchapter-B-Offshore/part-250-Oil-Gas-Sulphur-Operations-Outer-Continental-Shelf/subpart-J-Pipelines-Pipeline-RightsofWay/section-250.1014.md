@@ -1,0 +1,3 @@
+##### § 250.1014 When pipeline right-of-way grants expire. #####
+
+Any right-of-way granted under the provisions of this subpart remains in effect as long as the associated pipeline is properly maintained and used for the purpose for which the grant was made, unless otherwise expressly stated in the grant. Temporary cessation or suspension of pipeline operations shall not cause the grant to expire. However, if the purpose of the grant ceases to exist or use of the associated pipeline is permanently discontinued for any reason, the grant shall be deemed to have expired.

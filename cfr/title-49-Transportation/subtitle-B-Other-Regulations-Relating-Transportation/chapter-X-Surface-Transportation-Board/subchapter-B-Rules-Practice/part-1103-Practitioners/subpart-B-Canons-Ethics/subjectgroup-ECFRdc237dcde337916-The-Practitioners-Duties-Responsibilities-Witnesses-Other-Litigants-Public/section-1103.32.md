@@ -1,0 +1,5 @@
+##### § 1103.32 Discovery of imposition and deception and duty to report corrupt or dishonest conduct. #####
+
+(a) The practitioner, upon detecting fraud or deception practiced against the Board or a party in a case, shall make every effort to rectify the practice by advising his client to forgo any unjustly earned advantage. If such advice is refused, the practitioner should inform the injured party or that party's practitioner so that appropriate steps may be taken.
+
+(b) Practitioners shall expose without fear or favor before the proper tribunals any corrupt or dishonest conduct and should accept without hesitation employment against a practitioner who has wronged his client. The practitioner upon the trial of a case in which perjury has been committed owes it to the Board and to the public to bring the matter to the knowledge of the prosecuting authorities.

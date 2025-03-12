@@ -1,0 +1,5 @@
+##### § 214.4 Agreements with foreign banks, bankers, or States, and participation in foreign accounts. #####
+
+(a) No Federal Reserve Bank shall enter into any agreement, contract, or understanding with any foreign bank or banker or with any group of foreign banks or bankers or with any foreign State without first obtaining the permission of the Board of Governors of the Federal Reserve System.
+
+(b) When any Federal Reserve Bank, with the approval of the Board of Governors of the Federal Reserve System, has opened an account for any foreign bank or banker or group of foreign banks or bankers or for any foreign State, or has entered into any agreement, contract, or understanding with reference to opening or maintaining such an account, or with reference to any other matter or matters, any other Federal Reserve Bank may participate in such account, or in such agreement, contract, or understanding, and in operations and transactions performed therein or pursuant thereto, with the approval of the Board of Governors of the Federal Reserve System.

@@ -1,0 +1,3 @@
+##### § 564.1 Scope. #####
+
+This part requires the submission of dimensional, electrical specification, and marking/designation information as specified in Appendices A and B of this part, for original equipment replaceable light sources used in motor vehicle headlighting systems. This part also serves as a repository for design information as specified in appendix C of this part, for original equipment and replacement standardized sealed beam units used in motor vehicle headlighting systems.

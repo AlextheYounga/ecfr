@@ -1,0 +1,5 @@
+##### § 330.9 What are the limits on compensation to air carriers? #####
+
+(a) You are eligible to receive compensation equaling the lesser of your direct and incremental losses or the amount calculated by the formula set forth in section 103(b)(2) of the Act.
+
+(b) If at any time we determine that a carrier has been compensated in an amount that exceeds the amount to which it is entitled under section 103(b) of the Act or the subpart C set-aside program, the Department will notify the carrier of the basis for the determination, the amount that must be repaid, and the procedures to follow for making a repayment. We will follow collection procedures under the Federal Claims Collection Act of 1966 (31 U.S.C. 3701 *et seq.,*) to the extent required by law, in recovering such overpayments. This process will also apply to collection of overpayments by the Department as a result of an audit by representatives of the Department, including the Office of the Inspector General, or the Comptroller General under section 103 of the Act, which may be the subject of a separate collection action.

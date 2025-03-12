@@ -1,0 +1,3 @@
+##### § 593.1 Scope. #####
+
+This part establishes procedures under section 108(c) of the National Traffic and Motor Vehicle Safety Act, as amended (15 U.S.C. 1397(c)), for making determinations whether a vehicle that was not originally manufactured to conform with all applicable Federal motor vehicle safety standards, and is not otherwise eligible for importation under part 591 of this chapter, may be imported into the United States because it can be modified to meet the Federal standards.

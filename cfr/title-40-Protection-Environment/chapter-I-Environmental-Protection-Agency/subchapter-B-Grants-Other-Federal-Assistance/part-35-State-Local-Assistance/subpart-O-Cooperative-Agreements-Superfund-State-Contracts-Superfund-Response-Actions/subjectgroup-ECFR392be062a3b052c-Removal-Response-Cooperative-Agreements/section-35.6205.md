@@ -1,0 +1,13 @@
+##### § 35.6205 Removal Cooperative Agreements. #####
+
+(a) The State must comply with the requirements described in § 35.6105(a). To the extent practicable, the State must comply with the notification requirement at § 35.6120 when a removal action is necessary and involves out-of-State shipment of CERCLA wastes, and when, based on the site evaluation, EPA determines that a planning period of more than six months is available before the removal activities must begin.
+
+(b) Pursuant to CERCLA section 104(c)(3), the State is not required to share in the cost of a CERCLA-funded removal action, unless the removal is conducted at a site that was publicly operated by a State or political subdivision at the time of disposal of hazardous substances and a CERCLA-funded remedial action is ultimately undertaken at the site. In this situation, the State must share at least 50 percent in the cost of all removal, remedial planning, and remedial action costs at the time of the remedial action as stated in § 35.6105(b)(2)(ii).
+
+(c) If both the State and EPA agree, a political subdivision with the necessary capabilities and jurisdictional authority may assume the lead responsibility for all, or a portion, of the removal activity at a site. Political subdivisions must comply with the requirements described in § 35.6105(a). To the extent practicable, political subdivisions also must comply with the notification requirement at § 35.6120 when a removal action is necessary and involves the shipment of CERCLA wastes out of the State's jurisdiction, and when, based on the site evaluation, EPA determines that a planning period of more than six months is available before the removal activities must begin.
+
+(d) The State must provide the cost share assurance discussed in paragraph (b) of this section on behalf of a political subdivision that is given the lead for a removal action.
+
+(e) Indian Tribes must comply with the requirements described in § 35.6105(a). To the extent practicable, Indian Tribes also must comply with the notification requirement at § 35.6120 when a removal action is necessary and involves the shipment of CERCLA wastes out of the Indian Tribe's area of Indian country, and when, based on the site evaluation, EPA determines that a planning period of more than six months is available before the removal activities must begin.
+
+(f) Indian Tribes are not required to share in the cost of a CERCLA-funded removal action.

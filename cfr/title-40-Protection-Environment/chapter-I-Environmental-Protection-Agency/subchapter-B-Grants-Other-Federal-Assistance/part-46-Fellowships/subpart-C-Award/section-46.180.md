@@ -1,0 +1,3 @@
+##### § 46.180 Acceptance of fellowship award. #####
+
+You must accept your fellowship by signing and returning the EPA award form (EPA Form 5770-8) to the EPA award official within three weeks after receipt, or within an extension of time approved by the award official. If you do not sign and return the Fellowship agreement to the award official or request an extension of the acceptance time within three calendar weeks after receiving the agreement, the award official may void the agreement. EPA will not pay for costs incurred under voided agreements.

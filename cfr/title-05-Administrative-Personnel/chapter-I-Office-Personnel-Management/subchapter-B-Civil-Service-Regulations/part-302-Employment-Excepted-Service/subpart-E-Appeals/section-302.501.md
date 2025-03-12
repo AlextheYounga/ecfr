@@ -1,0 +1,3 @@
+##### § 302.501 Entitlement. #####
+
+An individual who is covered by 5 U.S.C. 8101(1) and is entitled to priority consideration under this part (see § 302.103) may appeal a violation of his/her restoration rights to the Merit Systems Protection Board under the provisions of the Board's regulations by presenting factual information that he or she was denied restoration rights because of the employment of another person.

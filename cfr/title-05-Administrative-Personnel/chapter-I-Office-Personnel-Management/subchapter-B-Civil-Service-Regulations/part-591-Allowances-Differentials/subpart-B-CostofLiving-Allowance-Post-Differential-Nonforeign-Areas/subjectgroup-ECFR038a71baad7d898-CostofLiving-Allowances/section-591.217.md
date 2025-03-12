@@ -1,0 +1,3 @@
+##### § 591.217 In which outlets does OPM collect prices? #####
+
+OPM collects prices in popular outlets in each survey area. OPM selects these outlets based on their proximity to the housing data collection areas, accessibility by road, physical size, advertising, and other characteristics that reflect sales volume. To the extent practical, OPM prices like items in the same types of outlets in the COLA areas and the Washington, DC, area. As warranted, OPM also may conduct point-of-purchase surveys and select outlets based on the results of those surveys.

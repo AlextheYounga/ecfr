@@ -1,0 +1,15 @@
+##### § 173.162 Gallium. #####
+
+(a) Except when packaged in cylinders or steel flasks, gallium must be packaged in packagings which meet the requirements of part 178 of this subchapter at the Packing Group I performance level for transportation by aircraft, and at the Packing Group III performance level for transport by highway, rail or vessel, as follows:
+
+(1) In combination packagings intended to contain liquids consisting of glass, earthenware or rigid plastic inner packagings with a maximum net mass of 15 kg (33 pounds) each. The inner packagings must be packed in wood boxes (4C1, 4C2, 4D, 4F), fiberboard boxes (4G), plastic boxes (4H1, 4H2), fiber drums (1G) or steel, metal, other than steel or aluminum, and plastic drums or jerricans (1A1, 1A2, 1N1, 1N2, 1H1, 1H2, 3A2 or 3H2) with sufficient cushioning materials to prevent breakage. Either the inner packagings or the outer packagings must have an inner liner that is leakproof or bags of strong leakproof and puncture-resistant material impervious to the contents and completely surrounding the contents to prevent it from escaping from the package, irrespective of its position.
+
+(2) In packagings intended to contain liquids consisting of semi-rigid plastic inner packagings of not more than 2.5 kg (5.5 pounds) net capacity each, individually enclosed in a sealed, leak-tight bag of strong puncture-resistant material. The sealed bags must be packed in wooden (4C1, 4C2), plywood (4D), reconstituted wood (4F), fiberboard (4G), plastic (4H1, 4H2) or metal, other than steel or aluminum (4N) boxes or in fiber (1G), steel (1A1, 1A2), metal, other than steel or aluminum (1N1, 1N2), or plastic (1H1 or 1H2) drums, that are lined with leak-tight, puncture-resistant material. Bags and liner material must be chemically resistant to gallium.
+
+(3) Cylinders and steel flasks with vaulted bottoms are also authorized.
+
+(b) When it is necessary to transport gallium at low temperatures in order to maintain it in a completely solid state, the above packagings may be overpacked in a strong, water-resistant outer packaging which contains dry ice or other means of refrigeration. If a refrigerant is used, all of the above materials used in the packaging of gallium must be chemically and physically resistant to the refrigerant and must have impact resistance at the low temperatures of the refrigerant employed. If dry ice is used, the outer packaging must permit the release of carbon dioxide gas.
+
+(c) Manufactured articles or apparatuses, each containing not more than 100 mg (0.0035 ounce) of gallium and packaged so that the quantity of gallium per package does not exceed 1 g (0.35 ounce) are not subject to the requirements of this subchapter. For transportation by aircraft, such articles and apparatuses must be transported as cargo and may not be carried onboard an aircraft by passengers or crewmembers in carry-on baggage, checked baggage, or on their person unless specifically excepted by § 175.10.
+
+[64 FR 10777, Mar. 5, 1999, as amended at 66 FR 33430, June 21, 2001; 78 FR 1085, Jan. 7, 2013]

@@ -1,0 +1,3 @@
+##### § 1229.4 Authority. #####
+
+The Secretary of the DOI is authorized under provisions of 30 U.S.C. 1735 to delegate authority to States to conduct audits and related investigations with respect to all Federal lands within a State, and to those Indian lands to which a State has received permission from the respective Indian tribe(s) or allottee(s) to carry out audit activities under a delegation from the Secretary.

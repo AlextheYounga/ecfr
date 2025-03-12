@@ -1,0 +1,9 @@
+##### § 503.18 Reporting. #####
+
+Class I sludge management facilities, POTWs (as defined in § 501.2 of this chapter) with a design flow rate equal to or greater than one million gallons per day, and POTWs that serve 10,000 people or more shall submit a report on February 19 of each year. As of December 21, 2016, all reports submitted in compliance with this section must be submitted electronically by the operator to EPA when the Regional Administrator is the Director in compliance with this section and 40 CFR part 3 (including, in all cases, subpart D to part 3), 40 CFR 122.22, and 40 CFR part 127. Otherwise, as of December 21, 2025, or an EPA-approved alternative date (*see* 40 CFR 127.24(e) or (f)), all reports submitted in compliance with this section must be submitted electronically in compliance with this section and 40 CFR part 3 (including, in all cases, subpart D to 40 CFR part 3), 40 CFR 122.22, and 40 CFR part 127. 40 CFR part 127 is not intended to undo existing requirements for electronic reporting. Prior to the compliance deadlines for electronic reporting (*see* Table 1 in 40 CFR 127.16), the Director may also require operators to electronically submit annual reports under this section if required to do so by State law.
+
+(a) The information in § 503.17(a), except the information in § 503.17(a)(3)(ii), (a)(4)(ii) and in (a)(5)(ii), for the appropriate requirements on February 19 of each year.
+
+(b) The information in § 503.17(a)(5)(ii)(A) through (G) on February 19th of each year when 90 percent or more of any of the cumulative pollutant loading rates in Table 2 of § 503.13 is reached at a land application site.
+
+[85 FR 69205, Nov. 2, 2020]

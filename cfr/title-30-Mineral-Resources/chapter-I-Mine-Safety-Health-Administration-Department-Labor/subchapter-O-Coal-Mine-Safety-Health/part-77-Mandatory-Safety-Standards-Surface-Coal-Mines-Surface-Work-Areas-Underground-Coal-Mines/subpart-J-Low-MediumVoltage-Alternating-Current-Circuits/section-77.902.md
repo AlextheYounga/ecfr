@@ -1,0 +1,3 @@
+##### § 77.902 Low- and medium-voltage ground check monitor circuits. #####
+
+On and after September 30, 1971, three-phase low- and medium-voltage resistance grounded systems to portable and mobile equipment shall include a fail safe ground check circuit or other no less effective device approved by the Secretary to monitor continuously the grounding circuit to assure continuity. The fail safe ground check circuit shall cause the circuit breaker to open when either the ground or pilot check wire is broken. Cable couplers shall be constructed to cause the ground check continuity conductor to break first and the ground conductor last when being uncoupled when pilot check circuits are used.

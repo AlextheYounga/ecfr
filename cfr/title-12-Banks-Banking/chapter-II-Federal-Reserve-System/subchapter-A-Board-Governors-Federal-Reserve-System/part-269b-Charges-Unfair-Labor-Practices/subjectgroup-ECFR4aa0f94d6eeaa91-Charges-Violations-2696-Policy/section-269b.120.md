@@ -1,0 +1,3 @@
+##### § 269b.120 Answer to a charge. #####
+
+The respondent shall file an answer to the charge with the Secretary of the panel within 15 days after service of the charge. Upon application and for good cause shown, the panel may extend the time within which the answer shall be filed. One copy of the answer shall be served on each party with proof of service furnished to the Secretary, and the original, which shall be signed, and four copies shall be filed with the Secretary.

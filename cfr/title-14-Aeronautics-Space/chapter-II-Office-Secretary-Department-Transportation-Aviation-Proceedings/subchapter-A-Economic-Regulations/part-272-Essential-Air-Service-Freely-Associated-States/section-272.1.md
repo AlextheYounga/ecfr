@@ -1,0 +1,5 @@
+##### § 272.1 Purpose. #####
+
+Paragraph 5 of Article IX of the Federal Programs and Services Agreement implementing section 221(a)(5) of the Compact of Free Association between the United States and the Governments of the Federated States of Micronesia, the Marshall Islands and Palau (the Freely Associated States) provides, among other things, for the Department of Transportation (Department), as successor to the Civil Aeronautics Board (Board), to guarantee essential air service, with compensation if necessary, to certain places in these islands. Subparagraph 5(h) of the Agreement provides that the Department shall adopt rules to implement the provisions of paragraph 5 as it in its discretion deems appropriate. Section 221(a)(5) of the Compact, which was adopted by Congress as public laws (Pub. L. 99-239, Jan. 14, 1986; Pub. L. 99-658, Nov. 14, 1986), provides that the Department (as successor to the Board) has the authority to implement the provisions of paragraph 5 of the Agreement. This part implements these provisions of paragraph 5.
+
+[Amdt. 272-1, 52 FR 5443, Feb. 23, 1987, as amended at 60 FR 43525, Aug. 22, 1995]

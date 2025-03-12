@@ -1,0 +1,21 @@
+##### § 707.3 General disclosure requirements. #####
+
+(a) *Form.* Credit unions must make the disclosures required by §§ 707.4 through 707.6 of this part, as applicable, clearly and conspicuously, in writing, and in a form the member or potential member may keep. Credit unions may provide the disclosures required by this part to a member or potential member in electronic form, subject to compliance with the consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act), 15 U.S.C. 7001 *et seq.* Credit unions may provide the disclosures required by §§ 707.4(a)(2) and 707.8 to a member or potential member in electronic form without regard to the consent or other provisions of the E-Sign Act in the circumstances set forth in those sections. Disclosures for each account offered by a credit union may be presented separately or combined with disclosures for the credit union's other accounts, as long as it is clear which disclosures are applicable to the member or potential member's account.
+
+(b) *General.* The disclosures shall reflect the terms of the legal obligation between the member and the credit union. Disclosures may be made in languages other than English, provided the disclosures are available in English upon request.
+
+(c) *Relation to Regulation E (12 CFR part 1005).* Disclosures required by and provided in accordance with the Electronic Fund Transfer Act (15 U.S.C. 1601) and its implementing Regulation E (12 CFR part 1005) that are also required by this part may be substituted for the disclosures required by this part.
+
+(d) *Multiple members.* If an account is held by more than one member, disclosures may be made to any one of the members.
+
+(e) *Oral responses to inquiries.* In an oral response to a member or potential member's inquiry about dividend rates payable on its accounts, the credit union shall state the annual percentage yield. The dividend rate may be stated in addition to the annual percentage yield. No other rate may be stated. In stating a dividend rate and annual percentage yield, a credit union shall:
+
+(1) For dividend-bearing accounts other than term share accounts, specify a dividend rate and annual percentage yield as of the last dividend declaration date. In the event that disclosures of a dividend rate and annual percentage yield as of the last dividend declaration date might be inaccurate because of known or contemplated dividend rate changes, the credit union may disclose the prospective dividend rate and prospective annual percentage yield. Such prospective dividend rate and prospective annual percentage yield may be disclosed either in lieu of, or in addition to, the dividend rate and annual percentage yield as of the last dividend declaration date.
+
+(2) For interest-bearing accounts and for dividend-bearing term share accounts, specify an interest (dividend) rate and annual percentage yield that were offered within the most recent seven calendar days; state that the rate and yield are accurate as of an identified date; and provide a telephone number members may call to obtain current rate information.
+
+(f) *Rounding and accuracy rules for rates and yields*—(1) *Rounding.* The annual percentage yield, the annual percentage yield earned, and the dividend rate shall be rounded to the nearest one-hundredth of one percentage point (.01%) and expressed to two decimal places. For account disclosures, the dividend rate may be expressed to more than two decimal places.
+
+(2) *Accuracy.* The annual percentage yield (and the annual percentage yield earned) will be considered accurate if not more than one-twentieth of one percentage point (.05%) above or below the annual percentage yield (and the annual percentage yield earned) determined in accordance with the rules in appendix A of this part.
+
+(Approved by the Office of Management and Budget under control number 3133-0134)[58 FR 50445, Sept. 27, 1993, as amended at 61 FR 114, Jan. 3, 1996; 66 FR 33162, June 21, 2001; 74 FR 36104, July 22, 2009; 77 FR 71084, Nov. 29, 2012]

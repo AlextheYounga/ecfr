@@ -1,0 +1,5 @@
+##### § 436.22 Adjusted internal rate of return. #####
+
+The adjusted internal rate of return is the overall rate of return on an energy or water conservation measure. It is calculated by subtracting 1 from the nth root of the ratio of the terminal value of savings to the present value of costs, where n is the number of years in the study period. The numerator of the ratio is calculated by using the discount rate to compound forward to the end of the study period the yearly net savings in energy or water and non-fuel or non-water operation and maintenance costs attributable to the proposed energy or water conservation measure. The denominator of the ratio is the present value of the net increase in investment and replacement costs less salvage value attributable to the proposed energy or water conservation measure.
+
+[61 FR 32651, June 25, 1996]

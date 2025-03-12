@@ -1,0 +1,13 @@
+##### § 711.22 Duplicative reporting. #####
+
+(a) *With regard to TSCA section 8(a) rules.* Any person subject to the requirements of this part who previously has complied with reporting requirements of a rule under TSCA section 8(a) by submitting the information described in § 711.15 for a chemical substance described in § 711.5 to EPA, and has done so within 1 year of the start of a submission period described in § 711.20, is not required to report again on the manufacture of that chemical substance at that site during that submission period.
+
+(b) *With regard to importers.* This part requires that only one report be submitted on each import transaction involving a chemical substance described in § 711.5. When two or more persons are involved in a particular import transaction and each person meets the Agency's definition of “importer” as set forth in 40 CFR 704.3, they may determine among themselves who should submit the required report; if no report is submitted as required under this part, EPA will hold each such person liable for failure to report.
+
+(c) *Co-manufactured chemicals.* This part requires that only one report per site be submitted on each chemical substance described in § 711.5. However, both the contracting company and producing company are liable if no report is made. When a company contracts with a producing company to manufacture a chemical substance, and each party meets the definition of “manufacturer” as set forth in § 711.3, reporting of the co-manufactured chemical can be performed by one of the following methods:
+
+(1) The contracting company initiates the required report for that site as the primary submitter. The contracting company must indicate on the report that this is a co-manufacturing situation, notify the producing company, and record the production volume domestically co-manufactured as set forth in § 711.15(b)(3) and processing and use information set forth in § 711.15(b)(4). Upon notification by the contracting company, the producing company must also record the production volume domestically co-manufactured and complete the rest of the report as prompted by e-CDRweb.
+
+(2) Upon written agreement between the contracting company and the producing company, the producing company completes the full report for the co-manufactured chemical. The contracting company supplies the information not otherwise known to or reasonably ascertainable by the producing company.
+
+[76 FR 54933, Sept. 6, 2011, as amended at 85 FR 20148, Apr. 9, 2020]

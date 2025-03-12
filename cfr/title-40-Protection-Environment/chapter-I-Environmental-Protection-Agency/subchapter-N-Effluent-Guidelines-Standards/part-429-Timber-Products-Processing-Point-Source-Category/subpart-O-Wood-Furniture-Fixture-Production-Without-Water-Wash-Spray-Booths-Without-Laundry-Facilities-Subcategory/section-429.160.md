@@ -1,0 +1,3 @@
+##### § 429.160 Applicability; description of the wood furniture and fixture production without water wash spray booth(s) or without laundry facilities subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from the manufacture of wood furniture and fixtures at establishments that (a) do not utilize water wash spray booths to collect and contain the overspray from spray applications of finishing materials and (b) do not maintain on-site laundry facilities for fabric utilized in various finishing operations.

@@ -1,0 +1,3 @@
+##### § 484.325 Payments for home health services under Home Health Value-Based Purchasing (HHVBP) Model. #####
+
+CMS will determine a payment adjustment up to the maximum applicable percentage, upward or downward, under the HHVBP Model for each competing home health agency based on the agency's Total Performance Score using a linear exchange function. Payment adjustments made under the HHVBP Model will be calculated as a percentage of otherwise-applicable payments for home health services provided under section 1895 of the Act (42 U.S.C. 1395fff).

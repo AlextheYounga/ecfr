@@ -1,0 +1,3 @@
+##### 1303.303 Reporting suspected antitrust violations. #####
+
+Suspected anti-competitive practices and antitrust law violations, as described in FAR 3.301 and FAR 3.303, shall be reported to the Contract Law Division, by the HCO. A copy of the report shall be sent to the Procurement Executive concurrently with the submission to the Office of the Assistant General Counsel for Administration, Ethics Law and Program Division. The Office of the Assistant General Counsel will submit any required reports to the Attorney General.

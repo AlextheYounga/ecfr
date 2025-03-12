@@ -1,0 +1,3 @@
+##### § 1112.6 Verified statements; contents. #####
+
+A verified statement should contain all the facts upon which the witness relies, and to the extent that it contains arguments, they should be based only on those facts. Parties filing reply and rebuttal verified statements will be considered to have admitted the truth of material allegations of fact contained in their opponents' statements unless those allegations are specifically challenged. Rebuttal statements shall be confined to issues raised in the reply statements to which they are directed.

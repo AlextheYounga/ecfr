@@ -1,0 +1,5 @@
+##### § 69.118 Traffic sensitive switched services. #####
+
+Notwithstanding §§ 69.4(b), 69.106, 69.109, 69.110, 69.111, 69.112, and 69.124, telephone companies subject to the BOC ONA Order, 4 FCC Rcd 1 (1988) shall, and other telephone companies may, establish approved Basic Service Elements as provided in Amendments of part 69 of the Commission's rules relating to the Creation of Access Charge Subelements for Open Network Architecture, Report and Order, 6 FCC Rcd 4524 (1991) and 800 data base subelements, as provided in Provision of Access for 800 Service, 8 FCC Rcd \_\_\_\_, CC Docket 86-10, FCC 93-53 (1993). Moreover, all customers that use basic 800 database service shall be assessed a charge that is expressed in dollars and cents per query. Telephone companies shall take into account revenues from the relevant Basic Service Element or Elements and 800 Database Service Elements in computing rates for the Local Switching, Entrance Facilities, Tandem-Switched Transport, Direct-Trunked Transport, Interconnection Charge, and/or Information elements.
+
+[58 FR 7868, Feb. 10, 1993]

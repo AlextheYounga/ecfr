@@ -1,0 +1,3 @@
+##### § 1280.7 Education of employees. #####
+
+All employees who have been granted a security clearance and who have occasion to handle classified materials shall be advised of the procedures outlined in 49 CFR part 1280. They shall also be required to review Executive Order 12356 and appropriate directives of the Information Security Oversight Office (ISOO). This shall be achieved by a memorandum to all affected employees at the time these procedures are implemented, and by appropriate instructions to new employees receiving security clearances in the future.

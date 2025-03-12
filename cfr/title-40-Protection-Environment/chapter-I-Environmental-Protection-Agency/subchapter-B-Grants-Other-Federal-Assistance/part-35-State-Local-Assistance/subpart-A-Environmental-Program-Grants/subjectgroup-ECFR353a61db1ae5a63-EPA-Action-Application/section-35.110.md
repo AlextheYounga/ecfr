@@ -1,0 +1,3 @@
+##### § 35.110 Time frame for EPA action. #####
+
+The Regional Administrator will review a complete application and either approve, conditionally approve, or disapprove it within 60 days of receipt. This period may be extended by mutual agreement between EPA and the applicant. The Regional Administrator will award the funds for approved or conditionally approved applications when the funds are available.

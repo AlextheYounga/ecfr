@@ -1,0 +1,5 @@
+##### § 263.74 Decision of the Board. #####
+
+(a) Within 60 days following the close of the record on the hearing, or receipt of written submissions where a hearing has been waived, the Board shall notify the institution-affiliated party whether the notice of suspension or prohibition will be continued, terminated, or otherwise modified, or whether the order of removal or prohibition will be rescinded or otherwise modified. The notification shall contain a statement of the basis for any adverse decision by the Board. In the case of a decision favorable to the institution-affiliated party, the Board shall take prompt action to rescind or otherwise modify the order of suspension, removal or prohibition.
+
+(b) In deciding the question of suspension, removal, or prohibition under this subpart, the Board shall not rule on the question of the guilt or innocence of the individual with respect to the crime with which the individual has been charged.

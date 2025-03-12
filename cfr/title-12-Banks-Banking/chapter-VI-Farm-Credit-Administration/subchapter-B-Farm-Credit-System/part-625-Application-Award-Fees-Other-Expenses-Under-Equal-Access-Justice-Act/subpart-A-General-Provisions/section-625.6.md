@@ -1,0 +1,5 @@
+##### § 625.6 Rulemaking on maximum rates for attorney fees. #####
+
+(a) If warranted by an increase in the cost of living or by special circumstances (such as limited availability of attorneys qualified to handle certain types of proceedings), the FCA may adopt regulations providing that attorney fees may be awarded at a rate higher than $75 per hour in some or all of the types of proceedings covered by this part. The FCA will conduct any rulemaking proceedings for this purpose under the informal rulemaking procedures of the Administrative Procedure Act.
+
+(b) Any person may file with the FCA a petition for rulemaking to increase the maximum rate for attorney fees. The petition should identify the rate the petitioner believes the FCA should establish and the types of proceedings in which the rate should be used. It should also explain fully the reasons why the higher rate is warranted. The FCA will respond to the petition within 90 days after it is filed, by initiating a rulemaking proceeding, denying the petition, or taking other appropriate action.

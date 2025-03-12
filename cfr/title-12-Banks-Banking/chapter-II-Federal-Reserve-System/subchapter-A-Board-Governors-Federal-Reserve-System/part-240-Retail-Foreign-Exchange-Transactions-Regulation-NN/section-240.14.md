@@ -1,0 +1,5 @@
+##### § 240.14 Supervision. #####
+
+(a) *Supervision by the banking institution.* A banking institution engaging in retail forex transactions shall diligently supervise the handling by its officers, employees, and agents (or persons occupying a similar status or performing a similar function) of all retail forex accounts carried, operated, or advised by the banking institution and all activities of its officers, employees, and agents (or persons occupying a similar status or performing a similar function) relating to its retail forex business.
+
+(b) *Supervision by officers, employees, or agents.* An officer, employee, or agent of a banking institution must diligently supervise his or her subordinates' handling of all retail forex accounts at the banking institution and all the subordinates' activities relating to the banking institution's retail forex business.

@@ -1,0 +1,3 @@
+##### § 1043.50 Approval of methods to meet Tier 1 retrofit NOX standards. #####
+
+Regulation 13 of Annex VI provides for certification of Approved Methods, which are retrofit procedures that enable Pre-Tier 1 engines to meet the Tier 1 NOX standard of regulation 13 of Annex VI. Any person may request approval of such a method by submitting an application for certification of an Approve Method to the Designated Certification Officer. If we determine that your application conforms to the requirements of Regulation 13 of Annex VI, we will issue a certificate and notify IMO that your Approved Method has been certified.

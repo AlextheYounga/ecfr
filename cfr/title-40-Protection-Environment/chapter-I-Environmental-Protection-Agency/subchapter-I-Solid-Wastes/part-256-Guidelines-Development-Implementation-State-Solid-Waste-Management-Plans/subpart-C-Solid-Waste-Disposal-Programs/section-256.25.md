@@ -1,0 +1,3 @@
+##### § 256.25 Recommendation for inactive facilities. #####
+
+Inactive facilities that continue to produce adverse health or environmental effects should be evaluated according to the criteria. The State plan should provide for measures to ensure that adverse health or environmental effects from inactive facilities are minimized or eliminated. Such measures may include actions by disposal facility owners and operators, notification of the general public, adjacent residents and other affected parties and notification of agencies responsible for public health and safety.

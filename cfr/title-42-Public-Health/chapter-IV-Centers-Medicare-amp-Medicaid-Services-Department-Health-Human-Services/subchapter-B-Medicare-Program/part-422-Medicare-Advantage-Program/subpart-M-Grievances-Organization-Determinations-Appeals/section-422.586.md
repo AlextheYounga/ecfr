@@ -1,0 +1,3 @@
+##### § 422.586 Opportunity to submit evidence. #####
+
+The MA organization must provide the parties to the reconsideration with a reasonable opportunity to present evidence and allegations of fact or law, related to the issue in dispute, in person as well as in writing. In the case of an expedited reconsideration, the opportunity to present evidence is limited by the short timeframe for making a decision. Therefore, the MA organization must inform the parties of the conditions for submitting the evidence.

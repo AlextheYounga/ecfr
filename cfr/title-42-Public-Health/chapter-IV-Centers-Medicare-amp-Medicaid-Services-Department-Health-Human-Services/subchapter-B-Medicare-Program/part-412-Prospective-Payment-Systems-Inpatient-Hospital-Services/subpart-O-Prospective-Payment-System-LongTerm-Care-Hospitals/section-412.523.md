@@ -1,0 +1,73 @@
+##### § 412.523 Methodology for calculating the Federal prospective payment rates. #####
+
+(a) *Data used.* To calculate the initial prospective payment rates for inpatient hospital services furnished by long-term care hospitals, CMS uses -
+
+(1) The best Medicare data available; and
+
+(2) A rate of increase factor to adjust for the most recent estimate of increases in the prices of an appropriate market basket of goods and services included in covered inpatient long-term care hospital services.
+
+(b) *Determining the average costs per discharge for FY 2003.* CMS determines the average inpatient operating and capital-related costs per discharge for which payment is made to each inpatient long-term care hospital using the available data under paragraph (a)(1) of this section. The cost per discharge is adjusted to FY 2003 by a rate of increase factor, described in paragraph (a)(2) of this section, under the update methodology described in section 1886(b)(3)(B)(ii) of the Act for each year.
+
+(c) *Determining the Federal prospective payment rates* - (1) *General.* The Federal prospective payment rates will be established using a standard payment amount referred to as the standard Federal rate. The standard Federal rate is a standardized payment amount based on average costs from a base year that reflects the combined aggregate effects of the weighting factors and other adjustments.
+
+(2) *Update the cost per discharge.* CMS applies the increase factor described in paragraph (a)(2) of this section to each hospital's cost per discharge determined under paragraph (b) of this section to compute the cost per discharge for FY 2003. Based on the updated cost per discharge, CMS estimates the payments that would have been made to each hospital for FY 2003 under Part 413 of this chapter without regard to the prospective payment system implemented under this subpart.
+
+(3) *Computation of the standard Federal rate.* Subject to the provisions of paragraph (c)(4) of this section, the standard Federal rate is computed as follows:
+
+(i) *For FY 2003.* Based on the updated costs per discharge and estimated payments for FY 2003 determined in paragraph (c)(2) of this section, CMS computes a standard Federal rate for FY 2003 that reflects, as appropriate, the adjustments described in paragraph (d) of this section. The FY 2003 standard Federal rate is effective for discharges occurring in cost reporting periods beginning on or after October 1, 2002 through June 30, 2003.
+
+(ii) *For long-term care hospital prospective payment system rate years beginning on or after July 1, 2003 and ending on or before June 30, 2006.* The standard Federal rate for long-term care hospital prospective payment system rate years beginning on or after July 1, 2003 and ending on or before June 30, 2006 is the standard Federal rate for the previous long-term care hospital prospective payment system rate year, updated by the increase factor described in paragraph (a)(2) of this section, and adjusted, as appropriate, as described in paragraph (d) of this section. For the rate year from July 1, 2003 through June 30, 2004, the updated and adjusted standard Federal rate is offset by a budget neutrality factor to account for updating the FY 2003 standard Federal rate on July 1 rather than October 1.
+
+(iii) *For long-term care hospital prospective payment system rate year beginning July 1, 2006 and ending June 30, 2007.* The standard Federal rate for long-term care hospital prospective payment system rate year beginning July 1, 2006 and ending June 30, 2007 is the standard Federal rate for the previous long-term care hospital prospective payment system rate year updated by zero percent. The standard Federal rate is adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(iv) *For long-term care hospital prospective payment system rate year beginning July 1, 2007 and ending June 30, 2008.* (A) The standard Federal rate for long-term care hospital prospective payment system rate year beginning July 1, 2007 and ending June 30, 2008 is the same as the standard Federal rate for the previous long-term care hospital prospective payment system rate year. The standard Federal rate is adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(B) With respect to discharges occurring on or after July 1, 2007 and before April 1, 2008, payments are based on the standard Federal rate in paragraph (c)(3)(iii) of this section updated by 0.71 percent.
+
+(v) *For long-term care hospital prospective payment system rate year beginning July 1, 2008 and ending September 30, 2009.* The standard Federal rate for long-term care hospital prospective payment system rate year beginning July 1, 2008 and ending September 30, 2009 is the standard Federal rate for the previous long-term care hospital prospective payment system rate year updated by 2.7 percent. The standard Federal rate is adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(vi) *For long-term care hospital prospective payment system rate year beginning October 1, 2009 and ending September 30, 2010.* (A) The standard Federal rate for long-term care hospital prospective payment system rate year beginning October 1, 2009 and ending September 30, 2010 is the standard Federal rate for the previous long-term care hospital prospective payment system rate year updated by 1.74 percent. The standard Federal rate is adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(B) With respect to discharges occurring on or after October 1, 2009 and before April 1, 2010, payments are based on the standard Federal rate in paragraph (c)(3)(v) of this section updated by 2.0 percent.
+
+(vii) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2010, and ending September 30, 2011.* The standard Federal rate for the long-term care hospital prospective payment system fiscal year beginning October 1, 2010, and ending September 30, 2011, is the standard Federal rate for the previous long-term care hospital prospective payment system rate year updated by −0.49 percent. The standard Federal rate is adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(viii) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2011, and ending September 30, 2012.* The standard Federal rate for the long-term care hospital prospective payment system beginning October 1, 2011, and ending September 30, 2012, is the standard Federal rate for the previous long-term care hospital prospective payment system fiscal year updated by 1.8 percent. The standard Federal rate is adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(ix) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2012, and ending September 30, 2013.* (A) The standard Federal rate for the long-term care hospital prospective payment system beginning October 1, 2012, and ending September 30, 2013, is the standard Federal rate for the previous long-term care hospital prospective payment system fiscal year updated by 1.8 percent, and further adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(B) With respect to discharges occurring on or after October 1, 2012 and before December 29, 2012, payments are based on the standard Federal rate in paragraph (c)(3)(ix)(A) of this section without regard to the adjustment provided for under paragraph (d)(3)(ii) of this section.
+
+(x) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2013, and ending September 30, 2014.* The standard Federal rate for the long-term care hospital prospective payment system beginning October 1, 2013, and ending September 30, 2014, is the standard Federal rate for the previous long-term care hospital prospective payment system fiscal year updated by 1.7 percent, and further adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(xi) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2014, and ending September 30, 2015.* The standard Federal rate for the long-term care hospital prospective payment system beginning October 1, 2014, and ending September 30, 2015, is the standard Federal rate for the previous long-term care hospital prospective payment system fiscal year updated by 2.2 percent, and further adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(xii) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2015, and ending September 30, 2016.* The LTCH PPS standard Federal payment rate for the long-term care hospital prospective payment system beginning October 1, 2015, and ending September 30, 2016, is the standard Federal payment rate for the previous long-term care hospital prospective payment system fiscal year updated by 1.7 percent, and further adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(xiii) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2016, and ending September 30, 2017.* The LTCH PPS standard Federal payment rate for the long-term care hospital prospective payment system beginning October 1, 2016, and ending September 30, 2017, is the standard Federal payment rate for the previous long-term care hospital prospective payment system fiscal year updated by 1.75 percent and further adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(4) *For fiscal year 2014 and subsequent fiscal years* -
+
+(i) In the case of a long-term care hospital that does not submit quality reporting data to CMS in the form and manner and at a time specified by the Secretary, the annual update to the standard Federal rate specified in paragraph (c)(3) of this section is further reduced by 2.0 percentage points.
+
+(ii) Any reduction of the annual update to the standard Federal rate under paragraph (c)(4)(i) of this section will apply only to the fiscal year involved and will not be taken into account in computing the annual update to the standard Federal rate for a subsequent fiscal year.
+
+(5) *Determining the Federal prospective payment rate for each LTC-DRG.* The Federal prospective payment rate for each LTC-DRG is the product of the weighting factors described in § 412.515 and the standard Federal rate described in paragraph (c)(3) of this section.
+
+(d) *Adjustments to the standard Federal rate.* The standard Federal rate described in paragraph (c)(3) of this section will be adjusted for -
+
+(1) *Outlier payments.* CMS adjusts the LTCH PPS standard Federal payment rate by a reduction factor of 8 percent, the estimated proportion of outlier payments under § 412.525(a) payable for discharges described in § 412.522(a)(2).
+
+(2) *Budget neutrality.* CMS adjusts the Federal prospective payment rates for FY 2003 so that aggregate payments under the prospective payment system are estimated to equal the amount that would have been paid to long-term care hospitals under part 413 of this subchapter without regard to the prospective payment system implemented under this subpart, excluding the effects of section 1886(b)(2)(E) and (b)(3)(J) of the Act.
+
+(3)(i) *General.* The Secretary reviews payments under this prospective payment system and may make a one-time prospective adjustment to the long-term care hospital prospective payment system rates no earlier than December 29, 2012, so that the effect of any significant difference between the data used in the original computations of budget neutrality for FY 2003 and more recent data to determine budget neutrality for FY 2003 is not perpetuated in the prospective payment rates for future years.
+
+(ii) *Adjustment to the standard Federal rate.* The standard Federal rate determined in paragraph (c)(3) of this section is permanently adjusted by 3.75 percent to account for the estimated difference between projected aggregate payments in FY 2003 made under the prospective payment system implemented under this subpart and the projected aggregate payments that would have been made in FY 2003 under Part 413 of this chapter without regard to the implementation of the prospective payment system implemented under this subpart, excluding the effects of sections 1886(b)(2)(E) and (b)(3)(J) of the Act. This adjustment is transitioned over 3 years beginning in FY 2013.
+
+(iii) *Special rule for certain discharges occurring during FY 2013.* The adjustment applied under paragraph (d)(3)(ii) of this section is not applicable when making payments under this subpart for discharges occurring on or after October 1, 2012, and on or before December 28, 2012.
+
+(4) *Changes to the adjustment for area wage levels.* Beginning in FY 2012, CMS adjusts the standard Federal rate by a factor that accounts for the estimated effect of any adjustments or updates to the area wage level adjustment under § 412.525(c)(1) on estimated aggregate LTCH PPS payments.
+
+(e) *Calculation of the adjusted Federal prospective payment.* For each discharge, a long-term care hospital's Federal prospective payment is computed on the basis of the Federal prospective payment rate multiplied by the relative weight of the LTC-DRG assigned for that discharge. A hospital's Federal prospective payment rate will be adjusted, as appropriate, to account for outliers and other factors as specified in § 412.525.
+
+[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34162, June 6, 2003; 71 FR 27899, May 12, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 77 FR 53678, Aug. 31, 2012; 78 FR 50968, Aug. 19, 2013; 79 FR 50355, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016]

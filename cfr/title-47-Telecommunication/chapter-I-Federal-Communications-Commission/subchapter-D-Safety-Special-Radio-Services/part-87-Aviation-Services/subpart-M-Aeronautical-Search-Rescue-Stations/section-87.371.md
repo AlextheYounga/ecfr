@@ -1,0 +1,3 @@
+##### § 87.371 Scope of service. #####
+
+Aeronautical search and rescue land and mobile stations must be used only for communications with aircraft and other aeronautical search and rescue stations engaged in search and rescue activities. Aeronautical land search and rescue stations can be moved for temporary periods from a specified location to an area where actual or practice search and rescue operations are being conducted.

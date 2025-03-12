@@ -1,0 +1,5 @@
+##### § 716.1 Scope and compliance. #####
+
+(a) This subpart sets forth requirements for the submission of lists and copies of health and safety studies on chemical substances and mixtures selected for priority consideration for testing rules under section 4(a) of the Toxic Substances Control Act (TSCA) and on other chemical substances and mixtures for which EPA requires health and safety information in fulfilling the purposes of TSCA.
+
+(b) Section 15(3) of TSCA makes it unlawful for any person to fail or refuse to submit information required under this subpart. Section 16 provides that a violation of section 15 renders a person liable to the United States for a civil penalty and possible criminal prosecution. Under section 17, the district courts of the United States have jurisdiction to restrain any violation of section 15.

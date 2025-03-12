@@ -1,0 +1,3 @@
+##### § 1501.5 Panels of the Board. #####
+
+All hearings shall be held by panels of the Board, the determinations of which shall be the determinations of the Board. Such panels of the Board shall consist of not less than three members designated by the chairman. The chairman shall designate the Board member who shall be the presiding member and it shall be the duty of such presiding member to make due report to the Board of all acts and proceedings of the said panel.

@@ -1,0 +1,3 @@
+##### 46.707 Pricing aspects of fixed-price incentive contract warranties. #####
+
+If a fixed-price incentive contract contains a warranty (see 46.708), the estimated cost of the warranty to the contractor should be considered in establishing the incentive target price and the ceiling price of the contract. All costs incurred, or estimated to be incurred, by the contractor in complying with the warranty shall be considered when establishing the total final price. Contractor compliance with the warranty after the establishment of the total final price shall be at no additional cost to the Government.

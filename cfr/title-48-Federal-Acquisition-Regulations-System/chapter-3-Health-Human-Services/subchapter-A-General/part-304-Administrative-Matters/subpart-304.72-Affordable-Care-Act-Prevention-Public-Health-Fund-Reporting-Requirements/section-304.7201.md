@@ -1,0 +1,9 @@
+##### 304.7201 Procedures. #####
+
+(a) In any contract action funded in whole or in part by the PPHF, the contracting officer shall indicate that the contract action is being made under the PPHF, and indicate which products or services are funded under the PPHF. This requirement applies whenever PPHF funds are used, regardless of the contract instrument.
+
+(b) To maximize transparency of PPHF funds that shall be reported by the contractor, the contracting officer shall structure contract awards to allow for separately tracking PPHF funds. For example, the contracting officer may consider awarding dedicated separate contracts when using PPHF funds or establishing contract line item number structures to prevent commingling of PPHF funds with other funds.
+
+(c) Contracting officers shall ensure that the contractor complies with the reporting requirements of 352.204-70. Upon receipt of each report, the contracting officer shall review it for completeness, address any clarity or completeness issues with the contractor, and submit the final approved report in Section 508 compliant format to an Assistant Secretary for Public Affairs point-of-contact for posting on HHS' PPHF Web site at *http://www.hhs.gov/open/prevention/index.html* no later than 30 days after the end of the reporting period. If the contractor fails to comply with the reporting requirements, the contracting officer shall exercise appropriate contractual remedies.
+
+(d) The contracting officer shall make the contractor's failure to comply with the reporting requirements a part of the contractor's performance information under FAR subpart 42.15.

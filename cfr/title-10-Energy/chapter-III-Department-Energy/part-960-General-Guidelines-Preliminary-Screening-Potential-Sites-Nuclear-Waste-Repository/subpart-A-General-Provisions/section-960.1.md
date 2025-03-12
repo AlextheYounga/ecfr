@@ -1,0 +1,5 @@
+##### § 960.1 Applicability. #####
+
+These guidelines were developed in accordance with the requirements of Section 112(a) of the Nuclear Waste Policy Act of 1982 for use by the Secretary of Energy in evaluating the suitability of sites. The guidelines will be used for suitability evaluations and determinations made pursuant to Section 112(b). The guidelines set forth in this part are intended to complement the requirements set forth in the Act, 10 CFR part 60, and 40 CFR part 191. The DOE recognizes NRC jurisdiction for the resolution of differences between the guidelines and 10 CFR part 60. The guidelines have received the concurrence of the NRC. The DOE contemplates revising the guidelines from time to time, as permitted by the Act, to take into account revisions made to the above regulations and to otherwise update the guidelines as necessary. The DOE will submit the revisions to the NRC and obtain its concurrence before issuance.
+
+[49 FR 47752, Dec. 6, 1984, as amended at 66 FR 57334, Nov. 14, 2001]

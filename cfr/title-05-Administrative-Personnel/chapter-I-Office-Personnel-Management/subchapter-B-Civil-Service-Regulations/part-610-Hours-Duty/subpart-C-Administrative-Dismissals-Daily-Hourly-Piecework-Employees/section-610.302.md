@@ -1,0 +1,3 @@
+##### § 610.302 Policy statement. #####
+
+The authority in this subpart may be used only to the extent warranted by good administration for short periods of time not generally exceeding 3 consecutive work days in a single period of excused absence. This authority may not be used in situations of extensive duration or for periods of interrupted or suspended operations such as ordinarily would be covered by the scheduling of leave, furlough, or the assignment of other work. Insofar as practicable, each administrative order issued under this subpart shall provide benefits for regular employees paid at daily, hourly, or piecework rates similar to those provided for employees paid at annual rates.

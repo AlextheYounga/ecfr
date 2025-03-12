@@ -1,0 +1,3 @@
+##### § 302.416 Appearances by persons not parties. #####
+
+With consent of the administrative law judge, appearances may be entered without request for or grant of permission to intervene by interested persons who are not parties to the proceeding. Such persons may, with the consent of the administrative law judge, cross-examine a particular witness or suggest to any party or counsel therefor questions or interrogations to be asked witnesses called by any party, but may not otherwise examine witnesses and may not introduce evidence or otherwise participate in the proceeding. However, such persons may present to both the administrative law judge and the DOT decisionmaker an oral or written statement of their position on the issues involved in the proceeding.

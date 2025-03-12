@@ -1,0 +1,3 @@
+##### § 412.40 Applicability. #####
+
+This subpart applies to operations defined as concentrated animal feeding operations (CAFOs) under 40 CFR 122.23 and includes the following animals: swine; chickens; turkeys; and veal calves. This subpart does not apply to such CAFOs with less than the following capacities: 2,500 swine each weighing 55 lbs. or more; 10,000 swine each weighing less than 55 lbs.; 30,000 laying hens or broilers if the facility uses a liquid manure handling system; 82,000 laying hens if the facility uses other than a liquid manure handling system; 125,000 chickens other than laying hens if the facility uses other than a liquid manure handling system; 55,000 turkeys; and 1,000 veal calves.

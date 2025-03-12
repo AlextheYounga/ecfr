@@ -1,0 +1,3 @@
+##### § 555.16 Renewal of exemptions. #####
+
+An alterer, intermediate or final-stage manufacturer or a trade association representing a group of alterers or, intermediate and/or final-stage manufacturers may apply for a renewal of a temporary exemption. Any such renewal petition shall be filed at least 60 days prior to the termination date of the existing exemption and shall include all the information required in an initial petition. If a petition for renewal of a temporary exemption that meets the requirements of this subpart has been filed not later than 60 days before the termination date of an exemption, the exemption does not terminate until the Administrator grants or denies the petition for renewal.

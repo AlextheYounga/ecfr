@@ -1,0 +1,3 @@
+##### § 98.180 Definition of the source category. #####
+
+The lead production source category consists of primary lead smelters and secondary lead smelters. A primary lead smelter is a facility engaged in the production of lead metal from lead sulfide ore concentrates through the use of pyrometallurgical techniques. A secondary lead smelter is a facility at which lead-bearing scrap materials (including but not limited to, lead-acid batteries) are recycled by smelting into elemental lead or lead alloys.

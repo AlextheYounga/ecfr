@@ -1,0 +1,3 @@
+##### § 303.220 Scope. #####
+
+This subpart covers applications under section 19 of the FDI Act (12 U.S.C. 1829). Pursuant to section 19, any person who has been convicted of any criminal offense involving dishonesty, breach of trust, or money laundering, or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such offense, may not become, or continue as, an institution-affiliated party of an insured depository institution; own or control, directly or indirectly, any insured depository institution; or otherwise participate, directly or indirectly, in the conduct of the affairs of any insured depository institution without the prior written consent of the FDIC.

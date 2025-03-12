@@ -1,0 +1,3 @@
+##### § 62.14725 When must I submit my annual report? #####
+
+You must submit an annual report no later than 12 months following the submission of the information in § 62.14720. You must submit subsequent reports no more than 12 months following the previous report. As with all other requirements in this subpart, the requirement to submit an annual report does not modify or replace the operating permit requirements of 40 CFR parts 70 and 71.

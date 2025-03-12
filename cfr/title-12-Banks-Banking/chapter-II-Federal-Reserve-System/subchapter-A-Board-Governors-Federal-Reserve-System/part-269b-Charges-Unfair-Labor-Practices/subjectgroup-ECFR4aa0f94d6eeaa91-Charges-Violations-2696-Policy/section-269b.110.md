@@ -1,0 +1,3 @@
+##### § 269b.110 Charges. #####
+
+A charge that any bank or labor organization, or agents or representatives of a bank or labor organization, has engaged in or is engaging in any act prohibited under § 269.6 of the policy or has failed to take any action required by § 269.6 of the policy may be filed by any party in interest, or its representative, within 60 days after the alleged violations or within 60 days after the charging party has become or should have become aware of the alleged violation.

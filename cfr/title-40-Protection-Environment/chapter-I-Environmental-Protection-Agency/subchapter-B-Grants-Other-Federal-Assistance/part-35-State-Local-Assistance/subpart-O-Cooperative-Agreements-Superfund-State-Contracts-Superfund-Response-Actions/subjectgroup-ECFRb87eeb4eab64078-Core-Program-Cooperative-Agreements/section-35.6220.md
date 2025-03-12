@@ -1,0 +1,3 @@
+##### § 35.6220 General. #####
+
+The recipient of a Core Program Cooperative Agreement must comply with the requirements regarding financial administration (§§ 35.6270 through 35.6290), property (§§ 35.6300 through 35.6450), procurement (§§ 35.6550 through 35.6610), reporting (§§ 35.6650 through 35.6670), records (§§ 35.6700 through 35.6710), and other administrative requirements under a Cooperative Agreement (§§ 35.6750 through 35.6790). Recipients may not incur site-specific costs. Where these sections entail site-specific requirements, the recipient is not required to comply on a site-specific basis.

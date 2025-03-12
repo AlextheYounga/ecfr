@@ -1,0 +1,3 @@
+##### § 337.201 Coverage and purpose. #####
+
+OPM will permit an agency with delegated examining authority under 5 U.S.C. 1104(a)(2) to use direct-hire authority under 5 U.S.C. 3304(a)(3) for a permanent or nonpermanent position or group of positions in the competitive service at GS-15 (or equivalent) and below, if OPM determines that there is either a severe shortage of candidates or a critical hiring need for such positions. It is not required that this direct-hire authority be exercised by a delegated examining unit. Requests for direct-hire authority must be submitted by the agency's Chief Human Capital Officer (or equivalent) at the agency headquarters level. OPM will determine the length of the direct-hire authority based on the justification.

@@ -1,0 +1,3 @@
+##### 1519.201-71 Director of the Office of Small Business Programs. #####
+
+The Director of the Office of Small Business Programs (OSBP) provides guidance and advice, as appropriate, to Agency program and contracts officials on small business programs. The OSBP Director is the central point of contact for inquiries concerning the small business programs from industry, the Small Business Administration (SBA), and the Congress; and shall advise the Administrator and staff of such inquiries as required. The OSBP Director shall represent the Agency in the negotiations with the other Government agencies on small business programs matters.

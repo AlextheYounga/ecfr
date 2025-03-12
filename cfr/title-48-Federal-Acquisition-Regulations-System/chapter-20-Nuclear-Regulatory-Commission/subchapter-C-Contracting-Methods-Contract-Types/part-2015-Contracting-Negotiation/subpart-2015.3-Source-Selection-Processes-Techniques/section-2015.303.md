@@ -1,0 +1,9 @@
+##### 2015.303 Responsibilities. #####
+
+(a) The source selection authority is the contracting officer. The contracting officer, acting as the source selection authority, shall select an offer for award based on review of the Source Evaluation Panel's recommendation contained in the reports described in paragraph (c) of this section.
+
+(b) Any cancellation of solicitations and subsequent rejection of all proposals must be approved by the Head of the Contracting Activity.
+
+(c) For all proposed contracts with total estimated values in excess of the simplified acquisition threshold and expected to result from competitive technical and price/cost negotiations, the cooperative review efforts of technical, contracting, and other administrative personnel are formalized through establishment of a Source Evaluation Panel. A single technical member may be appointed to the Source Evaluation Panel to evaluate proposals with the contracting officer's approval. In these instances, the Designating Official may appoint technical advisors (non-voting members) to assist the single technical member. The Source Evaluation Panel should not exceed five members, including the Chairperson except in unusual cases. The Source Evaluation Panel's proposal evaluation report(s) may include a Competitive Range Report and a Final Evaluation Report (to be used when award will be made after conducting discussions), or a Recommendation for Award Report (to be used when award will be made without discussions).
+
+(d) The Designating Official (Office Director or designee) is responsible for appointing a Source Evaluation Panel to evaluate competitive technical proposals in accordance with the solicitation technical criteria. The Designating Official is also responsible for conducting an independent review and evaluation of the Source Evaluation Panel's proposal evaluation report(s) to the contracting officer.

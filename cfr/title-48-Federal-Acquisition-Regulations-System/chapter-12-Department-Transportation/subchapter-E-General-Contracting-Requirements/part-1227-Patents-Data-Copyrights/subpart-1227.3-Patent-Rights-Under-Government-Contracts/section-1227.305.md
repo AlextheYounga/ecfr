@@ -1,0 +1,1 @@
+##### 1227.305 Administration of patent rights clauses. #####

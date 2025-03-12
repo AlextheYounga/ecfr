@@ -1,0 +1,3 @@
+##### § 330.1 What is the purpose of this part? #####
+
+The purpose of this part is to establish procedures to implement section 101(a)(2) of the Air Transportation Safety and System Stabilization Act (“the Act”), Public Law 107-42, 115 Stat. 230 (49 U.S.C. 40101 note). This statutory provision is intended to compensate air carriers for direct losses incurred as a result of the Federal ground stop order issued by the Secretary of Transportation, and any subsequent orders, following the terrorist attacks of September 11, 2001, and incremental losses incurred from September 11 through December 31, 2001, as the result of those attacks.

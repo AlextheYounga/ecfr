@@ -1,0 +1,5 @@
+##### § 52h.7 What matters must be reviewed for grants? #####
+
+(a) Except as otherwise provided by law, no awarding official shall award a grant based upon an application covered by this part unless the application has been reviewed by a peer review group in accordance with the provisions of this part and the group has made recommendations concerning the scientific merit of that application. In addition, where under applicable law an awarding official is required to secure the approval or advice of a national council or board concerning an application, the application may not be considered by the council or board unless it has been reviewed by the appropriate peer review group, in accordance with the provisions of this part, and the group has made recommendations concerning the scientific merit of the application, except where the council or board is the peer review group.
+
+(b) Except to the extent otherwise provided by law, recommendations by peer review groups are advisory only and not binding on the awarding official or the national advisory council or board.

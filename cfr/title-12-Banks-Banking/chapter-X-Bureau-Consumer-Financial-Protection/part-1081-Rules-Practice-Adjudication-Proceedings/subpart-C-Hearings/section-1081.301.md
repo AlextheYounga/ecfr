@@ -1,0 +1,3 @@
+##### § 1081.301 Failure to appear. #####
+
+Failure of a respondent to appear in person or by a duly authorized counsel at the hearing constitutes a waiver of respondent's right to a hearing and may be deemed an admission of the facts as alleged and consent to the relief sought in the notice of charges. Without further proceedings or notice to the respondent, the hearing officer shall file a recommended decision containing findings of fact and addressing the relief sought in the notice of charges.

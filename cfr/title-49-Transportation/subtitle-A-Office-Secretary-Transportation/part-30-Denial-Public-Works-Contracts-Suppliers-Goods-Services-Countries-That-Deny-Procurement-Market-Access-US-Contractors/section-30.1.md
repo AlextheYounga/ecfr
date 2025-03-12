@@ -1,0 +1,3 @@
+##### § 30.1 Purpose. #####
+
+The rules in this part implement section 109(a) of the Continuing Resolution on the Fiscal Year 1988 Budget, Public Law No. 100-202 (signed December 22, 1987) [the Continuing Resolution], and section 115 of the Airport and Airways Safety and Capacity Expansion Act of 1987, Public Law No. 100-223 (signed December 30, 1987) [the Airport Safety Act]. These rules are intended to give uniform implementation to these statutes throughout DOT procurement and grant programs.

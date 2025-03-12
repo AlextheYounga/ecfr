@@ -1,0 +1,25 @@
+##### § 41.50 Decisions and other actions by the Board. #####
+
+(a)(1) *Affirmance and reversal.* The Board, in its decision, may affirm or reverse the decision of the examiner in whole or in part on the grounds and on the claims specified by the examiner. The affirmance of the rejection of a claim on any of the grounds specified constitutes a general affirmance of the decision of the examiner on that claim, except as to any ground specifically reversed. The Board may also remand an application to the examiner.
+
+(2) If a substitute examiner's answer is written in response to a remand by the Board for further consideration of a rejection pursuant to paragraph (a)(1) of this section, the appellant must within two months from the date of the substitute examiner's answer exercise one of the following two options to avoid sua sponte dismissal of the appeal as to the claims subject to the rejection for which the Board has remanded the proceeding:
+
+(i) *Reopen prosecution.* Request that prosecution be reopened before the examiner by filing a reply under § 1.111 of this title with or without amendment or submission of affidavits (§§ 1.130, 1.131 or 1.132 of this title) or other Evidence. Any amendment or submission of affidavits or other Evidence must be relevant to the issues set forth in the remand or raised in the substitute examiner's answer. A request that complies with this paragraph (a) will be entered and the application or the patent under *ex parte* reexamination will be reconsidered by the examiner under the provisions of § 1.112 of this title. Any request that prosecution be reopened under this paragraph will be treated as a request to withdraw the appeal.
+
+(ii) *Maintain appeal.* Request that the appeal be maintained by filing a reply brief as provided in § 41.41. If such a reply brief is accompanied by any amendment, affidavit or other Evidence, it shall be treated as a request that prosecution be reopened before the examiner under paragraph (a)(2)(i) of this section.
+
+(b) *New ground of rejection.* Should the Board have knowledge of any grounds not involved in the appeal for rejecting any pending claim, it may include in its opinion a statement to that effect with its reasons for so holding, and designate such a statement as a new ground of rejection of the claim. A new ground of rejection pursuant to this paragraph shall not be considered final for judicial review. When the Board enters such a non-final decision, the appellant, within two months from the date of the decision, must exercise one of the following two options with respect to the new ground of rejection to avoid termination of the appeal as to the rejected claims:
+
+(1) *Reopen prosecution.* Submit an appropriate amendment of the claims so rejected or new Evidence relating to the claims so rejected, or both, and have the matter reconsidered by the examiner, in which event the prosecution will be remanded to the examiner. The new ground of rejection is binding upon the examiner unless an amendment or new Evidence not previously of Record is made which, in the opinion of the examiner, overcomes the new ground of rejection designated in the decision. Should the examiner reject the claims, appellant may again appeal to the Board pursuant to this subpart.
+
+(2) *Request rehearing.* Request that the proceeding be reheard under § 41.52 by the Board upon the same Record. The request for rehearing must address any new ground of rejection and state with particularity the points believed to have been misapprehended or overlooked in entering the new ground of rejection and also state all other grounds upon which rehearing is sought.
+
+(c) *Review of undesignated new ground of rejection.* Any request to seek review of a panel's failure to designate a new ground of rejection in its decision must be raised by filing a request for rehearing as set forth in § 41.52. Failure of appellant to timely file such a request for rehearing will constitute a waiver of any arguments that a decision contains an undesignated new ground of rejection.
+
+(d) *Request for briefing and information.* The Board may order appellant to additionally brief any matter that the Board considers to be of assistance in reaching a reasoned decision on the pending appeal. Appellant will be given a time period within which to respond to such an order. Failure to timely comply with the order may result in the sua sponte dismissal of the appeal.
+
+(e) *Remand not final action.* Whenever a decision of the Board includes a remand, that decision shall not be considered final for judicial review. When appropriate, upon conclusion of proceedings on remand before the examiner, the Board may enter an order otherwise making its decision final for judicial review.
+
+(f) *Extensions of time.* Extensions of time under § 1.136(a) of this title for patent applications are not applicable to the time periods set forth in this section. See § 1.136(b) of this title for extensions of time to reply for patent applications and § 1.550(c) of this title for extensions of time to reply for *ex parte* reexamination proceedings.
+
+[76 FR 72299, Nov. 22, 2011]

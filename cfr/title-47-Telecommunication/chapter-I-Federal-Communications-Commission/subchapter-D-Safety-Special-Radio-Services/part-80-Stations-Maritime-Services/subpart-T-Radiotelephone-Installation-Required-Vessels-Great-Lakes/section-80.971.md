@@ -1,0 +1,3 @@
+##### § 80.971 Test of radiotelephone installation. #####
+
+At least once during each calendar day a vessel subject to the Great Lakes Radio Agreement must test communications on 156.800 MHz to demonstrate that the radiotelephone installation is in proper operating condition unless the normal daily use of the equipment demonstrates that this installation is in proper operating condition. If equipment is not in operating condition, the master must have it restored to effective operation as soon as possible.

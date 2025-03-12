@@ -1,0 +1,13 @@
+##### § 73.58 Indicating instruments. #####
+
+(a) Each AM broadcast station must be equipped with indicating instruments which conform with the specifications described in § 73.1215 for determining power by the direct and indirect methods, and with such other instruments as are necessary for the proper adjustment, operation, and maintenance of the transmitting system. However, auxiliary transmitters with a nominal power rating of 100 watts or less are not required to be equipped with instruments to determine power by the indirect method provided that the licensee can determine the antenna input power at all times.
+
+(b) Since it is usually impractical to measure the actual antenna current of a shunt excited antenna system, the current measured at the input of the excitation circuit feed line is accepted as the antenna current.
+
+(c) The function of each instrument shall be clearly and permanently shown on the instrument itself or on the panel immediately adjacent thereto.
+
+(d) In the event that any one of these indicating instruments becomes defective when no substitute which conforms with the required specifications is available, the station may be operated without the defective instrument pending its repair or replacement for a period not in excess of 60 days without further authority of the Commission. If the defective instrument is the antenna current meter of a nondirectional station which does not employ a remote antenna ammeter, or if the defective instrument is the common point meter of a station which employs a directional antenna and does not employ a remote common point meter, the operating power shall be determined by a method described in § 73.51(a)(1) or § 73.51(d) during the entire time the station is operated without the antenna current meter or common point meter. However, if a remote meter is employed and the antenna current ammeter or common point meter becomes defective, the remote meter can be used to determine operating power pending the return to service of the regular meter.
+
+(e) If conditions beyond the control of the licensee prevent the restoration of the meter to service within the above allowed period, information requested in accordance with § 73.3549 may be filed by letter with the FCC in Washington, DC, Attention: Audio Division, Media Bureau, to request additional time as may be required to complete repairs of the defective instrument.
+
+[41 FR 36817, Sept. 1, 1976, as amended at 48 FR 38477, Aug. 24, 1983; 49 FR 49850, Dec. 24, 1984; 50 FR 32416, Aug. 12, 1985; 51 FR 2707, Jan. 21, 1986; 53 FR 2498, Jan. 28, 1988; 63 FR 33876, June 22, 1998; 66 FR 20755, Apr. 25, 2001; 67 FR 13231, Mar. 21, 2002]

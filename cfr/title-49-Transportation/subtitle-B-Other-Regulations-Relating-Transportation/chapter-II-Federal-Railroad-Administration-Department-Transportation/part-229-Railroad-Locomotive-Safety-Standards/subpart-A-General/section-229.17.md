@@ -1,0 +1,7 @@
+##### § 229.17 Accident reports. #####
+
+(a) In the case of an accident due to a failure from any cause of a locomotive or any part or appurtenance of a locomotive, or a person coming in contact with an electrically energized part or appurtenance, that results in serious injury or death of one or more persons, the carrier operating the locomotive shall immediately report the accident by toll free telephone, Area Code 800-424-0201. The report shall state the nature of the accident, number of persons killed or seriously injured, the place at which it occurred, the location at which the locomotive or the affected parts may be inspected by the FRA, and the name, title and phone number of the person making the call. The locomotive or the part or parts affected by the accident shall be preserved intact by the carrier until after the FRA inspection.
+
+(b) Written confirmation of the oral report required by paragraph (a) of this section shall be immediately mailed to the Federal Railroad Administration, RRS-25, Washington, D.C. 20590, and contain a detailed description of the accident, including to the extent known, the causes and the number of persons killed and injured. The written report required by this paragraph is in addition to the reporting requirements of 49 CFR part 225.
+
+[79 FR 21636, Apr. 17, 2014]

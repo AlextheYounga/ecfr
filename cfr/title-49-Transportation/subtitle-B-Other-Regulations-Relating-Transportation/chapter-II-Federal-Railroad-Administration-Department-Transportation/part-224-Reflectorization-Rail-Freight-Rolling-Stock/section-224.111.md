@@ -1,0 +1,3 @@
+##### § 224.111 Renewal. #####
+
+Regardless of condition, retroreflective sheeting required under this part must be replaced with new sheeting no later than ten years after the date of initial installation. At the time of replacement, it is not necessary to remove the old sheeting unless it interferes with the placement of the new sheeting, but the old sheeting shall not be considered in calculating the amount of retroreflective material required under this part. For purposes of this section, November 28, 2005, shall be considered the initial date of installation for freight cars and locomotives covered by § 224.107(a)(3) or 224.107(b)(3).

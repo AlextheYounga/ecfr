@@ -1,0 +1,3 @@
+##### § 52.7 Specific exemptions. #####
+
+The Commission may, upon application by any interested person or upon its own initiative, grant exemptions from the requirements of the regulations of this part. The Commission's consideration will be governed by § 50.12 of this chapter, unless other criteria are provided for in this part, in which case the Commission's consideration will be governed by the criteria in this part. Only if those criteria are not met will the Commission's consideration be governed by § 50.12 of this chapter. The Commission's consideration of requests for exemptions from requirements of the regulations of other parts in this chapter, which are applicable by virtue of this part, shall be governed by the exemption requirements of those parts.

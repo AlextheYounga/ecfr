@@ -1,0 +1,7 @@
+##### 470.102 Policy. #####
+
+(a) *Policy.* It is the policy of the Department to follow the policies and procedures set forth in the Federal Acquisition Regulation (FAR) as supplemented by the Agriculture Acquisition Regulation, including this part, in the procurement of agricultural commodities and products of agricultural commodities that are used in domestic feeding and international feeding and development programs.
+
+(b) *Electronic submission.* To the maximum extent possible, the use of electronic submission of solicitation-related documents shall be used with respect to the acquisition of agricultural commodities and related freight; however, to the extent that a solicitation allows for the submission of written information in addition to information in an electronic format and there is a discrepancy in such submissions, the information submitted in a written format shall prevail unless the electronic submission states that a specific existing written term is superseded by the electronic submission.
+
+(c) *Freight.* With respect to the acquisition of freight for the shipment of agricultural commodities and products of agricultural commodities, the provisions of the FAR, including part 47, shall be utilized and various types of services to be obtained may include multi-trip voyage charters.

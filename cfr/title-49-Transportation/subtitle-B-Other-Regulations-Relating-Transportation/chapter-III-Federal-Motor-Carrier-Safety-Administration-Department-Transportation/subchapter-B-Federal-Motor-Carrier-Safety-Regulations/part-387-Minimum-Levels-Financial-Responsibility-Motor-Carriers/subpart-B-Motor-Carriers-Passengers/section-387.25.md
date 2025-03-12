@@ -1,0 +1,3 @@
+##### § 387.25 Purpose and scope. #####
+
+This subpart prescribes the minimum levels of financial responsibility required to be maintained by for-hire motor carriers of passengers operating motor vehicles in interstate or foreign commerce. The purpose of these regulations is to create additional incentives to carriers to operate their vehicles in a safe manner and to assure that they maintain adequate levels of financial responsibility.

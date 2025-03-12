@@ -1,0 +1,3 @@
+##### § 511.66 Confidential business information. #####
+
+The Administrator shall have authority to segregate from the public docket and to protect from public view information in support of a petition for settlement which has been determined to be confidential business information. The provisions of 15 U.S.C. 2005(d) pertaining to discretionary release by the Administrator of and to limited disclosure of information determined to be confidential business information shall apply to this section.

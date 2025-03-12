@@ -1,0 +1,9 @@
+##### § 1017.14 Interest, penalties, and administrative costs. #####
+
+(a) The rate of interest assessed shall be the rate of the current value of funds to the U.S. Treasury (i.e., the Treasury tax and loan account rate), as prescribed and published by the Secretary of the Treasury in the Federal Register and the Treasury Financial Manual Bulletins. A higher rate of interest can be assessed if the Board can reasonably determine that a higher rate is necessary to protect the interests of the United States. The rate of interest, as initially assessed, shall remain fixed for the duration of the indebtedness, except where a debtor has defaulted on a repayment agreement and seeks to enter into a new agreement. The Board may set a new interest rate which reflects the current value of funds to the Treasury at the time the new agreement is executed. The Board shall waive the collection of interest on the debt or any portion of the debt which is paid within 30 days after the date on which interest began to accrue.
+
+(b) The Board shall assess a penalty charge not to exceed 6 percent a year on any portion of a debt that is delinquent as defined in 4 CFR 101.2(b) for more than 90 days. This charge need not be calculated until the 91st day of delinquency, but shall accrue from the date that the debt became delinquent.
+
+(c) The Board shall assess against a debtor charges to cover administrative costs incurred as a result of a delinquent debt—that is, the additional costs incurred in processing and handling the debt because it became delinquent as defined in 4 CFR 101.2(b).
+
+(d) When a debt is paid in partial or installment payments, amounts received by the agency shall be applied first to outstanding penalty and administrative cost charges, second to accrued interest, and third to outstanding principal.

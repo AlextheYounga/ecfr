@@ -1,0 +1,3 @@
+##### § 113.2 Applicability. #####
+
+This subpart applies to all onshore oil storage facilities with fixed capacity of 1,000 barrels or less. When a discharge to the waters of the United States occurs from such facilities and when removal of said discharge is performed by the United States Government pursuant to the provisions of subsection 311(c)(1) of the Act, the liability of the owner or operator and the facility will be limited to the amounts specified in § 113.4.

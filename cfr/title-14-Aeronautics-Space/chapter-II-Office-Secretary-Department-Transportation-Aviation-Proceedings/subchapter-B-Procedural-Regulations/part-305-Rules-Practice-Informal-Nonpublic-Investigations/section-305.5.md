@@ -1,0 +1,3 @@
+##### § 305.5 Initiation of investigation. #####
+
+An investigation may be initiated by order of the Department. Attorneys of the Office of the Assistant General Counsel for Aviation Enforcement and Proceedings shall conduct such investigations pursuant to the provisions of this part and they shall be designated Investigation Attorneys. Investigation Attorneys, administrative law judges and the DOT decisionmaker are hereby authorized to exercise and perform their duties and functions under this part in accordance with the provisions of the Act and the rules and regulations of the Department.

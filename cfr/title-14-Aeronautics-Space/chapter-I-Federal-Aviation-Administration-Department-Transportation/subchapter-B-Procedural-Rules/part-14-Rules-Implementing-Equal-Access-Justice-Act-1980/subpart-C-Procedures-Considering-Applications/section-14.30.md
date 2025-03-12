@@ -1,0 +1,3 @@
+##### § 14.30 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the disbursing official of the FAA a copy of the FAA Decisionmaker's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. Applications for award grants in cases involving the FAA shall be sent to: The Office of Accounting and Audit, AAA-1, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591. The agency will pay the amount awarded to the applicant within 60 days, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.

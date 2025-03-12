@@ -1,0 +1,3 @@
+##### 30.607 Subcontract administration. #####
+
+When a negotiated CAS price adjustment or a determination of noncompliance is required at the subcontract level, the CFAO for the subcontractor shall furnish a copy of the negotiation memorandum or the determination to the CFAO for the contractor of the next higher-tier subcontractor. The CFAO of the contractor or the next higher-tier subcontractor shall not change the determination of the CFAO for the lower-tier subcontractor. If the subcontractor refuses to submit a GDM or DCI proposal, remedies are made at the prime contractor level.

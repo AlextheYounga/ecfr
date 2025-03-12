@@ -1,0 +1,3 @@
+##### § 590.109 FE investigations. #####
+
+The Assistant Secretary or the Assistant Secretary's delegate may investigate any facts, conditions, practices, or other matters within the scope of this part in order to determine whether any person has violated or is about to violate any provision of the NGA or other statute or any rule, regulation, or order within the Assistant Secretary's jurisdiction. In conducting such investigations, the Assistant Secretary or the Assistant Secretary's delegate may, among other things, subpoena witnesses to testify, subpoena or otherwise require the submission of documents, and order testimony to be taken by deposition.

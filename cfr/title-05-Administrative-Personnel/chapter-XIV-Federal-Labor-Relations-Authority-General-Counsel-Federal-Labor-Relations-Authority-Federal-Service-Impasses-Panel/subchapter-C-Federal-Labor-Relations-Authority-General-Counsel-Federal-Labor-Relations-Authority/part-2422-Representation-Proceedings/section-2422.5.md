@@ -1,0 +1,7 @@
+##### § 2422.5 Where do you file petitions? #####
+
+(a) *Where to file.* You must file a petition with the Regional Director for the region in which the unit or employee(s) affected by issues raised in the petition are located. If the unit(s) or employees are located in two or more regions of the Authority, you must file the petitions with the Regional Director for the region where the headquarters of the agency or activity is located.
+
+(b) *Method of filing.* You may file a petition with the Regional Director in person or by commercial delivery, first class mail, facsimile, certified mail, or electronically through use of the eFiling system on the FLRA's Web site at *www.flra.gov.* If you file electronically or by facsimile transmission you are not required to file an original copy of the petition with the Region. You assume responsibility for the Regional Director's receipt of a petition.
+
+(c) *Date of filing.* When a Regional Director receives a petition, it is deemed filed. A petition filed during business hours by facsimile or electronic means is deemed received on the business day on which it is received (either by the Regional Office fax machine or by the eFiling system), until midnight local time in the Region where it is filed. But when a Region receives a petition by any other method after the close of business day, it will be deemed received and docketed on the next business day. The business hours for each of the Regional Offices are set forth at *http://www.flra.gov.*

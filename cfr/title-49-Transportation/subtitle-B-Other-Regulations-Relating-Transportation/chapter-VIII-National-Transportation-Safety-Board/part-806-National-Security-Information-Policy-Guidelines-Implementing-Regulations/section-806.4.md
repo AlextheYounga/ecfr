@@ -1,0 +1,7 @@
+##### § 806.4 Mandatory review for declassification. #####
+
+(a) Requests for mandatory review for declassification under section 3-501 of E.O. 12065 must be in writing and should be addressed to: National Security Oversight Officer, National Transportation Safety Board, Washington, DC 20594.
+
+(b) The requester shall be informed of the date of receipt of the request at the Board. This date will be the basis for the time limits specified by section 3-501 of E.O. 12065. If the request does not reasonably describe the information sought, the requester shall be notified that, unless additional information is provided or the request is made more specific, no further action will be taken.
+
+(c) When the Board receives a request for information in a document which is in its custody but which was classified by another agency, it shall refer the request to the appropriate agency for review, together with a copy of the document containing the information requested, where practicable. The Board shall also notify the requester of the referral, unless the association of the reviewing agency with the information requires protection. The reviewing agency shall review the document in coordination with any other agency involved or which had a direct interest in the classification of the subject matter. The reviewing agency shall respond directly to the requester in accordance with the pertinent procedures described above and, if requested, shall notify the Board of its determination.

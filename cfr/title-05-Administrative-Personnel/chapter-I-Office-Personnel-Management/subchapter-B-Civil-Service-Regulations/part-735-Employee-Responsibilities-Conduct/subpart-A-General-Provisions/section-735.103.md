@@ -1,0 +1,3 @@
+##### § 735.103 What other regulations pertain to employee conduct? #####
+
+In addition to the standards of conduct in subpart B of this part, an employee shall comply with the standards of ethical conduct in 5 CFR part 2635, as well as any supplemental regulation issued by the employee's agency under 5 CFR 2635.105. An employee's violation of those regulations may cause the employee's agency to take disciplinary action, or corrective action as that term is used in 5 CFR part 2635. Such disciplinary action or corrective action may be in addition to any penalty prescribed by law.

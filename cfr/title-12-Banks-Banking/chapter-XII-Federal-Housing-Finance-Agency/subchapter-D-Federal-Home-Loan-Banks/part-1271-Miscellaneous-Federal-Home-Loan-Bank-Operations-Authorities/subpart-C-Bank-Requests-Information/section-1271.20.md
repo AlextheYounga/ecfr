@@ -1,0 +1,3 @@
+##### § 1271.20 Access to confidential regulatory information. #####
+
+Each Bank shall ensure that access to the confidential regulatory information stored at its facility is limited to those with a need to know such information and that employees with access maintain the confidentiality of the confidential regulatory information in accordance with the Bank's own procedures for maintaining the confidentiality of its members' privileged or non-public information.

@@ -1,0 +1,3 @@
+##### § 725.260 Submission of health and environmental effects data. #####
+
+Each TERA must contain all available data concerning actual or potential effects on health or the environment of the new microorganism that are in the possession or control of the submitter and a description of other data known to or reasonably ascertainable by the submitter that will permit a reasoned evaluation of the planned test in the environment. The data must be reported in the manner described in § 725.160(a)(3) and (b)(3).

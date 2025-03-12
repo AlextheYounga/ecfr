@@ -1,0 +1,3 @@
+##### § 30.19 Buy American Act. #####
+
+The restrictions of this part are in addition to any other restrictions contained in Federal law, including the Buy American Act, 41 U.S.C. 10a-10d, and Buy American provisions in legislation governing DOT provisions. Normal evaluation methods for implementing the provisions of the Buy American Act in contracts for the construction, alteration, or repair of public buildings or public works will be applied after determining the offeror's eligible for award on the basis of application of the provisions in this part.

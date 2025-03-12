@@ -1,0 +1,7 @@
+##### § 802.18 Penalties. #####
+
+(a) An individual may bring a civil action against the NTSB to correct or amend the record, or where there is a refusal to comply with an individual request or failure to maintain any record with accuracy, relevance, timeliness and completeness, so as to guarantee fairness, or failure to comply with any other provision of 5 U.S.C. 552a. The court may order the correction or amendment. It may assess against the United States reasonable attorney fees and other costs, or may enjoin the NTSB from withholding the records and order the production to the complainant, and it may assess attorney fees and costs.
+
+(b) Where it is determined that the action was willful or intentional with respect to 5 U.S.C. 552(g)(1) (c) or (d), the United States shall be liable for the actual damages sustained, but in no case less than the sum of $1,000 and the costs of the action with attorney fees.
+
+(c) Criminal penalties may be imposed against an officer or employee of the NTSB who fully discloses material which he knows is prohibited from disclosure, or who willfully maintains a system of records without meeting the notice requirements, or who knowingly and willfully requests or obtains any record concerning an individual from an agency under false pretenses. These offenses shall be misdemeanors with a fine not to exceed $5,000.

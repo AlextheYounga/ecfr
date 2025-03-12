@@ -1,0 +1,7 @@
+##### § 709.14 Consequences of a refusal to complete a CI evaluation including a polygraph examination. #####
+
+(a) If a covered person is an applicant for employment or assignment or a potential detailee or assignee with regard to an identified position and the covered person refuses to complete a CI evaluation including a polygraph examination required by this part as an initial condition of access, DOE and its contractors must refuse to employ, assign, or detail that covered person with regard to the identified position.
+
+(b) If a covered person is an incumbent employee in an identified position subject to a CI evaluation including a polygraph examination under § 709.3(b), (c), or (d), and the covered person refuses to complete a CI evaluation, DOE and its contractors must deny that covered person access to classified information and materials protected under § 709.3(b) and (c) and may take other actions consistent with the denial of access, including administrative review of access authorization under 10 CFR part 710. If the covered person is a DOE employee, DOE may reassign or realign the DOE employee's duties, or take other action, consistent with that denial of access and applicable personnel regulations.
+
+(c) If a DOE employee refuses to take a CI polygraph examination, DOE may not record the fact of that refusal in the employee's personnel file.

@@ -1,0 +1,140 @@
+##### § 272.2201 Texas State-Administered program: Final authorization. #####
+
+(a) *History of the State of Texas authorization.* Pursuant to section 3006(b) of RCRA, 42 U.S.C. 6926(b), the EPA granted Texas final authorization for the following elements as submitted to EPA in Texas' Base program application for final authorization which was approved by EPA effective on December 26, 1984. Subsequent program revision applications were approved effective on October 4, 1985, February 17, 1987, March 15, 1990, July 23, 1990, October 21, 1991, December 4, 1992, June 27, 1994, November 26, 1997, December 3, 1997, October 18, 1999, November 15, 1999, September 11, 2000, June 14, 2005, December 29, 2008, July 13, 2009, May 6, 2011, May 7, 2012, January 9, 2013, November 3, 2014, December 21, 2015, February 26, 2016, April 10, 2020, and March 5, 2021.
+
+(b) *Enforcement authority.* The State of Texas has primary responsibility for enforcing its hazardous waste management program. However, EPA retains the authority to exercise its inspection and enforcement authorities in accordance with sections 3007, 3008, 3013, 7003 of RCRA, 42 U.S.C. 6927, 6928, 6934, 6973, and any other applicable statutory and regulatory provisions, regardless of whether the State has taken its own actions, as well as in accordance with other statutory and regulatory provisions.
+
+(c) *State statutes and regulations*—(1) *Incorporation by reference.* The Texas statutes and regulations cited in paragraph (c)(1)(i) of this section are incorporated by reference as part of the hazardous waste management program under Subtitle C of RCRA, 42 U.S.C. 6921 *et seq.* This incorporation by reference is approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies of the Texas statutes and regulations that are incorporated by reference in this paragraph from Thomson Reuters, 610 Opperman Drive, Eagan, MN 55123; Phone: 1-888-728-7677; website: *https://legalsolutions.thomsonreuters.com.* You may inspect a copy at EPA Region 6, 1201 Elm Street, Suite 500, Dallas, Texas 75270, Phone number: (214) 665-8533, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov,* or go to: *https://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+
+(i) “EPA-Approved Texas Statutory and Regulatory Requirements Applicable to the Hazardous Waste Management Program”, dated March 2021.
+
+(ii) [Reserved]
+
+(2) *Legal basis.* The following provisions provide the legal basis for the State's implementation of the hazardous waste management program, but they are not being incorporated by reference and do not replace Federal authorities:
+
+(i) Texas Health and Safety Code (THSC) Annotated, (Vernon, 2016); Chapter 361, The Texas Solid Waste Disposal Act (TSWDA), sections 361.002, 361.016, 361.017, 361.018, 361.0215(b)(2) and (b)(3), 361.023, 361.024, 361.029, 361.032, 361.033, 361.035, 361.036, 361.037(a), 361.061, 361.063, 361.0635, 361.064, 361.0641, 361.066(b) and (c), 361.0666, 361.068, 361.069, 361.078, 361.079, 361.0791, 361.080, 361.081, 361.082 (except 361.082(a) and (f)), 361.083, 361.084, 361.085, 361.0861(c), 361.0871(b), 361.088, 361.0885, 361.089, 361.095(b)-(f), 361.096, 361.097, 361.098, 361.099(a), 361.100, 361.101, 361.102 through 361.109, 361.113, 361.114, 361.116, 361.271 through 361.275, 361.301, 361.321(a) and (b), 361.321(c) (except the phrase “Except as provided by Section 361.322(a)”), 361.321(d), 361.321(e) (except the phrase “Except as provided by Section 361.322(e)”), 361.451, 361.501 through 361.506, and 361.509(a) introductory paragraph, (a)(11), (b), (c) introductory paragraph, and (c)(2); Chapter 371, Texas Used Oil Collection, Management, and Recycling Act, sections 371.0025(b) and (c), 371.024(a), (c) and (d), 371.026(a) and (b), and 371.028.
+
+(ii) Texas Water Code (TWC), as amended effective September 1, 2017: Chapter 5, sections 5.102 through 5.105, 5.112, 5.177, 5.351, 5.501 through 5.505, 5.509 through 5.512, 5.515, 5.551 through 5.556, and 5.557; Chapter 7, sections 7.031, 7.032, 7.051(a), 7.052(a), 7.052(c) and (d), 7.053 through 7.062, 7.064 through 7.069, 7.075, 7.101, 7.102, 7.104, 7.105, 7.107, 7.110, 7.162, 7.163, 7.176, 7.187(a), 7.189, 7.190, 7.252(1), 7.351, 7.3511, 7.353; Chapter 26, sections 26.001(13), 26.011, 26.020 through 26.022, 26.039, and 26.341 through 26.367; and Chapter 27, sections 27.003, 27.017(a), 27.018(a)-(d), and 27.019.
+
+(iii) Texas Government Code as amended effective September 1, 2017, section 311.027.
+
+(iv) Texas Rules of Civil Procedure, as amended effective September 1, 2017, Rule 60.
+
+(v) Texas Administrative Code (TAC), Title 30, Environmental Quality, 2017, as amended, effective through December 31, 2016:
+
+(A) Chapter 10; Chapter 39, sections 39.5(g) and (h), 39.11, 39.13 (except (10)), 39.103 (except (f) and (h)), 39.403(b)(1), 39.405(f)(1), 39.411 (except (b)(4)(B), (b)(10), (b)(11), and (b)(13)), 39.413 (except (10)), 39.420 (except (c) and (d)), 39.503 (except the reference to 39.405(h) in (d) introductory paragraph, and (g)), and 39.801 through 39.810;
+
+(B) Chapter 50, sections 50.13, 50.19, 50.39, 50.113 (except (d)), 50.117(f), 50.119, 50.133, and 50.139;
+
+(C) Chapter 55, sections 55.25(a) and (b), 55.27 (except (b)), 55.152(a)(4), 55.152(b), 55.154, 55.156 (except (d)-(g)), 55.201 (except as applicable to contested case hearings), and 55.211 (except as applicable to contested case hearings);
+
+(D) Chapter 70, section 70.10;
+
+(E) Chapter 281, sections 281.1 (except the clause “except as provided by . . . Prioritization Process”), 281.2 introductory paragraph and (4), 281.3(a) and (b), 281.5 (except the clause “Except as provided by . . . Discharge Permits)” and the phrases “subsurface area drip dispersal systems” and “radioactive material” in the introductory paragraph), 281.17(d) (except the references to radioactive material licenses), 281.17(e) and (f), 281.18(a) (except for the sentence “For applications for radioactive . . . within thirty days.”), 281.19(a) (except the last sentence), 281.19(b) (except the phrase “Except as provided in subsection (c) of this section”), 281.20, 281.21(a) (except “and 32” and the phrase “and the Texas Radiation Control Act.”), 281.21(b), 281.21(c) (except the phrase “radioactive materials,” in 281.21(c)(2)), 281.21(d), 281.22(a) (except the phrase “For applications for radioactive . . . to deny the license.”), 281.22(b) (except the phrase “or an injection well,” in the first sentence and the phrase “For underground injection wells . . . the same facility or activity.”), 281.23(a), and 281.24;
+
+(F) Chapter 305, sections, 305.29, 305.30, 305.64(d) and (f), 305.66(c), 305.66(e) (except for the last sentence), 305.66(f)-(l), 305.123 (except the phrases “and 32” and “and 401”), 305.125(1) and (3), 305.125(20), 305.127(1)(B)(i), 305.127(4)(A) and (C), 305.127(6), 305.401 (except the text “§ 55.21 of this title (relating to Requests for Contested Case Hearings, Public Comment)” at (b), and 305.401(c)); and
+
+(G) Chapter 335, sections 335.2(b), 335.43(b), 335.206, 335.391 through 335.393.
+
+(3) *Related legal provisions.* The following statutory and regulatory provisions are broader in scope than the Federal program, are not part of the authorized program, and are not incorporated by reference:
+
+(i) Texas Health and Safety Code (THSC) Annotated, (Vernon, 2016): Chapter 361, The Texas Solid Waste Disposal Act (TSWDA), sections 361.131 through 361.140; Chapter 371, Texas Used Oil Collection, Management, and Recycling Act, sections 371.021, 371.022, 371.024(e), 371.0245, 371.0246, 371.025, and 371.026(c).
+
+(ii) Texas Administrative Code (TAC), Title 30, Environmental Quality, 2017, as amended, effective through December 31, 2016: Chapter 305, sections 305.53, 305.64(b)(4), and 305.69(b)(1)(A) (as it relates to the Application Fee); Chapter 335, sections 335.1(146) “Solid waste” (a)(iv) introductory paragraph (IBR of 40 CFR 261.4(a)(24)), 335.18(a)(6), 335.19(d), 335.27 (IBR of 40 CFR 260.43(a)(4)), 335.321 through 335.332, Appendices I and II, and 335.401 through 335.412.
+
+(4) *Unauthorized state amendments and provisions.* (i) The following authorized provisions of the Texas regulations include amendments published in the Texas Register that are not approved by EPA. Such unauthorized amendments are not part of the State's authorized program and are, therefore, not Federally enforceable. Thus, notwithstanding the language in the Texas hazardous waste regulations incorporated by reference at paragraph (c)(1)(i) of this section, EPA will enforce the State provisions that are actually authorized by EPA. The effective dates of the State's authorized provisions are listed in the Table below. The actual State regulatory text authorized by EPA (*i.e.,* without the unauthorized amendments) is available as a separate document, *Addendum to the EPA-Approved Texas Regulatory and Statutory Requirements Applicable to the Hazardous Waste Management Program, dated March 2021.* Copies of the document can be obtained from EPA Region 6, 1201 Elm Street, Suite 500, Dallas, TX 75270.
+
+|State provision  <br/>(December 31, 2016)|Effective date  <br/>of authorized  <br/>provision|    Unauthorized State amendments    |                       |
+|-----------------------------------------|--------------------------------------------------|-------------------------------------|-----------------------|
+|        Texas Register reference         |                  Effective date                  |                                     |                       |
+|                335.6(a)                 |                     7/29/92                      |           18 TexReg 2799            |        5/12/93        |
+|                                         |                                                  |           22 TexReg 12060           |       12/15/97        |
+|                                         |                                                  |           23 TexReg 10878           |       10/19/98        |
+|     335.6(c) introductory paragraph     |                     7/29/92                      | 17 TexReg 8010  <br/>20 TexReg 2709 |11/27/92  <br/>4/24/95 |
+|                                         |                                                  |           20 TexReg 3722            |        5/30/95        |
+|                                         |                                                  |           21 TexReg 1425            |        3/1/96         |
+|                                         |                                                  |           21 TexReg 2400            |        3/6/96         |
+|                                         |                                                  |           22 TexReg 12060           |       12/15/97        |
+|                                         |                                                  |           23 TexReg 10878           |       10/19/98        |
+|                                         |                                                  |           26 TexReg 9135            |       11/15/01        |
+|                335.6(g)                 |                     7/29/92                      |           18 TexReg 3814            |        6/28/93        |
+|                                         |                                                  |           22 TexReg 12060           |       12/15/97        |
+|                                         |                                                  |           23 TexReg 10878           |       10/19/98        |
+|    335.24(b) introductory paragraph     |                      3/1/96                      |21 TexReg 10983  <br/>23 TexReg 10878|11/20/96  <br/>10/19/98|
+|                                         |                                                  |            38 TexReg 970            |        2/21/13        |
+|    335.24(c) introductory paragraph     |                      3/1/96                      |21 TexReg 10983  <br/>23 TexReg 10878|11/20/96  <br/>10/19/98|
+|                                         |                                                  |            38 TexReg 970            |        2/21/13        |
+|                335.45(b)                |                      9/1/86                      |           17 TexReg 5017            |        7/29/92        |
+|              335.204(a)(1)              |                     5/28/86                      |           16 TexReg 6065            |        11/7/91        |
+|              335.204(b)(1)              |                     5/28/86                      |           16 TexReg 6065            |        11/7/91        |
+|              335.204(b)(6)              |                     5/28/86                      |           16 TexReg 6065            |        11/7/91        |
+|              335.204(c)(1)              |                     5/28/86                      |           16 TexReg 6065            |        11/7/91        |
+|              335.204(d)(1)              |                     5/28/86                      |           16 TexReg 6065            |        11/7/91        |
+|              335.204(e)(6)              |                     5/28/86                      |           16 TexReg 6065            |        11/7/91        |
+
+(ii) Texas has partially or fully adopted, but is not authorized to implement, the Federal rules that are listed in the following table. The EPA will continue to implement the Federal HSWA requirements for which Texas is not authorized until the State receives specific authorization for those requirements. The EPA will not enforce the non-HSWA Federal rules although they may be enforceable under State law. For those Federal rules that contain both HSWA and non-HSWA requirements, the EPA will enforce only the HSWA portions of the rules.
+
+|                                                                                                    Federal requirement                                                                                                     |              **Federal Register**  <br/>reference               |                               Publication date                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------|
+|                                                                               Listing of Spent Solvents (HSWA) (Checklist 20 and Rule 20.1)                                                                                |                  50 FR 53315  <br/>51 FR 2702                   |                  December 31, 1985.  <br/>January 21, 1986.                  |
+|                                                                              Listing of Spent Pickle Liquor (Non-HSWA) (Checklist Rule 26.1)                                                                               |                           51 FR 33612                           |                             September 22, 1986.                              |
+|                                                           Toxicity Characteristic; Hydrocarbon Recovery Operations (HSWA) (Checklist 80 and Rules 80.1 and 80.2)                                                           |         55 FR 40834  <br/>56 FR 3978  <br/>56 FR 13406          |        October 5, 1990.  <br/>February 1, 1991.  <br/>April 2, 1991.         |
+|                                                                       Toxicity Characteristic; Chlorofluorocarbon Refrigerants (HSWA) (Checklist 84)                                                                       |                           56 FR 5910                            |                                 56 FR 5910.                                  |
+|                                                                               Administrative Stay for K069 Listing (Non-HSWA) (Checklist 88)                                                                               |                           56 FR 19951                           |                                 May 1, 1991.                                 |
+|                                                 Revision to the Petroleum Refining Primary and Secondary Oil/Water/Solids Separation Sludge Listings (HSWA) (Checklist 89)                                                 |                           56 FR 21955                           |                                May 13, 1991.                                 |
+|                                                                                    Coke Oven Administrative Stay (HSWA) (Checklist 98)                                                                                     |                           56 FR 43874                           |                              September 5, 1991.                              |
+|                                         Hazardous Waste Management System; Testing and Monitoring Activities, Land Disposal Restrictions Correction (HSWA) (Checklist Rule 126.1)                                          |                           59 FR 47980                           |                             September 19, 1994.                              |
+|                       Land Disposal Restrictions Phase III—Decharacterized Wastewaters, Carbamate Wastes, and Spent Potliners (HSWA) (Checklist Rules 151.1, 151.2, 151.3, 151.4, 151.5, and 151.6)                        |61 FR 15660  <br/>61 FR 19117  <br/>61 FR 33680  <br/>61 FR 36419|April 8, 1996.  <br/>April 30, 1996.  <br/>June 28, 1996.  <br/>July 10, 1996.|
+|                                                                                                                                                                                                                            |                           61 FR 43924                           |                               August 26, 1996.                               |
+|                                                                                                                                                                                                                            |                           62 FR 7502                            |                              February 19, 1997.                              |
+|                                Organobromine Production Wastes; Petroleum Refining Wastes; Identification and Listing of Hazardous Waste; Land Disposal Restrictions (HSWA) (Checklist 187)                                |                           64 FR 36365                           |                                June 8, 2000.                                 |
+|                                                            Hazardous Air Pollutant Standards; Technical Corrections (Non-HSWA) (Checklist Rules 188.1 and 188.2                                                            |                  66 FR 24270  <br/>66 FR 35087                  |                      May 14, 2001.  <br/>July 3, 2001.                       |
+|                                                           Zinc Fertilizers Made from Recycled Hazardous Secondary Materials (HSWA and Non-HSWA) (Checklist 200)                                                            |                           67 FR 48393                           |                                July 24, 2002.                                |
+|Land Disposal Restrictions: National Treatment Variance to Designate New Treatment Subcategories for Radioactively Contaminated Cadmium, Mercury-Containing Batteries and Silver-Containing Batteries (HSWA) (Checklist 201)|                           67 FR 62618                           |                               October 7, 2002.                               |
+|                                                                  NESHAP: Surface Coating of Automobiles and Light-Duty Trucks (Non-HSWA) (Checklist 205)                                                                   |                           69 FR 22601                           |                               April 26, 2004.                                |
+|                                                                      Non-wastewaters from Dyes and Pigments Correction (HSWA) (Checklist Rule 206.1)                                                                       |                           70 FR 35032                           |                                June 16, 2005.                                |
+|                                                        Removal of Saccharin and Its Salts from the Lists of Hazardous Constituents (Non-HSWA) (Checklist Rule 225)                                                         |                           75 FR 78918                           |                              December 17, 2010.                              |
+|                                                                  Hazardous Waste Technical Corrections and Clarifications Rule (Non-HSWA) (Checklist 228)                                                                  |                           77 FR 22229                           |                               April 13, 2012.                                |
+|                                                                Revisions to the Export Provisions of the Cathode Ray Tube (CRT) Rule (HSWA) (Checklist 232)                                                                |                           79 FR 36220                           |                                June 26, 2014.                                |
+
+(iii) The Federal rules listed in the table below are not delegable to States. Texas has adopted these provisions and left the authority to the EPA for implementation and enforcement.
+
+|                                         Federal requirement                                          |**Federal Register**  <br/>reference|Publication date|
+|------------------------------------------------------------------------------------------------------|------------------------------------|----------------|
+|Imports and Exports of Hazardous Waste: Implementation of OECD Council Decision (HSWA) (Checklist 152)|            61 FR 16290             |April 12, 1996. |
+|     OECD Requirements; Export Shipments of Spent Lead-Acid Batteries (Non-HSWA) (Checklist 222)      |             75 FR 1236             |January 8, 2010.|
+
+(iv) Texas has chosen not to adopt, and is not authorized to implement, the following optional Federal rules:
+
+|                                          Federal requirement                                           |**Federal Register**  <br/>reference| Publication date |
+|--------------------------------------------------------------------------------------------------------|------------------------------------|------------------|
+|       Storage, Treatment, Transportation and Disposal of Mixed Waste (Non-HSWA) (Checklist 191)        |            66 FR 27218             |  May 16, 2001.   |
+|Inorganic Chemical Manufacturing Waste Identification and Listing (HSWA/Non-HSWA) (Checklist Rule 195.1)|            67 FR 17119             |  April 9, 2002.  |
+|                 Revisions to the Definition of Solid Waste (Non-HSWA) (Checklist 219)                  |            73 FR 64668             |October 30, 2008. |
+|                 Expansion of RCRA Comparable Fuel Exclusion (Non-HSWA) (Checklist 221)                 |            73 FR 77954             |December 19, 2008.|
+|            Withdrawal of the Emission Comparable Fuel Exclusion (Non-HSWA) (Checklist 224)             |            73 FR 33712             |  June 15, 2010.  |
+
+(5) *Vacated Federal rules.* (i) Texas adopted and was authorized for the following Federal rules which have since been vacated by the U.S. Court of Appeals for the District of Columbia Circuit (D.C. Cir. No. 98-1379 and 08-1144, respectively; June 27, 2014):
+
+|                                                                                             Federal requirement                                                                                              |**Federal Register**  <br/>reference|Publication date|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|----------------|
+|                                                   Hazardous Waste Combustors; Revised Standards (HSWA) (Checklist 168—40 CFR 261.4(a)(16) and 261.38 only)                                                   |            63 FR 33782             | June 19, 1998. |
+|Exclusion of Oil-Bearing Secondary Materials Processed in a Gasification System to Produce Synthesis Gas (Checklist 216—Definition of “Gasification” at 40 CFR 260.10 and amendment to 40 CFR 261.4(a)(12)(i))|              73 FR 57              |January 2, 2008.|
+
+(ii) Texas has adopted the following Federal provisions from the *Revisions to the Definition of Solid Waste Rule* (80 FR 1694); January 13, 2015, which have since been vacated by the United States Court of Appeals for the District of Columbia Circuit (*Am. Petroleum Inst.* v. *EPA,* 862 F.3d 50 (D.C. Cir. 2017) and *Am. Petroleum Inst.* v. *EPA,* No. 09-1038 (D.C. Cir. Mar. 6, 2018):
+
+(A) one criterion in the determination of whether recycling is legitimate at 40 CFR 260.43(a)(4);
+
+(B) one criterion related to the management of hazardous secondary materials at verified recycler facilities at 40 CFR 260.30(f);
+
+(C) one criterion in the variance determination for exceptions to the classification of hazardous secondary materials as a solid waste (at 40 CFR 260.31(d)(6)); and
+
+(D) the verified recycler exclusion, which allowed generators to send their hazardous secondary materials to certain reclaimers at 40 CFR 261.4(a)(24).
+
+(6) *Memorandum of Agreement.* The Memorandum of Agreement between EPA Region 6 and the State of Texas was signed by the Executive Director of the Texas Commission on Environmental Quality (TCEQ) on December 20, 2011, and by the EPA Regional Administrator on February 17, 2012. The 2012 Memorandum of Agreement was re-certified by the Executive Director of the TCEQ on March 26, 2015, and the EPA Regional Administrator on September 30, 2015, and is referenced as part of the authorized hazardous waste management program under Subtitle C of RCRA, 42 U.S.C. 6921 *et seq.*
+
+(7) *Statement of legal authority.* “Attorney General's Statement for Final Authorization”, signed by the Attorney General of Texas on May 22, 1984 and revisions, supplements, and addenda to that Statement dated November 21, 1986, July 21, 1988, December 4, 1989, April 11, 1990, July 31, 1991, February 25, 1992, November 30, 1992, March 8, 1993, January 7, 1994, August 9, 1996, October 16, 1996, as amended February 7, 1997, March 11, 1997, January 5, 1999, November 2, 1999, March 1, 2002, July 16, 2008, December 6, 2011, February 22, 2013, June 10, 2016, and July 9, 2020 are referenced as part of the authorized hazardous waste management program under Subtitle C of RCRA, 42 U.S.C. 6921 *et seq.*
+
+(8) *Program Description.* The Program Description and any other materials submitted as part of the original application or as supplements thereto are referenced as part of the authorized hazardous waste management program under subtitle C of RCRA, 42 U.S.C. 6921 *et seq.*
+
+[89 FR 92070, Nov. 21, 2024]

@@ -1,0 +1,3 @@
+##### § 37.79 Purchase or lease of new rail vehicles by public entities operating rapid or light rail systems. #####
+
+Each public entity operating a rapid or light rail system making a solicitation after August 25, 1990, to purchase or lease a new rapid or light rail vehicle for use on the system shall ensure that the vehicle is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.

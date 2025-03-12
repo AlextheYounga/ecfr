@@ -1,0 +1,3 @@
+##### § 839.1121 What is the Actuarial Reduction for the Basic Employee Death Benefit (BEDB)? #####
+
+If you received a BEDB under FERS and you elect CSRS Offset under these rules, you do not have to pay back the BEDB. Instead, the FERCCA requires that OPM actuarially reduce your survivor annuity. The reduction will be the amount of the BEDB divided by the present value factor for your age at the time of the employee's death. The result is rounded to the next highest dollar amount and is the monthly actuarial reduction amount. If you elected to receive the BEDB in installments rather than a lump sum, the lump-sum amount is used for the purpose of computing the actuarial reduction.

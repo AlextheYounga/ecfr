@@ -1,0 +1,5 @@
+##### § 1263.29 Disposition of claims. #####
+
+(a) *In general.* If an institution withdraws from membership or its membership is otherwise terminated, the Bank shall determine an orderly manner for liquidating all outstanding indebtedness owed by that member to the Bank and for settling all other claims against the member. After all such obligations and claims have been extinguished or settled, the Bank shall return to the member all collateral pledged by the member to the Bank to secure its obligations to the Bank.
+
+(b) *Bank stock.* If an institution that has withdrawn from membership or that otherwise has had its membership terminated remains indebted to the Bank or has outstanding any business transactions with the Bank after the effective date of its termination of membership, the Bank shall not redeem or repurchase any Bank stock that is required to support the indebtedness or the business transactions until after all such indebtedness and business transactions have been extinguished or settled.

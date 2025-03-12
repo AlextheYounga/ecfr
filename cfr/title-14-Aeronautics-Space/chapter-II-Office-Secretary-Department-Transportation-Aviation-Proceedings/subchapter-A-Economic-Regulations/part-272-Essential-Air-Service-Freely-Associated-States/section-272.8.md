@@ -1,0 +1,11 @@
+##### § 272.8 Obligation to continue service. #####
+
+(a) If the Department finds that a proposed termination, suspension, or reduction in service by an air carrier or Freely Associated State Air Carrier will, or may, reduce service to an eligible Freely Associated State place below the level of essential air service to such place, whether or not the Department has previously determined the level of essential air service to such place, the Department may direct the air carrier or Freely Associated State Air Carrier concerned to maintain service to such place at a level the Department determines will ensure essential air service to such place, pending the commencement of alternative service as required to maintain the level of essential air service previously, or thereafter, determined by the Department.
+
+(b) During any period the Department requires an air carrier or Freely Associated State Air Carrier to maintain a level of service proposed to be terminated, suspended or reduced, following the filing of a 90 day notice in accordance with § 272.7, the Department will provide for the payment of compensation to such carrier for any losses incurred by that carrier as a result of such required continuation of service in accordance with the procedures set forth in part 271 of this chapter. If the carrier is already receiving compensation pursuant to § 272.9 of this part, the Department will continue to direct payment of such compensation during any period the carrier is required to maintain service. Such payments shall be made by the Department of Interior from funds appropriated for this purpose.
+
+(c) The Department will review its order from time to time and will revise the level of required service as necessary to maintain only the level of essential air service determined by the Department for that place, considering all other service to such place in accordance with § 272.6(a)(3).
+
+(d) During the period any such air carrier or Freely Associated State Air Carrier is required to maintain service under this section, the Department will make every effort to obtain alternative service, with compensation if necessary, as required to maintain essential air service to such place.
+
+[Amdt. 272-1, 52 FR 5443, Feb. 23, 1987, as amended at 60 FR 43525, Aug. 22, 1995]

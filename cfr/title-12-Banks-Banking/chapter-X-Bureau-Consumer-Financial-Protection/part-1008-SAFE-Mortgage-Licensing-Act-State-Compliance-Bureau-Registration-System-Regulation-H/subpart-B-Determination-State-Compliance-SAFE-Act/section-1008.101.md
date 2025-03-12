@@ -1,0 +1,3 @@
+##### § 1008.101 Scope of this subpart. #####
+
+This subpart describes the minimum standards of the S.A.F.E. Act that apply to a state's licensing and registering of loan originators. This subpart also provides the procedures that the Bureau follows to determine that a state does not have in place a system for licensing and registering mortgage loan originators that complies with the minimum standards. Upon making such a determination, the Bureau will impose the requirements and exercise the enforcement authorities described in subparts C and E of this part.

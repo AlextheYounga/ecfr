@@ -1,0 +1,13 @@
+##### § 310.9 Appeal of adverse initial agency determination on access or amendment. #####
+
+(a) A system manager's denial of an individual's request for access to or amendment of a record pertaining to him/her may be appealed in writing to the Corporation's General Counsel (or designee) within 30 business days following receipt of notification of the denial. Such an appeal should be addressed to the Federal Deposit Insurance Corporation, Attn: FOIA/PA Group, 550 17th Street, NW., Washington, DC 20429, and contain all the information specified for requests for access in § 310.3 or for initial requests to amend in § 310.7, as well as any other additional information the individual deems relevant for the consideration by the General Counsel (or designee) of the appeal.
+
+(b) The General Counsel (or designee) will normally make a final determination with respect to an appeal made under this part within 30 business days following receipt by the Office of the Executive Secretary of the appeal. The General Counsel (or designee) may, however, extend this 30-day time period for good cause. Where such an extension is required, the individual making the appeal will be notified of the reason for the extension and the expected date upon which a final decision will be given.
+
+(c) If the General Counsel (or designee) affirms the initial denial of a request for access or to amend, he or she will inform the individual affected of the decision, the reason therefor, and the right of judicial review of the decision. In addition, as pertains to a request for amendment, the individual may at that point submit to the Corporation a concise statement setting forth his or her reasons for disagreeing with the Corporation's refusal to amend.
+
+(d) Any statement of disagreement with the Corporation's refusal to amend, filed with the Corporation by an individual pursuant to § 310.9(c), will be included in the disclosure of any records under the authority of § 310.10(b). The Corporation may in its discretion also include a copy of a concise statement of its reasons for not making the requested amendment.
+
+(e) The General Counsel (or designee) may on his or her own motion refer an appeal to the Board of Directors for a determination, and the Board of Directors on its own motion may consider an appeal.
+
+[52 FR 34209, Sept. 10, 1987, as amended at 61 FR 43420, Aug. 23, 1996; 67 FR 71071, Nov. 29, 2002; 76 FR 35966, June 21, 2011]

@@ -1,0 +1,21 @@
+##### § 53.9 Conditions of designation. #####
+
+Designation of a candidate method as a FRM or FEM shall be conditioned to the applicant's compliance with the following requirements. Failure to comply with any of the requirements shall constitute a ground for cancellation of the designation in accordance with § 53.11.
+
+(a) Any method offered for sale as a FRM or FEM shall be accompanied by a copy of the manual referred to in § 53.4(b)(3) when delivered to any ultimate purchaser, and an electronic copy of the manual suitable for incorporating into user-specific standard operating procedure documents shall be readily available to any users.
+
+(b) Any method offered for sale as a FRM or FEM shall generate no unreasonable hazard to operators or to the environment during normal use or when malfunctioning.
+
+(c) Any analyzer, PM 10 sampler, PM 2.5 sampler, or PM 10-2.5 sampler offered for sale as part of an FRM or FEM shall function within the limits of the performance specifications referred to in § 53.20(a), § 53.30(a), § 53.35, § 53.50, or § 53.60, as applicable, for at least 1 year after delivery and acceptance when maintained and operated in accordance with the manual referred to in § 53.4(b)(3).
+
+(d) Any analyzer, PM 10 sampler, PM 2.5 sampler, or PM 10-2.5 sampler offered for sale as a FRM or FEM shall bear a prominent, permanently affixed label or sticker indicating that the analyzer or sampler has been designated by EPA as a FRM or FEM (as applicable) in accordance with this part and displaying any designated method identification number that may be assigned by EPA.
+
+(e) If an analyzer is offered for sale as a FRM or FEM and has one or more selectable ranges, the label or sticker required by paragraph (d) of this section shall be placed in close proximity to the range selector and shall indicate clearly which range or ranges have been designated as parts of the FRM or FEM.
+
+(f) An applicant who offers analyzers, PM 10 samplers, PM 2.5 samplers, or PM 10-2.5 samplers for sale as FRM or FEMs shall maintain an accurate and current list of the names and mailing addresses of all ultimate purchasers of such analyzers or samplers. For a period of 7 years after publication of the FRM or FEM designation applicable to such an analyzer or sampler, the applicant shall notify all ultimate purchasers of the analyzer or sampler within 30 days if the designation has been canceled in accordance with § 53.11 or § 53.16 or if adjustment of the analyzer or sampler is necessary under § 53.11(b).
+
+(g) If an applicant modifies an analyzer, PM 10 sampler, PM 2.5 sampler, or PM 10-2.5 sampler that has been designated as a FRM or FEM, the applicant shall not sell the modified analyzer or sampler as a reference or equivalent method nor attach a label or sticker to the modified analyzer or sampler under paragraph (d) or (e) of this section until the applicant has received notice under § 53.14(c) that the existing designation or a new designation will apply to the modified analyzer or sampler or has applied for and received notice under § 53.8(b) of a new FRM or FEM determination for the modified analyzer or sampler.
+
+(h) An applicant who has offered PM 2.5 or PM 10-2.5 samplers or analyzers for sale as part of a FRM or FEM may continue to do so only so long as the facility in which the samplers or analyzers are manufactured continues to be an ISO 9001-registered facility, as set forth in subpart E of this part. In the event that the ISO 9001 registration for the facility is withdrawn, suspended, or otherwise becomes inapplicable, either permanently or for some specified time interval, such that the facility is no longer an ISO 9001-registered facility, the applicant shall notify EPA within 30 days of the date the facility becomes other than an ISO 9001-registered facility, and upon such notification, EPA shall issue a preliminary finding and notification of possible cancellation of the FRM or FEM designation under § 53.11.
+
+[71 FR 61276, Oct. 17, 2006, as amended at 78 FR 3281, Jan. 15, 2013; 80 FR 65460, Oct. 26, 2015]

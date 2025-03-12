@@ -1,0 +1,3 @@
+##### § 2472.1 Purpose. #####
+
+The regulations contained in this Part are intended to implement the provisions of section 6131 of title 5 of the United States Code. They prescribe procedures and methods which the Federal Service Impasses Panel may utilize in the resolution of negotiations impasses arising from agency determinations not to establish or to terminate flexible and compressed work schedules.

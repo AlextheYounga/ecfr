@@ -1,0 +1,3 @@
+##### § 205.5 Scope of this part related to Copyright Office duties under title 17 of the U.S. Code. #####
+
+This part relates only to legal proceedings, process, requests and demands relating to the Copyright Office's performance of its duties pursuant to title 17 of the United States Code. Legal proceedings, process, requests and demands relating to other matters (e.g., personal injuries, employment matters, etc.) are the responsibility of the General Counsel of the Library of Congress and are governed by 36 CFR part 703.

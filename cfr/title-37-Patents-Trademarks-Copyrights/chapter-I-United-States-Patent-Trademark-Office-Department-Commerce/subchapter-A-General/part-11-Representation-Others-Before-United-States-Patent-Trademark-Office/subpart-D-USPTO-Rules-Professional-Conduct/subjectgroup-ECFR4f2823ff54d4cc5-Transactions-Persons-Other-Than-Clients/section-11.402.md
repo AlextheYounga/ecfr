@@ -1,0 +1,5 @@
+##### § 11.402 Communication with person represented by a practitioner. #####
+
+(a) In representing a client, a practitioner shall not communicate about the subject of the representation with a person the practitioner knows to be represented by another practitioner in the matter, unless the practitioner has the consent of the other practitioner or is authorized to do so by law, rule, or a court order.
+
+(b) This section does not prohibit communication by a practitioner with government officials who are otherwise represented by counsel and who have the authority to redress the grievances of the practitioner's client, provided that, if the communication relates to a matter for which the government official is represented, then prior to the communication the practitioner must disclose to such government official both the practitioner's identity and the fact that the practitioner represents a party with a claim against the government.

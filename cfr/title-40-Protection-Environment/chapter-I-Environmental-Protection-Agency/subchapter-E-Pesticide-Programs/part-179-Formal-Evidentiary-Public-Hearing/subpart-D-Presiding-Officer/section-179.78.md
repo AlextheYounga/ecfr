@@ -1,0 +1,3 @@
+##### § 179.78 Unavailability of presiding officer. #####
+
+If the presiding officer is unable to act for any reason, his or her powers with respect to the hearing will be assigned by the Chief Administrative Law Judge to another presiding officer. The substitution will not affect the hearing, *i.e.*, the testimony of the witnesses will not be taken anew except as the new presiding officer may order upon the request of a party where the credibility of a witness is of particular importance.

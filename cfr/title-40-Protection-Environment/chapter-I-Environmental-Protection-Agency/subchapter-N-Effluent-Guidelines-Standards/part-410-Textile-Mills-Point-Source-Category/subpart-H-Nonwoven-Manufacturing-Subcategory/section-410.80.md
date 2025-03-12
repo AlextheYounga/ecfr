@@ -1,0 +1,3 @@
+##### § 410.80 Applicability; description of the nonwoven manufacturing subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from facilities that primarily manufacture nonwoven textile products of wool, cotton, or synthetics, singly or as blends, by mechanical, thermal, and/or adhesive bonding procedures. Nonwoven products produced by fulling and felting processes are covered in subpart I—Felted Fabric Processing.

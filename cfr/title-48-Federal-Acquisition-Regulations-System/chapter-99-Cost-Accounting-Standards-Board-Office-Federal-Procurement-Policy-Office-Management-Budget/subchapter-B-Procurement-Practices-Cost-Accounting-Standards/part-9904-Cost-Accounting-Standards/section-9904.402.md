@@ -1,0 +1,1 @@
+##### 9904.402 Cost accounting standard—consistency in allocating costs incurred for the same purpose. #####

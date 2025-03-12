@@ -1,0 +1,5 @@
+##### 1815.208 Submission, modification, revision, and withdrawal of proposals. (NASA supplements paragraph (b)) #####
+
+(b) The FAR late proposal criteria do not apply to Announcements of Opportunity, NASA Research Announcements, and Small Business Innovative Research (SBIR) Phase I and Phase II solicitations, and Small Business Technology Transfer (STTR) solicitations. For these solicitations, proposals or proposal modifications received from qualified firms after the latest date specified for receipt may be considered if a significant reduction in cost to the Government is probable or if there are significant technical advantages, as compared with proposals previously received. In such cases, the project office shall investigate the circumstances surrounding the late submission, evaluate its content, and submit written recommendations and findings to the selection official or a designee as to whether there is an advantage to the Government in considering it. The selection official or a designee shall determine whether to consider the late submission.
+
+[63 FR 9954, Feb. 27, 1998, as amended at 69 FR 21764, Apr. 22, 2004]

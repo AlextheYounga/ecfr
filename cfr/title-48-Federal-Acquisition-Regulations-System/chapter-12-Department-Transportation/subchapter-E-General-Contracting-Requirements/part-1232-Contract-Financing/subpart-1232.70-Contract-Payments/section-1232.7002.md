@@ -1,0 +1,5 @@
+##### 1232.7002 Invoice and voucher review and approval. #####
+
+(a) Under fixed-price contracts, the contracting officer shall require the contractor to submit an invoice or voucher in order to receive payment under the contract. The invoice or voucher may be on a form or company letterhead as long as it meets the requirements of the Management and Budget (OMB) regulation at 5 CFR part 1315 as implemented by (FAR) 48 CFR Subpart 32.9, and the contract.
+
+(b) Under other than fixed-price contracts, the contracting office shall require the contractor to submit the SF 1034, Public Voucher for Purchases and Services Other Than Personal, and the SF 1035, Public Voucher for Purchases and Services Other Than Personal (Continuation Sheet), to request payments. The forms must be completed as required by appendix A to this part, Instructions for Completing the SF 1034, and appendix B to this part, Instructions for Completing the SF 1035.

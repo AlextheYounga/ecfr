@@ -1,0 +1,13 @@
+##### § 401.15 Toxic pollutants. #####
+
+The following comprise the list of toxic pollutants designated pursuant to section 307(a)(1) of the Act:
+
+1. Acenaphthene2. Acrolein3. Acrylonitrile4. Aldrin/Dieldrin 1
+
+1 Effluent standard promulgated (40 CFR part 129).
+
+5. Antimony and compounds 2
+
+2 The term *compounds* shall include organic and inorganic compounds.
+
+6. Arsenic and compounds7. Asbestos8. Benzene9. Benzidine 110. Beryllium and compounds11. Cadmium and compounds12. Carbon tetrachloride13. Chlordane (technical mixture and metabolites)14. Chlorinated benzenes (other than di-chlorobenzenes)15. Chlorinated ethanes (including 1,2-di-chloroethane, 1,1,1-trichloroethane, and hexachloroethane)16. Chloroalkyl ethers (chloroethyl and mixed ethers)17. Chlorinated naphthalene18. Chlorinated phenols (other than those listed elsewhere; includes trichlorophenols and chlorinated cresols)19. Chloroform20. 2-chlorophenol21. Chromium and compounds22. Copper and compounds23. Cyanides24. DDT and metabolites 125. Dichlorobenzenes (1,2-, 1,3-, and 1,4-di-chlorobenzenes)26. Dichlorobenzidine27. Dichloroethylenes (1,1-, and 1,2-dichloroethylene)28. 2,4-dichlorophenol29. Dichloropropane and dichloropropene30. 2,4-dimethylphenol31. Dinitrotoluene32. Diphenylhydrazine33. Endosulfan and metabolites34. Endrin and metabolites 135. Ethylbenzene36. Fluoranthene37. Haloethers (other than those listed elsewhere; includes chlorophenylphenyl ethers, bromophenylphenyl ether, bis(dichloroisopropyl) ether, bis-(chloroethoxy) methane and polychlorinated diphenyl ethers)38. Halomethanes (other than those listed elsewhere; includes methylene chloride, methylchloride, methylbromide, bromoform, dichlorobromomethane39. Heptachlor and metabolites40. Hexachlorobutadiene41. Hexachlorocyclohexane42. Hexachlorocyclopentadiene43. Isophorone44. Lead and compounds45. Mercury and compounds46. Naphthalene47. Nickel and compounds48. Nitrobenzene49. Nitrophenols (including 2,4-dinitrophenol, dinitrocresol)50. Nitrosamines51. Pentachlorophenol52. Phenol53. Phthalate esters54. Polychlorinated biphenyls (PCBs) 155. Polynuclear aromatic hydrocarbons (including benzanthracenes, benzopyrenes, benzofluoranthene, chrysenes, dibenz-anthracenes, and indenopyrenes)56. Selenium and compounds57. Silver and compounds58. 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)59. Tetrachloroethylene60. Thallium and compounds61. Toluene62. Toxaphene 163. Trichloroethylene64. Vinyl chloride65. Zinc and compounds[44 FR 44502, July 30, 1979, as amended at 46 FR 2266, Jan. 8, 1981; 46 FR 10724, Feb. 4, 1981]

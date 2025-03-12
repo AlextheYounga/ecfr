@@ -1,0 +1,9 @@
+##### § 230.32 Time and method of inspection. #####
+
+(a) *Time of inspection.* The entire boiler shall completely be inspected at the 1472 service day inspection. The jacket, lagging and any other components interfering with the provision of inspection access shall be removed at this time. Those portions of the boiler that are exposed and able to be inspected as required by the daily, 31service day, annual and fifth annual inspections shall be inspected at those times. The interior of the boiler also shall be inspected at each annual inspection, after the completion of any hydrostatic test above MAWP, and whenever a sufficient number of flues are removed to allow examination. The jacket, lagging and any other components shall also be removed to provide inspection access whenever the FRA inspector, or the steam locomotive owner and/or operator, considers it necessary due to identifiable safety concerns.
+
+(b) *Method of inspection*—(1) *Entire boiler.* During the 1472 service day inspection, the entire boiler shall be examined for cracks, pitting, grooving, or indications of overheating and for damage where mud has collected, or heavy scale formed. The edges of plates, all laps, seams, and points where cracks and defects are likely to develop, shall be thoroughly inspected. Rivets shall be inspected for corrosion and looseness.
+
+(2) *Boiler interior.* When inspecting the boiler interior, it must be seen that braces and stays are taut, that pins are properly secured in place, and that each is in condition to support its proportion of the load. Washout plugs shall be removed for access and visual inspection of the water side of the firebox sheets. Washout plug threads, sleeves and threaded openings shall be examined at this time.
+
+(3) *Boiler exterior.* A thorough inspection shall be made of the entire exterior of the boiler while under hydrostatic pressure.

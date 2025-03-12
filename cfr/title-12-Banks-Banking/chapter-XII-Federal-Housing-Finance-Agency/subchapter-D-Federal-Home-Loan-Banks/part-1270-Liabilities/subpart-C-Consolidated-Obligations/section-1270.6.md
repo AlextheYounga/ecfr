@@ -1,0 +1,3 @@
+##### § 1270.6 Transactions in consolidated obligations. #####
+
+The general regulations of the Department of the Treasury now or hereafter in force governing transactions in United States securities, except 31 CFR part 357 regarding book-entry procedure, are hereby incorporated into this subpart C of this part, so far as applicable and as necessarily modified to relate to consolidated obligations, as the regulations of FHFA for similar transactions on consolidated obligations. The book-entry procedure for consolidated obligations is contained in subpart D of this part.

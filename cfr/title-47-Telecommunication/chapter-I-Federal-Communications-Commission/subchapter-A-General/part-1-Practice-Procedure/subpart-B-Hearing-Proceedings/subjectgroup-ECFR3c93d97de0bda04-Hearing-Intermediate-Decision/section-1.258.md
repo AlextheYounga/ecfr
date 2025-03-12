@@ -1,0 +1,3 @@
+##### § 1.258 Closing of the hearing. #####
+
+The record of hearing shall be closed by an announcement to that effect at the hearing by the presiding officer when the taking of testimony has been concluded. In the discretion of the presiding officer, the record may be closed as of a future specified date in order to permit the admission into the record of exhibits to be prepared: *Provided,* The parties to the proceeding stipulate on the record that they waive the opportunity to cross-examine or present evidence with respect to such exhibits. The record in any hearing which has been adjourned may not be closed by such officer prior to the day on which the hearing is to resume, except upon 10 days' notice to all parties to the proceeding.

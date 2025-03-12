@@ -1,0 +1,49 @@
+##### § 171.12 North American Shipments. #####
+
+(a) *Requirements for the use of the Transport Canada TDG Regulations.* (1) A hazardous material transported from Canada to the United States, from the United States to Canada, or transiting the United States to Canada or a foreign destination may be offered for transportation or transported by motor carrier and rail in accordance with the Transport Canada TDG Regulations (IBR, see § 171.7) as authorized in § 171.22, provided the requirements in §§ 171.22 and 171.23, as applicable, and this section are met. In addition, a cargo tank motor vehicle, portable tank or rail tank car authorized by the Transport Canada TDG Regulations may be used for transportation to, from, or within the United States provided the cargo tank motor vehicle, portable tank or rail tank car conforms to the applicable requirements of this section. Except as otherwise provided in this subpart and subpart C of this part, the requirements in parts 172, 173, and 178 of this subchapter do not apply for a material transported in accordance with the Transport Canada TDG Regulations.
+
+(2) *General packaging requirements.* When the provisions of this subchapter require a DOT specification or UN standard packaging to be used for transporting a hazardous material, a packaging authorized by the Transport Canada TDG Regulations may be used, subject to the limitations of this part, and only if it is equivalent to the corresponding DOT specification or UN packaging (see § 173.24(d)(2) of this subchapter) authorized by this subchapter.
+
+(3) *Bulk packagings.* A portable tank, cargo tank motor vehicle or rail tank car equivalent to a corresponding DOT specification and conforming to and authorized by the Transport Canada TDG Regulations may be used provided -
+
+(i) An equivalent type of packaging is authorized for the hazardous material according to the § 172.101 table of this subchapter;
+
+(ii) The portable tank, cargo tank motor vehicle or rail tank car conforms to the requirements of the applicable part 173 bulk packaging section specified in the § 172.101 table for the material to be transported;
+
+(iii) The portable tank, cargo tank motor vehicle or rail tank car conforms to the requirements of all assigned bulk packaging special provisions (B codes, and T and TP codes) in § 172.102 of this subchapter; and
+
+(iv) The bulk packaging conforms to all applicable requirements of §§ 173.31, 173.32, 173.33 and 173.35 of this subchapter, and parts 177 and 180 of this subchapter. The periodic retests and inspections required by §§ 173.31, 173.32 and 173.33 of this subchapter may be performed in accordance with part 180 of this subchapter or in accordance with the requirements of the TDG Regulations provided that the intervals prescribed in part 180 of this subchapter are met.
+
+(v) Rail tank cars must conform to the requirements of Canadian General Standards Board standard 43.147 (IBR, see § 171.7).
+
+(4) *Cylinders.* When the provisions of this subchapter require that a DOT specification or a UN pressure receptacle must be used for a hazardous material, a packaging authorized by the Transport Canada TDG Regulations may be used only if it corresponds to the DOT specification or UN standard authorized by this subchapter. Unless otherwise excepted in this subchapter, a cylinder (including a UN pressure receptacle) may not be transported unless -
+
+(i) The packaging is a UN pressure receptacle marked with the letters “CAN” for Canada as a country of manufacture or a country of approval or is a cylinder that was manufactured, inspected and tested in accordance with a DOT specification or a UN standard prescribed in part 178 of this subchapter, except that cylinders not conforming to these requirements must meet the requirements in § 171.23. Each cylinder must conform to the applicable requirements in part 173 of this subchapter for the hazardous material involved.
+
+(ii) The packaging is a Canadian Transport Commission (CTC) specification cylinder manufactured, originally marked and approved in accordance with the CTC regulations and in full conformance with the Transport Canada TDG Regulations.
+
+(A) The CTC specification corresponds with a DOT specification and the cylinder markings are the same as those specified in this subchapter except that they were originally marked with the letters “CTC” in place of “DOT”;
+
+(B) The cylinder has been requalified under a program authorized by the Transport Canada TDG Regulations or requalified in accordance with the requirements in § 180.205 within the prescribed requalification period provided for the corresponding DOT specification;
+
+(C) When the regulations authorize a cylinder for a specific hazardous material with a specification marking prefix of “DOT”, a cylinder marked “CTC” which otherwise bears the same markings that would be required of the specified “DOT” cylinder may be used; and
+
+(D) Transport of the cylinder and the material it contains is in all other respects in conformance with the requirements of this subchapter (e.g. valve protection, filling requirements, operational requirements, etc.).
+
+(5) *Class 1 (explosive) materials.* When transporting Class 1 (explosive) material, rail and motor carriers must comply with 49 CFR 1572.9 and 1572.11 to the extent the requirements apply.
+
+(6) *Lithium metal cells and batteries.* Lithium metal cells and batteries (UN3090) are forbidden for transport aboard passenger-carrying aircraft. The outside of each package that contains lithium cells or batteries meeting the conditions for exception in § 173.185(c) of this subchapter and transported in accordance with the Transport Canada TDG Regulations must be marked in accordance with § 173.185(c)(1)(iii) or (c)(1)(iv) as appropriate.
+
+(b) *Shipments to or from Mexico.* Unless otherwise excepted, hazardous materials shipments from Mexico to the United States or from the United States to Mexico must conform to all applicable requirements of this subchapter. When a hazardous material that is a material poisonous by inhalation (see § 171.8) is transported by highway or rail from Mexico to the United States, or from the United States to Mexico, the following requirements apply:
+
+(1) The shipping description must include the words “Toxic Inhalation Hazard” or “Poison-Inhalation Hazard” or “Inhalation Hazard”, as required in § 172.203(m) of this subchapter.
+
+(2) The material must be packaged in accordance with requirements of this subchapter.
+
+(3) The package must be marked in accordance with § 172.313 of this subchapter.
+
+(4) Except as provided in paragraph (e)(5) of this section, the package must be labeled or placarded POISON GAS or POISON INHALATION HAZARD, as appropriate, in accordance with subparts E and F of this subchapter.
+
+(5) A label or placard that conforms to the UN Recommendations (IBR, see § 171.7) specifications for a “Division 2.3” or “Division 6.1” label or placard may be substituted for the POISON GAS or POISON INHALATION HAZARD label or placard required by §§ 172.400(a) and 172.504(e) of this subchapter on a package transported in a closed transport vehicle or freight container. The transport vehicle or freight container must be marked with identification numbers for the material, regardless of the total quantity contained in the transport vehicle or freight container, in the manner specified in § 172.313(c) of this subchapter and placarded as required by subpart F of this subchapter.
+
+[Amdt. 171-111, 55 FR 52472, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 171.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

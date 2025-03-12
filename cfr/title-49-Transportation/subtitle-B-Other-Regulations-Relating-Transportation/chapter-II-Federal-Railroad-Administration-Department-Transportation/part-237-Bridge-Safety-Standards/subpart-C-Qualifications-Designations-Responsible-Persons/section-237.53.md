@@ -1,0 +1,3 @@
+##### § 237.53 Railroad bridge inspectors. #####
+
+A railroad bridge inspector shall be a person who is determined by the track owner to be technically competent to view, measure, report and record the condition of a railroad bridge and its individual components which that person is designated to inspect. An inspector shall be designated to authorize or restrict the operation of railroad traffic over a bridge according to its immediate condition or state of repair.

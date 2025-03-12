@@ -1,0 +1,3 @@
+##### § 1111.5 Motions to dismiss or to make more definite. #####
+
+An answer to a complaint or cross complaint may be accompanied by a motion to dismiss the complaint or cross complaint or a motion to make the complaint or cross complaint more definite. A motion to dismiss can be filed at anytime during a proceeding. A complainant or cross complainant may, within 10 days after an answer is filed, file a motion to make the answer more definite. Any motion to make more definite must specify the defects in the particular pleading and must describe fully the additional information or details thought to be necessary.

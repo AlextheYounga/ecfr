@@ -1,0 +1,3 @@
+##### § 298.22 Processing by the Department. #####
+
+After examination of the OST Form 4507 submitted by the carrier, the Department will stamp the effective date of the registration on the form and return the duplicate copy to the carrier to confirm that it has registered with the Department as required by this part. The effective date of the registration shall not be earlier than the effective date of the insurance policy or policies named in the certificate of insurance filed by the carrier under § 298.21(c)(2).

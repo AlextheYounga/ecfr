@@ -1,0 +1,3 @@
+##### § 415.233 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT). #####
+
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best available technology economically achievable (BAT): The limitations for Fluoride(T), Chromium(T), and Nickel(T) are the same as specified in § 415.232.

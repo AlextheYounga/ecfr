@@ -1,0 +1,3 @@
+##### 1632.607 Tax credit. #####
+
+FAR 32.607 has no practical application to FEHBP contracts. The statutory provisions at 5 U.S.C. 8906(c) and (d) authorize joint enrollee and Government contributions to the FEHBP Fund. Because the Fund is comprised of contributions by enrollees as well as the Government, carriers may not offset debts to the Fund by a tax credit which is solely a Government obligation.

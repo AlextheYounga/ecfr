@@ -1,0 +1,7 @@
+##### § 161.209 Requirements for proposal changes. #####
+
+(a) Each airport operator shall promptly advise interested parties of any changes to a proposed restriction, including changes that affect noncompatible land uses, and make available any changes to the proposed restriction and its analysis. Interested parties include those that received direct notice under § 161.203(b), or those that were required to be consulted in accordance with the procedures in § 161.211 of this part, and those that have commented on the proposed restriction.
+
+(b) If there are substantial changes to the proposed restriction or the analysis during the 180-day notice period, the airport operator shall initiate new notice following the procedures in § 161.203 or, alternatively, the procedures in § 161.211. A substantial change includes, but is not limited to, a proposal that would increase the burden on any aviation user class.
+
+(c) In addition to the information in § 161.203(c), new notice must indicate that the airport operator is revising a previous notice, provide the reason for making the revision, and provide a new effective date (if any) for the restriction. The effective date of the restriction must be at least 180 days after the date the new notice and revised analysis are made available for public comment.

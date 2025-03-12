@@ -1,0 +1,3 @@
+##### § 416.315 Public reporting of data under the ASCQR Program. #####
+
+Data that an ASC submitted for the ASCQR Program will be made publicly available on a CMS Web site after providing the ASC an opportunity to review the data to be made public. CMS will publicly display ASC data by the National Provider Identifier (NPI) when data are submitted by the NPI. CMS will publicly display ASC data by the CMS Certification Number (CCN) when data are submitted by the CCNs.

@@ -1,0 +1,3 @@
+##### 2813.7001 Policy. #####
+
+Under limited circumstances as described in this subpart, supplies or services directly related to mission accomplishment, may be acquired on the open market from local suppliers at the site of the work or use point, using vendor's invoices under the certified invoice procedure, instead of issuing purchase orders. Certified invoice procedures may not be used to place orders under established contracts.

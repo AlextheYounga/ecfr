@@ -1,0 +1,19 @@
+##### § 11.6 Registration of attorneys and agents. #####
+
+(a) *Attorneys.* Any citizen of the United States who is an attorney and who fulfills the requirements of this part may be registered as a patent attorney to practice before the Office. When appropriate, any alien who is an attorney, who lawfully resides in the United States, and who fulfills the requirements of this part may be registered as a patent attorney to practice before the Office, provided that such registration is not inconsistent with the terms upon which the alien was admitted to, and resides in, the United States and further provided that the alien may remain registered only:
+
+(1) If the alien continues to lawfully reside in the United States and registration does not become inconsistent with the terms upon which the alien continues to lawfully reside in the United States, or
+
+(2) If the alien ceases to reside in the United States, the alien is qualified to be registered under paragraph (c) of this section. *See also* § 11.9(b).
+
+(b) *Agents.* Any citizen of the United States who is not an attorney, and who fulfills the requirements of this part may be registered as a patent agent to practice before the Office. When appropriate, any alien who is not an attorney, who lawfully resides in the United States, and who fulfills the requirements of this part may be registered as a patent agent to practice before the Office, provided that such registration is not inconsistent with the terms upon which the alien was admitted to, and resides in, the United States, and further provided that the alien may remain registered only:
+
+(1) If the alien continues to lawfully reside in the United States and registration does not become inconsistent with the terms upon which the alien continues to lawfully reside in the United States or
+
+(2) If the alien ceases to reside in the United States, the alien is qualified to be registered under paragraph (c) of this section. *See also* § 11.9(b).
+
+(c) *Foreigners.* Any foreigner not a resident of the United States who shall file proof to the satisfaction of the OED Director that he or she is registered and in good standing before the patent office of the country in which he or she resides and practices, and who is possessed of the qualifications stated in § 11.7, may be registered as a patent agent to practice before the Office for the limited purpose of presenting and prosecuting patent applications of applicants located in such country, provided that the patent office of such country allows substantially reciprocal privileges to those admitted to practice before the Office. Registration as a patent agent under this paragraph shall continue only during the period that the conditions specified in this paragraph obtain. Upon notice by the patent office of such country that a patent agent registered under this section is no longer registered or no longer in good standing before the patent office of such country, and absent a showing of cause why his or her name should not be removed from the register, the OED Director shall promptly remove the name of the patent agent from the register and publish the fact of removal. Upon ceasing to reside in such country, the patent agent registered under this section is no longer qualified to be registered under this section, and the OED Director shall promptly remove the name of the patent agent from the register and publish the fact of removal.
+
+(d) *Patent Trial and Appeal Board matters.* For action by a person who is not registered in a proceeding before the Patent Trial and Appeal Board, see § 41.5(a) or § 42.10(c) of this title.
+
+[69 FR 35452, June 24, 2004, as amended at 69 FR 50003, Aug. 12, 2004; 77 FR 46629, Aug. 6, 2012]

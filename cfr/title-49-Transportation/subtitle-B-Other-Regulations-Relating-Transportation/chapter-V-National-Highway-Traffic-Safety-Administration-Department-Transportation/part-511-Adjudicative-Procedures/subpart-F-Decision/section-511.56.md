@@ -1,0 +1,3 @@
+##### § 511.56 Reconsideration. #####
+
+Within twenty (20) days after issuance of a Final Decision and Order, any party may file with the Administrator a petition for reconsideration of such decision or order, setting forth the relief desired and the grounds in support thereof. Any party desiring to oppose such a petition shall file an answer thereto within ten (10) days after service of the petition. The filing of a petition for reconsideration shall not stay the effective date of the Decision and Order or toll the running of any statutory time period affecting the decision or order unless specifically so ordered by the Administrator.

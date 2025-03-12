@@ -1,0 +1,3 @@
+##### 323.7100 Policy. #####
+
+This subpart provides procedures for sustainable acquisitions and use of the following: Designated recycled content; energy efficient, environmentally preferred, Electronic Product Environmental Assessment Tool (EPEAT)-registered, bio-based, water efficient, non-ozone depleting products and services; and alternate fuel vehicles and fuels. The Department of Health and Human Services (HHS) has designated product and service codes for supplies and services having sustainable acquisition attributes. See FAR part 23.

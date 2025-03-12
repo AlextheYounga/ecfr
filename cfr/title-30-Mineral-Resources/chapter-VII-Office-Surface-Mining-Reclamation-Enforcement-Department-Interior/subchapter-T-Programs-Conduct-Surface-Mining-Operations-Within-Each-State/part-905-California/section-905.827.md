@@ -1,0 +1,3 @@
+##### § 905.827 Special performance standards—Coal preparation plants not located within the permit area of a mine. #####
+
+Part 827 of this chapter, Permanent Program Performance Standards—Coal Preparation Plants Not Located Within the Permit Area of a Mine, shall apply to any person who conducts surface coal mining and reclamation operations which include the operation of a coal preparation plant not located within the permit area of a mine.

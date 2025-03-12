@@ -1,0 +1,3 @@
+##### § 375.513 Must I give the individual shipper an opportunity to observe the weighing? #####
+
+You must give the individual shipper or any other person responsible for the payment of the freight charges the right to observe all weighings of the shipment. You must advise the individual shipper, or any other person entitled to observe the weighings, where and when each weighing will occur. You must give the person who will observe the weighings a reasonable opportunity to be present to observe the weighings.

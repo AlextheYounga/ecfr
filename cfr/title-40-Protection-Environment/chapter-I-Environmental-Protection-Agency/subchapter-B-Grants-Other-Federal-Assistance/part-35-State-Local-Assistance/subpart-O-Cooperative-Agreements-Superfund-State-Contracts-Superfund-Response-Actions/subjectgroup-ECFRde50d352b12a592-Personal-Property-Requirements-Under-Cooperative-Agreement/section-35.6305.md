@@ -1,0 +1,3 @@
+##### § 35.6305 Obtaining supplies. #####
+
+To obtain supplies, the recipient must agree to comply with the requirements in §§ 35.6300, 35.6315(b), 35.6325 through 35.6340, and 35.6350. Supplies obtained with Core Program funds must be for non-site-specific purposes. All purchases of supplies under the Core Program must comply with the requirements in §§ 35.6300, 35.6315(b), 35.6325 through 35.6340, and 35.6350, except where these requirements are site-specific.

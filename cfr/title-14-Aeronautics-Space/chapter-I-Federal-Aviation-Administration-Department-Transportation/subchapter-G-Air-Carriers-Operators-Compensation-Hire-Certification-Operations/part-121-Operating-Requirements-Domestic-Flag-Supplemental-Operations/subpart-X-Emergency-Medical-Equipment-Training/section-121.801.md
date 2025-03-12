@@ -1,0 +1,3 @@
+##### § 121.801 Applicability. #####
+
+This subpart prescribes the emergency medical equipment and training requirements applicable to all certificate holders operating passenger-carrying airplanes under this part. Nothing in this subpart is intended to require certificate holders or its agents to provide emergency medical care or to establish a standard of care for the provision of emergency medical care.

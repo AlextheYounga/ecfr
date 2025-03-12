@@ -1,0 +1,3 @@
+##### § 34.5 Special test procedures. #####
+
+The Administrator or the Administrator of the EPA may, upon written application by a manufacturer or operator of aircraft or aircraft engines, approve test procedures for any aircraft or aircraft engine that is not susceptible to satisfactory testing by the procedures set forth herein. Prior to taking action on any such application, the Administrator or the Administrator of the EPA shall consult with the other.

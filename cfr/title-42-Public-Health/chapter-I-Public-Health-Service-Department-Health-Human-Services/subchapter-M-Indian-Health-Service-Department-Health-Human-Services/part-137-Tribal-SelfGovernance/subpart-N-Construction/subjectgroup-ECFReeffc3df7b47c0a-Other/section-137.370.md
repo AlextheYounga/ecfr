@@ -1,0 +1,3 @@
+##### § 137.370 Do all provisions of this part apply to construction project agreements under this subpart? #####
+
+Yes, to the extent the provisions are not inconsistent with the provisions in this subpart. Provisions that do not apply include: programmatic reports and data requirements; reassumption; compact and funding agreement review, approval, and final offer process; and compact and funding agreement contents.

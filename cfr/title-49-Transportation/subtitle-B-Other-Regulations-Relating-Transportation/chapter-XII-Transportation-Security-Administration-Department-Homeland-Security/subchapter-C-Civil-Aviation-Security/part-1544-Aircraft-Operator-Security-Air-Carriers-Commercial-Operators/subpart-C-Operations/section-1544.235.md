@@ -1,0 +1,5 @@
+##### § 1544.235 Training and knowledge for individuals with security-related duties. #####
+
+(a) No aircraft operator may use any direct or contractor employee to perform any security-related duties to meet the requirements of its security program unless that individual has received training as specified in its security program including their individual responsibilities in § 1540.105 of this chapter.
+
+(b) Each aircraft operator must ensure that individuals performing security-related duties for the aircraft operator have knowledge of the provisions of this part, applicable Security Directives and Information Circulars, the approved airport security program applicable to their location, and the aircraft operator's security program to the extent that such individuals need to know in order to perform their duties.

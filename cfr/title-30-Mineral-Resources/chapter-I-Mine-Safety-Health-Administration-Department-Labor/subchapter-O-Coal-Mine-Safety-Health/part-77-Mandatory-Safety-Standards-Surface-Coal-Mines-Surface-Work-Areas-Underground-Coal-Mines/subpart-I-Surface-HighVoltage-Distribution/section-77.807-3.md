@@ -1,0 +1,3 @@
+##### § 77.807-3 Movement of equipment; minimum distance from high-voltage lines. #####
+
+When any part of any equipment operated on the surface of any coal mine is required to pass under or by any energized high-voltage powerline and the clearance between such equipment and powerline is less than that specified in § 77.807-2 for booms and masts, such powerlines shall be deenergized or other precautions shall be taken.

@@ -1,0 +1,3 @@
+##### § 71.113 Document control. #####
+
+The licensee, certificate holder, and applicant for a CoC shall establish measures to control the issuance of documents such as instructions, procedures, and drawings, including changes, that prescribe all activities affecting quality. These measures must assure that documents, including changes, are reviewed for adequacy, approved for release by authorized personnel, and distributed and used at the location where the prescribed activity is performed.

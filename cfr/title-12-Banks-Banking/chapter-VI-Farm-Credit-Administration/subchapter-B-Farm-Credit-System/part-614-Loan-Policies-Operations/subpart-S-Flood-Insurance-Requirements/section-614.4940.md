@@ -1,0 +1,5 @@
+##### § 614.4940 Required use of standard flood hazard determination form. #####
+
+(a) *Use of form.* A System institution shall use the standard flood hazard determination form developed by the Administrator of FEMA when determining whether the building or mobile home offered as collateral security for a loan is or will be located in a special flood hazard area in which flood insurance is available under the 1968 Act. The standard flood hazard determination form may be used in a printed, computerized, or electronic manner. A System institution may obtain the standard flood hazard determination form from FEMA's Web site at *www.fema.gov.*
+
+(b) *Retention of form.* A System institution shall retain a copy of the completed standard flood hazard determination form, in either hard copy or electronic form, for the period of time the System institution owns the loan.

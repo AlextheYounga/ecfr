@@ -1,0 +1,3 @@
+##### § 63.9980 What is the purpose of this subpart? #####
+
+This subpart establishes national emission limitations and work practice standards for hazardous air pollutants (HAP) emitted from coal- and oil-fired electric utility steam generating units (EGUs) as defined in § 63.10042 of this subpart. This subpart also establishes requirements to demonstrate initial and continuous compliance with the emission limitations.

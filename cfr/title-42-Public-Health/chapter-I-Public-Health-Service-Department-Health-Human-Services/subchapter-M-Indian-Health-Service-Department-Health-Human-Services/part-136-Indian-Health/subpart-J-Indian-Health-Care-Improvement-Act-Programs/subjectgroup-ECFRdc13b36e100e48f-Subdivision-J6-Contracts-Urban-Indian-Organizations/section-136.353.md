@@ -1,0 +1,5 @@
+##### § 136.353 Reports and records. #####
+
+For each fiscal year during which an urban Indian organization receives or expends funds pursuant to a contract under this title, such organization shall submit to the Secretary a report including information gathered pursuant to § 136.350(a) (7) and (8) of this subdivision, information on activities conducted by the organization pursuant to the contract, an accounting of the amounts and purposes for which Federal funds were expended, and such other information as the Secretary may request. The reports and records of the urban Indian organization with respect to such contract shall be subject to audit by the Secretary and the Comptroller General of the United States.
+
+[42 FR 59646, Nov. 18, 1977. Redesignated and amended at 67 FR 35342, May 17, 2002]

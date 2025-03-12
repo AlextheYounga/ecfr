@@ -1,0 +1,7 @@
+##### § 2600.101 Mission and history. #####
+
+(a) The U.S. Office of Government Ethics (OGE) was established by the Ethics in Government Act of 1978, Public Law 95-521, 92 Stat. 1824 (1978). OGE exercises leadership in the executive branch of the Federal Government to prevent conflicts of interest on the part of executive branch employees and resolve those conflicts of interest that do occur. In partnership with executive branch departments and agencies, OGE fosters high ethical standards for executive branch employees which, in turn, strengthens the public's confidence that the Government's business is conducted with impartiality and integrity.
+
+(b) Originally an entity within the Office of Personnel Management, OGE became a separate executive branch agency on October 1, 1989, pursuant to section 3 of the Office of Government Ethics Reauthorization Act of 1988, Public Law 100-598, 102 Stat. 3031 (1988). OGE is the supervising ethics office for all executive branch officers and employees pursuant to the Ethics Reform Act of 1989, Public Law 101-194, 103 Stat. 1716 (1989), as amended by Public Law 101-280, 104 Stat. 149 (1990). Additionally, OGE has various responsibilities under Executive Order 12674 of April 12, 1989, “Principles of Ethical Conduct for Government Officers and Employees” (3 CFR, 1989 Comp., pp. 215-218), as modified by Executive Order 12731 of October 17, 1990 (3 CFR, 1990 Comp., pp. 306-311).
+
+[68 FR 41682, July 15, 2003, as amended at 80 FR 57072, Sept. 22, 2015]

@@ -1,0 +1,5 @@
+##### § 141.209 Special notice for nitrate exceedances above MCL by non-community water systems (NCWS), where granted permission by the primacy agency under § 141.11(d). #####
+
+(a) *When is the special notice to be given?* The owner or operator of a non-community water system granted permission by the primacy agency under § 141.11(d) to exceed the nitrate MCL must provide notice to persons served according to the requirements for a Tier 1 notice under § 141.202(a) and (b).
+
+(b) *What is the form and manner of the special notice?* Non-community water systems granted permission by the primacy agency to exceed the nitrate MCL under § 141.11(d) must provide continuous posting of the fact that nitrate levels exceed 10 mg/l and the potential health effects of exposure, according to the requirements for Tier 1 notice delivery under § 141.202(c) and the content requirements under § 141.205.

@@ -1,0 +1,3 @@
+##### § 62.29 Under what circumstances can the Loan Repayment Program obligation be discharged in bankruptcy? #####
+
+Any payment obligation incurred under § 62.27 of this subpart may be released by a discharge in bankruptcy under title 11 of the United States Code only if such discharge is granted after the expiration of the five-year period beginning on the first date that payment was required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.

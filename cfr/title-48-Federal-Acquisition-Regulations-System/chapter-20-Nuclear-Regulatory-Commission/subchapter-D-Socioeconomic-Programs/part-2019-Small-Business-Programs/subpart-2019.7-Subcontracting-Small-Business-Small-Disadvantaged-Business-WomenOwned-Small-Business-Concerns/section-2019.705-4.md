@@ -1,0 +1,3 @@
+##### 2019.705-4 Reviewing the subcontracting plan. #####
+
+The contracting officer may accept the terms of an overall or “master” company subcontracting plan incorporated by reference into a specific subcontracting plan submitted by the apparent successful offeror/bid for a specific contract, only upon ensuring that the required information, goals, and assurances are included in accordance with FAR 19.704.

@@ -1,0 +1,11 @@
+##### § 93.129 Additional operations. #####
+
+(a) *IFR.* The operator of an aircraft may take off or land the aircraft under IFR at a designated high density traffic airport without regard to the maximum number of operations allocated for that airport if the operation is not a scheduled operation to or from a high density airport and he obtains a departure or arrival reservation, as appropriate, from ATC. The reservation is granted by ATC whenever the aircraft may be accommodated without significant additional delay to the operations allocated for the airport for which the reservations is requested.
+
+(b) *VFR.* The operator of an aircraft may take off and land the aircraft under VFR at a designated high density traffic airport without regard to the maximum number of operations allocated for that airport if the operation is not a scheduled operation to or from a high density airport and he obtains a departure or arrival reservation, as appropriate, from ATC. The reservation is granted by ATC whenever the aircraft may be accommodated without significant additional delay to the operations allocated for the airport for which the reservation is requested and the ceiling reported at the airport is at least 1,000 feet and the ground visibility reported at the airport is at least 3 miles.
+
+(c) For the purpose of this section a *scheduled operation to or from the high* density airport is any operation regularly conducted by an air carrier or commuter between a high density airport and another point regularly served by that operator unless the service is conducted pursuant to irregular charter or hiring of aircraft or is a nonpassenger flight.
+
+(d) An aircraft operator must obtain an IFR reservation in accordance with procedures established by the Administrator. For IFR flights to or from a high density airport, reservations for takeoff and arrival shall be obtained prior to takeoff.
+
+[Doc. No. 9113, 34 FR 2603, Feb. 26, 1969, as amended by Amdt. 93-25, 37 FR 22794, Oct. 25, 1972; Amdt. 93-44, 46 FR 58049, Nov. 27, 1981; Amdt. 93-46, 49 FR 8244, Mar. 6, 1984]

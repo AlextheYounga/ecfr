@@ -1,0 +1,9 @@
+##### § 386.18 Payment of the claim. #####
+
+(a) Payment of the full amount claimed may be made at any time before issuance of a Final Agency Order and will constitute an admission of liability by the respondent of all facts alleged in the Notice of Claim, unless the parties agree in writing that payment shall not be treated as an admission. After the issuance of a Final Agency Order, claims are subject to interest, penalties, and administrative charges, in accordance with 31 U.S.C. 3717; 49 CFR part 89; and 31 CFR 901.9.
+
+(b) If respondent elects to pay the full amount as its response to the Notice of Claim, payment must be served upon the Field Administrator at the Service Center designated in the Notice of Claim within 30 days following service of the Notice of Claim. No written reply is necessary if respondent elects the payment option during the 30-day reply period. Failure to serve full payment within 30 days of service of the Notice of Claim when this option has been chosen may constitute a default and may result in the Notice of Claim, including the civil penalty assessed by the Notice of Claim, becoming the Final Agency Order in the proceeding pursuant to § 386.14(c).
+
+(c) Unless otherwise agreed in writing by the parties, payment of the full amount in response to the Notice of Claim constitutes an admission of liability by the respondent of all facts alleged in the Notice of Claim. Payment waives respondent's opportunity to further contest the claim and will result in the Notice of Claim becoming the Final Agency Order.
+
+[70 FR 28482, May 18, 2005, as amended at 77 FR 24870, Apr. 26, 2012]

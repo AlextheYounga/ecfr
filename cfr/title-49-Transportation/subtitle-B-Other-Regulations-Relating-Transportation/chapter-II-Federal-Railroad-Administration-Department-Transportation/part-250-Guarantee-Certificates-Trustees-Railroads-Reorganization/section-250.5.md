@@ -1,0 +1,11 @@
+##### § 250.5 General instructions. #####
+
+(a) If the application is approved by the Administrator and the Secretary of Transportation and the latter agrees to make the guarantee, the following documents will be required for deposit with the Administrator before the transaction is closed:
+
+(1) Final opinion by counsel for the Trustee to the effect that he is familiar with the corporate powers of the carrier applicant and the orders of the reorganization court; that the Trustees of the carrier applicant are authorized to execute and deliver the certificate or other obligations evidencing the same, and to pledge and hypothecate any securities pledged as collateral; that the certificate or other obligations so executed and so delivered constitute the valid and binding obligations of the Trustees of the carrier that the certificate or other obligations of the Trustee will be treated as an expense of administration and receive the highest lien on the railroads property and priority in payment under the Bankruptcy Act, and that the lender and the Secretary will obtain a lien on any security involved of the rank and priority represented by the Trustee. Such opinion shall also cover the priority and lien of each item of the collateral offered.
+
+(2) Certified copies of the reorganization court orders and decrees authorizing the Trustee to execute and deliver the certificates or other obligations and to give the security under and according to the terms of the loan and guarantee as prescribed by the Administrator. Such order or orders of the reorganization court shall specify that trustee certificates, guaranteed by the Secretary as to payment of principal and interest, shall be treated as an expense of administration and receive the highest lien on the railroad's property and priority in payment under the Bankruptcy Act.
+
+(3) Unexecuted copies of the foregoing documents will be delivered to the Administrator 3 business days prior to closing.
+
+(b) The guarantee by the Secretary of a loan pursuant to an application filed as provided in this part should not be construed as relieving a carrier from complying with applicable provisions of section 20a of the Interstate Commerce Act (49 U.S.C. 20a) in relation to the issuance of Trustee certificates.

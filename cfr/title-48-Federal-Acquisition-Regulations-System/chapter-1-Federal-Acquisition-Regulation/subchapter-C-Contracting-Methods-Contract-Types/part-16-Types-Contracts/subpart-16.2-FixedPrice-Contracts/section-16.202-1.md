@@ -1,0 +1,5 @@
+##### 16.202-1 Description. #####
+
+A firm-fixed-price contract provides for a price that is not subject to any adjustment on the basis of the contractor's cost experience in performing the contract. This contract type places upon the contractor maximum risk and full responsibility for all costs and resulting profit or loss. It provides maximum incentive for the contractor to control costs and perform effectively and imposes a minimum administrative burden upon the contracting parties. The contracting officer may use a firm-fixed-price contract in conjunction with an award-fee incentive (see 16.404) and performance or delivery incentives (see 16.402-2 and 16.402-3) when the award fee or incentive is based solely on factors other than cost. The contract type remains firm-fixed-price when used with these incentives.
+
+[48 FR 42219, Sept. 19, 1983, as amended at 68 FR 13201, Mar. 18, 2003]

@@ -1,0 +1,7 @@
+##### § 1.560 Interviews in ex parte reexamination proceedings. #####
+
+(a) Interviews in *ex parte* reexamination proceedings pending before the Office between examiners and the owners of such patents or their attorneys or agents of record must be conducted in the Office at such times, within Office hours, as the respective examiners may designate. Interviews will not be permitted at any other time or place without the authority of the Director. Interviews for the discussion of the patentability of claims in patents involved in *ex parte* reexamination proceedings will not be conducted prior to the first official action. Interviews should be arranged in advance. Requests that reexamination requesters participate in interviews with examiners will not be granted.
+
+(b) In every instance of an interview with an examiner in an *ex parte* reexamination proceeding, a complete written statement of the reasons presented at the interview as warranting favorable action must be filed by the patent owner. An interview does not remove the necessity for response to Office actions as specified in § 1.111. Patent owner's response to an outstanding Office action after the interview does not remove the necessity for filing the written statement. The written statement must be filed as a separate part of a response to an Office action outstanding at the time of the interview, or as a separate paper within one month from the date of the interview, whichever is later.
+
+[65 FR 76777, Dec. 7, 2000]

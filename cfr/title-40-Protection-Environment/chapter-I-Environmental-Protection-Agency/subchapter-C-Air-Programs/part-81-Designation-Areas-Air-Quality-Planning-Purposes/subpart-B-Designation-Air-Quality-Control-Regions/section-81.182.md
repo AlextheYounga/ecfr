@@ -1,0 +1,17 @@
+##### § 81.182 Northwest Maine Intrastate Air Quality Control Region. #####
+
+The Northwest Maine Intrastate Air Quality Control Region (Maine) consists of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857h(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Maine:
+
+Aroostook County—That portion of Aroostook County which lies west of a line described as follows: Beginning at the point where the Maine-Canadian international border is intersected by a line common to the western boundary of Fort Kent Township and running due south to the intersection of the said line with the Aroostook-Penobscot County boundary.
+
+Franklin County—That portion of Franklin County which lies north and west of a line described as follows: Beginning at the point where the Oxford-Franklin County boundary is intersected by a line common to the northern boundary of Township No. 6, Phillips Town, Salem Township, and Freeman Township to the intersection of the said line with the Franklin-Somerset County boundary, which is also common to the northeast corner of Freeman Township.
+
+Oxford County—That portion of Oxford County which lies north and west of a line described as follows: Beginning at the point where the Maine-New Hampshire border is intersected by a line common to the northern boundary of Grafton Township, and running northeast along the northern boundaries of Grafton Township and Andover North Surplus to the intersection of said line with the Oxford-Franklin County boundary, which is also the northeast corner of Andover North Surplus.
+
+Penobscot County—That portion of Penobscot County which lies north of a line described as follows: Beginning at the point where the Penobscot-Aroostook County boundary is intersected by a line common to the boundaries of Patten and Stacyville Townships, and running due west to the intersection of said line with the Penobscot-Piscataquis County boundary.
+
+Piscataquis County—That portion of Piscataquis County which lies north and west of a line described as follows: Beginning at the point where the Somerset-Piscataquis County boundary is intersected by a line common to the northern boundary of Blanchard Plantation and running northeast along the northern boundary of Blanchard Plantation to the northeast corner of Blanchard Plantation; then northwest along the western boundary of Monson Township to the northwest corner of Monson Township; then northeast along the northern boundaries of Monson, Willimantic, and Bowerbank Townships, the northern boundary of Barnard Plantation, the northern boundaries of Williamsburg and Brownville Townships, and the northern boundary of Lake View Plantation to the intersection of said line with the Piscataquis-Penobscot County boundary, which is also common to the northeast corner of Lake View Plantation.
+
+Somerset County—That portion of Somerset County which lies north and west of a line described as follows: Beginning at the point where the Somerset-Franklin County boundary is intersected by a line common to the northern boundary of New Portland Township and running northeast along the northern boundaries of New Portland, Embden, Solon, and Athens Townships to the intersection of said line with the Somerset-Piscataquis County boundary, which is common to the northeast corner of Athens Township.

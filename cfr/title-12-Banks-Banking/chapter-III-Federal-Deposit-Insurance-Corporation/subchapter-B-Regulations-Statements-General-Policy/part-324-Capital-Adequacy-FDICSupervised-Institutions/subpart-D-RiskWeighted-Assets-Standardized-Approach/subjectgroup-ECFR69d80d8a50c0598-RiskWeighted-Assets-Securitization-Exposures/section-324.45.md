@@ -1,0 +1,7 @@
+##### § 324.45 Recognition of credit risk mitigants for securitization exposures. #####
+
+(a) *General.* (1) An originating FDIC-supervised institution that has obtained a credit risk mitigant to hedge its exposure to a synthetic or traditional securitization that satisfies the operational criteria provided in § 324.41 may recognize the credit risk mitigant under §§ 324.36 or 324.37, but only as provided in this section.
+
+(2) An investing FDIC-supervised institution that has obtained a credit risk mitigant to hedge a securitization exposure may recognize the credit risk mitigant under §§ 324.36 or 324.37, but only as provided in this section.
+
+(b) *Mismatches.* An FDIC-supervised institution must make any applicable adjustment to the protection amount of an eligible guarantee or credit derivative as required in § 324.36(d), (e), and (f) for any hedged securitization exposure. In the context of a synthetic securitization, when an eligible guarantee or eligible credit derivative covers multiple hedged exposures that have different residual maturities, the FDIC-supervised institution must use the longest residual maturity of any of the hedged exposures as the residual maturity of all hedged exposures.

@@ -1,0 +1,11 @@
+##### § 136.12 Persons to whom services will be provided. #####
+
+(a) *In general.* Services will be made available, as medically indicated, to persons of Indian descent belonging to the Indian community served by the local facilities and program. Services will also be made available, as medically indicated, to a non-Indian woman pregnant with an eligible Indian's child but only during the period of her pregnancy through postpartum (generally about 6 weeks after delivery). In cases where the woman is not married to the eligible Indian under applicable state or tribal law, paternity must be acknowledged in writing by the Indian or determined by order of a court of competent jurisdiction. The Service will also provide medically indicated services to non-Indian members of an eligible Indian's household if the medical officer in charge determines that this is necessary to control acute infectious disease or a public health hazard.
+
+(2) Generally, an individual may be regarded as within the scope of the Indian health and medical service program if he/she is regarded as an Indian by the community in which he/she lives as evidenced by such factors as tribal membership, enrollment, residence on tax-exempt land, ownership of restricted property, active participation in tribal affairs, or other relevant factors in keeping with general Bureau of Indian Affairs practices in the jurisdiction.
+
+(b) *Doubtful cases.* (1) In case of doubt as to whether an individual applying for care is within the scope of the program, the medical officer in charge shall obtain from the appropriate BIA officials in the jurisdiction information that is pertinent to his/her determination of the individual's continuing relationship to the Indian population group served by the local program.
+
+(2) If the applicant's condition is such that immediate care and treatment are necessary, services shall be provided pending identification as an Indian beneficiary.
+
+(c) *Priorities when funds, facilities, or personnel are insufficient to provide the indicated volume of services.* Priorities for care and treatment, as among individuals who are within the scope of the program, will be determined on the basis of relative medical need and access to other arrangements for obtaining the necessary care.

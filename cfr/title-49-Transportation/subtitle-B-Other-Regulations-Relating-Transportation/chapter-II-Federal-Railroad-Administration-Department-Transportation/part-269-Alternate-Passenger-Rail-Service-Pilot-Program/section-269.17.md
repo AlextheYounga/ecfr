@@ -1,0 +1,3 @@
+##### § 269.17 Cessation of service. #####
+
+If a railroad awarded a route under this part ceases to operate the service or fails to fulfill its obligations under the contract required under § 269.13 of this part, the Administrator, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with title 49 of the United States Code to enforce the contract and ensure the continued provision of service, including the installment of an interim service provider and re-bidding the contract to operate the service. The entity providing service shall either be Amtrak or a railroad eligible for this pilot program under § 269.7 of this part.

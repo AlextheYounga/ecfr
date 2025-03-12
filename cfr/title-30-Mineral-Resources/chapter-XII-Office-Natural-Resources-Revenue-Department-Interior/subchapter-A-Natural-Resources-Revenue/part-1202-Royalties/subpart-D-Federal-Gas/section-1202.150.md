@@ -1,0 +1,25 @@
+##### § 1202.150 Royalty on gas. #####
+
+(a) Royalties due on gas production from leases subject to the requirements of this subpart, except helium produced from Federal leases, shall be at the rate established by the terms of the lease. Royalty shall be paid in value unless ONRR requires payment in kind. When paid in value, the royalty due shall be the value, for royalty purposes, determined pursuant to 30 CFR part 1206 of this title multiplied by the royalty rate in the lease.
+
+(b)(1) All gas (except gas unavoidably lost or used on, or for the benefit of, the lease, including that gas used off-lease for the benefit of the lease when such off-lease use is permitted by the BSEE or BLM, as appropriate) produced from a Federal lease to which this subpart applies is subject to royalty.
+
+(2) When gas is used on, or for the benefit of, the lease at a production facility handling production from more than one lease with the approval of BSEE or BLM, as appropriate, or at a production facility handling unitized or communitized production, only that proportionate share of each lease's production (actual or allocated) necessary to operate the production facility may be used royalty free.
+
+(3) Where the terms of any lease are inconsistent with this subpart, the lease terms shall govern to the extent of that inconsistency.
+
+(c) If BLM determines that gas was avoidably lost or wasted from an onshore lease, or that gas was drained from an onshore lease for which compensatory royalty is due, or if BSEE determines that gas was avoidably lost or wasted from an OCS lease, then the value of that gas shall be determined in accordance with 30 CFR part 1206.
+
+(d) If a lessee receives insurance compensation for unavoidably lost gas, royalties are due on the amount of that compensation. This paragraph shall not apply to compensation through self-insurance.
+
+(e)(1) In those instances where the lessee of any lease committed to a Federally approved unitization or communitization agreement does not actually take the proportionate share of the production attributable to its Federal lease under the terms of the agreement, the full share of production attributable to the lease under the terms of the agreement nonetheless is subject to the royalty payment and reporting requirements of this title. Except as provided in paragraph (e)(2) of this section, the value for royalty purposes of production attributable to unitized or communitized leases will be determined in accordance with 30 CFR part 1206. In applying the requirements of 30 CFR part 1206, the circumstances involved in the actual disposition of the portion of the production to which the lessee was entitled but did not take shall be considered as controlling in arriving at the value for royalty purposes of that portion, as if the person actually selling or disposing of the production were the lessee of the Federal lease.
+
+(2) If a Federal lessee takes less than its proportionate share of agreement production, upon request of the lessee ONRR may authorize a royalty valuation method different from that required by paragraph (e)(1) of this section, but consistent with the purpose of these regulations, for any volumes not taken by the lessee but for which royalties are due.
+
+(3) For purposes of this subchapter, all persons actually taking volumes in excess of their proportionate share of production in any month under a unitization or communitization agreement shall be deemed to have taken ratably from all persons actually taking less than their proportionate share of the agreement production for that month.
+
+(4) If a lessee takes less than its proportionate share of agreement production for any month but royalties are paid on the full volume of its proportionate share in accordance with the provisions of this section, no additional royalty will be owed for that lease for prior periods at the time the lessee subsequently takes more than its proportionate share to balance its account or when the lessee is paid a sum of money by the other agreement participants to balance its account.
+
+(f) For production from Federal leases which are committed to federally-approved unitization or communitization agreements, upon request of a lessee ONRR may establish the value of production pursuant to a method other than the method required by the regulations in this title if: (1) The proposed method for establishing value is consistent with the requirements of the applicable statutes, lease terms and agreement terms; (2) to the extent practical, persons with an interest in the agreement, including royalty interests, are given notice and an opportunity to comment on the proposed valuation method before it is authorized; and (3) to the extent practical, persons with an interest in a Federal lease committed to the agreement, including royalty interests, must agree to use the proposed method for valuing production from the agreement for royalty purposes.
+
+[53 FR 1271, Jan. 15, 1988, as amended at 64 FR 43513, Aug. 10, 1999; 78 FR 30200, May 22, 2013]

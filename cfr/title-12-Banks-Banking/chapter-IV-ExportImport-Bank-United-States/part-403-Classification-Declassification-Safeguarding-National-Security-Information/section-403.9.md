@@ -1,0 +1,5 @@
+##### § 403.9 Fees. #####
+
+The following specific fees shall be applicable with respect to services rendered to members of the public under these regulations, by the Bank, except that the search fee will normally be waived when the search involves less than one-half hour of clerical time.
+
+(a) Search for records, per hour or fraction thereof: (i) Professional $11.00 (ii) Clerical 6.00 (b) Computer service charges per second for actual use of computer central processing unit .25 (c) Copies made by photostat or otherwise (per page); maximum of 5 copies will be provided .10 (d) Certification of each record as a true copy 1.00 (e) Certification of each record as a true copy under official seal 1.50 (f) Duplication of architectural photographs and drawings 2.00Fees must be paid in full prior to issuance of requested copies. Remittances shall be in the form either of a personal check or bank draft drawn on a bank in the United States, or postal money order. Remittances shall be made payable to the order of the Export-Import Bank of the United States, and mailed to:General Counsel, Export-Import Bank of the United States, 811 Vermont Avenue NW., Washington, DC 20571

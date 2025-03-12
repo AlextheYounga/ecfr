@@ -1,0 +1,3 @@
+##### § 250.408 May I use alternative procedures or equipment during drilling operations? #####
+
+You may use alternative procedures or equipment during drilling operations after receiving approval from the District Manager. You must identify and discuss your proposed alternative procedures or equipment in your Application for Permit to Drill (APD) (Form BSEE-0123) (see § 250.414(h)). Procedures for obtaining approval are described in § 250.141 of this part.

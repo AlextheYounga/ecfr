@@ -1,0 +1,5 @@
+##### § 1003.46 Decision and Order. #####
+
+(a) In reaching a decision with respect to an Application for Stay, the OHA shall consider all relevant information in the record. An Application for Stay may be decided by the issuance of an order either during the course of a hearing or conference in which an official transcript is maintained or in a separate written Decision and Order. Any such order shall include a statement of the relevant facts and the legal basis of the decision. The approval or denial of a stay is not an order of the OHA that is subject to administrative or judicial review.
+
+(b) In its discretion and upon a determination that it would be desirable to do so in order to further the objectives stated in the regulations or in the statutes the DOE is responsible for administering, the OHA may order a stay on its own initiative.

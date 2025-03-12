@@ -1,0 +1,3 @@
+##### § 9701.305 Bar on collective bargaining. #####
+
+As provided in the definition of *conditions of employment* in § 9701.504, any pay program established under authority of this subpart is not subject to collective bargaining. This bar on collective bargaining applies to all aspects of the pay program, including but not limited to coverage decisions, the design of pay structures, the setting and adjustment of pay levels, pay administration rules and policies, and administrative procedures and arrangements.

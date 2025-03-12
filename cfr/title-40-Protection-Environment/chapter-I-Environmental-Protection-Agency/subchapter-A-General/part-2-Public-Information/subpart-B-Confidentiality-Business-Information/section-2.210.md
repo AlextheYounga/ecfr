@@ -1,0 +1,5 @@
+##### § 2.210 Nondisclosure for reasons other than business confidentiality or where disclosure is prohibited by other statute. #####
+
+(a) Information which is not entitled to confidential treatment under this subpart shall be made available to the public (using the procedures set forth in §§ 2.204 and 2.205) if its release is requested under 5 U.S.C. 552, unless EPA determines (under subpart A of this part) that, for reasons other than reasons of business confidentiality, the information is exempt from mandatory disclosure and cannot or should not be made available to the public. Any such determination under subpart A shall be coordinated with actions taken under this subpart for the purpose of avoiding delay in responding to requests under 5 U.S.C. 552.
+
+(b) Notwithstanding any other provision of this subpart, if any statute not cited in this subpart appears to require EPA to give confidential treatment to any business information for reasons of business confidentiality, the matter shall be referred promptly to an EPA legal office for resolution. Pending resolution, such information shall be treated as if it were entitled to confidential treatment.

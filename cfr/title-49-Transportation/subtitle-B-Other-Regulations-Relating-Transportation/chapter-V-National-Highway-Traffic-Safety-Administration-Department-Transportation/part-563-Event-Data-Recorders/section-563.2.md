@@ -1,0 +1,3 @@
+##### § 563.2 Purpose. #####
+
+The purpose of this part is to help ensure that EDRs record, in a readily usable manner, data valuable for effective crash investigations and for analysis of safety equipment performance (e.g., advanced restraint systems). These data will help provide a better understanding of the circumstances in which crashes and injuries occur and will lead to safer vehicle designs.

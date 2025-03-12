@@ -1,0 +1,3 @@
+##### 447.302 Place of delivery—F.O.B. point. #####
+
+The contracting officer shall insert a clause substantially the same as the clause at 452.247-70, Delivery Location, in supply contracts when it is necessary to specify delivery locations. If appropriate, the clause may reference an attachment which lists various delivery locations and other delivery details (e.g., quantities to be delivered to each location, etc.).

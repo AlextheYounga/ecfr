@@ -1,0 +1,3 @@
+##### § 71.81 Applicability of operating controls and procedures. #####
+
+A licensee subject to this part, who, under a general or specific license, transports licensed material or delivers licensed material to a carrier for transport, shall comply with the requirements of this subpart G, with the quality assurance requirements of subpart H of this part, and with the general provisions of subpart A of this part.

@@ -1,0 +1,3 @@
+##### § 52.85 Administrative review of applications; hearings. #####
+
+A proceeding on a combined license is subject to all applicable procedural requirements contained in 10 CFR part 2, including the requirements for docketing (§ 2.101 of this chapter) and issuance of a notice of hearing (§ 2.104 of this chapter). If an applicant requests a Commission finding on certain ITAAC with the issuance of the combined license, then those ITAAC will be identified in the notice of hearing. All hearings on combined licenses are governed by the procedures contained in 10 CFR part 2.

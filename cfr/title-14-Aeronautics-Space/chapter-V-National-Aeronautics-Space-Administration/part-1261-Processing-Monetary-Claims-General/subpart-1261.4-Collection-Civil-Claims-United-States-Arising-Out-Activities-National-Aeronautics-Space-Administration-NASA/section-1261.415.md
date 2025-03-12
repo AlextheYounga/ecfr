@@ -1,0 +1,3 @@
+##### § 1261.415 Execution of releases. #####
+
+Upon receipt of full payment of a claim, or the amount in compromise of a claim as determined pursuant to § 1261.414, the official designated in § 1261.402 will prepare and execute, on behalf of the United States, an appropriate release, which shall include the provision that it shall be void if procured by fraud, misrepresentation, the presentation of a false claim, or mutual mistake of fact.

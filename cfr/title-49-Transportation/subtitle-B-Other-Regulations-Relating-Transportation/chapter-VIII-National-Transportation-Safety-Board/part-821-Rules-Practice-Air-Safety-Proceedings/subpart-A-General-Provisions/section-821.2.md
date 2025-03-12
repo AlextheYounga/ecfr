@@ -1,0 +1,3 @@
+##### § 821.2 Applicability and description of part. #####
+
+The provisions of this part govern all air safety proceedings, including proceedings before a law judge on petition for review of the denial of any airman certificate (including a medical certificate), or on appeal from any order of the Administrator amending, modifying, suspending or revoking a certificate. The provisions of this part also govern all proceedings on appeal from an order of the Administrator imposing a civil penalty on a flight engineer, mechanic, pilot or repairman, or a person acting in such capacity. All proceedings on appeal to the Board from any initial decision or order of a law judge are also governed by this part.

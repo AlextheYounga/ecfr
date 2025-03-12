@@ -1,0 +1,9 @@
+##### § 203.66 What happens if BSEE does not act in the time allowed? #####
+
+If we do not act within the timeframes established under § 203.65, you get royalty relief according to the following table.
+
+|If you apply for royalty relief for|                                                                                    And we do not decide within the time specified,                                                                                    |        As long as you        |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+|     (a) An authorized field,      |                                                                             You get the minimum suspension volumes specified in § 203.69,                                                                             |Abide by §§ 203.70 and 203.76.|
+|     (b) An expansion project,     |                                                                            You get a royalty suspension for the first year of production,                                                                             |Abide by §§ 203.70 and 203.76.|
+|    (c) A development project,     |You get a royalty suspension for initial production for the number of months that a decision is delayed beyond the stipulated timeframes set by § 203.65, plus all the royalty suspension volume for which you qualify,|Abide by §§ 203.70 and 203.76.|

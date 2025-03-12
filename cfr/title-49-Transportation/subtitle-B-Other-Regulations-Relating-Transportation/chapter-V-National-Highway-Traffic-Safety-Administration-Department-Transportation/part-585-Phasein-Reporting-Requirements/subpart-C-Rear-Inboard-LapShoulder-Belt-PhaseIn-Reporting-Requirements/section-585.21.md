@@ -1,0 +1,3 @@
+##### § 585.21 Scope. #####
+
+This subpart establishes requirements for manufacturers of passenger cars and for trucks, buses, and multipurpose passenger vehicles with a GVWR of 4,536 kg (10,000 lb) or less to submit reports, and maintain records related to the reports, concerning the number and identification of such vehicles that are certified as complying with the Type 2 seat belt requirements for rear seating positions of Standard No. 208, *Occupant crash protection* (49 CFR 571.208).

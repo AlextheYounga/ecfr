@@ -1,0 +1,5 @@
+##### § 792.67 Security of systems of records. #####
+
+(a) Each system manager, with the approval of the head of that Office, shall establish administrative and physical controls to insure the protection of a system of records from unauthorized access or disclosure and from physical damage or destruction. The controls instituted shall be proportional to the degree of sensitivity of the records, but at a minimum must insure: that records are enclosed in a manner to protect them from public view; that the area in which the records are stored is supervised during all business hours to prevent unauthorized personnel from entering the area or obtaining access to the records; and that the records are inaccessible during nonbusiness hours.
+
+(b) Each system manager, with the approval of the head of that Office, shall adopt access restriction to insure that only those individuals within the agency who have a need to have access to the records for the performance of duty have access. Procedures shall also be adopted to prevent accidental access to or dissemination of records.

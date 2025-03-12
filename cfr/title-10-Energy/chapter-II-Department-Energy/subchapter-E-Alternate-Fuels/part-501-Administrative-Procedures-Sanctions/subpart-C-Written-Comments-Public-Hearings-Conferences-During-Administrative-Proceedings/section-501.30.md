@@ -1,0 +1,3 @@
+##### § 501.30 Purpose and scope. #####
+
+This subpart establishes the procedures for requests for and the conduct of public hearings; for submission of written comments; and for requests for and conduct of conferences pursuant to an administrative proceeding before OFE. Hearings shall be convened at the request of any interested person, in accordance with section 701(d) of FUA, and shall be held at a time and place to be decided by the Presiding Officer.

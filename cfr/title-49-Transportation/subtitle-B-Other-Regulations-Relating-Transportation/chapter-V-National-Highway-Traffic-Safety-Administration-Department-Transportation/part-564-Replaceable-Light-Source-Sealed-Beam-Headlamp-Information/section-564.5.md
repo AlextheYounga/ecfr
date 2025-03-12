@@ -1,0 +1,21 @@
+##### § 564.5 Information filing; agency processing of filings. #####
+
+(a) Each manufacturer of a motor vehicle, original equipment headlamp, or original equipment headlamp replaceable light source, which intends to manufacture a replaceable light source as original equipment or to incorporate a replaceable light source in its headlamps or motor vehicles, shall furnish the information specified in appendix A. If the rated laboratory life of the light source is not less than 2,000 hours, the manufacturer shall furnish the information specified in either appendix A or appendix B of this part. Information shall be furnished to: Associate Administrator for Rulemaking, National Highway Traffic Safety Administration, 1200 New Jersey Avenue, SE., West Building, Washington, DC 20590 Attention: Part 564-Replaceable Light Source Information (unless the Agency has already filed such information in Docket No. NHTSA 98-3397).
+
+(b) The manufacturer shall submit such information not later than 60 days before it intends to begin manufacture of the replaceable light source to which the information applies, or to incorporate the light source into a headlamp, or to incorporate the light source into a motor vehicle of its manufacture. Each submission shall consist of one original set of information and ten legible reproduced copies, all on 81/2 by 11-inch paper.
+
+(c) The Associate Administrator promptly reviews each submission and informs the manufacturer not later than 30 days after its receipt whether the submission has been accepted. Upon acceptance, the Associate Administrator files the information in Docket No. NHTSA 98-3397. The Associate Administrator does not accept any submission that does not contain all the information specified in appendix A or appendix B of this part, or whose accompanying information indicates that any new light source which is the subject of a submission is interchangeable with any replaceable light source for which the agency has previously filed information in Docket No. NHTSA 98-3397.
+
+(d) A manufacturer may request modification of a light source for which information has previously been filed in Docket No. NHTSA 98-3397, and the submission shall be processed in the manner provided by § 564.5(c). A request for modification shall contain the following:
+
+(1) All the information specified in appendix A or appendix B of this part that is relevant to the modification requested,
+
+(2) The reason for the requested modification,
+
+(3) A statement that the use of the light source as modified will not create a noncompliance with any requirement of Federal Motor Vehicle Safety Standard No. 108 (49 CFR 571.108) when used to replace an unmodified light source in a headlamp certified by its manufacturer as conforming to all applicable Federal motor vehicle safety standards, together with reasons in support of the statement; and
+
+(4) Information demonstrating that the modification would not adversely affect interchangeability with the original light source.
+
+After review of the request for modification, the Associate Administrator may seek further information either from the manufacturer or through a notice published in the Federal Register requesting comment on whether a modified light source incorporating the changes requested will create a noncompliance with Federal Motor Vehicle Safety Standard No. 108 when substituted for an unmodified light source. If the Associate Administrator seeks public comment on a submission (s)he shall publish a notice stating whether (s)he has accepted or rejected the submission. If a submission is accepted, the Associate Administrator files the information in Docket No. NHTSA 98-3397. If a submission is rejected, a manufacturer may submit information with respect to it, as provides in paragraph 564.5(a), for consideration as a new light source after such changes as will insure that it is not interchangeable with the light source for which modification was originally requested.
+
+(e) Information submitted under this section is made available by NHTSA for public inspection as soon as practicable after its receipt, but not later than the date on which a vehicle equipped with a new or revised replaceable light source is offered for sale.

@@ -1,0 +1,3 @@
+##### § 230.45 Method of testing. #####
+
+Steam gauges shall be compared with an accurate test gauge or dead weight tester. While under test load at the MAWP of the boiler to which the gauge will be applied, the gauge shall be set to read that pressure as accurately as the physical limitations of the gauge will allow. Under test the gauge shall read within the manufacturer's tolerance at all points on the gauge up to 25 percent above the allowed pressure. If the manufacturer's tolerance is not known, the gauge must read within 2 percent full scale accuracy at all points on the gauge up to 25 percent above allowed pressure.

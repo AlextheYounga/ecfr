@@ -1,0 +1,3 @@
+##### § 530.205 Records. #####
+
+An agency must maintain appropriate records to administer this subpart and must transfer such records to any agency to which an employee may transfer. An agency must make such records available to any agency that may employ the employee later during the same calendar year. An agency's records must document the source of any deferred excess amount remaining to the employee's credit at the time of separation from the agency. In the case of an employee who separates from Federal service for at least 30 days, the agency records also must document any payment of a deferred excess amount made by the agency after separation.

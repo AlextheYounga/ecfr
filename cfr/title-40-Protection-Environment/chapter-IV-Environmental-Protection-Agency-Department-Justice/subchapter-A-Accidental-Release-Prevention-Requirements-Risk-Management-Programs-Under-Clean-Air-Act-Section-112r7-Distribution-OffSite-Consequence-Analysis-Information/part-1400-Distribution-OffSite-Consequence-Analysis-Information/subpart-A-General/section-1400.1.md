@@ -1,0 +1,3 @@
+##### § 1400.1 Purpose. #####
+
+Stationary sources subject to the Chemical Accident Prevention Provisions of 40 CFR part 68 are required to analyze the potential harm to public health and welfare of hypothetical chemical accidents and submit the results of their analyses to the U.S. Environmental Protection Agency as part of risk management plans. This part governs access by the public and by government officials to the portions of risk management plans containing the results of those analyses and certain related materials. This part also restricts dissemination of that information by government officials.

@@ -1,0 +1,23 @@
+##### § 721.9825 Phenyl substituted triazolinones. #####
+
+(a) *Chemical substance and significant new uses subject to reporting.* (1) The chemical substances identified generically as phenyl substituted triazolinones (PMNs P-93-204, P-94-1870, P-94-1871, P-94-1872, P-94-1873, and P-94-1874) are subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.
+
+(2) The significant new uses are:
+
+(i) *Protection in the workplace.* Requirements as specified in § 721.63 (a)(1), (a)(2)(i), (a)(3), (a)(4), (a)(5)(iii), (a)(5)(iv), (a)(5)(v), (a)(5)(vi), (a)(6)(i), (b) (concentration set at 1.0 percent), and (c). The imperviousness of the gloves selected pursuant to (a)(2)(i) of this section must be demonstrated by actual testing under (a)(3)(i) of this section and not by manufacturer specifications. In addition, there must be no permeation of the chemical substance greater than 15 µg/day-cm2 as a daily cumulative total when tested in accordance with the most current version of the American Society for Testing and Materials (ASTM) F739 “Standard Test Method for Resistance of Protective Clothing Materials to Permeation by Liquids or Gases” or ASTM F1383 “Standard Test Method for Resistance of Protective Clothing Materials to Permeation by Liquids or Gases Under Conditions of Intermittent Contact.”
+
+(A) For conditions of exposure which are intermittent, gloves may be tested in accordance with the most current version of ASTM F1383 “Standard Test Method for Resistance of Protective Clothing Materials to Permeation by Liquids or Gases Under Conditions of Intermittent Contact,” provided the contact time in testing is greater than or equal to the expected duration of dermal contact, and the purge time used in the testing is less than or equal to the expected duration of non-contact during the intermittent cycle of dermal exposure in the workplace. If ASTM F1383 is used for testing, the company must submit to the Agency a description of worker activities involving the chemical substance which includes daily frequencies and durations of potential worker exposures.
+
+(B) The results of all glove permeation testing must be reported in accordance with the most current version of (ASTM) F1194 “Guide for Documenting the Results of Chemical Permeation Testing of Protective Clothing Materials.” The company must submit all test data to the Agency and must receive written Agency approval for each type of glove tested prior to use of such gloves. Gloves must be discarded and replaced with such frequency as to ensure that they will reliably provide an impervious barrier to the chemical substances under normal and expected conditions of exposure within the work area. Gloves that have been damaged or are defective shall not be used. For PMNs P-94-1871 through P-94-1874, EPA has approved North Safety Butyl Rubber gloves (32 mils thick). For P-93-204 and P-94-1870, EPA has approved North Safety Butyl Rubber gloves (32 mils thick) only if used in combination with a chemical-resistant glove that has been demonstrated (EPA review not required) impermeable to the solvent, e.g., North Silvershield gloves and North 4H gloves.
+
+(ii) *Hazard communication program.* Requirements as specified in § 721.72 (a), (b), (c), (d), (e) (concentration set at 1.0 percent), (f), (g)(1)(iv), (g)(1)(ix), (g)(2)(i), (g)(2)(ii), (g)(2)(iii), (g)(2)(iv), (g)(2)(v), (g)(3)(i), (g)(3)(ii), (g)(4)(i), and (g)(5).
+
+(iii) *Release to water.* Requirements as specified in § 721.90 (a)(4), (b)(4), and (c)(4) (N = 5 for all the chemical substances subject to the provisions of this rule combined). However, contrary to the requirements specified in § 721.91, if the waste stream containing the chemical substances will be treated using activated carbon adsorption, then the amount of chemical substances reasonably likely to be removed from the waste stream by such treatment may be subtracted in calculating the number of kilograms released. No more than the following percent removal efficiencies may be attributed to such treatment for each PMN: P-93-204, 99 percent; P-94-1870, 98 percent; P-94-1871, 97 percent; P-94-1872, 92 percent; P-94-1873, 90 percent; P-94-1874, 73 percent.
+
+(b) *Specific requirements.* The provisions of subpart A of this part apply to this section except as modified by this paragraph.
+
+(1) *Recordkeeping.* Recordkeeping requirements as specified in § 721.125 (a), (b), (c), (d), (e), (f), (g), (h), and (k) are applicable to manufacturers, importers, and processors of these substances.
+
+(2) *Limitations or revocation of certain notification requirements.* The provisions of § 721.185 apply to this section.
+
+[63 FR 3439, Jan. 22, 1998]

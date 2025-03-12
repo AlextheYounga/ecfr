@@ -1,0 +1,9 @@
+##### § 950.107 Campaign expense recovery. #####
+
+(a) The costs of outreach approved by the LFCC, training and traveling for the LFCC, and CCA will be recovered through application/listing fees and/or distribution fees paid by charitable organizations . The fee structure will be determined annually by the Director based on estimated costs of administering the central campaign and local marketing efforts. This structure will be announced no later than October 31 of the year preceding the campaign. Any excess funds from applications fees over expenses will be rolled over to the following campaign and be considered when setting the rates. Marketing expenses will not exceed a percentage of receipts as determined by the Director. No expenses for food or entertainment may be reimbursed to the Outreach Coordinator. Only travel-related food expenses may be reimbursed to the LFCC in accordance with the Federal Travel Regulations.
+
+(b) Charity application fees are due at the time of the filing of the application or the application deadline, whichever occurs last. A charity that has not paid the full application fee at that time may not participate in the CFC that campaign year.
+
+(c) An additional listing fee will be applied to all charities approved for participation. These charities will not be listed in paper or electronic Charity Lists, and CFC contributions will not be processed on their behalf, if they do not submit the listing fee prior to the annual date set by OPM.
+
+(d) The distribution fee will be assessed against pledges received should the application and listing fees not cover all the costs of the campaign.

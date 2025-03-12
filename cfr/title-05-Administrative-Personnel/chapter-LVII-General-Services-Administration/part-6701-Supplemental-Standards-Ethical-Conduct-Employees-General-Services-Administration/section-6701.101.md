@@ -1,0 +1,3 @@
+##### § 6701.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the General Services Administration (GSA) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch (Standards) contained in 5 CFR part 2635. In addition to the executive branch-wide Standards in 5 CFR part 2635 and this part, GSA employees are subject to the executive branch financial disclosure regulations contained in 5 CFR part 2634.

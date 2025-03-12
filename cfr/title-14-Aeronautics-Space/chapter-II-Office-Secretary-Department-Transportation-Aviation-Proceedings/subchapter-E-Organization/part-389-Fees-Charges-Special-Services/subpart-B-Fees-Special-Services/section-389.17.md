@@ -1,0 +1,5 @@
+##### § 389.17 Transcripts of proceedings. #####
+
+Transcripts of testimony and oral argument are furnished to the Board by a non-Government contractor for any proceeding in which the presiding officer has determined that such transcript should be made, and copies thereof may be purchased directly from the reporting firm, at prices and upon other terms and conditions specified in the contract made between the Board and the reporting firm, and currently in effect, pursuant to section 11 of the Federal Advisory Committee Act (Pub. L. 92-463, 86 Stat. 770, 5 U.S.C. App. I). Any person may obtain from the Director, Office of Facilities and Operations, the name and address of the reporting firm with which the Board currently has such contract, as well as the contract prices then in effect for the various types of transcript and copying services covered by such contract.
+
+[OR-84, 39 FR 22417, June 24, 1974]

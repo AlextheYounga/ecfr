@@ -1,0 +1,5 @@
+##### § 1214.604 Personal Preference Kit. #####
+
+(a) *Purpose.* The Personal Preference Kit (PPK) enables persons on a particular mission to carry personal items for use as mementos. Only those individuals actually accompanying such flights may request authorization to carry personal items as mementos.
+
+(b) *Approval of content.* At least 60 days prior to the scheduled launch of a particular mission, each person assigned to the flight who desires to carry items in a PPK must submit a proposed list of items and their recipients to the Associate Director, NASA Johnson Space Center. The Associate Director will review the proposed list of items and, if approved, submit the crew members' PPK lists through supervisory channels to the Associate Administrator for Human Exploration and Operations for approval. A signed copy of approval from the Associate Administrator for Human Exploration and Operations will be returned to the Director, NASA Johnson Space Center, for distribution.

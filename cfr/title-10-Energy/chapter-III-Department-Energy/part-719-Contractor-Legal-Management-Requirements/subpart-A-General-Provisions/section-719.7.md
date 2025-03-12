@@ -1,0 +1,7 @@
+##### § 719.7 Is there a procedure for exceptions or deviations from this part? #####
+
+(a) Requests for exceptions or deviations from this part must be made in writing to Department Counsel and approved by the General Counsel. If an alternate procedure is proposed for compliance with an individual requirement in this part, that procedure must be included in the written request by the contractor. The General Counsel or his/her delegee shall provide a written response to such requests; however the response shall not require a justification of the Department's exercise of its discretion.
+
+(b) The General Counsel may authorize exceptions or deviations requested under paragraph (a) of this section. The General Counsel may also establish exceptions to this part based on current field office and contractor practices that satisfy the purpose of these requirements.
+
+(c) Exceptions to this part that are also a deviation from the Department of Energy Acquisition Regulation (DEAR) cost principles (see subpart D of this part) must be approved in accordance with applicable DOE procurement policy. See, e.g., DOE Acquisition Guide chapter 1.1, requiring approval by the Senior Procurement Executive of DOE or NNSA as applicable. In any event, the written request from a contractor for a deviation from a cost principle relating to this part must be submitted to the contracting officer, with a copy provided to Department Counsel.

@@ -1,0 +1,3 @@
+##### § 1206.100 Scope of part. #####
+
+This part 1206 establishes the policies, responsibilities, and procedures for the release of Agency records which are under the jurisdiction of the National Aeronautics and Space Administration, hereinafter NASA, to members of the public. This part applies to information and Agency records located at NASA Headquarters, and NASA Centers, including Component Facilities and Technical and Service Support Centers, herein NASA Headquarters and Centers, as defined in this part.

@@ -1,0 +1,3 @@
+##### § 410.503 Records. #####
+
+An agency shall maintain, in such form and manner as the agency head considers appropriate, the following records in connection with each contribution, awards, or payment made and accepted under authority of this section: The recipient's name; the organization's name; the amount and nature of the contribution, award, or payment and the purpose for which it is to be used; and a copy of the written authorization required by § 410.502(a).

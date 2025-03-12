@@ -1,0 +1,7 @@
+##### § 52b.1 To what programs do these regulations apply? #####
+
+(a) *General.* Except as provided in paragraph (c) of this section, this part applies to all grants awarded by NIH and its components for construction of new buildings and the alteration, renovation, remodeling, improvement, expansion, and repair of existing buildings, including the provision of equipment necessary to make the building (or applicable part of the building) suitable for the purpose for which it was constructed.
+
+(b) *Specific programs covered.* From time to time the Director may publish a list of the construction grant programs covered by this part. The list is for informational purposes only and is not intended to restrict the statement of applicability in paragraph (a) of this section. In addition, information on particular construction grant programs, including applications and instructions, may be obtained from the component of NIH that administers the program.
+
+(c) *Specific programs excluded.* The regulations of this part do not apply to minor alterations, renovations, or repairs funded under a research project grant (see part 52 of this chapter) or alterations or renovations funded under an NIH center grant (see part 52a of this chapter).

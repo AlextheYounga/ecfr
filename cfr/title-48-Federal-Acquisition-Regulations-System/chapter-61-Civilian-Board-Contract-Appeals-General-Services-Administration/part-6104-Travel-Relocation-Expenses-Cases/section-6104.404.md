@@ -1,0 +1,3 @@
+##### 6104.404 Reply to agency response [Rule 404]. #####
+
+A claimant may file a reply to the agency response within 30 calendar days after receiving the response (or within 60 calendar days after receiving the response, if the claimant is located outside the 50 states and the District of Columbia). If the claim has been forwarded by the agency, the claimant shall have 30 calendar days from the time the claim is docketed by the Board (or 60 calendar days after docketing, if the claimant is located outside the 50 states and the District of Columbia) to reply. To expedite proceedings, if the claimant does not wish to reply, the claimant should so notify the Board and the agency.

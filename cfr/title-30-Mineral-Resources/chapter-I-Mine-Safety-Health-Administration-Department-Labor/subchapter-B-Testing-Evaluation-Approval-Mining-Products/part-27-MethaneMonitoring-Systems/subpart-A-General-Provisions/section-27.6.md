@@ -1,0 +1,3 @@
+##### § 27.6 Certification of components. #####
+
+In accordance with § 27.4, manufacturers of components may apply to MSHA to issue a letter of certification. To qualify for certification, electrical components shall conform to the prescribed inspection and test requirements and the construction thereof shall be adequately covered by specifications officially recorded and filed with MSHA. Letters of certification may be cited to fabricators of equipment intended for use in a certified methane-monitoring system as evidence that further inspection and test of the components will not be required.

@@ -1,0 +1,23 @@
+##### § 63.2986 How do I comply with the standards? #####
+
+(a) You must install, maintain, and operate a thermal oxidizer or other control device or implement a process modification that reduces formaldehyde emissions from each drying and curing oven to the emission limits specified in § 63.2983.
+
+(b) You must comply with the operating limits specified in § 63.2984. The operating limits prescribe the requirements for demonstrating continuous compliance based on the OMM plan. You must begin complying with the operating limits on the date by which you must complete the initial performance test.
+
+(c) You must conduct a performance test according to §§ 63.2991, 63.2992, and 63.2993 to demonstrate compliance for each drying and curing oven subject to the emission limits in § 63.2983, and to establish or modify the operating limits or ranges for process or control device parameters that will be monitored to demonstrate continuous compliance.
+
+(d) You must install, calibrate, maintain, and operate devices that monitor the parameters specified in your OMM plan at the frequency specified in the plan. All continuous parameter monitoring systems must be installed and operating no later than the applicable compliance date specified in § 63.2985.
+
+(e) You must prepare and follow a written OMM plan as specified in § 63.2987.
+
+(f) You must comply with the monitoring, recordkeeping, notification, and reporting requirements of this subpart as required by §§ 63.2996 through 63.3000.
+
+(g) You must comply with the requirements in paragraphs (g)(1) through (3) of this section.
+
+(1) Before August 28, 2019, existing drying and curing ovens and drying and curing ovens constructed or reconstructed after May 26, 2000 and before April 7, 2018 must be in compliance with the emission limits in § 63.2983 and the operating limits in § 63.2984 at all times, except during periods of startup, shutdown, or malfunction. After August 27, 2019, affected sources must be in compliance with the emission limits in § 63.2983 and the operating limits in § 63.2984 at all times, including periods of startup, shutdown, or malfunction. Affected sources that commence construction or reconstruction after April 6, 2018, must comply with all requirements of the subpart, no later than February 28, 2019 or upon startup, whichever is later.
+
+(2) Before August 28, 2019, existing drying and curing ovens and drying and curing ovens constructed or reconstructed after May 26, 2000 and before April 9, 2018 must always operate and maintain any affected source, including air pollution control equipment and monitoring equipment, according to the provisions in § 63.6(e)(1). After August 27, 2019, for such affected sources, and after February 28, 2019 for affected sources that commence construction or reconstruction after April 6, 2018, at all times, you must operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require you to make any further efforts to reduce emissions if you are in compliance with the emissions limits required by this subpart. The Administrator will base the determination of whether a source is operating in compliance with operation and maintenance requirements on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the source.
+
+(3) Before August 28, 2019, for each existing source and for each new or reconstructed source for which construction commenced after May 26, 2000 and before April 9, 2018, you must maintain your written startup, shutdown, and malfunction plan according to the provisions in § 63.6(e)(3). The startup, shutdown, and malfunction plan must address the startup, shutdown, and corrective actions taken for malfunctioning process and air pollution control equipment. A startup, shutdown, and malfunction plan is not required for such affected sources after August 27, 2019. No startup, shutdown, or malfunction plan is required for any affected source that commences construction or reconstruction after April 6, 2018.
+
+[67 FR 17835, Apr. 11, 2002, as amended at 71 FR 20464, Apr. 20, 2006; 84 FR 6693, Feb. 28, 2019]

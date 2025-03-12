@@ -1,0 +1,11 @@
+##### § 960.105 Officers and organization. #####
+
+(a) *By-Laws.* A Federal Executive Board shall adopt by-laws or other rules for its internal governance, subject to the approval of the Director. Such by-laws and other rules may reflect the particular needs, resources, and customs of each Federal Executive Board, provided that they are not inconsistent with the provisions of this part or with the directives of the President or the Director. To the extent that such by-laws and other rules conflict with these provisions or the directives of the President or the Director, such by-laws and other rules shall be null and void.
+
+(b) *Chairman.* Each Federal Executive Board shall have a Chairman, who shall be elected by the members from among their number, and who shall serve for a term of office not to exceed one year.
+
+(c) *Staff.* As they deem necessary and proper, members shall, from time to time, designate personnel from their respective organizations to serve as the staff, or otherwise to participate in the activities, of the Federal Executive Board. Other personnel may be engaged, by appointment, contract, or otherwise, only with the approval of the Director.
+
+(d) Unless otherwise expressly provided by law, by directive of the President or the Director, or by the by-laws of the Federal Executive Board, every committee, subcommittee council, and other sub-unit of the Federal Executive Board, and every affiliation of the Federal Executive Board with external organizations, shall expire upon expiration of the term of office of the Chairman. Such a committee, subcommittee, council, other sub-unit, or affiliation may be reestablished or renewed by affirmative action of the Federal Executive Board.
+
+(e) *Board Actions.* Actions of a Federal Executive Board shall be taken only with the approval of a majority of the members thereof. This authority may not be delegated. All activities of a Federal Executive Board shall conform to applicable laws and shall reflect prudent uses of official time and funds.

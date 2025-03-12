@@ -1,0 +1,3 @@
+##### § 423.500 Scope. #####
+
+This subpart sets forth application procedures and contracts with Part D plans: application procedures and requirements; contract terms; procedures for termination of contracts; reporting by Part D plans. For purposes of this subpart, Medicare Advantage (MA) organizations offering Part D plans follow the requirements of part 422 of this chapter for MA organizations, except in cases where the requirements for the qualified prescription drug coverage involve additional requirements.

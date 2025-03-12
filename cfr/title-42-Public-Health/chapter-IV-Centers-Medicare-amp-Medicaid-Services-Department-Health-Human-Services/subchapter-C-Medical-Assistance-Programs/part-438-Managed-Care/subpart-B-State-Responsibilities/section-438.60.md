@@ -1,0 +1,3 @@
+##### § 438.60 Prohibition of additional payments for services covered under MCO, PIHP or PAHP contracts. #####
+
+The State agency must ensure that no payment is made to a network provider other than by the MCO, PIHP, or PAHP for services covered under the contract between the State and the MCO, PIHP, or PAHP, except when these payments are specifically required to be made by the State in Title XIX of the Act, in 42 CFR chapter IV, or when the State agency makes direct payments to network providers for graduate medical education costs approved under the State plan.

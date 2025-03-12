@@ -1,0 +1,5 @@
+##### § 1201.175 Judicial review of cases decided under 5 U.S.C. 7702. #####
+
+(a) *Place and type of review.* The appropriate United States district court is authorized to conduct all judicial review of cases decided under 5 U.S.C. 7702. Those cases include appeals from actions taken under the following provisions: Section 717(c) of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e-16(c)); section 15(c) of the Age Discrimination in Employment Act of 1967, as amended (29 U.S.C. 633a(c)); and section 15(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)).
+
+(b) *Time for filing request.* Regardless of any other provision of law, requests for judicial review of all cases decided under 5 U.S.C. 7702 must be filed within 30 days after the appellant received notice of the judicially reviewable action.

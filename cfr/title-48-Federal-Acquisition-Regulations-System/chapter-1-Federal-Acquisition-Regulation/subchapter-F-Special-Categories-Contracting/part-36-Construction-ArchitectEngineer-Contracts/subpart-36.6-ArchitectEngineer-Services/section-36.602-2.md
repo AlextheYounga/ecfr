@@ -1,0 +1,5 @@
+##### 36.602-2 Evaluation boards. #####
+
+(a) When acquiring architect-engineer services, an agency shall provide for one or more permanent or ad hoc architect-engineer evaluation boards (which may include preselection boards when authorized by agency regulations) to be composed of members who, collectively, have experience in architecture, engineering, construction, and Government and related acquisition matters. Members shall be appointed from among highly qualified professional employees of the agency or other agencies, and if authorized by agency procedure, private practitioners of architecture, engineering, or related professions. One Government member of each board shall be designated as the chairperson.
+
+(b) No firm shall be eligible for award of an architect-engineer contract during the period in which any of its principals or associates are participating as members of the awarding agency's evaluation board.

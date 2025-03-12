@@ -1,0 +1,5 @@
+##### § 39.63 What modifications and auxiliary aids and services are required at terminals and other landside facilities for individuals with hearing or vision impairments? #####
+
+(a) As a PVO, you must ensure that the information you provide to the general public at terminals and other landside facilities is effectively communicated to individuals who are blind or who have impaired vision and deaf or hard-of-hearing individuals, through the use of auxiliary aids and services. To the extent that this information is not available to these individuals through accessible signage and/or verbal public address announcements or other means, your personnel must promptly provide the information to such individuals on their request, in languages (*e.g.,* English, Norwegian, Japanese) in which the information is provided to the general public.
+
+(b) The types of information you must make available include, but are not limited to, information concerning ticketing, fares, schedules and delays, and the checking and claiming of luggage.

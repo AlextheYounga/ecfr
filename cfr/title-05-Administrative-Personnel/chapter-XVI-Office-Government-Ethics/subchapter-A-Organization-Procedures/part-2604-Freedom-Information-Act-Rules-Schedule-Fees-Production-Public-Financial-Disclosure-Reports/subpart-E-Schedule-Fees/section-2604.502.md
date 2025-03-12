@@ -1,0 +1,9 @@
+##### § 2604.502 Fees to be charged—categories of requesters. #####
+
+(a) *Fees for various requester categories.* The paragraphs below state, for each category of requester, the type of fees generally charged by OGE. However, for each of these categories, the fees may be limited, waived or reduced in accordance with the provisions set forth in § 2604.503. In determining whether a requester belongs in any of the following categories, OGE will determine the use to which the requester will put the documents requested. If OGE has reasonable cause to doubt the use to which the requester will put the records sought, or where the use is not clear from the request itself, OGE will seek clarification before assigning the request to a specific category.
+
+(b) *Commercial use requester.* OGE will charge the full costs of search, review, and duplication. Commercial use requesters are not entitled to two hours of free search time or 100 free pages of reproduction as described in § 2604.503(a); however, the minimum fees provision of § 2604.503(b) does apply to such requesters.
+
+(c) *Educational and noncommercial scientific institutions and news media.* If the request is from an educational institution or a noncommercial scientific institution, operated for scholarly or scientific research, or a representative of the news media, and the request is not for a commercial use, OGE will charge only for duplication of documents, excluding charges for the first 100 pages.
+
+(d) *All other requesters.* If the request is not one described in paragraph (b) or (c) of this section, OGE will charge the full and direct costs of searching for and reproducing records that are responsive to the request, excluding the first 100 pages of duplication and the first two hours of search time.

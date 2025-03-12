@@ -1,0 +1,3 @@
+##### § 280.73 Applicability to previously closed UST systems. #####
+
+When directed by the implementing agency, the owner and operator of an UST system permanently closed before December 22, 1988 must assess the excavation zone and close the UST system in accordance with this subpart if releases from the UST may, in the judgment of the implementing agency, pose a current or potential threat to human health and the environment.

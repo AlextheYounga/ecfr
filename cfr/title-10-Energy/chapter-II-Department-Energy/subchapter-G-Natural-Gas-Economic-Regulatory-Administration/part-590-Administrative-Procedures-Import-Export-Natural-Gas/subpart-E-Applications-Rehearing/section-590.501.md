@@ -1,0 +1,5 @@
+##### § 590.501 Filing. #####
+
+(a) An application for rehearing of a final opinion and order, conditional order, or emergency interim order may be filed by any party aggrieved by the issuance of such opinion and order within thirty (30) days after issuance. The application shall be served on all parties.
+
+(b) The application shall state concisely the alleged errors in the final opinion and order, conditional order, or emergency interim order and must set forth specifically the ground or grounds upon which the application is based. If an order is sought to be vacated, reversed, or modified by reason of matters that have arisen since the issuance of the final opinion and order, conditional order, or emergency interim order, the matters relied upon shall be set forth with specificity in the application. The application shall also comply with the filing requirements of § 590.103.

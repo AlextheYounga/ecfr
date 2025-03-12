@@ -1,0 +1,3 @@
+##### § 19.182 Order to conduct a formal investigation. #####
+
+A formal investigation begins with the issuance of an order signed by the Comptroller or the Comptroller's delegate. The order must designate the person or persons who will conduct the investigation. Such persons are authorized, among other things, to issue subpoenas duces tecum, to administer oaths, and receive affirmations as to any matter under investigation by the Comptroller. Upon application and for good cause shown, the Comptroller may limit, modify, or withdraw the order at any stage of the proceedings.

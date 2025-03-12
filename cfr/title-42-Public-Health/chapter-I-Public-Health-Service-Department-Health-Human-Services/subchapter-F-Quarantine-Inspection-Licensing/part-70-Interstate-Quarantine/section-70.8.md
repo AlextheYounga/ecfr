@@ -1,0 +1,3 @@
+##### § 70.8 Members of military and naval forces. #####
+
+The provisions of §§ 70.3, 70.4, 70.5, 70.7, and this section shall not apply to members of the military or naval forces, and medical care or hospital beneficiaries of the Army, Navy, Veterans' Administration, or Public Health Service, when traveling under competent orders: *Provided,* That in the case of persons otherwise subject to the provisions of § 70.5 the authority authorizing the travel requires precautions to prevent the possible transmission of infection to others during the travel period.

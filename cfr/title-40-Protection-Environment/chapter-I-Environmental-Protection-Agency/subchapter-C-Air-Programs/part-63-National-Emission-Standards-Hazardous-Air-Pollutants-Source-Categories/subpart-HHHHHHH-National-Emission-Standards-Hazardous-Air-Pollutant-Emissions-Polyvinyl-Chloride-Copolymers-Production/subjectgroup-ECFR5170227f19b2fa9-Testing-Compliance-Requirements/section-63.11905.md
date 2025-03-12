@@ -1,0 +1,3 @@
+##### § 63.11905 When must I conduct subsequent performance testing and monitoring to demonstrate continuous compliance? #####
+
+Following the date of your initial demonstration of compliance in § 63.11900, you must conduct subsequent performance testing and monitoring to demonstrate continuous compliance with your emission limits, operating limits, and work practice standards according to the procedures and frequency in §§ 63.11910 through 63.11980. If you make a process change as specified in § 63.11896, such that a different emission limit or operating parameter limit applies, you must conduct a performance test according to § 63.11896.

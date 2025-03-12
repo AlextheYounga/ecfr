@@ -1,0 +1,3 @@
+##### § 203.7 Post-certification testing. #####
+
+The Administrator will, from time to time, as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise emission levels exceed the levels on which certification was based, the Administrator shall give the suppliers of such product written notice of this finding, publish such findings in the Federal Register and give the supplier an opportunity to make necessary repairs, adjustments or replacements. If no repairs, adjustments or replacements are made within a period to be set by the Administrator, he may order the supplier to show cause why the product involved should be eligible for recertification.

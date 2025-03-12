@@ -1,0 +1,3 @@
+##### § 600.1 Scope. #####
+
+Section 1331 of the Affordable Care Act, provides for the establishment of the Basic Health Program (BHP) under which a State may enter into contracts for standard health plans providing at least essential health benefits to eligible individuals in lieu of offering such individuals the opportunity to enroll in coverage through an Affordable Insurance Exchange. States that elect to operate a BHP will receive federal funding based on the amount of the premium tax credit and cost-sharing reductions that would have been available if enrollees had obtained coverage through the Exchange.

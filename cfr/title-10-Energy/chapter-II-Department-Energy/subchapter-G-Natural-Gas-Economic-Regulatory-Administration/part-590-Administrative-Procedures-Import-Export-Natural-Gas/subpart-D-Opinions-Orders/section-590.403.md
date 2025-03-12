@@ -1,0 +1,3 @@
+##### § 590.403 Emergency interim orders. #####
+
+Where consistent with the public interest, the Assistant Secretary may waive further procedures and issue an emergency interim order authorizing the import or export of natural gas. After issuance of the emergency interim order, the proceeding shall be continued until the record is complete, at which time a final opinion and order shall be issued. The Assistant Secretary may attach necessary or appropriate terms and conditions to the emergency interim order to ensure that the authorized action will be consistent with the public interest.

@@ -1,0 +1,11 @@
+##### § 5.57 Who may sign applications. #####
+
+(a) Except as provided in paragraph (b) of this section, applications, amendments thereto, and related statements of fact required by the Commission shall be personally signed by the applicant, if the applicant is an individual; by one of the partners, if the applicant is a partnership; by an officer or duly authorized employee, if the applicant is a corporation; or by a member who is an officer, if the applicant is an unincorporated association. Applications, amendments, and related statements of fact filed on behalf of eligible government entities, such as states and territories of the United States and political subdivisions thereof, the District of Columbia, and units of local government, including incorporated municipalities, shall be signed by such duly elected or appointed officials as may be competent to do so under the laws of the applicable jurisdiction.
+
+(b) Applications, amendments thereto, and related statements of fact required by the Commission may be signed by the applicant's attorney in case of the applicant's physical disability or of his/her absence from the United States. The attorney shall in that event separately set forth the reason why the application is not signed by the applicant. In addition, if any matter is stated on the basis of the attorney's belief only (rather than his/her knowledge), he/she shall separately set forth reasons for believing that such statements are true.
+
+(c) Only the original of applications, amendments, or related statements of fact need be signed; copies may be conformed.
+
+(d) Applications, amendments, and related statements of fact need not be submitted under oath. Willful false statements made therein, however, are punishable by fine and imprisonment, U.S. Code, title 18, Sec. 1001, and by appropriate administrative sanctions, including revocation of station license pursuant to Sec. 312(a)(1) of the Communications Act of 1934, as amended.
+
+(e) “Signed,” as used in this section, means an original handwritten signature; however, the Office of Engineering and Technology may allow signature by any symbol executed or adopted by the applicant with the intent that such symbol be a signature, including symbols formed by computer-generated electronic impulses.

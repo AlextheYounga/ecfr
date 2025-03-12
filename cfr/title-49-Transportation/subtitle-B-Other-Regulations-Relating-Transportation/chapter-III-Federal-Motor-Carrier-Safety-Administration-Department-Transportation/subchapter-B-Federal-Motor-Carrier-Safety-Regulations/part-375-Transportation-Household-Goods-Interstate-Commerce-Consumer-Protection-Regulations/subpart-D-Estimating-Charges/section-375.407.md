@@ -1,0 +1,11 @@
+##### § 375.407 Under what circumstances must I relinquish possession of a collect-on-delivery shipment transported under a non-binding estimate? #####
+
+(a) If an individual shipper pays you up to 110 percent of the non-binding estimate on a collect-on-delivery shipment (or, in the case of a partial delivery, a prorated percentage of the non-binding estimate as set forth in paragraph (c) of this section), you must relinquish possession of the shipment at the time of delivery. If there are either charges for any additional services requested by the shipper after the bill of lading has been issued and/or charges, if applicable, for impracticable operations (subject to a maximum amount as set forth in paragraph (d) of this section), and the shipper also pays you for such charges, you must relinquish possession of the shipment at the time of delivery. You must accept the form of payment agreed to at the time of estimate, unless the shipper agrees in writing to a change in the form of payment.
+
+(b) Failure to relinquish possession of a shipment after the individual shipper offers to pay you up to 110 percent of the approximate costs of a non-binding estimate plus any additional charges described in paragraph (a) of this section constitutes a failure to transport a shipment with “reasonable dispatch” and subjects you to cargo delay claims pursuant to part 370 of this chapter.
+
+(c) If you make only a partial delivery of the shipment, you may not demand full payment of the non-binding estimate. You may demand at delivery only a prorated percentage of the non-binding estimate (or a prorated percentage of an amount up to 110 percent of the non-binding estimate). The prorated percentage must be the percentage of the weight of that portion of the shipment delivered relative to the total weight of the shipment. For example, if you deliver only 2,500 pounds of a shipment weighing 5,000 pounds, you may demand payment of 50 percent of not more than 110 percent of the non-binding estimate.
+
+(d) You may not demand payment of charges for impracticable operations, as defined in your tariff, of more than 15 percent of all other charges due at delivery. You must bill and collect from the individual shipper charges for impracticable operations not collected at delivery in accordance with subpart H of this part.
+
+[72 FR 36774, July 5, 2007]

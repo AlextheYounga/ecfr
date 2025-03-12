@@ -1,0 +1,3 @@
+##### § 501.64 Publication of notice of availability of tentative staff analysis. #####
+
+OFE will publish in the Federal Register a Notice of the Availability of Tentative Staff Analysis for the noncertification temporary public interest exemption, for noncertification environmental exemptions, and for a cogeneration exemption based on the public interest. OFE will provide a public comment period of at least fourteen (14) days from the date of publication during which interested persons may make written comments and request a public hearing.

@@ -1,0 +1,5 @@
+##### § 434.510 Standard calculation procedure. #####
+
+510.1 The Standard Calculation Procedure consists of methods and assumptions for calculating the Energy Cost Budget for the Prototype or Reference Building and the Design Energy Consumption and Design Energy Cost of the Proposed Design. In order to maintain consistency between the Energy Cost Budget and the Design Energy Cost, the input assumptions to be used are stated below. These inputs shall be used to determine the Energy Cost Budget and the Design Energy Consumption.
+
+510.2 Prescribed assumptions shall be used without variation. Default assumptions shall be used unless the designer can demonstrate that a different assumption better characterizes the building's energy use over its expected life. The default assumptions shall be used in modeling both the Prototype or Reference Building and the Proposed Design, unless the designer demonstrates clear cause to modify these assumptions. Special procedures for speculative buildings are discussed in subsection 503. Shell buildings may not use subpart E.

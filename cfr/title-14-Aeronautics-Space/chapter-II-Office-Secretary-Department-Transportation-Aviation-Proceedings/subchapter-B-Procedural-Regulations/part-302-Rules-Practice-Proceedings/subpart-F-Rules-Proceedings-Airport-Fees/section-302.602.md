@@ -1,0 +1,7 @@
+##### § 302.602 Complaint by a carrier; request for determination by an airport owner or operator. #####
+
+(a) Any carrier may file a complaint with the Secretary for a determination as to the reasonableness of any fee imposed on the carrier by the owner or operator of an airport. Any airport owner or operator may also request such a determination with respect to a fee it has imposed on one or more carriers. The complaint or request for determination shall conform to the requirements of this subpart and §§ 302.3 and 302.4 concerning the form and filing of documents.
+
+(b) If a carrier has previously filed a complaint with respect to the same airport fee or fees, any complaint by another carrier and any airport request for determination shall be filed no later than seven (7) calendar days following the initial complaint. In addition, all complaints or requests for determination must be filed on or before the sixtieth (60th) day after the carrier receives written notice of the imposition of the new fee or the imposition of the increase in the fee.
+
+(c) To ensure an orderly disposition of the matter, all complaints and any request for determination filed with respect to the same airport fee or fees will be considered in a consolidated proceeding, as provided in § 302.606.

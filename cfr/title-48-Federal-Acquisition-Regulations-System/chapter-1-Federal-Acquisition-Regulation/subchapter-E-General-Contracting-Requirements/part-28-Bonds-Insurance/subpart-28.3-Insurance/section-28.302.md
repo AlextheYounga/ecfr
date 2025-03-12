@@ -1,0 +1,3 @@
+##### 28.302 Notice of cancellation or change. #####
+
+When the Government requires the contractor to provide insurance coverage, the policies shall contain an endorsement that any cancellation or material change in the coverage adversely affecting the Government's interest shall not be effective unless the insurer or the contractor gives written notice of cancellation or change as required by the contracting officer. When the coverage is provided by self-insurance, the contractor shall not change or decrease the coverage without the administrative contracting officer's prior approval (see 28.308(c)).

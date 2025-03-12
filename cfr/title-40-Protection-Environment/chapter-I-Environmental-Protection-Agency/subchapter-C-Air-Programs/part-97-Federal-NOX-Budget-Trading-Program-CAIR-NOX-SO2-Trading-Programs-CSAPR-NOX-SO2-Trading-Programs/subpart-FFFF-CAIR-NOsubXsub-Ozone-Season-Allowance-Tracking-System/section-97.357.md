@@ -1,0 +1,5 @@
+##### § 97.357 Closing of general accounts. #####
+
+(a) The CAIR authorized account representative of a general account may submit to the Administrator a request to close the account, which shall include a correctly submitted allowance transfer under §§ 97.360 and 97.361 for any CAIR NOX Ozone Season allowances in the account to one or more other CAIR NOX Ozone Season Allowance Tracking System accounts.
+
+(b) If a general account has no allowance transfers in or out of the account for a 12-month period or longer and does not contain any CAIR NOX Ozone Season allowances, the Administrator may notify the CAIR authorized account representative for the account that the account will be closed following 20 business days after the notice is sent. The account will be closed after the 20-day period unless, before the end of the 20-day period, the Administrator receives a correctly submitted transfer of CAIR NOX Ozone Season allowances into the account under §§ 97.360 and 97.361 or a statement submitted by the CAIR authorized account representative demonstrating to the satisfaction of the Administrator good cause as to why the account should not be closed.

@@ -1,0 +1,25 @@
+##### § 51.1006 Optional PM2.5 precursor demonstrations #####
+
+(a) A state may elect to submit to the EPA one or more precursor demonstrations for a specific nonattainment area. The analyses conducted in support of any precursor demonstration must be based on precursor emissions attributed to sources and activities in the nonattainment area.
+
+(1) A comprehensive precursor demonstration must show that emissions of a particular precursor from all existing stationary, area, and mobile sources located in the nonattainment area do not contribute significantly to PM2.5 levels that exceed the standard in the area. If the state chooses to conduct a comprehensive precursor demonstration, the state must conduct the analysis in paragraph (a)(1)(i) of this section and it may conduct the analysis in paragraph (a)(1)(ii) of this section.
+
+(i) *Concentration-based contribution analysis.* The comprehensive precursor demonstration must evaluate the contribution of a particular precursor to PM2.5 levels in the area. If the contribution of the precursor to PM2.5 levels in the area is not significant, based on the facts and circumstances of the area, then the EPA may approve the demonstration.
+
+(ii) *Sensitivity-based contribution analysis.* If the concentration-based contribution analysis does not support a finding of insignificant contribution, based on the facts and circumstances of the area, then the state may choose to submit an analysis evaluating the sensitivity of PM2.5 levels in the area to a decrease in emissions of the precursor in order to determine whether the resulting air quality changes are significant. If the estimated air quality changes determined in the sensitivity analysis are not significant, based on the facts and circumstances of the area, then the EPA may approve the demonstration.
+
+(iii) If a comprehensive precursor demonstration is approved by the EPA, the state will not be required to control emissions of the relevant precursor from existing sources in the current attainment plan.
+
+(2) A major stationary source precursor demonstration must show that emissions of a particular precursor from all existing major stationary sources located in the nonattainment area do not contribute significantly to PM2.5 levels that exceed the standard in the area. If the state chooses to conduct a major stationary source precursor demonstration, the state must conduct the analysis in paragraph (a)(2)(i) of this section and it may conduct the analysis in paragraph (a)(2)(ii) of this section.
+
+*(i) Concentration-based contribution analysis.* The major stationary source precursor demonstration must evaluate the contribution of major source emissions of a particular precursor to PM2.5 levels in the area. If the contribution of the precursor to PM2.5 levels in the area is not significant, based on the facts and circumstances of the area, then the EPA may approve the demonstration.
+
+(ii) *Sensitivity-based contribution analysis.* If the concentration-based contribution analysis does not support a finding of insignificant contribution, based on the facts and circumstances of the area, then the state may choose to submit an analysis evaluating the sensitivity of PM2.5 levels in the area to a decrease in emissions of the precursor in order to determine whether the resulting air quality changes are significant. If the estimated air quality changes determined in the sensitivity analysis are not significant, based on the facts and circumstances of the area, then the EPA may approve the demonstration.
+
+(iii) If a major stationary source precursor demonstration is approved by the EPA, the state will not be required to control emissions of the relevant precursor from existing major stationary sources in the current attainment plan.
+
+(3)(i) A NNSR precursor demonstration must evaluate the sensitivity of PM2.5 levels in the nonattainment area to an increase in emissions of a particular precursor in order to determine whether the resulting air quality changes are significant. If the estimated air quality changes determined in the sensitivity analysis are not significant, based on the facts and circumstances of the area, the state may use that information to identify new major stationary sources and major modifications of a precursor that will not be considered to contribute significantly to PM2.5 levels that exceed the standard in the nonattainment area.
+
+(ii) If a NNSR precursor demonstration for a particular PM2.5 nonattainment area is approved, the state may exempt such new major stationary sources or major modifications of the particular precursor from the requirements for PM2.5 in § 51.165.
+
+(b) If an area with one or more precursor demonstrations approved by the EPA is required to submit another PM2.5 attainment plan in accordance with § 51.1003 of this part, the current precursor demonstration(s) will not apply to the new plan. The state must submit the appropriate updated precursor demonstration(s) if it seeks to exempt sources of a particular precursor from control requirements in the new Serious area attainment demonstration or in the NNSR program for the Serious area.

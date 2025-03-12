@@ -1,0 +1,3 @@
+##### § 59.1 General duty. #####
+
+Incumbent local exchange carriers (as defined in 47 U.S.C. section 251(h)) shall make available to any qualifying carrier such public switched network infrastructure, technology, information, and telecommunications facilities and functions as may be requested by such qualifying carrier for the purpose of enabling such qualifying carrier to provide telecommunications services, or to provide access to information services, in the service area in which such qualifying carrier has obtained designation as an eligible telecommunications carrier under section 214(e) of 47 U.S.C.

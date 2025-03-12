@@ -1,0 +1,9 @@
+##### § 52.2027 Approval status of Pennsylvania's Generic NOX and VOC RACT Rules. #####
+
+(a) Effective November 15, 2001, EPA removes the limited nature of its approval of 25 PA Code of Regulations, Chapter 129.91 through 129.95 (see § 52.2020 (c)(129)) as those regulations apply to the Pittsburgh-Beaver Valley area. Chapter 129.91 through 129.95 of Pennsylvania's regulations are fully approved as they apply in Allegheny, Armstrong, Beaver, Butler, Fayette, Washington, and Westmoreland Counties, the seven counties that comprise the Pittsburgh-Beaver Valley area.
+
+(b) Effective November 29, 2001, EPA removes the limited nature of its approval of 25 PA Code of Regulations, Chapter 129.91 through 129.95 [see § 52.2020 (c)(129)] as those regulations apply to the Philadelphia-Wilmington-Trenton area. Chapter 129.91 through 129.95 of Pennsylvania's regulations are fully approved as they apply in Bucks, Chester, Delaware, Montgomery, and Philadelphia Counties, the five counties that comprise the Pennsylvania portion of the Philadelphia area.
+
+(c) Effective November 21, 2008, EPA removes the limited nature of its approval of 25 PA Code of Regulations, Chapter 129.91 through 129.95 as those regulations apply to the following areas: Adams, Bedford, Berks, Blair, Bradford, Cambria, Cameron, Carbon, Centre, Clarion, Clearfield, Clinton, Columbia, Crawford, Cumberland, Dauphin, Elk, Erie, Forest, Franklin, Fulton, Greene, Huntington, Indiana, Jefferson, Juniata, Lackawanna, Lancaster, Lawrence, Lebanon, Lehigh, Luzerne, Lycoming, McKean, Mercer, Mifflin, Monroe, Montour, Northampton, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Somerset, Sullivan, Susquehanna, Tioga, Union, Venango, Warren, Wayne, Wyoming, and York Counties.
+
+[66 FR 52534, Oct. 16, 2001, as amended at 66 FR 54699, Oct. 30, 2001; 73 FR 62893, Oct. 22, 2008]

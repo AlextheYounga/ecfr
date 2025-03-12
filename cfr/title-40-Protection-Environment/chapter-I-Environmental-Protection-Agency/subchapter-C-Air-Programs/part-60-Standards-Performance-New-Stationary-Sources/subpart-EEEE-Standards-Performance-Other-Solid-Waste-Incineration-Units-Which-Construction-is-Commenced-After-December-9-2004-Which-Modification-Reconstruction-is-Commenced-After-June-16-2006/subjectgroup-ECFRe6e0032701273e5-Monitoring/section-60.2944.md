@@ -1,0 +1,7 @@
+##### § 60.2944 What operating parameter monitoring equipment must I install, and what operating parameters must I monitor? #####
+
+(a) If you are using a wet scrubber to comply with the emission limitations under § 60.2915, you must install, calibrate (to manufacturers' specifications), maintain, and operate devices (or establish methods) for monitoring the value of the operating parameters used to determine compliance with the operating limits listed in table 2 of this subpart. These devices (or methods) must measure and record the values for these operating parameters at the frequencies indicated in table 2 of this subpart at all times.
+
+(b) You must install, calibrate (to manufacturers' specifications), maintain, and operate a device or method for measuring the use of any stack that could be used to bypass the control device. The measurement must include the date, time, and duration of the use of the bypass stack.
+
+(c) If you are using a method or air pollution control device other than a wet scrubber to comply with the emission limitations under § 60.2915, you must install, calibrate (to the manufacturers' specifications), maintain, and operate the equipment necessary to monitor compliance with the site-specific operating limits established using the procedures in § 60.2917.

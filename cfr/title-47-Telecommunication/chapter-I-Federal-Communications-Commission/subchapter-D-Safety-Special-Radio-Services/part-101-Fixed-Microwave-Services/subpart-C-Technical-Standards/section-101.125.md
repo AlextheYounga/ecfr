@@ -1,0 +1,3 @@
+##### § 101.125 Temporary fixed antenna height restrictions. #####
+
+The overall antenna structure heights employed by mobile stations in the Local Television Transmission Service and by stations authorized to operate at temporary fixed locations may not exceed the height criteria set forth in § 17.7 of this chapter, unless in each instance, authorization for use of a specific maximum antenna height (above ground and above mean sea level) for each location has been obtained from the Commission prior to erection of the antenna. Requests for such authorization must show the inclusive dates of the proposed operation. (Complete information as to rules concerning the construction, marking and lighting of antenna structures is contained in part 17 of this chapter.)

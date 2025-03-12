@@ -1,0 +1,7 @@
+##### § 75.506-1 Electric face equipment; permissible condition; maintenance requirements. #####
+
+(a) Except as provided in paragraph (b) of this section, electric face equipment which meets the requirements for permissibility set forth in § 75.506 will be considered to be in permissible condition only if it is maintained so as to meet the requirements for permissibility set forth in the Bureau of Mines schedule under which such electric face equipment was initially approved, or, if the equipment has been modified, it is maintained so as to meet the requirements of the schedule under which such modification was approved.
+
+(b) Electric face equipment bearing the Bureau of Mines approval number listed in Appendix A of this subpart will be considered to be in permissible condition only if it is maintained so as to meet the requirements for permissibility set forth in Bureau of Mines Schedule 2D or, if such equipment has been modified, it is maintained so as to meet the requirements of the schedule under which the modification was approved.
+
+(c) Notwithstanding the provisions of paragraphs (a) and (b) of this section, where the minimum requirements for permissibility set forth in the appropriate Bureau of Mines schedule under which such equipment or modifications were approved have been superseded by the requirements of this Part 75, the latter requirements shall be applicable.

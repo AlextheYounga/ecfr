@@ -1,0 +1,3 @@
+##### § 87.91 Operation of transmitter controls. #####
+
+The holder of a marine radio operator permit or a restricted radiotelephone operator permit must perform only transmitter operations which are controlled by external switches. These operators must not perform any internal adjustment of transmitter frequency determining elements. Further, the stability of the transmitter frequencies at a station operated by these operators must be maintained by the transmitter itself. When using an aircraft radio station on maritime mobile service frequencies the carrier power of the transmitter must not exceed 250 watts (emission A3E) or 1000 watts (emission R3E, H3E, or J3E).

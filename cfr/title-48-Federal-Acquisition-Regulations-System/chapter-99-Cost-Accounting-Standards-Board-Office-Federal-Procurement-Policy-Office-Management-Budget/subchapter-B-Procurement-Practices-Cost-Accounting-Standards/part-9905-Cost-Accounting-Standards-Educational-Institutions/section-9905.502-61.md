@@ -1,0 +1,9 @@
+##### 9905.502-61 Interpretation. #####
+
+(a) 9905.502, Cost Accounting Standard—Consistency in Allocating Costs Incurred for the Same Purpose by Educational Institutions, provides, in 9905.502-40, that “\* \* \* no final cost objective shall have allocated to it as a direct cost any cost, if other costs incurred for the same purpose, in like circumstances, have been included in any indirect cost pool to be allocated to that or any other final cost objective.”
+
+(b) This interpretation deals with the way 9905.502 applies to the treatment of costs incurred in preparing, submitting, and supporting proposals. In essence, it is addressed to whether or not, under the Standard, all such costs are incurred for the same purpose, in like circumstances.
+
+(c) Under 9905.502, costs incurred in preparing, submitting, and supporting proposals pursuant to a specific requirement of an existing contract are considered to have been incurred in different circumstances from the circumstances under which costs are incurred in preparing proposals which do not result from such a specific requirement. The circumstances are different because the costs of preparing proposals specifically required by the provisions of an existing contract relate only to that contract while other proposal costs relate to all work of the educational institution.
+
+(d) This interpretation does not preclude the allocation, as indirect costs, of costs incurred in preparing all proposals. The cost accounting practices used by the educational institution, however, must be followed consistently and the method used to reallocate such costs, of course, must provide an equitable distribution to all final cost objectives.

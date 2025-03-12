@@ -1,0 +1,3 @@
+##### § 1091.112 No limitation on relief sought in civil action or administrative adjudication. #####
+
+Nothing in this part shall be construed to limit the relief the Bureau may seek in any civil action or administrative adjudication, including but not limited to, seeking an order to have a person deemed subject to the Bureau's supervisory authority under 12 U.S.C. 5514, including for the reasons set forth in 12 U.S.C. 5514(a)(1)(C).

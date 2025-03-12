@@ -1,0 +1,3 @@
+##### 3401.301 Policy. #####
+
+(a)(1) Subject to the authorities in FAR 1.301(c) and other statutory authority, the Secretary of Education (Secretary) or delegate may issue or authorize the issuance of the EDAR. It implements or supplements the FAR and incorporates, together with the FAR, Department policies, procedures, contract clauses, solicitation provisions, and forms that govern the contracting process or otherwise control the relationship between the Agency, including its suborganizations, and contractors or prospective contractors. The Head of Contracting Activity (HCA) for FSA may issue supplementary guidelines applicable to FSA.

@@ -1,0 +1,3 @@
+##### § 7.1 Discretion in filling vacancies. #####
+
+In his discretion, an appointing officer may fill any position in the competitive service either by competitive appointment from a civil service register or by noncompetitive selection of a present or former Federal employee, in accordance with the Civil Service Regulations. He shall exercise his discretion in all personnel actions solely on the basis of merit and fitness and without regard to political or religious affiliations, marital status, or race.

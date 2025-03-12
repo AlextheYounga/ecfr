@@ -1,0 +1,5 @@
+##### § 54.725 Universal service disbursements during pendency of a request for review and Administrator decision. #####
+
+(a) When a party has sought review of an Administrator decision under § 54.719(a) through (c) in connection with the schools and libraries support mechanism or the rural health care support mechanism, the Administrator shall not reimburse a service provider for the provision of discounted services until a final decision has been issued either by the Administrator or by the Federal Communications Commission; provided, however, that the Administrator may disburse funds for any amount of support that is not the subject of an appeal.
+
+(b) When a party has sought review of an Administrator decision under § 54.719(a) through (c) in connection with the high cost and low income support mechanisms, the Administrator shall not disburse support to a service provider until a final decision has been issued either by the Administrator or by the Federal Communications Commission; provided, however, that the Administrator may disburse funds for any amount of support that is not the subject of an appeal.

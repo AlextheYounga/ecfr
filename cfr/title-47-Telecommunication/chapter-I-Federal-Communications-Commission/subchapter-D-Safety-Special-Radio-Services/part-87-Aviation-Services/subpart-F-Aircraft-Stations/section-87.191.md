@@ -1,0 +1,5 @@
+##### § 87.191 Foreign aircraft stations. #####
+
+(a) Aircraft of member States of the International Civil Aviation Organization may carry and operate radio transmitters in the United States airspace only if a license has been issued by the State in which the aircraft is registered and the flight crew is provided with a radio operator license of the proper class, issued or recognized by the State in which the aircraft is registered. The use of radio transmitters in the United States airspace must comply with these rules and regulations.
+
+(b) Notwithstanding paragraph (a) of this section where an agreement with a foreign government has been entered into with respect to aircraft registered in the United States but operated by an aircraft operator who is subject to regulation by that foreign government, the aircraft radio station license and aircraft radio operator license may be issued by such foreign government.

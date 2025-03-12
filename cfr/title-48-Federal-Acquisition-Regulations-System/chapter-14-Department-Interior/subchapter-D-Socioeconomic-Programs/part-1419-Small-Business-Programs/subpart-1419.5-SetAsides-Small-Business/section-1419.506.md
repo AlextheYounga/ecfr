@@ -1,0 +1,3 @@
+##### 1419.506 Withdrawing or modifying small business set-asides. #####
+
+The HCA is authorized, without the power of redelegation, to resolve disagreements between the CO and the BUDS concerning withdrawals or modifications of individual or class set-asides as prescribed in FAR 19.506. OSDBU shall be provided timely notification of such disagreements and the recommendation of the BUDS in order to provide assistance in resolving the disagreement.

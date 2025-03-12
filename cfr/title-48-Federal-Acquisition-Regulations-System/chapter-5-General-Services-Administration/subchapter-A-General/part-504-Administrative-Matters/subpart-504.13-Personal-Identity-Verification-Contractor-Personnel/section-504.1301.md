@@ -1,0 +1,3 @@
+##### 504.1301 Policy. #####
+
+Contracting officers must follow the procedures contained in CIO P2181.1—GSA HSPD-12 Personal Identity Verification and Credentialing Handbook, which may be obtained from the CIO Office of Enterprise Solutions, to ensure compliance with Homeland Security Presidential Directive-12 (HSPD-12) “Policy for a Common Identification Standard for Federal Employees and Contractors,” Office of Management and Budget Memorandum M-05-24, and Department of Commerce FIPS PUB 201.

@@ -1,0 +1,3 @@
+##### § 54a.9 Oversight of the Charitable Choice requirements. #####
+
+In order to ensure that program funds are used in compliance with the SAMHSA Charitable Choice provisions, applicants for funds under applicable programs are required, as part of their applications for funding, to certify that they will comply with all of the requirements of the SAMHSA Charitable Choice provisions and the implementing regulations under this part.

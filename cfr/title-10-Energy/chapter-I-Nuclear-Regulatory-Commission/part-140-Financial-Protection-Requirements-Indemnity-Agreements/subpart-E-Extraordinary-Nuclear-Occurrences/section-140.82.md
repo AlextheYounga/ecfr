@@ -1,0 +1,7 @@
+##### § 140.82 Procedures. #####
+
+(a) The Commission may initiate, on its own motion, the making of a determination as to whether or not there has been an extraordinary nuclear occurrence. In the event the Commission does not so initiate the making of a determination, any affected person, or any licensee or person with whom an indemnity agreement is executed or a person providing financial protection may petition the Commission for a determination of whether or not there has been an extraordinary nuclear occurrence. If the Commission does not have, or does not expect to have, within 7 days after it has received notification of an alleged event, enough information available to make a determination that there has been an extraordinary nuclear occurrence, the Commission will publish a notice in the Federal Register setting forth the date and place of the alleged event and requesting any persons having knowledge thereof to submit their information to the Commission.
+
+(b) When a procedure is initiated under paragraph (a) of this section, the Commission will designate members of the principal staff to begin immediately to assemble the relevant information and prepare a report on which the Commission can make its determination.
+
+[33 FR 15999, Oct. 31, 1968, as amended at 40 FR 8794, Mar. 3, 1975]

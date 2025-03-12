@@ -1,0 +1,3 @@
+##### § 1003.70 Purpose and scope. #####
+
+The OHA shall receive and consider petitions that seek special redress relief or other extraordinary assistance as provided for in the Federal Energy Administration Act of 1974, Section 21 (15 U.S.C. 780), apart from or in addition to the other proceedings described in this part. This subpart may also apply if cross referenced in another DOE rule or regulation, or in a DOE delegation of authority. Petitions under this subpart shall include those seeking special assistance based on an assertion that DOE is not complying with its rules, regulations, or orders.

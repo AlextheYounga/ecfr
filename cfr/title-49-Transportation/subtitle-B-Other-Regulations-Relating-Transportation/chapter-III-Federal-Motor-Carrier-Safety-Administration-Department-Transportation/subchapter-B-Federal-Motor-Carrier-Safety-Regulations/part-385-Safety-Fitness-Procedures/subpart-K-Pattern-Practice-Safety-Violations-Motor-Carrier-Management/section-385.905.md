@@ -1,0 +1,9 @@
+##### § 385.905 Suspension or revocation of registration. #####
+
+(a) *General.* (1) If a motor carrier engages or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety under 49 U.S.C. Chapter 311, subchapter III, FMCSA may suspend or revoke the motor carrier's registration.
+
+(2) If a motor carrier permits any person to exercise controlling influence over the motor carrier's operations and that person engages in or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety 49 U.S.C. Chapter 311, subchapter III while acting on behalf of any motor carrier, FMCSA may suspend or revoke the motor carrier's registration.
+
+(b) *Determination.* (1) The Agency Official may issue an order to revoke or suspend a motor carrier's registration, or require compliance with an order issued to redress violations of a statutory or regulatory requirement prescribed under 49 U.S.C. Chapter 311, subchapter III, upon a determination that the motor carrier engages or has engaged in a pattern or practice of avoiding regulatory compliance or masking or otherwise concealing regulatory noncompliance.
+
+(2) The Agency Official may issue an order to revoke or suspend a motor carrier's registration, or require compliance with an order issued to redress violations of a statutory or regulatory requirement prescribed under 49 U.S.C. Chapter 311, subchapter III, upon a determination that the motor carrier permitted a person to exercise controlling influence over the motor carrier's operations if that person engages in or has engaged in a pattern or practice of avoiding regulatory compliance or masking or otherwise concealing regulatory noncompliance.

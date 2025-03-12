@@ -1,0 +1,3 @@
+##### § 1320.1 Purpose. #####
+
+The purpose of this part is to implement the provisions of the Paperwork Reduction Act of 1995 (44 U.S.C. chapter 35)(the Act) concerning collections of information. It is issued under the authority of section 3516 of the Act, which provides that “The Director shall promulgate rules, regulations, or procedures necessary to exercise the authority provided by this chapter.” It is designed to reduce, minimize and control burdens and maximize the practical utility and public benefit of the information created, collected, disclosed, maintained, used, shared and disseminated by or for the Federal government.

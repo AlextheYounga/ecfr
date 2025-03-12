@@ -1,0 +1,5 @@
+##### § 178.201 Scope of subpart. #####
+
+(a) *Accounts covered.* This subpart prescribes forms and procedures for the prompt settlement of accounts of deceased civilian officers and employees of the Federal Government and of the government of the District of Columbia (including wholly owned and mixed-ownership Government corporations), as stated in 5 U.S.C. 5581, 5582, 5583.
+
+(b) *Accounts not covered.* This subpart does not apply to accounts of deceased officers and employees of the Federal land banks, Federal intermediate credit banks, or regional banks for cooperatives (see 5 U.S.C. 5581(1)). Also, these procedures do not apply to payment of unpaid balance of salary or other sums due deceased Senators or Members of the House of Representatives or their officers or employees (see 2 U.S.C. 36a, 38a).

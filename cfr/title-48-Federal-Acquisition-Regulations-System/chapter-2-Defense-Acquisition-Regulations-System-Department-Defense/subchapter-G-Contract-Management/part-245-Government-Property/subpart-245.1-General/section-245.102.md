@@ -1,0 +1,53 @@
+##### 245.102 Policy. #####
+
+(*See* the policy guidance at PGI 245.102-70.)
+
+(1) *Mapping, charting, and geodesy property.* All Government-furnished mapping, charting, and geodesy (MC&G) property is under the control of the Director, National Geospatial Intelligence Agency.
+
+(i) MC&G property shall not be duplicated, copied, or otherwise reproduced for purposes other than those necessary for contract performance.
+
+(ii) Upon completion of contract performance, the contracting officer shall -
+
+(A) Contact the Director, National Geospatial-Intelligence Agency, 7500 Geoint Drive, Springfield, VA 22150, for disposition instructions;
+
+(B) Direct the contractor to destroy or return all Government-furnished MC&G property not consumed during contract performance; and
+
+(C) Specify the destination and means of shipment for property to be returned to the Government.
+
+(2) *Government supply sources.* When a contractor will be responsible for preparing requisitioning documentation to acquire Government-furnished property from Government supply sources, include in the contract the requirement to prepare the documentation in accordance with DoD 4000.25-1-M, Military Standard Requisitioning and Issue Procedures (MILSTRIP). Copies are available from the address cited at PGI 251.102.
+
+(3) *Acquisition and management of industrial resources.* See Subpart 237.75 for policy relating to facilities projects.
+
+(4) *Government-furnished property identification.*
+
+(i) It is DoD policy that Government-furnished property be tagged, labeled, or marked based on DoD marking standards (MIL Standard 130) or other standards, when the requiring activity determines that such items are subject to serialized item management (serially-managed items). The list of Government-furnished property subject to serialized item management will be identified in the contract in accordance with PGI 245.103-72, GFP attachments to solicitations and awards.
+
+(ii) *Exceptions.* The Contractor will not be required to tag, label, or mark -
+
+(A) Government-furnished property that was previously tagged, labeled, or marked;
+
+(B) Items, as determined by the head of the agency, that are to be used to support a contingency operation; or to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack;
+
+(C) Items for which a determination and findings has been executed concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identification after delivery of an item acquired from a small business concern or a commercial item acquired under FAR part 12 or part 8.
+
+(*1*) The determination and findings shall be executed by -
+
+(*i*) The Component Acquisition Executive for an Acquisition Category (ACAT) I program; or
+
+(*ii*) The head of the contracting activity for all other programs.
+
+(*2*) A copy of the executed determination and findings shall be provided to the DoD Unique Item Identification Policy Office at this address: OUSD (AT&L) DPAP/Program Development and Implementation, Room 3B855, 3060 Defense Pentagon, Washington, DC 20301-3060; or by facsimile to 703-602-6047.
+
+(D) Items that are contractor-acquired property;
+
+(E) Property under any statutory leasing authority;
+
+(F) Property to which the Government has acquired a lien or title solely because of partial, advance, progress, or performance-based payments;
+
+(G) Intellectual property or software; or
+
+(H) Real property.
+
+(5) *Reporting loss of Government property.* The Defense Contract Management Agency (DCMA) eTools software application is the DoD data repository for reporting loss of Government property in the possession of contractors. The requirements and procedures for reporting loss of Government property to eTools are set forth in the clause at 252.245-7002, Reporting Loss of Government Property, prescribed at 245.107.
+
+[74 FR 37647, July 29, 2009, as amended at 76 FR 3537, Jan. 20, 2011; 76 FR 6006, 6008, Feb. 2, 2011; 80 FR 2021, Jan. 15, 2015; 81 FR 36473, June 7, 2016]

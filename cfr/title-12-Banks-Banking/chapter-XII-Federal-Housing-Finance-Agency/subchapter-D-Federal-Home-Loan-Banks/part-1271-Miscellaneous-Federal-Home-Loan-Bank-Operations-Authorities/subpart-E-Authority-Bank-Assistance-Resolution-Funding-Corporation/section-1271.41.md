@@ -1,0 +1,3 @@
+##### § 1271.41 Bank employees. #####
+
+Upon the request of the Directorate of the Resolution Funding Corporation, established pursuant to section 21B(b) of the Bank Act (12 U.S.C. 1441b(b)), officers, employees, or agents of the Banks are authorized to act for and on behalf of the Resolution Funding Corporation in such manner as may be necessary to carry out the functions of the Resolution Funding Corporation as provided in section 21B(c)(6)(B) of the Bank Act (12 U.S.C. 1441b(c)(6)(B)).

@@ -1,0 +1,5 @@
+##### § 402.7 Water-Resources Technology Development Program. #####
+
+(a) Subject to the availability of appropriated funds, the Water-Resources Technology Development Program will provide funds in the form of grants or contracts to educational institutions, private firms, private foundations, individuals, and agencies of local or State governments for technology development concerning any aspect of water-related technology deemed to be of State, regional, and national importance, including technology associated with improvement of waters of impaired quality and the operation of test facilities. Federal agencies are excluded from receiving grants or contracts. The types of technology-development to be undertaken under this program shall include paragraphs 1 through 10 of § 402.6(b).
+
+(b) The USGS may establish any condition for the matching of funds by the recipient of any grant or cost-sharing under a contract under the technology-development program which the USGS considers to be in the best interest of the Nation.

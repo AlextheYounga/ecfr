@@ -1,0 +1,5 @@
+##### § 546.3 Transfer of assets upon merger or consolidation. #####
+
+On the effective date of a merger or consolidation in which the resulting institution is a Federal association, all assets and property of the disappearing institutions shall immediately, without any further act, become the property of the resulting institution to the same extent as they were the property of the disappearing institutions, and the resulting institution shall be a continuation of the entity which absorbed the disappearing institutions. All rights and obligations of the disappearing institutions shall remain unimpaired, and the resulting institution shall, on the effective date of the merger or consolidation, succeed to all those rights and obligations, subject to the Home Owners' Loan Act and other applicable statutes.
+
+[59 FR 44623, Aug. 30, 1994]

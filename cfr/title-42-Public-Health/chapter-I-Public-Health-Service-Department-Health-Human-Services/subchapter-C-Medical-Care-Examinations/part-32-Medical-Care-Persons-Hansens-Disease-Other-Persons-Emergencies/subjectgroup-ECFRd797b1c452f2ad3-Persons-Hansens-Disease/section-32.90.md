@@ -1,0 +1,3 @@
+##### § 32.90 Notification to health authorities regarding discharged patients. #####
+
+Upon the discharge of a patient the medical officer in charge shall give notification of such discharge to the appropriate health officer of the State, Territory, or other jurisdiction in which the discharged patient is to reside. The notification shall also set forth the clinical findings and other essential facts necessary to be known by the health officer relative to such discharged patient.

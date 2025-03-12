@@ -1,0 +1,3 @@
+##### 1332.1108 Payment by Governmentwide commercial purchase card. #####
+
+Use of the Governmentwide commercial purchase card is subject to the requirements of the FAR, other internal Departmental policies, as well as operating unit policies and procedures related to the purchase card. All purchases made with the purchase card must comply with all procedures and documentation requirements that apply to the procurement action.

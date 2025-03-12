@@ -1,0 +1,3 @@
+##### 22.1003-1 General. #####
+
+This subpart 22.10 applies to all Government contracts, the principal purpose of which is to furnish services in the United States through the use of service employees, except as exempted in 22.1003-3 and 22.1003-4 of this section, or any subcontract at any tier thereunder. This subpart does not apply to individual contract requirements for services in contracts not having as their principal purpose the furnishing of services. The nomenclature, type, or particular form of contract used by contracting agencies is not determinative of coverage.

@@ -1,0 +1,3 @@
+##### § 301.303 Performance appraisal. #####
+
+As soon as practicable, but beginning not later than January 1, 1984, overseas agencies are required to evaluate the performance of employees who serve under overseas local hire appointments as defined in § 315.608(b) of this chapter and who are eligible to meet the criteria established in § 315.608(a), of this chapter in accordance with the agency's performance appraisal plan established under chapter 43 of title 5, U.S. Code, unless the agency is exempt from the provisions of that chapter.

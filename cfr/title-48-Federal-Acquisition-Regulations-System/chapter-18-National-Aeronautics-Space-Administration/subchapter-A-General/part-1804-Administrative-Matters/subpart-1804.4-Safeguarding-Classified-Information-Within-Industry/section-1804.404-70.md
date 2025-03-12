@@ -1,0 +1,3 @@
+##### 1804.404-70 Contract clause. #####
+
+The contracting officer shall insert the clause at 1852.204-75, Security Classification Requirements, in solicitations and contracts if work is to be performed will require security clearances. This clause may be modified to add instructions for obtaining security clearances and access to security areas that are applicable to the particular acquisition and installation.

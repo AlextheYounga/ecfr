@@ -1,0 +1,3 @@
+##### § 137.424 Is the recommended decision from the informal conference final for the Secretary? #####
+
+No. If the Indian Tribe is dissatisfied with the recommended decision from the informal conference, it may still appeal the initial decision within 30 days of receiving the recommended decision and the report of the informal conference. If the Indian Tribe does not file a notice of appeal within 30 days, or before the expiration of the extension it has received under § 137.426 , the recommended decision of the informal conference becomes final for the Secretary and may be appealed to Federal court pursuant to section 110 of the Act [25 U.S.C. 450m-1].

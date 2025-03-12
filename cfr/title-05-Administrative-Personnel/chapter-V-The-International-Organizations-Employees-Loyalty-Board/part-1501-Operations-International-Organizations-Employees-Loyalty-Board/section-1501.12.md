@@ -1,0 +1,3 @@
+##### § 1501.12 Obtaining further information. #####
+
+At any stage in its review and consideration of a case, if the Board deems it advisable or necessary to obtain information or clarification of any matter, the Board may request further investigation, or submit a written questionnaire to the individual whose case is before the Board, or request such individual to furnish information in an oral interview.

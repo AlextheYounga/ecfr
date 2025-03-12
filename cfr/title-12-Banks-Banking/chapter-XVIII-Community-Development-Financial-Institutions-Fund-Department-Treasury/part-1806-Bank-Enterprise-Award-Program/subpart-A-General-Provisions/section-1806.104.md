@@ -1,0 +1,5 @@
+##### § 1806.104 Uniform Administrative Requirements; waiver authority. #####
+
+(a) *Uniform Administrative Requirements.* The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Administrative Requirements), codified by the Department of the Treasury at 2 CFR part 1000, apply to awards, regardless of type of award Recipient, made pursuant to this part.
+
+(b) *Waiver authority.* The CDFI Fund may waive any requirement of this part that is not required by law, upon a determination of good cause. Each such waiver will be in writing and supported by a statement of the facts and grounds forming the basis of the waiver. For a waiver in any individual case, the CDFI Fund must determine that application of the requirement to be waived would adversely affect the achievement of the purposes of the Act. For waivers of general applicability, the CDFI Fund will publish notification of granted waivers in the Federal Register.

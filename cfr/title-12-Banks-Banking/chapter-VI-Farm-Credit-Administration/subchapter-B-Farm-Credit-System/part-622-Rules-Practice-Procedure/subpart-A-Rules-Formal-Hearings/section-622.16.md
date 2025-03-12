@@ -1,0 +1,3 @@
+##### § 622.16 Notice of submission to the Board. #####
+
+Upon the filing of the record with the Board, and upon the expiration of the time for the filing of exceptions and all briefs, including reply briefs or any further briefs permitted by the presiding officer or the Board, and upon the hearing of oral argument by the Board, if ordered by the Board, the Board shall notify the parties in writing that the case has been submitted for final decision.

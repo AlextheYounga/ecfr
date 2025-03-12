@@ -1,0 +1,11 @@
+##### § 410.403 Payments for temporary duty training assignments. #####
+
+Section 4109(a)(2) of title 5, United States Code, provides that an agency may pay, or reimburse an employee for, all or a part of the necessary expenses of training, including the necessary costs of travel; per diem expenses; or limited relocation expenses including transportation of the immediate family, household goods and personal effects:
+
+(a) If an agency chooses to pay per diem, or in unusual circumstances the actual subsistence, expenses for an employee on a temporary duty training assignment, payment must be in accordance with 41 CFR part 301-7 or 41 CFR part 301-8 (or, for commissioned officers of the National Oceanic and Atmospheric Administration, in accordance with sections 404 and 405 of title 37, United States Code, and the Joint Federal travel Regulations for the Uniformed Services).
+
+(b) An agency may pay a reduced per diem rate, such as a standardized payment less than the maximum per diem rate for a geographical area. If a reduced or standardized per diem rate was not authorized in advance of the travel and the fees paid to a training institution include lodging or meal costs, an appropriate deduction shall be made from the total per diem rate payable on the travel voucher (see 41 CFR 301-7.12).
+
+(c) An agency may pay limited relocation expenses for the transportation of the employee's immediate family, household goods and personal effects, including packing, crating, temporarily storing, draying, and unpacking the household goods in accordance with section 5724 of title 5, United States Code (or, for commissioned officers of the National Oceanic and Atmospheric Administration, in accordance with sections 406 and 409 of title 37, United States Code, and the Joint federal travel Regulations for the uniformed Services). Limited relocation expenses are payable only when the estimated costs of transportation and related services are less than the estimated aggregate per diem or actual subsistence expense payments for the period of training. An employee selected for temporary duty training may receive travel and per diem (or actual subsistence expenses) for the period of the assignment or payment of limited relocation expenses, but not both.
+
+[61 FR 66193, Dec. 17, 1996; 61 FR 66821, Dec. 30, 1996]

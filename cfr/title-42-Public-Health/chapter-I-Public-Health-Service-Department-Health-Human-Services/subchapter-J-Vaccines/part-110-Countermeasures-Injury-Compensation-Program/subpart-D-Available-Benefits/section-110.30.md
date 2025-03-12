@@ -1,0 +1,7 @@
+##### § 110.30 Benefits available to different categories of requesters under this Program. #####
+
+(a) *Benefits available to injured countermeasure recipients.* A requester who is an injured countermeasure recipient may be eligible to receive either medical benefits or benefits for lost employment income, or both.
+
+(b) *Benefits available to survivors.* A requester who is an eligible survivor of a deceased injured countermeasure recipient may be eligible to receive a death benefit if the death was caused by the covered injury or its health complications.
+
+(c) *Benefits available to estates of deceased injured countermeasure recipients.* The estate of an otherwise eligible deceased injured countermeasure recipient may be eligible to receive medical benefits or benefits for lost employment income, or both, if such benefits were accrued during the deceased countermeasure recipient's lifetime, or at the time of death, as a result of a covered injury or its health complications, but have not yet been paid in full by the Program. Such medical benefits and benefits for lost employment income may be available regardless of the cause of death. The estate of the deceased injured countermeasure recipient may not receive a death benefit. Death benefits are only available to certain survivors.

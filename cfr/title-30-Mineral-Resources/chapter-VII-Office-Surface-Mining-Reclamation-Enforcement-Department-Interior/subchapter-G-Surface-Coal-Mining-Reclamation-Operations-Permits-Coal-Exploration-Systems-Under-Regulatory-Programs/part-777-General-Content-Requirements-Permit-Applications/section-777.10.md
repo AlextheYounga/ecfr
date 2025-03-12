@@ -1,0 +1,3 @@
+##### § 777.10 Information collection. #####
+
+The information collection requirements contained in part 777 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0032. The information is being collected to meet the requirements of sections 507, 508, and 510(b) of the Act. It provides general requirements for permit application format and contents. The obligation to respond is mandatory.

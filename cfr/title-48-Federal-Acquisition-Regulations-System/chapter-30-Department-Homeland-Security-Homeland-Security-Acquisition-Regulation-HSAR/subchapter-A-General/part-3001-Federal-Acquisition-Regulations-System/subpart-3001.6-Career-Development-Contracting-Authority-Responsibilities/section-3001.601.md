@@ -1,0 +1,3 @@
+##### 3001.601 General. #####
+
+DHS Delegation Number 0200.1, Delegation to the Directorate of Management, delegates authority from the Secretary to the Under Secretary of Management to manage the acquisition function. DHS Delegation 0700, Delegation to the Chief Procurement Officer for Acquisition and Financial Assistance Management, delegates this authority from the Under Secretary of Management to the Chief Procurement Officer.

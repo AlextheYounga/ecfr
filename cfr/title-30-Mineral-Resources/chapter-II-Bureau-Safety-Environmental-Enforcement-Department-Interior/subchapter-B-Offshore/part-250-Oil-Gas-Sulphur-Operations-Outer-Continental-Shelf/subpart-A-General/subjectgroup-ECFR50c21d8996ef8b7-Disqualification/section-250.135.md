@@ -1,0 +1,3 @@
+##### § 250.135 What will BSEE do if my operating performance is unacceptable? #####
+
+BSEE will determine if your operating performance is unacceptable. BSEE will refer a determination of unacceptable performance to BOEM, who may disapprove or revoke your designation as operator on a single facility or multiple facilities. We will give you adequate notice and opportunity for a review by BSEE officials before making a determination that your operating performance is unacceptable.

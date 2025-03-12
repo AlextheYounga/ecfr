@@ -1,0 +1,5 @@
+##### § 573.9 Address for submitting required reports and other information. #####
+
+All submissions, except as otherwise required by this part, shall be submitted to NHTSA on the Internet Web page *http://www.safercar.gov/Vehicle + Manufacturers.* A manufacturer must use the templates provided at this Web page for all submissions required under this section. Defect and noncompliance information reports required by § 573.6 of this part shall be submitted using one of the following forms, depending upon the type of product that is the subject of the report: “Defect and/or Noncompliance Information Report Form—Vehicles;” “Defect and/or Noncompliance Information Report Form—Equipment;” “Defect and/or Noncompliance Information Report Form—Tires;” “Defect and/or Noncompliance Information Report Form—Child Restraints;” “Defect and/or Noncompliance Information Report—Vehicle Alterers.” Reports required under § 573.7 of this part shall be submitted using the form, “Quarterly Report Form” also located at this Web page.
+
+[78 FR 51421, Aug. 20, 2013]

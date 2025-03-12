@@ -1,0 +1,33 @@
+##### § 26.41 Audits and corrective action. #####
+
+(a) *General.* Each licensee and other entity who is subject to this subpart is responsible for the continuing effectiveness of the FFD program, including FFD program elements that are provided by C/Vs, the FFD programs of any C/Vs that are accepted by the licensee or other entity, any FFD program services that are provided to the C/V by a subcontractor, and the programs of the HHS-certified laboratories on whom the licensee or other entity and its C/Vs rely. Each licensee and other entity shall ensure that these programs are audited and that corrective actions are taken to resolve any problems identified.
+
+(b) *FFD program.* Each licensee and other entity who is subject to this subpart shall ensure that the entire FFD program is audited as needed, but no less frequently than nominally every 24 months. Licensees and other entities are responsible for determining the appropriate frequency, scope, and depth of additional auditing activities within the nominal 24-month period based on the review of FFD program performance, including, but not limited to, the frequency, nature, and severity of discovered problems, testing errors, personnel or procedural changes, and previous audit findings.
+
+(c) *C/Vs and HHS-certified laboratories.* (1) FFD services that are provided to a licensee or other entity by C/V personnel who are off site or are not under the direct daily supervision or observation of the licensee's or other entity's personnel and HHS-certified laboratories must be audited on a nominal 12-month frequency.
+
+(2) Audits of HHS-certified laboratories that are conducted for licensees and other entities who are subject to this subpart need not duplicate areas inspected in the most recent HHS certification inspection. However, the licensee and other entity shall review the HHS certification inspection records and reports to identify any areas in which the licensee or other entity uses services that the HHS certification inspection did not address. The licensee or other entity shall ensure that any such areas are audited on a nominal 12-month frequency. Licensees and other entities need not audit organizations and professionals who may provide an FFD program service to the licensee or other entity, but who are not routinely involved in providing services to a licensee's or other entity's FFD program, as specified in § 26.4(i)(1).
+
+(d) *Contracts.* (1) The contracts of licensees and other entities with C/Vs and HHS-certified laboratories must reserve the right to audit the C/V, the C/V's subcontractors providing FFD program services, and the HHS-certified laboratories at any time, including at unannounced times, as well as to review all information and documentation that is reasonably relevant to the audits.
+
+(2) Licensees' and other entities' contracts with C/Vs and HHS-certified laboratories must also permit the licensee or other entity to obtain copies of and take away any documents, including reviews and inspections pertaining to a laboratory's certification by HHS, and any other data that may be needed to assure that the C/V, its subcontractors, or the HHS-certified laboratory are performing their functions properly and that staff and procedures meet applicable requirements. In a contract with a licensee or other entity who is subject to this subpart, an HHS-certified laboratory may reasonably limit the use and dissemination of any documents copied or taken away by the licensee's or other entity's auditors in order to ensure the protection of proprietary information and donors' privacy.
+
+(3) In addition, before awarding a contract, the licensee or other entity shall ensure completion of pre-award inspections and/or audits of the procedural aspects of the HHS-certified laboratory's drug-testing operations, except as provided in paragraph (g)(5) of this section.
+
+(e) *Conduct of audits.* Audits must focus on the effectiveness of the FFD program or program element(s), as appropriate, and must be conducted by individuals who are qualified in the subject(s) being audited. The individuals performing the audit of the FFD program or program element(s) shall be independent from both the subject FFD program's management and from personnel who are directly responsible for implementing the FFD program.
+
+(f) *Audit results.* The result of the audits, along with any recommendations, must be documented and reported to senior corporate and site management. Each audit report must identify conditions that are adverse to the proper performance of the FFD program, the cause of the condition(s), and recommended corrective actions. The licensee or other entity shall review the audit findings and take corrective actions, including re-auditing of the deficient areas where indicated, to preclude, within reason, repetition of the condition. The resolution of the audit findings and corrective actions must be documented.
+
+(g) *Sharing of audits.* Licensees and other entities may jointly conduct audits, or may accept audits of C/Vs and HHS-certified laboratories that were conducted by other licensees and entities who are subject to this subpart, if the audit addresses the services obtained from the C/V or HHS-certified laboratory by each of the sharing licensees and other entities.
+
+(1) Licensees and other entities shall review audit records and reports to identify any areas that were not covered by the shared or accepted audit.
+
+(2) Licensees and other entities shall ensure that FFD program elements and services on which the licensee or entity relies are audited, if the program elements and services were not addressed in the shared audit.
+
+(3) Sharing licensees and other entities need not re-audit the same C/V or HHS-certified laboratory for the same period of time.
+
+(4) Each sharing licensee and other entity shall maintain a copy of the shared audit and HHS certification inspection records and reports, including findings, recommendations, and corrective actions.
+
+(5) If an HHS-certified laboratory loses its certification, in whole or in part, a licensee or other entity is permitted to immediately use another HHS-certified laboratory that has been audited within the previous 12 months by another NRC licensee or entity who is subject to this subpart. Within 3 months after the change, the licensee or other entity shall ensure that an audit is completed of any areas that have not been audited by another licensee or entity who is subject to this subpart within the past 12 months.
+
+[73 FR 17176, Mar. 31, 2008, as amended at 74 FR 38327, Aug. 3, 2009]

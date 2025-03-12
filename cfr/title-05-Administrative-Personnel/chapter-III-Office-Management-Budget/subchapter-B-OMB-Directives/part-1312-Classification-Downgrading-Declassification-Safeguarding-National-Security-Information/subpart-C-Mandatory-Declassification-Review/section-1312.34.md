@@ -1,0 +1,3 @@
+##### § 1312.34 Information in the custody of OMB. #####
+
+Information contained in OMB files and under the exclusive declassification jurisdiction of the office will be reviewed by the office of primary interest to determine whether, under the declassification provisions of the Order, the requested information may be declassified. If so, the information will be made available to the requestor unless withholding is otherwise warranted under applicable law. If the information may not be released, in whole or in part, the requestor shall be given a brief statement as to the reasons for denial, a notice of the right to appeal the determination to the Deputy Director, OMB, and a notice that such an appeal must be filed within 60 days in order to be considered.

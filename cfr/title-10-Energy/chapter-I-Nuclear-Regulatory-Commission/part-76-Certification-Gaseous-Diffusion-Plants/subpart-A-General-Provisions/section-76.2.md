@@ -1,0 +1,3 @@
+##### § 76.2 Scope. #####
+
+The regulations in this part apply only to those portions of the Portsmouth and Paducah Gaseous Diffusion Plants leased by the Corporation, per the Lease Agreement between the Department of Energy and the United States Enrichment Corporation. This part also gives notice to all persons who knowingly provide to the Corporation or any contractor, or subcontractor any components, equipment, materials, or other goods or services that relate to the activities subject to this part that they may be individually subject to NRC enforcement action for violation of § 76.10.

@@ -1,0 +1,3 @@
+##### § 91.1719 Credit for prior training. #####
+
+Initial/transition, requalification, recurrent or Level B differences training conducted prior to November 7, 2016, compliant with SFAR No. 108, Section 3 of this part, is considered to be compliant with this subpart, if the student met the eligibility requirements for the applicable category of training and the student's instructor met the experience requirements of this subpart.

@@ -1,0 +1,3 @@
+##### § 4401.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to members and employees of the Securities and Exchange Commission (“Commission”) and supplement the Standards of ethical conduct for employees of the executive branch contained in 5 CFR part 2635. Members and employees of the Commission are required to comply with 5 CFR part 2635 and this part. In addition, they are subject to the Executive branch financial disclosure regulations, 5 CFR part 2634; the Office of Personnel Management Employee responsibilities and conduct regulations at 5 CFR part 735; and the Commission's Canons of ethics and Regulation concerning conduct of members and employees and former members and employees, 17 CFR part 200, subparts C and M.

@@ -1,0 +1,3 @@
+##### § 603.220 Government participation. #####
+
+A TIA is used to carry out cooperative relationships between the Federal Government and the recipient(s) which require substantial involvement of the Government in the execution of the RD&D. For example, program officials will participate in recipients' periodic reviews of progress and may be substantially involved with the recipients in the resulting revisions of plans for future effort.

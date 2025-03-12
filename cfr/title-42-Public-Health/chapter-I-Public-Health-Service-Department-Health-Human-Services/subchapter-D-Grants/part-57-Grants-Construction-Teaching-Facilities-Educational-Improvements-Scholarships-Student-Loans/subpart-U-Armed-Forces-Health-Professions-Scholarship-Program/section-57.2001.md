@@ -1,0 +1,3 @@
+##### § 57.2001 Applicability. #####
+
+In the event the Secretary of Defense decides to enter into one or more contracts under 10 U.S.C. 2127(d), the regulations in this subpart outline considerations the Secretary of Defense will take into account in determining whether an accredited civilian educational institution has increased its total enrollment for the sole purpose of accepting members of the Armed Forces health professions scholarship program.

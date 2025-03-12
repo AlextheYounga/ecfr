@@ -1,0 +1,3 @@
+##### § 1263.8 Subject to inspection and regulation requirement. #####
+
+An applicant shall be deemed to be subject to inspection and regulation, as required by section 4(a)(1)(B) of the Bank Act (12 U.S.C. 1424 (a)(1)(B)) and § 1263.6(a)(2) if, in the case of an insured depository institution or insurance company applicant, it is subject to inspection and regulation by its appropriate regulator. A CDFI applicant that is certified by the CDFI Fund is not subject to this requirement.

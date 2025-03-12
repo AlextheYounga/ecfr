@@ -1,0 +1,7 @@
+##### § 96.14 Objections concerning the NOX authorized account representative. #####
+
+(a) Once a complete account certificate of representation under § 96.13 has been submitted and received, the permitting authority and the Administrator will rely on the account certificate of representation unless and until a superseding complete account certificate of representation under § 96.13 is received by the Administrator.
+
+(b) Except as provided in § 96.12(a) or (b), no objection or other communication submitted to the permitting authority or the Administrator concerning the authorization, or any representation, action, inaction, or submission of the NOX authorized account representative shall affect any representation, action, inaction, or submission of the NOX authorized account representative or the finality of any decision or order by the permitting authority or the Administrator under the NOX Budget Trading Program.
+
+(c) Neither the permitting authority nor the Administrator will adjudicate any private legal dispute concerning the authorization or any representation, action, inaction, or submission of any NOX authorized account representative, including private legal disputes concerning the proceeds of NOX allowance transfers.

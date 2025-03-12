@@ -1,0 +1,5 @@
+##### § 50.403 What is the policy basis for these procedures? #####
+
+The Secretary of Health and Human Services has established a Departmental Appeals Board for the purpose of providing a fair and flexible process for the appeal of written final decisions involving certain grant and cooperative agreement programs administered by constituent agencies of the Department. The regulatory provision which establishes the circumstances under which the Board will accept an appeal (45 CFR 16.3) provides, among other things, that the appellant must have exhausted any preliminary appeal process required by regulation before a formal appeal to the Departmental Board will be allowed. This subpart provides such an informal preliminary procedure for resolution of disputes in order to preclude submission of cases to the Departmental Appeals Board before an agency identified in § 50.402 has had an opportunity to review decisions of its officials and to settle disputes with grantees.
+
+[54 FR 34770, Aug. 22, 1989, as amended at 63 FR 66062, Dec. 1, 1998]

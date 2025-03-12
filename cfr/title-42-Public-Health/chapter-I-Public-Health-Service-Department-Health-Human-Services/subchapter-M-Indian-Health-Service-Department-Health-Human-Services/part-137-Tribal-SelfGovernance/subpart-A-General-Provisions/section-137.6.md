@@ -1,0 +1,3 @@
+##### § 137.6 Secretarial policy. #####
+
+In carrying out Tribal self-governance under Title V, the Secretary recognizes the right of Tribes to self-government and supports Tribal sovereignty and self-determination. The Secretary recognizes a unique legal relationship with Tribal governments as set forth in the Constitution of the United States, treaties, statutes, Executive Orders, and court decisions. The Secretary supports the self-determination choices of each Tribe and will continue to work with all Tribes on a government-to-government basis to address issues concerning Tribal self-determination.

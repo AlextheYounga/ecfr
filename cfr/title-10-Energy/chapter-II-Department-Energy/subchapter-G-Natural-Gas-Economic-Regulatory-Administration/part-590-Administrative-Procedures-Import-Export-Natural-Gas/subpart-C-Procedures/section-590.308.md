@@ -1,0 +1,11 @@
+##### § 590.308 Admissions of facts. #####
+
+(a) At any time prior to the end of a trial-type hearing, or, if there is no trial-type hearing, prior to the issuance of a final opinion and order under § 590.404, any party, the Assistant Secretary, or the presiding official may serve on any party a written request for admission of the truth of any matters at issue in the proceeding that relate to statements or opinions of fact or of the application of law to fact.
+
+(b) A matter shall be considered admitted and conclusively established for the purposes of any proceeding in which a request for admission is served unless, within fifteen (15) days of such time limit established by the Assistant Secretary or presiding official, the party to whom the request is directed answers or objects to the request. Any answer shall specifically admit or deny the matter, or set forth in detail the reasons why the answering party cannot truthfully admit or deny the matter. An answering party may not give lack of information or knowledge as a reason for failure to admit or deny, unless the answering party states that, after reasonable inquiry, the answering party has been unable to obtain sufficient information to admit or deny. If an objection is made, the answering party shall state the reasons for the objection.
+
+(c) If the Assistant Secretary or presiding official determines that an answer to a request for admission does not comply with the requirements of this section, the Assistant Secretary or presiding official may order either that the matter is admitted or that an amended answer be served.
+
+(d) A copy of all requests for admission and answers thereto shall be filed with FE in accordance with § 590.103. Copies of any documents referenced in the request shall be served with the request unless they are known to be in the possession of the other parties.
+
+(e) The Assistant Secretary or presiding official may limit the number of requests for admission of facts in order to expedite a proceeding through elimination of duplicative requests.

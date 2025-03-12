@@ -1,0 +1,3 @@
+##### § 54a.1 Scope. #####
+
+These provisions apply only to funds provided directly to pay for substance abuse prevention and treatment services under Title V of the Public Health Service Act, 42 U.S.C. 290aa, *et seq.,* which are administered by the Substance Abuse and Mental Health Services Administration. This part does not apply to direct funding under any such authorities for only mental health services or for certain infrastructure and technical assistance activities, such as cooperative agreements for technical assistance centers, that do not provide substance abuse services to clients. This part implements the provisions of 42 U.S.C. 300x-65 and 42 U.S.C. 290kk, *et seq.*

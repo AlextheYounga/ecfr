@@ -1,0 +1,3 @@
+##### § 19.735-101 Purpose. #####
+
+The regulations in this part prescribe procedures and standards of conduct that are appropriate to the particular functions and activities of the Commission, and are issued by the Commission under authority independent of the uniform Standards of Ethical Conduct for Employees of the Executive Branch at 5 CFR part 2635 or otherwise in accordance with 5 CFR 2635.105(c).

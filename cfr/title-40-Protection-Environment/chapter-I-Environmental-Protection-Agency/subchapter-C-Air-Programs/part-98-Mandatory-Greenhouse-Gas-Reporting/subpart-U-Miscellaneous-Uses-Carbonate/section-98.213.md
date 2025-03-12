@@ -1,0 +1,7 @@
+##### § 98.213 Calculating GHG emissions. #####
+
+You must determine CO2 process emissions from carbonate use in accordance with the procedures specified in either paragraphs (a) or (b) of this section.
+
+(a) Calculate the process emissions of CO2 using calcination fractions with Equation U-1 of this section.
+
+![](/graphics/er30oc09.077.gif)Where:ECO2 = Annual CO2 mass emissions from consumption of carbonates (metric tons).Mi = Annual mass of carbonate type i consumed (tons).EFi = Emission factor for the carbonate type i, as specified in Table U-1 to this subpart, metric tons CO2/metric ton carbonate consumed.Fi = Fraction calcination achieved for each particular carbonate type i (decimal fraction). As an alternative to measuring the calcination fraction, a value of 1.0 can be used.n = Number of carbonate types.2000/2205 = Conversion factor to convert tons to metric tons.(b) Calculate the process emissions of CO2 using actual mass of output carbonates with Equation U-2 of this section.![](/graphics/er30oc09.078.gif)Where:ECO2 = Annual CO2 mass emissions from consumption of carbonates (metric tons).Mk = Annual mass of input carbonate type k (tons).EFk = Emission factor for the carbonate type k, as specified in Table U-1 of this subpart (metric tons CO2/metric ton carbonate input).Mj = Annual mass of output carbonate type j (tons).EFj = Emission factor for the output carbonate type j, as specified in Table U-1 of this subpart (metric tons CO2/metric ton carbonate input).m = Number of input carbonate types.n = Number of output carbonate types.

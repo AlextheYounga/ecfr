@@ -1,0 +1,3 @@
+##### § 33.106 What assurances must EPA financial assistance recipients obtain from their contractors? #####
+
+The recipient must ensure that each procurement contract it awards contains the term and condition specified in Appendix A to this part concerning compliance with the requirements of this part. The recipient must also ensure that this term and condition is included in each procurement contract awarded by an entity receiving an identified loan under a financial assistance agreement to capitalize a revolving loan fund.

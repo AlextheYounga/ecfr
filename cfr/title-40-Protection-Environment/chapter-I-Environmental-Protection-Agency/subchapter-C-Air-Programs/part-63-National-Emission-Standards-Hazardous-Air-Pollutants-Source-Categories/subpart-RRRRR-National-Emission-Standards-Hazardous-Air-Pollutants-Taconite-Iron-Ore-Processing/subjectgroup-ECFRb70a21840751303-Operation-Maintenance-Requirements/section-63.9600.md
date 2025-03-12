@@ -1,0 +1,37 @@
+##### § 63.9600 What are my operation and maintenance requirements? #####
+
+(a) On or before January 25, 2021, for affected sources that commenced construction or reconstruction on or before September 25, 2019, you must always operate and maintain your affected source, including air pollution control and monitoring equipment, according to the provisions in § 63.6(e)(1)(i). After January 25, 2021, for affected sources that commenced construction or reconstruction on or before September 25, 2019, and after July 28, 2020, or upon start-up, which ever date is later, for affected sources that commenced construction or reconstruction after September 25, 2019, at all times, you must always operate and maintain any affected source, including associated air pollution control equipment and monitoring equipment, in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require the owner or operator to make any further efforts to reduce emissions if levels required by the applicable standard have been achieved. Determination of whether such operation and maintenance procedures are being used will be based on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the source.
+
+(b) You must prepare, and at all times, operate according to, a written operation and maintenance plan for each control device applied to meet any particulate matter emission limit in table 1 to this subpart, mercury emission limit in table 2 to this subpart, hydrogen chloride and hydrogen fluoride emission limit in table 3 to this subpart, and to meet the requirement of each indurating furnace subject to good combustion practices (GCP). Each site-specific operation and maintenance plan must be submitted to the Administrator on or before the compliance date that is specified in § 63.9583 for your affected source. The plan you submit must explain why the chosen practices (*i.e.,* quantified objectives) are effective in performing corrective actions or GCP in minimizing the formation of formaldehyde (and other products of incomplete combustion). The Administrator will review the adequacy of the site-specific practices and objectives you will follow and the records you will keep to demonstrate compliance with your Plan. If the Administrator determines that any portion of your operation and maintenance plan is not adequate, we can reject those portions of the plan, and request that you provide additional information addressing the relevant issues. In the interim of this process, you will continue to follow your current site-specific practices and objectives, as submitted, until your revisions are accepted as adequate by the Administrator. You must maintain a current copy of the operation and maintenance plan onsite, and it must be available for inspection upon request. You must keep the plan for the life of the affected source or until the affected source is no longer subject to the requirements of this subpart. Each operation and maintenance plan must address the elements in paragraphs (b)(1) through (4) of this section.
+
+(1) Preventative maintenance for each control device, including a preventative maintenance schedule that is consistent with the manufacturer's instructions for routine and long-term maintenance.
+
+(2) Corrective action procedures for bag leak detection systems. On or before January 25, 2021, for affected sources that commenced construction or reconstruction on or before September 25, 2019, in the event a bag leak detection system alarm is triggered, you must initiate corrective action to determine the cause of the alarm within 1 hour of the alarm, initiate corrective action to correct the cause of the problem within 24 hours of the alarm, and complete the corrective action as soon as practicable. Corrective actions may include, but are not limited to, the actions listed in paragraphs (b)(2)(i) through (vi) of this section. After January 25, 2021, for affected sources that commenced construction or reconstruction on or before September 25, 2019, and after July 28, 2020, or upon start-up, which ever date is later, for affected sources that commenced construction or reconstruction after September 25, 2019, in the event a bag leak detection system alarm is triggered, you must initiate corrective action to determine the cause of the alarm within 1 hour of the alarm, initiate corrective action to correct the cause of the problem within 24 hours of the alarm, and complete the corrective action as soon as practicable. If the alarm sounds more than 5 percent of the operating time during a 6-month period as determined according to § 63.9634(d)(3), it is considered an operating parameter deviation. Corrective actions may include, but are not limited to, the actions listed in paragraphs (b)(2)(i) through (vi) of this section.
+
+(i) Inspecting the baghouse for air leaks, torn or broken bags or filter media, or any other condition that may cause an increase in emissions.
+
+(ii) Sealing off defective bags or filter media.
+
+(iii) Replacing defective bags or filter media or otherwise repairing the control device.
+
+(iv) Sealing off a defective baghouse compartment.
+
+(v) Cleaning the bag leak detection system probe, or otherwise repairing the bag leak detection system.
+
+(vi) Adjusting the process operation producing the particulate emissions.
+
+(3) Corrective action procedures for continuous parameter monitoring systems (CPMS) for all air pollution control devices except for baghouses. In the event you exceed an established operating limit for an air pollution control device except for a baghouse, you must initiate corrective action to determine the cause of the operating limit exceedance and complete the corrective action within 10 calendar days. The corrective action procedures you take must be consistent with the installation, operation, and maintenance procedures listed in your site-specific CPMS monitoring plan in accordance with § 63.9632(b).
+
+(4) Good combustion practices for indurating furnaces. You must identify and implement a set of site-specific GCP for each type of indurating furnace at your plant. These GCP should correspond to your standard operating procedures for maintaining the proper and efficient combustion within each indurating furnace. Good combustion practices include, but are not limited to, the elements listed in paragraphs (b)(4)(i) through (v) of this section.
+
+(i) Proper operating conditions for each indurating furnace (e.g., minimum combustion temperature, maximum carbon monoxide concentration in the furnace exhaust gases, burner alignment, or proper fuel-air distribution/mixing).
+
+(ii) Routine inspection and preventative maintenance and corresponding schedules of each indurating furnace.
+
+(iii) Performance analyses of each indurating furnace.
+
+(iv) Keeping applicable operator logs.
+
+(v) Keeping applicable records to document compliance with each element.
+
+[68 FR 61888, Oct. 30, 2003, as amended at 85 FR 45492, July 28, 2020; 89 FR 16425, Mar. 6, 2024]

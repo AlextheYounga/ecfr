@@ -1,0 +1,3 @@
+##### § 900.605 Establishing a merit requirement. #####
+
+Federal agencies may adopt regulations that require the establishment of a merit personnel system as a condition for receiving Federal assistance or otherwise participating in an intergovernmental program only with the prior approval of the Office of Personnel Management. All existing regulations will be submitted to the Office of Personnel Management for review.

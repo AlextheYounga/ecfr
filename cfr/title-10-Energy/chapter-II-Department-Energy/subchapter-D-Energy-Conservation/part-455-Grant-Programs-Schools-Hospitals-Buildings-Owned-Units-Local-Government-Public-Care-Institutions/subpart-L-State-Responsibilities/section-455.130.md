@@ -1,0 +1,5 @@
+##### § 455.130 State evaluation of grant applications. #####
+
+(a) If an application received by a State is reviewed and evaluated by that State and determined to be in compliance with subparts E, F, and J of this part, § 455.130(b), any additional requirements of the approved State Plan, State environmental laws, and other applicable laws and regulations, then such application will be eligible for financial assistance.
+
+(b) Concurrent with its evaluation and ranking of grant applications pursuant to § 455.131, the State will forward applications for technical assistance or for energy conservation measures for schools to the State school facilities agency for review and certification that each school application is consistent with related State programs for educational facilities. For hospitals the certification requirement applies only if there is a State requirement for it in which case the procedure should be described in the State Plan.

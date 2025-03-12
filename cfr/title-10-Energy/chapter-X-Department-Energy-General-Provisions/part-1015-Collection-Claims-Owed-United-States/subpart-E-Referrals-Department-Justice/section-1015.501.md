@@ -1,0 +1,5 @@
+##### § 1015.501 Referrals to the Department of Justice and the Department of the Treasury's Cross-Servicing Program. #####
+
+(a) DOE may authorize Treasury to refer a delinquent debt to the DOJ for litigation in accordance with 31 U.S.C. 3711(g), the DCIA, the revised Federal Claims Collection Standards (31 CFR parts 900-904), and other applicable authorities. DOE shall ensure that all of the rights and protections afforded to the debtor under 31 U.S.C. 3711(e) have been fulfilled.
+
+(b) As described in § 1015.201(e), under the DCIA (31 U.S.C. 3711(g)), DOE is required to transfer all debts over 180 days delinquent to Treasury for purposes of debt collection (*i.e.,* cross-servicing). As part of its regular debt collection procedures, Treasury will refer debts to the DOJ for litigation on behalf of DOE.

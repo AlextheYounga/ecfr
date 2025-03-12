@@ -1,0 +1,3 @@
+##### § 105.13 How are the award winners selected? #####
+
+Nominees and applications are recommended by EPA regions. EPA personnel conduct compliance evaluations prior to presenting a national award. EPA selects national award winners based on demonstrated evidence of outstanding and/or innovative wastewater treatment and pollution abatement programs or projects which result in environmental benefits, cost savings and/or public acceptance. Based upon results of review committee evaluations, the Agency selects first place winners for a national award in the appropriate awards categories. A second place winner may or may not be selected. EPA may or may not select an award winner for every awards program category. Award decisions are not subject to administrative review.

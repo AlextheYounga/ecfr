@@ -1,0 +1,7 @@
+##### § 735.10 Information collection. #####
+
+(a) The information collection and retention requirements in 30 CFR 735.13 (a) and (b), 735.16(e), 735.18, 735.26 and 735.27 were approved by the Office of Management and Budget (OMB) under 44 U.S.C. 3507 and assigned clearance numbers for §§ 735.13 (a) and (b); SF 424, 1029-0016; OSM 50-A, 1029-0079; OSM 50-B, 1029-0078; OSM-47, 1029-0064; OSM-48, 1029-0070; OSM-51, 1029-0072; OSM-51A, 1029-0074; OSM-51B, 1029-0075; OSM-51C, 1029-0069; for Sections 735.16(e) and 735.18; SF 269, 1029-0017; OSM-51, 1029-0072; SF 271, 1029-0073; OSM-51A, 1029-0074; OSM-51B, 1029-0075; OSM-51C, 1029-0069; OSM-60, 1029-0076; OSM-62, 1029-0077; and OSM-63, 1029-0068; for section 735.26; and section 735.27 which was included in the above clearance numbers.
+
+(b) The information required by 30 CFR part 735 will be used by OSM's Headquarters and State offices in administering, evaluating and auditing its State reimbursement grants for program development and administration and enforcement to insure that the requirements of OMB Circular A-102 and the Surface Mining Control and Reclamation Act are met. The information required by 30 CFR part 735 is mandatory.
+
+[47 FR 38491, Aug. 31, 1982]

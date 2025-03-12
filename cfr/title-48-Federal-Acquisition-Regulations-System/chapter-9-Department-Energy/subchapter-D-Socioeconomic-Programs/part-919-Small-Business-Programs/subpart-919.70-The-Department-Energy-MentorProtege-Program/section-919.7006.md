@@ -1,0 +1,5 @@
+##### 919.7006 Incentives for DOE contractor participation. #####
+
+(a) Under cost-plus-award fee contracts, approved Mentor firms may earn award fees associated with their performance as a Mentor. The award fee plan may include provision for the evaluation of the contractor's utilization of 8(a) firms, other small disadvantaged businesses, women-owned small businesses, HBCUs, other minority institutions of higher learning and small business concerns owned and controlled by service disabled veterans. DOE may evaluate the Mentor's performance in the DOE Mentor-Protege Program under any Mentor-Protege Agreement(s) as a separate element of the award fee plan.
+
+(b) Mentors shall receive credit for subcontracts awarded pursuant to their Mentor-Protege Agreements toward subcontracting goals contained in their subcontracting plan.

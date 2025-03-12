@@ -1,0 +1,9 @@
+##### § 72.96 Siting limitations. #####
+
+(a) An ISFSI which is owned and operated by DOE must not be located at any site within which there is a candidate site for a HLW repository. This limitation shall apply until such time as DOE decides that such candidate site is no longer a candidate site under consideration for development as a HLW repository.
+
+(b) An MRS must not be sited in any State in which there is located any site approved for site characterization for a HLW repository. This limitation shall apply until such time as DOE decides that the candidate site is no longer a candidate site under consideration for development as a repository. This limitation shall continue to apply to any site selected for construction as a repository.
+
+(c) If an MRS is located, or is planned to be located, within 50 miles of the first HLW repository, any Commission decision approving the first HLW repository application must limit the quantity of spent fuel or high-level radioactive waste that may be stored. This limitation shall prohibit the storage of a quantity of spent fuel containing in excess of 70,000 metric tons of heavy metal, or a quantity of solidified high-level radioactive waste resulting from the reprocessing of such a quantity of spent fuel, in both the repository and the MRS until such time as a second repository is in operation.
+
+(d) An MRS authorized by section 142(b) of NWPA (101 Stat. 1330-232, 42 U.S.C. 10162(b)) may not be constructed in the State of Nevada. The quantity of spent nuclear fuel or high-level radioactive waste that may be stored at an MRS authorized by section 142(b) of NWPA shall be subject to the limitations in § 72.44(g) of this part instead of the limitations in paragraph (c) of this section.

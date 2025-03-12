@@ -1,0 +1,7 @@
+##### § 581.12 Request for OCS mineral information and interest. #####
+
+(a) When considering whether to offer OCS minerals for lease, the Secretary, upon the Department of the Interior's own initiative or as a result of a submission under § 581.11, may request indications of interest in the leasing of a specific OCS mineral, a group of OCS minerals, or all OCS minerals in the area being considered for lease. Requests for information and interest shall be published in the Federal Register and may be published elsewhere.
+
+(b) States and local governments, industry, other Federal Agencies, and all interested parties (including the public) may respond to a request for information and interest. All information provided to the Secretary will be considered in the decision whether to proceed with additional steps leading to the offering of OCS minerals for lease.
+
+(c) The Secretary may request specific information concerning the offering of a specific OCS mineral, a group of OCS minerals, or all OCS minerals in a broad area for lease or the offering of one or more discrete tracts which represent a minable orebody. The Secretary's request may ask for comments on OCS areas which have been determined to warrant special consideration and analysis. Requests may be for comments concerning geological conditions or archaeological resources on the seabed; multiple uses of the area proposed for leasing, including navigation, recreation and fisheries; and other socioeconomic, biological, and environmental information relating to the area proposed for leasing.

@@ -1,0 +1,9 @@
+##### § 304.24 Intervention and withdrawal. #####
+
+(a)(1) No later than thirty days prior to the pre-hearing conference (*see* § 304.31 of this part), any PRP associated with the facility which is the subject of the referred claim may move to intervene in the arbitral proceeding for the purpose of having one or more issues relating to his or her responsibility for payment of the referred claim resolved.
+
+(2) If the Arbitrator has been appointed, a motion to intervene shall be filed with the Arbitrator and a copy shall be served upon all parties. If the Arbitrator has not yet been appointed, a motion to intervene shall be submitted to the Association and a copy shall be served upon all parties.
+
+(3) Any such motion to intervene may be granted only upon the written approval of the Arbitrator and all of the parties in the form of a modification to the joint request for arbitration pursuant to § 304.21(c) of this part. by signing such a modification, the intervening party consents to be bound by the terms of the joint request for arbitration submitted pursuant to § 304.21(b) of this part and any modifications previously made thereto pursuant to § 304.21(c) of this part, and consents to be bound by such revisions to the time limits for the filing of pleadings as the Arbitrator may make to prevent delaying the pre-hearing conference.
+
+(b) Any party may move to withdraw from the arbitral proceeding within thirty days after receipt of the notice of appointment of the Arbitrator (*see* § 304.22 of this part). The Arbitrator may approve such withdrawal, without prejudice to the moving party, and shall assess such administrative fees and expenses (*see* § 304.41 of this part) against the withdrawing party as the Arbitrator deems appropriate. No party may withdraw from the arbitral proceedings after this thirty-day period, except that EPA may withdraw from the proceeding in accordance with § 304.20(b)(3) or § 304.33(e) of this part.

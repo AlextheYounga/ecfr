@@ -1,0 +1,3 @@
+##### § 268.703 Notice. #####
+
+The Board shall make available to employees, applicants for employment, participants, beneficiaries, and other interested persons information regarding the provisions of this subpart and its applicability to the programs and activities conducted by the Board, and make this information available to them in such manner as the Board finds necessary to apprise such persons of the protections against discrimination assured them by this subpart.

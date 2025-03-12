@@ -1,0 +1,7 @@
+##### § 312.29 The relationship of the purchase price to the value of the property, if the property was not contaminated. #####
+
+(a) Persons to whom this part is applicable per § 312.1(b) must consider whether the purchase price of the subject property reasonably reflects the fair market value of the property, if the property were not contaminated.
+
+(b) Persons who conclude that the purchase price of the subject property does not reasonably reflect the fair market value of that property, if the property were not contaminated, must consider whether or not the differential in purchase price and fair market value is due to the presence of releases or threatened releases of hazardous substances.
+
+(c) Persons conducting site characterization and assessments with the use of a grant awarded under CERCLA section 104(k)(2)(B) and who know that the purchase price of the subject property does not reasonably reflect the fair market value of that property, if the property were not contaminated, must consider whether or not the differential in purchase price and fair market value is due to the presence of releases or threatened releases of hazardous substances, pollutants, contaminants, petroleum and petroleum products, or controlled substances as defined in 21 U.S.C. 802.

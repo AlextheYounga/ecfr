@@ -1,0 +1,11 @@
+##### § 614.4525 General. #####
+
+(a) To provide the best possible credit service to farmers, ranchers, and producers or harvesters of aquatic products, bank and association boards may adopt policies permitting the bank or association to enter into agreements with agents, dealers, cooperatives, other lenders, and individuals to facilitate its making of loans to eligible farmers, ranchers, and producers or harvesters of aquatic products.
+
+(b) A bank or association, pursuant to its board policies, may enter into an agreement with third parties that will accrue to the benefit of the borrower and the lender to perform functions in the making or servicing of loans other than the evaluation and approval of loans. When such an agreement is developed, and the territory covered by the agreement extends outside the territorial limits of the originating association or bank, the written consent of all affected banks or associations is required. Reasonable compensation may be paid for services rendered.
+
+(c) Production credit associations and agricultural credit associations may enter into agreements with private dealers or cooperatives permitting them to take applications for loans from the association to purchase farm or aquatic equipment, supplies, and machinery. Such agreements shall normally be limited to persons or businesses selling to farmers, ranchers, or producers or harvesters of aquatic products and shall contain credit limits consistent with sound credit standards. When the sales territory of a dealer or cooperative extends outside the territory of the originating association or the Farm Credit district, written consent of each bank and association affected shall be obtained before making such loans. Reasonable compensation may be paid or charged to a dealer or cooperative for services rendered in connection with such programs.
+
+(d) Farm Credit System institutions that are direct lenders may enter into memoranda of understanding among themselves or with other lenders for the simultaneous processing and closing of loans to a mutual borrower. The basic policies and principles of each System lender shall apply.
+
+[47 FR 12146, Mar. 22, 1982. Redesignated at 53 FR 35454, Sept. 14, 1988, and amended at 55 FR 24886, June 19, 1990; 61 FR 67187, Dec. 20, 1996]

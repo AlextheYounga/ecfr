@@ -1,0 +1,3 @@
+##### § 230.87 Cab lights. #####
+
+Each steam locomotive shall have cab lights that sufficiently illuminate the control instruments, meters and gauges to allow the engine crew to make accurate readings from their usual and proper positions in the cab. These lights shall be so located and constructed that the light will shine only on those parts requiring illumination and does not interfere with the engine crew's vision of the track and signals. Each steam locomotive shall also have a conveniently located additional lamp that can be readily turned on and off by the persons operating the steam locomotive and that provides sufficient illumination to read train orders and timetables.

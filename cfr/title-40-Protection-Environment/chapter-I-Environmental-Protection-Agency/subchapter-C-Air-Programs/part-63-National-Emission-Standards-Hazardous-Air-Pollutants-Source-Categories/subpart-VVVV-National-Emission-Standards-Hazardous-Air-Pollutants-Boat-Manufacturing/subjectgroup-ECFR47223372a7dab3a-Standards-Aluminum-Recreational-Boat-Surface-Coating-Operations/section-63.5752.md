@@ -1,0 +1,7 @@
+##### § 63.5752 How do I calculate the organic HAP content of aluminum recreational boat surface coatings? #####
+
+(a) Use equation 1 of this section to calculate the weighted-average HAP content for all aluminum surface coatings used in the past 12 months.
+
+![](/graphics/er22au01.017.gif)Where:HAPSC = weighted-average organic HAP content for all aluminum coating materials, kilograms of organic HAP per liter of coating solids. m = number of different aluminum primers, top coats, and clear coats used in the past 12 months.Voli = volume of aluminum primer, top coat, or clear coat i used in the past 12 months, liters.Di = density of coating i, kilograms per liter.Wi = mass fraction of organic HAP in coating i, kilograms of organic HAP per kilogram of coating. p = number of different thinners, activators, and other coating additives used in the past 12 months.Volk = total volume of thinner, activator, or additive k used in the past 12 months, liters.Dk = density of thinner, activator, or additive k, kilograms per liter.Wk = mass fraction of organic HAP in thinner, activator, or additive k, kilograms of organic HAP per kilogram of thinner or activator.Solidsi = solids content of aluminum primer, top coat, or clear coat i, liter solids per liter of coating.
+
+(b) Compliance is based on a 12-month rolling average. If the weighted-average organic HAP content does not exceed 1.22 kilograms of organic HAP per liter of coating solids, then you are in compliance with the emission limit specified in § 63.5743(a)(2).

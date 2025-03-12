@@ -1,0 +1,3 @@
+##### § 303.31 Justification for the application. #####
+
+A section 412 application shall explain the nature and purpose of the contract, agreement or request to discuss a cooperative working arrangement and describe how it changes any price, rule or practice existing under a previously-approved application. The application also, consistent with Department of Transportation and CAB precedent, shall contain factual material, documentation and argument in support of the application. Economic analyses, when required, shall include full explanatory details, including data sources and allocation methods. If the applicants intend to rely on public benefits to justify approval they shall describe these benefits, including foreign policy and comity considerations.

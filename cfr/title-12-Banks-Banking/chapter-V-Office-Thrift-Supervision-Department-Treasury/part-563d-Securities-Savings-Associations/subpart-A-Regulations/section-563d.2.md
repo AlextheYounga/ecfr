@@ -1,0 +1,5 @@
+##### § 563d.2 Mailing requirements for securities filings. #####
+
+Any savings association or other party required to file reports with the Business Transactions Division, as set forth in § 563d.1 of this part, shall file one of the required number of copies with the Regional Office of the Region in which the association is located or in the case of an association located in more than one Region, the Region where the association's home office is located. Such copies shall be marked to the attention of the Regional Director. The originally-signed copy and all remaining copies of each filing shall be sent to the Business Transactions Division by submitting such filings to the Securities Filing Desk at the address specified in § 563d.1 of this part. Copies sent to the Regional Offices shall be mailed on the same day as the original and remaining copies are forwarded to the Business Transactions Division.
+
+[55 FR 3041, Jan. 30, 1990, as amended at 60 FR 66718, Dec. 26, 1995; 66 FR 65821, Dec. 21, 2001]

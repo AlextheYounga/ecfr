@@ -1,0 +1,3 @@
+##### § 77.201-1 Tests for methane; qualified person; use of approved device. #####
+
+Tests for methane in structures, enclosures, or other facilities, in which coal is handled or stored shall be conducted by a qualified person with a device approved by the Secretary at least once during each operating shift, and immediately prior to any repair work in which welding or an open flame is used, or a spark may be produced.

@@ -1,0 +1,3 @@
+##### § 302.718 Filing. #####
+
+Any air carrier that is a party to a contract to which this subpart is applicable shall file three (3) copies of the contract in the Office of Aviation Analysis, X-50, Department of Transportation, Washington, DC 20590, not later than ninety (90) days before the effective date of the contract. A copy of such contract shall be served upon the persons specified in § 302.720 and the certificate of service shall specify the persons upon whom service has been made. One copy of each contract filed shall bear the certification of the secretary or other duly authorized officer of the filing air carrier to the effect that such copy is a true and complete copy of the original written instrument executed by the parties.

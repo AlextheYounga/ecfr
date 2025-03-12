@@ -1,0 +1,5 @@
+##### § 551.49 May a foreign manufacturer replace its agent? #####
+
+(a) Yes, a foreign manufacturer may replace its agent in the same way it originally designated the agent. It must submit designation documents that meet the form and content requirements identified in the following section of this subpart. Until NHTSA receives designation documents meeting those requirements or a letter withdrawing an existing designation, the individual or domestic corporation originally designated will continue to serve as its agent for service of process.
+
+(b) A foreign manufacturer that has withdrawn but not replaced its agent may not continue to import motor vehicles or motor vehicle equipment into the United States. In order to do so, it must appoint a new agent in accordance with the requirements of this subpart.

@@ -1,0 +1,3 @@
+##### § 76.1616 Contracts with local exchange carriers. #####
+
+Within 10 days of final execution of a contract permitting a local exchange carrier to use that part of the transmission facilities of a cable system extending from the last multi-user terminal to the premises of the end use, the parties shall submit a copy of such contract, along with an explanation of how such contract is reasonably limited in scope and duration, to the Commission for review. The parties shall serve a copy of this submission on the local franchising authority, along with a notice of the local franchising authority's right to file comments with the Commission consistent with § 76.7.

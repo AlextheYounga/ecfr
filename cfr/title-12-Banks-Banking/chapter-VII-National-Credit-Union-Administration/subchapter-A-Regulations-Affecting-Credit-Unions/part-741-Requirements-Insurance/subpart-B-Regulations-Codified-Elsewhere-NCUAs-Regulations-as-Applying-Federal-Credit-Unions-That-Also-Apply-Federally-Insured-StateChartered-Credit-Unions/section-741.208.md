@@ -1,0 +1,3 @@
+##### § 741.208 Mergers of federally insured credit unions: voluntary termination or conversion of insured status. #####
+
+Any credit union which is insured pursuant to title II of the Act and which merges with another credit union or non-credit union institution, and any state-chartered credit union which voluntarily terminates its status as a federally-insured credit union, or converts from federal insurance to other insurance from a government or private source authorized to insure member accounts, shall adhere to the applicable requirements stated in section 206 of the Act and parts 708a and 708b of this chapter concerning mergers and voluntary termination or conversion of insured status.

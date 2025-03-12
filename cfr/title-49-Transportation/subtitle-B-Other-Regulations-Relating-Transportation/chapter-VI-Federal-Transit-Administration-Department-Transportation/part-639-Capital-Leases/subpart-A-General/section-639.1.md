@@ -1,0 +1,5 @@
+##### § 639.1 General overview of this part. #####
+
+This part contains the requirements to qualify for capital assistance when leasing facilities or equipment under the Federal transit laws. This part is set out in four subparts, with subpart A containing general information on scope and definitions. Subpart B contains the principal requirements of this part, including eligibility requirements, the self-certification system used, and identification of the various forms of leases and grants that are eligible under the program. Subpart B also contains a section on other Federal requirements that may apply. Subpart C includes the actual calculations that each recipient should undertake before certifying that a lease is cost-effective. Finally, subpart D contains requirements on early lease termination and project management in general.
+
+[63 FR 68366, Dec. 10, 1998]

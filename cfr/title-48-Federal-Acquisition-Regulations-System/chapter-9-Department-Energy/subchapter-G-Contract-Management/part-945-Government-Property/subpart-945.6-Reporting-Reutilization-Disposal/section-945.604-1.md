@@ -1,0 +1,5 @@
+##### 945.604-1 Disposal methods. #####
+
+(b)(3) *Recovering precious metals.* Contractors generating contractor inventory containing precious metals or possessing precious metals excess to their programmatic requirements, shall identify and promptly report such items to the contracting officer for review, approval and reporting to the DOE Business Center for Precious Metals Sales & Recovery (Business Center). This includes Gold, Silver, Platinum, Rhodium, Palladium, Iridium, Osmium, and Ruthenium in any form, shape, concentration, or purity. Report all RCRA contaminated precious metals, but not radiological contaminated. The Y-12 NNSA Site Office is responsible for maintaining the DOE Business Center. Precious metals scrap will be reported to the DOE Business Center.
+
+(d) See 945.670 for DOE disposal methods.

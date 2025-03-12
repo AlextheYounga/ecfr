@@ -1,0 +1,3 @@
+##### § 22.26 Proposed findings, conclusions, and order. #####
+
+After the hearing, any party may file proposed findings of fact, conclusions of law, and a proposed order, together with briefs in support thereof. The Presiding Officer shall set a schedule for filing these documents and any reply briefs, but shall not require them before the last date for filing motions under § 22.25 to conform the transcript to the actual testimony. All submissions shall be in writing, shall be served upon all parties, and shall contain adequate references to the record and authorities relied on.

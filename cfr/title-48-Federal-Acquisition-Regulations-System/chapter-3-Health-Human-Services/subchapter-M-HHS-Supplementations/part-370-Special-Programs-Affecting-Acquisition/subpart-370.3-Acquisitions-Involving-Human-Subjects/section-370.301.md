@@ -1,0 +1,3 @@
+##### 370.301 Policy. #####
+
+It is the Department of Health and Human Services (HHS) policy that the contracting officer shall not award a contract involving human subjects until the prospective contractor provides assurance that the activity will undergo initial and continuing review by an appropriate Institutional Review Board (IRB) in accordance with HHS regulations at 45 CFR 46.103. The contracting officer shall require a Federal-wide assurance (FWA), approved by the HHS Office for Human Research Protections (OHRP), of each contractor, subcontractor, or institution engaged in human subjects research in performance of a contract. OHRP administers the assurance covering all HHS-supported or HHS-conducted activities involving human subjects.

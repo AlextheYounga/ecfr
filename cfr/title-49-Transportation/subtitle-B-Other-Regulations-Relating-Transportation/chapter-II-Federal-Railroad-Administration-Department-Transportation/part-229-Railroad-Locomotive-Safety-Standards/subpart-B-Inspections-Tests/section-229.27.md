@@ -1,0 +1,13 @@
+##### § 229.27 Annual tests. #####
+
+(a) All testing under this section shall be performed at intervals that do not exceed 368 calendar days.
+
+(b) Load meters that indicate current (amperage) being applied to traction motors shall be tested. Each device used by the engineer to aid in the control or braking of the train or locomotive that provides an indication of air pressure electronically shall be tested by comparison with a test gauge or self-test designed for this purpose. An error greater than five percent or greater than three pounds per square inch shall be corrected. The date and place of the test shall be recorded on Form FRA F 6180-49A, and the person conducting the test and that person's supervisor shall sign the form.
+
+(c) A microprocessor-based event recorder with a self-monitoring feature equipped to verify that all data elements required by this part are recorded, requires further maintenance and testing only if either of the following conditions exist:
+
+(1) The self-monitoring feature displays an indication of a failure. If a failure is displayed, further maintenance and testing must be performed until a subsequent test is successful. When a successful test is accomplished, a record, in any medium, shall be made of that fact and of any maintenance work necessary to achieve the successful result. This record shall be available at the location where the locomotive is maintained until a record of a subsequent successful test is filed; or,
+
+(2) A download of the event recorder, taken within the preceding 30 days and reviewed for the previous 48 hours of locomotive operation, reveals a failure to record a regularly recurring data element or reveals that any required data element is not representative of the actual operations of the locomotive during this time period. If the review is not successful, further maintenance and testing shall be performed until a subsequent test is successful. When a successful test is accomplished, a record, in any medium, shall be made of that fact and of any maintenance work necessary to achieve the successful result. This record shall be kept at the location where the locomotive is maintained until a record of a subsequent successful test is filed. The download shall be taken from information stored in the certified crashworthy crash hardened event recorder memory module if the locomotive is so equipped.
+
+[77 FR 21345, Apr. 9, 2012]

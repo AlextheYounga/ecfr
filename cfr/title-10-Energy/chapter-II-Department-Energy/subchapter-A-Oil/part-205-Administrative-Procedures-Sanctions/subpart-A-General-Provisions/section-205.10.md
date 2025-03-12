@@ -1,0 +1,3 @@
+##### § 205.10 Effective date of orders. #####
+
+Any order issued by the DOE or a State Office under this chapter is effective as against all persons having actual notice thereof upon issuance, in accordance with its terms, unless and until it is stayed, modified, suspended, or rescinded. An order is deemed to be issued on the date, as specified in the order, on which it is signed by an authorized representative of the DOE or a State Office, unless the order provides otherwise.

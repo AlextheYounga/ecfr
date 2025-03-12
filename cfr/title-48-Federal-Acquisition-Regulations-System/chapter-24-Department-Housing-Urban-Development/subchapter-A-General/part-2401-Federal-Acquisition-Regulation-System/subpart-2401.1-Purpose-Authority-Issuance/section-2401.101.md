@@ -1,0 +1,3 @@
+##### 2401.101 Purpose. #####
+
+The Department of Housing and Urban Development Acquisition Regulation is hereby established as chapter 24 of the Federal Acquisition Regulation System (48 CFR chapter 24). It is issued to provide uniform Departmental policies and procedures for the acquisition of supplies, personal property and non-personal services by the Department's contracting activities and to make these policies and procedures readily available to Departmental personnel and to the public.

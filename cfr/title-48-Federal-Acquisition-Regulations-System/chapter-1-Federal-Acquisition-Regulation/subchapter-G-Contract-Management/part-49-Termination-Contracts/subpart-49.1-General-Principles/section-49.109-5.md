@@ -1,0 +1,3 @@
+##### 49.109-5 Partial settlements. #####
+
+The TCO should attempt to settle in one agreement all rights and liabilities of the parties under the contract except those arising from any continued portion of the contract. Generally, the TCO shall not attempt to make partial settlements covering particular items of the prime contractor's settlement proposal. However, when a TCO cannot promptly complete settlement under the terminated contract, a partial settlement may be entered into if (a) the issues on which agreement has been reached are clearly severable from other issues and (b) the partial settlement will not prejudice the Government's or contractor's interests in disposing of the unsettled part of the settlement proposal.

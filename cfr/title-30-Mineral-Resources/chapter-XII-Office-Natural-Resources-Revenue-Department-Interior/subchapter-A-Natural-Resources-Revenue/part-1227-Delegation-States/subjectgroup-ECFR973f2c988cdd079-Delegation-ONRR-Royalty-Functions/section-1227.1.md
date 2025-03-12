@@ -1,0 +1,5 @@
+##### § 1227.1 What is the purpose of this part? #####
+
+This part provides procedures to delegate Federal royalty management functions to States under section 205 of the Federal Oil and Gas Royalty Management Act of 1982 (the Act), 30 U.S.C. 1735, as amended by the Federal Oil and Gas Royalty Simplification and Fairness Act of 1996, Pub. L. 104-185, August 13, 1996, as corrected by Pub. L. 104-200. This part also provides procedures to delegate only audit and investigation functions to States under Pub. L. 102-154 for solid mineral leases, geothermal leases and leases subject to section 8(g) of the Outer Continental Shelf Lands Act, 43 U.S.C. 1337(g). This part does not apply to any inspection or enforcement responsibilities of the Bureau of Land Management for onshore leases or the ONRR Offshore Minerals Management program for leases on the Outer Continental Shelf.
+
+[62 FR 43084, Aug. 12, 1997, as amended at 75 FR 61087, Oct. 4, 2010]

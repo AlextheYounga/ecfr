@@ -1,0 +1,5 @@
+##### § 1113.13 Filing evidence subsequent to hearing; copies. #####
+
+Except as provided in this section or as expressly may be permitted in a particular instance, the Board will not receive in evidence or consider as part of the record any documents, letters, or other writings submitted for consideration in connection with any proceeding after close of the hearing, and may return any such documents to the sender. Before the close of a hearing the officer may, at the request of a party or upon his own motion, or upon agreement of the parties, require that a party furnish additional documentary evidence that supplements the existing record, within a stated period of time. Documentary evidence to be furnished in this way will be given an exhibit number at the time of filing and the parties advised accordingly. Unless otherwise directed by the officer, the original and 10 copies of such submission should be filed with the Board.
+
+[47 FR 49559, Nov. 1, 1982, as amended at 53 FR 19301, May 27, 1988; 61 FR 52712, Oct. 8, 1996]

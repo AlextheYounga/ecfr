@@ -1,0 +1,3 @@
+##### § 27.1135 Protection of non-Federal Government Meteorological-Satellite operations. #####
+
+AWS licensees operating fixed stations in the 1710-1755 MHz band, if notified that such stations are causing interference to meteorological-satellite earth receivers operating in the Meteorological-Satellite Service in the 1675-1710 MHz band, shall be required to modify the stations' location and/or technical parameters as necessary to eliminate the interference.

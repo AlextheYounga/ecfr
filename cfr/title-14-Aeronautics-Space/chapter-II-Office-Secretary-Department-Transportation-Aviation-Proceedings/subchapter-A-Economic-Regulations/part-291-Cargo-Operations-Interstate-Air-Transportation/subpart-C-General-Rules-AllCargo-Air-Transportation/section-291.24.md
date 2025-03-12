@@ -1,0 +1,5 @@
+##### § 291.24 Waiver of Department Economic Regulations. #####
+
+Except for this part and those parts of the Department's Economic Regulations (parts 200 through 299 of this title) specifically referred to in this part, carriers providing cargo operations in interstate air transportation are, with respect to that transportation, relieved from all obligations imposed on air carriers by those economic regulations. Flights operated entirely within interstate air transportation shall be free from those obligations, even though they may also carry shipments to or from points outside that geographic area. This waiver shall not apply to the requirements of part 239 of this title.
+
+[ER-1080, 43 FR 53635, Nov. 16, 1978, as amended by Doc. No. 47582, 57 FR 38770, Aug. 27, 1992; 60 FR 43526, Aug. 22, 1995]

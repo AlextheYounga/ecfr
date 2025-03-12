@@ -1,0 +1,5 @@
+##### 1215.606 Agency procedures. #####
+
+(a) The Chief of the Contracting Office is responsible for establishing procedures for controlling unsolicited proposals received in the contracting office. Within ten working days after receipt of an unsolicited proposal, the contracting office shall review the proposal and determine whether the proposal meets the content and marking requirements of (FAR) 48 CFR 15.6. If the proposal does not meet these requirements, it shall be returned to the submitter giving the reasons for noncompliance.
+
+(b) The OA contracting office is the designated point of contact for receipt and handling of unsolicited proposals. Persons within DOT who receive unsolicited proposals, such as technical personnel, shall forward the document to their responsible contracting office.

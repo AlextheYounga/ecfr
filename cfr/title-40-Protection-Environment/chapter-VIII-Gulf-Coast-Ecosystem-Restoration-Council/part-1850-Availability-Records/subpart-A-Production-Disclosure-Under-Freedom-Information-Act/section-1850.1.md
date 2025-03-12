@@ -1,0 +1,7 @@
+##### § 1850.1 Purpose and scope. #####
+
+This subpart contains the regulations of the Gulf Coast Ecosystem Restoration Council (Council) implementing the Freedom of Information Act (FOIA) (5 U.S.C. 552), as amended. These regulations supplement the FOIA, which provides more detail regarding requesters' rights and the records the Council may release.
+
+The regulations of this subpart provide information concerning the procedures by which records may be obtained from the Council. Official records of the Council made available pursuant to the requirements of the FOIA shall be furnished to members of the public only as prescribed by this subpart. Information routinely provided to the public as part of a regular Council activity (for example, press releases) may be provided to the public without following this subpart.
+
+The FOIA applies to third-party requests for documents concerning the general activities of the Government, and of the Council in particular. When a U.S. citizen or an individual lawfully admitted for permanent residence requests access to his or her own records, he/she is making a first-person Privacy Act request, not a FOIA request, subject to subpart B of these rules. The Council maintains records about individuals under the individual's name or personal identifier. Although the Council determines whether a request is a FOIA request or a Privacy Act request, the Council processes requests in accordance with both laws. This provides the greatest degree of lawful access to requesters while safeguarding individuals' personal privacy.

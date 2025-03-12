@@ -1,0 +1,3 @@
+##### § 1081.101 Expedition and fairness of proceedings. #####
+
+To the extent practicable, consistent with requirements of law, the Bureau's policy is to conduct such adjudication proceedings fairly and expeditiously. In the conduct of such proceedings, the hearing officer and counsel for all parties shall make every effort at each stage of a proceeding to avoid delay. With the consent of the parties, the Director, at any time, or the hearing officer at any time prior to the filing of his or her recommended decision, may shorten any time limit prescribed by this part.

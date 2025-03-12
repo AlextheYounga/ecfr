@@ -1,0 +1,3 @@
+##### § 801.22 Final determination. #####
+
+Requesters seeking an appeal of the FOIA Officer's initial determination must send a written appeal to the NTSB's Managing Director within 20 days. The NTSB's Managing Director will determine whether to grant or deny any appeal made pursuant to § 801.21 within 20 working days (excluding Saturdays, Sundays, and legal public holidays) after receipt of such appeal, except that this time limit may be extended for as many as 10 additional working days, in accordance with § 801.23.

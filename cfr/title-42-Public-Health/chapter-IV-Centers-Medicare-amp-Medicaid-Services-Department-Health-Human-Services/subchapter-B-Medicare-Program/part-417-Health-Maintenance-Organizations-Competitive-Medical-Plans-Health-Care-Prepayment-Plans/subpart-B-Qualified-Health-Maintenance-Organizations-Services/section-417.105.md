@@ -1,0 +1,7 @@
+##### § 417.105 Payment for supplemental health services. #####
+
+(a) An HMO may require supplemental health services payments, in addition to the basic health services payments, for the provision of each health service included in the supplemental health services set forth in § 417.102 for which subscribers have contracted, or it may include supplemental health services in the basic health services provided its enrollees for a basic health services payment.
+
+(b) Supplemental health services payments may be made in any agreed upon manner, such as prepayment or fee-for-service. Supplemental health services payments that are fixed on a prepayment basis, however, must be fixed under a community rating system, unless the supplemental health services payment is for a supplemental health service provided an enrollee who is a full-time student at an accredited institution of higher education. In the case of an HMO that provided comprehensive health services on a prepaid basis before it became a qualifed HMO, the community rating requirement shall not apply to that HMO during the forty-eight month period beginning with the month following the month in which it became a qualifed HMO.
+
+(Sec. 215 of the Public Health Service Act, as amended, 58 Stat. 690, 67 Stat. 631 (42 U.S.C. 216); secs. 1301-1318, as amended, Pub. L. 97-35, 95 Stat. 572-578 (42 U.S.C. 300e-300e-17)[45 FR 72528, Oct. 31, 1980, as amended at 50 FR 6175, Feb. 14, 1985. Redesignated at 52 FR 36746, Sept. 30, 1987, as amended at 58 FR 38082, 38083, July 15, 1993]

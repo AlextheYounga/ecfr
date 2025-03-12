@@ -1,0 +1,7 @@
+##### § 63.486 Batch front-end process vent provisions. #####
+
+(a) *Batch front-end process vents.* Except as specified in paragraph (b) of this section, owners and operators of new and existing affected sources with batch front-end process vents shall comply with the requirements in §§ 63.487 through 63.492. The batch front-end process vent group status shall be determined in accordance with § 63.488. Owners or operators of affected sources with batch front-end process vents classified as Group 1 shall comply with the reference control technology requirements for Group 1 batch front-end process vents in § 63.487, the monitoring requirements in § 63.489, the performance test methods and procedures to determine compliance in § 63.490, the recordkeeping requirements in § 63.491, and the reporting requirements in § 63.492. Owners and operators of all Group 2 batch front-end process vents shall comply with the applicable reference control technology requirements in § 63.487, the applicable recordkeeping requirements in § 63.491, and the applicable reporting requirements in § 63.492.
+
+(b) *Aggregate batch vent streams.* Aggregate batch vent streams, as defined in § 63.482, are subject to the control requirements specified in § 63.487(b), as well as the monitoring, testing, recordkeeping, and reporting requirements specified in §§ 63.489 through 63.492 for aggregate batch vent streams.
+
+[65 FR 38052, June 19, 2000]

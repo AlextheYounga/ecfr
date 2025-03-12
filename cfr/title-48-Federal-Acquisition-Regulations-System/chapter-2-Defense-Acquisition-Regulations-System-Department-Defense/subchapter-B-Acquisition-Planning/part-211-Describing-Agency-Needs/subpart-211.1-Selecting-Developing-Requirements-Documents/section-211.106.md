@@ -1,0 +1,5 @@
+##### 211.106 Purchase descriptions for service contracts. #####
+
+Agencies shall require that purchase descriptions for service contracts and resulting requirements documents, such as statements of work or performance work statements, include language to provide a clear distinction between Government employees and contractor employees. Agencies shall be guided by the characteristics and descriptive elements of personal-services contracts at FAR 37.104. Service contracts shall require contractor employees to identify themselves as contractor personnel by introducing themselves or being introduced as contractor personnel and displaying distinguishing badges or other visible identification for meetings with Government personnel. In addition, contracts shall require contractor personnel to appropriately identify themselves as contractor employees in telephone conversations and in formal and informal written correspondence.
+
+[76 FR 25566, May 5, 2011]

@@ -1,0 +1,3 @@
+##### § 77.2 General. #####
+
+Part 72 of this chapter, including §§ 72.2 (definitions), 72.3 (measurements, abbreviations, and acronyms), 72.4 (Federal authority), 72.5 (State authority), 72.6 (applicability), 72.7 (new units exemption), 72.8 (retired units exemption), 72.9 (standard requirements), 72.10 (availability of information), and 72.11 (computation of time), shall apply to this part. The procedures for appeals of decisions of the Administrator under this part are contained in part 78 of this chapter.

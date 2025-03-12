@@ -1,0 +1,7 @@
+##### § 230.89 Reverse gear. #####
+
+(a) *General provisions.* Reverse gear, reverse levers, and quadrants shall be maintained in a safe and suitable condition for service. Reverse lever latch shall be so arranged that it can be easily disengaged, and provided with a spring which will keep it firmly seated in quadrant. Proper counterbalance shall be provided for the valve gear.
+
+(b) *Air-operated power reverse gear.* Steam locomotives that are equipped with air operated power reverse gear shall be equipped with a connection whereby such gear may be operated by steam or by an auxiliary supply of air in case of failure of the main reservoir air pressure. The operating valve handle for such connection shall be conveniently located in the cab of the locomotive and shall be plainly marked. If an independent air reservoir is used as the source of the auxiliary supply for the reverse gear, it shall be provided with means to automatically prevent loss of pressure in event of failure of the main reservoir air pressure.
+
+(c) *Power reverse gear reservoirs.* Power reverse gear reservoirs, if provided, must be equipped with the means to automatically prevent the loss of pressure in the event of a failure of main air pressure and have storage capacity for not less than one complete operating cycle of control equipment.

@@ -1,0 +1,3 @@
+##### § 557.1 Scope. #####
+
+This part establishes procedures under section 156 of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (88 Stat. 1470, 15 U.S.C. 1416), for the submission and disposition of petitions filed by interested persons for hearings on the question of whether a manufacturer has reasonably met his obligation to notify owners, purchasers, and dealers of a safety-related defect or failure to comply with a Federal motor vehicle safety standard, or to remedy such defect or failure to comply. This part also establishes procedures for holding a hearing on these questions.

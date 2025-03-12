@@ -1,0 +1,5 @@
+##### § 54.708 De minimis exemption. #####
+
+If a contributor's contribution to universal service in any given year is less than $10,000 that contributor will not be required to submit a contribution or Telecommunications Reporting Worksheet for that year unless it is required to do so to by our rules governing Telecommunications Relay Service (47 CFR 64.601 *et seq.* of this chapter), numbering administration (47 CFR 52.1 *et seq.* of this chapter), or shared costs of local number portability (47 CFR 52.21 *et seq.* of this chapter). The foregoing notwithstanding, all interconnected VoIP providers, including those whose contributions would be *de minimis*, must file the Telecommunications Reporting Worksheet. If a contributor improperly claims exemption from the contribution requirement, it will subject to the criminal provisions of sections 220(d) and (e) of the Act regarding willful false submissions and will be required to pay the amounts withheld plus interest.
+
+[64 FR 41331, July 30, 1999, as amended at 71 FR 38797, July 10, 2006]

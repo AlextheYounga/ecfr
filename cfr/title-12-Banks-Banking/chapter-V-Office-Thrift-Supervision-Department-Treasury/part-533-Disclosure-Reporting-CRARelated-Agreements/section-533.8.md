@@ -1,0 +1,3 @@
+##### § 533.8 Release of information under FOIA. #####
+
+OTS will make covered agreements and annual reports available to the public in accordance with the Freedom of Information Act (5 U.S.C. 552 *et seq.*), OTS's rules (part 505 of this chapter), and the Department of Treasury's rules (31 CFR part 1). A party to a covered agreement may request confidential treatment of proprietary and confidential information in a covered agreement or an annual report under those procedures.

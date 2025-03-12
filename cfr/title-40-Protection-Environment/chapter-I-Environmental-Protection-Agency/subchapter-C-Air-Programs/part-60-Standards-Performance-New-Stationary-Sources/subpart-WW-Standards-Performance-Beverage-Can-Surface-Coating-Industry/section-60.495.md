@@ -1,0 +1,25 @@
+##### § 60.495 Reporting and recordkeeping requirements. #####
+
+(a) The owner or operator of an affected facility shall include the following data in the initial compliance report required under § 60.8(a).
+
+(1) Where only coatings which individually have a VOC content equal to or less than the limits specified under § 60.492 are used, and no VOC is added to the coating during the application or distribution process, the owner or operator shall provide a list of the coatings used for each affected facility and the VOC content of each coating calculated from data determined using Method 24 or supplied by the manufacturers of the coatings.
+
+(2) Where one or more coatings which individually have a VOC content greater than the limits specified under § 60.492 are used or where VOC are added or used in the coating process, the owner or operator shall report for each affected facility the volume-weighted average of the total mass of VOC per volume of coating solids.
+
+(3) Where compliance is achieved through the use of incineration, the owner or operator shall include in the initial performance test required under § 60.8(a) the combustion temperature (or the gas temperature upstream and downstream of the catalyst bed), the total mass of VOC per volume of coating solids before and after the incinerator, capture efficiency, and the destruction efficiency of the incinerator used to attain compliance with the applicable emission limit specified under § 60.492. The owner or operator shall also include a description of the method used to establish the amount of VOC captured by the capture system and sent to the control device.
+
+(b) Following the initial performance test, each owner or operator shall identify, record, and submit quarterly reports to the Administrator of each instance in which the volume-weighted average of the total mass of VOC per volume of coating solids, after the control device, if capture devices and control systems are used, is greater than the limit specified under § 60.492. If no such instances occur during a particular quarter, a report stating this shall be submitted to the Administrator semiannually.
+
+(c) Following the initial performance test, the owner or operator of an affected facility shall identify, record, and submit at the frequency specified in § 60.7(c) the following:
+
+(1) Where compliance with § 60.492 is achieved through the use of thermal incineration, each 3-hour period when cans are processed, during which the average temperature of the device was more than 28 °C below the average temperature of the device during the most recent performance test at which destruction efficiency was determined as specified under § 60.493.
+
+(2) Where compliance with § 60.492 is achieved through the use of catalytic incineration, each 3-hour period when cans are being processed, during which the average temperature of the device immediately before the catalyst bed is more than 28 °C below the average temperature of the device immediately before the catalyst bed during the most recent performance test at which destruction efficiency was determined as specified under § 60.493 and all 3-hour periods, when cans are being processed, during which the average temperature difference across the catalyst bed is less than 80 percent of the average temperature difference across the catalyst bed during the most recent performance test at which destruction efficiency was determined as specified under § 60.494.
+
+(3) For thermal and catalytic incinerators, if no such periods as described in paragraphs (c)(1) and (c)(2) of this section occur, the owner or operator shall state this in the report.
+
+(d) Each owner or operator subject to the provisions of this subpart shall maintain at the source, for a period of at least 2 years, records of all data and calculations used to determine VOC emissions from each affected facility in the initial and monthly performance tests. Where compliance is achieved through the use of thermal incineration, each owner or operator shall maintain, at the source, daily records of the incinerator combustion chamber temperature. If catalytic incineration is used, the owner or operator shall maintain at the source daily records of the gas temperature, both upstream and downstream of the incinerator catalyst bed. Where compliance is achieved through the use of a solvent recovery system, the owner or operator shall maintain at the source daily records of the amount of solvent recovered by the system for each affected facility.
+
+(e) The requirements of this section remain in force until and unless EPA, in delegating enforcement authority to a State under section 111(c) of the Act, approves reporting requirements or an alternative means of compliance surveillance adopted by such State. In that event, affected facilities within the State will be relieved of the obligation to comply with this subsection, provided that they comply with the requirements established by the State.
+
+[47 FR 49612, Nov. 1, 1982, as amended at 55 FR 51384, Dec. 13, 1990; 65 FR 61763, Oct. 17, 2000]

@@ -1,0 +1,3 @@
+##### § 35.22 Attendants. #####
+
+Patients shall be transferred by such means and accompanied by such medical, nursing, or other attendants as may be necessary to protect the health and safety of the patient and other persons likely to come into contact with him, including in the case of a prisoner such guards as may be necessary to assure his safekeeping. A female patient requiring the services of attendants shall be accompanied by at least one female attendant. Medical or nursing attendants shall be qualified to care for persons suffering from the type of disease or disorder with which the patient is afflicted and shall be provided with equipment and medicines necessary for the care of the patient.

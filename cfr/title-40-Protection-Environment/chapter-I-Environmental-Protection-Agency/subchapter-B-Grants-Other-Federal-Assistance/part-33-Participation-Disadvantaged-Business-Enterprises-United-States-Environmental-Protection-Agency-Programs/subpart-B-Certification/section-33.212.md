@@ -1,0 +1,3 @@
+##### § 33.212 What conduct is prohibited by this subpart? #####
+
+An entity that does not meet the eligibility criteria of this subpart may not attempt to participate as an MBE or WBE in contracts awarded under EPA financial assistance agreements or be counted as such by an EPA recipient. An entity that submits false, fraudulent, or deceitful statements or representations, or indicates a serious lack of business integrity or honesty, may be subject to sanctions under § 33.105.

@@ -1,0 +1,3 @@
+##### § 625.1 Application and purpose. #####
+
+This part shall apply to all price competitive sales of SPR petroleum by DOE. This section provides the rules for developing standard contract terms and conditions and financial and performance responsibility measures; notifying potential purchasers of those terms, conditions and measures; choosing applicable terms, conditions and measures for each sale of SPR petroleum; and notifying potential purchasers of which terms, conditions and measures will be applicable to particular sales of SPR petroleum.

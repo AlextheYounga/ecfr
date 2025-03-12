@@ -1,0 +1,3 @@
+##### § 441.350 Basis and purpose. #####
+
+Section 1915(d) of the Act permits States to offer, under a waiver of statutory requirements, home and community-based services not otherwise available under Medicaid to individuals age 65 or older, in exchange for accepting an aggregate limit on the amount of expenditures for which they claim FFP for certain services furnished to these individuals. The home and community-based services that may be furnished are listed in § 440.181 of this subchapter. This subpart describes the procedures the Medicaid agency must follow to request a waiver.

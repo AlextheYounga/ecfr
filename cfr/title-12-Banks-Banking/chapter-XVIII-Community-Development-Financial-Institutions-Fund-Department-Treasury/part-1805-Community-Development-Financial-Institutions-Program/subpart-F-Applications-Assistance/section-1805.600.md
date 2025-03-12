@@ -1,0 +1,3 @@
+##### § 1805.600 Notice of Funds Availability. #####
+
+Each Applicant shall submit an application for financial or technical assistance under this part in accordance with the applicable Notice of Funds Availability published in the Federal Register. The Notice of Funds Availability will advise prospective Applicants on how to obtain an application packet and will establish deadlines and other requirements. The Notice of Funds Availability may specify the application scoring criteria and any limitations, special rules, procedures, and restrictions for a particular funding round. After receipt of an application, the CDFI Fund may request clarifying or technical information on the materials submitted as part of such application.

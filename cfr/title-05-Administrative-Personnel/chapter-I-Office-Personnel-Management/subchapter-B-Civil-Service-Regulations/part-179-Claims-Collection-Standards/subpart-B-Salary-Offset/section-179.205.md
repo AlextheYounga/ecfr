@@ -1,0 +1,3 @@
+##### § 179.205 Waiver requests and claims to the General Accounting Office. #####
+
+These regulations do not preclude an employee from requesting waiver of an overpayment under 5 U.S.C. 5584, 10 U.S.C. 2774, 32 U.S.C. 716, or in any way questioning the amount or validity of a debt by submitting a subsequent claim to the General Accounting Office in accordance with the procedures prescribed by the General Accounting Office. These regulations do not preclude an employee from requesting a waiver pursuant to other statutory provisions pertaining to the particular debt being collected.

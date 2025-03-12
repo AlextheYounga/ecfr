@@ -1,0 +1,3 @@
+##### § 435.60 Applicability; description of the stripper subcategory. #####
+
+The provisions of this subpart are applicable to those onshore facilities which produce 10 barrels per well per calendar day or less of crude oil and which are operating at the maximum feasible rate of production and in accordance with recognized conservation practices. These facilities are engaged in production, and well treatment in the oil and gas extraction industry.

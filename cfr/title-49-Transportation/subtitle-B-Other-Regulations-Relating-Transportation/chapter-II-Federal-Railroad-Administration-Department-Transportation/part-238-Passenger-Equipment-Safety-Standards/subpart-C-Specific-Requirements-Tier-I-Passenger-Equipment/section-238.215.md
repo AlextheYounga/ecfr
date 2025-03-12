@@ -1,0 +1,5 @@
+##### § 238.215 Rollover strength. #####
+
+(a) Each passenger car shall be designed to rest on its side and be uniformly supported at the top (“roof rail”), the bottom cords (“side sill”) of the side frame, and, if bi-level, the intermediate floor rail. The allowable stress in the structural members of the occupied volumes for this condition shall be one-half yield or one-half the critical buckling stress, whichever is less. Local yielding to the outer skin of the passenger car is allowed provided that the resulting deformations in no way intrude upon the occupied volume of the car.
+
+(b) Each passenger car shall also be designed to rest on its roof so that any damage in occupied areas is limited to roof sheathing and framing. Other than roof sheathing and framing, the allowable stress in the structural members of the occupied volumes for this condition shall be one-half yield or one-half the critical buckling stress, whichever is less. Deformation to the roof sheathing and framing is allowed to the extent necessary to permit the vehicle to be supported directly on the top chords of the side frames and end frames.

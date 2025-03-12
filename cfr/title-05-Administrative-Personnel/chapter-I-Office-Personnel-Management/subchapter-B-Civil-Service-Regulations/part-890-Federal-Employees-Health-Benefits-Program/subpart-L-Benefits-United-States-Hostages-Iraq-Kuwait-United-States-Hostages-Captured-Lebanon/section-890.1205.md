@@ -1,0 +1,9 @@
+##### § 890.1205 Change in type of enrollment. #####
+
+(a) Individuals covered under this subpart or eligible survivors enrolled under this subpart may increase enrollment type if they acquire an eligible family member. The change may be made at the written request of the enrollee at any time after the family member is acquired. An increase in enrollment type under this paragraph (a) becomes effective on the 1st day of the pay period after the pay period during which the request is received by the U.S. Department of State, except that a change based on the birth or addition of a child as a new family member is effective on the 1st day of the pay period during which the child is born or otherwise becomes a new family member.
+
+(b) Individuals covered under this subpart or eligible survivors enrolled under this subpart may decrease enrollment type from a self and family enrollment when the last eligible family member (other than the enrollee) ceases to be a family member or only one family member remains; and may decrease enrollment type from a self plus one enrollment when no family member remains. The change may be made at the written request of the enrollee at any time after the last family member is lost and it becomes effective on the 1st day of the pay period after the pay period during which the request is received by the U.S. Department of State.
+
+(c) A family member may file a request to change the type of enrollment on behalf of a hostage during the period of hostage status or on behalf of an eligible former hostage who cannot file the election on his or her own behalf because of a mental or physical disability.
+
+[55 FR 50537, Dec. 7, 1990, as amended at 80 FR 55738, Sept. 17, 2015]

@@ -1,0 +1,3 @@
+##### § 724.401 Purpose and scope. #####
+
+This subpart implements Title II of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 concerning the obligation of the President or his designee (OPM) to conduct a comprehensive study of best practices in the executive branch for taking disciplinary actions against employees for conduct that is inconsistent with Federal Antidiscrimination and Whistleblower Protection Laws and the obligation to issue advisory guidelines for agencies to follow in taking appropriate disciplinary actions in such circumstances.

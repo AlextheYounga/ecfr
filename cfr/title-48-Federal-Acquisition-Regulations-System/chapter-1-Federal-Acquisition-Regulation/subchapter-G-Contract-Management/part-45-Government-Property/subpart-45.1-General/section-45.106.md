@@ -1,0 +1,3 @@
+##### 45.106 Transferring accountability. #####
+
+Government property shall be transferred from one contract to another only when firm requirements exist under the gaining contract (see 45.102). Such transfers shall be documented by modifications to both gaining and losing contracts. Once transferred, all property shall be considered Government-furnished property to the gaining contract. The warranties of suitability of use and timely delivery of Government-furnished property do not apply to property acquired or fabricated by the contractor as contractor-acquired property that is subsequently transferred to another contract with the same contractor.

@@ -1,0 +1,3 @@
+##### § 1081.213 Partial summary disposition. #####
+
+If on a motion for summary disposition under § 1081.212 a decision is not rendered upon the whole case or for all the relief asked and a hearing is necessary, the hearing officer shall issue an order specifying the facts that appear without substantial controversy and directing further proceedings in the action. The facts so specified shall be deemed established.

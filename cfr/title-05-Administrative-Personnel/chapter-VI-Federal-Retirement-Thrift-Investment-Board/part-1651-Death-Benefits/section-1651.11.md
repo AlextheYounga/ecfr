@@ -1,0 +1,3 @@
+##### § 1651.11 Simultaneous death. #####
+
+If a beneficiary dies at the same time as the participant, the beneficiary will be treated as if he or she predeceased the participant and the account will be paid in accordance with § 1651.10. The same time is considered to be the same hour and minute as indicated on a death certificate. If the participant and beneficiary are killed in the same event, death is presumed to be simultaneous, unless evidence is presented to the contrary.

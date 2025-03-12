@@ -1,0 +1,5 @@
+##### § 37.51 Maintenance and testing. #####
+
+(a) Each licensee subject to this subpart shall implement a maintenance and testing program to ensure that intrusion alarms, associated communication systems, and other physical components of the systems used to secure or detect unauthorized access to radioactive material are maintained in operable condition and are capable of performing their intended function when needed. The equipment relied on to meet the security requirements of this part must be inspected and tested for operability and performance at the manufacturer's suggested frequency. If there is no suggested manufacturer's suggested frequency, the testing must be performed at least annually, not to exceed 12 months.
+
+(b) The licensee shall maintain records on the maintenance and testing activities for 3 years.

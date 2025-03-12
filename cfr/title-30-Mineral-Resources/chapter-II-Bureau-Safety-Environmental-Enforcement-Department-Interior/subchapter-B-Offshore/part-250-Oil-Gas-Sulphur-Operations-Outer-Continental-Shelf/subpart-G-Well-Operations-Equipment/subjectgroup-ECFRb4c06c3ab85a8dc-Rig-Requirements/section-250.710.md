@@ -1,0 +1,7 @@
+##### § 250.710 What instructions must be given to personnel engaged in well operations? #####
+
+Prior to engaging in well operations, personnel must be instructed in:
+
+(a) *Hazards and safety requirements.* You must instruct your personnel regarding the safety requirements for the operations to be performed, possible hazards to be encountered, and general safety considerations to protect personnel, equipment, and the environment as required by subpart S of this part. The date and time of safety meetings must be recorded and available at the facility for review by BSEE representatives.
+
+(b) *Well control.* You must prepare a well-control plan for each well. Each well-control plan must contain instructions for personnel about the use of each well-control component of your BOP, procedures that describe how personnel will seal the wellbore and shear pipe before maximum anticipated surface pressure (MASP) conditions are exceeded, assignments for each crew member, and a schedule for completion of each assignment. You must keep a copy of your well-control plan on the rig at all times, and make it available to BSEE upon request. You must post a copy of the well-control plan on the rig floor.

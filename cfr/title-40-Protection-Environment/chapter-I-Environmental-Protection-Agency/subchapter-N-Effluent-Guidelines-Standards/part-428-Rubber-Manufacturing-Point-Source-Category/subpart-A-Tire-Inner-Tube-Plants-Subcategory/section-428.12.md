@@ -1,0 +1,24 @@
+##### § 428.12 Effluent limitations guidelines representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available. #####
+
+(a) Except as provided in §§ 125.30 through 125.32, any existing point source subject to this subpart shall achieve the following effluent limitations representing the degree of effluent reduction attainable by the application of the best practicable control technology currently available (BPT):
+
+|         Effluent characteristic         |                      Effluent limitations                       |              |
+|-----------------------------------------|-----------------------------------------------------------------|--------------|
+|          Maximum for any 1 day          |Average of daily values for 30 consecutive days shall not exceed—|              |
+|                                         |              Metric units (kg/kkg of raw material)              |              |
+|                   TSS                   |                              0.096                              |    0.064     |
+|             Oil and grease              |                              0.024                              |     .016     |
+|                   pH                    |                         (<sup>1</sup>)                          |(<sup>1</sup>)|
+|                                         |           English units (lb/1,000 lb of raw material)           |              |
+|                   TSS                   |                              0.096                              |    0.064     |
+|             Oil and grease              |                              0.024                              |     .016     |
+|                   pH                    |                         (<sup>1</sup>)                          |(<sup>1</sup>)|
+|<sup>1</sup> Within the range 6.0 to 9.0.|                                                                 |              |
+
+(b) All plants constructed before 1959 shall employ the best practicable maintenance and housekeeping practices in order to minimize the discharge of oil and grease in nonprocess waste waters. The concentration of oil and grease in discharges of nonprocess waste water shall meet the following limitations:
+
+(1) The average of daily values for 30 consecutive days shall not exceed 5 mg/l.
+
+(2) The maximum for any one day shall not exceed 10 mg/l.
+
+[39 FR 6662, Feb. 21, 1974; 39 FR 26423, July 19, 1974, as amended at 40 FR 18173, Apr. 25, 1975; 60 FR 33963, June 29, 1995]

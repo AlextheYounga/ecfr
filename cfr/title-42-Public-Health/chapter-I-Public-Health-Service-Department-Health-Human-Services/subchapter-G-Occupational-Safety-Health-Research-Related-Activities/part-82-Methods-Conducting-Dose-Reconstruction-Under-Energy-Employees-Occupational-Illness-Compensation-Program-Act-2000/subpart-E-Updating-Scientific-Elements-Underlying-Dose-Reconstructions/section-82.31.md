@@ -1,0 +1,5 @@
+##### § 82.31 How can the public recommend changes to scientific elements underlying the dose reconstruction process? #####
+
+(a) At any time, the public can submit written recommendations to NIOSH for changes to scientific elements underlying the dose reconstruction process, based on relevant new research findings and technological advances. NIOSH will provide these recommendations to the Advisory Board on Radiation and Worker Health to be addressed at a public meeting of the Advisory Board, with notification provided to the source of the recommendations. Recommendations should be addressed to: Director, Office of Compensation Analysis and Support, National Institute for Occupational Safety and Health, 4676 Columbia Parkway, MS-R45, Cincinnati, Ohio 45226.
+
+(b) The public can also submit recommendations by e-mail. Instructions will be provided on the NIOSH Internet homepage at *www.cdc.gov/niosh/ocas.*

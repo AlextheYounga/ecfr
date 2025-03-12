@@ -1,0 +1,3 @@
+##### § 614.4600 Insolvency of an OFI. #####
+
+If an OFI that is indebted to a Farm Credit Bank or agricultural credit bank becomes insolvent, is in process of liquidation, or fails to service its loans properly, the Farm Credit Bank or agricultural credit bank may take over such loans and other assets that the OFI pledged as collateral. Once the Farm Credit Bank or agricultural credit bank exercises its remedies, it shall have the authority to make additional advances, to grant renewals and extensions, and to take such other actions as may be necessary to collect and service loans to the OFI's borrower. The funding Farm Credit Bank or agricultural credit bank may also liquidate the OFI's loans and other assets in order to achieve repayment of the debt.

@@ -1,0 +1,3 @@
+##### § 64.1513 Verification of charitable status. #####
+
+Any common carrier assigning a telephone number to a provider of interstate pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain verification that the entity or individual for whom contributions are solicited has been granted tax exempt status by the Internal Revenue Service.

@@ -1,0 +1,101 @@
+##### § 412.534 Special payment provisions for long-term care hospitals-within-hospitals and satellites of long-term care hospitals, effective for discharges occurring in cost reporting periods beginning on or before September 30, 2016. #####
+
+(a) *Scope.* Except as provided in paragraph (h), the policies set forth in this section apply to discharges occurring in cost reporting periods beginning on or after October 1, 2004 from long-term care hospitals as described in § 412.23(e)(2)(i) meeting the criteria in § 412.22(e)(2), or satellite facilities of long-term care hospitals that meet the criteria in § 412.22(h).
+
+(b) *Patients admitted from hospitals not located in the same building or on the same campus as the long-term care hospital or long-term care hospital satellite*—(1) *For cost reporting periods beginning on or after October 1, 2004 and before July 1, 2007.* Payments to the long-term care hospital as described in § 412.23(e)(2)(i) meeting the criteria in § 412.22(e)(2) for patients admitted to the long-term care hospital or to a long-term care hospital satellite facility as described in § 412.23(e)(2)(i) that meets the criteria of § 412.22(h) from another hospital that is not the co-located hospital are made under the rules in this subpart with no adjustment under this section.
+
+(2) *For cost reporting periods beginning on or after July 1, 2007.* For cost reporting periods beginning on or after July 1, 2007, payments to one of the following long-term care hospitals or long-term care hospital satellites are subject to the provisions of § 412.536 of this subpart:
+
+(i) A long-term care hospital as described in § 412.23(e)(2)(i) of this part that meets the criteria of § 412.22(e) of this part.
+
+(ii) Except as provided in paragraph (h) of this section, a long-term care hospital as described in § 412.23(e)(2)(i) of this part that meets the criteria of § 412.22(f) of this part.
+
+(iii) A long-term care hospital satellite facility as described in § 412.23(e)(2)(i) of this part that meets the criteria in § 412.22(h) or § 412.22(h)(3)(i) of this part.
+
+(c) *Patients admitted from the hospital located in the same building or on the same campus as the long-term care hospital or satellite facility.* Except for a long-term care hospital or a long-term care hospital satellite facility that meets the requirements of paragraphs (d) or (e) of this section, payments to the long-term care hospital for patients admitted to it or to its long-term care hospital satellite facility from the co-located hospital are made under either of the following:
+
+(1) *For cost reporting periods beginning on or after October 1, 2004 and before October 1, 2007 and for cost reporting periods beginning on or after October 1, 2016.* (i) Except as provided in paragraphs (c)(3), (g), and (h) of this section, for any cost reporting period beginning on or after October 1, 2004 and before October 1, 2007, and for cost reporting periods beginning on or after October 1, 2016 in which the long-term care hospital or its satellite facility has a discharged Medicare inpatient population of whom no more than 25 percent were admitted to the hospital or its satellite facility from the co-located hospital, payments are made under the rules at §§ 412.500 through 412.541 with no adjustment under this section.
+
+(ii) Except as provided in paragraph (g) or (h) of this section, for any cost reporting period beginning on or after October 1, 2004 and before October 1, 2007 and for cost reporting periods beginning on or after October 1, 2013 in which the long-term care hospital or satellite facility has a discharged Medicare inpatient population of whom more than 25 percent were admitted to the hospital or satellite facility from the co-located hospital, payments for the patients who are admitted from the co-located hospital and who cause the long-term care hospital or satellite facility to exceed the 25 percent threshold for discharged patients who have been admitted from the co-located hospital are the lesser of the amount otherwise payable under this subpart or the amount payable under this subpart that is equivalent, as set forth in paragraph (f) of this section, to the amount that would be determined under the rules at § 412.1(a). Payments for the remainder of the long-term care hospital's or satellite facility's patients are made under the rules in this subpart at §§ 412.500 through 412.541 with no adjustment under this section.
+
+(iii) In determining the percentage of patients admitted to the long-term care hospital or its satellite from the co-located hospital under paragraphs (c)(1)(i) and (c)(1)(ii) of this section, patients on whose behalf an outlier payment was made to the co-located hospital are not counted towards the 25 percent threshold.
+
+(2) *For cost reporting periods beginning on or after October 1, 2007 and before October 1, 2016.* (i) Except for a long-term care hospital or a long-term care hospital satellite facility subject to paragraph (g) or (h) of this section, payments are determined using the methodology specified in paragraph (c)(1) of this section.
+
+(ii) Payments for a long-term care hospital or long-term care hospital satellite facility subject to paragraph (g) of this section are determined using the methodology specified in paragraph (c)(1) of this section except that 25 percent is substituted with 50 percent.
+
+(3) For a long-term care hospital satellite facility described in § 412.22(h)(3)(i), for cost reporting periods beginning on or after July 1, 2007 and before July 1, 2016, payments will be determined using the methodology specified in paragraph (c)(1) of this section, except that the applicable percentage threshold for Medicare discharges is 50 percent.
+
+(d) *Special treatment of rural hospitals*—(1) *For cost reporting periods beginning on or after October 1, 2004 and before October 1, 2007 and for cost reporting periods beginning on or after October 1, 2016.* (i) Subject to paragraphs (g) and (h) of this section, in the case of a long-term care hospital or satellite facility that is located in a rural area as defined in § 412.503 and is co-located with another hospital for any cost reporting period beginning on or after October 1, 2004 and before October 1, 2007 and for any cost reporting period beginning on or after October 1, 2016 in which the long-term care hospital or long-term care satellite facility has a discharged Medicare inpatient population of whom more than 50 percent were admitted to the long-term care hospital or satellite facility from the co-located hospital, payments for the patients who are admitted from the co-located hospital and who cause the long-term care hospital or satellite facility to exceed the 50 percent threshold for discharged patients who were admitted from the co-located hospital are the lesser of the amount otherwise payable under this subpart or the amount payable under this subpart that is equivalent, as set forth in paragraph (f) of this section, to the amount that were otherwise payable under § 412.1(a). Payments for the remainder of the long-term care hospital's or long-term care hospital satellite facility's patients are made under the rules in this subpart at §§ 412.500 through 412.541 with no adjustment under this section.
+
+(ii) In determining the percentage of patients admitted from the co-located hospital under paragraph (d)(1)(i) of this section, patients on whose behalf outlier payment was made at the co-located hospital are not counted toward the 50 percent threshold.
+
+(2) *For cost reporting periods beginning on or after October 1, 2007, and before October 1, 2016.* (i) Except for a long-term care hospital or a long-term care hospital satellite facility subject to paragraph (g) or (h) of this section, payments are determined using the methodology specified in paragraph (d)(1) of this section.
+
+(ii) Payments for long-term care hospitals and long-term care hospital satellite facilities subject to paragraph (g) of this section are determined using the methodology specified in paragraph (d)(1) of this section except that 50 percent is substituted with 75 percent.
+
+(3) For cost reporting periods beginning on or after July 1, 2007 and before July 1, 2016, payment for a long-term care hospital satellite facility described in § 412.22(h)(3)(i) will be determined using the methodology specified in paragraph (c)(1) of this section, except that the applicable percentage threshold for Medicare discharges is 75 percent.
+
+(e) *Special treatment of urban single or MSA-dominant hospitals*—(1) *For cost reporting periods beginning on or after October 1, 2004 and before October 1, 2007 and for cost reporting periods beginning on or after October 1, 2016.* (i) Subject to paragraphs (g) and (h) of this section, in the case of a long-term care hospital or a long-term care hospital satellite facility that is co-located with the only other hospital in the MSA or with a MSA-dominant hospital as defined in paragraph (e)(1)(iv) of this section, for any cost reporting period beginning on or after October 1, 2004, and before October 1, 2007 and for any cost reporting periods beginning on or after October 1, 2016, in which the long-term care hospital or long-term care hospital satellite facility has a discharged Medicare inpatient population of whom more than the percentage calculated under paragraph (e)(1)(ii) of this section were admitted to the hospital from the co-located hospital, payments for the patients who are admitted from the co-located hospital and who cause the long-term care hospital to exceed the applicable threshold for discharged patients who have been admitted from the co-located hospital are the lesser of the amount otherwise payable under this subpart or the amount under this subpart that is equivalent, as set forth in paragraph (f) of this section, to the amount that otherwise would be determined under § 412.1(a). Payments for the remainder of the long-term care hospital's or satellite facility's patients are made under the rules in this subpart with no adjustment under this section.
+
+(ii) For purposes of paragraph (e)(1)(i) of this section, the percentage used is the percentage of total Medicare discharges in the Metropolitan Statistical Area in which the hospital is located that are from the co-located hospital for the cost reporting period for which the adjustment was made, but in no case is less than 25 percent or more than 50 percent.
+
+(iii) In determining the percentage of patients admitted from the co-located hospital under paragraph (e)(1)(i) of this section, patients on whose behalf outlier payment was made at the co-located hospital are not counted toward the applicable threshold.
+
+(iv) For purposes of this paragraph, an “MSA-dominant hospital” is a hospital that has discharged more than 25 percent of the total hospital Medicare discharges in the MSA in which the hospital is located.
+
+(2) *For cost reporting periods beginning on or after October 1, 2007 and before October 1, 2016.* (i) Except for a long-term care hospital or a long-term care hospital satellite facility subject to paragraph (g) or (h) of this section, payments are determined using the methodology specified in paragraph (e)(1) of this section.
+
+(ii) Payments for a long-term care hospital or long-term care hospital satellite facilities subject to paragraph (g) of this section are determined using the methodology specified in paragraph (e)(1) of this section except that the percentage of Medicare discharges that may be admitted from the co-located hospital without being subject to the payment adjustment at paragraph (e)(1) of this section is 75 percent.
+
+(3) For cost reporting periods beginning on or after July 1, 2007 and before July 1, 2016, payments for a long-term care hospital satellite facility described in § 412.22(h)(3)(i) will be determined using the methodology specified in paragraph (c)(1) of this section, except that the applicable percentage threshold for Medicare discharges is 75 percent.
+
+(f) *Calculation of rates*—(1) *Calculation of LTCH prospective payment system amount.* CMS calculates an amount payable under subpart O equivalent to an amount that would otherwise be paid under the hospital inpatient prospective payment system based on the sum of the applicable hospital inpatient prospective payment system operating standardized amount and capital Federal rate in effect at the time of the LTCH discharge.
+
+(2) *Operating inpatient prospective payment system standardized amount.* The hospital inpatient prospective payment system operating standardized amount—
+
+(i) Is adjusted for the applicable hospital inpatient prospective payment system DRG weighting factors;
+
+(ii) Is adjusted for different area wage levels based on the geographic classifications set forth at § 412.503 and the applicable hospital inpatient prospective payment system labor-related share, using the applicable hospital inpatient prospective payment system wage index value for non-reclassified hospitals. For LTCHs located in Alaska and Hawaii, this amount is also adjusted by the applicable hospital inpatient prospective payment system cost of living adjustment factors;
+
+(iii) Includes, where applicable, adjustments for indirect medical education costs and the costs of serving a disproportionate share of low-income patients.
+
+(3) *Hospital inpatient prospective payment system capital Federal rate.* The hospital inpatient prospective payment system capital Federal rate—
+
+(i) Is adjusted for the applicable hospital inpatient prospective payment system DRG weighting factors;
+
+(ii) Is adjusted by the applicable geographic adjustment factors, including local cost variation based on the applicable geographic classifications set forth at § 412.503 and the applicable full hospital inpatient prospective payment system wage index value for nonreclassified hospitals, applicable large urban location and cost of living adjustment factors for LTCHs for Alaska and Hawaii, if applicable;
+
+(iii) Includes, where applicable, capital inpatient prospective payment system adjustments for indirect medical education costs and the costs of serving a disproportionate share of low-income patients.
+
+(4) *High cost outlier.* An additional payment for high cost outlier cases is based on the fixed loss amount established for the hospital inpatient prospective payment system.
+
+(g) *Transition period for long-term care hospitals and satellite facilities paid under this subpart.* Except as specified in paragraph (h)(2), in the case of a long-term care hospital or a satellite facility that is paid under the provisions of this subpart on October 1, 2004 or of a hospital that is paid under the provisions of this subpart and whose qualifying period under § 412.23(e) began on or before October 1, 2004, the amount paid is calculated as specified below:
+
+(1) For each discharge during the first cost reporting period beginning on or after October 1, 2004, and before October 1, 2005, the amount paid is the amount payable under this subpart with no adjustment under this section but the hospital may not exceed the percentage of patients admitted from the host during its FY 2004 cost reporting period.
+
+(2) For each discharge during the cost reporting period beginning on or after October 1, 2005, and before October 1, 2006, the percentage that may be admitted from the host with no payment adjustment may not exceed the lesser of the percentage of patients admitted from the host during its FY 2004 cost reporting period or 75 percent.
+
+(3) For each discharge during the cost reporting period beginning on or after October 1, 2006, and before October 1, 2007, the percentage that may be admitted from the host with no payment adjustment may not exceed the lesser of the percentage of patients admitted from the host during its FY 2004 cost reporting period or 50 percent.
+
+(4) For each discharge during cost reporting periods beginning on or after October 1, 2007, the percentage that may be admitted from the host with no payment adjustment may not exceed 25 percent or the applicable percentage determined under paragraph (d) or (e) of this section.
+
+(h) *Effective date of policies in this section for certain co-located long-term care hospitals and satellite facilities of long-term care hospitals.* Except as specified in paragraph (h)(4) of this section, the policies set forth in this paragraph (h) apply to Medicare patient discharges that were admitted from a hospital located in the same building or on the same campus as a long-term care hospital described in § 412.23(e)(2)(i) that meets the criteria in § 412.22(f) and a satellite facility of a long-term care hospital as described under § 412.22(h)(3)(i) for discharges occurring in cost reporting periods beginning on or after July 1, 2007.
+
+(1) Except as specified in paragraph (h)(4) of this section, in the case of a long-term care hospital or long-term care hospital satellite facility that is described under this paragraph (h), the thresholds applied at paragraphs (c), (d), and (e) of this section are not less than the following percentages:
+
+(i) For cost reporting periods beginning on or after July 1, 2007 and before July 1, 2008, the lesser of 75 percent of the total number of Medicare discharges that were admitted to the long-term care hospital or long-term care hospital satellite facility from its co-located hospital during the cost reporting period or the percentage of Medicare discharges that had been admitted to the long-term care hospital or satellite from that co-located hospital during the long-term care hospital's or satellite's RY 2005 cost reporting period.
+
+(ii) For cost reporting periods beginning on or after July 1, 2008 and before July 1, 2009, the lesser of 50 percent of the total number of Medicare discharges that were admitted to the long-term care hospital or the long-term care hospital satellite facility from its co-located hospital or the percentage of Medicare discharges that had been admitted from that co-located hospital during the long-term care hospital's or satellite's RY 2005 cost reporting period.
+
+(iii) For cost reporting periods beginning on or after July 1, 2009, 25 percent of the total number of Medicare discharges that were admitted to the long-term care hospital or satellite from its co-located hospital during the cost reporting period.
+
+(2) In determining the percentage of Medicare discharges admitted from the co-located hospital under this paragraph, patients on whose behalf a Medicare high cost outlier payment was made at the co-located referring hospital are not counted toward this threshold.
+
+(3) Except as specified in paragraph (h)(4) of this section, for cost reporting periods beginning on or after July 1, 2007, payments to long term care hospitals described in § 412.23(e)(2)(i) that meet the criteria in § 412.22(f) and satellite facilities of long-term care hospitals described at § 412.22(h)(3)(i) are subject to the provisions of § 412.536 for discharges of Medicare patients who are admitted from a hospital not located in the same building or on the same campus as the LTCH or LTCH satellite facility.
+
+(4) For a long-term care hospital described in § 412.23(e)(2)(i) that meets the criteria in § 412.22(f), the policies set forth in this paragraph (h) and in § 412.536 do not apply for discharges occurring in cost reporting periods beginning on or after July 1, 2007.
+
+(5) For a long-term care hospital or a satellite facility that, as of December 29, 2007, was co-located with an entity that is a provider-based, off-campus location of a subsection (d) hospital which did not provide services payable under section 1886(d) of the Act at the off-campus location, the policies set forth in this paragraph (h) and in § 412.536 do not apply for discharges occurring in cost reporting periods beginning on or after July 1, 2007 and before July 1, 2016.
+
+[69 FR 49251, Aug. 11, 2004, as amended at 69 FR 78529, Dec. 30, 2004; 71 FR 27900, May 12, 2006; 72 FR 26992, May 11, 2007; 73 FR 26839, May 9, 2008; 73 FR 29709, May 22, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 77 FR 53679, Aug. 31, 2012; 77 FR 63752, Oct. 17, 2012; 79 FR 50356, Aug. 22, 2014]

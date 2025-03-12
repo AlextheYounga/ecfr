@@ -1,0 +1,3 @@
+##### § 137.170 When does the 365 day period commence? #####
+
+For the purpose of determining the 365 day period, an audit report is deemed received on the date of actual receipt by the Secretary, at the address specified in § 137.172, if, within 60 days after receiving the audit report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency audit report as insufficient due to non-compliance with chapter 75 of title 31, United States Code or noncompliance with any other applicable law.

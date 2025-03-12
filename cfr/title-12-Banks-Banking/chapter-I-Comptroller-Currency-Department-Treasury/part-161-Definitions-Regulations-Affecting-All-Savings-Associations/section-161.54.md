@@ -1,0 +1,3 @@
+##### § 161.54 United States Treasury Time Deposit Open Account. #####
+
+The term *United States Treasury Time Deposit Open Account* means a non-interest-bearing account maintained in the name of the United States Treasury which may not be withdrawn prior to the expiration of 30 days' written notice from the United States Treasury, or such other period of notice as the Treasury may require. Such accounts are not savings accounts or savings deposits.

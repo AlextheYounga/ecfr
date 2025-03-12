@@ -1,0 +1,3 @@
+##### § 605.18 Comments by private school bus operators. #####
+
+Private school bus operators may file written comments on an applicant's proposed or existing school bus operations at the time of the public hearing held pursuant to section 3(d) of the Federal Mass Transit Act of 1964, as amended (49 U.S.C. 1602(d)). The comments of private school bus operators must be submitted by the applicant to the Administrator together with the transcript of this public hearing.

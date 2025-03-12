@@ -1,0 +1,5 @@
+##### § 415.51 General. #####
+
+The FAA reviews a payload proposed for launch to determine whether a license applicant or payload owner or operator has obtained all required licenses, authorization, and permits, unless the payload is exempt from review under § 415.53 of this subpart. If not otherwise exempt, the FAA reviews a payload proposed for launch to determine whether its launch would jeopardize public health and safety, safety of property, U.S. national security or foreign policy interests, or international obligations of the United States. A payload determination is part of the licensing record on which the FAA's licensing determination is based. The safety requirements of subpart C and F of this part and of part 417 of this chapter apply to all payloads, whether or not the payload is otherwise exempt.
+
+[Amdt. 415-03, 64 FR 19616, Apr. 21, 1999, as amended by Amdt. 415-4, 71 FR 50531, Aug. 25, 2006]

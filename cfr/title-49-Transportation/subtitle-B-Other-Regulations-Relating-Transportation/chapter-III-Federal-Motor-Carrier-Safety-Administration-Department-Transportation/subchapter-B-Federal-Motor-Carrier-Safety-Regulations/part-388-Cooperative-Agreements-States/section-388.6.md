@@ -1,0 +1,5 @@
+##### § 388.6 Joint investigation, inspection, or examination. #####
+
+Upon agreement by the Field Administrator and the appropriate State authority, there will be conducted a joint investigation, inspection, or examination of the property, equipment, or records of motor carriers or others, for the enforcement of the safety and hazardous materials laws and regulations of the United States and the State concerning highway transportation. The said Field Administrator and the appropriate State authority shall decide as to the location and time, the objectives sought, and the identity of the person who will supervise the joint effort and make the necessary decisions. Any agent or employee of either agency who has personal knowledge of pertinent facts shall be made available when necessary to testify as a witness in an enforcement proceeding or other action.
+
+[33 FR 19725, Dec. 25, 1968, as amended at 51 FR 12621, Apr. 14, 1986; 67 FR 61824, Oct. 2, 2002]

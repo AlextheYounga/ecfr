@@ -1,0 +1,3 @@
+##### § 1243.6 When must I or another person meet the bonding or financial solvency requirements under this part? #####
+
+If you must meet the bonding or financial solvency requirements under § 1243.4(a)(1), or if another person is meeting your bonding or financial solvency requirements, then either you or the other person must post a bond or other surety instrument or demonstrate financial solvency within 60 days after you receive the order or the Notice of Order.

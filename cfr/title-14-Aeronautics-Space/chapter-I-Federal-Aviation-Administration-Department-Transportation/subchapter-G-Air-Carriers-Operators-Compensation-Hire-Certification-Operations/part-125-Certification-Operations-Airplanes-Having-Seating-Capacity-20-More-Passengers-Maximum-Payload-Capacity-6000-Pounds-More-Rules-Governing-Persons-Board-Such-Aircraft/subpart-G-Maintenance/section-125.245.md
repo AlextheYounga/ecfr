@@ -1,0 +1,3 @@
+##### § 125.245 Organization required to perform maintenance, preventive maintenance, and alteration. #####
+
+The certificate holder must ensure that each person with whom it arranges for the performance of maintenance, preventive maintenance, alteration, or required inspection items identified in the certificate holder's manual in accordance with § 125.249(a)(3)(ii) must have an organization adequate to perform that work.

@@ -1,0 +1,13 @@
+##### § 220.127 Independent broker/dealers arranging credit in connection with the sale of insurance premium funding programs. #####
+
+(a) The Board's September 5, 1972, clarifying amendment to § 220.4(k) set forth that creditors who arrange credit for the acquisition of mutual fund shares and insurance are also permitted to sell mutual fund shares without insurance under the provisions of the special cash account. It should be understood, of course, that such account provides a relatively short credit period of up to 7 business days even with so-called cash transactions. This amendment was in accordance with the Board's understanding in 1969, when the insurance premium funding provisions were adopted in § 220.4(k), that firms engaged in a general securities business would not also be engaged in the sale and arranging of credit in connection with such insurance premium funding programs.
+
+(b) The 1972 amendment eliminated from § 220.4(k) the requirement that, to be eligible for the provisions of the section, a creditor had to be the issuer, or a subsidiary or affiliate of the issuer, of programs which combine the acquisition of both mutual fund shares and insurance. Thus the amendment permits an independent broker/dealer to sell such a program and to arrange for financing in that connection. In reaching such decision, the Board again relied upon the earlier understanding that independent broker/dealers who would sell such programs would not be engaged in transacting a general securities business.
+
+(c) In response to a specific view recently expressed, the Board agrees that under Regulation T:
+
+\* \* \* a broker/dealer dealing in special insurance premium funding products can only extend credit in connection with such products or in connection with the sale of shares of registered investment companies under the cash accounts \* \* \* (and) cannot engage in the general securities business or sell any securities other than shares \* \* \* (in) registered investment companies through a cash account or any other manner involving the extension of credit.
+
+(d) There is a way, of course, as has been indicated, that an independent broker/dealer might be able to sell other than shares of registered investment companies without creating any conflict with the regulation. Such sales could be executed on a “funds on hand” basis and in the case of payment by check, would have to include the collection of such check. It is understood from industry sources, however, that few if any independent broker/dealers engage solely in a “fund on hand” type of operation.
+
+[38 FR 11066, May 4, 1973]

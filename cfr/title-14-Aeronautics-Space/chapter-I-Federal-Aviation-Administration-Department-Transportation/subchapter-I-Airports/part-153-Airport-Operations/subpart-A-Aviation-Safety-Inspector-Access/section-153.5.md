@@ -1,0 +1,3 @@
+##### § 153.5 Aviation safety inspector airport access. #####
+
+Airports, aircraft operators, aircraft owners, airport tenants, and air agencies must grant Aviation Safety Inspectors bearing FAA Form 110A free and uninterrupted access to public-use airports and facilities, including AOAs, SIDAs, and other secured and restricted areas. Aviation Safety Inspectors displaying FAA Form 110A do not require access media or identification media issued or approved by an airport operator or aircraft operator in order to inspect or test compliance, or perform other such duties as the FAA may direct.

@@ -1,0 +1,3 @@
+##### § 72.93 Units with Phase I extension plans. #####
+
+*Annual compliance certification report.* The designated representative for a control unit governed by a Phase I extension plan shall include in the unit's annual compliance certification report for calendar year 1997, the start-up test results upon which the vendor is released from liability under the vendor certification of guaranteed sulfur dioxide removal efficiency under § 72.42(c)(12).

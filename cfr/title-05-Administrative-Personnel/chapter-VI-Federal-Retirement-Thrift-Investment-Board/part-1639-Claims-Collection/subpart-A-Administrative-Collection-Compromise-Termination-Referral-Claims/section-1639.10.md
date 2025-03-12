@@ -1,0 +1,3 @@
+##### § 1639.10 Referrals to the Department of Justice. #####
+
+The Executive Director will refer to the Department of Justice for litigation all claims on which aggressive collection actions have been taken but which could not be collected, compromised, suspended, or terminated. Referrals will be made as early as possible, consistent with aggressive Board collection action, and within the period for bringing a timely suit against the debtor.

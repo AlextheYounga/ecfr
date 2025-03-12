@@ -1,0 +1,3 @@
+##### § 1261.604 Nonwaiver of rights by involuntary setoff. #####
+
+The employee's involuntary payment of all or any portion of the debt, being collected under this subpart, must not be construed as a waiver of any rights which the employee may have under an existing written contract applicable to the specific debt or under any other pertinent statutory authority for the collection of claims of the United States or the agency.

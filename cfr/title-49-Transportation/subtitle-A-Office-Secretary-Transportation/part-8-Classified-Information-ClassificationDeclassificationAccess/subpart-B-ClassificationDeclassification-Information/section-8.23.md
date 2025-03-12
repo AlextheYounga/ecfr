@@ -1,0 +1,11 @@
+##### § 8.23 Classified information transferred to the Department of Transportation. #####
+
+(a) Classified information officially transferred to the Department in conjunction with a transfer of functions, and not merely for storage purposes, will be considered to have been originated by the Department.
+
+(b) Classified information in the custody of the Department originated by another department or agency that has ceased to exist and for whom there is no successor agency will be deemed to have been originated by the Department. This information may be declassified or downgraded by the Department after consultation with any other agency that has an interest in the subject matter of the information. Such agency will be allowed 30 calendar days in which to express an objection, if it so desires, before action is taken. A difference of opinion that cannot be resolved at a lower level will be referred to the Departmental Information Security Review Committee, which will consult with its counterpart committee for the other agency.
+
+(c) Classified information transferred to the National Archives and Records Administration (NARA) will be declassified or downgraded by the Archivist of the United States in accordance with Executive Order 13526, directives issued pursuant to Executive Order 13526, Departmental classification guides, and any existing procedural agreement between NARA and the Department. The Department will take all reasonable steps to declassify information contained in records determined to have permanent historical value before they are accessioned into the National Archives .
+
+(d) To the extent practicable, the Department will adopt a system of records management that will facilitate the public release of documents at the time such documents are declassified under the provisions for automatic declassification in section 3.3 of Executive Order 13526 and its implementing directives. To the maximum extent possible without destroying the integrity of the Department's files, all such material will be segregated or set aside for public release upon request. The Department will cooperate with the Archivist in efforts to establish a Government-wide database of information that has been declassified.
+
+[62 FR 23661, May 1, 1997, as amended at 81 FR 45981, July 15, 2016]

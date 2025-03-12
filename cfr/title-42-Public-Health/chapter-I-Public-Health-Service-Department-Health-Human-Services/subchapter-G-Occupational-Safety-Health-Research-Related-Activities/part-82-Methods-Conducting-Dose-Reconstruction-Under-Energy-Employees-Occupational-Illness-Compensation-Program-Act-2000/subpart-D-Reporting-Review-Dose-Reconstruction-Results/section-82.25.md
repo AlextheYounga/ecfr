@@ -1,0 +1,3 @@
+##### § 82.25 When will NIOSH report dose reconstruction results, and to whom? #####
+
+NIOSH will report dose reconstruction results to DOL and to the claimant, as provided for under § 82.10. Draft results will be reported to the claimant upon tentative completion of the dose reconstruction. Final results will be reported to the claimant, DOL and DOE after NIOSH receives certification from the claimant that the claimant has completed providing information to NIOSH for the dose reconstruction (Form OCAS-1).

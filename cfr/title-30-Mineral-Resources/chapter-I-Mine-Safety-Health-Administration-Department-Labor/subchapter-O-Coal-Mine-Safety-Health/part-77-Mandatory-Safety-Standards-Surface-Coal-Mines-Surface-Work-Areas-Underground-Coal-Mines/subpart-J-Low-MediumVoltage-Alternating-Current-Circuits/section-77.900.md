@@ -1,0 +1,3 @@
+##### § 77.900 Low- and medium-voltage circuits serving portable or mobile three-phase alternating current equipment; circuit breakers. #####
+
+Low- and medium-voltage circuits supplying power to portable or mobile three-phase alternating current equipment shall be protected by suitable circuit breakers of adequate interrupting capacity which are properly tested and maintained and equipped with devices to provide protection against undervoltage, grounded phase, short circuit, and over-current.

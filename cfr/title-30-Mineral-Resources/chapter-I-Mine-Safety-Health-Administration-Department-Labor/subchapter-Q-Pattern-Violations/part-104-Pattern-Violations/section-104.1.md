@@ -1,0 +1,3 @@
+##### § 104.1 Purpose and scope. #####
+
+This part establishes the criteria and procedures for determining whether a mine operator has established a pattern of significant and substantial (S&S) violations at a mine. It implements section 104(e) of the Federal Mine Safety and Health Act of 1977 (Mine Act) by addressing mines with an inspection history of recurrent S&S violations of mandatory safety or health standards that demonstrate a mine operator's disregard for the health and safety of miners. The purpose of the procedures in this part is the restoration of effective safe and healthful conditions at such mines.

@@ -1,0 +1,5 @@
+##### § 84.1152 Silica dust loading test; respirators designed as protection against dusts, fumes, and mists having an air contamination level less than 0.05 milligram per cubic meter and against radionuclides; minimum requirements. #####
+
+(a) Three non-powered respirators will be tested in accordance with the provisions of § 84.1144, or equivalent, and shall meet the minimum requirements of §§ 84.1144 and 84.1149.
+
+(b) Three powered air-purifying respirators will be tested in accordance with the provisions of § 84.1144 except they will be tested for a period of 4 hours each at a flowrate not less than 115 liters per minute to tight-fitting facepieces, and not less than 170 liters per minute to loose-fitting hoods and helmets. The total amount of unretained test suspension in samples taken during testing shall not exceed 14.4 milligrams for a powered air-purifying respirator with tight-fitting facepiece, and 21.3 milligrams for a powered air-purifying respirator with loose-fitting hood or helmet. They shall meet the minimum requirements of § 84.1149.

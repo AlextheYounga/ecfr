@@ -1,0 +1,3 @@
+##### 9904.410-20 Purpose. #####
+
+The purpose of this Cost Accounting Standard is to provide criteria for the allocation of business unit general and administrative (G&A) expenses to business unit final cost objectives based on their beneficial or causal relationship. These expenses represent the cost of the management and administration of the business unit as a whole. The Standard also provides criteria for the allocation of home office expenses received by a segment to the cost objectives of that segment. This Standard will increase the likelihood of achieving objectivity in the allocation of expenses to final cost objectives and comparability of cost data among contractors in similar circumstances.

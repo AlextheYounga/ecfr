@@ -1,0 +1,5 @@
+##### § 627.2770 Conservators. #####
+
+(a) The Insurance Corporation shall be appointed as conservator by the Farm Credit Administration Board pursuant to section 4.12 of the Act and § 627.2710 of this part to take possession of an institution in accordance with the terms of the appointment. Upon appointment, the conservator shall direct the institution's further operation until the Farm Credit Administration Board decides whether to place the institution into receivership. Upon correction or resolution of the problem or condition that provided the basis for the appointment and upon a determination by the Farm Credit Administration Board that the institution can be returned to normal operations, the Farm Credit Administration Board may turn the institution over to such management as the Farm Credit Administration Board may direct.
+
+(b) The conservator shall exercise all powers necessary to continue the ongoing operations of the institution, to conserve and preserve the institution's assets and property, and otherwise protect the interests of the institution, its stockholders, and creditors as provided in this subpart.

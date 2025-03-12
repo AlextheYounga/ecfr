@@ -1,0 +1,3 @@
+##### § 3.607 Relation to other administrative actions. #####
+
+A directive may be issued in addition to, or in lieu of, any other action authorized by law, including cease and desist proceedings, civil money penalties, or the conditioning or denial of applications. The OCC also may, in its discretion, take any action authorized by law, in lieu of a directive, in response to a national bank's or Federal savings association's failure to achieve or maintain the applicable minimum capital ratios.

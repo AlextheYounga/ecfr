@@ -1,0 +1,3 @@
+##### § 8301.105 Additional rules for employees of the Office of the General Counsel. #####
+
+Any attorney serving within the Office of the General Counsel, not otherwise required to obtain approval for outside employment under § 8301.102, shall obtain written approval, in accordance with the procedures and standards set forth in paragraphs (c) and (d) of § 8301.102, before engaging in the outside practice of law, whether compensated or not.

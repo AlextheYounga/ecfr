@@ -1,0 +1,9 @@
+##### § 1227.7 Appeal to the Director. #####
+
+(a) *Opportunity to appeal.* A respondent may submit an appeal to the Director within thirty (30) calendar days after the date a final suspension order has been signed. If the Director signed the final suspension order as the suspension official, the respondent has no appeal right under this section. The appeal shall be accompanied by a written brief specifically identifying the respondent's objections to the final suspension order and the supporting reasons for such objections.
+
+(b) *Decision on appeal.* The Director shall issue a written final decision on an appeal of a final suspension order based on the record submitted by the suspending official, together with any material submitted with an appeal. The Director may affirm, vacate or amend the suspension, or remand to the suspending official for further proceedings, in the discretion of the Director. If the Director does not take action on an appeal prior to the effective date of the order, the order shall take effect as if it had been affirmed by the Director, on the date specified in the order.
+
+(c) *Final agency action.* The written final decision of the Director on an appeal of a final suspension order shall be the final agency action. If the Director does not take action on an appeal prior to the effective date of the order, the order shall be the final agency action.
+
+(d) *Exhaustion of administrative remedies.* In order to fulfill the requirement to exhaust administrative remedies, a respondent must appeal a final suspension order to the Director as provided in this section prior to seeking judicial review of such order.

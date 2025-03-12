@@ -1,0 +1,9 @@
+##### § 1054.705 How do I generate and calculate exhaust emission credits? #####
+
+The provisions of this section apply for calculating exhaust emission credits. You may generate exhaust emission credits only if you are a certifying engine manufacturer.
+
+(a) For each participating family, calculate positive or negative emission credits relative to the otherwise applicable emission standard. Calculate positive emission credits for a family that has an FEL below the standard. Calculate negative emission credits for a family that has an FEL above the standard. Sum your positive and negative credits for the model year before rounding. Round the sum of emission credits to the nearest kilogram (kg) using consistent units throughout the following equation:
+
+Emission credits (kg) = (STD − FEL) × (Volume) × (Power) × (UL) × (LF) × (10−3)Where:STD = the emission standard, in g/kW-hr.FEL = the family emission limit for the family, in g/kW-hr.Volume = the number of engines eligible to participate in the averaging, banking, and trading program within the given family during the model year, as described in § 1054.701(i).Power = the maximum modal power of the emission-data engine as calculated from the applicable test procedure described in subpart F of this part, in kilowatts.UL = the useful life for the given family, in hours.LF = load factor. Use 0.47 for nonhandheld engines and 0.85 for handheld engines. We may specify a different load factor if we approve the use of special test procedures for a family under 40 CFR 1065.10(c)(2), consistent with good engineering judgment.
+
+(b) [Reserved]

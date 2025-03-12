@@ -1,0 +1,5 @@
+##### § 160.15 Inspection of a testing facility. #####
+
+(a) A testing facility shall permit an authorized employee or duly designated representative of EPA or FDA, at reasonable times and in a reasonable manner, to inspect the facility and to inspect (and in the case of records also to copy) all records and specimens required to be maintained regarding studies to which this part applies. The records inspection and copying requirements should not apply to quality assurance unit records of findings and problems, or to actions recommended and taken, except that EPA may seek production of these records in litigation or formal adjudicatory hearings.
+
+(b) EPA will not consider reliable for purposes of supporting an application for a research or marketing permit any data developed by a testing facility or sponsor that refuses to permit inspection in accordance with this part. The determination that a study will not be considered in support of an application for a research or marketing permit does not, however, relieve the applicant for such a permit of any obligation under any applicable statute or regulation to submit the results of the study to EPA.

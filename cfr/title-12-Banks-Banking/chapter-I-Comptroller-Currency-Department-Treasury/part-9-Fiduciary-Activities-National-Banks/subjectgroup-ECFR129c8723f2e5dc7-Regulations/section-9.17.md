@@ -1,0 +1,5 @@
+##### § 9.17 Surrender or revocation of fiduciary powers. #####
+
+(a) *Surrender.* In accordance with 12 U.S.C. 92a(j), a national bank seeking to surrender its fiduciary powers shall file with the OCC a certified copy of the resolution of its board of directors evidencing that intent. If, after appropriate investigation, the OCC is satisfied that the bank has been discharged from all fiduciary duties, the OCC will provide written notice that the bank is no longer authorized to exercise fiduciary powers.
+
+(b) *Revocation.* If the OCC determines that a national bank has unlawfully or unsoundly exercised, or has failed for a period of five consecutive years to exercise its fiduciary powers, the Comptroller may, in accordance with the provisions of 12 U.S.C. 92a(k), revoke the bank's fiduciary powers.

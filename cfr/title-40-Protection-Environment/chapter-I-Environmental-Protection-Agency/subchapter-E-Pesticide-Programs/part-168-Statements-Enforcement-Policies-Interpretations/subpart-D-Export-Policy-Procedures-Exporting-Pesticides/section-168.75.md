@@ -1,0 +1,121 @@
+##### § 168.75 Procedures for exporting unregistered pesticides—purchaser acknowledgement statements. #####
+
+This section describes how EPA interprets and will enforce requirements of FIFRA section 17(a)(2). Section 17(a)(2) provides that any person exporting a pesticide other than a pesticide registered for use under FIFRA section 3 or sold under FIFRA section 6(a)(1), shall obtain a statement signed by the foreign purchaser prior to export, acknowledging that the purchaser understands that such pesticide is not registered for use in the United States and cannot be sold in the United States. Section 17(a)(2) requires that a copy of the statement be transmitted to an appropriate official of the government of the importing country.
+
+(a) *Products subject to the requirement.* EPA will not consider an exporter of an unregistered pesticide to be in violation of FIFRA section 17(a)(2) if, prior to export of the pesticide, the exporter submits to EPA a statement signed by the foreign purchaser which affirms that the purchaser is aware that the pesticide is not registered for use in the United States and cannot be sold for use in the United States. The exporter must also include with the submission of the purchaser acknowledgement statement to EPA, a certification signed by the exporter affirming that the export did not occur until the statement signed by the foreign purchaser was obtained by the exporter. Except as provided in paragraph (b) of this section, all pesticide products produced for export which cannot be sold for use in the United States in the form that they are produced for export, are considered to be unregistered pesticides. This includes pesticides which are of a different formulation, including composition (except for variation within certified limits), or type of formulation, and pesticides which are packaged for use patterns for which they are not registered, which may be evidenced by package type or label use statements. This also includes unregistered products which are under development as pesticidal products and which are being exported for research testing.
+
+(b) *Exceptions.* Under the specific circumstances discussed below, EPA will not treat a registered product which has been modified slightly for export purposes, as unregistered for the purposes of the purchaser acknowledgement statement requirement. Any changes to the registered product for export purposes must be documented in accordance with the record-keeping requirements at § 169.2 of this chapter and this policy.
+
+(1) *Labeling on immediate product.* EPA will not treat as unregistered for the purposes of section 17(a)(2), a registered pesticide product which cannot be sold or distributed for use in the United States because its immediate product container does not bear a label approved under a FIFRA section 3 registration, but which could be sold or distributed in the United States with the approved label attached to the immediate product container, provided that the label and labeling approved under a current FIFRA section 3 registration for the product is either attached to the immediate product container or accompanies the product at all times as supplemental labeling as provided in paragraph (c) of this section.
+
+(2) *Packaging.* (i) Certain changes may be made to a product's labeling or packaging without affecting the registration status of the product, as specified in § 152.46(b) of this chapter and this policy. These changes include any changes in package size and label net contents, provided no change in use directions or requirement for child-resistant packaging would be necessary for the product to be registered for use in the United States. For example, if child-resistant packaging is required for a particular pesticide product in the United States, and the product will be exported without child-resistant packaging, the product would be considered unregistered and therefore subject to all the requirements of FIFRA section 17(a), as described in § 168.75 of this chapter including the requirement for a purchaser acknowledgement statement.
+
+(ii) If an exporter needed to repackage a product in a size to meet a foreign purchaser's specifications, that modification would not affect the registration status of the export product. Other modifications to the label used for export purposes which will not affect the export product's registration status are: the use of metric units for net contents, dosages, and other numeric expressions; the use of a different format for the label, provided that the information does not contradict the U.S. label; revision of non-mandatory U.S. label statements, consistent with 40 CFR part 156, including additions or changes required by other Federal statutes or regulations; a change of the name or address of the registrant, except for a change resulting from transfer of ownership, which requires that a registrant keep his name and address current with the Agency; and any correction of typographical or printing errors that appeared on the U.S. labeling. (See § 152.46(b)).
+
+(3) *Labeling statements.* The following statements which appear on any of the product labels or labeling will not affect the status of the product, provided that they do not contradict the approved FIFRA section 3 labeling:
+
+(i) It is permissible to add explanatory language which accurately explains the meaning of a use classification. For example, the statement “restricted use pesticide” may be expanded to read: “Restricted in the United States of America to use by certified applicators” or “Restricted Use Pesticide. In The United States this product is restricted to use by applicators determined by each state to be competent in pesticide application and the human health and environmental consequences of misuse.” If the explanatory language falsely represents or is misleading regarding the U.S. use classification, the product will be considered misbranded. In addition, a use classification can only be listed if one has been assigned pursuant to the U.S. registration.
+
+(ii) An exporter who is also the manufacturer of a U.S. registered pesticide may add new uses to the label of that product for export purposes, without triggering the requirements of section 17(a)(2), as long as the new uses are within the same general use patterns as those for the registered product. The general pesticide use patterns are: terrestrial food crop and terrestrial non-food crop; greenhouse food crop and greenhouse nonfood crop; aquatic food crop and aquatic nonfood crop' indoor use' and forestry use. Adding new uses to the label which change the use pattern, such as changes from nonfood to food use, outdoor to indoor use, or terrestrial to aquatic use, render the product unregistered and subject to the requirements of section 17 for unregistered products. If the new use added to the label is a food or feed use, a tolerance must already be established for the use of that pesticide in or on that commodity.
+
+(4) *Composition.* EPA will not treat a registered product as unregistered for the purposes of the purchaser acknowledgement statement requirement under the following specific circumstances:
+
+(i) The formula of the exported product is within certified limits of the formula of the U.S. registered product.
+
+(ii) An exporter, who is also the manufacturer of a U.S. registered pesticide, may decrease the percentage of the active ingredient(s) of that product by adding a List 4 inert ingredient, without causing the product to be treated as “unregistered” and triggering the requirement to obtain a purchaser acknowledgement statement as a condition for export. In EPA's Policy Statement on Inert Ingredients in Pesticide Products, EPA included inert ingredients on List 4-a list of inert ingredients posing minimal hazard or risk-if the inert ingredients were generally regarded as innocuous. The provisions of this paragraph do not apply to those pesticide products intended for public health uses which are required or conditionally required to submit efficacy data pursuant to § 158.400 or § 161.640 of this chapter, as applicable. Any differences in formula or composition caused by adding a List 4 inert must be reflected in records which show the complete formula of the export product in accordance with the requirements of § 169.2 and this policy.
+
+(iii) A change in the color or fragrance of the export product will not affect the product's registration status as long as the following conditions are met. The change in color must result only from the addition of a dye included on the list of the chemicals exempted from the requirement of a tolerance at 40 CFR 180.910, 180.920, 180.930, and 180.950, and the dye must not be a List 1 inert. (List 1 inerts are those inerts which the Agency has identified as presenting toxicological concerns. The classification of inerts is explained in EPA's Policy Statement on Inert Ingredients in Pesticide Products. The change in fragrance must result only from the addition of a chemical included on the list of the chemicals exempted from the requirement of a tolerance at 40 CFR 180.910, 180.920, 180.930, and 180.950, and the chemical must not be a List 1 inert. The change in fragrance must not result in a pesticide product containing a food or food-like fragrance. (See “Food Fragrances in Pesticide Formulations,” EPA's Office of Pesticide Programs Policy and Criteria Notice number 2155.1, November 20, 1975.) Any difference in color or fragrance of the export product in accordance with this section must be reflected in records which show the complete formula of the export product in accordance with the requirements of § 169.2 and this policy.
+
+(5) *Research and development products.* An unregistered pesticide product exported only for research and development purposes is subject to the notification requirements of this section, unless its use fits within the criteria described in this paragraph.
+
+(i) An unregistered pesticide product exported solely for research and development purposes will not be considered to be in violation of the notification requirements if the export of the research and development product:
+
+(A) Would not involve land uses of more than 10 acres (4.05 hectares), or be used on or affect food or feed crops which are intended for consumption.
+
+(B) Would not involve aquatic uses of more than 1 acre (0.405 hectares), or any aquatic uses which involve water used for irrigation, drinking or recreation, or be used on or affect plants or animals taken for food or feed from such waters.
+
+(C) Would not involve tests on animals intended for food or feed.
+
+(ii) Shipments to different purchasers, to different countries of final destination, or which occur more than a calendar year apart will be evaluated separately. When determining whether total shipments exceed the criteria described in this paragraph, EPA will evaluate the total amount of shipments by a single exporter during a calendar year for use in a particular country.
+
+(iii) An exporter bears the burden of demonstrating that the product meets these criteria before the research product is shipped. This may be met by documenting before the product is shipped and maintaining records for the time period required by § 169.2(h) of this chapter from the date of the last shipment relevant to such records. The records to be maintained consist of:
+
+(A) The identity of the purchaser and country of intended use of the research product.
+
+(B) The amount shipped.
+
+(C) The intended research use by the purchaser, including the type of application site, rate of application, and measures taken for protection of humans from direct or dietary exposure.
+
+(c) *Procedures.* An exporter of an unregistered pesticide product must submit a purchaser acknowledgement statement to EPA containing the information stated in paragraph (c)(1) of this section, and a statement signed by the exporter certifying that the exportation did not occur until the signed acknowledgement statement had been obtained from the purchaser. If the foreign purchaser signs a purchaser acknowledgement statement in their own language, it must be accompanied by an English translation when it is submitted to EPA by the exporter. These statements shall be submitted in accordance with one of the two options for submission described in paragraph (c)(2) of this section.
+
+(1) *Contents of the purchaser acknowledgement statements.* The purchaser acknowledgement statement must include the following information in a format that is clearly understandable:
+
+(i) Name, address, and EPA identification number, if applicable, of the exporter.
+
+(ii) Name and address of the foreign purchaser.
+
+(iii) Identity of the product and the active ingredient(s), including:
+
+(A) The Chemical Abstract Services (CAS) Registry number for each active ingredient.
+
+(B) The chemical nomenclature for each active ingredient as used by the International Union of Pure and Applied Chemists (IUPAC).
+
+(C) Other known chemical or common names; or if the export involves a research product, a code name or identification number that can be used by EPA to identify the product from the exporter's records. If a code name or identification number is used, additional information must be attached to the certification statement submitted with the purchaser acknowledgement statement which will enable EPA to identify the product. This attached information may be claimed as confidential, and EPA will not forward this information with the purchaser acknowledgement statement to foreign governments.
+
+(iv) If known or reasonably ascertainable, the country or countries of final destination of the export shipment, *i.e.*, where the exported pesticide is intended to be used, if different from the country of the foreign purchaser's address.
+
+(v) A statement that indicates that the foreign purchaser understands that the product is not registered for use in the United States and cannot be sold in the United States.
+
+(vi) The signature of the foreign purchaser.
+
+(vii) The date of the foreign purchaser's signature.
+
+(2) *Reporting options.* At the discretion of the exporter, the requirements of paragraph (c)(1) of this section may be met on a per-shipment or annual basis, as stated in paragraphs (c)(2)(i) and (c)(2)(ii) of this section. If the procedures in paragraph (c)(2)(ii) of this section are not followed, EPA will consider paragraph (c)(2)(i) of this section, requiring pershipment purchaser acknowledgement statements, to be applicable in full. Where paragraph (c)(2)(i) of this section is applicable, each shipment which does not meet the requirements of that paragraph will be considered to be a separate violation of FIFRA.
+
+(i) *Per-shipment purchaser acknowledgment statement.* Unless the exporter chooses to follow the procedures described in paragraph (c)(2)(ii) of this section for the annual reporting procedures, the exporter must obtain and submit to EPA, a signed purchaser acknowledgement statement prior to each shipment of an unregistered pesticide according to the following procedures:
+
+(A) Prior to each shipment in a calendar year of an unregistered pesticide product to a particular purchaser in a foreign country, the exporter must provide the foreign purchaser with instructions about the required information on a purchaser acknowledgement statement, and inform the foreign purchaser that the pesticide product cannot be exported from the United States until the exporter has received from the foreign purchaser a properly completed, signed, and dated acknowledgment statement.
+
+(B) The exporter must obtain, prior to each shipment in a calendar year of an unregistered pesticide product to a particular purchaser in a foreign country, a signed purchaser acknowledgment statement which contains the information set forth in paragraph (c)(1) of this section.
+
+(C) The exporter must sign a statement certifying that export did not take place until a signed purchaser acknowledgement statement was received. The exporter must also specify the chemical identity of any research product which is referred to by code in the purchaser acknowledgement statement. The information regarding the specific identity of research products, which may be included in the statement or consist of an attachment to the certification, may be claimed as confidential.
+
+(D) The exporter must submit the signed acknowledgement statement from the foreign purchaser, and the accompanying certification by the exporter including attachments, to EPA within 7 working days of the exporter's receipt of the purchaser acknowledgement statement, or by the date of export, whichever occurs first. This information must be transmitted to the Office of Pesticide Programs' Document Processing Desk at the appropriate address as set forth in 40 CFR 150.17(a) or (b), Attention: Purchaser Acknowledgement Statement.
+
+(ii) *Annual reporting procedures.* Unless the exporter chooses to follow the per-shipment reporting option described in paragraph (c)(2)(i) of this section, the exporter must follow the procedures for annual summary reporting which include the requirement of a purchaser acknowledgement statement for the first shipment each calendar year of an unregistered pesticide product to a particular purchaser, and an annual summary of shipments to that purchaser. The annual summary reporting procedures are as follows:
+
+(A) Prior to the first shipment each calendar year of an unregistered pesticide product to a particular purchaser in a foreign country, the exporter must provide the foreign purchaser with instructions about the required information on a purchaser acknowledgement statement, and inform the foreign purchaser that the pesticide product cannot be exported from the United States until the exporter has received from the foreign purchaser a properly completed, signed, and dated purchaser acknowledgement statement.
+
+(B) The exporter must obtain, prior to the first shipment each calendar year of an unregistered pesticide product to a particular purchaser in a foreign country, a signed purchaser acknowledgement statement which contains the information set forth in paragraph (c)(1) of this section.
+
+(C) The exporter must sign a statement certifying that export did not take place until a signed purchaser acknowledgement statement was received, indicating that this statement is for the first shipment to a particular purchaser in a specific country for that calendar year, and that the exporter will meet all the purchaser acknowledgement statement requirements as described in this paragraph (c)(2)(ii) of this section. The exporter must also specify the chemical identity of any research product which is referred to by code in the purchaser acknowledgement statement. The information regarding the specific identity of research products, which may be included in the statement or consist of an attachment to the certification, may be claimed as confidential.
+
+(D) The exporter must submit the signed acknowledgement statement from the foreign purchaser, and the accompanying certification by the exporter including attachments, to EPA within 7 working days of the exporter's receipt of the purchaser acknowledgement statement, or by the date of export, whichever occurs first. This information must be transmitted to the Office of Pesticide Programs' Document Processing Desk at the appropriate address as set forth in 40 CFR 150.17(a) or (b), Attention: Purchaser Acknowledgement Statement.
+
+(E) The exporter, who has chosen to comply with the requirements of this paragraph instead of providing per-shipment purchaser acknowledgement statements in accordance with paragraph (c)(2)(i) of this section, must submit an annual summary report to EPA. An annual summary report is required for each unregistered pesticide exported within the preceding calendar year. The report must be in writing, signed by the exporter, and include the following information:
+
+(*1*) Name, address, and EPA identification number if applicable, of the exporter.
+
+(*2*) Name and address of the foreign purchaser, and the date the purchaser acknowledgement statement, submitted to EPA during the previous calendar year, was signed by the purchaser.
+
+(*3*) The identity of the product and the active ingredients, including: the Chemical Abstract Services (CAS) registry number for each active ingredient, the chemical nomenclature for each active ingredient used by the International Union of Pure and Applied Chemists (IUPAC), and other known chemical or common names, or if the export involves a research product, the code name or identification number that can be used by EPA to identify the product from the exporter's records.
+
+(*4*) The dates of each shipment of the pesticide exported to the foreign purchaser during that calendar year.
+
+(*5*) If known, or reasonably ascertainable, the country or countries of final destination of the export shipments, *i.e.*, where the exported pesticide was intended to be used, if different from the foreign purchaser's address.
+
+(F) The exporter shall submit the annual summary no later than March 1st of the following calendar year. The annual summary shall be sent to the Office of Pesticide Programs' Document Processing Desk at the appropriate address as set forth in 40 CFR 150.17(a) or (b), Attention: Annual Summary of Exports.
+
+(iii) *Confidentiality claims.* Persons submitting the information specified in the purchaser acknowledgement statement may assert a claim of business confidentiality by marking the information claimed confidential as “FIFRA Confidential Business Information.” Information so claimed will not be disclosed, with the exception of disclosure to the foreign governments, except in accordance with the procedures set forth in 40 CFR part 2, 7 U.S.C. 136(h), and this policy statement. If such claim is not asserted, EPA may disclose the information to the public without providing further notice prior to disclosure or an opportunity to object. Notwithstanding any claim of confidentiality, the purchaser acknowledgement statement will continue to be forwarded to the appropriate foreign government officials in its entirety, as required by section 17(a)(2).
+
+(3) *Recordkeeping.* Except as specifically stated, the requirement to retain records under part 169 of this chapter applies to all pesticide producers, regardless of whether a particular product is intended for export. All records shall be maintained in accordance with the time period required by § 169.2(h) of this chapter. Producers must also maintain certain records pertaining to pesticide products intended for export. In addition to the requirement that a copy of the purchaser acknowledgement statement be kept, as stated at § 169.2(h)(3) of this chapter, the following records must be maintained:
+
+(i) Copies of the instructions provided to foreign purchasers in accordance with paragraphs (c)(2)(i)(A) and (c)(2)(ii)(A) of this section.
+
+(ii) Copies of signed purchaser acknowledgement statements obtained according to paragraphs (c)(2)(i)(B) and (c)(2)(ii)(B) of this section.
+
+(iii) Copies of the certification from the exporter; and copies of any accompanying information regarding the identity of coded R&D products.
+
+(d) *Agency transmission of purchaser acknowledgement statements.* EPA will transmit a copy of each purchaser acknowledgement statement to the appropriate government official in each of the intended destination countries. After receipt of the Annual Summary the following calendar year, EPA will also transmit a copy of that document to the appropriate government official in each of the intended destination countries. In the case that no Annual Summary has been received within 30 days of the date at which such summary is required to be submitted, EPA will send written notification to the appropriate government official indicating that no summary was submitted, and may also take enforcement action against the exporter.
+
+[58 FR 9085, Feb. 18, 1993, as amended at 69 FR 23117, Apr. 28, 2004; 71 FR 35546, June 21, 2006; 72 FR 61029, Oct. 26, 2007]

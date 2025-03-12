@@ -1,0 +1,7 @@
+##### § 87.6 How will grant applications be evaluated and the grants awarded? #####
+
+(a) The Secretary may award grants to those applicants whose approved projects will best promote the purposes of either the Occupational Safety and Health Act or the Federal Mine Safety and Health Act on the basis of an evaluation conducted by experts or consultants engaged for this purpose.
+
+(b) This evaluation will take into account the scientific merit and significance of the project, the competency of the proposed staff in relation to the type of research or demonstration involved, the feasibility of the project, the likelihood of its producing meaningful results, the proposed project period, the adequacy of the applicant's resources available for the project, the amount of grant funds necessary for completion, and for mining grant applications, the recommendations of the Mine Health Research Advisory Committee.
+
+(c) The Secretary may evaluate and approve two or more concurrent applications, each dealing with one or more specified aspects of the project, and make two or more concurrent grant awards for the project. This may be necessary when a project involves a number of different but related problems, activities, or disciplines which would require evaluation by different groups, or when support for a project could be more effectively administered by separate handling of various aspects of the project.

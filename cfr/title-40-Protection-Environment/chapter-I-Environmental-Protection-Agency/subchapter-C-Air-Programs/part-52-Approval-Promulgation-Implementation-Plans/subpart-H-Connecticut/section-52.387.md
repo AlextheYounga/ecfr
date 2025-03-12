@@ -1,0 +1,5 @@
+##### § 52.387 Interstate Transport for the 1997 8-hour ozone and PM2.5 NAAQS. #####
+
+On March 13, 2007, the State of Connecticut submitted a State Implementation Plan (SIP) revision addressing the Section 110(a)(2)(D)(i) interstate transport requirements of the Clean Air Act for the 1997 8-hour ozone and PM2.5 National Ambient Air Quality Standards (NAAQS). There are four distinct elements related to the impact of interstate transport of air pollutants. These include prohibiting significant contribution to downwind nonattainment of the NAAQS, interference with maintenance of the NAAQS, interference with plans in another state to prevent significant deterioration of air quality, and interference with efforts of other states to protect visibility. EPA has found that Connecticut's March 13, 2007 submittal adequately addresses these four distinct elements and has approved the submittal as meeting the requirements of Section 110(a)(2)(D)(i) for the 1997 8-hour ozone and PM2.5 NAAQS.
+
+[73 FR 25518, May 7, 2008]

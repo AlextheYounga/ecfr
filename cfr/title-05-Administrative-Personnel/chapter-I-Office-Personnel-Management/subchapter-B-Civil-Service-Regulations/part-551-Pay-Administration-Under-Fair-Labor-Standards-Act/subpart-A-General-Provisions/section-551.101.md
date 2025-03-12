@@ -1,0 +1,7 @@
+##### § 551.101 General. #####
+
+(a) The Fair Labor Standards Act of 1938, as amended (referred to as “the Act” or “FLSA”), provides minimum standards for both wages and overtime entitlements, and administrative procedures by which covered worktime must be compensated. Included in the Act are provisions related to child labor, equal pay, and portal-to-portal activities. In addition, the Act exempts specified employees or groups of employees from the application of certain of its provisions and prescribes penalties for the commission of specifically prohibited acts.
+
+(b) This part contains the regulations, criteria, and conditions set forth by the Office of Personnel Management (OPM) as prescribed by the Act, supplements and implements the Act, and must be read in conjunction with it.
+
+(c) OPM's administration of the Act must comply with the terms of the Act but the law does not require OPM's regulations to mirror the Department of Labor's FLSA regulations. OPM's administration of the Act must be consistent with the Department of Labor's administration of the Act only to the extent practicable and only to the extent that this consistency is required to maintain compliance with the terms of the Act. For example, while OPM's executive, administrative, and professional exemption criteria are consistent with the Department of Labor's exemption criteria, OPM does not apply the highly compensated employee criteria in 29 CFR 541.601 to determine FLSA exemption status.

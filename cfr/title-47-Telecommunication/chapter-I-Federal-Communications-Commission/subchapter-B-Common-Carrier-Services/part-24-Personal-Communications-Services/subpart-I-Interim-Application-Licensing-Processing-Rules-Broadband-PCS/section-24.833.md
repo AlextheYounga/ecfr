@@ -1,0 +1,9 @@
+##### § 24.833 Post-auction divestitures. #####
+
+Any parties sharing a common non-controlling ownership interest who aggregate more PCS spectrum among them than a single entity is entitled to hold (*See* §§ 20.6(e), 24.710, 24.204, 24.229(c) of this chapter) will be permitted to divest sufficient properties within 90 days of the license grant to come into compliance with the spectrum aggregation limits as follows:
+
+(a) The broadband PCS applicant shall submit a signed statement with its long-form application stating that sufficient properties will be divested within 90 days of the license grant. If the licensee is otherwise qualified, the Commission will grant the applications subject to a condition that the licensee come into compliance with the PCS spectrum aggregation limits within 90 days of grant.
+
+(b) Within 90 days of license grant, the licensee must certify that the applicant and all parties to the application have come into compliance with the PCS spectrum aggregation limits. If the licensee fails to submit the certification within 90 days, the Commission will immediately cancel all broadband PCS licenses won by the applicant, impose the default penalty and, based on the facts presented, take any other action it may deem appropriate. Divestiture may be to an interim trustee if a buyer has not been secured in the required time frame, as long as the applicant has no interest in or control of the trustee, and the trustee may dispose of the property as it sees fit. In no event may the trustee retain the property for longer than six months from grant of license.
+
+[59 FR 53371, Oct. 24, 1994]

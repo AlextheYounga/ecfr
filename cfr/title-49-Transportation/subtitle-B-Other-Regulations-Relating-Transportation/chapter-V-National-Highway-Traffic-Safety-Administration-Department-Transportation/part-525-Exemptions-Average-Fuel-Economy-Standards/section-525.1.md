@@ -1,0 +1,3 @@
+##### § 525.1 Scope. #####
+
+This part establishes procedures under section 502(c) of the Motor Vehicle Information and Cost Savings Act, as amended (15 U.S.C. 2002) for the submission and disposition of petitions filed by low volume manufacturers of passenger automobiles to exempt them from the average fuel economy standards for passenger automobiles and to establish alternative average fuel economy standards for those manufacturers.

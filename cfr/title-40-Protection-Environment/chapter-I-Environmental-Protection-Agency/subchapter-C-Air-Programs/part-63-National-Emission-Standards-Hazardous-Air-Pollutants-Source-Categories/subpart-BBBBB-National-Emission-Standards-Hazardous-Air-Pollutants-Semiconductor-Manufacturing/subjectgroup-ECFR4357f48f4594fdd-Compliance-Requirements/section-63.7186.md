@@ -1,0 +1,3 @@
+##### § 63.7186 By what date must I conduct performance tests or other initial compliance demonstrations? #####
+
+For each process vent or storage tank vent emission limitation in § 63.7184 for which initial compliance is demonstrated by meeting a percent by weight HAP emissions reduction, or a HAP concentration limitation, you must conduct performance tests or an initial compliance demonstration within 180 days after the compliance date that is specified for your source in § 63.7183 and according to the provisions in § 63.7(a)(2).

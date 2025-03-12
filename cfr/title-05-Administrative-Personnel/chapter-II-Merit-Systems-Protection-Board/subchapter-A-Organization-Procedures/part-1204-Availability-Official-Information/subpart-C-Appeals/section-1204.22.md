@@ -1,0 +1,3 @@
+##### § 1204.22 Decision on appeal. #####
+
+A decision on an appeal will be made within 20 workdays after the appeal is received. A decision not to provide expeditious processing of a request will be made within 15 workdays after the appeal is received. The decision will be in writing and will contain the reasons for the decision and information about the appellant's right to seek court review of the denial.

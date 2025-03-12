@@ -1,0 +1,7 @@
+##### § 35.6010 Indian Tribe and intertribal consortium eligibility. #####
+
+(a) Indian Tribes are eligible to receive Superfund Cooperative Agreements only when they are federally recognized, and when they meet the criteria set forth in 40 CFR 300.515(b) of the National Oil and Hazardous Substances Pollution Contingency Plan (the National Contingency Plan or NCP), except that Indian Tribes shall not be required to demonstrate jurisdiction under 40 CFR 300.515(b)(3) of the NCP to be eligible for Core Program Cooperative Agreements, and those support agency Cooperative Agreements for which jurisdiction is not needed for the Tribe to carry out the support agency activities of the work plan.
+
+(b) Although section 126 of CERCLA provides that the governing body of an Indian Tribe shall be treated substantially the same as a State, the subpart O definition of “State” does not include Indian Tribes because they do not need to comply with all the statutory requirements addressed in subpart O that apply to States.
+
+(c) Intertribal consortium: An intertribal consortium is eligible to receive a Cooperative Agreement from EPA only if the intertribal consortium demonstrates that all members of the consortium meet the eligibility requirements for the Cooperative Agreement, and all members authorize the consortium to apply for and receive assistance.

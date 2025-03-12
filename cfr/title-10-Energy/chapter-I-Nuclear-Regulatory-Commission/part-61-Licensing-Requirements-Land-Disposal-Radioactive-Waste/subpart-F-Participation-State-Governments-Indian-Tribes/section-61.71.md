@@ -1,0 +1,3 @@
+##### § 61.71 State and Tribal government consultation. #####
+
+Upon request of a State or tribal governing body, the Director shall make available Commission staff to discuss with representatives of the State or tribal governing body information submitted by the applicant, applicable Commission regulations, licensing procedures, potential schedules, and the type and scope of State activities in the license review permitted by law. In addition, staff shall be made available to consult and cooperate with the State or tribal governing body in developing proposals for participation in the license review.

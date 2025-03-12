@@ -1,0 +1,5 @@
+##### § 7501.106 Bureau instructions and designation of separate agency component. #####
+
+(a) *Bureau instructions.* With the concurrence of the Designated Agency Ethics Official, the Bureau Ethics Counselor is authorized, consistent with 5 CFR 2635.105(c), to designate Deputy Bureau Ethics Counselors, to make a determination, issue explanatory guidance, and establish procedures necessary to implement this part, subpart I of 5 CFR part 2634, and 5 CFR part 2635 for the Bureau.
+
+(b) *Designation of separate agency component.* Pursuant to 5 CFR 2635.203(a), the Office of the Inspector General is designated as a separate agency for purposes of the regulations contained in subpart B of 5 CFR part 2635, governing gifts from outside sources; and 5 CFR 2635.807, governing teaching, speaking, or writing.

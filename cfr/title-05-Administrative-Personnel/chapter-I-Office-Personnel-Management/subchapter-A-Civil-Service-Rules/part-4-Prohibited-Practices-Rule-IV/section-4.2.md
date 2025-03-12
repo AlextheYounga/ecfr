@@ -1,0 +1,5 @@
+##### § 4.2 Prohibition against racial, political or religious discrimination. #####
+
+No person employed in the executive branch of the Federal Government who has authority to take or recommend any personnel action with respect to any person who is an employee in the competitive service or any eligible or applicant for a position in the competitive service shall make any inquiry concerning the race, political affiliation, or religious beliefs of any such employee, eligible, or applicant. All disclosures concerning such matters shall be ignored, except as to such membership in political parties or organizations as constitutes by law a disqualification for Government employment. No discrimination shall be exercised, threatened, or promised by any person in the executive branch of the Federal Government against or in favor of any employee in the competitive service, or any eligible or applicant for a position in the competitive service because of his race, political affiliation, or religious beliefs, except as may be authorized or required by law.
+
+[28 FR 10024, Sept. 14, 1963]

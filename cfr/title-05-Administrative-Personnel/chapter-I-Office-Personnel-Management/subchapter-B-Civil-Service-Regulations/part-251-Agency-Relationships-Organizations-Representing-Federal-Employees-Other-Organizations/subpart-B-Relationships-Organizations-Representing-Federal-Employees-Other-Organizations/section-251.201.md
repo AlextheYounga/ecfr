@@ -1,0 +1,7 @@
+##### § 251.201 Associations of management officials and/or supervisors. #####
+
+(a) As part of agency management, supervisors and managers should be included in the decision-making process and notified of executive-level decisions on a timely basis. Each agency must establish and maintain a system for intra-management communication and consultation with its supervisors and managers. Agencies must also establish consultative relationships with associations whose membership is primarily composed of Federal supervisory and/or managerial personnel, provided that such associations are not affiliated with any labor organization and that they have sufficient agency membership to assure a worthwhile dialogue with executive management. Consultative relationships with other non-labor organizations representing Federal employees are discretionary.
+
+(b) Consultations should have as their objectives the improvement of managerial effectiveness and the working conditions of supervisors and managers, as well as the identification and resolution of problems affecting agency operations and employees, including supervisors and managers.
+
+(c) The system of communication and consultation should be designed so that individual supervisors and managers are able to participate if they are not affiliated with an association of management officials and/or supervisors. At the same time, the voluntary joining together of supervisory and management personnel in groups of associations shall not be precluded or discouraged.

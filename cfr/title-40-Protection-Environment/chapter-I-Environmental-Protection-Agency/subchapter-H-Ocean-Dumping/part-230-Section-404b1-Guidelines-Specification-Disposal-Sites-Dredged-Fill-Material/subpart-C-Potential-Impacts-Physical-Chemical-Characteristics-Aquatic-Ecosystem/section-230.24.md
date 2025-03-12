@@ -1,0 +1,5 @@
+##### § 230.24 Normal water fluctuations. #####
+
+(a) Normal water fluctuations in a natural aquatic system consist of daily, seasonal, and annual tidal and flood fluctuations in water level. Biological and physical components of such a system are either attuned to or characterized by these periodic water fluctuations.
+
+(b) Possible loss of environmental characteristics and values: The discharge of dredged or fill material can alter the normal water-level fluctuation pattern of an area, resulting in prolonged periods of inundation, exaggerated extremes of high and low water, or a static, nonfluctuating water level. Such water level modifications may change salinity patterns, alter erosion or sedimentation rates, aggravate water temperature extremes, and upset the nutrient and dissolved oxygen balance of the aquatic ecosystem. In addition, these modifications can alter or destroy communities and populations of aquatic animals and vegetation, induce populations of nuisance organisms, modify habitat, reduce food supplies, restrict movement of aquatic fauna, destroy spawning areas, and change adjacent, upstream, and downstream areas.

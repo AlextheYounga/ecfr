@@ -1,0 +1,5 @@
+##### § 1135.1 Quarterly adjustment. #####
+
+To enable the Board to publish the rail cost adjustment factor (RCAF) as required by 49 U.S.C. 10708, the Association of American Railroads (AAR) shall calculate and file with the Board by the fifth day of December, March, June and September of each year its forecast for the next calendar quarter of the all-inclusive index of railroad costs and calculate and file the RCAF unadjusted for changes in railroad productivity as prescribed in *Railroad Cost Recovery Procedures,* 1 I.C.C.2d 207 (1984), and any subsequent amendments thereto. In addition, the AAR shall calculate the productivity-adjusted RCAF as prescribed in *Railroad Cost Recovery Procedures,* 5 I.C.C.2d 434 (1989), and any subsequent amendments thereto. The AAR shall submit workpapers detailing its calculations. The Board will review and verify the AAR submissions and make its RCAF publication by the twentieth day of December, March, June and September of each year.
+
+[67 FR 55166, Aug. 28, 2002]

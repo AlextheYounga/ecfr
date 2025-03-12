@@ -1,0 +1,3 @@
+##### § 330.41 What funds is the Department setting aside for eligible classes of air carriers? #####
+
+The Department is setting aside a sum of up to $35 million to compensate eligible classes of air carriers, for which application of a distribution formula containing ASMs as a factor, as set forth in section 103(b)(2) of the Act, would inadequately reflect their share of direct and incremental losses.

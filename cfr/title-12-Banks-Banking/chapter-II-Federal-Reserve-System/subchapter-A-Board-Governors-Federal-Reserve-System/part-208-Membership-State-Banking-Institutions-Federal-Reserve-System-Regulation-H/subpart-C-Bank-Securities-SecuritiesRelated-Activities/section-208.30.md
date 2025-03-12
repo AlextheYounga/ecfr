@@ -1,0 +1,5 @@
+##### § 208.30 Authority, purpose, and scope. #####
+
+(a) *Authority.* Subpart C of Regulation H (12 CFR part 208, subpart C) is issued by the Board of Governors of the Federal Reserve System under 12 U.S.C. 24, 92a, 93a; sections 1818 and 1831p-1(a)(2) of the FDI Act (12 U.S.C. 1818, 1831p-1(a)(2)); and sections 78b, 78l(b), 78l(g), 78l(i), 78o-4(c)(5), 78o-5, 78q, 78q-1, and 78w of the Securities Exchange Act of 1934 (15 U.S.C. 78b, 78l(b), 78l(g), 78l(i), 78o-4(c)(5), 78o-5, 78q, 78q-1, 78w).
+
+(b) *Purpose and scope.* This subpart C describes the requirements imposed upon member banks acting as transfer agents, registered clearing agencies, or sellers of securities under the Securities Exchange Act of 1934. This subpart C also describes the reporting requirements imposed on member banks whose securities are subject to registration under the Securities Exchange Act of 1934.

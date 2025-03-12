@@ -1,0 +1,3 @@
+##### § 438.13 Effluent limitations attainable by application of the best control technology for conventional pollutants (BCT). #####
+
+Except as provided at 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve the following effluent limitation representing the application of BCT: Limitations for TSS, O&G (as HEM) and pH are the same as the corresponding limitation specified at § 438.12.

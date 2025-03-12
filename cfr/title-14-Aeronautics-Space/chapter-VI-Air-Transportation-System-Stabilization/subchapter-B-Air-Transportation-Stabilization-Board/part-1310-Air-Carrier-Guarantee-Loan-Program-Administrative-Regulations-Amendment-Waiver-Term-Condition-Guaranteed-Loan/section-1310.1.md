@@ -1,0 +1,3 @@
+##### § 1310.1 Purpose and scope. #####
+
+This part is issued by the Air Transportation Stabilization Board pursuant to Section 102(c)(2)(B) of the Air Transportation Safety and System Stabilization Act, Public Law 107-42, 115 Stat. 230 (Act). This part describes the Board's authorities, organizational structure, the rules by which the Board takes actions, and procedures for public access to Board records.

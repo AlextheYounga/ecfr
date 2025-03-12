@@ -1,0 +1,3 @@
+##### § 1009.6 Dissemination of prices and charges. #####
+
+Current prices and charges for specific materials and services are available from the DOE laboratory or office providing the material or service, or from the responsible program office. If this office cannot be determined, inquiries regarding the appropriate contact office should be addressed to the Office, of Finance and Accounting, Product Accounting and Pricing Branch, Mail Station 4A-139, 1000 Independence Avenue, SW., Washington, DC 20585.

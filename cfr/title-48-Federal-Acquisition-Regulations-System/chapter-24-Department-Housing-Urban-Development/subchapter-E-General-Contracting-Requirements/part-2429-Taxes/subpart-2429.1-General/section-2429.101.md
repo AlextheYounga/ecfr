@@ -1,0 +1,5 @@
+##### 2429.101 Resolving tax problems. #####
+
+In order to have uniformity in HUD's treatment of the tax aspects of contracting and ensure effective cooperation with other Government agencies on tax matters of mutual interest, the Office of General Counsel has the responsibility within HUD for handling all those tax problems. Therefore, the contracting activity will not engage in negotiation with any taxing authority for the purpose of determining the validity or applicability of, or obtaining exemptions from or refund of, any tax. When a problem exists, the Contracting Officer shall request, in writing, the assistance of legal counsel. The request shall detail the problem and be accompanied by appropriate backup data. Counsel shall report to the Contracting Officer as to the necessary disposition of the tax problem. The Contracting Officer will notify the contractor of the outcome of the tax problem. Counsel is responsible for communications with the Department of Justice for representation or intervention in proceedings concerning taxes.
+
+[60 FR 46157, Sept. 5, 1995]

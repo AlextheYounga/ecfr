@@ -1,0 +1,5 @@
+##### § 250.1453 What if I do not correct the violation? #####
+
+(a) We may send you a Notice of Civil Penalty if you do not correct all of the violations identified in the Notice of Noncompliance within 20 days after you receive the Notice of Noncompliance (or within a longer time period specified in that Notice). The Notice of Civil Penalty will tell you how much penalty you must pay. The penalty may be up to $500 per day, beginning with the date of the Notice of Noncompliance, for each violation identified in the Notice of Noncompliance for as long as you do not correct the violations.
+
+(b) If you do not correct all of the violations identified in the Notice of Noncompliance within 40 days after you receive the Notice of Noncompliance (or 20 days following the expiration of a longer time period specified in that Notice), we may increase the penalty to up to $5,000 per day, beginning with the date of the Notice of Noncompliance, for each violation for as long as you do not correct the violations.

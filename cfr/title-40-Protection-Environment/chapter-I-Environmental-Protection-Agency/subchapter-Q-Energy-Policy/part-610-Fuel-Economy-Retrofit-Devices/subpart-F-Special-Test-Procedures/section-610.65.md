@@ -1,0 +1,3 @@
+##### § 610.65 Other test procedures. #####
+
+The Administrator may, pursuant to § 610.31(c), choose a test procedure or procedures from those used by research organizations in government, the oil industry, engine manufacturing companies, and independent laboratories. If none of these is deemed suitable, the Administrator may, in consultation with the party requesting the test, design a dynamometer, track or road test to measure the effects of the device.

@@ -1,0 +1,3 @@
+##### § 512.12 What if I am submitting multiple items of information? #####
+
+Any certificate provided under § 512.4(b) of this part, and any supporting information provided under § 512.4(c) of this part, may be used to support a claim for confidential treatment of more than one item of information. However, general or nonspecific assertions or analysis may be insufficient to form an adequate basis for the agency to find that the information is entitled to confidential treatment, and may result in the denial of the claim.

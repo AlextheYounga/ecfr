@@ -1,0 +1,5 @@
+##### § 1208.22 Review of FHFA records related to the debt. #####
+
+(a) *Request for review.* An employee who desires to inspect or copy FHFA records related to a debt owed by the employee to FHFA must send a letter to the individual designated in the Notice of Intent requesting access to the relevant records. The letter must be received in the office of that individual within 15 calendar days after the employee's receipt of the Notice of Intent.
+
+(b) *Review location and time.* In response to a timely request submitted by the employee, the employee shall be notified of the location and time when the employee may inspect and copy records related to his or her debt that are not exempt from disclosure. If the employee is unable personally to inspect such records as the result of geographical or other constraints, FHFA shall arrange to send copies of such records to the employee. The debtor shall pay copying costs unless they are waived by FHFA. Copying costs shall be assessed pursuant to FHFA's Freedom of Information Act Regulation, 12 CFR part 1202.

@@ -1,0 +1,3 @@
+##### § 221.152 Method of withdrawing portion of authority conferred by power of attorney. #####
+
+If a carrier desires to issue a power of attorney conferring less authority than a previous power of attorney issued in favor of the same agent, the new power of attorney shall not direct the cancellation of such previous power of attorney. In such circumstances, such previous power of attorney shall be revoked by issuing and filing a Notice of Revocation of Power of Attorney in a form acceptable to the Office of International Aviation. Such revocation notice shall include reference to the new power of attorney.

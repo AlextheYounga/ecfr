@@ -1,0 +1,5 @@
+##### § 455.103 Requirements for applications for credit. #####
+
+(a) If a State has provided for credit in its State Plan pursuant to § 455.20(w), applications for credit will be considered only when the technical assistance programs or updates and the energy conservation measure projects for which credit is sought meet the applicable program requirements, such as those specified in § 455.61, § 455.62, § 455.71, and the relevant sections of 10 CFR part 600, except that the project need not comply with the Davis-Bacon Act regarding labor standards or wage rates.
+
+(b) Credit for energy conservation measures will be considered only when supported by a technical assistance analysis that meets the requirements of § 455.62 and that was performed prior to the installation of the energy conservation measures.

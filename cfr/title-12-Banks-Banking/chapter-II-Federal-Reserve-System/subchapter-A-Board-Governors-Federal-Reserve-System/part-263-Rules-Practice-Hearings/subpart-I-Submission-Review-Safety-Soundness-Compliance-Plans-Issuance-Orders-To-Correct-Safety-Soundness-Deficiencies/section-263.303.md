@@ -1,0 +1,15 @@
+##### § 263.303 Filing of safety and soundness compliance plan. #####
+
+(a) *Schedule for filing compliance plan*—(1) *In general.* A State member bank shall file a written safety and soundness compliance plan with the Board within 30 days of receiving a request for a compliance plan pursuant to § 263.302(b), unless the Board notifies the bank in writing that the plan is to be filed within a different period.
+
+(2) *Other plans.* If a State member bank is obligated to file, or is currently operating under, a capital restoration plan submitted pursuant to section 38 of the FDI Act (12 U.S.C. 1831o), a cease-and-desist order entered into pursuant to section 8 of the FDI Act, a formal or informal agreement, or a response to a report of examination or report of inspection, it may, with the permission of the Board, submit a compliance plan under this section as part of that plan, order, agreement, or response, subject to the deadline provided in paragraph (a)(1) of this section.
+
+(b) *Contents of plan.* The compliance plan shall include a description of the steps the State member bank will take to correct the deficiency and the time within which those steps will be taken.
+
+(c) *Review of safety and soundness compliance plans.* Within 30 days after receiving a safety and soundness compliance plan under this subpart, the Board shall provide written notice to the bank of whether the plan has been approved or seek additional information from the bank regarding the plan. The Board may extend the time within which notice regarding approval of a plan will be provided.
+
+(d) *Failure to submit or implement a compliance plan*—(1) *Supervisory actions.* If a State member bank fails to submit an acceptable plan within the time specified by the Board or fails in any material respect to implement a compliance plan, then the Board shall, by order, require the bank to correct the deficiency and may take further actions provided in section 39(e)(2)(B). Pursuant to section 39(e)(3), the Board may be required to take certain actions if the bank commenced operations or experienced a change in control within the previous 24-month period, or the bank experienced extraordinary growth during the previous 18-month period.
+
+(2) *Extraordinary growth.* For purposes of paragraph (d)(1) of this section, *extraordinary growth* means an increase in assets of more than 7.5 percent during any quarter within the 18-month period preceding the issuance of a request for submission of a compliance plan, by a bank that is not well capitalized for purposes of section 38 of the FDI Act. For purposes of calculating an increase in assets, assets acquired through merger or acquisition approved pursuant to the Bank Merger Act (12 U.S.C. 1828(c)) will be excluded.
+
+(e) *Amendment of compliance plan.* A State member bank that has filed an approved compliance plan may, after prior written notice to and approval by the Board, amend the plan to reflect a change in circumstance. Until such time as a proposed amendment has been approved, the bank shall implement the compliance plan as previously approved.

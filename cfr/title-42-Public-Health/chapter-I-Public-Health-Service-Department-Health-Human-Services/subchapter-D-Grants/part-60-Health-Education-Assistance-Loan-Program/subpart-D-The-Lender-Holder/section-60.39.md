@@ -1,0 +1,11 @@
+##### § 60.39 Death and disability claims. #####
+
+(a) *Death.* The Secretary will discharge a borrower's liability on the loan in accordance with section 738 of the Act upon the death of the borrower. The holder of the loan may not attempt to collect on the loan from the borrower's estate or any endorser. The holder must secure a certification of death or whatever official proof is conclusive under State law. The holder must return to the sender any payments, except for refunds under § 60.21, received from the estate of the borrower or paid on behalf of the borrower after the date of death.
+
+(b) *Disability.* (1) The Secretary will discharge a borrower's liability on the loan in accordance with section 738 of the Act if the borrower is found to be permanently and totally disabled on recommendation of the holder of the loan and as supported by whatever medical certification the Secretary may require. A borrower is totally and permanently disabled if he or she is unable to engage in any substantial gainful activity because of a medically determinable impairment, which the Secretary expects to continue for a long and indefinite period of time or to result in death.
+
+(2) After being notified by the borrower or the borrower's representative that the borrower claims to be totally and permanently disabled, the holder of the loan may not attempt to collect on the loan from the borrower or any endorser. The holder must promptly request that the Secretary determine whether a borrower has become totally and permanently disabled. With its request, the holder must submit medical evidence no more than 4 months old that it has obtained from the borrower or the borrower's representative.
+
+(3) If the Secretary determines that the borrower is totally and permanently disabled, the lender or holder must return to the borrower any payments, except for refunds under § 60.21, that it receives after being notified that the borrower claims to be totally and permanently disabled.
+
+(Approved by the Office of Management and Budget under control number 0915-0108)[48 FR 38988, Aug. 26, 1983, as amended at 57 FR 28797, June 29, 1992]

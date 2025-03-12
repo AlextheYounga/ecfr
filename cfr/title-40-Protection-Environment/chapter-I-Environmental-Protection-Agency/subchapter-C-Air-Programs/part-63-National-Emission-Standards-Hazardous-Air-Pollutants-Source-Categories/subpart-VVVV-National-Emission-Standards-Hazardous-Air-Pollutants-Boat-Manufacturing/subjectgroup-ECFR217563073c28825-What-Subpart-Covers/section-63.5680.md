@@ -1,0 +1,3 @@
+##### § 63.5680 What is the purpose of this subpart? #####
+
+(a) This subpart establishes national emission standards for hazardous air pollutants (HAP) for new and existing boat manufacturing facilities with resin and gel coat operations, carpet and fabric adhesive operations, or aluminum recreational boat surface coating operations. This subpart also establishes requirements to demonstrate initial and continuous compliance with the emission standards.

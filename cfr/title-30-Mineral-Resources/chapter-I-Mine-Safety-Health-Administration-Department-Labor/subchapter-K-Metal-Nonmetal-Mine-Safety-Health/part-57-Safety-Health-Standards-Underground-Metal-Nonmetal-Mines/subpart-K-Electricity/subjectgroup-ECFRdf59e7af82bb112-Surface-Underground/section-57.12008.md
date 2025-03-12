@@ -1,0 +1,3 @@
+##### § 57.12008 Insulation and fittings for power wires and cables. #####
+
+Power wires and cables shall be insulated adequately where they pass into or out of electrical compartments. Cables shall enter metal frames of motors, splice boxes, and electrical compartments only through proper fittings. When insulated wires, other than cables, pass through metal frames, the holes shall be substantially bushed with insulated bushings.

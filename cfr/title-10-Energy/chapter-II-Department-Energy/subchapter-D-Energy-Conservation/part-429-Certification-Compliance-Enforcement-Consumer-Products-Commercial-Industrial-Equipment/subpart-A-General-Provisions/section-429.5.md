@@ -1,0 +1,5 @@
+##### § 429.5 Imported products. #####
+
+(a) Any person importing any covered product or covered equipment into the United States shall comply with the provisions of this part, and parts 430 and 431, and is subject to the remedies of this part.
+
+(b) Any covered product or covered equipment offered for importation in violation of this part, or part 430 or 431, shall be refused admission into the customs territory of the United States under rules issued by the U.S. Customs and Border Protection (CBP) and subject to further remedies as provided by law, except that CBP may, by such rules, authorize the importation of such covered product or covered equipment upon such terms and conditions (including the furnishing of a bond) as may appear to CBP appropriate to ensure that such covered product or covered equipment will not violate this part, or part 430 or 431, or will be exported or abandoned to the United States.

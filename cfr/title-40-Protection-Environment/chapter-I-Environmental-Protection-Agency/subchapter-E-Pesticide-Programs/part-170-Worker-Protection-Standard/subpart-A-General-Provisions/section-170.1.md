@@ -1,0 +1,3 @@
+##### § 170.1 Scope and purpose. #####
+
+This part contains a standard designed to reduce the risks of illness or injury resulting from workers' and handlers' occupational exposures to pesticides used in the production of agricultural plants on farms or in nurseries, greenhouses, and forests and also from the accidental exposure of workers and other persons to such pesticides. It requires workplace practices designed to reduce or eliminate exposure to pesticides and establishes procedures for responding to exposure-related emergencies.

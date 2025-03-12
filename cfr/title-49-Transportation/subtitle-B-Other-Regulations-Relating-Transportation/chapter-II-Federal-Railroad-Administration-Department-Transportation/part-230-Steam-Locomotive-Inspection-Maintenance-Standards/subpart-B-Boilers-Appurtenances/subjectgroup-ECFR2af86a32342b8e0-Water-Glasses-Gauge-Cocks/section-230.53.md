@@ -1,0 +1,3 @@
+##### § 230.53 Time of cleaning. #####
+
+The spindles of all water glass valves and of all gauge cocks shall be removed and valves and cocks thoroughly cleaned of scale and sediment at every 31 service day inspection, and when testing indicates that the apparatus may be malfunctioning. In addition, the top and bottom passages of the water column shall be cleaned and inspected at each annual inspection.

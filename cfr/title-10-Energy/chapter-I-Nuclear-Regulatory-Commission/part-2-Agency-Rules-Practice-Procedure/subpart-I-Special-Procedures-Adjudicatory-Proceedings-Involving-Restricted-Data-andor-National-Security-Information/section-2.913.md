@@ -1,0 +1,3 @@
+##### § 2.913 Review of Restricted Data or other National Security Information received in evidence. #####
+
+At the close of the reception of evidence, the presiding officer shall review the record and shall direct that any Restricted Data or other National Security Information be expunged from the record where such expunction would not prejudice the interests of a party or the public interest. Such directions by the presiding officer will be considered by the Commission in the event of review of the determinations of the presiding officer.

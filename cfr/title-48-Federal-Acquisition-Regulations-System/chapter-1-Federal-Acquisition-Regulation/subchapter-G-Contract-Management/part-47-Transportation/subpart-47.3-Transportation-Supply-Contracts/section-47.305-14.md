@@ -1,0 +1,3 @@
+##### 47.305-14 Mode of transportation. #####
+
+Generally, solicitations shall not specify a particular mode of transportation or a particular carrier. If the use of particular types of carriers is necessary to meet program requirements, the solicitation shall provide that only offers involving the specified types of carriers will be considered. The contracting officer shall obtain all specifications for mode, route, delivery, etc., from the transportation office.

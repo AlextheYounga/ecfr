@@ -1,0 +1,7 @@
+##### § 147.2253 EPA-administered program—Indian lands. #####
+
+(a) *Contents.* The UIC program for all classes of wells on Indian lands in the State of Utah, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program (as defined in § 147.3400), is administered by EPA. The program for wells on Navajo Indian lands, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program, and for Ute Mountain Ute consists of the requirements set forth at subpart HHH of this part. The program for all other wells on Indian lands consists of the UIC program requirements of 40 CFR parts 124, 144, 146, 148, and any additional requirements set forth in the remainder of this subpart. Injection well owners and operators, and EPA shall comply with these requirements.
+
+(b) *Effective date.* The effective date for this program for all other Indian lands in Utah, except for Class II wells on Navajo Indian lands for which EPA has granted the Navajo Nation primacy for the SDWA Class II UIC program (as defined in § 147.3400), is November 25, 1988.
+
+[53 FR 40391, Oct. 25, 1988, as amended at 56 FR 9420, Mar. 6, 1991; 73 FR 65565, Nov. 4, 2008]

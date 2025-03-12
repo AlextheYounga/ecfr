@@ -1,0 +1,5 @@
+##### § 230.43 Vegetated shallows. #####
+
+(a) Vegetated shallows are permanently inundated areas that under normal circumstances support communities of rooted aquatic vegetation, such as turtle grass and eelgrass in estuarine or marine systems as well as a number of freshwater species in rivers and lakes.
+
+(b) Possible loss of values: The discharge of dredged or fill material can smother vegetation and benthic organisms. It may also create unsuitable conditions for their continued vigor by: (1) Changing water circulation patterns; (2) releasing nutrients that increase undesirable algal populations; (3) releasing chemicals that adversely affect plants and animals; (4) increasing turbidity levels, thereby reducing light penetration and hence photosynthesis; and (5) changing the capacity of a vegetated shallow to stabilize bottom materials and decrease channel shoaling. The discharge of dredged or fill material may reduce the value of vegetated shallows as nesting, spawning, nursery, cover, and forage areas, as well as their value in protecting shorelines from erosion and wave actions. It may also encourage the growth of nuisance vegetation.

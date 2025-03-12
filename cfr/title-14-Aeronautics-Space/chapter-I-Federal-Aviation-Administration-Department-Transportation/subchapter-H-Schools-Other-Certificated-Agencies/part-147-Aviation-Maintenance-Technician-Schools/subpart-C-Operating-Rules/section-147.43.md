@@ -1,0 +1,3 @@
+##### § 147.43 Inspection. #####
+
+The Administrator may, at any time, inspect an aviation maintenance technician school to determine its compliance with this part. Such an inspection is normally made once each six months to determine if the school continues to meet the requirements under which it was originally certificated. After such an inspection is made, the school is notified, in writing, of any deficiencies found during the inspection. Other informal inspections may be made from time to time.

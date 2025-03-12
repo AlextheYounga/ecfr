@@ -1,0 +1,9 @@
+##### § 10.34 Action by the Commission. #####
+
+(a) Whenever, under the provisions of § 10.28(i), (j), or (l) an individual has not been afforded an opportunity to confront and cross-examine witnesses who have furnished information adverse to the individual and an adverse recommendation has been made by the Deputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs , the Commission shall review the record and determine whether an access authorization and/or an employment clearance should be granted, denied, or revoked, based upon the record.
+
+(b) When the Commission determines to deny or revoke access authorization and/or employment clearance, the individual shall promptly be notified through the Director, Office of Administration, of its decision that access authorization and/or employment clearance is being denied or revoked and of its findings and conclusions with respect to each allegation contained in the notification letter for transmittal to the individual.
+
+(c) Nothing contained in these procedures shall be deemed to limit or affect the responsibility and powers of the Commission to deny or revoke access to Restricted Data or national security information if the security of the nation so requires. Such authority may not be delegated and may be exercised when the Commission determines that invocation of the procedures prescribed in this part is inconsistent with the national security. Such determination shall be conclusive.
+
+[47 FR 38676, Sept. 2, 1982, as amended at 52 FR 31610, Aug. 21, 1987; 54 FR 53316, Dec. 28, 1989; 64 FR 15645, Apr. 1, 1999]

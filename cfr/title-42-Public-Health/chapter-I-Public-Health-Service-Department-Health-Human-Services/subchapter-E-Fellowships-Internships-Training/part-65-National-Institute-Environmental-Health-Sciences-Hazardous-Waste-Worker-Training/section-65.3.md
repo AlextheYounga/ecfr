@@ -1,0 +1,3 @@
+##### § 65.3 Who is eligible to apply for a grant? #####
+
+Public and private nonprofit entities providing worker health and safety education and training may apply for grants under these regulations. Applicants for a grant may use services, as appropriate, of other public or private organizations necessary to develop, administer, or evaluate proposed worker training programs so long as the majority of the work is done by the applicant.

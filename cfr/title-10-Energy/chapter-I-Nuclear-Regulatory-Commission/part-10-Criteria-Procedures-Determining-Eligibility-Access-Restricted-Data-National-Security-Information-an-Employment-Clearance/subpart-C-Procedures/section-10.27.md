@@ -1,0 +1,9 @@
+##### § 10.27 Prehearing proceedings. #####
+
+(a) After the appointment of the Hearing Examiner, he or she shall be furnished the record in the case, which shall consist of the letter of notification, the request for hearing and its supporting answer, and the notice of hearing, if it has been issued, and any stipulations agreed to by the individual and the Hearing Counsel.
+
+(b) The Hearing Examiner may on his or her own motion, or on that of either party, convene a prehearing conference with the Hearing Counsel and the individual and his or her counsel or representative, if any, for the purpose of clarifying the issues, identifying witnesses who may be called, identifying documents and other physical evidence that may be offered into evidence, and entering into stipulations of fact.
+
+(c) The parties will be notified by the Hearing Examiner at least ten days in advance of the hearing of the time and place of the hearing. For good cause shown, the Hearing Examiner may order postponements or continuances from time to time. If, after due notice, the individual fails to appear at the hearing, or appears but is not prepared to proceed, the Hearing Examiner shall, unless good cause is shown, return the case to the Director, Division of Facilities and Security, who shall make a recommendation on final action to be taken, through the Director, Office of Administration, to the Deputy Executive Director for Materials, Waste, Research, State, Tribal, Compliance, Administration, and Human Capital Programs on the basis of the information in the possession of the NRC.
+
+[47 FR 38676, Sept. 2, 1982, as amended at 52 FR 31609, Aug. 21, 1987; 54 FR 53316, Dec. 28, 1989; 64 FR 15643, Apr. 1, 1999]

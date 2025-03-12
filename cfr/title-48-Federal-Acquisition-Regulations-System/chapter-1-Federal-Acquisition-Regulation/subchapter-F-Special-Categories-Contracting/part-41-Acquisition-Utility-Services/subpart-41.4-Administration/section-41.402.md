@@ -1,0 +1,9 @@
+##### 41.402 Rate changes and regulatory intervention. #####
+
+(a) When a change is proposed to rates or terms and conditions of service to the Government, the agency shall promptly determine whether the proposed change is reasonable, justified, and not discriminatory.
+
+(b) If a change is proposed to rates or terms and conditions of service that may be of interest to other Federal agencies, and intervention before a regulatory body is considered justified, the matter shall be referred to GSA. The agency may request from GSA a delegation of authority for the agency to intervene on behalf of the consumer interests of the Federal executive agencies (see 41.301).
+
+(c) Pursuant to 52.241-7, Change in Rates or Terms and Conditions of Service for Regulated Services, if a regulatory body approves a rate change, any rate change shall be made a part of the contract by unilateral contract modification or otherwise documented in accordance with agency procedures. The approved applicable rate shall be effective on the date determined by the regulatory body and resulting rates and charges shall be paid promptly to avoid late payment provisions. Copies of the modification containing the approved rate change shall be sent to the agency's paying office or office responsible for verifying billed amounts (see 41.401).
+
+(d) If the utility supplier is not regulated and the rates, terms, and conditions of service are subject to negotiation pursuant to the clause at 52.241-8, Change in Rates or Terms and Conditions of Service for Unregulated Services, any rate change shall be made a part of the contract by contract modification, with copies sent to the agency's paying office or office responsible for verifying billed amounts.

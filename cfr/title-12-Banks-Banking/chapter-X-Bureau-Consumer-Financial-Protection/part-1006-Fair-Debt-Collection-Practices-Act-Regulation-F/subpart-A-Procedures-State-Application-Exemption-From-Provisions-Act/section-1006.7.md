@@ -1,0 +1,5 @@
+##### § 1006.7 Adverse determination. #####
+
+(a) If, after publication of a notice in the Federal Register as provided under § 1006.5 of this part, the Bureau finds on the basis of the information before it that it cannot make a favorable determination in connection with the application, the Bureau shall notify the appropriate state official of the facts upon which such findings are based and shall afford that state authority a reasonable opportunity to demonstrate or achieve compliance.
+
+(b) If, after having afforded the state authority such opportunity to demonstrate or achieve compliance, the Bureau finds on the basis of the information before it that it still cannot make a favorable determination in connection with the application, the Bureau shall publish in the Federal Register a notice of its determination regarding the application and shall furnish a copy of such notice to the state official who made application for such exemption.

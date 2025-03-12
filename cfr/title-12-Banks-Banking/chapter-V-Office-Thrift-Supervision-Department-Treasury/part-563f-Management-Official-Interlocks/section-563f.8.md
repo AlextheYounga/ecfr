@@ -1,0 +1,3 @@
+##### § 563f.8 Enforcement. #####
+
+Except as provided in this section, the OTS administers and enforces the Interlocks Act with respect to savings associations, savings and loan holding companies, and affiliates of either, and may refer any case of a prohibited interlocking relationship involving these entities to the Attorney General of the United States to enforce compliance with the Interlocks Act and this part. If an affiliate of a savings association or savings and loan holding company is subject to the primary regulation of another Federal depository organization supervisory agency, then the OTS does not administer and enforce the Interlocks Act with respect to that affiliate.

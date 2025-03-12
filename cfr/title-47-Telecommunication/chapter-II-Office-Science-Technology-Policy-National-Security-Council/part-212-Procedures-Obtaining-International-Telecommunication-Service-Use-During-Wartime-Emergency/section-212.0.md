@@ -1,0 +1,5 @@
+##### § 212.0 Authority. #####
+
+(a) Authority to establish arrangements to ensure that the NS/EP telecommunications needs of all Federal government entities are met in a manner consistent, to the maximum extent practicable, with other telecommunications policies is contained in Executive Order 12472 and Executive Order 12046.
+
+(b) These procedures are applicable to the communications common carriers and non-Federal Government users under the President's authority contained in subsection 706(a)-(d) of the Communications Act of 1934 (47 U.S.C. 606(a)-(d)), as amended. The authority under subsection 706(a) has been delegated by Executive Order 12472 to the Director of the Office of Science and Technology Policy, contingent upon issuance by the President of implementing instructions in accordance with the National Emergencies Act (50 U.S.C. 1601). This authority may be exercised only during wartime emergencies.

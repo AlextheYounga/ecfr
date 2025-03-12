@@ -1,0 +1,5 @@
+##### § 483.350 Basis and scope. #####
+
+(a) *Statutory basis.* Sections 1905(a)(16) and (h) of the Act provide that inpatient psychiatric services for individuals under age 21 include only inpatient services that are provided in an institution (or distinct part thereof) that is a psychiatric hospital as defined in section 1861(f) of the Act or in another inpatient setting that the Secretary has specified in regulations. Additionally, the Children's Health Act of 2000 (Pub. L. 106-310) imposes procedural reporting and training requirements regarding the use of restraints and involuntary seclusion in facilities, specifically including facilities that provide inpatient psychiatric services for children under the age of 21 as defined by sections 1905(a)(16) and (h) of the Act.
+
+(b) *Scope.* This subpart imposes requirements regarding the use of restraint or seclusion in psychiatric residential treatment facilities, that are not hospitals, providing inpatient psychiatric services to individuals under age 21.

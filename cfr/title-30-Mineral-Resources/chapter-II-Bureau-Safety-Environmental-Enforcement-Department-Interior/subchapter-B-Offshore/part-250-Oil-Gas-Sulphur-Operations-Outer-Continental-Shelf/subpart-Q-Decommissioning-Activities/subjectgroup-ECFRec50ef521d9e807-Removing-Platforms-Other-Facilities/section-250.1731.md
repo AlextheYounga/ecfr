@@ -1,0 +1,7 @@
+##### § 250.1731 Who is responsible for decommissioning an OCS facility subject to an Alternate Use RUE? #####
+
+(a) The holder of an Alternate Use RUE issued under 30 CFR part 585 is responsible for all decommissioning obligations that accrue following the issuance of the Alternate Use RUE and which pertain to the Alternate Use RUE. See 30 CFR part 585, subpart J, for additional information concerning the decommissioning responsibilities of an Alternate Use RUE grant holder.
+
+(b) The lessee under the lease originally issued under 30 CFR part 556 will remain responsible for decommissioning obligations that accrued before issuance of the Alternate Use RUE, as well as for decommissioning obligations that accrue following issuance of the Alternate Use RUE to the extent associated with continued activities authorized under this part.
+
+(c) If a lease issued under 30 CFR part 556 is cancelled or otherwise terminated under any provision of this subchapter, the lessee, upon our approval, may defer removal of any OCS facility within the lease area that is subject to an Alternate Use RUE. If we elect to grant such a deferral, the lessee remains responsible for removing the facility upon termination of the Alternate Use RUE and will be required to retain sufficient bonding or other financial assurances to ensure that the structure is removed or otherwise decommissioned in accordance with the provisions of this subpart.

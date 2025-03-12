@@ -1,0 +1,3 @@
+##### § 250.291 When and how must I submit the DWOP? #####
+
+You must submit four copies, or one hard copy and one electronic version, of the DWOP to the Regional Director after you have substantially completed safety system design and before you begin to procure or fabricate the safety and operational systems (other than the tree), production platforms, pipelines, or other parts of the production system.

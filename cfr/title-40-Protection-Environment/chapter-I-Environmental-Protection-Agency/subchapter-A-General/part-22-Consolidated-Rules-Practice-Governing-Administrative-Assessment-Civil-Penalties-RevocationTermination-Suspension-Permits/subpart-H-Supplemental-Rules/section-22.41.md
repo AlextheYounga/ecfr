@@ -1,0 +1,5 @@
+##### § 22.41 Supplemental rules governing the administrative assessment of civil penalties under Title II of the Toxic Substance Control Act, enacted as section 2 of the Asbestos Hazard Emergency Response Act (AHERA). #####
+
+(a) *Scope.* This section shall apply, in conjunction with §§ 22.1 through 22.32, in administrative proceedings to assess a civil penalty conducted under section 207 of the Toxic Substances Control Act (“TSCA”) (15 U.S.C. 2647). Where inconsistencies exist between this section and §§ 22.1 through 22.32, this section shall apply.
+
+(b) *Collection of civil penalty.* Any civil penalty collected under TSCA section 207 shall be used by the local educational agency for purposes of complying with Title II of TSCA. Any portion of a civil penalty remaining unspent after a local educational agency achieves compliance shall be deposited into the Asbestos Trust Fund established under section 5 of AHERA.

@@ -1,0 +1,3 @@
+##### § 35.517 Unused funds. #####
+
+If funds for an environmental program remain after Tribal and Intertribal Consortia grants for that program have been awarded or because no grants were awarded, and the Regional Administrator does not use the funds under § 35.516 of this subpart, the Regional Administrator may award the funds to any eligible Indian Tribe or Intertribal Consortium in the region (including a Tribe or Intertribal Consortium that has already received funds) for the same environmental program or for a Performance Partnership Grant, subject to any limitations in appropriation acts.

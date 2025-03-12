@@ -1,0 +1,9 @@
+##### § 22.7 Computation and extension of time. #####
+
+(a) *Computation.* In computing any period of time prescribed or allowed in these Consolidated Rules of Practice, except as otherwise provided, the day of the event from which the designated period begins to run shall not be included. Saturdays, Sundays, and Federal holidays shall be included. When a stated time expires on a Saturday, Sunday or Federal holiday, the stated time period shall be extended to include the next business day.
+
+(b) *Extensions of time.* The Environmental Appeals Board or the Presiding Officer may grant an extension of time for filing any document: upon timely motion of a party to the proceeding, for good cause shown, and after consideration of prejudice to other parties; or upon its own initiative. Any motion for an extension of time shall be filed sufficiently in advance of the due date so as to allow other parties reasonable opportunity to respond and to allow the Presiding Officer or Environmental Appeals Board reasonable opportunity to issue an order.
+
+(c) *Completion of service.* Service of the complaint is complete when the return receipt is signed. Service of all other documents is complete upon mailing, when placed in the custody of a reliable commercial delivery service, or for facsimile or other electronic means, including but not necessarily limited to email, upon transmission. Where a document is served by U.S. mail, EPA internal mail, or commercial delivery service, including overnight or same-day delivery, 3 days shall be added to the time allowed by these Consolidated Rules of Practice for the filing of a responsive document. The time allowed for the serving of a responsive document is not expanded by 3 days when the served document is served by personal delivery, facsimile, or other electronic means, including but not necessarily limited to email.
+
+[64 FR 40176, July 23, 1999, as amended at 82 FR 2234, Jan. 9, 2017]

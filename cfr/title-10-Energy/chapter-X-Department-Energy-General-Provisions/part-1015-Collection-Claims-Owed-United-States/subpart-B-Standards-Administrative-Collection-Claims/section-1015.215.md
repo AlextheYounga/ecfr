@@ -1,0 +1,5 @@
+##### § 1015.215 Federal salary offset. #####
+
+(a) DOE may authorize Treasury to offset a Federal salary to satisfy delinquent debt in accordance with 5 U.S.C. 5514, Installment Deduction for Indebtedness to the United States; 5 CFR 550.1101 through 550.1108, Collection by Offset from Indebted Government Employees; 31 CFR parts 900-904, the revised Federal Claims Collection Standards; and 31 CFR 285.7, Salary Offset. DOE shall ensure that all of the rights and protections afforded to the debtor under 5 U.S.C. 5514 and 31 CFR 901.3 have been fulfilled. Claims due from Federal employees will be collected in accordance with DOE Order 2200.2B, Collection from Current and Former Employees for Indebtedness to the United States.
+
+(b) As described in § 1015.201(e), under the DCIA (31 U.S.C. 3711(g)), DOE is required to refer all debts over 180 days delinquent to Treasury for purposes of debt collection (*i.e.,* cross-servicing). As part of its regular debt collection procedures, Treasury may use Federal salary offset on behalf of DOE.

@@ -1,0 +1,3 @@
+##### § 1045.30 Purpose and scope. #####
+
+This subpart specifies Government-wide classification program implementation requirements for agencies with access to RD and FRD, describes authorities and procedures for RD and FRD document classification and declassification, provides for periodic or systematic review of RD and FRD documents, and describes procedures for the mandatory review of RD and FRD documents. This subpart applies to all RD and FRD documents, regardless of whether they also contain National Security Information (NSI), or other controlled information such as “For Official Use Only” information or “Unclassified Controlled Nuclear Information.”

@@ -1,0 +1,5 @@
+##### § 1214.400 Scope. #####
+
+(a) This subpart sets forth policy and procedures with respect to International Space Station crewmembers provided by NASA for flight to the International Space Station.
+
+(b) In order to provide for the safe operation, maintenance of order, and proper conduct of crew aboard the International Space Station, the January 29, 1998, Agreement Among the Government of Canada, Governments of Member States of the European Space Agency, the Government of Japan, the Government of the Russian Federation, and the Government of the United States of America Concerning Cooperation on the Civil International Space Station (hereinafter Agreement), which establishes and governs the International Space Station, requires the development and approval of a Code of Conduct for International Space Station crew. Pursuant to Article 11 of the Agreement, each International Space Station partner is obliged to ensure that crewmembers which it provides observe the Code of Conduct.

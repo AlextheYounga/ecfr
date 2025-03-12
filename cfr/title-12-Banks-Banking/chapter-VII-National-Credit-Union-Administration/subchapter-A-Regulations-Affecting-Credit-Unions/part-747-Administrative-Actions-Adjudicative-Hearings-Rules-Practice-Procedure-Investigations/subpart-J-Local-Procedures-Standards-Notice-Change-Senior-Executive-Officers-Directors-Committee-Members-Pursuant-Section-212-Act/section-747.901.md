@@ -1,0 +1,5 @@
+##### § 747.901 Scope. #####
+
+The rules and procedures set forth in this subpart shall apply to the notice filed by a credit union pursuant to section 212 of the Act (12 U.S.C. 1790a) and § 700.2 of this chapter, for the consent of the NCUA to add to or replace an individual on the board of directors or supervisory or credit committee, or to employ any individual as a senior executive officer or change the responsibilities of any individual to a position of senior executive officer where the credit union either has been chartered less than 2 years; or is in “troubled condition,” as defined in § 701.14 of this chapter. Subpart A of this part shall not apply to any proceeding under this subpart.
+
+[56 FR 37767, Aug. 8, 1991; 57 FR 523, Jan. 7, 1992, as amended at 60 FR 31911, June 19, 1995; 78 FR 4029, Jan. 18, 2013]

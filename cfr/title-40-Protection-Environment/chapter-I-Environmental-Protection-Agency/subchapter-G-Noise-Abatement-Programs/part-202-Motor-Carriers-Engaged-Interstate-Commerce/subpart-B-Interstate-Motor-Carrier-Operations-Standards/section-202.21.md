@@ -1,0 +1,7 @@
+##### § 202.21 Standard for operation under stationary test. #####
+
+(a) No motor carrier subject to these regulations shall operate any motor vehicle of a type to which this regulation is applicable which generates a sound level in excess of 88 dB(A) measured on an open site with fast meter response at 50 feet from the longitudinal centerline of the vehicle, when its engine is accelerated from idle with wide open throttle to governed speed with the vehicle stationary, transmission in neutral, and clutch engaged. This section shall not apply to any vehicle which is not equipped with an engine speed governor.
+
+(b) No motor carrier subject to these regulations shall operate any motor vehicle of a type to which this regulation is applicable which generates a sound level in excess of 85 dB(A) measured on an open site with fast meter response at 50 feet from the longitudinal centerline of the vehicle when its engine is accelerated from idle with wide open throttle to governed speed with the vehicle stationary, transmission in neutral, and clutch engaged. This paragraph shall not apply to any vehicle which is not equipped with an engine speed governor.
+
+[39 FR 38215, Oct. 29, 1974, as amended at 51 FR 852, Jan. 8, 1986]

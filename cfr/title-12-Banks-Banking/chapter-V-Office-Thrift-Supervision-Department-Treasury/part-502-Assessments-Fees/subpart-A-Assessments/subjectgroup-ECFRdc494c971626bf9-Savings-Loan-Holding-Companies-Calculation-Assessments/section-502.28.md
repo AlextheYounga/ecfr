@@ -1,0 +1,3 @@
+##### § 502.28 How does OTS determine the organizational form component for a savings and loan holding company? #####
+
+OTS will include an organizational form component if you are a responsible savings and loan holding company that OTS regulates under section 10(l) of the HOLA. OTS will compute your organizational form component by adding the base assessment to your risk/complexity component, and multiplying this amount by 25 percent.

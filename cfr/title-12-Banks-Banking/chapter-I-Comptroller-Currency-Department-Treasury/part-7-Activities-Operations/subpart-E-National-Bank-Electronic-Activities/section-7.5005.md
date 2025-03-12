@@ -1,0 +1,7 @@
+##### § 7.5005 National bank acting as digital certification authority. #####
+
+(a) It is part of the business of banking under 12 U.S.C. 24(Seventh) for a national bank to act as a certificate authority and to issue digital certificates verifying the identity of persons associated with a particular public/private key pair. As part of this service, the bank may also maintain a listing or repository of public keys.
+
+(b) A national bank may issue digital certificates verifying attributes in addition to identity of persons associated with a particular public/private key pair where the attribute is one for which verification is part of or incidental to the business of banking. For example, national banks may issue digital certificates verifying certain financial attributes of a customer as of the current or a previous date, such as account balance as of a particular date, lines of credit as of a particular date, past financial performance of the customer, and verification of customer relationship with the bank as of a particular date.
+
+(c) When a national bank issues a digital certificate relating to financial capacity under this section, the bank shall include in that certificate an express disclaimer stating that the bank does not thereby promise or represent that funds will be available or will be advanced for any particular transaction.

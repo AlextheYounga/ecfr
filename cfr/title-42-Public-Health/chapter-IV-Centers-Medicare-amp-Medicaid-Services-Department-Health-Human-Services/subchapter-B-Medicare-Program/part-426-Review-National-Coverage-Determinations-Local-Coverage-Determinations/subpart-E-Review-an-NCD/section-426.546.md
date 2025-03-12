@@ -1,0 +1,3 @@
+##### § 426.546 Record of hearing. #####
+
+The Board must ensure that all hearings are open to the public and are electronically, mechanically, or stenographically reported. Except for privileged information and proprietary data that are filed under seal, all evidence upon which the Board relies for decision must be admitted into the public record. All medical reports, exhibits, and any other pertinent document, either in whole or in material part, must be offered, marked for identification, and retained in the case record.

@@ -1,0 +1,11 @@
+##### § 900.5 Selection of the NEPA lead agency. #####
+
+DOE, in consultation with the Federal entities, shall coordinate the selection of a potential NEPA Lead Agency responsible for preparing an environmental review document under NEPA for proposed qualifying projects. Determination and responsibilities of the NEPA Lead Agency for preparing the EIS shall be in compliance with applicable law, including the National Environmental Policy Act of 1969 and CEQ implementing regulations at 40 CFR part 1500, and each agency's respective NEPA implementing regulations and procedures. However:
+
+(a) For proposed qualifying projects that cross lands administered by both DOI and USDA, DOI and USDA shall consult and jointly determine within thirty (30) calendar days of receiving the initiation request information from DOE which Department has a greater land management interest in the proposed qualifying project and which Department should therefore assume the role of NEPA Lead Agency.
+
+(b) DOI and USDA shall notify DOE of their determination regarding the NEPA Lead Agency in writing within thirty (30) calendar days of making the determination.
+
+(c) Unless DOE notifies DOI and USDA in writing of its objection to that determination within ten (10) calendar days of the DOI/USDA notification, the determination shall be deemed accepted and final. In deciding whether to object to the determination, DOE shall consider the CEQ regulations pertaining to selection of the Lead Agency, including 40 CFR 1501.5(c).
+
+(d) For proposed qualifying projects that do not cross lands administered by both DOI and USDA, DOE and the Federal entities that will likely constitute the cooperating agencies for an environmental review document under NEPA, shall consult and jointly recommend a potential NEPA Lead Agency within 45 calendar days of receiving an IIP Process Close-Out Meeting Request. If DOE and the Federal entities are unable to agree on a recommendation for a NEPA Lead Agency, the Federal entities shall request CEQ to make a final determination by the Close-Out Meeting. No determination of a Federal entity as the potential NEPA Lead Agency under this part shall be made absent that Federal entity's consent.

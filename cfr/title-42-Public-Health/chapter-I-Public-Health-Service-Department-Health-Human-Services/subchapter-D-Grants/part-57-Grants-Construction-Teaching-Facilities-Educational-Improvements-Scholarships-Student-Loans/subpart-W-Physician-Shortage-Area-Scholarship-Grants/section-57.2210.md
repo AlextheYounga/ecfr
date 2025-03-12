@@ -1,0 +1,3 @@
+##### § 57.2210 Failure to comply. #####
+
+(a) Subject to the provision of § 57.2211, if any individual fails to complete the course of study or fails, within the time period set forth in § 57.2209(b), to meet the applicable conditions of practice imposed by receipt of a scholarship grant for the full number of months to which such condition is applicable, the United States shall be entitled to recover from such individual an amount determined in accordance with section 784(c)(3) of the Act; *Provided however,* That no interest shall accrue on any amount due the United States during any period for which the Secretary has suspended the obligation to repay pursuant to § 57.2211(b).

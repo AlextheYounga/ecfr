@@ -1,0 +1,3 @@
+##### § 135.13 Timing of notice. #####
+
+No action may be commenced under section 1449(a)(1) or (a)(2) until the plaintiff has given each of the appropriate parties sixty days notice of intent to file such an action. Actions concerning injection wells disposing of hazardous waste which allege jurisdiction solely under section 7002(c) of the Resource Conservation and Recovery Act may proceed immediately after notice to the appropriate parties.

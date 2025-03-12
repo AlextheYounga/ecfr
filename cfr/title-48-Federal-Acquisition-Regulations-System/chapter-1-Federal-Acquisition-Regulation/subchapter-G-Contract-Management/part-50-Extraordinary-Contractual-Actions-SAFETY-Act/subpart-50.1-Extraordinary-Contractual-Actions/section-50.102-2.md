@@ -1,0 +1,3 @@
+##### 50.102-2 Contract adjustment boards. #####
+
+An agency head may establish a contract adjustment board with authority to approve, authorize, and direct appropriate action under this Subpart 50.1 and to make all appropriate determinations and findings. The decisions of the board shall not be subject to appeal; however, the board may reconsider and modify, correct, or reverse its previous decisions. The board shall determine its own procedures and have authority to take all action necessary or appropriate to conduct its functions.

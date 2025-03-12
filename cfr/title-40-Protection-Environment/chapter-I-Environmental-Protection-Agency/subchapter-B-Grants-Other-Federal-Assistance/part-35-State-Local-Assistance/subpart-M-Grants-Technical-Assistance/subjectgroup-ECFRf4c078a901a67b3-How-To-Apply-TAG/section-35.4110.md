@@ -1,0 +1,8 @@
+##### § 35.4110 What does EPA do once it receives the first LOI from a group? #####
+
+The following table shows what EPA does when it receives the first LOI from a group:
+
+|                                            If your site . . .                                             |                                                                                             Then EPA . . .                                                                                             |
+|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(a) Is not proposed for listing on the NPL or is proposed but no response is underway or scheduled to begin|               will advise you in writing that we are not yet accepting TAG “applications” for your site. EPA may informally notify other interested groups that it has received an LOI.                |
+|     (b) Is listed on the NPL or is proposed for listing on the NPL and a response action is underway      |will publish a notice in your local newspaper to formally notify other interested parties that they may contact the first group that sent the LOI to form a coalition or they may submit a separate LOI.|

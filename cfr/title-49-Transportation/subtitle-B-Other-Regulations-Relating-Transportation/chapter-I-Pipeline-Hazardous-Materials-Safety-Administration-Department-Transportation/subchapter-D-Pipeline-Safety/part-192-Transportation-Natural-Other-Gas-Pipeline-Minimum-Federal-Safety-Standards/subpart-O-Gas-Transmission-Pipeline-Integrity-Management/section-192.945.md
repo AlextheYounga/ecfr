@@ -1,0 +1,7 @@
+##### § 192.945 What methods must an operator use to measure program effectiveness? #####
+
+(a) *General.* An operator must include in its integrity management program methods to measure whether the program is effective in assessing and evaluating the integrity of each covered pipeline segment and in protecting the high consequence areas. These measures must include the four overall performance measures specified in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7 of this part), section 9.4, and the specific measures for each identified threat specified in ASME/ANSI B31.8S, Appendix A. An operator must submit the four overall performance measures as part of the annual report required by § 191.17 of this subchapter.
+
+(b) *External Corrosion Direct assessment.* In addition to the general requirements for performance measures in paragraph (a) of this section, an operator using direct assessment to assess the external corrosion threat must define and monitor measures to determine the effectiveness of the ECDA process. These measures must meet the requirements of § 192.925.
+
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; 75 FR 72906, Nov. 26, 2010]

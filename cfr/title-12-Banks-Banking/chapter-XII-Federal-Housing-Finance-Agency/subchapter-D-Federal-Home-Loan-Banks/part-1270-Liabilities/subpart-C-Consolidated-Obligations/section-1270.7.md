@@ -1,0 +1,3 @@
+##### § 1270.7 Lost, stolen, destroyed, mutilated or defaced consolidated obligations. #####
+
+United States statutes and regulations of the Department of the Treasury now or hereafter in force governing relief on account of the loss, theft, destruction, mutilation or defacement of United States securities, so far as applicable and as necessarily modified to relate to consolidated obligations, are hereby adopted as the regulations of FHFA for the issuance of substitute consolidated obligations or the payment of lost, stolen, destroyed, mutilated or defaced consolidated obligations.

@@ -1,0 +1,13 @@
+##### § 716.30 Submission of copies of studies. #####
+
+(a)(1) Except as provided in §§ 716.5, 716.20, and 716.50, persons must send to EPA copies of any health and safety studies in their possession for the substances or mixtures listed in § 716.120. Persons are responsible for submitting copies on only the substances or listed mixtures which they: Have manufactured, imported, or processed or proposed to manufacture, import, or process (including as known byproducts) within the 10 years preceding the effective date for reporting on the substances or listed mixtures; manufacture, import, or process on the effective date for reporting on the substances or listed mixtures; and propose to manufacture, import, or process following the effective date for reporting on the substances or listed mixtures. Persons who list studies as ongoing or initiated under § 716.35(a) (1) and (2) must submit them when they are completed.
+
+(2) [Reserved]
+
+(b) Submissions under paragraph (a) of this section must be identified either on the face of the study or otherwise by the applicable chemical name and CAS number (if any) listed in § 716.120(a) (1) and (2), and must be accompanied by a cover letter containing the name, job title, address and telephone number of the submitting official, and the name and address of the manufacturing or processing establishment on whose behalf the submission is made. In the cover letter, submitters must identify any impurity or additive known to have been present in the substance or listed mixtures as studied unless its presence is specifically noted in the study itself. The cover letter accompanying a study submitted by a trade association must also state that the submission is to satisfy reporting requirements under this part.
+
+(c) Persons must use the CISS tool to complete and submit all data, reports, and other information required by 40 CFR part 716, via CDX. Submission requires registration with CDX, and must be made only as set forth in this section.
+
+(d) To access the CISS tool go to *https://cdx.epa.gov/ssl/CSPP/PrimaryAuthorizedOfficial/Home.aspx* and follow the appropriate links and for further instructions to go *http://www.epa.gov/oppt/chemtest/ereporting/index.html.*
+
+[51 FR 32726, Sept. 15, 1986, as amended at 52 FR 20084, May 29, 1987; 52 FR 44828, Nov. 20, 1987; 53 FR 12523, Apr. 15, 1988; 60 FR 34463, July 3, 1995; 63 FR 15773, Apr. 1, 1998; 71 FR 47135, Aug. 16, 2006; 78 FR 72826, Dec. 4, 2013]

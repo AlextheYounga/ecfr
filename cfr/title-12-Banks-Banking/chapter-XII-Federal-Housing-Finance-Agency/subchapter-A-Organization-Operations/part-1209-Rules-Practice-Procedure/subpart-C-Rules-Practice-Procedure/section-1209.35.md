@@ -1,0 +1,3 @@
+##### § 1209.35 Partial summary disposition. #####
+
+If the presiding officer determines that a party is entitled to summary disposition as to certain claims only, he shall defer submitting a recommended decision to the Director as to those claims. A hearing on the remaining issues must be ordered. Those claims for which the presiding officer has determined that summary disposition is warranted will be addressed in the recommended decision filed at the conclusion of the hearing.

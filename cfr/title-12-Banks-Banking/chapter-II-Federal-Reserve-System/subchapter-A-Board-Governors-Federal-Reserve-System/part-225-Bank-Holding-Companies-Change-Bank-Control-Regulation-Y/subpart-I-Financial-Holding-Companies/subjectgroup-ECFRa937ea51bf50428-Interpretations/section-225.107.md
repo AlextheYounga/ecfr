@@ -1,0 +1,17 @@
+##### § 225.107 Acquisition of stock in small business investment company. #####
+
+(a) A registered bank holding company requested an opinion by the Board of Governors with respect to whether that company and its banking subsidiaries may acquire stock in a small business investment company organized pursuant to the Small Business Investment Act of 1958.
+
+(b) It is understood that the bank holding company and its subsidiary banks propose to organize and subscribe for stock in a small business investment company which would be chartered pursuant to the Small Business Investment Act of 1958 which provides for long-term credit and equity financing for small business concerns.
+
+(c) Section 302(b) of the Small Business Investment Act authorizes national banks, as well as other member banks and nonmember insured banks to the extent permitted by applicable State law, to invest capital in small business investment companies not exceeding one percent of the capital and surplus of such banks. Section 4(c)(4) of the Bank Holding Company Act exempts from the prohibitions of section 4 of the Act “shares which are of the kinds and amounts eligible for investment by National banking associations under the provisions of section 5136 of the Revised Statutes”. Section 5136 of the Revised Statutes (paragraph “Seventh”) in turn provides, in part, as follows:
+
+Except as hereinafter provided or otherwise permitted by law nothing herein contained shall authorize the purchase by the association for its own account of any shares of stock of any corporation.Since the shares of a small business investment company are of a kind and amount expressly made eligible for investment by a national bank under the Small Business Investment Act of 1958, it follows, therefore, that the ownership or control of such shares by a bank holding company would be exempt from the prohibitions of section 4 of the Bank Holding Company Act by virtue of the provisions of section 4(c)(4) of that Act. Accordingly, the ownership or control of such shares by the bank holding company would be exempt from the prohibitions of section 4 of the Bank Holding Company Act.
+
+(d) An additional question is presented, however, as to whether section 6 of the Bank Holding Company Act prohibits banking subsidiaries of the bank holding company from purchasing stock in a small business investment company where the latter is a “subsidiary” under that Act.
+
+(e) Section 6(a)(1) of the Act makes it unlawful for a bank to invest any of its funds in the capital stock of any other subsidiary of the bank holding company. However, section 6(a)(1) was, in effect, amended by section 302(b) of the Small Business Investment Act (15 U.S.C. 682) as amended by the Act of June 11, 1960 (Pub. L. 86-502) so as to nullify this prohibition when the “subsidiary” is a small business investment company.
+
+(f) Accordingly, section 6 of the Bank Holding Company Act does not prohibit banking subsidiaries of the bank holding company from purchasing stock in a small business investment company organized pursuant to the Small Business Investment Act of 1958, where that company is or will be a subsidiary of the bank holding company.
+
+[25 FR 7485, Aug. 9, 1960. Redesignated at 36 FR 21666, Nov. 12, 1971]

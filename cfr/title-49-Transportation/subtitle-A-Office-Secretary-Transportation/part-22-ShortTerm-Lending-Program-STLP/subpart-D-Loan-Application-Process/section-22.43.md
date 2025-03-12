@@ -1,0 +1,3 @@
+##### § 22.43 Approval or denial. #####
+
+If a loan guarantee is approved by DOT OSDBU, a Guarantee Agreement, form DOT F 2314-1, will be issued to the Participating Lender. If a loan guarantee is declined by the Participating Lender, the Participating Lender is responsible for communicating the reasons for the decline to the applicant. The Participating Lender must notify the applicant, in writing, of the reasons for the decline; and a copy of this notification must be sent to DOT OSDBU. If a loan guarantee is declined by the DOT OSDBU, DOT OSDBU will be responsible for communicating the reasons for the decline to the applicant. The form is available at *http://www.osdbu.dot.gov/financial/docs/Loan\_Guarantee\_DOT\_F\_2314-1.pdf.*

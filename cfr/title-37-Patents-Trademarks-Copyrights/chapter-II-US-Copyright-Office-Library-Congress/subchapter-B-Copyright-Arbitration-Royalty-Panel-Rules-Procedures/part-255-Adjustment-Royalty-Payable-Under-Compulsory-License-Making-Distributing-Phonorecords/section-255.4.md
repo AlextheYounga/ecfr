@@ -1,0 +1,5 @@
+##### § 255.4 Definition of digital phonorecord delivery. #####
+
+A “*digital phonorecord delivery*” is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein. The reproduction of the phonorecord must be sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. Such a phonorecord may be permanent or it may be made available to the transmission recipient for a limited period of time or for a specified number of performances. A digital phonorecord delivery includes all phonorecords that are made for the purpose of making the digital phonorecord delivery.
+
+[73 FR 66182, Nov. 7, 2008]

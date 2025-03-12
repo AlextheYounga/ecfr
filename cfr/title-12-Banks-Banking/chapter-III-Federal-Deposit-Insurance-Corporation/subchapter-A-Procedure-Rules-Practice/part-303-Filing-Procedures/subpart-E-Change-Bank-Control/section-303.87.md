@@ -1,0 +1,13 @@
+##### § 303.87 Public notice requirements. #####
+
+(a) *Publication*—(1) *Newspaper announcement.* Any person(s) filing a notice under this subpart shall publish an announcement soliciting public comment on the proposed acquisition. The announcement shall be published in a newspaper of general circulation in the community in which the home office of the covered institution to be acquired is located.
+
+(2) *Timing of publication.* The announcement shall be published as close as is practicable to the date the notice is filed with the appropriate FDIC office, but in no event more than 10 calendar days before or after the filing date. If the filing is not filed in accordance with the CBCA and this subpart within the time periods specified herein, the acquiring person(s) shall, within 10 days of being directed by the FDIC to file a Notice, publish an announcement of the acquisition of control.
+
+(3) *Contents of newspaper announcement.* The newspaper announcement shall conform to the public notice requirements set forth in § 303.7. If the filing is not filed in accordance with the CBCA and this subpart within the time periods specified herein, the announcement shall also include the date of the acquisition and contain a statement indicating that the FDIC is currently reviewing the acquisition of control.
+
+(b) *Delay of publication.* The FDIC may permit delay in the publication required by this section if the FDIC determines, for good cause, that it is in the public interest to grant such a delay. Requests for delay of publication may be submitted to the appropriate FDIC office.
+
+(c) *Shortening or waiving public comment period, waiving publications; acting before close of public comment period.* The FDIC may shorten the public comment period to a period of not less than 10 days, or waive the public comment or newspaper publication requirements of paragraph (a) of this section, or act on a notice before the expiration of a public comment period, if it determines in writing either that an emergency exists or that disclosure of the notice, solicitation of public comment, or delay until expiration of the public comment period would seriously threaten the safety and soundness of the State nonmember bank or State savings association to be acquired.
+
+(d) *Consideration of public comments.* In acting upon a notice filed under this subpart, the FDIC shall consider all public comments received in writing within 20 days following the required newspaper publication or, if the FDIC has shortened the public comment period pursuant to paragraph (c) of this section, within such shorter period.

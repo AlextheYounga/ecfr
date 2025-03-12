@@ -1,0 +1,13 @@
+##### § 1208.11 Surety requirements. #####
+
+(a) The eligible purchaser, prior to execution of the contract, shall furnish an “ONRR-specified surety instrument,” in an amount equal to the estimated value of royalty oil that could be taken by the purchaser in a 99-day period, plus related administrative charges. The ONRR may require the purchaser to increase the amount of the surety instrument when necessary to protect the Government's interest or may allow the purchaser to decrease the amount of the surety instrument where necessary to further the purposes of the Royalty-in-Kind Program.
+
+(b) If a letter of credit is furnished as the surety instrument, it must be effective for a 9-month period beginning the first day the royalty oil contract is effective, with a clause providing for automatic renewal monthly for a new 9-month period. The purchaser or its surety company may elect not to renew the letter of credit at any monthly anniversary date, but must notify ONRR of its intent not to renew at least 30 days prior to the anniversary date. The ONRR may grant the purchaser 45 days to obtain a new surety instrument. If no replacement surety instrument is provided, ONRR will terminate the contract effective at least 6 months prior to the expiration date of the letter of credit. Notwithstanding the above provisions, the letter of credit also may contain a clause providing for automatic termination 6 months after the royalty oil contract terminates. If a certificate of deposit is furnished as the surety instrument, it must be effective for the life of the contract plus 6 months after the royalty oil contract terminates.
+
+(c) For the purposes of this section, an “ONRR-specified surety instrument” means either: an ONRR-specified surety bond, an ONRR-specified irrevocable letter of credit, or a financial institution book-entry certificate of deposit.
+
+(d) The “ONRR-specified surety instrument” shall be in a form specified by ONRR instructions or approved by ONRR. A bond must be issued by a qualified surety company that has been approved by the Department of the Treasury. An irrevocable letter of credit or a certificate of deposit must be from a financial institution acceptable to ONRR. The ONRR will use a bank rating service to determine whether a financial institution has an acceptable rating to provide a surety instrument deemed adequate to indemnify the Government from loss or damage.
+
+(e) All surety instruments must be in a form acceptable to ONRR and must include such other specific requirements as ONRR may require adequately to protect the Government's interests.
+
+[58 FR 64901, Dec. 10, 1993]

@@ -1,0 +1,13 @@
+##### § 26.111 Checking the acceptability of the urine specimen. #####
+
+(a) Immediately after the donor provides the urine specimen to the collector, including specimens of less than 30 mL but greater than 15 mL, the collector shall measure the temperature of the specimen. The temperature-measuring device used must accurately reflect the temperature of the specimen and not contaminate the specimen. The time from urination to temperature measurement may not exceed 4 minutes. If the temperature of a urine specimen is outside the range of 90 °F to 100 °F (32 °C to 38 °C), that is a reason to believe the donor may have altered or substituted the specimen.
+
+(b) Immediately after the donor provides a urine specimen, including specimens of less than 30 mL but equal to or greater than 15 mL, the collector shall also inspect the specimen to determine its color and clarity and look for any signs of contaminants or adulteration. The collector shall note any unusual findings on the custody-and-control form.
+
+(c) If there is reason to believe that the donor may have attempted to dilute, substitute, or adulterate the specimen based on specimen temperature or other observations made during the collection, the collector shall contact the designated FFD program manager, who may consult with the MRO, to determine whether the donor has attempted to subvert the testing process or whether other circumstances may explain the observations. The FFD program manager or MRO may require the donor to provide a second specimen as soon as possible under direct observation. In addition, the collector shall inform the donor that he or she may volunteer to submit a second specimen under direct observation to counter the reason to believe the donor may have altered or substituted the specimen.
+
+(d) Any specimen of 15 mL or more that the collector suspects has been diluted, substituted, or adulterated, and any specimen of 15 mL or more that has been collected under direct observation under paragraph (c) of this section, must be sent directly to the HHS-certified laboratory for initial and, if required, confirmatory testing, and may not be subject to initial testing at a licensee testing facility.
+
+(e) As much of the suspect specimen as possible must be preserved.
+
+(f) An acceptable specimen is free of any apparent contaminants, meets the required basic quantity of at least 30 mL, and is within the acceptable temperature range.

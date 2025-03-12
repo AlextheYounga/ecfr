@@ -1,0 +1,3 @@
+##### § 847.608 Reduction in annuity due to deficiency. #####
+
+Any annuity payable in the case of an employee who has made an election under subpart D of this part will include credit for the NAFI service. The monthly annuity rate on the date determined under § 847.603 will be permanently reduced by an amount equal to the amount of any deficiency divided by the present value factor for the annuitant's age on that date.

@@ -1,0 +1,5 @@
+##### § 405.506 Charges higher than customary or prevailing charges or lowest charge levels. #####
+
+A charge which exceeds the customary charge of the physician or other person who rendered the medical or other health service, or the prevailing charge in the locality, or an applicable lowest charge level may be found to be reasonable, but only where there are unusual circumstances, or medical complications requiring additional time, effort or expense which support an additional charge, and only if it is acceptable medical or medical service practice in the locality to make an extra charge in such cases. The mere fact that the physician's or other person's customary charge is higher than prevailing would not justify a determination that it is reasonable.
+
+(Secs. 1102, 1842(b) and 1871, 1903(i)(1) of the Social Security Act; 49 Stat. 647, 79 Stat. 302, 310, 331; 86 Stat. 1395, 1454; (42 U.S.C. 1302, 1395u(b), 1395hh, 1396b(i)(1)))[43 FR 32300, July 26, 1978]

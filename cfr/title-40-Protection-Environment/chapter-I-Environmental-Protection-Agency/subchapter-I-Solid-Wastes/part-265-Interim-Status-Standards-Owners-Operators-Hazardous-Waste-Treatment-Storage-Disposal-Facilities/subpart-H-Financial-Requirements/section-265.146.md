@@ -1,0 +1,3 @@
+##### § 265.146 Use of a mechanism for financial assurance of both closure and post-closure care. #####
+
+An owner or operator may satisfy the requirements for financial assurance for both closure and post-closure care for one or more facilities by using a trust fund, surety bond, letter of credit, insurance, financial test, or corporate guarantee that meets the specifications for the mechanism in both §§ 265.143 and 265.145. The amount of funds available through the mechanism must be no less than the sum of funds that would be available if a separate mechanism had been established and maintained for financial assurance of closure and of post-closure care.

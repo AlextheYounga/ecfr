@@ -1,0 +1,9 @@
+##### § 583.14 Currency conversion rate. #####
+
+For purposes of calculations of content value under this part, manufacturers and suppliers shall calculate exchange rates using the methodology set forth in this section.
+
+(a) *Manufacturers.* (1) Unless a manufacturer has had a petition approved by the Environmental Protection Agency under 40 CFR 600.511-80(b)(1), for all calculations made by the manufacturer as a basis for the information provided on the label required by § 583.5, manufacturers shall take the mean of the exchange rates in effect at the end of each quarter set by the Federal Reserve Bank of New York for twelve calendar quarters prior to and including the calendar quarter ending one year prior to the date that the manufacturer submits information for a carline under § 583.17.
+
+(2) A manufacturer that has had a petition approved by the Environmental Protection Agency under 40 CFR 600.511-80(b)(1), which provides for a different method of determining exchange rates, shall use the same method as a basis for the information provided on the label required by § 583.5, and shall inform the Administrator of the exchange rate method it is using at the time the information required by § 583.5 is submitted.
+
+(b) *Suppliers.* For all calculations underlying the information provided on each certificate required by §§ 583.10, 583.11, and 583.12, suppliers shall take the mean of the exchange rates in effect at the end of each quarter set by the Federal Reserve Bank of New York for twelve calendar quarters prior to and including the calendar quarter ending one year prior to the date of such certificate.

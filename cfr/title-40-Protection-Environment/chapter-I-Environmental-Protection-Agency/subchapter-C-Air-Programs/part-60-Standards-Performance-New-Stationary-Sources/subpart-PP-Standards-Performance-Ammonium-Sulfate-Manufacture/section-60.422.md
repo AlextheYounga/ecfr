@@ -1,0 +1,3 @@
+##### § 60.422 Standards for particulate matter. #####
+
+On or after the date on which the performance test required to be conducted by § 60.8 is completed, no owner or operator of an ammonium sulfate dryer subject to the provisions of this subpart shall cause to be discharged into the atmosphere, from any ammonium sulfate dryer, particulate matter at an emission rate exceeding 0.15 kilogram of particulate per megagram of ammonium sulfate produced (0.30 pound of particulate per ton of ammonium sulfate produced) and exhaust gases with greater than 15 percent opacity.

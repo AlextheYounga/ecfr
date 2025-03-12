@@ -1,0 +1,3 @@
+##### § 30.101 Initial authorizations. #####
+
+Except with respect to in the 37-37.6 GHz band, an applicant must file a single application for an initial authorization for all markets won and frequency blocks desired. Initial authorizations shall be granted in accordance with § 30.4. Applications for individual sites are not required and will not be accepted, except where required for environmental assessments, in accordance with §§ 1.1301 through 1.1319 of this chapter.

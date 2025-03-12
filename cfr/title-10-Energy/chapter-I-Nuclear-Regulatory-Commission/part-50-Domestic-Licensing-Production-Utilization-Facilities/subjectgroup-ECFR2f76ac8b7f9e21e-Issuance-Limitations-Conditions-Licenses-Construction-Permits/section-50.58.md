@@ -1,0 +1,17 @@
+##### § 50.58 Hearings and report of the Advisory Committee on Reactor Safeguards. #####
+
+(a) Each application for a construction permit or an operating license for a facility which is of a type described in § 50.21(b) or § 50.22, or for a testing facility, shall be referred to the Advisory Committee on Reactor Safeguards for a review and report. An application for an amendment to such a construction permit or operating license may be referred to the Advisory Committee on Reactor Safeguards for review and report. Any report shall be made part of the record of the application and available to the public, except to the extent that security classification prevents disclosure.
+
+(b)(1) The Commission will hold a hearing after at least 30-days' notice and publication once in the Federal Register on each application for a construction permit for a production or utilization facility which is of a type described in § 50.21(b) or § 50.22, or for a testing facility.
+
+(2) When a construction permit has been issued for such a facility following the holding of a public hearing, and an application is made for an operating license or for an amendment to a construction permit or operating license, the Commission may hold a hearing after at least 30-days' notice and publication once in the Federal Register, or, in the absence of a request therefor by any person whose interest may be affected, may issue an operating license or an amendment to a construction permit or operating license without a hearing, upon 30-days' notice and publication once in the Federal Register of its intent to do so.
+
+(3) If the Commission finds, in an emergency situation, as defined in § 50.91, that no significant hazards consideration is presented by an application for an amendment to an operating license, it may dispense with public notice and comment and may issue the amendment. If the Commission finds that exigent circumstances exist, as described in § 50.91, it may reduce the period provided for public notice and comment.
+
+(4) Both in an emergency situation and in the case of exigent circumstances, the Commission will provide 30 days notice of opportunity for a hearing, though this notice may be published after issuance of the amendment if the Commission determines that no significant hazards consideration is involved.
+
+(5) The Commission will use the standards in § 50.92 to determine whether a significant hazards consideration is presented by an amendment to an operating license for a facility of the type described in § 50.21(b) or § 50.22, or which is a testing facility, and may make the amendment immediately effective, notwithstanding the pendency before it of a request for a hearing from any person, in advance of the holding and completion of any required hearing, where it has determined that no significant hazards consideration is involved.
+
+(6) No petition or other request for review of or hearing on the staff's significant hazards consideration determination will be entertained by the Commission. The staff's determination is final, subject only to the Commission's discretion, on its own initiative, to review the determination.
+
+[27 FR 12186, Dec. 8, 1962, as amended at 35 FR 11461, July 17, 1970; 39 FR 10555, Mar. 21, 1974; 51 FR 7765, Mar. 6, 1986]

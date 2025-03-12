@@ -1,0 +1,3 @@
+##### § 1208.14 Civil and criminal penalties. #####
+
+Failure to abide by the regulations in this part may result in civil and criminal penalties being levied on that person as specified in sections 109 and 110 of the Federal Oil and Gas Royalty Management Act of 1982, 30 U.S.C. 1719-20, and regulations at 30 CFR part 241. Civil penalties applicable under the OCSLA and the Mineral Leasing Act of 1920 may also be imposed.

@@ -1,0 +1,3 @@
+##### 9904.417-20 Purpose. #####
+
+The purpose of this Cost Accounting Standard is to establish criteria for the measurement of the cost of money attributable to capital assets under construction, fabrication, or development as an element of the cost of those assets. Consistent application of these criteria will improve cost measurement by providing for recognition of cost of contractor investment in assets under construction, and will provide greater uniformity in accounting for asset acquisition costs.

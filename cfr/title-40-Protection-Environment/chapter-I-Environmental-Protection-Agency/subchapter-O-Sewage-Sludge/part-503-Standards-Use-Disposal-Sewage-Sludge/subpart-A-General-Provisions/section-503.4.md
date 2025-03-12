@@ -1,0 +1,3 @@
+##### § 503.4 Relationship to other regulations. #####
+
+Disposal of sewage sludge in a municipal solid waste landfill unit, as defined in 40 CFR 258.2, that complies with the requirements in 40 CFR part 258 constitutes compliance with section 405(d) of the CWA. Any person who prepares sewage sludge that is disposed in a municipal solid waste landfill unit shall ensure that the sewage sludge meets the requirements in 40 CFR part 258 concerning the quality of materials disposed in a municipal solid waste landfill unit.

@@ -1,0 +1,3 @@
+##### 2816.603-3 Limitations. #####
+
+A letter contract may be used only after the express written approval of the Procurement Executive. Requests for approval shall contain the rationale explaining why no other contract is suitable and shall include the approval of the HCA or designee. Under circumstances of compelling urgency which do not permit the time needed for written approval, oral approval must be obtained; however, written documentation to support the award and confirm the oral approval must be submitted as soon as practicable after award.

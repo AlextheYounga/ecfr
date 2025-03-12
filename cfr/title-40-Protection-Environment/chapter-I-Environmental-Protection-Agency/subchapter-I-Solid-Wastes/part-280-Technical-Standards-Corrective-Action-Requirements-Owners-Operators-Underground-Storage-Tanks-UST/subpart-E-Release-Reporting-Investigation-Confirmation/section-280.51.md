@@ -1,0 +1,3 @@
+##### § 280.51 Investigation due to off-site impacts. #####
+
+When required by the implementing agency, owners and operators of UST systems must follow the procedures in § 280.52 to determine if the UST system is the source of off-site impacts. These impacts include the discovery of regulated substances (such as the presence of free product or vapors in soils, basements, sewer and utility lines, and nearby surface and drinking waters) that has been observed by the implementing agency or brought to its attention by another party.

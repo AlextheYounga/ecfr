@@ -1,0 +1,29 @@
+##### § 40.391 What is the scope of a PIE? #####
+
+(a) The scope of a PIE is the Department's determination about the divisions, organizational elements, types of services, affiliates, and/or individuals (including direct employees of a service agent and its contractors) to which a PIE applies.
+
+(b) If, as a service agent, the Department issues a PIE concerning you, the PIE applies to all your divisions, organizational elements, and types of services that are involved with or affected by the noncompliance that forms the factual basis for issuing the PIE.
+
+(c) In the NOPE (see § 40.375(b)(4)), the initiating official sets forth his or her recommendation for the scope of the PIE. The proposed scope of the PIE is one of the elements of the proceeding that the service agent may contest (see § 40.381(b)) and about which the Director makes a decision (see § 40.387(b)(3)).
+
+(d) In recommending and deciding the scope of the PIE, the initiating official and Director, respectively, must take into account the provisions of paragraphs (e) through (j) of this section.
+
+(e) The pervasiveness of the noncompliance within a service agent's organization (see § 40.389(d)) is an important consideration in determining the scope of a PIE. The appropriate scope of a PIE grows broader as the pervasiveness of the noncompliance increases.
+
+(f) The application of a PIE is not limited to the specific location or employer at which the conduct that forms the factual basis for issuing the PIE was discovered.
+
+(g) A PIE applies to your affiliates, if the affiliate is involved with or affected by the conduct that forms the factual basis for issuing the PIE.
+
+(h) A PIE applies to individuals who are officers, employees, directors, shareholders, partners, or other individuals associated with your organization in the following circumstances:
+
+(1) Conduct forming any part of the factual basis of the PIE occurred in connection with the individual's performance of duties by or on behalf of your organization; or
+
+(2) The individual knew of, had reason to know of, approved, or acquiesced in such conduct. The individual's acceptance of benefits derived from such conduct is evidence of such knowledge, acquiescence, or approval.
+
+(i) If a contractor to your organization is solely responsible for the conduct that forms the factual basis for a PIE, the PIE does not apply to the service agent itself unless the service agent knew or should have known about the conduct and did not take action to correct it.
+
+(j) PIEs do not apply to drug and alcohol testing that DOT does not regulate.
+
+(k) The following examples illustrate how the Department intends the provisions of this section to work:
+
+Example 1 to § 40.391.Service Agent P provides a variety of drug testing services. P's SAP services are involved in a serious violation of this Part 40. However, P's other services fully comply with this part, and P's overall management did not plan or concur in the noncompliance, which in fact was contrary to P's articulated standards. Because the noncompliance was isolated in one area of the organization's activities, and did not pervade the entire organization, the scope of the PIE could be limited to SAP services.Example 2 to § 40.391.Service Agent Q provides a similar variety of services. The conduct forming the factual basis for a PIE concerns collections for a transit authority. As in Example 1, the noncompliance is not pervasive throughout Q's organization. The PIE would apply to collections at all locations served by Q, not just the particular transit authority or not just in the state in which the transit authority is located.Example 3 to § 40.391.Service Agent R provides a similar array of services. One or more of the following problems exists: R's activities in several areas—collections, MROs, SAPs, protecting the confidentiality of information—are involved in serious noncompliance; DOT determines that R's management knew or should have known about serious noncompliance in one or more areas, but management did not take timely corrective action; or, in response to an inquiry from DOT personnel, R's management refuses to provide information about its operations. In each of these three cases, the scope of the PIE would include all aspects of R's services.Example 4 to § 40.391.Service Agent W provides only one kind of service (*e.g.,* laboratory or MRO services). The Department issues a PIE concerning these services. Because W only provides this one kind of service, the PIE necessarily applies to all its operations.Example 5 to § 40.391.Service Agent X, by exercising reasonably prudent oversight of its collection contractor, should have known that the contractor was making numerous “fatal flaws” in tests. Alternatively, X received a correction notice pointing out these problems in its contractor's collections. In neither case did X take action to correct the problem. X, as well as the contractor, would be subject to a PIE with respect to collections.Example 6 to § 40.391.Service Agent Y could not reasonably have known that one of its MROs was regularly failing to interview employees before verifying tests positive. When it received a correction notice, Y immediately dismissed the erring MRO. In this case, the MRO would be subject to a PIE but Y would not.Example 7 to § 40.391.The Department issues a PIE with respect to Service Agent Z. Z provides services for DOT-regulated transportation employers, a Federal agency under the HHS-regulated Federal employee testing program, and various private businesses and public agencies that DOT does not regulate. The PIE applies only to the DOT-regulated transportation employers with respect to their DOT-mandated testing, not to the Federal agency or the other public agencies and private businesses. The PIE does not prevent the non-DOT regulated entities from continuing to use Z's services.

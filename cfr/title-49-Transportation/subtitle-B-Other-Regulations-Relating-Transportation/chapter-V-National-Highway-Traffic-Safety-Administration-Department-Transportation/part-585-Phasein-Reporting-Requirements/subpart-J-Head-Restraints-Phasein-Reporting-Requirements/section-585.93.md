@@ -1,0 +1,3 @@
+##### § 585.93 Applicability. #####
+
+This subpart applies to manufacturers of passenger cars, multipurpose passenger vehicles, trucks and buses with a GVWR of 4,536 kg or less. However, it does not apply to manufacturers whose production consists exclusively of vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having previously been certified in accordance with part 567 of this chapter.

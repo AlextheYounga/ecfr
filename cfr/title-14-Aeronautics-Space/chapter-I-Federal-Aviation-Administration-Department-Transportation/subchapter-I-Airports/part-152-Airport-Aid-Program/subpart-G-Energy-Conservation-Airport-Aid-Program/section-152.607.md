@@ -1,0 +1,3 @@
+##### § 152.607 Building design requirements. #####
+
+Each sponsor shall perform an energy assessment for each federally-assisted building construction or major building modification project proposed at the airport. The building design, construction, and operation shall incorporate, to the extent consistent with good engineering practice, the most cost-effective energy conservation features identified in the energy assessment.

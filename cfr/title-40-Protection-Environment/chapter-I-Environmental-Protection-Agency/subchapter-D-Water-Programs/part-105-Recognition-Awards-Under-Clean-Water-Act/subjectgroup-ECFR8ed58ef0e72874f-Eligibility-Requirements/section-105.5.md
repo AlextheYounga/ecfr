@@ -1,0 +1,3 @@
+##### § 105.5 Who is eligible to win an award? #####
+
+A municipality, city, town, borough, county, parish, district, association, government agency, or other public body, (including an intermunicipal agency of two or more of the foregoing entities) created by or pursuant to State law; a company, corporation, association, partnership, firm, university, not-for-profit organization, or wastewater treatment facility, as well as a Federal, State or Tribal government wastewater treatment facility, or U.S. military command to the extent such government and other organizations operate in an industrial capacity in the treatment of wastes or abatement of pollution may be considered for a recognition award.

@@ -1,0 +1,3 @@
+##### § 121.219 Ventilation. #####
+
+Each passenger or crew compartment must be suitably ventilated. Carbon monoxide concentration may not be more than one part in 20,000 parts of air, and fuel fumes may not be present. In any case where partitions between compartments have louvres or other means allowing air to flow between compartments, there must be a means convenient to the crew for closing the flow of air through the partitions, when necessary.

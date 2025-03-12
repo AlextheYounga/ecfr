@@ -1,0 +1,5 @@
+##### § 191.1 Authority, purpose, and scope. #####
+
+(a) *Authority.* This part contains regulations issued under section 5 of the Home Owners' Loan Act of 1933, as amended, and under section 341 of the Garn-St Germain Depository Institutions Act of 1982, Public Law 97-320, 96 Stat. 1469, 1505-1507.
+
+(b) *Purpose and scope.* The purpose of this permanent preemption of state prohibitions on the exercise of due-on-sale clauses by all lenders, whether Federally- or state-chartered, is to reaffirm the authority of Federal savings associations to enforce due-on-sale clauses, and to confer on other lenders generally comparable authority with respect to the exercise of such clauses. This part applies to all real property loans, and all lenders making such loans, as those terms are defined in § 191.2 of this part.

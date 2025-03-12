@@ -1,0 +1,3 @@
+##### § 2.404 Hearings on applications for operating licenses pursuant to appendix N of 10 CFR part 50. #####
+
+If a request for a hearing and/or petition for leave to intervene is filed within the time prescribed in the notice of proposed action on an application for an operating license pursuant to appendix N of part 50 of this chapter with respect to a specific reactor(s) at a specific site, and the Commission, the Chief Administrative Judge, or a presiding officer has issued a notice of hearing or other appropriate order, then the Commission, the Chief Administrative Judge, or the presiding officer may order separate hearings on particular phases of the proceeding and/or consolidate for hearing two or more proceedings in the manner described in § 2.402.

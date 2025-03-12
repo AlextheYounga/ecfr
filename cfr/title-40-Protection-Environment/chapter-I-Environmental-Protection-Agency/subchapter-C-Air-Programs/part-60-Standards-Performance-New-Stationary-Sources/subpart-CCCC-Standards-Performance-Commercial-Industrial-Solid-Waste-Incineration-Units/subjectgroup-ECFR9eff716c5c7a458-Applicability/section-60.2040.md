@@ -1,0 +1,3 @@
+##### § 60.2040 Do all eleven components of these new source performance standards apply at the same time? #####
+
+No. You must meet the preconstruction siting analysis and waste management plan requirements before you commence construction of the CISWI. The operator training and qualification, emission limitations, operating limits, performance testing and compliance, monitoring, and most recordkeeping and reporting requirements are met after the CISWI begins operation.

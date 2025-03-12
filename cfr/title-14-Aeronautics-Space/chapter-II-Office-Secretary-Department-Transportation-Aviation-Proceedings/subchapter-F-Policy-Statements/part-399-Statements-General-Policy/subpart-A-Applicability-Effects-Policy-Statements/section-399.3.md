@@ -1,0 +1,3 @@
+##### § 399.3 Statements in other Board documents. #####
+
+No statement contained in any Board opinion, decision, order, certificate, permit, exemption, or waiver shall be considered a statement of policy within the meaning of this part, even though such statements may constitute a precedent in future cases or declare future policy to be followed in like cases. Similarly, a denial by the Board or relief sought, or statements of the Board's reasons for failure to issue a rule upon which rulemaking proceedings have been commenced shall not be considered statements of policy, except to the extent that it is specifically stated that such denial or failure is based upon a policy thereafter to be followed.

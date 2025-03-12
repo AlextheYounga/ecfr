@@ -1,0 +1,11 @@
+##### § 1033.140 Rated power. #####
+
+This section describes how to determine the rated power of a locomotive for the purposes of this part.
+
+(a) A locomotive configuration's rated power is the maximum brake power point on the nominal power curve for the locomotive configuration, as defined in this section. See § 1033.901 for the definition of brake power. Round the power value to the nearest whole horsepower. Generally, this will be the brake power of the engine in notch 8.
+
+(b) The nominal power curve of a locomotive configuration is its maximum available brake power at each possible operator demand setpoint or “notch”. See 40 CFR 1065.1001 for the definition of operator demand. The maximum available power at each operator demand setpoint is based on your design and production specifications for that locomotive. The nominal power curve does not include any operator demand setpoints that are not achievable during in-use operation. For example, for a locomotive with only eight discrete operator demand setpoints, or notches, the nominal power curve would be a series of eight power points versus notch, rather than a continuous curve.
+
+(c) The nominal power curve must be within the range of the actual power curves of production locomotives considering normal production variability. If after production begins it is determined that your nominal power curve does not represent production locomotives, we may require you to amend your application for certification under § 1033.225.
+
+(d) For the purpose of determining useful life, you may need to use a rated power based on power other than brake power according to the provisions of this paragraph (d). The useful life must be based on the power measured by the locomotive's megawatt-hour meter. For example, if your megawatt-hour meter reads and records the electrical work output of the alternator/generator rather than the brake power of the engine, and the power output of the alternator/generator at notch 8 is 4000 horsepower, calculate your useful life as 30,000MW-hrs (7.5 × 4000).

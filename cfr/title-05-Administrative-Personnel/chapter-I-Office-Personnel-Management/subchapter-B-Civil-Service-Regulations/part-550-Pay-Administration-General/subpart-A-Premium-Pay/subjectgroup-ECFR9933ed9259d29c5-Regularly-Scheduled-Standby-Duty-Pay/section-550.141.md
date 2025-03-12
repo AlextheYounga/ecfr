@@ -1,0 +1,5 @@
+##### § 550.141 Authorization of premium pay on an annual basis. #####
+
+An agency may pay premium pay on an annual basis, instead of the premium pay prescribed in this subpart for regularly scheduled overtime, night, holiday, and Sunday work, to an employee in a position requiring him or her regularly to remain at, or within the confines of, his or her station during longer than ordinary periods of duty, a substantial part of which consists of remaining in a standby status rather than performing work. Premium pay under this section is determined as an appropriate percentage, not in excess of 25 percent, of that part of the employee's rate of basic pay which does not exceed the minimum rate of basic pay for GS-10 (including any applicable locality-based comparability payment under 5 U.S.C. 5304 or special rate of pay under 5 U.S.C. 5305 or similar provision of law).
+
+[56 FR 20342, May 3, 1991, as amended at 61 FR 3542, Feb. 1, 1996]

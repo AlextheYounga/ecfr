@@ -1,0 +1,5 @@
+##### § 137.47 Do any provisions of Title I apply to compacts, funding agreements, and construction project agreements negotiated under Title V of the Act? #####
+
+(a) Yes, the provisions of Title I listed in section 516(a) of the Act [25 U.S.C. 458aaa-15(a)] and section 314 of Pub. L. 101-512, as amended, [25 U.S.C. 450f note] mandatorily apply to a compact, funding agreement and construction project agreement to the extent they are not in conflict with Title V. In addition, at the option of a Self-Governance Tribe, under section 516(b) of the Act [25 U.S.C. 458aaa-15(b)] any provisions of Title I may be included in the compact or funding agreement.
+
+(b) The provisions of Title I referenced in section 516(a) of the Act [25 U.S.C. 458aaa-15(a)] are sections 5 [25 U.S.C. 450c], 6 [25 U.S.C. 450d], 7 [25 U.S.C. 450e], 102(c) and (d) [25 U.S.C. 450f(c) and (d)], 104 [25 U.S.C. 450i], 105(k) and (l) [25 U.S.C. 450j(k) and (l)], 106(a) through (k) [25 U.S.C. 450j-1(a) through (k)], and 111 [25 U.S.C. 450n] of the Act.

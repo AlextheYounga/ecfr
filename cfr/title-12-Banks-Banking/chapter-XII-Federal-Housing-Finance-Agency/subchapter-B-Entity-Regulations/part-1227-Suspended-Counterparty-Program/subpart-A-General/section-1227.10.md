@@ -1,0 +1,7 @@
+##### § 1227.10 Exception to final suspension order in effect. #####
+
+(a) *Request for exception.* A regulated entity to which a final suspension order in effect is applicable may request an exception from such order to allow it to engage in a particular covered transaction with a suspended person and any affiliates thereof. Any such request shall clearly state any reasons supporting an exception, as well as any steps the regulated entity will take to mitigate any risks presented by the exception. An exception may not be requested by a suspended person or any affiliates thereof.
+
+(b) *Decision on exception.* A suspending official may approve an exception from a final suspension order in effect to permit a regulated entity to engage in a particular covered transaction with a suspended person and any affiliates thereof for reasons consistent with those for which the suspending official may limit or qualify the scope or effect of a final suspension order under § 1227.6(f)(2)(iv) of this part. The decision on a request for an exception shall not constitute an appealable order.
+
+(c) *Notice required.* FHFA shall provide written notice in a timely manner to the regulated entity, the suspended person and any affiliates thereof, and the other regulated entities of any exception approved for a particular covered transaction.

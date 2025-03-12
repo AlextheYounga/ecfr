@@ -1,0 +1,3 @@
+##### 604.7101 Purpose. #####
+
+A procurement quality assurance program is essential to the effective operation of each domestic contracting activity. Each domestic contracting activity and RPSO shall develop a quality assurance plan for review and approval of contract actions to ensure that all requirements of law, regulation, Departmental policy, and sound procurement practices are met, the taxpayer's interests are adequately protected, and the Department's mission is well-served. Post quality assurance includes A/OPE review of actions exceeding warrant levels and Staff Assistance Visits (SAVs).

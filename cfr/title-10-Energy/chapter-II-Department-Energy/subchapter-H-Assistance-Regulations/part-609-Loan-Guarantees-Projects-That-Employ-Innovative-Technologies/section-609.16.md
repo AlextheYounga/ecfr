@@ -1,0 +1,9 @@
+##### § 609.16 Perfection of liens and preservation of collateral. #####
+
+(a) The Loan Guarantee Agreement and other documents related thereto shall provide that:
+
+(1) The Eligible Lender, or DOE in conjunction with the Federal Financing Bank where the loan is funded by the Federal Financing Bank, or other Holder or other agent or servicer will take those actions necessary or appropriate to perfect and maintain liens, as applicable, on assets which are pledged as collateral for the Guaranteed Obligation; and
+
+(2) Upon default by the Borrower, the holder of pledged collateral shall take such actions as the Secretary (subject to any applicable Intercreditor Agreement) may reasonably require to provide for the care, preservation, protection, and maintenance of such collateral so as to enable the United States to achieve maximum recovery from the pledged assets. The Secretary shall reimburse the holder of collateral for reasonable and appropriate expenses incurred in taking actions required by the Secretary (unless otherwise provided in applicable agreements). Except as provided in § 609.15, no party may waive or relinquish, without the consent of the Secretary, any collateral securing the Guaranteed Obligation to which the United States would be subrogated upon payment under the Loan Guarantee Agreement.
+
+(b) In the event of a default, the Secretary may enter into such contracts as the Secretary (subject to any applicable Intercreditor Agreement) determines are required or appropriate to care for, preserve, protect or maintain the collateral. The cost of such contracts may be charged to the Borrower.

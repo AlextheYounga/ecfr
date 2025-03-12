@@ -1,0 +1,3 @@
+##### § 172.804 Relationship to other Federal requirements. #####
+
+To avoid unnecessary duplication of security requirements, security plans that conform to regulations, standards, protocols, or guidelines issued by other Federal agencies, international organizations, or industry organizations may be used to satisfy the requirements in this subpart, provided such security plans address the requirements specified in this subpart.

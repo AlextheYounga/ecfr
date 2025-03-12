@@ -1,0 +1,19 @@
+##### § 25.148 Licensing provisions for the Direct Broadcast Satellite Service. #####
+
+(a) *License terms.* License terms for DBS facilities are specified in § 25.121(a).
+
+(b) *Due diligence.* (1) All persons granted DBS authorizations shall proceed with due diligence in constructing DBS systems. Permittees shall be required to complete contracting for construction of the satellite station(s) within one year of the grant of the authorization. The satellite stations shall also be required to be in operation within six years of the authorization grant.
+
+(2) In addition to the requirements stated in paragraph (b)(1) of this section, all persons who receive new or additional DBS authorizations after January 19, 1996 shall complete construction of the first satellite in their respective DBS systems within four years of grant of the authorization. All satellite stations in such a DBS system shall be in operation within six years of the grant of the authorization.
+
+(3) DBS licensees shall be required to proceed consistent with all applicable due diligence obligations, unless otherwise determined by the Commission upon proper showing in any particular case. Transfer of control of the authorization shall not be considered to justify extension of these deadlines.
+
+(c) *Geographic service requirements.* Those entities acquiring DBS authorizations after January 19, 1996, or who after January 19, 1996 modify a previous DBS authorization to launch a replacement satellite, must provide DBS service to Alaska and Hawaii where such service is technically feasible from the authorized orbital location. This requirement does not apply to DBS satellites authorized to operate at the 61.5° W.L. orbital location. DBS applicants seeking to operate from locations other than 61.5° W.L. who do not provide service to Alaska and Hawaii, must provide technical analyses to the Commission demonstrating that such service is not feasible as a technical matter, or that while technically feasible such services would require so many compromises in satellite design and operation as to make it economically unreasonable.
+
+(d) *DBS subject to competitive bidding.* Mutually exclusive initial applications to provide DBS are subject to competitive bidding procedures. The general competitive bidding procedures set forth in part 1, subpart Q of this chapter will apply unless otherwise provided in this part.
+
+(e) *DBS long form application.* Winning bidders are subject to the provisions of § 1.2107 of this chapter except that in lieu of a FCC Form 601 each winning bidder shall submit the long-form satellite service application (FCC Form 312) within thirty (30) days after being notified by Public Notice that it is the winning bidder. Each winning bidder will also be required to submit by the same deadline the information described in § 25.215 (Technical) and § 25.601 (EEO), and in paragraph (f) of this section. Each winner also will be required to file, by the same deadline, a signed statement describing its efforts to date and future plans to come into compliance with any applicable spectrum limitations, if it is not already in compliance. Such information shall be submitted pursuant to the procedures set forth in § 25.114 and any associated Public Notices.
+
+(f) *Technical qualifications.* DBS operations must be in accordance with the sharing criteria and technical characteristics contained in Appendices 30 and 30A of the ITU's Radio Regulations. Operation of systems using differing technical characteristics may be permitted, with adequate technical showing, and if a request has been made to the ITU to modify the appropriate Plans to include the system's technical parameters.
+
+[67 FR 51113, Aug. 7, 2002]

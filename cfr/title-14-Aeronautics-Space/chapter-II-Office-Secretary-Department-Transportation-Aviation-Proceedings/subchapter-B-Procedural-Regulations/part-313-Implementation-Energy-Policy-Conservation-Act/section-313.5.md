@@ -1,0 +1,7 @@
+##### § 313.5 Energy information. #####
+
+(a) It shall be the responsibility of applicants and other parties or participants to a proceeding which may involve a major regulatory action to submit sufficient information about the energy consumption and energy efficiency consequences of their proposals or positions in the proceeding to enable the administrative law judge or the DOT decisionmaker, as the case may be, to determine whether the proceeding will in fact involve a major regulatory action for purposes of this part, and if so, to consider the relevant energy factors in the decision and prepare the energy statement.
+
+(b) In proceedings involving evidentiary hearings, the energy information shall be submitted at such hearings pursuant to DOT's usual procedural regulations and practices, under control of the administrative law judge or other hearing officer.
+
+(c) In proceedings not involving evidentiary hearings, the energy information shall be submitted at such time as other materials in justification of an application are submitted. Where an application itself is intended as justification for DOT action, the energy information shall be submitted with the application. In rulemakings not involving hearings, the energy information shall normally be submitted along with comments on the notice of proposed rulemaking, or as directed in any such notice or any advance notice.

@@ -1,0 +1,3 @@
+##### § 20.6 State certification. #####
+
+The State certification shall be by the State certifying authority having jurisdiction with respect to the facility in accordance with 26 U.S.C. 169(d)(1)(A) and (d)(2). The certification shall state that the facility described in the application has been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or air pollution. It shall be executed by an agent or officer authorized to act on behalf of the State certifying authority.

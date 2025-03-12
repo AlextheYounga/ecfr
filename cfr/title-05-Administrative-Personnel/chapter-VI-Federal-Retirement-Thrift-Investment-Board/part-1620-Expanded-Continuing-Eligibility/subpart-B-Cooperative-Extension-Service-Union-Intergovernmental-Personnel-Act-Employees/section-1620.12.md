@@ -1,0 +1,5 @@
+##### § 1620.12 Employing authority contributions. #####
+
+The employing authority, at its sole discretion, may choose to make employer contributions under 5 U.S.C. 8432(c) for employees who are covered under FERS. Such contributions may be made for any period of eligible service after January 1, 1984, provided that the employing agency must treat all its employees who are eligible to receive employer contributions in the same manner. The employing authority can commence or terminate employer contributions at any time after providing all affected employees with notice of a decision to commence or terminate such contributions at least 45 days before the beginning of the applicable election period. The employing authority may not contribute to the TSP on behalf of CSRS employees.
+
+[64 FR 31057, June 9, 1999, as amended at 70 FR 32213, June 1, 2005]

@@ -1,0 +1,5 @@
+##### § 110.92 No additional judicial or administrative review of determinations made under this part. #####
+
+(a) Under section 319F-4(b)(4) of the PHS Act (42 U.S.C. 247d-6e(b)(4)) (referencing section 262 of the PHS Act (42 U.S.C. 239a)), no judicial review of the Secretary's actions concerning eligibility and benefits determinations under this part (including, but not limited to, determinations concerning eligibility, the type or amount of benefits, and the method of payment of benefits) is permitted. In addition, no further administrative review of such actions are permitted unless the President specifically directs otherwise.
+
+(b) Under section 319F-4(b)(5)(c) of the PHS Act (42 U.S.C. 247d-6e(b)(5)(c)), no judicial review of the Secretary's actions in establishing or amending a Table (or Tables) for purposes of this part (which include, but are not limited to, identifying injuries on a Table (or choosing not to identify injuries on a Table), establishing time-frames or definitions for Table injuries, and amending a Table) is permitted.

@@ -1,0 +1,3 @@
+##### § 196.109 What must an excavator do if damage to a pipeline from excavation activity causes a leak where product is released from the pipeline? #####
+
+If damage to a pipeline from excavation activity causes the release of any PHMSA regulated natural and other gas or hazardous liquid as defined in part 192, 193, or 195 of this chapter from the pipeline, the excavator must promptly report the release to appropriate emergency response authorities by calling the 911 emergency telephone number.

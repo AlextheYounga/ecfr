@@ -1,0 +1,3 @@
+##### § 204.6 Certificated and commuter air carriers proposing a change in operations, ownership, or management which is not substantial. #####
+
+Carriers proposing to make a change which would not substantially affect their operations, management, or ownership, such as certificated carriers applying for additional authority which would not substantially change their operations, will be presumed to be fit and need not file any information relating to their fitness at time of the change. However, if the Department concludes, from its own analysis or based on information submitted by third parties, that such change may bring the carrier's fitness into question, the Department may require the applicant carrier to file additional information.

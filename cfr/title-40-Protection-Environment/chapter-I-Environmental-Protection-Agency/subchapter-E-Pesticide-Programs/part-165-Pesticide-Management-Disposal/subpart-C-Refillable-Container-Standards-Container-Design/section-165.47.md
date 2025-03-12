@@ -1,0 +1,3 @@
+##### § 165.47 What information must I report about my refillable containers? #####
+
+You are not required to report to EPA with information about your refillable containers under the regulations in this subpart. You should refer to the reporting standards in part 159 of this chapter to determine if information on container failures or other incidents involving pesticide containers must be reported to EPA under FIFRA section 6(a)(2) (7 U.S.C. 136d(a)(2)).

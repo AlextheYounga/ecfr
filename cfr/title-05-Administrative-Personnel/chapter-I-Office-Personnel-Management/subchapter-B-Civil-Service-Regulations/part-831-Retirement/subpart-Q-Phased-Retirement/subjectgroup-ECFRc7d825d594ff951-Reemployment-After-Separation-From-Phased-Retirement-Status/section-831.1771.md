@@ -1,0 +1,5 @@
+##### § 831.1771 Reemployment of an individual who has separated from phased employment and who dies before submitting an application for a composite retirement annuity. #####
+
+(a) Unless eligibility for annuity terminates under 5 U.S.C. 8344, a phased retiree who has been separated from employment for more than 3 days and who has entered full retirement status, but who has not submitted an application for composite retirement annuity, is deemed to be an annuitant receiving annuity from the Civil Service Retirement and Disability Fund during any period of employment in an appointive or elective position in the Federal Government.
+
+(b) A phased retiree described in paragraph (a) whose entitlement to a composite retirement annuity terminates under 5 U.S.C. 8344 due to reemployment, is an employee effective upon reemployment. The individual is not entitled to a phased retirement annuity (i.e., phased retirement annuity does not resume) during the period of employment, and the individual's entitlement to a composite retirement annuity terminates effective on the date of employment.

@@ -1,0 +1,3 @@
+##### § 239.203 Retention of emergency preparedness plan. #####
+
+Each passenger railroad to which this part applies, and all railroads hosting its passenger train service (if applicable), shall each retain one copy of the emergency preparedness plan required by § 239.201 and one copy of each subsequent amendment to that plan at the system and division headquarters of each, and shall make such records available to representatives of FRA and States participating under part 212 of this chapter for inspection and copying during normal business hours.

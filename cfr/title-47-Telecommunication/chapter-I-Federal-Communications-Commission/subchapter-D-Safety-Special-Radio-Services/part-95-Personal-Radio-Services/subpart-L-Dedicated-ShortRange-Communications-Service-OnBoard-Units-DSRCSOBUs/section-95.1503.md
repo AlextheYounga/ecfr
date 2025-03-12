@@ -1,0 +1,3 @@
+##### § 95.1503 Eligibility. #####
+
+All entities for which the Commission has licensing authority are authorized by rule to operate an FCC certified On-Board Unit in accordance with the rules contained in this subpart. No individual FCC license will be issued. (The FCC does not have authority to license foreign governments or their representatives, nor stations belonging to and operated by the United States Government.)

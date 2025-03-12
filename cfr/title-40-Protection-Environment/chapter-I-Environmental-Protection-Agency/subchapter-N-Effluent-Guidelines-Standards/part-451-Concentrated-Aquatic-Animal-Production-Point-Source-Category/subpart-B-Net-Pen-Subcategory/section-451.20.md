@@ -1,0 +1,3 @@
+##### § 451.20 Applicability. #####
+
+This subpart applies to the discharge of pollutants from a concentrated aquatic animal production facility that produces 100,000 pounds or more per year of aquatic animals in net pen or submerged cage systems, except for net pen facilities rearing native species released after a growing period of no longer than 4 months to supplement commercial and sport fisheries.

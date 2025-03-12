@@ -1,0 +1,3 @@
+##### § 18.1 Definitions. #####
+
+As used in this part, continental United States does not include Hawaii or Alaska. The Administrator means the Administrator of the EPA and any other officer or employee of the Agency to whom the authority involved may be delegated. An Environmental Protection Research Fellowship is one which requires the performance of services, either full or part time, for the EPA. A Special Research Consultant for Environmental Protection is a special consultant appointed to assist and advise in the operations of the research activities of the EPA.

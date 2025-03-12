@@ -1,0 +1,3 @@
+##### § 161.325 Availability of data and comments on an implemented restriction. #####
+
+The applicant shall retain all relevant supporting data and all comments relating to an approved restriction for as long as the restriction is in effect and shall make these materials available for inspection upon request by the FAA. This information shall be made available for inspection by any person during the pendency of any petition for reevaluation found justified by the FAA.

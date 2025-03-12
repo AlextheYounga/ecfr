@@ -1,0 +1,9 @@
+##### § 820.24 Preliminary notice of violation. #####
+
+(a) If the Director has reason to believe a person has violated or is continuing to violate a provision of the Act or a DOE Nuclear Safety Requirement, he may file a Preliminary Notice of Violation. The Notice and any transmittal documents shall contain sufficient information to fairly apprise the respondent of the facts and circumstances of the alleged violations and the basis of any proposed remedy, and to properly indicate what further actions are necessary by or available to respondent.
+
+(b) Within 30 days after the filing of a Preliminary Notice of Violation, the respondent shall file a reply.
+
+(c) The reply shall be in writing and signed by the person filing it. The reply shall contain a statement of all relevant facts pertaining to the situation that is the subject of the Notice. The reply shall state any facts, explanations and arguments which support a denial that a violation has occurred as alleged; demonstrate any extenuating circumstances or other reason why the proposed remedy should not be imposed or should be mitigated; and furnish full and complete answers to the questions set forth in the Notice. Copies of all relevant documents shall be submitted with the reply. The reply shall include a discussion of the relevant authorities which support the position asserted, including rulings, regulations, interpretations, and previous decisions issued by DOE.
+
+(d) The respondent may terminate an enforcement action if the reply agrees to comply with the proposed remedy and waives any right to contest the Notice or the remedy. If a respondent elects this option, the Preliminary Notice of Violation shall be deemed a Final Order upon the filing of the reply.

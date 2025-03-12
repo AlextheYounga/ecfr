@@ -1,0 +1,5 @@
+##### 1631.205-41 Taxes. #####
+
+5 U.S.C. 8909(f)(1) prohibits the imposition of taxes, fees, or other monetary payment, directly or indirectly, on FEHB premiums by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority of those entities. Therefore, FAR 31.205-41 is modified to include those taxes as unallowable costs. The prohibited payments, referred to elsewhere in these regulations as “premium taxes,” applies to all payments directed by States or municipalities, regardless of how they may be titled, to whom they must be paid, or the purpose for which they are collected, and it applies to all forms of direct and indirect measurements on FEHBP premiums, however modified, to include cost per contract or enrollee, with the sole exception of a tax on net income or profit, if that tax, fee, or payment is applicable to a broad range of business activity.
+
+[56 FR 57496, Nov. 12, 1991]

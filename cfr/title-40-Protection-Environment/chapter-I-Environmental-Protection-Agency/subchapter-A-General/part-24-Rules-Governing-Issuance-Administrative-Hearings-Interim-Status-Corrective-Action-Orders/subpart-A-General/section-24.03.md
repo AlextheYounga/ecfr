@@ -1,0 +1,5 @@
+##### § 24.03 Maintenance of docket and official record. #####
+
+(a) A Clerk shall be designated by the Regional Administrator to receive all initial orders, final orders, decisions, responses, memoranda, and documents regarding the order and to maintain the official record and docket.
+
+(b) On or before the date the initial order is served on respondent the EPA office issuing the order shall deliver to the Clerk (a copy of) the administrative record supporting the findings of fact, determinations of law, and relief sought in the initial administrative order. This record shall include all relevant documents and oral information (which has been reduced to writing), which the Agency considered in the process of developing and issuing the order, exclusive of privileged internal communications. The administrative record delivered to the Clerk must have an index and be available for review in the appropriate Agency Regional or Headquarters office during normal business hours after the order is issued.

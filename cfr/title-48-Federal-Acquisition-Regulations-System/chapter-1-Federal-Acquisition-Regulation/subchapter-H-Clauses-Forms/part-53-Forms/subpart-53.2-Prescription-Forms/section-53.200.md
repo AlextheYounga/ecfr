@@ -1,0 +1,5 @@
+##### 53.200 Scope of subpart. #####
+
+This subpart prescribes standard forms and references optional forms and agency-prescribed forms for use in acquisition. Consistent with the approach used in subpart 52.2, this subpart is arranged by subject matter, in the same order as, and keyed to, the parts of the FAR in which the form usage requirements are addressed. For example, forms addressed in FAR part 14, Sealed Bidding, are treated in this subpart in section 53.214, Sealed Bidding; forms addressed in FAR part 43, Contract Modifications, are treated in this subpart in section 53.243, Contract modifications. The following example illustrates how the subjects are keyed to the parts in which they are addressed:
+
+![](/graphics/ec01my91.001.gif)[48 FR 42637, Sept. 19, 1983, as amended at 50 FR 1748, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985]

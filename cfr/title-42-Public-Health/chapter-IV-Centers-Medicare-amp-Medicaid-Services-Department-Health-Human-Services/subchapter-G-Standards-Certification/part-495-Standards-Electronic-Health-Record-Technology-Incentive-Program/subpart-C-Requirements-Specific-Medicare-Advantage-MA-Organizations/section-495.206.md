@@ -1,0 +1,5 @@
+##### § 495.206 Timeframe for payment to qualifying MA organizations. #####
+
+(a) CMS makes payment to qualifying MA organizations for qualifying MA EPs under the MA EHR incentive program after computing incentive payments due under the Medicare FFS EHR incentive program according to § 495.102.
+
+(b) Payments to qualifying MA organizations for qualifying MA-affiliated eligible hospitals under common corporate governance are made under the Medicare FFS EHR incentive program, following the timeline in specified in § 495.104 of this part. To the extent sufficient data do not exist to pay qualifying MA-affiliated eligible hospitals under common corporate governance under the Medicare FFS EHR incentive program, payment is made under the MA EHR incentive program, following the same timeline in § 495.104 of this part.

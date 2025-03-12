@@ -1,0 +1,7 @@
+##### § 230.18 Service days. #####
+
+(a) *Service day record.* For every steam locomotive currently in service, the steam locomotive owner and/or operator shall have available, and be able to show an FRA inspector upon request, a current copy of the service day record that contains the number of service days the steam locomotive has accrued since the last 31, 92, Annual and 1472 service day inspections.
+
+(b) *Service day report.* By the 31st of every January, every steam locomotive owner and/or operator shall file a service day report, FRA Form No. 5, with the Regional Administrator accounting for the days the steam locomotive was in service from January 1 through December 31st of the preceding year. If the steam locomotive was in service zero (0) days during that period, a report must still be filed to prevent the steam locomotive from being considered retired by FRA. (See appendix B of this part.)
+
+(c) *Retirement where no service day reports filed.* Where the steam locomotive owner and/or operator does not file the required service day report for a steam locomotive, that steam locomotive may be considered retired by FRA. The steam locomotive owner and/or operator must complete all 1472 service day inspection items to return a retired steam locomotive to service.

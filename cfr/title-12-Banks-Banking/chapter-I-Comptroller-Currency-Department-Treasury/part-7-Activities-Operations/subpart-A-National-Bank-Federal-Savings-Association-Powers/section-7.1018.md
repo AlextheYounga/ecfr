@@ -1,0 +1,3 @@
+##### § 7.1018 National bank automatic payment plan accounts. #####
+
+A national bank may, for the benefit and convenience of its savings depositors, adopt an automatic payment plan under which a savings account will earn dividends at the current rate paid on regular savings accounts. The depositor, upon reaching a previously designated age, receives his or her accumulated savings and earned interest in installments of equal amounts over a specified period.

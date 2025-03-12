@@ -1,0 +1,7 @@
+##### 2919.201 General policy. #####
+
+(a) It is the policy of the Department of Labor to provide maximum practicable opportunities to small businesses in acquisitions.
+
+(b) Management responsibilities for small and disadvantaged business utilization are the responsibility of the Director, Office of Small Business Programs. This individual is responsible for performing all functions and duties prescribed in FAR 19.2 including appointing, as prescribed in FAR 19.201(d)(8), a small business specialist (SBS) for each contract office. The Department of Labor Manual Series (DLMS), Chapter 2 1000, addresses the implementation of the preference programs in procurement including HUBZone, Subcontracting Plans, Standard Form 294 (Subcontracting Report for Individual Contracts), and the report, Standard Form 295 (Summary Subcontracting Report) submission, *et al.*
+
+(c) All DOL procurements over the simplified acquisition threshold, whether being conducted via open market or by ordering from a pre-existing contract vehicle such as GSA Schedule, must be reviewed and receive a recommendation by the Office of Small Business Programs, the Department of Labor's Office of Small Disadvantaged Business Utilization, prior to being advertised. The Acquisition Screening and Review Form DL-1-2004 shall be used for this purpose and the statement of work and market survey documentation shall be submitted to Office of Small Business Programs with the request for review.

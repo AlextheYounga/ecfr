@@ -1,0 +1,7 @@
+##### § 905.13 When must IRPs be submitted? #####
+
+(a) *Submitting the initial IRP.* Except as provided in paragraph (c) of this section, customers that have not previously had an IRP approved by Western must submit the initial IRP to the appropriate Regional Manager no later than 1 year after May 1, 2000, or after becoming a customer, whichever is later.
+
+(b) *Updates and amendments to IRPs.* Customers must submit updated IRPs to the appropriate Regional Manager every 5 years after Western's approval of the initial IRP. Customers that complied with Western's IRP regulations in effect before May 1, 2000 must maintain their submission and resubmission schedules previously in effect. Customers may submit amendments and revisions to IRPs at any time.
+
+(c) *IRP cooperatives.* Customers with geographic, resource supply, and other similarities may join together and request, in writing, Western's approval to become an IRP cooperative. Western will respond to IRP cooperative status requests within 30 days of receiving a request. If Western disapproves a request for IRP cooperative status, the requesting participants must maintain their currently applicable integrated resource or small customer plans, or submit the initial IRPs no later than 1 year after the date of the disapproval letter. Western's approval of IRP cooperative status will not be based on any potential participant's contractual status with Western. Each IRP cooperative must submit an IRP for its participants within 18 months after Western approves IRP cooperative status.

@@ -1,0 +1,3 @@
+##### § 447.10 Applicability; description of the oil-base solvent wash ink subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the production of oil-base ink where the tank washing system uses solvents. When a plant is subject to effluent limitations covering more than one subcategory the discharge limitation shall be the aggregate of the limitations applicable to the total production covered in each subcategory.

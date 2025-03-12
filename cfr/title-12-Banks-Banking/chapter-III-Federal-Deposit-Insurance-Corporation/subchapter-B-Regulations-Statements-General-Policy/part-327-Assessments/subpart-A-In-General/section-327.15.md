@@ -1,0 +1,15 @@
+##### § 327.15 Emergency special assessments. #####
+
+(a) *Emergency special assessment imposed on June 30, 2009.* On June 30, 2009, the FDIC shall impose an emergency special assessment of 20 basis points on each insured depository institution based on the institution's assessment base calculated pursuant to § 327.5 for the second assessment period of 2009.
+
+(b) *Emergency special assessments after June 30, 2009.* After June 30, 2009, if the reserve ratio of the Deposit Insurance Fund is estimated to fall to a level that that the Board believes would adversely affect public confidence or to a level which shall be close to zero or negative at the end of a calendar quarter, an emergency special assessment of up to 10 basis points may be imposed by a vote of the Board on all insured depository institutions based on each institution's assessment base calculated pursuant to § 327.5 for the corresponding assessment period.
+
+(1) *Estimation process.* For purposes of any emergency special assessment under this paragraph (b), the FDIC shall estimate the reserve ratio of the Deposit Insurance Fund for the applicable calendar quarter end from available data on, or estimates of, insurance fund assessment income, investment income, operating expenses, other revenue and expenses, and loss provisions, including provisions for anticipated failures. The FDIC will assume that estimated insured deposits will increase during the quarter at the average quarterly rate over the previous four quarters.
+
+(2) *Imposition and announcement of emergency special assessments.* Any emergency special assessment under this paragraph (b) shall be on the last day of a calendar quarter and shall be announced by the end of such quarter. As soon as practicable after announcement, the FDIC will have a notice published in the Federal Register of the emergency special assessment.
+
+(c) *Invoicing of any emergency special assessments.* The FDIC shall advise each insured depository institution of the amount and calculation of any emergency special assessment imposed under paragraph (a) or (b) of this section. This information shall be provided at the same time as the institution's quarterly certified statement invoice for the assessment period in which the emergency special assessment was imposed.
+
+(d) *Payment of any emergency special assessment.* Each insured depository institution shall pay to the Corporation any emergency special assessment imposed under paragraph (a) or (b) of this section in compliance with and subject to the provisions of §§ 327.3, 327.6 and 327.7 of subpart A, and the provisions of subpart B. The payment date for any emergency special assessment shall be the date provided in § 327.3(b)(2) for the institution's quarterly certified statement invoice for the calendar quarter in which the emergency special assessment was imposed.
+
+[74 FR 9341, Mar. 3, 2009]

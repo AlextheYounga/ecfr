@@ -1,0 +1,5 @@
+##### § 1039.805 What symbols, acronyms, and abbreviations does this part use? #####
+
+The following symbols, acronyms, and abbreviations apply to this part:
+
+CFR Code of Federal Regulations.CH4 methane.CO carbon monoxide.CO2 carbon dioxide.DEF Diesel exhaust fluid.EEFM Emergency equipment field modification.EPA Environmental Protection Agency.FEL Family Emission Limit.g/kW-hr grams per kilowatt-hour.HC hydrocarbon.ISO International Organization for Standardization (see *www.iso.org*).kW kilowatts.N2O nitrous oxide.NIST National Institute of Standards and Technology.NMHC nonmethane hydrocarbons.NOX oxides of nitrogen (NO and NO2).NTE not-to-exceed PM particulate matter.rpm revolutions per minute.SAE Society of Automotive Engineers.SCR Selective catalytic reduction.SEA Selective enforcement audit.THC total hydrocarbon.THCE total hydrocarbon equivalent.TRU transportation refrigeration unit.U.S.C. United States Code.[69 FR 39213, June 29, 2004, as amended at 74 FR 56509, Oct. 30, 2009; 77 FR 34148, June 8, 2012]

@@ -1,0 +1,7 @@
+##### § 49.11 Actions under section 301(d)(4) authority. #####
+
+Notwithstanding any determination made on the basis of authorities granted the Administrator under any other provision of this section, the Administrator, pursuant to the discretionary authority explicitly granted to the Administrator under sections 301(a) and 301(d)(4):
+
+(a) Shall promulgate without unreasonable delay such Federal implementation plan provisions as are necessary or appropriate to protect air quality, consistent with the provisions of sections 304(a) and 301(d)(4), if a tribe does not submit a tribal implementation plan meeting the completeness criteria of 40 CFR part 51, appendix V, or does not receive EPA approval of a submitted tribal implementation plan.
+
+(b) May provide up to 95 percent of the cost of implementing programs for the prevention and control of air pollution or implementation of national primary and secondary ambient air quality standards. After two years from the date of each tribe's initial grant award, the maximum Federal share will be reduced to 90 percent, as long as the Regional Administrator determines that the tribe meets certain economic indicators that would provide an objective assessment of the tribe's ability to increase its share. The Regional Administrator may increase the maximum Federal share to 100 percent if the tribe can demonstrate in writing to the satisfaction of the Regional Administrator that fiscal circumstances within the tribe are constrained to such an extent that fulfilling the match would impose undue hardship.

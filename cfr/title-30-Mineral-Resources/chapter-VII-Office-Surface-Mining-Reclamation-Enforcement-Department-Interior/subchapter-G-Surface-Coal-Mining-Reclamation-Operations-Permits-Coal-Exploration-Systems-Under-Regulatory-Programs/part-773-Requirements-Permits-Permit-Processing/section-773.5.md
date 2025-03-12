@@ -1,0 +1,7 @@
+##### § 773.5 Regulatory coordination with requirements under other laws. #####
+
+Link to an amendment published at 81 FR 93323, Dec. 20, 2016.
+
+Each regulatory program shall, to avoid duplication, provide for the coordination of review and issuance of permits for surface coal mining and reclamation operations with applicable requirements of the Endangered Species Act of 1973, as amended (16 U.S.C. 1531 *et seq.*); the Fish and Wildlife Coordination Act, as amended (16 U.S.C. 661 *et seq.*); the Migratory Bird Treaty Act of 1918, as amended (16 U.S.C. 703 *et seq.*); The National Historic Preservation Act of 1966, as amended (16 U.S.C. 470 *et seq.*); the Bald Eagle Protection Act, as amended (16 U.S.C. 668a); for Federal programs only, the Archeological and Historic Preservation Act of 1974 (16 U.S.C. 469 *et seq.*); and the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa *et seq.)* where Federal and Indian lands covered by that Act are involved.
+
+[52 FR 4262, Feb. 10, 1987. Redesignated at 65 FR 79663, Dec. 19, 2000]

@@ -1,0 +1,7 @@
+##### 3.908-7 Enforcement of orders. #####
+
+(a) Whenever a contractor or subcontractor fails to comply with an order issued under 3.908-6(a)(2) of this section, the head of the agency concerned shall file an action for enforcement of the order in the U.S. district court for a district in which the reprisal was found to have occurred. In any action brought pursuant to this authority, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and attorney fees and costs. The complainant-employee upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
+
+(b) Any person adversely affected or aggrieved by an order issued under 3.908-6(a)(2) may obtain review of the order's conformance with 41 U.S.C. 4712 and its implementing regulations, in the U.S. court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court.
+
+[78 FR 60171, Sept. 30, 2013, as amended at 80 FR 75913, Dec. 4, 2015]

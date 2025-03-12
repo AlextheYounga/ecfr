@@ -1,0 +1,7 @@
+##### § 1152.13 Amendment of the system diagram map or narrative. #####
+
+(a) Each carrier shall be responsible for maintaining the continuing accuracy of its system diagram map and the accompanying line descriptions or narrative. Amendments may be filed at any time and will be subject to all carrier filing and publication requirements of § 1152.12.
+
+(b) By March 24, 1997, each carrier shall file with the Board a revised and updated color-coded system diagram map and line descriptions or narrative which shall be subject to the filing and publication requirements of § 1152.12. Thereafter, each carrier shall file amendments as line designations change and update its map or narrative, as appropriate. Also, each carrier shall file an updated or amended map or narrative upon order of the Board. Each new rail carrier shall comply with the requirements of this subsection within 60 days after it becomes a carrier.
+
+(c) The Board will reject an abandonment or discontinuance application filed by a rail carrier if any part of the application includes a line that has not been identified and described, by amendment or otherwise, on the carrier's system diagram map or narrative, as appropriate, as a line in category 1 (§ 1152.10(b)(1)) for at least 60 days.

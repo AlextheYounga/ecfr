@@ -1,0 +1,3 @@
+##### § 420.10 Purpose. #####
+
+This subpart specifies the procedures that apply to the Formula Grant part of the State Energy Program, which allows States to apply for financial assistance to undertake a wide range of required and optional energy-related activities provided for under § 420.15 and § 420.17. Funding for these activities is allocated to the States based on funds available for any fiscal year, as described under § 420.11.

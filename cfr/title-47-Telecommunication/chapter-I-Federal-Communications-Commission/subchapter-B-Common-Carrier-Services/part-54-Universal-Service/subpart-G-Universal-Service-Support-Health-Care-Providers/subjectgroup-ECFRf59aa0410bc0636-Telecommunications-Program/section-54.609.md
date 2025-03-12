@@ -1,0 +1,35 @@
+##### § 54.609 Calculating support. #####
+
+(a) The amount of universal service support provided for an eligible service to be funded from the Telecommunications Program shall be the difference, if any, between the urban rate and the rural rate charged for the service, as defined herein. In addition, all reasonable charges that are incurred by taking such services, such as state and federal taxes shall be eligible for universal service support. Charges for termination liability, penalty surcharges, and other charges not included in the cost of taking such service shall not be covered by the universal service support mechanisms. Under the Telecommunications Program, rural health care providers may choose one of the following two support options.
+
+(1) *Distance based support.* The Administrator shall consider the base rates for telecommunications services in rural areas to be reasonably comparable to the base rates charged for functionally similar telecommunications service in urban areas in that state, and, therefore, the Administrator shall not include these charges in calculating the support. The Administrator shall include, in the support calculation, all other charges specified, and all actual distance-based charges as follows:
+
+(i) If the requested service distance is less than or equal to the SUD for the state, the distance-based charges for the rural health care provider are reasonably comparable to those in urban areas, so the health care provider will not receive distance-based support.
+
+(ii) If the requested service distance is greater than the SUD for the state, but less than the maximum allowable distance, the distance-based charge actually incurred for that service can be no higher than the distance-based charges for a functionally similar service in any city in that state with a population of 50,000 or more over the SUD.
+
+(iii) “Distance-based charges” are charges based on a unit of distance, such as mileage-based charges.
+
+(iv) A telecommunications carrier that provides telecommunications service to a rural health care provider participating in an eligible health care consortium, and the consortium must establish the actual distance-based charges for the health care provider's portion of the shared telecommunications services.
+
+(2) *Base rate support.* If a telecommunications carrier, health care provider, and/or consortium of health care providers reasonably determines that the base rates for telecommunications services in rural areas are not reasonably comparable to the base rates charged for functionally similar telecommunications service in urban areas in that state, the telecommunications carrier, health care provider, and/or consortium of health care providers may request that the Administrator perform a more comprehensive support calculation. The requester shall provide to the Administrator the information to establish both the urban and rural rates consistent with § 54.605 and § 54.607, and submit to the Administrator with Form 466 all of the documentation necessary to substantiate the request.
+
+(3) *Base rate support-consortium.* A telecommunications carrier that provides telecommunications service to a rural health care provider participating in an eligible health care consortium, and the consortium must establish the applicable rural base rates for telecommunications service for the health care provider's portion of the shared telecommunications services, as well as the applicable urban base rates for the telecommunications service.
+
+(b) Absent documentation justifying the amount of universal service support requested for health care providers participating in a consortium, the Administrator shall not allow telecommunications carriers to offset, or receive reimbursement for, the amount eligible for universal service support.
+
+(c) The universal service support mechanisms shall provide support for intrastate telecommunications services, as set forth in § 54.101(a), provided to rural health care providers as well as interstate telecommunications services.
+
+(d) *Satellite services.* (1) Rural public and non-profit health care providers may receive support for rural satellite services under the Telecommunications Program, even when another functionally similar terrestrial-based service is available in that rural area. Support for satellite services shall be capped at the amount the rural health care provider would have received if they purchased a functionally similar terrestrial-based alternative.
+
+(2) Rural health care providers seeking support from the Telecommunications Program for satellite services shall provide to the Administrator with the Form 466, documentation of the urban and rural rates for the terrestrial-based alternatives.
+
+(3) Where a rural health care provider seeks a more expensive satellite-based service when a less expensive terrestrial-based alternative is available, the rural health care provider shall be responsible for the additional cost.
+
+(e) *Mobile rural health care providers* - (1) *Calculation of support.* The support amount allowed under the Telecommunications Program for satellite services provided to mobile rural health care providers is calculated by comparing the rate for the satellite service to the rate for an urban wireline service with a similar bandwidth. Support for satellite services shall not be capped at an amount of a functionally similar wireline alternative. Where the mobile rural health care provider provides service in more than one state, the calculation shall be based on the urban areas in each state, proportional to the number of locations served in each state.
+
+(2) *Documentation of support.* (i) Mobile rural health care providers shall provide to the Administrator documentation of the price of bandwidth equivalent wireline services in the urban area in the state or states where the service is provided. Mobile rural health care providers shall provide to the Administrator the number of sites the mobile health care provider will serve during the funding year.
+
+(ii) Where a mobile rural health care provider serves less than eight different sites per year, the mobile rural health care provider shall provide to the Administrator documentation of the price of bandwidth equivalent wireline services. In such case, the Administrator shall determine on a case-by-case basis whether the telecommunications service selected by the mobile rural health care provider is the most cost-effective option. Where a mobile rural health care provider seeks a more expensive satellite-based service when a less expensive wireline alternative is most cost-effective, the mobile rural health care provider shall be responsible for the additional cost.
+
+[68 FR 74502, Dec. 24, 2003, as amended at 70 FR 6373, Feb. 7, 2005; 78 FR 13983, Mar. 1, 2013]

@@ -1,0 +1,5 @@
+##### § 674.33 Notifications of accidents. #####
+
+(a) *Two-hour notification.* In addition to the requirements for accident notification set forth in an SSO program standard, an RTA must notify both the SSOA and the FTA within two hours of any accident occurring on a rail fixed guideway public transportation system. The criteria and thresholds for accident notification and reporting are defined in a reporting manual developed for the electronic reporting system specified by FTA as required in § 674.39(b), and in appendix A.
+
+(b) *FRA notification.* In any instance in which an RTA must notify the FRA of an accident as defined by 49 CFR 225.5 (*i.e.,* shared use of the general railroad system trackage or corridors), the RTA must also notify the SSOA and FTA of the accident within the same time frame as required by the FRA.

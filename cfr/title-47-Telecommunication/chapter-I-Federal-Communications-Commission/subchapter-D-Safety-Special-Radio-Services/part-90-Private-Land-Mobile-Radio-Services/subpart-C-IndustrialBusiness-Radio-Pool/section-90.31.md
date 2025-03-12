@@ -1,0 +1,3 @@
+##### § 90.31 Scope. #####
+
+The Industrial/Business Radio Pool covers the licensing of the radio communications of entities engaged in commercial activities, engaged in clergy activities, operating educational, philanthropic, or ecclesiastical institutions, or operating hospitals, clinics, or medical associations. Rules as to eligibility for licensing, frequencies available, permissible communications and classes and number of stations, and any special requirements are set forth in the following sections.

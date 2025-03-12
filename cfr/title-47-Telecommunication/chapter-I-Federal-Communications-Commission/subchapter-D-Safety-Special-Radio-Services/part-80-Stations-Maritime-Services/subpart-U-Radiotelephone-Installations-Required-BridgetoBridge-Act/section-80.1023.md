@@ -1,0 +1,3 @@
+##### § 80.1023 Test of radiotelephone installation. #####
+
+Unless normal use of the required radiotelephone installation demonstrates that the equipment is in proper operating condition, a test communication for this purpose must be made by a qualified operator each day the vessel is navigated. If the equipment is not in proper operating condition, the master must be promptly notified. The master must have it restored to effective operating condition as soon as possible.

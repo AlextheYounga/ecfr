@@ -1,0 +1,3 @@
+##### 32.609 Delays in receipt of notices or demands. #####
+
+If interest is accrued based on the date of the demand letter and delivery of the demand letter is delayed by the Government (*e.g.*, undue delay after dating at the originating office or delays in the mail), the date of the debt and accrual of interest shall be extended to a time that is fair and reasonable under the particular circumstances.

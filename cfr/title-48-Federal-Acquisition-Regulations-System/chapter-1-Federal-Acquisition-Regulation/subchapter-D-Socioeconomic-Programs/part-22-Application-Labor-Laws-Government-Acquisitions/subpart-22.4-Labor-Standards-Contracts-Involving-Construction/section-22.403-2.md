@@ -1,0 +1,5 @@
+##### 22.403-2 Copeland Act. #####
+
+The Copeland (Anti-Kickback) Act (18 U.S.C. 874 and 40 U.S.C. 3145) makes it unlawful to induce, by force, intimidation, threat of procuring dismissal from employment, or otherwise, any person employed in the construction or repair of public buildings or public works, financed in whole or in part by the United States, to give up any part of the compensation to which that person is entitled under a contract of employment. The Copeland Act also requires each contractor and subcontractor to furnish weekly a statement of compliance with respect to the wages paid each employee during the preceding week. Contracts subject to the Copeland Act shall contain a clause (see 52.222-10) requiring contractors and subcontractors to comply with the regulations issued by the Secretary of Labor under the Copeland Act.
+
+[53 FR 4935, Feb. 18, 1988, as amended at 70 FR 57454, Sept. 30, 2005]

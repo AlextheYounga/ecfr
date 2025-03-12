@@ -1,0 +1,21 @@
+##### § 60.4415 How do I conduct the initial and subsequent performance tests for sulfur? #####
+
+(a) You must conduct an initial performance test, as required in § 60.8. Subsequent SO2 performance tests shall be conducted on an annual basis (no more than 14 calendar months following the previous performance test). There are four methodologies that you may use to conduct the performance tests.
+
+(1) The use of a current, valid purchase contract, tariff sheet, or transportation contract for the fuel specifying the maximum total sulfur content of all fuels combusted in the affected facility. Alternately, the fuel sampling data specified in section 2.3.1.4 or 2.3.2.4 of appendix D to part 75 of this chapter may be used.
+
+(2) Periodically determine the sulfur content of the fuel combusted in the turbine, a representative fuel sample may be collected either by an automatic sampling system or manually. For automatic sampling, follow ASTM D5287 (incorporated by reference, see § 60.17) for gaseous fuels or ASTM D4177 (incorporated by reference, see § 60.17) for liquid fuels. For manual sampling of gaseous fuels, follow API Manual of Petroleum Measurement Standards, Chapter 14, Section 1, GPA 2166, or ISO 10715 (all incorporated by reference, see § 60.17). For manual sampling of liquid fuels, follow GPA 2174 or the procedures for manual pipeline sampling in section 14 of ASTM D4057 (both incorporated by reference, see § 60.17). The fuel analyses of this section may be performed either by you, a service contractor retained by you, the fuel vendor, or any other qualified agency. Analyze the samples for the total sulfur content of the fuel using:
+
+(i) For liquid fuels, ASTM D129, or alternatively D1266, D1552, D2622, D4294, D5453, D5623, or D7039 (all incorporated by reference, see § 60.17); or
+
+(ii) For gaseous fuels, ASTM D1072, or alternatively D3246, D4084, D4468, D4810, D6228, D6667, or GPA 2140, 2261, or 2377 (all incorporated by reference, see § 60.17).
+
+(3) Measure the SO2 concentration (in parts per million (ppm)), using EPA Methods 6, 6C, 8, or 20 in appendix A of this part. In addition, the American Society of Mechanical Engineers (ASME) standard, ASME PTC 19-10-1981-Part 10, “Flue and Exhaust Gas Analyses,” manual methods for sulfur dioxide (incorporated by reference, see § 60.17) can be used instead of EPA Methods 6 or 20. For units complying with the output based standard, concurrently measure the stack gas flow rate, using EPA Methods 1 and 2 in appendix A of this part, and measure and record the electrical and thermal output from the unit. Then use the following equation to calculate the SO2 emission rate:
+
+![](/graphics/er06jy06.005.gif)Where:E = SO2 emission rate, in lb/MWh 1.664 × 10−7 = conversion constant, in lb/dscf-ppm (SO2)c = average SO2 concentration for the run, in ppm Qstd = stack gas volumetric flow rate, in dscf/hr P = gross electrical and mechanical energy output of the combustion turbine, in MW (for simple-cycle operation), for combined-cycle operation, the sum of all electrical and mechanical output from the combustion and steam turbines, or, for combined heat and power operation, the sum of all electrical and mechanical output from the combustion and steam turbines plus all useful recovered thermal output not used for additional electric or mechanical generation, in MW, calculated according to § 60.4350(f)(2); or
+
+(4) Measure the SO2 and diluent gas concentrations, using either EPA Methods 6, 6C, or 8 and 3A, or 20 in appendix A of this part. In addition, you may use the manual methods for sulfur dioxide ASME PTC 19-10-1981-Part 10 (incorporated by reference, see § 60.17). Concurrently measure the heat input to the unit, using a fuel flowmeter (or flowmeters), and measure the electrical and thermal output of the unit. Use EPA Method 19 in appendix A of this part to calculate the SO2 emission rate in lb/MMBtu. Then, use Equations 1 and, if necessary, 2 and 3 in § 60.4350(f) to calculate the SO2 emission rate in lb/MWh.
+
+(b) [Reserved]
+
+[71 FR 38497, July 6, 2006, as amended at 85 FR 63410, Oct. 7, 2020]

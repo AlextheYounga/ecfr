@@ -1,0 +1,3 @@
+##### 315.404-2 Information to support proposal analysis. #####
+
+(a)(2) When some or all information sufficient to determine the reasonableness of the proposed cost or price is already available or can be obtained from the cognizant audit agency, or by other means including data obtained through market research (See FAR part 10 and HHSAR part 310) the contracting officer may request less-than-complete field pricing support (specifying in the request the information needed) or may waive in writing the requirement for audit and field pricing support by documenting the file to indicate what information will be used. When field-pricing support is required, contracting officers shall make the request through the HCA.

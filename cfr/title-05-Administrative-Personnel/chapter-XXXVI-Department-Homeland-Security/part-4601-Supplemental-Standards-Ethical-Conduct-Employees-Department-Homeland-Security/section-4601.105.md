@@ -1,0 +1,9 @@
+##### § 4601.105 Additional rules for Federal Emergency Management Agency (FEMA) employees. #####
+
+The following rules apply to employees of FEMA, except Special Government Employees, and are in addition to §§ 4601.101 through 4601.103 and 4601.107 and 4601.108 of this part:
+
+(a) *Prohibited outside employment (intermittent employees).* Except as provided in paragraph (c) of this section, no intermittent FEMA employees hired under the authority of 42 U.S.C. 5149, which includes all Disaster Assistance Employees or Stafford Act Employees and Cadre of On-Call Response Employees, shall be employed by a current FEMA contractor while a FEMA employee, whether or not they are on activated status.
+
+(b) *Prohibited outside employment (non-intermittent employees).* Except as provided in paragraph (c) of this section, no non-intermittent FEMA employee shall be employed by a current FEMA contractor.
+
+(c) *Waivers.* The FEMA Chief Deputy Ethics Official or his or her agency designee may grant a written waiver of any prohibition in paragraphs (a) and (b) of this section with the DAEO's concurrence. To grant the waiver, the FEMA Chief Deputy Ethics Official or his or her agency designee must determine that the waiver is consistent with 5 CFR part 2635 and not otherwise prohibited by law; that the prohibition is not necessary to avoid the appearance of misuse of position or loss of impartiality; and that the waiver will not undermine the public's confidence in the employee's impartiality and objectivity in administering FEMA programs. A waiver under this paragraph may impose appropriate conditions, such as requiring execution of a written disqualification statement.

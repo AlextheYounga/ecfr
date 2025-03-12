@@ -1,0 +1,5 @@
+##### § 377.105 Collection and remittance. #####
+
+Every motor carrier of property subject to 49 U.S.C. 13702, except as otherwise provided in § 377.101, which chooses to provide c.o.d. service may publish and maintain, or cause to be published and maintained for its account, a tariff or tariffs which set forth nondiscriminatory rules governing c.o.d. service and the collection and remittance of c.o.d. funds. Alternatively, any carrier that provides c.o.d. service, but does not wish to publish and maintain, or cause to be published and maintained, its own nondiscriminatory tariff, may adopt a rule requiring remittance of each c.o.d. collection directly to the consignor or other person designated by the consignor as payee within fifteen (15) days after delivery of the c.o.d. shipment to the consignee.
+
+[52 FR 45966, Dec. 3, 1987, as amended at 62 FR 15424, Apr. 1, 1997; 81 FR 68346, Oct. 4, 2016]

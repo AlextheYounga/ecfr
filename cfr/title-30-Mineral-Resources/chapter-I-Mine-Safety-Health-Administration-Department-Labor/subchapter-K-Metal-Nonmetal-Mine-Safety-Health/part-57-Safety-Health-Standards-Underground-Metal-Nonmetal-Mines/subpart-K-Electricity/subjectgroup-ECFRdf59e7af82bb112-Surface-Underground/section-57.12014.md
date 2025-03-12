@@ -1,0 +1,3 @@
+##### § 57.12014 Handling energized power cables. #####
+
+Power cables energized to potentials in excess of 150 volts, phase-to-ground, shall not be moved with equipment unless sleds or slings, insulated from such equipment, are used. When such energized cables are moved manually, insulated hooks, tongs, ropes, or slings shall be used unless suitable protection for persons is provided by other means. This does not prohibit pulling or dragging of cable by the equipment it powers when the cable is physically attached to the equipment by suitable mechanical devices, and the cable is insulated from the equipment in conformance with other standards in this part.

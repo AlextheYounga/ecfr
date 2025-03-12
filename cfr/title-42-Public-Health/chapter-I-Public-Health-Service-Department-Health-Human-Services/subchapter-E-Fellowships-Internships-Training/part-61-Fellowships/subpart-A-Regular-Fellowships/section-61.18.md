@@ -1,0 +1,3 @@
+##### § 61.18 Publications. #####
+
+Publication, distribution, and disposition of all manuscripts and other materials resulting from a fellowship awarded hereunder shall be subject to the conditions that all such materials shall bear appropriate acknowledgment of Public Health Service support, that fellows shall furnish copies of such publications or other materials as may be requested by the Surgeon General, and to such other conditions as the Surgeon General may prescribe.

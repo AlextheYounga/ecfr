@@ -1,0 +1,3 @@
+##### § 71.46 Issuance of Deratting Certificates and Deratting Exemption Certificates. #####
+
+Valid Deratting Certificates or Deratting Exemption Certificates are not required for ships to enter a U.S. seaport. In accordance with Article 17 of the International Health Regulations, the Public Health Service may perform rodent infestation inspections and issue Deratting Certificates and Deratting Exemption Certificates.

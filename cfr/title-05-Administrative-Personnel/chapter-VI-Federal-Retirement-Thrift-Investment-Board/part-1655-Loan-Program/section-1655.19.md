@@ -1,0 +1,3 @@
+##### § 1655.19 Effect of court order on loan. #####
+
+Upon receipt of a document that purports to be a qualifying retirement benefits court order, qualifying legal process relating to a participant's legal obligation to provide child support or to make alimony payments, or a qualifying child abuse order, the participant's TSP account will be frozen. After the account is frozen, no loan will be allowed until the account is unfrozen. The Board's procedures for processing court orders and legal processes are explained in 5 CFR part 1653.

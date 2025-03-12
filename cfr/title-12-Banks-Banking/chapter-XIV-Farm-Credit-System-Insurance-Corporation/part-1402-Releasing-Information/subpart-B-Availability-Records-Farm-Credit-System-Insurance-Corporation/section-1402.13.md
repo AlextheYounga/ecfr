@@ -1,0 +1,5 @@
+##### § 1402.13 Request for records. #####
+
+Requests for records shall be in writing and addressed to the attention of the Freedom of Information Officer, Farm Credit System Insurance Corporation, McLean, Virginia 22102. A request improperly addressed will be deemed not to have been received for purposes of the 20-day time period set forth in § 1402.14(a) of this part until it is received, or would have been received, by the Freedom of Information Officer, with the exercise of due diligence by Corporation personnel. Records requested in conformance with this subpart and which are not exempt records may be received in person or by mail as specified in the request. Records to be received in person will be available for inspection or copying during business hours on a regular business day in the office of the Farm Credit System Insurance Corporation, 1501 Farm Credit Drive, McLean, Virginia, 22102.
+
+[62 FR 49593, Sept. 23, 1997]

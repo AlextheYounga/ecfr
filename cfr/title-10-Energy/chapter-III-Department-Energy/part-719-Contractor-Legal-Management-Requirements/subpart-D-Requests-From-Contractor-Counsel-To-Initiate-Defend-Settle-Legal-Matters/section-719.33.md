@@ -1,0 +1,3 @@
+##### § 719.33 In what circumstances must the contractor seek permission from the Department to enter a settlement agreement? #####
+
+The contractor must obtain permission from Department Counsel to enter a settlement agreement if the settlement agreement requires contractor payment of $25,000 or more. Obtaining this approval does not represent a determination that the settlement amount and/or the legal costs incurred in connection with the underlying legal matter will be determined to be allowable.

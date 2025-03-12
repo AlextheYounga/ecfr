@@ -1,0 +1,3 @@
+##### § 35.4115 After the public notice that EPA has received an LOI, how much time does my group have to form a coalition or submit a separate LOI? #####
+
+Your group has 30 days (from the date the public notice appears in your local newspaper) to submit documentation that you have formed a coalition with the first group and any other groups, or to submit a separate LOI. This 30-day period is the first 30 days with which your group must be concerned.

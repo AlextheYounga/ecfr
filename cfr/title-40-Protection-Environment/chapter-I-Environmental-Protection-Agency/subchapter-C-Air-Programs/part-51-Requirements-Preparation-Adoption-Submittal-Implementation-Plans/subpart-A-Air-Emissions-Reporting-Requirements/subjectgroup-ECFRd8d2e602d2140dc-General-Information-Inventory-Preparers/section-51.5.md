@@ -1,0 +1,5 @@
+##### § 51.5 What tools are available to help prepare and report emissions data? #####
+
+(a) We urge your state to use estimation procedures described in documents from the Emission Inventory Improvement Program (EIIP), available at the following Internet address: *http://www.epa.gov/ttn/chief/eiip.* These procedures are standardized and ranked according to relative uncertainty for each emission estimating technique. Using this guidance will enable others to use your state's data and evaluate its quality and consistency with other data.
+
+(b) Where current EIIP guidance materials have been supplanted by state-of-the-art emission estimation approaches or are not applicable to sources or source categories, states are urged to use applicable, state-of-the-art techniques for estimating emissions.

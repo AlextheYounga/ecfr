@@ -1,0 +1,3 @@
+##### § 17.24 Settlement. #####
+
+A prevailing party and EPA counsel may agree on a proposed settlement of an award before final action on the application, either in connection with a settlement of the underlying proceeding or after the underlying proceeding has been concluded. If the party and EPA counsel agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement.

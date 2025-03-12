@@ -1,0 +1,3 @@
+##### 1427.306 Licensing background patent rights to third parties. #####
+
+Any proposed determination to be made to require third party licensing shall be submitted by the HCA through the Assistant Solicitor for Acquisitions and Intellectual Property for signature of the AS/PMB. The contractor may request a public hearing on the record prior to the above determination. In such cases, the proposed determination and the contractor's request for a hearing shall be referred to OHA. OHA shall conduct public hearings as set forth in 1427.304-1(a)(4) and shall forward its findings and recommendations to the AS/PMB for a final determination. The final determination shall inform the contractor of the right to judicial review within sixty (60) days of the AS/PMB determination.

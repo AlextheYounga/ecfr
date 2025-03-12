@@ -1,0 +1,3 @@
+##### § 137.76 When must the Secretary transfer to a Self-Governance Tribe funds identified in a funding agreement? #####
+
+When a funding agreement requires an annual transfer of funding to be made at the beginning of a fiscal year, or requires semiannual or other periodic transfers of funding to be made commencing at the beginning of a fiscal year, the first such transfer shall be made not later than 10 days after the apportionment of such funds by the OMB to the Department, unless the funding agreement provides otherwise.

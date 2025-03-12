@@ -1,0 +1,3 @@
+##### § 66.62 Method of payment. #####
+
+Payments in excess of $10,000 under this part shall be made by wire transfer payable to the U.S. Treasury. Payments under this part which are less than $10,000 shall be made by cashier's or certified check made payable to the United States Treasury, sent by registered mail, return receipt requested, and addressed to the Administrator, Environmental Protection Agency, 1200 Pennsylvania Ave., NW., Washington, DC 20460. Payment by check is made on the due date if it is postmarked on or before the due date. Payment by wire transfer is made on the due date if the Treasury's account is credited on or before the due date.

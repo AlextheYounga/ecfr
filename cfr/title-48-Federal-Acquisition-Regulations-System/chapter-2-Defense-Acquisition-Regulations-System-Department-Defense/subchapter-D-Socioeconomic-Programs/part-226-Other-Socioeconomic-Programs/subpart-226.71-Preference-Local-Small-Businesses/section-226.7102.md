@@ -1,0 +1,3 @@
+##### 226.7102 Policy. #####
+
+Businesses located in the vicinity of a military installation that is being closed or realigned under a base closure law, including 10 U.S.C. 2687, and small and small disadvantaged businesses shall be provided maximum practicable opportunity to participate in acquisitions that support the closure or realignment, including acquisitions for environmental restoration and mitigation.

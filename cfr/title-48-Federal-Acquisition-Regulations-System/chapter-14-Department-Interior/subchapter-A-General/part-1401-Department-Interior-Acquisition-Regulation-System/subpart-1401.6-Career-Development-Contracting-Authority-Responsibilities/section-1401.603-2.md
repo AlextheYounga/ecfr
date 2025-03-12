@@ -1,0 +1,3 @@
+##### 1401.603-2 Selection. #####
+
+COs, regardless of series or organizational placement, must be certified at a level commensurate with their appointment level, as prescribed in the Department's Federal Acquisition Certification in Contracting (FAC-C) Program Manual. Director, PAM, is the approving authority for all new and reinstated FAC-C certifications. BPCs are authorized to approve renewal FAC-C certifications.

@@ -1,0 +1,29 @@
+##### 1827.409 Solicitation provisions and contract clauses. #####
+
+(b)(1) When the clause at FAR 52.227-14, Rights in Data - General, is included in a solicitation or contract, it shall be modified as set forth at 1852.227-14. In contracts for basic or applied research to be performed solely by universities and colleges, the contracting officer shall consult with the center patent or intellectual property counsel regarding the addition of subparagraph (4) as set forth at 1852.227-14 to paragraph (d) of the clause at FAR 52.227-14 and they will consider the guidance provided at FAR 27.404-4.
+
+(2) The contracting officer, with the concurrence of the center patent or intellectual property counsel, is the approval authority for use of Alternate I of the clause at FAR 52.227-14. An example of its use is where the principal purpose of the contract (such as a contract for basic or applied research) does not involve the development, use, or delivery of items, components, or processes that are intended to be acquired for use by or for the Government (either under the contract in question or under any anticipated follow-on contracts relating to the same subject matter).
+
+(3) The contracting officer shall review the disclosure purposes listed in FAR 27.404-2(c)(1)(i) through (v) and, in consultation with the center patent or intellectual property counsel, determine which disclosure purposes apply based on the nature of the acquisition, and add them to paragraph (g)(3) of Alternate II of the clause at FAR 52.227-14, Rights in Data - General. If none apply, the CO shall insert “none”. Additions to those specific purposes listed may be made only with the approval of the procurement officer and concurrence of the center patent or intellectual property counsel.
+
+(4) The contracting officer shall consult with the center patent or intellectual property counsel regarding the acquisition of restricted computer software with greater or lesser rights than those set forth in Alternate III of the clause at FAR 52.227-14, Rights in Data - General. Where it is impractical to actually modify the notice of Alternate III, such greater or lesser rights may be indicated by express reference in a separate clause in the contract or by a collateral agreement that addresses the change in the restricted rights.
+
+(5) The contracting officer, with the concurrence of the center patent or intellectual property counsel, is the approval authority for the use of Alternate IV in any contract other than a contract for basic or applied research to be performed solely by a college or university (but not for the management or operation of Government facilities). See the guidance at FAR 27.404-3(a)(3).
+
+(d) The clause at 52.227-16, Additional Data Requirements, shall be used in all solicitations and contracts involving experimental, developmental, research, or demonstration work (other than basic or applied research to be performed under a contract solely by a university or college when the contract amount will be $500,000 or less), unless after consultation between the Contracting Officer and the center patent or intellectual property counsel a determination is made otherwise.
+
+(g) The contracting officer shall use the clause at 1852.227-86, Commercial Computer Software License, in lieu of FAR 52.227-19, Commercial Computer Software License, when it is considered appropriate for the acquisition of existing computer software.
+
+(h) Normally the clause at 52.227-20, Rights in Data - SBIR Program, is the only data rights clause used in SBIR contracts. However, if during the performance of an SBIR contract (Phase I, Phase II, or Phase III) the need arises for NASA to obtain delivery of limited rights data or restricted computer software as defined in the clause at FAR 52.227-20, and the contractor agrees to such delivery, the limited rights data or restricted computer software may be acquired by modification of the contract (for example, by adding the clause at FAR 52.227-14 with any appropriate Alternates and making it applicable only to the limited rights data or restricted computer software to be delivered), using the rights and related restrictions as set forth in FAR 27.404-2 as a guide.
+
+(i) The contract officer shall modify the clause at FAR 52.227-17, Rights in Data - Special Works by adding paragraph (f) as set forth in 1852.227-17.
+
+(k)(i) The contracting officer shall add paragraph (e) as set forth in 1852.227-19(a) to the clause at FAR 52.227-19, Commercial Computer Software License, when it is contemplated that updates, correction notices, consultation information, and other similar items of information relating to commercial computer software delivered under a purchase order or contract are available and their receipt can be facilitated by signing a vendor supplied agreement, registration forms, or cards and returning them directly to the vendor.
+
+(ii) The contracting officer shall add paragraph (f) as set forth at 1852.227-19(b) to the clause at FAR 52.227-19, Commercial Computer Software License, when portions of a contractor's standard commercial license or lease agreement consistent with the clause, Federal laws, standard industry practices, and the FAR are to be incorporated into the purchase order or contract.
+
+(m)(1) The contracting officer, shall consult with the center patent or intellectual property counsel and the installation software release authority to determine when to use the clause at 1852.227-88, Government-furnished computer software and related technical data.
+
+(2) The clause may be included in, or added to, the contract when it is contemplated that computer software and related technical data will be provided to the contractor as Government-furnished information for use in performing the contract.
+
+[80 FR 12939, Mar. 12, 2015, as amended at 80 FR 61994, Oct. 15, 2015]

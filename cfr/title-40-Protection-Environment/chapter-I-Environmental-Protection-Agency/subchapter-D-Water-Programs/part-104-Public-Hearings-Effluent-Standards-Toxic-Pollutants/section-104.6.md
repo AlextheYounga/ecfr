@@ -1,0 +1,3 @@
+##### § 104.6 Designation of Presiding Officer. #####
+
+The Chief Administrative Law Judge of the Agency may preside personally at any hearing under this part, or he may designate another Administrative Law Judge as Presiding Officer for the hearing. In the event of the unavailability of any such Administrative Law Judge, the Administrator may designate a Presiding Officer. No person who has any personal pecuniary interest in the outcome of a proceeding under this part, or who has participated in the development or enforcement of any standard or proposed standard at issue in a proceeding hereunder, shall serve as Presiding Officer in such proceeding.

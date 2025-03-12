@@ -1,0 +1,5 @@
+##### § 512.4 Transcripts. #####
+
+Transcripts or other recordings, if any, of investigative proceedings or formal examination proceedings shall be prepared solely by an official reporter or by any other person or means authorized by the designated representative. A person who has submitted documentary evidence or given testimony in an investigative proceeding or formal examination proceeding may procure a copy of his own documentary evidence or transcript of his own testimony upon payment of the cost thereof; *provided,* that a person seeking a transcript of his own testimony must file a written request with the Deputy Chief Counsel for Enforcement or the appropriate Regional Counsel for Enforcement stating the reason he desires to procure such transcript, and said persons may for good cause deny such request. In any event, any witness (or his counsel) shall have the right to inspect the transcript of the witness' own testimony.
+
+[54 FR 49457, Nov. 30, 1989, as amended at 60 FR 66717, Dec. 26, 1995]

@@ -1,0 +1,3 @@
+##### § 204.50 Applicability. #####
+
+The provisions of this subpart shall apply to portable air compressors which are manufactured after the effective dates specified in § 204.52, and which are “New Products” as defined in the Act. These provisions apply only to portable air compressors with a rated capacity equal to or above 75 cubic feet per minute which deliver air at pressures greater than 50 psig. The provisions do not apply to the pneumatic tools or equipment that the portable air compressor is designed to power.

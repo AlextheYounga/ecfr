@@ -1,0 +1,19 @@
+##### § 1506.10 Timing of agency action. #####
+
+(a) The Environmental Protection Agency shall publish a notice in the Federal Register each week of the environmental impact statements filed since its prior notice. The minimum time periods set forth in this section are calculated from the date of publication of this notice.
+
+(b) Unless otherwise provided by law, including statutory provisions for combining a final environmental impact statement and record of decision, Federal agencies shall not make or issue a record of decision under § 1505.2 of this subchapter for the proposed action until the later of the following dates:
+
+(1) 90 days after publication of the notice described in paragraph (a) of this section for a draft environmental impact statement.
+
+(2) 30 days after publication of the notice described in paragraph (a) of this section for a final environmental impact statement.
+
+(c) An agency may make an exception to the rule on timing set forth in paragraph (b) of this section for a proposed action in the following circumstances:
+
+(1) Some agencies have formally established administrative review processes (*e.g.,* appeals, objections, protests), which may be initiated prior to or after filing and publication of the final environmental impact statement with the Environmental Protection Agency, that allow other agencies or the public to raise issues about a decision and make their views known. In such cases where a real opportunity exists to alter the decision, the agency may make and record the decision at the same time it publishes the environmental impact statement. This means that the period for administrative review of the decision and the 30-day period set forth in paragraph (b)(2) of this section may run concurrently. In such cases, the environmental impact statement shall explain the timing and the public's right of administrative review and provide notification consistent with § 1506.9; or
+
+(2) An agency engaged in rulemaking under the Administrative Procedure Act or other statute for the purpose of protecting the public health or safety may waive the time period in paragraph (b)(2) of this section, publish a decision on the final rule simultaneously with publication of the notice of the availability of the final environmental impact statement, and provide notification consistent with § 1506.9, as described in paragraph (a) of this section.
+
+(d) If an agency files the final environmental impact statement within 90 days of the filing of the draft environmental impact statement with the Environmental Protection Agency, the minimum 30-day and 90-day periods may run concurrently. However, subject to paragraph (e) of this section, agencies shall allow at least 45 days for comments on draft statements.
+
+(e) The lead agency may extend the minimum periods in paragraph (b) of this section and provide notification consistent with § 1506.9. Upon a showing by the lead agency of compelling reasons of national policy, the Environmental Protection Agency may reduce the minimum periods and, upon a showing by any other Federal agency of compelling reasons of national policy, also may extend the minimum periods, but only after consultation with the lead agency. The lead agency may modify the minimum periods when necessary to comply with other specific statutory requirements (§ 1507.3(d)(4) of this subchapter). Failure to file timely comments shall not be a sufficient reason for extending a period. If the lead agency does not concur with the extension of time, the Environmental Protection Agency may not extend it for more than 30 days. When the Environmental Protection Agency reduces or extends any period it shall notify the Council.

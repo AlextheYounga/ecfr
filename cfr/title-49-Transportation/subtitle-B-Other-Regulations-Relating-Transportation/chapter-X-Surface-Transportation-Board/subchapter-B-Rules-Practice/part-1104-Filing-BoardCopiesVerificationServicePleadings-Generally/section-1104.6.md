@@ -1,0 +1,5 @@
+##### § 1104.6 Timely filing required. #####
+
+Documents must be received for filing at the Board's offices in Washington, DC within the time limits set for filing. The date of receipt at the Board, and not the date of deposit in the mail, determines the timeliness of filing. However, if a document is mailed by United States express mail, postmarked at least one day prior to the due date, it will be accepted as timely. Other express mail, received by the private express mail carrier at least one day prior to the due date, also will be accepted as timely filed. The term express mail means that the carrier or delivery service offers next day delivery to Washington, DC. If the e-filing option is chosen (for those pleadings and documents that are appropriate for e-filing, as determined by reference to the information on the Board's Web site), then the e-filed pleading or document is timely filed if the e-filing process is completed before 11:59 p.m. eastern time on the due date.
+
+[47 FR 49554, Nov. 1, 1982, as amended at 61 FR 52711, Oct. 8, 1996; 69 FR 18499, Apr. 8, 2004; 81 FR 8853, Feb. 23, 2016]

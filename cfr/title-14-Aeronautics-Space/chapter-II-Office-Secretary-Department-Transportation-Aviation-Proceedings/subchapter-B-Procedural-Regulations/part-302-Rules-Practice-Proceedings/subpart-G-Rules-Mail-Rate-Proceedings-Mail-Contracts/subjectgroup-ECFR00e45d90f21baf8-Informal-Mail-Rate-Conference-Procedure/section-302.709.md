@@ -1,0 +1,3 @@
+##### § 302.709 Scope of conferences. #####
+
+The mail rate conferences shall be limited to the discussion of, and possible agreement on, particular issues and related factual material in accordance with sound rate-making principles. The duties and powers of DOT employees in rate conferences essentially will not be different, therefore, from the duties and powers they have in the processing of rate cases not involving a rate conference. The employees' function in both instances is to present clearly to the DOT decisionmaker the issues and the related material facts, together with recommendations. The DOT decisionmaker will make an independent determination of the soundness of the employees's analyses and recommendations.

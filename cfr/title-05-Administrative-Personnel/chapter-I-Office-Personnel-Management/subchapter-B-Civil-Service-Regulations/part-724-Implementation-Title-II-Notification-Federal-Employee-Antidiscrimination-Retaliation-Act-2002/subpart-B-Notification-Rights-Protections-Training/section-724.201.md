@@ -1,0 +1,5 @@
+##### § 724.201 Purpose and scope. #####
+
+(a) This subpart implements Title II of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 concerning the obligation of Federal agencies to notify all employees, former employees, and applicants for Federal employment of the rights and protections available to them under the Federal Antidiscrimination Laws and Whistleblower Protection Laws. This subpart also implements Title II concerning the obligation of agencies to train their employees on such rights and remedies. The regulations describe agency obligations and the procedures for written notification and training.
+
+(b) Pursuant to section 205 of the No FEAR Act, neither that Act nor this notice creates, expands or reduces any rights otherwise available to any employee, former employee or applicant under the laws of the United States, including the provisions of law specified in 5 U.S.C. 2302(d).

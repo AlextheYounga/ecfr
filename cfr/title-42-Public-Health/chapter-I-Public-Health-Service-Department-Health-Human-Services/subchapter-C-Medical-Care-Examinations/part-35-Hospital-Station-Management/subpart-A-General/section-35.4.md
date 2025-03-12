@@ -1,0 +1,5 @@
+##### § 35.4 Noncompliance; discharge or transfer. #####
+
+(a) If the officer in charge finds, upon investigation, that a patient other than a leprosy patient, by willful and persistent failure or refusal to comply with such rules, instructions, or regulations is seriously impeding the course of his own care and treatment, or that of other patients, he may (1) discharge the patient, or (2) if the patient is not a voluntary patient, arrange for his transfer to the custody of the authority responsible for his admission to the station or hospital. No patient shall be discharged or transferred on account of noncompliance if to do so would seriously endanger his life or health, nor shall any patient be discharged if his failure to comply is due, in the opinion of the officer in charge, to a mental disease or disorder.
+
+(b) If the discharge or transfer of a patient is likely to endanger the health of persons other than the patient or officers or employees of the station or hospital, the officer in charge shall give advance notice to appropriate State, county, or municipal authorities of the discharge or transfer.

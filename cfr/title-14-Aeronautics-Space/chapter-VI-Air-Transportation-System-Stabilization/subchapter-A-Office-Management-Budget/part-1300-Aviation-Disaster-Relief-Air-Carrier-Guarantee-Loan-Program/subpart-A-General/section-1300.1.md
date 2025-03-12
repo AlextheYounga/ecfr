@@ -1,0 +1,3 @@
+##### § 1300.1 Purpose. #####
+
+This part is issued by the Office of Management and Budget, (OMB) pursuant to Title I of the Air Transportation Safety and System Stabilization Act, Public Law 107-42, 115 Stat. 230 (“Act”). Specifically, Section 102(c)(2)(B) directs OMB to issue regulations setting forth procedures for application and minimum requirements for the issuance of Federal credit instruments under section 101(a)(1) of the Act.

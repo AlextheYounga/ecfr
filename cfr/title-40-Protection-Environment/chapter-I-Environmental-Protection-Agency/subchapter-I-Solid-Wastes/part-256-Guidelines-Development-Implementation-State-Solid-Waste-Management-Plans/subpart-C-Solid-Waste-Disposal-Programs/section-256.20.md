@@ -1,0 +1,3 @@
+##### § 256.20 Requirements for State legal authority. #####
+
+In order to comply with sections 4003 (2) and (3), the State plan shall assure that the State has adequate legal authority to prohibit the establishment of new open dumps and to close or upgrade existing open dumps. The prohibition of the establishment of new open dumps shall take effect no later than six months after the date of promulgation of the criteria or on the date of approval of the State plan, whichever is later.

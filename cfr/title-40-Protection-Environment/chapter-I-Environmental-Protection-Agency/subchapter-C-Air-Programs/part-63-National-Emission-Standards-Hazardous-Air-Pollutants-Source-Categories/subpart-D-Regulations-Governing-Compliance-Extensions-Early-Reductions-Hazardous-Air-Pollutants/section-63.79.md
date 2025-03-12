@@ -1,0 +1,5 @@
+##### § 63.79 Approval of applications. #####
+
+(a) If an early reduction demonstration is approved and other requirements for a complete permit application are met, the permitting authority shall establish by a permit issued pursuant to title V of the Act enforceable alternative emissions limitations for the source reflecting the reduction which qualified the source for the extension. However, if it is not feasible to prescribe a numerical emissions limitation for one or more emission points in the source, the permitting authority shall establish such other requirements, reflecting the reduction which qualified the source for an extension, in order to assure the source achieves the 90 percent or 95 percent reduction, as applicable.
+
+(b) An alternative emissions limitation or other requirement prescribed pursuant to paragraph (a) of this section shall be effective and enforceable immediately upon issuance of the permit for the source and shall expire exactly six years after the compliance date of an otherwise applicable standard issued pursuant to section 112(d) of the Act.

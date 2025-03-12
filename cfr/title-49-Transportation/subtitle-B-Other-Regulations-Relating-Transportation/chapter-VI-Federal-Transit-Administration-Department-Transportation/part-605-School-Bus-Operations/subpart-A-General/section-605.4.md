@@ -1,0 +1,3 @@
+##### § 605.4 Public hearing requirement. #####
+
+Each applicant who engages or wishes to engage in school bus operations shall afford an adequate opportunity for the public to consider such operations at the time the applicant conducts public hearings to consider the economic, social or environmental effects of its requested Federal financial assistance under section 3(d) of the Federal Mass Transit Act of 1964, as amended (49 U.S.C. 1602(d)).

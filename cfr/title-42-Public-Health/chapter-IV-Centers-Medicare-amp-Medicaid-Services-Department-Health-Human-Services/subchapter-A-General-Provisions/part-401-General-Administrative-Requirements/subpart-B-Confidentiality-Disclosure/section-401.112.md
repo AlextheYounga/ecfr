@@ -1,0 +1,3 @@
+##### § 401.112 Availability of administrative staff manuals. #####
+
+All CMS administrative staff manuals and instructions to staff personnel which contain policies, procedures, or interpretations that affect the public are available for inspection and copying. A complete listing of such materials is published in CMS Rulings. These manuals are generally not printed in a sufficient quantity to permit sale or other general distribution to the public. Selected material is maintained at Social Security Administration district offices and field offices and may be inspected there. See §§ 401.130 and 401.132 for a listing of this material.

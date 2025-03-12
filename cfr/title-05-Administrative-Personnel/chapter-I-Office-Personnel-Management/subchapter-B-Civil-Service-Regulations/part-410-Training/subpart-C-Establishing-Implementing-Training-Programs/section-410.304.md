@@ -1,0 +1,3 @@
+##### § 410.304 Funding training programs. #####
+
+Section 4112 of title 5, United States Code, provides for agencies paying the costs of their training programs and plans from applicable appropriations or from other funds available. Training costs associated with program accomplishment may be funded by appropriations applicable to that program area. In addition, section 4109(a)(2) of title 5, United States Code, provides authority for agencies and employees to share the expenses of training.

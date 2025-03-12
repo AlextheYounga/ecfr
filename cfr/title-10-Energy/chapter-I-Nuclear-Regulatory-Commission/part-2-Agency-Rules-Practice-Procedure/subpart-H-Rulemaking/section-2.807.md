@@ -1,0 +1,3 @@
+##### § 2.807 Effective date. #####
+
+The notice of adoption of a regulation will specify the effective date. Publication or service of the notice and regulation, other than one granting or recognizing exemptions or relieving from restrictions, will be made not less than thirty (30) days prior to the effective date unless the Commission directs otherwise on good cause found and published in the notice of rule making.

@@ -1,0 +1,3 @@
+##### § 2610.311 Payment of award. #####
+
+An applicant seeking payment of an award shall submit a copy of the Office's final decision granting the award, accompanied by a certification that the applicant will not seek review of the decision in the United States courts, to the Associate Director for Administration, Office of Government Ethics, Suite 500, 1201 New York Avenue NW., Washington, DC 20005-3917. The Office will pay the amount awarded to the applicant within 60 days, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant, the Office, or any other party to the proceedings.

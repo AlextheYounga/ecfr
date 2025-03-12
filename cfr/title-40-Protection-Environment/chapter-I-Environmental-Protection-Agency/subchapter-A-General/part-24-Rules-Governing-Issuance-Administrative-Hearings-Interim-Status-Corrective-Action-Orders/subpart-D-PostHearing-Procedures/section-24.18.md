@@ -1,0 +1,3 @@
+##### § 24.18 Final decision. #####
+
+As soon as practicable after receipt of the recommended decision, the Regional Administrator will either sign or modify such recommended decision, and issue it as a final decision. If the Regional Administrator modifies the recommended decision, he shall insure that the final decision indicates the legal and factual basis for the decision as modified. The Regional Administrator's decision shall be based on the administrative record.

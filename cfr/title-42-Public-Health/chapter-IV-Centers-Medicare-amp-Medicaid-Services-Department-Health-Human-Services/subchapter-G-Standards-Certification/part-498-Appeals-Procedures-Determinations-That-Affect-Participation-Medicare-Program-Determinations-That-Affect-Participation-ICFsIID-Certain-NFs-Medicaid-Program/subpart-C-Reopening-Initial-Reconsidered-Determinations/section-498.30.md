@@ -1,0 +1,3 @@
+##### § 498.30 Limitation on reopening. #####
+
+An initial or reconsidered determination that a prospective provider is a provider or that a hospital qualifies to elect to claim payment for all emergency services furnished in a calendar year may not be reopened. CMS or the OIG, as appropriate, may on its own initiative, reopen any other initial or reconsidered determination, within 12 months after the date of notice of the initial determination.

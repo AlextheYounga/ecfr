@@ -1,0 +1,3 @@
+##### § 541.5 Commercial paper. #####
+
+The term *commercial paper* means any note, draft, or bill of exchange which arises out of a current transaction or the proceeds of which have been or are to be used for current transactions, and which has a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof the maturity of which is likewise limited.

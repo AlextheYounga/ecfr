@@ -1,0 +1,29 @@
+##### § 57.5040 Exposure records. #####
+
+(a) The operator shall calculate and record complete individual exposures to concentrations of radon daughters as follows:
+
+(1) Where uranium is mined—the complete individual exposures of all mine personnel working underground shall be calculated and recorded. These records shall include the individual's time in each active working area such as stopes, drift headings, travelways, haulageways, shops, stations, lunch rooms, magazines and any other place or location where persons work, travel or congregate, and the concentration of airborne radon daughters for each active working area.
+
+(2) Where uranium is not mined—the complete individual exposure of all mine personnel working in active working areas with radon daughter concentrations in excess of 0.3 WL shall be calculated and recorded. These records shall include the individual's time in each active working area and the concentrations of airborne radon daughters for each active working area. The operator may discontinue calculating and recording the individual exposures of any personnel assigned to work in active working areas where radon daughter concentrations have been reduced to 0.3 WL or less for 5 consecutive weeks provided that such exposure calculation and recordation shall not be discontinued with respect to any person who has accumulated more exposure than1/12 (one-twelfth) of a WLM times the number of months for which exposures have been calculated and recorded in the calendar year in which the exposure calculation and recordation is proposed to be discontinued.
+
+(b) The operator shall maintain the form entitled “Record of Individual Exposure to Radon Daughters” (Form 4000-9), or equivalent forms that are acceptable to the Administrator, Metal and Nonmetal Mine Safety and Health, Mine Safety and Health Administration, on which there shall be recorded the specific information required by the form with respect to each person's time-weighted current and cumulative exposure to concentrations of radon daughters.
+
+(1) The form entitled “Record of Individual Exposure to Radon Daughters” (Form 4000-9), shall consist of an original of each form for the operator's records which shall be available for examination by the Secretary or his authorized representative.
+
+(2) On or before February 15 of each calendar year, or within 45 days after the shutdown of mining operations for the calendar year, each mine operator shall submit to the Mine Safety and Health Administration a copy of the “Record of Individual Exposure to Radon Daughters” (Form 4000-9), or acceptable equivalent form, showing the data required by the form for all personnel for whom calculation and recording of exposure was required during the previous calendar year.
+
+(3) Errors detected by the operator shall be corrected on any forms kept by the operator and a corrected copy of any forms submitted to the Mine Safety and Health Administration shall be submitted to the Mine Safety and Health Administration within 60 days of detection and shall identify the errors and indicate the date the corrections are made.
+
+(4) The operator's records of individual exposure to concentrations of radon daughters and copies of “Record of Individual Exposure to Radon Daughters” (Form 4000-9) or acceptable equivalent form or true legible facsimiles thereof (microfilm or other), shall be retained at the mine or nearest mine office for a period as specified in paragraph 9.8, ANSI N13.8-1973, or shall be submitted to the Mine Safety and Health Administration. These records, if retained by the operator, shall be open for inspection by the Secretary of Labor, his authorized representative, and authorized representatives of the official mine inspection agency of the State in which the mine is located. Paragraph 9.8, ANSI N13.8-1973, is incorporated by reference and made a part of this standard. ANSI N13.8-1973 may be examined at any Metal and Nonmetal Mine Safety and Health District Office of the Mine Safety and Health Administration, and may be obtained from the American National Standards Institute, Inc., at 25 W. 43rd Street, 4th Floor, New York, NY 10036; *http://www.ansi.org.*
+
+(5) Upon written request from a person who is a subject of these records, a statement of the year-to-date and cumulative exposure applicable to that person shall be provided to the person or to whomever such person designates.
+
+(6) The blank form entitled “Record of Individual Exposure to Radon Daughters” (Form 4000-9) may be obtained on request from any MSHA Metal and Nonmetal Mine Safety and Health district office.
+
+Note:
+
+To calculate an individual's exposure to WLM for a given period of time, multiply the total exposure time (hours to the nearest half-hour) in an active working area by the average concentration of airborne radon daughters for the applicable active working area (average working level calculated to the nearest hundredth working level) and divide the product by the constant 173 hours per month.
+
+An average airborne radon daughter concentration for a designated active working area shall be determined by averaging all sampling results for that working area during the time that persons are present. Any sample taken by Federal or State mine inspectors, which represents exposure to miners and reported to the operator within three days of being taken, shall be included in the average concentration; except that if the mine operator samples simultaneously with the inspector, he may use his own sample results.
+
+[50 FR 4082, Jan. 29, 1985, as amended at 60 FR 33723, June 29, 1995; 60 FR 35695, July 11, 1995; 71 FR 16667, Apr. 3, 2006]

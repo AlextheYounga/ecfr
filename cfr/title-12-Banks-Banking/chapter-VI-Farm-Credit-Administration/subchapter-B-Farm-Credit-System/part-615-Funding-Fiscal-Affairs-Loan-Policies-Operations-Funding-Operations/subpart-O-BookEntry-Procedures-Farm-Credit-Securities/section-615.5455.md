@@ -1,0 +1,11 @@
+##### § 615.5455 Obligations of the Farm Credit banks and the Funding Corporation; no adverse claims. #####
+
+(a) Except in the case of a security interest in favor of the United States or a Federal Reserve Bank or otherwise as provided in § 615.5454(c)(1), for the purposes of this subpart O, the Farm Credit banks, the Funding Corporation and the Federal Reserve Banks shall treat the participant to whose securities account an interest in a book-entry security has been credited as the person exclusively entitled to issue a transfer message, to receive interest and other payments with respect thereof and otherwise to exercise all the rights and powers with respect to such security, notwithstanding any information or notice to the contrary. The Federal Reserve Banks, the Farm Credit banks, and the Funding Corporation are not liable to a person asserting or having an adverse claim to a security entitlement or to a book-entry security in a participant's securities account, including any such claim arising as a result of the transfer or disposition of a book-entry security by a Federal Reserve Bank pursuant to a transfer message that the Federal Reserve Bank reasonably believes to be genuine.
+
+(b) The obligation of the Farm Credit banks and the Funding Corporation to make payments (including payments of interest and principal) with respect to book-entry securities is discharged at the time payment in the appropriate amount is made as follows:
+
+(1) Interest or other payments on book-entry securities are either credited by a Federal Reserve Bank to a funds account maintained at the Federal Reserve Bank or otherwise paid as directed by the participant.
+
+(2) Book-entry securities are redeemed in accordance with their terms by a Federal Reserve Bank withdrawing the securities from the participant's securities account in which they are maintained and by either crediting the amount of the redemption proceeds, including both principal and interest, where applicable, to a funds account at the Federal Reserve Bank or otherwise paying such principal and interest as directed by the participant. No action by the participant is required in connection with the redemption of a book-entry security.
+
+[61 FR 67192, Dec. 20, 1996, as amended at 62 FR 53229, Oct. 14, 1997]

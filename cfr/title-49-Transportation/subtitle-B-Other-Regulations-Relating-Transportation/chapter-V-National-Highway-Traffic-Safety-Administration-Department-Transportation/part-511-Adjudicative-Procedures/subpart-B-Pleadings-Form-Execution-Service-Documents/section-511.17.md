@@ -1,0 +1,5 @@
+##### § 511.17 Public participation. #####
+
+*Participant Status.* Any person interested in a proceeding commenced pursuant to § 511.11 who desires to participate in the proceeding, shall file with the Docket Section a notice of intention to participate in the proceeding and shall serve a copy of such notice on each party to the proceeding. A notice of intention to participate shall be filed not later than the commencement of the hearing. Untimely filings will not be accepted absent a determination by the Presiding Officer that the person making the request has made a substantial showing of good cause for failure to file on time. Any person who files a notice to participate in the proceeding as a nonparty shall be known as a “participant” and shall have the rights specified in § 511.41(d).
+
+[53 FR 15783, May 3, 1988]

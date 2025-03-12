@@ -1,0 +1,3 @@
+##### § 1250.100 Purpose. #####
+
+The purpose of this part is to effectuate the provisions of Title VI of the Civil Rights Act of 1964 (hereafter referred to as “the Act”) to the end that no person in the United States shall, on the ground of race, color or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity receiving Federal financial assistance from the National Aeronautics and Space Administration, hereinafter referred to as NASA.

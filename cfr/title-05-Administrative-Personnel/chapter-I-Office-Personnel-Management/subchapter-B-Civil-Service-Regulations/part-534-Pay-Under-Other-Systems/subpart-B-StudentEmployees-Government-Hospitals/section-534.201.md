@@ -1,0 +1,3 @@
+##### § 534.201 General. #####
+
+Under subchapter V of chapter 53 of title 5, United States Code (U.S.C. 5351-5356), agencies may pay stipends and provide certain services to certain student-employees assigned or attached to hospitals, clinics, or medical or dental laboratories operated by agencies. Student-employees covered under the program are excluded from certain provisions of law relating to classification, General Schedule pay, premium pay, leave, and hours of duty. This subpart authorizes the coverage of certain positions under this program and establishes maximum stipends for student-employees in the program.

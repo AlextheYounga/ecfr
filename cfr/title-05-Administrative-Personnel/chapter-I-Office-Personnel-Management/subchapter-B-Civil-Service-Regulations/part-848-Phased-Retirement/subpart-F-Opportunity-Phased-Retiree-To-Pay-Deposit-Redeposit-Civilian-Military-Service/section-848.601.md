@@ -1,0 +1,3 @@
+##### § 848.601 Deposit for civilian service for which no retirement deductions were withheld and redeposit for civilian service for which retirement deductions were refunded to the individual. #####
+
+Any deposit under § 842.304 and § 842.305, or redeposit under 5 U.S.C. 8422(i), that an employee entering phased retirement wishes to make for civilian service must be paid within 30 days from the date OPM notifies the employee of the amount of the deposit or redeposit, during the processing of the employee's application for phased retirement. The deposit or redeposit amount will include interest, computed to the effective date of phased retirement. No deposit or redeposit payment may be made by the phased retiree when entering full retirement status.

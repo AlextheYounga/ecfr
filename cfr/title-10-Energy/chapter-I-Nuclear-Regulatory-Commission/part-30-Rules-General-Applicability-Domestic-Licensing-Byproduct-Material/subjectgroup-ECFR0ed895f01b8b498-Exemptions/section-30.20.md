@@ -1,0 +1,7 @@
+##### § 30.20 Gas and aerosol detectors containing byproduct material. #####
+
+(a) Except for persons who manufacture, process, produce, or initially transfer for sale or distribution gas and aerosol detectors containing byproduct material, any person is exempt from the requirements for a license set forth in section 81 of the Act and from the regulations in parts 19, 20, 21, and 30 through 36 and 39 of this chapter to the extent that such person receives, possesses, uses, transfers, owns, or acquires byproduct material in gas and aerosol detectors designed to protect health, safety, or property, and manufactured, processed, produced, or initially transferred in accordance with a specific license issued under § 32.26 of this chapter, which license authorizes the initial transfer of the product for use under this section. This exemption also covers gas and aerosol detectors manufactured or distributed before November 30, 2007, in accordance with a specific license issued by a State under comparable provisions to § 32.26 of this chapter authorizing distribution to persons exempt from regulatory requirements.
+
+(b) Any person who desires to manufacture, process, or produce gas and aerosol detectors containing byproduct material, or to initially transfer such products for use under paragraph (a) of this section, should apply for a license under § 32.26 of this chapter and for a certificate of registration in accordance with § 32.210 of this chapter.
+
+[77 FR 43689, July 25, 2012]

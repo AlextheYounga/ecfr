@@ -1,0 +1,5 @@
+##### § 335.111 Forms and schedules. #####
+
+The Exchange Act regulations of the SEC, which are cross referenced under this part, require the filing of forms and schedules as applicable. Reference is made to SEC Exchange Act regulation 17 CFR part 249 regarding the availability of all applicable SEC Exchange Act forms. Required schedules are codified and are found within the context of the SEC's regulations. All forms and schedules shall be titled with the name of the FDIC in substitution for the name of the SEC. The filing of forms and schedules shall be made with the FDIC at the address in § 335.701 or may be filed electronically at FDIC*connect* at *https://www2.fdicconnect.gov/index.asp.* However, electronic filing of Beneficial Ownership Forms 3, 4 and 5 is required. Copies of Forms 3 (§ 335.611), 4 (§ 335.612) and 5 (§ 335.613) and the instructions thereto may be printed and downloaded from *https://www.fdic.gov/regulations/laws/forms.*
+
+[75 FR 73949, Nov. 30, 2010]

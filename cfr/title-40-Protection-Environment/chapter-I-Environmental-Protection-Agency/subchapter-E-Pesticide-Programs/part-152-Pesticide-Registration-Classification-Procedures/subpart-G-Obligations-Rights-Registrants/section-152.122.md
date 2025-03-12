@@ -1,0 +1,5 @@
+##### § 152.122 Currency of address of record and authorized agent. #####
+
+(a) The registrant must keep the Agency informed of his current name and address of record. If the Agency's good faith attempts to contact the registrant are not successful, the Agency will issue in the Federal Register a notice of intent to cancel all products of the registrant under FIFRA sec. 6(b). The registrant must respond within 30 days requesting that the registrations be maintained in effect, and providing his name and address of record. If no response is received, the cancellations will become effective at the end of 30 days without further notice to the registrant. The Agency may make provision for the sale and distribution of existing stocks of such products after the effective date of cancellation.
+
+(b) The registrant must also notify the Agency if he changes his authorized agent.

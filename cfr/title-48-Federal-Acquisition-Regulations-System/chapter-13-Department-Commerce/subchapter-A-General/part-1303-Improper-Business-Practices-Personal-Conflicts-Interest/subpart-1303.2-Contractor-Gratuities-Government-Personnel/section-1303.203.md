@@ -1,0 +1,3 @@
+##### 1303.203 Reporting suspected violations of the gratuities clause. #####
+
+Suspected violations of the Gratuities clause shall be reported to the HCA in writing detailing the circumstances. The report must identify the contractor and personnel involved, provide a summary of the pertinent evidence and circumstances that indicate a violation, and include any other available supporting documentation. The HCA will evaluate the report, and, if the allegations appear to support a violation, the matter will be referred to the Head of Contracting Office with copies provided to the Senior Procurement Executive and the DOC Office of Inspector General. *See* DAO 207-10 for procedures.

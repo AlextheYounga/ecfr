@@ -1,0 +1,5 @@
+##### § 385.33 Review by the staff. #####
+
+Where a petition for review is duly filed, the staff member may, upon consideration of all documents properly filed, reverse his or her decision. Except in the case of Administrative Law Judges, action taken by a staff member other than an office head or Assistant General Counsel may be reversed by the respective office head or Assistant General Counsel who is in the supervisory chain of command with respect to the staff member who took the initial action. If the initial action is reversed, the petition for review will not be submitted to the Reviewing Official. Staff action reversing the initial action shall be subject to petition for Department review as any other staff action.
+
+[Doc. No. T-1, 49 FR 50985, Dec. 31, 1984. Redesignated by Doc. No. OST-96-1268, 61 FR 19171, May 1, 1996]

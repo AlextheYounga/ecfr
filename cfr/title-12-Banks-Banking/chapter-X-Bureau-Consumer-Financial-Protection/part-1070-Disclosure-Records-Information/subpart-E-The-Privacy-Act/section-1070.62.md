@@ -1,0 +1,3 @@
+##### § 1070.62 Preservation of records. #####
+
+The CFPB will preserve all correspondence pertaining to the requests that it receives under this part, as well as copies of all requested records, until disposition or destruction is authorized by title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 14. Records will not be disposed of or destroyed while they are the subject of a pending request, appeal, proceeding, or lawsuit.

@@ -1,0 +1,3 @@
+##### 2919.202-1 Encouraging small business participation in acquisitions. #####
+
+During the performance of a contract, the contracting officer will consider performance against subcontracting plan goals, objectives and planned efforts before exercising an optional period of performance. The contracting officer will document the evaluation of the contractor's actual performance using SF-294 data compared to their approved subcontracting plan goals.

@@ -1,0 +1,3 @@
+##### § 27.1162 Administration of the Cost-Sharing Plan. #####
+
+The Wireless Telecommunications Bureau, under delegated authority, will select one or more entities to operate as a neutral, not-for-profit clearinghouse(s). This clearinghouse(s) will administer the cost-sharing plan by, *inter alia,* determining the cost-sharing obligation of AWS and other ET entities for the relocation of FMS incumbents from the 2110-2150 MHz and 2160-2200 MHz bands. The clearinghouse filing requirements (see §§ 27.1166(a), 27.1170) will not take effect until an administrator is selected.

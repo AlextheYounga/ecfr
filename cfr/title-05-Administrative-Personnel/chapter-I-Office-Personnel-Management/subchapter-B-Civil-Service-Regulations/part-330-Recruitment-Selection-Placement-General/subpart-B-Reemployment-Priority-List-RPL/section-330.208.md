@@ -1,0 +1,7 @@
+##### § 330.208 Duration of RPL registration. #####
+
+(a) RPL registration expires 2 years from the date of reduction in force separation under part 351 of this chapter, or 2 years from the date the agency registers the RPL eligible because of recovery from a compensable work injury under § 330.206(a)(3)(i) or (ii). An RPL eligible remains registered for the full 2-year period unless the registrant is removed from the RPL for a reason specified in § 330.209.
+
+(b)(1) OPM may extend the registration period when an RPL eligible does not receive a full 2 years of placement priority, for example, because of an agency's administrative or procedural error.
+
+(2) Either the agency or the RPL eligible may request OPM to extend the registration period under paragraph (b)(1) of this section. The request must describe the administrative or procedural error that caused the RPL eligible to be registered for less than the full 2-year period. OPM may request additional information either from the agency or the RPL eligible in connection with any such request. OPM will notify both the agency and the RPL eligible of the decision to approve or deny an extension request. OPM's decision regarding an extension request is not subject to appeal under § 330.214.

@@ -1,0 +1,7 @@
+##### § 572.40 Incorporated materials. #####
+
+(a) The drawings, specifications, manual, and computer program referred to in this regulation that are not set forth in full are hereby incorporated in this part by reference. These materials are thereby made part of this regulation. The Director of the Federal Register has approved the materials incorporated by reference. For materials subject to change, only the specific version approved by the Director of the Federal Register and specified in the regulation are incorporated. A notice of any change will be published in the Federal Register. As a convenience to the reader, the materials incorporated by reference are listed in the Finding Aids Table found at the end of this volume of the Code of Federal Regulations.
+
+(b) The materials incorporated in this part by reference are available for examination in the general reference section of Docket 79-04, Docket Section, National Highway Traffic Safety Administration, room 5109, 400 Seventh St., S.W., Washington, D.C., 20590, telephone (202) 366-4949. Copies may be obtained from Reprographic Technologies, 9000 Virginia Manor Rd., Suite 210, Beltsville, MD, 20705, Telephone (301) 419-5070, Fax (301) 419-5069.
+
+[55 FR 45766, Oct. 30, 1990, as amended at 63 FR 16140, Apr. 2, 1998]

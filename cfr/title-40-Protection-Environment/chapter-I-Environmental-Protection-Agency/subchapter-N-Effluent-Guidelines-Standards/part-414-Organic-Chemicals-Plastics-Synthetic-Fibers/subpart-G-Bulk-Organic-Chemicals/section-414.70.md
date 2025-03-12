@@ -1,0 +1,23 @@
+##### § 414.70 Applicability; description of the bulk organic chemicals subcategory. #####
+
+The provisions of this subpart are applicable to the process wastewater discharges resulting from the manufacture of the following SIC 2865 and 2869 bulk organic chemicals and bulk organic chemical groups. Product groups are indicated with an asterisk (\*).
+
+(a) Aliphatic Organic Chemicals
+
+\*Acetic Acid Esters\*Acetic Acid SaltsAcetone CyanohydrinAcetyleneAcrylic Acid\*Acrylic Acid Esters\*Alkoxy Alkanols\*Alkylates\*Alpha-OlefinsButane (all forms)\*C-4 Hydrocarbons (Unsaturated)Calcium StearateCaprolactamCarboxymethyl CelluloseCellulose Acetate Butyrates\*Cellulose EthersCumene HydroperoxideCyclohexanolCyclohexanol, Cyclohexanone (Mixed)CyclohexanoneCyclohexene\*C12-C18 Primary Alcohols\*C5 Concentrates\*C9 ConcentratesDecanolDiacetone Alcohol\*Dicarboxylic Acids—SaltsDiethyl EtherDiethylene GlycolDiethylene Glycol Diethyl EtherDiethylene Glycol Dimethyl EtherDiethylene Glycol Monoethyl EtherDiethylene Glycol Monomethyl Ether\*Dimer AcidsDioxaneEthaneEthylene Glycol Monophenyl Ether\*Ethoxylates, Misc.Ethylene Glycol Dimethyl EtherEthylene Glycol Monobutyl EtherEthylene Glycol Monoethyl EtherEthylene Glycol Monomethyl EtherGlycerine (Synthetic)GlyoxalHexane\*Hexanes and Other C6 HydrocarbonsIsobutanolIsobutyleneIsobutyraldehydeIsophoroneIsophthalic AcidIsopreneIsopropyl AcetateLigninsulfonic Acid, Calcium SaltMaleic AnhydrideMethacrylic Acid\*Methacrylic Acid EstersMethaneMethyl Ethyl KetoneMethyl MethacrylateMethyl Tert-Butyl EtherMethylisobutyl Ketone\*n-Alkanesn-Butyl Alcoholn-Butylacetaten-Butyraldehyden-Butyric Acidn-Butyric Anhydride\*n-Paraffinsn-Propyl Acetaten-Propyl AlcoholNitrilotriacetic AcidNylon SaltOxalic Acid\*Oxo Aldehydes—AlcoholsPentaerythritolPentane\*Pentenes\*Petroleum SulfonatesPine OilPolyoxybutylene GlycolPolyoxyethylene GlycolPropanePropionaldehydePropionic AcidPropylene GlycolSec-Butyl AlcoholSodium FormateSorbitolStearic Acid, Calcium Salt (Wax)Tert-Butyl Alcohol1-Butene1-Pentene1,4-ButanediolIsobutyl Acetate2-Butene (Cis and Trans)2-Ethyl Hexanol2-Ethylbutyraldehyde2,2,4-Trimethyl-1,3-Pentanediol
+
+(b) Amine and Amide Organic Chemicals
+
+2,4-Diaminotoluene\*Alkyl AminesAnilineCaprolactam, Aqueous ConcentrateDiethanolamineDiphenylamine\*EthanolaminesEthylamineEthylenediamineEthylenediaminetetracetic Acid\*Fatty AminesHexamethylene DiamineIsopropylaminem-ToluidineMelamineMelamine Crystal\*MethylaminesMethylene Dianilinen-ButylamineN,N-DiethylanilineN,N-Dimethylformamide\*NitroanilinesPolymeric Methylene DianilineSec-ButylamineTert-ButylamineToluenediamine (Mixture)\*Toluidineso-Phenylenediamine2,6-Dimethylaniline4-(N-Hydroxyethylethylamino)-2-Hydroxyethyl Analine4,4′-Methylenebis (N,N′-dimethyl)-aniline4,4′Methylenedianiline
+
+(c) Aromatic Organic Chemicals
+
+Alpha-Methylstyrene\*Alkyl Benzenes\*Alkyl Phenols\*Alkylbenzene Sulfonic Acids, SaltsAminobenzoic Acid (Meta and Para)Beta-Naphthalene Sulfonic AcidBenzenedisulfonic AcidBenzoic AcidBis(2-Ethylhexyl)PhthalateBisphenol ABTX-Benzene, Toluene, Xylene (Mixed)Butyl Octyl PhthalateCoal Tar\*Coal Tar Products (Misc.)Creosote\*Cresols, MixedCyanuric Acid\*Cyclic Aromatic SulfonatesDibutyl PhthalateDiisobutyl PhthalateDiisodecyl PhthalateDiisooctyl PhthalateDimethyl PhthalateDinitrotoluene (Mixed)Ditridecyl Phthalatem-CresolMetanilic AcidMethylenediphenyldiisocyanateNaphthalene\*Naphthas, SolventNitrobenzeneNitrotolueneNonylphenolp-CresolPhthalic AcidPhthalic Anhydride\*Tars—PitchesTert-Butylphenol\*Toluene Diisocyanates (Mixture)Trimellitic Acido-Cresol1-Tetralol, 1-Tetralone Mix2,4-Dinitrotoluene2,6-Dinitrotoluene
+
+(d) Halogenated Organic Chemicals
+
+1,4-Phenylenediamine DihydrochlorideAllyl ChlorideBenzyl ChlorideCarbon Tetrachloride\*Chlorinated Paraffins, 35-64 PCT, ChlorineChlorobenzene\*Chlorobenzenes (Mixed)ChlorodifluoroethaneChloroform\*Chloromethanes2-Chloro-5-Methylphenol (6-chloro-m-cresol)\*ChlorophenolsChloropreneCyanogen ChlorideCyanuric ChlorideDichloropropaneEpichlorohydrinEthyl Chloride\*Fluorocarbons (Freons)Methyl ChlorideMethylene ChloridePentachlorophenolPhosgeneTetrachloroethyleneTrichloroethyleneTrichlorofluoromethaneVinylidene Chloride1,1-Dichloroethane1,1,1-Trichloroethane2,4-Dichlorophenol
+
+(e) Other Organic Chemicals
+
+AdiponitrileCarbon DisulfideFatty Nitriles\*Organo-Tin Compounds\*Phosphate EstersTetraethyl LeadTetramethyl Lead\*Urethane Prepolymers[52 FR 42568, Nov. 5, 1987, as amended at 57 FR 41844, Sept. 11, 1992]

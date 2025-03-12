@@ -1,0 +1,3 @@
+##### § 137.4 May Title V be construed to limit or reduce in any way the funding for any program, project, or activity serving an Indian Tribe under this or other applicable Federal law? #####
+
+No, if an Indian Tribe alleges that a compact or funding agreement violates section 515(a) of the Act [25 U.S.C. 458aaa-14(a)], the Indian Tribe may apply the provisions of section 110 of the Act [25 U.S.C. 450m-1].

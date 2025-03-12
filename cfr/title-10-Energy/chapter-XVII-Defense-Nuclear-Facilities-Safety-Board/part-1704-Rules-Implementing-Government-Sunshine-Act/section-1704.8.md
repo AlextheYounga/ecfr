@@ -1,0 +1,3 @@
+##### § 1704.8 Transcripts, recordings, or minutes of closed meetings. #####
+
+Along with the General Counsel's certification and presiding officer's statement referred to in § 1704.5(d), the Board shall maintain a complete transcript or electronic recording adequate to record fully the proceedings of each meeting, or a portion thereof, closed to the public. The Board may maintain a set of minutes in lieu of such transcript or recording for meetings closed pursuant to § 1704.4(i). Such minutes shall fully and clearly describe all matters discussed and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of each of the views expressed on any item and the record of any rollcall vote.

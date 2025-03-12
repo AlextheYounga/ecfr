@@ -1,0 +1,7 @@
+##### § 572.30 Incorporated materials. #####
+
+(a) The drawings and specifications referred to in this regulation that are not set forth in full are hereby incorporated in this part by reference. The Director of the Federal Register has approved the materials incorporated by reference. For materials subject to change, only the specific version approved by the Director of the Federal Register and specified in the regulation are incorporated. A notice of any change will be published in the Federal Register. As a convenience to the reader, the materials incorporated by reference are listed in the Finding Aid Table found at the end of this volume of the Code of Federal Regulations.
+
+(b) The materials incorporated by reference are available for examination in the general reference section of docket 74-14, Docket Section, National Highway Traffic Safety Administration, Room 5109, 400 Seventh Street, SW., Washington, DC 20590. Copies may be obtained from Reprographic Technologies, 9000 Virginia Manor Road, Beltsville, MD 20705, Telephone (301) 210-5600, Facsimile (301) 419-5069, Attn. Mr. Jay Wall. Drawings and specifications are also on file at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+[51 FR 26701, July 25, 1986, as amended at 61 FR 67955, Dec. 26, 1996]

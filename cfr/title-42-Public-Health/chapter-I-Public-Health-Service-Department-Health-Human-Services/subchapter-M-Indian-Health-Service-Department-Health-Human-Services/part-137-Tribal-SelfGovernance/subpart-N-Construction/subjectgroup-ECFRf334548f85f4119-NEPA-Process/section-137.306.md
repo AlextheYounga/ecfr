@@ -1,0 +1,3 @@
+##### § 137.306 How are Self-Governance Tribes recognized as having lead, cooperating, or joint lead agency status? #####
+
+Self-Governance Tribes may be recognized as having lead, cooperating, or joint lead agency status through funding or other agreements with other agencies. To the extent that resources are available, the Secretary will encourage and facilitate Federal, state, and local agencies to enter into agreements designating Tribes as lead, cooperating, or joint lead agencies for environmental review purposes.

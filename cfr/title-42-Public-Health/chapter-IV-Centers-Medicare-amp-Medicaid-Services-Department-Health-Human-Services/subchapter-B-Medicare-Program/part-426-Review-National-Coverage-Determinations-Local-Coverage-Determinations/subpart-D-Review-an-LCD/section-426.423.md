@@ -1,0 +1,11 @@
+##### § 426.423 Withdrawing a complaint regarding an LCD under review. #####
+
+(a) *Circumstance under which an aggrieved party may withdraw a complaint regarding an LCD.* An aggrieved party who filed a complaint regarding an LCD may withdraw the complaint before the ALJ issues a decision regarding that LCD. The aggrieved party may not file another complaint concerning the same coverage determination for 6 months.
+
+(b) *Process for an aggrieved party withdrawing a complaint regarding an LCD.* To withdraw a complaint regarding an LCD, the aggrieved party who filed the complaint must send a written withdrawal notice to the ALJ (see § 426.400), CMS (if applicable), and the applicable contractor. Supplementing an acceptable complaint with new evidence does not constitute a withdrawal of a complaint, as described in § 426.403.
+
+(c) *Actions the ALJ must take upon receiving a notice announcing the intent to withdraw a complaint regarding an LCD*—(1) *LCD reviews involving one aggrieved party.* If the ALJ receives a withdrawal notice regarding an LCD before the date the ALJ issued a decision regarding that LCD, the ALJ issues a decision dismissing the complaint under § 426.444 and informs the aggrieved party that he or she may not file another complaint to the same coverage determination for 6 months.
+
+(2) *LCD reviews involving joint complaints.* If the ALJ receives a notice from an aggrieved party who is named in a joint complaint withdrawing a complaint regarding an LCD before the date the ALJ issued a decision regarding that LCD, the ALJ issues a decision dismissing only that aggrieved party from the complaint under § 426.444. The ALJ continues the LCD review if there is one or more aggrieved party who does not withdraw from the joint complaint.
+
+(3) *Consolidated LCD reviews.* If the ALJ receives a notice from an aggrieved party who is part of a consolidated LCD review withdrawing a complaint regarding an LCD before the date the ALJ issued a decision regarding that LCD, the ALJ removes that aggrieved party from the consolidated LCD review and issues a decision dismissing that aggrieved party's complaint under § 426.444. The ALJ continues the LCD review if there are one or more aggrieved parties who does not withdraw from the joint complaint.

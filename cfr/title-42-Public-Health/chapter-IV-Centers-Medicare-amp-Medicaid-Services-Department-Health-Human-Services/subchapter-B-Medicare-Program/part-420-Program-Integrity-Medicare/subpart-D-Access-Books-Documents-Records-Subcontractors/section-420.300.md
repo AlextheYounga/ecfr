@@ -1,0 +1,3 @@
+##### § 420.300 Basis, purpose, and scope. #####
+
+This subpart implements section 1861(v)(1)(I) of the Act, which requires, for Medicare payment under certain provider contracts, access by the Secretary, upon written request, and the Comptroller General, and their duly authorized representatives, to certain contracts for services and to books, documents, and records necessary to verify the costs of the services. The contracts affected are those between providers and their subcontractors, and between the subcontractors and organizations related to the subcontractor by control or common ownership. It also specifies the criteria by which HHS will determine whether to request access to books, documents, and records.

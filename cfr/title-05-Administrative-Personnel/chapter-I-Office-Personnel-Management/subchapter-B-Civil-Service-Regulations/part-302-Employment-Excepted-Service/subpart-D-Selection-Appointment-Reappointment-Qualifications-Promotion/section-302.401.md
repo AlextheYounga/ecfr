@@ -1,0 +1,9 @@
+##### § 302.401 Selection and appointment. #####
+
+(a) *Selection.* When making an appointment from a priority reemployment, reemployment, or regular list on which candidates have not received numerical scores, an agency must make its selection from the highest available preference category, as long as at least three candidates remain in that group. When fewer than three candidates remain in the highest category, consideration may be expanded to include the next category. When making an appointment from a list on which candidates have received numerical scores, the agency must make its selection for each vacancy from not more than the highest three names available for appointment in the order provided in § 302.304. Under either method, an agency is not required to -
+
+(1) Accord an applicant on its priority reemployment or reemployment list the preference consideration required by § 302.304 if the list on which the applicant's name appears does not contain the names of at least three preference eligibles; or
+
+(2) Consider an applicant who has previously been considered three times or a preference eligible if consideration of his/her name has been discontinued for the position as provided in paragraph (b) of this section.
+
+(b) *Passing over a preference applicant.* When an agency, in making an appointment as provided in paragraph (a) of this section, passes over the name of a preference eligible who is entitled to priority consideration under § 302.304 and selects a nonpreference eligible, it shall record its reasons for so doing, and shall furnish a copy of those reasons to the preference eligible or his/her representative on request. An agency may discontinue consideration of the name of a preference eligible for a position if on three occasions the agency has considered him/her for the position and has passed over his/her name and recorded its reasons for so doing.

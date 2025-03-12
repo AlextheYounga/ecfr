@@ -1,0 +1,7 @@
+##### § 232.605 Training requirements. #####
+
+(a) *Inspection, testing and maintenance.* A railroad that operates a freight car or freight train equipped with an ECP brake system and each contractor that performs inspection, testing, or maintenance on a freight car or freight train equipped with an ECP brake system shall adopt and comply with a training, qualification, and designation program for its employees that perform inspection, testing or maintenance of ECP brake systems. The training program required by this section shall meet the requirements in §§ 232.203(a), (b), (e), and (f).
+
+(b) *Operating rules.* A railroad operating a freight train or freight car equipped with an ECP brake system shall amend its operating rules to govern safe train handling procedures related to ECP brake systems and equipment under all operating conditions and shall tailor its operating rules to the specific equipment and territory of the railroad.
+
+(c) *Locomotive engineers.* A railroad operating a freight car or freight train equipped with an ECP brake system shall adopt and use in its training program under part 240 specific knowledge, skill, and ability criteria to ensure that its locomotive engineers are fully trained with the operating rules governing safe train handling procedures related to ECP brake systems and equipment under all operating conditions and tailored to the specific equipment and territory of the railroad.

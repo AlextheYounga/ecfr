@@ -1,0 +1,3 @@
+##### 403.203 Reporting suspected violations of the gratuities clause. #####
+
+A suspected violation of the contract clause, FAR 52.203-3, Gratuities, shall be reported immediately to the cognizant contracting officer in writing, stating the circumstances surrounding the incident(s), the date(s), and names of all parties involved. The contracting officer shall review the report for completeness, add any additional information deemed necessary and a recommendation for action, and submit the report to the HCA.

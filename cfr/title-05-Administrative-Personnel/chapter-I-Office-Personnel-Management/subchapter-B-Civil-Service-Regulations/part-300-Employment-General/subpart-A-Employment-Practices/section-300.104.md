@@ -1,0 +1,11 @@
+##### § 300.104 Appeals, grievances and complaints. #####
+
+(a) *Employment practices.* A candidate who believes that an employment practice which was applied to him or her by the Office of Personnel Management violates a basic requirement in § 300.103 is entitled to appeal to the Merit Systems Protection Board under the provisions of its regulations.
+
+(b) *Examination ratings.* A candidate may file an appeal with the Office from his or her examination rating or the rejection of his or her application, except that, where the Office has delegated examining authority to an agency, the candidate should appeal directly to that agency. The appeal and supporting documents shall be filed with the agency office that determined the rating.
+
+(c) *Complaints and grievances to an agency.* (1) A candidate may file a complaint with an agency when he or she believes that an employment practice that was applied to him or her and that is administered by the agency discriminates against him or her on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, age (as defined by the Age Discrimination in Employment Act of 1967, as amended), disability, genetic information (including family medical history), or retaliation for exercising rights with respect to the categories enumerated above, where retaliation rights are available. The complaint must be filed and processed in accordance with the agency EEO procedures, as appropriate.
+
+(2) Except as provided in paragraph (c)(1) of this section, an employee may file a grievance with an agency when he or she believes that an employment practice which was applied to him or her and which is administered or required by the agency violates a basic requirement in § 300.103. The grievance shall be filed and processed under an agency grievance system, if applicable, or a negotiated grievance system as applicable.
+
+[40 FR 15380, Apr. 7, 1975, as amended at 41 FR 51579, Nov. 23, 1976; 44 FR 48951, Aug. 21, 1979; 60 FR 3057, Jan. 13, 1995; 60 FR 47040, Sept. 11, 1995; 79 FR 43922, July 29, 2014]

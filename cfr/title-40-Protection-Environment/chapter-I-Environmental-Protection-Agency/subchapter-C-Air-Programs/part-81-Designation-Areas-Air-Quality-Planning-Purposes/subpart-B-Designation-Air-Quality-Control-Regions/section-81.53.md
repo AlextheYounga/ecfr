@@ -1,0 +1,9 @@
+##### § 81.53 Southern Louisiana-Southeast Texas Interstate Air Quality Control Region. #####
+
+The Southern Louisiana-Southwest Texas Interstate Air Quality Control Region has been revised to consist of the territorial area encompassed by the boundaries of the following jurisdictions or described area (including the territorial area of all municipalities (as defined in section 302(f) of the Clean Air Act, 42 U.S.C. 1857(h)(f)) geographically located within the outermost boundaries of the area so delimited):
+
+In the State of Louisiana: Acadia Parish, Allen Parish, Ascension Parish, Assumption Parish, Beauregard Parish, Calcasieu Parish, Cameron Parish, East Baton Rouge Parish, East Feliciana Parish, Evangeline Parish, Iberia Parish, Iberville Parish, Jefferson Davis Parish, Jefferson Parish, Lafayette Parish, Lafourche Parish, Livingston Parish, Orleans Parish, Plaquemines Parish, Pointe Coupee Parish, St. Bernard Parish, St. Charles Parish, St. Helena Parish, St. James Parish, St. John the Baptist Parish, St. Landry Parish, St. Martin Parish, St. Mary Parish, St. Tammany Parish, Tangipahoa Parish, Terrebonne Parish, Vermilion Parish, Washington Parish, West Baton Rouge Parish, West Feliciana Parish.
+
+In the State of Texas: Angelina County, Hardin County, Houston County, Jasper County, Jefferson County, Nacogdoches County, Newton County, Orange County, Polk County, Sabine County, San Augustine County, San Jacinto County, Shelby County, Trinity County, Tyler County.
+
+[36 FR 22421, Nov. 25, 1971, as amended at 56 FR 37289, Aug. 6, 1991; 62 FR 30272, June 3, 1997; 67 FR 57334, Sept. 10, 2002]

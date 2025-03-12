@@ -1,0 +1,5 @@
+##### § 310.24 What happens if I provide incorrect or false information? #####
+
+(a) You must not knowingly or recklessly make any statement or provide any information in your reimbursement application that is false, misleading, misrepresented, or misstated. If you do provide incorrect or false information, and EPA relies on that information in making a reimbursement decision, we may deny your application and withdraw or recover the full amount of your award. In such a case, we would give you written notice of our intentions.
+
+(b) If you, as a reimbursement applicant or someone providing information to the applicant, knowingly give any false statement or claim as part of any application for reimbursement under section 123 of CERCLA, you may be subject to criminal, civil, or administrative liability under the False Statement Act (Pub. L. 97-398, 18 U.S.C. 1001) the False Claims Act (Pub. L. 99-562, 31 U.S.C. 3729), and the Program Fraud and Civil Remedies Act (Pub. L. 99-509, 31 U.S.C. 3801).

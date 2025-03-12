@@ -1,0 +1,7 @@
+##### § 821.30 Initiation of proceeding. #####
+
+(a) *Appeal.* Where the Administrator has issued an order amending, modifying, suspending or revoking a certificate, the affected certificate holder (respondent) may file with the Board an appeal from the Administrator's order. The respondent shall simultaneously serve a copy of the appeal on the Administrator. The appeal must be filed with the Board within 20 days after the date on which the Administrator's order was served on the respondent, except as provided with respect to emergency and other immediately effective orders under § 821.53(a).
+
+(b) *Form and content of appeal.* The appeal may be in letter form. It shall identify the certificate or certificates affected and the Administrator's action from which the appeal is sought.
+
+(c) *Effect of filing timely appeal with the Board.* Timely filing with the Board of an appeal from an order of the Administrator shall postpone the effective date of the order until final disposition of the appeal by the law judge or the Board, except where the order appealed from is an emergency or other immediately effective order, in which case the effectiveness of the order will not be so stayed during the pendency of the appeal.

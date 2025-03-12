@@ -1,0 +1,7 @@
+##### § 40.2a Coverage of inactive tailings sites. #####
+
+(a) Prior to the completion of the remedial action, the Commission will not require a license pursuant to 10 CFR chapter I for possession of residual radioactive materials as defined in this part that are located at a site where milling operations are no longer active, if the site is covered by the remedial action program of title I of the Uranium Mill Tailings Radiation Control Act of 1978, as amended. The Commission will exert its regulatory role in remedial actions primarily through concurrence and consultation in the execution of the remedial action pursuant to title I of the Uranium Mill Tailings Radiation Control Act of 1978, as amended. After remedial actions are completed, the Commission will license the long-term care of sites, where residual radioactive materials are disposed, under the requirements set out in § 40.27.
+
+(b) The Commission will regulate byproduct material as defined in this part that is located at a site where milling operations are no longer active, if such site is not covered by the remedial action program of title I of the Uranium Mill Tailings Radiation Control Act of 1978. The criteria in appendix A of this part will be applied to such sites.
+
+[45 FR 65531, Oct. 3, 1980, as amended at 55 FR 45598, Oct. 30, 1990]

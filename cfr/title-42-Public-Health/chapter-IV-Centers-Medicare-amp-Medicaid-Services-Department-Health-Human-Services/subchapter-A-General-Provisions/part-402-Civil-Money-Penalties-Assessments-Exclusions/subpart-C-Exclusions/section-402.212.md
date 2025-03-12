@@ -1,0 +1,5 @@
+##### § 402.212 Response to notice of proposed determination to exclude. #####
+
+(a) A person that receives a notice of intent to exclude (that is, the proposed determination) as described in § 402.210, may present to the initiating agency a written response stating whether the proposed exclusion is warranted, and may present additional supportive documentation. The person must submit this response within 60 days of the receipt of notice. The initiating agency reviews the materials presented and initiates a response to the person regarding the argument presented, and any changes to the determination, if appropriate.
+
+(b) The person is also afforded an opportunity to make an oral presentation to the initiating agency concerning whether the proposed exclusion is warranted and any related matters. The person must submit this request within 30 days of the receipt of notice. Within 15 days of receipt of the person's request, the initiating agency initiates communication with the person to establish a mutually agreed upon time and place for the oral presentation and discussion.

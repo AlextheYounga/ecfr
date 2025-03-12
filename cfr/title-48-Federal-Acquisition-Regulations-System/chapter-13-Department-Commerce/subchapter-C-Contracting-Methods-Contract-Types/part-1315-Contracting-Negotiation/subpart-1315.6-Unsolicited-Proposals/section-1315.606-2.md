@@ -1,0 +1,7 @@
+##### 1315.606-2 Evaluation. #####
+
+(a) If the contracting officer determines, upon initial review, that the unsolicited proposal meets all criteria in FAR 15.606-1, the contracting officer will acknowledge receipt of the proposal, coordinate evaluation with the program office, and provide to the submitter an estimated date that evaluation of the proposal is expected to be completed. The contracting officer shall transmit the proposal to the program office for evaluation, marking it in accord with FAR 15.609(d). If the estimated date for completion of the evaluation cannot be met, the submitter should be informed in a timely manner and provided with a revised evaluation completion date.
+
+(b) The evaluating office shall not reproduce or disseminate the proposal to other offices without the consent of the contracting officer. If the evaluating office requires additional information from the proposer, the evaluator shall request the information through the contracting officer, who will contact the proposer. The evaluator shall not communicate directly with the proposer.
+
+(c) Evaluators shall notify the contracting officer of their recommendations when the evaluation is complete. Following evaluation, the contracting officer shall proceed in accord with FAR 15.607.

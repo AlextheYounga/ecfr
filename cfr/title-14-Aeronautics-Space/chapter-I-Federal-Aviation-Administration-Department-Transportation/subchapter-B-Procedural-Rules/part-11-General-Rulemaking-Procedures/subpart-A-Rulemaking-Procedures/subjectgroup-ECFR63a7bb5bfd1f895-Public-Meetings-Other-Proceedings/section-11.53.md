@@ -1,0 +1,3 @@
+##### § 11.53 What takes place at a public meeting? #####
+
+A public meeting is a non-adversarial, fact-finding proceeding conducted by an FAA representative. Public meetings are announced in the Federal Register. We invite interested persons to attend and to present their views to the agency on specific issues. There are no formal pleadings and no adverse parties, and any regulation issued afterward is not necessarily based exclusively on the record of the meeting.

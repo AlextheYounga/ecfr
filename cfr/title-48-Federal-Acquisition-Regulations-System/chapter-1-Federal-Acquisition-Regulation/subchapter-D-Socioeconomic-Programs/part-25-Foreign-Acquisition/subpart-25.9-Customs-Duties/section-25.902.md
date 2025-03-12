@@ -1,0 +1,3 @@
+##### 25.902 Procedures. #####
+
+For regulations governing importations and duties, see the Customs Regulations issued by the U.S. Customs Service, Department of the Treasury (19 CFR Chapter 1). Except as provided elsewhere in the Customs Regulations (see 19 CFR 10.100), all shipments of imported supplies purchased under Government contracts are subject to the usual Customs entry and examination requirements. Unless the agency obtains an exemption (see 25.903), those shipments are also subject to duty.

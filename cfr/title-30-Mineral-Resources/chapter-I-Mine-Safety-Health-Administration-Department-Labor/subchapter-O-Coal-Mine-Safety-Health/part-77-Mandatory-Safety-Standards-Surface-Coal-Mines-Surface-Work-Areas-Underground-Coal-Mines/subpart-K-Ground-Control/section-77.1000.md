@@ -1,0 +1,3 @@
+##### § 77.1000 Highwalls, pits and spoil banks; plans. #####
+
+Each operator shall establish and follow a ground control plan for the safe control of all highwalls, pits and spoil banks to be developed after June 30, 1971, which shall be consistent with prudent engineering design and will insure safe working conditions. The mining methods employed by the operator shall be selected to insure highwall and spoil bank stability.

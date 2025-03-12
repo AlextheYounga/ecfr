@@ -1,0 +1,3 @@
+##### § 440.50 Applicability; description of the titanium ore subcategory. #####
+
+The provisions of this subpart E are applicable to discharges from (a) mines obtaining titanium ores from lode deposits; (b) mills beneficiating titanium ores by electrostatic methods, magnetic and physical methods, or flotation methods; and (c) mines engaged in the dredge mining of placer deposits of sands containing rutile, ilmenite, leucoxene, monazite, zircon, and other heavy metals, and the milling techniques employed in conjunction with the dredge mining activity (milling techniques employed include the use of wet gravity methods in conjunction with electrostatic or magnetic methods).

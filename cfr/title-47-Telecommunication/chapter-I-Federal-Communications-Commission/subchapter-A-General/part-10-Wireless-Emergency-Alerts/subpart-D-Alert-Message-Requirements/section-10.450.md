@@ -1,0 +1,5 @@
+##### § 10.450 Geographic targeting. #####
+
+Link to an amendment published at 81 FR 75726, November 1, 2016.
+
+This section establishes minimum requirements for the geographic targeting of Alert Messages. A Participating CMS Provider will determine which of its network facilities, elements, and locations will be used to geographically target Alert Messages. A Participating CMS Provider must transmit any Alert Message that is specified by a geocode, circle, or polygon to an area not larger than the provider's approximation of coverage for the Counties or County Equivalents with which that geocode, circle, or polygon intersects. If, however, the propagation area of a provider's transmission site exceeds a single County or County Equivalent, a Participating CMS Provider may transmit an Alert Message to an area not exceeding the propagation area.

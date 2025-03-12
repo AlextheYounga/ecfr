@@ -1,0 +1,3 @@
+##### § 76.1208 Sunset of regulations. #####
+
+The regulations adopted under this subpart shall cease to apply when the Commission determines that (1) the market for multichannel video distributors is fully competitive; (2) the market for converter boxes, and interactive communications equipment, used in conjunction with that service is fully competitive; and (3) elimination of the regulations would promote competition and the public interest. Any interested party may petition the Commission for such a determination.

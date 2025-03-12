@@ -1,0 +1,3 @@
+##### 34.004 Acquisition strategy. #####
+
+The program manager, as specified in agency procedures, shall develop an acquisition strategy tailored to the particular major system acquisition program. This strategy is the program manager's overall plan for satisfying the mission need in the most effective, economical, and timely manner. The strategy shall be in writing and prepared in accordance with the requirements of subpart 7.1, except where inconsistent with this part, and shall qualify as the acquisition plan for the major system acquisition, as required by that subpart.

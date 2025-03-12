@@ -1,0 +1,5 @@
+##### § 2.172 Surrender for cancellation. #####
+
+Upon application by the owner, the Director may permit any registration to be surrendered for cancellation. The application for surrender must be signed by the owner of the registration, someone with legal authority to bind the owner (*e.g.,* a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter. When a registration has more than one class, one or more entire class(es) but fewer than the total number of classes may be surrendered. Deletion of fewer than all the goods or services in a single class constitutes amendment of the registration as to that class (*see* § 2.173), rather than surrender. A surrender for cancellation may not subsequently be withdrawn.
+
+[80 FR 2312, Jan. 16, 2015]

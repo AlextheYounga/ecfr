@@ -1,0 +1,3 @@
+##### § 10.27 Government contractors. #####
+
+When the Department provides by a contract for the operation by or on behalf of the Department of a system of records to accomplish a function of the Department, the requirements of this part are applied to such system. For purposes of subpart I, Criminal Penalties, any such contractor and any employee of the contractor are considered, in accordance with section 3(m) of the Privacy Act, to be employees of the Department.

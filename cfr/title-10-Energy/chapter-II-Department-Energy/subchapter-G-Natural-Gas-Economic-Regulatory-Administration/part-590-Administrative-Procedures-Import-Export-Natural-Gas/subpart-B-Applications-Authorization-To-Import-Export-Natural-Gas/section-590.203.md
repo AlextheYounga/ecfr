@@ -1,0 +1,3 @@
+##### § 590.203 Deficient applications. #####
+
+If an application is incomplete or otherwise deemed deficient, the Assistant Secretary or the Assistant Secretary's delegate may require the applicant to submit additional information or exhibits to remedy the deficiency. If the applicant does not remedy the deficiency within the time specified by the Assistant Secretary or the Assistant Secretary's delegate, the application may be dismissed without prejudice to refiling at another time.

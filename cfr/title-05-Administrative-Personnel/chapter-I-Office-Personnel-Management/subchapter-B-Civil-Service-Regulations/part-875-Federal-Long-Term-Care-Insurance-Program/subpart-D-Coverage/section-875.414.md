@@ -1,0 +1,3 @@
+##### § 875.414 Will benefits be coordinated with other coverage? #####
+
+Yes, benefits will be coordinated with other plans, following the coordination of benefits (COB) guidelines set by the National Association of Insurance Commissioners. The total benefits from all plans that pay a long term care benefit to you should not exceed the actual costs you incur. The other plans that are considered for COB purposes include government programs, group medical benefits, and other employer-sponsored long term care insurance plans. Medicaid, individual insurance policies, and association group insurance policies are not taken into consideration under this provision.

@@ -1,0 +1,17 @@
+##### § 62.73 What are the procedures for participation in the Special Repayment Program? #####
+
+(a) *Notice of eligibility for participation in the program.* On or before February 29, 1988, the Secretary will, subject to paragraph (h) of this section, send written notice to each eligible defaulter of the opportunity provided under this Program. The notice will be sent to the last known address of each eligible defaulter and will describe the special repayment options available under the Program.
+
+(b) *Selection of repayment method.* On or before May 29, 1988, eligible defaulters who wish to participate in this Program must sign and submit to the Secretary a written contract to provide service in accordance with either section 204(b) or section 204(c) of Pub. L. 100-177. The election between section 204(b) and section 204(c) of Pub. L. 100-177 is binding on the eligible defaulters.
+
+(c) *Service sites.* Program participants will receive a listing of approved sites appropriate to the service option they have selected. Program participants electing service under section 204(b) of Pub. L. 100-177 will receive a HPOL. Program participants electing service under section 204(c) of Pub. L. 100-177 will receive a SHPOL. The HPOL or SHPOL sent to the Program participant will be specific to the Program participant's profession and his or her specialty training which is most needed by the National Health Service Corps. The Secretary is not required to identify placements for Program participants in a medical specialty for which the National Health service Corps has no need.
+
+(d) *Time frames for matching and commencing service.* If a program participant electing to serve under section 204(b) of Pub. L. 100-177 chooses to serve at a remaining site on the 1988 HPOL, such participant must match to a site and must begin serving at the site by October 1, 1988. If a Program participant electing to serve under section 204(b) of Pub. L. 100-177 chooses to serve at a site on the 1989 HPOL, such participant must match to a HPOL site by February 15, 1989, and must begin service at the site by October 1, 1989. If a Program participant has elected to serve under section 204(c) of Pub. L. 100-177, such participant must match to a SHPOL site by May 15, 1989, and must begin service at that site by October 1, 1989.
+
+(e) *Site visits.* The Program participant is responsible for the costs of any site visit(s) and any other contact with the site to obtain employment at the site.
+
+(f) *Effect of failure to meet established time frames.* If a Program participant does not match to a site or begin service at that site within the time frames described in paragraph (d) of this section, the Secretary will determine that such individual is not relieved of his or her liability to the United States under the PH/NHSC Scholarship Training Program and/or Scholarship Program (including accrued interest and/or damages).
+
+(g) *Service.* Service must be performed in accordance with subpart II of part D of title III of the Act. Service credit will begin after a Program participant has matched to a HPOL or SHPOL site and has commenced service at that site in accordance with subpart II of part D of title III of the Act.
+
+(h) *Secretary's exclusion authority.* The Secretary is authorized, at any time, to deny or terminate an individual's participation in the Program for reasons related to the individual's professional competence or conduct.

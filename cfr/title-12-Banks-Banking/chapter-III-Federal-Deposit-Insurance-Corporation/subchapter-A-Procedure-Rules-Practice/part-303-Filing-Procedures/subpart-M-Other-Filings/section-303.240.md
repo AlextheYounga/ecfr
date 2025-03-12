@@ -1,0 +1,3 @@
+##### § 303.240 General. #####
+
+This subpart sets forth the filing procedures to be followed when seeking the FDIC's consent to engage in certain activities or accomplish other matters as specified in the individual sections contained herein. For those matters covered by this subpart that also have substantive FDIC regulations or related statements of policy, references to the relevant regulations or statements of policy are contained in the specific sections.

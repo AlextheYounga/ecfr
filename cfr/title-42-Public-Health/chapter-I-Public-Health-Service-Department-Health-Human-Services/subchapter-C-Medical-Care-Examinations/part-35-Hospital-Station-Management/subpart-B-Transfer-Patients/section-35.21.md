@@ -1,0 +1,3 @@
+##### § 35.21 Authorization of transfer. #####
+
+Except as otherwise provided by law or regulation with respect to certain classes of patients, the officer in charge of a station or hospital of the Service may provide, without any cost to the patient, for the transfer of the patient either from such station or hospital to another station or hospital of the Service or to any non-Service station or hospital at which the patient may be received, or from any non-Service hospital at which he is receiving care or treatment as a patient of the Service to a station or hospital of the Service.

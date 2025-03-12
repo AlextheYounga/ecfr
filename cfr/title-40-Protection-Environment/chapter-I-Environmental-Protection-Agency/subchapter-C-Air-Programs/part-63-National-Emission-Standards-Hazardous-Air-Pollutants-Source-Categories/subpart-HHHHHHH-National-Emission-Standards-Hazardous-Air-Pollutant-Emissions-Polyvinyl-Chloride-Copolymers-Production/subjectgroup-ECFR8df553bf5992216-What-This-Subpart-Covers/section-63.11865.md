@@ -1,0 +1,3 @@
+##### § 63.11865 Am I subject to the requirements in this subpart? #####
+
+You are subject to the requirements in this subpart if you own or operate one or more polyvinyl chloride and copolymers production process units (PVCPU) as defined in § 63.12005 that are located at, or are part of, a major source of hazardous air pollutants (HAP) emissions as defined in § 63.2. The requirements of this subpart do not apply to research and development facilities, as defined in section 112(c)(7) of the Clean Air Act, or to chemical manufacturing process units, as defined in § 63.101, that produce vinyl chloride monomer or other raw materials used in the production of polyvinyl chloride and copolymers.

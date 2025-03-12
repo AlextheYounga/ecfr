@@ -1,0 +1,3 @@
+##### § 80.307 Compulsory use of radiotelegraph auto alarm. #####
+
+The radiotelegraph auto alarm required on a cargo ship subject to the radiotelegraph provisions of part II of title III of the Communications Act or the Safety Convention must be in operation, connected to the main antenna and adjusted for optimum efficiency at all times while the ship is being navigated in the open sea when a radio officer is not listening on the frequency 500 kHz, except under the circumstances as set forth in § 80.306(b).

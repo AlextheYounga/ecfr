@@ -1,0 +1,3 @@
+##### § 57.701 General requirements. #####
+
+This section applies to all smelters applying for an NSO. Each NSO shall require the smelter owner to meet all of the requirements within the NSO as expeditiously as practicable but in no case later than the deadlines contained in this subpart or any other section of these regulations. For requirements not immediately effective, the NSO shall provide increments of progress and a schedule for compliance. Each schedule must reflect the extent to which any required equipment or systems are already in place and the extent to which any required reports or studies have already been completed. Requirements for smelters to submit compliance schedules and the procedures which they must follow are outlined below.

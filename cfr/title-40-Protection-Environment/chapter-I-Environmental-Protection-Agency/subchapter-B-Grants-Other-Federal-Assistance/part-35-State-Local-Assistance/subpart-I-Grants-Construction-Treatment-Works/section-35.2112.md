@@ -1,0 +1,3 @@
+##### § 35.2112 Marine discharge waiver applicants. #####
+
+If the applicant is also an applicant for a secondary treatment requirement waiver under section 301(h) of the Act, a plan must be submitted which contains a modified scope of work, a schedule for completion of the less-than-secondary facility and an estimate of costs providing for building the proposed less-than-secondary facilities, including provisions for possible future additions of treatment processes or techniques to meet secondary treatment requirements.

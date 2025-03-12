@@ -1,0 +1,3 @@
+##### § 470.313 Project implementation regulations. #####
+
+Agencies will prepare demonstration project implementing regulations, as appropriate, to replace Government-wide statutes and regulations waived for the project. Demonstration project implementing regulations issued pursuant to an OPM-approved demonstration project must be approved by OPM and shall have full force and authority pursuant to Title VI of the Civil Service Reform Act of 1978.

@@ -1,0 +1,19 @@
+##### § 152.415 Records and reports. #####
+
+(a) Each grantee shall keep on file for a period of three years or for the period during which the Federal financial assistance is made available, whichever is longer, reports (other than those transmitted to the FAA), records, and affirmative action plans, if applicable, that will enable the FAA Office of Civil Rights to ascertain if there has been and is compliance with this subpart.
+
+(b) Each sponsor shall require its covered organizations to keep on file, for the period set forth in paragraph (a) of this section, reports (other than those submitted to the FAA), records, and affirmative action plans, if applicable, that will enable the FAA Office of Civil Rights to ascertain if there has been and is compliance with this subpart, and shall cause them to require their covered suborganizations to keep similar records as applicable.
+
+(c) Each grantee, employing 15 or more person, shall annually submit to the FAA a compliance report on a form provided by the FAA and a statistical report on a Form EEO-1 of the Equal Employment Opportunity Commission (EEOC) or any superseding EEOC form. If a grantee already is submitting a Form EEO-1 to another agency, the grantee may submit a copy of that form to the FAA as its statistical report. The information provided shall include goals and timetables, if established in compliance with the requirements of § 152.409 or with the requirements of another Federal agency or a State or local agency.
+
+(d) Each sponsor shall—
+
+(1) Require each of its aviation-related activities (except construction contractors), employing 15 or more persons, to annually submit to the sponsor the reports required by paragraph (c) of this section, on the same basis as stated in paragraph (c) of this section, and shall cause each aviation-related activity to require its covered suborganizations, with 15 or more employees, to annually submit the reports required by paragraph (c) of this section through the prime organization to the sponsor, for transmittal by the sponsor to the FAA.
+
+(2) Annually collect from its aviation related activities employing less than 15 employees, and transmit to the FAA an aggregate employment report, that includes the employment of sponsors with less than 15 employees, on an EEO-1 or any superseding EEOC form.
+
+(e) Each sponsor shall require each of its construction contractors on its airport, with a contract of $10,000 or more, which is not subject to E.O. 11246 and the regulations of the Department of Labor (DOL), to submit to the sponsor, at the conclusion of the project, a compliance report on a form provided by the FAA and a statistical report on a DOL Form 257 or any superseding DOL form. For projects exceeding six months, the sponsor shall require a midway compliance report. The sponsor shall submit these reports to the FAA.
+
+(f) Each sponsor shall cause each of its construction contractors on its airport to require each of the contractor's subcontractors, with a subcontract of $10,000 or more, which are not subject to E.O. 11246 and the regulations of the DOL, to submit the reports required by paragraph (e) of this section to the prime contractor for submission to the sponsor. The sponsor shall transmit these reports to the FAA.
+
+(g) Each organization required to prepare an affirmative action plan for the FAA under this subpart shall update it annually and as changed circumstances require. Each organization that has prepared a plan in compliance with the requirements of another Federal agency or a State or local agency, shall update it in accordance with the requirements of that agency.

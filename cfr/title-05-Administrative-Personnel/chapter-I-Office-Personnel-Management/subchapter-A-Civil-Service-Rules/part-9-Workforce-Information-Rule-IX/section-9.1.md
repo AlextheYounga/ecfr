@@ -1,0 +1,3 @@
+##### § 9.1 Definition. #####
+
+As used in this rule, 'Executive agency' means an Executive department, a Government corporation, and an independent establishment, as those terms are defined in chapter 1 of title 5, United States Code, but does not include the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit within an Executive agency which has as its principal function the conduct of foreign intelligence or counterintelligence activities.

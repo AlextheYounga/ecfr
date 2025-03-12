@@ -1,0 +1,11 @@
+##### § 22.601 Existing microwave stations licensed under this part. #####
+
+Existing microwave stations (2110-2130 and 2160-2180 MHz) licensed under this part (pursuant to former rules) are subject to the transition rules in § 22.602. No new microwave systems will be authorized under this part.
+
+(a) *Coordination required.* Before filing applications for authority to modify existing stations on these channels or major amendments to such applications, carriers must coordinate the planned channel usage, using the procedure outlined in § 22.150, with affected parties in this radio service and the Point-to-Point Microwave Service and the Multipoint Distribution Service. Affected parties are licensees and other applicants with previously filed pending applications whose stations could affect or be affected by the proposed modification of the existing station in terms of interference.
+
+(b) *System parameters.* In designing a system modification, the applicant must select sites, equipment and channels that will avoid harmful interference to other users. All parties must cooperate fully and make reasonable efforts to resolve technical problems and conflicts that may inhibit the most effective and efficient use of the radio spectrum; however, a party receiving notification is not obligated to suggest changes or re-design a proposal in cases involving conflicts. The applicant must identify in the application all parties with which the technical proposal was coordinated. In the event that technical problems are not resolved or if an affected party does not respond to coordination efforts within 30 days after notification, an explanation must be contained in the application. Where technical conflicts are resolved by an agreement between the parties that requires special procedures to reduce the likelihood of harmful interference (such as the use of artificial site shielding), or would result in a reduction of quality or capacity of either system, the details thereof must be contained in the application.
+
+(c) *Bandwidth.* Applicants must request the minimum emission bandwidth necessary. The FCC does not authorize bandwidths larger than 800 kHz under this part.
+
+[59 FR 59507, Nov. 17, 1994, as amended at 70 FR 19309, Apr. 13, 2005]

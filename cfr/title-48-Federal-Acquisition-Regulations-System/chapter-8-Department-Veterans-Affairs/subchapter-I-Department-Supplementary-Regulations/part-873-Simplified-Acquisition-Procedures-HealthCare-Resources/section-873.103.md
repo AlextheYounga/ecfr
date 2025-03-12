@@ -1,0 +1,3 @@
+##### 873.103 Priority sources. #####
+
+Without regard to FAR 8.002(a)(2), except for the acquisition of services available from the Committee for Purchase From People Who Are Blind or Severely Disabled, pursuant to the Javits-Wagner-O'Day Act (41 U.S.C. 46-48c) and FAR Subpart 8.7, there are no priority sources for the acquisition of health-care resources consisting of commercial services or the use of medical equipment or space. (38 U.S.C. 8153)

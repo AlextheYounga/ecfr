@@ -1,0 +1,7 @@
+##### § 37.201 Intermediate and rest stops. #####
+
+(a) Whenever an OTRB makes an intermediate or rest stop, a passenger with a disability, including an individual using a wheelchair, shall be permitted to leave and return to the bus on the same basis as other passengers. The operator shall ensure that assistance is provided to passengers with disabilities as needed to enable the passenger to get on and off the bus at the stop (e.g., operate the lift and provide assistance with securement; provide other boarding assistance if needed, as in the case of a wheelchair user who has transferred to a vehicle seat because other wheelchair users occupied all securement locations).
+
+(b) If an OTRB operator owns, leases, or controls the facility at which a rest or intermediate stop is made, or if an OTRB operator contracts with the person who owns, leases, or controls such a facility to provide rest stop services, the OTRB operator shall ensure the facility complies fully with applicable requirements of the Americans with Disabilities Act.
+
+(c) If an OTRB equipped with an inaccessible restroom is making an express run of three hours or more without a rest stop, and a passenger with a disability who is unable to use the inaccessible restroom requests an unscheduled rest stop, the operator shall make a good faith effort to accommodate the request. The operator is not required to make the stop. However, if the operator does not make the stop, the operator shall explain to the passenger making the request the reason for its decision not to do so.

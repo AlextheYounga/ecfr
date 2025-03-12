@@ -1,0 +1,3 @@
+##### § 1215.110 User cancellation of all services. #####
+
+The user has the right to terminate its service contract with NASA at any time. A user who exercises this right after contracting for service shall pay the charge agreed upon for services previously rendered, and the cost incurred by the Government for support of pre-launch activities, services, and mission documentation not included in that charge. The user will remain responsible for the charges for any services actually provided.

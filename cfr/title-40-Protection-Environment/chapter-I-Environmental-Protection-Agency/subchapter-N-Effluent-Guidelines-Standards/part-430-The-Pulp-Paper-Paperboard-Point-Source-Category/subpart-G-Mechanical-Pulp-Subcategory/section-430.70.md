@@ -1,0 +1,3 @@
+##### § 430.70 Applicability; description of the mechanical pulp subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from: the production of pulp and paper at groundwood chemi-mechanical mills; the production of pulp and paper at groundwood mills through the application of the thermo-mechanical process; the integrated production of pulp and coarse paper, molded pulp products, and newsprint at groundwood mills; and the integrated production of pulp and fine paper at groundwood mills.

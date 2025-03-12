@@ -1,0 +1,3 @@
+##### § 845.2 Investigative hearings. #####
+
+Investigative hearings are convened to assist the NTSB in further developing the facts, conditions, and circumstances of the transportation accident or incident, which will ultimately assist the Board in determining the cause or probable cause of the accident or incident, and in ascertaining measures that will tend to prevent such accidents or incidents and promote transportation safety. Investigative hearings are fact-finding proceedings with no adverse parties. They are not subject to the provisions of the Administrative Procedure Act (5 U.S.C. 554) and are not conducted for the purpose of determining the rights, liabilities, or blame of any person or entity.

@@ -1,0 +1,9 @@
+##### § 32.211 Inactivation of certificates of registration of sealed sources and devices. #####
+
+(a) A certificate holder who no longer manufactures or initially transfers any of the sealed source(s) or device(s) covered by a particular certificate issued by the Commission shall request inactivation of the registration certificate. Such a request must be made to the NRC's Office of Nuclear Material Safety and Safeguards, ATTN: SSDR by an appropriate method listed in § 30.6(a) of this chapter and must normally be made no later than two years after initial distribution of all of the source(s) or device(s) covered by the certificate has ceased. However, if the certificate holder determines that an initial transfer was in fact the last initial transfer more than two years after that transfer, the certificate holder shall request inactivation of the certificate within 90 days of this determination and briefly describe the circumstances of the delay.
+
+(b) If a distribution license is to be terminated in accordance with § 30.36 of this chapter, the licensee shall request inactivation of its registration certificates associated with that distribution license before the Commission will terminate the license. Such a request for inactivation of certificate(s) must indicate that the license is being terminated and include the associated specific license number.
+
+(c) A specific license to manufacture or initially transfer a source or device covered only by an inactivated certificate no longer authorizes the licensee to initially transfer such sources or devices for use. Servicing of devices must be in accordance with any conditions in the certificate, including in the case of an inactive certificate.
+
+[77 FR 43695, July 25, 2012]

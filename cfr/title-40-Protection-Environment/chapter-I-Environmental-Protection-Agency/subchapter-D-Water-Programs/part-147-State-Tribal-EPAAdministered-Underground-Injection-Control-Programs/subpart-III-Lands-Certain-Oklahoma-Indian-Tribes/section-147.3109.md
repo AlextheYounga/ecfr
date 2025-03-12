@@ -1,0 +1,3 @@
+##### § 147.3109 Timing of mechanical integrity test. #####
+
+The demonstrations of mechanical integrity required by § 146.14(b)(2) of this chapter prior to approval for the operation of a Class I well shall, for an existing well, be conducted no more than 90 days prior to application for the permit and the results included in the permit application. The owner or operator shall notify the Director at least seven days in advance of the time and date of the test so that EPA observers may be present.

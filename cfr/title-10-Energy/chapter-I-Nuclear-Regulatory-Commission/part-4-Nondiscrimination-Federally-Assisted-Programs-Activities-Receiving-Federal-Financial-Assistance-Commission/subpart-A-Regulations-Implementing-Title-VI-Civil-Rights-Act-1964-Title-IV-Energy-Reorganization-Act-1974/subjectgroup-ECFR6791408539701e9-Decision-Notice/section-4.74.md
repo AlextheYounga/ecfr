@@ -1,0 +1,5 @@
+##### § 4.74 Content of orders. #####
+
+The final decision may provide for suspension or termination of, or refusal to grant or continue Federal financial assistance, in whole or in part, to which this regulation applies, and may contain such terms, conditions, and other provisions as are consistent with and will effectuate the purposes of the Act and this subpart, including provisions designed to assure that no Federal financial assistance to which this regulation applies will thereafter be extended to the applicant or recipient determined by such decision to be in default in its performance of an assurance given by it pursuant to this subpart, or to have otherwise failed to comply with this subpart, unless and until it corrects its noncompliance and satisfies the NRC that it will fully comply with this subpart. A copy of the final decision shall be mailed to the applicant or recipient and the complainant, if any.
+
+[29 FR 19277, Dec. 31, 1964, as amended at 68 FR 51344, Aug. 26, 2003]

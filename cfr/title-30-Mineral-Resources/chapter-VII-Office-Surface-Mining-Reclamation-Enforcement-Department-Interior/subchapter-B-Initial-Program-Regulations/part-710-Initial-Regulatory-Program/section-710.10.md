@@ -1,0 +1,5 @@
+##### § 710.10 Information collection. #####
+
+The collections of information contained in §§ 710.4, 710.11, and 710.12 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1029-0095. The information will be used in administering the Initial Regulatory Program. Response is required to obtain a benefit in accordance with 30 U.S.C. 1201 *et seq.* Public reporting burden for this collection of information is estimated to average one hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to Information Collection Clearance Officer, OSM, Department of the Interior, 1951 Constitution Avenue, NW., Washington, DC 20240; and to the Office of Management and Budget, Paperwork Reduction Project (1029-0095), OMB, Washington, DC 20503.
+
+[56 FR 6227, Feb. 14, 1991]

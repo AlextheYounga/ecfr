@@ -1,0 +1,3 @@
+##### 436.203 Government estimate of construction costs. #####
+
+For acquisitions using sealed bid procedures, the contracting officer may disclose the overall amount of the Government's estimate of construction costs following identification of the responsive bid most advantageous to the Government; verification of that bid's price reasonableness; and verification of the bidder's responsibility. For acquisitions using other than sealed bid procedures (e.g., negotiation), the contracting officer may disclose the overall amount of the estimate after contract award.

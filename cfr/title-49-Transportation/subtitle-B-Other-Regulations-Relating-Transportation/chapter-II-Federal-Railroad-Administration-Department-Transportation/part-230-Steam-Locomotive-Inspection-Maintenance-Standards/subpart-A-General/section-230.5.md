@@ -1,0 +1,3 @@
+##### § 230.5 Preemptive effect. #####
+
+The Locomotive Boiler Inspection Act (49 U.S.C. 20701-20703) preempts all State laws or regulations concerning locomotive safety. *Napier* v. *Atlantic Coast Line R.R.,* 272 U.S. 605 (1926). However, FRA believes Congress did not intend to preempt State laws or regulations concerning rail operations over which FRA does not exercise jurisdiction. Therefore, in issuing this part, it is FRA's intent that State laws or regulations applicable to those rail operations to which this part does not apply (*i.e.,* insular tourist operations) not be preempted.

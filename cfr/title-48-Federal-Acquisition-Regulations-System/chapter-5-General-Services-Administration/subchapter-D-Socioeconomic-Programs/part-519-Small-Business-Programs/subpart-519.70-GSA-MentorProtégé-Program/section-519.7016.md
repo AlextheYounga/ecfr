@@ -1,0 +1,3 @@
+##### 519.7016 Program review. #####
+
+At the conclusion of each year in the Mentor-Protégé Program (anniversary date of the Mentor-Protégé Program), the prime contractor and protégé, as appropriate, will formally brief the GSA Mentor-Protégé Program Manager, the technical program manager, and the contracting officer regarding Mentor-Protégé Program accomplishments pertaining to the approved Agreement.

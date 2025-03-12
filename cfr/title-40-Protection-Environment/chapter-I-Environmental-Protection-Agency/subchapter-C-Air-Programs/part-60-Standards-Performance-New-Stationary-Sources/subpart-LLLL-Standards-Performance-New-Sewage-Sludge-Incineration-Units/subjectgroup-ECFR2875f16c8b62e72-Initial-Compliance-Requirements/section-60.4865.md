@@ -1,0 +1,41 @@
+##### § 60.4865 How and when do I demonstrate initial compliance with the emission limits and standards? #####
+
+To demonstrate initial compliance with the emission limits and standards in Table 1 or 2 to this subpart, use the procedures specified in paragraph (a) of this section for particulate matter, hydrogen chloride, dioxins/furans (total mass basis or toxic equivalency basis), mercury, nitrogen oxides, sulfur dioxide, cadmium, lead, and fugitive emissions from ash handling, and follow the procedures specified in paragraph (b) of this section for carbon monoxide. In lieu of using the procedures specified in paragraph (a) of this section, you also have the option to demonstrate initial compliance using the procedures specified in paragraph (b) of this section for particulate matter, hydrogen chloride, dioxins/furans (total mass basis or toxic equivalency basis), mercury, nitrogen oxides, sulfur dioxide, cadmium, and lead. You must meet the requirements of paragraphs (a) or (b) of this section, as applicable, and paragraphs (c) and (d) of this section, according to the performance testing, monitoring, and calibration requirements in § 60.4900(a) and (b). Except as provided in paragraph (e) of this section, within 60 days after your SSI unit reaches the feed rate at which it will operate, or within 180 days after its initial startup, whichever comes first, you must demonstrate that your SSI unit meets the emission limits and standards specified in Table 1 or 2 to this subpart.
+
+(a) Demonstrate initial compliance using the performance test required in § 60.8. You must demonstrate that your SSI unit meets the emission limits and standards specified in Table 1 or 2 to this subpart for particulate matter, hydrogen chloride, dioxins/furans (total mass basis or toxic equivalency basis), mercury, nitrogen oxides, sulfur dioxide, cadmium, lead, and fugitive emissions from ash handling using the performance test. The initial performance test must be conducted using the test methods, averaging methods, and minimum sampling volumes or durations specified in Table 1 or 2 to this subpart and according to the testing, monitoring, and calibration requirements specified in § 60.4900(a).
+
+(b) Demonstrate initial compliance using a continuous emissions monitoring system or continuous automated sampling system. The option to use a continuous emissions monitoring system for hydrogen chloride, dioxins/furans, cadmium, or lead takes effect on the date a final performance specification applicable to hydrogen chloride, dioxins/furans, cadmium, or lead is published in the Federal Register. The option to use a continuous automated sampling system for dioxins/furans takes effect on the date a final performance specification for such a continuous automated sampling system is published in the Federal Register. Collect data as specified in § 60.4900(b)(6) and use the following procedures:
+
+(1) To demonstrate initial compliance with the carbon monoxide emission limit specified in Table 1 or 2 to this subpart, you must use the carbon monoxide continuous emissions monitoring system specified in § 60.4900(b). For determining compliance with the carbon monoxide concentration limit using carbon monoxide CEMS, the correction to 7 percent oxygen does not apply during periods of startup or shutdown. Use the measured carbon monoxide concentration without correcting for oxygen concentration in averaging with other carbon monoxide concentrations (corrected to 7 percent oxygen) to determine the 24-hour average value.
+
+(2) To demonstrate initial compliance with the emission limits specified in Table 1 or 2 to this subpart for particulate matter, hydrogen chloride, dioxins/furans (total mass basis or toxic equivalency basis), mercury, nitrogen oxides, sulfur dioxide, cadmium, and lead, you may substitute the use of a continuous monitoring system in lieu of conducting the initial performance test required in paragraph (a) of this section, as follows:
+
+(i) You may substitute the use of a continuous emissions monitoring system for any pollutant specified in paragraph (b)(2) of this section in lieu of conducting the initial performance test for that pollutant in paragraph (a) of this section.
+
+(ii) You may substitute the use of a continuous automated sampling system for mercury or dioxins/furans in lieu of conducting the initial mercury or dioxin/furan performance test in paragraph (a) of this section.
+
+(3) If you use a continuous emissions monitoring system to demonstrate compliance with an applicable emission limit in Table 1 or 2 to this subpart, as described in paragraph (b)(1) or (b)(2) of this section, you must use the continuous emissions monitoring system and follow the requirements specified in § 60.4900(b). You must measure emissions according to § 60.13 to calculate 1-hour arithmetic averages, corrected to 7 percent oxygen (or carbon dioxide). You must demonstrate initial compliance using a 24-hour block average of these 1-hour arithmetic average emission concentrations, calculated using Equation 19-19 in section 12.4.1 of Method 19 of 40 CFR part 60, appendix A-7.
+
+(4) If you use a continuous automated sampling system to demonstrate compliance with an applicable emission limit in Table 1 or 2 to this subpart, as described in paragraph (b)(2) of this section, you must:
+
+(i) Use the continuous automated sampling system specified in § 60.58b(p) and (q), and measure and calculate average emissions corrected to 7 percent oxygen (or carbon dioxide) according to § 60.58b(p) and your monitoring plan.
+
+(A) Use the procedures specified in § 60.58b(p) to calculate 24-hour block averages to determine compliance with the mercury emission limit in Table 1 or 2 to this subpart.
+
+(B) Use the procedures specified in § 60.58b(p) to calculate 2-week block averages to determine compliance with the dioxin/furan (total mass basis or toxic equivalency basis) emission limits in Table 1 or 2 to this subpart.
+
+(ii) Comply with the provisions in § 60.58b(q) to develop a monitoring plan. For mercury continuous automated sampling systems, you must use Performance Specification 12B of appendix B of part 75 and Procedure 5 of appendix F of this part.
+
+(5) Except as provided in paragraph (e) of this section, you must complete your initial performance evaluations required under your monitoring plan for any continuous emissions monitoring system and continuous automated sampling systems according to the provisions of § 60.4880. Your performance evaluation must be conducted using the procedures and acceptance criteria specified in § 60.4880(a)(3).
+
+(c) To demonstrate initial compliance with the dioxins/furans toxic equivalency emission limit in Table 1 or 2 to this subpart, determine dioxins/furans toxic equivalency as follows:
+
+(1) Measure the concentration of each dioxin/furan tetra- through octachlorinated-isomer emitted using Method 23 at 40 CFR part 60, appendix A-7.
+
+(2) Multiply the concentration of each dioxin/furan (tetra- through octa-chlorinated) isomer by its corresponding toxic equivalency factor specified in Table 4 to this subpart.
+
+(3) Sum the products calculated in accordance with paragraph (c)(2) of this section to obtain the total concentration of dioxins/furans emitted in terms of toxic equivalency.
+
+(d) Submit an initial compliance report, as specified in § 60.4915(c).
+
+(e) If you demonstrate initial compliance using the performance test specified in paragraph (a) of this section, then the provisions of this paragraph (e) apply. If a force majeure is about to occur, occurs, or has occurred for which you intend to assert a claim of force majeure, you must notify the Administrator in writing as specified in § 60.4915(g). You must conduct the initial performance test as soon as practicable after the force majeure occurs. The Administrator will determine whether or not to grant the extension to the initial performance test deadline, and will notify you in writing of approval or disapproval of the request for an extension as soon as practicable. Until an extension of the performance test deadline has been approved by the Administrator, you remain strictly subject to the requirements of this subpart.

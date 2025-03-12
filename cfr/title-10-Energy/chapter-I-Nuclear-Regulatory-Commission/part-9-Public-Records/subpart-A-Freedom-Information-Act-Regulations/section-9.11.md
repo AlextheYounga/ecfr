@@ -1,0 +1,3 @@
+##### § 9.11 Scope of subpart. #####
+
+This subpart prescribes procedures for making NRC agency records available to the public for inspection and copying pursuant to the provisions of the Freedom of Information Act (5 U.S.C. 552) and provides notice of procedures for obtaining NRC records otherwise publicly available. This subpart does not affect the dissemination or distribution of NRC-originated, or NRC contractor-originated, information to the public under any other NRC public, technical, or other information program or policy.

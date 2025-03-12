@@ -1,0 +1,3 @@
+##### § 417.215 Straight-up time analysis. #####
+
+A flight safety analysis must establish the straight-up time for a launch for use as a flight termination rule. Section 417.113(c) contains requirements for flight termination rules. The analysis must establish the straight-up time as the latest time after liftoff, assuming a launch vehicle malfunctioned and flew in a vertical or near vertical direction above the launch point, at which activation of the launch vehicle's flight termination system or breakup of the launch vehicle would not cause hazardous debris or critical overpressure to affect any populated or other protected area.

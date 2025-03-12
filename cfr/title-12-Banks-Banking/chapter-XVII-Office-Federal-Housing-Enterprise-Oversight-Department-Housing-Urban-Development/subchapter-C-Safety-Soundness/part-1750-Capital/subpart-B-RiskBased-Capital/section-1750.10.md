@@ -1,0 +1,3 @@
+##### § 1750.10 General. #####
+
+The regulation contained in this subpart B establishes the methodology for computing the risk-based capital level for each Enterprise. The board of directors of each Enterprise is responsible for ensuring that the Enterprise maintains total capital at a level that is sufficient to ensure the continued financial viability of the Enterprise and is equal to or exceeds the risk-based capital level computed pursuant to this subpart B.

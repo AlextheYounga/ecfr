@@ -1,0 +1,5 @@
+##### § 489.23 Specific limitation on charges for services provided to certain enrollees of fee-for-service FEHB plans. #####
+
+A provider that furnishes inpatient hospital services to a retired Federal worker age 65 or older who is enrolled in a fee-for-service FEHB plan and who is not covered under Medicare Part A, must accept, as payment in full, an amount that approximates as closely as possible the Medicare inpatient hospital prospective payment system (PPS) rate established under part 412. The payment to the provider is composed of a payment from the FEHB plan and a payment from the enrollee. This combined payment approximates the Medicare PPS rate. The payment from the FEHB plan approximates, as closely as possible, the Medicare PPS rate minus any applicable enrollee deductible, coinsurance, or copayment amount. The payment from the enrollee is equal to the applicable deductible, coinsurance, or copayment amount.
+
+[62 FR 56111, Oct. 29, 1997]

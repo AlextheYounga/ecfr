@@ -1,0 +1,3 @@
+##### § 141.540 Who has to develop a disinfection benchmark? #####
+
+If you are a subpart H system required to develop a disinfection profile under §§ 141.530 through 141.536, your system must develop a Disinfection Benchmark if you decide to make a significant change to your disinfection practice. Your system must consult with the State for approval before you can implement a significant disinfection practice change.

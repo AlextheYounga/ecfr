@@ -1,0 +1,5 @@
+##### § 68.614 Oppositions and appeals. #####
+
+(a) Oppositions filed in response to the Administrative Council for Terminal Attachments' public notice of technical criteria proposed for publication must be received by the Administrative Council for Terminal Attachments within 30 days of public notice to be considered. Oppositions to proposed technical criteria shall be addressed through the appeals procedures of the authoring standards development organization and of the American National Standards Institute. If these procedures have been exhausted, the aggrieved party shall file its opposition with the Commission for *de novo* review.
+
+(b) As an alternative, oppositions to proposed technical criteria may be filed directly with the Commission for *de novo* review within the 30 day public notice period.

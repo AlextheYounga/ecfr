@@ -1,0 +1,7 @@
+##### § 73.513 Noncommercial educational FM stations operating on unreserved channels. #####
+
+(a) Noncommercial educational FM stations other than Class D (secondary) which operate on Channels 221 through 300 but which comply with § 73.503 as to licensing requirements and the nature of the service rendered, must comply with the provisions of the following sections of subpart B: §§ 73.201 through 73.213 (Classification of FM Broadcast Stations and Allocations of Frequencies) and such other sections of subpart B as are made specially applicable by the provisions of this subpart C. Stations in Alaska authorized before August 11, 1982, using Channels 261-300 need not meet the minimum effective radiated power requirement specified in § 73.211(a). In all other respects, stations operating on Channels 221 through 300 are to be governed by the provisions of this subpart and not subpart B.
+
+(b) When a noncommercial educational applicant is among mutually exclusive applications for an unreserved FM channel, the mutually exclusive applications will be considered pursuant to Subpart I—Competitive Bidding Procedures and not Subpart K—Application and Selection Procedures On Reserved Noncommercial Educational Channels.
+
+[47 FR 30068, July 12, 1982, as amended at 65 FR 36378, June 8, 2000]

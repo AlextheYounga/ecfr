@@ -1,0 +1,3 @@
+##### § 57.3360 Ground support use. #####
+
+Ground support shall be used where ground conditions, or mining experience in similar ground conditions in the mine, indicate that it is necessary. When ground support is necessary, the support system shall be designed, installed, and maintained to control the ground in places where persons work or travel in performing their assigned tasks. Damaged, loosened, or dislodged timber use for ground support which creates a hazard to persons shall be repaired or replaced prior to any work or travel in the affected area.

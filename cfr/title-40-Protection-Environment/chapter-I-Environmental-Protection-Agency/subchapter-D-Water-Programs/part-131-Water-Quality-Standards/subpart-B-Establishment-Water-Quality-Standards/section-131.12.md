@@ -1,0 +1,19 @@
+##### § 131.12 Antidegradation policy and implementation methods. #####
+
+(a) The State shall develop and adopt a statewide antidegradation policy. The antidegradation policy shall, at a minimum, be consistent with the following:
+
+(1) Existing instream water uses and the level of water quality necessary to protect the existing uses shall be maintained and protected.
+
+(2) Where the quality of the waters exceeds levels necessary to support the protection and propagation of fish, shellfish, and wildlife and recreation in and on the water, that quality shall be maintained and protected unless the State finds, after full satisfaction of the intergovernmental coordination and public participation provisions of the State's continuing planning process, that allowing lower water quality is necessary to accommodate important economic or social development in the area in which the waters are located. In allowing such degradation or lower water quality, the State shall assure water quality adequate to protect existing uses fully. Further, the State shall assure that there shall be achieved the highest statutory and regulatory requirements for all new and existing point sources and all cost-effective and reasonable best management practices for nonpoint source control.
+
+(i) The State may identify waters for the protections described in paragraph (a)(2) of this section on a parameter-by-parameter basis or on a water body-by-water body basis. Where the State identifies waters for antidegradation protection on a water body-by-water body basis, the State shall provide an opportunity for public involvement in any decisions about whether the protections described in paragraph (a)(2) of this section will be afforded to a water body, and the factors considered when making those decisions. Further, the State shall not exclude a water body from the protections described in paragraph (a)(2) of this section solely because water quality does not exceed levels necessary to support all of the uses specified in section 101(a)(2) of the Act.
+
+(ii) Before allowing any lowering of high water quality, pursuant to paragraph (a)(2) of this section, the State shall find, after an analysis of alternatives, that such a lowering is necessary to accommodate important economic or social development in the area in which the waters are located. The analysis of alternatives shall evaluate a range of practicable alternatives that would prevent or lessen the degradation associated with the proposed activity. When the analysis of alternatives identifies one or more practicable alternatives, the State shall only find that a lowering is necessary if one such alternative is selected for implementation.
+
+(3) Where high quality waters constitute an outstanding National resource, such as waters of National and State parks and wildlife refuges and waters of exceptional recreational or ecological significance, that water quality shall be maintained and protected.
+
+(4) In those cases where potential water quality impairment associated with a thermal discharge is involved, the antidegradation policy and implementing method shall be consistent with section 316 of the Act.
+
+(b) The State shall develop methods for implementing the antidegradation policy that are, at a minimum, consistent with the State's policy and with paragraph (a) of this section. The State shall provide an opportunity for public involvement during the development and any subsequent revisions of the implementation methods, and shall make the methods available to the public.
+
+[48 FR 51405, Nov. 8, 1983, as amended at 80 FR 51047, Aug. 21, 2015]

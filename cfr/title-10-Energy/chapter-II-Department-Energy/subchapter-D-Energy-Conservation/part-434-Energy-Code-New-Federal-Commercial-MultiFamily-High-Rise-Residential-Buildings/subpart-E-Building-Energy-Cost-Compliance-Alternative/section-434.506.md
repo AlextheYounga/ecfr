@@ -1,0 +1,3 @@
+##### § 434.506 Use of the reference building to determine the energy cost budget. #####
+
+506.1 Each floor shall be oriented in the same manner for the Reference Building as in the Proposed Design. The form, gross and conditioned floor areas of each floor and the number of floors shall be the same as in the Proposed Design. All other characteristics, such as lighting, envelope and HVAC systems and equipment, shall meet the requirements of subsections 301, 401, 402, 403 and 404.

@@ -1,0 +1,7 @@
+##### § 210.13 Unpaid items. #####
+
+(a) *Right of recovery.* If a Reserve Bank does not receive payment in actually and finally collected funds for an item, the Reserve Bank shall recover by charge-back or otherwise the amount of the item from the sender, prior collecting bank, paying bank, or returning bank from or through which it was received, whether or not the item itself can be sent back. In the event of recovery from such a person, no person, including the owner or holder of the item, shall, for the purpose of obtaining payment of the amount of the item, have any interest in any reserve balance or other funds or property in the Reserve Bank's possession of the bank that failed to make payment in actually and finally collected funds.
+
+(b) *Suspension or closing of bank.* A Reserve Bank shall not pay or act on a draft, authorization to charge (including a charge authorized by § 210.9(b)(5)), or other order on a reserve balance or other funds in its possession for the purpose of settling for items under § 210.9 or § 210.12 after it receives notice of suspension or closing of the bank making the settlement for that bank's own or another's account.
+
+[Reg. J, 59 FR 22966, May 4, 1994, as amended at Reg. J, 69 FR 62561, Oct. 27, 2004]

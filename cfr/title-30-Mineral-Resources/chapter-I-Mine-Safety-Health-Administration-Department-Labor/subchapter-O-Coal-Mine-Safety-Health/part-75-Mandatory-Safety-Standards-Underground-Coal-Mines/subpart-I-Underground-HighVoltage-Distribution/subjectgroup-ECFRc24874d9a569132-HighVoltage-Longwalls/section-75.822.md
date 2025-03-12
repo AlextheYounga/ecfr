@@ -1,0 +1,3 @@
+##### § 75.822 Underground high-voltage longwall cables. #####
+
+In addition to the high-voltage cable design specifications in § 75.804 of this part, high-voltage cables for use on longwalls may be a type SHD cable with a center ground-check conductor no smaller than a No. 16 AWG stranded conductor. The cables must be MSHA accepted as flame-resistant under part 18 or approved under subpart K of part 7.

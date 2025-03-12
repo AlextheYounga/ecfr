@@ -1,0 +1,9 @@
+##### § 30.19 Self-luminous products containing tritium, krypton-85, or promethium-147. #####
+
+(a) Except for persons who manufacture, process, produce, or initially transfer for sale or distribution self-luminous products containing tritium, krypton-85, or promethium-147, and except as provided in paragraph (c) of this section, any person is exempt from the requirements for a license set forth in section 81 of the Act and from the regulations in parts 20 and 30 through 36 and 39 of this chapter to the extent that such person receives, possesses, uses, transfers, owns, or acquires tritium, krypton-85, or promethium-147 in self-luminous products manufactured, processed, produced, or initially transferred in accordance with a specific license issued pursuant to § 32.22 of this chapter, which license authorizes the initial transfer of the product for use under this section.
+
+(b) Any person who desires to manufacture, process, or produce, or initially transfer for sale or distribution self-luminous products containing tritium, krypton-85, or promethium-147 for use under paragraph (a) of this section, should apply for a license under § 32.22 of this chapter and for a certificate of registration in accordance with § 32.210 of this chapter.
+
+(c) The exemption in paragraph (a) of this section does not apply to tritium, krypton-85, or promethium-147 used in products primarily for frivolous purposes or in toys or adornments.
+
+[34 FR 9026, June 6, 1969, as amended at 40 FR 8785, Mar. 3, 1975; 43 FR 6921, Feb. 17, 1978; 52 FR 8241, Mar. 17, 1987; 58 FR 7736, Feb. 9, 1993; 77 FR 43689, July 25, 2012]

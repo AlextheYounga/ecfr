@@ -1,0 +1,5 @@
+##### § 21.28 Age requirements, Regular Corps, senior assistant grade and below. #####
+
+No candidate for appointment to the Regular Corps, except in the nurse category, shall be appointed (a) after age 31 to the permanent junior assistant grade, (b) after age 34 to the permanent assistant grade, or (c) after age 37 to the permanent senior assistant grade: *Provided,* That the Surgeon General may waive these age limitations, subject to other provisions of law, in the case of any officer of the Reserve Corps who is recommended for appointment to the Regular Corps by the Chief of the Bureau to which he is assigned and who has been on continuous active duty for at least two years immediately preceding the date of such recommendation. The age limitations for candidates who have had prior active service in the Commissioned Corps of the Public Health Service shall be increased by the period of such service.
+
+[27 FR 3886, Apr. 24, 1962]

@@ -1,0 +1,3 @@
+##### § 330.503 Ensuring agency compliance with the principles of open competition. #####
+
+OPM will review appointments made from competitive examinations and subsequent position changes to determine if agencies are complying with open competition principles. The fact that an agency waited 90 days to make the changes, as required under this subpart, is not an absolute protection. If OPM finds that an agency has not complied with these principles, either in an individual instance or on a program-wide basis, OPM will order an agency to correct the situation.

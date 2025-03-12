@@ -1,0 +1,15 @@
+##### § 74.532 Licensing requirements. #####
+
+(a) An aural broadcast STL or an aural broadcast intercity relay station will be licensed only to the licensee or licensees of broadcast stations, including low power FM stations, other than international broadcast stations, and for use with broadcast stations owned entirely by or under common control of the licensee or licensees. An aural broadcast intercity relay station also will be licensed for use by low power FM stations, noncommercial educational FM translator stations assigned to reserved channels (Channels 201-220) and owned and operated by their primary station, by FM translator stations operating within the coverage contour of their primary stations, and by FM booster stations. Aural auxiliary stations licensed to low power FM stations will be assigned on a secondary basis; *i.e.,* subject to the condition that no harmful interference is caused to other aural auxiliary stations assigned to radio broadcast stations. Auxiliary stations licensed to low power FM stations must accept any interference caused by stations having primary use of aural auxiliary frequencies.
+
+(b) More than one aural broadcast STL or intercity relay station may be licensed to a single licensee upon a satisfactory showing that the additional stations are needed to provide different program circuits to more than one broadcast station, to provide program circuits from other studios, or to provide one or more intermediate relay stations over a path which cannot be covered with a single station due to terrain or distance.
+
+(c) If more than one broadcast station or class of broadcast station is to be served by a single aural broadcast auxiliary station, this information must be stated in the application for construction permit or license.
+
+(d) Licensees of aural broadcast STL and intercity relay stations may be authorized to operate one or more aural broadcast microwave booster stations for the purpose of relaying signals over a path that cannot be covered with a single station.
+
+(e) Each aural broadcast auxiliary station will be licensed at a specified transmitter location to communicate with a specified receiving location, and the direction of the main radiation lobe of the transmitting antenna will be a term of the station authorization.
+
+(f) In case of permanent discontinuance of operations of a station licensed under this subpart, the licensee shall cancel the station license using FCC Form 601. For purposes of this section, a station which is not operated for a period of one year is considered to have been permanently discontinued.
+
+[28 FR 13716, Dec. 14, 1963, as amended at 49 FR 7129, Feb. 27, 1984; 49 FR 10930, Mar. 23, 1984; 52 FR 31403, Aug. 20, 1987; 55 FR 50693, Dec. 10, 1990; 57 FR 41111, Sept. 9, 1992; 58 FR 19775, Apr. 16, 1993; 65 FR 7649, Feb. 15, 2000; 68 FR 12766, Mar. 17, 2003]

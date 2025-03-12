@@ -1,0 +1,9 @@
+##### § 1.497 Inventor's oath or declaration under 35 U.S.C. 371(c)(4). #####
+
+(a) When an applicant of an international application desires to enter the national stage under 35 U.S.C. 371 pursuant to § 1.495, and a declaration in compliance with § 1.63 has not been previously submitted in the international application under PCT Rule 4.17(iv) within the time limits provided for in PCT Rule 26*ter.*1, the applicant must file the inventor's oath or declaration. The inventor, or each individual who is a joint inventor of a claimed invention, in an application for patent must execute an oath or declaration in accordance with the conditions and requirements of § 1.63, except as provided for in § 1.64.
+
+(b) An oath or declaration under § 1.63 will be accepted as complying with 35 U.S.C. 371(c)(4) if it complies with the requirements of §§ 1.63(a), (c) and (g). A substitute statement under § 1.64 will be accepted as complying with 35 U.S.C. 371(c)(4) if it complies with the requirements of §§ 1.64(b)(1), (c) and (e) and identifies the person executing the substitute statement. If a newly executed inventor's oath or declaration under § 1.63 or substitute statement under § 1.64 is not required pursuant to § 1.63(d), submission of the copy of the previously executed oath, declaration, or substitute statement under § 1.63(d)(1) is required to comply with 35 U.S.C. 371(c)(4).
+
+(c) If an oath or declaration under § 1.63, or substitute statement under § 1.64, meeting the requirements of § 1.497(b) does not also meet the requirements of § 1.63 or § 1.64, an oath, declaration, substitute statement, or application data sheet in accordance with § 1.76 to comply with § 1.63 or § 1.64 will be required.
+
+[77 FR 48824, Aug. 14, 2012]

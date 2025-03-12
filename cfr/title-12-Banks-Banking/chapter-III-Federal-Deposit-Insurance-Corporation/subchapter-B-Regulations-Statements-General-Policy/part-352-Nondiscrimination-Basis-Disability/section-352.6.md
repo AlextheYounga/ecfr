@@ -1,0 +1,3 @@
+##### § 352.6 Employment. #####
+
+No qualified individual with a disability shall, on the basis of that disability, be subjected to discrimination in employment in any program or activity conducted by the FDIC. The definitions, requirements, and procedures (including those pertaining to employment discrimination complaints) of sections 501 of the Rehabilitation Act of 1973, as established in 29 CFR parts 1614 and 1630, shall apply to employment in the FDIC.

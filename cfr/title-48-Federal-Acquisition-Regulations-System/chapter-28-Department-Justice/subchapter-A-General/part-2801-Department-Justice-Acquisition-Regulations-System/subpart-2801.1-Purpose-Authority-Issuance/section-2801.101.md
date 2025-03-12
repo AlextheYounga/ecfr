@@ -1,0 +1,7 @@
+##### 2801.101 Purpose. #####
+
+(a) The Justice Acquisition Regulations (JAR) in this chapter are established to provide procurement regulations that supplement the Federal Acquisition Regulation (FAR), 48 CFR chapter 1. As such, the regulations contained in the JAR will include coverage of only those areas where agency implementation is required by the FAR, or where Department of Justice (DOJ) policies and procedures exist that supplement FAR coverage and directly affect the contractual relationship between the Department and potential or existing contractors. The JAR will not repeat FAR coverage.
+
+(b) The FAR contains many references to agency procedures. If the JAR does not include supplemental guidance under the corresponding part or subpart, it is because the FAR language is considered to be sufficient. In those instances where the JAR states “in accordance with bureau procedures,” it does not mean that the bureau must have a procedure. It is intended that the bureau procedures are to be followed if they exist, however, it does not mean that the bureau must have a formal written procedure. Where both the JAR and bureau procedures do not address a FAR subject, the FAR guidance is to be followed.
+
+(c) The JAR is not a complete system of regulations and must be used in conjunction with the FAR.

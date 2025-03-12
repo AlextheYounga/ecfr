@@ -1,0 +1,3 @@
+##### § 72.5 State authority. #####
+
+Consistent with section 116 of the Act, the provisions of the Acid Rain Program shall not be construed in any manner to preclude any State from adopting and enforcing any other air quality requirement (including any continuous emissions monitoring) that is not less stringent than, and does not alter, any requirement applicable to an affected unit or affected source under the Acid Rain Program; *provided* that such State requirement, if articulated in an operating permit, is in a portion of the operating permit separate from the portion containing the Acid Rain Program requirements.

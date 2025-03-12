@@ -1,0 +1,11 @@
+##### § 745.220 Scope and applicability. #####
+
+(a) This subpart contains procedures and requirements for the accreditation of training programs for lead-based paint activities and renovations, procedures and requirements for the certification of individuals and firms engaged in lead-based paint activities, and work practice standards for performing such activities. This subpart also requires that, except as discussed below, all lead-based paint activities, as defined in this subpart, be performed by certified individuals and firms.
+
+(b) This subpart applies to all individuals and firms who are engaged in lead-based paint activities as defined in § 745.223, except persons who perform these activities within residential dwellings that they own, unless the residential dwelling is occupied by a person or persons other than the owner or the owner's immediate family while these activities are being performed, or a child residing in the building has been identified as having an elevated blood lead level. This subpart applies only in those States or Indian Country that do not have an authorized State or Tribal program pursuant to § 745.324 of subpart Q.
+
+(c) Each department, agency, and instrumentality of the executive, legislative, and judicial branches of the Federal Government having jurisdiction over any property or facility, or engaged in any activity resulting, or which may result, in a lead-based paint hazard, and each officer, agent, or employee thereof shall be subject to, and comply with, all Federal, State, interstate, and local requirements, both substantive and procedural, including the requirements of this subpart regarding lead-based paint, lead-based paint activities, and lead-based paint hazards.
+
+(d) While this subpart establishes specific requirements for performing lead-based paint activities should they be undertaken, nothing in this subpart requires that the owner or occupant undertake any particular lead-based paint activity.
+
+[61 FR 45813, Aug. 29, 1996, as amended at 73 FR 21766, Apr. 22, 2008]

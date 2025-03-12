@@ -1,0 +1,1 @@
+##### 232.705 Contract clauses. #####

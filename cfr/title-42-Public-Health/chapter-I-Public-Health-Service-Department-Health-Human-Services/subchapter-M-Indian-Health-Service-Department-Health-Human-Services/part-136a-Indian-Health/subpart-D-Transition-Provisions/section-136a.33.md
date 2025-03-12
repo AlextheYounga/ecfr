@@ -1,0 +1,7 @@
+##### § 136a.33 Grace period. #####
+
+(a) Upon the effective date referred to in § 36a.32(a), individuals who would lose their eligibility under the new eligilibity regulations published on September 16, 1987, and who have made use of an Indian Health Service of Indian Health Service funded service within three years prior to September 16, 1987 (date of publication of the new eligibility regulations) shall retain their eligibility for a six month grace period ending September 16, 1988. During this grace period such individual's eligibility will continue to be determined under the former regulations except that the new residency requirements established by subparts A and B must be met for the individual to be eligible.
+
+(b) All individuals who receive services during the grace period based on paragraph (a) of this section and whose eligibility will terminate on September 16, 1988, shall be notified in writing that after September 16, 1988 they will no longer the eligible for services as Indian Health Service beneficiaries. Such written notice should include an explanation of their appeal rights as provided in § 36a.14 of the part. These patients shall be offered assistance in locating other health care providers and medical assistance programs.
+
+[52 FR 35050, Sept. 16, 1987, as amended at 65 FR 53914, Sept. 6, 2000]

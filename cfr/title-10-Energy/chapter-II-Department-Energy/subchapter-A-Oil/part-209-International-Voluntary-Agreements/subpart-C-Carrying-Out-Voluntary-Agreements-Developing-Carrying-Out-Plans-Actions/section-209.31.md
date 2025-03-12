@@ -1,0 +1,3 @@
+##### § 209.31 Purpose and scope. #####
+
+This subpart establishes the standards and procedures by which persons engaged in the business of producing, transporting, refining, distributing, or storing petroleum products shall carry out voluntary agreements and develop and carry out plans of action which are required to implement the allocation and information provisions of the International Energy Program.

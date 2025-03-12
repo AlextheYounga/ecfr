@@ -1,0 +1,3 @@
+##### § 615.5360 Reconsideration based on change in circumstances. #####
+
+Upon a change in circumstances, an institution may request the Farm Credit Administration to reconsider the terms of its capital directive or may propose changes in the plan to achieve the institution's applicable minimum capital ratios. The Farm Credit Administration also may take such action on its own motion. The Farm Credit Administration may decline to consider requests or proposals that are not based on a significant change in circumstances or are repetitive or frivolous. Pending a decision on reconsideration, the capital directive and plan shall continue in full force and effect.

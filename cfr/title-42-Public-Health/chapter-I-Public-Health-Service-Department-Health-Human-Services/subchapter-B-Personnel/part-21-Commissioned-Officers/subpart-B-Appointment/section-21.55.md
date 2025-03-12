@@ -1,0 +1,3 @@
+##### § 21.55 Appointment to higher grades; candidates exceptionally qualified in specialized fields. #####
+
+Any candidate eligible for examination for appointment in the grade of assistant pursuant to § 21.26 who, upon examination for such purpose, is found exceptionally qualified for the performance of duties requiring highly specialized training or experience may be recommended for appointment in the Reserve Corps in any grade up to and including the director grade without regard to the additional years of postgraduate training or experience prescribed for grades above the assistant grade.

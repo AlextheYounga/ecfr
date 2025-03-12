@@ -1,0 +1,3 @@
+##### § 136.3 Administrative instructions. #####
+
+The service periodically issues administrative instructions to its officers and employees, which are primarily found in the *Indian Health Service Manual* and the Area Office and program office supplements. These instructions are operating procedures to assist officers and employees in carrying out their responsibilities, and are not regulations establishing program requirements which are binding upon members of the general public.

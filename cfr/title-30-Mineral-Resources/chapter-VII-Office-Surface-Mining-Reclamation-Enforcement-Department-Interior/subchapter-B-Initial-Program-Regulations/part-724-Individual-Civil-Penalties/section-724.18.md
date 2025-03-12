@@ -1,0 +1,11 @@
+##### § 724.18 Payment of penalty. #####
+
+(a) *No abatement or appeal.* If a notice of proposed individual civil penalty assessment becomes a final order in the absence of a petition for review or abatement agreement, the penalty shall be due upon issuance of the final order.
+
+(b) *Appeal.* If an individual named in a notice of proposed individual civil penalty assessment files a petition for review in accordance with 43 CFR 4.1300 *et seq.,* the penalty shall be due upon issuance of a final administrative order affirming, increasing or decreasing the proposed penalty.
+
+(c) *Abatement agreement.* Where the Office and the corporate permittee or individual have agreed in writing on a plan for the abatement of or compliance with the unabated order, an individual named in a notice of proposed individual civil penalty assessment may postpone payment until receiving either a final order from the Office stating that the penalty is due on the date of such final order, or written notice that abatement or compliance is satisfactory and the penalty has been withdrawn.
+
+(d) *Delinquent payment.* Following the expiration of 30 days after the issuance of a final order assessing an individual civil penalty, any delinquent penalty shall be subject to interest at the rate established by the U.S. Department of the Treasury for late charges on late payments to the Federal Government. The Treasury current value of funds rate is published by the Fiscal Service in the notices section of the Federal Register and on Treasury's Web site. Interest on unpaid penalties will run from the date payment first was due until the date of payment. Failure to pay overdue penalties may result in one or more of the actions specified in § 870.23(a) through (f) of this chapter. Delinquent penalties are subject to late payment penalties specified in § 870.21(c) of this chapter and processing and handling charges specified in § 870.21(d) of this chapter.
+
+[53 FR 3674, Feb. 8, 1988, as amended at 73 FR 67630, Nov. 14, 2008]

@@ -1,0 +1,3 @@
+##### § 746.10 Information collection. #####
+
+The information collection requirements contained in this section have been approved by OSM of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0026. The information is being collected to determine compliance with section 523 of the Act (30 U.S.C. 1273) and this part. The obligation to respond to the information collection requirements of this part is mandatory.

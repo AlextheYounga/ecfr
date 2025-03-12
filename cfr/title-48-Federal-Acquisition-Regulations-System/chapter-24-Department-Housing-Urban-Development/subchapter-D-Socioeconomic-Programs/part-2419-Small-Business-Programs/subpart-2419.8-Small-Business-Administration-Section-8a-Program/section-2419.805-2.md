@@ -1,0 +1,5 @@
+##### 2419.805-2 Procedures. #####
+
+(b)(3) For requirements exceeding the simplified acquisition threshold that are processed under the Partnership Agreement cited in 2419.800, the contracting officer shall submit the name, address, and telephone number of the low bidder (sealed bid requirements) or the apparent successful offeror (negotiated acquisitions) to the SBA Business Opportunity Specialist at the field office servicing the identified 8(a) firm. The SBA will determine the eligibility of the firm(s) and advise the contracting officer within 2 working days of the receipt of the request. If the firm is determined to be ineligible, the contracting officer will submit information on the next low offeror or next apparent successful offeror (as applicable) to the cognizant SBA field office.
+
+[77 FR 73529, Dec. 10, 2012]

@@ -1,0 +1,3 @@
+##### § 27.1211 Unattended operation. #####
+
+Unattended operation of licensed BRS/EBS stations is permitted without further authority. An unattended relay station may be employed to receive and retransmit signals of another station provided that the transmitter is equipped with circuits which permit it to radiate only when the signal intended to be retransmitted is present at the receiver input terminals.

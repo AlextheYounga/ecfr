@@ -1,0 +1,15 @@
+##### § 550.184 Annual certification. #####
+
+(a) Each newly hired criminal investigator who will receive availability pay and the appropriate supervisory officer (as designated by the head of the agency or authorized designee) shall make an initial certification to the head of the agency attesting that the investigator is expected to meet the substantial hours requirement in § 550.183 during the upcoming 1-year period. A similar certification shall be made for a criminal investigator who will begin receiving availability pay after a period of nonreceipt (e.g., a designated voluntary opt-out period under § 550.182(e)).
+
+(b) Each criminal investigator who is receiving availability pay and the appropriate supervisory officer (as designated by the head of the agency or authorized designee) shall make an annual certification to the head of the agency attesting that the investigator currently meets, and is expected to continue to meet during the upcoming 1-year period, the substantial hours requirement in § 550.183.
+
+(c) A certification shall no longer apply when the employee separates from Federal service, is employed by another agency, moves to a position that does not qualify as a criminal investigator position, or begins a voluntary opt-out period under § 550.182(e).
+
+(d) The employing agency shall ensure that criminal investigators receiving availability pay comply with the substantial hours requirement in § 550.183, as certified in accordance with this section. The employing agency may deny or cancel a certification based on a finding that an investigator has failed to perform unscheduled duty (availability or work) as assigned or reported, or is unable to perform unscheduled duty for an extended period due to physical or health reasons. If a certification is denied or canceled, the investigator's entitlement to availability pay shall be suspended for an appropriate period, consistent with agency policies. If the investigator's certification was valid when made, the suspension of availability pay shall be effected prospectively.
+
+(e) An involuntary suspension of availability pay resulting from a denial or cancellation of certification under paragraph (d) of this section is a reduction in pay for the purpose of applying the adverse action procedures of 5 U.S.C. 7512 and part 752 of this chapter, except for special agents in the Foreign Service. For special agents in the Foreign Service, an involuntary suspension of availability pay resulting from a denial or cancellation of certification under paragraph (d) of this section will be administered under procedures established by regulations of the Department of State.
+
+(f) The head of an agency (or authorized designee) may prescribe any additional regulations necessary to administer the certification requirement, including procedures for retroactive correction in cases in which a certification is issued belatedly or lapses due to administrative error.
+
+[59 FR 66151, Dec. 23, 1994, as amended at 64 FR 4520, Jan. 29, 1999]

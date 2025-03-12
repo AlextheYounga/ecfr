@@ -1,0 +1,3 @@
+##### § 617.7110 How should a qualified lender disclose the cost of borrower stock or participation certificates? #####
+
+The cost of borrower stock or participation certificates must be included in the effective interest rate calculation at the time the stock or participation certificate is purchased in connection with a loan transaction. For subsequent loans to existing borrowers, only the cost of new stock or participation certificates, if any, purchased in connection with a new loan or advance of new funds must be included in the effective interest rate calculation for the transaction.

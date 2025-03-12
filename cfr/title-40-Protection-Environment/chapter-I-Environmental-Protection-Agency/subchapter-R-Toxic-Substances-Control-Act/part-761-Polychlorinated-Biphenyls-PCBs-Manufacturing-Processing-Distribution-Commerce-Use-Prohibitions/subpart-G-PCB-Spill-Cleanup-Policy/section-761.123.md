@@ -1,0 +1,49 @@
+##### § 761.123 Definitions. #####
+
+For purposes of this policy, certain words and phrases are used to denote specific materials, procedures, or circumstances. The following definitions are provided for purposes of clarity and are not to be taken as exhaustive lists of situations and materials covered by the policy.
+
+*Double wash/rinse* means a minimum requirement to cleanse solid surfaces (both impervious and nonimpervious) two times with an appropriate solvent or other material in which PCBs are at least 5 percent soluble (by weight). A volume of PCB-free fluid sufficient to cover the contaminated surface completely must be used in each wash/rinse. The wash/rinse requirement does not mean the mere spreading of solvent or other fluid over the surface, nor does the requirement mean a once-over wipe with a soaked cloth. Precautions must be taken to contain any runoff resulting from the cleansing and to dispose properly of wastes generated during the cleansing.
+
+*Emergency situation* means adverse conditions caused by manmade or natural incidents that threaten lives, property, or public health and safety; require prompt responsive action from the local, State, Tribal, territorial, or Federal government; and result in or are reasonably expected to result in: (1) A declaration by either the President of the United States or Governor of the affected State of a natural disaster or emergency; or, (2) an incident funded under FEMA via a Stafford Act disaster declaration or emergency declaration. Examples of emergency situations may include civil emergencies or adverse natural conditions, such as hurricanes, earthquakes, or tornados.
+
+*High-concentration PCBs* means PCBs that contain 500 ppm or greater PCBs, or those materials which EPA requires to be assumed to contain 500 ppm or greater PCBs in the absence of testing.
+
+*High-contact industrial surface* means a surface in an industrial setting which is repeatedly touched, often for relatively long periods of time. Manned machinery and control panels are examples of high-contact industrial surfaces. High-contact industrial surfaces are generally of impervious solid material. Examples of low-contact industrial surfaces include ceilings, walls, floors, roofs, roadways and sidewalks in the industrial area, utility poles, unmanned machinery, concrete pads beneath electrical equipment, curbing, exterior structural building components, indoor vaults, and pipes.
+
+*High-contact residential/commercial surface* means a surface in a residential/commercial area which is repeatedly touched, often for relatively long periods of time. Doors, wall areas below 6 feet in height, uncovered flooring, windowsills, fencing, bannisters, stairs, automobiles, and children's play areas such as outdoor patios and sidewalks are examples of high-contact residential/commercial surfaces. Examples of low-contact residential/commercial surfaces include interior ceilings, interior wall areas above 6 feet in height, roofs, asphalt roadways, concrete roadways, wooden utility poles, unmanned machinery, concrete pads beneath electrical equipment, curbing, exterior structural building components (e.g., aluminum/vinyl siding, cinder block, asphalt tiles), and pipes.
+
+*Impervious solid surfaces* means solid surfaces which are nonporous and thus unlikely to absorb spilled PCBs within the short period of time required for cleanup of spills under this policy. Impervious solid surfaces include, but are not limited to, metals, glass, aluminum siding, and enameled or laminated surfaces.
+
+*Low-concentration PCBs* means PCBs that are tested and found to contain less than 500 ppm PCBs, or those PCB-containing materials which EPA requires to be assumed to be at concentrations below 500 ppm (i.e., untested mineral oil dielectric fluid).
+
+*Nonimpervious solid surfaces* means solid surfaces which are porous and are more likely to absorb spilled PCBs prior to completion of the cleanup requirements prescribed in this policy. Nonimpervious solid surfaces include, but are not limited to, wood, concrete, asphalt, and plasterboard.
+
+*Nonrestricted access areas* means any area other than restricted access, outdoor electrical substations, and other restricted access locations, as defined in this section. In addition to residential/commercial areas, these areas include unrestricted access rural areas (areas of low density development and population where access is uncontrolled by either man-made barriers or naturally occurring barriers, such as rough terrain, mountains, or cliffs).
+
+*Other restricted access (nonsubstation) locations* means areas other than electrical substations that are at least 0.1 kilometer (km) from a residential/commercial area and limited by man-made barriers (e.g., fences and walls) or substantially limited by naturally occurring barriers such as mountains, cliffs, or rough terrain. These areas generally include industrial facilities and extremely remote rural locations. (Areas where access is restricted but are less than 0.1 km from a residential/commercial area are considered to be residential/commercial areas.)
+
+*Outdoor electrical substations* means outdoor, fenced-off, and restricted access areas used in the transmission and/or distribution of electrical power Outdoor electrical substations restrict public access by being fenced or walled off as defined under § 761.30(l)(1)(ii). For purposes of this TSCA policy, outdoor electrical substations are defined as being located at least 0.1 km from a residential/commercial area. Outdoor fenced-off and restricted access areas used in the transmission and/or distribution of electrical power which are located less than 0.1. km from a residential/commercial area are considered to be residential/commercial areas.
+
+*PCBs* means polychlorinated biphenyls as defined under § 761.3. As specified under § 761.1(b), no requirements may be avoided through dilution of the PCB concentration.
+
+*Requirements and standards* means:
+
+(1) “Requirements” as used in this policy refers to both the procedural responses and numerical decontamination levels set forth in this policy as constituting adequate cleanup of PCBs.
+
+(2) “Standards” refers to the numerical decontamination levels set forth in this policy.
+
+*Residential/commercial areas* means those areas where people live or reside, or where people work in other than manufacturing or farming industries. Residential areas include housing and the property on which housing is located, as well as playgrounds, roadways, sidewalks, parks, and other similar areas within a residential community. Commercial areas are typically accessible to both members of the general public and employees and include public assembly properties, institutional properties, stores, office buildings, and transportation centers.
+
+*Responsible party* means the owner of the PCB equipment, facility, or other source of PCBs or his/her designated agent (e.g., a facility manager or foreman).
+
+*Soil* means all vegetation, soils and other ground media, including but not limited to, sand, grass, gravel, and oyster shells. It does not include concrete and asphalt.
+
+*Spill* means both intentional and unintentional spills, leaks, and other uncontrolled discharges where the release results in any quantity of PCBs running off or about to run off the external surface of the equipment or other PCB source, as well as the contamination resulting from those releases. This policy applies to spills of 50 ppm or greater PCBs. The concentration of PCBs spilled is determined by the PCB concentration in the material spilled as opposed to the concentration of PCBs in the material onto which the PCBs were spilled. Where a spill of untested mineral oil occurs, the oil is presumed to contain greater than 50 ppm, but less than 500 ppm PCBs and is subject to the relevant requirements of this policy.
+
+*Spill area* means the area of soil on which visible traces of the spill can be observed plus a buffer zone of 1 foot beyond the visible traces. Any surface or object (e.g., concrete sidewalk or automobile) within the visible traces area or on which visible traces of the spilled material are observed is included in the spill area. This area represents the minimum area assumed to be contaminated by PCBs in the absence of precleanup sampling data and is thus the minimum area which must be cleaned.
+
+*Spill boundaries* means the actual area of contamination as determined by postcleanup verification sampling or by precleanup sampling to determine actual spill boundaries. EPA can require additional cleanup when necessary to decontaminate all areas within the spill boundaries to the levels required in this policy (e.g., additional cleanup will be required if postcleanup sampling indicates that the area decontaminated by the responsible party, such as the spill area as defined in this section, did not encompass the actual boundaries of PCB contamination).
+
+*Standard wipe test* means, for spills of high-concentration PCBs on solid surfaces, a cleanup to numerical surface standards and sampling by a standard wipe test to verify that the numerical standards have been met. This definition constitutes the minimum requirements for an appropriate wipe testing protocol. A standard-size template (10 centimeters (cm) × 10 cm) will be used to delineate the area of cleanup; the wiping medium will be a gauze pad or glass wool of known size which has been saturated with hexane. It is important that the wipe be performed very quickly after the hexane is exposed to air. EPA strongly recommends that the gauze (or glass wool) be prepared with hexane in the laboratory and that the wiping medium be stored in sealed glass vials until it is used for the wipe test. Further, EPA requires the collection and testing of field blanks and replicates.
+
+[52 FR 10705, Apr. 2, 1987; 52 FR 23397, June 19, 1987, as amended at 88 FR 59692, Aug. 29, 2023]

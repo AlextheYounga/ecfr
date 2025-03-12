@@ -1,0 +1,3 @@
+##### 32.1109 EFT information submitted by offerors. #####
+
+If offerors are required to submit EFT information prior to award, the successful offeror is not responsible for resubmitting this information after award of the contract except to make changes, or to place the information on invoices if required by agency procedures. Therefore, contracting officers shall forward EFT information provided by the successful offeror to the appropriate office.

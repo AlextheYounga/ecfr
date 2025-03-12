@@ -1,0 +1,13 @@
+##### § 51.1205 Ongoing data requirements. #####
+
+(a) *Monitored areas.* For any area where SO2 monitoring was conducted to characterize air quality pursuant to § 51.1203, the air agency shall continue to operate the monitor(s) used to meet those requirements and shall continue to report ambient data pursuant to existing ambient monitoring regulations, unless the monitor(s) have been approved for shut down by the EPA Regional Administrator pursuant to § 51.1203(c)(3) or pursuant to 40 CFR 58.14.
+
+(b) *Modeled areas.* For any area where modeling of actual SO2 emissions serve as the basis for designating such area as attainment for the 2010 SO2 NAAQS, the air agency shall submit an annual report to the EPA Regional Administrator by July 1 of each year, either as a stand-alone document made available for public inspection, or as an appendix to its Annual Monitoring Network Plan (also due on July 1 each year under 40 CFR 58.10), that documents the annual SO2 emissions of each applicable source in each such area and provides an assessment of the cause of any emissions increase from the previous year. The first report for each such area is due by July 1 of the calendar year after the effective date of the area's initial designation.
+
+(1) The air agency shall include in such report a recommendation regarding whether additional modeling is needed to characterize air quality in any area to determine whether the area meets or does not meet the 2010 SO2 NAAQS. The EPA Regional Administrator will consider the emissions report and air agency recommendation, and may require that the air agency conduct updated air quality modeling for the area and submit it to the EPA within 12 months.
+
+(2) An air agency will no longer be subject to the requirements of this paragraph (b) for a particular area if it provides air quality modeling demonstrating that air quality values at all receptors in the analysis are no greater than 50 percent of the 1-hour SO2 NAAQS, and such demonstration is approved by the EPA Regional Administrator.
+
+(c) Any air agency that demonstrates that an area would meet the 2010 SO2 NAAQS with allowable emissions is not required pursuant to paragraph (b) of this section to submit future annual reports for the area.
+
+(d) If modeling or monitoring information required to be submitted by the air agency to the EPA pursuant to this subpart indicates that an area is not attaining the 2010 SO2 NAAQS, the EPA may take appropriate action, including but not limited to requiring adoption of enforceable emission limits to ensure continued attainment of the 2010 SO2 NAAQS, designation or redesignation of the area to nonattainment, or issuance of a SIP Call.

@@ -1,0 +1,3 @@
+##### § 717.15 Disposal of excess rock and earth materials on surface areas. #####
+
+Excess rock and earth materials produced from an underground mine and not disposed in underground workings or used in backfilling and grading operations shall be placed in surface disposal areas in accordance with requirements of § 715.15. Where the volume of such material is small and its chemical and physical characteristics do not pose a threat to either public safety or the environment, the regulatory authority may modify the requirements of § 715.15 in accordance with § 717.14(a)(1).

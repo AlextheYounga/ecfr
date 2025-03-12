@@ -1,0 +1,3 @@
+##### § 190.100 Status of Interpretations issued under Public Law 96-161. #####
+
+The OCC continues to adhere to the views expressed in the formal Interpretations issued under the authority of section 105(c) of Public Law 96-161, 93 Stat. 1233 (1979). These interpretations, which relate to the temporary preemption of state interest ceilings contained in Public Law 96-161, may be found at 45 FR 2840 (Jan. 15, 1980); 45 FR 6165 (Jan. 25, 1980); 45 FR 8000 (Feb. 6, 1980); 45 FR 15921 (Mar. 12, 1980).

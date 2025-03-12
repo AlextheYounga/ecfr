@@ -1,0 +1,5 @@
+##### § 1215.25 Collection. #####
+
+(a) The MSPB will take aggressive action to collect debts and reduce delinquencies. Collection efforts shall include sending to the debtor's last known address a total of three progressively stronger written demands for payment at not more than 30 day intervals. When necessary to protect the Government's interest, written demand may be preceded by other appropriate action, including immediate referral for litigation. Other contact with the debtor or his or her representative or guarantor by telephone, in person and/or in writing may be appropriate to demand prompt payment, to discuss the debtor's position regarding the existence, amount and repayment of the debt, and to inform the debtor of his or her rights and effect of nonpayment or delayed payment. A debtor who disputes a debt must promptly provide available supporting evidence.
+
+(b) If a debtor is involved in insolvency proceedings, the debt will be referred to the appropriate United States Attorney to file a claim. The United States may have a priority over other creditors under 31 U.S.C. 3713.

@@ -1,0 +1,3 @@
+##### § 2638.202 Furnishing records and information generally. #####
+
+Consistent with sections 402 and 403 of the Act, each agency must furnish to the Director all information and records in its possession which the Director deems necessary to the performance of the Director's duties, except to the extent prohibited by law. All such information and records must be provided to the Office of Government Ethics in a complete and timely manner.

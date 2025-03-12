@@ -1,0 +1,7 @@
+##### § 136.408 What are other factors, in addition to the minimum standards of character, that may be considered in determining placement of an individual in a position that involves regular contact with or control over Indian children? #####
+
+(a) All Federal employees are subject to suitability criteria contained in 5 CFR part 731 as a condition of employment.
+
+(b) Section 231 of the Crime Control Act of 1990, Pub. L. 101-647, 42 U.S.C. 13041, provides that an individual may be disqualified from consideration or continuing employment if such individual has been convicted of a sex crime, an offense involving a child victim or a drug felony, or any other crime if such conviction bears on an individual's fitness to have responsibility for the safety and well-being of children.
+
+(c) Tribes or Tribal organizations may but are not required to apply additional criteria in determining whether an individual is suitable for a position with duties and responsibilities that involve regular contact with or control over Indian children. Any additional suitability criteria established by Tribes or Tribal organizations beyond the minimum standards of character described in § 136.405 and § 136.406 would be determined by each individual Tribe or Tribal organization in accordance with its own personnel policies and procedures.

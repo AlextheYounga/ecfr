@@ -1,0 +1,5 @@
+##### § 780.22 Opposition, support and request for hearing. #####
+
+(a) Any party may, within thirty (30) days after service of the notice or such other time as may be provided by the terms of the notice, file with the Board a written statement in opposition to or in support of the Department's proposed action. Such statement may also include a request for hearing. The statement shall contain a concise description of the facts, law, or any other relevant matter which the party believes should be reviewed by the Board during its consideration of the proposed declaration. If the request for a hearing is timely received, the Board shall call a hearing and provide notice of the time and place to all parties.
+
+(b) Failure of all parties to oppose the proposed action or to request a hearing within the time specified in the notice shall be deemed an acquiescence to that action and may result in a declaration by the Board that the patent is affected with the public interest.

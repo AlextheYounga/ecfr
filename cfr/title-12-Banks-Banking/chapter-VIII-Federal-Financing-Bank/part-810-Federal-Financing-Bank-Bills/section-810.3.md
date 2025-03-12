@@ -1,0 +1,3 @@
+##### § 810.3 Payment at maturity. #####
+
+Each FFB bill will be paid in its face amount at maturity upon presentation and surrender to any Federal Reserve Bank or Branch or to the Department of the Treasury, Bureau of the Public Debt, Securities Transaction Branch, Washington, DC 20226. If a FFB bill is presented and surrendered for redemption after it has become overdue, the Federal Financing Bank may require satisfactory proof of ownership, as provided in § 306.25 of Department of the Treasury Circular No. 300, current revision.

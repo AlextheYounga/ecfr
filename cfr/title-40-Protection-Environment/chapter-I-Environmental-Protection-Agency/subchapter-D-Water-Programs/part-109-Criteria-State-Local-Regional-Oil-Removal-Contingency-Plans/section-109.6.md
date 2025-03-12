@@ -1,0 +1,3 @@
+##### § 109.6 Coordination. #####
+
+For the purposes of coordination, the contingency plans of State and local governments should be developed and implemented in consultation with private interests. A copy of any oil removal contingency plan developed by State and local governments should be forwarded to the Council on Environmental Quality upon request to facilitate the coordination of these contingency plans with the National Oil and Hazardous Materials Pollution Contingency Plan.

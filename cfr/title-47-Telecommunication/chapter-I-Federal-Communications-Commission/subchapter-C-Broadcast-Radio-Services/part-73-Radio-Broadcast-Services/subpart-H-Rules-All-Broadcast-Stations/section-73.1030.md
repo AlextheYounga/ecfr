@@ -1,0 +1,57 @@
+##### § 73.1030 Notifications concerning interference to radio astronomy, research and receiving installations. #####
+
+(a)(1) *Radio astronomy and radio research installations.* In order to minimize harmful interference at the National Radio Astronomy Observatory site located at Green, Pocahontas County, West Virginia, and at the Naval Radio Research Observatory at Sugar Grove, Pendleton County, West Virginia, a licensee proposing to operate a short-term broadcast auxiliary station pursuant to § 74.24, and any applicant for authority to construct a new broadcast station, or for authority to make changes in the frequency, power, antenna height, or antenna directivity of an existing station within the area bounded by 39°15′ N on the north, 78°30′ W on the east, 37°30′ N on the south, and 80°30′ W on the west, shall notify the Interference Office, National Radio Astronomy Observatory, P.O. Box 2, Green Bank, West Virginia 24944. Telephone: (304) 456-2011. The notification shall be in writing and set forth the particulars of the proposed station, including the geographical coordinates of the antenna, antenna height, antenna directivity if any, proposed frequency, type of emission and power. The notification shall be made prior to, or simultaneously with, the filing of the application with the Commission. After receipt of such applications, the FCC will allow a period of 20 days for comments or objections in response to the notifications indicated. If an objection to the proposed operation is received during the 20-day period from the National Radio Astronomy Observatory for itself, or on behalf of the Naval Radio Research Observatory, the FCC will consider all aspects of the problem and take whatever action is deemed appropriate.
+
+(2) Any applicant for a new permanent base or fixed station authorization to be located on the islands of Puerto Rico, Desecheo, Mona, Vieques, and Culebra, or for a modification of an existing authorization which would change the frequency, power, antenna height, directivity, or location of a station on these islands and would increase the likelihood of the authorized facility causing interference, shall notify the Interference Office, Arecibo Observatory, HC3 Box 53995, Arecibo, Puerto Rico 00612, in writing or electronically, of the technical parameters of the proposal. Applicants may wish to consult interference guidelines, which will be provided by Cornell University. Applicants who choose to transmit information electronically should e-mail to: *prcz@naic.edu.*
+
+(i) The notification to the Interference Office, Arecibo Observatory shall be made prior to, or simultaneously with, the filing of the application with the Commission. The notification shall state the geographical coordinates of the antenna (NAD-83 datum), antenna height above ground, ground elevation at the antenna, antenna directivity and gain, proposed frequency and FCC Rule Part, type of emission, and effective radiated power.
+
+(ii) After receipt of such applications, the Commission will allow the Arecibo Observatory a period of 20 days for comments or objections in response to the notification indicated. The applicant will be required to make reasonable efforts to resolve or mitigate any potential interference problem with the Arecibo Observatory and to file either an amendment to the application or a modification application, as appropriate. The Commission shall determine whether an applicant has satisfied its responsibility to make reasonable efforts to protect the Observatory from interference.
+
+(b) *Radio receiving installations.* Protection for Table Mountain Radio Receiving Zone, Boulder County, Colorado: Applicants for a station authorization to operate in the vicinity of Boulder County, Colorado under this Part are advised to give due consideration, prior to filing applications, to the need to protect the Table Mountain Radio Receiving Zone from harmful interference. These are the research laboratories of the Department of Commerce, Boulder County, Colorado. To prevent degradation of the present ambient radio signal level at the site, the Department of Commerce seeks to ensure that the field strengths of any radiated signals (excluding reflected signals) received on this 1800 acre site (within the area bounded by 40°09′10″ N Latitude on the north, 105°13′31″ W Longitude on the east, 40°07′05″ N Latitude on the south, and 105°15′13″ W Longitude on the west) resulting from new assignments (other than mobile stations) or from the modification of relocation of existing facilities do not exceed the following values:
+
+|Frequency range|Field strength in authorized bandwidth of service (mV/m)|Power flux density in authorized bandwidth of service (dBW/m<sup>2</sup>)<sup>1</sup>|
+|---------------|--------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Below 540 kHz |                           10                           |                                        −65.8                                        |
+|540 to 1700 kHz|                           20                           |                                        −59.8                                        |
+|1.7 to 470 MHz |                           10                           |                                  <sup>2</sup>−65.8                                  |
+|470 to 890 MHz |                           30                           |                                  <sup>2</sup>−56.2                                  |
+| Above 890 MHz |                           1                            |                                  <sup>2</sup>−85.8                                  |
+
+<sup>1</sup> Equivalent values of power flux density are calculated assuming free space characteristic impedance of 376.7 = 120 ohms.
+
+<sup>2</sup> Space stations shall conform to the power flux density limits at the earth's surface specified in appropriate parts of the FCC rules, but in no case should exceed the above levels in any 4 kHz band for all angles of arrival.
+
+(1) Advance consultation is recommended particularly for those applicants who have no reliable data which indicates whether the field strength or power flux density figures in the above table would be exceeded by their proposed radio facilities (except mobile stations). In such instances, the following is a suggested guide for determining whether coordination is recommended:
+
+(i) All stations within 2.4 km (1.5 statute miles);
+
+(ii) Stations within 4.8 km (3 statute miles) with 50 watts or more effective radiated power (ERP) in the primary plane polarization in the azimuthal direction of the Table Mountain Radio Receiving Zone;
+
+(iii) Stations within 16 km (10 statute miles) with 1 kW or more ERP in the primary plane of polarization in the azimuthal direction of Table Mountain Receiving Zone;
+
+(iv) Stations within 80 km (50 statute miles) with 25 kW or more ERP in the primary plane polarization in the azimuthal direction of Table Mountain Receiving Zone.
+
+(2) Applicants concerned are urged to communicate with the Radio Frequency Management Coordinator, Department of Commerce, Research Support Services, NOAA R/E5X2, Boulder Laboratories, Boulder, CO 80303; telephone (303) 497-6548, in advance of filing their applications with the Commission.
+
+(3) The Commission will not screen applications to determine whether advance consultation has taken place. However, applicants are advised that such consultation can avoid objectimns from the Department of Commerce or proceedings to modify any authorization which may be granted which, in fact, delivers a signal at the site in excess of the field strength specified herein.
+
+(c) *Protection for Federal Communications Commission monitoring stations.* (1) Applicants in the vicinity of a FCC monitoring station for a radio station authorization to operate new transmitting facilities or changed transmitting facilities which would increase the field strength produced over the monitoring station in excess of that previously authorized are advised to give consideration, prior to filing applications, to the possible need to protect the FCC stations from harmful interference. Geographical coordinates of the facilities which require protection are listed in § 0.121(c) of the FCC rules. Applications for stations (except mobile stations) which will produce on any frequency a direct wave fundamental field strength of *greater than 10 mV/m* in the authorized bandwidth of service (−65.8 dBW/m2 power flux density assuming a free space characteristic impedance of 120 π ohms) at the referenced coordinates, may be examined to determine extent of possible interference. Depending on the theoretical field strength value and existing root-sum-square or other ambient radio field signal levels at the indicated coordinates, a clause protecting the monitoring station may be added to the station authorization.
+
+(2) In the event that calculated value of expected field exceeds 10 mV/m (−65.8 dBW/m2) at the reference coordinates, or if there is any question whether field strength levels might exceed the threshold value, advance consultation with the FCC to discuss any protection necessary should be considered. Prospective applicants may communicate with the Public Safety and Homeland Security Bureau.
+
+(3) Advance consultation is suggested particularly for those applicants who have no reliable data which indicates whether the field strength or power flux density figure indicated would be exceeded by their proposed radio facilities (except mobile stations). In such instances, the following is a suggested guide for determining whether an applicant should coordinate:
+
+(i) All stations within 2.4 kilometers (1.5 statute miles);
+
+(ii) Stations within 4.8 kilometers (3 statute miles) with 50 watts or more average effective radiated power (ERP) in the primary plane of polarization in the azimuthal direction of the Monitoring Stations.
+
+(iii) Stations within 16 kilometers (10 statute miles) with 1 kW or more average ERP in the primary plane of polarization in the azimuthal direction of the Monitoring Station;
+
+(iv) Stations within 80 kilometers (50 statute miles) with 25 kW or more average ERP in the primary plane of polarization in the azimuthal direction of the Monitoring Station;
+
+(4) Advance coordination for stations operating above 1000 MHz is recommended only where the proposed station is in the vicinity of a monitoring station designated as a satellite monitoring facility in § 0.121(c) of the Commission's Rules and also meets the criteria outlined in paragraphs (b) (2) and (3) of this section.
+
+(5) The Commission will not screen applications to determine whether advance consultation has taken place. However, applicants are advised that such consultation can avoid objections from the Federal Communications Commission or modification of any authorization which will cause harmful interference.
+
+[43 FR 32782, July 28, 1978, as amended at 44 FR 77167, Dec. 31, 1979; 47 FR 9221, Mar. 4, 1982; 50 FR 39003, Sept. 26, 1985; 52 FR 25867, July 9, 1987; 52 FR 36879, Oct. 1, 1987; 52 FR 37789, Oct. 9, 1987; 56 FR 64872, Dec. 12, 1991; 61 FR 8477, Mar. 5, 1996; 62 FR 55532, Oct. 27, 1997; 63 FR 70048, Dec. 18, 1998; 70 FR 31373, June 1, 2005; 80 FR 53750, Sept. 8, 2015]

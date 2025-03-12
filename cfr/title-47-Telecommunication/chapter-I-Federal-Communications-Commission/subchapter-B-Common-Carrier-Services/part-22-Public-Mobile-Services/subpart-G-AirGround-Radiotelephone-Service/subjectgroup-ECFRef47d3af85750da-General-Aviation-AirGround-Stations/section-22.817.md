@@ -1,0 +1,15 @@
+##### § 22.817 Additional channel policies. #####
+
+The rules in this section govern the processing of applications for authority to operate a ground station transmitter on any ground station communication channel listed in § 22.805 when the applicant has applied or been granted an authorization for other ground station communication channels in the same area. The general policy of the FCC is to assign one ground station communication channel in an area to a carrier per application cycle, up to a maximum of six ground station communication channels per area. That is, a carrier must apply for one ground station communication channel, receive the authorization, construct the station, and notify the FCC of commencement of service before applying for an additional ground station communication channel in that area.
+
+(a) *Air-ground transmitters in same area.* Any transmitter on any of the ground station channels listed in § 22.805 is considered to be in the same area as another transmitter on any ground station channel listed in § 22.805 if it is located less than 350 kilometers (217 miles) from that transmitter.
+
+(b) *Initial channel.* The FCC will not assign more than one ground station communication channel for new ground stations. Ground stations are considered to be new if there are no authorized ground station transmitters on any channel listed in § 22.805 controlled by the applicant in the same area.
+
+(c) *Additional channel.* Applications for ground transmitters to be located in the same area as an authorized ground station controlled by the applicant, but to operate on a different ground station communication channel, are considered as requesting an additional channel for the authorized station.
+
+(d) *Amendment of pending application.* If the FCC receives and accepts for filing an application for a ground station transmitter to be located in the same area as a ground station transmitter proposed in a pending application previously filed by the applicant, but on a different ground station communication channel, the subsequent application is treated as a major amendment to change the technical proposal of the prior application. The filing date of any application so amended is the date the FCC received the subsequent application.
+
+(e) *Dismissal of premature applications for additional channel.* If the FCC receives an application requesting an additional ground station communication channel for an authorized ground station prior to receiving notification that the station is providing service to subscribers on the authorized channel(s), the FCC may dismiss that application without prejudice.
+
+(f) *Dismissal of applications for seventh channel.* If the FCC receives an application requesting an additional ground station communication channel for an authorized ground station which would, if granted, result in that station being assigned more than six ground station communication channels in the same area, the FCC may dismiss that application without prejudice.

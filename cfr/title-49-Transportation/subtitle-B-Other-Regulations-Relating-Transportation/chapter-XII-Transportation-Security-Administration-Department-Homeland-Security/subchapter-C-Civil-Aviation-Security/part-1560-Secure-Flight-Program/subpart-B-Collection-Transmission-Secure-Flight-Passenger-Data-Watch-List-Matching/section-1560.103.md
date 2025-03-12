@@ -1,0 +1,11 @@
+##### § 1560.103 Privacy notice. #####
+
+(a) *Electronic collection of information*—(1) *Current electronic collection of information.* Prior to collecting information through a Web site or self-service kiosk from a passenger or non-traveling individual in order to comply with § 1560.101(a), a covered aircraft operator must make available the complete privacy notice set forth in paragraph (b) of this section.
+
+(2) *Other electronic collection of information.* If a covered aircraft operator collects information directly from a passenger or non-traveling individual in order to comply with § 1560.101(a) through an electronic means not described in paragraph (a)(1) of this section, the covered aircraft operator must make available the complete privacy notice set forth in paragraph (b) of this section.
+
+(3) *Third party Web site.* Each covered aircraft operator must ensure that each third party that maintains a Web site capable of making a reservation for the covered aircraft operator's reservation system, make available on its Web site the complete privacy notice set forth in paragraph (b) of this section prior to collecting information through the Web site.
+
+(b) *Privacy notice.* The covered aircraft operator may substitute its name for the word “us,” but the complete privacy notice otherwise must be identical to the following paragraph unless TSA has approved alternative language:
+
+The Transportation Security Administration of the U.S. Department of Homeland Security requires us to collect information from you for purposes of watch list screening, under the authority of 49 U.S.C. section 114, and the Intelligence Reform and Terrorism Prevention Act of 2004. Providing this information is voluntary; however, if it is not provided, you may be subject to additional screening or denied transport or authorization to enter a sterile area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA Privacy policies, or to view the system of records notice and the privacy impact assessment, please see TSA's Web site at *www.tsa.gov.*

@@ -1,0 +1,3 @@
+##### § 311.1 Scope and application. #####
+
+The substantive provisions found at 29 CFR 1910.120 on and after March 6, 1990, and before March 6, 1990, found at 54 FR 9317 (March 6, 1989), apply to State and local government employees engaged in *hazardous waste operations,* as defined in 29 CFR 1910.120(a), in States that do not have a State plan approved under section 18 of the Occupational Safety and Health Act of 1970.

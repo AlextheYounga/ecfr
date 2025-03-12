@@ -1,0 +1,3 @@
+##### § 430.100 Applicability; description of the secondary fiber non-deink subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the production of: Paperboard from wastepaper; tissue paper from wastepaper without deinking at secondary fiber mills; molded products from wastepaper without deinking at secondary fiber mills; and builders' paper and roofing felt from wastepaper.

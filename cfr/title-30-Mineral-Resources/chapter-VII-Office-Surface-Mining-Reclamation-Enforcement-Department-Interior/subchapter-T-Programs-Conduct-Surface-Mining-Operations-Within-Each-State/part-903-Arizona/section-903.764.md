@@ -1,0 +1,3 @@
+##### § 903.764 Process for designating areas unsuitable for surface coal mining operations. #####
+
+Part 764 of this chapter, *State Processes for Designating Areas Unsuitable for Surface Coal Mining Operations,* pertaining to petitions, initial processing, hearing requirements, decisions, data base and inventory systems, public information, and regulatory responsibilities, applies to surface coal mining operations beginning June 24, 1996, one year after the effective date of this program.

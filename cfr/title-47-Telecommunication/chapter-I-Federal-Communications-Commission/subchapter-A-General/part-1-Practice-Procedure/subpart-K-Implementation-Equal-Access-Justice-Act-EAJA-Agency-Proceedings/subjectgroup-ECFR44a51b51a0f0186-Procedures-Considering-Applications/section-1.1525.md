@@ -1,0 +1,3 @@
+##### § 1.1525 Settlement. #####
+
+The applicant and Bureau counsel may agree on a proposed settlement of the award before final action on the application, either in connection with a settlement of the underlying proceeding, or after the underlying proceeding has been concluded. If a prevailing party and Bureau counsel agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement. If the Administrative Law Judge approves the proposed settlement, it shall be forwarded to the Commission for final approval.

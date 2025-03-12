@@ -1,0 +1,3 @@
+##### § 450.23 Effluent limitations reflecting the best conventional pollutant control technology (BCT). #####
+
+Except as provided in 40 CFR 125.30 through 125.32, any point source subject to this subpart must achieve, at a minimum, the following effluent limitations representing the degree of effluent reduction attainable by application of the best conventional pollutant control technology (BCT). The effluent limitations are described at § 450.21.

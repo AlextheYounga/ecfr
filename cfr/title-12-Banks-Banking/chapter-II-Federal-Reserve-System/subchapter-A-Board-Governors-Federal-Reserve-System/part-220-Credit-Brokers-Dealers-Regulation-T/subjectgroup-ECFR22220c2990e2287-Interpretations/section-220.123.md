@@ -1,0 +1,31 @@
+##### § 220.123 Partial delayed issue contracts covering nonconvertible bonds. #####
+
+(a) During recent years, it has become customary for portions of new issues of nonconvertible bonds and preferred stocks to be sold subject to partial delayed issue contracts, which have customarily been referred to in the industry as “delayed delivery” contracts, and the Board of Governors has been asked for its views as to whether such transactions involve any violations of the Board's margin regulations.
+
+(b) The practice of issuing a portion of a debt (or equivalent) security issue at a date subsequent to the main underwriting has arisen where market conditions made it difficult or impossible, in a number of instances, to place an entire issue simultaneously. In instances of this kind, institutional investors (e.g., insurance companies or pension funds) whose cash flow is such that they expect to have funds available some months in the future, have been willing to subscribe to a portion, to be issued to them at a future date. The issuer has been willing to agree to issue the securities in two or more stages because it did not immediately need the proceeds to be realized from the deferred portion, because it could not raise funds on better terms, or because it preferred to have a certain portion of the issue taken down by an investor of this type.
+
+(c) In the case of such a delayed issue contract, the underwriter is authorized to solicit from institutional customers offers to purchase from the issuer, pursuant to contracts of the kind described above, and the agreement becomes binding at the underwriters' closing, subject to specified conditions. When securities are issued pursuant to the agreement, the purchase price includes accrued interest or dividends, and until they are issued to it, the purchaser does not, in the case of bonds, have rights under the trust indenture, or, in the case of preferred stocks, voting rights.
+
+(d) Securities sold pursuant to such arrangements are high quality debt issues (or their equivalent). The purchasers buy with a view to investment and do not resell or otherwise dispose of the contract prior to its completion. Delayed issue arrangements are not acceptable to issuers unless a substantial portion of an issue, not less than 10 percent, is involved.
+
+(e) Sections 3(a) (13) and (14) of the Securities Exchange Act of 1934 provide that an agreement to purchase is equivalent to a purchase, and an agreement to sell to a sale. The Board has hitherto expressed the view that credit is extended at the time when there is a firm agreement to extend such credit (1968 Federal Reserve Bulletin 328; 12 CFR 207.101; ¶ 6800 Published Interpretations of the Board of Governors). Accordingly, in instances of the kind described above, the issuer may be regarded as extending credit to the institutional purchaser at the time of the underwriters' closing, when the obligations of both become fixed.
+
+(f) Section 220.7(a) of the Board's Regulation T (12 CFR 220.7(a)), with an exception not applicable here, forbids a creditor subject to that regulation to arrange for credit on terms on which the creditor could not itself extend the credit. Sections 220.4(c) (1) and (2) (12 CFR 220.4(c) (1) and (2)) provide that a creditor may not sell securities to a customer except in good faith reliance upon an agreement that the customer will promptly, and in no event in more than 7 full business days, make full cash payment for the securities. Since the underwriters in question are creditors subject to the regulation, unless some specific exception applies, they are forbidden to arrange for the credit described above. This result follows because payment is not made until more than 7 full business days have passed from the time the credit is extended.
+
+(g) However, § 220.4(c)(3) provides that:
+
+If the security when so purchased is an unissued security, the period applicable to the transaction under subparagraph (2) of this paragraph shall be 7 days after the date on which the security is made available by the issuer for delivery to purchasers.
+
+(h) In interpreting § 220.4(c)(3), the Board has stated that the purpose of the provision:
+
+\* \* \* is to recognize the fact that, when an issue of securities is to be issued at some future fixed date, a security that is part of such issue can be purchased on a “when-issued” basis and that payment may reasonably be delayed until after such date of issue, subject to other basic conditions for transactions in a special cash account. (1962 Federal Reserve Bulletin 1427; 12 CFR 220.118; ¶ 5996, Published Interpretations of the Board of Governors.)
+
+In that situation, the Board distinguished the case of mutual fund shares, which technically are not issued until the certificate can be delivered by the transfer agent. The Board held that mutual fund shares must be regarded as issued at the time of purchase because they are:
+
+\* \* \* essentially available upon purchase to the same extent as outstanding securities. The mechanics of their issuance and of the delivery of certificates are not significantly different from the mechanics of transfer and delivery of certificates for shares of outstanding securities, and the issuance of mutual fund shares is not a future event in the sense that would warrant the extension of the time for payment beyond that afforded in the case of outstanding securities. (ibid.)
+
+The issuance of debt securities subject to delayed issue contracts, by contrast with that of mutual fund shares, which are in a status of continual underwriting, is a specific single event taking place at a future date fixed by the issuer with a view to its need for funds and the availability of those funds under current market conditions.
+
+(i) For the reasons stated above the Board concluded that the nonconvertible debt and preferred stock subject to delayed issue contracts of the kind described above should not be regarded as having been issued until delivered, pursuant to the agreement, to the institutional purchaser. This interpretation does not apply, of course, to fact situations different from that described in this section.
+
+[36 FR 2777, Feb. 10, 1971]

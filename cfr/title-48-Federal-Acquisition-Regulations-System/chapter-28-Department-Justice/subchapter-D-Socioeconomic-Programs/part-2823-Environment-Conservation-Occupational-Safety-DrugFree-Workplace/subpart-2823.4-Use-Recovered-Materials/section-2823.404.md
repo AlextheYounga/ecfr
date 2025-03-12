@@ -1,0 +1,5 @@
+##### 2823.404 Procedures. #####
+
+(a) The program office initiating the acquisition is responsible for determining if recovered materials should be included in the specification. Procurement offices are responsible for informing program offices of the requirement for writing specifications for designated items that include minimum content standards specified in the RMANs.
+
+(b) If the program office chooses to procure designated items containing less than the minimum content standards, and program office must justify that decision in writing and include a copy of the signed justification with the procurement request package. FAR 23.404(b)(3) sets forth the only acceptable justifications for acquiring EPA designated items which do not meet the minimum content standard. The contracting officer is the approving official for justifications made pursuant to FAR 23.404(b)(3). Contracting officers are responsible for including a signed copy of the justification in the acquisition file and submitting a copy of the approved justification to the DOJEE.

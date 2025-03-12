@@ -1,0 +1,13 @@
+##### 42.1701 Procedures. #####
+
+(a) Negotiation of forward pricing rate agreements (FPRA's) may be requested by the contracting officer or the contractor or initiated by the administrative contracting officer (ACO). In determining whether or not to establish such an agreement, the ACO should consider whether the benefits to be derived from the agreement are commensurate with the effort of establishing and monitoring it. Normally, FPRA's should be negotiated only with contractors having a significant volume of Government contract proposals. The cognizant contract administration agency shall determine whether an FPRA will be established.
+
+(b) The ACO shall obtain the contractor's forward pricing rate proposal and require that it include cost or pricing data that are accurate, complete, and current as of the date of submission (but see 15.407-3(c)). The ACO shall invite the cognizant contract auditor and contracting offices having a significant interest to participate in developing a Government objective and in the negotiations. Upon completing negotiations, the ACO shall prepare a price negotiation memorandum (PNM) (see 15.406-3) and forward copies of the PNM and FPRA to the cognizant auditor and to all contracting offices that are known to be affected by the FPRA.
+
+(c) The FPRA shall provide specific terms and conditions covering expiration, application, and data requirements for systematic monitoring to ensure the validity of the rates. The agreement shall provide for cancellation at the option of either party and shall require the contractor to submit to the ACO and to the cognizant contract auditor any significant change in cost or pricing data used to support the FPRA.
+
+(d) When an FPRA is invalid, the contractor should submit and negotiate a new proposal to reflect the changed conditions. If an FPRA has not been established or has been invalidated, the ACO will issue a forward pricing rate recommendation (FPRR) to buying activities with documentation to assist negotiators. In the absence of an FPRA or FPRR, the ACO shall include support for rates utilized.
+
+(e) The ACO may negotiate continuous updates to the FPRA. The FPRA will provide specific terms and conditions covering notification, application, and data requirements for systematic monitoring to ensure the validity of the rates.
+
+[62 FR 51258, Sept. 30, 1997, as amended at 75 FR 53149, Aug. 30, 2010]

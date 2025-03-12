@@ -1,0 +1,3 @@
+##### § 531.201 Purpose. #####
+
+This subpart contains regulations of the Office of Personnel Management (OPM) implementing 5 U.S.C 5332, 5333, and 5334, which deal with setting and adjusting rates of basic pay for General Schedule (GS) employees. These regulations are supplemented by regulations on GS within-grade increases in subpart D of this part; GS quality step increases in subpart E of this part; locality rates in subpart F of this part; special rates in 5 CFR part 530, subpart C; and grade and pay retention in 5 CFR part 536.

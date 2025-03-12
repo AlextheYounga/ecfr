@@ -1,0 +1,3 @@
+##### § 553.701 To which entities does this subpart apply? #####
+
+This subpart applies to you if you are a responsible party for an offshore facility, other than a deepwater port under the Deepwater Port Act of 1974 (33 U.S.C. 1501-1524), but including an offshore pipeline, or an abandoned offshore facility, including any abandoned offshore pipeline, unless your liability is unlimited under OPA 90 (33 U.S.C. 2704(c)).

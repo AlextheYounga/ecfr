@@ -1,0 +1,3 @@
+##### § 381.11 Refunds. #####
+
+If promised admission to the primary event for which a Special Event Tour was organized is not furnished by the tour operator, at the tour price agreed to before departure (including any increases that the participant has accepted pursuant to § 381.13(a)), the operator must provide each tour participant affected in this way a refund of the total tour price. This refund is to be provided within 14 calendar days after the scheduled return date of the tour.

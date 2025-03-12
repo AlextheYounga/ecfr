@@ -1,0 +1,7 @@
+##### § 2423.27 Summary judgment motions. #####
+
+(a) *Motions.* Any party may move for a summary judgment in its favor on any of the issues pleaded. Unless otherwise approved by the Administrative Law Judge, such motion shall be made no later than 10 days prior to the hearing. The motion shall demonstrate that there is no genuine issue of material fact and that the moving party is entitled to a judgment as a matter of law. Such motions shall be supported by documents, affidavits, applicable precedent, or other appropriate materials.
+
+(b) *Responses.* Responses must be filed within 5 days after the date of service of the motion. Responses may not rest upon mere allegations or denials but must show, by documents, affidavits, applicable precedent, or other appropriate materials, that there is a genuine issue to be determined at the hearing.
+
+(c) *Decision.* If all issues are decided by summary judgment, no hearing will be held and the Administrative Law Judge shall prepare a decision in accordance with § 2423.34. If summary judgment is denied, or if partial summary judgment is granted, the Administrative Law Judge shall issue an opinion and order, subject to interlocutory appeal as provided in § 2423.31(c) of this subchapter, and the hearing shall proceed as necessary.

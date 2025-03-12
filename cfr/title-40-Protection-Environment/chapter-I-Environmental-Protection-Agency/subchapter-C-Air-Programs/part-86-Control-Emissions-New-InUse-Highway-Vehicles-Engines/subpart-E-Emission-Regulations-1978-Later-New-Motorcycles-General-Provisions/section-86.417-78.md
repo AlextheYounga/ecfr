@@ -1,0 +1,5 @@
+##### § 86.417-78 Approval of application for certification. #####
+
+(a) After a review of the application for certification and any other information which the Administrator may require, the Administrator may approve the application and select a test fleet as appropriate.
+
+(b) The Administrator may disapprove in whole or in part an application for certification for reasons including incompleteness, inaccuracy, inappropriate proposed distance accumulation procedures, maintenance, test equipment, label content or location, fuel or lubricant, and incorporation of defeat devices in vehicles described by the application. Where any part of an application is rejected the Administrator shall notify the manufacturer in writing and set forth the reasons for such rejection. The manufacturer may request a hearing under § 86.443.

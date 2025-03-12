@@ -1,0 +1,3 @@
+##### § 1250.1 Purpose. #####
+
+The purpose of this part is to set forth the responsibilities of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation (collectively, Enterprises) under the Flood Disaster Protection Act of 1973 (FDPA), as amended (42 U.S.C. 4002 *et seq.*) and the procedures to be used by the Federal Housing Finance Agency (FHFA) in any proceeding to assess civil money penalties against an Enterprise.

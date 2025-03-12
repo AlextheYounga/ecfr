@@ -1,0 +1,7 @@
+##### § 1204.13 Denials. #####
+
+(a) The Board may deny: A request for reduced fees or waiver of fees; a request for a record, either in whole or in part; a request for expeditious processing based on the requester's compelling need; or a request that records be released in a specific electronic format. The denial will be in writing, will state the reasons, and will notify the requester of the right to appeal.
+
+(b) If the Board applies one or more of the exemptions provided under the FOIA to deny access to some or all of the information requested, it will respond in writing, identifying for the requester the specific exemption(s), providing an explanation as to why the exemption(s) to withhold the requested information must be applied, and providing an estimate of the amount of material that has been denied to the requester, unless providing such an estimate would harm an interest protected by the exemptions.
+
+(c) The amount of information deleted will be indicated on the released portion of the record at the place in the record where the deletion is made, if technically feasible and unless the indication would harm an interest protected by the exemption under which the deletion is made.

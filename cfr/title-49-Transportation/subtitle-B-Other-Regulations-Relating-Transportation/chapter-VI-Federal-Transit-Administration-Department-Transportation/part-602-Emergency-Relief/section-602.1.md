@@ -1,0 +1,3 @@
+##### § 602.1 Purpose. #####
+
+This part establishes the procedures and eligibility requirements for the administration of emergency relief funds for emergency public transportation services, and the protection, replacement, repair or reconstruction of public transportation equipment and facilities which are found to have suffered or are in danger of suffering serious damage resulting from a natural disaster affecting a wide area or a catastrophic failure from an external cause.

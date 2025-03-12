@@ -1,0 +1,3 @@
+##### § 75.1101-20 Safeguards for dry powder chemical systems. #####
+
+Adequate guards shall be provided along all belt conveyors in the vicinity of each dry powder chemical system to protect persons whose vision is restricted by a discharge of powder from the system. In addition, hand-rails shall be installed in such areas to provide assistance to those passing along the conveyor after a powder discharge.

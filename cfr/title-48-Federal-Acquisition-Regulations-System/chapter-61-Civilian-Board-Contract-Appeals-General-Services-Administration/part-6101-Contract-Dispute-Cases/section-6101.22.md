@@ -1,0 +1,5 @@
+##### 6101.22 Transcripts of proceedings; corrections [Rule 22]. #####
+
+(a) *Transcripts.* Except as the Board may otherwise order, all hearings, other than those under the small claims procedure prescribed by 6101.52 (Rule 52), will be stenographically or electronically recorded and transcribed. Any other hearing or conference will be recorded or transcribed only by order of the Board. Each party is responsible for obtaining its own copy of the transcript if one is prepared.
+
+(b) *Corrections.* Corrections to an official transcript will be made only when they involve errors affecting its substance. The Board may order such corrections on motion or on its own initiative, and only after notice to the parties giving them opportunity to object. Such corrections will ordinarily be made either by hand with pen and ink or by the appending of an errata sheet, but when no other method of correction is practicable the Board may require the reporter to provide substitute or additional pages.

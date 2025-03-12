@@ -1,0 +1,3 @@
+##### § 441.50 Basis and purpose. #####
+
+This subpart implements sections 1902(a)(43) and 1905(a)(4)(B) of the Social Security Act, by prescribing State plan requirements for providing early and periodic screening and diagnosis of eligible Medicaid beneficiaries under age 21 to ascertain physical and mental defects, and providing treatment to correct or ameliorate defects and chronic conditions found.

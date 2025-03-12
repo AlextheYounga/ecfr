@@ -1,0 +1,5 @@
+##### § 900.707 Certification required. #####
+
+(a) *General.* Each application to OPM for financial assistance, as a condition to its approval and the extension of financial assistance, shall contain or be accompanied by, a certification from the applicant in a form prescribed by OPM that the program will be conducted in compliance with the requirements of this subpart. The assurance shall obligate the recipient for the period during which the financial assistance is extended to the program.
+
+(b) *Certification from subgrantees.* A certification shall be required of all subgrantees receiving financial assistance from OPM to the effect that all programs or parts thereof carried out by subgrantees shall be in compliance with the requirements of this subpart. The recipient shall be responsible for securing the certification from subgrantees.

@@ -1,0 +1,3 @@
+##### 1235.7000 Contract clause. #####
+
+The contracting officer shall insert the clause at (TAR) 48 CFR 1252.235-70, Research Misconduct, in all solicitations and contracts for research and development. For further information, see DOT's Implementation Guidance for Executive Office of the President, Office of Science and Technology Policy, “Federal Policy on Research Misconduct,” dated February 2002.

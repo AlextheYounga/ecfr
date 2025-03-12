@@ -1,0 +1,3 @@
+##### § 670.29 Advisories. #####
+
+In any instance in which the Administrator determines there are hazards or risks to public transportation, the Administrator may issue an advisory which recommends corrective actions, inspections, conditions, limitations or other actions to avoid or mitigate any hazards or risks. The Administrator will issue notice to recipients of an advisory in the Federal Register.

@@ -1,0 +1,9 @@
+##### § 451.25 Required information. #####
+
+(a) The safety approval number appearing on line 1 of the safety approval plate must be of the form “USA/(approval number, which includes the approval authority identification code)/(year in which approval was granted).”
+
+(b) The date upon which approval was granted must be the same for all containers of a design-type or type-series covered by one notice of approval.
+
+(c) The safety approval number must be the same for all containers of a design-type or type-series covered by one notice of approval.
+
+(d) The owner's International Organization for Standardization (ISO) alpha numeric identification numbers may be used in place of the manufacturer's identification numbers on line 3 of the safety approval plate. If owner's identification numbers are used and the manufacturer's are available, the owner shall keep records correlating the owner's identification numbers used with the manufacturer's number. If a container marked with owner's identification numbers changes ownership, and the owner's identification number is changed as a result, the new owner must add the new owner's identification number, following the original owner's identification number on line 3 of the safety approval plate. In the event that the new owner's identification number cannot be legibly added to line 3 of the safety approval plate following the original owner's identification number, the new owner is authorized to put a new safety approval plate on the freight container provided that all the information contained on the original safety approval plate is retained in the owners files.

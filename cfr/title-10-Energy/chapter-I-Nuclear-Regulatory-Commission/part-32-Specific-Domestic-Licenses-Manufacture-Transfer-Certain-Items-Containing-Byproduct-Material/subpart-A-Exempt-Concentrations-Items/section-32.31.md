@@ -1,0 +1,17 @@
+##### § 32.31 Certain industrial devices containing byproduct material: Safety criteria. #####
+
+(a) An applicant for a license under § 32.30 shall demonstrate that the device is designed and will be manufactured so that:
+
+(1) In normal use, handling, and storage of the quantities of exempt units likely to accumulate in one location, including during marketing, distribution, installation, and servicing of the device, it is unlikely that the external radiation dose in any one year, or the committed dose resulting from the intake of radioactive material in any one year, to a suitable sample of the group of individuals expected to be most highly exposed to radiation or radioactive material from the device will exceed 200 µSv (20 mrem).
+
+(2) It is unlikely that the external radiation dose in any one year, or the committed dose resulting from the intake of radioactive material in any one year, to a suitable sample of the group of individuals expected to be most highly exposed to radiation or radioactive material from disposal of the quantities of units likely to accumulate in the same disposal site will exceed 10 µSv (1 mrem).
+
+(3) It is unlikely that there will be a significant reduction in the effectiveness of the containment, shielding, or other safety features of the device from wear and abuse likely to occur in normal handling and use of the device during its useful life.
+
+(4) In use, handling, storage, and disposal of the quantities of exempt units likely to accumulate in one location, including during marketing, distribution, installation, and servicing of the device, the probability is low that the containment, shielding, or other safety features of the device would fail under such circumstances that a person would receive an external radiation dose or committed dose in excess of 5 mSv (500 mrem), and the probability is negligible that a person would receive an external radiation dose or committed dose of 100 mSv (10 rem) or greater.1
+
+1 It is the intent of this paragraph that as the magnitude of the potential dose increases above that permitted under normal conditions, the probability that any individual will receive such a dose must decrease. The probabilities have been expressed in general terms to emphasize the approximate nature of the estimates that are to be made. The following values may be used as guides in estimating compliance with the criteria: Low—not more than one such failure/incident per year for each 10,000 exempt units distributed. Negligible—not more than one such failure/incident per year for each one million exempt units distributed.
+
+(b) An applicant for a license under § 32.30 shall demonstrate that, even in unlikely scenarios of misuse, including those resulting in direct exposure to the unshielded source removed from the device for 1,000 hours at an average distance of 1 meter and those resulting in dispersal and subsequent intake of 10−4 of the quantity of byproduct material (or in the case of tritium, an intake of 10 percent), a person will not receive an external radiation dose or committed dose in excess of 100 mSv (10 rem), and, if the unshielded source is small enough to fit in a pocket, that the dose to localized areas of skin averaged over areas no larger than 1 square centimeter from carrying the unshielded source in a pocket for 80 hours will not exceed 2 Sv (200 rem).
+
+[77 FR 43692, July 25, 2012]

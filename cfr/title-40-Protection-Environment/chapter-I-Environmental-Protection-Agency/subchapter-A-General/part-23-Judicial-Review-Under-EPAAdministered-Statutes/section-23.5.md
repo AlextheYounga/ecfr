@@ -1,0 +1,3 @@
+##### § 23.5 Timing of Administrator's action under Toxic Substances Control Act. #####
+
+Unless the Administrator otherwise explicitly provides in promulgating a particular rule or issuing a particular order, the time and date of the Administrator's promulgation or issuance for purposes of section 19(a)(1) shall be at 1:00 p.m. eastern time (standard or daylight, as appropriate) on the date that is (a) for a Federal Register document, two weeks after the date when the document is published in the Federal Register, or (b) for any other document, two weeks after it is signed.

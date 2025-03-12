@@ -1,0 +1,7 @@
+##### § 608.808 Right to offer to repay claim. #####
+
+(a) The debtor may offer to enter into a written agreement with the FCA to repay the amount of the claim. The acceptance of such an offer and the decision to enter into such a written agreement is at the discretion of the FCA.
+
+(b) If the debtor requests a repayment arrangement because payment of the amount due would create a financial hardship, the FCA shall analyze the debtor's financial condition. The FCA may enter into a written agreement with the debtor permitting the debtor to repay the debt in installments if the FCA determines, in its sole discretion, that payment of the amount due would create an undue financial hardship for the debtor. The written agreement shall set forth the amount and frequency of installment payments and shall, in accordance with § 608.812, provide for the imposition of charges for interest, penalties, and administrative costs unless waived by the FCA.
+
+(c) The written agreement may require the debtor to execute a confess-judgment note when the total amount of the deferred installments will exceed $750. The FCA shall provide the debtor with a written explanation of the consequences of signing a confess-judgment note. The debtor shall sign a statement acknowledging receipt of the written explanation. The statement shall recite that the written explanation was read and understood before execution of the note and that the debtor signed the note knowingly and voluntarily. Documentation of these procedures will be maintained in the FCA's file on the debtor.

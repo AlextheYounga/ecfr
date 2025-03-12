@@ -1,0 +1,3 @@
+##### § 221.123 Re-use of Special Tariff Permission when tariff is rejected. #####
+
+If a tariff containing matter issued under Special Tariff Permission is rejected, the same Special Tariff Permission may be used in a tariff issued in lieu of such rejected tariff provided that such re-use is not precluded by the terms of the Special Tariff Permission, and is made within the time limit thereof or within seven days after the date of the Department's notice of rejection, whichever is later, but in no event later than fifteen days after the expiration of the time limit specified in the Special Tariff Permission.

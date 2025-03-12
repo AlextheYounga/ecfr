@@ -1,0 +1,3 @@
+##### § 602.24 Responses to demands served on non-FCA employees or entities. #####
+
+If you are not an employee and are served with a demand or a subpoena in a legal proceeding directing you to produce or testify about an FCA report of examination, other document created or adopted by FCA, or any related document, you must object and immediately tell the General Counsel of such service, the testimony or documents described in the demand, and all relevant facts. You also must object to the production of any documents on the basis that they are FCA's property and cannot be released without FCA's consent. You should tell the requester the production of documents or testimony must follow the procedures in this part.

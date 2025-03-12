@@ -1,0 +1,3 @@
+##### § 281.60 Criteria for withdrawal of approval of state programs. #####
+
+The Administrator may withdraw program approval when the Agency determines that a state no longer has adequate regulatory or statutory authority or is not administering and enforcing an approved program in accordance with this part. The state must have adequate capability to administer and enforce the state program. In evaluating whether such capability exists, the Agency will consider whether the state is implementing an adequate enforcement program by evaluating the quality of compliance monitoring and enforcement actions.

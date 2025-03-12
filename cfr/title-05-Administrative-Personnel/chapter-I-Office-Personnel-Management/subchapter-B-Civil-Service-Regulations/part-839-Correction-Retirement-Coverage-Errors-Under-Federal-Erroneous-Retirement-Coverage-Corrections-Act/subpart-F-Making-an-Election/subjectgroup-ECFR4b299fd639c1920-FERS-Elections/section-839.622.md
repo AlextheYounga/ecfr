@@ -1,0 +1,3 @@
+##### § 839.622 Can I cancel my FERS election if my qualifying retirement coverage error was previously corrected and I now have an election opportunity under the FERCCA? #####
+
+Yes, your FERS coverage election does not disqualify you from making a retirement coverage election under the FERCCA. You can choose whether you want the FERS election to remain in effect. However, you may not choose whether you want your FERS election to remain in effect if you chose FERS after your employer notified you that you were put in FERS by mistake (see § 839.221).

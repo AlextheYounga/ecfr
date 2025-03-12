@@ -1,0 +1,5 @@
+##### § 107.339 Imminent hazards. #####
+
+Whenever it appears to the Office of the Chief Counsel that there is a substantial likelihood that death, serious illness, or severe personal injury will result from the transportation of a particular hazardous material or hazardous materials container, before a compliance order proceeding or other administrative hearing or formal proceeding to abate the risk of that harm can be completed, the Administrator, PHMSA, or his delegate, may bring an action under 49 U.S.C. 5122(b) in the appropriate United States District Court for an order suspending or restricting the transporation of that hazardous material or those containers or for such other equitable relief as is necessary or appropriate to ameliorate the hazard.
+
+[Amdt. 107-11, 48 FR 2651, Jan. 20, 1983, as amended by Amdt. 107-15, 51 FR 34987, Oct. 1, 1986; Amdt. 107-32, 59 FR 49131, Sept. 26, 1994]

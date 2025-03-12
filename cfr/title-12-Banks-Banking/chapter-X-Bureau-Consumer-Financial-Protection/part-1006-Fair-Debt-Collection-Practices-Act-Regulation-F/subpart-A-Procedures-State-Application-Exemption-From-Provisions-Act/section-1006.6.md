@@ -1,0 +1,11 @@
+##### § 1006.6 Exemption from requirements. #####
+
+If the Bureau determines on the basis of the information before it that, under the law of a state, a class of debt collection practices is subject to requirements substantially similar to, or that provide greater protection to consumers than, those imposed under sections 803 through 812 and section 814 of the Act, and that there is adequate provision for state enforcement, the Bureau will exempt the class of debt collection practices in that state from the requirements of sections 803 through 812 and section 814 of the Act in the following manner and subject to the following conditions:
+
+(a) Notice of the exemption shall be published in the Federal Register, and the Bureau shall furnish a copy of such notice to the state official who made application for such exemption, to each Federal authority responsible for administrative enforcement of the requirements of sections 803 through 812 of the Act, and to the Attorney General of the United States. Any exemption granted shall be effective 90 days after the date of publication of such notice in the Federal Register.
+
+(b) The appropriate official of any state that receives an exemption shall inform the Bureau in writing within 30 days of any change in the state laws referred to in § 1006.3(a) and (c) of this part. The report of any such change shall contain copies of the full text of that change, together with statements setting forth the information and opinions regarding that change that are specified in § 1006.3(b) and (d). The appropriate official of any state that has received such an exemption also shall file with the Bureau from time to time such reports as the Bureau may require.
+
+(c) The Bureau shall inform the appropriate official of any state that receives such an exemption of any subsequent amendments of the Act or this part that might necessitate the amendment of state law for the exemption to continue.
+
+(d) No exemption shall extend to the civil liability provisions of section 813 of the Act. After an exemption is granted, the requirements of the applicable state law shall constitute the requirements of sections 803 through 812 of the Act, except to the extent such state law imposes requirements not imposed by the Act or this part.

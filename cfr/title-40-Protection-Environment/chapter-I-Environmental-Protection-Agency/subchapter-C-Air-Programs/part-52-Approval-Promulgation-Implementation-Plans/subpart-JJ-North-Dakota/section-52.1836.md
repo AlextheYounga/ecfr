@@ -1,0 +1,5 @@
+##### § 52.1836 Change to approved plan. #####
+
+North Dakota Administrative Code Chapter 33-15-13, National Emission Standards for Hazardous Air Pollutants, is removed from the approved plan. This change is a result of EPA's July 7, 1995 interim approval of North Dakota's Title V Operating Permit program, in which it granted delegation of authority to North Dakota to implement and enforce Clean Air Act section 112 requirements. That delegation of authority includes, among other things, the NESHAPs promulgated in 40 CFR part 61 (“part 61 NESHAPs”). With a September 10, 1997 submittal, the State requested delegation of authority to implement and enforce the Clean Air Act part 61 NESHAPSs (except subparts B, H, K, Q, R, T, and W, pertaining to radionuclides), as in effect on October 1, 1996. EPA did not act on the State's request for delegation of authority for 40 CFR part 61, subpart I (regarding radionuclide emissions from facilities licensed by the Nuclear Regulatory Commission and other Federal facilities not covered by subpart H) because EPA rescinded subpart I subsequent to the State's adoption of these revisions.
+
+[67 FR 62398, Oct. 7, 2002]

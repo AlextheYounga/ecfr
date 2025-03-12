@@ -1,0 +1,3 @@
+##### § 86.1836-01 Manufacturer-supplied production vehicles for testing. #####
+
+Any manufacturer obtaining certification under this subpart shall supply to the Administrator, upon request, a reasonable number of production vehicles selected by the Administrator which are representative of the engines, emission control systems, fuel systems, and transmission offered and typical of production models available for sale under the certificate. These vehicles shall be supplied for testing at such time and place and for such reasonable periods as the Administrator may require.

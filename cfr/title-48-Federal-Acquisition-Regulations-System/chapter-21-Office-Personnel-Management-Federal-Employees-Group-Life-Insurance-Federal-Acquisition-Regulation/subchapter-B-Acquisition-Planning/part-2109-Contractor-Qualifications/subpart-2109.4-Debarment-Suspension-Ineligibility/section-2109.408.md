@@ -1,0 +1,3 @@
+##### 2109.408 Certification regarding debarment, suspension, proposed debarment and other responsibility matters. #####
+
+FAR subpart 9.4 is implemented by changing the FAR offeror's certification at FAR 52.209-5 (which is part of a solicitation) to a pre-contract certificate and a contract clause. These provisions reflect the FEGLI Program's statutory exemption from competitive bidding (5 U.S.C. 8709), which obviates the issuance of solicitations.

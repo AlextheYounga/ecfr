@@ -1,0 +1,3 @@
+##### § 3902.104 Confidentiality of employees' statements. #####
+
+Each supplemental statement of employment and financial interests shall be held in confidence and shall be retained in the Office of the Designated Agency Ethics Official. Each employee charged with reviewing a statement is responsible for maintaining the statements in confidence and shall not allow access to or allow information to be disclosed from a statement except to carry out the purpose of this part or as otherwise required by law. Information from these statements shall not be disclosed except as the Chairman may determine in accordance with law or regulation.

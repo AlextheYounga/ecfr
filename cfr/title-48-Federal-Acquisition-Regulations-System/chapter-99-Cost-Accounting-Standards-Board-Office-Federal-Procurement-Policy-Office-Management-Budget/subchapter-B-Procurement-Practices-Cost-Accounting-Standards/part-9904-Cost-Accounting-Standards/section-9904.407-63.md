@@ -1,0 +1,3 @@
+##### 9904.407-63 Effective date. #####
+
+This Standard is effective as of April 17, 1992. Contractors with prior CAS-covered contracts with full coverage shall continue this Standard's applicability upon receipt of a contract to which this Standard is applicable. For contractors with no previous contracts subject to this Standard, this Standard shall be applied beginning with the contractor's next full fiscal year beginning after the receipt of a contract to which this Standard is applicable.

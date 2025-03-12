@@ -1,0 +1,3 @@
+##### § 495.326 Disallowance of FFP. #####
+
+If the HHS finds that any acquisition approved or modified under the provisions of this subpart fails to comply with the criteria, requirements, and other undertakings described in the approved HIT planning advance planning document and HIT implementation advance planning document to the detriment of the proper and efficient operation of the Medicaid program, payment of FFP may be disallowed. In the case of a suspension of approval of a HIT planning advance planning document and HIT implementation advance planning document, suspension would occur in the same manner as 45 CFR 205.37(c) and 307.40(a).

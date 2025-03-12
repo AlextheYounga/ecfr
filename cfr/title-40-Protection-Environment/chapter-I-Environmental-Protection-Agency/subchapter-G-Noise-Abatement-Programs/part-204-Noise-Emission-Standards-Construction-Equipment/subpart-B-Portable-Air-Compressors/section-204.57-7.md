@@ -1,0 +1,9 @@
+##### § 204.57-7 Acceptance and rejection of batch sequence. #####
+
+(a) The manufacturer will continue to inspect consecutive batches until the batch sequence is accepted or rejected. The batch sequence will be accepted or rejected based upon the number of rejected batches. A sufficient number of consecutive batches will be inspected until the cumulative number of rejected batches is less than or equal to the sequence acceptance number or greater than or equal to the sequence rejection number appropriate for the cumulative number of batches inspected. The acceptance and rejection numbers listed in Appendix I, Table III at the appropriate code letter obtained according to § 204.57-2 will be used in determining whether the acceptance or rejection of a batch sequence has occurred.
+
+(b) Acceptance or rejection of a batch sequence takes places when the decision is made on the last compressor required to make a decision under paragraph (a) of this section.
+
+(c) If the batch sequence is accepted, the manufacturer will not be required to perform any additional testing on compressors from subsequent batches pursuant to the initiating test request.
+
+(d) The Administrator may terminate testing earlier than required in paragraph (b) of this section based on a request by the manufacturer accompanied by voluntary cessation of distribution in commerce, from all plants, of compressors from the configuration in question: *Provided,* That once production is reinitiated, the manufacturer must take the action described in § 204.57-9 (a)(1) and (a)(2) prior to distribution in commerce of any compressors from any plant of the compressor category or configuration in question.

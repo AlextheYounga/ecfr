@@ -1,0 +1,7 @@
+##### § 423.440 Prohibition of State imposition of premium taxes; relation to State laws. #####
+
+(a) *Federal preemption of State law.* The standards established under this part supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) for Part D plans offered by Part D plan sponsors.
+
+(b) *State premium taxes prohibited*—(1) *Basic rule.* No premium tax, fee, or other similar assessment may be imposed by any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa, the Mariana Islands or any of their political subdivisions or other governmental authorities for any payment CMS makes on behalf of Part D plan or enrollees under this part (including the direct subsidy, reinsurance payments, and risk corridor payments); or for any payment made to Part D plans by a beneficiary or by a third party on behalf of a beneficiary.
+
+(2) *Construction.* Nothing in this section may be construed to exempt any Part D plan sponsor from taxes, fees, or other monetary assessments related to the net income or profit that accrues to, or is realized by, the organization from business conducted under this part, if that tax, fee, or payment is applicable to a broad range of business activity.

@@ -1,0 +1,7 @@
+##### § 214.503 Good-faith challenges; procedures for notification and resolution. #####
+
+(a) An employee operating an on-track roadway maintenance machine or hi-rail vehicle shall inform the employer whenever the employee makes a good-faith determination that the machine or vehicle does not comply with FRA regulations or has a condition that inhibits its safe operation.
+
+(b) Any employee charged with operating an on-track roadway maintenance machine or hi-rail vehicle covered by this subpart may refuse to operate the machine or vehicle if the employee makes a good-faith determination that it does not comply with the requirements of this subpart or has a condition that inhibits its safe operation. The employer shall not require the employee to operate the machine or vehicle until the challenge resulting from the good-faith determination is resolved.
+
+(c) Each employer shall have in place and follow written procedures to assure prompt and equitable resolution of challenges resulting from good-faith determinations made in accordance with this section. The procedures shall include specific steps to be taken by the employer to investigate each good-faith challenge, as well as procedures to follow once the employer finds a challenged machine or vehicle does not comply with this subpart or is otherwise unsafe to operate. The procedures shall also include the title and location of the employer's designated official.

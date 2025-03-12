@@ -1,0 +1,3 @@
+##### § 52.173 Duration of manufacturing license. #####
+
+A manufacturing license issued under this subpart may be valid for not less than 5, nor more than 15 years from the date of issuance. A holder of a manufacturing license may not initiate the manufacture of a reactor less than 3 years before the expiration of the license even though a timely application for renewal has been docketed with the NRC. Upon expiration of the manufacturing license, the manufacture of any uncompleted reactors must cease unless a timely application for renewal has been docketed with the NRC.

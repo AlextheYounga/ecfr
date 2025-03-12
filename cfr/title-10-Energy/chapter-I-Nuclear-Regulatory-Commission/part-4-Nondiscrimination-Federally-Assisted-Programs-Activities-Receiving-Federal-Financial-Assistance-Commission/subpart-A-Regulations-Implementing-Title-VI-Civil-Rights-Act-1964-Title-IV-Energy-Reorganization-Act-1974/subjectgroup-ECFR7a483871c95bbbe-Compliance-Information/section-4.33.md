@@ -1,0 +1,3 @@
+##### § 4.33 Access to sources of information. #####
+
+Each recipient shall permit access by the responsible NRC official during normal business hours to such of its books, records, accounts, and other sources of information, and its facilities as may be pertinent to ascertain compliance with this subpart. Where any information required of a recipient is in the exclusive possession of any other agency, institution or person and that agency, institution or person shall fail or refuse to furnish this information, the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information.

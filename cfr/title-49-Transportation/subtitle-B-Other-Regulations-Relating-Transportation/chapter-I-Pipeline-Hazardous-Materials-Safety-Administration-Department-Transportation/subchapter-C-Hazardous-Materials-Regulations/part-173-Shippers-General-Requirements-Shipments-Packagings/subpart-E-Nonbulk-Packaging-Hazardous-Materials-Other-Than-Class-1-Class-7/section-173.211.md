@@ -1,0 +1,11 @@
+##### § 173.211 Non-bulk packagings for solid hazardous materials in Packing Group I. #####
+
+(a) When § 172.101 of this subchapter specifies that a solid hazardous material be packaged under this section, only non-bulk packagings prescribed in this section may be used for its transportation. Each package must conform to the general packaging requirements of subpart B of part 173, to the requirements of part 178 of this subchapter at the Packing Group I performance level, and to the requirements of the special provisions of column 7 of the § 172.101 table.
+
+(b) The following combination packagings are authorized:
+
+*Outer packagings:*Steel drum: 1A1 or 1A2Aluminum drum: 1B1 or 1B2Metal drum other than steel or aluminum: 1N1 or 1N2Plywood drum: 1DFiber drum: 1GPlastic drum: 1H1 or 1H2Wooden barrel: 2C2Steel jerrican: 3A1 or 3A2Plastic jerrican: 3H1 or 3H2Aluminum jerrican: 3B1 or 3B2Steel box: 4AAluminum box: 4BNatural wood box: 4C1 or 4C2Plywood box: 4DReconstituted wood box: 4FFiberboard box: 4GSolid plastic box: 4H2Metal box other than steel or aluminum: 4N*Inner packagings:*Glass or earthenware receptaclesPlastic receptaclesMetal receptaclesGlass ampoules
+
+(c) Except for transportation by passenger aircraft, the following single packagings are authorized:
+
+Steel drum: 1A1 or 1A2Aluminum drum: 1B1 or 1B2Metal drum other than steel or aluminum: 1N1 or 1N2Plastic drum: 1H1 or 1H2Fiber drum: 1GSteel jerrican: 3A1 or 3A2Plastic jerrican: 3H1 or 3H2Aluminum jerrican: 3B1 or 3B2Steel box with liner: 4AAluminum box with liner: 4BMetal box other than steel or aluminum: 4NNatural wood box, sift proof: 4C2Plastic receptacle in steel, aluminum, plywood, fiber or plastic drum: 6HA1, 6HB1, 6HD1, 6HG1 or 6HH1Glass, porcelain or stoneware in steel, aluminum, plywood or fiber drum: 6PA1, 6PB1, 6PD1 or 6PG1Glass, porcelain or stoneware in steel, aluminum, wooden or fiberboard box: 6PA2, 6PB2, 6PC or 6PG2Glass, porcelain or stoneware in expanded or solid plastic packaging: 6PH1 or 6PH2Cylinders, as prescribed for any compressed gas, except for Specification 8 and 3HT[Amdt. 173-224, 55 FR 52643, Dec. 21, 1990, as amended at 56 FR 66271, Dec. 20, 1991; 57 FR 45463, Oct. 1, 1992; Amdt. 173-241, 59 FR 67511, 67518, Dec. 29, 1994; Amdt. 173-261, 62 FR 24734, May 6, 1997; 69 FR 76157, Dec. 20, 2004; 78 FR 1089, Jan. 7, 2013]

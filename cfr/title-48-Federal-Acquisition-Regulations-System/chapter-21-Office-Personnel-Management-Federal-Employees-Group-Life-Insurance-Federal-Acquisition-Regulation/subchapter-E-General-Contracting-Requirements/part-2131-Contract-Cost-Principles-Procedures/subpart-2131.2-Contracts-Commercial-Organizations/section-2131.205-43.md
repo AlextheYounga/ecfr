@@ -1,0 +1,5 @@
+##### 2131.205-43 Trade, business, technical and professional activity costs. #####
+
+(a) FEGLI Program contractors shall seek the advance written approval of the contracting officer for allowability of all or part of the costs associated with trade, business, technical, and professional activities when the allocable costs of such participation to the FEGLI Program will exceed $2,500 annually and the contractor allocates more than 50 percent of the membership cost of a trade, business, technical, or professional organization to the FEGLI Program.
+
+(b) When approval of costs for membership in an organization is required, the contractor must demonstrate conclusively that membership in such an organization and participation in its activities extend beyond the contractual relationship with OPM, have a reasonable relationship to providing services to FEGLI Program insureds, and that the organization is not engaged in activities such as those cited in FAR 31.205-22 (lobbying costs) for which costs are not allowable.

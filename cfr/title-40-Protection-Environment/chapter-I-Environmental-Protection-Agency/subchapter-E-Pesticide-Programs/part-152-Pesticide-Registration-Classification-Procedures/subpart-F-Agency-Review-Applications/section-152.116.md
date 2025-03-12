@@ -1,0 +1,9 @@
+##### § 152.116 Notice of intent to register to original submitters of exclusive use data. #####
+
+(a) Except as provided in paragraph (c) of this section, at least 30 days before registration of a product containing an active ingredient for which a previously submitted study is eligible for exclusive use under FIFRA sec. 3(c)(1)(F)(i), the Agency will notify the original submitter of the exclusive use study of the intended registration of the product. If requested by the exclusive use data submitter within 30 days, the Agency will also provide the applicant's list of data requirements and method of demonstrating compliance with each data requirement.
+
+(b) Within 30 days after receipt of the Agency's notice, or of the applicant's list of data requirements, whichever is later, the exclusive use data submitter may challenge the issuance of the registration in accordance with the procedures in § 152.99 (b) and (c). If the Agency finds that the challenge has merit, it will issue a notice of denial of the application. The applicant may then avail himself of the hearing procedures provided by FIFRA sec. 3(c)(6). If the Agency finds that the challenge is without merit, it will deny the petition and register the applicant's product. Denial of the petition is a final Agency action.
+
+(c) If an applicant has submitted to the Agency a certification from an exclusive use data submitter that he is aware of the applicant's application for registration, and does not object to the issuance of the registration, the Agency will not provide the 30-day notification described in paragraph (a) of this section to that exclusive use data submitter.
+
+[53 FR 15980, May 4, 1988, as amended at 73 FR 75595, Dec. 12, 2008]

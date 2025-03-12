@@ -1,0 +1,19 @@
+##### § 63.9040 How do I demonstrate continuous compliance with the emission limitations and work practice standards? #####
+
+(a) You must demonstrate continuous compliance with each emission limit and work practice standard in Table 1 to this subpart that applies to you according to Table 4 to this subpart.
+
+(b) You must demonstrate continuous compliance with each operating limit in Table 2 of this subpart that applies to you according to Tables 4 and 5 to this subpart.
+
+(c) You must report each instance in which you did not meet an emission limit, work practice standard or operating limit in Table 1 or 2 to this subpart, respectively, that applies to you. This includes periods of startup, shutdown, and malfunction. These instances are deviations from the emission limitations in this subpart. These deviations must be reported according to the requirements in § 63.9050.
+
+(d) [Reserved]
+
+(e) For existing sources and for new or reconstructed sources which commenced construction or reconstruction after April 17, 2003, but before February 5, 2019, before October 13, 2020, consistent with §§ 63.6(e) and 63.7(e)(1), deviations that occur during a period of startup, shutdown, or malfunction are not violations if you demonstrate to the Administrator's satisfaction that you were operating in accordance with § 63.6(e)(1). The Administrator will determine whether deviations that occur during a period of startup, shutdown, or malfunction are violations, according to the provisions in § 63.6(e). After October 13, 2020 for such sources, and after April 15, 2020 for new and reconstructed sources which commence construction or reconstruction after February 4, 2019, the exemptions for periods of startup, shutdown, and malfunction in § 63.6(e) no longer apply.
+
+(f) An owner or operator may designate a process vent as a maintenance vent if the vent is only used as a result of startup or shutdown, of equipment where equipment is emptied, depressurized, degassed or placed into service. The owner or operator does not need to designate a maintenance vent as a HCl process vent, HCl storage tank vent, or an HCl transfer operation. The owner or operator must comply with the applicable requirements in paragraphs (f)(1) and (2) of this section for each maintenance vent by October 13, 2020 or the date of startup for new and reconstructed sources, whichever is later, unless an extension is requested in accordance with the provisions in § 63.6(i).
+
+(1) Prior to venting to the atmosphere, process liquids must be removed from the equipment as much as practical and the equipment must be washed with water or purged with air or otherwise depressurized to a control device, fuel gas system, or back to the process to remove the HCl and Cl2 until the equipment served by the maintenance vent contains less than 20 pounds of HCl or Cl2.
+
+(2) For maintenance vents complying with the requirements in paragraph (f)(1) of this section, the owner or operator shall demonstrate the mass of HCl or Cl2 in the equipment served by the maintenance vent is less than 20 pounds for each maintenance activity based on the equipment size and contents after considering any contents drained or purged from the equipment. Equipment size may be determined from equipment design specifications. Equipment contents may be determined using process knowledge. The owner or operator must maintain records for five years of the number of maintenance activities for which maintenance vent provisions are used during each reporting period.
+
+[68 FR 19090, Apr. 17, 2003, as amended at 71 FR 20470, Apr. 20, 2006; 85 FR 20868, Apr. 15, 2020]

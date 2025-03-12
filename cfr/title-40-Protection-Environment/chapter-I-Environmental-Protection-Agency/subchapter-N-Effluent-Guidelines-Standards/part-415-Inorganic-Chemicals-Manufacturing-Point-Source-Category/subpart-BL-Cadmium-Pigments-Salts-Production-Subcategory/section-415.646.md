@@ -1,0 +1,5 @@
+##### § 415.646 Pretreatment standards for new sources (PSNS). #####
+
+(a) Except as provided in 40 CFR 403.7, any new source subject to this subpart and producing cadmium pigments which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources (PSNS): The limitations for cadmium (T), selenium (T), and zinc (T), are the same as specified in § 415.644(a).
+
+(b) Except as provided in 40 CFR 403.7, any new source subject to this subpart and producing cadmium salts which introduces pollutants into a publicly owned treatment works must comply with 40 CFR part 403 and achieve the following pretreatment standards for new sources (PSNS): The limitations for cadmium (T), selenium (T), and zinc (T) are the same as specified in § 415.644(b).

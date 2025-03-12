@@ -1,0 +1,3 @@
+##### § 225.4 Waiver by Administrator. #####
+
+The Administrator shall grant the requested waiver unless within 30 days of his receipt of the notice, certificate and request in accordance with paragraph (b) of § 225.3 he determines in accordance with this section that the proposed dumping will have an unacceptable adverse effect on municipal water supplies, shellfish beds and fishery areas (including spawning and breeding areas), wildlife, or recreational areas. Notice of the Administrator's final determination under this section shall be given to the Secretary of the Army.

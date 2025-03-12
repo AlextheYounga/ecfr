@@ -1,0 +1,3 @@
+##### 1631.205-78 FEHBP printed material costs. #####
+
+Unless OPM determines that it is in the best interest of the FEHBP to do otherwise, if a carrier orders printed material that is available from the Government Printing Office (GPO) under the “rider system” from another source, the allowable contract charges shall be the lesser of the amount actually paid or the cost that would have been incurred had the carrier ridden OPM's GPO order.

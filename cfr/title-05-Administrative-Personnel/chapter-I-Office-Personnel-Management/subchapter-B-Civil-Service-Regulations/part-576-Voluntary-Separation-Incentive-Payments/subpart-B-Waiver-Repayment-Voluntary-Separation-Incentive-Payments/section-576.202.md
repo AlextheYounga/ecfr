@@ -1,0 +1,3 @@
+##### § 576.202 Repayment requirement. #####
+
+An executive branch employee who received a Voluntary Separation Incentive Payment as described in subpart A of this part and accepts any employment for compensation with the Government of the United States within 5 years after the date of the separation on which the payment is based must repay the entire amount of the Voluntary Separation Incentive Payment to the agency that paid it before the individual's first day of reemployment.

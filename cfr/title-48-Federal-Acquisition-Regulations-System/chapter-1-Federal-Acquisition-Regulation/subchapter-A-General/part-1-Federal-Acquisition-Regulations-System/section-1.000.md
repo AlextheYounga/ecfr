@@ -1,0 +1,3 @@
+##### 1.000 Scope of part. #####
+
+This part sets forth basic policies and general information about the Federal Acquisition Regulations System including purpose, authority, applicability, issuance, arrangement, numbering, dissemination, implementation, supplementation, maintenance, administration, and deviation. Subparts 1.2, 1.3, and 1.4 prescribe administrative procedures for maintaining the FAR System.

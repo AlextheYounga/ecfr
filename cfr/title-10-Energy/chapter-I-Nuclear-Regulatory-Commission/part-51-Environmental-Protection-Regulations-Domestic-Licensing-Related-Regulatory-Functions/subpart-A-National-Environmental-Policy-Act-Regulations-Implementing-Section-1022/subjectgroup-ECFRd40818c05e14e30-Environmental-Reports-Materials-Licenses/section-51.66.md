@@ -1,0 +1,5 @@
+##### § 51.66 Environmental report—number of copies; distribution. #####
+
+Each applicant for a license or other form of permission, or an amendment to or renewal of a license or other form of permission issued under parts 30, 32, 33, 34, 35, 36, 39, 40, 61, 70, and/or 72 of this chapter, and covered by §§ 51.60(b)(1) through (6); or by §§ 51.61 or 51.62 shall submit to the Director of Nuclear Material Safety and Safeguards an environmental report or any supplement to an environmental report in the manner specified in § 51.58(a). The applicant shall maintain the capability to generate additional copies of the environmental report or any supplement to the environmental report for subsequent distribution to Federal, State, and local officials, and any affected Indian Tribes in accordance with written instructions issued by the Director of Nuclear Material Safety and Safeguards.
+
+[72 FR 49514, Aug. 28, 2007]

@@ -1,0 +1,3 @@
+##### § 75.42 Reliability criteria. #####
+
+To demonstrate reliability equal to or better than the continuous emission monitoring system, the owner or operator shall demonstrate that the alternative monitoring system is capable of providing valid 1-hr averages for 95.0 percent or more of unit operating hours over a 1-yr period and that the system meets the applicable requirements of appendix B of this part.

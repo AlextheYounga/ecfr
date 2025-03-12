@@ -1,0 +1,7 @@
+##### § 1203.21 Response to the application for award. #####
+
+(a) Agency counsel must file a response within 30 days after service of an application for award of fees and other expenses except as provided in paragraphs (b) and (c) of this section. In the response, agency counsel must explain any objections to the award requested and identify the facts relied upon to support the objections. If any of the alleged facts are not already in the record of the underlying adversary adjudication, agency counsel must include with the response either supporting affidavits or a request for further proceedings under § 1203.25.
+
+(b) If agency counsel and the applicant believe that the issues in the application for award can be settled, they may jointly file a statement of their intent to negotiate a settlement. The filing of this statement will extend the time for filing a response for an additional 30 days. Upon request by agency counsel and the applicant, the adjudicative officer may grant for good cause further time extensions.
+
+(c) Agency counsel may request that the adjudicative officer extend the time period for filing a response. If agency counsel does not respond or otherwise does not contest or settle the application for award within the 30-day period or the extended time period, the adjudicative officer may make an award of fees and other expenses upon a satisfactory showing of entitlement by the applicant.

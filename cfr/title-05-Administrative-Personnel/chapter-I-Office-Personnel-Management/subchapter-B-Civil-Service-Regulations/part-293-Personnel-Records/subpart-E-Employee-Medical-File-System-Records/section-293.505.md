@@ -1,0 +1,7 @@
+##### § 293.505 Establishment and protection of Employee Medical Folder. #####
+
+(a) As required by these rules, agencies must establish an EMF when the employee leaves the employing agency and occupational medical records for that employee exist; agencies may also establish an EMF (if none presently exists) for active employees if the agency chooses. An agency must request the transfer of an existing EMF (and maintain that EMF as received) at the same time it requests the transfer of an employee's OPF using the procedures contained in § 293.306.
+
+(b) Neither the original occupational medical record nor duplicates are to be retained in the OPF. Prior to the establishment of an EMF for a separating employee, when such records are created, they must be maintained physically apart from the OPF, although they may be kept in the same office.
+
+(c) Records in an EMF, whether or not located in an office other than where the OPF is maintained, must be properly safeguarded using procedures ensuring equal or greater levels of protection as those in § 293.106. Disclosures must be made only to those authorized to receive them, as described in § 293.504(b), and employees must be able to ascertain from agency implementing instructions the location of all of their medical records. An EMF must be under the control of a specifically designated medical, health, safety, or personnel officer as prescribed in the agency's implementing internal procedures.

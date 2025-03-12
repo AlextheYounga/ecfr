@@ -1,0 +1,3 @@
+##### § 2.18 Restrictions on the use of identification cards. #####
+
+No person may require any patient to carry on his or her person while away from the program premises any card or other object which would identify the patient as an alcohol or drug abuser. This section does not prohibit a person from requiring patients to use or carry cards or other identification objects on the premises of a program.

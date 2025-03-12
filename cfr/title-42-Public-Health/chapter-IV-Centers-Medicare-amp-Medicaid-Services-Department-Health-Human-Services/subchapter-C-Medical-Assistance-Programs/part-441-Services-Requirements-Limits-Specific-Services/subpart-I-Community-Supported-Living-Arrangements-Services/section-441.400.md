@@ -1,0 +1,3 @@
+##### § 441.400 Basis and purpose. #####
+
+This subpart implements section 1905(a)(24) of the Act, which adds community supported living arrangements services to the list of services that States may provide as medical assistance under title XIX (to the extent and as defined in section 1930 of the Act), and section 1930(h)(1)(B) of the Act, which specifies minimum protection requirements that a State which provides community supported living arrangements services as an optional Medicaid service to developmentally disabled individuals must meet to ensure the health, safety and welfare of those individuals.

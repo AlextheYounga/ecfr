@@ -1,0 +1,3 @@
+##### § 195.569 Do I have to examine exposed portions of buried pipelines? #####
+
+Whenever you have knowledge that any portion of a buried pipeline is exposed, you must examine the exposed portion for evidence of external corrosion if the pipe is bare, or if the coating is deteriorated. If you find external corrosion requiring corrective action under § 195.585, you must investigate circumferentially and longitudinally beyond the exposed portion (by visual examination, indirect method, or both) to determine whether additional corrosion requiring remedial action exists in the vicinity of the exposed portion.

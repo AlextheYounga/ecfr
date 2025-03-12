@@ -1,0 +1,13 @@
+##### 42.704 Billing rates. #####
+
+(a) The contracting officer (or cognizant Federal agency official) or auditor responsible under 42.705 for establishing the final indirect cost rates also shall be responsible for determining the billing rates.
+
+(b) The contracting officer (or cognizant Federal agency official) or auditor shall establish billing rates on the basis of information resulting from recent review, previous rate audits or experience, or similar reliable data or experience of other contracting activities. In establishing billing rates, the contracting officer (or cognizant Federal agency official) or auditor should ensure that the billing rates are as close as possible to the final indirect cost rates anticipated for the contractor's fiscal period, as adjusted for any unallowable costs. When the contracting officer (or cognizant Federal agency official) or auditor determines that the dollar value of contracts requiring use of billing rates does not warrant submission of a detailed billing rate proposal, the billing rates may be established by making appropriate adjustments from the prior year's indirect cost experience to eliminate unallowable and nonrecurring costs and to reflect new or changed conditions.
+
+(c) Once established, billing rates may be prospectively or retroactively revised by mutual agreement of the contracting officer (or cognizant Federal agency official) or auditor and the contractor at either party's request, to prevent substantial overpayment or underpayment. When agreement cannot be reached, the billing rates may be unilaterally determined by the contracting officer (or cognizant Federal agency official).
+
+(d) The elements of indirect cost and the base or bases used in computing billing rates shall not be construed as determinative of the indirect costs to be distributed or of the bases of distribution to be used in the final settlement.
+
+(e) When the contractor provides to the cognizant contracting officer the certified final indirect cost rate proposal in accordance with 42.705-(b) or 42.705-(b), the contractor and the Government may mutually agree to revise billing rates to reflect the proposed indirect cost rates, as approved by the Government to reflect historically disallowed amounts from prior years' audits, until the proposal has been audited and settled. The historical decrement will be determined by either the cognizant contracting officer (42.705-1(b)) or the cognizant auditor (42.705-2(b)).
+
+[48 FR 42370, Sept. 19, 1983, as amended at 61 FR 69296, Dec. 31, 1996; 63 FR 9064, Feb. 23, 1998]

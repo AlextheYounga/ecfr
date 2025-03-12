@@ -1,0 +1,3 @@
+##### § 137.169 How much time does the Federal Government have to make a claim against a Self-Governance Tribe relating to any disallowance of costs, based on an audit conducted under § 137.165? #####
+
+Any right of action or other remedy (other than those relating to a criminal offense) relating to any disallowance of costs is barred unless the Secretary provides notice of such a disallowance within 365 days from receiving any required annual agency single audit report or, for any period covered by law or regulation in force prior to enactment of the Single Agency Audit Act of 1984, any other required final audit report.

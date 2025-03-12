@@ -1,0 +1,3 @@
+##### 15.101 Best value continuum. #####
+
+An agency can obtain best value in negotiated acquisitions by using any one or a combination of source selection approaches. In different types of acquisitions, the relative importance of cost or price may vary. For example, in acquisitions where the requirement is clearly definable and the risk of unsuccessful contract performance is minimal, cost or price may play a dominant role in source selection. The less definitive the requirement, the more development work required, or the greater the performance risk, the more technical or past performance considerations may play a dominant role in source selection.

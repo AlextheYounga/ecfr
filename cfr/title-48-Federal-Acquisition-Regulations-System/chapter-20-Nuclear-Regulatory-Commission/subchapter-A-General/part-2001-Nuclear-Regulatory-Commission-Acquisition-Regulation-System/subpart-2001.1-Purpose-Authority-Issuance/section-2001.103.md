@@ -1,0 +1,3 @@
+##### 2001.103 Applicability. #####
+
+The FAR and NRCAR apply to all NRC acquisitions of supplies and services which obligate appropriated funds, unless exempted by Sections 31 and 161 of the Atomic Energy Act of 1954 as amended, and Section 205 of the Energy Reorganization Act of 1974 as amended. For procurements made from nonappropriated funds, the Director, Division of Contracts and Property Management, shall determine the rules and procedures that apply.

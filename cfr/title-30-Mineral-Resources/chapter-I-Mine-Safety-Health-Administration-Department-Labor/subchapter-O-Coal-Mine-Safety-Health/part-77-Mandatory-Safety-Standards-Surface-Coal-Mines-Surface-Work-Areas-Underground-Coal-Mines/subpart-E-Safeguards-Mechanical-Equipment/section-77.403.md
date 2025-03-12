@@ -1,0 +1,7 @@
+##### § 77.403 Mobile equipment; falling object protective structures (FOPS). #####
+
+(a) When necessary to protect the operator of the equipment, all rubber-tired or crawler-mounted self-propelled scrapers, front-end loaders, dozers, graders, loaders, and tractors, with or without attachments, that are used in surface coal mines or the surface work areas of underground coal mines shall be provided with substantial falling object protective structures (FOPS). FOPS which meet the requirements of the Society of Automotive Engineers (SAE) Standard J 231 shall be considered to be a “substantial” FOPS. An authorized representative of the Secretary may approve a FOPS which provides protection equivalent to SAE J 231.
+
+(b) When necessary to protect the operator of the equipment, forklift or powered industrial trucks shall be provided with substantial FOPS. Such FOPS shall meet the requirements of the State of California, Division of Industrial Safety, General Safety Orders, Register 72, Number 6, February 8, 1972, Article 25, Section 3655—“Overhead Guards for High-Lift Rider Trucks.”
+
+(Sec. 101(a), Federal Coal Mine Health and Safety Act of 1969, as amended (83 Stat. 745; 30 U.S.C. 811(a))[39 FR 24007, June 28, 1974]

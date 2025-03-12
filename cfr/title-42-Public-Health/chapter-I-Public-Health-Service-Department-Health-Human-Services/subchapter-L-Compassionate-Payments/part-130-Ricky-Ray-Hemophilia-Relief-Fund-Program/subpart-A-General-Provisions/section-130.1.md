@@ -1,0 +1,3 @@
+##### § 130.1 Purpose. #####
+
+This part establishes criteria and procedures for implementation of the Ricky Ray Hemophilia Relief Fund Act of 1998 (the Act). This statute provides for compassionate payments to certain individuals with blood-clotting disorders, such as hemophilia, who contracted human immunodeficiency virus (HIV) due to contaminated antihemophilic factor within a specified time period, as well as to certain persons who contracted HIV from these individuals. In the event the individual eligible for payment is deceased, the Act also provides for payments to certain survivors of this individual.

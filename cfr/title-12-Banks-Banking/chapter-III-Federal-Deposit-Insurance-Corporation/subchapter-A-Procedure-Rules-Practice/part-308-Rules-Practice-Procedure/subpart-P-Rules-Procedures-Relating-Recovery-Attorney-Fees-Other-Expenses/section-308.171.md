@@ -1,0 +1,13 @@
+##### § 308.171 Responses to application. #####
+
+(a) *By FDIC.* (1) Within 20 days after service of an application, counsel for the FDIC may file with the Executive Secretary and serve on all parties an answer to the application. Unless counsel for the FDIC requests and is granted an extension of time for filing or files a statement of intent to negotiate under § 308.179 of this subpart, failure to file an answer within the 20-day period will be treated as a consent to the award requested.
+
+(2) The answer shall explain in detail any objections to the award requested and identify the facts relied on in support of the FDIC's position. If the answer is based on any alleged facts not already in the record of the proceeding, the answer shall include either supporting affidavits or a request for further proceedings under § 308.180.
+
+(b) *Reply to answer.* The applicant may file a reply with regard to an application filed pursuant to 5 U.S.C. 504 (a)(1), if the FDIC has addressed in its answer any of the following issues: that the position of the FDIC was substantially justified, that the applicant unduly protracted the proceedings, or that special circumstances make an award unjust. The applicant may file a reply with regard to an application filed pursuant to 5 U.S.C. 504 (a)(4), if the FDIC has addressed in its answer any of the following issues: that the applicant has committed a willful violation of law or otherwise acted in bad faith, that the FDIC's demand is reasonable when compared to the decision of the administrative law judge or that special circumstances make an award unjust. The reply shall be filed within 15 days after service of the answer. If the reply is based on any alleged facts not already in the record of the proceeding, the reply shall include either supporting affidavits or a request for further proceedings under § 308.180.
+
+(c) *By other parties.* Any party to the adversary adjudication, other than the applicant and the FDIC, may file comments on an application within 20 days after service of the application. If the applicant is entitled to file a reply to the FDIC's answer under paragraph (b) of this section, another party may file comments on the answer within 15 days after service of the answer. A commenting party may not participate in any further proceedings on the application unless the administrative law judge determines that the public interest requires such participation in order to permit additional exploration of matters raised in the comments.
+
+(d) *Additional response.* Additional filings in the nature of pleadings may be submitted only by leave of the administrative law judge.
+
+[56 FR 37975, Aug. 9, 1991, as amended at 64 FR 62102, Nov. 16, 1999]

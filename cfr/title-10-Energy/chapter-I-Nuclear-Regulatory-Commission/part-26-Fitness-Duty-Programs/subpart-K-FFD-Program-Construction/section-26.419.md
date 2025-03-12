@@ -1,0 +1,3 @@
+##### § 26.419 Suitability and fitness evaluations. #####
+
+Licensees and other entities who implement FFD programs under this subpart shall develop, implement, and maintain procedures for evaluating whether to assign individuals to construct safety- and security-related SSCs. These procedures must provide reasonable assurance that the individuals are fit to safely and competently perform their duties, and are trustworthy and reliable, as demonstrated by the avoidance of substance abuse.

@@ -1,0 +1,3 @@
+##### § 1542.305 Public advisories. #####
+
+When advised by TSA, each airport operator must prominently display and maintain in public areas information concerning foreign airports that, in the judgment of the Secretary of Transportation, do not maintain and administer effective security measures. This information must be posted in the manner specified in the security program and for such a period of time determined by the Secretary of Transportation.

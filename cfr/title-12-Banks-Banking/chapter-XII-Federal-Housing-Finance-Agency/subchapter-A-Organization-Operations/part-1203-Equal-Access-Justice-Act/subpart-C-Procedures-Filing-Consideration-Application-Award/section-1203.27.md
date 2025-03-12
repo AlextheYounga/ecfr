@@ -1,0 +1,3 @@
+##### § 1203.27 Review by FHFA. #####
+
+Within 30 days after the adjudicative officer issues an initial decision under § 1203.26, either the applicant or agency counsel may request the Director to review the initial decision of the adjudicative officer. The Director may also decide, at his or her discretion, to review the initial decision. If review is ordered, the Director must issue a final decision on the application for award or remand the application for award to the adjudicative officer for further proceedings under § 1203.25.

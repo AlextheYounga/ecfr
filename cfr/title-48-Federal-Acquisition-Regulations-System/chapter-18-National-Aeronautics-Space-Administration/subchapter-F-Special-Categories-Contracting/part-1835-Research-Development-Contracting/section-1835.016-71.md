@@ -1,0 +1,5 @@
+##### 1835.016-71 NASA Research Announcements. #####
+
+(a) Scope. An NRA is used to announce research interests in support of NASA's programs, and, after peer or scientific review using factors in the NRA, select proposals for funding. Unlike an RFP containing a statement of work or specification to which offerors are to respond, an NRA provides for the submission of competitive project ideas, conceived by the offerors, in one or more program areas of interest. An NRA shall not be used when the requirement is sufficiently defined to specify an end product or service.
+
+[62 FR 4469, Jan. 30, 1997, as amended at 62 FR 14017, Mar. 25, 1997; 63 FR 9967, Feb. 27, 1998. Redesignated and amended at 64 FR 48561, Sept. 7, 1999; 65 FR 12485, Mar. 9, 2000; 65 FR 46628, July 31, 2000; 65 FR 82297, Dec. 28, 2000; 66 FR 53547, Oct. 23, 2001; 67 FR 30604, May 7, 2002; 69 FR 35272, June 24, 2004]

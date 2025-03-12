@@ -1,0 +1,3 @@
+##### § 302.309 Requests for hearing. #####
+
+The Department will not normally conduct oral evidentiary hearings concerning applications for exemption. However, the Department may, in its discretion, order such a hearing on an application. Any applicant, or any person opposing an application, may request an oral evidentiary hearing. Such a request shall set forth in detail the reasons why the filing of affidavits or other written evidence will not permit the fair and expeditious disposition of the application. A request relying on factual assertions shall be accompanied by affidavits establishing such facts. If the Department orders an oral evidentiary hearing, the procedures in subpart A of this part shall apply.

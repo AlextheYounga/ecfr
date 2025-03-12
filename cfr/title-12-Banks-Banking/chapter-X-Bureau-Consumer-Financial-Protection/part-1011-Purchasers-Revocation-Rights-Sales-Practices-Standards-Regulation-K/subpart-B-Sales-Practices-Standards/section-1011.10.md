@@ -1,0 +1,3 @@
+##### § 1011.10 General. #####
+
+*Sales practices* means any conduct or advertising by a developer or its agents to induce a person to buy or lease a lot. This subpart describes certain unlawful sales practices and provides standards to illustrate what other sales practices are considered misleading in light of certain circumstances in which they are made and within the context of the overall offer and sale or lease.

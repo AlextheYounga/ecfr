@@ -1,0 +1,3 @@
+##### § 307.105 Appeal rights. #####
+
+Individuals serving under VRAs have the same appeal rights as excepted service employees under parts 432 and 752 of this chapter. In addition, as established in § 315.806 of this chapter, any individual serving under a VRA, whose employment under the appointment is terminated within 1 year after the date of such appointment, has the same right to appeal that termination as a career or career-conditional employee has during the first year of employment.

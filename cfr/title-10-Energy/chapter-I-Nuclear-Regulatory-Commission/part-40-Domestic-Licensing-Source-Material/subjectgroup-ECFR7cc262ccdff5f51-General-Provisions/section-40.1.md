@@ -1,0 +1,7 @@
+##### § 40.1 Purpose. #####
+
+(a) The regulations in this part establish procedures and criteria for the issuance of licenses to receive title to, receive, possess, use, transfer, or deliver source and byproduct materials, as defined in this part, and establish and provide for the terms and conditions upon which the Commission will issue such licenses. (Additional requirements applicable to natural and depleted uranium at enrichment facilities are set forth in § 70.22 of this chapter.) These regulations also provide for the disposal of byproduct material and for the long-term care and custody of byproduct material and residual radioactive material. The regulations in this part also establish certain requirements for the physical protection of import, export, and transient shipments of natural uranium. (Additional requirements applicable to the import and export of natural uranium are set forth in part 110 of this chapter.)
+
+(b) The regulations contained in this part are issued under the Atomic Energy Act of 1954, as amended (68 Stat. 919), title II of the Energy Reorganization Act of 1974, as amended (88 Stat. 1242), and titles I and II of the Uranium Mill Tailings Radiation Control Act of 1978, as amended (42 U.S.C. 7901).
+
+[55 FR 45597, Oct. 30, 1990, as amended at 56 FR 55997, Oct. 31, 1991]

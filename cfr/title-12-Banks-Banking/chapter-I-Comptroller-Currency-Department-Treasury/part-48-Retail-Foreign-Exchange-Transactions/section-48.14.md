@@ -1,0 +1,5 @@
+##### § 48.14 Supervision. #####
+
+(a) *Supervision by the national bank.* A national bank engaging in retail forex transactions must diligently supervise the handling by its officers, employees, and agents (or persons occupying a similar status or performing a similar function) of all retail forex accounts carried, operated, or advised by at the national bank and all activities of its officers, employees, and agents (or persons occupying a similar status or performing a similar function) relating to its retail forex business.
+
+(b) *Supervision by officers, employees, or agents.* An officer, employee, or agent of a national bank must diligently supervise his or her subordinates' handling of all retail forex accounts at the national bank and all the subordinates' activities relating to the national bank's retail forex business.

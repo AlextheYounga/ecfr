@@ -1,0 +1,3 @@
+##### § 1081.117 Bureau's right to conduct examination, collect information. #####
+
+Nothing contained in this part limits in any manner the right of the Bureau to conduct any examination, inspection, or visitation of any person, to conduct or continue any form of investigation authorized by law, to collect information in order to monitor the market for risks to consumers in the offering or provision of consumer financial products or services, or to otherwise gather information in accordance with law.

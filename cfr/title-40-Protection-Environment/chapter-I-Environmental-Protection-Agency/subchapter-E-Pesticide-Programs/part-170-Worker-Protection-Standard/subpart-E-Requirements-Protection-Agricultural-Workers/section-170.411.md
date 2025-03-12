@@ -1,0 +1,15 @@
+##### § 170.411 Decontamination supplies for workers. #####
+
+(a) *Requirement.* The agricultural employer must provide decontamination supplies for routine washing and emergency decontamination in accordance with this section for any worker on an agricultural establishment who is performing an activity in an area where a pesticide was applied and who contacts anything that has been treated with the pesticide, including, but not limited to, soil, water, and plants.
+
+(b) *Materials and quantities.* The decontamination supplies required in paragraph (a) of this section must include at least 1 gallon of water per worker at the beginning of each worker's work period for routine washing and emergency decontamination, soap, and single-use towels. The supplies must meet all of the following requirements:
+
+(1) *Water.* At all times when this part requires agricultural employers to make water available to workers, the agricultural employer must ensure that it is of a quality and temperature that will not cause illness or injury when it contacts the skin or eyes or if it is swallowed. If a water source is used for mixing pesticides, it must not be used for decontamination, unless equipped with properly functioning valves or other mechanisms that prevent contamination of the water with pesticides, such as anti-backflow siphons, one-way or check valves, or an air gap sufficient to prevent contamination.
+
+(2) *Soap and single-use towels.* The agricultural employer must provide soap and single-use towels for drying in quantities sufficient to meet the workers' reasonable needs. Hand sanitizing gels and liquids or wet towelettes do not meet the requirement for soap. Wet towelettes do not meet the requirement for single-use towels.
+
+(c) *Timing.* (1) If any pesticide with a restricted-entry interval greater than four hours was applied, the decontamination supplies must be provided from the time workers first enter the treated area until at least 30 days after the restricted-entry interval expires.
+
+(2) If the only pesticides applied in the treated area are products with restricted-entry intervals of four hours or less, the decontamination supplies must be provided from the time workers first enter the treated area until at least seven days after the restricted-entry interval expires.
+
+(d) *Location.* The decontamination supplies must be located together outside any treated area or area subject to a restricted-entry interval, and must be reasonably accessible to the workers. The decontamination supplies must not be more than 1/4 mile from where workers are working, except that where workers are working more than 1/4 mile from the nearest place of vehicular access or more than 1/4 mile from any non-treated area, the decontamination supplies may be at the nearest place of vehicular access outside any treated area or area subject to a restricted-entry interval.

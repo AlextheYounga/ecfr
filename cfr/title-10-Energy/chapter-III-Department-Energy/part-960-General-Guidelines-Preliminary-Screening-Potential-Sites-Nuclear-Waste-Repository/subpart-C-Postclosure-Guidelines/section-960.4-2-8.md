@@ -1,0 +1,3 @@
+##### § 960.4-2-8 Human interference. #####
+
+The site shall be located such that activities by future generations at or near the site will not be likely to affect waste containment and isolation. In assessing the likelihood of such activities, the DOE will consider the estimated effectiveness of the permanent markers and records required by 10 CFR part 60, taking into account site-specific factors, as stated in §§ 960.4-2-8-1 and 960.4-2-8-2, that could compromise their continued effectiveness.

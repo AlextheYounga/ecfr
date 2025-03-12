@@ -1,0 +1,3 @@
+##### § 839.702 How do these rules apply to me if I don't have an election right under the FERCCA, but I did have a qualifying retirement coverage error? #####
+
+After your retirement coverage is corrected to the proper plan, your retirement deductions will be adjusted in accordance with subpart H of this part and your Social Security taxes will be adjusted in accordance with subpart I of this part, if applicable. You may also file a claim for losses in accordance with subpart L of this part.

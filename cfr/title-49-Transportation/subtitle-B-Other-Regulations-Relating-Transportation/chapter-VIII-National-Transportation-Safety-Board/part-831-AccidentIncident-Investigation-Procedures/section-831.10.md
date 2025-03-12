@@ -1,0 +1,3 @@
+##### § 831.10 Autopsies. #####
+
+The Board is authorized to obtain, with or without reimbursement, a copy of the report of autopsy performed by State or local officials on any person who dies as a result of having been involved in a transportation accident within the jurisdiction of the Board. The investigator-in-charge, on behalf of the Board, may order an autopsy or seek other tests of such persons as may be necessary to the investigation, provided that to the extent consistent with the needs of the accident investigation, provisions of local law protecting religious beliefs with respect to autopsies shall be observed.

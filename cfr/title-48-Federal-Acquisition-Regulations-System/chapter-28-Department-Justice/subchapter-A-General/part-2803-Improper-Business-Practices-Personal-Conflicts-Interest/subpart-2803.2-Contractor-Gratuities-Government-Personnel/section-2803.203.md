@@ -1,0 +1,3 @@
+##### 2803.203 Reporting suspected violations of the gratuities clause. #####
+
+DOJ personnel shall report suspected violations of the gratuities clause to the contracting officer or chief of the contracting office in writing. The report shall clearly state the circumstances surrounding the incident, including the nature of the gratuity, the behavior or action the gratuity was to influence, and the persons involved. The contracting officer, after review, shall forward the report along with his or her recommendations regarding the treatment of the violation in accordance with FAR 3.204(c) to the HCA or designee.

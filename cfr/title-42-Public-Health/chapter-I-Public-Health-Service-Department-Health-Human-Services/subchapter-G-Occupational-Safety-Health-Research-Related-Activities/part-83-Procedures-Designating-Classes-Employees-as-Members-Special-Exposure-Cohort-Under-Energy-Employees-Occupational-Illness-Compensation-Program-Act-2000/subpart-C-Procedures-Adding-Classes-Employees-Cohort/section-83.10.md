@@ -1,0 +1,3 @@
+##### § 83.10 If a petition satisfies all relevant requirements under § 83.9, does this mean the class will be added to the Cohort? #####
+
+Satisfying the informational requirements for a petition does not mean the class will be added to the Cohort. It means the petition will receive a full evaluation by NIOSH, the Board, and HHS, as described under §§ 83.13 through 83.16. The role of the petitioner(s) is to identify classes of employees that should be considered for addition to the Cohort.

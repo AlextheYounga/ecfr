@@ -1,0 +1,3 @@
+##### § 229.109 Safety valves. #####
+
+Every steam generator shall be equipped with at least two safety valves that have a combined capacity to prevent an accumulation of pressure of more than five pounds per square inch above the allowed working pressure. The safety valves shall be independently connected to the separator and located as closely to the separator as possible without discharging inside of the generator compartment. The ends of the safety valve discharge lines shall be located or protected so that discharged steam does not create a hazard.

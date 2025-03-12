@@ -1,0 +1,3 @@
+##### § 831.2002 Eligibility for lump-sum payment upon filing an Application for Refund of Retirement Deductions (SF 2802). #####
+
+Except as provided in §§ 831.2007 through 2009 or in section 3716 of title 31, United States Code, on administrative offset for government claims, a former employee or Member who has been separated from a covered position for at least 31 days at the time of filing an application for refund and who is ineligible for an annuity commencing within 31 days after the date of filing an application for refund is eligible for a refund for the total lump-sum credit to his or her credit in the Retirement Fund.

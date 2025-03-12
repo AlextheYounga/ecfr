@@ -1,0 +1,5 @@
+##### § 178.1040 Preparation of Flexible Bulk Containers for testing. #####
+
+(a) Except as otherwise provided in this subchapter, each Flexible Bulk Container must be closed in preparation for testing and tests must be carried out in the same manner as if prepared for transportation. All closures must be installed using proper techniques and torques.
+
+(b) If the material to be transported is replaced for test purposes by a non-hazardous material, the physical properties (grain, size, viscosity) of the replacement material used that might influence the results of the required tests must correspond as closely as possible to those of the hazardous material to be transported. It is permissible to use additives, such as bags of lead shot, to achieve the requisite total package mass, so long as they do not affect the test results.

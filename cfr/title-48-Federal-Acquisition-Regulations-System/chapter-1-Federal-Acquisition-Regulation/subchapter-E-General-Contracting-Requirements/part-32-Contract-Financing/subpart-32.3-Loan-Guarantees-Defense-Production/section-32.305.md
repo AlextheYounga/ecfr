@@ -1,0 +1,7 @@
+##### 32.305 Loan guarantees for terminated contracts. #####
+
+(a) The purpose of guaranteed loans; i.e., to provide for financing based on the borrower's recoverable investment in defense production contracts, may also apply to contracts that have been terminated (partially or totally) for the convenience of the Government. Guaranteed loans also may be made before such termination if it is known that termination of particular contracts for the convenience of the Government is about to occur. These loans are expected to provide necessary financing pending termination settlements and payments. They may also finance continuing performance of defense production contracts that are eligible for guaranteed loans.
+
+(b) The procedure for such guarantees is substantially the same as that outlined in 32.304, except that certificates of eligibility are not required for (1) contracts that have been totally terminated or (2) the terminated portion of contracts that have been partially terminated. The agency shall take precautions necessary to avoid Government losses and to ensure the loans will be self-liquidating from the proceeds of defense production contracts.
+
+(c) Loan guarantees for contract termination financing shall not be provided before specific contract terminations are certain.

@@ -1,0 +1,5 @@
+##### § 1503.203 Investigations. #####
+
+(a) *General.* The Administrator, or a designated official, may conduct investigations, hold hearings, issue subpoenas, require the production of relevant documents, records, and property, and take evidence and depositions.
+
+(b) *Delegation of authority.* For the purpose of investigating alleged violations of a TSA requirement, the Administrator's authority may be exercised by the agency's various offices for matters within their respective areas for all routine investigations. When the compulsory processes of 49 U.S.C. 46104 are invoked, the Administrator's authority has been delegated to the Chief Counsel, each Deputy Chief Counsel, and in consultation with the Office of Chief Counsel, the Assistant Administrator for Security Operations, the Assistant Administrator for Transportation Sector Network Management, the Assistant Administrator for Inspections, the Assistant Administrator for Law Enforcement/Director of the Federal Air Marshal Service, each Special Agent in Charge, and each Federal Security Director.

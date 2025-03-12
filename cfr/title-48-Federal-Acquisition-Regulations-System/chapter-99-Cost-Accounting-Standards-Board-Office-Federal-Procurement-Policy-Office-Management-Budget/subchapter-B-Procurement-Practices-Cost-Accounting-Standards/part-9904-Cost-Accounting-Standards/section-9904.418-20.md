@@ -1,0 +1,3 @@
+##### 9904.418-20 Purpose. #####
+
+The purpose of this Cost Accounting Standard is to provide for consistent determination of direct and indirect costs; to provide criteria for the accumulation of indirect costs, including service center and overhead costs, in indirect cost pools; and, to provide guidance relating to the selection of allocation measures based on the beneficial or causal relationship between an indirect cost pool and cost objectives. Consistent application of these criteria and guidance will improve classification of costs as direct and indirect and the allocation of indirect costs.

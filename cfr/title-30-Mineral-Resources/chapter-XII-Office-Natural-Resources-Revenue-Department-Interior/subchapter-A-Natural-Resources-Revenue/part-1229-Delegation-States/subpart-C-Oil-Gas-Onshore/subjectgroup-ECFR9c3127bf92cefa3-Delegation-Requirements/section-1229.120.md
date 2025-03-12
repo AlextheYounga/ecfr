@@ -1,0 +1,3 @@
+##### § 1229.120 Obtaining regulatory and policy guidance. #####
+
+All activities performed by a State under a delegation must be in full accord with all Federal laws, rules and regulations, and Secretarial and agency determinations and orders relating to the calculation, reporting, and payment of oil and gas royalties. In those cases when guidance or interpretations are necessary, the State will direct written requests for such guidance or interpretation to the appropriate ONRR officials. All policy and procedural guidance or interpretation provided by the ONRR shall be in writing and shall be binding on the State.

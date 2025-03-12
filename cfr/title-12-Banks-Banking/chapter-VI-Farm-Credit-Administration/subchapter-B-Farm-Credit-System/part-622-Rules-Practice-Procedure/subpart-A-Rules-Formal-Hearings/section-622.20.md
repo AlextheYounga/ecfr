@@ -1,0 +1,3 @@
+##### § 622.20 Documents in proceedings confidential. #####
+
+Unless otherwise ordered by the Board or required by law, the entire record in any proceeding under this subpart, including the notice of hearing, transcript, exhibits, proposed findings and conclusions, recommended decision of the presiding officer, exceptions thereto, decision and order of the Board, and any other papers which are filed in connection with the proceeding shall not be made public, and shall be for the confidential use only of the FCA and its staff, the presiding officer, the parties, and other appropriate supervisory authorities.

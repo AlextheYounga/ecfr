@@ -1,0 +1,3 @@
+##### § 582.0 Authority for information collection. #####
+
+The information collection requirements in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1010-0081. The information is being collected to inform the Bureau of Ocean Energy Management (BOEM) of general mining operations in the Outer Continental Shelf (OCS). The information will be used to ensure that operations are conducted in a safe and environmentally responsible manner in compliance with governing laws and regulations. The requirement to respond is mandatory.

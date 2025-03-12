@@ -1,0 +1,3 @@
+##### § 100.1 Scope and purpose. #####
+
+This part provides the criteria and procedures for proposing civil penalties under sections 105 and 110 of the Federal Mine Safety and Health Act of 1977 (Mine Act). The purpose of this part is to provide a fair and equitable procedure for the application of the statutory criteria in determining proposed penalties for violations, to maximize the incentives for mine operators to prevent and correct hazardous conditions, and to assure the prompt and efficient processing and collection of penalties.

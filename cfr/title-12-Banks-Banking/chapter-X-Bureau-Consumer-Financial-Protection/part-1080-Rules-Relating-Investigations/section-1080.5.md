@@ -1,0 +1,3 @@
+##### § 1080.5 Notification of purpose. #####
+
+Any person compelled to furnish documentary material, tangible things, written reports or answers to questions, oral testimony, or any combination of such material, answers, or testimony to the Bureau shall be advised of the nature of the conduct constituting the alleged violation that is under investigation and the provisions of law applicable to such violation.

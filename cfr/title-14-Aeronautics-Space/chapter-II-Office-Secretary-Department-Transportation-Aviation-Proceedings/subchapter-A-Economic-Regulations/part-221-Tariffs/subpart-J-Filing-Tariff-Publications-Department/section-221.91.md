@@ -1,0 +1,3 @@
+##### § 221.91 Delivering tariff publications to Department. #####
+
+Tariff publications will be received for filing only by delivery thereof to the Department electronically, through normal mail channels, or by delivery thereof during established business hours directly to that office of the Department charged with the responsibility of processing tariffs. No tariff publication will be accepted by the Department unless it is delivered free from all charges, including claims for postage.

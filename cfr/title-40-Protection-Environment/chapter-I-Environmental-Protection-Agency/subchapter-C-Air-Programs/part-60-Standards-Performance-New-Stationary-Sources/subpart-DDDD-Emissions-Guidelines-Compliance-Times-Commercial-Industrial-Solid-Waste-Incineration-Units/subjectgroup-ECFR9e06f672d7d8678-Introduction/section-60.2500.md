@@ -1,0 +1,3 @@
+##### § 60.2500 What is the purpose of this subpart? #####
+
+This subpart establishes emission guidelines and compliance schedules for the control of emissions from commercial and industrial solid waste incineration units (CISWIs) and air curtain incinerators (ACIs). The pollutants addressed by these emission guidelines are listed in table 2 of this subpart and tables 6 through 9 of this subpart. These emission guidelines are developed in accordance with sections 111(d) and 129 of the Clean Air Act and subpart B of this part.

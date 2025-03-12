@@ -1,0 +1,3 @@
+##### § 2.20 Relationship to State laws. #####
+
+The statutes authorizing these regulations (42 U.S.C. 290ee-3 and 42 U.S.C. 290dd-3) do not preempt the field of law which they cover to the exclusion of all State laws in that field. If a disclosure permitted under these regulations is prohibited under State law, neither these regulations nor the authorizing statutes may be construed to authorize any violation of that State law. However, no State law may either authorize or compel any disclosure prohibited by these regulations.

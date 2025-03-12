@@ -1,0 +1,5 @@
+##### 1733.212 Contracting officer's duties upon appeal. #####
+
+(a) When a notice of appeal has been received, the contracting officer shall endorse on the appeal the date of mailing (or the date of receipt if the notice was not mailed) and forward it to IBCA by certified mail within 5 days of receipt. OPM's Office of the General Counsel and the Department of the Interior's (DOI) Office of the Solicitor shall also be notified of the appeal by the contracting officer. 43 CFR 4.103.
+
+(b) The contracting officer shall prepare and transmit the documentation and information required by 43 CFR 4.104 in the form of an appeal file to IBCA, OPM's Office of the General Counsel, DOI's Office of the Solicitor, and appellant or appellant's counsel within 30 days after receipt of a notice of appeal or advice that an appeal has been docketed by IBCA.

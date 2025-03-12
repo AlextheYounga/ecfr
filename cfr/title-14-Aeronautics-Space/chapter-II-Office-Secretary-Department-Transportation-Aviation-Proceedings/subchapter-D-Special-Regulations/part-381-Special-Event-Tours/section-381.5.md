@@ -1,0 +1,3 @@
+##### § 381.5 Definition. #####
+
+*Special Event Tour* means a tour that is organized for the purpose of attending a sporting, social, religious, educational, cultural, political or other event of a special nature and limited duration, which exists for reasons apart from the tour itself, and which is represented by the operator of the tour as including admission to that event. Examples of such events include, but are not limited to, college and professional sporting events, the Olympics, concerts, the Passion Play in Oberammergau, etc.

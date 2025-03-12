@@ -1,0 +1,3 @@
+##### 1901.403 Individual deviations. #####
+
+Deviations from the IAAR or the FAR in individual cases shall be authorized by the Board Procurement Executive or a designee unless FAR 1.405(e) is applicable. The request shall cite the specific part of the IAAR or FAR from which it is desired to deviate; shall set forth the nature of the deviation(s); and shall give the reason for the action requested.

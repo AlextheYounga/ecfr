@@ -1,0 +1,3 @@
+##### § 407.70 Applicability; description of the canned and preserved vegetables subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the processing of the following vegetable products: Beets; broccoli; carrots; canned and frozen corn; dehydrated onions and garlic; dehydrated vegetables; dry beans; lima beans; mushrooms; canned onions; peas; sauerkraut canning and cutting; snap beans; spinach; squash; and canned potatoes. When a plant is subject to effluent limitations covering more than one commodity or subcategory, the plant discharge limitations shall be set by proration of limitations for each subcategory or commodity based on the total production covered by each commodity or subcategory.

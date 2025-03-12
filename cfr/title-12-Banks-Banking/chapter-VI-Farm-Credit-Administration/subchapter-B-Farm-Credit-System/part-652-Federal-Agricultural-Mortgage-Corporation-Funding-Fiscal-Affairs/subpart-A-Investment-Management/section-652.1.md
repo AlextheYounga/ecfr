@@ -1,0 +1,3 @@
+##### § 652.1 Purpose. #####
+
+The purpose of this subpart is to ensure safety and soundness, continuity of funding, and appropriate use of non-program investments considering the Federal Agricultural Mortgage Corporation's (Farmer Mac or Corporation) special status as a Government-sponsored enterprise (GSE). The subpart contains requirements for Farmer Mac's board of directors to adopt policies covering such areas as investment management, interest rate risk, and liquidity reserves. The subpart also requires Farmer Mac to comply with various reporting requirements.

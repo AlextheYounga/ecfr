@@ -1,0 +1,15 @@
+##### § 1206.504 Charging fees. #####
+
+(a) When a FOIA office determines or estimates the fees to be assessed in accordance with this section will exceed $50.00, the FOIA office shall notify the requester unless the requester has indicated a willingness to pay fees as high as those anticipated. If a portion of the fees can be readily estimated, the FOIA office shall advise the requester accordingly.
+
+(b) In cases in which a requester has been notified that actual or estimated fees are in excess of $50.00, the request shall be placed on hold and further work will not be completed until the requester commits in writing to pay the actual or estimated fees. Such a commitment must be made by the requester in writing, must indicate a given dollar amount or a willingness to pay all processing fees, and must be received by the FOIA office within 20 working days from the date of the letter providing notification of the fee estimate. If a commitment is not received within this period, the request shall be closed without further notification.
+
+(c) After the FOIA office begins processing a request, if it finds that the actual cost will exceed the amount the requester previously agreed to pay, the FOIA office will: Stop processing the request; and promptly notify the requester of the higher amount. The request will be placed on hold until the fee issue has been resolved. If the issue is not resolved within 20 working days from the date of the notification letter, the request shall be closed without further notification.
+
+(d) Direct costs, meaning those expenditures that NASA actually incurs in searching for, duplicating, and downloading computer files and documents in response to a FOIA request, will be included on the invoice as appropriate. Direct costs include, for example, the salary of the employee who would ordinarily perform the work (the basic rate of pay for the employee plus 16 percent of that rate to cover benefits), the cost of operating computers and other electronic equipment, such as photocopiers and scanners, the costs associated with retrieving records stored at a Federal records center operated by the NARA, as well as costs for CDs and other media tools.
+
+(e) NASA may charge interest on any unpaid bill starting on the 31st day following the date of billing the requester. Interest charges will be assessed at the rate provided in 31 U.S.C. 3717 and will accrue from the billing date until payment is received by the FOIA office. NASA will follow the provisions of the Debt Collection Act of 1982 (Pub. L. 97-365, 96 Stat. 1749), as amended, and its administrative procedures, including the use of consumer reporting agencies, collection agencies, and offset.
+
+(f) If processing fees are less than $50.00, NASA will send all releaseable documents (or portions thereof) following the completion of the initial determination. If fees are greater than $50.00, the documents will not be released until the invoice has been paid and verified by the FOIA office.
+
+(g) Final billing will be sent when the initial determination has been completed. At that time the case will be closed.

@@ -1,0 +1,119 @@
+##### § 60.2 Definitions. #####
+
+As used in this part:
+
+*Accessible environment* means:
+
+(1) The atmosphere;
+
+(2) The land surface;
+
+(3) Surface water;
+
+(4) Oceans; and
+
+(5) The portion of the lithosphere that is outside the postclosure controlled area.
+
+*Affected Indian Tribe* means any Indian Tribe (1) within whose reservation boundaries a repository for high-level radioactive waste or spent fuel is proposed to be located; or (2) whose Federally defined possessory or usage rights to other lands outside of the reservation's boundaries arising out of Congressionally ratified treaties or other Federal law may be substantially and adversely affected by the locating of such a facility; *Provided,* That the Secretary of the Interior finds, upon the petition of the appropriate governmental officials of the Tribe, that such effects are both substantial and adverse to the Tribe.
+
+*Anticipated processes and events* means those natural processes and events that are reasonably likely to occur during the period the intended performance objective must be achieved. To the extent reasonable in the light of the geologic record, it shall be assumed that those processes operating in the geologic setting during the Quaternary Period continue to operate but with the perturbations caused by the presence of emplaced radioactive waste superimposed thereon.
+
+*Barrier* means any material or structure that prevents or substantially delays movement of water or radionuclides.
+
+*Candidate area* means a geologic and hydrologic system within which a geologic repository may be located.
+
+*Commencement of construction* means clearing of land, surface or subsurface excavation, or other substantial action that would adversely affect the environment of a site, but does not include changes desirable for the temporary use of the land for public recreational uses, site characterization activities, other preconstruction monitoring and investigation necessary to establish background information related to the suitability of a site or to the protection of environmental values, or procurement or manufacture of components of the geologic repository operations area.
+
+*Commission* means the Nuclear Regulatory Commission or its duly authorized representatives.
+
+*Containment* means the confinement of radioactive waste within a designated boundary.
+
+*Controlled area* means a surface location, to be marked by suitable monuments, extending horizontally no more than 10 kilometers in any direction from the outer boundary of the underground facility, and the underlying subsurface, which area has been committed to use as a geologic repository and from which incompatible activities would be restricted following permanent closure.
+
+*Design bases means* that information that identifies the specific functions to be performed by a structure, system, or component of a facility and the specific values or ranges of values chosen for controlling parameters as reference bounds for design. These values may be restraints derived from generally accepted “state-of-the-art” practices for achieving functional goals or requirements derived from analysis (based on calculation or experiments) of the effects of a postulated event under which a structure, system, or component must meet its functional goals. The values for controlling parameters for external events include:
+
+(1) Estimates of severe natural events to be used for deriving design bases that will be based on consideration of historical data on the associated parameters, physical data, or analysis of upper limits of the physical processes involved; and
+
+(2) Estimates of severe external man-induced events, to be used for deriving design bases, that will be based on analysis of human activity in the region, taking into account the site characteristics and the risks associated with the event.
+
+*Design basis events* means:
+
+(1)(i) Those natural and human-induced events that are reasonably likely to occur regularly, moderately frequently, or one or more times before permanent closure of the geologic repository operations area; and
+
+(ii) Other natural and man-induced events that are considered unlikely, but sufficiently credible to warrant consideration, taking into account the potential for significant radiological impacts on public health and safety.
+
+(2) The events described in paragraph (1)(i) of this definition are referred to as “Category 1” design basis events. The events described in paragraph (1)(ii) of this definition are referred to as “Category 2” design basis events.
+
+*Director* means the Director of the Nuclear Regulatory Commission's Office of Nuclear Material Safety and Safeguards.
+
+*Disposal* means the isolation of radioactive wastes from the accessible environment.
+
+*Disturbed zone* means that portion of the postclosure controlled area, the physical or chemical properties of which have changed as a result of underground facility construction or as a result of heat generated by the emplaced radioactive wastes, such that the resultant change of properties may have a significant effect on the performance of the geologic repository.
+
+*DOE* means the U.S. Department of Energy or its duly authorized representatives.
+
+*Engineered barrier system* means the waste packages and the underground facility.
+
+*Geologic repository* means a system which is intended to be used for, or may be used for, the disposal of radioactive wastes in excavated geologic media. A geologic repository includes: (1) The geologic repository operations area, and (2) the portion of the geologic setting that provides isolation of the radioactive waste.
+
+*Geologic repository operations area* means a high-level radioactive waste facility that is part of a geologic repository, including both surface and subsurface areas, where waste handling activities are conducted.
+
+*Geologic setting* means the geologic, hydrologic, and geochemical systems of the region in which a geologic repository operations area is or may be located.
+
+*Groundwater* means all water which occurs below the land surface.
+
+*High-level radioactive waste* or *HLW* means: (1) Irradiated reactor fuel, (2) liquid wastes resulting from the operation of the first cycle solvent extraction system, or equivalent, and the concentrated wastes from subsequent extraction cycles, or equivalent, in a facility for reprocessing irradiated reactor fuel, and (3) solids into which such liquid wastes have been converted.
+
+*HLW facility* means a facility subject to the licensing and related regulatory authority of the Commission pursuant to Sections 202(3) and 202(4) of the Energy Reorganization Act of 1974 (88 Stat. 1244).1
+
+1 These are DOE “facilities used primarily for the receipt and storage of high-level radioactive wastes resulting from activities licensed under such Act [the Atomic Energy Act]” and “Retrievable Surface Storage Facilities and other facilities authorized for the express purpose of subsequent long-term storage of high-level radioactive wastes generated by [DOE], which are not used for, or are part of, research and development activities.”
+
+*Host rock* means the geologic medium in which the waste is emplaced.
+
+*Important to safety,* with reference to structures, systems, and components, means those engineered features of the repository whose function is:
+
+(1) To provide reasonable assurance that high-level waste can be received, handled, packaged, stored, emplaced, and retrieved without exceeding the requirements of § 60.111(a) for Category 1 design basis events; or
+
+(2) To prevent or mitigate Category 2 design basis events that could result in doses equal to or greater than the values specified in § 60.136 to any individual located on or beyond any point on the boundary of the preclosure controlled area.
+
+*Isolation* means inhibiting the transport of radioactive material so that amounts and concentrations of this material entering the accessible environment will be kept within prescribed limits.
+
+*NRC Public Document Room* means the facility at One White Flint North, 11555 Rockville Pike, Room 0-1F23, Rockville, Maryland 20852, where certain public records of the NRC that were made available for public inspection in paper or microfiche prior to the implementation of the NRC Agency wide Documents Access and Management System, commonly referred to as ADAMS, will remain available for public inspection. It is also the place where computer terminals are available to access the NRC Library components of ADAMS on the NRC Website, *http://www.nrc.gov,* where copies can be made or ordered as set forth in § 9.35 of this chapter. The facility is staffed with reference librarians to assist the public in identifying and locating documents and in using the NRC Web site and ADAMS. The NRC Public Document Room is open from 7:30 am to 4:15 pm, Monday through Friday, except on Federal holidays, Reference service and access to documents may also be requested by telephone (1-800-397-4209) between 8:30 am and 4:15 pm, or by e-mail (*PDR.Resource@nrc.gov*), fax (301-415-3548), or letter (NRC Public Document Room, One White Flint North, 11555 Rockville Pike, Room 0-1F23, Rockville, Maryland 20852).
+
+NRC Web site, *http://www.nrc.gov* is the Internet uniform resource locator name for the Internet address of the Web site where NRC will ordinarily make available its public records for inspection.
+
+*Permanent closure* means final backfilling of the underground facility and the sealing of shafts and boreholes.
+
+*Performance confirmation* means the program of tests, experiments, and analyses which is conducted to evaluate the accuracy and adequacy of the information used to determine with reasonable assurance that the performance objectives for the period after permanent closure will be met.
+
+*Postclosure controlled area* means a surface location, to be marked by suitable monuments, extending horizontally no more than 10 kilometers in any direction from the outer boundary of the underground facility, and the underlying subsurface, which area has been committed to use as a geologic repository and from which incompatible activities would be restricted following permanent closure.
+
+*Preclosure controlled area* means that surface area surrounding the geologic repository operations area for which the licensee exercises authority over its use, in accordance with the provisions of this part, until permanent closure has been completed.
+
+*Radioactive waste* or *waste* means HLW and other radioactive materials other than HLW that are received for emplacement in a geologic repository.
+
+*Restricted area* means an area, access to which is limited by the licensee for the purpose of protecting individuals against undue risks from exposure to radiation and radioactive materials. Restricted area does not include areas used as residential quarters, but separate rooms in a residential building may be set aside as a restricted area.
+
+*Retrieval* means the act of intentionally removing radioactive waste from the underground location at which the waste had been previously emplaced for disposal.
+
+*Saturated zone* means that part of the earth's crust beneath the regional water table in which all voids, large and small, are ideally filled with water under pressure greater than atmospheric.
+
+*Site* means the location of the preclosure controlled area, or of the postclosure controlled area, or both.
+
+*Site characterization* means the program of exploration and research, both in the laboratory and in the field, undertaken to establish the geologic conditions and the ranges of those parameters of a particular site relevant to the procedures under this part. Site characterization includes borings, surface excavations, excavation of exploratory shafts, limited subsurface lateral excavations and borings, and in situ testing at depth needed to determine the suitability of the site for a geologic repository, but does not include preliminary borings and geophysical testing needed to decide whether site characterization should be undertaken.
+
+*Unanticipated processes and events* means those processes and events affecting the geologic setting that are judged not to be reasonably likely to occur during the period the intended performance objective must be achieved, but which are nevertheless sufficiently credible to warrant consideration. Unanticipated processes and events may be either natural processes or events or processes and events initiated by human activities other than those activities licensed under this part. Processes and events initiated by human activities may only be found to be sufficiently credible to warrant consideration if it is assumed that: (1) The monuments provided for by this part are sufficiently permanent to serve their intended purpose; (2) the value to future generations of potential resources within the site can be assessed adequately under the applicable provisions of this part; (3) an understanding of the nature of radioactivity, and an appreciation of its hazards, have been retained in some functioning institutions; (4) institutions are able to assess risk and to take remedial action at a level of social organization and technological competence equivalent to, or superior to, that which was applied in initiating the processes or events concerned; and (5) relevant records are preserved, and remain accessible, for several hundred years after permanent closure.
+
+*Underground facility* means the underground structure, including openings and backfill materials, but excluding shafts, boreholes, and their seals.
+
+*Unrestricted area* means an area, access to which is neither limited nor controlled by the licensee.
+
+*Unsaturated zone* means the zone between the land surface and the regional water table. Generally, fluid pressure in this zone is less than atmospheric pressure, and some of the voids may contain air or other gases at atmospheric pressure. Beneath flooded areas or in perched water bodies the fluid pressure locally may be greater than atmospheric.
+
+*Waste form* means the radioactive waste materials and any encapsulating or stabilizing matrix.
+
+*Waste package* means the waste form and any containers, shielding, packing and other absorbent materials immediately surrounding an individual waste container.
+
+*Water table* means that surface in a groundwater body at which the water pressure is atmospheric.
+
+[48 FR 28217, June 21, 1983, as amended at 50 FR 29647, July 22, 1985; 51 FR 27162, July 30, 1986; 53 FR 43421, Oct. 27, 1988; 61 FR 64267, Dec. 4, 1996; 64 FR 48953, Sept. 9, 1999; 69 FR 76601, Dec. 22, 2004; 76 FR 72086, Nov. 22, 2011]

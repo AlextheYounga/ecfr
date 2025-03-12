@@ -1,0 +1,7 @@
+##### § 585.55 Reporting requirements. #####
+
+(a) *General reporting requirements.* Within 60 days after the end of the production years ending August 31, 2006 and August 31, 2007, each manufacturer shall submit a report to the National Highway Traffic Safety Administration concerning its compliance with Standard No. 139 for its tires produced in that year for motor vehicles with a GVWR of 4,536 kg or less. Each report shall provide the information specified in paragraph (b) of this section and in section 585.2 of this part.
+
+(b) *Report content.* (1) Basis for statement of compliance. Each manufacturer shall provide the number of tires for motor vehicles with a GVWR of 4,536 kg or less manufactured for sale in the United States for each of the three previous production years, or, at the manufacturer's option, for the production year for which the report is filed. A new manufacturer that has not previously manufactured these tires for sale in the United States shall report the number of such tires manufactured during the current production year.
+
+(2) Production. Each manufacturer shall report for the production year for which the report is filed the number of new pneumatic tires for motor vehicles with a GVWR of 4,536 kg or less that meet Standard No. 139.

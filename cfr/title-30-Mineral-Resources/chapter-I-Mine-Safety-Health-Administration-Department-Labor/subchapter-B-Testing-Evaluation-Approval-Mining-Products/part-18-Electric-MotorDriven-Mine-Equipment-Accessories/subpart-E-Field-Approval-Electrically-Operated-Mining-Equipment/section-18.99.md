@@ -1,0 +1,9 @@
+##### § 18.99 Notice of approval or disapproval; letters of approval and approval plates. #####
+
+Upon completion of each inspection conducted in accordance with § 18.97(b), the electrical representative conducting such inspection shall record his findings with respect to the machine examined on MSHA Form No. 6-1481 together with his recommendation of approval or disapproval of the machine.
+
+(a) If the qualified electrical representative recommends field approval of the machine, the Coal Mine Health and Safety District Manager shall forward the completed application form together with all attached photographs, drawings, specifications, and descriptions to Approval and Certification Center. Approval and Certification Center shall record all pertinent data with respect to such machine, issue a letter of approval with a copy to the Coal Mine Health and Safety District Manager who authorized its issuance and send the field approval plate to the applicant. The approval plate shall be affixed to the machine by the applicant in such a manner so as not to impair its explosion-proof characteristics.
+
+(b) If the electrical representative recommends disapproval of the machine, he shall record the reasons for such disapproval and the Coal Mine Health and Safety District Manager shall forward the completed application form and other data to Approval and Certification Center which shall record all pertinent data with respect to such machine and notify the applicant that the application for approval has been rejected and the reasons for the rejection.
+
+[33 FR 4660, Mar. 19, 1968, as amended at 42 FR 8373, Feb. 10, 1977; 43 FR 12314, Mar. 24, 1978]

@@ -1,0 +1,3 @@
+##### § 137.289 What is a Federal undertaking under NHPA? #####
+
+The Advisory Council on Historic Preservation has defined a Federal undertaking in 36 CFR 800.16(y) as a project, activity, or program funded in whole or in part under the direct or indirect jurisdiction of a Federal agency, including those carried out by or on behalf of a Federal agency; those carried out with Federal financial assistance; those requiring a Federal permit, license or approval; and those subject to State or local regulation administered pursuant to a delegation or approval by a Federal agency.

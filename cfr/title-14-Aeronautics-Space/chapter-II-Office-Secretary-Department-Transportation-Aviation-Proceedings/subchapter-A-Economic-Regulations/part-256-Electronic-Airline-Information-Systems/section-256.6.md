@@ -1,0 +1,3 @@
+##### § 256.6 No requirement to provide access to systems. #####
+
+Nothing in this section requires an air carrier, foreign air carrier, or ticket agent to allow a system to access its internal computer reservation system or to permit “screen scraping” or “content scraping” of its Web site; nor does it require an air carrier or foreign air carrier to permit the marketing or sale of the carrier's services through any ticket agent or other carrier's system. “Screen scraping” as used in this paragraph refers to a process whereby a company uses computer software techniques to extract information from other companies' Web sites without permission from the company operating the targeted Web site.

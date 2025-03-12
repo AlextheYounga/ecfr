@@ -1,0 +1,3 @@
+##### § 60.432 Standard for volatile organic compounds. #####
+
+During the period of the performance test required to be conducted by § 60.8 and after the date required for completion of the test, no owner or operator subject to the provisions of this subpart shall cause to be discharged into the atmosphere from any affected facility VOC equal to more than 16 percent of the total mass of VOC solvent and water used at that facility during any one performance averaging period. The water used includes only that water contained in the waterborne raw inks and related coatings and the water added for dilution with waterborne ink systems.

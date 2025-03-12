@@ -1,0 +1,3 @@
+##### § 81.10 Authority. #####
+
+The regulations of this subpart governing the licensing or rights in NRC inventions are issued pursuant to the authority of the Commission under 42 U.S.C. 2186 (sec. 156 of the Act), 42 U.S.C. 2201g (sec. 161g. of the Act), and according to regulations issued by the Administrator of General Services pursuant to the Memorandum and Statement of Government Patent Policy issued by President Nixon on August 23, 1971 (36 FR 16887).

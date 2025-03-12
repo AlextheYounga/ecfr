@@ -1,0 +1,19 @@
+##### § 239.12 Modifications of state programs. #####
+
+(a) Approved state permit programs may be modified for various reasons, such as changes in federal or state statutory or regulatory authority.
+
+(b) If the federal statutory or regulatory authorities that have significant implications for state permit programs change, approved states may be required to revise their permit programs. These changes may necessitate submission of a revised application. Such a change at the federal level and resultant state requirements would be made known to the states either in a Federal Register document containing the change or through the appropriate EPA Regional Office.
+
+(c) States that modify their programs must notify the Regional Administrator of the modifications. Program modifications include changes in state statutory or regulatory authority or relevant guidance or shifting of responsibility for the state program within the lead agency or to a new or different state agency or agencies. Changes to the state's permit program, as described in its application which may result in the program becoming inadequate, must be reported to the Regional Administrator. In addition, changes to a state's basic statutory or regulatory authority or guidance which were not part of the state's initial application, but may have a significant impact on the adequacy of the state's permit program, also must be reported to the Regional Administrator.
+
+(d) States must notify the appropriate Regional Administrator of all permit program modifications required in paragraphs (b) and (c) of this section within a time-frame agreed to by the State Director and the Regional Administrator.
+
+(e) The Regional Administrator will review the modifications and determine whether the State Director must submit a revised application. If a revised application is necessary, the Regional Administrator will inform the State Director in writing that a revised application is necessary, specifying the required revisions and establishing a schedule for submission of the revised application.
+
+(f) For all revised municipal solid waste landfill permit program applications, and for all amended applications in the case of partially approved programs, the state must submit to the appropriate Regional Administrator an amended application that addresses those portions of its program that have changed or are being amended. For such revised programs, as well as for those from states seeking EPA approval of permit programs for state regulation of non-municipal, non-hazardous waste disposal units which receive conditionally exempt small quantity generator hazardous waste, the Regional Administrator will make an adequacy determination using the criteria found in § 239.10.
+
+(g) For revised applications that do not incorporate permit programs for additional classifications of Subtitle D regulated facilities and for all amended applications in the case of partially approved programs, the appropriate Regional Administrator shall provide for public participation using the procedures outlined in § 239.10 or, at the Regional Administrator's discretion, using the following procedures.
+
+(1) The Regional Administrator will publish an adequacy determination in the Federal Register summarizing the Agency's decision and the portion(s) of the state permit program affected and providing an opportunity to comment for a period of at least 60 days.
+
+(2) The adequacy determination will become effective 60 days following publication, if no adverse comments are received. If EPA receives comments opposing its adequacy determination, the Regional Administrator will review these comments and publish another Federal Register document responding to public comments and either affirming or revising the initial decision.

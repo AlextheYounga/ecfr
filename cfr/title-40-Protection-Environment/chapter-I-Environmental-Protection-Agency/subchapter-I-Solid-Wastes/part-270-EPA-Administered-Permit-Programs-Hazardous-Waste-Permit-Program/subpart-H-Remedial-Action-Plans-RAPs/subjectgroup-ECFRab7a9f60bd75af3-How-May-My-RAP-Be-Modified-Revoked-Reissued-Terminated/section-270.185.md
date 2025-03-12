@@ -1,0 +1,3 @@
+##### § 270.185 For what reasons may the Director choose to terminate my final RAP, or deny my renewal application? #####
+
+The Director may terminate your final RAP on his own initiative, or deny your renewal application for the same reasons as those listed for RAP modifications in § 270.175(a)(5) through (7) if the Director determines that termination of your RAP or denial of your RAP renewal application is appropriate.

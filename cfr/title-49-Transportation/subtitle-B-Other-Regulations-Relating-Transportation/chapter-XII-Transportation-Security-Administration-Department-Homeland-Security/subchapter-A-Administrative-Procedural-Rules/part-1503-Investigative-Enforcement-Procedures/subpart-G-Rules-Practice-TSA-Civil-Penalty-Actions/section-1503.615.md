@@ -1,0 +1,5 @@
+##### § 1503.615 Notice of hearing. #####
+
+(a) *Notice.* The ALJ must give each party at least 60 days notice of the date, time, and location of the hearing. With the consent of the ALJ, the parties may agree to hold the hearing on an earlier date than the date specified in the notice of hearing.
+
+(b) *Date, time, and location of the hearing.* The ALJ to whom the proceedings have been assigned must set a reasonable date, time, and location for the hearing. The ALJ must consider the need for discovery and any joint procedural or discovery schedule submitted by the parties when determining the hearing date. The ALJ must give due regard to the convenience of the parties, the location where the majority of the witnesses reside or work, and whether the location is served by a scheduled air carrier.

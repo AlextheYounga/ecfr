@@ -1,0 +1,3 @@
+##### § 54.9 Assurances and State oversight of the Charitable Choice requirements. #####
+
+In order to ensure that States receiving grant funding under the SAPT block grant and PATH formula grant programs comply with the SAMHSA Charitable Choice provisions and provide oversight of religious organizations that provide substance abuse services under such programs, States are required as part of their applications for funding to certify that they will comply with all of the requirements of such provisions and the implementing regulations under this part, and that they will provide such oversight of religious organizations.

@@ -1,0 +1,3 @@
+##### § 1808.623 Lobbying restrictions. #####
+
+No fees or funds made available under this part may be expended by a party to pay any person to influence or attempt to influence any agency, elected official, officer or employee of a State or local government in connection with the making, award, extension, continuation, renewal, amendment, or modification of any State or local government contract, grant, loan or cooperative agreement as such terms are defined in 31 U.S.C. 1352.

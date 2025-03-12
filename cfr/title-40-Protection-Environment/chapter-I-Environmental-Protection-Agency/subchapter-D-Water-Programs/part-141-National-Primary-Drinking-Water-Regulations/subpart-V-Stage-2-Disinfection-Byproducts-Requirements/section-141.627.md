@@ -1,0 +1,3 @@
+##### § 141.627 Requirements for remaining on reduced TTHM and HAA5 monitoring based on subpart L results. #####
+
+You may remain on reduced monitoring after the dates identified in § 141.620(c) for compliance with this subpart only if you qualify for a 40/30 certification under § 141.603 or have received a very small system waiver under § 141.604, plus you meet the reduced monitoring criteria in § 141.623(a), and you do not change or add monitoring locations from those used for compliance monitoring under subpart L of this part. If your monitoring locations under this subpart differ from your monitoring locations under subpart L of this part, you may not remain on reduced monitoring after the dates identified in § 141.620(c) for compliance with this subpart.

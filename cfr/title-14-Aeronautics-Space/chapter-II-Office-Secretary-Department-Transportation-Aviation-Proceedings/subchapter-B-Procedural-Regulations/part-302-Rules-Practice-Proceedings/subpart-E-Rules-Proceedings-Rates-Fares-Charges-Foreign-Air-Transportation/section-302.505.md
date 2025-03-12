@@ -1,0 +1,3 @@
+##### § 302.505 Order of investigation. #####
+
+The Department, on its own initiative, or if it is of the opinion that the facts stated in a petition or complaint warrant it, may issue an order instituting an investigation of the lawfulness of any present or proposed rates, fares, or charges for the foreign air transportation of persons or property by aircraft or the lawfulness of any classification, rule, regulation, or practice affecting such rates, fares, or charges, and may assign the proceeding for hearing before an administrative law judge. If a hearing is held, except as modified by this subpart, the provisions of § 302.17 through § 302.38 of this part shall apply.

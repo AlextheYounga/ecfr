@@ -1,0 +1,5 @@
+##### § 308.101 Definitions. #####
+
+In this part: *Student* is an individual who is enrolled not less than half-time in a high school, trade school, technical or vocational institute, junior college, college, university or other accredited educational institution. An individual who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if such individual shows to the satisfaction of the agency that the individual has a bona fide intention of continuing to pursue a course of study or training in the same or different educational institution during the school semester (or other period into which the school year is divided) immediately after the interim.
+
+*Volunteer Service* under the Act is limited to services performed by a student, with the permission of the institution at which the student is enrolled, as part of an agency program established for the purpose of providing educational experience for the student. Such service is to be uncompensated and will not be used to displace any employee or to staff a position which is a normal part of the agency's work force.

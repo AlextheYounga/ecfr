@@ -1,0 +1,5 @@
+##### § 615.5215 Distribution of earnings. #####
+
+The boards of directors of System institutions may not reduce the permanent capital of the institution through the payment of patronage refunds or dividends, or the retirement of stock or allocated equities except retirements pursuant to §§ 615.5280 and 615.5290 if, after or due to the action, the permanent capital of the institution would fail to meet the minimum permanent capital adequacy standard established under § 615.5205 for that period. This limitation shall not apply to the payment of noncash patronage refunds by any institution exempt from Federal income tax if the entire refund paid qualifies as permanent capital at the issuing institution. Any System institution subject to Federal income tax may pay patronage refunds partially in cash if the cash portion of the refund is the minimum amount required to qualify the refund as a deductible patronage distribution for Federal income tax purposes and the remaining portion of the refund paid qualifies as permanent capital.
+
+[53 FR 39247, Oct. 6, 1988, as amended at 53 FR 40046, Oct. 13, 1988]

@@ -1,0 +1,7 @@
+##### § 73.3578 Amendments to applications for renewal, assignment or transfer of control. #####
+
+(a) Any amendments to an application for renewal of any instrument of authorization shall be considered to be a minor amendment. However, the FCC may, within 15 days after tender for filing of any amendment, advise the applicant that the amendment is considered to be a major amendment and therefore is subject to the provisions of § 73.3580.
+
+(b) Any amendment to an application for assignment of construction permit or license, or consent to the transfer of control of a corporation holding such a construction permit or license, shall be considered to be a minor amendment, except that any amendment which seeks a change in the ownership interest of the proposed assignee or transferee which would result in a change in control, or any amendment which would require the filing of FCC Forms 314, 315, or 345 (see § 73.3540), if the changes sought were made in an original application for assignment or transfer of control, shall be considered to be a major amendment. However, the FCC may, within 15 days after the acceptance for filing of any other amendment, advise the applicant that the amendment is considered to be a major amendment and therefore is subject to the provisions of § 73.3580.
+
+[44 FR 38504, July 2, 1979, as amended at 51 FR 18451, May 20, 1986]

@@ -1,0 +1,3 @@
+##### § 801.51 National defense and foreign policy secrets. #####
+
+Pursuant to 5 U.S.C. 552(b)(1), national defense and foreign policy secrets established by Executive Order, as well as properly classified documents, are exempt from public disclosure. Requests to the NTSB for such records will be transferred to the source agency as appropriate, where such classified records are identified. (See, e.g., Executive Order 12,958, as amended on March 25, 2003.)

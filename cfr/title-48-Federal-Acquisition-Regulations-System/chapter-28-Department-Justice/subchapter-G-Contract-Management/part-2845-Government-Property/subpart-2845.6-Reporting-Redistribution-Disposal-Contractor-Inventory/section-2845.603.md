@@ -1,0 +1,3 @@
+##### 2845.603 Disposal methods. #####
+
+Policies pertaining to reutilization and disposal of DOJ property, including requirements for internal screening, waivers, and disposal reporting, are prescribed in the Justice Property Management Regulations Subpart 128-43. Unless otherwise specified, the “plant clearance officer” shall be a designated utilization and disposal representative of a bureau's property management office.

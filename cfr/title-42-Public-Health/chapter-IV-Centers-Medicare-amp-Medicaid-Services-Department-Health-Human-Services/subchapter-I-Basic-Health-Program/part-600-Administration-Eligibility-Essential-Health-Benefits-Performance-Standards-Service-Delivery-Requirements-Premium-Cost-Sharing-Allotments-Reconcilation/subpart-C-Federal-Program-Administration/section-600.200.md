@@ -1,0 +1,15 @@
+##### § 600.200 Federal program compliance reviews and audits. #####
+
+(a) *Federal compliance review of the State BHP.* To determine whether the State is complying with the Federal requirements and the provisions of its BHP Blueprint, HHS may review, as needed, but no less frequently than annually, the compliance of the State BHP with applicable laws, regulations and interpretive guidance. This review may be based on the State's annual report submitted under § 600.170, or may be based on direct Federal review of State administration of the BHP Blueprint through analysis of the State's policies and procedures, reviews of agency operation, examination of samples of individual case records, and additional reports and/or data as determined by the Secretary.
+
+(b) *Action on compliance review findings.* The compliance review will identify the following action items:
+
+(1) Requirements that need further study or data to assess continued State compliance with Federal law, regulations and the terms of the State's certified Blueprint. Such findings must be addressed in the next State annual report due no more than 120 days after the date of the issuance of the Federal compliance review.
+
+(2) Requirements with which the State BHP does not appear to be in compliance that could be the basis for withdrawal of BHP certification. Such findings must be resolved by the State (either by substantiating compliance with the standards for certification or submitting revisions to the Blueprint). If not resolved, such action items can be the basis for a proposed finding for withdrawal of BHP certification.
+
+(3) Requirements with which the State BHP does not appear to be in compliance and are not a basis for withdrawal of BHP certification but require revision to the Blueprint must be resolved by the State. If not resolved, such action items can be the basis for denial of other Blueprint revisions.
+
+(4) *Improper use of BHP trust fund resources.* The State and the BHP trustees shall be given an opportunity to review and resolve concerns regarding improper use of BHP trust funds, including failure to use these funds as specified in § 600.705. As indicated in § 600.715(a) through (c), the state may do this either by substantiating the proper use of trust fund resources as specified in § 600.705(c) or by taking corrective action, which include changes to procedures to ensure proper use of trust fund resources, and restitution of improperly used resources to the trust fund.
+
+(c) The HHS Office of Inspector General (OIG) may periodically audit State operations and standard health plan practices as described in § 430.33 of this chapter. Final reports on those audits shall be transmitted to both the State and the Secretary for actions on findings. The State and the BHP trustees shall be given an opportunity to resolve concerns about improper use of BHP trust funds as indicated in § 600.715(a) through (c): either by substantiating the proper use of trust fund, or by taking corrective action that includes changes to procedures to ensure proper use of trust fund resources, and restitution of improperly used resources to the trust fund.

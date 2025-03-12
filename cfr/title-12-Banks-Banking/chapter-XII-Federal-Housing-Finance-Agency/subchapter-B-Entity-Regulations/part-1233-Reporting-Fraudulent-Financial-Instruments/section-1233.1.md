@@ -1,0 +1,3 @@
+##### § 1233.1 Purpose. #####
+
+The purpose of this part is to implement the Safety and Soundness Act by requiring each regulated entity to report to FHFA upon discovery that it has purchased or sold a fraudulent loan or financial instrument, or suspects a possible fraud relating to the purchase or sale of any loan or financial instrument. In addition, each regulated entity must establish and maintain internal controls, policies, procedures, and operational training to discover such transactions.

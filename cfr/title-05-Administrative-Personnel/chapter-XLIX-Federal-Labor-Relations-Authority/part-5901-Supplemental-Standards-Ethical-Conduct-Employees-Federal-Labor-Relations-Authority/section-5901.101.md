@@ -1,0 +1,7 @@
+##### § 5901.101 General. #####
+
+(a) *Applicability.* In accordance with 5 CFR 2635.105, and unless provided elsewhere in this part, these regulations apply to all employees of the Federal Labor Relations Authority (FLRA), including employees of the Federal Service Impasses Panel and the Office of the General Counsel, and supplement the Standards of Ethical Conduct for Employees of the Executive Branch (Standards) contained in 5 CFR part 2635.
+
+(b) *Cross-references.* In addition to 5 CFR part 2635 and this part, FLRA employees are required to comply with implementing guidance and procedures issued by the FLRA in accordance with 5 CFR 2635.105(c). FLRA employees are also subject to the regulations concerning executive branch financial disclosure contained in 5 CFR part 2634, the regulations concerning executive branch financial interests contained in 5 CFR part 2640, and the regulations concerning executive branch employee responsibilities and conduct contained in 5 CFR part 735.
+
+(c) *Agency designees.* The Designated Agency Ethics Official (DAEO) and the Alternate Designated Agency Ethics Official (Alternate DAEO) shall serve as the FLRA's designees to make determinations, grant approvals, and take other actions under 5 CFR part 2635 and this part.

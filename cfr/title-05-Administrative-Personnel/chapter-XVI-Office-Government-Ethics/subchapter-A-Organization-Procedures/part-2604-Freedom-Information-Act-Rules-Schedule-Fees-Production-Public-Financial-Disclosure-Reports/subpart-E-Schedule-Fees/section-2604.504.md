@@ -1,0 +1,17 @@
+##### § 2604.504 Miscellaneous fee provisions. #####
+
+(a) *Notice of anticipated fees in excess of $25.00.* Where OGE determines or estimates that the fees to be assessed under this section may amount to more than $25.00, it will notify the requester as soon as practicable of the actual or estimated amount of fees, unless the requester has indicated in advance the willingness to pay fees as high as those anticipated. Where a requester has been notified that the actual or estimated fees may exceed $25.00, the request will be deemed not to have been received until the requester has agreed to pay the anticipated total fee. A notice to the requester pursuant to this paragraph (a) will include the opportunity to confer with OGE personnel in order to reformulate the request to meet the requester's needs at a lower cost.
+
+(b) *Aggregating requests.* A requester may not file multiple requests, each seeking portions of a document or documents in order to avoid the payment of fees. Where there is reason to believe that a requester, or group of requesters acting in concert, is attempting to divide a request into a series of requests for the purpose of evading the assessment of fees, OGE may aggregate the requests and charge accordingly. OGE will presume that multiple requests of this type made within a 30-calendar day period have been made in order to evade fees. Multiple requests regarding unrelated matters will not be aggregated.
+
+(c) *Advance payments.* An advance payment before work is commenced or continued will not be required unless:
+
+(1) OGE estimates or determines that the total fee to be assessed under this section is likely to exceed $250.00. When a determination is made that the allowable charges are likely to exceed $250.00, the requester will be notified of the likely cost and will be required to provide satisfactory assurance of full payment where the requester has a history of prompt payment of FOIA fees, or will be required to submit an advance payment of an amount up to the full estimated charges in the case of requesters with no history of payment; or
+
+(2) A requester has previously failed to pay a fee charged in a timely fashion (*i.e.,* within 30 calendar days of the date of the billing). In such cases the requester may be required to pay the full amount owed plus any applicable interest as provided by paragraph (e) of this section, and to make an advance payment of the full amount of the estimated fee before OGE begins to process a new request.
+
+(3) When OGE requests an advance payment of fees, the administrative time limits described in subsection (a)(6) of the FOIA will begin to run only after OGE has received the advance payment.
+
+(d) *Billing and payment.* Normally OGE will require a requester to pay all fees before furnishing the requested records. However, OGE may send a bill along with, or following the furnishing of records, in cases where the requester has a history of prompt payment.
+
+(e) *Interest charges.* Interest charges on an unpaid bill may be assessed starting on the 31st calendar day following the day on which the billing was sent. Interest will be at the rate prescribed in 31 U.S.C. 3717 and will accrue from the date of billing. To collect unpaid bills, OGE will follow the provisions of the Debt Collection Act of 1982, as amended (96 Stat. 1749 *et seq.*) including the use of consumer reporting agencies, collection agencies, and offset.

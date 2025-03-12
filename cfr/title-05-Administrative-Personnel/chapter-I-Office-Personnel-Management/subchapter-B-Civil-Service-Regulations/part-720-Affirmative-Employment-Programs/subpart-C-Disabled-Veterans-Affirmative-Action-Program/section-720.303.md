@@ -1,0 +1,9 @@
+##### § 720.303 Agency programs. #####
+
+(a) *Continuing Programs.* Each Department, agency, and instrumentality in the executive branch, including the U.S. Postal Service and the Postal Rate Commission, shall conduct a continuing affirmative program for the recruitment, hiring, placement, and advancement of disabled veterans.
+
+(b) *Program Responsibility.* The head of each agency shall assign overall program responsibility to an appropriate agency official. The official so designated shall be at a high enough level to ensure effective program administration and the devotion of adequate resources to the program.
+
+(c) *Problem Analysis.* (1) Annually, OPM will provide appropriate data on the employment of disabled veterans to each agency participating in the Central Personnel Data File (CPDF). These data will be taken from CPDF. For DVAAP purposes, CPDF data are considered to be the official record of the status of disabled veteran employment within each participating agency. Each participating agency is responsible for assuring that such records are timely, accurate, and complete.
+
+(2) CPDF data must be analyzed by participating agencies to identify problem areas and deficiencies in the employment and advancement of disabled veterans. (OPM will establish with each agency not participating in CPDF, the nature and extent of data to be used in identifying problems and deficiencies.) Based on this analysis, agencies shall develop methods to improve the recruitment, hiring, placement, and advancement of disabled veterans, or revise or redirect existing methods, as necessary. These methods must then be translated into action items.

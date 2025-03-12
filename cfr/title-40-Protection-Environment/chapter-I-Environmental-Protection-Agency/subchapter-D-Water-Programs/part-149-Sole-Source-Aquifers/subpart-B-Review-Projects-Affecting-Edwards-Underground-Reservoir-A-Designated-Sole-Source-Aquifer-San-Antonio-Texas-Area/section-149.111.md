@@ -1,0 +1,3 @@
+##### § 149.111 Funding to redesigned projects. #####
+
+After publication of a decision that a proposed project may contaminate a sole or principal source aquifer in a designated area through its recharge zone so as to create a significant hazard to public health, a commitment for Federal financial assistance may be entered into, if authorized under another provision of law, to plan or redesign such project to assure that it will not so contaminate the aquifer.

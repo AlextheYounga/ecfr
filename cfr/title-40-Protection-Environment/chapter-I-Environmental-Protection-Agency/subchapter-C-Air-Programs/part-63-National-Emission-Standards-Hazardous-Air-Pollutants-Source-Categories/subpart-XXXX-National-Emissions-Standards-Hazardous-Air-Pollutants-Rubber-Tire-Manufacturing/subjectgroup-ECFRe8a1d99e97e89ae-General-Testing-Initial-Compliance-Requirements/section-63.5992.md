@@ -1,0 +1,5 @@
+##### § 63.5992 When must I conduct subsequent performance tests? #####
+
+If you use a control system (add-on control device and capture system) to meet the emission limitations, you must also conduct a performance test at least once every 5 years following your initial compliance demonstration to verify control system performance and reestablish operating parameters or operating limits for control systems used to comply with the emissions limits. The requirements of this paragraph do not apply to the measurement of THC emissions that are monitored with a continuous emission monitoring system for demonstrating compliance with the THC emission limitations for rubber processing in § 63.6009. When complying with the emission limits for rubber processing in § 63.6009 for fPM or metal HAP based on averaging to comply with the facility-wide average alternatives, the subsequent performance tests must begin no later than 5 years after the first test of the averaged mixers is performed.
+
+[89 FR 94908, Nov. 29, 2024]

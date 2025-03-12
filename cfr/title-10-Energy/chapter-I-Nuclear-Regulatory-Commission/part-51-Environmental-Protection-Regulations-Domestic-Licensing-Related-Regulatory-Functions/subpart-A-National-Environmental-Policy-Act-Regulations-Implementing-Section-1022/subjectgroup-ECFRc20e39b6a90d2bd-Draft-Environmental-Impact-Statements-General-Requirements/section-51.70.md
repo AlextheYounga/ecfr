@@ -1,0 +1,7 @@
+##### § 51.70 Draft environmental impact statement—general. #####
+
+(a) The NRC staff will prepare a draft environmental impact statement as soon as practicable after publication of the notice of intent to prepare an environmental impact statement and completion of the scoping process. To the fullest extent practicable, environmental impact statements will be prepared concurrently or integrated with environmental impact analyses and related surveys and studies required by other Federal law.
+
+(b) The draft environmental impact statement will be concise, clear and analytic, will be written in plain language with appropriate graphics, will state how alternatives considered in it and decisions based on it will or will not achieve the requirements of sections 101 and 102(1) of NEPA and of any other relevant and applicable environmental laws and policies, will identify any methodologies used and sources relied upon, and will be supported by evidence that the necessary environmental analyses have been made. The format provided in section 1(a) of appendix A of this subpart should be used. The NRC staff will independently evaluate and be responsible for the reliability of all information used in the draft environmental impact statement.
+
+(c) The Commission will cooperate with State and local agencies to the fullest extent possible to reduce duplication between NEPA and State and local requirements, in accordance with 40 CFR 1506.2 (b) and (c).

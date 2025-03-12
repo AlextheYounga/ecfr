@@ -1,0 +1,7 @@
+##### § 2411.3 Delegation of authority. #####
+
+(a) *Chief FOIA Officer.* The Chairman of the Federal Labor Relations Authority designates the Chief FOIA Officer who has agency-wide responsibility for the efficient and appropriate compliance with the FOIA. The Chief FOIA Officer monitors the implementation of the FOIA throughout the agency.
+
+(b) *Authority/General Counsel/Panel/IG.* Regional Directors of the Authority, the Freedom of Information Officer of the Office of the General Counsel, Washington, DC, the Solicitor of the Authority, the Executive Director of the Panel and the IG are delegated the exclusive authority to act upon all requests for information, documents and records which are received from any person or organization under § 2411.5(a) and (b).
+
+(c) *FOIA Public Liaison(s).* The Chief FOIA Officer shall designate the FOIA Public Liaison(s), who shall serve as the supervisory official(s) to whom a FOIA requester can raise concerns about the service the FOIA requester has received following an initial response.

@@ -1,0 +1,3 @@
+##### § 2.906 Obligation of parties to avoid introduction of restricted data or national security information. #####
+
+It is the obligation of all parties in a proceeding subject to this part to avoid, where practicable, the introduction of Restricted Data or National Security Information into the proceeding. This obligation rests on each party whether or not all other parties have the required security clearance.

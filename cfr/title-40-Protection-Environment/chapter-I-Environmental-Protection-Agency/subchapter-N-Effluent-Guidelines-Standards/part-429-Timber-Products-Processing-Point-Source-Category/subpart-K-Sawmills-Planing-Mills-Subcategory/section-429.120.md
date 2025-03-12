@@ -1,0 +1,3 @@
+##### § 429.120 Applicability; description of the sawmills and planing mills subcategory. #####
+
+This subpart applies to discharges to waters of the United States and to the introduction of process wastewater pollutants into publicly owned treatment works from the timber products processing procedures that include all or part of the following operations: bark removal (other than hydraulic barking as defined in § 429.11 of this part), sawing, resawing, edging, trimming, planing and machining.

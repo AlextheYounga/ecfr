@@ -1,0 +1,15 @@
+##### § 63.2270 How do I monitor and collect data to demonstrate continuous compliance? #####
+
+(a) You must monitor and collect data according to this section.
+
+(b) Except for, as appropriate, monitor malfunctions, associated repairs, and required quality assurance or control activities (including, as applicable, calibration checks and required zero and span adjustments), you must conduct all monitoring in continuous operation at all times that the process unit is operating. For purposes of calculating data averages, you must not use data recorded during monitoring malfunctions, associated repairs, out-of-control periods, or required quality assurance or control activities. You must use all the data collected during all other periods in assessing compliance. A monitoring malfunction is any sudden, infrequent, not reasonably preventable failure of the monitoring to provide valid data. Monitoring failures that are caused in part by poor maintenance or careless operation are not malfunctions. Any period for which the monitoring system is out-of-control and data are not available for required calculations constitutes a deviation from the monitoring requirements.
+
+(c) You may not use data recorded during monitoring malfunctions, associated repairs, and required quality assurance or control activities or data recorded during periods of safety-related shutdown, pressurized refiner startup or shutdown, startup and shutdown of direct-fired softwood veneer dryer gas-fired burners, or control device downtime covered in any approved routine control device maintenance exemption in data averages and calculations used to report emission or operating levels, nor may such data be used in fulfilling a minimum data availability requirement, if applicable. You must use all the data collected during all other periods in assessing the operation of the control system.
+
+(d) Except as provided in paragraph (e) of this section, determine the 3-hour block average of all recorded readings, calculated after every 3 hours of operation as the average of the evenly spaced recorded readings in the previous 3 operating hours (excluding periods described in paragraphs (b) and (c) of this section).
+
+(e) For dry rotary dryer and veneer redryer wood moisture monitoring, dry rotary dryer temperature monitoring, biofilter bed temperature monitoring, and biofilter outlet THC monitoring, determine the 24-hour block average of all recorded readings, calculated after every 24 hours of operation as the average of the evenly spaced recorded readings in the previous 24 operating hours (excluding periods described in paragraphs (b) and (c) of this section).
+
+(f) To calculate the data averages for each 3-hour or 24-hour averaging period, you must have at least 75 percent of the required recorded readings for that period using only recorded readings that are based on valid data (*i.e.*, not from periods described in paragraphs (b) and (c) of this section).
+
+[69 FR 46011, July 30, 2004, as amended at 85 FR 49456, Aug. 13, 2020]

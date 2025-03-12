@@ -1,0 +1,3 @@
+##### § 35.2605 Records of installation, maintenance, adjustment, and repair of remote afterloader units, teletherapy units, and gamma stereotactic radiosurgery units. #####
+
+A licensee shall retain a record of the installation, maintenance, adjustment, and repair of remote afterloader units, teletherapy units, and gamma stereotactic radiosurgery units as required by § 35.605 for 3 years. For each installation, maintenance, adjustment and repair, the record must include the date, description of the service, and name(s) of the individual(s) who performed the work.

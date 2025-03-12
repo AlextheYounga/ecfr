@@ -1,0 +1,9 @@
+##### § 512.19 What can I do if I disagree with the determination? #####
+
+(a) A submitter of information whose request for confidential treatment is denied in whole or in part, may petition for reconsideration of that decision. Petitions for reconsideration shall be addressed to and received by the Chief Counsel prior to the date on which the information would otherwise be made available to the public. The determination by the Chief Counsel upon such petition for reconsideration shall be administratively final.
+
+(b) If a person is unable to submit a petition for reconsideration within twenty (20) working days of receiving notice that a claim for confidential treatment was denied, that person may submit a request for an extension of time. The Chief Counsel must receive any request for an extension of time before the date on which the information would be made available to the public, and the request must be accompanied by an explanation describing the reason for the request and the length of time requested. The Chief Counsel will determine whether to grant or deny the extension and the length of the extension.
+
+(c) If a petition for reconsideration is granted, the petitioner will be notified in writing of the determination and of any appropriate limitations.
+
+(d) If a petition for reconsideration is denied in whole or in part, or if a request for an extension is denied, the petitioner will be notified in writing of the denial, and the reasons for the denial, and will be informed that the information will be made available to the public not less than twenty (20) working days after the petitioner has received notice of the denial. The information may be released publicly on an earlier date, if the Administrator determines in writing that the public interest requires that the information be made available to the public on such date.

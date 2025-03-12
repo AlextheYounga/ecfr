@@ -1,0 +1,3 @@
+##### § 52b.13 Additional conditions. #####
+
+The Director may with respect to any grant award impose additional conditions consistent with the regulations of this part prior to or at the time of any award when in the Director's judgment the conditions are necessary to assure or protect advancement of the approved project, the purposes of the applicable provisions of the Act, or the conservation of grant funds.

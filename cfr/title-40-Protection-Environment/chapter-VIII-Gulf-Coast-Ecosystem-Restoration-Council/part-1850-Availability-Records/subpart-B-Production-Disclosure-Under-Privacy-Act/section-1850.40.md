@@ -1,0 +1,3 @@
+##### § 1850.40 Disclosure of record to person other than the individual to whom it pertains. #####
+
+The Counsel shall not disclose any record which is contained in a system of records it maintains, by any means of communication to any person or to another agency, except pursuant to a written request by, or with the prior written consent of the individual to whom the record pertains, unless the disclosure is authorized by one or more provisions of 5 U.S.C. 552a(b).

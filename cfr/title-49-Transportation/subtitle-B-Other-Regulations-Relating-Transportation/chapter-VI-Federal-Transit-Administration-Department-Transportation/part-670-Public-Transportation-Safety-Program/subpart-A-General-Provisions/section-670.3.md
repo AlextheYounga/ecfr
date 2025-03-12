@@ -1,0 +1,3 @@
+##### § 670.3 Policy. #####
+
+The Federal Transit Administration (FTA) has adopted the principles and methods of Safety Management Systems (SMS) as the basis for enhancing the safety of public transportation in the United States. FTA will follow the principles and methods of SMS in its development of rules, regulations, policies, guidance, best practices and technical assistance administered under the authority of 49 U.S.C. 5329.

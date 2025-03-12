@@ -1,0 +1,3 @@
+##### § 63.10446 Do title V permitting requirements apply to area sources subject to this subpart? #####
+
+You are exempt from the obligation to obtain a permit under 40 CFR part 70 or 40 CFR part 71, provided you are not otherwise required by law to obtain a permit under 40 CFR 70.3(a) or 40 CFR 71.3(a). Notwithstanding the previous sentence, you must continue to comply with the provisions of this subpart.

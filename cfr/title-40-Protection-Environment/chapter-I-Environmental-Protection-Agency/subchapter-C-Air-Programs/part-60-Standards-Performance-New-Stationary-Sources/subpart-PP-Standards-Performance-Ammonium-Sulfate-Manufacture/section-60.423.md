@@ -1,0 +1,5 @@
+##### § 60.423 Monitoring of operations. #####
+
+(a) The owner or operator of any ammonium sulfate manufacturing plant subject to the provisions of this subpart shall install, calibrate, maintain, and operate flow monitoring devices which can be used to determine the mass flow of ammonium sulfate feed material streams to the process. The flow monitoring device shall have an accuracy of ±5 percent over its range. However, if the plant uses weigh scales of the same accuracy to directly measure production rate of ammonium sulfate, the use of flow monitoring devices is not required.
+
+(b) The owner or operator of any ammonium sulfate manufacturing plant subject to the provisions of this subpart shall install, calibrate, maintain, and operate a monitoring device which continuously measures and permanently records the total pressure drop across the emission control system. The monitoring device shall have an accuracy of ±5 percent over its operating range.

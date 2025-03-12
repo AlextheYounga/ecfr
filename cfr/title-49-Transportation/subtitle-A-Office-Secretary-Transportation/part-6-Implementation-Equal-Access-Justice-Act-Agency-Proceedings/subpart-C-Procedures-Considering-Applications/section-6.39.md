@@ -1,0 +1,3 @@
+##### § 6.39 Payment of award. #####
+
+An applicant seeking payment of an award from the Department of Transportation or any of its operating administrations under this part shall submit a copy of the Department of Transportation's or any of its operating administration's final decisions granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. The copy of the decision and the statement should be submitted to the head of the affected operating administration or the Secretary of Transportation, where the Department of Transportation, Office of the Secretary, has initiated the proceedings.

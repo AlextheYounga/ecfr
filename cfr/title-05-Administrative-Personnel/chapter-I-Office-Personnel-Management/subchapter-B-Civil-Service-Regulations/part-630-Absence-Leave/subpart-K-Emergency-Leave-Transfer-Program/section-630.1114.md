@@ -1,0 +1,3 @@
+##### § 630.1114 Accrual of leave while using donated annual leave. #####
+
+While an emergency leave recipient is using donated annual leave from an emergency leave transfer program, annual and sick leave continue to accrue to the credit of the employee at the same rate as if he or she were in a paid leave status under 5 U.S.C. chapter 63, subchapter I, and will be subject to the limitations imposed by 5 U.S.C. 6304(a), (b), (c), and (f) at the end of the leave year in which the transferred annual leave is received.

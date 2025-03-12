@@ -1,0 +1,3 @@
+##### § 109.21 Remedies generally. #####
+
+An Administrator may request the Attorney General to bring an action in the appropriate United States district court seeking temporary or permanent injunctive relief, punitive damages, assessment of civil penalties as provided by 49 U.S.C. 5122(a), and any other appropriate relief to enforce the Federal hazardous material transportation law, regulation, order, special permit, or approval prescribed or issued under the Federal hazardous material transportation law.

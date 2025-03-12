@@ -1,0 +1,3 @@
+##### § 125.369 Alternate airport weather minimums. #####
+
+No person may list an airport as an alternate airport in the flight release unless the appropriate weather reports or forecasts, or any combination thereof, indicate that the weather conditions will be at or above the alternate weather minimums specified in the certificate holder's operations specifications for that airport when the flight arrives.

@@ -1,0 +1,7 @@
+##### § 650.10 Voluntary liquidation. #####
+
+(a) The Corporation may voluntarily liquidate by a resolution of its board of directors, but only with the consent of, and in accordance with a plan of liquidation approved by, the Farm Credit Administration Board. Upon adoption of such resolution, the Corporation shall submit the resolution and proposed voluntary liquidation plan to the Farm Credit Administration Board for preliminary approval. The Farm Credit Administration Board, in its discretion, may appoint a receiver as part of an approved liquidation plan. If a receiver is appointed for the Corporation as part of a voluntary liquidation, the receivership shall be conducted pursuant to the regulations of this part, except to the extent that an approved plan of liquidation provides otherwise.
+
+(b) If the Farm Credit Administration Board gives preliminary approval to the liquidation plan, the board of directors of the Corporation shall submit the resolution to liquidate to the stockholders for a vote in accordance with the bylaws of the Corporation.
+
+(c) The Farm Credit Administration Board will consider final approval of the resolution to voluntarily liquidate and the liquidation plan after an affirmative stockholder vote on the resolution.

@@ -1,0 +1,5 @@
+##### § 135.437 Authority to perform and approve maintenance, preventive maintenance, and alterations. #####
+
+(a) A certificate holder may perform or make arrangements with other persons to perform maintenance, preventive maintenance, and alterations as provided in its maintenance manual. In addition, a certificate holder may perform these functions for another certificate holder as provided in the maintenance manual of the other certificate holder.
+
+(b) A certificate holder may approve any airframe, aircraft engine, propeller, rotor, or appliance for return to service after maintenance, preventive maintenance, or alterations that are performed under paragraph (a) of this section. However, in the case of a major repair or alteration, the work must have been done in accordance with technical data approved by the Administrator.

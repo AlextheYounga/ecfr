@@ -1,0 +1,3 @@
+##### 2509.408 Certification regarding debarment, suspension, proposed debarment, and other responsibility matters. #####
+
+(a)(2) NSF contracting officers will notify the Office of Inspector General and the Deputy Director whenever information submitted by offerors in compliance with the Certifications Regarding Debarment, Suspension, Proposed Debarment, and Other Responsibility Matters provisions in solicitations indicates the existence of an indictment, charge, conviction, or civil judgment.

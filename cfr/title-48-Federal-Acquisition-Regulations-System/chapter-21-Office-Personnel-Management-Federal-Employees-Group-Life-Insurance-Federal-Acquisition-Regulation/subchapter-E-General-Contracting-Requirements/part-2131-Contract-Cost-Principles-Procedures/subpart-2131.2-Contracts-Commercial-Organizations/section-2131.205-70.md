@@ -1,0 +1,3 @@
+##### 2131.205-70 Major subcontractor service charge. #####
+
+In a subcontract for enrollment and eligibility determinations, administration of claims and payment of benefits and any other subcontract for which prior approval is necessary, when costs are determined on the basis of actual costs incurred, any amount that exceeds the allowable cost of a major subcontract (whether entitled service charge, incentive fee, profit, fee, surplus, or any other title) is not allowable under the contract. Amounts which exceed allowable costs may be paid to a major subcontractor only from the risk charge or service charge negotiated between OPM and the contractor.

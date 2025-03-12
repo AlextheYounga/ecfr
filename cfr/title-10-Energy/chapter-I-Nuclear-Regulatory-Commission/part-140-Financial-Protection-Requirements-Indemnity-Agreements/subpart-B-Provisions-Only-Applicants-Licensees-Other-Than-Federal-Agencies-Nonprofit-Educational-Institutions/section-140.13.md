@@ -1,0 +1,5 @@
+##### § 140.13 Amount of financial protection required of certain holders of construction permits and combined licenses under 10 CFR part 52. #####
+
+Each holder of a part 50 construction permit, or a holder of a combined license under part 52 of this chapter before the date that the Commission had made the finding under 10 CFR 52.103(g), who also holds a license under part 70 of this chapter authorizing ownership, possession and storage only of special nuclear material at the site of the nuclear reactor for use as fuel in operation of the nuclear reactor after issuance of either an operating license under 10 CFR part 50 or combined license under 10 CFR part 52, shall, during the period before issuance of a license authorizing operation under 10 CFR part 50, or the period before the Commission makes the finding under § 52.103(g) of this chapter, as applicable, have and maintain financial protection in the amount of $1,000,000. Proof of financial protection shall be filed with the Commission in the manner specified in § 140.15 of this chapter before issuance of the license under part 70 of this chapter.
+
+[72 FR 49565, Aug. 28, 2007]

@@ -1,0 +1,3 @@
+##### § 1103.14 Private communications with the Board are prohibited. #####
+
+To the extent that the Board acts in a quasi-judicial capacity, it is improper for litigants, directly or through any counsel or representative, to communicate privately with a Board Member, administrative law judge, or other representative of the Board about a pending case, or to argue privately the merits thereof in the absence of the adversaries or without notice to them. Practitioners at all times shall scrupulously refrain from going beyond *ex parte* representations which are clearly proper in view of the administrative work of the Board in their communication with the Board and its staff.

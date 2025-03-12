@@ -1,0 +1,9 @@
+##### 28.204 Alternatives in lieu of corporate or individual sureties. #####
+
+(a) Any person required to furnish a bond to the Government may furnish any of the types of security listed in 28.204-1 through 28.204-3 instead of a corporate or individual surety for the bond. When any of those types of security are deposited, a statement shall be incorporated in the bond form pledging the security in lieu of execution of the bond form by corporate or individual sureties. The contractor shall execute the bond forms as the principal. Agencies shall establish safeguards to protect against loss of the security and shall return the security or its equivalent to the contractor when the bond obligation has ceased.
+
+(b) Upon written request by any contractor securing a performance or payment bond by any of the types of security listed in 28.204-1 through 28.204-3, the contracting officer may release a portion of the security only when the conditions allowing the partial release of lien in 28.203-5(c) are met. The contractor shall, as a condition of the partial release, furnish an affidavit agreeing that the release of such security does not relieve the contractor of its obligations under the bond(s).
+
+(c) The contractor may satisfy a requirement for bond security by furnishing a combination of the types of security listed in 28.204-1 through 28.204-3 or a combination of bonds supported by these types of security and additional surety bonds under 28.202 or 28.203. During the period for which a bond supported by security is required, the contractor may substitute one type of security listed in 28.204-1 through 28.204-3 for another, or may substitute, in whole or combination, additional surety bonds under 28.202 or 28.203.
+
+[61 FR 31653, June 20, 1996, as amended at 62 FR 44807, Aug. 22, 1997]

@@ -1,0 +1,3 @@
+##### § 61.124 Recordkeeping requirements. #####
+
+The owner or operator of any plant must maintain records documenting the source of input parameters including the results of all measurements upon which they are based, the calculations and/or analytical methods used to derive values for input parameters, and the procedure used in emission testing. This documentation should be sufficient to allow an independent auditor to verify the accuracy of the results of the emission testing. These records must be kept at the site of the plant for at least five years and, upon request, be made available for inspection by the Administrator, or his authorized representative.

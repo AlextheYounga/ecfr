@@ -1,0 +1,3 @@
+##### § 800.36 Petitions for extension of time to comment. #####
+
+A petition for extension of the time to submit comments must be received not later than 10 days before the end of the comment period stated in the notice. The petition must be submitted to: General Counsel, National Transportation Safety Board, 490 L'Enfant Plaza SW., Washington, DC 20594-2003. The filing of the petition does not automatically extend the time for petitioner's comments. Such a petition is granted only if the petitioner shows good cause for the extension, and if the extension is consistent with the public interest. If an extension is granted, it is granted to all persons, and the NTSB will publish a notice of the extension of the comment period in the Federal Register.

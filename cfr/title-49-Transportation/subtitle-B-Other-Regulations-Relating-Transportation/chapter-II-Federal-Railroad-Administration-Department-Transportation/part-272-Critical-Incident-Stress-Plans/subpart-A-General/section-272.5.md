@@ -1,0 +1,3 @@
+##### § 272.5 General duty. #####
+
+A railroad subject to this part shall adopt a written critical incident stress plan approved by the Federal Railroad Administration under § 272.103 and shall comply with that plan. Should a railroad subject to this part make a material modification to the approved plan, the railroad shall adopt the modified plan approved by the Federal Railroad Administration under § 272.103 and shall comply with that plan, as revised.

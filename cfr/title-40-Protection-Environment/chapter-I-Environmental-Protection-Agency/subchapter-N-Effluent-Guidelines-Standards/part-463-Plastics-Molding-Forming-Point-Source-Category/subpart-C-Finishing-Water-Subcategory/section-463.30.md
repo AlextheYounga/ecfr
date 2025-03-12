@@ -1,0 +1,3 @@
+##### § 463.30 Applicability; description of the finishing water subcategory. #####
+
+This subpart applies to discharges of pollutants from processes in the finishing water subcategory to waters of the United States and the introduction of such pollutants into publicly owned treatment works. Processes in the finishing water subcategory are processes where water comes in contact with the plastic product during finishing.

@@ -1,0 +1,3 @@
+##### 632.702-70 DOS policy. #####
+
+The Department's policy is to provide full funding for all contracts, to the maximum extent practicable. FAR 32.704 and 32.705-2 provide for incremental funding of cost-reimbursement contracts. Fixed-price, labor-hour, and time-and-materials contracts for severable services may also be incrementally funded if full funding is not available at the time of contract award and the contracting officer executes a determination and findings, approved by the requirements office, justifying the need for incremental funding due to the unavailability of funds.

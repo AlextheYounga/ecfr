@@ -1,0 +1,3 @@
+##### § 792.41 General. #####
+
+Each testing facility shall be of suitable size and construction to facilitate the proper conduct of studies. Testing facilities which are not located within an indoor controlled environment shall be of suitable location to facilitate the proper conduct of studies. Testing facilities shall be designed so that there is a degree of separation that will prevent any function or activity from having an adverse effect on the study.

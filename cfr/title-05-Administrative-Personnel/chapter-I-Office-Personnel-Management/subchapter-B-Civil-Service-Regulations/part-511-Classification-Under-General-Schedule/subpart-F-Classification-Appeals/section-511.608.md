@@ -1,0 +1,3 @@
+##### § 511.608 Employee representatives. #####
+
+An employee may select a representative of his or her choice to assist in the preparation and presentation of an appeal. An agency may disallow an employee's representative when the individual's activities as a representative would cause a conflict of interest or position; an employee who cannot be released from his or her official duties because of the priority needs of the Government; or an employee whose release would give rise to unreasonable costs to the Government.

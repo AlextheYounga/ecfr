@@ -1,0 +1,3 @@
+##### § 903.11 Advance announcement of rate adjustment. #####
+
+The Administrator may announce that the development of rates for a new service or revised rates for an existing service is under consideration. The announcement shall contain pertinent information relevant to the rate adjustment. The announcement may be through direct contact with customers, at public meetings, by press release, by newspaper advertisement, and/or by Federal Register publication. Written comments relevant to rate policy and design and to the rate adjustment process may be submitted by interested parties in response to the announcement. Any comments received shall be considered in the development of Proposed Rates.

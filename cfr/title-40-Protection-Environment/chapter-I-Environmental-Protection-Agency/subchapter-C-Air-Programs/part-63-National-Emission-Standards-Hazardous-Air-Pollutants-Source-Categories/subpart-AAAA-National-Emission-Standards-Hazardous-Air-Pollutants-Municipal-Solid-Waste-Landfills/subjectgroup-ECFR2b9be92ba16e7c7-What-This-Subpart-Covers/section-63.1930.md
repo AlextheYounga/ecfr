@@ -1,0 +1,7 @@
+##### § 63.1930 What is the purpose of this subpart? #####
+
+This subpart establishes national emission standards for hazardous air pollutants for existing and new municipal solid waste (MSW) landfills.
+
+(a) Before September 28, 2021, all landfills described in § 63.1935 must meet the requirements of 40 CFR part 60, subpart WWW, or an approved state or federal plan that implements 40 CFR part 60, subpart Cc, and requires timely control of bioreactors and additional reporting requirements. Landfills must also meet the startup, shutdown, and malfunction (SSM) requirements of the general provisions as specified in Table 1 to subpart AAAA of this part and must demonstrate compliance with the operating conditions by parameter monitoring results that are within the specified ranges. Specifically, landfills must meet the following requirements of this subpart that apply before September 28, 2021, as set out in: §§ 63.1955(a), 63.1955(b), 63.1965(a), 63.1965(c), 63.1975, 63.1981(a), 63.1981(b), and 63.1982, and the definitions of “Controlled landfill” and “Deviation” in § 63.1990.
+
+(b) Beginning no later than September 27, 2021, all landfills described in § 63.1935 must meet the requirements of this subpart. A landfill may choose to meet the requirements of this subpart rather than the requirements identified in § 63.1930(a) at any time before September 27, 2021. The requirements of this subpart apply at all times, including during periods of SSM, and the SSM requirements of the General Provisions of this part do not apply.

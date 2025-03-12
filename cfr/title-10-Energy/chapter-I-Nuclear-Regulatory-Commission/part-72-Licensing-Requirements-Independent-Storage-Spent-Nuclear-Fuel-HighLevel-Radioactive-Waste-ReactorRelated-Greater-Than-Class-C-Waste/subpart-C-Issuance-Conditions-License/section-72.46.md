@@ -1,0 +1,15 @@
+##### § 72.46 Public hearings. #####
+
+(a) In connection with each application for a license under this part, the Commission shall issue or cause to be issued a notice of proposed action and opportunity for hearing in accordance with § 2.105 or § 2.1107 of this chapter, as appropriate, or, if the Commission finds that a hearing is required in the public interest, a notice of hearing in accordance with § 2.104 of this chapter.
+
+(b)(1) In connection with each application for an amendment to a license under this part, the Commission shall, except as provided in paragraph (b)(2) of this section, issue or cause to be issued a notice of proposed action and opportunity for hearing in accordance with § 2.105 or § 2.1107 of this chapter, as appropriate, or, if the Commission finds that a hearing is required in the public interest, a notice of hearing in accordance with § 2.104 of this chapter.
+
+(2) The Director, Office of Nuclear Material Safety and Safeguards, or the Director's designee may dispense with a notice of proposed action and opportunity for hearing or a notice of hearing and take immediate action on an amendment to a license issued under this part upon a determination that the amendment does not present a genuine issue as to whether the health and safety of the public will be significantly affected. After taking the action, the Director or the Director's designee shall promptly publish a notice in the Federal Register of the action taken and of the right of interested persons to request a hearing on whether the action should be rescinded or modified. If the action taken amends an MRS license, the Director or the Director's designee shall also inform the appropriate State and local officials.
+
+(c) The notice of proposed action and opportunity for hearing or the notice of hearing may be included in the notice of docketing required to be published by § 72.16 of this part.
+
+(d) If no request for a hearing or petition for leave to intervene is filed within the time prescribed in the notice of proposed action and opportunity for hearing, the Director, Office of Nuclear Material Safety and Safeguards or the Director's designee may take the proposed action, and thereafter shall promptly inform the appropriate State and local officials and publish a notice in the Federal Register of the action taken. In accordance with § 2.764(c) of this chapter, the Director, Office of Nuclear Material Safety and Safeguards shall not issue an initial license for the construction and operation of an ISFSI located at a site other than a reactor site or an MRS until expressly authorized to do so by the Commission.
+
+(e) If an application for (or an amendment to) a specific license issued under this part incorporates by reference information on the design of a spent fuel storage cask for which NRC approval pursuant to subpart L of this part has been issued or is being sought, the scope of any public hearing held to consider the application will not include any cask design issues.
+
+[53 FR 31658, Aug. 19, 1988, as amended at 60 FR 20886, Apr. 28, 1995; 65 FR 50617, Aug. 21, 2000]

@@ -1,0 +1,3 @@
+##### § 778.1 Scope and purpose. #####
+
+This part establishes the minimum requirements for the permit applications for surface coal mining and reclamation operations under a State or Federal program. This part covers minimum legal, financial, and compliance requirements and general information that must be contained in permit applications. This part applies to any person who submits an application to a regulatory authority for a permit to conduct surface coal mining and reclamation operations.

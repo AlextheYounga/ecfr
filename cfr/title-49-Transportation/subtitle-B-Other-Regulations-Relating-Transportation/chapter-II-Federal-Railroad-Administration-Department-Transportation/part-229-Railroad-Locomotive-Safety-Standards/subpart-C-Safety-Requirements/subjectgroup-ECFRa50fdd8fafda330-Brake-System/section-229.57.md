@@ -1,0 +1,3 @@
+##### § 229.57 Foundation brake gear. #####
+
+A lever, rod, brake beam, hanger, or pin may not be worn through more than 30 percent of its cross-sectional area, cracked, broken, or missing. All pins shall be secured in place with cotters, split keys, or nuts. Brake shoes shall be fastened with a brake shoe key and aligned in relation to the wheel to prevent localized thermal stress in the edge of the rim or the flange.

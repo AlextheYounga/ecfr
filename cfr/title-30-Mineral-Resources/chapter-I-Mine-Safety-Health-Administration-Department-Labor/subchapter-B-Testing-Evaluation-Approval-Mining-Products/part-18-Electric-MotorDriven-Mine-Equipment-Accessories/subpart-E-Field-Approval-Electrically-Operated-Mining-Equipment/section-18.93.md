@@ -1,0 +1,17 @@
+##### § 18.93 Application for field approval; filing procedures. #####
+
+(a)(1) Investigation and testing leading to field approval shall be undertaken by MSHA only pursuant to individual written applications for each machine submitted in triplicate on MSHA Form No. 6-1481, by the owner-coal mine operator of the machine.
+
+(2) Except as provided in paragraph (b) of this section, each application shall be accompanied by appropriate photographs, drawings, specifications, and descriptions as required under the provisions of § 18.94 and each such application shall be filed with the Coal Mine Health and Safety District Manager for the District in which such machine will be employed.
+
+(b) The Coal Mine Health and Safety District Manager may, upon receipt of any application filed pursuant to paragraph (a) of this section, waive the requirements of § 18.94 with respect to such application if he determines that the submission of photographs, drawings, specifications, or descriptions will place an undue financial burden upon the applicant. In the event a waiver is granted in accordance with this paragraph (b), initial review of the application will be waived and the applicant shall be notified on MSHA Form 6-1481 of such waiver and the date, time, and location at which field inspection of the equipment described in the application will be conducted.
+
+(c) Following receipt of an application filed in accordance with paragraph (a) of this section, the Coal Mine Health and Safety District Manager shall determine whether the application has been filed in accordance with § 18.91, and cause the application to be reviewed by a qualified electrical representative to determine compliance with § 18.92:
+
+(1) If it is determined on the basis of the application or the data submitted in accordance with § 18.94 that further consideration of a field approval is warranted under this subpart E or that the machine appears suitable and safe for its intended use, the Coal Mine Health and Safety District Manager shall advise the applicant in writing that further investigation and inspection of the machine will be necessary. The notice issued by the Coal Mine Health and Safety District Manager shall set forth the time and place at which such inspection will be conducted and specify the location and size of any tapped holes required to be made by the applicant to facilitate the pressure testing of enclosures.
+
+(2) If it is determined on the basis of data submitted in accordance with § 18.94 that the applicant is not qualified to receive an approval or that the machine does not appear to be suitable and safe for its intended use, the Coal Mine Health and Safety District Manager shall so advise the applicant in writing, setting forth the reasons for his denial of the application, and where applicable, the deficiencies in the machine which rendered it unsuitable or unsafe for use.
+
+(3) Rejected applications, together with attached photographs, drawings, specifications and descriptions shall be forwarded by the Coal Mine Health and Safety District Manager to Approval and Certification Center which shall record all pertinent data with respect to the machine for which field approval was sought.
+
+[33 FR 4660, Mar. 19, 1968, as amended at 43 FR 12314, Mar. 24, 1978]

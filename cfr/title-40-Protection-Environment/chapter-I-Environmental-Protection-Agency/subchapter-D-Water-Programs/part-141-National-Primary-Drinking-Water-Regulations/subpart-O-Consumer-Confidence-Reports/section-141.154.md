@@ -1,0 +1,27 @@
+##### § 141.154 Required additional health information. #####
+
+(a) All reports must prominently display the following language: Some people may be more vulnerable to contaminants in drinking water than the general population. Immuno-compromised persons such as persons with cancer undergoing chemotherapy, persons who have undergone organ transplants, people with HIV/AIDS or other immune system disorders, some elderly, and infants can be particularly at risk from infections. These people should seek advice about drinking water from their health care providers. EPA/CDC guidelines on appropriate means to lessen the risk of infection by *Cryptosporidium* and other microbial contaminants are available from the Safe Drinking Water Hotline (800-426-4791) or on EPA's website *epa.gov/safewater.*
+
+(b) A system that detects arsenic above 0.005 mg/L and up to and including 0.010 mg/L:
+
+(1) Must include in its report a short informational statement about arsenic, using language such as: Arsenic is known to cause cancer in humans. Arsenic also may cause other health effects such as skin damage and circulatory problems. [NAME OF UTILITY] meets the EPA arsenic drinking water standard, also known as a Maximum Contaminant Level (MCL). However, you should know that EPA's MCL for arsenic balances the scientific community's understanding of arsenic-related health effects and the cost of removing arsenic from drinking water. The highest concentration of arsenic found in [YEAR] was [INSERT MAX ARSENIC LEVEL per § 141.153(d)(4)(iv)] ppb.
+
+(2) May use an alternative educational statement in the CCR if approved by the Primacy Agency.
+
+(c) A system which detects nitrate at levels above 5 mg/l, but below the MCL:
+
+(1) Must include a short informational statement about the impacts of nitrate on children using language such as: Even though [NAME OF UTILITY] meets the EPA nitrate drinking water standard, also known as a Maximum Contaminant Level (MCL), if you are caring for an infant and using tap water to prepare formula, you may want to use alternate sources of water or ask for advice from your health care provider. Nitrate levels above 10 ppm pose a particularly high health concern for infants under 6 months of age and can interfere with the capacity of the infant's blood to carry oxygen, resulting in a serious illness. Symptoms of serious illness include shortness of breath and blueness of the skin, known as “blue baby syndrome.” Nitrate levels in drinking water can increase for short periods of time due to high levels of rainfall or agricultural activity, therefore we test for nitrate [INSERT APPLICABLE SAMPLING FREQUENCY]. The highest level for nitrate found during [YEAR] was [INSERT MAX NITRATE LEVEL per § 141.153(d)(4)(iv)] ppm.
+
+(2) May use an alternative educational statement in the CCR if approved by the Primacy Agency.
+
+(d) Every report must include the following lead-specific information:
+
+(1) A short informational statement about lead in drinking water and its effects on children. The statement must include the information in figure 1 to this paragraph (d)(1):
+
+Figure 1 to Paragraph (d)(1)
+
+Lead can cause serious health effects in people of all ages, especially pregnant people, infants (both formula-fed and breastfed), and young children. Lead in drinking water is primarily from materials and parts used in service lines and in home plumbing. [INSERT NAME OF SYSTEM] is responsible for providing high quality drinking water and removing lead pipes but cannot control the variety of materials used in the plumbing in your home. Because lead levels may vary over time, lead exposure is possible even when your tap sampling results do not detect lead at one point in time. You can help protect yourself and your family by identifying and removing lead materials within your home plumbing and taking steps to reduce your family's risk. Using a filter, certified by an American National Standards Institute accredited certifier to reduce lead, is effective in reducing lead exposures. Follow the instructions provided with the filter to ensure the filter is used properly. Use only cold water for drinking, cooking, and making baby formula. Boiling water does not remove lead from water. Before using tap water for drinking, cooking, or making baby formula, flush your pipes for several minutes. You can do this by running your tap, taking a shower, doing laundry or a load of dishes. If you have a lead service line or galvanized requiring replacement service line, you may need to flush your pipes for a longer period. If you are concerned about lead in your water and wish to have your water tested, contact [INSERT NAME OF SYSTEM and CONTACT INFORMATION]. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available at *https://www.epa.gov/safewater/lead.*
+
+(2) May use an alternative educational statement in the CCR if approved by the Primacy Agency.
+
+[63 FR 44526, Aug. 19, 1998, as amended at 63 FR 69475, Dec. 16, 1998; 64 FR 34733, June 29, 1999; 65 FR 26023, May 4, 2000; 66 FR 7064, Jan. 22, 2001; 68 FR 14506, Mar. 25, 2003; 72 FR 57820, Oct. 10, 2007; 86 FR 4309, Jan. 15, 2021; 89 FR 46011, May 24, 2024; 89 FR 86662, Oct. 30, 2024]

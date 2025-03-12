@@ -1,0 +1,3 @@
+##### 3033.102-90 Protests on classified solicitations (OSA). #####
+
+To ensure that classified information is protected and appropriate security measures are coordinated as required, protests involving classified solicitations issued by the Office of Selective Acquisitions (OSA) shall be submitted directly to the contracting officer for further transmission to the GAO, the United States Court of Federal Claims, or for internal resolution in the case of agency protests. Specific instructions will be provided in Section L of the solicitation.

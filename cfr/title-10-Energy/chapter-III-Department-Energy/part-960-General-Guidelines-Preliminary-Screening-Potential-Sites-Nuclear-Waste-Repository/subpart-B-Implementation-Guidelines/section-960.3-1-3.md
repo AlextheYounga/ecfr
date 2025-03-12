@@ -1,0 +1,3 @@
+##### § 960.3-1-3 Regionality. #####
+
+In making site recommendations for repository development after the site for the first repository has been recommended, the Secretary shall give due consideration to the need for, and the advantages of, a regional distribution in the siting of subsequent repositories. Such consideration shall take into account the proximity of sites to locations at which waste is generated or temporarily stored and at which other repositories have been or are being developed.

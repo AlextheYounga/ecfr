@@ -1,0 +1,3 @@
+##### § 221.82 Reissue of matter continued in effect by suspension to be canceled upon termination of suspension. #####
+
+When tariff provisions continued in effect by a suspension are reissued during the period of such suspension, the termination of the suspension and the coming into effect of the suspended matter will not accomplish the cancellation of such reissued matter. In such circumstances, prompt action shall be taken by the issuing agent or carrier to cancel such reissued provisions upon the termination of the suspension in order that they will not conflict with the provisions formerly under suspension.

@@ -1,0 +1,3 @@
+##### § 608.814 Reporting of credit information. #####
+
+The Chairman, or designee of the Chairman, may disclose to a consumer reporting agency information that an individual is responsible for a debt owed to the United States. Information will be disclosed to reporting agencies in accordance with the terms and conditions of agreements entered into between the FCA and the reporting agencies. The terms and conditions of such agreements shall specify that all of the rights and protection afforded to the debtor under 31 U.S.C. 3711(f) have been fulfilled. The FCA shall notify each consumer reporting agency, to which a claim was disclosed, when the debt has been satisfied.

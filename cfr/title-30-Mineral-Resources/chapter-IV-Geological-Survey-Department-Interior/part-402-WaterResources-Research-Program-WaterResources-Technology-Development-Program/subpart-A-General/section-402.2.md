@@ -1,0 +1,3 @@
+##### § 402.2 Delegation of authority. #####
+
+The Water-Resources Research Program and the Water-Resources Technology Development Program, as authorized by sections 105 and 106 of the Act (42 U.S.C. 10304 and 10305), have been established as components of the USGS. The Secretary of the Interior has delegated to the Director of the USGS authority to take actions and make the determinations that, under the Act, are the responsibility of the Secretary.

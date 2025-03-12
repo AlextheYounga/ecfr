@@ -1,0 +1,13 @@
+##### § 870.602 Termination of Optional insurance. #####
+
+(a) The Optional insurance of an insured employee stops when his or her Basic insurance stops, subject to the same 31-day extension of coverage.
+
+(b) The Optional insurance of an employee who separates from service after meeting the requirement for an immediate annuity under § 842.204(a)(1) of this chapter and who postpones receiving the annuity, as provided by § 842.204(c) of this chapter (an MRA+10 annuity), stops on the date he or she separates from service, subject to a 31-day extension of coverage. *Exception:* If the employee was employed by the Architect of the Capitol as a Senate Restaurants employee the day before the food services operations of the Senate Restaurants were transferred to a private business concern and the employee accepted employment with the business concern and elected to continue his or her Federal retirement benefits and FEGLI coverage, the employee continues to be eligible for FEGLI coverage as long as he or she remains employed by the business concern or its successor.
+
+(c)(1) If an insured employee is not eligible to continue Optional coverage as an annuitant or compensationer as provided by § 870.701, the Optional insurance stops on the date that his or her Basic insurance is continued or reinstated under § 870.701, subject to a 31-day extension of coverage.
+
+(d) If, at the time of an individual's election of Basic insurance during receipt of annuity or compensation, he or she elects no Basic life insurance as provided by § 870.702(a)(1), the Optional insurance stops at the end of the month in which the election is received in OPM, subject to a 31-day extension of coverage.
+
+(e) Except for employees, annuitants, and compensationers who elect direct payment as provided in § 870.405, Optional insurance stops, subject to a 31-day extension of coverage, at the end of the pay period in which the employing office or retirement system determines that an individual's periodic pay, annuity, or compensation, after all other deductions, is not enough to cover the full cost of the Optional insurance. If an individual has more than one type of Optional insurance and his or her pay, annuity, or compensation is sufficient to cover some but not all of the insurance, the multiples of Option C terminate first, followed by Option A, and then the multiples of Option B.
+
+[75 FR 60581, Oct. 1, 2010]

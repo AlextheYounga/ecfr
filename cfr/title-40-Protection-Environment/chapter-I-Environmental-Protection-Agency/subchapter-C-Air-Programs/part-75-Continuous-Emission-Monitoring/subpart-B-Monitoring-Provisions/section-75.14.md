@@ -1,0 +1,13 @@
+##### § 75.14 Specific provisions for monitoring opacity. #####
+
+(a) *Coal-fired units and oil-fired units.* The owner or operator shall meet the general operating provisions in § 75.10 of this part for a continuous opacity monitoring system for each affected coal-fired or oil-fired unit, except as provided in paragraphs (b), (c), and (d) of this section and in § 75.18. Each continuous opacity monitoring system shall meet the design, installation, equipment, and performance specifications in Performance Specification 1 in appendix B to part 60 of this chapter. Any continuous opacity monitoring system previously certified to meet Performance Specification 1 shall be deemed certified for the purposes of this part.
+
+(b) *Unit with wet flue gas pollution control system.* If the owner or operator can demonstrate that condensed water is present in the exhaust flue gas stream and would impede the accuracy of opacity measurements, then the owner or operator of an affected unit equipped with a wet flue gas pollution control system for SO2 emissions or particulates is exempt from the opacity monitoring requirements of this part.
+
+(c) *Gas-fired units.* The owner or operator of an affected unit that qualifies as gas-fired, as defined in § 72.2 of this chapter, based on information submitted by the designated representative in the monitoring plan is exempt from the opacity monitoring requirements of this part. Whenever a unit previously categorized as a gas-fired unit is recategorized as another type of unit by changing its fuel mix, the owner or operator shall install, operate, and certify a continuous opacity monitoring system as required by paragraph (a) of this section by December 31 of the following calendar year.
+
+(d) *Diesel-fired units and dual-fuel reciprocating engine units.* The owner or operator of an affected diesel-fired unit or a dual-fuel reciprocating engine unit is exempt from the opacity monitoring requirements of this part.
+
+(e) Unit with a certified particulate matter (PM) monitoring system. If, for a particular affected unit, the owner or operator installs, certifies, operates, maintains, and quality-assures a continuous particulate matter (PM) monitoring system in accordance with Procedure 2 in appendix F to part 60 of this chapter, the unit shall be exempt from the opacity monitoring requirement of this part.
+
+[58 FR 3701, Jan. 11, 1993, as amended at 61 FR 25581, May 22, 1996; 73 FR 4343, Jan. 24, 2008]

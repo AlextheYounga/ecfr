@@ -1,0 +1,5 @@
+##### § 213.7 Filing requirements for adherence to Montreal Agreement. #####
+
+It shall be a condition upon the holding of a foreign air carrier permit or other authority authorizing direct foreign scheduled air transportation that the holder have and maintain in effect and on file with the Department a signed counterpart of Agreement 18900 (OST Form 4523), and a tariff (for those carriers otherwise generally required to file tariffs) that includes its provisions, and comply with all other requirements of part 203 of this chapter. That form can be obtained from the Foreign Air Carrier Licensing Division (X-45), Office of International Aviation, Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590.
+
+(Approved by the Office of Management and Budget under control number 3024-0064)[ER-1330, 48 FR 8050, Feb. 25, 1983, as amended by ER-1346, 48 FR 31014, July 6, 1983; 61 FR 34725, July 3, 1996]

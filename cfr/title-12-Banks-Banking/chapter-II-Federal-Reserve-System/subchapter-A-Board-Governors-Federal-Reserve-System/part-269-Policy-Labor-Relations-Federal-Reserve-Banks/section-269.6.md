@@ -1,0 +1,9 @@
+##### § 269.6 Unfair labor practices. #####
+
+(a) It shall be an unfair labor practice for a Bank to: (1) Interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in § 269.2(a); (2) dominate or interfere with the formation or administration of any labor organization, or to contribute financial or other support to it; (3) encourage or discourage membership in any labor organization by discrimination in regard to hire or tenure of employment or any term or condition of employment; (4) refuse to bargain collectively with the representatives of its employees subject to the provisions of § 269.3 (b) and (c).
+
+(b) It shall be an unfair labor practice for a labor organization, its agents or representatives to: (1) Restrain or coerce employees in the exercise of the rights guaranteed in § 269.2(a); (2) cause or attempt to cause a Bank to Discriminate against an employee in violation of paragraph (a)(3) of this section; (3) refuse to bargain collectively with a Bank, provided the labor organization is the exclusive representative of a unit of employees.
+
+(c) Notwithstanding anything previously stated in this section, the expression of any view, argument or opinion, or the dissemination thereof, whether in oral, written, printed, graphic or visual form, shall not constitute or be evidence of an unfair labor practice, if such expression contains no threat of reprisal or force, or promise of benefit.
+
+(d) The Federal Reserve System Labor Relations Panel will adhere to the rules and regulations promulgated by the Board of Governors for the prevention and remedy of the unfair labor practices listed herein.

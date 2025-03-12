@@ -1,0 +1,3 @@
+##### § 63.5480 What is the purpose of this subpart? #####
+
+This subpart establishes emission limits, operating limits, and work practice standards for hazardous air pollutants (HAP) emitted from cellulose products manufacturing operations. Carbon disulfide, carbonyl sulfide, ethylene oxide, methanol, methyl chloride, propylene oxide, and toluene are the HAP emitted in the greatest quantities from cellulose products manufacturing operations. This subpart also establishes requirements to demonstrate initial and continuous compliance with the emission limits, operating limits, and work practice standards.

@@ -1,0 +1,7 @@
+##### § 85.5 Authority for investigations. #####
+
+(a) NIOSH officers who have been issued official NIOSH credentials (Form No. CDC/NIOSH 2.93) are authorized by the Director, NIOSH, under sections 20(a) (6) and 8 of the OSH Act and sections 501(a)(11) and 103 of the FMSH Act: To enter without delay any place of employment for the purpose of conducting investigations of all pertinent processes, conditions, structures, machines, apparatus, devices, equipment, records, and materials within the place of employment; and to conduct medical examinations, anthropometric measurements, and functional tests of employees within the place of employment as may be directly related to the specific health hazard evaluation being conducted. Investigations will be conducted in a reasonable manner, during regular working hours or at other reasonable times and within reasonable limits. In connection with any investigation, the NIOSH officers may question privately any employer, owner, operator, agent, or employee from the place of employment; and review, abstract, and duplicate records required by the Acts and regulations and any other related records.
+
+(b) Areas under investigation which contain information classified by any agency of the United States Government in the interest of national security will be investigated only by NIOSH officers who have obtained the proper security clearance and authorization.
+
+[45 FR 2653, Jan. 14, 1980]

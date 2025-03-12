@@ -1,0 +1,3 @@
+##### § 317.904 Change in type of SES appointment. #####
+
+An agency may not require a career SES appointee to accept a noncareer or limited SES appointment as a condition of appointment to another SES position. If a career appointee elects to accept a noncareer or limited appointment, the voluntary nature of the action must be documented in writing before the effective date of the new appointment. A copy of such documentation must be retained permanently in the appointee's Official Personnel Folder.

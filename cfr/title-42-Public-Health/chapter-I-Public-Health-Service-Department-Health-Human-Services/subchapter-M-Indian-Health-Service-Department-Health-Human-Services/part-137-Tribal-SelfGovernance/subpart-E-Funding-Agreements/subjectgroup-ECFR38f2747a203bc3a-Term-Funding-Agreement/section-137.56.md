@@ -1,0 +1,3 @@
+##### § 137.56 Does a funding agreement remain in effect after the end of its term? #####
+
+Yes, the provisions of a funding agreement, including all recurring increases received and continuing eligibility for other increases, remain in full force and effect until a subsequent funding agreement is executed. Upon execution of a subsequent funding agreement, the provisions of such a funding agreement are retroactive to the end of the term of the preceding funding agreement.

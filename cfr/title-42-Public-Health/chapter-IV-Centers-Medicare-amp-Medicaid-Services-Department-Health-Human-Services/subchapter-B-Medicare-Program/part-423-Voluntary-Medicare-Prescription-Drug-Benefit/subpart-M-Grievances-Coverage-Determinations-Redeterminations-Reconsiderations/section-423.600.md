@@ -1,0 +1,13 @@
+##### § 423.600 Reconsideration by an independent review entity (IRE). #####
+
+(a) An enrollee who is dissatisfied with the redetermination of a Part D plan sponsor has a right to a reconsideration by an independent review entity that contracts with CMS. The prescribing physician or other prescriber (acting on behalf of an enrollee), upon providing notice to the enrollee, may request an IRE reconsideration. The enrollee, or the enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee) must file a written request for reconsideration with the IRE within 60 calendar days of the date of the redetermination by the Part D plan sponsor.
+
+(b) When an enrollee, or an enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee) files an appeal, the IRE is required to solicit the views of the prescribing physician or other prescriber. The IRE may solicit the views of the prescribing physician or other prescriber orally or in writing. A written account of the prescribing physician's or other prescriber's views (prepared by either the prescribing physician, other prescriber, or IRE, as appropriate) must be contained in the IRE record.
+
+(c) In order for an enrollee or a prescribing physician or other prescriber (acting on behalf of an enrollee) to request an IRE reconsideration of a determination by a Part D plan sponsor not to provide for a Part D drug that is not on the formulary, the prescribing physician or other prescriber must determine that all covered Part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the non-formulary drug, would have adverse effects for the individual, or both.
+
+(d) The independent review entity must conduct the reconsideration as expeditiously as the enrollee's health condition requires but must not exceed the deadlines applicable in § 423.590, including those deadlines that are applicable when a request for an expedited reconsideration is received and granted.
+
+(e) When the issue is the denial of coverage based on a lack of medical necessity (or any substantively equivalent term used to describe the concept of medical necessity), the reconsideration must be made by a physician with expertise in the field of medicine that is appropriate for the services at issue. The physician making the reconsideration need not, in all cases, be of the same specialty or subspecialty as the prescribing physician or other prescriber.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1548, Jan. 12, 2009; 74 FR 65363, Dec. 9, 2009; 77 FR 22171, Apr. 12, 2012]

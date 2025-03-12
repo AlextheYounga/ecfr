@@ -1,0 +1,3 @@
+##### § 13.45 Amendment of notice and answer. #####
+
+At any time more than 10 days before the date of hearing, any party may amend his or her notice, answer, or other pleading, by filing the amendment with the Hearing Officer and serving a copy of it on each other party. After that time, amendments may be allowed only in the discretion of the Hearing Officer. If an amendment to an initial pleading has been allowed, the Hearing Officer shall allow the other parties a reasonable opportunity to answer.

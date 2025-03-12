@@ -1,0 +1,3 @@
+##### § 398.6 Hours of service of drivers; maximum driving time. #####
+
+No person shall drive nor shall any motor carrier permit or require a driver employed or used by it to drive or operate for more than 10 hours in the aggregate (excluding rest stops and stops for meals) in any period of 24 consecutive hours, unless such driver be afforded eight consecutive hours rest immediately following the 10 hours aggregate driving. The term “24 consecutive hours” as used in this part means any such period starting at the time the driver reports for duty.

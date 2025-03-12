@@ -1,0 +1,3 @@
+##### § 121.205 Nontransport category airplanes: Landing limitations: Alternate airport. #####
+
+No person may list an airport as an alternate airport in a dispatch or flight release for a nontransport category airplane unless that airplane (at the weight anticipated at the time of arrival) based on the assumptions contained in § 121.203, can be brought to a full stop landing within 70 percent of the effective length of the runway.

@@ -1,0 +1,3 @@
+##### § 403.4 State or local law. #####
+
+Nothing in this regulation is intended to affect any Pretreatment Requirements, including any standards or prohibitions, established by State or local law as long as the State or local requirements are not less stringent than any set forth in National Pretreatment Standards, or any other requirements or prohibitions established under the Act or this regulation. States with an NPDES permit program approved in accordance with section 402 (b) and (c) of the Act, or States requesting NPDES programs, are responsible for developing a State pretreatment program in accordance with § 403.10 of this regulation.

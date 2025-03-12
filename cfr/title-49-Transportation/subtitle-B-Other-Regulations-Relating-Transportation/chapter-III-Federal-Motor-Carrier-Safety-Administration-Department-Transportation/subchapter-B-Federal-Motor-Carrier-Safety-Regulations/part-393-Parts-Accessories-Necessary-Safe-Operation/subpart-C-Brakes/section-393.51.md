@@ -1,0 +1,23 @@
+##### § 393.51 Warning signals, air pressure and vacuum gauges. #####
+
+(a) *General Rule.* Every bus, truck and truck tractor, except as provided in paragraph (f), must be equipped with a signal that provides a warning to the driver when a failure occurs in the vehicle's service brake system. The warning signal must meet the applicable requirements of paragraphs (b), (c), (d) or (e) of this section.
+
+(b) *Hydraulic brakes.* Vehicles manufactured on or after September 1, 1975, must meet the brake system indicator lamp requirements of FMVSS No. 571.105 (S5.3) applicable to the vehicle on the date of manufacture. Vehicles manufactured on or after July 1, 1973 but before September 1, 1975, or to which FMVSS No. 571.105 was not applicable on the date of manufacture, must have a warning signal which operates before or upon application of the brakes in the event of a hydraulic-type complete failure of a partial system. The signal must be either visible within the driver's forward field of view or audible. The signal must be continuous. (NOTE: FMVSS No. 105 was applicable to trucks and buses from September 1, 1975 to October 12, 1976, and from September 1, 1983, to the present. FMVSS No. 105 was not applicable to trucks and buses manufactured between October 12, 1976, and September 1, 1983. Motor carriers have the option of equipping those vehicles to meet either the indicator lamp requirements of FMVSS No. 105, or the indicator lamp requirements specified in this paragraph for vehicles which were not subject to FMVSS No. 105 on the date of manufacture.)
+
+(c) *Air brakes.* A commercial motor vehicle (regardless of the date of manufacture) equipped with service brakes activated by compressed air (air brakes) or a commercial motor vehicle towing a vehicle with service brakes activated by compressed air (air brakes) must be equipped with a pressure gauge and a warning signal. Trucks, truck tractors, and buses manufactured on or after March 1, 1975, must, at a minimum, have a pressure gauge and a warning signal which meets the requirements of FMVSS No. 121 (S5.1.4 for the pressure gauge and S5.1.5 for the warning signal) applicable to the vehicle on the date of manufacture of the vehicle. Power units to which FMVSS No. 571.121 was not applicable on the date of manufacture of the vehicle must be equipped with—
+
+(1) A pressure gauge, visible to a person seated in the normal driving position, which indicates the air pressure (in kilopascals (kPa) or pounds per square inch (psi)) available for braking; and
+
+(2) A warning signal that is audible or visible to a person in the normal driving position and provides a continuous warning to the driver whenever the air pressure in the service reservoir system is at 379 kPa (55 psi) and below, or one-half of the compressor governor cutout pressure, whichever is less.
+
+(d) *Vacuum brakes.* A commercial motor vehicle (regardless of the date it was manufactured) having service brakes activated by vacuum or a vehicle towing a vehicle having service brakes activated by vacuum must be equipped with—
+
+(1) A vacuum gauge, visible to a person seated in the normal driving position, which indicates the vacuum (in millimeters or inches of mercury) available for braking; and
+
+(2) A warning signal that is audible or visible to a person in the normal driving position and provides a continuous warning to the driver whenever the vacuum in the vehicle's supply reservoir is less than 203 mm (8 inches) of mercury.
+
+(e) *Hydraulic brakes applied or assisted by air or vacuum.* Each vehicle equipped with hydraulically activated service brakes which are applied or assisted by compressed air or vacuum, and to which FMVSS No. 105 was not applicable on the date of manufacture, must be equipped with a warning signal that conforms to paragraph (b) of this section for the hydraulic portion of the system; paragraph (c) of this section for the air assist/air applied portion; or paragraph (d) of this section for the vacuum assist/vacuum applied portion. This paragraph shall not be construed as requiring air pressure gauges or vacuum gauges, only warning signals.
+
+(f) *Exceptions.* The rules in paragraphs (c), (d) and (e) of this section do not apply to property carrying commercial motor vehicles which have less than three axles and (1) were manufactured before July 1, 1973, and (2) have a manufacturer's gross vehicle weight rating less than 4,536 kg (10,001 pounds).
+
+[70 FR 48052, Aug. 15, 2005]

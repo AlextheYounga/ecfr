@@ -1,0 +1,15 @@
+##### § 63.8692 What notifications must I submit and when? #####
+
+(a) You must submit all the notifications in §§ 63.6(h)(4) and (5), 63.7(b) and (c), 63.8(f), and 63.9(b) through (f) and (h) that apply to you by the dates specified in these sections, except as provided in paragraphs (b) through (f) of this section.
+
+(b) As specified in § 63.9(b)(2), if you start up your affected source before April 29, 2003, you must submit an Initial Notification not later than 120 calendar days after April 29, 2003, or no later than 120 days after the source becomes subject to this subpart, whichever is later.
+
+(c) As specified in § 63.9(b)(3), if you start up your new or reconstructed affected source on or after April 29, 2003, you must submit an Initial Notification not later than 120 calendar days after you become subject to this subpart.
+
+(d) If you are required to conduct a performance test, you must submit a notification of intent to conduct a performance test at least 60 calendar days before the performance test is scheduled to begin, as required in § 63.7(b)(1).
+
+(e) If you are required to conduct a performance test, design evaluation, opacity observation, visible emission observation, or other compliance demonstration as specified in Table 3 or 4 to this subpart, you must submit a Notification of Compliance Status according to § 63.9(h)(2)(ii). You must submit the Notification of Compliance Status, including the performance test results, before the close of business on the 60th calendar day following the completion of the performance test according to § 63.10(d)(2). On and after September 9, 2020, you must submit all subsequent Notification of Compliance Status reports to EPA via the Compliance and Emissions Data Reporting Interface (CEDRI), which can be accessed through EPA's Central Data Exchange (CDX) (*https://cdx.epa.gov/*). If you claim some of the information required to be submitted via CEDRI is confidential business information (CBI), then submit a complete report, including information claimed to be CBI, to EPA. Submit the file on a compact disc, flash drive, or other commonly used electronic storage medium and clearly mark the medium as CBI. Mail the electronic medium to U.S. EPA/OAQPS/CORE CBI Office, Attention: Group Leader, Measurement Policy Group, MD C404-02, 4930 Old Page Rd., Durham, NC 27703. The same file with the CBI omitted must be submitted to EPA via EPA's CDX as described earlier in this paragraph (e). You may assert a claim of EPA system outage or force majeure for failure to timely comply with the reporting requirement in this paragraph (e) provided you meet the requirements outlined in § 63.8693(h) or (i), as applicable.
+
+(f) If you are using data from a previously-conducted emission test to serve as documentation of conformance with the emission standards and operating limits of this subpart as specified in § 63.8686(b), you must submit the test data in lieu of the initial performance test results with the Notification of Compliance Status required under paragraph (e) of this section.
+
+[68 FR 24577, May 7, 2003, as amended at 85 FR 14550, Mar. 12, 2020; 85 FR 73916, Nov. 19, 2020]

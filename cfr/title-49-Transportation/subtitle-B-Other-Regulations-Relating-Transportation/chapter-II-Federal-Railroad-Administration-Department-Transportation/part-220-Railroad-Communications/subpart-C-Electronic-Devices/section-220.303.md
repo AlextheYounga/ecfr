@@ -1,0 +1,3 @@
+##### § 220.303 General use of electronic devices. #####
+
+A railroad operating employee shall not use an electronic device if that use would interfere with the employee's or another railroad operating employee's performance of safety-related duties. No individual in the cab of a controlling locomotive shall use an electronic device if that use would interfere with a railroad operating employee's performance of safety-related duties.

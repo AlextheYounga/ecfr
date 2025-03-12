@@ -1,0 +1,5 @@
+##### § 64.1 Traffic damage claims. #####
+
+(a) Each carrier engaged in furnishing radio-telegraph, wire-telegraph, or ocean-cable service shall maintain separate files for each damage claim of a traffic nature filed with the carrier, showing the name, address, and nature of business of the claimant, the basis for the claim, disposition made, and all correspondence, reports, and records pertaining thereto. Such files shall be preserved in accordance with existing rules of the Commission (part 42 of this chapter) and at points (one or more) to be specifically designated by each carrier.
+
+(b) The aforementioned carriers shall make no payment as a result of any traffic damage claim if the amount of the payment would be in excess of the total amount collected by the carrier on the message or messages from which the claim arose unless such claim be presented to the carrier in writing signed by the claimant and setting forth the reason for the claim.

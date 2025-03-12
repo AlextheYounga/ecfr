@@ -1,0 +1,3 @@
+##### § 294.105 Access to the requester's own records. #####
+
+When the subject of a record, or a duly authorized representative of the subject, requests his or her own records from a Privacy Act system of records, as defined by 5 U.S.C. 552a (a)(5), and the record is maintained so that it is retrieved by the subject's name or other personal identifier, OPM will process the request under the Privacy Act procedures in part 297 of this chapter.

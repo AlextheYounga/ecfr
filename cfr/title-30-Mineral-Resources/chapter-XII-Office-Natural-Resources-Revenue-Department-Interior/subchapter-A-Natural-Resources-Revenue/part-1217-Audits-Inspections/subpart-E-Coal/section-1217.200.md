@@ -1,0 +1,5 @@
+##### § 1217.200 Audits. #####
+
+An audit of the accounts and books of operators/lessees for the purpose of determining compliance with Federal lease terms relating to Federal royalties may be required annually or at other times as directed by the Director for Office of Natural Resources Revenue. The audit shall be performed by a qualified independent certified public accountant or by an independent public accountant licensed by a State, territory, or insular possession of the United States or the District of Columbia, and at the expense of the operator/lessee. The operator/lessee shall furnish, free of charge, duplicate copies of audit reports that express opinions on such compliance to the Director for Office of Natural Resources Revenue within 30 days after the completion of each audit. Where such audits are required, the Director for Office of Natural Resources Revenue will specify the purpose and scope of the audit and the information which is to be verified or obtained.
+
+[47 FR 33195, July 30, 1982. Redesignated at 48 FR 35641, Aug. 5, 1983, as amended at 67 FR 19112, Apr. 18, 2002]

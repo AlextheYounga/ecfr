@@ -1,0 +1,3 @@
+##### § 60.4360 How do I determine the total sulfur content of the turbine's combustion fuel? #####
+
+You must monitor the total sulfur content of the fuel being fired in the turbine, except as provided in § 60.4365. The sulfur content of the fuel must be determined using total sulfur methods described in § 60.4415. Alternatively, if the total sulfur content of the gaseous fuel during the most recent performance test was less than half the applicable limit, ASTM D4084, D4810, D5504, or D6228, or Gas Processors Association Standard 2377 (all of which are incorporated by reference, see § 60.17), which measure the major sulfur compounds, may be used.

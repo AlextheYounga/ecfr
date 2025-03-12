@@ -1,0 +1,11 @@
+##### § 874.14 Water supply restoration. #####
+
+(a) Any State or Indian tribe that has not certified completion of all coal-related reclamation under section 411(a) of SMCRA may expend funds under §§ 872.16, 872.19, 872.23, and 872.31 of this chapter for water supply restoration projects. For purposes of this section, “water supply restoration projects” are those that protect, repair, replace, construct, or enhance facilities related to water supplies, including water distribution facilities and treatment plants that have been adversely affected by coal mining practices. For funds awarded before December 20, 2006, any uncertified State or Indian tribe may expend up to 30 percent of the funds distributed to it for water supply restoration projects.
+
+(b) If the adverse effect on water supplies referred to in this section occurred both prior to and after August 3, 1977, the project shall remain eligible, notwithstanding the criteria specified in 30 CFR 874.12(b), if the State or Indian tribe finds in writing, as part of its eligibility opinion, that such adverse affects are due predominately to effects of mining processes undertaken and abandoned prior to August 3, 1977.
+
+(c) If the adverse effect on water supplies referred to in this section occurred both prior to and after the dates (and under the criteria) set forth under section 402(g)(4)(B) of the Act, the project shall remain eligible, notwithstanding the criteria specified in 30 CFR 874.12(b), if the State or Indian tribe finds in writing, as part of its eligibility opinion, that such adverse effects are due predominately to the effects of mining processes undertaken and abandoned prior to those dates.
+
+(d) Enhancement of facilities or utilities under this section shall include upgrading necessary to meet any local, State, or Federal public health or safety requirement. Enhancement shall not include, however, any service area expansion of a utility or facility not necessary to address a specific abandoned mine land problem.
+
+[59 FR 28171, May 31, 1994, as amended at 73 FR 67639, Nov. 14, 2008]

@@ -1,0 +1,7 @@
+##### § 821.64 Judicial review. #####
+
+(a) *General.* Judicial review of a final order of the Board may be sought as provided in 49 U.S.C. 1153 and 46110 by the filing of a petition for review with the appropriate United States Court of Appeals or United States District Court, pursuant to the provisions of Pub. L. 112-53, 126 Stat. 1159 (August 3, 2012), 49 U.S.C. 44703 note. Such petition is due within 60 days of the date of entry (*i.e.,* service date) of the Board's order. Under the applicable statutes, any party may appeal the Board's decision. The Board is not a party in interest in such appellate proceedings and, accordingly, does not typically participate in the judicial review of its decisions. In matters appealed by the Administrator, the other parties should anticipate the need to make their own defense.
+
+(b) *Stay pending judicial review.* No request for a stay pending judicial review will be entertained unless it is served on the Board within 15 days after the date of service of the Board's order. The non-moving party may, within 5 days after the date of service of such a motion, file a reply thereto.
+
+[68 FR 22625, Apr. 29, 2003, as amended at 77 FR 63245, Oct. 16, 2012; 77 FR 63253, Oct. 16, 2012; 78 FR 57534, Sept. 19, 2013]

@@ -1,0 +1,5 @@
+##### § 595.101 Purpose. #####
+
+Section 5948 of title 5, United States Code, authorizes the payment of allowances to certain eligible Federal physicians who enter into service agreements with their agencies. These allowances are paid only to categories of physicians for which the agency is experiencing recruitment and retention problems and are fixed at the minimum amounts necessary to deal with such problems. The President has delegated regulatory responsibility for this program to the Director of OPM, acting in consultation with the Office of Management and Budget. This part contains the regulations, criteria and conditions which the Director of OPM, in consultation with the Director of the Office of Management and Budget, has prescribed for the administration of the physicians' comparability allowance program. This part supplements and implements 5 U.S.C. 5948 and should be read together with that section of law.
+
+[69 FR 27817, May 17, 2004]

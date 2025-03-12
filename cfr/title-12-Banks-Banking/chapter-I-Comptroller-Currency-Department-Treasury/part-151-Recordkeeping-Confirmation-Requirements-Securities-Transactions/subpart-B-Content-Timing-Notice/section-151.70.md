@@ -1,0 +1,3 @@
+##### § 151.70 What type of notice must I provide when I effect a securities transaction for a customer? #####
+
+If you effect a securities transaction for a customer, you must give or send the customer the registered broker-dealer confirmation described at § 151.80, or the written notice described at § 151.90. For certain types of transactions, you may elect to provide the alternate notices described in § 151.100.

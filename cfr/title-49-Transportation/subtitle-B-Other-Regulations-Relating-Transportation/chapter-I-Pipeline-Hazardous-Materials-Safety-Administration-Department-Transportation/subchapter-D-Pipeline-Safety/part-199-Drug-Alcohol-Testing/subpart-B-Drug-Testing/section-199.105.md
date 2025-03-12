@@ -1,0 +1,37 @@
+##### § 199.105 Drug tests required. #####
+
+Each operator shall conduct the following drug tests for the presence of a prohibited drug:
+
+(a) *Pre-employment testing.* No operator may hire or contract for the use of any person as an employee unless that person passes a drug test or is covered by an anti-drug program that conforms to the requirements of this part.
+
+(b) *Post-accident testing.* As soon as possible but no later than 32 hours after an accident, an operator shall drug test each employee whose performance either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. An operator may decide not to test under this paragraph but such a decision must be based on the best information available immediately after the accident that the employee's performance could not have contributed to the accident or that, because of the time between that performance and the accident, it is not likely that a drug test would reveal whether the performance was affected by drug use.
+
+(c) *Random testing.* (1) Except as provided in paragraphs (c)(2) through (4) of this section, the minimum annual percentage rate for random drug testing shall be 50 percent of covered employees.
+
+(2) The Administrator's decision to increase or decrease the minimum annual percentage rate for random drug testing is based on the reported positive rate for the entire industry. All information used for this determination is drawn from the drug MIS reports required by this subpart. In order to ensure reliability of the data, the Administrator considers the quality and completeness of the reported data, may obtain additional information or reports from operators, and may make appropriate modifications in calculating the industry positive rate. Each year, the Administrator will publish in the Federal Register the minimum annual percentage rate for random drug testing of covered employees. The new minimum annual percentage rate for random drug testing will be applicable starting January 1 of the calendar year following publication.
+
+(3) When the minimum annual percentage rate for random drug testing is 50 percent, the Administrator may lower this rate to 25 percent of all covered employees if the Administrator determines that the data received under the reporting requirements of § 199.119 for two consecutive calendar years indicate that the reported positive rate is less than 1.0 percent.
+
+(4) When the minimum annual percentage rate for random drug testing is 25 percent, and the data received under the reporting requirements of § 199.119 for any calendar year indicate that the reported positive rate is equal to or greater than 1.0 percent, the Administrator will increase the minimum annual percentage rate for random drug testing to 50 percent of all covered employees.
+
+(5) The selection of employees for random drug testing shall be made by a scientifically valid method, such as a random number table or a computer-based random number generator that is matched with employees' Social Security numbers, payroll identification numbers, or other comparable identifying numbers. Under the selection process used, each covered employee shall have an equal chance of being tested each time selections are made.
+
+(6) The operator shall randomly select a sufficient number of covered employees for testing during each calendar year to equal an annual rate not less than the minimum annual percentage rate for random drug testing determined by the Administrator. If the operator conducts random drug testing through a consortium, the number of employees to be tested may be calculated for each individual operator or may be based on the total number of covered employees covered by the consortium who are subject to random drug testing at the same minimum annual percentage rate under this subpart or any DOT drug testing rule.
+
+(7) Each operator shall ensure that random drug tests conducted under this subpart are unannounced and that the dates for administering random tests are spread reasonably throughout the calendar year.
+
+(8) If a given covered employee is subject to random drug testing under the drug testing rules of more than one DOT agency for the same operator, the employee shall be subject to random drug testing at the percentage rate established for the calendar year by the DOT agency regulating more than 50 percent of the employee's function.
+
+(9) If an operator is required to conduct random drug testing under the drug testing rules of more than one DOT agency, the operator may -
+
+(i) Establish separate pools for random selection, with each pool containing the covered employees who are subject to testing at the same required rate; or
+
+(ii) Randomly select such employees for testing at the highest percentage rate established for the calendar year by any DOT agency to which the operator is subject.
+
+(d) *Testing based on reasonable cause.* Each operator shall drug test each employee when there is reasonable cause to believe the employee is using a prohibited drug. The decision to test must be based on a reasonable and articulable belief that the employee is using a prohibited drug on the basis of specific, contemporaneous physical, behavioral, or performance indicators of probable drug use. At least two of the employee's supervisors, one of whom is trained in detection of the possible symptoms of drug use, shall substantiate and concur in the decision to test an employee. The concurrence between the two supervisors may be by telephone. However, in the case of operators with 50 or fewer employees subject to testing under this part, only one supervisor of the employee trained in detecting possible drug use symptoms shall substantiate the decision to test.
+
+(e) *Return-to-duty testing.* A covered employee who refuses to take or has a positive drug test may not return to duty in the covered function until the covered employee has complied with applicable provisions of DOT Procedures concerning substance abuse professionals and the return-to-duty process.
+
+(f) *Follow-up testing.* A covered employee who refuses to take or has a positive drug test shall be subject to unannounced follow-up drug tests administered by the operator following the covered employee's return to duty. The number and frequency of such follow-up testing shall be determined by a substance abuse professional, but shall consist of at least six tests in the first 12 months following the covered employee's return to duty. In addition, follow-up testing may include testing for alcohol as directed by the substance abuse professional, to be performed in accordance with 49 CFR part 40. Follow-up testing shall not exceed 60 months from the date of the covered employee's return to duty. The substance abuse professional may terminate the requirement for follow-up testing at any time after the first six tests have been administered, if the substance abuse professional determines that such testing is no longer necessary.
+
+[53 FR 47096, Nov. 21, 1988, as amended by Amdt. 199-2, 54 FR 51850, Dec. 18, 1989; 59 FR 62227, Dec. 2, 1994; Amdt. 199-15, 63 FR 13000, Mar. 17, 1998; Amdt. 199-15, 63 FR 36863, July 8, 1998. Redesignated and amended by Amdt. 199-19, 66 FR 47118, Sept. 11, 2001]

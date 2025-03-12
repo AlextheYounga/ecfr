@@ -1,0 +1,5 @@
+##### § 230.23 Current patterns and water circulation. #####
+
+(a) Current patterns and water circulation are the physical movements of water in the aquatic ecosystem. Currents and circulation respond to natural forces as modified by basin shape and cover, physical and chemical characteristics of water strata and masses, and energy dissipating factors.
+
+(b) Possible loss of environmental characteristics and values: The discharge of dredged or fill material can modify current patterns and water circulation by obstructing flow, changing the direction or velocity of water flow, changing the direction or velocity of water flow and circulation, or otherwise changing the dimensions of a water body. As a result, adverse changes can occur in: Location, structure, and dynamics of aquatic communities; shoreline and substrate erosion and depositIon rates; the deposition of suspended particulates; the rate and extent of mixing of dissolved and suspended components of the water body; and water stratification.

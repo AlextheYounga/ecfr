@@ -1,0 +1,7 @@
+##### § 208.110 Sale of bank's money orders off premises as establishment of branch office. #####
+
+(a) The Board of Governors has been asked to consider whether the appointment by a member bank of an agent to sell the bank's money orders, at a location other than the premises of the bank, constitutes the establishment of a branch office.
+
+(b) Section 5155 of the Revised Statutes (12 U.S.C. 36), which is also applicable to member banks, defines the term branch as including “any branch bank, branch office, branch agency, additional office, or any branch place of business \* \* \* at which deposits are received, or checks paid, or money lent.” The basic question is whether the sale of a bank's money orders by an agent amounts to the receipt of deposits at a branch place of business within the meaning of this statute.
+
+(c) Money orders are classified as deposits for certain purposes. However, they bear a strong resemblance to traveler's checks that are issued by banks and sold off premises. In both cases, the purchaser does not intend to establish a deposit account in the bank, although a liability on the bank's part is created. Even though they result in a deposit liability, the Board is of the opinion that the issuance of a bank's money orders by an authorized agent does not involve the receipt of deposits at a “branch place of business” and accordingly does not require the Board's permission to establish a branch.

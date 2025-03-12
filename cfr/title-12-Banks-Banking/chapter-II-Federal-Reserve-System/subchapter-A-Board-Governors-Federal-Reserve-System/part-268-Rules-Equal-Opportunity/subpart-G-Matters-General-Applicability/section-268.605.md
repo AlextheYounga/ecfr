@@ -1,0 +1,13 @@
+##### § 268.605 Representation and official time. #####
+
+(a) At any stage in the processing of a complaint, including the counseling stage under § 268.104, the complainant shall have the right to be accompanied, represented, and advised by a representative of complainant's choice.
+
+(b) If the complainant is an employee of the Board, he or she shall have a reasonable amount of official time, if otherwise on duty, to prepare the complaint and to respond to Board and EEOC requests for information. If the complainant is an employee of the Board and he designates another employee of the Board as his or her representative, the representative shall have a reasonable amount of official time, if otherwise on duty, to prepare the complaint and respond to Board and EEOC requests for information. The Board is not obligated to change work schedules, incur overtime wages, or pay travel expenses to facilitate the choice of a specific representative or to allow the complainant and representative to confer. The complainant and the representative, if employed by the Board and otherwise in a pay status, shall be on official time, regardless of their tour of duty, when their presence is authorized or required by the Board or the Commission during the investigation, informal adjustment, or hearing on the complaint.
+
+(c) In cases where the representation of a complainant or the Board would conflict with the official or collateral duties of the representative, the Commission or the Board may, after giving the representative an opportunity to respond, disqualify the representative.
+
+(d) Unless the complainant states otherwise in writing, after the Board has received written notice of the name, address and telephone number of a representative for the complainant, all official correspondence shall be with the representative with copies to the complainant. When the complainant designates an attorney as representative, service of all official correspondence shall be made on the attorney and the complainant, but time frames for receipt of material shall be computed from the time of receipt by the attorney. The complainant must serve all official correspondence on the designated representative of the Board.
+
+(e) The complainant shall at all times be responsible for proceeding with the complaint whether or not he or she has designated a representative.
+
+(f) Witnesses who are Board employees shall be in a duty status when their presence is authorized or required by Commission or Board officials in connection with a complaint.

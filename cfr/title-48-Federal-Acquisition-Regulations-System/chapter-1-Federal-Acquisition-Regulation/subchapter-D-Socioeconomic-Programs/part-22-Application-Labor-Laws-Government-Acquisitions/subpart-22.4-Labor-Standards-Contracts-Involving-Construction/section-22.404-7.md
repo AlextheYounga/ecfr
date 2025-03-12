@@ -1,0 +1,5 @@
+##### 22.404-7 Correction of wage determinations containing clerical errors. #####
+
+Upon the Department of Labor's own initiative or at the request of the contracting agency, the Administrator, Wage and Hour Division, may correct any wage determination found to contain clerical errors. Such corrections will be effective immediately, and will apply to any solicitation or active contract. Before contract award, the contracting officer must follow the procedures in 22.404-5(b)(1) or (2)(i) or (ii) in sealed bidding, and the procedures in 22.404-5(c)(3) or (4) in negotiations. After contract award, the contracting officer must follow the procedures at 22.404-6(b)(5), except that for contract modifications to exercise an option to extend the term of the contract, the contracting officer must follow the procedures at 22.404-6(d)(2).
+
+[66 FR 53480, Oct. 22, 2001]

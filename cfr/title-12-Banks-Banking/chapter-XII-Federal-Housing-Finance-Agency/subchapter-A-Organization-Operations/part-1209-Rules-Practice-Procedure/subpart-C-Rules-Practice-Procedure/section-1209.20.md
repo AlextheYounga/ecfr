@@ -1,0 +1,3 @@
+##### § 1209.20 Opportunity for informal settlement. #####
+
+Any respondent may, at any time in the proceeding, unilaterally submit to FHFA's counsel of record written offers or proposals for settlement of a proceeding without prejudice to the rights of any of the parties. No such offer or proposal shall be made to any FHFA representative other than FHFA counsel of record. Submission of a written settlement offer does not provide a basis for adjourning, deferring or otherwise delaying all or any portion of a proceeding under this part. No settlement offer or proposal, or any subsequent negotiation or resolution, is admissible as evidence in any proceeding.

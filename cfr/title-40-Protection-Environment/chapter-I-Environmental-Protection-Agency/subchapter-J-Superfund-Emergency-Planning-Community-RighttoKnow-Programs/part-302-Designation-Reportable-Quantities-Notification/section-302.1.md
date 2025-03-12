@@ -1,0 +1,3 @@
+##### § 302.1 Applicability. #####
+
+This regulation designates under section 102(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“the Act”) those substances in the statutes referred to in section 101(14) of the Act, identifies reportable quantities for these substances, and sets forth the notification requirements for releases of these substances. This regulation also sets forth reportable quantities for hazardous substances designated under section 311(b)(2)(A) of the Clean Water Act.

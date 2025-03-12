@@ -1,0 +1,3 @@
+##### § 2638.203 Collection of public financial disclosure reports required to be submitted to the Office of Government Ethics. #####
+
+The public financial disclosure reports of individuals, other than candidates for elected office and elected officials, whose reports are required by section 103 of the Act to be transmitted to the Office of Government Ethics will be transmitted through the executive branch-wide electronic filing system of the Office of Government Ethics, except in cases in which the Director determines that using that system would be impracticable.

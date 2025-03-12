@@ -1,0 +1,3 @@
+##### § 80.1003 Station required. #####
+
+Vessels subject to the Bridge-to-Bridge Act must have a radiotelephone installation to enable the vessel to participate in navigational communications. This radiotelephone installation must be continuously associated with the ship even though a portable installation is used. Foreign vessels coming into U.S. waters where a bridge-to-bridge station is required may fulfill this requirement by use of portable equipment brought a board by the pilot. Non portable equipment, when used, must be arranged to facilitate repair. The equipment must be protected against vibration, moisture, temperature and excessive currents and voltages.

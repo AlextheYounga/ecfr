@@ -1,0 +1,3 @@
+##### § 135.395 Large nontransport category airplanes: Landing limitations: Alternate airports. #####
+
+No person may select an airport as an alternate airport for a large nontransport category airplane unless that airplane (at the weight anticipated at the time of arrival), based on the assumptions in § 135.393(b), can be brought to a full stop landing within 70 percent of the effective length of the runway.

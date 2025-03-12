@@ -1,0 +1,3 @@
+##### § 96.80 Applicability. #####
+
+A unit that is in the State, is not a NOX Budget unit under § 96.4, vents all of its emissions to a stack, and is operating, may qualify, under this subpart, to become a NOX Budget opt-in source. A unit that is a NOX Budget unit, is covered by a retired unit exemption under § 96.5 that is in effect, or is not operating is not eligible to become a NOX Budget opt-in source.

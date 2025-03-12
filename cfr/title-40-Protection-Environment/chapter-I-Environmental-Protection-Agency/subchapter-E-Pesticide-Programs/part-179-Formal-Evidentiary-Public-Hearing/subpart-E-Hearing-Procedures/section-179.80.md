@@ -1,0 +1,11 @@
+##### § 179.80 Filing and service. #####
+
+(a) All documents required or authorized to be filed by a party to a hearing under this part regarding any matter to be decided by the presiding officer, the judicial officer, or the Administrator shall be filed in triplicate with the hearing clerk, in the manner specified by § 178.25(b) of this chapter. Each filing shall prominently note the docket number. To determine compliance with deadlines in a hearing, a document is considered filed on the date it is actually received by the hearing clerk. When this part allows a response by a party to a submission and prescribes a period of time for the filing of the response, an additional 3 days are allowed for the filing of the response if the submission is served by mail.
+
+(b) Each notice, order, decision, or other document issued under this part by the presiding officer, the judicial officer, or the Administrator shall be filed with the hearing clerk. The hearing clerk shall immediately serve all parties with a copy of such order, decision, or other document.
+
+(c) At the same time that a party files any document with the hearing clerk, the party shall serve a copy thereof on each other party, unless the presiding officer specifies otherwise. Each filing shall be accompanied by a certificate of service, or a statement that service is not required. Service on a party is accomplished by mailing a submission to the address shown in the Notice of Participation or by personal delivery.
+
+(d) The presiding officer may grant an extension of time for the filing of any pleading, document, or motion (1) Upon timely motion by a party, for good cause shown, and after consideration of prejudice to other parties, or (2) upon the presiding officer's own motion.
+
+(e) A motion by a party for an extension may only be made after serving a copy of the motion on all other parties, unless the movant can show good cause why doing so is impracticable. The motion shall be filed in advance of the date on which the pleading, document, or motion is due to be filed, unless the failure of the party to make a timely motion for an extension was the result of excusable neglect.

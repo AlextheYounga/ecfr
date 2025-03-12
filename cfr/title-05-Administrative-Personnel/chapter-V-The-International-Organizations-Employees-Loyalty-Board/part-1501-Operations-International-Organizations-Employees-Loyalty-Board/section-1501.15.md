@@ -1,0 +1,3 @@
+##### § 1501.15 Transmission of Determination to the Secretary of State. #####
+
+The Board shall transmit its determination in each case to the Secretary of State for transmission to the Secretary General of the United Nations, or the executive head of any other public international organization concerned. In each case in which the Board determines that, on all the evidence, there is a reasonable doubt as to the loyalty of the person involved to the Government of the United States, it shall also transmit a statement of the reasons for the Board's determination in as much detail as the Board deems that security considerations permit.

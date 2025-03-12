@@ -1,0 +1,5 @@
+##### § 563b.570 How do I address conflicts of interest involving my directors? #####
+
+(a) A person who is your director, officer, or employee, or a person who has the power to direct your management or policies, or otherwise owes a fiduciary duty to you (for example, holding company directors) and who will serve as an officer, director, or employee of the charitable organization, is subject to § 563.200 of this chapter. *See* Form AC (Exhibit 9) for further information on operating plans and conflict of interest plans.
+
+(b) Before your board of directors may adopt a plan of conversion that includes a charitable organization, you must identify your directors that will serve on the charitable organization's board. These directors may not participate in your board's discussions concerning contributions to the charitable organization, and may not vote on the matter.

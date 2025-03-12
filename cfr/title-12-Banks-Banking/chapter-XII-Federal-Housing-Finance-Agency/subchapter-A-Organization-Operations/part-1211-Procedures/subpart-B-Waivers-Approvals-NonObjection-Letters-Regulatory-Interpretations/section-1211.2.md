@@ -1,0 +1,5 @@
+##### § 1211.2 Waivers. #####
+
+(a) *Authority.* The Director reserves the right, in his or her discretion and in connection with a particular transaction or activity, to waive any provision, restriction, or requirement of this chapter (or of any Office of Federal Housing Enterprise Oversight or Federal Housing Finance Board regulation), or any required submission of information, not otherwise required by law, if such Waiver is not inconsistent with the law and does not adversely affect any substantial existing rights, upon a determination that application of the provision, restriction, or requirement would adversely affect achievement of the purposes of the Authorizing Statutes or the Safety and Soundness Act, or upon a requester's showing of good cause. The Director also reserves the right to modify, rescind, or supersede any previously issued Waiver, with such action being effective only on a prospective basis.
+
+(b) *Application.* A regulated entity or the Office of Finance may apply for a Waiver in accordance with § 1211.6.

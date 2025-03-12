@@ -1,0 +1,3 @@
+##### § 2.406 Requests for authenticated copies of EPA documents. #####
+
+Requests for authenticated copies of EPA documents for purposes of admissibility under 28 U.S.C. 1733 and Rule 44 of the Federal Rules of Civil Procedure will be granted for documents which would otherwise be released pursuant to subpart A. For purposes of Rule 44 the *person having legal custody of the record* is the cognizant Assistant Administrator, Regional Administrator, Staff Office Director or Office Director or his designee. The advice of the Office of General Counsel should be obtained concerning the proper form of authentication.

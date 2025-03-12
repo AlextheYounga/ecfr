@@ -1,0 +1,49 @@
+##### § 232.4 Specific exceptions for obtaining and using medical information. #####
+
+(a) *In general.* A creditor may obtain and use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit:
+
+(1) To determine whether the use of a power of attorney or legal representative that is triggered by a medical condition or event is necessary and appropriate or whether the consumer has the legal capacity to contract when a person seeks to exercise a power of attorney or act as legal representative for a consumer based on an asserted medical condition or event;
+
+(2) To comply with applicable requirements of local, state, or Federal laws;
+
+(3) To determine, at the consumer's request, whether the consumer qualifies for a legally permissible special credit program or credit-related assistance program that is—
+
+(i) Designed to meet the special needs of consumers with medical conditions; and
+
+(ii) Established and administered pursuant to a written plan that—
+
+(A) Identifies the class of persons that the program is designed to benefit; and
+
+(B) Sets forth the procedures and standards for extending credit or providing other credit-related assistance under the program;
+
+(4) To the extent necessary for purposes of fraud prevention or detection;
+
+(5) In the case of credit for the purpose of financing medical products or services, to determine and verify the medical purpose of a loan and the use of proceeds;
+
+(6) Consistent with safe and sound practices, if the consumer or the consumer's legal representative specifically requests that the creditor use medical information in determining the consumer's eligibility, or continued eligibility, for credit, to accommodate the consumer's particular circumstances, and such request is documented by the creditor;
+
+(7) Consistent with safe and sound practices, to determine whether the provisions of a forbearance practice or program that is triggered by a medical condition or event apply to a consumer;
+
+(8) To determine the consumer's eligibility for, the triggering of, or the reactivation of a debt cancellation contract or debt suspension agreement if a medical condition or event is a triggering event for the provision of benefits under the contract or agreement; or
+
+(9) To determine the consumer's eligibility for, the triggering of, or the reactivation of a credit insurance product if a medical condition or event is a triggering event for the provision of benefits under the product.
+
+(b) *Example of determining eligibility for a special credit program or credit assistance program.* A not-for-profit organization establishes a credit assistance program pursuant to a written plan that is designed to assist disabled veterans in purchasing homes by subsidizing the down payment for the home purchase mortgage loans of qualifying veterans. The organization works through mortgage lenders and requires mortgage lenders to obtain medical information about the disability of any consumer that seeks to qualify for the program, use that information to verify the consumer's eligibility for the program, and forward that information to the organization. A consumer who is a veteran applies to a creditor for a home purchase mortgage loan. The creditor informs the consumer about the credit assistance program for disabled veterans and the consumer seeks to qualify for the program. Assuming that the program complies with all applicable law, including applicable fair lending laws, the creditor may obtain and use medical information about the medical condition and disability, if any, of the consumer to determine whether the consumer qualifies for the credit assistance program.
+
+(c) *Examples of verifying the medical purpose of the loan or the use of proceeds.* (1) If a consumer applies for $10,000 of credit for the purpose of financing vision correction surgery, the creditor may verify with the surgeon that the procedure will be performed. If the surgeon reports that surgery will not be performed on the consumer, the creditor may use that medical information to deny the consumer's application for credit, because the loan would not be used for the stated purpose.
+
+(2) If a consumer applies for $10,000 of credit for the purpose of financing cosmetic surgery, the creditor may confirm the cost of the procedure with the surgeon. If the surgeon reports that the cost of the procedure is $5,000, the creditor may use that medical information to offer the consumer only $5,000 of credit.
+
+(3) A creditor has an established medical loan program for financing particular elective surgical procedures. The creditor receives a loan application from a consumer requesting $10,000 of credit under the established loan program for an elective surgical procedure. The consumer indicates on the application that the purpose of the loan is to finance an elective surgical procedure not eligible for funding under the guidelines of the established loan program. The creditor may deny the consumer's application because the purpose of the loan is not for a particular procedure funded by the established loan program.
+
+(d) *Examples of obtaining and using medical information at the request of the consumer.* (1) If a consumer applies for a loan and specifically requests that the creditor consider the consumer's medical disability at the relevant time as an explanation for adverse payment history information in his credit report, the creditor may consider such medical information in evaluating the consumer's willingness and ability to repay the requested loan to accommodate the consumer's particular circumstances, consistent with safe and sound practices. The creditor may also decline to consider such medical information to accommodate the consumer, but may evaluate the consumer's application in accordance with its otherwise applicable underwriting criteria. The creditor may not deny the consumer's application or otherwise treat the consumer less favorably because the consumer specifically requested a medical accommodation, if the creditor would have extended the credit or treated the consumer more favorably under the creditor's otherwise applicable underwriting criteria.
+
+(2) If a consumer applies for a loan by telephone and explains that his income has been and will continue to be interrupted on account of a medical condition and that he expects to repay the loan liquidating assets, the creditor may, but is not required to, evaluate the application using the sale of assets as the primary source of repayment, consistent with safe and sound practices, provided that the creditor documents the consumer's request by recording the oral conversation or making a notation of the request in the consumer's file.
+
+(3) If a consumer applies for a loan and the application form provides a space where the consumer may provide any other information or special circumstances, whether medical or non-medical, that the consumer would like the creditor to consider in evaluating the consumer's application, the creditor may use medical information provided by the consumer in that space on that application to accommodate the consumer's application for credit, consistent with safe and sound practices, or may disregard that information.
+
+(4) If a consumer specifically requests that the creditor use medical information in determining the consumer's eligibility, or continued eligibility, for credit and provides the creditor with medical information for that purpose, and the creditor determines that it needs additional information regarding the consumer's circumstances, the creditor may request, obtain, and use additional medical information about the consumer as necessary to verify the information provided by the consumer or to determine whether to make an accommodation for the consumer. The consumer may decline to provide additional information, withdraw the request for an accommodation, and have the application considered under the creditor's otherwise applicable underwriting criteria.
+
+(5) If a consumer completes and signs a credit application that is not for medical purpose credit and the application contains boilerplate language that routinely requests medical information from the consumer or that indicates that by applying for credit the consumer authorizes or consents to the creditor obtaining and using medical information in connection with a determination of the consumer's eligibility, or continued eligibility, for credit, the consumer has not specifically requested that the creditor obtain and use medical information to accommodate the consumer's particular circumstances.
+
+(e) *Example of a forbearance practice or program.* After an appropriate safety and soundness review, a creditor institutes a program that allows consumers who are or will be hospitalized to defer payments as needed for up to three months, without penalty, if the credit account has been open for more than one year and has not previously been in default, and the consumer provides confirming documentation at an appropriate time. A consumer is hospitalized and does not pay her bill for a particular month. This consumer has had a credit account with the creditor for more than one year and has not previously been in default. The creditor attempts to contact the consumer and speaks with the consumer's adult child, who is not the consumer's legal representative. The adult child informs the creditor that the consumer is hospitalized and is unable to pay the bill at that time. The creditor defers payments for up to three months, without penalty, for the hospitalized consumer and sends the consumer a letter confirming this practice and the date on which the next payment will be due. The creditor has obtained and used medical information to determine whether the provisions of a medically-triggered forbearance practice or program apply to a consumer.

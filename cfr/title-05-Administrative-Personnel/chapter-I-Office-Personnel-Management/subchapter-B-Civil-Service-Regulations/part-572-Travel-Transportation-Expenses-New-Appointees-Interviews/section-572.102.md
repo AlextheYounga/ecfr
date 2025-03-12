@@ -1,0 +1,3 @@
+##### § 572.102 Agency discretion. #####
+
+Payment of travel expenses for any individual candidate or appointee will be at the discretion of the employing agency. A decision by one agency that payment is appropriate for a particular position does not require a like determination by any other agency filling similar positions. A decision made in connection with one specific vacancy does not require a like decision in connection with future vacancies. In deciding to pay travel and transportation or interview expenses in filling any position, the agency should consider such factors as availability of funds as well as the desirability of conducting interviews for a particular job or offering a recruiting incentive to a particular candidate.

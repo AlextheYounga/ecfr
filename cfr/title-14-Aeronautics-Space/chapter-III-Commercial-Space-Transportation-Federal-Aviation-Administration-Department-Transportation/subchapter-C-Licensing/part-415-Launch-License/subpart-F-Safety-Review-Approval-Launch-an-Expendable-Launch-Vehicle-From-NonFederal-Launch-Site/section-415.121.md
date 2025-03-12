@@ -1,0 +1,3 @@
+##### § 415.121 Launch schedule. #####
+
+An applicant's safety review document must contain a generic launch processing schedule that identifies each review, rehearsal, and safety critical preflight operation to be conducted as required by §§ 417.117, 417.119, and 417.121 of this chapter. The launch schedule must also identify day of flight activities. The launch processing schedule must show each of these activities referenced to liftoff, such as liftoff minus three days.

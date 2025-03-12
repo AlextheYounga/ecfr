@@ -1,0 +1,15 @@
+##### § 1208.4 Royalty oil sales to eligible refiners. #####
+
+(a) *Determination to take royalty oil in kind.* The Secretary may evaluate crude oil market conditions from time to time. The evaluation will include, among other things, the availability of crude oil and the crude oil requirements of the Federal Government, primarily those requirements concerning matters of national interest and defense. The Secretary will review these items and will determine whether eligible refiners have access to adequate supplies of crude oil and whether such oil is available to eligible refiners at equitable prices. Such determinations may be made on a regional basis. The determination by the Secretary shall be published in the Federal Register concurrent with or included in the “Notice of Availability of Royalty Oil” required by § 1208.5.
+
+(b) *Sale to eligible refiners.* (1) Upon a determination by the Secretary under paragraph (a) of this section that eligible refiners do not have access to adequate supplies of crude oil at equitable prices, the Secretary, at his or her discretion, may elect to take in kind some or all of the royalty oil accruing to the United States from oil and gas leases on Federal lands onshore and on the OCS. The Secretary may authorize ONRR to offer royalty oil for sale to eligible refiners only for use in their refineries and not for resale (other than under an exchange agreement).
+
+(2) All sales of royalty oil from onshore leases will be priced at the royalty value that would have been determined for that oil pursuant to 30 CFR part 1206 had the royalties been paid in value rather than taken in kind. All sales of royalty oil from OCS leases will be priced at the fair market value of the oil including associated transportation costs to the designated delivery point, if applicable.
+
+(3) An eligible refiner must have a representative at a sale in order to participate. The Secretary may, at his or her discretion, establish purchase limitations and withhold any royalty oil from any offering.
+
+(c) Upon a determination by the Secretary under paragraph (a) of this section that eligible refiners do have access to adequate supplies of crude oil at equitable prices, ONRR will not take royalties in kind from oil and gas leases for exclusive sale to such refiners. Such determinations may be made on a regional basis.
+
+(d) *Interim sales.* The ONRR generally will not conduct interim sales. However, interim sales may be held at the discretion of the Secretary if substantial addition royalty oil becomes available. The potentially eligible refiners, individually or collectively, must submit documentation demonstrating that adequate supplies of crude oil at equitable prices are not available for purchase. Although sufficient documentation must be submitted, it is not mandatory for each potentially eligible refiner to participate in a submission of such documentation to be determined eligible. The documentation must be submitted to ONRR for a determination as to whether an interim sale is needed.
+
+[52 FR 41913, Oct. 30, 1987, as amended at 66 FR 28657, May 24, 2001]

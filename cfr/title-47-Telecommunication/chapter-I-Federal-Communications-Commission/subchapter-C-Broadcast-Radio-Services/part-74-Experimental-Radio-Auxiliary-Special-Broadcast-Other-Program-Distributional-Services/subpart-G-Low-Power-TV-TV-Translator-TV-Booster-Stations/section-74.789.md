@@ -1,0 +1,5 @@
+##### § 74.789 Broadcast regulations applicable to digital low power television and television translator stations. #####
+
+The following sections are applicable to digital low power television and television translator stations:
+
+§ 73.1030 Notifications concerning interference to radio astronomy, research and receiving installations.§ 74.600 Eligibility for license.§ 74.703 Interference.§ 74.709 Land mobile station protection.§ 74.732 Eligibility and licensing requirements.§ 74.734 Attended and unattended operation.§ 74.735 Power limitations.§ 74.751 Modification of transmission systems.§ 74.763 Time of operation.§ 74.765 Posting of station and operator licenses.§ 74.769 Copies of rules.§ 74.780 Broadcast regulations applicable to translators, low power, and booster stations (except § 73.653 - Operation of TV aural and visual transmitters and § 73.1201 - Station identification).§ 74.781 Station records.§ 74.784 Rebroadcasts.[69 FR 69334, Nov. 29, 2004]

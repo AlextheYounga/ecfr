@@ -1,0 +1,3 @@
+##### § 4501.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the Office of Personnel Management (OPM) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the regulations in 5 CFR part 2635 and this part, OPM employees are subject to the responsibilities and conduct regulations contained in 5 CFR parts 735 and 1001, the executive branch-wide financial disclosure regulations contained in 5 CFR part 2634, and the executive branch regulations regarding outside employment at 5 CFR part 2636.

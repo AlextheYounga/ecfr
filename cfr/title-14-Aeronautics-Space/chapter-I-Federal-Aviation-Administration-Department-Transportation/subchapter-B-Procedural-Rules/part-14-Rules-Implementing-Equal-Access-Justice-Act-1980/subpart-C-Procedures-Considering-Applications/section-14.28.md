@@ -1,0 +1,7 @@
+##### § 14.28 Review by FAA decisionmaker. #####
+
+(a) In proceedings other than those under part 17 of this chapter and the AMS, either the applicant or the FAA counsel may seek review of the initial decision on the fee application in accordance with subpart G of part 13 of this chapter, specifically § 13.233. Additionally, the FAA Decisionmaker may decide to review the decision on his/her own initiative. If neither the applicant nor the FAA's counsel seeks review within 30 days after the decision is issued, it shall become final. Whether to review a decision is a matter within the discretion of the FAA Decisionmaker. If review is taken, the FAA Decisionmaker will issue a final decision on the application or remand the application to the ALJ who issue the initial fee award determination for further proceedings.
+
+(b) In proceedings under part 17 of this chapter and the AMS, the adjudicative officer shall prepare findings and recommendations for the Office of Dispute Resolution for Acquisition with recommendations as to whether or not an award should be made, the amount of the award, and the reasons therefor. The Office of Dispute Resolution for Acquisition shall submit a recommended order to the Administrator after the completion of all submissions related to the EAJA application. Upon the Administrator's action, the order shall become final, and may be reviewed under 49 U.S.C. 46110.
+
+[Doc. No. FAA-1998-4379, 64 FR 32936, June 18, 1999, as amended at 70 FR 8238, Feb. 18, 2005]

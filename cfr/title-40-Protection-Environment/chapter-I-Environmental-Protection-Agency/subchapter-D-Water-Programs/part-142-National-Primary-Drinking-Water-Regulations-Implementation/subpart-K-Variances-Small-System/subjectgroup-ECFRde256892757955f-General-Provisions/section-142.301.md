@@ -1,0 +1,3 @@
+##### § 142.301 What is a small system variance? #####
+
+Section 1415(e) of the Act authorizes the issuance of variances from the requirement to comply with a maximum contaminant level or treatment technique to systems serving fewer than 10,000 persons. The purpose of this subpart is to provide the procedures and criteria for obtaining these variances. The regulations in this subpart shall take effect on September 14, 1998.

@@ -1,0 +1,11 @@
+##### § 1.246 Admission of facts and genuineness of documents. #####
+
+(a) Within 20 days after the time for filing a notice of appearance has expired; or within 20 days after the release of an order adding parties to the proceeding (see §§ 1.223 and 1.227) or changing the issues (see § 1.229); or within such shorter or longer time as the presiding officer may allow on motion or notice, a party may serve upon any other party a written request for the admission by the latter of the genuineness of any relevant documents identified in and exhibited by a clear copy with the request or of the truth of any relevant matters of fact set forth in the request.
+
+(b) Each of the matters of which an admission is requested shall be deemed admitted unless, within a period designated in the request, not less than 10 days after service thereof, or within such shorter or longer time as the presiding officer may allow on motion or notice, the party to whom the request is directed serves upon the party requesting the admission either: (1) A sworn statement denying specifically the matters of which an admission is requested or setting forth in detail the reasons why he cannot truthfully admit or deny those matters, or (2) written objections on the ground that some or all of the requested admissions are privileged or irrelevant or that the request is otherwise improper in whole or in part. If written objections to a part of the request are made, the remainder of the request shall be answered within the period designated in the request. A denial shall fairly meet the substance of the requested admission, and when good faith requires that a party deny only a part or a qualification of a matter of which an admission is requested, he shall specify so much of it as is true and deny only the remainder.
+
+(c) A copy of the request and of any answer shall be served by the party filing on all other parties to the proceeding and upon the presiding officer.
+
+(d) Written objections to the requested admissions may be ruled upon by the presiding officer without additional pleadings.
+
+[33 FR 463, Jan. 12, 1968, as amended at 35 FR 17333, Nov. 11, 1970]

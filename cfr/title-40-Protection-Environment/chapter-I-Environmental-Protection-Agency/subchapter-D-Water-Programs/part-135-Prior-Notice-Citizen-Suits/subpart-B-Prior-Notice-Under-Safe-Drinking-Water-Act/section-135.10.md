@@ -1,0 +1,3 @@
+##### § 135.10 Purpose. #####
+
+Section 1449 of the Safe Drinking Water Act (the Act) authorizes any person to commence a civil action to enforce the Act against an alleged violator of any requirements prescribed by or under the Act, or against the Administrator for failure to perform any duty which is not discretionary under the Act. No citizen suit may be commenced prior to sixty days after giving notice of the alleged violation to the Administrator, any alleged violator, and to the State. The purpose of this subpart is to prescribe procedures for giving the notice required by section 1449(b).

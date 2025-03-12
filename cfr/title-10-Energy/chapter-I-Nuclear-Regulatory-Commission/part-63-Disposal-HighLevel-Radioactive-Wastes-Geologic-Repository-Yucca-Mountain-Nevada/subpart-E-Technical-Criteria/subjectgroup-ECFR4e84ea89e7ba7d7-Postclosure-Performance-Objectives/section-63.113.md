@@ -1,0 +1,9 @@
+##### § 63.113 Performance objectives for the geologic repository after permanent closure. #####
+
+(a) The geologic repository must include multiple barriers, consisting of both natural barriers and an engineered barrier system.
+
+(b) The engineered barrier system must be designed so that, working in combination with natural barriers, radiological exposures to the reasonably maximally exposed individual are within the limits specified at § 63.311 of subpart L of this part. Compliance with this paragraph must be demonstrated through a performance assessment that meets the requirements specified at § 63.114 of this subpart, and §§ 63.303, 63.305, 63.312 and 63.342 of Subpart L of this part.
+
+(c) The engineered barrier system must be designed so that, working in combination with natural barriers, releases of radionuclides into the accessible environment are within the limits specified at § 63.331 of subpart L of this part. Compliance with this paragraph must be demonstrated through a performance assessment that meets the requirements specified at § 63.114 of this subpart and §§ 63.303, 63.332 and 63.342 of subpart L of this part.
+
+(d) The ability of the geologic repository to limit radiological exposures to the reasonably maximally exposed individual, in the event of human intrusion into the engineered barrier system, must be demonstrated through an analysis that meets the requirements at §§ 63.321 and 63.322 of subpart L of this part. Estimating radiological exposures to the reasonably maximally exposed individual requires a performance assessment that meets the requirements specified at § 63.114 of this subpart, and §§ 63.303, 63.305, 63.312 and 63.342 of subpart L of this part.

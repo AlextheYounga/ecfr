@@ -1,0 +1,3 @@
+##### § 372.25 Tariffs to be filed for charter trips. #####
+
+Effective October 1, 1972, a charter operator shall not operate or sell or offer to sell, solicit or advertise, any charter trips unless such operator shall have on file with the Department a currently effective tariff showing all rates, fares, and charges for such charter trips and showing the rules, regulations, practices, and services in connection with such transportation.

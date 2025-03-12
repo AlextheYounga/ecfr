@@ -1,0 +1,5 @@
+##### § 208.60 Authority, purpose, and scope. #####
+
+(a) *Authority.* Subpart F of Regulation H (12 CFR part 208, subpart F) is issued by the Board of Governors of the Federal Reserve System under sections 9, 11, 21, 25 and 25A of the Federal Reserve Act (12 U.S.C. 321-338a, 248(a), 248(c), 481-486, 601 and 611), section 7 of the International Banking Act (12 U.S.C. 3105), section 3 of the Bank Protection Act of 1968 (12 U.S.C. 1882), sections 1814, 1816, 1818, 1831o, 1831p-1 and 1831r-1 of the FDI Act (12 U.S.C. 1814, 1816, 1818, 1831o, 1831p-1 and 1831r-1), and the Bank Secrecy Act (31 U.S.C. 5318).
+
+(b) *Purpose and scope.* This subpart F describes a member bank's obligation to implement security procedures to discourage certain crimes, to file suspicious activity reports, and to comply with the Bank Secrecy Act's requirements for reporting and recordkeeping of currency and foreign transactions. It also describes the examination schedule for certain small insured member banks.

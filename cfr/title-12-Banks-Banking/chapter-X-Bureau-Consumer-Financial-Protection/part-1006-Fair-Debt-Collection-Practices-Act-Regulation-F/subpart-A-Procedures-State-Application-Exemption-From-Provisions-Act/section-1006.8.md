@@ -1,0 +1,9 @@
+##### § 1006.8 Revocation of exemption. #####
+
+(a) The Bureau reserves the right to revoke any exemption granted under the provisions of this part, if at any time it determines that the state law does not, in fact, impose requirements that are substantially similar to, or that provide greater protection to applicants than, those imposed under sections 803 through 812 of the Act or that there is not, in fact, adequate provision for state enforcement.
+
+(b) Before revoking any such exemption, the Bureau shall notify the appropriate state official of the facts or conduct that, in the Bureau's opinion, warrant such revocation, and shall afford that state such opportunity as the Bureau deems appropriate in the circumstances to demonstrate or achieve compliance.
+
+(c) If, after having been afforded the opportunity to demonstrate or achieve compliance, the Bureau determines that the state has not done so, notice of the Bureau's intention to revoke such exemption shall be published in the Federal Register. A period of time shall be allowed from the date of such publication for interested persons to submit written comments to the Bureau regarding the intention to revoke.
+
+(d) If such exemption is revoked, notice of such revocation shall be published by the Bureau in the Federal Register, and a copy of such notice shall be furnished to the appropriate state official, to the Federal authorities responsible for enforcement of the requirements of the Act, and to the Attorney General of the United States. The revocation shall become effective, and the class of debt collection practices affected within that state shall become subject to the requirements of sections 803 through 812 of the Act, 90 days after the date of publication of the notice in the Federal Register.

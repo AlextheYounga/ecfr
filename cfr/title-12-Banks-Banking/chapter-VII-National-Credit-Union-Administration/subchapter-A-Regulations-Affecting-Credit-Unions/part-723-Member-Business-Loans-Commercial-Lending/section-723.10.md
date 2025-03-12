@@ -1,0 +1,5 @@
+##### § 723.10 State regulation of business lending. #####
+
+(a) *State rules.* Federally insured state chartered credit unions in a given state are exempted from compliance with this part if the state supervisory authority administers a state commercial and member business loan rule for use by federally insured credit unions chartered in that state, provided the state rule at least covers all the provisions in this part and is no less restrictive, upon determination by NCUA.
+
+(b) *Grandfathering of NCUA-approved state rules.* A state supervisory authority that administers a state commercial and member business loan rule previously approved by NCUA may continue to administer that rule in its current NCUA-approved format. Any modification of that rule must be consistent with this rule, but modification of one part of an existing NCUA-approved state rule will not cause other parts of that rule to lose their grandfathered status.

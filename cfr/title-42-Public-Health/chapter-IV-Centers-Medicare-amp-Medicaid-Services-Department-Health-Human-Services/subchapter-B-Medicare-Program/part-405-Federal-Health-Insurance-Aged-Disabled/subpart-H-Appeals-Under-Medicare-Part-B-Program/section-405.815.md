@@ -1,0 +1,3 @@
+##### § 405.815 Submission of claims. #####
+
+A provider or supplier succeeding in having its enrollment application denial or billing privileges revocation reversed in a binding decision, or in having its billing privileges reinstated, may submit claims to the CMS contractor for services furnished during periods of Medicare qualification, subject to the limitations in § 424.44 of this chapter, regarding the timely filing of claims. If the claims previously were filed timely but were rejected, they are considered filed timely upon resubmission. Previously denied claims for items or services furnished during a period of denial or revocation may be resubmitted to CMS within 1 year after the date of reinstatement or reversal.

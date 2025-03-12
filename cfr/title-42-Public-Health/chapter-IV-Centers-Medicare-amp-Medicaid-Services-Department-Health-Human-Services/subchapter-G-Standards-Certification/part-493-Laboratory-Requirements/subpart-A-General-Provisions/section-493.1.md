@@ -1,0 +1,5 @@
+##### § 493.1 Basis and scope. #####
+
+This part sets forth the conditions that all laboratories must meet to be certified to perform testing on human specimens under the Clinical Laboratory Improvement Amendments of 1988 (CLIA). It implements sections 1861(e) and (j), the sentence following section 1861(s)(13), and 1902(a)(9) of the Social Security Act, and section 353 of the Public Health Service Act, as amended by section 2 of the Taking Essential Steps for Testing Act of 2012. This part applies to all laboratories as defined under “laboratory” in § 493.2 of this part. This part also applies to laboratories seeking payment under the Medicare and Medicaid programs. The requirements are the same for Medicare approval as for CLIA certification.
+
+[57 FR 7139, Feb. 28, 1992, as amended at 79 FR 25480, May 2, 2014]

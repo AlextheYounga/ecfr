@@ -1,0 +1,3 @@
+##### § 430.307 Monitoring performance. #####
+
+Supervisors must monitor each senior executive's performance throughout the appraisal period and hold at least one progress review. At a minimum, supervisors must inform senior executives during the progress review about how well they are performing with regard to their performance plan. Supervisors must provide advice and assistance to senior executives on how to improve their performance. Supervisors and senior executives may also discuss available development opportunities for the senior executive.

@@ -1,0 +1,5 @@
+##### § 80.5 Penalties. #####
+
+Any person who violates these regulations shall be liable to the United States for a civil penalty of not more than the sum of $25,000 for every day of such violation and the amount of economic benefit or savings resulting from the violation. Any violation with respect to a regulation proscribed under section 211(c), (k), (l) or (m) of the Act which establishes a regulatory standard based upon a multi-day averaging period shall constitute a separate day of violation for each and every day in the averaging period. Civil penalties shall be assessed in accordance with section 205(b) and (c) of the Act. The civil monetary penalty amount listed in this section may not reflect recent inflation adjustments EPA is required to make. The current maximum and minimum statutory civil penalty amounts are located in § 19.4.
+
+[58 FR 65554, Dec. 15, 1993, as amended at 89 FR 88655, Nov. 8, 2024]

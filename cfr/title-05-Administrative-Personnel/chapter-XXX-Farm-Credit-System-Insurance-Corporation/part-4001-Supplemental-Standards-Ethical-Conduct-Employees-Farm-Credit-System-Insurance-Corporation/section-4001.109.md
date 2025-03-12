@@ -1,0 +1,3 @@
+##### § 4001.109 Waivers. #####
+
+The DAEO may grant a written waiver from any provision of this part based on a determination that the waiver is not inconsistent with part 2635 of this title or otherwise prohibited by law and that, under the particular circumstances, application of the provision is not necessary to avoid the appearance of misuse of position or loss of impartiality, or otherwise to ensure confidence in the impartiality and objectivity with which Corporation programs are administered. A waiver under this paragraph may impose appropriate conditions, such as requiring execution of a written disqualification.

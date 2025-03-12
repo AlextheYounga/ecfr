@@ -1,0 +1,3 @@
+##### § 502.30 When must I pay my assessment? #####
+
+OTS will bill you semi-annually for your assessments. Assessments are due January 31 and July 31 of each year, unless that date is a Saturday, Sunday, or Federal holiday. If the due date is a Saturday, Sunday or Federal holiday, your assessment is due on the first day preceding the due date that is not a Saturday, Sunday or Federal holiday. At least seven days before your assessment is due, the Director will mail you a notice that indicates the amount of your assessment, explains how OTS calculated the amount, and specifies when payment is due.

@@ -1,0 +1,3 @@
+##### § 35.8 Release of information under FOIA. #####
+
+The OCC will make covered agreements and annual reports available to the public in accordance with the Freedom of Information Act (5 U.S.C. 552 *et seq.*) and the OCC's rules regarding the availability of information under the Freedom of Information Act (12 CFR part 4, subpart B). A party to a covered agreement may request confidential treatment of proprietary and confidential information in a covered agreement or an annual report under those procedures.

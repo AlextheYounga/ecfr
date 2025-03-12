@@ -1,0 +1,3 @@
+##### § 1.23 Office of the Administrator. #####
+
+The Environmental Protection Agency is headed by an Administrator who is appointed by the President, by and with the consent of the Senate. The Administrator is responsible to the President for providing overall supervision to the Agency, and is assisted by a Deputy Administrator also appointed by the President, by and with the consent of the Senate. The Deputy Administrator assists the Administrator in the discharge of Agency duties and responsibilities and serves as Acting Administrator in the absence of the Administrator.

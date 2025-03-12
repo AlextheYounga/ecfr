@@ -1,0 +1,5 @@
+##### § 295.208 Restrictions that apply to released records. #####
+
+(a) The General Counsel may impose conditions or restrictions on the release of official records and information, including the requirement that parties to the proceeding obtain a protective order or execute a confidentiality agreement to limit access and any further disclosure. The terms of the protective order or of a confidentiality agreement must be acceptable to the General Counsel. In cases where protective orders or confidentiality agreements have already been executed, OPM may condition the release of official records and information on an amendment to the existing protective order or confidentiality agreement.
+
+(b) If the General Counsel so determines, original OPM records may be presented for examination in response to a demand or request, but they are not to be presented as evidence or otherwise used in a manner by which they could lose their identify as official OPM records, and they are not to be marked or altered. In lieu of the original records, certified copies will be presented for evidentiary purposes (see 28 U.S.C. 1733).

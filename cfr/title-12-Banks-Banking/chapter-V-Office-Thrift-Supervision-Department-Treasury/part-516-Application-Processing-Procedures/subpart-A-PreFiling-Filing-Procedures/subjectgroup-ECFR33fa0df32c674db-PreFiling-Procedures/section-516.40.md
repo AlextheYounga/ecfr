@@ -1,0 +1,21 @@
+##### § 516.40 Where do I file my application? #####
+
+(a) *Regional Office.* (1) You must file the original application and the number of copies indicated on the applicable form with the applications filing division of the appropriate OTS Regional Office. You should address the filings to “Attn: Applications Filing Room” at the Regional address listed in paragraph (a)(2) of this section. If the form does not indicate the number of copies you must file or if OTS has not prescribed a form for your application, you must file the original application and two copies.
+
+(2) The addresses of each Regional Office and the states covered by each office are:
+
+| Region  |                                                                        Office address                                                                        |                                                                                  States served                                                                                  |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Northeast|                       Office of Thrift Supervision, Harborside Financial Center, Plaza Five, Suite 1600, Jersey City, New Jersey 07311                       |                      Connecticut, Delaware, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, West Virginia.                      |
+|Southeast|          Office of Thrift Supervision, 1475 Peachtree Street, NW., Atlanta, Georgia 30309 (Mail Stop: P.O. Box 105217, Atlanta, Georgia 30348-5217)          |                 Alabama, District of Columbia, Florida, Georgia, Kentucky, Maryland, North Carolina, Puerto Rico, South Carolina, Virginia, the Virgin Islands.                 |
+| Central |                                   Office of Thrift Supervision, 1 South Wacker Drive, Suite 2000, Chicago, Illinois 60606                                    |                                                                  Illinois, Indiana, Ohio, Michigan, Wisconsin.                                                                  |
+| Midwest |Office of Thrift Supervision, 225 E. John Carpenter Freeway, Suite 500, Irving, Texas 75062-2326 (Mail to: P.O. Box 619027, Dallas/Ft. Worth, Texas 75261-9027|                                         Arkansas, Iowa, Kansas, Louisiana, Mississippi, Missouri Nebraska, Oklahoma, Tennessee, Texas.                                          |
+|  West   |                         Office of Thrift Supervision, Pacific Plaza, 2001 Junipero Serra Boulevard, Suite 650, Daly City, California                         |Alaska, Arizona, California, Colorado, Guam, Hawaii, Idaho, Montana, Nevada, New Mexico, North Dakota, Northern Mariana Islands, Oregon, South Dakota, Utah, Washington, Wyoming.|
+
+(b) *Additional filings with OTS Headquarters.* (1) In addition to filing in the Regional Office, if your application involves a significant issue of law or policy or if an applicable regulation or form directs you to file with OTS Headquarters, you must also file copies of your application with the Applications Filing Room at OTS headquarters, 1700 G Street, NW., Washington, DC 20552. You must file the number of copies indicated on the applicable form. If the form does not indicate the number of copies you must file or if OTS has not prescribed a form for your application, you must file three copies.
+
+(2)(i) You may obtain a list of applications involving significant issues of law or policy at the OTS website at *www.ots.treas.gov* or by contacting a Regional Office.
+
+(ii) OTS reserves the right to identify significant issues of law or policy in a particular application. OTS will advise you, in writing, if it makes this determination.
+
+[66 FR 13000, Mar. 2, 2001, as amended at 66 FR 65820, Dec. 21, 2001; 67 FR 78152, Dec. 23, 2002; 69 FR 76602, Dec. 22, 2004; 73 FR 76939, Dec. 18, 2008]

@@ -1,0 +1,3 @@
+##### 422.302 Liquidated damages and overtime pay. #####
+
+Heads of contracting activities (HCA's) are authorized to review determinations of liquidated damages due under section 104(c) of the Contract Work Hours and Safety Standards Act, and to take remedial action, if appropriate, in accordance with FAR 22.302(c). Contractors or subcontractors may request review of administrative determinations of liquidated damages by written notice to the contracting officer. The contracting officer shall promptly forward appeals of liquidated damages determinations to the HCA.

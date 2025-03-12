@@ -1,0 +1,3 @@
+##### 732.403 Applicability. #####
+
+References to nonprofit contracts with nonprofit educational or research institutions for experimental, research and development work include nonprofit contracts with nonprofit institutions for: (a) technical assistance services provided to or for another country or countries, and (b) projects which concern studies, demonstrations and similar activities related to economic growth or the solution of social problems of developing countries.

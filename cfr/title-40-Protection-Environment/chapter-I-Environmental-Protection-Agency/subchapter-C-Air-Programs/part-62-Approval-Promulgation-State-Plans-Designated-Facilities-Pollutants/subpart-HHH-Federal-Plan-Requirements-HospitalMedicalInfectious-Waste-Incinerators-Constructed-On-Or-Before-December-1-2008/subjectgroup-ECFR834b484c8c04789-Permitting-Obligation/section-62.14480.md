@@ -1,0 +1,3 @@
+##### § 62.14480 Does this subpart require me to obtain an operating permit under title V of the Clean Air Act and implementing regulations? #####
+
+This subpart requires you to obtain an operating permit under title V of the Clean Air Act and implementing regulations (“title V permit”) unless you are only subject to the recordkeeping and reporting requirements listed at § 62.14400(b)(1) or (b)(2), and § 62.14400(c), of this subpart. Also, if you own or operate a unit described in § 62.14400(b)(3), (b)(4), (b)(5) or (b)(6), you are not subject to any requirements of this subpart; therefore, this subpart does not require you to obtain a title V permit.

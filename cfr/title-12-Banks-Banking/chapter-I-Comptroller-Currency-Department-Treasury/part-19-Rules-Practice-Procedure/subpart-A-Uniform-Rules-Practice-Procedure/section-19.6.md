@@ -1,0 +1,11 @@
+##### § 19.6 Appearance and practice in adjudicatory proceedings. #####
+
+(a) *Appearance before the OCC or an administrative law judge*—(1) *By attorneys.* Any member in good standing of the bar of the highest court of any state, commonwealth, possession, territory of the United States, or the District of Columbia may represent others before the OCC if such attorney is not currently suspended or debarred from practice before the OCC.
+
+(2) *By non-attorneys.* An individual may appear on his or her own behalf; a member of a partnership may represent the partnership; a duly authorized officer, director, or employee of any government unit, agency, institution, corporation or authority may represent that unit, agency, institution, corporation or authority if such officer, director, or employee is not currently suspended or debarred from practice before the OCC.
+
+(3) *Notice of appearance.* Any individual acting as counsel on behalf of a party, including the Comptroller, shall file a notice of appearance with OFIA at or before the time that the individual submits papers or otherwise appears on behalf of a party in the adjudicatory proceeding. The notice of appearance must include a written declaration that the individual is currently qualified as provided in paragraph (a)(1) or (a)(2) of this section and is authorized to represent the particular party. By filing a notice of appearance on behalf of a party in an adjudicatory proceeding, the counsel agrees and represents that he or she is authorized to accept service on behalf of the represented party and that, in the event of withdrawal from representation, he or she will, if required by the administrative law judge, continue to accept service until new counsel has filed a notice of appearance or until the represented party indicates that he or she will proceed on a *pro se* basis.
+
+(b) *Sanctions.* Dilatory, obstructionist, egregious, contemptuous or contumacious conduct at any phase of any adjudicatory proceeding may be grounds for exclusion or suspension of counsel from the proceeding.
+
+[56 FR 38028, Aug. 9, 1991; 56 FR 41726, Aug. 22, 1991; 56 FR 63551, Dec. 4, 1991; 61 FR 20334, May 6, 1996]

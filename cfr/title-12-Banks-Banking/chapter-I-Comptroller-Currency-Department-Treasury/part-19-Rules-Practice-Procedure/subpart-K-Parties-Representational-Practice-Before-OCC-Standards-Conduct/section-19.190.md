@@ -1,0 +1,5 @@
+##### § 19.190 Scope. #####
+
+This subpart contains rules relating to parties and representational practice before the OCC. This subpart includes the imposition of sanctions by the administrative law judge, any other presiding officer appointed pursuant to subparts C and D of this part, or the Comptroller against parties or their counsel in an adjudicatory proceeding under this part. This subpart also covers other disciplinary sanctions—censure, suspension or debarment—against individuals who appear before the OCC in a representational capacity either in an adjudicatory proceeding under this part or in any other matters connected with presentations to the OCC relating to a client's rights, privileges, or liabilities. This representation includes, but is not limited to, the practice of attorneys and accountants. Employees of the OCC are not subject to disciplinary proceedings under this subpart.
+
+[56 FR 38028, Aug. 9, 1991; 56 FR 41726, Aug. 22, 1991]

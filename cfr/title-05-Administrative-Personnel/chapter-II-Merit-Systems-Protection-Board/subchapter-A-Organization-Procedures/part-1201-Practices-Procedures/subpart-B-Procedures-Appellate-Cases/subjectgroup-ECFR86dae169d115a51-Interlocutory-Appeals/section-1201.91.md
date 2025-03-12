@@ -1,0 +1,3 @@
+##### § 1201.91 Explanation. #####
+
+An interlocutory appeal is an appeal to the Board of a ruling made by a judge during a proceeding. The judge may permit the appeal if he or she determines that the issue presented in it is of such importance to the proceeding that it requires the Board's immediate attention. Either party may make a motion for certification of an interlocutory appeal. In addition, the judge, on his or her own motion, may certify an interlocutory appeal to the Board. If the appeal is certified, the Board will decide the issue and the judge will act in accordance with the Board's decision.

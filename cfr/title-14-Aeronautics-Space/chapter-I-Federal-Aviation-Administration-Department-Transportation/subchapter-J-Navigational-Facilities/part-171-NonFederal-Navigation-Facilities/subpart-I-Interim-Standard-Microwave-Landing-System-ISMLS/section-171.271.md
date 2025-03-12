@@ -1,0 +1,15 @@
+##### § 171.271 Installation requirements. #####
+
+(a) The ISMLS facility must be permanent in nature, located, constructed, and installed according to accepted good engineering practices, applicable electric and safety codes, FCC licensing requirements, and paragraphs (a) and (c) of § 171.261.
+
+(b) The ISMLS facility must have a reliable source of suitable primary power, either from a power distribution system or locally generated. Adequate power capacity must be provided for the operation of test and working equipment of the ISMLS.
+
+(c) The ISMLS facility must have a continuously engaged or floating battery power source for the ground station for continued normal operation if the primary power fails. A trickle charge must be supplied to recharge the batteries during the period of available primary power. Upon loss and subsequent restoration of power, the batteries must be restored to full charge within 24 hours. When primary power is applied, the state of the battery charge may not affect the operation of the ISMLS ground station. The battery must permit continuation of normal operation for at least two hours under the normal operating conditions. The equipment must meet all specification requirements with or without batteries installed.
+
+(d) There must be a means for determining, from the ground, the performance of the equipment including antennae, both initially and periodically.
+
+(e) The facility must have, or be supplemented by, ground-air or landline communications services. At facilities within or immediately adjacent to controlled airspace and that are intended for use as instrument approach aids for an airport, there must be ground-air communications or reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communication facility. Compliance with this paragraph need not be shown at airports where an adjacent Federal Aviation Administration facility can communicate with aircraft on the ground at the airport and during the entire proposed instrument approach procedure. In addition, at low traffic density airports within or immediately adjacent to controlled airspace, and where extensive delays are not a factor, the requirements of this paragraph may be reduced to reliable communications (at least a landline telephone) from the airport to the nearest Federal Aviation Administration air traffic control or communications facility, if an adjacent Federal Aviation Administration facility can communicate with aircraft during the proposed instrument approach procedure, at least down to the minimum en route altitude for the controlled area.
+
+(f) Except where no operationally harmful interference will result, at locations where two separate ISMLS facilities serve opposite ends of a single runway, an interlock must ensure that only the facility serving the approach direction in use can radiate.
+
+[Doc. No. 14120, 40 FR 36110, Aug. 19, 1975, as amended by Amdt. 171-16, 56 FR 65665, Dec. 17, 1991]

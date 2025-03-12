@@ -1,0 +1,5 @@
+##### § 54.3 Contents of notice. #####
+
+(a) *Failure to act.* Notice regarding a failure of the Administrator to perform an act or duty which is not discretionary shall identify the provisions of the Act which requires such act or creates such duty, shall describe with reasonable specificity the action taken or not taken by the Administrator which is claimed to constitute a failure to perform such act or duty, and shall state the full name and address of the person giving the notice.
+
+(b) *Violation of standard, limitation or order.* Notices to the Administrator, States, and alleged violators regarding violation of an emission standard or limitation or an order issued with respect to an emission standard or limitation, shall include sufficient information to permit the recipient to identify the specific standard, limitation, or order which has allegedly been violated, the activity alleged to be in violation, the person or persons responsible for the alleged violation, the location of the alleged violation, the date or dates of such violation, and the full name and address of the person giving the notice.

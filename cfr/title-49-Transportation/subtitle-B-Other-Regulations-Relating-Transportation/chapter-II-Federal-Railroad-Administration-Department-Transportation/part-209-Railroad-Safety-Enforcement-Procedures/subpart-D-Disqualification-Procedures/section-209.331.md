@@ -1,0 +1,7 @@
+##### § 209.331 Enforcement of disqualification order. #####
+
+(a) A railroad that employs or formerly employed an individual serving under a disqualification order shall inform prospective or actual employers of the terms and conditions of the order upon receiving notice that the disqualified employee is being considered for employment with or is employed by another railroad to perform any of the safety-sensitive functions described in § 209.303.
+
+(b) A railroad that is considering hiring an individual to perform the safety-sensitive functions described in § 209.303 shall ascertain from the individual's previous employer, if such employer was a railroad, whether the individual is subject to a disqualification order.
+
+(c) An individual subject to a disqualification order shall inform his or her employer of the order and provide a copy thereof within 5 days after receipt of the order. Such an individual shall likewise inform any prospective employer who is considering hiring the individual to perform any of the safety-sensitive functions described in § 209.303 of the order and provide a copy thereof within 5 days after receipt of the order or upon application for the position, whichever first occurs.

@@ -1,0 +1,3 @@
+##### § 831.1 Applicability of part. #####
+
+Unless otherwise specifically ordered by the National Transportation Safety Board (Board), the provisions of this part shall govern all accident or incident investigations, conducted under the authority of title VII of the Federal Aviation Act of 1958, as amended, and the Independent Safety Board Act of 1974. Rules applicable to accident hearings and reports are set forth in part 845.

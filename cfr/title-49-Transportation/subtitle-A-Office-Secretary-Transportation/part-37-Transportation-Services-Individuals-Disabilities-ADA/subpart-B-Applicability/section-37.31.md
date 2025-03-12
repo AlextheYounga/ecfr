@@ -1,0 +1,3 @@
+##### § 37.31 Vanpools. #####
+
+Vanpool systems which are operated by public entities, or in which public entities own or purchase or lease the vehicles, are subject to the requirements of this part for demand responsive service for the general public operated by public entities. A vanpool system in this category is deemed to be providing equivalent service to individuals with disabilities if a vehicle that an individual with disabilities can use is made available to and used by a vanpool in which such an individual chooses to participate.

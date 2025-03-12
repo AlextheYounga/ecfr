@@ -1,0 +1,3 @@
+##### § 250.700 What operations and equipment does this subpart cover? #####
+
+This subpart covers operations and equipment associated with drilling, completion, workover, and decommissioning activities. This subpart includes regulations applicable to drilling, completion, workover, and decommissioning activities in addition to applicable regulations contained in subparts D, E, F, and Q of this part unless explicitly stated otherwise.

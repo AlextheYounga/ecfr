@@ -1,0 +1,5 @@
+##### 25.903 Exempted supplies. #####
+
+(a) Subchapters VIII and X of Chapter 98 of the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202) list supplies for which exemptions from duty may be obtained when imported into the customs territory of the United States under a Government contract. For certain of these supplies, the contracting agency must certify to the Commissioner of Customs that they are for the purpose stated in the Harmonized Tariff Schedule (see 19 CFR 10.102-104, 10.114, and 10.121 and 15 CFR part 301 for requirements and formats).
+
+(b) Supplies (excluding equipment) for Government-operated vessels or aircraft may be withdrawn from any customs-bonded warehouse, from continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone, free of duty and internal revenue tax as provided in 19 U.S.C. 1309 and 1317. The contracting activity must cite this authority on the appropriate customs form when making purchases (see 19 CFR 10.59-10.65).

@@ -1,0 +1,7 @@
+##### 216.405-2-71 Award fee reduction or denial for failure to comply with requirements relating to performance of private security functions. #####
+
+(a) In accordance with section 862 of the National Defense Authorization Act for Fiscal Year 2008, as amended, the contracting officer shall include in any award-fee plan a requirement to review contractor compliance with, or violation of, applicable requirements of the contract with regard to the performance of private security functions in an area of contingency operations, complex contingency operations, or other military operations or exercises that are designated by the combatant commander (see 225.370).
+
+(b) In evaluating the contractor's performance under a contract that includes the clause at 252.225-7039, Defense Contractors Performing Private Security Functions Outside the United States, the contracting officer shall consider reducing or denying award fees for a period if the contractor fails to comply with the requirements of the clause during such period. The contracting officer's evaluation also shall consider recovering all or part of award fees previously paid for such period.
+
+[76 FR 52135, Aug. 19, 2011, as amended at 78 FR 73450, Dec. 6, 2013; 81 FR 42560, June 30, 2016]

@@ -1,0 +1,3 @@
+##### § 202.22 Visual exhaust system inspection. #####
+
+No motor carrier subject to these regulations shall operate any motor vehicle of a type to which this regulation is applicable unless the exhaust system of such vehicle is (a) free from defects which affect sound reduction; (b) equipped with a muffler or other noise dissipative device; and (c) not equipped with any cut-out, bypass, or similar device.

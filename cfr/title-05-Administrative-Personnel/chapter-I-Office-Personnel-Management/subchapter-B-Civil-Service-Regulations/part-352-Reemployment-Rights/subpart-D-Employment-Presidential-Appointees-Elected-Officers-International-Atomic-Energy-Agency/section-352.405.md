@@ -1,0 +1,9 @@
+##### § 352.405 Resumption of Federal service. #####
+
+(a) *Pay increase.* Except for an employee whose right is to a position in the Senior Executive Service (SES), an officer who is reemployed in the Federal position which he or she left or one of like seniority, status, and pay within 90 days of his or her separation from the agency following a term of employment, is entitled to the rate of basic pay to which he/she would have been entitled had he or she remained in the Federal service. When the employee's right is to a position in the SES, this subpart authorizes reemployment to any position in the SES for which the employee is qualified at not less than the SES rate of basic pay as determined under 5 CFR part 534, subpart D at which the employee was being paid immediately before his or her transfer.
+
+(b) *Sick leave account.* An officer shall have any sick leave account which he may have had in his last Federal position reestablished for credit or charge, if he returns to an appropriate leave system within 52 calendar weeks after the date he is separated from his term of employment with the agency.
+
+(c) *Service credit for agency employment.* An officer who is reemployed in the Federal service within 90 days after completion of his term of employment with the agency is entitled to credit as Federal service for his term of employment with the agency. However, OPM shall give service credit for subchapter III of chapter 83 of title 5, United States Code, purposes only if the officer complies with the requirements of § 352.404(a)(1).
+
+[33 FR 12433, Sept. 4, 1968, as amended at 51 FR 25188, July 11, 1986]

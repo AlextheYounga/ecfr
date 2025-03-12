@@ -1,0 +1,9 @@
+##### § 1261.22 Directors' compensation policy. #####
+
+(a) *General.* Each Bank's board of directors annually shall adopt a written compensation policy to provide for the payment of reasonable compensation and expenses to the directors for the time required of them in performing their duties as directors. Payments under the directors' compensation policy may be based on any factors that the board of directors determines reasonably to be appropriate, subject to the requirements in this subpart.
+
+(b) *Minimum contents.* The compensation policy shall address the activities or functions for which director attendance or participation is necessary and which may be compensated, and shall explain and justify the methodology used to determine the amount of compensation to be paid to the Bank directors. The compensation policy shall require that any compensation paid to a director reflect the amount of time the director has spent on official Bank business, and shall require that compensation be reduced, as necessary to reflect lesser attendance or performance at board or committee meetings during a given year.
+
+(c) *Prohibited payments.* A Bank shall not pay a director who regularly fails to attend board or committee meetings, and shall not pay fees to a director that do not reflect the director's performance of official Bank business conducted prior to the payment of such fees.
+
+(d) *Submission requirements.* No later than the tenth business day after adopting its annual policy for director compensation and expenses, and at least 30 days prior to disbursing the first payment to any director, each Bank shall submit to the Director a copy of the policy, along with all studies or other supporting materials upon which the board relied in determining the level of compensation and expenses to pay to its directors.

@@ -1,0 +1,7 @@
+##### § 269b.740 Service of pleading and other paper; statement of service. #####
+
+(a) *Method of service.* Notices of hearings, decisions, orders, and other papers may be served personally or by registered or certified mail or by telegraph.
+
+(b) *Upon whom served.* Unless otherwise provided in the rules and regulations in this subchapter, all papers except complaints, petitions, and papers relating to requests for appearance or production of documents, shall be served upon all counsel of record and upon parties not represented by counsel or by their agents designated by them or by law and upon the panel, or its designated officers or agents, where appropriate. Service upon such counsel or representative shall constitute service upon the party, but a copy also shall be transmitted to the party.
+
+(c) *Proof of service.* The party or person serving the papers or process shall submit simultaneously to the panel or its designated representative, or the individual conducting the proceeding, a written statement of such service. Failure to file a statement of service shall not affect the validity of the service. Proof of service, except where otherwise provided, shall be required only if subsequent to the receipt of a statement of service a question is raised with respect to proper service.

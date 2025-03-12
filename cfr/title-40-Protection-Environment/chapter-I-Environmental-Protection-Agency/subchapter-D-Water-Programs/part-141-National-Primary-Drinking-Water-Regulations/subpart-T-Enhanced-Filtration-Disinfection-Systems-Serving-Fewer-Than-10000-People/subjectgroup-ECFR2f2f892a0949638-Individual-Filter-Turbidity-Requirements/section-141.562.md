@@ -1,0 +1,3 @@
+##### § 141.562 My system only has two or fewer filters—is there any special provision regarding individual filter turbidity monitoring? #####
+
+Yes, if your system only consists of two or fewer filters, you may conduct continuous monitoring of combined filter effluent turbidity in lieu of individual filter effluent turbidity monitoring. Continuous monitoring must meet the same requirements set forth in § 141.560(a) through (d) and § 141.561.

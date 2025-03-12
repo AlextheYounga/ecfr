@@ -1,0 +1,5 @@
+##### § 54a.3 Nondiscrimination against religious organizations. #####
+
+(a) Religious organizations are eligible, on the same basis as any other organization, to participate in applicable programs as long as their services are provided consistent with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution. Except as provided herein or in the SAMHSA Charitable Choice provisions, nothing in these regulations shall restrict the ability of the Federal government, or a State or local government, from applying to religious organizations the same eligibility conditions in applicable programs as are applied to any other nonprofit private organization.
+
+(b) Neither the Federal government nor a State or local government receiving funds under these programs shall discriminate against an organization that is, or applies to be, a program participant on the basis of the organization's religious character or affiliation.

@@ -1,0 +1,3 @@
+##### § 270.90 Does my RAP grant me any rights or relieve me of any obligations? #####
+
+The provisions of § 270.4 apply to RAPs. (Note: The provisions of § 270.4(a) provide you assurance that, as long as you comply with your RAP, EPA will consider you in compliance with Subtitle C of RCRA, and will not take enforcement actions against you. However, you should be aware of four exceptions to this provision that are listed in § 270.4.)

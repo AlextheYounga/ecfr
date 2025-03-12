@@ -1,0 +1,5 @@
+##### § 174.600 Special handling requirements for materials extremely poisonous by inhalation. #####
+
+A tank car containing a material extremely poisonous by inhalation which is a Division 2.3 material in Hazard Zone A or a Division 6.1 material in Hazard Zone A, as defined in § 173.133(a)(2) of this subchapter, may not be transported by rail unless it is originally consigned or subsequently reconsigned to a party having a private track on which it is to be delivered and unloaded (see § 171.8 of this subchapter) or to a party using railroad siding facilities which are equipped for piping the liquid or gas from the tank car to permanent storage tanks or sufficient capacity to receive the entire contents of the car. See the requirements in § 174.290 for materials extremely poisonous by inhalation which are shipped by, for, or to the Department of Defense.
+
+[Amdt. 174-68, 55 FR 52684, Dec. 21, 1990]

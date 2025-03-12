@@ -1,0 +1,3 @@
+##### § 282.1 Purpose and scope. #####
+
+This part sets forth the applicable state underground storage tank programs under section 9004 of the Resource Conservation and Recovery Act (RCRA), 42 U.S.C. 6991c and 40 CFR part 281. “State” is defined in 42 U.S.C. 1004(31) as “any of the several states, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.”

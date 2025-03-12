@@ -1,0 +1,3 @@
+##### § 231.18 Cars of special construction. #####
+
+Cars of construction not covered specifically in the foregoing sections in this part, relative to handholds, sill steps, ladders, hand brakes and running boards may be considered as of special construction, but shall have, as nearly as possible, the same complement of handholds, sill steps, ladders, hand brakes, and running boards as are required for cars of the nearest approximate type.

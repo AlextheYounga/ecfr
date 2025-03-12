@@ -1,0 +1,3 @@
+##### § 380.53 Repudiation of secured contract. #####
+
+To the extent that a contract to which a covered financial company is a party is secured by property of the covered financial company, the repudiation of the contract by the Corporation as receiver shall not be construed as permitting the avoidance of any legally enforceable and perfected security interest in the property, and the security interest shall secure any claim for repudiation damages.

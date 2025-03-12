@@ -1,0 +1,11 @@
+##### § 300.150 Worker health and safety. #####
+
+(a) Response actions under the NCP will comply with the provisions for response action worker safety and health in 29 CFR 1910.120. The NRS meets the requirements of 29 CFR 1910.120 concerning use of an incident command system.
+
+(b) In a response action taken by a responsible party, the responsible party must assure that an occupational safety and health program consistent with 29 CFR 1910.120 is made available for the protection of workers at the response site.
+
+(c) In a response taken under the NCP by a lead agency, an occupational safety and health program should be made available for the protection of workers at the response site, consistent with, and to the extent required by, 29 CFR 1910.120. Contracts relating to a response action under the NCP should contain assurances that the contractor at the response site will comply with this program and with any applicable provisions of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 *et seq.*) (OSH Act) and state laws with plans approved under section 18 of the OSH Act.
+
+(d) When a state, or political subdivision of a state, without an OSHA-approved state plan is the lead agency for response, the state or political subdivision must comply with standards in 40 CFR part 311, promulgated by EPA pursuant to section 126(f) of SARA.
+
+(e) Requirements, standards, and regulations of the OSH Act and of state OSH laws not directly referenced in paragraphs (a) through (d) of this section, must be complied with where applicable. Federal OSH Act requirements include, among other things, Construction Standards (29 CFR part 1926), General Industry Standards (29 CFR part 1910), and the general duty requirement of section 5(a)(1) of the OSH Act (29 U.S.C. 654(a)(1)). No action by the lead agency with respect to response activities under the NCP constitutes an exercise of statutory authority within the meaning of section 4(b)(1) of the OSH Act. All governmental agencies and private employers are directly responsible for the health and safety of their own employees.

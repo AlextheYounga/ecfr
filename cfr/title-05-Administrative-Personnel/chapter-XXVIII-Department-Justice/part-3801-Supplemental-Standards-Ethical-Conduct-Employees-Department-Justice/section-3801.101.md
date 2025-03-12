@@ -1,0 +1,3 @@
+##### § 3801.101 General. #####
+
+In accordance with § 2635.105 of this title, the regulations in this part apply to employees of the Department of Justice and supplement the Standards of Ethical Conduct for Employees of the Executive Branch in part 2635 of this title. In addition to the regulations contained in part 2635 of this title and in this part, employees are subject to the conduct regulations contained in part 735 of this title and 28 CFR part 45.

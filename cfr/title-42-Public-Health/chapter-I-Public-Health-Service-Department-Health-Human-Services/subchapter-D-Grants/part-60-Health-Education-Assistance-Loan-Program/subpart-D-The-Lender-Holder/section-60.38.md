@@ -1,0 +1,19 @@
+##### § 60.38 Assignment of a HEAL loan. #####
+
+A HEAL note may not be assigned except to another HEAL lender, the Student Loan Marketing Association (popularly known as “Sallie Mae”), or a public entity in the business of purchasing student loans, and except as provided in § 60.40. In this section “seller” means any kind of assignor and “buyer” means any kind of assignee.
+
+(a) *Procedure.* A HEAL note assigned from one lender or holder to another must be subject to a blanket endorsement together with other HEAL notes being assigned or must individually bear effective words of assignment. Either the blanket endorsement or the HEAL note must be signed and dated by an authorized official of the seller. Within 30 days of the transaction, the buyer must notify the following parties of the assignment:
+
+(1) The Secretary;
+
+(2) The borrower. The notice to the borrower must contain a clear statement of all the borrower's rights and responsibilities which arise from the assignment of the loan, including a statement regarding the consequences of making payments to the seller subsequent to receipt of the notice; and
+
+(3) The borrower's school, as shown on the application form supporting the loan purchased by the buyer, if the borrower is enrolled in school.
+
+(b) *Risks assumed by the buyer.* Upon acquiring a HEAL loan, a new holder assumes responsibility for the consequences of any previous violations of applicable statutes, regulations, or the terms of the note except for defects under § 60.41(d). A HEAL note is not a negotiable instrument, and a subsequent holder is not a holder in due course. If the borrower has a valid legal defense that could be asserted against the previous holder, the borrower can also assert the defense against the new holder. In this situation, if the new holder files a default claim on a loan, the Secretary denies the default claim to the extent of the borrower's defense. Furthermore, when a new holder files a claim on a HEAL loan, it must provide the Secretary with the same documentation that would have been required of the original lender.
+
+(c) *Warranty.* Nothing in this section precludes the buyer of a HEAL loan from obtaining a warranty from the seller covering certain future reductions by the Secretary in computing the amount of insurable loss, if any, on a claim filed on the loan. The warranty may only cover reductions which are attributable to an act or failure to act of the seller or other previous holder. The warranty may not cover matters for which the buyer is charged with responsibility under the HEAL regulations.
+
+(d) *Bankruptcy.* If a lender or holder assigns a HEAL loan to a new holder, or a new holder acquires a HEAL loan under 20 U.S.C. 1092a (the Combined Payment Plan authority), and the previous holder(s) subsequently receives court notice that the borrower has filed for bankruptcy, the previous holder(s) must forward the bankruptcy notice to the purchaser within 10 days of the initial date of receipt, as documented by a date stamp, except that if it is a chapter 7 bankruptcy with no complaint for dismissal, the previous holder(s) must file the notice with the purchaser within 30 days of the initial date of receipt, as documented by a date stamp. The previous holder(s) also must file a statement with the court notifying it of the change of ownership. Notwithstanding the above, the current holder will not be held responsible for any loss due to the failure of the prior holder(s) to meet the deadline for giving notice if such failure occurs after the current holder purchased the loan.
+
+(Approved by the Office of Management and Budget under control numbers 0915-0034 and 0915-0108)[48 FR 38988, Aug. 26, 1983, as amended at 52 FR 749, Jan. 8, 1987; 56 FR 42701, Aug. 29, 1991; 57 FR 28797, June 29, 1992]

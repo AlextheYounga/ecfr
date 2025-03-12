@@ -1,0 +1,3 @@
+##### 1237.7002 Applicability. #####
+
+The policy at (TAR) 48 CFR 1237.7000 applies to all contracts (as defined in FAR 2.101) awarded by DOT for training services when DOT controls the content and/or presentation of the course. This policy does not apply to courses attended by DOT employees that are offered and sponsored by Government sources of supply, educational institutions, or private entities where DOT does not control the course content or presentation. (See (TAR) 48 CFR 1213.7100 for examples.)

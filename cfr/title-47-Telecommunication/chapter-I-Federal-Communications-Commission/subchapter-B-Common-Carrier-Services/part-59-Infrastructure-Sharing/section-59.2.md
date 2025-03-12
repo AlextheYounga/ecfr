@@ -1,0 +1,13 @@
+##### § 59.2 Terms and conditions of infrastructure sharing. #####
+
+(a) An incumbent local exchange carrier subject to the requirements of section 59.1 shall not be required to take any action that is economically unreasonable or that is contrary to the public interest.
+
+(b) An incumbent local exchange carrier subject to the requirements of section 59.1 may, but shall not be required to, enter into joint ownership or operation of public switched network infrastructure, technology, information and telecommunications facilities and functions and services with a qualifying carrier as a method of fulfilling its obligations under section 59.1.
+
+(c) An incumbent local exchange carrier subject to the requirements of section 59.1 shall not be treated by the Commission or any State as a common carrier for hire or as offering common carrier services with respect to any public switched network infrastructure, technology, information, or telecommunications facilities, or functions made available to a qualifying carrier in accordance with regulations issued pursuant to this section.
+
+(d) An incumbent local exchange carrier subject to the requirements of section 59.1 shall make such public switched network infrastructure, technology, information, and telecommunications facilities, or functions available to a qualifying carrier on just and reasonable terms and pursuant to conditions that permit such qualifying carrier to fully benefit from the economies of scale and scope of such local exchange carrier. An incumbent local exchange carrier that has entered into an infrastructure sharing agreement pursuant to section 59.1 must give notice to the qualifying carrier at least sixty days before terminating such infrastructure sharing agreement.
+
+(e) An incumbent local exchange carrier subject to the requirements of section 59.1 shall not be required to engage in any infrastructure sharing agreement for any services or access which are to be provided or offered to consumers by the qualifying carrier in such local exchange carrier's telephone exchange area.
+
+(f) An incumbent local exchange carrier subject to the requirements of section 59.1 shall file with the State, or, if the State has made no provision to accept such filings, with the Commission, for public inspection, any tariffs, contracts, or other arrangements showing the rates, terms, and conditions under which such carrier is making available public switched network infrastructure, technology, information and telecommunications facilities and functions pursuant to this part.

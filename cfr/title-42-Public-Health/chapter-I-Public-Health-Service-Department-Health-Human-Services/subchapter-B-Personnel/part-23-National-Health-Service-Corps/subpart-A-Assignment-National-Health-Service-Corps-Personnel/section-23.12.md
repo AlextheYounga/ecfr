@@ -1,0 +1,3 @@
+##### § 23.12 Who will supervise and control the assigned personnel? #####
+
+Assigned National Health Service Corps personnel will at all times remain under the direct supervision and control of the Secretary. Observance of institutional rules and regulations by the assigned personnel is a mere incident of the performance of their Federal functions and does not alter their direct professional and administrative responsibility to the Secretary.

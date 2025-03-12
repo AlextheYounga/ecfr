@@ -1,0 +1,19 @@
+##### § 393.55 Antilock brake systems. #####
+
+(a) *Hydraulic brake systems.* Each truck and bus manufactured on or after March 1, 1999 (except trucks and buses engaged in driveaway-towaway operations), and equipped with a hydraulic brake system, shall be equipped with an antilock brake system that meets the requirements of Federal Motor Vehicle Safety Standard (FMVSS) No. 105 (49 CFR 571.105, S5.5).
+
+(b) *ABS malfunction indicators for hydraulic braked vehicles.* Each hydraulic braked vehicle subject to the requirements of paragraph (a) of this section shall be equipped with an ABS malfunction indicator system that meets the requirements of FMVSS No. 105 (49 CFR 571.105, S5.3).
+
+(c) *Air brake systems.* (1) Each truck tractor manufactured on or after March 1, 1997 (except truck tractors engaged in driveaway-towaway operations), shall be equipped with an antilock brake system that meets the requirements of FMVSS No. 121 (49 CFR 571.121, S5.1.6.1(b)).
+
+(2) Each air braked commercial motor vehicle other than a truck tractor, manufactured on or after March 1, 1998 (except commercial motor vehicles engaged in driveaway-towaway operations), shall be equipped with an antilock brake system that meets the requirements of FMVSS No. 121 (49 CFR 571.121, S5.1.6.1(a) for trucks and buses, S5.2.3 for semitrailers, converter dollies and full trailers).
+
+(d) *ABS malfunction circuits and signals for air braked vehicles.* (1) Each truck tractor manufactured on or after March 1, 1997, and each single-unit air braked vehicle manufactured on or after March 1, 1998, subject to the requirements of paragraph (c) of this section, shall be equipped with an electrical circuit that is capable of signaling a malfunction that affects the generation or transmission of response or control signals to the vehicle's antilock brake system (49 CFR 571.121, S5.1.6.2(a)).
+
+(2) Each truck tractor manufactured on or after March 1, 2001, and each single-unit vehicle that is equipped to tow another air-braked vehicle, subject to the requirements of paragraph (c) of this section, shall be equipped with an electrical circuit that is capable of transmitting a malfunction signal from the antilock brake system(s) on the towed vehicle(s) to the trailer ABS malfunction lamp in the cab of the towing vehicle, and shall have the means for connection of the electrical circuit to the towed vehicle. The ABS malfunction circuit and signal shall meet the requirements of FMVSS No. 121 (49 CFR 571.121, S5.1.6.2(b)).
+
+(3) Each semitrailer, trailer converter dolly, and full trailer manufactured on or after March 1, 2001, and subject to the requirements of paragraph (c)(2) of this section, shall be equipped with an electrical circuit that is capable of signaling a malfunction in the trailer's antilock brake system, and shall have the means for connection of this ABS malfunction circuit to the towing vehicle. In addition, each trailer manufactured on or after March 1, 2001, subject to the requirements of paragraph (c)(2) of this section, that is designed to tow another air-brake equipped trailer shall be capable of transmitting a malfunction signal from the antilock brake system(s) of the trailer(s) it tows to the vehicle in front of the trailer. The ABS malfunction circuit and signal shall meet the requirements of FMVSS No. 121 (49 CFR 571.121, S5.2.3.2).
+
+(e) *Exterior ABS malfunction indicator lamps for trailers.* Each trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, and subject to the requirements of paragraph (c)(2) of this section, shall be equipped with an ABS malfunction indicator lamp which meets the requirements of FMVSS No. 121 (49 CFR 571.121, S5.2.3.3).
+
+[63 FR 24465, May 4, 1998, as amended at 75 FR 57396, Sept. 21, 2010]

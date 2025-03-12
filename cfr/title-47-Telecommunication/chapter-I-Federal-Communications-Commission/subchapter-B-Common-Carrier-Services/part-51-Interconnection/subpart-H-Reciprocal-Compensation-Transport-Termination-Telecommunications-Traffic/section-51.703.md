@@ -1,0 +1,9 @@
+##### § 51.703 Non-Access reciprocal compensation obligation of LECs. #####
+
+(a) Each LEC shall establish Non-Access Reciprocal Compensation arrangements for transport and termination of Non-Access Telecommunications Traffic with any requesting telecommunications carrier.
+
+(b) A LEC may not assess charges on any other telecommunications carrier for Non-Access Telecommunications Traffic that originates on the LEC's network.
+
+(c) Notwithstanding any other provision of the Commission's rules, a LEC shall be entitled to assess and collect the full charges for the transport and termination of Non-Access Telecommunications Traffic, regardless of whether the local exchange carrier assessing the applicable charges itself delivers such traffic to the called party's premises or delivers the call to the called party's premises via contractual or other arrangements with an affiliated or unaffiliated provider of interconnected VoIP service, as defined in 47 U.S.C. 153(25), or a non-interconnected VoIP service, as defined in 47 U.S.C. 153(36), that does not itself seek to collect Non-Access Reciprocal Compensation charges for the transport and termination of that Non-Access Telecommunications Traffic. In no event may the total charges that a LEC may assess for such service to the called location exceed the applicable transport and termination rate. For purposes of this section, the facilities used by the LEC and affiliated or unaffiliated provider of interconnected VoIP service or a non-interconnected VoIP service for the transport and termination of such traffic shall be deemed an equivalent facility under § 51.701.
+
+[76 FR 73855, Nov. 29, 2011]

@@ -1,0 +1,3 @@
+##### § 80.88 Secrecy of communication. #####
+
+The station licensee, the master of the ship, the responsible radio operators and any person who may have knowledge of the radio communications transmitted or received by a fixed, land, or mobile station subject to this part, or of any radiocommunication service of such station, must observe the secrecy requirements of the Communications Act and the Radio Regulations. See sections 501, 502, and 705 of the Communications Act and Article 23 of the Radio Regulations.

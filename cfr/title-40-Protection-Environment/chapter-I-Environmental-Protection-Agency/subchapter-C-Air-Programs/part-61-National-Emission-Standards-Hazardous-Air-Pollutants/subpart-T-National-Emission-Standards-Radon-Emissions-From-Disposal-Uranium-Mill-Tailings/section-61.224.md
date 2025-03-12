@@ -1,0 +1,3 @@
+##### § 61.224 Recordkeeping requirements. #####
+
+The owner or operator must maintain records documenting the source of input parameters including the results of all measurements upon which they are based, the calculations and/or analytical methods used to derive values for input parameters, and the procedure used to determine compliance. This documentation should be sufficient to allow an independent auditor to verify the accuracy of the determination made concerning the facility's compliance with the standard. The Administrator shall be kept apprised of the location of these records and the records must be kept for at least five years and upon request be made available for inspection by the Administrator, or his authorized representative.

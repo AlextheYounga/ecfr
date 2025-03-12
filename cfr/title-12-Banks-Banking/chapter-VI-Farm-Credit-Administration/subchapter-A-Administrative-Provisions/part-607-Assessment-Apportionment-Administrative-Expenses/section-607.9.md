@@ -1,0 +1,3 @@
+##### § 607.9 Reimbursable billings. #####
+
+The FCA shall bill the amounts due for services to non-System entities each year subsequent to the issuance of their respective Reports of Examination. Amounts billed are due in full within 30 days from the date billed. If the billed amount or any portion thereof remains unpaid at close of business on the due date, such amount or portion shall be considered delinquent in accordance with § 607.7.

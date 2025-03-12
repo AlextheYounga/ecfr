@@ -1,0 +1,5 @@
+##### § 180.1153 Lepidopteran pheromones; exemption from the requirement of a tolerance. #####
+
+Lepidopteran pheromones that are naturally occurring compounds, or identical or substantially similar synthetic compounds, designated by an unbranched aliphatic chain (between 9 and 18 carbons) ending in an alcohol, aldehyde or acetate functional group and containing up to 3 double bonds in the aliphatic backbone, are exempt from the requirement of a tolerance in or on all raw agricultural commodities. This exemption only pertains to those situations when the pheromone is: Applied to growing crops at a rate not to exceed 150 grams active ingredient/acre/year in accordance with good agricultural practices; and applied as a post-harvest treatment to stored food commodities at a rate not to exceed 3.5 grams active ingredient/1,000 ft2/year (equivalent to 150 grams active ingredient/acre/year) in accordance with good agricultural practices.
+
+[71 FR 45399, Aug. 9, 2006]

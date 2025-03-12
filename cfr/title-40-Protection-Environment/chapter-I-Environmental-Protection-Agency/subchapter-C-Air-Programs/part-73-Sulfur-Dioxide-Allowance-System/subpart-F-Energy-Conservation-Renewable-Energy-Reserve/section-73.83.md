@@ -1,0 +1,7 @@
+##### § 73.83 Secretary of Energy's action on net income neutrality applications. #####
+
+(a) *First come, first served.* The Secretary of Energy will process and certify net income neutrality applications on a “first-come, first served” basis, according to the order, by date and time, in which they are received from either the applicant or, in the case of an application submitted to the Administrator and then forwarded to the Secretary, from the Administrator.
+
+(b) *Deficient applications.* If the Secretary of Energy determines that the net income neutrality certification application does not meet the requirements of § 73.82 (a)(9) and (b), the Secretary will notify the applicant and the Administrator in writing of the deficiency. The applicant may then supply additional information or a new revised application as necessary for the Secretary to make a determination that the applicant meets the requirements of § 73.28(a)(9) and (b). Additional information or revised applications will be processed according to the date of receipt of such information or revisions.
+
+(c) *Notification of approval.* The Secretary of Energy will review the net income neutrality application to determine whether it meets the requirements of § 73.82 (a)(9) and (b) and will certify this finding in writing to the applicant and to the Administrator within 60 calendar days of receipt of the net income neutrality application or a revised application, except that the Secretary may specify a later date for certification.

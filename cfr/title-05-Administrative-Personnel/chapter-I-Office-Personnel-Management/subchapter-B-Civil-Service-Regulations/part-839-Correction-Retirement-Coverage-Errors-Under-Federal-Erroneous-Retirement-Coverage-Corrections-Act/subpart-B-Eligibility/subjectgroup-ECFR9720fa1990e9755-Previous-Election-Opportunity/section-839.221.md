@@ -1,0 +1,3 @@
+##### § 839.221 If my qualifying retirement coverage error was that I was put into FERS by mistake and then, after the error was discovered, I chose my current retirement coverage, can I now make another election? #####
+
+No, OPM regulations allow certain employees who were put in FERS in error to choose between remaining in FERS or being covered under their automatic retirement coverage. (See § 846.204(b)(2) of this chapter). If you already had this opportunity to choose your retirement coverage; then you may not make an election of retirement coverage based on the same error under these rules.

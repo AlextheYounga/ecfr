@@ -1,0 +1,11 @@
+##### § 177.843 Contamination of vehicles. #####
+
+(a) Each motor vehicle used for transporting Class 7 (radioactive) materials under exclusive use conditions in accordance with § 173.427(b)(4), § 173.427(c), or § 173.443(b) of this subchapter must be surveyed with radiation detection instruments after each use. A vehicle may not be returned to Class 7 (radioactive) materials exclusive use transport service, and then only for a subsequent exclusive use shipment utilizing the provisions of any of the paragraphs § 173.427(b)(4), § 173.427(c), or § 173.443(b), until the radiation dose rate at every accessible surface is 0.005 mSv/h (0.5 mrem/h) or less and the non-fixed contamination is not greater than the level prescribed in § 173.443(a) of this subchapter.
+
+(b) This section does not apply to any vehicle used solely for transporting Class 7 (radioactive) material if a survey of the interior surface shows that the radiation dose rate does not exceed 0.1 mSv per hour (10 mrem per hour) at the interior surface or 0.02 mSv per hour (2 mrem per hour) at 1 meter (3.3 feet) from any interior surface. These vehicles must be stenciled with the words “For Radioactive Materials Use Only” in lettering at least 7.6 cm (3 inches) high in a conspicuous place, on both sides of the exterior of the vehicle. These vehicles must be kept closed at all times other than loading and unloading.
+
+(c) In case of fire, accident, breakage, or unusual delay involving shipments of Class 7 (radioactive) material, see §§ 171.15, 171.16 and 177.854 of this subchapter.
+
+(d) Each transport vehicle used to transport Division 6.2 materials must be disinfected prior to reuse if a Division 6.2 material is released from its packaging during transportation. Disinfection may be by any means effective for neutralizing the material released.
+
+[Amdt. 177-3, 33 FR 14933, Oct. 4, 1968, as amended by Amdt. 177-35, 41 FR 16131, Apr. 15, 1976; Amdt. 177-57, 48 FR 10247, Mar. 10, 1983; Amdt. 177-78, 55 FR 52712, Dec. 21, 1990; Amdt. 177-85, 60 FR 50335, Sept. 28, 1995; 63 FR 52850, Oct. 1, 1998; 65 FR 58631, Sept. 29, 2000; 67 FR 53142, Aug. 14, 2002; 75 FR 53597, Sept. 1, 2010; 79 FR 40618, July 11, 2014]

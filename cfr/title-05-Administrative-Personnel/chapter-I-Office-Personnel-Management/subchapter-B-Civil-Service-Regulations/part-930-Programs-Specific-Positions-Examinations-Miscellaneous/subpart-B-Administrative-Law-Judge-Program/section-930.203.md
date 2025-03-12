@@ -1,0 +1,3 @@
+##### § 930.203 Cost of competitive examination. #####
+
+Each agency employing administrative law judges must reimburse OPM for the cost of developing and administering the administrative law judge examination. Each agency is charged a pro rata share of the examination cost, based on the actual number of administrative law judges the agency employs. OPM computes the cost of the examination program on an annual basis and notifies the employing agencies of their respective shares after the calculations are made.

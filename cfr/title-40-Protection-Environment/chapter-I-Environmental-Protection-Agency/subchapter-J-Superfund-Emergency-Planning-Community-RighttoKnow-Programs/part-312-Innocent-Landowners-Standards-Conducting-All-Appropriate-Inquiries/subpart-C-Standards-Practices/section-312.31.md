@@ -1,0 +1,5 @@
+##### § 312.31 The degree of obviousness of the presence or likely presence of contamination at the property, and the ability to detect the contamination by appropriate investigation. #####
+
+(a) Persons to whom this part is applicable per § 312.1(b) and environmental professionals conducting an inquiry of a property on behalf of such persons must take into account the information collected under § 312.23 through 312.30 in considering the degree of obviousness of the presence of releases or threatened releases at the subject property.
+
+(b) Persons to whom this part is applicable per § 312.1(b) and environmental professionals conducting an inquiry of a property on behalf of such persons must take into account the information collected under § 312.23 through 312.30 in considering the ability to detect contamination by appropriate investigation. The inquiry of the environmental professional should include an opinion regarding additional appropriate investigation, if any.

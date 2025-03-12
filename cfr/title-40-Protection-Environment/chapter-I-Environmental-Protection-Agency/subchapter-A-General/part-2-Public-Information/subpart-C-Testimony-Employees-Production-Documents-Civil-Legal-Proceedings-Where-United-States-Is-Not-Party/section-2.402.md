@@ -1,0 +1,5 @@
+##### § 2.402 Policy on presentation of testimony and production of documents. #####
+
+(a) With the approval of the cognizant Assistant Administrator, Office Director, Staff Office Director or Regional Administrator or his designee, EPA employees (as defined in 40 CFR 3.102 (a) and (b)) may testify at the request of another Federal agency, or, where it is in the interests of EPA, at the request of a State or local government or State legislative committee.
+
+(b) Except as permitted by paragraph (a) of this section, no EPA employee may provide testimony or produce documents in any proceeding to which this subpart applies concerning information acquired in the course of performing official duties or because of the employee's official relationship with EPA, unless authorized by the General Counsel or his designee under §§ 2.403 through 2.406.

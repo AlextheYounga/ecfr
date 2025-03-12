@@ -1,0 +1,15 @@
+##### § 393.41 Parking brake system. #####
+
+(a) *Hydraulic-braked vehicles manufactured on or after September 2, 1983.* Each truck and bus (other than a school bus) with a GVWR of 4,536 kg (10,000 pounds) or less which is subject to this part and school buses with a GVWR greater than 4,536 kg (10,000 pounds) shall be equipped with a parking brake system as required by FMVSS No. 571.105 (S5.2) in effect at the time of manufacture. The parking brake shall be capable of holding the vehicle or combination of vehicles stationary under any condition of loading in which it is found on a public road (free of ice and snow). Hydraulic-braked vehicles which were not subject to the parking brake requirements of FMVSS No. 571.105 (S5.2) must be equipped with a parking brake system that meets the requirements of paragraph (c) of this section.
+
+(b) *Air-braked power units manufactured on or after March 1, 1975, and air-braked trailers manufactured on or after January 1, 1975.* Each air-braked bus, truck and truck tractor manufactured on and after March 1, 1975, and each air-braked trailer except an agricultural commodity trailer, converter dolly, heavy hauler trailer or pulpwood trailer, shall be equipped with a parking brake system as required by FMVSS No. 121 (S5.6) in effect at the time of manufacture. The parking brake shall be capable of holding the vehicle or combination of vehicles stationary under any condition of loading in which it is found on a public road (free of ice and snow). An agricultural commodity trailer, heavy hauler or pulpwood trailer shall carry sufficient chocking blocks to prevent movement when parked.
+
+(c) *Vehicles not subject to FMVSS Nos. 105 and 121 on the date of manufacture.* (1) Each singly driven motor vehicle not subject to parking brake requirements of FMVSS Nos. 105 or 121 at the time of manufacturer, and every combination of motor vehicles must be equipped with a parking brake system adequate to hold the vehicle or combination on any grade on which it is operated, under any condition of loading in which it is found on a public road (free of ice and snow).
+
+(2) The parking brake system shall, at all times, be capable of being applied by either the driver's muscular effort or by spring action. If other energy is used to apply the parking brake, there must be an accumulation of that energy isolated from any common source and used exclusively for the operation of the parking brake.
+
+*Exception:* This paragraph shall not be applicable to air-applied, mechanically-held parking brake systems which meet the parking brake requirements of FMVSS No. 121 (S5.6).
+
+(3) The parking brake system shall be held in the applied position by energy other than fluid pressure, air pressure, or electric energy. The parking brake system shall not be capable of being released unless adequate energy is available to immediately reapply the parking brake with the required effectiveness.
+
+[70 FR 48048, Aug. 15, 2005]

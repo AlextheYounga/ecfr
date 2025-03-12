@@ -1,0 +1,5 @@
+##### § 831.1605 Evidence. #####
+
+(a) An agency head's determination under §§ 831.1603(a) and 831.1604(a) must be based solely on the official position description of the position in question and any other official description of duties and qualifications.
+
+(b) If an employee is in a position not subject to the one-half percent higher withholding rate of 5 U.S.C. 8334(c), and the employee does not, within 6 months after entering the position or after any significant change in the position, formally and in writing seek a determination from the employing agency that his position is properly covered by the higher withholding rate, the agency head's determination that the service was not so covered at the time of the service is presumed to be correct. This presumption may be rebutted by a preponderance of the evidence that the employee was unaware of his or her status or was prevented by cause beyond his or her control from requesting that the official status be changed at the time the service was performed.

@@ -1,0 +1,5 @@
+##### 2936.604 Performance evaluation. #####
+
+(a) The HCA must establish procedures to evaluate architect-engineer contractor performance as required in FAR 36.604. Normally, the performance report must be prepared by the contracting officer's authorized representative or other official who was responsible for monitoring contract performance and who is qualified to evaluate overall performance. DOL Agency/Office procedures must prescribe instructions for review of the report, before distribution, as prescribed in FAR 36.604(b).
+
+(b) Performance reports must be made using Standard Form 1421, Performance Evaluation (Architect-Engineer) as prescribed in FAR 36.702(c). Details covering unsatisfactory performance, including Government notification to the contractor and written comments by the contractor, must also be attached to the report.

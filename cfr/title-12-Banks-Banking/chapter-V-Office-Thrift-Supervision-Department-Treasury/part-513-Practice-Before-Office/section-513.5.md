@@ -1,0 +1,7 @@
+##### § 513.5 Reinstatement. #####
+
+(a) Any person who is suspended from practicing before the Office under paragraph (a) or (c) of § 513.4 of this part may file an application for reinstatement at any time. Denial of the privilege of practicing before the Office shall continue unless and until the applicant has been reinstated by order of the Office for good cause shown.
+
+(b) Any person suspended under paragraph (b) of § 513.4 shall be reinstated by the Office, upon appropriate application, if all of the grounds for application of the provisions of paragraph (b) of § 513.4 subsequently are removed by a reversal of the conviction or termination of the suspension, disbarment or revocation. An application for reinstatement on any other grounds by any person suspended under paragraph (b) of § 513.4 may be filed at any time. Such application shall state with particularity the relief desired and the grounds therefor and shall include supporting evidence, when available. The applicant shall be accorded an opportunity for an informal hearing in the matter, unless the applicant has waived a hearing in the application and, instead, has elected to have the matter determined on the basis of written submissions. Such hearing shall utilize the procedures established in § 508.3 and paragraph (a) of § 508.7 of this chapter. However, such suspension shall continue unless and until the applicant has been reinstated by order of the Office for good cause shown.
+
+[54 FR 49459, Nov. 30, 1989, as amended at 56 FR 38318, Aug. 12, 1991]

@@ -1,0 +1,3 @@
+##### § 60.5030 Is there an approval process for a negative declaration letter? #####
+
+No. The EPA has no formal review process for negative declaration letters. Once your negative declaration letter has been received, EPA will place a copy in the public docket and publish a notice in the Federal Register. If, at a later date, a SSI unit for which construction commenced on or before October 14, 2010 is found in your state, the Federal plan implementing the emission guidelines contained in this subpart would automatically apply to that SSI unit until your state plan is approved.

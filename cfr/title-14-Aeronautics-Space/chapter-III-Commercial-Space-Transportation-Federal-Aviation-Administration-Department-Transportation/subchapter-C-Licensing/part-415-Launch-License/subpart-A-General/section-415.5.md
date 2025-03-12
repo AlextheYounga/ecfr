@@ -1,0 +1,3 @@
+##### § 415.5 Policy and safety approvals. #####
+
+To obtain a launch license, an applicant must obtain policy and safety approvals from the FAA. Requirements for obtaining these approvals are contained in subparts B, C and F of this part. Only a launch license applicant may apply for the approvals, and may apply for either approval separately and in advance of submitting a complete license application, using the application procedures contained in part 413 of this subchapter.

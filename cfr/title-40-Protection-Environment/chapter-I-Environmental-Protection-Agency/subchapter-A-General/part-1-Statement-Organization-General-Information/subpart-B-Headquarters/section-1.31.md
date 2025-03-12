@@ -1,0 +1,3 @@
+##### § 1.31 Office of General Counsel. #####
+
+The Office of General Counsel is under the supervision of the General Counsel who serves as the primary legal adviser to the Administrator. The office provides legal services to all organizational elements of the Agency with respect to all Agency programs and activities and also provides legal opinions, legal counsel, and litigation support; and assists in the formulation and administration of the Agency's policies and programs as legal adviser.

@@ -1,0 +1,13 @@
+##### § 1503.703 Civil penalty letter; referral. #####
+
+(a) *Issuance.* In a civil penalty action in which the amount in controversy exceeds the amounts set forth in § 1503.701, the Administrator will send a civil penalty letter to the person charged with a violation of a TSA requirement.
+
+(b) *Contents.* The civil penalty letter will contain a statement of the charges; the applicable law, rule, regulation, or order; the amount of civil penalty that the Administrator will accept in full settlement of the action or an offer to compromise the civil penalty.
+
+(c) *Response.* Not later than 30 days after receipt of the civil penalty letter, the person charged with a violation may present to the agency attorney any material or information in answer to the charges, either orally or in writing, that may explain, mitigate, or deny the violation or that may show extenuating circumstances. The Administrator will consider any material or information submitted in accordance with this paragraph (c) to determine whether the person is subject to a civil penalty or to determine the amount for which the Administrator will compromise the action.
+
+(d) *Compromise.* If the person charged with a violation offers to compromise the civil penalty action for a specific amount, that person must send payment in a form and manner acceptable to TSA for that amount to the agency, made payable to the Transportation Security Administration, or make payment electronically through *http://www.pay.gov.* The Chief Counsel or the Deputy Chief Counsel for Civil Enforcement may accept the payment or may refuse and return the payment. If the Administrator accepts the offer to compromise, the agency will send a letter to the person charged with the violation stating that the payment is accepted in full settlement of the civil penalty action and that the matter is closed.
+
+(e) *Referral for prosecution and collection.* If the parties cannot agree to compromise the civil penalty action or the offer to compromise is rejected and the payment submitted in compromise is returned, the Administrator may refer the civil penalty action to the United States Attorney General, or the delegate of the Attorney General, to begin proceedings in a United States district court, pursuant to the authority in 49 U.S.C. 114 or 46305 to prosecute and collect the civil penalty.
+
+(f) The Administrator delegates to the Chief Counsel and the Deputy Chief Counsel for Enforcement the authority to carry out any function of the Administrator described in this § 1503.703.

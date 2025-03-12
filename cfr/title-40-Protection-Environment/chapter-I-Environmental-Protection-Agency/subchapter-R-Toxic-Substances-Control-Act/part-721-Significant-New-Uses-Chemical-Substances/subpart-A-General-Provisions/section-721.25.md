@@ -1,0 +1,13 @@
+##### § 721.25 Notice requirements and procedures. #####
+
+(a) Each person who is required to submit a significant new use notice under this part must submit the notice at least 90 calendar days before commencing manufacture or processing of a chemical substance identified in subpart E of this part for a significant new use. The submitter must comply with any applicable requirement of section 5(b) of the Act, and the notice must include the information and test data specified in section 5(d)(1) of the Act. The notice must be submitted on EPA Form 7710-25, and must comply with the requirements of part 720 of this chapter, except to the extent that they are inconsistent with this part 721.
+
+(b) If two or more persons are required to submit a significant new use notice for the same chemical substance and significant new use identified in subpart E of this part, they may submit a joint notice to EPA. Persons submitting a joint notice must individually complete the certification section of part I of the required notification form. Persons who are required to submit individually, but elect to submit jointly, remain individually liable for the failure to submit required information which is known to or reasonably ascertainable by them and test data in their possession or control.
+
+(c) EPA will process the notice in accordance with the procedures of part 720 of this chapter, except to the extent they are inconsistent with this part.
+
+(d) Any person submitting a significant new use notice in response to the requirements of this part shall not manufacture or process a chemical substance identified in subpart E of this part for a significant new use until EPA has issued a determination with respect to the significant new use and taken the actions required in association with that determination in accordance with the procedures for new chemical substances at § 720.75(d) of this chapter.
+
+(e) When submitting a significant new use notice, in addition to providing a description of the intended categories of consumer or commercial use by function and application as required by § 720.45(f)(1) of this chapter, the submitter must also provide, to the extent known to or reasonably ascertainable by the submitter, a description of known categories of consumer or commercial use by function and application.
+
+[53 FR 28360, July 27, 1988, as amended at 60 FR 16311, Mar. 29, 1995; 75 FR 787, Jan. 6, 2010; 87 FR 39765, July 5, 2022; 89 FR 102798, Dec. 18, 2024]

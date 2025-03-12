@@ -1,0 +1,3 @@
+##### § 14.39 Reconsideration of a claim. #####
+
+Prior to the commencement of suit and prior to the expiration of the 6-month period provided in 28 U.S.C. 2401(b), a claimant, or his or her duly authorized agent, or legal representative, may file a written request with the NRC for reconsideration of a final denial of a claim. Upon the timely filing of a request for reconsideration, the NRC shall have 6 months from the date of filing in which to make a final disposition of the claim, and the claimant's option under 28 U.S.C. 2675(a) does not accrue until 6 months after the filing of a request for reconsideration. Final NRC action on a request for reconsideration shall be effected in accordance with the provisions of 10 CFR 14.37.

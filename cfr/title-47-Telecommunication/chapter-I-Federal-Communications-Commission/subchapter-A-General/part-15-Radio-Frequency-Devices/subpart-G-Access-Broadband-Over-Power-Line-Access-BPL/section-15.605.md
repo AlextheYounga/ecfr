@@ -1,0 +1,5 @@
+##### § 15.605 Cross reference. #####
+
+(a) The provisions of subparts A and B of this part apply to Access BPL devices, except where specifically noted. The provisions of subparts C through F of this part do not apply to Access BPL devices except where specifically noted.
+
+(b) The requirements of this subpart apply only to the radio circuitry that is used to provide carrier current operation for the Access BPL device. Other aspects of the operation of an Access BPL device may be subject to requirements contained elsewhere in this chapter. In particular, an Access BPL device that includes digital circuitry that is not used solely to enable the operation of the radio frequency circuitry used to provide carrier current operation also is subject to the requirements for unintentional radiators in subpart B of this part.

@@ -1,0 +1,11 @@
+##### § 222.10 Appeal to adjudicatory hearing. #####
+
+(a) Within 10 days following the receipt of notice of the issuance or denial of any permit pursuant to § 222.9 after a hearing held pursuant to § 222.7, any interested person who participated in such hearing may request that an adjudicatory hearing be held pursuant to § 222.11 for the purpose of reviewing such determination, or any part thereof. Any such request for an adjudicatory hearing shall be filed with the Administrator or the Regional Administrator, as the case may be, and shall be in writing, shall identify the person requesting the adjudicatory hearing and shall state with particularity the objections to the determination, the basis therefor and the modification requested.
+
+(b) Whenever a written request satisfying the requirements of paragraph (a) of this section has been received and the Administrator or Regional Administrator, as the case may be, determines that an adjudicatory hearing is warranted, the Administrator or the Regional Administrator, as the case may be, will set a time and place for an adjudicatory hearing in accordance with § 222.5, and will give notice of such hearing by publication in accordance with § 222.3.
+
+(c) Prior to the conclusion of the adjudicatory hearing and appeal process, the Administrator or the Regional Administrator, as the case may be, in his discretion may extend the duration of a previously issued permit until a final determination has been made pursuant to § 222.11 or § 222.12.
+
+(d) In the event the Administrator or the Regional Administrator, as the case may be, determines that a request filed pursuant to paragraph (a) of this section does not comply with the requirements of such paragraph (a) of this section or that such request does not present substantial issues of public interest, he shall advise, in writing, the person requesting the adjudicatory hearing of his determination.
+
+(e) Any person requesting an adjudicatory hearing or requesting admission as a party to an adjudicatory hearing shall state in his written request, and shall by filing such request consent, that he and his employees and agents shall submit themselves to direct and cross-examination at any such hearing and to the taking of an oath administered by the Presiding Officer.

@@ -1,0 +1,9 @@
+##### § 826.3 Proceedings covered. #####
+
+(a) The Act applies to certain adversary adjudications conducted by the Board. These are adjudications under 5 U.S.C. 554 in which the position of the FAA is presented by an attorney or other representative who enters an appearance and participates in the proceedings. Proceedings to grant or renew certificates or documents, hereafter referred to as “licenses,” are excluded, but proceedings to modify, suspend, or revoke licenses or to impose a civil penalty on a flight engineer, mechanic, pilot, or repairman (or person acting in that capacity) are covered if they are otherwise “adversary adjudications.” For the Board, the type of proceeding covered includes (but may not be limited to) aviation enforcement cases appealed to the Board under sections 501, 609, 611 and 901 of the Federal Aviation Act (49 U.S.C. 44101 *et seq.,* 44720-44711, 44715, 46301).
+
+(b) The Board may also designate a proceeding not listed in paragraph (a) as an adversary adjudication for purposes of the Act by so stating in an order initiating the proceeding or designating the matter for hearing. The Board's failure to designate a proceeding as an adversary adjudication shall not preclude the filing of an application by a party who believes the proceeding is covered by the Act; whether the procedure is covered will then be an issue for resolution in proceedings on the application.
+
+(c) If a proceeding includes both matters covered by the Act and matters specifically excluded from coverage, any award made will include only fees and expenses related to covered issues.
+
+[46 FR 48209, Oct. 1, 1981, as amended at 59 FR 59054, Nov. 15, 1994]

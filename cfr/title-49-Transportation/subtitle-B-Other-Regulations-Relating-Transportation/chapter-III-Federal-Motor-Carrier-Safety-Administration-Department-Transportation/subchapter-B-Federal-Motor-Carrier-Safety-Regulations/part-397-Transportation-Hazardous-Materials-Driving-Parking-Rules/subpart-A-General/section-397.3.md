@@ -1,0 +1,3 @@
+##### § 397.3 State and local laws, ordinances, and regulations. #####
+
+Every motor vehicle containing hazardous materials must be driven and parked in compliance with the laws, ordinances, and regulations of the jurisdiction in which it is being operated, unless they are at variance with specific regulations of the Department of Transportation which are applicable to the operation of that vehicle and which impose a more stringent obligation or restraint.

@@ -1,0 +1,5 @@
+##### § 311.7 General Counsel certification. #####
+
+For every meeting or portion thereof closed under § 311.5 or § 311.6, the Corporation's General Counsel will publicly certify that, in the opinion of such General Counsel, the meeting may be closed to the public and will state each relevant exemptive provision. In the absence of the General Counsel, the next ranking official in the Legal Division may perform the certification. If the General Counsel and such next ranking official in the Legal Division are both absent, the official in the Legal Division who is then next in rank may provide the required certification. A copy of this certification, together with a statement from the presiding officer of the meeting setting forth the time and place of the meeting, and the persons present, will be retained in the Board's permanent files.
+
+[42 FR 14675, Mar. 16, 1977, as amended at 61 FR 38357, July 24, 1996]

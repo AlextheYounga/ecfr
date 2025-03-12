@@ -1,0 +1,3 @@
+##### § 1815.113 Public involvement. #####
+
+All information collected by the Fund pursuant to this part shall be available to the public consistent with the CEQ regulations. Interested persons may obtain information concerning any pending EIS or any other element of the environmental review process of the Fund by contacting the Community Development Financial Institutions Fund, Department of the Treasury, 1500 Pennsylvania Avenue NW., room 5116, Washington, DC 20220, or such other contact entity designated by the Fund.

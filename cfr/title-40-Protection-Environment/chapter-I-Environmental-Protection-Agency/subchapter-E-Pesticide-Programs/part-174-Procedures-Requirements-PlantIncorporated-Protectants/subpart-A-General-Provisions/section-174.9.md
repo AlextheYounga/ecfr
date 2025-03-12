@@ -1,0 +1,7 @@
+##### § 174.9 Confidential business information claims for plant-incorporated protectant submissions. #####
+
+Although it is strongly recommended that the submitter minimize the amount of data and other information claimed as Confidential Business Information (CBI), a submitter may assert a claim of confidentiality for all or part of the information submitted to EPA in a submission for a plant-incorporated protectant. (See part 2, subpart B of this chapter.) To assert such a claim, the submitter must comply with all of the following procedures:
+
+(a) Any claim of confidentiality must accompany the information at the time the information is submitted to EPA. Failure to assert a claim at that time constitutes a waiver of confidentiality for the information submitted, and the information may be made available to the public, subject to section 10(g) of FIFRA, with no further notice to the submitter.
+
+(b) Any claim of confidentiality must be accompanied, at the time the claim is made, by comments substantiating the claim and explaining why the submitter believes that the information should not be disclosed. The submitter must address each of the points listed in § 2.204(e)(4) of this chapter in the substantiation. EPA will consider incomplete all plant-incorporated protectant submissions containing information claimed as CBI that are not accompanied by substantiation, and will suspend any applicable review of such submissions until the required substantiation is provided.

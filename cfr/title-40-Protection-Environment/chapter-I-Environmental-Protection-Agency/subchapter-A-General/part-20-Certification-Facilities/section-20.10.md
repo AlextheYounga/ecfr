@@ -1,0 +1,3 @@
+##### § 20.10 Revocation. #####
+
+Certification hereunder may be revoked by the Regional Administrator on 30 days written notice to the applicant, served by certified mail, whenever the Regional Administrator shall determine that the facility in question is no longer being operated consistent with the § 20.8 (b) and (c) criteria in effect at the time the facility was placed in service. Within such 30-day period, the applicant may submit to the Regional Administrator such evidence, data or other written materials as the applicant may deem appropriate to show why the certification hereunder should not be revoked. Notification of a revocation under this section shall be given to the Secretary of the Treasury or his delegate. See 26 CFR 1.169-4(b)(1).

@@ -1,0 +1,3 @@
+##### § 37.5 Method of payment of fees. #####
+
+Except as provided in § 37.3(c)(2), a bank may offer a customer the option of paying the fee for a contract in a single payment, provided the bank also offers the customer a *bona fide* option of paying the fee for that contract in monthly or other periodic payments. If the bank offers the customer the option to finance the single payment by adding it to the amount the customer is borrowing, the bank must also disclose to the customer, in accordance with § 37.6, whether and, if so, the time period during which, the customer may cancel the agreement and receive a refund.

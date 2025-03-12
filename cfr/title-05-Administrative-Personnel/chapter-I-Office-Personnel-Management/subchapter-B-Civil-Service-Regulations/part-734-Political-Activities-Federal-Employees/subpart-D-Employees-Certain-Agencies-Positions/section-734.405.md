@@ -1,0 +1,5 @@
+##### § 734.405 Campaigning for a spouse or family member. #####
+
+An employee covered under this subpart who is the spouse or family member of either a candidate for partisan political office, or a candidate for political party office, may appear in photographs of the candidate's family which might appear in a political advertisement, a broadcast, campaign literature, or similar material. A spouse or a family member who is covered by the Hatch Act Reform Amendments also may attend political functions with the candidate. However, the spouse or family member may not distribute campaign literature or solicit, accept, or receive political contributions.
+
+Example 1:An employee who is the spouse of a candidate for partisan political office may stand in the receiving line and sit at the head table during a political dinner honoring the spouse.Example 2:An employee who is the daughter of a candidate for partisan political office may appear in a family photograph which is printed in a campaign flier, but she may not distribute the flier at a campaign rally.

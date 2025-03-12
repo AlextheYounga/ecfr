@@ -1,0 +1,7 @@
+##### § 17.35 Use of alternative dispute resolution. #####
+
+(a) By statutory mandate, it is the policy of the FAA to use voluntary ADR to the maximum extent practicable to resolve matters pending at the ODRA. The ODRA therefore uses voluntary ADR as its primary means of resolving all factual, legal, and procedural controversies.
+
+(b) The parties are encouraged to make a good faith effort to explore ADR possibilities in all cases and to employ ADR in every appropriate case. The ODRA uses ADR techniques such as mediation, neutral evaluation, binding arbitration or variations of these techniques as agreed by the parties and approved by the ODRA. At the beginning of each case, the ODRA assigns a DRO as a potential neutral to explore ADR options with the parties and to convene an ADR process. See § 17.35(b).
+
+(c) The ODRA Adjudicative Process will be used where the parties cannot achieve agreement on the use of ADR; where ADR has been employed but has not resolved all pending issues in dispute; or where the ODRA concludes that ADR will not provide an expeditious means of resolving a particular dispute. Even where the Adjudicative Process is to be used, the ODRA, with the parties' consent, may employ informal ADR techniques concurrently with the adjudication.

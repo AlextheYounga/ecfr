@@ -1,0 +1,3 @@
+##### § 269b.510 Review by panel. #####
+
+The panel shall review the report and recommendations of each hearing officer, the record of the hearing, and such other documents as enumerated in § 269b.450, whether or not any party files an appeal, unless the parties file with the panel a settlement agreement within 10 days after service of the hearing officer's report upon them. In the course of such review, the panel may require oral argument or written briefs on any relevant issue within such time limits as the panel may prescribe, and may reopen the record in any case and receive further evidence.

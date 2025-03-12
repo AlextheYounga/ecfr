@@ -1,0 +1,5 @@
+##### § 831.1807 Installment withholdings. #####
+
+(a) When possible, OPM will collect a creditor agency's full claim in one payment from the debtor's refund or annuity.
+
+(b) If collection must be made from an annuity and the debt is large, the creditor agency must generally accept payment in installments. The responsibility for establishing and notifying the debtor of the amount of the installments belongs to the creditor agency (see § 831.1805(b)(5)). However, OPM will not make an installment deduction for more than 50 percent of net annuity, unless a higher percentage is needed to satisfy a judgment against a debtor within 3 years or the annuitant has consented to the higher amount in writing. All correspondence concerning installment deductions received by OPM will be referred to the creditor agency for consideration.

@@ -1,0 +1,3 @@
+##### § 375.2 Applicability. #####
+
+The provisions of this part regulate the admission to, and navigation in, the United States of foreign civil aircraft other than aircraft operated under authority contained in a foreign air carrier permit or exemption. This part also contains provisions that specify the extent to which certain classes of flight operations by foreign civil aircraft may be conducted, and the terms and conditions applicable to such operations. Nothing in this part shall authorize any foreign civil aircraft to engage in air transportation nor be deemed to provide for such authorization by the Department.

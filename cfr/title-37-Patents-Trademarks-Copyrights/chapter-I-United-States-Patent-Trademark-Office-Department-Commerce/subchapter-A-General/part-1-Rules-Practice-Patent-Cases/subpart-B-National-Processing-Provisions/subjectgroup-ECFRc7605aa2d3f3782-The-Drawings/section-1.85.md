@@ -1,0 +1,9 @@
+##### § 1.85 Corrections to drawings. #####
+
+(a) A utility or plant application will not be placed on the files for examination until objections to the drawings have been corrected. Except as provided in § 1.215(c), any patent application publication will not include drawings filed after the application has been placed on the files for examination. Unless applicant is otherwise notified in an Office action, objections to the drawings in a utility or plant application will not be held in abeyance, and a request to hold objections to the drawings in abeyance will not be considered a *bona fide* attempt to advance the application to final action (§ 1.135(c)). If a drawing in a design application meets the requirements of § 1.84(e), (f), and (g) and is suitable for reproduction, but is not otherwise in compliance with § 1.84, the drawing may be admitted for examination.
+
+(b) The Office will not release drawings for purposes of correction. If corrections are necessary, new corrected drawings must be submitted within the time set by the Office.
+
+(c) If a corrected drawing is required or if a drawing does not comply with § 1.84 or an amended drawing submitted under § 1.121(d) in a nonprovisional international design application does not comply with § 1.1026 at the time an application is allowed, the Office may notify the applicant in a notice of allowability and set a three-month period of time from the mail date of the notice of allowability within which the applicant must file a corrected drawing in compliance with § 1.84 or 1.1026, as applicable, to avoid abandonment. This time period is not extendable under § 1.136 (see § 1.136(c)).
+
+[65 FR 54670, Sept. 8, 2000, as amended at 65 FR 57055, Sept. 20, 2000; 69 FR 56541, Sept. 21, 2004; 78 FR 62405, Oct. 21, 2013; 80 FR 17962, Apr. 2, 2015]

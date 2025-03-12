@@ -1,0 +1,3 @@
+##### § 1807.400 Affordable Housing—general. #####
+
+Each Recipient that uses its CMF Award for Affordable Housing Activities must ensure that 100 percent of Eligible Project Costs are attributable to Affordable Housing; meaning, that they comply with the affordability qualifications set forth in this subpart for Eligible-Income Families. Further, as a subset of said 100 percent, greater than 50 percent of the Eligible Project Costs must be attributable to Affordable Housing that comply with the affordability qualifications set forth in this subpart for Low-Income, Very Low-Income, or Extremely Low-Income Families, or as further set forth in the applicable NOFA and/or Assistance Agreement.

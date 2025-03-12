@@ -1,0 +1,3 @@
+##### 45.602-4 Interagency property transfer costs. #####
+
+Agencies whose property is transferred to other agencies shall not be reimbursed for the property in any manner unless the circumstances of FMR 102-36.285 (41 CFR 102-36.285) apply. The agency receiving the property shall pay any transportation costs that are not the contractor's responsibility and any costs to pack, crate, or otherwise prepare the property for shipment. The contract administration office shall process appropriate contract modifications. To accelerate plant clearance, the receiving agency shall promptly furnish funding data, and transfer or shipping documents to the contract administration office.

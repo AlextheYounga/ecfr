@@ -1,0 +1,3 @@
+##### § 308.166 Grounds for assessment of liability. #####
+
+Any insured depository institution shall be liable for any loss incurred or reasonably anticipated to be incurred by the corporation, subsequent to August 9, 1989, in connection with the default of a commonly controlled insured depository institution, or any loss incurred or reasonably anticipated to be incurred in connection with any assistance provided by the Corporation to any commonly controlled depository institution in danger of default.

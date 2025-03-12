@@ -1,0 +1,9 @@
+##### § 30.55 Tritium reports. #####
+
+(a)-(b) [Reserved]
+
+(c) Except as specified in paragraph (d) of this section, each licensee who is authorized to possess tritium shall report promptly to the appropriate NRC Regional Office listed in appendix D of part 20 of this chapter by telephone and telegraph, mailgram, or facsimile any incident in which an attempt has been made or is believed to have been made to commit a theft or unlawful diversion of more than 10 curies of such material at any one time or more than 100 curies of such material in any one calendar year. The initial report shall be followed within a period of fifteen (15) days by a written report submitted to the appropriate NRC Regional Office which sets forth the details of the incident and its consequences. Copies of such written report shall be sent to the Director, Office of Nuclear Material Safety and Safeguards , using an appropriate method listed in § 30.6(a). Subsequent to the submission of the written report required by this paragraph, the licensee shall promptly inform the Office of Nuclear Material Safety and Safeguards by means of a written report of any substantive additional information, which becomes available to the licensee, concerning an attempted or apparent theft or unlawful diversion of tritium.
+
+(d) The reports described in this section are not required for tritium possessed pursuant to a general license provided in part 31 of this chapter or for tritium contained in spent fuel.
+
+[37 FR 9208, May 6, 1972, as amended at 38 FR 1271, Jan. 11, 1973; 38 FR 2330, Jan. 24, 1973; 41 FR 16446, Apr. 19, 1976; 43 FR 6922, Feb. 17, 1978; 46 FR 55085, Nov. 6, 1981; 49 FR 24707, June 15, 1984; 52 FR 31611, Aug. 21, 1987; 68 FR 58804, Oct. 10, 2003; 73 FR 5718, Jan. 31, 2008]

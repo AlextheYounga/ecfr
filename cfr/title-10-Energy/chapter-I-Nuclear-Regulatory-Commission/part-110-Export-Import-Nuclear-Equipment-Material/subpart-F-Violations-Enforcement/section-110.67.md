@@ -1,0 +1,7 @@
+##### § 110.67 Criminal penalties. #####
+
+(a) Section 223 of the Atomic Energy Act provides for criminal sanctions for willful violation of, attempted violation of, or conspiracy to violate, any regulation issued under sections 161b., 161i., or 161o. of the Atomic Energy Act. For purposes of section 223, all the regulations in 10 CFR part 110 are issued under one or more of sections 161b, 161i, or 161o, except for the sections listed in paragraph (b) of this section.
+
+(b) The regulations in part 110 that are not issued under sections 161b, 161i, or 161o for the purposes of section 223 are as follows: §§ 110.1, 110.2, 110.3, 110.4, 110.7, 110.10, 110.11, 110.30, 110.31, 110.32, 110.40, 110.41, 110.42, 110.43, 110.44, 110.45, 110.46, 110.51, 110.52, 110.60, 110.61, 110.62, 110.63, 110.64, 110.65, 110.66, 110.67, 110.70, 110.71, 110.72, 110.73, 110.80, 110.81, 110.82, 110.83, 110.84, 110.85, 110.86, 110.87, 110.88, 110.89, 110.90, 110.91, 110.100, 110.101, 110.102, 110.103, 110.104, 110.105, 110.106, 110.107, 110.108, 110.109, 110.110, 110.111, 110.112, 110.113, 110.120, 110.122, 110.124, 110.130, 110.131, 110.132, 110.133, 110.134, and 110.135.
+
+[57 FR 55080, Nov. 24, 1992; 57 FR 62605, Dec. 31, 1992, as amended at 60 FR 37565, July 21, 1995; 75 FR 44093, July 28, 2010]

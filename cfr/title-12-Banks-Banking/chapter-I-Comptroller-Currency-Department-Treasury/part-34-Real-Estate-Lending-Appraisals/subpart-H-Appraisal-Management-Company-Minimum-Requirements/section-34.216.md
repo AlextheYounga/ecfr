@@ -1,0 +1,3 @@
+##### § 34.216 Information to be presented to the Appraisal Subcommittee by participating States. #####
+
+Each State electing to register AMCs for purposes of permitting AMCs to provide appraisal management services relating to covered transactions in the State must submit to the Appraisal Subcommittee the information required to be submitted by Appraisal Subcommittee regulations or guidance concerning AMCs that operate in the State.

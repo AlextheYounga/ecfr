@@ -1,0 +1,7 @@
+##### § 107.127 Availability of documents for public inspection. #####
+
+(a) Documents related to an application under this subpart, including the application itself, are available for public inspection, except as specified in paragraph (b) of this section, at the Office of the Associate Administrator for Hazardous Materials Safety, Pipeline and Hazardous Materials Safety Administration, Approvals and Permits Division, U.S. Department of Transportation, East Building, PHH-30, 1200 New Jersey Avenue, SE., Washington, DC 20590-0001. Office hours are 8:30 a.m. to 5 p.m., Monday through Friday, except Federal holidays when the office is closed. Copies of available documents may be obtained as provided in part 7 of this title. Documents numbered 11832 and above may also be viewed at the website address *http://www.regulations.gov.*
+
+(b) Documents available for inspection do not include materials determined to be withheld from public disclosure under § 105.30 and in accordance with the applicable provisions of section 552(b) of title 5, United States Code, and part 7 of this title.
+
+[Amdt. 107-38, 61 FR 21095, May 9, 1996, as amended at 65 FR 58618, Sept. 29, 2000; 66 FR 45377, Aug. 28, 2001; 67 FR 61011, Sept. 27, 2002; 70 FR 73162, Dec. 9, 2005; 72 FR 55683, Oct. 1, 2007; 76 FR 56310, Sept. 13, 2011]

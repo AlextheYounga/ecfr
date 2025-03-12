@@ -1,0 +1,19 @@
+##### § 1.130 Affidavit or declaration of attribution or prior public disclosure under the Leahy-Smith America Invents Act. #####
+
+(a) *Affidavit or declaration of attribution.* When any claim of an application or a patent under reexamination is rejected, the applicant or patent owner may submit an appropriate affidavit or declaration to disqualify a disclosure as prior art by establishing that the disclosure was made by the inventor or a joint inventor, or the subject matter disclosed was obtained directly or indirectly from the inventor or a joint inventor.
+
+(b) *Affidavit or declaration of prior public disclosure.* When any claim of an application or a patent under reexamination is rejected, the applicant or patent owner may submit an appropriate affidavit or declaration to disqualify a disclosure as prior art by establishing that the subject matter disclosed had, before such disclosure was made or before such subject matter was effectively filed, been publicly disclosed by the inventor or a joint inventor or another who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor. An affidavit or declaration under this paragraph must identify the subject matter publicly disclosed and provide the date such subject matter was publicly disclosed by the inventor or a joint inventor or another who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor.
+
+(1) If the subject matter publicly disclosed on that date was in a printed publication, the affidavit or declaration must be accompanied by a copy of the printed publication.
+
+(2) If the subject matter publicly disclosed on that date was not in a printed publication, the affidavit or declaration must describe the subject matter with sufficient detail and particularity to determine what subject matter had been publicly disclosed on that date by the inventor or a joint inventor or another who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor.
+
+(c) *When this section is not available.* The provisions of this section are not available if the rejection is based upon a disclosure made more than one year before the effective filing date of the claimed invention. The provisions of this section may not be available if the rejection is based upon a U.S. patent or U.S. patent application publication of a patented or pending application naming another inventor, the patent or pending application claims an invention that is the same or substantially the same as the applicant's or patent owner's claimed invention, and the affidavit or declaration contends that an inventor named in the U.S. patent or U.S. patent application publication derived the claimed invention from the inventor or a joint inventor named in the application or patent, in which case an applicant or a patent owner may file a petition for a derivation proceeding pursuant to § 42.401 *et seq.* of this title.
+
+(d) *Applications and patents to which this section is applicable.* The provisions of this section apply to any application for patent, and to any patent issuing thereon, that contains, or contained at any time:
+
+(1) A claim to a claimed invention that has an effective filing date as defined in § 1.109 that is on or after March 16, 2013; or
+
+(2) A specific reference under 35 U.S.C. 120, 121, 365(c), or 386(c) to any patent or application that contains, or contained at any time, a claim to a claimed invention that has an effective filing date as defined in § 1.109 that is on or after March 16, 2013.
+
+[78 FR 11058, Feb. 14, 2013, as amended at 80 FR 17963, Apr. 2, 2015]

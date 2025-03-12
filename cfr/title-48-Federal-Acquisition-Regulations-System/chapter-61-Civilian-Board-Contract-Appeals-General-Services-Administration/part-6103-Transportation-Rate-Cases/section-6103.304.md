@@ -1,0 +1,3 @@
+##### 6103.304 Reply to the audit division and agency responses [Rule 304]. #####
+
+A claimant may file with the Board and serve on the Audit Division and the agency a reply to the Audit Division and agency responses within 30 calendar days after receiving the responses (or within 60 calendar days after receiving the responses, if the claimant is located outside the 50 states and the District of Columbia). To expedite proceedings, if the claimant does not wish to respond, the claimant should so notify the Board, the Audit Division, and the agency.

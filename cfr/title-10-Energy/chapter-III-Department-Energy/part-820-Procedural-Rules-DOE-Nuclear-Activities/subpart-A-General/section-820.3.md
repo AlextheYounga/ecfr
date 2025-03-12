@@ -1,0 +1,7 @@
+##### § 820.3 Separation of functions. #####
+
+(a) *Separation of functions.* After a respondent requests an on-the-record adjudication of an assessment of a civil penalty contained in a Final Notice of Violation, no person shall participate in a decision-making function in an enforcement proceeding if he has been, is or will be responsible for an investigative or prosecutorial function related to that proceeding or if he reports to the person responsible for the investigative or prosecutorial function.
+
+(b) *Director.* The Director shall be responsible for the investigation and prosecution of violations of the DOE Nuclear Safety Requirements. After the request for an enforcement adjudication, the Director shall not discuss *ex parte* the merits of the proceeding with a DOE Official or any person likely to advise the DOE Official in the decision of the proceeding.
+
+(c) *Presiding Officer.* A Presiding Officer shall perform no duties inconsistent with his responsibilities as a Presiding Officer, and will not be responsible to or subject to the supervision or direction of any officer or employee engaged in the performance of an investigative or prosecutorial function. The Presiding Officer may not consult any person other than a member of his staff or a special assistant on any fact at issue unless on notice and opportunity for all parties to participate, except as required for the disposition of *ex parte* matters as authorized by law.

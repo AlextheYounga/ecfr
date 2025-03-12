@@ -1,0 +1,15 @@
+##### § 64.5110 Safeguards on the disclosure of customer proprietary network information. #####
+
+(a) *Safeguarding CPNI.* TRS providers shall take all reasonable measures to discover and protect against attempts to gain unauthorized access to CPNI. TRS providers shall authenticate a customer prior to disclosing CPNI based on a customer-initiated telephone contact, TRS call, point-to-point call, online account access, or an in-store visit.
+
+(b) *Telephone, TRS, and point-to-point access to CPNI.* A TRS provider shall authenticate a customer without the use of readily available biographical information, or account information, prior to allowing the customer telephonic, TRS, or point-to-point access to CPNI related to his or her TRS account. Alternatively, the customer may obtain telephonic, TRS, or point-to-point access to CPNI related to his or her TRS account through a password, as described in paragraph (e) of this section.
+
+(c) *Online access to CPNI.* A TRS provider shall authenticate a customer without the use of readily available biographical information, or account information, prior to allowing the customer online access to CPNI related to his or her TRS account. Once authenticated, the customer may only obtain online access to CPNI related to his or her TRS account through a password, as described in paragraph (e) of this section.
+
+(d) *In-store access to CPNI.* A TRS provider may disclose CPNI to a customer who, at a TRS provider's retail location, first presents to the TRS provider or its agent a valid photo ID matching the customer's account information.
+
+(e) *Establishment of a password and back-up authentication methods for lost or forgotten passwords.* To establish a password, a TRS provider shall authenticate the customer without the use of readily available biographical information, or account information. TRS providers may create a back-up customer authentication method in the event of a lost or forgotten password, but such back-up customer authentication method may not prompt the customer for readily available biographical information, or account information. If a customer cannot provide the correct password or the correct response for the back-up customer authentication method, the customer shall establish a new password as described in this paragraph.
+
+(f) *Notification of account changes.* TRS providers shall notify customers immediately whenever a password, customer response to a back-up means of authentication for lost or forgotten passwords, online account, or address of record is created or changed. This notification is not required when the customer initiates service, including the selection of a password at service initiation. This notification may be through a TRS provider-originated voicemail, text message, or video mail to the telephone number of record, by mail to the physical address of record, or by email to the email address of record, and shall not reveal the changed information or be sent to the new account information.
+
+[79 FR 40613, July 5, 2013]

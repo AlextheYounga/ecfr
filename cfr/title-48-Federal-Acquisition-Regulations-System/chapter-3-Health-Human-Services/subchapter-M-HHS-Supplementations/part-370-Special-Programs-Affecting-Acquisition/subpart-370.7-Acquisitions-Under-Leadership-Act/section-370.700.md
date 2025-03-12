@@ -1,0 +1,3 @@
+##### 370.700 Scope of subpart. #####
+
+This subpart sets forth the acquisition requirements regarding implementation of Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome (HIV/AIDS) programs under the President's Emergency Plan for AIDS Relief as established by the United States Leadership Against HIV/AIDS, Tuberculosis and Malaria Act of 2003, as amended (Pub. L. 108-25, Pub. L. 110-293, Pub. L. 113-56).

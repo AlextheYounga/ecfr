@@ -1,0 +1,7 @@
+##### § 40.173 Who is responsible for paying for the test of a split specimen? #####
+
+(a) As the employer, you are responsible for making sure (e.g., by establishing appropriate accounts with laboratories for testing split specimens) that the MRO, first laboratory, and second laboratory perform the functions noted in §§ 40.175-40.185 in a timely manner, once the employee has made a timely request for a test of the split specimen.
+
+(b) As the employer, you must not condition your compliance with these requirements on the employee's direct payment to the MRO or laboratory or the employee's agreement to reimburse you for the costs of testing. For example, if you ask the employee to pay for some or all of the cost of testing the split specimen, and the employee is unwilling or unable to do so, you must ensure that the test takes place in a timely manner, even though this means that you pay for it.
+
+(c) As the employer, you may seek payment or reimbursement of all or part of the cost of the split specimen from the employee (e.g., through your written company policy or a collective bargaining agreement). This part takes no position on who ultimately pays the cost of the test, so long as the employer ensures that the testing is conducted as required and the results released appropriately.

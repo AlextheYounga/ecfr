@@ -1,0 +1,3 @@
+##### § 104.31 Scope. #####
+
+The procedure in this subpart shall be followed if a civil action or proceeding is brought, in any court, against an employee (including the employee's estate) for personal injury, loss of property, or death, resulting from the employee's activities while acting within the scope of the employee's office or employment. When the employee is incapacitated or deceased, actions required of an employee should be performed by the employee's executor, administrator, or comparable legal representative.

@@ -1,0 +1,3 @@
+##### § 121.539 Operations notices. #####
+
+Each certificate holder shall notify its appropriate operations personnel of each change in equipment and operating procedures, including each known change in the use of navigation aids, airports, air traffic control procedures and regulations, local airport traffic control rules, and known hazards to flight, including icing and other potentially hazardous meteorological conditions and irregularities in ground and navigation facilities.

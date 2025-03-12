@@ -1,0 +1,9 @@
+##### § 63.1159 Operational and equipment standards for existing, new, or reconstructed sources. #####
+
+(a) *Hydrochloric acid regeneration plant.* The owner or operator of an affected plant must operate the affected plant at all times while in production mode in a manner that minimizes the proportion of excess air fed to the process and maximizes the process offgas temperature consistent with producing usable regenerated acid or iron oxide.
+
+(b) *Hydrochloric acid storage vessels.* The owner or operator of an affected vessel shall provide and operate, except during loading and unloading of acid, a closed-vent system for each vessel. Loading and unloading shall be conducted either through enclosed lines or each point where the acid is exposed to the atmosphere shall be equipped with a local fume capture system, ventilated through an air pollution control device.
+
+(c) *General duty to minimize emissions.* At all times, each owner or operator must operate and maintain any affected source subject to the requirements of this subpart, including associated air pollution control equipment and monitoring equipment in a manner consistent with safety and good air pollution control practices for minimizing emissions. The general duty to minimize emissions does not require the owner or operator to make any further efforts to reduce emissions if levels required by this standard have been achieved. Determination of whether such operation and maintenance procedures are being used will be based on information available to the Administrator which may include, but is not limited to, monitoring results, review of operation and maintenance procedures, review of operation and maintenance records, and inspection of the source.
+
+[64 FR 33218, June 22, 1999, as amended at 77 FR 58250, Sept. 19, 2012]

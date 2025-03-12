@@ -1,0 +1,3 @@
+##### § 57.22103 Open flames (I-A, II-A, III, and V-A mines). #####
+
+Open flames shall not be permitted underground except for welding, cutting, and other maintenance operations, and for igniting underground retorts in a Subcategory I-A mine. When using open flames in other than fresh air, or in places where methane may enter the air current, tests for methane shall be conducted by a competent person before work is started and every 10 minutes until the job is completed. Continuous methane monitors with audible alarms may be used after the initial test has been conducted as an alternative to the ten-minute interval testing requirement. Open flames shall not be used in atmospheres containing 0.5 percent or more methane.

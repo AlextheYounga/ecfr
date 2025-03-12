@@ -1,0 +1,3 @@
+##### § 1263.7 Duly organized requirement. #####
+
+An applicant shall be deemed to be duly organized, as required by section 4(a)(1)(A) of the Bank Act (12 U.S.C. 1424(a)(1)(A)) and § 1263.6(a)(1), if it is chartered by a State or federal agency as a building and loan association, savings and loan association, cooperative bank, homestead association, insurance company, savings bank, or insured depository institution or, in the case of a CDFI applicant, is incorporated under State or tribal law.

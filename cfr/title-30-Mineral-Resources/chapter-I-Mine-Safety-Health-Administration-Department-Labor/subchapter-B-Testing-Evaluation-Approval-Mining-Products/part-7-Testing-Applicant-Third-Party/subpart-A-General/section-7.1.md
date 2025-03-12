@@ -1,0 +1,3 @@
+##### § 7.1 Purpose and scope. #####
+
+This part sets out requirements for MSHA approval of certain equipment and materials for use in underground mines whose product testing and evaluation does not involve subjective analysis. These requirements apply to products listed in the subparts following this Subpart A. After the dates specified in the following subparts, requests for approval of products shall be made in accordance with this Subpart A and the applicable subpart.

@@ -1,0 +1,23 @@
+##### § 90.155 Time in which station must be placed in operation. #####
+
+Link to an amendment published at 86 FR 23296, May 3, 2021.
+
+(a) All stations authorized under this part, except as provided in §§ 90.528, 90.529, 90.629, 90.631(f), 90.665, 90.685, and 90.1209, must be placed in operation within twelve (12) months from the date of grant or the authorization cancels automatically and must be returned to the Commission.
+
+(b) A local government entity in the Public Safety Pool, applying for any frequency in this part, may also seek extended implementation authorization pursuant to § 90.629.
+
+(c) For purposes of this section, a base station is not considered to be placed in operation unless at least one associated mobile station is also placed in operation. See also §§ 90.633(d) and 90.631(f).
+
+(d) Multilateration LMS EA-licensees, authorized in accordance with § 90.353, must construct and place in operation a sufficient number of base stations that utilize multilateration technology (*see* paragraph (e) of this section) to provide multilateration location service to one-third of the EA's population within five years of initial license grant, and two-thirds of the population within ten years. Licensees may, in the alternative, provide substantial service to their licensed area within the appropriate five- and ten-year benchmarks. In demonstrating compliance with the construction and coverage requirements, the Commission will allow licensees to individually determine an appropriate field strength for reliable service, taking into account the technologies employed in their system design and other relevant technical factors. At the five- and ten-year benchmarks, licensees will be required to file a map and FCC Form 601 showing compliance with the coverage requirements (*see* § 1.946 of this chapter).
+
+(e) A multilateration LMS station will be considered constructed and placed in operation if it is built in accordance with its authorized parameters and is regularly interacting with one or more other stations to provide location service, using multilateration technology, to one or more mobile units. Specifically, LMS multilateration stations will only be considered constructed and placed in operation if they are part of a system that can interrogate a mobile, receive the response at 3 or more sites, compute the location from the time of arrival of the responses and transmit the location either back to the mobile or to a subscriber's fixed site.
+
+(f) For purposes of this section, a station licensed to provide commercial mobile radio service is not considered to have commenced service unless it provides service to at least one unaffiliated party.
+
+(g) Application for extension of time to commence service may be made on FCC Form 601. Extensions of time must be filed prior to the expiration of the construction period. Extensions will be granted only if the licensee shows that the failure to commence service is due to causes beyond its control. No extensions will be granted for delays caused by lack of financing, lack of site availability, for the assignment or transfer of control of an authorization, or for failure to timely order equipment. If the licensee orders equipment within 90 days of the license grant, a presumption of due diligence is created.
+
+(h) An application for modification of an authorization (under construction) at the existing location does not extend the initial construction period. If additional time to commence service is required, a request for such additional time must be submitted on FCC Form 601, either separately or in conjunction with the submission of the FCC Form 601 requesting modification.
+
+(i) DSRCS Roadside Units (RSUs) in the 5850-5925 MHz band must be placed in operation within 12 months from the date of registration (*see* § 90.375) or the authority to operate the RSUs cancels automatically (*see* § 1.955 of this chapter). Such registration date(s) do not change the overall renewal period of the single license. Licensees must notify the Commission in accordance with § 1.946 of this chapter when registered units are placed in operation within their construction period.
+
+[65 FR 60875, Oct. 13, 2000, as amended at 68 FR 38639, June 30, 2003; 69 FR 46443, Aug. 3, 2004; 69 FR 75172, Dec. 15, 2004; 71 FR 52749, Sept. 7, 2006; 72 FR 48859, Aug. 24, 2007]

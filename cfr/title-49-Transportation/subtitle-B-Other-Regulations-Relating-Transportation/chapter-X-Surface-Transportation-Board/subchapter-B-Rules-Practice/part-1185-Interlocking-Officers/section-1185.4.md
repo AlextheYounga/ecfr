@@ -1,0 +1,3 @@
+##### § 1185.4 General authority. #####
+
+Any person who holds or seeks specific authority to hold positions with a carrier may also request general authority to act as an interlocking officer for all affiliated or subsidiary companies or properties used or operated by that carrier, either separately or jointly, with other carriers. A carrier may apply for general authority on behalf of an individual who has already received authority to act as an interlocking officer. However, a carrier may not apply for general authority for an individual who holds a position with another railroad which is not an affiliate or subsidiary of the carrier or whose properties are not used or operated by the carrier, either separately or jointly with other carriers.

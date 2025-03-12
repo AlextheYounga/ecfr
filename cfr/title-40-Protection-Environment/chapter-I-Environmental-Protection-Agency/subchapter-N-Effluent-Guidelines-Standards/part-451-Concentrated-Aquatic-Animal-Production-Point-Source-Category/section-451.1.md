@@ -1,0 +1,3 @@
+##### § 451.1 General applicability. #####
+
+As defined more specifically in each subpart, this part applies to discharges from concentrated aquatic animal production facilities as defined at 40 CFR 122.24 and appendix C of 40 CFR part 122. This part applies to the discharges of pollutants from facilities that produce 100,000 pounds or more of aquatic animals per year in a flow-through, recirculating, net pen or submerged cage system.

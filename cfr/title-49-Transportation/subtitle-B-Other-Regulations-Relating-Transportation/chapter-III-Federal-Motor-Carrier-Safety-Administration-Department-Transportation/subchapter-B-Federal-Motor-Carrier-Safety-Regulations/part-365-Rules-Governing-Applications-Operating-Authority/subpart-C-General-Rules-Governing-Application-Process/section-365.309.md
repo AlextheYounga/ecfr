@@ -1,0 +1,3 @@
+##### § 365.309 FAX filings. #####
+
+FAX filings of applications and supporting evidence are not permitted. To assist parties in meeting the expedited time frames established for protesting an application, however, the FMCSA will accept FAX filings of protests and any reply or rebuttal evidence. FAX filings of these pleadings must be followed by the original document, plus one copy for FMCSA recordkeeping purposes.

@@ -1,0 +1,3 @@
+##### 49.109-3 Government property. #####
+
+Before execution of a settlement agreement, the TCO shall determine the accuracy of the Government property account for the terminated contract. If an audit discloses property for which the contractor cannot account, the TCO shall reserve in the settlement agreement the rights of the Government regarding that property or make an appropriate deduction from the amount otherwise due the contractor.

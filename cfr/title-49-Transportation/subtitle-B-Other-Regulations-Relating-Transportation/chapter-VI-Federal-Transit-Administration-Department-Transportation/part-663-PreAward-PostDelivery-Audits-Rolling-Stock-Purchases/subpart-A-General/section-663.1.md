@@ -1,0 +1,3 @@
+##### § 663.1 Purpose. #####
+
+This part implements section 12(j) of the Federal Mass Transit Act of 1964, as amended, which was added by section 319 of the 1987 Surface Transportation and Uniform Relocation Assistance Act (Pub. L. 100-17). Section 12(j) requires the Federal Transit Administration, by delegation from the Secretary of Transportation, to issue regulations requiring pre-award and post-delivery audits when a recipient of Federal financial assistance purchases rolling stock with funds made available under the Federal Mass Transit Act, as amended.

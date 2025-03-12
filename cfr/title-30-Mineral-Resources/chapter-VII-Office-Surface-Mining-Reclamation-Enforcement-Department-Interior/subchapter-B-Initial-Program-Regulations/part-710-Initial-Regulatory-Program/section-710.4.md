@@ -1,0 +1,5 @@
+##### § 710.4 Responsibility. #####
+
+(a) Under the general direction of the Assistant Secretary, Energy and Minerals, the Director is responsible for administering the initial regulatory program established by the Secretary.
+
+(b) The States are responsible for issuing permits and inspection and enforcement on lands on which operations are regulated by a State to insure compliance with the initial performance standards in parts 715 through 718 of this chapter. States are required to file copies of inspection reports with the Office. States are also responsible for assuring that permits are not issued which would be in conflict with the restriction on mining found in section 510 of the Act, particularly in regard to alluvial valley floors and prime farm lands, and section 522(e) of the Act in regard to prohibitions of mining on certain lands.

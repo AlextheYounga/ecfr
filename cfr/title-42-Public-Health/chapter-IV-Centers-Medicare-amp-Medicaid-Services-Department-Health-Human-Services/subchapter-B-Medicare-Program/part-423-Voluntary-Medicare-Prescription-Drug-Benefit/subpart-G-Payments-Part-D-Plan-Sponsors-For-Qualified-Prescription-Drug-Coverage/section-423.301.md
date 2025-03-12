@@ -1,0 +1,3 @@
+##### § 423.301 Scope. #####
+
+This subpart sets forth rules for the calculation and payment of CMS direct and reinsurance subsidies for Part D plans; the application of risk corridors and risk-sharing adjustments to payments; and retroactive adjustments and reconciliations to actual enrollment and interim payments. This subpart does not apply to fallback entities or fallback prescription drug plans.

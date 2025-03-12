@@ -1,0 +1,3 @@
+##### § 405.1855 Evidence at Board hearing. #####
+
+Evidence may be received at the Board hearing even though inadmissible under the rules of evidence applicable to court procedure. The Board shall give the parties opportunity for submission and consideration of facts and arguments and during the course of the hearing should, in ruling upon admissibility of evidence, exclude irrelevant, immaterial, or unduly repetitious evidence. The Board shall render a final ruling on the admissibility of evidence.

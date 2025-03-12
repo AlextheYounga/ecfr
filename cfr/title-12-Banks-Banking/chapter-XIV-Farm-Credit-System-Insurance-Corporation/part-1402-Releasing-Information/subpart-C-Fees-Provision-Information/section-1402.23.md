@@ -1,0 +1,5 @@
+##### § 1402.23 Waiver or reduction of fees. #####
+
+(a) The Farm Credit System Insurance Corporation may grant a waiver or reduction of fees if the Farm Credit System Insurance Corporation determines that the disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Government, and the disclosure of the information is not primarily in the commercial interest of the requester.
+
+(b) The Farm Credit System Insurance Corporation will not charge fees to any requester, including commercial use requesters, if the cost of collecting a fee would be equal to or greater than the fee itself. The elements to be considered in determining the “cost of collecting a fee” are the administrative costs of receiving and recording a requester's remittance and processing the fee.

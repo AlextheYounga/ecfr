@@ -1,0 +1,19 @@
+##### § 63.342 Limits on performance assessments. #####
+
+(a) DOE's performance assessments conducted to show compliance with §§ 63.311(a)(1), 63.321(b)(1), and 63.331 shall not include consideration of very unlikely features, events, or processes, *i.e.*, those that are estimated to have less than one chance in 100,000,000 per year of occurring. In addition, DOE's performance assessments need not evaluate the impacts resulting from any features, events, and processes or sequences of events and processes with a higher chance of occurring if the results of the performance assessments would not be changed significantly in the initial 10,000-year period after disposal.
+
+(b) For performance assessments conducted to show compliance with §§ 63.321(b)(1) and 63.331, DOE's performance assessments shall exclude the unlikely features, events, and processes, or sequences of events and processes, *i.e.*, those that are estimated to have less than one chance in 100,000 per year of occurring and at least one chance in 100,000,000 per year of occurring.
+
+(c) For performance assessments conducted to show compliance with §§ 63.311(a)(2) and 63.321(b)(2), DOE's performance assessments shall project the continued effects of the features, events, and processes included in paragraph (a) of this section beyond the 10,000-year post-disposal period through the period of geologic stability. DOE must evaluate all of the features, events, or processes included in paragraph (a) of this section, and also:
+
+(1) DOE must assess the effects of seismic and igneous activity scenarios, subject to the probability limits in paragraph (a) of this section for very unlikely features, events, and processes, or sequences of events and processes. Performance assessments conducted to show compliance with § 63.321(b)(2) are also subject to the probability limits in paragraph (b) of this section for unlikely features, events, and processes, or sequences of events and processes.
+
+(i) The seismic analysis may be limited to the effects caused by damage to the drifts in the repository, failure of the waste packages, and changes in the elevation of the water table under Yucca Mountain (*i.e.*, the magnitude of the water table rise under Yucca Mountain).
+
+(ii) The igneous activity analysis may be limited to the effects of a volcanic event directly intersecting the repository. The igneous event may be limited to that causing damage to the waste packages directly, causing releases of radionuclides to the biosphere, atmosphere, or groundwater.
+
+(2) DOE must assess the effects of climate change. The climate change analysis may be limited to the effects of increased water flow through the repository as a result of climate change, and the resulting transport and release of radionuclides to the accessible environment. The nature and degree of climate change may be represented by constant-in-time climate conditions. The analysis may commence at 10,000 years after disposal and shall extend through the period of geologic stability. The constant-in-time values to be used to represent climate change are to be the spatial average of the deep percolation rate within the area bounded by the repository footprint. The constant-in-time deep percolation rates to be used to represent climate change shall be based on a lognormal distribution with an arithmetic mean of 41 mm/year (1.6 in./year) and a standard deviation of 33 mm/year (1.3 in./year). The lognormal distribution is to be truncated so that the deep percolation rates vary between 10 and 100 mm/year (0.39 and 3.9 in./year).
+
+(3) DOE must assess the effects of general corrosion on engineered barriers. DOE may use a constant representative corrosion rate throughout the period of geologic stability or a distribution of corrosion rates correlated to other repository parameters.
+
+[74 FR 10829, Mar. 13, 2009]

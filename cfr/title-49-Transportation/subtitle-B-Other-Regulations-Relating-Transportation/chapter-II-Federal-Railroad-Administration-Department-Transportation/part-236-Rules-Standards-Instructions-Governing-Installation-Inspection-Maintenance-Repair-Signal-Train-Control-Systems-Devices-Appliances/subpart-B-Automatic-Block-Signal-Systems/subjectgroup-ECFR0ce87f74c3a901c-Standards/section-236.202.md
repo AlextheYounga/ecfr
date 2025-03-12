@@ -1,0 +1,3 @@
+##### § 236.202 Signal governing movements over hand-operated switch. #####
+
+Signal governing movements over hand-operated switch in the facing direction shall display its most restrictive aspect when the points are open one-fourth inch or more and, in the trailing direction, three-eighths inch or more, except that where a separate aspect is displayed for facing movements over the switch in the normal and in the reverse position, the signal shall display its most restrictive aspect when the switch points are open one-fourth inch or more from either the normal or reverse position.

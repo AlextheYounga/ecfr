@@ -1,0 +1,3 @@
+##### § 22.53 Loan monitoring and servicing requirements. #####
+
+The Participating Lender must review STLP principal advance requests, process loan disbursements, and payments, and maintain contact with the borrower during the term of the loan. The Participating Lender must monitor the progress of the project being financed and the borrower's continued compliance with the terms and conditions of the loan. The Participating Lender must promptly report any material adverse change in the financial condition or business operations of the borrower to DOT OSDBU.

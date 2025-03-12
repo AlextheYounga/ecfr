@@ -1,0 +1,5 @@
+##### § 390.260 General. #####
+
+(a) *Authority and scope.* This subpart is being issued by the FDIC under its general rulemaking and supervisory authority under the Federal Deposit Insurance Act (FDIA), 12 U.S.C. 1811 *et seq.* Sections 390.264, 390.265, and 390.267 through 390.272 contain safety-and-soundness based lending and investment provisions applicable to State savings associations.
+
+(b) *General lending standards.* Each State savings association is expected to conduct its lending and investment activities prudently. Each State savings association should use lending and investment standards that are consistent with safety and soundness, ensure adequate portfolio diversification and are appropriate for the size and condition of the institution, the nature and scope of its operations, and conditions in its lending market. Each State savings association should adequately monitor the condition of its portfolio and the adequacy of any collateral securing its loans.

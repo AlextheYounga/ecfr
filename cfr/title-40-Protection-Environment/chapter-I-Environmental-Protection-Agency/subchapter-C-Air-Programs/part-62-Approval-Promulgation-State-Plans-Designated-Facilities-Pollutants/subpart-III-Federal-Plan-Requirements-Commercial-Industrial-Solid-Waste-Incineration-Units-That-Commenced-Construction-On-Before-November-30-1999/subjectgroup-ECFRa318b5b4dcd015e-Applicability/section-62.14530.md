@@ -1,0 +1,3 @@
+##### § 62.14530 What if I have a chemical recovery unit that is not listed in § 62.14525(n)? #####
+
+If you have a recovery unit that is not listed in § 62.14525(n), you can petition the Administrator to add the unit to the list of exempted units in 40 CFR 60.2020(n) or 60.2555(n) pursuant to the requirements of 40 CFR 60.2025 or 60.2558. Units granted exemptions under 40 CFR 60.2025 or 60.2558 are exempt from the requirement of this Federal plan under § 62.14525(n)(8).

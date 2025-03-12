@@ -1,0 +1,3 @@
+##### § 6901.101 General. #####
+
+In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the National Aeronautics and Space Administration (NASA) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the standards in 5 CFR part 2635 and this part, employees are subject to the executive branch financial disclosure regulations contained in 5 CFR part 2634, and to additional regulations regarding their conduct contained in 5 CFR part 735 and 14 CFR part 1207.

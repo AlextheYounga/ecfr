@@ -1,0 +1,15 @@
+##### § 308.131 Temporary cease-and-desist order. #####
+
+(a) *Issuance.* (1) When the Board of Directors or its designee determines that the violation, or the unsafe or unsound practice, as specified in the notice, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the bank, or is likely to weaken the condition of the bank or otherwise prejudice the interests of its depositors prior to the completion of the proceedings under section 8(b) of the FDIA (12 U.S.C. 1818(b)) and § 308.128 of this subpart, the Board of Directors or its designee may issue a temporary order requiring the bank or an institution-affiliated party to immediately cease and desist from any such violation, practice or to take affirmative action to prevent such insolvency, dissipation, condition or prejudice pending completion of the proceedings under section 8(b) of the FDIA (12 U.S.C. 1818(b)).
+
+(2) When the Board of Directors or its designee issues a Notice of charges pursuant to 12 U.S.C. 1818(b)(1) which specifies on the basis of particular facts and circumstances that a bank's books and records are so incomplete or inaccurate that the FDIC is unable, through the normal supervisory process, to determine the financial condition of the bank or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of the bank, then the Board of Directors or its designee may issue a temporary order requiring:
+
+(i) The cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
+
+(ii) Affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under section 8(b) of the FDIA (12 U.S.C. 1818(b)).
+
+(3) The temporary order shall be served upon the bank or the institution-affiliated party named therein and shall also be served upon the bank in the case where the temporary order applies only to an institution-affiliated party.
+
+(b) *Effective date.* A temporary order shall become effective when served upon the bank or the institution-affiliated party. Unless the temporary order is set aside, limited, or suspended by a court in proceedings authorized under section 8(c)(2) of the FDIA (12 U.S.C. 1818(c)(2)), the temporary order shall remain effective and enforceable pending completion of administrative proceedings pursuant to section 8(b) of the FDIA (12 U.S.C. 1818(b)) and entry of an order which has become final, or with respect to paragraph (a)(2) of this section the FDIC determines by examination or otherwise that the bank's books and records are accurate and reflect the financial condition of the bank.
+
+(c) *Uniform Rules do not apply.* The Uniform Rules and subpart B of the Local Rules shall not apply to the issuance of temporary orders under this section.

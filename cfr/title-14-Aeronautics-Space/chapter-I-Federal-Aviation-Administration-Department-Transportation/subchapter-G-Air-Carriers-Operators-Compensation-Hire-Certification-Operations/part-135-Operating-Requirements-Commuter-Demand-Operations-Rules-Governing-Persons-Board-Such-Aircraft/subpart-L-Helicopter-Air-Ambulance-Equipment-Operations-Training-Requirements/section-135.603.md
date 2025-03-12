@@ -1,0 +1,3 @@
+##### § 135.603 Pilot-in-command instrument qualifications. #####
+
+After April 24, 2017, no certificate holder may use, nor may any person serve as, a pilot in command of a helicopter air ambulance operation unless that person meets the requirements of § 135.243 and holds a helicopter instrument rating or an airline transport pilot certificate with a category and class rating for that aircraft, that is not limited to VFR.

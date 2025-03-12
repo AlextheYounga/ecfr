@@ -1,0 +1,3 @@
+##### § 507.1 What does this part do? #####
+
+This part implements section 10(k) of the Federal Deposit Insurance Act (FDIA), which prohibits senior examiners from accepting compensation from certain companies following the termination of their employment. See 12 U.S.C. 1820(k). Except where otherwise provided, the terms used in this part have the meanings given in section 3 of the FDIA (12 U.S.C. 1813).

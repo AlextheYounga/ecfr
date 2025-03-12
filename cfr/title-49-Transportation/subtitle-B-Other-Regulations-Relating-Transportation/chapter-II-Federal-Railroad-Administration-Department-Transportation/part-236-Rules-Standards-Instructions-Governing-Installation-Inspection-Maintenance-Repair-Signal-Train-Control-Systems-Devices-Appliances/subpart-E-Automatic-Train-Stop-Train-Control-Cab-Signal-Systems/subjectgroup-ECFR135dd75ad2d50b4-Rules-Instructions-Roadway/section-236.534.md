@@ -1,0 +1,3 @@
+##### § 236.534 Entrance to equipped territory; requirements. #####
+
+Where trains are not required to stop at the entrance to equipped territory, except when leaving yards and stations and speed until entering equipped territory does not exceed restricted speed, the automatic train stop, train control, or cab signal device shall be operative at least stopping distance from the entrance to such territory except where the approach thereto is governed by automatic approach signal.

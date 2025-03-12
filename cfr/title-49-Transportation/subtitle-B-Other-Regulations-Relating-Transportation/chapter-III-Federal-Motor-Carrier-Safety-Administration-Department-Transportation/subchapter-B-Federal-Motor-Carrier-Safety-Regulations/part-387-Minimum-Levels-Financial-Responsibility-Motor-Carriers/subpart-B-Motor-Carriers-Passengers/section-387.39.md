@@ -1,0 +1,5 @@
+##### § 387.39 Forms. #####
+
+Endorsements for policies of insurance (Illustration I) and surety bonds (Illustration II) must be in the form prescribed by the FMCSA and approved by the OMB. Endorsements to policies of insurance and surety bonds shall specify that coverage thereunder will remain in effect continuously until terminated, as required in § 387.31 of this subpart. The continuous coverage requirement does not apply to Mexican motor carriers insured under § 387.31(b)(3) of this subpart. The endorsement and surety bond shall be issued in the exact name of the motor carrier.
+
+![](/graphics/er02oc02.001.gif)![](/graphics/er02oc02.002.gif)[48 FR 52683, Nov. 21, 1983, as amended at 49 FR 22326, May 29, 1984; 54 FR 49093, Nov. 29, 1989; 67 FR 61821, 61822, Oct. 2, 2002; 79 FR 59457, Oct. 2, 2014]

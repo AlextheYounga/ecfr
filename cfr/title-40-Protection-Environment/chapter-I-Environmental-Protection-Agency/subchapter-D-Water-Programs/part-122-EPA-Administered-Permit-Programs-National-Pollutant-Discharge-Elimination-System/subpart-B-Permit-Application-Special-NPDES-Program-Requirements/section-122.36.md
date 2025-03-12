@@ -1,0 +1,5 @@
+##### § 122.36 As an operator of a regulated small MS4, what happens if I don't comply with the application or permit requirements in §§ 122.33 through 122.35? #####
+
+NPDES permits are federally enforceable. Violators may be subject to the enforcement actions and penalties described in Clean Water Act sections 309 (b), (c), and (g) and 505, or under applicable State, Tribal, or local law. Compliance with a permit issued pursuant to section 402 of the Clean Water Act is deemed compliance, for purposes of sections 309 and 505, with sections 301, 302, 306, 307, and 403, except any standard imposed under section 307 for toxic pollutants injurious to human health. If you are covered as a co-permittee under an individual permit or under a general permit by means of a joint Notice of Intent you remain subject to the enforcement actions and penalties for the failure to comply with the terms of the permit in your jurisdiction except as set forth in § 122.35(b).
+
+[64 FR 68847, Dec. 8, 1999]

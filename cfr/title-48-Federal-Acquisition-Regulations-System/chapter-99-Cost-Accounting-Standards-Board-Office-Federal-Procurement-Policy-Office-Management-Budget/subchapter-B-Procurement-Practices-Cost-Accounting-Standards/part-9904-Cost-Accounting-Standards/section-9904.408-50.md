@@ -1,0 +1,25 @@
+##### 9904.408-50 Techniques for application. #####
+
+(a) *Determinations.* Each plan or custom for compensated personal absence shall be considered separately in determining when entitlement is earned. If a plan or custom is changed or a new plan or custom is adopted, then a new determination shall be made beginning with the first cost accounting period to which such new or changed plan or custom applies.
+
+(b) *Measurement of entitlement.* (1) For purposes of compliance with 9904.408-40(a), compensated personal absence is earned at the same time and in the same amount as the employer becomes liable to compensate the employee for such absence if the employer terminates the employee's employment for lack of work or other reasons not involving disciplinary action, in accordance with a plan or custom of the employer. Where a new employee must complete a probationary period before the employer becomes liable, the employer may nonetheless treat such service as creating entitlement in any computations required by this Standard, provided that he does so consistently.
+
+(2) Where a plan or custom provides for entitlement to be determined as of the first calendar day or the first business day of a cost accounting period based on service in the preceding cost accounting period, the entitlement shall be considered to have been earned, and the employer's liability to have arisen, as of the close of the preceding cost accounting period.
+
+(3) In the absence of a determinable liability, in accordance with paragraph (b)(1) of this subsection, compensated personal absence will be considered to be earned only in the cost accounting period in which it is paid.
+
+(c) *Determination of employer's liability.* In computing the cost of compensated personal absence, the computation shall give effect to the employer's liability in accordance with the following paragraphs:
+
+(1) The estimated liability shall include all earned entitlement to compensated personal absence which exists at the time the liability is determined, in accordance with paragraph (b) of this subsection.
+
+(2) The estimated liability shall be reduced to allow for anticipated nonutilization, if material.
+
+(3) The liability shall be estimated consistently either in terms of current or of anticipated wage rates. Estimates may be made with respect to individual employees, but such individual estimates shall not be required if the total cost with respect to all employees in the plan can be estimated with reasonable accuracy by the use of sample data, experience or other appropriate means.
+
+(d) *Adjustments.* (1) The estimate of the employer's liability for compensated personal absence at the beginning of the first cost accounting period for which a contractor must comply with this standard shall be based on the contractor's plan or custom applicable to that period, notwithstanding that some part of that liability has not previously been recognized for contract costing purposes. Any excess of the amount of the liability as determined in accordance with paragraph (c) of this subsection over the corresponding amount of the liability as determined in accordance with the contractor's previous practice shall be held in suspense and accounted for as described in subparagraph (d)(3) of this subsection.
+
+(2) If a plan or custom is changed or a new plan or custom is adopted, and the new determination made in accordance with paragraph (a) of this subsection results in an increase in the estimate of the employer's liability for compensated personal absence at the beginning of the first cost accounting period for which the new plan is effective over the estimate made in accordance with the contractor's prior practice, then the amount of such increase shall be held in suspense and accounted for as described in paragraph (d)(3) of this subsection.
+
+(3) At the close of each cost accounting period, the amount held in suspense shall be reduced by the excess of the amount held in suspense at the beginning of the cost accounting period over the employer's liability (as estimated in accordance with paragraph (c) of this subsection) at the end of that cost accounting period. The cost of compensated personal absence assigned to that cost accounting period shall be increased by the amount of the excess.
+
+(e) *Allocations.* Except where the use of a longer or shorter period is permitted by the provisions of the Cost Accounting Standard on Cost Accounting Period (9904.406), the cost of compensated personal absence shall be allocated to cost objectives on a pro-rata basis which reflects the total of such costs and the total of the allocation base for the entire cost accounting period. However, this provision shall not preclude revisions to an allocation rate during a cost accounting period based on revised estimates of period totals.

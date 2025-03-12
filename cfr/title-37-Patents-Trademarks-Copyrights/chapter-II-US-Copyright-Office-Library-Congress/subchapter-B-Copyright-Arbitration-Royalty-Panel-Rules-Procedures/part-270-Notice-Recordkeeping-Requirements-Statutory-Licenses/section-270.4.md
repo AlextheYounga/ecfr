@@ -1,0 +1,9 @@
+##### § 270.4 Reports of use of sound recordings under statutory license prior to April 1, 2004. #####
+
+(a) *General.* This section prescribes the rules which govern reports of use of sound recordings by nonsubscription transmission services, preexisting satellite digital audio radio services, new subscription services, and business establishment services under section 112(e) or section 114(d)(2) of title 17 of the United States Code, or both, for the period from October 28, 1998, through March 31, 2004.
+
+(b) *Reports of use.* Reports of use filed by preexisting subscription services for transmissions made under 17 U.S.C. 114(f) pursuant to § 270.2 for use of sound recordings under section 112(e) or section 114(d)(2) of title 17 of the United States Code, or both, for the period October 28, 1998, through March 31, 2004, shall serve as the reports of use for nonsubscription transmission services, preexisting satellite digital audio radio services, new subscription services, and business establishment services for their use of sound recordings under section 112(e) or section 114(d)(2) of title 17 of the United States Code, or both, for the period from October 28, 1998, through March 31, 2004.
+
+(c) *Royalty Logic Inc.* If, in accordance with § 261.4(c), any Copyright Owners or Performers have provided timely notice to SoundExchange of an election to receive royalties from Royalty Logic, Inc. as a Designated Agent for the period October 28, 1998, through December 31, 2002, or any portion thereof, SoundExchange shall provide to RLI copies of the Reports of Use described in paragraph (b) of this section for that period or the applicable portion thereof.
+
+[69 FR 58262, Sept. 30, 2004]

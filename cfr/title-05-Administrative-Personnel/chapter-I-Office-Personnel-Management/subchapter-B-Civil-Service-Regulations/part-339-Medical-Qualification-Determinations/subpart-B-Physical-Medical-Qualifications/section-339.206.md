@@ -1,0 +1,3 @@
+##### § 339.206 Disqualification on the basis of medical history. #####
+
+A candidate may not be disqualified for any position solely on the basis of medical history. For positions with medical standards or physical requirements, or positions subject to medical evaluation programs, a history of a particular medical problem may result in medical disqualification only if the condition at issue is itself disqualifying, recurrence cannot medically be ruled out, and the duties of the position are such that a recurrence would pose a reasonable probability of substantial harm.

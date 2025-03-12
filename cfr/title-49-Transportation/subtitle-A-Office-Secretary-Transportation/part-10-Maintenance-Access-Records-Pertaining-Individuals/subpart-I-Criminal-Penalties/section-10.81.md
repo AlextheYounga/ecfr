@@ -1,0 +1,3 @@
+##### § 10.81 Improper disclosure. #####
+
+Any officer or employee of the Department who by virtue of his or her employment or official position, has possession of, or access to, agency records which contain individually identifiable information the disclosure of which is prohibited by this part and who knowing that disclosure of the specific material is so prohibited, willfully discloses the material in any manner to any person or agency not entitled to receive it, is guilty of a misdemeanor and fined not more than $5,000 in accordance with 5 U.S.C. 552a(i)(1).

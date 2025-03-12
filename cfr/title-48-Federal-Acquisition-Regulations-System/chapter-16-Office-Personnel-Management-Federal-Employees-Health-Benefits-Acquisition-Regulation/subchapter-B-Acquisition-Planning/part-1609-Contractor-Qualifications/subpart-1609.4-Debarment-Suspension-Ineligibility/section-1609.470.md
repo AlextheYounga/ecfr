@@ -1,0 +1,3 @@
+##### 1609.470 Notification of Debarment, Suspension, and Ineligibility. #####
+
+(FAR) 48 CFR, part 9, subpart 9.4 is supplemented as set out in the certification required in 1609.471 by converting the FAR “offeror's” certification at (FAR) 48 CFR 52.209-5 into a carrier's certification. This change reflects the FEHBP's statutory exemption from competitive bidding (5 U.S.C. 8902), which obviates the issuance of solicitations.

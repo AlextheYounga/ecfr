@@ -1,0 +1,3 @@
+##### § 59.209 Civil rights. #####
+
+Attention is called to the requirements of Title VI of the Civil Rights Act of 1964 (78 Stat. 252, 42 U.S.C. 2000d *et seq.*) and in particular section 601 of such Act which provides that no person in the United States shall, on the grounds of race, color, or national origin be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance. A regulation impelmenting such title VI, which applies to grants made under this part, has been issued by the Secretary of Health and Human Services with the approval of the President (45 CFR part 80).

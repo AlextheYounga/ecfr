@@ -1,0 +1,3 @@
+##### § 18.7 Selection and appointment of Environmental Protection Research Fellows. #####
+
+The Administrator or designee shall do the following: prescribe a suitable professional and personal fitness review and an examination of the applicant's qualifications; designate in writing persons to receive Environmental Protection Research fellowships; and establish procedures for the appointment of Environmental Protection Research fellows.

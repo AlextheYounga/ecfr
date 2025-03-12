@@ -1,0 +1,5 @@
+##### § 1.1065 Corrections and other changes in the International Register. #####
+
+(a) The effects of any correction in the International Register by the International Bureau pursuant to Rule 22 in a pending nonprovisional international design application shall be decided by the Office in accordance with the merits of each situation, subject to such other requirements as may be imposed. A patent issuing from an international design application may only be corrected in accordance with the provisions of title 35, United States Code, for correcting patents. Any correction under Rule 22 recorded by the International Bureau with respect to an abandoned nonprovisional international design application will generally not be acted upon by the Office and shall not be given effect unless otherwise indicated by the Office.
+
+(b) A recording of a partial change in ownership in the International Register pursuant to Rule 21(7) concerning a transfer of less than all designs shall not have effect in the United States.

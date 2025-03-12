@@ -1,0 +1,3 @@
+##### § 62.14590 What should I include in my waste management plan? #####
+
+A waste management plan must include consideration of the reduction or separation of waste-stream elements such as paper, cardboard, plastics, glass, batteries, or metals; or the use of recyclable materials. The plan must identify any additional waste management measures, and the source must implement those measures considered practical and feasible, based on the effectiveness of waste management measures already in place, the costs of additional measures, the emissions reductions expected to be achieved, and any other environmental or energy impacts they might have.

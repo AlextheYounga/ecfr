@@ -1,0 +1,3 @@
+##### 1847.7001 Contract clause. #####
+
+The contracting officer shall insert the clause at 1852.247-71, Protection of the Florida Manatee, in solicitations and contracts when deliveries or vessel operations, dockside work, or disassembly functions under the contract will involve use of waterways inhabited by manatees. The clause shall also be included in applicable subcontracts (including vendor deliveries).

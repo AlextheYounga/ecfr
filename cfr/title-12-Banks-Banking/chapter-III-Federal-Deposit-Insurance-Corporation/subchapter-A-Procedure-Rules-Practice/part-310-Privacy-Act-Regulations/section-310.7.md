@@ -1,0 +1,5 @@
+##### § 310.7 Request for amendment of record. #####
+
+The Corporation will maintain all records it uses in making any determination about any individual with such accuracy, relevance, timeliness and completeness as is reasonably necessary to assure fairness to the individual in the determination. An individual may request that the Corporation amend any portion of a record pertaining to that individual which the Corporation maintains in a designated system of records. Such a request should be submitted in writing to the Federal Deposit Insurance Corporation, Attn: FOIA/PA Group, 550 17th Street, NW., Washington, DC 20429 and should contain the individual's reason for requesting the amendment and a description of the record (including the name of the appropriate designated system and category thereof) sufficient to enable the Corporation to identify the particular record or portion thereof with respect to which amendment is sought.
+
+[76 FR 35966, June 21, 2011]

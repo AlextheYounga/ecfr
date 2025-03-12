@@ -1,0 +1,3 @@
+##### § 50.310 Confidentiality. #####
+
+Information in the records or in the possession of programs or projects which is acquired in connection with the requirements of this subpart may not be disclosed in a form which permits the identification of an individual without the individual's consent except as may be necessary for the health of the individual or as may be necessary for the Secretary to monitor the activities of those programs or projects. In any event, any disclosure shall be subject to appropriate safeguards which will minimize the likelihood of disclosures of personal information in identifiable form.

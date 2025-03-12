@@ -1,0 +1,3 @@
+##### § 71.109 Procurement document control. #####
+
+The licensee, certificate holder, and applicant for a CoC shall establish measures to assure that adequate quality is required in the documents for procurement of material, equipment, and services, whether purchased by the licensee, certificate holder, and applicant for a CoC or by its contractors or subcontractors. To the extent necessary, the licensee, certificate holder, and applicant for a CoC shall require contractors or subcontractors to provide a quality assurance program consistent with the applicable provisions of this part.

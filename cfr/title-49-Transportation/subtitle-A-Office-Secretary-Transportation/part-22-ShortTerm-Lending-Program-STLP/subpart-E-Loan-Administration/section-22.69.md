@@ -1,0 +1,3 @@
+##### § 22.69 Claim process. #####
+
+After reasonable efforts have been exhausted to collect on a delinquent debt, the Participating Lender may demand in writing that DOT OSDBU honor its loan guarantee, provided however that the maximum liability of DOT OSDBU shall not at any time exceed the guaranteed amount. The borrower must be in default for no less than thirty (30) days, and the Participating Lender must have made written demand for payment from the borrower, in accordance with the guarantee agreement.

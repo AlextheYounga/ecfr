@@ -1,0 +1,17 @@
+##### § 85a.8 Reporting of results of investigations of places of employment. #####
+
+(a)(1) Specific reports of investigations of each place of employment under this part, with identification of the place of employment, will be made available by NIOSH to the employer, owner, operator or agent in charge at the place of employment, with copies to the appropriate officials and Agencies notified pursuant to § 85a.4(a). Prior to release of such reports, a preliminary report will be sent by NIOSH to the employer, owner, operator or agent for review for trade secret information and technical inaccuracies that may inadvertently be presented in the report. If requested in writing, the data used to compile the reports will be made available by NIOSH to the employer, owner, operator or agent in charge at the place of employment, except that data will not be released in a form that is individually identifiable.
+
+(2) All specific reports of investigations of each place of employment under this part will be available to the public from the NIOSH Education and Information Division, 4676 Columbia Parkway, Cincinnati, Ohio 45226.
+
+(3) In certain instances, specific reports of investigations of each place of employment will not be prepared. In such instances, a closing conference at the place of employment will be conducted by the NIOSH authorized representatives and those individuals participating in the site visit to discuss the findings of the site visit and appropriate recommendations.
+
+(b)(1) Any specific findings of individual employee medical examinations, anthropometric measurements and functional tests will be released by NIOSH authorized representatives to the company physician, private physician, or other person only pursuant to the written authorization of the employee; otherwise, the specific findings and other personal records concerning individuals will be maintained in accordance with 45 CFR part 5b and section 3 of the Privacy Act of 1974 (5 U.S.C. 552a). Notice of all NIOSH systems of records as defined in 45 CFR 5b.1(n) as a result of the investigations of places of employment pursuant to this part will be published in the Federal Register under Notices of Systems of Records for the Department of Health and Human Services.
+
+(2) In cases where an employee shows positive significant medical findings, the employee and the physician(s) designated by the employee under § 85a.8(b)(1) will be immediately notified by NIOSH.
+
+(3) A summary of the findings of the examinations for each employee will be sent by NIOSH to the individual.
+
+(c) The findings of a total investigation generally will be disseminated as part of NIOSH criteria documents, NIOSH technical reports, NIOSH information packets, scientific journals, presentations at technical meetings, or in other similar manners. These findings of a total investigation will be presented in a manner which does not identify any specific place of employment; however, it should be noted that the specific reports of investigations of each place of employment under this part are subject to mandatory disclosure, upon request, under the provisions of the Freedom of Information Act (5 U.S.C. 552).
+
+[41 FR 45002, Oct. 14, 1976, as amended at 79 FR 2793, Jan. 16, 2014]

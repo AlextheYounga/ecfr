@@ -1,0 +1,3 @@
+##### § 6.402 Definitions. #####
+
+As used in this subpart, *environment* means the natural and physical environment and excludes social, economic and other environments; *global commons* is that area (land, air, water) outside the jurisdiction of any nation; and *responsible official* is either the EPA Assistant Administrator or Regional Administrator as appropriate for the particular EPA program. Also, an action *significantly* affects the environment if it does *significant* harm to the environment even though on balance the action may be beneficial to the environment. To the extent applicable, the responsible official shall address the considerations set forth in the CEQ regulations under 40 CFR 1508.27 in determining significant effect.

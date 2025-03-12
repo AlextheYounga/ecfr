@@ -1,0 +1,5 @@
+##### 1516.401-270 Definition. #####
+
+Acceptable quality level (AQL) as used in this subpart means the minimum percent of deliverables which are compliant with a given performance standard that would permit a contractor to become eligible for an award term incentive. Because the performance necessary for eligibility for the award term incentive may be in excess of that necessary for the Government acceptance of contract deliverables, the AQLs associated with the award term incentive may exceed the AQLs associated with the acceptance of contract deliverables. For example, under contract X, acceptable performance is 75 percent of reports submitted to the Government within five days. However, to be eligible for an award term incentive, 85 percent of reports must be submitted to the Government within five days.
+
+[73 FR 1980, Jan. 11, 2008]

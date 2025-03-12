@@ -1,0 +1,5 @@
+##### § 63.7332 How do I monitor and collect data to demonstrate continuous compliance? #####
+
+(a) Except for monitor malfunctions, associated repairs, and required quality assurance or control activities (including as applicable, calibration checks and required zero and span adjustments), you must monitor continuously (or collect data at all required intervals) at all times the affected source is operating.
+
+(b) You may not use data recorded during monitoring malfunctions, associated repairs, and required quality assurance or control activities in data averages and calculations used to report emission or operating levels, or in fulfilling a minimum data availability requirement, if applicable. You must use all the data collected during all other periods in assessing compliance. A monitoring malfunction is any sudden, infrequent, not reasonably preventable failure of the monitor to provide valid data. Monitoring failures that are caused in part by poor maintenance or careless operation are not malfunctions.

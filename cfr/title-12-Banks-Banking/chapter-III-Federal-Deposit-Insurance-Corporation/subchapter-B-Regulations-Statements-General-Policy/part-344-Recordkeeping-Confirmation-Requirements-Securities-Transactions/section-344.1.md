@@ -1,0 +1,5 @@
+##### § 344.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of this part is to ensure that purchasers of securities in transactions effected by FDIC-supervised institutions are provided adequate information regarding transactions. This part is also designed to ensure that FDIC-supervised institutions subject to this part maintain adequate records and controls with respect to the securities transactions they effect.
+
+(b) *Scope; general.* Any security transaction effected for a customer by an FDIC-supervised institution is subject to this part unless excepted by § 344.2. An FDIC-supervised institution effecting transactions in government securities is subject to the notification, recordkeeping, and policies and procedures requirements of this part. This part also applies to municipal securities transactions by an FDIC-supervised institution that is not registered as a “municipal securities dealer” with the Securities and Exchange Commission. See 15 U.S.C. 78c(a)(30) and 78o-4.

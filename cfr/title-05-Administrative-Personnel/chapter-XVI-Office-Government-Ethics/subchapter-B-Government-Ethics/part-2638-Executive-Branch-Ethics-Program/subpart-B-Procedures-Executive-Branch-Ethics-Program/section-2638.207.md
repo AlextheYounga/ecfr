@@ -1,0 +1,5 @@
+##### § 2638.207 Annual report on the agency's ethics program. #####
+
+(a) By February 1 of each year, an agency must file with the Office of Government Ethics, pursuant to section 402(e)(1) of the Act, a report containing such information about the agency's ethics program as is requested by the Office of Government Ethics. The report must be filed electronically and in a manner consistent with the instructions of the Office of Government Ethics.
+
+(b) In order to facilitate the collection of required information by agencies, the Office of Government Ethics will provide agencies with advance notice regarding the contents of the report prior to the beginning of the reporting period for information that would be expected to be tracked over the course of the reporting period. Otherwise, it will provide as much notice as practicable, taking into consideration the effort required to collect the information.

@@ -1,0 +1,9 @@
+##### § 63.5340 How do I determine the allowable HAP loss? #####
+
+(a) By the fifteenth of each month, you must determine the allowable HAP loss in pounds from your leather finishing operation for the previous month.
+
+(b) To determine the allowable HAP loss for your leather finishing operation, you must select the appropriate HAP emission limit, expressed in pounds of HAP loss per 1,000 square feet of leather processed, from Table 1 of this subpart, for each type of leather product process operation performed during the previous 12 months. Under the appropriate existing or new source column, select the HAP emission limit that corresponds to each type of product process operation performed during the previous 12 months. Next, determine the annual total of leather processed in 1,000's of square feet for each product process operation in accordance with § 63.5400. Then, multiply the annual total of leather processed in each product process operation by the corresponding HAP emission limit to determine the allowable HAP loss in pounds for the corresponding leather product process operation. Finally, sum the pounds of HAP loss from all leather product process operations performed in the previous 12 months. Equation 1 of this section illustrates the calculation of allowable HAP loss as follows:
+
+![](/graphics/er27fe02.004.gif)Where:Annual Total of Leather Processed = 1,000's of square feet of leather processed in the previous 12 months in product process operation “i”.HAP Emission Limit = From Table 1 of this subpart, the HAP emission limit in pounds of HAP loss per 1,000 square feet of leather processed for product process operation “i”. n = Number of leather product process operation types performed during the previous 12 months.
+
+(c) The resulting “allowable HAP loss” is used in Equation 1 of § 63.5330 to calculate your compliance ratio, as described in § 63.5330.

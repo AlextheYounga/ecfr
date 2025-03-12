@@ -1,0 +1,3 @@
+##### § 436.30 Applicability; description of the construction sand and gravel subcategory. #####
+
+The provisions of this subpart are applicable to the mining and the processing of sand and gravel for construction or fill uses, except that on-board processing of dredged sand and gravel which is subject to the provisions of 33 CFR part 230 of this chapter will not be governed by the provisions of this subpart.

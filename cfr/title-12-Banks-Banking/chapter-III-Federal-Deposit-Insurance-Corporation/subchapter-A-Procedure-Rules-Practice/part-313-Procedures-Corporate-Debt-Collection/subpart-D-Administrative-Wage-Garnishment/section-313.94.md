@@ -1,0 +1,3 @@
+##### § 313.94 Certification by employer. #####
+
+Along with the withholding order, the FDIC will send to the employer a certification in a form prescribed by the Secretary of the Treasury. The employer shall complete and return the certification to the FDIC within the time frame prescribed in the instructions to the form. The certification will address matters such as information about the debtor's employment status and disposable pay available for withholding.

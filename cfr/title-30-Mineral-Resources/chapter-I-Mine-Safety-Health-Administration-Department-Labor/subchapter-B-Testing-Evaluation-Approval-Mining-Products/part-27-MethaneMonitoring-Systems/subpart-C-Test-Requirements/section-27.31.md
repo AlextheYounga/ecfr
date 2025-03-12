@@ -1,0 +1,3 @@
+##### § 27.31 Testing methods. #####
+
+A methane-monitoring system shall be tested by MSHA to determine its functional performance, and its explosion-proof and other safety characteristics. Since all possible designs, arrangements, or combinations cannot be foreseen, MSHA reserves the right to make any tests or to place any limitations on equipment, or components or subassemblies thereof, not specifically covered herein, to determine and assure the safety of such equipment with regard to explosion and fire hazards.

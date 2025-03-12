@@ -1,0 +1,3 @@
+##### 1315.303 Responsibilities. #####
+
+The contracting officer is designated as the source selection authority for competitive negotiated acquisitions of less than $10,000,000. The source selection authority for large dollar competitive negotiated acquisitions of $10,000,000 or more is the head of the operating unit. The head of the operating unit may re-delegate the authority to a Department manager who is at an organizational level above the contracting officer and who has sufficient rank and professional experience to effectively carry out the functions of a source selection authority.

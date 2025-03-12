@@ -1,0 +1,3 @@
+##### § 255.22 Establishing regional boundaries. #####
+
+Under section 4006(a) of the Act the formal means for identifying regional boundaries are to be regulations promulgated by the Governor. Where the identification of areas has already been made by State legislation or other means which have legal stature equivalent to the required regulations, and where notification and consultation have occurred pursuant to §§ 255.20 and 255.21 of this part, such legislation may be used in lieu of those regulations. Where substantial disagreement persists between the Governor and local officials, normal State administrative and judicial appeals procedures are available to resolve such conflict.

@@ -1,0 +1,5 @@
+##### § 1602.10 Notice of court-ordered and emergency disclosures. #####
+
+(a) *Court-ordered disclosures.* When a record pertaining to an individual is required to be disclosed by a court order, the CSB will make reasonable efforts to provide notice of this to the individual. Notice will be given within a reasonable time after the CSB's receipt of the order—except that in a case in which the order is not a matter of public record, the notice will be given only after the order becomes public. This notice will be mailed to the individual's last known address and will contain a copy of the order and a description of the information disclosed.
+
+(b) *Emergency disclosures.* Upon disclosing a record pertaining to an individual made under compelling circumstances affecting health or safety, the CSB will notify that individual of the disclosure. This notice will be mailed to the individual's last known address and will state the nature of the information disclosed; the person, organization, or agency to which it was disclosed; the date of disclosure; and the compelling circumstances justifying the disclosure.

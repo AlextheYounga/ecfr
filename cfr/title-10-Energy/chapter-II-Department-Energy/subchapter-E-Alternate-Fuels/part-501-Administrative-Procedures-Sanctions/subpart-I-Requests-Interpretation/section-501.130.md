@@ -1,0 +1,3 @@
+##### § 501.130 Purpose and scope. #####
+
+This subpart establishes procedures for filing a formal request for and the issuance of an interpretation of a rule, order or other action by DOE. Any response, whether oral or written, to a general inquiry, or to other than a formal written request for interpretation filed with DOE, is not an interpretation and merely provides general information that may not be relied upon in any proceeding to determine compliance with the applicable requirements of FUA.

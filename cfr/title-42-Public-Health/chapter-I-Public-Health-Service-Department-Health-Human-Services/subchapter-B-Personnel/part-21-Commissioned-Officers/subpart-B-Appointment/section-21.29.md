@@ -1,0 +1,5 @@
+##### § 21.29 Eligibility; grades above senior assistant grade. #####
+
+Every candidate for examination for appointment in grades above that of senior assistant shall meet the requirements for eligibility for examination for appointment in the grade of senior assistant. Candidates for examination for appointment in the full, senior, or director grade shall have completed at least 7, 14, or 15 additional years, respectively, of postgraduate professional training for experience. When officers of the Service are unavailable for the performance of duties requiring highly specialized training and experience in special fields related to public health, the Surgeon General may specify that a candidate for appointment to the Regular Corps with such highly specialized training and experience shall be examined for appointment in the full or senior grade upon completion of at least 5 or 12 additional years, respectively, of postgraduate professional training or experience, except that the total number of such appointments during a fiscal year shall not exceed three.
+
+[21 FR 9806, Dec. 12, 1956. Redesignated at 25 FR 5184, June 10, 1960]

@@ -1,0 +1,75 @@
+##### § 665.27 Procedures during testing. #####
+
+(a) Upon receipt of a bus approved for testing the operator of the Bus Testing Facility shall:
+
+(1) Inspect the bus design configuration and compare it to the configuration documented in the test request;
+
+(2) Determine if the bus, when loaded to Gross Weight, does not exceed its Gross Vehicle Weight Rating, Gross Axle Weight Ratings, or maximum tire load ratings;
+
+(3) Determine if the bus is capable of negotiating the durability test track at curb weight, seated load weight, and Gross Vehicle Weight;
+
+(4) Determine if the bus is capable of performing the Fuel Economy and Emissions Test duty cycles within the established standards for speed deviation.
+
+(b) The operator shall present the results obtained from the activities of 665.27(a) and present them to the bus manufacturer and the FTA Bus Testing Program Manager for review prior to initiating testing using the Bus testing program funds. FTA will provide a written response within five (5) business days to authorize the start of testing or to request clarification for any discrepancies noted from the activities of 665.27(a). Testing can commence after five (5) business days if FTA does not provide a response.
+
+(c) The operator shall perform all maintenance and repairs on the test vehicle, consistent with the manufacturer's specifications, unless the operator determines that the nature of the maintenance or repair is best performed by the manufacturer under the operator's supervision.
+
+(d) The manufacturer shall be permitted to observe all tests. The manufacturer shall not provide maintenance or service unless requested to do so by the operator.
+
+(e) The operator shall investigate each occurrence of unauthorized maintenance and repairs and determine the potential impact to the validity of the test results. Tests where the results could have been impacted must be repeated at the manufacturer's expense.
+
+(f) The operator shall perform all modifications on the test vehicle, consistent with the manufacturer's specifications, unless the operator determines that the nature of the modification is best performed by the manufacturer under the operator's supervision. All vehicle modifications performed after the test has started will first require review and approval by FTA. If the modification is determined to be a major change, some or all of the tests already completed shall be repeated or extended at FTA's discretion.
+
+(g) The operator shall halt testing after any occurrence of unapproved, unauthorized, or unsupervised test vehicle modifications. Following an occurrence of unapproved or unsupervised test vehicle modifications, the vehicle manufacturer shall submit a new test request to FTA that addresses all the requirements in 665.11 to reenter the Bus testing program.
+
+(h) The operator shall perform eight categories of tests on new bus models. The eight tests and their corresponding performance standards are described in the following paragraphs.
+
+(1) *Maintainability test.* The Maintainability test shall include bus servicing, preventive maintenance, inspection, and repair. It shall also include the removal and reinstallation of the engine and drive-train components that would be expected to require replacement during the bus's normal life cycle. Much of the maintainability data should be obtained during the Bus Durability Test. All servicing, preventive maintenance, and repair actions shall be recorded and reported. These actions shall be performed by test facility staff, although manufacturers shall be allowed to maintain a representative on-site during the testing. Test facility staff may require a manufacturer to provide vehicle servicing or repair under the supervision of the facility staff. Since the operator may not be familiar with the detailed design of all new bus models that are tested, tests to determine the time and skill required for removing and reinstalling an engine, a transmission, or other major propulsion system components may require advice from the bus manufacturer. All routine and corrective maintenance shall be carried out by the operator in accordance with the manufacturer's specifications.
+
+(i) The Maintainability Test Report shall include the frequency, personnel hours, and replacement parts or supplies required for each action during the test. The accessibility of selected components and other observations that could be important to a bus purchaser shall be included in the report.
+
+(ii) The performance standard for Maintainability is that no greater than 125 hours of total unscheduled maintenance shall be accumulated over the execution of a full test.
+
+(2) *Reliability test.* Reliability shall not be a separate test, but shall be addressed by recording all bus failures and breakdowns during all other testing. The detected bus failures, repair time, and the actions required to return the bus to operation shall be presented in the report. The performance standard for Reliability is that the vehicle under test experience no more than one uncorrected Class 1 failure and two uncorrected Class 2 failures over the execution of a full test. Class 1 failures are addressed in the Safety Test, below. An uncorrected Class 2 failure is a failure mode not addressed by a design or component modification that would cause a transit vehicle to be unable to complete its transit route and require towing or on-route repairs. A failure is considered corrected when a design or component modification is validated through sufficient remaining or additional reliability testing in which the failure does not reoccur.
+
+(3) *Safety test.* The Safety Test shall consist of a Handling and Stability Test, a Braking Performance Test, and a review of the Class 1 reliability failures that occurred during the test. The Handling and Stability Test shall be an obstacle avoidance double-lane change test performed on a smooth and level test track. The lane change course will be set up using pylons to mark off two 12 foot center to center lanes with two 100 foot lane change areas 100 feet apart. Bus speed shall be held constant throughout a given test run. Individual test runs shall be made at increasing speeds up to a specified maximum or until the bus can no longer be operated safely over the course, whichever speed is lower. Both left- and right-hand lane changes shall be tested. The performance standard is that the test vehicle can safely negotiate and remain within the lane change test course at a speed of no less than 45 mph.
+
+(i) The functionality and performance of the service, regenerative (if applicable), and parking brake systems shall be evaluated at the test track. The test bus shall be subjected to a series of brake stops from specified speeds on high, low, and split-friction surfaces. The parking brake shall be evaluated with the bus parked facing both up and down a steep grade. There are three performance standards for braking. The stopping distance from a speed of 45 mph on a high friction surface shall satisfy the bus stopping distance requirements of FMVSS 105 or 121 as applicable. The bus shall remain within a standard 12-foot lane width during split coefficient brake stops. The parking brake shall hold the test vehicle stationary on a 20 percent grade facing up and down the grade for a period of 5 minutes.
+
+(ii) A review of all the Class 1 failures that occurred during the test shall be conducted as part of the Safety Test. Class 1 failures include those failures that, when they occur, could result in a loss of vehicle control; in serious injury to the driver, passengers, pedestrians, or other motorists; and in property damage or loss due to collision or fire. The performance standard is that at the completion of testing with no uncorrected Class 1 failure modes. A failure is considered corrected when a design or component modification is validated through sufficient remaining or additional Reliability Tests in which the failure does not reoccur over a number of miles equal to or greater than the additional failure up to 100% of the durability test mileage for the service life category of the tested bus.
+
+(4) *Performance test.* The Performance Test shall measure the maximum acceleration, speed, and gradeability capability of the test vehicle. In determining the transit vehicle's maximum acceleration and speed, the bus shall be accelerated at full throttle from rest until it achieves its maximum speed on a level roadway. The performance standard for acceleration is that the maximum time that the test vehicle requires to achieve 30 mph is 18 seconds on a level grade. The gradeability test of the test vehicle shall be calculated based on the data measured on a level grade during the Acceleration Test. The performance standard for the gradeability test is that the test vehicle achieves a sustained speed of at least 40 mph on a 2.5 percent grade and a sustained speed of at least 10 mph on a 10 percent grade.
+
+(5) *Structural integrity tests.* Two complementary Structural Integrity Tests shall be performed. Structural Strength and Distortion Tests shall be performed at the Bus Testing Center, and the Structural Durability Test shall be performed at the test track.
+
+(i) *Structural strength and distortion tests.* (1) The bus shall be loaded to GVW, with one wheel on top of a curb and then in a pothole. This test shall be repeated for all four wheels. The test verifies:
+
+(i) Normal operation of the steering mechanism and;
+
+(ii) Operability of all passenger doors, passenger escape mechanisms, windows, and service doors. A water leak test shall be conducted in each suspension travel condition. The performance standard shall be that all vehicle passenger exits remain operational throughout the test.
+
+(2) Using a load-equalizing towing sling, a static tension load equal to 1.2 times the curb weight shall be applied to the bus towing fixtures (front and rear). The load shall be removed and the two eyes and adjoining structure inspected for damages or permanent deformations. The performance standard shall be that no permanent deformation is experienced at static loads up to 1.2 times the vehicle curb weight.
+
+(3) The bus shall be towed at CW with a heavy wrecker truck for 5 miles at 20 mph and then inspected for structural damage or permanent deformation. The performance standard shall be that the vehicle is towable with a standard commercial vehicle wrecker without experiencing any permanent damage to the vehicle.
+
+(4) With the bus at CW, probable damages and clearance issues due to tire deflating and hydraulic jacking shall be assessed. The performance standard shall be that the vehicle is capable of being lifted with a standard commercial vehicle hydraulic jack.
+
+(5) With the bus at CW, possible damages or deformation associated with lifting the bus on a two post hoist system or supporting it on jack stands shall be assessed. The performance standard shall be that the vehicle is capable of being supported by jack stands rated for the vehicle's weight.
+
+(i) *Structural durability test.* The Structural Durability Test shall be performed on the durability course at the test track, simulating twenty-five percent of the vehicle's normal service life. The bus structure shall be inspected regularly during the test, and the mileage and identification of any structural anomalies and failures shall be reported in the Reliability Test. There shall be two performance standards for the Durability Test, one to address the vehicle frame and body structure and one to address the bus propulsion system. The performance standard for the vehicle frame and body structure shall be that there are no uncorrected failure modes of the vehicle frame and body structure at the completion of the full vehicle test. The performance standard for the vehicle propulsion system is that there are no uncorrected powertrain failure modes at the completion of a full test.
+
+(ii) [Reserved]
+
+(6) *Fuel economy test.* The Fuel Economy Test shall be conducted using duty cycles that simulate a diverse range of transit service operating profiles. This test shall measure the fuel economy or fuel consumption of the vehicle and present the results in metrics that minimize the number of unit conversions for mass, volume, and energy.
+
+(i) The Fuel Economy Test shall be designed only to enable FTA recipients to compare the relative fuel economy of buses operating at a consistent loading condition on the same set of typical transit driving cycles. The results of this test are not directly comparable to fuel economy estimates by other agencies, such as the National Highway Traffic Safety Administration (NHTSA) or U.S. Environmental Protection Agency (EPA) or for other purposes.
+
+(ii) The performance standard for fuel economy shall be the prevailing model year fuel consumption standards for heavy-duty vocational vehicles outlined in the NHTSA's Medium and Heavy-Duty Fuel Efficiency Program (49 CFR part 535).
+
+(7) *Noise test.* The Noise Test shall measure interior noise and vibration while the bus is idling (or in a comparable operating mode) and driving over smooth and irregular road surfaces, and also shall measure the transmission of exterior noise to the interior while the bus is not running. The exterior noise shall be measured as the bus is operated past a stationary measurement instrument. There shall be two minimum noise performance standards: One to address the maximum interior noise during vehicle acceleration from a stop, and one to address the maximum exterior noise during vehicle acceleration from a stop. The performance standard for interior noise while the vehicle accelerates from 0-35 mph shall be no greater than 80 decibels A-weighted. The performance standard for exterior noise while the vehicle accelerates from 0-35 miles per hour shall be no greater than 83 decibels A-weighted.
+
+(8) *Emissions test.* The Emissions Test shall measure tailpipe emissions of those exhaust constituents regulated by the United States EPA for transit bus emissions, plus carbon dioxide (CO2) and methane (CH4), as the bus is operated over specific repeatable transit vehicle driving cycles. The Emissions test shall be conducted using an emission testing laboratory equipped with a chassis dynamometer capable of both absorbing and applying power.
+
+(i) The Emissions Test is not a certification test, and is designed only to enable FTA recipients to relatively compare the emissions of buses operating on the same set of typical transit driving cycles. The results of this test are not directly comparable to emissions measurements reported to other agencies, such as the EPA, or for other purposes.
+
+(ii) The emissions performance standard shall be the prevailing EPA emissions requirements for heavy-duty vehicles outlined in 40 CFR part 86 and 40 CFR part 1037.

@@ -1,0 +1,3 @@
+##### § 1230.1 Purpose. #####
+
+The purpose of this part is to implement requirements relating to the supervisory authority of FHFA under the Safety and Soundness Act with respect to compensation provided by the regulated entities and the Office of Finance to their executive officers. This part also establishes a structured process for submission of relevant information by the regulated entities and the Office of Finance, in order to facilitate and enhance the efficiency of FHFA's oversight of executive compensation.

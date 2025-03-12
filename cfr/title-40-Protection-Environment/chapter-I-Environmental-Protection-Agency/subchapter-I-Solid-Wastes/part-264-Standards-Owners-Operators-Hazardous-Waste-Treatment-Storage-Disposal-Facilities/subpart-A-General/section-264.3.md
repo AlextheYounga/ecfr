@@ -1,0 +1,5 @@
+##### § 264.3 Relationship to interim status standards. #####
+
+A facility owner or operator who has fully complied with the requirements for interim status—as defined in section 3005(e) of RCRA and regulations under § 270.70 of this chapter—must comply with the regulations specified in part 265 of this chapter in lieu of the regulations in this part, until final administrative disposition of his permit application is made, except as provided under 40 CFR part 264 subpart S.
+
+[*Comment:* As stated in section 3005(a) of RCRA, after the effective date of regulations under that section, i.e., parts 270 and 124 of this chapter, the treatment, storage, or disposal of hazardous waste is prohibited except in accordance with a permit. Section 3005(e) of RCRA provides for the continued operation of an existing facility which meets certain conditions until final administrative disposition of the owner's or operator's permit application is made.][45 FR 33221, May 19, 1980, as amended at 48 FR 14294, Apr. 1, 1983; 58 FR 8683, Feb. 16, 1993]

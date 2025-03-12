@@ -1,0 +1,9 @@
+##### § 2429.12 Service of process and papers by the Authority. #####
+
+(a) *Methods of service.* Notices of hearings, decisions and orders of Regional Directors, decisions and recommended orders of Administrative Law Judges, decisions of the Authority, complaints, amended complaints, withdrawals of complaints, written rulings on motions, and all other papers required by this subchapter to be issued by the Authority, the General Counsel, Regional Directors, Hearing Officers, Administrative Law Judges, and Regional Directors when not acting as a party under part 2423 of this subchapter, shall be served personally, by first-class mail, by facsimile transmission, or by certified mail. Where facsimile equipment is available, rulings on motions; information pertaining to prehearing disclosure, conferences, orders, or hearing dates, and locations; information pertaining to subpoenas; and other similar or time sensitive matters may be served by facsimile transmission.
+
+(b) *Upon whom served.* All papers required to be served under paragraph (a) of this section shall be served upon all counsel of record or other designated representative(s) of parties, and upon parties not so represented. Service upon such counsel or representative shall constitute service upon the party, but a copy also shall be transmitted to the party.
+
+(c) *Proof of service.* Proof of service shall be verified by certificate of the individual serving the papers describing the manner of such service. When service is by mail, the date of service shall be the day when the matter served is deposited in the United States mail. When service is by facsimile, the date of service shall be the date the facsimile transmission is transmitted and, when necessary, verified by a dated facsimile record of transmission.
+
+[45 FR 3516, Jan. 17, 1980, as amended at 48 FR 40194, Sept. 6, 1983; 62 FR 40923, July 31, 1997]

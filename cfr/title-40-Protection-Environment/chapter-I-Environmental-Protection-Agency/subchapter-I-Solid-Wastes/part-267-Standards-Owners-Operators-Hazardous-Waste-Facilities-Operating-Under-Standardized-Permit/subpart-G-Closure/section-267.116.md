@@ -1,0 +1,3 @@
+##### § 267.116 What must I do with contaminated equipment, structure, and soils? #####
+
+You must properly dispose of or decontaminate all contaminated equipment, structures, and soils during the partial and final closure periods. By removing any hazardous wastes or hazardous constituents during partial and final closure, you may become a generator of hazardous waste and must handle that waste following all applicable requirements of 40 CFR part 262.

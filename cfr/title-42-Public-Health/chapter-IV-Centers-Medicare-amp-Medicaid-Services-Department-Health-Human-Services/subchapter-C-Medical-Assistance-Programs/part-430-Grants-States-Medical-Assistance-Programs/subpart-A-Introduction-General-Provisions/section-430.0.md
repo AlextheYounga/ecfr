@@ -1,0 +1,3 @@
+##### § 430.0 Program description. #####
+
+Title XIX of the Social Security Act, enacted in 1965, authorizes Federal grants to States for medical assistance to low-income persons who are age 65 or over, blind, disabled, or members of families with dependent children or qualified pregnant women or children. The program is jointly financed by the Federal and State governments and administered by States. Within broad Federal rules, each State decides eligible groups, types and range of services, payment levels for services, and administrative and operating procedures. Payments for services are made directly by the State to the individuals or entities that furnish the services.

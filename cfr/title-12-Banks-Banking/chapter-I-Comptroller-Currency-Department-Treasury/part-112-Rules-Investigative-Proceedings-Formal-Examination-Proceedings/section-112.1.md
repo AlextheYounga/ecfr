@@ -1,0 +1,3 @@
+##### § 112.1 Scope of part. #####
+
+This part prescribes rules of practice and procedure applicable to the conduct of formal examination proceedings with respect to Federal savings associations and their affiliates under section 5(d)(1)(B) of the HOLA, as amended, 12 U.S.C. 1464(d)(1)(B) or section 7(j)(15) of the Federal Deposit Insurance Act, as amended, 12 U.S.C. 1817(j)(15) (“FDIA”), section 8(n) of the FDIA, 12 U.S.C. 1818(n), or section 10(c) of the FDIA, 12 U.S.C. 1820(c). This part does not apply to adjudicatory proceedings as to which hearings are required by statute, the rules for which are contained in part 109 of this chapter.

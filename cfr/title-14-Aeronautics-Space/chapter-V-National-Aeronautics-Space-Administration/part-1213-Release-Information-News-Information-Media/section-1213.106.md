@@ -1,0 +1,9 @@
+##### § 1213.106 Preventing release of classified information to the media. #####
+
+(a) Release of classified information in any form (e.g., documents, through interviews, audio/visual) to the news media is prohibited. The disclosure of classified information to unauthorized individuals may be cause for prosecution and/or disciplinary action against the NASA employee involved. Ignorance of NASA policy and procedures regarding classified information does not release a NASA employee from responsibility for preventing any unauthorized release. See NPR 1600.1, Chapter 5, Section 5.23 for internal NASA guidance on management of classified information. For further guidance that applies to all agencies, see Executive Order 12958, as amended, “Classified National Security Information,” and its implementing directive at 32 CFR parts 2001 and 2004.
+
+(b) Any attempt by news media representatives to obtain classified information will be reported through the Headquarters Office of Public Affairs or Installation Public Affairs Office to the Installation Security Office and Office of Security and Program Protection.
+
+(c) For classified operations and/or programs managed under the auspices of a DD Form 254, *“Contract Security Classification Specification,”* all inquiries concerning this activity will be responded to by the appropriate PAO official designated in Item 12 on the DD Form 254.
+
+(d) For classified operations and/or information owned by other Government agencies (e.g., DOD, DOE), all inquiries will be referred to the appropriate Agency Public Affairs Officer as established in written agreements.

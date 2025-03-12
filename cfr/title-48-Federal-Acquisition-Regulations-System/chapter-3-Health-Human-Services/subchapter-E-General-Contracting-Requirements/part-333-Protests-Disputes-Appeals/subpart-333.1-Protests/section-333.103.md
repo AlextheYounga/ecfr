@@ -1,0 +1,3 @@
+##### 333.103 Protests to the agency. #####
+
+(f)(1) Protests to the contracting officer must be in writing. The contracting officer is authorized to make the determination, using the criteria in Federal Acquisition Regulation 33.104(b), to award a contract notwithstanding the protest after obtaining the concurrence of the contracting activity's protest control officer and consulting with the appropriate legal office.

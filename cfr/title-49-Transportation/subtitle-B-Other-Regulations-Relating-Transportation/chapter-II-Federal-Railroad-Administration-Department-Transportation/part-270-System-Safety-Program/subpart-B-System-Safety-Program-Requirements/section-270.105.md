@@ -1,0 +1,19 @@
+##### § 270.105 Discovery and admission as evidence of certain information. #####
+
+(a) *Protected information.* Any information compiled or collected after August 14, 2017, solely for the purpose of planning, implementing, or evaluating a system safety program under this part shall not be subject to discovery, admitted into evidence, or considered for other purposes in a Federal or State court proceedings for damages involving personal injury, wrongful death, or property damage. For purposes of this section -
+
+(1) “Information” includes plans, reports, documents, surveys, schedules, lists, or data, and specifically includes a railroad's analysis of its safety risks under § 270.103(q)(1) and a railroad's statement of mitigation measures under § 270.103(q)(2); and
+
+(2) “Solely” means that a railroad originally compiled or collected the information for the exclusive purpose of planning, implementing, or evaluating a system safety program under this part. Information compiled or collected for any other purpose is not protected, even if the railroad also uses that information for a system safety program. “Solely” also means that a railroad continues to use that information only for its system safety program. If a railroad subsequently uses for any other purpose information that was initially compiled or collected for a system safety program, this section does not protect that information to the extent that it is used for the non-system safety program purpose. The use of that information within the railroad's system safety program, however, remains protected. This section does not protect information that is required to be compiled or collected pursuant to any other provision of law or regulation.
+
+(b) *Non-protected information.* This section does not affect the discovery, admissibility, or consideration for other purposes in a Federal or State court proceedings for damages involving personal injury, wrongful death, or property damage of information compiled or collected for a purpose other than that specifically identified in paragraph (a) of this section. Such information shall continue to be discoverable, admissible, or considered for other purposes in a Federal or State court proceedings for damages involving personal injury, wrongful death, or property damage if it was discoverable, admissible, or considered for other purposes in a Federal or State court proceedings for damages involving personal injury, wrongful death, or property damage on or before August 14, 2017. Specifically, the types of information not affected by this section include:
+
+(1) Information compiled or collected on or before August 14, 2017;
+
+(2) Information compiled or collected on or before August 14, 2017, and that continues to be compiled or collected, even if used to plan, implement, or evaluate a railroad's system safety program; or
+
+(3) Information that is compiled or collected after August 14, 2017, and is compiled or collected for a purpose other than that identified in paragraph (a) of this section.
+
+(c) *Information protected by other law or regulation.* Nothing in this section shall affect or abridge in any way any other protection of information provided by another provision of law or regulation. Any such provision of law or regulation applies independently of the protections provided by this section.
+
+(d) *Preemption.* To the extent that State discovery rules and sunshine laws would require disclosure of information protected by this section in a Federal or State court proceedings for damages involving personal injury, wrongful death, or property damage, those rules and laws are preempted.

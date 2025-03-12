@@ -1,0 +1,3 @@
+##### § 410.30 Applicability; description of the low water use processing subcategory. #####
+
+The provisions of this subpart are applicable to process wastewater discharges resulting from the following types of textile mills: yarn manufacture, yarn texturizing, unfinished fabric manufacture, fabric coating, fabric laminating, tire cord and fabric dipping, and carpet tufting and carpet backing. Rubberized or rubber coated fabrics regulated by 40 CFR part 428 are specifically excluded.

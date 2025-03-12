@@ -1,0 +1,3 @@
+##### § 77.704-7 Protective equipment; inspection. #####
+
+Each person shall visually inspect protective equipment and clothing provided him in connection with work on high-voltage surface lines before using such equipment and clothing, and any equipment or clothing containing any defect or damage shall be discarded and replaced with proper protective equipment or clothing prior to the performance of any electrical work on such lines.

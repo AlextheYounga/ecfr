@@ -1,0 +1,15 @@
+##### 352.270-4b Protection of Human Subjects. #####
+
+As prescribed in HHSAR 370.304(a), the Contracting Officer shall insert the following clause:
+
+Protection of Human Subjects (DEC 2015)
+
+(a) The Contractor agrees that the rights and welfare of human subjects involved in research under this contract shall be protected in accordance with 45 CFR part 46 and with the Contractor's current Federal-wide Assurance (FWA) on file with the Office for Human Research Protections (OHRP), Department of Health and Human Services. The Contractor further agrees to provide certification at least annually that the Institutional Review Board has reviewed and approved the procedures, which involve human subjects in accordance with 45 CFR part 46 and the Assurance of Compliance.
+
+(b) The Contractor shall bear full responsibility for the performance of all work and services involving the use of human subjects under this contract and shall ensure that work is conducted in a proper manner and as safely as is feasible. The parties hereto agree that the Contractor retains the right to control and direct the performance of all work under this contract. Nothing in this contract shall create an agency or employee relationship between the Government and the Contractor, or any subcontractor, agent or employee of the Contractor, or any other person, organization, institution, or group of any kind whatsoever. The Contractor agrees that it has entered into this contract and will discharge its obligations, duties, and undertakings and the work pursuant thereto, whether requiring professional judgment or otherwise, as an independent Contractor without creating liability on the part of the Government for the acts of the Contractor or its employees.
+
+(c) Contractors involving other agencies or institutions in activities considered to be engaged in research involving human subjects must ensure that such other agencies or institutions obtain their own FWA if they are routinely engaged in research involving human subjects or ensure that such agencies or institutions are covered by the Contractors' FWA via designation as agents of the institution or via individual investigator agreements (see OHRP Web site at: *http://www.hhs.gov/ohrp/policy/guidanceonalternativetofwa.pdf*).
+
+(d) If at any time during the performance of this contract the Contractor is not in compliance with any of the requirements and or standards stated in paragraphs (a) and (b) above, the Contracting Officer may immediately suspend, in whole or in part, work and further payments under this contract until the Contractor corrects the noncompliance. The Contracting Officer may communicate the notice of suspension by telephone with confirmation in writing. If the Contractor fails to complete corrective action within the period of time designated in the Contracting Officer's written notice of suspension, the Contracting Officer may, after consultation with OHRP, terminate this contract in whole or in part.
+
+(End of clause)

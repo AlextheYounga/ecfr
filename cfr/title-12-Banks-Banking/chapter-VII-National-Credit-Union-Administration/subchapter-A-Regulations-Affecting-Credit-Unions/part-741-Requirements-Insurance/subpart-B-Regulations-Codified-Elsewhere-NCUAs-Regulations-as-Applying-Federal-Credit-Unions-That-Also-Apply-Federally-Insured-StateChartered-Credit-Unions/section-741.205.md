@@ -1,0 +1,5 @@
+##### § 741.205 Reporting requirements for credit unions that are newly chartered or in troubled condition. #####
+
+Any federally insured credit union chartered for less than 2 years or any credit union defined to be in troubled condition as set forth in § 701.14(b)(3) of this chapter must adhere to the requirements stated in § 701.14(c) of this chapter concerning the prior notice and NCUA review. Federally insured state-chartered credit unions must submit required information to both the appropriate NCUA Regional Director and their state supervisor. NCUA will consult with the state supervisor before making its determination. NCUA will notify the state supervisor of its approval/disapproval no later than the time that it notifies the affected individual.
+
+[60 FR 58504, Nov. 28, 1995, as amended at 78 FR 4029, Jan. 18, 2013]

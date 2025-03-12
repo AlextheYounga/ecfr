@@ -1,0 +1,5 @@
+##### § 1068.335 Penalties for violations. #####
+
+(a) *All imported engines/equipment.* Unless you comply with the provisions of this subpart, importation of nonconforming engines/equipment violates sections 203 and 213(d) of the Clean Air Act (42 U.S.C. 7522 and 7547(d)). You may then have to export the engines/equipment, pay civil penalties, or both. U.S. Customs and Border Protection may seize unlawfully imported engines and equipment.
+
+(b) *Temporarily imported engines/equipment.* If you do not comply with the provisions of this subpart for a temporary exemption under § 1068.325, you may forfeit the total amount of the bond in addition to the sanctions we identify in paragraph (a) of this section. We will consider an engine or piece of equipment to be exported if it has been destroyed or delivered to U.S. Customs and Border Protection for export or other disposition under applicable Customs laws and regulations. EPA or U.S. Customs and Border Protection may offer you a grace period to allow you to export temporarily exempted engines/equipment without penalty after the exemption expires.

@@ -1,0 +1,5 @@
+##### § 310.4 What abbreviations should I know? #####
+
+The following abbreviations appear in this part:
+
+CERCLA—The Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (Pub. L. 96-510, 42 U.S.C. 9601-9675), as amended by the Superfund Amendments and Reauthorization Act of 1986, also known as Superfund.EPA or the Agency—Environmental Protection Agency.EPCRA—Emergency Planning and Community Right-to-Know Act of 1986 (Pub. L. 99-499, 42 U.S.C. 11000-11050).LEPC—Local Emergency Planning Committee.NCP—National Oil and Hazardous Substances Pollution Contingency Plan also known as the National Contingency Plan (40 CFR part 300).NRC—National Response Center.OMB—Office of Management and Budget.PRP—Potentially Responsible Party.SARA—The Superfund Amendments and Reauthorization Act of 1986 (Pub. L. 99-499, 42 U.S.C. 9601).SERC—State Emergency Response Commission.USCG—U.S. Coast Guard.

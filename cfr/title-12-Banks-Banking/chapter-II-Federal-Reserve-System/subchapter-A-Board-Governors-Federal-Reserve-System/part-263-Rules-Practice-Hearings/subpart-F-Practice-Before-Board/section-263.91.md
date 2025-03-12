@@ -1,0 +1,3 @@
+##### § 263.91 Censure, suspension or debarment. #####
+
+The Board may censure an individual or suspend or debar such individual from practice before the Board if he or she engages, or has engaged, in conduct warranting sanctions as set forth in § 263.94; refuses to comply with the rules and regulations in this part; or with intent to defraud in any manner, willfully and knowingly deceives, misleads, or threatens any client or prospective client. The suspension or debarment of an individual shall be initiated only upon a finding by the Board that the conduct that forms the basis for the disciplinary action is egregious.

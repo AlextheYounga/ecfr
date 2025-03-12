@@ -1,0 +1,3 @@
+##### § 1.995 Third party requester's participation rights preserved in merged proceeding. #####
+
+When a third party requester is involved in one or more proceedings, including an *inter partes* reexamination proceeding, the merger of such proceedings will be accomplished so as to preserve the third party requester's right to participate to the extent specifically provided for in these regulations. In merged proceedings involving different requesters, any paper filed by one party in the merged proceeding shall be served on all other parties of the merged proceeding.

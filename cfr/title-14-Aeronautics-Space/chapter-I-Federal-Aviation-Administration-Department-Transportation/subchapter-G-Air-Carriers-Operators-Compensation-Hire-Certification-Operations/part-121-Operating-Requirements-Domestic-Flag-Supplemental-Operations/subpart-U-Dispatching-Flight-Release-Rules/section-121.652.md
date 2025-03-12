@@ -1,0 +1,9 @@
+##### § 121.652 Landing weather minimums: IFR: All certificate holders. #####
+
+(a) If the pilot in command of an airplane has not served 100 hours as pilot in command in operations under this part in the type of airplane he is operating, the MDA or DA/DH and visibility landing minimums in the certificate holder's operations specification for regular, provisional, or refueling airports are increased by 100 feet and one-half mile (or the RVR equivalent). The MDA or DA/DH and visibility minimums need not be increased above those applicable to the airport when used as an alternate airport, but in no event may the landing minimums be less than 300 and 1. However, a Pilot in command employed by a certificate holder conducting operations in large aircraft under part 135 of this chapter, may credit flight time acquired in operations conducted for that operator under part 91 in the same type airplane for up to 50 percent of the 100 hours of pilot in command experience required by this paragraph.
+
+(b) The 100 hours of pilot in command experience required by paragraph (a) of this section may be reduced (not to exceed 50 percent) by substituting one landing in operations under this part in the type of airplane for 1 required hour of pilot in command experience, if the pilot has at least 100 hours as pilot in command of another type airplane in operations under this part.
+
+(c) Category II minimums and the sliding scale when authorized in the certificate holder's operations specifications do not apply until the pilot in command subject to paragraph (a) of this section meets the requirements of that paragraph in the type of airplane he is operating.
+
+[Doc. No. 7594, 33 FR 10843, July 31, 1968, as amended by Amdt. 121-143, 43 FR 22642, May 25, 1978; Amdt. 121-253, 61 FR 2615, Jan. 26, 1996; Amdt. 121-333, 72 FR 31682, June 7, 2007]

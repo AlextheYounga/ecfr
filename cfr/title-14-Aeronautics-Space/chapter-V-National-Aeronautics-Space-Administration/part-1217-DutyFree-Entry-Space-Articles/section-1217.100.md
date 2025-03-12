@@ -1,0 +1,3 @@
+##### § 1217.100 Scope. #####
+
+This part sets forth policy and procedures with respect to the use of the NASA's authority to certify to the U.S. Commissioner of Customs duty-free entry of articles into the United States for the use of NASA or for implementation of a NASA international program, including articles that will be launched into space, spare parts for such articles, ground support equipment, or uniquely associated equipment for use in connection with a NASA international program or launch service agreement. This part also sets forth NASA's procedures with respect to the use of its authority to bring foreign-owned articles and articles from space into the customs territory of the United States, and describes the nonimport status of such articles.

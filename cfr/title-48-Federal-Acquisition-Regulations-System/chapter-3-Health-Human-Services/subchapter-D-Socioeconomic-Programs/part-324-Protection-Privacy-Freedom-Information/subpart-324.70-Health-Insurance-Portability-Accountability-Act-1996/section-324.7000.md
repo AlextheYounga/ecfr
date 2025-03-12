@@ -1,0 +1,3 @@
+##### 324.7000 Scope of subpart. #####
+
+All individually identifiable health information that is Protected Health Information (PHI), as defined in 45 CFR 160.103 shall be administered in accordance with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) implementing regulations at 45 CFR parts 160 and 164 (the HIPAA Privacy, Security, and Breach Notification Rules). The term “HIPAA” is used in this part to refer to title II, subtitle F of the HIPAA statute, at part C of title XI of the Social Security Act, 42 U.S.C. 1320d *et seq.,* section 264 of HIPAA, subtitle D of title XIII of the American Recovery and Reinvestment Act of 2009, and regulations under such provisions.

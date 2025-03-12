@@ -1,0 +1,27 @@
+##### § 745.2 General principles applicable in determining insurance of accounts. #####
+
+(a) *General.* This part provides for determination by the Board of the amount of members' insured accounts. The rules for determining the insurance coverage of accounts maintained by members in the same or different rights and capacities in the same insured credit union are set forth in the following provisions of this part. The appendix provides examples of the application of these rules to various factual situations. While the provisions of this part govern in determining share insurance coverage, to the extent local law enters into a share insurance determination, the local law of the jurisdiction in which the insured credit union's principal office is located will control over the local law of other jurisdictions where the insured credit union has offices or service facilities.
+
+(b) The regulations in this part in no way are to be interpreted to authorize any type of account that is not authorized by Federal law or regulation or State law or regulation or by the bylaws of a particular credit union. The purpose is to be as inclusive as possible of all situations.
+
+(c) *Records.* (1) The account records of the insured credit union shall be conclusive as to the existence of any relationship pursuant to which the funds in the account are deposited and on which a claim for insurance coverage is founded. Examples would be trustee, agent, custodian, or executor. No claim for insurance based on such a relationship will be recognized in the absence of such disclosure.
+
+(2) If the account records of an insured credit union disclose the existence of a relationship which may provide a basis for additional insurance, the details of the relationship and the interest of other parties in the account must be ascertainable either from the records of the credit union or the records of the member maintained in good faith and in the regular course of business.
+
+(3) The account records of an insured credit union in connection with a trust account shall disclose the name of both the settlor (grantor) and the trustee of the trust and shall contain an account signature card executed by the trustee.
+
+(4) The interests of the co-owners of a joint account shall be deemed equal, unless otherwise stated on the insured credit union's records in the case of a tenancy in common.
+
+(d) *Valuation of trust interests.* (1) Trust interests in the same trust deposited in the same account will be separately insured if the value of the trust interest is capable of determination, without evaluation of contingencies, except for those covered by the present worth tables and rules of calculation for their use set forth in § 20.2031-7 of the Federal Estate Tax Regulations (26 CFR 20.2031-7).
+
+(2) In connection with any trust in which certain trust interests are not capable of evaluation in accordance with the foregoing rule, payment by the Board to the trustee with respect to all such trust interests shall not exceed the SMSIA.
+
+(3) Each trust interest in any trust established by two or more settlors shall be deemed to be derived from each settlor pro rata to his contribution to the trust.
+
+(4) The term “trust interest” means the interest of a beneficiary in an irrevocable express trust, whether created by trust instrument or statute, but does not include any interest retained by the settlor.
+
+(e) *Continuation of insurance coverage following the death of a member.* The death of a member will not affect the member's share insurance coverage for a period of six months following death unless the member's share accounts are restructured in that time period. If the accounts are restructured during the six-month grace period, or upon the expiration of the six months if not restructured, the share insurance coverage will be provided on the basis of actual ownership of the accounts in accordance with the provisions of this part. The operation of this grace period, however, will not result in a reduction of coverage.
+
+(f) *Continuation of separate share insurance coverage after merger of insured credit unions.* Whenever the liability to pay the member accounts of one or more insured credit unions is assumed by another insured credit union, whether by merger, consolidation, other statutory assumption or contract: The insured status of the credit unions whose member account liability has been assumed terminates, for purposes of this section, on the date of receipt by NCUA of satisfactory evidence of the assumption; and the separate insurance of member accounts assumed continues for six months from the date the assumption takes effect or, in the case of a share certificate, the earliest maturity date after the six-month period. In the case of a share certificate that matures within the six-month grace period that is renewed at the same dollar amount, either with or without accrued dividends having been added to the principal amount, and for the same term as the original share certificate, the separate insurance applies to the renewed share certificate until the first maturity date after the six-month period. A share certificate that matures within the six-month grace period that is renewed on any other basis, or that is not renewed, is separately insured only until the end of the six-month grace period.
+
+[51 FR 37560, Oct. 23, 1986, as amended at 65 FR 34924, June 1, 2000; 68 FR 75114, Dec. 30, 2003; 71 FR 14635, Mar. 23, 2006]

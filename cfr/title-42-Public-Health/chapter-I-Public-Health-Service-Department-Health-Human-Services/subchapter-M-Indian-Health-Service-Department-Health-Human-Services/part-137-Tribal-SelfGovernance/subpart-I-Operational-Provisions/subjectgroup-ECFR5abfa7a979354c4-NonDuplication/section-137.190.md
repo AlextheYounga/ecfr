@@ -1,0 +1,3 @@
+##### § 137.190 Is a Self-Governance Tribe that receives funds under Title V also entitled to contract under section 102 of the Act [25 U.S.C. 450(f)] for such funds? #####
+
+For the period for which, and to the extent to which, funding is provided under the compact or funding agreement, the Self-Governance Tribe is not entitled to contract with the Secretary for the same funds or PSFA under section 102 of the Act [25 U.S.C. 450f]. Such Self-Governance Tribe is eligible for new programs on the same basis as other Indian Tribes.

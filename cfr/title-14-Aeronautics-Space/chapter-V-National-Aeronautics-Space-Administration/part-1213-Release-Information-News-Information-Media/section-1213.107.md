@@ -1,0 +1,9 @@
+##### § 1213.107 Preventing unauthorized release of sensitive but unclassified (SBU) information/material to the news media. #####
+
+(a) All NASA SBU information requires accountability and approval for release. Release of SBU information to unauthorized personnel is prohibited. Unauthorized release of SBU information may result in prosecution and/or disciplinary action. Ignorance of NASA policy and procedures regarding SBU information does not release a NASA employee from responsibility for unauthorized release. See NPR 1600.1, Chapter 5, Section 5.24 for guidance on identification, marking, accountability and release of NASA SBU information.
+
+(b) Examples of SBU information include: proprietary information of others provided to NASA under nondisclosure or confidentiality agreement; source selection and bid and proposal information; information subject to export control under the International Traffic in Arms Regulations (ITAR) or the Export Administration Regulations (EAR); information subject to the Privacy Act of 1974; predecisional materials such as national space policy not yet publicly released; pending reorganization plans or sensitive travel itineraries; and information that could constitute an indicator of U.S. Government intentions, capabilities, operations, or activities or otherwise threaten operations security.
+
+(c) Upon request for access to information/material deemed SBU, coordination must be made with the information/material owner to determine if the information/material may be released. Other organizations that play a part in SBU information identification, accountability, and release (e.g., General Counsel, External Relations, Procurement) must be consulted for assistance and/or concurrence prior to release.
+
+(d) Requests for SBU information from other Government agencies must be referred to the NASA program or other office responsible for handling the information as SBU.

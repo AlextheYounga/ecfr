@@ -1,0 +1,3 @@
+##### § 1209.12 Filing of agency reports. #####
+
+When an employee who has applied for a transfer to another position in an Executive agency under 5 U.S.C. 3352 asks the agency head to review a rejection of his or her application for transfer, the agency head must complete the review and provide a written statement of findings to the employee and the Clerk of the Board within 30 days after receiving the request.

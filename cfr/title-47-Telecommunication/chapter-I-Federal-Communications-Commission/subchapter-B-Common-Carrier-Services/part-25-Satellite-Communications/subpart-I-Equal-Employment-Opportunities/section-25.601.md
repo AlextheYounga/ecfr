@@ -1,0 +1,5 @@
+##### § 25.601 Equal employment opportunities. #####
+
+Notwithstanding other EEO provisions within these rules, an entity that uses an owned or leased Fixed-Satellite Service or Direct Broadcast Satellite Service or 17/24 GHz Broadcasting-Satellite Service facility (operating under this part) to provide video programming directly to the public on a subscription basis must comply with the equal employment opportunity requirements set forth in part 76, subpart E, of this chapter, if such entity exercises control (as defined in part 76, subpart E, of this chapter) over the video programming it distributes. Notwithstanding other EEO provisions within these rules, a licensee or permittee of a direct broadcast satellite station operating as a broadcaster, and a licensee or permittee in the satellite DARS service, must comply with the equal employment opportunity requirements set forth in 47 CFR part 73.
+
+[72 FR 50033, Aug. 29, 2007, as amended at 78 FR 8431, Feb. 6, 2013; 81 FR 10122, Feb. 29, 2016]

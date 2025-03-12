@@ -1,0 +1,5 @@
+##### § 158.345 Preliminary analysis. #####
+
+(a) If the product is produced by an integrated system, the applicant must provide a preliminary analysis of each technical grade of active ingredient contained in the product to identify all impurities present at 0. 1 percent or greater of the technical grade of the active ingredient. The preliminary analysis should be conducted at the point in the production process after which no further chemical reactions designed to produce or purify the substances are intended.
+
+(b) Based on the preliminary analysis, a statement of the composition of the technical grade of the active ingredient must be provided. If the technical grade of the active ingredient cannot be isolated, a statement of the composition of the practical equivalent of the technical grade of the active ingredient must be submitted.

@@ -1,0 +1,5 @@
+##### § 127.13 Requirements regarding quality assurance and quality control. #####
+
+(a) Responsibility for the quality of the information provided electronically in compliance with this part by the NPDES permittees, facilities, and entities subject to this part [see § 127.1(a)] rests with the owners and operators of those facilities or entities. NPDES permittees, facilities, and entities subject to this part must use quality assurance and quality control procedures to ensure the quality of the NPDES information submitted in compliance with this part.
+
+(b) NPDES permittees, facilities, and entities subject to this part must electronically submit their NPDES information in compliance with the data quality requirements specified in § 127.14. NPDES permittees, facilities, and entities subject to this part must electronically submit their NPDES information unless a waiver is granted in compliance with this part (see §§ 127.15 and 127.24).

@@ -1,0 +1,5 @@
+##### § 22.723 Secondary site-by-site authorizations. #####
+
+Authorizations for new facilities (including new sites and additional channel pairs for existing sites) in the Rural Radiotelephone Service (including BETRS facilities) may be granted after May 12, 1997 only on the condition that such authorizations shall be secondary to any existing or future co-channel paging geographic area authorization in the Paging and Radiotelephone Service or the Rural Radiotelephone Service. If the paging geographic area licensee notifies the Rural Radiotelephone Service licensee that operation of a co-channel secondary facility must be discontinued because it may cause interference to existing or planned facilities, the Rural Radiotelephone Service licensee must discontinue operation of that facility on the particular channel pair involved no later than six months after such notice.
+
+[62 FR 11636, Mar. 12, 1997]

@@ -1,0 +1,7 @@
+##### § 251.1 Authority, purpose, and other authorities. #####
+
+(a) *Authority.* This part is issued by the Board of Governors of the Federal Reserve System under sections 5 and 14 of the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1844 and 1852); section 8 of the Federal Deposit Insurance Act, as amended (12 U.S.C. 1818); the International Banking Act of 1978, as amended (12 U.S.C. 3101 et seq.); and the recommendations of the Financial Stability Oversight Council (76 Federal Register 6756) (February 8, 2011).
+
+(b) *Purpose.* This subpart implements section 14 of the Bank Holding Company Act, which generally prohibits a financial company from merging or consolidating with, acquiring all or substantially all of the assets of, or otherwise acquiring control of, another company if the resulting company's consolidated liabilities would exceed 10 percent of the aggregate consolidated liabilities of all financial companies.
+
+(c) *Other authorities.* Nothing in this part limits the authority of the Board under any other provision of law or regulation to prohibit or limit a financial company from merging or consolidating with, acquiring all or substantially all of the assets of, or otherwise acquiring control of, another company.

@@ -1,0 +1,3 @@
+##### § 270.105 Who must sign the application and any required reports for a RAP? #####
+
+Both the owner and the operator must sign the RAP application and any required reports according to § 270.11(a), (b), and (c). In the application, both the owner and the operator must also make the certification required under § 270.11(d)(1). However, the owner may choose the alternative certification under § 270.11(d)(2) if the operator certifies under § 270.11(d)(1).

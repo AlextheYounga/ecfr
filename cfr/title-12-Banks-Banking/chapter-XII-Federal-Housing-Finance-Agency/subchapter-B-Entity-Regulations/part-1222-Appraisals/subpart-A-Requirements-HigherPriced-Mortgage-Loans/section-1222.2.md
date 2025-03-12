@@ -1,0 +1,3 @@
+##### § 1222.2 Reservation of authority. #####
+
+Nothing in this subpart A shall be read to limit the authority of the Director of the Federal Housing Finance Agency to take supervisory or enforcement action, including action to address unsafe and unsound practices or conditions, or violations of law. In addition, nothing in this subpart A shall be read to limit the authority of the Director to impose requirements for any purchase of higher-priced mortgage loans by an Enterprise or a Federal Home Loan Bank, or acceptance of higher-priced mortgage loans as collateral to secure advances by a Federal Home Loan Bank.

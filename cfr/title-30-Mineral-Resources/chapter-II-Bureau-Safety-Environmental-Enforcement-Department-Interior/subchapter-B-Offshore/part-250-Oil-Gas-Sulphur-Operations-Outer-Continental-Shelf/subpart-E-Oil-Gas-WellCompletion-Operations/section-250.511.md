@@ -1,0 +1,3 @@
+##### § 250.511 Traveling-block safety device. #####
+
+All units being used for well-completion operations that have both a traveling block and a crown block must be equipped with a safety device that is designed to prevent the traveling block from striking the crown block. The device must be checked for proper operation weekly and after each drill-line slipping operation. The results of the operational check must be entered in the operations log.

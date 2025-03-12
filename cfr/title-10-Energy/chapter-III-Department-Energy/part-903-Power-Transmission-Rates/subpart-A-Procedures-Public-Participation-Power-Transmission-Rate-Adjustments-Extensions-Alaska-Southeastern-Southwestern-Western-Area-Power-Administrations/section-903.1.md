@@ -1,0 +1,9 @@
+##### § 903.1 Purpose and scope; application. #####
+
+(a) Except as otherwise provided herein, these regulations establish procedures for the development of power and transmission rates by the Administrators of the Alaska, Southeastern, Southwestern, and Western Area Power Administrations; for the providing of opportunities for interested members of the public to participate in the development of such rates; for the confirmation, approval, and placement in effect on an interim basis by the Deputy Secretary of the Department of Energy of such rates; and for the submission of such rates to the Federal Energy Regulatory Commission with or without prior interim approval. These regulations supplement Delegation Order No. 0204-108 of the Secretary of Energy, which was published in the Federal Register and became effective on December 14, 1983 (48 FR 55664), with respect to the activities of the Deputy Secretary and the Administrators.
+
+(b) These procedures shall apply to all power and transmission rate adjustment proceedings for the Power Marketing Administrations (PMAs) which are commenced after these regulations become effective or were in process on the effective date of these regulations, but for which the FERC had not issued any substantive orders on or before December 14, 1983. These procedures supersede “Procedures for Public Participation in Power and Transmission Rate Adjustments and Extensions for the Alaska, Southeastern, Southwestern, and Western Area Power Administrations” published in 45 FR 86983 (December 31, 1980) and amended at 46 FR 6864 (January 22, 1981) and 46 FR 25427 (May 7, 1981).
+
+(c) Except to the extent deemed appropriate by the Administrator in accordance with applicable law, these procedures do not apply to rates for short term sales of capacity, energy, or transmission service.
+
+[50 FR 37837, Sept. 18, 1985; 50 FR 48075, Nov. 21, 1985]

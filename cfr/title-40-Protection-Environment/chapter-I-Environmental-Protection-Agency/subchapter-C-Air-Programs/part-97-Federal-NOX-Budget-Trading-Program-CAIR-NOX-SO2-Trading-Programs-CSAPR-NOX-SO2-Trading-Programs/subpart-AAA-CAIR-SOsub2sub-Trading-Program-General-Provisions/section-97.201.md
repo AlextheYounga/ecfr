@@ -1,0 +1,3 @@
+##### § 97.201 Purpose. #####
+
+This subpart and subparts BBB through III set forth the general provisions and the designated representative, permitting, allowance, monitoring, and opt-in provisions for the Federal Clean Air Interstate Rule (CAIR) SO2 Trading Program, under section 110 of the Clean Air Act and § 52.36 of this chapter, as a means of mitigating interstate transport of fine particulates and sulfur dioxide.

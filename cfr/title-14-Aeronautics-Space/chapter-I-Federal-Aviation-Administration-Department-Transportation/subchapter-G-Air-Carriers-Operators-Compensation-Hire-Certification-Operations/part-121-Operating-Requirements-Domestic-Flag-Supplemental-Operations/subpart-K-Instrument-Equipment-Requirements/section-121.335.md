@@ -1,0 +1,5 @@
+##### § 121.335 Equipment standards. #####
+
+(a) *Reciprocating engine powered airplanes.* The oxygen apparatus, the minimum rates of oxygen flow, and the supply of oxygen necessary to comply with § 121.327 must meet the standards established in section 4b.651 of the Civil Air Regulations as in effect on July 20, 1950, except that if the certificate holder shows full compliance with those standards to be impracticable, the Administrator may authorize any change in those standards that he finds will provide an equivalent level of safety.
+
+(b) *Turbine engine powered airplanes.* The oxygen apparatus, the minimum rate of oxygen flow, and the supply of oxygen necessary to comply with §§ 121.329 and 121.333 must meet the standards established in section 4b.651 of the Civil Air Regulations as in effect on September 1, 1958, except that if the certificate holder shows full compliance with those standards to be impracticable, the Administrator may authorize any changes in those standards that he finds will provide an equivalent level of safety.

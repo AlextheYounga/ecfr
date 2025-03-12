@@ -1,0 +1,5 @@
+##### § 74.12 Conduct of tests; demonstrations. #####
+
+(a) Prior to the issuance of a certificate of approval, only personnel of MSHA and NIOSH, representatives of the applicant, and such other persons as may be mutually agreed upon may observe the tests conducted. MSHA and NIOSH shall hold as confidential, and shall not disclose, principles of patentable features, nor shall MSHA or NIOSH disclose any details of the applicant's drawings or specifications or other related material.
+
+(b) After the issuance of a certificate of approval, MSHA or NIOSH will conduct such public demonstrations and tests of the approved device as MSHA or NIOSH deem appropriate, and may reveal the protocols and results of testing considered for the approval of the device. The conduct of any additional investigations, tests, and demonstrations shall be under the sole direction of MSHA and NIOSH and any other persons shall be present only as observers.

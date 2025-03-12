@@ -1,0 +1,7 @@
+##### § 50.12 National primary and secondary ambient air quality standards for lead. #####
+
+(a) National primary and secondary ambient air quality standards for lead and its compounds, measured as elemental lead by a reference method based on appendix G to this part, or by an equivalent method, are: 1.5 micrograms per cubic meter, maximum arithmetic mean averaged over a calendar quarter.
+
+(b) The standards set forth in this section will remain applicable to all areas notwithstanding the promulgation of lead national ambient air quality standards (NAAQS) in § 50.16. The lead NAAQS set forth in this section will no longer apply to an area one year after the effective date of the designation of that area, pursuant to section 107 of the Clean Air Act, for the lead NAAQS set forth in § 50.16; except that for areas designated nonattainment for the lead NAAQS set forth in this section as of the effective date of § 50.16, the lead NAAQS set forth in this section will apply until that area submits, pursuant to section 191 of the Clean Air Act, and EPA approves, an implementation plan providing for attainment and/or maintenance of the lead NAAQS set forth in § 50.16.
+
+(Secs. 109, 301(a) Clean Air Act as amended (42 U.S.C. 7409, 7601(a)))[43 FR 46258, Oct. 5, 1978, as amended at 73 FR 67051, Nov. 12, 2008]

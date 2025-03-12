@@ -1,0 +1,3 @@
+##### § 190.329 Adoption of final rules. #####
+
+Final rules are prepared by representatives of the Office of Pipeline Safety and the Office of the Chief Counsel. The regulation is then submitted to the Administrator for consideration. If the Administrator adopts the regulation, it is published in the Federal Register, unless all persons subject to it are named and are personally served with a copy of it.

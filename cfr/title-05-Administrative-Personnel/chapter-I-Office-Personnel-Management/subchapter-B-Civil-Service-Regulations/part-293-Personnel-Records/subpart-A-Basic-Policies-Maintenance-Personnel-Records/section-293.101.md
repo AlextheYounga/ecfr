@@ -1,0 +1,5 @@
+##### § 293.101 Purpose and scope. #####
+
+(a) This subpart sets forth basic policies governing the creation, development, maintenance, processing, use, dissemination, and safeguarding of personnel records which the Office of Personnel Management requires agencies to maintain in the personnel management or personnel policy setting process.
+
+(b) Agencies in the Executive Branch of the Federal Government are subject to specific Office of Personnel Management recordkeeping requirements to varying degrees, pursuant to statute, Office regulation, or formal agreements between the Office and agencies. This subpart applies to any department or independent establishment in the Executive Branch of the Federal Government, including a government corporation or Government controlled corporation, except those specifically excluded from Office recordkeeping requirements by statute, Office regulation, or formal agreement between the Office and that agency.

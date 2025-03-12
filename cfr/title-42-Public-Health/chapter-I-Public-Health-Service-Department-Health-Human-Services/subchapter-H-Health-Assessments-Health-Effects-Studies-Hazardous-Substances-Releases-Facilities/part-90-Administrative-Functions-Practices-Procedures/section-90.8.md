@@ -1,0 +1,7 @@
+##### § 90.8 Conduct of health assessments and health effects studies. #####
+
+(a) Any interested person or persons may submit data or information to ATSDR for it to consider in its conduct of a health assessment or a health effects study. In performing a health assessment or a health effects study, ATSDR will consider data and information it has independently generated or received from other parties, such as EPA, other Federal agencies, State and local governmental agencies, businesses, citizen organizations, and community groups.
+
+(b) ATSDR may determine it is necessary to conduct a site visit in connection with a health assessment or health effects study. The ATSDR representative may allow the participation of any person in the site visit which he or she, at his or her discretion, determines will aid in the conduct of the health assessment or health effects study.
+
+(c) In the event that the information necessary to perform a health assessment or health effects study is not readily available from other sources, ATSDR may arrange for sampling or additional data gathering at a facility or release for the limited purpose of determining the existence of current or potential health problems.

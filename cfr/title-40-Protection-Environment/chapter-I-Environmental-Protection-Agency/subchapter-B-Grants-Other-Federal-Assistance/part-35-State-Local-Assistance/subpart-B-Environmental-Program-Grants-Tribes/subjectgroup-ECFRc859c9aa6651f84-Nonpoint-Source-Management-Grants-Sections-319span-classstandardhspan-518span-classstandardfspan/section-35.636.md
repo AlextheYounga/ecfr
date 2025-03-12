@@ -1,0 +1,3 @@
+##### § 35.636 Maintenance of effort. #####
+
+To receive funds under section 319 in any fiscal year, a Tribe or each member of an Intertribal Consortium must agree that the Tribe or each member of the Intertribal Consortium will maintain its aggregate expenditures from all other sources for programs for controlling nonpoint source pollution and improving the quality of the Tribe's or the Intertribal Consortium's members' waters at or above the average level of such expenditures in Fiscal Years 1985 and 1986.

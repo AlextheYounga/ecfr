@@ -1,0 +1,43 @@
+##### § 90.813 Partitioned licenses and disaggregated spectrum. #####
+
+(a) *Eligibility.* Parties seeking approval for partitioning and disaggregation shall request an authorization for partial assignment of a license pursuant to § 1.948 of this chapter.
+
+(b) *Technical standards* - (1) *Partitioning.* In the case of partitioning, requests for authorization for partial assignment of a license must include, as attachments, a description of the partitioned service area and a calculation of the population of the partitioned service area and the licensed geographic service area. The partitioned service area shall be defined by coordinate points at every 3 degrees along the partitioned service area unless an FCC recognized service area is utilized (*i.e.,* Major Trading Area, Basic Trading Area, Metropolitan Service Area, Rural Service Area or Economic Area) or county lines are followed. The geographic coordinates must be specified in degrees, minutes, and seconds to the nearest second of latitude and longitude and must be based upon the 1927 North American Datum (NAD27). Applicants may supply geographical coordinates based on 1983 North American Datum (NAD83) in addition to those required (NAD27). In the case where an FCC recognized service area or county lines are utilized, applicants need only list the specific area(s) (through use of FCC designations or county names) that constitute the partitioned area.
+
+(2) *Disaggregation.* Spectrum may be disaggregated in any amount.
+
+(3) *Combined partitioning and disaggregation.* The Commission will consider requests for partial assignment of licenses that propose combinations of partitioning and disaggregation.
+
+(c) *Installment payments* - (1) *Apportioning the balance on installment payment plans.* When a winning bidder elects to pay for its license through an installment payment plan pursuant to § 90.812, and partitions its licensed area or disaggregates spectrum to another party, the outstanding balance owed by the licensee on its installment payment plan (including accrued and unpaid interest) shall be apportioned between the licensee and partitionee or disaggregatee. Both parties will be responsible for paying their proportionate share of the outstanding balance to the U.S. Treasury. In the case of partitioning, the balance shall be apportioned based upon the ratio of the population of the partitioned area to the population of the entire original license area calculated based upon the most recent census data. In the case of disaggregation, the balance shall be apportioned based upon the ratio of the amount of spectrum disaggregated to the amount of spectrum allocated to the licensed area.
+
+(2) *Parties not qualified for installment payment plans.* (i) The partitionee or disaggregatee shall, as a condition of the approval of the partial assignment application, pay its entire pro rata amount within 30 days of Public Notice conditionally granting the partial assignment application. Failure to meet this condition will result in a rescission of the grant of the partial assignment application.
+
+(ii) The licensee shall be permitted to continue to pay its pro rata share of the outstanding balance and shall receive new financing documents (promissory note, security agreement) with a revised payment obligation, based on the remaining amount of time on the original installment payment schedule. These financing documents will replace the licensee's existing financing documents which shall be marked “superseded” and returned to the licensee upon receipt of the new financing documents. The original interest rate, established pursuant to § 1.2110(g)(3)(i) of this chapter at the time of the grant of the initial license in the market, shall continue to be applied to the licensee's portion of the remaining government obligation. The Commission will require, as a further condition to approval of the partial assignment application, that the licensee execute and return to the U.S. Treasury the new financing documents within 30 days of the Public Notice conditionally granting the partial assignment application. Failure to meet this condition will result in the automatic cancellation of the grant of the partial assignment application.
+
+(iii) A default on the licensee's payment obligation will only affect the licensee's portion of the market.
+
+(3) *Parties qualified for installment payment plans.* (i) Where both parties to a partitioning or disaggregation agreement qualify for installment payments, the partitionee or disaggregatee will be permitted to make installment payments on its portion of the remaining government obligation, as calculated according to paragraph (d)(1) of this section.
+
+(ii) Each party will be required, as a condition to approval of the partial assignment application, to execute separate financing documents (promissory note, security agreement) agreeing to pay their pro rata portion of the balance due (including accrued and unpaid interest) based upon the installment payment terms for which they qualify under the rules. The financing documents must be returned to the U.S. Treasury within thirty (30) days of the Public Notice conditionally granting the partial assignment application. Failure by either party to meet this condition will result in the automatic cancellation of the grant of the partial assignment application. The interest rate, established pursuant to § 1.2110(g)(3)(i) of this chapter at the time of the grant of the initial license in the market, shall continue to be applied to both parties' portion of the balance due. Each party will receive a license for their portion of the partitioned market or disaggregated spectrum.
+
+(iii) A default on an obligation will only affect that portion of the market area held by the defaulting party.
+
+(iv) Partitionees and disaggregatees that qualify for installment payment plans may elect to pay some of their pro rata portion of the balance due in a lump sum payment to the U.S. Treasury and to pay the remaining portion of the balance due pursuant to an installment payment plan.
+
+(d) *License term.* The license term for a partitioned license area and for disaggregated spectrum shall be the remainder of the original licensee's license term as provided for in § 90.665(a).
+
+(e) *Construction requirements* - (1) *Requirements for partitioning.* Parties seeking authority to partition must meet one of the following construction requirements:
+
+(i) The partitionee may certify that it will satisfy the applicable construction requirements set forth in § 90.665 for the partitioned license area; or
+
+(ii) The original licensee may certify that it has or will meet the construction requirements set forth in § 90.665 for the entire market. In that case, the partitionee must only meet the requirements for renewal of its license for the partitioned license area.
+
+(iii) Applications requesting partial assignments of license for partitioning must include a certification by each geographic area 800 MHz SMR licenses in the lower 230 channels will be awarded to small entities, as that term is defined by the SBA.
+
+(iv) Partitionees must submit supporting documents showing compliance with the respective construction requirements within the appropriate time frames set forth in § 90.665.
+
+(v) Failure by any partitionee to meet its respective performance requirements will result in the automatic cancellation of the partitioned or disaggregated license without further Commission action.
+
+(2) *Requirements for disaggregation.* Parties seeking authority to disaggregate must submit with their partial assignment application a certification signed by both parties stating which of the parties will be responsible for meeting the construction requirements for the market as set forth in § 90.665. Parties may agree to share responsibility for meeting the construction requirements. Parties that accept responsibility for meeting the construction requirements and later fail to do so will be subject to license forfeiture without further Commission action.
+
+[62 FR 41219, July 31, 1997, as amended at 67 FR 45376, July 9, 2002; 68 FR 43001, July 21, 2003]

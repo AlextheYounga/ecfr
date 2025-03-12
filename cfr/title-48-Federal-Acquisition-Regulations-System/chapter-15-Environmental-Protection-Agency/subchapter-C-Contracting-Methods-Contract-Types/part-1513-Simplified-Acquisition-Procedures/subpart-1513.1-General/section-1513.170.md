@@ -1,0 +1,1 @@
+##### 1513.170 Competition exceptions and justification for sole source simplified acquisition procedures. #####

@@ -1,0 +1,3 @@
+##### § 707.11 Drugs for which testing is performed. #####
+
+Where testing is performed under this part, at a minimum, contractors will be required to test for the use of the following drugs or classes of drugs: marijuana; cocaine; opiates; phencyclidine; and amphetamines. However, when conducting reasonable suspicion or occurrence testing, the contractor may test for any drug listed in Schedules I or II of the Controlled Substances Act.

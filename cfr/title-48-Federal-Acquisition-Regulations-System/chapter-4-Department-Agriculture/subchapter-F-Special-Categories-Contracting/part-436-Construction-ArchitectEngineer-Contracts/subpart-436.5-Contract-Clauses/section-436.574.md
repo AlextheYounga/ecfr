@@ -1,0 +1,3 @@
+##### 436.574 Control of erosion, sedimentation, and pollution. #####
+
+The contracting officer shall insert the clause at 452.236-74, Control of Erosion, Sedimentation and Pollution, if there is a need for applying environmental controls in the performance of work. Use of the clause is optional in service contracts for on-the-ground e.g., reforestation, silvicultural, land stabilization, or other agricultural-related projects.

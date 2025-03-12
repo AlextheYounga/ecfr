@@ -1,0 +1,3 @@
+##### § 75.1712-1 Availability of surface bathing facilities; change rooms; and sanitary facilities. #####
+
+Except where a waiver has been granted pursuant to the provisions of § 75.1712-4, each operator of an underground coal mine shall on and after December 30, 1970, provide bathing facilities, clothing change rooms, and sanitary facilities, as hereinafter prescribed, for the use of the miners at the mine.

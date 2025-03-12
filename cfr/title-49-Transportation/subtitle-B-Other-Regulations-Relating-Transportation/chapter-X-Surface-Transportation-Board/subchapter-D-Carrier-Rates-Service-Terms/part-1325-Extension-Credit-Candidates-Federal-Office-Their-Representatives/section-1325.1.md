@@ -1,0 +1,3 @@
+##### § 1325.1 Extension of unsecured credit prohibited. #####
+
+Persons subject to regulation by the Surface Transportation Board shall not knowingly and willfully provide, for candidates for Federal office or their representatives, service or goods related to their campaign without obtaining either prepayment or a binding guarantee of payment through a sufficient deposit, bond, collateral, or other means of security. The extension of credit to such persons shall not exceed the amount of the security posted.

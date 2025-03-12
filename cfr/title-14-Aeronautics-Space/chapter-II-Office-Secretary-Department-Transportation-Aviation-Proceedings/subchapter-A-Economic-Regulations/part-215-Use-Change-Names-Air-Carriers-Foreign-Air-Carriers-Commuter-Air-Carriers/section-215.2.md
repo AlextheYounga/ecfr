@@ -1,0 +1,3 @@
+##### § 215.2 Purpose. #####
+
+This part sets rules under which direct air carriers may use the names in their operating authorizations and change those names. It further provides for notification to air carriers that may be affected by the use by other air carriers of the same or similar names. Its purpose is to place the responsibility for resolving private disputes about the use of similar names with the air carriers involved, through recourse to the trade names statutes and the courts. These rules do not preclude Department intervention or enforcement action should there be evidence of a significant potential for, or of actual, public confusion.

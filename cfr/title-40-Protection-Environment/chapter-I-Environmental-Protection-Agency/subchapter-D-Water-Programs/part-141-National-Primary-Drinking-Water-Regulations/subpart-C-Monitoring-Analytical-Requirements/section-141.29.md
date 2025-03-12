@@ -1,0 +1,3 @@
+##### § 141.29 Monitoring of consecutive public water systems. #####
+
+When a public water system supplies water to one or more other public water systems, the State may modify the monitoring requirements imposed by this part to the extent that the interconnection of the systems justifies treating them as a single system for monitoring purposes. Any modified monitoring shall be conducted pursuant to a schedule specified by the State and concurred in by the Administrator of the U.S. Environmental Protection Agency.

@@ -1,0 +1,9 @@
+##### 22.804-2 Construction. #####
+
+(a) Construction contractors that hold a nonexempt (see 22.807) Government construction contract are required to meet (1) the contract terms and conditions citing affirmative action requirements applicable to covered geographical areas or projects and (2) applicable requirements of 41 CFR 60-1 and 60-4.
+
+(b) Each agency shall maintain a listing of covered geographical areas that are subject to affirmative action requirements that specify goals for minorities and women in covered construction trades. Information concerning, and additions to, this listing will be provided to the principally affected contracting officers in accordance with agency procedures. Any contracting officer contemplating a construction project in excess of $10,000 within a geographic area not known to be covered by specific affirmative action goals shall request instructions on the most current information from the OFCCP regional office, or as otherwise specified in agency regulations, before issuing the solicitation.
+
+(c) Contracting officers shall give written notice to the OFCCP regional office within 10 working days of award of a construction contract subject to these affirmative action requirements. The notification shall include the name, address, and telephone number of the contractor; employer identification number; dollar amount of the contract; estimated starting and completion dates of the contract; the contract number; and the geographical area in which the contract is to be performed. When requested by the OFCCP regional office, the contracting officer shall arrange a conference among contractor, contracting activity, and compliance personnel to discuss the contractor's compliance responsibilities.
+
+[48 FR 42258, Sept. 19, 1983, as amended at 63 FR 70284, Dec. 18, 1998]

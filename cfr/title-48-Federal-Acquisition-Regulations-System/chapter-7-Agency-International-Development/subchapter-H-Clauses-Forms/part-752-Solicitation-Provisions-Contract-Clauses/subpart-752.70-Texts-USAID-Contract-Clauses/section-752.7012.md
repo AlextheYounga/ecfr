@@ -1,0 +1,13 @@
+##### 752.7012 Protection of the individual as a research subject. #####
+
+This clause is for use in any USAID contract which involves research using human subjects.
+
+Protection of the Individual as a Research Subject (AUG 1995)
+
+(a) Safeguarding the rights and welfare of human subjects in research conducted under a USAID contract is the responsibility of the contractor. USAID has adopted the Common Federal Policy for the Protection of Human Subjects. USAID's Policy is found in Part 225 of Title 22 of the Code of Federal Regulations (the “Policy”). Additional interpretation, procedures, and implementation guidance of the Policy are found in USAID General Notice entitled “Procedures for the Protection of Human Subjects in Research Supported by USAID”, issued April 19, 1995, as from time to time amended (a copy of which is attached to this contract). USAID's Cognizant Human Subjects Officer (CHSO) and USAID/W has oversight, guidance, and interpretation responsibility for the Policy.
+
+(b) Contractors must comply with the Policy when humans are the subject of research, as defined in 22 CFR 225.102(d), performed as part of the contract, and contractors must provide “assurance”, as required by 22 CFR 225.103, that they follow and abide by the procedures in the Policy. See also Section 5 of the April 19, 1995, USAID General Notice which sets forth activities to which the Policy is applicable. The existence of a bona fide, applicable assurance approved by the Department of Health and Human Services (HHS) such as the “multiple project assurance” (MPA) will satisfy this requirement. Alternatively, contractors can provide an acceptable written assurance to USAID as described in 22 CFR 225.103. Such assurances must be determined by the CHSO to be acceptable prior to any applicable research being initiated or conducted under the contract. In some limited instances outside the U.S., alternative systems for the protection of human subjects may be used provided they are deemed “at least equivalent” to those outlined in part 225 (see 22 CFR 225.101(h)). Criteria and procedures for making this determination are described in the General Notice cited in the preceding paragraph.
+
+(c) Since the welfare of the research subject is a matter of concern to USAID as well as to the contractor, USAID staff, consultants and advisory groups may independently review and inspect research, and research processes and procedures involving human subjects, and based on such findings, the CHSO may prohibit research which presents unacceptable hazards or otherwise fails to comply with USAID procedures. Informed consent documents must include the stipulation that the subject's records may be subject to such review.
+
+[61 FR 39095, July 26, 1996]

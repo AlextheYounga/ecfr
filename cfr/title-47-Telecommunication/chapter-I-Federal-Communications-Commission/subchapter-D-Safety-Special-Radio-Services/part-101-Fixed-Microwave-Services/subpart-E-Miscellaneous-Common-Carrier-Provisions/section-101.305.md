@@ -1,0 +1,17 @@
+##### § 101.305 Discontinuance, reduction or impairment of service. #####
+
+(a) If the public communication service provided by a station in the Common Carrier Radio Services, the Local Multipoint Distribution Service or 24 GHz Service is involuntarily discontinued, reduced or impaired for a period exceeding 48 hours, the station licensee must promptly notify the Commission. In every such case, the licensee must furnish full particulars as to the reasons for such discontinuance, reduction or impairment of service, including a statement as to when normal service is expected to be resumed. When normal service is resumed, prompt notification thereof must be given Commission.
+
+(b) No station licensee subject to title II of the Communications Act of 1934, as amended, may voluntarily discontinue, reduce or impair public communication service to a community or part of a community without obtaining prior authorization from the Commission pursuant to the procedures set forth in part 63 of this chapter. In the event that permanent discontinuance of service is authorized by the Commission, the station license is terminated; except that station licenses in the Local Multipoint Distribution Service and 24 GHz Service are not terminated if the discontinuance is a result of a change of status by the licensee from common carrier to non-common carrier pursuant to § 1.929 of this chapter.
+
+(c) Any licensee not subject to title II of the Communications Act of 1934, as amended, who voluntarily discontinues, reduces or impairs public communication service to a community or a part of a community must notify the Commission within 7 days thereof. In the event of permanent discontinuance of service, the station license is automatically terminated; except that station licenses in the Local Multipoint Distribution Service and 24 GHz Service are not terminated if the discontinuance is a result of a change of status by the licensee from non-common carrier to common carrier pursuant to § 1.929 of this chapter.
+
+(d) If any common carrier radio frequency should not be used to render any service as authorized during a consecutive period of twelve months at any time after construction is completed under circumstances that do not fall within the provisions of paragraph (a), (b), or (c) of this section, or, if removal of equipment or facilities has rendered the station not operational, the licensee must, within thirty days of the end of such period of nonuse:
+
+(1) Cancel the station license (or licenses); or
+
+(2) File an application for modification of the license (or licenses) to delete the unused frequency (or frequencies); or
+
+(3) Request waiver of this rule and demonstrate either that the frequency will be used (as evidenced by appropriate requests for service, etc.) within six months of the end of the initial period of nonuse, or that the frequency will be converted to allow rendition of other authorized public services within one year of the end of the initial period of nonuse by the filing of appropriate applications within six months of the end of the period of nonuse.
+
+[61 FR 26677, May 28, 1996, as amended at 62 FR 23168, Apr. 29, 1997; 63 FR 68983, Dec. 14, 1998; 65 FR 59359, Oct. 5, 2000]

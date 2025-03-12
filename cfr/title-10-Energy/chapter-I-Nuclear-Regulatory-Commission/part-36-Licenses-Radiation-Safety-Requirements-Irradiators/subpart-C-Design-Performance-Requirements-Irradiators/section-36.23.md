@@ -1,0 +1,21 @@
+##### § 36.23 Access control. #####
+
+(a) Each entrance to a radiation room at a panoramic irradiator must have a door or other physical barrier to prevent inadvertent entry of personnel if the sources are not in the shielded position. Product conveyor systems may serve as barriers as long as they reliably and consistently function as a barrier. It must not be possible to move the sources out of their shielded position if the door or barrier is open. Opening the door or barrier while the sources are exposed must cause the sources to return promptly to their shielded position. The personnel entrance door or barrier must have a lock that is operated by the same key used to move the sources. The doors and barriers must not prevent any individual in the radiation room from leaving.
+
+(b) In addition, each entrance to a radiation room at a panoramic irradiator must have an independent backup access control to detect personnel entry while the sources are exposed. Detection of entry while the sources are exposed must cause the sources to return to their fully shielded position and must also activate a visible and audible alarm to make the individual entering the room aware of the hazard. The alarm must also alert at least one other individual who is onsite of the entry. That individual shall be trained on how to respond to the alarm and prepared to promptly render or summon assistance.
+
+(c) A radiation monitor must be provided to detect the presence of high radiation levels in the radiation room of a panoramic irradiator before personnel entry. The monitor must be integrated with personnel access door locks to prevent room access when radiation levels are high. Attempted personnel entry while the monitor measures high radiation levels, must activate the alarm described in paragraph (b) of this section. The monitor may be located in the entrance (normally referred to as the maze) but not in the direct radiation beam.
+
+(d) Before the sources move from their shielded position in a panoramic irradiator, the source control must automatically activate conspicuous visible and audible alarms to alert people in the radiation room that the sources will be moved from their shielded position. The alarms must give individuals enough time to leave the room before the sources leave the shielded position.
+
+(e) Each radiation room at a panoramic irradiator must have a clearly visible and readily accessible control that would allow an individual in the room to make the sources return to their fully shielded position.
+
+(f) Each radiation room of a panoramic irradiator must contain a control that prevents the sources from moving from the shielded position unless the control has been activated and the door or barrier to the radiation room has been closed within a preset time after activation of the control.
+
+(g) Each entrance to the radiation room of a panoramic irradiator and each entrance to the area within the personnel access barrier of an underwater irradiator must be posted as required by 10 CFR 20.1902. Radiation postings for panoramic irradiators must comply with the posting requirements of 10 CFR 20.1902, except that signs may be removed, covered, or otherwise made inoperative when the sources are fully shielded.
+
+(h) If the radiation room of a panoramic irradiator has roof plugs or other movable shielding, it must not be possible to operate the irradiator unless the shielding is in its proper location. This requirement may be met by interlocks that prevent operation if shielding is not placed properly or by an operating procedure requiring inspection of shielding before operating.
+
+(i) Underwater irradiators must have a personnel access barrier around the pool which must be locked to prevent access when the irradiator is not attended. Only operators and facility management may have access to keys to the personnel access barrier. There must be an intrusion alarm to detect unauthorized entry when the personnel access barrier is locked. Activation of the intrusion alarm must alert an individual (not necessarily onsite) who is prepared to respond or summon assistance.
+
+[58 FR 7728, Feb. 9, 1993, as amended at 63 FR 39483, July 23, 1998]

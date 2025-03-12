@@ -1,0 +1,3 @@
+##### 1336.602-2 Evaluation boards. #####
+
+Permanent and *ad hoc* architect-engineer evaluation boards may include preselection boards. When necessary, members of permanent, *ad hoc,* and preselection boards may be appointed from private practitioners of architecture, engineering, or related professions. Private practitioners may be appointed as deemed necessary by the BPO or higher agency official. The permanent and ad hoc evaluation boards should be comprised of at least a majority of government personnel.

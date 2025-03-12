@@ -1,0 +1,3 @@
+##### 1843.7101 Shared Savings Program. #####
+
+This subpart establishes and describes the methods for implementing and administering a Shared Savings Program. This program provides an incentive for contractors to propose and implement, with NASA approval, significant cost reduction initiatives. NASA will benefit as the more efficient business practices that are implemented lead to reduced costs on current and follow-on contracts. In return, contractors are entitled to share in cost savings subject to limits established in the contract. The contracting officer may require the contractor to provide periodic reporting, or other justification, or to require other steps (e.g., cost segregation) to ensure projected cost savings are being realized.

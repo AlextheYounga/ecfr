@@ -1,0 +1,3 @@
+##### § 1502.18 List of preparers. #####
+
+The environmental impact statement shall list the names, together with their qualifications (expertise, experience, professional disciplines), of the persons who were primarily responsible for preparing the environmental impact statement or important background papers, including basic components of the statement. Where possible, the environmental impact statement shall identify the persons who are responsible for a particular analysis, including analyses in background papers. Normally the list will not exceed two pages.

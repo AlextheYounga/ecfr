@@ -1,0 +1,3 @@
+##### § 603.1115 Single audits. #####
+
+For audits of for-profit participant's systems, under §§ 603.640 through 603.660, the contracting officer is the focal point for ensuring that participants submit audit reports and for resolving any findings in those reports. The contracting officer's responsibilities regarding single audits of nonprofit participant's systems are identified in the DOE “Guide to Financial Assistance.”

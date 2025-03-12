@@ -1,0 +1,5 @@
+##### § 35.2130 Sewer use ordinance. #####
+
+The sewer use ordinance (see also §§ 35.2122 and 35.2208) or other legally binding document shall prohibit any new connections from inflow sources into the treatment works and require that new sewers and connections to the treatment works are properly designed and constructed. The ordinance or other legally binding document shall also require that all wastewater introduced into the treatment works not contain toxics or other pollutants in amounts or concentrations that endanger public safety and physical integrity of the treatment works; cause violation of effluent or water quality limitations; or preclude the selection of the most cost-effective alternative for wastewater treatment and sludge disposal.
+
+(Approved by the Office of Management and Budget under control number 2040-0027)

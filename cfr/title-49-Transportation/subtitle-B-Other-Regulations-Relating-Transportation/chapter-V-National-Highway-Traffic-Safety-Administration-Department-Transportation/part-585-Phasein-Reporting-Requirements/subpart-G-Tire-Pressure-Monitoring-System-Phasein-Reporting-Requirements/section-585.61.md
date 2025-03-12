@@ -1,0 +1,3 @@
+##### § 585.61 Scope. #####
+
+This subpart establishes requirements for manufacturers of passenger cars, multipurpose passenger vehicles, trucks, and buses with a gross vehicle weight rating of 4,536 kilograms (10,000 pounds) or less, except those vehicles with dual wheels on an axle, to submit a report, and maintain records related to the report, concerning the number of such vehicles that meet the requirements of Standard No. 138, *Tire pressure monitoring systems* (49 CFR 571.138).

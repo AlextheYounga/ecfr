@@ -1,0 +1,3 @@
+##### § 379.11 Waiver of requirements of the regulations in this part. #####
+
+A waiver from any provision of the regulations in this part may be made by the Secretary upon his/her own initiative or upon submission of a written request by the company. Each request for waiver shall demonstrate that unusual circumstances warrant a departure from prescribed retention periods, procedures, or techniques, or that compliance with such prescribed requirements would impose an unreasonable burden on the company.

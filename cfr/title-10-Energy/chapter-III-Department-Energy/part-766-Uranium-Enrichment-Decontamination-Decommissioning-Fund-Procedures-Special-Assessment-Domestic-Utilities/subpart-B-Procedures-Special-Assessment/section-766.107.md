@@ -1,0 +1,3 @@
+##### § 766.107 Prepayment of future Special Assessments #####
+
+DOE shall accept prepayment of future Special Assessments upon request by a domestic utility. A domestic utility's liability for the future assessments shall be satisfied to the extent of the prepayments. DOE shall use the pro rata share of prepayments attributable to a given fiscal year plus the Special Assessments collected from utilities who did not prepay for that fiscal year, in order to determine that the total amount of Special Assessments collected from domestic utilities in a given fiscal year does not exceed $150 million, annually adjusted for inflation.

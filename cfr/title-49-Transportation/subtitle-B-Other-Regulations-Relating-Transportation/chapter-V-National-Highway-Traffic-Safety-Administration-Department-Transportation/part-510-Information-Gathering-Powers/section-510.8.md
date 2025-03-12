@@ -1,0 +1,3 @@
+##### § 510.8 Written requests for the production of documents and things. #####
+
+The NHTSA may, by the issuance of a written request for the production of documents and things, require any person, sole proprietorship, partnership, corporation, or other entity to produce documents or things. A written request for the production of documents and things may be issued alone, or as a part of a general or special order issued under § 510.7. Written requests for the production of documents and things are issued by the Chief Counsel. Any written request for the production of documents and things issued under this section shall contain the information specified in § 510.3(b).

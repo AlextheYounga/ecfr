@@ -1,0 +1,3 @@
+##### § 1245.201 Objectives. #####
+
+Whenever a claim of infringement of privately owned rights in patented inventions or copyrighted works is asserted against NASA, all necessary steps shall be taken to investigate and to administratively settle, deny, or otherwise dispose of such claim prior to suit against the United States. The General Counsel, or designee, is authorized to investigate, settle, deny, or otherwise dispose of all claims of patent and copyright infringement, pursuant to the above-cited statutory authority.

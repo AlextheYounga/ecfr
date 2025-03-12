@@ -1,0 +1,5 @@
+##### § 791.34 Serving of notice. #####
+
+(a) Each party shall be deemed to have consented that any papers, notices or process necessary or proper for the initiation or continuation of a hearing under these rules and for any appeal to EPA or any court action in connection therewith may be served upon such party by mail addressed to such party or its attorney at its last known address or by personal service, within or without the state wherein the arbitration is to be held (whether such party be within or without the United States of America), provided that reasonable opportunity to be heard with regard thereto has been granted such party.
+
+(b) The American Arbitration Association shall, upon the written request of a party, furnish to such party, at its expense, certified facsimiles of any papers in the American Arbitration Association's possession that may be required in appeal to EPA or judicial proceedings relating to the hearing.

@@ -1,0 +1,3 @@
+##### § 1232.101 Applicability. #####
+
+This part applies to NASA Headquarters and NASA Centers, including Component Facilities, and Technical and Service Support Centers and will be followed in all activities using animal subjects that are supported by NASA and conducted in NASA facilities, aircraft, or spacecraft, or activities, using animal subject conducted under a contract, grant, cooperative agreement, memorandum of understanding, or joint endeavor agreement entered into by NASA and another Government agency, private entity, non-Federal public entity, or foreign entity which are included within the scope of this part.

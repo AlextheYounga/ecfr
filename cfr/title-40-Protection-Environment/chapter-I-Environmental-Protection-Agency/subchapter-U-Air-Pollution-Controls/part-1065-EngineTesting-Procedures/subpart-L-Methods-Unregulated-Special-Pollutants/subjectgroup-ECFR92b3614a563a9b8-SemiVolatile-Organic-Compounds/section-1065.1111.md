@@ -1,0 +1,3 @@
+##### § 1065.1111 Sample analysis. #####
+
+This subpart does not specify chromatographic or analytical methods to analyze extracts, because the appropriateness of such methods is highly dependent on the nature of the target analytes. However, we recommend that you spike the extract with an injection standard that contains a known mass of an isotopically labeled compound that is identical to one of the target analytes (except for labeling). This injection standard allows you to monitor the efficiency of the analytical process by verifying the volume of sample injected for analysis.

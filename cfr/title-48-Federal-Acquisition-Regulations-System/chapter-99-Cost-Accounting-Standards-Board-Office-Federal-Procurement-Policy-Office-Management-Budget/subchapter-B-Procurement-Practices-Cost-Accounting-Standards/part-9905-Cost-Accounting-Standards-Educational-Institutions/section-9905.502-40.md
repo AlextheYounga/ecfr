@@ -1,0 +1,3 @@
+##### 9905.502-40 Fundamental requirement. #####
+
+All costs incurred for the same purpose, in like circumstances, are either direct costs only or indirect costs only with respect to final cost objectives. No final cost objective shall have allocated to it as an indirect cost any cost, if other costs incurred for the same purpose, in like circumstances, have been included as a direct cost of that or any other final cost objective. Further, no final cost objective shall have allocated to it as a direct cost any cost, if other costs incurred for the same purpose, in like circumstances, have been included in any indirect cost pool to be allocated to that or any other final cost objective.

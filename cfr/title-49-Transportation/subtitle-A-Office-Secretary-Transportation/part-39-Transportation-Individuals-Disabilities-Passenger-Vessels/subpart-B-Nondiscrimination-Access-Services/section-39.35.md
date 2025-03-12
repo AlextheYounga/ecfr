@@ -1,0 +1,3 @@
+##### § 39.35 May PVOs require a passenger with a disability to provide advance notice that he or she is traveling on or using a passenger vessel when no particular services are sought? #####
+
+As a PVO, you must not require a passenger with a disability to provide advance notice of the fact that he or she is traveling on or using a passenger vessel when the passenger is not seeking particular auxiliary aids or services, or special privileges or services, that in order to be provided need to be arranged before the passenger arrives to board the vessel. The PVO always has an obligation to provide effective communication between the PVO and individuals who are deaf or hard of hearing or blind or visually impaired through the use of appropriate auxiliary aids and services.

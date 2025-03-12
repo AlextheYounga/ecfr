@@ -1,0 +1,23 @@
+##### § 1320.10 Clearance of collections of information, other than those contained in proposed rules or in current rules. #####
+
+Agencies shall submit all collections of information, other than those contained either in proposed rules published for public comment in the Federal Register (which are submitted under § 1320.11) or in current rules that were published as final rules in the Federal Register (which are submitted under § 1320.12), in accordance with the following requirements:
+
+(a) On or before the date of submission to OMB, the agency shall, in accordance with the requirements in § 1320.5(a)(1)(iv), forward a notice to the Federal Register stating that OMB approval is being sought. The notice shall direct requests for information, including copies of the proposed collection of information and supporting documentation, to the agency, and shall request that comments be submitted to OMB within 30 days of the notice's publication. The notice shall direct comments to the Office of Information and Regulatory Affairs of OMB, Attention: Desk Officer for [name of agency]. A copy of the notice submitted to the Federal Register, together with the date of expected publication, shall be included in the agency's submission to OMB.
+
+(b) Within 60 days after receipt of the proposed collection of information or publication of the notice under paragraph (a) of this section, whichever is later, OMB shall notify the agency involved of its decision to approve, to instruct the agency to make a substantive or material change to, or to disapprove, the collection of information, and shall make such decision publicly available. OMB shall provide at least 30 days for public comment after receipt of the proposed collection of information before making its decision, except as provided under § 1320.13. Upon approval of a collection of information, OMB shall assign an OMB control number and, if appropriate, an expiration date. OMB shall not approve any collection of information for a period longer than three years.
+
+(c) If OMB fails to notify the agency of its approval, instruction to make substantive or material change, or disapproval within the 60-day period, the agency may request, and OMB shall assign without further delay, an OMB control number that shall be valid for not more than one year.
+
+(d) As provided in § 1320.5(b) and § 1320.6(a), an agency may not conduct or sponsor a collection of information unless the collection of information displays a currently valid OMB control number and the agency informs potential persons who are to respond to the collection of information that such persons are not required to respond to the collection of information unless it displays a currently valid OMB control number.
+
+(e)(1) In the case of a collection of information not contained in a published current rule which has been approved by OMB and has a currently valid OMB control number, the agency shall:
+
+(i) Conduct the review established under § 1320.8, including the seeking of public comment under § 1320.8(d); and
+
+(ii) After having made a reasonable effort to seek public comment, but no later than 60 days before the expiration date of the OMB control number for the currently approved collection of information, submit the collection of information for review and approval under this part, which shall include an explanation of how the agency has used the information that it has collected.
+
+(2) The agency may continue to conduct or sponsor the collection of information while the submission is pending at OMB.
+
+(f) Prior to the expiration of OMB's approval of a collection of information, OMB may decide on its own initiative, after consultation with the agency, to review the collection of information. Such decisions will be made only when relevant circumstances have changed or the burden estimates provided by the agency at the time of initial submission were materially in error. Upon notification by OMB of its decision to review the collection of information, the agency shall submit it to OMB for review under this part.
+
+(g) For good cause, after consultation with the agency, OMB may stay the effectiveness of its prior approval of any collection of information that is not specifically required by agency rule; in such case, the agency shall cease conducting or sponsoring such collection of information while the submission is pending, and shall publish a notice in the Federal Register to that effect.

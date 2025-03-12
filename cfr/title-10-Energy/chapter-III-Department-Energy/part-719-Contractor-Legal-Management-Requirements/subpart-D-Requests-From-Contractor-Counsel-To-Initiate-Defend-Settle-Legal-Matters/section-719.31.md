@@ -1,0 +1,3 @@
+##### § 719.31 When must the contractor initiate litigation against third parties? #####
+
+The contractor must initiate litigation, upon the request of the contracting officer, against third parties including proceedings before administrative agencies, in connection with the contract. The contractor shall proceed with such litigation in good faith and as directed from time to time by Department Counsel.

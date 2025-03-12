@@ -1,0 +1,35 @@
+##### § 40.22 Small quantities of source material. #####
+
+(a) A general license is hereby issued authorizing commercial and industrial firms; research, educational, and medical institutions; and Federal, State, and local government agencies to receive, possess, use, and transfer uranium and thorium, in their natural isotopic concentrations and in the form of depleted uranium, for research, development, educational, commercial, or operational purposes in the following forms and quantities:
+
+(1) No more than 1.5 kg (3.3 lb) of uranium and thorium in dispersible forms (e.g., gaseous, liquid, powder, etc.) at any one time. Any material processed by the general licensee that alters the chemical or physical form of the material containing source material must be accounted for as a dispersible form. A person authorized to possess, use, and transfer source material under this paragraph may not receive more than a total of 7 kg (15.4 lb) of uranium and thorium in any one calendar year. Persons possessing source material in excess of these limits as of August 27, 2013, may continue to possess up to 7 kg (15.4 lb) of uranium and thorium at any one time for one year beyond this date, or until the Commission takes final action on a pending application submitted on or before August 27, 2014, for a specific license for such material; and receive up to 70 kg (154 lb) of uranium or thorium in any one calendar year until December 31, 2014, or until the Commission takes final action on a pending application submitted on or before August 27, 2014, for a specific license for such material; and
+
+(2) No more than a total of 7 kg (15.4 lb) of uranium and thorium at any one time. A person authorized to possess, use, and transfer source material under this paragraph may not receive more than a total of 70 kg (154 lb) of uranium and thorium in any one calendar year. A person may not alter the chemical or physical form of the source material possessed under this paragraph unless it is accounted for under the limits of paragraph (a)(1) of this section; or
+
+(3) No more than 7 kg (15.4 lb) of uranium, removed during the treatment of drinking water, at any one time. A person may not remove more than 70 kg (154 lb) of uranium from drinking water during a calendar year under this paragraph; or
+
+(4) No more than 7 kg (15.4 lb) of uranium and thorium at laboratories for the purpose of determining the concentration of uranium and thorium contained within the material being analyzed at any one time. A person authorized to possess, use, and transfer source material under this paragraph may not receive more than a total of 70 kg (154 lb) of source material in any one calendar year.
+
+(b) Any person who receives, possesses, uses, or transfers source material in accordance with the general license in paragraph (a) of this section:
+
+(1) Is prohibited from administering source material, or the radiation therefrom, either externally or internally, to human beings except as may be authorized by the NRC in a specific license.
+
+(2) Shall not abandon such source material. Source material may be disposed of as follows:
+
+(i) A cumulative total of 0.5 kg (1.1 lb) of source material in a solid, non-dispersible form may be transferred each calendar year, by a person authorized to receive, possess, use, and transfer source material under this general license to persons receiving the material for permanent disposal. The recipient of source material transferred under the provisions of this paragraph is exempt from the requirements to obtain a license under this part to the extent the source material is permanently disposed. This provision does not apply to any person who is in possession of source material under a specific license issued under this chapter; or
+
+(ii) In accordance with § 20.2001 of this chapter.
+
+(3) Is subject to the provisions in §§ 40.1 through 40.10, 40.41(a) through (e), 40.46, 40.51, 40.56, 40.60 through 40.63, 40.71, and 40.81.
+
+(4) Shall respond to written requests from the NRC to provide information relating to the general license within 30 calendar days of the date of the request, or other time specified in the request. If the person cannot provide the requested information within the allotted time, the person shall, within that same time period, request a longer period to supply the information by providing the Director of the Office of Nuclear Material Safety and Safeguards, using an appropriate method listed in § 40.5(a), a written justification for the request;
+
+(5) Shall not export such source material except in accordance with part 110 of this chapter.
+
+(c) Any person who receives, possesses, uses, or transfers source material in accordance with paragraph (a) of this section shall conduct activities so as to minimize contamination of the facility and the environment. When activities involving such source material are permanently ceased at any site, if evidence of significant contamination is identified, the general licensee shall notify the Director of the Office of Nuclear Material Safety and Safeguards by an appropriate method listed in § 40.5(a) about such contamination and may consult with the NRC as to the appropriateness of sampling and restoration activities to ensure that any contamination or residual source material remaining at the site where source material was used under this general license is not likely to result in exposures that exceed the limits in § 20.1402 of this chapter.
+
+(d) Any person who receives, possesses, uses, or transfers source material in accordance with the general license granted in paragraph (a) of this section is exempt from the provisions of parts 19, 20, and 21 of this chapter to the extent that such receipt, possession, use, and transfer are within the terms of this general license, except that such person shall comply with the provisions of §§ 20.1402 and 20.2001 of this chapter to the extent necessary to meet the provisions of paragraphs (b)(2) and (c) of this section. However, this exemption does not apply to any person who also holds a specific license issued under this chapter.
+
+(e) No person may initially transfer or distribute source material to persons generally licensed under paragraph (a)(1) or (2) of this section, or equivalent regulations of an Agreement State, unless authorized by a specific license issued in accordance with § 40.54 or equivalent provisions of an Agreement State. This prohibition does not apply to analytical laboratories returning processed samples to the client who initially provided the sample. Initial distribution of source material to persons generally licensed by paragraph (a) of this section before August 27, 2013, without specific authorization may continue for 1 year beyond this date. Distribution may also be continued until the Commission takes final action on a pending application for license or license amendment to specifically authorize distribution submitted on or before August 27, 2014.
+
+[78 FR 32339, May 29, 2013]

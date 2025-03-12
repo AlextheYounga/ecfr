@@ -1,0 +1,7 @@
+##### § 417.224 Probability of failure analysis. #####
+
+(a) *General.* All flight safety analyses for a launch, regardless of hazard or phase of flight, must account for launch vehicle failure probability in a consistent manner. A launch vehicle failure probability estimate must use accurate data, scientific principles, and a method that is statistically or probabilistically valid. For a launch vehicle with fewer than two flights, the failure probability estimate must account for the outcome of all previous launches of vehicles developed and launched in similar circumstances. For a launch vehicle with two or more flights, launch vehicle failure probability estimates must account for the outcomes of all previous flights of the vehicle in a statistically valid manner.
+
+(b) *Failure.* For flight safety analysis purposes, a failure occurs when a launch vehicle does not complete any phase of normal flight or when any anomalous condition exhibits the potential for a stage or its debris to impact the Earth or reenter the atmosphere during the mission or any future mission of similar launch vehicle capability. Also, either a launch incident or launch accident constitutes a failure.
+
+(c) *Previous flight.* For flight analysis purposes, flight begins at a time in which a launch vehicle normally or inadvertently lifts off from a launch platform. Lift-off occurs with any motion of the launch vehicle with respect to the launch platform.

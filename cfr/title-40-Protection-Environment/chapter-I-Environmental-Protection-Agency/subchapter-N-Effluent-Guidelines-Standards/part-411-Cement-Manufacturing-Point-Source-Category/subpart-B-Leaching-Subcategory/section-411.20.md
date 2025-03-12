@@ -1,0 +1,3 @@
+##### § 411.20 Applicability; description of the leaching subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the process in which several mineral ingredients (limestone or other natural sources of calcium carbonate, silica, alumina, and iron together with gypsum) are used in the manufacturing of cement and in which kiln dust is contacted with water as an integral part of the process or water is used in wet scrubbers to control kiln stack emissions.

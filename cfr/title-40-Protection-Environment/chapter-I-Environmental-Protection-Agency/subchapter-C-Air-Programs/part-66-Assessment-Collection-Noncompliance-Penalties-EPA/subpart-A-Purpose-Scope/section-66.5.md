@@ -1,0 +1,3 @@
+##### § 66.5 Savings clause. #####
+
+Proceedings under these regulations for imposition of a penalty under section 120 are in addition to any other proceedings related to permits, orders, payments, sanctions or other requirements of State or Federal law. No action under this part or part 67 shall affect in any way any administrative, civil or criminal enforcement proceeding brought under any provision of the Clean Air Act or State or local law.

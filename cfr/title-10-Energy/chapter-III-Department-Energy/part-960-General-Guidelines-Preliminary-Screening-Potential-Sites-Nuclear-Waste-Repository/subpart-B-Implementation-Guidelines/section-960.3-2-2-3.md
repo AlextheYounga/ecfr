@@ -1,0 +1,3 @@
+##### § 960.3-2-2-3 Comparative evaluation of all sites proposed for nomination. #####
+
+*Sixth,* for those potentially acceptable sites to be proposed for nomination, as determined by the process specified in § 960.3-2-2-2, a reasonable comparative evaluation of each such site with all other such sites shall be made. For each site and for each guideline specified in subparts C and D, the DOE shall summarize the evaluations and findings specified under § 960.3-2-2-1 and under the fourth and fifth provisions of § 960.3-2-2-2. Each such summary shall allow comparisons to be made among sites on this basis of each guideline.

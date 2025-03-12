@@ -1,0 +1,3 @@
+##### § 839.232 If a deceased employee's survivors include both a current spouse and a former spouse, or spouses, who are eligible for survivor annuities, must all of them consent to an election of FERS? #####
+
+If the employee dies before making an election of retirement coverage under the FERCCA, all eligible potential survivors, that is, both the current and any former spouses, must consent to an election of FERS coverage. If they do not all consent, the election cannot be made.

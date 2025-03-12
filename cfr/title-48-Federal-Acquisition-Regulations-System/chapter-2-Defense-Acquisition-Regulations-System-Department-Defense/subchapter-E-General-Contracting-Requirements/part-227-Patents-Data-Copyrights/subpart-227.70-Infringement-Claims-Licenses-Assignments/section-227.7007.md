@@ -1,0 +1,3 @@
+##### 227.7007 Notification and disclosure to claimants. #####
+
+When a claim is denied, the Department responsible for the administrative determination of the claim shall so notify the claimant or his authorized representative and provide the claimant a reasonable rationale of the basis for denying the claim. Disclosure of information or the rationale referred to above shall be subject to applicable statutes, regulations, and directives pertaining to security, access to official records, and the rights of others.

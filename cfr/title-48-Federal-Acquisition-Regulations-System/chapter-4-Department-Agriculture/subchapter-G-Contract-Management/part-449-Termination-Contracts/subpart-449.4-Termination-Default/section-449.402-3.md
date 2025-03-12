@@ -1,0 +1,3 @@
+##### 449.402-3 Procedure for default. #####
+
+In addition to the requirements of FAR 49.402-3(g), the notice of termination shall contain instructions regarding the disposition of any Government property in the possession of the contractor (see FAR 45.508-1) and, in the case of construction contracts, such materials, appliances, and structures as may be on the site of the construction work. The notice shall also contain a statement concerning the liability of the contractor or its surety for any liquidated damages (see FAR 49.402-7).

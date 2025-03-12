@@ -1,0 +1,7 @@
+##### § 6.31 Further proceedings. #####
+
+(a) Ordinarily, the determination of an award will be made on the basis of the written record. However, on request of either the applicant or agency counsel, or on his or her own initiative, the administrative law judge may order further proceedings, such as an informal conference, oral argument, additional written submissions or an evidentiary hearing.
+
+Such further proceedings shall be held only when necessary for full and fair resolution of the issues arising from the application, and shall be conducted as promptly as possible.
+
+(b) A request that the administrative law judge order further proceedings under this section shall specifically identify the information sought or the disputed issues and shall explain why the additional proceedings are necessary to resolve the issues.

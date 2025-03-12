@@ -1,0 +1,7 @@
+##### § 60.5370a When must I comply with this subpart? #####
+
+(a) You must be in compliance with the standards of this subpart no later than August 2, 2016 or upon startup, whichever is later.
+
+(b) At all times, including periods of startup, shutdown, and malfunction, owners and operators shall maintain and operate any affected facility including associated air pollution control equipment in a manner consistent with good air pollution control practice for minimizing emissions. Determination of whether acceptable operating and maintenance procedures are being used will be based on information available to the Administrator which may include, but is not limited to, monitoring results, opacity observations, review of operating and maintenance procedures, and inspection of the source. The provisions for exemption from compliance during periods of startup, shutdown and malfunctions provided for in 40 CFR 60.8(c) do not apply to this subpart.
+
+(c) You are exempt from the obligation to obtain a permit under 40 CFR part 70 or 40 CFR part 71, provided you are not otherwise required by law to obtain a permit under 40 CFR 70.3(a) or 40 CFR 71.3(a). Notwithstanding the previous sentence, you must continue to comply with the provisions of this subpart.

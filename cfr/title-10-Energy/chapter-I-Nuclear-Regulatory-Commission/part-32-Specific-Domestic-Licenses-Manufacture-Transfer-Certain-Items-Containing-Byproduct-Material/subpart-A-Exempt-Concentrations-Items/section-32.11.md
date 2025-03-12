@@ -1,0 +1,11 @@
+##### § 32.11 Introduction of byproduct material in exempt concentrations into products or materials, and transfer of ownership or possession: Requirements for license. #####
+
+An application for a specific license on Form NRC-313 authorizing the introduction of byproduct material into a product or material owned by or in the possession of the licensee or another and the transfer of ownership or possession of the product or material containing the byproduct material will be approved if the applicant:
+
+(a) Satisfies the general requirements specified in § 30.33 of this chapter; *provided, however,* that the requirements of § 30.33(a)(2) and (3) do not apply to an application for a license to introduce byproduct material into a product or material owned by or in the possession of the licensee or another and the transfer of ownership or possession of the product or material containing the byproduct material, if the possession and use of the byproduct material to be introduced is authorized by a license issued by an Agreement State;
+
+(b) Provides a description of the product or material into which the byproduct material will be introduced, intended use of the byproduct material and the product or material into which it is introduced, method of introduction, initial concentration of the byproduct material in the product or material, control methods to assure that no more than the specified concentration is introduced into the product or material, estimated time interval between introduction and transfer of the product or material, and estimated concentration of the radioisotopes in the product or material at the time of transfer; and
+
+(c) Provides reasonable assurance that the concentrations of byproduct material at the time of transfer will not exceed the concentrations in § 30.70 of this chapter, that reconcentration of the byproduct material in concentrations exceeding those in § 30.70 is not likely, that use of lower concentrations is not feasible, and that the product or material is not likely to be incorporated in any food, beverage, cosmetic, drug or other commodity or product designed for ingestion or inhalation by, or application to, a human being.
+
+[30 FR 8192, June 26, 1965, as amended at 49 FR 19625, May 9, 1984; 72 FR 58487, Oct. 16, 2007]

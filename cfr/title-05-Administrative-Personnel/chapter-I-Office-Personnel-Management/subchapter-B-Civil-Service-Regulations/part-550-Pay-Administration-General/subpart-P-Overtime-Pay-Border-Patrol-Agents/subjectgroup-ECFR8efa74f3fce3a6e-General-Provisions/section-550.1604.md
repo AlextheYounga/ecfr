@@ -1,0 +1,3 @@
+##### § 550.1604 Authority of U.S. Customs and Border Protection. #####
+
+Authorized management officials of U.S. Customs and Border Protection are responsible for determining the mission requirements and operational needs of the organization and have the right to assign scheduled and unscheduled work as necessary to meet those requirements and needs, regardless of an agent's officially established regular tour of duty. (See subsections (a) and (f)(1) of section 2 of Pub. L. 113-277 and 5 U.S.C. 5550(g).)

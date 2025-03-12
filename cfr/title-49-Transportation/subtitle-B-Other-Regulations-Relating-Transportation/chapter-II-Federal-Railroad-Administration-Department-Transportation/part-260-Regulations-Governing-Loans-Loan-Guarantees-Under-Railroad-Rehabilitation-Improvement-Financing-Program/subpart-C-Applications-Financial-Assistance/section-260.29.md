@@ -1,0 +1,3 @@
+##### § 260.29 Third party consultants. #####
+
+Applicants may utilize independent third-party consultants to prepare a financial evaluation of the proposed project and the applicant, if approved by FRA. Providing such an evaluation would greatly assist FRA in the evaluation of the application and would significantly reduce the time necessary for FRA to process the application. We encourage the use of third party consultants.

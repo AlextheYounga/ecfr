@@ -1,0 +1,3 @@
+##### § 302.502 Institution of proceedings. #####
+
+A proceeding to determine the lawfulness of rates, fares, or charges for the foreign air transportation of persons or property by aircraft, or the lawfulness of any classification, rule, regulation, or practice affecting such rates, fares or charges, may be instituted by the filing of a petition or complaint by any person, or by the issuance of an order by the Department.

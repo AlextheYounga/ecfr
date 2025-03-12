@@ -1,0 +1,3 @@
+##### § 1315.8 Rebates. #####
+
+Agencies shall determine governmentwide commercial purchase card payment dates based on an analysis of the total costs and total benefits to the Federal government as a whole, unless specified in a contract. When calculating costs and benefits, agencies are expected to include the cost to the government of paying early. This cost is the interest the government would have earned, at the Current Value of Funds rate, for each day that payment was not made. Agencies may factor in benefits gained from paying early due to, for example, streamlining the payment process or other efficiencies. A rebate formula is provided in § 1315.17 and at the Prompt Payment website at *www.fms.treas.gov/prompt/index.html.*

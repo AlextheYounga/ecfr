@@ -1,0 +1,3 @@
+##### § 137.21 How does an Indian Tribe demonstrate financial stability and financial management capacity? #####
+
+The Indian Tribe provides evidence that, for the three years prior to participation in self-governance, the Indian Tribe has had no uncorrected significant and material audit exceptions in the required annual audit of the Indian Tribe's self-determination contracts or self-governance funding agreements with any Federal agency.

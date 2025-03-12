@@ -1,0 +1,5 @@
+##### § 1245.111 Submission of petitions. #####
+
+(a) Petitions for advance waiver of domestic rights under § 1245.104 or for advance waiver of foreign rights under § 1245.106 presented prior to contract execution, must be submitted to the contracting officer. Any petition submitted by a prospective contractor and selected for negotiation of a contract will be processed and forwarded to the Board for consideration. All other petitions will be submitted to the patent representative designated in the contract for processing prior to forwarding to the Board.
+
+(b) A copy of any waiver petitions submitted under § 1245.103(c) should be forwarded to the appropriate NASA field installation patent counsel, if not supplied earlier, for (1) transmittal to the Department of Energy for processing by that agency, or (2) coordination with other agencies, as applicable.

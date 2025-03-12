@@ -1,0 +1,5 @@
+##### § 263.56 Initial licensing proceedings. #####
+
+Proceedings with respect to applications for initial licenses shall include, but not be limited to, applications for Board approval under section 3 of the BHC Act and section 10 of HOLA and such proceedings as may be ordered by the Board with respect to applications under section 18(c) of the FDIA. In such initial licensing proceedings, the procedures set forth in subpart A of this part shall apply, except that the Board may designate a Board Counsel to represent the Board in a nonadversary capacity for the purpose of developing for the record information relevant to the issues to be determined by the Presiding Officer and the Board. In such proceedings, Board Counsel shall be considered to be a decisional employee for purposes of §§ 263.9 and 263.40 of subpart A.
+
+[76 FR 56603, Sept. 13, 2011]

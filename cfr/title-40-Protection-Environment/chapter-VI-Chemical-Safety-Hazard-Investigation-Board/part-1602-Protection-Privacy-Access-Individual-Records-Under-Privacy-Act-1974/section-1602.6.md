@@ -1,0 +1,15 @@
+##### § 1602.6 Requests for amendment or correction of records. #####
+
+(a) *How made and addressed.* You may make a request for amendment or correction of a CSB record about yourself by following the procedures in § 1602.2. Your request should identify each particular record in question, state the amendment or correction that you want, and state why you believe that the record is not accurate, relevant, timely, or complete. You may submit any documentation that you think would be helpful.
+
+(b) *CSB responses.* Within ten working days of receiving your request for amendment or correction of records, the CSB will send you a written acknowledgment of its receipt of your request, and it will promptly notify you whether your request is granted or denied. If the CSB grants your request in whole or in part, it will describe the amendment or correction made and advise you of your right to obtain a copy of the corrected or amended record. If the CSB denies your request in whole or in part, it will send you a letter stating:
+
+(1) The reason(s) for the denial; and
+
+(2) The procedure for appeal of the denial under paragraph (c) of this section, including the name and business address of the official who will act on your appeal.
+
+(c) *Appeals.* You may appeal a denial of a request for amendment or correction in the same manner as a denial of a request for access to records (see § 1602.5), and the same procedures will be followed. If your appeal is denied, you will be advised of your right to file a Statement of Disagreement as described in paragraph (d) of this section and of your right under the Privacy Act for court review of the decision.
+
+(d) *Statements of Disagreement.* If your appeal under this section is denied in whole or in part, you have the right to file a Statement of Disagreement that states your reason(s) for disagreeing with the CSB's denial of your request for amendment or correction. Statements of Disagreement must be concise, must clearly identify each part of any record that is disputed, and should be no longer than one typed page for each fact disputed. Your Statement of Disagreement must be sent to the CSB, which will place it in the system of records in which the disputed record is maintained and will mark the disputed record to indicate that a Statement of Disagreement has been filed and where in the system of records it may be found.
+
+(e) *Notification of amendment/correction or disagreement.* Within 30 working days of the amendment or correction of a record, the CSB shall notify all persons, organizations, or agencies to which it previously disclosed the record, if an accounting of that disclosure was made, that the record has been amended or corrected. If an individual has filed a Statement of Disagreement, the CSB will attach a copy of it to the disputed record whenever the record is disclosed and may also attach a concise statement of its reason(s) for denying the request to amend or correct the record.

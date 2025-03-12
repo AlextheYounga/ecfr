@@ -1,0 +1,3 @@
+##### § 136.402 Policy. #####
+
+In enacting the Indian Child Protection and Family Violence Prevention Act, (the “Act”) the Congress recognized there is no resource more vital to the continued existence and integrity of Indian Tribes than their children and that the United States has a direct interest, as trustee, in protecting Indian children who are members of, or are eligible for membership in, an Indian Tribe. The minimum standards of character as prescribed by the regulations in this subpart are intended to ensure that Indian children are protected.

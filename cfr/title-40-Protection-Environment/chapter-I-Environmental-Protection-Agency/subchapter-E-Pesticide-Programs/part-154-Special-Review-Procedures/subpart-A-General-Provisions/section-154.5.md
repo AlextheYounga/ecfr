@@ -1,0 +1,3 @@
+##### § 154.5 Burden of persuasion in determinations under this part. #####
+
+In making determinations under this part the Administrator shall be guided by the principle that the burden of persuasion that a pesticide product is entitled to registration or continued registration for any particular use or under any particular set of terms and conditions of registration is always on the proponent(s) of registration.

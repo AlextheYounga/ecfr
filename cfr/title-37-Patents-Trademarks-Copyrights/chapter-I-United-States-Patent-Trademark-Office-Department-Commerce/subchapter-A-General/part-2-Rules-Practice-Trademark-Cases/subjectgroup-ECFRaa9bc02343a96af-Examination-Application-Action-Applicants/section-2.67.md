@@ -1,0 +1,5 @@
+##### § 2.67 Suspension of action by the Patent and Trademark Office. #####
+
+Action by the Patent and Trademark Office may be suspended for a reasonable time for good and sufficient cause. The fact that a proceeding is pending before the Patent and Trademark Office or a court which is relevant to the issue of registrability of the applicant's mark, or the fact that the basis for registration is, under the provisions of section 44(e) of the Act, registration of the mark in a foreign country and the foreign application is still pending, will be considered prima facie good and sufficient cause. An applicant's request for a suspension of action under this section filed within the 6-month response period (see § 2.62) may be considered responsive to the previous Office action. The first suspension is within the discretion of the Examiner of Trademarks and any subsequent suspension must be approved by the Director.
+
+[37 FR 3898, Feb. 24, 1972]

@@ -1,0 +1,3 @@
+##### § 109.7 Removal from transportation. #####
+
+An agent may remove a package and related packages in a shipment or a freight container from transportation in commerce for up to forty-eight (48) hours when the agent has an objectively reasonable and articulable belief that the packages may pose an imminent hazard. The agent must record this belief in writing as soon as practicable and provide written notification stating the reason for removal to the person in possession.

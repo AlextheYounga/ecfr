@@ -1,0 +1,3 @@
+##### § 355.11 To what substances do the emergency planning requirements of this subpart apply? #####
+
+The emergency planning requirements of this subpart apply to any EHS listed in Appendices A and B of this part. Additionally, if a facility is designated for emergency planning purposes, as provided in § 355.10(b), substances that are not EHSs at this facility may become subject to the emergency planning requirements.

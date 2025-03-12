@@ -1,0 +1,3 @@
+##### § 25.6 Public meetings. #####
+
+Public meetings are any assemblies or gathering, (such as conferences, informational sessions, seminars, workshops, or other activities) which the responsible agency intends to be open to anyone wishing to attend. Public meetings are less formal than public hearings. They do not require formal presentations, scheduling of presentations and a record of proceedings. The requirements of § 25.5 (b) and (c) are applicable to public meetings, except that the agency holding the meeting may reduce the notice to not less than 30 days if there is good reason that longer notice cannot be provided.

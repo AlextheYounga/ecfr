@@ -1,0 +1,15 @@
+##### § 41.73 Oral hearing. #####
+
+(a) An oral hearing should be requested only in those circumstances in which an appellant or a respondent considers such a hearing necessary or desirable for a proper presentation of the appeal. An appeal decided on the briefs without an oral hearing will receive the same consideration by the Board as an appeal decided after an oral hearing.
+
+(b) If an appellant or a respondent desires an oral hearing, he or she must file, as a separate paper captioned “REQUEST FOR ORAL HEARING,” a written request for such hearing accompanied by the fee set forth in § 41.20(b)(3) within two months after the date of the examiner's answer. The time for requesting an oral hearing may not be extended. The request must include a certification that a copy of the request has been served in its entirety on all other parties to the proceeding. The names and addresses of the parties served must be indicated.
+
+(c) If no request and fee for oral hearing have been timely filed by appellant or respondent as required by paragraph (b) of this section, the appeal will be assigned for consideration and decision on the briefs without an oral hearing.
+
+(d) If appellant or respondent has complied with all the requirements of paragraph (b) of this section, a hearing date will be set, and notice given to the owner and all requesters. If an oral hearing is held, an oral argument may be presented by, or on behalf of, the primary examiner if considered desirable by either the primary examiner or the Board. The notice shall set a non-extendable period within which all requests for oral hearing shall be submitted by any other party to the appeal desiring to participate in the oral hearing. A hearing will be held as stated in the notice, and oral argument will be limited to thirty minutes for each appellant or respondent who has requested an oral hearing, and twenty minutes for the primary examiner unless otherwise ordered. No appellant or respondent will be permitted to participate in an oral hearing unless he or she has requested an oral hearing and submitted the fee set forth in § 41.20(b)(3).
+
+(e)(1) At the oral hearing, each appellant and respondent may only rely on evidence that has been previously entered and considered by the primary examiner and present argument that has been relied upon in the briefs except as permitted by paragraph (e)(2) of this section. The primary examiner may only rely on argument and evidence relied upon in an answer except as permitted by paragraph (e)(2) of this section. The Board will determine the order of the arguments presented at the oral hearing.
+
+(2) Upon a showing of good cause, appellant, respondent and/or the primary examiner may rely on a new argument based upon a recent relevant decision of either the Board or a Federal Court.
+
+(f) Notwithstanding the submission of a request for oral hearing complying with this rule, if the Board decides that a hearing is not necessary, the Board will so notify the owner and all requesters.

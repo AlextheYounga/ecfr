@@ -1,0 +1,3 @@
+##### 3042.7000 Contract clause. #####
+
+The contracting officer shall insert the clause at (HSAR) 48 CFR 3052.242-72, Contracting Officer's Technical Representative, in solicitations and contracts when it is intended that a representative will be assigned to the contract to perform functions of a technical nature.

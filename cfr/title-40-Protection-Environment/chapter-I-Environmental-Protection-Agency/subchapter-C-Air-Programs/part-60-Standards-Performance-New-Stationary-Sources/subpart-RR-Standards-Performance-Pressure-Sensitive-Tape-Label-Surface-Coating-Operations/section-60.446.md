@@ -1,0 +1,9 @@
+##### § 60.446 Test methods and procedures. #####
+
+(a) The VOC content per unit of coating solids applied and compliance with § 60.422(a)(1) shall be determined by either Method 24 and the equations specified in § 60.443 or by manufacturers' formulation data. In the event of any inconsistency between a Method 24 test and manufacturers' formulation data, the Method 24 test will govern. The Administrator may require an owner or operator to perform Method 24 tests during such months as he deems appropriate. For Method 24, the coating sample must be a one liter sample taken into a one liter container at a point where the sample will be representative of the coating applied to the web substrate.
+
+(b) Method 25 shall be used to determine the VOC concentration, in parts per million by volume, of each effluent gas stream entering and exiting the solvent destruction device or its equivalent, and each effluent gas stream emitted directly to the atmosphere. Methods 1, 2, 3, and 4 shall be used to determine the sampling location, volumetric flowrate, molecular weight, and moisture of all sampled gas streams. For Method 25, the sampling time for each of three runs must be at least 1 hour. The minimum sampling volume must be 0.003 dscm except that shorter sampling times or smaller volumes, when necessitated by process variables or other factors, may be approved by the Administrator.
+
+(c) If the owner or operator can demonstrate to the Administrator's satisfaction that testing of representative stacks yields results comparable to those that would be obtained by testing all stacks, the Administrator will approve testing of representative stacks on a case-by-case basis.
+
+[48 FR 48375, Oct. 18, 1983, as amended at 65 FR 61761, Oct. 17, 2000]

@@ -1,0 +1,3 @@
+##### § 159.170 Human epidemiological and exposure studies. #####
+
+Information must be submitted which concerns any study that a person described in § 159.158(a) has concluded, or might reasonably conclude, shows that a correlation may exist between exposure to a pesticide and observed adverse effects in humans. Information must also be submitted which concerns exposure monitoring studies that indicate higher levels of risk or exposure than would be expected based on previously available reports, data, or exposure estimates. Such information must be submitted regardless of whether the registrant considers any observed correlation or association to be significant.

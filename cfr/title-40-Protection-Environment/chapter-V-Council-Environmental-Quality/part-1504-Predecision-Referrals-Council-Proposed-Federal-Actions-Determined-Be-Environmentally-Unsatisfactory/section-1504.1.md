@@ -1,0 +1,7 @@
+##### § 1504.1 Purpose. #####
+
+(a) This part establishes procedures for referring to the Council Federal interagency disagreements concerning proposed major Federal actions that might cause unsatisfactory environmental effects. It provides means for early resolution of such disagreements, and encourages Federal agencies to engage with each other as early as practicable to resolve interagency disagreements concerning proposed major Federal actions before referring disputes to the Council. This part also establishes procedures for Federal agencies to submit a request to the Council to provide informal dispute resolution on NEPA issues.
+
+(b) Section 309 of the Clean Air Act (42 U.S.C. 7609) directs the Administrator of the Environmental Protection Agency to review and comment publicly on the environmental impacts of Federal activities, including actions for which agencies prepare environmental impact statements. If, after this review, the Administrator determines that the matter is “unsatisfactory from the standpoint of public health or welfare or environmental quality,” section 309 directs that the matter be referred to the Council.
+
+(c) Under section 102(2)(C) of NEPA (42 U.S.C. 4332(2)(C)), other Federal agencies may prepare reviews of environmental impact statements, including judgments on the acceptability of anticipated environmental impacts. These agencies must make these reviews available to the President, the Council, and the public.

@@ -1,0 +1,3 @@
+##### § 269b.620 Action by panel. #####
+
+In any case where it is found, after a hearing, that the respondent has failed to comply with the final decision and order of the panel, the panel shall be empowered to take whatever action may be appropriate and shall expect the full cooperation of the Board of Governors of the Federal Reserve System in obtaining such compliance. Among the actions that may be taken by the panel against a noncomplying respondent labor organization, after a show cause hearing, may be suspension of that labor organization's checkoff privileges or recognition as exclusive bargaining representative for such period of time as determined by the panel.

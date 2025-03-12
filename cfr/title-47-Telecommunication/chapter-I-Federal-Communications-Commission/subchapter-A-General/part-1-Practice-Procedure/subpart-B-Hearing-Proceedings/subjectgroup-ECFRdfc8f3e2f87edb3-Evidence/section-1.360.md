@@ -1,0 +1,3 @@
+##### § 1.360 Proof of lack of record. #####
+
+The absence of an official record or entry of a specified tenor in an official record may be evidenced by a written statement signed by an officer, or by his deputy, who would have custody of the official record, if it existed, that after diligent search no record or entry of a specified tenor is found to exist in the records of his office, accompanied by a certificate as provided in § 1.359. Such statement and certificate are admissible as evidence that the records of his office contain no such record or entry.

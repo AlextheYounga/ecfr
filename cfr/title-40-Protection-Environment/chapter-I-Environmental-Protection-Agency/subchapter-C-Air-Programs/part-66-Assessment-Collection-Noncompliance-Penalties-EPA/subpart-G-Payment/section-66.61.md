@@ -1,0 +1,7 @@
+##### § 66.61 Duty to pay. #####
+
+(a) Except where the owner or operator has submitted a petition pursuant to § 66.13(a)(2), the first installment of the penalty shall be paid on the date six months after receipt of the notice of noncompliance.
+
+(b) Where the source owner has filed a petition pursuant to § 66.13(a)(2), the first installment consisting of payment of penalties for all quarters “missed” as well as for the upcoming quarter shall be paid on the date six months after a final administrative decision affirming the source owner or operator's liability. Installments shall be paid quarterly thereafter until compliance is achieved. Quarters shall be measured in increments of three calendar months from the date the first payment is due.
+
+(c) A source owner or operator who submits a petition pursuant to § 66.52 shall pay the penalty amount calculated by the owner or operator under § 66.13 or § 66.43 or any penalty calculated by EPA where the owner or operator has failed to calculate such penalty. Within 45 days after EPA has notified the owner or operator of a final administrative action after hearings on such petition, the owner or operator shall submit any necessary modification to the penalty. The revised penalty will be calculated in accordance with the Technical Support Document and the Manual, and a revised schedule, including appropriate adjustments for overpayments or underpayments made, will be established.

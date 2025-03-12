@@ -1,0 +1,3 @@
+##### § 427.20 Applicability; description of the asbestos-cement sheet subcategory. #####
+
+The provisions of this subpart are applicable to discharges resulting from the process in which asbestos, Portland cement, silica, and other ingredients are used in the manufacturing of asbestos-cement sheets. Discharges resulting from manufacture of asbestos-cement sheet laboratory tops are specifically excluded from the provisions of this subpart.

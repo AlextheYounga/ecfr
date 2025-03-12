@@ -1,0 +1,3 @@
+##### § 603.1295 Periodic audit. #####
+
+An audit of a participant, performed at an agreed-upon time (usually a regular time interval), to determine whether the participant as a whole is managing its Federal awards in compliance with the terms of those awards. Appendix A to this part describes what such an audit may cover. A periodic audit of a participant differs from an award-specific audit of an individual award (as defined in § 603.1220).

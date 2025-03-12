@@ -1,0 +1,3 @@
+##### § 1274.401 Government furnished property. #####
+
+Property or equipment owned by the Government that will be used in the performance of a cooperative agreement shall be included as part of the Government's percentage (usually 50 percent) of shared costs. In most cases the property or equipment will be categorized as non-cash contributions. Agreement officers may use the procedures promulgated by FAR Subpart 45.2, as guidelines to calculate the value of the property or equipment.

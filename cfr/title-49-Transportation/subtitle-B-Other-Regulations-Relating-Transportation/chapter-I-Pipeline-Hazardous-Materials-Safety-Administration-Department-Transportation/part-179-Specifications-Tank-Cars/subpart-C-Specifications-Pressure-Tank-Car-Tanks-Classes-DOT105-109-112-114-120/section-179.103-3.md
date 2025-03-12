@@ -1,0 +1,9 @@
+##### § 179.103-3 Venting, loading and unloading valves, measuring and sampling devices. #####
+
+(a) Venting, loading and unloading valves, measuring and sampling devices, when used, shall be attached to a nozzle or nozzles on the tank shell or heads.
+
+(b) These valves and appurtenances must be grouped in one location and, except as provided in § 179.103-5, must be equipped with a protective housing with cover, or may be recessed into tank shell with cover. An additional set grouped in another location may be provided. Protective housing with cover, when used, must have steel sidewalls not less than three-fourths inch in thickness and a metal cover not less than one-fourth inch in thickness that can be securely closed. Underframe sills are an acceptable alternate to the protective housing cover, provided the arrangement is of approved design. For fittings recessed into tank shell, protective cover must be metal and not less than one-fourth inch in thickness.
+
+(c) When tank car is used to transport liquefied flammable gases, the interior pipes of the loading, unloading, and sampling valves must be equipped with excess flow valves of approved design except when quick closing internal valves of approved design are used. When the interior pipe of the gaging device provides a means for the passage of lading from the interior to the exterior of the tank, it must be equipped with an excess flow valve of approved design or with an orifice not exceeding 0.060 inch.
+
+[29 FR 18995, Dec. 29, 1964. Redesignated at 32 FR 5606, Apr. 5, 1967, and amended by Amdt. 179-10, 36 FR 21348, Nov. 6, 1971]

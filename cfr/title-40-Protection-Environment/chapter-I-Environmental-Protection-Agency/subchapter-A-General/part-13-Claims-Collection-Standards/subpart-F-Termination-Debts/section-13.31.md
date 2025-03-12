@@ -1,0 +1,3 @@
+##### § 13.31 Termination—general. #####
+
+The Administrator may terminate collection actions and write-off debts, including accrued interest, penalty and administrative costs, where the debt principal does not exceed $20,000. If the debt exceeds $20,000, EPA obtains the approval of DOJ in order to terminate further collection actions. Unless otherwise provided for by DOJ regulations or procedures, requests to terminate collection on debts in excess of $100,000 are referred to the Commercial Litigation Branch, Civil Division, Department of Justice, for approval. Debts in excess of $20,000 but $100,000 or less are referred to the United States Attorney in whose judicial district the debtor can be found.

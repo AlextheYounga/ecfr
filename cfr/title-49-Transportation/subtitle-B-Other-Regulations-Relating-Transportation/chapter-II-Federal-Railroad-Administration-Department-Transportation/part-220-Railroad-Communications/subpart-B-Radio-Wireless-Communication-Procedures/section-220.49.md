@@ -1,0 +1,3 @@
+##### § 220.49 Radio communication used in shoving, backing or pushing movements. #####
+
+When radio communication is used in connection with the shoving, backing or pushing of a train, locomotive, car, or on-track equipment, the employee directing the movement shall specify the distance of the movement, and the movement shall stop in one-half the remaining distance unless additional instructions are received. If the instructions are not understood, the movement shall be stopped immediately and may not be resumed until the misunderstanding has been resolved, radio contact has been restored, or communication has been achieved by hand signals or other procedures in accordance with the operating rules of the railroad.

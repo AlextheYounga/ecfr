@@ -1,0 +1,3 @@
+##### § 761.300 Applicability. #####
+
+This subpart provides sample site selection procedures for large, nearly flat non-porous surfaces, and for small or irregularly shaped non-porous surfaces. This subpart also provides procedures for analyzing the samples and interpreting the results of the sampling. Any person verifying completion of self-implementing cleanup and on-site disposal of non-porous surfaces under § 761.61(a)(6), or verifying that decontamination standards under § 761.79(b)(3) are met, must use these procedures.

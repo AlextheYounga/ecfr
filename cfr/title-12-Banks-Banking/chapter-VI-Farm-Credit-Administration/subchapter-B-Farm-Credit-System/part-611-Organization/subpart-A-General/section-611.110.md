@@ -1,0 +1,7 @@
+##### § 611.110 Meetings of stockholders. #####
+
+(a) *Requirement.* Associations must have annual meetings of stockholders for the purpose of conducting annual director elections. Farm Credit banks are encouraged to hold annual or periodic meetings of stockholders. The bylaws of each Farm Credit bank and association must specify the quorum requirements for stockholder meetings. Associations must elect at least one director at each annual meeting, but the vote on the election of a director or directors by mail ballot may only occur in the period following an annual meeting. An online meeting space may be used in addition to a physical meeting space to conduct a stockholders' meeting or director election. A physical meeting space must always exist for association meetings involving director elections and other stockholders' votes.
+
+(b) *Notice.* Each association, and those Farm Credit banks holding annual meetings, must issue an Annual Meeting Information Statement in accordance with the requirements of §§ 620.20 and 620.21 of this chapter.
+
+(c) *Online meeting.* Each Farm Credit bank and association using an online meeting space as part of a meeting or election must have policies and procedures in place addressing how the online meeting space will be accessed and used by participants. The policies and procedures must specifically identify any technological adaptations necessary to address the confidentiality and security in voting requirements of § 611.340.

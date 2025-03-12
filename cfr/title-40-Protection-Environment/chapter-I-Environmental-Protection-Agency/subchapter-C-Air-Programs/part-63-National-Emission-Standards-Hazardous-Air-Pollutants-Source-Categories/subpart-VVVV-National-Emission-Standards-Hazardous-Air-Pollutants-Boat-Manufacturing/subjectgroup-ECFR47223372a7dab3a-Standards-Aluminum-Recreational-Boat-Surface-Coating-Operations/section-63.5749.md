@@ -1,0 +1,7 @@
+##### § 63.5749 How do I calculate the organic HAP content of aluminum wipedown solvents? #####
+
+(a) Use equation 1 of this section to calculate the weighted-average organic HAP content of aluminum wipedown solvents used in the past 12 months.
+
+![](/graphics/er22au01.016.gif)Where:HAPWD = weighted-average organic HAP content of aluminum wipedown solvents, kilograms of HAP per liter of total coating solids from aluminum primers, top coats, and clear coats. n = number of different wipedown solvents used in the past 12 months.Volj = volume of aluminum wipedown solvent j used in the past 12 months, liters.Dj = density of aluminum wipedown solvent j, kilograms per liter.Wj = mass fraction of organic HAP in aluminum wipedown solvent j. m = number of different aluminum surface coatings (primers, top coats, and clear coats) used in the past 12 months.Voli = volume of aluminum primer, top coat, or clear coat i used in the past 12 months, liters.Solidsi = solids content aluminum primer, top coat, or clear coat i, liter solids per liter of coating.
+
+(b) Compliance is based on a 12-month rolling average. If the weighted-average organic HAP content does not exceed 0.33 kilograms of organic HAP per liter of total coating solids, then you are in compliance with the emission limit specified in § 63.5743(a)(1).

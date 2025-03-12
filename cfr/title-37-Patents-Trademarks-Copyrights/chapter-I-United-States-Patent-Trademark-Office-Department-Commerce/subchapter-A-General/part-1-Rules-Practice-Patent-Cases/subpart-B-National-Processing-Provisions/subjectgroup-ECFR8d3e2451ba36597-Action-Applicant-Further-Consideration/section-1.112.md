@@ -1,0 +1,5 @@
+##### § 1.112 Reconsideration before final action. #####
+
+After reply by applicant or patent owner (§ 1.111 or § 1.945) to a non-final action and any comments by an *inter partes* reexamination requester (§ 1.947), the application or the patent under reexamination will be reconsidered and again examined. The applicant, or in the case of a reexamination proceeding the patent owner and any third party requester, will be notified if claims are rejected, objections or requirements made, or decisions favorable to patentability are made, in the same manner as after the first examination (§ 1.104). Applicant or patent owner may reply to such Office action in the same manner provided in § 1.111 or § 1.945, with or without amendment, unless such Office action indicates that it is made final (§ 1.113) or an appeal (§ 41.31 of this title) has been taken (§ 1.116), or in an *inter partes* reexamination, that it is an action closing prosecution (§ 1.949) or a right of appeal notice (§ 1.953).
+
+[69 FR 49999, Aug. 12, 2004]

@@ -1,0 +1,3 @@
+##### § 13.215 Withdrawal of complaint or request for hearing. #####
+
+At any time before or during a hearing, an agency attorney may withdraw a complaint or a party may withdraw a request for a hearing without the consent of the administrative law judge. If an agency attorney withdraws the complaint or a party withdraws the request for a hearing and the answer, the administrative law judge shall dismiss the proceedings under this subpart with prejudice.

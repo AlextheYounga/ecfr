@@ -1,0 +1,9 @@
+##### § 68.602 Sponsor of the Administrative Council for Terminal Attachments. #####
+
+(a) The Telecommunications Industry Association (TIA) and the Alliance for Telecommunications Industry Solutions (ATIS) jointly shall establish the Administrative Council for Terminal Attachment and shall sponsor the Administrative Council for Terminal Attachments for four years from the effective date of these rules. The division of duties by which this responsibility is executed may be a matter of agreement between these two parties; however, both are jointly and severally responsible for observing these rule provisions. After four years from the effective date of these rules, and thereafter on a quadrennial basis, the Administrative Council for Terminal Attachments may vote by simple majority to be sponsored by any ANSI-accredited organization.
+
+(b) The sponsoring organizations shall ensure that the Administrative Council for Terminal Attachments is populated in a manner consistent with the criteria of American National Standards Institute's Organization Method or the Standards Committee Method (and their successor Method or Methods as ANSI may from time to time establish) for a balanced and open membership.
+
+(c) After the Administrative Council for Terminal Attachments is populated, the sponsors are responsible for fulfilling secretariat positions as determined by the Administrative Council for Terminal Attachments. The Administrative Council shall post on a publicly available web site and make available to the public in hard copy form the written agreement into which it enters with the sponsor or sponsors.
+
+[66 FR 7588, Jan. 24, 2001, as amended at 67 FR 57182, Sept. 9, 2002]

@@ -1,0 +1,3 @@
+##### 1832.501-1 Customary progress payment rates. (NASA supplements paragraph (a)) #####
+
+(a) The customary progress payment rate for all NASA contracts is 85 percent for large business, 90 percent for small business, 95 percent for small disadvantaged business, and 100 percent for Phase II contracts in the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs. The contracting officer shall insert the applicable percentage in paragraphs (a) and (b) of the clause at FAR 52.232-16.

@@ -1,0 +1,33 @@
+##### § 415.174 Exception: Evaluation and management services furnished in certain centers. #####
+
+(a) In the case of certain evaluation and management codes of lower and mid-level complexity (as specified by CMS in program instructions), carriers may make physician fee schedule payment for a service furnished by a resident without the presence of a teaching physician. For the exception to apply, all of the following conditions must be met:
+
+(1) The services must be furnished in a center that is located in an outpatient department of a hospital or another ambulatory care entity in which the time spent by residents in patient care activities is included in determining intermediary payments to a hospital under §§ 413.75 through 413.83.
+
+(2) Any resident furnishing the service without the presence of a teaching physician must have completed more than 6 months of an approved residency program.
+
+(3) The teaching physician must not direct the care of more than four residents at any given time and must direct the care from such proximity as to constitute immediate availability. The teaching physician must -
+
+(i) Have no other responsibilities at the time;
+
+(ii) Assume management responsibility for those beneficiaries seen by the residents;
+
+(iii) Ensure that the services furnished are appropriate;
+
+(iv) Review with each resident during or immediately after each visit, the beneficiary's medical history, physical examination, diagnosis, and record of tests and therapies; and
+
+(v) Document the extent of the teaching physician's participation in the review and direction of the services furnished to each beneficiary.
+
+(4) The range of services furnished by residents in the center includes all of the following:
+
+(i) Acute care for undifferentiated problems or chronic care for ongoing conditions.
+
+(ii) Coordination of care furnished by other physicians and providers.
+
+(iii) Comprehensive care not limited by organ system, or diagnosis.
+
+(5) The patients seen must be an identifiable group of individuals who consider the center to be the continuing source of their health care and in which services are furnished by residents under the medical direction of teaching physicians.
+
+(b) Nothing in paragraph (a) of this section may be construed as providing a basis for the coverage of services not determined to be covered under Medicare, such as routine physical checkups.
+
+[60 FR 63178, Dec. 8, 1995, as amended at 61 FR 59554, Nov. 22, 1996; 70 FR 47490, Aug. 12, 2005]

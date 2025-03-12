@@ -1,0 +1,9 @@
+##### § 80.303 Watch on 156.800 MHz (Channel 16). #####
+
+(a) During its hours of operation, each coast station operating in the 156-162 MHz band and serving rivers, bays and inland lakes except the Great Lakes, must maintain a safety watch on the frequency 156.800 MHz except when transmitting on 156.800 MHz.
+
+(b) A coast station is exempt from compliance with the watch requirement when Federal, State, or Local Government stations maintain a watch on 156.800 MHz over 95% of the coast station's service area. Each licensee exempted by rule must notify the nearest district office of the U.S. Coast Guard at least thirty days prior to discontinuing the watch, or in the case of new stations, at least thirty days prior to commencing service. The Coast Guard may require any coast station to maintain the watch temporarily or permanently. The Coast Guard may also require any coast station to remain capable of either immediately resuming the watch or providing the Coast Guard direct dial-up access to the necessary 156.800 MHz transceiver at no charge so that the Coast Guard can maintain the watch.
+
+(c) If the government station(s) providing the 156.800 MHz watch over the service area of an exempt station temporarily discontinues that watch, the exempt coast station upon receiving notice of this condition must maintain the watch on 156.800 HMz during the discontinuance. Automated maritime communications systems' compliance with this requirement is limited to the use of existing facilities.
+
+[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 35245, Sept. 18, 1987; 63 FR 40063, July 27, 1998]

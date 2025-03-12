@@ -1,0 +1,3 @@
+##### § 1705.06 Appeals from access denials. #####
+
+When access to records has been denied by the Privacy Act Officer, the requester may file an appeal in writing. This appeal should be directed to The Chairman, Defense Nuclear Facilities Safety Board, 625 Indiana Avenue NW., suite 700, Washington, DC 20004. The appeal letter must (a) specify those denied records which are still sought, and (b) state why the denial by the Privacy Act Officer is erroneous. The Chairman or his designee will respond to such appeals within twenty working days after the appeal letter has been received in the Board's offices. The appeal determination will explain the basis for continuing to deny access to any requested records.

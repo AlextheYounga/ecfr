@@ -1,0 +1,3 @@
+##### § 801.57 Records compiled for law enforcement purposes. #####
+
+Pursuant to 5 U.S.C. 552(b)(7), any records compiled for law or regulatory enforcement are exempt from public disclosure to the extent that disclosure would interfere with enforcement, would be an unwarranted invasion of privacy, would disclose the identity of a confidential source, would disclose investigative procedures and practices, or would endanger the life or security of law enforcement personnel.

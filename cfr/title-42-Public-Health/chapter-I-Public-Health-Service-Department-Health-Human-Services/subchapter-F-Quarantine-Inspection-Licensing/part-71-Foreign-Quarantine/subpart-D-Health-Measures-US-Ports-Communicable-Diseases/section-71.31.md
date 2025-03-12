@@ -1,0 +1,5 @@
+##### § 71.31 General provisions. #####
+
+(a) Upon arrival at a U.S. port, a carrier will not undergo inspection unless the Director determines that a failure to inspect will present a threat of introduction of communicable diseases into the United States, as may exist when the carrier has on board individual(s) reportable in accordance with § 71.21 or meets the circumstances described in § 71.42. Carriers not subject to inspection under this section will be subject to sanitary inspection under § 71.41 of this part.
+
+(b) The Director may require detention of a carrier until the completion of the measures outlined in this part that are necessary to prevent the introduction or spread of a communicable disease. The Director may issue a controlled free pratique to the carrier stipulating what measures are to be met, but such issuance does not prevent the periodic boarding of a carrier and the inspection of persons and records to verify that the conditions have been met for granting the pratique.

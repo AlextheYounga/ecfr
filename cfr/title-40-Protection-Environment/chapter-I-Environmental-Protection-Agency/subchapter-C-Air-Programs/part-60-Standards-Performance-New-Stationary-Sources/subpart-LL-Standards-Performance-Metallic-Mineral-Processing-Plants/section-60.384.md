@@ -1,0 +1,5 @@
+##### § 60.384 Monitoring of operations. #####
+
+(a) The owner or operator subject to the provisions of this subpart shall install, calibrate, maintain, and operate a monitoring device for the continuous measurement of the change in pressure of the gas stream through the scrubber for any affected facility using a wet scrubbing emission control device. The monitoring device must be certified by the manufacturer to be accurate within ±250 pascals (±1 inch water) gauge pressure and must be calibrated on an annual basis in accordance with manufacturer's instructions.
+
+(b) The owner or operator subject to the provisions of this subpart shall install, calibrate, maintain, and operate a monitoring device for the continuous measurement of the scrubbing liquid flow rate to a wet scrubber for any affected facility using any type of wet scrubbing emission control device. The monitoring device must be certified by the manufacturer to be accurate within ±5 percent of design scrubbing liquid flow rate and must be calibrated on at least an annual basis in accordance with manufacturer's instructions.

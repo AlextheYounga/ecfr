@@ -1,0 +1,3 @@
+##### 2804.403 Responsibilities of contracting officers. #####
+
+For proposed solicitations and contracts which may require access to classified material or where guard services are assigned to safeguard departmental activities in possession of classified information, the contracting officer shall consult with the COTR and the Director, Security and Emergency Planning Staff, JMD, to determine the appropriate security measures to safeguard such material and information.

@@ -1,0 +1,3 @@
+##### § 955.1 Scope. #####
+
+This part establishes rules pursuant to part 850 of this chapter for the training, examination and certification of blasters by OSM for surface coal mining operations in States with Federal programs and on Indian lands. It governs the issuance, renewal, reissuance, suspension and revocation of an OSM blaster certificate, replacement of a lost or destroyed certificate, and reciprocity to a holder of a certificate issued by a State regulatory authority.

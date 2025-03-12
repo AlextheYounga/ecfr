@@ -1,0 +1,3 @@
+##### § 210.1 Purpose. #####
+
+Section 12 of the Noise Control Act authorizes any person to commence a civil action on his own behalf to enforce the Act or to enforce certain requirements promulgated pursuant to the Act. The purpose of this part is to prescribe procedures governing the manner of giving notices as required by subsection 12(b) of the Act (Pub. L. 92-574, 86 Stat. 1234) as a prerequisite to the commencement of such actions.

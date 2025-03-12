@@ -1,0 +1,3 @@
+##### § 56.401 Applicability. #####
+
+The regulations of this subpart, in addition to the regulations of subpart A of this part, are applicable to grants awarded pursuant to section 319(d)(1)(B) of the Act for the costs of operation of entities which intend to become migrant health centers and which provide health services to migratory agricultural workers, seasonal agricultural workers, and the members of their families in high impact areas.

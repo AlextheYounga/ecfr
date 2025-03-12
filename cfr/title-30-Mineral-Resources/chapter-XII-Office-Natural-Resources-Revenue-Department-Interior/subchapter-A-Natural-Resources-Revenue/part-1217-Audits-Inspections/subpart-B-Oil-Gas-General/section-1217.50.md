@@ -1,0 +1,3 @@
+##### § 1217.50 Audits of records. #####
+
+The Secretary, or his/her authorized representative, shall initiate and conduct audits relating to the scope, nature and extent of compliance by lessees, operators, revenue payors, and other persons with rental, royalty, net profit share and other payment requirements on a Federal or Indian oil and gas lease. Audits also will relate to compliance with applicable regulations and orders. All audits will be conducted in accordance with the notice and other requirements of 30 U.S.C. 1717.

@@ -1,0 +1,9 @@
+##### § 850.101 Purpose and scope. #####
+
+(a) The purpose of this part is to enable changes to OPM's retirement and insurance processing systems to improve the quality and timeliness of services to employees and annuitants covered by CSRS and FERS by using contemporary, automated business processes and supporting accessible technologies. By utilizing these automated processes, OPM will employ more efficient and effective business systems to respond to increased customer demand for higher levels of customer service and online self-service tools.
+
+(b) The provisions of this part authorize exceptions from regulatory provisions that would otherwise apply to CSRS and FERS annuities and FEGLI, FEHB, and RFEHB benefits processed by or at the direction of OPM. Those regulatory provisions that would otherwise apply were established for a hardcopy based retirement and insurance benefits processing system that may eventually be phased out but which will continue to operate concurrently with OPM's modernization efforts. During the phased transition to electronic retirement and insurance processing, certain regulations that were not designed with information technology needs in mind, and which are incompatible with electronic business processes, must be set aside with respect to electronic retirement and insurance processing. The regulations set forth in this part make the transition to electronic processing possible.
+
+(c) The provisions of this part do not affect retirement and insurance eligibility and annuity computation provisions. The provisions for capturing retirement and insurance data in an electronic format, however, may support, in some instances, more precise calculations of annuity and insurance benefits than were possible using hardcopy records.
+
+[78 FR 68981, Nov. 18, 2013]

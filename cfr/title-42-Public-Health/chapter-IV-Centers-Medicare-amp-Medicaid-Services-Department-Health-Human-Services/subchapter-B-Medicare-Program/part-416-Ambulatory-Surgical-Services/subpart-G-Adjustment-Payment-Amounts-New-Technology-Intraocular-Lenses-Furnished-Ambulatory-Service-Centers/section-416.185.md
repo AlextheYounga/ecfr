@@ -1,0 +1,7 @@
+##### § 416.185 Process for establishing a new class of new technology IOLs. #####
+
+(a) *Announcement of deadline for requests for review.* CMS announces the deadline for each year's requests for review of a new class of new technology IOLs in the final rule updating the ASC payment rates for that calendar year.
+
+(b) *Announcement of new classes of new technology IOLs for which review requests have been made and solicitation of public comments.* CMS announces the requests for review received in a calendar year and the deadline for public comments regarding the requests in the proposed rule updating the ASC payment rates for the following calendar year. The deadline for submission of public comments is 30 days following the date of the publication of the proposed rule.
+
+(c) *Announcement of determinations regarding requests for review.* CMS announces its determinations for a calendar year in the final rule updating the ASC payment rates for the following calendar year. CMS publishes the codes and effective dates allowed for those lenses recognized by CMS as belonging to a class of new technology IOLs. New classes of new technology IOLs are effective 30 days following the date of publication of the final rule.

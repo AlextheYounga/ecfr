@@ -1,0 +1,3 @@
+##### § 71.119 Control of special processes. #####
+
+The licensee, certificate holder, and applicant for a CoC shall establish measures to assure that special processes, including welding, heat treating, and nondestructive testing are controlled and accomplished by qualified personnel using qualified procedures in accordance with applicable codes, standards, specifications, criteria, and other special requirements.

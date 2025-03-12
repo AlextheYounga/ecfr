@@ -1,0 +1,5 @@
+##### § 42.10 Tuition fees. #####
+
+The National Mine Health and Safety Academy, located in Beckley, West Virginia, will charge tuition fees to all persons attending Academy courses, except employees of Federal, State, or local governments, persons attending the Academy under a program supported through an MSHA State grant, and persons performing a direct service. Also, subject to available resources, MSHA may waive all or part of fees for students, or persons employed by a non-profit organization, who are invited by MSHA to attend an Academy course which would, in the Agency's judgment, contribute to improved conduct, supervision, or management of a function or activity under the Federal Mine Safety and Health Act of 1977 or a function related to an MSHA appropriation. requests for waivers must be in writing.
+
+[62 FR 60985, Nov. 13, 1997]

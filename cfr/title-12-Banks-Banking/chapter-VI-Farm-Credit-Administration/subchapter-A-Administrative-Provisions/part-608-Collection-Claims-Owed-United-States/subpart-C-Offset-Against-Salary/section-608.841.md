@@ -1,0 +1,9 @@
+##### § 608.841 Requesting current paying agency to offset salary. #####
+
+(a) To request a paying agency to impose a salary offset against amounts owed to the debtor, the FCA shall provide the paying agency with a claim certification which meets the requirements set forth in § 608.825(a). The FCA shall also provide the paying agency with a repayment schedule determined under the provisions of § 608.839 or in accordance with a repayment agreement entered into with the debtor.
+
+(b) If the employee separates from the paying agency before the debt is paid in full, the paying agency shall certify the total amount collected on the debt. A copy of this certification shall be sent to the employee and a copy shall be sent to the FCA. If the paying agency is aware that the employee is entitled to payments from the Civil Service Retirement and Disability Fund, or other similar payments, it must provide written notification to the agency responsible for making such payments that the debtor owes a debt (including the amount) and that the provisions of this section have been fully complied with. However, the FCA must submit a properly certified claim to the agency responsible for making such payments before the collection can be made.
+
+(c) When an employee transfers to another paying agency, the FCA is not required to repeat the due process procedures set forth in 5 U.S.C. 5514 and this part to resume the collection. The FCA shall, however, review the debt upon receiving the former paying agency's notice of the employee's transfer to make sure the collection is resumed by the new paying agency.
+
+(d) If a special review is conducted pursuant to § 608.811 and results in a revised offset or repayment schedule, the FCA shall provide a new claim certification to the paying agency.

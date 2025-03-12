@@ -1,0 +1,3 @@
+##### § 1.1042 Correspondence respecting international design applications filed with the Office as an office of indirect filing. #####
+
+The applicant may specify a correspondence address for correspondence sent by the Office as an office of indirect filing. Where no such address has been specified, the Office will use as the correspondence address the address of applicant's appointed representative (§ 1.1041) or, where no representative is appointed, the address as specified in Administrative Instruction 302.

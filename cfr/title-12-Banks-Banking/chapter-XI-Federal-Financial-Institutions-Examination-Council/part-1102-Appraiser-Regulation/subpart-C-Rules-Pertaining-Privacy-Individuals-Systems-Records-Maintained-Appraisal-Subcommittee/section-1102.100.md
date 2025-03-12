@@ -1,0 +1,7 @@
+##### § 1102.100 Authority, purpose and scope. #####
+
+(a) This subpart is issued under the Privacy Act of 1974, Public Law 93-579, 88 Stat. 1896; 12 U.S.C. 552a, as amended.
+
+(b) The Privacy Act of 1974 is based, in part, on the finding by Congress that “in order to protect the privacy of individuals identified in information systems maintained by Federal agencies, it is necessary and proper for the Congress to regulate the collection, maintenance, use, and dissemination of information by such agencies.” To achieve this objective, the Act generally provides that Federal agencies must advise an individual upon request whether records maintained by the agency in a system of records pertain to the individual and must grant the individual access to such records. The Act further provides that individuals may request amendments to records pertaining to them that are maintained by the agency, and that the agency shall either grant the requested amendments or set forth fully its reasons for refusing to do so.
+
+(c) The Appraisal Subcommittee of the Federal Financial Institutions Examination Council (ASC), pursuant to subsection (f) of the Privacy Act, adopts the following rules and procedures to implement the provisions of the Act summarized above and other provisions of the Act. These rules and procedures are applicable to all requests for information and access or amendment to records pertaining to an individual that are contained in any system of records that is maintained by the ASC.

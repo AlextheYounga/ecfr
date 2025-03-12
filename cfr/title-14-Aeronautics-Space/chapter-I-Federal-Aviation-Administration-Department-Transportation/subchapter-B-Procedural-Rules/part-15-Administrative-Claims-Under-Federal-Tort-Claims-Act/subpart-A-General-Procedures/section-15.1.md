@@ -1,0 +1,3 @@
+##### § 15.1 Scope of regulations. #####
+
+(a) These regulations apply to claims asserted under the Federal Tort Claims Act, as amended, for money damages against the United States for injury to, or loss of property, or for personal injury or death, caused by the negligent or wrongful act or omission of an employee of the FAA acting within the scope of office or employment. The regulations in this part supplement the Attorney General's regulations in 28 CFR part 14, as amended. The regulations in 28 CFR part 14, as amended, and the regulations in this part apply to consideration by the FAA of administrative claims under the Federal Tort Claims Act.

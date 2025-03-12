@@ -1,0 +1,3 @@
+##### 227.7001 Policy. #####
+
+Whenever a claim of infringement of privately owned rights in patented inventions or copyrighted works is asserted against any Department or Agency of the Department of Defense, all necessary steps shall be taken to investigate, and to settle administratively, deny, or otherwise dispose of such claim prior to suit against the United States. This subpart 227.70 does not apply to licenses or assignments acquired by the Department of Defense under the Patent Rights clauses.

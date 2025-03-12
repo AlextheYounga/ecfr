@@ -1,0 +1,3 @@
+##### 1419.705-2 Determining the need for a subcontracting plan. #####
+
+The CO's determination that no subcontract possibilities exist for a proposed contractual action shall be reviewed by the BUDS prior to the approval by a level above the CO, and a copy shall be forwarded to OSDBU within 5 working days of execution, but in no case later than the date of contract award. The BUDS may contact OSDBU and consider any comments or recommendations offered.

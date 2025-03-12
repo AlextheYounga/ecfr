@@ -1,0 +1,3 @@
+##### § 806.2 Applicability. #####
+
+This rule supplements Executive Order 12065 within the Board with regard to national security information. It establishes general policies and certain procedures for the classification and declassification of information which is generated, processed, and/or stored by the Board. In this connection, the Board does not have any original classification authority but infrequently does receive classified information from other agencies.

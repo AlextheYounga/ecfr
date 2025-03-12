@@ -1,0 +1,13 @@
+##### § 225.112 Indirect control of small business concern through convertible debentures held by small business investment company. #####
+
+(a) A question has been raised concerning the applicability of provisions of the Bank Holding Company Act of 1956 to the acquisition by a bank holding company of stock of a small business investment company (“SBIC”) organized pursuant to the Small Business Investment Act of 1958 (“SBI Act”).
+
+(b) As indicated in the interpretation of the Board (§ 225.107) published at 23 FR 7813, it is the Board's opinion that, since stock of an SBIC is eligible for purchase by national banks and since section 4(c)(4) of the Holding Company Act exempts stock eligible for investment by national banks from the prohibitions of section 4 of that Act, a bank holding company may lawfully acquire stock in such an SBIC.
+
+(c) However, section 304 of the SBI Act provides that debentures of a small business concern purchased by a small business investment company may be converted at the option of such company into stock of the small business concern. The question therefore arises as to whether, in the event of such conversion, the parent bank holding company would be regarded as having acquired “direct or indirect ownership or control” of stock of the small business concern in violation of section 4(a) of the Holding Company Act.
+
+(d) The Small Business Investment Act clearly contemplates that one of the primary purposes of that Act was to enable SBICs to provide needed equity capital to small business concerns through the purchase of debentures convertible into stock. Thus, to the extent that a stockholder in an SBIC might acquire indirect control of stock of a small business concern, such control appears to be a natural and contemplated incident of ownership of stock of the SBIC. The Office of the Comptroller of the Currency has informally indicated concurrence with this interpretation insofar as it affects investments by national banks in stock of an SBIC.
+
+(e) Since the exception as to stock eligible for investment by national banks contained in section 4(c)(4) of the Holding Company Act was apparently intended to permit a bank holding company to acquire any stock that would be eligible for purchase by a national bank, it is the Board's view that section 4(a)(1) of the Act does not prohibit a bank holding company from acquiring stock of an SBIC, even though ownership of such stock may result in the acquisition of indirect ownership or control of stock of a small business concern which would not itself be eligible for purchase directly by a national bank or a bank holding company.
+
+[24 FR 1584, Mar. 4, 1959. Redesignated at 36 FR 21666, Nov. 12, 1971]

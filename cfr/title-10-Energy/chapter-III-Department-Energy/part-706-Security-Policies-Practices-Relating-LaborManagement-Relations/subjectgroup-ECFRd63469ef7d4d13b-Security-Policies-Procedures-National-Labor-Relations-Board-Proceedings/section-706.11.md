@@ -1,0 +1,3 @@
+##### § 706.11 Consent elections. #####
+
+In accordance with the recommendation of the President's Commission on Labor Relations in the Atomic Energy Installations, it is the policy of DOE to encourage every effort by management and labor at DOE installations to determine bargaining units and representatives by agreement and consent elections in preference to contested proceedings before the National Labor Relations Board.

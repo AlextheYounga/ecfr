@@ -1,0 +1,5 @@
+##### § 35.13 Entry for negotiation of release or settlement. #####
+
+(a) No person shall be permitted to enter a station or hospital of the Service for the purpose of negotiating a settlement or obtaining a general or special release or statement from any patient with reference to any illness or personal injury for which the patient is receiving care or treatment, or for the purpose of conferring with him as an attorney or representative of an attorney with reference to such illness or injury, unless the patient has signified his willingness to have such person enter for such purpose and, in the judgment of the officer in charge, the physical or mental condition of the patient will not thereby be impaired.
+
+(b) Any person entering a station or hospital for a purpose enumerated in paragraph (a) of this section shall register in the manner prescribed by the officer in charge, and shall furnish for the records of the station or hospital the name of each patient by whom he has been received for such a purpose.

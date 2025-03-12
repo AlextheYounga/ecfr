@@ -1,0 +1,5 @@
+##### § 161.411 Comment by interested parties. #####
+
+(a) Each aircraft operator requesting a reevaluation shall establish a docket or similar method for receiving and considering comments and shall make comments available for inspection to interested parties specified in paragraph (b) of this section upon request. Comments must be retained for two years.
+
+(b) Each aircraft operator shall promptly notify interested parties if it makes a substantial change in its analysis that affects either the costs or benefits analyzed, or the criteria in § 161.305, differently from the analysis made available for comment in accordance with § 161.407. Interested parties include those who received direct notice under paragraph (a) of § 161.407 and those who have commented on the reevaluation. If an aircraft operator revises its analysis, it shall make the revised analysis available to an interested party upon request and shall extend the comment period at least 45 days from the date the revised analysis is made available.

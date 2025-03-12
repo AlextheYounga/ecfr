@@ -1,0 +1,3 @@
+##### § 1.949 Examiner's Office action closing prosecution in inter partes reexamination. #####
+
+Upon consideration of the issues a second or subsequent time, or upon a determination of patentability of all claims, the examiner shall issue an Office action treating all claims present in the *inter partes* reexamination, which may be an action closing prosecution. The Office action shall set forth all rejections and determinations not to make a proposed rejection, and the grounds therefor. An Office action will not usually close prosecution if it includes a new ground of rejection which was not previously addressed by the patent owner, unless the new ground was necessitated by an amendment.

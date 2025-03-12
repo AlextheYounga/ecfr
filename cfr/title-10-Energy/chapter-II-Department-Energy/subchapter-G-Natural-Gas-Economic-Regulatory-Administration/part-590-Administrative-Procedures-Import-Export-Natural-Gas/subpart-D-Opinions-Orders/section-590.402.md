@@ -1,0 +1,3 @@
+##### § 590.402 Conditional orders. #####
+
+The Assistant Secretary may issue a conditional order at any time during a proceeding prior to issuance of a final opinion and order. The conditional order shall include the basis for not issuing a final opinion and order at that time and a statement of findings and conclusions. The findings and conclusions shall be based solely on the official record of the proceeding.

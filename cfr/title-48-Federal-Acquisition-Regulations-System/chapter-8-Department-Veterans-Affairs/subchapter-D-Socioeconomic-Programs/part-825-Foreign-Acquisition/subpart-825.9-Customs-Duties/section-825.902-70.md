@@ -1,0 +1,3 @@
+##### 825.902-70 Technical assistance. #####
+
+Should the regulations contained in FAR Subpart 25.9 be inadequate to meet the particular needs of the contracting officer in clearing items through customs and/or obtaining duty-free entry of goods, the contracting officer should contact the nearest U.S. Customs and Boarder Protection office for technical assistance. The location of the nearest office can be found at *http://www.customs.gov/xp/cgov/toolbox/contacts/cmcs/.*

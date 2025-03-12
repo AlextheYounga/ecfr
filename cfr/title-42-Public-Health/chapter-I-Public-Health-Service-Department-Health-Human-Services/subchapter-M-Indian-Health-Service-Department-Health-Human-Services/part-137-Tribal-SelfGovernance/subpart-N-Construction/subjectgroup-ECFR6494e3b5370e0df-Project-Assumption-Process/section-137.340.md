@@ -1,0 +1,3 @@
+##### § 137.340 May a Self-Governance Tribe contribute funding to a project? #####
+
+Yes, the Self-Governance Tribe and the Secretary may jointly fund projects. The construction project agreement should identify the Secretarial amount and any Tribal contribution amount that is being incorporated into the construction project agreement. The Self-Governance Tribe does not have to deposit its contribution with the Secretary.

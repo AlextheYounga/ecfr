@@ -1,0 +1,3 @@
+##### § 137.217 May funds provided under compacts, funding agreements, or grants made pursuant to Title V be treated as non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program? #####
+
+Yes, funds provided under compacts, funding agreements, or grants made pursuant to Title V may be treated as non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program.

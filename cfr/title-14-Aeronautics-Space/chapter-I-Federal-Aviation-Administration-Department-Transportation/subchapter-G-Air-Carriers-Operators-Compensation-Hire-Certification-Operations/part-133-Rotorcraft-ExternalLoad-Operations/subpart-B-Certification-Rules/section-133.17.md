@@ -1,0 +1,3 @@
+##### § 133.17 Requirements for issuance of a rotorcraft external-load operator certificate. #####
+
+If an applicant shows that he complies with §§ 133.19, 133.21, and 133.23, the Administrator issues a Rotorcraft External-Load Operator Certificate to him with an authorization to operate specified rotorcraft with those classes of rotorcraft-load combinations for which he complies with the applicable provisions of subpart D of this part.

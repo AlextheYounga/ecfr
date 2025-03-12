@@ -1,0 +1,3 @@
+##### § 62.14770 When must I achieve final compliance? #####
+
+If you plan to continue operating, then you must achieve final compliance by October October 4, 2004. It is unlawful for your air curtain incinerator to operate after October 4, 2004 if you have not achieved final compliance. An air curtain incinerator that continues to operate after October 4, 2004 without being in compliance is subject to penalties.

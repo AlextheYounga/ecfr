@@ -1,0 +1,3 @@
+##### § 511.54 Review of initial decision in absence of appeal. #####
+
+The Administrator may, by order, review a case not otherwise appealed by a party. Thereupon the parties shall and participants may file briefs in accordance with § 511.53(b), (c), (d), (e), and (f) except that the Administrator may, in his or her discretion, establish a different briefing schedule in his or her order. Any such order shall issue within forty (40) days of issuance of the Initial Decision. The order shall set forth the issues which the Administrator will review.

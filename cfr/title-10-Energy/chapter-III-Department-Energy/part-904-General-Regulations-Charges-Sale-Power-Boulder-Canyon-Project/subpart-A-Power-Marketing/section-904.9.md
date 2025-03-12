@@ -1,0 +1,5 @@
+##### § 904.9 Excess capacity. #####
+
+(a) If the Uprating Program results in Excess Capacity, Western shall be entitled to such Excess Capacity to integrate the operation of the Boulder City Area Projects and other Federal Projects on the Colorado River. Specific criteria for the use of Excess Capacity by Western will be provided by Contract. All Excess Capacity not required by Western for the purposes specified by Contract will be available to all Contractors at no additional cost on a pro rata basis based on the ratio of each Contractor's Capacity allocation to the total Capacity allocation.
+
+(b) Credits for benefits resulting from project integration shall be determined by Western and such benefits shall be apportioned in accordance with paragraph (9) of § 904.5 of these General Regulations.

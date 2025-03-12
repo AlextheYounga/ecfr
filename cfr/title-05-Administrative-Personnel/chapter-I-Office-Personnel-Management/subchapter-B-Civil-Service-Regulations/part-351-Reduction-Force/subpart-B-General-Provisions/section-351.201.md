@@ -1,0 +1,11 @@
+##### § 351.201 Use of regulations. #####
+
+(a)(1) Each agency is responsible for determining the categories within which positions are required, where they are to be located, and when they are to be filled, abolished, or vacated. This includes determining when there is a surplus of employees at a particular location in a particular line of work.
+
+(2) Each agency shall follow this part when it releases a competing employee from his or her competitive level by furlough for more than 30 days, separation, demotion, or reassignment requiring displacement, when the release is required because of lack of work; shortage of funds; insufficient personnel ceiling; reorganization; the exercise of reemployment rights or restoration rights; or reclassification of an employee's position die to erosion of duties when such action will take effect after an agency has formally announced a reduction in force in the employee's competitive area and when the reduction in force will take effect within 180 days.
+
+(b) This part does not require an agency to fill a vacant position. However, when an agency, at its discretion, chooses to fill a vacancy by an employee who has been reached for release from a competitive level for one of the reasons in paragraph (a)(2) of this section, this part shall be followed.
+
+(c) Each agency is responsible for assuring that the provisions in this part are uniformly and consistently applied in any one reduction in force.
+
+(d) An agency authorized to administer foreign national employee programs under section 408 of the Foreign Service Act of 1980 (22 U.S.C. 3968) may include special plans for reduction in force in its foreign national employee programs. In these special plans an agency may give effect to the labor laws and practices of the locality of employment by supplementing the selection factors in subparts D and E of this part to the extent consistent with the public interest. Subpart I of this part does not apply to actions taken under the special plans authorized by this paragraph.

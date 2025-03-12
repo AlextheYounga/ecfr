@@ -1,0 +1,5 @@
+##### § 826.1 Purpose of these rules. #####
+
+The Equal Access to Justice Act, 5 U.S.C. 504 (the Act), provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (adversary adjudications) before the National Transportation Safety Board. An eligible party may receive an award when it prevails over the Federal Aviation Administration (FAA), unless the FAA's position in the proceeding was substantially justified or special circumstances make an award unjust. The rules in this part describe the parties eligible for awards and the proceedings that are covered. They also explain how to apply for awards, and the procedures and standards this Board will use to make them. As used hereinafter, the term “Administrator” refers to the Administrator of the FAA.
+
+[77 FR 63253, Oct. 16, 2012]

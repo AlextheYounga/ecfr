@@ -1,0 +1,5 @@
+##### § 174.50 Nonconforming or leaking packages. #####
+
+A leaking non-bulk package may not be forwarded until repaired, reconditioned, or overpacked in accordance with § 173.3 of this subchapter. Except as otherwise provided in this section, a bulk packaging that no longer conforms to this subchapter may not be forwarded by rail unless repaired or approved for movement by the Associate Administrator for Safety, Federal Railroad Administration. Notification and approval must be in writing, or through telephonic or electronic means, with subsequent written confirmation provided within two weeks. For the applicable address and telephone number, see § 107.117(d)(4) of this chapter. A leaking bulk package containing a hazardous material may be moved without repair or approval only so far as necessary to reduce or to eliminate an immediate threat or harm to human health or to the environment when it is determined its movement would provide greater safety than allowing the package to remain in place. In the case of a liquid leak, measures must be taken to prevent the spread of liquid.
+
+[65 FR 50462, Aug. 18, 2000]

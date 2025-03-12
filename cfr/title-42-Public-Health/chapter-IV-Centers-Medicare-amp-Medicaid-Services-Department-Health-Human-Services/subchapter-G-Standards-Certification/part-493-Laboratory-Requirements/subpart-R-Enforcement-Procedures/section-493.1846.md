@@ -1,0 +1,3 @@
+##### § 493.1846 Civil action. #####
+
+If CMS has reason to believe that continuation of the activities of any laboratory, including a State-exempt laboratory, would constitute a significant hazard to the public health, CMS may bring suit in a U.S. District Court to enjoin continuation of the specific activity that is causing the hazard or to enjoin the continued operation of the laboratory if CMS deems it necessary. Upon proper showing, the court shall issue a temporary injunction or restraining order without bond against continuation of the activity.

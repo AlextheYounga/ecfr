@@ -1,0 +1,21 @@
+##### § 225.85 Is notice to or approval from the Board required prior to engaging in a financial activity? #####
+
+(a) *No prior approval required generally*—(1) *In general.* A financial holding company and any subsidiary (other than a depository institution or subsidiary of a depository institution) of the financial holding company may engage in any activity listed in § 225.86, or acquire shares or control of a company engaged exclusively in activities listed in § 225.86, without providing prior notice to or obtaining prior approval from the Board unless required under paragraph (c) of this section.
+
+(2) *Acquisitions by a financial holding company of a company engaged in other permissible activities.* In addition to the activities listed in § 225.86, a company acquired or to be acquired by a financial holding company under paragraph (a)(1) of this section may engage in activities otherwise permissible for a financial holding company under this part in accordance with any applicable notice, approval, or other requirement.
+
+(3) *Acquisition by a financial holding company of a company engaged in limited nonfinancial activities*—(i) *Mixed acquisitions generally permitted.* A financial holding company may under this subpart acquire more than 5 percent of the outstanding shares of any class of voting securities or control of a company that is not engaged exclusively in activities that are financial in nature, incidental to a financial activity, or otherwise permissible for the financial holding company under section 4(c) of the BHC Act (12 U.S.C. 1843(c)) if:
+
+(A) The company to be acquired is substantially engaged in activities that are financial in nature, incidental to a financial activity, or otherwise permissible for the financial holding company under section 4(c) of the BHC Act (12 U.S.C. 1843(c));
+
+(B) The financial holding company complies with the notice requirements of § 225.87, if applicable; and
+
+(C) The company conforms, terminates, or divests, within 2 years of the date the financial holding company acquires shares or control of the company, all activities that are not financial in nature, incidental to a financial activity, or otherwise permissible for the financial holding company under section 4(c) (12 U.S.C. 1843(c))of the BHC Act.
+
+(ii) *Definition of “substantially engaged.”* Unless the Board determines otherwise, a company will be considered to be “substantially engaged” in activities permissible for a financial holding company for purposes of paragraph (a)(3)(A) of this section if at least 85 percent of the company's consolidated total annual gross revenues is derived from and at least 85 percent of the company's consolidated total assets is attributable to the conduct of activities that are financial in nature, incidental to a financial activity, or otherwise permissible for a financial holding company under section 4(c) of the BHC Act (12 U.S.C. 1843(c)).
+
+(b) *Locations in which a financial holding company may conduct financial activities.* A financial holding company may conduct any activity listed in § 225.86 at any location in the United States or at any location outside of the United States subject to the laws of the jurisdiction in which the activity is conducted.
+
+(c) *Circumstances under which prior notice to the Board is required*—(1) *Acquisition of more than 5 percent of the shares of a savings association.* A financial holding company must obtain Board approval in accordance with section 4(j) of the BHC Act (12 U.S.C. 1843(j)) and either § 225.14 or § 225.24, as appropriate, prior to acquiring control or more than 5 percent of the outstanding shares of any class of voting securities of a savings association or of a company that owns, operates, or controls a savings association.
+
+(2) *Supervisory actions.* The Board may, if appropriate in the exercise of its supervisory or other authority, including under § 225.82(g) or § 225.83(d) or other relevant authority, require a financial holding company to provide notice to or obtain approval from the Board prior to engaging in any activity or acquiring shares or control of any company.

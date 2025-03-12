@@ -1,0 +1,3 @@
+##### § 1400.8 Access to off-site consequence analysis information by Federal government officials. #####
+
+The Administrator shall provide any Federal government official with the OCA information requested by the official for official use. The Administrator shall provide the OCA information to the official in electronic form, unless the official specifically requests the information in paper form. The Administrator may charge a fee to cover the cost of copying OCA information in paper form.

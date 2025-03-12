@@ -1,0 +1,3 @@
+##### § 35.42 Notice upon death. #####
+
+The officer in charge shall notify in writing all persons known to him to whom delivery of the patient's money and effects might be made hereunder, and, in the case of an alien patient, a consul of the country of his apparent nationality. Each person so notified shall be requested to furnish information concerning (a) the existence or whereabouts of any persons to whom delivery of the deceased patient's money and effects may be made pursuant to these provisions, and (b) the permanent residence or home of the deceased.

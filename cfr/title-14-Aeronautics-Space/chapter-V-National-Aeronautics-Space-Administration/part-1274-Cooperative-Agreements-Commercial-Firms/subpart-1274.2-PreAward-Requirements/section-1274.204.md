@@ -1,0 +1,55 @@
+##### § 1274.204 Costs and payments. #####
+
+(a) *Cost allowability.* (1) Cooperative agreements awarded to commercial firms are subject to the cost accounting standards and principles of 48 CFR Chapter 99, as implemented by FAR Parts 30 and 31.
+
+(2) If the recipient is a consortium which includes non-commercial entities as members, cost allowability for those members will be determined as follows:
+
+(i) Allowability of costs incurred by state, local or federally-recognized Indian tribal governments is determined in accordance with the provisions of OMB Circular A-87, “Cost Principles for State and Local Governments.”
+
+(ii) The allowability of costs incurred by non-profit organizations is determined in accordance with the provisions of OMB Circular A-122, “Cost Principles for Non-Profit Organizations.”
+
+(iii) The allowability of costs incurred by institutions of higher education is determined in accordance with the provisions of OMB Circular A-21, “Cost Principles for Educational nstitutions.”
+
+(iv) The allowability of costs incurred by hospitals is determined in accordance with the provisions of Appendix E of 45 CFR part 74, “Principles for Determining Costs Applicable to Research and Development Under Grants and Contracts with Hospitals.”
+
+(3) A recipient's method for accounting for the expenditure of funds must be consistent with generally accepted accounting principles.
+
+(b) *Cost sharing.* (1) Given the mutually beneficial nature of, in particular, potential commercially marketable products expected to result from the research activities of the cooperative agreement, resource contributions are required from the recipient. The commercial recipient is expected to contribute at least 50 percent of the total resources necessary to accomplish the cooperative agreement effort. Recipient contributions may be cash, non-cash (in-kind) or both. Acceptable non-cash or in-kind resources include such items as equipment, facilities, labor, office space, etc. In determining the incentive to the recipient to share costs, agreement officers must consider a variety of factors. For example, while the future profitability of intellectual property may serve as an incentive for involvement of the commercial firm in the cooperative agreement, the actual or imputed value of such items as patent rights, data rights, trade secrets, etc., included in intellectual property is generally not considered a reliable source for computation of the recipient's contributions.
+
+(2) In most cases these costs are not readily quantifiable. Thus, although the value of intellectual property rights should be factored into the incentive for the recipient to share at least 50 percent of costs, intellectual property rights do not serve as quantifiable amounts to determine the equitable dollar amounts of costs to be shared.
+
+(3) As is expected from the commercial partner, the Government's cost share should reflect certain non-cash as well as cash contributions to the most practicable extent possible. Where quantifiable, NASA will include in the calculation of the Government's cost share, non-cash or in-kind contributions, which includes the value of equipment, personnel, and facilities. Costs incurred by NASA to provide the services of one or more support contractors to perform part of NASA's requirements under a cooperative agreement will be counted as part of NASA's in-kind contributions. This approach is also supported by the initiative to implement full cost accounting methods within the Federal Government.
+
+(4) When other Government agencies act as partners along with NASA (e.g., Department of Defense or Federal Aviation Administration), the resources contributed by any Government agency shall be counted as part of the Government's total cost share under the cooperative agreement.
+
+(5) For every cooperative agreement, there should be evidence of the recipient's strong commitment and self-interest in the success of the research project. A very strong indicator of a recipient's self-interest is the willingness to commit to a meaningful level of cost sharing (i.e., 50 percent). Before considering whether it is impracticable for the recipient to share at least 50% of the performance costs, agreement officers should also consider whether other factors exist that demonstrate the recipient's financial stake or self-interest in the success of the cooperative agreement.
+
+(6) In cases where a contribution of less than 50 percent is anticipated from the commercial recipient, approval of the Assistant Administrator for Procurement (Code HS) is required prior to award. The request for approval should address the evaluation factor in the solicitation and how the proposal accomplishes those objectives to such a degree that a share ratio of less than 50 percent is warranted.
+
+(7) Once accepted for application to costs shared under the cooperative agreement, cash and in-kind contributions including Independent Research and Development (IR&D) costs, may not be included as contributions for any other federally assisted project or program.
+
+(c) *Fixed funding.* (1) Cooperative agreements are funded by NASA through the disbursement of agreed upon fixed payment amounts to the recipient. NASA makes disbursement of funds to the recipient as “Milestone payments” discussed in paragraph (d) of this section. If the recipient achieves the final milestone, final payment is made, which completes NASA's financial responsibilities under the agreement.
+
+(2) Fixed payments on a cooperative agreement are made by NASA based on the accomplishment by the recipient of predetermined tangible milestones. Any arrangement where payments are made on a basis other than accomplished tangible milestones must be approved in accordance with the requirements of § 1274.106 Deviations.
+
+(3) If the cooperative agreement is terminated prior to achievement of all milestones, NASA's funding is limited to milestone payments already made plus NASA's share of costs incurred to meet commitments of the recipient, which had in the judgment of NASA become firm prior to the effective date of termination. In no event, however, shall the amount of NASA's share of these additional costs exceed the amount of the next scheduled milestone payment.
+
+(d) *Milestone obligations and payments.* Agreement officers, technical officers, accounting and finance officials, and all other responsible NASA personnel shall ensure that funds for milestone payments are obligated, billed and expended in accordance with the guidance set forth by the NASA Financial Management Manual (FMM 9000).
+
+(1) There must always be sufficient funds obligated to cover the next milestone payment. In addition, funds must be made available (but not necessarily obligated) to cover all milestone payments expected to be made during the current fiscal year of performance.
+
+(2) Disbursement of funds to the recipient is based on the achievement of milestones or performance-related benchmarks. The milestone must represent the accomplishment of verifiable, significant event(s) and may not be based upon the mere passage of time or the performance of a particular level of effort. The Government technical officer must verify to and advise the agreement officer that each milestone has been achieved prior to authorizing the corresponding payment.
+
+(3) The amount of funds to be disbursed by NASA in recognition of the achievement of milestones (“milestone payments”) shall be established consistent with the ratio of resource sharing agreed upon under the cooperative agreement (see paragraph (e)(2) of this section). While the schedule for milestone achievement must reflect the project being undertaken, the frequency should not be greater than one payment per month. For many projects, scheduling milestones to be accomplished about every 60 to 90 days appears to be most workable. Partial or interim milestone payments may not be made.
+
+(4) The final milestone payment should be structured so that the associated payment is large enough to provide incentive to the recipient to complete its responsibilities under the cooperative agreement. Alternatively, funds may be reserved for disbursement after completion of the effort.
+
+(e) *Incremental funding.* Whenever the period of performance for the cooperative agreement crosses fiscal years, the agreement shall be incrementally funded using appropriations from different fiscal years. In other circumstances, incremental funding may be appropriate. The total amount of funds obligated during the course of a fiscal year must be sufficient to cover the Government's share of the costs anticipated to be incurred by the recipient during that fiscal year. NASA may allot funds to an agreement at various times during a fiscal year in anticipation of the occurrence of costs. However, there must always be sufficient funds obligated to cover all milestone payments expected to be made during the current fiscal year.
+
+(f) *Profit applicability.* Recipients shall not be paid a profit under cooperative agreements. Profit may be paid by the recipient to subcontractors, if the subcontractor is not part of the offering team and the subcontract is an arms-length relationship. All entities that are involved in performing the research and development effort that is the purpose of the cooperative agreement shall be part of the recipient's consortium and not subcontractors.
+
+(g) *Independent Research and Development (IR&D) costs.* When determining the applicable dollar amounts or reasonableness of proposed IR&D costs to be included as part of the recipient's cost share, agreement officers should seek assistance from DCAA or the cognizant audit agency.
+
+(1) In accordance with FAR 31.205-18(e), IR&D costs may include costs contributed by contractors in performing cooperative research and development agreements or similar arrangements, entered into under sections 203(c)(5) and (6) of the National Aeronautics and Space Act of 1958, as amended (42 U.S.C. 2473(c)(5) and (6)). IR&D costs incurred by a contractor pursuant to these types of cooperative agreements should be considered as allowable IR&D costs if the work performed would have been allowed as contractor IR&D had there been no cooperative arrangement.
+
+(2) IR&D costs (or an agreed upon portion of IR&D costs) incurred by the recipient's organization and deemed by NASA as the same type of research being undertaken by the cooperative agreement between NASA and the recipient may serve as part of the recipient's contribution of shared costs under the cooperative agreement. When considering the use of IR&D costs as part of the recipient's cost share, the IR&D costs offered by the recipient shall meet the requirements of FAR 31.205-18. Any IR&D costs incurred in a prior period, and offered as part of the recipient's cost share shall meet the criteria established by FAR 31.205-18(d), Deferred IR&D Costs.

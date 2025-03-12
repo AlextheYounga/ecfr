@@ -1,0 +1,3 @@
+##### § 556.405 When must I notify BOEM of mergers, name changes, or changes of business form? #####
+
+You must notify BOEM of any merger, name change, or change of business form as soon as practicable, but in no case later than one year after the earlier of the effective date or the date of filing the change or action with the Secretary of State or other authorized official in the State of original registry.

@@ -1,0 +1,3 @@
+##### § 171.26 Additional requirements for the use of the IAEA Regulations. #####
+
+A Class 7 (radioactive) material being imported into or exported from the United States or passing through the United States in the course of being shipped between places outside the United States may be offered for transportation or transported in accordance with the IAEA Regulations (IBR, see § 171.7) as authorized in paragraph (a) of § 171.22, provided the requirements in § 171.22, as applicable, are met.

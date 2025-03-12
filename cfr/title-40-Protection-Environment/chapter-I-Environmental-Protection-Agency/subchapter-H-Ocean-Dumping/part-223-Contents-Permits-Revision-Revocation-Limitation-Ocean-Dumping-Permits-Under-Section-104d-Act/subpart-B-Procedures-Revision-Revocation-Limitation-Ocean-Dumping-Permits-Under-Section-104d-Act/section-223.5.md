@@ -1,0 +1,3 @@
+##### § 223.5 Request for, scheduling and conduct of adjudicatory hearing; determination. #####
+
+Within ten (10) days following the receipt of the Administrator's or Regional Administrator's determination issued pursuant to § 223.4(g), any person who participated in the public hearing held pursuant to § 223.4 may request that an adjudicatory hearing be held for the purpose of reviewing such determination or any part thereof. Such request shall be submitted and disposed of, and any adjudicatory hearing convened shall be conducted in accordance with the procedures set forth in §§ 222.10 (a), (b), (d), and (e) and 222.11.

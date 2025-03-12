@@ -1,0 +1,3 @@
+##### § 62.14520 How do I determine if my CISWI unit is covered by an approved and effective State or Tribal plan? #####
+
+This part (40 CFR part 62) contains a list of State and Tribal areas with approved Clean Air Act section 111(d) and section 129 plans along with the effective dates for such plans. The list is published annually. If this part does not indicate that your State or Tribal area has an approved and effective plan, you should contact your State environmental agency's air director or your EPA Regional Office to determine if the EPA has approved a State plan covering your unit since publication of the most recent version of this subpart.

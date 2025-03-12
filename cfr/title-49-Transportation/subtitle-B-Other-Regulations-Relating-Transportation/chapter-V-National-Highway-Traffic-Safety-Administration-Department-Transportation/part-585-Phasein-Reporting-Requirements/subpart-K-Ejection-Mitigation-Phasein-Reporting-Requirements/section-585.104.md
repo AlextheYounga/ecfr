@@ -1,0 +1,3 @@
+##### § 585.104 Response to inquiries. #####
+
+At anytime during the production years ending August 31, 2014, August 31, 2015, August 31, 2016, and August 31, 2017, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been certified as complying with the ejection mitigation requirements of Standard No. 226, *Ejection mitigation* (49 CFR 571.226). The manufacturer's designation of a vehicle as a certified vehicle is irrevocable.

@@ -1,0 +1,3 @@
+##### § 68b.1 What is the scope and purpose of the National Institutes of Health Undergraduate Scholarship Program Regarding Professions Needed by National Research Institutes? #####
+
+This part applies to the award of scholarships under the National Institutes of Health Undergraduate Scholarship Program Regarding Professions Needed by National Research Institutes, authorized by section 487D of the Public Health Service Act (42 U.S.C. 288-4), to undergraduate students attending schools, as the term is defined in this part. The purpose of this program is to help ensure an adequate supply of trained health professionals for the National Institutes of Health, which has the mission to uncover new knowledge that will lead to better health.

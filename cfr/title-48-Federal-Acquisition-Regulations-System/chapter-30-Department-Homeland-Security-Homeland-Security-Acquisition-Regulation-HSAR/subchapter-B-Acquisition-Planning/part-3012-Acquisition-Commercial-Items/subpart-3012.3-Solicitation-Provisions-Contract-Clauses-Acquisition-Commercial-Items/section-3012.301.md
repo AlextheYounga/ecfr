@@ -1,0 +1,3 @@
+##### 3012.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
+
+(f) Solicitation provisions and contract clauses. Insert (HSAR) 48 CFR 3052.212-70, Contract Terms and Conditions Applicable to DHS Acquisition of Commercial Items, in any solicitation or contract for commercial items when any of the provisions or clauses listed therein applies and where incorporation by reference of each selected provision or clause is, to the maximum extent practicable, consistent with customary commercial practice. If necessary, tailor this clause.

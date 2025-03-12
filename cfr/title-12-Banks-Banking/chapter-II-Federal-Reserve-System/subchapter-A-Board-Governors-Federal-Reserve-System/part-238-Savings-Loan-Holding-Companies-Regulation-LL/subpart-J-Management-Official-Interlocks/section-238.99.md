@@ -1,0 +1,3 @@
+##### § 238.99 Interlocking relationships permitted pursuant to Federal Deposit Insurance Act. #####
+
+A management official or prospective management official of a depository organization may enter into an otherwise prohibited interlocking relationship with another depository organization for a period of up to 10 years if such relationship is approved by the Federal Deposit Insurance Corporation pursuant to section 13(k)(1)(A)(v) of the Federal Deposit Insurance Act, as amended (12 U.S.C. 1823(k)(1)(A)(v)).

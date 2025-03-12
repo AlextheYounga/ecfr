@@ -1,0 +1,5 @@
+##### § 609.5 Applicability. #####
+
+This part, which applies to projects approved by the Federal Transit Administrator on or after May 31, 1976, applies to all planning, capital, and operating assistance projects receiving Federal financial assistance under sections 5307 or 5308 of the Federal transit laws (49 U.S.C. Chapter 53), and nonhighway public mass transportation projects receiving Federal financial assistance under: (1) Subsection (a) or (c) of section 142 of title 23, United States Code; and (2) paragraph (4) of subsection (e) of section 103, title 23, United States Code. However, under certain circumstances evident in §§ 609.13 through 609.21, the latter sections apply to fixed facilities and vehicles included in projects approved before May 31, 1976. Sections in this part on capital assistance applications, fixed facilities, and vehicles apply expressly to capital assistance projects receiving Federal financial assistance under any of the above statutes.
+
+[41 FR 18239, Apr. 30, 1976, as amended at 61 FR 19562, May 2, 1996]

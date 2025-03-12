@@ -1,0 +1,3 @@
+##### § 66.52 Petitions for reconsideration of calculation. #####
+
+Within forty-five days after receipt of notice under § 66.51(a)(2) that the penalty has been recalculated by EPA, a source owner or operator who wishes to challenge EPA's recalculation shall petition in writing for reconsideration. A statement of all arguments on which the owner or operator relies, including all necessary supporting data and a substitute penalty calculation and payment schedule shall be included in or accompany this petition. Issues not raised in the petition shall be deemed waived.

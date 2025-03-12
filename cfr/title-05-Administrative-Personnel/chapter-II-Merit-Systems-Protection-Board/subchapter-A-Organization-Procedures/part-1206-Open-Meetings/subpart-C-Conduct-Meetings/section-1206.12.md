@@ -1,0 +1,3 @@
+##### § 1206.12 Role of observers. #####
+
+The public may attend open meetings for the sole purpose of observation. Observers may not participate in the meetings unless they are expressly invited to do so. They also may not create distractions that interfere with the conduct and disposition of Board business, and they may be asked to leave if they do so. Observers of meetings that are partially closed must leave the meeting room when they are asked to do so.

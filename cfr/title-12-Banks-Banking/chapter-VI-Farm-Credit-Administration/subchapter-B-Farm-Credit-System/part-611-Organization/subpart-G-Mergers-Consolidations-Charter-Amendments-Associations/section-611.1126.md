@@ -1,0 +1,17 @@
+##### § 611.1126 Reconsiderations of mergers and consolidations. #####
+
+(a) Voting stockholders have the right to reconsider their approval of a merger or consolidation, provided that a petition is filed with the FCA. The petition must be signed by 15 percent of the stockholders (who were eligible to vote on the merger or consolidation proposal) of one or more of the constituent associations. The reconsideration petition must be filed with the FCA within 35 days after the date when the association mailed the notification of the final results of the stockholder vote pursuant to § 611.1122(h).
+
+(b) Voting stockholders that intend to file a reconsideration petition have a right to obtain from the association of which they are a voting stockholder the voting record date list used by that association for the merger or consolidation vote. The association must provide the voting record date list as soon as possible, but not later than 7 days after receipt of the request. The list must be provided pursuant to the provisions of § 618.8310(b) of this chapter.
+
+(c) A reconsideration petition must be addressed to the Secretary of the FCA Board and filed with the FCA on or before the deadline described in paragraph (a) of this section. Reconsideration petitions must identify a contact person and provide contact information for that person.
+
+(1) Filing of a reconsideration petition may only be accomplished through in-person delivery during normal business hours to any FCA employee in official duty status or by sending the petition by mail, facsimile, electronic transmission, carrier delivery, or other similar means to an FCA office.
+
+(2) The FCA will use the postmark, ship date, electronic stamp, or similar evidence as the date of filing the reconsideration petition.
+
+(d) The FCA will notify the named contact on the reconsideration petition whether the petition was filed on time. On the timely receipt of a reconsideration petition, the FCA will review the petition to determine whether it complies with the requirements of section 7.9 of the Act. Following a determination that the petition was timely filed and complies with applicable requirements, the FCA will give notice to the associations involved in the merger or consolidation for which the reconsideration petition was filed. The associations are not entitled to either a copy of the petition or the names of the petitioners.
+
+(e) Following FCA notification that a reconsideration petition has been properly filed, a special stockholders meeting must be called by the association(s) to reconsider the merger or consolidation vote. The reconsideration vote must be conducted according to the merger and consolidation voting requirements of § 611.1122(d). If a majority of the stockholders voting, in person or by proxy, at a duly authorized stockholders' meeting from any one of the constituent associations vote against the merger or consolidation under the reconsideration vote, the merger or consolidation will not take place. In the event that the merger or consolidation is approved on reconsideration, the constituent associations must use the second effective date developed under § 611.1122(g)(1).
+
+[80 FR 51121, Aug. 24, 2015]
