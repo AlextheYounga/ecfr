@@ -1,5 +1,7 @@
 ##### § 679.85 Cost recovery. #####
 
+Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
+
 (a) *Cost recovery fees* - (1) *Responsibility.* The person documented on the rockfish CQ permit as the permit holder at the time of a rockfish CQ landing must comply with the requirements of this section.
 
 (i) Subsequent transfer of rockfish CQ or rockfish QS held by rockfish cooperative members does not affect the rockfish CQ permit holder's liability for noncompliance with this section.

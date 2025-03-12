@@ -1,7 +1,5 @@
 ##### § 456.712 Annual report. #####
 
-Link to an amendment published at 85 FR 87104, Dec. 31, 2020.
-
 (a) *DUR Board report.* The State must require the DUR Board to prepare and submit an annual DUR report to the Medicaid agency that contains information specified by the State.
 
 (b) *Medicaid agency report.* The Medicaid agency must prepare and submit, on an annual basis, a report to the Secretary that incorporates the DUR Board's report and includes the following information:
@@ -25,3 +23,7 @@ Link to an amendment published at 85 FR 87104, Dec. 31, 2020.
 (9) Clear statements of purpose that delineate the respective goals, objectives, and scopes of responsibility of the DUR and surveillance and utilization (SUR) functions. These statements must clarify the working relationships between DUR and SUR functions and other entities such as the Medicaid Fraud Control Unit and State Board of Pharmacy. The annual report also must include a statement delineating how functional separation will be maintained between the fraud and abuse activities and the educational activities. After the first annual report, only changes must be reported.
 
 (10) An estimate of the cost savings generated as a result of the DUR program. This report must identify costs of DUR and savings to the Medicaid drug program attributable to prospective and retrospective DUR.
+
+(c) *Public availability.* All fee-for-service (FFS) and managed care DUR reports received by CMS under paragraph (b) of this section and, as applicable, pursuant to § 438.3(s) of this chapter, will be publicly posted on a website maintained by CMS for the sharing of reports and other information concerning Medicaid DUR programs.
+
+[57 FR 49408, Nov. 2, 1992, as amended at 85 FR 87104, Dec. 31, 2020]

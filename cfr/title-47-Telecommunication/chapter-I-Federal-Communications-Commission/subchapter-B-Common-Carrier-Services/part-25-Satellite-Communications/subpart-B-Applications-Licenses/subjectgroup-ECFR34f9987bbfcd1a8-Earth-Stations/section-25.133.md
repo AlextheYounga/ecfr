@@ -1,5 +1,7 @@
 ##### § 25.133 Period of construction; certification of commencement of operation. #####
 
+Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
+
 (a)(1) Each initial license for an earth station governed by this part, except for blanket licenses, will specify as a condition therein the period in which construction of facilities must be completed and station operation commenced. Construction of the earth station must be completed and the station must be brought into operation within 12 months from the date of the license grant except as may be determined by the Commission for any particular application.
 
 (2) Operation of a network of earth stations at unspecified locations under an initial blanket license must commence within 12 months from the date of the license grant unless the Commission orders otherwise.

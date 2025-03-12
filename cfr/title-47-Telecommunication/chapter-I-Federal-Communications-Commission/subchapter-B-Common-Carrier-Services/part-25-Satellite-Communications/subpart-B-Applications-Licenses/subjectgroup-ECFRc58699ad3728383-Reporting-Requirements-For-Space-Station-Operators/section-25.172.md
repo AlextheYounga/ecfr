@@ -1,5 +1,7 @@
 ##### § 25.172 Requirements for reporting space station control arrangements. #####
 
+Link to an amendment published at 86 FR 11888, Mar. 1, 2021.
+
 (a) The operator of any space station licensed by the Commission or granted U.S. market access must file the following information with the Commission prior to commencing operation with the space station, or, in the case of a non-U.S.-licensed space station, prior to commencing operation with U.S. earth stations.
 
 (1) The information required by § 25.170(b).

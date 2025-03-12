@@ -1,5 +1,7 @@
 ##### § 679.23 Seasons. #####
 
+Link to an amendment published at 86 FR 11903, Mar. 1, 2021.
+
 (a) *Groundfish, general.* Fishing for groundfish in the GOA and BSAI is authorized from 0001 hours, A.l.t., January 1, through 2400 hours, A.l.t., December 31, subject to the other provisions of this part, except as provided in paragraph (c) of this section.
 
 (b) *Time of groundfish openings and closures.* The time of all openings and closures of fishing seasons, other than the beginning and end of the calendar fishing year, is 1200 hours, A.l.t.

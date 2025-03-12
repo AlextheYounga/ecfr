@@ -1,6 +1,6 @@
 ##### § 389.35 Petitions for reconsideration. #####
 
-Link to an amendment published at 85 FR 86849, Dec. 31, 2020.
+Link to an amendment published at 85 FR 86849, Dec. 31, 2020.Link to an extension of the above amendment published at 86 FR 11891, Mar. 1, 2021.
 
 (a) Any interested person may petition the Administrator for reconsideration of any rule issued under this part. The petition must be in English and submitted to the Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, and received not later than thirty (30) days after publication of the rule in the Federal Register. Petitions filed after that time will be considered as petitions filed under § 389.31 of this part. The petition must contain a brief statement of the complaint and an explanation as to why compliance with the rule is not practicable, is unreasonable, or is not in the public interest.
 

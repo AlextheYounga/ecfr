@@ -54,4 +54,6 @@ Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
 
 (2) Best price must be determined on a unit basis without regard to package size, special packaging, labeling, or identifiers on the dosage form or product or package.
 
-(3) The manufacturer must adjust the best price for a rebate period if cumulative discounts, rebates, or other arrangements subsequently adjust the prices available from the manufacturer.
+(3) The manufacturer must adjust the best price for a rebate period if cumulative discounts, rebates, or other arrangements subsequently adjust the prices available, to the extent that such cumulative discounts, rebates, or other arrangements are not excluded from the determination of best price by statute or regulation.
+
+[81 FR 5347, Feb. 1, 2016, as amended at 85 FR 87102, Dec. 31, 2020]

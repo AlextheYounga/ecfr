@@ -6,7 +6,7 @@
 
 (c) *Scope.* This part establishes minimum capital and margin requirements for each covered swap entity subject to this part with respect to all non-cleared swaps and non-cleared security-based swaps. This part applies to any non-cleared swap or non-cleared security-based swap entered into by a covered swap entity on or after the relevant compliance date set forth in paragraph (e) of this section. Nothing in this part is intended to prevent a covered swap entity from collecting margin in amounts greater than are required under this part.
 
-(d) *Exemptions* - (1) *Swaps.* The requirements of this part (except for § 45.12) shall not apply to a non-cleared swap if the counterparty:
+(d) *Exemptions*—(1) *Swaps.* The requirements of this part (except for § 45.12) shall not apply to a non-cleared swap if the counterparty:
 
 (i) Qualifies for an exception from clearing under section 2(h)(7)(A) of the Commodity Exchange Act of 1936 (7 U.S.C. 2(h)(7)(A)) and implementing regulations;
 
@@ -126,4 +126,4 @@
 
 (B) All payment obligations attached to the total effective notional amount being eliminated as a result of the amendment are fully novated to a third party, who complies with applicable margin rules for the novated portion upon the transfer.
 
-[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015; 83 FR 50811, Oct. 10, 2018; 84 FR 9948, Mar. 19, 2019; 85 FR 39771, 39468, July 1, 2020]Editorial Note:At 84 FR 9948, Mar. 19, 2019, § 45.1 was amended by adding paragraph (h), containing two subparagraphs designated (h)(2)(iv).
+[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015; 83 FR 50811, Oct. 10, 2018; 84 FR 9948, Mar. 19, 2019; 85 FR 39468, 39771, July 1, 2020]Editorial Note:At 84 FR 9948, Mar. 19, 2019, § 45.1 was amended by adding paragraph (h), containing two subparagraphs designated (h)(2)(iv).

@@ -1,5 +1,7 @@
 ##### § 532.207 Time schedule for wage surveys. #####
 
+Link to an amendment published at 86 FR 11859, Mar. 1, 2021.
+
 (a) Wage surveys shall be conducted on a 2-year cycle at annual intervals.
 
 (b) A full-scale survey shall be made in the first year of the 2-year cycle and shall include development of a current sample of establishments and the collection of wage data by visits to establishments.

@@ -1,5 +1,7 @@
 ##### § 532.247 Wage change surveys. #####
 
+Link to an amendment published at 86 FR 11859, Mar. 1, 2021.
+
 (a) Wage change surveys shall be conducted in each wage area in years during which full-scale wage surveys are not conducted.
 
 (b) Data shall be collected in wage change surveys only from establishments which participated in the preceding full-scale survey. Information concerning pay adjustments of general application in effect for jobs matched in each establishment which participated in the preceding full-scale survey shall be obtained.

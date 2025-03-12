@@ -1,5 +1,7 @@
 ##### § 25.118 Modifications not requiring prior authorization. #####
 
+Link to an amendment published at 86 FR 11887, Mar. 1, 2021.
+
 (a) *Earth station modifications, notification required.* Earth station licensees may make the following modifications without prior Commission authorization, provided they notify the Commission, using FCC Form 312 and Schedule B, within 30 days of the modification. The notification must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.
 
 (1) Blanket-licensed earth station operators may add remote terminals operating on a primary basis without prior authorization, provided they have complied with all applicable frequency coordination procedures in accordance with § 25.251.

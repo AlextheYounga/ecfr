@@ -4,7 +4,7 @@ Any person entitled to a hearing and desiring to appear in any hearing, shall, i
 
 (Date)Drug Enforcement Administration, Attn: Hearing Clerk/OALJ(Mailing Address)Subject: Notice of AppearanceDear Sir:
 
-Please take notice that \_\_\_\_\_\_ (Name of person) will appear in the matter of: \_\_\_\_\_\_ (Identification of the proceeding).
+Please take notice that \_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of person) will appear in the matter of: \_\_\_\_\_\_\_\_\_\_\_\_\_ (Identification of the proceeding).
 
 (A) (State with particularity the interest of the person in the proceeding.).
 

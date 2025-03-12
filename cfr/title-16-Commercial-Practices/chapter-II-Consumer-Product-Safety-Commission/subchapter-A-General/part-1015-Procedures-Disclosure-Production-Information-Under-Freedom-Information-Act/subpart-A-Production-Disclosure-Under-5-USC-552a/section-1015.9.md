@@ -1,8 +1,6 @@
 ##### § 1015.9 Fees for production of records. #####
 
-Link to an amendment published at 86 FR 7505, Jan. 29, 2021.
-
-(a) The Commission will provide, at no charge, certain routine information. For other Commission responses to information requests, the Secretariat shall determine and levy fees for duplication, search, review, and other services, in accordance with this section.
+(a) The CPSC will provide, at no charge, certain routine information. For other CPSC responses to information requests, the Chief FOIA Officer, or the delegate of the Chief FOIA Officer, shall determine and levy fees for duplication, search, review, and other services, in accordance with this section.
 
 (b) Fees shall be paid to the Treasury of the United States according to the directions provided by the Commission.
 
@@ -28,72 +26,104 @@ Link to an amendment published at 86 FR 7505, Jan. 29, 2021.
 
 (e) The following fee schedule will apply:
 
-(1) Copies of documents reproduced on a standard photocopying machine: $0.10 per page. Where paper documents must be scanned in order to comply with a requester's preference to receive records in an electronic format, the requester must also pay the direct costs associated with scanning those materials.
+(1) *Duplication.* (i) Manual photocopies: $0.15 per page.
 
-(2) File searches conducted by clerical personnel: $3.00 for each one-quarter hour (a fraction thereof to be counted as one-quarter hour). Any special costs of sending records from field locations to headquarters for review will be included in search fees, billed at the clerical personnel rate.
+(ii) Computer printouts that are sent from a computer to a printer or photocopier machine: $0.15 per page.
 
-(3) File searches conducted by non-clerical or professional or managerial personnel: $4.90 for each one-quarter hour (a fraction thereof to be counted as one-quarter hour).
+(iii) Compact discs, DVDs, or other similar media duplications: Direct-cost basis. The exact fees for duplication of records on these forms of media will be calculated and published annually and are available to the public on the CPSC's FOIA web page at: *https://www.cpsc.gov,* and from the Office of the General Counsel, Division of the Secretariat, Consumer Product Safety Commission, Room 820, 4330 East-West Highway, Bethesda, MD 20814.
 
-(4) Review of records: $4.90 for each one-quarter hour (a fraction thereof to be counted as one-quarter hour).
+(iv) There is no duplication fee for producing records provided to requesters in electronic format, or for pages redacted in full in any format.
 
-(5) Computerized records: $0.10 per page of computer printouts or, for central processing, $0.32 per second of central processing unit (CPU) time; for printer, $10.00 per 1,000 lines; and for computer magnetic tapes or discs, direct costs.
+(v) Requesters can request and be provided records in any format that is readily reproducible by the agency, including electronic format.
 
-(6) Postage: Direct-cost basis for mailing requested materials, if the requester wants special handling or if the volume or dimensions of the materials requires special handling.
+(vi) When records available only in paper format must be scanned to comply with a requester's preference to receive records in an electronic format, the requester must pay the direct costs of scanning those materials. The exact fees for scanning these materials will be assessed on a quarter-hour basis, will be calculated and published annually, and are available to the public on the CPSC's FOIA web page at: *https://www.cpsc.gov,* and from the Office of the General Counsel, Division of the Secretariat, Consumer Product Safety Commission, Room 820, 4330 East-West Highway, Bethesda, MD 20814.
 
-(7) Microfiche: $0.35 for each frame.
+(2) *Searches.* Fees for searches are assessed on a quarter-hour basis. The exact fees for searches are calculated and published annually and are available to the public on the CPSC's FOIA web page at: *https://www.cpsc.gov,* and from the Office of the General Counsel, Division of the Secretariat, Consumer Product Safety Commission, Room 820, 4330 East-West Highway, Bethesda, MD 20814.
 
-(8) Other charges for materials requiring special reproducing or handling, such as photographs, slides, blueprints, video and audio tape recordings, or other unusual materials: direct-cost basis.
+(i) *Manual file searches.* Manual search fees are calculated using the basic hourly pay rate of the average grade and step of employees who charged hours in this category (GS 14/7), plus 16 percent to account for the cost of benefits.
 
-(9) Any other service: An appropriate fee established by the Secretariat, based on direct costs.
+(ii) *Computer searches.* Computer search fees are calculated using the basic hourly pay rate of the average grade and step of employees who charged hours in this category (GS 12/4), plus 16 percent to account for the cost of benefits.
 
-(f) Fees shall be waived as follows:
+(3) *Review.* Fees for review are assessed on a quarter-hour basis. The exact fee for review is calculated and published annually and is available to the public on the CPSC's FOIA web page at: *https://www.cpsc.gov* and from the Office of the General Counsel, Division of the Secretariat, Consumer Product Safety Commission, Room 820, 4330 East-West Highway, Bethesda, MD 20814. The review fee is calculated using the basic hourly pay rate of the average grade and step of employees who charged hours in this category (GS 12/9), plus 16 percent to account for the cost of benefits. Fees for reviewing records will only be charged to commercial requesters.
 
-(1) No automatic fee waiver shall apply to commercial use requests.
+(4) *Postage.* If the requester wants special handling, or if the volume or dimensions of the materials requires special handling, the FOIA Office will charge the direct cost of mailing such requested materials.
 
-(2) The first $10.00 of duplication costs shall be waived for requests from educational institutions, non-commercial scientific institutions, and representatives of the news media.
+(5) *Other charges.* (i) Materials requiring special reproducing or handling, such as photographs, slides, blueprints, video and audio tape recordings, or other similar media: Direct-cost basis.
 
-(3) For all other requests, the first $10.00 of duplication costs and the first $40 of search costs shall be waived.
+(ii) Any other service: Direct-cost basis.
 
-(4) The Secretariat shall waive or reduce fees whenever disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and disclosure of the requested information is not primarily in the commercial interest of the requester.
+(f) Notice of anticipated fees in excess of $25:
 
-(5) In making a determination under paragraph (f)(4) of this section, the Secretariat shall consider the following factors:
+(1) When the FOIA Office determines or estimates that the fees to be assessed will exceed $25, the FOIA Office shall promptly notify the requester of the actual or estimated amount of the fees, including a breakdown of the fees for search, review, and duplication, if applicable, and any applicable fee waivers that would apply to the request, unless the requester has indicated a willingness to pay fees as high as those anticipated. The notice shall specify that the requester may confer with agency staff with the objective of reformulating the request to meet the requester's needs at a lower cost. If only a portion of the fee can be estimated readily, the FOIA Office will advise the requester, accordingly. If the request is not from a commercial use requester, the notice shall specify that the requester is entitled to 100 pages of duplication at no charge, and if the requester is charged search fees, 2 hours of search time at no charge.
 
-(i) The subject of the request: Whether the subject of the requested records concerns the operations or activities of the government.
+(2) When a requester has been provided notice of anticipated fees in excess of $25, the FOIA Office shall toll processing of the request, and further work will not be completed until the requester commits in writing to pay the actual or estimated total fee, or designates the amount of fees the requester is willing to pay. In the case of a requester who is not a commercial requester, the requester may designate that the requester seeks only those services that can be provided in paragraphs (g)(2) and (3) of this section, without charge. The CPSC is not required to accept payment in installments.
 
-(ii) The informative value of the information to be disclosed: Whether the disclosure is likely to contribute to an understanding of government operations or activities.
+(3) If the requester has committed to pay a designated amount of fees, but the FOIA Office determines or estimates that the total fee will exceed that amount, the FOIA Office shall toll processing of the request and notify the requester of the actual or estimated fees in excess of the requester's commitment. The FOIA Office shall inquire whether the requester wishes to revise the amount of fees the requester is willing to pay or wishes to modify the request. Once the requester responds, the administrative time limits in § 1015.5 will resume.
 
-(iii) The contribution to an understanding of the subject by the general public likely to result from disclosure: Whether disclosure of the requested information will contribute to public understanding.
+(4) The Chief FOIA Officer shall make available the FOIA Public Liaison to assist requesters in reformulating a request to meet the requester's needs at a lower cost.
 
-(iv) The significance of the contribution to public understanding: Whether the disclosure is likely to contribute significantly to public understanding of government operations or activities.
+(5) If a requester does not commit in writing to pay the actual or estimated total fee or designate in writing the amount of fees the requester is willing to pay within 30 working days from the date of the notification letter, the request shall be closed. The FOIA Office shall notify the requester that the request has been closed.
 
-(v) The existence and magnitude of a commercial interest: Whether the requester has a commercial interest that would be furthered by the requested disclosure; and, if so
+(6) Any adverse determination made by the Chief FOIA Officer, or the designee of the Chief FOIA Officer, concerning a dispute over actual or estimated fees can be appealed by the requester to the General Counsel, in the manner described at § 1015.7.
 
-(vi) The primary interest in disclosure: Whether the magnitude of the identified commercial interest of the requester is sufficiently large, in comparison with the public interest in disclosure, that disclosure is primarily in the commercial interest of the requester.
+(g)(1) There are three categories of requesters: Commercial; educational institutions, noncommercial scientific institutions, and representatives of the news media; and all other requesters, including members of the general public.
 
-(6) Search fees shall be waived for all requests and duplication fees shall be waived for requests from educational institutions, non-commercial scientific institutions, and representatives of the news media if the Commission fails to comply with any time limit under §§ 1015.5(a), (g)(3), 1015.7(b), and 5 U.S.C. 552(a)(6) other than those exceptions stated in 5 U.S.C. 552(a)(4)(A)(viii)(ll). Those exceptions include:
+|                       Requester category                        |        Search         |Review|       Duplication        |
+|-----------------------------------------------------------------|-----------------------|------|--------------------------|
+|                Commercial (including law firms)                 |          Fee          | Fee  |           Fee.           |
+|Educational, noncommercial scientific institutions, or news media|        No Fee         |No Fee|Fee after first 100 pages.|
+| All other requesters (including members of the general public)  |Fee After First 2 Hours|No Fee|Fee after first 100 pages.|
 
-(i) If the Commission has determined that unusual circumstances as defined in § 1015.5(b) apply and the Commission provided timely written notice to the requester as required by § 1015.5(c) or § 1015.7(f), then failure to comply with the time limit in §§ 1015.5(a), (g)(3), 1015.7(b), and 5 U.S.C. 552(a)(6) is excused for 10 additional working days; or
+(2) Fees shall be assessed as follows:
 
-(ii) If the Commission has determined that unusual circumstances as defined in § 1015.5(b) apply and more than 5,000 pages are necessary to respond to the request, and the Commission has provided timely written notice in accordance with § 1015.5(c) and (e) and the Commission has discussed with the requester via written mail, email, or telephone (or made not less than three good-faith efforts to do so) how the requester could effectively limit the scope of the request; or
+(i) Full fees shall apply to commercial-use requests.
 
-(iii) If a court has determined that exceptional circumstances exist as defined in 5 U.S.C. 552(a)(6)(C), then failure to comply with §§ 1015.5(a), (g)(3), 1015.7(b), and 5 U.S.C. 552(a)(6) shall be excused for the length of time provided by the court order.
+(ii) The first 100 pages of duplication shall be free for requests from the categories of educational institutions, noncommercial scientific institutions, representatives of the news media, and all other requesters (including members of the general public).
 
-(7) Any determination made by the Secretariat concerning fee waivers may be appealed by the requester to the Commission's General Counsel in the manner described at § 1015.7.
+(iii) The first 2 hours of search time shall be free for the category of all other requesters (including members of the general public).
 
-(g) Collection of fees shall be in accordance with the following:
+(iv) The Chief FOIA Officer, or the designee of the Chief FOIA Officer, shall waive or reduce fees whenever disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Government, and disclosure of the requested information is not primarily in the commercial interest of the requester.
 
-(1) Interest will be charged on amounts billed, starting on the 31st day following the day on which the requester received the bill. Interest will be at the rate prescribed in 31 U.S.C. 3717.
+(v) In making a determination under paragraph (g)(2)(iv) of this section, the Chief FOIA Officer, or the designee of the Chief FOIA Officer, shall consider the following factors:
 
-(2) Search fees will be imposed (on requesters charged for search time) even if no responsive documents are located or if the search leads to responsive documents that are withheld under an exemption to the Freedom of Information Act. Such fees shall not exceed $25.00, unless the requester has authorized a higher amount.
+(A) The subject of the request: Whether the subject of the requested records concerns the operations or activities of the Government.
 
-(3) Before the Commission begins processing a request or discloses any information, it will require advance payment if:
+(B) The informative value of the information to be disclosed: Whether the disclosure is likely to contribute to an understanding of Government operations or activities.
 
-(i) Charges are estimated to exceed $250.00 and the requester has no history of payment and cannot provide satisfactory assurance that payment will be made; or
+(C) The contribution to an understanding of the subject by the general public likely to result from disclosure: Whether disclosure of the requested information will contribute to public understanding.
 
-(ii) A requester failed to pay the Commission for a previous Freedom of Information Act request within 30 days of the billing date.
+(D) The significance of the contribution to public understanding: Whether the disclosure is likely to contribute significantly to public understanding of Government operations or activities.
 
-(4) The Commission will aggregate requests, for the purposes of billing, whenever it reasonably believes that a requester or group of requesters is attempting to separate a request into more than one request for the purpose of evading fees.
+(E) The existence and magnitude of a commercial interest: Whether the requester has a commercial interest that would be furthered by the requested disclosure; and, if so
 
-(5) If a requester's total bill is less than $9.00, the Commission will not request payment.
+(F) The primary interest in disclosure: Whether the magnitude of the identified commercial interest of the requester is sufficiently large, in comparison with the public interest in disclosure, that disclosure is primarily in the commercial interest of the requester.
 
-[52 FR 28979, Aug. 5, 1987, as amended at 62 FR 46198, Sept. 2, 1997; 82 FR 37009, Aug. 8, 2017]
+(vi) Search fees shall not be charged for all requests and duplication fees shall not be charged for requests from educational institutions, noncommercial scientific institutions, and representatives of the news media, if the FOIA Office fails to comply with any time limit under §§ 1015.5(a) and (g)(3) and 1015.7(b) and 5 U.S.C. 552(a)(6), other than the exceptions stated in 5 U.S.C. 552(a)(4)(A)(viii)(ll). Those exceptions include:
+
+(A) If the FOIA Office has determined that “unusual circumstances,” as defined in § 1015.5(b) apply, and the FOIA Office provided timely written notice to the requester, as required by § 1015.5(c) or § 1015.7(f), then failure to comply with the time limit in §§ 1015.5(a) and (g)(3) and 1015.7(b) and 5 U.S.C. 552(a)(6) is excused for 10 additional working days; or
+
+(B) If the FOIA Office has determined that “unusual circumstances,” as defined in § 1015.5(b), apply and more than 5,000 pages are necessary to respond to the request, and the FOIA Office has provided timely written notice in accordance with § 1015.5(c) and (e), and the FOIA Office has discussed with the requester via written mail, email, or telephone (or has made not less than three good-faith efforts to do so), how the requester could effectively limit the scope of the request; or
+
+(C) If a court has determined that exceptional circumstances exist, as defined in 5 U.S.C. 552(a)(6)(C), then failure to comply with §§ 1015.5(a) and (g)(3) and 1015.7(b) and 5 U.S.C. 552(a)(6) shall be excused for the length of time provided by the court order.
+
+(vii) No fee will be charged when the total fee is equal to or less than $25.
+
+(viii) Any determination made by the Chief FOIA Officer, or the designee of the Chief FOIA Officer, concerning fee reductions or fee waivers may be appealed by the requester to the General Counsel, in the manner described at § 1015.7.
+
+(h) Collection of fees shall be in accordance with the following:
+
+(1) Interest will be charged on amounts billed, starting on the 31st day following the day on which the requester receives the bill. Interest will be charged at the rate prescribed in 31 U.S.C. 3717.
+
+(2) Search fees may be charged, even if no responsive documents are located, or if the search leads to responsive documents that are withheld under an exemption to the Freedom of Information Act.
+
+(3) The FOIA Office may aggregate requests, for the purposes of billing, whenever it reasonably believes that a requester, or, on rare occasions, a group of requesters, is attempting to separate a request into more than one request to evade fees. The FOIA Office shall not aggregate multiple requests on unrelated subjects from one requester.
+
+(i)(1) For requests other than those described in paragraphs (i)(2) and (3) of this section, the FOIA Office shall not require a requester to make advance payment (*i.e.,* payment made before the FOIA Office commences or continues work on a request). Payment owed for work already completed (*i.e.,* payment before copies are sent to a requester) does not constitute an advance payment for purposes of this part.
+
+(2) When the FOIA Office determines or estimates that a total fee to be charged under this section will exceed $250, and the requester has no history of payment, the FOIA Office shall notify the requester of the actual or estimated fee, and may require the requester to make an advance payment of the entire anticipated fee before beginning to process the request. A notice under this paragraph (i)(2) shall offer the requester an opportunity to discuss the matter with FOIA Office staff to modify the request to meet the requester's needs at a lower cost.
+
+(3) When a requester has previously failed to pay a properly charged FOIA fee to the CPSC within 30 calendar days of the date of billing, the FOIA Office may notify the requester that the requester is required to pay the full amount owed, plus any applicable interest, and to make an advance payment of the full amount of any anticipated fee, before the FOIA Office begins to process a new request or continues processing a pending request from that requester.
+
+(4) When the CPSC FOIA Office requires advance payment, the FOIA Office will not further process the request until the required payment is made. The FOIA Office will toll the processing of the request while it notifies the requester of the advanced payment due, and the administrative time limits in § 1015.5 will begin only after the agency has received the advance payments. If the requester does not pay the advance payment within 30 calendar days from the date of the FOIA Office's fee notice, the FOIA Office will presume that the requester is no longer interested in the records and notify the requester that the request has been closed.
+
+[52 FR 28979, Aug. 5, 1987, as amended at 62 FR 46198, Sept. 2, 1997; 82 FR 37009, Aug. 8, 2017; 86 FR 7505, Jan. 29, 2021]

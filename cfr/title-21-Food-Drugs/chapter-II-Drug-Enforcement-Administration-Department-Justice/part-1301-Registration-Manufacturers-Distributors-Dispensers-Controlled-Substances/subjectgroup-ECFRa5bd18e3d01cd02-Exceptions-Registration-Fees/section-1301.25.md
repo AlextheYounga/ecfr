@@ -34,15 +34,14 @@
 
 Sale of Controlled Substances to Vessels(Name of registrant)(Address of registrant)(DEA registration number)
 
-|Line No.|Number of packages ordered|Size of packages|Name of product|Packages distributed|Date distributed|
-|--------|--------------------------|----------------|---------------|--------------------|----------------|
-|   1    |                          |                |               |                    |                |
-|   2    |                          |                |               |                    |                |
-|   3    |                          |                |               |                    |                |
+|                                  Line No.                                   |Number of packages ordered|Size of packages|Name of product|Packages distributed|Date distributed|
+|-----------------------------------------------------------------------------|--------------------------|----------------|---------------|--------------------|----------------|
+|                                      1                                      |                          |                |               |                    |                |
+|                                      2                                      |                          |                |               |                    |                |
+|                                      3                                      |                          |                |               |                    |                |
+|**Footnote:** Line numbers may be continued according to needs of the vendor.|                          |                |               |                    |                |
 
-Footnote: Line numbers may be continued according to needs of the vendor.
-
-Number of lines completedName of vesselVessel's official numberVessel's country of registryOwner or operator of the vesselName and title of vessel's officer who presented the requisition \_\_\_\_Signature of vessel's officer who presented the requisition \_\_\_\_
+Number of lines completedName of vesselVessel's official numberVessel's country of registryOwner or operator of the vesselName and title of vessel's officer who presented the requisition \_\_\_\_\_\_\_\_\_\_\_\_\_Signature of vessel's officer who presented the requisition \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (e) Any medical officer described in paragraph (b) of this section shall, in addition to complying with all requirements and duties prescribed for registrants generally, prepare an annual report as of the date on which his/her registration expires, which shall give in detail an accounting for each vessel, aircraft, or other entity, and a summary accounting for all vessels, aircraft, or other entities under his/her supervision for all controlled substances purchased, dispensed or disposed of during the year. The medical officer shall maintain this report with other records required to be kept under the Act and, upon request, deliver a copy of the report to the Administration. The medical officer need not be present when controlled substances are dispensed, if the person who actually dispensed the controlled substances is responsible to the medical officer to justify his/her actions.
 

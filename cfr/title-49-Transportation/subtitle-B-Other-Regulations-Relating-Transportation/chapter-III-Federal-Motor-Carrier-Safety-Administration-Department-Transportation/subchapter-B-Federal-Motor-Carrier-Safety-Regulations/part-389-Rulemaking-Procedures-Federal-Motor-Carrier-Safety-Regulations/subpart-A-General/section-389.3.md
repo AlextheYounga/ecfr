@@ -1,6 +1,6 @@
 ##### § 389.3 Definitions. #####
 
-Link to an amendment published at 85 FR 86848, Dec. 31, 2020.
+Link to an amendment published at 85 FR 86848, Dec. 31, 2020.Link to an extension of the above amendment published at 86 FR 11891, Mar. 1, 2021.
 
 *Act* means statutes granting the Secretary authority to regulate motor carrier safety.
 

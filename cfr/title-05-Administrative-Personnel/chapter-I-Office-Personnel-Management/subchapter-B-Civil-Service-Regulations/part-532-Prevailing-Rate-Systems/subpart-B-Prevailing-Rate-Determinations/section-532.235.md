@@ -1,5 +1,7 @@
 ##### § 532.235 Conduct of full-scale wage survey. #####
 
+Link to an amendment published at 86 FR 11859, Mar. 1, 2021.
+
 (a) Wage survey data shall not be collected before the date the survey is ordered by the lead agency.
 
 (b) Data collection for a full-scale wage survey shall be accomplished by personal visit to the establishment. The following required data shall be collected:

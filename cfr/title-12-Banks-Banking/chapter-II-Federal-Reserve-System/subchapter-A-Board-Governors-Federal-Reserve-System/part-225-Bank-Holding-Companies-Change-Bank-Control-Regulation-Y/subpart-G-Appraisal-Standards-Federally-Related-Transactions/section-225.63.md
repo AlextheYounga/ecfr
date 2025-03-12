@@ -48,7 +48,7 @@
 
 (c) *Appraisals to address safety and soundness concerns.* The Board reserves the right to require an appraisal under this subpart whenever the agency believes it is necessary to address safety and soundness concerns.
 
-(d) *Transactions requiring a State certified appraiser* - (1) *All transactions of $1,000,000 or more.* All federally related transactions having a transaction value of $1,000,000 or more shall require an appraisal prepared by a State certified appraiser.
+(d) *Transactions requiring a State certified appraiser*—(1) *All transactions of $1,000,000 or more.* All federally related transactions having a transaction value of $1,000,000 or more shall require an appraisal prepared by a State certified appraiser.
 
 (2) *Commercial real estate transactions of more than $500,000.* All federally related transactions that are commercial real estate transactions having a transaction value of more than $500,000 shall require an appraisal prepared by a State certified appraiser.
 
@@ -60,4 +60,4 @@
 
 (e) *Transactions requiring either a State certified or licensed appraiser.* All appraisals for federally related transactions not requiring the services of a State certified appraiser shall be prepared by either a State certified appraiser or a State licensed appraiser.
 
-[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, 53598, Oct. 8, 2019;]
+[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, 53598, Oct. 8, 2019]

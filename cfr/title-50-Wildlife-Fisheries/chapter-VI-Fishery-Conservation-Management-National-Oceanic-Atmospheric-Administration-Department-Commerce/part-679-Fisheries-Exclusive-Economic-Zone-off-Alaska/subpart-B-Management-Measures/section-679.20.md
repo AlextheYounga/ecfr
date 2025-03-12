@@ -1,5 +1,7 @@
 ##### § 679.20 General limitations. #####
 
+Link to an amendment published at 86 FR 11903, Mar. 1, 2021.
+
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits* - (1) *OY* - (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.

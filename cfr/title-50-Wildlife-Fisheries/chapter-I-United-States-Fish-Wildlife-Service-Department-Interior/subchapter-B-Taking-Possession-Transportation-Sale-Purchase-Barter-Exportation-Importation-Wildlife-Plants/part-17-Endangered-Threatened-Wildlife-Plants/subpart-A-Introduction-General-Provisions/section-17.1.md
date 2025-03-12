@@ -1,6 +1,6 @@
 ##### § 17.1 Purpose of regulations. #####
 
-Link to an amendment published at 86 FR 4844, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4844, Jan. 15, 2021.Link to an amendment published at 86 FR 11892, Mar. 1, 2021, delaying the above amendment.
 
 (a) The regulations in this part implement the Endangered Species Act of 1973, 87 Stat. 884, 16 U.S.C. 1531-1543, except for those provisions in the Act concerning the Convention on International Trade in Endangered Species of Wild Fauna and Flora, for which regulations are provided in part 23 of this subchapter.
 

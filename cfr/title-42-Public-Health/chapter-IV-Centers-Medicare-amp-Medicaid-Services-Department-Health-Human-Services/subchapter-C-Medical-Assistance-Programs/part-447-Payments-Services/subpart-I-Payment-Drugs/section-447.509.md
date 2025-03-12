@@ -48,13 +48,27 @@ Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
 
 (iii) The alternative rebate is required to be calculated if the manufacturer of the line extension drug also manufactures the initial brand name listed drug or has a corporate relationship with the manufacturer of the initial brand name listed drug.
 
-(5) *Limit on rebate.* In no case will the total rebate amount exceed 100 percent of the AMP of the drug.
+(5) *Limit on rebate.* In no case will the total rebate amount exceed 100 percent of the AMP of the single source or multiple source innovator drug.
 
-(6) *Rebate for noninnovator multiple source drugs.* The amount of the rebate for each dosage form and strength of a noninnovator multiple source drug will be equal to the product of:
+(6) *Rebate for noninnovator multiple source drugs.* The amount of the basic rebate for each dosage form and strength of a noninnovator multiple source drug will be equal to the product of:
 
 (i) The total number of units of such dosage form and strength for which payment was made under the State plan for the rebate period; and
 
 (ii) The AMP for the dosage form and strength for the rebate period multiplied by 13 percent.
+
+(7) *Additional rebate for noninnovator multiple source drugs.* In addition to the basic rebate described in paragraph (a)(6) of this section, for each dosage form and strength of a noninnovator multiple source drug, the rebate amount will be increased by an amount equal to the product of the following:
+
+(i) The total number of units of such dosage form and strength paid for under the State plan in the rebate period.
+
+(ii) The amount, if any, by which:
+
+(A) The AMP for the dosage form and strength of the drug for the period exceeds the base date AMP for such dosage form and strength, increased by the percentage by which the consumer price index for all urban consumers (United States city average) for the month before the month in which the rebate period begins exceeds such index associated with the base date AMP of the drug.
+
+(B) The base date AMP has the meaning of AMP set forth in sections 1927(c)(2)(A)(ii)(II), 1927(c)(2)(B) and 1927(c)(3)(C) of the Act.
+
+(8) *Total rebate.* The total rebate amount for noninnovator multiple source drugs is equal to the basic rebate amount plus the additional rebate amount, if any.
+
+(9) *Limit on rebate.* In no case will the total rebate amount exceed 100 percent of the AMP for the noninnovator multiple source drug.
 
 (b) *Rebates for drugs dispensed through Medicaid managed care organizations (MCOs).* (1) Manufacturers participating in the Medicaid drug rebate program will provide a rebate for covered outpatient drugs dispensed to individuals enrolled in Medicaid MCOs if the MCO is contractually required to provide such drugs.
 
@@ -86,4 +100,4 @@ Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
 
 (4) For noninnovator multiple source drugs, the offset amount is equal to 2.0 percent of the AMP (the difference between 13.0 percent of AMP and 11.0 percent of AMP).
 
-[81 FR 5347, Feb. 1, 2016, as amended at 84 FR 12136, Apr. 1, 2019]
+[81 FR 5347, Feb. 1, 2016, as amended at 84 FR 12136, Apr. 1, 2019; 85 FR 87103, Dec. 31, 2020]

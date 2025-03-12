@@ -20,9 +20,7 @@ Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
 
 (1) Sales to wholesalers for drugs distributed to retail community pharmacies.
 
-(2) Sales to other manufacturers who act as wholesalers for drugs distributed to retail community pharmacies.
-
-(3) Sales to retail community pharmacies (including those sales, nominal price sales, and associated discounts, rebates (other than rebates under section 1927 of the Act or as specified in regulations), payments, or other financial transactions that are received by, paid by, or passed through to retail community pharmacies).
+(2) Sales to retail community pharmacies (including those sales, nominal price sales, and associated discounts, rebates (other than rebates under section 1927 of the Act or as specified in regulations), payments, or other financial transactions that are received by, paid by, or passed through to retail community pharmacies).
 
 (c) *Sales, nominal price sales, and associated discounts, rebates, payments, or other financial transactions excluded from AMP.* AMP excludes the following sales, nominal price sales, and associated discounts, rebates, payments, or other financial transactions:
 
@@ -155,3 +153,5 @@ Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
 (2) Quarterly AMP is calculated as a weighted average of monthly AMPs in that quarter.
 
 (3) The manufacturer must adjust the AMP for a rebate period if cumulative discounts, rebates, or other arrangements subsequently adjust the prices actually realized, to the extent that such cumulative discounts, rebates, or other arrangements are not excluded from the determination of AMP by statute or regulation.
+
+[81 FR 5347, Feb. 1, 2016, as amended at 85 FR 87102, Dec. 31, 2020]

@@ -18,7 +18,11 @@ For the purpose of this subpart, the following definitions apply:
 
 (2) For bundled sales where multiple drugs are discounted, the aggregate value of all the discounts in the bundled arrangement must be proportionally allocated across all the drugs or products in the bundle.
 
+(3) Value-based purchasing (VBP) arrangements may qualify as a bundled sale.
+
 *Clotting factor* means a hemophilia clotting factor for which a separate furnishing payment is made under section 1842(o)(5) of the Act and which is included on a list of such factors specified and updated regularly by CMS and posted on the CMS Web site.
+
+*CMS-authorized supplemental rebate agreement* means an agreement that is approved through a state plan amendment (SPA) by CMS, which allows a state to enter into single and/or multi-state supplemental drug rebate arrangements that generate rebates that are at least as large as the rebates set forth in the Secretary's national rebate agreement with drug manufacturers. Revenue from these rebates must be paid directly to the state and be used by the state to offset a state's drug expenditures resulting in shared savings with the Federal Government.
 
 *Consumer Price Index - Urban (CPI-U)* means the index of consumer prices developed and updated by the U.S. Department of Labor. It is the CPI for all urban consumers (U.S. average) for the month before the beginning of the calendar quarter for which the rebate is paid.
 
@@ -66,7 +70,7 @@ For the purpose of this subpart, the following definitions apply:
 
 *Customary prompt pay discount* means any discount off of the purchase price of a drug routinely offered by the manufacturer to a wholesaler for prompt payment of purchased drugs within a specified timeframe and consistent with customary business practices for payment.
 
-*Innovator multiple source drug* means a multiple source drug that was originally marketed under an original new drug application (NDA) approved by FDA, including an authorized generic drug. It also includes a drug product marketed by any cross-licensed producers, labelers, or distributors operating under the NDA and a covered outpatient drug approved under a biologics license application (BLA), product license application (PLA), establishment license application (ELA) or antibiotic drug application (ADA). For purposes of this definition and the Medicaid drug rebates (MDR) program, an original NDA means an NDA, other than an Abbreviated New Drug Application (ANDA), approved by the FDA for marketing, unless CMS determines that a narrow exception applies.
+*Innovator multiple source drug* means a multiple source drug, including an authorized generic drug, that is marketed under a new drug application (NDA) approved by FDA, unless the Secretary determines that a narrow exception applies (as described in this section). It also includes a drug product marketed by any cross-licensed producers, labelers, or distributors operating under the NDA and a covered outpatient drug approved under a biologics license application (BLA), product license application (PLA), establishment license application (ELA) or antibiotic drug application (ADA).
 
 *Lagged price concession* means any discount or rebate that is realized after the sale of the drug, but does not include customary prompt pay discounts.
 
@@ -80,13 +84,13 @@ For the purpose of this subpart, the following definitions apply:
 
 (4) For drugs subject to private labeling arrangements, the term “manufacturer” will also include the entity under whose own label or trade name the product will be distributed.
 
-*Multiple source drug* means, for a rebate period, a covered outpatient drug for which there is at least one other drug product which meets the following criteria:
+*Multiple source drug* means, for a rebate period, a covered outpatient drug, including a drug product approved for marketing as a non-prescription drug that is regarded as a covered outpatient drug under section 1927(k)(4) of the Act, for which there is at least 1 other drug product which meets all of the following criteria:
 
-(1) Is rated as therapeutically equivalent as reported in the FDA's “Approved Drug Products with Therapeutic Equivalence Evaluations” which is available at *http://www.accessdata.fda.gov/scripts/cder/ob/.*
+(1) Is rated as therapeutically equivalent (under the FDA's most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations” which is available at *http://www.accessdata.fda.gov/scripts/cder/ob/*).
 
-(2) Is pharmaceutically equivalent and bioequivalent, as determined by the FDA.
+(2) Except as provided at section 1927(k)(7)(B) of the Act, is pharmaceutically equivalent and bioequivalent, as defined at section 1927(k)(7)(C) of the Act and as determined by FDA.
 
-(3) Is sold or marketed in the United States during the rebate period.
+(3) Is sold or marketed in the United States during the period.
 
 *National drug code (NDC)* means the numerical code maintained by the FDA that includes the labeler code, product code, and package code. For purposes of this subpart, the NDC is considered to be an 11-digit code, unless otherwise specified in this subpart as being without regard to package size (that is, the 9-digit numerical code).
 
@@ -122,12 +126,18 @@ For the purpose of this subpart, the following definitions apply:
 
 *Rebate period* means a calendar quarter.
 
-*Single source drug* means a covered outpatient drug that is produced or distributed under an original NDA approved by FDA and has an approved NDA number issued by FDA, including a drug product marketed by any cross-licensed producers or distributors operating under the NDA. It also includes a covered outpatient drug approved under a biologics license application (BLA), product license application (PLA), establishment license application (ELA), or antibiotic drug application (ADA). For purposes of this definition and the MDR program, an original NDA means an NDA, other than an ANDA, approved by the FDA for marketing, unless CMS determines that a narrow exception applies.
+*Single source drug* means a covered outpatient drug, including a drug product approved for marketing as a non-prescription drug that is regarded as a covered outpatient drug under section 1927(k)(4) of the Act, which is produced or distributed under a new drug application approved by the FDA, including a drug product marketed by any cross-licensed producers or distributors operating under the new drug application unless the Secretary determines that a narrow exception applies (as described in this section), and includes a covered outpatient drug that is a biological product licensed, produced, or distributed under a biologics license application approved by the FDA.
 
 *States* means the 50 States and the District of Columbia and, beginning April 1, 2022, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands and American Samoa.
 
 *United States* means the 50 States and the District of Columbia and, beginning April 1, 2022, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands and American Samoa.
 
-*Wholesaler* means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including but not limited to manufacturers, repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including manufacturer's and distributor's warehouses, chain drug warehouses, and wholesale drug warehouses), independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
+*Value-based purchasing (VBP) arrangement* means an arrangement or agreement intended to align pricing and/or payments to an observed or expected therapeutic or clinical value in a select population and includes, but is not limited to:
 
-[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016; 84 FR 64786, Nov. 25, 2019]
+(1) Evidence-based measures, which substantially link the cost of a covered outpatient drug to existing evidence of effectiveness and potential value for specific uses of that product; and/or
+
+(2) Outcomes-based measures, which substantially link payment for the covered outpatient drug to that of the drug's actual performance in patient or a population, or a reduction in other medical expenses.
+
+*Wholesaler* means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including but not limited to repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including distributor's warehouses, chain drug warehouses, and wholesale drug warehouses), independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
+
+[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016; 84 FR 64786, Nov. 25, 2019; 85 FR 87101, Dec. 31, 2020]

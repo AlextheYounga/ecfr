@@ -1,7 +1,5 @@
 ##### § 1026.43 Minimum standards for transactions secured by a dwelling. #####
 
-Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendment published at 85 FR 86452, Dec. 29, 2020.Link to a correction published at 86 FR 8283, Feb. 5, 2021.
-
 (a) *Scope.* This section applies to any consumer credit transaction that is secured by a dwelling, as defined in § 1026.2(a)(19), including any real property attached to a dwelling, other than:
 
 (1) A home equity line of credit subject to § 1026.40;
@@ -82,7 +80,7 @@ Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendmen
 
 (3) *Fully indexed rate* means the interest rate calculated using the index or formula that will apply after recast, as determined at the time of consummation, and the maximum margin that can apply at any time during the loan term.
 
-(4) *Higher-priced covered transaction* means a covered transaction with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set by 1.5 or more percentage points for a first-lien covered transaction, other than a qualified mortgage under paragraph (e)(5), (e)(6), or (f) of this section; by 3.5 or more percentage points for a first-lien covered transaction that is a qualified mortgage under paragraph (e)(5), (e)(6), or (f) of this section; or by 3.5 or more percentage points for a subordinate-lien covered transaction.
+(4) *Higher-priced covered transaction* means a covered transaction with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set by 1.5 or more percentage points for a first-lien covered transaction, other than a qualified mortgage under paragraph (e)(5), (e)(6), or (f) of this section; by 3.5 or more percentage points for a first-lien covered transaction that is a qualified mortgage under paragraph (e)(5), (e)(6), or (f) of this section; or by 3.5 or more percentage points for a subordinate-lien covered transaction. For purposes of a qualified mortgage under paragraph (e)(2) of this section, for a loan for which the interest rate may or will change within the first five years after the date on which the first regular periodic payment will be due, the creditor must determine the annual percentage rate for purposes of this paragraph (b)(4) by treating the maximum interest rate that may apply during that five-year period as the interest rate for the full term of the loan.
 
 (5) *Loan amount* means the principal amount the consumer will borrow as reflected in the promissory note or loan contract.
 
@@ -282,13 +280,17 @@ Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendmen
 
 (ii) *Standard mortgage.* For purposes of the comparison conducted pursuant to paragraph (d)(2)(ii) of this section, the monthly payment for a standard mortgage must be based on substantially equal, monthly, fully amortizing payments based on the maximum interest rate that may apply during the first five years after consummation.
 
-(e) *Qualified mortgages* - (1) *Safe harbor and presumption of compliance* - (i) *Safe harbor for loans that are not higher-priced covered transactions.* A creditor or assignee of a qualified mortgage, as defined in paragraphs (e)(2), (e)(4), (e)(5), (e)(6), or (f) of this section, that is not a higher-priced covered transaction, as defined in paragraph (b)(4) of this section, complies with the repayment ability requirements of paragraph (c) of this section.
+(e) *Qualified mortgages* - (1) *Safe harbor and presumption of compliance* - (i) *Safe harbor for loans that are not higher-priced covered transactions and for seasoned loans.* A creditor or assignee of a qualified mortgage complies with the repayment ability requirements of paragraph (c) of this section if:
+
+(A) The loan is a qualified mortgage as defined in paragraph (e)(2), (4), (5), (6), or (f) of this section that is not a higher-priced covered transaction, as defined in paragraph (b)(4) of this section; or
+
+(B) The loan is a qualified mortgage as defined in paragraph (e)(7) of this section, regardless of whether the loan is a higher-priced covered transaction.
 
 (ii) *Presumption of compliance for higher-priced covered transactions.* (A) A creditor or assignee of a qualified mortgage, as defined in paragraph (e)(2), (e)(4), (e)(5), (e)(6), or (f) of this section, that is a higher-priced covered transaction, as defined in paragraph (b)(4) of this section, is presumed to comply with the repayment ability requirements of paragraph (c) of this section.
 
 (B) To rebut the presumption of compliance described in paragraph (e)(1)(ii)(A) of this section, it must be proven that, despite meeting the prerequisites of paragraph (e)(2), (e)(4), (e)(5), (e)(6), or (f) of this section, the creditor did not make a reasonable and good faith determination of the consumer's repayment ability at the time of consummation, by showing that the consumer's income, debt obligations, alimony, child support, and the consumer's monthly payment (including mortgage-related obligations) on the covered transaction and on any simultaneous loans of which the creditor was aware at consummation would leave the consumer with insufficient residual income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan with which to meet living expenses, including any recurring and material non-debt obligations of which the creditor was aware at the time of consummation.
 
-(2) *Qualified mortgage defined - general.* Except as provided in paragraph (e)(4), (e)(5), (e)(6), or (f) of this section, a qualified mortgage is a covered transaction:
+(2) *Qualified mortgage defined - general.* Except as provided in paragraph (e)(4), (5), (6), (7), or (f) of this section, a qualified mortgage is a covered transaction:
 
 (i) That provides for regular periodic payments that are substantially equal, except for the effect that any interest rate change after consummation has on the payment in the case of an adjustable-rate or step-rate mortgage, that do not:
 
@@ -312,21 +314,27 @@ Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendmen
 
 (*2*) The loan amount over the loan term;
 
-(v) For which the creditor considers and verifies at or before consummation the following:
+(v) For which the creditor, at or before consummation:
 
-(A) The consumer's current or reasonably expected income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan, in accordance with appendix Q and paragraphs (c)(2)(i) and (c)(4) of this section; and
+(A) Considers the consumer's current or reasonably expected income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan, debt obligations, alimony, child support, and monthly debt-to-income ratio or residual income, using the amounts determined from paragraph (e)(2)(v)(B) of this section. For purposes of this paragraph (e)(2)(v)(A), the consumer's monthly debt-to-income ratio or residual income is determined in accordance with paragraph (c)(7) of this section, except that the consumer's monthly payment on the covered transaction, including the monthly payment for mortgage-related obligations, is calculated in accordance with paragraph (e)(2)(iv) of this section.
 
-(B) The consumer's current debt obligations, alimony, and child support in accordance with appendix Q and paragraphs (c)(2)(vi) and (c)(3) of this section; and
+(B)(*1*) Verifies the consumer's current or reasonably expected income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan using third-party records that provide reasonably reliable evidence of the consumer's income or assets, in accordance with paragraph (c)(4) of this section; and
 
-(vi) For which the ratio of the consumer's total monthly debt to total monthly income at the time of consummation does not exceed 43 percent. For purposes of this paragraph (e)(2)(vi), the ratio of the consumer's total monthly debt to total monthly income is determined:
+(*2*) Verifies the consumer's current debt obligations, alimony, and child support using reasonably reliable third-party records in accordance with paragraph (c)(3) of this section.
 
-(A) Except as provided in paragraph (e)(2)(vi)(B) of this section, in accordance with the standards in appendix Q;
+(vi) For which the annual percentage rate does not exceed the average prime offer rate for a comparable transaction as of the date the interest rate is set by the amounts specified in paragraphs (e)(2)(vi)(A) through (F) of this section. The amounts specified here shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index for All Urban Consumers (CPI-U) that was reported on the preceding June 1. For purposes of this paragraph (e)(2)(vi), the creditor must determine the annual percentage rate for a loan for which the interest rate may or will change within the first five years after the date on which the first regular periodic payment will be due by treating the maximum interest rate that may apply during that five-year period as the interest rate for the full term of the loan.
 
-(B) Using the consumer's monthly payment on:
+(A) For a first-lien covered transaction with a loan amount greater than or equal to $110,260 (indexed for inflation), 2.25 or more percentage points;
 
-(*1)* The covered transaction, including the monthly payment for mortgage-related obligations, in accordance with paragraph (e)(2)(iv) of this section; and
+(B) For a first-lien covered transaction with a loan amount greater than or equal to $66,156 (indexed for inflation) but less than $110,260 (indexed for inflation), 3.5 or more percentage points;
 
-(*2)* Any simultaneous loan that the creditor knows or has reason to know will be made, in accordance with paragraphs (c)(2)(iv) and (c)(6) of this section.
+(C) For a first-lien covered transaction with a loan amount less than $66,156 (indexed for inflation), 6.5 or more percentage points;
+
+(D) For a first-lien covered transaction secured by a manufactured home with a loan amount less than $110,260 (indexed for inflation), 6.5 or more percentage points;
+
+(E) For a subordinate-lien covered transaction with a loan amount greater than or equal to $66,156 (indexed for inflation), 3.5 or more percentage points;
+
+(F) For a subordinate-lien covered transaction with a loan amount less than $66,156 (indexed for inflation), 6.5 or more percentage points.
 
 (3) *Limits on points and fees for qualified mortgages.* (i) Except as provided in paragraph (e)(3)(iii) of this section, a covered transaction is not a qualified mortgage unless the transaction's total points and fees, as defined in § 1026.32(b)(1), do not exceed:
 
@@ -362,37 +370,19 @@ Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendmen
 
 (B) Interest on the dollar amount described in paragraph (e)(3)(iv)(A) of this section, calculated using the contract interest rate applicable during the period from consummation until the payment described in this paragraph (e)(3)(iv) is made to the consumer.
 
-(4) *Qualified mortgage defined - special rules* - (i) *General.* Notwithstanding paragraph (e)(2) of this section, a qualified mortgage is a covered transaction that satisfies:
-
-(A) The requirements of paragraphs (e)(2)(i) through (iii) of this section; and
-
-(B) One or more of the criteria in paragraph (e)(4)(ii) of this section.
-
-(ii) *Eligible loans.* A qualified mortgage under this paragraph (e)(4) must be one of the following at consummation:
-
-(A) A loan that is eligible, except with regard to matters wholly unrelated to ability to repay:
-
-(*1*) To be purchased or guaranteed by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation operating under the conservatorship or receivership of the Federal Housing Finance Agency pursuant to section 1367(a) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(a)); or
-
-(*2*) To be purchased or guaranteed by any limited-life regulatory entity succeeding the charter of either the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation pursuant to section 1367(i) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(i));
-
-(B) A loan that is eligible to be insured, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Housing and Urban Development under the National Housing Act (12 U.S.C. 1707 *et seq.*);
-
-(C) A loan that is eligible to be guaranteed, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Veterans Affairs;
-
-(D) A loan that is eligible to be guaranteed, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Agriculture pursuant to 42 U.S.C. 1472(h); or
-
-(E) A loan that is eligible to be insured, except with regard to matters wholly unrelated to ability to repay, by the Rural Housing Service.
-
-(iii) *Sunset of special rules.* (A) Each respective special rule described in paragraph (e)(4)(ii)(B), (C), (D), or (E) of this section shall expire on the effective date of a rule issued by each respective agency pursuant to its authority under TILA section 129C(b)(3)(ii) to define a qualified mortgage.
-
-(B) Unless otherwise expired under paragraph (e)(4)(iii)(A) of this section, the special rules in this paragraph (e)(4) are available only for covered transactions for which the creditor receives the consumer's application before the mandatory compliance date of a final rule issued by the Bureau amending paragraph (e)(2) of this section. The Bureau will also amend this paragraph prior to that mandatory compliance date to reflect the new status.
+(4) *Qualified mortgage defined* - *other agencies.* Notwithstanding paragraph (e)(2) of this section, a qualified mortgage is a covered transaction that is defined as a qualified mortgage by the U.S. Department of Housing and Urban Development under 24 CFR 201.7 and 24 CFR 203.19, the U.S. Department of Veterans Affairs under 38 CFR 36.4300 and 38 CFR 36.4500, or the U.S. Department of Agriculture under 7 CFR 3555.109.
 
 (5) *Qualified mortgage defined - small creditor portfolio loans.* (i) Notwithstanding paragraph (e)(2) of this section, a qualified mortgage is a covered transaction:
 
-(A) That satisfies the requirements of paragraph (e)(2) of this section other than the requirements of paragraph (e)(2)(vi) and without regard to the standards in appendix Q to this part;
+(A) That satisfies the requirements of paragraph (e)(2) of this section other than the requirements of paragraphs (e)(2)(v) and (vi) of this section;
 
-(B) For which the creditor considers at or before consummation the consumer's monthly debt-to-income ratio or residual income and verifies the debt obligations and income used to determine that ratio in accordance with paragraph (c)(7) of this section, except that the calculation of the payment on the covered transaction for purposes of determining the consumer's total monthly debt obligations in paragraph (c)(7)(i)(A) shall be determined in accordance with paragraph (e)(2)(iv) of this section instead of paragraph (c)(5) of this section;
+(B) For which the creditor:
+
+(*1*) Considers and verifies at or before consummation the consumer's current or reasonably expected income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan, in accordance with paragraphs (c)(2)(i) and (c)(4) of this section;
+
+(*2*) Considers and verifies at or before consummation the consumer's current debt obligations, alimony, and child support in accordance with paragraphs (c)(2)(vi) and (c)(3) of this section;
+
+(*3*) Considers at or before consummation the consumer's monthly debt-to-income ratio or residual income and verifies the debt obligations and income used to determine that ratio in accordance with paragraph (c)(7) of this section, except that the calculation of the payment on the covered transaction for purposes of determining the consumer's total monthly debt obligations in paragraph (c)(7)(i)(A) shall be determined in accordance with paragraph (e)(2)(iv) of this section instead of paragraph (c)(5) of this section;
 
 (C) That is not subject, at consummation, to a commitment to be acquired by another person, other than a person that satisfies the requirements of paragraph (e)(5)(i)(D) of this section; and
 
@@ -416,13 +406,91 @@ Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendmen
 
 (ii) The provisions of this paragraph (e)(6) apply only to covered transactions for which the application was received before April 1, 2016.
 
+(7) *Qualified mortgage defined - seasoned loans* - (i) *General.* Notwithstanding paragraph (e)(2) of this section, and except as provided in paragraph (e)(7)(iv) of this section, a qualified mortgage is a first-lien covered transaction that:
+
+(A) Is a fixed-rate mortgage as defined in § 1026.18(s)(7)(iii) with fully amortizing payments as defined in paragraph (b)(2) of this section;
+
+(B) Satisfies the requirements in paragraphs (e)(2)(i) through (v) of this section;
+
+(C) Has met the requirements in paragraph (e)(7)(ii) of this section at the end of the seasoning period as defined in paragraph (e)(7)(iv)(C) of this section;
+
+(D) Satisfies the requirements in paragraph (e)(7)(iii) of this section; and
+
+(E) Is not a high-cost mortgage as defined in § 1026.32(a).
+
+(ii) *Performance requirements.* To be a qualified mortgage under this paragraph (e)(7) of this section, the covered transaction must have no more than two delinquencies of 30 or more days and no delinquencies of 60 or more days at the end of the seasoning period.
+
+(iii) *Portfolio requirements.* To be a qualified mortgage under this paragraph (e)(7) of this section, the covered transaction must satisfy the following requirements:
+
+(A) The covered transaction is not subject, at consummation, to a commitment to be acquired by another person, except for a sale, assignment, or transfer permitted by paragraph (e)(7)(iii)(B)(*3*) of this section; and
+
+(B) Legal title to the covered transaction is not sold, assigned, or otherwise transferred to another person before the end of the seasoning period, except that:
+
+(*1*) The covered transaction may be sold, assigned, or otherwise transferred to another person pursuant to a capital restoration plan or other action under 12 U.S.C. 1831o, actions or instructions of any person acting as conservator, receiver, or bankruptcy trustee, an order of a State or Federal government agency with jurisdiction to examine the creditor pursuant to State or Federal law, or an agreement between the creditor and such an agency;
+
+(*2*) The covered transaction may be sold, assigned, or otherwise transferred pursuant to a merger of the creditor with another person or acquisition of the creditor by another person or of another person by the creditor; or
+
+(*3*) The covered transaction may be sold, assigned, or otherwise transferred once before the end of the seasoning period, provided that the covered transaction is not securitized as part of the sale, assignment, or transfer or at any other time before the end of the seasoning period as defined in § 1026.43(e)(7)(iv)(C).
+
+(iv) *Definitions.* For purposes of paragraph (e)(7) of this section:
+
+(A) *Delinquency* means the failure to make a periodic payment (in one full payment or in two or more partial payments) sufficient to cover principal, interest, and escrow (if applicable) for a given billing cycle by the date the periodic payment is due under the terms of the legal obligation. Other amounts, such as any late fees, are not considered for this purpose.
+
+(*1*) A periodic payment is 30 days delinquent when it is not paid before the due date of the following scheduled periodic payment.
+
+(*2*) A periodic payment is 60 days delinquent if the consumer is more than 30 days delinquent on the first of two sequential scheduled periodic payments and does not make both sequential scheduled periodic payments before the due date of the next scheduled periodic payment after the two sequential scheduled periodic payments.
+
+(*3*) For any given billing cycle for which a consumer's payment is less than the periodic payment due, a consumer is not delinquent as defined in this paragraph (e)(7) if:
+
+(*i*) The servicer chooses not to treat the payment as delinquent for purposes of any section of subpart C of Regulation X, 12 CFR part 1024, if applicable;
+
+(*ii*) The payment is deficient by $50 or less; and
+
+(*iii*) There are no more than three such deficient payments treated as not delinquent during the seasoning period.
+
+(*4*) The principal and interest used in determining the date a periodic payment sufficient to cover principal, interest, and escrow (if applicable) for a given billing cycle becomes due and unpaid are the principal and interest payment amounts established by the terms and payment schedule of the loan obligation at consummation, except:
+
+(*i*) If a qualifying change as defined in paragraph (e)(7)(iv)(B) of this section is made to the loan obligation, the principal and interest used in determining the date a periodic payment sufficient to cover principal, interest, and escrow (if applicable) for a given billing cycle becomes due and unpaid are the principal and interest payment amounts established by the terms and payment schedule of the loan obligation at consummation as modified by the qualifying change.
+
+(*ii*) If, due to reasons related to the timing of delivery, set up, or availability for occupancy of the dwelling securing the obligation, the first payment due date is modified before the first payment due date in the legal obligation at consummation, the modified first payment due date shall be considered in lieu of the first payment due date in the legal obligation at consummation in determining the date a periodic payment sufficient to cover principal, interest, and escrow (if applicable) for a given billing cycle becomes due and unpaid.
+
+(*5*) Except for purposes of making up the deficiency amount set forth in paragraph (e)(7)(iv)(A)(*3*)(*ii*) of this section, payments from the following sources are not considered in assessing delinquency under paragraph (e)(7)(iv)(A) of this section:
+
+(*i*) Funds in escrow in connection with the covered transaction; or
+
+(*ii*) Funds paid on behalf of the consumer by the creditor, servicer, or assignee of the covered transaction, or any other person acting on behalf of such creditor, servicer, or assignee.
+
+(B) *Qualifying change* means an agreement that meets the following conditions:
+
+(*1*) The agreement is entered into during or after a temporary payment accommodation in connection with a disaster or pandemic-related national emergency as defined in paragraph (e)(7)(iv)(D) of this section and ends any pre-existing delinquency on the loan obligation upon taking effect;
+
+(*2*) The amount of interest charged over the full term of the loan does not increase as a result of the agreement;
+
+(*3*) The servicer does not charge any fee in connection with the agreement; and
+
+(*4*) Promptly upon the consumer's acceptance of the agreement, the servicer waives all late charges, penalties, stop payment fees, or similar charges incurred during a temporary payment accommodation in connection with a disaster or pandemic-related national emergency, as well as all late charges, penalties, stop payment fees, or similar charges incurred during the delinquency that led to a temporary payment accommodation in connection with a disaster or pandemic-related national emergency.
+
+(C) *Seasoning period* means a period of 36 months beginning on the date on which the first periodic payment is due after consummation of the covered transaction, except that:
+
+(*1*) Notwithstanding any other provision of this section, if there is a delinquency of 30 days or more at the end of the 36th month of the seasoning period, the seasoning period does not end until there is no delinquency; and
+
+(*2*) The seasoning period does not include any period during which the consumer is in a temporary payment accommodation extended in connection with a disaster or pandemic-related national emergency, provided that during or at the end of the temporary payment accommodation there is a qualifying change as defined in paragraph (e)(7)(iv)(B) of this section or the consumer cures the loan's delinquency under its original terms. If during or at the end of the temporary payment accommodation in connection with a disaster or pandemic-related national emergency there is a qualifying change or the consumer cures the loan's delinquency under its original terms, the seasoning period consists of the period from the date on which the first periodic payment was due after consummation of the covered transaction to the beginning of the temporary payment accommodation and an additional period immediately after the temporary payment accommodation ends, which together must equal at least 36 months.
+
+(D) *Temporary payment accommodation in connection with a disaster or pandemic-related national emergency* means temporary payment relief granted to a consumer due to financial hardship caused directly or indirectly by a presidentially declared emergency or major disaster under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*) or a presidentially declared pandemic-related national emergency under the National Emergencies Act (50 U.S.C. 1601 *et seq.*).
+
 (f) *Balloon-payment qualified mortgages made by certain creditors* - (1) *Exemption.* Notwithstanding paragraph (e)(2) of this section, a qualified mortgage may provide for a balloon payment, provided:
 
-(i) The loan satisfies the requirements for a qualified mortgage in paragraphs (e)(2)(i)(A), (e)(2)(ii), (e)(2)(iii), and (e)(2)(v) of this section, but without regard to the standards in appendix Q;
+(i) The loan satisfies the requirements for a qualified mortgage in paragraphs (e)(2)(i)(A) and (e)(2)(ii) and (iii) of this section;
 
 (ii) The creditor determines at or before consummation that the consumer can make all of the scheduled payments under the terms of the legal obligation, as described in paragraph (f)(1)(iv) of this section, together with the consumer's monthly payments for all mortgage-related obligations and excluding the balloon payment, from the consumer's current or reasonably expected income or assets other than the dwelling that secures the loan;
 
-(iii) The creditor considers at or before consummation the consumer's monthly debt-to-income ratio or residual income and verifies the debt obligations and income used to determine that ratio in accordance with paragraph (c)(7) of this section, except that the calculation of the payment on the covered transaction for purposes of determining the consumer's total monthly debt obligations in (c)(7)(i)(A) shall be determined in accordance with paragraph (f)(iv)(A) of this section, together with the consumer's monthly payments for all mortgage-related obligations and excluding the balloon payment;
+(iii) The creditor:
+
+(A) Considers and verifies at or before consummation the consumer's current or reasonably expected income or assets other than the value of the dwelling (including any real property attached to the dwelling) that secures the loan, in accordance with paragraphs (c)(2)(i) and (c)(4) of this section;
+
+(B) Considers and verifies at or before consummation the consumer's current debt obligations, alimony, and child support in accordance with paragraphs (c)(2)(vi) and (c)(3) of this section;
+
+(C) Considers at or before consummation the consumer's monthly debt-to-income ratio or residual income and verifies the debt obligations and income used to determine that ratio in accordance with paragraph (c)(7) of this section, except that the calculation of the payment on the covered transaction for purposes of determining the consumer's total monthly debt obligations in (c)(7)(i)(A) shall be determined in accordance with paragraph (f)(1)(iv)(A) of this section, together with the consumer's monthly payments for all mortgage-related obligations and excluding the balloon payment;
 
 (iv) The legal obligation provides for:
 
@@ -508,4 +576,4 @@ Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendmen
 
 (h) *Evasion; open-end credit.* In connection with credit secured by a consumer's dwelling that does not meet the definition of open-end credit in § 1026.2(a)(20), a creditor shall not structure the loan as an open-end plan to evade the requirements of this section.
 
-[78 FR 6584, Jan. 30, 2013, as amended at 78 FR 35502, June 12, 2013; 78 FR 44718, July 24, 2013; 78 FR 60442, Oct. 1, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65323, Nov. 3, 2014; 80 FR 59968, Oct. 2, 2015; 85 FR 67958, Oct. 26, 2020]
+[78 FR 6584, Jan. 30, 2013, as amended at 78 FR 35502, June 12, 2013; 78 FR 44718, July 24, 2013; 78 FR 60442, Oct. 1, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65323, Nov. 3, 2014; 80 FR 59968, Oct. 2, 2015; 85 FR 67958, Oct. 26, 2020; 85 FR 86394, 86452, Dec. 29, 2020; 86 FR 8283, Feb. 5, 2021]

@@ -1,26 +1,24 @@
 ##### § 433.139 Payment of claims. #####
 
-Link to an amendment published at 85 FR 87100, Dec. 31, 2020.
-
 (a) *Basic provisions.* (1) For claims involving third party liability that are processed on or after May 12, 1986, the agency must use the procedures specified in paragraphs (b) through (f) of this section.
 
 (2) The agency must submit documentation of the methods (e.g., cost avoidance, pay and recover later) it uses for payment of claims involving third party liability to the CMS Regional Office.
 
-(b) *Probable liability is established at the time claim is filed.* Except as provided in paragraph (e) of this section -
+(b) *Probable liability is established at the time claim is filed.* Except as provided in paragraph (e) of this section—
 
 (1) If the agency has established the probable existence of third party liability at the time the claim is filed, the agency must reject the claim and return it to the provider for a determination of the amount of liability. The establishment of third party liability takes place when the agency receives confirmation from the provider or a third party resource indicating the extent of third party liability. When the amount of liability is determined, the agency must then pay the claim to the extent that payment allowed under the agency's payment schedule exceeds the amount of the third party's payment.
 
-(2) The agency may pay the full amount allowed under the agency's payment schedule for the claim and then seek reimbursement from any liable third party to the limit of legal liability if the claim is for labor and delivery and postpartum care. (Costs associated with the inpatient hospital stay for labor and delivery and postpartum care must be cost-avoided.)
+(2) [Reserved]
 
-(3) The agency must pay the full amount allowed under the agency's payment schedule for the claim and seek reimbursement from any liable third party to the limit of legal liability (and for purposes of paragraph (b)(3)(ii) of this section, from a third party, if the third party liability is derived from an absent parent whose obligation to pay support is being enforced by the State title IV-D agency), consistent with paragraph (f) of this section if -
+(3) The agency must pay the full amount allowed under the agency's payment schedule for the claim and seek reimbursement from any liable third party to the limit of legal liability (and for purposes of paragraph (b)(3)(ii) of this section, from a third party, if the third party liability is derived from an absent parent whose obligation to pay support is being enforced by the State title IV-D agency), consistent with paragraph (f) of this section if—
 
-(i) The claim is prenatal care for pregnant women, or preventive pediatric services (including early and periodic screening, diagnosis and treatment services provided for under part 441, subpart B of this chapter), that is covered under the State plan; or
+(i) The claim is for preventive pediatric services, including early and periodic screening, diagnosis and treatment services provided for under part 441, subpart B, of this chapter, that are covered under the State plan; or
 
 (ii) The claim is for a service covered under the State plan that is provided to an individual on whose behalf child support enforcement is being carried out by the State title IV-D agency. The agency prior to making any payment under this section must assure that the following requirements are met:
 
 (A) The State plan specifies whether or not providers are required to bill the third party.
 
-(B) The provider certifies that before billing Medicaid, if the provider has billed a third party, the provider has waited 30 days from the date of the service and has not received payment from the third party.
+(B) For child support enforcement services beginning February 9, 2018, the provider certifies that before billing Medicaid, if the provider has billed a third party, the provider has waited 100 days from the date of the service and has not received payment from the third party.
 
 (C) The State plan specifies the method used in determining the provider's compliance with the billing requirements.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 85 FR 87100, Dec. 31, 2020.
 
 (3) The State plan must also specify the dollar amount or period of time for which it will accumulate billings with respect to a particular liable third party in making the decision whether to seek recovery of reimbursement.
 
-[50 FR 46665, Nov. 12, 1985, as amended at 51 FR 16319, May 2, 1986; 60 FR 35503, July 10, 1995; 62 FR 23140, Apr. 29, 1997]
+[50 FR 46665, Nov. 12, 1985, as amended at 51 FR 16319, May 2, 1986; 60 FR 35503, July 10, 1995; 62 FR 23140, Apr. 29, 1997; 85 FR 87100, Dec. 31, 2020]

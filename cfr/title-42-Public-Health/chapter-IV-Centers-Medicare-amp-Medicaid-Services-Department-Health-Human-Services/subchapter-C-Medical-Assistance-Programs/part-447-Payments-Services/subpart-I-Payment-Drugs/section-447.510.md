@@ -1,7 +1,5 @@
 ##### § 447.510 Requirements for manufacturers. #####
 
-Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
-
 (a) *Quarterly reports.* A manufacturer must report product and pricing information for covered outpatient drugs to CMS not later than 30 days after the end of the rebate period. The quarterly pricing report must include the following:
 
 (1) AMP, calculated in accordance with § 447.504.
@@ -24,9 +22,11 @@ Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
 
 (v) The change is to address specific rebate adjustments to States by manufacturers, as required by CMS or court order, or under an internal investigation, or an OIG or Department of Justice (DOJ) investigation.
 
+(vi) The change is a result of a VBP arrangement, as defined in § 447.502, requiring the manufacturer to make changes outside of the 12-quarter rule in this paragraph (b), when the outcome must be evaluated outside of the 12-quarter period.
+
 (2) A manufacturer must report revised AMP within the 12-quarter time period, except when the revision would be solely as a result of data pertaining to lagged price concessions.
 
-(c) *Base date AMP report* - (1) *Reporting period.* A manufacturer may report a revised Deficit Reduction Act (DRA) base date AMP to CMS within the first 4 full calendar quarters following July 17, 2007.
+(c) *Base date AMP report*—(1) *Reporting period.* A manufacturer may report a revised Deficit Reduction Act (DRA) base date AMP to CMS within the first 4 full calendar quarters following July 17, 2007.
 
 (2) *Recalculation of the DRA base date AMP.* (i) A manufacturer's recalculation of the DRA base date AMP must only reflect the revisions to AMP as provided for in § 447.504 in effect from October 1, 2007 to December 14, 2010.
 
@@ -42,7 +42,7 @@ Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
 
 (iii) A manufacturer must use actual and verifiable pricing records in recalculating the Affordable Care Act base date AMP.
 
-(d) *Monthly AMP* - (1) *Definition.* Monthly AMP means the AMP that is calculated on a monthly basis. A manufacturer must submit a monthly AMP to CMS not later than 30 days after the last day of each prior month.
+(d) *Monthly AMP*—(1) *Definition.* Monthly AMP means the AMP that is calculated on a monthly basis. A manufacturer must submit a monthly AMP to CMS not later than 30 days after the last day of each prior month.
 
 (2) *Calculation of monthly AMP.* Monthly AMP is calculated based on § 447.504, except the period covered is based on monthly, as opposed to quarterly, sales.
 
@@ -93,3 +93,5 @@ Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
 (ii) The audit findings or investigation related to the AMP, best price, customary prompt pay discounts, or nominal price have not been resolved.
 
 (g) *Data reporting format.* All product and pricing data, whether submitted on a quarterly or monthly basis, must be submitted to CMS in an electronic format designated by CMS.
+
+[81 FR 5347, Feb. 1, 2016, as amended at 85 FR 87103, Dec. 31, 2020]

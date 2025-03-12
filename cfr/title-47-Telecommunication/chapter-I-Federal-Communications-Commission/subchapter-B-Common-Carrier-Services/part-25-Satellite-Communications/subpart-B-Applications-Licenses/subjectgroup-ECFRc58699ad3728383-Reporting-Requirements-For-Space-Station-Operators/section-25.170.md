@@ -1,5 +1,7 @@
 ##### § 25.170 Annual reporting requirements. #####
 
+Link to an amendment published at 86 FR 11888, Mar. 1, 2021.
+
 All operators of U.S.-licensed space stations and operators of non-U.S.-licensed space stations granted U.S. market access must, on June 30 of each year, file a report with the International Bureau containing the following information:
 
 (a) Identification of any space station(s) not available for service or otherwise not performing to specifications as of May 31 of the current year, any spectrum within the scope of the part 25 license or market access grant that the space station is unable to use, the cause(s) of these difficulties, and the date when the space station was taken out of service or the malfunction was identified; and

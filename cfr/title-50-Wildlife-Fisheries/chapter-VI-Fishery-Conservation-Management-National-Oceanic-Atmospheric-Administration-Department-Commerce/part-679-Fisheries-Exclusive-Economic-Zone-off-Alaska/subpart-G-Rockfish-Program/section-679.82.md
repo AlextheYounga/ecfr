@@ -1,5 +1,7 @@
 ##### § 679.82 Rockfish Program use caps and sideboard limits. #####
 
+Link to an amendment published at 86 FR 11904, Mar. 1, 2021.
+
 (a) Use caps - (1) *General.* (i) Use caps limit the amount of rockfish QS that may be held or used by a rockfish eligible harvester and the amount of CQ that may be held or used by a rockfish cooperative, harvested by a vessel, or received or processed by a rockfish processor.
 
 (ii) Use caps do not apply to halibut PSC CQ.

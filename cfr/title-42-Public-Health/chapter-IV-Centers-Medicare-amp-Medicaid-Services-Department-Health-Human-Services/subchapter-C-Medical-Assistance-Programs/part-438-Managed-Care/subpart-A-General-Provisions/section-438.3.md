@@ -1,7 +1,5 @@
 ##### § 438.3 Standard contract requirements. #####
 
-Link to an amendment published at 85 FR 87101, Dec. 31, 2020.
-
 (a) *CMS review.* The CMS must review and approve all MCO, PIHP, and PAHP contracts, including those risk and nonrisk contracts that, on the basis of their value, are not subject to the prior approval requirement in § 438.806. Proposed final contracts must be submitted in the form and manner established by CMS. For States seeking approval of contracts prior to a specific effective date, proposed final contracts must be submitted to CMS for review no later than 90 days prior to the effective date of the contract.
 
 (b) *Entities eligible for comprehensive risk contracts.* A State may enter into a comprehensive risk contract only with the following:
@@ -102,7 +100,7 @@ Link to an amendment published at 85 FR 87101, Dec. 31, 2020.
 
 (r) *Additional rules for contracts with PCCM entities.* In addition to the requirements in paragraph (q) of this section, States must submit PCCM entity contracts to CMS for review and approval to ensure compliance with the provisions of this paragraph (r); § 438.10; and § 438.310(c)(2).
 
-(s) *Requirements for MCOs, PIHPs, or PAHPs that provide covered outpatient drugs.* Contracts that obligate MCOs, PIHPs or PAHPs to provide coverage of covered outpatient drugs must include the following requirements:
+(s) *Requirements for MCOs, PCCMs, PIHPs, or PAHPs that provide covered outpatient drugs.* Contracts that obligate MCOs, PCCMs, PIHPs, or PAHPs to provide coverage of covered outpatient drugs must include the following requirements:
 
 (1) The MCO, PIHP or PAHP provides coverage of covered outpatient drugs as defined in section 1927(k)(2) of the Act, that meets the standards for such coverage imposed by section 1927 of the Act as if such standards applied directly to the MCO, PIHP, or PAHP.
 
@@ -110,9 +108,9 @@ Link to an amendment published at 85 FR 87101, Dec. 31, 2020.
 
 (3) The MCO, PIHP or PAHP establishes procedures to exclude utilization data for covered outpatient drugs that are subject to discounts under the 340B drug pricing program from the reports required under paragraph (s)(2) of this section when states do not require submission of managed care drug claims data from covered entities directly.
 
-(4) The MCO, PIHP or PAHP must operate a drug utilization review program that complies with the requirements described in section 1927(g) of the Act and 42 CFR part 456, subpart K, as if such requirement applied to the MCO, PIHP, or PAHP instead of the State.
+(4) The MCO, PCCM, PIHP, or PAHP must operate a drug utilization review program that complies with the requirements described in section 1927(g) of the Act and part 456, subpart K, of this chapter, as if such requirement applied to the MCO, PCCM, PIHP, or PAHP instead of the State.
 
-(5) The MCO, PIHP or PAHP must provide a detailed description of its drug utilization review program activities to the State on an annual basis.
+(5) The MCO, PCCM, PIHP, or PAHP must provide a detailed description of its drug utilization review program activities to the State on an annual basis.
 
 (6) The MCO, PIHP or PAHP must conduct a prior authorization program that complies with the requirements of section 1927(d)(5) of the Act, as if such requirements applied to the MCO, PIHP, or PAHP instead of the State.
 
@@ -122,4 +120,4 @@ Link to an amendment published at 85 FR 87101, Dec. 31, 2020.
 
 (v) *Applicability date.* Sections 438.3(h) and (q) apply to the rating period for contracts with MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.6(g) and (k) contained in the 42 CFR, parts 430 to 481, edition revised as of October 1, 2015.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 85 FR 72837, Nov. 13, 2020]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 85 FR 72837, Nov. 13, 2020; 85 FR 87101, Dec. 31, 2020]

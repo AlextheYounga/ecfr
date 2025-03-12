@@ -496,6 +496,8 @@ As used in this part:
 
 *Federal Deposit Insurance Corporation Improvement Act* means the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4401).
 
+*Federal savings association* means an insured Federal savings association or an insured Federal savings bank chartered under section 5 of the Home Owners' Loan Act of 1933.
+
 *Fiduciary or custodial and safekeeping account* means, for purposes of § 3.10(c)(4)(ii)(J), an account administered by a custody bank for which the custody bank provides fiduciary or custodial and safekeeping services, as authorized by applicable Federal or state law.
 
 *Financial collateral* means collateral:
@@ -517,8 +519,6 @@ As used in this part:
 (vii) Money market fund shares and other mutual fund shares if a price for the shares is publicly quoted daily; and
 
 (2) In which the national bank and Federal savings association has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof (with the exception of cash on deposit; and notwithstanding the prior security interest of any custodial agent or any priority security interest granted to a CCP in connection with collateral posted to that CCP).
-
-*Federal savings association* means an insured Federal savings association or an insured Federal savings bank chartered under section 5 of the Home Owners' Loan Act of 1933.
 
 *Financial institution* means:
 

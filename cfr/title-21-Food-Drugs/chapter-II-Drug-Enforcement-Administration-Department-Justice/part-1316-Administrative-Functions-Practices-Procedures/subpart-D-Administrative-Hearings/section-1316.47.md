@@ -4,7 +4,7 @@
 
 (Date)Drug Enforcement Administration, Attn: Hearing Clerk/OALJ(Mailing Address)Subject: Request for HearingDear Sir:
 
-The undersigned \_\_\_\_\_\_ (Name of the Person) hereby requests a hearing in the matter of: \_\_\_\_\_\_ (Identification of the proceeding).
+The undersigned \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of the Person) hereby requests a hearing in the matter of: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Identification of the proceeding).
 
 (A) (State with particularity the interest of the person in the proceeding.)
 

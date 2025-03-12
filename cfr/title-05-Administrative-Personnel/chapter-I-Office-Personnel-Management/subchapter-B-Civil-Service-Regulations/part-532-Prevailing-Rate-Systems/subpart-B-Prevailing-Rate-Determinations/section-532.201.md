@@ -1,5 +1,7 @@
 ##### § 532.201 Definitions. #####
 
+Link to an amendment published at 86 FR 11858, Mar. 1, 2021.
+
 For the purposes of this part:
 
 *Full-scale survey* means a survey conducted at least every 2 years in which data are collected from a current sampling of establishments in the private sector by personal visit of data collectors.
