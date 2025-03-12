@@ -1,6 +1,6 @@
 ##### § 17.900 Definitions. #####
 
-For purposes of §§ 17.900 through 17.905 -
+For purposes of §§ 17.900 through 17.905—
 
 *Approved health care provider* means a health care provider currently approved by the Center for Medicare and Medicaid Services (CMS), Department of Defense TRICARE Program, Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA), The Joint Commission, or currently approved for providing health care under a license or certificate issued by a governmental entity with jurisdiction. An entity or individual will be deemed to be an approved health care provider only when acting within the scope of the approval, license, or certificate.
 

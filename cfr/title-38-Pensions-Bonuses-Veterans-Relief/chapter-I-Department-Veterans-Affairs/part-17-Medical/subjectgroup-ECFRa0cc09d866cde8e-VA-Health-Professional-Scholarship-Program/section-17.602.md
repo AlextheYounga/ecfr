@@ -1,6 +1,6 @@
 ##### § 17.602 Eligibility. #####
 
-(a) To be eligible for a scholarship under this program an applicant must -
+(a) To be eligible for a scholarship under this program an applicant must—
 
 (1) Be unconditionally accepted for enrollment or be enrolled as a full-time student in an accredited school located in a State;
 
@@ -18,7 +18,7 @@
 
 (Authority: 38 U.S.C. 7618(b))
 
-(b) To be eligible for a scholarship as a part-time student under this program, an applicant must satisfy requirements of paragraph (a) of this section and in addition must -
+(b) To be eligible for a scholarship as a part-time student under this program, an applicant must satisfy requirements of paragraph (a) of this section and in addition must—
 
 (1) Be a full-time VA employee permanently assigned to a VA health care facility at the time of application and on the date when the scholarship is awarded;
 

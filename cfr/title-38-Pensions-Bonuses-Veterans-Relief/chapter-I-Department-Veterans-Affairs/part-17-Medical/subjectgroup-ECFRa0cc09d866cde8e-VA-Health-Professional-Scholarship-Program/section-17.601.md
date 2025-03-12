@@ -34,7 +34,7 @@ The following definitions apply to §§ 17.600 through 17.636:
 
 *Obligated service* means the period of time during which the HPSP or VIOMPSP participant must be employed by VA in a full-time clinical occupation for which the degree prepared the participant as a requirement of the acceptance agreement.
 
-*Part-time student* - (1) *HPSP.* For the purposes of the HPSP, part-time student means an individual who is a VA employee, and who has been accepted for enrollment or enrolled for study leading to a degree on a less than full-time basis but no less than half-time basis.
+*Part-time student*—(1) *HPSP.* For the purposes of the HPSP, part-time student means an individual who is a VA employee, and who has been accepted for enrollment or enrolled for study leading to a degree on a less than full-time basis but no less than half-time basis.
 
 (2) *VIOMPSP.* For the purposes of the VIOMPSP, part-time student means an individual who has been accepted for enrollment or enrolled for study leading to a degree on a less than full-time basis but no less than half-time basis.
 

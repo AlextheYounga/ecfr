@@ -22,4 +22,4 @@
 
 (c) *Incomplete applications.* If VA receives an incomplete HISA benefits application, VA will notify the applicant of the missing documentation. If the missing documentation is not received by VA within 30 days after such notification, VA will close the application and notify the applicant that the application has been closed. The closure notice will indicate that the application may be re-opened by submitting the requested documentation and updating any outdated information from the original application.
 
-(Authority: 38 U.S.C. 501, 1717)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0188.)
+(Authority: 38 U.S.C. 501, 1717)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0188)

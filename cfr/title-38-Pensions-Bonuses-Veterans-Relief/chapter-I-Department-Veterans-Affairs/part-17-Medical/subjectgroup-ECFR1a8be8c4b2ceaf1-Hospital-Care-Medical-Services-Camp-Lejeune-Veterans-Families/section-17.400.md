@@ -42,7 +42,7 @@
 
 (c) *Limitations.* For a Camp Lejeune veteran, VA will assume that a covered illness or condition is attributable to the veteran's active duty service at Camp Lejeune unless it is clinically determined, under VA clinical practice guidelines, that such an illness or condition resulted from a cause other than such service.
 
-(d) *Copayments* - (1) *Exemption.* (i) Camp Lejeune veterans who served at Camp Lejeune between January 1, 1957, and December 31, 1987, are not subject to copayment requirements for hospital care and medical services provided for a covered illness or condition on or after August 6, 2012.
+(d) *Copayments*—(1) *Exemption.* (i) Camp Lejeune veterans who served at Camp Lejeune between January 1, 1957, and December 31, 1987, are not subject to copayment requirements for hospital care and medical services provided for a covered illness or condition on or after August 6, 2012.
 
 (ii) Camp Lejeune veterans who served at Camp Lejeune between August 1, 1953, and December 31, 1956, are not subject to copayment requirements for hospital care and medical services provided for a covered illness or condition on or after December 16, 2014.
 
@@ -52,4 +52,4 @@
 
 (ii) For Camp Lejeune veterans who served at Camp Lejeune between August 1, 1953, and December 31, 1956, VA provided the hospital care or medical services to the Camp Lejeune veteran on or after December 16, 2014, and the veteran requested Camp Lejeune veteran status no later than July 18, 2018.
 
-(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0091.)(Authority: 38 U.S.C. 1710)[81 FR 46605, July 18, 2016]
+(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0091)(Authority: 38 U.S.C. 1710)[81 FR 46605, July 18, 2016]

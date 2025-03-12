@@ -8,7 +8,7 @@
 
 (Authority: 38 U.S.C. 7616(b)(4))
 
-(c) *Additional service obligation.* A participant who has requested and received deferment for approved advanced clinical training may, at the time of approval of such deferment and at the discretion of the Secretary and upon the recommendation of the Under Secretary for Health, incur an additional period of obligated service -
+(c) *Additional service obligation.* A participant who has requested and received deferment for approved advanced clinical training may, at the time of approval of such deferment and at the discretion of the Secretary and upon the recommendation of the Under Secretary for Health, incur an additional period of obligated service—
 
 (1) At the rate of one-half of a calendar year for each year of approved clinical training (or a proportionate ratio thereof) if the training is in a specialty determined to be necessary to meet health care requirements of the Veterans Health Administration; Department of Veterans Affairs; or
 

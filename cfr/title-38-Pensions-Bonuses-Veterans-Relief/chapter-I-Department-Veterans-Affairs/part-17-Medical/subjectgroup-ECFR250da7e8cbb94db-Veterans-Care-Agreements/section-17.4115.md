@@ -6,7 +6,7 @@
 
 (2) Such care or services are not feasibly available to that covered individual through a VA facility, contract, or sharing agreement. For purposes of this subparagraph, hospital care, medical services, or extended care services are not feasibly available through a VA facility, contract, or sharing agreement when VA determines that the medical condition of the covered individual, the travel involved, the nature of the care or services, or a combination of these factors make the use of a VA facility, contract, or sharing agreement impracticable or inadvisable.
 
-(b) *Standards of conduct and improper business practices* - (1) *General.* (i) Government business shall be conducted in a manner above reproach and, except as authorized by statute or regulation, with complete impartiality and with preferential treatment for none. Transactions relating to the expenditure of public funds require the highest degree of public trust and an impeccable standard of conduct. The general rule is to avoid strictly any conflict of interest or even the appearance of a conflict of interest in Government-contractor relationships. The conduct of Government personnel must be such that they would have no reluctance to make a full public disclosure of their actions.
+(b) *Standards of conduct and improper business practices*—(1) *General.* (i) Government business shall be conducted in a manner above reproach and, except as authorized by statute or regulation, with complete impartiality and with preferential treatment for none. Transactions relating to the expenditure of public funds require the highest degree of public trust and an impeccable standard of conduct. The general rule is to avoid strictly any conflict of interest or even the appearance of a conflict of interest in Government-contractor relationships. The conduct of Government personnel must be such that they would have no reluctance to make a full public disclosure of their actions.
 
 (ii) VA officials and employees are reminded that there are other statutes and regulations that deal with prohibited conduct, including:
 
@@ -30,7 +30,7 @@
 
 (iv) Must not engage in any of the following:
 
-(A) Commission of fraud or a criminal offense in connection with -
+(A) Commission of fraud or a criminal offense in connection with—
 
 (*1*) Obtaining;
 
@@ -48,7 +48,7 @@
 
 (*2*) The taxpayer is delinquent in making payment. A taxpayer is delinquent if the taxpayer has failed to pay the tax liability when full payment was due and required. A taxpayer is not delinquent in cases where enforced collection action is precluded.
 
-(E) Knowing failure by a principal, until 3 years after final payment on any Government contract awarded to the contractor (or any Veterans Care Agreement entered into with the entity or provider), to timely disclose to the Government, in connection with the award or agreement, performance, or closeout of the contract or agreement or a subcontract thereunder, credible evidence of -
+(E) Knowing failure by a principal, until 3 years after final payment on any Government contract awarded to the contractor (or any Veterans Care Agreement entered into with the entity or provider), to timely disclose to the Government, in connection with the award or agreement, performance, or closeout of the contract or agreement or a subcontract thereunder, credible evidence of—
 
 (*1*) Violation of Federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the United States Code;
 

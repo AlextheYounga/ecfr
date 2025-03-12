@@ -14,7 +14,7 @@
 
 (Authority: 38 U.S.C. 7616(b), 7616(c), 7618(a))
 
-(c) *Duration of service* - (1) *Full-time student* - (i) *Physician or dentist.* A participant who attended school as a full-time student will agree to serve as a full-time physician or dentist in the Veterans Health Administration for 18 months for each school year or part thereof for which a scholarship was awarded.
+(c) *Duration of service*—(1) *Full-time student*—(i) *Physician or dentist.* A participant who attended school as a full-time student will agree to serve as a full-time physician or dentist in the Veterans Health Administration for 18 months for each school year or part thereof for which a scholarship was awarded.
 
 (ii) *Other health care profession.* A participant who attended school as a full-time student in a health care profession other than physician or dentist will agree to serve as a full-time clinical employee in the Veterans Health Administration for 1 calendar year for each school year or part thereof for which a scholarship was awarded, but for no less than 2 years.
 

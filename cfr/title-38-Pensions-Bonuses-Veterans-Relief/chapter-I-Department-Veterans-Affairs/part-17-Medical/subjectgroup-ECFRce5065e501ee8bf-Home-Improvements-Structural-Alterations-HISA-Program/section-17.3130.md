@@ -28,4 +28,4 @@
 
 (e) *Failure to make approved improvements or structural alterations.* If an inspection conducted pursuant to paragraph (c)(1) of this section reveals that the improvement or structural alteration has not been completed as indicated in the final payment request, VA may take appropriate action to collect the amount of the advance payment from the beneficiary. VA will not seek to collect the amount of the advance payment from the beneficiary if the beneficiary provides documentation indicating that the project was not completed due to the fault of the contractor, including bankruptcy or misconduct of the contractor.
 
-(Authority: 38 U.S.C. 501, 1717)(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0188.)
+(Authority: 38 U.S.C. 501, 1717)(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0188)

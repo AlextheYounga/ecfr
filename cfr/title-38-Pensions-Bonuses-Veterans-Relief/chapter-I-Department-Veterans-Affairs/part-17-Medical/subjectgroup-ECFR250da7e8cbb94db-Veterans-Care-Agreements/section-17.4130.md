@@ -26,4 +26,4 @@
 
 (v) If VA determines it is reasonable to discontinue the Veterans Care Agreement based on the health care needs of a covered individual.
 
-(Office of Management and Budget approved the collection of information under control number 2900-0872.)
+(Office of Management and Budget approved the collection of information under control number 2900-0872)[84 FR 21678, May 14, 2019, as amended at 86 FR 50861, Sept. 13, 2021]

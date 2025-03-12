@@ -10,7 +10,7 @@
 
 (4) Serve as a full-time clinical practice employee in VA for a period of four years.
 
-(b) *Obligated service* - (1) *General.* An eligible veteran's obligated service will begin on the date on which the eligible veteran begins full-time permanent employment with VA as a clinical practice employee. VA will appoint the participant to such position as soon as possible, but no later than 90 days after the date that the participant completes residency, or fellowship, if applicable, or the date the participant becomes licensed in a State, whichever is later.
+(b) *Obligated service*—(1) *General.* An eligible veteran's obligated service will begin on the date on which the eligible veteran begins full-time permanent employment with VA as a clinical practice employee. VA will appoint the participant to such position as soon as possible, but no later than 90 days after the date that the participant completes residency, or fellowship, if applicable, or the date the participant becomes licensed in a State, whichever is later.
 
 (2) *Location and position of obligated service.* VA reserves the right to make final decisions on the location and position of the obligated service.
 

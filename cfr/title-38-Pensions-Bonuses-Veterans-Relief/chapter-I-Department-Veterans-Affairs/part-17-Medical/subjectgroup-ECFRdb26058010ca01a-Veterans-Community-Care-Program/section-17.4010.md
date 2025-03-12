@@ -50,4 +50,4 @@ Section 1703(d) of title 38, U.S.C., establishes the conditions under which, at 
 
 (d) Review of veteran eligibility determinations. The review of any decisions under paragraph (a) of this section are subject to VA's clinical appeals process, and such decisions may not be appealed to the Board of Veterans' Appeals.
 
-(The information collection is pending Office of Management and Budget approval.)
+(The information collection is pending Office of Management and Budget approval)

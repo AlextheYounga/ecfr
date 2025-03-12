@@ -14,4 +14,6 @@
 
 (3) Modifications or suspensions of the regulations at §§ 300.215(d) and 300.216(b)(2) regarding at-sea transshipment observer requirements, including suspensions of some or all of the requirements, the Pacific Islands Regional Administrator's authorization to suspend some or all of the requirements for particular transshipments, requiring the carrying of observers other than WCPFC observers, requirements to carry electronic monitoring devices in lieu of observers, and requirements to collect and submit photographic or written information.
 
-[86 FR 31181, June 11, 2021]
+(e) *Covid-19-related actions.* Notwithstanding paragraph (a) of this section, a temporary specification to modify or suspend regulations related to the COVID-19 pandemic may be continued, as appropriate, until December 31, 2023, after which time such temporary specifications shall be effective for a period of less than one year.
+
+[86 FR 31181, June 11, 2021, at amended at 87 FR 34586, June 7, 2022]

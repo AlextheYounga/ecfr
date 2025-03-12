@@ -1,4 +1,4 @@
-##### § 17.702 Grants - general. #####
+##### § 17.702 Grants—general. #####
 
 (a) *One grant per highly rural area.* VA may award one grant per fiscal year to a grantee for each highly rural area in which the grantee provides transportation services. Transportation services may not be simultaneously provided by more than one grantee in any single highly rural area.
 

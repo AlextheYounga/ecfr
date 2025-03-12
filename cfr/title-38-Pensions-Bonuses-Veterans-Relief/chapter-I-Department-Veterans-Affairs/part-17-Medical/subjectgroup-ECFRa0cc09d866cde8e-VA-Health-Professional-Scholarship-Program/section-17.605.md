@@ -1,6 +1,6 @@
 ##### § 17.605 Selection of participants. #####
 
-(a) *General.* In deciding which HPSP application to approve, VA will first consider applications submitted by applicants entering their final year of education or training and applicants who previously received HPSP scholarships and who meet the conditions of paragraph (f) of this section. Except for paragraph (f) of this section, applicants will be evaluated and selected using the criteria specified in paragraph (b) of this section. If there are a larger number of equally qualified applicants than there are awards to be made, then VA will first select veterans, and then use a random method as the basis for further selection. In selecting participants to receive awards as part-time students, VA may, at VA's discretion -
+(a) *General.* In deciding which HPSP application to approve, VA will first consider applications submitted by applicants entering their final year of education or training and applicants who previously received HPSP scholarships and who meet the conditions of paragraph (f) of this section. Except for paragraph (f) of this section, applicants will be evaluated and selected using the criteria specified in paragraph (b) of this section. If there are a larger number of equally qualified applicants than there are awards to be made, then VA will first select veterans, and then use a random method as the basis for further selection. In selecting participants to receive awards as part-time students, VA may, at VA's discretion—
 
 (Authority: 38 U.S.C. 7612(b)(5))
 
@@ -10,7 +10,7 @@
 
 (Authority: 38 U.S.C. 7603(d))
 
-(b) *Selection.* In evaluating and selecting participants, the Secretary will take into consideration those factors determined necessary to assure effective participation in the Scholarship Program. The factors may include, but not be limited to -
+(b) *Selection.* In evaluating and selecting participants, the Secretary will take into consideration those factors determined necessary to assure effective participation in the Scholarship Program. The factors may include, but not be limited to—
 
 (1) Work/volunteer experience, including prior health care employment and Department of Veterans Affairs employment;
 
@@ -40,7 +40,7 @@
 
 (Authority: 38 U.S.C. 7612(c)(1)(A) and 7614(3))
 
-(f) *Continuation awards.* Subject to the availability of funds for the Scholarship Program and selection, the Secretary will award a continuation scholarship for completion of the degree for which the scholarship was awarded if -
+(f) *Continuation awards.* Subject to the availability of funds for the Scholarship Program and selection, the Secretary will award a continuation scholarship for completion of the degree for which the scholarship was awarded if—
 
 (1) The award will not extend the total period of Scholarship Program support beyond 4 years for a full-time scholarship, and beyond 6 years for a part-time scholarship; and
 

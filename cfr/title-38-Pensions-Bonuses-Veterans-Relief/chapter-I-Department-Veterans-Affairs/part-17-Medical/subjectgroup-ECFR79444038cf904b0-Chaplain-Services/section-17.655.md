@@ -56,4 +56,4 @@
 
 (4) If an ecclesiastical endorsing organization is no longer able to endorse individuals for VA chaplaincy in accordance with this section, all ecclesiastical endorsements issued by that organization are considered to be withdrawn.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0852.)[82 FR 51772, Nov. 8, 2017]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0852)[82 FR 51772, Nov. 8, 2017]

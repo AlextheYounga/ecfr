@@ -8,4 +8,4 @@
 
 (2) Full description of the terms and conditions that apply to participation in the VIOMPSP and service in VA.
 
-(Authority: 38 U.S.C. 501(a), 7502(a)(2))(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0793.)
+(Authority: 38 U.S.C. 501(a), 7502(a)(2))(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0793)

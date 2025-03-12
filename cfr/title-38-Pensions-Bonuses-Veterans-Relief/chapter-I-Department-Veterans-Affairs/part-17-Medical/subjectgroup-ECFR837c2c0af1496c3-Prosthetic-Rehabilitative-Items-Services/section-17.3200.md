@@ -4,8 +4,6 @@
 
 (b) *Scope.* This section and §§ 17.3210 through 17.3250 apply only to items and services listed in § 17.3230(a) and authorized to be provided as medical services under 38 U.S.C. 1701(6)(F) and 38 U.S.C. 1710(a). The provision of the items or services and payments in table 1 to this paragraph (b) are authorized in whole or in part by separate statutes and controlled by other implementing regulations:
 
-Table 1 to Paragraph (b)
-
 |               Item or service                |        Statute        |        Regulation(s)         |
 |----------------------------------------------|-----------------------|------------------------------|
 |              Clothing allowance              |    38 U.S.C. 1162     |         38 CFR 3.810         |

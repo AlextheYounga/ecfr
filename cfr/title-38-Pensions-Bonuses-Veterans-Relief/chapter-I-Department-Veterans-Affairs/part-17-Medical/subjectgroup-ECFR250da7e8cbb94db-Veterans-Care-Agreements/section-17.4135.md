@@ -22,7 +22,7 @@
 
 (2) Claims for payment under the applicable Veterans Care Agreement.
 
-(c) *Procedures* - (1) *Initiation of dispute.* Disputes under this section must be initiated in accordance with the following procedures and requirements:
+(c) *Procedures*—(1) *Initiation of dispute.* Disputes under this section must be initiated in accordance with the following procedures and requirements:
 
 (i) Disputes must be initiated by submitting a notice of dispute, in writing, to the designated VA official to which notice must be submitted under the terms of the Veterans Care Agreement. The notice of dispute must comply with, and be submitted in accordance with, applicable terms of the Veterans Care Agreement.
 
@@ -62,4 +62,4 @@
 
 (5) *Effect of decision.* A written decision issued by the responsible VA official constitutes the agency's final decision on the dispute.
 
-(Office of Management and Budget approved the collection of information under control number 2900-0872.)
+(Office of Management and Budget approved the collection of information under control number 2900-0872)[84 FR 21678, May 14, 2019, as amended at 86 FR 50861, Sept. 13, 2021]

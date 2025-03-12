@@ -100,7 +100,7 @@
 
 (c) Payments made in accordance with the provisions of §§ 17.900 through 17.905 shall constitute payment in full. Accordingly, the health care provider or agent for the health care provider may not impose any additional charge for any services for which payment is made by VA.
 
-(d) *Explanation of benefits (EOB)* - (1) When a claim under the provisions of §§ 17.900 through 17.905 is adjudicated, an EOB will be sent to the beneficiary or guardian and the provider. The EOB provides, at a minimum, the following information:
+(d) *Explanation of benefits (EOB)*—(1) When a claim under the provisions of §§ 17.900 through 17.905 is adjudicated, an EOB will be sent to the beneficiary or guardian and the provider. The EOB provides, at a minimum, the following information:
 
 (i) Name and address of recipient,
 

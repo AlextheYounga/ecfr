@@ -2,7 +2,7 @@
 
 (a) *General.* To be eligible to enter into a Veterans Care Agreement, an entity or provider must be certified by VA in accordance with the process and criteria established in paragraph (b) of this section. Additionally, an entity or provider must be actively certified while furnishing hospital care, medical services, or extended care services pursuant to a Veterans Care Agreement that the entity or provider has entered into with VA.
 
-(b) *Process and criteria* - (1) *Application for certification.* An entity or provider must apply for certification by submitting the following information and documentation to VA:
+(b) *Process and criteria*—(1) *Application for certification.* An entity or provider must apply for certification by submitting the following information and documentation to VA:
 
 (i) Documentation of applicable medical licenses; and
 
@@ -28,7 +28,7 @@
 
 (iv) If a certified entity or provider applies for recertification after the deadline in paragraph (b)(3)(iii) of this section, such application will constitute a new application for certification and will be processed in accordance with paragraphs (b)(1) and (2) of this section.
 
-(4) *Revocation of certification* - (i) *Standard for revocation.* VA may revoke an entity's or provider's certification in accordance with paragraphs (b)(2)(ii) through (v) of this section.
+(4) *Revocation of certification*—(i) *Standard for revocation.* VA may revoke an entity's or provider's certification in accordance with paragraphs (b)(2)(ii) through (v) of this section.
 
 (ii) *Notice of proposed revocation.* When VA determines revocation is appropriate, VA will notify the entity or provider in writing of the proposed revocation. The notice of proposed revocation will set forth the specific grounds for the action and will notify the entity or provider that it has 30 calendar days from the date of issuance to submit a written response addressing either of the following:
 
@@ -40,4 +40,4 @@
 
 (iv) *Effect of revocation.* Revocation of certification results in such status being rendered void, and the provider or entity may not furnish services or care to a covered individual under a Veterans Care Agreement prior to applying for and obtaining certified VCA status.
 
-(Office of Management and Budget approved the collection of information under control number 2900-0872.)
+(Office of Management and Budget approved the collection of information under control number 2900-0872)[84 FR 21678, May 14, 2019, as amended at 86 FR50861, Sept. 13, 2021]
