@@ -30,7 +30,7 @@
 
 (C) The vehicles, covers, and any containers used to carry the regulated fruit intrastate are treated in accordance with part 305 of this chapter before leaving the premises where the regulated fruit is unloaded for packing.
 
-(D)Any equipment that comes in contact with the regulated fruit at the packing plant is treated in accordance with part 305 of this chapter before being used to handle any fruit eligible for interstate movement to commercial citrus-producing areas, and
+(D) Any equipment that comes in contact with the regulated fruit at the packing plant is treated in accordance with part 305 of this chapter before being used to handle any fruit eligible for interstate movement to commercial citrus-producing areas, and
 
 (E) All leaves and litter collected from the shipment of regulated fruit at the packing plant are either incinerated at the packing plant or buried at a public landfill that is fenced, prohibits the removal of dumped material, and covers dumped material with dirt at the end of every day that dumping occurs. All culls collected from the shipment of regulated fruit are either processed into a product other than fresh fruit, incinerated at the packing plant, or buried at a public landfill that is fenced, prohibits the removal of dumped material, and covers dumped material with dirt at the end of every day that dumping occurs. Any culls moved intrastate for processing must be completely covered, or enclosed in containers or in a compartment of a vehicle, during the intrastate movement, and the vehicles, covers, and any containers used to carry the regulated fruit must be treated in accordance with part 305 of this chapter before leaving the premises where the regulated fruit is unloaded for processing.
 
@@ -50,4 +50,4 @@
 
 (5) *Destruction of infected plants and trees.* No more than 7 days after a State or Federal laboratory confirms that a regulated plant or regulated tree is infected, the State must provide written notice to the owner of the infected plant or infected tree that the infected plant or infected tree must be destroyed. The owner must have the infected plant or infected tree destroyed within 45 days after receiving the written notice.
 
-[55 FR 37450, Sept. 11, 1990]Editorial Note:For Federal Register citations affecting § 301.75-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[55 FR 37450, Sept. 11, 1990]Editorial Note:For Federal Register citations affecting § 301.75-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

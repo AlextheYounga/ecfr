@@ -14,7 +14,7 @@ Except in a case where the Board finds that the public interest requires otherwi
 
 (i) Requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue; or
 
-(ii)Establishes particular criteria for withholding or refers to particular types of matters to be withheld;
+(ii) Establishes particular criteria for withholding or refers to particular types of matters to be withheld;
 
 (2) This exemption applies to Board meetings, or portions of meetings, involving deliberations regarding recommendations which, under 42 U.S.C. 2286d(b) and (h)(3), may not be made publicly available until after they have been received by the Secretary of Energy or the President, respectively; Defense Nuclear Facilities Safety Board.
 

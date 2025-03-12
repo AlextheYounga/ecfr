@@ -1,0 +1,5 @@
+##### § 985.152 Handling report. #####
+
+Whenever an allotment percentage has been established for a class of oil, each handler shall furnish to the Committee at least the following information for each lot of that class of oil acquired by the handler from a producer: (a) Name of producer; (b) name of handler; (c) class of oil acquired; (d) date of acquisition; (e) date when oil was produced; (f) net weight of oil in the lot; (g) quantity of that class of oil in the producer's annual allotment available for handler before this acquisition; and (h) quantity of oil remaining in the producer's annual allotment after this acquisition. This information shall be furnished in such manner as the Committee may prescribe. Upon acquisition the handler or the handler's agent also shall include the applicable information on the back of the producer's Annual Allotment Certificate, showing that the acquired oil was within the unused portion of the producer's annual allotment.
+
+[46 FR 43130, Aug. 27, 1981]
