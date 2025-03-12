@@ -59,7 +59,7 @@ The food additive amino acids may be safely used as nutrients added to foods in 
 
 (f) The food additive amino acids added as nutrients to special dietary foods that are intended for use solely under medical supervision to meet nutritional requirements in specific medical conditions and comply with the requirements of part 105 of this chapter are exempt from the limitations in paragraphs (c) and (d) of this section and may be used in such foods at levels not to exceed good manufacturing practices.
 
-(g) The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(g) The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877:
 
@@ -67,7 +67,7 @@ The food additive amino acids may be safely used as nutrients added to foods in 
 
 (ii) [Reserved]
 
-(2) National Academy of Sciences, available from the FDA Main Library, 10903 New Hampshire Ave., Silver Spring, MD 20993:
+(2) National Academy of Sciences, available from the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday:
 
 (i) “Recommended Dietary Allowances,” NAS Publication No. 1694, 7th Ed. (1968).
 
@@ -79,4 +79,4 @@ The food additive amino acids may be safely used as nutrients added to foods in 
 
 (ii) [Reserved]
 
-[78 FR 71461, Nov. 29, 2013]
+[78 FR 71461, Nov. 29, 2013, as amended at 88 FR 17719, Mar. 24, 2023]

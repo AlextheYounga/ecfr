@@ -1,0 +1,3 @@
+##### § 75.705-9 Operating disconnecting or cutout switches. #####
+
+Disconnecting or cutout switches on energized high-voltage surface lines shall be operated only with insulated sticks, fuse tongs, or pullers which are adequately insulated and maintained to protect the operator from the voltage to which he is exposed. When such switches are operated from the ground, the person operating such devices shall wear protective rubber gloves.

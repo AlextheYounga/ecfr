@@ -1,0 +1,3 @@
+##### § 57.3401 Examination of ground conditions. #####
+
+Persons experienced in examining and testing for loose ground shall be designated by the mine operator. Appropriate supervisors or other designated persons shall examine and, where applicable, test ground conditions in areas where work is to be performed, prior to work commencing, after blasting, and as ground conditions warrant during the work shift. Underground haulageways and travelways and surface area highwalls and banks adjoining travelways shall be examined weekly or more often if changing ground conditions warrant.

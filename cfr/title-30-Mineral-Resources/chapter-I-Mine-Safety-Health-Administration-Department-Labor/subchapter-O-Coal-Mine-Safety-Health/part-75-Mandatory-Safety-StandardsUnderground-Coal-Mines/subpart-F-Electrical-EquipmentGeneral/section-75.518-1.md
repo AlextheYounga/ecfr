@@ -1,0 +1,3 @@
+##### § 75.518-1 Electric equipment and circuits; overload and short circuit protection; minimum requirements. #####
+
+A device to provide either short circuit protection or protection against overload which does not conform to the provisions of the National Electric Code, 1968, does not meet the requirement of § 75.518. In addition, such devices on electric face equipment and trailing cables that are required to be permissible must meet the requirements of the applicable schedules of the Bureau of Mines.

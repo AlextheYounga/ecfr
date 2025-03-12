@@ -1,0 +1,3 @@
+##### § 56.12017 Work on power circuits. #####
+
+Power circuits shall be deenergized before work is done on such circuits unless hot-line tools are used. Suitable warning signs shall be posted by the individuals who are to do the work. Switches shall be locked out or other measures taken which shall prevent the power circuits from being energized without the knowledge of the individuals working on them. Such locks, signs, or preventative devices shall be removed only by the person who installed them or by authorized personnel.

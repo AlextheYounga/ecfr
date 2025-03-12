@@ -1,0 +1,3 @@
+##### § 57.22237 Actions at 2.0 to 2.5 percent methane in bleeder systems (I-A and III mines). #####
+
+If methane reaches 2.0 percent in bleeder systems at the point where a bleeder split enters a main return split, mining shall not be permitted on ventilation splits affected by the bleeder system. If methane has not been reduced to less than 2.0 percent within 30 minutes, or if methane levels reach 2.5 percent, all persons other than competent persons necessary to take corrective action shall be withdrawn from affected areas.

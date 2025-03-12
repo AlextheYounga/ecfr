@@ -1,6 +1,6 @@
 ##### § 122.507 Passenger egress drills. #####
 
-Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
+Link to an amendment published at 86 FR 73171, Dec. 27, 2021.Link to an amendment published at 88 FR 17741, Mar. 24, 2023.
 
 (a) The master of a vessel described by 46 CFR 114.110(f) must conduct passenger emergency egress drills from the passengers' assigned overnight accommodation spaces prior to beginning an excursion with new passengers.
 

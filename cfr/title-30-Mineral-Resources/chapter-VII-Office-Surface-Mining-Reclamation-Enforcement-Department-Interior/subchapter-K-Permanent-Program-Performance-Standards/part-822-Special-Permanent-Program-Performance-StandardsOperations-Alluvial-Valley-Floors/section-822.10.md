@@ -1,0 +1,3 @@
+##### § 822.10 Information collection. #####
+
+The information collection requirements contained in § 822.13 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0049. The information is being collected to meet the requirements of sections 510(b)(5) and 515(b)(10)(F) of the Act which provide the information collection requirements and performance standards for alluvial valley floors. This information will be used to enable the regulatory authority to assess the impact of the proposed operation during the permanent regulatory program. The obligation to respond is mandatory.

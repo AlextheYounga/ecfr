@@ -1,0 +1,3 @@
+##### § 57.4262 Underground transformer stations, combustible liquid storage and dispensing areas, pump rooms, compressor rooms, and hoist rooms. #####
+
+Transformer stations, storage and dispensing areas for combustible liquids, pump rooms, compressor rooms, and hoist rooms shall be provided with fire protection of a type, size, and quantity that can extinguish fires of any class in their early stages which could occur as a result of the hazards present.

@@ -1,0 +1,3 @@
+##### § 56.6406 Duration of current flow. #####
+
+If any part of a blast is connected in parallel and is to be initiated from powerlines or lighting circuits, the time of current flow shall be limited to a maximum of 25 milliseconds. This can be accomplished by incorporating an arcing control device in the blasting circuit or by interrupting the circuit with an explosive device attached to one or both lead lines and initiated by a 25-millisecond delay electric detonator.

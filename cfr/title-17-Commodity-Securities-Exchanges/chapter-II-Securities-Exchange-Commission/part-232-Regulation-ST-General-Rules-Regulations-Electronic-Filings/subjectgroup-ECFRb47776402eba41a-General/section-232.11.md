@@ -46,6 +46,8 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *Interactive Data File.* The term *Interactive Data File* means the machine-readable computer code that presents information in eXtensible Business Reporting Language (XBRL) electronic format pursuant to § 232.405 and as specified by the EDGAR Filer Manual. When a filing is submitted using Inline XBRL as provided by § 232.405(a)(3), a portion of the Interactive Data File is embedded into a filing with the remainder submitted as an exhibit to the filing.
 
+*Interactive Data Financial Report.* The term *Interactive Data Financial Report* means the machine-readable computer code that presents information in eXtensible Business Reporting Language (XBRL) electronic format pursuant to § 232.407.
+
 *Investment Advisers Act.* The term *Investment Advisers Act* means the Investment Advisers Act of 1940.
 
 *Investment Company Act.* The term *Investment Company Act* means the Investment Company Act of 1940.

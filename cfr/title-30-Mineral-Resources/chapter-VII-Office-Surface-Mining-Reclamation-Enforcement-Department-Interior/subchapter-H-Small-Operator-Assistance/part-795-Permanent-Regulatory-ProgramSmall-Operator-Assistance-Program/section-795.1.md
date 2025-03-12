@@ -1,0 +1,3 @@
+##### § 795.1 Scope and purpose. #####
+
+This part comprises the Small Operator Assistance Program (SOAP) and establishes the procedures for providing assistance to eligible operators by the program administrator. It is an elective means for a regulatory authority to satisfy the requirements of section 507(c) of the Act. The purpose of the program is to provide for eligible operators a determination of probable hydrologic consequences and a statement of results of test borings or core samplings which are required components of the permit application under subchapter G of this chapter.

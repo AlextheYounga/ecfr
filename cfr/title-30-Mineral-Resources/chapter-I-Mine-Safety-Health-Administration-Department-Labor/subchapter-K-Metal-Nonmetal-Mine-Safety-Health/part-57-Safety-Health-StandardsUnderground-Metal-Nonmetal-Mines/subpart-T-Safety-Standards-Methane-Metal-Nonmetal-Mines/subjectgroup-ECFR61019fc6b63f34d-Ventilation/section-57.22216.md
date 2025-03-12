@@ -1,0 +1,3 @@
+##### § 57.22216 Separation of intake and return air (I-C mines). #####
+
+The main intake and return air currents in single shafts shall be separated by ventilation tubing, curtain walls, or partitions. Ventilation tubing shall be constructed of noncombustible material. Curtain walls or partitions shall be constructed of reinforced concrete or other noncombustible equivalent, and provided with pressure-relief devices.

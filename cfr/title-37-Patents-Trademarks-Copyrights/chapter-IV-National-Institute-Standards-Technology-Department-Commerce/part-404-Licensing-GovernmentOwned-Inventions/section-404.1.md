@@ -1,5 +1,7 @@
 ##### § 404.1 Scope of part. #####
 
+Link to an amendment published at 88 FR 17739, Mar. 24, 2023.
+
 This part prescribes the terms, conditions, and procedures upon which a federally owned invention, other than an invention in the custody of the Tennessee Valley Authority, may be licensed. This part does not affect licenses which:
 
 (a) Were in effect prior to April 7, 2006;

@@ -1,0 +1,3 @@
+##### § 57.12006 Distribution boxes. #####
+
+Distribution boxes shall be provided with a disconnecting device for each branch circuit. Such disconnecting devices shall be equipped or designed in such a manner that it can be determined by visual observation when such a device is open and that the circuit is deenergized, and the distribution box shall be labeled to show which circuit each device controls.

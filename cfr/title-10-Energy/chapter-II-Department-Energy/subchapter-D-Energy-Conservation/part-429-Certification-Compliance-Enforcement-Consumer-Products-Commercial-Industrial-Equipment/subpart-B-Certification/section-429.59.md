@@ -1,12 +1,12 @@
 ##### § 429.59 Pumps. #####
 
-Note 1 to § 429.59:
+Link to an amendment published at 88 FR 17973, Mar. 24, 2023.Note 1 to § 429.59:
 
 Prior to February 17, 2023, certification reports must be submitted as required either in this section or 10 CFR 429.59 as it appears in the 10 CFR parts 200 through 499 edition revised as of January 1, 2022. On or after February 17, 2023, certification reports must be submitted as required in this section.
 
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model by testing (which includes the calculation-based methods in the test procedure), in conjunction with the following sampling provisions. Manufacturers must update represented values to account for any change in the applicable motor standards in § 431.25 of this chapter and certify amended values as of the next annual certification.
 
-(1) Units to be tested. The requirements of § 429.11 are applicable to pumps; and for each basic model, a sample of sufficient size shall be randomly selected and tested to ensure that -
+(1) Units to be tested. The requirements of § 429.11 are applicable to pumps; and for each basic model, a sample of sufficient size shall be randomly selected and tested to ensure that—
 
 (i) Any representation of the constant load pump energy index (PEICL), variable load pump energy index (PEIVL), circulator energy index (CEI), or other measure of energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 
@@ -34,7 +34,7 @@ And x is the sample mean; n is the number of samples; and xi is the maximum of t
 
 And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
-(2) *Other representations* - (i) *Rated hydraulic horsepower.* The representative value of rated hydraulic horsepower of a basic model of dedicated-purpose pool pump or circulator pump must be the mean of the rated hydraulic horsepower for each tested unit.
+(2) *Other representations*—(i) *Rated hydraulic horsepower.* The representative value of rated hydraulic horsepower of a basic model of dedicated-purpose pool pump or circulator pump must be the mean of the rated hydraulic horsepower for each tested unit.
 
 (ii) *Dedicated-purpose pool pump motor total horsepower.* The representative value of dedicated-purpose pool pump motor total horsepower of a basic model of dedicated-purpose pool pump must be the mean of the dedicated-purpose pool pump motor total horsepower for each tested unit.
 

@@ -1,0 +1,3 @@
+##### § 57.19078 Hoisting buckets from the shaft bottom. #####
+
+All buckets shall be stopped after being raised about three feet above the shaft bottom. A bucket shall be stabilized before a hoisting signal is given to continue hoisting the bucket to the crosshead. After a hoisting signal is given, hoisting to the crosshead shall be at a minimum speed. The signaling device shall be attended constantly until a bucket reaches the guides. When persons are hoisted, the signaling devices shall be attended until the crosshead has been engaged.

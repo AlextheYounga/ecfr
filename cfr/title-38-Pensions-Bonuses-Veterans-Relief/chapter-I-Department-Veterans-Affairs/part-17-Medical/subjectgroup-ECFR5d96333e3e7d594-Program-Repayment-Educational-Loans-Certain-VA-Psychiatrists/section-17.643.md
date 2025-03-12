@@ -32,4 +32,4 @@
 
 (3) A full curriculum vitae.
 
-(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0879)[81 FR 66820, Sept. 29, 2016, as amended at 82 FR 4795, Jan. 17, 2017; 88 FR 13034, Mar. 2, 2023]Effective Date Note:At 81 FR 66820, Sept. 29, 2016, § 17.643 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0879)[81 FR 66820, Sept. 29, 2016, as amended at 82 FR 4795, Jan. 17, 2017; 88 FR 13034, Mar. 2, 2023]

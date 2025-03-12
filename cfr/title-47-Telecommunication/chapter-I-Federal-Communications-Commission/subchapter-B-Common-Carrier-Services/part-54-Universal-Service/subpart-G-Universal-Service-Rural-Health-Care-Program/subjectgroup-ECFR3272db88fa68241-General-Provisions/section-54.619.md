@@ -1,5 +1,7 @@
 ##### § 54.619 Cap. #####
 
+Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
+
 (a) *Amount of the annual cap.* The aggregate annual cap on federal universal service support for health care providers shall be $571 million per funding year, of which up to $150 million per funding year will be available to support upfront payments and multi-year commitments under the Healthcare Connect Fund Program.
 
 (1) *Inflation increase.* In funding year 2018 and subsequent funding years, the $571 million cap on federal universal support in the Rural Health Care Program shall be increased annually to take into account increases in the rate of inflation as calculated in paragraph (a)(2) in this section. In funding year 2020 and subsequent funding years, the $150 million cap on multi-year commitments and upfront payments in the Healthcare Connect Fund Program shall also be increased annually to take into account increases in the rate of inflation as calculated in paragraph (a)(2) in this section.

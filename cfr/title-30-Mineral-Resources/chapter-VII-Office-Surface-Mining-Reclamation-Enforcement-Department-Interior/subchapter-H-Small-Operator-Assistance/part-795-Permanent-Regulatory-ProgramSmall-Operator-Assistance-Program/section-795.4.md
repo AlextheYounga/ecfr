@@ -1,0 +1,5 @@
+##### § 795.4 Information collection. #####
+
+The collections of information contained in part 795 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1029-0061. The information will be used to determine if the applicants meet the requirements of the Small Operator Assistance Program. Response is required to obtain a benefit in accordance with Public Law 95-87. Public reporting burden for this information is estimated to average 24.2 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Office of Surface Mining Reclamation and Enforcement, Information Collection Clearance Officer (MS-202), 1951 Constitution Avenue, NW., Washington, DC 20240.
+
+[59 FR 28167, May 31, 1994, as amended at 75 FR 60275, Sept. 29, 2010]

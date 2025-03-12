@@ -1,6 +1,8 @@
 ##### § 431.464 Test procedure for the measurement of energy efficiency, energy consumption, and other performance factors of pumps. #####
 
-(a) *General pumps* - (1) *Scope.* This paragraph (a) provides the test procedures for determining the constant and variable load pump energy index for:
+Link to an amendment published at 88 FR 17978, Mar. 24, 2023.
+
+(a) *General pumps*—(1) *Scope.* This paragraph (a) provides the test procedures for determining the constant and variable load pump energy index for:
 
 (i) The following categories of clean water pumps:
 
@@ -48,7 +50,7 @@
 
 (2) *Testing and calculations.* Determine the applicable constant load pump energy index (PEICL) or variable load pump energy index (PEIVL) using the test procedure set forth in appendix A of this subpart.
 
-(b) *Dedicated-purpose pool pumps* - (1) *Scope.* This paragraph (b) provides the test procedures for determining the weighted energy factor (WEF), rated hydraulic horsepower, dedicated-purpose pool pump nominal motor horsepower, dedicated-purpose pool pump motor total horsepower, dedicated-purpose pool pump service factor, and other pump performance parameters for:
+(b) *Dedicated-purpose pool pumps*—(1) *Scope.* This paragraph (b) provides the test procedures for determining the weighted energy factor (WEF), rated hydraulic horsepower, dedicated-purpose pool pump nominal motor horsepower, dedicated-purpose pool pump motor total horsepower, dedicated-purpose pool pump service factor, and other pump performance parameters for:
 
 (i) The following varieties of dedicated-purpose pool pumps:
 
@@ -70,7 +72,7 @@
 
 (2) *Testing and calculations.* Determine the weighted energy factor (WEF) using the test procedure set forth in appendix B or appendix C of this subpart, as applicable.
 
-(c) *Circulator pumps* - (1) *Scope.* This paragraph (c) provides the test procedures for determining the circulator energy index for circulator pumps that are also clean water pumps, including on-demand circulator pumps and circulators-less-volute, and excluding submersible pumps and header pumps.
+(c) *Circulator pumps*—(1) *Scope.* This paragraph (c) provides the test procedures for determining the circulator energy index for circulator pumps that are also clean water pumps, including on-demand circulator pumps and circulators-less-volute, and excluding submersible pumps and header pumps.
 
 (2) *Testing and calculations.* Determine the circulator energy index (CEI) using the test procedure set forth in appendix D of this subpart Y.
 

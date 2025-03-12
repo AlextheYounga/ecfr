@@ -1,0 +1,3 @@
+##### § 250.813 Subsurface-controlled SSSVs. #####
+
+You may submit an APM or a request to the District Manager for approval to equip a dry tree well with a subsurface-controlled SSSV in lieu of a surface-controlled SSSV, if the subsurface-controlled SSSV is installed in a well equipped with a surface-controlled SSSV that has become inoperable and cannot be repaired without removal and reinstallation of the tubing. If you remove and reinstall the tubing, you must equip the well with a surface-controlled SSSV.

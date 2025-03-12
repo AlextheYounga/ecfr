@@ -39,7 +39,7 @@ apparatus
 
 Absorbance repeatability, ±0.01 at 0.4 absorbance.Absorbance accuracy,1 ±0.05 at 0.4 absorbance.
 
-1 As determined by procedure using potassium chromate for reference standard and described in National Bureau of Standards Circular 484, Spectrophotometry, U.S. Department of Commerce, (1949). The accuracy is to be determined by comparison with the standard values at 290, 345, and 400 millimicrons. The procedure is incorporated by reference. Copies of the material incorporated by reference are available from the Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+1 As determined by procedure using potassium chromate for reference standard and described in National Bureau of Standards Circular 484, Spectrophotometry, U.S. Department of Commerce, (1949). The accuracy is to be determined by comparison with the standard values at 290, 345, and 400 millimicrons. The procedure is incorporated by reference. Copies of the material incorporated by reference are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 Wavelength repeatability, ±0.2 millimicron.Wavelength accuracy, ±1.0 millimicron.
 
@@ -79,4 +79,4 @@ The reagent blank absorbance should not exceed 0.04 per centimeter path length b
 
 (d) Petroleum naphtha is used or intended for use as a solvent in protective coatings on fresh citrus fruit in compliance with § 172.210.
 
-[42 FR 14491, Mar. 15, 1977, as amended at 47 FR 11835, Mar. 19, 1982; 49 FR 10104, Mar. 19, 1984; 54 FR 24896, June 12, 1989]
+[42 FR 14491, Mar. 15, 1977, as amended at 47 FR 11835, Mar. 19, 1982; 49 FR 10104, Mar. 19, 1984; 54 FR 24896, June 12, 1989; 88 FR 17719, Mar. 24, 2023]

@@ -1,0 +1,7 @@
+##### § 53.152 Final returns. #####
+
+(a) *In general.* Any person who is required to make a return on TTB Form 5300.26 pursuant to § 53.151 and who in any return period ceases operations in respect of which the person is required to make a return on the form, shall make the return for that return period as a final return. A return made as a final return shall be marked “Final Return” by the person filing the return. A taxpayer who has only temporarily ceased to incur liability for tax required to be reported on TTB Form 5300.26 because of temporary or seasonal suspension of business or for other reasons, shall not make a final return until such operations are permanently ceased.
+
+(b) *Statement to accompany final return.* Each final return shall have attached a statement showing the address at which the records required by the regulations in this part will be kept, the name of the person keeping the records, and, if the business of the taxpayer has been sold or otherwise transferred to another person, the name and address of that person and the date on which the sale or transfer took place. If no sale or transfer occurred or if the taxpayer does not know the name of the person to whom the business was sold or transferred, that fact should be included in the statement.
+
+[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-330, 57 FR 40325, Sept. 3, 1992. Redesignated in part by T.D. ATF-365, 60 FR 33670, June 28, 1995]

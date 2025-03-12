@@ -1,5 +1,7 @@
 ##### § 401.11 Appeals. #####
 
+Link to an amendment published at 88 FR 17737, Mar. 24, 2023.
+
 (a) As used in this section, the term *standard clause* means the clause at § 401.14 of this part and the clauses previously prescribed by either OMB Circular A-124 or OMB Bulletin 81-22.
 
 (b) The agency official initially authorized to take any of the following actions shall provide the contractor with a written statement of the basis for his or her action at the time the action is taken, including any relevant facts that were relied upon in taking the action.

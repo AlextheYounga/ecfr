@@ -1,6 +1,8 @@
 ##### § 401.2 Definitions. #####
 
-As used in this part -
+Link to an amendment published at 88 FR 17735, Mar. 24, 2023.
+
+As used in this part—
 
 (a) The term *funding agreement* means any contract, grant, or cooperative agreement entered into between any Federal agency, other than the Tennessee Valley Authority, and any contractor for the performance of experimental, developmental, or research work funded in whole or in part by the Federal government. This term also includes any assignment, substitution of parties, or subcontract of any type entered into for the performance of experimental, developmental, or research work under a funding agreement as defined in the first sentence of this paragraph.
 

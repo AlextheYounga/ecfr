@@ -1,0 +1,17 @@
+##### § 57.5037 Radon daughter exposure monitoring. #####
+
+(a) In all mines at least one sample shall be taken in exhaust mine air by a competent person to determine if concentrations of radon daughters are present. Sampling shall be done using suggested equipment and procedures described in section 14.3 of ANSI N13.8-1973, entitled “American National Standard Radiation Protection in Uranium Mines,” approved July 18, 1973, pages 13-15, by the American National Standards Institute, Inc., which is incorporated by reference and made a part of the standard or equivalent procedures and equipment acceptable to the Administrator, MSHA Metal and Nonmetal Mine Safety and Health district office. This publication may be examined at any Metal and Nonmetal Mine Safety and Health Subdistrict Office of the Mine Safety and Health Administration, or may be obtained from the American National Standards Institute, Inc., 25 W. 43rd Street, 4th Floor, New York, NY 10036; *http://www.ansi.org.* The mine operator may request that the required exhaust mine air sampling be done by the Mine Safety and Health Administration. If concentrations of radon daughters in excess of 0.1 WL are found in an exhaust air sample, thereafter—
+
+(1) Where uranium is mined—radon daughter concentrations representative of worker's breathing zone shall be determined at least every two weeks at random times in all active working areas such as stopes, drift headings, travelways, haulageways, shops, stations, lunch rooms, magazines, and any other place or location where persons work, travel, or congregate. However, if concentrations of radon daughters are found in excess of 0.3 WL in an active working area, radon daughter concentrations thereafter shall be determined weekly in that working area until such time as the weekly determinations in that area have been 0.3 WL or less for 5 consecutive weeks.
+
+(2) Where uranium is not mined—when radon daughter concentrations between 0.1 and 0.3 WL are found in an active working area, radon daughter concentration measurements representative of worker's breathing zone shall be determined at least every 3 months at random times until such time as the radon daughter concentrations in that area are below 0.1 WL, and annually thereafter. If concentrations of radon daughters are found in excess of 0.3 WL in an active working area radon daughter concentrations thereafter shall be determined at least weekly in that working area until such time as the weekly determinations in that area have been 0.3 WL or less for 5 consecutive weeks.
+
+(b) If concentrations of radon daughters less than 0.1 WL are found in an exhaust mine air sample, thereafter:
+
+(1) Where uranium is mined—at least one sample shall be taken in the exhaust mine air monthly.
+
+(2) Where uranium is not mined—no further exhaust mine air sampling is required.
+
+(c) The sample date, locations, and results obtained under (a) and (b) above shall be recorded and retained at the mine site or nearest mine office for at least two years and shall be made available for inspection by the Secretary or his authorized representative.
+
+[50 FR 4082, Jan. 29, 1985, as amended at 60 FR 33723, June 29, 1995; 71 FR 16667, Apr. 3, 2006]

@@ -1,0 +1,5 @@
+##### § 75.522-1 Incandescent and fluorescent lamps. #####
+
+(a) Except for areas of a coal mine inby the last open crosscut, incandescent lamps may be used to illuminate underground areas. When incandescent lamps are used in a track entry or belt entry or near track entries to illuminate special areas other than structures, the lamps shall be installed in weather-proof sockets located in positions such that the lamps will not come in contact with any combustible material. Lamps used in all other places must be of substantial construction and be fitted with a glass enclosure.
+
+(b) Incandescent lamps within glass enclosures or fluorescent lamps may be used inside underground structures (except magazines used for the storage of explosives and detonators). In underground structures lighting circuits shall consist of cables installed on insulators or insulated wires installed in metallic conduit or metallic armor.

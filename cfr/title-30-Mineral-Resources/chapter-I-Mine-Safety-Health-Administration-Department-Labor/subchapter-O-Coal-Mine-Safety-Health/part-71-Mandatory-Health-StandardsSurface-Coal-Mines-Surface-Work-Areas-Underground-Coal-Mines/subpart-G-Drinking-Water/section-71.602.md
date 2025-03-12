@@ -1,0 +1,5 @@
+##### § 71.602 Drinking water; distribution. #####
+
+(a) Water shall be piped or transported in sanitary containers. Water systems and appurtenances thereto shall be constructed and maintained in accordance with State and local requirements. Where no such requirements are applicable, water systems and appurtenances shall be constructed and maintained in accordance with the National Plumbing Code (ASA A40.8—1955) which is hereby incorporated by reference and made a part hereof. (For information as to the availability of this code, see § 71.402(b).)
+
+(b) Water transported to the site shall be carried, stored and otherwise protected in sanitary containers constructed of smooth, impervious, heavy gauge, corrosion resistant materials. The containers shall be marked with the words “Drinking Water.”

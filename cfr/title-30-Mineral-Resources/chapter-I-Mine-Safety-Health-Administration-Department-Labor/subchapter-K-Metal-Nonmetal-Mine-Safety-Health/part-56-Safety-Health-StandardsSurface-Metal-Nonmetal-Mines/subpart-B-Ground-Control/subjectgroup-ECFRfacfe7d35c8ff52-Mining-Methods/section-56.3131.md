@@ -1,0 +1,3 @@
+##### § 56.3131 Pit or quarry wall perimeter. #####
+
+In places where persons work or travel in performing their assigned tasks, loose or unconsolidated material shall be sloped to the angle of repose or stripped back for at least 10 feet from the top of the pit or quarry wall. Other conditions at or near the perimeter of the pit or quarry wall which create a fall-of-material hazard to persons shall be corrected.

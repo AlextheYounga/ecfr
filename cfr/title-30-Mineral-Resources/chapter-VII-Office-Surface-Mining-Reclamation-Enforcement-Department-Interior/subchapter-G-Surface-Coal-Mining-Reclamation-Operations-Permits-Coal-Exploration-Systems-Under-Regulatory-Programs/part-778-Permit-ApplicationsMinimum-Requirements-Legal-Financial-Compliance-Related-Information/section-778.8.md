@@ -1,0 +1,5 @@
+##### § 778.8 Information collection. #####
+
+The collections of information contained in part 778 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1029-0117. The information collected will be used by the regulatory authority to ensure that all legal, financial, and compliance information requirements are satisfied before issuance of a permit. Persons intending to conduct surface coal mining operations must respond to obtain a benefit. A Federal agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Response is required to obtain a benefit in accordance with SMCRA. Send comments regarding burden estimates or any other aspect of this collection of information, including suggestions for reducing the burden, to the Office of Surface Mining Reclamation and Enforcement, Information Collection Clearance Officer, Room 202-SIB, 1951 Constitution Avenue, NW., Washington, DC 20240.
+
+[72 FR 68031, Dec. 3, 2007]

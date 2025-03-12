@@ -22,10 +22,10 @@
 
 (9) A statement of the sections of the regulations for which an exemption is sought.
 
-(c) The written proposal should be sent to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. The proposal should be clearly identified as a request for a temporary exemption for purposes of conducting authorized food labeling experiments and submitted as a citizen petition under § 10.30 of this chapter.
+(c) The written proposal should be sent to the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday. The proposal should be clearly identified as a request for a temporary exemption for purposes of conducting authorized food labeling experiments and submitted as a citizen petition under § 10.30 of this chapter.
 
 (d) Approval for food labeling experiments will be given by FDA in writing. Foods labeled in violation of existing regulations will be subject to regulatory action unless an FDA-approved exemption to the specific regulation has been granted for that specific product.
 
 (e) Reporting requirements contained in § 101.108(b) have been approved by this Office of Management and Budget and assigned number 0910-0151.
 
-[48 FR 15240, Apr. 8, 1983, as amended at 59 FR 14364, Mar. 28, 1994; 62 FR 15343, Mar. 31, 1997]
+[48 FR 15240, Apr. 8, 1983, as amended at 59 FR 14364, Mar. 28, 1994; 62 FR 15343, Mar. 31, 1997; 88 FR 17718, Mar. 24, 2023]

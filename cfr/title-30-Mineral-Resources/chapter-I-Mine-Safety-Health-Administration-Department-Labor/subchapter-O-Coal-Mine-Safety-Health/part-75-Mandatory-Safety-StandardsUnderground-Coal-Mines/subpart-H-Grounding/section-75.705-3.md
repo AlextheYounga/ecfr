@@ -1,0 +1,3 @@
+##### § 75.705-3 Work on energized high-voltage surface lines; reporting. #####
+
+Any operator designating and assigning qualified persons to perform repairs on energized high-voltage surface lines under the provisions of § 75.705-2 shall maintain a record of such repairs. Such record shall contain a notation of the time, date, location, and general nature of the repairs made, together with a copy of the information filed with the operator by the qualified person designated as responsible for performing such repairs.

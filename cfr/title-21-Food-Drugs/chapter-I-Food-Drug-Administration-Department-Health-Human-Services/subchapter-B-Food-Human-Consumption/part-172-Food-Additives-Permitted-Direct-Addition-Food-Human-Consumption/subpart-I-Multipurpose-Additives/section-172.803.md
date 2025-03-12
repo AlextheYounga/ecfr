@@ -2,7 +2,7 @@
 
 (a) Advantame is the chemical *N*-[*N*-[3-(3-hydroxy-4-methoxyphenyl)propyl]-α-aspartyl]-L-phenylalanine 1-methyl ester, monohydrate (CAS Reg. No. 714229-20-6).
 
-(b) Advantame meets the following specifications when it is tested according to the methods described or referenced in the document entitled “Specifications and Analytical Methods for Advantame” dated April 1, 2009, by the Ajinomoto Co. Inc., Sweetener Department 15-1, Kyobashi 1-chome, Chuo-ku, Tokyo 104-8315, Japan. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, 5001 Campus Dr., College Park, MD 20740. Copies may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(b) Advantame meets the following specifications when it is tested according to the methods described or referenced in the document entitled “Specifications and Analytical Methods for Advantame” dated April 1, 2009, by the Ajinomoto Co. Inc., Sweetener Department 15-1, Kyobashi 1-chome, Chuo-ku, Tokyo 104-8315, Japan. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200. Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) Assay for advantame, not less than 97.0 percent and not more than 102.0 percent on a dry basis.
 
@@ -22,4 +22,4 @@
 
 (d) If the food containing the additive purports to be or is represented to be for special dietary use, it must be labeled in compliance with part 105 of this chapter.
 
-[79 FR 29085, May 21, 2014]
+[79 FR 29085, May 21, 2014, as amended at 88 FR 17720, Mar. 24, 2023]

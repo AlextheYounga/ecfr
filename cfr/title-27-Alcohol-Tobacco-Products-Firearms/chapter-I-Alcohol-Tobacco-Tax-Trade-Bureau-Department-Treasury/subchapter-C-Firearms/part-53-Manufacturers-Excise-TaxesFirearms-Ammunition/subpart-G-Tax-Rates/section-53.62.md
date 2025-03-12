@@ -1,0 +1,17 @@
+##### § 53.62 Exemptions. #####
+
+(a) *Firearms subject to the National Firearms Act.* Section 4182(a) provides that the tax imposed by section 4181 of the Code shall not attach to the sale of any firearms on which the tax imposed by section 5811 of the Code (relating to tax on the transfer of machine guns, short-barreled firearms, and other weapons) has been paid. Any manufacturer, producer, or importer claiming such an exemption from the tax imposed by section 4181 of the Code must maintain such records and be prepared to produce such evidence as will establish the right to the exemption.
+
+(b) *Sales to Defense Department or to U.S. Coast Guard*—(1) *Military department.* Section 4182(b) of the Code provides that the tax imposed by section 4181 of the Code shall not attach to the sale of firearms, pistols, revolvers, shells, or cartridges that are purchased with funds appropriated for a military department of the United States. For this purpose, the term “military department” means the Department of the Army, the Department of the Navy, and Department of the Air Force. Included in the Department of the Navy are naval aviation and the Marine Corps.
+
+(2) *Coast Guard.* Section 655, title 14, U.S.C., provides that no tax on the sale or transfer of firearms, pistols, revolvers, shells, or cartridges may be imposed on such articles when bought with funds appropriated for the United States Coast Guard.
+
+(3) *Supporting evidence.* Any manufacturer, producer, or importer claiming an exemption from the tax imposed by section 4181 of the Code by reason of section 4182(b) and section 655, title 14 of the Code must maintain such records and be prepared to produce such evidence as will establish the right to the exemption. Generally, clearly identified orders or contracts of a military department signed by an authorized officer of the military department will be sufficient to establish the right to the exemption. In the absence of such orders or contracts, a statement, signed by an authorized officer of a military department or the Coast Guard, that the prescribed articles were purchased with funds appropriated for that military department or the Coast Guard will constitute satisfactory evidence of the right to an exemption.
+
+(c) *Small manufacturers, producers, and importers*—(1) *Exemption.* Section 4182(c) of the Code provides that the tax imposed by section 4181 of the Code shall not attach to any pistol, revolver, or firearm manufactured, produced, or imported by a person who manufactures, produces, and imports less than an aggregate of 50 of those articles during the calendar year, regardless of when the articles are sold.
+
+(2) *Controlled groups.* All persons treated as a single employer for purposes of subsection (a) or (b) of section 52 of the Code are treated as one person for purposes of paragraph (c)(1) of this section.
+
+(3) *Applicability.* The exemption described in paragraph (c)(1) of this section applies to articles sold by the manufacturer, producer, or importer after September 30, 2005. Application of this exemption is based on the calendar year in which the manufacture, production, or importation of the articles in question took place and does not depend on when the sale occurs. In addition, each calendar year stands alone for purposes of applying the exemption.
+
+[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-344, 58 FR 40354, July 28, 1993; T.D. TTB-62, 72 FR 51711, Sept. 11, 2007]

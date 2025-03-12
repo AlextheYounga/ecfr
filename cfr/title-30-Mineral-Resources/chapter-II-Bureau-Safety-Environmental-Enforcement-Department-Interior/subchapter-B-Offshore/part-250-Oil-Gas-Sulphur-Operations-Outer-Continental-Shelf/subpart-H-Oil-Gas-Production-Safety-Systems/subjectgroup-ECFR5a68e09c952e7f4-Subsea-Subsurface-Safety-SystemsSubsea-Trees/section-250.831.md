@@ -1,0 +1,3 @@
+##### § 250.831 Alteration or disconnection of subsea pipeline or umbilical. #####
+
+If a necessary alteration or disconnection of the pipeline or umbilical of any subsea well would affect your ability to monitor casing pressure or to test any subsea valves or equipment, you must contact the appropriate District Office at least 48 hours in advance and submit a repair or replacement plan to conduct the required monitoring and testing. You must not alter or disconnect until the repair or replacement plan is approved.

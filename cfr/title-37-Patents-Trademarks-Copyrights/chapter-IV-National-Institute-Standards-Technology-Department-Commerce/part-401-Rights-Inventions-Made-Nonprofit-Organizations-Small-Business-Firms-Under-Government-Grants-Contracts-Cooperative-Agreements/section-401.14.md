@@ -1,5 +1,7 @@
 ##### § 401.14 Standard patent rights clauses. #####
 
+Link to an amendment published at 88 FR 17738, Mar. 24, 2023.
+
 The following is the standard patent rights clause to be used as specified in § 401.3(a):
 
 Standard Patent Rights(a) Definitions
@@ -38,7 +40,7 @@ The *Contractor* may retain the entire right, title, and interest throughout the
 
 (d) Conditions When the Government May Obtain Title
 
-The *contractor* will convey to the *Federal agency,* upon written request, title to any subject invention -
+The *contractor* will convey to the *Federal agency,* upon written request, title to any subject invention—
 
 (1) If the *contractor* fails to disclose or elect title to the subject invention within the times specified in paragraph (c) of this clause, or elects not to retain title.
 

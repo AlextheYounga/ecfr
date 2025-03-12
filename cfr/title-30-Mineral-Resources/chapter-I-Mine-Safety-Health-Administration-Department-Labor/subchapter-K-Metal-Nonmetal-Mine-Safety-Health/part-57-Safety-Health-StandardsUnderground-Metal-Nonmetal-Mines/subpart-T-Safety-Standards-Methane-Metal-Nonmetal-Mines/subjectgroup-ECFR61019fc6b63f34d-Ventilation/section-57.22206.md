@@ -1,0 +1,5 @@
+##### § 57.22206 Main ventilation failure (I-A, II-A, III, and V-A mines). #####
+
+(a) When there has been a main ventilation failure, such as stoppage of main fans or failure of other components of the main ventilation system, tests for methane shall be conducted in affected active workings until normal air flow has resumed.
+
+(b) If a total failure of ventilation occurs while all persons are out of the mine and the failure lasts for more than 30 minutes, only competent persons shall be allowed underground to examine the mine or to make necessary ventilation changes. Other persons may reenter the mine after the main fans have been operational for at least 30 minutes, or after the mine atmosphere has been tested and contains less than 1.0 percent methane. Persons other than examiners shall not reenter a Subcategory II-A mine until the methane level is less than 0.5 percent.

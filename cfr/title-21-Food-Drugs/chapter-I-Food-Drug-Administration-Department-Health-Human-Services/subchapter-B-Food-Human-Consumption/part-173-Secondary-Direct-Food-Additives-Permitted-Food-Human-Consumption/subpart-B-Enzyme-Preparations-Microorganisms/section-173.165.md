@@ -8,11 +8,11 @@ The food additive *Candida lipolytica* may be safely used as the organism for fe
 
 Class: Deuteromycetes.Order: Moniliales.Family: Cryptococcaceae.Genus: *Candida.*Species: *lipolytica.*
 
-(2) The taxonomic characteristics of the culture agree in essential with the standard description for *Candida lipolytica* variety *lipolytica* listed in “The Yeasts - A Toxonomic Study,” 2d Ed. (1970), by Jacomina Lodder, which is incorporated by reference. Copies are available from the Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(2) The taxonomic characteristics of the culture agree in essential with the standard description for *Candida lipolytica* variety *lipolytica* listed in “The Yeasts—A Toxonomic Study,” 2d Ed. (1970), by Jacomina Lodder, which is incorporated by reference. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (c) The additive is used or intended for use as a pure culture in the fermentation process for the production of citric acid from purified normal alkanes.
 
-(d) The additive is so used that the citric acid produced conforms to the specifications of the Food Chemicals Codex, 7th ed. (2010), pp. 226-227, which is incorporated by reference. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*). Copies may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.* The additive meets the following ultraviolet absorbance limits when subjected to the analytical procedure described in this paragraph:
+(d) The additive is so used that the citric acid produced conforms to the specifications of the Food Chemicals Codex, 7th ed. (2010), pp. 226-227, which is incorporated by reference. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*). Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.* The additive meets the following ultraviolet absorbance limits when subjected to the analytical procedure described in this paragraph:
 
 |Ultraviolet absorbance per centimeter path length|Maximum|
 |-------------------------------------------------|-------|
@@ -35,7 +35,7 @@ apparatus
 
 4. Rotary vacuum evaporator, Buchi or equivalent.
 
-5. Spectrophotometer - Spectral range 250-400 nanometers with spectral slit width of 2 nanometers or less; under instrument operating conditions for these absorbance measurements, the spectrophotometer shall also meet the following performance requirements:
+5. Spectrophotometer—Spectral range 250-400 nanometers with spectral slit width of 2 nanometers or less; under instrument operating conditions for these absorbance measurements, the spectrophotometer shall also meet the following performance requirements:
 
 Absorbance repeatability, ±0.01 at 0.4 absorbance.
 
@@ -93,4 +93,4 @@ Evaporate the 40-percent benzene in hexane eluate on the rotary vacuum evaporato
 
 The reagent blank is prepared by using 200 milliliters of purified water in place of the citric acid solution and carrying the water sample through the procedure. The typical control reagent blank should not exceed 0.03 absorbance per centimeter path length between 280 and 299 nanometers, 0.02 absorbance per centimeter path length between 300 and 359 nanometers, and 0.01 absorbance per centimeter path length between 360 and 400 nanometers.
 
-[42 FR 14491, Mar. 15, 1977, as amended at 47 FR 11838, Mar. 19, 1982; 49 FR 10106, Mar. 19, 1984; 54 FR 24897, June 12, 1989; 78 FR 71466, Nov. 29, 2013]
+[42 FR 14491, Mar. 15, 1977, as amended at 47 FR 11838, Mar. 19, 1982; 49 FR 10106, Mar. 19, 1984; 54 FR 24897, June 12, 1989; 78 FR 71466, Nov. 29, 2013; 88 FR 17722, Mar. 24, 2023]

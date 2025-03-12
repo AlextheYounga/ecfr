@@ -1,5 +1,7 @@
 ##### § 404.5 Restrictions and conditions on all licenses granted under this part. #####
 
+Link to an amendment published at 88 FR 17739, Mar. 24, 2023.
+
 (a)(1) A license may be granted only if the applicant has supplied the Federal agency with a satisfactory plan for development or marketing of the invention, or both, and with information about the applicant's capability to fulfill the plan. The plan for a non-exclusive research license may be limited to describing the research phase of development.
 
 (2) A license granting rights to use or sell under a Government owned invention in the United States shall normally be granted only to a licensee who agrees that any products embodying the invention or produced through the use of the invention will be manufactured substantially in the United States. However, this condition may be waived or modified if reasonable but unsuccessful efforts have been made to grant licenses to potential licensees that would be likely to manufacture substantially in the United States or if domestic manufacture is not commercially feasible.

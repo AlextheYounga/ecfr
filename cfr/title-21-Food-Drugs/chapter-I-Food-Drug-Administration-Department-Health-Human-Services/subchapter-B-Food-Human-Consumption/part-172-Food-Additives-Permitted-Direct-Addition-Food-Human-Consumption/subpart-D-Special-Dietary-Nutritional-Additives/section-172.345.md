@@ -5,7 +5,7 @@ Folic acid (CAS Reg. No. 59-30-3), also known as folacin or folate, may be safel
 (a) Folic acid is the chemical *N*-[4-[[(2-amino-1,4-dihydro-4-oxo-6-pteridinyl)methyl]amino]benzoyl]-*L*-glutamic acid.
 
 (b) Folic acid meets the specifications of the Food Chemicals Codex, 9th ed., updated through Third Supplement, effective December 1, 2015, pp. 495-496, which is incorporated by reference.
-The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*). Copies may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*). Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (c) Folic acid may be added to foods subject to a standard of identity established under section 401 of the Federal Food, Drug, and Cosmetic Act (the act) when the standard of identity specifically provides for the addition of folic acid.
 
@@ -25,4 +25,4 @@ The Director of the Office of the Federal Register approves this incorporation b
 
 (i) Folic acid may be added to corn masa flour at a level not to exceed 0.7 milligrams of folic acid per pound of corn masa flour.
 
-[61 FR 8807, Mar. 5, 1996, as amended at 61 FR 27779, June 3, 1996; 64 FR 1758, Jan. 12, 1999; 78 FR 71463, Nov. 29, 2013; 81 FR 22183, Apr. 15, 2016]
+[61 FR 8807, Mar. 5, 1996, as amended at 61 FR 27779, June 3, 1996; 64 FR 1758, Jan. 12, 1999; 78 FR 71463, Nov. 29, 2013; 81 FR 22183, Apr. 15, 2016; 88 FR 17719, Mar. 24, 2023]

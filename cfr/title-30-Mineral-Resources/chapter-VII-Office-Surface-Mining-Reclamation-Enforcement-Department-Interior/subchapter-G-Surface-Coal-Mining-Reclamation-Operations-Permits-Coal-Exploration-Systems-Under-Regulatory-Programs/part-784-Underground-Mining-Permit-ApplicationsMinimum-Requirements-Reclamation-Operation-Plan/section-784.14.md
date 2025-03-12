@@ -1,0 +1,59 @@
+##### § 784.14 Hydrologic information. #####
+
+(a) *Sampling and analysis.* All water quality analyses performed to meet the requirements of this section shall be conducted according to the methodology in the 15th edition of “Standard Methods for the Examination of Water and Wastewater,” which is incorporated by reference, or the methodology in 40 CFR parts 136 and 434. Water quality sampling performed to meet the requirements of this section shall be conducted according to either methodology listed above when feasible. “Standard Methods for the Examination of Water and Wastewater,” is a joint publication of the American Public Health Association, the American Water Works Association, and the Water Pollution Control Federation and is available from the American Public Health Association, 1015 Fifteenth Street NW., Washington, DC 20036. This document is also available for inspection at the Office of the OSM Administrative Record, U.S. Department of the Interior, Room 5315, 1100 L Street NW., Washington, DC; at the OSM Eastern Technical Service Center, U.S. Department of the Interior, Building 10, Parkway Center, Pittsburgh, Pa.; at the OSM Western Technical Service Center, U.S. Department of the Interior, Brooks Tower, 1020 15th Street, Denver, Colo or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* This incorporation by reference was approved by the Director of the Federal Register on October 26, 1983. This document is incorporated as it exists on the date of the approval, and a notice of any change in it will be published in the Federal Register.
+
+(b) *Baseline information.* The application shall include the following baseline hydrologic information, and any additional information required by the regulatory authority.
+
+(1) *Ground-water information.* The location and ownership for the permit and adjacent areas of existing wells, springs, and other ground-water resources, seasonal quality and quantity of ground water, and usage. Water quality descriptions shall include, at a minimum, total dissolved solids or specific conductance corrected to 25 °C, pH, total iron, and total manganese. Ground-water quantity descriptions shall include, at a minimum, approximate rates of discharge or usage and depth to the water in the coal seam, and each water-bearing stratum above and potentially impacted stratum below the coal seam.
+
+(2) *Surface-water information.* The name, location, ownership and description of all surface-water bodies such as streams, lakes, and impoundments, the location of any discharge into any surface-water body in the proposed permit and adjacent areas, and information on surface-water quality and quantity sufficient to demonstrate seasonal variation and water usage. Water quality descriptions shall include, at a minimum, baseline information on total suspended solids, total dissolved solids or specific conductance corrected to 25 °C, pH, total iron, and total manganese. Baseline acidity and alkalinity information shall be provided if there is a potential for acid drainage from the proposed mining operation. Water quantity descriptions shall include, at a minimum, baseline information on seasonal flow rates.
+
+(3) *Supplemental information.* If the determination of the probable hydrologic consequences (PHC) required by paragraph (e) of this section indicates that adverse impacts on or off the proposed permit area may occur to the hydrologic balance, or that acid-forming or toxic-forming material is present that may result in the contamination of ground-water or surface-water supplies, then information supplemental to that required under paragraphs (b) (1) and (2) of this section shall be provided to evaluate such probable hydrologic consequences and to plan remedial and reclamation activities. Such supplemental information may be based upon drilling, aquifer tests, hydrogeologic analysis of the water-bearing strata, flood flows, or analysis of other water quality or quantity characteristics.
+
+(c) *Baseline cumulative impact area information.* (1) Hydrologic and geologic information for the cumulative impact area necessary to assess the probable cumulative hydrologic impacts of the proposed operation and all anticipated mining on surface- and ground-water systems as required by paragraph (f) of this section shall be provided to the regulatory authority if available from appropriate Federal or State agencies.
+
+(2) If this information is not available from such agencies, then the applicant may gather and submit this information to the regulatory authority as part of the permit application.
+
+(3) The permit shall not be approved until the necessary hydrologic and geologic information is available to the regulatory authority.
+
+(d) *Modeling.* The use of modeling techniques, interpolation or statistical techniques may be included as part of the permit application, but actual surface- and ground-water information may be required by the regulatory authority for each site even when such techniques are used.
+
+(e) *Probable hydrologic consequences determination.* (1) The application shall contain a determination of the probable hydrologic consequences (PHC) of the proposed operation upon the quality and quantity of surface and ground water under seasonal flow conditions for the proposed permit and adjacent areas.
+
+(2) The PHC determination shall be based on baseline hydrologic, geologic, and other information collected for the permit application and may include data statistically representative of the site.
+
+(3) The PHC determination shall include findings on:
+
+(i) Whether adverse impacts may occur to the hydrologic balance;
+
+(ii) Whether acid-forming or toxic-forming materials are present that could result in the contamination of surface or ground water supplies;
+
+(iii) What impact the proposed operation will have on:
+
+(A) Sediment yield from the disturbed area; (B) acidity, total suspended and dissolved solids, and other important water quality parameters of local impact; (C) flooding or streamflow alteration; (D) ground water and surface water availability; and (E) other characteristics as required by the regulatory authority;
+
+(iv) Whether the underground mining activities conducted after October 24, 1992 may result in contamination, diminution or interruption of a well or spring in existence at the time the permit application is submitted and used for domestic, drinking, or residential purposes within the permit or adjacent areas.
+
+(4) An application for a permit revision shall be reviewed by the regulatory authority to determine whether a new or updated PHC shall be required.
+
+(f) *Cumulative hydrologic impact assessment.* (1) The regulatory authority shall provide an assessment of the probable cumulative hydrologic impacts (CHIA) of the proposed operation and all anticipated mining upon surface- and ground-water systems in the cumulative impact area. The CHIA shall be sufficient to determine, for purposes of permit approval, whether the proposed operation has been designed to prevent material damage to the hydrologic balance outside the permit area. The regulatory authority may allow the applicant to submit data and analyses relevant to the CHIA with the permit application.
+
+(2) An application for a permit revision shall be reviewed by the regulatory authority to determine whether a new or updated CHIA shall be required.
+
+(g) *Hydrologic reclamation plan.* The application shall include a plan, with maps and descriptions, indicating how the relevant requirements of part 817 of this chapter, including §§ 817.41 to 817.43, will be met. The plan shall be specific to the local hydrologic conditions. It shall contain the steps to be taken during mining and reclamation through bond release to minimize disturbance to the hydrologic balance within the permit and adjacent areas; to prevent material damage outside the permit area; and to meet applicable Federal and State water quality laws and regulations. The plan shall include the measures to be taken to: avoid acid or toxic drainage; prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow; provide water treatment facilities when needed; and control drainage. The plan shall specifically address any potential adverse hydrologic consequences identified in the PHC determination prepared under paragraph (e) of this section and shall include preventive and remedial measures.
+
+(h) *Ground-water monitoring plan.* (1) The application shall include a ground-water monitoring plan based upon the PHC determination required under paragraph (e) of this section and the analysis of all baseline hydrologic, geologic and other information in the permit application. The plan shall provide for the monitoring of parameters that relate to the suitability of the ground water for current and approved postmining land uses and to the objectives for protection of the hydrologic balance set forth in paragraph (g) of this section. It shall identify the quantity and quality parameters to be monitored, sampling frequency and site locations. It shall describe how the data may be used to determine the impacts of the operation upon the hydrologic balance. At a minimum, total dissolved solids or specific conductance corrected to 25 °C, pH, total iron, total manganese, and water levels shall be monitored and data submitted to the regulatory authority at least every 3 months for each monitoring location. The regulatory authority may require additional monitoring.
+
+(2) If an applicant can demonstrate by the use of the PHC determination and other available information that a particular water-bearing stratum in the proposed permit and adjacent areas is not one which serves as an aquifer which significantly ensures the hydrologic balance within the cumulative impact area, then monitoring of that stratum may be waived by the regulatory authority.
+
+(i) *Surface-water monitoring plan.* (1) The application shall include a surface-water monitoring plan based upon the PHC determination required under paragraph (e) of this section and the analysis of all baseline hydrologic, geologic and other information in the permit application. The plan shall provide for the monitoring of parameters that relate to the suitability of the surface water for current and approved postmining land uses and to the objectives for protection of the hydrologic balance as set forth in paragraph (g) of this section as well as the effluent limitations found at 40 CFR part 434.
+
+(2) The plan shall identify the surface-water quantity and quality parameters to be monitored, sampling frequency and site locations. It shall describe how the data may be used to determine the impacts of the operation upon the hydrologic balance.
+
+(i) At all monitoring locations in streams, lakes, and impoundments, that are potentially impacted or into which water will be discharged and at upstream monitoring locations, the total dissolved solids or specific conductance corrected at 25 °C, total suspended solids, pH, total iron, total manganese, and flow shall be monitored.
+
+(ii) For point-source discharges, monitoring shall be conducted in accordance with 40 CFR parts 122, 123 and 434 and as required by the National Pollutant Discharge Elimination System permitting authority.
+
+(3) The monitoring reports shall be submitted to the regulatory authority every 3 months. The regulatory authority may require additional monitoring.
+
+[48 FR 43987, Sept. 26, 1983, as amended at 52 FR 45923, Dec. 2, 1987; 53 FR 36401, Sept. 19, 1988; 60 FR 16748, Mar. 31, 1995; 81 FR 93355, Dec. 20, 2016; 82 FR 54958, Nov. 17, 2017]

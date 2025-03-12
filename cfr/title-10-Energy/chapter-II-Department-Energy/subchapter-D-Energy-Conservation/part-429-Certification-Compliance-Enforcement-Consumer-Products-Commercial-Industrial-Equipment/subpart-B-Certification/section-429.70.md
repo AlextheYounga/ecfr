@@ -1,10 +1,12 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
+Link to an amendment published at 88 FR 17973, Mar. 24, 2023.
+
 (a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.65 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.
 
-(c) *Alternative efficiency determination method (AEDM) for commercial HVAC & WH products (excluding air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 Btu/h cooling capacity), and commercial refrigerators, freezers, and refrigerator-freezers* - (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
+(c) *Alternative efficiency determination method (AEDM) for commercial HVAC & WH products (excluding air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 Btu/h cooling capacity), and commercial refrigerators, freezers, and refrigerator-freezers*—(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
 
@@ -342,7 +344,7 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (*4*) Obtaining DOE authorization to resume use of an AEDM.
 
-(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration equipment* - (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
+(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration equipment*—(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
 
@@ -445,7 +447,7 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (ii) For an untested basic model having any heating element with an input rating that is lower than that of the corresponding heating element in the tested basic model, the represented value of the first-hour rating and the uniform energy factor is the same as that of a tested basic model, provided that the first-hour rating for the untested basic model results in the same draw pattern specified in Table I of appendix E for the simulated-use test as was applied to the tested basic model. To establish whether this condition is met, determine the first-hour ratings for the tested and the untested basic models in accordance with the procedure described in section 5.3.3 of 10 CFR part 430, subpart B, appendix E, then compare the appropriate draw pattern specified in Table I of appendix E for the first-hour rating of the tested basic model with that for the untested basic model. If this condition is not met, then the untested basic model must be tested and the appropriate sampling provisions applied to determine its uniform energy factor in accordance with appendix E and this part.
 
-(h) *Alternative efficiency determination method (AEDM) for compressors* - (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section, unless:
+(h) *Alternative efficiency determination method (AEDM) for compressors*—(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section, unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
 
@@ -496,7 +498,7 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (2) *Consumer boilers.* Rate the standby mode and off mode power consumption of an untested basic model of a consumer boiler using the standby mode and off mode power consumption obtained from a tested basic model as a basis for ratings if all aspects of the electrical components, controls, and design that impact the standby mode power consumption and off mode power consumption are identical.
 
-(j) *Alternative efficiency determination method (AEDM) for electric motors subject to requirements in subpart B of part 431 of this subchapter* - (1) *Criteria an AEDM must satisfy.* A manufacturer is not permitted to apply an AEDM to a basic model of electric motor to determine its efficiency pursuant to this section unless:
+(j) *Alternative efficiency determination method (AEDM) for electric motors subject to requirements in subpart B of part 431 of this subchapter*—(1) *Criteria an AEDM must satisfy.* A manufacturer is not permitted to apply an AEDM to a basic model of electric motor to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency characteristics and losses of the basic model as measured by the applicable DOE test procedure and accurately represents the mechanical and electrical characteristics of that basic model; and
 
@@ -546,7 +548,7 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (C) Conduct testing of basic models selected by the Department.
 
-(k) *Alternative efficiency determination method (AEDM) for dedicated-purpose pool pump motors subject to requirements in subpart Z of part 431 of this subchapter* - (1) *Criteria an AEDM must satisfy.* A manufacturer is not permitted to apply an AEDM to a basic model of dedicated-purpose pool pump motors, to determine its efficiency pursuant to this section unless:
+(k) *Alternative efficiency determination method (AEDM) for dedicated-purpose pool pump motors subject to requirements in subpart Z of part 431 of this subchapter*—(1) *Criteria an AEDM must satisfy.* A manufacturer is not permitted to apply an AEDM to a basic model of dedicated-purpose pool pump motors, to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency characteristics and losses of the basic model as measured by the applicable DOE test procedure and accurately represents the mechanical and electrical characteristics of that basic model;
 
@@ -598,7 +600,7 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (D) A combination of the foregoing.
 
-(l) *Alternate Efficiency Determination Method (AEDM) for air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 Btu/h cooling capacity* - (1) *Applicability.* (i) For air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h subject to standards in terms of seasonal energy efficiency ratio (SEER) and heating seasonal performance factor (HSPF), representations with respect to the energy use or efficiency, including compliance certifications, are subject to the requirements in § 429.70(c) of this title as it appeared in the 10 CFR parts 200-499 edition revised as of January 1, 2021.
+(l) *Alternate Efficiency Determination Method (AEDM) for air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 Btu/h cooling capacity*—(1) *Applicability.* (i) For air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h subject to standards in terms of seasonal energy efficiency ratio (SEER) and heating seasonal performance factor (HSPF), representations with respect to the energy use or efficiency, including compliance certifications, are subject to the requirements in § 429.70(c) of this title as it appeared in the 10 CFR parts 200-499 edition revised as of January 1, 2021.
 
 (ii) For air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h subject to standards in terms of seasonal energy efficiency ratio 2 (SEER2) and heating seasonal performance factor 2 (HSPF2) metrics, representations with respect to the energy use or efficiency, including compliance certifications, are subject to the requirements in this section. If manufacturers choose to certify compliance with any standards in terms of SEER2 and HSPF2 prior to the applicable compliance date for those standards, the requirements of this section must be followed.
 

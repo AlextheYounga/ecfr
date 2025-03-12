@@ -1,0 +1,3 @@
+##### § 77.503-1 Electric conductors. #####
+
+Electric conductors shall be sufficient in size to meet the minimum current carrying capacity provided for in the National Electric Code, 1968. All trailing cables shall meet the minimum requirements for ampacity provided in the standards of the Insulated Power Cable Engineers Association—National Electric Manufacturers Association in effect when such cables are purchased.

@@ -76,7 +76,7 @@
 
 (v) For products that only require the addition of water or another ingredient that contains insignificant amounts of nutrients in the amount added and that are prepared in such a way that there are no significant changes to the nutrient profile, the amount of the finished product may be declared in parentheses at the end of the serving size declaration (e.g.,1/2 cup (120 mL) concentrated soup (makes 1 cup prepared)).
 
-(vi) To promote uniformity in label serving sizes in household measures declared by different manufacturers, FDA has provided a guidance document entitled, “Guidelines for Determining the Gram Weight of the Household Measure.” The guidance document can be obtained from the Office of Nutritional Products, Labeling and Dietary Supplements (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740.
+(vi) To promote uniformity in label serving sizes in household measures declared by different manufacturers, FDA has provided a guidance document entitled, “Guidelines for Determining the Gram Weight of the Household Measure.” The guidance document can be obtained from the Office of Nutrition and Food Labeling (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740.
 
 (8) Determination of the number of servings per container shall be based on the serving size of the product determined by following the procedures described in this section.
 
@@ -128,7 +128,7 @@
 
 (E) Using bomb calorimetry data subtracting 1.25 calories per gram protein to correct for incomplete digestibility, as described in USDA Handbook No. 74 (slightly revised, 1973) p. 10; or
 
-(F) Using the following general factors for caloric value of sugar alcohols: Isomalt - 2.0 calories per gram, lactitol - 2.0 calories per gram, xylitol - 2.4 calories per gram, maltitol - 2.1 calories per gram, sorbitol - 2.6 calories per gram, hydrogenated starch hydrolysates - 3.0 calories per gram, mannitol - 1.6 calories per gram, and erythritol - 0 calories per gram.
+(F) Using the following general factors for caloric value of sugar alcohols: Isomalt—2.0 calories per gram, lactitol—2.0 calories per gram, xylitol—2.4 calories per gram, maltitol—2.1 calories per gram, sorbitol—2.6 calories per gram, hydrogenated starch hydrolysates—3.0 calories per gram, mannitol—1.6 calories per gram, and erythritol—0 calories per gram.
 
 (ii) “Calories from saturated fat” or “Calories from saturated” (VOLUNTARY): A statement of the caloric content derived from saturated fat as defined in paragraph (c)(2)(i) of this section in a serving may be declared voluntarily, expressed to the nearest 5-calorie increment, up to and including 50 calories, and the nearest 10-calorie increment above 50 calories, except that amounts less than 5 calories may be expressed as zero. This statement shall be indented under the statement of calories as provided in paragraph (d)(5) of this section.
 
@@ -148,7 +148,7 @@
 
 (5) “Fluoride” (VOLUNTARY): A statement of the number of milligrams of fluoride in a specified serving of food may be declared voluntarily, except that when a claim is made about fluoride content, label declaration shall be required. Fluoride content shall be expressed as zero when the serving contains less than 0.1 milligrams of fluoride, to the nearest 0.1-milligram increment when the serving contains less than or equal to 0.8 milligrams of fluoride, and the nearest 0.2 milligram-increment when a serving contains more than 0.8 milligrams of fluoride. Bottled water that bears a statement about added fluoride, as permitted by § 101.13(q)(8), must bear nutrition labeling that complies with requirements for the simplified format in paragraph (f) of this section.
 
-(6) “Carbohydrate, total” or “Total carbohydrate”: A statement of the number of grams of total carbohydrate in a serving expressed to the nearest gram, except that if a serving contains less than 1 gram, the statement “Contains less than 1 gram” or “less than 1 gram” may be used as an alternative, or if the serving contains less than 0.5 gram, the content may be expressed as zero. Total carbohydrate content shall be calculated by subtraction of the sum of the crude protein, total fat, moisture, and ash from the total weight of the food. This calculation method is described in A. L. Merrill and B. K. Watt, “Energy Value of Foods - Basis and Derivation,” USDA Handbook 74 (slightly revised 1973) pp. 2 and 3, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 (the availability of this incorporation by reference is given in paragraph (c)(1)(i)(A) of this section).
+(6) “Carbohydrate, total” or “Total carbohydrate”: A statement of the number of grams of total carbohydrate in a serving expressed to the nearest gram, except that if a serving contains less than 1 gram, the statement “Contains less than 1 gram” or “less than 1 gram” may be used as an alternative, or if the serving contains less than 0.5 gram, the content may be expressed as zero. Total carbohydrate content shall be calculated by subtraction of the sum of the crude protein, total fat, moisture, and ash from the total weight of the food. This calculation method is described in A. L. Merrill and B. K. Watt, “Energy Value of Foods—Basis and Derivation,” USDA Handbook 74 (slightly revised 1973) pp. 2 and 3, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 (the availability of this incorporation by reference is given in paragraph (c)(1)(i)(A) of this section).
 
 (i) “Dietary fiber”: A statement of the number of grams of total dietary fiber in a serving, indented and expressed to the nearest gram, except that if a serving contains less than 1 gram, declaration of dietary fiber is not required or, alternatively, the statement “Contains less than 1 gram” or “less than 1 gram” may be used, and if the serving contains less than 0.5 gram, the content may be expressed as zero. Dietary fiber is defined as non-digestible soluble and insoluble carbohydrates (with 3 or more monomeric units), and lignin that are intrinsic and intact in plants; isolated or synthetic non-digestible carbohydrates (with 3 or more monomeric units) determined by FDA to have physiological effects that are beneficial to human health. Except as provided for in paragraph (f) of this section, if dietary fiber content is not required, and as a result not declared, the statement “Not a significant source of dietary fiber” shall be placed at the bottom of the table of nutrient values in the same type size. The following isolated or synthetic nondigestible carbohydrate(s) have been determined by FDA to have physiological effects that are beneficial to human health and, therefore, shall be included in the calculation of the amount of dietary fiber: [beta]-glucan soluble fiber (as described in § 101.81(c)(2)(ii)(A)), psyllium husk (as described in § 101.81(c)(2)(ii)(B)(*1*)), cellulose, guar gum, pectin, locust bean gum, and hydroxypropylmethylcellulose. The manufacturer must make and keep records in accordance with paragraphs (g)(10) and (11) of this section to verify the declared amount of dietary fiber in the label and labeling of food when a mixture of dietary fiber, and added nondigestible carbohydrate(s) that does not meet the definition of dietary fiber, is present in the food.
 
@@ -180,7 +180,7 @@
 
 (B) Included in a food solely for technological purposes and declared only in the ingredient statement. The declaration may also include any of the other vitamins and minerals listed in paragraph (c)(8)(iv) of this section when they are naturally occurring in the food. The additional vitamins and minerals shall be listed in the order established in paragraph (c)(8)(iv) of this section.
 
-(iii) The percentages for vitamins and minerals shall be expressed to the nearest 2-percent increment up to and including the 10-percent level, the nearest 5-percent increment above 10 percent and up to and including the 50-percent level, and the nearest 10-percent increment above the 50-percent level. Quantitative amounts and percentages of vitamins and minerals present at less than 2 percent of the RDI are not required to be declared in nutrition labeling but may be declared by a zero or by the use of an asterisk (or other symbol) that refers to another asterisk (or symbol) that is placed at the bottom of the table and that is followed by the statement “Contains less than 2 percent of the Daily Value of this (these) nutrient (nutrients)” or “Contains \<2 percent of the Daily Value of this (these) nutrient (nutrients).” Alternatively, except as provided for in paragraph (f) of this section, if vitamin D, calcium, iron, or potassium is present in amounts less than 2 percent of the RDI, label declaration of the nutrient(s) is not required if the statement “Not a significant source of - (listing the vitamins or minerals omitted)” is placed at the bottom of the table of nutrient values. Either statement shall be in the same type size as nutrients that are indented. The quantitative amounts of vitamins and minerals, excluding sodium, shall be the amount of the vitamin or mineral included in one serving of the product, using the units of measurement and the levels of significance given in paragraph (c)(8)(iv) of this section, except that zeros following decimal points may be dropped, and additional levels of significance may be used when the number of decimal places indicated is not sufficient to express lower amounts (*e.g.,* the RDI for zinc is given in whole milligrams, but the quantitative amount may be declared in tenths of a milligram).
+(iii) The percentages for vitamins and minerals shall be expressed to the nearest 2-percent increment up to and including the 10-percent level, the nearest 5-percent increment above 10 percent and up to and including the 50-percent level, and the nearest 10-percent increment above the 50-percent level. Quantitative amounts and percentages of vitamins and minerals present at less than 2 percent of the RDI are not required to be declared in nutrition labeling but may be declared by a zero or by the use of an asterisk (or other symbol) that refers to another asterisk (or symbol) that is placed at the bottom of the table and that is followed by the statement “Contains less than 2 percent of the Daily Value of this (these) nutrient (nutrients)” or “Contains \<2 percent of the Daily Value of this (these) nutrient (nutrients).” Alternatively, except as provided for in paragraph (f) of this section, if vitamin D, calcium, iron, or potassium is present in amounts less than 2 percent of the RDI, label declaration of the nutrient(s) is not required if the statement “Not a significant source of—(listing the vitamins or minerals omitted)” is placed at the bottom of the table of nutrient values. Either statement shall be in the same type size as nutrients that are indented. The quantitative amounts of vitamins and minerals, excluding sodium, shall be the amount of the vitamin or mineral included in one serving of the product, using the units of measurement and the levels of significance given in paragraph (c)(8)(iv) of this section, except that zeros following decimal points may be dropped, and additional levels of significance may be used when the number of decimal places indicated is not sufficient to express lower amounts (*e.g.,* the RDI for zinc is given in whole milligrams, but the quantitative amount may be declared in tenths of a milligram).
 
 (iv) The following RDIs, nomenclature, and units of measure are established for the following vitamins and minerals which are essential in human nutrition:
 
@@ -220,7 +220,7 @@
 
 <sup>2</sup> The amount of vitamin D may, but is not required to, be expressed in international units (IU), in addition to the mandatory declaration in mcg. Any declaration of the amount of vitamin D in IU must appear in parentheses after the declaration of the amount of vitamin D in mcg.
 
-<sup>3</sup> RAE = Retinol activity equivalents; 1 microgram RAE = 1 microgram retinol, 2 microgram supplemental β-carotene, 12 micrograms dietary β-carotene, or 24 micrograms dietary α-carotene, or dietary 24 micrograms dietary β-cryptoxanthin.
+<sup>3</sup> RAE = Retinol activity equivalents; 1 microgram RAE = 1 microgram retinol, 2 micrograms supplemental β-carotene, 12 micrograms dietary β-carotene, or 24 micrograms dietary α-carotene, or 24 micrograms dietary β-cryptoxanthin.
 
 <sup>4</sup> 1 mg α-tocopherol (label claim) = 1 mg α-tocopherol = 1 mg RRR- α-tocopherol = 2 mg all rac-α-tocopherol.
 
@@ -234,7 +234,7 @@
 
 (v) The following synonyms may be added in parentheses immediately following the name of the nutrient or dietary component:
 
-Calories - EnergyVitamin C - Ascorbic acidThiamin - Vitamin B1Riboflavin - Vitamin B2
+Calories—EnergyVitamin C—Ascorbic acidThiamin—Vitamin B1Riboflavin—Vitamin B2
 
 (vi) A statement of the percent of vitamin A that is present as *beta*-carotene may be declared voluntarily. When the vitamins and minerals are listed in a single column, the statement shall be indented under the information on vitamin A. When vitamins and minerals are arrayed horizontally, the statement of percent shall be presented in parenthesis following the declaration of vitamin A and the percent DV of vitamin A in the food (e.g., “Percent Daily Value: Vitamin A 50 (90 percent as *beta*-carotene)”). When declared, the percentages shall be expressed in the same increments as are provided for vitamins and minerals in paragraph (c)(8)(iii) of this section.
 
@@ -309,7 +309,7 @@ Calories - EnergyVitamin C - Ascorbic acidThiamin - Vitamin B1Riboflavin - Vitam
 
 (iii) If there is not sufficient continuous vertical space (*i.e.,* approximately 3 in) to accommodate the required components of the nutrition label up to and including the mandatory declaration of potassium, the nutrition label may be presented in a tabular display as shown in the following sample label.
 
-![](/graphics/er27my16.000.gif)
+![](/graphics/er24mr23.011.gif)
 
 (12) The following sample labels illustrate the mandatory provisions and mandatory plus voluntary provisions of paragraph (d) of this section and the side-by-side display.
 
@@ -393,7 +393,7 @@ Calories - EnergyVitamin C - Ascorbic acidThiamin - Vitamin B1Riboflavin - Vitam
 
 (7) Compliance will be based on the metric measure specified in the label statement of serving size.
 
-(8) Alternatively, compliance with the provisions set forth in paragraphs (g)(1) through (6) of this section may be provided by use of an FDA approved database that has been computed following FDA guideline procedures and where food samples have been handled in accordance with current good manufacturing practice to prevent nutrition loss. FDA approval of a database shall not be considered granted until the Center for Food Safety and Applied Nutrition has agreed to all aspects of the database in writing. The approval will be granted where a clear need is presented (*e.g.,* raw produce and seafood). Approvals will be in effect for a limited time, *e.g.,* 10 years, and will be eligible for renewal in the absence of significant changes in agricultural or industry practices. Approval requests shall be submitted in accordance with the provisions of § 10.30 of this chapter. Guidance in the use of databases may be found in the “FDA Nutrition Labeling Manual - A Guide for Developing and Using Data Bases,” available from the Office of Nutrition and Food Labeling (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740 or by going to *http://www.fda.gov*.
+(8) Alternatively, compliance with the provisions set forth in paragraphs (g)(1) through (6) of this section may be provided by use of an FDA approved database that has been computed following FDA guideline procedures and where food samples have been handled in accordance with current good manufacturing practice to prevent nutrition loss. FDA approval of a database shall not be considered granted until the Center for Food Safety and Applied Nutrition has agreed to all aspects of the database in writing. The approval will be granted where a clear need is presented (*e.g.,* raw produce and seafood). Approvals will be in effect for a limited time, *e.g.,* 10 years, and will be eligible for renewal in the absence of significant changes in agricultural or industry practices. Approval requests shall be submitted in accordance with the provisions of § 10.30 of this chapter. Guidance in the use of databases may be found in the “FDA Nutrition Labeling Manual—A Guide for Developing and Using Data Bases,” available from the Office of Nutrition and Food Labeling (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740 or by going to *http://www.fda.gov*.
 
 (9) When it is not technologically feasible, or some other circumstance makes it impracticable, for firms to comply with the requirements of this section (e.g., to develop adequate nutrient profiles to comply with the requirements of paragraph (c) of this section), FDA may permit alternative means of compliance or additional exemptions to deal with the situation. Firms in need of such special allowances shall make their request in writing to the Center for Food Safety and Applied Nutrition (HFS-800), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740.
 
@@ -497,7 +497,7 @@ Failure to make and keep the records or provide the records to appropriate regul
 
 (B) The following sample label illustrates the provisions of paragraph (j)(5)(ii) of this section.
 
-![](/graphics/er27my16.009.gif)
+![](/graphics/er24mr23.012.gif)
 
 (C)-(E) [Reserved]
 
@@ -537,11 +537,11 @@ Failure to make and keep the records or provide the records to appropriate regul
 
 (12) Game meats (i.e., animal products not covered under the Federal Meat Inspection Act or the Poultry Products Inspection Act, such as flesh products from deer, bison, rabbit, quail, wild turkey, or ostrich) may provide required nutrition information on labeling in accordance with the provisions of paragraph (a)(2) of this section.
 
-(13)(i) Foods in small packages that have a total surface area available to bear labeling of less than 12 square inches, *Provided,* That the labels for these foods bear no nutrition claims or other nutrition information in any context on the label or in labeling or advertising, except as provided in § 101.8(c). Claims or other nutrition information, except as provided in § 101.8(c), subject the food to the provisions of this section.
+(13)(i) Foods in small packages that have a total surface area available to bear labeling of less than 12 square inches, *Provided,* That the labels for these foods bear no nutrition claims or other nutrition information in any context on the label or in labeling or advertising, except as provided in § 101.8(c). Claims or other nutrition information, except as provided in § 101.8(c), subject the food to the provisions of this section. Foods in packages subject to requirements of paragraphs (j)(13)(ii)(A)(*1*) and (*2*) of this section do not require the information in paragraphs (d)(9) and (f)(5) related to the footnote, however the abbreviated footnote statement “% DV = % Daily Value” may be used.
 
 (A) The manufacturer, packer, or distributor shall provide on the label of packages that qualify for and use this exemption an address or telephone number that a consumer can use to obtain the required nutrition information (*e.g.,* “For nutrition information, call 1-800-123-4567”).
 
-(B) When such products bear nutrition labeling, either voluntarily or because nutrition claims or other nutrition information is provided, all required information shall be in type size no smaller than 6 point or all upper-case type of 1-16 inches minimum height, except that individual serving-size packages of food served with meals in restaurants, institutions, and on board passenger carriers, and not intended for sale at retail, may comply with § 101.2(c)(2).
+(B) When such products bear nutrition labeling, either voluntarily or because nutrition claims or other nutrition information is provided, all required information shall be in type size no smaller than 6 point or all upper-case type of1/16 inches minimum height, except that individual serving-size packages of food served with meals in restaurants, institutions, and on board passenger carriers, and not intended for sale at retail, may comply with § 101.2(c)(2).
 
 (ii) Foods in packages that have a total surface area available to bear labeling of 40 or less square inches may modify the requirements of paragraphs (c) through (f) and (i) of this section by one or more of the following means:
 
@@ -549,15 +549,15 @@ Failure to make and keep the records or provide the records to appropriate regul
 
 (*1*) The following sample label illustrates the tabular display for small packages.
 
-![](/graphics/er27my16.011.gif)
+![](/graphics/er24mr23.013.gif)
 
 (*2*) The following sample label illustrates the linear display.
 
-![](/graphics/er27my16.012.gif)
+![](/graphics/er24mr23.014.gif)
 
 (B) Using any of the following abbreviations:
 
-Serving size - Serv sizeServings per container - ServingsCalories from saturated fat - Sat fat calSaturated fat - Sat fatMonounsaturated fat - Monounsat fatPolyunsaturated fat - Polyunsat fatCholesterol - CholestTotal carbohydrate - Total carb. This abbreviation can also be used on dual-column displays as shown in paragraphs (e)(5), (e)(6)(i), and (e)(6)(ii).Dietary fiber - FiberSoluble fiber - Sol fiberInsoluble fiber - Insol fiberSugar alcohol - Sugar alcVitamin - VitPotassium - PotasIncludes - Incl. This abbreviation can also be used on dual-column displays as shown in paragraphs (e)(5), (e)(6)(i), and (e)(6)(ii) of this section.
+Serving size—Serv sizeServings per container—ServingsCalories from saturated fat—Sat fat calSaturated fat—Sat fatMonounsaturated fat—Monounsat fatPolyunsaturated fat—Polyunsat fatCholesterol—CholestTotal carbohydrate—Total carb. This abbreviation can also be used on dual-column displays as shown in paragraphs (e)(5), (e)(6)(i), and (e)(6)(ii) of this section.Dietary fiber—FiberSoluble fiber—Sol fiberInsoluble fiber—Insol fiberSugar alcohol—Sugar alcVitamin—Vit. This abbreviation can also be used on the standard vertical side-by-side display as shown in paragraph (d)(12) of this section.Potassium—Pot. This abbreviation can also be used on the standard vertical side-by-side display as shown in paragraph (d)(12) of this section.Includes—Incl. This abbreviation can also be used on dual-column displays as shown in paragraphs (e)(5), (e)(6)(i), and (e)(6)(ii) of this section.
 
 (C) Presenting the required nutrition information on any label panel.
 
@@ -625,7 +625,7 @@ Serving size - Serv sizeServings per container - ServingsCalories from saturated
 
 (l) The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Office of Nutrition and Food Labeling (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-2404 and is available from the sources indicated below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
 
-(1) AOAC Reseller. Techstreet, 6300 Interfirst Dr., Ann Arbor, MI 48108, Toll free in United States: 1-800-699-9277, Outside United States: 1-734-780-8000, Fax: 1-734-780-2046, *www.techstreet.com,techstreet.service@thomsonreuters.com*. FDA does not endorse any particular reseller and notes that other resellers also may have the reference for sale. Consult FDA at 240-402-2404 for more information on additional resellers.
+(1) AOAC Reseller. Techstreet, 6300 Interfirst Dr., Ann Arbor, MI 48108, Toll free in United States: 1-800-699-9277, Outside United States: 1-734-780-8000, Fax: 1-734-780-2046, *www.techstreet.com, techstreet.service@thomsonreuters.com*. FDA does not endorse any particular reseller and notes that other resellers also may have the reference for sale. Consult FDA at 240-402-2404 for more information on additional resellers.
 
 (i) “Official Methods of Analysis of the AOAC INTERNATIONAL,” 19th Edition, Volumes 1 and 2, 2012.
 
@@ -639,7 +639,7 @@ Serving size - Serv sizeServings per container - ServingsCalories from saturated
 
 (3) United States Department of Agriculture (USDA), Agricultural Research Service, Washington, DC, Nutrient Data Laboratory, Bldg. 005 Room 105 BARC-West, Beltsville, MD 20705, 301-504-0630. *http://www.ars.usda.gov/News/docs.htm?docid=9447*.
 
-(i) USDA Handbook No. 74, Energy Value of Foods - basis and derivation, by A. L. Merrill and B. K. Watt, (slightly revised, 1973) *http://www.ars.usda.gov/SP2UserFiles/Place/80400525/Data/Classics/ah74.pdf*.
+(i) USDA Handbook No. 74, Energy Value of Foods—basis and derivation, by A. L. Merrill and B. K. Watt, (slightly revised, 1973) *http://www.ars.usda.gov/SP2UserFiles/Place/80400525/Data/Classics/ah74.pdf*.
 
 (ii) [Reserved]
 

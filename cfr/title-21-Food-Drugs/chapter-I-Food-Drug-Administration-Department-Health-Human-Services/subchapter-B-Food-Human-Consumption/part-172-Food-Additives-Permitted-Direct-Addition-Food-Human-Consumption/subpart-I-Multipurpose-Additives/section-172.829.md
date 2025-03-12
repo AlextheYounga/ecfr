@@ -2,7 +2,7 @@
 
 (a) Neotame is the chemical *N*-[*N*-(3,3-dimethylbutyl)-L-α-aspartyl]-L-phenylalanine-1-methyl ester (CAS Reg. No. 165450-17-9).
 
-(b) Neotame meets the following specifications when it is tested according to the methods described or referenced in the document entitled “Specifications and Analytical Methods for Neotame” dated April 3, 2001, by the NutraSweet Co., 699 North Wheeling Rd., Mount Prospect, IL 60056. The Director of the Office of the Federal Register has approved the incorporation by reference of this material in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from the Office of Food Additive Safety (HFS-200), Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039. Copies may be examined at the Center for Food Safety and Applied Nutrition's Library, 5001 Campus Dr., rm. 1C-100, College Park, MD 20740, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(b) Neotame meets the following specifications when it is tested according to the methods described or referenced in the document entitled “Specifications and Analytical Methods for Neotame” dated April 3, 2001, by the NutraSweet Co., 699 North Wheeling Rd., Mount Prospect, IL 60056. The Director of the Office of the Federal Register has approved the incorporation by reference of this material in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200. Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (1) Assay for neotame, not less than 97.0 percent and not more than 102.0 percent on a dry basis.
 
@@ -24,4 +24,4 @@
 
 (e) If the food containing the additive purports to be or is represented to be for special dietary use, it shall be labeled in compliance with part 105 of this chapter.
 
-[67 FR 45310, July 9, 2002, as amended at 81 FR 5591, Feb. 3, 2016]
+[67 FR 45310, July 9, 2002, as amended at 81 FR 5591, Feb. 3, 2016; 88 FR 17721, Mar. 24, 2023]

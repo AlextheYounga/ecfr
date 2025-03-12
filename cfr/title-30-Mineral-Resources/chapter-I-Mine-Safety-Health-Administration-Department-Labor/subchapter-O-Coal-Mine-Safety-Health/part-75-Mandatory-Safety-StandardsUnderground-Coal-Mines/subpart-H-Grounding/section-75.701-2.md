@@ -1,0 +1,3 @@
+##### § 75.701-2 Approved method of grounding metallic frames, casings and other enclosures receiving power from single-phase 110-220-volt circuit. #####
+
+In instances where single-phase 110-220-volt circuits are used to feed electrical equipment, the only method of grounding that will be approved is the connection of all metallic frames, casings and other enclosures of such equipment to a separate grounding conductor which establishes a continuous connection to a grounded center tap of the transformer.

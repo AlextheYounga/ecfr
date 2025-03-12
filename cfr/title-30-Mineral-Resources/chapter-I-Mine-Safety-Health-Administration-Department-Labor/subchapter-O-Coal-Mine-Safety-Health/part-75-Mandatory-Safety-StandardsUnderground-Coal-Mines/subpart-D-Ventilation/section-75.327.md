@@ -1,0 +1,5 @@
+##### § 75.327 Air courses and trolley haulage systems. #####
+
+(a) In any mine opened on or after March 30, 1970, or in any new working section of a mine opened before that date, where trolley haulage systems are maintained and where trolley wires or trolley feeder wires are installed, an authorized representative of the Secretary shall require enough entries or rooms as intake air courses to limit the velocity of air currents in the haulageways to minimize the hazards of fires and dust explosions in the haulageways.
+
+(b) Unless the district manager approves a higher velocity, the velocity of the air current in the trolley haulage entries shall be limited to not more than 250 feet per minute. A higher air velocity may be required to limit the methane content in these haulage entries or elsewhere in the mine to less than 1.0 percent and provide an adequate supply of oxygen.

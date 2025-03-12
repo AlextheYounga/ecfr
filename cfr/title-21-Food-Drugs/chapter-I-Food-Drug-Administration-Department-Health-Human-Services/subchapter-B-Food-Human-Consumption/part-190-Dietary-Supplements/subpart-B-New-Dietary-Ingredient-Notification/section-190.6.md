@@ -1,6 +1,6 @@
 ##### § 190.6 Requirement for premarket notification. #####
 
-(a) At least 75 days before introducing or delivering for introduction into interstate commerce a dietary supplement that contains a new dietary ingredient that has not been present in the food supply as an article used for food in a form in which the food has not been chemically altered, the manufacturer or distributor of that supplement, or of the new dietary ingredient, shall submit to the Office of Nutritional Products, Labeling and Dietary Supplements (HFS-820), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, information including any citation to published articles that is the basis on which the manufacturer or distributor has concluded that a dietary supplement containing such dietary ingredient will reasonably be expected to be safe. An original and two copies of this notification shall be submitted.
+(a) At least 75 days before introducing or delivering for introduction into interstate commerce a dietary supplement that contains a new dietary ingredient that has not been present in the food supply as an article used for food in a form in which the food has not been chemically altered, the manufacturer or distributor of that supplement, or of the new dietary ingredient, shall submit to the Office of Dietary Supplement Programs (HFS-810), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, information including any citation to published articles that is the basis on which the manufacturer or distributor has concluded that a dietary supplement containing such dietary ingredient will reasonably be expected to be safe. An original and two copies of this notification shall be submitted.
 
 (b) The notification required by paragraph (a) of this section shall include:
 
@@ -26,4 +26,4 @@
 
 (f) Failure of the agency to respond to a notification does not constitute a finding by the agency that the new dietary ingredient or the dietary supplement that contains the new dietary ingredient is safe or is not adulterated under section 402 of the act.
 
-[62 FR 49891, Sept. 23, 1997, as amended at 66 FR 17359, Mar. 30, 2001, 81 FR 49897, July 29, 2016]
+[62 FR 49891, Sept. 23, 1997, as amended at 66 FR 17359, Mar. 30, 2001, 81 FR 49897, July 29, 2016; 88 FR 17725, Mar. 24, 2023]

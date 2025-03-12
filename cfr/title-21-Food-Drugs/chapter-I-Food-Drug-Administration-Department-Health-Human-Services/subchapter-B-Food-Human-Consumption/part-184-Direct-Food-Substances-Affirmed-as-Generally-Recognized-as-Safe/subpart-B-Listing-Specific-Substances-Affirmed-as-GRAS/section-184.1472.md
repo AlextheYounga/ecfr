@@ -8,17 +8,17 @@
 
 (ii) *Odor.* Odorless to slightly fishy.
 
-(iii) *Saponification value.* Between 180 and 200 as determined by the American Oil Chemists' Society Official Method Cd 3-25 - “Saponification Value” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of this publication are available from the Office of Food Additive Safety, Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(iii) *Saponification value.* Between 180 and 200 as determined by the American Oil Chemists' Society Official Method Cd 3-25—“Saponification Value” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of this publication are available from the Office of Food Additive Safety, Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(iv) *Iodine number.* Not less than 120 as determined by the American Oil Chemists' Society Recommended Practice Cd 1d-92 - “Iodine Value of Fats and Oils, Cyclohexane - Acetic Acid Method,” which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(iv) *Iodine number.* Not less than 120 as determined by the American Oil Chemists' Society Recommended Practice Cd 1d-92—“Iodine Value of Fats and Oils, Cyclohexane—Acetic Acid Method,” which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
 
-(v) *Unsaponifiable matter.* Not more than 1.5 percent as determined by the American Oil Chemists' Society Official Method Ca 6b-53 - “Unsaponifiable Matter” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(v) *Unsaponifiable matter.* Not more than 1.5 percent as determined by the American Oil Chemists' Society Official Method Ca 6b-53—“Unsaponifiable Matter” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
 
-(vi) *Free fatty acids.* Not more than 0.1 percent as determined by the American Oil Chemists' Society Official Method Ca 5a-40 - “Free Fatty Acids” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(vi) *Free fatty acids.* Not more than 0.1 percent as determined by the American Oil Chemists' Society Official Method Ca 5a-40—“Free Fatty Acids” (reapproved 1989), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
 
-(vii) *Peroxide value.* Not more than 5 milliequivalents per kilogram of oil as determined by the American Oil Chemists' Society Official Method Cd 8-53 - “Peroxide Value, Acetic Acid - Chloroform Method” (updated 1992) or Recommended Practice Cd 8b-90 - “Peroxide Value, Acetic Acid - Isooctane Method” (updated 1992), which are incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(vii) *Peroxide value.* Not more than 5 milliequivalents per kilogram of oil as determined by the American Oil Chemists' Society Official Method Cd 8-53—“Peroxide Value, Acetic Acid—Chloroform Method” (updated 1992) or Recommended Practice Cd 8b-90—“Peroxide Value, Acetic Acid—Isooctane Method” (updated 1992), which are incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
 
-(viii) *Lead.* Not more than 0.1 part per million as determined by the American Oil Chemists' Society Official Method Ca 18c-91 - “Determination of Lead by Direct Graphite Furnace Atomic Absorption Spectrometry” (revised 1992), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
+(viii) *Lead.* Not more than 0.1 part per million as determined by the American Oil Chemists' Society Official Method Ca 18c-91—“Determination of Lead by Direct Graphite Furnace Atomic Absorption Spectrometry” (revised 1992), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
 
 (ix) *Mercury.* Not more than 0.5 part per million as determined by the method entitled “Biomedical Test Materials Program: Analytical Methods for the Quality Assurance of Fish Oil,” published in the “NOAA Technical Memorandum NMFS-SEFC-211,” F. M. Van Dolah and S. B. Galloway, editors, National Marine Fisheries Service, U. S. Department of Commerce, pages 71-88, November, 1988, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The availability of this incorporation by reference is given in paragraph (a)(2)(iii) of this section.
 
@@ -71,7 +71,7 @@
 
 (iv) *Iodine number.* Not more than 119 for partially hydrogenated menhaden oil and not more than 10 for fully hydrogenated menhaden oil.
 
-(v) *Unsaponifiable matter.* Not more than 1.5 percent. -
+(v) *Unsaponifiable matter.* Not more than 1.5 percent.—
 
 (vi) *Free fatty acids.* Not more than 0.1 percent.
 
@@ -89,4 +89,4 @@
 
 (4) If the fat or oil is fully hydrogenated, the name to be used on the label of a product containing it shall include the term “hydrogenated,” or if it is partially hydrogenated, the name shall include the term “partially hydrogenated,” in accordance with § 101.4(b)(14) of this chapter.
 
-[62 FR 30756, June 5, 1997, as amended at 70 FR 14531, Mar. 23, 2005; 81 FR 5596, Feb. 3, 2016]
+[62 FR 30756, June 5, 1997, as amended at 70 FR 14531, Mar. 23, 2005; 81 FR 5596, Feb. 3, 2016; 88 FR 17724, Mar. 24, 2023]

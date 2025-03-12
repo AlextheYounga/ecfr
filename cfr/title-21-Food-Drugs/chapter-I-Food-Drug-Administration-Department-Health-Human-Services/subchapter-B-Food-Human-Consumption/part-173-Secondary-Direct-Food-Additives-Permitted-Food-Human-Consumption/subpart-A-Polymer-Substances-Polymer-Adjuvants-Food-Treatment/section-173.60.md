@@ -10,7 +10,7 @@ Dimethylamine-epichlorohydrin copolymer (CAS Reg. No. 25988-97-0) may be safely 
 
 (2) A 50-percent-by-weight aqueous solution of the copolymer has a minimum viscosity of 175 centipoises at 25 °C as determined by LVT-series Brookfield viscometer using a No. 2 spindle at 60 RPM (or by another equivalent method).
 
-(3) The additive contains not more than 1,000 parts per million of 1,3-dichloro-2-propanol and not more than 10 parts per million epichlorohydrin. The epichlorohydrin and 1,3-dichloro-2-propanol content is determined by an analytical method entitled “The Determination of Epichlorohydrin and 1,3-Dichloro-2-Propanol in Dimethylamine-Epichlorohydrin Copolymer,” which is incorporated by reference. Copies are available from the Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(3) The additive contains not more than 1,000 parts per million of 1,3-dichloro-2-propanol and not more than 10 parts per million epichlorohydrin. The epichlorohydrin and 1,3-dichloro-2-propanol content is determined by an analytical method entitled “The Determination of Epichlorohydrin and 1,3-Dichloro-2-Propanol in Dimethylamine-Epichlorohydrin Copolymer,” which is incorporated by reference. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (4) Heavy metals (as Pb), 2 parts per million maximum.
 
@@ -20,4 +20,4 @@ Dimethylamine-epichlorohydrin copolymer (CAS Reg. No. 25988-97-0) may be safely 
 
 (d) To assure safe use of the additive, the label and labeling of the additive shall bear, in addition to other information required by the Act, adequate directions to assure use in compliance with paragraph (c) of this section.
 
-[48 FR 37614, Aug. 19, 1983, as amended at 54 FR 24897, June 12, 1989]
+[48 FR 37614, Aug. 19, 1983, as amended at 54 FR 24897, June 12, 1989; 88 FR 17722, Mar. 24, 2023]

@@ -1,0 +1,7 @@
+##### § 53.155 Extension of time for filing returns. #####
+
+(a) *In general.* Ordinarily, no extension of time will be granted for filing any return statement or other document required with respect to the taxes impose by chapter 32, because the information required for the filing of those documents is under normal circumstances readily available. However, if because of temporary conditions beyond the taxpayer's control, a taxpayer believes an extension of time for filing is justified, the taxpayer may apply to the appropriate TTB officer for an extension. An extension of time for filing a return does not operate to extend the time for payment of the tax or any part of the tax unless so specified in the extension. For extensions of time for payment of the tax, see § 53.156.
+
+(b) *Application for extension of time.* The application for an extension of time for filing the return shall be addressed to the appropriate TTB officer with whom the return is to be filed and must contain a full recital of the causes for the delay. It should be made on or before the due date of the return, and failure to do so many indicate negligence and constitute sufficient cause for denial. It should, where possible, be made sufficiently early to permit consideration of the matter and reply before what otherwise would be the due date of the return.
+
+(c) *Filing the return.* If an extension of time for filing the return is granted, a return shall be filed before the expiration of the period of extension.

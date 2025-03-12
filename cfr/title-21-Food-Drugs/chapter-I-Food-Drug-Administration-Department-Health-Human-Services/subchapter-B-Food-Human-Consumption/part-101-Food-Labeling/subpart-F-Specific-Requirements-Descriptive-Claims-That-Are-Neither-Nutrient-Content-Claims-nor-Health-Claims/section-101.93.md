@@ -1,6 +1,6 @@
 ##### § 101.93 Certain types of statements for dietary supplements. #####
 
-(a)(1) No later than 30 days after the first marketing of a dietary supplement that bears one of the statements listed in section 403(r)(6) or the Federal Food, Drug, and Cosmetic Act, the manufacturer, packer, or distributor of the dietary supplement shall notify the Office of Nutritional Products, Labeling and Dietary Supplements (HFS-810), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, that it has included such a statement on the label or in the labeling of its product. An original and two copies of this notification shall be submitted.
+(a)(1) No later than 30 days after the first marketing of a dietary supplement that bears one of the statements listed in section 403(r)(6) or the Federal Food, Drug, and Cosmetic Act, the manufacturer, packer, or distributor of the dietary supplement shall notify the Office of Dietary Supplement Programs (HFS-810), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, that it has included such a statement on the label or in the labeling of its product. An original and two copies of this notification shall be submitted.
 
 (2) The notification shall include the following:
 
@@ -64,4 +64,4 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 
 (x) Otherwise suggests an effect on a disease or diseases.
 
-[62 FR 49886, Sept. 23, 1997, as amended at 62 FR 49867, Sept. 23, 1997; 65 FR 1050, Jan. 6, 2000; 66 FR 17358, Mar. 30, 2001; 66 FR 56035, Nov. 6, 2001]
+[62 FR 49886, Sept. 23, 1997, as amended at 62 FR 49867, Sept. 23, 1997; 65 FR 1050, Jan. 6, 2000; 66 FR 17358, Mar. 30, 2001; 66 FR 56035, Nov. 6, 2001; 88 FR 17718, Mar. 24, 2023]

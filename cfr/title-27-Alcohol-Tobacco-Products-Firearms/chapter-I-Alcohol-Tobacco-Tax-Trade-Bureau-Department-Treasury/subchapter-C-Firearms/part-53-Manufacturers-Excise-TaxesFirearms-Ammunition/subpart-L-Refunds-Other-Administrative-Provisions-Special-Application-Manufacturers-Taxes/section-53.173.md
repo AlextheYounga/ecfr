@@ -1,0 +1,9 @@
+##### § 53.173 Price readjustments causing overpayments of manufacturers tax. #####
+
+In the case of any payment of tax under chapter 32 of the Code that is determined to be an overpayment by reason of a price readjustment within the meaning of section 6416(b)(1) of the Code and § 53.174 or § 53.175, the person who paid the tax may file a claim for refund of the overpayment or may claim credit for the overpayment on any return of tax under this subpart which the person subsequently files. Price readjustments may not be anticipated. However, if the readjustment has actually been made before the return is filed for the period in which the sale was made, the tax to be reported in respect of the sale may, at the election of the taxpayer, be based either:
+
+(a) On the price as so readjusted, or
+
+(b) On the original sale price and a credit or refund claimed in respect of the price readjustment.
+
+A price readjustment will be deemed to have been made at the time when the amount of the readjustment has been refunded to the vendor or the vendor has been informed that the vendor's account has been credited with the amount. No interest shall be paid on any credit or refund allowed under this section. For provisions relating to the evidence required in support of a claim for credit or refund, see 27 CFR 70.123 (Procedure and Administration), § 53.172(a)(2) and § 53.176. For provisions authorizing the taking of a credit in lieu of filing a claim for refund, see section 6416(d) of the Code and § 53.185.[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-312, 56 FR 31084, July 9, 1991]

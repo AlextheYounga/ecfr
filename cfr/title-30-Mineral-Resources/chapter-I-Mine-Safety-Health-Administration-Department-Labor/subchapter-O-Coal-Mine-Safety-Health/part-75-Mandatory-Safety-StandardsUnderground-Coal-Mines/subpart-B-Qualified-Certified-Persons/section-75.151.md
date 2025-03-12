@@ -1,0 +1,3 @@
+##### § 75.151 Tests for methane; qualified person; additional requirement. #####
+
+Notwithstanding the provisions of § 75.150, on and after January 1, 1971, no person shall be a qualified person for testing for methane unless he demonstrates to the satisfaction of an authorized representative of the Secretary that he is qualified to test for methane with a portable methane detector approved by the Bureau of Mines or the Mine Safety and Health Administration under part 22 of this chapter (Bureau of Mines Schedule 8C).

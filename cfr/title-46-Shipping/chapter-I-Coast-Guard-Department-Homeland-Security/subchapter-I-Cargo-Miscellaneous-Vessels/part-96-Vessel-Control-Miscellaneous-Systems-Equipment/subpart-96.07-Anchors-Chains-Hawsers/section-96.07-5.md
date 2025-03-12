@@ -1,14 +1,12 @@
 ##### § 96.07-5 Ocean, coastwise, or Great Lakes service. #####
 
-Link to an amendment published at 88 FR 10030, Feb. 16, 2023.
-
-(a) Vessels in ocean, coastwise, or Great Lakes service, except unmanned barges, shall be fitted with anchors. chains, and hawsers in general agreement with the Standards established by the American Bureau of Shipping, see Subpart 90.35 of this subchapter.
+(a) Vessels in ocean, coastwise, or Great Lakes service, except unmanned barges, must be fitted with anchors. chains, and hawsers in general agreement with the Standards established by the American Bureau of Shipping, see 46 CFR part 90, subpart 90.35.
 
 (b) In addition to the provisions of paragraph (a) of this section, the following requirements and alternatives also apply:
 
 (1) The American Bureau of Shipping rules relating to anchor equipment are mandatory, not a guide.
 
-(2) Vessels under 200 feet (61 meters) in length and with an American Bureau of Shipping equipment number of less than 150 may be equipped with either -
+(2) Vessels under 200 feet (61 meters) in length and with an American Bureau of Shipping equipment number of less than 150 may be equipped with either—
 
 (i) One anchor of the tabular weight and one-half the tabulated length of anchor chain listed in the applicable standard, or
 
@@ -18,4 +16,4 @@ Link to an amendment published at 88 FR 10030, Feb. 16, 2023.
 
 (d) Standards of other recognized classification societies may be used, in lieu of those established by the American Bureau of Shipping, upon approval by the Commandant.
 
-[CGFR 68-32, 33 FR 5720, Apr. 12, 1968, as amended by CGD 87-013, 53 FR 20624, June 6, 1988]
+[CGFR 68-32, 33 FR 5720, Apr. 12, 1968, as amended by CGD 87-013, 53 FR 20624, June 6, 1988; USCG-2022-0323, 88 FR 10030, Feb. 16, 2023]

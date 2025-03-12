@@ -1,0 +1,5 @@
+##### § 57.11050 Escapeways and refuges. #####
+
+(a) Every mine shall have two or more separate, properly maintained escapeways to the surface from the lowest levels which are so positioned that damage to one shall not lessen the effectiveness of the others. A method of refuge shall be provided while a second opening to the surface is being developed. A second escapeway is recommended, but not required, during the exploration or development of an ore body.
+
+(b) In addition to separate escapeways, a method of refuge shall be provided for every employee who cannot reach the surface from his working place through at least two separate escapeways within a time limit of one hour when using the normal exit method. These refuges must be positioned so that the employee can reach one of them within 30 minutes from the time he leaves his workplace.

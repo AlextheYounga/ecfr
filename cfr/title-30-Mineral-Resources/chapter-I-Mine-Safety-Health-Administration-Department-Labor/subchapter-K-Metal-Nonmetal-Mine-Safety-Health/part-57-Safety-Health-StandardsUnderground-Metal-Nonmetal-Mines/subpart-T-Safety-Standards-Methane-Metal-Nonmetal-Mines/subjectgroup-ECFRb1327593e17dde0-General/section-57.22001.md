@@ -1,0 +1,3 @@
+##### § 57.22001 Scope. #####
+
+This subpart T sets forth procedures and safety standards for each metal and nonmetal underground mine subject to the Federal Mine Safety and Health Act of 1977. All metal and nonmetal mines will be placed into one of the categories or subcategories defined in this subpart. Mines shall operate in accordance with the applicable standards in this subpart to protect persons against the hazards of methane gas and dust containing volatile matter. The standards in this subpart apply to underground mines as well as surface mills at Subcategory I-C mines. These mines are also required to be operated in accordance with the other applicable health and safety standards published in 30 CFR part 57.

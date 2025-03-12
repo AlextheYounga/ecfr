@@ -1,0 +1,3 @@
+##### § 1243.12 May I substitute a demonstration of financial solvency for a bond posted before the effective date of this rule? #####
+
+If you appealed an order before June 14, 1999 and you submitted an ONRR-specified surety instrument to suspend compliance with that order, you may replace the surety with a demonstration of financial solvency under this part at an administratively convenient time, such as when the surety instrument is due for renewal.

@@ -1,0 +1,3 @@
+##### § 57.22313 Explosion-protection systems (I-C mines). #####
+
+Pressure-relief systems including vents, or explosion suppression systems, shall be provided on explosive dust handling and processing equipment and on facilities housing such equipment. Vents shall be installed so that forces are directed away from persons should an explosion occur. The ratio of vent size to internal size of the equipment or facility shall not be less than one square foot of vent for each 80 cubic feet of volume or space.

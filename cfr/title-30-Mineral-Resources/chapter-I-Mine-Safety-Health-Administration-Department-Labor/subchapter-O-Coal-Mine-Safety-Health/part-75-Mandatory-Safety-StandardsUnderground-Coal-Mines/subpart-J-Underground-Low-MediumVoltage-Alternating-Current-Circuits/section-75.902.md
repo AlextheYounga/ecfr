@@ -1,0 +1,5 @@
+##### § 75.902 Low- and medium-voltage ground check monitor circuits. #####
+
+[Statutory Provisions]
+
+On or before September 30, 1970, low- and medium-voltage resistance grounded systems shall include a fail-safe ground check circuit to monitor continuously the grounding circuit to assure continuity which ground check circuit shall cause the circuit breaker to open when either the ground or pilot check wire is broken, or other no less effective device approved by the Secretary or his authorized representative to assure such continuity, except that an extension of time, not in excess of 12 months, may be permitted by the Secretary on a mine-by-mine basis if he determines that such equipment is not available. Cable couplers shall be constructed so that the ground check continuity conductor shall be broken first and the ground conductors shall be broken last when the coupler is being uncoupled.

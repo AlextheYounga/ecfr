@@ -12,7 +12,7 @@
 
 (c) *Requirements.* (1) All requirements set forth in § 101.14 shall be met, except that noncariogenic carbohydrate sweetener-containing foods listed in paragraph (c)(2)(ii) of this section are exempt from § 101.14(e)(6).
 
-(2) *Specific requirements* - (i) *Nature of the claim.* A health claim relating noncariogenic carbohydrate sweeteners, compared to other carbohydrates, and the nonpromotion of dental caries may be made on the label or labeling of a food described in paragraph (c)(2)(iii) of this section, provided that:
+(2) *Specific requirements*—(i) *Nature of the claim.* A health claim relating noncariogenic carbohydrate sweeteners, compared to other carbohydrates, and the nonpromotion of dental caries may be made on the label or labeling of a food described in paragraph (c)(2)(iii) of this section, provided that:
 
 (A) The claim shall state that frequent between-meal consumption of foods high in sugars and starches can promote tooth decay.
 
@@ -42,7 +42,7 @@
 
 (B) A food whose labeling includes a health claim under this section shall contain one or more of the noncariogenic carbohydrate sweeteners listed in paragraph (c)(2)(ii) of this section.
 
-(C) When carbohydrates other than those listed in paragraph (c)(2)(ii) of this section are present in the food, the food shall not lower plaque pH below 5.7 by bacterial fermentation either during consumption or up to 30 minutes after consumption, as measured by the indwelling plaque pH test found in “Identification of Low Caries Risk Dietary Components,” dated 1983, by T. N. Imfeld, in Volume 11, *Monographs in Oral Science,* 1983. The Director of the Office of the Federal Register has approved the incorporation by reference of this material in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from Karger AG Publishing Co., P.O. Box, Ch-4009 Basel, Switzerland, or you may examine a copy at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(C) When carbohydrates other than those listed in paragraph (c)(2)(ii) of this section are present in the food, the food shall not lower plaque pH below 5.7 by bacterial fermentation either during consumption or up to 30 minutes after consumption, as measured by the indwelling plaque pH test found in “Identification of Low Caries Risk Dietary Components,” dated 1983, by T. N. Imfeld, in Volume 11, *Monographs in Oral Science,* 1983. The Director of the Office of the Federal Register has approved the incorporation by reference of this material in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from Karger AG Publishing Co., P.O. Box, Ch-4009 Basel, Switzerland, or you may examine a copy at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (d) *Optional information.* (1) The claim may include information from paragraphs (a) and (b) of this section, which describe the relationship between diets containing noncariogenic carbohydrate sweeteners and dental caries.
 
@@ -76,4 +76,4 @@
 
 (iv) [Name of sugar from paragraph (c)(2)(ii)(B) of this section] sugar may reduce the risk of tooth decay.
 
-[61 FR 43446, Aug. 23, 1996, as amended at 62 FR 63655, Dec. 2, 1997; 66 FR 66742, Dec. 27, 2001; 67 FR 71470, Dec. 2, 2002; 71 FR 15563, Mar. 29, 2006; 72 FR 52789, Sept. 17, 2007; 81 FR 5590, Feb. 3, 2016]
+[61 FR 43446, Aug. 23, 1996, as amended at 62 FR 63655, Dec. 2, 1997; 66 FR 66742, Dec. 27, 2001; 67 FR 71470, Dec. 2, 2002; 71 FR 15563, Mar. 29, 2006; 72 FR 52789, Sept. 17, 2007; 81 FR 5590, Feb. 3, 2016; 88 FR 17718, Mar. 24, 2023]

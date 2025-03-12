@@ -1,0 +1,3 @@
+##### § 57.12016 Work on electrically-powered equipment. #####
+
+Electrically powered equipment shall be deenergized before mechanical work is done on such equipment. Power switches shall be locked out or other measures taken which shall prevent the equipment from being energized without the knowledge of the individuals working on it. Suitable warning notices shall be posted at the power switch and signed by the individuals who are to do the work. Such locks or preventive devices shall be removed only by the persons who installed them or by authorized personnel.

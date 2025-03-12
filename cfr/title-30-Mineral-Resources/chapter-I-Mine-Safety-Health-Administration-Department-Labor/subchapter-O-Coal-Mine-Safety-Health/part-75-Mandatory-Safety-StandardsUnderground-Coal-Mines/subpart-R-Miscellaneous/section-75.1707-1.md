@@ -1,0 +1,3 @@
+##### § 75.1707-1 New working section. #####
+
+The term “new working section” as used in § 75.1707 means any extension of the belt or trolley haulage system in main, cross, and room entries necessary for the development of the mine on and after March 30, 1970. Room entries being developed as of March 30, 1970, with certified stop line limitations as shown on the mine map and retreating panels shall not be considered as new working sections.

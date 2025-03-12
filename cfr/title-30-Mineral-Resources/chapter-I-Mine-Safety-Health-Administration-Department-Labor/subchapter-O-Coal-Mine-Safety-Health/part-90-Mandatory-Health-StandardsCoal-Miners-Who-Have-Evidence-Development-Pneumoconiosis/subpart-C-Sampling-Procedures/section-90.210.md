@@ -1,0 +1,3 @@
+##### § 90.210 Status change reports. #####
+
+If there is a change in the status of a part 90 miner (such as entering a terminated, injured, or ill status, or returning to work), the operator shall report the change in the status of the part 90 miner to the MSHA District Office or to any other MSHA office designated by the District Manager. Status changes shall be reported in writing or by electronic means within 3 working days after the status change has occurred.

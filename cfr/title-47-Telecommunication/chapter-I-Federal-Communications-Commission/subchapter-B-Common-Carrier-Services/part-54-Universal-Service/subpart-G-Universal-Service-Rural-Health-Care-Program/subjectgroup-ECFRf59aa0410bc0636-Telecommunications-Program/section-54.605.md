@@ -1,5 +1,7 @@
 ##### § 54.605 Determining the rural rate. #####
 
+Link to an amendment published at 88 FR 17395, Mar. 23, 2023.
+
 (a) *Rural rate.* An applicant shall use the lower of the applicable “rural rate” currently available in the Administrator's database or the rural rate included in the service agreement that the health care provider enters into with the service provider when requesting funding.
 
 (1) For purposes of paragraph (a) of this section, The rural rate will be determined using the following tiers in which a health care provider is located:

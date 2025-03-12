@@ -6,10 +6,6 @@ Note 1 to paragraph (a):
 
 The fact that an advertisement complies with this section does not relieve the investment company, underwriter, or dealer of any obligations with respect to the advertisement under the antifraud provisions of the Federal securities laws. For guidance about factors to be weighed in determining whether statements, representations, illustrations, and descriptions contained in investment company advertisements are misleading, see § 230.156. In addition, an advertisement that complies with this section is subject to the legibility requirements of § 230.420.
 
-Note to paragraph (a):
-
-The fact that an advertisement complies with this section does not relieve the investment company, underwriter, or dealer of any obligations with respect to the advertisement under the antifraud provisions of the federal securities laws. For guidance about factors to be weighed in determining whether statements, representations, illustrations, and descriptions contained in investment company advertisements are misleading, *see* § 230.156. In addition, an advertisement that complies with this section is subject to the legibility requirements of § 230.420.
-
 (b) *Required disclosure.* This paragraph describes information that is required to be included in an advertisement in order to comply with this section.
 
 (1) *Availability of additional information.* An advertisement must include a statement that advises an investor to consider the investment objectives, risks, and charges and expenses of the investment company carefully before investing; explains that the prospectus and, if available, the summary prospectus contain this and other information about the investment company; identifies a source from which an investor may obtain a prospectus and, if available, a summary prospectus; and states that the prospectus and, if available, the summary prospectus should be read carefully before investing.
@@ -148,4 +144,4 @@ These advertisements, unless filed with NASD Regulation, Inc., are required to b
 
 (j) *Timeliness of fee and expense information.* Fee and expense information contained in an advertisement must be as of the date of the investment company's most recent prospectus or, if the company no longer has an effective registration statement under the Act, as of the date of its most recent annual shareholder report, except that a company may provide more current information if available.
 
-[68 FR 57777, Oct. 6, 2003, as amended at 74 FR 4584, Jan. 26, 2009; 79 FR 47957, Aug. 14, 2014; 85 FR 26093, May 1, 2020; 87 FR 72846, Nov. 25, 2022]
+[68 FR 57777, Oct. 6, 2003, as amended at 74 FR 4584, Jan. 26, 2009; 79 FR 47957, Aug. 14, 2014; 85 FR 26093, May 1, 2020; 87 FR 72846, Nov. 25, 2022; 88 FR 17710, Mar. 24, 2023]

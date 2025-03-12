@@ -1,0 +1,3 @@
+##### § 57.4263 Underground belt conveyors. #####
+
+Fire protection shall be provided at the head, tail, drive, and take-up pulleys of underground belt conveyors. Provisions shall be made for extinguishing fires along the beltline. Fire protection shall be of a type, size, and quantity that can extinguish fires of any class in their early stages which could occur as a result of the fire hazards present.

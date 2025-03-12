@@ -1,5 +1,7 @@
 ##### § 401.6 Exercise of march-in rights. #####
 
+Link to an amendment published at 88 FR 17736, Mar. 24, 2023.
+
 (a) The following procedures shall govern the exercise of the march-in rights of the agencies set forth in 35 U.S.C. 203 and paragraph (j) of the clause at § 401.14.
 
 (b) Whenever an agency receives information that it believes might warrant the exercise of march-in rights, before initiating any march-in proceeding, it shall notify the contractor in writing of the information and request informal written or oral comments from the contractor as well as information relevant to the matter. In the absence of any comments from the contractor within 30 days, the agency may, at its discretion, proceed with the procedures below. If a comment is received within 30 days, or later if the agency has not initiated the procedures below, then the agency shall, within 60 days after it receives the comment, either initiate the procedures below or notify the contractor, in writing, that it will not pursue march-in rights on the basis of the available information.

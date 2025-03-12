@@ -65,9 +65,9 @@ Boiler water additives may be safely used in the preparation of steam that will 
 
 (2) Adequate directions for use to assure compliance with all the provisions of this section.
 
-(f) The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(f) The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(1) FDA Main Library, 10903 New Hampshire Ave., Silver Spring, MD 20993:
+(1) Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday:
 
 (i) “Determination of Weight Average and Number Average Molecular Weight of 60/40 AA/AMPS” (October 23, 1987).
 
@@ -79,4 +79,4 @@ Boiler water additives may be safely used in the preparation of steam that will 
 
 (ii) Food Chemicals Codex, 7th ed. (2010), pp. 825-827.
 
-[42 FR 14526, Mar. 15, 1977, as amended at 45 FR 73922, Nov. 7, 1980; 45 FR 85726, Dec. 30, 1980; 48 FR 7439, Feb. 22, 1983; 49 FR 5748, Feb. 15, 1984; 49 FR 10106, Mar. 19, 1984; 50 FR 49536, Dec. 3, 1985; 53 FR 15199, Apr. 28, 1988; 54 FR 31012, July 26, 1989; 55 FR 12172, Apr. 2, 1990; 61 FR 14245, Apr. 1, 1996; 64 FR 1759, Jan. 12, 1999; 64 FR 29227, June 1, 1999; 78 FR 71466, Nov. 29, 2013]
+[42 FR 14526, Mar. 15, 1977, as amended at 45 FR 73922, Nov. 7, 1980; 45 FR 85726, Dec. 30, 1980; 48 FR 7439, Feb. 22, 1983; 49 FR 5748, Feb. 15, 1984; 49 FR 10106, Mar. 19, 1984; 50 FR 49536, Dec. 3, 1985; 53 FR 15199, Apr. 28, 1988; 54 FR 31012, July 26, 1989; 55 FR 12172, Apr. 2, 1990; 61 FR 14245, Apr. 1, 1996; 64 FR 1759, Jan. 12, 1999; 64 FR 29227, June 1, 1999; 78 FR 71466, Nov. 29, 2013; 88 FR 17723, Mar. 24, 2023]

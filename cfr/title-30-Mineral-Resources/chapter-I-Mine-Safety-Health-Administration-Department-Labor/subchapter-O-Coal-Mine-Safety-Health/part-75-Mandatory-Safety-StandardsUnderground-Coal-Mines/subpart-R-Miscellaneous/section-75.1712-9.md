@@ -1,0 +1,3 @@
+##### § 75.1712-9 Issuance of waivers. #####
+
+Following the receipt of an application submitted in accordance with the provisions of § 75.1712-8, the Coal Mine Safety District Manager shall, if he determines that the operator cannot meet the location requirements of § 75.1712-6 with respect to any or all of the working places in the mine because of the coal seam thickness or because of other physical restriction, issue a waiver of the requirements of this section and designate an alternative site for installation of such facilities. The waiver issued shall specify each working place to which it shall apply, set forth the reasons for such waiver, and the reasons for designation of the alternative site.

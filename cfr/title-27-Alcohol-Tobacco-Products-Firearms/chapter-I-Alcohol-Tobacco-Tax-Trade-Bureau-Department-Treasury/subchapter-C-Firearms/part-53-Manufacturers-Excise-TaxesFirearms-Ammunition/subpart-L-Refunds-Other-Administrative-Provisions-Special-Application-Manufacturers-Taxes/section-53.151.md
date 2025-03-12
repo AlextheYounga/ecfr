@@ -1,0 +1,23 @@
+##### § 53.151 Returns. #####
+
+(a) *In general.* (1) Liability for tax imposed under chapter 32 of the Code shall be reported on TTB Form 5300.26, Federal Firearms and Ammunition Excise Tax Return. Except as provided in paragraphs (a)(2) and (b) of this section, a return on Form 5300.26 shall be filed for a period of one calendar quarter.
+
+(2) *Return periods after September 30, 1992.* For return periods after September 30, 1992, every person required to make a return on TTB Form 5300.26 who does not incur any firearms and ammunition excise tax liability in a given calendar quarter shall not be required to file a return on TTB Form 5300.26 for that calendar quarter. Except as provided in paragraph (a)(5) of this section, every person required to make a return on TTB Form 5300.26 who does not incur any firearms and ammunition excise tax liability for the entire calendar year and who has not filed a final return in accordance with § 53.152 shall file an annual return on TTB Form 5300.26.
+
+(3) *Return periods prior to October 1, 1992.* For return periods prior to October 1, 1992, every person required to make a return on TTB Form 5300.26 shall make a return for each calendar quarter (whether or not liability was incurred for any tax reportable on the return for the return period) until the person has filed a final return in accordance with § 53.152.
+
+(4) *Forms, etc.* Each return required under the regulations in this part, together with any prescribed copies, records, or supporting data, shall be completed in accordance with the applicable forms, instructions, and regulations.
+
+(5) *Special rule for one-time or occasional filings for return periods on or after July 1, 1995.* One-time or occasional filers are not required to file quarterly or annual returns pursuant to paragraph (a)(2) of this section if the person reporting tax does not engage in any activity with respect to which tax is reportable on the return in the course of a trade or business. Such persons shall file and pay tax for periods only when liability is incurred. See § 53.159(b)(2), providing that a deposit of taxes is not required for a one-time or occasional filing.
+
+(b) *Monthly and semimonthly returns*—(1) *Requirement.* If the appropriate TTB officer determines that any taxpayer who is required to deposit taxes under the provision of §§ 53.157 or 53.159 has failed to make deposits of those taxes, the taxpayer shall be required, if so notified in writing by the appropriate TTB officer, to file a monthly or semimonthly return on TTB Form 5300.26. Every person so notified by the appropriate TTB officer shall file a return for the calendar month or semimonthly period in which the notice is received and for each calendar month or semimonthly period thereafter until the person has filed a final return in accordance with § 53.152 or is required to file returns on the basis of a different return period pursuant to notification as provided in paragraph (b)(2) of this section.
+
+(2) *Change of requirement.* The appropriate TTB officer may require the taxpayer, by notice in writing, to file a quarterly or monthly return, if the taxpayer has been filing returns for a semimonthly period, or may require the taxpayer to file a quarterly or semimonthly return, if the taxpayer has been filing monthly returns.
+
+(3) *Return for period change takes effect.* (i) If a taxpayer who has been filing quarterly returns receives notice to file a monthly or semimonthly return, or a taxpayer who has been filing monthly returns receives notice to file a semimonthly return, the first return required pursuant to the notice shall be filed for the month or semimonthly period in which the notice is received and all months or semimonthly periods which are not includable in an earlier period for which the taxpayer is required to file a return.
+
+(ii) If a taxpayer who has been filing monthly or semimonthly returns receives notice to file a quarterly return, the last month or semimonthly period for which a return shall be filed is the last month or semimonthly period of the calendar quarter in which the notice is received.
+
+(iii) If a taxpayer who has been filing semimonthly returns receives notice to file a monthly return, the last semimonthly period for which a return shall be made is the last semimonthly period of the month in which the notice is received.
+
+[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-330, 57 FR 40325, Sept. 3, 1992; T.D. ATF-365, 60 FR 33671, June 28, 1995; T.D. TTB-91, 76 FR 5481, Feb. 1, 2011]

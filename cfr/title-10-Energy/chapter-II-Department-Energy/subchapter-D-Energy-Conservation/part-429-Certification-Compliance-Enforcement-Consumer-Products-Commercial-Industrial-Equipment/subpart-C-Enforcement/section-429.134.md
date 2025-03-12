@@ -1,10 +1,10 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
+Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 17975, Mar. 24, 2023.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
-(b) *Refrigerators, refrigerator-freezers, and freezers* - (1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
+(b) *Refrigerators, refrigerator-freezers, and freezers*—(1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
 
 (i) The measurement is within two percent, or 0.5 cubic feet (0.2 cubic feet for compact products), whichever is greater, of the certified total refrigerated volume, or
 
@@ -16,7 +16,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 5.2(b) of the applicable test procedure for refrigerators or refrigerator-freezers in appendix A to subpart B of 10 CFR part 430 shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
 
-(c) *Clothes washers* - (1) *Determination of Remaining Moisture Content.* These provisions address anomalous remaining moisture content (RMC) results that are not representative of a basic model's performance, as well as differences in RMC values that may result from DOE using a different test cloth lot than was used by the manufacturer for testing and certifying the basic model.
+(c) *Clothes washers*—(1) *Determination of Remaining Moisture Content.* These provisions address anomalous remaining moisture content (RMC) results that are not representative of a basic model's performance, as well as differences in RMC values that may result from DOE using a different test cloth lot than was used by the manufacturer for testing and certifying the basic model.
 
 (i) When testing according to appendix J to subpart B of part 430:
 
@@ -68,7 +68,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) [Reserved]
 
-(d) *Residential Water Heaters and Residential-Duty Commercial Water Heaters* - (1) *Verification of first-hour rating and maximum GPM rating.* The first-hour rating or maximum gallons per minute (GPM) rating of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The mean of the measured values will be compared to the rated values of first-hour rating or maximum GPM rating as certified by the manufacturer. The certified rating will be considered valid only if the measurement is within five percent of the certified rating.
+(d) *Residential Water Heaters and Residential-Duty Commercial Water Heaters*—(1) *Verification of first-hour rating and maximum GPM rating.* The first-hour rating or maximum gallons per minute (GPM) rating of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The mean of the measured values will be compared to the rated values of first-hour rating or maximum GPM rating as certified by the manufacturer. The certified rating will be considered valid only if the measurement is within five percent of the certified rating.
 
 (i) If the rated value of first-hour rating or maximum GPM rating is found to be within 5 percent of the mean of the measured values, then the rated value will be used as the basis for determining the applicable draw pattern pursuant to the test requirements of 10 CFR part 430 for each unit tested.
 
@@ -80,7 +80,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (ii) If the rated storage volume is found to vary more than 3 percent from the mean of the measured values, then the mean of the measured values will be used as the basis for calculation of the required uniform energy factor for the basic model.
 
-(e) *Packaged terminal air conditioners and packaged terminal heat pumps* - (1) *Verification of cooling capacity.* The total cooling capacity of the basic model will be measured pursuant to the test requirements of 10 CFR part 431 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of cooling capacity certified by the manufacturer. The certified cooling capacity will be considered valid only if the average measured cooling capacity is within five percent of the certified cooling capacity.
+(e) *Packaged terminal air conditioners and packaged terminal heat pumps*—(1) *Verification of cooling capacity.* The total cooling capacity of the basic model will be measured pursuant to the test requirements of 10 CFR part 431 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of cooling capacity certified by the manufacturer. The certified cooling capacity will be considered valid only if the average measured cooling capacity is within five percent of the certified cooling capacity.
 
 (i) If the certified cooling capacity is found to be valid, that cooling capacity will be used as the basis for calculation of minimum allowed EER (and minimum allowed COP for PTHP models) for the basic model.
 
@@ -88,7 +88,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) [Reserved]
 
-(f) *Dehumidifiers* - (1) *Verification of capacity.* The capacity will be measured pursuant to the test requirements of part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of capacity certified by the manufacturer for the basic model. The certified capacity will be considered valid only if the measurement is within five percent, or 1.00 pint per day, whichever is greater, of the certified capacity.
+(f) *Dehumidifiers*—(1) *Verification of capacity.* The capacity will be measured pursuant to the test requirements of part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of capacity certified by the manufacturer for the basic model. The certified capacity will be considered valid only if the measurement is within five percent, or 1.00 pint per day, whichever is greater, of the certified capacity.
 
 (i) If the certified capacity is found to be valid, the certified capacity will be used as the basis for determining the minimum energy factor or integrated energy factor allowed for the basic model.
 
@@ -100,13 +100,13 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (ii) If the certified case volume is found to be invalid, the average measured case volume of the units in the sample will be used as the basis for determining the minimum integrated energy factor allowed for the basic model.
 
-(g) *Air-cooled small (≥65,000 Btu/h and \<135,000 Btu/h), large (≥135,000 Btu/h and \<240,000 Btu/h), and very large (≥240,000 Btu/h and \<760,000 Btu/h) commercial package air conditioning and heating equipment - verification of cooling capacity.* The cooling capacity of each tested unit of the basic model will be measured pursuant to the test requirements of part 431 of this chapter. The mean of the measurement(s) will be used to determine the applicable standards for purposes of compliance.
+(g) *Air-cooled small (≥65,000 Btu/h and \<135,000 Btu/h), large (≥135,000 Btu/h and \<240,000 Btu/h), and very large (≥240,000 Btu/h and \<760,000 Btu/h) commercial package air conditioning and heating equipment—verification of cooling capacity.* The cooling capacity of each tested unit of the basic model will be measured pursuant to the test requirements of part 431 of this chapter. The mean of the measurement(s) will be used to determine the applicable standards for purposes of compliance.
 
-(h) *Residential boilers - test protocols for functional verification of automatic means for adjusting water temperature.* These tests are intended to verify the functionality of the design requirement that a boiler has an automatic means for adjusting water temperature for single-stage, two-stage, and modulating boilers. These test methods are intended to permit the functional testing of a range of control strategies used to fulfill this design requirement. Section 2, *Definitions,* and paragraph 6.1.a of appendix N to subpart B of part 430 of this chapter apply for the purposes of this paragraph (h).
+(h) *Residential boilers—test protocols for functional verification of automatic means for adjusting water temperature.* These tests are intended to verify the functionality of the design requirement that a boiler has an automatic means for adjusting water temperature for single-stage, two-stage, and modulating boilers. These test methods are intended to permit the functional testing of a range of control strategies used to fulfill this design requirement. Section 2, *Definitions,* and paragraph 6.1.a of appendix N to subpart B of part 430 of this chapter apply for the purposes of this paragraph (h).
 
 (1) *Test protocol for all products other than single-stage products employing burner delay.* This test is intended to verify whether an automatic means for adjusting water temperature other than burner delay produces an incremental change in water supply temperature in response to an incremental change in inferred heat load.
 
-(i) *Boiler setup* - (A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements of section 6 of appendix N to subpart B of 10 CFR part 430.
+(i) *Boiler setup*—(A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements of section 6 of appendix N to subpart B of 10 CFR part 430.
 
 (B) *Establishing flow rate and temperature rise.* Start the boiler without enabling the means for adjusting water temperature. Establish a water flow rate that allows for a water temperature rise of greater than or equal to 20 °F at maximum input rate.
 
@@ -116,7 +116,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (*2*) If the means for adjusting water temperature uses outdoor temperature reset, the maximum outdoor temperature setting (if equipped) should be set to a temperature high enough that the boiler operates continuously during the duration of this test (*i.e.,* if the conditions in paragraph (h)(1)(ii)(A) of this section equal room ambient temperature, then the maximum outdoor temperature should be set at a temperature greater than the ambient air temperature during the test).
 
-(ii) *Establish low inferred load conditions at minimum boiler supply water temperature* - (A) *Establish low inferred load conditions.* (*1*) Establish the inferred load conditions (simulated using a controlling parameter, such as outdoor temperature, thermostat patterns, or boiler cycling) so that the supply water temperature is maintained at the minimum supply water temperature prescribed by the boiler manufacturer's temperature reset control strategy found in the I&O manual.
+(ii) *Establish low inferred load conditions at minimum boiler supply water temperature*—(A) *Establish low inferred load conditions.* (*1*) Establish the inferred load conditions (simulated using a controlling parameter, such as outdoor temperature, thermostat patterns, or boiler cycling) so that the supply water temperature is maintained at the minimum supply water temperature prescribed by the boiler manufacturer's temperature reset control strategy found in the I&O manual.
 
 (*2*) The minimum supply water temperature of the default temperature reset curve is usually provided in the I&O manual. If there is no recommended minimum supply water temperature, set the minimum supply water temperature equal to 20 °F less than the high supply water temperature specified in paragraph (h)(1)(iii)(A) of this section.
 
@@ -124,7 +124,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (*2*) Record the boiler supply water temperature while the temperature is stabilized.
 
-(iii) *Establish high inferred load conditions at maximum boiler supply water temperature* - (A) *Establish high inferred load conditions.* Establish the inferred load conditions so that the supply water temperature is set to the maximum allowable supply water temperature as prescribed in the I&O manual, or if there is no recommendation, set to a temperature greater than 170 °F.
+(iii) *Establish high inferred load conditions at maximum boiler supply water temperature*—(A) *Establish high inferred load conditions.* Establish the inferred load conditions so that the supply water temperature is set to the maximum allowable supply water temperature as prescribed in the I&O manual, or if there is no recommendation, set to a temperature greater than 170 °F.
 
 (B) *Supply water temperature stabilization at high inferred load.* (*1*) Maintain the call for heat until the boiler supply water temperature has stabilized. Temperature stabilization is deemed to be obtained when the boiler supply water temperature does not vary by more than ±3 °F over a period of five minutes. The duration of time required to stabilize the supply water, following the procedure in paragraph (h)(1)(iii)(A) of this section, is dependent on the reset strategy and may vary from model to model.
 
@@ -136,13 +136,13 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) *Test protocol for single-stage products employing burner delay.* This test will be used in place of paragraph (h)(1) of this section for products manufacturers have certified to DOE under § 429.18(b)(3) as employing a burner delay automatic means strategy. This test verifies whether the automatic means in single-stage boiler products establishes a burner delay upon a call for heat until the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system.
 
-(i) *Boiler setup* - (A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements by section 6.0 of appendix N to subpart B of 10 CFR part 430.
+(i) *Boiler setup*—(A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements by section 6.0 of appendix N to subpart B of 10 CFR part 430.
 
 (B) *Activation of controls.* Adjust the boiler controls in accordance with the I&O manual at the default setting that allows for activation of the means for adjusting water temperature.
 
 (C) *Adjustment of water flow and temperature.* The flow and temperature of inlet water to the boiler shall be capable of being adjusted manually.
 
-(ii) *Boiler heat-up* - (A) *Boiler start-up.* Power up the boiler and initiate a call for heat.
+(ii) *Boiler heat-up*—(A) *Boiler start-up.* Power up the boiler and initiate a call for heat.
 
 (B) *Adjustment of firing rate.* Adjust the boiler's firing rate to within ±5% of its maximum rated input.
 
@@ -150,7 +150,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (D) *Terminate the call for heating.* Terminate the call for heat, stop the flow of water through the boiler, and record the time at termination.
 
-(iii) *Verify burner delay* - (A) *Reinitiate call for heat.* Within three (3) minutes of termination (paragraph (h)(2)(ii)(D) of this section) and without adjusting the inlet water flow rate or temperature as specified in paragraph (h)(2)(ii)(C) of this section, reinitiate the call for heat and water flow and record the time.
+(iii) *Verify burner delay*—(A) *Reinitiate call for heat.* Within three (3) minutes of termination (paragraph (h)(2)(ii)(D) of this section) and without adjusting the inlet water flow rate or temperature as specified in paragraph (h)(2)(ii)(C) of this section, reinitiate the call for heat and water flow and record the time.
 
 (B) *Verify burner ignition.* At 15-second intervals, record time and supply water temperature until the main burner ignites.
 
@@ -158,7 +158,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (iv) [Reserved]
 
-(i) *Pumps* - (1) *General purpose pumps.* (i) The volume rate of flow (flow rate) at BEP and nominal speed of rotation of each tested unit of the basic model will be measured pursuant to the test requirements of § 431.464 of this chapter, where the value of volume rate of flow (flow rate) at BEP and nominal speed of rotation certified by the manufacturer will be treated as the expected BEP flow rate. The results of the measurement(s) will be compared to the value of volume rate of flow (flow rate) at BEP and nominal speed of rotation certified by the manufacturer. The certified volume rate of flow (flow rate) at BEP and nominal speed of rotation will be considered valid only if the measurement(s) (either the measured volume rate of flow (flow rate) at BEP and nominal speed of rotation for a single unit sample or the average of the measured flow rates for a multiple unit sample) is within five percent of the certified volume rate of flow (flow rate) at BEP and nominal speed of rotation.
+(i) *Pumps*—(1) *General purpose pumps.* (i) The volume rate of flow (flow rate) at BEP and nominal speed of rotation of each tested unit of the basic model will be measured pursuant to the test requirements of § 431.464 of this chapter, where the value of volume rate of flow (flow rate) at BEP and nominal speed of rotation certified by the manufacturer will be treated as the expected BEP flow rate. The results of the measurement(s) will be compared to the value of volume rate of flow (flow rate) at BEP and nominal speed of rotation certified by the manufacturer. The certified volume rate of flow (flow rate) at BEP and nominal speed of rotation will be considered valid only if the measurement(s) (either the measured volume rate of flow (flow rate) at BEP and nominal speed of rotation for a single unit sample or the average of the measured flow rates for a multiple unit sample) is within five percent of the certified volume rate of flow (flow rate) at BEP and nominal speed of rotation.
 
 (A) If the representative value of volume rate of flow (flow rate) at BEP and nominal speed of rotation is found to be valid, the measured volume rate of flow (flow rate) at BEP and nominal speed of rotation will be used in subsequent calculations of constant load pump energy rating (PERCL) and constant load pump energy index (PEICL) or variable load pump energy rating (PERVL) and variable load pump energy index (PEIVL) for that basic model.
 
@@ -220,7 +220,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (iv) DOE will test each circulator pump using the description and equation for the control curve with which it was rated, if available.
 
-(j) *Refrigerated bottled or canned beverage vending machines* - (1) *Verification of refrigerated volume.* The refrigerated volume (V) of each tested unit of the basic model will be measured pursuant to the test requirements of 10 CFR 431.296. The results of the measurement(s) will be compared to the representative value of refrigerated volume certified by the manufacturer. The certified refrigerated volume will be considered valid only if the measurement(s) (either the measured refrigerated volume for a single unit sample or the average of the measured refrigerated volumes for a multiple unit sample) is within five percent of the certified refrigerated volume.
+(j) *Refrigerated bottled or canned beverage vending machines*—(1) *Verification of refrigerated volume.* The refrigerated volume (V) of each tested unit of the basic model will be measured pursuant to the test requirements of 10 CFR 431.296. The results of the measurement(s) will be compared to the representative value of refrigerated volume certified by the manufacturer. The certified refrigerated volume will be considered valid only if the measurement(s) (either the measured refrigerated volume for a single unit sample or the average of the measured refrigerated volumes for a multiple unit sample) is within five percent of the certified refrigerated volume.
 
 (i) If the representative value of refrigerated volume is found to be valid, the certified refrigerated volume will be used as the basis for calculation of maximum daily energy consumption for the basic model.
 
@@ -232,13 +232,13 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (*ii*) *Determination of non-transparent area.* Determine the total surface area that is not transparent as the sum of all surface areas on the front side of a beverage vending machine that are not considered part of the transparent area, as determined in accordance with paragraph (j)(2)(i) of this section.
 
-(k) *Central air conditioners and heat pumps* - (1) *Verification of cooling capacity.* The cooling capacity of each tested unit of the individual model (for single-package systems) or individual combination (for split systems) will be measured pursuant to the test requirements of § 430.23(m) of this chapter. The mean of the measurement(s) (either the measured cooling capacity for a single unit sample or the average of the measured cooling capacities for a multiple unit sample) will be used to determine the applicable standards for purposes of compliance.
+(k) *Central air conditioners and heat pumps*—(1) *Verification of cooling capacity.* The cooling capacity of each tested unit of the individual model (for single-package systems) or individual combination (for split systems) will be measured pursuant to the test requirements of § 430.23(m) of this chapter. The mean of the measurement(s) (either the measured cooling capacity for a single unit sample or the average of the measured cooling capacities for a multiple unit sample) will be used to determine the applicable standards for purposes of compliance.
 
 (2) *Verification of C*D value. (i) For central air conditioners and heat pumps other than models of outdoor units with no match, if manufacturers certify that they did not conduct the optional tests to determine the Cc and/or Ch value for an individual model (for single-package systems) or individual combination (for split systems), as applicable, the default Cc and/or Ch value will be used as the basis for calculation of SEER or HSPF for each unit tested. If manufacturers certify that they conducted the optional tests to determine the Cc and/or Ch value for an individual model (for single-package systems) or individual combination (for split systems), as applicable, the Cc and/or Ch value will be measured pursuant to the test requirements of § 430.23(m) of this chapter for each unit tested and the result for each unit tested (either the tested value or the default value, as selected according to the criteria for the cyclic test in 10 CFR part 430, subpart B, appendix M, section 3.5e) used as the basis for calculation of SEER or HSPF for that unit.
 
 (ii) For models of outdoor units with no match, DOE will use the default Cc and/or Ch value pursuant to 10 CFR part 430.
 
-(l) *Miscellaneous refrigeration products* - (1) *Verification of total refrigerated volume.* For all miscellaneous refrigeration products, the total refrigerated volume of the basic model will be measured pursuant to the test requirements of part 430 of this chapter for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
+(l) *Miscellaneous refrigeration products*—(1) *Verification of total refrigerated volume.* For all miscellaneous refrigeration products, the total refrigerated volume of the basic model will be measured pursuant to the test requirements of part 430 of this chapter for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
 
 (i) The measurement is within two percent, or 0.5 cubic feet (0.2 cubic feet for products with total refrigerated volume less than 7.75 cubic feet (220 liters)), whichever is greater, of the certified total refrigerated volume; or
 
@@ -250,7 +250,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 5.2(b) of the applicable test procedure in appendix A to subpart B part 430 of this chapter shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
 
-(m) *Commercial packaged boilers* - (1) *Verification of fuel input rate.* The fuel input rate of each tested unit will be measured pursuant to the test requirements of § 431.86 of this chapter. The results of the measurement(s) will be compared to the value of rated input certified by the manufacturer. The certified rated input will be considered valid only if the measurement(s) (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) is within two percent of the certified rated input.
+(m) *Commercial packaged boilers*—(1) *Verification of fuel input rate.* The fuel input rate of each tested unit will be measured pursuant to the test requirements of § 431.86 of this chapter. The results of the measurement(s) will be compared to the value of rated input certified by the manufacturer. The certified rated input will be considered valid only if the measurement(s) (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) is within two percent of the certified rated input.
 
 (i) If the measured fuel input rate is within two-percent of the certified rated input, the certified rated input will serve as the basis for determination of the appropriate equipment class(es) and the mean measured fuel input rate will be used as the basis for calculation of combustion and/or thermal efficiency for the basic model.
 
@@ -260,7 +260,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) *Models capable of producing both hot water and steam.* For a model of commercial packaged boiler that is capable of producing both hot water and steam, DOE may measure the thermal or combustion efficiency as applicable (see § 431.87 of this chapter) for steam and/or hot water modes. DOE will evaluate compliance based on the measured thermal or combustion efficiency in steam and hot water modes, independently.
 
-(n) *Commercial water heating equipment other than residential-duty commercial water heaters* - (1) *Verification of fuel input rate.* The fuel input rate of each tested unit of the basic model will be measured pursuant to the test requirements of § 431.106 of this chapter. The measured fuel input rate (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) will be compared to the rated input certified by the manufacturer. The certified rated input will be considered valid only if the measured fuel input rate is within two percent of the certified rated input.
+(n) *Commercial water heating equipment other than residential-duty commercial water heaters*—(1) *Verification of fuel input rate.* The fuel input rate of each tested unit of the basic model will be measured pursuant to the test requirements of § 431.106 of this chapter. The measured fuel input rate (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) will be compared to the rated input certified by the manufacturer. The certified rated input will be considered valid only if the measured fuel input rate is within two percent of the certified rated input.
 
 (i) If the certified rated input is found to be valid, then the certified rated input will serve as the basis for determination of the appropriate equipment class and calculation of the standby loss standard (as applicable).
 
@@ -274,7 +274,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) [Reserved]
 
-(p) *Compressors* - (1) *Verification of full-load operating pressure.* (i) The maximum full-flow operating pressure of each tested unit of the basic model will be measured pursuant to the test requirements of appendix A to subpart T of part 431 of this chapter, where 90 percent of the value of full-load operating pressure certified by the manufacturer will be the starting point of the test method prior to increasing discharge pressure. The measured maximum full-flow operating pressure (either the single measured value for a single unit sample or the mean of the measured maximum full-flow operating pressures for a multiple unit sample) will be compared to the certified rating for full-load operating pressure to determine if the certified rating is valid or not. The certified rating for full-load operating pressure will be considered valid only if the certified rating for full-load operating pressure is less than or equal to the measured maximum full-flow operating pressure and greater than or equal to the lesser of -
+(p) *Compressors*—(1) *Verification of full-load operating pressure.* (i) The maximum full-flow operating pressure of each tested unit of the basic model will be measured pursuant to the test requirements of appendix A to subpart T of part 431 of this chapter, where 90 percent of the value of full-load operating pressure certified by the manufacturer will be the starting point of the test method prior to increasing discharge pressure. The measured maximum full-flow operating pressure (either the single measured value for a single unit sample or the mean of the measured maximum full-flow operating pressures for a multiple unit sample) will be compared to the certified rating for full-load operating pressure to determine if the certified rating is valid or not. The certified rating for full-load operating pressure will be considered valid only if the certified rating for full-load operating pressure is less than or equal to the measured maximum full-flow operating pressure and greater than or equal to the lesser of—
 
 (A) 90 percent of the measured maximum full-flow operating pressure; or
 
@@ -286,7 +286,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 (2) *Verification of full-load actual volume flow rate.* The measured full-load actual volume flow rate will be measured, pursuant to the test requirements of appendix A to subpart T of part 431 of this chapter, at the full-load operating pressure determined in paragraph (p)(1) of this section. The certified full-load actual volume flow rate will be considered valid only if the measurement(s) (either the measured full-load actual volume flow rate for a single unit sample or the mean of the measured values for a multiple unit sample) are within the percentage of the certified full-load actual volume flow rate specified in Table 1 of this section:
 
-Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-Load Actual Volume Flow Rate
+Table 1 of § 429.134—Allowable Percentage Deviation From the Certified Full-Load Actual Volume Flow Rate
 
 |Manufacturer certified full-load actual volume flow rate  <br/>(m<sup>3</sup>/s) × 10−3|Allowable  <br/>percent of the certified  <br/>full-load  <br/>actual volume  <br/>flow rate  <br/>(%)|
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -333,7 +333,7 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (ii) If any of the conditions in paragraph (s)(2)(i) of this section do not hold true, then the mean of the measured values will be used as the basis for determining the ISMRE2 and/or ISCOP2 of the basic model.
 
-(t) *Ceiling Fans* - (1) *Verification of blade span.* DOE will measure the blade span and round the measurement pursuant to the test requirements of 10 CFR part 430 of this chapter for each unit tested. DOE will consider the represented blade span valid only if the rounded measurement(s) (either the rounded measured value for a single unit, or the mean of the rounded measured values for a multiple unit sample, rounded to the nearest inch) is the same as the represented blade span.
+(t) *Ceiling Fans*—(1) *Verification of blade span.* DOE will measure the blade span and round the measurement pursuant to the test requirements of 10 CFR part 430 of this chapter for each unit tested. DOE will consider the represented blade span valid only if the rounded measurement(s) (either the rounded measured value for a single unit, or the mean of the rounded measured values for a multiple unit sample, rounded to the nearest inch) is the same as the represented blade span.
 
 (i) If DOE determines that the represented blade span is valid, that blade span will be used as the basis for determining the product class and calculating the minimum allowable ceiling fan efficiency.
 
@@ -357,7 +357,7 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (ii) If DOE determines that the represented blade edge thickness is invalid, DOE will use the rounded measured blade edge thickness(es) as the basis for determining the product class.
 
-(u) *Battery chargers* - *verification of reported represented value obtained from testing in accordance with appendix Y1 of 10 CFR part 430 subpart B when using an external power supply.* If the battery charger basic model requires the use of an external power supply (“EPS”), and the manufacturer reported EPS is no longer available on the market, then DOE will test the battery charger with any compatible EPS that is minimally compliant with DOE's energy conservation standards for EPSs as prescribed in § 430.32(w) of this subchapter and that meets the battery charger input power criteria.
+(u) *Battery chargers*—*verification of reported represented value obtained from testing in accordance with appendix Y1 of 10 CFR part 430 subpart B when using an external power supply.* If the battery charger basic model requires the use of an external power supply (“EPS”), and the manufacturer reported EPS is no longer available on the market, then DOE will test the battery charger with any compatible EPS that is minimally compliant with DOE's energy conservation standards for EPSs as prescribed in § 430.32(w) of this subchapter and that meets the battery charger input power criteria.
 
 (v) *Variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 btu/h).* The following provisions apply for assessment and enforcement testing of models subject to standards in terms of IEER:
 
@@ -371,9 +371,9 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (3) *Controls Verification Procedure (CVP).* This procedure validates the certified values of critical parameters for which positions may be manually set during the full- and part-load IEER cooling test conditions specified at appendix D1 to subpart F of 10 CFR part 431. The CVP will only be conducted for a single system.
 
-(i) *Conducting the CVP* - The CVP will be conducted at all of the four IEER cooling test conditions as specified in appendix D1 to subpart F of 10 CFR part 431; the CVP is not conducted at any heating test conditions. The CVP will first be performed at the full-load cooling condition before being conducted at part-load cooling conditions and must be conducted per Appendix C of AHRI 1230-2021 (incorporated by reference, see § 429.4).
+(i) *Conducting the CVP*—The CVP will be conducted at all of the four IEER cooling test conditions as specified in appendix D1 to subpart F of 10 CFR part 431; the CVP is not conducted at any heating test conditions. The CVP will first be performed at the full-load cooling condition before being conducted at part-load cooling conditions and must be conducted per Appendix C of AHRI 1230-2021 (incorporated by reference, see § 429.4).
 
-(ii) *Validating critical parameters* - At each load point, certified critical parameter values will be validated or invalidated according to Section C6 of AHRI 1230-2021 with the following amendments:
+(ii) *Validating critical parameters*—At each load point, certified critical parameter values will be validated or invalidated according to Section C6 of AHRI 1230-2021 with the following amendments:
 
 (A) The duration of the period used for validating certified critical parameter values must be whichever of the following is longer: three minutes, or the time period needed to obtain five sample readings while meeting the minimum data collection interval requirements of Table C2 of AHRI 1230-2021.
 
@@ -387,9 +387,9 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (B) *Invalidated critical parameter settings.* At each load point, if certified critical parameter values identified pursuant to paragraph (v)(3) of this section are found to be invalid according to the results of the CVP, determine alternate critical parameter values for use in the corresponding IEER test (as specified in appendix D1 to subpart F of 10 CFR part 431) as follows:
 
-(*1*) Select the CVP measurement period - this period must have duration determined per paragraph (v)(3)(ii)(A) of this section and must be the period where the RSS points total has a lower average value over the measurement period than over any other time period in the CVP of the same duration. If multiple periods exist with the same RSS points total, select the measurement period closest to but before the time that the first indoor unit switches to thermally inactive (denoted as “toff” in AHRI 1230-2021).
+(*1*) Select the CVP measurement period—this period must have duration determined per paragraph (v)(3)(ii)(A) of this section and must be the period where the RSS points total has a lower average value over the measurement period than over any other time period in the CVP of the same duration. If multiple periods exist with the same RSS points total, select the measurement period closest to but before the time that the first indoor unit switches to thermally inactive (denoted as “toff” in AHRI 1230-2021).
 
-(*2*) Determine alternate critical parameters - calculate the average position for each critical parameter during the measurement period selected in paragraph (v)(3)(iii)(B)(*1*) of this section. When initially setting critical parameters per section 5.1 of appendix D1 to subpart F of 10 CFR part 431, instead of using the certified critical parameter values, use the alternate critical parameter values as control inputs. The same initial alternate critical parameter values must be used for all systems in the assessment/enforcement sample (though critical parameter adjustments as needed to achieve target capacity or sensible heat ratio (SHR) limits are made independently for each tested system, per paragraph (v)(3)(iii)(B)(*3)* of this section.
+(*2*) Determine alternate critical parameters—calculate the average position for each critical parameter during the measurement period selected in paragraph (v)(3)(iii)(B)(*1*) of this section. When initially setting critical parameters per section 5.1 of appendix D1 to subpart F of 10 CFR part 431, instead of using the certified critical parameter values, use the alternate critical parameter values as control inputs. The same initial alternate critical parameter values must be used for all systems in the assessment/enforcement sample (though critical parameter adjustments as needed to achieve target capacity or sensible heat ratio (SHR) limits are made independently for each tested system, per paragraph (v)(3)(iii)(B)(*3)* of this section.
 
 (*3*) For each system, determine whether critical parameter adjustments are needed to achieve the target capacity or SHR limit for an IEER cooling test. Perform critical parameter adjustments independently on each system as described in section 5.2 of appendix D1 to subpart F of 10 CFR part 431, with the following exceptions:
 
@@ -399,7 +399,7 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (4) *Break-in period.* DOE will perform a compressor break-in period during assessment or enforcement testing using a duration specified by the manufacturer only if a break-in period duration is provided in the supplemental testing instructions.
 
-(w) *Automatic commercial ice makers - verification of harvest rate.* The harvest rate will be measured pursuant to the test requirements of 10 CFR part 431 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of harvest rate certified by the manufacturer of the basic model. The certified harvest rate will be considered valid only if the average measured harvest rate is within five percent of the certified harvest rate.
+(w) *Automatic commercial ice makers—verification of harvest rate.* The harvest rate will be measured pursuant to the test requirements of 10 CFR part 431 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of harvest rate certified by the manufacturer of the basic model. The certified harvest rate will be considered valid only if the average measured harvest rate is within five percent of the certified harvest rate.
 
 (1) If the certified harvest rate is found to be valid, the certified harvest rate will be used as the basis for determining the maximum energy use and maximum condenser water use, if applicable, allowed for the basic model.
 
@@ -427,7 +427,7 @@ The outdoor ventilation airflow rate shall be determined at 0 in. H2O external s
 
 (ii) For models of outdoor units with no match, DOE will use the default value of Cc and/or Ch specified in the test procedure in appendix F1 to subpart F of part 431.
 
-(z) *Dishwashers* - (1) *Determination of Most Energy-Intensive Cycle.* For any dishwasher basic model that does not meet the specified cleaning index threshold at a given soil load, the most energy-intensive cycle will be determined through testing as specified in sections 4.1.1 and 5.2 of appendix C2 to subpart B of part 430.
+(z) *Dishwashers*—(1) *Determination of Most Energy-Intensive Cycle.* For any dishwasher basic model that does not meet the specified cleaning index threshold at a given soil load, the most energy-intensive cycle will be determined through testing as specified in sections 4.1.1 and 5.2 of appendix C2 to subpart B of part 430.
 
 (2) [Reserved]
 

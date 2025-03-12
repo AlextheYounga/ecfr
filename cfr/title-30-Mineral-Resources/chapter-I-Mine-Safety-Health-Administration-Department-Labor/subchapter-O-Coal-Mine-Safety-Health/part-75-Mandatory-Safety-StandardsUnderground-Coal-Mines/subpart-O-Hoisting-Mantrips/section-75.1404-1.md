@@ -1,0 +1,3 @@
+##### § 75.1404-1 Braking system. #####
+
+A locomotive equipped with a dual braking system will be deemed to satisfy the requirements of § 75.1404 for a train comprised of such locomotive and haulage cars, provided the locomotive is operated within the limits of its design capabilities and at speeds consistent with the condition of the haulage road. A trailing locomotive or equivalent devices should be used on trains that are operated on ascending grades.

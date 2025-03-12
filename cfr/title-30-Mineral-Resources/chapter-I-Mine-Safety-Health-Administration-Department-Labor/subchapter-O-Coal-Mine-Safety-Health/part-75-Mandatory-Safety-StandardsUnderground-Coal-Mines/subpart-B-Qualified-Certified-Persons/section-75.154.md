@@ -1,0 +1,3 @@
+##### § 75.154 Repair of energized surface high voltage lines; qualified person. #####
+
+An individual is a qualified person within the meaning of § 75.705 for the purpose of repairing energized surface high voltage lines only if he has had at least 2 years experience in electrical maintenance, and at least 2 years experience in the repair of energized high voltage surface lines located on poles or structures.

@@ -20,9 +20,9 @@
 
 (b) Nutrition label values provided by the Food and Drug Administration (FDA) in Appendices C and D to part 101 for the 20 most frequently consumed raw fruits, vegetables, and fish listed in § 101.44 shall be used to ensure uniformity in declared values. FDA will publish proposed updates of the 20 most frequently consumed raw fruits, vegetables, and fish and nutrition label data for these foods (or a notice that the data sets have not changed from the previous publication) at least every 4 years in the Federal Register.
 
-(1) The agency encourages the submission of data bases with new or additional nutrient data for any of the most frequently consumed raw fruits, vegetables, and fish to the Office of Nutritional Products, Labeling and Dietary Supplements (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, for review and evaluation. FDA may incorporate these data in the next revision of the nutrition labeling information for the top 20 raw fruits, vegetables, and fish.
+(1) The agency encourages the submission of data bases with new or additional nutrient data for any of the most frequently consumed raw fruits, vegetables, and fish to the Office of Nutrition and Food Labeling (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, for review and evaluation. FDA may incorporate these data in the next revision of the nutrition labeling information for the top 20 raw fruits, vegetables, and fish.
 
-(i) Guidance in the development of data bases may be found in the “FDA Nutrition Labeling Manual: A Guide for Developing and Using Data Bases,” available from the FDA Office of Food Labeling.
+(i) Guidance in the development of data bases may be found in the “FDA Nutrition Labeling Manual: A Guide for Developing and Using Data Bases,” available from the Office of Nutrition and Food Labeling (HFS-800), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740.
 
 (ii) The submission to FDA should include, but need not be limited to, information on the following: Source of the data (names of investigators, name of organization, place of analyses, dates of analyses), number of samples, sampling design, analytical methods, and statistical treatment of the data. Proposed quantitative label declarations may be included. The proposed values for declaration should be determined in accordance with the “FDA Nutrition Labeling Manual: A Guide for Developing and Using Data Bases.”
 
@@ -44,4 +44,4 @@
 
 (ii) [Reserved]
 
-[61 FR 42760, Aug. 16, 1996, as amended at 66 FR 56035, Nov. 6, 2001; 71 FR 42044, July 25, 2006]
+[61 FR 42760, Aug. 16, 1996, as amended at 66 FR 56035, Nov. 6, 2001; 71 FR 42044, July 25, 2006; 88 FR 17718, Mar. 24, 2023]

@@ -1,0 +1,3 @@
+##### § 57.6402 Deenergized circuits near detonators. #####
+
+Electrical distribution circuits within 50 feet of electric detonators at the blast site shall be deenergized. Such circuits need not be deenergized between 25 to 50 feet of the electric detonators if stray current tests, conducted as frequently as necessary, indicate a maximum stray current of less than 0.05 ampere through a 1-ohm resistor as measured at the blast site.

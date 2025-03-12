@@ -1,5 +1,7 @@
 ##### § 54.621 Filing window for requests and prioritization of support. #####
 
+Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
+
 (a) *Filing window for requests.* (1) The Administrator shall open an initial application filing window with an end date no later than 90 days prior to the start of the funding year (*i.e.,* no later than April 1). Prior to announcing the initial opening and closing dates, the Administrator shall seek the approval of the proposed dates from the Chief of the Wireline Competition Bureau.
 
 (2) The Administrator, after consultation with the Wireline Competition Bureau, may implement such additional filing periods as it deems necessary. To the extent that the Administrator opens an additional filing period, it shall provide notice and include in that notice or soon thereafter the amount of remaining available funding.
@@ -8,7 +10,7 @@
 
 (b) *Prioritization of support.* The Administrator shall act in accordance with this section when a filing window period for the Telecommunications Program and the Healthcare Connect Fund Program, as described in paragraph (a) in this section, is in effect. When a filing period described in paragraph (a) in this section closes, the Administrator shall calculate the total demand for Telecommunications Program and Healthcare Connect Fund Program support submitted by all applicants during the filing window period. If the total demand during the filing window period exceeds the total remaining support available for the funding year, then the Administrator shall distribute the available funds consistent with the following priority schedule:
 
-Table 1 to Paragraph (b) - Prioritization Schedule
+Table 1 to Paragraph (b)—Prioritization Schedule
 
 |                                                                                                                             Health care provider site is located in:                                                                                                                             |In a medically  <br/>underserved  <br/>area/population (MUA/P)|Not in MUA/P|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------|

@@ -1,0 +1,3 @@
+##### § 75.900-3 Testing, examination, and maintenance of circuit breakers; procedures. #####
+
+Circuit breakers protecting low- and medium-voltage alternating current circuits serving three-phase alternating current equipment and their auxiliary devices shall be tested and examined at least once each month by a person qualified as provided in § 75.153. In performing such tests, actuating any of the circuit breaker auxiliaries or control circuits in any manner which causes the circuit breaker to open, shall be considered a proper test. All components of the circuit breaker and its auxiliary devices shall be visually examined and such repairs or adjustments as are indicated by such tests and examinations shall be carried out immediately.

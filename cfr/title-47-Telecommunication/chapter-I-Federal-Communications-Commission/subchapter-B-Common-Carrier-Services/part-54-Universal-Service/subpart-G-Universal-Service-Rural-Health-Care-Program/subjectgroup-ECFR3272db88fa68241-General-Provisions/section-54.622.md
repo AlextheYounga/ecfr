@@ -1,5 +1,7 @@
 ##### § 54.622 Competitive bidding requirements and exemptions. #####
 
+Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
+
 (a) *Competitive bidding requirement.* All applicants are required to engage in a competitive bidding process for supported services, facilities, or equipment, as applicable, consistent with the requirements set forth in this section and any additional applicable state, Tribal, local, or other procurement requirements, unless they qualify for an exemption listed in paragraph (j) in this section. In addition, applicants may engage in competitive bidding even if they qualify for an exemption. Applicants who utilize a competitive bidding exemption may proceed directly to filing a funding request as described in § 54.623.
 
 (b) *Fair and open process.* (1) Applicants participating in the Telecommunications Program or Healthcare Connect Fund Program must conduct a fair and open competitive bidding process. The following actions are necessary to satisfy the “fair and open” competitive standard in the Telecommunications Program and the Healthcare Connect Fund Program:
@@ -120,7 +122,7 @@
 
 (4) Any service provider may make charitable donations to an eligible health care provider or consortium that includes eligible health care providers in the support of its programs as long as such contributions are not directly or indirectly related to the Rural Health Care Program procurement activities or decisions and are not given by service providers to circumvent competitive bidding and other Rural Health Care Program rules, including those in § 54.611(a), requiring health care providers under the Healthcare Connect Fund Program to contribute 35 percent of the total cost of all eligible expenses.
 
-(i) *Exemptions to the competitive bidding requirements* - (1) *Government Master Service Agreement (MSA).* Eligible health care providers that seek support for services and equipment purchased from MSAs negotiated by federal, state, Tribal, or local government entities on behalf of such health care providers and others, if such MSAs were awarded pursuant to applicable federal, state, Tribal, or local competitive bidding requirements, are exempt from the competitive bidding requirements under this section.
+(i) *Exemptions to the competitive bidding requirements*—(1) *Government Master Service Agreement (MSA).* Eligible health care providers that seek support for services and equipment purchased from MSAs negotiated by federal, state, Tribal, or local government entities on behalf of such health care providers and others, if such MSAs were awarded pursuant to applicable federal, state, Tribal, or local competitive bidding requirements, are exempt from the competitive bidding requirements under this section.
 
 (2) *Master Service Agreements approved under the Rural Health Care Pilot Program or Healthcare Connect Fund Program.* An eligible health care provider site may opt into an existing MSA approved under the Rural Health Care Pilot Program or Healthcare Connect Fund Program and seek support for services and equipment purchased from the MSA without triggering the competitive bidding requirements under this section, if the MSA was developed and negotiated in response to an RFP that specifically solicited proposals that included a mechanism for adding additional sites to the MSA.
 

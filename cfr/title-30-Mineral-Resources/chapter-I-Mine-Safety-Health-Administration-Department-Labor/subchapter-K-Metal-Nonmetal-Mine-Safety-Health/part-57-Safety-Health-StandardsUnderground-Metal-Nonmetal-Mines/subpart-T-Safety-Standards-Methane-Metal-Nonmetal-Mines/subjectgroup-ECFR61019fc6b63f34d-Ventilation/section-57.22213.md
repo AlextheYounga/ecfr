@@ -1,0 +1,3 @@
+##### § 57.22213 Air flow (III mines). #####
+
+The quantity of air coursed through the last open crosscut in pairs or sets of entries, or through other ventilation openings nearest the face, shall be at least 6,000 cubic feet per minute, or 9,000 cubic feet per minute in longwall and continuous miner sections. The quantity of air across each face at a work place shall be at least 2,000 cubic feet per minute.

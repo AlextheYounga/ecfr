@@ -1,5 +1,7 @@
 ##### § 404.11 Appeals. #####
 
+Link to an amendment published at 88 FR 17740, Mar. 24, 2023.
+
 (a) In accordance with procedures prescribed by the Federal agency, the following parties may appeal to the agency head or designee any decision or determination concerning the grant, denial, modification, or termination of a license:
 
 (1) A person whose application for a license has been denied;

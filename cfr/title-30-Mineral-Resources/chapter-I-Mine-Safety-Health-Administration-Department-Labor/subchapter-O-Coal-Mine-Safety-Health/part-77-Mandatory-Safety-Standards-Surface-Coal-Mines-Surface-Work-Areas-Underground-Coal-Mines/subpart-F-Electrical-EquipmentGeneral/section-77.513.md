@@ -1,0 +1,3 @@
+##### § 77.513 Insulating mats at power switches. #####
+
+Dry wooden platforms, insulating mats, or other electrically nonconductive material shall be kept in place at all switchboards and power-control switches where shock hazards exist. However, metal plates on which a person normally would stand and which are kept at the same potential as the grounded, metal, non-current-carrying parts of the power switches to be operated may be used.
