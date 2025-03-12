@@ -1,7 +1,5 @@
 ##### § 2.13 Confidentiality restrictions and safeguards. #####
 
-Link to an amendment published at 85 FR 43037, July 15, 2020.
-
 (a) *General.* The patient records subject to the regulations in this part may be disclosed or used only as permitted by the regulations in this part and may not otherwise be disclosed or used in any civil, criminal, administrative, or legislative proceedings conducted by any federal, state, or local authority. Any disclosure made under the regulations in this part must be limited to that information which is necessary to carry out the purpose of the disclosure.
 
 (b) *Unconditional compliance required.* The restrictions on disclosure and use in the regulations in this part apply whether or not the part 2 program or other lawful holder of the patient identifying information believes that the person seeking the information already has it, has other means of obtaining it, is a law enforcement agency or official or other government official, has obtained a subpoena, or asserts any other justification for a disclosure or use which is not permitted by the regulations in this part.
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 43037, July 15, 2020.
 
 (2) Any answer to a request for a disclosure of patient records which is not permissible under the regulations in this part must be made in a way that will not affirmatively reveal that an identified individual has been, or is being, diagnosed or treated for a substance use disorder. An inquiring party may be provided a copy of the regulations in this part and advised that they restrict the disclosure of substance use disorder patient records, but may not be told affirmatively that the regulations restrict the disclosure of the records of an identified patient.
 
-(d) *List of disclosures.* Upon request, patients who have consented to disclose their patient identifying information using a general designation pursuant to § 2.31(a)(4)(iii)(B)(*3*) must be provided a list of entities to which their information has been disclosed pursuant to the general designation.
+(d) *List of disclosures.* Upon request, patients who have consented to disclose their patient identifying information using a general designation pursuant to § 2.31(a)(4)(ii)(B) must be provided a list of entities to which their information has been disclosed pursuant to the general designation.
 
 (1) Under this paragraph (d), patient requests:
 
@@ -18,10 +16,12 @@ Link to an amendment published at 85 FR 43037, July 15, 2020.
 
 (ii) Are limited to disclosures made within the past two years;
 
-(2) Under this paragraph (d), the entity named on the consent form that discloses information pursuant to a patient's general designation (the entity that serves as an intermediary, as described in § 2.31(a)(4)(iii)(B)) must:
+(2) Under this paragraph (d), the entity named on the consent form that discloses information pursuant to a patient's general designation (the entity that serves as an intermediary, as described in § 2.31(a)(4)(ii)(B)) must:
 
 (i) Respond in 30 or fewer days of receipt of the written request; and
 
 (ii) Provide, for each disclosure, the name(s) of the entity(-ies) to which the disclosure was made, the date of the disclosure, and a brief description of the patient identifying information disclosed.
 
-(3) The part 2 program is not responsible for compliance with this paragraph (d); the entity that serves as an intermediary, as described in § 2.31(a)(4)(iii)(B), is responsible for compliance with the list of disclosures requirement.
+(3) The part 2 program is not responsible for compliance with this paragraph (d); the entity that serves as an intermediary, as described in § 2.31(a)(4)(ii)(B), is responsible for compliance with the requirement.
+
+[82 FR 6115, Jan. 18, 2017, as amended at 85 FR 43037, July 15, 2020]

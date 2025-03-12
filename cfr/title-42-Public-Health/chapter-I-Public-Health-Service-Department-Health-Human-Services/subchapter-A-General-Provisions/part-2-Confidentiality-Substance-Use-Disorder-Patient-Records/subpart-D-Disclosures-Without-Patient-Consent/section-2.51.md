@@ -1,8 +1,10 @@
 ##### § 2.51 Medical emergencies. #####
 
-Link to an amendment published at 85 FR 43038, July 15, 2020.
+(a) *General rule.* Under the procedures required by paragraph (c) of this section, patient identifying information may be disclosed to medical personnel to the extent necessary to:
 
-(a) *General rule.* Under the procedures required by paragraph (c) of this section, patient identifying information may be disclosed to medical personnel to the extent necessary to meet a bona fide medical emergency in which the patient's prior informed consent cannot be obtained.
+(1) Meet a bona fide medical emergency in which the patient's prior written consent cannot be obtained; or
+
+(2) Meet a bona fide medical emergency in which a part 2 program is closed and unable to provide services or obtain the prior written consent of the patient, during a temporary state of emergency declared by a state or federal authority as the result of a natural or major disaster, until such time that the part 2 program resumes operations.
 
 (b) *Special rule.* Patient identifying information may be disclosed to medical personnel of the Food and Drug Administration (FDA) who assert a reason to believe that the health of any individual may be threatened by an error in the manufacture, labeling, or sale of a product under FDA jurisdiction, and that the information will be used for the exclusive purpose of notifying patients or their physicians of potential dangers.
 
@@ -15,3 +17,5 @@ Link to an amendment published at 85 FR 43038, July 15, 2020.
 (3) The date and time of the disclosure; and
 
 (4) The nature of the emergency (or error, if the report was to FDA).
+
+[82 FR 6115, Jan. 18, 2017, as amended at 85 FR 43038, July 15, 2020]

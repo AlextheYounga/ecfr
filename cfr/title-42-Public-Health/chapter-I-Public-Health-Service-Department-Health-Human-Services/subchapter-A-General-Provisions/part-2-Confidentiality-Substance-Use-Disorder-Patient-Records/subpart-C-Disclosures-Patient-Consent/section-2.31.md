@@ -1,7 +1,5 @@
 ##### § 2.31 Consent requirements. #####
 
-Link to an amendment published at 85 FR 43037, July 15, 2020.
-
 (a) *Required elements for written consent.* A written consent to a disclosure under the regulations in this part may be paper or electronic and must include:
 
 (1) The name of the patient.
@@ -10,25 +8,13 @@ Link to an amendment published at 85 FR 43037, July 15, 2020.
 
 (3) How much and what kind of information is to be disclosed, including an explicit description of the substance use disorder information that may be disclosed.
 
-(4)(i) The name(s) of the individual(s) to whom a disclosure is to be made; or
+(4)(i) *General requirement for designating recipients.* The name(s) of the individual(s) or the name(s) of the entity(-ies) to which a disclosure is to be made.
 
-(ii) *Entities with a treating provider relationship with the patient.* If the recipient entity has a treating provider relationship with the patient whose information is being disclosed, such as a hospital, a health care clinic, or a private practice, the name of that entity; or
+(ii) *Special instructions for entities that facilitate the exchange of health information and research institutions.* Notwithstanding paragraph (a)(4)(i) of this section, if the recipient entity facilitates the exchange of health information or is a research institution, a written consent must include the name(s) of the entity(-ies) and
 
-(iii) *Entities without a treating provider relationship with the patient.*
+(A) The name(s) of individual or entity participant(s); or
 
-(A) If the recipient entity does not have a treating provider relationship with the patient whose information is being disclosed and is a third-party payer, the name of the entity; or
-
-(B) If the recipient entity does not have a treating provider relationship with the patient whose information is being disclosed and is not covered by paragraph (a)(4)(iii)(A) of this section, such as an entity that facilitates the exchange of health information or a research institution, the name(s) of the entity(-ies); and
-
-(*1*) The name(s) of an individual participant(s); or
-
-(*2*) The name(s) of an entity participant(s) that has a treating provider relationship with the patient whose information is being disclosed; or
-
-(*3*) A general designation of an individual or entity participant(s) or class of participants that must be limited to a participant(s) who has a treating provider relationship with the patient whose information is being disclosed.
-
-(*i*) When using a general designation, a statement must be included on the consent form that the patient (or other individual authorized to sign in lieu of the patient), confirms their understanding that, upon their request and consistent with this part, they must be provided a list of entities to which their information has been disclosed pursuant to the general designation (*see* § 2.13(d)).
-
-(*ii*) [Reserved]
+(B) A general designation of an individual or entity participant(s) or class of participants that must be limited to a participant(s) who has a treating provider relationship with the patient whose information is being disclosed. When using a general designation, a statement must be included on the consent form that the patient (or other individual authorized to sign in lieu of the patient), confirms their understanding that, upon their request and consistent with this part, they must be provided a list of entities to which their information has been disclosed pursuant to the general designation (see § 2.13(d)).
 
 (5) The purpose of the disclosure. In accordance with § 2.13(a), the disclosure must be limited to that information which is necessary to carry out the stated purpose.
 
@@ -49,3 +35,5 @@ Link to an amendment published at 85 FR 43037, July 15, 2020.
 (3) Is known to have been revoked; or
 
 (4) Is known, or through reasonable diligence could be known, by the individual or entity holding the records to be materially false.
+
+[82 FR 6115, Jan. 18, 2017, as amended at 85 FR 43037, July 15, 2020]

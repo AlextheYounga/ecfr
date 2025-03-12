@@ -1,7 +1,5 @@
 ##### § 2.67 Orders authorizing the use of undercover agents and informants to investigate employees or agents of a part 2 program in connection with a criminal matter. #####
 
-Link to an amendment published at 85 FR 43039, July 15, 2020.
-
 (a) *Application.* A court order authorizing the placement of an undercover agent or informant in a part 2 program as an employee or patient may be applied for by any law enforcement or prosecutorial agency which has reason to believe that employees or agents of the part 2 program are engaged in criminal misconduct.
 
 (b) *Notice.* The part 2 program director must be given adequate notice of the application and an opportunity to appear and be heard (for the limited purpose of providing evidence on the statutory and regulatory criteria for the issuance of the court order in accordance with § 2.67(c)), unless the application asserts that:
@@ -22,10 +20,12 @@ Link to an amendment published at 85 FR 43039, July 15, 2020.
 
 (1) Specifically authorize the placement of an undercover agent or an informant;
 
-(2) Limit the total period of the placement to six months;
+(2) Limit the total period of the placement to twelve months, starting on the date that the undercover agent or informant is placed on site within the program. The placement of an undercover agent or informant must end after 12 months, unless a new court order is issued to extend the period of placement;
 
 (3) Prohibit the undercover agent or informant from disclosing any patient identifying information obtained from the placement except as necessary to investigate or prosecute employees or agents of the part 2 program in connection with the suspected criminal activity; and
 
 (4) Include any other measures which are appropriate to limit any potential disruption of the part 2 program by the placement and any potential for a real or apparent breach of patient confidentiality; for example, sealing from public scrutiny the record of any proceeding for which disclosure of a patient's record has been ordered.
 
 (e) *Limitation on use of information.* No information obtained by an undercover agent or informant placed in a part 2 program under this section may be used to investigate or prosecute any patient in connection with a criminal matter or as the basis for an application for an order under § 2.65.
+
+[82 FR 6115, Jan. 18, 2017, as amended at 85 FR 43039, July 15, 2020]

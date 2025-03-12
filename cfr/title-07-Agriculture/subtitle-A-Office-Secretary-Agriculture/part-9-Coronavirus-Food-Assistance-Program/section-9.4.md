@@ -1,6 +1,6 @@
 ##### § 9.4 Time and method of application. #####
 
-(a) An application under this subpart must be submitted in person, by mail, email, or facsimile to any FSA county office by the close of business on August 28, 2020.
+(a) An application under this subpart must be submitted in person, by mail, email, or facsimile to any FSA county office by the close of business on September 11, 2020.
 
 (b) Failure of an individual, entity, or a member of an entity to submit the following payment limitation and payment eligibility forms within 60-days from the date of signing the CFAP application, may result in no payment or a reduced payment:
 
@@ -21,3 +21,5 @@
 (2) Establishes the applicant's ownership share in the commodity; and
 
 (3) Establishes the applicant's value at risk in the commodity.
+
+[85 FR 30830, May 21, 2020, as amended at 85 FR 49594, Aug. 14, 2020]

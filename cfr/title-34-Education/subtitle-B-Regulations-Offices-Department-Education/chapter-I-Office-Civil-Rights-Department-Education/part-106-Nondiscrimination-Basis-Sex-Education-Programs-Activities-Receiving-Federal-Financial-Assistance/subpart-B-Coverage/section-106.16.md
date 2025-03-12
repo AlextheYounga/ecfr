@@ -1,7 +1,5 @@
 ##### § 106.16 Educational institutions eligible to submit transition plans. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *Application.* This section applies to each educational institution to which subpart C applies which:
 
 (1) Admitted only students of one sex as regular students as of June 23, 1972; or
@@ -10,4 +8,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (b) *Provision for transition plans.* An educational institution to which this section applies shall not discriminate on the basis of sex in admission or recruitment in violation of subpart C unless it is carrying out a transition plan approved by the Secretary as described in § 106.17, which plan provides for the elimination of such discrimination by the earliest practicable date but in no event later than June 23, 1979.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)
+[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]

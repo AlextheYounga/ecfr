@@ -1,7 +1,5 @@
 ##### § 106.32 Housing. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *Generally.* A recipient shall not, on the basis of sex, apply different rules or regulations, impose different fees or requirements, or offer different services or benefits related to housing, except as provided in this section (including housing provided only to married students).
 
 (b) *Housing provided by recipient.* (1) A recipient may provide separate housing on the basis of sex.
@@ -20,4 +18,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (ii) Comparable in quality and cost to the student.
 
-A recipient may render such assistance to any agency, organization, or person which provides all or part of such housing to students only of one sex.(Authority: Secs. 901, 902, 907, Education Amendments of 1972, 86 Stat. 373, 374, 375; 20 U.S.C. 1681, 1682, 1686)
+A recipient may render such assistance to any agency, organization, or person which provides all or part of such housing to students only of one sex.[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]

@@ -1,10 +1,8 @@
 ##### 52.244-6 Subcontracts for Commercial Items. #####
 
-Link to an amendment published at 85 FR 42679, July 14, 2020.
-
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (JUN 2020)
+Subcontracts for Commercial Items (AUG 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -26,7 +24,7 @@ Subcontracts for Commercial Items (JUN 2020)
 
 (v) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(vi) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
+(vi) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (vii) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 

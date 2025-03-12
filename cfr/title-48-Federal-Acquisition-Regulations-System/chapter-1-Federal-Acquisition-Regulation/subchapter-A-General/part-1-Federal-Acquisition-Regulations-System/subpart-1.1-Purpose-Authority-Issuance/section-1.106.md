@@ -1,7 +1,5 @@
 ##### 1.106 OMB approval under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 85 FR 42676, July 14, 2020.
-
 The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from 10 or more members of the public. The information collection and recordkeeping requirements contained in this regulation have been approved by the OMB. The following OMB control numbers apply:
 
 |   FAR segment    |              OMB control No.              |
@@ -12,7 +10,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |       4.9        |                 9000-0097                 |
 |       4.14       |                 9000-0177                 |
 |       4.17       |                 9000-0179                 |
-|       4.21       |                 9000-0199                 |
+|       4.21       |         9000-0199 and 9000-0201.          |
 |      4.102       |                 9000-0033                 |
 |      4.605       |                 9000-0145                 |
 |      4.607       |                 9000-0145                 |
@@ -97,8 +95,8 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |    52.204-18     |                 9000-0185                 |
 |    52.204-20     |                 9000-0189                 |
 |    52.204-23     |                 9000-0197                 |
-|    52.204-24     |                 9000-0199                 |
-|    52.204-25     |                 9000-0199                 |
+|    52.204-24     |          9000-0199 and 9000-0201          |
+|    52.204-25     |          9000-0199 and 9000-0201          |
 |     52.207-3     |                 9000-0114                 |
 |     52.207-4     |                 9000-0082                 |
 |     52.209-1     |                 9000-0083                 |

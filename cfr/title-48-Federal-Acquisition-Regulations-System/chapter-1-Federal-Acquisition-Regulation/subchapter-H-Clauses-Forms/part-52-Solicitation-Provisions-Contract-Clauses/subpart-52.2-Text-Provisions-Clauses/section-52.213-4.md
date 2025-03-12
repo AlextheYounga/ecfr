@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 85 FR 42679, July 14, 2020.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JUN 2020)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AUG 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -14,7 +12,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(iii) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
+(iii) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (iv) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
@@ -44,7 +42,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (JUN 2020)
+(viii) 52.244-6, Subcontracts for Commercial Items (AUG 2020)
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 

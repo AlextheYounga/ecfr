@@ -1,7 +1,5 @@
 ##### § 106.40 Marital or parental status. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *Status generally.* A recipient shall not apply any rule concerning a student's actual or potential parental, family, or marital status which treats students differently on the basis of sex.
 
 (b) *Pregnancy and related conditions.* (1) A recipient shall not discriminate against any student, or exclude any student from its education program or activity, including any class or extracurricular activity, on the basis of such student's pregnancy, childbirth, false pregnancy, termination of pregnancy or recovery therefrom, unless the student requests voluntarily to participate in a separate portion of the program or activity of the recipient.
@@ -14,4 +12,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (5) In the case of a recipient which does not maintain a leave policy for its students, or in the case of a student who does not otherwise qualify for leave under such a policy, a recipient shall treat pregnancy, childbirth, false pregnancy, termination of pregnancy and recovery therefrom as a justification for a leave of absence for so long a period of time as is deemed medically necessary by the student's physician, at the conclusion of which the student shall be reinstated to the status which she held when the leave began.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[45 FR 30955, May 9, 1980, as amended at 65 FR 68056, Nov. 13, 2000]
+[45 FR 30955, May 9, 1980, as amended at 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020]

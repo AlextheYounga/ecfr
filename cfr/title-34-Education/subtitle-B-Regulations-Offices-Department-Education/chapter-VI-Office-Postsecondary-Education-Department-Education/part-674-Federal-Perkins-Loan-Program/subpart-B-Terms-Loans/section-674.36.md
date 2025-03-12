@@ -1,5 +1,7 @@
 ##### § 674.36 Deferment of repayment - NDSLs made on or after October 1, 1980, but before July 1, 1993. #####
 
+Link to an amendment published at 85 FR 49820, Aug. 14, 2020.
+
 (a) The borrower may defer repayment on an NDSL Loan made on or after October 1, 1980, but before July 1, 1993, during the periods described in this section.
 
 (b)(1) The borrower need not repay principal, and interest does not accrue, during a period after the commencement or resumption of the repayment period on a loan, when the borrower is at least a half-time regular student at -

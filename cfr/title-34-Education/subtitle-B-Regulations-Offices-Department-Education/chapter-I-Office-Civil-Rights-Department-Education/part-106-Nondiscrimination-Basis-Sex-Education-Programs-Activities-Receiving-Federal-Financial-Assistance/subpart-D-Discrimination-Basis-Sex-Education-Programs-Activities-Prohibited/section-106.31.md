@@ -1,7 +1,5 @@
 ##### § 106.31 Education programs or activities. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *General.* Except as provided elsewhere in this part, no person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any academic, extracurricular, research, occupational training, or other education program or activity operated by a recipient which receives Federal financial assistance. This subpart does not apply to actions of a recipient in connection with admission of its students to an education program or activity of (1) a recipient to which subpart C does not apply, or (2) an entity, not a recipient, to which subpart C would not apply if the entity were a recipient.
 
 (b) *Specific prohibitions.* Except as provided in this subpart, in providing any aid, benefit, or service to a student, a recipient shall not, on the basis of sex:
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (ii) Shall not facilitate, require, permit, or consider such participation if such action occurs.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[45 FR 30955, May 9, 1980, as amended at 47 FR 32527, July 28, 1982; 65 FR 68056, Nov. 13, 2000]
+[45 FR 30955, May 9, 1980, as amended at 47 FR 32527, July 28, 1982; 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020]

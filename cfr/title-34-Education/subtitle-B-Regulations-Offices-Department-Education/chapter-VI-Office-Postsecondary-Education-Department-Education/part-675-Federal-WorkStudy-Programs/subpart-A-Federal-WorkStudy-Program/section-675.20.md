@@ -1,5 +1,7 @@
 ##### § 675.20 Eligible employers and general conditions and limitation on employment. #####
 
+Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
+
 (a) *Eligible FWS employers.* A student may be employed under the FWS program by -
 
 (1) The institution in which the student is enrolled;

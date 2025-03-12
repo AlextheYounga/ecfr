@@ -33,32 +33,32 @@ Table 1 to Paragraph (b)(1)
 
 (c) *Possession Restrictions* - (1) *Private recreational vessels.* Persons aboard private recreational fishing vessels during the open season listed in the column titled “Open Season” in Table 2 to this paragraph (c), may not possess more fish in or from the EEZ than the amount listed in the column titled “Possession Limit” in Table 2 to this paragraph (c).
 
-(i) *Closed season.* Persons aboard private recreational fishing vessels may not possess species, as specified in the column titled “Species” in Table 2 to this paragraph (c), in or from the EEZ during that species closed season as specified in the column titled “Closed Season” in Table 2 to this paragraph (c).
+(i) *Closed season.* Persons aboard private recreational fishing vessels may not possess species, as specified in the column titled “Species” in Table 2 to paragraph (c), in or from the EEZ during that species closed season as specified in the column titled “Closed Season” in Table 2 to paragraph (c).
 
 Table 2 to Paragraph (c)
 
-|         Species          |             Open season              |Possession limit|             Closed season             |
-|--------------------------|--------------------------------------|----------------|---------------------------------------|
-|          GB Cod          |               All Year               |       10       |                 N/A.                  |
-|         GOM Cod          |           September 15-30            |       1        |May 1-September 14; October 1-April 30.|
-|        GB Haddock        |               All Year               |   Unlimited    |                 N/A.                  |
-|       GOM Haddock        |May 1-February 28 (or 29); April 15-30|       15       |           March 1-April 14.           |
-|  GB Yellowtail Flounder  |               All Year               |   Unlimited    |                 N/A.                  |
-|SNE/MA Yellowtail Flounder|               All Year               |   Unlimited    |                 N/A.                  |
-|CC/GOM Yellowtail Flounder|               All Year               |   Unlimited    |                 N/A.                  |
-|     American Plaice      |               All Year               |   Unlimited    |                 N/A.                  |
-|      Witch Flounder      |               All Year               |   Unlimited    |                 N/A.                  |
-|    GB Winter Flounder    |               All Year               |   Unlimited    |                 N/A.                  |
-|   GOM Winter Flounder    |               All Year               |   Unlimited    |                 N/A.                  |
-|  SNE/MA Winter Flounder  |               All Year               |   Unlimited    |                 N/A.                  |
-|         Redfish          |               All Year               |   Unlimited    |                 N/A.                  |
-|        White Hake        |               All Year               |   Unlimited    |                 N/A.                  |
-|         Pollock          |               All Year               |   Unlimited    |                 N/A.                  |
-|  N. Windowpane Flounder  |                CLOSED                |  No retention  |               All Year.               |
-|  S. Windowpane Flounder  |                CLOSED                |  No retention  |               All Year.               |
-|        Ocean Pout        |                CLOSED                |  No retention  |               All Year.               |
-|     Atlantic Halibut     |        See paragraph (c)(3).         |                |                                       |
-|    Atlantic Wolffish     |                CLOSED                |  No retention  |               All Year.               |
+|          Stock           |             Open season             |Possession limit|              Closed season               |
+|--------------------------|-------------------------------------|----------------|------------------------------------------|
+|          GB Cod          |              All Year               |       10       |                   N/A.                   |
+|         GOM Cod          |     September 15-30, April 1-14     |       1        |April 15-September 14, October 1-March 31.|
+|        GB Haddock        |              All Year               |   Unlimited    |                   N/A.                   |
+|       GOM Haddock        |May 1-February 28 (or 29), April 1-30|       15       |            March 1-March 31.             |
+|  GB Yellowtail Flounder  |              All Year               |   Unlimited    |                   N/A.                   |
+|SNE/MA Yellowtail Flounder|              All Year               |   Unlimited    |                   N/A.                   |
+|CC/GOM Yellowtail Flounder|              All Year               |   Unlimited    |                   N/A.                   |
+|     American Plaice      |              All Year               |   Unlimited    |                   N/A.                   |
+|      Witch Flounder      |              All Year               |   Unlimited    |                   N/A.                   |
+|    GB Winter Flounder    |              All Year               |   Unlimited    |                   N/A.                   |
+|   GOM Winter Flounder    |              All Year               |   Unlimited    |                   N/A.                   |
+|  SNE/MA Winter Flounder  |              All Year               |   Unlimited    |                   N/A.                   |
+|         Redfish          |              All Year               |   Unlimited    |                   N/A.                   |
+|        White Hake        |              All Year               |   Unlimited    |                   N/A.                   |
+|         Pollock          |              All Year               |   Unlimited    |                   N/A.                   |
+|  N Windowpane Flounder   |               Closed                |  No retention  |                All Year.                 |
+|  S Windowpane Flounder   |               Closed                |  No retention  |                All Year.                 |
+|        Ocean Pout        |               Closed                |  No retention  |                All Year.                 |
+|     Atlantic Halibut     |See paragraph (c)(3) of this section |                |                                          |
+|    Atlantic Wolffish     |               Closed                |  No retention  |                All Year.                 |
 
 (ii) [Reserved]
 
@@ -66,28 +66,28 @@ Table 2 to Paragraph (c)
 
 Table 3 to Paragraph (c)
 
-|         Species          |             Open season              |Possession limit|             Closed season             |
-|--------------------------|--------------------------------------|----------------|---------------------------------------|
-|          GB Cod          |               All Year               |       10       |                 N/A.                  |
-|         GOM Cod          |           September 15-30            |       1        |May 1-September 14; October 1-April 30.|
-|        GB Haddock        |               All Year               |   Unlimited    |                 N/A.                  |
-|       GOM Haddock        |May 1-February 28 (or 29); April 15-30|       15       |           March 1-April 14.           |
-|  GB Yellowtail Flounder  |               All Year               |   Unlimited    |                 N/A.                  |
-|SNE/MA Yellowtail Flounder|               All Year               |   Unlimited    |                 N/A.                  |
-|CC/GOM Yellowtail Flounder|               All Year               |   Unlimited    |                 N/A.                  |
-|     American Plaice      |               All Year               |   Unlimited    |                 N/A.                  |
-|      Witch Flounder      |               All Year               |   Unlimited    |                 N/A.                  |
-|    GB Winter Flounder    |               All Year               |   Unlimited    |                 N/A.                  |
-|   GOM Winter Flounder    |               All Year               |   Unlimited    |                 N/A.                  |
-|  SNE/MA Winter Flounder  |               All Year               |   Unlimited    |                 N/A.                  |
-|         Redfish          |               All Year               |   Unlimited    |                 N/A.                  |
-|        White Hake        |               All Year               |   Unlimited    |                 N/A.                  |
-|         Pollock          |               All Year               |   Unlimited    |                 N/A.                  |
-|  N. Windowpane Flounder  |                CLOSED                |  No retention  |               All Year.               |
-|  S. Windowpane Flounder  |                CLOSED                |  No retention  |               All Year.               |
-|        Ocean Pout        |                CLOSED                |  No retention  |               All Year.               |
-|     Atlantic Halibut     |        See Paragraph (c)(3).         |                |                                       |
-|    Atlantic Wolffish     |                CLOSED                |  No retention  |               All Year.               |
+|         Species          |             Open season             |Possession limit|              Closed season              |
+|--------------------------|-------------------------------------|----------------|-----------------------------------------|
+|          GB Cod          |              All Year               |       10       |                  N/A.                   |
+|         GOM Cod          |  September 8-October 7, April 1-14  |       1        |April 15-September 7, October 8-March 31.|
+|        GB Haddock        |              All Year               |   Unlimited    |                  N/A.                   |
+|       GOM Haddock        |May 1-February 28 (or 29), April 1-30|       15       |            March 1-March 31.            |
+|  GB Yellowtail Flounder  |              All Year               |   Unlimited    |                  N/A.                   |
+|SNE/MA Yellowtail Flounder|              All Year               |   Unlimited    |                  N/A.                   |
+|CC/GOM Yellowtail Flounder|              All Year               |   Unlimited    |                  N/A.                   |
+|     American Plaice      |              All Year               |   Unlimited    |                  N/A.                   |
+|      Witch Flounder      |              All Year               |   Unlimited    |                  N/A.                   |
+|    GB Winter Flounder    |              All Year               |   Unlimited    |                  N/A.                   |
+|   GOM Winter Flounder    |              All Year               |   Unlimited    |                  N/A.                   |
+|  SNE/MA Winter Flounder  |              All Year               |   Unlimited    |                  N/A.                   |
+|         Redfish          |              All Year               |   Unlimited    |                  N/A.                   |
+|        White Hake        |              All Year               |   Unlimited    |                  N/A.                   |
+|         Pollock          |              All Year               |   Unlimited    |                  N/A.                   |
+|  N Windowpane Flounder   |               Closed                |  No retention  |                All Year.                |
+|  S Windowpane Flounder   |               Closed                |  No retention  |                All Year.                |
+|        Ocean Pout        |               Closed                |  No retention  |                All Year.                |
+|     Atlantic Halibut     |See Paragraph (c)(3) of this section |                |                                         |
+|    Atlantic Wolffish     |               Closed                |  No retention  |                All Year.                |
 
 (3) *Atlantic halibut.* Vessels permitted under this part, and recreational fishing vessels fishing in the EEZ, may not possess more than one Atlantic halibut on board the vessel.
 

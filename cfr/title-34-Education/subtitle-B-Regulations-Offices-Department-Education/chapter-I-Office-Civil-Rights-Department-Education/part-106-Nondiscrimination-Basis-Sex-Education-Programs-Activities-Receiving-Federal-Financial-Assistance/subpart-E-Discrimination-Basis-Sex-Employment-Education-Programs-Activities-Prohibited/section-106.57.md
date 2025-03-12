@@ -1,7 +1,5 @@
 ##### § 106.57 Marital or parental status. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *General.* A recipient shall not apply any policy or take any employment action:
 
 (1) Concerning the potential marital, parental, or family status of an employee or applicant for employment which treats persons differently on the basis of sex; or
@@ -14,4 +12,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (d) *Pregnancy leave.* In the case of a recipient which does not maintain a leave policy for its employees, or in the case of an employee with insufficient leave or accrued employment time to qualify for leave under such a policy, a recipient shall treat pregnancy, childbirth, false pregnancy, termination of pregnancy and recovery therefrom as a justification for a leave of absence without pay for a reasonable period of time, at the conclusion of which the employee shall be reinstated to the status which she held when the leave began or to a comparable position, without decrease in rate of compensation or loss of promotional opportunities, or any other right or privilege of employment.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)
+[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]

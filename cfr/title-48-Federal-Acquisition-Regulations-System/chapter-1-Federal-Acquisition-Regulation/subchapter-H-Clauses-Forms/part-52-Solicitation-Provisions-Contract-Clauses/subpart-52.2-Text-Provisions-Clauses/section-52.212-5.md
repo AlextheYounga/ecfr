@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 85 FR 42679, July 14, 2020.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JUL 2020)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (AUG 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -12,7 +10,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(3) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
+(3) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (4) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
 
@@ -232,7 +230,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (iii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(iv) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
+(iv) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (v) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
@@ -280,7 +278,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (JUN 2020). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (AUG 2020). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -300,7 +298,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (C) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(D) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
+(D) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (E) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 

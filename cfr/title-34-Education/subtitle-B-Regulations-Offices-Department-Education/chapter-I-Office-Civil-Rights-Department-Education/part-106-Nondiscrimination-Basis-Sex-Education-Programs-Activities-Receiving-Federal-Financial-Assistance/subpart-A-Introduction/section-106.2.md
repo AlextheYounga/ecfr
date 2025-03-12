@@ -1,7 +1,5 @@
 ##### § 106.2 Definitions. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 As used in this part, the term:
 
 (a) *Title IX* means title IX of the Education Amendments of 1972, Pub. L. 92-318, as amended by section 3 of Pub. L. 93-568, 88 Stat. 1855, except sections 904 and 906 thereof; 20 U.S.C. 1681, 1682, 1683, 1685, 1686.
@@ -32,7 +30,7 @@ As used in this part, the term:
 
 (5) Any other contract, agreement, or arrangement which has as one of its purposes the provision of assistance to any education program or activity, except a contract of insurance or guaranty.
 
-(h) *Program or activity* and *program* means all of the operations of -
+(h) *Program or activity* and *program* means all of the operations of—
 
 (1)(i) A department, agency, special purpose district, or other instrumentality of a State or local government; or
 
@@ -42,7 +40,7 @@ As used in this part, the term:
 
 (ii) A local educational agency (as defined in 20 U.S.C. 8801), system of vocational education, or other school system;
 
-(3)(i) An entire corporation, partnership, other private organization, or an entire sole proprietorship -
+(3)(i) An entire corporation, partnership, other private organization, or an entire sole proprietorship—
 
 (A) If assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
 
@@ -88,4 +86,4 @@ As used in this part, the term:
 
 (s) *Transition plan* means a plan subject to the approval of the Secretary pursuant to section 901(a)(2) of the Education Amendments of 1972, under which an educational institution operates in making the transition from being an educational institution which admits only students of one sex to being one which admits students of both sexes without discrimination.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[45 FR 30955, May 9, 1980; 45 FR 37426, June 3, 1980, as amended at 65 FR 68056, Nov. 13, 2000]
+[45 FR 30955, May 9, 1980; 45 FR 37426, June 3, 1980, as amended at 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020]

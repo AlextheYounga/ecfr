@@ -1,5 +1,7 @@
 ##### § 675.9 Student eligibility. #####
 
+Link to an amendment published at 85 FR 49820, Aug. 14, 2020.
+
 A student at an institution of higher education is eligible to receive part-time employment under the FWS program for an award year if the student -
 
 (a) Meets the relevant eligibility requirements contained in 34 CFR 668.32;

@@ -1,16 +1,20 @@
 ##### § 2.52 Research. #####
 
-Link to an amendment published at 85 FR 43038, July 15, 2020.
+(a) Notwithstanding other provisions of this part, including paragraph (b)(2) of this section, patient identifying information may be disclosed for the purposes of the recipient conducting scientific research if:
 
-(a) Notwithstanding other provisions of this part, including paragraph (b)(2) of this section, patient identifying information may be disclosed by the part 2 program or other lawful holder of part 2 data, for the purpose of conducting scientific research if the individual designated as director or managing director, or individual otherwise vested with authority to act as chief executive officer or their designee makes a determination that the recipient of the patient identifying information:
+(1) The individual designated as director or managing director, or individual otherwise vested with authority to act as chief executive officer or their designee, of a part 2 program or other lawful holder of part 2 data, makes a determination that the recipient of the patient identifying information is:
 
-(1) If a HIPAA-covered entity or business associate, has obtained and documented authorization from the patient, or a waiver or alteration of authorization, consistent with the HIPAA Privacy Rule at 45 CFR 164.508 or 164.512(i), as applicable; or
+(i) A HIPAA-covered entity or business associate that has obtained and documented authorization from the patient, or a waiver or alteration of authorization, consistent with the HIPAA Privacy Rule at 45 CFR 164.508 or 164.512(i), as applicable;
 
-(2) If subject to the HHS regulations regarding the protection of human subjects (45 CFR part 46), either provides documentation that the researcher is in compliance with the requirements of the HHS regulations, including the requirements related to informed consent or a waiver of consent (45 CFR 46.111 and 46.116) or that the research qualifies for exemption under the HHS regulations (45 CFR 46.101(b) and any successor regulations; or
+(ii) Subject to the HHS regulations regarding the protection of human subjects (45 CFR part 46), and provides documentation either that the researcher is in compliance with the requirements of 45 CFR part 46, including the requirements related to informed consent or a waiver of consent (45 CFR 46.111 and 46.116) or that the research qualifies for exemption under the HHS regulations (45 CFR 46.104) or any successor regulations;
 
-(3) If both a HIPAA covered entity or business associate and subject to the HHS regulations regarding the protection of human subjects, has met the requirements of paragraphs (a)(1) and (2) of this section; and
+(iii) Subject to the FDA regulations regarding the protection of human subjects (21 CFR parts 50 and 56) and provides documentation that the research is in compliance with the requirements of the FDA regulations, including the requirements related to informed consent or an exception to, or waiver of, consent (21 CFR part 50) and any successor regulations; or
 
-(4) If neither a HIPAA covered entity or business associate or subject to the HHS regulations regarding the protection of human subjects, this section does not apply.
+(iv) Any combination of a HIPAA covered entity or business associate, and/or subject to the HHS regulations regarding the protection of human subjects, and/or subject to the FDA regulations regarding the protection of human subjects; and has met the requirements of paragraph (a)(1)(i), (ii) (iii), and/or (iv) of this section, as applicable.
+
+(2) The part 2 program or other lawful holder of part 2 data is a HIPAA covered entity or business associate, and the disclosure is made in accordance with the HIPAA Privacy Rule requirements at 45 CFR 164.512(i).
+
+(3) If neither paragraph (a)(1) or (2) of this section apply to the receiving or disclosing party, this section does not apply.
 
 (b) Any individual or entity conducting scientific research using patient identifying information obtained under paragraph (a) of this section:
 
@@ -24,7 +28,7 @@ Link to an amendment published at 85 FR 43038, July 15, 2020.
 
 (5) Must retain records in compliance with applicable federal, state, and local record retention laws.
 
-(c) *Data linkages* - (1) *Researchers.* Any individual or entity conducting scientific research using patient identifying information obtained under paragraph (a) of this section that requests linkages to data sets from a data repository(-ies) holding patient identifying information must:
+(c) *Data linkages*—(1) *Researchers.* Any individual or entity conducting scientific research using patient identifying information obtained under paragraph (a) of this section that requests linkages to data sets from a data repository(-ies) holding patient identifying information must:
 
 (i) Have the request reviewed and approved by an Institutional Review Board (IRB) registered with the Department of Health and Human Services, Office for Human Research Protections in accordance with 45 CFR part 46 to ensure that patient privacy is considered and the need for identifiable data is justified. Upon request, the researcher may be required to provide evidence of the IRB approval of the research project that contains the data linkage component.
 
@@ -37,3 +41,5 @@ Link to an amendment published at 85 FR 43038, July 15, 2020.
 (ii) Ensure that patient identifying information obtained under paragraph (a) of this section is not provided to law enforcement agencies or officials.
 
 (2) Except as provided in paragraph (c) of this section, a researcher may not redisclose patient identifying information for data linkages purposes.
+
+[82 FR 6115, Jan. 18, 2017, as amended at 85 FR 43038, July 15, 2020]

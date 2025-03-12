@@ -1,7 +1,5 @@
 ##### § 106.56 Fringe benefits. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *Fringe benefits defined.* For purposes of this part, *fringe benefits* means: Any medical, hospital, accident, life insurance or retirement benefit, service, policy or plan, any profit-sharing or bonus plan, leave, and any other benefit or service of employment not subject to the provision of § 106.54.
 
 (b) *Prohibitions.* A recipient shall not:
@@ -12,4 +10,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (3) Administer, operate, offer, or participate in a pension or retirement plan which establishes different optional or compulsory retirement ages based on sex or which otherwise discriminates in benefits on the basis of sex.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)
+[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]

@@ -24,4 +24,6 @@
 
 (g) In addition to any other Federal laws that apply to CFAP, the following laws apply: 15 U.S.C. 714; 18 U.S.C. 286, 287, 371, 1001; and 31 U.S.C. 1001.
 
-(h) This part applies to applications submitted under CFAP through August 28, 2020, or until funds made available for CFAP are exhausted.
+(h) This part applies to applications submitted under CFAP through September 11, 2020, or until funds made available for CFAP are exhausted.
+
+[85 FR 30830, May 21, 2020, as amended at 85 FR, Aug. 14, 2020]

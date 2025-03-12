@@ -1,12 +1,12 @@
 ##### 52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. #####
 
-Link to an amendment published at 85 FR 42679, July 14, 2020.
-
 As prescribed in 4.2105(b), insert the following clause:
 
-Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2019)
+Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
 
 (a) *Definitions.* As used in this clause -
+
+*Backhaul* means intermediate links between the core network, or backbone network, and the small subnetworks at the edge of the network (*e.g.,* connecting cell phones/towers to the core telephone network). Backhaul can be wireless (*e.g.,* microwave) or wired (*e.g.,* fiber optic, coaxial cable, Ethernet).
 
 *Covered foreign country* means The People's Republic of China.
 
@@ -38,9 +38,17 @@ Prohibition on Contracting for Certain Telecommunications and Video Surveillance
 
 (6) Emerging and foundational technologies controlled pursuant to section 1758 of the Export Control Reform Act of 2018 (50 U.S.C. 4817).
 
+*Interconnection arrangements* means arrangements governing the physical connection of two or more networks to allow the use of another's network to hand off traffic where it is ultimately delivered (*e.g.,* connection of a customer of telephone provider A to a customer of telephone company B) or sharing data and other information resources.
+
+*Reasonable inquiry* means an inquiry designed to uncover any information in the entity's possession about the identity of the producer or provider of covered telecommunications equipment or services used by the entity that excludes the need to include an internal or third-party audit.
+
+*Roaming* means cellular communications services (*e.g.,* voice, video, data) received from a visited network when unable to connect to the facilities of the home network either because signal coverage is too weak or because traffic is too high.
+
 *Substantial or essential component* means any component necessary for the proper function or performance of a piece of equipment, system, or service.
 
-(b) *Prohibition.* Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. The Contractor is prohibited from providing to the Government any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception at paragraph (c) of this clause applies or the covered telecommunication equipment or services are covered by a waiver described in Federal Acquisition Regulation 4.2104.
+(b) *Prohibition.* (1) Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. The Contractor is prohibited from providing to the Government any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception at paragraph (c) of this clause applies or the covered telecommunication equipment or services are covered by a waiver described in FAR 4.2104.
+
+(2) Section 889(a)(1)(B) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2020, from entering into a contract, or extending or renewing a contract, with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception at paragraph (c) of this clause applies or the covered telecommunication equipment or services are covered by a waiver described in FAR 4.2104. This prohibition applies to the use of covered telecommunications equipment or services, regardless of whether that use is in performance of work under a Federal contract.
 
 (c) *Exceptions.* This clause does not prohibit contractors from providing -
 
@@ -56,6 +64,6 @@ Prohibition on Contracting for Certain Telecommunications and Video Surveillance
 
 (ii) Within 10 business days of submitting the information in paragraph (d)(2)(i) of this clause: Any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of covered telecommunications equipment or services, and any additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services.
 
-(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial items.
+(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e) and excluding paragraph (b)(2), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial items.
 
-(End of clause)[84 FR 40222, Aug. 13, 2019]
+(End of clause)[84 FR 40222, Aug. 13, 2019, as amended at 85 FR 42679, July 14, 2020]

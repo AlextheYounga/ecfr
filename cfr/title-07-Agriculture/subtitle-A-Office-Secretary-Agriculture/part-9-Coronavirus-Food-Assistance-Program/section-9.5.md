@@ -78,7 +78,7 @@ Table 1 to Paragraph (h) - Payment Rates for Specialty Crops
 |    Lettuce, romaine    |                        0.07                        |                                                     0.12                                                      |            0.02             |
 |       Mushrooms        |                                                    |                                                     0.58                                                      |            0.11             |
 |      Onions, dry       |                        0.01                        |                                                     0.05                                                      |            0.01             |
-|      Onions green      |                                                    |                                                     0.30                                                      |            0.06             |
+|     Onions, green      |                       $0.51                        |                                                     $0.70                                                     |            $0.14            |
 |        Oranges         |                                                    |                                                     0.14                                                      |            0.03             |
 |         Papaya         |                                                    |                                                     0.31                                                      |            0.06             |
 |        Peaches         |                                                    |                                                     0.30                                                      |            0.06             |
@@ -99,8 +99,8 @@ Table 1 to Paragraph (h) - Payment Rates for Specialty Crops
 |       Tangerines       |                        0.05                        |                                                     0.25                                                      |            0.05             |
 |          Taro          |                        0.12                        |                                                     0.29                                                      |            0.06             |
 |        Tomatoes        |                        0.64                        |                                                     0.38                                                      |            0.07             |
-|        Walnuts         |                                                    |                                                     0.45                                                      |            0.09             |
-|      Watermelons       |                                                    |                                                     0.02                                                      |                             |
+|        Walnuts         |                        0.26                        |                                                     0.34                                                      |            0.07             |
+|      Watermelons       |                        0.04                        |                                                     0.06                                                      |            0.01             |
 
 Table 2 to Paragraph (h) - Payment Rates for Non-Specialty Crops, Dairy, Livestock, and Wool
 
@@ -147,8 +147,8 @@ Table 2 to Paragraph (h) - Payment Rates for Non-Specialty Crops, Dairy, Livesto
 
 (j)(1) USDA may make payments with respect to other commodities. In order to determine whether other commodities will be included in CFAP, a notice will be issued that will specify the types of market information the public may submit for consideration by USDA. After receipt of the information and the use of other related information available to USDA, a NOFA will specify the other eligible commodities and the manner in which payments will be determined.
 
-(2) Producers that are privately owned aquaculture businesses growing freshwater and saltwater products in controlled environments, including raceways, ponds, tanks, and recirculating systems, extending to all farmed shrimp and salmonids (trout and salmon) are included in CFAP to the extent USDA determines individual types of the products have incurred a decline in prices of 5 percent or more between January 15, 2020, and April 15, 2020. The determination of which species are included will be specified in the NOFA referenced in paragraph (j)(1) of this section.
+(2) Producers that are privately owned aquaculture businesses growing freshwater and saltwater products in controlled environments, including raceways, ponds, tanks, and recirculating systems, extending to all farmed shrimp and salmonids (trout and salmon) are included in CFAP to the extent USDA determines individual types of the products have incurred qualifying losses between January 15, 2020, and April 15, 2020. The determination of which species are included will be specified in the NOFA referenced in paragraph (j)(1) of this section. CFAP does not provide assistance for molluscan shellfish and marine algae.
 
 (k) An initial payment will be issued for 80 percent of each CFAP payment calculated. A final payment will be issued on a date determined by the Secretary, to the extent such funds are available. The total of all CFAP payments made, including all initial and final payments, cannot exceed a total of $9.5 billion for CARES Act funds and $6.5 billion for CCC funds.
 
-[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020' 85 FR 41329, July 10, 2020]
+[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020' 85 FR 41329, July 10, 2020; 85 FR 49594, Aug. 14, 2020]

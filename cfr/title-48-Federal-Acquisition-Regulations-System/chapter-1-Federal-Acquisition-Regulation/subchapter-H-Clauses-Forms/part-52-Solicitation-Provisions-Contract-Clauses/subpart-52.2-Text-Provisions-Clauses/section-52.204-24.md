@@ -1,35 +1,67 @@
 ##### 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment. #####
 
-Link to an amendment published at 85 FR 42678, July 14, 2020.
-
 As prescribed in 4.2105(a), insert the following provision:
 
-Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (DEC 2019)
+Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
 
-The Offeror shall not complete the representation in this provision if the Offeror has represented that it “does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument” in the provision at 52.204-26, Covered Telecommunications Equipment or Services - Representation, or in paragraph (v) of the provision at 52.212-3, Offeror Representations and Certifications - Commercial Items.
+The Offeror shall not complete the representation at paragraph (d)(1) of this provision if the Offeror has represented that it “does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument” in the provision at 52.204-26, Covered Telecommunications Equipment or Services - Representation, or in paragraph (v) of the provision at 52.212-3, Offeror Representations and Certifications-Commercial Items.
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision-
 
-*Covered telecommunications equipment or services, critical technology,* and *substantial or essential component* have the meanings provided in clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+*Backhaul, covered telecommunications equipment or services, critical technology, interconnection arrangements, reasonable inquiry, roaming,* and *substantial or essential component* have the meanings provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
 
-(b) *Prohibition.* Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. Contractors are not prohibited from providing -
+(b) *Prohibition.* (1) Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. Nothing in the prohibition shall be construed to -
 
-(1) A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+(i) Prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
 
-(2) Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+(ii) Cover telecommunications equipment that cannot route or redirect user data traffic or cannot permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
-(c) *Procedures.* The Offeror shall review the list of excluded parties in the System for Award Management (SAM) (*https://www.sam.gov*) for entities excluded from receiving federal awards for “covered telecommunications equipment or services”.
+(2) Section 889(a)(1)(B) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2020, from entering into a contract or extending or renewing a contract with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. This prohibition applies to the use of covered telecommunications equipment or services, regardless of whether that use is in performance of work under a Federal contract. Nothing in the prohibition shall be construed to -
 
-(d) *Representation.* The Offeror represents that it [ ] will, [ ] will not provide covered telecommunications equipment or services to the Government in the performance of any contract, subcontract or other contractual instrument resulting from this solicitation.
+(i) Prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
 
-(e) *Disclosures.* If the Offeror has represented in paragraph (d) of this provision that it “will” provide covered telecommunications equipment or services”, the Offeror shall provide the following information as part of the offer -
+(ii) Cover telecommunications equipment that cannot route or redirect user data traffic or cannot permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
-(1) A description of all covered telecommunications equipment and services offered (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable);
+(c) *Procedures.* The Offeror shall review the list of excluded parties in the System for Award Management (SAM) (*https://www.sam.gov*) for entities excluded from receiving federal awards for “covered telecommunications equipment or services.”
 
-(2) Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision;
+(d) *Representations.* The Offeror represents that -
 
-(3) For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and
+(1) It [ ] will, [ ] will not provide covered telecommunications equipment or services to the Government in the performance of any contract, subcontract or other contractual instrument resulting from this solicitation. The Offeror shall provide the additional disclosure information required at paragraph (e)(1) of this section if the Offeror responds “will” in paragraph (d)(1) of this section; and
 
-(4) For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
+(2) After conducting a reasonable inquiry, for purposes of this representation, the Offeror represents that -
 
-(End of provision)[84 FR 40222, Aug. 13, 2019, as amended at 84 FR 68319, Dec. 13, 2019]
+It [ ] does, [ ] does not use covered telecommunications equipment or services, or use any equipment, system, or service that uses covered telecommunications equipment or services. The Offeror shall provide the additional disclosure information required at paragraph (e)(2) of this section if the Offeror responds “does” in paragraph (d)(2) of this section.
+
+(e) *Disclosures.* (1) Disclosure for the representation in paragraph (d)(1) of this provision. If the Offeror has responded “will” in the representation in paragraph (d)(1) of this provision, the Offeror shall provide the following information as part of the offer:
+
+(i) For covered equipment -
+
+(A) The entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the original equipment manufacturer (OEM) or a distributor, if known);
+
+(B) A description of all covered telecommunications equipment offered (include brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); and
+
+(C) Explanation of the proposed use of covered telecommunications equipment and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(1) of this provision.
+
+(ii) For covered services -
+
+(A) If the service is related to item maintenance: A description of all covered telecommunications services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); or
+
+(B) If not associated with maintenance, the Product Service Code (PSC) of the service being provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(1) of this provision.
+
+(2) Disclosure for the representation in paragraph (d)(2) of this provision. If the Offeror has responded “does” in the representation in paragraph (d)(2) of this provision, the Offeror shall provide the following information as part of the offer:
+
+(i) For covered equipment -
+
+(A) The entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known);
+
+(B) A description of all covered telecommunications equipment offered (include brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); and
+
+(C) Explanation of the proposed use of covered telecommunications equipment and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(2) of this provision.
+
+(ii) For covered services -
+
+(A) If the service is related to item maintenance: A description of all covered telecommunications services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); or
+
+(B) If not associated with maintenance, the PSC of the service being provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(2) of this provision.
+
+(End of provision)[85 FR 42678, July 14, 2020]

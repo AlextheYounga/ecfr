@@ -1,7 +1,5 @@
 ##### § 106.37 Financial assistance. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *General.* Except as provided in paragraphs (b) and (c) of this section, in providing financial assistance to any of its students, a recipient shall not:
 
 (1) On the basis of sex, provide different amount or types of such assistance, limit eligibility for such assistance which is of any particular type or source, apply different criteria, or otherwise discriminate;
@@ -24,4 +22,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (2) Separate athletic scholarships or grants-in-aid for members of each sex may be provided as part of separate athletic teams for members of each sex to the extent consistent with this paragraph and § 106.41.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682; and Sec. 844, Education Amendments of 1974, Pub. L. 93-380, 88 Stat. 484)
+[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]

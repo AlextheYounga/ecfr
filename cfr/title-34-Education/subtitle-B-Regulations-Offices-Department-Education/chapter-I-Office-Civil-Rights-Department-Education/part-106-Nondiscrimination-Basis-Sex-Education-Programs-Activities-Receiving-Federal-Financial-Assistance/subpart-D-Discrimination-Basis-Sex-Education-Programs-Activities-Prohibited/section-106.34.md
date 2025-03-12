@@ -1,7 +1,5 @@
 ##### § 106.34 Access to classes and schools. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *General standard.* Except as provided for in this section or otherwise in this part, a recipient shall not provide or otherwise carry out any of its education programs or activities separately on the basis of sex, or require or refuse participation therein by any of its students on the basis of sex.
 
 (1) *Contact sports in physical education classes.* This section does not prohibit separation of students by sex within physical education classes or activities during participation in wrestling, boxing, rugby, ice hockey, football, basketball, and other sports the purpose or major activity of which involves bodily contact.
@@ -12,9 +10,9 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (4) *Choruses.* Recipients may make requirements based on vocal range or quality that may result in a chorus or choruses of one or predominantly one sex.
 
-(b) *Classes and extracurricular activities* - (1) *General standard.* Subject to the requirements in this paragraph, a recipient that operates a nonvocational coeducational elementary or secondary school may provide nonvocational single-sex classes or extracurricular activities, if -
+(b) *Classes and extracurricular activities*—(1) *General standard.* Subject to the requirements in this paragraph, a recipient that operates a nonvocational coeducational elementary or secondary school may provide nonvocational single-sex classes or extracurricular activities, if—
 
-(i) Each single-sex class or extracurricular activity is based on the recipient's important objective -
+(i) Each single-sex class or extracurricular activity is based on the recipient's important objective—
 
 (A) To improve educational achievement of its students, through a recipient's overall established policy to provide diverse educational opportunities, provided that the single-sex nature of the class or extracurricular activity is substantially related to achieving that objective; or
 
@@ -36,7 +34,7 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (5) *Scope of coverage.* The provisions of paragraph (b)(1) through (4) of this section apply to classes and extracurricular activities provided by a recipient directly or through another entity, but the provisions of paragraph (b)(1) through (4) of this section do not apply to interscholastic, club, or intramural athletics, which are subject to the provisions of §§ 106.41 and 106.37(c) of this part.
 
-(c) *Schools* - (1) *General Standard.* Except as provided in paragraph (c)(2) of this section, a recipient that operates a public nonvocational elementary or secondary school that excludes from admission any students, on the basis of sex, must provide students of the excluded sex a substantially equal single-sex school or coeducational school.
+(c) *Schools*—(1) *General Standard.* Except as provided in paragraph (c)(2) of this section, a recipient that operates a public nonvocational elementary or secondary school that excludes from admission any students, on the basis of sex, must provide students of the excluded sex a substantially equal single-sex school or coeducational school.
 
 (2) *Exception.* A nonvocational public charter school that is a single-school local educational agency under State law may be operated as a single-sex charter school without regard to the requirements in paragraph (c)(1) of this section.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (4) *Definition.* For the purposes of paragraph (c)(1) through (3) of this section, the term “school” includes a “school within a school,” which means an administratively separate school located within another school.
 
-(Authority: 20 U.S.C. 1681, 1682)[71 FR 62542, Oct. 25, 2006]
+[71 FR 62542, Oct. 25, 2006, as amended at 85 FR 30579 May 19, 2020]

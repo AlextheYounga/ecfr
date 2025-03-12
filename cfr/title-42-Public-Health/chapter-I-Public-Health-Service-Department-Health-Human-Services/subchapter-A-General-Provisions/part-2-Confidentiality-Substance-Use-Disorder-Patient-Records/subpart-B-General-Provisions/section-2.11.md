@@ -1,7 +1,5 @@
 ##### § 2.11 Definitions. #####
 
-Link to an amendment published at 85 FR 43036, July 15, 2020.
-
 For purposes of the regulations in this part:
 
 *Central registry* means an organization which obtains from two or more member programs patient identifying information about individuals applying for withdrawal management or maintenance treatment for the purpose of avoiding an individual's concurrent enrollment in more than one treatment program.
@@ -10,7 +8,7 @@ For purposes of the regulations in this part:
 
 *Disclose* means to communicate any information identifying a patient as being or having been diagnosed with a substance use disorder, having or having had a substance use disorder, or being or having been referred for treatment of a substance use disorder either directly, by reference to publicly available information, or through verification of such identification by another person.
 
-*Federally assisted* - see § 2.12(b).
+*Federally assisted*—see § 2.12(b).
 
 *Informant* means an individual:
 
@@ -56,7 +54,7 @@ For purposes of the regulations in this part:
 
 (ii) If necessary, will resist in judicial proceedings any efforts to obtain access to patient identifying information related to substance use disorder diagnosis, treatment, or referral for treatment except as permitted by the regulations in this part.
 
-*Records* means any information, whether recorded or not, created by, received, or acquired by a part 2 program relating to a patient (*e.g.,* diagnosis, treatment and referral for treatment information, billing information, emails, voice mails, and texts). For the purpose of the regulations in this part, records include both paper and electronic records.
+*Records* means any information, whether recorded or not, created by, received, or acquired by a part 2 program relating to a patient (*e.g.,* diagnosis, treatment and referral for treatment information, billing information, emails, voice mails, and texts), provided, however, that information conveyed orally by a part 2 program to a non-part 2 provider for treatment purposes with the consent of the patient does not become a record subject to this Part in the possession of the non-part 2 provider merely because that information is reduced to writing by that non-part 2 provider. Records otherwise transmitted by a part 2 program to a non-part 2 provider retain their characteristic as records in the hands of the non-part 2 provider, but may be segregated by that provider. For the purpose of the regulations in this part, records include both paper and electronic records.
 
 *Substance use disorder* means a cluster of cognitive, behavioral, and physiological symptoms indicating that the individual continues using the substance despite significant substance-related problems such as impaired control, social impairment, risky use, and pharmacological tolerance and withdrawal. For the purposes of the regulations in this part, this definition does not include tobacco or caffeine use.
 
@@ -73,3 +71,5 @@ For purposes of the regulations in this part:
 *Undercover agent* means any federal, state, or local law enforcement agency or official who enrolls in or becomes an employee of a part 2 program for the purpose of investigating a suspected violation of law or who pursues that purpose after enrolling or becoming employed for other purposes.
 
 *Withdrawal management* means the use of pharmacotherapies to treat or attenuate the problematic signs and symptoms arising when heavy and/or prolonged substance use is reduced or discontinued.
+
+[82 FR 6115, Jan. 18, 2017, as amended at 85 FR 43036, July 15, 2020]

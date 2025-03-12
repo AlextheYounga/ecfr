@@ -1,7 +1,5 @@
 ##### § 106.17 Transition plans. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *Submission of plans.* An institution to which § 106.16 applies and which is composed of more than one administratively separate unit may submit either a single transition plan applicable to all such units, or a separate transition plan applicable to each such unit.
 
 (b) *Content of plans.* In order to be approved by the Secretary a transition plan shall:
@@ -20,4 +18,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (d) *Effects of past exclusion.* To overcome the effects of past exclusion of students on the basis of sex, each educational institution to which § 106.16 applies shall include in its transition plan, and shall implement, specific steps designed to encourage individuals of the previously excluded sex to apply for admission to such institution. Such steps shall include instituting recruitment which emphasizes the institution's commitment to enrolling students of the sex previously excluded.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[45 FR 30955, May 9, 1980, as amended at 65 FR 68056, Nov. 13, 2000]
+[45 FR 30955, May 9, 1980, as amended at 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020]

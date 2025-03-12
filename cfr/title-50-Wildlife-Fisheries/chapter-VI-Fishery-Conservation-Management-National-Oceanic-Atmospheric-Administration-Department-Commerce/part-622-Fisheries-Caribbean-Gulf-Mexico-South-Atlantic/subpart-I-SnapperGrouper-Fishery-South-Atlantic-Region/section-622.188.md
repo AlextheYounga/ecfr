@@ -1,12 +1,14 @@
 ##### § 622.188 Required gear, authorized gear, and unauthorized gear. #####
 
-Link to an amendment published at 85 FR 36171, June 15, 2020.
-
 (a) *Required gear.* For a person on board a vessel to harvest or possess South Atlantic snapper-grouper in or from the South Atlantic EEZ, the vessel must possess on board and such person must use the gear as specified in paragraphs (a)(1) and (a)(2) of this section.
 
 (1) *Dehooking device.* At least one dehooking device is required and must be used as needed to remove hooks embedded in South Atlantic snapper-grouper with minimum damage. The hook removal device must be constructed to allow the hook to be secured and the barb shielded without re-engaging during the removal process. The dehooking end must be blunt, and all edges rounded. The device must be of a size appropriate to secure the range of hook sizes and styles used in the South Atlantic snapper-grouper fishery.
 
-(2) *Non-stainless steel circle hooks.* Non-stainless steel circle hooks are required to be used when fishing with hook-and-line gear and natural baits north of 28° N. lat.
+(2) *Non-offset, non-stainless steel circle hooks.* Non-offset, non-stainless steel circle hooks are required to be used when fishing for South Atlantic snapper-grouper with hook-and-line gear and natural baits north of 28° N lat.
+
+(3) *Non-stainless steel hooks.* Non-stainless steel hooks are required to be used when fishing for South Atlantic snapper-grouper with hook-and-line gear and natural baits south of 28° N lat.
+
+(4) *Descending device.* At least one descending device is required to be on board a vessel and be ready for use while fishing for or possessing South Atlantic snapper-grouper. Descending device means an instrument capable of releasing the fish at the depth from which the fish was caught, and to which is attached a minimum of a 16-ounce (454-gram) weight and a minimum of a 60-ft (15.2-m) length of line. The descending device may either attach to the fish's mouth or be a container that will retain the fish while it is lowered to depth. The device must be capable of releasing the fish automatically, by actions of the operator of the device, or by allowing the fish to escape on its own when at depth.
 
 (b) *Authorized gear.* Subject to the gear restrictions specified in § 622.180, the following are the only gear types authorized in a directed fishery for snapper-grouper in the South Atlantic EEZ: Bandit gear, bottom longline, buoy gear, handline, rod and reel, sea bass pot, and spearfishing gear.
 
@@ -16,9 +18,9 @@ Link to an amendment published at 85 FR 36171, June 15, 2020.
 
 (2) Except as specified in paragraphs (d) through (f) of this section, a person aboard a vessel with unauthorized gear on board, other than trawl gear, that fishes in the EEZ on a trip is limited on that trip to:
 
-(i) South Atlantic snapper-grouper species for which a bag limit is specified in § 622.187 - the bag limit.
+(i) South Atlantic snapper-grouper species for which a bag limit is specified in § 622.187—the bag limit.
 
-(ii) All other South Atlantic snapper-grouper - zero.
+(ii) All other South Atlantic snapper-grouper—zero.
 
 (3) South Atlantic snapper-grouper on board a vessel with unauthorized gear on board may not be transferred at sea, regardless of where such transfer takes place, and such snapper-grouper may not be transferred in the EEZ.
 
@@ -32,4 +34,4 @@ Link to an amendment published at 85 FR 36171, June 15, 2020.
 
 (g) *Longline species limitation.* A vessel that has on board a valid Federal commercial permit for South Atlantic snapper-grouper, excluding wreckfish, that fishes in the EEZ on a trip with a longline on board, may possess only the following South Atlantic snapper-grouper: snowy grouper, yellowedge grouper, misty grouper, golden tilefish, blueline tilefish, and sand tilefish. See § 622.170(f) for the requirement to possess a valid South Atlantic golden tilefish longline endorsement to fish for golden tilefish in the South Atlantic EEZ using longline gear. For the purpose of this paragraph, a vessel is considered to have a longline on board when a power-operated longline hauler, a cable of diameter suitable for use in the longline fishery on any reel, and gangions are on board. Removal of any one of these three elements constitutes removal of a longline.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 85 FR 36171, June 15, 2020]

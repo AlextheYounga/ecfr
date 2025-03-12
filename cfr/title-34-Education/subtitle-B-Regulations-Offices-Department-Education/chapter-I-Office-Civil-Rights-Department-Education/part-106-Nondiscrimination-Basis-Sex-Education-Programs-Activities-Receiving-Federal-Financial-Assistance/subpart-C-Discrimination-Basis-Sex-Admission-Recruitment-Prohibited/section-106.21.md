@@ -1,7 +1,5 @@
 ##### § 106.21 Admission. #####
 
-Link to an amendment published at 85 FR 30579, May 19, 2020.
-
 (a) *General.* No person shall, on the basis of sex, be denied admission, or be subjected to discrimination in admission, by any recipient to which this subpart applies, except as provided in §§ 106.16 and 106.17.
 
 (b) *Specific prohibitions.* (1) In determining whether a person satisfies any policy or criterion for admission, or in making any offer of admission, a recipient to which this subpart applies shall not:
@@ -24,4 +22,4 @@ Link to an amendment published at 85 FR 30579, May 19, 2020.
 
 (4) Shall not make pre-admission inquiry as to the marital status of an applicant for admission, including whether such applicant is “Miss” or “Mrs.” A recipient may make pre-admission inquiry as to the sex of an applicant for admision, but only if such inquiry is made equally of such applicants of both sexes and if the results of such inquiry are not used in connection with discrimination prohibited by this part.
 
-(Authority: Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)
+[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]

@@ -6,13 +6,13 @@
 
 (B) The institution complies with any applicable State approval or licensure requirements, except that the State may exempt the institution from any State approval or licensure requirements based on the institution's accreditation by one or more accrediting agencies recognized by the Secretary or based upon the institution being in operation for at least 20 years.
 
-(ii) If an institution is established by a State on the basis of an authorization to conduct business in the State or to operate as a nonprofit charitable organization, but not established by name as an educational institution under paragraph (a)(1)(i) of this section, the institution -
+(ii) If an institution is established by a State on the basis of an authorization to conduct business in the State or to operate as a nonprofit charitable organization, but not established by name as an educational institution under paragraph (a)(1)(i) of this section, the institution—
 
 (A) By name, must be approved or licensed by the State to offer programs beyond secondary education, including programs leading to a degree or certificate; and
 
 (B) May not be exempt from the State's approval or licensure requirements based on accreditation, years in operation, or other comparable exemption.
 
-(2) The Secretary considers an institution to meet the provisions of paragraph (a)(1) of this section if the institution is authorized by name to offer educational programs beyond secondary education by -
+(2) The Secretary considers an institution to meet the provisions of paragraph (a)(1) of this section if the institution is authorized by name to offer educational programs beyond secondary education by—
 
 (i) The Federal Government; or
 
@@ -32,13 +32,13 @@
 
 (d) An additional location or branch campus of an institution that meets the requirements under paragraph (a)(1) of this section and that is located in a foreign country, *i.e.,* not in a State, must comply with §§ 600.8, 600.10, 600.20, and 600.32, and the following requirements:
 
-(1) For any additional location at which 50 percent or more of an educational program (as defined in § 600.2) is offered, or will be offered, or at a branch campus -
+(1) For any additional location at which 50 percent or more of an educational program (as defined in § 600.2) is offered, or will be offered, or at a branch campus—
 
 (i) The additional location or branch campus must be legally authorized by an appropriate government authority to operate in the country where the additional location or branch campus is physically located, unless the additional location or branch campus is physically located on a U.S. military base, facility, or area that the foreign country has granted the U.S. military to use and the institution can demonstrate that it is exempt from obtaining such authorization from the foreign country;
 
 (ii) The institution must provide to the Secretary, upon request, documentation of such legal authorization to operate in the foreign country, demonstrating that the foreign governmental authority is aware that the additional location or branch campus provides postsecondary education and that the government authority does not object to those activities;
 
-(iii) The additional location or branch campus must be approved by the institution's recognized accrediting agency in accordance with §§ 602.24(a) and 602.22(a)(2)(viii), as applicable;
+(iii) The additional location or branch campus must be approved by the institution's recognized accrediting agency in accordance with § 602.22(a)(2)(ix) and (c).
 
 (iv) The additional location or branch campus must meet any additional requirements for legal authorization in that foreign country as the foreign country may establish;
 
@@ -52,4 +52,4 @@
 
 (4) If the State in which the main campus of the institution is located limits the authorization of the institution to exclude the foreign additional location or branch campus, the foreign additional location or branch campus is not considered to be legally authorized by the State.
 
-(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016; 81 FR 92261, Dec. 19, 2016]
+(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016; 81 FR 92261, Dec. 19, 2016; 85 FR 58915, Nov. 1, 2019]
