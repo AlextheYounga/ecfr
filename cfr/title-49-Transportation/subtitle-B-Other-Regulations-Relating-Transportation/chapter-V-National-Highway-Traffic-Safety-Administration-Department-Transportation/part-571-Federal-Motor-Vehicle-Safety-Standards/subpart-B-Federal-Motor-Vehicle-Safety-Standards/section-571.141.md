@@ -1,7 +1,5 @@
 ##### § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and Electric Vehicles. #####
 
-Link to an amendment published at 83 FR 8196, Feb. 27, 2018.
-
 S1. *Scope.* This standard establishes performance requirements for pedestrian alert sounds for motor vehicles.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of injuries that result from electric and hybrid vehicle crashes with pedestrians by providing a sound level and sound characteristics necessary for these vehicles to be detected and recognized by pedestrians.
@@ -27,6 +25,8 @@ S3. *Application.* This standard applies to -
 *Hybrid vehicle* means a motor vehicle which has more than one means of propulsion for which the vehicle's propulsion system can propel the vehicle in the normal travel mode in at least one forward drive gear or reverse without the internal combustion engine operating.
 
 *Rear plane* means a vertical plane tangent to the leading edge of the rear of the vehicle during operation in reverse.
+
+*Trim level* is defined to mean a subset of vehicles within the same model designation with the same body type and which are alike in their general level of standard equipment, such as a “base” trim level of a vehicle model. Vehicles with only minor trim differences that are unlikely to affect vehicle-emitted sound are not considered different for the purposes of this safety standard.
 
 S5. *Requirements.* Subject to the phase-in set forth in S9 of this standard, each hybrid and electric vehicle must meet the requirements specified in either S5.1 or S5.2. subject to the requirements in S5.3. Each vehicle must also meet the requirements in S5.4 and S5.5.
 
@@ -170,9 +170,9 @@ Table 7 - Minimum Relative Volume Change Requirements
 
 S5.5 *Sameness requirement*
 
-S5.5.1 Any two vehicles of the same make, model, and model year (as those terms are defined at 49 CFR 565.12) to which this safety standard applies shall use the same pedestrian alert system and shall be designed to have the same pedestrian alert sound when operating in any given condition for which an alert sound is required in Section S5 of this safety standard.
+S5.5.1 Any two vehicles of the same make, model, model year, body type, and trim level (as those terms are defined in 49 CFR 565.12 or in section S4 of this safety standard) to which this safety standard applies shall be designed to have the same pedestrian alert sound when operating under the same test conditions and at the same speed including any test conditions and speeds for which an alert sound is required in Section S5 of this safety standard.
 
-S5.5.2 For the purposes of this requirement, a pedestrian alert system includes all hardware and software components that are utilized to generate an alert sound. Aspects of an alert system which shall be the same include, if applicable: Alert system hardware components including speakers, speaker modules, and control modules, as evidenced by specific details such as part numbers and technical illustrations; the location, orientation, and mountings of the hardware components within the vehicle; the digital sound file or other digitally encoded source; the software and/or firmware and algorithms which generate the pedestrian alert sound and/or which process the digital source to generate a pedestrian alert sound; vehicle inputs including vehicle speed and gear selector position utilized by the alert system; any other design features necessary for vehicles of the same make, model, and model year to have the same pedestrian alert sound at each given operating condition specified in this safety standard.
+S5.5.2 For the purposes of this requirement, the pedestrian alert sound of vehicles which meet the applicable requirements in S5.1 through S5.4 of this standard are deemed to be the same if the digital source of the sound, if any, is the same and if the algorithms that either generate the sound directly or process the digital source to generate the sound are the same.
 
 S6. *Test Conditions.*
 
@@ -256,7 +256,7 @@ Table 9 - 1/3 Octave Band Corrections for Ambient Noise
 
 S7. Test Procedure.
 
-S7.1 Vehicle stationary
+S7.1 Stationary vehicle in forward gear.
 
 S7.1.1 Execute stationary tests and collect acoustic sound files.
 
@@ -290,7 +290,7 @@ S7.1.4 Compare the average overall SPL for the left and right side of the test v
 
 (d) If the left-side value from S7.1.4(c) is the lower one, then the left side acoustic data will be further evaluated for compliance at the one-third octave band levels in accordance with S7.1.5. If the left-side value from S7.1.4(c) is not the lower one, the right-side acoustic data will be further evaluated for compliance at the one-third octave band level in accordance with S7.1.5.
 
-S7.1.5 Select one-third octave bands to be used for evaluating compliance with detection requirements.
+S7.1.5 Select one-third octave bands to be used for evaluating compliance with detection requirements for a stationary vehicle.
 
 (a) For each of the four left-side or right-side acoustic files, which ever was selected in S7.1.4, determine the sound pressure level in each one-third octave band from 315 Hz up to and including 5000 Hz.
 
@@ -298,19 +298,19 @@ S7.1.5 Select one-third octave bands to be used for evaluating compliance with d
 
 (c) For each one-third octave band, average the corrected levels from the four sound files. The results will be reported to the nearest tenth of a decibel.
 
-(d) For alerts designed to meet the four one-third octave band alert sound requirements:
+(d) For alerts designed to meet the four-band requirements of S5.1 of this standard:
 
 (i) Select any four one-third octave bands that are non-adjacent to each other and that span a range of at least nine one-third octave bands in the range of 315 Hz up to and including 5000 Hz to evaluate according to paragraph S7.1.5(d)(ii). This step will be repeated until compliance is established or it is determined that no combination meeting this selection criterion can satisfy paragraph S7.1.5(d)(ii).
 
-(ii) Compare the average corrected sound pressure level from S7.1.5(c) of this paragraph in each of the four one-third octave bands selected in paragraph S7.1.5(d)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.1.1, Table 1, to determine compliance.
+(ii) Compare the average corrected sound pressure level from S7.1.5(c) in each of the four one-third octave bands selected in paragraph S7.1.5(d)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.1.1, Table 1, to determine compliance.
 
-(e) For alerts designed to meet the two-one-third octave band requirements:
+(e) For alerts designed to meet the two-band requirements of S5.2 of this standard:
 
-(i) Select the two highest one-third octave bands that are non-adjacent to each other and within the range of 315 Hz up to and including 3150 Hz to evaluate according to paragraph (ii), below. This step will be repeated until compliance is established or it is determined that no combination meeting this selection criterion can satisfy paragraph S7.1.5(e)(ii).
+(i) Select the two one-third octave bands, one below 1000 Hz and one at or above 1000 Hz, having the largest A-weighted SPL values within the range of 315 Hz up to 3150 Hz and that are non-adjacent to each other to evaluate according to S7.1.5(e)(ii), below. In the event that the pair of bands with the largest SPL values are the 800 Hz and 1000 Hz bands, then select both of the following pairs to evaluate according S7.1.5(e)(ii): The 800 Hz band along with the band having the second-largest A-weighted SPL value from the 1000 Hz and above bands; and, the 1000 Hz band along with the band having the second-largest A-weighted SPL value from the 800 Hz and below bands. At least one of the band pairs selected as specified in this paragraph shall meet the minimum requirements when evaluated according to S7.1.5(e)(ii).
 
-(ii) Compare the average corrected sound pressure level from (c) in each of the two one-third octave bands selected in paragraph S7.1.5(e)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.2 Table 6. Also, compare the band sum of the two bands to the required minimum level in Table 6.
+(ii) Compare the average corrected sound pressure level from S7.1.5(c) in each of the two one-third octave bands selected in paragraph S7.1.5(e)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.2, Table 6. Also, compare the band sum of the two bands to the required minimum band sum in Table 6.
 
-S7.1.6 *Procedure for selected one-third octave bands to be used for evaluating compliance with directivity requirements.*
+S7.1.6 Select one-third octave bands to be used for evaluating compliance with directivity requirements for a stationary vehicle.
 
 (a) Determine the one-third octave band levels associated with the four front center sound files selected in S7.1.3.
 
@@ -318,19 +318,19 @@ S7.1.6 *Procedure for selected one-third octave bands to be used for evaluating 
 
 (c) The four corrected sound pressure level values calculated from each of the four sound files in each one-third octave band will be averaged together to get the average corrected sound pressure level in each one-third octave band.
 
-(d) For alerts designed to meet the four one-third octave band requirements.
+(d) For alerts designed to meet the four-band requirements of S5.1 of this standard:
 
 (i) Select any four one-third octave bands that are non-adjacent to each other and that span a range of at least nine one-third octave bands in the range of 315 Hz up to and including 5000 Hz to evaluate according to paragraph S7.1.6(d)(ii). This step will be repeated until compliance is established or it is determined that no combination meeting this selection criterion can satisfy paragraph S7.1.6(d)(ii).
 
-(ii) Compare the average corrected sound pressure level from (c) of this paragraph in each of the four one-third octave bands selected in paragraph S7.1.6(d)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.1.1, Table 1, to determine compliance.
+(ii) Compare the average corrected sound pressure level from S7.1.6(c) in each of the four one-third octave bands selected in paragraph S7.1.6(d)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.1.1, Table 1, to determine compliance.
 
-(e) For alerts designed to meet the two one-third octave band requirements.
+(e) For alerts designed to meet the two-band requirements of S5.2 of this standard:
 
-(i) Select the two highest one-third octave bands that are non-adjacent to each other and within the range of 315 Hz up to and including 3150 Hz to evaluate according to paragraph (ii), below. One band shall be below 1000 Hz and one band shall be at or greater than 1000 Hz. This step will be repeated until compliance is established or it is determined that no combination meeting this selection criterion can satisfy paragraph S7.1.6(e)(ii).
+(i) Select the two one-third octave bands, one below 1000 Hz and one at or above 1000 Hz, having the largest A-weighted SPL values within the range of 315 Hz up to 3150 Hz and that are non-adjacent to each other to evaluate according to S7.1.6(e)(ii), below. In the event that the pair of bands with the largest SPL values are the 800 Hz and 1000 Hz bands, then select both of the following pairs to evaluate according S7.1.6(e)(ii): The 800 Hz band along with the band having the second-largest A-weighted SPL value from the 1000 Hz and above bands; and, the 1000 Hz band along with the band having the second-largest A-weighted SPL value from the 800 Hz and below bands. At least one of the band pairs selected as specified in this paragraph shall meet the minimum requirements when evaluated according to S7.1.6(e)(ii), below.
 
-(ii) Compare the average corrected sound pressure level from S7.1.6(c) of this paragraph in each of the two one-third octave bands selected in paragraph S7.1.6(e)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.2 Table 6. Also, compare the band sum of the two bands to the required minimum level in Table 6.
+(ii) Compare the average corrected sound pressure level from S7.1.6(c) in each of the two one-third octave bands selected in paragraph S7.1.6(e)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.2, Table 6. Also, compare the band sum of the two bands to the required minimum band sum in Table 6.
 
-S7.2 *Reverse.* Test the vehicle per S7.1 (S7.1.1-S7.1.5), except that the rear plane of the vehicle is placed on line PP', no third microphone (front center) is used, and the vehicle's gear selector is placed in “Reverse.”
+S7.2 *Stationary vehicle in reverse gear.* Test the vehicle per S7.1.1 through S7.1.5 except that the rear plane of the vehicle is placed on the PP' line, no center microphone is used, and the vehicle's transmission gear selector is placed in the `Reverse' position. The minimum sound level requirements for the Reverse test condition are contained in S5.1.2, Table 2, for four-band compliance and in S5.2, Table 6, for two-band compliance.
 
 S7.3 *Constant speed pass-by tests at speeds greater than 0 km/h but less than 20 km/h.*
 
@@ -362,7 +362,7 @@ S7.3.4 Determine average overall SPL value on each side (left and right) of test
 
 (d) The side of the vehicle with the lowest average corrected maximum overall SPL value will be the side of the vehicle that is further evaluated for compliance at the one-third octave band levels in accordance with S7.3.5.
 
-S7.3.5 Complete one-third octave band evaluation for compliance verification.
+S7.3.5 Select one-third octave bands to be used for evaluating compliance with the constant speed pass-by requirements.
 
 (a) The side of the vehicle selected in S7.3.4 will have four associated individual acoustic sound data files. Each sound file shall be broken down into its one-third octave band levels.
 
@@ -370,23 +370,23 @@ S7.3.5 Complete one-third octave band evaluation for compliance verification.
 
 (c) The four corrected sound pressure level values calculated from each of the four sound files in each one-third octave band will be averaged together to get the average corrected sound pressure level in each one-third octave band.
 
-(d) For alerts designed to meet the four one-third octave band requirements.
+(d) For alerts designed to meet the four-band requirements of S5.1 of this standard:
 
 (i) Select any four one-third octave bands that are non-adjacent to each other and that span a range of at least nine one-third octave bands in the range of 315 Hz up to and including 5000 Hz to evaluate according to paragraph S7.3.5(d)(ii). This step will be repeated until compliance is established or it is determined that no combination meeting this selection criterion can satisfy paragraph S7.3.5(d)(ii).
 
 (ii) Compare the average corrected sound pressure level from S7.3.5(c) in each of the four one-third octave bands selected in paragraph S7.3.5(d)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.1.3, Table 3, to determine compliance.
 
-(e) For alerts designed to meet the two one-third octave band requirements.
+(e) For alerts designed to meet the two-band requirements of S5.2 of this standard:
 
-(i) Select the two highest one-third octave bands that are non-adjacent to each other and within the range of 315 Hz up to and including 3150 Hz to evaluate according to paragraph S7.3.5(e)(ii). This step will be repeated until compliance is established or it is determined that no combination meeting this selection criterion can satisfy paragraph S7.3.5(e)(ii).
+(i) Select the two one-third octave bands, one below 1000 Hz and one at or above 1000 Hz, having the largest A-weighted SPL values within the range of 315 Hz up to 3150 Hz and that are non-adjacent to each other to evaluate according to S7.3.5(e)(ii), below. In the event that the pair of bands with the largest SPL values are the 800 Hz and 1000 Hz bands, then select both of the following pairs to evaluate according S7.3.5(e)(ii): The 800 Hz band along with the band having the second-largest A-weighted SPL value from the 1000 Hz and above bands; and, the 1000 Hz band along with the band having the second-largest A-weighted SPL value from the 800 Hz and below bands. At least one of the band pairs selected as specified in this paragraph shall meet the minimum requirements when evaluated according to S7.3.5(e)(ii), below.
 
-(ii) Compare the average corrected sound pressure level from S7.3.5(c) in each of the two one-third octave bands selected in paragraph S7.3.5(e)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.2 and Table 6. Also, compare the band sum of the two bands to the required minimum level in Table 6.
+(ii) Compare the average corrected sound pressure level from S7.3.5(c) in each of the two one-third octave bands selected in paragraph S7.3.5(e)(i) to the required minimum level of the corresponding one-third octave band specified in paragraph S5.2, Table 6. Also, compare the band sum of the two bands to the required minimum band sum in Table 6.
 
-S7.3.6 Repeat S7.3.1-S7.3.5 using any other constant vehicle speed equal to or greater than 10 km/h but less than 20 km/h.
+S7.3.6 The procedures in S7.3.1 through S7.3.5 may be repeated for any pass-by test speed greater than 0 km/h and less than 20 km/h. For test speeds greater than 0 km/h and less than 10 km/h, the minimum sound level requirements are contained in S5.1.1, Table 1, for four-band compliance and in S5.2, Table 6, for two-band compliance. For test speeds greater than or equal to 10 km/h and less than 20 km/h, the minimum sound level requirements are contained in S5.1.3, Table 3, for 4-band compliance and in S5.2, Table 6, for 2-band compliance.
 
-S7.4 *Constant speed pass-by tests at speeds greater than or equal to 20 km/h but less than 30 km/h.* Repeat the test of S7.3 at 21 km/h (±1km/h). In S7.3.6, the 21km/h (±1km/h) test speed can be replaced using any constant speed greater than or equal to 20 km/h but less than 30 km/h.
+S7.4 *Pass-by tests at speeds greater than or equal to 20 km/h and less than 30 km/h.* Repeat the procedures of S7.3 at 21 km/h ± 1 km/h. The procedures in S7.3 also may be repeated for any pass-by test speed greater than 20 km/h and less than 30 km/h. For this range of test speeds, the minimum sound level requirements are contained in S5.1.4, Table 4, for four-band compliance and in S5.2, Table 6, for two-band compliance.
 
-S7.5 *Constant speed pass-by tests at 30 km/h.* Repeat the test of S7.3 at 31 km/h (±1km/h)
+S7.5 *Pass-by tests at 30 km/h.* Repeat the procedures of S7.3 at 31 km/h ± 1 km/h. For this test speed, the minimum sound level requirements are contained in S5.1.5, Table 5, for four-band compliance and in S5.2, Table 6, for two-band compliance.
 
 S7.6 *Relative volume change.* The valid test run data selected for each critical operating scenario in S7.1 (S7.1.5(c)), S7.3 (S7.3.5(c)), S7.4 and S7.5 will be used to derive relative volume change as required in S5.4 as follows:
 
@@ -402,18 +402,18 @@ S7.6.4 Calculate the relative volume change between critical operating scenarios
 
 S8 *Prohibition on altering the sound of a vehicle subject to this standard.* No entity subject to the authority of the National Highway Traffic Safety Administration may:
 
-(a) Disable, alter, replace or modify any element of a vehicle installed as original equipment for purposes of complying with this Standard, except in connection with a repair of a vehicle malfunction related to its sound emission or to remedy a defect or non-compliance with this standard; or
+(a) Disable, alter, replace, or modify any element of a vehicle installed as original equipment for purposes of complying with this Standard, except in connection with a repair of a vehicle malfunction or to remedy a defect or non-compliance; or
 
-(b) Provide any person with any mechanism, equipment, process or device intended to disable, alter, replace or modify the sound emitting capability of a vehicle subject to this standard, except in connection with a repair of vehicle malfunction related to its sound emission or to remedy a defect or non-compliance with this standard.
+(b) Provide any person with any mechanism, equipment, process, or device intended to disable, alter, replace, or modify the sound emitting capability of a vehicle subject to this standard, except in connection with a repair of vehicle malfunction or to remedy a defect or non-compliance.
 
 S9 *Phase-in schedule.*
 
-S9.1 *Hybrid and Electric Vehicles manufactured on or after September 1, 2018, and before September 1, 2019.* For hybrid and electric vehicles to which this standard applies manufactured on or after September 1, 2018, and before September 1, 2019, except vehicles produced by small volume manufacturers, the quantity of hybrid and electric vehicles complying with this safety standard shall be not less than 50 percent of one or both of the following:
+S9.1 *Hybrid and Electric Vehicles manufactured on or after September 1, 2019, and before September 1, 2020.* For hybrid and electric vehicles to which this standard applies manufactured on and after September 1, 2019, and before September 1, 2020, except vehicles produced by small volume manufacturers, the quantity of hybrid and electric vehicles complying with this safety standard shall be not less than 50 percent of one or both of the following:
 
-(a) A manufacturer's average annual production of hybrid and electric vehicles on and after September 1, 2015, and before September 1, 2018;
+(a) A manufacturer's average annual production of hybrid and electric vehicles on and after September 1, 2016, and before September 1, 2019;
 
-(b) A manufacturer's total production of hybrid and electric vehicles on and after September 1, 2018, and before September 1, 2019.
+(b) A manufacturer's total production of hybrid and electric vehicles on and after September 1, 2019, and before September 1, 2020.
 
-S9.2 *Hybrid and Electric Vehicles manufactured on or after September 1, 2019.* All hybrid and electric vehicles to which this standard applies manufactured on or after September 1, 2019, shall comply with this safety standard.
+S9.2 *Hybrid and Electric Vehicles manufactured on or after September 1, 2020.* All hybrid and electric vehicles to which this standard applies manufactured on and after September 1, 2020, shall comply with this safety standard.
 
-[81 FR 90514, Dec. 14, 2016]
+[81 FR 90514, Dec. 14, 2016, as amended at 83 FR 8196, Feb. 26, 2018]

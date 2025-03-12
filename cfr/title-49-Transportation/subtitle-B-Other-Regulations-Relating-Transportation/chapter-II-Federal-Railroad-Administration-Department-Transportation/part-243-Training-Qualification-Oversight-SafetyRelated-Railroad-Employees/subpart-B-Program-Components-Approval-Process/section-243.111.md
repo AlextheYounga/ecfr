@@ -1,5 +1,7 @@
 ##### § 243.111 Approval of programs filed by training organizations or learning institutions. #####
 
+Link to an amendment published at 83 FR 18459, Apr. 27, 2018.
+
 (a) A training organization or learning institution that provides training services for safety-related railroad employees, including providing such training services to independent students who enroll with such training organization or learning institution and who will rely on the training services provided to qualify to become safety-related railroad employees, must submit its program to FRA for review and approval.
 
 (b) A training organization or learning institution that has provided training services to employers covered by this part before January 1, 2018, may continue to offer such training services without FRA approval until January 1, 2019. The Associate Administrator may extend this period at any time based on a written request. Such written requests for an extension of time to submit a program should contain any factors the training organization or learning institution wants the Associate Administrator to consider before approving or disapproving the extension.

@@ -30,9 +30,9 @@
 
 (2) Require a waiting period for any covered person for benefits which it provides.
 
-(3)(i) Have more than two options and a high deductible health plan (26 U.S.C. 223(c)(2)(A)) if the plan is described under 5 U.S.C. 8903(1) or (2); or
+(3)(i) Have either more than three options, or more than two options and a high deductible health plan (26 U.S.C. 223(c)(2)(A)) if the plan is described under 5 U.S.C. 8903(1), (2), (3) or (4).
 
-(ii) Have either more than three options, or more than two options and a high deductible health plan (26 U.S.C. 223(c)(2)(A)) if the plan is described under 5 U.S.C. 8903(3) or (4).
+(ii) [Reserved]
 
 (4) Have an initiation, service, enrollment, or other fee or charge in addition to the rate charged for the plan, except that a comprehensive medical plan may impose an additional charge to be paid directly by the enrollee for certain medical supplies and services, if the supplies and services on which additional charges are imposed are clearly set forth in advance and are applicable to all enrollees. This subparagraph does not apply to charges for membership in employee organizations sponsoring or underwriting plans.
 
@@ -42,4 +42,4 @@
 
 (d) Nothing in this part shall limit or prevent a health insurance plan purchased through an appropriate SHOP as determined by the Director, pursuant to section 1312(d)(3)(D) of the Patient Protection and Affordable Care Act, Public Law 111-148, as amended by the Health Care and Education Reconciliation Act, Public Law 111-152 (the Affordable Care Act or the Act), by an employee otherwise covered by 5 U.S.C. 8901(1)(B) and (C) from being considered a “health benefit plan under this chapter” for purposes of 5 U.S.C. 8905(b) and 5 U.S.C. 8906.
 
-[33 FR 12510, Sept. 4, 1968, as amended at 43 FR 52460, Nov. 13, 1978; 47 FR 14871, Apr. 6, 1982; 49 FR 48905, Dec. 17, 1984; 52 FR 10217, Mar. 31, 1987; 54 FR 52336, Dec. 21, 1989; 55 FR 9108, Mar. 12, 1990; 55 FR 22891, June 5, 1990; 69 FR 31721, June 7, 2004; 75 FR 76616, Dec. 9, 2010; 78 FR 60656, Oct. 2, 2013; 80 FR 55734, Sept. 17, 2015]
+[33 FR 12510, Sept. 4, 1968, as amended at 43 FR 52460, Nov. 13, 1978; 47 FR 14871, Apr. 6, 1982; 49 FR 48905, Dec. 17, 1984; 52 FR 10217, Mar. 31, 1987; 54 FR 52336, Dec. 21, 1989; 55 FR 9108, Mar. 12, 1990; 55 FR 22891, June 5, 1990; 69 FR 31721, June 7, 2004; 75 FR 76616, Dec. 9, 2010; 78 FR 60656, Oct. 2, 2013; 80 FR 55734, Sept. 17, 2015; 83 FR 18401, Apr. 27, 2018]

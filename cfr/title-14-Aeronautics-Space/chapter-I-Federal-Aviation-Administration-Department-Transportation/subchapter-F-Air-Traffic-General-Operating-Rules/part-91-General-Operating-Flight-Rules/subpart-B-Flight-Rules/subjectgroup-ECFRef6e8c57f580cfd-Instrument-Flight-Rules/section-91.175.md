@@ -10,7 +10,7 @@
 
 (3) The DA/DH or MDA appropriate for the aircraft equipment available and used during the approach.
 
-(c) *Operation below DA/DH or MDA.* Except as provided in § 91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless -
+(c) *Operation below DA/DH or MDA.* Except as provided in § 91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless—
 
 (1) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and for operations conducted under part 121 or part 135 unless that descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
 
@@ -38,7 +38,7 @@
 
 (x) The runway lights.
 
-(d) *Landing.* No pilot operating an aircraft, except a military aircraft of the United States, may land that aircraft when -
+(d) *Landing.* No pilot operating an aircraft, except a military aircraft of the United States, may land that aircraft when—
 
 (1) For operations conducted under § 91.176 of this part, the requirements of paragraphs (a)(3)(iii) or (b)(3)(iii), as applicable, of that section are not met; or
 
@@ -52,17 +52,19 @@
 
 (ii) Upon arrival at the missed approach point, including a DA/DH where a DA/DH is specified and its use is required, and at any time after that until touchdown.
 
+(2) Whenever an identifiable part of the airport is not distinctly visible to the pilot during a circling maneuver at or above MDA, unless the inability to see an identifiable part of the airport results only from a normal bank of the aircraft during the circling approach.
+
 (f) *Civil airport takeoff minimums.* This paragraph applies to persons operating an aircraft under part 121, 125, 129, or 135 of this chapter.
 
 (1) Unless otherwise authorized by the FAA, no pilot may takeoff from a civil airport under IFR unless the weather conditions at time of takeoff are at or above the weather minimums for IFR takeoff prescribed for that airport under part 97 of this chapter.
 
 (2) If takeoff weather minimums are not prescribed under part 97 of this chapter for a particular airport, the following weather minimums apply to takeoffs under IFR:
 
-(i) For aircraft, other than helicopters, having two engines or less - 1 statute mile visibility.
+(i) For aircraft, other than helicopters, having two engines or less—1 statute mile visibility.
 
-(ii) For aircraft having more than two engines -1/2 statute mile visibility.
+(ii) For aircraft having more than two engines—1/2 statute mile visibility.
 
-(iii) For helicopters -1/2 statute mile visibility.
+(iii) For helicopters—1/2 statute mile visibility.
 
 (3) Except as provided in paragraph (f)(4) of this section, no pilot may takeoff under IFR from a civil airport having published obstacle departure procedures (ODPs) under part 97 of this chapter for the takeoff runway to be used, unless the pilot uses such ODPs or an alternative procedure or route assigned by air traffic control.
 

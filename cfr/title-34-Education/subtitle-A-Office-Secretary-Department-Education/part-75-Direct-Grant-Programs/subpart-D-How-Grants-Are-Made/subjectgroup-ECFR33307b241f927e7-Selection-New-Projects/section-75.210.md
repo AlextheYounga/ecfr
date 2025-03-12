@@ -222,6 +222,8 @@ In determining the selection criteria to evaluate applications submitted in a gr
 
 (xiii) The extent to which the proposed project plan includes sufficient resources to conduct the project evaluation effectively.
 
+(xiv) The extent to which the methods of evaluation will provide valid and reliable performance data on relevant outcomes.
+
 (i) *Strategy to scale.* (1) The Secretary considers the applicant's strategy to scale the proposed project.
 
 (2) In determining the applicant's capacity to scale the proposed project, the Secretary considers one or more of the following factors:
@@ -238,4 +240,4 @@ In determining the selection criteria to evaluate applications submitted in a gr
 
 (vi) The extent to which the applicant identifies a specific strategy or strategies that address a particular barrier or barriers that prevented the applicant, in the past, from reaching the level of scale that is proposed in the application.
 
-(Approved by the Office of Management and Budget under control number 1875-0102)(Authority: 20 U.S.C. 1221e-3 and 3474)[62 FR 10401, Mar. 6, 1997, as amended at 78 FR 49353, Aug. 13, 2013; 80 FR 2608, Jan. 20, 2015; 82 FR 35448, July 31, 2017]
+(Approved by the Office of Management and Budget under control number 1875-0102)(Authority: 20 U.S.C. 1221e-3 and 3474)[62 FR 10401, Mar. 6, 1997, as amended at 78 FR 49353, Aug. 13, 2013; 80 FR 2608, Jan. 20, 2015; 82 FR 35448, July 31, 2017; 83 FR 18421, Apr. 27, 2018]

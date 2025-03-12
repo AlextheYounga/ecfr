@@ -1,5 +1,7 @@
 ##### § 17.94 Critical habitats. #####
 
+Link to an amendment published at 83 FR 18702, Apr. 27, 2018.
+
 (a) The areas listed in § 17.95 (fish and wildlife), § 17.96 (plants), and § 17.99 (plants on the Hawaiian Islands) and referred to in the lists at §§ 17.11 and 17.12 have been determined by the Director to be critical habitat. All Federal agencies must insure that any action authorized, funded, or carried out by them is not likely to result in the destruction or adverse modification of the constituent elements essential to the conservation of the listed species within these defined critical habitats. (See part 402 for rules concerning this prohibition; see also part 424 for rules concerning the determination of critical habitat).
 
 (b) *Maps.*

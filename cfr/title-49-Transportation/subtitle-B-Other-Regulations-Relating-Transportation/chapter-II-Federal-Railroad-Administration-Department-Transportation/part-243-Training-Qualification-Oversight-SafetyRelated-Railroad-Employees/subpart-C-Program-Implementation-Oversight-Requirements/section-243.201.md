@@ -1,5 +1,7 @@
 ##### § 243.201 Employee qualification requirements. #####
 
+Link to an amendment published at 83 FR 18459, Apr. 27, 2018.
+
 (a) Designating existing employees:
 
 (1) By no later than September 1, 2019, each employer with 400,000 total employee work hours annually or more in operation as of January 1, 2019, shall declare the designation of each of its existing safety-related railroad employees by occupational category or subcategory, and only permit designated employees to perform safety-related service in that occupational category or subcategory. The Associate Administrator may extend this period based on a written request.

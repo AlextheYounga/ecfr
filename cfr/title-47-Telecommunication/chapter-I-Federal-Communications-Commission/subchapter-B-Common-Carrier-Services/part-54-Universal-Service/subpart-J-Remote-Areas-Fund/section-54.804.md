@@ -86,7 +86,7 @@
 
 (iv) Any non-United States bank:
 
-(A) That is among the 50 largest non-U.S. banks in the world, determined on the basis of total assets as of the end of the calendar year immediately preceding the issuance of the letter of credit (determined on a U.S. dollar equivalent basis as of such date);
+(A) That is among the 100 largest non-U.S. banks in the world, determined on the basis of total assets as of the end of the calendar year immediately preceding the issuance of the letter of credit (determined on a U.S. dollar equivalent basis as of such date);
 
 (B) Has a branch office in the District of Columbia or such other branch office agreed to by the Commission;
 
@@ -101,3 +101,5 @@
 (i) Failure by a Remote Areas Fund support recipient to meet its service milestones as required by § 54.310 will trigger reporting obligations and the withholding of support as described in § 54.320(c). Failure to come into full compliance within 12 months will trigger a recovery action by the Universal Service Administrative Company. If the Remote Areas Fund recipient does not repay the requisite amount of support within six months, the Universal Service Administrative Company will be entitled to draw the entire amount of the letter of credit and may disqualify the Remote Areas Fund support recipient from the receipt of Remote Areas Fund support or additional universal service support.
 
 (ii) The default will be evidenced by a letter issued by the Chief of the Wireline Competition Bureau or the Wireless Telecommunications Bureau, or their respective designees, which letter, attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit for the entire amount of the standby letter of credit.
+
+[81 FR 44952, July 7, 2016, as amended at 83 FR 18454, Apr. 27, 2018]

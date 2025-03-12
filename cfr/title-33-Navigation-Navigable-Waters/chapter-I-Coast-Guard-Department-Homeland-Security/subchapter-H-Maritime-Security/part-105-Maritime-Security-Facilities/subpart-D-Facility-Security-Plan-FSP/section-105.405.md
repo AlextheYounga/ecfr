@@ -38,7 +38,7 @@ Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
 
 (17) Facility Security Assessment (FSA) report;
 
-(18) Facility Vulnerability and Security Measures Summary (Form CG-6025) in Appendix A to part 105; and,
+(18) Facility Vulnerability and Security Measures Summary (Form CG-6025) in appendix A to part 105; and,
 
 (19)-(20) [Reserved]
 

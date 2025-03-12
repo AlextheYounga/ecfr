@@ -1,5 +1,7 @@
 ##### § 165.918 Safety Zones; Annual events requiring safety zones in the Captain of the Port Sault Sainte Marie zone. #####
 
+Link to an amendment published at 83 FR 18417, Apr. 27, 2018.
+
 (a) *Safety zones.* The following areas are designated safety zones:
 
 (1) *Marquette Fourth of July Celebration Fireworks; Marquette, MI:*

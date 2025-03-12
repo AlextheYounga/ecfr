@@ -1,5 +1,7 @@
 ##### § 243.101 Employer program required. #####
 
+Link to an amendment published at 83 FR 18458, Apr. 27, 2018.
+
 (a)(1) Effective January 1, 2019, each employer conducting operations subject to this part with 400,000 total employee work hours annually or more shall submit, adopt, and comply with a training program for its safety-related railroad employees.
 
 (2) Effective May 1, 2020, each employer conducting operations subject to this part with less than 400,000 total employee work hours annually shall submit, adopt, and comply with a training program for its safety-related railroad employees.

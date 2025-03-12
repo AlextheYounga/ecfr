@@ -10,6 +10,6 @@
 
 (d) *Excluded providers.* (1) MCOs, PIHPs, and PAHPs may not employ or contract with providers excluded from participation in Federal health care programs under either section 1128 or section 1128A of the Act.
 
-(c) [Reserved]
+(2) [Reserved]
 
 (e) *State requirements.* Each MCO, PIHP, and PAHP must comply with any additional requirements established by the State.

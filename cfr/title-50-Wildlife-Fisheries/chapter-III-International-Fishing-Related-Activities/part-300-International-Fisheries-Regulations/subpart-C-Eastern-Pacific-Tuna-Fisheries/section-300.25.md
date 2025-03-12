@@ -1,6 +1,6 @@
 ##### § 300.25 Fisheries management. #####
 
-Link to an amendment published at 83 FR 13205, Mar. 28, 2018.Link to an amendment published at 83 FR 15509, Apr. 11, 2018.
+Link to an amendment published at 83 FR 15509, Apr. 11, 2018.
 
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on January 1 and end either on December 31 or when NMFS closes the fishery for a specific species.
 
@@ -76,7 +76,7 @@ Link to an amendment published at 83 FR 13205, Mar. 28, 2018.Link to an amendmen
 
 (ii) If greater than 425 metric tons are caught in 2017, as determined by NMFS, then the 2018 catch limit is calculated by subtracting the amount caught in 2017 from 600 metric tons.
 
-(3) In 2017 and 2018, a 25 metric ton trip limit will be in effect until NMFS anticipates that catch will be within 50 metric tons of the catch limit, after which a 2 metric ton trip limit will be in effect upon publication of a notice in the Federal Register by NMFS.
+(3) In 2018, a 1 metric ton trip limit will be in effect, except for vessels using large-mesh (14 inch or greater stretched mesh) drift gillnet gear. In 2018, a 2 metric ton trip limit will be in effect for vessels using large-mesh drift gillnet gear.
 
 (4) After NMFS determines that the catch limits under paragraphs (g)(1) and (g)(2) of this section are expected to be reached by a future date, NMFS will publish a fishing closure notice in the Federal Register announcing the effective date that targeting, retaining on board, transshipping, or landing Pacific bluefin tuna in the Convention Area shall be prohibited as described in paragraph (g)(5) of this section.
 
