@@ -1,16 +1,14 @@
 ##### 52.222-62 Paid Sick Leave Under Executive Order 13706. #####
 
-Link to an amendment published at 87 FR 4124, Jan. 26, 2022.
-
 As prescribed at 22.2110, insert the following clause:
 
-Paid Sick Leave Under Executive Order 13706 (JAN 2017)
+Paid Sick Leave Under Executive Order 13706 (JAN 2022)
 
-(a) *Definitions.* As used in this clause (in accordance with 29 CFR 13.2) -
+(a) *Definitions.* As used in this clause (in accordance with 29 CFR 13.2)—
 
 *Child, domestic partner,* and *domestic violence* have the meaning given in 29 CFR 13.2.
 
-*Employee* - (1)(i) Means any person engaged in performing work on or in connection with a contract covered by Executive Order (E.O.) 13706; and
+*Employee*—(1)(i) Means any person engaged in performing work on or in connection with a contract covered by Executive Order (E.O.) 13706; and
 
 (A) Whose wages under such contract are governed by the Service Contract Labor Standards statute (41 U.S.C. chapter 67), the Wage Rate Requirements (Construction) statute (40 U.S.C. chapter 31, subchapter IV), or the Fair Labor Standards Act (29 U.S.C. chapter 8);
 
@@ -38,7 +36,7 @@ Paid Sick Leave Under Executive Order 13706 (JAN 2017)
 
 (2) If this contract is not performed wholly within the United States, this clause only applies with respect to that part of the contract that is performed within the United States.
 
-(c) *Paid sick leave.* The Contractor shall -
+(c) *Paid sick leave.* The Contractor shall—
 
 (1) Permit each employee engaged in performing work on or in connection with this contract to earn not less than 1 hour of paid sick leave for every 30 hours worked;
 
@@ -54,7 +52,7 @@ Paid Sick Leave Under Executive Order 13706 (JAN 2017)
 
 (d) Contractors may fulfill their obligations under E.O. 13706 and 29 CFR part 13 jointly with other contractors through a multiemployer plan, or may fulfill their obligations through an individual fund, plan, or program (see 29 CFR 13.8).
 
-(e) *Withholding.* The Contracting Officer will, upon his or her own action or upon written request of an authorized representative of the Department of Labor, withhold or cause to be withheld from the Contractor under this or any other Federal contract with the same Contractor, so much of the accrued payments or advances as may be considered necessary to pay employees the full amount owed to compensate for any violation of the requirements of E.O. 13706, 29 CFR part 13, or this clause, including -
+(e) *Withholding.* The Contracting Officer will, upon his or her own action or upon written request of an authorized representative of the Department of Labor, withhold or cause to be withheld from the Contractor under this or any other Federal contract with the same Contractor, so much of the accrued payments or advances as may be considered necessary to pay employees the full amount owed to compensate for any violation of the requirements of E.O. 13706, 29 CFR part 13, or this clause, including—
 
 (1) Any pay and/or benefits denied or lost by reason of the violation;
 
@@ -118,9 +116,9 @@ Paid Sick Leave Under Executive Order 13706 (JAN 2017)
 
 (5) The Contractor shall permit authorized representatives of the Wage and Hour Division to conduct interviews with employees at the worksite during normal working hours.
 
-(6) Nothing in this contract clause limits or otherwise modifies the Contractor's recordkeeping obligations, if any, under the Service Contract Labor Standards statute, the Wage Rate Requirements (Construction) statute, the Fair Labor Standards Act, the Family and Medical Leave Act, E.O. 13658, their respective implementing regulations, or any other applicable law.
+(6) Nothing in this contract clause limits or otherwise modifies the Contractor's recordkeeping obligations, if any, under the Service Contract Labor Standards statute, the Wage Rate Requirements (Construction) statute, the Fair Labor Standards Act, the Family and Medical Leave Act, E.O. 14026, their respective implementing regulations, or any other applicable law.
 
-(j) *Interference/discrimination.* (1) The Contractor shall not in any manner interfere with an employee's accrual or use of paid sick leave as required by E.O. 13706 or 29 CFR part 13. Interference includes, but is not limited to -
+(j) *Interference/discrimination.* (1) The Contractor shall not in any manner interfere with an employee's accrual or use of paid sick leave as required by E.O. 13706 or 29 CFR part 13. Interference includes, but is not limited to—
 
 (i) Miscalculating the amount of paid sick leave an employee has accrued;
 
@@ -136,7 +134,7 @@ Paid Sick Leave Under Executive Order 13706 (JAN 2017)
 
 (vii) Making the use of paid sick leave contingent on the employee's finding a replacement worker or the fulfillment of the Contractor's operational needs.
 
-(2) The Contractor shall not discharge or in any other manner discriminate against any employee for -
+(2) The Contractor shall not discharge or in any other manner discriminate against any employee for—
 
 (i) Using, or attempting to use, paid sick leave as provided for under E.O. 13706 and 29 CFR part 13;
 
@@ -152,4 +150,4 @@ Paid Sick Leave Under Executive Order 13706 (JAN 2017)
 
 (m) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (m), in all subcontracts, regardless of dollar value, that are subject to the Service Contract Labor Standards statute or the Wage Rate Requirements (Construction) statute, and are to be performed in whole or in part in the United States.
 
-(End of clause)[81 FR 91634, Dec. 16, 2016]
+(End of clause)[81 FR 91634, Dec. 16, 2016, as amended at 87 FR 4124, Jan. 26, 2022]

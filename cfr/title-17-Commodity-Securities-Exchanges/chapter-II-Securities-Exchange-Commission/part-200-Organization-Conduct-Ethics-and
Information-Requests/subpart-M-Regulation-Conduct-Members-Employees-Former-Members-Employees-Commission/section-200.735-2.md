@@ -1,0 +1,7 @@
+##### § 200.735-2 Policy. #####
+
+(a) The Securities and Exchange Commission has been entrusted by Congress with the protection of the public interest in a highly significant area of our national economy. In view of the effect which Commission action frequently has on the general public, it is important that members, employees and special Government employees maintain unusually high standards of honesty, integrity, impartiality and conduct. They must be constantly aware of the need to avoid situations which might result either in actual or apparent misconduct or conflicts of interest and to conduct themselves in their official relationships in a manner which commands the respect and confidence of their fellow citizens.
+
+(b) For these reasons, members, employees, and special Government employees should at all times abide by the standards of ethical conduct for employees of the executive branch (codified in 5 CFR part 2635); the supplemental standards of ethical conduct for members and employees of the Securities and Exchange Commission (codified in 5 CFR part 4401); the standards of conduct set forth in this subpart; the Canons of ethics for members of the Securities and Exchange Commission (codified in subpart C of this part 200); and, in the case of a person practicing a profession as defined in 5 CFR 2636.305(b)(1), the applicable professional ethical standards.
+
+[45 FR 36064, May 29, 1980, as amended at 75 FR 42276, July 20, 2010]

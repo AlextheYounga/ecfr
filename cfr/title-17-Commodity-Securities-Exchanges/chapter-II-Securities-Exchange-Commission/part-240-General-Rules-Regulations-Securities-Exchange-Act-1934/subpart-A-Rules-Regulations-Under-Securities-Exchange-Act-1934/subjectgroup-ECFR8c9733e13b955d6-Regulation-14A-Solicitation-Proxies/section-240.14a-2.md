@@ -1,7 +1,5 @@
 ##### § 240.14a-2 Solicitations to which § 240.14a-3 to § 240.14a-15 apply. #####
 
-Link to an amendment published at 86 FR 68378, Dec. 1, 2021.
-
 Sections 240.14a-3 to 240.14a-15, except as specified, apply to every solicitation of a proxy with respect to securities registered pursuant to section 12 of the Act (15 U.S.C. 78*l*), whether or not trading in such securities has been suspended. To the extent specified below, certain of these sections also apply to roll-up transactions that do not involve an entity with securities registered pursuant to section 12 of the Act.
 
 (a) Sections 240.14a-3 to 240.14a-15 do not apply to the following:
@@ -30,7 +28,7 @@ Sections 240.14a-3 to 240.14a-15, except as specified, apply to every solicitati
 
 (iii) Identify the proposal or proposals to be acted upon by security holders.
 
-(b) Sections 240.14a-3 to 240.14a-6 (other than paragraphs 14a-6(g) and 14a-6(p)), § 240.14a-8, § 240.14a-10, and §§ 240.14a-12 to 240.14a-15 do not apply to the following:
+(b) Sections 240.14a-3 through 240.14a-6 (other than § 240.14a-6(g) and (p)), 240.14a-8, 240.14a-10, 240.14a-12 through 240.14a-15, and 240.14a-19 do not apply to the following:
 
 (1) Any solicitation by or on behalf of any person who does not, at any time during such solicitation, seek directly or indirectly, either on its own or another's behalf, the power to act as proxy for a security holder and does not furnish or otherwise request, or act on behalf of a person who furnishes or requests, a form of revocation, abstention, consent or authorization. *Provided, however,* That the exemption set forth in this paragraph shall not apply to:
 
@@ -160,4 +158,4 @@ For purposes of satisfying the requirement in paragraph (b)(9)(ii)(A) of this se
 
 (B) By any person or group of persons for the purpose of opposing a solicitation subject to this regulation by any other person or group of persons.
 
-[44 FR 68769, Nov. 29, 1979, as amended at 51 FR 42059, Nov. 20, 1986; 52 FR 21936, June 10, 1987; 57 FR 48290, Oct. 22, 1992; 59 FR 63684, Dec. 8, 1994; 65 FR 65749, Nov. 2, 2000; 70 FR 44829, Aug. 3, 2005; 72 FR 4166, Jan. 29, 2007; 73 FR 4458, Jan. 25, 2008; 73 FR 17814, Apr. 1, 2008; 75 FR 56780, Sept. 16, 2010; 85 FR 55154, Sept. 3, 2020]
+[44 FR 68769, Nov. 29, 1979, as amended at 51 FR 42059, Nov. 20, 1986; 52 FR 21936, June 10, 1987; 57 FR 48290, Oct. 22, 1992; 59 FR 63684, Dec. 8, 1994; 65 FR 65749, Nov. 2, 2000; 70 FR 44829, Aug. 3, 2005; 72 FR 4166, Jan. 29, 2007; 73 FR 4458, Jan. 25, 2008; 73 FR 17814, Apr. 1, 2008; 75 FR 56780, Sept. 16, 2010; 85 FR 55154, Sept. 3, 2020; 86 FR 68378, Dec. 1, 2021]

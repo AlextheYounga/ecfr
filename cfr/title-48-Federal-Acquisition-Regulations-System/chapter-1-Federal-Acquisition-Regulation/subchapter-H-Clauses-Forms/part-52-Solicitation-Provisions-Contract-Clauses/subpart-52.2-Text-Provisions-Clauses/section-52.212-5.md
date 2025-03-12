@@ -1,7 +1,5 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 4123, Jan. 26, 2022.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (JAN 2022)
@@ -206,9 +204,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (6) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_ (7) 52.222-55, Minimum Wages Under Executive Order 13658 (JAN 2022).
+\_\_ (7) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 
-\_\_ (8) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
+\_\_ (8) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706).
 
 \_\_ (9) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792).
 
@@ -256,9 +254,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (xvi) 52.222-54, Employment Eligibility Verification (NOV 2021) (E. O. 12989).
 
-(xvii) 52.222-55, Minimum Wages Under Executive Order 13658 (JAN 2022).
+(xvii) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 
-(xviii) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
+(xviii) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706).
 
 (xix)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
@@ -322,9 +320,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (O) 52.222-54, Employment Eligibility Verification (NOV 2021) (Executive Order 12989).
 
-(P) 52.222-55, Minimum Wages Under Executive Order 13658 (JAN 2022).
+(P) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 
-(Q) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017)(E.O. 13706).
+(Q) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022)(E.O. 13706).
 
 (R)\_\_(*1*) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 

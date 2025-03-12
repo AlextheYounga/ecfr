@@ -1,0 +1,3 @@
+##### § 200.66 Investigations. #####
+
+The power to investigate carries with it the power to defame and destroy. In determining to exercise their investigatory power, members should concern themselves only with the facts known to them and the reasonable inferences from those facts. A member should never suggest, vote for, or participate in an investigation aimed at a particular individual for reasons of animus, prejudice or vindictiveness. The requirements of the particular case alone should induce the exercise of the investigatory power, and no public pronouncement of the pendency of such an investigation should be made in the absence of reasonable evidence that the law has been violated and that the public welfare demand it.

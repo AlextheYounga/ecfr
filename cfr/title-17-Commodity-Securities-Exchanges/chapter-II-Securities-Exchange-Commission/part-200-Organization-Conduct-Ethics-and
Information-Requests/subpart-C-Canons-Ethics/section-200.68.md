@@ -1,0 +1,3 @@
+##### § 200.68 Promptness. #####
+
+Each member should promptly perform the duties with which he is charged by the statutes. The Commission should evaluate continuously its practices and procedures to assure that it promptly disposes of all matters affecting the rights of those regulated. This is particularly desirable in quasi-judicial proceedings. While avoiding arbitrary action in unreasonably or unjustly forcing matters to trial, members should endeavor to hold counsel to a proper appreciation of their duties to the public, their clients and others who are interested. Requests for continuances of matters should be determined in a manner consistent with this policy.

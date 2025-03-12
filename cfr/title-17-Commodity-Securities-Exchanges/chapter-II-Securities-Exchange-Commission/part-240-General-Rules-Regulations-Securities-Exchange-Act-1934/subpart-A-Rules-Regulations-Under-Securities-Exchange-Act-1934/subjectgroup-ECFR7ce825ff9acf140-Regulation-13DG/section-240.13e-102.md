@@ -1,6 +1,6 @@
 ##### § 240.13e-102 Schedule 13E-4F. Tender offer statement pursuant to section 13(e) (1) of the Securities Exchange Act of 1934 and § 240.13e-4 thereunder. #####
 
-Link to an amendment published at 86 FR 70255, Dec. 9, 2021.Securities and Exchange CommissionWashington, DC 20549Schedule 13E-4FIssuer Tender Offer Statement Pursuant to Section 13(e)(1) of the Securities Exchange Act of 1934[Amendment No. \_\_]
+Securities and Exchange CommissionWashington, DC 20549Schedule 13E-4FIssuer Tender Offer Statement Pursuant to Section 13(e)(1) of the Securities Exchange Act of 1934[Amendment No. \_\_\_\_]
 
 (Exact name of Issuer as specified in its charter)
 
@@ -17,20 +17,6 @@ Link to an amendment published at 86 FR 70255, Dec. 9, 2021.Securities and Excha
 (Name, address (including zip code) and telephone number (including area code) of person authorized to receive notices and communications on behalf of the person(s) filing statement)
 
 (Date tender offer first published, sent or given to securityholders)
-
-Calculation of Filing Fee \* Transaction ValuationAmount of Filing Fee
-
-\* Set forth the amount on which the filing fee is calculated and state how it was determined. See General Instruction II. C. for rules governing the calculation of the filing fee.
-
-[ ] Check box if any part of the fee is offset as provided by Rule 0-11(a)(2) and identify the filing with which the offsetting fee was previously paid. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
-
-Amount Previously Paid: \_\_\_\_
-
-Registration No.: \_\_\_\_
-
-Filing Party:
-
-Form: \_\_\_\_ Date Filed: \_\_\_\_
 
 General InstructionsI. Eligibility Requirements for Use of Schedule 13E-4F
 
@@ -52,7 +38,7 @@ C. This Schedule shall not be used if the issuer is an investment company regist
 
 II. Filing Instructions and Fees
 
-A.(1) The issuer must file this Schedule and any amendment to the Schedule (see Part I, Item 1.(b)), including all exhibits and other documents filed as part of the Schedule or amendment, in electronic format via the Commission's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system in accordance with the EDGAR rules set forth in Regulation S-T (17 CFR Part 232). For assistance with technical questions about EDGAR or to request an access code, call the EDGAR Filer Support Office at (202) 551-8900. For assistance with the EDGAR rules, call the Office of EDGAR and Information Analysis at (202) 551-3610.
+A.(1) The issuer must file this Schedule and any amendment to the Schedule (*see* Part I, Item 1.(b)), including all exhibits and other documents filed as part of the Schedule or amendment, in electronic format via the Commission's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system in accordance with the EDGAR rules set forth in Regulation S-T (17 CFR part 232). The filing fee exhibit required by paragraph (4) under “Part II—Information Not Required To Be Sent to Shareholders” must be submitted as required by Rule 408 of Regulation S-T (§ 232.408 of this chapter). For assistance with technical questions about EDGAR or to request an access code, call the EDGAR Filer Support Office at (202) 551-8900. For assistance with the EDGAR rules, call EDGAR filer support at (202) 551-8900.
 
 (2) If filing the Schedule in paper under a hardship exemption in 17 CFR 232.201 or 232.202 of Regulation S-T, or as otherwise permitted, the issuer must file with the Commission at its principal office five copies of the complete Schedule and any amendment, including exhibits and all other documents filed as a part of the Schedule or amendment. The issuer must bind, staple or otherwise compile each copy in one or more parts without stiff covers. The issuer must further bind the Schedule or amendment on the side or stitching margin in a manner that leaves the reading matter legible. The issuer must provide three additional copies of the Schedule or amendment without exhibits to the Commission.
 
@@ -80,7 +66,7 @@ B. Any cash tender or exchange offer made pursuant to this Schedule is not exemp
 
 C. The issuer's attention is directed to Regulation M (§§ 242.100 through 242.105 of this chapter), in the case of an issuer exchange offer, and to Rule 14e-5 under the Exchange Act (§ 240.14e-5), in the case of an issuer cash tender offer or issuer exchange offer. [*See* Exchange Act Release No. 29355 (June 21, 1991) containing an exemption from Rule 10b-13, the predecessor to Rule 14e-5.]
 
-Part I - Information Required To Be Sent to ShareholdersItem 1. Home Jurisdiction Documents
+Part I—Information Required To Be Sent to ShareholdersItem 1. Home Jurisdiction Documents
 
 (a) This Schedule shall be accompanied by the entire disclosure document or documents required to be delivered to holders of securities to be acquired by the issuer in the proposed transaction pursuant to the laws, regulations or policies of the Canadian jurisdiction in which the issuer is incorporated or organized, and any other Canadian federal, provincial and/or territorial law, regulation or policy relating to the terms and conditions of the offer. The Schedule need not include any documents incorporated by reference into such disclosure document(s) and not distributed to offerees pursuant to any such law, regulation or policy.
 
@@ -102,7 +88,7 @@ Note to Item 2.
 
 If the home jurisdiction document(s) are delivered through an electronic medium, the issuer may satisfy the legibility requirements for the required legends relating to type size and fonts by presenting the legend in any manner reasonably calculated to draw security holder attention to it.
 
-Part II - Information Not Required To Be Sent to Shareholders
+Part II—Information Not Required To Be Sent to Shareholders
 
 The exhibits specified below shall be filed as part of the Schedule, but are not required to be sent to shareholders unless so required pursuant to the laws, regulations or policies of Canada and/or any of its provinces or territories. Exhibits shall be lettered or numbered appropriately for convenient reference.
 
@@ -112,7 +98,148 @@ The exhibits specified below shall be filed as part of the Schedule, but are not
 
 (3) If any name is signed to the Schedule pursuant to power of attorney, manually signed copies of any such power of attorney shall be filed. If the name of any officer signing on behalf of the issuer is signed pursuant to a power of attorney, certified copies of a resolution of the issuer's board of directors authorizing such signature also shall be filed.
 
-Part III - Undertakings and Consent to Service of Process1. Undertakings
+(4) File the following information: The transaction valuation, fee rate, amount of filing fee and, as applicable, information relating to reliance on § 240.0-11(a)(2) in the tabular form indicated.
+
+Calculation of Filing Fee Tables
+
+|                           |Transaction valuation|Fee rate|Amount of  <br/>filing fee|
+|---------------------------|---------------------|--------|--------------------------|
+|      Fees to Be Paid      |          X          |   X    |            X             |
+|   Fees Previously Paid    |          X          |        |            X             |
+|Total Transaction Valuation|          X          |        |                          |
+| Total Fees Due for Filing |                     |        |            X             |
+|Total Fees Previously Paid |                     |        |            X             |
+|     Total Fee Offsets     |                     |        |            X             |
+|        Net Fee Due        |                     |        |            X             |
+
+|                  |Registrant  <br/>or filer  <br/>name|Form  <br/>or  <br/>filing  <br/>type|File  <br/>number|Initial  <br/>filing  <br/>date|Filing  <br/>date|Fee offset  <br/>claimed|Fee paid  <br/>with fee  <br/>offset  <br/>source|
+|------------------|------------------------------------|-------------------------------------|-----------------|-------------------------------|-----------------|------------------------|-------------------------------------------------|
+|Fee Offset Claims |                                    |                  X                  |        X        |               X               |                 |           X            |                                                 |
+|Fee Offset Sources|                 X                  |                  X                  |        X        |                               |        X        |                        |                        X                        |
+
+*Instructions to the Calculation of Filing Fee Tables and Related Disclosure (“Instructions”):*
+
+1. General Requirements.
+
+A. Applicable Table Requirements.
+
+The “X” designation indicates the information required to be disclosed, as applicable, in tabular format. Add as many rows of each table as necessary.
+
+B. Fee Rate.
+
+For the current fee rate, *see https://www.sec.gov/ofm/Article/feeamt.html.*
+
+C. Additional Filing Fee Provisions.
+
+*See* General Instructions II.C and D of this Schedule for additional provisions regarding filing fees.
+
+D. Explanations.
+
+If not otherwise explained in response to these instructions, disclose specific details relating to the fee calculation as necessary to clarify the information presented in each table, including references to the applicable provisions of Rule 0-11 (§ 240.0-11 of this chapter). All disclosure these Instructions require that is not specifically required to be presented in tabular format must appear in narrative format immediately after the table(s) to which it corresponds.
+
+2. Table 1: Transaction Valuation Table and Related Disclosure.
+
+A. Fees to Be Paid and Fees Previously Paid.
+
+i. Fees to Be Paid.
+
+Provide the information Table 1 requires for the line item “Fees to Be Paid” as follows:
+
+a. Initial Filings.
+
+For an initial filing on this schedule, provide the required information for the total transaction valuation.
+
+b. Amendments with Then-Current Total Transaction Valuation Higher than Highest Total Transaction Valuation Previously Reported.
+
+For amendments to this schedule that reflect a then-current total transaction valuation higher than the highest total transaction valuation previously reported, provide the required information for the incremental increase.
+
+ii. Fees Previously Paid.
+
+Provide the information Table 1 requires for the line item “Fees Previously Paid” for the prior initial filing or amendment to this schedule that reflected a then-current total transaction valuation that was the highest total transaction valuation previously reported.
+
+B. Other Tabular Information.
+
+Provide the following information in the table for the line items “Fees to be Paid” and “Fees Previously Paid”, as applicable:
+
+i. The transaction valuation computed pursuant to Exchange Act Rule 0-11;
+
+ii. The fee rate; and
+
+iii. The filing fee due without regard to any previous payments or offsets.
+
+C. Totals.
+
+i. Total Transaction Valuation.
+
+Provide the sum of the transaction valuations for the line items “Fees to be Paid” and “Fees Previously Paid”.
+
+ii. Total Fees Due for Filing.
+
+Provide the sum of the fees due without regard to any previous payments or offsets for the line items “Fees to be Paid” and “Fees Previously Paid.”
+
+iii. Total Fees Previously Paid.
+
+Provide the aggregate of filing fees previously paid with this filing.
+
+iv. Total Fee Offsets.
+
+Provide the aggregate of the fee offsets that are claimed in Table 2 pursuant to Instruction 3.
+
+v. Net Fee Due.
+
+Provide the difference between (a) the total fees due for this tender offer statement from the Total Fees Due for Filing row; and (b) the sum of (i) the aggregate of filing fees previously paid from the Total Fees Previously Paid row; and (ii) the aggregate fee offsets claimed from the Total Fee Offsets row.
+
+D. Narrative Disclosure
+
+Explain how the transaction valuation was determined.
+
+3. Table 2: Fee Offset Claims and Sources.
+
+A. Terminology.
+
+For purposes of this Instruction 3 and Table 2, the term “submission” means any (i) initial filing of, or amendment (pre-effective or post-effective), to a fee-bearing document; or (ii) fee-bearing form of prospectus filed under Rule 424 under the Securities Act (§ 230.424 of this chapter), in all cases that was accompanied by a contemporaneous fee payment. For purposes of these instructions to Table 2, a contemporaneous fee payment is the payment of a required fee that is satisfied through the actual transfer of funds, and does not include any amount of a required fee satisfied through a claimed fee offset. Instruction 3.B.ii requires a filer that claims a fee offset under Rule 0-11(a)(2) to identify previous submissions with contemporaneous fee payments that are the original source to which the fee offsets claimed on this filing can be traced. *See* Instruction 3.C for an example.
+
+B. Rule 0-11(a)(2).
+
+If relying on Rule 0-11(a)(2) to offset some or all of the filing fee due on this tender offer statement by amounts paid in connection with earlier filings (other than this Schedule 13E-4F) relating to the same transaction, provide the following information:
+
+i. Fee Offset Claims.
+
+For each earlier filed Securities Act registration statement or Exchange Act document relating to the same transaction from which a fee offset is being claimed, provide the information that Table 2 requires for the line item “Fee Offset Claims”. The “Fee Offset Claimed” column requires the dollar amount of the previously paid filing fee to be offset against the currently due fee.
+
+Note to Instruction 3.B.i.
+
+If claiming an offset from a Securities Act registration statement, provide a detailed explanation of the basis for the claimed offset.
+
+ii. Fee Offset Sources.
+
+With respect to amounts claimed as an offset under Rule 0-11(a)(2), identify those submissions with contemporaneous fee payments that are the original source to which those amounts can be traced. For each submission identified, provide the information that Table 2 requires for the line item “Fee Offset Sources”. The “Fee Paid with Fee Offset Source” column requires the dollar amount of the contemporaneous fee payment made with respect to each identified submission that is the source of the fee offset claimed pursuant to Rule 0-11(a)(2).
+
+C. Fee Offset Source Submission Identification Example.
+
+A filer:
+
+• Initially files a registration statement on Form S-1 on 1/15/20X1 (assigned file number 333-123456) with a fee payment of $10,000;
+
+• Files pre-effective amendment number 1 to the Form S-1 (333-123456) on 2/15/20X1 with a fee payment of $15,000 and the registration statement goes effective on 2/20/20X1;
+
+• Initially files a registration statement on Form S-1 on 1/15/20X4 (assigned file number 333-123467) with a fee payment of $25,000 and relies on Rule 457(p) to claim an offset of $10,000 related to the unsold securities registered on the previously filed Form S-1 (333-123456) and apply it to the $35,000 filing fee due and the registration statement goes effective on 2/15/20X4.
+
+• Initially files a registration statement related to a tender offer on Form S-4 (assigned file number 333-123478) on 1/15/20X7 with a fee payment of $15,000 and relies on Rule 457(p) to claim an offset of $30,000 related to the unsold securities registered on the most recently effective Form S-1 (333-123467) filed on 1/15/20X4 and apply it to the $45,000 filing fee due.
+
+• Initially files a Schedule TO related to the same tender offer on 1/22/20X7 and relies on Rule 0-11(a)(2) to claim an offset of $45,000 from the fee paid directly and by offset claimed on the Form S-4 (333-123478) filed 1/15/20X7 and apply it to the $45,000 filing fee due.
+
+For the Schedule TO filed on 1/22/20X7, the filer can satisfy the submission identification requirement when it claims the $45,000 fee offset from the Form S-4 (333-123478) filed on 1/15/20X7 by referencing any combination of the Form S-4 (333-123478) filed on 1/15/20X7, the Form S-1 (333-123467) filed on 1/15/20X4, the pre-effective amendment to the Form S-1 (333-123456) filed on 2/15/20X1 or the initial filing of the Form S-1 (333-123456) on 1/15/20X1 in relation to which contemporaneous fee payments were made equal to $45,000. One example could be:
+
+• The Form S-4 (333-123478) filed on 1/15/20X7 in relation to the payment of $15,000 made with that submission;
+
+• the Form S-1 (333-123467) filed on 1/15/20X4 in relation to the payment of $25,000 made with that submission; and
+
+• the pre-effective amendment to the Form S-1 (333-123456) filed on 2/15/20X1 in relation to the payment of $5,000 out of the payment of $15,000 made with that submission (it would not matter if the filer cited to this pre-effective amendment and/or the initial submission of this Form S-1 (333-123456) on 1/15/20X1 as long as singly or together they were cited as relating to a total of $5,000 in this example).
+
+In this example, the filer could not satisfy the submission identification requirement solely by citing to the Form S-4 (333-123478) filed on 1/15/20X7 because even though the offset claimed and available from that filing was $45,000, the contemporaneous fee payment made with that filing ($15,000) was less than the offset being claimed. As a result, the filer must also identify a prior submission or submissions with an aggregate of contemporaneous fee payment(s) of $30,000 as the original source(s) to which the rest of the claimed offset can be traced.
+
+Part III—Undertakings and Consent to Service of Process1. Undertakings
 
 The Schedule shall set forth the following undertakings of the issuer:
 
@@ -126,7 +253,7 @@ The Schedule shall set forth the following undertakings of the issuer:
 
 (b) Any change to the name or address of a registrant's agent for service shall be communicated promptly to the Commission by amendment to Form F-X referencing the file number of the registrant.
 
-Part IV - Signatures
+Part IV—Signatures
 
 A. The Schedule shall be signed by each person on whose behalf the Schedule is filed or its authorized representative. If the Schedule is signed on behalf of a person by his authorized representative (other than an executive officer or general partner of the company), evidence of the representative's authority shall be filed with the Schedule.
 
@@ -142,4 +269,4 @@ After due inquiry and to the best of my knowledge and belief, I certify that the
 
 (Date)
 
-[56 FR 30069, July 1, 1991, as amended at 61 FR 24656, May 15, 1996; 62 FR 544, Jan. 3, 1997; 67 FR 36705, May 24, 2002; 73 FR 17814, Apr. 1, 2008]
+[56 FR 30069, July 1, 1991, as amended at 61 FR 24656, May 15, 1996; 62 FR 544, Jan. 3, 1997; 67 FR 36705, May 24, 2002; 73 FR 17814, Apr. 1, 2008; 86 FR 70255, Dec. 9, 2021]

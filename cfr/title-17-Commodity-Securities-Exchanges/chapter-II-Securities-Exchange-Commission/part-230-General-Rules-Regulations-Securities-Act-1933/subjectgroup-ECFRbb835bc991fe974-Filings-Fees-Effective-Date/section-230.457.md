@@ -1,7 +1,5 @@
 ##### § 230.457 Computation of fee. #####
 
-Link to an amendment published at 86 FR 70199, Dec. 9, 2021.
-
 (a) If a filing fee based on a bona fide estimate of the maximum offering price, computed in accordance with this rule where applicable, has been paid, no additional filing fee shall be required as a result of changes in the proposed offering price. If the number of shares or other units of securities, or the principal amount of debt securities to be offered is increased by an amendment filed prior to the effective date of the registration statement, an additional filing fee, computed on the basis of the offering price of the additional securities, shall be paid. There will be no refund once the statement is filed.
 
 (b) A required fee shall be reduced in an amount equal to any fee paid with respect to such transaction pursuant to sections 13(e) and 14(g) of the Securities Exchange Act of 1934 or any applicable provision of this section; the fee requirements under sections 13(e) and 14(g) shall be reduced in an amount equal to the fee paid the Commission with respect to a transaction under this section. No part of a filing fee is refundable.
@@ -46,7 +44,21 @@ Link to an amendment published at 86 FR 70199, Dec. 9, 2021.
 
 (o) Where an issuer registers an offering of securities, the registration fee may be calculated on the basis of the maximum aggregate offering price of all the securities listed in the “Calculation of Registration Fee” table. The number of shares or units of securities need not be included in the “Calculation of Registration Fee” Table. If the maximum aggregate offering price increases prior to the effective date of the registration statement, a pre-effective amendment must be filed to increase the maximum dollar value being registered and the additional filing fee shall be paid.
 
-(p) Where all or a portion of the securities offered under a registration statement remain unsold after the offering's completion or termination, or withdrawal of the registration statement, the aggregate total dollar amount of the filing fee associated with those unsold securities (whether computed under § 230.457(a) or (o)) may be offset against the total filing fee due for a subsequent registration statement or registration statements. The subsequent registration statement(s) must be filed within five years of the initial filing date of the earlier registration statement, and must be filed by the same registrant (including a successor within the meaning of § 230.405), a majority-owned subsidiary of that registrant, or a parent that owns more than 50 percent of the registrant's outstanding voting securities. A note should be added to the “Calculation of Registration Fee” table in the subsequent registration statement(s) stating the dollar amount of the filing fee previously paid that is offset against the currently due filing fee, the file number of the earlier registration statement from which the filing fee is offset, and the name of the registrant and the initial filing date of that earlier registration statement.
+(p) Where all or a portion of the securities offered under a registration statement remain unsold after the offering's completion or termination, or withdrawal of the registration statement, the aggregate total dollar amount of the filing fee associated with those unsold securities (whether computed under paragraph (a) or (o) of this section) may be offset against the total filing fee due for a subsequent registration statement or registration statements. The subsequent registration statement(s) must be filed within five years of the initial filing date of the earlier registration statement, and must be filed by the same registrant (including a successor within the meaning of § 230.405), a majority-owned subsidiary of that registrant, or a parent that owns more than 50 percent of the registrant's outstanding voting securities. A note should be added to the “Calculation of Registration Fee” table in the subsequent registration statement(s) providing the following information unless expressly required in another part of the registration statement:
+
+(1) The dollar amount of the previously paid filing fee to be offset against the currently due filing fee;
+
+(2) The amount of unsold securities or unsold aggregate offering amount from the prior registration statement associated with the claimed offset;
+
+(3) The file number of, and the name of the registrant that filed, the earlier registration statement from which the filing fee is offset;
+
+(4) The initial filing date of the earlier registration statement; and
+
+(5) A statement that the registrant has:
+
+(i) Withdrawn the prior registration statement; or
+
+(ii) Terminated or completed any offering that included the unsold securities associated with the claimed offset under the prior registration statement.
 
 (q) Notwithstanding any other provisions of this section, no filing fee is required for the registration of an indeterminate amount of securities to be offered solely for market-making purposes by an affiliate of the registrant.
 
@@ -70,4 +82,4 @@ Link to an amendment published at 86 FR 70199, Dec. 9, 2021.
 
 (4) The registration fee is calculated by multiplying the net sales amount by the fee payment rate in effect on the date of the fee payment. If the issuer determines that it had net redemptions or repurchases for the fiscal year, no registration fee is due.
 
-[47 FR 11442, Mar. 16, 1982, as amended at 48 FR 12347, Mar. 24, 1983; 51 FR 2475, Jan. 17, 1986; 55 FR 23924, June 13, 1990; 57 FR 48976, Oct. 29, 1992; 59 FR 21650, Apr. 26, 1994; 60 FR 26617, May 17, 1995; 66 FR 8896, Feb. 5, 2001; 70 FR 44818, Aug. 3, 2005; 79 FR 57331, Sept. 24, 2014; 86 FR 33356, June 1, 2020]
+[47 FR 11442, Mar. 16, 1982, as amended at 48 FR 12347, Mar. 24, 1983; 51 FR 2475, Jan. 17, 1986; 55 FR 23924, June 13, 1990; 57 FR 48976, Oct. 29, 1992; 59 FR 21650, Apr. 26, 1994; 60 FR 26617, May 17, 1995; 66 FR 8896, Feb. 5, 2001; 70 FR 44818, Aug. 3, 2005; 79 FR 57331, Sept. 24, 2014; 86 FR 33356, June 1, 2020; 87 FR 70199, Dec. 9, 2021]

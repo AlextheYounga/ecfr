@@ -1,7 +1,5 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 86 FR 70198, Dec. 9, 2021.
-
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-23(c) (§ 240.12b-23(c) of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table must be filed as indicated, as part of the registration statement or report.
 
 (2) Each registration statement or report shall contain an exhibit index, which must appear before the required signatures in the registration statement or report. For convenient reference, each exhibit shall be listed in the exhibit index according to the number assigned to it in the exhibit table. If an exhibit is incorporated by reference, this must be noted in the exhibit index. Each exhibit identified in the exhibit index (other than an exhibit filed in eXtensible Business Reporting Language or an exhibit that is filed with Form ABS-EE) must include an active link to an exhibit that is filed with the registration statement or report or, if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR. If a registration statement or report is amended, each amendment must include hyperlinks to the exhibits required with the amendment. For a description of each of the exhibits included in the exhibit table, see paragraph (b) of this section.
@@ -82,6 +80,7 @@ Exhibit Table
 |                                                  (104) Cover Page Interactive Data File                                                  |                    |                  |    |               |   |    |   |   |               |   |               |      X       |              |      X       |      X       |   |
 |                                                             (105) [Reserved]                                                             |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                          (106) Static Pool PDF                                                           |                    |                  | X  |       X       |   |    |   |   |               |   |               |      X       |              |              |              |   |
+|                                                          (107) Filing Fee Table                                                          |         X          |        X         | X  |       X       | X | X  | X | X |       X       | X |               |              |              |              |              |   |
 
 <sup>1</sup> An exhibit need not be provided about a company if: (1) With respect to such company an election has been made under Form S-4 or F-4 to provide information about such company at a level prescribed by Form S-3 or F-3; and (2) the form, the level of which has been elected under Form S-4 or F-4, would not require such company to provide such exhibit if it were registering a primary offering.
 
@@ -635,5 +634,7 @@ Instruction 1 to paragraphs (b)(101)(i) and (ii): When an Interactive Data File 
 (105) [Reserved]
 
 (106) *Static pool.* If not included in the prospectus filed in accordance with § 230.424(b)(2) or (5) and (h) of this chapter, static pool disclosure as required by § 229.1105.
+
+(107) *Filing fee table.* The filing fee table and related disclosure required by Item 16.(c) of Form S-1 (§ 239.11 of this chapter), Item 16.(b) of Form S-3 (§ 239.13 of this chapter), Item 8.(b) of Form S-8 (§ 239.16b of this chapter), Item 36.(c) of Form S-11 (§ 239.18 of this chapter), Item 21.(d) of Form S-4 (§ 239.25 of this chapter), Item 8.c of Form F-1 (§ 239.31 of this chapter), Item 9.(b) of Form F-3 (§ 239.33 of this chapter), Item 21.(d) of Form F-4 (§ 239.34 of this chapter), Item 14.(b) of Form SF-1 (§ 239.44 of this chapter), and Item 14.(b) of Form SF-3 (§ 239.45 of this chapter). This exhibit must be submitted as required by § 232.408 of this chapter (Rule 408 of Regulation S-T), provided, however, that if the exhibit is submitted pursuant to Item 14(b) of Form SF-1 (§ 239.44 of this chapter) or Item 14(b) of Form SF-3 (§ 239.45 of this chapter), it is permitted but not required to be submitted as otherwise required by Rule 408.
 
 [47 FR 11401, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 229.601, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

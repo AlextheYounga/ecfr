@@ -1,6 +1,10 @@
 ##### § 240.14a-101 Schedule 14A. Information required in proxy statement. #####
 
-Link to an amendment published at 86 FR 68381, Dec. 1, 2021.Link to an amendment published at 86 FR 70257, Dec. 9, 2021.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)Payment of Filing Fee (Check the appropriate box): [ ] No fee required [ ] Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11 (1) Title of each class of securities to which transaction applies:(2) Aggregate number of securities to which transaction applies:(3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):(4) Proposed maximum aggregate value of transaction:(5) Total fee paid:[ ] Fee paid previously with preliminary materials. [ ] Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. (1) Amount Previously Paid:(2) Form, Schedule or Registration Statement No.:(3) Filing Party:(4) Date Filed:Notes
+Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+Payment of Filing Fee (Check all boxes that apply):
+
+[ ] No fee required[ ] Fee paid previously with preliminary materials[ ] Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11Notes
 
 Notes: A. Where any item calls for information with respect to any matter to be acted upon and such matter involves other matters with respect to which information is called for by other items of this schedule, the information called for by such other items also shall be given. For example, where a solicitation of security holders is for the purpose of approving the authorization of additional securities which are to be used to acquire another specified company, and the registrants' security holders will not have a separate opportunity to vote upon the transaction, the solicitation to authorize the securities is also a solicitation with respect to the acquisition. Under those facts, information required by Items 11, 13 and 14 shall be furnished.
 
@@ -76,9 +80,9 @@ E. In Item 13 of this Schedule, the reference to “meets the requirement of For
 
 (a) The terms “participant” and “participant in a solicitation” include the following:
 
-(i) The registrant;
+(i) In the case of a solicitation made on behalf of the registrant, the registrant, each director of the registrant and each of the registrant's nominees for election as a director;
 
-(ii) Any director of the registrant, and any nominee for whose election as a director proxies are solicited;
+(ii) In the case of a solicitation made otherwise than on behalf of the registrant, each of the soliciting person's nominees for election as a director;
 
 (iii) Any committee or group which solicits proxies, any member of such committee or group, and any person whether or not named as a member who, acting alone or with one or more other persons, directly or indirectly takes the initiative, or engages, in organizing, directing, or arranging for the financing of any such committee or group;
 
@@ -182,11 +186,13 @@ For purposes of this Item 5, beneficial ownership shall be determined in accorda
 
 (d) If a registrant is required to include a shareholder nominee or nominees submitted to the registrant for inclusion in the registrant's proxy materials pursuant to a procedure set forth under applicable state or foreign law, or the registrant's governing documents providing for the inclusion of shareholder director nominees in the registrant's proxy materials, the registrant must include in its proxy statement the disclosure required from the nominating shareholder or nominating shareholder group under Item 6 of § 240.14n-101 with regard to the nominee or nominees and the nominating shareholder or nominating shareholder group.
 
+(e) In lieu of the information required by this Item 7, investment companies registered under the Investment Company Act of 1940 (15 U.S.C. 80a) must furnish the information required by Item 22(b) of this Schedule 14A.
+
+(f) If a person is conducting a solicitation that is subject to § 240.14a-19, the registrant must include in its proxy statement a statement directing shareholders to refer to any other soliciting person's proxy statement for information required by Item 7 of this Schedule 14A with regard to such person's nominee or nominees and a soliciting person other than the registrant must include in its proxy statement a statement directing shareholders to refer to the registrant's or other soliciting person's proxy statement for information required by Item 7 of this Schedule 14A with regard to the registrant's or other soliciting person's nominee or nominees. The statement must explain to shareholders that they can access the other soliciting person's proxy statement, and any other relevant documents, without cost on the Commission's website.
+
 Instruction to Item 7.
 
 The information disclosed pursuant to paragraphs (c) and (d) of this Item 7 will not be deemed incorporated by reference into any filing under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), or the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), except to the extent that the registrant specifically incorporates that information by reference.
-
-(e) In lieu of the information required by this Item 7, investment companies registered under the Investment Company Act of 1940 (15 U.S.C. 80a) must furnish the information required by Item 22(b) of this Schedule 14A.
 
 *Item 8. Compensation of directors and executive officers.* Furnish the information required by Item 402 of Regulation S-K (§ 229.402 of this chapter) and paragraphs (e)(4) and (e)(5) of Item 407 of Regulation S-K (§ 229.407(e)(4) and (e)(5) of this chapter) if action is to be taken with regard to:
 
@@ -546,7 +552,9 @@ Unless registered on a national securities exchange or otherwise required to fur
 
 (a) State the vote required for approval or election, other than for the approval of auditors.
 
-(b) Disclose the method by which votes will be counted, including the treatment and effect of abstentions and broker non-votes under applicable state law as well as registrant charter and by-law provisions.
+(b) Disclose the method by which votes will be counted, including the treatment and effect under applicable state law and registrant charter and bylaw provisions of abstentions, broker non-votes, and, to the extent applicable, a security holder's withholding of authority to vote for a nominee in an election of directors.
+
+(c) When applicable, disclose how the soliciting person intends to treat proxy authority granted in favor of any other soliciting person's nominees if such other soliciting person abandons its solicitation or fails to comply with § 240.14a-19.
 
 *Item 22. Information required in investment company proxy statement.* (a) *General.*
 
@@ -1038,6 +1046,155 @@ The information disclosed pursuant to paragraph (b)(19) of this Item will not be
 
 *Item 24. Shareholder Approval of Executive Compensation.* Registrants required to provide any of the separate shareholder votes pursuant to § 240.14a-21 of this chapter shall disclose that they are providing each such vote as required pursuant to section 14A of the Securities Exchange Act (15 U.S.C. 78n-1), briefly explain the general effect of each vote, such as whether each such vote is non-binding, and, when applicable, disclose the current frequency of shareholder advisory votes on executive compensation required by Rule 14a-21(a) and when the next such shareholder advisory vote will occur.
 
-*Item 25. Exhibits.* Provide the legal opinion required to be filed by Item 402(u)(4)(i) of Regulation S-K (17 CFR 229.402(u)) in an exhibit to this Schedule 14A.
+*Item 25. Exhibits.* Provide each of the following in an exhibit to this Schedule 14A:
+
+(a) The legal opinion required to be filed by Item 402(u)(4)(i) of Regulation S-K (17 CFR 229.402(u)); and
+
+(b) If a fee is required, the title of each class of securities to which the transaction applies, aggregate number of securities to which the transaction applies, per unit price or other underlying value of the transaction computed pursuant to § 240.0-11, proposed maximum aggregate value of the transaction, fee rate, amount of filing fee and, as applicable, information relating to reliance on § 240.0-11(a)(2) in the tabular form indicated.
+
+Registered funds that must pay registration fees using Form 24F-2 (§ 274.24) are not required to respond to this Item.
+
+Calculation of Filing Fee Tables
+
+Table 1 - Transaction Valuation
+
+|                           |Proposed  <br/>maximum  <br/>aggregate  <br/>value of  <br/>transaction|Fee rate|Amount of  <br/>filing fee|
+|---------------------------|-----------------------------------------------------------------------|--------|--------------------------|
+|      Fees to Be Paid      |                                   X                                   |   X    |            X             |
+|   Fees Previously Paid    |                                   X                                   |        |            X             |
+|Total Transaction Valuation|                                   X                                   |        |                          |
+| Total Fees Due for Filing |                                                                       |        |            X             |
+|Total Fees Previously Paid |                                                                       |        |            X             |
+|     Total Fee Offsets     |                                                                       |        |            X             |
+|        Net Fee Due        |                                                                       |        |            X             |
+
+Table 2 - Fee Offset Claims and Sources
+
+|                  |Registrant or filer name|Form or  <br/>filing type|File number|Initial filing date|Filing date|Fee offset claimed|Fee paid with fee  <br/>offset source|
+|------------------|------------------------|-------------------------|-----------|-------------------|-----------|------------------|-------------------------------------|
+|Fee Offset Claims |                        |            X            |     X     |         X         |           |        X         |                                     |
+|Fee Offset Sources|           X            |            X            |     X     |                   |     X     |                  |                  X                  |
+
+*Instructions to the Calculation of Filing Fee Tables and Related Disclosure (“Instructions”):*
+
+1. General Requirements.
+
+A. Applicable Table Requirements.
+
+The “X” designation indicates the information required to be disclosed, as applicable, in tabular format. Add as many rows of each table as necessary.
+
+B. Fee Rate.
+
+For the current fee rate, *see https://www.sec.gov/ofm/Article/feeamt.html.*
+
+C. Explanations.
+
+Disclose the (i) title of each class of securities to which the transaction applies; (ii) aggregate number of securities to which the transaction apples; and (iii) per unit price or other underlying value of the transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined). If not otherwise explained in response to these instructions, disclose specific details relating to the fee calculation as necessary to clarify the information presented in each table, including references to the applicable provisions of Rule 0-11 (§ 240.0-11 of this chapter). All disclosure these Instructions require that is not specifically required to be presented in tabular format must appear in narrative format immediately after the table(s) to which it corresponds.
+
+D. Submission Method.
+
+If a filing fee exhibit is required to be provided pursuant to this Item 25(b), it must be submitted as required by Rule 408 of Regulation S-T (§ 232.408 of this chapter).
+
+2. Table 1: Transaction Valuation Table and Related Disclosure.
+
+A. Fees to Be Paid and Fees Previously Paid.
+
+i. Fees to Be Paid.
+
+Provide the information Table 1 requires for the line item “Fees to Be Paid” as follows:
+
+c. Initial Filings.
+
+For an initial filing on this schedule, provide the required information for the total transaction valuation.
+
+d. Amendments with Then-Current Total Transaction Valuation Higher than Highest Total Transaction Valuation Previously Reported.
+
+For amendments to this schedule that reflect a then-current total transaction valuation higher than the highest total transaction valuation previously reported, provide the required information for the incremental increase.
+
+ii. Fees Previously Paid.
+
+Provide the information Table 1 requires for the line item “Fees Previously Paid” for the prior initial filing or amendment to this schedule that reflected a then-current total transaction valuation that was the highest total transaction valuation previously reported.
+
+B. Other Tabular Information.
+
+Provide the following information in the table for the line items “Fees to be Paid” and “Fees Previously Paid”, as applicable:
+
+i. The proposed maximum aggregate value of the transaction computed pursuant to Exchange Act Rule 0-11;
+
+ii. The fee rate; and
+
+iii. The filing fee due without regard to any previous payments or offsets.
+
+C. Totals.
+
+i. Total Transaction Valuation.
+
+Provide the sum of the proposed maximum aggregate values for the line items “Fees to Be Paid” and “Fees Previously Paid”.
+
+ii. Total Fees Due for Filing.
+
+Provide the sum of the fees due without regard to any previous payments or offsets for the line items “Fees to be Paid” and “Fees Previously Paid.”
+
+iii. Total Fees Previously Paid.
+
+Provide the aggregate of filing fees previously paid with this filing.
+
+iv. Total Fee Offsets.
+
+Provide the aggregate of the fee offsets that are claimed in Table 2 pursuant to Instruction 3.
+
+v. Net Fee Due.
+
+Provide the difference between (a) the total fees due for this schedule from the Total Fees Due for Filing row; and (b) the sum of (i) the aggregate of filing fees previously paid from the Total Fees Previously Paid row; and (ii) the aggregate fee offsets claimed from the Total Fee Offsets row.
+
+D. Narrative Disclosure.
+
+Explain how the transaction valuation was determined.
+
+3. Table 2: Fee Offset Claims and Sources.
+
+A. Terminology.
+
+For purposes of this Instruction 3 and Table 2, the term “submission” means any (i) initial filing of, or amendment (pre-effective or post-effective), to a fee-bearing document; or (ii) fee-bearing form of prospectus filed under Rule 424 under the Securities Act (§ 230.424 of this chapter), in all cases that was accompanied by a contemporaneous fee payment. For purposes of these instructions to Table 2, a contemporaneous fee payment is the payment of a required fee that is satisfied through the actual transfer of funds, and does not include any amount of a required fee satisfied through a claimed fee offset. Instruction 3.B.ii requires a filer that claims a fee offset under Rule 0-11(a)(2) to identify previous submissions with contemporaneous fee payments that are the original source to which the fee offsets claimed on this filing can be traced. *See* Instruction 3.C for an example.
+
+B. Rule 0-11(a)(2).
+
+If relying on Rule 0-11(a)(2) to offset some or all of the filing fee due on this schedule by amounts paid in connection with earlier filings (other than this Schedule 14A) relating to the same transaction, provide the following information:
+
+i. Fee Offset Claims.
+
+For each earlier filed Securities Act registration statement or Exchange Act document relating to the same transaction from which a fee offset is being claimed, provide the information that Table 2 requires for the line item “Fee Offset Claims”. The “Fee Offset Claimed” column requires the dollar amount of the previously paid filing fee to be offset against the currently due fee.
+
+Note to Instruction 3.B.i.
+
+If claiming an offset from a Securities Act registration statement, provide a detailed explanation of the basis for the claimed offset.
+
+ii. Fee Offset Sources.
+
+With respect to amounts claimed as an offset under Rule 0-11(a)(2), identify those submissions with contemporaneous fee payments that are the original source to which those amounts can be traced. For each submission identified, provide the information that Table 2 requires for the line item “Fee Offset Sources”. The “Fee Paid with Fee Offset Source” column requires the dollar amount of the contemporaneous fee payment made with respect to each identified submission that is the source of the fee offset claimed pursuant to Rule 0-11(a)(2).
+
+C. Fee Offset Source Submission Identification Example.
+
+A filer:
+
+• Initially files a registration statement on Form S-1 on 1/15/20X1 (assigned file number 333-123456) with a fee payment of $10,000;
+
+• Files pre-effective amendment number 1 to the Form S-1 (333-123456) on 2/15/20X1 with a fee payment of $15,000 and the registration statement goes effective on 2/20/20X1;
+
+• Initially files a registration statement on Form S-1 on 1/15/20X4 (assigned file number 333-123467) with a fee payment of $25,000 and relies on Rule 457(p) to claim an offset of $10,000 related to the unsold securities registered on the previously filed Form S-1 (333-123456) and apply it to the $35,000 filing fee due and the registration statement goes effective on 2/15/20X4.
+
+• Initially files a registration statement related to a tender offer on Form S-4 (assigned file number 333-123478) on 1/15/20X7 with a fee payment of $15,000 and relies on Rule 457(p) to claim an offset of $30,000 related to the unsold securities registered on the most recently effective Form S-1 (333-123467) filed on 1/15/20X4 and apply it to the $45,000 filing fee due.
+
+• Initially files a Schedule TO related to the same tender offer on 1/22/20X7 and relies on Rule 0-11(a)(2) to claim an offset of $45,000 from the fee paid directly and by offset claimed on the Form S-4 (333-123478) filed 1/15/20X7 and apply it to the $45,000 filing fee due.
+
+For the Schedule TO filed on 1/22/20X7, the filer can satisfy the submission identification requirement when it claims the $45,000 fee offset from the Form S-4 (333-123478) filed on 1/15/20X7 by referencing any combination of the Form S-4 (333-123478) filed on 1/15/20X7, the Form S-1 (333-123467) filed on 1/15/20X4, the pre-effective amendment to the Form S-1 (333-123456) filed on 2/15/20X1 or the initial filing of the Form S-1 (333-123456) on 1/15/20X1 in relation to which contemporaneous fee payments were made equal to $45,000. One example could be:
+
+• The Form S-4 (333-123478) filed on 1/15/20X7 in relation to the payment of $15,000 made with that submission;
+
+• the Form S-1 (333-123467) filed on 1/15/20X4 in relation to the payment of $25,000 made with that submission; and
+
+• the pre-effective amendment to the Form S-1 (333-123456) filed on 2/15/20X1 in relation to the payment of $5,000 out of the payment of $15,000 made with that submission (it would not matter if the filer cited to this pre-effective amendment and/or the initial submission of this Form S-1 (333-123456) on 1/15/20X1 as long as singly or together they were cited as relating to a total of $5,000 in this example).
+
+In this example, the filer could not satisfy the submission identification requirement solely by citing to the Form S-4 (333-123478) filed on 1/15/20X7 because even though the offset claimed and available from that filing was $45,000, the contemporaneous fee payment made with that filing ($15,000) was less than the offset being claimed. As a result, the filer must also identify a prior submission or submissions with an aggregate of contemporaneous fee payment(s) of $30,000 as the original source(s) to which the rest of the claimed offset can be traced.
 
 [51 FR 42063, Nov. 20, 1986; 51 FR 45576, Dec. 19, 1986]Editorial Note:For Federal Register citations affecting § 240.14a-101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

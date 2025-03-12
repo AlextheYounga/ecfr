@@ -1,7 +1,5 @@
 ##### § 10.4 Exclusions. #####
 
-Link to an amendment published at 86 FR 67224, Nov. 24, 2021.
-
 (a) *Grants.* The requirements of this part do not apply to grants within the meaning of the Federal Grant and Cooperative Agreement Act, as amended, 31 U.S.C. 6301 *et seq.*
 
 (b) *Contracts and agreements with and grants to Indian Tribes.* This part does not apply to contracts and agreements with and grants to Indian Tribes under the Indian Self-Determination and Education Assistance Act, as amended, 25 U.S.C. 450 *et seq.*
@@ -20,6 +18,4 @@ Link to an amendment published at 86 FR 67224, Nov. 24, 2021.
 
 (f) *FLSA-covered workers performing in connection with covered contracts for less than 20 percent of their work hours in a given workweek.* This part does not apply to FLSA-covered workers performing in connection with covered contracts, *i.e.,* those workers who perform work duties necessary to the performance of the contract but who are not directly engaged in performing the specific work called for by the contract, that spend less than 20 percent of their hours worked in a particular workweek performing in connection with such contracts. This exclusion is inapplicable to covered workers performing on covered contracts, *i.e.,* those workers directly engaged in performing the specific work called for by the contract.
 
-(g) *Contracts in connection with seasonal recreational services and seasonal recreational equipment rental offered for public use on Federal lands.* This part shall not apply to contracts or contract-like instruments entered into with the Federal Government in connection with seasonal recreational services or seasonal recreational equipment rental for the general public on Federal lands, but this exemption shall not apply to lodging and food services associated with seasonal recreational services. Seasonal recreational services include river running, hunting, fishing, horseback riding, camping, mountaineering activities, recreational ski services, and youth camps.
-
-[79 FR 60721, Oct. 7, 2014, as amended at 83 FR 48542, Sept. 26, 2018]
+[79 FR 60721, Oct. 7, 2014, as amended at 83 FR 48542, Sept. 26, 2018; 86 FR 67224, Nov. 24, 2021]

@@ -1,0 +1,5 @@
+##### § 200.23a Director of the Division of Economic and Risk Analysis and Chief Economist. #####
+
+The Director of the Division of Economic and Risk Analysis and Chief Economist serves as economic advisor to the Commission and its staff and is responsible to the Commission for sound economic analysis of market events and conditions; economic analysis in support of Commission rulemaking; economic and risk analysis to inform and support the Commission's enforcement actions and its examination program; development of financial and market data analysis tools; preparation of economic statistics; promotion of data standards; review and guidance of staff research and publications; and assisting the Commission and its staff in responding to policy, legislative, or international issues relating to securities markets.
+
+[86 FR 9443, Feb. 16, 2021]

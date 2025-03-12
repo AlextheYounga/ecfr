@@ -1,7 +1,5 @@
-##### 22.403-4 Executive Order 13658. #####
+##### 22.403-4 Executive Orders 13658 and 14026. #####
 
-Link to an amendment published at 87 FR 4121, Jan. 26, 2022.
+Executive Order (E.O.) 13658 established minimum wages for certain workers at $10.10 per hour. The E.O. 13658 rate has increased each year since 2015, rising to $11.25 on January 1, 2022. As of January 30, 2022, E.O. 13658 is superseded by E.O. 14026 to the extent that it is inconsistent with E.O. 14026; the minimum wage rate for certain workers is increased to $15.00 per hour. The wage rate is subject to annual increases by an amount determined by the Secretary of Labor. See subpart 22.19. The clause at 52.222-55, Minimum Wages for Contractor Workers under Executive Order 14026, requires the E.O. 14026 minimum wage rate to be paid if it is higher than other minimum wage rates, such as the subpart 22.4 statutory wage determination amount.
 
-Executive Order 13658 establishes minimum wages for certain workers. The wage rate is subject to annual increases by an amount determined by the Secretary of Labor. See subpart 22.19. The clause at 52.222-55, Minimum Wages under Executive Order 13658, requires the Executive Order 13658 minimum wage rate to be paid if it is higher than other minimum wage rates, such as the subpart 22.4 statutory wage determination amount.
-
-[79 FR 74549, Dec. 15, 2014. Redesignated at 81 FR 91630, Dec. 16, 2016]
+[87 FR 4121, Jan. 26, 2022]

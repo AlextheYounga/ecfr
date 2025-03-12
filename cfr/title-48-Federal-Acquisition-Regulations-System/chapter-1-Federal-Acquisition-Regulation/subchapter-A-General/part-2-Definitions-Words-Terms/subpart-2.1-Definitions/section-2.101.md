@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 87 FR 4121, Jan. 26, 2022.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -58,7 +56,7 @@ Link to an amendment published at 87 FR 4121, Jan. 26, 2022.
 
 *Bid sample* means a product sample required to be submitted by an offeror to show characteristics of the offered products that cannot adequately be described by specifications, purchase descriptions, or the solicitation (e.g., balance, facility of use, or pattern).
 
-*Biobased product* means a product determined by the U.S. Department of Agriculture to be a commercial product or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products, including renewable domestic agricultural materialsand forestry materials.
+*Biobased product* means a product determined by the U.S. Department of Agriculture to be a commercial product or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials and forestry materials.
 
 *Broad agency announcement* means a general announcement of an agency's research interest including criteria for selecting proposals and soliciting the participation of all offerors capable of satisfying the Government's needs (see 6.102(d)(2)).
 
@@ -980,13 +978,15 @@ Link to an amendment published at 87 FR 4121, Jan. 26, 2022.
 
 (7) For use in subpart 22.18, see the definition at 22.1801.
 
-(8) For use in part 23, see definition at 23.001.
+(8) For use in subpart 22.19, see the definition at 22.1901.
 
-(9) For use in part 25, see the definition at 25.003.
+(9) For use in part 23, see definition at 23.001.
 
-(10) For use in Part 27, see the definition at 27.001.
+(10) For use in part 25, see the definition at 25.003.
 
-(11) For use in subpart 47.4, see the definition at 47.401.
+(11) For use in part 27, see the definition at 27.001.
+
+(12) For use in subpart 47.4, see the definition at 47.401.
 
 *Unsolicited proposal* means a written proposal for a new or innovative idea that is submitted to an agency on the initiative of the offeror for the purpose of obtaining a contract with the Government, and that is not in response to a request for proposals, Broad Agency Announcement, Small Business Innovation Research topic, Small Business Technology Transfer Research topic, Program Research and Development Announcement, or any other Government-initiated solicitation or program.
 

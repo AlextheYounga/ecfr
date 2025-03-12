@@ -1,0 +1,3 @@
+##### § 200.64 Judicial review. #####
+
+The Congress has provided for review by the courts of the decisions and orders by this Commission. Members should recognize that their obligation to preserve the sanctity of the laws administered by them requires that they pursue and prosecute, vigorously and diligently but at the same time fairly and impartially and with dignity, all matters which they or others take to the courts for judicial review.

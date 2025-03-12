@@ -1,0 +1,3 @@
+##### § 200.553 Draft, final and supplemental impact statements. #####
+
+If the Commission determines that the requirements of section 102(2)(C) of NEPA for preparation of an environmental impact statement are applicable in connection with a proposed Commission action, it shall prepare such statement generally in accordance with the procedures specified in 40 CFR parts 1500-1508, particularly part 1502 concerning impact statement preparation and content, § 1505.1 concerning decision-making procedures, and § 1501.6 concerning the function of cooperating agencies, to the extent that such procedures do not conflict with the Commission's statutory responsibilities and authority under the Federal securities laws.

@@ -1,6 +1,6 @@
 ##### § 240.13e-100 Schedule 13E-3, Transaction statement under section 13(e) of the Securities Exchange Act of 1934 and Rule 13e-3 (§ 240.13e-3) thereunder. #####
 
-Link to an amendment published at 86 FR 70253, Dec. 9, 2021.*Securities and Exchange Commission*,Washington, D.C. 20549Rule 13e-3 Transaction Statement under Section 13(e) of the Securities Exchange Act of 1934 (Amendment No. \_)(Name of the Issuer)(Names of Persons Filing Statement)(Title of Class of Securities)(CUSIP Number of Class of Securities)(Name, Address, and Telephone Numbers of Person Authorized to Receive Notices and Communications on Behalf of the Persons Filing Statement)
+*Securities and Exchange Commission*,Washington, D.C. 20549Rule 13e-3 Transaction Statement under Section 13(e) of the Securities Exchange Act of 1934 (Amendment No. \_\_)(Name of the Issuer)(Names of Persons Filing Statement)(Title of Class of Securities)(CUSIP Number of Class of Securities)(Name, Address, and Telephone Numbers of Person Authorized to Receive Notices and Communications on Behalf of the Persons Filing Statement)
 
 This statement is filed in connection with (check the appropriate box):
 
@@ -16,23 +16,11 @@ Check the following box if the soliciting materials or information statement ref
 
 Check the following box if the filing is a final amendment reporting the results of the transaction [ ]
 
-Calculation of Filing Fee
-
-|Transaction  <br/>valuation \*|Amount of filing fee|
-|------------------------------|--------------------|
-|                              |                    |
-
-\* Set forth the amount on which the filing fee is calculated and state how it was determined.
-
-[ ] Check the box if any part of the fee is offset as provided by § 240.0-11(a)(2) and identify the filing with which the offsetting fee was previously paid. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
-
-Amount Previously Paid:Form or Registration No.:Filing Party:Date Filed:
-
 *General Instructions:*
 
 A. File eight copies of the statement, including all exhibits, with the Commission if paper filing is permitted.
 
-B. This filing must be accompanied by a fee payable to the Commission as required by § 240.0-11(b).
+B. This filing must be accompanied by a fee payable to the Commission as required by § 240.0-11(b). The filing fee exhibit required by Item 16(b) of this schedule must be submitted as required by Rule 408 of Regulation S-T (§ 232.408 of this chapter).
 
 C. If the statement is filed by a general or limited partnership, syndicate or other group, the information called for by Items 3, 5, 6, 10 and 11 must be given with respect to: (i) Each partner of the general partnership; (ii) each partner who is, or functions as, a general partner of the limited partnership; (iii) each member of the syndicate or group; and (iv) each person controlling the partner or member. If the statement is filed by a corporation or if a person referred to in (i), (ii), (iii) or (iv) of this Instruction is a corporation, the information called for by the items specified above must be given with respect to: (a) Each executive officer and director of the corporation; (b) each person controlling the corporation; and (c) each executive officer and director of any corporation or other person ultimately in control of the corporation.
 
@@ -130,10 +118,151 @@ Furnish the information required by Item 1011(b) and (c) of Regulation M-A (§ 2
 
 Item 16. Exhibits
 
-File as an exhibit to the Schedule all documents specified in Item 1016(a) through (d), (f) and (g) of Regulation M-A (§ 229.1016 of this chapter).
+File each of the following as an exhibit to the Schedule:
 
-*Signature.* After due inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.(Signature)(Name and title)(Date)
+(a) All documents specified in Item 1016(a) through (d), (f) and (g) of Regulation M-A (§ 229.1016 of this chapter); and
 
-*Instruction to Signature:* The statement must be signed by the filing person or that person's authorized representative. If the statement is signed on behalf of a person by an authorized representative (other than an executive officer of a corporation or general partner of a partnership), evidence of the representative's authority to sign on behalf of the person must be filed with the statement. The name and any title of each person who signs the statement must be typed or printed beneath the signature. See § 240.12b-11 with respect to signature requirements.
+(b) The transaction valuation, fee rate, amount of filing fee and, as applicable, information relating to reliance on § 240.0-11(a)(2) in the tabular form indicated.
 
-[64 FR 61454, Nov. 10, 1999, as amended at 76 FR 6045, Feb. 2, 2011]
+Calculation of Filing Fee Tables
+
+Table 1 - Transaction Valuation
+
+|                           |Transaction valuation|Fee rate|Amount of  <br/>filing fee|
+|---------------------------|---------------------|--------|--------------------------|
+|      Fees to Be Paid      |          X          |   X    |            X             |
+|   Fees Previously Paid    |          X          |        |            X             |
+|Total Transaction Valuation|          X          |        |                          |
+| Total Fees Due for Filing |                     |        |            X             |
+|Total Fees Previously Paid |                     |        |            X             |
+|     Total Fee Offsets     |                     |        |            X             |
+|        Net Fee Due        |                     |        |            X             |
+
+Table 2 - Fee Offset Claims and Sources
+
+|                  |Registrant  <br/>or filer  <br/>name|Form  <br/>or  <br/>filing  <br/>type|File  <br/>number|Initial  <br/>filing  <br/>date|Filing  <br/>date|Fee offset  <br/>claimed|Fee paid  <br/>with fee  <br/>offset  <br/>source|
+|------------------|------------------------------------|-------------------------------------|-----------------|-------------------------------|-----------------|------------------------|-------------------------------------------------|
+|Fee Offset Claims |                                    |                  X                  |        X        |               X               |                 |           X            |                                                 |
+|Fee Offset Sources|                 X                  |                  X                  |        X        |                               |        X        |                        |                        X                        |
+
+*Instructions to the Calculation of Filing Fee Tables and Related Disclosure (“Instructions”):*
+
+1. General Requirements.
+
+A. Applicable Table Requirements.
+
+The “X” designation indicates the information required to be disclosed, as applicable, in tabular format. Add as many rows of each table as necessary.
+
+B. Fee Rate.
+
+For the current fee rate, *see https://www.sec.gov/ofm/Article/feeamt.html.*
+
+C. Explanations.
+
+If not otherwise explained in response to these instructions, disclose specific details relating to the fee calculation as necessary to clarify the information presented in each table, including references to the applicable provisions of Rule 0-11 (§ 240.0-11 of this chapter). All disclosure these Instructions require that is not specifically required to be presented in tabular format must appear in narrative format immediately after the table(s) to which it corresponds.
+
+2. Table 1: Transaction Valuation Table and Related Disclosure.
+
+A. Fees to Be Paid and Fees Previously Paid.
+
+i. Fees to Be Paid.
+
+Provide the information Table 1 requires for the line item “Fees to Be Paid” as follows:
+
+a. Initial Filings.
+
+For an initial filing on this schedule, provide the required information for the total transaction valuation.
+
+b. Amendments with Then-Current Total Transaction Valuation Higher than Highest Total Transaction Valuation Previously Reported.
+
+For amendments to this schedule that reflect a then-current total transaction valuation higher than the highest total transaction valuation previously reported, provide the required information for the incremental increase.
+
+ii. Fees Previously Paid.
+
+Provide the information Table 1 requires for the line item “Fees Previously Paid” for the prior initial filing or amendment to this transaction statement that reflected a then-current total transaction valuation that was the highest total transaction valuation previously reported.
+
+B. Other Tabular Information.
+
+Provide the following information in the table for the line items “Fees to be Paid” and “Fees Previously Paid”, as applicable:
+
+i. The transaction valuation computed pursuant to Exchange Act Rule 0-11;
+
+ii. The fee rate; and
+
+iii. The filing fee due, without regard to any previous payments or offsets.
+
+C. Totals.
+
+i. Total Transaction Valuation.
+
+Provide the sum of the transaction valuations for the line items “Fees to be Paid” and “Fees Previously Paid.”
+
+ii. Total Fees Due for Filing.
+
+Provide the sum of the fees due without regard to any previous payments or offsets for the line items “Fees to be Paid” and “Fees Previously Paid.”
+
+iii. Total Fees Previously Paid.
+
+Provide the aggregate of filing fees previously paid with this filing.
+
+iv. Total Fee Offsets.
+
+Provide the aggregate of the fee offsets that are claimed in Table 2 pursuant to Instruction 3.
+
+v. Net Fee Due.
+
+Provide the difference between (a) the total fees due for this transaction statement from the Total Fees Due for Filing row; and (b) the sum of (i) the aggregate of filing fees previously paid from the Total Fees Previously Paid row; and (ii) the aggregate fee offsets claimed from the Total Fee Offsets row.
+
+D. Narrative Disclosure
+
+Explain how the transaction valuation was determined.
+
+3. Table 2: Fee Offset Claims and Sources.
+
+A. Terminology.
+
+For purposes of this Instruction 3 and Table 2, the term “submission” means any (i) initial filing of, or amendment (pre-effective or post-effective), to a fee-bearing document; or (ii) fee-bearing form of prospectus filed under Rule 424 under the Securities Act (§ 230.424 of this chapter), in all cases that was accompanied by a contemporaneous fee payment. For purposes of these instructions to Table 2, a contemporaneous fee payment is the payment of a required fee that is satisfied through the actual transfer of funds, and does not include any amount of a required fee satisfied through a claimed fee offset. Instruction 3.B.ii requires a filer that claims a fee offset under Rule 0-11(a)(2) to identify previous submissions with contemporaneous fee payments that are the original source to which the fee offsets claimed on this filing can be traced. *See* Instruction 3.C for an example.
+
+B. Rule 0-11(a)(2).
+
+If relying on Rule 0-11(a)(2) to offset some or all of the filing fee due on this transaction statement by amounts paid in connection with earlier filings (other than this Schedule 13E-3) relating to the same transaction, provide the following information:
+
+i. Fee Offset Claims.
+
+For each earlier filed Securities Act registration statement or Exchange Act document relating to the same transaction from which a fee offset is being claimed, provide the information that Table 2 requires for the line item “Fee Offset Claims”. The “Fee Offset Claimed” column requires the dollar amount of the previously paid filing fee to be offset against the currently due fee.
+
+Note to Instruction 3.B.i.
+
+If claiming an offset from a Securities Act registration statement, provide a detailed explanation of the basis for the claimed offset.
+
+ii. Fee Offset Sources.
+
+With respect to amounts claimed as an offset under Rule 0-11(a)(2), identify those submissions with contemporaneous fee payments that are the original source to which those amounts can be traced. For each submission identified, provide the information that Table 2 requires for the line item “Fee Offset Sources”. The “Fee Paid with Fee Offset Source” column requires the dollar amount of the contemporaneous fee payment made with respect to each identified submission that is the source of the fee offset claimed pursuant to Rule 0-11(a)(2).
+
+C. Fee Offset Source Submission Identification Example.
+
+A filer:
+
+• Initially files a registration statement on Form S-1 on 1/15/20X1 (assigned file number 333-123456) with a fee payment of $10,000;
+
+• Files pre-effective amendment number 1 to the Form S-1 (333-123456) on 2/15/20X1 with a fee payment of $15,000 and the registration statement goes effective on 2/20/20X1;
+
+• Initially files a registration statement on Form S-1 on 1/15/20X4 (assigned file number 333-123467) with a fee payment of $25,000 and relies on Rule 457(p) to claim an offset of $10,000 related to the unsold securities registered on the previously filed Form S-1 (333-123456) and apply it to the $35,000 filing fee due and the registration statement goes effective on 2/15/20X4.
+
+• Initially files a registration statement related to a tender offer on Form S-4 (assigned file number 333-123478) on 1/15/20X7 with a fee payment of $15,000 and relies on Rule 457(p) to claim an offset of $30,000 related to the unsold securities registered on the most recently effective Form S-1 (333-123467) filed on 1/15/20X4 and apply it to the $45,000 filing fee due.
+
+• Initially files a Schedule TO related to the same tender offer on 1/22/20X7 and relies on Rule 0-11(a)(2) to claim an offset of $45,000 from the fee paid directly and by offset claimed on the Form S-4 (333-123478) filed 1/15/20X7 and apply it to the $45,000 filing fee due.
+
+For the Schedule TO filed on 1/22/20X7, the filer can satisfy the submission identification requirement when it claims the $45,000 fee offset from the Form S-4 (333-123478) filed on 1/15/20X7 by referencing any combination of the Form S-4 (333-123478) filed on 1/15/20X7, the Form S-1 (333-123467) filed on 1/15/20X4, the pre-effective amendment to the Form S-1 (333-123456) filed on 2/15/20X1 or the initial filing of the Form S-1 (333-123456) on 1/15/20X1 in relation to which contemporaneous fee payments were made equal to $45,000.
+
+One example could be:
+
+• The Form S-4 (333-123478) filed on 1/15/20X7 in relation to the payment of $15,000 made with that submission;
+
+• the Form S-1 (333-123467) filed on 1/15/20X4 in relation to the payment of $25,000 made with that submission; and
+
+• the pre-effective amendment to the Form S-1 (333-123456) filed on 2/15/20X1 in relation to the payment of $5,000 out of the payment of $15,000 made with that submission (it would not matter if the filer cited to this pre-effective amendment and/or the initial submission of this Form S-1 (333-123456) on 1/15/20X1 as long as singly or together they were cited as relating to a total of $5,000 in this example).
+
+In this example, the filer could not satisfy the submission identification requirement solely by citing to the Form S-4 (333-123478) filed on 1/15/20X7 because even though the offset claimed and available from that filing was $45,000, the contemporaneous fee payment made with that filing ($15,000) was less than the offset being claimed. As a result, the filer must also identify a prior submission or submissions with an aggregate of contemporaneous fee payment(s) of $30,000 as the original source(s) to which the rest of the claimed offset can be traced.
+
+[64 FR 61454, Nov. 10, 1999, as amended at 76 FR 6045, Feb. 2, 2011; 86 FR 70253, Dec. 9, 2021]

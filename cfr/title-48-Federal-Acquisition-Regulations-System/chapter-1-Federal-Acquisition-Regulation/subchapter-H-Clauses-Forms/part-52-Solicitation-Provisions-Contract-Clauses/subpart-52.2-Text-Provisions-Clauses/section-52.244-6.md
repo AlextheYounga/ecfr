@@ -1,7 +1,5 @@
 ##### 52.244-6 Subcontracts for Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 4124, Jan. 26, 2022.
-
 As prescribed in 44.403, insert the following clause:
 
 Subcontracts for Commercial Products and Commercial Services (JAN 2022)
@@ -46,9 +44,9 @@ Subcontracts for Commercial Products and Commercial Services (JAN 2022)
 
 (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-(xv) 52.222-55, Minimum Wages under Executive Order 13658 (JAN 2022), if flowdown is required in accordance with paragraph (k) of FAR clause 52.222-55.
+(xv) 52.222-55, Minimum Wages for Contractor Workers under Executive Order 14026 (JAN 2022), if flowdown is required in accordance with paragraph (k) of FAR clause 52.222-55.
 
-(xvi) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706), if flow down is required in accordance with paragraph (m) of FAR clause 52.222-62.
+(xvi) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706), if flow down is required in accordance with paragraph (m) of FAR clause 52.222-62.
 
 (xvii)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a) if flow down is required in accordance with 52.224-3(f).
 

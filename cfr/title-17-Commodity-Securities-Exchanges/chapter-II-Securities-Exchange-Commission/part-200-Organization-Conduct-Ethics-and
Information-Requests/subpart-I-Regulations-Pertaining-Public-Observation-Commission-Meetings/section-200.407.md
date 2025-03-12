@@ -1,0 +1,9 @@
+##### § 200.407 Transcripts, minutes, and other documents concerning closed Commission meetings. #####
+
+(a) *Record of closed meetings.* Except as provided in § 200.407(b), the Commission's Secretary shall prepare a complete transcript or electronic recording adequate to record fully the proceedings of each closed meeting, or closed portion of a meeting.
+
+(b) *Minutes of closed meetings.* In the case of a meeting, or portion of a meeting, closed to the public pursuant to § 200.402(a) (8), (9)(i), or (10), the Secretary may, in his or her discretion or at the direction of the Commission, prepare either the transcript or recording described in § 200.407(a), or a set of minutes. Such minutes shall fully and clearly describe all matters discussed and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of each of the views expressed on any item and the record of any rollcall vote (reflecting the vote of each participating Commission member on the question). All documents specifically considered by the Commission in connection with any action shall be identified in such minutes are maintained.
+
+(c) *Retention of certificate and statement.* The Secretary shall retain a copy of every certification executed by the General Counsel pursuant to § 200.406, together with a statement from the presiding officer of the meeting, or portion of a meeting to which the certification applies, setting forth the time and place of the meeting, and the persons present.
+
+(d) *Minute Record.* Nothing herein shall affect the provisions of §§ 200.13a and 200.40 requiring the Secretary to prepare and maintain a Minute Record reflecting the official actions of the Commission.

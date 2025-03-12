@@ -1,0 +1,3 @@
+##### § 200.65 Legislative proposals. #####
+
+Members must recognize that the changing conditions in a volatile economy may require that they bring to the attention of the Congress proposals to amend, modify or repeal the laws administered by them. They should urge the Congress, whenever necessary, to effect such amendment, modification or repeal of particular parts of the statutes which they administer. In any action a member's motivation should be the common weal and not the particular interests of any particular group.

@@ -1,0 +1,3 @@
+##### § 200.69 Conduct toward parties and their counsel. #####
+
+Members should be temperate, attentive, patient and impartial when hearing the arguments of parties or their counsel. Members should not condone unprofessional conduct by attorneys in their representation of parties. The Commission should continuously assure that its staff follows the same principles in their relationships with parties and counsel.

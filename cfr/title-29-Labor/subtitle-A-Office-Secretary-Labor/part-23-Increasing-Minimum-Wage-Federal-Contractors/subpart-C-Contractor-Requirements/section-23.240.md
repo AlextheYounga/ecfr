@@ -1,0 +1,5 @@
+##### § 23.240 Overtime payments. #####
+
+(a) *General.* The Fair Labor Standards Act and the Contract Work Hours and Safety Standards Act require overtime payment of not less than one and one-half times the regular rate of pay or basic rate of pay for all hours worked over 40 hours in a workweek to covered workers. The regular rate of pay under the Fair Labor Standards Act is generally determined by dividing the worker's total earnings in any workweek by the total number of hours actually worked by the worker in that workweek for which such compensation was paid.
+
+(b) *Tipped employees.* When overtime is worked by tipped employees who are entitled to overtime pay under the Fair Labor Standards Act and/or the Contract Work Hours and Safety Standards Act, the employees' regular rate of pay includes both the cash wages paid by the employer (*see* §§ 23.220(a) and 23.280(a)(1)) and the amount of any tip credit taken (*see* § 23.280(a)(2)). (*See* part 778 of this title for a detailed discussion of overtime compensation under the Fair Labor Standards Act.) Any tips received by the employee in excess of the tip credit are not included in the regular rate.

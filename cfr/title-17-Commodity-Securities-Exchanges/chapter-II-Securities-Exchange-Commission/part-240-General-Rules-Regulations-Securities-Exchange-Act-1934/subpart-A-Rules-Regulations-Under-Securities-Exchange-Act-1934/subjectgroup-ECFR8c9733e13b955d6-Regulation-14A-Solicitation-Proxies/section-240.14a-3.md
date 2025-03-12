@@ -1,7 +1,5 @@
 ##### § 240.14a-3 Information to be furnished to security holders. #####
 
-Link to an amendment published at 86 FR 68378, Dec. 1, 2021.
-
 (a) No solicitation subject to this regulation shall be made unless each person solicited is concurrently furnished or has previously been furnished with:
 
 (1) A publicly-filed preliminary or definitive proxy statement, in the form and manner described in § 240.14a-16, containing the information specified in Schedule 14A (§ 240.14a-101);
@@ -10,9 +8,9 @@ Link to an amendment published at 86 FR 68378, Dec. 1, 2021.
 
 (3) A publicly-filed preliminary or definitive proxy statement, not in the form and manner described in § 240.14a-16, containing the information specified in Schedule 14A (§ 240.14a-101), if:
 
-(i) The solicitation relates to a business combination transaction as defined in § 230.165 of this chapter, as well as transactions for cash consideration requiring disclosure under Item 14 of § 240.14a-101.
+(i) The solicitation relates to a business combination transaction as defined in § 230.165 of this chapter, as well as transactions for cash consideration requiring disclosure under Item 14 of § 240.14a-101; or
 
-(ii) The solicitation may not follow the form and manner described in § 240.14a-16 pursuant to the laws of the state of incorporation of the registrant;
+(ii) The solicitation may not follow the form and manner described in § 240.14a-16 pursuant to the laws of the state of incorporation of the registrant.
 
 (b) If the solicitation is made on behalf of the registrant, other than an investment company registered under the Investment Company Act of 1940, and relates to an annual (or special meeting in lieu of the annual) meeting of security holders, or written consent in lieu of such meeting, at which directors are to be elected, each proxy statement furnished pursuant to paragraph (a) of this section shall be accompanied or preceded by an annual report to security holders as follows:
 

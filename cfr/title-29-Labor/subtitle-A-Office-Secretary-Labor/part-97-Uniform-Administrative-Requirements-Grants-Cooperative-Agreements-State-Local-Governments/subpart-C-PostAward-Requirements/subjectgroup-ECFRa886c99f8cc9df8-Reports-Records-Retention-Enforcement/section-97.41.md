@@ -18,15 +18,15 @@
 
 (7) Federal agencies may extend the due date of any financial report upon receiving a justified request from a grantee.
 
-(b) *Financial Status Report* - (1) *Form.* Grantees will use Standard Form 269 or 269A, Financial Status Report, to report the status of funds for all nonconstruction grants and for construction grants when required in accordance with § 97.41(e)(2)(iii) of this section.
+(b) *Financial Status Report*—(1) *Form.* Grantees will use Standard Form 269 or 269A, Financial Status Report, to report the status of funds for all nonconstruction grants and for construction grants when required in accordance with § 97.41(e)(2)(iii) of this section.
 
-(2) *Accounting basis.* Each grantee will report program outlays and program income on a cash or accrual basis as prescribed by the awarding agency. If the Federal agency requires accrual information and the grantee's accounting records are not normally kept on the accural basis, the grantee shall not be required to convert its accounting system but shall develop such accrual information through and analysis of the documentation on hand.
+(2) *Accounting basis.* Each grantee will report program outlays and program income on a cash or accrual basis as prescribed by the awarding agency. If the Federal agency requires accrual information and the grantee's accounting records are not normally kept on the accrual basis, the grantee shall not be required to convert its accounting system but shall develop such accrual information through and analysis of the documentation on hand.
 
 (3) *Frequency.* The Federal agency may prescribe the frequency of the report for each project or program. However, the report will not be required more frequently than quarterly. If the Federal agency does not specify the frequency of the report, it will be submitted annually. A final report will be required upon expiration or termination of grant support.
 
 (4) *Due date.* When reports are required on a quarterly or semiannual basis, they will be due 30 days after the reporting period. When required on an annual basis, they will be due 90 days after the grant year. Final reports will be due 90 days after the expiration or termination of grant support.
 
-(c) *Federal Cash Transactions Report* - (1) *Form.* (i) For grants paid by letter or credit, Treasury check advances or electronic transfer of funds, the grantee will submit the Standard Form 272, Federal Cash Transactions Report, and when necessary, its continuation sheet, Standard Form 272a, unless the terms of the award exempt the grantee from this requirement.
+(c) *Federal Cash Transactions Report*—(1) *Form.* (i) For grants paid by letter or credit, Treasury check advances or electronic transfer of funds, the grantee will submit the Standard Form 272, Federal Cash Transactions Report, and when necessary, its continuation sheet, Standard Form 272a, unless the terms of the award exempt the grantee from this requirement.
 
 (ii) These reports will be used by the Federal agency to monitor cash advanced to grantees and to obtain disbursement or outlay information for each grant from grantees. The format of the report may be adapted as appropriate when reporting is to be accomplished with the assistance of automatic data processing equipment provided that the information to be submitted is not changed in substance.
 
@@ -36,7 +36,7 @@
 
 (4) *Frequency and due date.* Grantees must submit the report no later than 15 working days following the end of each quarter. However, where an advance either by letter of credit or electronic transfer of funds is authorized at an annualized rate of one million dollars or more, the Federal agency may require the report to be submitted within 15 working days following the end of each month.
 
-(d) *Request for advance or reimbursement* - (1) *Advance payments.* Requests for Treasury check advance payments will be submitted on Standard Form 270, Request for Advance or Reimbursement. (This form will not be used for drawdowns under a letter of credit, electronic funds transfer or when Treasury check advance payments are made to the grantee automatically on a predetermined basis.)
+(d) *Request for advance or reimbursement*—(1) *Advance payments.* Requests for Treasury check advance payments will be submitted on Standard Form 270, Request for Advance or Reimbursement. (This form will not be used for drawdowns under a letter of credit, electronic funds transfer or when Treasury check advance payments are made to the grantee automatically on a predetermined basis.)
 
 (2) *Reimbursements.* Requests for reimbursement under nonconstruction grants will also be submitted on Standard Form 270. (For reimbursement requests under construction grants, see paragraph (e)(1) of this section.)
 

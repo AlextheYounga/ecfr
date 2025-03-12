@@ -1,0 +1,3 @@
+##### § 200.58 Maintenance of independence. #####
+
+This Commission has been established to administer laws enacted by the Congress. Its members are appointed by the President by and with the advice and consent of the Senate to serve terms as provided by law. However, under the law, this is an independent Agency, and in performing their duties, members should exhibit a spirit of firm independence and reject any effort by representatives of the executive or legislative branches of the government to affect their independent determination of any matter being considered by this Commission. A member should not be swayed by partisan demands, public clamor or considerations of personal popularity or notoriety; so also he should be above fear of unjust criticism by anyone.

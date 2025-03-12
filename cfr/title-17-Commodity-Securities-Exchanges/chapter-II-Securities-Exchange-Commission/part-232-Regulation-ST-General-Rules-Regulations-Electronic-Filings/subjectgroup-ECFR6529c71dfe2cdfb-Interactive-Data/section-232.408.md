@@ -1,3 +1,5 @@
-##### § 232.408 xxx #####
+##### § 232.408 Filing fee exhibit interactive data. #####
 
-Link to an amendment published at 86 FR 70200, Dec. 9, 2021.
+The filing fee exhibit required by the following provisions must be submitted in Inline XBRL as provided by the EDGAR Filer Manual except to the extent the following provisions otherwise provide: § 229.601(b)(107) of this chapter (Item 601(b)(107) of Regulation S-K); paragraph (107) to Part II Information Not Required to be Delivered to Offerees or Purchasers of Form F-10 (§ 239.40 of this chapter); § 230.424(g) and (i)(2) of this chapter (Rules 424(g) and (i)(2)); § 240.13e-1(a)(7) of this chapter (Rule 13e-1(a)(7)); Item 16(b) of Schedule 13E-3 (§ 240.13e-100 of this chapter); paragraph (4) under “Part II—Information Not Required To Be Sent to Shareholders” of Schedule 13E-4F (§ 240.13e-102 of this chapter); Item 25(b) of Schedule 14A (§ 240.14a-101 of this chapter); Item 12(b) of Schedule TO (§ 240.14d-100 of this chapter); paragraph (4) under “Part II—Information Not Required To Be Sent to Shareholders” of Schedule 14D-1F (§ 240.14d-102 of this chapter); Item 25.2.s of Form N-2 (§§ 239.14 and 274.11a-1 of this chapter); and paragraph 18 of Item 16 of Form N-14 (§ 239.23 of this chapter).
+
+[86 FR 70200, Dec. 9, 2021]

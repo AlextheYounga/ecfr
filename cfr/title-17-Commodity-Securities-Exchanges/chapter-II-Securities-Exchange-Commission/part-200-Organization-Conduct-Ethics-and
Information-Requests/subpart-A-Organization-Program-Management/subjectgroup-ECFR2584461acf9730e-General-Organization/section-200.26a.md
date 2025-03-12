@@ -1,0 +1,5 @@
+##### § 200.26a Office of Information Technology. #####
+
+The Office of Information Technology is responsible for the analysis, design programming, operation, and maintenance of all agency information systems; developing and implementing long-range technology plans and programs; coordinating all information systems analysis activities being considered or carried out by other divisions and offices, and furnishing such organizations with appropriate assistance and support; providing technical advice to the staff in connection with development of Commission rules and regulations having technology implications; providing expert advice on the Commission's surveillance of technology in the securities industry; evaluating and recommending new technology concepts and capabilities for application within the Commission; and developing technology and automation capabilities and support within the Commission.
+
+[86 FR 9444, Feb. 16, 2021]

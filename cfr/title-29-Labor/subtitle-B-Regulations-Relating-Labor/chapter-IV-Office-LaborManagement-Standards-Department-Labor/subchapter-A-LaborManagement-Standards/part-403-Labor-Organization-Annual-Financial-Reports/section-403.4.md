@@ -1,7 +1,5 @@
 ##### § 403.4 Simplified annual reports for smaller labor organizations. #####
 
-Link to an amendment published at 86 FR 74371, Dec. 30, 2021.
-
 (a)(1) If a labor organization, not in trusteeship, has gross annual receipts totaling less than $250,000 for its fiscal year, it may elect, subject to revocation of the privileges as provided in section 208 of the Act, to file the annual financial report called for in section 201(b) of the Act and § 403.3 of this part on United States Department of Labor Form LM-3 entitled “Labor Organization Annual Report,” in accordance with the instructions accompanying such form and constituting a part thereof.
 
 (2) If a labor organization, not in trusteeship, has gross annual receipts totaling less than $10,000 for its fiscal year, it may elect, subject to revocation of the privileges as provided in section 208 of the Act, to file the annual financial report called for in section 201(b) of the Act and § 403.3 on United States Department of Labor Form LM-4 entitled “Labor Organization Annual Report” in accordance with the instructions accompanying such form and constituting a part thereof.
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 74371, Dec. 30, 2021.
 
 (2) Its members are subject to uniform fees and dues applicable to all members of the local labor organizations for which such simplified reports are submitted;
 
-(3) The national organization with which it is affiliated assumes responsibility for the accuracy of, and submits with its annual report, a separate letter-size sheet for each local labor organization containing the following information with respect to each local organization in the format illustrated below as part of this regulation:
+(3) The national organization with which it is affiliated assumes responsibility for the accuracy of a statement filed electronically, through the electronic filing system made available on the Office of Labor-Management Standards website, covering each local labor organization covered by this paragraph (b) and containing the following information with respect to each local organization:
 
 (i) The name and designation number or other identifying information;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 74371, Dec. 30, 2021.
 
 (5) The national organization files the terminal report required by 29 CFR 403.5(a) on Form LM-3 or LM-4, as may be appropriate, clearly labeled on the form as a terminal report, for any local labor organization which has lost its identity through merger, consolidation, or otherwise if the national organization filed a simplified annual report on behalf of the local labor organization for its last reporting period; and
 
-(6) The national organization with which it is affiliated assumes responsibility for the accuracy of, and submits with its annual report and the simplified annual reports for the affiliated local labor organizations, the following certification properly completed and signed by the president and treasurer of the national organization:
+(6) The national organization with which it is affiliated assumes responsibility for the accuracy of, and submits with its simplified annual reports filed electronically pursuant to § 403.4(b)(3) for the affiliated local labor organizations, the following certification properly completed and signed by the president and treasurer of the national organization:
 
 Certification
 
@@ -44,4 +42,4 @@ Furthermore, we certify that the terminal reports required by 29 CFR 403.4(b)(5)
 
 For certification see NHQ file folder file number:
 
-PresidentWhere signedDateTreasurerWhere signedDate[28 FR 14383, Dec. 27, 1963, as amended at 37 FR 10669, May 26, 1972; 41 FR 27318, July 2, 1976; 45 FR 7525, Feb. 1, 1980; 50 FR 31309, Aug. 1, 1985; 50 FR 31310, Aug. 1, 1985; 57 FR 49290, 49357, Oct. 30, 1992; 62 FR 6092, Feb. 10, 1997; 64 FR 71623, Dec. 21, 1999; 65 FR 21141, Apr. 20, 2000; 81 FR 33389, May 26, 2016]
+PresidentWhere signedDateTreasurerWhere signedDate[28 FR 14383, Dec. 27, 1963, as amended at 37 FR 10669, May 26, 1972; 41 FR 27318, July 2, 1976; 45 FR 7525, Feb. 1, 1980; 50 FR 31309, Aug. 1, 1985; 50 FR 31310, Aug. 1, 1985; 57 FR 49290, 49357, Oct. 30, 1992; 62 FR 6092, Feb. 10, 1997; 64 FR 71623, Dec. 21, 1999; 65 FR 21141, Apr. 20, 2000; 81 FR 33389, May 26, 2016; 86 FR 74371, Dec. 30, 2021]

@@ -1,0 +1,7 @@
+##### § 200.42 Disposition of business by seriatim Commission consideration. #####
+
+(a) Whenever the Commission's Chairman, or the Commission member designated as duty officer pursuant to § 200.43, is of the opinion that joint deliberation among the members of the Commission upon any matter is unnecessary in light of the nature of the matter, impracticable, or contrary to the requirements of agency business, but is of the view that such matter should be the subject of a vote of the Commission, such matter may be disposed of by circulation of any relevant materials concerning the matter among all Commission members. Each participating Commission member shall report his or her vote to the Secretary, who shall record it in the Minute Record of the Commission. Any matter circulated for disposition pursuant to this subsection shall not be considered final until each Commission member has reported his or her vote to the Secretary or has reported to the Secretary that the Commissioner does not intend to participate in the matter.
+
+(b) Whenever any member of the Commission so requests, any matter circulated for disposition pursuant to § 200.42(a) shall be withdrawn from circulation and scheduled instead for joint Commission deliberation.
+
+[42 FR 14692, Mar. 16, 1977, as amended at 59 FR 53936, Oct. 27, 1994. Redesignated and amended at 60 FR 17202, Apr. 5, 1995]

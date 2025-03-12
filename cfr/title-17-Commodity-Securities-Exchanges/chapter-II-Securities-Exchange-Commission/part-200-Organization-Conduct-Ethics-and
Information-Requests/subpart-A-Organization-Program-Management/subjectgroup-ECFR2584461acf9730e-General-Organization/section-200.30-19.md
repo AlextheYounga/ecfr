@@ -1,0 +1,11 @@
+##### § 200.30-19 Delegation of authority to Director of the EDGAR Business Office. #####
+
+Pursuant to the provisions of Public Law 100-181, 101 Stat. 1254, 1255 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the EDGAR Business Office, to be performed by the Director or under the Director's direction by such other person or persons as may be designated from time to time by the Chairman of the Commission:
+
+(a) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) and part 232 of this chapter (Regulation S-T), to grant or deny a request submitted pursuant to § 232.13(b) of this chapter to adjust the filing date of an electronic filing, after consultation with the division or office with primary regulatory oversight for the relevant filing.
+
+(b) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), and part 232 of this chapter (Regulation S-T) to set the terms of, and grant or deny as appropriate, continuing hardship exemptions pursuant to § 232.202 of this chapter from the electronic submission requirements of Regulation S-T, after consultation with the division or office with primary regulatory oversight for the relevant filing.
+
+(c) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), and part 232 of this chapter (Regulation S-T) to take actions pursuant to § 232.15 of this chapter to promote the reliability and integrity of submissions made through the Electronic Data Gathering, Analysis, and Retrieval system (EDGAR).
+
+[86 FR 7967, Feb. 3, 2021]

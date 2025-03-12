@@ -1,0 +1,3 @@
+##### § 200.54 Constitutional obligations. #####
+
+The members of this Commission have undertaken in their oaths of office to support the Federal Constitution. Insofar as the enactments of the Congress impose executive duties upon the members, they must faithfully execute the laws which they are charged with administering. Members shall also carefully guard against any infringement of the constitutional rights, privileges, or immunities of those who are subject to regulation by this Commission.

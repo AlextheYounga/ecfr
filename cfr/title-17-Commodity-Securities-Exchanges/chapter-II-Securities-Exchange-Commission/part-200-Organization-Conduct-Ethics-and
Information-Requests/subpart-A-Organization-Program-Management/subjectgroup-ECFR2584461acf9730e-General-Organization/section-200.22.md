@@ -1,0 +1,5 @@
+##### § 200.22 The Chief Accountant. #####
+
+The Chief Accountant of the Commission is the principal adviser to the Commission on, and is responsible to the Commission for, all accounting and auditing matters arising in the administration of the federal securities laws. The Chief Accountant oversees the accounting profession's standard-setting and self-regulatory organizations, develops or supervises the development of accounting and auditing rules, regulations, opinions and policy, and interprets Commission accounting policy and positions. The Chief Accountant is responsible for recommending the institution of administrative and disciplinary proceedings relating to the disqualification of accountants to practice before the Commission. The Chief Accountant supervises the procedures to be followed in the Commission's enforcement activities involving accounting and auditing issues and helps resolve differences on accounting issues between registrants and the Commission staff.
+
+[60 FR 14626, Mar. 20, 1995]

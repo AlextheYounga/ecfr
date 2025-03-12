@@ -1,0 +1,5 @@
+##### § 200.19c Director of the Division of Examinations. #####
+
+The Director of the Division of Examinations (“Examinations”) is responsible for the compliance inspections and examinations relating to the regulation of exchanges, national securities associations, clearing agencies, securities information processors, the Municipal Securities Rulemaking Board, brokers and dealers, municipal securities dealers, municipal advisors, security-based swap data repositories, security-based swap dealers, major security-based swap participants, transfer agents, investment companies, and investment advisers, under sections 13(n)(2), 15B, 15C(d)(1), 15F, and 17(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(n)(2), 78*o*-4, 78*o*-5(d)(1), 78*o*-10, and 78q(b)), section 31(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-30(b)), and section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-4).
+
+[86 FR 9442, Feb. 16, 2021]

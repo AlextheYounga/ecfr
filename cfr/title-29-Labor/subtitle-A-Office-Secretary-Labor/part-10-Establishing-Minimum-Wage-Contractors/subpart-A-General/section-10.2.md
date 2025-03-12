@@ -1,7 +1,5 @@
 ##### § 10.2 Definitions. #####
 
-Link to an amendment published at 86 FR 67224, Nov. 24, 2021.
-
 For purposes of this part:
 
 *Administrative Review Board* (ARB or Board) means the Administrative Review Board, U.S. Department of Labor.
@@ -34,11 +32,11 @@ For purposes of this part:
 
 *Independent agencies* means independent regulatory agencies within the meaning of 44 U.S.C. 3502(5).
 
-*New contract* means a contract that results from a solicitation issued on or after January 1, 2015, or a contract that is awarded outside the solicitation process on or after January 1, 2015. This term includes both new contracts and replacements for expiring contracts. It does not apply to the unilateral exercise of a pre-negotiated option to renew an existing contract by the Federal Government. For purposes of the Executive Order, a contract that is entered into prior to January 1, 2015 will constitute a *new contract* if, through bilateral negotiation, on or after January 1, 2015:
+*New contract* means a contract that results from a solicitation issued on or between January 1, 2015 and January 29, 2022, or a contract that is awarded outside the solicitation process on or between January 1, 2015 and January 29, 2022. This term includes both new contracts and replacements for expiring contracts. It does not apply to the unilateral exercise of a pre-negotiated option to renew an existing contract by the Federal Government. For purposes of the Executive Order, a contract that is entered into prior to January 1, 2015 will constitute a new contract if, through bilateral negotiation, on or between January 1, 2015 and January 29, 2022:
 
 (1) The contract is renewed;
 
-(2) The contract is extended, unless the extension is made pursuant to a term in the contract as of December 31, 2014 providing for a short-term limited extension; or
+(2) The contract is extended, unless the extension is made pursuant to a term in the contract as of December 31, 2014, providing for a short-term limited extension; or
 
 (3) The contract is amended pursuant to a modification that is outside the scope of the contract.
 
@@ -63,3 +61,5 @@ For purposes of this part:
 *Wage determination* includes any determination of minimum hourly wage rates or fringe benefits made by the Secretary of Labor pursuant to the provisions of the Service Contract Act or the Davis-Bacon Act. This term includes the original determination and any subsequent determinations modifying, superseding, correcting, or otherwise changing the provisions of the original determination.
 
 *Worker* means any person engaged in performing work on or in connection with a contract covered by the Executive Order, and whose wages under such contract are governed by the Fair Labor Standards Act, the Service Contract Act, or the Davis-Bacon Act, other than individuals employed in a bona fide executive, administrative, or professional capacity, as those terms are defined in 29 CFR part 541, regardless of the contractual relationship alleged to exist between the individual and the employer. The term *worker* includes workers performing on or in connection with a covered contract whose wages are calculated pursuant to special certificates issued under 29 U.S.C. 214(c), as well as any person working on or in connection with a covered contract and individually registered in a bona fide apprenticeship or training program registered with the U.S. Department of Labor's Employment and Training Administration, Office of Apprenticeship, or with a State Apprenticeship Agency recognized by the Office of Apprenticeship.
+
+[79 FR 60721, Oct. 7, 2014, as amended at 86 FR 67224, Nov. 24, 2021]
