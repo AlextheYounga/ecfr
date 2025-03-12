@@ -1,5 +1,7 @@
 ##### § 622.12 Annual catch limits (ACLs) and accountability measures (AMs) for Caribbean island management areas/Caribbean EEZ. #####
 
+Link to an amendment published at 87 FR 56216, Sept. 13, 2022.
+
 (a) *Puerto Rico management area.* See appendix E of this part for specification of the Puerto Rico management area.
 
 (1) *Queen conch.* See § 622.491 regarding seasonal and area closure provisions and ACL closure provisions applicable to queen conch.

@@ -1,5 +1,7 @@
 ##### § 20.61 Trade secrets and commercial or financial information which is privileged or confidential. #####
 
+Link to an amendment published at 87 FR 55913, Sept. 13, 2022.
+
 (a) A trade secret may consist of any commercially valuable plan, formula, process, or device that is used for the making, preparing, compounding, or processing of trade commodities and that can be said to be the end product of either innovation or substantial effort. There must be a direct relationship between the trade secret and the productive process.
 
 (b) Commercial or financial information that is privileged or confidential means valuable data or information which is used in one's business and is of a type customarily held in strict confidence or regarded as privileged and not disclosed to any member of the public by the person to whom it belongs.

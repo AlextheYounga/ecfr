@@ -1,5 +1,7 @@
 ##### § 622.413 Incorporation by reference. #####
 
+Link to an amendment published at 87 FR 56216, Sept. 13, 2022.
+
 (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of approval and a notice of any change in these materials will be published in the Federal Register. This incorporation by reference was approved by the Director of the Office of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of approval and a notice of any change in these materials will be published in the Federal Register. All material incorporated by reference is available for inspection at the NMFS, Office of Sustainable Fisheries, Office of the RA, 1315 East-West Highway, Silver Spring, MD; and the National Archives and Records Administration (NARA), Office of the Federal Register, 800 North Capitol Street NW., Suite 700, Washington, DC. For more information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Florida Administrative Code (F.A.C.): Florida Fish and Wildlife Conservation Commission, 620 South Meridian Street, Tallahassee, FL 32399; telephone: 850-487-0554; *http://www.flrules.org.*

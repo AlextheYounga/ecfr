@@ -1,5 +1,7 @@
 ##### § 20.26 Indexes of certain records. #####
 
+Link to an amendment published at 87 FR 55911, Sept. 13, 2022.
+
 (a) Indexes shall be maintained, and revised at least quarterly, for the following Food and Drug Administration records:
 
 (1) Final orders published in the FEDERAL REGISTER with respect to every denial or withdrawal of approval of a new drug application or a new animal drug application for which a public hearing has been requested.

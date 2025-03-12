@@ -1,5 +1,7 @@
 ##### § 622.405 Trap construction specifications and tending restrictions. #####
 
+Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
+
 (a) *Construction specifications.* In the EEZ, a spiny lobster trap may be no larger in dimension than 3 feet by 2 feet by 2 feet (91.4 cm by 61.0 cm by 61.0 cm), or the volume equivalent. A trap constructed of material other than wood must have a panel constructed of wood, cotton, or other material that will degrade at the same rate as a wooden trap. Such panel must be located in the upper half of the sides or on top of the trap, so that, when removed, there will be an opening in the trap no smaller than the diameter found at the throat or entrance of the trap.
 
 (b) *Tending restrictions.* (1) A spiny lobster trap in the EEZ may be pulled or tended during daylight hours only, that is, from 1 hour before official sunrise to 1 hour after official sunset.

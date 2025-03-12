@@ -1,5 +1,7 @@
 ##### § 20.41 Time limitations. #####
 
+Link to an amendment published at 87 FR 55912, Sept. 13, 2022.
+
 (a) All time limitations prescribed pursuant to this section shall begin as of the time at which a request for records is logged in by the Division of Freedom of Information pursuant to § 20.40(c). An oral request for records shall not begin any time requirement. A written request for records sent elsewhere within the agency shall not begin any time requirement until it is redirected to the Division of Freedom of Information and is logged in there in accordance with § 20.40(c).
 
 (b) Within 20 working days (excluding Saturdays, Sundays, and legal public holidays) after a request for records is logged in at the Division of Freedom of Information, the agency shall send a letter to the requester providing the agency's determination as to whether, or the extent to which, the agency will comply with the request, and, if any records are denied, the reasons for the denial.

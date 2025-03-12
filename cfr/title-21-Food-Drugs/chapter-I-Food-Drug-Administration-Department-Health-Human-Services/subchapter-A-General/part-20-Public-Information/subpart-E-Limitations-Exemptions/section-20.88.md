@@ -1,5 +1,7 @@
 ##### § 20.88 Communications with State and local government officials. #####
 
+Link to an amendment published at 87 FR 55913, Sept. 13, 2022.
+
 (a) A State or local government official commissioned by the Food and Drug Administration pursuant to 21 U.S.C. 372(a) shall have the same status with respect to disclosure of Food and Drug Administration records as any special government employee.
 
 (b) Communications with State and local government officials with respect to law enforcement activities undertaken pursuant to a contract between the Food and Drug Administration and such officials shall be subject to the rules for public disclosure established in § 20.64.

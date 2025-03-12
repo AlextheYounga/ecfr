@@ -1,5 +1,7 @@
 ##### § 20.120 Records available in Food and Drug Administration Public Reading Rooms. #####
 
+Link to an amendment published at 87 FR 55914, Sept. 13, 2022.
+
 (a) The Freedom of Information Staff and the Division of Dockets Management Public Reading Room are located at the same address. Both are located in rm. 1061, 5630 Fishers Lane, Rockville, MD 20852. The telephone number for the Division of Docket Management is 301-827-6860; the telephone number for the Freedom of Information Staff's Public Reading Room is located at the address on the agency's web site at *http://www.fda.gov.* Both public reading rooms are open from 9 a.m. to 4 p.m., Monday through Friday, excluding legal public holidays.
 
 (b) The following records are available at the Division of Freedom of Information Public Reading Room:

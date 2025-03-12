@@ -1,5 +1,7 @@
 ##### § 720.8 Confidentiality of statements. #####
 
+Link to an amendment published at 87 FR 55914, Sept. 13, 2022.
+
 (a) Data and information contained in, attached to, or included with Forms FDA 2512 and FDA 2514, and amendments thereto are submitted voluntarily to the Food and Drug Administration (FDA). Any request for confidentiality of a cosmetic ingredient submitted with such forms or separately will be handled in accordance with the procedure set forth in this section. The request for confidentiality will also be subject to the provisions of § 20.111 of this chapter, as well as to the exemptions in subpart D of part 20 of this chapter and to the limitations on exemption in subpart E of part 20 of this chapter.
 
 (b) Any request for confidentiality of the identity of a cosmetic ingredient should contain a full statement, in a well-organized format, of the factual and legal grounds for that request, including all data and other information on which the petitioner relies, as well as representative information known to the petitioner that is unfavorable to the petitioner's position. The statement of the factual grounds should include, but should not be limited to, scientific or technical data, reports, tests, and other relevant information addressing the following factors that FDA will consider in determining whether the identity of an ingredient qualifies as a trade secret:

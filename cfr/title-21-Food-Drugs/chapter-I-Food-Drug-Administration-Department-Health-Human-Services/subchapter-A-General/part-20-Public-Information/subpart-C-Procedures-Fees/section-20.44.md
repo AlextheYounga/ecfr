@@ -1,5 +1,7 @@
 ##### § 20.44 Expedited processing. #####
 
+Link to an amendment published at 87 FR 55912, Sept. 13, 2022.
+
 (a) The Food and Drug Administration will provide expedited processing of a request for records when the requester demonstrates a compelling need, or in other cases as determined by the agency. A compelling need exists when:
 
 (1) A failure to obtain requested records on an expedited basis could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or

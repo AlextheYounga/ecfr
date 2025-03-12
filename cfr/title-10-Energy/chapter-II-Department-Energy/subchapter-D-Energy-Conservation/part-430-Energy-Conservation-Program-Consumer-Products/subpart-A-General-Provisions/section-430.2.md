@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 42308, July 15, 2022.Link to an amendment published at 87 FR 50423, Aug. 16, 2022.Link to an amendment published at 87 FR 51220, Aug. 19, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53639, Aug. 31, 2022.Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
+Link to an amendment published at 87 FR 50423, Aug. 16, 2022.Link to an amendment published at 87 FR 51220, Aug. 19, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53639, Aug. 31, 2022.Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
@@ -25,6 +25,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 (3) Provides one or more main functions.
 
 *Adaptive external power supply* (EPS) means an external power supply that can alter its output voltage during active-mode based on an established digital communication protocol with the end-use application without any user-generated action.
+
+*Air cleaner* means a product for improving indoor air quality, other than a central air conditioner, room air conditioner, portable air conditioner, dehumidifier, or furnace, that is an electrically-powered, self-contained, mechanically encased assembly that contains means to remove, destroy, or deactivate particulates, VOC, and/or microorganisms from the air. It excludes products that operate solely by means of ultraviolet light without a fan for air circulation.
 
 *All-refrigerator* means a refrigerator that does not include a compartment capable of maintaining compartment temperatures below 32 °F (0 °C) as determined according to the provisions in § 429.14(d)(2) of this chapter. It may include a compartment of 0.50 cubic-foot capacity (14.2 liters) or less for the freezing and storage of ice.
 

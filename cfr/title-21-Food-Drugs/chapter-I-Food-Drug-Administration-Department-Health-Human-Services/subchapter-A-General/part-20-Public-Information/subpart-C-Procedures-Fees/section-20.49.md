@@ -1,5 +1,7 @@
 ##### § 20.49 Denial of a request for records. #####
 
+Link to an amendment published at 87 FR 55913, Sept. 13, 2022.
+
 (a) A denial of a request for records, in whole or in part, shall be signed by the Assistant Commissioner for Public Affairs (or delegatee).
 
 (b) The name and title or position of each person who participated in the denial of a request for records shall be set forth in the letter denying the request. This requirement may be met by attaching a list of such individuals to the letter.

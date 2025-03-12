@@ -1,5 +1,7 @@
 ##### § 20.45 Fees to be charged. #####
 
+Link to an amendment published at 87 FR 55912, Sept. 13, 2022.
+
 (a) *Categories of requests.* Paragraphs (a) (1) through (3) of this section state, for each category of request, the type of fees that the Food and Drug Administration will generally charge. However, for each of these categories, the fees may be limited, waived, or reduced for the reasons given in paragraphs (b) and (c) of this section and in § 20.46 or for other reasons.
 
 (1) *Commercial use request.* If the request is for a commercial use, the Food and Drug Administration will charge for the costs of search, review, and duplication.

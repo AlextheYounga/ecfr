@@ -1,5 +1,7 @@
 ##### § 20.40 Filing a request for records. #####
 
+Link to an amendment published at 87 FR 55912, Sept. 13, 2022.
+
 (a) All requests for Food and Drug Administration records shall be made in writing by mailing or delivering the request to the Freedom of Information Staff at the address on the agency's web site at *http://www.fda.gov* or by faxing it to the fax number listed on the agency's web site at *http://www.fda.gov.* All requests must contain the postal address and telephone number of the requester and the name of the person responsible for payment of any fees that may be charged.
 
 (b) A request for Food and Drug Administration records shall reasonably describe the records being sought, in a way that they can be identified and located. A request should include all pertinent details that will help identify the records sought.

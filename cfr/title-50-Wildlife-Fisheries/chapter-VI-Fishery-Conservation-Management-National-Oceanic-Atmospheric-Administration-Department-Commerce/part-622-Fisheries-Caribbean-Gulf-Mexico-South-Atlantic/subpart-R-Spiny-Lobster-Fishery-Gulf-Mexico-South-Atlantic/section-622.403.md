@@ -1,5 +1,7 @@
 ##### § 622.403 Seasons. #####
 
+Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
+
 (a) *EEZ off the southern Atlantic states, other than Florida.* In the EEZ off the southern Atlantic states, other than Florida, there are no seasonal restrictions on the harvest of spiny lobster or on the possession of traps.
 
 (b) *EEZ off Florida and off the Gulf states, other than Florida* - (1) *Commercial and recreational fishing season.* The commercial and recreational fishing season for spiny lobster in the EEZ off Florida and the EEZ off the Gulf states, other than Florida, begins on August 6 and ends on March 31.

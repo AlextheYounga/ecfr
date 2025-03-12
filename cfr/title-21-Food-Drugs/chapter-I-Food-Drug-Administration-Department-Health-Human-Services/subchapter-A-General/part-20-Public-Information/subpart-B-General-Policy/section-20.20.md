@@ -1,5 +1,7 @@
 ##### § 20.20 Policy on disclosure of Food and Drug Administration records. #####
 
+Link to an amendment published at 87 FR 55911, Sept. 13, 2022.
+
 (a) The Food and Drug Administration will make the fullest possible disclosure of records to the public, consistent with the rights of individuals to privacy, the property rights of persons in trade secrets and confidential commercial or financial information, and the need for the agency to promote frank internal policy deliberations and to pursue its regulatory activities without disruption.
 
 (b) Except where specifically exempt pursuant to the provisions of this part, all Food and Drug Administration records shall be made available for public disclosure.

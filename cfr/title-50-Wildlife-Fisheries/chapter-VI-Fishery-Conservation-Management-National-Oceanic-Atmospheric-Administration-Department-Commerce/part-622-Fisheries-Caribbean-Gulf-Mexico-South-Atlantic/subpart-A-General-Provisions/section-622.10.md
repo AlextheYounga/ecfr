@@ -1,5 +1,7 @@
 ##### § 622.10 Landing fish intact - -general. #####
 
+Link to an amendment published at 87 FR 56216, Sept. 13, 2022.
+
 This section contains requirements for landing fish intact that are broadly applicable to finfish in the Gulf EEZ and Caribbean EEZ, as specified. See subparts B through V, as applicable, for additional species specific requirements for landing fish intact.
 
 (a) Finfish in or from the Gulf EEZ or Caribbean EEZ, except as specified in paragraphs (b) and (c) of this section, must be maintained with head and fins intact.

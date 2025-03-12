@@ -1,5 +1,7 @@
 ##### § 20.82 Discretionary disclosure by the Commissioner. #####
 
+Link to an amendment published at 87 FR 55913, Sept. 13, 2022.
+
 (a) Except as provided in paragraph (b) of this section, the Commissioner may, in his discretion, disclose part or all of any Food and Drug Administration record that is otherwise exempt from disclosure pursuant to subpart D of this part. The Commissioner shall exercise his discretion to disclose such records whenever he determines that such disclosure is in the public interest, will promote the objectives of the act and the agency, and is consistent with the rights of individuals to privacy, the property rights of persons in trade secrets, and the need for the agency to promote frank internal policy deliberations and to pursue its regulatory activities without disruption.
 
 (b) The Commissioner shall not make available for public disclosure any record that is:

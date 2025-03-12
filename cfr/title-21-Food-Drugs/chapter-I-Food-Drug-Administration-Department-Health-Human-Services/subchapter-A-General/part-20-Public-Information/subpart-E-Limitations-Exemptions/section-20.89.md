@@ -1,5 +1,7 @@
 ##### § 20.89 Communications with foreign government officials. #####
 
+Link to an amendment published at 87 FR 55914, Sept. 13, 2022.
+
 Communications with foreign government officials shall have the same status as communications with any member of the public, except that:
 
 (a) Investigatory records compiled for law enforcement purposes by foreign government officials who perform counterpart functions to the Food and Drug Administration in a foreign country, and trade secrets and confidential commercial or financial information obtained by such officials, which are voluntarily disclosed to the Food and Drug Administration as part of cooperative law enforcement and regulatory efforts, shall be exempt from public disclosure to the same extent to which the records would be so exempt pursuant to §§ 20.61 and 20.64, as if they had been prepared by or submitted directly to Food and Drug Administration employees, except that investigatory records shall be exempt from disclosure for a longer period of time if the foreign government officials so require as a condition of their furnishing the information to the Food and Drug Administration.

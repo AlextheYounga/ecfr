@@ -1,5 +1,7 @@
 ##### § 622.402 Vessel and gear identification. #####
 
+Link to an amendment published at 87 FR 56237, Sept. 13, 2022.
+
 (a) *EEZ off Florida.* (1) An owner or operator of a vessel that is used to harvest spiny lobster by traps in the EEZ off Florida must comply with the vessel and gear identification requirements specified in Rule 68B-24.006(3), (4), and (5), Florida Administrative Code, in effect as of May 1, 2017 (incorporated by reference, see § 622.413).
 
 (2) An owner or operator of a vessel that is used to harvest spiny lobster by diving in the EEZ off Florida must comply with the vessel identification requirements applicable to the harvesting of spiny lobsters by diving in Florida's waters in Rule 68B-24.006(6), Florida Administrative Code, in effect as of May 1, 2017 (incorporated by reference, see § 622.413).
