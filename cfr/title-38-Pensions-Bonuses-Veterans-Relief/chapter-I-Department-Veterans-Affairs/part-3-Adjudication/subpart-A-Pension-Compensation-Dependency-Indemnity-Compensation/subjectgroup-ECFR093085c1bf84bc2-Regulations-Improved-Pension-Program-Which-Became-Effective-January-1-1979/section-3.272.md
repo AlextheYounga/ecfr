@@ -122,4 +122,4 @@ The following shall be excluded from countable income for the purpose of determi
 
 (t) *Statutory exclusions.* Other amounts excluded from income by statute. See § 3.279. VA will exclude from income any amount designated by statute as not countable as income, regardless of whether or not it is listed in this section or in § 3.279.
 
-[44 FR 45936, Aug. 6, 1979]Editorial Note:For Federal Register citations affecting § 3.272, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[44 FR 45936, Aug. 6, 1979]Editorial Note:For Federal Register citations affecting § 3.272, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

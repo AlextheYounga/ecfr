@@ -14,7 +14,7 @@ When used in Department of Veterans Affairs medical regulations, each of the fol
 
 (Authority: 38 U.S.C. 1701(6))
 
-(b) *Domiciliary care.* The term domiciliary care -
+(b) *Domiciliary care.* The term domiciliary care—
 
 (1) Means the furnishing of:
 
@@ -24,4 +24,4 @@ When used in Department of Veterans Affairs medical regulations, each of the fol
 
 (2) Includes travel and incidental expenses pursuant to § 70.10.
 
-(Authority: 38 U.S.C. 1701(4))[23 FR 6498, Aug. 22, 1958]Editorial Note:For Federal Register citations affecting § 17.30, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Authority: 38 U.S.C. 1701(4))[23 FR 6498, Aug. 22, 1958]Editorial Note:For Federal Register citations affecting § 17.30, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

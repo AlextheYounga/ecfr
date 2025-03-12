@@ -6,7 +6,7 @@ Except as otherwise provided, the effective date of an evaluation and award of p
 
 (a) *Unless specifically provided.* On basis of facts found.
 
-(b) *Disability benefits* - (1) *Disability pension (§ 3.3).* An award of disability pension may not be effective prior to the date entitlement arose.
+(b) *Disability benefits*—(1) *Disability pension (§ 3.3).* An award of disability pension may not be effective prior to the date entitlement arose.
 
 (i) *Claims received prior to October 1, 1984.* Date of receipt of claim or date on which the veteran became permanently and totally disabled, if claim is filed within one year from such date, whichever is to the advantage of the veteran.
 
@@ -14,11 +14,11 @@ Except as otherwise provided, the effective date of an evaluation and award of p
 
 (B) If, within one year from the date on which the veteran became permanently and totally disabled, the veteran files a claim for a retroactive award and establishes that a physical or mental disability, which was not the result of the veteran's own willful misconduct, was so incapacitating that it prevented him or her from filing a disability pension claim for at least the first 30 days immediately following the date on which the veteran became permanently and totally disabled, the disability pension award may be effective from the date of receipt of claim or the date on which the veteran became permanently and totally disabled, whichever is to the advantage of the veteran. While rating board judgment must be applied to the facts and circumstances of each case, extensive hospitalization will generally qualify as sufficiently incapacitating to have prevented the filing of a claim. For the purposes of this subparagraph, the presumptive provisions of § 3.342(a) do not apply.
 
-(2) *Disability compensation* - (i) *Direct service connection (§ 3.4(b)).* Day following separation from active service or date entitlement arose if claim is received within 1 year after separation from service; otherwise, date of receipt of claim, or date entitlement arose, whichever is later. Separation from service means separation under conditions other than dishonorable from continuous active service which extended from the date the disability was incurred or aggravated.
+(2) *Disability compensation*—(i) *Direct service connection (§ 3.4(b)).* Day following separation from active service or date entitlement arose if claim is received within 1 year after separation from service; otherwise, date of receipt of claim, or date entitlement arose, whichever is later. Separation from service means separation under conditions other than dishonorable from continuous active service which extended from the date the disability was incurred or aggravated.
 
 (ii) *Presumptive service connection* (§§ *3.307, 3.308, 3.309*). Date entitlement arose, if claim is received within 1 year after separation from active duty; otherwise date of receipt of claim, or date entitlement arose, whichever is later. Where the requirements for service connection are met during service, the effective date will be the day following separation from service if there was continuous active service following the period of service on which the presumption is based and a claim is received within 1 year after separation from active duty.
 
-(c) *Death benefits* - (1) *Death in service (38 U.S.C. 5110(j), Pub. L. 87-825) (§§ 3.4(c), 3.5(b)).* First day of the month fixed by the Secretary concerned as the date of actual or presumed death, if claim is received with 1 year after the date the initial report of actual death or finding of presumed death was made; however benefits based on a report of actual death are not payable for any period for which the claimant has received, or is entitled to receive an allowance, allotment, or service pay of the veteran.
+(c) *Death benefits*—(1) *Death in service (38 U.S.C. 5110(j), Pub. L. 87-825) (§§ 3.4(c), 3.5(b)).* First day of the month fixed by the Secretary concerned as the date of actual or presumed death, if claim is received with 1 year after the date the initial report of actual death or finding of presumed death was made; however benefits based on a report of actual death are not payable for any period for which the claimant has received, or is entitled to receive an allowance, allotment, or service pay of the veteran.
 
 (2) *Service-connected death after separation from service (38 U.S.C. 5110(d), Pub. L. 87-825) (§§ 3.4(c), 3.5(b)).* First day of the month in which the veteran's death occurred if claim is received within 1 year after the date of death; otherwise, date of receipt of claim.
 
@@ -28,7 +28,7 @@ Except as otherwise provided, the effective date of an evaluation and award of p
 
 (Authority: 38 U.S.C. 5110(d))
 
-(4) *Dependency and indemnity compensation* - (i) *Deaths prior to January 1, 1957 (§ 3.702).* Date of receipt of election.
+(4) *Dependency and indemnity compensation*—(i) *Deaths prior to January 1, 1957 (§ 3.702).* Date of receipt of election.
 
 (ii) *Child (38 U.S.C. 5110(e), Pub. L. 87-835).* First day of the month in which entitlement arose if claim is received within 1 year after the date of entitlement; otherwise, date of receipt of claim.
 
@@ -88,7 +88,7 @@ Note:
 
 Award to guardian shall include amounts withheld for possible apportionments as well as money in Personal Funds of Patients.
 
-(o) *Increases (38 U.S.C. 5110(a) and 5110(b)(2), Pub. L. 94-71, 89 Stat. 395; §§ 3.109, 3.156, 3.157* - (1) *General.* Except as provided in paragraph (o)(2) of this section and § 3.401(b), date of receipt of claim or date entitlement arose, whichever is later. A retroactive increase or additional benefit will not be awarded after basic entitlement has been terminated, such as by severance of service connection.
+(o) *Increases (38 U.S.C. 5110(a) and 5110(b)(2), Pub. L. 94-71, 89 Stat. 395; §§ 3.109, 3.156, 3.157*—(1) *General.* Except as provided in paragraph (o)(2) of this section and § 3.401(b), date of receipt of claim or date entitlement arose, whichever is later. A retroactive increase or additional benefit will not be awarded after basic entitlement has been terminated, such as by severance of service connection.
 
 (2) *Disability compensation.* Earliest date as of which it is factually ascertainable based on all evidence of record that an increase in disability had occurred if a complete claim or intent to file a claim is received within 1 year from such date, otherwise, date of receipt of claim. When medical records indicate an increase in a disability, receipt of such medical records may be used to establish effective date(s) for retroactive benefits based on facts found of an increase in a disability only if a complete claim or intent to file a claim for an increase is received within 1 year of the date of the report of examination, hospitalization, or medical treatment. The provisions of this paragraph apply only when such reports relate to examination or treatment of a disability for which service-connection has previously been established.
 
@@ -96,7 +96,7 @@ Award to guardian shall include amounts withheld for possible apportionments as 
 
 (p) *Liberalizing laws and Department of Veterans Affairs issues.* See § 3.114.
 
-(q) *New and material evidence (§ 3.156) other than service department records* - (1) *Received within appeal period or prior to appellate decision.* The effective date will be as though the former decision had not been rendered. See §§ 20.1103, 20.1104 and 20.1304(b)(1) of this chapter.
+(q) *New and material evidence (§ 3.156) other than service department records*—(1) *Received within appeal period or prior to appellate decision.* The effective date will be as though the former decision had not been rendered. See §§ 20.1103, 20.1104 and 20.1304(b)(1) of this chapter.
 
 (2) *Received after final disallowance.* Date of receipt of new claim or date entitlement arose, whichever is later.
 
@@ -108,7 +108,7 @@ Award to guardian shall include amounts withheld for possible apportionments as 
 
 (t) *Whereabouts now known.* (See § 3.158(c).)
 
-(u) *Void, annulled or terminated marriage of a child* (*38 U.S.C. 5110* (*a*), (*k*), (*l*)*; Pub. L. 93-527, 88 Stat. 1702;* § *3.55*) - (1) *Void.* Date the parties ceased to cohabit or date of receipt of claim, whichever is later.
+(u) *Void, annulled or terminated marriage of a child* (*38 U.S.C. 5110* (*a*), (*k*), (*l*)*; Pub. L. 93-527, 88 Stat. 1702;* § *3.55*)—(1) *Void.* Date the parties ceased to cohabit or date of receipt of claim, whichever is later.
 
 (2) *Annulled.* Date the decree of annulment became final if claim is filed within 1 year after that date; otherwise date of receipt of claim.
 
@@ -116,7 +116,7 @@ Award to guardian shall include amounts withheld for possible apportionments as 
 
 (4) *Divorce.* Date the decree became final if claim is filed within 1 year of that date; otherwise date of receipt of claim. Benefits are not payable unless the provisions of § 3.55(b) of this part are met.
 
-(v) *Termination of remarriage of surviving spouse (38 U.S.C. 5110(a), (k); 38 U.S.C. 103(d) and 3010(l) effective January 1, 1971; § 3.55)* - (1) *Void.* Date the parties ceased to cohabit or date of receipt of claim, whichever is the later.
+(v) *Termination of remarriage of surviving spouse (38 U.S.C. 5110(a), (k); 38 U.S.C. 103(d) and 3010(l) effective January 1, 1971; § 3.55)*—(1) *Void.* Date the parties ceased to cohabit or date of receipt of claim, whichever is the later.
 
 (2) *Annulled.* Date the decree of annulment became final if claim is filed within 1 year after that date; otherwise date of receipt of claim.
 
@@ -146,4 +146,4 @@ Award to guardian shall include amounts withheld for possible apportionments as 
 
 (ii) One year prior to date of receipt of a supplemental claim.
 
-[26 FR 1593, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 1593, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

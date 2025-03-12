@@ -24,7 +24,7 @@ Employees occupying or acting in the positions designated below are delegated au
 
 (9) To develop and establish minimum safety and quality standards for adaptive equipment provided under chapter 39 of title 38, United States Code, or to appoint a designee to perform these functions.
 
-(b) *Veterans Benefits Administration* - (1) *General.* The Under Secretary for Benefits is delegated authority to act on all matters assigned to the Veterans Benefits Administration except as provided in § 1.771 of this chapter and to authorize supervisory or adjudicative personnel within his/her jurisdiction to perform such functions as may be assigned.
+(b) *Veterans Benefits Administration*—(1) *General.* The Under Secretary for Benefits is delegated authority to act on all matters assigned to the Veterans Benefits Administration except as provided in § 1.771 of this chapter and to authorize supervisory or adjudicative personnel within his/her jurisdiction to perform such functions as may be assigned.
 
 (2) *Philippines.* The Director, Department of Veterans Affairs Regional Office, Manila, Philippines, is delegated authority to exercise such authorities as are delegated to directors of regional offices in the United States, which are appropriate to the administration in the Republic of the Philippines of the laws administered by the Department of Veterans Affairs.
 
@@ -122,4 +122,4 @@ Employees occupying or acting in the positions designated below are delegated au
 
 (k) *Processing complaints involving certain officials.* A complaint alleging that the Secretary or the Deputy Secretary personally made a decision directly related to matters in dispute, or are otherwise personally involved in such matters, will be referred for procedural acceptability review, investigation, and substantive decisionmaking to another Federal agency (e.g., The Department of Justice) pursuant to a cost reimbursement agreement. Referral will not be made when the action complained of relates merely to ministerial involvement in such matters (e.g., ministerial approval of selection recommendations submitted to the Secretary by the Under Secretary for Health, the Under Secretary for Benefits, the Under Secretary for Memorial Affairs, assistant secretaries, or staff office heads).
 
-(Authority: 38 U.S.C. 501, 512)[25 FR 11095, Nov. 23, 1960]Editorial Note:For Federal Register citations affecting § 2.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Authority: 38 U.S.C. 501, 512)[25 FR 11095, Nov. 23, 1960]Editorial Note:For Federal Register citations affecting § 2.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

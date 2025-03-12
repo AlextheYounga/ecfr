@@ -58,7 +58,7 @@
 
 (g) *Proof of dependents.* The veteran will be considered to have neither spouse, child nor dependent parent in the absence of satisfactory proof. Statements contained in the claims folder concerning the existence of such dependents will be considered a prima facie showing. If the necessary evidence is not received: (1) Within 60 days after the date of request where the award is subject to reduction under paragraph (b) of this section, or (2) prior to the effective date of reduction under paragraph (c) of this section, the veteran's award will be reduced on the basis of no dependents. The full rate may be authorized from the date of reduction if the necessary evidence is received within 1 year after the date of request.
 
-(h) *Hospitalization* - (1) *General.* The reduction required by paragraphs (d) and (e), except as they refer to domiciliary care, shall not be made for up to three additional calendar months after the last day of the third month referred to in paragraphs (d)(2) or (e)(1) of this section, or after the last day of the month referred to in paragraphs (d)(3) or (e)(2) of this section, under the following conditions:
+(h) *Hospitalization*—(1) *General.* The reduction required by paragraphs (d) and (e), except as they refer to domiciliary care, shall not be made for up to three additional calendar months after the last day of the third month referred to in paragraphs (d)(2) or (e)(1) of this section, or after the last day of the month referred to in paragraphs (d)(3) or (e)(2) of this section, under the following conditions:
 
 (i) The Chief Medical Director, or designee, certifies that the primary purpose for furnishing hospital or nursing home care during the additional period is to provide the veteran with a prescribed program of rehabilitation under chapter 17 of title 38, United States Code, designed to restore the veteran's ability to function within the veteran's family and community; and
 
@@ -80,4 +80,4 @@
 
 Time limits. See § 3.109. Apportionment. See § 3.400(e). Reductions and discontinuances; general. See § 3.500. Incompetents; resumption. See § 3.558.
 
-[27 FR 7677, Aug. 3, 1962]Editorial Note:For Federal Register citations affecting § 3.551, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[27 FR 7677, Aug. 3, 1962]Editorial Note:For Federal Register citations affecting § 3.551, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

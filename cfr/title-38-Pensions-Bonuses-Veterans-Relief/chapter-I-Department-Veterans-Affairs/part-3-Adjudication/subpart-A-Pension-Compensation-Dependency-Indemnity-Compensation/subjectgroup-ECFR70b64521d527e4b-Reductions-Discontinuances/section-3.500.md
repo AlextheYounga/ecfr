@@ -22,7 +22,7 @@ The effective date of a rating which results in the reduction or discontinuance 
 
 (f) *Contested claims § 3.402(b) and § subpart F of part 20 of this chapter).* Date of last payment.
 
-(g) *Death (38 U.S.C. 5112 (a), (b))* - (1) *Payee (includes apportionee).* Last day of month before death.
+(g) *Death (38 U.S.C. 5112 (a), (b))*—(1) *Payee (includes apportionee).* Last day of month before death.
 
 (2) *Dependent of payee (includes apportionee):*
 
@@ -42,7 +42,7 @@ The effective date of a rating which results in the reduction or discontinuance 
 
 (l)-(m) [Reserved]
 
-(n) *Marriage (or remarriage)* (38 U.S.C. 101(3), 5112 (b)) - (1) *Payee* (*includes apportionee*). Last day of month before marriage.
+(n) *Marriage (or remarriage)* (38 U.S.C. 101(3), 5112 (b))—(1) *Payee* (*includes apportionee*). Last day of month before marriage.
 
 (2) *Dependent of payee (includes apportionee):*
 
@@ -82,4 +82,4 @@ The effective date of a rating which results in the reduction or discontinuance 
 
 Failure to return questionnaire. See § 3.661(b).
 
-[26 FR 1596, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.500, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 1596, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.500, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
