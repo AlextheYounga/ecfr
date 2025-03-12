@@ -1,0 +1,3 @@
+##### § 1604.6 Public availability of accidental release records. #####
+
+Accidental release records collected by the CSB under this part may be obtained by making a request in accordance with 40 CFR part 1601, the CSB's procedures for the disclosure of records under the Freedom of Information Act. The CSB will process requests, and if appropriate, disclose such records, in accordance with 40 CFR part 1601 and relevant Federal information disclosure laws.

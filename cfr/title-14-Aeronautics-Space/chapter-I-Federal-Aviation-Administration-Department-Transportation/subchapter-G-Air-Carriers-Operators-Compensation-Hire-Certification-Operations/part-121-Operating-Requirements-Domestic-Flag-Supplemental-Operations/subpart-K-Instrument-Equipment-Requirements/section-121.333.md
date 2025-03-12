@@ -16,7 +16,7 @@
 
 (ii) Whenever a quick-donning type of oxygen mask is to be used under this section, the certificate holder shall also show that the mask can be put on without disturbing eye glasses and without delaying the flight crewmember from proceeding with his assigned emergency duties. The oxygen mask after being put on must not prevent immediate communication between the flight crewmember and other crewmembers over the airplane intercommunication system.
 
-(3) Notwithstanding paragraph (c)(2) of this section, if for any reason at any time it is necessary for one pilot to leave his station at the controls of the airplane when operating at flight altitudes above flight level 250, the remaining pilot at the controls shall put on and use his oxygen mask until the other pilot has returned to his duty station.
+(3) Notwithstanding paragraph (c)(2) of this section, if for any reason at any time it is necessary for one pilot to leave his station at the controls of the airplane when operating at flight altitudes above flight level 410, the remaining pilot at the controls shall put on and use his oxygen mask until the other pilot has returned to his duty station.
 
 (4) Before the takeoff of a flight, each flight crewmember shall personally preflight his oxygen equipment to insure that the oxygen mask is functioning, fitted properly, and connected to appropriate supply terminals, and that the oxygen supply and pressure are adequate for use.
 
@@ -38,4 +38,4 @@
 
 (f) *Passenger briefing.* Before flight is conducted above flight level 250, a crewmember shall instruct the passengers on the necessity of using oxygen in the event of cabin depressurization and shall point out to them the location and demonstrate the use of the oxygen-dispensing equipment.
 
-[Doc. No. 6258, 29 FR 19205, Dec. 31, 1964, as amended by Amdt. 121-11, 30 FR 12466, Sept. 30, 1965; Amdt. 121-132, 41 FR 55475, Dec. 20, 1976; Amdt. 121-262, 62 FR 13256, Mar. 19, 1997; 62 FR 15570, Apr. 1, 1997; Amdt. 121-306, 69 FR 62789, Oct. 27, 2004]
+[Doc. No. 6258, 29 FR 19205, Dec. 31, 1964, as amended by Amdt. 121-11, 30 FR 12466, Sept. 30, 1965; Amdt. 121-132, 41 FR 55475, Dec. 20, 1976; Amdt. 121-262, 62 FR 13256, Mar. 19, 1997; 62 FR 15570, Apr. 1, 1997; Amdt. 121-306, 69 FR 62789, Oct. 27, 2004; Amdt. 121-383, 85 FR 16900, Mar. 25, 2020]

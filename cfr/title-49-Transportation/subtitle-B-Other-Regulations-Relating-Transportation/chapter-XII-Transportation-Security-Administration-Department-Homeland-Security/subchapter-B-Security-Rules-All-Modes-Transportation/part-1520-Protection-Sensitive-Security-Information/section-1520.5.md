@@ -1,5 +1,7 @@
 ##### § 1520.5 Sensitive security information. #####
 
+Link to an amendment published at 85 FR 16499, Mar. 23, 2020.
+
 (a) *In general.* In accordance with 49 U.S.C. 114(s), SSI is information obtained or developed in the conduct of security activities, including research and development, the disclosure of which TSA has determined would -
 
 (1) Constitute an unwarranted invasion of privacy (including, but not limited to, information contained in any personnel, medical, or similar file);

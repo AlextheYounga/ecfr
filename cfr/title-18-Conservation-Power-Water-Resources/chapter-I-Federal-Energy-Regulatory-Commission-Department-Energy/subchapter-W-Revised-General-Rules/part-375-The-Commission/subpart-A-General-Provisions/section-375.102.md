@@ -1,9 +1,7 @@
 ##### § 375.102 Custody and authentication of Commission records. #####
 
-Link to an amendment published at 85 FR 9663, Feb. 20, 2020.
+(a) *Custody of official records.* The Senior Agency Official for Records shall have legal custody of all records of the Commission. The individual Commission office that maintains a record shall have physical custody of that record.
 
-(a) *Custody of official records.* (1) The Secretary shall have custody of the Commission's seal, the minutes of all action taken by the Commission, the transcripts, electronic recordings, or minutes of meetings closed to public observation, its rules and regulations, and its administrative orders.
+(b) *Authentication of action.* All orders and other actions of the Commission shall be authenticated by the Secretary or the Secretary's designee, with the exception of actions taken pursuant to delegations of authority under 18 CFR part 375, subpart C, which will be authenticated by the issuing official. Issuances posted on the Commission's electronic filing system on the Commission's website are authenticated.
 
-(2) The Executive Director shall have custody of records of the Commission except records designated in paragraph (a)(1) of this section.
-
-(b) *Authentication of Commission action.* All orders and other actions of the Commission shall be authenticated or signed by the Secretary or the Secretary's designee.
+[Order 868, 85 FR 9663, Feb. 20, 2020]

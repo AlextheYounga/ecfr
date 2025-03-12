@@ -1,7 +1,5 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 85 FR 9692, Feb. 20, 2020.
-
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.
@@ -174,7 +172,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (*2*) If a catcher vessel identified in paragraph (c)(3)(i)(A)(*1*) or (c)(3)(i)(B)(*1*) through (*3*) of this section is active, the operator must record in the longline and pot gear DFL, for one or more days on each logsheet, the information listed in paragraphs (c)(3)(v), (vi), (viii), and (x) of this section.
 
-(*3*) *Retain and record discard quantities over the MRA.* When a catcher vessel is fishing in an IFQ fishery and the fishery for Pacific cod or rockfish is closed to directed fishing but not in PSC status in that reporting area as described in § 679.20, the operator must retain and record up to and including the maximum retainable amount (MRA) for Pacific cod or rockfish as defined in Table 10 or 11 to this part. Quantities over this amount must be discarded and recorded as discard in the logbook.
+(*3*) *Retain and record discard quantities over the MRA.* When a CV is fishing in an IFQ fishery and the fishery for Pacific cod is closed to directed fishing but not in PSC status in that reporting area as described in § 679.20, the operator must retain and record up to and including the maximum retainable amount (MRA) for Pacific cod as defined in Tables 10 or 11 to this part. Quantities over this amount must be discarded and recorded as discard in the logbook.
 
 (B) *Catcher/processor, longline or pot gear.* (*1*) A catcher/processor using longline or pot gear is active when processing or when all or part of the longline or pot gear is in the water.
 

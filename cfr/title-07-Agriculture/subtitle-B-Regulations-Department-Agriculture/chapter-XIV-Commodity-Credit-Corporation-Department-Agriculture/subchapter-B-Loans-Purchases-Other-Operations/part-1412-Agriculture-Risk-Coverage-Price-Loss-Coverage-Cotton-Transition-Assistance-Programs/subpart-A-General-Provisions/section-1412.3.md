@@ -32,7 +32,7 @@ The definitions in this section are applicable for all purposes of administering
 
 *ARC-CO* means the Agriculture Risk Coverage elected with the county option.
 
-*ARC guarantee* is calculated for a crop year for a covered commodity, and is equal to ARC-CO and ARC-IC, as defined in this part.
+*ARC guarantee* is calculated for a crop year for a covered commodity, and is equal to 86 percent of the benchmark revenue for ARC-CO and ARC-IC, as defined in this part.
 
 *ARC-IC* means the Agriculture Risk Coverage elected with the individual option.
 
@@ -44,7 +44,7 @@ The definitions in this section are applicable for all purposes of administering
 
 *Benchmark revenue for ARC-CO* is calculated as the product obtained by multiplying the average historical county yield times the average MYA price for the most recent 5 crop years available, excluding each of the crop years with the highest and lowest prices and substituting the effective reference price in each year where the MYA price is less than the effective reference price. If a county has separate irrigated and non-irrigated yields established for a covered commodity, the benchmark revenue calculated by FSA for that farm and covered commodity will be weighted based on the farm's historical irrigated percentage.
 
-*Benchmark revenue for ARC-IC* means a producer's share of allcovered commodities planted on all farms in the State for which individual ARC has been elected and enrolled and in which the producer has an interest. FSA will calculate the benchmark revenue for ARC-IC using the following three steps, based on the producer's planted commodities:
+*Benchmark revenue for ARC-IC* means a producer's share of all covered commodities planted on all farms in the State for which individual ARC has been elected and enrolled and in which the producer has an interest. FSA will calculate the benchmark revenue for ARC-IC using the following three steps, based on the producer's planted commodities:
 
 (1) For each planted covered commodity for each of the most recent 5 crop years available:
 
@@ -88,7 +88,7 @@ The definitions in this section are applicable for all purposes of administering
 
 *Dry peas* means Austrian, wrinkled seed, yellow, Umatilla, and green peas, excluding peas grown for the fresh, canning, or frozen market.
 
-*Effective price* is, the higher of the -
+*Effective price* is, the higher of the—
 
 (1) National average market price received by producers during the 12-month marketing year for the covered commodity (also known as the MYA price), as determined by FSA; or
 
@@ -212,11 +212,15 @@ The definitions in this section are applicable for all purposes of administering
 
 *Supportive and necessary contractual documents* mean those documents including, but not limited to, those items substantiating the ARC or PLC contract such as leases, deeds, signatures of contract participants, owners, operators, and other tenant signatures, as determined by FSA.
 
-*Temperate japonica rice* means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by FSA, for the purpose of the -
+*Temperate japonica rice* means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by FSA, for the purpose of the—
 
 (1) Reallocation of base acres under subpart B of this part;
 
-(2) Establishment of a reference price of 115 percent times the established reference price of medium grain rice and determining temperate japonica rice's own effective price; and
+(2) Establishment of a reference price equal to the medium grain rice reference price multiplied by the ratio obtained by dividing:
+
+(i) The simple average of the marketing year average price of medium grain rice from the 2012 through 2016 crop years, by
+
+(ii) The simple average of the marketing year average price of all rice from the 2012 through 2016 crop years; and
 
 (3) Determination of the actual crop revenue and ARC guarantee under subparts D and E of this part.
 
@@ -228,4 +232,4 @@ The definitions in this section are applicable for all purposes of administering
 
 *Upland cotton* means cotton that is produced in the United States from other than pure strain varieties of the Barbadense species, any hybrid thereof, or any other variety of cotton in which one or more of these varieties predominate. In other words, it means any cotton that is not extra long staple cotton.
 
-[79 FR 46339, Aug. 8, 2014, as amended at 79 FR 57714, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 40657, Aug. 16, 2018; 84 FR 45888, Sept. 3, 2019]
+[79 FR 46339, Aug. 8, 2014, as amended at 79 FR 57714, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 40657, Aug. 16, 2018; 84 FR 45888, Sept. 3, 2019; 85 FR 16232, Mar. 23, 2020]

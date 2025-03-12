@@ -1,5 +1,7 @@
 ##### § 1500.3 Terms and abbreviations used in this chapter. #####
 
+Link to an amendment published at 85 FR 16497, Mar. 23, 2020.
+
 As used in this chapter:
 
 *Administrator* means the Under Secretary of Transportation for Security identified in 49 U.S.C. 114(b) who serves as the Administrator of the Transportation Security Administration.

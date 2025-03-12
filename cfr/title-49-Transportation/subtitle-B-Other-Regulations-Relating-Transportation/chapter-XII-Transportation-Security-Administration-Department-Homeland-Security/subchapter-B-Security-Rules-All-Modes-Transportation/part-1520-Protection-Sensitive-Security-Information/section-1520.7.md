@@ -1,5 +1,7 @@
 ##### § 1520.7 Covered persons. #####
 
+Link to an amendment published at 85 FR 16499, Mar. 23, 2020.
+
 Persons subject to the requirements of part 1520 are:
 
 (a) Each airport operator, aircraft operator, and fixed base operator subject to the requirements of subchapter C of this chapter, and each armed security officer under subpart B of part 1562.

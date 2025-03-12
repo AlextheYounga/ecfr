@@ -1,0 +1,61 @@
+##### § 1.901(m)-2 Covered asset acquisitions and relevant foreign assets. #####
+
+(a) *In general.* Paragraph (b) of this section sets forth the transactions that are covered asset acquisitions (or CAAs). Paragraph (c) of this section provides rules for identifying assets that are relevant foreign assets (or RFAs) with respect to a CAA. Paragraph (d) of this section provides special rules for identifying CAAs and RFAs with respect to transactions to which paragraphs (b) and (c) of this section do not apply. Paragraph (e) of this section provides examples illustrating the rules of this section, and paragraph (f) of this section provides applicability dates.
+
+(b) *Covered asset acquisitions.* Except as provided in paragraph (d) of this section, the transactions set forth in this paragraph (b) are CAAs.
+
+(1) A qualified stock purchase (as defined in section 338(d)(3)) to which section 338(a) applies (*section 338 CAA*);
+
+(2) Any transaction that is treated as an acquisition of assets for U.S. income tax purposes and treated as an acquisition of stock of a corporation (or disregarded) for foreign income tax purposes;
+
+(3) Any acquisition of an interest in a partnership that has an election in effect under section 754 (*section 743(b) CAA*);
+
+(4) Any transaction (or series of transactions occurring pursuant to a plan) to the extent it is treated as an acquisition of assets for purposes of U.S. income tax and as the acquisition of an interest in a fiscally transparent entity for purposes of a foreign income tax;
+
+(5) Any transaction (or series of transactions occurring pursuant to a plan) to the extent it is treated as a partnership distribution of one or more assets the U.S. basis of which is determined by section 732(b) or 732(d) or to the extent it causes the U.S. basis of the partnership's remaining assets to be adjusted under section 734(b), provided the transaction results in an increase in the U.S. basis of one or more of the assets distributed by the partnership or retained by the partnership without a corresponding increase in the foreign basis of such assets; and
+
+(6) Any transaction (or series of transactions occurring pursuant to a plan) to the extent it is treated as an acquisition of assets for purposes of both U.S. income tax and a foreign income tax, provided the transaction results in an increase in the U.S. basis without a corresponding increase in the foreign basis of one or more assets.
+
+(c) *Relevant foreign asset*—(1) *In general.* Except as provided in paragraph (d) of this section, an RFA means, with respect to a foreign income tax and a CAA, any asset (including goodwill, going concern value, or other intangible) subject to the CAA that is relevant in determining foreign income for purposes of the foreign income tax.
+
+(2) *RFA status with respect to a foreign income tax.* An asset is relevant in determining foreign income if income, deduction, gain, or loss attributable to the asset is taken into account in determining foreign income immediately after the CAA, or would be taken into account in determining foreign income immediately after the CAA if the asset were to give rise to income, deduction, gain, or loss at such time.
+
+(3) *Subsequent RFA status with respect to another foreign income tax.* After a CAA, an asset will become an RFA with respect to another foreign income tax if, pursuant to a plan or series of related transactions that have a principal purpose of avoiding the application of section 901(m), an asset that was not relevant in determining foreign income for purposes of that foreign income tax immediately after the CAA becomes relevant in determining such foreign income. A principal purpose of avoiding section 901(m) will be deemed to exist if income, deduction, gain, or loss attributable to the asset is taken into account in determining such foreign income within the one-year period following the CAA, or would be taken into account in determining such foreign income during such time if the asset were to give rise to income, deduction, gain, or loss within the one-year period.
+
+(d) *Identifying covered asset acquisitions and relevant foreign assets to which paragraphs (b) and (c) of this section do not apply.* For transactions occurring on or after January 1, 2011, and before July 21, 2014, other than transactions occurring before July 21, 2014, resulting from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after July 29, 2014, and that is effective on or before July 21, 2014, the transactions set forth under section 901(m)(2) are CAAs and the assets that are relevant foreign assets with respect to the CAA under section 901(m)(4) are RFAs.
+
+(e) *Examples.* The following examples illustrate the rules of this section:
+
+(1) *Example 1: CAA involving an acquisition of a partnership interest for foreign income tax purposes*—(i) *Facts.* (A) FPS is an entity organized in Country F that is treated as a partnership for both U.S. and Country F income tax purposes. FPS is owned equally by FC1 and FC2, each of which is a corporation organized in Country F and treated as a corporation for both U.S. and Country F income tax purposes. FPS has a single asset, Asset A. USP, a domestic corporation, owns all the interests in DE, a disregarded entity.
+
+(B) Pursuant to the same transaction, USP acquires FC1's interest in FPS, and DE acquires FC2's interest in FPS. For U.S. income tax purposes, with respect to USP, the acquisition of the interests in FPS is treated as the acquisition of Asset A by USP. See Rev. Rul. 99-6, 1999-1 C.B. 432. For Country F tax purposes, the acquisitions of the interests of FPS by USP and DE are treated as acquisitions of partnership interests.
+
+(ii) *Result.* The transaction is a CAA under paragraph (b)(4) of this section because it is treated as the acquisition of Asset A for U.S. income tax purposes and the acquisition of interests in a fiscally transparent entity for Country F tax purposes.
+
+(2) *Example 2: CAA involving an asset acquisition for purposes of both U.S. income tax and a foreign income tax*—(i) *Facts.* (A) USP, a domestic corporation, wholly owns CFC1, a foreign corporation, and CFC1 wholly owns CFC2, also a foreign corporation. CFC1 and CFC2 are organized in Country F. CFC1 owns Asset A.
+
+(B) In an exchange described in section 351, CFC1 transfers Asset A to CFC2 in exchange for CFC2 common stock and cash. CFC1 recognizes gain on the exchange under section 351(b). Under section 362(a), CFC2's U.S. basis in Asset A is increased by the gain recognized by CFC1. For Country F tax purposes, gain or loss is not recognized on the transfer of Asset A to CFC2, and therefore there is no increase in the foreign basis in Asset A.
+
+(ii) *Result.* The transaction is a CAA under paragraph (b)(6) of this section because it is treated as an acquisition of Asset A by CFC2 for both U.S. and Country F income tax purposes, and it results in an increase in the U.S. basis of Asset A without a corresponding increase in the foreign basis of Asset A.
+
+(3) *Example 3: RFA status determined immediately after CAA; application of principal purpose rule*—(i) *Facts.* (A) USP1 and USP2 are unrelated domestic corporations. USP1 wholly owns USSub, also a domestic corporation. On January 1 of Year 1, USP2 acquires all of the stock of USSub from USP1 in a qualified stock purchase (as defined in section 338(d)(3)) to which section 338(a) applies. Immediately after the acquisition, none of the income, deduction, gain, or loss attributable to any of the assets of USSub is taken into account in determining foreign income for purposes of a foreign income tax nor would such items be taken into account in determining foreign income for purposes of a foreign income tax immediately after the acquisition if such assets were to give rise to income, deduction, gain, or loss immediately after the acquisition.
+
+(B) On December 1 of Year 1, USSub contributes all its assets to FSub, its wholly owned subsidiary, which is a corporation for both U.S. and Country X income tax purposes, in a transfer described in section 351 (subsequent transfer). USSub recognizes no gain or loss for U.S. or Country X income tax purposes as a result of the subsequent transfer. As a result of the subsequent transfer, income, deduction, gain, or loss attributable to the assets of USSub that were transferred to FSub is taken into account in determining foreign income of FSub for Country X tax purposes.
+
+(ii) *Result.* (A) Under paragraph (b)(1) of this section, the acquisition by USP2 of the stock of USSub is a section 338 CAA. Under paragraph (c)(1) of this section, none of the assets of USSub are RFAs immediately after the CAA, because none of the income, deduction, gain, or loss attributable to such assets is taken into account for purposes of determining foreign income with respect to any foreign income tax immediately after the CAA (nor would such items be taken into account for purposes of determining foreign income immediately after the CAA if such assets were to give rise to income, deduction, gain, or loss at such time).
+
+(B) Although the subsequent transfer is not a CAA under paragraph (b) of this section, the subsequent transfer causes the assets of USSub to become relevant in the hands of FSub in determining foreign income for Country X tax purposes. Because the subsequent transfer occurred within the one-year period following the CAA, it is presumed to have a principal purpose of avoiding section 901(m) under paragraph (c)(3) of this section. Accordingly, the assets of USSub with respect to the CAA occurring on January 1 of Year 1 become RFAs with respect to Country X tax as a result of the subsequent transfer. Thus, a basis difference with respect to Country X tax must be computed for the RFAs and taken into account under section 901(m).
+
+(f) *Applicability dates.* (1) Except as provided in paragraph (f)(2) of this section, this section applies to CAAs occurring on or after March 23, 2020.
+
+(2) Paragraphs (a), (b)(1) through (3), and (c)(1) of this section apply to transactions occurring on or after July 21, 2014, and to transactions occurring before that date resulting from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after July 29, 2014, and that is effective on or before July 21, 2014. Paragraph (d) of this section applies to transactions occurring on or after January 1, 2011, and before July 21, 2014, other than transactions occurring before July 21, 2014, resulting from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after July 29, 2014, and that is effective on or before July 21, 2014.
+
+(3) Taxpayers may, however, choose to apply provisions in this section before the date such provisions are applicable pursuant to paragraph (f)(1) or (2) of this section, provided that they (along with any persons that are related (within the meaning of section 267(b) or 707(b)) to the taxpayer)—
+
+(i) Consistently apply this section (excluding paragraph (d) of this section) to all CAAs occurring on or after December 7, 2016 and consistently apply § 1.704-1(b)(4)(viii)(*c*)(*4*)(*v*) through (*vii*), § 1.901(m)-1, and §§ 1.901(m)-3 through 1.901(m)-8 (excluding § 1.901(m)-4(e)) to all CAAs occurring on or after January 1, 2011, on any original or amended tax return for each taxable year for which the application of the provisions listed in this paragraph (f)(3)(i) affects the tax liability and for which the statute of limitations does not preclude assessment or the filing of a claim for refund, as applicable;
+
+(ii) File all tax returns described in paragraph (f)(3)(i) of this section for any taxable year ending on or before March 23, 2020, no later than March 23, 2021; and
+
+(iii) Make appropriate adjustments to take into account deficiencies that would have resulted from the consistent application under paragraph (f)(3)(i) of this section for taxable years that are not open for assessment.
+
+[T.D. 9895, 85 FR 16251, Mar. 23, 2020]

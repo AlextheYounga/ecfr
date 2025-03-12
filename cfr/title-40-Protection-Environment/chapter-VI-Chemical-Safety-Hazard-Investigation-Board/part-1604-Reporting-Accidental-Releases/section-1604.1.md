@@ -1,0 +1,3 @@
+##### § 1604.1 Purpose. #####
+
+The enabling legislation of the Chemical Safety and Hazard Investigation Board (CSB) provides that the CSB shall establish by regulation requirements binding on persons for reporting accidental releases into the ambient air subject to the Board's investigative jurisdiction. 42 U.S.C. 7412(r)(6)(C)(iii). This part establishes the rule required by the enabling legislation. The purpose of this part is to require prompt notification of any accidental release within the CSB's investigatory jurisdiction.

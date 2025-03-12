@@ -1,5 +1,7 @@
 ##### § 1520.3 Terms used in this part. #####
 
+Link to an amendment published at 85 FR 16499, Mar. 23, 2020.
+
 In addition to the terms in § 1500.3 of this chapter, the following terms apply in this part:
 
 *Administrator* means the Under Secretary of Transportation for Security referred to in 49 U.S.C. 114(b), or his or her designee.

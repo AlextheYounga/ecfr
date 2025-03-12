@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 85 FR 9692, Feb. 20, 2020.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -16,7 +14,11 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (4) *Pollock roe.* Retain pollock roe on board a vessel in violation of § 679.20(g).
 
-(5) [Reserved]
+(5) *Rockfish by catcher vessels using hook-and-line, jig, or pot gear.*
+
+(i) For any person, to discard rockfish from a catcher vessel required to have a Federal fisheries permit that is fishing for groundfish or IFQ or CDQ halibut using hook-and-line, jig, or pot gear in the BSAI or GOA until that fish has been landed.
+
+(ii) Exceed the maximum commerce allowance amount established under § 679.20(j).
 
 (6) *Gear.* Deploy any trawl, longline, longline pot, pot-and-line, or jig gear in an area when directed fishing for, or retention of, all groundfish by operators of vessels using that gear type is prohibited in that area, except that this paragraph (a)(6) shall not prohibit:
 
@@ -320,13 +322,13 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (i) In the GOA:
 
-(A) Rockfish that are taken when IFQ halibut or IFQ sablefish are on board unless rockfish are required to be discarded under subpart B of this part.
+(A) [Reserved]
 
 (B) Pacific cod that are taken when IFQ halibut or IFQ sablefish are on board unless Pacific cod are required to be discarded under subpart B of this part, or Pacific cod are not authorized to be retained under subpart A of this part.
 
 (ii) In the BSAI:
 
-(A) Rockfish that are taken when IFQ halibut or IFQ sablefish are on board unless rockfish are required to be discarded under subpart B of this part.
+(A) [Reserved]
 
 (B) Pacific cod that are taken when IFQ halibut or IFQ sablefish are on board according to the following table:
 

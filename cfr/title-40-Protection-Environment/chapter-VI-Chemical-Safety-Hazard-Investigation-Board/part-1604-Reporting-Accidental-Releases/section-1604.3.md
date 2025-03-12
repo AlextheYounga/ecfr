@@ -1,0 +1,11 @@
+##### § 1604.3 Reporting an accidental release. #####
+
+(a) The owner or operator of a stationary source must report in accordance with paragraph (b) or (c) of this section, any accidental release resulting in a fatality, serious injury, or substantial property damage.
+
+(b) If the owner or operator has submitted a report to the National Response Center (NRC) pursuant to 40 CFR 302.6, the CSB reporting requirement may be satisfied by submitting the NRC identification number to the CSB within 30 minutes of submitting a report to the NRC.
+
+(c) If the owner or operator has not submitted a report to the NRC and notified the CSB under paragraph (b) of this section, the owner/operator must submit a report directly to the CSB within eight hours of the accidental release and must include the required information listed in § 1604.4. A report may be made by email to: *report@csb.gov,* or by telephone at 202-261-7600.
+
+(d) For the purpose of efficiency, multiple owner/operators may agree in advance or at the time of release to a single, consolidated report on behalf of one or more parties who are responsible for reporting an accidental release from a stationary source. However, any consolidated report must include all pertinent information required under § 1604.4.
+
+(e) Notwithstanding paragraphs (a) through (d) of this section, an owner or operator of a stationary source, without penalty, may revise and/or update information reported to the NRC or CSB by sending a notification with revisions by email to: *report@csb.gov,* or by correspondence to: Chemical Safety Board (CSB) 1750 Pennsylvania Ave. NW, Suite 910, Washington, DC 20006, within 30 days following the submission of a report to the NRC or CSB. If applicable, the notification must reference the original NRC identification number. No update or revisions should be sent to the NRC. In addition to the opportunity to revise and/or update information within 30 days, an owner or operator may also submit a revised report to the Board within 60 additional days if the submitter explains why the revised report could not have been submitted within the first 30 days.

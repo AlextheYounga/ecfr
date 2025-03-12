@@ -1,7 +1,5 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 85 FR 9693, Feb. 20, 2020.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits* - (1) *OY* - (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
@@ -446,7 +444,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (iii) *Directed fishing closure* - (A) *Notification.* If the Regional Administrator establishes a directed fishing allowance for a fishery allocation or apportionment under this paragraph (d), and that allowance has been or will be reached before the end of the fishing season or year, NMFS will publish notification in the Federal Register prohibiting directed fishing in the specified subarea, regulatory area, or district.
 
-(B) *Retention of incidental species.* Except as described in § 679.20(e)(3)(iii), if directed fishing for a target species or species group is prohibited, a vessel may not retain that incidental species in an amount that exceeds the maximum retainable amount, as calculated under paragraphs (e) and (f) of this section, at any time during a fishing trip.
+(B) *Retention of incidental species.* Except as described in § 679.20(e)(3)(iii) and § 679.20(j), if directed fishing for a target species or species group is prohibited, a vessel may not retain that incidental species in an amount that exceeds the maximum retainable amount, as calculated under paragraphs (e) and (f) of this section, at any time during a fishing trip.
 
 (iv) *AFA sideboard limitations* - (A) If the Regional Administrator determines that any sideboard harvest limit for a group of AFA vessels established under § 679.64 has been or will be reached, the Regional Administrator may establish a sideboard directed fishing allowance for the species or species group applicable only to the identified group of AFA vessels.
 
@@ -472,7 +470,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*2*) If the halibut PSC sideboard limit is reached for the shallow-water species fishery as defined in § 679.21(d)(3)(iii)(A) for a season, then NMFS will close directed fishing in the GOA for all species in the shallow-water species fishery for that season.
 
-(2) *Groundfish as prohibited species closure.* When the Regional Administrator determines that the TAC of any target species specified under paragraph (c) of this section, or the share of any TAC assigned to any type of gear, has been or will be achieved prior to the end of a year, NMFS will publish notification in the Federal Register requiring that target species be treated in the same manner as a prohibited species, as described under § 679.21(a), for the remainder of the year.
+(2) *Groundfish as prohibited species closure.* When the Regional Administrator determines that the TAC of any target species specified under paragraph (c) of this section, or the share of any TAC assigned to any type of gear, has been or will be achieved prior to the end of a year, NMFS will publish notification in the Federal Register requiring that target species be treated in the same manner as a prohibited species, as described under § 679.21(a), for the remainder of the year, except rockfish species caught by catcher vessels using hook-and-line, pot, or jig gear as described in § 679.20(j).
 
 (3) *Overfishing closure* - (i) *Notification.* If, in making a determination under paragraph (d)(2) of this section, the Regional Administrator also determines that fishing for other target species or species groups in the area, district or part thereof where the notification applies, may lead to the overfishing of the species or species group for which the allocation or apportionment has been or will be reached, NMFS will publish notification in the Federal Register specifying limitations or prohibitions designed to prevent overfishing of that species or species group.
 
@@ -572,14 +570,24 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (5) *Allowable fishmeal production.* Retained catch of forage fish, grenadiers, or squids not exceeding the maximum retainable amount may be processed into fishmeal for sale, barter, or trade.
 
-(j) *Full retention of Demersal Shelf Rockfish (DSR) in the Southeast Outside District of the GOA (SEO)* - (1) *Retention and landing requirements.* The operator of a catcher vessel that is required to have a Federal fisheries permit, or that harvests IFQ halibut with hook and line or jig gear, must retain and land all DSR that is caught while fishing for groundfish or IFQ halibut in the SEO.
+(j) *Full retention of rockfish by catcher vessels using hook-and-line, pot, or jig gear* - (1) *Retention and landing requirements.* The operator of a catcher vessel that is required to have a Federal fisheries permit using hook-and-line, pot, or jig gear, must retain and land all rockfish that is caught while fishing for groundfish or IFQ or CDQ halibut in the BSAI or GOA.
 
-(2) *Disposal of DSR when closed to directed fishing.* When DSR is closed to directed fishing in the SEO, the operator of a catcher vessel that is required to have a Federal fisheries permit under § 679.4 (b), or the manager of a shoreside processor that is required to have a Federal processor permit under § 679.4(f), must dispose of DSR retained and landed in accordance with paragraph (j)(1) of this section as follows:
+(2) *Maximum commerce allowance (MCA) for rockfish in the BSAI and GOA.* Except as described in §§ 679.20(j)(3) and (4), when rockfish is closed to directed fishing, the operator of a catcher vessel that is required to have a Federal fisheries permit under § 679.4(b), or the manager of a shoreside processor that is required to have a Federal processor permit under § 679.4(f), must dispose of rockfish retained and landed in accordance with paragraph (j)(1) of this section as follows:
 
-(i) A person may sell, barter, or trade a round weight equivalent amount of DSR that is less than or equal to 10 percent of the aggregate round weight equivalent of IFQ halibut and groundfish species, other than sablefish, that are landed during the same fishing trip.
+(i) A person may sell, barter, or trade a round weight equivalent amount of rockfish that is less than or equal to 15 percent of the aggregate round weight equivalent of IFQ halibut and groundfish species, other than rockfish, that are landed during the same fishing trip.
 
-(ii) A person may sell, barter, or trade a round weight equivalent amount of DSR that is less than or equal to 1 percent of the aggregate round weight equivalent of IFQ sablefish that are landed during the same fishing trip.
+(ii) A person may sell, barter, or trade a round weight equivalent amount of yelloweye rockfish that is less than or equal to 5 percent of the aggregate round weight equivalent of IFQ halibut and groundfish species, other than rockfish, that are landed during the same fishing trip. The aggregate amount of all rockfish species sold, bartered, or traded cannot exceed the MCA established under paragraph (j)(2)(i) of this section.
 
-(iii) Amounts of DSR retained by catcher vessels under paragraph (j)(1) of this section that are in excess of the limits specified in paragraphs (j)(2)(i) and (ii) may be put to any use, including but not limited to personal consumption or donation, but must not enter commerce through sale, barter, or trade.
+(iii) Amounts of rockfish retained by catcher vessels under paragraphs (j)(2)(i) and (ii) of this section that are in excess of the limits specified in paragraphs (j)(2)(i) and (ii) of this section may be put to any use, including but not limited to personal consumption or donation, but must not enter commerce through sale, barter, or trade except as fish meal.
+
+(3) *MCA of DSR in Southeast Outside District of the GOA (SEO) when closed to directed fishing.* When DSR is closed to directed fishing in the SEO, the operator of a catcher vessel that is required to have a Federal fisheries permit under § 679.4(b), or the manager of a shoreside processor that is required to have a Federal processor permit under § 679.4(f), must dispose of DSR retained and landed in accordance with paragraph (j)(1) of this section as follows:
+
+(i) A person may sell, barter, or trade a round weight equivalent amount of DSR that is less than or equal to 10 percent of the aggregate round weight equivalent of IFQ halibut and groundfish species, other than sablefish, that are landed during the same fishing trip. The aggregate amount of all rockfish species sold, bartered, or traded cannot exceed the MCA established under paragraph (j)(2)(i) of this section.
+
+(ii) A person may sell, barter, or trade a round weight equivalent amount of DSR that is less than or equal to 1 percent of the aggregate round weight equivalent of IFQ sablefish that are landed during the same fishing trip. The aggregate amount of all rockfish species sold, bartered, or traded cannot exceed the MCA established under paragraph (j)(2)(i) of this section.
+
+(iii) Amounts of DSR retained by catcher vessels under paragraph (j)(1) of this section that are in excess of the limits specified in paragraphs (j)(3)(i) and (ii) of this section may be put to any use, including but not limited to personal consumption or donation, but must not enter commerce through sale, barter, or trade except as fish meal.
+
+(4) *MCA for rockfish when on prohibited species status.* When a rockfish species is placed on prohibited species status under § 679.20(d)(2), the MCA is set to 0 percent and no amount of that rockfish species may enter commerce through sale, barter, or trade except as fish meal. The operator of a catcher vessel that is required to have a Federal fisheries permit under § 679.4(b), or the manager of a shoreside processor that is required to have a Federal processor permit under § 679.4(f), may put rockfish retained and landed in excess of the MCA specified in this paragraph to any use, including but not limited to personal consumption or donation, but such rockfish must not enter commerce through sale, barter, or trade except as fish meal.
 
 [61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
