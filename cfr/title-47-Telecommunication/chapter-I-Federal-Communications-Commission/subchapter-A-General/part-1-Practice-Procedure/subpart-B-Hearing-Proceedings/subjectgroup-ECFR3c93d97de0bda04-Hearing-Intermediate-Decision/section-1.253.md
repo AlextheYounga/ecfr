@@ -1,5 +1,7 @@
 ##### § 1.253 Time and place of hearing. #####
 
+Link to an amendment published at 85 FR 63178, Oct. 6, 2020.
+
 (a) The Commission will specify the day on which and the place at which any hearing is to commence.
 
 (b) The presiding officer will specify the days on which subsequent hearing sessions are to be held.

@@ -1,5 +1,7 @@
 ##### § 1.251 Summary decision. #####
 
+Link to an amendment published at 85 FR 63177, Oct. 6, 2020.
+
 (a)(1) Any party to an adjudicatory proceeding may move for summary decision of all or any of the issues set for hearing. The motion shall be filed at least 20 days prior to the date set for commencement of the hearing. The party filing the motion may not rest upon mere allegations or denials but must show, by affidavit or by other materials subject to consideration by the presiding officer, that there is no genuine issue of material fact for determination at the hearing.
 
 (2) With the permission of the presiding officer, or upon his invitation, a motion for summary decision may be filed at any time before or after the commencement of the hearing. No appeal from an order granting or denying a request for permission to file a motion for summary decision shall be allowed. If the presiding officer authorizes a motion for summary decision after the commencement of the hearing, proposed findings of fact and conclusions of law on those issues which the moving party believes can be resolved shall be attached to the motion, and any other party may file findings of fact and conclusions of law as an attachment to pleadings filed by him pursuant to paragraph (b) of this section.

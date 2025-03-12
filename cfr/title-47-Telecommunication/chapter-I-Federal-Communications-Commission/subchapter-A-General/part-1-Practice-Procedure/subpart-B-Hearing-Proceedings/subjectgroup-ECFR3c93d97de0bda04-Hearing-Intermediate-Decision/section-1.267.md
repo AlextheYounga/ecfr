@@ -1,5 +1,7 @@
 ##### § 1.267 Initial and recommended decisions. #####
 
+Link to an amendment published at 85 FR 63178, Oct. 6, 2020.
+
 (a) Except as provided in this paragraph, in §§ 1.94, 1.251 and 1.274, or where the proceeding is terminated on motion (see § 1.302), the presiding officer shall prepare an initial (or recommended) decision, which shall be transmitted to the Secretary of the Commission. In the case of rate making proceedings conducted under sections 201-205 of the Communications Act, the presumption shall be that the presiding officer shall prepare an initial or recommended decision. The Secretary will make the decision public immediately and file it in the docket of the case.
 
 (b) Each initial and recommended decision shall contain findings of fact and conclusions, as well as the reasons or basis therefor, upon all the material issues of fact, law, or discretion presented on the record; each initial decision shall also contain the appropriate rule or order, and the sanction, relief or denial thereof; and each recommended decision shall contain recommendations as to what disposition of the case should be made by the Commission. Each initial decision will show the date upon which it will become effective in accordance with the rules in this part in the absence of exceptions, appeal, or review.

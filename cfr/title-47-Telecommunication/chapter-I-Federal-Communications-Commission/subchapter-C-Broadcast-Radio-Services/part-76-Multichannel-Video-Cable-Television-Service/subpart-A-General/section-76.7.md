@@ -1,5 +1,7 @@
 ##### § 76.7 General special relief, waiver, enforcement, complaint, show cause, forfeiture, and declaratory ruling procedures. #####
 
+Link to an amendment published at 85 FR 63184, Oct. 6, 2020.
+
 (a) *Initiating pleadings.* In addition to the general pleading requirements, initiating pleadings must adhere to the following requirements:
 
 (1) *Petitions.* On petition by any interested party, cable television system operator, a multichannel video programming distributor, local franchising authority, or an applicant, permittee, or licensee of a television broadcast or translator station, the Commission may waive any provision of this part 76, impose additional or different requirements, issue a ruling on a complaint or disputed question, issue a show cause order, revoke the certification of the local franchising authority, or initiate a forfeiture proceeding. Petitions may be submitted informally by letter.

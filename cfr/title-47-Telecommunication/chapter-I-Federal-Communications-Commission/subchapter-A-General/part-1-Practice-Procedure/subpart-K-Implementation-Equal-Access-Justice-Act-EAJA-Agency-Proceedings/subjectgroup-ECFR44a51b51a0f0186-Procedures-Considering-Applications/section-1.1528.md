@@ -1,5 +1,7 @@
 ##### § 1.1528 Commission review. #####
 
+Link to an amendment published at 85 FR 63184, Oct. 6, 2020.
+
 Either the applicant or Bureau counsel may seek Commission review of the initial decision on the application, or the Commission may decide to review the decision on its own initiative, in accordance with §§ 1.276 through 1.282 of this chapter. Except as provided in § 1.1525, if neither the applicant nor Bureau counsel seeks review and the Commission does not take review on its own initiative, the initial decision on the application shall become a final decision of the Commission 50 days after it is issued. Whether to review a decision is a matter within the discretion of the Commission. If review is taken, the Commission will issue a final decision on the application or remand the application to the Administrative Law Judge for further proceedings.
 
 [47 FR 3786, Jan. 27, 1982, as amended at 61 FR 39900, July 31, 1996]

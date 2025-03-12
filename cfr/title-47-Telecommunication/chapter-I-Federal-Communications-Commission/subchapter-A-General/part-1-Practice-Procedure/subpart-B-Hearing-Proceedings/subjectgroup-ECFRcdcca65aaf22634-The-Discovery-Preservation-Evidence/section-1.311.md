@@ -1,5 +1,7 @@
 ##### § 1.311 General. #####
 
+Link to an amendment published at 85 FR 63180, Oct. 6, 2020.
+
 Sections 1.311 through 1.325 provide for taking the deposition of any person (including a party), for interrogatories to parties, and for orders to parties relating to the production of documents and things and for entry upon real property. These procedures may be used for the discovery of relevant facts, for the production and preservation of evidence for use at the hearing, or for both purposes.
 
 (a) *Applicability.* For purposes of discovery, these proecdures may be used in any case of adjudication (as defined in the Administrative Procedure Act) which has been designated for hearing. For the preservation of evidence, they may be used in any case which has been designated for hearing and is conducted under the provisions of this subpart (see § 1.201).

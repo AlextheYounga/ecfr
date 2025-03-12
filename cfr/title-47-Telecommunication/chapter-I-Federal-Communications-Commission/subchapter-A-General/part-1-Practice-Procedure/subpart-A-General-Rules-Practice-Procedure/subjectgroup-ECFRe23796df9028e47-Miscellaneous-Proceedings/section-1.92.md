@@ -1,5 +1,7 @@
 ##### § 1.92 Revocation and/or cease and desist proceedings; after waiver of hearing. #####
 
+Link to an amendment published at 85 FR 63173, Oct. 6, 2020.
+
 (a) After the issuance of an order to show cause, pursuant to § 1.91, calling upon a person to appear at a hearing before the Commission, the occurrence of any one of the following events or circumstances will constitute a waiver of such hearing and the proceeding thereafter will be conducted in accordance with the provisions of this section.
 
 (1) The respondent fails to file a timely written appearance as prescribed in § 1.91(c) indicating that he will appear at a hearing and present evidence on the matters specified in the order.

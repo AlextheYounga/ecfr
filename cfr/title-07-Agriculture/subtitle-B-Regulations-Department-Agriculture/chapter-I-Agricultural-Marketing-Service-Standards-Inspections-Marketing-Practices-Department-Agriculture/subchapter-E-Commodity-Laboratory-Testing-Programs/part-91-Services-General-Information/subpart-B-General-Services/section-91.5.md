@@ -1,5 +1,7 @@
 ##### § 91.5 Where services are offered. #####
 
+Link to an amendment published at 85 FR 62942, Oct. 6, 2020.
+
 (a) Services are offered to applicants at the Science and Technology laboratories and facilities as listed below.
 
 (1) *Science and Technology Programs National Science Laboratory.* A variety of proximate for composition, chemical, physical, microbiological and biomolecular (DNA-based) tests and laboratory analyses performed on fruits and vegetables, poultry, dairy and dairy products, juices, fish, vegetative seed and oilseed, honey, meat and meat products, fiber products and processed foods are performed at the Science and Technology Programs (S&T) laboratory located at: USDA, AMS, Science and Technology Programs, National Science Laboratory (NSL), 801 Summit Crossing Place, Suite B, Gastonia, North Carolina 28054-2193.

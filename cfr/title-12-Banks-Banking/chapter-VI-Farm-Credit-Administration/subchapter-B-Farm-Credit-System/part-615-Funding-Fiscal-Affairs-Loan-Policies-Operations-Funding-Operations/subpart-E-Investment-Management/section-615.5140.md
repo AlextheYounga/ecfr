@@ -1,5 +1,7 @@
 ##### § 615.5140 Eligible investments. #####
 
+Link to an amendment published at 85 FR 62949, Oct. 6, 2020.
+
 (a) *Farm Credit banks* - (1) *Investment eligibility criteria.* A Farm Credit bank may purchase an investment only if it satisfies the following investment eligibility criteria:
 
 (i) The investment must be purchased and held for one or more investment purposes authorized in § 615.5132.

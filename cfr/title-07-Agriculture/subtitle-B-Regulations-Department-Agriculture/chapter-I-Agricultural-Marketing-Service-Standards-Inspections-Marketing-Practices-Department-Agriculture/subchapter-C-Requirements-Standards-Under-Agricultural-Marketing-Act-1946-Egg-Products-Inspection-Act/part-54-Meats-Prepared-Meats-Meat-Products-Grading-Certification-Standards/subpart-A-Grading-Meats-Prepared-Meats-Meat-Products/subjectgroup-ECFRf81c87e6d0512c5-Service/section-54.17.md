@@ -1,5 +1,7 @@
 ##### § 54.17 Official identifications. #####
 
+Link to an amendment published at 85 FR 62937, Oct. 6, 2020.
+
 (a) A shield enclosing the letters “USDA” and identification letters assigned to the grader performing the service, as shown in Figure 1 to paragraph (a) of this section, constitutes a form of official identification under the regulations for preliminary grade of carcasses. This form of official identification may also be used to determine the final quality grade of carcasses; one stamp equates to “USDA Select” or “USDA Good”; two stamps placed together vertically equates to “USDA Choice”; and three stamps placed together vertically equates to “USDA Prime.”
 
 ![](/graphics/er16se19.002.gif)

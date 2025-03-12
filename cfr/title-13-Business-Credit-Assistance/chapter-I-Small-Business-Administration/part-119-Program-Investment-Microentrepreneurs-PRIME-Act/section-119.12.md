@@ -1,5 +1,7 @@
 ##### § 119.12 What criteria will SBA use to evaluate applications for funding under the PRIME program? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 During the first year for which funding is available for the PRIME program, SBA will give special consideration to organizations located in and serving areas of, or with a history of successful outreach to, low-income and very low-income persons, to enable the PRIME program to assist those with the greatest need first. SBA will evaluate applications for funding in accordance with the specific goals of the Act, and as more fully described in the Program Announcements. Evaluation criteria include, but are not limited to, the following:
 
 (a) Applications for Technical Assistance Grants:

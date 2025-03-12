@@ -1,5 +1,7 @@
 ##### § 56.46 Charges for service on an unscheduled basis. #####
 
+Link to an amendment published at 85 FR 62937, Oct. 6, 2020.
+
 (a) Unless otherwise provided in this part, the fees to be charged and collected for any service performed, in accordance with this part, on an unscheduled basis shall be based on the applicable formulas specified in this section. For each calendar year or crop year, AMS will calculate the rate for grading services, per hour per program employee using the following formulas:
 
 (1) *Regular rate.* The total AMS grading or audit program personnel direct pay divided by direct hours, which is then multiplied by the next year's percentage of cost of living increase, plus the benefits rate, plus the operating rate, plus the allowance for bad debt rate. If applicable, travel expenses may also be added to the cost of providing the service.

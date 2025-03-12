@@ -10,4 +10,4 @@
 
 (b) No portable device of any type identified in paragraph (a) of this section (including transmitter or transceiver units installed in other devices that are themselves portable) may be sold or distributed to users unless it conspicuously bears the following warning: “This device must be turned off at all times while on board aircraft.” For purposes of this section, a device is portable if it is a “portable device” as defined in § 2.1093(b) of this chapter or is designed to be carried by hand.
 
-[79 FR 8325, Feb. 12, 2014]Effective Date Note:At 79 FR 44140, July 30, 2014, § 25.285(a)(2) was corrected. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[79 FR 8325, Feb. 12, 2014]

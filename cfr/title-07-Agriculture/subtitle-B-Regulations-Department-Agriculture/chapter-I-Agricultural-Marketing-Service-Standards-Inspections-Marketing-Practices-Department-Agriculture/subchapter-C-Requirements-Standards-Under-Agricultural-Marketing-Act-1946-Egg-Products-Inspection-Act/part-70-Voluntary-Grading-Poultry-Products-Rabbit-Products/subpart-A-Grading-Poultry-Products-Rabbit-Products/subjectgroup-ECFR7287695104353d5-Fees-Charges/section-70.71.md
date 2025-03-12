@@ -1,5 +1,7 @@
 ##### § 70.71 Charges for services on an unscheduled basis. #####
 
+Link to an amendment published at 85 FR 62941, Oct. 6, 2020.
+
 Unless otherwise provided in this part, the fees to be charged and collected for any service performed, in accordance with this part, on an unscheduled basis shall be based on the applicable formulas specified in this section.
 
 (a) For each calendar year, AMS will calculate the rate for grading and audit services, per hour per program employee using the following formulas:

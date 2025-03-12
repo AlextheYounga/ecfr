@@ -1,5 +1,7 @@
 ##### § 1.325 Discovery and production of documents and things for inspection, copying, or photographing. #####
 
+Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
+
 (a) A party to a Commission proceeding may request any other party except the Commission to produce and permit inspection and copying or photographing, by or on behalf of the requesting party, of any designated documents, papers, books, accounts, letters, photographs, objects, or tangible things which constitute or contain evidence within the scope of the examination permitted by § 1.311(b) of this part and which are in his possession, custody, or control or to permit entry upon designated land or other property in his possession or control for purposes of inspecting, measuring, surveying, or photographing the property or any designated object or operation thereon within the scope of the examination permitted by § 1.311(b) of this part.
 
 (1) Such requests need not be filed with the presiding officer, but copies of the request shall be served on all other parties to the proceeding.

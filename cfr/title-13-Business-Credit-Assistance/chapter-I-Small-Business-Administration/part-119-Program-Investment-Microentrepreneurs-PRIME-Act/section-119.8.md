@@ -1,5 +1,7 @@
 ##### § 119.8 Are there matching requirements for grantees? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 Applicants and grantees must match SBA funding as follows:
 
 (a) Except as provided in paragraph (c) of this section, applicants and grantees must match Federal assistance with funds from sources other than the Federal Government in an amount not less than 50 percent of the grant amount awarded each year. Sources such as fees, grants, gifts, income from loan sources, and in-kind resources of a grant recipient from non-Federal public or private sources may be used to comply with the matching funds requirement;

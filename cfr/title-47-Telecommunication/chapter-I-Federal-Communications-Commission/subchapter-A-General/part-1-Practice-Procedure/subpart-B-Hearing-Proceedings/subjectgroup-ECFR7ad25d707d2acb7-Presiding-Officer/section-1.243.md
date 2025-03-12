@@ -1,5 +1,7 @@
 ##### § 1.243 Authority of presiding officer. #####
 
+Link to an amendment published at 85 FR 63176, Oct. 6, 2020.
+
 From the time he is designated to preside until issuance of his decision or the transfer of the proceeding to the Commission or to another presiding officer the presiding officer shall have such authority as is vested in him by law and by the provisions of this chapter, including authority to:
 
 (a) Administer oaths and affirmations;

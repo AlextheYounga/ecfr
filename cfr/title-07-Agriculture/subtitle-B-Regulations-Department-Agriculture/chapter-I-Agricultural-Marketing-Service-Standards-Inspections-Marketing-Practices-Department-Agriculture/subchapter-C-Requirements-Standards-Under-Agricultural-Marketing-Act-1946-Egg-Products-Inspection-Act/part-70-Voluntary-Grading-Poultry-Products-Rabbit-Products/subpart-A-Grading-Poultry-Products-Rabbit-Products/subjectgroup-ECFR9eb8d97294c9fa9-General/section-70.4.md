@@ -1,5 +1,7 @@
 ##### § 70.4 Services available. #####
 
+Link to an amendment published at 85 FR 62941, Oct. 6, 2020.
+
 The regulations in this part provide for the following kinds of service; and any one or more of the different services applicable to official plants may be rendered in an official plant:
 
 (a) Grading of ready-to-cook poultry and rabbits in an official plant or at other locations with adequate facilities.

@@ -1,5 +1,7 @@
 ##### § 119.15 If a grantee is unable to spend the entire amount allotted for a single fiscal year, can the funds be carried over to the next year? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 (a) The grantee may request approval to use unexpended funds in the next budget period. This is permissible if funds are to be used for a non-severable, non-recurring project or activity within the scope of the PRIME program. Non-severable means a project in its entirety that cannot be subdivided. The request for using unexpended funds in the next budget period must include the following:
 
 (1) SF 424, budget pages, and justification;

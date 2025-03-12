@@ -1,5 +1,7 @@
 ##### § 1.229 Motions to enlarge, change, or delete issues. #####
 
+Link to an amendment published at 85 FR 63175, Oct. 6, 2020.
+
 (a) A motion to enlarge, change or delete the issues may be filed by any party to a hearing. Except as provided for in paragraph (b) of this section, such motions must be filed within 15 days after the full text or a summary of the order designating the case for hearing has been published in the Federal Register.
 
 (b)(1) In comparative broadcast proceedings involving applicants for only new facilities, such motions shall be filed within 30 days of the release of the designation order, except that persons not named as parties to the proceeding in the designation order may file such motions with their petitions to intervene up to 30 days after publication of the full text or a summary of the designation order in the Federal Register. (*See* § 1.223 of this part).

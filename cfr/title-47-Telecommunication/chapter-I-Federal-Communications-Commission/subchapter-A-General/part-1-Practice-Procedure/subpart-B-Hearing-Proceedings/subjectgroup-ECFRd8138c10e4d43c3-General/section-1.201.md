@@ -1,5 +1,7 @@
 ##### § 1.201 Scope. #####
 
+Link to an amendment published at 85 FR 63174, Oct. 6, 2020.
+
 This subpart shall be applicable to the following cases which have been designated for hearing:
 
 (a) Adjudication (as defined by the Administrative Procedure Act); and

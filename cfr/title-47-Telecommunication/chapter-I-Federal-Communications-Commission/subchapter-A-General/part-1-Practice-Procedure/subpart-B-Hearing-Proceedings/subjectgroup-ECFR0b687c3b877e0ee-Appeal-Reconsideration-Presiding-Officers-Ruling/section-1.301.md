@@ -1,5 +1,7 @@
 ##### § 1.301 Appeal from presiding officer's interlocutory ruling; effective date of ruling. #####
 
+Link to an amendment published at 85 FR 63179, Oct. 6, 2020.
+
 (a) *Interlocutory rulings which are appealable as a matter of right.* Rulings listed in this paragraph are appealable as a matter of right. An appeal from such a ruling may not be deferred and raised as an exception to the initial decision.
 
 (1) If the presiding officer's ruling denies or terminates the right of any person to participate as a party to a hearing proceeding, such person, as a matter of right, may file an appeal from that ruling.

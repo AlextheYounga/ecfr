@@ -1,5 +1,7 @@
 ##### § 0.341 Authority of administrative law judge. #####
 
+Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
+
 (a) After an administrative law judge has been designated to preside at a hearing and until he has issued an initial decision or certified the record to the Commission for decision, or the proceeding has been transferred to another administrative law judge, all motions, petitions and other pleadings shall be acted upon by such administrative law judge, except the following:
 
 (1) Those which are to be acted upon by the Commission. See § 1.291(a)(1) of this chapter.

@@ -12,4 +12,12 @@
 
 (f) The amount of any tax withheld and collected by the employer is a special fund in trust for the United States. See section 7501.
 
-[T.D. 6516, 25 FR 13032, Dec. 20, 1960, as amended by T.D. 7001, 34 FR 1001, Jan. 23, 1969; T.D. 7115, 36 FR 9209, May 21, 1971; T.D. 7888, 48 FR 17588, Apr. 25, 1983]
+(g) For purposes of chapter 24 of the Code and this subpart:
+
+(1) References to “withholding exemption certificate” include “withholding allowance certificate” unless otherwise stated in this subpart.
+
+(2) [Reserved]
+
+(h) The provisions of paragraph (g) of this section apply on and after October 6, 2020. Taxpayers may choose to apply paragraph (g) of this section on or after January 1, 2020 and before October 6, 2020.
+
+[T.D. 6516, 25 FR 13032, Dec. 20, 1960, as amended by T.D. 7001, 34 FR 1001, Jan. 23, 1969; T.D. 7115, 36 FR 9209, May 21, 1971; T.D. 7888, 48 FR 17588, Apr. 25, 1983; T.D. 9924, 85 FR 63026, Oct. 6, 2020]

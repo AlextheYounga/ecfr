@@ -1,5 +1,7 @@
 ##### § 91.2 Definitions. #####
 
+Link to an amendment published at 85 FR 62942, Oct. 6, 2020.
+
 Words used in the regulations in this part in the singular form will import the plural, and vice versa, as the case may demand. As used throughout the regulations in this part, unless the context requires otherwise, the following terms will be construed to mean:
 
 *Agency.* The Agricultural Marketing Service agency of the United States Department of Agriculture.

@@ -1,5 +1,7 @@
 ##### § 91.4 Kinds of services. #####
 
+Link to an amendment published at 85 FR 62942, Oct. 6, 2020.
+
 (a) Analytical tests. Analytical laboratory testing services under the regulations in this subchapter consist of microbiological, chemical, and certain other analyses, requested by the applicant and performed on tobacco, seed, dairy, egg, fruit and vegetable, meat and poultry products, and related processed products. Analyses are performed to determine if products meet Federal specifications or specifications defined in purchase contracts and cooperative agreements. Laboratory analyses are also performed on egg products as part of the mandatory Egg Products Inspection Program under the management of USDA's Food Safety and Inspection Service (FSIS) as detailed in 9 CFR 590.580.
 
 (b) *Examination and licensure.* The manager of a particular Science and Technology program administers examinations and licenses analysts in laboratories for competency in performing commodity testing services.

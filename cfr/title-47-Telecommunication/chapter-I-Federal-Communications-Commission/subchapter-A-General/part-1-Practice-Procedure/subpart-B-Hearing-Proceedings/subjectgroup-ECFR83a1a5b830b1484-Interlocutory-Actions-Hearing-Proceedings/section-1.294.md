@@ -1,5 +1,7 @@
 ##### § 1.294 Oppositions and replies. #####
 
+Link to an amendment published at 85 FR 63179, Oct. 6, 2020.
+
 (a) Any party to a hearing may file an opposition to an interlocutory request filed in that proceeding.
 
 (b) Except as provided in paragraph (c) of this section, oppositions shall be filed within 4 days after the original pleading is filed, and replies to oppositions will not be entertained. See, however, § 1.732.

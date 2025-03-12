@@ -1,5 +1,7 @@
 ##### § 1.302 Appeal from presiding officer's final ruling; effective date of ruling. #####
 
+Link to an amendment published at 85 FR 63180, Oct. 6, 2020.
+
 (a) If the presiding officer's ruling terminates a hearing proceeding, any party to the proceeding, as a matter of right, may file an appeal from that ruling within 30 days after the ruling is released.
 
 (b) Any party who desires to preserve the right to appeal shall file a notice of appeal within 10 days after the ruling is released. If a notice of appeal is not filed within 10 days, the ruling shall be effective 30 days after the ruling is released and within this period, may be reviewed by the Commission on its own motion. If an appeal is not filed following notice of appeal, the ruling shall be effective 50 days after the day of its release and, within this period, may be reviewed by the Commission on its own motion. If an appeal is filed, or if the Commission reviews the ruling on its own motion, the effect of the ruling is further stayed pending the completion of proceedings on appeal or review.

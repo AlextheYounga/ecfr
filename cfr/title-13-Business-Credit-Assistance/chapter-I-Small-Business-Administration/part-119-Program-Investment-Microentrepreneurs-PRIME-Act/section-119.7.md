@@ -1,5 +1,7 @@
 ##### § 119.7 How long and in what amounts will grant funding be available to a single grantee? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 (a) Generally, the funding period for a PRIME grant will be one year. Subject to availability of funds and continuing authorization, funding may be available on an annual basis allowing for the initial grant plus up to four option years, for a project period of up to five years. Decisions regarding option year awards and the funding levels of these awards will depend upon availability of funding and the grantee's performance as measured against project objectives and milestones. A grantee that enters into a cooperative agreement must submit a separate application to have the support continued for each subsequent year. In all cases, continuation awards require a determination by SBA that continued funding is in the best interest of the Federal government. Neither the approval of any application nor the entering into of any cooperative agreement commits or obligates the Federal Government in any way to make any additional, supplemental, continuation or other award with respect to any grantee.
 
 (b) For Technical Assistance and Capacity Building Grants, after a grantee receives an initial grant, funding for any option year(s) must be no more than 67 percent of the initial grant amount.

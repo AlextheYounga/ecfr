@@ -1,5 +1,7 @@
 ##### § 1.21 Parties. #####
 
+Link to an amendment published at 85 FR 63172, Oct. 6, 2020.
+
 (a) Any party may appear before the Commission and be heard in person or by attorney.
 
 (b) The appropriate Bureau Chief(s) of the Commission shall be deemed to be a party to every adjudicatory proceeding (as defined in the Administrative Procedure Act) without the necessity of being so named in the order designating the proceeding for hearing.

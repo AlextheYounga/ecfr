@@ -1,5 +1,7 @@
 ##### § 1.51 Number of copies of pleadings, briefs, and other papers. #####
 
+Link to an amendment published at 85 FR 63172, Oct. 6, 2020.
+
 (a) In hearing proceedings, unless filed electronically or otherwise specified by Commission rules, an original and one copy shall be filed, along with-an additional copy for each additional presiding officer at the hearing, if more than one. If filed electronically, additional courtesy copies shall be emailed as directed by the Commission.
 
 (b) In rulemaking proceedings which have not been designated for hearing, *see* § 1.419.

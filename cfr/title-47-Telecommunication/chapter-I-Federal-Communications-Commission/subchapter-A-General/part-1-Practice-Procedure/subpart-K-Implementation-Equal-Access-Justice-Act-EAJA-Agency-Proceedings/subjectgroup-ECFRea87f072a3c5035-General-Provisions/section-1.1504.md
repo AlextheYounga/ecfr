@@ -1,5 +1,7 @@
 ##### § 1.1504 Eligibility of applicants. #####
 
+Link to an amendment published at 85 FR 63183, Oct. 6, 2020.
+
 (a) To be eligible for an award of attorney fees and other expenses under the EAJA, the applicant must be a party, as defined in 5 U.S.C. 551(3), to the adversary adjudication for which it seeks an award. The applicant must show that it meets all conditions of eligibility set out in this paragraph and in paragraph (b) of this section.
 
 (b) The types of eligible applicants are as follows:

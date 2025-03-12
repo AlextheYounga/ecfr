@@ -1,5 +1,7 @@
 ##### § 1.1604 Post-selection hearings. #####
 
+Link to an amendment published at 85 FR 63184, Oct. 6, 2020.
+
 (a) Following the random selection, the Commission shall announce the “tentative selectee” and, where permitted by § 73.3584 invite Petitions to Deny its application.
 
 (b) If, after such hearing as may be necessary, the Commission determines that the “tentative selectee” has met the requirements of § 73.3591(a) it will make the appropriate grant. If the Commission is unable to make such a determination, it shall order that another random selection be conducted from among the remaining mutually exclusive applicants, in accordance with the provisions of this subpart.

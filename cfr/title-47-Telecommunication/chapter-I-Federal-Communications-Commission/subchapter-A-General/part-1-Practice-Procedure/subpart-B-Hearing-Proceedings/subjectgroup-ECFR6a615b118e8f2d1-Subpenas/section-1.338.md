@@ -1,5 +1,7 @@
 ##### § 1.338 Subpena forms. #####
 
+Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
+
 (a) Subpena forms, marked “Original”, “Duplicate”, and “Triplicate”, and bearing the Commission's seal, may be obtained from the Commission's Dockets Division. These forms are to be completed and submitted with any request for issuance of a subpena.
 
 (b) If the request for issuance of a subpena is granted, the “Original” and “Duplicate” copies of the subpena are returned to the person who submitted the request. The “Triplicate” copy is retained for the Commission's files.

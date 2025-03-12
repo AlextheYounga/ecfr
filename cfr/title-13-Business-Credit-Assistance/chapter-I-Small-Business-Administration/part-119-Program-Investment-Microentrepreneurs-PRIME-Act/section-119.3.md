@@ -1,5 +1,7 @@
 ##### § 119.3 What types of organizations are eligible for PRIME grants? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 An organization eligible for a PRIME grant (“qualified organization”) is one that is:
 
 (a) A microenterprise development organization or program as defined in § 119.2(q) (or a group or collaborative thereof) that has a demonstrated record of delivering microenterprise services to disadvantaged microentrepreneurs;

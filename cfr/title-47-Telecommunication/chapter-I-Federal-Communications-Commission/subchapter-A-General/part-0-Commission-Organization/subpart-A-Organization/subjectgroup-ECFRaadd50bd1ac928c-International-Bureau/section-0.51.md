@@ -1,5 +1,7 @@
 ##### § 0.51 Functions of the Bureau. #####
 
+Link to an amendment published at 85 FR 63170, Oct. 6, 2020.
+
 The International Bureau has the following duties and responsibilities:
 
 (a) To initiate and direct the development and articulation of international telecommunications policies, consistent with the priorities of the Commission;

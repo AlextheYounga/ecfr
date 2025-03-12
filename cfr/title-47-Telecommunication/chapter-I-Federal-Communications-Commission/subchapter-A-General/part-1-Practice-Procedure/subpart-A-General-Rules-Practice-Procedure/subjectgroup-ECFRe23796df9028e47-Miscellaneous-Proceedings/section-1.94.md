@@ -1,5 +1,7 @@
 ##### § 1.94 Consent order procedures. #####
 
+Link to an amendment published at 85 FR 63173, Oct. 6, 2020.
+
 (a) Negotiations leading to a consent order may be initiated by the operating Bureau or by a party whose possible violations are issues in the proceeding. Negotiations may be initiated at any time after designation of a proceeding for hearing. If negotiations are initiated the presiding officer shall be notified. Parties shall be prepared at the initial prehearing conference to state whether they are at that time willing to enter negotiations. See § 1.248(c)(7). If either party is unwilling to enter negotiations, the hearing proceeding shall proceed. If the parties agree to enter negotiations, they will be afforded an appropriate opportunity to negotiate before the hearing is commenced.
 
 (b) Other parties to the proceeding are entitled, but are not required, to participate in the negotiations, and may join in any agreement which is reached.

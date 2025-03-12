@@ -1,5 +1,7 @@
 ##### § 119.17 What types of oversight will SBA provide to grantees? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 (a) In addition to reports required under the Riegle Act, SBA will require reports in accordance with applicable OMB circulars. Such reports will include the following information:
 
 (1) For recipients of Technical Assistance and Capacity Building Grants, for the first two years of receiving grant funding, narrative performance reports and financial status reports will be required quarterly within 15 calendar days of the end of each quarter. Thereafter, grantees may request that SBA reduce the frequency of reports from quarterly to semi-annually. The frequency of reporting then will be determined at the discretion of SBA. In addition, details of expenditures will be required with each request for payment. Grantees will be required to submit audited financial statements on an annual basis, if available, or annual financial statements prepared by a licensed, independent public accountant, within 120 calendar days of the end of the grantee's fiscal year.

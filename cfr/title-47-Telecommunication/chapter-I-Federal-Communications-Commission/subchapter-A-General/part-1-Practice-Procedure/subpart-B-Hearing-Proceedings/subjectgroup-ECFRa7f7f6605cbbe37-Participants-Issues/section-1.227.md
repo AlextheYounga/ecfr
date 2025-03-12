@@ -1,5 +1,7 @@
 ##### § 1.227 Consolidations. #####
 
+Link to an amendment published at 85 FR 63175, Oct. 6, 2020.
+
 (a) The Commission, upon motion or upon its own motion, will, where such action will best conduce to the proper dispatch of business and to the ends of justice, consolidate for hearing:
 
 (1) Any cases which involve the same applicant or involve substantially the same issues, or

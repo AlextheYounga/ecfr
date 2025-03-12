@@ -1,5 +1,7 @@
 ##### § 1.104 Preserving the right of review; deferred consideration of application for review. #####
 
+Link to an amendment published at 85 FR 63173, Oct. 6, 2020.
+
 (a) The provisions of this section apply to all final actions taken pursuant to delegated authority, including final actions taken by members of the Commission's staff on nonhearing matters. They do not apply to interlocutory actions of the Chief Administrative Law Judge in hearing proceedings, or to hearing designation orders issued under delegated authority. See §§ 0.351, 1.106(a) and 1.115(e).
 
 (b) Any person desiring Commission consideration of a final action taken pursuant to delegated authority shall file either a petition for reconsideration or an application for review (but not both) within 30 days from the date of public notice of such action, as that date is defined in § 1.4(b) of these rules. The petition for reconsideration will be acted on by the designated authority or referred by such authority to the Commission: *Provided,* That a petition for reconsideration of an order designating a matter for hearing will in all cases be referred to the Commission. The application for review will in all cases be acted upon by the Commission.

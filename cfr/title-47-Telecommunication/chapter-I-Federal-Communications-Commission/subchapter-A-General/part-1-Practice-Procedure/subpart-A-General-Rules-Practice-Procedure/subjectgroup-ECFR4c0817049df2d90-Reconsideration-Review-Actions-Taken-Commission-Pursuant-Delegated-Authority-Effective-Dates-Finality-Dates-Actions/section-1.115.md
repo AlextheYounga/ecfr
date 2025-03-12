@@ -1,5 +1,7 @@
 ##### § 1.115 Application for review of action taken pursuant to delegated authority. #####
 
+Link to an amendment published at 85 FR 63173, Oct. 6, 2020.
+
 (a) Any person aggrieved by any action taken pursuant to delegated authority may file an application requesting review of that action by the Commission. Any person filing an application for review who has not previously participated in the proceeding shall include with his application a statement describing with particularity the manner in which he is aggrieved by the action taken and showing good reason why it was not possible for him to participate in the earlier stages of the proceeding. Any application for review which fails to make an adequate showing in this respect will be dismissed.
 
 (b)(1) The application for review shall concisely and plainly state the questions presented for review with reference, where appropriate, to the findings of fact or conclusions of law.

@@ -1,5 +1,7 @@
 ##### § 0.201 General provisions. #####
 
+Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
+
 (a) There are three basic categories of delegations made by the Commission pursuant to section 5(c) of the Communications Act of 1934, as amended:
 
 (1) *Delegations to act in non-hearing matters and proceedings.* The great bulk of delegations in this category are made to bureau chiefs and other members of the Commission's staff. This category also includes delegations to individual commissioners and to boards or committees of commissioners.

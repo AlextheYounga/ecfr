@@ -1,5 +1,7 @@
 ##### § 1.225 Participation by non-parties; consideration of communications. #####
 
+Link to an amendment published at 85 FR 63175, Oct. 6, 2020.
+
 (a) Any person who wishes to appear and give evidence on any matter and who so advises the Secretary, will be notified by the Secretary if that matter is designated for hearing. In the case of requests bearing more than one signature, notice of hearing will be given to the person first signing unless the request indicates that such notice should be sent to someone other than such person.
 
 (b) No person shall be precluded from giving any relevant, material, and competent testimony at a hearing because he lacks a sufficient interest to justify his intervention as a party in the matter.

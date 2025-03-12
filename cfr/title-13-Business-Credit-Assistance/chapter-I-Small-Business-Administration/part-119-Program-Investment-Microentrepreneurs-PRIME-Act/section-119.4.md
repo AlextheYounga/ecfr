@@ -1,5 +1,7 @@
 ##### § 119.4 What services or activities must PRIME grant funds be used for? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 A recipient of a PRIME grant (“grantee”) must use PRIME grants to -
 
 (a) Provide training and technical assistance to disadvantaged microentrepreneurs (“Technical Assistance Grant”);

@@ -1,5 +1,7 @@
 ##### § 1.291 General provisions. #####
 
+Link to an amendment published at 85 FR 63179, Oct. 6, 2020.
+
 (a)(1) The Commission acts on petitions to amend, modify, enlarge or delete the issues in hearing proceedings which involve rule making matters exclusively. It also acts on interlocutory pleadings filed in matters or proceedings which are before the Commission.
 
 (2) The Chief Administrative Law Judge acts on those interlocutory matters listed in § 0.351 of this chapter.

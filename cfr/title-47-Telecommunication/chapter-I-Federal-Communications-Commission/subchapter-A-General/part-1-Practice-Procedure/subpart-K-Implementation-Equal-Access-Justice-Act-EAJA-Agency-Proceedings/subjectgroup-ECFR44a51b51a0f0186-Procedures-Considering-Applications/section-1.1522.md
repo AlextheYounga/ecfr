@@ -1,5 +1,7 @@
 ##### § 1.1522 Answer to application. #####
 
+Link to an amendment published at 85 FR 63184, Oct. 6, 2020.
+
 (a) Within 30 days after service of an application Bureau counsel may file an answer to the application. Unless Bureau counsel requests an extension of time for filing or files a statement of intent to negotiate under paragraph (b) of this section, failure to file an answer within the 30-day period may be treated as a consent to the award request.
 
 (b) If Bureau counsel and the applicant believe that the issues in the fee application can be settled, they may jointly file a statement of their intent to negotiate a settlement. The filing of this statement shall extend the time for filing an answer for an additional 30 days, and further extensions may be granted by the Administrative Law Judge upon request by Bureau counsel and the applicant.

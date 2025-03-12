@@ -1,5 +1,7 @@
 ##### § 119.6 What are the minimum and maximum amounts for an award? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 (a) The minimum grant award for Technical Assistance and Capacity Building Grants will be $50,000 during the first year of the award, subject to the availability of funds.
 
 (b) There is no minimum grant award for Research and Development or Discretionary Grants.

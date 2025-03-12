@@ -1,5 +1,7 @@
 ##### § 1.315 Depositions upon oral examination - notice and preliminary procedure. #####
 
+Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
+
 (a) *Notice.* A party to a hearing proceeding desiring to take the deposition of any person upon oral examination shall give a minimum of 21 days notice in writing to every other party, to the person to be examined, and to the presiding officer. An original and three copies of the notice shall be filed with the Secretary of the Commission. Related pleadings shall be served and filed in the same manner. The notice shall contain the following information:
 
 (1) The name and address of each person to be examined, if known, and if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs.

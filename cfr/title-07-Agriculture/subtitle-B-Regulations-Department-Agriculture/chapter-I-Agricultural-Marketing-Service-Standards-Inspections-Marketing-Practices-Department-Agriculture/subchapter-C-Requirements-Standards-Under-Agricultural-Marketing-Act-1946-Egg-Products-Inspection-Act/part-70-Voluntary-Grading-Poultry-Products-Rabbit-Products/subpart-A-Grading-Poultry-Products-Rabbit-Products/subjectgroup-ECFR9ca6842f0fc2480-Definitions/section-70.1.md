@@ -1,5 +1,7 @@
 ##### § 70.1 Definitions. #####
 
+Link to an amendment published at 85 FR 62941, Oct. 6, 2020.
+
 For the purpose of the regulations in this part, words in the singular shall be deemed to import the plural and vice versa, as the case may demand. Unless the context otherwise requires, the terms shall have the following meaning:
 
 *Acceptable* means suitable for the purpose intended by the AMS.

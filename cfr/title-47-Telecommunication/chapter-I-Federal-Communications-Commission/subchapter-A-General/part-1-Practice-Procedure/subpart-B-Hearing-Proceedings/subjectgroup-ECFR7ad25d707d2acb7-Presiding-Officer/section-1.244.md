@@ -1,5 +1,7 @@
 ##### § 1.244 Designation of a settlement judge. #####
 
+Link to an amendment published at 85 FR 63176, Oct. 6, 2020.
+
 (a) In broadcast comparative cases involving applicants for only new facilities, the applicants may request the appointment of a settlement judge to facilitate the resolution of the case by settlement.
 
 (b) Where all applicants in the case agree that such procedures may be beneficial, such requests may be filed with the presiding judge no later than 15 days prior to the date scheduled by the presiding judge for the commencement of hearings. The presiding judge shall suspend the procedural dates in the case and forward the request to the Chief Administrative Law Judge for action.

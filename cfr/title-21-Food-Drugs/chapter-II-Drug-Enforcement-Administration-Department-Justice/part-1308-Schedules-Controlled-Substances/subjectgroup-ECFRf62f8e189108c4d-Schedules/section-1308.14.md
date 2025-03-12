@@ -62,13 +62,14 @@
 |             (48) Pinazepam             |2883|
 |             (49) Prazepam              |2764|
 |             (50) Quazepam              |2881|
-|            (51) Suvorexant             |2223|
-|             (52) Temazepam             |2925|
-|            (53) Tetrazepam             |2886|
-|             (54) Triazolam             |2887|
-|             (55) Zaleplon              |2781|
-|             (56) Zolpidem              |2783|
-|             (57) Zopiclone             |2784|
+|            (51) Remimazolam            |2846|
+|            (52) Suvorexant             |2223|
+|             (53) Temazepam             |2925|
+|            (54) Tetrazepam             |2886|
+|             (55) Triazolam             |2887|
+|             (56) Zaleplon              |2781|
+|             (57) Zolpidem              |2783|
+|             (58) Zopiclone             |2784|
 
 (d) *Fenfluramine.* Any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers (whether optical, position, or geometric), and salts of such isomers, whenever the existence of such salts, isomers, and salts of isomers is possible:
 

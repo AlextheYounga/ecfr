@@ -1,5 +1,7 @@
 ##### § 1.321 Use of depositions at the hearing. #####
 
+Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
+
 (a) No inference concerning the admissibility of a deposition in evidence shall be drawn because of favorable action on the notice to take depositions.
 
 (b) Except as provided in this paragraph and in § 1.319, objection may be made at the hearing to receiving in evidence any deposition or part thereof for any reason which would require the exclusion of the evidence if the witness were then present and testifying.

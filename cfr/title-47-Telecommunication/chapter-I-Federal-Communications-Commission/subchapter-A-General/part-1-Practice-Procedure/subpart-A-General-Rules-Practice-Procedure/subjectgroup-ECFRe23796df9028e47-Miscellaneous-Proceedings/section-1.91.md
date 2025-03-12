@@ -1,5 +1,7 @@
 ##### § 1.91 Revocation and/or cease and desist proceedings; hearings. #####
 
+Link to an amendment published at 85 FR 63172, Oct. 6, 2020.
+
 (a) If it appears that a station license or construction permit should be revoked and/or that a cease and desist order should be issued, the Commission will issue an order directing the person to show cause why an order of revocation and/or a cease and desist order, as the facts may warrant, should not be issued.
 
 (b) An order to show cause why an order of revocation and/or a cease and desist order should not be issued will contain a statement of the matters with respect to which the Commission is inquiring and will call upon the person to whom it is directed (the respondent) to appear before the Commission at a hearing, at a time and place stated in the order, but not less than thirty days after the receipt of such order, and given evidence upon the matters specified in the order to show cause. However, if safety of life or property is involved, the order to show cause may specify a hearing date less than thirty days from the receipt of such order.

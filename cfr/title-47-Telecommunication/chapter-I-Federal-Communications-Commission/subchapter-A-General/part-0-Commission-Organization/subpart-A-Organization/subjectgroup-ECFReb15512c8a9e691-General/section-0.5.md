@@ -1,5 +1,7 @@
 ##### § 0.5 General description of Commission organization and operations. #####
 
+Link to an amendment published at 85 FR 63170, Oct. 6, 2020.
+
 (a) *Principal staff units.* The Commission is assisted in the performance of its responsibilities by its staff, which is divided into the following principal units:
 
 (1) Office of Managing Director.

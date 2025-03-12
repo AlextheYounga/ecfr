@@ -1,5 +1,7 @@
 ##### § 1.221 Notice of hearing; appearances. #####
 
+Link to an amendment published at 85 FR 63174, Oct. 6, 2020.
+
 (a) Upon designation of an application for hearing, the Commission issues an order containing the following:
 
 (1) A statement as to the reasons for the Commission's action.

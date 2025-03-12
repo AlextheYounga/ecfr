@@ -1,5 +1,7 @@
 ##### § 1.245 Disqualification of presiding officer. #####
 
+Link to an amendment published at 85 FR 63176, Oct. 6, 2020.
+
 (a) In the event that a presiding officer deems himself disqualified and desires to withdraw from the case, he shall notify the Commission of his withdrawal at least 7 days prior to the date set for hearing.
 
 (b) Any party may request the presiding officer to withdraw on the grounds of personal bias or other disqualification.

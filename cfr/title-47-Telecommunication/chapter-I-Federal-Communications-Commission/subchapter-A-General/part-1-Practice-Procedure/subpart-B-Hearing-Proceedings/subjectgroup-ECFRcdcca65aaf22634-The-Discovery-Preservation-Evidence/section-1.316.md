@@ -1,5 +1,7 @@
 ##### § 1.316 Depositions upon written interrogatories - notice and preliminary procedure. #####
 
+Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
+
 (a) *Service of interrogatories; notice.* A party to the hearing proceeding desiring to take the deposition of any person upon written interrogatories shall serve the interrogatories upon every other party and shall give a minimum of 35 days notice in writing to every other party and to the person to be examined. An original and three copies of the interrogatories and the notice (and of all related pleadings) shall be filed with the Secretary of the Commission. A copy of the interrogatories and the notice (and of all related pleadings) shall be served on the presiding officer. The notice shall contain the following information:
 
 (1) The name and address of each person to be examined, if known, and if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs.

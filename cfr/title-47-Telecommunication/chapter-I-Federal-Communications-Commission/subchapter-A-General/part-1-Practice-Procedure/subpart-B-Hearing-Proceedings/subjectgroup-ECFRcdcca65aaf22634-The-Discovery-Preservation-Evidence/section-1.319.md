@@ -1,5 +1,7 @@
 ##### § 1.319 Objections to the taking of depositions. #####
 
+Link to an amendment published at 85 FR 63181, Oct. 6, 2020.
+
 (a) *Objections to be made by motion prior to the taking of depositions.* If there is objection to the substance of any interrogatory or to examination on any matter clearly covered by the notice to take depositions, the objection shall be made in a motion opposing the taking of depositions or in a motion to limit or suppress the interrogatory as provided in §§ 1.315(b) and 1.316(d) and shall not be made at the taking of the deposition.
 
 (b) *Objections to be made at the taking of depositions.* Errors and irregularities occurring at the oral examination in the manner of taking the deposition, in the form of the questions or answers, in the oath or affirmation, or in the conduct of parties, and errors of any kind which might be obviated, removed, or cured if promptly presented, are waived unless reasonable objection thereto is made at the taking of the deposition. If such objection is made, counsel shall, if possible, agree upon the measures required to obviate, remove, or cure such errors. The measures agreed upon shall be taken. If agreement cannot be reached, the objection shall be noted on the deposition by the officer taking it, and the testimony objected to shall be taken subject to the objection.

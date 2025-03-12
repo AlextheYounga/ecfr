@@ -1,5 +1,7 @@
 ##### § 1.1319 Consideration of the environmental impact statements. #####
 
+Link to an amendment published at 85 FR 63183, Oct. 6, 2020.
+
 (a) If the action is subject to a hearing:
 
 (1) In rendering his initial decision, the Administrative Law Judge shall utilize the FEIS in considering the environmental issues, together with all other non-environmental issues. In a comparative context, the respective parties shall be afforded the opportunity to comment on the FEIS, and the Administrative Law Judge's decision shall contain an evaluation of the respective applications based on environmental and non-environmental public interest factors.

@@ -1,5 +1,7 @@
 ##### § 119.13 How will an applicant make a subgrant? #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 (a) An applicant that wants to make subgrants using PRIME grant funds must receive written approval from SBA prior to making subgrants. The applicant must identify the subgrantee(s) and describe in detail what the subgrantee(s) will do to help the grantee implement its proposal. An applicant must submit information to SBA demonstrating that, through the subgrantee(s), the grantee's program will:
 
 (1) Provide expanded services to the community,

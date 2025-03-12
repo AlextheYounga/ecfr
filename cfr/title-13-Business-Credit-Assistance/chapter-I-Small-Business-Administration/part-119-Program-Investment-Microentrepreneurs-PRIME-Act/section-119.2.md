@@ -1,5 +1,7 @@
 ##### § 119.2 Definitions. #####
 
+Link to an amendment published at 85 FR 62951, Oct. 6, 2020.
+
 For the purposes of this part, the following definitions apply:
 
 *Capacity Building Grant* means a grant made under the Act identified under § 119.4(b).

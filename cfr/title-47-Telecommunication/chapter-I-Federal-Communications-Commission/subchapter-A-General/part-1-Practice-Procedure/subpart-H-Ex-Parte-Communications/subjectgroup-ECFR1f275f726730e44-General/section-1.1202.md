@@ -1,5 +1,7 @@
 ##### § 1.1202 Definitions. #####
 
+Link to an amendment published at 85 FR 63183, Oct. 6, 2020.
+
 For the purposes of this subpart, the following definitions apply:
 
 (a) *Presentation.* A communication directed to the merits or outcome of a proceeding, including any attachments to a written communication or documents shown in connection with an oral presentation directed to the merits or outcome of a proceeding. Excluded from this term are communications which are inadvertently or casually made, inquiries concerning compliance with procedural requirements if the procedural matter is not an area of controversy in the proceeding, statements made by decisionmakers that are limited to providing publicly available information about pending proceedings, and inquiries relating solely to the status of a proceeding, including inquiries as to the approximate time that action in a proceeding may be taken. However, a status inquiry which states or implies a view as to the merits or outcome of the proceeding or a preference for a particular party, which states why timing is important to a particular party or indicates a view as to the date by which a proceeding should be resolved, or which otherwise is intended to address the merits or outcome or to influence the timing of a proceeding is a presentation.
