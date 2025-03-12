@@ -1,0 +1,3 @@
+##### § 1280.2 Items subject to inspection. #####
+
+We may, at our discretion, inspect packages, briefcases, and other containers in the immediate possession of employees, contractors, and other people arriving on, working at, visiting, or departing from NARA property and facilities. 41 CFR 102-74, subpart C, authorizes GSA to conduct similar inspections at NARA facilities on GSA property. These inspection authorities are in addition to NARA's research room rules (see 36 CFR part 1254 and 36 CFR 1280.1(e)).

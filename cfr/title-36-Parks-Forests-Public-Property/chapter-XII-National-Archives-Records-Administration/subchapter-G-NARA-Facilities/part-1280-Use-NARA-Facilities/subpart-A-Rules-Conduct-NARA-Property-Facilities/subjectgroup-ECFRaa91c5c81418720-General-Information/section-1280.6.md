@@ -1,0 +1,3 @@
+##### § 1280.6 Service animals. #####
+
+We allow service animals on or in NARA property and facilities in any area that the individual handling the service animal is otherwise entitled to enter. A service animal is any dog individually trained to do work or perform tasks for the benefit of an individual with a disability. You may not bring any other animals onto or into NARA property and facilities, except for official purposes.

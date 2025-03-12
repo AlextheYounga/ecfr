@@ -1,5 +1,7 @@
 ##### § 622.188 Required gear, authorized gear, and unauthorized gear. #####
 
+Link to an amendment published at 85 FR 36171, June 15, 2020.
+
 (a) *Required gear.* For a person on board a vessel to harvest or possess South Atlantic snapper-grouper in or from the South Atlantic EEZ, the vessel must possess on board and such person must use the gear as specified in paragraphs (a)(1) and (a)(2) of this section.
 
 (1) *Dehooking device.* At least one dehooking device is required and must be used as needed to remove hooks embedded in South Atlantic snapper-grouper with minimum damage. The hook removal device must be constructed to allow the hook to be secured and the barb shielded without re-engaging during the removal process. The dehooking end must be blunt, and all edges rounded. The device must be of a size appropriate to secure the range of hook sizes and styles used in the South Atlantic snapper-grouper fishery.

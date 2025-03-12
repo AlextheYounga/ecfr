@@ -1,0 +1,3 @@
+##### § 1280.20 Smoking or using alternative smoking devices. #####
+
+You may not smoke or use alternative smoking devices (electronic or vapor) inside any NARA facility (including those located on GSA or GPO property), in courtyards on NARA property, or in any outdoor area within 25 feet of any NARA facility air intake duct or doorway. Due to dangers that smoking and smoking devices present to the safety of occupants and the security of archival holdings, we have a zero-tolerance policy. You may smoke and use alternative smoking devices only in marked smoking areas outside certain NARA facilities.

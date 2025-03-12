@@ -1,0 +1,3 @@
+##### § 1280.4 Children under the age of 14. #####
+
+We admit children under the age of 14 to NARA facilities only if they are accompanied by an adult who will supervise them at all times. The director of a NARA facility may authorize a lower age limit for unaccompanied children to meet special circumstances (*e.g.,* students who have been given permission to conduct research without adult supervision).

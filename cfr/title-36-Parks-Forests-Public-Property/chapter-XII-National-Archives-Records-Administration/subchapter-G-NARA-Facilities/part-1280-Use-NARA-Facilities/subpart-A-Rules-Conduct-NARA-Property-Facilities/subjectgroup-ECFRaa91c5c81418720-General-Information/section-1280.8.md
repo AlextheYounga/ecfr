@@ -1,0 +1,3 @@
+##### § 1280.8 Driving on NARA property. #####
+
+When driving on NARA property, you must obey speed limits, posted signs, and other traffic laws, and park only in designated spaces. We reserve the right to tow, at the owner's expense, any vehicle that is parked illegally. If you must leave your vehicle illegally parked due to an emergency, you must notify the facility security guards as soon as possible. We may, at our discretion, deny any vehicle access to NARA property for public safety or security reasons.

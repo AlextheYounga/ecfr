@@ -1,0 +1,3 @@
+##### § 1280.24 Eating and drinking. #####
+
+You may eat and drink inside NARA facilities only in designated areas. You may not eat or drink in any research rooms, records storage areas, or museum areas unless specifically authorized by the Archivist or designee. Facility directors may, by local rule, prohibit eating and drinking in designated outdoor areas of NARA facilities or NARA property, as well (*e.g.,* near artifacts that are on display outdoors).
