@@ -1,7 +1,5 @@
 ##### § 3550.102 Grant and loan purposes. #####
 
-Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
-
 (a) *Grant funds.* Grant funds may be used only to pay costs for repairs and improvements that will remove identified health and safety hazards or to repair or remodel dwellings to make them accessible and useable for household members with disabilities. Unused grant funds must be returned to the Rural Housing Service (RHS).
 
 (b) *Loan funds.* Loan funds may be used to make general repairs and improvements to properties or to remove health and safety hazards, as long as the dwelling remains modest in size and design.
@@ -34,6 +32,8 @@ Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
 
 (4) Pay for off-site improvements except for the necessary installation and assessment costs for utilities.
 
-(5) Refinance any debt or obligation of the applicant incurred before the date of application, except for the installation and assessment costs of utilities.
+(5) Refinance any debt or obligation of the applicant incurred before the date of application except for the installation and assessment costs of utilities; or subject to the availability of funds and program priorities as determined by RHS, refinance of an existing RHS loan in accordance with § 3550.201 as a special servicing option, including but not limited to refinancing at the end of a moratorium.
 
 (6) Pay fees, commission, or charges to for-profit entities related to loan packaging or referral of prospective applicants to RHS.
+
+[61 FR 59779, Nov. 22, 1996, as amended at 87 FR 6772, Feb. 7, 2022]

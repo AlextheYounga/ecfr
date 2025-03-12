@@ -1,18 +1,10 @@
 ##### § 3550.53 Eligibility requirements. #####
 
-Link to an amendment published at 87 FR 6771, Feb. 7, 2022.
-
-(a) *Income eligibility.* At the time of loan approval, the household's adjusted income must not exceed the applicable low-income limit for the area, and at closing, must not exceed the applicable moderate-income limit for the area (see § 3550.544).
+(a) *Income eligibility.* At the time of loan approval, the household's adjusted income must not exceed the applicable low-income limit for the area, and at closing, must not exceed the applicable moderate-income limit for the area (see § 3550.54). When an existing RHS loan is being refinanced as a special servicing action under § 3550.201), the household's adjusted income must not exceed the applicable moderate-income limit for the area at the time of loan approval and closing.
 
 (b) *Citizenship status.* The applicant must be a United States citizen or a noncitizen who qualifies as a legal alien as defined in § 3550.10.
 
-(c) *Primary residence.* Applicants must agree to and have the ability to occupy the dwelling on a permanent basis.
-
-(1) Because of the probability of transfer, loans will not be approved for military personnel on active duty unless the applicant will be discharged within a reasonable period of time.
-
-(2) Because of the probability of moves after graduation, loans will not be approved for a full-time student unless the applicant intends to make the home a permanent residence and there are reasonable prospects that employment will be available in the area after graduation.
-
-(3) If the home is being constructed or renovated an adult member of the household must be available to make inspections and authorize progress payments as the dwelling is being constructed.
+(c) *Principal residence.* Applicants must agree to and have the ability to occupy the dwelling in accordance with the definition found in § 3550.10. If the dwelling is being constructed or renovated, an adult member of the household must be available to make inspections and authorize progress payments as the dwelling is constructed.
 
 (d) *Eligibility of current homeowners.* Current homeowners are not eligible for initial loans except as follows:
 
@@ -30,17 +22,13 @@ Link to an amendment published at 87 FR 6771, Feb. 7, 2022.
 
 (f) *Suspension or debarment.* Applications from applicants who have been suspended or debarred from participation in Federal programs will be handled in accordance with 2 CFR parts 180 and 417.
 
-(g) *Repayment ability.* Repayment ability means applicants must demonstrate adequate and dependably available income. The determination of income dependability will include consideration of the applicant's past history of annual income.
+(g) *Repayment ability.* Repayment ability means applicants must demonstrate adequate and dependably available income. The determination of income dependability will include consideration of the applicant's history of annual income.
 
-(1) A very low-income applicant is considered to have repayment ability when the monthly amount required for payment of principal, interest, taxes, and insurance (PITI) does not exceed 29 percent of the applicant's repayment income, and the monthly amount required to pay PITI plus recurring monthly debts does not exceed 41 percent of the applicant's repayment income.
+(1) An applicant is considered to have repayment ability when the monthly amount required for payment of principal, interest, taxes, and insurance (PITI), does not exceed thirty-three percent of the applicant's repayment income (PITI ratio). In addition, the monthly amount required to pay PITI plus recurring monthly debts must not exceed forty-one percent of the applicant's repayment income (total debt ratio).
 
-(2) A low-income applicant is considered to have repayment ability when the monthly amount required for payment of PITI does not exceed 33 percent of the applicant's repayment income, and the monthly amount required to pay PITI plus recurring monthly debts does not exceed 41 percent of repayment income.
+(2) If the applicant's PITI ratio and total debt ratio exceed the percentages specified by the Agency by a minimal amount, compensating factors may be considered. Examples of compensating factors include payment history (if applicant has historically paid a greater share of income for housing with the same income and debt level), savings history, job prospects, and adjustments for nontaxable income.
 
-(3) Repayment ratios may exceed the percentages specified in paragraphs (g)(1) and (g)(2) of this section if the applicant has demonstrated an ability to meet higher debt obligations, or if RHS determines, based on other compensating factors, that the household has a higher repayment ability.
-
-(4) If an applicant does not meet the repayment ability requirements, the applicant can have another party join the application as a cosigner.
-
-(5) If an applicant does not meet the repayment ability requirements, the applicant can have other household members join the application.
+(3) If an applicant does not meet the repayment ability requirements in this paragraph (g), the applicant can have another party join the application as a cosigner, have other household members join the application, or both.
 
 (h) *Credit qualifications.* Applicants must be unable to secure the necessary credit from other sources on terms and conditions that the applicant could reasonably be expected to fulfill. Applicants must have a credit history that indicates reasonable ability and willingness to meet debt obligations. An applicant with an outstanding judgment obtained by the United States in a federal court, other than the United States Tax Court, is not eligible for a loan or grant from RHS.
 
@@ -74,6 +62,8 @@ Link to an amendment published at 87 FR 6771, Feb. 7, 2022.
 
 (3) When an application is rejected because of unacceptable credit, the applicant will be informed of the reason and source of information.
 
-(i) *Homeownership education.* Applicants who are first-time homebuyers must agree to provide documentation, in the form of a completion certificate or letter from the provider, that a homeownership education course from a certified provider under § 3550.11 has been successfully completed as defined by the provider prior to loan closing. Requests for exceptions to the homeowner education requirement will be reviewed and granted on an individual case-by-case basis. The State Director may grant an exception the homeownership education requirement for individuals in geographic areas within the State where the State Director verifies that certified homeownership education is not reasonably available in the local area in any of the formats listed in § 3550.11(b). Whether such homeownership education is reasonably available will be determined based on factors including, but not limited to: Distance, travel time, geographic obstacles, and cost. On a case-by-case basis, the State Director also may grant an exception, provided the applicant borrower documents a special need, such as a disability, that would unduly impede completing a homeownership course in a reasonably available format.
+(i) *Homeownership education.* Applicants who are first-time homebuyers must agree to provide documentation, in the form of a completion certificate or letter from the provider, that a homeownership education course from a certified provider under § 3550.11 has been successfully completed as defined by the provider. Requests for exceptions to the homeownership education requirement in this paragraph (i) will be reviewed and granted on an individual case-by-case basis. The State Director may grant an exception to the homeownership education requirement for individuals in geographic areas within the State where the State Director verifies that certified homeownership education is not reasonably available in the local area in any of the formats listed in § 3550.11(b).
 
-[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78330, Dec. 24, 2002; 72 FR 5157, Feb. 5, 2007; 84 FR 29038, June 21, 2019]
+Whether such homeownership education is reasonably available will be determined based on factors including, but not limited to: Distance, travel time, geographic obstacles, and cost. On a case-by-case basis, the State Director also may grant an exception, provided the applicant borrower documents a special need, such as a disability, that would unduly impede completing a homeownership course in a reasonably available format.
+
+[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78330, Dec. 24, 2002; 72 FR 5157, Feb. 5, 2007; 84 FR 29038, June 21, 2019; 87 FR 6771, Feb. 7, 2022]

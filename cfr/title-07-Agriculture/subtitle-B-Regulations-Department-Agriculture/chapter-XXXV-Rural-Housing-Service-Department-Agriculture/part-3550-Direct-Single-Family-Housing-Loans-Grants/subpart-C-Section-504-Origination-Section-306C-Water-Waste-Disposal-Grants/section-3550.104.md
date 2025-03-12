@@ -1,7 +1,5 @@
 ##### § 3550.104 Applications. #####
 
-Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
-
 (a) *Application submissions.* All persons applying for section 504 loans or grants must file a complete written application in a format specified by RHS. Applications will be accepted even when funds are not available.
 
 (b) *Application processing.* (1) Incomplete applications will be returned to the applicant specifying in writing the additional information that is needed to make the application complete.
@@ -14,4 +12,6 @@ Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
 
 (5) Applicants who are ineligible will be notified in writing and provided with the specific reasons for the rejection.
 
-(c) *Processing priorities.* When funding is not sufficient to serve all eligible applicants, applications for assistance to remove health and safety hazards will receive priority for funding. In the case of applications with equivalent priority status that are received on the same day, preference will be extended to applicants qualifying for a veterans preference. After selection for processing, requests for assistance are funded on a first-come, first-served basis.
+(c) *Processing priorities.* When funding is not sufficient to serve all eligible applicants, applications for assistance to remove health and safety hazards will receive priority for funding. In the case of applications with equivalent priority status that are received on the same day, preference will be extended to applicants qualifying for a veterans' preference. After selection for processing, requests for assistance are funded on a first-come, first-served basis.
+
+[61 FR 59779, Nov. 22, 1996, as amended at 87 FR 6772, Feb. 7, 2022]

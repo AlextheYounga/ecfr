@@ -1,0 +1,19 @@
+##### § 5.233 Mandatory statements. #####
+
+(a) *Responsible advertiser.* The advertisement must display the responsible advertiser's name, city, and State or the name and other contact information (such as, telephone number, website, or email address) where the responsible advertiser may be contacted.
+
+(b) *Class and type.* The advertisement shall contain a conspicuous statement of the class to which the product belongs and the type thereof corresponding with the statement of class and type which is required to appear on the label of the product.
+
+(c) *Alcohol content* - (1) *Mandatory statement.* The alcohol content for distilled spirits must be stated as a percentage of alcohol by volume, in the manner set forth in § 5.65 of this chapter for labels. Products that contain a significant amount of material, such as solid fruit, that may absorb spirits after bottling must state the alcohol content at the time of bottling as follows: “Bottled at \_\_ percent-alcohol-by-volume.”
+
+(2) *Optional statement.* In addition, the advertisement may also state the alcohol content in degrees of proof if this information appears in the same field of vision as the statement expressed in percent-alcohol-by-volume.
+
+(d) *Percentage of neutral spirits and name of commodity.*
+
+(1) In the case of distilled spirits (other than cordials, liqueurs, flavored neutral spirits, including flavored vodka, and distilled spirits specialty products) produced by blending or rectification, if neutral spirits have been used in the production thereof, there shall be stated the percentage of neutral spirits so used and the name of the commodity from which such neutral spirits have been distilled. The statement of percentage and the name of the commodity shall be made in substantially the following form: “\_\_% neutral spirits distilled from \_\_ (insert grain, cane products, or fruit, or other products as appropriate)”; or \_\_% neutral spirits (vodka) distilled from \_\_ (insert grain, cane product, fruit, or other commodity, as appropriate)”; or “\_\_% grain (cane products), (fruit) neutral spirits”; or “\_\_% grain spirits”. The statement used under this paragraph must be identical to that on the label of distilled spirits to which the advertisement refers.
+
+(2) In the case of gin manufactured by a process of continuous distillation or in the case of neutral spirits, there shall be stated the name of the commodity from which such gin or neutral spirits were distilled. The statement of the name of the commodity shall be made in substantially the following form: “Distilled from grain”, or “Distilled from cane products”, or “Distilled from fruit.” The statement used under this paragraph must be identical to that on the label of distilled spirits to which the advertisement refers.
+
+(e) *Exception.* (1) If an advertisement refers to a general distilled spirits line or all of the distilled spirits products of one company, whether by the company name or by the brand name common to all the distilled spirits in the line, the only mandatory information necessary is the responsible advertiser's name, city, and State or the name and other contact information (such as telephone number, website, or email address) where the responsible advertiser may be contacted. This exception does not apply where only one type of distilled spirits is marketed under the specific brand name advertised.
+
+(2) On consumer specialty items (such as T-shirts, hats, bumper stickers, or refrigerator magnets), the only information necessary is the company name of the responsible advertiser or brand name of the product.

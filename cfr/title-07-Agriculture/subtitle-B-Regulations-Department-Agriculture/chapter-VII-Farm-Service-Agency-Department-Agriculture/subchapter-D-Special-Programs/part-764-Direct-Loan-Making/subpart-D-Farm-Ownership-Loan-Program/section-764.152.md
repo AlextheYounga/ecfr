@@ -1,4 +1,4 @@
-##### § 764.152 Eligibility requirements. #####
+##### § 764.152 General eligibility requirements. #####
 
 The applicant:
 
@@ -20,13 +20,27 @@ The applicant:
 
 (4) If the entity is an operator only entity, the individuals that own the farm (real estate) must own at least 50 percent of the family farm (operating entity).
 
-(d) And in the case of an entity, one or more members constituting a majority interest, must have participated in the business operations of a farm for at least 3 years out of the 10 years prior to the date the application is submitted. One of these three years can be substituted with the following experience:
+(d) And in the case of an entity, one or more members constituting a majority interest, must have participated in the business operations of a farm for at least 3 years out of the 10 years prior to the date the application is submitted.
 
-(1) Postsecondary education in agriculture business, horticulture, animal science, agronomy, or other agricultural related fields,
+(1) The following experiences can substitute for up to 2 of the 3 years:
 
-(2) Significant business management experience, or
+(i) Not less than 16 credit hours of post-secondary education in an agriculture-related field;
 
-(3) Leadership or management experience while serving in any branch of the military.
+(ii) Successful completion of a farm management curriculum offered by a cooperative extension service, community college, adult vocational agriculture program, non-profit organization, or land-grant college or university;
+
+(iii) One (1)-year experience as a farm laborer with substantial management responsibility;
+
+(iv) Successful completion of an internship, mentorship, or apprenticeship in day-to-day farm management;
+
+(v) Significant business management experience;
+
+(vi) Honorable discharge from the armed forces of the United States;
+
+(vii) Successful repayment of an FSA financed youth loan; or
+
+(viii) Established relationship with a counselor in the Service Corps of Retired Executives (SCORE) program who has experience in farming or ranching, or with Agency-approved local individuals or organizations that are committed to providing mentorship in farming or ranching; or
+
+(2) The 3-year requirement in this paragraph (d) will be waived if the applicant meets the requirements of both paragraphs (d)(1)(iii) and (viii) of this section.
 
 (e) For an ML made for FO purposes, if an ML applicant has successfully repaid an FSA financed youth loan, the term of that loan may be used toward the 3 years of management experience required for a FO direct loan.
 
@@ -38,4 +52,4 @@ The applicant:
 
 (3) Have never received a direct FO loan.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 79 FR 60744, Oct. 8, 2014; 81 FR 3293, Jan. 21, 2016; 86 FR 43391, Aug. 9, 2021]
+[72 FR 63298, Nov. 8, 2007, as amended at 79 FR 60744, Oct. 8, 2014; 81 FR 3293, Jan. 21, 2016; 86 FR 43391, Aug. 9, 2021; 87 FR 13124, Mar. 9, 2022]

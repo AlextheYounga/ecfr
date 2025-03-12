@@ -6,7 +6,7 @@ No person shall import a motor vehicle or item of motor vehicle equipment into t
 
 (2) The equipment item is not a system, part, or component of a motor vehicle and thus is not an item of motor vehicle equipment subject to the Federal motor vehicle safety, bumper, and theft prevention standards.
 
-(b) The vehicle or equipment item conforms with all applicable safety standards (or the vehicle does not conform solely because readily attachable equipment items which will be attached to it before it is offered for sale to the first purchases for purposes other than resale are not attached), and bumper and theft prevention standards, and bears a certification label or tag to that effect permanently affixed by the original manufacturer to the vehicle, or by the manufacturer to the equipment item or its delivery container, in accordance with, as applicable, parts 541, 555, 567, 568, and 581, or 571 (for certain equipment items) of this chapter.
+(b) The vehicle or equipment item conforms with all applicable safety standards (or the vehicle does not conform solely because readily attachable equipment items which will be attached to it before it is offered for sale to the first purchases for purposes other than resale are not attached), and bumper and theft prevention standards, and bears a certification label or tag to that effect permanently affixed by the original manufacturer to the vehicle, or by the manufacturer to the equipment item or its delivery container, in accordance with, as applicable, parts 541, 555, 567, 568, and 581, or 571 (for certain equipment items) of this chapter, or the vehicle is a replica motor vehicle eligible for an exemption under part 586 and is being imported by a low-volume manufacturer, as defined at 49 CFR 586.4.
 
 (c) The vehicle or equipment item does not comply with all applicable Federal motor vehicle safety, bumper, and theft prevention standards, but is intended solely for export, and the vehicle or equipment item, and the outside of the container of the equipment item, if any, bears a label or tag to that effect.
 
@@ -88,4 +88,4 @@ No person shall import a motor vehicle or item of motor vehicle equipment into t
 
 (ii) Received written permission from the Administrator to import the vehicle.
 
-[54 FR 40078, Sept. 29, 1989, as amended at 55 FR 3747, Feb. 5, 1990; 55 FR 11378, Mar. 28, 1990; 55 FR 17439, Apr. 25, 1990; 57 FR 2047, Jan. 17, 1992; 57 FR 44703, Sept. 29, 1992; 59 FR 31560, June 20, 1994; 64 FR 37882, July 14, 1999; 69 FR 52092, Aug. 24, 2004; 76 FR 53078, Aug. 25, 2011; 80 FR 53013, Sept. 2, 2015]
+[54 FR 40078, Sept. 29, 1989, as amended at 55 FR 3747, Feb. 5, 1990; 55 FR 11378, Mar. 28, 1990; 55 FR 17439, Apr. 25, 1990; 57 FR 2047, Jan. 17, 1992; 57 FR 44703, Sept. 29, 1992; 59 FR 31560, June 20, 1994; 64 FR 37882, July 14, 1999; 69 FR 52092, Aug. 24, 2004; 76 FR 53078, Aug. 25, 2011; 80 FR 53013, Sept. 2, 2015; 87 FR 13236, Mar. 9, 2022]

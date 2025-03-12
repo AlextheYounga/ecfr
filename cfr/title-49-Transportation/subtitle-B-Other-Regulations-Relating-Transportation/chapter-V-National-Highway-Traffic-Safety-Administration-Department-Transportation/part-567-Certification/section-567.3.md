@@ -27,3 +27,7 @@ All terms that are defined in the Act and the rules and standards issued under i
 *Incomplete vehicle manufacturer* means a person who manufactures an incomplete vehicle by assembling components none of which, taken separately, constitute an incomplete vehicle.
 
 *Intermediate manufacturer* means a person, other than the incomplete vehicle manufacturer or the final-stage manufacturer, who performs manufacturing operations on a vehicle manufactured in two or more stages.
+
+*Replica motor vehicle* means a motor vehicle meeting the definition of replica motor vehicle in 49 CFR part 586.
+
+[70 FR 7430, Feb. 14, 2005, as amended at 87 FR 13232, Mar. 9, 2022

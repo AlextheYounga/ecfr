@@ -20,7 +20,7 @@
 
 (3) Refinancing of FLP debt;
 
-(4) Cash proceeds of insurance claims received on Agency security, if not being used to repair or replace the security;
+(4) Proceeds of insurance claims received on Agency security, if not being used to repair or replace the security;
 
 (5) Any transaction that results in a loss in the value of any Agency basic security;
 
@@ -30,4 +30,4 @@
 
 (c) *Payments from sale of real estate.* Notwithstanding any other provision of this section, payments derived from the sale of real estate security will be treated as regular payments at the Agency's discretion, if the FLP loans will be adequately secured after the transaction.
 
-[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010]
+[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 87 FR 13124, Mar. 9, 2022]

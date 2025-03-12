@@ -1,5 +1,7 @@
 ##### § 391.63 Multiple-employer drivers. #####
 
+Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
+
 (a) If a motor carrier employs a person as a multiple-employer driver (as defined in § 390.5 of this subchapter), the motor carrier shall comply with all requirements of this part, except that the motor carrier need not -
 
 (1) Require the person to furnish an application for employment in accordance with § 391.21;

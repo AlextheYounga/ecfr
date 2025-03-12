@@ -250,6 +250,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Entity member* means all individuals and all embedded entities, as well as the individual members of the embedded entities, having an ownership interest in the assets of the entity.
 
+*Equitable relief* means waiving a requirement for Direct Farm Ownership, Direct Farm Operating, or Direct Emergency loans when the borrower is not in compliance with loan program requirements, but acted in good faith and relied on a material action, advice, or non-action from an Agency official to the detriment of the borrower's operation.
+
 *Essential family living and farm operating expenses:*
 
 (1) Are those that are basic, crucial or indispensable.
@@ -606,11 +608,13 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Veteran* is any person who served in the military, naval, or air service during any war as defined in section 101(12) of title 38, United States Code.
 
-*Veteran farmer* is a farmer who has served in the Armed Forces (as defined in 38 U.S.C. 101(10)) and who -
+*Veteran farmer* is a farmer who has served in the Armed Forces (as defined in 38 U.S.C. 101(10)) and who—
 
-(1) has not operated a farm; or
+(i) Has not operated a farm;
 
-(2) has operated a farm for not more than 10 years.
+(ii) Has operated a farm for not more than 10 years; or
+
+(iii) Is a veteran who served in the active military, naval, or air service, and who was discharged or released from that service under conditions other than dishonorable and who first obtained status as a veteran during the most recent 10-year period.
 
 *Wetlands* are those lands or areas of land as determined by the Natural Resources Conservation Service to meet the requirements provided in section 1201 of the Food Security Act of 1985.
 
@@ -618,4 +622,4 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Youth loan* is an operating type loan made to an eligible rural youth applicant to finance a modest income-producing agricultural project.
 
-[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016; 85 FR 36691, June 17, 2020; 86 FR 43390, Aug. 9, 2021]
+[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016; 85 FR 36691, June 17, 2020; 86 FR 43390, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022]

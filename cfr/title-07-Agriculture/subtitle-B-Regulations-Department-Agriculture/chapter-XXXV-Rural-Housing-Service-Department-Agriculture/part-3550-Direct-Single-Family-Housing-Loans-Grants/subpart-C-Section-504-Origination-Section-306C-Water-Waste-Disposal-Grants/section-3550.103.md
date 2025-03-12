@@ -1,7 +1,5 @@
 ##### § 3550.103 Eligibility requirements. #####
 
-Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
-
 To be eligible, applicants must meet the following requirements:
 
 (a) *Owner-occupant.* Applicants must own, as described in § 3550.107, and occupy the dwelling.
@@ -12,7 +10,7 @@ To be eligible, applicants must meet the following requirements:
 
 (d) *Citizenship status.* The applicant must be a U.S. citizen or a non-citizen who qualifies as a legal alien, as defined in § 3550.10.
 
-(e) *Need and use of personal resources.* Applicants must be unable to obtain financial assistance at reasonable terms and conditions from non-RHS credit or grant sources and lack the personal resources to meet their needs. In cases where the household is experiencing medical expenses in excess of three percent of the household's income, this requirement may be waived or modified. Elderly families must use any net family assets in excess of $20,000 to reduce their section 504 request. Non-elderly families must use any net family assets in excess of $15,000 to reduce their section 504 request. Applicants may contribute assets in excess of the aforementioned amounts to further reduce their request for assistance. The definition of assets for this purpose is net family assets as described in § 3550.54 of subpart B of this part, less the value of the dwelling and a minimum adequate site.
+(e) *Need and use of personal resources.* Applicants must be unable to obtain financial assistance at reasonable terms and conditions from non-RHS credit or grant sources and lack the personal resources to meet their needs. Elderly families must use any net family assets in excess of $20,000 to reduce their section 504 request. Non-elderly families must use any net family assets in excess of $15,000 to reduce their section 504 request. Applicants may contribute assets in excess of the aforementioned amounts to further reduce their request for assistance. The definition of assets for the purpose of this paragraph (e) is net family assets as described in § 3550.54, less the value of the dwelling and a minimum adequate site.
 
 (f) *Legal capacity.* The applicant must have the legal capacity to incur the loan obligation or have a court appointed guardian or conservator who is empowered to obligate the applicant in real estate matters.
 
@@ -54,4 +52,4 @@ To be eligible, applicants must meet the following requirements:
 
 (3) When an application is rejected because of unacceptable credit, the applicant will be informed of the reason and source of information.
 
-[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78331, Dec. 24, 2002; 73 FR 49593, Aug. 22, 2008; 80 FR 9911, Feb. 24, 2015]
+[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78331, Dec. 24, 2002; 73 FR 49593, Aug. 22, 2008; 80 FR 9911, Feb. 24, 2015; 87 FR 6772, Feb. 7, 2022]

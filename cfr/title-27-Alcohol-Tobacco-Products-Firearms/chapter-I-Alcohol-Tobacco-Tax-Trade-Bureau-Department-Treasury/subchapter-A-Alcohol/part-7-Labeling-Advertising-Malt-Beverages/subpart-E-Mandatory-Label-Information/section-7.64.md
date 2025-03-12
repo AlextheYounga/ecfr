@@ -1,0 +1,5 @@
+##### § 7.64 Brand name. #####
+
+(a) *Requirement.* The malt beverage label must include a brand name. If the malt beverage is not sold under a brand name, then the name of the bottler or importer, as applicable, appearing in the name and address statement is treated as the brand name.
+
+(b) *Misleading brand names.* Labels may not include any misleading brand names. A brand name is misleading if it creates (by itself or in association with other printed or graphic matter) any erroneous impression or inference as to the age, origin, identity, or other characteristics of the malt beverage. A brand name that would otherwise be misleading may be qualified with the word “brand” or with some other qualification if the appropriate TTB officer determines that the qualification dispels any misleading impression that might otherwise be created.

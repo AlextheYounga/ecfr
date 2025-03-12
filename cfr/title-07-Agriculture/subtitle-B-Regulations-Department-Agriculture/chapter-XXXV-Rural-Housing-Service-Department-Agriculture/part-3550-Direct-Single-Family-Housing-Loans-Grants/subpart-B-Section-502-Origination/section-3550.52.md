@@ -1,10 +1,8 @@
 ##### § 3550.52 Loan purposes. #####
 
-Link to an amendment published at 87 FR 6771, Feb. 7, 2022.
-
 Section 502 funds may be used to buy, build, rehabilitate, improve, or relocate an eligible dwelling and provide related facilities for use by the borrower as a permanent residence. In limited circumstances section 502 funds may be used to refinance existing debt.
 
-(a) *Purchases from existing RHS borrowers.* To purchase a property currently financed by an RHS loan, the new borrower must assume the existing RHS indebtedness. Section 502 funds may be used to provide additional financing or make repairs. Loan funds also may be used to permit a remaining borrower to purchase the equity of a departing co-borrower.
+(a) *Purchases from existing RHS borrowers.* To purchase a property currently financed by an RHS loan, the new borrower will assume the existing RHS indebtedness or receive new loan funds as determined by the Agency. The Agency will periodically determine whether assumptions or new loans are appropriate on a program wide basis based on the best interest of the government, taking into account factors such as funding availability and staff resources. Regardless of the method, loan funds may be used for eligible costs as defined in paragraph (d) of this section or to permit a remaining borrower to purchase the equity of a departing co-borrower.
 
 (b) *Refinancing non-RHS loans.* Debt from an existing non-RHS loan may be refinanced if the existing debt is secured by a lien against the property, RHS will have a first lien position on the security property after refinancing, and:
 
@@ -24,7 +22,7 @@ Section 502 funds may be used to buy, build, rehabilitate, improve, or relocate 
 
 (3) Debts incurred after the date of RHS loan application but before closing may be refinanced if the costs are incurred for eligible loan purposes and any construction work conforms to the standards specified in this part.
 
-(c) *Refinancing RHS debt.* Under limited circumstances, an existing RHS loan may be refinanced in accordance with § 3550.204 to allow the borrower to receive payment assistance.
+(c) *Refinancing RHS debt.* An existing RHS loan may be refinanced in accordance with § 3550.204 to allow the borrower to receive payment assistance. In addition, depending on the availability of funds and program priorities as determined by RHS, an existing RHS loan and the related subsidy recapture may be refinanced as allowed under § 3550.201.
 
 (d) *Eligible costs.* Improvements financed with loan funds must be on land which, after closing, is part of the security property. In addition to acquisition, construction, repairs, or the cost of relocating a dwelling, loan funds may be used to pay for:
 
@@ -38,7 +36,7 @@ Section 502 funds may be used to buy, build, rehabilitate, improve, or relocate 
 
 (5) Real estate taxes that are due and payable on the property at the time of closing and for the establishment of escrow accounts for real estate taxes, hazard and flood insurance premiums, and related costs.
 
-(6) Packaging fees resulting from the certified loan application packaging process outlined in § 3550.75. The fee may not exceed two percent of the national average area loan limit as determined by the Agency and may be limited further at the Agency's discretion. Nominal packaging fees not resulting from the certified loan application process are an eligible cost provided the fee is no more than $350; the loan application packager is a nonprofit, tax exempt partner that received an exception to all or part of the requirements outlined in § 3550.75 from the applicable Rural Development State Director; and the packager gathers and submits the information needed for the Agency to determine if the applicant is preliminarily eligible along with a fully completed and signed uniform residential loan application.
+(6) Packaging fees resulting from the certified loan application packaging process outlined in § 3550.75. The Agency will determine the limit, based on factors such as the level of service provided and the prevailing cost to provide the service, and such cap will not exceed two percent of the national average area loan limit. Nominal packaging fees not resulting from the certified loan application process are an eligible cost provided the fee does not exceed a limit determined by the Agency based on the level and cost of service factors, but no greater than one half percent of the national average area loan limit; the loan application packager is a nonprofit, tax exempt partner that received an exception to all or part of the requirements outlined in § 3550.75 from the applicable Rural Development State Director; and the packager gathers and submits the information needed for the Agency to determine if the applicant is eligible along with a fully completed and signed uniform residential loan application.
 
 (7) Purchasing and installing essential equipment in the dwelling, including ranges, refrigerators, washers or dryers, if these items are normally sold with dwellings in the area and if the purchase of these items is not the primary purpose of the loans.
 
@@ -56,4 +54,4 @@ Section 502 funds may be used to buy, build, rehabilitate, improve, or relocate 
 
 (3) Pay fees, commissions, or charges to for-profit entities related to loan packaging or referral of prospective applicants to RHS.
 
-[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78329, Dec. 24, 2002; 72 FR 5157, Feb. 5, 2007; 80 FR 23678, Apr. 29, 2015]
+[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78329, Dec. 24, 2002; 72 FR 5157, Feb. 5, 2007; 80 FR 23678, Apr. 29, 2015; 87 FR 6771, Feb. 7, 2022]

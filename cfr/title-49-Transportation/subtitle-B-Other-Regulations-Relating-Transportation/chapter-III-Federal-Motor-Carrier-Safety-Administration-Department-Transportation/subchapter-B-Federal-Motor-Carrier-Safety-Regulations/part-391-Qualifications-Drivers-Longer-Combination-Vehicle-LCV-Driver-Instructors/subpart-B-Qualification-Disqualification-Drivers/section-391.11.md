@@ -1,5 +1,7 @@
 ##### § 391.11 General qualifications of drivers. #####
 
+Link to an amendment published at 87 FR 13208, Mar. 9, 2022.
+
 (a) A person shall not drive a commercial motor vehicle unless he/she is qualified to drive a commercial motor vehicle. Except as provided in § 391.63, a motor carrier shall not require or permit a person to drive a commercial motor vehicle unless that person is qualified to drive a commercial motor vehicle.
 
 (b) Except as provided in subpart G of this part, a person is qualified to drive a motor vehicle if he/she -

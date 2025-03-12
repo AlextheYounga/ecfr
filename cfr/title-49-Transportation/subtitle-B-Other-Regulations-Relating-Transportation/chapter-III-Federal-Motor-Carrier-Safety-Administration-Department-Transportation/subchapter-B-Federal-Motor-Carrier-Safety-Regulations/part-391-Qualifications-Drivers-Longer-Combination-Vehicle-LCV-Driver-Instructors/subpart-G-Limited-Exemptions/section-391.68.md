@@ -1,5 +1,7 @@
 ##### § 391.68 Private motor carrier of passengers (nonbusiness). #####
 
+Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
+
 The following rules in this part do not apply to a private motor carrier of passengers (nonbusiness) and its drivers:
 
 (a) Section 391.11(b)(1), (b)(6) and (b)(8) (relating to general qualifications of drivers);

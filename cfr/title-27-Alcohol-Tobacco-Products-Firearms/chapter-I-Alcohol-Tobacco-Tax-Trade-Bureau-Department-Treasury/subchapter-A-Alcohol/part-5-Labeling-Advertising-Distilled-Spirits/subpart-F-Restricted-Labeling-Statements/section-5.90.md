@@ -1,0 +1,5 @@
+##### § 5.90 Terms related to Scotland. #####
+
+(a) The words “Scotch,” “Scots,” “Highland,” or “Highlands,” and similar words connoting, indicating, or commonly associated with Scotland, may be used to designate only distilled spirits wholly manufactured in Scotland, except that the term “Scotch whisky” may appear in the designation for a flavored spirit (“Flavored Scotch Whisky”) or in a truthful statement of composition (“Scotch whisky with natural flavors”) where the base distilled spirit meets the requirements for a Scotch whisky designation, regardless of where the finished product is manufactured.
+
+(b) In accordance with § 5.127, statements relating to government supervision may appear on Scotch whisky containers only if such labeling statements are required or specifically authorized by the applicable regulations of the United Kingdom.

@@ -1,7 +1,5 @@
 ##### § 3550.207 Payment moratorium. #####
 
-Link to an amendment published at 87 FR 6773, Feb. 7, 2022.
-
 RHS may defer a borrowers scheduled payments for up to 2 years. NP borrowers are not eligible for a payment moratorium.
 
 (a) *Borrower eligibility.* For a borrower to be eligible for a moratorium, all of the following conditions must be met:
@@ -26,8 +24,8 @@ RHS may defer a borrowers scheduled payments for up to 2 years. NP borrowers are
 
 (iii) In the case of a moratorium granted to pay unexpected or unreimbursed expenses, the borrower cannot show that an amount at least equal to the deferred payments has been applied toward the expenses.
 
-(2) At least 30 days before the moratorium is scheduled to expire, RHS will require the borrower to provide financial information needed to determine whether the borrower is able to resume making scheduled payments.
+(2) At least 30 days before the moratorium is scheduled to expire, the borrower must provide financial information needed to process the re-amortization of the loan(s).
 
-(c) *Resumption of scheduled payments.* When the borrower is able to resume scheduled payments, the loan will be reamortized to include the amount deferred during the moratorium and the borrower will be required to escrow. If the new monthly payment, after consideration of the maximum amount of payment subsidy available to the borrower, exceeds the borrower's repayment ability, all or part of the interest that has accrued during the moratorium may be forgiven.
+(c) *Resumption of scheduled payments.* When the moratorium expires or is cancelled, the loan will be re-amortized to include the amount deferred during the moratorium and the borrower will be required to escrow. If the new monthly payment, after consideration of the maximum amount of payment subsidy available to the borrower, exceeds the borrower's repayment ability, all or part of the interest that has accrued during the moratorium may be forgiven so that the new monthly payment optimizes both affordability to the borrower as well as the best interest of the Government.
 
-(d) *Borrowers unable to resume scheduled payments.* If even after all appropriate servicing actions have been taken the borrower is unable to resume making scheduled payments after 2 consecutive years of being on a moratorium, the account will be liquidated.
+[61 FR 59779, Nov. 22, 1996, as amended at 87 FR 6773, Feb. 7, 2022]

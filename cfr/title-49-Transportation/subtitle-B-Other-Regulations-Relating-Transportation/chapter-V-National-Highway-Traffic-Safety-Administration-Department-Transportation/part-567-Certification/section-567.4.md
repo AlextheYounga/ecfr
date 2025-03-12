@@ -1,6 +1,6 @@
 ##### § 567.4 Requirements for manufacturers of motor vehicles. #####
 
-(a) Each manufacturer of motor vehicles (except vehicles manufactured in two or more stages) shall affix to each vehicle a label, of the type and in the manner described below, containing the statements specified in paragraph (g) of this section.
+(a) Each manufacturer of motor vehicles (except replica motor vehicles and vehicles manufactured in two or more stages) shall affix to each vehicle a label, of the type and in the manner described below, containing the statements specified in paragraph (g) of this section.
 
 (b) The label shall be riveted or permanently affixed in such a manner that it cannot be removed without destroying or defacing it.
 
@@ -30,11 +30,11 @@
 
 Examples of combined ratings:GAWR:
 
-(a) All axles - 2,400 kg (5,290 lb) with LT245/75R16(E) tires.
+(a) All axles—2,400 kg (5,290 lb) with LT245/75R16(E) tires.
 
-(b) Front - 5,215 kg (11,500 lb) with 295/75R22.5(G) tires.
+(b) Front—5,215 kg (11,500 lb) with 295/75R22.5(G) tires.
 
-First intermediate to rear - 9,070 kg (20,000 lb) with 295/75R22.5(G) tires.
+First intermediate to rear—9,070 kg (20,000 lb) with 295/75R22.5(G) tires.
 
 (5) One of the following statements, as appropriate:
 
@@ -50,13 +50,13 @@ First intermediate to rear - 9,070 kg (20,000 lb) with 295/75R22.5(G) tires.
 
 (7) The type classification of the vehicle as defined in § 571.3 of this chapter (e.g., truck, MPV, bus, trailer).
 
-(h) *Multiple GVWR-GAWR ratings.* (1) (For passenger cars only) In cases in which different tire sizes are offered as a customer option, a manufacturer may at its option list more than one set of values for GVWR and GAWR, to meet the requirements of paragraphs (g) (3) and (4) of this section. If the label shows more than one set of weight rating values, each value shall be followed by the phrase “with \_tires,” inserting the proper tire size designations. A manufacturer may, at its option, list one or more tire sizes where only one set of weight ratings is provided.
+(h) *Multiple GVWR-GAWR ratings.* (1) (For passenger cars only) In cases in which different tire sizes are offered as a customer option, a manufacturer may at its option list more than one set of values for GVWR and GAWR, to meet the requirements of paragraphs (g) (3) and (4) of this section. If the label shows more than one set of weight rating values, each value shall be followed by the phrase “with \_\_tires,” inserting the proper tire size designations. A manufacturer may, at its option, list one or more tire sizes where only one set of weight ratings is provided.
 
 Example:Passenger Car
 
 GVWR: 4,400 lb with P195/65R15 tires; 4,800 lb with P205/75R15 tires.
 
-GAWR: Front - 2,000 lb with P195/65R15 tires at 24 psi; 2,200 lb with P205/75R15 tires at 24 psi. Rear - 2,400 lb with P195/65R15 tires at 28 psi; 2,600 lb with P205/75R15 tires at 28 psi.
+GAWR: Front—2,000 lb with P195/65R15 tires at 24 psi; 2,200 lb with P205/75R15 tires at 24 psi. Rear—2,400 lb with P195/65R15 tires at 28 psi; 2,600 lb with P205/75R15 tires at 28 psi.
 
 (2) (For multipurpose passenger vehicles, trucks, buses, trailers, and motorcycles) The manufacturer may, at its option, list more than one GVWR-GAWR-tire-rim combination on the label, as long as the listing contains the tire-rim combination installed as original equipment on the vehicle by the manufacturer and conforms in content and format to the requirements for tire-rim-inflation information set forth in Standard Nos. 110, 120, 129 and 139 (§§ 571.110, 571.120, 571.129 and 571.139 of this chapter).
 
@@ -84,6 +84,6 @@ GAWR: Front - 2,000 lb with P195/65R15 tires at 24 psi; 2,200 lb with P205/75R15
 
 (l)(1) In the case of a passenger car imported into the United States under 49 CFR 591.5(f) which does not have a vehicle identification number that complies with 49 CFR 565.4 (b), (c), and (g) at the time of importation, the Registered Importer shall permanently affix a label to the vehicle in such a manner that, unless the label is riveted, it cannot be removed without being destroyed or defaced. The label shall be in addition to the label required by paragraph (a) of this section, and shall be affixed to the vehicle in a location specified in paragraph (c) of this section.
 
-(2) The label shall contain the following statement, in the English language, lettered in block capitals and numerals not less than 4 mm high, with the location on the vehicle of the original manufacturer's identification number provided in the blank: ORIGINAL MANUFACTURER'S IDENTIFICATION NUMBER SUBSTITUTING FOR U.S. VIN IS LOCATED \_\_\_.
+(2) The label shall contain the following statement, in the English language, lettered in block capitals and numerals not less than 4 mm high, with the location on the vehicle of the original manufacturer's identification number provided in the blank: ORIGINAL MANUFACTURER'S IDENTIFICATION NUMBER SUBSTITUTING FOR U.S. VIN IS LOCATED \_\_\_\_\_\_.
 
-[70 FR 7430, Feb. 14, 2005, as amended at 76 FR 53078, Aug. 25, 2011; 77 FR 71717, Dec. 4, 2012]
+[70 FR 7430, Feb. 14, 2005, as amended at 76 FR 53078, Aug. 25, 2011; 77 FR 71717, Dec. 4, 2012; 87 FR 13232, Mar. 9, 2022]

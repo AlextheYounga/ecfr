@@ -4,19 +4,11 @@
 
 (2) If a variable rate is used, it must be tied to an index or rate specifically agreed to between the lender and borrower in the loan instruments and the rate adjustments must be in accordance with normal practices of the lender for unguaranteed loans. Upon request, the lender must provide the Agency with copies of its written rate adjustment practices.
 
-(3) At the time of loan closing or loan restructuring, the interest rate on both the guaranteed portion and the unguaranteed portion of a fixed or variable rate OL or FO loan may not exceed the following, as applicable:
+(3) At the time of loan closing or loan restructuring, the interest rate on both the guaranteed portion and the unguaranteed portion of a fixed or variable rate OL or FO loan may not exceed the rates established and announced by the Agency on the FSA website (*www.fsa.usda.gov*).:
 
-(i) For lenders using risk-based pricing practices, the risk tier at least one tier lower (representing lower risk) than that borrower would receive without a guarantee. The lender must provide the Agency with copies of its written pricing practices, upon request.
+(4) Interest must be charged only on the actual amount of funds advanced and for the actual time the funds are outstanding. Interest on protective advances made by the lender to protect the security will be charged at the note rate but limited to paragraph (a)(3) of this section.
 
-(ii) For lenders not using risk-based pricing practices, for variable rate loans or fixed rate loans with rates fixed for less than five years, 650 basis points (6.5 percentage points) above the 3-month LIBOR.
-
-(iii) For lenders not using risk-based pricing practices, for loans with rates fixed for five or more years, 550 basis points (5.5 percentage points) above the 5-year Treasury note rate.
-
-(4) In the event the 3-month LIBOR is below 2 percent, the maximum rates specified in paragraph (a)(3) of this section do not apply. In that case, at the time of loan closing or loan restructuring, the interest rate on both the guaranteed portion and the unguaranteed portion of an OL or FO loan may not exceed 750 basis points above the 3-month LIBOR for variable rate loans and 650 basis points above the 5-year Treasury rate for fixed rate loans.
-
-(5) Interest must be charged only on the actual amount of funds advanced and for the actual time the funds are outstanding. Interest on protective advances made by the lender to protect the security will be charged at the note rate but limited to paragraph (a)(3) of this section.
-
-(6) The lender and borrower may collectively obtain a temporary reduction in the interest rate through the interest assistance program in accordance with § 762.150.
+(5) The lender and borrower may collectively obtain a temporary reduction in the interest rate through the interest assistance program in accordance with § 762.150.
 
 (b) *OL terms.* (1) Loan funds or advances on a line of credit used to pay annual operating expenses will be repaid when the income from the year's operation is received, except when the borrower is establishing a new enterprise, developing a farm, purchasing feed while feed crops are being established, or recovering from disaster or economic reverses.
 
@@ -42,4 +34,4 @@
 
 (3) Lenders may not charge a loan origination and servicing fee greater than 1 percent of the loan amount for the life of the loan when a guaranteed loan is made in conjunction with a down payment FO under part 764 of this chapter.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 17358, Apr. 9, 2007; 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 14005, Mar. 4, 2013]
+[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 17358, Apr. 9, 2007; 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 14005, Mar. 4, 2013; 87 FR 13123, Mar. 9, 2022]

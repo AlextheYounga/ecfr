@@ -1,0 +1,5 @@
+##### § 5.156 Distilled spirits specialty products. #####
+
+(a) *General.* Distilled spirits that do not meet one of the other standards of identity specified in this subpart are distilled spirits specialty products and must be designated in accordance with trade and consumer understanding, or, if no such understanding exists, with a distinctive or fanciful name (which may be the name of a cocktail) appearing in the same field of vision as a statement of composition. The statement of composition and the distinctive or fanciful name serve as the class and type designation for these products. The statement of composition must follow the rules found in § 5.166. A product may not bear a designation which indicates it contains a class or type of distilled spirits unless the distilled spirits therein conform to such class and type.
+
+(b) *Products designated in accordance with trade and consumer understanding.* Products may be designated in accordance with trade and consumer understanding without a statement of composition if the appropriate TTB officer has determined that there is such understanding.

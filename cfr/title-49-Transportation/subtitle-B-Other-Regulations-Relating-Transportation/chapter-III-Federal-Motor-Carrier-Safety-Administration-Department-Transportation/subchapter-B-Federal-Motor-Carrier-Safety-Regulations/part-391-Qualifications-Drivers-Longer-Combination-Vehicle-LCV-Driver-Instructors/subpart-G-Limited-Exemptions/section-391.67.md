@@ -1,5 +1,7 @@
 ##### § 391.67 Farm vehicle drivers of articulated commercial motor vehicles. #####
 
+Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
+
 The following rules in this part do not apply to a farm vehicle driver (as defined in § 390.5 of this subchapter) who is 18 years of age or older and who drives an articulated commercial motor vehicle:
 
 (a) Section 391.11(b)(1), (b)(6) and (b)(8) (relating to general qualifications of drivers);

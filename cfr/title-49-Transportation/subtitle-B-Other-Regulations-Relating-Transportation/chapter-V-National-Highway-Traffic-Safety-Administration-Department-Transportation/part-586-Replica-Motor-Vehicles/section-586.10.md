@@ -1,0 +1,3 @@
+##### § 586.10 Updating existing registrations. #####
+
+A registered replica manufacturer shall submit updated registration information prior to commencing manufacture of a new model of replica vehicle or reallocating the number of replica vehicles to be made by two or more replica manufacturers under common ownership. The manufacturer shall submit updated registration information pursuant to § 586.6. The manufacturer may not begin producing the new model of replica vehicle or reallocate replica vehicles until its registration is either approved by NHTSA or is deemed approved.

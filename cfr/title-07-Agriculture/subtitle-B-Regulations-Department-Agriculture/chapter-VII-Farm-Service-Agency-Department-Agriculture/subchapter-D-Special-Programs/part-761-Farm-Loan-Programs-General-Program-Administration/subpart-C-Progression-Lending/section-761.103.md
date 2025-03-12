@@ -4,7 +4,7 @@
 
 (1) Determine the applicant's financial condition, organizational structure, and management strengths and weaknesses;
 
-(2) Identify and prioritize training and supervisory needs; and
+(2) Identify and prioritize training and progression lending needs; and
 
 (3) Develop a progressive lending plan to assist the borrower in achieving financial viability and transitioning to private commercial credit or other sources of credit in the shortest time practicable, except for CL.
 
@@ -50,4 +50,4 @@
 
 (f) If a CL borrower becomes financially distressed, delinquent, or receives any servicing options available under part 766 of this chapter, all elements of the assessment in paragraph (b) of this section must be addressed.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 75 FR 54012, Sept. 3, 2010; 76 FR 5057, Jan. 28, 2011; 78 FR 3835, Jan. 17, 2013; 78 FR 65529, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021]
+[72 FR 63285, Nov. 8, 2007, as amended at 75 FR 54012, Sept. 3, 2010; 76 FR 5057, Jan. 28, 2011; 78 FR 3835, Jan. 17, 2013; 78 FR 65529, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022]

@@ -1,14 +1,12 @@
 ##### § 3550.162 Recapture. #####
 
-Link to an amendment published at 87 FR 6773, Feb. 7, 2022.
-
 (a) *Recapture policy.* Borrowers with loans approved or assumed on or after October 1, 1979, will be required to repay subsidy amounts received through payment subsidy (including the former interest credit program) or deferred mortgage assistance in accordance with paragraph (b) of this section. Amounts to be recaptured are due and payable when the borrower transfers title or ceases to occupy the property, including but not limited to, in the event of foreclosure or deed in lieu of foreclosure. Such recapture will include the amount of principal reduction attributed to subsidy (for loans subject to recapture that were approved, and received interest credit, between October 1, 1979, and December 31, 1989), except in cases of foreclosure and deed in lieu of foreclosure.
 
-(b) *Amount to be recaptured* - (1) *General.* The amount to be recaptured is the amount of principal reduction attributed to subsidy plus the lesser of:
+(b) *Amount to be recaptured*—(1) *General.* The amount to be recaptured is determined by a calculation specified in the borrower's subsidy repayment agreement and is based on the borrower's equity in the property at the time of loan pay off. If there is no equity based on the recapture calculation, the amount of principal reduction attributed to subsidy is not collected. The recapture calculation includes the amount of principal reduction attributed to subsidy plus the lesser of:
 
 (i) The amount of subsidy received; or
 
-(ii) A portion of the value appreciation of the property subject to recapture. In order for value appreciation to be calculated, the borrower will provide a current appraisal, including an appraisal for any capital improvements, or arm's length sales contract as evidence of market value upon Agency request. Appraisals must meet Agency standards under § 3550.62.
+(ii) A portion of the value appreciation of the property subject to recapture. In order for the value appreciation to be calculated, the borrower will provide a current appraisal, including an appraisal for any capital improvements, or arm's length sales contract as evidence of market value upon Agency request. Appraisals must meet Agency standards under § 3550.62.
 
 (2) *Foreclosure or deed in lieu of foreclosure.* Notwithstanding paragraph (b)(1) of this section, the amount to be recaptured in a foreclosure or deed in lieu of foreclosure is the amount of subsidy received, not including any principal reduction attributed to subsidy. Foreclosure actions will seek to recover such amounts only from the proceeds of the property. Liquidation proceeds (in the case of foreclosure) or the net recovery value (in the case of deed in lieu of foreclosure) will be applied or credited to the borrower's debt in accordance with the security agreement in the following order:
 
@@ -32,4 +30,4 @@ Link to an amendment published at 87 FR 6773, Feb. 7, 2022.
 
 (3) When a borrower has deferred payment of recapture amounts, the deferred recapture amount may be included in the principal amount of the new loan.
 
-[77 FR 3378, Jan. 24, 2012]
+[77 FR 3378, Jan. 24, 2012, as amended at 87 FR 6773, Feb. 7, 2022]

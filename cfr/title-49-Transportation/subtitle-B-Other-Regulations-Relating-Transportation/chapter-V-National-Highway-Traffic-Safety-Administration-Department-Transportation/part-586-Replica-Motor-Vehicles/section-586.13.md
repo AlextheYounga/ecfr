@@ -1,0 +1,3 @@
+##### § 586.13 Revocation of registrations. #####
+
+NHTSA may require registrants to provide information related to compliance with the requirements of this part at any time. NHTSA may revoke an existing registration or deny a registration based on a failure to comply with requirements of this part or a finding of a safety-related defect or unlawful conduct under 49 U.S.C. Chapter 301 *et seq.* that poses a significant safety risk. Prior to the revocation of the registration, NHTSA will provide the registrant a reasonable opportunity to correct deficiencies, if such are correctable, based on the sole discretion of NHTSA.

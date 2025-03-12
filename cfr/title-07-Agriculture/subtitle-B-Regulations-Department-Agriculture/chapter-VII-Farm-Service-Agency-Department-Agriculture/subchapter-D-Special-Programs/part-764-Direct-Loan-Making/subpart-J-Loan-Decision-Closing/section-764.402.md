@@ -24,7 +24,7 @@
 
 (d) *Real estate-secured loans.* (1) The Agency will close a real estate loan only when it determines that the Agency requirements for the loan have been satisfied and the closing agent can issue a policy of title insurance or final title opinion as of the date of closing. The title insurance or final title opinion requirement may be waived:
 
-(i) For loans of $10,000 or less;
+(i) For loans of $25,000 or less;
 
 (ii) As provided in § 764.235 for CLs and § 764.355 for EMs;
 
@@ -58,4 +58,4 @@
 
 (3) The Agency or closing agent will be responsible for disbursing loan funds. The electronic funds transfer process, followed by Treasury checks, are the Agency's preferred methods of loan funds disbursement. The Agency will use these processes on behalf of borrowers to disburse loan proceeds directly to creditors being refinanced with loan funds or to sellers of chattel property that is being acquired with loan funds. A supervised bank account will be used according to subpart B of part 761 of this chapter when these processes are not practicable.
 
-[72 FR 63298, Nov. 8, 2007. Redesignated at 75 FR 54015, Sept. 3, 2010, as amended at 77 FR 15939, Mar. 19, 2012; 79 FR 60745, Oct. 8, 2014]
+[72 FR 63298, Nov. 8, 2007. Redesignated at 75 FR 54015, Sept. 3, 2010, as amended at 77 FR 15939, Mar. 19, 2012; 79 FR 60745, Oct. 8, 2014; 87 FR 13124, Mar. 9, 2022]

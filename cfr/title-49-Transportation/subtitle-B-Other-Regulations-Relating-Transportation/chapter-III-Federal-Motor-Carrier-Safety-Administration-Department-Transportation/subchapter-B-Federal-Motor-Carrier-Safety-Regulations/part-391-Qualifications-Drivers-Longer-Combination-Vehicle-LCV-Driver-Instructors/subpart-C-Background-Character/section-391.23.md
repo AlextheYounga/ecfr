@@ -1,5 +1,7 @@
 ##### § 391.23 Investigation and inquiries. #####
 
+Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
+
 (a) Except as provided in subpart G of this part, each motor carrier shall make the following investigations and inquiries with respect to each driver it employs, other than a person who has been a regularly employed driver of the motor carrier for a continuous period which began before January 1, 1971:
 
 (1) An inquiry, within 30 days of the date the driver's employment begins, to each State where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years to obtain that driver's motor vehicle record.

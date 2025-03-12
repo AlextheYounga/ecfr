@@ -1,0 +1,3 @@
+##### § 5.73 Treatment of whisky or brandy with wood. #####
+
+The words “colored and flavored with wood\_\_ ” (inserting “chips,” “slabs,” etc., as appropriate) must appear immediately adjacent to, and in the same size of type as, the class and type designation under subpart I of this part for whisky and brandy treated, in whole or in part, with wood through percolation or otherwise during distillation or storage, other than through contact with an oak barrel. However, the statement specified in this section is not required in the case of brandy treated with an infusion of oak chips in accordance with § 5.155(b)(3)(B).

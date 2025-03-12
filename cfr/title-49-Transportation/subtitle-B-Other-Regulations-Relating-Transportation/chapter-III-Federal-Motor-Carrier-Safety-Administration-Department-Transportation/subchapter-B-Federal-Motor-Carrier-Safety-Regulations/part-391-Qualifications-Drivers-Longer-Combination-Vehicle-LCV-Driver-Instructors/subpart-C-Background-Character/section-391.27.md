@@ -1,5 +1,7 @@
 ##### § 391.27 Record of violations. #####
 
+Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
+
 (a) Except as provided in subpart G of this part, each motor carrier shall, at least once every 12 months, require each driver it employs to prepare and furnish it with a list of all violations of motor vehicle traffic laws and ordinances (other than violations involving only parking) of which the driver has been convicted or on account of which he/she has forfeited bond or collateral during the preceding 12 months.
 
 (b) Each driver shall furnish the list required in accordance with paragraph (a) of this section. If the driver has not been convicted of, or forfeited bond or collateral on account of, any violation which must be listed, he/she shall so certify.

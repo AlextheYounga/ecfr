@@ -1,0 +1,7 @@
+##### § 7.141 Class and type. #####
+
+(a) *Products known to the trade.* The class of the malt beverage must be stated on the label (see § 7.63). The type of the malt beverage may be stated, but is not required to appear on the label. Statements of class and type must conform to the designation of the product as known to the trade. All parts of the designation must appear together.
+
+(b) *Malt beverage specialty products*—(1) *General.* A malt beverage specialty product is a malt beverage that does not fall under any of the class designations set forth in §§ 7.142 through 7.144 and is not known to the trade under a particular designation, usually because of the addition of ingredients such as colorings, flavorings, or food materials or the use of certain types of production processes where the appropriate TTB officer has not determined that such ingredients or processes are generally recognized as traditional in the production of a fermented beverage designated as “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor.”
+
+(2) *Designation.* A malt beverage specialty product must be designated with a distinctive or fanciful name, together with a statement of the composition of the product, in accordance with § 7.147. This statement will be considered the class designation for the purposes of this part. All parts of the designation must appear together.

@@ -1,0 +1,10 @@
+##### § 5.147 Rum. #####
+
+(a) *The class rum.* “Rum” is distilled spirits that is distilled from the fermented juice of sugar cane, sugar cane syrup, sugar cane molasses, or other sugar cane by-products at less than 95 percent alcohol by volume (190° proof) having the taste, aroma, and characteristics generally attributed to rum, and bottled at not less than 40 percent alcohol by volume (80° proof); and also includes mixtures solely of such spirits. All rum may be designated as “rum” on the label, even if it also meets the standards for a specific type of rum.
+
+(b) *Types.* Paragraph (b)(1) of this section describes a specific type of rum and the standards for that type.
+
+|     Type     |                                                                                                                                                                   Standards                                                                                                                                                                    |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (1) Cachaça  |Rum that is a distinctive product of Brazil, manufactured in Brazil in compliance with the laws of Brazil regulating the manufacture of Cachaça for consumption in that country. The word “Cachaça” may be spelled with or without the diacritic mark (i.e., “Cachaça” or “Cachaca”). Cachaça may be designated as “Cachaça” or “rum” on labels.|
+|(2) [Reserved]|                                                                                                                                                                                                                                                                                                                                                |

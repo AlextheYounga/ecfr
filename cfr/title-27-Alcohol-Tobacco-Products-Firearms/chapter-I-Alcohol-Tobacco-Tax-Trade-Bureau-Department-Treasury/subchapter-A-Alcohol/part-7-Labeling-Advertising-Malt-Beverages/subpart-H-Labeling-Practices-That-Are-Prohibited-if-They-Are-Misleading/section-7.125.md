@@ -1,0 +1,3 @@
+##### § 7.125 Tests or analyses. #####
+
+Malt beverage labels, containers, or packaging may not contain any statement or representation of or relating to analyses, standards, or tests, whether or not it is true, that is likely to mislead the consumer. An example of a misleading statement is “tested and approved by our research laboratories” if the testing and approval does not in fact have any significance.

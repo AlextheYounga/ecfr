@@ -1,0 +1,5 @@
+##### § 5.28 Formulas, samples, and documentation. #####
+
+(a) In addition to any formula specifically required under subpart J of this part, TTB may require formulas under certain circumstances in connection with the label approval process. Prior to or in conjunction with the review of an application for a certificate of label approval (COLA) on TTB Form 5100.31, the appropriate TTB officer may require a bottler or importer to submit a formula, the results of laboratory testing of the distilled spirits, or a sample of any distilled spirits or ingredients used in producing a distilled spirit. After the issuance of a COLA, or with regard to any distilled spirits required to be covered by a COLA, the appropriate TTB officer may require a full and accurate statement of the contents of the container.
+
+(b) A formula may be filed electronically by using Formulas Online, or it may be submitted on paper on TTB Form 5100.51. See § 5.11 for more information on forms and Formulas Online.

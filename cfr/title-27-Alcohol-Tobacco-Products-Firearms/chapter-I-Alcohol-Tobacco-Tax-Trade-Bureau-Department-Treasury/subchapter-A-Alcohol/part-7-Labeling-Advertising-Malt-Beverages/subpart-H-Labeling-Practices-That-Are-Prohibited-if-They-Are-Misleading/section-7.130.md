@@ -1,0 +1,7 @@
+##### § 7.130 Appearance of endorsement. #####
+
+(a) *General.* Malt beverage labels, containers, or packaging may not include the name, or the simulation or abbreviation of the name, of any living individual of public prominence or an existing private or public organization, or any graphic, pictorial, or emblematic representation of the individual or organization if its use is likely to lead a consumer to falsely believe that the product has been endorsed, made, or used by, or produced for, or under the supervision of, or in accordance with the specifications of, such individual or organization. This section does not prohibit the use of such names where the individual or organization has provided authorization for their use.
+
+(b) *Disclaimers.* Statements or other representations do not violate this section if, taken as a whole, they create no misleading impression as to an implied endorsement either because of the context in which they are presented or because of the use of an adequate disclaimer.
+
+(c) *Exception.* This section does not apply to the use of the name of any person engaged in business as a producer, importer, bottler, packer, wholesaler, retailer, or warehouseman, of malt beverages. This section also does not apply to the use by any industry member of a trade or brand name that is the name of any living individual of public prominence, or existing private or public organization, provided such trade or brand name was used by the industry member or its predecessors in interest prior to August 29, 1935.

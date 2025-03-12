@@ -1,0 +1,3 @@
+##### § 7.12 Delegations of the Administrator. #####
+
+Most of the regulatory authorities of the Administrator contained in this part are delegated to “appropriate TTB officers.” To find out which officers have been delegated specific authorities, see the current version of TTB Order 1135.7, Delegation of the Administrator's Authorities in 27 CFR part 7, Labeling and Advertising of Malt Beverages. Copies of this order can be obtained by accessing the TTB website (*https://www.ttb.gov*) or by mailing a request to the Alcohol and Tobacco Tax and Trade Bureau, National Revenue Center, 550 Main Street, Room 8002, Cincinnati, OH 45202.

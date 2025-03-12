@@ -32,7 +32,7 @@
 
 (2) The lender, after reviewing the conditions listed on the conditional commitment, will complete, execute, and return the form to the Agency. If the conditions are not acceptable to the lender, the Agency may agree to alternatives or inform the lender and the applicant of their appeal rights.
 
-(d) *Lender requirements prior to issuing the guarantee* - (1) *Lender certification.* The lender will certify as to the following on the appropriate Agency form:
+(d) *Lender requirements prior to issuing the guarantee*—(1) *Lender certification.* The lender will certify as to the following on the appropriate Agency form:
 
 (i) No major changes have been made in the lender's loan or line of credit conditions and requirements since submission of the application (except those approved in the interim by the Agency in writing);
 
@@ -76,7 +76,7 @@
 
 (B) Loans where a majority of the funds are used to refinance an Agency direct loan; and
 
-(C) Loans to beginning or socially disadvantaged farmers involved in the direct Down payment Loan Program or beginning farmers participating in a qualified State Beginning Farmer Program.
+(C) Loans to beginning, socially disadvantaged, or veteran farmers involved in the direct Down payment Loan Program or beginning farmers participating in a qualified State Beginning Farmer Program.
 
 (e) *Promissory notes, line of credit agreements, mortgages, and security agreements.* The lender will use its own promissory notes, line of credit agreements, real estate mortgages (including deeds of trust and similar instruments), and security agreements (including chattel mortgages), provided:
 
@@ -92,4 +92,4 @@
 
 (f) *Replacement of loan guarantee, or assignment guarantee agreement.* If the guarantee or assignment guarantee agreements are lost, stolen, destroyed, mutilated, or defaced, except where the evidence of debt was or is a bearer instrument, the Agency will issue a replacement to the lender or holder upon receipt of acceptable documentation including a certificate of loss and an indemnity bond.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 76 FR 58094, Sept. 20, 2011; 79 FR 60744, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 86 FR 43391, Aug. 9, 2021]
+[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 76 FR 58094, Sept. 20, 2011; 79 FR 60744, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 86 FR 43391, Aug. 9, 2021; 87 FR 13124, Mar. 9, 2022]

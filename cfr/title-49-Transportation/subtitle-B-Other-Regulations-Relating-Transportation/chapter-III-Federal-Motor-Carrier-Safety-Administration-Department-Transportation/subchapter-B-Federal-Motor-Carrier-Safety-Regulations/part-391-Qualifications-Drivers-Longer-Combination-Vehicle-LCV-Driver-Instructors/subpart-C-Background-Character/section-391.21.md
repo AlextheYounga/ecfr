@@ -1,5 +1,7 @@
 ##### § 391.21 Application for employment. #####
 
+Link to an amendment published at 87 FR 13208, Mar. 9, 2022.
+
 (a) Except as provided in subpart G of this part, a person shall not drive a commercial motor vehicle unless he/she has completed and furnished the motor carrier that employs him/her with an application for employment that meets the requirements of paragraph (b) of this section.
 
 (b) The application for employment shall be made on a form furnished by the motor carrier. Each application form must be completed by the applicant, must be signed by him/her, and must contain the following information:

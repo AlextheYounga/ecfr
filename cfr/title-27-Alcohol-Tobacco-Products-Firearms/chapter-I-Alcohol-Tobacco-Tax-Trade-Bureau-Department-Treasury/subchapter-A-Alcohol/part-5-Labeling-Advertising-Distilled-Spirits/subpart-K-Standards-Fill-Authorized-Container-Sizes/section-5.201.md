@@ -1,0 +1,3 @@
+##### § 5.201 General. #####
+
+No person engaged in business as a distiller, rectifier (processor), importer, wholesaler, bottler, or warehouseman and bottler, directly or indirectly, or through an affiliate, may sell or ship or deliver for sale or shipment in interstate or foreign commerce, or otherwise introduce in interstate or foreign commerce, or receive therein, or remove from customs custody for consumption, any distilled spirits in containers, unless the distilled spirits are bottled in conformity with §§ 5.202 and 5.203.

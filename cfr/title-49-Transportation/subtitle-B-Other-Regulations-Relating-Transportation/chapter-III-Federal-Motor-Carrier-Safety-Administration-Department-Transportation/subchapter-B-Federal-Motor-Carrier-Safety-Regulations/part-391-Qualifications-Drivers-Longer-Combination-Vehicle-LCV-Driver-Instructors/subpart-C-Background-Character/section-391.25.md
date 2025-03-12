@@ -1,5 +1,7 @@
 ##### § 391.25 Annual inquiry and review of driving record. #####
 
+Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
+
 (a) Except as provided in subpart G of this part, each motor carrier shall, at least once every 12 months, make an inquiry to obtain the motor vehicle record of each driver it employs, covering at least the preceding 12 months, to the appropriate agency of every State in which the driver held a commercial motor vehicle operator's license or permit during the time period.
 
 (b) Except as provided in subpart G of this part, each motor carrier shall, at least once every 12 months, review the motor vehicle record of each driver it employs to determine whether that driver meets minimum requirements for safe driving or is disqualified to drive a commercial motor vehicle pursuant to § 391.15.

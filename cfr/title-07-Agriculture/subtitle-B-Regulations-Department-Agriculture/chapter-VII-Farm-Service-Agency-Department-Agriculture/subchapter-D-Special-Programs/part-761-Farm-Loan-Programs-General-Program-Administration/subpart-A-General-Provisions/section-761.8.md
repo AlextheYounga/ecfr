@@ -4,30 +4,30 @@
 
 (1) Farm Ownership, Down payment loans, Conservation loans, and Soil and Water loans:
 
-(i) Direct - $300,000;
+(i) Direct—$600,000;
 
-(ii) Guaranteed - $700,000 (for fiscal year 2000 and increased at the beginning of each fiscal year in accordance with paragraph (b) of this section);
+(ii) Guaranteed—$1,750,000 (for fiscal year 2019 and increased at the beginning of each fiscal year in accordance with paragraph (b) of this section);
 
-(iii) Any combination of a direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, and guaranteed Soil and Water loan-$700,000 (for fiscal year 2000 and increased each fiscal year in accordance with paragraph (b) of this section);
+(iii) Any combination of a direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, and guaranteed Soil and Water loan $1,750,000 (for fiscal year 2019 and increased each fiscal year in accordance with paragraph (b) of this section);
 
 (2) Operating loans:
 
-(i) Direct - $300,000;
+(i) Direct—$400,000;
 
-(ii) Guaranteed - $700,000 (for fiscal year 2000 and increased each fiscal year in accordance with paragraph (b) of this section);
+(ii) Guaranteed—$1,750,000 (for fiscal year 2019 and increased each fiscal year in accordance with paragraph (b) of this section);
 
-(iii) Any combination of a direct Operating loan and guaranteed Operating loan - $700,000 (for fiscal year 2000 and increased each fiscal year in accordance with paragraph (b) of this section);
+(iii) Any combination of a direct Operating loan and guaranteed Operating loan—$1,750,000 (for fiscal year 2019 and increased each fiscal year in accordance with paragraph (b) of this section);
 
-(3) Any combination of guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-$700,000 (for fiscal year 2000 and increased each fiscal year in accordance with paragraph (b) of this section);
+(3) Any combination of guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-$1,750,000 (for fiscal year 2019 and increased each fiscal year in accordance with paragraph (b) of this section);
 
-(4) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-the amount in paragraph (a)(1)(ii) of this section plus $300,000;
+(4) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-the amount in paragraph (a)(1)(ii) of this section plus $600,000;
 
-(5) Emergency loans - $500,000;
+(5) Emergency loans—$500,000;
 
-(6) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership, guaranteed Conservation loan, guaranteed Soil and Water loan, guaranteed Operating loan, and Emergency loan-the amount in paragraph (a)(1)(ii) of this section plus $800,000.
+(6) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, guaranteed Operating loan, and Emergency loan-the amount in paragraph (a)(1)(ii) of this section plus$1,100,000.
 
 (b) *Guaranteed loan limit.* The dollar limits of guaranteed loans will be increased each fiscal year based on the percentage change in the Prices Paid by Farmers Index as compiled by the National Agricultural Statistics Service, USDA. The maximum loan limits for the current fiscal year are available in any FSA office and on the FSA website at *http://www.fsa.usda.gov.*
 
 (c) *Line of credit advances.* The total dollar amount of guaranteed line of credit advances and income releases cannot exceed the total estimated expenses, less interest expense, as indicated on the borrower's cash flow budget, unless the cash flow budget is revised and continues to reflect a feasible plan.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 73 FR 74345, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 86 FR 43390, Aug. 9, 2021]
+[72 FR 63285, Nov. 8, 2007, as amended at 73 FR 74345, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 86 FR 43390, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022]

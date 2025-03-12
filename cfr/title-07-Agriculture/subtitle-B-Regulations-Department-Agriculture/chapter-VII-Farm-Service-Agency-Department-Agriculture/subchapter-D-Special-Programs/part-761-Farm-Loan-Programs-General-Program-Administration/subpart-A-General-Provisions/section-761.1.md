@@ -8,7 +8,7 @@
 
 (2) May establish procedures for further redelegation or limitation of authority.
 
-(c) Parts 761 through 767 describe the Agency's policies for its Farm Loan Programs. The objective of these programs is to provide supervised credit and management assistance to eligible farmers to become owners or operators, or both, of family farms, to continue such operations when credit is not available elsewhere, or to return to normal farming operations after sustaining substantial losses as a result of a designated or declared disaster. The programs are designed to allow those who participate to transition to private commercial credit or other sources of credit in the shortest period of time practicable through the use of supervised credit, including farm assessments, borrower training, market placement, and borrower graduation requirements. These regulations apply to loan applicants, borrowers, lenders, holders, Agency personnel, and other parties involved in making, guaranteeing, holding, servicing, or liquidating such loans.
+(c) This part and parts 762 through 767 of this subchapter describe the Agency's policies for its Farm Loan Programs. The objective of these programs is to provide progression lending and management assistance to eligible farmers to become owners or operators, or both, of family farms, to continue such operations when credit is not available elsewhere, or to return to normal farming operations after sustaining substantial losses as a result of a designated or declared disaster. The programs are designed to allow those who participate to transition to private commercial credit or other sources of credit in the shortest period of time practicable through the use of progression lending, including farm assessments, borrower training, market placement, and borrower graduation requirements. These regulations apply to loan applicants, borrowers, lenders, holders, Agency personnel, and other parties involved in making, guaranteeing, holding, servicing, or liquidating such loans.
 
 (d) This part describes the Agency's general and administrative policies for its guaranteed and direct Farm Loan Programs. In general, this part addresses issues that affect both guaranteed and direct loan programs.
 
@@ -18,4 +18,4 @@
 
 (g) Part 761, subpart F of this title describes the debt settlement policies and procedures for FLP debt pursuant to the Act.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 76 FR 5057, Jan. 28, 2011; 83 FR 11869, Mar. 19, 2018; 85 FR 36691, June 17, 2020]
+[72 FR 63285, Nov. 8, 2007, as amended at 76 FR 5057, Jan. 28, 2011; 83 FR 11869, Mar. 19, 2018; 85 FR 36691, June 17, 2020; 87 FR 13123, Mar. 9, 2022]

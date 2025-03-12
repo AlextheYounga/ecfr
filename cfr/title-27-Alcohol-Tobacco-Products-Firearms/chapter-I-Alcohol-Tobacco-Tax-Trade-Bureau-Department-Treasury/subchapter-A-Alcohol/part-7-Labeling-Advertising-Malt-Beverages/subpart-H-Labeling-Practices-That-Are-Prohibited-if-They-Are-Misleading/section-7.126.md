@@ -1,0 +1,3 @@
+##### § 7.126 Depictions of government symbols. #####
+
+*Representations of the armed forces or flags.* Malt beverage labels, containers, or packaging may not show an image of any government's flag or any representation related to the armed forces of the United States if the representation, standing alone or considered together with any additional language or symbols on the label, creates a false or misleading impression that the product was endorsed by, made by, used by, or made under the supervision of the government represented by that flag or by the armed forces of the United States. This section does not prohibit the use of a flag as part of a claim of American origin or another country of origin.

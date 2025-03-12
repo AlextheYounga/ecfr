@@ -1,7 +1,5 @@
 ##### § 3550.10 Definitions. #####
 
-Link to an amendment published at 87 FR 6770, Feb. 7, 2022.
-
 *Acceleration.* Demand for immediate repayment of the entire balance of a debt if the security instruments are breached.
 
 *Adjusted income.* Used to determine whether an applicant is income-eligible. Adjusted income provides for deductions to account for varying household circumstances and expenses. See § 3550.54 for a complete description of adjusted income.
@@ -98,7 +96,7 @@ Link to an amendment published at 87 FR 6770, Feb. 7, 2022.
 
 *Moderate income.* An adjusted income that does not exceed the moderate income limit for the guaranteed single family housing loan program authorized by Section 502(h) of the Housing Act of 1949, as amended.
 
-*Modest housing.* A property that is considered modest for the area, with a market value that does not exceed the applicable maximum loan limit as established by RHS in accordance with § 3550.63. In addition, the property must not be designed for income producing activities nor have an in-ground swimming pool.
+*Modest housing.* A property that is considered modest for the area, has a market value that does not exceed the applicable maximum loan limit as established by RHS in accordance with § 3550.63, and is not designed for income producing activities. Existing properties with in-ground pools may be considered modest; however, in-ground pools with new construction or with properties which are purchased new are prohibited.
 
 *Modular or panelized home.* Housing, constructed of one or more factory-built sections or panels, which, when completed, meets or exceeds the requirements of the recognized development standards (model building codes) for site built housing, and which is designed to be permanently connected to a site-built foundation.
 
@@ -133,6 +131,8 @@ Link to an amendment published at 87 FR 6770, Feb. 7, 2022.
 *PITI ratio.* The amount paid by the borrower for principal, interest, taxes, and insurance (PITI), divided by repayment income.
 
 *Principal reduction attributed to subsidy (PRAS).* Accelerated principal reduction that can occur when a borrower receives a reduced interest rate through a payment subsidy.
+
+*Principal residence.* The home domicile physically occupied by the owner on a permanent basis (*i.e.,* lives there for the majority of the year and is the address of record for such activities as Federal income tax reporting, voter registration, occupational licensing, etc.).
 
 *Prior lien.* A security instrument or a judgment against the security property that is superior to the RHS debt instrument.
 
@@ -190,16 +190,6 @@ Link to an amendment published at 87 FR 6770, Feb. 7, 2022.
 
 *Very low-income.* An adjusted income limit developed in consultation with HUD under 42 U.S.C. 1437a(b)(2)(D).
 
-*Veterans preference.* A preference extended to any person applying for a loan or grant under this part who served on active duty and has been discharged or released from the active forces on conditions other than dishonorable from the United States Army, Navy, Air Force, Marine Corps, or Coast Guard. The preference applies to the serviceperson, or the family of a deceased serviceperson who died in service before the termination of such war or such period or era. The applicable timeframes are:
+*Veterans' preference.* A preference extended to a veteran applying for a loan or grant under this part, or the families of deceased servicemen, who meet the criteria in 42 U.S.C. 1477.
 
-(1) During the period of April 6, 1917, through March 31, 1921;
-
-(2) During the period of December 7, 1941, through December 31, 1946;
-
-(3) During the period of June 27, 1950, through January 31, 1955;
-
-(4) For a period of more than 180 days, any part of which occurred after January 31, 1955, but on or before May 7, 1975; or
-
-(5) During the period beginning August 2, 1990, and ending the date prescribed by Presidential Proclamation or law.
-
-[61 FR 59779, Nov. 22, 1996; 61 FR 65266, Dec. 11, 1996, as amended at 67 FR 78329, Dec. 24, 2002; 70 FR 6552, Feb. 8, 2005; 72 FR 73255, Dec. 27, 2007; 73 FR 49592, Aug. 22, 2008; 79 FR 74016, Dec. 15, 2014; 80 FR 23678, Apr. 29, 2015; 84 FR 29038, June 21, 2019]
+[61 FR 59779, Nov. 22, 1996; 61 FR 65266, Dec. 11, 1996, as amended at 67 FR 78329, Dec. 24, 2002; 70 FR 6552, Feb. 8, 2005; 72 FR 73255, Dec. 27, 2007; 73 FR 49592, Aug. 22, 2008; 79 FR 74016, Dec. 15, 2014; 80 FR 23678, Apr. 29, 2015; 84 FR 29038, June 21, 2019; 87 FR 6770, Feb. 7, 2022]

@@ -1,0 +1,7 @@
+##### § 7.5 Ingredients and processes. #####
+
+(a) *Use of nonbeverage flavors and other nonbeverage ingredients containing alcohol.* (1) Nonbeverage flavors and other nonbeverage ingredients containing alcohol may be used in producing a malt beverage (sometimes referred to as a “flavored malt beverage”). Except as provided in paragraph (a)(2) of this section, no more than 49 percent of the overall alcohol content (determined without regard to any tolerance otherwise allowed by this part) of the finished product may be derived from the addition of nonbeverage flavors and other nonbeverage ingredients containing alcohol. For example, a finished malt beverage that contains 5.0 percent alcohol by volume must derive a minimum of 2.55 percent alcohol by volume from the fermentation of barley malt and other materials and may derive not more than 2.45 percent alcohol by volume from the addition of nonbeverage flavors and other nonbeverage ingredients containing alcohol.
+
+(2) In the case of malt beverages with an alcohol content of more than 6 percent by volume (determined without regard to any tolerance otherwise allowed by this part), no more than 1.5 percent of the volume of the malt beverage may consist of alcohol derived from added nonbeverage flavors and other nonbeverage ingredients containing alcohol.
+
+(b) *Processing.* Malt beverages may be filtered or otherwise processed in order to remove color, taste, aroma, bitterness, or other characteristics derived from fermentation.

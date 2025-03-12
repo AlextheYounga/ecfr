@@ -1,6 +1,6 @@
 ##### § 566.5 Requirements. #####
 
-Each manufacturer of motor vehicles, and each manufacturer of covered equipment, shall furnish the information specified in paragraphs (a) through (c) of this section to: Administrator, National Highway Traffic Safety Administration, 400 Seventh Street SW., Washington, DC 20590.
+Each manufacturer of a motor vehicle (other than a replica motor vehicle), and each manufacturer of covered equipment, shall furnish the information specified in paragraphs (a) through (c) of this section to *https://vpic.nhtsa.dot.gov/* or to: Administrator, National Highway Traffic Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590. Manufacturers of replica motor vehicles shall furnish the information by using the portal at *https://vpic.nhtsa.dot.gov/*.
 
 (a) Full individual, partnership, or corporate name of the manufacturer.
 
@@ -14,4 +14,6 @@ Each manufacturer of motor vehicles, and each manufacturer of covered equipment,
 
 (3) In the case of motor vehicles produced in two or more stages, if the manufacturer is an incomplete vehicle manufacturer, the description shall so state and include a description indicating the stage of completion of the vehicle and, where known, the types of use for which the vehicle is intended.
 
-Example:“Incomplete vehicle manufacturer - Chassis-cab intended for completion as van-type truck.”If the manufacturer is an intermediate manufacturer, or a final stage manufacturer, the description shall so state and include a brief description of the work performed.Example:“Multipurpose passenger vehicles: Motor homes with GVWR from 8,000 to 12,000 pounds. Final-stage manufacturer - add body to bare chassis.”(15 U.S.C. 1392, 1397)[36 FR 20978, Nov. 2, 1971, as amended at 37 FR 1364, Jan. 28, 1972]
+(4) In the case of replica motor vehicles, the manufacturer shall include, in the description of each type of motor vehicle it manufactures, a designation that the vehicle is a replica motor vehicle.
+
+Example:“Incomplete vehicle manufacturer—Chassis-cab intended for completion as van-type truck.”If the manufacturer is an intermediate manufacturer, or a final stage manufacturer, the description shall so state and include a brief description of the work performed.Example:“Multipurpose passenger vehicles: Motor homes with GVWR from 8,000 to 12,000 pounds. Final-stage manufacturer—add body to bare chassis.”(Authority: 15 U.S.C. 1392, 1397)[36 FR 20978, Nov. 2, 1971, as amended at 37 FR 1364, Jan. 28, 1972; 87 FR 13232, Mar. 9, 2022]

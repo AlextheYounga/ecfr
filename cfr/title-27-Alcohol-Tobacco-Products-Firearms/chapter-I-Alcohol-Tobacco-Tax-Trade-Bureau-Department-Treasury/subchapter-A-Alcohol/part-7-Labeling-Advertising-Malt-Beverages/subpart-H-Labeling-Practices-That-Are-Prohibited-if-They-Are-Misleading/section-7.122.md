@@ -1,0 +1,7 @@
+##### § 7.122 Misleading statements or representations. #####
+
+(a) *General prohibition.* Malt beverage labels, containers, or packaging may not contain any statement or representation, irrespective of falsity, that is misleading to consumers as to the age, origin, identity, or other characteristics of the malt beverage, or with regard to any other material factor.
+
+(b) *Ways in which statements or representations may be found to be misleading.* (1) A statement or representation is prohibited, irrespective of falsity, if it directly creates a misleading impression or if it does so indirectly through ambiguity, omission, inference, or by the addition of irrelevant, scientific, or technical matter. For example, an otherwise truthful statement may be misleading because of the omission of material information, the disclosure of which is necessary to prevent the statement from being misleading.
+
+(2) All claims, whether implicit or explicit, must have a reasonable basis in fact. Any claim on malt beverage labels, containers, or packaging that does not have a reasonable basis in fact or cannot be adequately substantiated upon the request of the appropriate TTB officer is considered misleading.

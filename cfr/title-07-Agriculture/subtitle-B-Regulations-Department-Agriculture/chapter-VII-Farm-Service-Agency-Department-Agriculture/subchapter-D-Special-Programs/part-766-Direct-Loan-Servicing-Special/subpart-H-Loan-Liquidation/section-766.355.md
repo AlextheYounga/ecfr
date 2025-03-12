@@ -14,7 +14,7 @@
 
 (c) *Borrower options.* The borrower may:
 
-(1) Pay cash;
+(1) Pay the account in full;
 
 (2) Transfer the security to a third party in accordance with part 765, subpart I of this chapter;
 
@@ -25,3 +25,5 @@
 (d) *Partial payments.* The Agency may accept a payment that does not cover the unpaid balance of the accelerated loan if the borrower is in the process of selling security, unless acceptance of the payment would reverse the acceleration.
 
 (e) *Failure to satisfy the debt.* The Agency will liquidate the borrower's account in accordance with § 766.357 if the borrower does not pay the account in full within the time period specified in the acceleration notice.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 87 FR 13124, Mar. 9, 2022]

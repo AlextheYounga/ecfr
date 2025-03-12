@@ -1,0 +1,13 @@
+##### § 7.144 Malt beverages fermented or flavored with certain traditional ingredients. #####
+
+(a) *General.* Any malt beverage that has been fermented or flavored only with one or more ingredients (such as honey or certain fruits) that the appropriate TTB officer has determined are generally recognized as traditional ingredients in the production of a fermented beverage designated as “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor” may be labeled in accordance with trade understanding following the rules set forth in this section.
+
+(1) A list of such traditional ingredients may be found on the TTB website (*https://www.ttb.gov*).
+
+(2) If the malt beverage has also been fermented or flavored with ingredients that the appropriate TTB officer has not determined are generally recognized as traditional ingredients in the production of a fermented beverage designated as “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor,” it is a malt beverage specialty and must be labeled in accordance with the statement of composition rules in § 7.147.
+
+(b) *Rules for designation.* (1) A designation in accordance with trade understanding must identify the base product, such as “malt beverage,” “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor” along with a modifier or explanation that provides the consumer with adequate information about the fruit, honey, or other food ingredient used in production of the malt beverage. The label may include additional information about the production process (such as “beer fermented with cherry juice”).
+
+(2) Where more than one exempted ingredient is included, a designation in accordance with trade understanding may identify each ingredient (such as “Ale with cherry juice, cinnamon, and nutmeg”), refer to the ingredients by category (such as “Fruit ale,” “Spiced ale,” or “Ale with natural flavors”), or simply include the ingredient or ingredients that the bottler or importer believes best identify the product (such as “Cherry ale,” “Cinnamon ale,” or “Nutmeg ale”). The designation must distinguish the product from a malt beverage, beer, ale, porter, stout, lager, or malt liquor that is not brewed or flavored with any of these ingredients; thus, unmodified designations such as “beer,” “stout,” or “ale” would not be acceptable.
+
+(c) *Other requirements.* All parts of the designation must appear together and must be readily legible on a contrasting background. Designations that create a misleading impression as to the identity of the product by emphasizing certain words or terms are prohibited.

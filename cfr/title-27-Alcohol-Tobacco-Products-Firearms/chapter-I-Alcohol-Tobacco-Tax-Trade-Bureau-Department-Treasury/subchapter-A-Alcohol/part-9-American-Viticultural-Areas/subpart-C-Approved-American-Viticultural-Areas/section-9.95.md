@@ -1,5 +1,7 @@
 ##### § 9.95 Clarksburg. #####
 
+Link to an amendment published at 87 FR 13159, Mar. 9, 2022.
+
 (a) *Name.* The name of the viticultural area described in this section is “Clarksburg.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Clarksburg viticultural area are eight U.S.G.S. topographic maps in the 7.5 minute series, as follows:

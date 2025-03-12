@@ -2,9 +2,9 @@
 
 The applicant:
 
-(a) Must comply with the general eligibility requirements established at § 764.101;
+(a) Must comply with the general eligibility requirements established at § 764.101.
 
-(b) Must be an established farmer;
+(b) Must be an established farmer.
 
 (c) Must be the owner-operator or tenant-operator as follows:
 
@@ -18,11 +18,11 @@ The applicant:
 
 (3) In the case of an entity, the entity must be:
 
-(i) Engaged primarily and directly in farming in the United States;
+(i) Engaged primarily and directly in farming in the United States; and
 
-(ii) Authorized to operate and own the farm, if the funds are used for farm ownership loan purposes, in the State in which the farm is located;
+(ii) Authorized to operate and own the farm, if the funds are used for farm ownership loan purposes, in the State in which the farm is located.
 
-(d) Must demonstrate the intent to continue the farming operation after the designated or declared disaster;
+(d) Must demonstrate the intent to continue the farming operation after the designated or declared disaster.
 
 (e) And all entity members must be unable to obtain sufficient credit elsewhere at reasonable rates and terms. To establish this, the applicant must obtain written declinations of credit, specifying the reasons for declination, from legally organized commercial lending institutions within reasonable proximity of the applicant as follows:
 
@@ -30,11 +30,11 @@ The applicant:
 
 (2) In the case of a loan of $300,000 or less, one written declination of credit is required; and
 
-(3) In the case of a loan of $100,000 or less, the Agency may waive the requirement for obtaining a written declination of credit, if the Agency determines that it would pose an undue burden on the applicant, the applicant certifies that they cannot get credit elsewhere, and based on the applicant's circumstances credit is not likely to be available;
+(3) In the case of a loan of $100,000 or less, the Agency may waive the requirement for obtaining a written declination of credit, if the Agency determines that it would pose an undue burden on the applicant, the applicant certifies that they cannot get credit elsewhere, and based on the applicant's circumstances credit is not likely to be available.
 
-(4) Notwithstanding the applicant's submission of the required written declinations of credit, the Agency may contact other commercial lending institutions within reasonable proximity of the applicant and make an independent determination of the applicant's ability to obtain credit elsewhere;
+(4) Notwithstanding the applicant's submission of the required written declinations of credit, the Agency may contact other commercial lending institutions within reasonable proximity of the applicant and make an independent determination of the applicant's ability to obtain credit elsewhere.
 
-(f) And all entity members in the case of an entity, must not have received debt forgiveness from the Agency on more than one occasion on or before April 4, 1996, or any time after April 4, 1996.
+(f) And all entity members in the case of an entity, must not have received debt forgiveness from the Agency on more than one occasion on or before April 4, 1996, or any time after April 4, 1996. A write down associated with a restructuring action under Section 353 of the Act is not considered debt forgiveness for EM Loan purposes.
 
 (g) Must submit an application to be received by the Agency no later than 8 months after the date the disaster is declared or designated in the county of the applicant's operation.
 
@@ -54,4 +54,4 @@ The applicant:
 
 (l) Whose primary enterprise is to breed, raise, and sell horses may be eligible under this part.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 76 FR 75434, Dec. 2, 2011]
+[72 FR 63298, Nov. 8, 2007, as amended at 76 FR 75434, Dec. 2, 2011; 87 FR 13124, Mar. 9, 2022]

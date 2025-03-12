@@ -1,0 +1,3 @@
+##### § 5.194 Adoption of predecessor's formulas. #####
+
+A successor to a person listed in § 5.191 may adopt a predecessor's approved formulas by filing an application with the appropriate TTB officer. The application must include a list of the formulas for adoption and must identify each formula by formula number, name of product, and date of approval. The application must clearly show that the predecessor has authorized the use of the previously approved formulas by the successor.

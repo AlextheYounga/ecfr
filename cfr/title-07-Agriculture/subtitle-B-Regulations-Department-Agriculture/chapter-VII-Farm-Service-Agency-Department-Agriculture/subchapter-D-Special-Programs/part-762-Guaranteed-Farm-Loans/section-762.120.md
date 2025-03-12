@@ -104,4 +104,6 @@ Unless otherwise provided, applicants must meet all of the following requirement
 
 (n) *Controlled substances.* The applicant, and anyone who will sign the promissory note, must not be ineligible as a result of a conviction for controlled substances according to 7 CFR part 718 of this chapter. If the lender uses the lender's Agency approved forms, the certification may be an attachment to the form.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 62223, Nov. 3, 2003; 69 FR 5262, Feb. 4, 2004; 72 FR 63297, Nov. 8, 2007; 75 FR 54013, Sept. 3, 2010; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 86 FR 43391, Aug. 9, 2021]
+(o) *Disqualification.* The applicant, and all entity members in the case of an entity, must not be ineligible due to disqualification resulting from a Federal Crop Insurance violation, according to 7 CFR part 718.
+
+[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 62223, Nov. 3, 2003; 69 FR 5262, Feb. 4, 2004; 72 FR 63297, Nov. 8, 2007; 75 FR 54013, Sept. 3, 2010; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 86 FR 43391, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022]

@@ -1,0 +1,9 @@
+##### § 5.42 Authorized relabeling activities by distillers and importers. #####
+
+(a) *Relabeling at distilled spirits plant premises.* A proprietor of distilled spirits plant premises may relabel domestically bottled distilled spirits prior to removal from, and after return to bond at, the distilled spirits plant premises, with labels covered by a certificate of label approval (COLA), without obtaining separate permission from TTB for the relabeling activity, provided that the proprietor is the certificate holder (and bottler).
+
+(b) *Relabeling after removal from distilled spirits plant premises.* A proprietor of distilled spirits plant premises may relabel domestically bottled distilled spirits (or direct the relabeling of such spirits by an authorized agent) after removal from distilled spirits plant premises with labels covered by a COLA, without obtaining separate permission from TTB for the relabeling activity, provided that the proprietor is the certificate holder (and bottler).
+
+(c) *Relabeling in customs custody.* Under the supervision of U.S. customs officers, imported distilled spirits in containers in customs custody may be relabeled without obtaining separate permission from TTB for the relabeling activity. Such containers must bear labels covered by a COLA upon their removal from customs custody for consumption. See § 5.24(b).
+
+(d) *Relabeling after removal from customs custody.* The importer of distilled spirits in containers may relabel imported distilled spirits (or direct the relabeling of such spirits by an authorized agent) after removal from customs custody without obtaining separate permission from TTB for the relabeling activity, as long as the labels are covered by a COLA.

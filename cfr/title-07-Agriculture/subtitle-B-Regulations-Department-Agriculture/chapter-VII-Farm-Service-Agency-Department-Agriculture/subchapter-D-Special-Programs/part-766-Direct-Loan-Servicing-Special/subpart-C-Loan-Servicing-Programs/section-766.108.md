@@ -52,9 +52,7 @@
 
 (ii) A feasible plan cannot be developed at the regular interest rate and maximum terms permitted in this section.
 
-(4) Loans reamortized at the limited resource interest rate will be subject to annual limited resource review in accordance with § 765.51 of this chapter.
-
-(5) SA payment agreements will be reamortized at the current SA amortization rate in effect on the date of approval or the rate on the original payment agreement, whichever is less.
+(4) SA payment agreements will be reamortized at the current SA amortization rate in effect on the date of approval or the rate on the original payment agreement, whichever is less.
 
 (d) *Capitalizing accrued interest and adding protective advances to the loan principal.* (1) The Agency capitalizes the amount of outstanding accrued interest on the loan at the time of reamortization.
 
@@ -64,4 +62,4 @@
 
 (e) *Installments.* If there are no deferred installments, the first installment payment under the reamortization will be at least equal to the interest amount which will accrue on the new principal between the date the promissory note is executed and the next installment due date.
 
-[72 FR 63316, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010]
+[72 FR 63316, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 87 FR 13124, Mar. 9, 2022]
