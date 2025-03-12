@@ -1,0 +1,7 @@
+##### § 1631.16 Using real estate purchased with LSC funds. #####
+
+(a) Recipients must use real estate purchased or leased in whole or in part with LSC funds to deliver legal assistance to eligible clients consistent with the requirements of the LSC Act, applicable appropriations acts, other applicable Federal law, and LSC's regulations. If a recipient does not need to use some or all such real estate to deliver legal assistance to eligible clients, it may use the space for other activities as described in paragraphs (b) and (c) of this section.
+
+(b) A recipient may use real estate purchased or leased, in whole or part, with LSC funds for the performance of an LSC grant or contract for other activities, if they do not interfere with the performance of the LSC grant or contract.
+
+(c) If a recipient uses real estate purchased or leased, in whole or part, with LSC funds to provide space to an organization that engages in activity restricted by the LSC Act, applicable appropriations acts, LSC regulations, or other applicable law, the recipient must charge the organization rent no less than that which private nonprofit organizations in the same area charge for the same amount of space under similar conditions.

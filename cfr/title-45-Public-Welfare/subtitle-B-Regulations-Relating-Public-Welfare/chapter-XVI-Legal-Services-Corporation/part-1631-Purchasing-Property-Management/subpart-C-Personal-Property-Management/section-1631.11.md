@@ -1,0 +1,5 @@
+##### § 1631.11 Intellectual property. #####
+
+(a) A recipient owns all products, technologies, and software developed or improved using LSC funds, subject to any agreement the recipient may have with a third-party vendor. LSC retains a royalty-free, nonexclusive, and irrevocable license to use, reproduce, distribute, publish, and prepare derivative works of any LSC-funded products, technologies, and software, including making them available to other LSC grantees or the broader access to justice community and partners.
+
+(b) A recipient must have a written contract with vendors who develop or improve LSC-funded products, technologies, and software. The contract must include a provision disclosing LSC's royalty-free, nonexclusive, and irrevocable license and prohibiting third-party vendors from denying its existence, challenging its legality, or interfering with LSC's full exercise of it.

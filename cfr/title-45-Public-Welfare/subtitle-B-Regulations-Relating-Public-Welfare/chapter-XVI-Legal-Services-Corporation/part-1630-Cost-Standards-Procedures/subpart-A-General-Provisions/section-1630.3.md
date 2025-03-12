@@ -1,0 +1,5 @@
+##### § 1630.3 Time. #####
+
+(a) *Computation.* In computing any period of time under this part, the time period begins the day following the event and includes the last day of the period, unless the last day is a Saturday, Sunday, or legal holiday observed by the Federal government. In those cases, the time period includes the next business day. When the prescribed time period is seven days or less, intermediate Saturdays, Sundays, and legal holidays shall be excluded from the computation.
+
+(b) *Extensions.* A recipient may, within the applicable timeframe for a particular response under this part, submit a written request for an extension of time for good cause to LSC. LSC will respond to the request for extension within seven calendar days from the date of receiving the request. LSC may grant the request for extension and shall notify the recipient of its decision in writing.

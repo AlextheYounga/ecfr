@@ -1,0 +1,3 @@
+##### § 1631.19 Accounting and reporting to LSC. #####
+
+A recipient must maintain an accounting of the amount of LSC funds relating to the purchase or maintenance of real estate purchased with LSC funds. The accounting must include the amount of LSC funds used to pay for acquisition costs, financing, and capital improvements. The recipient must provide the accounting for each year to LSC no later than April 30 of the following year or in its annual audited financial statements submitted to LSC.

@@ -1,0 +1,3 @@
+##### § 1630.15 Applicability to subgrants. #####
+
+When disallowed costs arise from expenditures incurred under a subgrant of LSC funds, the recipient and the subrecipient will be jointly and severally responsible for the actions of the subrecipient, as provided by 45 CFR part 1627, and will be subject to all remedies available under this part. Both the recipient and the subrecipient shall have access to the review and appeal procedures of this part.
