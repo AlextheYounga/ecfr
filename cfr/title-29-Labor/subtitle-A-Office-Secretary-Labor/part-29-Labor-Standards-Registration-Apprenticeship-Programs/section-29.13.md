@@ -1,6 +1,6 @@
 ##### § 29.13 Recognition of State Apprenticeship Agencies. #####
 
-Link to an amendment published at 85 FR 13033, Mar. 6, 2020.Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14387, Mar. 11, 2020.
+Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14387, Mar. 11, 2020.
 
 (a) *Recognition.* The Department may exercise its authority to grant recognition to a State Apprenticeship Agency. Recognition confers non-exclusive authority to determine whether an apprenticeship program conforms to the published standards and whether the program is, therefore, eligible for those Federal purposes which require such a determination by the Department. Such recognition shall be accorded upon the State's submission of, the Department's approval of, and the State's compliance with the following:
 
@@ -72,7 +72,7 @@ Link to an amendment published at 85 FR 13033, Mar. 6, 2020.Link to an amendment
 
 (3) Within 20 days of the receipt of the recommended decision, any party may file exceptions. Any party may file a response to the exceptions filed by another party within 10 days of receipt of the exceptions. All exceptions and responses must be filed with the Administrative Review Board with copies served on all parties and amici curiae.
 
-(4) After the close of the period for filing exceptions and responses, the Administrative Review Board may issue a briefing schedule or may decide the matter on the record before it. The Administrative Review Board must decide any case it accepts for review within 180 days of the close of the record. If not so decided, the Administrative Law Judge's decision constitutes final agency action. The decision of the Administrative Review Board constitutes final action by the Department.
+(4) After the close of the period for filing exceptions and responses, the Administrative Review Board may issue a briefing schedule or may decide the matter on the record before it. The Administrative Review Board must decide any case it accepts for review within 180 days of the close of the record. If a decision is not so issued, the Administrative Law Judge's decision constitutes final agency action.
 
 (h) *Withdrawal from recognition.* Where a State Apprenticeship Agency voluntarily relinquishes its recognition for Federal purposes, the State must:
 
@@ -87,3 +87,5 @@ Link to an amendment published at 85 FR 13033, Mar. 6, 2020.Link to an amendment
 (j) *State apprenticeship programs.* (1) An apprenticeship program submitted to a State Registration Agency for registration must, for Federal purposes, be in conformity with the State apprenticeship law, regulations, and with the State Plan for Equal Employment Opportunity in Apprenticeship as submitted to and approved by the Office of Apprenticeship pursuant to 29 CFR part 30.
 
 (2) In the event that a State Apprenticeship Agency is not recognized by the Office of Apprenticeship for Federal purposes or that such recognition has been withdrawn, or if no State Apprenticeship Agency exists, registration with the Office of Apprenticeship may be requested. Such registration must be granted if the program is conducted, administered and operated in accordance with the requirements of this part and the equal opportunity regulation in 29 CFR part 30, as amended.
+
+[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020]

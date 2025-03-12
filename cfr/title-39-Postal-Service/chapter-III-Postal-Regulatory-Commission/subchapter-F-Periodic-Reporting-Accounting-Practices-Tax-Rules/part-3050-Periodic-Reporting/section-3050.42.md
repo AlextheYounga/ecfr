@@ -1,0 +1,3 @@
+##### § 3050.42 Proceedings to improve the quality of financial data. #####
+
+The Commission may, on its own motion or on request of an interested party, initiate proceedings to improve the quality, accuracy, or completeness of Postal Service data required under § 3050.40 whenever it shall appear that the data have become significantly inaccurate or can be significantly improved; or those revisions are, in the judgment of the Commission, otherwise necessitated by the public interest.

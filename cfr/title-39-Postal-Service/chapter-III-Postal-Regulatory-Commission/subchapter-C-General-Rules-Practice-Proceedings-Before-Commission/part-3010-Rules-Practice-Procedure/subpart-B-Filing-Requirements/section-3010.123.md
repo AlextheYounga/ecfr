@@ -1,0 +1,3 @@
+##### § 3010.123 Rejected filings. #####
+
+Any filing that does not comply with an applicable Commission rule or order may be rejected. Any filing that is rejected is deemed not to have been filed with the Commission. If a filing is rejected, the Secretary will attempt to notify the person submitting the filing, indicating the reason(s) for rejection. Acceptance for filing shall not waive any failure to comply with this part, and such failure may be cause for subsequently striking all or any part of any document. Any controversies concerning the acceptability of a filing shall be resolved after review by the Office of General Counsel.

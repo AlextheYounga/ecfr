@@ -1,5 +1,7 @@
 ##### § 229.504 (Item 504) Use of proceeds. #####
 
+Link to an amendment published at 85 FR 22002, Apr. 20, 2020.
+
 State the principal purposes for which the net proceeds to the registrant from the securities to be offered are intended to be used and the approximate amount intended to be used for each such purpose. Where registrant has no current specific plan for the proceeds, or a significant portion thereof, the registrant shall so state and discuss the principal reasons for the offering.
 
 *Instructions to Item 504:* 1. Where less than all the securities to be offered may be sold and more than one use is listed for the proceeds, indicate the order of priority of such purposes and discuss the registrant's plans if substantially less than the maximum proceeds are obtained. Such discussion need not be included if underwriting arrangements with respect to such securities are such that, if any securities are sold to the public, it reasonably can be expected that the actual proceeds will not be substantially less than the aggregate proceeds to the registrant shown pursuant to Item 501 of Regulation S-K (§ 229.501).

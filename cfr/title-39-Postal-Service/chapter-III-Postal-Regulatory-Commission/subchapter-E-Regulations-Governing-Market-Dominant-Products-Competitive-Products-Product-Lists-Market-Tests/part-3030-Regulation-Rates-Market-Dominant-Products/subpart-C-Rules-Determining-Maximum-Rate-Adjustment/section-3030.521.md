@@ -1,0 +1,9 @@
+##### § 3030.521 Calculation of annual limitation when Type 1-A or Type 1-B notices of rate adjustment are 12 or more months apart. #####
+
+(a) The monthly CPI-U values needed for the calculation of the full year limitation under this section shall be obtained from the Bureau of Labor Statistics (BLS) Consumer Price Index - All Urban Consumers, U.S. All Items, Not Seasonally Adjusted, Base Period 1982-84 = 100. The current Series ID for the index is “CUUR0000SA0.”
+
+(b) If a notice of a Type 1-A or Type 1-B rate adjustment is filed 12 or more months after the most recent Type 1-A or Type 1-B notice of rate adjustment, then the calculation of an annual limitation for the class (referred to as the *full year limitation*) involves three steps. First, a simple average CPI-U index is calculated by summing the most recently available 12 monthly CPI-U values from the date the Postal Service files its notice of rate adjustment and dividing the sum by 12 (Recent Average). Then, a second simple average CPI-U index is similarly calculated by summing the 12 monthly CPI-U values immediately preceding the Recent Average and dividing the sum by 12 (Base Average). Finally, the full year limitation is calculated by dividing the Recent Average by the Base Average and subtracting 1 from the quotient. The result is expressed as a percentage, rounded to three decimal places.
+
+(c) The formula for calculating a full year limitation for a notice of rate adjustment filed 12 or more months after the last notice is as follows: Full Year Limitation = (Recent Average/Base Average)−1.
+
+[78 FR 52704, Aug. 26, 2013, as amended at 79 FR 33833, June 12, 2014. Redesignated at 85 FR 9615, Feb. 19, 2020]

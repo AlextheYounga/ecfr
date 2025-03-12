@@ -1,5 +1,7 @@
 ##### § 501.6 Suspension and revocation of authorization. #####
 
+Link to an amendment published at 85 FR 21776, Apr. 20, 2020.
+
 (a) The Postal Service may suspend and/or revoke authorization to manufacture and/or distribute any or all of a provider's approved Postage Evidencing System(s) if the provider engages in any unlawful scheme or enterprise, fails to comply with any provision in this Part 501, fails to implement instructions issued in accordance with any final decision issued by the Postal Service within its authority over Postage Evidencing Systems or if the Postage Evidencing System or infrastructure of the provider is determined to constitute an unacceptable risk to Postal Service revenues.
 
 (b) The decision to suspend or revoke pursuant to paragraph (a) of this section shall be based upon the nature and circumstances of the violation (*e.g.* whether the violation was willful, whether the provider voluntarily admitted to the violation, or cooperated with the Postal Service, whether the provider implemented successful remedial measures) and on the provider's performance history. Before determining that a provider's authorization to manufacture and/or distribute Postage Evidencing Systems should be suspended or revoked, the procedures in paragraph (c) of this section shall be followed.

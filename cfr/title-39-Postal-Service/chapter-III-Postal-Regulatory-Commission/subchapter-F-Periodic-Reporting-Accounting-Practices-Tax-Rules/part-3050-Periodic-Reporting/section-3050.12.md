@@ -1,0 +1,3 @@
+##### § 3050.12 Obsolescence of special studies relied on to produce the Postal Service's annual periodic reports to the Commission. #####
+
+The Postal Service shall provide a list of special studies whose results are used to produce the estimates in its annual periodic reports to the Commission. It shall indicate the date the study was completed and whether the study reflects current operating conditions and procedures. The Postal Service shall update the list annually.

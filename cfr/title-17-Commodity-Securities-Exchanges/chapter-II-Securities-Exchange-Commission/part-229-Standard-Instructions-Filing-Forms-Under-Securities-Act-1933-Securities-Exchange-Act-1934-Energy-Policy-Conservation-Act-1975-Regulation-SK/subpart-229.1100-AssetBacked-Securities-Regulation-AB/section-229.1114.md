@@ -1,5 +1,7 @@
 ##### § 229.1114 (Item 1114) Credit enhancement and other support, except for certain derivatives instruments. #####
 
+Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
+
 (a) *Descriptive information.* To the extent material, describe the following, including a clear discussion of the manner in which each potential item is designed to affect or ensure timely payment of the asset-backed securities:
 
 (1) Any external credit enhancement designed to ensure that the asset-backed securities or pool assets will pay in accordance with their terms, such as bond insurance, letters of credit or guarantees.

@@ -1,7 +1,5 @@
 ##### § 655.472 Revocation. #####
 
-Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
-
 (a) *Basis for revocation.* The OFLC Administrator may revoke a TLC approved under this subpart, if the OFLC Administrator finds:
 
 (1) The issuance of the TLC was not justified due to fraud or misrepresentation of a material fact in the application process;
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
 
 (2) *Rebuttal.* If the employer timely submits rebuttal evidence, the OFLC Administrator will inform the employer of the final determination on the revocation within 10 business days of receiving the rebuttal evidence. If the OFLC Administrator determines that the certification must be revoked, the OFLC Administrator will inform the employer of its right to appeal the final determination to BALCA according to the procedures of § 655.461. If the employer does not appeal the final determination, it will become the final agency action.
 
-(3) *Request for review.* An employer may appeal a Notice of Revocation or a final determination of the OFLC Administrator after the review of rebuttal evidence to BALCA, according to the appeal procedures of § 655.461. The ALJ's decision is the final agency action.
+(3) *Request for review.* An employer may appeal a Notice of Revocation or a final determination of the OFLC Administrator after the review of rebuttal evidence to BALCA, according to the appeal procedures of § 655.461.
 
 (4) *Stay.* The timely submission of rebuttal evidence or a request for administrative review will stay the revocation pending the outcome of the proceeding.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
 (3) Payment to the workers of the amount due under the three-fourths guarantee; and
 
 (4) Any other wages, benefits, and working conditions due or owing to the workers under this subpart.
+
+[84 FR 12431, Apr. 1, 2019, as amended at 85 FR 13029, Mar. 6, 2020]

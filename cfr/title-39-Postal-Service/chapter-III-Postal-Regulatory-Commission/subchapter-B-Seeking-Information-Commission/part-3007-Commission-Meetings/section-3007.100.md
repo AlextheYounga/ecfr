@@ -1,0 +1,105 @@
+##### § 3007.100 Public access to Commission meetings. #####
+
+(a) *Definition. Commission meeting* means the deliberations of at least three Commissioners where such deliberations determine or result in the joint conduct or disposition of official Commission business.
+
+(b) *Open Commission meetings.* (1) Commissioners shall not jointly conduct or dispose of agency business other than in accordance with this section. Except as provided in paragraph (d) of this section, every portion of every meeting of the Commission shall be open to public observation.
+
+(2) Members of the public may not participate in open meetings. They may record the proceedings, provided they use battery-operated recording devices at their seats. Cameras may be used by observers to photograph proceedings, provided it is done from their seats and no flash or lighting equipment is used. Persons may electronically record or photograph a meeting, as long as such activity does not impede or disturb the members of the Commission in the performance of their duties, or members of the public attempting to observe, or to record or photograph, the Commission meeting.
+
+(c) *Physical arrangements for open meetings.* The Secretary shall be responsible for seeing that ample space, sufficient visibility, and adequate acoustics are provided for public observation of the Commission meetings.
+
+(d) *Closed Commission meetings.* Except in a case where the Commission finds that the public interest requires otherwise, the second sentence of paragraph (b)(1) of this section shall not apply to any portion of a Commission meeting, and the requirements of paragraphs (f) and (g) of this section shall not apply to any information pertaining to such meeting otherwise required by this section to be disclosed to the public, where the Commission properly determines that such portion or portions of its meetings or the disclosure of such information is likely to:
+
+(1) Disclose matters that:
+
+(i) Are specifically authorized under criteria established by an Executive order to be kept secret in the interests of national defense or foreign policy; and
+
+(ii) Are in fact properly classified pursuant to such Executive order.
+
+(2) Relate solely to the internal personnel rules and practices of the Commission;
+
+(3) Disclose matters specifically exempted from disclosure by statute (other than 5 U.S.C. 552), provided that such statute:
+
+(i) Requires the matter to be withheld from the public in such a manner as to leave no discretion on the issue; or
+
+(ii) Establishes particular criteria for withholding or refers to particular types of matters to be withheld.
+
+(4) Disclose trade secrets and commercial or financial information obtained from a person and privileged or confidential;
+
+(5) Involve accusing any person of a crime, or formally censuring any person;
+
+(6) Disclose information of a personal nature where disclosure would constitute a clearly unwarranted invasion of personal privacy;
+
+(7) Disclose investigatory records compiled for law enforcement purposes, or information which if written would be contained in such records, but only to the extent that the production of such records or information would:
+
+(i) Interfere with enforcement proceedings;
+
+(ii) Deprive a person of a right to a fair trial or an impartial adjudication;
+
+(iii) Constitute an unwarranted invasion of personal privacy;
+
+(iv) Disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source;
+
+(v) Disclose investigative techniques and procedures; or
+
+(vi) Endanger the life or physical safety of law enforcement personnel.
+
+(8) Disclose information contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions;
+
+(9) Disclose information the premature disclosure of which would be likely to significantly frustrate implementation of a proposed Commission action, except that this paragraph (d)(9) shall not apply in any instance where the Commission has already disclosed to the public the content or nature of its proposed action, or where the Commission is required by law to make such disclosure on its own initiative prior to taking final Commission action on such proposal; or
+
+(10) Specifically concern the Commission's issuance of a subpoena or the Commission's participation in a civil action or appellate proceeding, an action in a foreign court or international tribunal, or an arbitration, or the initiation, conduct or disposition by the Commission of a particular case of formal Commission adjudication pursuant to the procedures in 5 U.S.C. 554 or otherwise involving a determination on the record after opportunity for a hearing.
+
+(e) *Procedures for closing meetings.* (1) Action under paragraph (d) of this section shall be taken only when three Commissioners vote to take such action. A separate vote of the Commissioners shall be taken with respect to each agency meeting a portion or portions of which are proposed to be closed to the public pursuant to paragraph (d) of this section, or with respect to any information which is proposed to be withheld under paragraph (d) of this section. A single vote may be taken with respect to a series of meetings, a portion or portions of which are proposed to be closed to the public, or with respect to any information concerning such series of meetings, so long as each meeting in such series involves the same particular matters and is scheduled to be held no more than 30 days after the initial meeting in such series. The vote of each Commissioner participating in such vote shall be recorded and no proxies shall be allowed.
+
+(2) Whenever any person whose interests may be directly affected by a portion of a meeting requests that the Commission close such portion to the public for any of the reasons referred to in paragraph (d)(5), (6), or (7) of this section, the Commission upon request of any one of its members, shall vote by recorded vote whether to close such meeting.
+
+(3) Within one day of any vote taken pursuant to paragraph (e)(1) or (2) of this section, the Commission shall make publicly available a written copy of such vote reflecting the vote of each member on the question. If a portion of a meeting is to be closed to the public, the Commission shall, within one day of the vote taken pursuant to paragraph (e)(1) or (2) of this section, make publicly available a full written explanation of its action closing the portion together with a list of all persons expected to attend the meeting and their affiliation.
+
+(4) Any person may protest a Commission decision to hold a closed meeting under paragraph (e)(1) or (2) of this section by filing a motion to open the meeting. Such motion shall be addressed to the Commission and shall set forth with particularity the statutory or other authority relied upon, the reasons for which the movant believes the meeting should not be closed, and the reasons for which the movant believes that the public interest requires the meeting to be open. Such motion shall be filed with the Secretary no later than 24 hours prior to the time for which the closed meeting is scheduled.
+
+(5) The Commission has determined that a majority of its meetings may be closed to the public pursuant to paragraph (d)(4), (8), or (10) of this section or any combination thereof. Therefore, pursuant to 5 U.S.C. 552b(d)(4), Commission meetings shall be closed to the public pursuant to paragraph (d)(4), (8), or (10) of this section or any combination thereof when three Commissioners vote by recorded vote at the beginning of such meeting, or portion thereof, to close the exempt portion or portions of the meeting, and a copy of such vote, reflecting the vote of each Commissioner on the question, is made available to the public. The provisions of paragraphs (e)(1) through (3) and (f) of this section shall not apply to any portion of a meeting to which paragraph (e)(5) of this section applies: Provided, that the Commission shall, except to the extent that such information is exempt from disclosure under the provisions of paragraph (d) of this section, provide the public with public announcement of the time, place, and subject matter of the meeting and of each portion thereof at the earliest practicable time.
+
+(f) *Scheduling and public announcement.* (1) In the case of each meeting, the Commission shall make public announcement, at least one week before the meeting, of the time, place, and subject matter of the meeting, whether it is to be open or closed to the public, and the name and phone number of the official designated by the Commission to respond to requests for information about the meeting. Such announcement shall be made unless three Commissioners determine by a recorded vote that Commission business requires that such meeting be called at an earlier date, in which case the Commission shall make public announcement of the time, place, and subject matter of such meeting, and whether open or closed to the public, at the earliest practicable time.
+
+(2) The time or place of a meeting may be changed following the public announcement required by paragraph (f)(1) of this section only if the Commission publicly announces such change at the earliest practicable time. The subject matter of a meeting, or the determination of the Commission to open or close a meeting, or a portion of a meeting, to the public, may be changed following the public announcement required by paragraph (f)(1) of this section only if:
+
+(i) Three Commissioners determine by a recorded vote that Commission business so requires and that no earlier announcement of the change was possible; and
+
+(ii) The Commission publicly announces such change and the vote of each Commissioner upon such change at the earliest practicable time.
+
+(3) Immediately following each public announcement required by this paragraph (f), notice of the time, place, and subject matter of a meeting, whether the meeting is open or closed, any change in one of the preceding, and the name and phone number of the official designated by the Commission to respond to requests for information about the meeting, shall also be submitted for publication in the Federal Register.
+
+(4) The public announcement required by this section may consist of the Secretary:
+
+(i) Publicly posting a copy of the document in the reception area of the Postal Regulatory Commission located at 901 New York Avenue NW, Suite 200, Washington, DC 20268-0001;
+
+(ii) Mailing a copy to all persons whose names are on a mailing list maintained for this purpose;
+
+(iii) Operating a recorded telephone announcement, giving the announcement; and
+
+(iv) Any other means which the Secretary believes will serve to further inform any persons who might be interested.
+
+(g) *Certification of closed meetings; transcripts, electronic recordings, and minutes.* (1) Before any meeting to be closed pursuant to paragraphs (d)(1) through (10) of this section, the General Counsel of the Commission, or in the General Counsel's absence, the senior advisory staff attorney available, should publicly certify that, in the individual's opinion, the meeting may be closed to the public and shall state each relevant exemptive provision. A copy of such certification, together with a statement from the presiding officer of the meeting setting forth the time and place of the meeting, and the persons present, shall be retained by the Commission. The Commission shall maintain a complete transcript or electronic recording adequate to record fully the proceedings of each meeting, or portion of a meeting, closed to the public, except that in the case of a meeting, or portion of a meeting, closed to the public pursuant to paragraph (d)(8) or (10) of this section, the Commission shall maintain either such a transcript or recording, or a set of minutes. Such minutes shall fully and clearly describe all matters discussed and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of the views expressed on any item and the record of any rollcall vote (reflecting the vote of each Commissioner on the question). All documents considered in connection with any action shall be identified in such minutes.
+
+(2) The Commission shall make promptly available to the public, in a place easily accessible to the public, the transcript, electronic recording, or minutes (as required by paragraph (g)(1) of this section) of the discussion of any item on the agenda, or of any item of the testimony of any witness received at the meeting, except for such item or items of such discussion or testimony as the Commission determines by a majority vote of all its members contains information which may be withheld under paragraph (d) of this section, and is not required by the public interest to be made available. Copies of such transcript, or minutes, or a transcription of such recording disclosing the identity of each speaker, shall be furnished to any person at the actual cost of duplication or transcription. The Commission shall maintain a complete verbatim copy of the transcript, a complete copy of the minutes, or a complete electronic recording of each meeting, or portion of a meeting, closed to the public, for a period of at least two years after such meeting, or until one year after the conclusion of any Commission proceeding with respect to which the meeting or portion was held, whichever occurs later.
+
+(h) *Requests to open or close Commission meetings.* (1)(i) Any person may request in writing that the Commission open to public observation discussion of a matter which it has earlier decided to close.
+
+(ii) Such requests shall be captioned “Request to open \_\_\_\_ (date) Commission meeting on item \_\_\_\_ (number or description).” The request shall state the reason(s) therefor, the name and address of the person making the request and, if desired, a telephone number.
+
+(iii) Ten copies of such requests must be received by the Office of Secretary and Administration no later than three working days after the issuance of the notice of meeting to which the request pertains. Requests received after that time will be returned to the requester with a statement that the request was untimely received and that copies of any nonexempt portions of the transcript or minutes for the meeting in question will ordinarily be available in the Office of Secretary and Administration ten working days after the meeting.
+
+(2)(i) Any person whose interests may be directly affected may request in writing that the Commission close to public observation discussion of a matter which it has earlier decided to open as provided for in paragraph (e)(2) of this section.
+
+(ii) Such requests shall be captioned “Request to Close \_\_\_\_ (date) Commission meeting on item \_\_\_\_ (number or description),” shall state the reason(s) therefor, the name and address of the person making the request and, if desired, a telephone number.
+
+(iii) Ten copies of such requests should be filed with the Office of Secretary and Administration as soon as possible after the issuance of the notice of meeting to which the request pertains. However, a single copy of the request will be accepted. Requests to close meetings must be received by the Office of Secretary and Administration no later than the time scheduled for the meeting to which such a request pertains.
+
+(3) The Secretary shall retain one copy of timely requests and forward one copy to each Commissioner, one copy to the interested Office, and two copies to the Docket Section, one for entry in the appropriate docket file, if any, and one to be posted on the Public Notice Board located in that section as an attachment to the Notice of Meeting to which it pertains.
+
+(4) Pleadings replying to requests to open or close shall not be accepted.
+
+(5) Any Commissioner may require that the Commission vote upon the request to open or close. If the request is supported by the votes of a majority of the agency membership, notice of change in meeting shall be issued and the Secretary shall immediately notify the requester and, before the close of business the next working day, have posted such vote and other material required by paragraphs (e) and (f) of this section on the Commission's Public Notice Board.
+
+(6) If no Commissioner requests that a vote be taken on a request to open or close a Commission meeting, the Secretary shall by the close of the next working day after the meeting to which such request pertains certify that no vote was taken. The Secretary shall forward one copy of that certification to the requester and two copies of that certification to the Docket Section, one to be placed in the appropriate docket file, if any, and one to be posted on the Public Notice Board, where it will be displayed for one week.

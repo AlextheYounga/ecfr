@@ -1,0 +1,3 @@
+##### § 3010.104 Consolidation and severance of proceedings. #####
+
+The Commission may order proceedings involving related issues or facts to be consolidated for consideration of any or all matters at issue in such proceedings. The Commission may sever proceedings which have been consolidated or order separate proceedings on any issue presented if it appears that separate proceedings will be more convenient, expeditious, or otherwise appropriate.

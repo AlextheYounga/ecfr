@@ -1,0 +1,3 @@
+##### § 3010.144 Limitation of participation by investigative or prosecuting officers. #####
+
+No officer, employee, or agent of the Commission who participates in a proceeding before the Commission as an attorney or witness or who actively participates in the preparation of evidence or argument presented by such persons, shall participate or advise as to the intermediate decision or Commission decision in that proceeding.

@@ -1,7 +1,5 @@
 ##### § 38.112 Initial and final decision procedures. #####
 
-Link to an amendment published at 85 FR 13033, Mar. 6, 2020.
-
 (a) *Initial decision.* After the hearing, the Administrative Law Judge must issue an initial decision and order, containing findings of fact and conclusions of law. The initial decision and order must be served on all parties by certified mail, return receipt requested.
 
 (b) *Exceptions; Final Decision* - (1) *Final Decision after a hearing.* The initial decision and order becomes the Final Decision and Order of the Department unless exceptions are filed by a party or, in the absence of exceptions, the Administrative Review Board serves notice that it will review the decision.
@@ -22,10 +20,10 @@ Link to an amendment published at 85 FR 13033, Mar. 6, 2020.
 
 (B) Where exceptions have not been filed, the initial decision and order of the Administrative Law Judge becomes the Final Decision and Order unless the Administrative Review Board has served notice on the parties that it will review the decision, as provided in paragraph (b)(1)(vi) of this section.
 
-(viii) *Final Decision and Order after review by Administrative Review Board.* Any case reviewed by the Administrative Review Board under this paragraph must be decided within 180 days of the notification of such review. If the Administrative Review Board fails to issue a Final Decision and Order within the 180-day period, the initial decision and order of the Administrative Law Judge becomes the Final Decision and Order.
+(viii) *Decision and Order after review by Administrative Review Board.* In any case reviewed by the Administrative Review Board under this paragraph, a decision must be issued within 180 days of the notification of such review. If the Administrative Review Board fails to issue a decision and order within the 180-day period, the initial decision and order of the Administrative Law Judge becomes the Final Decision and Order.
 
 (2) *Final Decision where a hearing is waived.* (i) If, after issuance of a Final Determination under § 38.95 or Notification of Breach of Conciliation Agreement under § 38.98, voluntary compliance has not been achieved within the time set by this part and the opportunity for a hearing has been waived as provided for in § 38.111(b)(4), the Final Determination or Notification of Breach of Conciliation Agreement becomes the Final Decision.
 
 (ii) When a Final Determination or Notification of Breach of Conciliation Agreement becomes the Final Decision, the Administrative Review Board may, within 45 days, issue an order terminating or denying the grant or continuation of assistance; or imposing other appropriate sanctions for the grant applicant's, Governor's, or recipient's failure to comply with the required corrective and/or remedial actions, or the Secretary may refer the matter to the Attorney General for further enforcement action.
 
-(3) *Final agency action.* A Final Decision and Order issued under paragraph (b) of this section constitutes final agency action.
+[81 FR 87211, Dec. 2, 2016, as amended at 85 FR 13033, Mar. 6, 2020]

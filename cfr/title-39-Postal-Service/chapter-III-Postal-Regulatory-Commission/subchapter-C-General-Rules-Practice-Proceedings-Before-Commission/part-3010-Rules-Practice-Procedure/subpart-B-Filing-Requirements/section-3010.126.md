@@ -1,0 +1,7 @@
+##### § 3010.126 Subscription. #####
+
+(a) Each document filed with the Commission shall be subscribed. Subscription constitutes a certification that the person filing the document has read the document being filed; that the person filing the document knows the contents thereof; that if executed in any representative capacity, the document has been subscribed in the capacity specified in the document with full power and authority so to do; that to the best of the person's knowledge, information and belief every statement contained in the document is true and no such statements are misleading; and that such document is not filed for purposes of delay. This requirement extends to notices of filing for library references or other material, including the underlying library references or other material to the extent referenced in the notice of filing.
+
+(b) For a document or notice of filing filed via the Filing Online system, the subscription requirement is met when the document or notice of filing is filed with the Commission.
+
+(c) For a hardcopy document or hardcopy notice of filing, the subscription requirement is met by signing in ink, by affixing an electronic signature, or by including the typed name of the individual, authorized office, employee, attorney, or other representative who files the document or notice.

@@ -1,0 +1,17 @@
+##### § 3010.324 In camera orders. #####
+
+(a) *Definition.* Except as hereinafter provided, documents and testimony made subject to *in camera* orders are not made a part of the public record, but are kept confidential, and only authorized parties, their counsel, authorized Commission personnel, and court personnel concerned with judicial review shall have access thereto. The right of the presiding officer, the Commission, and reviewing courts to disclose *in camera* data to the extent necessary for the proper disposition of the proceeding is specifically reserved.
+
+(b) *In camera treatment of documents and testimony.* (1) Presiding officers shall have authority, but only in those unusual and exceptional circumstances when good cause is found on the record, to order documents or oral testimony offered in evidence whether admitted or rejected, to be placed *in camera.* The order shall specify the date on which *in camera* treatment expires and shall include:
+
+(i) A description of the documents and testimony;
+
+(ii) A full statement of the reasons for granting *in camera* treatment; and
+
+(iii) A full statement of the reasons for the date on which *in camera* treatment expires.
+
+(2) Any party desiring, for the preparation and presentation of the case, to disclose *in camera* documents or testimony to experts, consultants, prospective witnesses, or witnesses, shall make application to the presiding officer setting forth the justification therefor. The presiding officer, in granting such application for good cause found, shall enter an order protecting the rights of the affected parties and preventing unnecessary disclosure of information. *In camera* documents and the transcript of testimony subject to an *in camera* order shall be segregated from the public record and filed in a sealed envelope, bearing the title and docket number of the proceeding, the notation *“In Camera* Record under § 3010.323,” and the date on which *in camera* treatment expires.
+
+(c) *Release of in camera information. In camera* documents and testimony shall constitute a part of the confidential records of the Commission. However, the Commission, on its own motion or pursuant to a request, may make *in camera* documents and testimony available for inspection, copying, or use by any other governmental agency. The Commission shall, in such circumstances, give reasonable notice of the impending disclosure to the affected party. However, such notice may be waived in extraordinary circumstances for good cause.
+
+(d) *Briefing of in camera information.* In the submittal of proposed findings, briefs, or other papers, counsel for all parties shall make a good faith attempt to refrain from disclosing the specific details of *in camera* documents and testimony. This shall not preclude references in such proposed findings, briefs, or other papers to such documents or testimony including generalized statements based on their contents. To the extent that counsel consider it necessary to include specific details of *in camera* data in their presentations, such data shall be incorporated in separate proposed findings, briefs, or other papers marked “confidential,” which shall be placed *in camera* and become a part of the *in camera* record.

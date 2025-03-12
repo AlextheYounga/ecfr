@@ -1,0 +1,7 @@
+##### § 3011.101 Definitions. #####
+
+(a) *Non-public materials* means any documents or things that are provided to the Commission and identified as containing non-public information. The Postal Service may claim that information that would be exempt from disclosure pursuant to 39 U.S.C. 410(c), 504(g), 3652(f), or 3654(f) is non-public information. Any person other than the Postal Service with a proprietary interest in the materials may claim that information that would be protectable under Federal Rule of Civil Procedure 26(c) is non-public information. Any person may claim that information that is exempt from public disclosure under 5 U.S.C. 552(b) is non-public information. Non-public materials cease to be non-public if the status has expired or has been terminated by the Commission pursuant to this part. Except as provided by § 3011.205, non-public materials cease to be non-public if the submitter publicly discloses the materials with the consent of each affected person with a propriety interest in the materials (if applicable). The cessation of non-public status applies to the particular document or thing and the particular information contained therein (in whole or in part, as applicable).
+
+(b) *Submitter* means any natural or legal person, including the Postal Service, that provides non-public materials to the Commission and seeks non-public treatment in accordance with the rules of this part.
+
+[83 FR 31281, July 3, 2018, as amended at 85 FR 9641, Feb. 19, 2020]

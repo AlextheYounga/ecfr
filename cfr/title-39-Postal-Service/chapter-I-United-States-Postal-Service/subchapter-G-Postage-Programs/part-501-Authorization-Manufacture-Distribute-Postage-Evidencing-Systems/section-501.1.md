@@ -1,5 +1,7 @@
 ##### § 501.1 Definitions. #####
 
+Link to an amendment published at 85 FR 21775, Apr. 20, 2020.
+
 (a) *Postage Evidencing Systems* regulated by part 501 produce evidence of prepayment of postage by any method other than postage stamps and permit imprints. A Postage Evidencing System is a device or system of components that a customer uses to generate and print evidence that postage required for mailing has been paid. Postage Evidencing Systems print indicia, such as meter imprints or information-based indicia to indicate postage payment. They include but are not limited to postage meters and PC Postage systems.
 
 (b) A *postage meter* is a Postal Service-approved Postage Evidencing System that uses a device to account for postage purchased and printed. The term *meter* as used in this part refers to a postage meter.

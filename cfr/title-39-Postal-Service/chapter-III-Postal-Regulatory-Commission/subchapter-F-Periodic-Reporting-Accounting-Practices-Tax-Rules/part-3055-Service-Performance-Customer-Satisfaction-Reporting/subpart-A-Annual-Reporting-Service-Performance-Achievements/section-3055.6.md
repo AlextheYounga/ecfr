@@ -1,0 +1,3 @@
+##### § 3055.6 Addition of new market dominant products or changes to existing market dominant products. #####
+
+Whenever the Postal Service proposes the addition of a new market dominant product or a change to an existing market dominant product, it also shall propose new or revised (as necessary) service performance measurement systems, service standards, service goals, data reporting elements, and data reporting methodologies.

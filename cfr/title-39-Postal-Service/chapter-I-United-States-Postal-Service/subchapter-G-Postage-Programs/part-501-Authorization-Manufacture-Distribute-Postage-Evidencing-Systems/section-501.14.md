@@ -1,5 +1,7 @@
 ##### § 501.14 Postage Evidencing System inventory control processes. #####
 
+Link to an amendment published at 85 FR 21777, Apr. 20, 2020.
+
 (a) Each authorized provider of Postage Evidencing Systems must permanently hold title to all Postage Evidencing Systems that it manufactures or distributes, except those purchased by the Postal Service or distributed outside the United States.
 
 (b) An authorized provider must maintain sufficient facilities for and records of the business relationship, distribution, control, storage, maintenance, repair, replacement, and destruction or disposal of all Postage Evidencing Systems and their components to enable accurate accounting and location thereof throughout the entire life cycle of each Postage Evidencing System. A complete record shall entail a list by serial number of all Postage Evidencing Systems manufactured or distributed showing all movements of each system from the time that it is produced until it is scrapped, and the reading of the ascending register each time the system is checked into or out of service. These records must be available for inspection by Postal Service officials at any time during business hours.

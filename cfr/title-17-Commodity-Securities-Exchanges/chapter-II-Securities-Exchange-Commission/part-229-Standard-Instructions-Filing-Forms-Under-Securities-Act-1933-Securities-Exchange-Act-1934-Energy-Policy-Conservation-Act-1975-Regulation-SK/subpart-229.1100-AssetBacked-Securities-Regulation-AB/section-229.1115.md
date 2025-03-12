@@ -1,5 +1,7 @@
 ##### § 229.1115 (Item 1115) Certain derivatives instruments. #####
 
+Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
+
 This item relates to derivative instruments, such as interest rate and currency swap agreements, that are used to alter the payment characteristics of the cashflows from the issuing entity and whose primary purpose is not to provide credit enhancement related to the pool assets or the asset-backed securities. For purposes of this section, the “significance estimate” of the derivative instrument is to be determined based on a reasonable good-faith estimate of maximum probable exposure, made in substantially the same manner as that used in the sponsor's internal risk management process in respect of similar instruments. The “significance percentage” is the percentage that the amount of the significance estimate represents of the aggregate principal balance of the pool assets, provided, that if the derivative instrument relates only to one or more classes of the asset-backed securities, the “significance percentage” is the percentage that the amount of the significance estimate represents of the aggregate principal balance of such classes.
 
 (a) *Descriptive information.* (1) Describe the following regarding the external counterparty:

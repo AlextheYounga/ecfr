@@ -1,0 +1,9 @@
+##### § 3020.121 Surrebuttal testimony. #####
+
+(a) *Scope.* Surrebuttal testimony shall be limited to material issues relevant to the Postal Service's proposal and to the rebuttal testimony which the surrebuttal testimony seeks to address. Testimony that exceeds the scope of the Postal Service's proposal or rebuttal testimony shall not be permitted.
+
+(b) *Motion for leave to file surrebuttal.* A participant who wishes to file surrebuttal testimony must obtain prior approval by filing with the Commission a motion for leave to file surrebuttal pursuant to § 3020.105(d) on or before the date provided in the procedural schedule established by the Commission. The motion must summarize the surrebuttal testimony the participant wishes to file and must identify and explain exceptional circumstances that require the filing of such testimony. The moving participant bears the burden of demonstrating exceptional circumstances that warrant a grant of the motion. Answers to such motions may be filed as provided in § 3020.105(d).
+
+(c) *Deadline for filing surrebuttal authorized by the Commission.* In the event the Commission grants the motion for leave to file surrebuttal testimony, the moving participant must file its proposed surrebuttal testimony by the date provided in the procedural schedule established pursuant to § 3020.110.
+
+(d) *Adjustment of procedural dates.* If no participant files a motion for leave to file surrebuttal testimony, or if the Commission denies all such motions as may be filed, the remaining dates in the procedural schedule may be adjusted by the Commission as it deems to be necessary and appropriate.

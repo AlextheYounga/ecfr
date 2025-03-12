@@ -1,15 +1,17 @@
 ##### § 120.435 Which loan pledges do not require notice to or consent by SBA? #####
 
-Notwithstanding the provisions of § 120.434(e), 7(a) loans may be pledged for the following purposes without notice to or consent by SBA:
+(a) Notwithstanding the provisions of § 120.434(e), 7(a) loans may be pledged for the following purposes without notice to or consent by SBA:
 
-(a) Treasury tax and loan accounts;
+(1) Treasury tax and loan accounts;
 
-(b) The deposit of public funds;
+(2) The deposit of public funds;
 
-(c) Uninvested trust funds;
+(3) Uninvested trust funds;
 
-(d) Discount borrowings at a Federal Reserve Bank; or
+(4) Borrowings from a Federal Reserve Bank; or
 
-(e) Advances by a Federal Home Loan Bank.
+(5) Advances by a Federal Home Loan Bank.
 
-[64 FR 6507, Feb. 10, 1999, as amended at 73 FR 75511, Dec. 11, 2008]
+(b) For purposes of the Paycheck Protection Program (PPP), the other provisions of § 120.434 shall also not apply to PPP loans pledged under paragraph (a)(4) or (5) of this section.
+
+[85 FR 21752, Apr. 20, 2020]

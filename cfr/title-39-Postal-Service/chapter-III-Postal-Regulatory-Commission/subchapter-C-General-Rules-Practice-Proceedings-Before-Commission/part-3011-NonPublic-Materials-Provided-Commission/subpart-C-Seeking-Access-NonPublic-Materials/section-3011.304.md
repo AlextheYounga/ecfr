@@ -1,0 +1,9 @@
+##### § 3011.304 Termination and amendment of access to non-public materials. #####
+
+(a) *Termination of access.* (1) Except as provided in paragraph (b) of this section, access to non-public materials granted under § 3011.301 terminates either when the Commission issues the final order or report concluding the proceeding(s) in which the participant who filed the motion seeking access represented that the non-public materials would be used, or when the person granted access withdraws or is otherwise no longer involved in the proceeding(s), whichever occurs first. For purposes of this paragraph, an order or report is not considered final until after the possibility of judicial review expires (including the completion of any Commission response to judicial review, if applicable).
+
+(2) Upon termination of access, all non-public materials, and any duplicates, in the possession of each person (and any individual working on behalf of that person) granted access shall be destroyed or returned to the Commission. The participant who filed the motion seeking access shall file with the Commission a notice of termination of access and attach a certification of compliance with protective conditions executed by each person (and any individual working on behalf of that person) granted access to the non-public materials. The template Certification of Compliance with Protective Conditions and Termination of Access in Appendix A to this subpart may be used and modified to comply with this requirement.
+
+(b) *Amendment of access.* Any person may file a motion seeking to amend any protective conditions related to access of non-public materials, including extending the timeframe for which access is granted or expanding the persons to whom access is to be granted, in accordance with § 3011.301.
+
+[83 FR 31281, July 3, 2018, as amended at 85 FR 9643, Feb. 19, 2020]

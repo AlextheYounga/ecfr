@@ -102,7 +102,11 @@
 
 (25) A nonimmigrant treaty alien in a specialty occupation (E-3) pursuant to section 101(a)(15)(E)(iii) of the Act; or
 
-(26)-(36) [Reserved]
+(26)(i) Pursuant to 8 CFR 214.2(h)(21) and notwithstanding 8 CFR 214.2(h)(2)(i)(D) and paragraph (b)(21) of this section, an alien is authorized to be employed, but no earlier than the start date of employment indicated in the H-2A petition, by a new employer that has filed an H-2A petition naming the alien as a beneficiary and requesting an extension of stay for the alien, for a period not to exceed 45 days beginning from the “Received Date” on Form I-797 (Notice of Action) acknowledging receipt of the petition requesting an extension of stay, or 45 days beginning on the start date of employment if the start date of employment indicated in the H-2A petition occurs after the filing. The length of the period (up to 45 days) is to be determined by USCIS in its discretion. However, if USCIS adjudicates the petition prior to the expiration of this 45-day period and denies the petition for extension of stay, or if the petitioner withdraws the petition before the expiration of the 45-day period, the employment authorization under this paragraph (b)(26) will automatically terminate upon 15 days after the date of the denial decision or the date on which the petition is withdrawn.
+
+(ii) This paragraph (b)(26) is in effect for the period set forth in 8 CFR 214.2(h)(21)(iii).
+
+(27)-(36) [Reserved]
 
 (37) An alien paroled into the United States as an entrepreneur pursuant to 8 CFR 212.19 for the period of authorized parole. An entrepreneur who has timely filed a non-frivolous application requesting re-parole with respect to the same start-up entity in accordance with 8 CFR 212.19 prior to the expiration of his or her parole, but whose authorized parole period expires during the pendency of such application, is authorized to continue employment with the same start-up entity for a period not to exceed 240 days beginning on the date of expiration of parole. Such authorization shall be subject to any conditions and limitations on such expired parole. If DHS adjudicates the application prior to the expiration of this 240-day period and denies the application for re-parole, the employment authorization under this paragraph shall automatically terminate upon notification to the alien of the denial decision.
 
@@ -198,4 +202,4 @@
 
 (e) *Basic criteria to establish economic necessity.* Title 45 - Public Welfare, Poverty Guidelines, 45 CFR 1060.2 should be used as the basic criteria to establish eligibility for employment authorization when the alien's economic necessity is identified as a factor. The alien shall submit an application for employment authorization listing his or her assets, income, and expenses as evidence of his or her economic need to work. Permission to work granted on the basis of the alien's application for employment authorization may be revoked under § 274a.14 of this chapter upon a showing that the information contained in the statement was not true and correct.
 
-[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 21745, Apr. 20, 2020, § 274a.12 was amended by adding paragraph (b)(26), effective Apr. 20, 2020 through Aug. 18, 2020.

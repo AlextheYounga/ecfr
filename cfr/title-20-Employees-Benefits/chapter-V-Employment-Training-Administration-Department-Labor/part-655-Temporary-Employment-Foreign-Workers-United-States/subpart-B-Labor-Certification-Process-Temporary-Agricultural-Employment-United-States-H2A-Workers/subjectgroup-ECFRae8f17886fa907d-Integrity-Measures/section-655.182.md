@@ -1,7 +1,5 @@
 ##### § 655.182 Debarment. #####
 
-Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
-
 (a) *Debarment of an employer.* The OFLC Administrator may debar an employer or any successor in interest to that employer from receiving future labor certifications under this subpart, subject to the time limits set forth in paragraph (c) of this section, if the OFLC Administrator finds that the employer substantially violated a material term or condition of its temporary labor certification, with respect to H-2A workers, workers in corresponding employment, or U.S. workers improperly rejected for employment, or improperly laid off or displaced.
 
 (b) *Debarment of an agent or attorney.* The OFLC Administrator may debar an agent or attorney from participating in any action under 8 U.S.C. 1188, this subpart, or 29 CFR part 501, if the OFLC Administrator finds that the agent or attorney participated in an employer's substantial violation. The OFLC Administrator may not issue future labor certifications under this subpart to any employer represented by a debarred agent or attorney, subject to the time limits set forth in paragraph (c) of this section.
@@ -70,7 +68,7 @@ Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
 
 (iii) Where the ARB has determined to review such decision and order, the ARB will notify each party of the issue(s) raised, the form in which submissions must be made (e.g., briefs or oral argument), and the time within which such presentation must be submitted.
 
-(6) *ARB decision.* The ARB's final decision must be issued within 90 days from the notice granting the petition and served upon all parties and the ALJ. If the ARB fails to provide a decision within 90 days from the notice granting the petition, the ALJ's decision will be the final agency decision.
+(6) *ARB decision.* The ARB's decision must be issued within 90 days from the notice granting the petition and served upon all parties and the ALJ. If the ARB fails to issue a decision within 90 days from the notice granting the petition, the ALJ's decision will be the final agency decision.
 
 (g) *Concurrent debarment jurisdiction.* OFLC and the WHD have concurrent jurisdiction to impose a debarment remedy under this section or under 29 CFR 501.20. When considering debarment, OFLC and the WHD may inform one another and may coordinate their activities. A specific violation for which debarment is imposed will be cited in a single debarment proceeding. Copies of final debarment decisions will be forwarded to DHS promptly.
 
@@ -79,3 +77,5 @@ Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
 (i) *Debarment involving associations acting as joint employers.* If the OFLC Administrator determines that an association acting as a joint employer with its members has committed a substantial violation, the debarment determination will apply only to the association, and will not be applied to any individual employer-member of the association. However, if the OFLC Administrator determines that the member participated in, had knowledge of, or had reason to know of the violation, the debarment may be invoked against the complicit association member as well. An association debarred from the H-2A temporary labor certification program will not be permitted to continue to file as a joint employer with its members during the period of the debarment.
 
 (j) *Debarment involving associations acting as sole employers.* If the OFLC Administrator determines that an association acting as a sole employer has committed a substantial violation, the debarment determination will apply only to the association and any successor in interest to the debarred association.
+
+[75 FR 6959, Feb. 12, 2010, as amended at 85 FR 13029, Mar. 6, 2020]

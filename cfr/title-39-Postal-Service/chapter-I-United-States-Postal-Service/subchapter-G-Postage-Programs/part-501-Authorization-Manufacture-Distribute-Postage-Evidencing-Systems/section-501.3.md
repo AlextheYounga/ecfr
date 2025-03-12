@@ -1,5 +1,7 @@
 ##### § 501.3 Postage Evidencing System provider qualification. #####
 
+Link to an amendment published at 85 FR 21776, Apr. 20, 2020.
+
 Any person or entity seeking authorization to manufacture and/or distribute Postage Evidencing Systems must:
 
 (a) Satisfy the Postal Service of its integrity and financial responsibility.

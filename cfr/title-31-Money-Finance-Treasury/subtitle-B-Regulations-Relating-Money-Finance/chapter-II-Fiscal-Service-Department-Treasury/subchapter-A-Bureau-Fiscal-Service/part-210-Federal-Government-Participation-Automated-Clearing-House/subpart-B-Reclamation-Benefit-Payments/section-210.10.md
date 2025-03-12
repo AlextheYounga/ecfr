@@ -1,10 +1,12 @@
 ##### § 210.10 RDFI liability. #####
 
-Link to an amendment published at 85 FR 15721, Mar. 19, 2020.
-
 (a) *Full liability.* An RDFI shall be liable to the Federal Government for the total amount of all benefit payments received after the death or legal incapacity of a recipient or the death of a beneficiary unless the RDFI has the right to limit its liability under § 210.11 of this part. An RDFI shall return any benefit payments received after the RDFI becomes aware of the death or legal incapacity of a recipient or the death of a beneficiary, regardless of the manner in which the RDFI discovers such information. If the RDFI learns of the death or legal incapacity of a recipient or death of a beneficiary from a source other than notice from the agency issuing payments to the recipient, the RDFI shall immediately notify the agency of the death or incapacity. The proper use of the R15 or R14 return reason code shall be deemed to constitute such notice.
 
-(b) *Notice of reclamation.* Upon receipt of a notice of reclamation, an RDFI shall provide the information required by the notice of reclamation and return the amount specified in the notice of reclamation in a timely manner.
+(b) *Actual or Constructive Knowledge of Death.* Actual or constructive knowledge, when used in reference to an RDFI's or agency's knowledge of the death or incapacity of a recipient or death of a beneficiary, means that the RDFI or agency received information, by whatever means, of the death or incapacity and has had a reasonable opportunity to act on such information or that the RDFI or agency would have learned of the death or incapacity if it had followed commercially reasonable business practices. For purposes of this subpart, an agency is presumed to have constructive knowledge of death or incapacity at the time it stops certifying recurring payments to a recipient if the agency:
+
+(1) Does not re-initiate payments to the recipient; and
+
+(2) Subsequently initiates a reclamation for one or more payments made to the recipient.
 
 (c) *Exception to liability rule.* An RDFI shall not be liable for post-death benefit payments sent to a recipient acting as a representative payee or fiduciary on behalf of a beneficiary, if the beneficiary was deceased at the time the authorization was executed and the RDFI did not have actual or constructive knowledge of the death of the beneficiary.
 
@@ -12,4 +14,4 @@ Link to an amendment published at 85 FR 15721, Mar. 19, 2020.
 
 (e) *Debit of RDFI's account.* If an RDFI does not return the full amount of the outstanding total or any other amount for which the RDFI is liable under this subpart in a timely manner, the Federal Government will collect the amount outstanding by instructing the appropriate Federal Reserve Bank to debit the account utilized by the RDFI. The Federal Reserve Bank will provide advice of the debit to the RDFI.
 
-[64 FR 17487, Apr. 9, 1999, as amended at 69 FR 13189, Mar. 19, 2004]
+[64 FR 17487, Apr. 9, 1999, as amended at 69 FR 13189, Mar. 19, 2004; 85 FR 15721, Mar. 19, 2020]

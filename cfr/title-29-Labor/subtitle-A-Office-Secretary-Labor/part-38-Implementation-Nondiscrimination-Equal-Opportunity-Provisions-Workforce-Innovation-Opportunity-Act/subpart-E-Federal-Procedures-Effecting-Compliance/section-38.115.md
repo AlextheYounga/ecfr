@@ -1,7 +1,5 @@
 ##### § 38.115 Post-termination proceedings. #####
 
-Link to an amendment published at 85 FR 13033, Mar. 6, 2020.
-
 (a) A grant applicant or recipient adversely affected by a Final Decision and Order issued under § 38.112(b) will be restored, where appropriate, to full eligibility to receive WIOA Title I financial assistance if the grant applicant or recipient satisfies the terms and conditions of the Final Decision and Order and brings itself into compliance with the nondiscrimination and equal opportunity provisions of WIOA and this part.
 
 (b) A grant applicant or recipient adversely affected by a Final Decision and Order issued under § 38.112(b) may at any time petition the Director to restore its eligibility to receive WIOA Title I financial assistance. A copy of the petition must be served on the parties to the original proceeding that led to the Final Decision and Order. The petition must be supported by information showing the actions taken by the grant applicant or recipient to bring itself into compliance. The grant applicant or recipient has the burden of demonstrating that it has satisfied the requirements of paragraph (a) of this section. While proceedings under this section are pending, sanctions imposed by the Final Decision and Order under § 38.112(b)(1) and (2) must remain in effect.
@@ -16,4 +14,6 @@ Link to an amendment published at 85 FR 13033, Mar. 6, 2020.
 
 (4) The Director may file a response to the petition within 14 days.
 
-(5) The Administrative Review Board must issue the final agency decision denying or granting the recipient's or grant applicant's request for restoration to eligibility.
+(5) The Administrative Review Board must issue a decision denying or granting the recipient's or grant applicant's request for restoration to eligibility.
+
+[81 FR 87211, Dec. 2, 2016, as amended at 85 FR 13033, Mar. 6, 2020]

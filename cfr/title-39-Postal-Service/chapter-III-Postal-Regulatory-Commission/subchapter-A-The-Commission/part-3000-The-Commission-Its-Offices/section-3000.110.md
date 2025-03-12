@@ -1,0 +1,9 @@
+##### § 3000.110 The Commission and its offices. #####
+
+(a) *The Commissioners.* The Postal Regulatory Commission is an independent establishment of the executive branch of the federal government created by the Postal Accountability and Enhancement Act (39 U.S.C. 501).
+
+(b) *The Chairman and Vice Chairman.* The Chairman has the administrative responsibility for assigning the business of the Commission to the other Commissioners and to the offices and employees of the Commission. The Chairman has the administrative duty to preside at the meetings and sessions of the Commission and to represent the Commission in matters specified by statute or executive order or as the Commission directs. The Commission shall elect annually a member of the Commission to serve as Vice Chairman of the Commission for a term of one year or until a successor is elected. In case of a vacancy in the Office of the Chairman of the Commission, or in the absence or inability of the Chairman to serve, the Vice Chairman, unless otherwise directed by the Chairman, shall have the administrative responsibilities and duties of the Chairman during the period of vacancy, absence, or inability.
+
+(c) *Commission offices.* The Commission's offices are located at 901 New York Avenue NW, Suite 200, Washington, DC 20268-0001. On these premises, the Commission maintains offices for Commissioners and staff; a docket room where documents may be filed with the Commission pursuant to part 3010, subpart B of this chapter and examined by interested persons, a public reading room where the Commission's public records are available for inspection and copying; and a hearing room where formal evidentiary proceedings are held on matters before the Commission. The Commission also maintains an electronic reading room accessible through the internet, on its website at *http://www.prc.gov.*
+
+[78 FR 27045, May 9, 2013. Redesignated and amended at 85 FR 9615, 9616, Feb. 19, 2020]

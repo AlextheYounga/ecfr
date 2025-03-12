@@ -20,4 +20,4 @@ Link to an amendment published at 85 FR 15724, Mar. 19, 2020.
 
 (6) All persons and vessels shall comply with the instructions of on-scene patrol personnel. On-scene patrol personnel include commissioned, warrant, or petty officers of the U.S. Coast Guard. Coast Guard Auxiliary and local or state officials may be present to inform vessel operators of the requirements of this section, and other applicable laws.
 
-[COTP SAN JUAN 97-045, 63 FR 27681, May 20, 1998, as amended by USCG-2001-9286, 66 FR 33641, June 25, 2001; USCG-2008-0179, 73 FR 35017, June 19, 2008]
+[COTP SAN JUAN 97-045, 63 FR 27681, May 20, 1998, as amended by USCG-2001-9286, 66 FR 33641, June 25, 2001; USCG-2008-0179, 73 FR 35017, June 19, 2008]Editorial Note:By USCG-2019-0460, 85 FR 15724, Mar. 19, 2020, § 165.754 was amended added; however, the amendment could not be incorporated because the section already existed.

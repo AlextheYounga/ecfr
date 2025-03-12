@@ -1,0 +1,5 @@
+##### § 3021.30 Suspension pending review. #####
+
+(a) *Application.* Application for suspension of a determination of the Postal Service to close or consolidate any post office pending the outcome of an appeal to the Postal Regulatory Commission shall be made at the time of the filing of a Petition for Review. The application shall show the reasons for the relief requested and the facts relied upon, and if the facts are subject to dispute the application shall be supported by affidavits or other sworn statements or copies thereof. The applicant must be a person served by the affected post office. Immediate notice of the application shall be given to all parties to the proceeding. The application shall be filed with the Secretary of the Commission.
+
+(b) *Answer and filing of the relevant record by the Postal Service.* Within 10 days after the application for suspension is filed, the Postal Service shall file with the Secretary of the Commission and serve on the petitioners an answer to the application supported by affidavits or other sworn statements or copies thereof.

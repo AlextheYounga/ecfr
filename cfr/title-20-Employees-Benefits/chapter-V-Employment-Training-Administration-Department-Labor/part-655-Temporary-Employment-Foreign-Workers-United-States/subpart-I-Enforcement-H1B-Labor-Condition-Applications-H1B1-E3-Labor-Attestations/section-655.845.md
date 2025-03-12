@@ -1,7 +1,5 @@
 ##### § 655.845 What rules apply to appeal of the decision of the administrative law judge? #####
 
-Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
-
 (a) The Administrator or any interested party desiring review of the decision and order of an administrative law judge, including judicial review, shall petition the Department's Administrative Review Board (Board) to review the decision and order. To be effective, such petition shall be received by the Board within 30 calendar days of the date of the decision and order. Copies of the petition shall be served on all parties and on the administrative law judge.
 
 (b) No particular form is prescribed for any petition for the Board's review permitted by this subpart. However, any such petition shall:
@@ -36,8 +34,8 @@ Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
 
 (g) Copies of all documents filed with the Board shall be served upon all other parties involved in the proceeding. Service upon the Administrator shall be in accordance with § 655.830(b).
 
-(h) The Board's final decision shall be issued within 180 calendar days from the date of the notice of intent to review. The Board's decision shall be served upon all parties and the administrative law judge.
+(h) The Board's decision shall be issued within 180 calendar days from the date of the notice of intent to review. The Board's decision shall be served upon all parties and the administrative law judge.
 
-(i) Upon issuance of the Board's decision, the Board shall transmit the entire record to the Chief Administrative Law Judge for custody pursuant to § 655.850.
+(i) After the Board's decision becomes final, the Board shall transmit the entire record to the Chief Administrative Law Judge for custody pursuant to § 655.850.
 
-[65 FR 80237, Dec. 20, 2000]
+[65 FR 80237, Dec. 20, 2000, as amended at 85 FR 13029, Mar. 6, 2020]

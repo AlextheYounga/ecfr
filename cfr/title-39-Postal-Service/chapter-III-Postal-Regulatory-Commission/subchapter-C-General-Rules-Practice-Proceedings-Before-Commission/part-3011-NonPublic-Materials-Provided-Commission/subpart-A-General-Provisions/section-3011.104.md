@@ -1,0 +1,5 @@
+##### § 3011.104 Standard for public disclosure of materials claimed to contain non-public information. #####
+
+(a) In determining whether to publicly disclose materials claimed by the Postal Service to contain non-public information, the Commission shall balance the nature and extent of the likely commercial injury identified by the Postal Service against the public interest in maintaining the financial transparency of a government entity competing in commercial markets.
+
+(b) In determining whether to publicly disclose materials in which the Commission determines any person other than the Postal Service has a proprietary interest, the Commission shall balance the interests of the parties consistent with the analysis undertaken by a federal court when applying the protective conditions appearing in Federal Rule of Civil Procedure 26(c).

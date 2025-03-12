@@ -1,0 +1,15 @@
+##### § 3000.115 Office of Public Affairs and Government Relations. #####
+
+Link to an amendment published at 85 FR 9660, Feb. 19, 2020.
+
+(a) The Office of Public Affairs and Government Relations facilitates prompt and responsive communications for the Commission with the public, members of Congress, the Postal Service, state and local governments, and the media.
+
+(b) The Office of Public Affairs and Government Relations has three primary areas of responsibility: Government Relations, Consumer Affairs, and Communications.
+
+(1) *Government Relations.* The Office of Public Affairs and Government Relations is the principal liaison between the Commission and Members of Congress. It develops and maintains effective working relationships with Congressional staff; monitors legislative activity; and advises the Commission and its staff on legislative actions and policies related to the Commission and its mission. The Office of Public Affairs and Government Relations works in conjunction with all Commission offices to ensure that lawmakers are informed of regulatory decisions and policies and that the Commission is responsive to Congressional inquiries for technical information. The Office of Public Affairs and Government Relations also prepares Commissioners and Commission staff when called upon to provide Congressional testimony.
+
+(2) *Consumer Affairs.* As the principal source of outreach and education to the public, the Office of Public Affairs and Government Relations provides information to postal consumers and assists in the resolution of rate and service inquiries from members of the public pursuant to part 3023 of this chapter. It supports the impartial resolution of those inquiries through use of the Postal Service's Office of Consumer Advocate and reports the results to the Commission. The Office of Public Affairs and Government Relations also utilizes procedures available under the Commission's rules and applicable law to assist relevant stakeholders in appeals of Postal Service decisions to close or consolidate individual post offices; maintains a record of service-related inquiries; and posts calendar updates and other public information on the Commission's website.
+
+(3) *Communication.* The Office of Public Affairs and Government Relations also develops public outreach strategies for the Commission, responds to media inquiries, and disseminates information concerning Commission decisions and activities to the public.
+
+[78 FR 27045, May 9, 2013. Redesignated and amended at 85 FR 9615, 9616, 9660, Feb. 19, 2020]

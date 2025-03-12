@@ -1,0 +1,15 @@
+##### § 271.303 Amendments. #####
+
+(a) *Consultation requirements.* (1) For substantive amendments, a railroad shall follow the process, described in its RRP plan pursuant to § 271.209, for consulting with its directly affected employees and submitting a consultation statement to FRA. The requirements of this paragraph (a)(1) do not apply to non-substantive amendments (*e.g.,* amendments that update names and addresses of railroad personnel).
+
+(2) If a railroad and its directly affected employees cannot reach agreement on the proposed contents of a substantive amendment, the directly affected employees may file a statement with FRA under the procedures in § 271.207(e)(1). A railroad's directly affected employees have 15 days following the railroad's submission of a proposed amendment to submit the statement described in this paragraph.
+
+(b) *Filing.* (1) A railroad shall submit any amendment(s) to its approved RRP plan to FRA's Associate Administrator not less than 60 days before the proposed effective date of the amendment(s). The railroad shall file the amendment(s) with a cover letter outlining the proposed change(s) to the approved RRP plan.
+
+(2) If the proposed amendment is limited to adding or changing a name, title, address, or telephone number of a person, FRA approval is not required under the process of this section, although the railroad shall still file the amended RRP plan with FRA's Associate Administrator for Railroad Safety and Chief Safety Officer. These proposed amendments may be implemented by the railroad upon filing with FRA. All other proposed amendments must comply with the formal approval process described by this section.
+
+(c) *Review.* (1) FRA will review a proposed amendment to an RRP plan within 45 days of receipt. FRA will then notify the primary contact person of the railroad regarding whether FRA has approved the proposed amendment. FRA will also provide this notification to each individual identified in the service list accompanying the consultation statement required under paragraph (a)(1) of this section. If not approved, FRA will inform the railroad and the individuals identified in the service list of the specific points in which the proposed amendment is deficient.
+
+(2) If FRA has not notified the railroad and the individuals identified in the service list by the proposed effective date of the amendment whether the amendment has been approved or not, the railroad may implement the amendment, subject to FRA's decision.
+
+(3) If a proposed RRP plan amendment is not approved by FRA, no later than 60 days following the receipt of FRA's written notice, the railroad shall either provide FRA a corrected copy of the amendment that addresses all deficiencies noted by FRA or notice that the railroad is retracting the amendment.

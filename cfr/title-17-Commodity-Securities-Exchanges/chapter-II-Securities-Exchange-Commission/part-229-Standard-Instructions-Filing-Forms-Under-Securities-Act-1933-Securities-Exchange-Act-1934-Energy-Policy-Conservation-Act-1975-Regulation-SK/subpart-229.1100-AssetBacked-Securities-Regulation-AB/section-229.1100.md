@@ -1,5 +1,7 @@
 ##### § 229.1100 (Item 1100) General. #####
 
+Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
+
 (a) *Application of Regulation AB.* Regulation AB (§§ 229.1100 through 229.1125) is the source of various disclosure items and requirements for “asset-backed securities” filings under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) (the “Securities Act”) and the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78a *et seq.*). Unless otherwise specified, definitions to be used in this Regulation AB, including the definition of “asset-backed security,” are set forth in Item 1101.
 
 (b) *Presentation of historical delinquency and loss information.* Several Items in Regulation AB call for the presentation of historical information and data on delinquencies and loss information. In providing such information:

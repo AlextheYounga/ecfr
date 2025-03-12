@@ -1,6 +1,6 @@
 ##### § 29.14 Derecognition of State Apprenticeship Agencies. #####
 
-Link to an amendment published at 85 FR 13033, Mar. 6, 2020.Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14388, Mar. 11, 2020.
+Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14388, Mar. 11, 2020.
 
 The recognition for Federal purposes of a State Apprenticeship Agency may be withdrawn for the failure to fulfill, or operate in conformity with, the requirements of parts 29 and 30. Derecognition proceedings for reasonable cause will be instituted in accordance with the following:
 
@@ -26,7 +26,7 @@ The recognition for Federal purposes of a State Apprenticeship Agency may be wit
 
 (2) Fails to comply or to request a hearing, the Office of Apprenticeship shall decide whether recognition should be withdrawn. If the decision is in the affirmative, the Administrator must begin the process of transferring registrations in paragraph (d).
 
-(3) Requests a hearing. The Administrator shall refer the matter to the Office of Administrative Law Judges. An Administrative Law Judge will convene a hearing in accordance with § 29.13(g) and submit proposed findings and a recommended decision to the Administrative Review Board for final agency action. The Administrative Review Board must decide any case it accepts for review within 180 days of the close of the record. If not so decided, the Administrative Law Judge's decision constitutes final agency action.
+(3) *Requests a hearing.* The Administrator shall refer the matter to the Office of Administrative Law Judges. An Administrative Law Judge will convene a hearing in accordance with § 29.13(g) and submit proposed findings and a recommended decision to the Administrative Review Board. The Administrative Review Board must issue a decision in any case it accepts for review within 180 days of the close of the record. If a decision is not so issued, the Administrative Law Judge's decision constitutes final agency action.
 
 (d) If the Administrative Review Board determines to withdraw recognition for Federal purposes or if the Office of Apprenticeship has decided that recognition should be withdrawn under paragraph (c)(2) of this section, the Administrator must:
 
@@ -56,4 +56,4 @@ The recognition for Federal purposes of a State Apprenticeship Agency may be wit
 
 (i) A State Apprenticeship Agency whose recognition has been withdrawn under this part may have its recognition reinstated upon presentation of adequate evidence that it has fulfilled the requirements established in §§ 29.13(i) and 29.14(g) and (h) and is operating in conformity with the requirements of this part.
 
-[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92108, Dec. 19, 2016]
+[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92108, Dec. 19, 2016; 85 FR 13033, Mar. 6, 2020]

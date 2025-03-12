@@ -1,0 +1,5 @@
+##### § 3021.3 Notice by the Postal Service. #####
+
+(a) Pursuant to section 404(d) of title 39, United States Code, any decision to close or consolidate a post office must be preceded by 60 days' notice to persons served by such post office, the opportunity for such persons to present their views, and a written determination based upon consideration of each of the factors listed in section 404(d)(2) of title 39, United States Code.
+
+(b) This notice must include a provision stating that, pursuant to section 404(d)(5) of title 39, United States Code, a final Postal Service determination to close or consolidate a post office may be appealed by any person served by such office to the Postal Regulatory Commission at 901 New York Avenue NW., Suite 200, Washington, DC 20268-0001, within 30 days after such determination is made available to such person by the Postal Service.

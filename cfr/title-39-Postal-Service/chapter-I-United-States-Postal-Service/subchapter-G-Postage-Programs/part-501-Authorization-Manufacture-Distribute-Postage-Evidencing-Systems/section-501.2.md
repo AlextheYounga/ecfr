@@ -1,5 +1,7 @@
 ##### § 501.2 Postage Evidencing System provider authorization. #####
 
+Link to an amendment published at 85 FR 21775, Apr. 20, 2020.
+
 (a) The Postal Service considers Postage Evidencing Systems and their respective infrastructure to be essential to the exercise of its specific powers to prescribe postage and provide evidence of payment of postage under 39 U.S.C. 404(a)(2) and (4).
 
 (b) Due to the potential for adverse impact upon Postal Service revenue, the following activities may not be engaged in by any person or entity without prior, written approval of the Postal Service:

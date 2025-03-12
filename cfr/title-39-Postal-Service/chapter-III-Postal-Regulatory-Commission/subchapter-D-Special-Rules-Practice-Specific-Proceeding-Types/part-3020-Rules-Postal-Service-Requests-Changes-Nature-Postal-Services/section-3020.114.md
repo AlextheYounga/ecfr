@@ -1,0 +1,3 @@
+##### § 3020.114 Filing of prepared direct evidence. #####
+
+As part of a formal request for an advisory opinion under this subpart, the Postal Service shall file all of the prepared direct evidence upon which it proposes to rely in the proceeding on the record before the Commission to establish that the proposed change in the nature of postal services is in accordance with and conforms to the policies of title 39, United States Code. Such prepared direct evidence shall be in the form of prepared written testimony and documentary exhibits which shall be filed in accordance with §§ 3010.322 and 3010.323 of this chapter.

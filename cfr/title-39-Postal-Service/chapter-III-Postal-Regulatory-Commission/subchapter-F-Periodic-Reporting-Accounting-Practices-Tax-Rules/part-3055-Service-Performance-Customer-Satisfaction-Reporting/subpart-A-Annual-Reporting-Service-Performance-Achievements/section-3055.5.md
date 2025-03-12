@@ -1,0 +1,3 @@
+##### § 3055.5 Changes to measurement systems, service standards, service goals, or reporting methodologies. #####
+
+The Postal Service shall file notice with the Commission describing all changes to measurement systems, service standards, service goals or reporting methodologies, including the use of proxies for reporting service performance, 30 days prior to planned implementation. The Commission may initiate a proceeding at any time to consider such changes if it appears that the changes might have a material impact on the accuracy, reliability, or utility of the reported measurement, or if the changes might have a material impact on the characteristics of the underlying product.

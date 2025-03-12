@@ -1,5 +1,7 @@
 ##### § 229.1112 (Item 1112) Significant obligors of pool assets. #####
 
+Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
+
 (a) *Descriptive information.* Provide the following information for each significant obligor:
 
 (1) The name of the obligor.

@@ -1,5 +1,7 @@
 ##### § 210.3-10 Financial statements of guarantors and issuers of guaranteed securities registered or being registered. #####
 
+Link to an amendment published at 85 FR 21999, Apr. 20, 2020.
+
 (a)(1) *General rule.* Every issuer of a registered security that is guaranteed and every guarantor of a registered security must file the financial statements required for a registrant by Regulation S-X.
 
 (2) *Operation of this rule.* Paragraphs (b), (c), (d), (e) and (f) of this section are exceptions to the general rule of paragraph (a)(1) of this section. Only one of these paragraphs can apply to a single issuer or guarantor. Paragraph (g) of this section is a special rule for recently acquired issuers or guarantors that overrides each of these exceptions for a specific issuer or guarantor. Paragraph (h) of this section defines the following terms used in this section: 100% owned, full and unconditional, annual report, quarterly report, no independent assets or operations, minor, finance subsidiary and operating subsidiary. Paragraph (i) of this section states the requirements for preparing the condensed consolidating financial information required by paragraphs (c), (d), (e) and (f) of this section.

@@ -1,5 +1,7 @@
 ##### § 239.31 Form F-1, registration statement under the Securities Act of 1933 for securities of certain foreign private issuers. #####
 
+Link to an amendment published at 85 FR 22004, Apr. 20, 2020.
+
 (a) Form F-1 shall be used for registration under the Securities Act of 1933 (“Securities Act”) of securities of all foreign private issuers, as defined in rule 405 (§ 230.405 of this chapter) for which no other form is authorized or prescribed. In addition, this form shall not be used for an offering of asset-backed securities, as defined in § 229.1101 of this chapter.
 
 (b) If a registrant is a majority-owned subsidiary, which does not itself meet the conditions of these eligibility requirements, it shall nevertheless be deemed to have met such conditions if its parent meets the conditions and if the parent fully guarantees the securities being registered as to principal and interest.

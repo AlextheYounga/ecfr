@@ -1,0 +1,3 @@
+##### § 3010.320 Settlement conferences. #####
+
+Any party to a proceeding may submit offers of settlement or proposals of adjustment at any time and may request a conference between the parties to consider such offers or proposals. The Commission or the presiding officer shall afford the parties appropriate opportunity prior to or during the hearing for conferences for the purpose of considering such offers or proposals as time, the nature of the proceeding, and the public interest permit. Unaccepted offers of settlement or adjustment and proposed stipulations not agreed to shall be privileged and shall not be admissible in evidence against any party claiming such privilege.

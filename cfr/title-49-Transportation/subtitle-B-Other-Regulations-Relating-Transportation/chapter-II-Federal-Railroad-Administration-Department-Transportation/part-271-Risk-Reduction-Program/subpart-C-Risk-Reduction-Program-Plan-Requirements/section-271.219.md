@@ -1,0 +1,5 @@
+##### § 271.219 Implementation and support training plan. #####
+
+(a) An RRP plan shall contain a training plan describing the railroad's processes, pursuant to § 271.111, for training employees with significant responsibility for implementing and supporting the RRP (including employees of a person identified pursuant to § 271.205(a)(3) as performing significant safety-related services on the railroad's behalf or utilizing significant safety-related services provided by the railroad for railroad operations purposes who have significant responsibility for implementing and supporting the railroad's RRP).
+
+(b) The training plan shall describe the content of the RRP training for each position or job function identified pursuant to § 271.225(b)(3) as having significant responsibilities for implementing the RRP.

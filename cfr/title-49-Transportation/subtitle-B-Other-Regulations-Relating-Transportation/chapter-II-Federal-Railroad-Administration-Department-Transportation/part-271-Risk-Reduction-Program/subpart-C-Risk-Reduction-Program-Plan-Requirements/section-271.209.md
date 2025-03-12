@@ -1,0 +1,3 @@
+##### § 271.209 Consultation on amendments. #####
+
+A railroad's RRP plan shall include a description of the process the railroad will use to consult with its directly affected employees on any subsequent substantive amendments to the railroad's RRP plan. The requirements of this section do not apply to non-substantive amendments (*e.g.,* amendments that update names and addresses of railroad personnel).

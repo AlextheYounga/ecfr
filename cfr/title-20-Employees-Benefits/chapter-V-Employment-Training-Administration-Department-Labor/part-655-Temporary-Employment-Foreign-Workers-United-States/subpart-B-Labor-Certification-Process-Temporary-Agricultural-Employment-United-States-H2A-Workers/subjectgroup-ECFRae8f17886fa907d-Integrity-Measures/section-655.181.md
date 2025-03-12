@@ -1,7 +1,5 @@
 ##### § 655.181 Revocation. #####
 
-Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
-
 (a) *Basis for DOL revocation.* The OFLC Administrator may revoke a temporary agricultural labor certification approved under this subpart, if the OFLC Administrator finds:
 
 (1) The issuance of the temporary agricultural labor certification was not justified due to fraud or misrepresentation in the application process;
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
 
 (2) *Rebuttal.* The employer may submit evidence to rebut the grounds stated in the Notice of Revocation within 14 calendar days of the date the Notice is issued. If rebuttal evidence is timely filed by the employer, the OFLC Administrator will inform the employer of the OFLC Administrator's final determination on the revocation within 14 calendar days of receiving the rebuttal evidence. If the OFLC Administrator determines that the certification should be revoked, the OFLC Administrator will inform the employer of its right to appeal according to the procedures of § 655.171. The employer must file the appeal within 10 calendar days after the OFLC Administrator's final determination, or the OFLC Administrator's determination is the final agency action and will take effect immediately at the end of the 10-day period.
 
-(3) *Appeal.* An employer may appeal a Notice of Revocation, or a final determination of the OFLC Administrator after the review of rebuttal evidence, according to the appeal procedures of § 655.171. The ALJ's decision is the final agency action.
+(3) *Appeal.* An employer may appeal a Notice of Revocation, or a final determination of the OFLC Administrator after the review of rebuttal evidence, according to the appeal procedures of § 655.171.
 
 (4) *Stay.* The timely filing of rebuttal evidence or an administrative appeal will stay the revocation pending the outcome of those proceedings.
 
@@ -31,3 +29,5 @@ Link to an amendment published at 85 FR 13029, Mar. 6, 2020.
 (3) Payment to the worker of the amount due under the three-fourths guarantee as required by § 655.122(i); and
 
 (4) Any other wages, benefits, and working conditions due or owing to the worker under this subpart.
+
+[75 FR 6959, Feb. 12, 2010, as amended at 85 FR 13029, Mar. 6, 2020]

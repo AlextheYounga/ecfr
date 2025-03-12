@@ -1,3 +1,5 @@
-##### § 74.779 xxx #####
+##### § 74.779 Electronic delivery of notices to LPTV stations. #####
 
-Link to an amendment published at 85 FR 16004, Mar. 20, 2020.
+In accordance with § 76.1600 of this title, beginning July 31, 2020, each licensee of a low power television station or noncommercial educational translator station that is entitled to notices under § 76.64(k), § 76.1601, § 76.1607, or § 76.1617 of this title shall receive such notices via email to the licensee's email address (not a contact representative's email address, if different from the licensee's email address) as displayed publicly in the Commission's Licensing and Management System (LMS), or the primary station's carriage-related email address if the noncommercial educational translator station does not have its own email address listed in LMS. Licensees are responsible for the continuing accuracy and completeness of this information.
+
+[85 FR 16004, Mar. 20, 2020]

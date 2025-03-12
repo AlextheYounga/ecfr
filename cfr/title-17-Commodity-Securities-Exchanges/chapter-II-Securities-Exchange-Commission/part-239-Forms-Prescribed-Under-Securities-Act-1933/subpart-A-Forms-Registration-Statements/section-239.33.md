@@ -1,5 +1,7 @@
 ##### § 239.33 Form F-3, for registration under the Securities Act of 1933 of securities of certain foreign private issuers offered pursuant to certain types of transactions. #####
 
+Link to an amendment published at 85 FR 22004, Apr. 20, 2020.
+
 This instruction set forth registrant requirements and transaction requirements for the use of Form F-3. Any foreign private issuer, as defined in Rule 405 (§ 230.405 of this chapter), which meets the requirements of paragraph (a) of this section (the “Registrant Requirements”) may use this Form for the registration of securities under the Securities Act of 1933 (the “Securities Act”) which are offered in any transaction specified in paragraph (b) of this section (the “Transaction Requirements”), provided that the requirements applicable to the specified transaction are met. With respect to majority-owned subsidiaries, see paragraph (a)(5) of this section. With respect to well-known seasoned issuers and majority-owned subsidiaries of well-known seasoned issuers, see paragraph (c) of this section.
 
 (a) *Registrant requirements.* Except as set forth in this paragraph (a), all registrants must meet the following conditions in order to use this Form F-3 for registration under the Securities Act of securities offered in the transactions specified in paragraph (b) of this section:

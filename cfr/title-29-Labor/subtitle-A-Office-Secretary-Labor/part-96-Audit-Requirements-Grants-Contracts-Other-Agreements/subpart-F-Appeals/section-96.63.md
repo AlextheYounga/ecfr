@@ -1,7 +1,5 @@
 ##### § 96.63 Federal financial assistance. #####
 
-Link to an amendment published at 85 FR 13034, Mar. 6, 2020.
-
 The DOL grantor agencies shall determine which of the two appeal options set forth in paragraphs (a) and (b) of this section the recipient may use to appeal the final determination of the grant officer. All awards within the same Federal financial assistance program shall follow the same appeal procedure.
 
 (a) Appeal to the head of the grantor agency, or his/her designee, for which the audit was conducted.
@@ -28,6 +26,6 @@ The DOL grantor agencies shall determine which of the two appeal options set for
 
 (4) *Filing exceptions to decision.* The decision of the administrative law judge shall constitute final action by the Secretary of Labor, unless, within 21 days after receipt of the decision of the administrative law judge, a party dissatisfied with the decision or any part thereof has filed exceptions with the Administrative Review Board (the Board), specifically identifying the procedure or finding of fact, law, or policy with which exception is taken. Any exceptions not specifically urged shall be deemed to have been waived. Thereafter, the decision of the administrative law judge shall become the decision of the Secretary, unless the Board, within 30 days of such filing, has notified the parties that the case has been accepted for review.
 
-(5) *Review by the Administrative Review Board.* Any case accepted for review by the Administrative Review Boardshall be decided within 180 days of such acceptance. If not so decided, the decision of the administrative law judge shall become the final decision of the Secretary.
+(5) *Review by the Administrative Review Board.* In any case accepted for review by the Administrative Review Board, a decision shall be issued within 180 days of such acceptance. If a decision is not so issued, the decision of the Administrative Law Judge shall become the final decision of the Secretary.
 
-[64 FR 14539, Mar. 25, 1999, as amended at 72 FR 37104, July 9, 2007]
+[64 FR 14539, Mar. 25, 1999, as amended at 72 FR 37104, July 9, 2007; 85 FR 13034, Mar. 6, 2020]

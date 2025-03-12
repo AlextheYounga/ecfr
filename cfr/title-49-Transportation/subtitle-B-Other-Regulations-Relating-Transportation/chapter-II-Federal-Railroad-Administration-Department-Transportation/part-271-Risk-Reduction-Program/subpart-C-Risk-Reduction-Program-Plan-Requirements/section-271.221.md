@@ -1,0 +1,3 @@
+##### § 271.221 Involvement of railroad employees process. #####
+
+An RRP plan shall contain a description of the railroad's processes for involving railroad employees in the establishment and implementation of an RRP pursuant to § 271.113. If a railroad contracts out significant portions of its operations, the contractor and the contractor's employees performing the railroad's operations shall be considered employees for the purposes of this section.

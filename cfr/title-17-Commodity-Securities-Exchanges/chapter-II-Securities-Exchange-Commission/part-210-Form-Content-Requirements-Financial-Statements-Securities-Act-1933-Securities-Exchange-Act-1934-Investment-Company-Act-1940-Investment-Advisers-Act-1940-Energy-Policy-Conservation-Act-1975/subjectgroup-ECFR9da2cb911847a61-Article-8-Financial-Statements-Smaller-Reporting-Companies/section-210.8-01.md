@@ -1,5 +1,7 @@
 ##### § 210.8-01 Preliminary Notes to Article 8. #####
 
+Link to an amendment published at 85 FR 22000, Apr. 20, 2020.
+
 Sections 210.8-01 to 210.8-08 shall be applicable to financial statements filed for smaller reporting companies. These sections are not applicable to financial statements prepared for the purposes of Item 17 or Item 18 of Form 20-F.
 
 Note 1 to § 210.8:

@@ -1,0 +1,9 @@
+##### § 3010.333 Oral argument before the Commission. #####
+
+(a) *When ordered.* In any proceeding before the Commission for decision, the Commission, upon the request of any party or on its own initiative, may order oral argument when, in the Commission's discretion, time permits, and the nature of the proceedings, the complexity or importance of the issues of fact or law involved, and public interest warrants such argument.
+
+(b) *How requested.* Any party in a proceeding before the Commission for decision may request oral argument before the Commission by filing a timely motion. In a proceeding before the Commission on exceptions to an intermediate decision, such motion shall be filed no later than the date for the filing of briefs on exceptions.
+
+(c) *Notice of oral argument.* The Commission shall rule on requests for oral argument, and if argument is allowed, the Commission shall notify the parties of the time and place set for argument, the amount of time allowed each party, and the issue or issues on which oral argument is to be heard. Unless otherwise ordered by the Commission, oral argument shall be limited to matters properly raised on the record and in the briefs before the Commission.
+
+(d) *Use of documents at oral argument.* Charts, graphs, maps, tables, and other written material may be presented to the Commission at oral argument only if limited to facts in the record of the case being argued and if copies of such documents are filed with the Secretary and served on all parties at least seven days in advance of the argument. Enlargements of such charts, graphs, maps, and tables may be used at the argument provided copies are filed and served as required by this paragraph.

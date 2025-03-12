@@ -1,0 +1,3 @@
+##### § 3011.204 Protections for any person other than the submitter with a proprietary interest. #####
+
+Any person other than the submitter with a proprietary interest in materials that have been or will be submitted to the Commission may address any confidentiality concerns directly with the Commission by seeking non-public treatment in accordance with the requirements of this subpart, responding to a motion for access to non-public materials in accordance with the requirements of subpart C of this part, or responding to a motion for disclosure of non-public materials in accordance with the requirements of subpart D of this part.

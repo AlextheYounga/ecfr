@@ -1,0 +1,7 @@
+##### § 271.111 Implementation and support training. #####
+
+(a) A railroad shall provide RRP training to each employee, including an employee of any person identified by the railroad's RRP plan pursuant to § 271.205(a)(3) as performing significant safety-related services on the railroad's behalf or utilizing significant safety-related services provided by the railroad, who has significant responsibility for implementing and supporting the railroad's RRP. This training shall help ensure that all personnel with significant responsibility for implementing and supporting the RRP understand the goals of the program, are familiar with the elements of the railroad's program, and have the requisite knowledge and skills to fulfill their responsibilities under the program.
+
+(b) A railroad shall keep a record of training conducted under this section and update that record as necessary. A railroad shall make training records available for inspection and copying upon the request of representatives of FRA or States participating under part 212 of this chapter.
+
+(c) Training under this section may include, but is not limited to, interactive computer-based training, video conferencing, or formal classroom training.

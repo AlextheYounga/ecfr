@@ -1,0 +1,3 @@
+##### § 271.501 External audits. #####
+
+FRA will conduct (or cause to be conducted) external audits of a railroad's RRP. Each audit shall evaluate the railroad's compliance with the elements of its RRP required by this part. A railroad shall make documentation kept pursuant to its RRP plan available for inspection and copying by representatives of FRA or States participating under part 212 of this chapter upon request. FRA will provide a railroad written notice of the audit results.
