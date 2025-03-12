@@ -20,4 +20,4 @@
 
 (f) The State must, as applicable, implement the alternative public notice procedures at the State level if the State's exemption request is approved and, if required, amend the waiver application request.
 
-[85 FR 71196, Nov. 5, 2020]
+[85 FR 71196, Nov. 6, 2020]

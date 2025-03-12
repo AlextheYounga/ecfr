@@ -1,5 +1,7 @@
 ##### § 50.74 Payment of Federal share of compensation. #####
 
+Link to an amendment published at 86 FR 30540, June 9, 2021.
+
 (a) *Timing.* Treasury will promptly pay to an insurer the Federal share of compensation due the insurer for its insured losses. Payment shall be made in such installments and on such conditions as determined by the Treasury to be appropriate. Any overpayments by Treasury of the Federal share of compensation will be offset from future payments to the insurer or returned to Treasury within 45 days.
 
 (b) *Payment process.* Payment of the Federal share of compensation for insured losses will be made to the insurer designated on the Notice of Deductible Erosion required by § 50.72. An insurer that requests payment of the Federal share of compensation for insured losses must receive payment through electronic funds transfer. The insurer must establish either an account for reimbursement as described in paragraph (c) of this section (if the insurer only seeks reimbursement) or a segregated account as described in paragraph (d) of this section (if the insurer seeks advance payments or a combination of advance payments and reimbursement). Applicable procedures will be posted at *https://www.treasury.gov/resource-center/fin-mkts/Pages/program.aspx* or otherwise will be made publicly available.

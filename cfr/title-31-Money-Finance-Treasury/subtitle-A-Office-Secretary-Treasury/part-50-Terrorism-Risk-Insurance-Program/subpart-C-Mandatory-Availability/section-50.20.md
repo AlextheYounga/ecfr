@@ -1,5 +1,7 @@
 ##### § 50.20 General mandatory availability requirements. #####
 
+Link to an amendment published at 86 FR 30540, June 9, 2021.
+
 (a) *General requirements.* Under section 103(c) of the Act, an insurer must:
 
 (1) Make available, in all of its property and casualty insurance policies, coverage for insured losses; and

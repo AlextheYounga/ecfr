@@ -1295,7 +1295,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |     Fort Smith     |                    18, 21, 27                     |
 |      Harrison      |                        31                         |
 |    Hot Springs     |                        26                         |
-|     Jonesboro      |                    8, \*20, 48                    |
+|     Jonesboro      |                   \*20, 27, 48                    |
 |    Little Rock     |           \*7, 12, 22, 30, 32, \*36, 44           |
 |   Mountain View    |                       \*13                        |
 |     Pine Bluff     |                      24, 39                       |

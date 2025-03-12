@@ -1,5 +1,7 @@
 ##### § 50.103 Procedure for requesting approval of proposed settlements. #####
 
+Link to an amendment published at 86 FR 30541, June 9, 2021.
+
 (a) *Submission of notice.* Insurers must request advance approval of a proposed settlement by submitting a notice of the proposed settlement and other required information in writing to the Terrorism Risk Insurance Program Office or its designated representative. The address where notices are to be submitted will be available at *https://www.treasury.gov/resource-center/fin-mkts/Pages/program.aspx* following any certification of an act of terrorism pursuant to section 102(1) of the Act.
 
 (b) *Complete notice.* Treasury will review requests for advance approval and determine whether additional information is needed to complete the notice.

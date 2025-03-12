@@ -1,7 +1,5 @@
 ##### § 240.13h-l Large trader reporting. #####
 
-Link to an amendment published at 86 FR 18809, Apr. 9, 2021.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) The term *large trader* means any person that:
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 18809, Apr. 9, 2021.
 
 (4) The term *investment discretion* has the same meaning as in Section 3(a)(35) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(3)(a)(35)). A person's employees who exercise investment discretion within the scope of their employment are deemed to do so on behalf of such person.
 
-(5) The term *NMS security* has the meaning provided for in Section 242.600(b)(47) of this chapter.
+(5) The term *NMS security* has the meaning provided for in § 242.600(b)(54) of this chapter.
 
 (6) The term *transaction* or *transactions* means all transactions in NMS securities, excluding the purchase or sale of such securities pursuant to exercises or assignments of option contracts. For the sole purpose of determining whether a person is a large trader, the following transactions are excluded from this definition:
 
@@ -134,4 +132,4 @@ Link to an amendment published at 86 FR 18809, Apr. 9, 2021.
 
 (g) *Exemptions.* Upon written application or upon its own motion, the Commission may by order exempt, upon specified terms and conditions or for stated periods, any person or class of persons or any transaction or class of transactions from the provisions of this section to the extent that such exemption is consistent with the purposes of the Securities Exchange Act of 1934 (15 U.S.C. 78a).
 
-[76 FR 47002, Aug. 3, 2011, as amended at 83 FR 58427, Nov. 19, 2018]
+[76 FR 47002, Aug. 3, 2011, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021]

@@ -158,7 +158,7 @@
 
 (xiii) Civil penalty for knowingly and willfully violating 49 U.S.C. 80502 with respect to the transportation of animals by any rail carrier, express carrier, or common carrier (except by air or water), a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel, codified at 49 U.S.C. 80502(d), has a minimum of $170 and a maximum of $870.
 
-(xiv) Civil penalty for a violation of the Commercial Transportation of Equine for Slaughter Act, 7 U.S.C. 1901 note, and its implementing regulations in 9 CFR part 88, as specified in 9 CFR 88.6, has a maximum of $822. Each horse transported in violation of 9 CFR part 88 is a separate violation.
+(xiv) Civil penalty for a violation of the Commercial Transportation of Equine for Slaughter Act, 7 U.S.C. 1901 note, and its implementing regulations in 9 CFR part 88, as specified in 9 CFR 88.6, has a maximum of $5,148. Each horse transported in violation of 9 CFR part 88 is a separate violation.
 
 (xv) Civil penalty for knowingly violating section 3(d) or 3(f) of the Lacey Act Amendments of 1981, or for violating any other provision provided that, in the exercise of due care, the violator should have known that the plant was taken, possessed, transported, or sold in violation of any underlying law, treaty, or regulation, has a maximum of $26,930 for each violation, as specified in 16 U.S.C. 3373(a)(1) (but if the plant has a market value of less than $360, and involves only the transportation, acquisition, or receipt of a plant taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty will not exceed the maximum provided for violation of said law, treaty, or regulation, or $26,930, whichever is less).
 
@@ -218,4 +218,4 @@
 
 (ii) Civil penalty for making, presenting, submitting or causing to be made, presented or submitted, a false, fictitious, or fraudulent written statement as defined under the Program Fraud Civil Remedies Act of 1986, codified at 31 U.S.C. 3802(a)(2), has a maximum of $11,804.
 
-[85 FR 36672, June 17, 2020, as amended at 86 FR 24699, May 10, 2021]
+[85 FR 36672, June 17, 2020, as amended at 86 FR 24699, May 10, 2021; 86 FR 30535, June 9, 2021]

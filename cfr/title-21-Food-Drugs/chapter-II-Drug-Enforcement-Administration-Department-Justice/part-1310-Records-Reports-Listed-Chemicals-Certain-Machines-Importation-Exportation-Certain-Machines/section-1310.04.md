@@ -1,7 +1,5 @@
 ##### § 1310.04 Maintenance of records. #####
 
-Link to an amendment published at 86 FR 24707, May 10, 2021.
-
 (a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction.
 
 (b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction.
@@ -93,31 +91,37 @@ Link to an amendment published at 86 FR 24707, May 10, 2021.
 
 (1) Listed chemicals for which no thresholds have been established:
 
-(i) Alpha-phenylacetoacetonitrile and its salts, optical isomers, and salts of optical isomers (APAAN)
+(i) Alpha-phenylacetoacetamide (APAA) and its optical isomers
 
-(ii) Ephedrine, its salts, optical isomers, and salts of optical isomers;
+(ii) Alpha-phenylacetoacetonitrile and its salts, optical isomers, and salts of optical isomers (APAAN)
 
-(iii) Ergocristine and its salts
+(iii) Ephedrine, its salts, optical isomers, and salts of optical isomers;
 
-(iv) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone)
+(iv) Ergocristine and its salts
 
-(v) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite)
+(v) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone)
 
-(vi) Iodine
+(vi) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite)
 
-(vii) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
+(vii) Iodine
 
-(viii) N-phenethyl-4-piperidone (NPP)
+(viii) 3,4-MDP-2-P methyl glycidate (PMK glycidate) and its optical and geometric isomers
 
-(ix) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
+(ix) 3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid) and its salts, optical and geometric isomers, and salts of isomers
 
-(x) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
+(x) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
 
-(xi) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+(xi) N-phenethyl-4-piperidone (NPP)
 
-(xii) Red phosphorus
+(xii) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
 
-(xiii) White phosphorus (Other names: Yellow Phosphorus)
+(xiii) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
+
+(xiv) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+
+(xv) Red phosphorus
+
+(xvi) White phosphorus (Other names: Yellow Phosphorus)
 
 (2) [Reserved]
 

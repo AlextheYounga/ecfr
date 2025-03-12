@@ -1,7 +1,5 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 86 FR 24748, May 10, 2021.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits* - (1) *OY* - (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
@@ -384,7 +382,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (ii) *Pacific cod reapportionment.* Any amounts of the GOA reserve that are reapportioned to the GOA Pacific cod fishery as provided by paragraph (b) of this section must be apportioned in the same proportion specified in paragraphs (a)(6)(ii) and (a)(12)(i) of this section.
 
-(3) *Apportionment of reserves.* (i) *Notification.* (A) As soon as practicable after April 1, June 1, and August 1, and on such other dates as NMFS determines appropriate, NMFS will, by notification in the Federal Register, apportion all or part of the BSAI or GOA reserve in accordance with this paragraph (b).
+(3) *Apportionment of reserves* - (i) *Notification.* (A) As soon as practicable after April 1, June 1, and August 1, and on such other dates as NMFS determines appropriate, NMFS will, by notification in the Federal Register, apportion all or part of the BSAI or GOA reserve in accordance with this paragraph (b).
 
 (B) No apportionment, retention, or PSC limit adjustment may take effect until notification has been published in the Federal Register with a statement of the findings upon which the apportionment, retention, or adjustment is based.
 
@@ -564,13 +562,15 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (i) *Forage fish, grenadiers, squids, and sculpins* - (1) *Definition.* See Table 2c to this part.
 
-(2) *Applicability.* The provisions of § 679.20(i) apply to all vessels fishing for groundfish in the BSAI or GOA, and to all vessels processing groundfish harvested in the BSAI or GOA.
+(2) *Applicability.* The provisions of this paragraph (i) apply to all vessels fishing for groundfish in the BSAI or GOA, and to all vessels processing groundfish harvested in the BSAI or GOA.
 
 (3) *Closure to directed fishing.* Directed fishing for forage fish, grenadiers, squids, and sculpins is prohibited at all times in the BSAI and GOA.
 
-(4) *Limits on sale, barter, trade, and processing.* The sale, barter, trade, or processing of forage fish, grenadiers, squids, and sculpins is prohibited, except as provided in paragraph (i)(5) of this section.
+(4) *Limits on sale, barter, trade, and processing of forage fish and grenadiers.* The sale, barter, trade, or processing of forage fish and grenadiers is prohibited, except as provided in paragraph (i)(5) of this section.
 
-(5) *Allowable fishmeal production.* Retained catch of forage fish, grenadiers, squids, or sculpins not exceeding the maximum retainable amount may be processed into fishmeal for sale, barter, or trade.
+(5) *Allowable fishmeal production of forage fish and grenadiers.* Retained catch of forage fish or grenadiers not exceeding the maximum retainable amount may be processed into fishmeal for sale, barter, or trade.
+
+(6) *Allowable fish products for squids and sculpins.* Retained catch of squids and sculpins not exceeding the maximum retainable amount may be sold to a processor or processed into any product form, including (but not limited to) fishmeal, bait, and whole fish/food fish, for sale, barter, or trade.
 
 (j) *Full retention of rockfish by catcher vessels using hook-and-line, pot, or jig gear* - (1) *Retention and landing requirements.* The operator of a catcher vessel that is required to have a Federal fisheries permit using hook-and-line, pot, or jig gear, must retain and land all rockfish that is caught while fishing for groundfish or IFQ or CDQ halibut in the BSAI or GOA.
 

@@ -36,4 +36,4 @@
 
 (2) As part of this required cooperation, a State must submit all requested data and information to the Secretary, the Secretary of Health and Human Services, or the independent evaluator.
 
-[77 FR 11715, Feb. 27, 2012, as amended at 85 FR 71196, Nov. 5, 2020; 86 FR 6176, Jan. 19, 2021]
+[77 FR 11715, Feb. 27, 2012, as amended at 85 FR 71196, Nov. 6, 2020; 86 FR 6176, Jan. 19, 2021]

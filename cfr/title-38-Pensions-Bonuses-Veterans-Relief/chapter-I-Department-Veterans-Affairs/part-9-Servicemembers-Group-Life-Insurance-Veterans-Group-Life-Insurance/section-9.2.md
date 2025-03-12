@@ -30,7 +30,7 @@
 
 (f)(1) If an application, initial premium, or evidence of insurability (as the case may be) has not been received by the administrative office within the time limits set forth in paragraph (c) of this section, Veterans' Group Life Insurance coverage may still be granted if an application, the initial premium, and evidence of insurability are received by the administrative office within 1 year and 210 days following termination of duty, except that evidence of insurability is not required during the initial 330 days following termination of duty.
 
-(2) Paragraph (f)(1) of this section shall not apply to an application or initial premium received after June 11, 2021.
+(2) Paragraph (f)(1) of this section shall not apply to an application or initial premium received after December 11, 2021.
 
 (g) Except as provided in § 9.24, the effective date of enrollment, re-enrollment, or an increase in coverage under 38 U.S.C. 1967(a)(1) shall be the date the uniformed service receives an application and proof of the insurable spouse's good health:
 
@@ -38,4 +38,4 @@
 
 (2) For a member-spouse covered under 38 U.S.C. 1967(a)(1)(A)(i) and who was also eligible for coverage under 38 U.S.C. 1967(a)(1)(A)(ii) or (C)(ii) but who was not so insured or was insured at a reduced amount by reason of an election made by a member.
 
-(Authority: 38 U.S.C. 501, 1967, 1968, 1977)[61 FR 20135, May 6, 1996, as amended at 62 FR 35970, July 3, 1997; 77 FR 66071, Nov. 1, 2012; 79 FR 44299, July 31, 2014; 83 FR 65528, Dec. 21, 2018; 85 FR 35563, June 11, 2020; 85 FR 78559, Nov. 27, 2020]
+(Authority: 38 U.S.C. 501, 1967, 1968, 1977)[61 FR 20135, May 6, 1996, as amended at 62 FR 35970, July 3, 1997; 77 FR 66071, Nov. 1, 2012; 79 FR 44299, July 31, 2014; 83 FR 65528, Dec. 21, 2018; 85 FR 35563, June 11, 2020; 85 FR 78559, Nov. 27, 2020; 86 FR 30543, June 9, 2021]

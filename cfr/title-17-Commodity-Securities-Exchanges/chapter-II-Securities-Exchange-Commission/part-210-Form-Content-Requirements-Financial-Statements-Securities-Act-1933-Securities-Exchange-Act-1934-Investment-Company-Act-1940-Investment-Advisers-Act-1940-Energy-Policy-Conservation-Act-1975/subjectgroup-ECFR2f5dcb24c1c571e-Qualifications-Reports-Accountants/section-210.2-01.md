@@ -1,12 +1,6 @@
 ##### § 210.2-01 Qualifications of accountants. #####
 
-Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correction published at 86 FR 8686, Feb. 9, 2021.Preliminary Note to § 210.2-01
-
-1. Section 210.2-01 is designed to ensure that auditors are qualified and independent of their audit clients both in fact and in appearance. Accordingly, the rule sets forth restrictions on financial, employment, and business relationships between an accountant and an audit client and restrictions on an accountant providing certain non-audit services to an audit client.
-
-2. Section 210.2-01(b) sets forth the general standard of auditor independence. Paragraphs (c)(1) to (c)(5) reflect the application of the general standard to particular circumstances. The rule does not purport to, and the Commission could not, consider all circumstances that raise independence concerns, and these are subject to the general standard in § 210.2-01(b). In considering this standard, the Commission looks in the first instance to whether a relationship or the provision of a service: creates a mutual or conflicting interest between the accountant and the audit client; places the accountant in the position of auditing his or her own work; results in the accountant acting as management or an employee of the audit client; or places the accountant in a position of being an advocate for the audit client.
-
-3. These factors are general guidance only and their application may depend on particular facts and circumstances. For that reason, § 210.2-01 provides that, in determining whether an accountant is independent, the Commission will consider all relevant facts and circumstances. For the same reason, registrants and accountants are encouraged to consult with the Commission's Office of the Chief Accountant before entering into relationships, including relationships involving the provision of services, that are not explicitly described in the rule.
+Section 210.2-01 is designed to ensure that auditors are qualified and independent of their audit clients both in fact and in appearance. Accordingly, the rule sets forth restrictions on financial, employment, and business relationships between an accountant and an audit client and restrictions on an accountant providing certain non-audit services to an audit client. Section 210.2-01(b) sets forth the general standard of auditor independence. Paragraphs (c)(1) through (c)(5) of this section reflect the application of the general standard to particular circumstances. The rule does not purport to, and the Commission could not, consider all circumstances that raise independence concerns, and these are subject to the general standard in § 210.2-01(b). In considering this standard, the Commission looks in the first instance to whether a relationship or the provision of a service: Creates a mutual or conflicting interest between the accountant and the audit client; places the accountant in the position of auditing his or her own work; results in the accountant acting as management or an employee of the audit client; or places the accountant in a position of being an advocate for the audit client. These factors are general guidance only, and their application may depend on particular facts and circumstances. For that reason, § 210.2-01(b) provides that, in determining whether an accountant is independent, the Commission will consider all relevant facts and circumstances. For the same reason, registrants and accountants are encouraged to consult with the Commission's Office of the Chief Accountant before entering into relationships, including relationships involving the provision of services that are not explicitly described in the rule.
 
 (a) The Commission will not recognize any person as a certified public accountant who is not duly registered and in good standing as such under the laws of the place of his residence or principal office. The Commission will not recognize any person as a public accountant who is not in good standing and entitled to practice as such under the laws of the place of his residence or principal office.
 
@@ -44,15 +38,19 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (ii) *Other financial interests in audit client.* An accountant is not independent when the accounting firm, any covered person in the firm, or any of his or her immediate family members has:
 
-(A) *Loans/debtor-creditor relationship.* (*1*) Any loan (including any margin loan) to or from an audit client, or an audit client's officers, directors, or beneficial owners (known through reasonable inquiry) of the audit client's equity securities where such beneficial owner has significant influence over the audit client, except for the following loans obtained from a financial institution under its normal lending procedures, terms, and requirements:
+(A) *Loans/debtor-creditor relationship.*
+
+(*1*) Any loan (including any margin loan) to or from an audit client, an audit client's officers or directors that have the ability to affect decision-making at the entity under audit, or beneficial owners (known through reasonable inquiry) of the audit client's equity securities where such beneficial owner has significant influence over the entity under audit. The following loans obtained from a financial institution under its normal lending procedures, terms, and requirements are excepted from this paragraph (c)(1)(ii)(A)(*1*):
 
 (*i*) Automobile loans and leases collateralized by the automobile;
 
 (*ii*) Loans fully collateralized by the cash surrender value of an insurance policy;
 
-(*iii*) Loans fully collateralized by cash deposits at the same financial institution; and
+(*iii*) Loans fully collateralized by cash deposits at the same financial institution;
 
-(*iv*) A mortgage loan collateralized by the borrower's primary residence provided the loan was not obtained while the covered person in the firm was a covered person.
+(*iv*) Mortgage loans collateralized by the borrower's primary residence provided the loans were not obtained while the covered person in the firm was a covered person; and
+
+(*v*) Student loans provided the loans were not obtained while the covered person in the firm was a covered person.
 
 (*2*) For purposes of paragraph (c)(1)(ii)(A) of this section:
 
@@ -72,7 +70,7 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (D) *Futures commission merchant accounts.* Any futures, commodity, or similar account maintained with a futures commission merchant that is an audit client.
 
-(E) *Credit cards.* Any aggregate outstanding credit card balance owed to a lender that is an audit client that is not reduced to $10,000 or less on a current basis taking into consideration the payment due date and any available grace period.
+(E) *Consumer loans.* Any aggregate outstanding consumer loan balance owed to a lender that is an audit client that is not reduced to $10,000 or less on a current basis taking into consideration the payment due date and any available grace period.
 
 (F) *Insurance products.* Any individual policy issued by an insurer that is an audit client unless:
 
@@ -128,7 +126,7 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (*2*) For purposes of paragraph (c)(2)(iii)(B)(*1*) of this section, the following individuals are not considered to be members of the audit engagement team:
 
-(*i*) Persons, other than the lead partner and the concurring partner, who provided ten or fewer hours of audit, review, or attest services during the period covered by paragraph (c)(2)(iii)(B)(*1*) of this section;
+(*i*) Persons, other than the lead partner and the Engagement Quality Reviewer, who provided 10 or fewer hours of audit, review, or attest services during the period covered by paragraph (c)(2)(iii)(B)(*1*) of this section;
 
 (*ii*) Individuals employed by the issuer as a result of a business combination between an issuer that is an audit client and the employing entity, provided employment was not in contemplation of the business combination and the audit committee of the successor issuer is aware of the prior employment relationship; and
 
@@ -144,7 +142,7 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (*3*) For purposes of paragraph (c)(2)(iii)(C)(*2*) of this section, the following individuals are not considered to be members of the audit engagement team:
 
-(*i*) Persons, other than the lead partner and concurring partner, who provided ten or fewer hours of audit, review or attest services during the period covered by paragraph (c)(2)(iii)(C)(*2*) of this section;
+(*i*) Persons, other than the lead partner and the Engagement Quality Reviewer, who provided 10 or fewer hours of audit, review, or attest services during the period covered by paragraph (c)(2)(iii)(C)(*2*) of this section;
 
 (*ii*) Individuals employed by the registered investment company or any entity in the investment company complex as a result of a business combination between a registered investment company or any entity in the investment company complex that is an audit client and the employing entity, provided employment was not in contemplation of the business combination and the audit committee of the registered investment company is aware of the prior employment relationship; and
 
@@ -154,7 +152,7 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (iv) *Employment at accounting firm of former employee of audit client.* A former officer, director, or employee of an audit client becomes a partner, principal, shareholder, or professional employee of the accounting firm, unless the individual does not participate in, and is not in a position to influence, the audit of the financial statements of the audit client covering any period during which he or she was employed by or associated with that audit client.
 
-(3) *Business relationships.* An accountant is not independent if, at any point during the audit and professional engagement period, the accounting firm or any covered person in the firm has any direct or material indirect business relationship with an audit client, or with persons associated with the audit client in a decision-making capacity, such as an audit client's officers, directors, or substantial stockholders. The relationships described in this paragraph do not include a relationship in which the accounting firm or covered person in the firm provides professional services to an audit client or is a consumer in the ordinary course of business.
+(3) *Business relationships.* An accountant is not independent if, at any point during the audit and professional engagement period, the accounting firm or any covered person in the firm has any direct or material indirect business relationship with an audit client, or with persons associated with the audit client in a decision-making capacity, such as an audit client's officers or directors that have the ability to affect decision-making at the entity under audit or beneficial owners (known through reasonable inquiry) of the audit client's equity securities where such beneficial owner has significant influence over the entity under audit. The relationships described in this paragraph (c)(3) do not include a relationship in which the accounting firm or covered person in the firm provides professional services to an audit client or is a consumer in the ordinary course of business.
 
 (4) *Non-audit services.* An accountant is not independent if, at any point during the audit and professional engagement period, the accountant provides the following non-audit services to an audit client:
 
@@ -202,13 +200,13 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (A) Any audit partner as defined in paragraph (f)(7)(ii) of this section performs:
 
-(*1*) The services of a lead partner, as defined in paragraph (f)(7)(ii)(A) of this section, or concurring partner, as defined in paragraph (f)(7)(ii)(B) of this section, for more than five consecutive years; or
+(*1*) The services of a lead partner, as defined in paragraph (f)(7)(ii)(A) of this section, or Engagement Quality Reviewer, as defined in paragraph (f)(7)(ii)(B) of this section; for more than five consecutive years; or
 
 (*2*) One or more of the services defined in paragraphs (f)(7)(ii)(C) and (D) of this section for more than seven consecutive years;
 
 (B) Any audit partner:
 
-(*1*) Within the five consecutive year period following the performance of services for the maximum period permitted under paragraph (c)(6)(i)(A)(*1*) of this section, performs for that audit client the services of a lead partner, as defined in paragraph (f)(7)(ii)(A) of this section, or concurring partner, as defined in paragraph (f)(7)(ii)(B) of this section, or a combination of those services, or
+(*1*) Within the five consecutive year period following the performance of services for the maximum period permitted under paragraph (c)(6)(i)(A)(*1*) of this section, performs for that audit client the services of a lead partner, as defined in paragraph (f)(7)(ii)(A) of this section, or Engagement Quality Reviewer, as defined in paragraph (f)(7)(ii)(B) of this section, or a combination of those services; or
 
 (*2*) Within the two consecutive year period following the performance of services for the maximum period permitted under paragraph (c)(6)(i)(A)(*2*) of this section, performs one or more of the services defined in paragraph (f)(7)(ii) of this section.
 
@@ -262,23 +260,17 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (viii) A disciplinary mechanism to ensure compliance with this section.
 
-(e)(1) *Transition and grandfathering.* Provided the following relationships did not impair the accountant's independence under pre-existing requirements of the Commission, the Independence Standards, Board, or the accounting profession in the United States, the existence of the relationship on May 6, 2003 will not be deemed to impair an accountant's independence:
+(e) *Transition provisions for mergers and acquisitions involving audit clients.* An accounting firm's independence will not be impaired because an audit client engages in a merger or acquisition that gives rise to a relationship or service that is inconsistent with this rule, provided that:
 
-(i) Employment relationships that commenced at the issuer prior to May 6, 2003 as described in paragraph (c)(2)(iii)(B) of this section.
+(1) The accounting firm is in compliance with the applicable independence standards related to such services or relationships when the services or relationships originated and throughout the period in which the applicable independence standards apply;
 
-(ii) Compensation earned or received, as described in paragraph (c)(8) of this section during the fiscal year of the accounting firm that includes the effective date of this section.
+(2) The accounting firm has or will address such services or relationships promptly under relevant circumstances as a result of the occurrence of the merger or acquisition;
 
-(iii) Until May 6, 2004, the provision of services described in paragraph (c)(4) of this section provided those services are pursuant to contracts in existence on May 6, 2003.
+(3) The accounting firm has in place a quality control system as described in paragraph (d)(3) of this section that has the following features:
 
-(iv) The provision of services by the accountant under contracts in existence on May 6, 2003 that have not been pre-approved by the audit committee as described in paragraph (c)(7) of this section.
+(i) Procedures and controls that monitor the audit client's merger and acquisition activity to provide timely notice of a merger or acquisition; and
 
-(v) Until the first day of the issuer's fiscal year beginning after May 6, 2003 by a “lead” partner and other audit partner (other than the “concurring” partner) providing services in excess of those permitted under paragraph (c)(6) of this section. An accountant's independence will not be deemed to be impaired until the first day of the issuer's fiscal year beginning after May 6, 2004 by a “concurring” partner providing services in excess of those permitted under paragraph (c)(6) of this section. For the purposes of calculating periods of service under paragraph (c)(6) of this section:
-
-(A) For the “lead” and “concurring” partner, the period of service includes time served as the “lead” or “concurring” partner prior to May 6, 2003; and
-
-(B) For audit partners other than the “lead” partner or “concurring” partner, and for audit partners in foreign firms, the period of service does not include time served on the audit engagement team prior to the first day of issuer's fiscal year beginning on or after May 6, 2003.
-
-(2) *Settling financial arrangements with former professionals.* To the extent not required by pre-existing requirements of the Commission, the Independence Standards Board, or the accounting profession in the United States, the requirement in paragraph (c)(2)(iii) of this section to settle financial arrangements with former professionals applies to situations that arise after the effective date of this section.
+(ii) Procedures and controls that allow for prompt identification of such services or relationships after initial notification of a potential merger or acquisition that may trigger independence violations, but before the effective date of the transaction.
 
 (f) *Definitions of terms.* For purposes of this section:
 
@@ -292,13 +284,15 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (4) *Affiliate of the audit client* means:
 
-(i) An entity that has control over the audit client, or over which the audit client has control, or which is under common control with the audit client, including the audit client's parents and subsidiaries;
+(i) An entity that has control over the entity under audit, or over which the entity under audit has control, including the entity under audit's parents and subsidiaries;
 
-(ii) An entity over which the audit client has significant influence, unless the entity is not material to the audit client;
+(ii) An entity that is under common control with the entity under audit, including the entity under audit's parents and subsidiaries, when the entity and the entity under audit are each material to the controlling entity;
 
-(iii) An entity that has significant influence over the audit client, unless the audit client is not material to the entity; and
+(iii) An entity over which the audit client has significant influence, unless the entity is not material to the audit client;
 
-(iv) Each entity in the investment company complex when the audit client is an entity that is part of an investment company complex.
+(iv) An entity that has significant influence over the audit client, unless the audit client is not material to the entity; or
+
+(v) Each entity in the investment company complex as determined in paragraph (f)(14) of this section when the entity under audit is an investment company or investment adviser or sponsor, as those terms are defined in paragraphs (f)(14)(ii), (iii), and (iv) of this section.
 
 (5) *Audit and professional engagement period* includes both:
 
@@ -310,9 +304,9 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (B) The professional engagement period ends when the audit client or the accountant notifies the Commission that the client is no longer that accountant's audit client.
 
-(iii) For audits of the financial statements of foreign private issuers, the “audit and professional engagement period” does not include periods ended prior to the first day of the last fiscal year before the foreign private issuer first filed, or was required to file, a registration statement or report with the Commission, provided there has been full compliance with home country independence standards in all prior periods covered by any registration statement or report filed with the Commission.
+(iii) The “audit and professional engagement period” does not include periods ended prior to the first day of the last fiscal year before the issuer first filed, or was required to file, a registration statement or report with the Commission, provided there has been full compliance with applicable independence standards in all prior periods covered by any registration statement or report filed with the Commission.
 
-(6) *Audit client* means the entity whose financial statements or other information is being audited, reviewed, or attested and any affiliates of the audit client, other than, for purposes of paragraph (c)(1)(i) of this section, entities that are affiliates of the audit client only by virtue of paragraph (f)(4)(ii) or (f)(4)(iii) of this section.
+(6) *Audit client* means the entity whose financial statements or other information is being audited, reviewed, or attested to and any affiliates of the audit client, other than, for purposes of paragraph (c)(1)(i) of this section, entities that are affiliates of the audit client only by virtue of paragraphs (f)(4)(iii), (f)(4)(iv), or (f)(14)(i)(E) of this section.
 
 (7)(i) *Audit engagement team* means all partners, principals, shareholders and professional employees participating in an audit, review, or attestation engagement of an audit client, including audit partners and all persons who consult with others on the audit engagement team during the audit, review, or attestation engagement regarding technical or industry-specific issues, transactions, or events.
 
@@ -354,19 +348,39 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (14) *Investment company complex.* (i) “Investment company complex” includes:
 
-(A) An investment company and its investment adviser or sponsor;
+(A) An entity under audit that is an:
 
-(B) Any entity controlled by or controlling an investment adviser or sponsor in paragraph (f)(14)(i)(A) of this section, or any entity under common control with an investment adviser or sponsor in paragraph (f)(14)(i)(A) of this section if the entity:
+(*1*) Investment company; or
 
-(*1*) Is an investment adviser or sponsor; or
+(*2*) Investment adviser or sponsor;
 
-(*2*) Is engaged in the business of providing administrative, custodian, underwriting, or transfer agent services to any investment company, investment adviser, or sponsor; and
+(B) The investment adviser or sponsor of any investment company identified in paragraph (f)(14)(i)(A)(*1*) of this section;
 
-(C) Any investment company or entity that would be an investment company but for the exclusions provided by section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)) that has an investment adviser or sponsor included in this definition by either paragraph (f)(14)(i)(A) or (f)(14)(i)(B) of this section.
+(C) Any entity controlled by or controlling:
 
-(ii) An investment adviser, for purposes of this definition, does not include a sub-adviser whose role is primarily portfolio management and is subcontracted with or overseen by another investment adviser.
+*(1)* An entity under audit identified by paragraph (f)(14)(i)(A) of this section, or
 
-(iii) Sponsor, for purposes of this definition, is an entity that establishes a unit investment trust.
+*(2)* An investment adviser or sponsor identified by paragraph (f)(14)(i)(B) of this section. When the entity is controlled by an investment adviser or sponsor identified by paragraph (f)(14)(i)(B), such entity is included within the investment company complex if:
+
+*(i)* The entity and the entity under audit are each material to the investment adviser or sponsor identified by paragraph (f)(14)(i)(B) of this section; or
+
+*(ii)* The entity is engaged in the business of providing administrative, custodial, underwriting, or transfer agent services to any entity identified by paragraphs (f)(14)(i)(A) or (B) of this section;
+
+(D) Any entity under common control with an entity under audit identified by paragraph (f)(14)(i)(A) of this section, any investment adviser or sponsor identified by paragraph (f)(14)(i)(B) of this section, or any entity identified by paragraph (f)(14)(i)(C) of this section; if the entity:
+
+*(1)* Is an investment company or an investment adviser or sponsor, when the entity and the entity under audit identified by paragraph (f)(14)(i)(A) of this section are each material to the controlling entity; or
+
+*(2)* Is engaged in the business of providing administrative, custodian, underwriting, or transfer agent services to any entity identified by paragraphs (f)(14)(i)(A) and (f)(14)(i)(B) of this section;
+
+(E) Any entity over which an entity under audit identified by paragraph (f)(14)(i)(A) of this section has significant influence, unless the entity is not material to the entity under audit identified by paragraph (f)(14)(i)(A) of this section, or any entity that has significant influence over an entity under audit identified by paragraph (f)(14)(i)(A) of this section, unless the entity under audit identified by paragraph (f)(14)(i)(A) of this section is not material to the entity that has significant influence over it; and
+
+(F) Any investment company that has an investment adviser or sponsor included in this definition by paragraphs (f)(14)(i)(A) through (f)(14)(i)(D) of this section.
+
+(ii) An investment company, for purposes of paragraph (f)(14) of this section, means any investment company or an entity that would be an investment company but for the exclusions provided by Section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)).
+
+(iii) An investment adviser, for purposes of this definition, does not include a subadviser whose role is primarily portfolio management and is subcontracted with or overseen by another investment adviser.
+
+(iv) Sponsor, for purposes of this definition, is an entity that establishes a unit investment trust.
 
 (15) *Office* means a distinct sub-group within an accounting firm, whether distinguished along geographic or practice lines.
 
@@ -374,4 +388,4 @@ Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correctio
 
 (17) *Audit committee* means a committee (or equivalent body) as defined in section 3(a)(58) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(58)).
 
-[37 FR 14594, July 21, 1972, as amended at 48 FR 9521, Mar. 7, 1983; 65 FR 76082, Dec. 5, 2000; 68 FR 6044, Feb. 5, 2003; 70 FR 1593, Jan. 7, 2005; 83 FR 50198, Oct. 4, 2018; 84 FR 32060, July 5, 2019]
+[37 FR 14594, July 21, 1972, as amended at 48 FR 9521, Mar. 7, 1983; 65 FR 76082, Dec. 5, 2000; 68 FR 6044, Feb. 5, 2003; 70 FR 1593, Jan. 7, 2005; 83 FR 50198, Oct. 4, 2018; 84 FR 32060, July 5, 2019; 86 FR 80541, Dec. 11, 2020]

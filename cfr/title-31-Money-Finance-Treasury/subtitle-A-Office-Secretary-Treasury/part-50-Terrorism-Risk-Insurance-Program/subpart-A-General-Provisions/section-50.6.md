@@ -1,5 +1,7 @@
 ##### § 50.6 Special rules for Interim Guidance safe harbors. #####
 
+Link to an amendment published at 86 FR 30540, June 9, 2021.
+
 (a) An insurer will be deemed to be in compliance with the requirements of the Act to the extent the insurer reasonably relied on Interim Guidance prior to the effective date of applicable regulations.
 
 (b) For purposes of this section, Interim Guidance means the following documents, which are available from Treasury at *https://www.treasury.gov/resource-center/fin-mkts/Pages/program.aspx:*

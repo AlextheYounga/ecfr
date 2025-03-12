@@ -1,5 +1,7 @@
 ##### § 50.90 Mandatory and discretionary recoupment. #####
 
+Link to an amendment published at 86 FR 30541, June 9, 2021.
+
 (a) Pursuant to section 103(e) of the Act, the Secretary shall impose, and insurers shall collect, such Federal terrorism policy surcharges as needed to recover 140 percent of the mandatory recoupment amount for any calendar year.
 
 (b) In the Secretary's discretion, the Secretary may recover any portion of the aggregate Federal share of compensation that exceeds the mandatory recoupment amount through a Federal terrorism policy surcharge based on the factors set forth in section 103(e)(7)(D) of the Act.
