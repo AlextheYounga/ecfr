@@ -1,10 +1,8 @@
 ##### § 227.203 Filing requirements and form. #####
 
-Link to an amendment published at 86 FR 3591, Jan. 14, 2021.
+(a) *Form C—Offering statement and amendments* (§ 239.900 of this chapter).
 
-(a) *Form C - Offering statement and amendments* (§ 239.900 of this chapter).
-
-(1) *Offering statement.* An issuer offering or selling securities in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) and in accordance with section 4A of the Securities Act (15 U.S.C. 77d-1) and this part must file with the Commission and provide to investors and the relevant intermediary a Form C: Offering Statement (Form C) (§ 239.900 of this chapter) prior to the commencement of the offering of securities. The Form C must include the information required by § 227.201.
+(1) *Offering statement.* Except as allowed by § 227.206, an issuer offering or selling securities in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) and in accordance with section 4A of the Securities Act (15 U.S.C. 77d-1) and this part, and any co-issuer jointly offering or selling securities with such an issuer in reliance on the same, must file with the Commission and provide to investors and the relevant intermediary a Form C: Offering Statement (Form C) (§ 239.900 of this chapter) prior to the commencement of the offering of securities. An issuer that is both offering or selling securities with a co-issuer and separately offering or selling securities on its own must file with the Commission and provide to investors and the relevant intermediary a separate Form C for such offering. Every Form C must include the information required by § 227.201.
 
 (2) *Amendments to offering statement.* An issuer must file with the Commission and provide to investors and the relevant intermediary an amendment to the offering statement filed on Form C (§ 239.900 of this chapter) to disclose any material changes, additions or updates to information that it provides to investors through the intermediary's platform, for any offering that has not yet been completed or terminated. The amendment must be filed on Form C: Amendment (Form C/A) (§ 239.900 of this chapter), and if the amendment reflects material changes, additions or updates, the issuer shall check the box indicating that investors must reconfirm an investment commitment within five business days or the investor's commitment will be considered cancelled.
 
@@ -25,3 +23,5 @@ Link to an amendment published at 86 FR 3591, Jan. 14, 2021.
 (2) *Amendments to annual report.* An issuer must file with the Commission an amendment to the annual report filed on Form C: Annual Report (Form C-AR) (§ 239.900 of this chapter) to make a material change to the previously filed annual report as soon as practicable after discovery of the need for the material change. The amendment must be filed on Form C: Amendment to Annual Report (Form C-AR/A) (§ 239.900 of this chapter).
 
 (3) *Termination of reporting.* An issuer eligible to terminate its obligation to file annual reports with the Commission pursuant to § 227.202(b) must file with the Commission, within five business days from the date on which the issuer becomes eligible to terminate its reporting obligation, Form C: Termination of Reporting (Form C-TR) (§ 239.900 of this chapter) to advise investors that the issuer will cease reporting pursuant to this part.
+
+[80 FR 71537, Nov. 16, 2015, as amended at 86 FR 3591, Jan. 14, 2021]

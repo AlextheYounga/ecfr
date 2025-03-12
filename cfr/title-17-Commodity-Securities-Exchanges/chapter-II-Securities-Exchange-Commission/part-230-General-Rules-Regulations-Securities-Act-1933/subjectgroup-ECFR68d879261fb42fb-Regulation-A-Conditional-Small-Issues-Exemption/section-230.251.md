@@ -1,12 +1,10 @@
 ##### § 230.251 Scope of exemption. #####
 
-Link to an amendment published at 86 FR 3596, Jan. 14, 2021.
-
 (a) *Tier 1 and Tier 2.* A public offer or sale of eligible securities, as defined in Rule 261 (§ 230.261), pursuant to Regulation A shall be exempt under section 3(b) from the registration requirements of the Securities Act of 1933 (the “Securities Act”) (15 U.S.C. 77a *et seq.*).
 
 (1) *Tier 1.* Offerings pursuant to Regulation A in which the sum of all cash and other consideration to be received for the securities being offered (“aggregate offering price”) plus the gross proceeds for all securities sold pursuant to other offering statements within the 12 months before the start of and during the current offering of securities (“aggregate sales”) does not exceed $20,000,000, including not more than $6,000,000 offered by all selling securityholders that are affiliates of the issuer (“Tier 1 offerings”).
 
-(2) *Tier 2.* Offerings pursuant to Regulation A in which the sum of the aggregate offering price and aggregate sales does not exceed $50,000,000, including not more than $15,000,000 offered by all selling securityholders that are affiliates of the issuer (“Tier 2 offerings”).
+(2) *Tier 2.* Offerings pursuant to §§ 230.251 through 230.263 (Regulation A) in which the sum of the aggregate offering price and aggregate sales does not exceed $75,000,000, including not more than $22,500,000 offered by all selling securityholders that are affiliates of the issuer (“Tier 2 offerings”).
 
 (3) *Additional limitation on secondary sales in first year.* The portion of the aggregate offering price attributable to the securities of selling securityholders shall not exceed 30% of the aggregate offering price of a particular offering in:
 
@@ -32,33 +30,13 @@ Where a mixture of cash and non-cash consideration is to be received, the aggreg
 
 (6) Is not, and has not been, subject to any order of the Commission entered pursuant to Section 12(j) (15 U.S.C. 78l(j)) of the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78a *et seq.*) within five years before the filing of the offering statement;
 
-(7) Has filed with the Commission all reports required to be filed, if any, pursuant to Rule 257 (§ 230.257) during the two years before the filing of the offering statement (or for such shorter period that the issuer was required to file such reports); and
+(7) Has filed with the Commission all reports required to be filed, if any, pursuant to § 230.257 or pursuant to section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 15 U.S.C. 78*o*) during the two years before the filing of the offering statement (or for such shorter period that the issuer was required to file such reports); and
 
 (8) Is not disqualified under Rule 262 (§ 230.262).
 
-(c) *Integration with other offerings.* Offers or sales made in reliance on this Regulation A will not be integrated with:
+(c) *Integration with other offerings.* To determine whether offers and sales should be integrated, see § 230.152.
 
-(1) Prior offers or sales of securities; or
-
-(2) Subsequent offers or sales of securities that are:
-
-(i) Registered under the Securities Act, except as provided in Rule 255(e) (§ 230.255(e));
-
-(ii) Exempt from registration under Rule 701 (§ 230.701);
-
-(iii) Made pursuant to an employee benefit plan;
-
-(iv) Exempt from registration under Regulation S (§§ 230.901 through 203.905);
-
-(v) Made more than six months after the completion of the Regulation A offering; or
-
-(vi) Exempt from registration under Section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)).
-
-Note to paragraph (c).
-
-If these safe harbors do not apply, whether subsequent offers and sales of securities will be integrated with the Regulation A offering will depend on the particular facts and circumstances.
-
-(d) *Offering conditions* - (1) *Offers.* (i) Except as allowed by Rule 255 (§ 230.255), no offer of securities may be made unless an offering statement has been filed with the Commission.
+(d) *Offering conditions*—(1) *Offers.* (i) Except as allowed by Rule 255 (§ 230.255), no offer of securities may be made unless an offering statement has been filed with the Commission.
 
 (ii) After the offering statement has been filed, but before it is qualified:
 
@@ -120,4 +98,4 @@ When securities underlying warrants or convertible securities are being qualifie
 
 (f) *Electronic filing.* Documents filed or otherwise provided to the Commission pursuant to this Regulation A must be submitted in electronic format by means of EDGAR in accordance with the EDGAR rules set forth in Regulation S-T (17 CFR part 232).
 
-[80 FR 21895, Apr. 20, 2015, as amended at 84 FR 529, Jan. 31, 2019]
+[80 FR 21895, Apr. 20, 2015, as amended at 84 FR 529, Jan. 31, 2019; 86 FR 3596, Jan. 14, 2021]

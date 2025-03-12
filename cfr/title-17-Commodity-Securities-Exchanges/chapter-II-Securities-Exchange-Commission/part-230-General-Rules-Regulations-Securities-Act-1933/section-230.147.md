@@ -1,7 +1,5 @@
 ##### § 230.147 Intrastate offers and sales. #####
 
-Link to an amendment published at 86 FR 3594, Jan. 14, 2021.
-
 (a) This section shall not raise any presumption that the exemption provided by section 3(a)(11) of the Act (15 U.S.C. 77c(a)(11)) is not available for transactions by an issuer which do not satisfy all of the provisions of this section.
 
 (b) *Manner of offers and sales.* An issuer, or any person acting on behalf of the issuer, shall be deemed to conduct an offering in compliance with section 3(a)(11) of the Act (15 U.S.C. 77c(a)(11)), where offers and sales are made only to persons resident within the same state or territory in which the issuer is resident and doing business, within the meaning of section 3(a)(11) of the Act, so long as the issuer complies with the provisions of paragraphs (c), (d), and (f) through (h) of this section.
@@ -58,28 +56,6 @@ Link to an amendment published at 86 FR 3594, Jan. 14, 2021.
 
 (3) The issuer shall, at the time of any offer or sale by it of a security pursuant to this section (§ 230.147), prominently disclose to each offeree in the manner in which any such offer is communicated and to each purchaser of such security in writing a reasonable period of time before the date of sale, the following: “Sales will be made only to residents of [identify the name of the state or territory in which the issuer was resident at the time of the sale of the securities by the issuer]. Offers and sales of these securities are made under an exemption from registration and have not been registered under the Securities Act of 1933. For a period of six months from the date of the sale by the issuer of the securities, any resale of the securities (or the underlying securities in the case of convertible securities) shall be made only to persons resident within the state or territory of [identify the name of the state or territory in which the issuer was resident at the time of the sale of the securities by the issuer].”
 
-(g) *Integration with other offerings.* Offers or sales made in reliance on this section will not be integrated with:
+(g) *Integration with other offerings.* To determine whether offers and sales should be integrated, refer to § 230.152.
 
-(1) Offers or sales of securities made prior to the commencement of offers and sales of securities pursuant to this section (§ 230.147); or
-
-(2) Offers or sales made after completion of offers and sales of securities pursuant to this section (§ 230.147) that are:
-
-(i) Registered under the Act, except as provided in paragraph (h) of this section (§ 230.147);
-
-(ii) Exempt from registration under Regulation A (§§ 230.251 through 230.263);
-
-(iii) Exempt from registration under Rule 701 (§ 230.701);
-
-(iv) Made pursuant to an employee benefit plan;
-
-(v) Exempt from registration under Regulation S (§§ 230.901 through 230.905);
-
-(vi) Exempt from registration under section 4(a)(6) of the Act (15 U.S.C. 77d(a)(6)); or
-
-(vii) Made more than six months after the completion of an offering conducted pursuant to this section (§ 230.147).
-
-*Instruction to paragraph (g):* If none of the safe harbors applies, whether subsequent offers and sales of securities will be integrated with any securities offered or sold pursuant to this section (§ 230.147) will depend on the particular facts and circumstances.
-
-(h) *Offerings limited to qualified institutional buyers and institutional accredited investors.* Where an issuer decides to register an offering under the Act after making offers in reliance on this section (§ 230.147) limited only to qualified institutional buyers and institutional accredited investors referenced in section 5(d) of the Act, such offers will not be subject to integration with any subsequent registered offering. If the issuer makes offers in reliance on this section (§ 230.147) to persons other than qualified institutional buyers and institutional accredited investors referenced in section 5(d) of the Act, such offers will not be subject to integration if the issuer (and any underwriter, broker, dealer, or agent used by the issuer in connection with the proposed offering) waits at least 30 calendar days between the last such offer made in reliance on this section (§ 230.147) and the filing of the registration statement with the Commission.
-
-[81 FR 83550, Nov. 21, 2016]
+[81 FR 83550, Nov. 21, 2016, as amended at 86 FR 3594, Jan. 14, 2021]

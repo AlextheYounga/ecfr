@@ -1,12 +1,10 @@
 ##### § 240.12g5-1 Definition of securities “held of record”. #####
 
-Link to an amendment published at 86 FR 3601, Jan. 14, 2021.
-
 (a) For the purpose of determining whether an issuer is subject to the provisions of sections 12(g) and 15(d) of the Act, securities shall be deemed to be “held of record” by each person who is identified as the owner of such securities on records of security holders maintained by or on behalf of the issuer, subject to the following:
 
 (1) In any case where the records of security holders have not been maintained in accordance with accepted practice, any additional person who would be identified as such an owner on such records if they had been maintained in accordance with accepted practice shall be included as a holder of record.
 
-(2) Securities identified as held of record by a corporation, a partnership, a trust whether or not the trustees are named, or other organization shall be included as so held by one person.
+(2) Except as specified in paragraph (a)(9) of this section, securities identified as held of record by a corporation, a partnership, a trust whether or not the trustees are named, or other organization shall be included as so held by one person.
 
 (3) Securities identified as held of record by one or more persons as trustees, executors, guardians, custodians or in other fiduciary capacities with respect to a single trust, estate or account shall be included as held of record by one person.
 
@@ -38,6 +36,12 @@ Link to an amendment published at 86 FR 3601, Jan. 14, 2021.
 
 (B) An issuer may, solely for the purposes of Section 12(g) of the Act (15 U.S.C. 78*l*(g)(1)), deem the securities to have been issued in a transaction exempt from, or not subject to, the registration requirements of Section 5 of the Securities Act (15 U.S.C. 77e) if the issuer had a reasonable belief at the time of the issuance that the securities were issued in such a transaction.
 
+(9) For purposes of determining whether a crowdfunding issuer, as defined in § 270.3a-9(b)(1) of this chapter, or a crowdfunding vehicle, as defined in § 270.3a-9(b)(2) of this chapter, is required to register a class of equity securities with the Commission pursuant to section 12(g)(1) of the Act, both the crowdfunding issuer and the crowdfunding vehicle:
+
+(i) May exclude securities issued by a crowdfunding vehicle, as defined in § 270.3a-9(b)(2) of this chapter, in an offering under §§ 227.100 through 227.504 (Regulation Crowdfunding) in which the crowdfunding vehicle and the crowdfunding issuer are deemed to be co-issuers under the Securities Act (15 U.S.C. 77a *et seq.*) and that are held by natural persons; and
+
+(ii) Shall include securities issued by a crowdfunding vehicle, as defined in § 270.3a-9(b)(2) of this chapter, in an offering under Regulation Crowdfunding in which the crowdfunding vehicle and the crowdfunding issuer are deemed to be co-issuers under the Securities Act and that are held by investors that are not natural persons.
+
 (b) Notwithstanding paragraph (a) of this section:
 
 (1) Securities held, to the knowledge of the issuer, subject to a voting trust, deposit agreement or similar arrangement shall be included as held of record by the record holders of the voting trust certificates, certificates of deposit, receipts or similar evidences of interest in such securities: *Provided, however,* That the issuer may rely in good faith on such information as is received in response to its request from a non-affiliated issuer of the certificates or evidences of interest.
@@ -46,4 +50,4 @@ Link to an amendment published at 86 FR 3601, Jan. 14, 2021.
 
 (3) If the issuer knows or has reason to know that the form of holding securities of record is used primarily to circumvent the provisions of section 12(g) or 15(d) of the Act, the beneficial owners of such securities shall be deemed to be the record owners thereof.
 
-(Sec. 3, 48 Stat. 882, as amended, sec. 3, 78 Stat. 566; 15 U.S.C. 78c, 78*l*)[30 FR 484, Jan. 14, 1965, as amended at 80 FR 21922, Apr. 20, 2015; 81 FR 28706, May 10, 2016]
+(Sec. 3, 48 Stat. 882, as amended, sec. 3, 78 Stat. 566; 15 U.S.C. 78c, 78*l*)[30 FR 484, Jan. 14, 1965, as amended at 80 FR 21922, Apr. 20, 2015; 81 FR 28706, May 10, 2016; 86 FR 3601, Jan. 14, 2021]

@@ -1,7 +1,5 @@
 ##### § 40.1 Definitions. #####
 
-Link to an amendment published at 86 FR 3463, Jan. 14, 2021.
-
 As used in this part:
 
 (a) *Business day* means the intraday period of time starting at the business hour of 8:15 a.m. and ending at the business hour of 4:45 p.m.; *business hour* means any hour between 8:15 a.m. and 4:45 p.m. Business day and business hour are Eastern Standard Time or Eastern Daylight Savings Time, whichever is currently in effect in Washington, DC, on all days except Saturdays, Sundays, and Federal holidays in Washington, DC.
@@ -58,7 +56,7 @@ As used in this part:
 
 (vi) Any price limits, no cancellation ranges, trading halts, or circuit breaker provisions, and procedures for the establishment of daily settlement prices;
 
-(vii) Position limits, position accountability standards, and position reporting requirements;
+(vii) Speculative position limits, position accountability standards, and position reporting requirements, including an indication as to whether the contract meets the definition of a referenced contract as defined in § 150.1 of this chapter, and, if so, the name of either the core referenced futures contract or other referenced contract upon which the new referenced contract submitted under this part 40 is based.
 
 (viii) Delivery points and locational price differentials;
 
@@ -88,7 +86,7 @@ As used in this part:
 
 (vi) Any price limits, trading halts, or circuit breaker provisions, and procedures for the establishment of daily settlement prices;
 
-(vii) Position limits, position accountability standards, and position reporting requirements;
+(vii) Speculative position limits, position accountability standards, and position reporting requirements, including an indication as to whether the contract meets the definition of economically equivalent swap as defined in § 150.1 of this chapter, and, if so, the name of either the core referenced futures contract or referenced contract, as applicable, to which the swap submitted under this part 40 is economically equivalent.
 
 (viii) Payment and reset frequency, day count conventions, business calendars, and accrual features;
 
@@ -105,3 +103,5 @@ As used in this part:
 (xiv) Any restrictions or requirements for exercising an option; and
 
 (xv) Life cycle events.
+
+[76 FR 44790, July 27, 2011, as amended at 86 FR 3463, Jan. 14, 2021]

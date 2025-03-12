@@ -1,7 +1,5 @@
 ##### § 660.413 Overfished species rebuilding plans. #####
 
-Link to an amendment published at 86 FR 9302, Feb. 12, 2021.
-
 For each overfished salmon stock with an approved rebuilding plan, annual management measures will be established using the standards in this section, specifically the target date for rebuilding the stock to its maximum sustainable yield (MSY) level (generally expressed as SMSY) and the harvest control rule to be used to rebuild the stock.
 
 (a) *Klamath River Fall-run Chinook Salmon (KRFC).* KRFC was declared overfished in 2018. The target year for rebuilding the KRFC stock is 2020. The harvest control rule during the rebuilding period for the KRFC stock is the *de minimis* control rule specified in the FMP and at § 660.410(c), which allows for limited fishing impacts when abundance falls below SMSY. The control rule describes maximum allowable exploitation rates at any given level of abundance. The control rule is presented in Figure 1 of subpart H of this part.
@@ -16,4 +14,41 @@ For each overfished salmon stock with an approved rebuilding plan, annual manage
 
 (2) [Reserved]
 
-![](/graphics/er27no20.012.gif)[85 FR 75921, Nov. 27, 2020]
+![](/graphics/er27no20.012.gif)
+
+(c) *Juan de Fuca coho.* The Juan de Fuca coho salmon stock was declared overfished in 2018. The target year for rebuilding Juan de Fuca coho is 2023. The harvest control rule during the rebuilding period for Juan de Fuca coho is the abundance-based stepped harvest rate as shown in table 1 to this paragraph (c).
+
+Table 1 to Paragraph (c)
+
+|Juan de Fuca coho stepped harvest rates|                         |                                                       |
+|---------------------------------------|-------------------------|-------------------------------------------------------|
+|          Abundance category           |  Age-3 ocean abundance  |Total allowable  <br/>exploitation rate  <br/>(percent)|
+|                Normal                 |   Greater than 27,445   |                          60                           |
+|                  Low                  |Between 11,679 and 27,445|                          40                           |
+|               Critical                |     11,679 or less      |                          20                           |
+
+(d) *Queets coho.* The Queets coho salmon stock was declared overfished in 2018. The target year for rebuilding Queets coho is 2019. The harvest control rule during the rebuilding period for Queets coho is the abundance-based stepped harvest rate as shown in table 2 to this paragraph (d).
+
+Table 2 to Paragraph (d)
+
+|Queets coho stepped harvest rates|                       |                                                       |
+|---------------------------------|-----------------------|-------------------------------------------------------|
+|       Abundance category        |    Age-3 abundance    |Total allowable  <br/>exploitation rate  <br/>(percent)|
+|             Normal              |  Greater than 9,667   |                          65                           |
+|               Low               |Between 7,250 and 9,667|                          40                           |
+|            Critical             |    Less than 7,250    |                          20                           |
+
+(e) *Snohomish coho.* (1) The Snohomish coho salmon stock was declared overfished in 2018. The target year for rebuilding Snohomish coho is 2020. The harvest control rule during the rebuilding period for Snohomish coho is the abundance-based stepped harvest rate as shown in table 3 to this paragraph (e).
+
+Table 3 to Paragraph (e)(1)
+
+|Snohomish coho stepped harvest rates|                          |                                                       |
+|------------------------------------|--------------------------|-------------------------------------------------------|
+|         Abundance category         |     Age-3 abundance      |Total allowable  <br/>exploitation rate  <br/>(percent)|
+|               Normal               |   Greater than 137,000   |                          60                           |
+|                Low                 |Between 51,667 and 137,000|                          40                           |
+|              Critical              |     Less than 51,667     |                          20                           |
+
+(2) In years when Snohomish coho abundance is forecast to exceed 137,000, the total allowable exploitation rate will be limited to target achieving a spawning escapement of 55,000 Snohomish coho.
+
+[85 FR 75921, Nov. 27, 2020, as amended at 86 FR 9302, Feb. 12, 2021]

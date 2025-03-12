@@ -1,7 +1,5 @@
 ##### § 15.00 Definitions of terms used in parts 15 to 19, and 21 of this chapter. #####
 
-Link to an amendment published at 86 FR 3454, Jan. 14, 2021.
-
 As used in parts 15 to 19, and 21 of this chapter:
 
 (a) *Cash or Spot,* when used in connection with any commodity, means the actual commodity as distinguished from a futures or options contract in such commodity.
@@ -36,11 +34,11 @@ As used in parts 15 to 19, and 21 of this chapter:
 
 (p) *Reportable position* means:
 
-(1) For reports specified in parts 17, 18 and § 19.00(a)(2) and (a)(3) of this chapter any open contract position that at the close of the market on any business day equals or exceeds the quantity specified in § 15.03 of this part in either:
+(1) For reports specified in parts 17 and 18 and in § 19.00(a) and (b) of this chapter, any open contract position that at the close of the market on any business day equals or exceeds the quantity specified in § 15.03 in either:
 
-(i) Any one futures of any commodity on any one reporting market, excluding futures contracts against which notices of delivery have been stopped by a trader or issued by the clearing organization of a reporting market; or
+(i) Any one futures of any commodity on any one reporting market, excluding futures contracts against which notices of delivery have been stopped by a trader or issued by the clearing organization of the reporting market; or
 
-(ii) Long or short put or call options that exercise into the same future of any commodity, or other long or short put or call commodity options that have identical expirations and exercise into the same commodity, on any one reporting market.
+(ii) Long or short put or call options that exercise into the same futures contract of any commodity, or other long or short put or call commodity options that have identical expirations and exercise into the same commodity, on any one reporting market.
 
 (2) For the purposes of reports specified in § 19.00(a)(1) of this chapter, any combined futures and futures-equivalent option open contract position as defined in part 150 of this chapter in any one month or in all months combined, either net long or net short in any commodity on any one reporting market, excluding futures positions against which notices of delivery have been stopped by a trader or issued by the clearing organization of a reporting market, which at the close of the market on the last business day of the week exceeds the net quantity limit in spot, single or in all-months fixed in § 150.2 of this chapter for the particular commodity and reporting market.
 
@@ -72,4 +70,4 @@ As used in parts 15 to 19, and 21 of this chapter:
 
 (dd) *Reportable sub-account controller* means a natural person who by power of attorney or otherwise actually directs the trading of a reportable sub-account. A reportable sub-account may have more than one controller.
 
-[74 FR 12188, Mar. 23, 2009, as amended at 76 FR 43862, July 22, 2011; 77 FR 66332, Nov. 2, 2012; 78 FR 69230, Nov. 18, 2013; 83 FR 7996, Feb. 23, 2018]
+[74 FR 12188, Mar. 23, 2009, as amended at 76 FR 43862, July 22, 2011; 77 FR 66332, Nov. 2, 2012; 78 FR 69230, Nov. 18, 2013; 83 FR 7996, Feb. 23, 2018; 86 FR 3454, Jan. 14, 2021]

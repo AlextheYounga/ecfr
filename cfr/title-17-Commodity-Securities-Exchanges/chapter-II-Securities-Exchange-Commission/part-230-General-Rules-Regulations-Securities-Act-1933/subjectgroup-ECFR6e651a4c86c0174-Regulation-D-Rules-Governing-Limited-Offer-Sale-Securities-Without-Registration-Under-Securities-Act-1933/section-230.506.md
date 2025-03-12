@@ -1,14 +1,12 @@
 ##### § 230.506 Exemption for limited offers and sales without regard to dollar amount of offering. #####
 
-Link to an amendment published at 86 FR 3598, Jan. 14, 2021.
-
 (a) *Exemption.* Offers and sales of securities by an issuer that satisfy the conditions in paragraph (b) or (c) of this section shall be deemed to be transactions not involving any public offering within the meaning of section 4(a)(2) of the Act.
 
 (b) *Conditions to be met in offerings subject to limitation on manner of offering* - (1) *General conditions.* To qualify for an exemption under this section, offers and sales must satisfy all the terms and conditions of §§ 230.501 and 230.502.
 
-(2) *Specific conditions* - (i) *Limitation on number of purchasers.* There are no more than or the issuer reasonably believes that there are no more than 35 purchasers of securities from the issuer in any offering under this section.
+(2) *Specific conditions* - (i) *Limitation on number of purchasers.* There are no more than, or the issuer reasonably believes that there are no more than, 35 purchasers of securities from the issuer in offerings under this section in any 90-calendar-day period.
 
-Note to paragraph (b)(2)(i):
+Note 1 to paragraph (b)(2)(i):
 
 See § 230.501(e) for the calculation of the number of purchasers and § 230.502(a) for what may or may not constitute an offering under paragraph (b) of this section.
 
@@ -26,7 +24,7 @@ See § 230.501(e) for the calculation of the number of purchasers and § 230.502
 
 (*1*) With respect to assets: Bank statements, brokerage statements and other statements of securities holdings, certificates of deposit, tax assessments, and appraisal reports issued by independent third parties; and
 
-(*2*) With respect to liabilities: A consumer report from at least one of the nationwide consumer reporting agencies; or
+(*2*) With respect to liabilities: A consumer report from at least one of the nationwide consumer reporting agencies;
 
 (C) Obtaining a written confirmation from one of the following persons or entities that such person or entity has taken reasonable steps to verify that the purchaser is an accredited investor within the prior three months and has determined that such purchaser is an accredited investor:
 
@@ -36,11 +34,13 @@ See § 230.501(e) for the calculation of the number of purchasers and § 230.502
 
 (*3*) A licensed attorney who is in good standing under the laws of the jurisdictions in which he or she is admitted to practice law; or
 
-(*4*) A certified public accountant who is duly registered and in good standing under the laws of the place of his or her residence or principal office.
+(*4*) A certified public accountant who is duly registered and in good standing under the laws of the place of his or her residence or principal office;
 
-(D) In regard to any person who purchased securities in an issuer's Rule 506(b) offering as an accredited investor prior to September 23, 2013 and continues to hold such securities, for the same issuer's Rule 506(c) offering, obtaining a certification by such person at the time of sale that he or she qualifies as an accredited investor.
+(D) In regard to any person who purchased securities in an issuer's Rule 506(b) offering as an accredited investor prior to September 23, 2013 and continues to hold such securities, for the same issuer's Rule 506(c) offering, obtaining a certification by such person at the time of sale that he or she qualifies as an accredited investor; or
 
-*Instructions to paragraph (c)(2)(ii)(A) through (D) of this section:*
+(E) In regard to any person that the issuer previously took reasonable steps to verify as an accredited investor in accordance with this paragraph (c)(2)(ii), so long as the issuer is not aware of information to the contrary, obtaining a written representation from such person at the time of sale that he or she qualifies as an accredited investor. A written representation under this method of verification will satisfy the issuer's obligation to verify the person's accredited investor status for a period of five years from the date the person was previously verified as an accredited investor.
+
+*Instructions to paragraph (c)(2)(ii):* of this section.
 
 1. The issuer is not required to use any of these methods in verifying the accredited investor status of natural persons who are purchasers. These methods are examples of the types of non-exclusive and non-mandatory methods that satisfy the verification requirement in § 230.506(c)(2)(ii).
 
@@ -120,4 +120,4 @@ See § 230.501(e) for the calculation of the number of purchasers and § 230.502
 
 *Instruction to paragraph (e).* An issuer will not be able to establish that it has exercised reasonable care unless it has made, in light of the circumstances, factual inquiry into whether any disqualifications exist. The nature and scope of the factual inquiry will vary based on the facts and circumstances concerning, among other things, the issuer and the other offering participants.
 
-[47 FR 11262, Mar. 6, 1982, as amended at 54 FR 11373, Mar. 20, 1989; 78 FR 44770, 44804, July 24, 2013]
+[47 FR 11262, Mar. 6, 1982, as amended at 54 FR 11373, Mar. 20, 1989; 78 FR 44770, 44804, July 24, 2013; 86 FR 3598, Jan. 14, 2021]

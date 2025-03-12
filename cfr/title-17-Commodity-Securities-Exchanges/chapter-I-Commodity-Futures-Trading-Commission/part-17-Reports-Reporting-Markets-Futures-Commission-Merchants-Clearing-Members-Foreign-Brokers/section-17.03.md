@@ -1,7 +1,5 @@
 ##### § 17.03 Delegation of authority to the Director of the Office of Data and Technology or the Director of the Division of Market Oversight. #####
 
-Link to an amendment published at 86 FR 3455, Jan. 14, 2021.
-
 The Commission hereby delegates, until the Commission orders otherwise, the authority set forth in the paragraphs below to either the Director of the Office of Data and Technology or the Director of the Division of Market Oversight, as indicated below, to be exercised by such Director or by such other employee or employees of such Director as designated from time to time by such Director. The Director of the Office of Data and Technology or the Director of the Division of Market Oversight may submit to the Commission for its consideration any matter which has been delegated to such Director in this paragraph. Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in this paragraph.
 
 (a) Pursuant to § 17.00(a) and (h), the authority shall be designated to the Director of the Office of Data and Technology to determine whether futures commission merchants, clearing members and foreign brokers can report the information required under § 17.00(a) and (h) on series `01 forms or using some other format upon a determination that such person is unable to report the information using the format, coding structure or electronic data transmission procedures otherwise required.
@@ -20,4 +18,6 @@ The Commission hereby delegates, until the Commission orders otherwise, the auth
 
 (h) Pursuant to § 17.02(c)(4), the authority shall be designated to the Director of the Division of Market Oversight to determine the date on which each clearing member shall update or otherwise resubmit every Form 102 that it has submitted to the Commission for each of its volume threshold accounts.
 
-[78 FR 69232, Nov. 18, 2013, as amended at 82 FR 28768, June 26, 2017]
+(i) Pursuant to § 17.00(b), and as specifically provided in § 150.4 of this chapter, the authority shall be designated to the Director of the Office of Data and Technology to instruct a futures commission merchant, clearing member, or foreign broker to consider otherwise than as a single account for the purpose of determining special account status and for reporting purposes all accounts one person holds or controls, or in which the person has a financial interest.
+
+[78 FR 69232, Nov. 18, 2013, as amended at 82 FR 28768, June 26, 2017; 86 FR 3455, Jan. 14, 2021]

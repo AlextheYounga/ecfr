@@ -10,12 +10,12 @@
 
 (b) *Treatment of waiver application.* (1) USCIS may not waive an applicant's inadmissibility under sections 212(a)(3), 212(a)(10)(C), or 212(a)(10)(E) of the Act.
 
-(2) If an applicant is inadmissible under section 212(a)(1) of the Act, USCIS may waive such inadmissibility if it determines that granting a waiver is in the national interest.
+(2) If an applicant is inadmissible under sections 212(a)(1) or (4) of the Act, USCIS may waive such inadmissibility if it determines that granting a waiver is in the national interest.
 
-(3) If any other applicable provision of section 212(a) renders the applicant inadmissible, USCIS may grant a waiver of inadmissibility if the activities rendering the alien inadmissible were caused by or were incident to the victimization and USCIS determines that it is in the national interest to waive the applicable ground or grounds of inadmissibility.
+(3) If any other provision of section 212(a) renders the applicant inadmissible, USCIS may grant a waiver of inadmissibility if the activities rendering the alien inadmissible were caused by or were incident to the victimization and USCIS determines that it is in the national interest to waive the applicable ground or grounds of inadmissibility.
 
 (c) *Other waivers.* Nothing in this section shall be construed as limiting an alien's ability to apply for any other waivers of inadmissibility for which he or she may be eligible.
 
 (d) *Revocation.* The Secretary of Homeland Security may, at any time, revoke a waiver previously granted through the procedures described in 8 CFR 103.5.
 
-[73 FR 75557, Dec. 12, 2008, as amended at 84 FR 41501, Aug. 14, 2019; 85 FR 46923, Aug. 3, 2020]
+[73 FR 75557, Dec. 12, 2008, as amended at 84 FR 41501, Aug. 14, 2019; 85 FR 46923, Aug. 3, 2020; 86 FR 14227, Mar. 15, 2021]

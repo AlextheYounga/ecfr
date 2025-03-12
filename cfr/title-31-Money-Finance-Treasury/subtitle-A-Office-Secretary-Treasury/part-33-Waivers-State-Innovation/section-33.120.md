@@ -1,10 +1,8 @@
 ##### § 33.120 Monitoring and compliance. #####
 
-Link to an amendment published at 86 FR 6176, Jan. 19, 2021.
+(a) *General.* (1) Following the issuance of a final decision to approve a section 1332 waiver by the Secretary and the Secretary of Health and Human Services, as applicable, a State must comply with all applicable Federal laws, regulations, and interpretive policy statements, as well as interpretive guidance published by the Secretary and the Secretary of Health and Human Services, unless expressly waived. A State must, within the timeframes specified in law, regulation, interpretive policy or guidance, come into compliance with any changes in Federal law, regulation, or policy affecting section 1332 waivers, unless the provision being changed is expressly waived.
 
-(a) *General.* (1) Following the issuance of a final decision to approve a section 1332 waiver by the Secretary and the Secretary of Health and Human Services, a State must comply with all applicable Federal laws, regulations, interpretive policy statements and interpretive guidance unless expressly waived. A State must, within the timeframes specified in law, regulation, policy, or guidance, come into compliance with any changes in Federal law, regulation, or policy affecting section 1332 waivers, unless the provision changed is expressly waived.
-
-(2) A State must comply with the terms and conditions of the agreement between the Secretary, the Secretary of Health and Human Services, and the State to implement a section 1332 waiver.
+(2) The Secretary and the Secretary of Health and Human Services will examine compliance with Federal and regulatory requirements consistent with § 33.108(f)(3)(iv) and interpretive guidance published by the Secretary and the Secretary of Health and Human Services when conducting implementation reviews under paragraph (b) of this section.
 
 (b) *Implementation reviews.* (1) The terms and conditions of an approved section 1332 waiver will provide that the State will perform periodic reviews of the implementation of the section 1332 waiver.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 86 FR 6176, Jan. 19, 2021.
 
 (2) As part of this required cooperation, a State must submit all requested data and information to the Secretary, the Secretary of Health and Human Services, or the independent evaluator.
 
-[77 FR 11715, Feb. 27, 2012, as amended at 85 FR 71196, Nov. 5, 2020]
+[77 FR 11715, Feb. 27, 2012, as amended at 85 FR 71196, Nov. 5, 2020; 86 FR 6176, Jan. 19, 2021]

@@ -1,30 +1,10 @@
 ##### § 230.502 General conditions to be met. #####
 
-Link to an amendment published at 86 FR 3598, Jan. 14, 2021.
-
 The following conditions shall be applicable to offers and sales made under Regulation D (§ 230.500 *et seq.* of this chapter):
 
-(a) *Integration.* All sales that are part of the same Regulation D offering must meet all of the terms and conditions of Regulation D. Offers and sales that are made more than six months before the start of a Regulation D offering or are made more than six months after completion of a Regulation D offering will not be considered part of that Regulation D offering, so long as during those six month periods there are no offers or sales of securities by or for the issuer that are of the same or a similar class as those offered or sold under Regulation D, other than those offers or sales of securities under an employee benefit plan as defined in rule 405 under the Act (17 CFR 230.405).
+(a) *Integration.* To determine whether offers and sales should be integrated, see § 230.152.
 
-Note:
-
-The term *offering* is not defined in the Act or in Regulation D. If the issuer offers or sells securities for which the safe harbor rule in paragraph (a) of this § 230.502 is unavailable, the determination as to whether separate sales of securities are part of the same offering (*i.e.*, are considered *integrated*) depends on the particular facts and circumstances. Generally, transactions otherwise meeting the requirements of an exemption will not be integrated with simultaneous offerings being made outside the United States in compliance with Regulation S. See Release No. 33-6863.
-
-The following factors should be considered in determining whether offers and sales should be integrated for purposes of the exemptions under Regulation D:
-
-(a) Whether the sales are part of a single plan of financing;
-
-(b) Whether the sales involve issuance of the same class of securities;
-
-(c) Whether the sales have been made at or about the same time;
-
-(d) Whether the same type of consideration is being received; and
-
-(e) Whether the sales are made for the same general purpose.
-
-See Release 33-4552 (November 6, 1962) [27 FR 11316].
-
-(b) *Information requirements* - (1) *When information must be furnished.* If the issuer sells securities under § 230.506(b) to any purchaser that is not an accredited investor, the issuer shall furnish the information specified in paragraph (b)(2) of this section to such purchaser a reasonable time prior to sale. The issuer is not required to furnish the specified information to purchasers when it sells securities under § 230.504, or to any accredited investor.
+(b) *Information requirements*—(1) *When information must be furnished.* If the issuer sells securities under § 230.506(b) to any purchaser that is not an accredited investor, the issuer shall furnish the information specified in paragraph (b)(2) of this section to such purchaser a reasonable time prior to sale. The issuer is not required to furnish the specified information to purchasers when it sells securities under § 230.504, or to any accredited investor.
 
 Note:
 
@@ -34,11 +14,9 @@ When an issuer provides information to investors pursuant to paragraph (b)(1), i
 
 (A) *Non-financial statement information.* If the issuer is eligible to use Regulation A (§ 230.251-263), the same kind of information as would be required in Part II of Form 1-A (§ 239.90 of this chapter). If the issuer is not eligible to use Regulation A, the same kind of information as required in Part I of a registration statement filed under the Securities Act on the form that the issuer would be entitled to use.
 
-(B) *Financial statement information* - (*1*) *Offerings up to $2,000,000.* The information required in Article 8 of Regulation S-X (§ 210.8 of this chapter), except that only the issuer's balance sheet, which shall be dated within 120 days of the start of the offering, must be audited.
+(B) *Financial statement information*—(*1*) *Offerings up to $20,000,000.* The financial statement information required by paragraph (b) of Part F/S of Form 1-A. Such financial statement information must be prepared in accordance with generally accepted accounting principles in the United States (US GAAP). If the issuer is a foreign private issuer, such financial statements must be prepared in accordance with either US GAAP or International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB). If the financial statements comply with IFRS, such compliance must be explicitly and unreservedly stated in the notes to the financial statements and if the financial statements are audited, the auditor's report must include an opinion on whether the financial statements comply with IFRS as issued by the IASB.
 
-(*2*) *Offerings up to $7,500,000.* The financial statement information required in Form S-1 (§ 239.10 of this chapter) for smaller reporting companies. If an issuer, other than a limited partnership, cannot obtain audited financial statements without unreasonable effort or expense, then only the issuer's balance sheet, which shall be dated within 120 days of the start of the offering, must be audited. If the issuer is a limited partnership and cannot obtain the required financial statements without unreasonable effort or expense, it may furnish financial statements that have been prepared on the basis of Federal income tax requirements and examined and reported on in accordance with generally accepted auditing standards by an independent public or certified accountant.
-
-(*3*) *Offerings over $7,500,000.* The financial statement as would be required in a registration statement filed under the Act on the form that the issuer would be entitled to use. If an issuer, other than a limited partnership, cannot obtain audited financial statements without unreasonable effort or expense, then only the issuer's balance sheet, which shall be dated within 120 days of the start of the offering, must be audited. If the issuer is a limited partnership and cannot obtain the required financial statements without unreasonable effort or expense, it may furnish financial statements that have been prepared on the basis of Federal income tax requirements and examined and reported on in accordance with generally accepted auditing standards by an independent public or certified accountant.
+(*2*) *Offerings over $20,000,000.* The financial statement information required by paragraph (c) of Part F/S of Form 1-A (referenced in § 239.90 of this chapter). If the issuer is a foreign private issuer, such financial statements must be prepared in accordance with either US GAAP or IFRS as issued by the IASB. If the financial statements comply with IFRS, such compliance must be explicitly and unreservedly stated in the notes to the financial statements and the auditor's report must include an opinion on whether the financial statements comply with IFRS as issued by the IASB.
 
 (C) If the issuer is a foreign private issuer eligible to use Form 20-F (§ 249.220f of this chapter), the issuer shall disclose the same kind of information required to be included in a registration statement filed under the Act on the form that the issuer would be entitled to use. The financial statements need be certified only to the extent required by paragraph (b)(2)(i) (B) (*1*), (*2*) or (*3*) of this section, as appropriate.
 
@@ -62,6 +40,8 @@ When an issuer provides information to investors pursuant to paragraph (b)(1), i
 
 (vii) At a reasonable time prior to the sale of securities to any purchaser that is not an accredited investor in a transaction under § 230.506(b), the issuer shall advise the purchaser of the limitations on resale in the manner contained in paragraph (d)(2) of this section. Such disclosure may be contained in other materials required to be provided by this paragraph.
 
+(viii) At a reasonable time prior to the sale of securities to any purchaser that is not an accredited investor in a transaction under § 230.506(b), the issuer shall provide the purchaser with any written communication or broadcast script used under the authorization of § 230.241 within 30 days prior to such sale.
+
 (c) *Limitation on manner of offering.* Except as provided in § 230.504(b)(1) or § 230.506(c), neither the issuer nor any person acting on its behalf shall offer or sell the securities by any form of general solicitation or general advertising, including, but not limited to, the following:
 
 (1) Any advertisement, article, notice or other communication published in any newspaper, magazine, or similar media or broadcast over television or radio; and
@@ -76,4 +56,4 @@ When an issuer provides information to investors pursuant to paragraph (b)(1), i
 
 (3) Placement of a legend on the certificate or other document that evidences the securities stating that the securities have not been registered under the Act and setting forth or referring to the restrictions on transferability and sale of the securities.
 
-While taking these actions will establish the requisite reasonable care, it is not the exclusive method to demonstrate such care. Other actions by the issuer may satisfy this provision. In addition, § 230.502(b)(2)(vii) requires the delivery of written disclosure of the limitations on resale to investors in certain instances.[47 FR 11262, Mar. 16, 1982, as amended at 47 FR 54771, Dec. 6, 1982; 53 FR 7869, Mar. 11, 1988; 54 FR 11372, Mar. 20, 1989; 55 FR 18322, May 2, 1990; 56 FR 30054, 30055, July 1, 1991; 57 FR 47409, Oct. 16, 1992; 58 FR 26514, May 4, 1993; 59 FR 21650, Apr. 26, 1994; 62 FR 53954, Oct. 17, 1997; 73 FR 969, Jan. 4, 2008; 73 FR 10615, Feb. 27, 2008; 77 FR 18685, Mar. 28, 2012; 78 FR 44804, July 24, 2013; 81 FR 83553, Nov. 21, 2016]
+While taking these actions will establish the requisite reasonable care, it is not the exclusive method to demonstrate such care. Other actions by the issuer may satisfy this provision. In addition, § 230.502(b)(2)(vii) requires the delivery of written disclosure of the limitations on resale to investors in certain instances.[47 FR 11262, Mar. 16, 1982, as amended at 47 FR 54771, Dec. 6, 1982; 53 FR 7869, Mar. 11, 1988; 54 FR 11372, Mar. 20, 1989; 55 FR 18322, May 2, 1990; 56 FR 30054, 30055, July 1, 1991; 57 FR 47409, Oct. 16, 1992; 58 FR 26514, May 4, 1993; 59 FR 21650, Apr. 26, 1994; 62 FR 53954, Oct. 17, 1997; 73 FR 969, Jan. 4, 2008; 73 FR 10615, Feb. 27, 2008; 77 FR 18685, Mar. 28, 2012; 78 FR 44804, July 24, 2013; 81 FR 83553, Nov. 21, 2016; 86 FR 3598, Jan. 14, 2021]

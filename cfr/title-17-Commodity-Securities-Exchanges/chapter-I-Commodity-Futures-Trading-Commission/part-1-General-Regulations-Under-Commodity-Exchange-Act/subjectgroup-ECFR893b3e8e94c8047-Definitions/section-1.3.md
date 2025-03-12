@@ -1,7 +1,5 @@
 ##### § 1.3 Definitions. #####
 
-Link to an amendment published at 86 FR 3454, Jan. 14, 2021.
-
 Words used in the singular form in the rules and regulations in this chapter shall be deemed to import the plural and vice versa, as the context may require. The following terms, as used in the Commodity Exchange Act, or in the rules and regulations in this chapter, shall have the meanings hereby assigned to them, unless the context otherwise requires:
 
 *Agricultural commodity.* This term means:
@@ -38,40 +36,6 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Board of Trade.* This term means an organized exchange or other trading facility.
 
-*Bona fide hedging transactions and positions for excluded commodities* - (1) *General definition.* Bona fide hedging transactions and positions shall mean any agreement, contract or transaction in an excluded commodity on a designated contract market or swap execution facility that is a trading facility, where such transactions or positions normally represent a substitute for transactions to be made or positions to be taken at a later time in a physical marketing channel, and where they are economically appropriate to the reduction of risks in the conduct and management of a commercial enterprise, and where they arise from:
-
-(i) The potential change in the value of assets which a person owns, produces, manufactures, processes, or merchandises or anticipates owning, producing, manufacturing, processing, or merchandising,
-
-(ii) The potential change in the value of liabilities which a person owns or anticipates incurring, or
-
-(iii) The potential change in the value of services which a person provides, purchases, or anticipates providing or purchasing.
-
-(iv) Notwithstanding the foregoing, no transactions or positions shall be classified as bona fide hedging unless their purpose is to offset price risks incidental to commercial cash or spot operations and such positions are established and liquidated in an orderly manner in accordance with sound commercial practices and, for transactions or positions on contract markets subject to trading and position limits in effect pursuant to section 4a of the Act, unless the provisions of paragraphs (2) and (3) of this definition have been satisfied.
-
-(2) *Enumerated hedging transactions.* The definitions of bona fide hedging transactions and positions in paragraph (1) of this definition includes, but is not limited to, the following specific transactions and positions:
-
-(i) Sales of any agreement, contract, or transaction in an excluded commodity on a designated contract market or swap execution facility that is a trading facility which do not exceed in quantity:
-
-(A) Ownership or fixed-price purchase of the same cash commodity by the same person; and
-
-(B) Twelve months' unsold anticipated production of the same commodity by the same person provided that no such position is maintained in any agreement, contract or transaction during the five last trading days.
-
-(ii) Purchases of any agreement, contract or transaction in an excluded commodity on a designated contract market or swap execution facility that is a trading facility which do not exceed in quantity:
-
-(A) The fixed-price sale of the same cash commodity by the same person;
-
-(B) The quantity equivalent of fixed-price sales of the cash products and by-products of such commodity by the same person; and
-
-(C) Twelve months' unfilled anticipated requirements of the same cash commodity for processing, manufacturing, or feeding by the same person, provided that such transactions and positions in the five last trading days of any agreement, contract or transaction do not exceed the person's unfilled anticipated requirements of the same cash commodity for that month and for the next succeeding month.
-
-(iii) Offsetting sales and purchases in any agreement, contract or transaction in an excluded commodity on a designated contract market or swap execution facility that is a trading facility which do not exceed in quantity that amount of the same cash commodity which has been bought and sold by the same person at unfixed prices basis different delivery months of the contract market, provided that no such position is maintained in any agreement, contract or transaction during the five last trading days.
-
-(iv) Purchases or sales by an agent who does not own or has not contracted to sell or purchase the offsetting cash commodity at a fixed price, provided that the agent is responsible for the merchandising of the cash position that is being offset, and the agent has a contractual arrangement with the person who owns the commodity or has the cash market commitment being offset.
-
-(v) Sales and purchases described in paragraphs (2)(i) through (iv) of this definition may also be offset other than by the same quantity of the same cash commodity, provided that the fluctuations in value of the position for in any agreement, contract or transaction are substantially related to the fluctuations in value of the actual or anticipated cash position, and provided that the positions in any agreement, contract or transaction shall not be maintained during the five last trading days.
-
-(3) *Non-Enumerated cases.* A designated contract market or swap execution facility that is a trading facility may recognize, consistent with the purposes of this definition, transactions and positions other than those enumerated in paragraph (2) of this definition as bona fide hedging. Prior to recognizing such non-enumerated transactions and positions, the designated contract market or swap execution facility that is a trading facility shall submit such rules for Commission review under section 5c of the Act and part 40 of this chapter.
-
 *Business day.* This term means any day other than a Sunday or holiday. In all notices required by the Act or by the rules and regulations in this chapter to be given in terms of business days the rule for computing time shall be to exclude the day on which notice is given and include the day on which shall take place the act of which notice is given.
 
 *Category of swaps; major swap category.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition of *major swap participant* in this section, the terms *major swap category, category of swaps* and any similar terms mean any of the categories of swaps listed below. For the avoidance of doubt, the term *swap* as it is used in this definition has the meaning set forth in section 1a(47) of the Act, 7 U.S.C. 1a(47), and the rules thereunder.
@@ -94,7 +58,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Clearing member.* This term means any person that has clearing privileges such that it can process, clear and settle trades through a derivatives clearing organization on behalf of itself or others. The derivatives clearing organization need not be organized as a membership organization.
 
-*Clearing organization or derivatives clearing organization.* This term means a clearinghouse, clearing association, clearing corporation, or similar entity, facility, system, or organization that, with respect to an agreement, contract, or transaction -
+*Clearing organization or derivatives clearing organization.* This term means a clearinghouse, clearing association, clearing corporation, or similar entity, facility, system, or organization that, with respect to an agreement, contract, or transaction—
 
 (1) Enables each party to the agreement, contract, or transaction to substitute, through novation or otherwise, the credit of the derivatives clearing organization for the credit of the parties;
 
@@ -102,7 +66,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (3) Otherwise provides clearing services or arrangements that mutualize or transfer among participants in the derivatives clearing organization the credit risk arising from such agreements, contracts, or transactions executed by the participants.
 
-(4) *Exclusions.* The terms clearing organization and derivatives clearing organization do not include an entity, facility, system, or organization solely because it arranges or provides for -
+(4) *Exclusions.* The terms clearing organization and derivatives clearing organization do not include an entity, facility, system, or organization solely because it arranges or provides for—
 
 (i) Settlement, netting, or novation of obligations resulting from agreements, contracts or transactions, on a bilateral basis and without a central counterparty;
 
@@ -180,7 +144,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Electronic signature.* This term means an electronic sounds, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
 
-*Electronic trading facility.* This term means a trading facility that -
+*Electronic trading facility.* This term means a trading facility that—
 
 (1) Operates by means of an electronic or telecommunications network; and
 
@@ -208,7 +172,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (B) For purposes of paragraph (7)(ii)(A) of this definition, the term *shell company* means any entity that limits its holdings to direct or indirect interests in entities that are relying on this paragraph (7); and
 
-(C) In determining whether an owner of an entity is an eligible contract participant for purposes of paragraph (7)(i) of this definition, an individual may be considered to be a proprietorship eligible contract participant only if the individual -
+(C) In determining whether an owner of an entity is an eligible contract participant for purposes of paragraph (7)(i) of this definition, an individual may be considered to be a proprietorship eligible contract participant only if the individual—
 
 (*1*) Has an active role in operating a business other than an entity;
 
@@ -246,7 +210,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Floor broker.* This term means any person:
 
-(1) Who, in or surrounding any pit, ring, post or other place provided by a contract market for the meeting of persons similarly engaged, shall purchase or sell for any other person -
+(1) Who, in or surrounding any pit, ring, post or other place provided by a contract market for the meeting of persons similarly engaged, shall purchase or sell for any other person—
 
 (i) Any commodity for future delivery, security futures product, or swap; or
 
@@ -256,7 +220,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Floor trader.* This term means any person:
 
-(1) Who, in or surrounding any pit, ring, post or other place provided by a contract market for the meeting of persons similarly engaged, purchases, or sells solely for such person's own account -
+(1) Who, in or surrounding any pit, ring, post or other place provided by a contract market for the meeting of persons similarly engaged, purchases, or sells solely for such person's own account—
 
 (i) Any commodity for future delivery, security futures product, or swap; or
 
@@ -282,7 +246,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Futures commission merchant.* This term means:
 
-(1) Any individual, association, partnership, corporation, or trust -
+(1) Any individual, association, partnership, corporation, or trust—
 
 (i) Who is engaged in soliciting or in accepting orders for the purchase or sale of any commodity for future delivery; a security futures product; a swap; any agreement, contract, or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i) of the Act; a commodity option authorized under section 4c of the Act; a leverage transaction authorized under section 19 of the Act; or acting as a counterparty in any agreement, contract or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i) of the Act; and
 
@@ -380,7 +344,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Leverage transaction merchant.* This term means and includes any individual, association, partnership, corporation, trust or other person that is engaged in the business of offering to enter into, entering into or confirming the execution of leverage contracts, or soliciting or accepting orders for leverage contracts, and who accepts leverage customer funds (or extends credit in lieu thereof) in connection therewith.
 
-*Major swap participant* - (1) *In general.* The term *major swap participant* means any person:
+*Major swap participant*—(1) *In general.* The term *major swap participant* means any person:
 
 (i) That is not a swap dealer; and
 
@@ -408,11 +372,11 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (6) *Calculation of status.* A person shall not be deemed to be a “major swap participant,” regardless of whether the criteria in paragraph (1) of this definition otherwise would cause the person to be a major swap participant, provided the person meets the conditions set forth in paragraphs (6)(i), (ii) or (iii) of this definition.
 
-(i) *Caps on uncollateralized exposure and notional positions* - (A) *Maximum potential uncollateralized exposure.* The express terms of the person's agreements or arrangements relating to swaps with its counterparties at no time would permit the person to maintain a total uncollateralized exposure of more than $100 million to all such counterparties, including any exposure that may result from thresholds or minimum transfer amounts established by credit support annexes or similar arrangements; and
+(i) *Caps on uncollateralized exposure and notional positions*—(A) *Maximum potential uncollateralized exposure.* The express terms of the person's agreements or arrangements relating to swaps with its counterparties at no time would permit the person to maintain a total uncollateralized exposure of more than $100 million to all such counterparties, including any exposure that may result from thresholds or minimum transfer amounts established by credit support annexes or similar arrangements; and
 
 (B) *Maximum notional amount of swap positions.* The person does not maintain swap positions in a notional amount of more than $2 billion in any major category of swaps, or more than $4 billion in the aggregate across all major categories; or
 
-(ii) *Caps on uncollateralized exposure plus monthly calculation* - (A) *Maximum potential uncollateralized exposure.* The express terms of the person's agreements or arrangements relating to swaps with its counterparties at no time would permit the person to maintain a total uncollateralized exposure of more than $200 million to all such counterparties (with regard to swaps and any other instruments by which the person may have exposure to those counterparties), including any exposure that may result from thresholds or minimum transfer amounts established by credit support annexes or similar arrangements; and
+(ii) *Caps on uncollateralized exposure plus monthly calculation*—(A) *Maximum potential uncollateralized exposure.* The express terms of the person's agreements or arrangements relating to swaps with its counterparties at no time would permit the person to maintain a total uncollateralized exposure of more than $200 million to all such counterparties (with regard to swaps and any other instruments by which the person may have exposure to those counterparties), including any exposure that may result from thresholds or minimum transfer amounts established by credit support annexes or similar arrangements; and
 
 (B) *Calculation of positions.* (*1*) At the end of each month, the person performs the calculations prescribed by the definition in this section of *substantial position* with regard to whether the aggregate uncollateralized outward exposure plus aggregate potential outward exposure as of that day constitute a “substantial position” in a major category of swaps, or pose “substantial counterparty exposure that could have serious adverse effects on the financial stability of the United States banking system or financial markets”; these calculations shall disregard provisions of those rules that provide for the analyses to be determined based on a daily average over a calendar quarter; and
 
@@ -572,7 +536,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Member.* This term means:
 
-(1) An individual, association, partnership, corporation, or trust -
+(1) An individual, association, partnership, corporation, or trust—
 
 (i) Owning or holding membership in, or admitted to membership representation on, a registered entity; or
 
@@ -580,7 +544,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) A participant in an alternative trading system that is designated as a contract market pursuant to section 5f of the Act is deemed a member of the contract market for purposes of transactions in security futures products through the contract market.
 
-*Narrow-based security index as used in the definition of “security-based swap”* - (1) *In general.* Except as otherwise provided in the definitions in this section for meaning of *issuers of securities in a narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps and meaning of *narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps, for purposes of section 1a(42) of the Commodity Exchange Act, the term *narrow-based security index* has the meaning set forth in section 1a(35) of the Commodity Exchange Act, and the rules, regulations and orders of the Commission thereunder.
+*Narrow-based security index as used in the definition of “security-based swap”*—(1) *In general.* Except as otherwise provided in the definitions in this section for meaning of *issuers of securities in a narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps and meaning of *narrow-based security index* as used in the definition of *security-based swap* as applied to index credit default swaps, for purposes of section 1a(42) of the Commodity Exchange Act, the term *narrow-based security index* has the meaning set forth in section 1a(35) of the Commodity Exchange Act, and the rules, regulations and orders of the Commission thereunder.
 
 (2) *Tolerance period for swaps traded on designated contract markets, swap execution facilities, and foreign boards of trade.* Notwithstanding paragraph (1) of this definition, solely for purposes of swaps traded on or subject to the rules of a designated contract market, swap execution facility, or foreign board of trade, a security index underlying such swaps shall not be considered a narrow-based security index if:
 
@@ -620,15 +584,15 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Order.* This term means an instruction or authorization provided by a customer to a futures commission merchant, introducing broker or commodity trading advisor regarding trading in a commodity interest on behalf of the customer.
 
-*Organized exchange.* This term means a trading facility that -
+*Organized exchange.* This term means a trading facility that—
 
-(1) Permits trading -
+(1) Permits trading—
 
 (i) By or on behalf of a person that is not an eligible contract participant; or
 
 (ii) By persons other than on a principal-to-principal basis; or
 
-(2) Has adopted (directly or through another nongovernmental entity) rules that -
+(2) Has adopted (directly or through another nongovernmental entity) rules that—
 
 (i) Govern the conduct of participants, other than rules that govern the submission of orders or execution of transactions on the trading facility; and
 
@@ -706,7 +670,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 *Strike price.* This term means the price, per unit, at which a person may purchase or sell the commodity, swap, or contract of sale of a commodity for future delivery that is the subject of a commodity option: *Provided,* That for purposes of § 1.17, the term strike price means the total price at which a person may purchase or sell the commodity, swap, or contract of sale of a commodity for future delivery that is the subject of a commodity option (*i.e.,* price per unit times the number of units).
 
-*Substantial counterparty exposure* - (1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term *substantial counterparty exposure that could have serious adverse effects on the financial stability of the United States banking system or financial markets* means a swap position that satisfies either of the following thresholds:
+*Substantial counterparty exposure*—(1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term *substantial counterparty exposure that could have serious adverse effects on the financial stability of the United States banking system or financial markets* means a swap position that satisfies either of the following thresholds:
 
 (i) $5 billion in daily average aggregate uncollateralized outward exposure; or
 
@@ -718,7 +682,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (2) *Calculation methodology.* For these purposes, the terms *daily average aggregate uncollateralized outward exposure* and *daily average aggregate potential outward exposure* shall be calculated the same way as is prescribed in the definition in this section of *substantial position,* except that these amounts shall be calculated by reference to all of the person's swap positions, rather than by reference to a specific major swap category.
 
-*Substantial position* - (1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term “substantial position” means swap positions that equal or exceed any of the following thresholds in the specified major category of swaps:
+*Substantial position*—(1) *In general.* For purposes of section 1a(33) of the Act, 7 U.S.C. 1a(33), and the definition in this section of *major swap participant,* the term “substantial position” means swap positions that equal or exceed any of the following thresholds in the specified major category of swaps:
 
 (i) For rate swaps:
 
@@ -760,7 +724,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (*2*) Daily average aggregate potential outward exposure.
 
-(2) *Aggregate uncollateralized outward exposure* - (i) *In general. Aggregate uncollateralized outward exposure* in general means the sum of the current exposure, obtained by marking-to-market using industry standard practices, of each of the person's swap positions with negative value in a major swap category, less the value of the collateral the person has posted in connection with those positions.
+(2) *Aggregate uncollateralized outward exposure*—(i) *In general. Aggregate uncollateralized outward exposure* in general means the sum of the current exposure, obtained by marking-to-market using industry standard practices, of each of the person's swap positions with negative value in a major swap category, less the value of the collateral the person has posted in connection with those positions.
 
 (ii) *Calculation of aggregate uncollateralized outward exposure.* In calculating this amount the person shall, with respect to each of its swap counterparties in a given major swap category, determine the dollar value of the aggregate current exposure arising from each of its swap positions with negative value (subject to the netting provisions described below) in that major category by marking-to-market using industry standard practices; and deduct from that dollar amount the aggregate value of the collateral the person has posted with respect to the swap positions. The aggregate uncollateralized outward exposure shall be the sum of those uncollateralized amounts across all of the person's swap counterparties in the applicable major category.
 
@@ -772,13 +736,13 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 ![](/graphics/er23fe18.006.gif)Where:*E*S(MC) equals the amount of aggregate current exposure attributable to the entity's swap positions in the “major” swap category at issue; *E*net total equals the entity's aggregate current exposure to the counterparty at issue, after accounting for the netting of positions and the posting of collateral; *OTM*S(MC) equals the exposure associated with the entity's out-of-the-money positions in swaps in the “major” category at issue, subject to those netting arrangements; and *OTM*S(O) equals the exposure associated with the entity's out-of-the-money positions in the other “major” categories of swaps, subject to those netting arrangements; and *OTM*non-S equals the exposure associated with the entity's out-of-the-money positions associated with instruments, other than swaps, that are subject to those netting arrangements.
 
-(3) *Aggregate potential outward exposure* - (i) *In general.* Aggregate potential outward exposure in any major swap category means the sum of:
+(3) *Aggregate potential outward exposure*—(i) *In general.* Aggregate potential outward exposure in any major swap category means the sum of:
 
 (A) The aggregate potential outward exposure for each of the person's swap positions in a major swap category that are not subject to daily mark-to-market margining and are not cleared by a registered or exempt clearing agency or derivatives clearing organization, as calculated in accordance with paragraph (3)(ii) of this definition; and
 
 (B) The aggregate potential outward exposure for each of the person's swap positions in such major swap category that are either subject to daily mark-to-market margining or are cleared by a registered or exempt clearing agency or derivatives clearing organization, as calculated in accordance with paragraph (3)(iii) of this definition.
 
-(ii) *Calculation of potential outward exposure for swaps that are not subject to daily mark-to-market margining and are not cleared by a registered or exempt clearing agency or derivatives clearing organization* - (A) *In general.* (*1*) For positions in swaps that are not subject to daily mark-to-market margining and are not cleared by a registered or exempt clearing agency or a derivatives clearing organization, potential outward exposure equals the total notional principal amount of those positions, multiplied by the following factors on a position-by-position basis reflecting the type of swap. For any swap that does not appropriately fall within any of the specified categories, the “other commodities” conversion factors set forth in the following Table 1 are to be used. If a swap is structured such that on specified dates any outstanding exposure is settled and the terms are reset so that the market value of the swap is zero, the remaining maturity equals the time until the next reset date.
+(ii) *Calculation of potential outward exposure for swaps that are not subject to daily mark-to-market margining and are not cleared by a registered or exempt clearing agency or derivatives clearing organization*—(A) *In general.* (*1*) For positions in swaps that are not subject to daily mark-to-market margining and are not cleared by a registered or exempt clearing agency or a derivatives clearing organization, potential outward exposure equals the total notional principal amount of those positions, multiplied by the following factors on a position-by-position basis reflecting the type of swap. For any swap that does not appropriately fall within any of the specified categories, the “other commodities” conversion factors set forth in the following Table 1 are to be used. If a swap is structured such that on specified dates any outstanding exposure is settled and the terms are reset so that the market value of the swap is zero, the remaining maturity equals the time until the next reset date.
 
 ![](/graphics/er23fe18.007.gif)
 
@@ -952,7 +916,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (3) *Scope of designation.* A person who is a swap dealer shall be deemed to be a swap dealer with respect to each swap it enters into, regardless of the category of the swap or the person's activities in connection with the swap. However, if a person makes an application to limit its designation as a swap dealer to specified categories of swaps or specified activities of the person in connection with swaps, the Commission shall determine whether the person's designation as a swap dealer shall be so limited. If the Commission grants such limited designation, such limited designation swap dealer shall be deemed to be a swap dealer with respect to each swap it enters into in the swap category or categories for which it is so designated, regardless of the person's activities in connection with such category or categories of swaps. A person may make such application to limit the categories of swaps or activities of the person that are subject to its swap dealer designation at the same time as, or after, the person's initial registration as a swap dealer.
 
-(4) *De minimis exception* - (i)(A) *In general.* Except as provided in paragraph (4)(vi) of this definition, a person that is not currently registered as a swap dealer shall be deemed not to be a swap dealer as a result of its swap dealing activity involving counterparties, so long as the swaps connected with those dealing activities into which the person - or any other entity controlling, controlled by or under common control with the person - enters over the course of the immediately preceding 12 months have an aggregate gross notional amount of no more than $8 billion, and an aggregate gross notional amount of no more than $25 million with regard to swaps in which the counterparty is a “special entity” (as that term is defined in section 4s(h)(2)(C) of the Act, 7 U.S.C. 6s(h)(2)(C), and § 23.401(c) of this chapter), except as provided in paragraph (4)(i)(B) of this definition. For purposes of this definition, if the stated notional amount of a swap is leveraged or enhanced by the structure of the swap, the calculation shall be based on the effective notional amount of the swap rather than on the stated notional amount.
+(4) *De minimis exception*—(i)(A) *In general.* Except as provided in paragraph (4)(vi) of this definition, a person that is not currently registered as a swap dealer shall be deemed not to be a swap dealer as a result of its swap dealing activity involving counterparties, so long as the swaps connected with those dealing activities into which the person—or any other entity controlling, controlled by or under common control with the person—enters over the course of the immediately preceding 12 months have an aggregate gross notional amount of no more than $8 billion, and an aggregate gross notional amount of no more than $25 million with regard to swaps in which the counterparty is a “special entity” (as that term is defined in section 4s(h)(2)(C) of the Act, 7 U.S.C. 6s(h)(2)(C), and § 23.401(c) of this chapter), except as provided in paragraph (4)(i)(B) of this definition. For purposes of this definition, if the stated notional amount of a swap is leveraged or enhanced by the structure of the swap, the calculation shall be based on the effective notional amount of the swap rather than on the stated notional amount.
 
 (B) *Utility special entities.* (*1*) Solely for purposes of determining whether a person's swap dealing activity has exceeded the $25 million aggregate gross notional amount threshold set forth in paragraph (4)(i)(A) of this definition for swaps in which the counterparty is a special entity, a person may exclude *utility operations-related swaps* in which the counterparty is a *utility special entity.*
 
@@ -1058,7 +1022,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (B) Any synthetic loan, including, without limitation, a loan credit default swap or loan total return swap.
 
-(6) *Swaps that are not considered in determining whether a person is a swap dealer* - (i) *Inter-affiliate activities.* In determining whether a person is a swap dealer, that person's swaps with majority-owned affiliates shall not be considered. For these purposes the counterparties to a swap are majority-owned affiliates if one counterparty directly or indirectly owns a majority interest in the other, or if a third party directly or indirectly owns a majority interest in both counterparties to the swap, where *majority interest* is the right to vote or direct the vote of a majority of a class of voting securities of an entity, the power to sell or direct the sale of a majority of a class of voting securities of an entity, or the right to receive upon dissolution or the contribution of a majority of the capital of a partnership.
+(6) *Swaps that are not considered in determining whether a person is a swap dealer*—(i) *Inter-affiliate activities.* In determining whether a person is a swap dealer, that person's swaps with majority-owned affiliates shall not be considered. For these purposes the counterparties to a swap are majority-owned affiliates if one counterparty directly or indirectly owns a majority interest in the other, or if a third party directly or indirectly owns a majority interest in both counterparties to the swap, where *majority interest* is the right to vote or direct the vote of a majority of a class of voting securities of an entity, the power to sell or direct the sale of a majority of a class of voting securities of an entity, or the right to receive upon dissolution or the contribution of a majority of the capital of a partnership.
 
 (ii) *Activities of a cooperative.* (A) Any swap that is entered into by a cooperative with a member of such cooperative shall not be considered in determining whether the cooperative is a swap dealer, provided that:
 
@@ -1078,7 +1042,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (iii) *Swaps entered into for the purpose of hedging physical positions.* In determining whether a person is a swap dealer, a swap that the person enters into shall not be considered, if:
 
-(A) The person enters into the swap for the purpose of offsetting or mitigating the person's price risks that arise from the potential change in the value of one or several -
+(A) The person enters into the swap for the purpose of offsetting or mitigating the person's price risks that arise from the potential change in the value of one or several—
 
 (*1*) Assets that the person owns, produces, manufactures, processes, or merchandises or anticipates owning, producing, manufacturing, processing, or merchandising;
 
@@ -1112,7 +1076,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (H) Notwithstanding the fact such person is not registered as a swap dealer, such person complies with §§ 23.201, 23.202, 23.203, and 23.600 of this chapter with respect to each such swap as if it were a swap dealer.
 
-*Swap execution facility.* This term means a trading system or platform in which multiple participants have the ability to execute or trade swaps by accepting bids and offers made by multiple participants in the facility or system, through any means of interstate commerce, including any trading facility, that -
+*Swap execution facility.* This term means a trading system or platform in which multiple participants have the ability to execute or trade swaps by accepting bids and offers made by multiple participants in the facility or system, through any means of interstate commerce, including any trading facility, that—
 
 (1) Facilitates the execution of swaps between persons; and
 

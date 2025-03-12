@@ -74,7 +74,7 @@
 
 (ii) There is no fee for an appeal or motion associated with a denial of a petition for a special immigrant visa filed by or on behalf of an individual seeking special immigrant status as an Afghan or Iraqi Interpreter, or Iraqi National employed by or on behalf of the U.S. Government or Afghan National employed by the U.S. Government or the International Security Assistance Forces (“ISAF”).
 
-(15) *Request for Cancellation of Public Charge Bond, Form I-356.* $25.
+(15) [Reserved]
 
 (16) *Petition for Amerasian, Widow(er), or Special Immigrant, Form I-360.* For filing a petition for an Amerasian, Widow(er), or Special Immigrant: $450. The following requests are exempt from this fee:
 
@@ -248,8 +248,6 @@
 
 (50) *Application for Entrepreneur Parole, Form I-941.* For filing an application for parole for an entrepreneur: $1,200.
 
-(51) *Public Charge Bond, Form I-945:* $25.
-
 (b) *N Forms* - (1) *Application to File Declaration of Intention, Form N-300.* For filing an application for declaration of intention to become a U.S. citizen: $1,305.
 
 (2) *Request for a Hearing on a Decision in Naturalization Proceedings (under section 336 of the Act), Form N-336.* For filing a request for hearing on a decision in naturalization proceedings under section 336 of the Act: $1,735. There is no fee for an applicant who has filed an Application for Naturalization under sections 328 or 329 of the Act with respect to military service and whose application has been denied.
@@ -319,3 +317,5 @@
 (9) G-1041, Genealogy Index Search Request; and
 
 (10) G-1041A, Genealogy Records Request.
+
+[85 FR 46916, Aug. 3, 2020, as amended at 86 FR 14227, Mar. 15, 2021]

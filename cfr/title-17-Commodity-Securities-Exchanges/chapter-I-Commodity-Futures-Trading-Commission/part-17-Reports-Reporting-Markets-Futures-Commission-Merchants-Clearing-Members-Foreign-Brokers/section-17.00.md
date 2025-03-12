@@ -1,16 +1,14 @@
 ##### § 17.00 Information to be furnished by futures commission merchants, clearing members and foreign brokers. #####
 
-Link to an amendment published at 86 FR 3455, Jan. 14, 2021.
-
-(a) *Special accounts - reportable futures and options positions, delivery notices, and exchanges of futures.* (1) Each futures commission merchant, clearing member and foreign broker shall submit a report to the Commission for each business day with respect to all special accounts carried by the futures commission merchant, clearing member or foreign broker, except for accounts carried on the books of another futures commission merchant or clearing member on a fully-disclosed basis. Except as otherwise authorized by the Commission or its designee, such report shall be made in accordance with the format and coding provisions set forth in paragraph (g) of this section. The report shall show each futures position, separately for each reporting market and for each future, and each put and call options position separately for each reporting market, expiration and strike price en each special account as of the close of market on the day covered by the report and, in addition, the quantity of exchanges of futures for commodities or for derivatives positions and the number of delivery notices issued for each such account by the clearing organization of a reporting market and the number stopped by the account. The report shall also show all positions in all contract months and option expirations of that same commodity on the same reporting market for which the special account is reportable.
+(a) *Special accounts—reportable futures and options positions, delivery notices, and exchanges of futures.* (1) Each futures commission merchant, clearing member and foreign broker shall submit a report to the Commission for each business day with respect to all special accounts carried by the futures commission merchant, clearing member or foreign broker, except for accounts carried on the books of another futures commission merchant or clearing member on a fully-disclosed basis. Except as otherwise authorized by the Commission or its designee, such report shall be made in accordance with the format and coding provisions set forth in paragraph (g) of this section. The report shall show each futures position, separately for each reporting market and for each future, and each put and call options position separately for each reporting market, expiration and strike price en each special account as of the close of market on the day covered by the report and, in addition, the quantity of exchanges of futures for commodities or for derivatives positions and the number of delivery notices issued for each such account by the clearing organization of a reporting market and the number stopped by the account. The report shall also show all positions in all contract months and option expirations of that same commodity on the same reporting market for which the special account is reportable.
 
 (2) A report covering the first day upon which a special account is no longer reportable shall also be filed showing the information specified in paragraph (a)(1) of this section.
 
-(b) *Interest in or control of several accounts.* Except as otherwise instructed by the Commission or its designee and as specifically provided in § 150.4 of this chapter, if any person holds or has a financial interest in or controls more than one account, all such accounts shall be considered by the futures commission merchant, clearing member or foreign broker as a single account for the purpose of determining special account status and for reporting purposes. For purposes of this section, the following shall apply:
+(b) *Interest in or control of several accounts.* Except as otherwise instructed by the Commission or its designee and as specifically provided in § 150.4 of this chapter, if any person holds or has a financial interest in or controls more than one account, all such accounts shall be considered by the futures commission merchant, clearing member, or foreign broker as a single account for the purpose of determining special account status and for reporting purposes.
 
-(1) *Accounts of eligible entities* - Accounts of eligible entities as defined in § 150.1 of this chapter that are traded by an independent account controller shall, together with other accounts traded by the independent account controller or in which the independent controller has a financial interest, be considered a single account.
+(1) *Accounts of eligible entities*—Accounts of eligible entities as defined in § 150.1 of this chapter that are traded by an independent account controller shall, together with other accounts traded by the independent account controller or in which the independent controller has a financial interest, be considered a single account.
 
-(2) *Accounts controlled by two or more persons* - Accounts that are subject to day-to-day trading control by two or more persons shall, together with other accounts subject to control by exactly the same persons, be considered a single account.
+(2) *Accounts controlled by two or more persons*—Accounts that are subject to day-to-day trading control by two or more persons shall, together with other accounts subject to control by exactly the same persons, be considered a single account.
 
 (3) *Account ownership.* Multiple accounts owned by a trader shall be considered a single account as provided under §§ 150.4(b), (c) and (d) of this chapter.
 
@@ -34,27 +32,27 @@ Link to an amendment published at 86 FR 3455, Jan. 14, 2021.
 
 Record Layout
 
-|Beginning column|Length|Type<sup>1</sup>|         Name         |
-|----------------|------|----------------|----------------------|
-|       1        |  2   |       AN       |     Report Type.     |
-|       3        |  3   |       AN       |   Reporting Firm.    |
-|       6        |  2   |                |      Reserved.       |
-|       8        |  12  |       AN       |   Account Number.    |
-|       20       |  8   |       AN       |     Report Date.     |
-|       28       |  2   |       AN       |    Exchange Code.    |
-|       30       |  1   |       AN       |     Put or Call.     |
-|       31       |  5   |       AN       | Commodity Code (1).  |
-|       36       |  8   |       AN       | Expiration Date (1). |
-|       44       |  7   |       S        |    Strike Price.     |
-|       51       |  1   |       AN       |   Exercise Style.    |
-|       52       |  7   |       N        |Long - Buy - Stopped. |
-|       59       |  7   |       N        |Short - Sell - Issued.|
-|       66       |  5   |       AN       | Commodity Code (2).  |
-|       71       |  8   |       AN       | Expiration Date (2). |
-|       79       |  2   |                |      Reserved.       |
-|       80       |  1   |       AN       |     Record Type.     |
+|Beginning column|Length|Type<sup>1</sup>|        Name        |
+|----------------|------|----------------|--------------------|
+|       1        |  2   |       AN       |    Report Type.    |
+|       3        |  3   |       AN       |  Reporting Firm.   |
+|       6        |  2   |                |     Reserved.      |
+|       8        |  12  |       AN       |  Account Number.   |
+|       20       |  8   |       AN       |    Report Date.    |
+|       28       |  2   |       AN       |   Exchange Code.   |
+|       30       |  1   |       AN       |    Put or Call.    |
+|       31       |  5   |       AN       |Commodity Code (1). |
+|       36       |  8   |       AN       |Expiration Date (1).|
+|       44       |  7   |       S        |   Strike Price.    |
+|       51       |  1   |       AN       |  Exercise Style.   |
+|       52       |  7   |       N        | Long—Buy—Stopped.  |
+|       59       |  7   |       N        | Short—Sell—Issued. |
+|       66       |  5   |       AN       |Commodity Code (2). |
+|       71       |  8   |       AN       |Expiration Date (2).|
+|       79       |  2   |                |     Reserved.      |
+|       80       |  1   |       AN       |    Record Type.    |
 
-<sup>1</sup> AN - Alpha - numeric, N - Numeric, S - Signed numeric.
+<sup>1</sup> AN—Alpha—numeric, N—Numeric, S—Signed numeric.
 
 (2) Field definitions are as follows:
 

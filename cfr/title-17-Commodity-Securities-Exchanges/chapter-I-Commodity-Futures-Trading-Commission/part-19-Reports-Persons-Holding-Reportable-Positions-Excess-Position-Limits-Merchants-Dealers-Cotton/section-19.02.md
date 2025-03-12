@@ -1,0 +1,5 @@
+##### § 19.02 Reports pertaining to cotton on call purchases and sales. #####
+
+(a) *Information required.* Persons required to file CFTC Form 304 reports under § 19.00(a) shall file CFTC Form 304 reports showing the quantity of call cotton bought or sold on which the price has not been fixed, together with the respective futures on which the purchase or sale is based. As used herein, call cotton refers to spot cotton bought or sold, or contracted for purchase or sale at a price to be fixed later based upon a specified future.
+
+(b) *Time and place of filing reports.* Each CFTC Form 304 report shall be made weekly, dated as of the close of business on Friday, and filed not later than 9 a.m. Eastern Time on the third business day following that Friday using the format, coding structure, and electronic data transmission procedures approved in writing by the Commission.

@@ -1,8 +1,6 @@
 ##### § 227.201 Disclosure requirements. #####
 
-Link to an amendment published at 86 FR 3591, Jan. 14, 2021.
-
-An issuer offering or selling securities in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) and in accordance with section 4A of the Securities Act (15 U.S.C. 77d-1) and this part must file with the Commission and provide to investors and the relevant intermediary the following information:
+An issuer offering or selling securities in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) and in accordance with section 4A of the Securities Act (15 U.S.C. 77d-1) and this part, and any co-issuer jointly offering or selling securities with such an issuer in reliance on the same, must file with the Commission and provide to investors and the relevant intermediary the following information:
 
 (a) The name, legal status (including its form of organization, jurisdiction in which it is organized and date of organization), physical address and Web site of the issuer;
 
@@ -156,11 +154,9 @@ I, [identify the certifying individual], certify that:
 
 (w) Where on the issuer's Web site investors will be able to find the issuer's annual report, and the date by which such report will be available on the issuer's Web site;
 
-(x) Whether the issuer or any of its predecessors previously failed to comply with the ongoing reporting requirements of § 227.202; and
+(x) Whether the issuer or any of its predecessors previously failed to comply with the ongoing reporting requirements of § 227.202;
 
-(y) Any material information necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading.
-
-*Instruction to § 227.201.* If disclosure provided pursuant to any paragraph of this section also satisfies the requirements of one or more other paragraphs of this section, it is not necessary to repeat the disclosure. Instead of repeating information, an issuer may include a cross-reference to disclosure contained elsewhere in the offering statement or report, including to information in the financial statements.
+(y) Any material information necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading; and
 
 (z) [Reserved]
 
@@ -196,7 +192,9 @@ I, [identify the certifying individual], certify that:
 
 (bb) Between March 1, 2021, and August 28, 2022, an issuer may comply with the requirements of paragraph (t)(1) of this section instead of paragraph (t)(2) of this section for an offering or offerings that, together with all other amounts sold under section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) within the preceding 12-month period, have, in the aggregate, a target offering amount of more than $107,000, but not more than $250,000, and financial statements of the issuer that have either been reviewed or audited by a public accountant that is independent of the issuer are unavailable at the time of filing. Such issuer must prominently provide a statement that financial information certified by the principal executive officer of the issuer has been provided instead of financial statements reviewed by a public accountant that is independent of the issuer.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, Jan. 14, 2021]Effective Date Notes:At 85 FR 27131, May 7, 2020, § 227.201 was amended by adding paragraph (z), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.201 paragraph (z) introductory text was amended by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.
+*Instruction to § 227.201.* If disclosure provided pursuant to any paragraph of this section also satisfies the requirements of one or more other paragraphs of this section, it is not necessary to repeat the disclosure. Instead of repeating information, an issuer may include a cross-reference to disclosure contained elsewhere in the offering statement or report, including to information in the financial statements.
+
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590 3591, Jan. 14, 2021]Effective Date Notes:At 85 FR 27131, May 7, 2020, § 227.201 was amended by adding paragraph (z), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.201 paragraph (z) introductory text was amended by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.
 
 2. At 86 FR 3590, Jan. 14, 2021, § 227.201 was amended by redesignating paragraph (z) as (aa) and revising it and adding and reserving paragraph (z) effective Jan. 14, 2021 through Sept. 1, 2021.
 

@@ -1,0 +1,5 @@
+##### § 19.00 Who shall furnish information. #####
+
+(a) *Persons filing cotton-on-call reports.* Merchants and dealers of cotton holding or controlling positions for future delivery in cotton that are reportable pursuant to § 15.00(p)(1)(i) of this chapter shall file CFTC Form 304.
+
+(b) *Persons responding to a special call.* All persons: Exceeding speculative position limits under § 150.2 of this chapter; or holding or controlling positions for future delivery that are reportable pursuant to § 15.00(p)(1) of this chapter and who have received a special call from the Commission or its designee shall file any pertinent information as instructed in the special call. Filings in response to a special call shall be made within one business day of receipt of the special call unless otherwise specified in the call. Such filing shall be transmitted using the format, coding structure, and electronic data submission procedures approved in writing by the Commission.

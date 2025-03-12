@@ -1,7 +1,5 @@
 ##### § 33.108 Application procedures. #####
 
-Link to an amendment published at 86 FR 6176, Jan. 19, 2021.
-
 (a) *Acceptable formats for applications.* Applications for initial approval of a section 1332 waiver shall be submitted in electronic format to the Secretary of Health and Human Services.
 
 (b) *Application timing.* Applications for initial approval of a section 1332 waiver must be submitted sufficiently in advance of the requested effective date to allow for an appropriate implementation timeline.
@@ -30,19 +28,19 @@ Link to an amendment published at 86 FR 6176, Jan. 19, 2021.
 
 (3) Provides all of the following:
 
-(i) A comprehensive description of the State legislation and program to implement a plan meeting the requirements for a waiver under section 1332;
+(i) A comprehensive description of the State legislation and program to implement a plan meeting the requirements for a waiver under section 1332 of PPACA. In analyzing whether the State has satisfied the requirement under section 1332(b)(2)(A) of PPACA that the State enact a law authorizing a waiver under section 1332 of PPACA, the Secretary and the Secretary of Health and Human Services, as applicable, may consider existing State legislation combined with duly-enacted State regulation or an executive order so long as the State legislation provides statutory authority to enforce PPACA provisions or the State plan;
 
 (ii) A copy of the enacted State legislation that provides the State with authority to implement the proposed waiver, as required under section 1332(a)(1)(C) of the Affordable Care Act;
 
 (iii) A list of the provisions of law that the State seeks to waive, including a description of the reason for the specific requests; and
 
-(iv) The analyses, actuarial certifications, data, assumptions, analysis, targets and other information set forth in paragraph (f)(4) of this section sufficient to provide the Secretary and the Secretary of Health and Human Services with the necessary data to determine that the State's proposed waiver:
+(iv) The analyses, actuarial certifications, data, assumptions, targets, and other information set forth in paragraph (f)(4) of this section sufficient to provide the Secretary and the Secretary of Health and Human Services, as applicable, with the necessary data to determine that the State's proposed waiver satisfies the general requirements for approval under section 1332(b)(1) of the Affordable Care Act consistent with the provisions of this paragraph (f)(3)(iv) and interpretive guidance published by the Secretary and the Secretary of Health and Human Services:
 
-(A) As required under section 1332(b)(1)(A) of the Affordable Care Act (the comprehensive coverage requirement), will provide coverage that is at least as comprehensive as the coverage defined in section 1302(b) of the Affordable Care Act and offered through Exchanges established under the Affordable Care Act as certified by the Office of the Actuary of the Centers for Medicare & Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by the Affordable Care Act and the provisions of the Affordable Care Act that the State seeks to waive;
+(A) As required under section 1332(b)(1)(A) of the Affordable Care Act (the comprehensive coverage requirement), will provide coverage that is at least as comprehensive as the coverage defined in section 1302(b) of the Affordable Care Act and offered through Exchanges established under the Affordable Care Act as certified by the Office of the Actuary of the Centers for Medicare & Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by the Affordable Care Act and the provisions of the Affordable Care Act that the State seeks to waive. To satisfy the comprehensive coverage requirement, the Secretary and the Secretary of Health and Human Services, as applicable, must determine that the State plan will provide consumers access to coverage options that are at least as comprehensive as the coverage options provided without the waiver, to at least a comparable number of people as would have had access to such coverage absent the waiver. These coverage options must also satisfy the affordability requirement in paragraph (f)(3)(iv)(B) of this section;
 
-(B) As required under section 1332(b)(1)(B) of the Affordable Care Act (the affordability requirement), will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of Title I of the Affordable Care Act would provide;
+(B) As required under section 1332(b)(1)(B) of the Affordable Care Act (the affordability requirement), will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of Title I of the Affordable Care Act would provide. To satisfy the affordability requirement, the Secretary and the Secretary of Health and Human Services, as applicable, must determine that the State plan will provide consumers access to coverage options that are at least as affordable as the coverage options provided without the waiver, to at least a comparable number of people as would have had access to such coverage absent the waiver. These coverage options must also satisfy the comprehensive coverage requirement in paragraph (f)(3)(iv)(A) of this section;
 
-(C) As required under section 1332(b)(1)(C) of the Affordable Care Act (the scope of coverage requirement), will provide coverage to at least a comparable number of its residents as the provisions of Title I of the Affordable Care Act would provide; and
+(C) As required under section 1332(b)(1)(C) of the Affordable Care Act (the scope of coverage requirement), will provide coverage to at least a comparable number of its residents as the provisions of Title I of the Affordable Care Act would provide. Coverage refers to minimum essential coverage as defined in 26 U.S.C. 5000A(f) and 26 CFR 1.5000A-2, and health insurance coverage as defined in 45 CFR 144.103; and
 
 (D) As prohibited under section 1332(b)(1)(D) of the Affordable Care Act (the Federal deficit requirement), will not increase the Federal deficit.
 
@@ -83,3 +81,5 @@ Link to an amendment published at 86 FR 6176, Jan. 19, 2021.
 (g) *Additional supporting information.* (1) During the Federal review process, the Secretary may request additional supporting information from the State via the Secretary of Health and Human Services as needed to address public comments or to address issues that arise in reviewing the application.
 
 (2) Requests for additional information, and responses to such requests, will be made available to the public in the same manner as information described in § 33.116(b).
+
+[77 FR 11715, Feb. 27, 2012, as amended at 86 FR 6176, Jan. 19, 2021]

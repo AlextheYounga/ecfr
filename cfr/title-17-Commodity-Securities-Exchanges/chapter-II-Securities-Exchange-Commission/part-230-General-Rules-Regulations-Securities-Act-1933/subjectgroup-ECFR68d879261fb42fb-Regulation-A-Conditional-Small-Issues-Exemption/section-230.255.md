@@ -1,7 +1,5 @@
 ##### § 230.255 Solicitations of interest and other communications. #####
 
-Link to an amendment published at 86 FR 3596, Jan. 14, 2021.
-
 (a) *Solicitation of interest.* At any time before the qualification of an offering statement, including before the non-public submission or public filing of such offering statement, an issuer or any person authorized to act on behalf of an issuer may communicate orally or in writing to determine whether there is any interest in a contemplated securities offering. Such communications are deemed to be an offer of a security for sale for purposes of the antifraud provisions of the federal securities laws. No solicitation or acceptance of money or other consideration, nor of any commitment, binding or otherwise, from any person is permitted until qualification of the offering statement.
 
 (b) *Conditions.* The communications must:
@@ -28,6 +26,4 @@ Link to an amendment published at 86 FR 3596, Jan. 14, 2021.
 
 (2) in the case of paragraph (b)(4)(ii) of this section, the URL continues to link directly to the most recent Preliminary Offering Circular or to the offering statement in which such revised Preliminary Offering Circular was filed.
 
-(e) *Abandoned offerings.* Where an issuer decides to register an offering under the Securities Act after soliciting interest in a contemplated, but subsequently abandoned, Regulation A offering, the abandoned Regulation A offering would not be subject to integration with the registered offering if the issuer engaged in solicitations of interest pursuant to this rule only to qualified institutional buyers and institutional accredited investors permitted by Section 5(d) of the Securities Act. If the issuer engaged in solicitations of interest to persons other than qualified institutional buyers and institutional accredited investors, an abandoned Regulation A offering would not be subject to integration if the issuer (and any underwriter, broker, dealer, or agent used by the issuer in connection with the proposed offering) waits at least 30 calendar days between the last such solicitation of interest in the Regulation A offering and the filing of the registration statement with the Commission.
-
-[80 FR 21895, Apr. 20, 2015]
+[80 FR 21895, Apr. 20, 2015, as amended at 86 FR 3596, Jan. 14, 2021]

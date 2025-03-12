@@ -1,7 +1,5 @@
 ##### § 156.230 Network adequacy standards. #####
 
-Link to an amendment published at 86 FR 6178, Jan. 19, 2021.
-
 (a) *General requirement.* Each QHP issuer that uses a provider network must ensure that the provider network consisting of in-network providers, as available to all enrollees, meets the following standards -
 
 (1) Includes essential community providers in accordance with § 156.235;
@@ -44,4 +42,6 @@ Link to an amendment published at 86 FR 6178, Jan. 19, 2021.
 
 (2) Provide a written notice to the enrollee by the longer of when the issuer would typically respond to a prior authorization request timely submitted, or 48 hours before the provision of the benefit, that additional costs may be incurred for an essential health benefit provided by an out-of- network ancillary provider in an in-network setting, including balance billing charges, unless such costs are prohibited under State law, and that any additional charges may not count toward the in-network annual limitation on cost sharing.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10873, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016]
+(f) *Exception.* Paragraphs (a) through (e) of this section do not apply to a plan for which an issuer seeks QHP certification or to any certified QHP that does not use a provider network, meaning that the plan or QHP does not condition or differentiate benefits based on whether the issuer has a network participation agreement with the provider that furnishes covered services.
+
+[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10873, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 86 FR 6178, Jan. 19, 2021]
