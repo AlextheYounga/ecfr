@@ -1,5 +1,7 @@
 ##### § 54.309 Connect America Fund Phase II Public Interest Obligations. #####
 
+Link to an amendment published at 83 FR 23380, May 21, 2018.
+
 (a) Recipients of Connect America Phase II support are required to offer broadband service with latency suitable for real-time applications, including Voice over Internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas. For purposes of determining reasonable comparable usage capacity, recipients are presumed to meet this requirement if they meet or exceed the usage level announced by public notice issued by the Wireline Competition Bureau. For purposes of determining reasonable comparability of rates, recipients are presumed to meet this requirement if they offer rates at or below the applicable benchmark to be announced annually by public notice issued by the Wireline Competition Bureau, or no more than the non-promotional prices charged for a comparable fixed wireline service in urban areas in the state or U.S. Territory where the eligible telecommunications carrier receives support.
 
 (1) Recipients of Connect America Phase II model-based support are required to offer broadband service at actual speeds of at least 10 Mbps downstream/1 Mbps upstream.

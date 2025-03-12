@@ -1,7 +1,5 @@
 ##### § 1011.6 Delegations of authority by the Chairman. #####
 
-Link to an amendment published at 83 FR 17299, Apr. 19, 2018.
-
 (a)(1) This section provides for delegations of authority by the Chairman of the Surface Transportation Board to individual Board employees.
 
 (2) The Chairman of the Board may remove for disposition any matter delegated under this section, and any matter delegated under this section may be referred by the Board employee to the Chairman for disposition.
@@ -24,9 +22,9 @@ Link to an amendment published at 83 FR 17299, Apr. 19, 2018.
 
 (d) Except as provided at 49 CFR 1113.3(b)(1), authority to dismiss a complaint on complainant's request, or an application on applicant's request, is delegated to the Director of the Office of Proceedings.
 
-(e) Authority to grant or deny access to waybills and to statistics reported under orders of the Board is delegated to the Director of the Office of Economics, Environmental Analysis, and Administration.
+(e) Authority to grant or deny access to waybills and to statistics reported under orders of the Board is delegated to the Director of the Office of Economics.
 
-(f) Certain accounts in the Uniform Systems of Accounts, 49 CFR parts 1200 through 1207, require Board approval to use. Authority to grant or deny requests for use of these accounts is delegated to the Director and Associate Director of the Office of Economics, Environmental Analysis, and Administration and the Chief of the Section of Economics.
+(f) Certain accounts in the Uniform Systems of Accounts, 49 CFR parts 1200 through 1207, require Board approval to use. Authority to grant or deny requests for use of these accounts is delegated to the Director of the Office of Economics.
 
 (g) The Director of the Office of Proceedings is delegated authority, under the Regulatory Flexibility Act, 5 U.S.C. 601, *et seq.,* to:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 83 FR 17299, Apr. 19, 2018.
 
 (h) Issuance of certificates and decisions authorizing Consolidated Rail Corporation to abandon or discontinue service over lines for which an application under section 308 of the Regional Rail Reorganization Act of 1973, 45 U.S.C. 748, has been filed is delegated to the Director of the Office of Proceedings.
 
-[67 FR 60167, Sept. 25, 2002, as amended at 74 FR 52904, Oct. 15, 2009; 81 FR 8851, Feb. 23, 2016]
+[67 FR 60167, Sept. 25, 2002, as amended at 74 FR 52904, Oct. 15, 2009; 81 FR 8851, Feb. 23, 2016; 83 FR 17299 Apr. 19, 2018]

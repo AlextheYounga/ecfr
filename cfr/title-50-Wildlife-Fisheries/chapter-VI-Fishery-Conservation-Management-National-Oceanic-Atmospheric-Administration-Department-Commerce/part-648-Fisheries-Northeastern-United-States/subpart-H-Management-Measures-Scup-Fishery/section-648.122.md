@@ -1,7 +1,5 @@
 ##### § 648.122 Scup specifications. #####
 
-Link to an amendment published at 83 FR 17315, Apr. 19, 2018.
-
 (a) *Commercial quota, recreational landing limits, research set-asides, and other specification measures.* The Scup Monitoring Committee shall recommend to the Demersal Species Committee of the MAFMC and the ASMFC through the specifications process, for use in conjunction with each ACL and ACT, a sector specific research set-aside, estimates of sector-related discards, recreational harvest limit, and commercial quota, along with other measures, as needed, that are projected to ensure the sector-specific ACL for an upcoming fishing year or years will not be exceeded. The measures to be considered by the Scup Monitoring Committee are as follows:
 
 (1) Research quota set from a range of 0 to 3 percent of the maximum allowed to achieve the specified exploitation rate.
@@ -36,11 +34,11 @@ Link to an amendment published at 83 FR 17315, Apr. 19, 2018.
 
 (c) *Distribution of commercial quota.* (1) The annual commercial quota will be allocated into three periods, based on the following percentages:
 
-|           Period            |Percent|
-|-----------------------------|-------|
-|  Winter I - January-April   | 45.11 |
-|    Summer - May-October     | 38.95 |
-|Winter II - November-December| 15.94 |
+|           Period           |Percent|
+|----------------------------|-------|
+|  Winter I - January-April  | 45.11 |
+|   Summer - May-September   | 38.95 |
+|Winter II - October-December| 15.94 |
 
 (2) The commercial quotas for each period will each be distributed to the coastal states from Maine through North Carolina on a coastwide basis.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 83 FR 17315, Apr. 19, 2018.
 
 (e) *Research quota.* See § 648.21(g).
 
-[76 FR 60631, Sept. 29, 2011, as amended at 76 FR 81850, Dec. 29, 2011; 80 FR 37196, June 30, 2015]
+[76 FR 60631, Sept. 29, 2011, as amended at 76 FR 81850, Dec. 29, 2011; 80 FR 37196, June 30, 2015; 83 FR 17315, Apr. 19, 2018]

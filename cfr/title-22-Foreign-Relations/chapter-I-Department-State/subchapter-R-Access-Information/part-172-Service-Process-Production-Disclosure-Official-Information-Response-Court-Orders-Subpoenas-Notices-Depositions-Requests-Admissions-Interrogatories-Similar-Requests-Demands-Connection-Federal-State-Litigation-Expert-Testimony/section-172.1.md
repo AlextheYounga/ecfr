@@ -1,7 +1,5 @@
 ##### § 172.1 Purpose and scope; definitions. #####
 
-Link to an amendment published at 83 FR 17489, Apr. 20, 2018.
-
 (a) This part sets forth the procedures to be followed with respect to:
 
 (1) Service of summonses and complaints or other requests or demands directed to the Department of State (Department) or to any Department employee or former employee in connection with federal or state litigation arising out of or involving the performance of official activities of the Department; and
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 17489, Apr. 20, 2018.
 
 (d) For purposes of this part, *official information* means all information of any kind, however stored, that is in the custody and control of the Department, relates to information in the custody and control of the Department, or was acquired by Department employees as part of their official duties or because of their official status within the Department while such individuals were employed by or served on behalf of the Department.
 
-(e) Nothing in this part affects disclosure of information under the Freedom of Information Act (FOIA), 5 U.S.C. 552, the Privacy Act, 5 U.S.C. 552a, Executive Order 12356 on national security information (3 CFR, 1982 Comp., p. 166), the Government in the Sunshine Act, 5 U.S.C. 552b, the Department's implementing regulations in 22 CFR part 171 or pursuant to congressional subpoena. Nothing in this part otherwise permits disclosure of information by the Department or its employees except as provided by statute or other applicable law.
+(e) Nothing in this part affects disclosure of information under the Freedom of Information Act (FOIA), 5 U.S.C. 552, the Privacy Act, 5 U.S.C. 552a, Executive Order 13526 (3 CFR, 2009 Comp., p. 298), the Government in the Sunshine Act, 5 U.S.C. 552b, the Department's implementing regulations in 22 CFR part 171 or pursuant to congressional subpoena. Nothing in this part otherwise permits disclosure of information by the Department or its employees except as provided by statute or other applicable law.
 
 (f) This part is intended only to inform the public about Department procedures concerning the service of process and responses to demands or requests and is not intended to and does not create, and may not be relied upon to create any right or benefit, substantive or procedural, enforceable at law by a party against the Department or the United States.
 
@@ -25,3 +23,5 @@ Link to an amendment published at 83 FR 17489, Apr. 20, 2018.
 (2) The rules and procedures, under applicable U.S. law and international conventions, governing diplomatic and consular immunity.
 
 (h) Nothing in this part affects the disclosure of official information to other federal agencies or Department of Justice attorneys in connection with litigation conducted on behalf or in defense of the United States, its agencies, officers, and employees, or to federal, state, local, or foreign prosecuting and law enforcement authorities in conjunction with criminal law enforcement investigations, prosecutions, or other proceedings, e.g., extradition, deportation.
+
+[57 FR 32896, July 24, 1992, as amended at 83 FR 17489, Apr. 20, 2018]

@@ -1,0 +1,15 @@
+##### § 702.806 What weekly maximum rates apply to compensation for permanent total disability? #####
+
+(a) The maximum rate in effect on the date that the employee became totally and permanently disabled applies to all compensation payable for permanent total disability during that fiscal year.
+
+(b) For all periods the employee is permanently and totally disabled in subsequent fiscal years, the weekly compensation payable is subject to each subsequent year's maximum rate.
+
+(c) If a claimant is receiving compensation for permanent total disability at the maximum rate for the current fiscal year, but the next fiscal year's maximum rate will be higher than the claimant's calculated compensation rate, the claimant's compensation for the next fiscal year will increase by the amount of the 10(f) adjustment, subject to the maximum rate for the next fiscal year.
+
+(d) Examples:
+
+(1) Employee *A* suffers a covered workplace injury on April 1, 2000, and is permanently and totally disabled from that date forward. *A's* compensation for the period from April 1, 2000, until September 30, 2000, is subject to the FY 2000 maximum rate. Beginning October 1, 2000, *A's* compensation for FY 2001 is subject to the FY 2001 maximum rate, compensation for FY 2002 is subject to the FY 2002 maximum rate, *etc.*
+
+(2) Employee *B* suffers a covered workplace injury on April 1, 2000, is temporarily totally disabled from that day through June 3, 2002, and is thereafter permanently totally disabled. *B's* compensation for the period from April 1, 2000, through June 3, 2002, is subject to the FY 2000 maximum rate (*see* § 702.805(a)). *B's* compensation for the period from June 4, 2002, through September 30, 2002, is subject to the FY 2002 maximum rate. Beginning October 1, 2002, *B's* compensation for FY 2003 is subject to the FY 2003 maximum rate, compensation for FY 2004 is subject to the FY 2004 maximum rate, *etc.*
+
+(3) Employee *C* suffers a covered workplace injury in FY 2009 and is permanently totally disabled from that day forward. He was earning $1,950.00 a week when he was injured, making his calculated compensation rate $1,300.00 ($1,950.00 × 2 ÷ 3). His calculated compensation rate exceeds the maximum rate from FY 2009-2012; thus, his compensation is limited to each year's maximum rate. In FY 2013, *C's* calculated compensation rate of $1,300.00 is, for the first time, less than the FY 2013 maximum rate of $1,325.18. Applying the FY 2013 2.31% section 10(f) adjustment to *C's* FY 2012 compensation rate of $1,295.20 results in a compensation rate of $1,325.00 ($1,295.20 × .0231 = $29.92, rounded to the nearest cent; $1,295.20 + $29.92 = $1,325.12, rounded to the nearest dollar). This amount falls just below the FY 2013 maximum rate of $1,325.18. Thus, *C's* benefit rate for FY 2013 is $1,325.00, and is not limited by the maximum rate.

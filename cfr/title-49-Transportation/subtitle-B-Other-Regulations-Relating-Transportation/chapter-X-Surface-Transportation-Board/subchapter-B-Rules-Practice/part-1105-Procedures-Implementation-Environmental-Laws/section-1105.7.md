@@ -1,7 +1,5 @@
 ##### § 1105.7 Environmental reports. #####
 
-Link to an amendment published at 83 FR 17300, Apr. 19, 2018.
-
 (a) *Filing.* An applicant for an action identified in § 1105.6 (a) or (b) must submit to the Board (with or prior to its application, petition or notice of exemption) except as provided in paragraph (b) for abandonments and discontinuances) an Environmental Report on the proposed action containing the information set forth in paragraph (e) of this section. The Environmental Report may be filed with the Board electronically.
 
 (b) At least 20 days prior to the filing with the Board of a notice of exemption, petition for exemption, or an application for abandonment or discontinuance, the applicant must serve copies of the Environmental Report on:
@@ -22,13 +20,11 @@ Link to an amendment published at 83 FR 17300, Apr. 19, 2018.
 
 (8) The National Park Service;
 
-(9) The U.S. Soil Conservation Service;
+(9) The Natural Resources Conservation Service;
 
 (10) The National Geodetic Survey (formerly known as the Coast and Geodetic Survey) as designated agent for the National Geodetic Survey and the U.S. Geological Survey; and
 
 (11) Any other agencies that have been consulted in preparing the report.
-
-For information regarding the names and addresses of the agencies to be contacted, interested parties may contact the Board's Office of Environmental Analysis.
 
 (c) *Certification.* In its Environmental Report, the applicant must certify that it has sent copies of the Environmental Report to the agencies listed and within the time period specified in paragraph (b) of this section and that it has consulted with all appropriate agencies in preparing the report. These consultations should be made far enough in advance to afford those agencies a reasonable opportunity to provide meaningful input. Finally, in every abandonment exemption case, applicant shall certify that it has published in a newspaper of general circulation in each county through which the line passes a notice that alerts the public to the proposed abandonment, to available reuse alternatives, and to how it may participate in the STB proceeding.
 
@@ -112,7 +108,7 @@ For information regarding the names and addresses of the agencies to be contacte
 
 (iv) Describe in detail the rail operations to be conducted upon the line, including estimates of freight (carloads and tonnage) to be transported, the anticipated daily and annual number of train movements, number of cars per train, types of cars, motive power requirements, proposed speeds, labor force, and proposed maintenance-of-way practices.
 
-(v) Describe the effects, including indirect or down-line impacts, of the new or diverted traffic over the line if the thresholds governing energy, noise and air impacts in §§ 1105.7(e)(4), (5), or (6) are met.
+(v) Describe the effects, including indirect or down-line impacts, of the new or diverted traffic over the line if the thresholds governing energy, noise and air impacts in § 1105.7(e)(4), (5), or (6) are met.
 
 (vi) Describe the effects, including impacts on essential public services (e.g., fire, police, ambulance, neighborhood schools), public roads, and adjoining properties, in communities to be traversed by the line.
 
@@ -122,4 +118,4 @@ For information regarding the names and addresses of the agencies to be contacte
 
 (g) *Waivers.* The Board may waive or modify, in whole or in part, the provisions of this section where a railroad applicant shows that the information requested is not necessary for the Board to evaluate the environmental impacts of the proposed action.
 
-[56 FR 36105, July 31, 1991; 56 FR 49821, Oct. 1, 1991, as amended at 58 FR 44619, Aug. 24, 1993; 60 FR 32277, June 21, 1995; 61 FR 67883, Dec. 24, 1996; 64 FR 53268, Oct. 1, 1999; 69 FR 58366, Sept. 30, 2004; 81 FR 8854, Feb. 23, 2016; 83 FR 15078, Apr. 9, 2018]
+[56 FR 36105, July 31, 1991; 56 FR 49821, Oct. 1, 1991, as amended at 58 FR 44619, Aug. 24, 1993; 60 FR 32277, June 21, 1995; 61 FR 67883, Dec. 24, 1996; 64 FR 53268, Oct. 1, 1999; 69 FR 58366, Sept. 30, 2004; 81 FR 8854, Feb. 23, 2016; 83 FR 15078, Apr. 9, 2018; 83 FR 17300, Apr. 19, 2018]
