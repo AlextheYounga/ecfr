@@ -1,7 +1,5 @@
 ##### § 210.28 Depositions. #####
 
-Link to an amendment published at 83 FR 21161, May 8, 2018.
-
 (a) *When depositions may be taken.* Following publication in the Federal Register of a Commission notice instituting the investigation, any party may take the testimony of any person, including a party, by deposition upon oral examination or written questions. The presiding administrative law judge will determine the permissible dates or deadlines for taking such depositions. Without stipulation of the parties, the complainants as a group may take a maximum of five fact depositions per respondent or no more than 20 fact depositions whichever is greater, the respondents as a group may take a maximum of 20 fact depositions total, and if the Commission investigative attorney is a party, he or she may take a maximum of 10 fact depositions and is permitted to participate in all depositions taken by any parties in the investigation. Each notice for a corporation to designate deponents only counts as one deposition and includes all corporate representatives so designated to respond, and related respondents are treated as one respondent for purposes of determining the number of depositions. The presiding administrative law judge may increase the number of depositions on written motion for good cause shown.
 
 (b) *Persons before whom depositions may be taken.* Depositions may be taken before a person having power to administer oaths by the laws of the United States or of the place where the examination is held.
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 21161, May 8, 2018.
 
 (2) The deposition of a party may be used by an adverse party for any purpose;
 
-(3) The deposition of a witness, whether or not a party, may be used by any party for any purposes if the administrative law judge finds -
+(3) The deposition of a witness, whether or not a party, may be used by any party for any purposes if the administrative law judge finds—
 
 (i) That the witness is dead; or
 
@@ -32,11 +30,13 @@ Link to an amendment published at 83 FR 21161, May 8, 2018.
 
 (iv) That the party offering the deposition has been unable to procure the attendance of the witness by subpoena; or
 
-(v) Upon application and notice, that such exceptional circumstances exist as to make it desirable in the interest of justice and with due regard to the importance of presenting the oral testimony of witnesses at a hearing, to allow the deposition to be used.
+(v) Upon application and notice, that such exceptional circumstances exist as to make it desirable in the interest of justice and with due regard to the importance of presenting the oral testimony of witnesses at a hearing, to allow the deposition to be used; or
+
+(vi) Upon agreement of the parties and within the administrative law judge's discretion, the use of designated deposition testimony in lieu of live witness testimony absent the circumstances otherwise enumerated in this paragraph is permitted.
 
 (4) If only part of a deposition is offered in evidence by a party, an adverse party may require him to introduce any other part that ought in fairness to be considered with the part introduced, and any party may introduce any other parts.
 
-(i) *Effect of errors and irregularities in depositions* - (1) *As to notice.* All errors and irregularities in the notice for taking a deposition are waived unless written objection is promptly served upon the party giving notice.
+(i) *Effect of errors and irregularities in depositions*—(1) *As to notice.* All errors and irregularities in the notice for taking a deposition are waived unless written objection is promptly served upon the party giving notice.
 
 (2) *As to disqualification of person before whom the deposition is to be taken.* Objection to taking a deposition because of disqualification of the person before whom it is to be taken is waived unless made before the taking of the deposition begins or as soon thereafter as the disqualification becomes known or could be discovered with reasonable diligence.
 
@@ -48,4 +48,4 @@ Link to an amendment published at 83 FR 21161, May 8, 2018.
 
 (4) *As to completion and return of deposition.* Errors and irregularities in the manner in which the testimony is transcribed or the deposition is prepared, signed, certified, sealed, indorsed, transmitted, served, or otherwise dealt with by the person before whom it is taken are waived unless a motion to suppress the deposition or some part thereof is made with reasonable promptness after such defect is, or with due diligence might have been, ascertained.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38323, July 7, 2008; 78 FR 23483, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38323, July 7, 2008; 78 FR 23483, Apr. 19, 2013; 83 FR 21161, May 8, 2018]

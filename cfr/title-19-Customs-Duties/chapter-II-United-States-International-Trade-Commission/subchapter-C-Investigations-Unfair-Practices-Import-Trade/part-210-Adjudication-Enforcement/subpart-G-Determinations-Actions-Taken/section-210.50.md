@@ -1,8 +1,6 @@
 ##### § 210.50 Commission action, the public interest, and bonding by respondents. #####
 
-Link to an amendment published at 83 FR 21162, May 8, 2018.
-
-(a) During the course of each investigation under this part, the Commission shall -
+(a) During the course of each investigation under this part, the Commission shall—
 
 (1) Consider what action (general or limited exclusion of articles from entry or a cease and desist order, or exclusion of articles from entry under bond or a temporary cease and desist order), if any, it should take, and, when appropriate, take such action;
 
@@ -10,21 +8,23 @@ Link to an amendment published at 83 FR 21162, May 8, 2018.
 
 (3) Determine the amount of the bond to be posted by a respondent pursuant to section 337(j)(3) of the Tariff Act of 1930 following the issuance of temporary or permanent relief under section 337(d), (e), (f), or (g) of the Tariff Act of 1930, taking into account the requirement of section 337(e) and (j)(3) that the amount of the bond be sufficient to protect the complainant from any injury.
 
-(4) Receive submissions from the parties, interested persons, and other Government agencies and departments with respect to the subject matter of paragraphs (a)(1), (a)(2), and (a)(3) of this section. After a recommended determination on remedy is issued by the presiding administrative law judge, the parties are requested to submit to the Commission, within 30 days from service of the recommended determination, any information relating to the public interest, including any updates to the information requested by §§ 210.8(b) and (c) and 210.14(f). Submissions by the parties under this paragraph in response to the recommended determination are limited to 5 pages, inclusive of attachments.
+(4) Receive submissions from the parties, interested persons, and other Government agencies and departments with respect to the subject matter of paragraphs (a)(1) through (3) of this section.
 
-(i) When the matter under consideration pursuant to paragraph (a)(1) of this section is whether to grant some form of permanent relief, the submissions described in paragraph (a)(4) of this section shall be filed by the deadlines specified in the Commission notice issued pursuant to § 210.46(a).
+(i) After a recommended determination on remedy is issued by the presiding administrative law judge, the parties may submit to the Commission, within 30 days from service of the recommended determination, information relating to the public interest, including any updates to the information supplied under §§ 210.8(b) and (c) and 210.14(f). Submissions by the parties in response to the recommended determination are limited to 5 pages, inclusive of attachments. This provision does not apply to the public. Dates for submissions from the public are announced in the Federal Register.
 
-(ii) When the matter under consideration is whether to grant some form of temporary relief, such submissions shall be filed by the deadlines specified in § 210.67(b), unless the Commission orders otherwise.
+(ii) When the matter under consideration pursuant to paragraph (a)(1) of this section is whether to grant some form of permanent relief, the submissions described in paragraph (a)(4) of this section shall be filed by the deadlines specified in the Commission notice issued pursuant to § 210.46(a).
 
-(iii) Any submission from a party shall be served upon the other parties in accordance with § 210.4(g). The parties' submissions, as well as any filed by interested persons or other agencies shall be available for public inspection in the Office of the Secretary. If a party, interested person, or agency files a confidential version of its submission, it shall file a public version of the submission no later than one business day after the deadline for filing the submission.
+(iii) When the matter under consideration is whether to grant some form of temporary relief, such submissions shall be filed by the deadlines specified in § 210.67(b), unless the Commission orders otherwise.
 
-(iv) The Commission will consider motions for oral argument or, when necessary, a hearing with respect to the subject matter of this section, except that no hearing or oral argument will be permitted in connection with a motion for temporary relief.
+(iv) Any submission from a party shall be served upon the other parties in accordance with § 210.4(g). The parties' submissions, as well as any filed by interested persons or other agencies shall be available for public inspection in the Office of the Secretary. If a party, interested person, or agency files a confidential version of its submission, it shall file a public version of the submission no later than one business day after the deadline for filing the submission.
+
+(v) The Commission will consider motions for oral argument or, when necessary, a hearing with respect to the subject matter of this section, except that no hearing or oral argument will be permitted in connection with a motion for temporary relief.
 
 (b)(1) With respect to an administrative law judge's authorization to take evidence or other information and to hear arguments from the parties and other interested persons on the issues of appropriate Commission action, the public interest, and bonding by the respondents for purposes of an initial determination on temporary relief, see §§ 210.61, 210.62, and 210.66(a). For purposes of the recommended determination required by § 210.42(a)(1)(ii), an administrative law judge shall take evidence or other information and hear arguments from the parties and other interested persons on the issues of appropriate Commission action and bonding by the respondents upon order of the Commission. Unless the Commission orders otherwise, and except as provided for in paragraph (b)(2) of this section, an administrative law judge shall not take evidence on the issue of the public interest for purposes of the recommended determination under § 210.42(a)(1)(ii).
 
 (2) Regarding terminations by settlement agreement, consent order, or arbitration agreement under § 210.21 (b), (c) or (d), the parties may file statements regarding the impact of the proposed termination on the public interest, and the administrative law judge may hear argument, although no discovery may be compelled with respect to issues relating solely to the public interest. Thereafter, the administrative law judge shall consider and make appropriate findings in the initial determination regarding the effect of the proposed settlement on the public health and welfare, competitive conditions in the U.S. economy, the production of like or directly competitive articles in the United States, and U.S. consumers.
 
-(c) No general exclusion from entry of articles shall be ordered under paragraph (a)(1) of this section unless the Commission determines that -
+(c) No general exclusion from entry of articles shall be ordered under paragraph (a)(1) of this section unless the Commission determines that—
 
 (1) Such exclusion is necessary to prevent circumvention of an exclusion order limited to products of named persons; or
 
@@ -40,4 +40,4 @@ Link to an amendment published at 83 FR 21162, May 8, 2018.
 
 (4) If the Commission determines that a respondent's bond should be forfeited to a complainant, and if the bond is being held by the Secretary of the Treasury, the Commission Secretary shall promptly notify the Secretary of the Treasury of the Commission's determination.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67628, Dec. 30, 1994; 73 FR 38326, July 7, 2008; 76 FR 64809, Oct. 19, 2011; 78 FR 23485, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67628, Dec. 30, 1994; 73 FR 38326, July 7, 2008; 76 FR 64809, Oct. 19, 2011; 78 FR 23485, Apr. 19, 2013; 83 FR 21162, May 8, 2018]

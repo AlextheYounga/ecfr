@@ -1,13 +1,29 @@
-##### § 210.76 Modification or rescission of exclusion orders, cease and desist orders, and consent orders. #####
+##### § 210.76 Modification or rescission of exclusion orders, cease and desist orders, consent orders, and seizure and forfeiture orders. #####
 
-Link to an amendment published at 83 FR 21163, May 8, 2018.
-
-(a) *Petitions for modification or rescission of exclusion orders, cease and desist orders, and consent orders.* (1) Whenever any person believes that changed conditions of fact or law, or the public interest, require that an exclusion order, cease and desist order, or consent order be modified or set aside, in whole or in part, such person may file with the Commission a petition requesting such relief. The Commission may also on its own initiative consider such action. The petition shall state the changes desired and the changed circumstances warranting such action, shall include materials and argument in support thereof, and shall be served on all parties to the investigation in which the exclusion order, cease and desist order, or consent order was issued. Any person may file an opposition to the petition within 10 days of service of the petition.
+(a) *Petitions for modification or rescission of exclusion orders, cease and desist orders, and consent orders.* (1) Whenever any person believes that changed conditions of fact or law, or the public interest, require that an exclusion order, cease and desist order, or consent order be modified or set aside, in whole or in part, such person may request, pursuant to section 337(k)(1) of the Tariff Act of 1930, that the Commission make a determination that the conditions which led to the issuance of an exclusion order, cease and desist order, or consent order no longer exist. The Commission may also on its own initiative consider such action. The request shall state the changes desired and the changed circumstances or public interest warranting such action, shall include materials and argument in support thereof, and shall be served on all parties to the investigation in which the exclusion order, cease and desist order, or consent order was issued. Any person may file an opposition to the petition within 10 days of service of the petition. If the Commission makes such a determination, it shall notify the Secretary of the Treasury and U.S. Custom and Border Protection.
 
 (2) If the petitioner previously has been found by the Commission to be in violation of section 337 of the Tariff Act of 1930 and if its petition requests a Commission determination that the petitioner is no longer in violation of that section or requests modification or rescission of an order issued pursuant to section 337 (d), (e), (f), (g), or (i) of the Tariff Act of 1930, the burden of proof in any proceeding initiated in response to the petition pursuant to paragraph (b) of this section shall be on the petitioner. In accordance with section 337(k)(2) of the Tariff Act, relief may be granted by the Commission with respect to such petition on the basis of new evidence or evidence that could not have been presented at the prior proceeding or on grounds that would permit relief from a judgment or order under the Federal Rules of Civil Procedure.
 
+(3) If the petition requests modification or rescission of an order issued pursuant to section 337(d), (e), (f), (g), or (i) of the Tariff Act of 1930 on the basis of a licensing or other settlement agreement, the petition shall contain copies of the licensing or other settlement agreements, any supplemental agreements, any documents referenced in the petition or attached agreements, and a statement that there are no other agreements, written or oral, express or implied between the parties concerning the subject matter of the investigation. If the licensing or other settlement agreement contains confidential business information within the meaning of § 201.6(a) of this chapter, a copy of the agreement with such information deleted shall accompany the motion. On motion for good cause shown, the administrative law judge or the Commission may limit the service of the agreements to the settling parties and the Commission investigative attorney.
+
 (b) *Commission action upon receipt of petition.* The Commission may thereafter institute a proceeding to modify or rescind the exclusion order, cease and desist order, or consent order by issuing a notice. The Commission may hold a public hearing and afford interested persons the opportunity to appear and be heard. After consideration of the petition, any responses thereto, and any information placed on the record at a public hearing or otherwise, the Commission shall take such action as it deems appropriate. The Commission may delegate any hearing under this section to the chief administrative law judge for designation of a presiding administrative law judge, who shall certify a recommended determination to the Commission.
+
+(1) The determination of whether to institute shall be made within 30 days after the petition is filed, unless—
+
+(i) Exceptional circumstances preclude adherence to a 30-day deadline;
+
+(ii) The petitioner requests that the Commission postpone the determination on whether to institute a modification or rescission proceeding; or
+
+(iii) The petitioner withdraws the petition.
+
+(2) If exceptional circumstances preclude Commission adherence to the 30-day deadline for determining whether to institute a modification or rescission proceeding on the basis of the petition, the determination will be made as soon after that deadline as possible.
+
+(3) If the petitioner desires to have the Commission postpone making a determination on whether to institute a modification or rescission proceeding in response to the petition, the petitioner must file a written request with the Secretary. If the request is granted, the determination will be rescheduled for a date that is appropriate in light of the facts.
+
+(4) The petitioner may withdraw the complaint as a matter of right at any time before the Commission votes on whether to institute a modification or rescission proceeding. To effect such withdrawal, the petitioner must file a written notice with the Commission.
+
+(5) The Commission shall institute a modification or rescission proceeding by publication of a notice in the Federal Register. The notice will define the scope of the modification or rescission proceeding and may be amended by leave of the Commission.
 
 (c) *Comments.* Parties may submit comments on the recommended determination within 10 days from the service of the recommended determination. Parties may submit responses thereto within 5 business days from service of any comments.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 61 FR 43433, Aug. 23, 1996; 78 FR 23486, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 61 FR 43433, Aug. 23, 1996; 78 FR 23486, Apr. 19, 2013; 83 FR 21163, May 8, 2018]

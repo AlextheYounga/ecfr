@@ -1,7 +1,5 @@
 ##### § 210.34 Protective orders; reporting requirement; sanctions and other actions. #####
 
-Link to an amendment published at 83 FR 21161, May 8, 2018.
-
 (a) *Issuance of protective order.* Upon motion by a party or by the person from whom discovery is sought or by the administrative law judge on his own initiative, and for good cause shown, the administrative law judge may make any order that may appear necessary and appropriate for the protection of the public interest or that justice requires to protect a party or person from annoyance, embarrassment, oppression, or undue burden or expense, including one or more of the following:
 
 (1) That discovery not be had;
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 21161, May 8, 2018.
 
 (b) *Unauthorized disclosure, loss, or theft of information.* If confidential business information submitted in accordance with the terms of a protective order is disclosed to any person other than in a manner authorized by the protective order, lost, or stolen, the party responsible for the disclosure, or subject to the loss or theft, must immediately bring all pertinent facts relating to such incident to the attention of the submitter of the information and the administrative law judge or the Commission, and, without prejudice to other rights and remedies of the submitter of the information, make every effort to prevent further mishandling of such information by the party or the recipient of such information.
 
-(c) *Violation of protective order.* (1) The issue of whether sanctions should be imposed may be raised on a motion by a party, the administrative law judge's own motion, or the Commission's own initiative in accordance with § 210.25(a)(2). Parties, including the party that identifies an alleged breach or makes a motion for sanctions, and the Commission shall treat the identity of the alleged breacher as confidential business information unless the Commission issues a public sanction. The identity of the alleged breacher means the name of any individual against whom allegations are made. The Commission or administrative law judge shall allow the parties to make written submissions and, if warranted, to present oral argument bearing on the issues of violation of a protective order and sanctions therefor.
+(c) *Violation of protective order.* (1) The issue of whether sanctions should be imposed may be raised on a motion by a party, the administrative law judge's own motion, or the Commission's own initiative in accordance with § 210.25(a)(2). Parties, including the party that identifies an alleged breach or makes a motion for sanctions, and the Commission shall treat the identity of the alleged breacher as confidential business information unless the Commission issues a public sanction. The identity of the alleged breacher means the name of any individual against whom allegations are made. The Commission and the administrative law judge may permit the parties to file written submissions or present oral argument on the issues of the alleged violation of the protective order and sanctions.
 
 (2) If the breach occurs while the investigation is before an administrative law judge, any determination on sanctions of the type enumerated in paragraphs (c)(3)(i) through (iv) of this section shall be in the form of a recommended determination. The Commission may then consider both the recommended determination and any related orders in making a determination on sanctions. When the motion is addressed to the administrative law judge for sanctions of the type enumerated in paragraph (c)(3)(v) of this section, he shall grant or deny a motion by issuing an order.
 
@@ -56,4 +54,4 @@ This reporting requirement applies only to requests and orders for disclosure ma
 
 (e) *Sanctions and other actions.* After providing notice and an opportunity to comment, the Commission may impose a sanction upon any person who willfully fails to comply with paragraph (d) of this section, or it may take other action.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38323, July 7, 2008; 78 FR 23484, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38323, July 7, 2008; 78 FR 23484, Apr. 19, 2013; 83 FR 21161, May 8, 2018]

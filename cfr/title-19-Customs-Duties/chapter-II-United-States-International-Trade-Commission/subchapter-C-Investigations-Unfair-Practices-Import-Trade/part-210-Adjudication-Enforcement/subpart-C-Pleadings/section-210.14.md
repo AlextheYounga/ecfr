@@ -1,7 +1,5 @@
 ##### § 210.14 Amendments to pleadings and notice; supplemental submissions; counterclaims; consolidation of investigations. #####
 
-Link to an amendment published at 83 FR 21160, May 8, 2018.
-
 (a) *Preinstitution amendments.* The complaint may be amended at any time prior to the institution of the investigation. If, prior to institution, the complainant seeks to amend a complaint to add a respondent or to assert an additional unfair act not in the original complaint, including asserting a new patent or patent claim, then the complaint shall be treated as if it had been filed on the date the amendment is filed for purposes of §§ 210.8(b) and (c), 210.9, and 210.10(a).
 
 (b) *Postinstitution amendments generally.* (1) After an investigation has been instituted, the complaint or notice of investigation may be amended only by leave of the Commission for good cause shown and upon such conditions as are necessary to avoid prejudicing the public interest and the rights of the parties to the investigation. A motion for amendment must be made to the presiding administrative law judge. A motion to amend the complaint and notice of investigation to name an additional respondent after institution shall be served on the proposed respondent. If the proposed amendment of the complaint would require amending the notice of investigation, the presiding administrative law judge may grant the motion only by filing with the Commission an initial determination. All other dispositions of such motions shall be by order.
@@ -18,4 +16,6 @@ Link to an amendment published at 83 FR 21160, May 8, 2018.
 
 (g) *Consolidation of investigations.* The Commission may consolidate two or more investigations. If the investigations are currently before the same presiding administrative law judge, he or she may consolidate the investigations. The investigation number in the caption of the consolidated investigation will include the investigation numbers of the investigations being consolidated. The investigation number in which the matter will be proceeding (the lead investigation) will be the first investigation number named in the consolidated caption.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67627, Dec. 30, 1994; 76 FR 64809, Oct. 19, 2011; 78 FR 23841, Apr. 19, 2013]
+(h) *Severance of investigation.* The administrative law judge may determine to sever an investigation into two or more investigations at any time prior to or upon thirty days from institution, based upon either a motion by any party or upon the administrative law judge's own judgment that severance is necessary to allow efficient adjudication. The administrative law judge's decision will be in the form of an order. The newly severed investigation(s) shall remain with the same presiding administrative law judge unless reassigned at the discretion of the chief administrative law judge. The severed investigation(s) will be designated with new investigation numbers.
+
+[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67627, Dec. 30, 1994; 76 FR 64809, Oct. 19, 2011; 78 FR 23841, Apr. 19, 2013; 83 FR 21160, May 8, 2018]

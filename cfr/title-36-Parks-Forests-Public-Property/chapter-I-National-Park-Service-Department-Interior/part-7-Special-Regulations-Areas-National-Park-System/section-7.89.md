@@ -1,6 +1,6 @@
 ##### § 7.89 New River Gorge National River. #####
 
-(a) *Hunting* - (1) *May I hunt within New River Gorge National River?* Yes, you may hunt if you:
+(a) *Hunting*—(1) *May I hunt within New River Gorge National River?* Yes, you may hunt if you:
 
 (i) Possess a valid West Virginia State hunting license or permit, or are exempt under provisions of West Virginia law.
 
@@ -16,7 +16,7 @@
 
 (ii) On administrative roads and trails authorized for bicycle use as listed in the following table.
 
-Administrative Roads and Trails Authorized for Bicycle Use - North to SouthHawks Nest Connector TrailFayetteville TrailPark Loop TrailTimber Ridge TrailKaymoor TrailCraig Branch TrailArrowhead TrailLong Point Trail (except 0.2 miles closest to Long Point Vista)Keeneys Creek Rail TrailHeadhouse TrailTipple TrailSeldom Seen TrailNuttallburg Town Loop Connector TrailBrooklyn Mine TrailBrooklyn Miner's Connector TrailSouthside TrailRend TrailStone Cliff TrailTerry Top TrailGarden Ground Stacked Loop TrailLittle Laurel TrailMud Turn TrailGlade Creek TrailPanther Branch Connector Trail
+Administrative Roads and Trails Authorized for Bicycle Use—North to SouthHawks Nest Connector TrailFayetteville TrailPark Loop TrailTimber Ridge TrailKaymoor TrailCraig Branch TrailArrowhead TrailLong Point Trail (except 0.2 miles closest to Long Point Vista)Keeneys Creek Rail TrailHeadhouse TrailTipple TrailSeldom Seen TrailNuttallburg Town Loop Connector TrailBrooklyn Mine TrailBrooklyn Miner's Connector TrailSouthside TrailRend TrailStone Cliff TrailTerry Top TrailGarden Ground Stacked Loop TrailLittle Laurel TrailMud Turn TrailGlade Creek TrailPanther Branch Connector Trail
 
 (2) *How will I know where these administrative roads and trails are located in the park?* The administrative roads and trails where bicycle use is authorized are identified on maps located in the Superintendent's office, at park visitor centers, at interpretive kiosks, and on the park's Web site. Additional information about bicycling will also be posted at appropriate trailheads and other locations.
 

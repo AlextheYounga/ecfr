@@ -1,7 +1,5 @@
 ##### § 201.51 Interest rates applicable to credit extended by a Federal Reserve Bank.3 #####
 
-Link to an amendment published at 83 FR 21168, May 9, 2018.
-
 3 The primary, secondary, and seasonal credit rates described in this section apply to both advances and discounts made under the primary, secondary, and seasonal credit programs, respectively.
 
 (a) *Primary credit.* The interest rate at each Federal Reserve Bank for primary credit provided to depository institutions under § 201.4(a) is 2.25 percent.
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 21168, May 9, 2018.
 
 (c) *Seasonal credit.* The rate for seasonal credit extended to depository institutions under § 201.4(c) is a flexible rate that takes into account rates on market sources of funds.
 
-(d) *Primary credit rate in a financial emergency.* (1) The primary credit rate at a Federal Reserve Bank is the target federal funds rate of the Federal Open Market Committee if:
+(d) *Primary credit rate in a financial emergency.* (1) The primary credit rate at a Federal Reserve Bank is the target federal funds rate of the Federal Open Market Committee or, if the Federal Open Market Committee has set a target range for the federal funds rate, the rate corresponding to the top of the target range, if:
 
 (i) In a financial emergency the Reserve Bank has established the primary credit rate at that rate; and
 

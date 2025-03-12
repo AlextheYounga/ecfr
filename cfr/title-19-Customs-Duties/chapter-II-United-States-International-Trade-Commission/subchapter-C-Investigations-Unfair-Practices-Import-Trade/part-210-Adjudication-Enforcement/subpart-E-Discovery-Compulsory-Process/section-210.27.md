@@ -1,7 +1,5 @@
 ##### § 210.27 General provisions governing discovery. #####
 
-Link to an amendment published at 83 FR 21161, May 8, 2018.
-
 (a) *Discovery methods.* The parties to an investigation may obtain discovery by one or more of the following methods: depositions upon oral examination or written questions; written interrogatories; production of documents or things or permission to enter upon land or other property for inspection or other purposes; and requests for admissions.
 
 (b) *Scope of discovery.* Regarding the scope of discovery for the temporary relief phase of an investigation, see § 210.61. For the permanent relief phase of an investigation, unless otherwise ordered by the administrative law judge, a party may obtain discovery regarding any matter, not privileged, that is relevant to the following:
@@ -62,6 +60,16 @@ It is not grounds for objection that the information sought will be inadmissible
 
 (4) For good cause, the administrative law judge may order a different period of time for compliance with any requirement of this section. Parties may enter into a written agreement to set a different period of time for compliance with any requirement of this section without approval by the administrative law judge unless the administrative law judge has ordered a different period of time for compliance, in which case the parties' agreement must be approved by the administrative law judge.
 
+(5)(i) The provisions of § 210.27(e)(1) through (4) protect drafts of expert reports, regardless of the form in which the draft is recorded.
+
+(ii) The provisions of § 210.27(e)(1) through (4) protect communications between the party's attorney and expert witnesses concerning trial preparation, regardless of the form of the communications, except to the extent that the communications:
+
+(A) Relate to compensation for the expert's study or testimony;
+
+(B) Identify facts or data that the party's attorney provided and that the expert considered in forming the opinions to be expressed; or
+
+(iii) Identify assumptions that the party's attorney provided and that the expert relied on in forming the opinions to be expressed.
+
 (f) *Supplementation of responses.* (1) A party who has responded to a request for discovery with a response is under a duty to supplement or correct the response to include information thereafter acquired if ordered by the administrative law judge or the Commission or in the following circumstances: A party is under a duty seasonably to amend a prior response to an interrogatory, request for production, or request for admission if the party learns that the response is in some material respect incomplete or incorrect and if the additional or corrective information has not otherwise been made known to the other parties during the discovery process or in writing.
 
 (2) A duty to supplement responses also may be imposed by agreement of the parties, or at any time prior to a hearing through new requests for supplementation of prior responses.
@@ -78,10 +86,10 @@ It is not grounds for objection that the information sought will be inadmissible
 
 If a request, response, or objection is not signed, it shall be stricken unless it is signed promptly after the omission is called to the attention of the party making the request, response, or objection, and a party shall not be obligated to take any action with respect to it until it is signed.
 
-(3) If without substantial justification a request, response, or objection is certified in violation of paragraph (d)(2) of this section, the administrative law judge or the Commission, upon motion or sua sponte under § 210.25 of this part, may impose an appropriate sanction upon the person who made the certification, the party on whose behalf the request, response, or objection was made, or both.
+(3) If without substantial justification a request, response, or objection is certified in violation of paragraph (g)(2) of this section, the administrative law judge or the Commission, upon motion or sua sponte under § 210.25 of this part, may impose an appropriate sanction upon the person who made the certification, the party on whose behalf the request, response, or objection was made, or both.
 
 (4) An appropriate sanction may include an order to pay to the other parties the amount of reasonable expenses incurred because of the violation, including a reasonable attorney's fee, to the extent authorized by Rule 26(g) of the Federal Rules of Civil Procedure. Monetary sanctions shall not be imposed under this section against the United States, the Commission, or a Commission investigative attorney.
 
 (5) Monetary sanctions may be imposed under this section to reimburse the Commission for expenses incurred by a Commission investigative attorney or the Commission's Office of Unfair Import Investigations. Monetary sanctions will not be imposed under this section to reimburse the Commission for attorney's fees.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 29623, May 21, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 29623, May 21, 2013; 83 FR 21161, May 8, 2018]

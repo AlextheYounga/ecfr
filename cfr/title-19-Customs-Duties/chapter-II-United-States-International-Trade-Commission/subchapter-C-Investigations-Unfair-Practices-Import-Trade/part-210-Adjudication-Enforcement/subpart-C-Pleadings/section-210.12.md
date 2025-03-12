@@ -1,8 +1,6 @@
 ##### § 210.12 The complaint. #####
 
-Link to an amendment published at 83 FR 21160, May 8, 2018.
-
-(a) *Contents of the complaint.* In addition to conforming with the requirements of §§ 210.4 and 210.5 of this part, the complaint shall -
+(a) *Contents of the complaint.* In addition to conforming with the requirements of §§ 210.4 and 210.5 of this part, the complaint shall—
 
 (1) Be under oath and signed by the complainant or his duly authorized officer, attorney, or agent, with the name, address, and telephone number of the complainant and any such officer, attorney, or agent given on the first page of the complaint, and include a statement attesting to the representations in § 210.4(c)(1) through (3);
 
@@ -30,7 +28,7 @@ Link to an amendment published at 83 FR 21160, May 8, 2018.
 
 (8) If the alleged violation involves an unfair method of competition or an unfair act other than those listed in paragraph (a)(6)(i) of this section, state a specific theory and provide corroborating data to support the allegation(s) in the complaint concerning the existence of a threat or effect to destroy or substantially injure a domestic industry, to prevent the establishment of a domestic industry, or to restrain or monopolize trade and commerce in the United States. The information that should ordinarily be provided includes the volume and trend of production, sales, and inventories of the involved domestic article; a description of the facilities and number and type of workers employed in the production of the involved domestic article; profit-and-loss information covering overall operations and operations concerning the involved domestic article; pricing information with respect to the involved domestic article; when available, volume and sales of imports; and other pertinent data.
 
-(9) Include, when a complaint is based upon the infringement of a valid and enforceable U.S. patent -
+(9) Include, when a complaint is based upon the infringement of a valid and enforceable U.S. patent—
 
 (i) The identification of each U.S. patent and a certified copy thereof (a legible copy of each such patent will suffice for each required copy of the complaint);
 
@@ -52,7 +50,9 @@ Link to an amendment published at 83 FR 21160, May 8, 2018.
 
 (x) Drawings, photographs, or other visual representations of both the involved domestic article or process and the involved article of each person named as violating section 337 of the Tariff Act of 1930, or of the process utilized in producing the imported article, and, when a chart is furnished under paragraphs (a)(9)(viii) and (a)(9)(ix) of this section, the parts of such drawings, photographs, or other visual representations should be labeled so that they can be read in conjunction with such chart; and
 
-(10) Include, when a complaint is based upon the infringement of a federally registered copyright, trademark, mask work, or vessel hull design -
+(xi) The expiration date of each patent asserted.
+
+(10) Include, when a complaint is based upon the infringement of a federally registered copyright, trademark, mask work, or vessel hull design—
 
 (i) The identification of each licensee under each involved copyright, trademark, mask work, and vessel hull design;
 
@@ -90,4 +90,4 @@ Link to an amendment published at 83 FR 21160, May 8, 2018.
 
 (j) *Duty to supplement complaint.* Complainant shall supplement the complaint prior to institution of an investigation if complainant obtains information upon the basis of which he knows or reasonably should know that a material legal or factual assertion in the complaint is false or misleading.
 
-[59 FR 39039, Aug. 1, 1994; 59 FR 64286, Dec. 14, 1994, as amended at 73 FR 38321, July 7, 2008; 78 FR 23841, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994; 59 FR 64286, Dec. 14, 1994, as amended at 73 FR 38321, July 7, 2008; 78 FR 23841, Apr. 19, 2013; 83 FR 21160, May 8, 2018]
