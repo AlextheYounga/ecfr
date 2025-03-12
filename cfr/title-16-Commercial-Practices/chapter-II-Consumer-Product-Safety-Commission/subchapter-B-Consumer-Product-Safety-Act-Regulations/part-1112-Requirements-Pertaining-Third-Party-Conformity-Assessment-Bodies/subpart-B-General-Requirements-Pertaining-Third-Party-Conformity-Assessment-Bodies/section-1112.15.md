@@ -206,6 +206,10 @@ Link to an amendment published at 83 FR 28370, June 19, 2018.
 
 (43) 16 CFR part 1232, Safety Standard for Children's Folding Chairs and Stools.
 
+(44) [Reserved]
+
+(45) 16 CFR part 1235, Safety Standard for Baby Changing Products.
+
 (c) The Director of the Federal Register approves the incorporations by reference in paragraph (b) of this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect a copy of the standards incorporated in this section at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (1) ASTM International, 100 Bar Harbor Drive, P.O. Box 0700, West Conshohocken, PA 19428: *http://www.astm.org.*
@@ -246,4 +250,4 @@ Link to an amendment published at 83 FR 28370, June 19, 2018.
 
 (xii) CPSC “Standard Operating Procedure for Determining Lead (Pb) and its Availability in Children's Metal Jewelry”, February 3, 2005.
 
-[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016; 82 FR 8687, Jan. 30, 2017; 82 FR 8993, Feb. 2, 2017; 82 FR 15627, Mar. 30, 2017; 83 FR 57123, Dec. 4, 2017; 82 FR 43480, Sept. 18, 2017; 83 FR 4580, Feb. 1, 2018; 82 FR 59510, Dec. 15, 2017]
+[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016; 82 FR 8687, Jan. 30, 2017; 82 FR 8993, Feb. 2, 2017; 82 FR 15627, Mar. 30, 2017; 83 FR 57123, Dec. 4, 2017; 82 FR 43480, Sept. 18, 2017; 83 FR 4580, Feb. 1, 2018; 82 FR 59510, Dec. 15, 2017; 83 FR 29861, June 26, 2018]

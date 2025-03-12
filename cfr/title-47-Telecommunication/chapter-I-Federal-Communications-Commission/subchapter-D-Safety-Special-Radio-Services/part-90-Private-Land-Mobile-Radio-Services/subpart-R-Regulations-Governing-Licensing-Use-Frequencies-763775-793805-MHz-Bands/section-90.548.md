@@ -1,5 +1,7 @@
 ##### § 90.548 Interoperability Technical Standards. #####
 
+Link to an amendment published at 83 FR 29710, June 26, 2018.
+
 (a) Transmitters designed after August 11, 2014 to operate on the narrowband interoperability achannels in the 769-775 and 799-805 MHz band (*see* § 90.531) shall conform to the following technical standards (transmitters certified prior to this date are grandfathered):
 
 (1) Transmitters designed for voice operation shall include a 12.5 kilohertz bandwidth mode of operation conforming to the following standards: ANSI/TIA-102.BAAA-A-2003 and ANSI/TIA-102.BABA-2003.
