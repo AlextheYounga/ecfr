@@ -18,7 +18,7 @@
 
 (4) *FNS review and approval.* The State agency shall submit its sampling plan to FNS for approval as a part of its State Plan of Operation in accordance with § 272.2(e)(4). In addition, all sampling procedures used by the State agency, including frame composition, construction, and content shall be fully documented and available for review by FNS.
 
-(b) *Sample size.* There are two samples for the food stamp quality control review process, an active case sample and a negative case sample. The size of both these samples is based on the State agency's average monthly caseload during the annual review period. Costs associated with a State agency's sample sizes are reimbursable as specified in § 277.4.
+(b) *Sample size.* There are two samples for the SNAP quality control review process, an active case sample and a negative case sample. The size of both these samples is based on the State agency's average monthly caseload during the annual review period. Costs associated with a State agency's sample sizes are reimbursable as specified in § 277.4.
 
 (1) *Active cases.* (i) All active cases shall be selected in accordance with standard procedures, and the review findings shall be included in the calculation of the State agency's payment error rate.
 
@@ -78,7 +78,7 @@
 
 (d) *Required sample size.* A State agency's required sample size is the larger of either the number of cases selected which are subject to review or the number of cases chosen for selection and review according to paragraph (b) of this section.
 
-(e) *Sample frame.* The State agency shall select cases for quality control review from a sample frame. The choice of a sampling frame shall depend upon the criteria of timeliness, completeness, accuracy, and administrative burden. Complete coverage of the sample universes, as defined in paragraph (f) of this section, must be assured so that every household subject to quality control review has an equal or known chance of being selected in the sample. Since the food stamp quality control review process requires an active and negative sample, two corresponding sample frames are also required.
+(e) *Sample frame.* The State agency shall select cases for quality control review from a sample frame. The choice of a sampling frame shall depend upon the criteria of timeliness, completeness, accuracy, and administrative burden. Complete coverage of the sample universes, as defined in paragraph (f) of this section, must be assured so that every household subject to quality control review has an equal or known chance of being selected in the sample. Since the SNAP quality control review process requires an active and negative sample, two corresponding sample frames are also required.
 
 (1) *Active cases.* The frame for active cases shall list all households which were: (i) Certified prior to, or during, the sample month; and (ii) issued benefits for the sample month, except for those households excluded from the universe in paragraph (f)(1) of this section. State agencies may elect to use either a list of certified eligible households or a list of households issued an allotment. If the State agency uses a list of certified eligible households, those households which are issued benefits for the sample month after the frame has been compiled shall be included in a supplemental list. If the State agency uses an issuance list, the State agency shall ensure that the list includes those households which do not actually receive an allotment because the entire amount is recovered for repayment of an overissuance in accordance with the allotment reduction procedures in § 273.18.
 
@@ -90,13 +90,13 @@
 
 (3) *Unwanted cases.* A frame may include cases for which information is not desired (e.g., households which have been certified but did not actually participate during the sample month). When such cases cannot be eliminated from the frame beforehand and are selected for the sample, they must be accounted for and reported as being not subject to review in accordance with the provisions in §§ 275.12(g) and 275.13(e).
 
-(f) *Sample universe.* The State agency shall ensure that its active and negative case frames accurately reflect their sample universes. There are two sample universes for the food stamp quality control review process, an active case universe and a negative case universe. The exceptions noted below for both universes are households not usually amenable to quality control review.
+(f) *Sample universe.* The State agency shall ensure that its active and negative case frames accurately reflect their sample universes. There are two sample universes for the SNAP quality control review process, an active case universe and a negative case universe. The exceptions noted below for both universes are households not usually amenable to quality control review.
 
-(1) *Active cases.* The universe for active cases shall include all households certified prior to, or during, the sample month and receiving food stamps for the sample month, except for the following:
+(1) *Active cases.* The universe for active cases shall include all households certified prior to, or during, the sample month and receiving SNAP benefits for the sample month, except for the following:
 
 (i) A household in which all the members had died or had moved out of the State before the review could be undertaken or completed;
 
-(ii) A household receiving food stamps under a disaster certification authorized by FNS;
+(ii) A household receiving SNAP benefits under a disaster certification authorized by FNS;
 
 (iii) A household which is under investigation for intentional Program violation, including a household with a pending administrative disqualification hearing;
 
@@ -108,7 +108,7 @@
 
 (i) A household which had its case closed due to expiration of the certification period;
 
-(ii) A household denied food stamps under a disaster certification authorized by FNS;
+(ii) A household denied SNAP benefits under a disaster certification authorized by FNS;
 
 (iii) A household which withdrew an application prior to the agency's determination;
 

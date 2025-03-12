@@ -1,7 +1,5 @@
 ##### § 272.3 Operating guidelines and forms. #####
 
-Link to an amendment published at 82 FR 2035, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
-
 (a) *Coverage of operating guidelines.* State agencies shall prepare and provide to staff responsible for administering the Program written operating procedures. In those States which have State regulations that outline these Operating Procedures, these are equivalent to Operating Guidelines. Other examples of Operating Guidelines are manuals, instructions, directives or transmittal memos. The following categories shall be included in the Operating Guidelines:
 
 (1) Certification of households, including but not limited to:
@@ -36,7 +34,7 @@ Link to an amendment published at 82 FR 2035, Jan. 6, 2017.This amendment delaye
 
 (6) The consultation process (where applicable) with the tribal organization of an Indian reservation about the State Plan of Operation and Operating Guidelines in terms of the special needs of members of the tribe and the method to be used for incorporating the comments from the tribal organization into the State Plan of Operations and Operating Guidelines.
 
-(b) *Submittal of operating guidelines and forms.* (1) State agencies shall develop the necessary forms, except the Application for Food Stamps, and other operating guidelines to implement the provisions of the Food Stamp Act and regulations. In accordance with §§ 273.2(b) and 273.12(b)(1) State agencies shall use the FNS-designed Application for Food Stamps or an FNS-approved deviation.
+(b) *Submittal of operating guidelines and forms.* (1) State agencies shall develop the necessary forms, except the Application for Food Stamps, and other operating guidelines to implement the provisions of the Food and Nutrition Act of 2008 and regulations. In accordance with §§ 273.2(b) and 273.12(b)(1) State agencies shall use the FNS-designed Application for SNAP benefits or an FNS-approved deviation.
 
 (2) State agencies shall submit their operating guidelines and forms and amendments to these materials to FNS for review and audit purposes simultaneous with distribution within the States.
 
@@ -72,12 +70,10 @@ Link to an amendment published at 82 FR 2035, Jan. 6, 2017.This amendment delaye
 
 (v) Thorough explanation of the proposed alternative provision to be used in lieu of the waived regulatory provision.
 
-(5) Notwithstanding the preceding paragraphs, waivers of the certification period timeframes as described in § 273.10(f) may be granted by the Administrator of the Food and Nutrition Service or the Deputy Administrator for Family Nutrition Programs as provided in section 3(c) of the Act. Waivers authorized by this paragraph are not subject to the public comment provisions of § 272.3(d).
+(5) Notwithstanding the preceding paragraphs, waivers may be granted by the Food and Nutrition Service as provided in section 5(f) of the Act. Waivers authorized by this paragraph are not subject to the public comment provisions of paragraph (d) of this section.
 
-(6) Notwithstanding the preceding paragraphs, waivers may be granted by the Administrator of the Food and Nutrition Service or the Deputy Administrator for Family Nutrition Programs as provided in section 5(f) of the Act. Waivers authorized by this paragraph are not subject to the public comment provisions of § 272.3(d).
-
-(7) Notwithstanding the preceding paragraphs, waivers may be granted by the Administrator of the Food and Nutrition Service or the Deputy Administrator for Family Nutrition Programs as provided in section 6(c) of the Act. Waivers authorized by this paragraph are not subject to the public comment provisions of § 272.3(d).
+(6) Notwithstanding the preceding paragraphs, waivers may be granted by the Food and Nutrition Service as provided in section 6(c) of the Act. Waivers authorized by this paragraph are not subject to the public comment provisions of paragraph (d) of this section.
 
 (d) *Public comment.* State agencies shall solicit public input and comment on overall Program operations as State laws require or as the individual State agency believes would be useful.
 
-[Amdt. 156, 46 FR 6315, Jan. 21, 1981]Editorial Note:For Federal Register citations affecting § 272.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 156, 46 FR 6315, Jan. 21, 1981]Editorial Note:For Federal Register citations affecting § 272.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

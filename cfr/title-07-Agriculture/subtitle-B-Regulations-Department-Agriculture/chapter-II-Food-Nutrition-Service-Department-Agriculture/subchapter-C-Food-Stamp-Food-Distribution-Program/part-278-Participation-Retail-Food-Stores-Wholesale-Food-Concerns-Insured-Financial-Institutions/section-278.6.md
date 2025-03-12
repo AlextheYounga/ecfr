@@ -1,6 +1,6 @@
 ##### § 278.6 Disqualification of retail food stores and wholesale food concerns, and imposition of civil money penalties in lieu of disqualifications. #####
 
-(a) *Authority to disqualify or subject to a civil money penalty.* FNS may disqualify any authorized retail food store or authorized wholesale food concern from further participation in the program if the firm fails to comply with the Food Stamp Act of 1977, as amended, or this part. Such disqualification shall result from a finding of a violation on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, evidence obtained through a transaction report under an electronic benefit transfer system, or the disqualification of a firm from the Special Supplemental Nutrition Program for Women, Infants and Children (WIC), as specified in paragraph (e)(8) of this section. Disqualification shall be for a period of 6 months to 5 years for the firm's first sanction; for period of 12 months to 10 years for a firm's second sanction; and disqualification shall be permanent for a disqualification based on paragraph (e)(1) of this section. Any firm which has been disqualified and which wishes to be reinstated at the end of the period of disqualification, or at any later time, shall file a new application under § 278.1 so that FNS may determine whether reauthorization is appropriate. The application may be filed no earlier than 10 days before the end of the period of disqualification. FNS may, in lieu of a disqualification, subject a firm to a civil money penalty of up to an amount specified in § 3.91(b)(3)(i) of this title for each violation if FNS determines that a disqualification would cause hardship to participating households. FNS may impose a civil money penalty of up to an amount specified in § 3.91(b)(3)(ii) of this title for each violation in lieu of a permanent disqualification for trafficking, as defined in § 271.2 of this chapter, in accordance with the provisions of paragraphs (i) and (j) of this section.
+(a) *Authority to disqualify or subject to a civil money penalty.* FNS may disqualify any authorized retail food store or authorized wholesale food concern from further participation in the program if the firm fails to comply with the Food and Nutrition Act of 2008, as amended, or this part. Such disqualification shall result from a finding of a violation on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, evidence obtained through a transaction report under an electronic benefit transfer system, or the disqualification of a firm from the Special Supplemental Nutrition Program for Women, Infants and Children (WIC), as specified in paragraph (e)(8) of this section. Disqualification shall be for a period of 6 months to 5 years for the firm's first sanction; for period of 12 months to 10 years for a firm's second sanction; and disqualification shall be permanent for a disqualification based on paragraph (e)(1) of this section. Any firm which has been disqualified and which wishes to be reinstated at the end of the period of disqualification, or at any later time, shall file a new application under § 278.1 so that FNS may determine whether reauthorization is appropriate. The application may be filed no earlier than 10 days before the end of the period of disqualification. FNS may, in lieu of a disqualification, subject a firm to a civil money penalty of up to an amount specified in § 3.91(b)(3)(i) of this title for each violation if FNS determines that a disqualification would cause hardship to participating households. FNS may impose a civil money penalty of up to an amount specified in § 3.91(b)(3)(ii) of this title for each violation in lieu of a permanent disqualification for trafficking, as defined in § 271.2 of this chapter, in accordance with the provisions of paragraphs (i) and (j) of this section.
 
 (b) *Charge letter* - (1) *General provisions.* Any firm considered for disqualification or imposition of a civil money penalty under paragraph (a) of this section or a fine as specified under paragraph (l) or (m) of this section shall have full opportunity to submit to FNS information, explanation, or evidence concerning any instances of noncompliance before FNS makes a final administrative determination. The FNS regional office shall send the firm a letter of charges before making such determination. The letter shall specify the violations or actions which FNS believes constitute a basis for disqualification or imposition of a civil money penalty or fine. The letter shall specify the violations or actions which FNS believes constitute a basis for disqualification or imposition of a civil money penalty. The letter shall inform the firm that it may respond either orally or in writing to the charges contained in the letter within 10 days of receiving the letter. The firm's response shall set forth a statement of evidence, information, or explanation concerning the specified violations or acts. The firm shall make its response, if any, to the officer in charge of the FNS field office which has responsibility for the project area in which the firm is located. In the case of a firm for which action is taken in accordance with paragraph (e)(8) of this section, the charge letter shall inform such firm that the disqualification action is not subject to administrative or judicial review, as specified in paragraph (e)(8) of this section.
 
@@ -34,7 +34,7 @@
 
 (B) Staple food stock;
 
-(C) Annual gross sales for firms seeking to qualify for authorization under Criterion B as specified in the Food Stamp Act of 1977, as amended;
+(C) Annual gross sales for firms seeking to qualify for authorization under Criterion B as specified in the Food and Nutrition Act of 2008, as amended;
 
 (D) Annual staple food sales;
 
@@ -44,7 +44,7 @@
 
 (G) Employer Identification Numbers and Social Security Numbers;
 
-(H) Food Stamp Program history, business practices, business ethics, WIC disqualification or authorization status, when the store did (or will) open for business under the current ownership, business, health or other licenses, and whether or not the firm is a retail and wholesale firm operating at the same location; or
+(H) SNAP history, business practices, business ethics, WIC disqualification or authorization status, when the store did (or will) open for business under the current ownership, business, health or other licenses, and whether or not the firm is a retail and wholesale firm operating at the same location; or
 
 (I) Any other information of a substantive nature that could affect the eligibility of a firm.
 
@@ -86,7 +86,7 @@
 
 (i) It is to be the first sanction for the firm and the ownership or management personnel of the firm have committed violations such as the sale of common nonfood items in amounts normally found in a shopping basket, and FNS had not previously advised the firm of the possibility that violations were occurring and of the possible consequences of violating the regulations; or
 
-(ii) The firm has accepted food stamp benefits in payment for items sold to a household on credit.
+(ii) The firm has accepted SNAP benefits in payment for items sold to a household on credit.
 
 (5) Disqualify the firm for 6 months if it is to be the first sanction for the firm and the evidence shows that personnel of the firm have committed violations such as but not limited to the sale of common nonfood items due to carelessness or poor supervision by the firm's ownership or management.
 
@@ -94,7 +94,7 @@
 
 (7) Send the firm a warning letter if violations are too limited to warrant a disqualification.
 
-(8) FNS shall disqualify from the Food Stamp Program any firm which is disqualified from the WIC Program:
+(8) FNS shall disqualify from SNAP any firm which is disqualified from the WIC Program:
 
 (i) Based in whole or in part on any act which constitutes a violation of that program's regulation and which is shown to constitute a misdemeanor or felony violation of law, or for any of the following specific program violations:
 
@@ -110,23 +110,23 @@
 
 (F) A pattern of charging for food items not received by the WIC customer or for foods provided in excess of those listed on the food instrument.
 
-(ii) FNS shall not disqualify a firm from the Food Stamp Program on the basis of a WIC disqualification unless:
+(ii) FNS shall not disqualify a firm from SNAP on the basis of a WIC disqualification unless:
 
-(A) Prior to the time prescribed for securing administrative review of the WIC disqualification action, the firm was provided individual and specific notice that it could be disqualified from the Food Stamp Program based on the WIC violations committed by the firm;
+(A) Prior to the time prescribed for securing administrative review of the WIC disqualification action, the firm was provided individual and specific notice that it could be disqualified from SNAP based on the WIC violations committed by the firm;
 
 (B) A signed and dated copy of such notice is provided to FNS by the WIC administering agency; and
 
-(C) A determination is made in accordance with paragraph (a) of this section that such action will not cause a hardship for participating Food Stamp households.
+(C) A determination is made in accordance with paragraph (a) of this section that such action will not cause a hardship for participating SNAP households.
 
-(iii) Such a Food Stamp disqualification:
+(iii) Such a SNAP disqualification:
 
 (A) Shall be for the same length of time as the WIC disqualification;
 
 (B) May begin at a later date than the WIC disqualification; and
 
-(C) Shall not be subject to administrative or judicial review under the Food Stamp Program.
+(C) Shall not be subject to administrative or judicial review under SNAP.
 
-(f) *Criteria for civil money penalties for hardship and transfer of ownership.* (1) FNS may impose a civil money penalty as a sanction in lieu of disqualification when the firm subject to a disqualification is selling a substantial variety of staple food items, and the firm's disqualification would cause hardship to food stamp households because there is no other authorized retail food store in the area selling as large a variety of staple food items at comparable prices. FNS may disqualify a store which meets the criteria for a civil money penalty if the store had previously been assigned a sanction. A civil money penalty for hardship to food stamp households may not be imposed in lieu of a permanent disqualification.
+(f) *Criteria for civil money penalties for hardship and transfer of ownership.* (1) FNS may impose a civil money penalty as a sanction in lieu of disqualification when the firm subject to a disqualification is selling a substantial variety of staple food items, and the firm's disqualification would cause hardship to SNAP households because there is no other authorized retail food store in the area selling as large a variety of staple food items at comparable prices. FNS may disqualify a store which meets the criteria for a civil money penalty if the store had previously been assigned a sanction. A civil money penalty for hardship to SNAP households may not be imposed in lieu of a permanent disqualification.
 
 (2) In the event any retail food store or wholesale food concern which has been disqualified is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or other legal entity who sells or otherwise transfers ownership of the retail food store or wholesale food concern shall be subjected to and liable for a civil money penalty in an amount to reflect that portion of the disqualification period that has not expired, to be calculated using the method found at § 278.6(g). If the retail food store or wholesale food concern has been permanently disqualified, the civil money penalty shall be double the penalty for a ten year disqualification period. The disqualification shall continue in effect at the disqualified location for the person or other legal entity who transfers ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil money penalty under this paragraph.
 
@@ -176,11 +176,11 @@
 
 (2) *Compliance training program standards.* As prescribed in Criterion 3 above, the firm shall have developed and implemented an effective training program for all managers and employees on the acceptance and handling of food coupons in accordance with this part 278. A firm which seeks a civil money penalty in lieu of a permanent disqualification shall document its training activity by submitting to FNS its dated training curricula and records of dates training sessions were conducted; a record of dates of employment of firm personnel; and contemporaneous documentation of the participation of the violating employee(s) in initial and any follow-up training held prior to the violation(s). FNS shall consider a training program effective if it meets or is otherwise equivalent to the following standards:
 
-(i) Training for all managers and employees whose work brings them into contact with food stamps or who are assigned to a location where food stamps are accepted, handled or processed shall be conducted within one month of the institution of the compliance policy under Criterion 1 above. Employees hired subsequent to the institution of the compliance policy shall be trained within one month of employment. All employees shall be trained periodically thereafter;
+(i) Training for all managers and employees whose work brings them into contact with SNAP benefits or who are assigned to a location where SNAP benefits are accepted, handled or processed shall be conducted within one month of the institution of the compliance policy under Criterion 1 above. Employees hired subsequent to the institution of the compliance policy shall be trained within one month of employment. All employees shall be trained periodically thereafter;
 
 (ii) Training shall be designed to establish a level of competence that assures compliance with Program requirements as included in this part 278;
 
-(iii) Written materials, which may include FNS publications and program regulations that are available to all authorized firms, are used in the training program. Training materials shall clearly state that the following acts are prohibited and are in violation of the Food Stamp Act and regulations: the exchange of food coupons, ATP cards or other program access devices for cash; and, in exchange for coupons, the sale of firearms, ammunition, explosives or controlled substances, as the term is defined in section 802 of title 21, United States Code.
+(iii) Written materials, which may include FNS publications and program regulations that are available to all authorized firms, are used in the training program. Training materials shall clearly state that the following acts are prohibited and are in violation of the Food and Nutrition Act of 2008 and regulations: the exchange of food coupons, ATP cards or other program access devices for cash; and, in exchange for coupons, the sale of firearms, ammunition, explosives or controlled substances, as the term is defined in section 802 of title 21, United States Code.
 
 (j) *Amount of civil money penalty in lieu of permanent disqualification for trafficking.* A civil money penalty assessed in accordance with § 278.6(i) shall not exceed the amount specified in § 3.91(b)(3)(ii) of this title for each violation and shall not exceed the amount specified in § 3.91(b)(3)(ii) of this title for all violations occurring during a single investigation. FNS shall determine the amount of the civil money penalty as follows:
 
@@ -198,7 +198,7 @@
 
 (l) *Fines for the acceptance of loose coupons.* FNS may impose a fine against any retail food store or wholesale food concern that accepts coupons that are not accompanied by the corresponding book cover, other than the denomination of coupons used for making change as specified in § 278.2(d) or coupons accepted from homeless meal providers as specified in § 278.2(c). The fine to be assessed against a firm found to be accepting loose coupons shall be $500 per investigation *plus* an amount equal to double the face value of each loose coupon accepted, and may be assessed and collected in addition to any fiscal claim established by FNS. The fine shall be paid in full within 30 days of the firm's receipt of FNS' notification to pay the fine. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the store or concern to collect the fine. FNS may withdraw the authorization of the store, as well as other authorized locations of a multi-unit firm which are under the same ownership, for failure to pay such a fine as specified under § 278.1(k). FNS may deny the authorization of any firm that has failed to pay such fines as specified under § 278.1(j).
 
-(m) *Fines for unauthorized third parties that accept food stamps.* FNS may impose a fine against any individual, sole proprietorship, partnership, corporation or other legal entity not approved by FNS to accept and redeem food coupons for any violation of the provisions of the Food Stamp Act or the program regulations, including violations involving the acceptance of coupons. The fine shall be $1,000 for each violation *plus* an amount equal to three times the face value of the illegally accepted food coupons. The fine shall be paid in full within 30 days of the individual's or legal entity's receipt of FNS' notification to pay the fine. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine. FNS may withdraw the authorization of any firm that is under the same ownership as an unauthorized firm that has failed to pay such a fine, as specified under § 278.1(k). FNS may deny authorization to any firm that has failed to pay such a fine, as specified under § 278.1(j).
+(m) *Fines for unauthorized third parties that accept food stamps.* FNS may impose a fine against any individual, sole proprietorship, partnership, corporation or other legal entity not approved by FNS to accept and redeem food coupons for any violation of the provisions of the Food and Nutrition Act of 2008 or the program regulations, including violations involving the acceptance of coupons. The fine shall be $1,000 for each violation *plus* an amount equal to three times the face value of the illegally accepted food coupons. The fine shall be paid in full within 30 days of the individual's or legal entity's receipt of FNS' notification to pay the fine. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine. FNS may withdraw the authorization of any firm that is under the same ownership as an unauthorized firm that has failed to pay such a fine, as specified under § 278.1(k). FNS may deny authorization to any firm that has failed to pay such a fine, as specified under § 278.1(j).
 
 (n) *Review of determination.* The determination of FNS shall be final and not subject to further administrative or judicial review unless a written request for review is filed within the period stated in part 279 of this chapter.
 
@@ -206,4 +206,4 @@ Notwithstanding the above, any FNS determination made on the basis of paragraph 
 
 (o) *Delivery of notice.* The delivery by any method that provides evidence of delivery of any notice required of FNS by this part will constitute notice to the addressee of its contents.
 
-[Amdt. 136, 43 FR 43274, Sept. 22, 1978]Editorial Note:For Federal Register citations affecting § 278.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 136, 43 FR 43274, Sept. 22, 1978]Editorial Note:For Federal Register citations affecting § 278.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

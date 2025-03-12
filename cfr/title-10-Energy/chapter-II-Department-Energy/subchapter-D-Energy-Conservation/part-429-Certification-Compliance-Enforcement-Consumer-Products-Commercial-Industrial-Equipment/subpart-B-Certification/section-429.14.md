@@ -44,4 +44,4 @@
 
 (2) Compartment temperatures used to determine product category shall be the mean of the measured compartment temperatures at the coldest setting for each tested unit of the basic model according to the provisions section 5.1 of appendix A of subpart B of part 430 of this chapter for refrigerators and refrigerator-freezers and section 5.1 of appendix B of subpart B of part 430 of this chapter for freezers.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 79 FR 22348, Apr. 21, 2014; 81 FR 46789, July 18, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 79 FR 22348, Apr. 21, 2014; 81 FR 46789, July 18, 2016]Effective Date Note:At 81 FR 46789, July 18, 2016, § 429.14(c)(2) and (c)(3) were stayed indefinitely.

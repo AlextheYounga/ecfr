@@ -1,6 +1,6 @@
 ##### § 273.24 Time limit for able-bodied adults. #####
 
-(a) *Definitions.* For purposes of the food stamp time limit, the terms below have the following meanings:
+(a) *Definitions.* For purposes of the SNAP time limit, the terms below have the following meanings:
 
 (1) *Fulfilling the work requirement* means:
 
@@ -36,9 +36,9 @@
 
 (ii) A comparable program established by a State or political subdivision of a State.
 
-(b) *General Rule.* Individuals are not eligible to participate in the Food Stamp Program as a member of any household if the individual received food stamps for more than three countable months during any three-year period, except that individuals may be eligible for up to three additional countable months in accordance with paragraph (e) of this section.
+(b) *General Rule.* Individuals are not eligible to participate in SNAP as a member of any household if the individual received SNAP benefits for more than three countable months during any three-year period, except that individuals may be eligible for up to three additional countable months in accordance with paragraph (e) of this section.
 
-(1) *Countable months.* Countable months are months during which an individual receives food stamps for the full benefit month while not:
+(1) *Countable months.* Countable months are months during which an individual receives SNAP benefits for the full benefit month while not:
 
 (i) Exempt under paragraph (c) of this section;
 
@@ -54,11 +54,11 @@
 
 (i) Shall be measured and tracked consistently so that individuals who are similarly situated are treated the same; and
 
-(ii) Shall not include any period before the earlier of November 22, 1996, or the date the State notified food stamp recipients of the application of Section 824 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Pub. L. 104-193).
+(ii) Shall not include any period before the earlier of November 22, 1996, or the date the State notified SNAP recipients of the application of Section 824 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Pub. L. 104-193).
 
 (4) *Treatment of income and resources.* The income and resources of an individual made ineligible under this paragraph (b) shall be handled in accordance with § 273.11(c)(2).
 
-(5) *Benefits received erroneously.* If an individual subject to this section receives food stamp benefits erroneously, the State agency shall consider the benefits to have been received for purposes of this provision unless or until the individual pays it back in full.
+(5) *Benefits received erroneously.* If an individual subject to this section receives SNAP benefits erroneously, the State agency shall consider the benefits to have been received for purposes of this provision unless or until the individual pays it back in full.
 
 (6) *Verification.* Verification shall be in accordance with § 273.2(f)(1) and (f)(8).
 
@@ -80,11 +80,11 @@
 
 (4) Is residing in a household where a household member is under age 18, even if the household member who is under 18 is not himself eligible for food stamps;
 
-(5) Is otherwise exempt from work requirements under section 6(d)(2) of the Food Stamp Act, as implemented in regulations at § 273.7(b); or
+(5) Is otherwise exempt from work requirements under section 6(d)(2) of the Food and Nutrition Act of 2008, as implemented in regulations at § 273.7(b); or
 
 (6) Is pregnant.
 
-(d) *Regaining eligibility.* (1) An individual denied eligibility under paragraph (b) of this section, or who did not reapply for benefits because he was not meeting the work requirements under paragraph (b) of this section, shall regain eligibility to participate in the Food Stamp Program if, as determined by the State agency, during any 30 consecutive days, he or she:
+(d) *Regaining eligibility.* (1) An individual denied eligibility under paragraph (b) of this section, or who did not reapply for benefits because he was not meeting the work requirements under paragraph (b) of this section, shall regain eligibility to participate in SNAP if, as determined by the State agency, during any 30 consecutive days, he or she:
 
 (i) Worked 80 or more hours;
 
@@ -134,9 +134,9 @@
 
 (g) *15 percent exemptions.* (1) For the purpose of establishing the 15 percent exemption for each State agency, the following terms are defined:
 
-(i) *Caseload* means the average monthly number of individuals receiving food stamps during the 12-month period ending the preceding June 30.
+(i) *Caseload* means the average monthly number of individuals receiving SNAP benefits during the 12-month period ending the preceding June 30.
 
-(ii) *Covered individual* means a food stamp recipient, or an applicant denied eligibility for benefits solely because he or she received food stamps during the 3 months of eligibility provided under paragraph (b) of this section, who:
+(ii) *Covered individual* means a SNAP recipient, or an applicant denied eligibility for benefits solely because he or she received SNAP benefits during the 3 months of eligibility provided under paragraph (b) of this section, who:
 
 (A) Is not exempt from the time limit under paragraph (c) of this section;
 
@@ -144,7 +144,7 @@
 
 (C) Is not fulfilling the work requirements as defined in paragraph (a)(1) of this section; and
 
-(D) Is not receiving food stamp benefits under paragraph (e) of this section.
+(D) Is not receiving SNAP benefits under paragraph (e) of this section.
 
 (2) Subject to paragraphs (h) and (i) of this section, a State agency may provide an exemption from the 3-month time limit of paragraph (b) of this section for covered individuals. Exemptions do not count towards a State agency's allocation if they are provided to an individual who is otherwise exempt from the time limit during that month.
 
@@ -152,13 +152,13 @@
 
 (i) The State agency's caseload; and
 
-(ii) FNS's estimate of changes in the proportion of food stamp recipients covered by waivers granted under paragraph (f) of this section.
+(ii) FNS's estimate of changes in the proportion of SNAP recipients covered by waivers granted under paragraph (f) of this section.
 
-(4) State agencies must not discriminate against any covered individual for reasons of age, race, color, sex, disability, religious creed, national origin, or political beliefs. Such discrimination is prohibited by this part, the Food Stamp Act, the Age Discrimination Act of 1975 (Public Law 94-135), the Rehabilitation Act of 1973 (Public Law 93-112, section 504), and title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d). Enforcement action may be brought under any applicable Federal law. Title VI complaints will be processed in accord with 7 CFR part 15.
+(4) State agencies must not discriminate against any covered individual for reasons of age, race, color, sex, disability, religious creed, national origin, or political beliefs. Such discrimination is prohibited by this part, the Food and Nutrition Act of 2008, the Age Discrimination Act of 1975 (Public Law 94-135), the Rehabilitation Act of 1973 (Public Law 93-112, section 504), and title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d). Enforcement action may be brought under any applicable Federal law. Title VI complaints will be processed in accord with 7 CFR part 15.
 
 (h) *Adjustments.* FNS will make adjustments as follows:
 
-(1) *Caseload adjustments.* FNS will adjust the number of exemptions estimated for a State agency under paragraph (g)(2) of this section during a fiscal year if the number of food stamp recipients in the State varies from the State's caseload by more than 10 percent, as estimated by FNS.
+(1) *Caseload adjustments.* FNS will adjust the number of exemptions estimated for a State agency under paragraph (g)(2) of this section during a fiscal year if the number of SNAP recipients in the State varies from the State's caseload by more than 10 percent, as estimated by FNS.
 
 (2) *Exemption adjustments.* During each fiscal year, FNS will adjust the number of exemptions allocated to a State agency based on the number of exemptions in effect in the State for the preceding fiscal year.
 
@@ -168,6 +168,6 @@
 
 (i) *Reporting requirement.* The State agency will track the number of exemptions used each month and report this number to the regional office on a quarterly basis as an addendum to the quarterly Employment and Training Report (Form FNS-583) required by § 273.7(c)(8).
 
-(j) *Other Program rules.* Nothing in this section will make an individual eligible for food stamp benefits if the individual is not otherwise eligible for benefits under the other provisions of this part and the Food Stamp Act.
+(j) *Other Program rules.* Nothing in this section will make an individual eligible for SNAP benefits if the individual is not otherwise eligible for benefits under the other provisions of this part and the Food and Nutrition Act of 2008.
 
 [Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006]

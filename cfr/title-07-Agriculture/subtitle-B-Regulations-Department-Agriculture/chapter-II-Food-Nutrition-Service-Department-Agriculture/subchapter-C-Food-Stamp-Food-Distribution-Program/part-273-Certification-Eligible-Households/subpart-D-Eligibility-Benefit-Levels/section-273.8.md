@@ -1,14 +1,16 @@
 ##### § 273.8 Resource eligibility standards. #####
 
-Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
-
 (a) *Uniform standards.* The State agency shall apply the uniform national resource standards of eligibility to all applicant households, including those households in which members are recipients of federally aided public assistance, general assistance, or supplemental security income. Households which are categorically eligible as defined in § 273.2(j)(2) or 273.2(j)(4) do not have to meet the resource limits or definitions in this section.
 
-(b) *Maximum allowable resources.* The maximum allowable resources, including both liquid and nonliquid assets, of all members of the household shall not exceed $2,000 for the household, except that, for households including one or more disabled members or a member or members age 60 or over, such resources shall not exceed $3,000.
+(b) *Maximum allowable financial resources.* The maximum allowable liquid and non-liquid financial resources of all members of a household without members who are elderly or have a disability shall not exceed $2,000, as adjusted for inflation in accordance with paragraph (b)(1) and (b)(2) of this section. For households including one or more member who is elderly or has a disability, such financial resources shall not exceed $3,000, as adjusted for inflation in accordance with paragraph (b)(1) and (b)(2) of this section.
+
+(1) Beginning October 1, 2008, and each October 1 thereafter, the maximum allowable financial resources shall be adjusted and rounded down to the nearest $250 to reflect changes in the Consumer Price Index for the All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor (for the 12-month period ending the preceding June).
+
+(2) Each adjustment shall be based on the unrounded amount for the prior 12-month period.
 
 (c) *Definition of resources.* In determining the resources of a household, the following shall be included and documented by the State agency in sufficient detail to permit verification:
 
-(1) Liquid resources, such as cash on hand, money in checking or savings accounts, savings certificates, stocks or bonds, lump sum payments as specified in § 273.9(c)(8), funds held in individual retirement accounts (IRA's), and funds held in Keogh plans which do not involve the household member in a contractual relationship with individuals who are not household members. In counting resources of households with IRA's or includable Keogh plans, the State agency shall include the total cash value of the account or plan minus the amount of the penalty (if any) that would be exacted for the early withdrawal of the entire amount in the account or plan; and
+(1) Liquid resources, such as cash on hand, money in checking and savings accounts, saving certificates, stocks or bonds, and lump sum payments as specified in § 273.9(c)(8); and
 
 (2) Nonliquid resources, personal property, licensed and unlicensed vehicles, buildings, land, recreational properties, and any other property, provided that these resources are not specifically excluded under paragraph (e) of this section. The value of nonexempt resources, except for licensed vehicles as specified in paragraph (f) of this section, shall be its equity value. The equity value is the fair market value less encumbrances.
 
@@ -24,7 +26,31 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (1) The home and surrounding property which is not separated from the home by intervening property owned by others. Public rights of way, such as roads which run through the surrounding property and separate it from the home, will not affect the exemption of the property. The home and surrounding property shall remain exempt when temporarily unoccupied for reasons of employment, training for future employment, illness, or uninhabitability caused by casualty or natural disaster, if the household intends to return. Households that currently do not own a home, but own or are purchasing a lot on which they intend to build or are building a permanent home, shall receive an exclusion for the value of the lot and, if it is partially completed, for the home.
 
-(2) Household goods, personal effects, the cash value of life insurance policies, one burial plot per household member, and the value of one bona fide funeral agreement per household member, provided that the agreement does not exceed $1,500 in equity value, in which event the value above $1,500 is counted. The cash value of pension plans or funds shall be excluded, except that Keogh plans which involve no contractual relationship with individuals who are not household members and individual retirement accounts (IRA's) shall not be excluded under this paragraph.
+(2) Household goods, personal effects, the cash value of life insurance policies, one burial plot per household member, and the value of one funeral agreement per household member. The cash value of pension plans or funds shall be excluded. The following retirement accounts shall be excluded:
+
+(i) Funds in a plan, contract, or account that meets the requirements that is described in one of the following sections of the Internal Revenue Code of 1986:
+
+(A) Section 401(a), which includes funds commonly known as “tax qualified retirement plans,” including “401(k) plans”;
+
+(B) Section 403(a), which includes funds that are similar to 401(a) plans but are funded through annuity contracts;
+
+(C) Section 403(b), which includes tax-sheltered annuities, custodial accounts, and retirement income accounts retirement plans for some employees of public schools and tax exempt organizations;
+
+(D) Section 408, which includes traditional Individual Retirement Accounts and traditional Individual Retirement Annuities (IRAs);
+
+(E) Section 408A, which includes plans commonly known as “Roth IRAs” (including the “myRA”);
+
+(F) Section 457(b), which includes plans commonly known as “eligible deferred compensation plans” for employees of state or local government or tax-exempt entities; or
+
+(G) Section 501(c)(18), which includes plans funded by employee contributions.
+
+(ii) Funds in a Section 529A, which includes funds in a qualified ABLE program.
+
+(iii) Funds in the Federal Thrift Savings Fund within the meaning of that term as used in section 7701(j) of the Internal Revenue Code of 1986. as defined by 5 U.S.C. 8439.
+
+(iv) Any other retirement plan or arrangement that is designated as tax-exempt under a successor or similar provision of the Internal Revenue Code of 1986.
+
+(iv) Any other retirement account determined by FNS to be appropriate for exclusion.
 
 (3)(i) Licensed vehicles that meet the following conditions:
 
@@ -32,7 +58,7 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (B) Annually producing income consistent with its fair market value, even if used only on a seasonal basis;
 
-(C) Necessary for long-distance travel, other than daily commuting, that is essential to the employment of a household member (or ineligible alien or disqualified person whose resources are being considered available to the household) - for example, the vehicle of a traveling sales person or a migrant farm worker following the work stream;
+(C) Necessary for long-distance travel, other than daily commuting, that is essential to the employment of a household member (or ineligible alien or disqualified person whose resources are being considered available to the household)—for example, the vehicle of a traveling sales person or a migrant farm worker following the work stream;
 
 (D) Used as the household's home and, therefore, excluded under paragraph (e)(1) of this section;
 
@@ -72,13 +98,13 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (10) Indian lands held jointly with the Tribe, or land that can be sold only with the approval of the Department of the Interior's Bureau of Indian Affairs; and
 
-(11) Resources which are excluded for food stamp purposes by express provision of Federal statute.
+(11) Resources which are excluded for SNAP purposes by express provision of Federal statute.
 
 (12) Earned income tax credits shall be excluded as follows:
 
 (i) A Federal earned income tax credit received either as a lump sum or as payments under section 3507 of the Internal Revenue Code for the month of receipt and the following month for the individual and that individual's spouse.
 
-(ii) Any Federal, State or local earned income tax credit received by any household member shall be excluded for 12 months, provided the household was participating in the Food Stamp Program at the time of receipt of the earned income tax credit and provided the household participates continuously during that 12-month period. Breaks in participation of one month or less due to administrative reasons, such as delayed recertification or missing or late monthly reports, shall not be considered as nonparticipation in determining the 12-month exclusion.
+(ii) Any Federal, State or local earned income tax credit received by any household member shall be excluded for 12 months, provided the household was participating in SNAP at the time of receipt of the earned income tax credit and provided the household participates continuously during that 12-month period. Breaks in participation of one month or less due to administrative reasons, such as delayed recertification or missing or late monthly reports, shall not be considered as nonparticipation in determining the 12-month exclusion.
 
 (13) Where an exclusion applies because of use of a resource by or for a household member, the exclusion shall also apply when the resource is being used by or for an ineligible alien or disqualified person whose resources are being counted as part of the household's resources. For example, work related equipment essential to the employment of an ineligible alien or disqualified person shall be excluded (in accordance with paragraph (e)(5) of this section), as shall one burial plot per ineligible alien or disqualified household member (in accordance with paragraph (e)(2) of this section).
 
@@ -96,7 +122,13 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (ii) “Any significant amount of funds” means funds amounting to more than $1,500.
 
-(19) At State agency option, any resources that the State agency excludes when determining eligibility or benefits for TANF cash assistance, as defined by 45 CFR 260.31 (a)(1) and (a)(2), or medical assistance under Section 1931 of the SSA. Resource exclusions under TANF and Section 1931 programs that do not evaluate the financial circumstances of adults in the household and programs grandfathered under Section 404(a)(2) of the SSA shall not be excluded under this paragraph (e)(19). Additionally, licensed vehicles not excluded under Section 5(g)(2)(C) or (D) of the Food Stamp Act of 1977, as amended (7 U.S.C. 2014(g)(2)(C) or (D)), cash on hand, amounts in any account in a financial institution that are readily available to the household including money in checking or savings accounts, savings certificates, stocks, or bonds shall also not be excluded. The term “readily available” applies to resources that the owner can simply withdraw from a financial institution. State agencies may exclude deposits in individual development accounts (IDAs). A State agency that chooses to exclude resources under this paragraph (e)(19) must specify in its State plan of operation that it has selected this option and provide a description of the resources that are being excluded.
+(19) At State agency option, any resources that the State agency excludes when determining eligibility or benefits for TANF cash assistance, as defined by 45 CFR 260.31 (a)(1) and (a)(2), or medical assistance under Section 1931 of the SSA. Resource exclusions under TANF and Section 1931 programs that do not evaluate the financial circumstances of adults in the household and programs grandfathered under Section 404(a)(2) of the SSA shall not be excluded under this paragraph (e)(19). Additionally, licensed vehicles not excluded under Section 5(g)(2)(C) or (D) of the Food and Nutrition Act of 2008, as amended (7 U.S.C. 2014(g)(2)(C) or (D)), cash on hand, amounts in any account in a financial institution that are readily available to the household including money in checking or savings accounts, savings certificates, stocks, or bonds shall also not be excluded. The term “readily available” applies to resources that the owner can simply withdraw from a financial institution. State agencies may exclude deposits in individual development accounts (IDAs). A State agency that chooses to exclude resources under this paragraph (e)(19) must specify in its State plan of operation that it has selected this option and provide a description of the resources that are being excluded.
+
+(20) The following education accounts are excluded from allowable financial resources:
+
+(i) Funds in a qualified tuition program, as defined by section 529 of the Internal Revenue Code of 1986; (ii) Funds in a Coverdell education savings account, as defined by section 530 of the Internal Revenue Code of 1986; and
+
+(iii) Funds in any other education savings account determined by FNS to be appropriate for exclusion.
 
 (f) *Determining the value of non-excluded vehicles.* (1) The State agency must:
 
@@ -120,11 +152,11 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (4) A State agency may substitute for the vehicle evaluation provisions in paragraphs (f)(1) through (f)(3) of this section the vehicle evaluation provisions of a program in that State that uses TANF or State or local funds to meet TANF maintenance of effort requirements and provides benefits that meet the definition of “assistance” according to TANF regulations at 45 CFR 260.31, where doing so results in a lower attribution of resources to the household. States electing this option must:
 
-(i) Apply the substituted TANF vehicle rules to all food stamp households in the State, whether or not they receive or are eligible to receive TANF assistance of any kind;
+(i) Apply the substituted TANF vehicle rules to all SNAP households in the State, whether or not they receive or are eligible to receive TANF assistance of any kind;
 
-(ii) Exclude from household resources any vehicles excluded by either the substituted TANF vehicle rules or the food stamp vehicle rules at paragraphs (e)(3), (e)(5), (e)(11) and (f) of this section;
+(ii) Exclude from household resources any vehicles excluded by either the substituted TANF vehicle rules or the SNAP vehicle rules at paragraphs (e)(3), (e)(5), (e)(11) and (f) of this section;
 
-(iii) Apply either the substituted TANF rules or the food stamp vehicle rules to each of a household's vehicles in turn, using whichever set of rules produces the lower attribution of resources to the household;
+(iii) Apply either the substituted TANF rules or the SNAP vehicle rules to each of a household's vehicles in turn, using whichever set of rules produces the lower attribution of resources to the household;
 
 (iv) Apply any vehicle exclusions allowed by their TANF vehicle rules to the vehicles with the highest values; and
 
@@ -132,7 +164,7 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (g) *Handling of excluded funds.* Excluded funds that are kept in a separate account, and that are not commingled in an account with nonexcluded funds, shall retain their resource exclusion for an unlimited period of time. The resources of students and self-employment households which are excluded as provided in paragraph (e)(9) of this section and are commingled in an account with nonexcluded funds shall retain their exclusion for the period of time over which they have been prorated as income. All other excluded moneys which are commingled in an account with nonexcluded funds shall retain their exemption for six months from the date they are commingled. After six months from the date of commingling, all funds in the commingled account shall be counted as a resource.
 
-(h) *Transfer of resources.* (1) At the time of application, households shall be asked to provide information regarding any resources which any household member (or ineligible alien or disqualified person whose resources are being considered available to the household) had transferred within the 3-month period immediately preceding the date of application. Households which have transferred resources knowingly for the purpose of qualifying or attempting to qualify for food stamp benefits shall be disqualified from participation in the program for up to 1 year from the date of the discovery of the transfer. This disqualification period shall be applied if the resources are transferred knowingly in the 3-month period prior to application or if they are transferred knowingly after the household is determined eligible for benefits. An example of the latter would be assets which the household acquires after being certified and which are then transferred to prevent the household from exceeding the maximum resource limit.
+(h) *Transfer of resources.* (1) At the time of application, households shall be asked to provide information regarding any resources which any household member (or ineligible alien or disqualified person whose resources are being considered available to the household) had transferred within the 3-month period immediately preceding the date of application. Households which have transferred resources knowingly for the purpose of qualifying or attempting to qualify for SNAP benefits shall be disqualified from participation in the program for up to 1 year from the date of the discovery of the transfer. This disqualification period shall be applied if the resources are transferred knowingly in the 3-month period prior to application or if they are transferred knowingly after the household is determined eligible for benefits. An example of the latter would be assets which the household acquires after being certified and which are then transferred to prevent the household from exceeding the maximum resource limit.
 
 (2) Eligibility for the program will not be affected by the following transfers:
 
@@ -142,9 +174,9 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (iii) Resources which are transferred between members of the same household (including ineligible aliens or disqualified persons whose resources are being considered available to the household); and
 
-(iv) Resources which are transferred for reasons other than qualifying or attempting to qualify for food stamp benefits, for example, a parent placing funds into an educational trust fund described in paragraph (e)(9) of this section.
+(iv) Resources which are transferred for reasons other than qualifying or attempting to qualify for SNAP benefits, for example, a parent placing funds into an educational trust fund described in paragraph (e)(9) of this section.
 
-(3) In the event the State agency establishes that an applicant household knowingly transferred resources for the purpose of qualifying or attempting to qualify for food stamp benefits, the household shall be sent a notice of denial explaining the reason for and length of the disqualification. The period of disqualification shall begin in the month of application. If the household is participating at the time of the discovery of the transfer, a notice of adverse action explaining the reason for and length of the disqualification shall be sent. The period of disqualification shall be made effective with the first allotment to be issued after the notice of adverse action period has expired, unless the household has requested a fair hearing and continued benefits.
+(3) In the event the State agency establishes that an applicant household knowingly transferred resources for the purpose of qualifying or attempting to qualify for SNAP benefits, the household shall be sent a notice of denial explaining the reason for and length of the disqualification. The period of disqualification shall begin in the month of application. If the household is participating at the time of the discovery of the transfer, a notice of adverse action explaining the reason for and length of the disqualification shall be sent. The period of disqualification shall be made effective with the first allotment to be issued after the notice of adverse action period has expired, unless the household has requested a fair hearing and continued benefits.
 
 (4) The length of the disqualification period shall be based on the amount by which nonexempt transferred resources, when added to other countable resources, exceeds the allowable resource limits. The following chart will be used to determine the period of disqualification.
 
@@ -160,4 +192,4 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (2) The resources of non-household members, as defined in § 273.1(b)(7)(iii) through (vi), must be handled as outlined in § 273.11(c) and (d), as appropriate.
 
-[Amdt. 132, 43 FR 47889, Oct. 17, 1978]Editorial Note:For Federal Register citations affecting § 273.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 132, 43 FR 47889, Oct. 17, 1978]Editorial Note:For Federal Register citations affecting § 273.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

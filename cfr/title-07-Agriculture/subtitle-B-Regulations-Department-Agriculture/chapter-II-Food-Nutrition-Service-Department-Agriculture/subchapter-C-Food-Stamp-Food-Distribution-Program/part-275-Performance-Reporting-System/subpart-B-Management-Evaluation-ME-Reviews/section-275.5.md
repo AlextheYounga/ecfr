@@ -1,6 +1,6 @@
 ##### § 275.5 Scope and purpose. #####
 
-(a) *Objectives.* Each State agency shall ensure that project areas operate the Food Stamp Program in accordance with the Act, regulations, and FNS-approved State Plan of Operation. To ensure compliance with program requirements, ME reviews shall be conducted to measure compliance with the provisions of FNS regulations. The objectives of an ME review are to:
+(a) *Objectives.* Each State agency shall ensure that project areas operate SNAP in accordance with the Act, regulations, and FNS-approved State Plan of Operation. To ensure compliance with program requirements, ME reviews shall be conducted to measure compliance with the provisions of FNS regulations. The objectives of an ME review are to:
 
 (1) Provide a systematic method of monitoring and assessing program operations in the project areas;
 

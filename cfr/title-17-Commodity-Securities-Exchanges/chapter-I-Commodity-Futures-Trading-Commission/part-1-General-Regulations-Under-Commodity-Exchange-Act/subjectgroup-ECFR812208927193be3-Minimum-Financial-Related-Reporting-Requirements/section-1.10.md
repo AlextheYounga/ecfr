@@ -152,7 +152,7 @@
 
 (i) It knows or should have known that its adjusted net capital is less than the amount set forth in § 1.12(b) of this part or § 5.6(b) of this chapter, as applicable; or
 
-(ii) There is filed against the futures commission merchant or retail foreign exchange dealer an adjudicatory proceeding brought by or before the Commission pursuant to the provisions of sections 6(c), 6(d), 6c, 6d, 8a or 9 of the Act or §§ 3.55, 3.56 or 3.60 of this chapter.
+(ii) There is filed against the futures commission merchant or retail foreign exchange dealer an adjudicatory proceeding brought by or before the Commission pursuant to the provisions of sections 6(c), 6(d), 6c, 6d, 8a or 9 of the Act or § 3.55, 3.56 or 3.60 of this chapter.
 
 (3) A retail foreign exchange dealer may enter into a guarantee agreement only with an introducing broker as defined in § 5.1(f)(1) of this chapter. A retail foreign exchange dealer may not enter into a guarantee agreement with an introducing broker as defined in § 1.3(mm) of this part.
 

@@ -22,9 +22,9 @@
 
 (ii) All other individuals or groups of individuals paying a reasonable amount for meals or meals and lodging must be considered boarders and are not eligible to participate in the Program independently of the household providing the board. Such individuals or groups of individuals may participate, along with a spouse or children living with them, as members of the household providing the boarder services, only at the request of the household providing the boarder services. An individual paying less than a reasonable amount for board must not be considered a boarder but must be considered, along with a spouse or children living with him or her, as a member of the household providing the board.
 
-(A) For individuals whose board arrangement is for more than two meals per day, “reasonable compensation” must be an amount that equals or exceeds the maximum food stamp allotment for the appropriate size of the boarder household.
+(A) For individuals whose board arrangement is for more than two meals per day, “reasonable compensation” must be an amount that equals or exceeds the maximum SNAP allotment for the appropriate size of the boarder household.
 
-(B) For individuals whose board arrangement is for two meals or less per day, “reasonable compensation” must be an amount that equals or exceeds two-thirds of the maximum food stamp allotment for the appropriate size of the boarder household.
+(B) For individuals whose board arrangement is for two meals or less per day, “reasonable compensation” must be an amount that equals or exceeds two-thirds of the maximum SNAP allotment for the appropriate size of the boarder household.
 
 (iii) Boarders must not be considered to be residents of an institution as outlined in paragraph (b)(7)(vii) of this section.
 
@@ -80,4 +80,4 @@
 
 (2) Eligibility at the time of application must be determined by comparing the striking member's income before the strike to the striker's current income and adding the higher of the two to the current income of non-striking members during the month of application. If the household is eligible, the higher income figure must also be used in determining the household's benefits.
 
-[Amdt. 132, 43 FR 47889, Oct. 17, 1978]Editorial Note:For Federal Register citations affecting § 273.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 132, 43 FR 47889, Oct. 17, 1978]Editorial Note:For Federal Register citations affecting § 273.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

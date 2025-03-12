@@ -16,6 +16,6 @@ A food retailer or wholesale food concern aggrieved by administrative action und
 
 (6) Forfeiture of part or all of a collateral bond or a draw down of part or all of a letter of credit under § 278.1 of this chapter, if the request for review is made by the authorized firm. FNS shall not accept requests for review made by a bonding company or agent or commercial bank.
 
-(b) *Authority.* The determination of the designated reviewer shall be the final administrative determination of the Department, subject, however, to judicial review under section 14 of the Food Stamp Act and subpart B of this part.
+(b) *Authority.* The determination of the designated reviewer shall be the final administrative determination of the Department, subject, however, to judicial review under section 14 of the Food and Nutrition Act of 2008 and subpart B of this part.
 
 [68 FR 41052, July 10, 2003, as amended at 73 FR 79595, Dec. 30, 2008]

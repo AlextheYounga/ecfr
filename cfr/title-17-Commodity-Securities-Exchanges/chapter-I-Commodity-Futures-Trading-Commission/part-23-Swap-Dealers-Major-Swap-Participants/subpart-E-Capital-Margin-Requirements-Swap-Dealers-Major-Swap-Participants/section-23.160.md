@@ -38,7 +38,7 @@
 
 (b) *Applicability of margin requirements.* The requirements of §§ 23.150 through 23.161 apply as follows.
 
-(1) *Uncleared swaps of U.S. CSEs or Non-U.S. CSEs whose obligations under the relevant swap are guaranteed by a U.S. person* - (i) *Applicability of U.S. margin requirements; availability of substituted compliance for requirement to post initial margin.* With respect to each uncleared swap entered into by a U.S. CSE or a non-U.S. CSE whose obligations under the swap are guaranteed by a U.S. person, the U.S. CSE or non-U.S. CSE whose obligations under the swap are guaranteed by a U.S. person shall comply with the requirements of §§ 23.150 through 23.161 of this part, provided that the U.S. CSE or non-U.S. CSE whose obligations under the swap are guaranteed by a U.S. person may satisfy its requirement to post initial margin to certain counterparties to the extent provided in paragraph (b)(1)(ii) of this section.
+(1) *Uncleared swaps of U.S. CSEs or Non-U.S. CSEs whose obligations under the relevant swap are guaranteed by a U.S. person*—(i) *Applicability of U.S. margin requirements; availability of substituted compliance for requirement to post initial margin.* With respect to each uncleared swap entered into by a U.S. CSE or a non-U.S. CSE whose obligations under the swap are guaranteed by a U.S. person, the U.S. CSE or non-U.S. CSE whose obligations under the swap are guaranteed by a U.S. person shall comply with the requirements of §§ 23.150 through 23.161 of this part, provided that the U.S. CSE or non-U.S. CSE whose obligations under the swap are guaranteed by a U.S. person may satisfy its requirement to post initial margin to certain counterparties to the extent provided in paragraph (b)(1)(ii) of this section.
 
 (ii) *Compliance with foreign initial margin collection requirement.* A covered swap entity that is covered by paragraph (b)(1)(i) of this section may satisfy its requirement to post initial margin under this part by posting initial margin in the form and amount, and at such times, that its counterparty is required to collect initial margin pursuant to a foreign jurisdiction's margin requirements, but only to the extent that:
 
@@ -48,7 +48,7 @@
 
 (C) The Commission has issued a comparability determination under paragraph (c) of this section (“Comparability Determination”) with respect to such foreign jurisdiction's requirements regarding the posting of initial margin by the covered swap entity (that is covered in paragraph (b)(1) of this section).
 
-(2) *Uncleared swaps of Non-U.S. CSEs whose obligations under the relevant swap are not guaranteed by a U.S. person* - (i) *Applicability of U.S. Margin requirements except where an exclusion applies; Availability of substituted compliance.* With respect to each uncleared swap entered into by a non-U.S. CSE whose obligations under the relevant swap are not guaranteed by a U.S. person, the non-U.S. CSE shall comply with the requirements of §§ 23.150 through 23.161 except to the extent that an exclusion is available under paragraph (b)(2)(ii) of this section, provided that a non-U.S. CSE whose obligations under the relevant swap are not guaranteed by a U.S. person may satisfy its margin requirements under this part to the extent provided in paragraphs (b)(2)(iii) and (b)(2)(iv) of this section.
+(2) *Uncleared swaps of Non-U.S. CSEs whose obligations under the relevant swap are not guaranteed by a U.S. person*—(i) *Applicability of U.S. Margin requirements except where an exclusion applies; Availability of substituted compliance.* With respect to each uncleared swap entered into by a non-U.S. CSE whose obligations under the relevant swap are not guaranteed by a U.S. person, the non-U.S. CSE shall comply with the requirements of §§ 23.150 through 23.161 except to the extent that an exclusion is available under paragraph (b)(2)(ii) of this section, provided that a non-U.S. CSE whose obligations under the relevant swap are not guaranteed by a U.S. person may satisfy its margin requirements under this part to the extent provided in paragraphs (b)(2)(iii) and (b)(2)(iv) of this section.
 
 (ii) *Exclusion.* (A) Except as provided in paragraph (b)(2)(ii)(B) of this section, a non-U.S. CSE shall not be required to comply with the requirements of §§ 23.150 through 23.161 with respect to each uncleared swap it enters into to the extent that the following conditions are met:
 
@@ -74,7 +74,7 @@
 
 (B) The Commission has issued a Comparability Determination with respect to such foreign jurisdiction's margin requirements.
 
-(c) *Comparability determinations* - (1) *Eligibility requirements.* The following persons may, either individually or collectively, request a Comparability Determination with respect to some or all of the Commission's margin requirements:
+(c) *Comparability determinations*—(1) *Eligibility requirements.* The following persons may, either individually or collectively, request a Comparability Determination with respect to some or all of the Commission's margin requirements:
 
 (i) A covered swap entity that is eligible for substituted compliance under this section; or
 
@@ -154,4 +154,4 @@
 
 (7) The CSE maintains books and records properly documenting that all of the requirements of this paragraph (e) are satisfied.
 
-[81 FR 34837, May 31, 2016]
+[81 FR 34847, May 31, 2016]

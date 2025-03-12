@@ -1,10 +1,8 @@
 ##### § 273.14 Recertification. #####
 
-Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
-
 (a) *General.* No household may participate beyond the expiration of the certification period assigned in accordance with § 273.10(f) without a determination of eligibility for a new period. The State agency must establish procedures for notifying households of expiration dates, providing application forms, scheduling interviews, and recertifying eligible households prior to the expiration of certification periods. Households must apply for recertification and comply with interview and verification requirements.
 
-(b) *Recertification process* - (1) *Notice of expiration.* (i) The State agency shall provide households certified for one month or certified in the second month of a two-month certification period a notice of expiration (NOE) at the time of certification. The State agency shall provide other households the NOE before the first day of the last month of the certification period, but not before the first day of the next-to-the-last month. Jointly processed PA and GA households need not receive a separate food stamp notice if they are recertified for food stamps at the same time as their PA or GA redetermination.
+(b) *Recertification process* - (1) *Notice of expiration.* (i) The State agency shall provide households certified for one month or certified in the second month of a two-month certification period a notice of expiration (NOE) at the time of certification. The State agency shall provide other households the NOE before the first day of the last month of the certification period, but not before the first day of the next-to-the-last month. Jointly processed PA and GA households need not receive a separate SNAP notice if they are recertified for SNAP benefits at the same time as their PA or GA redetermination.
 
 (ii) Each State agency shall develop a NOE. The NOE must contain the following:
 
@@ -22,7 +20,7 @@ Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delaye
 
 (G) The household's right to request a fair hearing if the recertification is denied or if the household objects to the benefit issuance;
 
-(H) Notice that any household consisting only of Supplemental Security Income (SSI) applicants or recipients is entitled to apply for food stamp recertification at an office of the Social Security Administration;
+(H) Notice that any household consisting only of Supplemental Security Income (SSI) applicants or recipients is entitled to apply for SNAP recertification at an office of the Social Security Administration;
 
 (I) Notice that failure to attend an interview may result in delay or denial of benefits; and
 
@@ -30,11 +28,11 @@ Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delaye
 
 (iii) To expedite the recertification process, State agencies are encouraged to send a recertification form, an interview appointment letter that allows for either in-person or telephone interviews, and a statement of needed verification required by § 273.2(c)(5) with the NOE.
 
-(2) *Application.* The State agency must develop an application to be used by households when applying for recertification. It may be the same as the initial application, a simplified version, a monthly reporting form, or other method such as annotating changes on the initial application form. A new household signature and date is required at the time of application for recertification. The recertification process can only be used for those households which apply for recertification prior to the end of their current certification period, except for delayed applications as specified in paragraph (e)(3) of this section. The process, at a minimum, must elicit from the household sufficient information that, when added to information already contained in the casefile, will ensure an accurate determination of eligibility and benefits. The State agency must notify the applicant of information which is specified in § 273.2(b)(2), and provide the household with a notice of required verification as specified in § 273.2(c)(5).
+(2) *Application.* The State agency must develop an application to be used by households when applying for recertification. It may be the same as the initial application, a simplified version, a monthly reporting form, or other method such as annotating changes on the initial application form. A new household signature and date is required at the time of application for recertification. The provisions of § 273.2(c)(7) regarding acceptable signatures on applications also apply to applications used at recertification. The recertification process can only be used for those households which apply for recertification prior to the end of their current certification period, except for delayed applications as specified in paragraph (e)(3) of this section. The process, at a minimum, must elicit from the household sufficient information that, when added to information already contained in the casefile, will ensure an accurate determination of eligibility and benefits. The State agency must notify the applicant of information which is specified in § 273.2(b)(2), and provide the household with a notice of required verification as specified in § 273.2(c)(5).
 
-(3) *Interview.* As part of the recertification process, the State agency must conduct a face-to-face interview with a member of the household or its authorized representative at least once every 12 months for households certified for 12 months or less. The provisions of § 273.2(e) also apply to interviews for recertification. The State agency may choose not to interview the household at interim recertifications within the 12-month period. The requirement for a face-to-face interview once every 12 months may be waived in accordance with § 273.2(e)(2).
+(3) *Interview.* As part of the recertification process, the State agency must conduct a face-to-face interview with a member of the household or its authorized representative at least once every 12 months for households certified for 12 months or less. The provisions of § 273.2(e) also apply to interviews for recertification. The State agency may choose not to interview the household at interim recertifications within the 12-month period. The requirement for an interview once every 12 months may be waived in accordance with § 273.2(e)(2).
 
-(ii) If a household receives PA/GA and will be recertified for food stamps more than once in a 12-month period, the State agency may choose to conduct a face-to-face interview with that household only once during that period. At any other recertification during that year period, the State agency may interview the household by telephone, conduct a home visit, or recertify the household by mail.
+(ii) If a household receives PA/GA and will be recertified for SNAP benefits more than once in a 12-month period, the State agency may choose to conduct a face-to-face interview with that household only once during that period. At any other recertification during that year period, the State agency may interview the household by telephone, conduct a home visit, or recertify the household by mail.
 
 (iii) State agencies shall schedule interviews so that the household has at least 10 days after the interview in which to provide verification before the certification period expires. If a household misses its scheduled interview, the State agency shall send the household a Notice of Missed Interview that may be combined with the notice of denial. If a household misses its scheduled interview and requests another interview, the State agency shall schedule a second interview.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delaye
 
 (3) For monthly reporting households, the filing deadline shall be either the 15th of the last month of the certification period or the normal date for filing a monthly report, at the State agency's option. The option chosen must be uniformly applied to the State agency's entire monthly reporting caseload.
 
-(4) For households consisting only of SSI applicants or recipients who apply for food stamp recertification at SSA offices in accordance with § 273.2(k)(1), an application shall be considered filed for normal processing purposes when the signed application is received by the SSA.
+(4) For households consisting only of SSI applicants or recipients who apply for SNAP recertification at SSA offices in accordance with § 273.2(k)(1), an application shall be considered filed for normal processing purposes when the signed application is received by the SSA.
 
 (d) *Timely processing.* (1) Households that were certified for one month or certified for two months in the second month of the certification period and have met all required application procedures shall be notified of their eligibility or ineligibility. Eligible households shall be provided an opportunity to receive benefits no later than 30 calendar days after the date the household received its last allotment.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delaye
 
 (f) *Expedited service.* A State agency is not required to apply the expedited service provisions of § 273.2(i) at recertification if the household applies for recertification before the end of its current certification period.
 
-[Amdt. 364, 61 FR 54318, Oct. 17, 1996, as amended by Amdt. 388, 65 FR 70210, Nov. 21, 2000]
+[Amdt. 364, 61 FR 54318, Oct. 17, 1996, as amended by Amdt. 388, 65 FR 70210, Nov. 21, 2000; 82 FR 2042, Jan. 6, 2017]

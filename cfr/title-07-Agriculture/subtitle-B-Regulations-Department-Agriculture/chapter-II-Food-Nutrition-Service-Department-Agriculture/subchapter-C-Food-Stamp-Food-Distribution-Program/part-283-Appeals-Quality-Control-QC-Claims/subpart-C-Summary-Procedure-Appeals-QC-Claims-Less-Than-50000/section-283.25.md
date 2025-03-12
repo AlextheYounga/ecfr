@@ -1,6 +1,6 @@
 ##### § 283.25 Filing appeals for QC claims of less than $50,000. #####
 
-(a) *Time.* A State agency may appeal the bill for collection from FNS for a QC claim of less than $50,000 for a food stamp QC error rate in excess of the tolerance level. A State agency must file a written notice of appeal, in accordance with this section, within 10 days of receipt of the bill for collection from FNS for a QC claim of less than $50,000. The State agency may request an extension to the 10-day filing requirement in accordance with § 283.22(f). FNS shall issue the bill for collection by certified mail or personal service.
+(a) *Time.* A State agency may appeal the bill for collection from FNS for a QC claim of less than $50,000 for a SNAP QC error rate in excess of the tolerance level. A State agency must file a written notice of appeal, in accordance with this section, within 10 days of receipt of the bill for collection from FNS for a QC claim of less than $50,000. The State agency may request an extension to the 10-day filing requirement in accordance with § 283.22(f). FNS shall issue the bill for collection by certified mail or personal service.
 
 (b) *Exhaustion of administrative remedies.* The State agency must appeal the bill for collection to the ALJ, pursuant to this subpart, and exhaust the available administrative remedies before filing suit in the Federal District Courts.
 
@@ -12,7 +12,7 @@
 
 (ii) Identification of the State agency as the appellant and FNS as the appellee;
 
-(iii) A statement that the notice of appeal is filed pursuant to section 14(a) of the Food Stamp Act;
+(iii) A statement that the notice of appeal is filed pursuant to section 14(a) of the Food and Nutrition Act of 2008;
 
 (iv) A true copy of the bill for collection which constitutes the basis for the filing of the notice of appeal shall be attached to the notice.
 
@@ -30,7 +30,7 @@
 
 (2) Send FNS a copy of the notice of appeal and a copy of the letter to the State agency.
 
-(f) *Stay of collection.* The filing of a timely notice of appeal shall automatically stay the action of FNS to collect the QC claim asserted against the State agency until a decision is reached on the acceptability of the appeal, and in the case of an acceptable appeal, until a final administrative determination has been issued. However, interest will accrue on the outstanding claim amount during the stay as provided in section 13(a)(1) of the Food Stamp Act of 1977, as amended (7 U.S.C. 2022(a)(1)).
+(f) *Stay of collection.* The filing of a timely notice of appeal shall automatically stay the action of FNS to collect the QC claim asserted against the State agency until a decision is reached on the acceptability of the appeal, and in the case of an acceptable appeal, until a final administrative determination has been issued. However, interest will accrue on the outstanding claim amount during the stay as provided in section 13(a)(1) of the Food and Nutrition Act of 2008, as amended (7 U.S.C. 2022(a)(1)).
 
 (g) *Content of appeal petition.* The appeal petition shall include:
 

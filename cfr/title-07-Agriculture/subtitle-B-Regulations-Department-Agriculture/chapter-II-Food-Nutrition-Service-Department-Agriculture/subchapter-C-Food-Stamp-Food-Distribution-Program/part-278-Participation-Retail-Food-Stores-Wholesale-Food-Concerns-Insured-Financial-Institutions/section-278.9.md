@@ -4,7 +4,7 @@
 
 (b) *Amendment 257.* With the exception of the provisions in § 278.5 requiring redeeming financial institutions to verify that coupons are supported by redemption certificates, the revisions to part 278 shall be effective September 14, 1984. Redeeming financial institutions shall begin verifying coupon deposits as required by § 278.5 in accordance with the schedule determined by the Federal Reserve Board. Insured financial institutions shall adhere to preexisting requirements for handling redemption certificates (at 7 CFR 278.5(a)) until their Federal Reserve District implements the procedures contained in this final rule. FNS shall not be liable for any losses of coupons in transit to Federal Reserve Banks or as a result of a burglary or robbery of an insured financial institution which occur after September 14, 1984.
 
-(c) *Amendment 267.* The federally insured credit unions authorized to redeem food stamps under this amendment may begin accepting food stamps for redemption not later than March 27, 1986.
+(c) *Amendment 267.* The federally insured credit unions authorized to redeem SNAP benefits under this amendment may begin accepting SNAP benefits for redemption not later than March 27, 1986.
 
 (d) The program changes of *Amendment 272* at § 278.5(a) (1) and (3) are effective upon publication of the amendment. Financial institutions must implement the provisions no later than April 21, 1986.
 
@@ -26,4 +26,4 @@
 
 (m) *Amendment No. 383.* The program changes made to § 278.1 by this amendment are effective September 29, 2000.
 
-[Amdt. 136, 43 FR 43274, Sept. 22, 1978]Editorial Note:For Federal Register citations affecting § 278.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 136, 43 FR 43274, Sept. 22, 1978]Editorial Note:For Federal Register citations affecting § 278.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

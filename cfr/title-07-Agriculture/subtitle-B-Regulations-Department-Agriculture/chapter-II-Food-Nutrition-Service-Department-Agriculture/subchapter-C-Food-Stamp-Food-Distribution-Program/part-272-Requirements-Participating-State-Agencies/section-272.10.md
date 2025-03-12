@@ -1,6 +1,6 @@
 ##### § 272.10 ADP/CIS Model Plan. #####
 
-(a) *General purpose and content* - (1) *Purpose.* All State agencies are required to sufficiently automate their food stamp program operations and computerize their systems for obtaining, maintaining, utilizing and transmitting information concerning the food stamp program. Sufficient automation levels are those which result in effective programs or in cost effective reductions in errors and improvements in management efficiency, such as decreases in program administrative costs. Thus, for those State agencies which operate exceptionally efficient and effective programs, a lesser degree of automation may be considered sufficient than in other State agencies. In order to determine a sufficient level of automation in each State, each State agency shall develop an ADP/CIS plan. FNS may withhold State agency funds under § 276.4(a) for failure to submit an ADP/CIS plan in accordance with the deadlines for submission, for failure to make appropriate changes in their ADP/CIS plan within 60 days of their receipt of FNS comments, or for failure to implement the approved ADP/CIS plan in accordance with the dates specified therein, unless extensions of time or deviations from the plan or schedules have been approved by FNS.
+(a) *General purpose and content*—(1) *Purpose.* All State agencies are required to sufficiently automate their SNAP operations and computerize their systems for obtaining, maintaining, utilizing and transmitting information concerning SNAP. Sufficient automation levels are those which result in effective programs or in cost effective reductions in errors and improvements in management efficiency, such as decreases in program administrative costs. Thus, for those State agencies which operate exceptionally efficient and effective programs, a lesser degree of automation may be considered sufficient than in other State agencies. In order to determine a sufficient level of automation in each State, each State agency shall develop an ADP/CIS plan. FNS may withhold State agency funds under § 276.4(a) for failure to submit an ADP/CIS plan in accordance with the deadlines for submission, for failure to make appropriate changes in their ADP/CIS plan within 60 days of their receipt of FNS comments, or for failure to implement the approved ADP/CIS plan in accordance with the dates specified therein, unless extensions of time or deviations from the plan or schedules have been approved by FNS.
 
 (2) *Content.* In developing their ADP/CIS plans, State agencies shall use one of the following three formats:
 
@@ -16,7 +16,7 @@
 
 (iii) FNS will assist State agencies that request assistance in determining what other States have systems that should be considered as possible transfers.
 
-(b) *Model Plan.* In order to meet the requirements of the Act and ensure the efficient and effective administration of the program, a food stamp system, at a minimum, shall be automated in each of the following program areas in paragraphs (b)(1), Certification, and (b)(2), Issuance Reconciliation and Reporting of this section. The food stamp system must further meet all the requirements in paragraph (b)(3), General, of this section.
+(b) *Model Plan.* In order to meet the requirements of the Act and ensure the efficient and effective administration of the program, a SNAP system, at a minimum, shall be automated in each of the following program areas in paragraphs (b)(1), Certification, and (b)(2), Issuance Reconciliation and Reporting of this section. The SNAP system must further meet all the requirements in paragraph (b)(3), General, of this section.
 
 (1) *Certification.* (i) Determine eligibility and calculate benefits or validate the eligibility worker's calculations by processing and storing all casefile information necessary for the eligibility determination and benefit computation (including but not limited to all household members' names, addresses, dates of birth, social security numbers, individual household members' earned and unearned income by source, deductions, resources and household size). Redetermine or revalidate eligibility and benefits based on notices of change in households' circumstances;
 
@@ -32,7 +32,7 @@
 
 (C) Expiration;
 
-(v) Prior to certification, crosscheck for duplicate cases for all household members by means of a comparison with food stamp records within the relevant jurisdiction;
+(v) Prior to certification, crosscheck for duplicate cases for all household members by means of a comparison with SNAP records within the relevant jurisdiction;
 
 (vi) Meet the requirements of the IEVS system of § 272.8. Generate information, as appropriate, to other programs.
 
@@ -62,19 +62,19 @@
 
 (A) Issuance:
 
-(*1*) FNS-259 - Summary of mail issuance and replacement;
+(*1*) FNS-259—Summary of mail issuance and replacement;
 
-(*2*) FNS-250 - Reconciliation of redeemed ATPs with reported authorized coupon issuance.
+(*2*) FNS-250—Reconciliation of redeemed ATPs with reported authorized coupon issuance.
 
-(B) Reconciliation: FNS-46 - ATP Reconciliation Report.
+(B) Reconciliation: FNS-46—ATP Reconciliation Report.
 
 (vii) Generate data necessary to meet other reporting requirements and provide for the eventual capability of directly transmitting data to FNS, including:
 
-(A) FNS-101 - Program participation by race;
+(A) FNS-101—Program participation by race;
 
-(B) FNS-209 - Status of claims against households; and
+(B) FNS-209—Status of claims against households; and
 
-(C) FNS-388 - Coupon issuance and participation estimates.
+(C) FNS-388—Coupon issuance and participation estimates.
 
 (viii) Allow for sample selection for quality control reviews of casefiles, and for management evaluation reviews;
 
@@ -96,13 +96,13 @@
 
 (iii) All activities necessary to maintain the appropriate level of confidentiality of information obtained from applicant and recipient households;
 
-(iv) All activities necessary to maintain the security of automated systems to operate the Food Stamp Program;
+(iv) All activities necessary to maintain the security of automated systems to operate SNAP;
 
 (v) Implement regulatory and other changes including a testing phase to meet implementation deadlines, generally within 90 days;
 
 (vi) Generate whatever data is necessary to provide management information for the State agency's own use, such as caseload, participation and actions data;
 
-(vii) Provide support as necessary for the State agency's management of Federal funds relative to Food Stamp Program administration, generate information necessary to meet Federal financial reporting requirements;
+(vii) Provide support as necessary for the State agency's management of Federal funds relative to SNAP administration, generate information necessary to meet Federal financial reporting requirements;
 
 (viii) Routine purging of case files and file maintenance, and
 

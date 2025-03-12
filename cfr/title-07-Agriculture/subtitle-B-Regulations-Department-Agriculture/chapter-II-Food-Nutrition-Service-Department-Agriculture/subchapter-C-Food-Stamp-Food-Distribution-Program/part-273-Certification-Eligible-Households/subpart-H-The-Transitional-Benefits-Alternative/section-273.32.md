@@ -1,5 +1,5 @@
-##### § 273.32 Households who return to TANF during the transitional period. #####
+##### § 273.32 Households that return to TANF, MOE, or SFCA program during the transitional period. #####
 
-Link to an amendment published at 82 FR 2044, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
+If a household receiving transitional benefits starts to receive TANF, MOE, or SFCA program during the transitional period, the State agency shall use the information from the TANF, MOE, or SFCA application to re-determine continued SNAP eligibility and benefits, at the same time that the TANF, MOE, or SFCA application is being processed and follow procedures in § 273.2(j) for joint processing of SNAP/TANF applications. This includes processing the application within 30 days. However, for a household assigned a new certification period in accordance with § 273.27(c), the household must be recertified if it returns to TANF, MOE, or the SFCA program during its transitional period.
 
-If a household receiving transitional benefits returns to TANF during the transitional period, the State agency shall end the household's transitional benefits and follow the procedures in § 273.31 to determine the household's continued eligibility and benefits for the Food Stamp Program. This includes processing the application within 30 days. However, for a household assigned a new certification period in accordance with § 273.27(c), the household must be recertified if it returns to TANF during its transitional period.
+[82 FR 2044, Jan. 6, 2017

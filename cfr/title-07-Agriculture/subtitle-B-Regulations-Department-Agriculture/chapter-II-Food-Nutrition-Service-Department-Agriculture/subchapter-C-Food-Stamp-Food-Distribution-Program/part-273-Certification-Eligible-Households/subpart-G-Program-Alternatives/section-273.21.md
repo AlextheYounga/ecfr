@@ -1,7 +1,5 @@
 ##### § 273.21 Monthly Reporting and Retrospective Budgeting (MRRB). #####
 
-Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
-
 (a) *System design.* This section provides for an MRRB system for determining household eligibility and benefits. For included households, this system replaces the prospective budgeting system provided in the preceding sections of this part. The MRRB system provides for the use of retrospective information in calculating household benefits, normally based on information submitted by the household in monthly reports. The State agency shall establish an MRRB system as follows:
 
 (1) In establishing either a one-month or a two-month MRRB system, the State agency shall use the same system it uses in its TANF Program unless it has been granted a waiver by FNS. Differences between a one-month and a two-month system are described in paragraph (d) of this section.
@@ -58,9 +56,9 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (A) The State agency shall use the same household composition for determining the household's eligibility that it uses for calculating the household's benefit level.
 
-(B) If the new member is not already certified to receive food stamps in another household participating within the State, the new member's income, deductible expenses, and resources from the issuance month shall be considered in determining the household's eligibility and benefit level. If the new member had been providing income to the household on an ongoing basis prior to becoming a member of the household, the State agency shall exclude the previously provided income in determining the household's issuance month benefits and eligibility.
+(B) If the new member is not already certified to receive SNAP benefits in another household participating within the State, the new member's income, deductible expenses, and resources from the issuance month shall be considered in determining the household's eligibility and benefit level. If the new member had been providing income to the household on an ongoing basis prior to becoming a member of the household, the State agency shall exclude the previously provided income in determining the household's issuance month benefits and eligibility.
 
-(C) If the individual has moved out of one household receiving food stamps within the State and into another, with no break in participation, the State agency shall use the individual's income, deductible expenses, and resources from the budget month in determining benefits to be provided in the issuance month. The State agency shall include such an individual and the individual's income, deductible expenses, and resources in determining the issuance month eligibility and benefit level of either the household from which the individual has moved or the household into which the individual has moved, but not both. In determining the issuance month eligibility and benefit level of the household into which the individual has moved, the State agency shall disregard budget month income received by the new member from a terminated source.
+(C) If the individual has moved out of one household receiving SNAP benefits within the State and into another, with no break in participation, the State agency shall use the individual's income, deductible expenses, and resources from the budget month in determining benefits to be provided in the issuance month. The State agency shall include such an individual and the individual's income, deductible expenses, and resources in determining the issuance month eligibility and benefit level of either the household from which the individual has moved or the household into which the individual has moved, but not both. In determining the issuance month eligibility and benefit level of the household into which the individual has moved, the State agency shall disregard budget month income received by the new member from a terminated source.
 
 (D) The State agency may add new members to the household effective either the month the household reports the gain of a new household member or the first day of the issuance month following the month the household reports the gain of a new member. The benefits shall not be prorated.
 
@@ -118,7 +116,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (v) Identify the individual or agency unit available to assist in completing the form:
 
-(vi) Include a statement to be signed by a member of the household, indicating his or her understanding that the provided information may result in changes in the level of benefits, including reduction and termination;
+(vi) Include a statement to be signed by a member of the household (in accordance with § 273.2(c)(7) regarding acceptable methods of signature), indicating his or her understanding that the provided information may result in changes in the level of benefits, including reduction and termination;
 
 (vii) Include, in prominent and boldface lettering, an understandable description of the Act's civil and criminal penalties for fraud.
 
@@ -126,7 +124,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (3) *Reported information.* The State agency may determine the information relevant to eligibility and benefit determination to be included on the monthly report form except that the State agency shall not require households to monthly report medical expenses. Medical expenses may be reported in accordance with § 273.10(d)(4).
 
-(4) *Combined form.* If the State agency uses a combined monthly report for food stamps and TANF, the State agency shall clearly indicate on the form that non-TANF food stamp households need not provide TANF-only information.
+(4) *Combined form.* If the State agency uses a combined monthly report for SNAP benefits and TANF, the State agency shall clearly indicate on the form that non-TANF SNAP households need not provide TANF-only information.
 
 (i) *Verification.* Each month the household shall verify information for those items designated by the State agency. The State agency may designate that verification be submitted for any item that has changed or appears questionable. If the household voluntarily reports a change in its medical expenses, the State agency shall verify the change in accordance with § 273.2(f)(8)(ii) before acting on it if the change would increase the household's allotment. In the case of a reported change that would decrease the household's allotment, or make the household ineligible, the State agency shall act on the change without requiring verification, though verification which is required by § 273.2(f)(8)(i) shall be obtained prior to the household's recertification.
 
@@ -140,7 +138,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (B) It is not accompanied by verification required by the State agency on the monthly report;
 
-(C) It omits information required by the State agency on the monthly report necessary either to determine the household's eligibility or to compute the household's level of food stamp benefits.
+(C) It omits information required by the State agency on the monthly report necessary either to determine the household's eligibility or to compute the household's level of SNAP benefits.
 
 (iii) Determine those items which will require additional verification, in accordance with paragraph (i) of this section.
 
@@ -164,7 +162,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (*2*) the State agency shall disregard income received in the budget month from a terminated source which results in an increase in the PA grant, provided the household has reported the termination of the income either in the monthly report for the budget month or in some other manner which, as determined by the State agency, allows the State agency sufficient time to process the change and affect the allotment in the issuance month.
 
-A State agency which elects to use the PA grant to be paid in the issuance month shall implement mass changes in accordance with the procedures at § 273.12(e)(2).
+A State agency which elects to use the PA grant to be paid in the issuance month shall implement mass changes in accordance with the procedures at § 273.11(i).
 
 (C) Deductions as billed or averaged from the corresponding budget month, including those shelter costs billed less often than monthly which the household has chosen to average.
 
@@ -224,7 +222,7 @@ A State agency which elects to use the PA grant to be paid in the issuance month
 
 (2) *Households excluded from monthly reporting.* Households which are excluded from monthly reporting shall report changes in accordance with § 273.12.
 
-(m) *Termination.* (1) The State agency shall terminate a household's food stamp participation if the household:
+(m) *Termination.* (1) The State agency shall terminate a household's SNAP participation if the household:
 
 (i) Is ineligible for food stamps, unless suspended in accordance with paragraph (n) of this section:
 
@@ -352,4 +350,4 @@ A State agency which elects to use the PA grant to be paid in the issuance month
 
 (5) *Supplements and claims.* If the household submits the missing monthly report after the issuance date but in the issuance month, the State agency shall provide the household with a supplement, if warranted. If the household submits the missing monthly report after the issuance date or the State agency becomes aware of a change that would have decreased benefits in some other manner, the State agency shall file a claim for any benefits overissued.
 
-[48 FR 54965, Dec. 8, 1983]Editorial Note:For Federal Register citations affecting § 273.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 54965, Dec. 8, 1983]Editorial Note:For Federal Register citations affecting § 273.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 82 FR 1857, Jan. 6, 2017.Link to an amendment published at 82 FR 6886, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8806, Jan. 31, 2017.This amendment was further delayed until Sept. 30, 2017 at 82 FR 14427, Mar. 21, 2017.
+Link to an amendment published at 82 FR 6886, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8806, Jan. 31, 2017.This amendment was further delayed until Sept. 30, 2017, at 82 FR 14427, Mar. 21, 2017.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -108,29 +108,29 @@ av = Total adjusted volume, expressed in Liters.
 
 (c) *Central air conditioners and heat pumps.* The energy conservation standards defined in terms of the heating seasonal performance factor are based on Region IV, the minimum standardized design heating requirement, and the provisions of 10 CFR 429.16.
 
-(1) Each basic model of single-package central air conditioners and central air conditioning heat pumps and each individual combination of split-system central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, shall have a Seasonal Energy Efficiency Ratio and Heating Seasonal Performance Factor not less than:
+(1) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, and before January 1, 2023, must have Seasonal Energy Efficiency Ratio and Heating Seasonal Performance Factor not less than:
 
-|                    Product class                    |Seasonal energy efficiency ratio  <br/>(SEER)|Heating seasonal performance  <br/>factor  <br/>(HSPF)|
-|-----------------------------------------------------|---------------------------------------------|------------------------------------------------------|
-|          (i) Split-system air conditioners          |                     13                      |                                                      |
-|            (ii) Split-system heat pumps             |                     14                      |                         8.2                          |
-|        (iii) Single-package air conditioners        |                     14                      |                                                      |
-|           (iv) Single-package heat pumps            |                     14                      |                         8.0                          |
-|        (v) Small-duct, high-velocity systems        |                     12                      |                         7.2                          |
-|(vi)(A) Space-constrained products - air conditioners|                     12                      |                                                      |
-|     (B) Space-constrained products - heat pumps     |                     12                      |                         7.4                          |
+|                    Product class                    |Seasonal  <br/>energy  <br/>efficiency ratio  <br/>(SEER)|Heating  <br/>seasonal  <br/>performance  <br/>factor (HSPF)|
+|-----------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
+|        (i) Split systems - air conditioners         |                           13                            |                                                            |
+|           (ii) Split systems - heat pumps           |                           14                            |                            8.2                             |
+|    (iii) Single package units - air conditioners    |                           14                            |                                                            |
+|       (iv) Single package units - heat pumps        |                           14                            |                            8.0                             |
+|        (v) Small-duct, high-velocity systems        |                           12                            |                            7.2                             |
+|(vi)(A) Space-constrained products - air conditioners|                           12                            |                                                            |
+|   (vi)(B) Space-constrained products - heat pumps   |                           12                            |                            7.4                             |
 
-(2) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, split-system air conditioners that are installed on or after January 1, 2015, in the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, or Virginia, or in the District of Columbia, must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher. Any outdoor unit model that has a certified combination with a rating below 14 SEER cannot be installed in these States. The least efficient combination of each basic model must comply with this standard.
+(2) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product class (i) of paragraph (c)(1) of this section (*i.e.,* split-systems - air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, or Virginia, or in the District of Columbia, must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher. Any outdoor unit model that has a certified combination with a rating below 14 SEER cannot be installed in these States. The least efficient combination of each basic model must comply with this standard.
 
-(3)(i) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, split-system air conditioners and single-package air conditioners that are installed on or after January 1, 2015, in the States of Arizona, California, Nevada, or New Mexico must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher and have an Energy Efficiency Ratio (EER) (at a standard rating of 95 °F dry bulb outdoor temperature) not less than the following:
+(3)(i) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product classes (i) and (iii) of paragraph (c)(1) of this section (*i.e.,* split systems - air conditioners and single-package units - air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Arizona, California, Nevada, or New Mexico must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher and have an Energy Efficiency Ratio (EER) (at a standard rating of 95 °F dry bulb outdoor temperature) not less than the following:
 
-|                                Product class                                 |Energy  <br/>efficiency ratio  <br/>(EER)|
-|------------------------------------------------------------------------------|-----------------------------------------|
-|       (A) Split-system rated cooling capacity less than 45,000 Btu/hr        |                  12.2                   |
-|(B) Split-system rated cooling capacity equal to or greater than 45,000 Btu/hr|                  11.7                   |
-|                          (C) Single-package systems                          |                  11.0                   |
+|                                             Product class                                              |Energy  <br/>efficiency ratio (EER)|
+|--------------------------------------------------------------------------------------------------------|-----------------------------------|
+|        (i) Split systems - air conditioners with rated cooling capacity less than 45,000 Btu/hr        |               12.2                |
+|(ii) Split systems - air conditioners with rated cooling capacity equal to or greater than 45,000 Btu/hr|               11.7                |
+|                             (iii) Single-package units - air conditioners                              |               11.0                |
 
-(ii) Any outdoor unit model that has a certified combination with a rating below 14 SEER or the applicable EER cannot be installed in this region. The least efficient combination of each basic model must comply with this standard.
+(ii) Any outdoor unit model that has a certified combination with a rating below 14 SEER or the applicable EER cannot be installed in this region. The least-efficient combination of each basic model must comply with this standard.
 
 (4) Each basic model of single-package central air conditioners and central air conditioning heat pumps and each individual combination of split-system central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, shall have an average off mode electrical power consumption not more than the following:
 
@@ -143,6 +143,40 @@ av = Total adjusted volume, expressed in Liters.
 | (v) Small-duct, high-velocity systems |                             30                              |
 |(vi) Space-constrained air conditioners|                             30                              |
 |  (vii) Space-constrained heat pumps   |                             33                              |
+
+(5) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2023, must have a Seasonal Energy Efficiency Ratio 2 and a Heating Seasonal Performance Factor 2 not less than:
+
+|                                                 Product class                                                  |Seasonal  <br/>energy  <br/>efficiency  <br/>ratio 2 (SEER2)|Heating  <br/>seasonal  <br/>performance  <br/>factor 2 (HSPF2)|
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|
+|       (i)(A) Split systems - air conditioners with a certified cooling capacity less than 45,000 Btu/hr        |                            13.4                            |                                                               |
+|(i)(B) Split systems - air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr|                            13.4                            |                                                               |
+|                                        (ii) Split systems - heat pumps                                         |                            14.3                            |                              7.5                              |
+|                                 (iii) Single-package units - air conditioners                                  |                            13.4                            |                                                               |
+|                                     (iv) Single-package units - heat pumps                                     |                            13.4                            |                              6.7                              |
+|                                     (v) Small-duct, high-velocity systems                                      |                             12                             |                              6.1                              |
+|                             (vi)(A) Space-constrained products - air conditioners                              |                            11.7                            |                                                               |
+|                                (vi)(B) Space-constrained products - heat pumps                                 |                            11.9                            |                              6.3                              |
+
+(6)(i) In addition to meeting the applicable requirements in paragraph (c)(5) of this section, products in product classes (i) and (iii) of paragraph (c)(5) of this section (*i.e.,* split systems - air conditioners and single-package units - air conditioners) that are installed on or after January 1, 2023, in the southeast or southwest must have a Seasonal Energy Efficiency Ratio 2 and a Energy Efficiency Ratio 2 not less than:
+
+|                                                 Product class                                                  |Southeast \*|Southwest \*\*|           |
+|----------------------------------------------------------------------------------------------------------------|------------|--------------|-----------|
+|                                                     SEER2                                                      |   SEER2    | EER2 \*\*\*  |           |
+|       (i)(A) Split-systems - air conditioners with a certified cooling capacity less than 45,000 Btu/hr        |    14.3    |     14.3     |11.7/9.8 † |
+|(i)(B) Split-systems - air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr|    13.8    |     13.8     |11.2/9.8 ††|
+|                                 (iii) Single-package units - air conditioners                                  |            |              |   10.6    |
+
+\* “Southeast” includes the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, Puerto Rico, South Carolina, Tennessee, Texas, Virginia, the District of Columbia, and the U.S. Territories.
+
+\*\* “Southwest” includes the States of Arizona, California, Nevada, and New Mexico.
+
+\*\*\* EER refers to the energy efficiency ratio at a standard rating of 95 °F dry bulb outdoor temperature.
+
+† The 11.7 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.
+
+†† The 11.2 EER2 standard applies to products with a certified SEER2 less than 15.2. The 9.8 EER2 standard applies to products with a certified SEER2 greater than or equal to 15.2.
+
+(ii) Any outdoor unit model that has a certified combination with a rating below the applicable standard level(s) for a region cannot be installed in that region. The least-efficient combination of each basic model must comply with this standard.
 
 (d) *Water heaters.* The uniform energy factor of water heaters shall not be less than the following:
 

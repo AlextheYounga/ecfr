@@ -2,11 +2,11 @@
 
 (a) This section prescribes specific policies and procedures governing State agencies for funding under this part.
 
-(b) The incremental cost of certifying TANF households for Food Stamp Program benefits are allowable costs for FNS reimbursement.
+(b) The incremental cost of certifying TANF households for SNAP benefits are allowable costs for FNS reimbursement.
 
 (c) When costs for administering the program are claimed for reimbursement, the audit trail must identify the specific activities, locations, or time periods as defined in this section.
 
-(1) *Direct cost.* Allowable direct costs may be charged to the Food Stamp Program at the 50 percent or higher funding level as specified in this part.
+(1) *Direct cost.* Allowable direct costs may be charged to SNAP at the 50 percent or higher funding level as specified in this part.
 
 (2) *Indirect cost.* Allowable indirect costs may also be claimed at the 50 percent or higher reimbursement funding level as specified in this part and 2 CFR part 200, subpart E and USDA implementing regulations 2 CFR part 400 and part 415.
 

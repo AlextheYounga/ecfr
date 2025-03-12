@@ -1,8 +1,6 @@
 ##### § 273.5 Students. #####
 
-Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
-
-(a) *Applicability.* An individual who is enrolled at least half-time in an institution of higher education shall be ineligible to participate in the Food Stamp Program unless the individual qualifies for one of the exemptions contained in paragraph (b) of this section. An individual is considered to be enrolled in an institution of higher education if the individual is enrolled in a business, technical, trade, or vocational school that normally requires a high school diploma or equivalency certificate for enrollment in the curriculum or if the individual is enrolled in a regular curriculum at a college or university that offers degree programs regardless of whether a high school diploma is required.
+(a) *Applicability.* An individual who is enrolled at least half-time in an institution of higher education shall be ineligible to participate in SNAP unless the individual qualifies for one of the exemptions contained in paragraph (b) of this section. An individual is considered to be enrolled in an institution of higher education if the individual is enrolled in a business, technical, trade, or vocational school that normally requires a high school diploma or equivalency certificate for enrollment in the curriculum or if the individual is enrolled in a regular curriculum at a college or university that offers degree programs regardless of whether a high school diploma is required.
 
 (b) *Student Exemptions.* To be eligible for the program, a student as defined in paragraph (a) of the section must meet at least one of the following criteria.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (4) Be enrolled as a result of participation in the Job Opportunities and Basic Skills program under Title IV of the Social Security Act or its successor program;
 
-(5) Be employed for a minimum of 20 hours per week and be paid for such employment or, if self-employed, be employed for a minimum of 20 hours per week and receiving weekly earnings at least equal to the Federal minimum wage multiplied by 20 hours;
+(5) Be employed for a minimum of 20 hours per week and be paid for such employment or, if self-employed, be employed for a minimum of 20 hours per week and receiving weekly earnings at least equal to the Federal minimum wage multiplied by 20 hours. The State agency may choose to determine compliance with this requirement by calculating whether the student worked an average of 20 hours per week over the period of a month, quarter, trimester or semester. State agencies may choose to exclude hours accrued during academic breaks that do not exceed one month. A State agency that chooses to average student work hours must specify this choice and specify the time period over which the work hours will be averaged in its State plan of operation;
 
 (6) Be participating in a State or federally financed work study program during the regular school year.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (i) This provision applies in those situations where only one natural, adoptive or stepparent (regardless of marital status) is in the same food stamp household as the child.
 
-(ii) If no natural, adoptive or stepparent is in the same food stamp household as the child, another full-time student in the same food stamp household as the child may qualify for eligible student status under this provision if he or she has parental control over the child and is not living with his or her spouse.
+(ii) If no natural, adoptive or stepparent is in the same SNAP household as the child, another full-time student in the same SNAP household as the child may qualify for eligible student status under this provision if he or she has parental control over the child and is not living with his or her spouse.
 
 (11) Be assigned to or placed in an institution of higher education through or in compliance with the requirements of one of the programs identified in paragraphs (b)(11)(i) through (b)(11)(iv) of this section. Self-initiated placements during the period of time the person is enrolled in one of these employment and training programs shall be considered to be in compliance with the requirements of the employment and training program in which the person is enrolled provided that the program has a component for enrollment in an institution of higher education and that program accepts the placement. Persons who voluntarily participate in one of these employment and training programs and are placed in an institution of higher education through or in compliance with the requirements of the program shall also qualify for the exemption. The programs are:
 
@@ -42,10 +40,10 @@ Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delaye
 
 (iii) A program under section 236 of the Trade Act of 1974 (19 U.S.C. 2296); or
 
-(iv) An employment and training program for low-income households that is operated by a State or local government where one or more of the components of such program is at least equivalent to an acceptable food stamp employment and training program component as specified in § 273.7(e)(1). Using the criteria in § 273.7(e)(1), State agencies shall make the determinations as to whether or not the programs qualify.
+(iv) An employment and training program for low-income households that is operated by a State or local government where one or more of the components of such program is at least equivalent to an acceptable SNAP employment and training program component as specified in § 273.7(e)(1). Using the criteria in § 273.7(e)(1), State agencies shall make the determinations as to whether or not the programs qualify.
 
 (c) The enrollment status of a student shall begin on the first day of the school term of the institution of higher education. Such enrollment shall be deemed to continue through normal periods of class attendance, vacation and recess, unless the student graduates, is suspended or expelled, drops out, or does not intend to register for the next normal school term (excluding summer school).
 
 (d) The income and resources of an ineligible student shall be handled as outlined in § 273.11(d).
 
-[46 FR 43025, Aug. 25, 1981, as amended by Amdt. 235, 47 FR 55908, Dec. 14, 1982; Amdt. 269, 51 FR 10785, Mar. 28, 1986; Amdt. 274, 51 FR 18750, May 21, 1986; Amdt. 277, 51 FR 30048, Aug. 22, 1986; Amdt. 370, 60 FR 48869, Sept. 21, 1995; 67 FR 41603, June 19, 2002]
+[46 FR 43025, Aug. 25, 1981, as amended by Amdt. 235, 47 FR 55908, Dec. 14, 1982; Amdt. 269, 51 FR 10785, Mar. 28, 1986; Amdt. 274, 51 FR 18750, May 21, 1986; Amdt. 277, 51 FR 30048, Aug. 22, 1986; Amdt. 370, 60 FR 48869, Sept. 21, 1995; 67 FR 41603, June 19, 2002; 82 FR 2308, Jan. 6, 2017]

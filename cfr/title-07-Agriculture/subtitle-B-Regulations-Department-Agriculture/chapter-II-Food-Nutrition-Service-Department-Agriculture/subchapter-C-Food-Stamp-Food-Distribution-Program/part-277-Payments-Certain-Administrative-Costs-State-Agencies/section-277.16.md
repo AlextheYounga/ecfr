@@ -1,6 +1,6 @@
 ##### § 277.16 Suspension, disallowance and program closeout. #####
 
-(a) *Suspension.* When a State agency has materially failed to comply with any of the provisions contained in the Act, regulations, or FNS-approved State Plan of Operation, FNS may, after written notification to the State agency, temporarily withhold some or all Federal reimbursements for costs of administration of the Food Stamp Program in accordance with § 276.4. Adjustments will be made either by adjusting the Letter of Credit authorization or by not allowing the State agency to withdraw funds.
+(a) *Suspension.* When a State agency has materially failed to comply with any of the provisions contained in the Act, regulations, or FNS-approved State Plan of Operation, FNS may, after written notification to the State agency, temporarily withhold some or all Federal reimbursements for costs of administration of SNAP in accordance with § 276.4. Adjustments will be made either by adjusting the Letter of Credit authorization or by not allowing the State agency to withdraw funds.
 
 (b) *Disallowance.* (1) FNS may disallow costs in accordance with part 276 and effect nonpayment for some or all costs incurred by a State agency which are normally allowable but are determined by FNS to be nonreimbursable because the State agency has failed to comply with any of the provisions contained in the Act, regulations, or FNS-approved State Plan of Operation.
 

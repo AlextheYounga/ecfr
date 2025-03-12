@@ -1,26 +1,24 @@
 ##### § 272.2 Plan of operation. #####
 
-Link to an amendment published at 82 FR 2035, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
+(a) *General purpose and content* - (1) *Purpose.* State agencies shall periodically plan and budget program operations and establish objectives. When planning and budgeting for program operations for the next year, State agencies shall consider major corrective action objectives, existing program strengths and deficiencies, and other factors anticipated to impact on the operation of the State's SNAP and on projected expenditures.
 
-(a) *General purpose and content* - (1) *Purpose.* State agencies shall periodically plan and budget program operations and establish objectives. When planning and budgeting for program operations for the next year, State agencies shall consider major corrective action objectives, existing program strengths and deficiencies, and other factors anticipated to impact on the operation of the State's Food Stamp Program and on projected expenditures.
-
-(2) *Content.* The basic components of the State Plan of Operation are the Federal/State Agreement, the Budget Projection Statement, and the Program Activity Statement. In addition, certain attachments to the Plan are specified in this section and in § 272.3. The requirements for the basic components and attachments are specified in § 272.2(c) and § 272.2(d) respectively. The Federal/State Agreement is the legal agreement between the State and the Department of Agriculture. This Agreement is the means by which the State elects to operate the Food Stamp Program and to administer the program in accordance with the Food Stamp Act of 1977, as amended, regulations issued pursuant to the Act and the FNS-approved State Plan of Operation. The Budget Projection Statement and Program Activity Statement provide information on the number of actions and amounts budgeted for various functional areas such as certification and issuance. The Plan's attachments include the Quality Control Sample Plan, the Disaster Plan (currently reserved), the Employment and Training Plan, the optional Nutrition Education Plan, the optional plan for Program informational activities directed to low-income households, the optional plan for intercepting Unemployment Compensation (UC) benefits for collecting claims for intentional Program violations, the Systematic Alien Verification for Entitlements (SAVE) Plan, and the plan for the State Income and Eligibility Verification System. The State agency shall either include the Workfare Plan in its State Plan of Operation or append the Workfare Plan to the State Plan of Operation, as appropriate, in accordance with § 273.22(b)(3) of this chapter. The Workfare Plan shall be submitted separately, in accordance with § 273.22(b)(1) of this chapter. The ADP/CIS Plan is considered part of the State Plan of Operation but is submitted separately as prescribed under § 272.2(e)(8). State agencies and/or political subdivisions selected to operate a Simplified Application/Standardized Benefit Project shall include that Project's Work Plan in the State Plan of Operation. The Plan's attachments shall also include the Mail Issuance Loss Reporting Level Plan.
+(2) *Content.* The basic components of the State Plan of Operation are the Federal/State Agreement, the Budget Projection Statement, and the Program Activity Statement. In addition, certain attachments to the Plan are specified in this section and in § 272.3. The requirements for the basic components and attachments are specified in § 272.2(c) and § 272.2(d) respectively. The Federal/State Agreement is the legal agreement between the State and the Department of Agriculture. This Agreement is the means by which the State elects to operate SNAP and to administer the program in accordance with the Food and Nutrition Act of 2008, as amended, regulations issued pursuant to the Act and the FNS-approved State Plan of Operation. The Budget Projection Statement and Program Activity Statement provide information on the number of actions and amounts budgeted for various functional areas such as certification and issuance. The Plan's attachments include the Quality Control Sample Plan, the Disaster Plan (currently reserved), the Employment and Training Plan, the optional Nutrition Education Plan, the optional plan for Program informational activities directed to low-income households, the optional plan for intercepting Unemployment Compensation (UC) benefits for collecting claims for intentional Program violations, the Systematic Alien Verification for Entitlements (SAVE) Plan, and the plan for the State Income and Eligibility Verification System. The State agency shall either include the Workfare Plan in its State Plan of Operation or append the Workfare Plan to the State Plan of Operation, as appropriate, in accordance with § 273.22(b)(3) of this chapter. The Workfare Plan shall be submitted separately, in accordance with § 273.22(b)(1) of this chapter. The ADP/CIS Plan is considered part of the State Plan of Operation but is submitted separately as prescribed under § 272.2(e)(8). State agencies and/or political subdivisions selected to operate a Simplified Application/Standardized Benefit Project shall include that Project's Work Plan in the State Plan of Operation. The Plan's attachments shall also include the Mail Issuance Loss Reporting Level Plan.
 
 (b) *Federal/State Agreement.* (1) The wording of the pre-printed Federal/State Agreement is as follows:
 
-The State of \_\_\_ and the Food and Nutrition Service (FNS), U.S. Department of Agriculture (USDA), hereby agree to act in accordance with the provisions of the Food Stamp Act of 1977, as amended, implementing regulations and the FNS-approved State Plan of Operation. The State and FNS (USDA) further agree to fully comply with any changes in Federal law and regulations. This agreement may be modified with the mutual written consent of both parties.
+The State of \_\_\_ and the Food and Nutrition Service (FNS), U.S. Department of Agriculture (USDA), hereby agree to act in accordance with the provisions of the Food and Nutrition Act of 2008, as amended, implementing regulations and the FNS-approved State Plan of Operation. The State and FNS (USDA) further agree to fully comply with any changes in Federal law and regulations. This agreement may be modified with the mutual written consent of both parties.
 
 Provisions
 
-The State agrees to: 1. Administer the program in accordance with the provisions contained in the Food Stamp Act of 1977, as amended, and in the manner prescribed by regulations issued pursuant to the Act; and to implement the FNS-approved State Plan of Operation.
+The State agrees to: 1. Administer the program in accordance with the provisions contained in the Food and Nutrition Act of 2008, as amended, and in the manner prescribed by regulations issued pursuant to the Act; and to implement the FNS-approved State Plan of Operation.
 
-2. Comply with Title VI of the Civil Rights Act of 1964 (Pub. L. 88-352), section 11(c) of the Food Stamp Act of 1977, as amended, the Age Discrimination Act of 1975 (Pub. L. 94-135) and the Rehabilitation Act of 1973 (Pub. L. 93-112, sec. 504) and all requirements imposed by the regulations issued pursuant to these Acts by the Department of Agriculture to the effect that, no person in the United States shall, on the grounds of sex, race, color, age, political belief, religion, handicap, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subject to discrimination under the Food Stamp Program.
+2. Comply with Title VI of the Civil Rights Act of 1964 (Pub. L. 88-352), section 11(c) of the Food and Nutrition Act of 2008, as amended, the Age Discrimination Act of 1975 (Pub. L. 94-135) and the Rehabilitation Act of 1973 (Pub. L. 93-112, sec. 504) and all requirements imposed by the regulations issued pursuant to these Acts by the Department of Agriculture to the effect that, no person in the United States shall, on the grounds of sex, race, color, age, political belief, religion, handicap, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subject to discrimination under SNAP.
 
 3. (For States with Indian Reservations only). Implement the Program in a manner that is responsive to the special needs of American Indians on reservations and consult in good faith with tribal organizations about that portion of the State's Plan of Operation pertaining to the implementation of the Program for members of the tribe on reservations.
 
-FNS agrees to: 1. Pay administrative costs in accordance with the Food Stamp Act, implementing regulations, and an approved Cost Allocation Plan.
+FNS agrees to: 1. Pay administrative costs in accordance with the Food and Nutrition Act of 2008, implementing regulations, and an approved Cost Allocation Plan.
 
-2. Carry-out any other responsibilities delegated by the Secretary in the Food Stamp Act of 1977, as amended.
+2. Carry-out any other responsibilities delegated by the Secretary in the Food and Nutrition Act of 2008, as amended.
 
 DateSignature(Governor or Authorized Designee)DateSignature(Regional Administrator, FNS)
 
@@ -34,19 +32,19 @@ DateSignature(Governor or Authorized Designee)DateSignature(Regional Administrat
 
 (2) The organizational outline submitted in 1982 as an attachment to the Program Activity Statement shall be considered the basic outline. Henceforth, changes to this outline shall be provided to FNS as they occur. The outline contains the following information:
 
-(i) The position of the head of the State agency responsible for administering the Food Stamp Program in relation to the overall State organizational structure, i.e., the Program Director in relation to the Commissioner of Welfare;
+(i) The position of the head of the State agency responsible for administering SNAP in relation to the overall State organizational structure, i.e., the Program Director in relation to the Commissioner of Welfare;
 
-(ii) A description of the organizational structure through which the State agency will administer and operate the Food Stamp Program, including whether the Program is State, county, locally, or regionally-administered; whether the workers have single Food Stamp Program or multi-program functions; and the title and position of the individual or panel designated as the hearing authority and whether officials conduct both fair and fraud hearings.
+(ii) A description of the organizational structure through which the State agency will administer and operate SNAP, including whether the Program is State, county, locally, or regionally-administered; whether the workers have single SNAP or multi-program functions; and the title and position of the individual or panel designated as the hearing authority and whether officials conduct both fair and fraud hearings.
 
 (iii) A description of the funding arrangement by which State, county, and local jurisdictions will contribute to the State agency portion of administrative costs;
 
-(iv) The position within the State organizational structure of the Performance Reporting System (PRS) coordinator, including whether the PRS coordinator is full or part-time, and is responsible for direct supervision over Quality Control or Management Evaluation or if these functions are handled separately, and whether quality control reviewers have single Food Stamp Program or multi-program review responsibilities;
+(iv) The position within the State organizational structure of the Performance Reporting System (PRS) coordinator, including whether the PRS coordinator is full or part-time, and is responsible for direct supervision over Quality Control or Management Evaluation or if these functions are handled separately, and whether quality control reviewers have single SNAP or multi-program review responsibilities;
 
 (v) The position of the training coordinator and whether this is a full or part-time position; and
 
 (vi) The organizational entity responsible for corrective action.
 
-(3) *Additional attachments.* Attached for informational purposes (not subject to approval as part of the plan submission procedures) to the Program Activity Statement and submitted as required in paragraph (e)(3) of this section shall be the agreements between the State agency and the United States Postal Service for coupon issuance, and between the State agency and the Social Security Administration for supplemental income/food stamp joint application processing and for routine user status.
+(3) *Additional attachments.* Attached for informational purposes (not subject to approval as part of the plan submission procedures) to the Program Activity Statement and submitted as required in paragraph (e)(3) of this section shall be the agreements between the State agency and the United States Postal Service for coupon issuance, and between the State agency and the Social Security Administration for supplemental income/SNAP joint application processing and for routine user status.
 
 (d) *Planning documents.* (1) The following planning documents shall be submitted:
 
@@ -80,21 +78,25 @@ DateSignature(Governor or Authorized Designee)DateSignature(Regional Administrat
 
 (xvi) If the State agency chooses to implement the optional provisions specified in:
 
-(A) Sections 273.2(f)(1)(xii), 273.2(f)(8)(i)(A), 273.9(d)(5), 273.9(d)(6)(i), and 273.12(a)(4) of this chapter, it must include in the Plan's attachment the options it has selected;
+(A) Section 273.2(c)(7)(viii) and 273.2(c)(7)(ix) of this chapter, it must include in the Plan's attachment the option to accept telephonic signatures and gestured signatures on the application and reapplication forms (other than for households the State may be required to accept such signatures as a reasonable accommodation under Section 504 of the Rehabilitation Act or in compliance with other civil rights laws) and a description of the procedures being pursued under the provision;
 
-(B) Section 273.8(e)(19) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the resources being excluded under the provision;
+(B) Sections 273.2(e)(2) and 273.14(b)(3) of this chapter, it must include in the Plan's attachment the option to provide telephone interviews in lieu of face-to-face interviews at initial application and reapplication for households other than those that meet the hardship criteria and a description of the procedures being pursued under the provision;
 
-(C) Section 273.9(c)(3) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the types of educational assistance being excluded under the provision;
+(C) Sections 273.2(f)(1)(xii), 273.2(f)(8)(i)(A), 273.9(d)(5), 273.9(d)(6)(i) and 273.12(a)(4) of this chapter, it must include in the Plan's attachment the options it has selected;
 
-(D) Section 273.9(c)(18) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the types of payments being excluded under the provision;
+(D) Section 273.5(b)(5) of this chapter, it must include in the Plan's attachment the option to average student work hours and a description of how student work hours will be calculated;
 
-(E) Section 273.9(c)(19) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the types of income being excluded under the provision;
+(E) Section 273.8(e)(19) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the resources being excluded under the provision;
 
-(F) Section 273.12(a)(5) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the types of households to whom the option applies;
+(F) Section 273.9(c)(3) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the types of educational assistance being excluded under the provision;
 
-(G) Section 273.12(c) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the deductions affected; and
+(G) Sections 273.9(c)(18) and 273.9(c)(19) of this chapter, it must include in the Plan's attachment a statement of the options selected and a description of the types of payments or the types of income being excluded under the provisions;
 
-(H) Section 273.26 of this chapter, it must include in the Plan's attachment a statement that the option has been selected and specify the categories of households eligible for transitional benefits and the maximum number of months for which such benefits will be provided.
+(H) Section 273.12(a)(5) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the types of households to whom the option applies;
+
+(I) Section 273.12(c) of this chapter, it must include in the Plan's attachment a statement that the option has been selected and a description of the deductions affected; and
+
+(J) Section 273.26 of this chapter, it must include in the Plan's attachment a statement that transitional SNAP benefits are available and a description of the eligible cash-assistance programs by which households may qualify for transitional benefits; if one of the eligible programs includes a State-funded cash assistance program; whether household participation in that program runs concurrently, sequentially, or alternatively to TANF; the categories of households eligible for such benefits; the maximum number of months for which transitional benefits will be provided.
 
 (xvii) A plan indicating the definition of fleeing felon the State agency has adopted, as provided for in § 273.11(n).
 
@@ -215,4 +217,4 @@ The allocations to a State for SNAP-Ed grants will be:
 
 (4) *Notification of approval or disapproval.* Within 30 days from the date of receipt of the request for budget revisions, FNS shall review the request and notify the State agency whether or not the budget revisions have been approved. If the revision is still under consideration at the end of 30 days, FNS shall inform the State agency in writing as to when the decision will be made.
 
-[Amdt. 156, 46 FR 6315, Jan. 21, 1981]Editorial Note:For Federal Register citations affecting § 272.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 156, 46 FR 6315, Jan. 21, 1981]Editorial Note:For Federal Register citations affecting § 272.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

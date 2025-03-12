@@ -1,6 +1,6 @@
 ##### § 277.7 Cash depositories. #####
 
-(a) The term “cash depositories” refers to banks or other institutions which maintain accounts where Food Stamp Program funds are deposited and from which withdrawals are made to meet administrative costs of the State agency.
+(a) The term “cash depositories” refers to banks or other institutions which maintain accounts where SNAP funds are deposited and from which withdrawals are made to meet administrative costs of the State agency.
 
 (b) State agencies are encouraged to use minority owned banks to expand opportunities for minority enterprises.
 

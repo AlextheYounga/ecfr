@@ -1,6 +1,6 @@
 ##### § 283.3 Definitions. #####
 
-As used in this part, the terms as defined in the Food Stamp Act of 1977, as amended, 7 U.S.C. 2011-2032 (“Act”), and in the regulations, standards, instructions or orders issued thereunder, shall apply with equal force and effect. In addition, and except as may be provided otherwise in this section:
+As used in this part, the terms as defined in the Food and Nutrition Act of 2008, as amended, 7 U.S.C. 2011-2032 (“Act”), and in the regulations, standards, instructions or orders issued thereunder, shall apply with equal force and effect. In addition, and except as may be provided otherwise in this section:
 
 *Administrator* means the Administrator, Food and Nutrition Service, U.S. Department of Agriculture (“USDA”).
 
@@ -28,4 +28,4 @@ As used in this part, the terms as defined in the Food Stamp Act of 1977, as ame
 
 (1) The agency of State government, including the local offices thereof, which is responsible for the administration of the federally aided public assistance programs within the State, and in those States where such assistance programs are operated on a decentralized basis, it includes the counterpart local agencies which administer such assistance programs for the State agency; and
 
-(2) The Indian tribal organization of any Indian tribe determined by the Secretary to be capable of effectively administering a Food Stamp Program in accordance with the Food Stamp Act of 1977, as amended, 7 U.S.C. 2011-2032.
+(2) The Indian tribal organization of any Indian tribe determined by the Secretary to be capable of effectively administering a SNAP in accordance with the Food and Nutrition Act of 2008, as amended, 7 U.S.C. 2011-2032.

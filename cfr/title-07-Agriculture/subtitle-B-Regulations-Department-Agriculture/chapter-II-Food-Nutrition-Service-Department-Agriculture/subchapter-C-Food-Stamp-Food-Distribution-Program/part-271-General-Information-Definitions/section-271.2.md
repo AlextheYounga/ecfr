@@ -1,7 +1,5 @@
 ##### § 271.2 Definitions. #####
 
-Link to an amendment published at 82 FR 2034, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
-
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
 *Active case* means a household which was certified prior to, or during, the sample month and issued SNAP benefits for the sample month.
@@ -114,7 +112,7 @@ Link to an amendment published at 82 FR 2034, Jan. 6, 2017.This amendment delaye
 
 *FNS* means the Food and Nutrition Service of the U.S. Department of Agriculture.
 
-*Food Stamp Act* means the Food Stamp Act of 1977 (Pub. L. 95-113), including any subsequent amendments thereto.
+*Food and Nutrition Act of 2008* means the Food and Nutrition Act of 2008 (Pub. L. 95-113), including any subsequent amendments thereto.
 
 *General assistance (GA)* means cash or another form of assistance, excluding in-kind assistance, financed by State or local funds as part of a program which provides assistance to cover living expenses or other basic needs intended to promote the health or well-being of recipients.
 
@@ -162,9 +160,9 @@ Link to an amendment published at 82 FR 2034, Jan. 6, 2017.This amendment delaye
 
 *Medicaid* means medical assistance under title XIX of the Social Security Act, as amended.
 
-*Medium project area* means those project areas/management units with monthly active caseloads of 5,000 to 25,000households based on the most current information available at the time the medium project area review schedule is developed.
+*Medium project area* means those project areas/management units with monthly active caseloads of 5,000 to 25,000 households based on the most current information available at the time the medium project area review schedule is developed.
 
-*Minimum benefit* means the minimum monthly amount of SNAP benefits that one- and two-person households receive. The amount of the minimum benefit shall be $10.
+*Minimum benefit* means the minimum monthly amount of SNAP benefits that one- and two-person households receive. The amount of the minimum benefit shall be determined according to the provisions of § 273.10 of this chapter.
 
 *National performance measure* means the sum of the products of each State agency's payment error rate times that State agency's proportion of the total value of the national allotments issued for the fiscal year using the most recent issuance data available at the time the State agency is notified of its performance error rate.
 
@@ -280,4 +278,4 @@ Link to an amendment published at 82 FR 2034, Jan. 6, 2017.This amendment delaye
 
 *Wholesale food concern* means an establishment which sells eligible food to retail food stores or to meal services for resale to households.
 
-[Amdt. 132, 43 FR 47882, Oct. 17, 1978]Editorial Note:For Federal Register citations affecting § 271.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 132, 43 FR 47882, Oct. 17, 1978]Editorial Note:For Federal Register citations affecting § 271.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

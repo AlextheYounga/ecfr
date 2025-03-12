@@ -1,6 +1,6 @@
 ##### § 283.12 Discovery. #####
 
-(a) *Dispositions* - (1) *Motion for taking deposition.* Only upon a finding by the ALJ that a deposition is necessary to preserve testimony as provided in this subparagraph, upon the motion of a party to the appeal, the ALJ may, at any time after the filing of the answer, order the taking of testimony by deposition. The motion shall set forth:
+(a) *Dispositions*—(1) *Motion for taking deposition.* Only upon a finding by the ALJ that a deposition is necessary to preserve testimony as provided in this subparagraph, upon the motion of a party to the appeal, the ALJ may, at any time after the filing of the answer, order the taking of testimony by deposition. The motion shall set forth:
 
 (i) The name and address of the proposed deponent;
 
@@ -46,7 +46,7 @@
 
 (iv) That such exceptional circumstances exist as to make it desirable, in the interests of justice, to allow the deposition to be used. If the party upon whose motion the deposition was taken refuses to offer it in evidence, any other party may offer the deposition or any part thereof in evidence. If only part of a deposition is offered in evidence by a party, any other party may require the introduction of any other part which is relevant be considered with the part introduced, and any party may introduce any other parts.
 
-(b) *Interrogatories, requests for admissions and requests for production of documents* - (1) *Interrogatories.* A party may submit written interrogatories to any other party to an appeal. The time for submitting and responding to written interrogatories shall be set by the ALJ at the pre-hearing conference, but in no event shall the time for response be less than 20 days from the date of service or within such time as determined upon motion to the ALJ. The number of interrogatories submitted by each party shall not exceed twenty-five questions including subparts, unless additional interrogatories are authorized by the ALJ. Each interrogatory should be answered separately and fully in writing, unless it is objected to, in which event the reasons for objection should be stated in lieu of an answer. The answers are to be signed under penalty of perjury by the person making them. Objections shall be signed by the attorney of record in the appeal or by the responding party's authorized representative.
+(b) *Interrogatories, requests for admissions and requests for production of documents*—(1) *Interrogatories.* A party may submit written interrogatories to any other party to an appeal. The time for submitting and responding to written interrogatories shall be set by the ALJ at the pre-hearing conference, but in no event shall the time for response be less than 20 days from the date of service or within such time as determined upon motion to the ALJ. The number of interrogatories submitted by each party shall not exceed twenty-five questions including subparts, unless additional interrogatories are authorized by the ALJ. Each interrogatory should be answered separately and fully in writing, unless it is objected to, in which event the reasons for objection should be stated in lieu of an answer. The answers are to be signed under penalty of perjury by the person making them. Objections shall be signed by the attorney of record in the appeal or by the responding party's authorized representative.
 
 (2) *Request for admissions.* A party may submit a written request for admission of the truth of any matters relevant to the appeal to any other party to the appeal. The time for submitting a written request for admission shall be set by the ALJ at the pre-hearing conference. The number of admissions contained in a request submitted by a party shall not exceed twenty-five unless additional admissions are authorized by the ALJ. The matter is admitted unless, within 20 days after service thereof, or within such time as determined upon motion to the ALJ, the party to whom the request is directed serves upon the party requesting the admission a written answer or objection addressed to the matter signed by the party, counsel or designated representative. If objection is made, the reasons therefor should be stated. The answer should specifically deny the matter or set forth in detail why the answering party cannot truthfully admit or deny the matter. An answering party may not give lack of information or knowledge as a reason for the failure to admit or deny unless it is stated that reasonable inquiry has been made and that the information known or readily obtainable is insufficient to enable the party to admit or deny. A party who considers that a matter for which an admission has been requested presents a genuine issue for hearing may not, on that ground alone, object to the request; the party may deny the matter or set forth reasons why the matter cannot be admitted or denied.
 
@@ -54,7 +54,7 @@
 
 (ii) Parties may request production of any documents regarding any matter, not privileged, which is relevant to the subject matter involved in the pending action. Grounds for objection will not exist if the information sought appears reasonably calculated to lead to the discovery of admissible evidence.
 
-(iii) If such documents include privileged information or information the disclosure of which is proscribed by the Food Stamp Act of 1977, as amended, such documents need not be produced.
+(iii) If such documents include privileged information or information the disclosure of which is proscribed by the Food and Nutrition Act of 2008, as amended, such documents need not be produced.
 
 (c) *Supplementation of response.* A party who knows or later learns that a response is incorrect is under a duty to correct such response as soon as possible. A party who has responded to a request for discovery with a response that was complete when made is under a duty to supplement the response to include information thereafter acquired. A party is under a duty to supplement responses with respect to any question directly addressed to:
 
@@ -70,7 +70,7 @@
 
 (3) The discovery is unduly burdensome or expensive, taking into account the needs of the case, the amount in controversy, limitations on the parties' resources, and the importance of the issues at stake in the litigation.
 
-(e) *Protective orders* - (1) *Request for protective order.* A party served with such a request may file a motion for a protective order before the date on which a response to the discovery request is due, stating why discovery should be limited or should not be required.
+(e) *Protective orders*—(1) *Request for protective order.* A party served with such a request may file a motion for a protective order before the date on which a response to the discovery request is due, stating why discovery should be limited or should not be required.
 
 (2) *Issuance of protective order.* In issuing a protective order, the ALJ may make any order which justice requires to protect a party or person from annoyance, embarrassment, oppression or undue burden or expense, including one or more of the following:
 
@@ -84,7 +84,7 @@
 
 (v) That the contents of discovery or evidence be sealed.
 
-(f) *Failure to respond to discovery* - (1) *Motions to compel.* If a deponent fails to respond or gives an evasive or incomplete answer to a question propounded at a deposition pursuant to paragraph (a) of this section or a party fails to respond or gives evasive or incomplete answers to written interrogatories or admissions, or fails to respond, in full or in part, to a request for production of documents served pursuant to paragraph (b) of this section, the party seeking discovery may apply for an order compelling an answer by filing and serving a motion on all parties and deponents.
+(f) *Failure to respond to discovery*—(1) *Motions to compel.* If a deponent fails to respond or gives an evasive or incomplete answer to a question propounded at a deposition pursuant to paragraph (a) of this section or a party fails to respond or gives evasive or incomplete answers to written interrogatories or admissions, or fails to respond, in full or in part, to a request for production of documents served pursuant to paragraph (b) of this section, the party seeking discovery may apply for an order compelling an answer by filing and serving a motion on all parties and deponents.
 
 (2) *Filing motion to compel.* (i) Such motion must be filed within 20 days following the service of the unresponsive answer upon deposition or within 20 days after expiration of the period allowed for answers to interrogatories or production of documents.
 

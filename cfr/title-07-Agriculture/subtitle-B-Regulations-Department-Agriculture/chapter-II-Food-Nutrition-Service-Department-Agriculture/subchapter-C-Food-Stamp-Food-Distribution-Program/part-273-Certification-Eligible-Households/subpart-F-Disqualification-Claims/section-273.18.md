@@ -1,7 +1,5 @@
 ##### § 273.18 Claims against households. #####
 
-Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
-
 (a) *General.* (1) A recipient claim is an amount owed because of:
 
 (i) Benefits that are overpaid or
@@ -26,10 +24,10 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 | (2) Inadvertent household error (IHE) claim |     any claim for an overpayment resulting from a misunderstanding or unintended error on the part of the household.     |
 |         (3) Agency error (AE) claim         |             any claim for an overpayment caused by an action or failure to take action by the State agency.              |
 
-(c) *Calculating the claim amount* - (1) *Claims not related to trafficking.*
+(c) *Calculating the claim amount*—(1) *Claims not related to trafficking.*
 
 |                                                                               (i) As a State agency, you                                                                                |                                                                                              |                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 |                                                                              must calculate a claim . . .                                                                               |                                          and . . .                                           |                                                       and . . .                                                       |
 |                                                    back to at least twelve months prior to when you become aware of the overpayment                                                     |for an IPV claim, the claim must be calculated back to the month the act of IPV first occurred|for all claims, don't include any amounts that occurred more than six years before you became aware of the overpayment.|
 |                                                                    (ii) The actual steps for calculating a claim are                                                                    |                                                                                              |                                                                                                                       |
@@ -50,7 +48,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 (d) *Claim referral management.*
 
 |                                                        (1) As a State agency, you                                                        |                                                                                                                                  |                                                                                                                           |
-|:----------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 |                                                                must . . .                                                                |                                                          and you . . .                                                           |                                                       unless . . .                                                        |
 |establish a claim before the last day of the quarter following the quarter in which the overpayment or trafficking incident was discovered|will ensure that no less than 90 percent of all claim referrals are either established or disposed of according to this time frame|you develop and use your own standards and procedures that have been approved by us (see paragraph (d)(2) of this section).|
 
@@ -74,12 +72,12 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (3) States must establish claims even if they cannot be established within the timeframes outlined under paragraph (d) of this section.
 
-(e) *Initiating collection action and managing claims* - (1) *Applicability.* State agencies must begin collection action on all claims unless the conditions under paragraph (e)(2) of this section apply.
+(e) *Initiating collection action and managing claims*—(1) *Applicability.* State agencies must begin collection action on all claims unless the conditions under paragraph (e)(2) of this section apply.
 
 (2) *Pre-establishment cost effectiveness determination.* A State agency may opt not to establish and subsequently collect an overpayment that is not cost effective. The following is our cost-effectiveness policy for State agencies:
 
 |       (i) You may follow your own cost effectiveness plan and       |                                                        |                                                                                            |
-|:-------------------------------------------------------------------:|--------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------|
 |               opt not to establish any claim if . . .               |                      unless . . .                      |                                          or . . .                                          |
 |you determine that the claim referral is not cost effective to pursue|you do not have a cost-effectiveness plan approved by us|you already established the claim or discovered the overpayment in a quality control review.|
 |            (ii) Or you may follow the FNS threshold and             |                                                        |                                                                                            |
@@ -93,7 +91,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 (iii) If the claim or the amount of the claim was not established at a fair hearing, the State agency must provide the household with a one-time notice of adverse action. The notice of adverse action may either be sent separately or as part of the demand letter.
 
 |                                                        (iv) The initial demand letter or notice of adverse action must include language stating:                                                        |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                      (A) The amount of the claim.                                                                                       |
 |                                                        (B) The intent to collect from all adults in the household when the overpayment occurred.                                                        |
 |                                                                (C) The type (IPV, IHE, AE or similar language) and reason for the claim.                                                                |
@@ -145,7 +143,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (iii) You may reinstate any compromised portion of a claim if the claim becomes delinquent.
 
-(8) *Terminating and writing-off claims* - (i) *A terminated claim* is a claim in which all collection action has ceased. A *written-off claim* is no longer considered a receivable subject to continued Federal and State agency collection and reporting requirements.
+(8) *Terminating and writing-off claims*—(i) *A terminated claim* is a claim in which all collection action has ceased. A *written-off claim* is no longer considered a receivable subject to continued Federal and State agency collection and reporting requirements.
 
 (ii) The following is our claim termination policy:
 
@@ -161,17 +159,16 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (f) *Acceptable forms of payment.*
 
-|                                                                                                      You may collect a claim by:                                                                                                      |                                               However . . .                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-|                                                              (1) Reducing benefits prior to issuance. This includes allotment reduction and offsets to restored benefits                                                              |     You must follow the instructions and limits found in paragraphs (g)(1) and (g)(3) of this section.     |
-|                                                               (2) Reducing benefits after issuance. These are benefits from electronic benefit transfer (EBT) accounts                                                                |           You must follow the instructions and limits found in paragraph (g)(2) of this section.           |
-|                                               (3) Accepting cash or any of its generally accepted equivalents. These equivalents include check, money order, and credit or debit cards                                                |You do not have to accept credit or debit cards if you do not have the capability to accept these payments. |
-|                                                                                                   (4) Accepting paper food coupons                                                                                                    |You must destroy any coupons or coupon books that are not returned to inventory and document as appropriate.|
-|(5) Conducting your own offsets and intercepts. This includes but is not limited to wage garnishments and intercepts of various State payments. These collections are considered “cash” for FNS claim accounting and reporting purposes|                You must follow any limits that may apply in paragraph (g) of this section.                 |
-|                                                                                         (6) Requiring the household to perform public service                                                                                         |      This form of payment must be ordered by a court and specifically be in lieu of paying any claim.      |
-|                                                                                         (7) Participating in the Treasury collection programs                                                                                         |                   You must follow the procedures found in paragraph (n) of this section.                   |
+|                                                                                                      You may collect a claim by:                                                                                                      |                                               However . . .                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+|                                                              (1) Reducing benefits prior to issuance. This includes allotment reduction and offsets to restored benefits                                                              |    You must follow the instructions and limits found in paragraphs (g)(1) and (g)(3) of this section.     |
+|                                                               (2) Reducing benefits after issuance. These are benefits from electronic benefit transfer (EBT) accounts                                                                |          You must follow the instructions and limits found in paragraph (g)(2) of this section.           |
+|                                               (3) Accepting cash or any of its generally accepted equivalents. These equivalents include check, money order, and credit or debit cards                                                |You do not have to accept credit or debit cards if you do not have the capability to accept these payments.|
+|(4) Conducting your own offsets and intercepts. This includes but is not limited to wage garnishments and intercepts of various State payments. These collections are considered “cash” for FNS claim accounting and reporting purposes|                You must follow any limits that may apply in paragraph (g) of this section.                |
+|                                                                                         (5) Requiring the household to perform public service                                                                                         |     This form of payment must be ordered by a court and specifically be in lieu of paying any claim.      |
+|                                                                                         (6) Participating in the Treasury collection programs                                                                                         |                  You must follow the procedures found in paragraph (n) of this section.                   |
 
-(g) *Collection methods* - (1) *Allotment reduction.* The following is our allotment reduction policy:
+(g) *Collection methods*—(1) *Allotment reduction.* The following is our allotment reduction policy:
 
 |                                                              As a State agency, you must . . .                                                              |                                                                                          Unless . . .                                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -189,7 +186,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 (ii) You must comply with the following EBT benefit claims collection and adjustment requirements:
 
 |                                (A) For collecting from active (or reactivated) EBT benefits . . .                                 |                                                                                                                  |                                                    |
-|:---------------------------------------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 |                                                             You . . .                                                             |                                                     or . . .                                                     |                     and . . .                      |
 |    need written permission which may be obtained in advance and done in accordance with paragraph (g)(2)(iv) of this section;     |oral permission for one time reductions with you sending the household a receipt of the transaction within 10 days|  the retention rules do apply to this collection.  |
 |                                         (B) For collecting from stale EBT benefits . . .                                          |                                                                                                                  |                                                    |
@@ -231,13 +228,13 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (8) *Other collection actions.* You may employ any other collection actions to collect claims. These actions include, but are not limited to, referrals to collection and/or other similar private and public sector agencies, state tax refund and lottery offsets, wage garnishments, property liens and small claims court.
 
-(9) *Unspecified joint collections.* When an unspecified joint collection is received for a combined public assistance/food stamp recipient claim, each program must receive its pro rata share of the amount collected. An unspecified joint collection is when funds are received in response to correspondence or a referral that contained both the food stamp and other program claim(s) and the debtor does not specify to which claim to apply the collection.
+(9) *Unspecified joint collections.* When an unspecified joint collection is received for a combined public assistance/SNAP recipient claim, each program must receive its pro rata share of the amount collected. An unspecified joint collection is when funds are received in response to correspondence or a referral that contained both the SNAP and other program claim(s) and the debtor does not specify to which claim to apply the collection.
 
 (h) *Refunds for overpaid claims.* (1) As a household, if you overpay a claim, the State agency must provide a refund for the overpaid amount as soon as possible after the State agency finds out about the overpayment. You will be paid by whatever method the State agency deems appropriate considering the circumstances.
 
 (2) You are not entitled to a refund if the overpaid amount is attributed to an expunged EBT benefit.
 
-(i) *Interstate claims collection.* (1) Unless a transfer occurs as outlined in paragraph (i)(2) of this section, as a State agency, you are responsible for initiating and continuing collection action on any food stamp recipient claim regardless of whether the household remains in your State.
+(i) *Interstate claims collection.* (1) Unless a transfer occurs as outlined in paragraph (i)(2) of this section, as a State agency, you are responsible for initiating and continuing collection action on any SNAP recipient claim regardless of whether the household remains in your State.
 
 (2) You may accept a claim from another State agency if the household with the claim moves into your State. Once you accept this responsibility, the claim is yours for future collection and reporting. You will report interstate transfers to us in accordance with our instructions.
 
@@ -300,7 +297,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (5) On a quarterly basis, unless otherwise directed by us, your accounting system must reconcile summary balances reported to individual supporting records.
 
-(n) *Treasury's Offset Programs (TOP)* - (1) *Referring debts to TOP.* (i) As a State agency, you must refer to TOP all recipient claims that are delinquent for 180 or more days.
+(n) *Treasury's Offset Programs (TOP)*—(1) *Referring debts to TOP.* (i) As a State agency, you must refer to TOP all recipient claims that are delinquent for 180 or more days.
 
 (ii) You must certify that all of these claims to be referred to TOP are 180 days delinquent and legally enforceable.
 
@@ -336,7 +333,7 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (B) You discover that:
 
-(*1*) The debtor is a member of a food stamp household undergoing allotment reduction;
+(*1*) The debtor is a member of a SNAP household undergoing allotment reduction;
 
 (*2*) The claim is paid up;
 
@@ -350,4 +347,4 @@ Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delaye
 
 (6) *Security or confidentiality agreements.* As a State agency, you must follow our procedures regarding any security or confidentiality agreements or processes necessary for TOP participation.
 
-[Amdt. 389, 65 FR 41775, July 6, 2000; 65 FR 47587, Aug. 2, 2000, as amended at 75 FR 78153, Dec. 15, 2010]
+[Amdt. 389, 65 FR 41775, July 6, 2000; 65 FR 47587, Aug. 2, 2000, as amended at 75 FR 78153, Dec. 15, 2010; 82 FR 2043, Jan. 6, 2017]
