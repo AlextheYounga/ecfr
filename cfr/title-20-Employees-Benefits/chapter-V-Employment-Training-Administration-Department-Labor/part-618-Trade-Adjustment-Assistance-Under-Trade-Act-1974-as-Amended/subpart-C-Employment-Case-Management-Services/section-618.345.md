@@ -1,0 +1,9 @@
+##### § 618.345 Comprehensive and specialized assessment of trade-affected workers. #####
+
+(a) The State must make available a comprehensive and specialized assessment to all trade-affected workers.
+
+(b) The comprehensive and specialized assessment must take into account the trade-affected worker's goals and interests as they relate to employment opportunities either in the worker's commuting area or, where there is no reasonable expectation of securing employment in the worker's commuting area and the worker is interested in relocation, the employment opportunities and demand in the area to which the worker proposes to relocate.
+
+(c) The comprehensive and specialized assessment must expand upon the initial assessment regarding the trade-affected worker's interests, skills, aptitudes, and abilities. This may include use of diagnostic testing tools and instruments and in-depth interviewing and evaluation to identify barriers to employment and appropriate employment goals. The in-depth interviewing of trade-affected workers must include discussion of training opportunities reasonably available to each trade-affected worker, as described in subpart F of this part; reviewing the opportunities with each trade-affected worker; and informing each trade-affected worker of the requirements for participating in training, including the enrollment deadlines required for TRA eligibility.
+
+(d) The State may use information from the comprehensive and specialized assessment to determine whether the trade-affected worker has met the six criteria for approval of training listed in subpart F of this part.

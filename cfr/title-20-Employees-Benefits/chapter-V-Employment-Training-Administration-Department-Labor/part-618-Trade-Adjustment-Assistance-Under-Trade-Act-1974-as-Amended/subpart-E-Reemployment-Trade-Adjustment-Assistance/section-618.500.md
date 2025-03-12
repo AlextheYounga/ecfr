@@ -1,0 +1,3 @@
+##### § 618.500 Scope. #####
+
+This subpart provides the rules for RTAA. RTAA, authorized under section 246 of the Act, provides 50 percent of the difference between the wages received by the AAW at the time of separation from adversely affected employment and the wages received by the worker from reemployment for workers aged 50 and older who meet the eligibility criteria described in this subpart. This subpart identifies the eligibility criteria and the benefits available to AAWs who are eligible for RTAA.

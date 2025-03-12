@@ -1,0 +1,15 @@
+##### § 618.605 General procedures. #####
+
+(a) *Assessments.* The State must ensure and document that every trade-affected worker has an initial assessment and that a comprehensive and specialized assessment is made available, as described in subpart C of this part. If a worker refused to take an assessment, the information necessary to determine eligibility for training must be documented. If a trade-affected worker has an IEP, the assessment results must support the training program set out in the worker's IEP, as described in subpart C of this part, before an application for training is approved. As with assessments, if a worker refused to develop an IEP, the information necessary to determine eligibility for training must be documented.
+
+(b) *Applications.* Applications for training, including requests for TAA Program-funded transportation and subsistence payments, must be made to the State in accordance with any policies and procedures established by the State.
+
+(c) *Determinations.* Decisions on selection for, approval of, or referral of a trade-affected worker to training, including whether to provide TAA Program-funded transportation and subsistence payments, under this subpart, or a decision with respect to any specific training or nonselection, nonapproval, or nonreferral for any reason is a determination to which §§ 618.820 (determinations of eligibility; notices to individuals), 618.824 (liable State and agent State responsibilities), and 618.828 (appeals and hearings) apply.
+
+(d) *Training opportunities.* (1) The State must explore, identify, and secure training opportunities to ensure trade-affected workers return to employment as soon as possible. States must use all necessary and reasonable means to find alternatives when local training resources cannot adequately train trade-affected workers for reemployment. Training resources may be inadequate when they cannot train workers quickly, or at a reasonable cost, or equip workers with skills that meet the demands of the job market.
+
+(2) When available training is inadequate, TAA Program funds may be used to create customized, group training opportunities in response to a particular dislocation event. Funds may be used for trainings that provide intensive remedial education classes, English language training, or contextualized occupational training, which combines academic and occupational training. These group trainings must adhere to the principles described in § 618.600.
+
+(3) States are required to coordinate with other public and private agencies, in cooperation with local workforce development boards (LWDBs) established under WIOA, to ensure a wide-range of training opportunities are available to trade-affected workers in demand occupations.
+
+(e) *Timing of application and approval of training.* A trade-affected worker may apply for training and a State may approve training at any time after the certification date on which his or her worker group is certified under subpart B of this part, without regard to whether such worker has applied for or exhausted all rights to any UI to which the worker is entitled.

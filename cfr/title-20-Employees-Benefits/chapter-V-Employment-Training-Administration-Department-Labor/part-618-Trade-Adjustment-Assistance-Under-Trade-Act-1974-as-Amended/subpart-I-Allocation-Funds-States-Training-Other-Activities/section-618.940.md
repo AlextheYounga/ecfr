@@ -1,0 +1,3 @@
+##### § 618.940 Insufficient funds. #####
+
+If, during a fiscal year, the Department estimates that the amount of funds necessary to provide TaOA will exceed the annual cap under § 618.900, the Department will decide how the available funds that have not been distributed at the time of the estimate will be allocated among the States for the remainder of the fiscal year, and will communicate this decision to States through administrative guidance.

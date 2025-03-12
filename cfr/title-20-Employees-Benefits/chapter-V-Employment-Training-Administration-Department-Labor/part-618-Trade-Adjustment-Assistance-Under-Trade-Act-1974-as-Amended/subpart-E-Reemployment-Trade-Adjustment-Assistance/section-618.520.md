@@ -1,0 +1,23 @@
+##### § 618.520 Benefits available to eligible adversely affected workers. #####
+
+(a) *Payment.* A RTAA-eligible AAW may receive a maximum of $10,000 over a period of not more than 104 weeks (2 years). If the AAW received TRA, each week of TRA received reduces the total weeks of RTAA available by 1 week and reduces the total RTAA payment amount available in proportion to the reduction in the number of total weeks.
+
+(1) *Total amount of benefits.* RTAA supplements a worker's wages for up to 104 weeks (2 years) (reduced by the number of weeks of TRA received) or $10,000 (reduced in proportion to the reduction in the number of total weeks of TRA received), whichever occurs first, by an amount equal to the annualized wage differential as computed under paragraph (a)(2) of this section for an AAW employed full-time or paragraph (a)(3) of this section for an AAW employed less than full-time.
+
+(2) *Annualized wage differential for initial eligibility of an AAW employed full-time.* This amount is equal to 50 percent of: The AAW's annualized separation wages (as computed under paragraph (a)(2)(i) of this section) minus the amount of the AAW's annualized reemployment wages (as computed under paragraph (a)(2)(ii) of this section).
+
+(i) Annualized separation wages are the product of the AAW's hourly rate during the last full week of the AAW's regular schedule in adversely affected employment, multiplied by the number of hours the AAW worked during the last full week of such employment, multiplied by 52. The computation of annualized wages at separation excludes employer-paid health insurance premiums and employer pension contributions, as well as bonuses, severance payments, buyouts, and similar payments not reflective of the AAW's weekly pay. [(hourly rate × hours worked) × 52]
+
+(ii) Annualized reemployment wages are the product of the AAW's hourly rate during the first full week of reemployment, multiplied by the number of hours the AAW worked during the first full week of such reemployment, multiplied by 52 [(hourly rate × hours worked) × 52]. If the AAW's wages from reemployment change during the eligibility period, then the State must recompute the AAW's annualized wages from reemployment at the new hourly wage and must likewise recompute the appropriate RTAA payment as required by § 618.515(d). The computation of annualized wages from reemployment excludes employer-paid health insurance premiums and employer pension contributions, as well as bonuses, severance payments, buyouts, and similar payments not reflective of the AAW's weekly pay.
+
+(3) *Annualized wage differential for initial eligibility of an AAW employed less than full-time.* This amount, for an AAW employed at least 20 hours per week and enrolled in TAA approved training, is the annualized wages as computed under paragraph (a)(2) of this section multiplied by the ratio of the AAW's number of weekly hours of reemployment to the AAW's number of weekly hours of employment at the time of separation, but in no case more than 50 percent.
+
+(4) *Adjustment to total amount of RTAA benefits for AAWs who received TRA.* A State must adjust of the maximum RTAA benefit for an RTAA-eligible AAW who has received TRA. The RTAA-eligible AAW may receive up to the adjusted RTAA benefit as described in this section within the eligibility period as provided in § 618.510(b). RTAA eligibility is terminated once the AAW reaches either the number of weeks permitted pursuant to § 618.510 or the adjusted RTAA benefit. The adjusted RTAA benefit is calculated by subtracting the number of TRA paid weeks from the 104-week RTAA eligibility period to determine the percentage of reduced weeks that payments may be made. The maximum payable benefit of $10,000 is then reduced by the same percentage. Once the reduction in RTAA payable weeks and the reduction in the RTAA total payable are reduced by the same percentage, they become the new maximum number of payable weeks and maximum payable benefit.
+
+(b) *Training and related services.* Recipients of RTAA are eligible to receive training approved under subpart F of this part and employment and case management services under subpart C of this part.
+
+(c) *Job search and relocation allowances.* Recipients of RTAA are eligible to receive job search and relocation allowances under subpart D of this part, subject to the eligibility requirements and rules of subpart D.
+
+(d) *HCTC.* Recipients of RTAA are eligible to apply for or claim the HCTC, if available.
+
+(e) *TRA.* Once an AAW has received a payment under RTAA, the AAW is no longer eligible for TRA under the same petition. Receipt of TRA prior to RTAA will result in a reduction of RTAA benefits as described at paragraph (a)(4) of this section.

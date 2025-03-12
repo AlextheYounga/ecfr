@@ -1,0 +1,5 @@
+##### § 618.530 Reductions of Reemployment Trade Adjustment Assistance payments; priority of payments. #####
+
+(a) *Ordered child support payments.* State laws regarding deductions of payments from UI, TRA, and RTAA must comply with the Social Security Act (SSA). SSA section 303(e)(1) defines child support obligations as only including obligations which are being enforced pursuant to a plan described in section 454 of SSA which has been approved by the Secretary of Health and Human Services under part D of title IV of SSA. SSA does not otherwise permit deductions for alimony or for child support.
+
+(b) *Priority of UI payments.* RTAA does not fit into priority of payments under UI because RTAA is related to employment, not unemployment. UI and RTAA are two separate programs that operate independently of one another.

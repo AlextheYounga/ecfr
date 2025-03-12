@@ -1,7 +1,5 @@
 ##### § 1520.7 Covered persons. #####
 
-Link to an amendment published at 85 FR 16499, Mar. 23, 2020.
-
 Persons subject to the requirements of part 1520 are:
 
 (a) Each airport operator, aircraft operator, and fixed base operator subject to the requirements of subchapter C of this chapter, and each armed security officer under subpart B of part 1562.
@@ -30,6 +28,6 @@ Persons subject to the requirements of part 1520 are:
 
 (m) Each person receiving SSI under § 1520.15(d) or (e).
 
-(n) Each railroad carrier, rail hazardous materials shipper, rail hazardous materials receiver, and rail transit system subject to the requirements of part 1580 of this chapter.
+(n) Each owner/operator of maritime or surface transportation subject to the requirements of subchapter D of this chapter.
 
-[69 FR 28082, May 18, 2004, as amended at 70 FR 41600, July 19, 2005; 73 FR 72173, Nov. 26, 2008; 74 FR 47695, Sept. 16, 2009; 76 FR 51867, Aug. 18, 2011]
+[69 FR 28082, May 18, 2004, as amended at 70 FR 41600, July 19, 2005; 73 FR 72173, Nov. 26, 2008; 74 FR 47695, Sept. 16, 2009; 76 FR 51867, Aug. 18, 2011; 85 FR 16499, Mar. 23, 2020]

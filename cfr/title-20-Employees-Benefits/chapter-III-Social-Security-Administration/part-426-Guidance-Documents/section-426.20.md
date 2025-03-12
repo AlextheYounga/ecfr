@@ -1,0 +1,3 @@
+##### § 426.20 Procedures for the public to request withdrawal or modification of a guidance document. #####
+
+The public may ask us to consider withdrawing or modifying an existing guidance document. The public may direct these requests to the Commissioner of the Social Security Administration by sending an email to *Regulations@ssa.gov* or mail to 3100 West High Rise, 6401 Security Boulevard, Baltimore, Maryland 21235-6401. We will respond within 90 days of receipt.

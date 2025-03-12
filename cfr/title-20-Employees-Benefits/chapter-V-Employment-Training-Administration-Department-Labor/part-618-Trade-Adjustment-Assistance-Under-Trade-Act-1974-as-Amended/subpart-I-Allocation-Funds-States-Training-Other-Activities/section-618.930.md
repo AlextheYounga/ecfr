@@ -1,0 +1,3 @@
+##### § 618.930 Second distribution. #####
+
+The Department will distribute at least 90 percent of the total TaOA funds (including § 618.920 reserve funds) for a fiscal year to the States no later than July 15 of that fiscal year. The Department will first fund all acceptable requests for reserve funds filed before June 1. After these requests are satisfied, any funds remaining will be distributed to those States that received an initial allocation in an amount greater than their hold harmless amount, using the methodology described in § 618.910. Any funds remaining after the second distribution will be available for allotment under § 618.920.

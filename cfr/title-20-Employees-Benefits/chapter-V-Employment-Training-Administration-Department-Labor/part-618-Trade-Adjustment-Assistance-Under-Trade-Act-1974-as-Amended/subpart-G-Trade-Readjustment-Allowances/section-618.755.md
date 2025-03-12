@@ -1,0 +1,5 @@
+##### § 618.755 Eligibility period for Basic Trade Readjustment Allowances. #####
+
+(a) Except as provided in paragraph (b) of this section, an AAW is ineligible to receive Basic TRA for any week of unemployment beginning after the close of the 104-week period beginning with the first week following the week in which the AAW's most recent qualifying separation occurred or after certification, whichever is later.
+
+(b) A State may not count any period during which a judicial or administrative appeal is pending with respect to a denial of a petition filed under subpart B of this part for the purpose of calculating the period of separation described in paragraph (a) of this section. The separation will be deemed as having occurred on the certification date and the Basic TRA eligibility period will begin on the week that follows the certification date.

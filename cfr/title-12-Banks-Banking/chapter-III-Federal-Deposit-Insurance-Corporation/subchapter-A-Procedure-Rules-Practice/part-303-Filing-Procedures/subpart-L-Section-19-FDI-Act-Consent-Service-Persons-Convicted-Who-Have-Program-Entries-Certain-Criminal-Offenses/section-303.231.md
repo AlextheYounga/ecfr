@@ -1,0 +1,3 @@
+##### § 303.231 Waiting time for a subsequent application if an application is denied. #####
+
+An application under section 19 may be made in writing at any time more than one year after the issuance of a decision denying an application under section 19. If the original denial is subject to a request for a hearing, then the subsequent application may be filed at any time more than one year after the decision of the Board of Directors, or its designee, denying the application. The prohibition against participating in the affairs of an IDI under section 19 shall continue until the individual has been granted consent in writing to participate in the affairs of an IDI by the Board of Directors or its designee.

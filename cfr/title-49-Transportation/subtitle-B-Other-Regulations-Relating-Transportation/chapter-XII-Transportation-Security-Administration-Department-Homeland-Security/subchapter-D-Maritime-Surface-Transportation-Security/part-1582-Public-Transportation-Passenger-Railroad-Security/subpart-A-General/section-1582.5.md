@@ -1,0 +1,3 @@
+##### § 1582.5 Preemptive effect. #####
+
+Under 49 U.S.C. 20106, issuance of the passenger railroad and public transportation regulations in this subchapter preempts any State law, regulation, or order covering the same subject matter, except an additional or more stringent law, regulation, or order that is necessary to eliminate or reduce an essentially local security hazard; that is not incompatible with a law, regulation, or order of the U.S. Government; and that does not unreasonably burden interstate commerce.

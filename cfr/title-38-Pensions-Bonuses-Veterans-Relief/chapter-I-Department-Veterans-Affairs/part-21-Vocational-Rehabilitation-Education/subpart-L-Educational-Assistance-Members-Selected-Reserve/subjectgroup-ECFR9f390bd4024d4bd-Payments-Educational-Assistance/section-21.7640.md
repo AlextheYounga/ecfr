@@ -1,5 +1,7 @@
 ##### § 21.7640 Release of payments. #####
 
+Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
+
 (a) *Payments are dependent upon certifications, reports, and verifications of pursuit.* When certifications, reports, or verifications of pursuit are mentioned in this paragraph, the certifications, reports, and verifications of pursuit are to be made in the form prescribed by the Secretary of Veterans Affairs.
 
 (1) VA will pay educational assistance to a reservist who is pursuing a standard college degree only after the educational institution has certified his or her enrollment.

@@ -1,7 +1,5 @@
 ##### § 1.1502-51 Consolidated section 951A. #####
 
-Link to an amendment published at 85 FR 44649, July 23, 2020.
-
 (a) *In general.* This section provides rules for applying section 951A to each member of a consolidated group (each, a *member*) that is a United States shareholder of any controlled foreign corporation. Paragraph (b) of this section describes the inclusion of the GILTI inclusion amount by a member of a consolidated group. Paragraphs (c) and (d) of this section are reserved. Paragraph (e) of this section provides definitions for purposes of this section. Paragraph (f) of this section provides examples illustrating the rules of this section. Paragraph (g) of this section provides an applicability date.
 
 (b) *Calculation of the GILTI inclusion amount for a member of a consolidated group.* Each member who is a United States shareholder of any controlled foreign corporation includes in gross income in the U.S. shareholder inclusion year the member's GILTI inclusion amount, if any, for the U.S. shareholder inclusion year. See section 951A(a) and § 1.951A-1(b). The GILTI inclusion amount of a member for a U.S. shareholder inclusion year is the excess (if any) of the member's net CFC tested income for the U.S. shareholder inclusion year, over the member's net deemed tangible income return for the U.S. shareholder inclusion year, determined using the definitions provided in paragraph (e) of this section. In addition, see § 1.951A-1(e).
@@ -105,8 +103,8 @@ of -
 
 (F) *Calculation of GILTI inclusion amount.* Under paragraph (b) of this section, a member's GILTI inclusion amount for a U.S. shareholder inclusion year is the excess (if any) of the member's net CFC tested income for the U.S. shareholder inclusion year, over the shareholder's net deemed tangible income return for the U.S. shareholder inclusion year. As described in paragraph (f)(1)(ii)(C) of this section (paragraph (C) of the analysis in *Example 1*), the net CFC tested income of USS1, USS2, and USS3 are $0, $125x, and $375x, respectively. As described in paragraph (f)(3)(ii)(E) of this section (paragraph (E) of the analysis in this example), the net deemed tangible income returns of USS1, USS2, and USS3 are $0, $50x, and $150x, respectively. As a result, under paragraph (b) of this section, the GILTI inclusion amounts of USS1, USS2, and USS3 are $0 ($0−$0), $75x ($125x−$50x), and $225x ($375x−$150x), respectively.
 
-(g) *Applicability date* - (1) *In general.* Except as otherwise provided in this paragraph (g), this section applies to taxable years of United States shareholders for which the due date (without extensions) of the consolidated return is after June 21, 2019. However, a consolidated group may apply the rules of this section in their entirety to all taxable years of its members that are described in § 1.951A-7. In such a case, the consolidated group must apply the rules of this section to all taxable years described in § 1.951A-7 and with respect to all members.
+(g) *Applicability date* - (1) *In general.* Except as otherwise provided in this paragraph (g), this section applies to taxable years of United States shareholders for which the due date (without extensions) of the consolidated return is after June 21, 2019. However, a consolidated group may apply the rules of this section in their entirety to all taxable years of its members that are described in § 1.951A-7(a). In such a case, the consolidated group must apply the rules of this section to all taxable years described in § 1.951A-7(a) and with respect to all members.
 
 (2) [Reserved]
 
-[T.D. 9866, 84 FR 29367, June 21, 2019]
+[T.D. 9866, 84 FR 29367, June 21, 2019, as amended by T.D. 9902, 85 FR 44649, July 23, 2020]

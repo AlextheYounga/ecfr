@@ -38,7 +38,7 @@ The following definitions apply to CFAP. The definitions in parts 718 and 1400 o
 
 *NOFA* means a Notice of Funding Availability under this part published in the Federal Register.
 
-*Non-specialty crop* means any of the following crops: Malting barley, canola, corn, upland cotton, millet, oats, sorghum, soybeans, sunflowers, durum wheat, hard red spring wheat, and any crops announced in a NOFA. The term excludes crops intended for grazing.
+*Non-specialty crop* means any of the following crops: Barley, canola, corn, upland cotton, millet, oats, sorghum, soybeans, sunflowers, durum wheat, hard red spring wheat, and any crops announced in a NOFA. The term excludes crops intended for grazing.
 
 *Pigs* means any swine weighing less than 120 pounds.
 
@@ -56,4 +56,4 @@ The following definitions apply to CFAP. The definitions in parts 718 and 1400 o
 
 *Wool* means the fiber sheared from a live sheep and includes, unless noted otherwise, graded and nongraded wool. Graded wool is paid on a clean basis, and ungraded wool is paid on a greasy basis.
 
-[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020]
+[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020; 85 FR 59175, Sept. 21, 2020]

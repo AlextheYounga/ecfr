@@ -1,0 +1,7 @@
+##### § 618.100 Purpose and scope. #####
+
+(a) *Purpose.* The Act establishes a Trade Adjustment Assistance for Workers (TAA) Program. The goal of the TAA Program is to help each worker participating in the program obtain suitable employment whenever possible, and to return to employment as quickly as possible.
+
+(b) *Scope.* Global trade impacts thousands of workers each year across the United States. The TAA Program provides trade-affected workers with opportunities to obtain the skills, credentials, resources, and support necessary to become reemployed in a good job. The TAA Program's benefits and services include: employment and case management services, training, out-of-area job search and relocation allowances, income support through Trade Readjustment Allowances (TRA), the Reemployment Trade Adjustment Assistance (RTAA) benefit for workers aged 50 or older who find qualifying reemployment, and, if available, the Health Coverage Tax Credit (HCTC). Together with its workforce development partners in the one-stop delivery system authorized under the Workforce Innovation and Opportunity Act (WIOA), the TAA Program helps retrain, retool, and rebuild the American workforce. This part 618 applies for all workers determined eligible to apply for TAA except for those covered under certain provisions of the Trade Adjustment Assistance Reform Act of 2002 and the Trade and Globalization Adjustment Assistance Act of 2009, for which administrative guidance will continue to apply.
+
+(c) *Effect.* The regulations in this part are issued to implement the Act.

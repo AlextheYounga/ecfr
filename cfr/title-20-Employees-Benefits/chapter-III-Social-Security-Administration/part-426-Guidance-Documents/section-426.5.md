@@ -1,0 +1,3 @@
+##### § 426.5 Purpose. #####
+
+We established this part to comply with the requirements of Executive Order 13891 of October 9, 2019, Promoting the Rule of Law Through Improved Agency Guidance Documents. The rules in this part relate to agency guidance documents. They explain what constitutes guidance documents, describe the non-binding nature of guidance documents, the procedures to request withdrawal or modification of guidance documents, and the additional requirements and procedures for significant guidance documents.

@@ -1,0 +1,3 @@
+##### § 618.360 Employment and case management services for trade-affected workers in training. #####
+
+The State must make employment and case management services available, including placement and referrals to supportive services and follow-up services available through partner programs, to trade-affected workers during training, and after completion of training, and for AAWs on a waiver from training.

@@ -1,0 +1,3 @@
+##### § 618.200 Scope. #####
+
+This subpart relates to petitions, investigations, and determinations of eligibility for a group of workers to apply for adjustment assistance under the Act. This subpart specifically applies to the initiation, conduct, and effective processing of petitions for certification of eligibility to apply for adjustment assistance. This subpart also contains general provisions with respect to filing of documents, public availability of documents, and the appeals process.

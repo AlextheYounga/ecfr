@@ -1,0 +1,5 @@
+##### § 1570.105 Responsibility for Determinations. #####
+
+(a) *Higher-risk operations.* While TSA has determined the criteria for applicability of the requirements in subpart B to 49 CFR parts 1580, 1582, and 1584 based on risk-assessments for freight railroad, public transportation system, passenger railroad, or over-the-road (OTRB) owner/operators are required to determine if the applicability criteria identified in subpart B to parts 1580, 1582, and 1584 apply to their operations. Owner/operators are required to notify TSA of applicability within 30 days of June 22, 2020.
+
+(b) *New or modified operations.* If an owner/operator commences new operations or modifies existing operations after June 22, 2020, that person is responsible for determining whether the new or modified operations would meet the applicability criteria in subpart B to 49 CFR part 1580, 1582, or 1584 and must notify TSA no later than 90 calendar days before commencing operations or implementing modifications.

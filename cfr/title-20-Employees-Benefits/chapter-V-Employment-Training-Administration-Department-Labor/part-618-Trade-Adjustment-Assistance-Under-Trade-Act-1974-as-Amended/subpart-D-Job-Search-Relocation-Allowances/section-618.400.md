@@ -1,0 +1,3 @@
+##### § 618.400 Scope. #####
+
+This subpart sets forth the conditions under which an AAW may apply for and receive a job search allowance to help the worker secure suitable employment outside the commuting area but within the United States. This subpart also sets forth the conditions under which an AAW may apply for and receive a relocation allowance to help the worker relocate to suitable employment secured outside the commuting area but within the United States.

@@ -1,0 +1,9 @@
+##### § 303.223 What constitutes a conviction under section 19? #####
+
+(a) *Convictions requiring an application.* There must be a conviction of record. Section 19 does not cover arrests or pending cases not brought to trial, unless the person has a program entry as set out in § 303.224. Section 19 does not cover acquittals or any conviction that has been reversed on appeal, unless the reversal was for the purpose of re-sentencing. A conviction with regard to which an appeal is pending requires an application. A conviction for which a pardon has been granted will require an application.
+
+(b) *Convictions not requiring an application.* When an individual is charged with a covered offense and, in the absence of a program entry as set out in § 303.224, is subsequently convicted of an offense that is not a covered offense, the conviction is not subject to section 19.
+
+(c) *Expungements.* If an order of expungement or an order to seal has been issued in regard to a conviction, or if a record has been otherwise expunged by operation of law, then the conviction shall not be considered a conviction of record and shall not require an application.
+
+(d) *Youthful offenders.* An adjudication by a court against a person as a “youthful offender” under any youth-offender law applicable to minors as defined by state law, or any judgment as a “juvenile delinquent” by any court having jurisdiction over minors as defined by state law, does not require an application. Such an adjudication does not constitute a matter covered under section 19 and is not a conviction or program entry for determining the applicability of § 303.227.

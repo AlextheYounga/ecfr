@@ -1,6 +1,10 @@
 ##### § 9.1 Applicability and administration. #####
 
-(a) This part specifies the eligibility requirements and payment calculations for the Coronavirus Food Assistance Program (CFAP). CFAP will provide payments with respect to commodities that have been significantly impacted by the effects of the COVID-19 outbreak. Payments will be made with respect to only commodities produced in the United States; commodities imported into the United States may not be used to determine any payment made under this part.
+(a) This part specifies the eligibility requirements and payment calculations for the Coronavirus Food Assistance Program (CFAP). CFAP will provide payments with respect to commodities that have been significantly impacted by the effects of the COVID-19 outbreak. Payments will be made with respect to only commodities produced in the United States; commodities other than livestock that are imported into the United States may not be used to determine any payment made under this part. For livestock, “produced in the United States” means physically located in the United States:
+
+(1) On January 15, 2020, and remaining in the United States until sold for livestock sold between January 15, 2020, and April 15, 2020; or
+
+(2) On the applicable date selected for livestock in inventory between April 16, 2020, and May 14, 2020.
 
 (b) The program is administered under the general supervision and direction of the Administrator, Farm Service Agency (FSA) with the assistance of the Agricultural Marketing Service (AMS).
 
@@ -11,3 +15,5 @@
 (2) Require an FSA county committee to withhold taking any action that is not in accordance with this part.
 
 (d) No provision or delegation to an FSA State or county committee will preclude the FSA Administrator, the Deputy Administrator, or a designee or other such person, from determining any question arising under the programs of this part, or from reversing or modifying any determination made by an FSA State or county committee.
+
+[85 FR 30830, May 21, 2020, as amended at 85 FR 59174, Sept. 21, 2020]

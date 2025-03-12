@@ -1,0 +1,5 @@
+##### § 618.265 Availability of information to the public. #####
+
+(a) *Information available to the public.* The Department posts all determinations on the Department's website at *https://www.dol.gov/agencies/eta/tradeact*. The Department also posts redacted versions of all petitions on the same website. Upon request to the Administrator of the Office of Trade Adjustment Assistance, members of the public may inspect petitions and other documents filed with the Administrator, transcripts of testimony taken and exhibits submitted at public hearings held under the provisions of this subpart, public notices concerning trade-affected worker assistance under the Act, and other reports and documents issued for general distribution, in accordance with the Department's record retention schedule, FOIA, and the Privacy Act.
+
+(b) *Information not available to the public.* Confidential business information must not be made available to the public.

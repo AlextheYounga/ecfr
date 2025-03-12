@@ -1,0 +1,3 @@
+##### § 618.600 Scope. #####
+
+This subpart sets forth the conditions and procedures under which a trade-affected worker may apply for and receive training to help secure reemployment. Training provided under this subpart must, at a reasonable cost and as quickly as possible, assist a trade-affected worker in obtaining the necessary skills to have a reasonable expectation of reemployment. All else being equal, States should prefer training that replaces 100 percent or more of a trade-affected worker's wages in adversely affected employment or that qualifies as suitable employment.

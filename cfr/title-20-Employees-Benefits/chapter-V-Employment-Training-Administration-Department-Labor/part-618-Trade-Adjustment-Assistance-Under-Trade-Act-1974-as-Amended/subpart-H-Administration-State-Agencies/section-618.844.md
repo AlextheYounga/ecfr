@@ -1,0 +1,5 @@
+##### § 618.844 Inviolate rights to Trade Adjustment Assistance or Reemployment Trade Adjustment Assistance. #####
+
+(a) Except as specifically provided in this part, the rights of individuals to TAA Program benefits will be protected in the same manner and to the same extent as the rights of persons to UI are protected under the applicable State law. Such measures must include protection of applicants for TAA Program benefits from waiver, release, assignment, pledge, encumbrance, levy, execution, attachment, and garnishment of their rights to TAA Program benefits, except as provided in §§ 618.832 (overpayments; penalties for fraud) and 618.836 (recovery of debts due the United States or others by TAA offset).
+
+(b) In the same manner and to the same extent as the rights of persons to UI are protected under the applicable State law, individuals must be protected from discrimination and obstruction in regard to the right to seek, apply for, and receive any TAA Program benefit.

@@ -1,5 +1,7 @@
 ##### § 21.7140 Certifications and release of payments. #####
 
+Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
+
 (a) *Advance payments and lump-sum payments.* VA will apply the provisions of § 21.4138(a) and (b) in making advance payments and lump-sum payments to veterans and servicemembers.
 
 (Authority: 38 U.S.C. 3034 and 3680)

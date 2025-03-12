@@ -106,7 +106,7 @@ Table 2 to Paragraph (h) - Payment Rates for Non-Specialty Crops, Dairy, Livesto
 
 |            Commodity             |Unit|CARES Act  <br/>payment rate  <br/>($/unit)|CCC payment rate  <br/>($/unit)|
 |----------------------------------|----|-------------------------------------------|-------------------------------|
-|         Barley (malting)         | bu |                   0.34                    |             0.37              |
+|              Barley              | Bu |                   0.34                    |             0.37              |
 |              Canola              | lb |                   0.01                    |             0.01              |
 |               Corn               | bu |                   0.32                    |             0.35              |
 |           Durum wheat            | bu |                   0.19                    |             0.20              |
@@ -151,4 +151,4 @@ Table 2 to Paragraph (h) - Payment Rates for Non-Specialty Crops, Dairy, Livesto
 
 (k) An initial payment will be issued for 80 percent of each CFAP payment calculated. A final payment will be issued on a date determined by the Secretary, to the extent such funds are available. The total of all CFAP payments made, including all initial and final payments, cannot exceed a total of $9.5 billion for CARES Act funds and $6.5 billion for CCC funds.
 
-[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020' 85 FR 41329, July 10, 2020; 85 FR 49594, Aug. 14, 2020]
+[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020' 85 FR 41329, July 10, 2020; 85 FR 49594, Aug. 14, 2020; 85 FR 59175, Sept. 21, 2020]

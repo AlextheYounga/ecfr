@@ -1,0 +1,9 @@
+##### § 618.430 Determination and payment of a job search allowance. #####
+
+(a) *Determinations.* The State must promptly make and record determinations necessary to assure an AAW's eligibility for a job search allowance. Sections 618.820 (determinations of eligibility; notices to individuals) and 618.828 (appeals and hearings) apply to these determinations. States must include copies of such applications and all determinations by the State in the AAW's case file.
+
+(b) *Payment.* If the AAW makes a timely application, is covered under a certification, and is otherwise eligible, the State must make payment promptly after the worker has completed a job search and complied with paragraph (d) of this section, provided that funds are available for job search allowances.
+
+(c) *Advances.* Once the State determines that the AAW is eligible for a job search allowance, it may advance the worker up to 60 percent of the estimated amount of the job search allowance subject to the limit in § 618.425(b), but not exceeding $750, within 5 days before the commencement of a job search. The State must deduct the advance from any payment under paragraph (b) of this section.
+
+(d) *Worker evidence.* After the AAW completes a job search, the AAW must certify to the State as to the employer contacts made and must provide documentation of expenses in accordance with FTR and Uniform Guidance at 2 CFR part 200. This may include receipts for all lodging, purchased transportation, or other expenses. If an advance the worker received was more or less than the actual allowance, the State must make an appropriate adjustment and pay the balance entitled, or the worker must repay the excess received.

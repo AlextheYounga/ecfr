@@ -1,5 +1,7 @@
 ##### § 21.5133 Certifications and release of payments. #####
 
+Link to an amendment published at 85 FR 59191, Sept. 21, 2020.
+
 A veteran or servicemember must be pursuing a program of education in order to receive payment of educational assistance allowance under 38 U.S.C. chapter 32. To ensure that this is the case, the provisions of this section must be met when a veteran or servicemember is seeking such payment.
 
 (a) *General.* VA will pay educational assistance to a veteran or servicemember (other than one pursuing a program of apprenticeship, other on-job training, or a correspondence course; one seeking reimbursement for taking an approved licensing or certification test; or one who qualifies for an advance payment) only after:

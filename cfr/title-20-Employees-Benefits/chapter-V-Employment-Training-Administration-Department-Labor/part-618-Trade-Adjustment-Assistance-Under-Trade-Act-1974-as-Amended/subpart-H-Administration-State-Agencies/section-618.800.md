@@ -1,0 +1,3 @@
+##### § 618.800 Scope. #####
+
+This subpart covers the general administrative requirements a State must follow in providing the benefits and services available under the TAA Program. The requirements in this subpart include: The provision of rapid response and appropriate career services to groups of workers for whom a petition is filed, delivering TAA Program benefits and services to trade-affected workers, assisting in the filing of petitions for those likely to be eligible for benefits under this part, conducting outreach to groups of workers covered under a petition for TAA filed under subpart B of this part, and notifying UI claimants of the TAA Program.
