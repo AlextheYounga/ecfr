@@ -1,7 +1,5 @@
 ##### § 660.160 Catcher/processor (C/P) Coop Program. #####
 
-Link to an amendment published at 84 FR 68812, Dec. 17, 2019.
-
 (a) *General.* The C/P Coop Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary coop. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Coop Program is subject to the following groundfish regulations:
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
@@ -74,9 +72,9 @@ Link to an amendment published at 84 FR 68812, Dec. 17, 2019.
 
 (iii) *C/P coop compliance and joint/several liability.* A C/P coop must comply with the provisions of this section. The C/P coop, member limited entry permit owners, and owners and operators of vessels registered to member limited entry permits, are jointly and severally responsible for compliance with the provisions of this section. Pursuant to 15 CFR part 904, each C/P coop, member permit owner, and owner and operator of a vessel registered to a coop member permit may be charged jointly and severally for violations of the provisions of this section. For purposes of enforcement, a C/P coop is a legal entity that can be subject to NOAA enforcement action for violations of the provisions of this section.
 
-(c) *C/P Coop Program species and allocations* - (1) *C/P Coop Program species.* C/P Coop Program species are as follows:
+(c) *C/P Coop Program species and allocations* - (1) *C/P Coop Program species.* All species other than Pacific whiting are managed with set-asides for the MS and C/P Coop Programs.
 
-(i) Species with formal allocations to the C/P Coop Program are Pacific whiting, canary rockfish, and widow rockfish;
+(i) Species with formal allocations to the C/P Coop Program: Pacific whiting.
 
 (ii) Species with set-asides for the MS and C/P Programs, as described in Table 1d and Table 2d to subpart C of this part.
 
@@ -86,23 +84,17 @@ Link to an amendment published at 84 FR 68812, Dec. 17, 2019.
 
 (ii) In years where the Pacific whiting harvest specification is not known by the start of the catcher/processor sector primary whiting season specified at § 660.131(b)(2)(iii)(A), NMFS will issue Pacific whiting allocations in two parts. Before the start of the primary whiting season, NMFS will allocate Pacific whiting based on the C/P Coop Program allocation percent multiplied by the lower end of the range of potential harvest specifications for Pacific whiting for that year. After the final Pacific whiting harvest specifications are established, NMFS will allocate any additional amounts of Pacific whiting to the C/P Coop Program.
 
-(3) *Non-whiting groundfish species* - (i) Non-whiting groundfish species with a catcher/processor sector allocation are established in accordance with regulation at § 660.55(i). The pounds associated with each species will be provided when the coop permit is issued.
+(3) *Non-whiting groundfish species* - (i) At-sea sector set-asides of non-whiting groundfish species will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on other fisheries, or conservation concerns, in which case inseason action may be taken. Set asides may be adjusted through the biennial specifications and management measures process as necessary.
 
-(A) In years where the groundfish harvest specifications are known by the start of the catcher/processor sector primary whiting season specified at § 660.131(b)(2)(iii)(A), allocation of non-whiting groundfish species with an allocation will be made by the start of the season.
-
-(B) In years where the groundfish harvest specifications are not known by the start of the catcher/processor sector primary whiting season specified at § 660.131(b)(2)(iii)(A), NMFS will issue allocations for non-whiting groundfish species with an allocation in two parts. Before the start of the primary whiting season, NMFS will allocate non-whiting groundfish species with an allocation based on the C/P Coop Program allocation percent multiplied by the lower end of the range of potential harvest specifications for those species for that year. After the final groundfish harvest specifications are established, NMFS will allocate any additional amounts of non-whiting groundfish species with an allocation to the C/P Coop Program.
-
-(ii) Groundfish species with at-sea sector set-asides will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on another fisheries, or conservation concerns in which case inseason action may be taken. Set asides may be adjusted through the biennial specifications and management measures process as necessary.
-
-(iii) Groundfish species not addressed under paragraph (i) or (ii) above, will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on another fisheries, or conservation concerns in which case inseason action may be taken.
+(ii) Groundfish species not addressed in paragraph (c)(3)(i) of this section, will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on other fisheries, or conservation concerns, in which case inseason action may be taken.
 
 (4) *Halibut set-asides.* Annually a specified amount of the Pacific halibut will be held in reserve as a shared set-aside for bycatch in the at-sea Pacific whiting fisheries and the shorebased trawl sector south of 40°10′ N lat.
 
-(5) *Non-whiting groundfish species reapportionment.* The Regional Administrator may make available for harvest to the mothership sector of the Pacific whiting fishery, the amounts of the catcher/processor sector's non-whiting catch allocation remaining when the catcher/processor sector reaches its Pacific whiting allocation or participants in the catcher/processor sector do not intend to harvest the remaining sector allocation. If participants in the sector do not intend to harvest the sector's remaining allocation, the designated coop manager must submit a cease fishing report to NMFS indicating that harvesting has concluded for the year. At any time after greater than 80 percent of the catcher/processor sector Pacific whiting allocation has been harvested, the Regional Administrator may contact the designated coop manager to determine whether they intend to continue fishing. When considering redistribution of non-whiting catch allocation, the Regional Administrator will take into consideration the best available data on total projected fishing impacts.
+(5) [Reserved]
 
-(6) *Reaching the catcher/processor sector allocation.* When the catcher/processor sector allocation of Pacific whiting or non-whiting groundfish catch allocation is reached or is projected to be reached, further taking and retaining, receiving, or at-sea processing by a catcher/processor is prohibited. No additional unprocessed groundfish may be brought on board after at-sea processing is prohibited, but a catcher/processor may continue to process catch that was on board before at-sea processing was prohibited. The catcher/processor sector will close when the allocation of any one species is reached or projected to be reached.
+(6) *Reaching the catcher/processor sector allocation.* When the catcher/processor sector allocation of Pacific whiting is reached or is projected to be reached, further taking and retaining, receiving, or at-sea processing by a catcher/processor is prohibited. No additional unprocessed groundfish may be brought on board after at-sea processing is prohibited, but a catcher/processor may continue to process catch that was on board before at-sea processing was prohibited. The catcher/processor sector will close when the allocation of any one species is reached or projected to be reached.
 
-(7) *Announcements.* The Regional Administrator will announce in the Federal Register when the catcher/processor sector allocation of Pacific whiting or non-whiting groundfish with an allocation is reached, or is projected to be reached, and specify the appropriate action. In order to prevent exceeding an allocation and to avoid underutilizing the resource, prohibitions against further taking and retaining, receiving, or at-sea processing of Pacific whiting, or reapportionment of non-whiting groundfish with allocations may be made effective immediately by actual notice to fishers and processors, by e-mail, Internet (*http://www.nwr.noaa.gov/Groundfish-Halibut/Groundfish-Fishery-Management/Whiting-Management/index.cfm*), phone, fax, letter, press release, and/or USCG Notice to Mariners (monitor channel 16 VHF), followed by publication in the Federal Register, in which instance public comment will be sought for a reasonable period of time thereafter.
+(7) *Announcements.* The Regional Administrator will announce in the Federal Register when the catcher/processor sector allocation of Pacific whiting is reached, or is projected to be reached, and specify the appropriate action. In order to prevent exceeding an allocation and to avoid underutilizing the resource, prohibitions against further taking and retaining, receiving, or at-sea processing of Pacific whiting may be made effective immediately by actual notice to fishers and processors, by email, internet, phone, fax, letter, press release, and/or USCG Notice to Mariners (monitor channel 16 VHF), followed by publication in the Federal Register, in which instance public comment will be sought for a reasonable period of time thereafter.
 
 (d) *C/P coop permit and agreement* - (1) *Eligibility and registration* - (i) *Eligibility.* To be an eligible coop entity a group of C/P-endorsed permit owners (coop members) must be a recognized entity under the laws of the United States or the laws of a State and that represents all of the coop members.
 
@@ -118,7 +110,7 @@ Link to an amendment published at 84 FR 68812, Dec. 17, 2019.
 
 (*ii*) All C/P-endorsed limited entry member permits identified by permit number.
 
-(*iii*) A description of the coop's plan to adequately monitor and account for the catch of Pacific whiting and non-whiting groundfish allocations, and to monitor and account for the catch of prohibited species.
+(*iii*) A description of the coop's plan to adequately monitor and account for the catch of Pacific whiting and non-whiting groundfish, and to monitor and account for the catch of prohibited species.
 
 (*iv*) A clause stating that if a permit is registered to a new permit owner during the effective period of the coop agreement, any new owners of that member permit would be coop members and are required to comply with membership restrictions in the coop agreement.
 
@@ -156,13 +148,15 @@ Link to an amendment published at 84 FR 68812, Dec. 17, 2019.
 
 (4) *Fees.* The Regional Administrator is authorized to charge fees for administrative costs associated with the issuance of a C/P coop permit consistent with the provisions given at § 660.25(f), subpart C.
 
-(e) *C/P-endorsed permit* - (1) *General.* Any vessel participating in the C/P sector of the non-tribal primary Pacific whiting fishery during the season described at § 660.131(b) of this subpart must be registered to a valid limited entry permit with a C/P endorsement. A C/P-endorsed permit is a limited entry permit and is subject to the limited entry permit provisions given at § 660.25(b).
+(e) *C/P-endorsed permit* - (1) *General.* Any vessel participating in the C/P sector of the non-tribal primary Pacific whiting fishery-must be registered to a valid limited entry permit with a C/P endorsement - subject to the limited entry permit provisions given at § 660.25(b).
 
 (i) *Non-severable.* A C/P endorsement is not severable from the limited entry trawl permit, and therefore, the endorsement may not be registered to another permit owner or to another vessel separately from the limited entry trawl permit.
 
 (ii) *Restriction on C/P vessel operating as a catcher vessel in the mothership sector.* A vessel registered to a C/P-endorsed permit cannot operate as a catcher vessel delivering unprocessed Pacific whiting to a mothership processor during the same calendar year it participates in the C/P sector.
 
 (iii) *Restriction on C/P vessel operating as mothership.* A vessel registered to a C/P-endorsed permit cannot operate as a mothership during the same calendar year it participates in the C/P sector.
+
+(iv) *Trawl identification of ownership interest form.* Any person that is applying for or renewing a C/P-endorsed permit shall document those persons that have an ownership interest in the permit greater than or equal to 2 percent. This ownership interest must be documented with the SFD via the Trawl Identification of Ownership Interest Form. SFD will not issue a C/P-endorsed permit unless the Trawl Identification of Ownership Interest Form has been completed.
 
 (2) *Renewal, change in permit ownership, vessel registration, or combination.*
 
@@ -492,7 +486,7 @@ Link to an amendment published at 84 FR 68812, Dec. 17, 2019.
 
 (D) *Appeals.* A certified observer who receives an IAD that suspends or revokes the observer certification may appeal the determination within 30 calendar days after the date on the IAD to the Office of Administrative Appeals pursuant to § 660.19.
 
-(h) *C/P coop failure* - (1) The Regional Administrator will determine that a permitted C/P coop is considered to have failed if any one of the following occurs:
+(h) *C/P coop failure* - (1) *Conditions for determination of coop failure.* The Regional Administrator will determine that a permitted C/P coop has failed if any one of the following occurs:
 
 (i) Any current C/P-endorsed limited entry trawl permit is not identified as a C/P coop member in the coop agreement submitted to NMFS during the C/P coop permit application process;
 
@@ -502,14 +496,44 @@ Link to an amendment published at 84 FR 68812, Dec. 17, 2019.
 
 (iv) The coop agreement is no longer valid.
 
-(2) If the permitted C/P coop dissolves, the designated coop manager must notify NMFS SFD in writing of the dissolution of the coop.
+(2) *Notification of coop failure.* If the permitted C/P coop dissolves, the designated coop manager must notify NMFS SFD in writing of the dissolution of the coop to allow the Regional Administrator to make a determination of coop failure. The Regional Administrator may also make an independent determination of a coop failure based on factual information collected by or provided to NMFS. NMFS will notify the designated coop manager in writing in the event the Regional Administrator determines the coop has failed.
 
-(3) The Regional Administrator may make an independent determination of a coop failure based on factual information collected by or provided to NMFS.
+(3) *Coop permit no longer in effect.* Upon determination of a coop failure, the C/P coop permit will no longer be in effect.
 
-(4) In the event of a NMFS-determined coop failure, or reported failure, the designated coop manager will be notified in writing about NMFS' determination.
+(4) *Conversion to IFQ Fishery.* The C/P sector will convert to an IFQ-based fishery beginning the following calendar year after a determination of a coop failure, or as soon as practicable thereafter. NMFS will develop additional regulations, as necessary to implement an IFQ-based fishery for the C/P sector. Each C/P-endorsed permit will receive an equal amount of QS from the total C/P sector allocation. That QS will not be transferable separate from the C/P-endorsed permit until a determination is made to allow such transfers, necessary regulations are implemented, and public notice is provided. Any use of QP or IBQ pounds associated with C/P endorsed permits is prohibited until the regulations for a C/P sector IFQ system are implemented.
 
-(i) Upon notification of a coop failure, the C/P coop permit will no longer be in effect.
+(5) *Accumulation limits.* C/P Sector accumulation limits will take effect in the event that the C/P coop fails and converts to an IFQ-based fishery. If an IFQ fishery is implemented, any individual or entity may own or control a maximum of five C/P endorsed permits and QS allocations associated with those permits, as described in paragraph (e)(5)(iv) of this section. C/P endorsed permit accumulation limits will only take effect after determination of a coop failure is made and the following administrative process occurs:
 
-(ii) The C/P sector will convert to an IFQ-based fishery beginning the following calendar year after a coop failure, or a soon as practicable thereafter. NMFS will develop additional regulations, as necessary to implement an IFQ fishery for the C/P sector. Each C/P-endorsed permit would receive an equal distribution of QS from the total IFQ for the catcher/processor sector allocation.
+(i) *Divestiture Period.* Upon determination of a coop failure, a divestiture period will occur starting with the date that co-op failure has been determined and running through the date on which an IFQ program is implemented for the C/P sector or another date specified in the IFQ program implementing regulations. During the divestiture period, an individual or entity may not acquire ownership or control over a total of more than five C/P-endorsed permits. Any entity that already owns or controls more than five C/P-endorsed permits may not acquire additional permits. During the divestiture period any entity who owns or controls C/P-endorsed permits may sell or trade any permits it owns. C/P-endorsed permits may be voluntarily abandoned to NMFS using the procedures provided under paragraph (h)(5)(iii) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018]
+(ii) *Divestiture and redistribution process.* After conversion to an IFQ fishery and completion of the divestiture period, any person owning or controlling C/P-endorsed permits must be in compliance with accumulation limits, even if that ownership is not reflected in the ownership records available to NMFS as specified at § 660.140(e)(1)(iv). Permit owners found to exceed the five permit accumulation limit for C/P-endorsed permits after the divestiture period are in violation of the accumulation limits and required to completely divest of ownership or control of C/P-endorsed permits that exceed the accumulation limit. C/P-endorsed permits may be voluntarily abandoned to NMFS using the procedures provided under paragraph (h)(5)(iii) of this section. If NMFS finds that any entity owns or controls more than five C/P-endorsed permits, NMFS will make an Initial Administrative Determination (IAD) that the entity must divest of control or ownership of permits that exceed the accumulation limit within 30 days or NMFS will revoke the excess permits in accordance with § 660.25(h)(2)(ii). The permit owner will have the opportunity to appeal the IAD through the National Appeals Office under the provisions established at 15 CFR part 906. All QS associated with revoked permits will be redistributed to all other C/P-endorsed permit owners in proportion to their QS holdings, based on current ownership records, on or about January 1 of the calendar year following the year in which the permits are revoked. This redistribution process will not allow any entity to receive more than 50 percent of the total QS allocations for the C/P sector.
+
+(iii) *Abandonment of C/P-endorsed permits.* C/P-endorsed permits owners that own or control more than the five permit accumulation limit may voluntarily abandon C/P-endorsed permits if they notify NMFS in writing during the divestiture period specified at paragraph (h)(5)(i) of this section or within 30 days of conversion to an IFQ fishery. The written abandonment request must include the C/P endorsed permit number and the associated QS allocation percentage that will be abandoned. Either the C/P-endorsed permit owner or an authorized representative of the C/P-endorsed permit owner must sign the request. C/P-endorsed permit owners choosing to utilize the abandonment option will permanently relinquish to NMFS any right to the abandoned C/P-endorsed permit, and the QS associated with that permit will be redistributed as described under paragraph (h)(5)(ii) of this section. No compensation will be due for any abandoned permit, or associated QS or QP.
+
+(iv) *Review of C/P-permit ownership interest and accumulation limits.* NMFS may request additional information from C/P-permit owners as necessary to verify compliance with accumulation limits in the event of C/P coop failure and conversion to IFQ fishery. If NMFS discovers through review of the Trawl Identification of Ownership Interest Form that a person is not in compliance with accumulation limits, the person will be subject to divestiture provisions specified in paragraph (h)(5)(ii) of this section.
+
+(v) *Definition of Ownership or Control.* For the purpose of determining ownership or control a person or entity has over a C/P endorsed permit, all of the following criteria apply:
+
+(A) The person or entity has the right to direct, or does direct, in whole or in part, the business of the entity to which the permits are registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
+
+(B) The person or entity has the right to limit the actions of or replace, or does limit the actions of or replace, the chief executive officer, a majority of the board of directors, any general partner, or any person serving in a management capacity of the entity to which the C/P permits are registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
+
+(C) With the exception of banks and other financial institutions that rely on permits as collateral for loans as described under paragraphs (h)(5)(v)(G) of this section, the person or entity has the right to direct, or does direct, and/or the right to prevent or delay, or does prevent or delay, the transfer of the C/P permit associated QS, or the resulting QP.
+
+(D) The person or entity, through loan covenants or any other means, has the right to restrict, or does restrict, and/or has a controlling influence over the day to day business activities or management policies of the entity to which the permits are registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
+
+(E) The person or entity has the right to restrict, or does restrict, any activity related to the C/P permit, associated QS or the resulting QP, including, but not limited to, use of permits, or associated QS, or disposition of fish harvested and processed under the resulting QP, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
+
+(F) The person or entity has the right to control, or does control, the management of, or to be a controlling factor in, the entity to which the C/P permit, associated QS, or the resulting QP, are registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
+
+(G) With the exception of banks and other financial institutions that rely on permits as collateral for loans, the person or entity has the right to cause or prevent, or does cause or prevent, the sale, lease or other disposition of C/P permits, associated QS, or the resulting QP.
+
+(*1*) To qualify for this exception for banks and other financial institutions that rely on permits as collateral for loans, a bank or other financial institution must be regularly or primarily engaged in the business of lending, and must not be engaged in business with, or be controlled by, entities whose primary business is the harvesting, processing, or distribution of fish or fish products.
+
+(*2*) Any state or federally chartered bank or financial institution that meets the requirement of paragraph (h)(5)(v)(G)(1) of this section does not need to submit additional information to NMFS.
+
+(*3*) Any entity that is not a state or federally chartered bank or financial institution must submit a letter requesting the exception and disclose the identity and interest share of any shareholder with a 2 percent or more ownership interest in the lender through submission of the Trawl Identification of Ownership Interest Form (see paragraph (e)(1)(iv) of this section). The lender must make subsequent annual submissions of the letter and Trawl Identification of Ownership Interest Form to maintain the exception. Letters requesting the exception and complete Trawl Identification of Ownership Interest Forms may be submitted to NMFS, West Coast Region, Permits Office, ATTN: Fisheries Permit Office, Bldg. 1, 7600 Sand Point Way NE, Seattle, WA 98115. NMFS will only accept complete applications.
+
+(H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
+
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019]

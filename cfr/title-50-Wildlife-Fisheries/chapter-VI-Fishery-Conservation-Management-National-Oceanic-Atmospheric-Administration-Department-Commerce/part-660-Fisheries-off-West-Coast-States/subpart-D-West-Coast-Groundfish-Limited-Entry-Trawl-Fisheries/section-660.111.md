@@ -1,7 +1,5 @@
 ##### § 660.111 Trawl fishery - definitions. #####
 
-Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
-
 These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11.
 
 *Accumulation limits* mean the maximum extent of permissible ownership, control or use of a privilege within the trawl rationalization program, and include the following:
@@ -44,7 +42,7 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 (2) For the MS Coop Program, the value of all groundfish species (as defined in § 660.11) delivered by a catcher vessel to an MS-permitted vessel.
 
-(3) For the C/P Coop Program, the value as determined by the aggregate pounds of all groundfish species (as defined in § 660.11) harvested by the vessel registered to a C/P-endorsed limited entry trawl permit, multiplied by the MS Coop Program average price per pound as announced pursuant to § 660.115(b)(2).
+(3) For the C/P Coop Program, the value as determined by the aggregate pounds of all groundfish species catch (as defined in § 660.11) retained on board, by the vessel registered to a C/P-endorsed limited entry trawl permit, multiplied by the MS Coop Program average price per pound as announced pursuant to § 660.115(b)(2).
 
 *Fish buyer* means, for the purposes of the cost recovery program specified at § 660.115,
 
@@ -110,4 +108,4 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 *Vessel account* means an account held by the vessel owner where QP and IBQ pounds are registered for use by a vessel in the Shorebased IFQ Program.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78383, Dec. 15, 2010; 76 FR 74739, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 77271, Dec. 14, 2015; 84 FR 63986, Nov. 19, 2019]Editorial Note:At 80 FR 77271, Dec. 14, 2015, § 660.111 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78383, Dec. 15, 2010; 76 FR 74739, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 77271, Dec. 14, 2015; 84 FR 63986, Nov. 19, 2019; 84 FR 68806, Dec. 17, 2019]Editorial Note:At 80 FR 77271, Dec. 14, 2015, § 660.111 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

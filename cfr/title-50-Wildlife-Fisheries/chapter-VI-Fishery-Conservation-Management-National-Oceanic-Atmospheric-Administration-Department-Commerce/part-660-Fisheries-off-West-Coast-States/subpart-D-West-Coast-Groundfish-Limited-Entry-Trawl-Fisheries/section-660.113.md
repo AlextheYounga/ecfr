@@ -1,7 +1,5 @@
 ##### § 660.113 Trawl fishery - recordkeeping and reporting. #####
 
-Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
-
 General groundfish recordkeeping and reporting requirements are defined at § 660.13, subpart C. The following recordkeeping and reporting requirements are in addition to those and are specific to the limited entry trawl fisheries.
 
 (a) *General requirements.* (1) All records or reports required by this paragraph (a) must: be maintained in English, be accurate, be legible, be based on local time, and be submitted in a timely manner.
@@ -15,6 +13,8 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 (ii) All owners of a first receiver site license.
 
 (iii) All owners and lessees of a shorebased processor.
+
+(iv) All owners of a quota share (QS) permit as defined at § 660.25(c).
 
 (2) *Electronic vessel logbook.* [Reserved]
 
@@ -230,13 +230,13 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*1*) The date of harvest,
 
-(*2*) The weight of each species of groundfish harvested,
+(*2*) The weight of each species of groundfish retained on board,
 
 (*3*) Information sufficient to specifically identify the fishing vessel which harvested the groundfish,
 
-(*4*) The ex-vessel value of each species of groundfish,
+(*4*) The ex-vessel value of each species of groundfish retained on board,
 
-(*5*) The net ex-vessel value of each species of groundfish,
+(*5*) The net ex-vessel value of each species of groundfish retained on board,
 
 (*6*) The total fee amount collected as a result of all groundfish.
 
@@ -246,4 +246,4 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*2*) The total amount disbursed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 68806, Dec. 17, 2019]
