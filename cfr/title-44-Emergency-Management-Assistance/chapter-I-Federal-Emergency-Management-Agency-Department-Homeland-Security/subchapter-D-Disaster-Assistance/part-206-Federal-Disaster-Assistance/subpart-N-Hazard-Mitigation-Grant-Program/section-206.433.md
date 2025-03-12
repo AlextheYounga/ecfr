@@ -1,6 +1,6 @@
 ##### § 206.433 State responsibilities. #####
 
-Link to an amendment published at 86 FR 50677, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50677, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) *Grantee.* The State will be the Grantee to which funds are awarded and will be accountable for the use of those funds. There may be subgrantees within the State government.
 

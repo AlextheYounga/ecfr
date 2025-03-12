@@ -1,6 +1,6 @@
 ##### § 80.17 Project implementation. #####
 
-Link to an amendment published at 86 FR 50671, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50671, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) *Hazardous materials.* The subgrantee shall take steps to ensure it does not acquire or include in the project properties contaminated with hazardous materials by seeking information from property owners and from other sources on the use and presence of contaminants affecting the property from owners of properties that are or were industrial or commercial, or adjacent to such. A contaminated property must be certified clean prior to participation. This excludes permitted disposal of incidental demolition and household hazardous wastes. FEMA mitigation grant funds may not be used for clean up or remediation of contaminated properties.
 

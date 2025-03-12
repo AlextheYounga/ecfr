@@ -1,0 +1,3 @@
+##### § 316.907 Tenure upon appointment. #####
+
+An individual appointed under § 316.901 becomes a career-conditional employee upon completion of academic requirements and noncompetitive conversion to a permanent appointment in accordance with § 316.910, unless the individual has already satisfied the requirements for career tenure or is exempt from the service requirement pursuant to § 315.201 of this chapter.

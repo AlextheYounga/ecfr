@@ -1,6 +1,6 @@
 ##### § 80.21 Closeout requirements. #####
 
-Link to an amendment published at 86 FR 50672, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50672, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 Upon closeout of the grant, the subgrantee, through the grantee, shall provide FEMA, with the following:
 

@@ -1,6 +1,6 @@
 ##### § 80.3 Definitions. #####
 
-Link to an amendment published at 86 FR 50670, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50670, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) Except as noted in this part, the definitions applicable to the funding program apply to implementation of this part. In addition, for purposes of this part:
 

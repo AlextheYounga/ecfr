@@ -38,9 +38,7 @@
 
 (16) Helicopter cranes.
 
-(17) *Material Delivery*
-
-(i) Articulating/knuckle-boom truck cranes that deliver material to a construction site when used to transfer materials from the truck crane to the ground, without arranging the materials in a particular sequence for hoisting.
+(17) Material delivery. (i) Articulating/knuckle-boom truck cranes that deliver material to a construction site when used to transfer materials from the truck crane to the ground, without arranging the materials in a particular sequence for hoisting.
 
 (ii) Articulating/knuckle-boom truck cranes that deliver material to a construction site when the crane is used to transfer building supply sheet goods or building supply packaged materials from the truck crane onto a structure, using a fork/cradle at the end of the boom, but only when the truck crane is equipped with a properly functioning automatic overload prevention device. Such sheet goods or packaged materials include, but are not limited to: Sheets of sheet rock, sheets of plywood, bags of cement, sheets or packages of roofing shingles, and rolls of roofing felt.
 

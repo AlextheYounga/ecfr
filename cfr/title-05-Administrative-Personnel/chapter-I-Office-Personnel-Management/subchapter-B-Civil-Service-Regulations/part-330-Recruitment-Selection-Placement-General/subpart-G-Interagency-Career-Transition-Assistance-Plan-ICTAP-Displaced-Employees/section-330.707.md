@@ -1,7 +1,5 @@
 ##### § 330.707 Exceptions to ICTAP selection priority. #####
 
-Link to an amendment published at 86 FR 46109, Aug. 18, 2021.
-
 An agency may take the following personnel actions as exceptions to § 330.705:
 
 (a) Place a current or reinstate a former agency employee with RPL selection priority under subpart B of this part;
@@ -22,9 +20,11 @@ An agency may take the following personnel actions as exceptions to § 330.705:
 
 (1) A Veterans Recruitment Appointment under part 307 of this chapter;
 
-(2) An appointment under 5 U.S.C. 3112 and part 316 of this chapter of a veteran with a compensable service-connected disability of 30 percent or more; and
+(2) An appointment under 5 U.S.C. 3112 and part 316 of this chapter of a veteran with a compensable service-connected disability of 30 percent or more;
 
-(3) An excepted service appointment under part 213 of this chapter;
+(3) An excepted service appointment under part 213 of this chapter; and
+
+(4) A post-secondary student appointment under 5 U.S.C. 3116 and part 316, subpart I, of this chapter;
 
 (i) Transfer an employee between agencies under appropriate authority during an interagency reorganization, interagency transfer of function, or interagency mass transfer;
 
@@ -50,8 +50,12 @@ An agency may take the following personnel actions as exceptions to § 330.705:
 
 (t) Transfer or reinstate an ICTAP eligible who meets the agency's definition of “well-qualified”;
 
-(u) Transfer an employee voluntarily from one agency to another under a Memorandum of Understanding or similar agreement under appropriate authority resulting from an interagency reorganization, interagency transfer of function, or interagency realignment, when both the agencies and the affected employee agree to the transfer; or
+(u) Transfer an employee voluntarily from one agency to another under a Memorandum of Understanding or similar agreement under appropriate authority resulting from an interagency reorganization, interagency transfer of function, or interagency realignment, when both the agencies and the affected employee agree to the transfer;
 
-(v) Transfer or a position change of an employee under part 412 of this chapter.
+(v) Transfer or a position change of an employee under part 412 of this chapter or
 
-[75 FR 67593, Nov. 3, 2010, as amended at 77 FR 28215, May 11, 2012]
+(w)-(x) [Reserved]
+
+(y) Make an appointment using the post-secondary student hiring authority under 5 U.S.C. 3116 and part 316, subpart I, of this chapter.
+
+[75 FR 67593, Nov. 3, 2010, as amended at 77 FR 28215, May 11, 2012; 86 FR 46109, Aug. 18, 2021]

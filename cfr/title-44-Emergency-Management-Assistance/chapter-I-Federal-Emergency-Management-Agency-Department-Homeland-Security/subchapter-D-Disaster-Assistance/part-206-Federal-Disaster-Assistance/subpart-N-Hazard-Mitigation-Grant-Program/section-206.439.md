@@ -1,6 +1,6 @@
 ##### § 206.439 Allowable costs. #####
 
-Link to an amendment published at 86 FR 50679, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50679, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) General requirements for determining allowable costs are established in 2 CFR part 200, Cost Principles. Exceptions to those requirements as allowed in 2 CFR 200.101 and 2 CFR 200.102 are explained in paragraph (b) of this section.
 

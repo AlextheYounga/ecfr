@@ -1,12 +1,12 @@
 ##### § 1926.416 General requirements. #####
 
-(a) *Protection of employees* - (1) No employer shall permit an employee to work in such proximity to any part of an electric power circuit that the employee could contact the electric power circuit in the course of work, unless the employee is protected against electric shock by deenergizing the circuit and grounding it or by guarding it effectively by insulation or other means.
+(a) *Protection of employees.* (1) No employer shall permit an employee to work in such proximity to any part of an electric power circuit that the employee could contact the electric power circuit in the course of work, unless the employee is protected against electric shock by deenergizing the circuit and grounding it or by guarding it effectively by insulation or other means.
 
 (2) In work areas where the exact location of underground electric powerlines is unknown, employees using jack-hammers, bars, or other hand tools which may contact a line shall be provided with insulated protective gloves.
 
 (3) Before work is begun the employer shall ascertain by inquiry or direct observation, or by instruments, whether any part of an energized electric power circuit, exposed or concealed, is so located that the performance of the work may bring any person, tool, or machine into physical or electrical contact with the electric power circuit. The employer shall post and maintain proper warning signs where such a circuit exists. The employer shall advise employees of the location of such lines, the hazards involved, and the protective measures to be taken.
 
-(b) *Passageways and open spaces* - -(1) Barriers or other means of guarding shall be provided to ensure that workspace for electrical equipment will not be used as a passageway during periods when energized parts of electrical equipment are exposed.
+(b) *Passageways and open spaces*—-(1) Barriers or other means of guarding shall be provided to ensure that workspace for electrical equipment will not be used as a passageway during periods when energized parts of electrical equipment are exposed.
 
 (2) Working spaces, walkways, and similar locations shall be kept clear of cords so as not to create a hazard to employees.
 

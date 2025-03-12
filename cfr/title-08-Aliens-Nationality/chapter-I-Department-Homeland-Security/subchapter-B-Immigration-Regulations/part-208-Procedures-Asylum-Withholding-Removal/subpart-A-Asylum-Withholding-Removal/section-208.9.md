@@ -1,5 +1,7 @@
 ##### § 208.9 Procedure for interview before an asylum officer. #####
 
+Link to an amendment published at 86 FR 51781, Sept. 17, 2021.Link to an amendment published at 86 FR 51788, Sept. 17, 2021.
+
 (a) The Service shall adjudicate the claim of each asylum applicant whose application is complete within the meaning of § 208.3(c)(3) and is within the jurisdiction of the Service.
 
 (b) The asylum officer shall conduct the interview in a nonadversarial manner and, except at the request of the applicant, separate and apart from the general public. The purpose of the interview shall be to elicit all relevant and useful information bearing on the applicant's eligibility for asylum. At the time of the interview, the applicant must provide complete information regarding his or her identity, including name, date and place of birth, and nationality, and may be required to register this identity. The applicant may have counsel or a representative present, may present witnesses, and may submit affidavits of witnesses and other evidence.

@@ -1,5 +1,7 @@
 ##### § 697.21 Gear identification and marking, escape vent, maximum trap size, and ghost panel requirements. #####
 
+Link to an amendment published at 86 FR 52023, Sept. 17, 2021.
+
 (a) *Gear identification and marking.* All lobster gear deployed or possessed in the EEZ, or, deployed or possessed by a person on or from a vessel issued a Federal limited access American lobster permit, and not permanently attached to the vessel must be legibly and indelibly marked with the following:
 
 (1) *Identification.* Effective through April 30, 2000, all lobster gear must be marked with the following code of identification:

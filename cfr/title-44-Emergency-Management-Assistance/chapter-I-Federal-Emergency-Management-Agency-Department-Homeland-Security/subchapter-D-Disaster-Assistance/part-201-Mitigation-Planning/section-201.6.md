@@ -1,6 +1,6 @@
 ##### § 201.6 Local Mitigation Plans. #####
 
-Link to an amendment published at 86 FR 50674, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50674, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 The local mitigation plan is the representation of the jurisdiction's commitment to reduce risks from natural hazards, serving as a guide for decision makers as they commit resources to reducing the effects of natural hazards. Local plans will also serve as the basis for the State to provide technical assistance and to prioritize project funding.
 

@@ -1,6 +1,6 @@
 ##### § 206.432 Federal grant assistance. #####
 
-Link to an amendment published at 86 FR 50677, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50677, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) *General.* This section describes the extent of Federal funding available under the State's grant, as well as limitations and special procedures applicable to each.
 

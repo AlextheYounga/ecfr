@@ -1,6 +1,6 @@
 ##### § 206.438 Project management. #####
 
-Link to an amendment published at 86 FR 50678, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50678, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) *General.* The State serving as grantee has primary responsibility for project management and accountability of funds as indicated in 2 CFR parts 200 and 3002 and 44 CFR part 206. The State is responsible for ensuring that subgrantees meet all program and administrative requirements.
 

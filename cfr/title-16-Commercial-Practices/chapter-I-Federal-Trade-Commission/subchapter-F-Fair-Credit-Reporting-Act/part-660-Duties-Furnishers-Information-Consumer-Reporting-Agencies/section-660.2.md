@@ -1,5 +1,7 @@
 ##### § 660.2 Definitions. #####
 
+Link to an amendment published at 86 FR 51821, Sept. 17, 2021.
+
 For purposes of this part and appendix A of this part, the following definitions apply:
 
 (a) *Accuracy* means that information that a furnisher provides to a consumer reporting agency about an account or other relationship with the consumer correctly:

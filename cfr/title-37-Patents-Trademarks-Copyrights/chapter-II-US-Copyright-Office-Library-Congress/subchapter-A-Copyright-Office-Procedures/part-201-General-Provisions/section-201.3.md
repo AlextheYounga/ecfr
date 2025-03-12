@@ -1,7 +1,5 @@
 ##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Section. #####
 
-Link to an amendment published at 86 FR 46122, Aug. 18, 2021.
-
 (a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Section.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -96,19 +94,20 @@ Table 1 to Paragraph (d)
 |                               (6) Copying of Copyright Office records by staff                               |      12      |
 |                                   (7)(i) Special handling fee for a claim                                    |     800      |
 |                 (ii) Handling fee for each non-special handling claim using the same deposit                 |      50      |
-|                            (8) Special handling fee for recordation of a document                            |     550      |
-|                          (9) Handling fee for extra deposit copy for certification                           |      50      |
-|                               (10) Full-term retention of a published deposit:                               |              |
+|                         (8) Small claims expedited registration fee for each request                         |     $50      |
+|                            (9) Special handling fee for recordation of a document                            |     550      |
+|                          (10) Handling fee for extra deposit copy for certification                          |      50      |
+|                               (11) Full-term retention of a published deposit:                               |              |
 |                                             (i) Physical deposit                                             |     540      |
 |                                           (ii) Electronic deposit                                            |     220      |
-|                                 (11) Voluntary cancellation of registration                                  |     150      |
-|                          (12) Matching unidentified deposit to deposit ticket claim                          |      40      |
-|(13) Special handling fee for records retrieval, search, and certification services (per hour, 1 hour minimum)|     500      |
-|                                     (14) Litigation statement (Form LS)                                      |     100      |
-|                                   (15)(i) Notice to libraries and archives                                   |      50      |
+|                                 (12) Voluntary cancellation of registration                                  |     150      |
+|                          (13) Matching unidentified deposit to deposit ticket claim                          |      40      |
+|(14) Special handling fee for records retrieval, search, and certification services (per hour, 1 hour minimum)|     500      |
+|                                     (15) Litigation statement (Form LS)                                      |     100      |
+|                                   (16)(i) Notice to libraries and archives                                   |      50      |
 |                                          (ii) Each additional title                                          |      20      |
-|                               (16) Service charge for Federal Express mailing                                |      45      |
-|            (17) Service charge for delivery of documents via facsimile (per page, 7 page maximum)            |      1       |
+|                               (17) Service charge for Federal Express mailing                                |      45      |
+|            (18) Service charge for delivery of documents via facsimile (per page, 7 page maximum)            |      1       |
 
 (e) *Licensing Section service fees.* The Copyright Office has established the following fees for specific services of the Licensing Section:
 
@@ -131,4 +130,4 @@ Table 1 to Paragraph (e)
 
 (f) *Fees for travel in connection with educational activities.* For travel expenses in connection with Copyright Office educational activities when participation by Copyright Office personnel has been requested by another organization or person and that organization or person has agreed to pay such expenses, collection of the fee shall be subject to, and the amount of the fee shall be no greater than, the amount authorized under the Federal Travel Regulations found in Chapters 300 through 304 of Title 41.
 
-[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021; 86 FR 32641, June 22, 2021]
+[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021; 86 FR 32641, June 22, 2021; 86 FR 46122, Aug. 18, 2021]

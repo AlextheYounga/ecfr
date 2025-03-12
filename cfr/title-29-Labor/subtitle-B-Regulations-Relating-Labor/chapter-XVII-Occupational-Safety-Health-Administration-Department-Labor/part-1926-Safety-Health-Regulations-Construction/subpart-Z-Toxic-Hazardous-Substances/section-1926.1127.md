@@ -44,7 +44,7 @@
 
 (c) *Permissible Exposure Limit (PEL).* The employer shall assure that no employee is exposed to an airborne concentration of cadmium in excess of five micrograms per cubic meter of air (5 µg/m3), calculated as an eight-hour time-weighted average exposure (TWA).
 
-(d) *Exposure Monitoring* - (1) *General.* (i) Prior to the performance of any construction work where employees may be potentially exposed to cadmium, the employer shall establish the applicability of this standard by determining whether cadmium is present in the workplace and whether there is the possibility that employee exposures will be at or above the action level. The employer shall designate a competent person who shall make this determination. Investigation and material testing techniques shall be used, as appropriate, in the determination. Investigation shall include a review of relevant plans, past reports, Safety Data Sheets (SDS), and other available records, and consultations with the property owner and discussions with appropriate individuals and agencies.
+(d) *Exposure Monitoring*—(1) *General.* (i) Prior to the performance of any construction work where employees may be potentially exposed to cadmium, the employer shall establish the applicability of this standard by determining whether cadmium is present in the workplace and whether there is the possibility that employee exposures will be at or above the action level. The employer shall designate a competent person who shall make this determination. Investigation and material testing techniques shall be used, as appropriate, in the determination. Investigation shall include a review of relevant plans, past reports, Safety Data Sheets (SDS), and other available records, and consultations with the property owner and discussions with appropriate individuals and agencies.
 
 (ii) Where cadmium has been determined to be present in the workplace, and it has been determined that there is a possibility the employee's exposure will be at or above the action level, the competent person shall identify employees potentially exposed to cadmium at or above the action level.
 
@@ -72,7 +72,7 @@
 
 (6) *Accuracy of measurement.* The employer shall use a method of monitoring and analysis that has an accuracy of not less than plus or minus 25 percent (±25%), with a confidence level of 95 percent, for airborne concentrations of cadmium at or above the action level and the permissible exposure limit.
 
-(e) *Regulated areas* - (1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of cadmium is, or can reasonably be expected to be in excess of the permissible exposure limit (PEL).
+(e) *Regulated areas*—(1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of cadmium is, or can reasonably be expected to be in excess of the permissible exposure limit (PEL).
 
 (2) *Demarcation.* Regulated areas shall be demarcated from the rest of the workplace in any manner that adequately establishes and alerts employees of the boundaries of the regulated area, including employees who are or may be incidentally in the regulated areas, and that protects persons outside the area from exposure to airborne concentrations of cadmium in excess of the PEL.
 
@@ -82,7 +82,7 @@
 
 (5) *Prohibited activities.* The employer shall assure that employees do not eat, drink, smoke, chew tobacco or gum, or apply cosmetics in regulated areas, or carry the products associated with any of these activities into regulated areas or store such products in those areas.
 
-(f) *Methods of compliance* - (1) *Compliance hierarchy.* (i) Except as specified in paragraph (f)(1)(ii) of this section, the employer shall implement engineering and work practice controls to reduce and maintain employee exposure to cadmium at or below the PEL, except to the extent that the employer can demonstrate that such controls are not feasible.
+(f) *Methods of compliance*—(1) *Compliance hierarchy.* (i) Except as specified in paragraph (f)(1)(ii) of this section, the employer shall implement engineering and work practice controls to reduce and maintain employee exposure to cadmium at or below the PEL, except to the extent that the employer can demonstrate that such controls are not feasible.
 
 (ii) The requirement to implement engineering controls to achieve the PEL does not apply where the employer demonstrates the following:
 
@@ -94,7 +94,7 @@
 
 (iv) The employer shall not use employee rotation as a method of compliance.
 
-(2) *Specific operations* - (i) *Abrasive blasting.* Abrasive blasting on cadmium or cadmium-containing materials shall be conducted in a manner that will provide adequate protection.
+(2) *Specific operations*—(i) *Abrasive blasting.* Abrasive blasting on cadmium or cadmium-containing materials shall be conducted in a manner that will provide adequate protection.
 
 (ii) *Heating cadmium and cadmium-containing materials.* Welding, cutting, and other forms of heating of cadmium or cadmium-containing materials shall be conducted in accordance with the requirements of 29 CFR 1926.353 and 29 CFR 1926.354, where applicable.
 
@@ -118,7 +118,7 @@
 
 (iv) Written compliance programs shall be provided upon request for examination and copying to the Assistant Secretary, the Director, affected employees, and designated employee representatives.
 
-(g) *Respirator protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(g) *Respirator protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls when employee exposures exceed the PEL.
 
@@ -152,7 +152,7 @@
 
 (h) *Emergency situations.* The employer shall develop and implement a written plan for dealing with emergency situations involving substantial releases of airborne cadmium. The plan shall include provisions for the use of appropriate respirators and personal protective equipment. In addition, employees not essential to correcting the emergency situation shall be restricted from the area and normal operations halted in that area until the emergency is abated.
 
-(i) *Protective work clothing and equipment* - (1) *Provision and use.* If an employee is exposed to airborne cadmium above the PEL or where skin or eye irritation is associated with cadmium exposure at any level, the employer shall provide at no cost to the employee, and assure that the employee uses, appropriate protective work clothing and equipment that prevents contamination of the employee and the employee's garments. Protective work clothing and equipment includes, but is not limited to:
+(i) *Protective work clothing and equipment*—(1) *Provision and use.* If an employee is exposed to airborne cadmium above the PEL or where skin or eye irritation is associated with cadmium exposure at any level, the employer shall provide at no cost to the employee, and assure that the employee uses, appropriate protective work clothing and equipment that prevents contamination of the employee and the employee's garments. Protective work clothing and equipment includes, but is not limited to:
 
 (i) Coveralls or similar full-body work clothing;
 
@@ -178,7 +178,7 @@
 
 (v) The employer shall inform any person who launders or cleans protective clothing or equipment contaminated with cadmium of the potentially harmful effects of exposure to cadmium, and that the clothing and equipment should be laundered or cleaned in a manner to effectively prevent the release of airborne cadmium in excess of the PEL.
 
-(j) *Hygiene areas and practices* - (1) *General.* For employees whose airborne exposure to cadmium is above the PEL, the employer shall provide clean change rooms, handwashing facilities, showers, and lunchroom facilities that comply with 29 CFR 1926.51.
+(j) *Hygiene areas and practices*—(1) *General.* For employees whose airborne exposure to cadmium is above the PEL, the employer shall provide clean change rooms, handwashing facilities, showers, and lunchroom facilities that comply with 29 CFR 1926.51.
 
 (2) *Change rooms.* The employer shall assure that change rooms are equipped with separate storage facilities for street clothes and for protective clothing and equipment, which are designed to prevent dispersion of cadmium and contamination of the employee's street clothes.
 
@@ -204,13 +204,13 @@
 
 (7) Waste, scrap, debris, bags, and containers, personal protective equipment and clothing contaminated with cadmium and consigned for disposal shall be collected and disposed of in sealed impermeable bags or other closed, impermeable containers. These bags and containers shall be labeled in accordance with paragraph (m)(3)(ii) of this section.
 
-(l) *Medical Surveillance* - (1) *General* - (i) *Scope* - (A) *Currently exposed* - The employer shall institute a medical surveillance program for all employees who are or may be exposed at or above the action level and all employees who perform the following tasks, operations or jobs: Electrical grounding with cadmium welding; cutting, brazing, burning, grinding or welding on surfaces that were painted with cadmium-containing paints; electrical work using cadmium-coated conduit; use of cadmium containing paints; cutting and welding cadmium-plated steel; brazing or welding with cadmium alloys; fusing of reinforced steel by cadmium welding; maintaining or retrofitting cadmium-coated equipment; and, wrecking and demolition where cadmium is present. A medical surveillance program will not be required if the employer demonstrates that the employee:
+(l) *Medical Surveillance*—(1) *General*—(i) *Scope*—(A) *Currently exposed*—The employer shall institute a medical surveillance program for all employees who are or may be exposed at or above the action level and all employees who perform the following tasks, operations or jobs: Electrical grounding with cadmium welding; cutting, brazing, burning, grinding or welding on surfaces that were painted with cadmium-containing paints; electrical work using cadmium-coated conduit; use of cadmium containing paints; cutting and welding cadmium-plated steel; brazing or welding with cadmium alloys; fusing of reinforced steel by cadmium welding; maintaining or retrofitting cadmium-coated equipment; and, wrecking and demolition where cadmium is present. A medical surveillance program will not be required if the employer demonstrates that the employee:
 
 (*1*) Is not currently exposed by the employer to airborne concentrations of cadmium at or above the action level on 30 or more days per year (twelve consecutive months); and,
 
 (*2*) Is not currently exposed by the employer in those tasks on 30 or more days per year (twelve consecutive months).
 
-(B) *Previously exposed -* The employer shall also institute a medical surveillance program for all employees who might previously have been exposed to cadmium by the employer prior to the effective date of this standard in tasks specified under paragraph (l)(1)(i)(A) of this section, unless the employer demonstrates that the employee did not in the years prior to the effective date of this section work in those tasks for the employer with exposure to cadmium for an aggregated total of more than 12 months.
+(B) *Previously exposed.* The employer shall also institute a medical surveillance program for all employees who might previously have been exposed to cadmium by the employer prior to the effective date of this standard in tasks specified under paragraph (l)(1)(i)(A) of this section, unless the employer demonstrates that the employee did not in the years prior to the effective date of this section work in those tasks for the employer with exposure to cadmium for an aggregated total of more than 12 months.
 
 (ii) To determine an employee's fitness for using a respirator, the employer shall provide the limited medical examination specified in paragraph (l)(6) of this section.
 
@@ -376,7 +376,7 @@
 
 (iii) The employer shall instruct the physician not to reveal orally or in the written medical opinion given to the employer specific findings or diagnoses unrelated to occupational exposure to cadmium.
 
-(11) *Medical Removal Protection (MRP)* - (i) *General.* (A) The employer shall temporarily remove an employee from work where there is excess exposure to cadmium on each occasion that medical removal is required under paragraphs (l)(3), (l)(4), or (l)(6) of this section and on each occasion that a physician determines in a written medical opinion that the employee should be removed from such exposure. The physician's determination may be based on biological monitoring results, inability to wear a respirator, evidence of illness, other signs or symptoms of cadmium-related dysfunction or disease, or any other reason deemed medically sufficient by the physician.
+(11) *Medical Removal Protection (MRP)*—(i) *General.* (A) The employer shall temporarily remove an employee from work where there is excess exposure to cadmium on each occasion that medical removal is required under paragraphs (l)(3), (l)(4), or (l)(6) of this section and on each occasion that a physician determines in a written medical opinion that the employee should be removed from such exposure. The physician's determination may be based on biological monitoring results, inability to wear a respirator, evidence of illness, other signs or symptoms of cadmium-related dysfunction or disease, or any other reason deemed medically sufficient by the physician.
 
 (B) The employer shall medically remove an employee in accordance with paragraph (l)(11) of this section regardless of whether at the time of removal a job is available into which the removed employee may be transferred.
 
@@ -440,7 +440,7 @@
 
 (16) *Reporting.* In addition to other medical events that are required to be reported on the OSHA Form No. 200, the employer shall report any abnormal condition or disorder caused by occupational exposure to cadmium associated with employment as specified in Chapter (V)(E) of the *Reporting Guidelines for Occupational Injuries and Illnesses.*
 
-(m) *Communication of cadmium hazards to employees* - (1) *Hazard communication.* The employer shall include cadmium in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of cadmium and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (m)(4) of this section. The employer shall provide information on at least the following hazards: Cancer; lung effects; kidney effects; and acute toxicity effects.
+(m) *Communication of cadmium hazards to employees*—(1) *Hazard communication.* The employer shall include cadmium in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of cadmium and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (m)(4) of this section. The employer shall provide information on at least the following hazards: Cancer; lung effects; kidney effects; and acute toxicity effects.
 
 (2) *Warning signs.* (i) Warning signs shall be provided and displayed in regulated areas. In addition, warning signs shall be posted at all approaches to regulated areas so that an employee may read the signs and take necessary protective steps before entering the area.
 
@@ -496,7 +496,7 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (5) *Multi-employer workplace.* In a multi-employer workplace, an employer who produces, uses, or stores cadmium in a manner that may expose employees of other employers to cadmium shall notify those employers of the potential hazard in accordance with paragraph (e) of the hazard communication standard for construction, 29 CFR 1926.59.
 
-(n) *Recordkeeping* - (1) *Exposure monitoring.* (i) The employer shall establish and keep an accurate record of all air monitoring for cadmium in the workplace.
+(n) *Recordkeeping*—(1) *Exposure monitoring.* (i) The employer shall establish and keep an accurate record of all air monitoring for cadmium in the workplace.
 
 (ii) This record shall include at least the following information:
 
@@ -542,7 +542,7 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (ii) Within 15 days after a request, the employer shall make an employee's medical records required to be kept by paragraph (n)(3) of this section available for examination and copying to the subject employee, to designated representatives, to anyone having the specific written consent of the subject employee, and after the employee's death or incapacitation, to the employee's family members.
 
-(o) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to cadmium.
+(o) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to cadmium.
 
 (2) *Observation procedures.* When observation of monitoring requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide the observer with that clothing and equipment and shall assure that the observer uses such clothing and equipment and complies with all other applicable safety and health procedures.
 
@@ -550,23 +550,23 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (q) *Appendices.* Except where portions of appendices A, B, D, E, and F to this section are expressly incorporated in requirements of this section, these appendices are purely informational and are not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
 
-Appendix A to § 1926.1127 - Substance Safety Data SheetNote:
+Appendix A to § 1926.1127—Substance Safety Data SheetNote:
 
 The requirements applicable to construction work under this appendix A are identical to those set forth in appendix A to § 1910.1027 of this chapter.
 
-Appendix B to § 1926.1127 - Substance Technical Guidelines for CadmiumNote:
+Appendix B to § 1926.1127—Substance Technical Guidelines for CadmiumNote:
 
 The requirements applicable to construction work under this appendix B are identical to those set forth in appendix B to § 1910.1027 of this chapter.
 
-Appendix C to § 1926.1127 [Reserved]Appendix D to § 1926.1127 - Occupational Health History Interview With Reference to Cadmium ExposureNote:
+Appendix C to § 1926.1127 [Reserved]Appendix D to § 1926.1127—Occupational Health History Interview With Reference to Cadmium ExposureNote:
 
 The requirements applicable to construction work under this appendix D are identical to those set forth in appendix D to § 1910.1027 of this chapter.
 
-Appendix E to § 1926.1127 - Cadmium in Workplace AtmospheresNote:
+Appendix E to § 1926.1127—Cadmium in Workplace AtmospheresNote:
 
 The requirements applicable to construction work under this appendix E are identical to those set forth in appendix E to § 1910.1027 of this chapter.
 
-Appendix F to § 1926.1127 - Nonmandatory Protocol for Biological MonitoringNote:
+Appendix F to § 1926.1127—Nonmandatory Protocol for Biological MonitoringNote:
 
 The requirements applicable to construction work under this appendix F are identical to those set forth in appendix F to § 1910.1027 of this chapter.
 

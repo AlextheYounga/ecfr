@@ -1,5 +1,7 @@
 ##### § 229.2 Definitions. #####
 
+Link to an amendment published at 86 FR 52011, Sept. 17, 2021.
+
 In addition to the definitions contained in the Act and § 216.3 of this chapter, and unless otherwise defined in this chapter, the terms in this chapter have the following meaning:
 
 *Act* or *MMPA* means the Marine Mammal Protection Act of 1972, as amended (16 U.S.C. 1361 *et seq.*).

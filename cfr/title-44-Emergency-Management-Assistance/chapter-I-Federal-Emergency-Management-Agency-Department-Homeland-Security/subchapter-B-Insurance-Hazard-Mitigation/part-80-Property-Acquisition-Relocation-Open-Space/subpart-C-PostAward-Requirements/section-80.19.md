@@ -1,6 +1,6 @@
 ##### § 80.19 Land use and oversight. #####
 
-Link to an amendment published at 86 FR 50672, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50672, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 This section applies to acquisitions for open space projects to address flood hazards. If the Administrator determines to mitigate in other circumstances, he/she will adapt the provisions of this section as appropriate.
 

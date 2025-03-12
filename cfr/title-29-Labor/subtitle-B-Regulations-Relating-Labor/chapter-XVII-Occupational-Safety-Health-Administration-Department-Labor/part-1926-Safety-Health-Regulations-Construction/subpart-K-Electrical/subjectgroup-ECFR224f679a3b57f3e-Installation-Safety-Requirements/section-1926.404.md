@@ -1,12 +1,12 @@
 ##### § 1926.404 Wiring design and protection. #####
 
-(a) *Use and identification of grounded and grounding conductors* - (1) *Identification of conductors.* A conductor used as a grounded conductor shall be identifiable and distinguishable from all other conductors. A conductor used as an equipment grounding conductor shall be identifiable and distinguishable from all other conductors.
+(a) *Use and identification of grounded and grounding conductors*—(1) *Identification of conductors.* A conductor used as a grounded conductor shall be identifiable and distinguishable from all other conductors. A conductor used as an equipment grounding conductor shall be identifiable and distinguishable from all other conductors.
 
 (2) *Polarity of connections.* No grounded conductor shall be attached to any terminal or lead so as to reverse designated polarity.
 
 (3) *Use of grounding terminals and devices.* A grounding terminal or grounding-type device on a receptacle, cord connector, or attachment plug shall not be used for purposes other than grounding.
 
-(b) *Branch circuits* - (1) *Ground-fault protection* - (i) *General.* The employer shall use either ground fault circuit interrupters as specified in paragraph (b)(1)(ii) of this section or an assured equipment grounding conductor program as specified in paragraph (b)(1)(iii) of this section to protect employees on construction sites. These requirements are in addition to any other requirements for equipment grounding conductors.
+(b) *Branch circuits*—(1) *Ground-fault protection*—(i) *General.* The employer shall use either ground fault circuit interrupters as specified in paragraph (b)(1)(ii) of this section or an assured equipment grounding conductor program as specified in paragraph (b)(1)(iii) of this section to protect employees on construction sites. These requirements are in addition to any other requirements for equipment grounding conductors.
 
 (ii) *Ground-fault circuit interrupters.* All 120-volt, single-phase, 15- and 20-ampere receptacle outlets on construction sites, which are not a part of the permanent wiring of the building or structure and which are in use by employees, shall have approved ground-fault circuit interrupters for personnel protection. Receptacles on a two-wire, single-phase portable or vehicle-mounted generator rated not more than 5kW, where the circuit conductors of the generator are insulated from the generator frame and all other grounded surfaces, need not be protected with ground-fault circuit interrupters.
 
@@ -46,8 +46,6 @@
 
 (iii) *Receptacles used for the connection of motors.* The rating of an attachment plug or receptacle used for cord- and plug-connection of a motor to a branch circuit shall not exceed 15 amperes at 125 volts or 10 amperes at 250 volts if individual overload protection is omitted.
 
-Table K-4 - Receptacle Ratings for Various Size Circuits
-
 |Circuit rating amperes|Receptacle rating amperes|
 |----------------------|-------------------------|
 |          15          |      Not over 15.       |
@@ -56,25 +54,25 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 |          40          |        40 or 50.        |
 |          50          |           50.           |
 
-(c) *Outside conductors and lamps* - (1) *600 volts, nominal, or less.* Paragraphs (c)(1)(i) through (c)(1)(iv) of this section apply to branch circuit, feeder, and service conductors rated 600 volts, nominal, or less and run outdoors as open conductors.
+(c) *Outside conductors and lamps*—(1) *600 volts, nominal, or less.* Paragraphs (c)(1)(i) through (c)(1)(iv) of this section apply to branch circuit, feeder, and service conductors rated 600 volts, nominal, or less and run outdoors as open conductors.
 
 (i) *Conductors on poles.* Conductors supported on poles shall provide a horizontal climbing space not less than the following:
 
-(A) Power conductors below communication conductors - 30 inches (762 mm) .
+(A) Power conductors below communication conductors—30 inches (762 mm) .
 
-(B) Power conductors alone or above communication conductors: 300 volts or less - 24 inches (610 mm); more than 300 volts - 30 inches (762 mm).
+(B) Power conductors alone or above communication conductors: 300 volts or less—24 inches (610 mm); more than 300 volts—30 inches (762 mm).
 
-(C) Communication conductors below power conductors: with power conductors 300 volts or less - 24 inches (610 mm); more than 300 volts - 30 inches (762 mm).
+(C) Communication conductors below power conductors: with power conductors 300 volts or less—24 inches (610 mm); more than 300 volts—30 inches (762 mm).
 
 (ii) *Clearance from ground.* Open conductors shall conform to the following minimum clearances:
 
-(A) 10 feet (3.05 m) - above finished grade, sidewalks, or from any platform or projection from which they might be reached.
+(A) 10 feet (3.05 m)—above finished grade, sidewalks, or from any platform or projection from which they might be reached.
 
-(B) 12 feet (3.66 m) - over areas subject to vehicular traffic other than truck traffic.
+(B) 12 feet (3.66 m)—over areas subject to vehicular traffic other than truck traffic.
 
-(C) 15 feet (4.57 m) - over areas other than those specified in paragraph (c)(1)(ii)(D) of this section that are subject to truck traffic.
+(C) 15 feet (4.57 m)—over areas other than those specified in paragraph (c)(1)(ii)(D) of this section that are subject to truck traffic.
 
-(D) 18 feet (5.49 m) - over public streets, alleys, roads, and driveways.
+(D) 18 feet (5.49 m)—over public streets, alleys, roads, and driveways.
 
 (iii) *Clearance from building openings.* Conductors shall have a clearance of at least 3 feet (914 mm) from windows, doors, fire escapes, or similar locations. Conductors run above the top level of a window are considered to be out of reach from that window and, therefore, do not have to be 3 feet (914 mm) away.
 
@@ -90,7 +88,7 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 
 (2) *Location of outdoor lamps.* Lamps for outdoor lighting shall be located below all live conductors, transformers, or other electric equipment, unless such equipment is controlled by a disconnecting means that can be locked in the open position or unless adequate clearances or other safeguards are provided for relamping operations.
 
-(d) *Services* - (1) *Disconnecting means* - (i) *General.* Means shall be provided to disconnect all conductors in a building or other structure from the service-entrance conductors. The disconnecting means shall plainly indicate whether it is in the open or closed position and shall be installed at a readily accessible location nearest the point of entrance of the service-entrance conductors.
+(d) *Services*—(1) *Disconnecting means*—(i) *General.* Means shall be provided to disconnect all conductors in a building or other structure from the service-entrance conductors. The disconnecting means shall plainly indicate whether it is in the open or closed position and shall be installed at a readily accessible location nearest the point of entrance of the service-entrance conductors.
 
 (ii) *Simultaneous opening of poles.* Each service disconnecting means shall simultaneously disconnect all ungrounded conductors.
 
@@ -100,7 +98,7 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 
 (ii) *Warning signs.* Signs warning of high voltage shall be posted where unauthorized employees might come in contact with live parts.
 
-(e) *Overcurrent protection* - (1) *600 volts, nominal, or less.* The following requirements apply to overcurrent protection of circuits rated 600 volts, nominal, or less.
+(e) *Overcurrent protection*—(1) *600 volts, nominal, or less.* The following requirements apply to overcurrent protection of circuits rated 600 volts, nominal, or less.
 
 (i) *Protection of conductors and equipment.* Conductors and equipment shall be protected from overcurrent in accordance with their ability to safely conduct current. Conductors shall have sufficient ampacity to carry the load.
 
@@ -112,7 +110,7 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 
 (v) *Arcing or suddenly moving parts.* Fuses and circuit breakers shall be so located or shielded that employees will not be burned or otherwise injured by their operation.
 
-(vi) *Circuit breakers* - (A) Circuit breakers shall clearly indicate whether they are in the open (off) or closed (on) position.
+(vi) *Circuit breakers*. (A) Circuit breakers shall clearly indicate whether they are in the open (off) or closed (on) position.
 
 (B) Where circuit breaker handles on switchboards are operated vertically rather than horizontally or rotationally, the up position of the handle shall be the closed (on) position.
 
@@ -152,7 +150,7 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 
 (2) *Separately derived systems.* Where paragraph (f)(1) of this section requires grounding of wiring systems whose power is derived from generator, transformer, or converter windings and has no direct electrical connection, including a solidly connected grounded circuit conductor, to supply conductors originating in another system, paragraph (f)(5) of this section shall also apply.
 
-(3) *Portable and vehicle-mounted generators* - (i) *Portable generators.* Under the following conditions, the frame of a portable generator need not be grounded and may serve as the grounding electrode for a system supplied by the generator:
+(3) *Portable and vehicle-mounted generators*—(i) *Portable generators.* Under the following conditions, the frame of a portable generator need not be grounded and may serve as the grounding electrode for a system supplied by the generator:
 
 (A) The generator supplies only equipment mounted on the generator and/or cord- and plug-connected equipment through receptacles mounted on the generator, and
 
@@ -172,13 +170,13 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 
 (4) *Conductors to be grounded.* For AC premises wiring systems the identified conductor shall be grounded.
 
-(5) *Grounding connections* - (i) *Grounded system.* For a grounded system, a grounding electrode conductor shall be used to connect both the equipment grounding conductor and the grounded circuit conductor to the grounding electrode. Both the equipment grounding conductor and the grounding electrode conductor shall be connected to the grounded circuit conductor on the supply side of the service disconnecting means, or on the supply side of the system disconnecting means or overcurrent devices if the system is separately derived.
+(5) *Grounding connections*—(i) *Grounded system.* For a grounded system, a grounding electrode conductor shall be used to connect both the equipment grounding conductor and the grounded circuit conductor to the grounding electrode. Both the equipment grounding conductor and the grounding electrode conductor shall be connected to the grounded circuit conductor on the supply side of the service disconnecting means, or on the supply side of the system disconnecting means or overcurrent devices if the system is separately derived.
 
 (ii) *Ungrounded systems.* For an ungrounded service-supplied system, the equipment grounding conductor shall be connected to the grounding electrode conductor at the service equipment. For an ungrounded separately derived system, the equipment grounding conductor shall be connected to the grounding electrode conductor at, or ahead of, the system disconnecting means or overcurrent devices.
 
 (6) *Grounding path.* The path to ground from circuits, equipment, and enclosures shall be permanent and continuous.
 
-(7) *Supports, enclosures, and equipment to be grounded* - (i) *Supports and enclosures for conductors.* Metal cable trays, metal raceways, and metal enclosures for conductors shall be grounded, except that:
+(7) *Supports, enclosures, and equipment to be grounded*—(i) *Supports and enclosures for conductors.* Metal cable trays, metal raceways, and metal enclosures for conductors shall be grounded, except that:
 
 (A) Metal enclosures such as sleeves that are used to protect cable assemblies from physical damage need not be grounded; and
 
@@ -234,7 +232,7 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 
 (v) *Nonelectrical equipment.* The metal parts of the following nonelectrical equipment shall be grounded: Frames and tracks of electrically operated cranes; frames of nonelectrically driven elevator cars to which electric conductors are attached; hand-operated metal shifting ropes or cables of electric elevators, and metal partitions, grill work, and similar metal enclosures around equipment of over IkV between conductors.
 
-(8) *Methods of grounding equipment* - (i) *With circuit conductors.* Noncurrent-carrying metal parts of fixed equipment, if required to be grounded by this subpart, shall be grounded by an equipment grounding conductor which is contained within the same raceway, cable, or cord, or runs with or encloses the circuit conductors. For DC circuits only, the equipment grounding conductor may be run separately from the circuit conductors.
+(8) *Methods of grounding equipment*—(i) *With circuit conductors.* Noncurrent-carrying metal parts of fixed equipment, if required to be grounded by this subpart, shall be grounded by an equipment grounding conductor which is contained within the same raceway, cable, or cord, or runs with or encloses the circuit conductors. For DC circuits only, the equipment grounding conductor may be run separately from the circuit conductors.
 
 (ii) *Grounding conductor.* A conductor used for grounding fixed or movable equipment shall have capacity to conduct safely any fault current which may be imposed on it.
 
@@ -244,7 +242,7 @@ Table K-4 - Receptacle Ratings for Various Size Circuits
 
 (10) *Made electrodes.* If made electrodes are used, they shall be free from nonconductive coatings, such as paint or enamel; and, if practicable, they shall be embedded below permanent moisture level. A single electrode consisting of a rod, pipe or plate which has a resistance to ground greater than 25 ohms shall be augmented by one additional electrode installed no closer than 6 feet (1.83 m) to the first electrode.
 
-(11) *Grounding of systems and circuits of 1000 volts and over (high voltage)* - (i) *General.* If high voltage systems are grounded, they shall comply with all applicable provisions of paragraphs (f)(1) through (f)(10) of this section as supplemented and modified by this paragraph (f)(11).
+(11) *Grounding of systems and circuits of 1000 volts and over (high voltage)*—(i) *General.* If high voltage systems are grounded, they shall comply with all applicable provisions of paragraphs (f)(1) through (f)(10) of this section as supplemented and modified by this paragraph (f)(11).
 
 (ii) *Grounding of systems supplying portable or mobile equipment.* Systems supplying portable or mobile high voltage equipment, other than substations installed on a temporary basis, shall comply with the following:
 

@@ -1,0 +1,3 @@
+##### § 316.909 Promotion. #####
+
+An agency may promote a student appointed for an initial period expected to last more than 1 year but less than 4 years provided the student meets the qualification requirements for the higher graded position, time in grade requirements in 5 CFR part 300, subpart F, and the public notification for the position filled by the student stated the potential for promotion and specified a career ladder.

@@ -1,6 +1,6 @@
 ##### § 80.9 Eligible and ineligible costs. #####
 
-Link to an amendment published at 86 FR 50671, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50671, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) *Allowable costs.* Eligible project costs may include compensation for the value of structures, for their relocation or demolition, for associated land, and associated costs. For land that is already held by an eligible entity, compensation for the land is not an allowable cost, but compensation for development rights may be allowable.
 

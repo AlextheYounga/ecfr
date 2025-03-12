@@ -1,5 +1,7 @@
 ##### § 641.1 Duties of users of consumer reports regarding address discrepancies. #####
 
+Link to an amendment published at 86 FR 51819, Sept. 17, 2021.
+
 (a) *Scope.* This section applies to users of consumer reports that are subject to administrative enforcement of the FCRA by the Federal Trade Commission pursuant to 15 U.S.C. 1681s(a)(1) (users).
 
 (b) *Definition.* For purposes of this section, a *notice of address discrepancy* means a notice sent to a user by a consumer reporting agency described in 15 U.S.C. 1681a(p) pursuant to 15 U.S.C. 1681c(h)(1), that informs the user of a substantial difference between the address for the consumer that the user provided to request the consumer report and the address(es) in the agency's file for the consumer.

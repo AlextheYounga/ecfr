@@ -1,6 +1,6 @@
 ##### § 80.13 Application information. #####
 
-Link to an amendment published at 86 FR 50671, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50671, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) An application for acquisition of property for the purpose of open space must include:
 

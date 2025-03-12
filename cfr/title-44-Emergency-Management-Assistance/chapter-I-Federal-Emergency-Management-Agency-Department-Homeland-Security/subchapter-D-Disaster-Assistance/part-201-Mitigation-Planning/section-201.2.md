@@ -1,6 +1,6 @@
 ##### § 201.2 Definitions. #####
 
-Link to an amendment published at 86 FR 50673, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50673, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 *Administrator* means the head of the Federal Emergency Management Agency, or his/her designated representative.
 

@@ -1,0 +1,3 @@
+##### § 316.906 Acquisition of competitive status. #####
+
+Time spent on a time-limited appointment under this part may count toward fulfillment of a probation period in accordance with § 315.802(b) of this chapter. A student appointed under § 316.901 acquires competitive status only upon completion of probationary period after any conversion, in accordance with the provisions of 5 CFR part 315, subpart H.

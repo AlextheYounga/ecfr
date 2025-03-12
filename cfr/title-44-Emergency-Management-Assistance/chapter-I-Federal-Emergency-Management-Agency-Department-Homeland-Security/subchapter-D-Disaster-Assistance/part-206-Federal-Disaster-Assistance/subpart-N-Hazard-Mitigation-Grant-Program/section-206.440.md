@@ -1,6 +1,6 @@
 ##### § 206.440 Appeals. #####
 
-Link to an amendment published at 86 FR 50679, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50679, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 An eligible applicant, subgrantee, or grantee may appeal any determination previously made related to an application for or the provision of Federal assistance according to the procedures below.
 

@@ -1,6 +1,6 @@
 ##### § 206.431 Definitions. #####
 
-Link to an amendment published at 86 FR 50676, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50676, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 *Activity* means any mitigation measure, project, or action proposed to reduce risk of future damage, hardship, loss or suffering from disasters.
 

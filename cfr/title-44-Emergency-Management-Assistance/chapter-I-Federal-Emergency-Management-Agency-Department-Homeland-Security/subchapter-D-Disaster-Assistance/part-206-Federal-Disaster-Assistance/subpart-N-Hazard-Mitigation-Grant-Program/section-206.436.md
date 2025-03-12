@@ -1,6 +1,6 @@
 ##### § 206.436 Application procedures. #####
 
-Link to an amendment published at 86 FR 50678, Sept. 10, 2021.
+Link to an amendment published at 86 FR 50678, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
 
 (a) *General.* This section describes the procedures to be used by the grantee in submitting an application for HMGP funding. Under the HMGP, the State or Indian tribal government is the grantee and is responsible for processing subgrants to applicants in accordance with 2 CFR parts 200 and 3002. Subgrantees are accountable to the grantee.
 

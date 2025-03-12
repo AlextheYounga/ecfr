@@ -1,7 +1,5 @@
 ##### § 315.201 Service requirement for career tenure. #####
 
-Link to an amendment published at 86 FR 46106, Aug. 18, 2021.
-
 (a) *Service requirement.* A person employed in the competitive service for other than temporary, term, or indefinite employment is appointed as a career or career-conditional employee subject to the probationary period required by subpart H of this part. Except as provided in paragraph (c) of this section, an employee must serve at least 3 years of creditable service as defined in paragraph (b) of this section to become a career employee.
 
 (b) *Creditable service.* Unless otherwise approved by OPM, the service required for career tenure must include service as described in paragraph (b)(1) of this section and total at least 3 years.
@@ -36,9 +34,11 @@ Link to an amendment published at 86 FR 46106, Aug. 18, 2021.
 
 (xiv) The date of appointment as a Pathways Participant in the Recent Graduates Program under Schedule D, § 213.3402(b) of this chapter, provided the employee's appointment is converted to a career or career-conditional appointment under § 315.713(b), with or without an intervening term appointment, and without a break in service of one day;
 
-(xv) The date of appointment as a Pathways Participant in the Presidential Management Fellows Program under Schedule D, § 213.3402(c) of this chapter, provided the employee's appointment is converted to a career or career-conditional appointment under § 315.713(c), with or without an intervening term appointment, and without a break in service of one day; and
+(xv) The date of appointment as a Pathways Participant in the Presidential Management Fellows Program under Schedule D, § 213.3402(c) of this chapter, provided the employee's appointment is converted to a career or career-conditional appointment under § 315.713(c), with or without an intervening term appointment, and without a break in service of one day;
 
-(xvi) Employment with the District of Columbia Government after January 1, 1980 (the date the District implemented an independent merit personnel system not tied to the Federal system), provided the person was a District employee on December 31, 1979, was converted to the District system on January 1, 1980, and is employed by nontemporary appointment in the competitive service.
+(xvi) Employment with the District of Columbia Government after January 1, 1980 (the date the District implemented an independent merit personnel system not tied to the Federal system), provided the person was a District employee on December 31, 1979, was converted to the District system on January 1, 1980, and is employed by nontemporary appointment in the competitive service; and
+
+(xvii) The date of a time-limited post-secondary student appointment under subpart F of this part provided the appointment is converted to career or career-conditional appointment under 5 CFR part 316, subpart I.
 
 (2) *Competitive status.* An individual may attain career tenure only when employed (or reemployed) in a permanent appointment in the competitive service that provides or leads to competitive status.
 
@@ -94,4 +94,4 @@ Link to an amendment published at 86 FR 46106, Aug. 18, 2021.
 
 (4) The reinstatement of a person who once completed the service requirement for career tenure.
 
-[33 FR 12418, Sept. 4, 1968, as amended at 43 FR 34428, Aug. 4, 1978; 59 FR 68104, Dec. 30, 1994; 60 FR 53504, Oct. 16, 1995; 62 FR 63630, Dec. 2, 1997; 63 FR 57046, Oct. 26, 1998; 65 FR 78078, Dec. 14, 2000; 70 FR 28779, May 19, 2005; 70 FR 44221, Aug. 2, 2005; 71 FR 42245, July 26, 2006; 77 FR 28214, May 11, 2012; 81 FR 78498, Nov. 8, 2016]
+[33 FR 12418, Sept. 4, 1968, as amended at 43 FR 34428, Aug. 4, 1978; 59 FR 68104, Dec. 30, 1994; 60 FR 53504, Oct. 16, 1995; 62 FR 63630, Dec. 2, 1997; 63 FR 57046, Oct. 26, 1998; 65 FR 78078, Dec. 14, 2000; 70 FR 28779, May 19, 2005; 70 FR 44221, Aug. 2, 2005; 71 FR 42245, July 26, 2006; 77 FR 28214, May 11, 2012; 81 FR 78498, Nov. 8, 2016; 86 FR 46106, Aug. 18, 2021]
