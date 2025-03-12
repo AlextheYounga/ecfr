@@ -1,8 +1,12 @@
 ##### § 2.126 Form of submissions to the Trademark Trial and Appeal Board. #####
 
-Link to an amendment published at 81 FR 69983, October 7, 2016.Link to a correction of the above amendment published at 81 FR 89383, December 12, 2016.
+(a) Submissions must be made to the Trademark Trial and Appeal Board via ESTTA.
 
-(a) Submissions may be made to the Trademark Trial and Appeal Board on paper where Board practice or the rules in this part permit. A paper submission, including exhibits and depositions, must meet the following requirements:
+(1) Text in an electronic submission must be filed in at least 11-point type and double-spaced.
+
+(2) Exhibits pertaining to an electronic submission must be made electronically as an attachment to the submission and must be clear and legible.
+
+(b) In the event that ESTTA is unavailable due to technical problems, or when extraordinary circumstances are present, submissions may be filed in paper form. All submissions in paper form, except the extensions of time to file a notice of opposition, the notice of opposition, the petition to cancel, or answers thereto (*see* §§ 2.101(b)(2), 2.102(a)(2), 2.106(b)(1), 2.111(c)(2), and 2.114(b)(1)), must include a written explanation of such technical problems or extraordinary circumstances. Paper submissions that do not meet the showing required under this paragraph (b) will not be considered. A paper submission, including exhibits and depositions, must meet the following requirements:
 
 (1) A paper submission must be printed in at least 11-point type and double-spaced, with text on one side only of each sheet;
 
@@ -16,8 +20,6 @@ Link to an amendment published at 81 FR 69983, October 7, 2016.Link to a correct
 
 (6) Exhibits pertaining to a paper submission must be filed on paper and comply with the requirements for a paper submission.
 
-(b) Submissions may be made to the Trademark Trial and Appeal Board electronically via the Internet where the rules in this part or Board practice permit, according to the parameters established by the Board and published on the Web site of the Office. Text in an electronic submission must be in at least 11-point type and double-spaced. Exhibits pertaining to an electronic submission must be made electronically as an attachment to the submission.
+(c) To be handled as confidential, submissions to the Trademark Trial and Appeal Board that are confidential in whole or part pursuant to § 2.125(f) must be submitted using the “Confidential” selection available in ESTTA or, where appropriate, under a separate paper cover. Both the submission and its cover must be marked confidential and must identify the case number and the parties. A copy of the submission for public viewing with the confidential portions redacted must be submitted concurrently.
 
-(c) To be handled as confidential, submissions to the Trademark Trial and Appeal Board that are confidential in whole or part pursuant to § 2.125(e) must be submitted under a separate cover. Both the submission and its cover must be marked confidential and must identify the case number and the parties. A copy of the submission with the confidential portions redacted must be submitted.
-
-[68 FR 55767, Sept. 26, 2003, as amended at 72 FR 42262, Aug. 1, 2007]
+[81 FR 69983, Oct. 7, 2016, as amended at 81 FR 89383, Dec. 12, 2016]

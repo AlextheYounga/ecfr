@@ -1,5 +1,5 @@
-##### § 2.136 Status of application on termination of proceeding. #####
+##### § 2.136 Status of application or registration on termination of proceeding. #####
 
-Link to an amendment published at 81 FR 69985, October 7, 2016.
+After the Board has issued its decision in an opposition, cancellation or concurrent use proceeding, and after the time for filing any appeal of the decision has expired, or any appeal that was filed has been decided and the Board's decision affirmed, the proceeding will be terminated by the Board. On termination of an opposition, cancellation or concurrent use proceeding, if the judgment is not adverse to the applicant or registrant, the subject application returns to the status it had before the institution of the proceeding and the otherwise appropriate status of the subject registration is unaffected by the proceeding. If the judgment is adverse to the applicant or registrant, the application stands refused or the registration will be cancelled in whole or in part without further action and all proceedings thereon are considered terminated.
 
-On termination of a proceeding involving an application, the application, if the judgment is not adverse, returns to the status it had before the institution of the proceedings. If the judgment is adverse to the applicant, the application stands refused without further action and all proceedings thereon are considered terminated.
+[81 FR 69985, Oct. 7, 2016]

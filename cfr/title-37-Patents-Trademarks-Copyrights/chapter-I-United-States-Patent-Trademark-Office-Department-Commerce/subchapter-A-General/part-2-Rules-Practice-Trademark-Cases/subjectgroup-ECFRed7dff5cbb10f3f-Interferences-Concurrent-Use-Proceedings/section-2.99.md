@@ -1,18 +1,16 @@
 ##### § 2.99 Application to register as concurrent user. #####
 
-Link to an amendment published at 81 FR 69971, October 7, 2016.
-
 (a) An application for registration as a lawful concurrent user will be examined in the same manner as other applications for registration.
 
 (b) If it appears that the applicant is entitled to have the mark registered, subject to a concurrent use proceeding, the mark will be published in the Official Gazette as provided by § 2.80.
 
-(c) If no opposition is filed, or if all oppositions that are filed are dismissed or withdrawn, the Trademark Trial and Appeal Board will send a notification to the applicant for concurrent use registration (plaintiff) and to each applicant, registrant or user specified as a concurrent user in the application (defendants). The notification for each defendant shall state the name and address of the plaintiff and of the plaintiff's attorney or other authorized representative, if any, together with the serial number and filing date of the application. If a party has provided the Office with an e-mail address, the notification may be transmitted via e-mail.
+(c) If no opposition is filed, or if all oppositions that are filed are dismissed or withdrawn, the Trademark Trial and Appeal Board will send a notice of institution to the applicant for concurrent use registration (plaintiff) and to each applicant, registrant or user specified as a concurrent user in the application (defendants). The notice for each defendant shall state the name and address of the plaintiff and of the plaintiff's attorney or other authorized representative, if any, together with the serial number and filing date of the application. If a party has provided the Office with an email address, the notice may be transmitted via email.
 
-(d)(1) Within ten days from the date of the Board's notification, the applicant for concurrent use registration must serve copies of its application, specimens and drawing on each applicant, registrant or user specified as a concurrent user in the application for registration, as directed by the Board. If any service copy is returned to the concurrent use applicant as undeliverable, the concurrent use applicant must notify the Board within ten days of receipt of the returned copy.
+(d)(1) The Board's notice of institution will include a web link or web address to access the concurrent use application proceeding contained in Office records.
 
-(2) An answer to the notice is not required in the case of an applicant or registrant whose application or registration is specified as a concurrent user in the application, but a statement, if desired, may be filed within forty days after the issuance of the notice; in the case of any other party specified as a concurrent user in the application, an answer must be filed within forty days after the issuance of the notice.
+(2) An answer to the notice is not required in the case of an applicant or registrant whose application or registration is acknowledged by the concurrent use applicant in the concurrent use application, but a statement, if desired, may be filed within forty days after the issuance of the notice; in the case of any other party specified as a concurrent user in the application, an answer must be filed within forty days after the issuance of the notice.
 
-(3) If an answer, when required, is not filed, judgment will be entered precluding the specified user from claiming any right more extensive than that acknowledged in the application(s) for concurrent use registration, but the applicant(s) will remain with the burden of proving entitlement to registration(s).
+(3) If an answer, when required, is not filed, judgment will be entered precluding the defaulting user from claiming any right more extensive than that acknowledged in the application(s) for concurrent use registration, but the burden of proving entitlement to registration(s) will remain with the concurrent use applicant(s).
 
 (e) The applicant for a concurrent use registration has the burden of proving entitlement thereto. If there are two or more applications for concurrent use registration involved in a proceeding, the party whose application has the latest filing date is the junior party. A party whose application has a filing date between the filing dates of the earliest involved application and the latest involved application is a junior party to every party whose involved application has an earlier filing date. If any applications have the same filing date, the application with the latest date of execution will be deemed to have the latest filing date and that applicant will be the junior party. A person specified as an excepted user in a concurrent use application but who has not filed an application shall be considered a party senior to every party that has an application involved in the proceeding.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 69971, October 7, 2016.
 
 (2) The court decree specifies the rights of the parties; and
 
-(3) A true copy of the court decree is submitted to the examiner; and
+(3) A true copy of the court decree is submitted to the examining attorney; and
 
 (4) The concurrent use application complies fully and exactly with the court decree; and
 
@@ -34,4 +32,4 @@ If any of the conditions specified in this paragraph is not satisfied, a concurr
 
 (h) The Trademark Trial and Appeal Board will consider and determine concurrent use rights only in the context of a concurrent use registration proceeding.
 
-[48 FR 23135, May 23, 1983; 48 FR 27225, 27226, June 14, 1983, as amended at 54 FR 37596, Sept. 11, 1989; 72 FR 42258, Aug. 1, 2007; 73 FR 67772, Nov. 17, 2008]
+[48 FR 23135, May 23, 1983; 48 FR 27225, 27226, June 14, 1983, as amended at 54 FR 37596, Sept. 11, 1989; 72 FR 42258, Aug. 1, 2007; 73 FR 67772, Nov. 17, 2008; 81 FR 69971, Oct. 7, 2016]

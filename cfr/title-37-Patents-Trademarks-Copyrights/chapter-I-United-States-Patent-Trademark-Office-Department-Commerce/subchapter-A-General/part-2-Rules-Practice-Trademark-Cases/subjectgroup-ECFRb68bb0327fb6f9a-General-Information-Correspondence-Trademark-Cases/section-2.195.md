@@ -1,7 +1,5 @@
 ##### § 2.195 Receipt of trademark correspondence. #####
 
-Link to an amendment published at 81 FR 69988, October 7, 2016.
-
 (a) *Date of receipt and Priority Mail Express® date of deposit.* Trademark correspondence received in the Office is given a filing date as of the date of receipt except as follows:
 
 (1) The Office is not open for the filing of correspondence on any day that is a Saturday, Sunday, or Federal holiday within the District of Columbia. Except for correspondence transmitted electronically under paragraph (a)(2) of this section or transmitted by facsimile under paragraph (a)(3) of this section, no correspondence is received in the Office on Saturdays, Sundays, or Federal holidays within the District of Columbia.
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 69988, October 7, 2016.
 
 (2) Drawings submitted under § 2.51, § 2.52, § 2.72, or § 2.173;
 
-(3) Correspondence to be filed with the Trademark Trial and Appeal Board, except notices of ex parte appeal;
+(3) Correspondence to be filed with the Trademark Trial and Appeal Board;
 
 (4) Requests for cancellation or amendment of a registration under section 7(e) of the Trademark Act; and certificates of registration surrendered for cancellation or amendment under section 7(e) of the Trademark Act; and
 
@@ -40,4 +38,4 @@ Link to an amendment published at 81 FR 69988, October 7, 2016.
 
 (3) Paragraphs (e)(1) and (e)(2) of this section do not apply to correspondence that is excluded from the Priority Mail Express® procedure pursuant to § 2.198(a)(1).
 
-[79 FR 63041, Oct. 22, 2014]
+[79 FR 63041, Oct. 22, 2014, as amended at 81 FR 69988, Oct. 7, 2016]
