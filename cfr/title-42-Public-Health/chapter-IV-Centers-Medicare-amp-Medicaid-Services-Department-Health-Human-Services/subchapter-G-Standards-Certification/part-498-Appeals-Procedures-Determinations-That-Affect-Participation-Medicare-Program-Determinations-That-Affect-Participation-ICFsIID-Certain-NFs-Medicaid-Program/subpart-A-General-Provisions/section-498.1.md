@@ -1,5 +1,7 @@
 ##### § 498.1 Statutory basis. #####
 
+Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
+
 (a) Section 1866(h) of the Act provides for a hearing and for judicial review of the hearing for any institution or agency dissatisfied with a determination that it is not a provider, or with any determination described in section 1866(b)(2) of the Act.
 
 (b) Section 1866(b)(2) of the Act lists determinations that serve as a basis for termination of a provider agreement.

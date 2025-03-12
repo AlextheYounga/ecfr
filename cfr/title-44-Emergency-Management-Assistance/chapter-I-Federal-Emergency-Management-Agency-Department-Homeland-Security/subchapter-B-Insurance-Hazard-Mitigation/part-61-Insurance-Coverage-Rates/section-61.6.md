@@ -12,7 +12,7 @@ Table 1 to Paragraph (a) - Maximum Amounts of Coverage Available<sup>1</sup>
 |                Two-to-Four Family Building                |       \* 35,000       |                     $250,000.                     |
 |Other Residential Building (including Multifamily Building)|     \*\* 100,000      |                     $500,000.                     |
 |             Residential Condominium Building              |          N/A          |$250,000 times the number of units in the building.|
-|                 Non-Residential Building                  |     \*\* 100,000      |                     $500,000.                     |
+|                 Non-Residential Building                  |        100,000        |                     $500,000                      |
 |              Contents Coverage <sup>2</sup>               |                       |                                                   |
 |             Residential Property<sup>3</sup>              |        10,000         |                     $100,000.                     |
 |                 Non-Residential Property                  |        100,000        |                     $500,000.                     |
@@ -29,4 +29,4 @@ Table 1 to Paragraph (a) - Maximum Amounts of Coverage Available<sup>1</sup>
 
 (b) Coverage and benefits payable under the SFIP pursuant to § 61.3(b) and (c) are included in, not in addition to, the coverage limits provided by the Act or stated in paragraph (a) of this section.
 
-[85 FR 43958, July 20, 2020; 86 FR 10029, Feb. 18, 2021]
+[85 FR 43958, July 20, 2020; 86 FR 10029, Feb. 18, 2021, as amended at 86 FR 62104, Nov. 9, 2021

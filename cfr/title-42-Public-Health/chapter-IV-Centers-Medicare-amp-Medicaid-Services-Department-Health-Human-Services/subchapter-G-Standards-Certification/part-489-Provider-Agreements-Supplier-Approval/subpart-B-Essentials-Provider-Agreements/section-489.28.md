@@ -1,5 +1,7 @@
 ##### § 489.28 Special capitalization requirements for HHAs. #####
 
+Link to an amendment published at 86 FR 62430, Nov. 9, 2021.
+
 (a) *Basic rule.* An HHA entering the Medicare program on or after January 1, 1998, including a new HHA as a result of a change of ownership, if the change of ownership results in a new provider number being issued, must have available sufficient funds, which we term “initial reserve operating funds,” at the time of application submission and at all times during the enrollment process up to the expiration of the 3-month period following the conveyance of Medicare billing privileges to operate the HHA for the three-month period after Medicare billing privileges are conveyed by the Medicare contractor, exclusive of actual or projected accounts receivable from Medicare.
 
 (b) *Standard.* Initial reserve operating funds are sufficient to meet the requirement of this section if the total amount of such funds is equal to or greater than the product of the actual average cost per visit of three or more similarly situated HHAs in their first year of operation (selected by CMS for comparative purposes) multiplied by the number of visits projected by the HHA for its first three months of operation - or 22.5 percent (one fourth of 90 percent) of the average number of visits reported by the comparison HHAs - whichever is greater.

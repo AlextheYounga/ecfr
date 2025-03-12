@@ -1,5 +1,7 @@
 ##### § 409.43 Plan of care requirements. #####
 
+Link to an amendment published at 86 FR 62418, Nov. 9, 2021.
+
 (a) *Contents.* An individualized plan of care must be established and periodically reviewed by the certifying physician or allowed practitioner.
 
 (1) The HHA must be acting upon a plan of care that meets the requirements of this section for HHA services to be covered.

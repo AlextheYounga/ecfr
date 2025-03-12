@@ -1,5 +1,7 @@
 ##### § 61.160 Aeronautical experience - airplane category restricted privileges. #####
 
+Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
+
 (a) Except for a person who has been removed from flying status for lack of proficiency or because of a disciplinary action involving aircraft operations, a U.S. military pilot or former U.S. military pilot may apply for an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate concurrently with an airplane type rating with a minimum of 750 hours of total time as a pilot if the pilot presents:
 
 (1) An official Form DD-214 (Certificate of Release or Discharge from Active Duty) indicating that the person was honorably discharged from the U.S. Armed Forces or an official U.S. Armed Forces record that shows the pilot is currently serving in the U.S. Armed Forces; and

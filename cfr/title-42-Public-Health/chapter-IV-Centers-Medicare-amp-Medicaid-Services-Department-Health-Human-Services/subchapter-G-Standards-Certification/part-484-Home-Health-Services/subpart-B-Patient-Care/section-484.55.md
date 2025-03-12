@@ -1,5 +1,7 @@
 ##### § 484.55 Condition of participation: Comprehensive assessment of patients. #####
 
+Link to an amendment published at 86 FR 62421, Nov. 9, 2021.
+
 Each patient must receive, and an HHA must provide, a patient-specific, comprehensive assessment. For Medicare beneficiaries, the HHA must verify the patient's eligibility for the Medicare home health benefit including homebound status, both at the time of the initial assessment visit and at the time of the comprehensive assessment.
 
 (a) *Standard: Initial assessment visit.* (1) A registered nurse must conduct an initial assessment visit to determine the immediate care and support needs of the patient; and, for Medicare patients, to determine eligibility for the Medicare home health benefit, including homebound status. The initial assessment visit must be held either within 48 hours of referral, or within 48 hours of the patient's return home, or on the physician or allowed practitioner-ordered start of care date.

@@ -1,14 +1,12 @@
 ##### § 1204.1404 Requests for use of NASA airfield facilities. #####
 
-Link to an amendment published at 86 FR 50625, Sept. 10, 2021.
-
 (a) Request for use of a NASA airfield, whether on a one time or recurring basis, must be in writing and addressed to the appropriate NASA facility, namely:
 
-(1) *Shuttle Landing Facility.* Director of Center Support Operations, John F. Kennedy Space Center, Kennedy Space Center, Florida 32899.
+(1) [Reserved]
 
 (2) *Wallops Airport.* Director of Suborbital Projects and Operations, Goddard Space Flight Center, Wallops Flight Facility, Wallops Island, Virginia 23337.
 
-(3) *Moffett Federal Airfield and Crows Landing Flight Facility.* Chief, Airfield Management Office, Ames Research Center, Mail Stop 158-1, Moffett Field, California 94035-1000.
+(3) [Reserved]
 
 (b) Such requests will:
 
@@ -30,4 +28,4 @@ Link to an amendment published at 86 FR 50625, Sept. 10, 2021.
 
 (g) The designated NASA official will forward the executed use permit or notification of denial thereof to the prospective user after the approving authority has acted.
 
-[56 FR 35812, July 29, 1991, as amended at 60 FR 37568, July 21, 1995]
+[56 FR 35812, July 29, 1991, as amended at 60 FR 37568, July 21, 1995; 86 FR 50624, Sept. 10, 2021]

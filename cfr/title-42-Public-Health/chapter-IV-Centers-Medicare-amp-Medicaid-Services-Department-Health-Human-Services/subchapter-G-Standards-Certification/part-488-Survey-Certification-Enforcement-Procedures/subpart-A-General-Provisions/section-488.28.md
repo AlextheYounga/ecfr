@@ -1,5 +1,7 @@
 ##### § 488.28 Providers or suppliers, other than SNFs, NFs, and HHAs with deficiencies. #####
 
+Link to an amendment published at 86 FR 62425, Nov. 9, 2021.
+
 (a) If a provider or supplier is found to be deficient in one or more of the standards in the conditions of participation, conditions for coverage, or conditions for certification or requirements, it may participate in, or be covered under, the Medicare program only if the provider or supplier has submitted an acceptable plan of correction for achieving compliance within a reasonable period of time acceptable to CMS. In the case of an immediate jeopardy situation, CMS may require a shorter time period for achieving compliance.
 
 (b) The existing deficiencies noted either individually or in combination neither jeopardize the health and safety of patients nor are of such character as to seriously limit the provider's capacity to render adequate care.

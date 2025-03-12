@@ -1,5 +1,7 @@
 ##### § 498.60 Conduct of hearing. #####
 
+Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
+
 (a) *Participants in the hearing.* The hearing is open to the parties and their representatives and technical advisors, and to any other persons whose presence the ALJ considers necessary or proper.
 
 (b) *Hearing procedures.* (1) The ALJ inquires fully into all of the matters at issue, and receives in evidence the testimony of witnesses and any documents that are relevant and material.

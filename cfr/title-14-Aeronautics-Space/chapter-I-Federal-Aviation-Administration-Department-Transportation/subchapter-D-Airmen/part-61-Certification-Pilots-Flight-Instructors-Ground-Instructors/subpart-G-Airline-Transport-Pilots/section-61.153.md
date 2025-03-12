@@ -1,5 +1,7 @@
 ##### § 61.153 Eligibility requirements: General. #####
 
+Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
+
 To be eligible for an airline transport pilot certificate, a person must:
 
 (a) Meet the following age requirements:

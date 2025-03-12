@@ -1,5 +1,7 @@
 ##### § 484.80 Condition of participation: Home health aide services. #####
 
+Link to an amendment published at 86 FR 62421, Nov. 9, 2021.
+
 All home health aide services must be provided by individuals who meet the personnel requirements specified in paragraph (a) of this section.
 
 (a) *Standard: Home health aide qualifications.* (1) A qualified home health aide is a person who has successfully completed:

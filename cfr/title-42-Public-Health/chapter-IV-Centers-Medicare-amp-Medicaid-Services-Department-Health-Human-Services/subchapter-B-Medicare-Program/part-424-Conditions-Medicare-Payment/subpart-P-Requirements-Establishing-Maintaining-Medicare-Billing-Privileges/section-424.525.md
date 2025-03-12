@@ -1,5 +1,7 @@
 ##### § 424.525 Rejection of a provider or supplier's enrollment application for Medicare enrollment. #####
 
+Link to an amendment published at 86 FR 62419, Nov. 9, 2021.
+
 (a) *Reasons for rejection.* CMS may reject a provider's or supplier's enrollment application for any of the following reasons:
 
 (1) The prospective provider or supplier fails to furnish complete information on the provider/supplier enrollment application within 30 calendar days from the date of the contractor request for the missing information.

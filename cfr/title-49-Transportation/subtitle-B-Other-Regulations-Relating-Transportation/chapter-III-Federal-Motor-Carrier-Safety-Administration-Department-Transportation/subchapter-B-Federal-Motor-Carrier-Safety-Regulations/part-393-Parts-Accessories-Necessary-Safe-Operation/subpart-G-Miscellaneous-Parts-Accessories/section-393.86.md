@@ -1,5 +1,7 @@
 ##### § 393.86 Rear impact guards and rear end protection. #####
 
+Link to an amendment published at 86 FR 62111, Nov. 9, 2021.
+
 (a)(1) *General requirements for trailers and semitrailers manufactured on or after January 26, 1998.* Each trailer and semitrailer with a gross vehicle weight rating of 4,536 kg (10,000 pounds) or more, and manufactured on or after January 26, 1998, must be equipped with a rear impact guard that meets the requirements of Federal Motor Vehicle Safety Standard No. 223 (49 CFR 571.223) in effect at the time the vehicle was manufactured. When the rear impact guard is installed on the trailer or semitrailer, the vehicle must, at a minimum, meet the requirements of FMVSS No. 224 (49 CFR 571.224) in effect at the time the vehicle was manufactured. The requirements of paragraph (a) of this section do not apply to pole trailers (as defined in § 390.5 of this chapter); pulpwood trailers, low chassis vehicles, special purpose vehicles, wheels back vehicles (as defined in § 393.5); and trailers towed in driveaway-towaway operations (as defined in § 390.5).
 
 (2) *Impact guard width.* The outermost surfaces of the horizontal member of the guard must extend to within 100 mm (4 inches) of the side extremities of the vehicle. The outermost surface of the horizontal member shall not extend beyond the side extremity of the vehicle.

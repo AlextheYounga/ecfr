@@ -1,5 +1,7 @@
 ##### § 61.39 Prerequisites for practical tests. #####
 
+Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
+
 (a) Except as provided in paragraphs (b), (c), and (e) of this section, to be eligible for a practical test for a certificate or rating issued under this part, an applicant must:
 
 (1) Pass the required knowledge test:

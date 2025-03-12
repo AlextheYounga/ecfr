@@ -1,5 +1,7 @@
 ##### § 488.7 Release and use of accreditation surveys. #####
 
+Link to an amendment published at 86 FR 62425, Nov. 9, 2021.
+
 A Medicare participating provider or supplier deemed to meet program requirements in accordance with § 488.4 must authorize its accrediting organization to release to CMS a copy of its most current accreditation survey and any information related to the survey that CMS may require (including, but not limited to, corrective action plans).
 
 (a) CMS may determine that a provider or supplier does not meet the applicable Medicare conditions or requirements on the basis of its own investigation of the accreditation survey or any other information related to the survey.

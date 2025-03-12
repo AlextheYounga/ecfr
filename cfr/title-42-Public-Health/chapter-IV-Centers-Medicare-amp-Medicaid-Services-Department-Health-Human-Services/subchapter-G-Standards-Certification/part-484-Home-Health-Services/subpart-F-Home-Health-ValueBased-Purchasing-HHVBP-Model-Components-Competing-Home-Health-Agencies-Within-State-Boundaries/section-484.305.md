@@ -1,5 +1,7 @@
 ##### § 484.305 Definitions. #####
 
+Link to an amendment published at 86 FR 62422, Nov. 9, 2021.
+
 As used in this subpart -
 
 *Applicable measure* means a measure for which a competing HHA has provided a minimum of -

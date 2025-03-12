@@ -1,5 +1,7 @@
 ##### § 61.165 Additional aircraft category and class ratings. #####
 
+Link to an amendment published at 86 FR 62088, Nov. 9, 2021.
+
 (a) *Rotorcraft category and helicopter class rating.* A person applying for an airline transport certificate with a rotorcraft category and helicopter class rating who holds an airline transport pilot certificate with another aircraft category rating must:
 
 (1) Meet the eligibility requirements of § 61.153 of this part;

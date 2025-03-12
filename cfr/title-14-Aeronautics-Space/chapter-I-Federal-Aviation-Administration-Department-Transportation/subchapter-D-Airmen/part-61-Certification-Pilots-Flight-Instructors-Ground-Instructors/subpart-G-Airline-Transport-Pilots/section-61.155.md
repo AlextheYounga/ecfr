@@ -1,5 +1,7 @@
 ##### § 61.155 Aeronautical knowledge. #####
 
+Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
+
 (a) *General.* The knowledge test for an airline transport pilot certificate is based on the aeronautical knowledge areas listed in paragraph (c) of this section that are appropriate to the aircraft category and class rating sought.
 
 (b) *Aircraft type rating.* A person who is applying for an additional aircraft type rating to be added to an airline transport pilot certificate is not required to pass a knowledge test if that person's airline transport pilot certificate lists the aircraft category and class rating that is appropriate to the type rating sought.

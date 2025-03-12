@@ -1,5 +1,7 @@
 ##### § 424.521 Request for payment by physicians, non-physician practitioners, physician and non-physician organizations, ambulance suppliers, opioid treatment programs, and home infusion therapy suppliers. #####
 
+Link to an amendment published at 86 FR 62419, Nov. 9, 2021.
+
 (a) Physicians, non-physician practitioners, physician and non-physician practitioner organizations, ambulance suppliers, opioid treatment programs, and home infusion therapy suppliers may retrospectively bill for services when the physician, non-physician practitioner, physician or non-physician organization, ambulance supplier, opioid treatment program, or home infusion therapy supplier has met all program requirements, including State licensure requirements, and services were provided at the enrolled practice location for up to -
 
 (1) Thirty days prior to their effective date if circumstances precluded enrollment in advance of providing services to Medicare beneficiaries; or

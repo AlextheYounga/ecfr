@@ -1,6 +1,6 @@
 ##### § 4.100 Application of the evaluation criteria for diagnostic codes 7000-7007, 7011, and 7015-7020. #####
 
-Link to an amendment published at 86 FR 54093, Sept. 30, 2021.
+Link to an amendment published at 86 FR 54093, Sept. 30, 2021.Link to a correction published at 86 FR 62095, Nov. 9, 2021.
 
 (a) Whether or not cardiac hypertrophy or dilatation (documented by electrocardiogram, echocardiogram, or X-ray) is present and whether or not there is a need for continuous medication must be ascertained in all cases.
 

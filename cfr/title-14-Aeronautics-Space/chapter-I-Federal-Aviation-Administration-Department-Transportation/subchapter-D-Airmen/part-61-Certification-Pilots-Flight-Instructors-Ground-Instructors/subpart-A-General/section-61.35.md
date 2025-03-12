@@ -1,5 +1,7 @@
 ##### § 61.35 Knowledge test: Prerequisites and passing grades. #####
 
+Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
+
 (a) An applicant for a knowledge test must have:
 
 (1) Received an endorsement, if required by this part, from an authorized instructor certifying that the applicant accomplished the appropriate ground-training or a home-study course required by this part for the certificate or rating sought and is prepared for the knowledge test;
