@@ -1,0 +1,5 @@
+##### § 1.903 Good faith cost estimates. #####
+
+(a) Each USDA agency that issues a guidance document shall, to the extent practicable, make a good faith effort to estimate the likely economic impact of the guidance document to determine whether the document might be significant.
+
+(b) When a USDA agency is assessing or explaining whether it believes a guidance document is a “significant guidance document,” it shall, at a minimum, provide the same level of analysis that would be required for a determination of major/not major under the Congressional Review Act. When an agency determines that a guidance document will be significant, the agency shall conduct and publish an assessment of the potential costs and benefits of the regulatory action (which may entail a regulatory impact analysis) of the sort that would accompany a significant rulemaking, to the extent reasonably possible.

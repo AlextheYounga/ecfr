@@ -4,7 +4,7 @@
 
 (b) [Reserved]
 
-(c) *Relabeling.* Imported distilled spirits in U.S. Customs custody which are not labeled in conformity with certificates of label approval issued by the appropriate TTB officer must be relabeled prior to release under the supervision of the Customs officers of the port at which the spirits are located.
+(c) *Relabeling.* Imported distilled spirits in U.S. Customs custody which are not labeled in conformity with certificates of label approval issued by the appropriate TTB officer must be relabeled prior to release under the supervision of the customs officers of the port at which the spirits are located.
 
 (d) [Reserved]
 

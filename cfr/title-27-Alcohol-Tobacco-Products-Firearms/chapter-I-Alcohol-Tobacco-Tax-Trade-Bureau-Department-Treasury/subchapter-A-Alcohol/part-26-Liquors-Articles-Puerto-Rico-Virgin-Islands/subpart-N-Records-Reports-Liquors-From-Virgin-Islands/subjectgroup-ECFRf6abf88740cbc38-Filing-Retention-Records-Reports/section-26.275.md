@@ -1,6 +1,6 @@
 ##### § 26.275 Filing. #####
 
-(a) All records and reports required by this part will be maintained separately, by transaction or reporting date, at the importer's place of business. The appropriate TTB officer may, pursuant to an application, authorize files, or an individual file, to be maintained at another business location under the control of the importer, if the alternative location does not cause undue inconvenience to appropriate TTB or Customs officers desiring to examine the files or delay in the timely submission of documents.
+(a) All records and reports required by this part will be maintained separately, by transaction or reporting date, at the importer's place of business. The appropriate TTB officer may, pursuant to an application, authorize files, or an individual file, to be maintained at another business location under the control of the importer, if the alternative location does not cause undue inconvenience to appropriate TTB or customs officers desiring to examine the files or delay in the timely submission of documents.
 
 (b) If an importer conducts wholesale operations, one legible copy of each required record of receipt and disposition shall be filed not later than one business day following the date of transaction.
 

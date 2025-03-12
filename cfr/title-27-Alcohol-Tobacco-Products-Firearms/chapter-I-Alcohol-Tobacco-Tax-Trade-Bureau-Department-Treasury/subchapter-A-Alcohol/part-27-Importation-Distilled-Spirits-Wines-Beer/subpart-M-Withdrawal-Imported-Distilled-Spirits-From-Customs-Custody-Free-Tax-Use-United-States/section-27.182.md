@@ -14,6 +14,6 @@
 
 (c) *Use of spirits.* Spirits withdrawn under this subpart may not be used for non-Government purposes.
 
-(d) *Cancellation of permit.* All permits on Form 5150.33 and previous editions on Form 1444 remain in force until surrendered or canceled. Upon surrender or cancellation, the Government agency must obtain and destroy all photocopies of the permit furnished to port directors of Customs, and forward the original to the appropriate TTB officer for cancellation.
+(d) *Cancellation of permit.* All permits on Form 5150.33 and previous editions on Form 1444 remain in force until surrendered or canceled. Upon surrender or cancellation, the Government agency must obtain and destroy all photocopies of the permit furnished to port directors of customs, and forward the original to the appropriate TTB officer for cancellation.
 
 (Sec. 201, Pub. L. 85-859, 72 Stat. 1375, as amended (26 U.S.C. 5313))[50 FR 9200, Mar. 6, 1985, as amended by T.D. ATF-474, 67 FR 11232, Mar. 13, 2002]

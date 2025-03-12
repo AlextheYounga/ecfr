@@ -4,7 +4,7 @@
 
 (b) [Reserved]
 
-(c) *Relabeling.* Imported wine in U.S. Customs custody which is not labeled in conformity with certificates of label approval issued by the appropriate TTB officer must be relabeled prior to release under the supervision and direction of Customs officers of the port at which the wine is located.
+(c) *Relabeling.* Imported wine in U.S. Customs custody which is not labeled in conformity with certificates of label approval issued by the appropriate TTB officer must be relabeled prior to release under the supervision and direction of customs officers of the port at which the wine is located.
 
 (d) *Cross reference.* For procedures regarding the issuance, denial, and revocation of certificates of label approval, as well as appeal procedures, see part 13 of this chapter.
 

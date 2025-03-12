@@ -1,7 +1,5 @@
 ##### § 550.105 Definitions. #####
 
-Link to an amendment published at 85 FR 34935, June 5, 2020.
-
 Terms used in this part will have the meanings given in the Act and as defined in this section:
 
 *Act* means the OCS Lands Act, as amended (43 U.S.C. 1331 *et seq.*).
@@ -17,8 +15,6 @@ Terms used in this part will have the meanings given in the Act and as defined i
 (4) Which is designated by the Secretary as a State in which there is a substantial probability of significant impact on or damage to the coastal, marine, or human environment, or a State in which there will be significant changes in the social, governmental, or economic infrastructure, resulting from the exploration, development, and production of oil and gas anywhere on the OCS; or
 
 (5) In which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents to the marine or coastal environment in the event of any oil spill, blowout, or release of oil or gas from vessels, pipelines, or other transshipment facilities.
-
-*Air pollutant* means any airborne agent or combination of agents for which the Environmental Protection Agency (EPA) has established, under section 109 of the Clean Air Act, national primary or secondary ambient air quality standards.
 
 *Analyzed geological information* means data collected under a permit or a lease that have been analyzed. Analysis may include, but is not limited to, identification of lithologic and fossil content, core analysis, laboratory analyses of physical and chemical properties, well logs or charts, results from formation fluid tests, and descriptions of hydrocarbon occurrences or hazardous conditions.
 
@@ -36,11 +32,11 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *Arctic OCS conditions* means, for the purposes of this part, the conditions operators can reasonably expect during operations on the Arctic OCS. Such conditions, depending on the time of year, include, but are not limited to: extreme cold, freezing spray, snow, extended periods of low light, strong winds, dense fog, sea ice, strong currents, and dangerous sea states. Remote location, relative lack of infrastructure, and the existence of subsistence hunting and fishing areas are also characteristic of the Arctic region.
 
-*Attainment area* means, for any air pollutant, an area that is shown by monitored data or that is calculated by air quality modeling (or other methods determined by the Administrator of EPA to be reliable) not to exceed any primary or secondary ambient air quality standards established by EPA.
+*Attainment area* means, for any criteria air pollutant, an area which is shown by monitored data or which is calculated by air quality modeling (or other methods determined by the Administrator of the Environmental Protection Agency (EPA) to be reliable) not to exceed any primary or secondary ambient air quality standards established by EPA.
 
 *Best available and safest technology (BAST)* means the best available and safest technologies that the Director determines to be economically feasible wherever failure of equipment would have a significant effect on safety, health, or the environment.
 
-*Best available control technology (BACT)* means an emission limitation based on the maximum degree of reduction for each air pollutant subject to regulation, taking into account energy, environmental and economic impacts, and other costs. The Regional Director will verify the BACT on a case-by-case basis, and it may include reductions achieved through the application of processes, systems, and techniques for the control of each air pollutant.
+*Best available control technology (BACT)* means an emission limitation based on the maximum degree of reduction for each criteria air pollutant and VOC subject to regulation, taking into account energy, environmental and economic impacts, and other costs. The Regional Director will verify the BACT on a case-by-case basis, and it may include reductions achieved through the application of processes, systems, and techniques for the control of each criteria air pollutant and VOC.
 
 *Coastal environment* means the physical, atmospheric, and biological components, conditions, and factors that interactively determine the productivity, state, condition, and quality of the terrestrial ecosystem from the shoreline inward to the boundaries of the coastal zone.
 
@@ -49,6 +45,8 @@ Terms used in this part will have the meanings given in the Act and as defined i
 *Competitive reservoir* means a reservoir in which there are one or more producible or producing well completions on each of two or more leases or portions of leases, with different lease operating interests, from which the lessees plan future production.
 
 *Correlative rights* when used with respect to lessees of adjacent leases, means the right of each lessee to be afforded an equal opportunity to explore for, develop, and produce, without waste, minerals from a common source.
+
+*Criteria air pollutant* means any air pollutant for which the EPA has established a primary or secondary national ambient air quality standard pursuant to section 109 of the Clean Air Act.
 
 *Data* means facts and statistics, measurements, or samples that have not been analyzed, processed, or interpreted.
 
@@ -66,11 +64,11 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *Eastern Gulf of Mexico* means all OCS areas of the Gulf of Mexico the BOEM Director decides are adjacent to the State of Florida. The Eastern Gulf of Mexico is not the same as the Eastern Planning Area, an area established for OCS lease sales.
 
-*Emission offsets* mean emission reductions obtained from facilities, either onshore or offshore, other than the facility or facilities covered by the proposed Exploration Plan (EP) or Development and Production Plan (DPP).
+*Emission offsets* mean emission reductions obtained from facilities, either onshore or offshore, other than the facility or facilities covered by the proposed Exploration Plan (EP), Development and Production Plan (DPP), or Development Operations Coordination Document (DOCD).
 
 *Enhanced recovery operations* mean pressure maintenance operations, secondary and tertiary recovery, cycling, and similar recovery operations that alter the natural forces in a reservoir to increase the ultimate recovery of oil or gas.
 
-*Existing facility,* as used in § 550.303, means an OCS facility described in an Exploration Plan or a Development and Production Plan approved before June 2, 1980.
+*Existing facility,* as used in § 550.303, means an Outer Continental Shelf (OCS) facility described in an Exploration Plan, a Development and Production Plan, or a Development Operations Coordination Document, approved before June 2, 1980.
 
 *Exploration* means the commercial search for oil, gas, or sulphur. Activities classified as exploration include but are not limited to:
 
@@ -126,7 +124,7 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *Natural resources* include, without limiting the generality thereof, oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life but does not include water power or the use of water for the production of power.
 
-*Nonattainment area* means, for any air pollutant, an area that is shown by monitored data or that is calculated by air quality modeling (or other methods determined by the Administrator of EPA to be reliable) to exceed any primary or secondary ambient air quality standard established by EPA.
+*Nonattainment area* means, for any criteria air pollutant, an area which is shown by monitored data or which is calculated by air quality modeling (or other methods determined by the Administrator of EPA to be reliable) to exceed any primary or secondary ambient air quality standard established by EPA.
 
 *Nonsensitive reservoir* means a reservoir in which ultimate recovery is not decreased by high reservoir production rates.
 
@@ -180,6 +178,8 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *Venting* means the release of gas into the atmosphere without igniting it. This includes gas that is released underwater and bubbles to the atmosphere.
 
+*Volatile organic compound (VOC)* means any organic compound that is emitted to the atmosphere as a vapor. Unreactive compounds are excluded from the preceding sentence of this definition.
+
 *Waste of oil, gas, or sulphur* means:
 
 (1) The physical waste of oil, gas, or sulphur;
@@ -204,4 +204,4 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *You* means a lessee, the owner or holder of operating rights, a designated operator or agent of the lessee(s), a pipeline right-of-way holder, or a State lessee granted a right-of-use and easement.
 
-[76 FR 64623, Oct. 18, 2011, as amended at 81 FR 46565, July 15, 2016]
+[76 FR 64623, Oct. 18, 2011, as amended at 81 FR 46565, July 15, 2016; 85 FR 34935, June 5, 2020]

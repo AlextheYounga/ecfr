@@ -4,7 +4,7 @@
 
 (b) Section 5.47a does not apply to:
 
-(1) Imported distilled spirits in the original containers in which entered into Customs custody on or before December 31, 1979 (or on or before June 30, 1989 in the case of distilled spirits imported in 500 mL containers); or
+(1) Imported distilled spirits in the original containers in which entered into customs custody on or before December 31, 1979 (or on or before June 30, 1989 in the case of distilled spirits imported in 500 mL containers); or
 
 (2) Imported distilled spirits bottled or packed prior to January 1, 1980 (or prior to July 1, 1989 in the case of distilled spirits in 500 mL containers) and certified as to such in a statement signed by an official duly authorized by the appropriate foreign government.
 

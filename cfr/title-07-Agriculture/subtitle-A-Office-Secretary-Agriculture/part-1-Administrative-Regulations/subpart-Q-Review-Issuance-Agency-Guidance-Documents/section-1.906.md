@@ -1,0 +1,7 @@
+##### § 1.906 Notice-and-comment procedures. #####
+
+(a) Except as provided in paragraph (b) of this section, a proposed USDA guidance document determined to be a “significant guidance document” shall be subject to the following informal notice-and-comment procedures. The issuing agency shall publish a notice in the Federal Register announcing that a draft of the proposed guidance document is publicly available, shall post the draft guidance document on its website, shall invite public comment on the draft document for a minimum of 30 days, make the public comments available for public review on its website, and shall prepare and post a public response to major concerns raised in the comments, as appropriate, on its website, either before or when the guidance document is finalized and issued.
+
+(b) The requirements of paragraph (a) of this section will not apply to any significant guidance document or categories of significant guidance documents for which OBPA finds, in consultation with OIRA, the proposing agency, and the Office of the Secretary, good cause that notice and public comment thereon are impracticable, unnecessary, or contrary to the public interest (and incorporates the finding of good cause and a brief statement of reasons therefor in the guidance document issued).
+
+(c) Where appropriate, the proposing agency may recommend to OBPA that a particular guidance document that is otherwise of importance to the Department's interests shall also be subject to the informal notice-and-comment procedures described in paragraph (a) of this section.

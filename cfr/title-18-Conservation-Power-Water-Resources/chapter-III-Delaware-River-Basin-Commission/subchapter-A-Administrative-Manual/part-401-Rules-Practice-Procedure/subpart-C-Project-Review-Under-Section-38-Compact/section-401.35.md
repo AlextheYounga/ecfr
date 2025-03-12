@@ -1,12 +1,10 @@
 ##### § 401.35 Classification of projects for review under Section 3.8 of the Compact. #####
 
-Link to an amendment published at 86 FR 20629, Apr. 21, 2021.
-
-(a) Except as the Executive Director may specially direct by notice to the project owner or sponsor, or as a state or federal agency may refer under paragraph (c) of this section, a project in any of the following classifications will be deemed not to have a substantial effect on the water resources of the Basin and is not required to be submitted under Section 3.8 of the Compact:
+(a) Except as the Commission may specially direct by notice to the project owner or sponsor, a project in any of the following classifications will be deemed not to have a substantial effect on the water resources of the Basin and is not required to be submitted under Section 3.8 of the Compact:
 
 (1) The construction of new impoundments or the enlargement or removal of existing impoundments, for whatever purpose, when the storage capacity is less than 100 million gallons;
 
-(2) A withdrawal from ground water for any purpose when the daily average gross withdrawal during any 30 consecutive day period does not exceed 100,000 gallons;
+(2) A withdrawal from ground water when the daily average gross withdrawal during any 30 consecutive day period does not exceed 100,000 gallons;
 
 (3) A withdrawal from impoundments or running streams for any purpose when the daily average gross withdrawal during any 30 consecutive day period does not exceed 100,000 gallons;
 
@@ -36,11 +34,7 @@ Link to an amendment published at 86 FR 20629, Apr. 21, 2021.
 
 (14) Landfill projects, unless no state-level review and permit system is in effect; broad regional consequences are anticipated; or the standards or criteria used in state level review are not adequate to protect the water of the Basin for the purposes prescribed in the Comprehensive Plan;
 
-(15) Draining, filling or otherwise altering marshes or wetlands when the area affected is less than 25 acres; provided; however, that areas less than 25 acres shall be subject to Commission review and action;
-
-(i) Where neither a state nor a federal level review and permit system is in effect, and the Executive Director determines that a project is of major regional or interstate significance requiring action by the Commission, or
-
-(ii) When a Commissioner or the Executive Director determines that the final action of a state or federal permitting agency may not adequately reflect the Commission's policy as to wetlands of the Basin. In the case of a project affecting less than 25 acres for which there has been issued a state or federal permit, a determination to undertake review and action by the Commission shall be made no later than 30 days following notification of the Commission of such permit action. The Executive Director, with the approval of the Chairman, may at any time within the 30-day period inform any permit holder, signatory party or other interested party that the Commission will decline to undertake review and action concerning any such project;
+(15) Draining, filling, or otherwise altering marshes or wetlands when the area affected is less than 25 acres; provided, however, that areas less than 25 acres shall be subject to Commission review and action where neither a state nor a Federal level review and permit system is in effect;
 
 (16) The diversion or transfer of water from the Delaware River Basin (exportation) whenever the design capacity is less than a daily average rate of 100,000 gallons;
 
@@ -78,16 +72,14 @@ Link to an amendment published at 86 FR 20629, Apr. 21, 2021.
 
 (13) Draining, filling or otherwise altering marshes or wetlands;
 
-(14) Regional wastewater treatment plans developed pursuant to the Federal Water Pollution Control Act;
+(14) Landfills and solid waste disposal facilities affecting the water resources of the Basin;
 
-(15) Landfills and solid waste disposal facilities affecting the water resources of the Basin;
+(15) State and local standards of flood plain regulation;
 
-(16) State and local standards of flood plain regulation;
+(16) Electric generating or cogenerating facilities designed to consumptively use in excess of 100,000 gallons per day of water during any 30-day period; and
 
-(17) Electric generating or cogenerating facilities designed to consumptively use in excess of 100,000 gallons per day of water during any 30-day period; and
+(17) Any other project that the Commission may specially direct by notice to the project sponsor or land owner as having a potential substantial water quality impact on waters classified as Special Protection Waters.
 
-(18) Any other project that the Executive Director may specially direct by notice to the project sponsor or land owner as having a potential substantial water quality impact on waters classified as Special Protection Waters.
+(c) Regardless of whether expressly excluded from review by paragraph (a) of this section, any project or class of projects that in the view of the Commission could have a substantial effect on the water resources of the basin may, upon special notice to the project sponsor or landowner, be subject to the requirement for review under section 3.8 of the Compact.
 
-(c) Whenever a state or federal agency determines that a project falling within an excluded classification (as defined in paragraph (a) of this section) may have a substantial effect on the water resources of the Basin, such project may be referred by the state or federal agency to the Commission for action under this part.
-
-(d) Except as otherwise provided by § 401.39 the sponsor shall submit an application for review and approval of a project included under paragraph (b) of this section through the appropriate agency of a signatory party. Such agency will transmit the application or a summary thereof to the Executive Director, pursuant to Administrative Agreement, together with available supporting materials filed in accordance with the practice of the agency of the signatory party.
+[62 FR 64155, Dec. 4, 1997, as amended at 86 FR 20629, Apr. 21, 2021]

@@ -4,7 +4,7 @@
 
 (1) The serial number of TTB Form 5110.31 or 5110.51;
 
-(2) Elements necessary to compute the effective tax rate in accordance with § 26.79a as follows -
+(2) Elements necessary to compute the effective tax rate in accordance with § 26.79a as follows—
 
 (i) Proof gallons of distilled spirits (exclusive of distilled spirits derived from eligible flavors);
 
@@ -18,6 +18,6 @@
 
 (5) Signature and title of the consignor.
 
-(b) If the spirits are tax determined for shipment to the United States, the proprietor shall retain the certificate for a period of not less than three years after the last tax determination to which the certificate is applicable. If the spirits are shipped to the United States for transfer from Customs custody to the bonded premises of a distilled spirits plant, the proprietor shall forward the original to the consignee distilled spirits plant in the United States and retain a copy for his files.
+(b) If the spirits are tax determined for shipment to the United States, the proprietor shall retain the certificate for a period of not less than three years after the last tax determination to which the certificate is applicable. If the spirits are shipped to the United States for transfer from customs custody to the bonded premises of a distilled spirits plant, the proprietor shall forward the original to the consignee distilled spirits plant in the United States and retain a copy for his files.
 
 (Approved by the Office of Management and Budget under control number 1512-0203)(Sec. 201, Pub. L. 85-859, 72 Stat. 1366, as amended (26 U.S.C. 5232); Sec. 6, Pub. L. 96-598, 94 Stat. 3488, as amended (26 U.S.C. 5010))[T.D. ATF-297, 55 FR 18067, Apr. 30, 1990. Redesignated and amended by T.D. ATF-459, 66 FR 38550, 38552, July 25, 2001; T.D. TTB-146, 82 FR 1134, Jan. 4, 2017]

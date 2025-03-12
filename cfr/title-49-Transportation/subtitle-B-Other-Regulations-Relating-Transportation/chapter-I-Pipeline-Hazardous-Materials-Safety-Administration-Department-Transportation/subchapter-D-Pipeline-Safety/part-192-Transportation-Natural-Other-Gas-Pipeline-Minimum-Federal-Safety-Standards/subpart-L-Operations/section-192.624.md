@@ -2,7 +2,7 @@
 
 (a) *Applicability.* Operators of onshore steel transmission pipeline segments must reconfirm the maximum allowable operating pressure (MAOP) of all pipeline segments in accordance with the requirements of this section if either of the following conditions are met:
 
-(1) Records necessary to establish the MAOP in accordance with § 192.619(a), including records required by § 192.517(a), are not traceable, verifiable, and complete and the pipeline is located in one of the following locations:
+(1) Records necessary to establish the MAOP in accordance with § 192.619(a)(2), including records required by § 192.517(a), are not traceable, verifiable, and complete and the pipeline is located in one of the following locations:
 
 (i) A high consequence area as defined in § 192.903; or
 
@@ -95,4 +95,4 @@ Table 1 to § 192.624(c)(5)(ii)
 
 (d) *Records.* An operator must retain records of investigations, tests, analyses, assessments, repairs, replacements, alterations, and other actions taken in accordance with the requirements of this section for the life of the pipeline.
 
-[Amdt. No. 192-125, 84 FR 52247, Oct. 1, 2019]
+[Amdt. No. 192-125, 84 FR 52247, Oct. 1, 2019, as amended by Amdt. No. 192-127, 85 FR 40134, July 6, 2020]

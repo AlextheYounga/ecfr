@@ -1,0 +1,3 @@
+##### § 1.909 Exigent circumstances. #####
+
+In emergency situations or when the issuing agency is required by statutory deadline or court order to issue guidance documents more quickly than this subpart's review procedures allow, the issuing agency shall coordinate with OBPA to notify OIRA as soon as possible and, to the extent practicable, shall comply with the requirements of this subpart at the earliest opportunity. Wherever practicable, the issuing agency shall schedule its proceedings to permit sufficient time to comply with the procedures set forth in this subpart.
