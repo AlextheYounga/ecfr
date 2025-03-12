@@ -1,7 +1,5 @@
 ##### § 245.1 Eligibility. #####
 
-Link to an amendment published at 87 FR 13112, Mar. 8, 2022.
-
 (a) *General.* Any alien who is physically present in the United States, except for an alien who is ineligible to apply for adjustment of status under paragraph (b) or (c) of this section, may apply for adjustment of status to that of a lawful permanent resident of the United States if the applicant is eligible to receive an immigrant visa and an immigrant visa is immediately available at the time of filing of the application. A special immigrant described under section 101(a)(27)(J) of the Act shall be deemed, for the purpose of applying the adjustment to status provisions of section 245(a) of the Act, to have been paroled into the United States, regardless of the actual method of entry into the United States.
 
 (b) *Restricted aliens.* The following categories of aliens are ineligible to apply for adjustment of status to that of a lawful permanent resident alien under section 245 of the Act, unless the alien establishes eligibility under the provisions of section 245(i) of the Act and § 245.10, is not included in the categories of aliens prohibited from applying for adjustment of status listed in § 245.1(c), is eligible to receive an immigrant visa, and has an immigrant visa immediately available at the time of filing the application for adjustment of status:
@@ -116,7 +114,7 @@ Link to an amendment published at 87 FR 13112, Mar. 8, 2022.
 
 (viii) *Appeals.* An application for adjustment of status to lawful permanent resident which is denied by the district director solely because the applicant failed to establish eligibility for the bona fide marriage exemption contained in this part may be appealed to the Associate Commissioner, Examinations, in accordance with 8 CFR part 103. The appeal to the Associate Commissioner, Examinations, shall be the single level of appellate review established by statute.
 
-(d) *Definitions* - (1) *Lawful immigration status.* For purposes of section 245(c)(2) of the Act, the term “lawful immigration status” will only describe the immigration status of an individual who is:
+(d) *Definitions*—(1) *Lawful immigration status.* For purposes of section 245(c)(2) of the Act, the term “lawful immigration status” will only describe the immigration status of an individual who is:
 
 (i) In lawful permanent resident status;
 
@@ -142,15 +140,57 @@ Link to an amendment published at 87 FR 13112, Mar. 8, 2022.
 
 (3) *Effect of departure.* The departure and subsequent reentry of an individual who was employed without authorization in the United States after January 1, 1977 does not erase the bar to adjustment of status in section 245(c)(2) of the Act. Similarly, the departure and subsequent reentry of an individual who has not maintained a lawful immigration status on any previous entry into the United States does not erase the bar to adjustment of status in section 245(c)(2) of the Act for any application filed on or after November 6, 1986.
 
-(e) *Special categories* - (1) *Alien medical graduates.* Any alien who is a medical graduate qualified for special immigrant classification under section 101(a)(27)(H) of the Act and is the beneficiary of an approved petition as required under section 204(a)(1)(E)(i) of the Act is eligible for adjustment of status. An accompanying spouse and children also may apply for adjustment of status under this section. Temporary absences from the United States for 30 days or less, during which the applicant was practicing or studying medicine, do not interrupt the continuous presence requirement. Temporary absences authorized under the Service's advance parole procedures will not be considered interruptive of continuous presence when the alien applies for adjustment of status.
+(e) *Special categories*—(1) *Alien medical graduates.* Any alien who is a medical graduate qualified for special immigrant classification under section 101(a)(27)(H) of the Act and is the beneficiary of an approved petition as required under section 204(a)(1)(E)(i) of the Act is eligible for adjustment of status. An accompanying spouse and children also may apply for adjustment of status under this section. Temporary absences from the United States for 30 days or less, during which the applicant was practicing or studying medicine, do not interrupt the continuous presence requirement. Temporary absences authorized under the Service's advance parole procedures will not be considered interruptive of continuous presence when the alien applies for adjustment of status.
 
 (2) [Reserved]
 
-(3) *Special immigrant juveniles.* Any alien qualified for special immigrant classification under section 101(a)(27)(J) of the Act shall be deemed, for the purpose of section 245(a) of the Act, to have been paroled into the United States, regardless of the alien's actual method of entry into the United States. Neither the provisions of section 245(c)(2) nor the exclusion provisions of sections 212(a)(4), (5)(A), or (7)(A) of the Act shall apply to a qualified special immigrant under section 101(a)(27)(J) of the Act. The exclusion provisions of sections 212(a)(2)(A), (2)(B), (2)(C) (except for so much of such paragraph as related to a single offense of simple possession of 30 grams or less of marijuana), (3)(A), (3)(B), (3)(C), or (3)(E) of the Act may not be waived. Any other exclusion provision may be waived on an individual basis for humanitarian purposes, family unity, or when it is otherwise in the public interest; however, the relationship between the alien and the alien's natural parents or prior adoptive parents shall not be considered a factor in a discretionary waiver determination.
+(3) *Special immigrant juveniles*—(i) *Eligibility for adjustment of status.* For the limited purpose of meeting one of the eligibility requirements for adjustment of status under section 245(a) of the Act, which requires that an individual be inspected and admitted or paroled, an applicant classified as a special immigrant juvenile under section 101(a)(27)(J) of the Act will be deemed to have been paroled into the United States as provided in § 245.1(a) and section 245(h) of the Act.
+
+(ii) *Bars to adjustment.* An applicant classified as a special immigrant juvenile is subject only to the adjustment bar described in section 245(c)(6) of the Act. Therefore, an applicant classified as a special immigrant juvenile is barred from adjustment if deportable due to engagement in terrorist activity or association with terrorist organizations (section 237(a)(4)(B) of the Act). There is no waiver of or exemption to this adjustment bar if it applies.
+
+(iii) *Inadmissibility provisions that do not apply.* The following inadmissibility provisions of section 212(a) of the Act do not apply to an applicant classified as a special immigrant juvenile and do not render the applicant ineligible for the benefit:
+
+(A) Public charge (section 212(a)(4) of the Act);
+
+(B) Labor certification (section 212(a)(5)(A) of the Act);
+
+(C) Aliens present without admission or parole (section 212(a)(6)(A) of the Act);
+
+(D) Misrepresentation (section 212(a)(6)(C) of the Act);
+
+(E) Stowaways (section 212(a)(6)(D) of the Act);
+
+(F) Documentation requirements for immigrants (section 212(a)(7)(A) of the Act);
+
+(G) Aliens unlawfully present (section 212(a)(9)(B) of the Act);
+
+(iv) *Inadmissibility provisions that do apply.* Except as provided for in paragraph (e)(3)(iii) of this section, all inadmissibility provisions in section 212(a) of the Act apply to an applicant classified as a special immigrant juvenile.
+
+(v) *Waivers.* (A) Pursuant to section 245(h)(2)(B) of the Act, USCIS may grant a waiver for humanitarian purposes, to assure family unity, or in the public interest for any applicable provision of section 212(a) of the Act to an applicant seeking to adjust status based upon their classification as a special immigrant juvenile, except for the following provisions:
+
+*(1)* Conviction of certain crimes (section 212(a)(2)(A) of the Act) (except for a single offense of simple possession of 30 grams or less of marijuana);
+
+*(2)* Multiple criminal convictions (section 212(a)(2)(B) of the Act) (except for a single offense of simple possession of 30 grams or less of marijuana);
+
+*(3)* Controlled substance traffickers (section 212(a)(2)(C) of the Act) (except for a single offense of simple possession of 30 grams or less of marijuana);
+
+*(4)* Security and related grounds (section 212(a)(3)(A) of the Act);
+
+*(5)* Terrorist activities (section 212(a)(3)(B) of the Act);
+
+*(6)* Foreign policy (section 212(a)(3)(C) of the Act); or
+
+*(7)* Participants in Nazi persecution, genocide, or the commission of any act of torture or extrajudicial killing (section 212(a)(3)(E) of the Act).
+
+(B) The relationship between an applicant classified as a special immigrant juvenile and the applicant's natural or prior adoptive parents cannot be considered a factor in issuing a waiver based on family unity under paragraph (v) of this section.
+
+(vi) *No parental immigration rights based on special immigrant juvenile classification.* The natural or prior adoptive parent(s) of an applicant classified as a special immigrant juvenile will not be accorded any right, privilege, or status under the Act by virtue of their parentage. This prohibition applies to all of the applicant's natural and prior adoptive parent(s) and remains in effect even after the special immigrant juvenile becomes a lawful permanent resident or a United States citizen.
+
+(vii) *No contact.* During the application or interview process, USCIS will take no action that requires an applicant classified as a special immigrant juvenile to contact the person who allegedly battered, abused, neglected, or abandoned the applicant (or the family member of such person(s)).
 
 (f) *Concurrent applications to overcome grounds of inadmissibility.* Except as provided in 8 CFR parts 235 and 249, an application under this part shall be the sole method of requesting the exercise of discretion under sections 212(g), (h), (i), and (k) of the Act, as they relate to the inadmissibility of an alien in the United States. No fee is required for filing an application to overcome the grounds of inadmissibility of the Act if filed concurrently with an application for adjustment of status under the provisions of the Act of October 28, 1977, and of this part.
 
-(g) *Availability of immigrant visas under section 245 and priority dates* - (1) *Availability of immigrant visas under section 245.* An alien is ineligible for the benefits of section 245 of the Act unless an immigrant visa is immediately available to him or her at the time the application is filed. If the applicant is a preference alien, the current Department of State Bureau of Consular Affairs Visa Bulletin will be consulted to determine whether an immigrant visa is immediately available. A preference immigrant visa is considered available for accepting and processing if the applicant has a priority date on the waiting list which is earlier than the date shown in the Bulletin (or the Bulletin shows that numbers for visa applicants in his or her category are current). Information concerning the immediate availability of an immigrant visa may be obtained at any Service office.
+(g) *Availability of immigrant visas under section 245 and priority dates*—(1) *Availability of immigrant visas under section 245.* An alien is ineligible for the benefits of section 245 of the Act unless an immigrant visa is immediately available to him or her at the time the application is filed. If the applicant is a preference alien, the current Department of State Bureau of Consular Affairs Visa Bulletin will be consulted to determine whether an immigrant visa is immediately available. A preference immigrant visa is considered available for accepting and processing if the applicant has a priority date on the waiting list which is earlier than the date shown in the Bulletin (or the Bulletin shows that numbers for visa applicants in his or her category are current). Information concerning the immediate availability of an immigrant visa may be obtained at any Service office.
 
 (2) *Priority dates.* The priority date of an applicant who is seeking the allotment of an immigrant visa number under one of the preference classes specified in section 203(a) or 203(b) of the Act by virtue of a valid visa petition approved in his or her behalf shall be fixed by the date on which such approved petition was filed.
 

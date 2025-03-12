@@ -1,7 +1,5 @@
 ##### § 205.1 Automatic revocation. #####
 
-Link to an amendment published at 87 FR 13112, Mar. 8, 2022.
-
 (a) *Reasons for automatic revocation.* The approval of a petition or self-petition made under section 204 of the Act and in accordance with part 204 of this chapter is revoked as of the date of approval:
 
 (1) If the Secretary of State shall terminate the registration of the beneficiary pursuant to the provisions of section 203(e) of the Act before October 1, 1991, or section 203(g) of the Act on or after October 1, 1994;
@@ -54,18 +52,8 @@ Link to an amendment published at 87 FR 13112, Mar. 8, 2022.
 
 (D) Upon termination of the petitioning employer's business less than 180 days after petition approval under section 203(b)(1)(B), 203(b)(1)(C), 203(b)(2), or 203(b)(3) of the Act, unless an associated adjustment of status application has been pending for 180 days or more. If a petitioning employer's business terminates 180 days or more after petition approval, or 180 days or more after an associated adjustment of status application has been filed, the petition remains approved unless its approval is revoked on other grounds. If a petitioning employer's business terminates the job offer of the petitioning employer is rescinded and the beneficiary must obtain a new employment-based preference petition on his or her behalf in order to seek adjustment of status or issuance of an immigrant visa as an employment-based immigrant, unless eligible for adjustment of status under section 204(j) of the Act and in accordance with 8 CFR 245.25.
 
-(iv) *Special immigrant juvenile petitions.* Unless the beneficiary met all of the eligibility requirements as of November 29, 1990, and the petition requirements as of November 29, 1990, and the petition for classification as a special immigrant juvenile was filed before June 1, 1994, or unless the change in circumstances resulted from the beneficiary's adoption or placement in a guardianship situation:
-
-(A) Upon the beneficiary reaching the age of 21;
-
-(B) Upon the marriage of the beneficiary;
-
-(C) Upon the termination of the beneficiary's dependency upon the juvenile court;
-
-(D) Upon the termination of the beneficiary's eligibility for long-term foster care; or
-
-(E) Upon the determination in administrative or judicial proceedings that it is in the beneficiary's best interest to be returned to the country of nationality or last habitual residence of the beneficiary or of his or her parent or parents.
+(iv) *Special immigrant juvenile petitions.* An approved petition for classification as a special immigrant juvenile will be revoked as provided in 8 CFR 204.11(j)(1).
 
 (b) *Notice.* When it shall appear to the director that the approval of a petition has been automatically revoked, he or she shall cause a notice of such revocation to be sent promptly to the consular office having jurisdiction over the visa application and a copy of such notice to be mailed to the petitioner's last known address.
 
-[61 FR 13077, Mar. 26, 1996, as amended at 71 FR 35749, June 21, 2006; 81 FR 73332, Oct. 24, 2016; 81 FR 82486, Nov. 18, 2016]
+[61 FR 13077, Mar. 26, 1996, as amended at 71 FR 35749, June 21, 2006; 81 FR 73332, Oct. 24, 2016; 81 FR 82486, Nov. 18, 2016; 87 FR 13112, Mar. 8, 2022]

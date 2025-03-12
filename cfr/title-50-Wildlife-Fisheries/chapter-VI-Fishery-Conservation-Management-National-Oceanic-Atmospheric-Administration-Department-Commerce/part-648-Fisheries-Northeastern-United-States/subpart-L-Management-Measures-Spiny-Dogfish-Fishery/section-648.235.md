@@ -1,5 +1,7 @@
 ##### § 648.235 Spiny dogfish possession and landing restrictions. #####
 
+Link to an amendment published at 87 FR 20350, Apr. 7, 2022.
+
 (a) *Possession limit.* Vessels issued a valid Federal spiny dogfish permit under § 648.4(a)(11) may:
 
 (1) Possess up to 6,000 lb (2,722 kg) of spiny dogfish per trip; and

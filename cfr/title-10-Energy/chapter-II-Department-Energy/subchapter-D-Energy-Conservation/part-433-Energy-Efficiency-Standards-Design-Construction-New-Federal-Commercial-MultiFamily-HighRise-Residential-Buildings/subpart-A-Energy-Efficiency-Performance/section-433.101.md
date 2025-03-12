@@ -1,5 +1,7 @@
 ##### § 433.101 Performance level determination. #####
 
+Link to an amendment published at 87 FR 20294, Apr. 7, 2022.
+
 (a)(1) For Federal buildings for which design for construction began on or after January 3, 2007, but before August 10, 2012, each Federal agency shall determine energy consumption levels for both the ASHRAE Baseline Building 2004 and proposed building by using the Performance Rating Method found in Appendix G of ASHRAE 90.1-2004 (incorporated by reference, see § 433.3), except the formula for calculating the Performance Rating in paragraph G1.2 shall read as follows:
 
 (i) Percentage improvement = 100 × ((Baseline building consumption - Receptacle and process loads) - (Proposed building consumption - Receptacle and process loads))/(Baseline building consumption - Receptacle and process loads) (which simplifies as follows):

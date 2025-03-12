@@ -1,11 +1,5 @@
 ##### § 117.500 Tchefuncta River. #####
 
-Link to an amendment published at 87 FR 12861, Mar. 8, 2022.
+The draw of the SR 22 Bridge, mile 2.5, at Madisonville, LA shall operate according to the following schedule. On Monday through Friday the draw will operate as follows: From 6 p.m. to 5:59 a.m. the draw will open on signal; from 6 a.m. to 7:59 a.m. the draw need not open; from 8 a.m. to 4 p.m. the draw will open on signal on the hour; from 4:01 p.m. to 6 p.m. the draw need not open. On Saturday and Sunday the draw will operate as follows: From 6 p.m. to 6 a.m. the draw will open on signal; from 6 a.m. to 6 p.m. the draw will open on signal on the hour.
 
-The draw of the S22 Bridge, mile 2.5, at Madisonville, LA shall open on signal from 7 p.m. to 6 a.m. From 6 a.m. to 7 p.m. the draw need only open on the hour and half hour, except that:
-
-(a) From 6 a.m. to 9 a.m. Monday through Friday except federal holidays the draw need only open on the hour; and
-
-(b) From 4 p.m. to 5:30 p.m. Monday through Friday except federal holidays the draw need not open.
-
-[USCG-2016-0963, 83 FR 53812, Oct. 25, 2018]
+[USCG-2016-0963, 87 FR 12861, Mar. 8, 2022]
