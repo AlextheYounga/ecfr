@@ -1,5 +1,7 @@
 ##### § 665.813 Western Pacific longline fishing restrictions. #####
 
+Link to an amendment published at 87 FR 25156, Apr. 28, 2022.
+
 (a) [Reserved]
 
 (b) *Limits on sea turtle interactions in the shallow-set longline fishery* - (1) *Fleet Limits.* There are limits on the maximum number of allowable physical interactions that occur each year between leatherback sea turtles and vessels registered for use under Hawaii longline limited access permits while engaged in shallow-set fishing.

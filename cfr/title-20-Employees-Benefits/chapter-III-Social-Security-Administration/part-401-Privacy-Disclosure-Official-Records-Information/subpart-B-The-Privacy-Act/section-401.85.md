@@ -1,5 +1,7 @@
 ##### § 401.85 Exempt systems. #####
 
+Link to an amendment published at 87 FR 25141, Apr. 28, 2022.
+
 (a) *General policy.* The Privacy Act permits certain types of specific systems of records to be exempt from some of its requirements. Our policy is to exercise authority to exempt systems of records only in compelling cases.
 
 (b) *Specific systems of records exempted.* (1) Those systems of records listed in paragraph (b)(2) of this section are exempt from the following provisions of the Act and this part:

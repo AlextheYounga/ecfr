@@ -1,5 +1,7 @@
 ##### § 665.800 Definitions. #####
 
+Link to an amendment published at 87 FR 25155, Apr. 28, 2022.
+
 As used in §§ 665.798 through 665.818:
 
 *American Samoa longline limited access permit* means the permit required by § 665.801 to use a vessel shoreward of the outer boundary of the EEZ around American Samoa to fish for western Pacific pelagic MUS using longline gear or to land or transship western Pacific pelagic MUS that were caught in the EEZ around American Samoa using longline gear.

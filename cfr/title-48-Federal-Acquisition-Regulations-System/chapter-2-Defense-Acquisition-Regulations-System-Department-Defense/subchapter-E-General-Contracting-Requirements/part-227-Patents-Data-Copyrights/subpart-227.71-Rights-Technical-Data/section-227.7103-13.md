@@ -4,25 +4,9 @@
 
 (b) *Pre-award considerations.* The challenge procedures required by 10 U.S.C. 2321 could significantly delay awards under competitive procurements. Therefore, avoid challenging asserted restrictions prior to a competitive contract award unless resolution of the assertion is essential for successful completion of the procurement.
 
-(c) *Challenge considerations and presumption.*
+(c) *Challenge considerations and presumption* - (1) *Requirements to initiate a challenge.* Contracting officers shall have reasonable grounds to challenge the validity of an asserted restriction. Before issuing a challenge to an asserted restriction, carefully consider all available information pertaining to the assertion.
 
-(1) *Requirements to initiate a challenge.* Contracting officers shall have reasonable grounds to challenge the validity of an asserted restriction. Before issuing a challenge to an asserted restriction, carefully consider all available information pertaining to the assertion. The contracting officer shall not challenge a contractor's assertion that a commercial item was developed exclusively at private expense unless the Government can demonstrate that it contributed to development of that item.
-
-(2) *Presumption regarding development exclusively at private expense.* 10 U.S.C. 2320(b)(1) and 2321(f) establish a presumption and procedures regarding validation of asserted restrictions for technical data related to commercial items, and to major systems, on the basis of development exclusively at private expense.
-
-(i) *Commercial items.* Except as provided in paragraph (c)(2)(ii) of this section, contracting officers shall presume that a commercial item was developed exclusively at private expense whether or not a contractor or subcontractor submits a justification in response to a challenge notice. When a challenge is warranted, a contractor's or subcontractor's failure to respond to the challenge notice cannot be the sole basis for issuing a final decision denying the validity of an asserted restriction.
-
-(ii) *Major weapon systems.* When the contracting officer challenges an asserted restriction regarding technical data for a major weapon system or a subsystem or component thereof on the basis that the technology was not developed exclusively at private expense -
-
-(A) The presumption in paragraph (c)(2)(i) of this section applies to -
-
-(*1*) A commercial subsystem or component of a major weapon system, if the major weapon system was acquired as a commercial item in accordance with subpart 234.70 (10 U.S.C. 2379(a));
-
-(*2*) A component of a subsystem, if the subsystem was acquired as a commercial item in accordance with subpart 234.70 (10 U.S.C. 2379(b)); and
-
-(*3*) Any other component, if the component is a commercially available off-the-shelf item or a commercially available off-the-shelf item with modifications of a type customarily available in the commercial marketplace or minor modifications made to meet Federal Government requirements; and
-
-(B) In all other cases, the contracting officer shall sustain the challenge unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
+(2) *Commercial items - presumption regarding development exclusively at private expense.* 10 U.S.C. 2320(b)(1) and 2321(f) establish a presumption and procedures regarding validation of asserted restrictions for technical data related to commercial items on the basis of development exclusively at private expense. Contracting officers shall presume that a commercial item was developed exclusively at private expense whether or not a contractor or subcontractor submits a justification in response to a challenge notice. The contracting officer shall not challenge a contractor's assertion that a commercial item was developed exclusively at private expense unless the Government can specifically state the reasonable grounds to question the validity of the assertion. The challenge notice shall include sufficient information to reasonably demonstrate that the commercial item was not developed exclusively at private expense. In order to sustain the challenge, the contracting officer shall provide information demonstrating that the commercial item was not developed exclusively at private expense. The challenge notice and all related correspondence shall be subject to handling procedures for classified information and controlled unclassified information. A contractor's or subcontractor's failure to respond to the challenge notice cannot be the sole basis for issuing a final decision denying the validity of an asserted restriction.
 
 (d) *Challenge and validation.* All challenges shall be made in accordance with the provisions of the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data.
 
@@ -34,7 +18,7 @@
 
 (iii) Have been otherwise made available without restriction other than a release or disclosure resulting from the sale, transfer, or other assignment of interest in the technical data to another party or the sale or transfer of some or all of a business entity or its assets to another party.
 
-(2) *Pre-challenge requests for information.* (i) After consideration of the situations described in paragraph (d)(3) of this subsection, contracting officers may request the person asserting a restriction to furnish a written explanation of the facts and supporting documentation for the assertion in sufficient detail to enable the contracting officer to ascertain the basis of the restrictive markings. Additional supporting documentation may be requested when the explanation provided by the person making the assertion does not, in the contracting officer's opinion, establish the validity of the assertion.
+(2) *Pre-challenge requests for information.* (i) After consideration of the situations described in paragraph (d)(3) of this section, contracting officers may request the person asserting a restriction to furnish a written explanation of the facts and supporting documentation for the assertion in sufficient detail to enable the contracting officer to ascertain the basis of the restrictive markings. Additional supporting documentation may be requested when the explanation provided by the person making the assertion does not, in the contracting officer's opinion, establish the validity of the assertion.
 
 (ii) If the person asserting the restriction fails to respond to the contracting officer's request for information or additional supporting documentation, or if the information submitted or any other available information pertaining to the validity of a restrictive marking does not justify the asserted restriction, a challenge should be considered.
 
@@ -46,7 +30,7 @@
 
 (iii) Requested to do so by a subcontractor or supplier.
 
-(4) *Challenge notice.* The contracting officer shall not issue a challenge notice unless there are reasonable grounds to question the validity of an assertion. The contracting officer may challenge an assertion whether or not supporting documentation was requested under paragraph (d)(2) of this subsection. Challenge notices shall be in writing and issued to the contractor or, after consideration of the situations described in paragraph (d)(3) of this subsection, the person asserting the restriction. The challenge notice shall include the information in paragraph (e) of the clause at 252.227-7037.
+(4) *Challenge notice.* The contracting officer shall not issue a challenge notice unless there are reasonable grounds to question the validity of an assertion. For commercial items, also see paragraph (c)(2) of this section. The contracting officer may challenge an assertion whether or not supporting documentation was requested under paragraph (d)(2) of this section. Challenge notices shall be in writing and issued to the contractor or, after consideration of the situations described in paragraph (d)(3) of this section, the person asserting the restriction. The challenge notice shall include the information in paragraph (e) of the clause at 252.227-7037.
 
 (5) *Extension of response time.* The contracting officer, at his or her discretion, may extend the time for response contained in a challenge notice, as appropriate, if the contractor submits a timely written request showing the need for additional time to prepare a response.
 
@@ -62,4 +46,4 @@
 
 (8) *Validation.* Only a contracting officer's final decision, or actions of an agency board of contract appeals or a court of competent jurisdiction, that sustain the validity of an asserted restriction constitute validation of the asserted restriction.
 
-[60 FR 33471, June 28, 1995, as amended at 81 FR 65566, Sept. 23, 2016]
+[60 FR 33471, June 28, 1995, as amended at 81 FR 65566, Sept. 23, 2016; 87 FR 25151, Apr. 28, 2022]

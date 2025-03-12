@@ -2,9 +2,9 @@
 
                                                                                                                 As prescribed in 225.7002-3(a), use the following clause:
 
-                                                                                                                Preference for Certain Domestic Commodities (MAR 2022)
+                                                                                                                Preference for Certain Domestic Commodities (APR 2022)
 
-                                                                                                                (a) *Definitions.* As used in this clause -
+                                                                                                                (a) *Definitions.* As used in this clause—
 
                                                                                                                 *Component* means any item supplied to the Government as part of an end product or of another component.
 
@@ -14,11 +14,11 @@
 
                                                                                                                 AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGermanyGreeceIsraelItalyJapanLatviaLithuaniaLuxembourgNetherlandsNorway PolandPortugalSloveniaSpainSwedenSwitzerlandTurkeyUnited Kingdom of Great Britain and Northern Ireland.
 
-*Structural component of a tent* -
+*Structural component of a tent*—
 
-(i) Means a component that contributes to the form and stability of the tent (e.g., poles, frames, flooring, guy ropes, pegs);
+(1) Means a component that contributes to the form and stability of the tent (e.g., poles, frames, flooring, guy ropes, pegs); and
 
-(ii) Does not include equipment such as heating, cooling, or lighting.
+(2) Does not include equipment such as heating, cooling, or lighting.
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
@@ -50,15 +50,15 @@
 
 (10) Any item of individual equipment (Federal Supply Class 8465) manufactured from or containing fibers, yarns, fabrics, or materials listed in this paragraph (b).
 
-(c) This clause does not apply -
+(c) This clause does not apply—
 
-(1) To items listed in section 25.104(a) of the Federal Acquisition Regulation (FAR), or other items for which the Government has determined that a satisfactory quality and sufficient quantity cannot be acquired as and when needed at U.S. market prices;
+(1) To items listed in section 25.104(a) of the Federal Acquisition Regulation, or other items for which the Government has determined that a satisfactory quality and sufficient quantity cannot be acquired as and when needed at U.S. market prices;
 
-(2) To incidental amounts of cotton, other natural fibers, or wool incorporated in an end product, for which the estimated value of the cotton, other natural fibers, or wool -
+(2) To incidental amounts of cotton, other natural fibers, or wool incorporated in an end product, for which the estimated value of the cotton, other natural fibers, or wool—
 
 (i) Is not more than 10 percent of the total price of the end product; and
 
-(ii) Does not exceed the simplified acquisition threshold in FAR part 2;
+(ii) Does not exceed the threshold at Defense Federal Acquisition Regulation Supplement 225.7002-2(a);
 
 (3) To waste and byproducts of cotton or wool fiber for use in the production of propellants and explosives;
 
@@ -66,9 +66,9 @@
 
 (5) To chemical warfare protective clothing produced in a qualifying country; or
 
-(6) To fibers and yarns that are for use in synthetic fabric or coated synthetic fabric (but does apply to the synthetic or coated synthetic fabric itself), if -
+(6) To fibers and yarns that are for use in synthetic fabric or coated synthetic fabric (but does apply to the synthetic or coated synthetic fabric itself), if—
 
-(i) The fabric is to be used as a component of an end product that is not a textile product. Examples of textile products, made in whole or in part of fabric, include -
+(i) The fabric is to be used as a component of an end product that is not a textile product. Examples of textile products, made in whole or in part of fabric, include—
 
 (A) Draperies, floor coverings, furnishings, and bedding (Federal Supply Group 72, Household and Commercial Furnishings and Appliances);
 
@@ -80,7 +80,7 @@
 
 (ii) The fibers and yarns are para-aramid fibers and continuous filament para-aramid yarns manufactured in a qualifying country.
 
-(d)(1) Fish, shellfish, and seafood delivered under this contract, or contained in foods delivered under this contract -
+(d)(1) Fish, shellfish, and seafood delivered under this contract, or contained in foods delivered under this contract—
 
 (i) Shall be taken from the sea by U.S.-flag vessels; or
 
@@ -88,4 +88,4 @@
 
 (2) Any processing or manufacturing of the fish, shellfish, or seafood shall be performed on a U.S.-flag vessel or in the United States.
 
-(End of clause)[67 FR 20698, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 72 FR 2638, Jan. 22, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 75 FR 34945, June 21, 2010; 77 FR 38736, 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 13546, Feb. 28, 2013; 81 FR 50651, Aug. 2, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 87 FR 15816, Mar. 18, 2022]
+(End of clause)[67 FR 20698, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 72 FR 2638, Jan. 22, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 75 FR 34945, June 21, 2010; 77 FR 38736, 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 13546, Feb. 28, 2013; 81 FR 50651, Aug. 2, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 87 FR 15816, Mar. 18, 2022; 87 FR 25147, Apr. 28, 2022]
