@@ -1,10 +1,8 @@
 ##### § 1.446-2 Method of accounting for interest. #####
 
-Link to an amendment published at 86 FR 836, Jan. 6, 2021.
+(a) *Applicability*—(1) *In general.* This section provides rules for determining the amount of interest that accrues during an accrual period (other than interest described in paragraph (a)(2) of this section) and for determining the portion of a payment that consists of accrued interest. For purposes of this section, interest includes original issue discount and amounts treated as interest (whether stated or unstated) in any lending or deferred payment transaction. Accrued interest determined under this section is taken into account by a taxpayer under the taxpayer's regular method of accounting (e.g., an accrual method or the cash receipts and disbursements method). Application of an exception described in paragraph (a)(2) of this section to one party to a transaction does not affect the application of this section to any other party to the transaction.
 
-(a) *Applicability* - (1) *In general.* This section provides rules for determining the amount of interest that accrues during an accrual period (other than interest described in paragraph (a)(2) of this section) and for determining the portion of a payment that consists of accrued interest. For purposes of this section, interest includes original issue discount and amounts treated as interest (whether stated or unstated) in any lending or deferred payment transaction. Accrued interest determined under this section is taken into account by a taxpayer under the taxpayer's regular method of accounting (e.g., an accrual method or the cash receipts and disbursements method). Application of an exception described in paragraph (a)(2) of this section to one party to a transaction does not affect the application of this section to any other party to the transaction.
-
-(2) *Exceptions* - (i) *Interest included or deducted under certain other provisions.* This section does not apply to interest that is taken into account under -
+(2) *Exceptions*—(i) *Interest included or deducted under certain other provisions.* This section does not apply to interest that is taken into account under—
 
 (A) Sections 1272(a), 1275, and 163(e) (income and deductions relating to original issue discount);
 
@@ -14,9 +12,11 @@ Link to an amendment published at 86 FR 836, Jan. 6, 2021.
 
 (D) Sections 1281 through 1283 (discount on certain short-term obligations);
 
-(E) Section 7872(a) (certain loans with below-market interest rates); or
+(E) Section 7872(a) (certain loans with below-market interest rates);
 
-(F) Section 1.1272-3 (an election by a holder to treat all interest on a debt instrument as original issue discount).
+(F) Section 1.1272-3 (an election by a holder to treat all interest on a debt instrument as original issue discount); or
+
+(G) Section 1.451-3(j) (special ordering rule for specified fees).
 
 (ii) *De minimis original issue discount.* This section does not apply to de minimis original issue discount (other than de minimis original issue discount treated as qualified stated interest) as determined under § 1.1273-1(d). See § 1.163-7 for the treatment of de minimis original issue discount by the issuer and §§ 1.1273-1(d) and 1.1272-3 for the treatment of de minimis original issue discount by the holder.
 
@@ -24,7 +24,7 @@ Link to an amendment published at 86 FR 836, Jan. 6, 2021.
 
 (c) *Accrual of interest other than qualified stated interest.* Subject to the modifications in paragraph (d) of this section, the amount of interest (other than qualified stated interest) that accrues for any accrual period is determined under rules similar to those in the regulations under sections 1272 and 1275 for the accrual of original issue discount. The preceding sentence applies regardless of any contrary formula agreed to by the parties.
 
-(d) *Modifications* - (1) *Issue price.* The issue price of the loan or contract is equal to -
+(d) *Modifications*—(1) *Issue price.* The issue price of the loan or contract is equal to—
 
 (i) In the case of a contract for the sale or exchange of property to which section 483 applies, the amount described in § 1.483-2(a)(1)(i) or (ii), whichever is applicable;
 
@@ -34,13 +34,13 @@ Link to an amendment published at 86 FR 836, Jan. 6, 2021.
 
 (2) *Principal payments that are not deferred payments.* In the case of a contract to which section 483 applies, principal payments that are not deferred payments are ignored for purposes of determining yield and adjusted issue price.
 
-(e) *Allocation of interest to payments* - (1) *In general.* Except as provided in paragraphs (e)(2), (e)(3), and (e)(4) of this section, each payment under a loan (other than payments of additional interest or similar charges provided with respect to amounts that are not paid when due) is treated as a payment of interest to the extent of the accrued and unpaid interest determined under paragraphs (b) and (c) of this section as of the date the payment becomes due.
+(e) *Allocation of interest to payments*—(1) *In general.* Except as provided in paragraphs (e)(2), (e)(3), and (e)(4) of this section, each payment under a loan (other than payments of additional interest or similar charges provided with respect to amounts that are not paid when due) is treated as a payment of interest to the extent of the accrued and unpaid interest determined under paragraphs (b) and (c) of this section as of the date the payment becomes due.
 
 (2) *Special rule for points deductible under section 461(g)(2).* If a payment of points is deductible by the borrower under section 461(g)(2), the payment is treated by the borrower as a payment of interest.
 
 (3) *Allocation respected in certain small transactions.* [Reserved]
 
-(4) *Pro rata prepayments.* Accrued but unpaid interest is allocated to a pro rata prepayment under rules similar to those for allocating accrued but unpaid original issue discount to a pro rata prepayment under § 1.1275-2(f). For purposes of the preceding sentence, a pro rata prepayment is a payment that is made prior to maturity that -
+(4) *Pro rata prepayments.* Accrued but unpaid interest is allocated to a pro rata prepayment under rules similar to those for allocating accrued but unpaid original issue discount to a pro rata prepayment under § 1.1275-2(f). For purposes of the preceding sentence, a pro rata prepayment is a payment that is made prior to maturity that—
 
 (i) Is not made pursuant to the contract's payment schedule; and
 
@@ -64,4 +64,4 @@ Example. Allocation of unstated interest to deferred payments.(i) *Facts.* On Ju
 
 (j) *Effective date.* This section applies to debt instruments issued on or after April 4, 1994, and to lending transactions, sales, and exchanges that occur on or after April 4, 1994. Taxpayers, however, may rely on this section for debt instruments issued after December 21, 1992, and before April 4, 1994, and for lending transactions, sales, and exchanges that occur after December 21, 1992, and before April 4, 1994.
 
-[T.D. 8517, 59 FR 4804, Feb. 2, 1994]
+[T.D. 8517, 59 FR 4804, Feb. 2, 1994, T.D. 9941, 86 FR 836, Jan. 6, 2021; 86 FR 1256, Jan. 8, 2021]

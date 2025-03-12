@@ -46,11 +46,9 @@ S5.2.5 *Footrests.* Footrests shall be provided for each designated seating posi
 
 ![](/graphics/er30au05.000.gif)![](/graphics/er30au05.001.gif)
 
-Table 2 - Motorcycle Display Illumination and Operation Requirements
+|  Display—Column 1   |Illumination—Column 2|                            Operation—Column 3                             |
+|---------------------|---------------------|---------------------------------------------------------------------------|
+|   1. Speedometer    |         Yes         |      The display is illuminated whenever the headlamp is activated.       |
+|2. Neutral indication| Green display lamp  |The display lamp illuminates when the gear selector is in neutral position.|
 
-| Display - Column 1  |Illumination - Column 2|                           Operation - Column 3                            |
-|---------------------|-----------------------|---------------------------------------------------------------------------|
-|   1. Speedometer    |          Yes          |      The display is illuminated whenever the headlamp is activated.       |
-|2. Neutral indication|  Green display lamp   |The display lamp illuminates when the gear selector is in neutral position.|
-
-![](/graphics/er30au05.002.gif)[37 FR 7207, Apr. 12, 1972, as amended at 37 FR 17475, Aug. 29, 1972; 39 FR 32915, Sept. 12, 1974; 48 FR 42819, Sept. 20, 1983; 49 FR 35381, Sept. 7, 1984; 49 FR 35504, Sept. 10, 1984; 56 FR 61387, Dec. 3, 1991; 63 FR 28933, May 27, 1998; 63 FR 51001, Sept. 24, 1998; 70 FR 51295, Aug. 30, 2005]
+![](/graphics/er08ja21.013.gif)![](/graphics/er08ja21.014.gif)[37 FR 7207, Apr. 12, 1972, as amended at 37 FR 17475, Aug. 29, 1972; 39 FR 32915, Sept. 12, 1974; 48 FR 42819, Sept. 20, 1983; 49 FR 35381, Sept. 7, 1984; 49 FR 35504, Sept. 10, 1984; 56 FR 61387, Dec. 3, 1991; 63 FR 28933, May 27, 1998; 63 FR 51001, Sept. 24, 1998; 70 FR 51295, Aug. 30, 2005; 86 FR 1298, Jan. 8, 2020]

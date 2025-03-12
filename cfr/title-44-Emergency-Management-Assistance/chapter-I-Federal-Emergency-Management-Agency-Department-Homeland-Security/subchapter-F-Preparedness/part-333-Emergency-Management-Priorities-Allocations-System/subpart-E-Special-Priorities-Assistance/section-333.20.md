@@ -4,4 +4,6 @@
 
 (b) Special priorities assistance can be provided for any reason consistent with this part, such as assisting in obtaining timely deliveries of items needed to satisfy rated orders or authorizing the use of priority ratings on orders to obtain items not otherwise ratable under this part. Special priorities assistance may also be used to request rating authority for items that are not normally eligible for priority treatment.
 
-(c) A request for special priorities assistance or priority rating authority may be submitted on FEMA Form 009-0-142 (OMB control number 1660-NW122) to FEMA. Form 009-0-142 may be obtained from the Delegate Agency or from FEMA.
+(c) A request for special priorities assistance or priority rating authority may be submitted on FEMA Form 009-0-142 (OMB control number 1660-0149) to FEMA. Form 009-0-142 may be obtained from the Delegate Agency or from FEMA.
+
+[85 FR 28510, May 13, 2020, as amended at 86 FR 1292, Jan. 8, 2021]

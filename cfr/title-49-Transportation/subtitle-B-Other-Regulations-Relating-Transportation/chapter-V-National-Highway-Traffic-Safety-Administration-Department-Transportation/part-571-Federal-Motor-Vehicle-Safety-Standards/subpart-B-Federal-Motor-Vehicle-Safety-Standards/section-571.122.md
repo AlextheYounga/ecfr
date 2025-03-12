@@ -128,7 +128,7 @@ S5.1.9 *Hydraulic service brake system.* For motorcycles that use hydraulic flui
 
 (c) Have a reservoir where the fluid level is visible for checking without removal of the cover.
 
-(d) Have a brake fluid warning statement that reads as follows, in letters at least 3/32 of an inch high: *Warning: Clean filler cap before removing. Use only \_\_\_\_ fluid from a sealed container* (inserting the recommended type of brake fluid as specified in accordance with 49 CFR 571.116, e.g., “DOT 3”). The lettering shall be:
+(d) Have a brake fluid warning statement that reads as follows, in letters at least 3/32 of an inch high: *Warning: Clean filler cap before removing. Use only \_\_\_\_\_\_\_\_ fluid from a sealed container* (inserting the recommended type of brake fluid as specified in accordance with 49 CFR 571.116, e.g., “DOT 3”). The lettering shall be:
 
 (1) Permanently affixed, engraved, or embossed;
 
@@ -160,7 +160,7 @@ S5.1.10.2 *Antilock brake system warning lamps.*
 
 (b) To permit function checking, the warning lamp shall be illuminated by the activation of the ignition switch and extinguished when the check has been completed. The warning lamp shall remain on while a failure condition exists whenever the ignition switch is in the “on” position.
 
-(c) The indicator shall be labeled in letters at least 3/32 of an inch high with the words “Antilock” or “Anti-lock” or “ABS” in accordance with Table 1 of Standard No. 101 (49 CFR 571.101).
+(c) The warning lamp shall be labeled in accordance with the specifications in Table 3 of Standard No. 123 (49 CFR 571.123) for “ABS Malfunction” (Item No. 13).
 
 S5.2 *Durability.*
 
@@ -288,9 +288,9 @@ S6.3.2 *Test conditions and procedure.*
 
 (2) Foot control:
 
-(i) ≤350 N for motorcycle categories 3-1, 3-2, 3-3 and 3-5.
+(i) ≤350 N for motorcycle categories 3-1, 3-2, 3-3, and 3-4.
 
-(ii) ≤500 N for motorcycle category 3-4.
+(ii) ≤500 N for motorcycle category 3-5.
 
 (e) Number of stops: until the vehicle meets the performance requirements, with a maximum of 6 stops.
 
@@ -824,4 +824,4 @@ Table 4 - Performance Requirements, Power-Assisted Braking System Failure Test
 |Vehicles with CBS or split service brake systems|                                                                                                                          |
 |                      All                       |                                             S ≤0.1 V + 0.0154 V.<sup>2</sup>                                             |
 
-![](/graphics/er24au12.000.gif)![](/graphics/er24au12.001.gif)![](/graphics/er24au12.002.gif)[77 FR 51671, Aug. 24, 2012]
+![](/graphics/er24au12.000.gif)![](/graphics/er24au12.001.gif)![](/graphics/er24au12.002.gif)[77 FR 51671, Aug. 24, 2012, as amended at 86 FR 1298, Jan. 8, 2021]

@@ -1,5 +1,7 @@
 ##### § 4211.21 Changes subject to PBGC approval. #####
 
+Link to an amendment published at 86 FR 1275, Jan. 8, 2021.
+
 (a) *General rule.* Subject to the approval of the PBGC pursuant to this subpart, a plan, other than a plan that primarily covers employees in the building and construction industry, may adopt, by amendment, any allocation method or modification to an allocation method that is not permitted under subpart B of this part.
 
 (b) *Building and construction industry plans.* Subject to the approval of the PBGC pursuant to this subpart, a plan that primarily covers employees in the building and construction industry may adopt, by amendment, any allocation method or modification to an allocation method that is not permitted under § 4211.12 if the method or modification is applicable only to its employers that are not construction industry employers within the meaning of section 4203(b)(1)(A) of ERISA.

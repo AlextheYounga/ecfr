@@ -1,5 +1,7 @@
 ##### § 4219.2 Definitions. #####
 
+Link to an amendment published at 86 FR 1277, Jan. 8, 2021.
+
 (a) The following terms are defined in § 4001.2 of this chapter: employer, ERISA, IRS, mass withdrawal, multiemployer plan, PBGC, plan, and plan year.
 
 (b) For purposes of this part:
@@ -12,7 +14,7 @@
 
 (1) In the case of a termination by mass withdrawal, the last day of the plan year in which the plan terminates; or
 
-(2) in the case of a withdrawal of substantially all employers pursuant to an agreement or arrangement to withdraw, the last day of the plan year as of which substantially all employers have withdrawn.*Nonforfeitable benefit* means a benefit described in § 4001.2 of this chapter plus, for purposes of this part, any adjustable benefit that has been reduced by the plan sponsor pursuant to section 305(e)(8) of ERISA and section 432(e)(8) of the Code that would otherwise have been includable as a nonforfeitable benefit.
+(2) in the case of a withdrawal of substantially all employers pursuant to an agreement or arrangement to withdraw, the last day of the plan year as of which substantially all employers have withdrawn. *Nonforfeitable benefit* means a benefit described in § 4001.2 of this chapter plus, for purposes of this part, any adjustable benefit that has been reduced by the plan sponsor pursuant to section 305(e)(8) of ERISA and section 432(e)(8) of the Code that would otherwise have been includable as a nonforfeitable benefit.
 
 *Reallocation liability* means the amount of unfunded vested benefits allocated to an employer in the event of a mass withdrawal.
 

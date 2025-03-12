@@ -1,8 +1,8 @@
 ##### § 2.114 Answer. #####
 
-Link to an amendment published at 85 FR 73215, Nov. 17, 2020.
+(a)(1) If no answer is filed within the time initially set, or as later may be reset by the Board, the petition may be decided as in the case of default. The failure to file a timely answer tolls all deadlines, including the discovery conference, until the issue of default is resolved.
 
-(a) If no answer is filed within the time initially set, or as may later be reset by the Board, the petition may be decided as in case of default. The failure to file a timely answer tolls all deadlines, including the discovery conference, until the issue of default is resolved.
+(2) If the cancellation proceeding is based solely on abandonment or nonuse and default judgment is entered with no appearance by the defendant, and no filings are made other than the petition to cancel, $200 per class of the petition to cancel fee may be refunded.
 
 (b)(1) An answer must be filed through ESTTA. In the event that ESTTA is unavailable due to technical problems, or when extraordinary circumstances are present, an answer may be filed in paper form. An answer filed in paper form must be accompanied by a Petition to the Director under § 2.146, with the fees therefor and the showing required under this paragraph (b).
 
@@ -18,4 +18,4 @@ Link to an amendment published at 85 FR 73215, Nov. 17, 2020.
 
 (c) The petition for cancellation or counterclaim petition for cancellation may be withdrawn without prejudice before the answer is filed. After the answer is filed, such petition or counterclaim petition may not be withdrawn without prejudice except with the written consent of the registrant or the registrant's attorney or other authorized representative.
 
-[81 FR 69974, Oct. 7, 2016]
+[81 FR 69974, Oct. 7, 2016, as amended at 85 FR 73215, Nov. 17, 2020]

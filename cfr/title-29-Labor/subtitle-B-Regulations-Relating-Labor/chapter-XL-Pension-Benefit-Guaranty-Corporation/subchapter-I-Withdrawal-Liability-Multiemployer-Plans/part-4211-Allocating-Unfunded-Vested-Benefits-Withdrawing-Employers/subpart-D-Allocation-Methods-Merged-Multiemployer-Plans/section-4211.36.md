@@ -1,5 +1,7 @@
 ##### § 4211.36 Modifications to the determination of initial liabilities, the amortization of initial liabilities, and the allocation fraction. #####
 
+Link to an amendment published at 86 FR 1276, Jan. 8, 2021.
+
 (a) *General rule.* A plan using any of the allocation methods described in §§ 4211.32 through 4211.34 may, by plan amendment and without PBGC approval, adopt any of the modifications described in this section.
 
 (b) *Restarting initial liabilities.* A plan may be amended to allocate the initial plan year unfunded vested benefits under § 4211.32(b), § 4211.33(b), or § 4211.34(b) without separately allocating to employers the liabilities attributable to their participation under their prior plans. An amendment under this paragraph must include an allocation fraction under paragraph (d) of this section for determining the employer's proportional share of the total unfunded benefits as of the close of the initial plan year.

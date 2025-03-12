@@ -1,6 +1,4 @@
-##### § 42.24 Type-volume or page-limits for petitions, motions, oppositions, and replies. #####
-
-Link to an amendment published at 85 FR 79128, Dec. 9, 2020.
+##### § 42.24 Type-volume or page limits for petitions, motions, oppositions, replies, and sur-replies. #####
 
 (a) *Petitions and motions.* (1) The following word counts or page limits for petitions and motions apply and include any statement of material facts to be admitted or denied in support of the petition or motion. The word count or page limit does not include a table of contents, a table of authorities, mandatory notices under § 42.8, a certificate of service or word count, or appendix of exhibits or claim listing.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 79128, Dec. 9, 2020.
 
 (3) The page limits for oppositions are the same as those for corresponding motions.
 
-(c) *Replies.* The following word counts or page limits for replies apply and include any statement of facts in support of the reply. The word counts or page limits do not include a table of contents, a table of authorities, a listing of facts which are admitted, denied, or cannot be admitted or denied, a certificate of service or word count, or appendix of exhibits.
+(c) *Replies and sur-replies.* The following word counts or page limits for replies and sur-replies apply and include any statement of facts in support of the reply. The word counts or page limits do not include a table of contents; a table of authorities; a listing of facts that are admitted, denied, or cannot be admitted or denied; a certificate of service or word count; or an appendix of exhibits.
 
 (1) *Replies to patent owner responses to petitions:* 5,600 words.
 
@@ -34,6 +32,8 @@ Link to an amendment published at 85 FR 79128, Dec. 9, 2020.
 
 (3) *Replies to oppositions to motions to amend:* 12 pages.
 
+(4) *Sur-replies to replies to patent owner responses to petitions:* 5,600 words.
+
 (d) *Certification.* Any paper whose length is specified by type-volume limits must include a certification stating the number of words in the paper. A party may rely on the word count of the word-processing system used to prepare the paper.
 
-[81 FR 18765, Apr. 1, 2016, as amended at 81 FR 24703, Apr. 27, 2016]
+[81 FR 18765, Apr. 1, 2016, as amended at 81 FR 24703, Apr. 27, 2016; 85 FR 79128, Dec. 9, 2020]

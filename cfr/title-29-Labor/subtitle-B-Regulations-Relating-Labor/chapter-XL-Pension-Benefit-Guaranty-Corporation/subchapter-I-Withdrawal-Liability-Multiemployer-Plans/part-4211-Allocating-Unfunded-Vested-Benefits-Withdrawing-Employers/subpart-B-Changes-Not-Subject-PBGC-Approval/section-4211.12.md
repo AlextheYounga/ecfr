@@ -1,5 +1,7 @@
 ##### § 4211.12 Modifications to the presumptive, modified presumptive and rolling-5 methods. #####
 
+Link to an amendment published at 86 FR 1272, Jan. 8, 2021.
+
 (a) *Changing the period for counting contributions.* A plan sponsor may amend a plan to modify the denominators in the presumptive, modified presumptive and rolling-5 methods in accordance with one of the alternatives described in this paragraph. Except as provided in paragraph (a)(4) of this section, any amendment adopted under this paragraph shall be applied consistently to all plan years. Contributions counted for one plan year may be not counted for any other plan year. If a contribution is counted as part of the “total amount contributed” for any plan year used to determine a denominator, that contribution may not also be counted as a contribution owed with respect to an earlier year used to determine the same denominator, regardless of when the plan collected that contribution.
 
 (1) A plan sponsor may amend a plan to provide that “the sum of all contributions made” or “total amount contributed” for a plan year means the amount of contributions that the plan actually received during the plan year, without regard to whether the contributions are treated as made for that plan year under section 412(b)(3)(A) or section 431(b)(3)(A) of the Code.

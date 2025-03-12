@@ -1,5 +1,7 @@
 ##### § 4207.2 Definitions. #####
 
+Link to an amendment published at 86 FR 1270, Jan. 8, 2021.
+
 The following terms are defined in § 4001.2 of this chapter: employer, ERISA, IRS, Multiemployer Act, multiemployer plan, nonforfeitable benefit, PBGC, plan, and plan year.
 
 In addition, for purposes of this part:

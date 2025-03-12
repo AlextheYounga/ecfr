@@ -92,7 +92,7 @@ S5.4.1. *Master cylinder reservoirs.* A master cylinder shall have a reservoir c
 
 S5.4.2. *Reservoir capacity.* Reservoirs, whether for master cylinders or other type systems, shall have a total minimum capacity equivalent to the fluid displacement resulting when all the wheel cylinders or caliper pistons serviced by the reservoirs move from a new lining, fully retracted position (as adjusted initially to the manufacturer's recommended setting) to a fully worn, fully applied position, as determined in accordance with S7.17(c) of this standard. Reservoirs shall have completely separate compartments for each subsystem except that in reservoir systems utilizing a portion of the reservoir for a common supply to two or more subsystems, individual partial compartments shall each have a minimum volume of fluid equal to at least the volume displaced by the master cylinder piston servicing the subsystem, during a full stroke of the piston. Each brake power unit reservoir servicing only the brake system shall have a minimum capacity equivalent to the fluid displacement required to charge the system piston(s) or accumulator(s) to normal operating pressure plus the displacement resulting when all the wheel cylinders or caliper pistons serviced by the reservoir or accumulator(s) move from a new lining, fully retracted position (as adjusted initially to the manufacturer's recommended setting) to a fully worn, fully applied position.
 
-S5.4.3. *Reservoir labeling.* Each vehicle equipped with hydraulic brakes shall have a brake fluid warning statement that reads as follows, in letters at least 3.2 mm (1/8 inch) high: “WARNING: Clean filler cap before removing. Use only \_\_\_ fluid from a sealed container.” (Inserting the recommended type of brake fluid as specified in 49 CFR 571.116, *e.g.,* “DOT 3.”) The lettering shall be:
+S5.4.3. *Reservoir labeling.* Each vehicle equipped with hydraulic brakes shall have a brake fluid warning statement that reads as follows, in letters at least 3.2 mm (1/8 inch) high: “WARNING: Clean filler cap before removing. Use only \_\_\_\_\_\_ fluid from a sealed container.” (Inserting the recommended type of brake fluid as specified in 49 CFR 571.116, *e.g.,* “DOT 3.”) The lettering shall be:
 
 (a) Permanently affixed, engraved or embossed;
 
@@ -152,7 +152,7 @@ S5.5.5. *Labeling.* (a) Each visual indicator shall display a word or words in a
 
 (2) If a separate indicator is provided for the gross loss of pressure condition in S5.5.1(a)(2), the words “Brake Pressure” shall be used.
 
-(3) If a separate indicator is provided for the condition specified in S5.5.1(b), the letters and background shall be of contrasting colors, one of which is yellow. The indicator shall be labeled with the words “Antilock” or “Anti-lock” or “ABS”; or “Brake Proportioning,” in accordance with Table 2 of Standard No. 101.
+(3) If a separate indicator is provided for the condition specified in S5.5.1(b), the letters and background shall be of contrasting colors, one of which is yellow. The indicator shall be labeled with the words “Antilock” or “Anti-lock” or “ABS”; or “Brake Proportioning,” in accordance with Table 1 of Standard No. 101.
 
 (4) If a separate indicator is provided for application of the parking brake as specified for S5.5.1(c), the single word “Park” or the words “Parking Brake” may be used.
 
@@ -910,4 +910,4 @@ S7.17. *Final Inspection.* Inspect:
 
 (d) The brake system indicators, for compliance with operation in various key positions, lens color, labeling, and location, in accordance with S5.5.
 
-[60 FR 6434, Feb. 2, 1995, as amended at 60 FR 37847, July 24, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 46917, Sept. 5, 1997; 62 FR 51070, Sept. 30, 1997; 65 FR 6332, Feb. 9, 2000; 70 FR 37713, June 30, 2005; 77 FR 760, Jan. 6, 2012]
+[60 FR 6434, Feb. 2, 1995, as amended at 60 FR 37847, July 24, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 46917, Sept. 5, 1997; 62 FR 51070, Sept. 30, 1997; 65 FR 6332, Feb. 9, 2000; 70 FR 37713, June 30, 2005; 77 FR 760, Jan. 6, 2012; 86 FR 1300, Jan. 8, 2020]

@@ -1,5 +1,7 @@
 ##### § 4211.32 Presumptive method for withdrawals after the initial plan year. #####
 
+Link to an amendment published at 86 FR 1275, Jan. 8, 2021.
+
 (a) *General rule.* Under this section, the amount of unfunded vested benefits allocable to an employer that withdraws from a merged plan after the initial plan year is the sum (but not less than zero) of -
 
 (1) The employer's proportional share, if any, of the unamortized amount of the plan's initial plan year unfunded vested benefits, as determined under paragraph (b) of this section;

@@ -1,5 +1,7 @@
 ##### § 4211.4 Contributions for purposes of the numerator and denominator of the allocation fractions. #####
 
+Link to an amendment published at 86 FR 1271, Jan. 8, 2021.
+
 Each of the allocation fractions used in the presumptive, modified presumptive and rolling-5 methods is based on contributions that certain employers have made to the plan for a five-year period.
 
 (a) The numerator of the allocation fraction, with respect to a withdrawing employer, is based on the “sum of the contributions required to be made” or the “total amount required to be contributed” by the employer for the specified period. For purposes of these methods, this means the amount that is required to be contributed under one or more collective bargaining agreements or other agreements pursuant to which the employer contributes under the plan, other than withdrawal liability payments or amounts that an employer is obligated to pay to the plan pursuant to section 305(e)(7) of ERISA or section 432(e)(7) of the Code (automatic employer surcharge). Employee contributions, if any, shall be excluded from the totals.

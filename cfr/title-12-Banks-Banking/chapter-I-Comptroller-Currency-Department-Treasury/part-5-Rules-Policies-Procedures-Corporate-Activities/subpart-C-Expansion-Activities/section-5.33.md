@@ -1,6 +1,6 @@
 ##### § 5.33 Business combinations involving a national bank or Federal savings association. #####
 
-Link to an amendment published at 85 FR 80447, Dec. 11, 2020.
+Link to an amendment published at 85 FR 80447, Dec. 11, 2020.Link to a correction published at 86 FR 1255, Jan. 8, 2021.
 
 (a) *Authority.* 12 U.S.C. 24(Seventh), 93a, 181, 214a, 214b, 215, 215a, 215a-1, 215a-3, 215b, 215c, 1462a, 1463, 1464, 1467a, 1828(c), 1831u, 2903, and 5412(b)(2)(B).
 
