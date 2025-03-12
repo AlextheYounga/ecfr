@@ -1,5 +1,7 @@
 ##### § 3280.309 Health Notice on formaldehyde emissions. #####
 
+Link to an amendment published at 85 FR 5566, Jan. 31, 2020.
+
 (a) Each manufactured home shall have a Health Notice on formaldehyde emissions prominently displayed in a temporary manner in the kitchen (i.e., countertop or exposed cabinet face). The Notice shall read as follows:
 
 Important Health Notice

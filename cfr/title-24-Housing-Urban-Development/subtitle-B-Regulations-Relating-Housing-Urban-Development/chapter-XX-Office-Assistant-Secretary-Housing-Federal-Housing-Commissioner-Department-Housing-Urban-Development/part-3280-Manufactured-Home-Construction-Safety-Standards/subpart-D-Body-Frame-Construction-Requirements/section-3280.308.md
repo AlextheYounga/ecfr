@@ -1,5 +1,7 @@
 ##### § 3280.308 Formaldehyde emission controls for certain wood products. #####
 
+Link to an amendment published at 85 FR 5566, Jan. 31, 2020.
+
 (a) *Formaldehyde emission levels.* All plywood and particleboard materials bonded with a resin system or coated with a surface finish containing formaldehyde shall not exceed the following formaldehyde emission levels when installed in manufactured homes:
 
 (1) Plywood materials shall not emit formaldehyde in excess of 0.2 parts per million (ppm) as measured by the air chamber test method specified in § 3280.406.

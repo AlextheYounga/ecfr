@@ -1,5 +1,7 @@
 ##### § 100.114 Fireworks displays within the First Coast Guard District. #####
 
+Link to an amendment published at 85 FR 5570, Jan. 31, 2020.
+
 (a) *Regulated area.* That area of navigable waters within a 500-yard radius of the launch platform for each fireworks display listed in the following table.
 
 Fireworks Display Table

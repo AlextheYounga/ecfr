@@ -1,5 +1,7 @@
 ##### § 3280.406 Air chamber test method for certification and qualification of formaldehyde emission levels. #####
 
+Link to an amendment published at 85 FR 5566, Jan. 31, 2020.
+
 (a) *Preconditioning.* Preconditioning of plywood or particleboard panels for air chamber tests shall be initiated as soon as practicable but not in excess of 30 days after the plywood or particleboard is produced or surface-finished, whichever is later, using randomly selected panels.
 
 (1) If preconditioning is to be initiated more than two days after the plywood or particleboard is produced or surface-finished, whichever is later, the panels must be dead-stacked or air-tight wrapped until preconditioning is initiated.

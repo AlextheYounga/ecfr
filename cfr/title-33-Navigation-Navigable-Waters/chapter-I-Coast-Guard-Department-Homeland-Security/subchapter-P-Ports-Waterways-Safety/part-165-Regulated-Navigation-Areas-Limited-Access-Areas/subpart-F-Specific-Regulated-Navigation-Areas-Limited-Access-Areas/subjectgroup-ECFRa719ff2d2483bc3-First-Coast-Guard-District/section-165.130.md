@@ -1,5 +1,7 @@
 ##### § 165.130 Sandy Hook Bay, New Jersey - security zone. #####
 
+Link to an amendment published at 85 FR 5570, Jan. 31, 2020.
+
 (a) *Naval Ammunition Depot Piers.* The navigable waters within the following boundaries are a security zone: A line beginning on the shore at 40°25′55.6″ N, 074°04′31.4″ W; thence to 40°26′54.0″ N, 074°03′53.0″ W; thence to 40°26′58.0″ N, 074°04′03.0″ W; thence to 40°27′56.0″ N, 074°03′24.0″ W; thence to 40°27′28.5″ N, 074°02′10.4″ W; thence to 40°26′29.5″ N, 074°02′51.2″ W; thence to 40°26′31.4″ N, 074°02′55.4″ W; thence to 40°25′27.1″ N, 074°03′39.7″ W; thence northwest along the shoreline to the beginning point.
 
 (b) *Terminal Channel.* The waters within the following boundaries are a security zone - A line beginning at 40°27′41.2″ N, 74°02′46″ W; then to 40°28′27″ N, 74°02′17.2″ W; then to 40°28′21.1″ N, 74°02′00″ W; then to 40°28′07.8″ N, 74°02′22″ W; then to 40°27′39.8″ N, 74°02′41.4″ W; then to the beginning.

@@ -1,5 +1,7 @@
 ##### § 165.169 Safety and Security Zones: New York Marine Inspection Zone and Captain of the Port Zone. #####
 
+Link to an amendment published at 85 FR 5570, Jan. 31, 2020.
+
 (a) *Safety and security zones.* The following waters within the New York Marine Inspection Zone and Captain of the Port Zone are safety and security zones:
 
 (1) *Indian Point Nuclear Power Station (IPNPS).* All waters of the Hudson River within a 300-yard radius of the IPNPS pier in approximate position 41°16′12.4″ N, 073°57′16.2″ W (NAD 83).

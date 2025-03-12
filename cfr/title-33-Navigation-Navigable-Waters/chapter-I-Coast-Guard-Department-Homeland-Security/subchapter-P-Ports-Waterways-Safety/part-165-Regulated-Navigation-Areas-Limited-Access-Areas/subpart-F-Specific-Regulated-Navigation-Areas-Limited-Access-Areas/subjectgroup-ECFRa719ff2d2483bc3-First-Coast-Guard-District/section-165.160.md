@@ -1,5 +1,7 @@
 ##### § 165.160 Safety Zones; fireworks displays and swim events in Coast Guard Captain of the Port New York Zone. #####
 
+Link to an amendment published at 85 FR 5570, Jan. 31, 2020.
+
 (a) *Regulations.* The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays and swim events listed in Tables 1 and 2 to § 165.160. These regulations will be enforced for the duration of each event. Notifications will be made to the local maritime community through the Local Notice to Mariners and Broadcast Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register. Mariners should consult the Federal Register or their Local Notice to Mariners to remain apprised of schedule or event changes. First Coast Guard District Local Notice to Mariners can be found at *http://www.navcen.uscg.gov/.* The Captain of the Port Sector New York Marine Events schedule can also be viewed electronically at *www.homeport.uscg.mil*/newyork. Although listed in the Code of Federal Regulations, sponsors of events listed in Tables 1 and 2 to § 165.160 are still required to submit marine event applications in accordance with 33 CFR 100.15.
 
 (b) *Definitions.* The following definitions apply to this section:

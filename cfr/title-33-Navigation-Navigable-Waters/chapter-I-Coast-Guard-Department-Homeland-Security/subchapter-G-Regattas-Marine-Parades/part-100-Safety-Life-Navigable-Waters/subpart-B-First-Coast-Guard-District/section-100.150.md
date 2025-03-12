@@ -1,5 +1,7 @@
 ##### § 100.150 Special Local Regulations; Marine Events in the Coast Guard Sector New York Captain of the Port Zone. #####
 
+Link to an amendment published at 85 FR 5570, Jan. 31, 2020.
+
 The following regulations apply to the marine events listed in the TABLE to § 100.150. These regulations will be enforced for the duration of each event, on or about the dates indicated. Annual notice of the exact dates and times of the effective period of the regulations with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will be published in a Local Notices to Mariners and broadcast over VHF-FM radio. First Coast Guard District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov/.* The Sector New York Marine Events schedule can also be viewed electronically at *http://www.homeport.uscg.mil/newyork.* Although listed in the Code of Federal Regulations, sponsors of events listed in the TABLE to § 100.150 are still required to submit marine event applications in accordance with 33 CFR 100.15.
 
 (a) *Definitions.* The following definitions apply to this section:
