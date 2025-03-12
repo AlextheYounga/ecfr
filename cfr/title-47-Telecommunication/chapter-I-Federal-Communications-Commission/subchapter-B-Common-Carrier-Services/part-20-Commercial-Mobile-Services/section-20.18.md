@@ -1,5 +1,7 @@
 ##### § 20.18 911 Service. #####
 
+Link to an amendment published at 82 FR 22760, May 18, 2017.
+
 (a) *Scope of section.* The following requirements are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 
 (1) Offer real-time, two way switched voice service that is interconnected with the public switched network; and

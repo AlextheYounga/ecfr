@@ -1,7 +1,5 @@
 ##### § 431.465 Pumps energy conservation standards and their compliance dates. #####
 
-Link to an amendment published at 82 FR 5742, Jan. 18, 2017.
-
 (a) For the purposes of paragraph (b) of this section, “PEICL” means the constant load pump energy index and “PEIVL” means the variable load pump energy index, both as determined in accordance with the test procedure in § 431.464. For the purposes of paragraph (c) of this section, “BEP” means the best efficiency point as determined in accordance with the test procedure in § 431.464.
 
 (b) Each pump that is manufactured starting on January 27, 2020 and that:
@@ -77,4 +75,26 @@ Link to an amendment published at 82 FR 5742, Jan. 18, 2017.
 
 (6) For ESCC and ESFM pumps, specific speed less than or equal to 5,000 when calculated using U.S. customary units.
 
-[81 FR 4431, Jan. 26, 2016]
+(e) For the purposes of paragraph (f) of this section, “WEF” means the weighted energy factor and “hhp” means the rated hydraulic horsepower, as determined in accordance with the test procedure in § 431.464(b) and applicable sampling plans in § 429.59 of this chapter.
+
+(f) Each dedicated-purpose pool pump that is not a submersible pump and is manufactured starting on July 19, 2021 must have a WEF rating that is not less than the value calculated from the following table:
+
+|             Equipment class             |Minimum  <br/>allowable WEF score  <br/>[kgal/kWh]|Minimum allowable WEF score  <br/>[kgal/kWh]|                                                                         |
+|-----------------------------------------|--------------------------------------------------|--------------------------------------------|-------------------------------------------------------------------------|
+|Dedicated-purpose pool pump  <br/>variety|                hhp Applicability                 |                Motor phase                 |                                                                         |
+|     Self-priming pool filter pumps      |              0.711 hp ≤hhp \<2.5 hp              |                   Single                   |                     WEF = −2.30 \* ln (hhp) + 6.59.                     |
+|     Self-priming pool filter pumps      |                  hhp \<0.711 hp                  |                   Single                   |WEF = 5.55, for hhp ≤0.13 hp −1.30 \* ln (hhp) + 2.90, for hhp \>0.13 hp.|
+|   Non-self-priming pool filter pumps    |                   hhp \<2.5 hp                   |                    Any                     |WEF = 4.60, for hhp ≤0.13 hp −0.85 \* ln (hhp) + 2.87, for hhp \>0.13 hp.|
+|     Pressure cleaner booster pumps      |                       Any                        |                    Any                     |                               WEF = 0.42.                               |
+
+(g) Each integral cartridge filter pool pump and integral sand filter pool pump that is manufactured starting on July 19, 2021 must be distributed in commerce with a pool pump timer that is either integral to the pump or a separate component that is shipped with the pump.
+
+(h) For all dedicated-purpose pool pumps distributed in commerce with freeze protection controls, the pump must be shipped with freeze protection disabled or with the following default, user-adjustable settings:
+
+(1) The default dry-bulb air temperature setting is no greater than 40 °F;
+
+(2) The default run time setting shall be no greater than 1 hour (before the temperature is rechecked); and
+
+(3) The default motor speed shall not be more than1/2 of the maximum available speed.
+
+[81 FR 4431, Jan. 26, 2016, as amended at 82 FR 5742, Jan. 18, 2017]

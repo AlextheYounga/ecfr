@@ -64,7 +64,7 @@
 
 (iv) Any substantiating documentation that supports an importer's softwood lumber declaration is subject to the recordkeeping provisions set forth in part 163 of title 19 to the CFR.
 
-(d) *Entry requirements for home packages and kits - (1) Declaration and required documentation.* Home packages and kits as described in section 804(c)(7)(A)(i) through (iv) of the Title VIII of the Tariff Act of 1930, as amended (19 U.S.C. 1202 *et seq.*) are not subject to the entry requirements set forth in paragraph (c) of this section. However, the importer is required to make a declaration pursuant to section 804(c)(7)(B) and is required to retain and produce upon demand by CBP, the following documentation:
+(d) *Entry requirements for home packages and kits*—(1) *Declaration and required documentation.* Home packages and kits as described in section 804(c)(7)(A)(i) through (iv) of the Title VIII of the Tariff Act of 1930, as amended (19 U.S.C. 1202 *et seq.*) are not subject to the entry requirements set forth in paragraph (c) of this section. However, the importer is required to make a declaration pursuant to section 804(c)(7)(B) and is required to retain and produce upon demand by CBP, the following documentation:
 
 (i) A copy of the appropriate home design, plan, or blueprint matching the customs entry in the United States.
 

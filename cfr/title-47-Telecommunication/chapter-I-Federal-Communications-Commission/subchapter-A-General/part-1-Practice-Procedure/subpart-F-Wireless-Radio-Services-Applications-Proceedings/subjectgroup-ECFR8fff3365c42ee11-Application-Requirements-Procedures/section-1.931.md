@@ -1,5 +1,7 @@
 ##### § 1.931 Application for special temporary authority. #####
 
+Link to an amendment published at 82 FR 22759, May 18, 2017.
+
 (a) *Wireless Telecommunications Services.* (1) In circumstances requiring immediate or temporary use of station in the Wireless Telecommunications Services, carriers may request special temporary authority (STA) to operate new or modified equipment. Such requests must be filed electronically using FCC Form 601 and must contain complete details about the proposed operation and the circumstances that fully justify and necessitate the grant of STA. Such requests should be filed in time to be received by the Commission at least 10 days prior to the date of proposed operation or, where an extension is sought, 10 days prior to the expiration date of the existing STA. Requests received less than 10 days prior to the desired date of operation may be given expedited consideration only if compelling reasons are given for the delay in submitting the request. Otherwise, such late-filed requests are considered in turn, but action might not be taken prior to the desired date of operation. Requests for STA must be accompanied by the proper filing fee.
 
 (2) Grant without Public Notice. STA may be granted without being listed in a Public Notice, or prior to 30 days after such listing, if:

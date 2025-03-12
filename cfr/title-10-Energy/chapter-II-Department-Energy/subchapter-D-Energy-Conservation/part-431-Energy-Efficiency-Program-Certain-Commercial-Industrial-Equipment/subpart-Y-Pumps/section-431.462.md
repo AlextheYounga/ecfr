@@ -1,7 +1,5 @@
 ##### § 431.462 Definitions. #####
 
-Link to an amendment published at 82 FR 5742, Jan. 18, 2017.
-
 The following definitions are applicable to this subpart, including appendix A. In cases where there is a conflict, the language of the definitions adopted in this section takes precedence over any descriptions or definitions found in the 2014 version of ANSI/HI 1.1-1.2, “American National Standard for Rotodynamic Centrifugal Pumps for Nomenclature and Definitions” (ANSI/HI 1.1-1.2-2014) (incorporated by reference, see § 431.463), or the 2014 version of ANSI/HI 2.1-2.2, “American National Standard for Rotodynamic Vertical Pumps of Radial, Mixed, and Axial Flow Types for Nomenclature and Definitions” (ANSI/HI 2.1-2.2-2014) (incorporated by reference, see § 431.463). In cases where definitions reference design intent, DOE will consider marketing materials, labels and certifications, and equipment design to determine design intent.
 
 *Bare pump* means a pump excluding mechanical equipment, driver, and controls.
@@ -60,6 +58,8 @@ The following definitions are applicable to this subpart, including appendix A. 
 
 *Non-continuous control* means a control that adjusts the speed of a driver to one of a discrete number of non-continuous preset operating speeds, and does not respond to incremental reductions in the required pump flow, head, or power output.
 
+*Pool pump timer* means a pool pump control that automatically turns off a dedicated-purpose pool pump after a run-time of no longer than 10 hours.
+
 *Prime-assist pump* means a pump that:
 
 (1) Is designed to lift liquid that originates below the centerline of the pump inlet;
@@ -107,3 +107,5 @@ The following definitions are applicable to this subpart, including appendix A. 
 (4) Is mounted in its own volute; and
 
 (5) Discharges liquid through its volute and the common discharge in a plane perpendicular to the impeller shaft.
+
+[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 5742, Jan. 18, 2017]

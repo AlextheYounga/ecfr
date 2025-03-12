@@ -1,5 +1,7 @@
 ##### § 1.9003 Definitions. #####
 
+Link to an amendment published at 82 FR 22759, May 18, 2017.
+
 *De facto transfer leasing arrangement.* A spectrum leasing arrangement in which a licensee retains *de jure* control of its license while transferring *de facto* control of the leased spectrum to a spectrum lessee, pursuant to the spectrum leasing rules set forth in this subpart.
 
 *FCC Form 608.* FCC Form 608 is the form to be used by licensees and spectrum lessees that enter into spectrum leasing arrangements pursuant to the rules set forth in this subpart. Parties are required to submit this form electronically when entering into spectrum leasing arrangements under this subpart, except that licensees falling within the provisions of § 1.913(d), may file the form either electronically or manually.

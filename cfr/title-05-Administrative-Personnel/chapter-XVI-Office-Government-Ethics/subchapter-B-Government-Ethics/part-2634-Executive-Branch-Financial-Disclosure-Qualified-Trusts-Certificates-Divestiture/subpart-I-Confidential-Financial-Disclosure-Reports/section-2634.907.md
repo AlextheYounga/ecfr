@@ -128,11 +128,11 @@ Example to paragraph (e).A filer holds outside positions as the trustee of his f
 
 Example 1 to paragraph (f).A filer plans to retire from Government service in eight months. She has negotiated an arrangement for part-time employment with a private-sector company, to commence upon her retirement. On her financial disclosure report, she must identify the future employer, and briefly describe the terms of, this agreement and disclose the date on which she entered into the agreement.Example 2 to paragraph (f).A new employee who has entered a position which requires the filing of a confidential form is on a leave of absence from his private-sector employment. During his Government tenure, he will continue to receive deferred compensation from this employer, and will continue to participate in its pension plan. He must report and briefly describe his arrangements for a leave of absence, for the receipt of deferred compensation, and for participation in the pension plan.
 
-(g) *Gifts and travel reimbursements* - (1) *Gifts.* Each annual financial disclosure report filed pursuant to this subpart shall contain a brief description of all gifts aggregating more than $375 in value which are received by the filer during the reporting period from any one source, as well as the identity of the source. For in-kind travel-related gifts, the report shall include a travel itinerary, the dates, and the nature of expenses provided.
+(g) *Gifts and travel reimbursements* - (1) *Gifts.* Each annual financial disclosure report filed pursuant to this subpart shall contain a brief description of all gifts aggregating more than $390 in value which are received by the filer during the reporting period from any one source, as well as the identity of the source. For in-kind travel-related gifts, the report shall include a travel itinerary, the dates, and the nature of expenses provided.
 
-(2) *Travel reimbursements.* Each annual financial disclosure report filed pursuant to this subpart shall contain a brief description (including a travel itinerary, dates, and the nature of expenses provided) of any travel-related reimbursements aggregating more than $375 in value which are received by the filer during the reporting period from any one source, as well as the identity of the source.
+(2) *Travel reimbursements.* Each annual financial disclosure report filed pursuant to this subpart shall contain a brief description (including a travel itinerary, dates, and the nature of expenses provided) of any travel-related reimbursements aggregating more than $390 in value which are received by the filer during the reporting period from any one source, as well as the identity of the source.
 
-(3) *Aggregation exception.* Any gift or travel reimbursement with a fair market value of $150 or less need not be aggregated for purposes of the reporting rules of this section. However, the acceptance of gifts, whether or not reportable, is subject to the restrictions imposed by Executive Order 12674, as modified by Executive Order 12731, and the implementing regulations on standards of ethical conduct.
+(3) *Aggregation exception.* Any gift or travel reimbursement with a fair market value of $156 or less need not be aggregated for purposes of the reporting rules of this section. However, the acceptance of gifts, whether or not reportable, is subject to the restrictions imposed by Executive Order 12674, as modified by Executive Order 12731, and the implementing regulations on standards of ethical conduct.
 
 (4) *Valuation of gifts and travel reimbursements.* The value to be assigned to a gift or travel reimbursement is its fair market value. For most reimbursements, this will be the amount actually received. For gifts, the value should be determined in one of the following manners:
 
@@ -156,7 +156,7 @@ Gift 3 - Paperweight: $5
 
 Gift 4 - Palm Pilot: $275
 
-The filer must disclose gifts 1 and 4 since, together, they aggregate more than $375 in value from the same source. He need not aggregate or report gifts 2 and 3 because each gift's value does not exceed $150.
+The filer must disclose gifts 1 and 4 since, together, they aggregate more than $390 in value from the same source. He need not aggregate or report gifts 2 and 3 because each gift's value does not exceed $156.
 
 (h) *Disclosure rules for spouses and dependent children* - (1) *Noninvestment income.* (i) Each financial disclosure report required by the provisions of this subpart shall disclose the source of earned income in excess of $1,000 from any one source, which is received by the filer's spouse or which has accrued to the spouse's benefit during the reporting period. If earned income is derived from a spouse's self-employment in a business or profession, the report shall also disclose the nature of the business or profession. The filer is not required to report other noninvestment income received by the spouse such as prizes, scholarships, awards, gambling income, or a discharge of indebtedness.
 
@@ -236,4 +236,4 @@ Nothing in this section requires the reporting of the holdings of a revocable in
 
 (2) Which has been approved by the Office of Government Ethics for collection by the agency concerned, as set forth in supplemental agency regulations and forms, issued under §§ 2634.103 and 2634.601(b) (see § 2634.901(b) and (c) of this subpart).
 
-[71 FR 28236, May 16, 2006, as amended at 73 FR 15388, Mar. 24, 2008; 76 FR 38548, July 1, 2011; 77 FR 39150, July 2, 2012; 79 FR 28606, May 19, 2014]
+[71 FR 28236, May 16, 2006, as amended at 73 FR 15388, Mar. 24, 2008; 76 FR 38548, July 1, 2011; 77 FR 39150, July 2, 2012; 79 FR 28606, May 19, 2014; 82 FR 22736, May 18, 2017]

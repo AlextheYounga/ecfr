@@ -1,7 +1,5 @@
 ##### § 73.3572 Processing of TV broadcast, Class A TV broadcast, low power TV, TV translators, and TV booster applications. #####
 
-Link to an amendment published at 82 FR 18249, Apr. 18, 2017.
-
 (a) Applications for TV stations are divided into two groups:
 
 (1) In the first group are applications for new stations or major changes in the facilities of authorized stations. A major change for TV broadcast stations authorized under this part is any change in frequency or community of license which is in accord with a present allotment contained in the Table of Allotments (§ 73.606). Other requests for change in frequency or community of license for TV broadcast stations must first be submitted in the form of a petition for rulemaking to amend the Table of Allotments.
@@ -12,7 +10,7 @@ Link to an amendment published at 82 FR 18249, Apr. 18, 2017.
 
 (ii) Transmitting antenna location where the protected contour resulting from the change is not predicted to overlap any portion of the protected contour based on the station's authorized facilities.
 
-(3) Other changes will be considered minor; provided, until October 1, 2000, proposed changes to the facilities of Class A TV, low power TV, TV translator and TV booster stations, other than a change in frequency, will be considered minor only if the change(s) will not increase the signal range of the Class A TV, low power TV or TV booster in any horizontal direction.
+(3) Other changes will be considered minor including changes made to implement a channel sharing arrangement provided they comply with the other provisions of this section and provided, until October 1, 2000, proposed changes to the facilities of Class A TV, low power TV, TV translator and TV booster stations, other than a change in frequency, will be considered minor only if the change(s) will not increase the signal range of the Class A TV, low power TV or TV booster in any horizontal direction.
 
 (4) The following provisions apply to displaced Class A TV, low power TV, TV translator and TV booster stations:
 
@@ -50,4 +48,4 @@ Link to an amendment published at 82 FR 18249, Apr. 18, 2017.
 
 (h) Class A TV station licensees shall file a license application for either the flash cut channel or the digital companion channel they choose to retain for post-transition digital operations. Class A TV stations will retain primary, protected regulatory status on their desired post-transition digital channel. Class A TV applicants must certify that their proposed post-transition digital facilities meet all Class A TV interference protection requirements.
 
-[63 FR 48626, Sept. 11, 1998, as amended at 65 FR 30007, May 10, 2000; 65 FR 36379, June 8, 2000; 67 FR 5513, Feb. 6, 2002; 67 FR 45374, July 9, 2002; 68 FR 26227, May 15, 2003; 76 FR 44827, July 27, 2011]
+[63 FR 48626, Sept. 11, 1998, as amended at 65 FR 30007, May 10, 2000; 65 FR 36379, June 8, 2000; 67 FR 5513, Feb. 6, 2002; 67 FR 45374, July 9, 2002; 68 FR 26227, May 15, 2003; 76 FR 44827, July 27, 2011; 82 FR 18249, Apr. 18, 2017]
