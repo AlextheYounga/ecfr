@@ -78,7 +78,7 @@ As used in this part:
 
 (8) Darting or anesthesia induction other than at annual exam or in the case of an emergency in which the chimpanzee's well-being is at stake.
 
-*National Primate Research Center (NPRC)* means those centers supported by the National Center for Research Resources, National Institutes of Health, Department of Health and Human Services, as national resources for providing high-quality nonhuman primate research resources and facilities. As of June 2007, there were eight such centers.
+*National Primate Research Center (NPRC)* means those centers supported by the Office of Research Infrastructure Programs (ORIP) within the Division of Program Coordination, Planning and Strategic Initiatives (DPCPSI), National Institutes of Health, Department of Health and Human Services, as national resources for providing high-quality nonhuman primate research resources and facilities. As of 2015, there were seven such centers.
 
 *National Research Council* means the component of the National Academy of Sciences that advises the Federal Government on matters related to science, research, and research resources.
 
@@ -104,11 +104,11 @@ As used in this part:
 
 *Sanctuary Chimpanzee Care Committee (SCCC) or similar designated committee* means the group of individuals designated by the CEO of the sanctuary that reviews and monitors adherence to the policies, procedures, and regulations at the sanctuary.
 
-*Sanctuary Contractor* means the nonprofit, private entities selected by NCRR/NIH to develop and operate the chimpanzee sanctuary system. This contractor is also known as the “primary contractor” for the sanctuary system.
+*Sanctuary Contractor* means the nonprofit, private entities selected by ORIP/DPCPSI/NIH to develop and operate the chimpanzee sanctuary system. This contractor is also known as the “primary contractor” for the sanctuary system.
 
 *Sanctuary Director* means the individual who provides day-to-day direction and oversight to the employees responsible for performing the daily tasks at the facility.
 
-*Sanctuary or federally supported chimpanzee sanctuary system* means the sanctuary or sanctuary system established by the Federal Government through contracting with a private, nonprofit entity, for the purpose of carrying out the provisions of the CHIMP Act of 2000. The system includes a primary Contractor and may include additional subcontractors as required. This sanctuary system is supported primarily from funds allocated by NCRR/NIH/HHS with some matching funds from the nonprofit contractor.
+*Sanctuary or federally supported chimpanzee sanctuary system* means the sanctuary or sanctuary system established by the Federal Government through contracting with a private, nonprofit entity, for the purpose of carrying out the provisions of the CHIMP Act of 2000. The system includes a primary Contractor and may include additional subcontractors as required. This sanctuary system is supported primarily from funds allocated by ORIP/DPCPSI/NIH/HHS with some matching funds from the nonprofit contractor.
 
 *Secretary* means the Secretary of Health and Human Services or his/her designee.
 
@@ -119,3 +119,5 @@ As used in this part:
 *USDA licensed intermediate handler/carrier* means any person, including a department, agency, or instrumentality of the United States or of any State or local government, who is engaged in any business in which it receives custody of animals in connection with their transportation in commerce and who is licensed by the USDA.
 
 *Zoonotic disease(s)* means diseases that are transmissible from chimpanzees to humans.
+
+[73 FR 60423, Oct. 10, 2008, as amended at 85 FR 54273, Sept. 1, 2020]

@@ -1,7 +1,5 @@
 ##### § 624.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
-Link to an amendment published at 85 FR 39469, July 1, 2020.
-
 (a) *Authority.* This part is issued by the Farm Credit Administration (FCA) under section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(e)), and sections 4.3, 5.9, 5.17, and 8.32 of the Farm Credit Act (12 U.S.C. 2154, 12 U.S.C. 2243, 12 U.S.C. 2252, and 12 U.S.C. 2279bb-1).
 
 (b) *Purpose.* Section 4s of the Commodity Exchange Act (7 U.S.C. 6s) and section 15F of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10) require the FCA to establish capital and margin requirements for any System institution, including the Federal Agricultural Mortgage Corporation, chartered under the Farm Credit Act of 1971, as amended (12 U.S.C. 2001 *et seq.*) that is registered as a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant with respect to all non-cleared swaps and non-cleared security-based swaps. This regulation implements section 4s of the Commodity Exchange Act and section 15F of the Securities Exchange Act of 1934 by defining terms used in the statute and related terms, establishing capital and margin requirements, and explaining the statutes' requirements.
@@ -58,15 +56,15 @@ Link to an amendment published at 85 FR 39469, July 1, 2020.
 
 (iii) In calculating the amounts in paragraphs (e)(5)(i) and (ii) of this section, an entity shall count the average daily aggregate notional amount of a non-cleared swap, a non-cleared security-based swap, a foreign exchange forward or a foreign exchange swap between the entity and an affiliate only one time, and shall not count a swap or security-based swap that is exempt pursuant to paragraph (d) of this section.
 
-(6) September 1, 2020, with respect to requirements in § 624.3 for initial margin for any non-cleared swaps and non-cleared security-based swaps, where both:
+(6) September 1, 2021 with respect to requirements in § 624.3 for initial margin for any non-cleared swaps and non-cleared security-based swaps, where both:
 
 (i) The covered swap entity combined with all its affiliates; and
 
-(ii) Its counterparty combined with all its affiliates, have an average daily aggregate notional amount of non-cleared swaps, foreign exchange forwards and foreign exchange swaps for March, April, and May 2020 that exceeds $50 billion, where such amounts are calculated only for business days; and
+(ii) Its counterparty combined with all its affiliates, have an average daily aggregate notional amount of non-cleared swaps, foreign exchange forwards and foreign exchange swaps for March, April and May 2021 that exceeds $50 billion, where such amounts are calculated only for business days; and
 
 (iii) In calculating the amounts in paragraphs (e)(6)(i) and (ii) of this section, an entity shall count the average daily aggregate notional amount of a non-cleared swap, a non-cleared security-based swap, a foreign exchange forward or a foreign exchange swap between the entity and an affiliate only one time, and shall not count a swap or security-based swap that is exempt pursuant to paragraph (d) of this section.
 
-(7) September 1, 2021, with respect to requirements in § 624.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
+(7) September 1, 2022 with respect to requirements in § 624.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
 
 (f) Once a covered swap entity must comply with the margin requirements for non-cleared swaps and non-cleared security-based swaps with respect to a particular counterparty based on the compliance dates in paragraph (e) of this section, the covered swap entity shall remain subject to the requirements of this part with respect to that counterparty.
 
@@ -128,4 +126,4 @@ Link to an amendment published at 85 FR 39469, July 1, 2020.
 
 (B) All payment obligations attached to the total effective notional amount being eliminated as a result of the amendment are fully novated to a third party, who complies with applicable margin rules for the novated portion upon the transfer.
 
-[80 FR 74898, 74913, Nov. 30, 2015, as amended at 80 FR 74913, 74924, Nov. 30, 2015; 83 FR 50813, Oct. 10, 2018; 84 FR 9949, Mar. 19, 2019; 84 FR 68326, Dec. 16, 2019; 85 FR 39776, July 1, 2020]
+[80 FR 74898, 74913, Nov. 30, 2015, as amended at 80 FR 74913, 74924, Nov. 30, 2015; 83 FR 50813, Oct. 10, 2018; 84 FR 9949, Mar. 19, 2019; 84 FR 68326, Dec. 16, 2019; 85 FR 39776, 39469, July 1, 2020]

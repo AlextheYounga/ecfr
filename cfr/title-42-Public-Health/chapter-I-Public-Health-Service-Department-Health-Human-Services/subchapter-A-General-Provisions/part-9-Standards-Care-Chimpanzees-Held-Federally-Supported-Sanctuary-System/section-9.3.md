@@ -34,7 +34,7 @@
 
 (viii) Comply with all applicable provisions of the animal welfare regulations and other federal, state and local laws, regulations, and policies;
 
-(ix) Achieve accreditations from appropriate accrediting bodies within a reasonable time frame mutually agreed upon by the Contractor and NCRR;
+(ix) Achieve accreditations from appropriate accrediting bodies within a reasonable time frame mutually agreed upon by the Contractor and ORIP/DPCPSI;
 
 (x) Prohibit any invasive research on the resident chimpanzees, but permit noninvasive studies (Definitions for the terms *invasive* and *non-invasive* are set forth in § 9.2 of this part.);
 
@@ -74,4 +74,6 @@
 
 (b) *Who is responsible for developing or revising sanctuary policies?* (1) The Sanctuary Contractor is responsible for developing, revising, and implementing policies affecting the sanctuary.
 
-(2) The federal agency (NCRR/NIH) designated by the Secretary must concur with any changes that substantially change existing policies. The Secretary, or designee, will determine if a policy change will have a substantial impact upon current policy after consultation with the Sanctuary Contractor.
+(2) The federal agency (ORIP/DPCPSI/NIH) designated by the Secretary must concur with any changes that substantially change existing policies. The Secretary, or designee, will determine if a policy change will have a substantial impact upon current policy after consultation with the Sanctuary Contractor.
+
+[73 FR 60423, Oct. 10, 2008, as amended at 85 FR 54273, Sept. 1, 2020]Editorial Note:At 85 FR 54273, Sept. 1, 2020, § 9.3 was amended, however, the amendment could not be incorporated because paragraph (a)(8) does not exist.

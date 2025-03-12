@@ -408,12 +408,12 @@ S8 *Prohibition on altering the sound of a vehicle subject to this standard.* No
 
 S9 *Phase-in schedule.*
 
-S9.1 *Hybrid and Electric Vehicles manufactured on or after September 1, 2019, and before September 1, 2020.* For hybrid and electric vehicles to which this standard applies manufactured on and after September 1, 2019, and before September 1, 2020, except vehicles produced by small volume manufacturers, the quantity of hybrid and electric vehicles complying with this safety standard shall be not less than 50 percent of one or both of the following:
+S9.1 *Hybrid and Electric Vehicles manufactured on or after March 1, 2020, and before February 28, 2021.* For hybrid and electric vehicles to which this standard applies manufactured on and after March 1, 2020, and before March 1, 2021, except vehicles produced by small volume manufacturers, the quantity of hybrid and electric vehicles complying with this safety standard shall be not less than 50 percent of one or both of the following:
 
 (a) A manufacturer's average annual production of hybrid and electric vehicles on and after September 1, 2016, and before September 1, 2019;
 
-(b) A manufacturer's total production of hybrid and electric vehicles on and after September 1, 2019, and before September 1, 2020.
+(b) A manufacturer's total production of hybrid and electric vehicles on and after March 1, 2020, and before March 1, 2021.
 
-S9.2 *Hybrid and Electric Vehicles manufactured on or after September 1, 2020.* All hybrid and electric vehicles to which this standard applies manufactured on and after September 1, 2020, shall comply with this safety standard.
+S9.2 *Hybrid and Electric Vehicles manufactured on or after March 1, 2021.* All hybrid and electric vehicles to which this standard applies manufactured on or after March 1, 2021, shall comply with this safety standard.
 
-[81 FR 90514, Dec. 14, 2016, as amended at 83 FR 8196, Feb. 26, 2018]
+[81 FR 90514, Dec. 14, 2016, as amended at 83 FR 8196, Feb. 26, 2018; 85 FR 54280, Sept. 1, 2020]

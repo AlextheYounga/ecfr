@@ -1,14 +1,12 @@
 ##### § 349.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
-Link to an amendment published at 85 FR 39469, July 1, 2020.
-
 (a) *Authority.* This subpart is issued by the Federal Deposit Insurance Corporation (FDIC) under section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(e)), and section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818).
 
 (b) *Purpose.* Section 4s of the Commodity Exchange Act (7 U.S.C. 6s) and section 15F of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10) require the FDIC to establish capital and margin requirements for any FDIC-insured state-chartered bank that is not a member of the Federal Reserve System or FDIC-insured state-chartered savings association that is registered as a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant with respect to all non-cleared swaps and non-cleared security-based swaps. This subpart implements section 4s of the Commodity Exchange Act and section 15F of the Securities Exchange Act of 1934 by defining terms used in the statutes and related terms, establishing capital and margin requirements, and explaining the statutes' requirements.
 
 (c) *Scope.* This subpart establishes minimum capital and margin requirements for each covered swap entity subject to this subpart with respect to all non-cleared swaps and non-cleared security-based swaps. This subpart applies to any non-cleared swap or non-cleared security-based swap entered into by a covered swap entity on or after the relevant compliance date set forth in paragraph (e) of this section. Nothing in this subpart is intended to prevent a covered swap entity from collecting margin in amounts greater than are required under this subpart.
 
-(d) *Exemptions* - (1) *Swaps.* The requirements of this part (except for § 45.12) shall not apply to a non-cleared swap if the counterparty:
+(d) *Exemptions*—(1) *Swaps.* The requirements of this part (except for § 45.12) shall not apply to a non-cleared swap if the counterparty:
 
 (i) Qualifies for an exception from clearing under section 2(h)(7)(A) of the Commodity Exchange Act of 1936 (7 U.S.C. 2(h)(7)(A)) and implementing regulations;
 
@@ -58,15 +56,15 @@ Link to an amendment published at 85 FR 39469, July 1, 2020.
 
 (iii) In calculating the amounts in paragraphs (e)(5)(i) and (ii) of this section, an entity shall count the average daily aggregate notional amount of a non-cleared swap, a non-cleared security-based swap, a foreign exchange forward or a foreign exchange swap between the entity and an affiliate only one time, and shall not count a swap or security-based swap that is exempt pursuant to paragraph (d) of this section.
 
-(6) September 1, 2020, with respect to requirements in § 349.3 for initial margin for any non-cleared swaps and non-cleared security-based swaps, where both:
+(6) September 1, 2021 with respect to requirements in § 349.3 for initial margin for any non-cleared swaps and non-cleared security-based swaps, where both:
 
 (i) The covered swap entity combined with all its affiliates; and
 
-(ii) Its counterparty combined with all its affiliates, have an average daily aggregate notional amount of non-cleared swaps, foreign exchange forwards and foreign exchange swaps for March, April, and May 2020 that exceeds $50 billion, where such amounts are calculated only for business days; and
+(ii) Its counterparty combined with all its affiliates, have an average daily aggregate notional amount of non-cleared swaps, foreign exchange forwards and foreign exchange swaps for March, April and May 2021 that exceeds $50 billion, where such amounts are calculated only for business days; and
 
 (iii) In calculating the amounts in paragraphs (e)(6)(i) and (ii) of this section, an entity shall count the average daily aggregate notional amount of a non-cleared swap, a non-cleared security-based swap, a foreign exchange forward or a foreign exchange swap between the entity and an affiliate only one time, and shall not count a swap or security-based swap that is exempt pursuant to paragraph (d) of this section.
 
-(7) September 1, 2021, with respect to requirements in § 349.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
+(7) September 1, 2022 with respect to requirements in § 349.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
 
 (f) Once a covered swap entity must comply with the margin requirements for non-cleared swaps and non-cleared security-based swaps with respect to a particular counterparty based on the compliance dates in paragraph (e) of this section, the covered swap entity shall remain subject to the requirements of this subpart with respect to that counterparty.
 
@@ -128,4 +126,4 @@ Link to an amendment published at 85 FR 39469, July 1, 2020.
 
 (B) All payment obligations attached to the total effective notional amount being eliminated as a result of the amendment are fully novated to a third party, who complies with applicable margin rules for the novated portion upon the transfer.
 
-[80 FR 74912, Nov. 30, 2015, as amended at 83 FR 50812, Oct. 10, 2018; 84 FR 9949, Mar. 19, 2019; 85 FR 39775, July 1, 2020]
+[80 FR 74912, Nov. 30, 2015, as amended at 83 FR 50812, Oct. 10, 2018; 84 FR 9949, Mar. 19, 2019; 85 FR 39469, 39775, July 1, 2020]

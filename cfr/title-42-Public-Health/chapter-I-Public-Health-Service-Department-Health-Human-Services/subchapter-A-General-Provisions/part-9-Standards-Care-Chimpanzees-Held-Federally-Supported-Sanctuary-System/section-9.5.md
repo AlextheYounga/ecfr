@@ -12,16 +12,18 @@
 
 (3) Available space exists in the sanctuary; and
 
-(4) An agreement exists between the sanctuary system and the NCRR/NIH documenting that the chimpanzee may be brought into the sanctuary.
+(4) An agreement exists between the sanctuary system and the ORIP/DPCPSI/NIH documenting that the chimpanzee may be brought into the sanctuary.
 
 (d) *What additional conditions apply when nongovernmental owned chimpanzees transfer to the chimpanzee sanctuary?* The following additional conditions apply when nongovernmental owned chimpanzees transfer to the chimpanzee sanctuary:
 
 (1) Chimpanzees transferred to the sanctuary sites must be permanently incapable of reproduction, for example, by vasectomy, tubal ligation, or another reliable procedure;
 
-(2) Complete histories must accompany each chimpanzee. Any chimpanzee missing documentation for any period of research or other use may not be transferred to the Sanctuary without the concurrent authorization of the Sanctuary Contractor's Board of Directors and the NCRR; the records may be created and retained in electronic form; and
+(2) Complete histories must accompany each chimpanzee. Any chimpanzee missing documentation for any period of research or other use may not be transferred to the Sanctuary without the concurrent authorization of the Sanctuary Contractor's Board of Directors and the ORIP/DPCPSI/NIH; the records may be created and retained in electronic form; and
 
 (3) Appropriate screening of each chimpanzee must be performed to assess the likelihood of the chimpanzee being a health or safety threat to the care staff and/or other chimpanzees.
 
-(e) *What are the criteria for acceptance and the fees for admission into the sanctuary for nongovernmental owned chimpanzees?* The chimpanzee Sanctuary Contractor, in conjunction with NCRR, must establish criteria and a fee system for acceptance of nongovernmental owned chimpanzees. Funds collected for this purpose must be accounted for and used to help defray the expenses incurred in operating the sanctuary.
+(e) *What are the criteria for acceptance and the fees for admission into the sanctuary for nongovernmental owned chimpanzees?* The chimpanzee Sanctuary Contractor, in conjunction with ORIP/DPCPSI/NIH , must establish criteria and a fee system for acceptance of nongovernmental owned chimpanzees. Funds collected for this purpose must be accounted for and used to help defray the expenses incurred in operating the sanctuary.
 
 (f) *Under what circumstances might a chimpanzee from the sanctuary be returned to research at a United States research facility?* In December 2007, the CHIMP Act was amended by the “Chimp Haven is Home Act,” which terminated the authority for the removal of chimpanzees from the sanctuary system for research purposes.
+
+[73 FR 60423, Oct. 10, 2008, as amended at 85 FR 54273, Sept. 1, 2020]
