@@ -1,7 +1,5 @@
 ##### § 230.501 Definitions and terms used in Regulation D. #####
 
-Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
-
 As used in Regulation D (§ 230.500 *et seq.* of this chapter), the following terms shall have the meaning indicated:
 
 (a) *Accredited investor. Accredited investor* shall mean any person who comes within any of the following categories, or who the issuer reasonably believes comes within any of the following categories, at the time of the sale of the securities to that person:
@@ -44,7 +42,7 @@ As used in Regulation D (§ 230.500 *et seq.* of this chapter), the following te
 
 (d) *Business combination. Business combination* shall mean any transaction of the type specified in paragraph (a) of Rule 145 under the Act (17 CFR 230.145) and any transaction involving the acquisition by one issuer, in exchange for all or a part of its own or its parent's stock, of stock of another issuer if, immediately after the acquisition, the acquiring issuer has control of the other issuer (whether or not it had control before the acquisition).
 
-(e) *Calculation of number of purchasers.* For purposes of calculating the number of purchasers under §§ 230.505(b) and 230.506(b) only, the following shall apply:
+(e) *Calculation of number of purchasers.* For purposes of calculating the number of purchasers under § § 230.506(b) and 230.506(b) only, the following shall apply:
 
 (1) The following purchasers shall be excluded:
 
@@ -98,4 +96,4 @@ Note 3 to § 230.501:
 
 Disclosure of any material relationships between the purchaser representative or his affiliates and the issuer or its affiliates does not relieve the purchaser representative of his obligation to act in the interest of the purchaser.
 
-[47 FR 11262, Mar. 16, 1982, as amended at 53 FR 7868, Mar. 10, 1988; 54 FR 11372, Mar. 20, 1989; 76 FR 81806, Dec. 29, 2011; 77 FR 18685, Mar. 28, 2012; 78 FR 44770, 44804, July 24, 2013]
+[47 FR 11262, Mar. 16, 1982, as amended at 53 FR 7868, Mar. 10, 1988; 54 FR 11372, Mar. 20, 1989; 76 FR 81806, Dec. 29, 2011; 77 FR 18685, Mar. 28, 2012; 78 FR 44770, 44804, July 24, 2013; 81 FR 83553, Nov. 21, 2016]

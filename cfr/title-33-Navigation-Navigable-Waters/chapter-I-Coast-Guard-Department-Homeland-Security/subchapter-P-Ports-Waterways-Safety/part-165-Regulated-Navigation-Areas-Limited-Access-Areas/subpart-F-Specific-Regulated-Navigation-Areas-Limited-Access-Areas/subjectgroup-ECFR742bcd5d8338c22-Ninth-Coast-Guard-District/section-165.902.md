@@ -1,3 +1,5 @@
 ##### § 165.902 Niagara River at Niagara Falls, New York - safety zone. #####
 
+Link to an amendment published at 82 FR 23516, May 23, 2016.
+
 (a) The following is a safety zone - The United States waters of the Niagara River from the crest of the American and Horseshoe Falls, Niagara Falls, New York to a line drawn across the Niagara River from the downstream side of the mouth of Gill Creek to the upstream end of the breakwater at the mouth of the Welland River.

@@ -1,3 +1,5 @@
-##### § 384.235 xxx #####
+##### § 384.235 Commercial driver's license Drug and Alcohol Clearinghouse. #####
 
-Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment published at 81 FR 88803, Dec. 8, 2016.
+Beginning January 6, 2020, the State must request information from the Clearinghouse in accordance with § 383.73 of this chapter.
+
+[81 FR 87730, Dec. 5, 2016]
