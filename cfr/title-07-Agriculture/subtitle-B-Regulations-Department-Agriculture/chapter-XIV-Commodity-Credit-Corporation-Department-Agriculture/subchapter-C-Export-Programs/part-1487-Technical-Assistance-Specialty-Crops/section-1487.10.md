@@ -1,0 +1,3 @@
+##### § 1487.10 Notification of international travel. #####
+
+The Participant shall notify the Attaché/Counselor in the destination countries in writing in advance of any proposed travel by the Participant or its consultants or other participants. The timing of such notice should be far enough in advance to enable the Attaché/Counselor to schedule appointments, make preparations, or otherwise provide any assistance being requested. Failure to provide advance notification of travel generally will result in disallowance of the expenses related to the travel, unless CCC determines it was impractical to provide such notification.

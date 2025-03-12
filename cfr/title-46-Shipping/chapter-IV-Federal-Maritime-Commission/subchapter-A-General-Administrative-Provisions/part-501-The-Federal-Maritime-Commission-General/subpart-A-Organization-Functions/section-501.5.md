@@ -1,7 +1,5 @@
 ##### § 501.5 Functions of the organizational components of the Federal Maritime Commission. #####
 
-Link to an amendment published at 84 FR 54040, Oct. 9, 2019.
-
 As further provided in subpart C of this part, the functions, including the delegated authority of the Commission's organizational components and/or officials to exercise their functions and to take all actions necessary to direct and carry out their assigned duties and responsibilities under the lines of responsibility set forth in § 501.4, are briefly set forth as follows:
 
 (a) *Chairman.* As the chief executive and administrative officer of the Commission, the Chairman presides at meetings of the Commission, administers the policies of the Commission to its responsible officials, and ensures the efficient discharge of their responsibilities. The Chairman provides management direction to the Offices of Equal Employment Opportunity, Secretary, General Counsel, Administrative Law Judges, Consumer Affairs and Dispute Resolution Services, and Managing Director with respect to all matters concerning overall Commission workflow, resource allocation (both staff and budgetary), work priorities and similar managerial matters; and establishes, as necessary, various committees and boards to address overall operations of the agency. The Chairman serves as appeals officer under the Freedom of Information Act, the Privacy Act, and the Federal Activities Inventory Reform Act of 1998. The Chairman appoints the heads of major administrative units after consultation with the other Commissioners. In addition, the Chairman, as “head of the agency,” has certain responsibilities under Federal laws and directives not specifically related to shipping. For example, the special offices or officers within the Commission, listed under paragraphs (a)(1) through (a)(3) of this section, are appointed or designated by the Chairman, are under his or her direct supervision and report directly to the Chairman:
@@ -118,13 +116,11 @@ As further provided in subpart C of this part, the functions, including the dele
 
 (1) Participates as trial counsel in formal Commission proceedings when designated by Commission order, or when intervention is granted;
 
-(2) Initiates, processes and negotiates the informal compromise of civil penalties under § 501.28 and § 502.604 of this chapter, and represents the Commission in proceedings and circumstances as designated;
+(2) Subject to the prior approval of the Commission, negotiates the informal compromise of civil penalties under § 502.604 of this chapter, prepares and presents compromise agreements for Commission approval, and represents the Commission in proceedings and circumstances as designated;
 
-(3) [Reserved]
+(3) Subject to consultation with and guidance of the General Counsel, coordinates with other bureaus and offices to provide legal advice, attorney liaison, and prosecution, as warranted, in connection with enforcement matters; and
 
-(4) Coordinates with other bureaus and offices to provide legal advice, attorney liaison, and prosecution, as warranted, in connection with enforcement matters;
-
-(5) Conducts investigations leading to enforcement action, advises the Commission of evolving competitive practices in international oceanborne commerce, and assesses the practical repercussions of Commission regulations.
+(4) Conducts investigations and recommends enforcement action.
 
 (j) *Area Representatives.* Maintain a presence in locations other than Washington, DC, with activities including the following:
 
@@ -158,4 +154,4 @@ As further provided in subpart C of this part, the functions, including the dele
 
 (3) The *Maritime Environmental Committee* (“MEC”) is an internal Committee made up of Commission staff as designated by the Chairman. The MEC advises the Chairman and the Commission on issues involving environmental and sustainable shipping practices, initiatives, operational proposals, and similar matters affecting entities regulated by the Commission to assist the Commission in its review and regulation of agreements and in its statutory responsibility for ensuring an efficient ocean transportation system.
 
-[70 FR 7659, Feb. 15, 2005, as amended at 74 FR 50714, Oct. 1, 2009; 75 FR 29452, May 26, 2010; 75 FR 31321, June 3, 2010; 77 FR 59128, Sept. 26, 2012; 78 FR 13277, Feb. 27, 2013; 79 FR 24351, Apr. 30, 2014]
+[70 FR 7659, Feb. 15, 2005, as amended at 74 FR 50714, Oct. 1, 2009; 75 FR 29452, May 26, 2010; 75 FR 31321, June 3, 2010; 77 FR 59128, Sept. 26, 2012; 78 FR 13277, Feb. 27, 2013; 79 FR 24351, Apr. 30, 2014; 84 FR 54040, Oct. 9, 2019]

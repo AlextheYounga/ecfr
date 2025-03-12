@@ -1,11 +1,11 @@
-##### § 1487.4 Are there any limits on the scope of proposals? #####
+##### § 1487.4 Limits on the scope of proposals. #####
 
-(a) *Funding cap.* Proposals which request more than $500,000 of CCC funding in a given year will not be considered.
+(a) *Funding cap.* Proposals that request more than $500,000 of CCC funding in a given year will not be considered.
 
-(b) *Length of activities.* Funding will not be provided for projects that have received TASC funding for 5 years. The 5 years do not need to be consecutive.
+(b) *Length of activities.* Awards will generally be granted for a project period not exceeding five calendar years. However, FAS will entertain requests to extend agreements beyond five years when valid justifications are submitted. Participants must submit in writing a valid justification for why an extension is necessary no later than 60 days before the end of the period of performance. Extensions generally will be granted in one-year increments, if warranted. A Participant must wait for written approval from FAS before proceeding with the project.
 
-(c) *Target countries.* Proposals may target all eligible export markets, including single countries or reasonable regional groupings of countries.
+(c) *Target countries.* Proposals may target barriers in any eligible export market, including single countries or reasonable regional groupings of countries.
 
-(d) *Multiple proposals.* Applicants may submit multiple proposals, but no participant may have more than five approved projects underway at any given time.
+(d) *Multiple proposals.* Applicants may submit multiple proposals, but no Participant may have more than five approved projects underway at any given time.
 
-[74 FR 22090, May 12, 2009]
+(e) *Program funds only for specific uses.* Participants shall not use program funds to supplement the costs of normal day-to-day operations or to promote their own products or services beyond specific uses approved in a given project.

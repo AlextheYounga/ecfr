@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 84 FR 64694, Nov. 22, 2019.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -158,7 +156,7 @@ Link to an amendment published at 84 FR 64694, Nov. 22, 2019.
 
 (2) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.
 
-*Common item* means material that is common to the applicable Government contract and the contractor's other work.
+*Common item* means material that is common to the applicable Government contract and the contractor's other work, except that for use in the clause at 52.246-26, see the definition in paragraph (a) of that clause.
 
 *Component* means any item supplied to the Government as part of an end item or of another component, except that for use in -
 

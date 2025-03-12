@@ -1,5 +1,5 @@
-##### § 1487.7 How are agreements formalized? #####
+##### § 1487.7 Applicant notification. #####
 
-Following the approval of a proposal, the CCC will enter into a written agreement with the organization that submitted the proposal. This program agreement will incorporate the proposal as approved by the FAS, include a maximum dollar amount that may be reimbursed (the funding level), and identify terms and conditions under which the CCC will reimburse certain costs of the project. Program agreements also will outline any specific responsibilities of the participant, including, but not limited to, the timely and effective implementation of program activities and the submission of a written report(s), on no less than an annual basis, which evaluates the TASC project using the performance measures presented in the approved proposal.
+(a) CCC will notify each applicant in writing of the final decision on its application. CCC will send an agreement and an approval letter to each approved applicant. An applicant that accepts the terms and conditions contained in the agreement and approval letter must so indicate by having the appropriate authorizing official sign the agreement and submit it to CCC. The applicant may not begin to implement approved activities until the applicant's authorizing official and CCC have signed the agreement. The applicant is authorized to begin implementation of the project as of the date specified in the approval letter, unless otherwise indicated.
 
-[68 FR 42564, July 18, 2003]
+(b) The approval letter and agreement will outline the activities and budgets that are approved and will specify the terms and conditions applicable to the project, including the levels of TASC funding and cost share requirements.

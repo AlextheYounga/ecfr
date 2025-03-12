@@ -40,4 +40,4 @@ Link to an amendment published at 84 FR 37567, Aug. 1, 2019.
 
 (ii) *Multiple fees based on a single event or transaction.* A card issuer must not impose more than one fee for violating the terms or other requirements of a credit card account under an open-end (not home-secured) consumer credit plan based on a single event or transaction. A card issuer may, at its option, comply with this prohibition by imposing no more than one fee for violating the terms or other requirements of an account during a billing cycle.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 18797, Mar. 28, 2013; 78 FR 76035, Dec. 16, 2013; 79 FR 48017, Aug. 15, 2014; 80 FR 56898, Sept. 21, 2015; 81 FR 41421, June 27, 2016; 83 FR 43505, Aug. 27, 2018; 81 FR 84370, Nov. 22, 2016]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 18797, Mar. 28, 2013; 78 FR 76035, Dec. 16, 2013; 79 FR 48017, Aug. 15, 2014; 80 FR 56898, Sept. 21, 2015; 81 FR 41421, June 27, 2016; 81 FR 84370, Nov. 22, 2016; 83 FR 43505, Aug. 27, 2018]

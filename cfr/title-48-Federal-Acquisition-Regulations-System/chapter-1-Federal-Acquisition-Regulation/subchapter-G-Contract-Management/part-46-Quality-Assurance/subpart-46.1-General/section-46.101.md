@@ -1,8 +1,6 @@
 ##### 46.101 Definitions. #####
 
-Link to an amendment published at 84 FR 64694, Nov. 22, 2019.
-
-As used in this part -
+As used in this part—
 
 *Acceptance* means the act of an authorized representative of the Government by which the Government, for itself or as agent of another, assumes ownership of existing identified supplies tendered or approves specific services rendered as partial or complete performance of the contract.
 
@@ -10,7 +8,13 @@ As used in this part -
 
 *Contract quality requirements* means the technical requirements in the contract relating to the quality of the product or service and those contract clauses prescribing inspection, and other quality controls incumbent on the contractor, to assure that the product or service conforms to the contractual requirements.
 
+*Counterfeit item* means an unlawful or unauthorized reproduction, substitution, or alteration that has been knowingly mismarked, misidentified, or otherwise misrepresented to be an authentic, unmodified item from the original manufacturer, or a source with the express written authority of the original manufacturer or current design activity, including an authorized aftermarket manufacturer. Unlawful or unauthorized substitution includes used items represented as new, or the false identification of grade, serial number, lot number, date code, or performance characteristics.
+
+*Critical item* means an item, the failure of which is likely to result in hazardous or unsafe conditions for individuals using, maintaining, or depending upon the item; or is likely to prevent performance of a vital agency mission.
+
 *Critical nonconformance* means a nonconformance that is likely to result in hazardous or unsafe conditions for individuals using, maintaining, or depending upon the supplies or services; or is likely to prevent performance of a vital agency mission.
+
+*Design activity* means an organization, Government or contractor, that has responsibility for the design and configuration of an item, including the preparation or maintenance of design documents. Design activity could be the original organization, or an organization to which design responsibility has been transferred.
 
 *Government contract quality assurance* means the various functions, including inspection, performed by the Government to determine whether a contractor has fulfilled the contract obligations pertaining to quality and quantity.
 
@@ -24,6 +28,8 @@ As used in this part -
 
 *Subcontractor* (see 44.101).
 
+*Suspect counterfeit item* means an item for which credible evidence (including but not limited to, visual inspection or testing) provides reasonable doubt that the item is authentic.
+
 *Testing* means that element of inspection that determines the properties or elements, including functional operation of supplies or their components, by the application of established scientific principles and procedures.
 
-[48 FR 42415, Sept. 19, 1983, as amended at 60 FR 48249, Sept. 18, 1995; 61 FR 31662, June 20, 1996; 64 FR 51846, Sept. 24, 1999; 66 FR 2133, Jan. 10, 2001]
+[48 FR 42415, Sept. 19, 1983, as amended at 60 FR 48249, Sept. 18, 1995; 61 FR 31662, June 20, 1996; 64 FR 51846, Sept. 24, 1999; 66 FR 2133, Jan. 10, 2001; 84 FR 64694, Nov. 22, 2019]

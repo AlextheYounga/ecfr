@@ -1,7 +1,5 @@
 ##### § 17.47 Special rules - insects. #####
 
-Link to an amendment published at 84 FR 64227, Nov. 21, 2019.
-
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*).
 
 (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
@@ -32,4 +30,26 @@ Link to an amendment published at 84 FR 64227, Nov. 21, 2019.
 
 (vii) *Livestock (cattle, bison, or horse) grazing on private, State, or tribal land.*
 
-[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014]
+(c) Western glacier stonefly (*Zapada glacier*) and meltwater lednian stonefly (*Lednia tumana*) - (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to western glacier stonefly and meltwater lednian stonefly except as provided under paragraph (c)(2) of this section and §§ 17.4 and 17.5. It is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to these species:
+
+(i) Import or export, as set forth at § 17.21(b).
+
+(ii) Take, as set forth at § 17.21(c)(1).
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1).
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e).
+
+(v) Sale or offer for sale, as set forth at § 17.21(f).
+
+(2) *Exception*s *from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(3) and (4) for endangered wildlife.
+
+(iii) Possess and engage in other acts, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(iv) In addition to any other provisions of this part, any employee or agent of the Service, of the National Marine Fisheries Service, or of a State conservation agency that is operating a conservation program pursuant to the terms of a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by that agency for such purposes, may, when acting in the course of official duties, take those threatened species of wildlife that are covered by an approved cooperative agreement to carry out conservation programs.
+
+[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019]

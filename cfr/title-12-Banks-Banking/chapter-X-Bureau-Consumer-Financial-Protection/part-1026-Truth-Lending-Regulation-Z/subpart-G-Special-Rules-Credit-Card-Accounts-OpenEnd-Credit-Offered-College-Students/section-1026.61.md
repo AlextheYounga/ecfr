@@ -1,12 +1,12 @@
 ##### § 1026.61 Hybrid prepaid-credit cards. #####
 
-(a) *Hybrid prepaid-credit card* - (1) *In general.* (i) Credit offered in connection with a prepaid account is subject to this section and this regulation as specified below.
+(a) *Hybrid prepaid-credit card*—(1) *In general.* (i) Credit offered in connection with a prepaid account is subject to this section and this regulation as specified below.
 
 (ii) For purposes of this regulation, except as provided in paragraph (a)(4) of this section, a prepaid card is a hybrid prepaid-credit card with respect to a separate credit feature as described in paragraph (a)(2)(i) of this section when it can access credit from that credit feature, or with respect to a credit feature structured as a negative balance on the asset feature of the prepaid account as described in paragraph (a)(3) of this section when it can access credit from that credit feature. A hybrid prepaid-credit card is a credit card for purposes of this regulation with respect to those credit features.
 
 (iii) With respect to a credit feature structured as a negative balance on the asset feature of the prepaid account as described in paragraph (a)(3) of this section, a prepaid card is not a hybrid prepaid-credit card or a credit card for purposes of this regulation if the conditions set forth in paragraph (a)(4) of this section are met.
 
-(2) *Prepaid card can access credit from a covered separate credit feature* - (i) *Covered separate credit feature.* (A) A separate credit feature that can be accessed by a hybrid prepaid-credit card as described in this paragraph (a)(2)(i) is defined as a covered separate credit feature. A prepaid card is a hybrid prepaid-credit card with respect to a separate credit feature when it is a single device that can be used from time to time to access the separate credit feature where the following two conditions are both satisfied:
+(2) *Prepaid card can access credit from a covered separate credit feature*—(i) *Covered separate credit feature.* (A) A separate credit feature that can be accessed by a hybrid prepaid-credit card as described in this paragraph (a)(2)(i) is defined as a covered separate credit feature. A prepaid card is a hybrid prepaid-credit card with respect to a separate credit feature when it is a single device that can be used from time to time to access the separate credit feature where the following two conditions are both satisfied:
 
 (*1*) The card can be used to draw, transfer, or authorize the draw or transfer of credit from the separate credit feature in the course of authorizing, settling, or otherwise completing transactions conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers; and
 
@@ -16,7 +16,7 @@
 
 (ii) *Non-covered separate credit feature.* A separate credit feature that does not meet the two conditions set forth in paragraph (a)(2)(i) of this section is defined as a non-covered separate credit feature. A prepaid card is not a hybrid prepaid-credit card with respect to a non-covered separate credit feature, even if the prepaid card is a hybrid prepaid-credit card with respect to a covered separate credit feature as described in paragraph (a)(2)(i) of this section. A non-covered separate credit feature is not subject to the rules applicable to hybrid prepaid-credit cards; however, it may be subject to this regulation depending on its own terms and conditions, independent of the connection to the prepaid account.
 
-(3) *Prepaid card can access credit extended through a negative balance on the asset feature of the prepaid account* - (i) *In general.* Except as provided in paragraph (a)(4) of this section, a prepaid card is a hybrid prepaid-credit card when it is a single device that can be used from time to time to access credit extended through a negative balance on the asset feature of the prepaid account.
+(3) *Prepaid card can access credit extended through a negative balance on the asset feature of the prepaid account*—(i) *In general.* Except as provided in paragraph (a)(4) of this section, a prepaid card is a hybrid prepaid-credit card when it is a single device that can be used from time to time to access credit extended through a negative balance on the asset feature of the prepaid account.
 
 (ii) *Negative asset balances.* Notwithstanding paragraph (a)(3)(i) of this section with regard to coverage under this regulation, structuring a hybrid prepaid-credit card to access credit through a negative balance on the asset feature violates paragraph (b) of this section. A prepaid account issuer can use a negative asset balance structure to extend credit on an asset feature of a prepaid account only if the prepaid card is not a hybrid prepaid-credit card with respect to that credit as described in paragraph (a)(4) of this section.
 
@@ -94,4 +94,4 @@
 
 (2) For purposes of paragraph (c) of this section, the term *solicitation* has the meaning set forth in § 1026.60(a)(1).
 
-[81 FR 84370, Nov. 22, 2016; 83 FR 6439, Feb. 13, 2017]
+[81 FR 84370, Nov. 22, 2016, as amended at 83 FR 6439, Feb. 13, 2018]

@@ -1,12 +1,10 @@
 ##### § 28.1105 Request for a waiver. #####
 
-Link to an amendment published at 84 FR 64209, Nov. 21, 2019.
-
 (a) Vessel owners, operators, or employers who desire a waiver of citizenship requirements from the Coast Guard must submit a written request to the Commandant (CG-CVC), United States Coast Guard Headquarters, Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501.
 
-(b) The written request required under paragraph (a) of this section must contain -
+(b) The written request required under paragraph (a) of this section must contain—
 
-(1) The vessel owner's, operator's, or employer's contact information -
+(1) The vessel owner's, operator's, or employer's contact information—
 
 (i) Full name (last, first, middle initial);
 
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 64209, Nov. 21, 2019.
 
 (v) Email address (if applicable);
 
-(2) Information on fishing vessel(s) for which the owner, operator, or employer requests a citizenship waiver. For each listed vessel, the owner's, operator's, or employer's must include -
+(2) Information on fishing vessel(s) for which the owner, operator, or employer requests a citizenship waiver. For each listed vessel, the owner's, operator's, or employer's must include—
 
 (i) Fishing vessel name;
 
@@ -30,7 +28,7 @@ Link to an amendment published at 84 FR 64209, Nov. 21, 2019.
 
 (v) Each type of fishery in which the vessel is engaged;
 
-(3) Information on persons who will work on the vessel. For each listed vessel, the owner, operator, or employer must include -
+(3) Information on persons who will work on the vessel. For each listed vessel, the owner, operator, or employer must include—
 
 (i) The total number of unlicensed crew normally employed;
 
@@ -38,7 +36,7 @@ Link to an amendment published at 84 FR 64209, Nov. 21, 2019.
 
 (iii) The number of alien seamen who are not lawfully admitted for permanent residence but are otherwise authorized for employment in the United States under the INA for which the waiver is requested; and
 
-(4) The time period over which the 25 percent limit will be exceeded -
+(4) The time period over which the 25 percent limit will be exceeded—
 
 (i) Start date (MM/DD/YYYY); and
 
@@ -54,4 +52,4 @@ Link to an amendment published at 84 FR 64209, Nov. 21, 2019.
 
 (e) Upon receipt of a request submitted under paragraph (a) of this section and required information submitted in accordance with paragraphs (b) through (d) of this section, the Coast Guard will evaluate the information and may investigate further, as necessary, to determine the validity of the information provided.
 
-[USCG-2010-0625, 79 FR 8869, Feb. 14, 2014, as amended by USCG-2016-0498, 82 FR 35089, July 28, 2017]Effective Date Note:At 79 FR 8869, Feb. 14, 2014, § 28.1105 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[USCG-2010-0625, 79 FR 8869, Feb. 14, 2014, as amended by USCG-2016-0498, 82 FR 35089, July 28, 2017]

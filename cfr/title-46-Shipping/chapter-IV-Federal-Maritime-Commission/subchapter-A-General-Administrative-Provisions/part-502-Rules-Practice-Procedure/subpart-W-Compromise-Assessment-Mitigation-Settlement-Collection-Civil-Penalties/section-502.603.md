@@ -1,11 +1,9 @@
 ##### § 502.603 Assessment of civil penalties: Procedure; criteria for determining amount; limitations; relation to compromise. #####
 
-Link to an amendment published at 84 FR 54040, Oct. 9, 2019.
-
 (a) *Procedure for assessment of penalty.* The Commission may assess a civil penalty only after notice and opportunity for hearing. Civil penalty assessment proceedings, including settlement negotiations, shall be governed by the Commission's Rules of Practice and Procedure in this part. All settlements must be approved by the Presiding Officer. The full text of any settlement must be included in the final order of the Commission.
 
 (b) *Criteria for determining amount of penalty.* In determining the amount of any penalties assessed, the Commission shall take into account the nature, circumstances, extent and gravity of the violation committed and the policies for deterrence and future compliance with the Commission's rules and regulations and the applicable statutes. The Commission shall also consider the respondent's degree of culpability, history of prior offenses, ability to pay and such other matters as justice requires.
 
-(c) *Limitations; relation to compromise.* When the Commission, in its discretion, determines that policy, justice or other circumstances warrant, a civil penalty assessment proceeding may be instituted at any time for any violation which occurred within five years prior to the issuance of the order of investigation. Such proceeding may also be instituted at any time after the initiation of informal compromise procedures, except where a compromise agreement for the same violations under the compromise procedures has become effective under § 502.604(e). [Rule 603.]
+(c) *Limitations; relation to compromise.* When the Commission, in its discretion, determines that policy, justice or other circumstances warrant, a civil penalty assessment proceeding may be instituted at any time for any violation which occurred within five years prior to the issuance of the order of investigation. Such proceeding may also be instituted at any time after the initiation of informal compromise procedures, except where a compromise agreement for the same violations under the compromise procedures has become effective under § 502.604). [Rule 603.]
 
-[49 FR 44418, Nov. 6, 1984. Redesignated at 58 FR 27211, May 7, 1993, as amended at 64 FR 7812, Feb. 17, 1999]
+[49 FR 44418, Nov. 6, 1984. Redesignated at 58 FR 27211, May 7, 1993, as amended at 64 FR 7812, Feb. 17, 1999; 84 FR 54040, Oct. 9, 2019]

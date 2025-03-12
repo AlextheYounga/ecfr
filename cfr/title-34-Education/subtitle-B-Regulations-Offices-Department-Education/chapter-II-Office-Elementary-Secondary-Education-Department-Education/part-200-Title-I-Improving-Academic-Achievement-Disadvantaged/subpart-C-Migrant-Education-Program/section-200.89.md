@@ -1,16 +1,14 @@
 ##### § 200.89 Re-interviewing; eligibility documentation; and quality control. #####
 
-Link to an amendment published at 84 FR 64423, Nov. 22, 2019.
-
 (a) [Reserved]
 
-(b) *Responsibilities of SEAs for re-interviewing to ensure the eligibility of children under the MEP* - (1) *Retrospective re-interviewing.* (i) As a condition for the continued receipt of MEP funds in FY 2006 and subsequent years, an SEA under a corrective action issued by the Secretary under paragraph (b)(2)(vii) or (d)(7) of this section must, as required by the Secretary -
+(b) *Responsibilities of SEAs for re-interviewing to ensure the eligibility of children under the MEP*—(1) *Retrospective re-interviewing.* (i) As a condition for the continued receipt of MEP funds in FY 2006 and subsequent years, an SEA under a corrective action issued by the Secretary under paragraph (b)(2)(vii) or (d)(7) of this section must, as required by the Secretary—
 
 (A) Conduct a statewide re-interviewing process consistent with paragraph (b)(1)(ii) of this section; and
 
 (B) Consistent with paragraph (b)(1)(iii) of this section, report to the Secretary on the procedures it has employed, its findings, its defect rate, and corrective actions it has taken or will take to avoid a recurrence of any problems found.
 
-(ii) At a minimum, the re-interviewing process must include -
+(ii) At a minimum, the re-interviewing process must include—
 
 (A) Selection of a sample of identified migratory children (from the child counts of a particular year as directed by the Secretary) randomly selected on a statewide basis to allow the State to estimate the statewide proportion of eligible migratory children at a 95 percent confidence level with a confidence interval of plus or minus 5 percent.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 64423, Nov. 22, 2019.
 
 (C) Calculation of a defect rate based on the number of sampled children determined ineligible as a percentage of those sampled children whose parent/guardian was actually re-interviewed.
 
-(iii) At a minimum, the report must include -
+(iii) At a minimum, the report must include—
 
 (A) An explanation of the sample and procedures used in the SEA's re-interviewing process;
 
@@ -32,11 +30,15 @@ Link to an amendment published at 84 FR 64423, Nov. 22, 2019.
 
 (F) A summary of the corrective actions the SEA will take to address the identified problems.
 
-(2) *Prospective re-interviewing.* As part of the system of quality controls identified in § 200.89(d), an SEA that receives MEP funds must, on an annual basis, validate current-year child eligibility determinations through the re-interview of a randomly selected sample of children previously identified as migratory. In conducting these re-interviews, an SEA must -
+(2) *Prospective re-interviewing.* As part of the system of quality controls identified in paragraph (d) of this section, an SEA that receives MEP funds must annually validate child eligibility determinations from the current performance reporting period (September 1 to August 31) through re-interviews for a randomly selected sample of children identified as migratory during the same performance reporting period. In conducting these re-interviews, an SEA must—
 
-(i) Use, at least once every three years, one or more independent interviewers (i.e., interviewers who are neither SEA or local operating agency staff members working to administer or operate the State MEP nor any other persons who worked on the initial eligibility determinations being tested) trained to conduct personal interviews and to understand and apply program eligibility requirements;
+(i) Except as specified in paragraphs (b)(2)(i)(A) and (B) of this section, use one or more re-interviewers who may be SEA or local operating agency staff members working to administer or operate the State MEP, or any other person trained to conduct personal interviews and to understand and apply program eligibility requirements, but who did not work on the initial eligibility determinations being tested;
 
-(ii) Select a random sample of identified migratory children so that a sufficient number of eligibility determinations in the current year are tested on a statewide basis or within categories associated with identified risk factors (e.g., experience of recruiters, size or growth in local migratory child population, effectiveness of local quality control procedures) in order to help identify possible problems with the State's child eligibility determinations;
+(A) At least once every three years until September 1, 2020, SEAs must use one or more independent re-interviewers (*i.e.,* interviewers who are neither SEA nor local operating agency staff members working to administer or operate the State MEP nor any other persons who worked on the initial eligibility determinations being tested and who are trained to conduct personal interviews and to understand and apply program eligibility requirements).
+
+(B) Beginning September 1, 2020, an SEA must use one or more independent re-interviewers to validate child eligibility determinations made during one of the first three full performance reporting periods (September 1 through August 31) following the effective date of a major statutory or regulatory change that directly impacts child eligibility (as determined by the Secretary). Therefore, the entire sample of eligibility determinations to be tested by independent re-interviewers must be drawn from children determined to be eligible in a single performance period, based on eligibility requirements that include the major statutory or regulatory change.
+
+(ii) Select a random sample of identified migratory children so that a sufficient number of eligibility determinations in the current performance reporting period are tested on a statewide basis or within categories associated with identified risk factors (*e.g.,* experience of recruiters, size or growth in local migratory child population, effectiveness of local quality control procedures) in order to help identify possible problems with the State's child eligibility determinations;
 
 (iii) Conduct re-interviews with the parents or guardians of the children in the sample. States must use a face-to-face approach to conduct these re-interviews unless circumstances make face-to-face re-interviews impractical and necessitate the use of an alternative method such as telephone re-interviewing;
 
@@ -70,4 +72,4 @@ Link to an amendment published at 84 FR 64423, Nov. 22, 2019.
 
 (7) A process for implementing corrective action if the SEA finds COEs that do not sufficiently document a child's eligibility for the MEP, or in response to internal State audit findings and recommendations, or monitoring or audit findings of the Secretary.
 
-(Authority: 20 U.S.C. 6391-6399, 6571, 7844(d); 18 U.S.C. 1001)[73 FR 44124, July 29, 2008, as amended at 83 FR 42440, Aug. 22, 2018; 84 FR 31677, July 2, 2019]
+[73 FR 44124, July 29, 2008, as amended at 83 FR 42440, Aug. 22, 2018; 84 FR 31677, July 2, 2019; 84 FR 64423, Nov. 22, 2019]

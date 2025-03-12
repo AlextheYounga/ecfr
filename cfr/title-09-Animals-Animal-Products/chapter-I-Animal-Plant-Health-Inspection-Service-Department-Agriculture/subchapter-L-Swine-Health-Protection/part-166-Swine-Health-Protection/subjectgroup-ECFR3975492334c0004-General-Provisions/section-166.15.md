@@ -1,15 +1,17 @@
 ##### § 166.15 State status. #####
 
-Link to an amendment published at 84 FR 64415, Nov. 22, 2019.
+(a) The Animal and Plant Health Inspection Service (APHIS) will maintain on its website2 the following lists of States:
 
-(a) The following States prohibit the feeding of garbage to swine: Alabama, Delaware, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Mississippi, Nebraska, New York, North Dakota, Oregon, South Carolina, South Dakota, Tennessee, Virginia, and Wisconsin.
+(1) States that prohibit the feeding of garbage to swine;
 
-(b) The following States and Puerto Rico permit the feeding of treated garbage to swine: Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, Hawaii, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Puerto Rico, Rhode Island, Texas, Utah, Vermont, Washington, West Virginia, and Wyoming.
+(2) States that allow the feeding of treated garbage to swine;
 
-(c) The following States have primary enforcement responsibility under the Act: Alabama, Arizona, California, Colorado, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Jersey, New York, North Dakota, Ohio, Pennsylvania, South Carolina, South Dakota, Tennessee, Utah, Virginia, West Virginia, and Wisconsin.
+(3) States that have primary enforcement responsibility under the Act; and
 
-(d) The following States issue licenses under cooperative agreements with the Animal and Plant Health Inspection Service, but do not have primary enforcement responsibility under the Act: Maryland, Puerto Rico, Texas, and Washington.
+(4) States that issue licenses under cooperative agreements with APHIS, but do not have primary responsibility under the Act.
 
-(e) The public may contact the Area Veterinarian in Charge, Animal and Plant Health Inspection Service, United States Department of Agiculture or State animal health official, or the Animal and Plant Health Inspection Service, Veterinary Services, Swine Health, 4700 River Road, Unit 37, Riverdale, Maryland 20737-1231, concerning the feeding of garbage to swine.
+(b) For information concerning the feeding of garbage to swine, the public may contact the APHIS Area Veterinarian in Charge, the State animal health official, or Veterinary Services, 4700 River Road, Unit 37, Riverdale, MD 20737-1231.2
 
-[47 FR 49945, Nov. 3, 1982. Redesignated at 52 FR 4891, Feb. 18, 1987]Editorial Note:For Federal Register citations affecting § 166.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+2*https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/swine-disease-information.*
+
+84 FR 64415, Nov. 22, 2019]

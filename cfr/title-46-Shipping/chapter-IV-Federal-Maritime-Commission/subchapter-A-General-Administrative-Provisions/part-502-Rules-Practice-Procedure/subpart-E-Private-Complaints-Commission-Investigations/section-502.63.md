@@ -1,7 +1,5 @@
 ##### § 502.63 Commission enforcement action. #####
 
-Link to an amendment published at 84 FR 54040, Oct. 9, 2019.
-
 (a) The Commission may issue an Order of Investigation and Hearing commencing an adjudicatory investigation against one or more respondents alleging one or more violations of the statutes that it administers.
 
 (b) *Contents of Order of Investigation and Hearing.* The Order of Investigation and Hearing must contain the following:
@@ -32,4 +30,18 @@ Link to an amendment published at 84 FR 54040, Oct. 9, 2019.
 
 (4) *Effect of failure to file answer.* (i) Failure of a respondent to file an answer to an Order of Investigation and Hearing within the time provided will be deemed to constitute a waiver of the respondent's right to appear and contest the allegations in the Order of Investigation and Hearing and to authorize the presiding officer to enter a decision on default as provided for in 46 CFR 502.65. Well pleaded factual allegations in the Order of Investigation and Hearing not answered or addressed will be deemed to be admitted.
 
-(ii) The Bureau of Enforcement may make a motion for decision on default. [Rule 63.]
+(ii) The Bureau of Enforcement may make a motion for decision on default.
+
+(d) *Pre-enforcement process.* (1) Prior to recommending formal enforcement action under this section or informal compromise procedures under § 502.604, the Bureau of Enforcement will advise the person or persons who are the subject of an investigation that:
+
+(i) The Bureau of Enforcement has made a preliminary determination to recommend that the Commission initiate enforcement action against them;
+
+(ii) Identifies the specific violations that the Bureau of Enforcement has preliminarily determined to include in the recommendation; and
+
+(iii) Provides notice that the person may make a written submission to the Bureau of Enforcement concerning the proposed recommendation, including the deadline for the submission and any other relevant information (*e.g.,* how and where to send such statements).
+
+(2) Persons notified of such investigations may submit a written statement to the Bureau of Enforcement setting forth their interests and positions regarding the subject matter of the investigation.
+
+(3) The Bureau of Enforcement will consider any written statements submitted under paragraph (d)(2) of this section when making recommendations to the Commission and will attach such written statements to the Bureau's recommendations. [Rule 63.]
+
+[77 FR 61524, Oct. 10, 2012, as amended at 84 FR 54040, Oct. 9, 2019]

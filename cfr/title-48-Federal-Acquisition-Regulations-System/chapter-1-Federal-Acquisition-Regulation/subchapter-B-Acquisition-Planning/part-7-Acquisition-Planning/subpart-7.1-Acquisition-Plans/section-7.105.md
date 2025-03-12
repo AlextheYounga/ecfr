@@ -1,7 +1,5 @@
 ##### 7.105 Contents of written acquisition plans. #####
 
-Link to an amendment published at 84 FR 64694, Nov. 22, 2019.
-
 In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) of this section). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) of this section, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
 
 (a) *Acquisition background and objectives* - (1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
@@ -120,7 +118,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (iv) For acquisitions that may require Federal contract information to reside in or transit through contractor information systems, discuss compliance with subpart 4.19.
 
-(19) *Contract administration.* Describe how the contract will be administered. In contracts for services, include how inspection and acceptance corresponding to the work statement's performance criteria will be enforced.
+(19) *Contract administration.* Describe how the contract will be administered. In contracts for services, include how inspection and acceptance corresponding to the work statement's performance criteria will be enforced. In contracts for supplies or service contracts that include supplies, address whether higher-level quality standards are necessary (46.202) and whether the supplies to be acquired are critical items (46.101).
 
 (20) *Other considerations.* Discuss, as applicable:
 

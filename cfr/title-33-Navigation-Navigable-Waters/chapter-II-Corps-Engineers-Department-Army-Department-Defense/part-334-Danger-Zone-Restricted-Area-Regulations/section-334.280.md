@@ -1,19 +1,45 @@
-##### § 334.280 James River between the entrance to Skiffes Creek and Mulberry Point, Va.; army training and small craft testing area. #####
+##### § 334.280 James River, Skiffes Creek and Warwick River surrounding Joint Base Langley-Eustis, Virginia; restricted areas and danger zones. #####
 
-Link to an amendment published at 84 FR 64201, Nov. 21, 2019.
+(a) *The areas.* The datum for the coordinates for the restricted areas and danger zones described in this section is NAD-83.
 
-(a) *The restricted area.* Beginning on the shore at latitude 37°09′54″ N., longitude 76°36′25″ W.; thence westerly to latitude 37°09′50″ N., longitude 76°37′45.5″ W.; thence southerly to latitude 37°09′00″ N., longitude 76°38′05″ W.; thence southerly to latitude 37°08′22″ N., longitude 76°37′55″ W.; thence due east to the shore at latitude 37°08′22″ N., longitude 76°37′22″ W.; thence northerly along the shore to the point of beginning.
+(1) *Army Training and Small Craft Testing Area (restricted area).* Beginning on the shore at latitude 37°09′53″ N, longitude 76°36′23″ W; thence westerly to latitude 37°09′53″ N, longitude 76°36′59″ W; thence westerly to latitude 37°09′50″ N, longitude 76°37′45″ W; thence southerly to latitude 37°09′00″ N, longitude 76°38′05″ W; thence southerly to latitude 37°08′22″ N, longitude 76°37′55″ W; thence due east to the shore at latitude 37°08′22″ N, longitude 76°37′20″ W; thence northerly following the shoreline to the point of beginning.
 
-(b) *The regulations.* (1) No vessels other than Department of the Army vessels, and no persons other than persons embarked in such vessels shall remain in or enter the restricted area except as provided in paragraph (b)(2) of this section.
+(2) *3rd Port Facility (restricted area).* An area surrounding the 3rd Port facility, Fort Eustis, beginning at a point on the shoreline at latitude 37°09′53″ N, longitude 76°36′23″ W; thence northerly, following the shoreline to latitude 37°10′03″ N, longitude 76°36′25″ W; thence northerly, following the shoreline to latitude 37°10′19″ N, longitude 76°36′07″ W; thence northerly, across the mouth of Bailey's Creek to latitude 37°10′24″ N, longitude 76°36′02″ W; thence northerly, following the shoreline to latitude 37°10′29″ N, longitude 76°36′06″ W; thence westerly, across Skiffes Creek to latitude 37°10′33″ N, longitude 76°36′20″ W; thence southerly following the shoreline to latitude 37°10′13″ N, longitude 76°36′42″ W; thence southerly to latitude 37°09′53″ N, longitude 76°36′59″ W; thence to the point of beginning.
 
-(2) Nothing in the regulations of this section shall prevent the harvesting and cultivation of oyster beds or the setting of fish traps within the restricted area under regulations of the Department of the Army, nor will the passage of fishing vessels to or from authorized traps be unreasonably interfered with or restricted.
+(3) *Warwick River and any tributaries, creeks, estuaries, tidal areas, to include Butlers Gut and Jail Creek (restricted area).* All navigable waters of the United States as defined in 33 CFR part 329 within the boundaries of Fort Eustis, westerly of a line connecting the following coordinates: Commencing from the shoreline at latitude 37°09′47″ N, longitude 76°33′52″ W; thence following the meanders of the installation boundary along the westerly mean low waterline of Warwick River, thence to a point on the installation boundary at latitude 37°04′35″ N, longitude 76°33′19″ W.
 
-(3) Vessels anchored in the area shall be so anchored as not to obstruct the arc of visibility of Deepwater Shoals Light.
+(4) *James River and any tributaries, creeks, estuaries, tidal areas, to include Nells Creek, Locust Neck Creek, Dudleys Creek, Morrisons Creek, Morleys Gut, Blows Creek, and Milstead Creek (restricted area).* Navigable waters of the United States as defined at 33 CFR part 329 within the boundaries of Fort Eustis, north/north-easterly of a line connecting the following coordinates: Commencing from the shoreline at latitude 37°04′35″ N, longitude 76°33′19″ W; thence following the meanders of the installation boundary along the northeasterly mean low waterline of the James River, thence to a point on the installation boundary at latitude 37°10′03″ N, longitude 76°36′25″ W at a point at the mouth of Skiffes Creek.
 
-(4) The Commanding General, Fort Eustis, Va., will, to the extent possible give public notice from time to time through local news media and the Coast Guard's Local Notice to Mariners of the schedule of intended Army use of the restricted area.
+(5) *Skiffes Creek and any tributaries, creeks, estuaries, tidal areas, to include Baileys Creek (restricted area).* All navigable waters of the United States as defined at 33 CFR part 329 within the boundaries of Fort Eustis, easterly of a line connecting the following coordinates: Commencing from a point on the installation boundary at latitude 37°10′03″ N, longitude 76°36′25″ W; thence northerly, following the shoreline to latitude 37°10′19″ N, longitude 76°36′07″ W; thence northerly, across the mouth of Bailey's Creek to latitude 37°10′24″ N, longitude 76°36′02″ W; thence northerly, following the shoreline to latitude 37°10′29″ N, longitude 76°36′06″ W; thence northerly, following the meanders of the installation boundary to a point at the centerline of an unnamed tributary at latitude 37°10′36″ N, longitude 76°36′01″ W; thence southeasterly, following the centerline of the unnamed tributary to a point on the installation boundary at latitude 37°10′24″ N, longitude 76°35′32″ W.
 
-(5) The continuation of the restricted area for more than 3 years after the date of its establishment shall be dependent upon the outcome of the consideration of a request for its continuance submitted to the District Engineer, U.S. Army Engineer District, Norfolk, Virginia, by the using agency at least 3 months prior to the expiration of the 3 years.
+(6) *Danger Zone Warwick River.* Navigable waters of the United States as defined at 33 CFR part 329 that encroach upon the boundaries of the Danger Zone of Fort Eustis, westerly of a line connecting the following coordinates: Commencing from the installation boundary at latitude 37°06′44″ N, longitude 76°34′04″ W; thence to a point at latitude 37°06′44″ N, longitude 76°34′02″ W; thence to a point at latitude 37°06′35″ N, longitude 76°33′56″ W; thence to a point at latitude 37°06′28″ N, longitude 76°33′57″ W; thence to a point at latitude 37°06′15″ N, longitude 76°33′30″ W; thence to a point at latitude 37°05′43″ N, longitude 76°33′13″ W; thence to a point at latitude 37°05′33″ N, longitude 76°33′17″ W; thence to a point at latitude 37°05′13″ N, longitude 76°32′53″ W; thence to a point at latitude 37°05′03″ N, longitude 76°33′09″ W; thence following the meanders of the installation boundary along the southwesterly mean low waterline of Warwick River, thence to a point at latitude 37°04′52″ N, longitude 76°33′13″ W; thence to a point at latitude 37°04′49″ N, longitude 76°33′11″ W; thence to a point at latitude 37°04′43″ N, longitude 76°33′28″ W; thence following the meanders of the installation boundary along the southwesterly mean low waterline of Warwick River, thence to a point at latitude 37°04′35″ N, longitude 76°33′19″ W.
 
-(6) The regulations in this section shall be enforced by the Commanding General, Fort Eustis, Va., and such agencies as he may designate.
+(7) *Danger Zone James River.* Navigable waters of the United States as defined at 33 CFR part 329 that encroach upon the boundaries of the Danger Zone of Fort Eustis, north/north-easterly of a line connecting the following coordinates: Commencing from the installation boundary at latitude 37°04′35″ N, longitude 76°33′19″ W; thence following the meanders of the installation boundary along the easterly mean low waterline of James River to a point at latitude 37°04′39″ N, longitude 76°33′39″ W; thence to a point at latitude 37°04′33″ N, longitude 76°34′15″ W; thence to a point at latitude 37°04′52″ N, longitude 76°34′19″ W; thence to a point at latitude 37°04′52″ N, longitude 76°34′18″ W; thence to a point at latitude 37°04′60″ N, longitude 76°34′20″ W; thence to a point at latitude 37°05′19″ N, longitude 76°34′51″ W; thence to a point at latitude 37°05′53″ N, longitude 76°35′00″ W; thence to a point at latitude 37°06′03″ N, longitude 76°35′08″ W; thence following the meanders of the installation boundary along the easterly mean low waterline of James River, thence to a point at latitude 37°06′40″ N, longitude 76°35′52″ W; thence to a point at latitude 37°06′35″ N, longitude 76°36′19″ W; thence to a point on the installation boundary at latitude 37°06′50″ N, longitude 76°36′21″ W.
 
-[37 FR 4337, Mar. 2, 1972. Redesignated at 50 FR 42696, Oct. 22, 1985]
+(b) *The regulations.* (1) For the restricted areas defined in paragraphs (a)(1) and (2) of this section:
+
+(i) All vessels will contact the 3rd Port Harbor Master on marine channel 12 or 68 prior to entering or transiting these restricted areas.
+
+(ii) The passage of fishing vessels to or from authorized traps, or the transit of commercial vessels, will be coordinated with the 3rd Port Harbor Master on marine channel 12 or 68.
+
+(iii) The harvesting and cultivation of oyster beds or the setting of fish traps within these restricted areas will be allowed provided the commercial fisherman coordinate access to these areas with the 3rd Port Harbor Master on marine channel 12 or 68.
+
+(iv) The Commander, Joint Base Langley-Eustis will, to the extent possible, give public notice from time to time through local news media and the Coast Guard's Local Notice to Mariners of the schedule of intended Department of Defense use of the restricted areas.
+
+(2) For the restricted areas defined in paragraphs (a)(3), (4), and (5) of this section:
+
+(i) Entry into these areas is for official government purposes only, or as authorized by the Commander, Joint Base Langley-Eustis.
+
+(ii) Entry will be coordinated and conducted in accordance with the policies and procedures established by the Commander, Joint Base Langley-Eustis.
+
+(3) For the danger zones defined in paragraphs (a)(6) and (7) of this section:
+
+(i) Persons, vessels or other craft shall not enter or remain in the danger zone when firing is or will soon be in progress unless authorized to do so by the enforcing agency.
+
+(ii) Advance notice of the schedule of small arms firing will be provided via the Joint Base Langley-Eustis web page.
+
+(iii) All projectiles will be fired to land within the impact area on the Fort Eustis peninsula. Neither the Department of the Army nor the Department of the Air Force will be responsible for damages by such projectiles to nets, traps, buoys, pots, fishpounds, stakes, or other equipment which may be located within these danger zones.
+
+(c) *Enforcement.* The regulations of this section shall be enforced by the Commander, Joint Base Langley-Eustis, Virginia, and such agencies as the commander may designate.
+
+[84 FR 64201, Nov. 21, 2019]
