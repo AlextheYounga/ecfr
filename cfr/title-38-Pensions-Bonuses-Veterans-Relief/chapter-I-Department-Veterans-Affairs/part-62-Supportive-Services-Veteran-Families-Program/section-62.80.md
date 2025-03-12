@@ -1,5 +1,7 @@
 ##### § 62.80 Withholding, suspension, deobligation, termination, and recovery of funds by VA. #####
 
+Link to an amendment published at 82 FR 41526, Sept. 1, 2017.
+
 (a) *Recovery of funds.* VA will recover from the grantee any supportive services grant funds that are not used in accordance with the requirements of this part. VA will issue to the grantee a notice of intent to recover supportive services grant funds. The grantee will then have 30 days to submit documentation demonstrating why the supportive services grant funds should not be recovered. After review of all submitted documentation, VA will determine whether action will be taken to recover the supportive services grant funds.
 
 (b) *VA actions when grantee fails to comply.* When a grantee fails to comply with the terms, conditions, or standards of the supportive services grant, VA may, on 7-days notice to the grantee, withhold further payment, suspend the supportive services grant, or prohibit the grantee from incurring additional obligations of supportive services grant funds, pending corrective action by the grantee or a decision to terminate in accordance with paragraph (c) of this section. VA will allow all necessary and proper costs that the grantee could not reasonably avoid during a period of suspension if such costs meet the provisions of the applicable Federal Cost Principles.

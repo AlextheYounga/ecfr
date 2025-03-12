@@ -12,21 +12,21 @@
 
 (3) *PPA 2006 bankruptcy termination.* The provisions of paragraphs (c)(1) and (2) of this section regarding the overpayments and underpayments that will be included in the account balance apply regardless of whether the termination is a PPA 2006 bankruptcy termination.
 
-(4) *Credit for interest on net underpayments.* If at the end of a month there is a positive account balance (a net underpayment), the PBGC will add to the account balance interest thereon for that month using -
+(4) *Credit for interest on net underpayments.* If at the end of a month there is a positive account balance (a net underpayment), the PBGC will add to the account balance interest thereon for that month using—
 
 (i) For months after May 1998, the applicable federal mid-term rate (as determined by the Secretary of the Treasury pursuant to section 1274(d)(1)(C)(ii) of the Code) for that month (or, where the rate for a month is not available at the time the PBGC calculates the amount to be recouped or reimbursed, the most recent month for which the rate is available) based on monthly compounding; and
 
-(ii) For May 1998 and earlier months, the immediate annuity rate established for lump sum valuations as set forth in Table II of Appendix B of part 4044 of this chapter.
+(ii) For May 1998 and earlier months, the immediate annuity rate established for lump sum valuations as set forth in Table II of appendix B of part 4044 of this chapter.
 
 (5) *No interest on net overpayments.* If at the end of a month, there is a negative account balance (a net overpayment), there will be no interest adjustment for that month.
 
-(d) *Death of participant* - (1) *Benefit overpayments.* If the PBGC determines that, at the time of a participant's death, there was a net overpayment to the participant -
+(d) *Death of participant*—(1) *Benefit overpayments.* If the PBGC determines that, at the time of a participant's death, there was a net overpayment to the participant—
 
 (i) *Future annuity payments.* If the participant was entitled to future annuity payments as of the plan's termination date, the PBGC will (except as provided in paragraph (a) of this section) recoup the overpayment from the person (if any) who is receiving survivor benefits under the annuity.
 
 (ii) *No future annuity payments.* If the participant was not entitled to future annuity benefits as of the plan's termination date, the PBGC may seek repayment of the overpayment from the participant's estate.
 
-(2) *Benefit underpayments.* If the PBGC determines that, at the time of a participant's death, there was a net underpayment to the participant -
+(2) *Benefit underpayments.* If the PBGC determines that, at the time of a participant's death, there was a net underpayment to the participant—
 
 (i) *Future annuity payments.* If the benefit is in the form of a joint-and-survivor or other annuity under which payments may continue after the participant's death, the PBGC will pay the underpayment to the person who is receiving survivor benefits; for this purpose, if the person receiving survivor benefits is an alternate payee under a qualified domestic relations order, the PBGC will treat the benefit as if payments do not continue after the participant's death (see paragraph (d)(2)(ii) of this section).
 

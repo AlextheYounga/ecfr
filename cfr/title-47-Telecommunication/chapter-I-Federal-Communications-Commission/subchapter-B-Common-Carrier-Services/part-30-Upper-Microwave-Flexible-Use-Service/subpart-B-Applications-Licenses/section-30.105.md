@@ -1,5 +1,7 @@
 ##### § 30.105 Geographic partitioning and spectrum disaggregation. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) Parties seeking approval for partitioning and disaggregation shall request from the Commission an authorization for partial assignment of a license pursuant to § 1.948 of this chapter. Upper Microwave Flexible Use Service licensees may apply to partition their licensed geographic service area or disaggregate their licensed spectrum at any time following the grant of their licenses.
 
 (b) *Technical standards* - (1) *Partitioning.* In the case of partitioning, applicants and licensees must file FCC Form 603 pursuant to § 1.948 of this chapter and list the partitioned service area on a schedule to the application. The geographic coordinates must be specified in degrees, minutes, and seconds to the nearest second of latitude and longitude and must be based upon the 1983 North American Datum (NAD83).

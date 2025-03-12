@@ -1,5 +1,7 @@
 ##### § 90.911 Partitioned licenses and disaggregated spectrum. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) *Eligibility.* Parties seeking approval for partitioning and disaggregation shall request an authorization for partial assignment of a license pursuant to § 90.153(c).
 
 (b) *Technical standards* - (1) *Partitioning.* In the case of partitioning, requests for authorization for partial assignment of a license must include, as attachments, a description of the partitioned service area and a calculation of the population of the partitioned service area and the licensed geographic service area. The partitioned service area shall be defined by coordinate points at every 3 degrees along the partitioned service area unless an FCC recognized service area is utilized (*i.e.,* Major Trading Area, Basic Trading Area, Metropolitan Service Area, Rural Service Area or Economic Area) or county lines are followed. The geographic coordinates must be specified in degrees, minutes, and seconds to the nearest second of latitude and longitude and must be based upon the 1983 North American Datum (NAD83). In the case where an FCC recognized service area or county lines are utilized, applicants need only list the specific area(s) (through use of FCC designations or county names) that constitute the partitioned area.

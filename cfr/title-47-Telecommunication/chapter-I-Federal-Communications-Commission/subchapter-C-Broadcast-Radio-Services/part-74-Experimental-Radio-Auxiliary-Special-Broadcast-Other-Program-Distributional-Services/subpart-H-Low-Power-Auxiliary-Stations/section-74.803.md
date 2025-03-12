@@ -1,5 +1,7 @@
 ##### § 74.803 Frequency selection to avoid interference. #####
 
+Link to an amendment published at 82 FR 41560, Sept. 1, 2017.
+
 (a) Where two or more low power auxiliary licensees need to operate in the same area, the licensees shall endeavor to select frequencies or schedule operation in such manner as to avoid mutual interference. If a mutually satisfactory arrangement cannot be reached, the Commission shall be notified and it will specify the frequency or frequencies to be employed by each licensee.
 
 (b) The selection of frequencies in the bands allocated for TV broadcasting for use in any area shall be guided by the need to avoid interference to TV broadcast reception. In these bands, low power auxiliary station usage is secondary to TV broadcasting and land mobile stations operating in the UHF-TV spectrum and must not cause harmful interference. If such interference occurs, low power auxiliary station operation must immediately cease and may not be resumed until the interference problem has been resolved.

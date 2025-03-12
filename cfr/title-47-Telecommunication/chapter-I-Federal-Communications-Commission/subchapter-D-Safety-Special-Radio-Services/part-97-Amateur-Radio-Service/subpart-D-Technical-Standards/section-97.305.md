@@ -1,7 +1,5 @@
 ##### § 97.305 Authorized emission types. #####
 
-Link to an amendment published at 82 FR 27214, June 14, 2017.
-
 (a) Except as specified elsewhere in this part, an amateur station may transmit a CW emission on any frequency authorized to the control operator.
 
 (b) A station may transmit a test emission on any frequency authorized to the control operator for brief periods for experimental purposes, except that no pulse modulation emission may be transmitted on any frequency where pulse is not specifically authorized and no SS modulation emission may be transmitted on any frequency where SS is not specifically authorized.
@@ -10,9 +8,14 @@ Link to an amendment published at 82 FR 27214, June 14, 2017.
 
 |Wavelength band|               Frequencies               |          Emission types authorized           |Standards see § 97.307(f), paragraph:|
 |---------------|-----------------------------------------|----------------------------------------------|-------------------------------------|
+|      LF:      |                                         |                                              |                                     |
+|    2200 m     |               Entire band               |                  RTTY, data                  |                (3).                 |
+|    2200 m     |               Entire band               |                 Phone, image                 |              (1), (2).              |
 |      MF:      |                                         |                                              |                                     |
 |     160 m     |               Entire band               |                  RTTY, data                  |                (3).                 |
 |     160 m     |               Entire band               |                 Phone, image                 |              (1), (2).              |
+|     630 m     |               Entire band               |                  RTTY, data                  |                (3).                 |
+|     630 m     |               Entire band               |                 Phone, image                 |              (1), (2).              |
 |      HF:      |                                         |                                              |                                     |
 |     80 m      |               Entire band               |                  RTTY, data                  |              (3), (9).              |
 |     75 m      |               Entire band               |                 Phone, image                 |              (1), (2).              |
@@ -58,4 +61,10 @@ Link to an amendment published at 82 FR 27214, June 14, 2017.
 |      1mm      |               Entire band               |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
 |               |              Above 275 GHz              |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
 
-[54 FR 25857, June 20, 1989; 54 FR 39536, Sept. 27, 1989; 55 FR 22013, May 30, 1990, as amended at 55 FR 30457, July 26, 1990; 60 FR 15688, Mar. 27, 1995; 64 FR 51471, Sept. 23, 1999; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 77 FR 5412, Feb. 3, 2012]
+[54 FR 25857, June 20, 1989; 54 FR 39536, Sept. 27, 1989; 55 FR 22013, May 30, 1990, as amended at 55 FR 30457, July 26, 1990; 60 FR 15688, Mar. 27, 1995; 64 FR 51471, Sept. 23, 1999; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 77 FR 5412, Feb. 3, 2012; 82 FR 27215, June 14, 2017]Effective Date Note: At 82 FR 27215, June 14, 2017, § 97.305 was amended in the table in paragraph (c) as follows:
+
+a. Add sub-heading “LF:” and two entries for the “2200 m” wavelength band; and
+
+b. Under existing sub-heading “MF:” add two entries for the “630 m” wavelength band.
+
+This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

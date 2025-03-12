@@ -1,5 +1,7 @@
 ##### § 90.685 Authorization, construction and implementation of EA licenses. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) EA licenses in the 809-824/854-869 MHz band will be issued for a term not to exceed ten years. Additionally, EA licensees generally will be afforded a renewal expectancy only for those stations put into service after August 10, 1996.
 
 (b) EA licensees in the 809-824/854-869 MHz band must, within three years of the grant of their initial license, construct and place into operation a sufficient number of base stations to provide coverage to at least one-third of the population of its EA-based service area. Further, each EA licensee must provide coverage to at least two-thirds of the population of the EA-based service area within five years of the grant of their initial license. EA-based licensees may, in the alternative, provide substantial service to their markets within five years of the grant of their initial license. Substantial service shall be defined as: “Service which is sound, favorable, and substantially above a level of mediocre service.”

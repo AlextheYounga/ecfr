@@ -1,5 +1,7 @@
 ##### § 1016.33 External transmission of documents and material. #####
 
+Link to an amendment published at 82 FR 41507, Sept. 1, 2017.
+
 (a) *Restrictions.* (1) Documents and material containing Restricted Data shall be transmitted only to persons who possess appropriate clearance or access authorization and are otherwise eligible for access under the requirements of § 1016.31.
 
 (2) In addition, such documents and material shall be transmitted only to persons who possess facilities for their physicial security consistent with this part. Any person subject to the regulations in this part who transmits such documents or material shall be deemed to have fulfilled his obligations under this subparagraph by securing a written certification from the prospective recipient that such recipient possesses facilities for its physical security consistent with this part.

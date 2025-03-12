@@ -1,5 +1,7 @@
 ##### § 101.1111 Partitioning and disaggregation. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) *Definitions.**Disaggregation.* The assignment of discrete portions or “blocks” of spectrum licensed to a geographic licensee or qualifying entity.
 
 *Partitioning.* The assignment of geographic portions of a licensee's authorized service area along geopolitical or other boundaries.

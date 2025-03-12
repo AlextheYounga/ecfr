@@ -1,5 +1,7 @@
 ##### § 74.861 Technical requirements. #####
 
+Link to an amendment published at 82 FR 41561, Sept. 1, 2017.
+
 (a) Except as specified in paragraph (e) of this section, transmitter power is the power at the transmitter output terminals and delivered to the antenna, antenna transmission line, or any other impedance-matched, radio frequency load. For the purpose of this subpart, the transmitter power is the carrier power.
 
 (b) Each authorization for a new low power auxiliary station shall require the use of certificated equipment. Such equipment shall be operated in accordance with the emission specifications included in the certification grant and as prescribed in paragraphs (c) through (e) of this section.

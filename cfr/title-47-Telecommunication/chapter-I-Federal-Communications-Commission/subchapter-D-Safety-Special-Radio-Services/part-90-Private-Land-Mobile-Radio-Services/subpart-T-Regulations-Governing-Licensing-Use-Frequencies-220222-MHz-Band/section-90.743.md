@@ -1,5 +1,7 @@
 ##### § 90.743 Renewal expectancy. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) All licensees seeking renewal of their authorizations at the end of their license term must file a renewal application in accordance with the provisions of § 1.949 of this chapter. Licensees must demonstrate, in their application, that:
 
 (1) They have provided “substantial” service during their past license term. “Substantial” service is defined in this rule as service that is sound, favorable, and substantially above a level of mediocre service that just might minimally warrant renewal; and

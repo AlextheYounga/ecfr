@@ -1,5 +1,7 @@
 ##### § 101.529 Renewal expectancy criteria for 24 GHz licenses. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) A renewal applicant involved in a renewal proceeding shall receive a preference, commonly referred to as a renewal expectancy, that is the most important factor to be considered in the proceeding as long as the applicant's past record for the relevant license period demonstrates that:
 
 (1) The renewal applicant has provided “substantial service” pursuant to § 101.527; and

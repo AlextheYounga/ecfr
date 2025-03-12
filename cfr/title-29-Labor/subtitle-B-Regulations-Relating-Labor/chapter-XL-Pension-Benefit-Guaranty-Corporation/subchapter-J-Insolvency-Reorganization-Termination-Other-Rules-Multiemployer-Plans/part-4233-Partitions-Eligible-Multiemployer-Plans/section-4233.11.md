@@ -2,7 +2,7 @@
 
 (a) *When to file.* Not later than 30 days after receipt of the written notice described in § 4233.10(c) that an application for partition is complete, the plan sponsor must provide notice of such application to each interested party and PBGC, in accordance with the rules in part 4000, subpart B of this chapter.
 
-(b) *Form of notice.* The notice must be readable and written in a matter calculated to be understood by the average plan participant. The Model Notices in Appendix A to this part (when properly completed) are examples of notices meeting the requirements of this section.
+(b) *Form of notice.* The notice must be readable and written in a matter calculated to be understood by the average plan participant. The Model Notices in appendix A to this part (when properly completed) are examples of notices meeting the requirements of this section.
 
 (c) *Information required.* A notice of completed application for partition must include the following information:
 

@@ -1,5 +1,7 @@
 ##### § 101.527 Construction requirements for 24 GHz operations. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) Each licensee must make a showing of “substantial service” within ten years of its license grant. A “substantial service” assessment will be made at renewal pursuant to the provisions and procedures set forth in § 1.949 of this chapter. “Substantial service” is a service which is sound, favorable, and substantially above a level of mediocre service which just might minimally warrant renewal during its past license term.
 
 (b) Each licensee must, at a minimum file:

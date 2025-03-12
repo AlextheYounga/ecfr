@@ -1,5 +1,7 @@
 ##### § 90.165 Procedures for mutually exclusive applications. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 Mutually exclusive commercial mobile radio service applications are processed in accordance with part 1 of this chapter and with the rules in this section, except for mutually exclusive applications for licenses in the 220-222 MHz service and the 929-930 MHz Paging service, which are processed in accordance with the rules in subpart P and subpart T of this part.
 
 Two or more pending applications are mutually exclusive if the grant of one application would effectively preclude the grant of one or more of the others under Commission rules governing the services involved.

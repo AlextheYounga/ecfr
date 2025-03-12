@@ -1,5 +1,7 @@
 ##### § 1016.32 Classification and preparation of documents. #####
 
+Link to an amendment published at 82 FR 41507, Sept. 1, 2017.
+
 (a) *Classification.* Restricted Data generated or possessed by an Access Permit holder must be appropriately marked. CG-UF-3, “Guide to the Unclassified Fields of Research,” will be furnished each permittee. In the event a permittee originates classified information which falls within the definition of Restricted Data or information which he is not positive is not within that definition and CG-UF-3 does not provide positive classification guidance for such information, he shall designate the information as Confidential, Restricted Data and request classification guidance from the DOE through the Classification Officer at the cognizant DOE or NNSA office, who will refer the request to the Director, Office of Classification, HS-90/Germantown Building, Office of Health, Safety and Security, U.S. Department of Energy, 1000 Independence Avenue, SW., Washington, DC 20585-1290 if he does not have authority to provide the guidance.
 
 (b) *Classification consistent with content.* Each document containing Restricted Data shall be classified Secret or Confidential according to its own content.

@@ -62,7 +62,7 @@
 
 (D) A statement that a filing pursuant to § 2520.103-9(c) will be made for the common or collective trust (for its fiscal year ending with or within the participating plan's plan year) on or before the filing due date for such trust in accordance with the Form 5500 instructions, and
 
-(E) Upon request of the plan administrator, any other information that can be obtained from the ordinary business records of the bank, trust company or similar institution and that is needed by the plan administrator to comply with the requirements of section 104(a)(1) of the Act and §§ 2520.104a-5 or 2520.104a-6.
+(E) Upon request of the plan administrator, any other information that can be obtained from the ordinary business records of the bank, trust company or similar institution and that is needed by the plan administrator to comply with the requirements of section 104(a)(1) of the Act and § 2520.104a-5 or § 2520.104a-6.
 
 (ii) In a common or collective trust that does not file a Form 5500 report pursuant to § 2520.103-9 for the participating plan's plan year -
 
@@ -74,7 +74,7 @@
 
 (D) A statement that a filing pursuant to § 2520.103-9(c) will not be made for the common or collective trust for its fiscal year ending with or within the participating plan's plan year, and
 
-(E) Upon request of the plan administrator, any other information that can be obtained from the ordinary business records of the bank, trust company or similar institution and that is needed by the plan administrator to comply with the requirements of section 104(a)(1) of the Act and §§ 2520.104a-5 or 2520.104a-6.
+(E) Upon request of the plan administrator, any other information that can be obtained from the ordinary business records of the bank, trust company or similar institution and that is needed by the plan administrator to comply with the requirements of section 104(a)(1) of the Act and § 2520.104a-5 or § 2520.104a-6.
 
 (iii) In a trust which is not exempted from certain reporting requirements under § 2520.103-3, a listing of all transactions of the separate trust and, upon request of the plan administrator, such information as is contained within the ordinary business records of the bank, trust company, or similar institution and is needed by the plan administrator to comply with the requirements of section 104(a)(1) of the Act and § 2520.104a-5.
 

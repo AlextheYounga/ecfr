@@ -1,5 +1,7 @@
 ##### § 24.104 Partitioning and disaggregation. #####
 
+Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
+
 Nationwide, regional, and MTA licensees may apply to partition their authorized geographic service area or disaggregate their authorized spectrum at any time following grant of their geographic area authorizations.
 
 (a) *Application required.* Parties seeking approval for partitioning and/or disaggregation shall apply for partial assignment of a license pursuant to § 1.948 of this chapter.

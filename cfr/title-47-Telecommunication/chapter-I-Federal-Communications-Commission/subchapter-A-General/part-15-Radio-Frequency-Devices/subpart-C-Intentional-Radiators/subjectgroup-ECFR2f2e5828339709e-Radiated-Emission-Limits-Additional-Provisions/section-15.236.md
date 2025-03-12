@@ -1,5 +1,7 @@
 ##### § 15.236 Operation of wireless microphones in the bands 54-72 MHz, 76-88 MHz, 174-216 MHz, 470-608 MHz and 614-698 MHz. #####
 
+Link to an amendment published at 82 FR 41559, Sept. 1, 2017.
+
 (a) *Definitions.* The following definitions apply in this section.
 
 (1) *Wireless Microphone.* An intentional radiator that converts sound into electrical audio signals that are transmitted using radio signals to a receiver which converts the radio signals back into audio signals that are sent through a sound recording or amplifying system. Wireless microphones may be used for cue and control communications and synchronization of TV camera signals as defined in § 74.801 of this chapter. Wireless microphones do not include auditory assistance devices as defined in § 15.3(a) of this part.

@@ -1,5 +1,7 @@
 ##### § 24.714 Partitioned licenses and disaggregated spectrum. #####
 
+Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
+
 (a) *Eligibility.* (1) Parties seeking approval for partitioning and disaggregation shall request an authorization for partial assignment of a license pursuant to § 24.839.
 
 (2) Broadband PCS licensees in spectrum blocks A, B, D, and E and broadband PCS C and F block licenses not subject to the eligibility requirements of § 24.709 may apply to partition their licensed geographic service area or disaggregate their licensed spectrum at any time following the grant of their licenses.

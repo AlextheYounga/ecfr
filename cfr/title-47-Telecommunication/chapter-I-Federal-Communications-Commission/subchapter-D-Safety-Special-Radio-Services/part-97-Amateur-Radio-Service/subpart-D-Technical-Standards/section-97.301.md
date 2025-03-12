@@ -1,7 +1,5 @@
 ##### § 97.301 Authorized frequency bands. #####
 
-Link to an amendment published at 82 FR 27214, June 14, 2017.
-
 The following transmitting frequency bands are available to an amateur station located within 50 km of the Earth's surface, within the specified ITU Region, and outside any area where the amateur service is regulated by any authority other than the FCC.
 
 (a) For a station having a control operator who has been granted a Technician, General, Advanced, or Amateur Extra Class operator license or who holds a CEPT radio-amateur license or IARP of any class:
@@ -40,10 +38,16 @@ The following transmitting frequency bands are available to an amateur station l
 
 (b) For a station having a control operator who has been granted an Amateur Extra Class operator license, who holds a CEPT radio amateur license, or who holds a Class 1 IARP license:
 
+|Wavelength band|ITU Region 1|ITU Region 2|ITU Region 3|Sharing requirements see § 97.303  <br/>(paragraph)|
+|---------------|------------|------------|------------|---------------------------------------------------|
+|      LF       |    kHz     |    kHz     |    kHz     |                                                   |
+|    2200 m     |135.7-137.8 |135.7-137.8 |135.7-137.8 |                     (a), (g).                     |
+
 |Wavelength band|ITU region 1|ITU region 2|ITU region 3|Sharing requirements see § 97.303  <br/>(paragraph)|
 |---------------|------------|------------|------------|---------------------------------------------------|
 |      MF       |    kHz     |    kHz     |    kHz     |                                                   |
 |     160 m     | 1810-1850  | 1800-2000  | 1800-2000  |                        (a)                        |
+|     630 m     |  472-479   |  472-479   |  472-479   |                       (g).                        |
 
 | HF |     MHz     |      MHz      |     MHz     |   |
 |----|-------------|---------------|-------------|---|
@@ -60,10 +64,16 @@ The following transmitting frequency bands are available to an amateur station l
 
 (c) For a station having a control operator who has been granted an operator license of Advanced Class:
 
+|Wavelength band|ITU Region 1|ITU Region 2|ITU Region 3|Sharing requirements see § 97.303  <br/>(paragraph)|
+|---------------|------------|------------|------------|---------------------------------------------------|
+|      LF       |    kHz     |    kHz     |    kHz     |                                                   |
+|    2200 m     |135.7-137.8 |135.7-137.8 |135.7-137.8 |                     (a), (g).                     |
+
 |Wavelength band|ITU region 1|ITU region 2|ITU region 3|Sharing requirements see § 97.303  <br/>(Paragraph)|
 |---------------|------------|------------|------------|---------------------------------------------------|
 |      MF       |    kHz     |    kHz     |    kHz     |                                                   |
 |     160 m     | 1810-1850  | 1800-2000  | 1800-2000  |                        (a)                        |
+|     630 m     |  472-479   |  472-479   |  472-479   |                       (g).                        |
 
 | HF |     MHz     |      MHz      |     MHz     |   |
 |----|-------------|---------------|-------------|---|
@@ -82,10 +92,16 @@ The following transmitting frequency bands are available to an amateur station l
 
 (d) For a station having a control operator who has been granted an operator license of General Class:
 
+|Wavelength band|ITU Region 1|ITU Region 2|ITU Region 3|Sharing requirements see § 97.303  <br/>(paragraph)|
+|---------------|------------|------------|------------|---------------------------------------------------|
+|      LF       |    kHz     |    kHz     |    kHz     |                                                   |
+|    2200 m     |135.7-137.8 |135.7-137.8 |135.7-137.8 |                     (a), (g).                     |
+
 |Wavelength band|ITU region 1|ITU region 2|ITU region 3|Sharing requirements see § 97.303  <br/>(paragraph)|
 |---------------|------------|------------|------------|---------------------------------------------------|
 |      MF       |    kHz     |    kHz     |    kHz     |                                                   |
 |     160 m     | 1810-1850  | 1800-2000  | 1800-2000  |                        (a)                        |
+|     630 m     |  472-479   |  472-479   |  472-479   |                       (g).                        |
 
 | HF |     MHz     |      MHz      |     MHz     |   |
 |----|-------------|---------------|-------------|---|
@@ -121,4 +137,10 @@ The following transmitting frequency bands are available to an amateur station l
 |-----|---------|---------|---------|--------|
 |23 cm|1270-1295|1270-1295|1270-1295|(d), (o)|
 
-[75 FR 27201, May 14, 2010, as amended at 75 FR 78171, Dec. 15, 2010; 80 FR 38911, July 7, 2015]
+[75 FR 27201, May 14, 2010, as amended at 75 FR 78171, Dec. 15, 2010; 80 FR 38911, July 7, 2015; 82 FR 27214, June 14, 2017]Effective Date Note: At 82 FR 27214, June 14, 2017, § 97.301 was amended in the tables in each of paragraphs (b), (c), and (d) as follows:
+
+a. Add the sub-heading “LF” and the entry for the “2200 m” wavelength band; and
+
+b. Under the existing sub-heading “MF” add the entry for the “630 m” wavelength band.
+
+This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,7 +1,5 @@
 ##### § 97.303 Frequency sharing requirements. #####
 
-Link to an amendment published at 82 FR 27215, June 14, 2017.
-
 The following paragraphs summarize the frequency sharing requirements that apply to amateur stations transmitting in the frequency bands specified in § 97.301 of this part. Each frequency band allocated to the amateur service is designated as either a secondary service or a primary service. A station in a secondary service must not cause harmful interference to, and must accept interference from, stations in a primary service.
 
 (a) Where, in adjacent ITU Regions or sub-Regions, a band of frequencies is allocated to different services of the same category (*i.e.,* primary or secondary services), the basic principle is the equality of right to operate. Accordingly, stations of each service in one Region or sub-Region must operate so as not to cause harmful interference to any service of the same or higher category in the other Regions or sub-Regions.
@@ -16,7 +14,25 @@ The following paragraphs summarize the frequency sharing requirements that apply
 
 (f) Amateur stations transmitting in the following segments must not cause harmful interference to radio astronomy stations: 3.332-3.339 GHz, 3.3458-3.3525 GHz, 76-77.5 GHz, 78-81 GHz, 136-141 GHz, 241-248 GHz, 275-323 GHz, 327-371 GHz, 388-424 GHz, 426-442 GHz, 453-510 GHz, 623-711 GHz, 795-909 GHz, or 926-945 GHz. In addition, amateur stations transmitting in the following segments must not cause harmful interference to stations in the Earth exploration-satellite service (passive) or the space research service (passive): 275-277 GHz, 294-306 GHz, 316-334 GHz, 342-349 GHz, 363-365 GHz, 371-389 GHz, 416-434 GHz, 442-444 GHz, 496-506 GHz, 546-568 GHz, 624-629 GHz, 634-654 GHz, 659-661 GHz, 684-692 GHz, 730-732 GHz, 851-853 GHz, or 951-956 GHz.
 
-(g) [Reserved]
+(g) In the 2200 m and 630 m bands:
+
+(1) Amateur stations in the 135.7-137.8 kHz (2200 m) and 472-479 kHz (630 m) bands shall only operate at fixed locations. Amateur stations shall not operate within a horizontal distance of one kilometer from a transmission line that conducts a power line carrier (PLC) signal in the 135.7-137.8 kHz or 472-479 kHz bands. Horizontal distance is measured from the station's antenna to the closest point on the transmission line.
+
+(2) Prior to commencement of operations in the 135.7-137.8 kHz (2200 m) and/or 472-479 kHz (630 m) bands, amateur operators shall notify the Utilities Telecom Council (UTC) of their intent to operate by submitting their call signs, intended band or bands of operation, and the coordinates of their antenna's fixed location. Amateur stations will be permitted to commence operations after the 30-day period unless UTC notifies the station that its fixed location is located within one kilometer of PLC systems operating in the same or overlapping frequencies.
+
+(3) Amateur stations in the 135.7-137.8 kHz (2200 m) band shall not cause harmful interference to, and shall accept interference from:
+
+(i) Stations authorized by the United States Government in the fixed and maritime mobile services;
+
+(ii) Stations authorized by other nations in the fixed, maritime mobile, and radionavigation service.
+
+(4) Amateur stations in the 472-479 kHz (630 m) band shall not cause harmful interference to, and shall accept interference from:
+
+(i) Stations authorized by the FCC in the maritime mobile service;
+
+(ii) Stations authorized by other nations in the maritime mobile and aeronautical radionavigation services.
+
+(5) Amateur stations causing harmful interference shall take all necessary measures to eliminate such interference - including temporary or permanent termination of transmissions.
 
 (h) *60 m band:* (1) In the 5330.5-5406.4 kHz band (60 m band), amateur stations may transmit only on the five center frequencies specified in the table below. In order to meet this requirement, control operators of stations transmitting phone, data, and RTTY emissions (emission designators 2K80J3E, 2K80J2D, and 60H0J2B, respectively) may set the carrier frequency 1.5 kHz below the center frequency as specified in the table below. For CW emissions (emission designator 150HA1A), the carrier frequency is set to the center frequency. Amateur operators shall ensure that their emissions do not occupy more than 2.8 kHz centered on each of these center frequencies.
 
@@ -110,4 +126,4 @@ Note to § 97.303:
 
 The Table of Frequency Allocations contains the complete, unabridged, and legally binding frequency sharing requirements that pertain to the Amateur Radio Service. *See* 47 CFR 2.104, 2.105, and 2.106. The United States, Puerto Rico, and the U.S. Virgin Islands are in Region 2 and other U.S. insular areas are in either Region 2 or 3; see appendix 1 to part 97.
 
-[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015]
+[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017]Effective Date Note: At 82 FR 27215, June 14, 2017, § 97.303 was amended by adding paragraphs (g). This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,5 +1,7 @@
 ##### § 90.265 Assignment and use of frequencies in the bands allocated for Federal use. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) The following center frequencies are available for assignment to fixed stations in the Public Safety Pool or the Industrial/Business Pool, subject to the provisions of this section:
 
 Hydro Channels (MHz)

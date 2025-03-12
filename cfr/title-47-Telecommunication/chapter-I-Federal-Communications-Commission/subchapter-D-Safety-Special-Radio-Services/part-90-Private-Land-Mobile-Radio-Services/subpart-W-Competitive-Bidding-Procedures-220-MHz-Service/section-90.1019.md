@@ -1,5 +1,7 @@
 ##### § 90.1019 Eligibility for partitioned licenses. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) *Eligibility.* Parties seeking approval for partitioning and disaggregation shall request authorization for partial assignment of a license pursuant to § 1.948 of this chapter. The Commission will consider applications that propose combinations of partitioning and disaggregation.
 
 (1) Phase I non-nationwide licensees may apply to partition their licensed geographic service area or disaggregate their licensed spectrum after constructing their systems and placing their in operation or commencing service in accordance with the provisions in § 90.725(f) of this part.

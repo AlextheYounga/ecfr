@@ -1,5 +1,7 @@
 ##### § 74.832 Licensing requirements and procedures. #####
 
+Link to an amendment published at 82 FR 41560, Sept. 1, 2017.
+
 (a) A license authorizing operation of one or more low power auxiliary stations will be issued only to the following:
 
 (1) A licensee of an AM, FM, TV, or International broadcast station or low power TV station. Low power auxiliary stations will be licensed for used with a specific broadcast or low power TV station or combination of stations licensed to the same licensee within the same community.

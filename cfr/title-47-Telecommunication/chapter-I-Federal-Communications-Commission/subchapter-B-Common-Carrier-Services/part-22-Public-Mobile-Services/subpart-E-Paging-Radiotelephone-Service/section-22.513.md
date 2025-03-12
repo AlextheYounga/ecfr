@@ -1,5 +1,7 @@
 ##### § 22.513 Partitioning and disaggregation. #####
 
+Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
+
 MEA and EA licensees may apply to partition their authorized geographic service area or disaggregate their authorized spectrum at any time following grant of their geographic area authorizations. Nationwide geographic area licensees may apply to partition their authorized geographic service area or disaggregate their authorized spectrum at any time as of August 23, 1999.
 
 (a) *Application required.* Parties seeking approval for partitioning and/or disaggregation shall apply for partial assignment of a license pursuant to § 1.948 of this chapter.

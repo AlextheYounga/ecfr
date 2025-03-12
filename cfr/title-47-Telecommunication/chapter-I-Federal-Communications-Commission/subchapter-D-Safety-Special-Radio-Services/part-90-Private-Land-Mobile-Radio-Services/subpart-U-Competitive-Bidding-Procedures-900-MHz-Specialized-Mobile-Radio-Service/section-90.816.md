@@ -1,5 +1,7 @@
 ##### § 90.816 Criteria for comparative 900 MHz SMR renewal proceedings. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) *Ultimate issue.* The ultimate issue in comparative renewal proceedings will be to determine, in light of the evidence adduced in the proceeding, what disposition of the applications would best serve the public interest, convenience and necessity.
 
 (b) *Renewal expectancies.* The most important comparative factor to be considered in a comparative 900 MHz SMR renewal proceeding is a major preference, commonly referred to as a “renewal expectancy”.

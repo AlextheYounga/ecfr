@@ -1,5 +1,7 @@
 ##### § 101.1011 Construction requirements and criteria for renewal expectancy. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) LMDS licensees must make a showing of “substantial service” in their license area within ten years of being licensed. “Substantial” service is defined as service which is sound, favorable, and substantially above a level of mediocre service which might minimally warrant renewal. Failure by any licensee to meet this requirement will result in forfeiture of the license and the licensee will be ineligible to regain it.
 
 (b) A renewal applicant involved in a comparative renewal proceeding shall receive a preference, commonly referred to as a renewal expectancy, that is the most important comparative factor to be considered in the proceeding as long as the applicant's past record for the relevant license period demonstrates that:

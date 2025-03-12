@@ -1,5 +1,7 @@
 ##### § 1016.8 Approval for processing access permittees for security facility approval. #####
 
+Link to an amendment published at 82 FR 41506, Sept. 1, 2017.
+
 (a) An access permittee who has a need to use, process, store, reproduce, transmit, or handle Restricted Data at any location in connection with its permit shall promptly request a DOE security facility approval.
 
 (b) The request shall include the following information: The name and address of the permittee; the extent and scope of the classified activity and the highest classification of Restricted Data to be received; a written statement in the form of a security plan which outlines the permittee's proposed security procedures and controls for the protection of Restricted Data, including a floor plan of the areas(s) in which the classified matter is to be used, processed, stored, reproduced, transmitted, and handled.

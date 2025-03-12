@@ -1,5 +1,7 @@
 ##### § 22.947 Discontinuance of service. #####
 
+Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
+
 (a) *Termination of authorization.* (1) Except with respect to CMA672-A (*see* paragraph (a)(2) of this section), a licensee's Cellular Geographic Service Area (CGSA) authorization will automatically terminate, without specific Commission action, if the licensee permanently discontinues service. A new-system licensee is not subject to this provision until after expiration of the construction period specified in § 22.946.
 
 (2) The licensee's authorization for CMA672-A (Chambers, TX) will automatically terminate, without specific Commission action, if the licensee permanently discontinues service after meeting its interim construction requirement as specified in § 22.961(b)(1).

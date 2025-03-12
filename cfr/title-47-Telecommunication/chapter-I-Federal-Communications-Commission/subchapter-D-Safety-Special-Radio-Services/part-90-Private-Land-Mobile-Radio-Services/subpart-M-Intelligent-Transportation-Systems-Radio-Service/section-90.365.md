@@ -1,5 +1,7 @@
 ##### § 90.365 Partitioned licenses and disaggregated spectrum. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) *Eligibility.* (1) Party seeking approval for partitioning and disaggregation shall request an authorization pursuant to § 1.948 of this chapter.
 
 (2) Multilateration LMS licensees may apply to partition their licensed geographic service area or disaggregate their licensed spectrum at any time following the grant of their licenses. Multilateration LMS licensees may partition or disaggregate to any party that is also eligible to be a multilateration LMS licensee. Partitioning is permitted along any service area defined by the parties, and spectrum may be disaggregated in any amount. The Commission will also consider requests for partial assignment of licenses that propose combinations of partitioning and disaggregation.

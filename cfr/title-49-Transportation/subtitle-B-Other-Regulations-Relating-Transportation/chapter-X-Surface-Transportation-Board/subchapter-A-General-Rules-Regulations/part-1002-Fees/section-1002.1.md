@@ -1,14 +1,12 @@
 ##### § 1002.1 Fees for records search, review, copying, certification, and related services. #####
 
-Link to an amendment published at 82 FR 35906, Aug. 2, 2017.
-
 Certifications and copies of such tariffs, reports and other public records and documents on file with the Surface Transportation Board as may be practicable to furnish, as well as searches and copying of records not considered public under the Freedom of Information Act (5 U.S.C. 552), will be furnished on the following basis:
 
-(a) Certificate of the Records Officer, $18.00.
+(a) Certificate of the Records Officer, $19.00.
 
-(b) Service involved in examination of tariffs or schedules for preparation of certified copies of tariffs or schedules or extracts therefrom at the rate of $42.00 per hour.
+(b) Services involved in examination of tariffs or schedules for preparation of certified copies of tariffs or schedules or extracts therefrom at the rate of $43.00 per hour.
 
-(c) Service involved in checking records to be certified to determine authenticity, including clerical work, etc. identical thereto, at the rate of $29.00 per hour.
+(c) Services involved in checking records to be certified to determine authenticity, including clerical work, etc. identical thereto, at the rate of $30.00 per hour.
 
 (d) Photocopies of tariffs, reports, and other public documents, at the rate of $1.50 per letter or legal size exposure. A minimum charge of $7.50 will be made for this service.
 
@@ -16,7 +14,7 @@ Certifications and copies of such tariffs, reports and other public records and 
 
 (f) The fee for search and copying services requiring computer processing are as follows:
 
-(1) A fee of $74.00 per hour for professional staff time will be charged when it is required to fulfill a request for ADP data.
+(1) A fee of $76.00 per hour for professional staff time will be charged when it is required to fulfill a request for ADP data.
 
 (2) Printing shall be charged at the rate of $.10 per page of computer generated output with a minimum charge of $.25. A charge of $30 per reel of magnetic tape will be made if the tape is to be permanently retained by the requestor.
 
@@ -36,14 +34,14 @@ Certifications and copies of such tariffs, reports and other public records and 
 
 |Grade| Rate |    Grade     | Rate |
 |-----|------|--------------|------|
-|GS-1 |$12.43|     GS-9     |$29.02|
-|GS-2 |13.53 |    GS-10     |31.95 |
-|GS-3 |15.25 |    GS-11     |35.11 |
-|GS-4 |17.12 |    GS-12     |42.08 |
-|GS-5 |19.15 |    GS-13     |50.04 |
-|GS-6 |21.35 |    GS-14     |59.13 |
-|GS-7 |23.72 |GS-15 and over|69.56 |
-|GS-8 |26.27 |              |      |
+|GS-1 |$12.78|     GS-9     |$29.85|
+|GS-2 |13.92 |    GS-10     |32.88 |
+|GS-3 |15.69 |    GS-11     |36.12 |
+|GS-4 |17.61 |    GS-12     |43.29 |
+|GS-5 |19.70 |    GS-13     |51.48 |
+|GS-6 |21.96 |    GS-14     |60.83 |
+|GS-7 |24.41 |GS-15 and over|71.56 |
+|GS-8 |27.03 |              |      |
 
 (7) The fee for photocopies shall be $1.50 per letter or legal size exposure with a minimum charge of $7.50.
 

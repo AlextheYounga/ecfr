@@ -1,7 +1,5 @@
 ##### § 97.3 Definitions. #####
 
-Link to an amendment published at 82 FR 27214, June 14, 2017.
-
 (a) The definitions of terms used in part 97 are:
 
 (1) *Amateur operator.* A person named in an amateur operator/primary license station grant on the ULS consolidated licensee database to be the control operator of an amateur station.
@@ -112,25 +110,39 @@ Link to an amendment published at 82 FR 27214, June 14, 2017.
 
 (1) *EHF* (extremely high frequency). The frequency range 30-300 GHz.
 
-(2) *HF* (high frequency). The frequency range 3-30 MHz.
+(2) *EIRP* (equivalent isotropically radiated power). The product of the power supplied to the antenna and the antenna gain in a given direction relative to an isotropic antenna (absolute or isotropic gain).
 
-(3) *Hz.* Hertz.
+Note:
 
-(4) *m.* Meters.
+Divide EIRP by 1.64 to convert to effective radiated power.
 
-(5) *MF* (medium frequency). The frequency range 300-3000 kHz.
+(3) *ERP* (effective radiated power) (in a given direction). The product of the power supplied to the antenna and its gain relative to a half-wave dipole in a given direction.
 
-(6) *PEP* (peak envelope power). The average power supplied to the antenna transmission line by a transmitter during one RF cycle at the crest of the modulation envelope taken under normal operating conditions.
+Note:
 
-(7) *RF.* Radio frequency.
+Multiply ERP by 1.64 to convert to equivalent isotropically radiated power.
 
-(8) *SHF* (super-high frequency). The frequency range 3-30 GHz.
+(4) *HF* (high frequency). The frequency range 3-30 MHz.
 
-(9) *UHF* (ultra-high frequency). The frequency range 300-3000 MHz.
+(5) *Hz.* Hertz.
 
-(10) *VHF* (very-high frequency). The frequency range 30-300 MHz.
+(6) *LF* (low frequency). The frequency range 30-300 kHz.
 
-(11) *W.* Watts.
+(7) *m.* Meters.
+
+(8) *MF* (medium frequency). The frequency range 300-3000 kHz.
+
+(9) *PEP* (peak envelope power). The average power supplied to the antenna transmission line by a transmitter during one RF cycle at the crest of the modulation envelope taken under normal operating conditions.
+
+(10) *RF.* Radio frequency.
+
+(11) *SHF* (super high frequency). The frequency range 3-30 GHz.
+
+(12) *UHF* (ultra high frequency). The frequency range 300-3000 MHz.
+
+(13) *VHF* (very high frequency). The frequency range 30-300 MHz.
+
+(14) *W.* Watts.
 
 (c) The following terms are used in this part to indicate emission types. Refer to § 2.201 of the FCC Rules, *Emission, modulation and transmission characteristics,* for information on emission type designators.
 
@@ -152,4 +164,4 @@ Link to an amendment published at 82 FR 27214, June 14, 2017.
 
 (9) *Test.* Emissions containing no information having the designators with N as the third symbol. Test does not include pulse emissions with no information or modulation unless pulse emissions are also authorized in the frequency band.
 
-[54 FR 25857, June 20, 1989]Editorial Note:For Federal Register citations affecting § 97.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 25857, June 20, 1989]Editorial Note:For Federal Register citations affecting § 97.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note: At 82 FR 27214, June 14, 2017, § 97.3 was amended by revising paragraphs (b)(1) through (11) and adding paragraphs (b)(12) through (14). This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,5 +1,7 @@
 ##### § 101.1413 License term and renewal expectancy. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) The MVDDS license term is ten years, beginning on the date of the initial authorization grant.
 
 (b) Application of a renewal expectancy is based on a showing of substantial service at the end of five years into the license period and ten years into the license period. The substantial service requirement is defined as a service that is sound, favorable, and substantially above a level of mediocre service which might minimally warrant renewal. At the end of five years into the license term and ten years into the license period, the Commission will consider factors such as:

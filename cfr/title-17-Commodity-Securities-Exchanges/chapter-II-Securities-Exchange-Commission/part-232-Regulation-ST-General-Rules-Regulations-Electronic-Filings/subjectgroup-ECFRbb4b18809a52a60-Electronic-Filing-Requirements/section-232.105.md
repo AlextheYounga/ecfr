@@ -1,11 +1,17 @@
-##### § 232.105 Limitation on use of HTML documents and hypertext links. #####
+##### § 232.105 Use of HTML and hyperlinks. #####
 
-Link to an amendment published at 81 FR 82019, Nov. 18, 2016.Link to an amendment published at 82 FR 14142, Mar. 17, 2017.
+Link to an amendment published at 81 FR 82019, Nov. 18, 2016.
 
 (a) Electronic filers must submit the following documents in ASCII: Form N-SAR (§ 274.101 of this chapter) and Form 13F (§ 249.325 of this chapter). Notwithstanding the provisions of this section, electronic filers may submit exhibits to Form N-SAR in HTML.
 
-(b) Electronic filers may not include in any HTML document hypertext links to sites, locations, or documents outside the HTML document, except to links to officially filed documents within the current submission and to documents previously filed electronically and located in the EDGAR database on the Commission's public web site (*www.sec.gov*). Electronic filers also may include within an HTML document hypertext links to different sections within that single HTML document.
+(b) Electronic filers may not include in any HTML document hyperlinks to sites, locations, or documents outside the HTML document, except links to officially filed documents within the current submission and to documents previously filed electronically and located in the EDGAR database on the Commission's public Web site (*www.sec.gov*). Electronic filers also may include within an HTML document links to different sections within that single HTML document.
 
-(c) If a filer includes an external hypertext link within a filed document, the information contained in the linked material will not be considered part of the document for determining compliance with reporting obligations, but the inclusion of the link will cause the filer to be subject to the civil liability and antifraud provisions of the federal securities laws with reference to the information contained in the linked material.
+(c) If a filer includes an external hyperlink within a filed document, the information contained in the linked material will not be considered part of the document for determining compliance with reporting obligations, but the inclusion of the link will cause the filer to be subject to the civil liability and antifraud provisions of the federal securities laws with reference to the information contained in the linked material.
 
-[65 FR 24800, Apr. 27, 2000]
+(d) Electronic filers submitting Form F-10 (§ 239.40 of this chapter), Form 20-F (§ 249.220f of this chapter), or a registration statement or report subject to Item 601 of Regulation S-K (§ 229.601 of this chapter), must submit such registration statement or report in HTML and each exhibit identified in the exhibit index (other than an exhibit filed in eXtensible Business Reporting Language or an exhibit filed with Form ABS-EE (§ 249.1401 of this chapter)) must include an active link to an exhibit that is filed with the registration statement or report or, if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR, unless such exhibit is filed in paper pursuant to a temporary or continuing hardship exemption under Rules 201 or 202 of Regulation S-T (§ 232.201 or § 232.202) or pursuant to Rule 311 of Regulation S-T (§ 232.311).
+
+*Instructions to paragraph (d):* (1) No hyperlink is required for any exhibit incorporated by reference that has not been filed with the Commission in electronic format.
+
+(2) An electronic filer must correct an inaccurate or nonfunctioning link or hyperlink to an exhibit, in the case of a registration statement that is not yet effective, by filing an amendment to the registration statement containing the inaccurate or nonfunctioning link or hyperlink; or, in the case of a registration statement that has become effective or an Exchange Act report, an electronic filer must correct the inaccurate or nonfunctioning link or hyperlink in the next Exchange Act periodic report that requires, or includes, an exhibit pursuant to Item 601 of Regulation S-K (§ 229.601 of this chapter) or, in the case of a foreign private issuer (as defined in § 229.405 of this chapter), Form 20-F (§ 249.220f of this chapter) or Form F-10 (§ 239.40 of this chapter). Alternatively, an electronic filer may correct an inaccurate or nonfunctioning link or hyperlink in a registration statement that has become effective by filing a post-effective amendment to the registration statement.
+
+[65 FR 24800, Apr. 27, 2000, as amended at 82 FR 14142, Mar. 17, 2017]

@@ -1,5 +1,7 @@
 ##### § 74.632 Licensing requirements. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) Licenses for television pickup, television STL, television microwave booster, or television relay stations will be issued only to licensees of television broadcast stations, and broadcast network-entities and, further, on a secondary basis, to licensees of low power television stations. A separate application is required for each fixed station and the application shall be specific with regard to the frequency requested. A mobile station license may be issued for any number of mobile transmitters to operate in a specific area or frequency band and the applicant shall be specific with regard to the frequencies requested.
 
 (b) A license for a TV relay station may be issued in any case where the circuit will operate between TV broadcast stations either by means of “off-the-air” pickup and relay or location of the initial relay station at the studio or transmitter of a TV broadcast station.

@@ -1,5 +1,7 @@
 ##### § 27.15 Geographic partitioning and spectrum disaggregation. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) *Eligibility.* (1) Parties seeking approval for partitioning and disaggregation shall request from the Commission an authorization for partial assignment of a license pursuant to § 1.948.
 
 (2) AWS and WCS licensees may apply to partition their licensed geographic service area or disaggregate their licensed spectrum at any time following the grant of their licenses.

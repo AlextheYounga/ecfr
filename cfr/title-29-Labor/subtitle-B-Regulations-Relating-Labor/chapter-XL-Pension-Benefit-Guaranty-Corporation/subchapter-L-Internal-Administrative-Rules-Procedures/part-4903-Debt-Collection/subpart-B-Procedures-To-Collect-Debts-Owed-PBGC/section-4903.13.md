@@ -1,8 +1,6 @@
 ##### § 4903.13 How will PBGC offset a Federal employee's salary to collect a debt owed to PBGC? #####
 
-(a) *Federal salary offset.*
-
-(1) Salary offset is used to collect debts owed to the United States or PBGC by Federal employees. If a Federal employee owes PBGC a debt, PBGC may offset the employee's Federal salary to collect the debt in the manner described in this section. For information on how a Federal agency other than PBGC may collect debt from the salary of a PBGC employee, see §§ 4903.21 and 4903.22, subpart C, of this part.
+(a) *Federal salary offset.* (1) Salary offset is used to collect debts owed to the United States or PBGC by Federal employees. If a Federal employee owes PBGC a debt, PBGC may offset the employee's Federal salary to collect the debt in the manner described in this section. For information on how a Federal agency other than PBGC may collect debt from the salary of a PBGC employee, see §§ 4903.21 and 4903.22, subpart C, of this part.
 
 (2) Nothing in this part requires PBGC to collect a debt in accordance with the provisions of this section if Federal law allows other means to collect. *See,* for example, 5 U.S.C. 5705 (travel advances not used for allowable travel expenses are recoverable from the employee or his estate by setoff against accrued pay and other means) and 5 U.S.C. 4108 (recovery of training expenses).
 

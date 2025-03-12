@@ -1,5 +1,7 @@
 ##### § 90.631 Trunked systems loading, construction and authorization requirements. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) Non-SMR trunked systems will be authorized on the basis of a loading criteria of one hundred (100) mobile stations per channel. For purposes of determining compliance with trunked system loading requirements under this subpart, the term “mobile station” includes vehicular and portable mobile units and control stations.
 
 (b) Each applicant for a non-SMR trunked system must certify that a minimum of seventy (70) mobiles for each channel authorized will be placed into operation within five (5) years of the initial license grant.

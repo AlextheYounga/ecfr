@@ -1,5 +1,7 @@
 ##### § 1016.23 Establishment of security areas. #####
 
+Link to an amendment published at 82 FR 41506, Sept. 1, 2017.
+
 (a) When, because of their nature or size, it is impracticable to safeguard documents and material containing Restricted Data in accordance with the provisions of §§ 1016.21 and 1016.22, a security area to protect such documents and material shall be established.
 
 (b) The following controls shall apply to security areas:

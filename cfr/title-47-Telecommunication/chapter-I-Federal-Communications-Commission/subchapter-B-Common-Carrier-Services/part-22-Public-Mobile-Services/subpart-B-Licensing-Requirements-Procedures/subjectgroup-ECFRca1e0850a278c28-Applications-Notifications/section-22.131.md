@@ -1,5 +1,7 @@
 ##### § 22.131 Procedures for mutually exclusive applications. #####
 
+Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
+
 Two or more pending applications are mutually exclusive if the grant of one application would effectively preclude the grant of one or more of the others under Commission rules governing the Public Mobile Services involved. The Commission uses the general procedures in this section for processing mutually exclusive applications in the Public Mobile Services. Additional specific procedures are prescribed in the subparts of this part governing the individual Public Mobile Services (see §§ 22.509, 22.717, and 22.949) and in part 1 of this chapter.
 
 (a) *Separate applications.* Any applicant that files an application knowing that it will be mutually exclusive with one or more applications should not include in the mutually exclusive application a request for other channels or facilities that would not, by themselves, render the application mutually exclusive with those other applications. Instead, the request for such other channels or facilities should be filed in a separate application.

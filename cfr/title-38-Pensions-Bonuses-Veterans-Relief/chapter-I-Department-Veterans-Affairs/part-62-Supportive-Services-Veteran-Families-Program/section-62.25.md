@@ -1,5 +1,7 @@
 ##### § 62.25 Selecting grantees for renewal of supportive services grants. #####
 
+Link to an amendment published at 82 FR 41526, Sept. 1, 2017.
+
 VA will use the following process to select grantees applying for renewal of supportive services grants:
 
 (a) So long as the grantee continues to meet the threshold requirements set forth in § 62.21, VA will score the grantee using the scoring criteria set forth in § 62.24.

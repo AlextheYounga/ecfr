@@ -1,5 +1,7 @@
 ##### § 101.1327 Renewal expectancy for EA licensees. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) A renewal applicant shall receive a renewal expectancy at the end of the license period as long as the applicant:
 
 (1) Demonstrates that the licensee has provided continued “substantial service,” *i.e.,* service which is sound, favorable, and substantially above a level of mediocre service which just might minimally warrant renewal, during its past license term;

@@ -50,6 +50,6 @@ Example 4.(i) *Facts.* A child covered by a group health plan visits an in-netwo
 
 (c) *Recommendations not current.* For purposes of paragraph (a)(1)(i) of this section, and for purposes of any other provision of law, recommendations of the United States Preventive Services Task Force regarding breast cancer screening, mammography, and prevention issued in or around November 2009 are not considered to be current.
 
-(d) *Applicability date.* The provisions of this section apply for plan years beginning on or after September 23, 2010. *See* § 2590.715-1251 of this Part for determining the application of this section to grandfathered health plans (providing that these rules regarding coverage of preventive health services do not apply to grandfathered health plans).
+(d) *Applicability date.* The provisions of this section apply for plan years beginning on or after September 23, 2010. *See* § 2590.715-1251 of this part for determining the application of this section to grandfathered health plans (providing that these rules regarding coverage of preventive health services do not apply to grandfathered health plans).
 
 [75 FR 41757, July 19, 2010, as amended at 76 FR 46625, Aug. 3, 2011; 78 FR 39894, July 2, 2013; 80 FR 41345, July 14, 2015]

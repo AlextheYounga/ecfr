@@ -1,5 +1,7 @@
 ##### § 1.934 Defective applications and dismissal. #####
 
+Link to an amendment published at 82 FR 41545, Sept. 1, 2017.
+
 (a) *Dismissal of applications.* The Commission may dismiss any application in the Wireless Radio Services at the request of the applicant; if the application is mutually exclusive with another application that is selected or granted in accordance with the rules in this part; for failure to prosecute or if the application is found to be defective; if the requested spectrum is not available; or if the application is untimely filed. Such dismissal may be “without prejudice,” meaning that the Commission may accept from the applicant another application for the same purpose at a later time, provided that the application is otherwise timely. Dismissal “with prejudice” means that the Commission will not accept another application from the applicant for the same purpose for a period of one year. Unless otherwise provided in this part, a dismissed application will not be returned to the applicant.
 
 (1) *Dismissal at request of applicant.* Any applicant may request that its application be withdrawn or dismissed. A request for the withdrawal of an application after it has been listed on Public Notice as tentatively accepted for filing is considered to be a request for dismissal of that application without prejudice.

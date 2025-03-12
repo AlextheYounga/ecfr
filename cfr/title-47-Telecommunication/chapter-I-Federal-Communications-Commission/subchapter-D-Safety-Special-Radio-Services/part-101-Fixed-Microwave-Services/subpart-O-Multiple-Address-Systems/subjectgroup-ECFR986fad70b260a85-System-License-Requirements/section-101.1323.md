@@ -1,5 +1,7 @@
 ##### § 101.1323 Spectrum aggregation, disaggregation, and partitioning. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) *Eligibility.* (1) Parties seeking approval for partitioning and disaggregation shall request from the Commission an authorization for partial assignment of license. Geographic area licensees may participate in aggregation, disaggregation, and partitioning within the bands licensed on a geographic area basis. Site-based licensees may aggregate spectrum in any MAS bands, but may not disaggregate their licensed spectrum or partition their licensed sites.
 
 (2) Eligible MAS licensees may apply to the Commission to partition their licensed geographic service areas to eligible entities and are free to determine the portion of their service areas to be partitioned. Eligible MAS licensees may aggregate or disaggregate their licensed spectrum at any time following the grant of a license.

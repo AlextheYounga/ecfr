@@ -58,7 +58,7 @@
 
 (viii) That proceedings with respect to such debt are governed by 5 U.S.C. 5514 and 31 U.S.C. 3716.
 
-(12) How the debtor may request a waiver of the debt, if applicable. *See,* for example, § 4903.6 and § 4903.13(f) of this part.
+(12) How the debtor may request a waiver of the debt, if applicable. *See,* for example, §§ 4903.6 and 4903.13(f) of this part.
 
 (13) How the debtor's spouse may claim his or her share of a joint income tax refund by filing Form 8379 with the Internal Revenue Service (*see http://www.irs.gov*);
 

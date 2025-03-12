@@ -1,5 +1,7 @@
 ##### § 1016.12 Termination of security facility approval. #####
 
+Link to an amendment published at 82 FR 41506, Sept. 1, 2017.
+
 Security facility approval will be terminated when:
 
 (a) There is no longer a need to use, process, store, reproduce, transmit, or handle Restricted Data at the facility; or

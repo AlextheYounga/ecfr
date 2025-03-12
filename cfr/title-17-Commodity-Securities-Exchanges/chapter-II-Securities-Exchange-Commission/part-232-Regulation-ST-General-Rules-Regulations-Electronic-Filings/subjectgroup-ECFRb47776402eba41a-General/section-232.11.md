@@ -1,7 +1,5 @@
 ##### § 232.11 Definition of terms used in part 232. #####
 
-Link to an amendment published at 82 FR 14142, Mar. 17, 2017.
-
 Unless otherwise specifically provided, the terms used in Regulation S-T (part 232 of this chapter) have the same meanings as in the federal securities laws and the rules, regulations and forms promulgated thereunder. In addition, the following definitions of terms apply specifically to electronic format documents and shall apply wherever they appear in laws, rules, regulations and forms governing such documents, unless the context otherwise specifies:
 
 *Animated graphics.* The term *animated graphics* means text or images that do not remain static but that may move when viewed in a browser.
@@ -42,7 +40,7 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *HTML document.* The term *HTML document* means an electronic text document tagged with HyperText Markup Language tags in the format required by the EDGAR Filer Manual.
 
-*Hypertext links or hyperlinks.* The term *hypertext links* or *hyperlinks* means the representation of an Internet address in a form that an Internet browser application can recognize as an Internet address.
+*Hyperlinks.* The term *hyperlinks* means the representation of an Internet address in a form that an Internet browser application can recognize as an Internet address.
 
 *Interactive Data File.* The term *Interactive Data File* means the machine-readable computer code that presents information in eXtensible Business Reporting Language (XBRL) electronic format pursuant to § 232.405.
 
@@ -80,4 +78,4 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *XBRL-Related Documents.* The term *XBRL-Related Documents* means documents related to presenting information in eXtensible Business Reporting Language that are part of a voluntary submission in electronic format in accordance with § 232.401.
 
-[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015]
+[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015; 82 FR 14142, Mar. 17, 2017]

@@ -1,5 +1,7 @@
 ##### § 62.36 General operation requirements. #####
 
+Link to an amendment published at 82 FR 41526, Sept. 1, 2017.
+
 (a) *Eligibility documentation.* Prior to providing supportive services, grantees must verify and document each participant's eligibility for supportive services and classify the participant under one of the categories set forth in § 62.11. Grantees must recertify the participant's eligibility as a very low-income veteran family at least once every 3 months.
 
 (b) *Confidentiality.* Grantees must maintain the confidentiality of records kept on participants. Grantees that provide family violence prevention or treatment services must establish and implement procedures to ensure the confidentiality of:

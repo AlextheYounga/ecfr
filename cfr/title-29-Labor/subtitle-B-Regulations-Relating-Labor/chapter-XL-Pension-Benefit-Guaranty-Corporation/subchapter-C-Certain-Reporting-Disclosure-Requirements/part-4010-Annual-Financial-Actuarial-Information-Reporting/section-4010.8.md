@@ -102,7 +102,7 @@
 
 (e) *Examples.* The following examples demonstrate how XRA is determined and applied for purposes of determining benefit liabilities under paragraph (d) of this section:
 
-(1) *Example 1.* (i) *Facts.* Plan X has a normal retirement age of 65, but allows benefits to commence as early as age 55 for participants who complete at least 10 years of service before termination. Early retirement benefits are reduced for participants with fewer than 25 years of service. Employee A is an active participant who is age 40 and has completed 5 years of service. Assume the “medium” XRA look-up table applies, and that for purposes of § 4010.8(d), the filer has decided not to take pre-retirement decrements other than mortality table into account as permitted under § 4010.8(d)(2)(i).
+(1) *Example 1* - (i) *Facts.* Plan X has a normal retirement age of 65, but allows benefits to commence as early as age 55 for participants who complete at least 10 years of service before termination. Early retirement benefits are reduced for participants with fewer than 25 years of service. Employee A is an active participant who is age 40 and has completed 5 years of service. Assume the “medium” XRA look-up table applies, and that for purposes of § 4010.8(d), the filer has decided not to take pre-retirement decrements other than mortality table into account as permitted under § 4010.8(d)(2)(i).
 
 (ii) *Determination of XRA.* If A continues working, the earliest age A could start receiving benefit is age 55. Therefore, A's earliest retirement age at valuation (ERA) is 55. Because the earliest that A can receive an unreduced benefit is when A completed 25 years of service (at age 60), A's URA is age 60. Under the medium XRA look-up table, A's XRA is 58.
 

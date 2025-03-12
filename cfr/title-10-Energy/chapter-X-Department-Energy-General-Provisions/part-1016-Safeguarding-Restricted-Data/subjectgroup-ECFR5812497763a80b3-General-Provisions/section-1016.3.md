@@ -1,5 +1,7 @@
 ##### § 1016.3 Definitions. #####
 
+Link to an amendment published at 82 FR 41505, Sept. 1, 2017.
+
 (a) *Access authorization or security clearance.* An administrative determination by the DOE that an individual who is either a DOE employee, applicant for employment, consultant, assignee, other Federal department or agency employee (and other persons who may be designated by the Secretary of Energy), or a DOE contractor or subcontractor employee and an access permittee is eligible for access to Restricted Data. Access authorizations or security clearances granted by DOE are designated as “Q,” “Q(X),” “L,” “L(X),” “Top Secret,” or “Secret.” For the purpose of this chapter only “Q,” “Q(X),” “L,” and “L(X)” access authorizations or clearances will be defined.
 
 (1) “Q” access authorizations or clearances are based upon full field investigations conducted by the Federal Bureau of Investigation, Office of Personnel Management, or another Government agency which conducts personnel security investigations. They permit an individual to have access, on a “need to know” basis, to Top Secret, Secret, and Confidential Restricted Data, Formerly Restricted Data, National Security Information, or special nuclear material in Category I or II quantities as required in the performance of duties.

@@ -1,5 +1,7 @@
 ##### § 87.303 Frequencies. #####
 
+Link to an amendment published at 82 FR 41562, Sept. 1, 2017.
+
 (a) These frequencies are available for assignment to flight test land and aircraft stations:
 
 |       kHz        |        MHz        |        MHz        |        MHz        |

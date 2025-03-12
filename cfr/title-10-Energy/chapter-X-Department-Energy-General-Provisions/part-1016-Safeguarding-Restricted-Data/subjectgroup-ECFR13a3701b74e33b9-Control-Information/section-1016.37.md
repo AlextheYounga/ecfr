@@ -1,3 +1,5 @@
 ##### § 1016.37 Destruction of documents or material containing Restricted Data. #####
 
+Link to an amendment published at 82 FR 41508, Sept. 1, 2017.
+
 Documents containing Restricted Data may be destroyed by burning, pulping, or another method that assures complete destruction of the information which they contain. If the document contains Secret Restricted Data, a permanent record of the subject, title, report number of the document, its date of preparation, its series designation and copy number, and the date of destruction shall be signed by the person destroying the document and shall be maintained in the office of the last custodian. Restricted Data contained in material, other than documents, may be destroyed only by a method that assures complete obliteration, removal, or destruction of the Restricted Data.

@@ -1,5 +1,7 @@
 ##### § 1.955 Termination of authorizations. #####
 
+Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
+
 (a) Authorizations in general remain valid until terminated in accordance with this section, except that the Commission may revoke an authorization pursuant to section 312 of the Communications Act of 1934, as amended. *See* 47 U.S.C. 312.
 
 (1) *Expiration.* Authorizations automatically terminate, without specific Commission action, on the expiration date specified therein, unless a timely application for renewal is filed. *See* § 1.949 of this part. No authorization granted under the provisions of this part shall be for a term longer than ten years, except to the extent a longer term is authorized under § 27.13 of part 27 of this chapter.

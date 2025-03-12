@@ -1,5 +1,7 @@
 ##### § 1016.21 Protection of Restricted Data in storage. #####
 
+Link to an amendment published at 82 FR 41506, Sept. 1, 2017.
+
 (a) Persons who possess Restricted Data pursuant to an Access Permit shall store Secret and Confidential documents and material when not in use in accordance with one of the following methods:
 
 (1) In a locked vault, safe, or safe-type steel file cabinet having a 3-position dial-type combination lock; or

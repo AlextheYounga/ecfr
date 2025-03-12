@@ -1,12 +1,12 @@
 ##### § 36.4501 Definitions. #####
 
-Link to an amendment published at 82 FR 35904, Aug. 2, 2017.
-
 Wherever used in 38 U.S.C. 3711, 3762 or the regulations concerning direct loans to veterans, unless the context otherwise requires, the terms defined in this section shall have the meaning herein stated, namely:
 
 *Cost* means the entire consideration paid or payable for or on account of the application of materials and labor to tangible property.
 
 *Default* means failure of a borrower to comply with the terms of a loan agreement.
+
+*Department of Veterans Affairs* means the Secretary of Veterans Affairs, or any employee of the Department of Veterans Affairs authorized to act in the Secretary's stead.
 
 *Dwelling* means a building designed primarily for use as a home, consisting of one residential unit only and not containing any business unit.
 
@@ -46,6 +46,8 @@ Wherever used in 38 U.S.C. 3711, 3762 or the regulations concerning direct loans
 
 *Repairs* means any alteration of existing realty which is necessary or advisable for protective, safety, or restorative purposes.
 
+*Safe harbor qualified mortgage* means a mortgage that meets the Ability-to-Repay requirements of sections 129B and 129C of the Truth-in-Lending Act (TILA) regardless of whether the loan might be considered a high cost mortgage transaction as defined by section 103bb of TILA (15 U.S.C. 1602bb).
+
 *Secretary* means the Secretary of Veterans Affairs, or any employee of the Department of Veterans Affairs authorized to act in the Secretary's stead.
 
 *Tribal organization* has the same meaning given in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(1)) and includes the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
@@ -60,10 +62,6 @@ Wherever used in 38 U.S.C. 3711, 3762 or the regulations concerning direct loans
 
 (4) Is on any island in the Pacific Ocean if such land is, by cultural tradition, communally-owned land, as determined by the Secretary.
 
-*Vendee loan* means a loan made by the Secretary for the purpose of financing the purchase of a property acquired pursuant to chapter 37 of title 38, United States Code.
+*Vendee loan* means a loan made by the Secretary for the purpose of financing the purchase of a property acquired pursuant to chapter 37 of title 38, United States Code. The terms of a vendee loan (*e.g.,* amount of down payment; amortization term; whether to escrow taxes, insurance premiums, or homeowners' association dues; fees, etc.) are negotiated between the Secretary and the borrower on a case-by-case basis, subject to the requirements of 38 U.S.C. 2041 or 3733. Terms related to allowable fees are also subject to §§ 36.4528 through 36.4530.
 
-(Authority: 38 U.S.C. 3720, 3733)
-
-*Department of Veterans Affairs* means the Secretary of Veterans Affairs, or any employee of the Department of Veterans Affairs authorized to act in the Secretary's stead.
-
-(Authority: 38 U.S.C. 3761-3764)[24 FR 2658, Apr. 7, 1959, as amended at 31 FR 16713, Dec. 30, 1966; 35 FR 17180, Nov. 7, 1970; 40 FR 4143, Jan. 28, 1975; 41 FR 32218, Aug. 2, 1976; 41 FR 44859, Oct. 13, 1976; 45 FR 20472, Mar. 28, 1980; 46 FR 43674, Aug. 31, 1981; 58 FR 59660, Nov. 10, 1993; 79 FR 26628, May 9, 2014]
+(Authority: 38 U.S.C. 3761-3764)[24 FR 2658, Apr. 7, 1959, as amended at 31 FR 16713, Dec. 30, 1966; 35 FR 17180, Nov. 7, 1970; 40 FR 4143, Jan. 28, 1975; 41 FR 32218, Aug. 2, 1976; 41 FR 44859, Oct. 13, 1976; 45 FR 20472, Mar. 28, 1980; 46 FR 43674, Aug. 31, 1981; 58 FR 59660, Nov. 10, 1993; 79 FR 26628, May 9, 2014; 82 FR 35904, Aug. 2, 2017]

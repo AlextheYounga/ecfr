@@ -1,5 +1,7 @@
 ##### § 80.60 Partitioned licenses and disaggregated spectrum. #####
 
+Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+
 (a) Except as specified in § 20.15(c) of this chapter with respect to commercial mobile radio service providers, charges must not be made for service of:
 
 (1) VHF Public Coast area licensees, *see* § 80.371(c)(1)(ii), may partition their geographic service area or disaggregate their spectrum pursuant to the procedures set forth in this section.

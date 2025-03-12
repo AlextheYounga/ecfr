@@ -1,5 +1,7 @@
 ##### § 101.535 Geographic partitioning and spectrum aggregation/disaggregation. #####
 
+Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+
 (a) *Eligibility.* (1) 24 GHz licensees may apply to the Commission to partition their licensed geographic service areas to eligible entities and are free to determine the portion of their service areas to be partitioned. 24 GHz licensees may aggregate or disaggregate their licensed spectrum at any time following the grant of a license.
 
 (2) Any existing frequency coordination agreements shall convey with the assignment of the geographic area or spectrum, and shall remain in effect unless new agreements are reached.

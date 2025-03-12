@@ -10,9 +10,9 @@
 
 (3) *PPA 2006 bankruptcy termination.* In a PPA 2006 bankruptcy termination, “bankruptcy filing date” is substituted for “proposed termination date” in the first sentence of paragraph (b)(2) of this section.
 
-(c)(1)*In general.* -*Estimated title IV benefit payable with respect to a participant who is not a substantial owner.* For benefits payable with respect to a participant who is not a substantial owner, the estimated title IV benefit is the estimated priority category 3 benefit computed under this paragraph. Priority category 3 benefits are payable with respect to participants who were, or could have been, in pay status three full years prior to the proposed termination date. The estimated priority category 3 benefit is computed by multiplying the benefit payable with respect to the participant under § 4022.62 (b)(1) and (b)(2) by a fraction, not to exceed one -
+(c) *In general.* - (1) *Estimated title IV benefit payable with respect to a participant who is not a substantial owner.* For benefits payable with respect to a participant who is not a substantial owner, the estimated title IV benefit is the estimated priority category 3 benefit computed under this paragraph. Priority category 3 benefits are payable with respect to participants who were, or could have been, in pay status three full years prior to the proposed termination date. The estimated priority category 3 benefit is computed by multiplying the benefit payable with respect to the participant under § 4022.62 (b)(1) and (b)(2) by a fraction, not to exceed one -
 
-(1)(i) The numerator of which is the benefit that would be payable with respect to the participant at normal retirement age under the provisions of the plan in effect on the date five full years before the proposed termination date, based on the participant's age, service, and compensation as of the earlier of the participant's benefit commencement date or the proposed termination date, and
+(i) The numerator of which is the benefit that would be payable with respect to the participant at normal retirement age under the provisions of the plan in effect on the date five full years before the proposed termination date, based on the participant's age, service, and compensation as of the earlier of the participant's benefit commencement date or the proposed termination date, and
 
 (ii) The denominator of which is the benefit that would be payable with respect to the participant at normal retirement age under the provisions of the plan in effect on the proposed termination date, based on the participant's age, service, and compensation as of the earlier of the participant's benefit commencement date or the proposed termination date.
 
@@ -54,4 +54,4 @@ Under paragraph (d), the participant's estimated priority category 4 benefit is 
 
 Because the estimated category 4 benefit so computed is greater than the estimated category 3 benefit so computed, the estimated category 4 benefit is the estimated title IV benefit. Because the estimated category 4 benefit so computed is greater than the estimated guaranteed benefit of $166.67 per month, in accordance with § 4022.61(d), the benefit payable to the participant is the estimated category 4 benefit of $600 per month.
 
-[61 FR 34028, July 1, 1996; 61 FR 36626, July 12, 1996; 76 FR 34604, June 14, 2011]
+[61 FR 34028, July 1, 1996; 61 FR 36626, July 12, 1996, as amended at 76 FR 34604, June 14, 2011]
