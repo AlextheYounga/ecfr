@@ -1,5 +1,7 @@
 ##### § 917.16 Required regulatory program amendments. #####
 
+Link to an amendment published at 87 FR 27943, May 10, 2022.
+
 (a)-(b) [Reserved]
 
 (c) Pursuant to 30 CFR 732.17, Kentucky is required, prior to implementation of the following statutory amendments, to submit to the Director proposed regulations to implement the amendments, and to receive the Director's approval of the regulations:
