@@ -8,14 +8,16 @@
 
 (3) Identify and describe how security measures selected and utilized by the facility will meet or exceed each applicable performance standard for the appropriate risk-based tier for the facility; and
 
-(4) Specify other information the Assistant Secretary deems necessary regarding chemical facility security.
+(4) Specify other information the Executive Assistant Director deems necessary regarding chemical facility security.
 
-(b) Except as provided in § 27.235, a covered facility must complete the Site Security Plan through the CSAT process, or through any other methodology or process identified or issued by the Assistant Secretary.
+(b) Except as provided in § 27.235, a covered facility must complete the Site Security Plan through the CSAT process, or through any other methodology or process identified or issued by the Executive Assistant Director.
 
 (c) Covered facilities must submit a Site Security Plan to the Department in accordance with the schedule provided in § 27.210.
 
-(d) *Updates and revisions.* (1) When a covered facility updates, revises or otherwise alters its Security Vulnerability Assessment pursuant to § 27.215(d), the covered facility shall make corresponding changes to its Site Security Plan.
+(d) *Updates and revisions.* (1) When a covered facility updates, revises, or otherwise alters its Security Vulnerability Assessment pursuant to § 27.215(d), the covered facility shall make corresponding changes to its Site Security Plan.
 
 (2) A covered facility must also update and revise its Site Security Plan in accordance with the schedule in § 27.210.
 
 (e) A covered facility must conduct an annual audit of its compliance with its Site Security Plan.
+
+[72 FR 17729, Apr. 9, 2007, as amended at 86 FR 41892, Aug. 4, 2021]

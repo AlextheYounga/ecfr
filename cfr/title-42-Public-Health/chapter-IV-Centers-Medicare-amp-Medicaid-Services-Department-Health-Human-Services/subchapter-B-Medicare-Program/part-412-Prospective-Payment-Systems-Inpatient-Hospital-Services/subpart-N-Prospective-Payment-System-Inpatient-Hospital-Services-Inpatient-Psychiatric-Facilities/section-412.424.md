@@ -1,5 +1,7 @@
 ##### § 412.424 Methodology for calculating the Federal per diem payment amount. #####
 
+Link to an amendment published at 86 FR 42678, Aug. 4, 2021.
+
 (a) *Data sources.* (1) To calculate the Federal per diem base rate (as specified in paragraph (b) of this section for inpatient psychiatric facilities, as specified in paragraph (b) of this section, CMS uses the following data sources:
 
 (2) The best Medicare data available to estimate the average inpatient operating and capital-related costs per day made as specified in part 413 of this chapter.

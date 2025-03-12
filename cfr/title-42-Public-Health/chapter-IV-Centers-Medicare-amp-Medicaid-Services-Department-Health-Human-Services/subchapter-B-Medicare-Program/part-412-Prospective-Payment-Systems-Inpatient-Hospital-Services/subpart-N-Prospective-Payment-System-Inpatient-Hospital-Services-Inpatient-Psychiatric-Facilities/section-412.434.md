@@ -1,5 +1,7 @@
 ##### § 412.434 Reconsideration and appeals procedures of Inpatient Psychiatric Facilities Quality Reporting (IPFQR) Program decisions. #####
 
+Link to an amendment published at 86 FR 42678, Aug. 4, 2021.
+
 (a) An inpatient psychiatric facility may request reconsideration of a decision by CMS that the inpatient psychiatric facility has not met the requirements of the IPFQR Program for a particular fiscal year. An inpatient psychiatric facility must submit a reconsideration request to CMS no later than 30 days from the date identified on the IPFQR Program Annual Payment Update Notification Letter provided to the inpatient psychiatric facility.
 
 (b) A reconsideration request must contain the following information:

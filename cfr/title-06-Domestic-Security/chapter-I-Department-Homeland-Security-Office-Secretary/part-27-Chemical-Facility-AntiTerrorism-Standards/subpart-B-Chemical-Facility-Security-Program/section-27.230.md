@@ -1,6 +1,6 @@
 ##### § 27.230 Risk-based performance standards. #####
 
-(a) Covered facilities must satisfy the performance standards identified in this section. The Assistant Secretary will issue guidance on the application of these standards to risk-based tiers of covered facilities, and the acceptable layering of measures used to meet these standards will vary by risk-based tier. Each covered facility must select, develop in their Site Security Plan, and implement appropriately risk-based measures designed to satisfy the following performance standards:
+(a) Covered facilities must satisfy the performance standards identified in this section. The Executive Assistant Director will issue guidance on the application of these standards to risk-based tiers of covered facilities, and the acceptable layering of measures used to meet these standards will vary by risk-based tier. Each covered facility must select, develop in their Site Security Plan, and implement appropriately risk-based measures designed to satisfy the following performance standards:
 
 (1) *Restrict area perimeter.* Secure and monitor the perimeter of the facility;
 
@@ -54,7 +54,7 @@
 
 (13) *Elevated threats.* Escalate the level of protective measures for periods of elevated threat;
 
-(14) *Specific threats, vulnerabilities, or risks.* Address specific threats, vulnerabilities or risks identified by the Assistant Secretary for the particular facility at issue;
+(14) *Specific threats, vulnerabilities, or risks.* Address specific threats, vulnerabilities or risks identified by the Executive Assistant Director for the particular facility at issue;
 
 (15) *Reporting of significant security incidents.* Report significant security incidents to the Department and to local law enforcement officials;
 
@@ -64,6 +64,8 @@
 
 (18) *Records.* Maintain appropriate records; and
 
-(19) Address any additional performance standards the Assistant Secretary may specify.
+(19) Address any additional performance standards the Executive Assistant Director may specify.
 
 (b) [Reserved]
+
+[72 FR 17729, Apr. 9, 2007, as amended at 86 FR 41892, Aug. 4, 2021]

@@ -1,5 +1,7 @@
 ##### § 489.20 Basic commitments. #####
 
+Link to an amendment published at 86 FR 42525, Aug. 4, 2021.
+
 The provider agrees to the following:
 
 (a) To limit its charges to beneficiaries and to other individuals on their behalf, in accordance with provisions of subpart C of this part.

@@ -6,6 +6,8 @@
 
 (2) The Presiding Officer may conduct scheduling conferences and other proceedings that the Presiding Officer determines to be appropriate.
 
-(b) If the Presiding Officer determines that there is no genuine issue of material fact and that one party or the other is entitled to decision as a matter of law, then the record shall be closed and the Presiding Officer shall issue an Initial Decision on the Application for Review pursuant to § 27.340.
+(b) If the Presiding Officer determines that there is no genuine issue of material fact and that one party or the other is entitled to a decision as a matter of law, then the record shall be closed and the Presiding Officer shall issue an Initial Decision on the Application for Review pursuant to § 27.340.
 
 (c) If a Presiding Officer determines that any factual issues require the cross-examination of one or more witnesses or other proceedings at a hearing, the Presiding Officer, in consultation with the parties, shall promptly schedule a hearing to be conducted pursuant to § 27.335.
+
+[72 FR 17729, Apr. 9, 2007, as amended at 86 FR 41892, Aug. 4, 2021]
