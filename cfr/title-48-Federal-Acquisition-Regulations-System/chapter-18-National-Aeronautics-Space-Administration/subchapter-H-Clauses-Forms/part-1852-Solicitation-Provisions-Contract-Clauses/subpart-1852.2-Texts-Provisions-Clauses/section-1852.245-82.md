@@ -1,5 +1,7 @@
 ##### 1852.245-82 Occupancy management requirements. #####
 
+Link to an amendment published at 82 FR 38853, Aug. 16, 2017.
+
 As prescribed in 1845.107-70(m), insert the following clause:
 
 Occupany Management Requirements (JAN 2011)

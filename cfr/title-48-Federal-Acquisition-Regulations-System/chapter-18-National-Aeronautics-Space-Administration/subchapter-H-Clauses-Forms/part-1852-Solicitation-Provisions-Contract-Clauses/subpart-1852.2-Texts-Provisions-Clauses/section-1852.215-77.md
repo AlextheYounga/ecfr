@@ -1,5 +1,7 @@
 ##### 1852.215-77 Preproposal/pre-bid conference. #####
 
+Link to an amendment published at 82 FR 38853, Aug. 16, 2017.
+
 As prescribed in 1815.209-70(a), insert the following provision:
 
 Preproposal/Pre-Bid Conference (APR 2015)
