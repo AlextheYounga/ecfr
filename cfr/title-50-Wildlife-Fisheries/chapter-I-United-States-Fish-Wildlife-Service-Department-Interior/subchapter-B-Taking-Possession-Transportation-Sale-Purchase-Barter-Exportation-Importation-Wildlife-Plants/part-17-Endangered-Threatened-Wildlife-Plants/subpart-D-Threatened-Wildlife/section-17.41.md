@@ -1,7 +1,5 @@
 ##### § 17.41 Special rules - birds. #####
 
-Link to an amendment published at 84 FR 6311, Feb. 26, 2019.
-
 (a) Streaked horned lark (*Eremophila alpestris strigata*). (1) *Which populations of the streaked horned lark are covered by this special rule?* The components of this special rule that apply to airport management and noxious weed control cover the rangewide distribution of this bird; the agricultural component applies only to the Willamette Valley in Oregon.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3), (4), and (5) of this section, all prohibitions of § 17.31 apply to the streaked horned lark.
@@ -70,7 +68,7 @@ Link to an amendment published at 84 FR 6311, Feb. 26, 2019.
 
 (4) The Service will monitor the implementation of the NCCP Conservation and Process Guidelines as a whole, and will conduct a review every 6 months to determine whether the guidelines, as implemented, are effective in progressing toward or meeting regional and subregional conservation objectives during the interim planning period. If the Service determines that the guidelines are not effecting adequate progress toward or meeting regional and subregional conservation objectives, the Service will consult with the California Department of Fish and Game pursuant to the MOU to seek appropriate modification of the guidelines or their application as defined therein. If appropriate modification of the guidelines or their application as defined therein does not occur, the Service may revoke the interim take provisions of this special rule on a subregional or subarea basis. The Service will publish the findings for revocation in the Federal Register and provide for a 30-day public comment period prior to the effective date for revoking the provisions of the special rule in a particular area. Revocation would result in the reinstatement of the take prohibitions set forth under 50 CFR 17.31(a) and (b) in the affected NCCP area.
 
-(c) The following species in the parrot family: Salmon-crested cockatoo *(Cacatua moluccensis),* yellow-billed parrot *(Amazona collaria),* white cockatoo (*Cacatua alba*), and hyacinth macaw (*Anodorhynchus hyacinthinus*).
+(c) The following species in the parrot family: Salmon-crested cockatoo *(Cacatua moluccensis),* yellow-billed parrot *(Amazona collaria),* white cockatoo (*Cacatua alba),* hyacinth macaw (*Anodorhynchus hyacinthinus*), and scarlet macaw (*Ara macao macao* and scarlet macaw subspecies crosses (*Ara macao macao* and *Ara macao cyanoptera*)).
 
 (1) Except as noted in paragraphs (c)(2) and (c)(3) of this section, all prohibitions and provisions of §§ 17.31 and 17.32 of this part apply to these species.
 
@@ -78,7 +76,7 @@ Link to an amendment published at 84 FR 6311, Feb. 26, 2019.
 
 (i) *Captive-bred specimens:* The source code on the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) document accompanying the specimen must be “F” (captive born), “C” (bred in captivity), or “D” (bred in captivity for commercial purposes) (see 50 CFR 23.24); or
 
-(ii) *Specimens held in captivity prior to certain dates:* You must provide documentation to demonstrate that the specimen was held in captivity prior to the dates specified in paragraphs (c)(2)(ii)(A), (B), (C), or (D) of this section. Such documentation may include copies of receipts, accession or veterinary records, CITES documents, or wildlife declaration forms, which must be dated prior to the specified dates.
+(ii) *Specimens held in captivity prior to certain dates:* You must provide documentation to demonstrate that the specimen was held in captivity prior to the dates specified in paragraph (c)(2)(ii)(A), (B), (C), (D), or (E) of this section. Such documentation may include copies of receipts, accession or veterinary records, CITES documents, or wildlife declaration forms, which must be dated prior to the specified dates.
 
 (A) *For salmon-crested cockatoos:* January 18, 1990 (the date this species was transferred to CITES Appendix I).
 
@@ -87,6 +85,8 @@ Link to an amendment published at 84 FR 6311, Feb. 26, 2019.
 (C) *For white cockatoos:* July 24, 2014 (the date this species was listed under the Endangered Species Act of 1973, as amended (Act) (16 U.S.C. 1531 *et seq.*)).
 
 (D) For *hyacinth macaws:* September 12, 2018 (the date this species was listed under the Endangered Species Act of 1973, as amended (Act) (16 U.S.C. 1531 *et seq.*)).
+
+(E) For *scarlet macaws:* March 28, 2019 (the date this species was listed under the Endangered Species Act of 1973, as amended (Act) (16 U.S.C. 1531 *et seq.*)).
 
 (3) *Interstate commerce.* Except where use after import is restricted under § 23.55 of this chapter, you may deliver, receive, carry, transport, or ship in interstate commerce and in the course of a commercial activity, or sell or offer to sell, in interstate commerce the species listed in this paragraph (c) without a permit under the Act.
 
@@ -102,4 +102,4 @@ Link to an amendment published at 84 FR 6311, Feb. 26, 2019.
 
 (iii) Reforestation and forested habitat enhancement projects within secondary forests (*i.e.,* young and mature) that promote the establishment or improvement of habitat conditions for the species by the planting of native trees, selective removal of native and exotic trees, seasonal pruning of native and exotic trees, or a combination of these.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018]
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6310, Feb. 26, 2019]

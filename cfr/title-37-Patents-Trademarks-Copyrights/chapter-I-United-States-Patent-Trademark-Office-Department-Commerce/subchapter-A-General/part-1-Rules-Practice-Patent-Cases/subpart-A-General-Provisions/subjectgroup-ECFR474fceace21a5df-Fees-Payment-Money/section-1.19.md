@@ -36,6 +36,8 @@ The United States Patent and Trademark Office will supply copies of the followin
 
 (iv) If provided to a foreign intellectual property office pursuant to a bilateral or multilateral agreement (*see* § 1.14(h)): $0.00.
 
+(2) [Reserved]
+
 (3) Copy of Office records, except copies available under paragraph (b)(1) or (2) of this section: $25.00.
 
 (4) For assignment records, abstract of title and certification, per patent: $35.00.

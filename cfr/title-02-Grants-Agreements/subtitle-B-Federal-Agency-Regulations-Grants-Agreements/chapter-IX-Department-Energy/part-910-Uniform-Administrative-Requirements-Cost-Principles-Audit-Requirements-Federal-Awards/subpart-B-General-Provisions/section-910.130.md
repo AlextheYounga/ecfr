@@ -10,9 +10,11 @@ In addition to the requirements of 2 CFR 200.306 the following requirements appl
 
 (b) A cost share of at least 20 percent of the cost of the activity is required for research and development except where:
 
-(1) A research or development activity of a basic or fundamental nature has been excluded by an appropriate officer of DOE, generally an Under Secretary; or
+(1) A research or development activity of a basic or fundamental nature has been excluded by an appropriate officer of DOE, generally an Under Secretary;
 
-(2) The Secretary has determined it is necessary and appropriate to reduce or eliminate the cost sharing requirement for a research and development activity of an applied nature.
+(2) The Secretary has determined it is necessary and appropriate to reduce or eliminate the cost sharing requirement for a research and development activity of an applied nature; or
+
+(3) The research or development activity is to be performed by an institution of higher education or nonprofit institution (as defined in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703)) during the two-year period ending September 27, 2020.
 
 (c) A cost share of at least 50 percent of the cost of a demonstration or commercial application activity is required unless the Secretary has determined it is necessary and appropriate to reduce the cost sharing requirements, taking into consideration any technological risk relating to the activity.
 
@@ -49,3 +51,5 @@ In addition to the requirements of 2 CFR 200.306 the following requirements appl
 *Development* is defined in 2 CFR 200.87.
 
 *Research* is also defined in 2 CFR 200.87.
+
+[79 FR 76024, Dec. 19, 2014, as amended at 84 FR 12049, Apr. 1, 2019]

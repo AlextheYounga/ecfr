@@ -16,4 +16,4 @@
 
 (c) *Other filing requirements.* All other filing requirements of the Commission's Rules of Practice and Procedure remain in effect for applications under this section.
 
-[Order 560, 58 FR 57737, Oct. 27, 1993, as amended by Order 593, 62 FR 1283, Jan. 9, 1997; Order 647, 69 FR 32438, June 10, 2004]Effective Date Note:By Order 560, 58 FR 57737, Oct. 27, 1993, § 36.1 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[Order 560, 58 FR 57737, Oct. 27, 1993, as amended by Order 593, 62 FR 1283, Jan. 9, 1997; Order 647, 69 FR 32438, June 10, 2004]

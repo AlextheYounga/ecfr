@@ -8,4 +8,4 @@
 
 (c) *What to file.* FERC Form No. 714, Annual Electric Balancing Authority Area and Planning Area Report, must be filed with the Federal Energy Regulatory Commission as prescribed in § 385.2011 of this chapter and as indicated in the General Instructions set out in this form.
 
-[58 FR 52436, Oct. 8, 1993, as amended by Order 20723, 72 FR 20725, Apr. 26, 2007]Effective Date Note:At 58 FR 52436, Oct. 8, 1993, § 141.51 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[58 FR 52436, Oct. 8, 1993, as amended by Order 20723, 72 FR 20725, Apr. 26, 2007]
