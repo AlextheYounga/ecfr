@@ -1,5 +1,7 @@
 ##### § 405.1836 Good cause extension of time limit for requesting a Board hearing. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) A request for a Board hearing that the Board receives after the applicable 180-day time limit prescribed in § 405.1835(a)(3) or § 405.1835(c)(2) must be dismissed by the Board, except that the Board may extend the time limit upon a good cause showing by the provider.
 
 (b) The Board may find good cause to extend the time limit only if the provider demonstrates in writing it could not reasonably be expected to file timely due to extraordinary circumstances beyond its control (such as a natural or other catastrophe, fire, or strike), and the provider's written request for an extension is received by the Board within a reasonable time (as determined by the Board under the circumstances) after the expiration of the applicable 180-day limit specified in § 405.1835(a)(3) or § 405.1835(c)(2).

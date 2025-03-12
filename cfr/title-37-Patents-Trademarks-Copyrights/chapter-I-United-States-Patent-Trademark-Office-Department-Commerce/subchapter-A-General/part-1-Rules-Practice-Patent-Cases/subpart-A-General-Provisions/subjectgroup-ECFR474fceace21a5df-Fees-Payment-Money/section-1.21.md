@@ -1,6 +1,6 @@
 ##### § 1.21 Miscellaneous fees and charges. #####
 
-Link to an amendment published at 85 FR 46989, Aug. 3, 2020.
+Link to an amendment published at 85 FR 46989, Aug. 3, 2020.Link to a correction of the above amendment published at 85 FR 58283, Sept. 18, 2020.
 
 The Patent and Trademark Office has established the following fees for the services indicated:
 

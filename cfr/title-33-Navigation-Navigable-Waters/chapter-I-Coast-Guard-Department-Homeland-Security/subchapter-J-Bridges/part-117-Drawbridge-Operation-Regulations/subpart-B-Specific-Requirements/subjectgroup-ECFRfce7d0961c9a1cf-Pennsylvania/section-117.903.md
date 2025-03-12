@@ -1,6 +1,6 @@
 ##### § 117.903 Darby Creek. #####
 
-(a) The draw of the Conrail automated railroad bridge, mile 0.25, at Essington, shall operate as follows:
+(a) The draw of the Conrail railroad bridge, mile 0.25, at Essington, shall operate as follows:
 
 (1) The bridge will be operated remotely by the South Jersey Train Dispatcher located in Mt. Laurel, NJ. Operational information will be provided 24 hours a day by telephone at (856) 231-2282.
 
@@ -24,4 +24,4 @@
 
 (b) The Reading Railroad Bridge, mile 0.3, at Essington, will be left in the full open position at all times.
 
-[CGD05-01-052, 67 FR 64170, Feb. 11, 2002, as amended by CGD05-06-086, 71 FR 77615, Dec. 27, 2006; USCG-2014-0367, 79 FR 68776, Nov. 19, 2014]
+[CGD05-01-052, 67 FR 64170, Feb. 11, 2002, as amended by CGD05-06-086, 71 FR 77615, Dec. 27, 2006; USCG-2014-0367, 79 FR 68776, Nov. 19, 2014; USCG-2020-0304, 85 FR 58278, Sept. 18, 2020]

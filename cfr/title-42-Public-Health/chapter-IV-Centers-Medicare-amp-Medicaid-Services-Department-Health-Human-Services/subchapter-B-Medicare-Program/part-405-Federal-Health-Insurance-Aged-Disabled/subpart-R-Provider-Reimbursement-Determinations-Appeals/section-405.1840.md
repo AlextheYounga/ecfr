@@ -1,5 +1,7 @@
 ##### § 405.1840 Board jurisdiction. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) *General rules.* (1) After a request for a Board hearing is filed under § 405.1835 or § 405.1837 of this part, the Board must determine in accordance with paragraph (b) of this section, whether or not it has jurisdiction to grant a hearing on each of the specific matters at issue in the hearing request.
 
 (2) The Board must make a preliminary determination of the scope of its jurisdiction (that is, whether the request for hearing was timely, and whether the amount in controversy requirement has been met), if any, over the matters at issue in the appeal before conducting any of the following proceedings:

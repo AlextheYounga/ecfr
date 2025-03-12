@@ -1,5 +1,7 @@
 ##### § 405.1831 Contractor hearing decision. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) If the contractor hearing officer(s) finds jurisdiction (as described in § 405.1814(a) of this subpart) and conducts a hearing, the contractor hearing officer(s) must promptly issue a written hearing decision.
 
 (b) The contractor hearing decision must be based on the evidence from the contractor hearing (as described in § 405.1823 of this subpart) and other evidence as may be included in the record (as described in § 405.1827 of this subpart).

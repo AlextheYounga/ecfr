@@ -1,5 +1,7 @@
 ##### § 413.79 Direct GME payments: Determination of the weighted number of FTE residents. #####
 
+Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
+
 Subject to the provisions in § 413.80, CMS determines a hospital's number of FTE residents by applying a weighting factor to each resident and then summing the resulting numbers that represent each resident. The weighting factor is determined as follows:
 
 (a) *Initial residency period.* Generally, for purposes of this section, effective July 1, 1995, an initial residency period is defined as the minimum number of years required for board eligibility.

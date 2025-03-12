@@ -30,7 +30,7 @@ The lights prescribed in these Rules (Subpart C) shall have an intensity as spec
 
 (vi) A special flashing light, 2 miles.
 
-(c) In a vessel of less than 12 meters in length -
+(c) In a vessel of less than 12 meters in length:
 
 (i) A masthead light, 2 miles;
 
@@ -50,4 +50,4 @@ The lights prescribed in these Rules (Subpart C) shall have an intensity as spec
 
 (ii) [Reserved]
 
-[USCG-2012-0102, 79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68621, Nov. 18, 2014]
+[USCG-2012-0102, 79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68621, Nov. 18, 2014; USCG-2020-0304, 85 FR 58277, Sept. 18, 2020]

@@ -1,5 +1,7 @@
 ##### § 405.1814 Contractor hearing officer jurisdiction. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) *General rules.* (1) After a request for a contractor hearing is filed under § 405.1811 of this subpart, the contractor hearing officer(s) must do the following:
 
 (i) Determine in accordance with paragraph (b) of this section whether or not it has jurisdiction to grant a hearing on each of the specific matters at issue in the hearing request.

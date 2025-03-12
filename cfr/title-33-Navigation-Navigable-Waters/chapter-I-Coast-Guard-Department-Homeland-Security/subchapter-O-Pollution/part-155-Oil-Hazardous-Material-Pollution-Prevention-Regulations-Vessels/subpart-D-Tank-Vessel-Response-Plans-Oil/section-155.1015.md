@@ -1,6 +1,6 @@
 ##### § 155.1015 Applicability. #####
 
-(a) Except as provided in paragraph (c) of this section, this subpart applies to each vessel that is constructed or adapted to carry, or that carries, oil in bulk as cargo or oil cargo residue, and that -
+(a) Except as provided in paragraph (c) of this section, this subpart applies to each vessel that is constructed or adapted to carry, or that carries, oil in bulk as cargo or oil cargo residue, and that—
 
 (1) Is a vessel of the United States;
 
@@ -12,7 +12,7 @@
 
 (c) This subpart does not apply to the following types of vessels:
 
-(1) Public vessels and vessels deemed public vessels under 14 U.S.C. 827.
+(1) Public vessels and vessels deemed public vessels under 14 U.S.C. 3908.
 
 (2) Vessels that, although constructed or adapted to carry oil in bulk as cargo or oil cargo residue, are not storing or carrying oil in bulk as cargo or oil cargo residue.
 
@@ -28,7 +28,7 @@
 
 (8) Vessels carrying oil as a secondary cargo and measuring 400 gross tons or greater.
 
-(d) Vessels covered by this subpart that are not operating within the navigable waters or the exclusive economic zone of the United States must meet all requirements of this subpart except for -
+(d) Vessels covered by this subpart that are not operating within the navigable waters or the exclusive economic zone of the United States must meet all requirements of this subpart except for—
 
 (1) Identifying and ensuring, through contract or other approved means, the availability of response resources including the shore-based spill management team;
 
@@ -40,4 +40,4 @@ Note to § 155.1015:
 
 Response plan requirements for nontank vessels are found in subpart J of this part.
 
-[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2000-7641, 66 FR 55572, Nov. 2, 2001; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013]
+[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2000-7641, 66 FR 55572, Nov. 2, 2001; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]

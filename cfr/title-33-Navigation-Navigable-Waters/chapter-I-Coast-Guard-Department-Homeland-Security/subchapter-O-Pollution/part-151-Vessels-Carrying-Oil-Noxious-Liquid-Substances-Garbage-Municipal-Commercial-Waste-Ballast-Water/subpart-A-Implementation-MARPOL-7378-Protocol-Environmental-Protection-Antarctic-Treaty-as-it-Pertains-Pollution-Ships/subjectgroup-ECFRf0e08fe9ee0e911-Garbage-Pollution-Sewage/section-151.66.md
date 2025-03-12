@@ -72,7 +72,7 @@
 
 (3) Discharges of bulk dry cargo residue under paragraph (b) of this section are allowed, subject to the conditions listed in Table 151.66(b)(3) of this section.
 
-Table 151.66(b)(3) - Bulk Dry Cargo Residue Dischrges Allowed on the Great Lakes
+Table 151.66(b)(3) - Bulk Dry Cargo Residue Discharges Allowed on the Great Lakes
 
 |                              Location                              |             Cargo             |                                                                                                                                                                                                                                                                                                                                                                                       Discharge allowed except as noted                                                                                                                                                                                                                                                                                                                                                                                        |
 |--------------------------------------------------------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -172,4 +172,4 @@ Table 151.66(b)(3) - Bulk Dry Cargo Residue Dischrges Allowed on the Great Lakes
 
 (v) After February 28, 2015, the use of Form CG-33 is optional. However, records must still be certified by the master, owner, operator, or person in charge; must be kept in written form on board the ship for at least 2 years; and must be made available for Coast Guard inspection upon request.
 
-[USCG-2004-19621, 79 FR 5279, Jan. 31, 2014, as amended by USCG-2014-0410, 79 FR 43646, July 28, 2014]
+[USCG-2004-19621, 79 FR 5279, Jan. 31, 2014, as amended by USCG-2014-0410, 79 FR 43646, July 28, 2014; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]

@@ -1,5 +1,7 @@
 ##### § 405.1834 CMS reviewing official procedure. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) *Scope.* A provider that is a party to, and dissatisfied with, a final decision by the contractor hearing officer(s), upon submitting a request that meets the requirements of paragraph (c) of this section, is entitled to further administrative review of the decision, or the decision may be reviewed at the discretion of the Administrator. No other individual, entity, or party has the right to the review. The review is conducted on behalf of the Administrator by a designated CMS reviewing official who considers whether the decision of the contractor hearing officer(s) is consistent with the controlling legal authority (as described in § 405.1834(e)(1) of this subpart) and the evidence in the record. Based on the review, the CMS reviewing official issues a decision on behalf of the Administrator.
 
 (b) *General rules.* (1) A CMS reviewing official may immediately review any final decision of the contractor hearing officer(s) as specified in paragraph (b)(2) of this section.

@@ -1,5 +1,7 @@
 ##### § 412.170 Definitions for the Hospital-Acquired Condition Reduction Program. #####
 
+Link to an amendment published at 85 FR 59022, Sept. 18, 2020.
+
 As used in this section and § 412.172, the following definitions apply:
 
 *Applicable hospital* is a hospital described in section 1886(d)(1)(B) of the Act (including a hospital in Maryland that is paid under the waiver under section 1814(b)(3) of the Act and that, absent the waiver specified by section 1814(b)(3) of the Act, would have been paid under the hospital inpatient prospective payment system) as long as the hospital meets the criteria specified under § 412.172(e).

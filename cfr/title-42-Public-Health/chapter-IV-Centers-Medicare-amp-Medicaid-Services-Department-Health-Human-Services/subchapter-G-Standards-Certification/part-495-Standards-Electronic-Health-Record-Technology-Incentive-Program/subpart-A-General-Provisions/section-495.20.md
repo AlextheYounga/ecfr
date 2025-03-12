@@ -1,5 +1,7 @@
 ##### § 495.20 Meaningful use objectives and measures for EPs, eligible hospitals, and CAHs before 2015. #####
 
+Link to an amendment published at 85 FR 59026, Sept. 18, 2020.
+
 The following criteria are applicable before 2015:
 
 (a) *Stage 1 criteria for EPs* - (1) *General rule regarding Stage 1 criteria for meaningful use for EPs.* Except as specified in paragraphs (a)(2) and (a)(3) of this section, EPs must meet all objectives and associated measures of the Stage 1 criteria specified in paragraph (d) of this section and five objectives of the EP's choice from paragraph (e) of this section to meet the definition of a meaningful EHR user.

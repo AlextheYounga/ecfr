@@ -1,5 +1,7 @@
 ##### § 412.87 Additional payment for new medical services and technologies: General provisions. #####
 
+Link to an amendment published at 85 FR 59020, Sept. 18, 2020.
+
 (a) *Basis.* Sections 412.87 and 412.88 implement sections 1886(d)(5)(K) and 1886(d)(5)(L) of the Act, which authorize the Secretary to establish a mechanism to recognize the costs of new medical services and technologies under the hospital inpatient prospective payment system.
 
 (b) *Eligibility criteria.* For discharges occurring on or after October 1, 2001, CMS provides for additional payments (as specified in § 412.88) beyond the standard DRG payments and outlier payments to a hospital for discharges involving covered inpatient hospital services that are new medical services and technologies, if the following conditions are met:

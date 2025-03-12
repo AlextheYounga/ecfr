@@ -1,5 +1,7 @@
 ##### § 405.1843 Parties to proceedings in a Board appeal. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) When a provider files a request for a hearing before the Board in accordance with § 405.1835 or § 405.1837 of this subpart, the parties to all proceedings in the Board appeal include the provider, a contractor, and, where applicable, any other entity found by the Board to be a related organization of the provider under the principles enunciated in § 413.17 of this chapter.
 
 (b) Neither the Secretary nor CMS may be made a party to proceedings in a Board appeal.

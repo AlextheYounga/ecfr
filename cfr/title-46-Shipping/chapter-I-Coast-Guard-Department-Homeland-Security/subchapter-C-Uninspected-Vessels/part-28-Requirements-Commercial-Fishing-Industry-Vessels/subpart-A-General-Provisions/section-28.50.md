@@ -36,7 +36,7 @@
 
 *Buoyant Apparatus* means a buoyant apparatus approved by the Commandant.
 
-*Coast Guard Boarding Officer* means a commissioned, warrant, or petty officer of the Coast Guard having authority to board any vessel under the Act of August 4, 1949, 63 Stat. 502, as amended (14 U.S.C. 89).
+*Coast Guard Boarding Officer* means a commissioned, warrant, or petty officer of the Coast Guard having authority to board any vessel under the Act of August 4, 1949, 63 Stat. 502, as amended (14 U.S.C. 522).
 
 *Coast Guard Representative* means a person employed at the cognizant U.S. Coast Guard Sector Office or Marine Inspection Office, or an accepted organization, or a similarly qualified organization approved in examining commercial fishing industry vessels. Contact Commandant (CG-CVC-3); Attn: Fishing Vessels Division, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501 for a current list of accepted organizations or similarly qualified organizations.
 
@@ -88,7 +88,7 @@
 
 *Liferaft* means a liferaft approved by the Commandant.
 
-*Major conversion* means a conversion of a vessel that -
+*Major conversion* means a conversion of a vessel that—
 
 (1) Substantially changes the dimensions or carrying capacity of the vessel;
 

@@ -1,3 +1,5 @@
 ##### § 405.1819 Conduct of contractor hearing. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 The hearing shall be open to all parties thereto (see § 405.1815) and to representatives of the contractor and of the Centers for Medicare & Medicaid Services (see § 405.1815). The hearing officer(s) shall inquire fully into all of the matters at issue and shall receive into evidence the testimony and any documents which are relevant and material to such matters. If the hearing officer(s) believes that there is relevant and material evidence available which has not been presented at the hearing, he (they) may, at any time prior to the mailing of notice of the decision, reopen the hearing record for the receipt of such evidence. The order in which the evidence and the allegations shall be presented and the conduct of the hearing shall be at the discretion of the hearing officer(s).

@@ -4,4 +4,4 @@
 
 (b) The term “small motorboats” shall be interpreted in the light of the things and conditions with which it is associated. The term means rowboats, canoes and other similar craft with outboard motors. It does not include sailing or cabin cruiser craft.
 
-(14 U.S.C. 633; 33 U.S.C. 401, 491, and 525; and 49 CFR 1.46(c))[CGFR 67-46, 32 FR 17771, Dec. 12, 1967, as amended by CGD 81-076, 46 FR 54936, Nov. 5, 1981; USCG-1998-3799, 63 FR 35527, June 30, 1998; USCG-2013-0397, 78 FR 39174, July 1, 2013]
+(14 U.S.C. 503; 33 U.S.C. 401, 491, and 525; and 49 CFR 1.46(c))[CGFR 67-46, 32 FR 17771, Dec. 12, 1967, as amended by CGD 81-076, 46 FR 54936, Nov. 5, 1981; USCG-1998-3799, 63 FR 35527, June 30, 1998; USCG-2013-0397, 78 FR 39174, July 1, 2013; USCG-2020-0304, 85 FR 58278, Sept. 18, 2020]

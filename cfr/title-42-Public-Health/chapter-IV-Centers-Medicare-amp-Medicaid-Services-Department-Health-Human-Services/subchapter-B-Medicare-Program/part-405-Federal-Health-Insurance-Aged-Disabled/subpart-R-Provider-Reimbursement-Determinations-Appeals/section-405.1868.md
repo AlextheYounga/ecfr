@@ -1,5 +1,7 @@
 ##### § 405.1868 Board actions in response to failure to follow Board rules. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) The Board has full power and authority to make rules and establish procedures, not inconsistent with the law, regulations, and CMS Rulings, that are necessary or appropriate to carry out the provisions of section 1878 of the Act and of the regulations in this subpart. The Board's powers include the authority to take appropriate actions in response to the failure of a party to a Board appeal to comply with Board rules and orders or for inappropriate conduct during proceedings in the appeal.
 
 (b) If a provider fails to meet a filing deadline or other requirement established by the Board in a rule or order, the Board may -

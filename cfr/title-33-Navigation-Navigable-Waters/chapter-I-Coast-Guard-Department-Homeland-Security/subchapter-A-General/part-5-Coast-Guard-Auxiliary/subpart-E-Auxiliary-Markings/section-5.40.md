@@ -14,4 +14,6 @@
 
 (c)(1) Any person who desires to reproduce Coast Guard Auxiliary markings for non-Coast Guard Auxiliary use must obtain approval from Commandant (CG-BSX-11), Attn: Auxiliary Division, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Ave. SE., Washington, DC 20593-7501.
 
-(2) Unauthorized use of Auxiliary markings is subject to the penalties of 14 U.S.C. 638, 639 and 892.
+(2) Unauthorized use of Auxiliary markings is subject to the penalties of 14 U.S.C. 933, 934, 4102.
+
+[USCG-1999-6712, 80 FR 3476, Jan. 23, 2015, as amended by USCG-2020-0304, 85 FR 58276, Sept. 18, 2020]

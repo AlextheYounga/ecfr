@@ -1,9 +1,11 @@
 ##### § 161.1 Purpose and Intent. #####
 
-(a) The purpose of this part is to promulgate regulations implementing and enforcing certain sections of the Ports and Waterways Safety Act (PWSA) setting up a national system of Vessel Traffic Services that will enhance navigation, vessel safety, and marine environmental protection, and promote safe vessel movement by reducing the potential for collisions, rammings, and groundings, and the loss of lives and property associated with these incidents within VTS areas established hereunder.
+(a) The purpose of this part is to promulgate regulations implementing and enforcing certain sections of the 46 U.S.C. Chapter 700 “Ports and Waterways Safety setting up a national system of Vessel Traffic Services that will enhance navigation, vessel safety, and marine environmental protection, and promote safe vessel movement by reducing the potential for collisions, rammings, and groundings, and the loss of lives and property associated with these incidents within VTS areas established hereunder.
 
 (b) Vessel Traffic Services provide the mariner with information related to the safe navigation of a waterway. This information, coupled with the mariner's compliance with the provisions set forth in this part, enhances the safe routing of vessels through congested waterways or waterways of particular hazard. Under certain circumstances, a VTS may issue directions to control the movement of vessels in order to minimize the risk of collision between vessels, or damage to property or the environment.
 
 (c) The owner, operator, charterer, master, or person directing the movement of a vessel remains at all times responsible for the manner in which the vessel is operated and maneuvered, and is responsible for the safe navigation of the vessel under all circumstances. Compliance with these rules or with a direction of the VTS is at all times contingent upon the exigencies of safe navigation.
 
 (d) Nothing in this part is intended to relieve any vessel, owner, operator, charterer, master, or person directing the movement of a vessel from the consequences of any neglect to comply with this part or any other applicable law or regulation (e.g., the International Regulations for Prevention of Collisions at Sea, 1972 (72 COLREGS) or the Inland Navigation Rules) or of the neglect of any precaution which may be required by the ordinary practice of seamen, or by the special circumstances of the case.
+
+[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]

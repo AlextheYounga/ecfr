@@ -22,4 +22,4 @@ Note:
 
 Although regulatory jurisdiction is limited to the navigable waters of the United States, certain vessels will be encouraged or may be required, as a condition of port entry, to report beyond this area to facilitate traffic management within the VTS area.
 
-(Rule 1, International Regulations for Preventing Collisions at Sea, 1972 (as rectified); E.O. 11964 (14 U.S.C. 2); 49 CFR 1.46(b))[CGD 71-114R, 37 FR 12720, June 28, 1972, as amended by CGD 77-118a, 42 FR 35784, July 11, 1977; CGD 90-020, 59 FR 36322, July 15, 1994; USCG-2001-9044, 68 FR 42601, July 18, 2003]
+(Rule 1, International Regulations for Preventing Collisions at Sea, 1972 (as rectified); E.O. 11964 (14 U.S.C. 102); 49 CFR 1.46(b))[CGD 71-114R, 37 FR 12720, June 28, 1972, as amended by CGD 77-118a, 42 FR 35784, July 11, 1977; CGD 90-020, 59 FR 36322, July 15, 1994; USCG-2001-9044, 68 FR 42601, July 18, 2003; USCG-2020-0304, 85 FR 58276, Sept. 18, 2020]

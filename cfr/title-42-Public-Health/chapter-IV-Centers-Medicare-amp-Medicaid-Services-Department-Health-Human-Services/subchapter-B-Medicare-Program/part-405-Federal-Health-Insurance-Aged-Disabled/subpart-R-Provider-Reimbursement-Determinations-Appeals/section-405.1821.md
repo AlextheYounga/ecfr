@@ -1,5 +1,7 @@
 ##### § 405.1821 Prehearing discovery and other proceedings prior to the contractor hearing. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) *Discovery rule: Time limits.* (1) Limited prehearing discovery may be permitted by the contractor hearing officer(s) upon request of a party, provided the request is timely and the hearing officer(s) makes a preliminary finding of its jurisdiction over the matters at issue in accordance with § 405.1814(a) of this subpart.
 
 (2) A prehearing discovery request is timely if the request by a party is served no later than 120 days before the initially scheduled starting date of the contractor hearing, unless the contractor hearing officer(s) extends the time for requesting discovery.

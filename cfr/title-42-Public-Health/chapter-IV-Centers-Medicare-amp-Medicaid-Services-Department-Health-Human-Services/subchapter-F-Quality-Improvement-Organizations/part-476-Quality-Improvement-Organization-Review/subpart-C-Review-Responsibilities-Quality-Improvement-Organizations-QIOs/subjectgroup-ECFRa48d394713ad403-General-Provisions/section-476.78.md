@@ -1,5 +1,7 @@
 ##### § 476.78 Responsibilities of providers and practitioners. #####
 
+Link to an amendment published at 85 FR 59025, Sept. 18, 2020.
+
 (a) Every hospital seeking payment for services furnished to Medicare beneficiaries must maintain a written agreement with a QIO operating in the area in which the hospital is located. These agreements must provide for the QIO review specified in § 476.71.
 
 (b) *Cooperation with QIOs.* Health care providers that submit Medicare claims must cooperate in the assumption and conduct of QIO review.

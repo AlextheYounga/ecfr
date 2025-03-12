@@ -10,13 +10,13 @@
 
 (4) To carry out the functions of the Secretary under the Act of October 9, 1962, as amended (10 U.S.C. 2737);
 
-(5) To carry out the functions of the Secretary under the Act of August 16, 1937, as amended (14 U.S.C. 642);
+(5) To carry out the functions of the Secretary under the Act of August 16, 1937, as amended (14 U.S.C. 546);
 
-(6) To carry out the functions of the Secretary under the Act of June 15, 1936, as amended (14 U.S.C. 646);
+(6) To carry out the functions of the Secretary under the Act of June 15, 1936, as amended (14 U.S.C. 937);
 
-(7) To carry out the functions of the Secretary under the Act of August 4, 1949, as amended (14 U.S.C. 647);
+(7) To carry out the functions of the Secretary under the Act of August 4, 1949, as amended (14 U.S.C. 938);
 
-(8) To carry out the functions of the Secretary under the Act of February 19, 1941, as amended (14 U.S.C. 830);
+(8) To carry out the functions of the Secretary under the Act of February 19, 1941, as amended (14 U.S.C. 3911);
 
 (9) To carry out the functions of the head of a Federal agency's designee under the Federal Tort Claims Act, as amended (28 U.S.C. 2672);
 
@@ -36,4 +36,4 @@ Under the Military Claims Act (10 U.S.C. 2733), the Secretary has authorized the
 
 (b) The Director of Finance and Procurement is delegated the authority to carry out the functions of the head of an agency under the Federal Claims Collection Act of 1966, as amended (31 U.S.C. 3711).
 
-[CGD 80-033, 46 FR 27109, May 18, 1981, as amended by CGD 82-112, 48 FR 4773, Feb. 3, 1983; USCG-2001-9286, 66 FR 33639, June 25, 2001]
+[CGD 80-033, 46 FR 27109, May 18, 1981, as amended by CGD 82-112, 48 FR 4773, Feb. 3, 1983; USCG-2001-9286, 66 FR 33639, June 25, 2001; USCG-2020-0304, 85 FR 58276, Sept. 18, 2020]

@@ -1,5 +1,7 @@
 ##### § 405.1857 Subpoenas. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) *Time limits.* (1) The Board may issue a subpoena -
 
 (i) To a party to a Board appeal or to a nonparty other than CMS or the Secretary or any Federal agency, requiring the attendance and testimony of witnesses or the production of documents for inspection and copying, provided the Board makes a preliminary finding of its jurisdiction over the matters at issue in accordance with § 405.1840(a) of this subpart.

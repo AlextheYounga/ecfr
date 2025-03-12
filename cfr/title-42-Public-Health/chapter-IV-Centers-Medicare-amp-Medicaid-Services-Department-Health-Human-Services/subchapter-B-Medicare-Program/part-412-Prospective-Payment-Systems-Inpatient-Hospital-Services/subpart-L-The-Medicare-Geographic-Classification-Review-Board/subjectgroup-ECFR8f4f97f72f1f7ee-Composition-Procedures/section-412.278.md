@@ -1,5 +1,7 @@
 ##### § 412.278 Administrator's review. #####
 
+Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
+
 (a) *Hospitals requests for review.* A hospital or group of hospitals dissatisfied with the MGCRB's decision regarding its geographic designation may request the Administrator to review the MGCRB decision. (A hospital or group of hospitals may also request that the Administrator review the MGCRB's dismissal of an application as untimely filed or incomplete, as provided in § 412.256(d).)
 
 (b) *Procedures for hospital's request for review.* (1) The hospital's request for review must be in writing and sent to the Administrator, in care of the Office of the Attorney Advisor. The request must be received by the Administrator within 15 days after the date the MGCRB issues its decision. A request for Administrator review filed by facsimile (FAX) or other electronic means will not be accepted. The hospital must also mail a copy of its request for review to CMS's Hospital and Ambulatory Policy Group.

@@ -28,7 +28,7 @@
 
 (e) Watch requirements for anchored and moored passenger vessels.
 
-(1) *Passenger vessels.* Except as provided in paragraph (e)(2) of this section, each passenger vessel with one or more passengers on board, must -
+(1) *Passenger vessels.* Except as provided in paragraph (e)(2) of this section, each passenger vessel with one or more passengers on board, must—
 
 (i) Keep a continuously manned pilothouse; and
 
@@ -58,4 +58,4 @@ Note to § 165.810:
 
 Control Light provisions (previously referenced in paragraph (c) of this section) used to manage vessel traffic during periods of high waters in the vicinity of Algiers Point are located in 33 CFR 161.65(c). The special operating requirements (previously referenced in paragraph (g) of this section) used to manage vessel traffic in the vicinity of Eighty-one Mile Point are located in 33 CFR 161.65(e).
 
-(Sec. 104, Pub. L. 92-340, 86 Stat. 424 (33 U.S.C. 1224); sec. 2, Pub. L. 95-474, 92 Stat. 1471 (33 U.S.C. 1223); 49 CFR 1.46(n)(4))[CGD 75-082, 42 FR 51759, Sept. 29, 1977]Editorial Note:For Federal Register citations affecting § 165.810, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(46 U.S.C. 70034; 49 CFR 1.46(n)(4))[CGD 75-082, 42 FR 51759, Sept. 29, 1977]Editorial Note:For Federal Register citations affecting § 165.810, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

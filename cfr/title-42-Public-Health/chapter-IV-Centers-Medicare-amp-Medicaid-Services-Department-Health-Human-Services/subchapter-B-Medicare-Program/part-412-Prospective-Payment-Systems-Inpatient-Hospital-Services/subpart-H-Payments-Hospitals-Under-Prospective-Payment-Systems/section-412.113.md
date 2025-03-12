@@ -1,5 +1,7 @@
 ##### § 412.113 Other payments. #####
 
+Link to an amendment published at 85 FR 59022, Sept. 18, 2020.
+
 (a) *Capital-related costs* - (1) *Payment.* Subject to the reductions described in paragraph (a)(2) of this section, payment for capital-related costs (as described in § 413.130 of this chapter) for cost reporting periods beginning before October 1, 1991 is determined on a reasonable cost basis.
 
 (2) *Reduction to capital-related payments.* (i) Except for sole community hospitals as defined in § 412.92, the amount of capital-related payments for cost-reporting periods beginning before October 1, 1991 (including a return on equity capital as provided under § 413.157 of this chapter) is reduced by -

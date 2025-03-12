@@ -1,5 +1,7 @@
 ##### § 412.92 Special treatment: Sole community hospitals. #####
 
+Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
+
 (a) *Criteria for classification as a sole community hospital.* CMS classifies a hospital as a sole community hospital if it is located more than 35 miles from other like hospitals, or it is located in a rural area (as defined in § 412.64) and meets one of the following conditions:
 
 (1) The hospital is located between 25 and 35 miles from other like hospitals and meets one of the following criteria:

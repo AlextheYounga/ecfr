@@ -36,7 +36,7 @@
 
 (17) Facility Security Assessment (FSA) report;
 
-(18) Facility Vulnerability and Security Measures Summary (Form CG-6025) in appendix A to this part;
+(18) Facility Vulnerability and Security Measures Summary (Form CG-6025) available at *https://www.dcms.uscg.mil/forms/*;
 
 (19)-(20) [Reserved]
 
@@ -48,4 +48,4 @@
 
 (c) The Facility Vulnerability and Security Measures Summary (Form CG-6025) must be completed using information in the FSA concerning identified vulnerabilities and information in the FSP concerning security measures in mitigation of these vulnerabilities.
 
-[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended by USCG-2006-24196, 72 FR 3585, Jan. 25, 2007; USCG-2006-23846, 83 FR 12102, Mar. 19, 2018; USCG-2007-28915, 81 FR 57713, Aug. 23, 2016; USCG-2013-1087, 84 FR 12119, Apr. 1, 2019]
+[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended by USCG-2006-24196, 72 FR 3585, Jan. 25, 2007; USCG-2006-23846, 83 FR 12102, Mar. 19, 2018; USCG-2007-28915, 81 FR 57713, Aug. 23, 2016; USCG-2013-1087, 84 FR 12119, Apr. 1, 2019; USCG-2020-0304, 85 FR 58278, Sept. 18, 2020]

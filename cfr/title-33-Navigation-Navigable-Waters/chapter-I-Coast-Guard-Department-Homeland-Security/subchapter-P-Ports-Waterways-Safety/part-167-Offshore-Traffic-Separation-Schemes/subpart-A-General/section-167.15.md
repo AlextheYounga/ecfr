@@ -1,5 +1,7 @@
 ##### § 167.15 Modification of schemes. #####
 
-(a) A traffic separation scheme or precautionary area described in this part may be permanently amended in accordance with 33 U.S.C. 1223 (92 Stat. 1473), and with international agreements.
+(a) A traffic separation scheme or precautionary area described in this part may be permanently amended in accordance with 46 U.S.C. 70003 (92 Stat. 1473), and with international agreements.
 
 (b) A traffic separation scheme or precautionary area in this part may be temporarily adjusted by the Commandant of the Coast Guard in an emergency, or to accommodate operations which would create an undue hazard for vessels using the scheme or which would contravene Rule 10 of the International Regulations for Preventing Collisions at Sea, 1972. Adjustment may be in the form of a temporary traffic lane shift, a temporary suspension of a section of the scheme, a temporary precautionary area overlaying a lane, or other appropriate measure. Adjustments will only be made where, in the judgment of the Coast Guard, there is no reasonable alternative means of conducting an operation and navigation safety will not be jeopardized by the adjustment. Notice of adjustments will be made in the appropriate Notice to Mariners and in the Federal Register. Requests by members of the public for temporary adjustments to traffic separation schemes must be submitted 150 days prior to the time the adjustment is desired. Such Requests, describing the interference that would otherwise occur to a TSS, should be submitted to the District Commander of the Coast Guard District in which the TSS is located.
+
+[CGD 81-080, 48 FR 36456, Aug. 11, 1983, as amended by USCG-2020-0304, 85 FR 58281, Sept. 18, 2020]

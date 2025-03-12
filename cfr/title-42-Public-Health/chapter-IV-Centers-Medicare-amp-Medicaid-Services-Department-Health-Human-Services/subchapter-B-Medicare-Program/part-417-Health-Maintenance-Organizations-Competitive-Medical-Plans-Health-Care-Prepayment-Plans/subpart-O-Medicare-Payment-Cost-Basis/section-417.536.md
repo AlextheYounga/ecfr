@@ -1,5 +1,7 @@
 ##### § 417.536 Cost payment principles. #####
 
+Link to an amendment published at 85 FR 59025, Sept. 18, 2020.
+
 (a) *Applicability.* Unless otherwise specified in this subpart, the principles set forth in parts 412 and 413 of this chapter are applicable to the costs incurred by an HMO or CMP or by providers and other facilities owned or operated by the HMO or CMP or related to it by common ownership or control. The most common examples of these costs are set forth in this section.
 
 (b) *Depreciation.* An appropriate allowance for depreciation on buildings and equipment is an allowable cost, in accordance with §§ 413.134, 413.144, and 413.149 of this chapter.

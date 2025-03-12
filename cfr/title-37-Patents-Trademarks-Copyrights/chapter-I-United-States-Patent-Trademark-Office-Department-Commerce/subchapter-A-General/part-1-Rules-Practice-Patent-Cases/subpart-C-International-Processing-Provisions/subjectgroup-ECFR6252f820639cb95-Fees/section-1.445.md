@@ -1,6 +1,6 @@
 ##### § 1.445 International application filing, processing and search fees. #####
 
-Link to an amendment published at 85 FR 46990, Aug. 3, 2020.
+Link to an amendment published at 85 FR 46990, Aug. 3, 2020.Link to a correction of the above amendment published at 85 FR 58283, Sept. 18, 2020.
 
 (a) The following fees and charges for international applications are established by law or by the Director under the authority of 35 U.S.C. 376:
 

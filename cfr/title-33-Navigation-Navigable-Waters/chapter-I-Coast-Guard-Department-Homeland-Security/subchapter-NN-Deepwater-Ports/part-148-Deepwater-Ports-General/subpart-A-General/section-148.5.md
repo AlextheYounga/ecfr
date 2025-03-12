@@ -66,7 +66,7 @@ As used in this subchapter:
 
 *Coastal State* means a State of the United States in or bordering the Atlantic, Pacific, or Arctic Oceans or the Gulf of Mexico.
 
-*Commandant (CG-5P)* means the Assistant Commandant for Prevention, or that individual's authorized representative, at Commandant (CG-5P), Attn: Assistant Commandant for Prevention, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501.
+*Commandant (CG-5P)* means the Assistant Commandant for Prevention, or that individual's authorized representative, at Commandant (CG-5P), Attn: Assistant Commandant for Prevention Policy, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501.
 
 *Confined space* means a space that may contain a dangerous atmosphere, including a space that:
 
@@ -216,4 +216,4 @@ As used in this subchapter:
 
 *Vessel* means every description of watercraft, including non-displacement craft e.g., wing-in-ground (WIG) craft, seaplanes) capable of being used, as a means of transportation on or through the water.
 
-[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2010-0351, 75 FR 36284, June 25, 2010; USCG-2013-0397, 78 FR 39175, July 1, 2013; USCG-2014-0410, 79 FR 38435, July 7, 2014]
+[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2010-0351, 75 FR 36284, June 25, 2010; USCG-2013-0397, 78 FR 39175, July 1, 2013; USCG-2014-0410, 79 FR 38435, July 7, 2014; USCG-2020-0304, 85 FR 58279, Sept. 18, 2020]

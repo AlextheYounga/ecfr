@@ -1,5 +1,7 @@
 ##### § 480.111 QIO access to records and information of institutions and practitioners. #####
 
+Link to an amendment published at 85 FR 59026, Sept. 18, 2020.
+
 (a) A QIO is authorized to have access to and obtain records and information pertinent to the health care services furnished to Medicare patients, held by any institution or practitioner in the QIO area. The QIO may require the institution or practitioner to provide copies of such records or information to the QIO.
 
 (b) A QIO may obtain non-Medicare patient records relating to review performed under a non-Medicare QIO contract if authorized by those patients in accordance with State law.

@@ -1,5 +1,7 @@
 ##### § 413.20 Financial data and reports. #####
 
+Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
+
 (a) *General.* The principles of cost reimbursement require that providers maintain sufficient financial records and statistical data for proper determination of costs payable under the program. Standardized definitions, accounting, statistics, and reporting practices that are widely accepted in the hospital and related fields are followed. Changes in these practices and systems will not be required in order to determine costs payable under the principles of reimbursement. Essentially the methods of determining costs payable under Medicare involve making use of data available from the institution's basis accounts, as usually maintained, to arrive at equitable and proper payment for services to beneficiaries.
 
 (b) *Frequency of cost reports.* Cost reports are required from providers on an annual basis with reporting periods based on the provider's accounting year. In the interpretation and application of the principles of reimbursement, the fiscal contractors will be an important source of consultative assistance to providers and will be available to deal with questions and problems on a day-to-day basis.

@@ -1,5 +1,7 @@
 ##### § 413.89 Bad debts, charity, and courtesy allowances. #####
 
+Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
+
 (a) *Principle.* Bad debts, charity, and courtesy allowances are deductions from revenue and are not to be included in allowable cost. However, subject to the limitations described under paragraph (h) of this section and the exception for services described under paragraph (i) of this section, bad debts attributable to the deductibles and coinsurance amounts are reimbursable under the program.
 
 (b) *Definitions* - (1) *Bad debts.* Bad debts are amounts considered to be uncollectible from accounts and notes receivable that were created or acquired in providing services. “Accounts receivable” and “notes receivable” are designations for claims arising from the furnishing of services, and are collectible in money in the relatively near future.

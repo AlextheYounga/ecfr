@@ -1,5 +1,7 @@
 ##### § 405.1811 Right to contractor hearing; contents of, and adding issues to, hearing request. #####
 
+Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
+
 (a) *Right to hearing on final contractor determination.* A provider (but no other individual, entity, or party) has a right to a contractor hearing, as a single provider appeal, with respect to a final contractor or Secretary determination for the provider's cost reporting period, if -
 
 (1) The provider is dissatisfied with the contractor's final determination of the total amount of reimbursement due the provider, as set forth in the contractor's written notice pursuant to § 405.1803. Exception: If a final contractor determination is reopened under § 405.1885, any review by the contractor hearing officer must be limited solely to those matters that are specifically revised in the contractor's revised final determination (§§ 405.1887(d), 405.1889(b), and the “Exception” in § 405.1832(c)(2)(i)).

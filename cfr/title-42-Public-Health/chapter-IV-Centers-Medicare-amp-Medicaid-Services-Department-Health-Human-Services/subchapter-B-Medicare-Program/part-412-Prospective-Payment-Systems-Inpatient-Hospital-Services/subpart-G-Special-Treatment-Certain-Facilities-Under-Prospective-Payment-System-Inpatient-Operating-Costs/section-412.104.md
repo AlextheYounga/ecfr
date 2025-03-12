@@ -1,5 +1,7 @@
 ##### § 412.104 Special treatment: Hospitals with high percentage of ESRD discharges. #####
 
+Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
+
 (a) *Criteria for classification.* CMS provides an additional payment to a hospital for inpatient services provided to ESRD beneficiaries who receive a dialysis treatment during a hospital stay, if the hospital has established that ESRD beneficiary discharges, excluding discharges classified into MS-DRG 652 (Renal Failure), MS-DRG 682 (Renal Failure with MCC), MS-DRG 683 (Renal Failure with CC), MS-DRG 684 (Renal Failure without CC/MCC) and MS-DRG 685 (Admit for Renal Dialysis), where the beneficiary received dialysis services during the inpatient stay, constitute 10 percent or more of its total Medicare discharges.
 
 (b) *Additional payment.* A hospital that meets the criteria of paragraph (a) of this section is paid an additional payment for each ESRD beneficiary discharge except those excluded under paragraph (a) of this section.

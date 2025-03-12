@@ -1,8 +1,8 @@
 ##### § 164.46 Automatic Identification System. #####
 
-(a) *Definitions.* As used in this section -
+(a) *Definitions.* As used in this section—
 
-*Automatic Identification Systems* or *AIS* means a maritime navigation safety communications system standardized by the International Telecommunication Union (ITU), adopted by the International Maritime Organization (IMO), that -
+*Automatic Identification Systems* or *AIS* means a maritime navigation safety communications system standardized by the International Telecommunication Union (ITU), adopted by the International Maritime Organization (IMO), that—
 
 (1) Provides vessel information, including the vessel's identity, type, position, course, speed, navigational status and other safety-related information automatically to appropriately equipped shore stations, other ships, and aircraft;
 
@@ -16,7 +16,7 @@
 
 *Properly installed, operational* means an Automatic Identification System (AIS) that is installed and operated using the guidelines set forth by the International Maritime Organization (IMO) Resolution A.917(22) and Safety of Navigation Circulars (SN/Circ.) 227, 244, 245, and SN.1/Circ.289; or National Marine Electronics Association (NMEA) Installation Standard 0400-3.10 in lieu of SN/Circ.227 and 245 (incorporated by reference, see § 164.03).
 
-(b) *AIS carriage* - (1) *AIS Class A device.* The following vessels must have on board a properly installed, operational Coast Guard type-approved AIS Class A device:
+(b) *AIS carriage*—(1) *AIS Class A device.* The following vessels must have on board a properly installed, operational Coast Guard type-approved AIS Class A device:
 
 (i) A self-propelled vessel of 65 feet or more in length, engaged in commercial service.
 
@@ -26,7 +26,7 @@
 
 (iv) A self-propelled vessel engaged in dredging operations in or near a commercial channel or shipping fairway in a manner likely to restrict or affect navigation of other vessels.
 
-(v) A self-propelled vessel engaged in the movement of -
+(v) A self-propelled vessel engaged in the movement of—
 
 (A) Certain dangerous cargo as defined in subpart C of part 160 of this chapter, or
 
@@ -36,7 +36,7 @@
 
 (i) Fishing industry vessels;
 
-(ii) Vessels identified in paragraph (b)(1)(i) of this section that are certificated to carry less than 150 passengers and that -
+(ii) Vessels identified in paragraph (b)(1)(i) of this section that are certificated to carry less than 150 passengers and that—
 
 (A) Do not operate in a Vessel Traffic Service (VTS) or Vessel Movement Reporting System (VMRS) area defined in Table 161.12(c) of § 161.12 of this chapter, and
 
@@ -46,7 +46,7 @@
 
 Note to paragraph (b):
 
-Under 33 U.S.C. 1223(b)(3) and 33 CFR 160.111, a Coast Guard Captain of the Port (COTP) may restrict the operation of a vessel if he or she determines that by reason of weather, visibility, sea conditions, port congestion, other hazardous circumstances, or the condition of such vessel, the restriction is justified in the interest of safety. In certain circumstances, if a COTP is concerned that the operation of a vessel not subject to § 164.46 would be unsafe, the COTP may determine that voluntary installation of AIS by the operator would mitigate that concern. Fishing industry vessels include fishing vessels, fish processing vessels, and fish tender vessels as defined in 46 U.S.C. 2101.
+Under 46 U.S.C. 70002 and 33 CFR 160.111, a Coast Guard Captain of the Port (COTP) may restrict the operation of a vessel if he or she determines that by reason of weather, visibility, sea conditions, port congestion, other hazardous circumstances, or the condition of such vessel, the restriction is justified in the interest of safety. In certain circumstances, if a COTP is concerned that the operation of a vessel not subject to § 164.46 would be unsafe, the COTP may determine that voluntary installation of AIS by the operator would mitigate that concern. Fishing industry vessels include fishing vessels, fish processing vessels, and fish tender vessels as defined in 46 U.S.C. 2101.
 
 (c) *SOLAS provisions.* The following self-propelled vessels must comply with International Convention for Safety of Life at Sea (SOLAS), as amended, Chapter V, regulation 19.2.1.6 (Positioning System), 19.2.4 (AIS Class A), and 19.2.3.5 (Transmitting Heading Device) or 19.2.5.1 (Gyro Compass) as applicable (Incorporated by reference, see § 164.03):
 
@@ -58,7 +58,7 @@ Under 33 U.S.C. 1223(b)(3) and 33 CFR 160.111, a Coast Guard Captain of the Port
 
 (1) Use of AIS does not relieve the vessel of the requirements to sound whistle signals or display lights or shapes in accordance with the International Regulations for Preventing Collisions at Sea, 1972 (72 COLREGS), 28 U.S.T. 3459, T.I.A.S. 8587, or Inland Navigation Rules, 33 CFR part 83; nor of the radio requirements of the Vessel Bridge-to-Bridge Radiotelephone Act, 33 U.S.C. 1201-1208, part 26 of this chapter, and 47 CFR part 80.
 
-(2) AIS must be maintained in effective operating condition, which includes -
+(2) AIS must be maintained in effective operating condition, which includes—
 
 (i) The ability to reinitialize the AIS, which requires access to and knowledge of the AIS power source and password;
 
@@ -100,4 +100,4 @@ The Coast Guard has developed the “U.S. AIS Encoding Guide” to help ensure c
 
 (j) *Implementation date.* Those vessels identified in paragraphs (b) and (c) of this section that were not previously subject to AIS carriage must install AIS no later than March 1, 2016.
 
-[USCG-2005-21869, 80 FR 5335, Jan. 30, 2015, as amended at 80 FR 17327, Apr. 1, 2015; USCG-2016-0498, 82 FR 35088, July 28, 2017]
+[USCG-2005-21869, 80 FR 5335, Jan. 30, 2015, as amended at 80 FR 17327, Apr. 1, 2015; USCG-2016-0498, 82 FR 35088, July 28, 2017; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]

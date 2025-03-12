@@ -1,5 +1,7 @@
 ##### § 405.1885 Reopening a contractor determination or reviewing entity decision. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) *General.* (1) A Secretary determination, a contractor determination, or a decision by a reviewing entity (as described in § 405.1801(a)) may be reopened, with respect to specific findings on matters at issue in a determination or decision, by CMS (with respect to Secretary determinations), by the contractor (with respect to contractor determinations), or by the reviewing entity that made the decision (as described in paragraph (c) of this section).
 
 (i) A specific finding on a matter at issue may be legal or factual in nature or a mixed matter of both law and fact.

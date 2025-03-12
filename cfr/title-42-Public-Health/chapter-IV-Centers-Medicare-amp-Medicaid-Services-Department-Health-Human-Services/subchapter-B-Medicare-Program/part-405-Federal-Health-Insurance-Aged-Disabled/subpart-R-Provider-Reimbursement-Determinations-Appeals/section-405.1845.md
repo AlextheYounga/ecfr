@@ -1,5 +1,7 @@
 ##### § 405.1845 Composition of Board; hearings, decisions, and remands. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) The Board will consist of five members appointed by the Secretary. All shall be knowledgeable in the field of cost reimbursement. At least one shall be a certified public accountant. Two Board members shall be representative of providers of services.
 
 (b) The term of office for Board members shall be 3 years, except that initial appointments may be for such shorter terms as the Secretary may designate to permit staggered terms of office. No member shall serve more than two consecutive 3-year terms of office. The Secretary shall have the authority to terminate a Board member's term of office for good cause.

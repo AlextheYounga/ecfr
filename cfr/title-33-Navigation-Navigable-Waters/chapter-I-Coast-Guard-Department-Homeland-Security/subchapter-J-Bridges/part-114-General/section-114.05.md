@@ -20,6 +20,6 @@ The following definitions apply to this subchapter:
 
 *Secretary* means the Secretary of Homeland Security or any person to whom he or she has delegated his or her authority in the matter concerned.
 
-*United States Coast Guard or Coast Guard* means the organization or agency established by the Act of January 28, 1915, as amended (14 U.S.C. 1).
+*United States Coast Guard or Coast Guard* means the organization or agency established by the Act of January 28, 1915, as amended (14 U.S.C. 101).
 
-[USCG-2012-0306, 77 FR 37313, June 21, 2012]
+[USCG-2012-0306, 77 FR 37313, June 21, 2012, as amended by USCG-2020-0304, 85 FR 58278, Sept. 18, 2020]

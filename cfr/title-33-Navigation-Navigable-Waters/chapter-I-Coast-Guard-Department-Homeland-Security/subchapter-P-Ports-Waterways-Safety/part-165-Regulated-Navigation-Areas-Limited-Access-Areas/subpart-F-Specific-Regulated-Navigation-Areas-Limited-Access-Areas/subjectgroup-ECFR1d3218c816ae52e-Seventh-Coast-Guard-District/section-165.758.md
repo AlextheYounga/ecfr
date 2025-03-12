@@ -10,6 +10,6 @@
 
 (c) *Definition.* As used in this section, *cruise ship* means a passenger vessel greater than 100 feet in length that is authorized to carry more than 150 passengers for hire, except for a ferry.
 
-(d) *Authority.* In addition to 33 U.S.C 1231 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
+(d) *Authority.* In addition to 46 U.S.C. 70034 and 70051, the authority for this section includes 46 U.S.C. 70116.
 
-[CGD07-02-042, 67 FR 76991, Dec. 16, 2002, as amended by USCG-2008-0179, 73 FR 35017, June 19, 2008]
+[CGD07-02-042, 67 FR 76991, Dec. 16, 2002, as amended by USCG-2008-0179, 73 FR 35017, June 19, 2008; USCG-2020-0304, 85 FR 58281, Sept. 18, 2020]

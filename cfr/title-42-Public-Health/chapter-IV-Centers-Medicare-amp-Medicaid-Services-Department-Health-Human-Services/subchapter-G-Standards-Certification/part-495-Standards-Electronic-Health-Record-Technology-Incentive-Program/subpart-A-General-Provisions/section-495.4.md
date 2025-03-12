@@ -1,5 +1,7 @@
 ##### § 495.4 Definitions. #####
 
+Link to an amendment published at 85 FR 59026, Sept. 18, 2020.
+
 In this part, unless otherwise indicated -
 
 *Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.

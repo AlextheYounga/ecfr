@@ -1,5 +1,7 @@
 ##### § 412.82 Payment for extended length-of-stay cases (day outliers). #####
 
+Link to an amendment published at 85 FR 59020, Sept. 18, 2020.
+
 (a) For discharges occurring before October 1, 1997, if the hospital stay reflected by a discharge includes covered days of care beyond the applicable threshold criterion, the intermediary will make an additional payment, on a per diem basis, to the discharging hospital for those days. A special request or submission by the hospital is not necessary to initiate this payment. However, a hospital may request payment for day outliers before the medical review required in paragraph (b) of this section.
 
 (b) The QIO must review and approve to the extent required by CMS -

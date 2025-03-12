@@ -2,4 +2,4 @@
 
 The Commandant or District Commander will approve plans and issue permits authorizing bridges across navigable waters, in cases where the application therefor is submitted after the commencement or completion of the bridges subject to the following rules: Approval will be limited to those cases where the necessary primary authority, State or Federal as the case may be, validly existed, when the work was innocently constructed, and where the work will not unreasonably interfere with navigation. Upon issuance of the permit, applicant will be informed that the law contemplates prior approval and that in the future plans must be submitted in ample time for their consideration by the Commandant or District Commander before construction is begun.
 
-(5 U.S.C. 559; 14 U.S.C. 633; 33 U.S.C. 401, 491, 499, and 525; and 49 CFR 1.46(c) and (q))[CGD 80-099, 46 FR 38354, July 27, 1981, as amended by USCG-2013-0397, 78 FR 39174, July 1, 2013]
+(5 U.S.C. 559; 14 U.S.C. 503; 33 U.S.C. 401, 491, 499, and 525; and 49 CFR 1.46(c) and (q))[CGD 80-099, 46 FR 38354, July 27, 1981, as amended by USCG-2013-0397, 78 FR 39174, July 1, 2013; USCG-2020-0304, 85 FR 58278, Sept. 18, 2020]

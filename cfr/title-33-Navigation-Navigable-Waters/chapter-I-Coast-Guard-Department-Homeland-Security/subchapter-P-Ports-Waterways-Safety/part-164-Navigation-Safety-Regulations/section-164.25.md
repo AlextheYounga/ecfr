@@ -38,4 +38,4 @@
 
 (3) Operation of the alternative power supply for the steering gear if the vessel is so equipped.
 
-(92 Stat. 1471 (33 U.S.C. 1221 *et seq.*); 49 CFR 1.46(n)(4))[CGD 77-183, 45 FR 18925, Mar. 24, 1980, as amended by CGD 83-004, 49 FR 43466, Oct. 29, 1984]
+(46 U.S.C. Chapter 700; 49 CFR 1.46(n)(4))[CGD 77-183, 45 FR 18925, Mar. 24, 1980, as amended by CGD 83-004, 49 FR 43466, Oct. 29, 1984; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]

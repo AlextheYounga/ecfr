@@ -1,5 +1,7 @@
 ##### § 405.1871 Board hearing decision. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a)(1) If the Board finds jurisdiction over a specific matter at issue and conducts a hearing on the matter (as described in §§ 405.1840(a) and 405.1845(e) of this subpart), the Board must issue a hearing decision deciding the merits of the specific matter at issue.
 
 (2) A Board hearing decision must be in writing and based on the admissible evidence from the Board hearing and other admissible evidence and written argument or comments as may be included in the record and accepted by the Board (as described in §§ 405.1845(g) and 405.1865 of this subpart).

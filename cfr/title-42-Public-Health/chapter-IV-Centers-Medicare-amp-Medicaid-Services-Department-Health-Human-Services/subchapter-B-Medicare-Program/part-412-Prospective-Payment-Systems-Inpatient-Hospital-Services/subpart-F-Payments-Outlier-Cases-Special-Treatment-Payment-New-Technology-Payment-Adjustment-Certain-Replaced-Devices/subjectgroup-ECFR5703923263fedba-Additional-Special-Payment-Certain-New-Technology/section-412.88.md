@@ -1,5 +1,7 @@
 ##### § 412.88 Additional payment for new medical service or technology. #####
 
+Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
+
 (a) For discharges involving new medical services or technologies that meet the criteria specified in § 412.87, Medicare payment will be:
 
 (1) One of the following:

@@ -10,14 +10,14 @@
 
 (4) The Main Street Bridge, mile 1.58, the Walnut Street Bridge, mile 1.81, and the Tilleman Memorial Bridge, mile 2.27, are operated remotely.
 
-(b) All drawbridges between mile 7.13 in DePere and mile 58.3 in Oshkosh, except the Canadian National Railroad bridge at mile 55.72, shall open as follows:
+(b) All drawbridges between mile 7.13 in DePere and mile 58.3 in Oshkosh, except the Canadian National Bridge at mile 55.72, shall open as follows:
 
 (1) From April 27 through October 7, the draws shall open on signal, except between the hours of midnight and 8 a.m., the draws shall open if at least 2-hours advance notice is given.
 
 (2) From October 8 through April 26, the draws shall open if at least 12-hours advance notice is given.
 
-(c) The draw of the Canadian National Railroad bridge at mile 55.72 shall open on signal, except from October 8 through April 26; the draw shall open if at least 12-hours advance notice is given.
+(c) The draw of the Canadian National Bridge at mile 55.72 shall open on signal, except from October 8 through April 26; the draw shall open if at least 12-hours advance notice is given.
 
 (d) The draw of each bridge at or between Berlin and Portage need not open for the passage of vessels.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD09-05-081, 70 FR 59657, Oct. 13, 2005; USCG-2016-0256, 81 FR 48329, July 25, 2016; USCG-2019-0178, 85 FR 6808, Feb. 6, 2020]
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD09-05-081, 70 FR 59657, Oct. 13, 2005; USCG-2016-0256, 81 FR 48329, July 25, 2016; USCG-2019-0178, 85 FR 6808, Feb. 6, 2020; USCG-2020-0304, 85 FR 58279, Sept. 18, 2020]

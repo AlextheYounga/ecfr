@@ -6,7 +6,7 @@
 
 (2) At all times, from November 16 through March 14, the draw will open on signal if at least 21/2 hours notice is given.
 
-(3) When notice is required, the owner operator of the vessel must provide the train dispatcher with an estimated time of passage by calling (717) 215-0379 or (609) 412-4338.
+(3) When notice is required, the owner operator of the vessel must contact the bridge operator (Delmarva Central Railroad Company) with an estimated time of passage by calling 1-802-774-0305.
 
 (b) The draw of the SR 13 Bridge, mile 39.6, in Seaford shall:
 
@@ -14,4 +14,4 @@
 
 (2) Open on signal, on Saturday and Sunday, from 7:31 a.m. through 3:29 p.m., from November 1 through March 31, if at least 24 hours notice is given.
 
-[CGD05-06-044, 71 FR 53325, Sept. 11, 2006, as amended by USCG-2017-0162, 82 FR 50084, Oct. 30, 2017]
+[CGD05-06-044, 71 FR 53325, Sept. 11, 2006, as amended by USCG-2017-0162, 82 FR 50084, Oct. 30, 2017; USCG-2020-0304, 85 FR 58278, Sept. 18, 2020]

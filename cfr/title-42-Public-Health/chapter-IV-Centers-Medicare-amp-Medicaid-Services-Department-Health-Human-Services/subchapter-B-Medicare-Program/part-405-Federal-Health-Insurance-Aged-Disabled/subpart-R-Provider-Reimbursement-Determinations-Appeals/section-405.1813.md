@@ -1,5 +1,7 @@
 ##### § 405.1813 Good cause extension of time limit for requesting a contractor hearing. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) A request for a contractor hearing that is received by the contractor after the applicable 180-day time limit prescribed in § 405.1811(a)(3) or § 405.1811(c)(2) must be dismissed by the contractor hearing officer(s), except that the hearing officer(s) may extend the time limit upon a good cause showing by the provider.
 
 (b) The contractor hearing officer(s) may find good cause to extend the time limit only if the provider demonstrates in writing it could not reasonably have been expected to file timely due to extraordinary circumstances beyond its control (such as a natural or other catastrophe, fire, or strike), and the provider's written request for an extension is received by the contractor hearing officer(s) within a reasonable time (as determined by the contractor hearing officer(s) under the circumstances) after the expiration of the applicable 180-day limit prescribed in § 405.1811(a)(3) or § 405.1811(c)(2).

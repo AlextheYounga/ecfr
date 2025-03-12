@@ -1,5 +1,7 @@
 ##### § 405.1853 Board proceedings prior to any hearing; discovery. #####
 
+Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
+
 (a) *Preliminary narrowing of the issues.* Upon receiving notification that a request for a Board hearing is submitted, the contractor must -
 
 (1) Promptly review both the materials submitted with the provider hearing request, and the information underlying each contractor or Secretary determination for each cost reporting period under appeal.

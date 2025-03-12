@@ -6,7 +6,7 @@
 
 (c) A request for a subpoena must be submitted to the ALJ.
 
-(d) A proposed subpoena, such as the form in *http://cgweb.comdt.uscg.mil/g-cj/subpoena.doc,* must be submitted with the request. If you do not use this form, the proposed subpoena must contain:
+(d) A proposed subpoena, such as the form in *https://www.uscg.mil/Resources/Administrative-Law-Judges/General-Suspension-and-Revocation-Information/Subpoena-Information/* must be submitted with the request. If you do not use this form, the proposed subpoena must contain:
 
 (1) The docket number of the proceedings;
 
@@ -30,4 +30,4 @@
 
 (i) If a person does not comply with a subpoena, the ALJ decides whether judicial enforcement of the subpoena is necessary. If the ALJ decides it is, the Commandant (CG-5P) reviews this decision.
 
-[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2013-0397, 78 FR 39177, July 1, 2013]
+[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2013-0397, 78 FR 39177, July 1, 2013; USCG-2020-0304, 85 FR 58279, Sept. 18, 2020]

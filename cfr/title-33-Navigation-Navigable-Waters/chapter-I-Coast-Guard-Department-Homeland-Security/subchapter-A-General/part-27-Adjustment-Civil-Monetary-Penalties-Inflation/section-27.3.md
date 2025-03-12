@@ -8,8 +8,8 @@ Table 1 to § 27.3 - Civil Monetary Penalty Inflation Adjustments
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 |     14 U.S.C. 521(c)      |                                                  Saving Life and Property                                                   |                $10,839                 |
 |     14 U.S.C. 521(e)      |                              Saving Life and Property; Intentional Interference with Broadcast                              |                 1,112                  |
-|     14 U.S.C. 645(i)      |                            Confidentiality of Medical Quality Assurance Records (first offense)                             |                 5,444                  |
-|     14 U.S.C. 645(i)      |                         Confidentiality of Medical Quality Assurance Records (subsequent offenses)                          |                 36,297                 |
+|     14 U.S.C. 936(i)      |                            Confidentiality of Medical Quality Assurance Records (first offense)                             |                 5,444                  |
+|     14 U.S.C. 936(i)      |                         Confidentiality of Medical Quality Assurance Records (subsequent offenses)                          |                 36,297                 |
 |       19 U.S.C. 70        |                                    Obstruction of Revenue Officers by Masters of Vessels                                    |                 8,116                  |
 |       19 U.S.C. 70        |                           Obstruction of Revenue Officers by Masters of Vessels - Minimum Penalty                           |                 1,894                  |
 |     19 U.S.C. 1581(d)     |                Failure to Stop Vessel When Directed; Master, Owner, Operator or Person in Charge<sup>1</sup>                |                 5,000                  |
@@ -149,4 +149,4 @@ Table 1 to § 27.3 - Civil Monetary Penalty Inflation Adjustments
 
 <sup>1</sup> Enacted under the Tariff Act of 1930, exempt from inflation adjustments.
 
-[82 FR 8581, Jan. 27, 2017, as amended at 83 FR 13836, Apr. 2, 2018; 84 FR 13510, Apr. 5, 2019; 85 FR 36480, June 17, 2020]
+[82 FR 8581, Jan. 27, 2017, as amended at 83 FR 13836, Apr. 2, 2018; 84 FR 13510, Apr. 5, 2019; 85 FR 36480, June 17, 2020; USCG-2020-0304, 85 FR 58276, Sept. 18, 2020]

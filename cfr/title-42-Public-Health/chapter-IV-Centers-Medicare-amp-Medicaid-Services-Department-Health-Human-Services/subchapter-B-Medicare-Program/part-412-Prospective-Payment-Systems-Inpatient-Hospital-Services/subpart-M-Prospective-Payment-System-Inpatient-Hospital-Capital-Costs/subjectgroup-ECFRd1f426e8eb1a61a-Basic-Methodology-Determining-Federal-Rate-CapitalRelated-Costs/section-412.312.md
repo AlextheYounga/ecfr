@@ -1,5 +1,7 @@
 ##### § 412.312 Payment based on the Federal rate. #####
 
+Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
+
 (a) *General.* The payment amount for each discharge based on the Federal rate determined under § 412.308(c) is determined under the following formula: [Federal rate × DRG weight × Geographic adjustment factor × Large urban add-on × (1 + Capital disproportionate share adjustment factor + capital indirect medical education adjustment factor) × (for hospitals located in Alaska and Hawaii, a cost-of-living adjustment factor)] + (Any applicable outlier payment).
 
 (b) *Payment adjustments* - (1) *DRG weights.* The relative resource requirements of the discharge are taken into account by applying the DRG weighting factor that is assigned to the discharge under § 412.60.

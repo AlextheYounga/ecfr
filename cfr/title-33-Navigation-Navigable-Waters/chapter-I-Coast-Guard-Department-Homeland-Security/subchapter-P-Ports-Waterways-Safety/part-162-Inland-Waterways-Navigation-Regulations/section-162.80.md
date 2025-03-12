@@ -12,4 +12,4 @@ Note:
 
 The Corps of Engineers also has regulations dealing with this section in 33 CFR Part 207.
 
-(Sec. 7, 38 Stat. 1053, as amended, (33 U.S.C. 471); Sec. 6(g)(1)(A) 80 Stat 937, (49 U.S.C. 1655(g)(1)(A); Sec. 12, 92 Stat. 1471, (33 U.S.C. 1231); 49 CFR 1.46 (c)(1) and (n)(4))[CGD 75-082, 42 FR 51759, Sept. 29, 1977, as amended by CGD 77-028, 46 FR 49851, Oct. 8, 1981; CGD8 87-09, 53 FR 15555, May 2, 1988]
+(Sec. 7, 38 Stat. 1053, as amended, (33 U.S.C. 471); Sec. 6(g)(1)(A) 80 Stat 937, (49 U.S.C. 1655(g)(1)(A); Sec. 12, 92 Stat. 1471, (46 U.S.C. 70034); 49 CFR 1.46 (c)(1) and (n)(4))[CGD 75-082, 42 FR 51759, Sept. 29, 1977, as amended by CGD 77-028, 46 FR 49851, Oct. 8, 1981; CGD8 87-09, 53 FR 15555, May 2, 1988; USCG-2020-0304; 85 FR 58280, Sept. 18, 2020]

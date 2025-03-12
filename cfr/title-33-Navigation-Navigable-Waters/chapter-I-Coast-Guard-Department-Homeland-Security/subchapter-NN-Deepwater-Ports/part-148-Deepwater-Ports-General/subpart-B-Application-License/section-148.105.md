@@ -48,7 +48,7 @@ Your application must include the information required by this section.
 
 (g) *Financial information.* (1) For the applicant, each affiliate with an ownership interest in the applicant of greater than 3 percent, and affiliates which have a direct contractual relationship with the deepwater port:
 
-(i) Annual financial statements, audited by an independent certified public accountant, for the previous 3 years, including, but not limited to, an income statement, balance sheet, and cash flow statement with footnote disclosures prepared according to U.S. Generally Accepted Accounting Principles; provided, however, that the Commandant (CG-5), in concurrence with MARAD, may waive this requirement upon finding:
+(i) Annual financial statements, audited by an independent certified public accountant, for the previous 3 years, including, but not limited to, an income statement, balance sheet, and cash flow statement with footnote disclosures prepared according to U.S. Generally Accepted Accounting Principles; provided, however, that the Commandant (CG-5P), in concurrence with MARAD, may waive this requirement upon finding:
 
 (A) That the affiliate does not, in the normal course of business, produce audited statements; and
 
@@ -344,4 +344,4 @@ Your application must include the information required by this section.
 
 (ee) *Sworn statement.* A statement that the information in the application is true must be placed at the end of the application, sworn to before a notary public, and signed by a responsible applicant official.
 
-[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2011-0257, 76 FR 31837, June 2, 2011; USCG-2013-0397, 78 FR 39175, July 1, 2013]
+[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2011-0257, 76 FR 31837, June 2, 2011; USCG-2013-0397, 78 FR 39175, July 1, 2013; USCG-2020-0304, 85 FR 58279, Sept. 18, 2020]
