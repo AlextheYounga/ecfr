@@ -2,7 +2,7 @@
 
 The following types of nonprocurement transactions are not covered transactions:
 
-(a) A direct award to -
+(a) A direct award to—
 
 (1) A foreign government or foreign governmental entity;
 
@@ -22,8 +22,12 @@ The following types of nonprocurement transactions are not covered transactions:
 
 (f) An incidental benefit that results from ordinary governmental operations.
 
-(g) Any other transaction if -
+(g) Any other transaction if—
 
 (1) The application of an exclusion to the transaction is prohibited by law; or
 
 (2) A Federal agency's regulation exempts it from coverage under this part.
+
+(h) Notwithstanding paragraph (a) of this section, covered transactions must include non-procurement and procurement transactions involving entities engaged in activity that contributed to or is a significant factor in a country's non-compliance with its obligations under arms control, nonproliferation or disarmament agreements or commitments with the United States. Federal awarding agencies and primary tier non-procurement recipients must not award, renew, or extend a non-procurement transaction or procurement transaction, regardless of amount or tier, with any entity listed in the System for Award Management Exclusions List on the basis of involvement in activities that violate arms control, nonproliferation or disarmament agreements or commitments with the United States, pursuant to section 1290 of the National Defense Authorization Act for Fiscal Year 2017, unless the head of a Federal agency grants an exception pursuant to 2 CFR 180.135 with the concurrence of the OMB Director.
+
+[70 FR 51865, Aug. 31, 2005, as amended at 83 FR 31038, July 3, 2018]

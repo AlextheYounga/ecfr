@@ -1,5 +1,7 @@
 ##### § 3004.30 Relationship among the Freedom of Information Act, the Privacy Act, and the Commission's procedures for according appropriate confidentiality. #####
 
+Link to an amendment published at 83 FR 31281, July 3, 2018.
+
 (a) *Coverage.* FOIA applies to all Commission records and provides the public with access to government records.
 
 (b) *Requesting records subject to the Privacy Act.* A request by an individual for his or her own records contained in a system of records is governed by the Privacy Act. Release will first be considered under the Privacy Act pursuant to part 3003 of this chapter. However, if there is any record that the Commission need not release under the Privacy Act, the Commission will also consider the request under FOIA, and will release the record if FOIA requires it.

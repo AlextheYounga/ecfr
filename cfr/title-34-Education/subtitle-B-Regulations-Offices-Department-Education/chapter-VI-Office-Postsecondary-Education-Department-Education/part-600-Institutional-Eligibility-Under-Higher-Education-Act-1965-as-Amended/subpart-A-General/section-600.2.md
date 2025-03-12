@@ -1,6 +1,6 @@
 ##### § 600.2 Definitions. #####
 
-Link to an amendment published at 81 FR 92262, Dec. 19, 2016.
+Link to an amendment published at 81 FR 92262, Dec. 19, 2016.This amendment was delayed until July 1, 2020 at 83 FR 31303, July 3, 2018.
 
 The following definitions apply to terms used in this part:
 
