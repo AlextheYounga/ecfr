@@ -1,5 +1,7 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
+Link to an amendment published at 87 FR 78807, Dec. 22, 2022.
+
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 
 (i) Registration statements and prospectuses filed pursuant to the Securities Act (15 U.S.C. 77a, *et seq.*) or registration statements filed pursuant to Section 12(b) or 12(g) of the Exchange Act (15 U.S.C. 78l(b) or (g)), and certifications that a security has been approved by an exchange for listing and registration filed pursuant to Section 12(d) of the Exchange Act (15 U.S.C. 78l(d)) and § 240.12d1-3 of this chapter (Rule 12d1-3) under the Exchange Act. The certification that a security has been approved by an exchange for listing and registration must be made on EDGAR in the electronic format required by the EDGAR Filer Manual, as defined in § 232.11 of this chapter (Rule 11 of Regulation S-T). Notwithstanding § 232.104 of this chapter (Rule 104 of Regulation S-T), the certification filed under this paragraph will be considered as officially filed with the Commission;

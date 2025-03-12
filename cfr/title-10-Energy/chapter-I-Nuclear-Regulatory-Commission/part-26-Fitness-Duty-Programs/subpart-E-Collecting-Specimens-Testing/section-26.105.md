@@ -1,13 +1,13 @@
-##### § 26.105 Preparing for urine collection. #####
+##### § 26.105 Preparing for the collection of a specimen for drug testing. #####
 
-Link to an amendment published at 87 FR 71457, Nov. 22, 2022.
-
-(a) The collector shall ask the donor to remove any unnecessary outer garments, such as a coat or jacket, which might conceal items or substances that the donor could use to tamper with or adulterate his or her urine specimen. The collector shall ensure that all personal belongings such as a purse or briefcase remain with the outer garments outside of the room or stall in which the urine specimen is collected. The donor may retain his or her wallet.
+(a) The collector shall ask the donor to remove any unnecessary outer garments, such as a coat or jacket, which might conceal items or substances that the donor could use to tamper with or adulterate his or her specimen. The collector shall ensure that all personal belongings such as a purse or briefcase remain with the outer garments outside of the room or stall in which the specimen is collected. The donor may retain his or her wallet.
 
 (b) The collector shall also ask the donor to empty his or her pockets and display the items in them to enable the collector to identify items that the donor could use to adulterate or substitute his or her urine specimen. The donor shall permit the collector to make this observation. If the donor refuses to show the collector the items in his or her pockets, this is considered a refusal to test. If an item is found that appears to have been brought to the collection site with the intent to adulterate or substitute the specimen, the collector shall contact the MRO or FFD program manager to determine whether a directly observed collection is required. If the item appears to have been inadvertently brought to the collection site, the collector shall secure the item and continue with the normal collection procedure. If the collector identifies nothing that the donor could use to adulterate or substitute the specimen, the donor may place the items back into his or her pockets.
 
-(c) The collector shall instruct the donor to wash and dry his or her hands before urinating.
+(c) The collector shall instruct the donor to wash and dry his or her hands before providing a specimen.
 
-(d) After washing his or her hands, the donor shall remain in the presence of the collector and may not have access to any water fountain, faucet, soap dispenser, cleaning agent, or other materials that he or she could use to adulterate the urine specimen.
+(d) After washing his or her hands, the donor shall remain in the presence of the collector and may not have access to any water fountain, faucet, soap dispenser, cleaning agent, or other materials that he or she could use to adulterate the specimen.
 
-(e) The collector may select, or allow the donor to select, an individually wrapped or sealed collection container from the collection kit materials. Either the collector or the donor, with both present, shall unwrap or break the seal of the collection container. With the exception of the collection container, the donor may not take anything from the collection kit into the room or stall used for urination.
+(e) The collector may select, or allow the donor to select, an individually wrapped or sealed urine specimen collection container from the collection kit materials or an oral fluid specimen collection device. Either the collector or the donor, with both present, shall unwrap or break the seal of the urine specimen collection container. With the exception of the collection container, the donor may not take anything from the collection kit into the room or stall used for urination.
+
+[73 FR 17176, Mar. 31, 2008, as amended at 87 FR 71457, Nov. 22, 2022]

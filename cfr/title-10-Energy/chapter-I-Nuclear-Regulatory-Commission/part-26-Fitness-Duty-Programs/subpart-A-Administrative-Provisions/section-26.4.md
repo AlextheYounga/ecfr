@@ -1,7 +1,5 @@
 ##### § 26.4 FFD program applicability to categories of individuals. #####
 
-Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
-
 (a) All persons who are granted unescorted access to nuclear power reactor protected areas by the licensees in § 26.3(a) and, as applicable, (c) and perform the following duties shall be subject to an FFD program that meets all of the requirements of this part, except subpart K of this part:
 
 (1) Operating or onsite directing of the operation of systems and components that a risk-informed evaluation process has shown to be significant to public health and safety;
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 (5) Supervises or manages the construction of safety- or security-related SSCs; or
 
-(6) Directs, as defined in § 26.5, or implements the access authorization program, including -
+(6) Directs, as defined in § 26.5, or implements the access authorization program, including—
 
 (i) Having access to the information used by the licensee or other entity to make access authorization determinations, including information stored in electronic format;
 
@@ -50,7 +48,7 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 (iii) Issuing entry-control picture badges in accordance with access authorization determinations;
 
-(iv) Conducting background investigations or psychological assessments used by the licensee or other entity to make access authorization determinations, except that he or she shall be subject to behavioral observation only when he or she is present at the location where the nuclear power plant will be constructed and operated, and licensees and other entities may rely on a local hospital or other organization that meets the requirements of 49 CFR Part 40, “Procedures for Department of Transportation Workplace Drug and Alcohol Testing Programs” (65 FR 41944; August 9, 2001) to collect his or her specimens for drug and alcohol testing;
+(iv) Conducting background investigations or psychological assessments used by the licensee or other entity to make access authorization determinations, except that he or she shall be subject to behavioral observation only when he or she is present at the location where the nuclear power plant will be constructed and operated, and licensees and other entities may rely on a local hospital or other organization that meets the requirements of 49 CFR Part 40, “Procedures for Department of Transportation Workplace Drug and Alcohol Testing Programs” to collect his or her specimens for drug and alcohol testing;
 
 (v) Adjudicating reviews or appeals of access authorization determinations;
 
@@ -90,10 +88,10 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 (2) The individuals are subject to pre-access (or pre-employment), random, for-cause, and post-event testing for alcohol at or below the cutoff levels specified in § 26.103(a) and breath specimens are subject to confirmatory testing, if required, with an EBT that meets the requirements specified in § 26.91;
 
-(3) Urine specimens are tested for validity and the presence of drugs and drug metabolites at a laboratory certified by the Department of Health and Human Services (HHS);
+(3) Urine specimens are tested for validity and the presence of drugs and drug metabolites at a Department of Health and Human Services (HHS)-certified laboratory, as defined in § 26.5;
 
 (4) Training is provided to address the knowledge and abilities (KAs) listed in § 26.29(a)(1) through (a)(10); and
 
 (5) Provisions are made to ensure that the testing agency or organization notifies the licensee or other entity granting authorization of any FFD policy violation.
 
-[73 FR 17176, Mar. 31, 2008, as amended at 75 FR 73941, Nov. 30, 2010]
+[73 FR 17176, Mar. 31, 2008, as amended at 75 FR 73941, Nov. 30, 2010; 87 FR 71455, Nov. 22, 2022]

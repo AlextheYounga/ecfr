@@ -1,10 +1,8 @@
 ##### § 26.183 Medical review officer. #####
 
-Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
-
 (a) *Qualifications.* The MRO shall be knowledgeable of this part and of the FFD policies of the licensees and other entities for whom the MRO provides services. The MRO shall be a physician holding either a Doctor of Medicine or Doctor of Osteopathy degree who is licensed to practice medicine by any State or Territory of the United States, the District of Columbia, or the Commonwealth of Puerto Rico. The MRO shall have passed an examination administered by a nationally-recognized MRO certification board or subspecialty board for medical practitioners in the field of medical review of Federally mandated drug tests.
 
-(b) *Relationships.* The MRO may be an employee of the licensee or other entity or a contractor. However, the MRO may not be an employee or agent of, or have any financial interest in, an HHS-certified laboratory or a contracted operator of a licensee testing facility for whom the MRO reviews drug test results. Additionally, the MRO may not derive any financial benefit by having the licensee or other entity use a specific drug testing laboratory or licensee testing facility operating contractor and may not have any agreement with such parties that may be construed as a potential conflict of interest. Examples of relationships between laboratories and MROs that create conflicts of interest, or the appearance of such conflicts, include, but are not limited to -
+(b) *Relationships.* The MRO may be an employee of the licensee or other entity or a contractor. However, the MRO may not be an employee or agent of, or have any financial interest in, an HHS-certified laboratory or a contracted operator of a licensee testing facility for whom the MRO reviews drug test results. Additionally, the MRO may not derive any financial benefit by having the licensee or other entity use a specific drug testing laboratory or licensee testing facility operating contractor and may not have any agreement with such parties that may be construed as a potential conflict of interest. Examples of relationships between laboratories and MROs that create conflicts of interest, or the appearance of such conflicts, include, but are not limited to—
 
 (1) The laboratory employs an MRO who reviews test results produced by the laboratory;
 
@@ -18,9 +16,9 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (6) The laboratory permits an MRO, or an MRO's organization, to have a financial interest in the laboratory.
 
-(c) *Responsibilities.* The primary role of the MRO is to review and interpret positive, adulterated, substituted, invalid, and at the licensee's or other entity's discretion, dilute test results obtained through the licensee's or other entity's testing program and to identify any evidence of subversion of the testing process. The MRO is also responsible for identifying any issues associated with collecting and testing specimens, and for advising and assisting FFD program management in planning and overseeing the overall FFD program.
+(c) *Responsibilities.* The primary role of the MRO is to review and interpret positive, adulterated, substituted, invalid, and dilute test results obtained through the licensee's or other entity's testing program and to identify any evidence of subversion of the testing process. The MRO is also responsible for identifying any issues associated with collecting and testing specimens, and for advising and assisting FFD program management in planning and overseeing the overall FFD program.
 
-(1) In carrying out these responsibilities, the MRO shall examine alternate medical explanations for any positive, adulterated, substituted, invalid, or, at the licensee's or other entity's discretion, dilute test result. This action may include, but is not limited to, conducting a medical interview with the donor, reviewing the donor's medical history, or reviewing any other relevant biomedical factors. The MRO shall review all medical records that the donor may make available when a positive, adulterated, substituted, invalid, or dilute test result could have resulted from responsible use of legally prescribed medication, a documented condition or disease state, or the demonstrated physiology of the donor.
+(1) In carrying out these responsibilities, the MRO shall examine alternate medical explanations for any positive, adulterated, substituted, invalid, or dilute test result. This action may include, but is not limited to, conducting a medical interview with the donor, reviewing the donor's medical history, or reviewing any other relevant biomedical factors. The MRO shall review all medical records that the donor may make available when a positive, adulterated, substituted, invalid, or dilute test result could have resulted from responsible use of legally prescribed medication, a documented condition or disease state, or the demonstrated physiology of the donor.
 
 (2) The MRO may only consider the results of tests of specimens that are collected and processed under this part, including the results of testing split specimens, in making his or her determination, as long as those split specimens have been stored and tested under the procedures described in this part.
 
@@ -30,7 +28,7 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (i) The duties of MRO staff must be maintained independent from any other activity or interest of a licensee or other entity, in order to protect the integrity of the MRO function and donors' privacy.
 
-(ii) An MRO's responsibilities for directing MRO staff must include, but are not limited to, ensuring that -
+(ii) An MRO's responsibilities for directing MRO staff must include, but are not limited to, ensuring that—
 
 (A) The procedures being performed by MRO staff meet NRC regulations and HHS' and professional standards of practice;
 
@@ -46,10 +44,10 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (i) The staff under the direction of the MRO may receive, review, and report negative test results to the licensee's or other entity's designated representative.
 
-(ii) The staff reviews of positive, adulterated, substituted, invalid, and, at the licensee's or other entity's discretion, dilute test results must be limited to reviewing the custody-and-control form to determine whether it contains any errors that may require corrective action and to ensure that it is consistent with the information on the MRO's copy. The staff may resolve errors in custody-and-control forms that require corrective action(s), but shall forward the custody-and-control forms to the MRO for review and approval of the resolution.
+(ii) The staff reviews of positive, adulterated, substituted, invalid, and dilute test results must be limited to reviewing the Federal CCF to determine whether it contains any errors that may require corrective action and to ensure that it is consistent with the information on the MRO's copy. The staff may resolve errors in Federal CCFs that require corrective action(s), but shall forward the Federal CCFs to the MRO for review and approval of the resolution.
 
 (iii) The staff may not conduct interviews with donors to discuss positive, adulterated, substituted, invalid, or dilute test results nor request medical information from a donor. Only the MRO may request and review medical information related to a positive, adulterated, substituted, or invalid test result or other matter from a donor.
 
 (iv) Staff may not report nor discuss with any individuals other than the MRO and other MRO staff any positive, adulterated, substituted, invalid, or dilute test results received from the HHS-certified laboratory before those results have been reviewed and confirmed by the MRO. Any MRO staff discussions of confirmed positive, adulterated, substituted, invalid, or dilute test results must be limited to discussions only with the licensee's or other entity's FFD program personnel and may not reveal quantitative test results or any personal medical information about the donor that the MRO may have obtained in the course of reviewing confirmatory test results from the HHS-certified laboratory.
 
-[73 FR 17176, Mar. 31, 2008, as amended at 83 FR 58464, Nov. 20, 2018]
+[73 FR 17176, Mar. 31, 2008, as amended at 83 FR 58464, Nov. 20, 2018; 87 FR 71462, Nov. 22, 2022]

@@ -2,9 +2,9 @@
 
 (a) Licensee testing facilities shall develop, implement, and maintain clear and well-documented procedures for accession, shipment, and testing of urine specimens.
 
-(b) Written chain-of-custody procedures must describe the methods to be used to maintain control and accountability of specimens from receipt through completion of testing and reporting of results, during storage and shipping to the HHS-certified laboratory, and continuing until final disposition of the specimens.
+(b) Written chain of custody procedures must describe the methods to be used to maintain control and accountability of specimens from receipt through completion of testing and reporting of results, during storage and shipping to the HHS-certified laboratory, and continuing until final disposition of the specimens.
 
-(c) Licensee testing facilities shall develop, implement, and maintain written standard operating procedures for each assay performed for drug and specimen validity testing. If a licensee testing facility performs validity screening tests, the licensee testing facility shall develop, implement, and maintain written standard operating procedures for each test. The procedures must include, but are not limited to, detailed descriptions of -
+(c) Licensee testing facilities shall develop, implement, and maintain written standard operating procedures for each assay performed for drug and specimen validity testing. If a licensee testing facility performs validity screening tests, the licensee testing facility shall develop, implement, and maintain written standard operating procedures for each test. The procedures must include, but are not limited to, detailed descriptions of—
 
 (1) The principles of each test;
 

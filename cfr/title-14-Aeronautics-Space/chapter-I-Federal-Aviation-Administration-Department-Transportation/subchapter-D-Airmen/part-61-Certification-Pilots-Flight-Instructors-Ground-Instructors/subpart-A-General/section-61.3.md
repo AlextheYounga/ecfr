@@ -4,7 +4,7 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person:
 
-(1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization -
+(1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization—
 
 (i) A pilot certificate issued under this part and in accordance with § 61.19;
 
@@ -34,7 +34,7 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (vi) Other form of identification that the Administrator finds acceptable.
 
-(b) *Required pilot certificate for operating a foreign-registered aircraft within the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of foreign registry within the United States, unless -
+(b) *Required pilot certificate for operating a foreign-registered aircraft within the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of foreign registry within the United States, unless—
 
 (1) That person's pilot certificate or document issued under § 61.29(e) is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate; and
 
@@ -42,7 +42,7 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (c) *Medical certificate.* (1) A person may serve as a required pilot flight crewmember of an aircraft only if that person holds the appropriate medical certificate issued under part 67 of this chapter, or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft. Paragraph (c)(2) of this section provides certain exceptions to the requirement to hold a medical certificate.
 
-(2) A person is not required to meet the requirements of paragraph (c)(1) of this section if that person -
+(2) A person is not required to meet the requirements of paragraph (c)(1) of this section if that person—
 
 (i) Is exercising the privileges of a student pilot certificate while seeking a pilot certificate with a glider category rating, a balloon class rating, or glider or balloon privileges;
 
@@ -52,7 +52,7 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (iv) Is exercising the privileges of a sport pilot certificate with glider or balloon privileges;
 
-(v) Is exercising the privileges of a sport pilot certificate with other than glider or balloon privileges and holds a U.S. driver's license. A person who has applied for or held a medical certificate may exercise the privileges of a sport pilot certificate using a U.S. driver's license only if that person -
+(v) Is exercising the privileges of a sport pilot certificate with other than glider or balloon privileges and holds a U.S. driver's license. A person who has applied for or held a medical certificate may exercise the privileges of a sport pilot certificate using a U.S. driver's license only if that person—
 
 (A) Has been found eligible for the issuance of at least a third-class airman medical certificate at the time of his or her most recent application; and
 
@@ -72,17 +72,19 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (xii) Is a pilot of the U.S. Armed Forces, has an up-to-date U.S. military medical examination, and holds military pilot flight status;
 
-(xiii) Is exercising the privileges of a student, recreational or private pilot certificate for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license; or
+(xiii) Is exercising the privileges of a student, recreational or private pilot certificate for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license;
 
-(xiv) Is exercising the privileges of a flight instructor certificate and acting as pilot in command for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license.
+(xiv) Is exercising the privileges of a flight instructor certificate and acting as pilot in command or a required flightcrew member for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license; or
+
+(xv) Is exercising the privileges of a student pilot certificate or higher while acting as pilot in command on a special medical flight test authorized under part 67 of this chapter.
 
 (d) *Flight instructor certificate.* (1) A person who holds a flight instructor certificate issued under this part must have that certificate, or other documentation acceptable to the Administrator, in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that flight instructor certificate.
 
-(2) Except as provided in paragraph (d)(3) of this section, no person other than the holder of a flight instructor certificate issued under this part with the appropriate rating on that certificate may -
+(2) Except as provided in paragraph (d)(3) of this section, no person other than the holder of a flight instructor certificate issued under this part with the appropriate rating on that certificate may—
 
 (i) Give training required to qualify a person for solo flight and solo cross-country flight;
 
-(ii) Endorse an applicant for a -
+(ii) Endorse an applicant for a—
 
 (A) Pilot certificate or rating issued under this part;
 
@@ -94,7 +96,7 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (iv) Endorse a logbook for solo operating privileges.
 
-(3) A flight instructor certificate issued under this part is not necessary -
+(3) A flight instructor certificate issued under this part is not necessary—
 
 (i) Under paragraph (d)(2) of this section, if the training is given by the holder of a commercial pilot certificate with a lighter-than-air rating, provided the training is given in accordance with the privileges of the certificate in a lighter-than-air aircraft;
 
@@ -118,13 +120,13 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (f) *Category II pilot authorization.* Except for a pilot conducting Category II operations under part 121 or part 135, a person may not:
 
-(1) Act as pilot in command of a civil aircraft during Category II operations unless that person -
+(1) Act as pilot in command of a civil aircraft during Category II operations unless that person—
 
 (i) Holds a Category II pilot authorization for that category or class of aircraft, and the type of aircraft, if applicable; or
 
 (ii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as pilot in command of that aircraft in Category II operations.
 
-(2) Act as second in command of a civil aircraft during Category II operations unless that person -
+(2) Act as second in command of a civil aircraft during Category II operations unless that person—
 
 (i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft;
 
@@ -134,13 +136,13 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (g) *Category III pilot authorization.* Except for a pilot conducting Category III operations under part 121 or part 135, a person may not:
 
-(1) Act as pilot in command of a civil aircraft during Category III operations unless that person -
+(1) Act as pilot in command of a civil aircraft during Category III operations unless that person—
 
 (i) Holds a Category III pilot authorization for that category or class of aircraft, and the type of aircraft, if applicable; or
 
 (ii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as pilot in command of that aircraft in Category III operations.
 
-(2) Act as second in command of a civil aircraft during Category III operations unless that person -
+(2) Act as second in command of a civil aircraft during Category III operations unless that person—
 
 (i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft;
 
@@ -156,7 +158,7 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (i) *Ground instructor certificate.* (1) Each person who holds a ground instructor certificate issued under this part must have that certificate or a temporary document issued under § 61.29(e) in that person's physical possession or immediately accessible when exercising the privileges of that certificate.
 
-(2) Except as provided in paragraph (i)(3) of this section, no person other than the holder of a ground instructor certificate, issued under this part or part 143, with the appropriate rating on that certificate may -
+(2) Except as provided in paragraph (i)(3) of this section, no person other than the holder of a ground instructor certificate, issued under this part or part 143, with the appropriate rating on that certificate may—
 
 (i) Give ground training required to qualify a person for solo flight and solo cross-country flight;
 
@@ -164,7 +166,7 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (iii) Endorse a pilot logbook to show ground training given.
 
-(3) A ground instructor certificate issued under this part is not necessary -
+(3) A ground instructor certificate issued under this part is not necessary—
 
 (i) Under paragraph (i)(2) of this section, if the training is given by the holder of a flight instructor certificate issued under this part in accordance with the privileges of that certificate;
 
@@ -202,4 +204,4 @@ Link to an amendment published at 87 FR 71236, Nov. 22, 2022.
 
 (4) An authorized representative of the Transportation Security Administration.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Doc. No. FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Doc. No. FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022]

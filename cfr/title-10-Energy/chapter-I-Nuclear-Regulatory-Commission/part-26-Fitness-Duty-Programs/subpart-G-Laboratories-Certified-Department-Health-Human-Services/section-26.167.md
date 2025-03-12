@@ -1,12 +1,10 @@
 ##### § 26.167 Quality assurance and quality control. #####
 
-Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
-
 (a) *Quality assurance program.* Each HHS-certified laboratory shall have a quality assurance program that encompasses all aspects of the testing process, including, but not limited to, specimen accessioning, chain of custody, security and reporting of results, initial and confirmatory testing, certification of calibrators and controls, and validation of analytical procedures. The performance characteristics (e.g., accuracy, precision, LOD, limit of quantitation (LOQ), specificity) of each test must be validated and documented for each test. Validation of procedures must document that carryover does not affect the donor's specimen results. Periodic re-verification of analytical procedures is required. Quality assurance procedures must be designed, implemented, and reviewed to monitor the conduct of each step of the testing process.
 
 (b) *Calibrators and controls required.* Each analytical run of specimens for which an initial or confirmatory validity test, or an initial or confirmatory drug test, is being performed must include the appropriate calibrators and controls.
 
-(c) *Quality control requirements for performing initial and confirmatory validity tests.* (1) Requirements for performing creatinine tests:
+(c) *Quality control requirements for performing initial and confirmatory validity tests on urine.* (1) Requirements for performing creatinine tests:
 
 (i) The creatinine concentration must be measured to one decimal place on both the initial and the confirmatory creatinine tests;
 
@@ -110,37 +108,37 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (iii) The initial and confirmatory tests for “other” adulterants must include an appropriate calibrator, a control without the compound of interest (*i.e.*, a certified negative control), and a control with the compound of interest at a measurable concentration.
 
-(d) *Quality control requirements for performing initial drug tests.* (1) Any initial drug test performed by an HHS-certified laboratory must use an immunoassay that meets the requirements of the Food and Drug Administration for commercial distribution. Non-instrumented immunoassay testing devices that are pending HHS/SAMHSA review and approval may not be used for initial drug testing under this part.
+(d) *Quality control requirements for performing initial drug tests.* (1) Any initial drug test of urine performed by an HHS-certified laboratory must use an immunoassay that meets the requirements of the Food and Drug Administration for commercial distribution. Non-instrumented immunoassay testing devices that are pending HHS/SAMHSA review and approval may not be used for initial drug testing under this part.
 
 (2) HHS-certified laboratories may perform multiple initial drug tests for the same drug or drug class, provided that all tests meet the cutoffs and quality control requirements of this part. For example, an HHS-certified laboratory may use immunoassay technique “A” for all drugs using the licensee's or other entity's cutoff levels, but specimens testing positive for amphetamines may also be tested using immunoassay technique “B” to eliminate any possible positives due to structural analogues; or, a valid analytical result cannot be obtained using immunoassay technique “A” and immunoassay technique “B” is used in an attempt to obtain a valid analytical result.
 
-(3) Quality control samples for each analytical run of specimens for initial testing must include -
+(3) Quality control samples for each analytical run of specimens for initial testing must include—
 
-(i) Sample(s) certified to contain no drugs or drug metabolites (*i.e.*, negative urine samples);
+(i) At least one control certified to contain no drug or drug metabolite;
 
-(ii) At least one positive control with a drug(s) or drug metabolite(s) targeted at 25 percent above the cutoff;
+(ii) At least one positive control with the drug or drug metabolite targeted at 25 percent above the cutoff;
 
-(iii) At least one positive control with a drug(s) or drug metabolite(s) targeted at 25 percent below the cutoff;
+(iii) At least one positive control with the drug or drug metabolite targeted at 75 percent of the cutoff;
 
 (iv) A sufficient number of calibrators to ensure and document the linearity of the assay method over time in the concentration area of the cutoff (after acceptable values are obtained for the known calibrators, those values will be used to calculate sample data); and
 
 (v) At least one control that appears to be a donor specimen to the laboratory analysts.
 
-(4) A minimum of 10 percent of the total specimens in each analytical run must be quality control samples, as defined by paragraphs (d)(3)(i) through (iv) of this section.
+(4) A minimum of 10 percent of the total specimens in each analytical run must be quality control samples (*i.e.,* calibrators and controls), as defined by paragraphs (d)(3)(i) through (iv) of this section.
 
 (e) *Quality control requirements for performing confirmatory drug tests.* (1) Confirmatory tests for drugs and drug metabolites must be performed using gas chromatography/mass spectrometry (GC/MS) or other confirmatory test methodologies that HHS-certified laboratories are permitted to use in Federal workplace drug testing programs for this purpose.
 
-(2) At least 10 percent of the samples in each analytical run of specimens must be calibrators and controls.
+(2) A minimum of 10 percent of the total specimens in each analytical run must be quality control samples (*i.e.,* calibrators and controls).
 
-(3) Each analytical run of specimens that are subjected to confirmatory testing must include -
+(3) Each analytical run of specimens that are subjected to confirmatory testing must include—
 
-(i) Sample(s) certified to contain no drug (*i.e.*, negative urine samples);
+(i) At least one control certified to contain no drug or drug metabolite;
 
-(ii) Positive calibrator(s) and control(s) with a drug(s) or drug metabolite(s);
+(ii) A calibrator with its drug concentration at the cutoff;
 
-(iii) At least one positive control with a drug(s) or drug metabolite(s) targeted at 25 percent above the cutoff; and
+(iii) At least one positive control with the drug or drug metabolite targeted at 25 percent above the cutoff; and
 
-(iv) At least one calibrator or control that is targeted at or below 40 percent of the cutoff.
+(iv) At least one control targeted at or below 40 percent of the cutoff.
 
 (f) *Errors in testing.* The licensee or other entity shall ensure that the HHS-certified laboratory investigates any testing errors or unsatisfactory performance discovered in blind performance testing, as required under § 26.168, in the testing of actual specimens, or through the processing of reviews, as well as any other errors or matters that could adversely reflect on the testing process.
 
@@ -148,8 +146,10 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (2) If a false positive error occurs on a blind performance test sample or on a regular specimen, the licensee or other entity shall require the laboratory to take corrective action to minimize the occurrence of the particular error in the future. If there is reason to believe that the error could have been systematic, the licensee or other entity may also require review and re-analysis of previously run specimens.
 
-(3) If a false positive error occurs on a blind performance test sample and the error is determined to be technical or methodological, the licensee or other entity shall instruct the laboratory to provide all quality control data from the batch or analytical run of specimens that included a false positive sample. In addition, the licensee or other entity shall require the laboratory to retest all specimens that analyzed as positive for that drug or metabolite, or as adulterated, substituted, dilute, or invalid in validity testing, from the time of final resolution of the error back to the time of the last satisfactory performance test cycle. This retesting must be documented by a statement signed by the laboratory's responsible person. The licensee or other entity and the NRC also may require an onsite review of the laboratory, which may be conducted unannounced during any hours of operation of the laboratory.
+(3) If a false positive error occurs on a blind performance test sample and the error is determined to be technical or methodological, the licensee or other entity shall instruct the laboratory to provide all quality control data from the batch or analytical run of specimens that included a false positive sample. In addition, the licensee or other entity shall require the laboratory to retest all specimens that analyzed as positive for that drug or metabolite, or as adulterated, substituted, dilute, or invalid in validity testing, from the time of final resolution of the error back to the time of the last satisfactory performance test cycle. This retesting must be documented by a statement signed by the laboratory's Responsible Person. The licensee or other entity and the NRC also may require an onsite review of the laboratory, which may be conducted unannounced during any hours of operation of the laboratory.
 
 (g) *Accuracy.* Volumetric pipettes and measuring devices must be certified for accuracy or be checked by gravimetric, colorimetric, or other verification procedures. Automatic pipettes and dilutors must be checked for accuracy and reproducibility both before being placed in service and periodically thereafter.
 
 (h) *Calibrators and controls.* Laboratory calibrators and controls must be prepared using pure drug reference materials, stock standard solutions obtained from other laboratories, or standard solutions that are obtained from commercial manufacturers and are properly labeled as to content and concentration. Calibrators and controls may not be prepared from the same stock solution. The standards and controls must be labeled with the following dates: when received; when prepared or opened; when placed in service; and when scheduled for expiration.
+
+[73 FR 17176, Mar. 31, 2008, as amended at 87 FR 71462, Nov. 22, 2022]

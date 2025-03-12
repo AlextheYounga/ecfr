@@ -1,7 +1,5 @@
 ##### § 26.5 Definitions. #####
 
-Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
-
 *Acute fatigue* means fatigue from causes (e.g., restricted sleep, sustained wakefulness, task demands) occurring within the past 24 hours.
 
 *Adulterated specimen* means a urine specimen that has been altered, as evidenced by test results showing either a substance that is not a normal constituent of urine or showing an abnormal concentration of an endogenous substance.
@@ -18,7 +16,11 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Blood alcohol concentration (BAC)* means the mass of alcohol in a volume of blood.
 
-*Calibrator* means a solution of known concentration which is used to define expected outcomes of a measurement procedure or to compare the response obtained with the response of a test specimen/sample. The concentration of the analyte of interest in the calibrator is known within limits ascertained during its preparation. Calibrators may be used to establish a cutoff concentration and/or a calibration curve over a range of interest.
+*Calibrator* means a solution of known concentration in the appropriate matrix that is used to define expected outcomes of a measurement procedure or to compare the response obtained with the response of a donor specimen or quality control sample. The concentration of the analyte of interest in the calibrator is known within limits ascertained during its preparation.
+
+*Cancelled test* means the test result reported by the MRO to the licensee or other entity when a specimen has been reported to the MRO by the HHS-certified laboratory as an invalid result (for which the donor has no legitimate explanation), a specimen has been rejected for testing by the licensee testing facility or HHS-certified laboratory, or the retesting of a single specimen or the testing of Bottle B of a split specimen fails to reconfirm the original test result. For alcohol testing only, *cancelled test* means a test result that was not acceptable because testing did not meet the quality assurance and quality control requirements in § 26.91.
+
+*Carryover* means the effect that occurs when a test result has been affected by a preceding sample or specimen during analysis.
 
 *Category IA material* means SSNM that is directly usable in the manufacture of a nuclear explosive device, except if the material meets any of the following criteria:
 
@@ -27,6 +29,8 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 (2) The total weight of an encapsulated item of SSNM is such that it cannot be carried inconspicuously by one person (*i.e.*, at least 50 kilograms gross weight); or
 
 (3) The quantity of SSNM (less than 0.05 formula kilograms) in each container requires protracted diversions to accumulate 5 formula kilograms.
+
+*Certifying Scientist* means the individual at an HHS-certified laboratory responsible for verifying the chain of custody and scientific reliability of any test result reported by an HHS-certified laboratory.
 
 *Chain of custody* means procedures to account for the integrity of each specimen or aliquot by tracking its handling and storage from the point of specimen collection to final disposition of the specimen and its aliquots. “Chain of custody” and “custody and control” are synonymous and may be used interchangeably.
 
@@ -48,13 +52,13 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Contractor/vendor (C/V)* means any company, or any individual not employed by a licensee or other entity specified in § 26.3(a) through (c), who is providing work or services to a licensee or other entity covered in § 26.3(a) through (c), either by contract, purchase order, oral agreement, or other arrangement.
 
-*Control* means a sample used to monitor the status of an analysis to maintain its performance within predefined limits.
+*Control* means a sample used to evaluate whether an analytical procedure or test is operating within predefined tolerance limits.
 
 *Cumulative fatigue* means the increase in fatigue over consecutive sleep-wake periods resulting from inadequate rest.
 
 *Cutoff level* means the concentration or decision criteria established for designating and reporting a test result as positive, of questionable validity (referring to validity screening or initial validity test results from a licensee testing facility), or adulterated, substituted, dilute, or invalid (referring to initial or confirmatory test results from an HHS-certified laboratory).
 
-*Dilute specimen* means a urine specimen with creatinine and specific gravity concentrations that are lower than expected for human urine.
+*Dilute specimen* means a urine specimen with creatinine and specific gravity values that are lower than expected but are still within the physiologically producible ranges of human urine.
 
 *Directing* means the exercise of control over a work activity by an individual who is directly involved in the execution of the work activity, and either makes technical decisions for that activity without subsequent technical review, or is ultimately responsible for the correct performance of that work activity.
 
@@ -66,9 +70,11 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Fatigue* means the degradation in an individual's cognitive and motor functioning resulting from inadequate rest.
 
+*Federal custody and control form (Federal CCF)* means any HHS-approved form, which has not expired, that is published in the Federal Register and is used to document the collection, custody, transport, and testing of a specimen.
+
 *Formula quantity* means SSNM in any combination in a quantity of 5000 grams or more computed by the formula, grams = (grams contained U-235) + 2.5 (grams U-233 + grams plutonium). This class of material is sometimes referred to as a Category I quantity of material.
 
-*HHS-certified laboratory* means a laboratory that is certified to perform urine drug testing under the Department of Health and Human Services Mandatory Guidelines for Federal Workplace Drug Testing Programs (the HHS Guidelines), which were published in the Federal Register on April 11, 1988 (53 FR 11970), and as amended, June 9, 1994 (59 FR 29908), November 13, 1998 (63 FR 63483), and April 13, 2004 (69 FR 19643).
+*HHS-certified laboratory* means a laboratory that is certified to meet the standards of the *Mandatory Guidelines for Federal Workplace Drug Testing Programs* (the HHS Guidelines) at the time that testing of a specimen is performed for a licensee or other entity and performs that testing for a licensee or other entity in accordance with the HHS Guidelines, unless otherwise specified in this part.
 
 *Illegal drug* means, for the purposes of this regulation, any drug that is included in Schedules I to V of section 202 of the Controlled Substances Act [21 U.S.C. 812], but not when used pursuant to a valid prescription or when used as otherwise authorized by law.
 
@@ -78,7 +84,7 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Initial validity test* means a first test used to determine whether a specimen is adulterated, dilute, substituted, or invalid, and may require confirmatory validity testing.
 
-*Invalid result* means the result reported by an HHS-certified laboratory for a specimen that contains an unidentified adulterant, contains an unidentified interfering substance, has an abnormal physical characteristic, contains inconsistent physiological constituents, or has an endogenous substance at an abnormal concentration that prevents the laboratory from completing testing or obtaining a valid drug test result.
+*Invalid result* means the result reported by an HHS-certified laboratory in accordance with the criteria established in § 26.161(f) when a positive, negative, adulterated, or substituted result cannot be established for a specific drug or specimen validity test.
 
 *Legal action* means a formal action taken by a law enforcement authority or court of law, including an arrest, an indictment, the filing of charges, a conviction, or the mandated implementation of a plan for substance abuse treatment in order to avoid a permanent record of an arrest or conviction, in response to any of the following activities:
 
@@ -92,7 +98,9 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Limit of detection (LOD)* means the lowest concentration of an analyte that an analytical procedure can reliably detect, which could be significantly lower than the established cutoff levels.
 
-*Limit of quantitation (LOQ)* means the lowest concentration of an analyte at which the concentration of the analyte can be accurately determined under defined conditions.
+*Limit of quantitation (LOQ)* means for quantitation assays, the lowest concentration at which the identity and concentration of the analyte can be accurately established.
+
+*Lot* means a number of units of an item (*e.g.,* drug test kits, reagents, quality control samples) manufactured from the same starting materials within a specified period of time for which the manufacturer states that the items have essentially the same performance characteristics and the same expiration date.
 
 *Maintenance* means, for the purposes of § 26.4(a)(4), the following onsite maintenance activities: Modification, surveillance, post-maintenance testing, and corrective and preventive maintenance.
 
@@ -106,7 +114,7 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Positive result* means, for drug testing, the result reported by a licensee testing facility or HHS-certified laboratory when a specimen contains a drug or drug metabolite equal to or greater than the cutoff concentration. A result reported by an HHS-certified laboratory that a specimen contains a drug or drug metabolite below the cutoff concentration is also a positive result when the laboratory has conducted the special analysis permitted in § 26.163(a)(2). For alcohol testing, a positive result means the result reported by a collection site when the BAC indicated by testing a specimen is equal to or greater than the cutoff concentrations established in this part.
 
-*Potentially disqualifying FFD information* means information demonstrating that an individual has -
+*Potentially disqualifying FFD information* means information demonstrating that an individual has—
 
 (1) Violated a licensee's or other entity's FFD policy;
 
@@ -130,6 +138,10 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Questionable validity* means the results of validity screening or initial validity tests at a licensee testing facility indicating that a urine specimen may be adulterated, substituted, dilute, or invalid.
 
+*Rejected for testing* means the result reported to the MRO by a licensee testing facility or HHS-certified laboratory when no tests can be performed on a specimen.
+
+*Responsible Person* means the person at the HHS-certified laboratory who assumes professional, organizational, educational, and administrative responsibility for the day-to-day management of the HHS-certified laboratory.
+
 *Reviewing official* means an employee of a licensee or other entity specified in § 26.3(a) through (c), who is designated by the licensee or other entity to be responsible for reviewing and evaluating any potentially disqualifying FFD information about an individual, including, but not limited to, the results of a determination of fitness, as defined in § 26.189, in order to determine whether the individual may be granted or maintain authorization.
 
 *Safety-related structures, systems, and components (SSCs)* mean, for the purposes of this part, those structures, systems, and components that are relied on to remain functional during and following design basis events to ensure the integrity of the reactor coolant pressure boundary, the capability to shut down the reactor and maintain it in a safe shutdown condition, or the capability to prevent or mitigate the consequences of accidents that could result in potential offsite exposure comparable to the guidelines in 10 CFR 50.34(a)(1).
@@ -144,7 +156,7 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Substance abuse* means the use, sale, or possession of illegal drugs, or the abuse of prescription and over-the-counter drugs, or the abuse of alcohol.
 
-*Substituted specimen* means a specimen with creatinine and specific gravity values that are so diminished or so divergent that they are not consistent with normal human physiology.
+*Substituted specimen* means a specimen that has been submitted in place of the donor's urine, as evidenced by creatinine and specific gravity values that are outside the physiologically producible ranges of human urine.
 
 *Subversion and subvert the testing process* mean a willful act to avoid being tested or to bring about an inaccurate drug or alcohol test result for oneself or others at any stage of the testing process (including selection and notification of individuals for testing, specimen collection, specimen analysis, and test result reporting), and adulterating, substituting, or otherwise causing a specimen to provide an inaccurate test result.
 
@@ -162,4 +174,4 @@ Link to an amendment published at 87 FR 71455, Nov. 22, 2022.
 
 *Validity screening test lot* means a group of validity screening tests that were made from the same starting material.
 
-[73 FR 17176, Mar. 31, 2008, as amended at 81 FR 86909, Dec. 2, 2016; 83 FR 58464, Nov. 20, 2018]
+[73 FR 17176, Mar. 31, 2008, as amended at 81 FR 86909, Dec. 2, 2016; 83 FR 58464, Nov. 20, 2018; 87 FR 71455, Nov. 22, 2022]

@@ -98,7 +98,7 @@ Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
 
 (4) Other adulterants. Initial tests for other adulterants must include an appropriate calibrator, a control without the compound of interest (*i.e.*, a certified negative control), and a control with the compound of interest at a measurable concentration.
 
-(5) Each analytical run performed to conduct initial validity testing shall include at least one quality control sample that appears to be a donor specimen to the licensee testing facility technicians.
+(5) Each analytical run performed to conduct initial validity testing shall include at least one quality control sample.
 
 (6) The licensee testing facility shall also submit at least one specimen out of every 10 donor specimens that test negative on the initial validity tests performed by the licensee testing facility to an HHS-certified laboratory as part of the licensee testing facility's quality assurance program.
 
@@ -112,17 +112,15 @@ Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
 
 (5) To ensure that the rate of false negative drug tests is kept to the minimum that the immunoassay technology supports, licensee testing facilities shall submit to the HHS-certified laboratory a minimum of 5 percent (or at least one) of the donor specimens screened as negative from every analytical run.
 
-(6) A minimum of 10 percent of all specimens in each analytical run of specimens to be initially tested for drugs by the licensee testing facility must be quality control samples, which the licensee testing facility shall use for internal quality control purposes. (These samples are not forwarded to the HHS-certified laboratory for further testing, other than for performance testing of the samples.) Licensee testing facilities shall ensure that quality control samples that are positive for each drug and metabolite for which the FFD program conducts testing are included in at least one analytical run each calendar quarter. The quality control samples for each analytical run must include -
+(6) A minimum of 10 percent of the total specimens in each analytical run of specimens to be initially tested for drugs and drug metabolites by the licensee testing facility must be quality control samples (*i.e.,* calibrators and controls), which the licensee testing facility shall use for internal quality control purposes. (These samples are not forwarded to the HHS-certified laboratory for further testing, other than for performance testing of the samples.) Licensee testing facilities shall ensure that quality control samples that are positive for each drug and drug metabolite for which the FFD program conducts testing are included in at least one analytical run each calendar quarter. The quality control samples for each analytical run must include—
 
-(i) Sample(s) certified by an HHS-certified laboratory to contain no drugs or drug metabolites (*i.e.*, negative urine samples);
+(i) At least one control certified by an HHS-certified laboratory to contain no drug or drug metabolite;
 
-(ii) At least one positive control with drug(s) or drug metabolite(s) targeted at 25 percent above the cutoff;
+(ii) At least one positive control with the drug or drug metabolite targeted at 25 percent above the cutoff;
 
-(iii) At least one positive control with drug(s) or drug metabolite(s) targeted at 25 percent below the cutoff;
+(iii) At least one positive control with the drug or drug metabolite targeted at 75 percent of the cutoff;
 
 (iv) A sufficient number of calibrators to ensure and document the linearity of the assay method over time in the concentration area of the cutoff (after acceptable values are obtained for the known calibrators, those values will be used to calculate sample data); and
-
-(v) At least one positive control, certified to be positive by an HHS-certified laboratory, which appears to be a donor specimen to the licensee testing facility technicians.
 
 (7) Licensee testing facilities shall document the implementation of procedures to ensure that carryover does not contaminate the testing of a donor's specimen.
 
@@ -142,4 +140,4 @@ Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
 
 (h) *Calibrators and controls.* Calibrators and controls must be prepared using pure drug reference materials, stock standard solutions obtained from other laboratories, or standard solutions that are obtained from commercial manufacturers and are properly labeled as to content and concentration. Calibrators and controls may not be prepared from the same stock solution. The standards and controls must be labeled with the following dates: when received; when prepared or opened; when placed in service; and when scheduled for expiration.
 
-[73 FR 17176, Mar. 31, 2008, as amended at 74 FR 38328, Aug. 3, 2009]
+[73 FR 17176, Mar. 31, 2008, as amended at 74 FR 38328, Aug. 3, 2009; 87 FR 71459, Nov. 22, 2022]

@@ -1,15 +1,24 @@
 ##### § 26.133 Cutoff levels for drugs and drug metabolites. #####
 
-Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
+Subject to the provisions of § 26.31(d)(3)(iii), licensees and other entities may specify more stringent cutoff levels for drugs and drug metabolites than those in Table 1 to § 26.133 and, in such cases, may report initial test results for only the more stringent cutoff levels. Otherwise, the following cutoff levels must be used for initial testing of urine specimens to determine whether they are negative or positive for the indicated drugs and drug metabolites:
 
-Subject to the provisions of § 26.31(d)(3)(iii), licensees and other entities may specify more stringent cutoff levels for drugs and drug metabolites than those in the table below and, in such cases, may report initial test results for only the more stringent cutoff levels. Otherwise, the following cutoff levels must be used for initial testing of urine specimens to determine whether they are negative for the indicated drugs and drug metabolites:
+|                                                                               Drugs or drug metabolites                                                                               |Cutoff level  <br/>[nanograms  <br/>(ng)/mL]|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|                                                                                 Marijuana metabolites                                                                                 |                     50                     |
+|                                                                                  Cocaine metabolites                                                                                  |                    150                     |
+|                                                                                       Opioids:                                                                                        |                                            |
+|                                                                             Codeine/Morphine <sup>1</sup>                                                                             |                   2,000                    |
+|                                                                               Hydrocodone/Hydromorphone                                                                               |                    300                     |
+|                                                                                 Oxycodone/Oxymorphone                                                                                 |                    100                     |
+|                                                                                6-acetylmorphine (6-AM)                                                                                |                     10                     |
+|                                                                                  Phencyclidine (PCP)                                                                                  |                     25                     |
+|                                                                              Amphetamines: <sup>2</sup>                                                                               |                                            |
+|                                                                                 AMP/MAMP <sup>3</sup>                                                                                 |                    500                     |
+|                                                                          MDMA <sup>4</sup>/MDA <sup>5</sup>                                                                           |                    500                     |
+|                                                       <sup>1</sup> Morphine is the target analyte for codeine/morphine testing.                                                       |                                            |
+|<sup>2</sup> Either a single initial test kit or multiple initial test kits may be used provided the single test kit detects each target analyte independently at the specified cutoff.|                                            |
+|                                             <sup>3</sup> Methamphetamine (MAMP) is the target analyte for amphetamine (AMP)/MAMP testing.                                             |                                            |
+|                                                                      <sup>4</sup> Methylenedioxymethamphetamine.                                                                      |                                            |
+|                                                                        <sup>5</sup> Methylenedioxyamphetamine.                                                                        |                                            |
 
-Initial Test Cutoff Levels for Drugs and Drug Metabolites
-
-| Drug or metabolites |Cutoff level [nanograms (ng)/mL]|
-|---------------------|--------------------------------|
-|Marijuana metabolites|               50               |
-| Cocaine metabolites |              300               |
-| Opiate metabolites  |              2000              |
-| Phencyclidine (PCP) |               25               |
-|    Amphetamines     |              1000              |
+[87 FR 71459, Nov. 22, 2022]

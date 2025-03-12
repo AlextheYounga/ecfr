@@ -1,5 +1,7 @@
 ##### § 200.30-5 Delegation of authority to Director of Division of Investment Management. #####
 
+Link to an amendment published at 87 FR 78807, Dec. 22, 2022.
+
 Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act of 1934, as amended,
 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Investment Management, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
@@ -27,7 +29,7 @@ Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act 
 
 (ii) Granting the temporary exemption would protect the interests of the investment companies being served by the applicant by allowing time for the orderly consideration of the application for permanent relief or the orderly transition of the applicant's responsibilities to a successor, or both.
 
-(8) To issue -
+(8) To issue—
 
 (i) Notices, pursuant to Rule 0-5(a) (§ 270.0-5(a) of this chapter), with respect to applications for permanent orders under section 9(c) of the Act [15 U.S.C. 80a-9(c)], and, orders, pursuant to paragraph (a)(2) of this section, that exempt conditionally or unconditionally persons from section 9(a) of the Act [15 U.S.C. 80a-9(a)], if, on the basis of the facts then set forth in the application, it appears that:
 

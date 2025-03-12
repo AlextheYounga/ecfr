@@ -1,7 +1,7 @@
 ##### § 26.8 Information collection requirements: OMB approval. #####
 
-Link to an amendment published at 87 FR 71456, Nov. 22, 2022.
-
 (a) The NRC has submitted the information collection requirements contained in this part for approval by the Office of Management and Budget (OMB), as required by the Paperwork Reduction Act (44 U.S.C. 3501 *et seq.*). The NRC may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. OMB has approved the information collection requirements contained in this part under control number 3150-0146.
 
-(b) The approved information collection requirements contained in this part appear in §§ 26.9, 26.27, 26.29, 26.31, 26.33, 26.35, 26.37, 26.39, 26.41, 26.53, 26.55, 26.57, 26.59, 26.61, 26.63, 26.65, 26.67, 26.69, 26.75, 26.77, 26.85, 26.87, 26.89, 26.91, 26.93, 26.95, 26.97, 26.99, 26.101, 26.103, 26.107, 26.109, 26.111, 26.113, 26.115, 26.117, 26.119, 26.125, 26.127, 26.129, 26.135, 26.137, 26.139, 26.153, 26.155, 26.157, 26.159, 26.163, 26.165, 26.167, 26.168, 26.169, 26.183, 26.185, 26.187, 26.189, 26.203, 26.205, 26.207, 26.211, 26.401, 26.403, 26.405, 26.406, 26.407, 26.411, 26.413, 26.415, 26.417, 26.711, 26.713, 26.715, 26.717, 26.719, and 26.821.
+(b) The approved information collection requirements contained in this part appear in §§ 26.9, 26.27, 26.29, 26.31, 26.33, 26.35, 26.37, 26.39, 26.41, 26.53, 26.55, 26.57, 26.59, 26.61, 26.63, 26.65, 26.67, 26.69, 26.75, 26.77, 26.85, 26.87, 26.89, 26.91, 26.93, 26.95, 26.97, 26.99, 26.101, 26.103, 26.107, 26.109, 26.111, 26.113, 26.115, 26.117, 26.119, 26.125, 26.127, 26.129, 26.135, 26.137, 26.139, 26.153, 26.157, 26.159, 26.163, 26.165, 26.167, 26.168, 26.169, 26.183, 26.185, 26.187, 26.189, 26.203, 26.205, 26.207, 26.211, 26.401, 26.403, 26.405, 26.406, 26.407, 26.411, 26.413, 26.415, 26.417, 26.711, 26.713, 26.715, 26.717, 26.719, and 26.821.
+
+[73 FR 17176, Mar. 31, 2008, as amended at 87 FR 71456, Nov. 22, 2022]

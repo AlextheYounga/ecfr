@@ -1,14 +1,12 @@
-##### § 26.153 Using certified laboratories for testing urine specimens. #####
+##### § 26.153 Using certified laboratories for testing specimens. #####
 
-Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
-
-(a) Licensees and other entities who are subject to this part shall use only laboratories certified under the Department of Health and Human Services (HHS) Mandatory Guidelines for Federal Workplace Drug Testing Programs [published in the Federal Register on April 11, 1988 (53 FR 11970), and as amended, June 9, 1994 (59 FR 29908), November 13,1998 (63 FR 63483), and April 13, 2004 (69 FR 19643)] for specimen validity and drug testing, except as permitted under § 26.31(d)(3)(ii). Information concerning the current certification status of laboratories is available from the Division of Workplace Programs, Center for Substance Abuse Prevention, Substance Abuse and Mental Health Services Administration, Room 815, 5600 Fishers Lane, Rockwall 2 Bldg., Rockville, Maryland 20857.
+(a) Licensees and other entities who are subject to this part shall use only HHS-certified laboratories as defined in § 26.5.
 
 (b) HHS-certified laboratories shall have the capability, at the same premises, to perform both initial and confirmatory tests for specimen validity and for each drug and drug metabolite for which the HHS-certified laboratory provides services to the licensee or other entity.
 
 (c) An HHS-certified laboratory may not subcontract and shall perform all work with its own personnel and equipment unless otherwise authorized by the licensee or other entity.
 
-(d) Licensees and other entities shall use only HHS-certified laboratories that agree to follow the same rigorous specimen testing, quality control, and chain-of-custody procedures when testing for more stringent cutoff levels as may be specified by licensees and other entities for the classes of drugs identified in this part, and for any other substances included in the licensees' or other entities' panels.
+(d) Licensees and other entities shall use only HHS-certified laboratories that agree to follow the same rigorous specimen testing, quality control, and chain of custody procedures when testing for more stringent cutoff levels as may be specified by licensees and other entities for the classes of drugs identified in this part, and for any other substances included in the licensees' or other entities' panels.
 
 (e) Before awarding a contract to an HHS-certified laboratory, the licensee or other entity shall ensure that qualified personnel conduct a pre-award inspection and evaluation of the procedural aspects of the laboratory's drug testing operations. However, if an HHS-certified laboratory loses its certification, in whole or in part, a licensee or other entity may immediately begin using another HHS-certified laboratory that is being used by another licensee or entity who is subject to this part, as permitted by § 26.41(g)(5).
 
@@ -26,6 +24,6 @@ Link to an amendment published at 87 FR 71459, Nov. 22, 2022.
 
 (6) The laboratory shall permit representatives of the NRC and any licensee or other entity using the laboratory's services to inspect the laboratory at any time, including unannounced inspections.
 
-(g) If licensees or other entities use a form other than the current Federal custody-and-control form, licensees and other entities shall provide a memorandum to the laboratory explaining why a non-Federal form was used, but must ensure, at a minimum, that the form used contains all the required information on the Federal custody-and-control form.
+(g) If licensees or other entities use a form other than the current Federal CCF, licensees and other entities shall provide a memorandum to the laboratory explaining why a non-Federal CCF was used, but must ensure, at a minimum, that the form used contains all the required information on the Federal CCF.
 
-[73 FR 17176, Mar. 31, 2008, as amended at 74 FR 38328, Aug. 3, 2009]
+[73 FR 17176, Mar. 31, 2008, as amended at 74 FR 38328, Aug. 3, 2009; 87 FR 71459, Nov. 22, 2022]

@@ -1,7 +1,5 @@
 ##### § 26.168 Blind performance testing. #####
 
-Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
-
 (a) Each licensee and other entity shall submit blind performance test samples to the HHS-certified laboratory.
 
 (1) During the initial 90-day period of any contract with an HHS-certified laboratory (not including rewritten or renewed contracts), each licensee or other entity shall submit blind performance test samples to each HHS-certified laboratory with whom it contracts in the amount of at least 20 percent of the total number of specimens submitted (up to a maximum of 100 blind performance test samples) or 30 blind performance test samples, whichever is greater.
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (f) Approximately 10 percent of the blind performance test samples submitted to the laboratory each quarter must be negative, as specified in paragraph (g)(1) of this section.
 
-(g) Licensees and other entities shall use only blind performance test samples that have been certified by the supplier to be -
+(g) Licensees and other entities shall use only blind performance test samples that have been certified by the supplier to be—
 
 (1) Negative. A negative blind performance test sample may not contain a measurable amount of a target drug analyte and must be certified by immunoassay and confirmatory testing;
 
@@ -38,9 +36,9 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (6) Substituted. The substituted blind performance test sample must contain less than 2 mg/dL of creatinine, and the specific gravity must be less than or equal to 1.0010, or equal to or greater than 1.0200.
 
-(h) In order to ensure that blind performance test samples continue to meet the criteria set forth in paragraph (g) of this section, licensees and other entities shall -
+(h) In order to ensure that blind performance test samples continue to meet the criteria set forth in paragraph (g) of this section, licensees and other entities shall—
 
-(1) Ensure that all blind performance test sample lots are placed in service by the supplier only after confirmation by an HHS-certified laboratory, and for no more than 6 months;
+(1) Ensure that all blind performance test sample lots are placed in service by the supplier only after confirmation by an HHS-certified laboratory;
 
 (2) Ensure that the supplier provides the expiration date for each blind performance test sample to ensure that each sample will have the expected value when it is submitted to and tested by a laboratory; and
 
@@ -50,8 +48,8 @@ Link to an amendment published at 87 FR 71462, Nov. 22, 2022.
 
 (1) The licensee or other entity shall submit blind performance test samples to the laboratory using the same channels (*i.e.*, from the licensee's or other entity's collection site or licensee testing facility, as appropriate) through which donors' specimens are sent to the laboratory;
 
-(2) The collector and licensee testing facility personnel, as appropriate, shall use a custody-and-control form, place fictional initials on the specimen bottles' labels/seals, and indicate for the MRO on the MRO's copy that the specimen is a blind performance test sample; and
+(2) The collector and licensee testing facility personnel, as appropriate, shall use a Federal CCF, place fictional initials on the specimen bottles' labels/seals, and indicate for the MRO on the MRO's copy that the specimen is a blind performance test sample; and
 
 (3) The licensee or other entity shall ensure that all blind performance test samples include split samples, when the FFD program includes split specimen procedures.
 
-[73 FR 17176, Mar. 31, 2008, as amended at 81 FR 86909, Dec. 2, 2016]
+[73 FR 17176, Mar. 31, 2008, as amended at 81 FR 86909, Dec. 2, 2016; 87 FR 71462, Nov. 22, 2022]
