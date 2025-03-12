@@ -1,5 +1,7 @@
 ##### § 425.704 Beneficiary-identifiable claims data. #####
 
+Link to an amendment published at 87 FR 70249, Nov. 18, 2022.
+
 Subject to providing the beneficiary with the opportunity to decline data sharing as described in this § 425.708, and subject to having a valid DUA in place, CMS, upon the ACO's request for the data for purposes of evaluating the performance of its ACO participants or its ACO providers/suppliers, conducting quality assessment and improvement activities, and conducting population-based activities relating to improved health, will provide the ACO with beneficiary identifiable claims data for preliminarily prospectively and prospectively assigned beneficiaries and other beneficiaries who receive primary care services from an ACO participant that submits claims for primary care services used to determine the ACO's assigned population under subpart E of this part during the performance year.
 
 (a) If an ACO wishes to receive beneficiary identifiable claims data, it must sign a DUA and it must submit a formal request for data. ACOs may access requested data as often as once per month.

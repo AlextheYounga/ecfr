@@ -1,5 +1,7 @@
 ##### § 410.57 Pneumococcal vaccine and flu vaccine. #####
 
+Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
+
 (a) Medicare Part B pays for pneumococcal vaccine and its administration when reasonable and necessary for the prevention of disease, if the vaccine is ordered by a doctor of medicine or osteopathy.
 
 (b) Medicare Part B pays for the influenza virus vaccine and its administration.

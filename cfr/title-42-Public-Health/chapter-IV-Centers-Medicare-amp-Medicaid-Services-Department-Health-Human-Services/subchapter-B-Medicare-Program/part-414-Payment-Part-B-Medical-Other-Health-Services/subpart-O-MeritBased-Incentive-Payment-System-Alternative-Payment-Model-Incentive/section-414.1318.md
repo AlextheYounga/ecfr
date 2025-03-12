@@ -1,5 +1,7 @@
 ##### § 414.1318 Subgroups. #####
 
+Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
+
 (a) *Eligibility and special status* - (1) *General.* Except as provided under paragraph (a)(2) of this section, for a MIPS payment year, determinations of meeting the low-volume threshold criteria and special status for subgroups are determined at the group level in accordance with §§ 414.1305 and 414.1310.
 
 (2) *Exclusions.* An individual eligible clinician or group that elects to participate in MIPS as a MIPS eligible clinician in accordance with § 414.1310(b)(1)(iii)(A) or (b)(2) is not eligible to participate in a subgroup.

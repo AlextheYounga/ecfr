@@ -1,5 +1,7 @@
 ##### § 425.308 Public reporting and transparency. #####
 
+Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
+
 (a) *ACO public reporting Web page.* Each ACO must create and maintain a dedicated Web page on which it publicly reports the information set forth in paragraph (b) of this section. The ACO must report the address of such Web page to CMS in a form and manner specified by CMS and must notify CMS of changes to the web address in the form and manner specified by CMS.
 
 (b) *Information to be reported.* The ACO must publicly report the following information in a standardized format specified by CMS:

@@ -1,5 +1,7 @@
 ##### § 455.107 Disclosure of affiliations. #####
 
+Link to an amendment published at 87 FR 70249, Nov. 18, 2022.
+
 (a) *Definitions.* For purposes of this section only, the following terms apply to the definition of disclosable event in § 455.101:
 
 (1) “Uncollected debt” only applies to the following:

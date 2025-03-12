@@ -1,5 +1,7 @@
 ##### § 414.502 Definitions. #####
 
+Link to an amendment published at 87 FR 70225, Nov. 18, 2022.
+
 For purposes of this subpart -
 
 *Actual list charge* means the publicly available rate on the first day the new advanced diagnostic laboratory test (ADLT) is obtainable by a patient who is covered by private insurance, or marketed to the public as a test a patient can receive, even if the test has not yet been performed on that date.

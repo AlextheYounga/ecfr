@@ -1,5 +1,7 @@
 ##### § 410.10 Medical and other health services: Included services. #####
 
+Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
+
 Subject to the conditions and limitations specified in this subpart, “medical and other health services” includes the following services:
 
 (a) Physicians' services.

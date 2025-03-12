@@ -1,5 +1,7 @@
 ##### § 424.530 Denial of enrollment in the Medicare program. #####
 
+Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
+
 (a) *Reasons for denial.* CMS may deny a provider's or supplier's enrollment in the Medicare program for the following reasons:
 
 (1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter.

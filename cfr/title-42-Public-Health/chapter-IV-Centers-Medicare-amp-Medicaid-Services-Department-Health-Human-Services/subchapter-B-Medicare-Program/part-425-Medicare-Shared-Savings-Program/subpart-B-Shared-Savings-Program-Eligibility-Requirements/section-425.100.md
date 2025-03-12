@@ -1,5 +1,7 @@
 ##### § 425.100 General. #####
 
+Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
+
 (a) Under the Shared Savings Program, ACO participants may work together to manage and coordinate care for Medicare fee-for-service beneficiaries through an ACO that meets the criteria specified in this part. The ACO must become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
 (b) An ACO is eligible to receive payments for shared savings under subpart G of this part if all of the following conditions are met:

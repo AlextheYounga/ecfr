@@ -6,7 +6,7 @@
 
 (1) 15 percent of a MIPS eligible clinician's final score for MIPS payment year 2019 and for each MIPS payment year thereafter.
 
-(2) [Reserved].
+(2) [Reserved]
 
 (c) The following are the list of subcategories, of which, with the exception of Participation in an APM, include activities for selection by a MIPS eligible clinician or group:
 

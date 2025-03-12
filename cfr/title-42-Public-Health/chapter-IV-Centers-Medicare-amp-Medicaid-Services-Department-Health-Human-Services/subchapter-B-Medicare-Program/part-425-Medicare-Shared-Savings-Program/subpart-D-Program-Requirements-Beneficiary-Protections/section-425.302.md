@@ -1,5 +1,7 @@
 ##### § 425.302 Program requirements for data submission and certifications. #####
 
+Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
+
 (a) *Requirements for data submission and certification.* (1) The ACO, its ACO participants, its ACO providers/suppliers or individuals or other entities performing functions or services related to ACO activities must submit all data and information, including data on measures designated by CMS under § 425.500 or § 425.510, as applicable, in a form and manner specified by CMS.
 
 (2) *Certification of data upon submission.* With respect to data and information that are generated or submitted by the ACO, ACO participants, ACO providers/suppliers, or other individuals or entities performing functions or services related to ACO activities, an individual with the authority to legally bind the individual or entity submitting such data or information must certify the accuracy, completeness, and truthfulness of the data and information to the best of his or her knowledge information and belief.

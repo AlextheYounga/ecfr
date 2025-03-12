@@ -1,5 +1,7 @@
 ##### § 414.904 Average sales price as the basis for payment. #####
 
+Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
+
 (a) *Method of payment.* Payment for a drug furnished on or after January 1, 2005 is based on the lesser of -
 
 (1) The actual charge on the claim for program benefits; or

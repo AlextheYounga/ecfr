@@ -1,5 +1,7 @@
 ##### § 425.310 Marketing requirements. #####
 
+Link to an amendment published at 87 FR 70233, Nov. 18, 2022.
+
 (a) *File and use.* Marketing materials and activities, as defined in § 425.20, may be used or conducted five business days following their submission to CMS if -
 
 (1) The ACO certifies compliance with all the marketing requirements under this section; and

@@ -1,5 +1,7 @@
 ##### § 425.605 Calculation of shared savings and losses under the BASIC track. #####
 
+Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
+
 (a) *General rules.* For each performance year, CMS determines whether the estimated average per capita Medicare Parts A and B fee-for-service expenditures for Medicare fee-for-service beneficiaries assigned to the ACO are above or below the updated benchmark determined under § 425.601. In order to qualify for a shared savings payment under the BASIC track, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare Parts A and B fee-for-service expenditures for its assigned beneficiary population for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
 (1) CMS uses an ACO's prospective HCC risk score to adjust the benchmark for changes in severity and case mix in the assigned beneficiary population between BY3 and the performance year.

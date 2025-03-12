@@ -1,5 +1,7 @@
 ##### § 424.57 Special payment rules for items furnished by DMEPOS suppliers and issuance of DMEPOS supplier billing privileges. #####
 
+Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
+
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 *Accredited DMEPOS suppliers* means suppliers that have been accredited by a recognized independent accreditation organization approved by CMS in accordance with the requirements at § 424.58.

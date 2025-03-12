@@ -1,5 +1,7 @@
 ##### § 410.40 Coverage of ambulance services. #####
 
+Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
+
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 *Non-physician certification statement* means a statement signed and dated by an individual which certifies that the medical necessity provisions of paragraph (e)(1) of this section are met and who meets all of the criteria in paragraphs (i) through (iii) of this definition. The statement need not be a stand-alone document and no specific format or title is required.

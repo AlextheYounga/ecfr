@@ -1,5 +1,7 @@
 ##### § 425.20 Definitions. #####
 
+Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
+
 As used in this part, unless otherwise indicated -
 
 *Accountable care organization* (ACO) means a legal entity that is recognized and authorized under applicable State, Federal, or Tribal law, is identified by a Taxpayer Identification Number (TIN), and is formed by one or more ACO participants(s) that is(are) defined at § 425.102(a) and may also include any other ACO participants described at § 425.102(b).

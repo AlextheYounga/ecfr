@@ -1,43 +1,41 @@
-##### § 1151.6 Committees. #####
+##### § 1151.6 Board meetings. #####
 
-(a) *Executive Committee* - (1) *Establishment.* The Board shall have an Executive Committee to serve as a leadership and coordinating committee. The Executive Committee acts on behalf of the Board in between regularly scheduled Board meetings as necessary and as authorized by delegation of the Board. In addition, the Executive Committee has the following duties and responsibilities:
+(a) *Number.* The Chair shall schedule four meetings of the Board each year starting January 2023, one of which may be a Board sponsored public event outside the Washington, DC area.
 
-(i) To review and consider recommendations and proposals from the various subject matter committees;
+(b) *Timing.* Regular meetings of the Board shall ordinarily be held in January, April, July, and October of each calendar year. The Chair may reschedule a regular meeting of the Board to another date during the month preceding or following the month in which the regularly scheduled meeting was to occur.
 
-(ii) To review and make recommendations to the Board to amend or approve the Board's bylaws; and
+(c) *Manner of conducting meetings.* Two regular Board meetings will be in person, but allow for participation by the Board, liaisons, and members of the public remotely, and two meetings may be entirely remote. The Board shall comply with all legal requirements concerning the manner of conducting meetings, including the requirement to provide reasonable accommodations for Board members, employees, members of the public, and other participants.
 
-(iii) To request and review all committee charters.
+(d) *Agenda.* The Chair establishes the agenda for the meetings, in consultation with the Executive Director as necessary and appropriate. Members or committees may forward submissions for agenda items to the Chair and/or to the Executive Director. Except for items concerning the adoption, amendment, or rescission of the bylaws in this part, an item may be placed before the Board for consideration without the approval of the Chair upon a two-thirds vote of the members present at a Board meeting and any proxies to suspend the rules of order. Items concerning the adoption, amendment, or rescission of the bylaws in this part may be placed on a future Board agenda without the approval of the Chair upon a vote of two-thirds of the membership of the Board (as fixed by statute).
 
-(2) *Chair.* The Vice-Chair of the Board shall serve as Chair of the Executive Committee.
+(e) *Notice.* (1) The Chair shall provide a schedule in writing of Board meetings for the upcoming year at least thirty (30) days prior to the January Board meeting and shall provide to each Board member the agenda and supporting materials for each meeting at least ten (10) work days prior to each meeting. The ten (10) days notice requirement may be waived upon a two-thirds vote by the members present at the Board meeting and any proxies to suspend the rules of order.
 
-(3) *Membership.* The Executive Committee shall be composed of a minimum of six members, three Federal and three public members, which shall include the Chair and the Vice-Chair of the Board, the chairs of each of the subject matter committees, and two at large members. The two at large members shall balance the number of Federal and public members and shall be elected by the Board after the election of the Chair and Vice-Chair of the Board and the chairs of the subject matter committees. In the event that the Board should establish three or more subject matter committees, additional at-large members shall be elected as necessary to balance the Federal and public membership of the committee.
+(2) The public shall receive notice of the dates of meetings for the upcoming year at least thirty (30) days prior to the January Board meeting. Notice may be by publication of the schedule of meetings on the agency's website and/or through any other means by which interested members of the public are likely to access it. The notice shall include a statement that the Board will provide reasonable accommodations, absent an undue burden, that will enable members of the public to participate in meetings.
 
-(4) *Quorum.* A quorum in the Executive Committee shall be a majority of the membership, present at the meeting. In the absence of their Federal member, the liaison may count toward a quorum. If a quorum is not present, a meeting can be held only for the purpose of discussion and no vote may be taken.
+(f) *Cancellation.* The Chair may cancel a regular meeting of the Board by giving written notice of the cancellation at least ten (10) work days prior to the meeting where practical. If the canceled meeting is a public meeting, members of the public will be given notice of its cancelation at the same time as Board members.
 
-(5) *Voting.* (i) The presiding officer shall have the same right to vote as any other member.
+(g) *Special meetings.* The Chair may call special meetings of the Board to deal with important matters arising between regular meetings which require action by the Board prior to the next regular meeting. Voting and discussion shall be limited to the subject matter which necessitated the call of the special meeting. All Board members shall receive reasonable advance notice of the time, place, and purpose of the special meeting. If the special meeting is also a public meeting, members of the public shall be given notice of its occurrence at the same time as Board members, and such notice shall indicate that the Board will provide reasonable accommodations for members of the public to participate in the meeting, absent undue burden.
 
-(ii) On matters subject to Board review, liaisons are permitted to vote in the absence of their Federal member. A majority vote of the members (or liaisons) present at the meeting and any directed or undirected proxies is necessary for action by the committee.
+(h) *Record.* The Executive Director shall maintain a permanent record of the minutes of all meetings and attendance. The Board shall approve the final minutes after all corrections and additions have been incorporated.
 
-(iii) On matters of final action, not subject to Board review, a majority vote of the membership of the committee, present at the meeting or by directed proxy, is necessary for action by the committee. In the absence of their Federal member, liaisons are permitted to cast a directed proxy only.
+(i) *Rules for Board meetings.* Meetings of the Board shall be held in accordance with Robert's Rules of Order, except as otherwise prescribed in the bylaws in this part.
 
-(b) *Subject matter committees* - (1) *Establishment.* The Board may establish or dissolve subject matter committees by a two-thirds vote of the members present and any proxies.
+(j) *Quorum.* (1) A quorum shall be the majority of the membership of the Board (as fixed by statute). A majority of the members required for a quorum shall be public members.
 
-(2) (*2*) *Chair, Vice-Chair.* The Chair and Vice-Chair of a subject matter committee shall be elected by the Board after the election of the Chair and Vice-Chair of the Board. The Chair of a subject matter committee shall serve as a member of the Board's Executive Committee.
+(2) Proxies shall not be counted for purposes of establishing a quorum.
 
-(3) *Membership.* Each subject matter committee shall be comprised of a minimum of seven, and a maximum of nine, members. Except for the Chair of the committee who is elected by the Board, the members of the committee shall be appointed by the Chair of the Board. Members shall serve a term of one year corresponding to that of the Chair of the Board, and continue their duties until their successors have been appointed.
+(3) If a quorum is not present, a meeting shall be held only for the purpose of discussion and no vote may be taken.
 
-(4) *Quorum.* A quorum shall be a majority of the actual membership of the committee. A liaison may represent the Federal member for purposes of a quorum. If a quorum is not present, a meeting shall be held only for the purpose of discussion and no vote may be taken.
+(k) *Voting.* (1) Only Board members may vote.
 
-(5) *Voting.* Directed or undirected proxies are permitted. In the absence of their Federal member, liaisons are permitted to vote on all matters which are subject to review by the full Board. The presiding officer shall have the same right to vote as any other member. A majority vote of the members (or liaisons) present at the meeting and any directed or undirected proxies is necessary for action by the committee.
+(2) Except as otherwise prescribed in the bylaws in this part, a majority vote of the members present and any proxies is necessary for action by the Board.
 
-(c) *Special committees.* The Chair, the Board, the Executive Committee or a subject matter committee may appoint a special committee to carry out a specific task. A special committee shall dissolve upon completion of its task or when dissolved by its creator. A special committee shall be governed by the same rules and procedures applicable to subject matter committees unless other rules or procedures are approved by the creator of the committee.
+(3) The presiding officer shall have the same right to vote as any other member.
 
-(d) *Telecommunications.* A member of a committee shall be considered present at a meeting when he or she participates in person or by conference telephone or similar communication equipment which enables all persons participating in the meeting to communicate with each other.
+(4) Any member may give his or her directed or undirected proxy to any other Board member present at the meeting. Proxies shall be given in writing and submitted to the Chair prior to or at the meeting. A directed proxy shall be voided as to a specific issue if the question on which the vote is eventually taken differs from the question to which the proxy is directed.
 
-(e) *Charter.* With the exception of a Committee of the Whole, each committee shall establish a charter and may establish any additional procedures provided that they do not conflict with the provisions of the bylaws in this part.
+(5) The Board may act on items of business between meetings by notational voting. At the request of the Chair, the Executive Director shall send a written ballot (which may be in the form of electronic mail) to each Board member describing each item submitted for notational voting. If any Board member requests discussion on an item, the ballots shall not be counted and the Chair shall place the item on the next Board meeting agenda for discussion and voting. Notational votes shall ordinarily occur over a period of five (5) business days, but may be extended, at the Chair's discretion, if, at the conclusion of the voting period, an insufficient number of votes have been cast to approve or disapprove an action.
 
-(f) *Procedure.* Committee meetings shall be held in accordance with Robert's Rules of Order, except as otherwise prescribed in the bylaws in this part or committee charters.
+(l) *Telecommunications.* A member of the Board shall be considered present at a meeting when he or she participates in person or by conference telephone or similar communication equipment that enables all persons participating in the meeting to communicate with each other.
 
-(g) *Records.* Committees shall maintain written records of the meetings.
-
-[63 FR 1924, Jan. 13, 1998, as amended at 71 FR 33254, June 8, 2006]
+[87 FR 69170, Nov. 18, 2022]

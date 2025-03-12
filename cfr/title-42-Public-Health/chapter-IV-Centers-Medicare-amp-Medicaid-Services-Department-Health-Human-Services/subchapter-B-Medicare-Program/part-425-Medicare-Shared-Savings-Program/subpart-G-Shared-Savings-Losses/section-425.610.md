@@ -1,5 +1,7 @@
 ##### § 425.610 Calculation of shared savings and losses under the ENHANCED track. #####
 
+Link to an amendment published at 87 FR 70240, Nov. 18, 2022.
+
 (a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.601, § 425.602 or § 425.603. In order to qualify for a shared savings payment under the ENHANCED track, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
 (1) Risk adjustment for ACOs in agreement periods beginning on or before January 1, 2019. CMS does the following to adjust the benchmark each performance year:

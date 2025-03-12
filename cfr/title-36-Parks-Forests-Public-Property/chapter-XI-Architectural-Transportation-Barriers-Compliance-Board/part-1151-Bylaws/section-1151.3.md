@@ -1,11 +1,41 @@
-##### § 1151.3 Officers. #####
+##### § 1151.3 Membership. #####
 
-(a) *Board.* The Board is the governing body of the agency.
+(a) *Public Members.* (1) The Board shall have thirteen members appointed by the President from among members of the general public, at least a majority of whom shall have disabilities.
 
-(b) *Chair, Vice-Chair.* The head of the agency is the Chair of the Board and, in his or her absence or disqualification, the Vice-Chair of the Board. As head of the agency, the Chair represents the Board whenever an applicable Federal statute or regulation imposes a duty or grants a right or authority to the head of the agency and has the authority to act in all matters relating to the operation of the Board. The Chair may delegate any such duties and responsibilities by written delegation of authority. The Chair supervises the Executive Director and evaluates his or her performance and approves performance evaluations of employees who report directly to the Executive Director. The authority to supervise, evaluate and approve performance evaluations of the Executive Director and those employees who report directly to the Executive Director may only be delegated to the Vice-Chair of the Board.
+(2) Members shall be appointed for a term of four years, may be reappointed to one successive term, and thereafter may not be reappointed unless they have not served on the Access board for at least two years prior to their reappointment. Each year, the terms of at least three members of the Board shall expire. A public member may continue to serve following expiration of the member's term if a successor has not been appointed.
 
-(c) *Election, term.* The Chair and the Vice-Chair of the Board shall be elected by a majority of the membership of the Board (as fixed by statute) and serve for terms of one year. Elections shall be held as soon as possible upon completion of the one year term of the Chair and Vice-Chair. If no new Chair or Vice-Chair has been elected at the end of the one-year term, the incumbents shall continue to serve in that capacity until a successor Chair or Vice-Chair has been elected. When the Chair is a public member, the Vice-Chair shall be a Federal member; and when the Chair is a Federal member, the Vice-Chair shall be a public member. Upon the expiration of the term as Chair of a Federal member, the subsequent Chair shall be a public member; and vice versa.
+(b) *Federal Members.* The remaining members of the Board shall be the heads of the following agencies or their designees whose positions are Executive Level IV or higher:
 
-(d) *Executive Director.* The Executive Director is nominated by the Chair and confirmed by the Board. The Executive Director provides administrative leadership, and supervision and management of staff activities in carrying out the policies and decisions of the Board under the direction and supervision of the Chair. The Executive Director has the authority to execute contracts, agreements and other documents necessary for the operation of the Board; hire, fire and promote staff (including temporary or intermittent experts and consultants); procure space, equipment and supplies; and obtain interagency and commercial support services. The Executive Director directs compliance and enforcement activities in accordance with the procedures set forth in 36 CFR part 1150, including issuing citations and determinations not to proceed, conducting negotiations for compliance, entering into agreements for voluntary compliance and performing all other actions authorized by law pertaining to compliance and enforcement not otherwise reserved to the Board.
+(1) The Department of health and Human Services;
 
-(e) *General Counsel.* The General Counsel is nominated by the Chair and confirmed by the Board. The General Counsel is responsible to the Board under the supervision of the Executive Director.
+(2) The Department of Transportation;
+
+(3) The Department of Housing and Urban Development;
+
+(4) The Department of Labor;
+
+(5) The Department of the Interior;
+
+(6) The Department of Defense;
+
+(7) The Department of Justice;
+
+(8) The General Services Administration;
+
+(9) The Department of Veterans Affairs;
+
+(10) The United States Postal Service;
+
+(11) The Department of Education; and
+
+(12) The Department of Commerce.
+
+(c) *Designation of Federal Board Members and Liaisons.* (1) Designation of a Federal Board member other than an agency head shall be made in writing by the agency head or by anyone authorized to provide such designation on behalf of the agency head. The designation may either be of a particular position, an individual, or both. If only a specific person is designated and not the position, a new designation will be required where appointment of another person to fill the position is subsequently made. The designation shall remain in effect for as long as provided for under applicable agency rules, regulations, or policies.
+
+(2) An individual serving in an acting capacity, or who is otherwise temporarily serving, in a position at Executive Level IV or higher may be designated to serve on the Board, subject to any time limitations under applicable law, or under agency rules, regulations, or policies.
+
+(3) Any newly-appointed Federal Board member shall designate in writing a liaison to the Board. A newly appointed Federal Board member may allow an individual previously serving as a liaison to the Board to continue to do so, but must provide a new designation in writing.
+
+(4) Written designation of a Federal Board member or liaison may be in any form (including from a verifiable email address) indicating the identity of the person making the designation and that the person is authorized to do so.
+
+[87 FR 69169, Nov. 18, 2022]

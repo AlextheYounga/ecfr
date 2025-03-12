@@ -1,5 +1,7 @@
 ##### § 414.707 Basis of payment. #####
 
+Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
+
 (a) *Method of payment.* (1) Payment for a drug in calendar year 2004 is based on the lesser of -
 
 (i) The actual charge on the claim for program benefits; or

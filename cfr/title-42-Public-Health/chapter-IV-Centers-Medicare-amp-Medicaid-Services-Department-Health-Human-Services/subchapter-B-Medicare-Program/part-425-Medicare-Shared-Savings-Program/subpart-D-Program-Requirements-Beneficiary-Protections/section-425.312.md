@@ -1,5 +1,7 @@
 ##### § 425.312 Beneficiary notifications. #####
 
+Link to an amendment published at 87 FR 70233, Nov. 18, 2022.
+
 (a) *Notifications to fee-for-service beneficiaries.* (1) An ACO shall ensure that Medicare fee-for-service beneficiaries are notified about all of the following in the manner set forth in paragraph (a)(2) of this section:
 
 (i) That each ACO participant and its ACO providers/suppliers are participating in the Shared Savings Program.

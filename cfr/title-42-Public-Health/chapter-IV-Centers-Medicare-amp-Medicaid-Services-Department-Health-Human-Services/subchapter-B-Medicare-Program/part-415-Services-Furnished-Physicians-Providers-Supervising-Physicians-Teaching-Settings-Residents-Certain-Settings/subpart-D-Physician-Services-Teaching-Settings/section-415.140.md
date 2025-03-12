@@ -1,5 +1,7 @@
 ##### § 415.140 Conditions for payment: Split (or shared) visits. #####
 
+Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Facility setting* for purposes of this section means institutional settings in which payment for services and supplies furnished incident to a physician or practitioner's professional services is prohibited under § 410.26(b)(1) of this subchapter.

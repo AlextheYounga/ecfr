@@ -1,5 +1,7 @@
 ##### § 425.224 Application procedures for renewing ACOs and re-entering ACOs. #####
 
+Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
+
 (a) *General rules.* A renewing ACO or a re-entering ACO may apply to enter a new participation agreement with CMS for participation in the Shared Savings Program.
 
 (1) In order to obtain a determination regarding whether it meets the requirements to participate in the Shared Savings Program, the ACO must submit a complete application in the form and manner and by the deadline specified by CMS.

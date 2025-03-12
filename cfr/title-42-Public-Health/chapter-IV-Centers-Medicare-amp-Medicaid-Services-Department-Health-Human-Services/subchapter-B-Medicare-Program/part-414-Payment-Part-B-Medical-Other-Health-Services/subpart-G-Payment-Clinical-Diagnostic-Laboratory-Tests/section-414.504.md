@@ -1,5 +1,7 @@
 ##### § 414.504 Data reporting requirements. #####
 
+Link to an amendment published at 87 FR 70225, Nov. 18, 2022.
+
 (a) In a data reporting period, a reporting entity must report applicable information for each CDLT furnished by its component applicable laboratories during the corresponding data collection period, as follows -
 
 (1) For CDLTs that are not ADLTs, initially January 1, 2017 and every 3 years beginning January 1, 2022.

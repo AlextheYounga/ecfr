@@ -1,5 +1,7 @@
 ##### § 414.1400 Third party intermediaries. #####
 
+Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
+
 (a) *General.* (1) MIPS data may be submitted on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity by any of the following third party intermediaries:
 
 (i) QCDR;

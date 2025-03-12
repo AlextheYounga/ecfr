@@ -1,5 +1,7 @@
 ##### § 414.902 Definitions. #####
 
+Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
+
 As used in this subpart, unless the context indicates otherwise -
 
 *Approved CAP vendor* means an entity that has been awarded a contract by CMS to participate in the competitive acquisition program under 1847B of the Act.

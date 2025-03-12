@@ -1,8 +1,8 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 87 FR 63649, Oct. 19, 2022.Link to an amendment published at 87 FR 63894, Oct. 20, 2022.
+Link to an amendment published at 87 FR 63894, Oct. 20, 2022.
 
-(a) *General applicability of an AEDM.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.62 may not distribute any basic model of such equipment in commerce unless the manufacturer has determined the energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model, the manufacturer may not knowingly use an AEDM to overrate the efficiency (or underrate the consumption) of the model.
+(a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.65 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.
 
@@ -484,4 +484,106 @@ Link to an amendment published at 87 FR 63649, Oct. 19, 2022.Link to an amendmen
 
 (2) *Consumer boilers.* Rate the standby mode and off mode power consumption of an untested basic model of a consumer boiler using the standby mode and off mode power consumption obtained from a tested basic model as a basis for ratings if all aspects of the electrical components, controls, and design that impact the standby mode power consumption and off mode power consumption are identical.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022]
+(j) *Alternative efficiency determination method (AEDM) for electric motors subject to requirements in subpart B of part 431 of this subchapter* - (1) *Criteria an AEDM must satisfy.* A manufacturer is not permitted to apply an AEDM to a basic model of electric motor to determine its efficiency pursuant to this section unless:
+
+(i) The AEDM is derived from a mathematical model that estimates the energy efficiency characteristics and losses of the basic model as measured by the applicable DOE test procedure and accurately represents the mechanical and electrical characteristics of that basic model; and
+
+(ii) The AEDM is based on engineering or statistical analysis, computer simulation or modeling, or other analytic evaluation of actual performance data.
+
+(iii) The manufacturer has validated the AEDM in accordance with paragraph (i)(2) of this section with basic models that meet the current Federal energy conservation standards (if any).
+
+(2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability by comparing the simulated full-load losses to tested average full-load losses as follows.
+
+(i) *Select basic models.* A manufacturer must select at least five basic models compliant with the energy conservation standards at § 431.25 of this subchapter (if any), in accordance with the criteria paragraphs (i)(2)(i)(A) through (D) of this section. In any instance where it is impossible for a manufacturer to select basic models for testing in accordance with all of these criteria, prioritize the criteria in the order in which they are listed. Within the limits imposed by the criteria, select basic models randomly. In addition, a basic model with a sample size of fewer than five units may not be selected to validate an AEDM.
+
+(A) Two of the basic models must be among the five basic models with the highest unit volumes of production by the manufacturer in the prior 5 years;
+
+(B) No two basic models may have the same horsepower rating;
+
+(C) No two basic models may have the same frame number series; and
+
+(D) Each basic model must have the lowest nominal full-load efficiency among the basic models within the same equipment class.
+
+(ii) *Apply the AEDM to the selected basic models.* Using the AEDM, calculate the simulated full-load losses for each of the selected basic models as follows: hp × (1/simulated full-load efficiency−1), where hp is the horsepower of the basic model.
+
+(iii) *Test at least five units of each of the selected basic models in accordance with § 431.16 of this subchapter.* Use the measured full-load losses for each of the tested units to determine the average of the measured full-load losses for each of the selected basic models.
+
+(iv) *Compare.* The simulated full-load losses for each basic model (as determined under paragraph (i)(2)(ii) of this section) must be greater than or equal to 90 percent of the average of the measured full-load losses (as determined under paragraph (i)(2)(iii) of this section) (*i.e.,* 0.90 × average of the measured full-load losses ≤ simulated full-load losses).
+
+(3) *Verification of an AEDM.* (i) Each manufacturer must periodically select basic models representative of those to which it has applied an AEDM. The manufacturer must select a sufficient number of basic models to ensure the AEDM maintains its accuracy and reliability. For each basic model selected for verification:
+
+(A) Subject at least one unit for each basic model to test in accordance with § 431.16 of this subchapter by an accredited laboratory that meets the requirements of § 429.65(f). If one unit per basic model is selected, the simulated full-load losses for each basic model must be greater than or equal to 90 percent of the measured full-load losses (*i.e.,* 0.90 × the measured full-load losses ≤ simulated full-load losses). If more than one unit per basic model is selected, the simulated full-load losses for each basic model must be greater than or equal to 90 percent of the average of the measured full-load losses (*i.e.,* 0.90 × average of the measured full-load losses ≤ simulated full-load losses); or
+
+(B) Have a certification body recognized under § 429.73 certify the results of the AEDM as accurately representing the basic model's average full-load efficiency. The simulated full-load efficiency for each basic model must be greater than or equal to 90 percent of the certified full-load losses (*i.e.,* 0.90 × certified full-load losses ≤ simulated full-load losses).
+
+(ii) Each manufacturer that has used an AEDM under this section must have available for inspection by the Department of Energy records showing:
+
+(A) The method or methods used to develop the AEDM;
+
+(B) The mathematical model, the engineering or statistical analysis, computer simulation or modeling, and other analytic evaluation of performance data on which the AEDM is based;
+
+(C) Complete test data, product information, and related information that the manufacturer has generated or acquired pursuant to paragraphs (i)(2) and (3) of this section; and
+
+(D) The calculations used to determine the simulated full-load efficiency of each basic model to which the AEDM was applied.
+
+(iii) If requested by the Department, the manufacturer must:
+
+(A) Conduct simulations to predict the performance of particular basic models of electric motors specified by the Department;
+
+(B) Provide analyses of previous simulations conducted by the manufacturer; and/or
+
+(C) Conduct testing of basic models selected by the Department.
+
+(k) *Alternative efficiency determination method (AEDM) for dedicated-purpose pool pump motors subject to requirements in subpart Z of part 431 of this subchapter* - (1) *Criteria an AEDM must satisfy.* A manufacturer is not permitted to apply an AEDM to a basic model of dedicated-purpose pool pump motors, to determine its efficiency pursuant to this section unless:
+
+(i) The AEDM is derived from a mathematical model that estimates the energy efficiency characteristics and losses of the basic model as measured by the applicable DOE test procedure and accurately represents the mechanical and electrical characteristics of that basic model;
+
+(ii) The AEDM is based on engineering or statistical analysis, computer simulation or modeling, or other analytic evaluation of actual performance data; and
+
+(iii) The manufacturer has validated the AEDM in accordance with paragraph (i)(2) of this section with basic models that meet the current Federal energy conservation standards (if any).
+
+(2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability by comparing the simulated full-load losses to tested full-load losses as follows:
+
+(i) *Select basic models.* A manufacturer must select at least five basic models compliant with any relevant energy conservation standards at § 431.485 of this subchapter (if any), in accordance with the criteria paragraphs (j)(2)(i)(A) through (D) of this section. In any instance where it is impossible for a manufacturer to select basic models for testing in accordance with all of these criteria, prioritize the criteria in the order in which they are listed. Within the limits imposed by the criteria, select basic models randomly. In addition, a basic model with a sample size of fewer than five units may not be selected to validate an AEDM.
+
+(A) Two of the basic models must be among the five basic models with the highest unit volumes of production by the manufacturer in the prior 5 years.
+
+(B) No two basic models may have the same total horsepower rating;
+
+(C) No two basic models may have the same speed configuration; and
+
+(D) Each basic model must have the lowest full-load efficiency among the basic models within the same equipment class.
+
+(ii) *Apply the AEDM* to the selected basic models. Using the AEDM, calculate the simulated full-load losses for each of the selected basic models as follows: THP × (1/simulated full-load efficiency−1), where THP is the total horsepower of the basic model.
+
+(iii) *Test at least five units of each of the selected basic models in accordance with § 431.483 of this subchapter.* Use the measured full-load losses for each of the tested units to determine the average of the measured full-load losses for each of the selected basic models.
+
+(iv) *Compare.* The simulated full-load losses for each basic model (paragraph (i)(2)(ii) of this section) must be greater than or equal to 90 percent of the average of the measured full-load losses (paragraph (i)(2)(iii) of this section) (*i.e.,* 0.90 × average of the measured full-load losses ≤ simulated full-load losses).
+
+(3) *Verification of an AEDM.* (i) Each manufacturer must periodically select basic models representative of those to which it has applied an AEDM. The manufacturer must select a sufficient number of basic models to ensure the AEDM maintains its accuracy and reliability. For each basic model selected for verification:
+
+(A) Subject at least one unit to testing in accordance with § 431.483 of this subchapter by an accredited laboratory that meets the requirements of § 429.65(d). If one unit per basic model is selected, the simulated full-load losses for each basic model must be greater than or equal to 90 percent of the measured full-load losses (*i.e.,* 0.90 × the measured full-load losses ≤ simulated full-load losses). If more than one unit per basic model is selected, the simulated full-load losses for each basic model must be greater than or equal to 90 percent of the average measured full-load losses (*i.e.,* 0.90 × average of the measured full-load losses ≤ simulated full-load losses); or
+
+(B) Have a certification body recognized under § 429.73 certify the results of the AEDM accurately represent the basic model's full-load efficiency. The simulated full-load efficiency for each basic model must be greater than or equal to 90 percent of the certified full-load losses (*i.e.,* 0.90 × certified full-load losses ≤ simulated full-load losses).
+
+(ii) Each manufacturer that has used an AEDM under this section must have available for inspection by the Department of Energy records showing:
+
+(A) The method or methods used to develop the AEDM;
+
+(B) The mathematical model, the engineering or statistical analysis, computer simulation or modeling, and other analytic evaluation of performance data on which the AEDM is based;
+
+(C) Complete test data, product information, and related information that the manufacturer has generated or acquired pursuant to paragraphs (i)(2) and (3) of this section; and
+
+(D) The calculations used to determine the simulated full-load efficiency of each basic model to which the AEDM was applied.
+
+(iii) If requested by the Department, the manufacturer must:
+
+(A) Conduct simulations to predict the performance of particular basic models of dedicated-purpose pool pump motors specified by the Department;
+
+(B) Provide analyses of previous simulations conducted by the manufacturer;
+
+(C) Conduct testing of basic models selected by the Department; or
+
+(D) A combination of the foregoing.
+
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022]
